@@ -3,7 +3,7 @@ class AppConstants {
   AppConstants._();
 
   // App information
-  static const String appName = 'Memory Lane';
+  static const String appName = 'Golden Moments';
   static const String appVersion = '1.0.0';
   static const String appDescription = 'A nostalgia-themed memory game for seniors';
 

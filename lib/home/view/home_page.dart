@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:memory_lane/game/view/game_page.dart';
 import 'package:memory_lane/home/cubit/home_cubit.dart';
 import 'package:memory_lane/home/cubit/home_state.dart';
 import 'package:memory_lane/home/view/widgets/daily_packs_section.dart';
@@ -146,8 +147,11 @@ class _LoadedView extends StatelessWidget {
             DailyPacksSection(
               packs: state.dailyPacks,
               onPackTap: (pack) {
-                // TODO: Navigate to game
-                _showPackDialog(context, pack.title);
+                Navigator.of(context).push(
+                  MaterialPageRoute<void>(
+                    builder: (context) => GamePage(gamePack: pack),
+                  ),
+                );
               },
             ),
             const SizedBox(height: AppConstants.largePadding),
@@ -157,11 +161,14 @@ class _LoadedView extends StatelessWidget {
               packs: state.libraryPacks,
               userPreferences: state.userPreferences,
               onPackTap: (pack) {
-                // TODO: Navigate to game or show premium dialog
                 if (pack.isPremium && !state.userPreferences.isPremiumUser) {
                   _showPremiumDialog(context);
                 } else {
-                  _showPackDialog(context, pack.title);
+                  Navigator.of(context).push(
+                    MaterialPageRoute<void>(
+                      builder: (context) => GamePage(gamePack: pack),
+                    ),
+                  );
                 }
               },
             ),
@@ -171,24 +178,8 @@ class _LoadedView extends StatelessWidget {
     );
   }
 
-  void _showPackDialog(BuildContext context, String packTitle) {
-    showDialog(
-      context: context,
-      builder: (context) => AlertDialog(
-        title: Text('Starting $packTitle'),
-        content: const Text('Game will start here!'),
-        actions: [
-          TextButton(
-            onPressed: () => Navigator.of(context).pop(),
-            child: const Text('OK'),
-          ),
-        ],
-      ),
-    );
-  }
-
   void _showPremiumDialog(BuildContext context) {
-    showDialog(
+    showDialog<void>(
       context: context,
       builder: (context) => AlertDialog(
         title: const Text('Premium Content'),
@@ -201,7 +192,7 @@ class _LoadedView extends StatelessWidget {
           ElevatedButton(
             onPressed: () {
               Navigator.of(context).pop();
-              // TODO: Navigate to premium purchase
+              // Navigate to premium purchase would go here
             },
             child: const Text('Upgrade'),
           ),
@@ -224,7 +215,7 @@ class _WelcomeSection extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              'Welcome to Memory Lane!',
+              'Welcome to Golden Moments!',
               style: theme.textTheme.headlineMedium?.copyWith(
                 color: theme.colorScheme.primary,
                 fontWeight: FontWeight.bold,

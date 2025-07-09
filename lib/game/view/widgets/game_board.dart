@@ -1,0 +1,69 @@
+import 'package:flutter/material.dart';
+import 'package:memory_lane/game/models/models.dart';
+import 'package:memory_lane/game/view/widgets/memory_tile.dart';
+import 'package:memory_lane/shared/constants/app_constants.dart';
+
+/// Game board widget that displays the memory tiles in a grid
+class GameBoard extends StatelessWidget {
+  const GameBoard({
+    super.key,
+    required this.tiles,
+    required this.difficulty,
+    required this.onTileTap,
+  });
+
+  final List<GameTile> tiles;
+  final GameDifficulty difficulty;
+  final void Function(String tileId) onTileTap;
+
+  @override
+  Widget build(BuildContext context) {
+    return LayoutBuilder(
+      builder: (context, constraints) {
+        final crossAxisCount = _getCrossAxisCount(difficulty);
+        final aspectRatio = _getAspectRatio(difficulty);
+        
+        return GridView.builder(
+          gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+            crossAxisCount: crossAxisCount,
+            childAspectRatio: aspectRatio,
+            crossAxisSpacing: AppConstants.smallPadding,
+            mainAxisSpacing: AppConstants.smallPadding,
+          ),
+          itemCount: tiles.length,
+          itemBuilder: (context, index) {
+            final tile = tiles[index];
+            return MemoryTile(
+              tile: tile,
+              onTap: () => onTileTap(tile.id),
+            );
+          },
+        );
+      },
+    );
+  }
+
+  /// Get the number of columns based on difficulty
+  int _getCrossAxisCount(GameDifficulty difficulty) {
+    switch (difficulty) {
+      case GameDifficulty.easy:
+        return 3; // 3x4 grid
+      case GameDifficulty.medium:
+        return 4; // 4x4 grid
+      case GameDifficulty.brainy:
+        return 6; // 6x6 grid
+    }
+  }
+
+  /// Get the aspect ratio for tiles based on difficulty
+  double _getAspectRatio(GameDifficulty difficulty) {
+    switch (difficulty) {
+      case GameDifficulty.easy:
+        return 0.8; // Slightly taller than wide
+      case GameDifficulty.medium:
+        return 1.0; // Square
+      case GameDifficulty.brainy:
+        return 1.0; // Square
+    }
+  }
+}
