@@ -5,6 +5,7 @@ import 'package:memory_lane/game/models/game_tile.dart';
 enum GameDifficulty {
   easy(gridSize: 3, pairCount: 6, displayName: 'Easy'),
   medium(gridSize: 4, pairCount: 8, displayName: 'Medium'),
+  hard(gridSize: 5, pairCount: 12, displayName: 'Hard'),
   brainy(gridSize: 6, pairCount: 18, displayName: 'Brainy');
 
   const GameDifficulty({
@@ -62,6 +63,39 @@ class GamePack extends Equatable {
 
   /// Optional description of the pack
   final String? description;
+
+  /// Creates a GamePack from JSON data
+  factory GamePack.fromJson(Map<String, dynamic> json) {
+    return GamePack(
+      id: json['id'] as String,
+      title: json['title'] as String,
+      theme: json['theme'] as String,
+      tiles: (json['tiles'] as List<dynamic>? ?? [])
+          .map((tile) => GameTile.fromJson(tile as Map<String, dynamic>))
+          .toList(),
+      difficulty: GameDifficulty.values.firstWhere(
+        (d) => d.name == (json['difficulty'] as String),
+        orElse: () => GameDifficulty.medium,
+      ),
+      isCompleted: json['isCompleted'] as bool? ?? false,
+      isPremium: json['isPremium'] as bool? ?? false,
+      description: json['description'] as String?,
+    );
+  }
+
+  /// Converts this GamePack to JSON data
+  Map<String, dynamic> toJson() {
+    return {
+      'id': id,
+      'title': title,
+      'theme': theme,
+      'tiles': tiles.map((tile) => tile.toJson()).toList(),
+      'difficulty': difficulty.name,
+      'isCompleted': isCompleted,
+      'isPremium': isPremium,
+      if (description != null) 'description': description,
+    };
+  }
 
   /// Creates a copy of this pack with updated properties
   GamePack copyWith({

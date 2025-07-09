@@ -5,10 +5,12 @@ import 'package:memory_lane/game/models/game_tile.dart';
 /// Current status of the game
 enum GameStatus {
   initial,
+  loading,
   playing,
   paused,
   completed,
   failed,
+  requiresDownload,
 }
 
 /// Represents the current state of an active memory game
@@ -23,6 +25,8 @@ class GameState extends Equatable {
     this.startTime,
     this.endTime,
     this.showingMismatch = false,
+    this.errorMessage,
+    this.loadResult,
   });
 
   /// The game pack currently being played
@@ -52,6 +56,12 @@ class GameState extends Equatable {
   /// Whether we're currently showing a mismatch (brief pause)
   final bool showingMismatch;
 
+  /// Error message for failed states
+  final String? errorMessage;
+
+  /// Result of pack loading operation
+  final dynamic loadResult;
+
   /// Whether the game is completed
   bool get isCompleted => matchedPairs == currentPack.difficulty.pairCount;
 
@@ -74,6 +84,8 @@ class GameState extends Equatable {
     DateTime? startTime,
     DateTime? endTime,
     bool? showingMismatch,
+    String? errorMessage,
+    dynamic loadResult,
   }) {
     return GameState(
       currentPack: currentPack ?? this.currentPack,
@@ -85,6 +97,8 @@ class GameState extends Equatable {
       startTime: startTime ?? this.startTime,
       endTime: endTime ?? this.endTime,
       showingMismatch: showingMismatch ?? this.showingMismatch,
+      errorMessage: errorMessage ?? this.errorMessage,
+      loadResult: loadResult ?? this.loadResult,
     );
   }
 
@@ -99,5 +113,7 @@ class GameState extends Equatable {
         startTime,
         endTime,
         showingMismatch,
+        errorMessage,
+        loadResult,
       ];
 }

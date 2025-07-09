@@ -12,7 +12,7 @@
 
  HOW TO USE  
  ```dart
- import 'package:golden_moments/golden_design_system.dart';
+ import 'package:memory_lane/design_system.dart';
 ThemeData theme = gmBuildTheme(brightness: Brightness.light);
 class Home extends StatelessWidget { @override Widget build(BuildContext ctx) => Scaffold( backgroundColor: gmSurf50, body: Center( child: GmPrimaryButton( onTap: () => print('Memories!'), label: 'Start Daily Pack', ), ), ); }
 javascript
@@ -34,6 +34,10 @@ const gmCharcoal50   = Color(0xFFFDF9F0);   // text in dark mode
 const gmGold300      = Color(0xFFFFE08A);
 const gmGold600      = Color(0xFFC99200);
 const gmGold700      = Color(0xFFB07E00);
+
+// Status colors for download indicators
+const gmGreen600     = Color(0xFF4CAF50);
+const gmOrange600    = Color(0xFFFF9800);
 
 // Functional accents
 const gmSapphire500  = Color(0xFF16688C);   // secondary CTAs / focus ring
@@ -109,8 +113,7 @@ ThemeData gmBuildTheme({required Brightness brightness}) {
    onSecondary  : Colors.white,
    error        : gmBrick500,
    onError      : Colors.white,
-   background   : background,
-   onBackground : onSurface,
+
    surface      : surface,
    onSurface    : onSurface,
  );
@@ -161,7 +164,7 @@ class GmPrimaryButton extends StatelessWidget {
    final scheme = Theme.of(context).colorScheme;
    final bool isDisabled = disabled || busy || onTap == null;
    final Color bg = isDisabled
-       ? scheme.primary.withOpacity(.38)
+       ? scheme.primary.withValues(alpha: 0.38)
        : scheme.primary;
    return Semantics(
      button: true,
@@ -366,7 +369,7 @@ class _ConfettiPainter extends CustomPainter {
    final paint = Paint();
    for (int i = 0; i < 30; i++) {
      paint.color = _colors[i % _colors.length]
-         .withOpacity(.8 * (1 - progress));
+         .withValues(alpha: 0.8 * (1 - progress));
      final dx = (i * 53) % s.width;
      final dy = s.height * progress + (i * 37) % 120;
      c.drawCircle(Offset(dx.toDouble(), dy.toDouble()), 4, paint);
@@ -382,7 +385,7 @@ class _ConfettiPainter extends CustomPainter {
 /// 7. ACCESSIBILITY SHORTCUTS
 ///////////////////////////////////////////////////////////////////////////////
 extension GmAccessible on BuildContext {
- bool get isLargeText => MediaQuery.textScaleFactorOf(this) > 1.2;
+ bool get isLargeText => MediaQuery.textScalerOf(this).scale(1) > 1.2;
 }
 
 ///////////////////////////////////////////////////////////////////////////////

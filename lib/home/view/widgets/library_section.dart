@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:memory_lane/design_system.dart';
 import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/shared/constants/app_constants.dart';
 import 'package:memory_lane/shared/widgets/game_pack_card.dart';
 
 /// Section displaying the game library
@@ -31,7 +31,7 @@ class LibrarySection extends StatelessWidget {
               size: 32,
               color: theme.colorScheme.secondary,
             ),
-            const SizedBox(width: AppConstants.smallPadding),
+            const SizedBox(width: gmSpaceSm),
             Text(
               'Library',
               style: theme.textTheme.headlineMedium?.copyWith(
@@ -49,14 +49,14 @@ class LibrarySection extends StatelessWidget {
             ),
           ],
         ),
-        const SizedBox(height: AppConstants.smallPadding),
+        const SizedBox(height: gmSpaceSm),
         Text(
           'Explore our full collection of nostalgic memory games',
           style: theme.textTheme.bodyLarge?.copyWith(
-            color: theme.colorScheme.onSurface.withOpacity(0.7),
+            color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
           ),
         ),
-        const SizedBox(height: AppConstants.defaultPadding),
+        const SizedBox(height: gmSpaceMd),
 
         // Library packs
         if (packs.isEmpty)
@@ -92,7 +92,7 @@ class _PacksList extends StatelessWidget {
     return Column(
       children: displayPacks.map((pack) {
         return Padding(
-          padding: const EdgeInsets.only(bottom: AppConstants.smallPadding),
+          padding: const EdgeInsets.only(bottom: gmSpaceSm),
           child: GamePackCard(
             pack: pack,
             onTap: () => onPackTap(pack),
@@ -115,9 +115,9 @@ class _EmptyState extends StatelessWidget {
       height: 200,
       decoration: BoxDecoration(
         color: theme.colorScheme.surface,
-        borderRadius: BorderRadius.circular(AppConstants.cardBorderRadius),
+        borderRadius: BorderRadius.circular(gmRadiusMd),
         border: Border.all(
-          color: theme.colorScheme.outline.withOpacity(0.3),
+          color: theme.colorScheme.outline.withValues(alpha: 0.3),
         ),
       ),
       child: Center(
@@ -127,20 +127,20 @@ class _EmptyState extends StatelessWidget {
             Icon(
               Icons.library_books_outlined,
               size: 48,
-              color: theme.colorScheme.onSurface.withOpacity(0.5),
+              color: theme.colorScheme.onSurface.withValues(alpha: 0.5),
             ),
-            const SizedBox(height: AppConstants.smallPadding),
+            const SizedBox(height: gmSpaceSm),
             Text(
               'Library is empty',
               style: theme.textTheme.titleMedium?.copyWith(
-                color: theme.colorScheme.onSurface.withOpacity(0.7),
+                color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
               ),
             ),
-            const SizedBox(height: AppConstants.smallPadding),
+            const SizedBox(height: gmSpaceSm),
             Text(
               'New content will be added soon!',
               style: theme.textTheme.bodyMedium?.copyWith(
-                color: theme.colorScheme.onSurface.withOpacity(0.5),
+                color: theme.colorScheme.onSurface.withValues(alpha: 0.5),
               ),
               textAlign: TextAlign.center,
             ),

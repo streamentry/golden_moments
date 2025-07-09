@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:memory_lane/design_system.dart';
 import 'package:memory_lane/game/cubit/game_cubit.dart';
 import 'package:memory_lane/game/models/models.dart';
 import 'package:memory_lane/game/view/widgets/game_board.dart';
 import 'package:memory_lane/game/view/widgets/game_header.dart';
-import 'package:memory_lane/shared/constants/app_constants.dart';
 
 /// Game page for playing memory matching games
 class GamePage extends StatelessWidget {
@@ -55,27 +55,42 @@ class GameView extends StatelessWidget {
           ),
         ],
       ),
-      body: BlocListener<GameCubit, GameState>(
-        listener: (context, state) {
-          if (state.status == GameStatus.completed) {
-            _showCompletionDialog(context, state);
-          }
-        },
-        child: BlocBuilder<GameCubit, GameState>(
-          builder: (context, state) {
-            switch (state.status) {
-              case GameStatus.initial:
-                return const _LoadingView();
-              case GameStatus.playing:
-              case GameStatus.paused:
-                return _GamePlayView(state: state);
-              case GameStatus.completed:
-                return _GamePlayView(state: state);
-              case GameStatus.failed:
-                return _ErrorView(state: state);
-            }
-          },
-        ),
+      body: Stack(
+        children: [
+          BlocListener<GameCubit, GameState>(
+            listener: (context, state) {
+              if (state.status == GameStatus.completed) {
+                _showCompletionDialog(context, state);
+              }
+            },
+            child: BlocBuilder<GameCubit, GameState>(
+              builder: (context, state) {
+                switch (state.status) {
+                  case GameStatus.initial:
+                  case GameStatus.loading:
+                    return const _LoadingView();
+                  case GameStatus.playing:
+                  case GameStatus.paused:
+                    return _GamePlayView(state: state);
+                  case GameStatus.completed:
+                    return _GamePlayView(state: state);
+                  case GameStatus.failed:
+                    return _ErrorView(state: state);
+                  case GameStatus.requiresDownload:
+                    return _RequiresDownloadView(state: state);
+                }
+              },
+            ),
+          ),
+          // Confetti overlay for celebrations
+          BlocBuilder<GameCubit, GameState>(
+            builder: (context, state) {
+              return GmConfettiOverlay(
+                show: state.status == GameStatus.completed,
+              );
+            },
+          ),
+        ],
       ),
     );
   }
@@ -126,7 +141,7 @@ class GameView extends StatelessWidget {
               style: TextStyle(fontSize: 18),
               textAlign: TextAlign.center,
             ),
-            const SizedBox(height: AppConstants.defaultPadding),
+            const SizedBox(height: gmSpaceMd),
             Text(
               'Moves: ${state.moves}',
               style: const TextStyle(fontSize: 16),
@@ -135,7 +150,7 @@ class GameView extends StatelessWidget {
               'Time: $timeText',
               style: const TextStyle(fontSize: 16),
             ),
-            const SizedBox(height: AppConstants.defaultPadding),
+            const SizedBox(height: gmSpaceMd),
             const Text(
               'Did this bring back any memories?',
               style: TextStyle(fontSize: 16),
@@ -144,19 +159,20 @@ class GameView extends StatelessWidget {
           ],
         ),
         actions: [
-          TextButton(
-            onPressed: () {
+          GmOutlineButton(
+            label: 'Play Again',
+            onTap: () {
               Navigator.of(context).pop();
               context.read<GameCubit>().resetGame();
             },
-            child: const Text('Play Again'),
           ),
-          ElevatedButton(
-            onPressed: () {
+          const SizedBox(width: gmSpaceSm),
+          GmPrimaryButton(
+            label: 'Continue',
+            onTap: () {
               Navigator.of(context).pop();
               Navigator.of(context).pop(); // Go back to home
             },
-            child: const Text('Continue'),
           ),
         ],
       ),
@@ -175,7 +191,7 @@ class _LoadingView extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           CircularProgressIndicator(),
-          SizedBox(height: AppConstants.defaultPadding),
+          SizedBox(height: gmSpaceMd),
           Text(
             'Preparing your memory game...',
             style: TextStyle(fontSize: 18),
@@ -202,7 +218,7 @@ class _GamePlayView extends StatelessWidget {
         // Game board
         Expanded(
           child: Padding(
-            padding: const EdgeInsets.all(AppConstants.defaultPadding),
+            padding: const EdgeInsets.all(gmSpaceMd),
             child: GameBoard(
               tiles: state.tiles,
               difficulty: state.currentPack.difficulty,
@@ -217,6 +233,65 @@ class _GamePlayView extends StatelessWidget {
   }
 }
 
+/// Requires download view
+class _RequiresDownloadView extends StatelessWidget {
+  const _RequiresDownloadView({required this.state});
+
+  final GameState state;
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+
+    return Center(
+      child: Padding(
+        padding: const EdgeInsets.all(gmSpaceLg),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Icon(
+              Icons.cloud_download,
+              size: 64,
+              color: theme.colorScheme.primary,
+            ),
+            const SizedBox(height: gmSpaceMd),
+            Text(
+              'Download Required',
+              style: theme.textTheme.headlineSmall?.copyWith(
+                color: theme.colorScheme.onSurface,
+              ),
+              textAlign: TextAlign.center,
+            ),
+            const SizedBox(height: gmSpaceSm),
+            Text(
+              'This pack needs to be downloaded before you can play.',
+              style: theme.textTheme.bodyMedium?.copyWith(
+                color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
+              ),
+              textAlign: TextAlign.center,
+            ),
+            const SizedBox(height: gmSpaceLg),
+            GmPrimaryButton(
+              label: 'Download Pack',
+              onTap: () {
+                // Navigate to pack details or start download
+                Navigator.of(context).pop();
+              },
+            ),
+            const SizedBox(height: gmSpaceMd),
+            GmOutlineButton(
+              label: 'Go Back',
+              onTap: () {
+                Navigator.of(context).pop();
+              },
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
 /// Error state view
 class _ErrorView extends StatelessWidget {
   const _ErrorView({required this.state});
@@ -227,7 +302,7 @@ class _ErrorView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Padding(
-        padding: const EdgeInsets.all(AppConstants.defaultPadding),
+        padding: const EdgeInsets.all(gmSpaceMd),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
@@ -236,29 +311,30 @@ class _ErrorView extends StatelessWidget {
               size: 64,
               color: Colors.red,
             ),
-            const SizedBox(height: AppConstants.defaultPadding),
+            const SizedBox(height: gmSpaceMd),
             Text(
               'Game Error',
               style: Theme.of(context).textTheme.headlineSmall,
               textAlign: TextAlign.center,
             ),
-            const SizedBox(height: AppConstants.smallPadding),
+            const SizedBox(height: gmSpaceSm),
             const Text(
               'Something went wrong with the game. Please try again.',
               textAlign: TextAlign.center,
             ),
-            const SizedBox(height: AppConstants.largePadding),
-            ElevatedButton(
-              onPressed: () {
+            const SizedBox(height: gmSpaceLg),
+            GmPrimaryButton(
+              label: 'Try Again',
+              onTap: () {
                 context.read<GameCubit>().resetGame();
               },
-              child: const Text('Try Again'),
             ),
-            TextButton(
-              onPressed: () {
+            const SizedBox(height: gmSpaceSm),
+            GmOutlineButton(
+              label: 'Go Back',
+              onTap: () {
                 Navigator.of(context).pop();
               },
-              child: const Text('Go Back'),
             ),
           ],
         ),

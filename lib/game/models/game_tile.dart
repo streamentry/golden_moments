@@ -29,6 +29,30 @@ class GameTile extends Equatable {
   /// ID that links this tile to its matching pair
   final String? pairId;
 
+  /// Creates a GameTile from JSON data
+  factory GameTile.fromJson(Map<String, dynamic> json) {
+    return GameTile(
+      id: json['id'] as String,
+      imageUrl: json['imageUrl'] as String,
+      caption: json['caption'] as String,
+      isMatched: json['isMatched'] as bool? ?? false,
+      isRevealed: json['isRevealed'] as bool? ?? false,
+      pairId: json['pairId'] as String?,
+    );
+  }
+
+  /// Converts this GameTile to JSON data
+  Map<String, dynamic> toJson() {
+    return {
+      'id': id,
+      'imageUrl': imageUrl,
+      'caption': caption,
+      'isMatched': isMatched,
+      'isRevealed': isRevealed,
+      if (pairId != null) 'pairId': pairId,
+    };
+  }
+
   /// Creates a copy of this tile with updated properties
   GameTile copyWith({
     String? id,

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:memory_lane/design_system.dart';
 import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/shared/constants/app_constants.dart';
 
 /// Header widget showing game statistics and progress
 class GameHeader extends StatelessWidget {
@@ -19,12 +19,12 @@ class GameHeader extends StatelessWidget {
         : 0.0;
 
     return Container(
-      padding: const EdgeInsets.all(AppConstants.defaultPadding),
+      padding: const EdgeInsets.all(gmSpaceMd),
       decoration: BoxDecoration(
         color: theme.colorScheme.surface,
         boxShadow: [
           BoxShadow(
-            color: theme.colorScheme.shadow.withOpacity(0.1),
+            color: theme.colorScheme.shadow.withValues(alpha: 0.1),
             blurRadius: 4,
             offset: const Offset(0, 2),
           ),
@@ -41,18 +41,19 @@ class GameHeader extends StatelessWidget {
                   fontWeight: FontWeight.w600,
                 ),
               ),
-              const SizedBox(width: AppConstants.smallPadding),
+              const SizedBox(width: gmSpaceSm),
               Expanded(
                 child: LinearProgressIndicator(
                   value: progress,
-                  backgroundColor: theme.colorScheme.outline.withOpacity(0.3),
+                  backgroundColor:
+                      theme.colorScheme.outline.withValues(alpha: 0.3),
                   valueColor: AlwaysStoppedAnimation<Color>(
                     theme.colorScheme.primary,
                   ),
                   minHeight: 8,
                 ),
               ),
-              const SizedBox(width: AppConstants.smallPadding),
+              const SizedBox(width: gmSpaceSm),
               Text(
                 '${state.matchedPairs}/${state.currentPack.difficulty.pairCount}',
                 style: theme.textTheme.titleMedium?.copyWith(
@@ -63,7 +64,7 @@ class GameHeader extends StatelessWidget {
             ],
           ),
           
-          const SizedBox(height: AppConstants.defaultPadding),
+          const SizedBox(height: gmSpaceMd),
           
           // Game stats
           Row(
@@ -123,14 +124,14 @@ class _StatCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       padding: const EdgeInsets.symmetric(
-        horizontal: AppConstants.defaultPadding,
-        vertical: AppConstants.smallPadding,
+        horizontal: gmSpaceMd,
+        vertical: gmSpaceSm,
       ),
       decoration: BoxDecoration(
-        color: theme.colorScheme.primaryContainer.withOpacity(0.3),
-        borderRadius: BorderRadius.circular(AppConstants.buttonBorderRadius),
+        color: theme.colorScheme.primaryContainer.withValues(alpha: 0.3),
+        borderRadius: BorderRadius.circular(gmRadiusMd),
         border: Border.all(
-          color: theme.colorScheme.outline.withOpacity(0.2),
+          color: theme.colorScheme.outline.withValues(alpha: 0.2),
         ),
       ),
       child: Column(
@@ -152,7 +153,7 @@ class _StatCard extends StatelessWidget {
           Text(
             label,
             style: theme.textTheme.bodySmall?.copyWith(
-              color: theme.colorScheme.onSurface.withOpacity(0.7),
+              color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
             ),
           ),
         ],
