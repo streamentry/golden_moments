@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:memory_lane/design_system.dart';
 import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/shared/constants/app_constants.dart';
 import 'package:memory_lane/shared/widgets/game_pack_card.dart';
 
 /// Section displaying daily featured game packs
@@ -29,7 +29,7 @@ class DailyPacksSection extends StatelessWidget {
               size: 32,
               color: theme.colorScheme.primary,
             ),
-            const SizedBox(width: AppConstants.smallPadding),
+            const SizedBox(width: gmSpaceSm),
             Text(
               'Daily Packs',
               style: theme.textTheme.headlineMedium?.copyWith(
@@ -39,14 +39,14 @@ class DailyPacksSection extends StatelessWidget {
             ),
           ],
         ),
-        const SizedBox(height: AppConstants.smallPadding),
+        const SizedBox(height: gmSpaceSm),
         Text(
           'Fresh memory challenges updated daily',
           style: theme.textTheme.bodyLarge?.copyWith(
-            color: theme.colorScheme.onSurface.withOpacity(0.7),
+            color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
           ),
         ),
-        const SizedBox(height: AppConstants.defaultPadding),
+        const SizedBox(height: gmSpaceMd),
 
         // Daily packs grid
         if (packs.isEmpty)
@@ -79,8 +79,8 @@ class _PacksGrid extends StatelessWidget {
       gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
         crossAxisCount: 2,
         childAspectRatio: 0.8,
-        crossAxisSpacing: AppConstants.smallPadding,
-        mainAxisSpacing: AppConstants.smallPadding,
+        crossAxisSpacing: gmSpaceSm,
+        mainAxisSpacing: gmSpaceSm,
       ),
       itemCount: packs.length,
       itemBuilder: (context, index) {
@@ -105,9 +105,9 @@ class _EmptyState extends StatelessWidget {
       height: 200,
       decoration: BoxDecoration(
         color: theme.colorScheme.surface,
-        borderRadius: BorderRadius.circular(AppConstants.cardBorderRadius),
+        borderRadius: BorderRadius.circular(gmRadiusMd),
         border: Border.all(
-          color: theme.colorScheme.outline.withOpacity(0.3),
+          color: theme.colorScheme.outline.withValues(alpha: 0.3),
         ),
       ),
       child: Center(
@@ -117,20 +117,20 @@ class _EmptyState extends StatelessWidget {
             Icon(
               Icons.calendar_today_outlined,
               size: 48,
-              color: theme.colorScheme.onSurface.withOpacity(0.5),
+              color: theme.colorScheme.onSurface.withValues(alpha: 0.5),
             ),
-            const SizedBox(height: AppConstants.smallPadding),
+            const SizedBox(height: gmSpaceSm),
             Text(
               'No daily packs available',
               style: theme.textTheme.titleMedium?.copyWith(
-                color: theme.colorScheme.onSurface.withOpacity(0.7),
+                color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
               ),
             ),
-            const SizedBox(height: AppConstants.smallPadding),
+            const SizedBox(height: gmSpaceSm),
             Text(
               'Check back tomorrow for new content!',
               style: theme.textTheme.bodyMedium?.copyWith(
-                color: theme.colorScheme.onSurface.withOpacity(0.5),
+                color: theme.colorScheme.onSurface.withValues(alpha: 0.5),
               ),
               textAlign: TextAlign.center,
             ),

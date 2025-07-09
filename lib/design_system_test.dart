@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:memory_lane/data/services/cache_test_service.dart';
 import 'package:memory_lane/design_system.dart';
 
 /// Test page to verify the design system works correctly
@@ -85,6 +86,39 @@ class _DesignSystemTestPageState extends State<DesignSystemTestPage> {
                   ),
                   const SizedBox(height: gmSpaceLg),
 
+                  // Cache System Test
+                  Text(
+                    'Cache System Test',
+                    style: Theme.of(context).textTheme.headlineSmall,
+                  ),
+                  const SizedBox(height: gmSpaceSm),
+                  GmPrimaryButton(
+                    label: 'Test JSON Cache System',
+                    onTap: () async {
+                      try {
+                        await CacheTestService.testCacheSystem();
+                        if (context.mounted) {
+                          ScaffoldMessenger.of(context).showSnackBar(
+                            const SnackBar(
+                              content: Text('✅ Cache system test passed!'),
+                              backgroundColor: Colors.green,
+                            ),
+                          );
+                        }
+                      } catch (e) {
+                        if (context.mounted) {
+                          ScaffoldMessenger.of(context).showSnackBar(
+                            SnackBar(
+                              content: Text('❌ Cache test failed: $e'),
+                              backgroundColor: Colors.red,
+                            ),
+                          );
+                        }
+                      }
+                    },
+                  ),
+                  const SizedBox(height: gmSpaceLg),
+
                   // Memory Tile Test
                   Text(
                     'Memory Tile Test',
@@ -162,7 +196,7 @@ class _DesignSystemTestPageState extends State<DesignSystemTestPage> {
           decoration: BoxDecoration(
             color: color,
             borderRadius: BorderRadius.circular(gmRadiusMd),
-            border: Border.all(color: gmCharcoal900.withOpacity(0.2)),
+            border: Border.all(color: gmCharcoal900.withValues(alpha: 0.2)),
           ),
         ),
         const SizedBox(height: gmSpaceXs),

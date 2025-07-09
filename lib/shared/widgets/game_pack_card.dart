@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:memory_lane/design_system.dart';
 import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/shared/constants/app_constants.dart';
+import 'package:memory_lane/shared/widgets/download_progress_card.dart';
 
 /// Card widget for displaying a game pack
 class GamePackCard extends StatelessWidget {
@@ -11,6 +12,8 @@ class GamePackCard extends StatelessWidget {
     this.isHorizontal = false,
     this.showDailyBadge = false,
     this.showPremiumBadge = false,
+    this.downloadStatus,
+    this.downloadProgress,
   });
 
   final GamePack pack;
@@ -18,6 +21,8 @@ class GamePackCard extends StatelessWidget {
   final bool isHorizontal;
   final bool showDailyBadge;
   final bool showPremiumBadge;
+  final PackDownloadStatus? downloadStatus;
+  final double? downloadProgress;
 
   @override
   Widget build(BuildContext context) {
@@ -46,7 +51,7 @@ class GamePackCard extends StatelessWidget {
                 decoration: BoxDecoration(
                   color: theme.colorScheme.primaryContainer,
                   borderRadius: const BorderRadius.vertical(
-                    top: Radius.circular(AppConstants.cardBorderRadius),
+                    top: Radius.circular(gmRadiusMd),
                   ),
                 ),
                 child: Icon(
@@ -57,15 +62,26 @@ class GamePackCard extends StatelessWidget {
               ),
               // Badges
               Positioned(
-                top: AppConstants.smallPadding,
-                right: AppConstants.smallPadding,
+                top: gmSpaceSm,
+                right: gmSpaceSm,
                 child: _buildBadges(theme),
               ),
+              // Download status badge
+              if (downloadStatus != null)
+                Positioned(
+                  bottom: gmSpaceSm,
+                  left: gmSpaceSm,
+                  child: DownloadStatusBadge(
+                    status: downloadStatus!,
+                    progress: downloadProgress,
+                    size: DownloadBadgeSize.small,
+                  ),
+                ),
               // Completion indicator
               if (pack.isCompleted)
                 Positioned(
-                  bottom: AppConstants.smallPadding,
-                  right: AppConstants.smallPadding,
+                  bottom: gmSpaceSm,
+                  right: gmSpaceSm,
                   child: Container(
                     padding: const EdgeInsets.all(4),
                     decoration: BoxDecoration(
@@ -86,7 +102,7 @@ class GamePackCard extends StatelessWidget {
         Expanded(
           flex: 2,
           child: Padding(
-            padding: const EdgeInsets.all(AppConstants.smallPadding),
+            padding: const EdgeInsets.all(gmSpaceSm),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -102,7 +118,7 @@ class GamePackCard extends StatelessWidget {
                 Text(
                   pack.theme,
                   style: theme.textTheme.bodySmall?.copyWith(
-                    color: theme.colorScheme.onSurface.withOpacity(0.7),
+                    color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
                   ),
                   maxLines: 1,
                   overflow: TextOverflow.ellipsis,
@@ -128,7 +144,7 @@ class GamePackCard extends StatelessWidget {
             decoration: BoxDecoration(
               color: theme.colorScheme.primaryContainer,
               borderRadius: const BorderRadius.horizontal(
-                left: Radius.circular(AppConstants.cardBorderRadius),
+                left: Radius.circular(gmRadiusMd),
               ),
             ),
             child: Stack(
@@ -143,8 +159,8 @@ class GamePackCard extends StatelessWidget {
                 // Completion indicator
                 if (pack.isCompleted)
                   Positioned(
-                    top: AppConstants.smallPadding,
-                    right: AppConstants.smallPadding,
+                    top: gmSpaceSm,
+                    right: gmSpaceSm,
                     child: Container(
                       padding: const EdgeInsets.all(2),
                       decoration: BoxDecoration(
@@ -164,7 +180,7 @@ class GamePackCard extends StatelessWidget {
           // Content
           Expanded(
             child: Padding(
-              padding: const EdgeInsets.all(AppConstants.defaultPadding),
+              padding: const EdgeInsets.all(gmSpaceMd),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
@@ -187,7 +203,7 @@ class GamePackCard extends StatelessWidget {
                   Text(
                     pack.theme,
                     style: theme.textTheme.bodySmall?.copyWith(
-                      color: theme.colorScheme.onSurface.withOpacity(0.7),
+                      color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
                     ),
                     maxLines: 1,
                     overflow: TextOverflow.ellipsis,
@@ -202,7 +218,7 @@ class GamePackCard extends StatelessWidget {
                           child: Text(
                             pack.description!,
                             style: theme.textTheme.bodySmall?.copyWith(
-                              color: theme.colorScheme.onSurface.withOpacity(0.6),
+                              color: theme.colorScheme.onSurface.withValues(alpha: 0.6),
                             ),
                             maxLines: 1,
                             overflow: TextOverflow.ellipsis,
@@ -276,21 +292,20 @@ class GamePackCard extends StatelessWidget {
     switch (pack.difficulty) {
       case GameDifficulty.easy:
         chipColor = Colors.green;
-        break;
       case GameDifficulty.medium:
         chipColor = Colors.orange;
-        break;
+      case GameDifficulty.hard:
+        chipColor = Colors.red;
       case GameDifficulty.brainy:
         chipColor = Colors.red;
-        break;
     }
 
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
       decoration: BoxDecoration(
-        color: chipColor.withOpacity(0.1),
+        color: chipColor.withValues(alpha: 0.1),
         borderRadius: BorderRadius.circular(12),
-        border: Border.all(color: chipColor.withOpacity(0.3)),
+        border: Border.all(color: chipColor.withValues(alpha: 0.3)),
       ),
       child: Text(
         pack.difficulty.displayName,

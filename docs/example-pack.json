@@ -1,0 +1,64 @@
+{
+  "id": "flowers_garden_spring",
+  "title": "Spring Garden Flowers",
+  "description": "Beautiful spring flowers that bring back memories of gardening and nature walks",
+  "theme": "Spring Blooms",
+  "category": "flowers",
+  "difficulty": "easy",
+  "isPremium": false,
+  "isFeatured": true,
+  "imageCount": 8,
+  "estimatedSize": "2.4 MB",
+  "version": "1.0.0",
+  "createdAt": "2025-01-09T16:00:00Z",
+  "updatedAt": "2025-01-09T16:00:00Z",
+  "tags": ["flowers", "spring", "garden", "nature", "colorful"],
+  "thumbnailUrl": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=300&h=200&fit=crop&q=80",
+  "previewImages": [
+    "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=150&h=150&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=150&h=150&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&q=80"
+  ],
+  "images": [
+    {
+      "id": "tulip_red",
+      "url": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=400&h=400&fit=crop&q=80",
+      "caption": "Red Tulips"
+    },
+    {
+      "id": "daffodil_yellow",
+      "url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=400&fit=crop&q=80",
+      "caption": "Yellow Daffodils"
+    },
+    {
+      "id": "rose_pink",
+      "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&q=80",
+      "caption": "Pink Roses"
+    },
+    {
+      "id": "sunflower_bright",
+      "url": "https://images.unsplash.com/photo-1597848212624-e6f9e1d7edb1?w=400&h=400&fit=crop&q=80",
+      "caption": "Bright Sunflower"
+    },
+    {
+      "id": "lavender_purple",
+      "url": "https://images.unsplash.com/photo-1611909023032-2d6b3134ecba?w=400&h=400&fit=crop&q=80",
+      "caption": "Purple Lavender"
+    },
+    {
+      "id": "daisy_white",
+      "url": "https://images.unsplash.com/photo-1574684891174-df6b02ab38d7?w=400&h=400&fit=crop&q=80",
+      "caption": "White Daisies"
+    },
+    {
+      "id": "iris_blue",
+      "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop&q=80",
+      "caption": "Blue Iris"
+    },
+    {
+      "id": "marigold_orange",
+      "url": "https://images.unsplash.com/photo-1595433562696-d6d2d2b55ddf?w=400&h=400&fit=crop&q=80",
+      "caption": "Orange Marigolds"
+    }
+  ]
+}

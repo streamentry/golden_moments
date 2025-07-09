@@ -1,6 +1,7 @@
 import 'dart:math';
 import 'package:bloc/bloc.dart';
 import 'package:memory_lane/game/models/models.dart';
+import 'package:memory_lane/game/services/game_pack_loader.dart';
 import 'package:memory_lane/shared/constants/app_constants.dart';
 
 /// Cubit for managing game state and logic
@@ -16,10 +17,47 @@ class GameCubit extends Cubit<GameState> {
     tiles: [],
   ));
 
+  final GamePackLoader _packLoader = GamePackLoader.instance;
+
+  /// Load and start a new game with offline-first approach
+  Future<void> loadAndStartGame(String packId) async {
+    emit(state.copyWith(status: GameStatus.loading));
+
+    try {
+      final result = await _packLoader.loadGamePack(packId);
+
+      if (result.isSuccess && result.gamePack != null) {
+        startGame(result.gamePack!);
+
+        // Emit additional metadata about the load
+        if (result.isFromCache) {
+          // Pack loaded from cache - fully offline
+        } else if (result.requiresDownload) {
+          // Pack requires download - show download UI
+          emit(state.copyWith(
+            status: GameStatus.requiresDownload,
+            loadResult: result,
+          ));
+          return;
+        }
+      } else {
+        emit(state.copyWith(
+          status: GameStatus.failed,
+          errorMessage: result.error ?? 'Failed to load pack',
+        ));
+      }
+    } catch (e) {
+      emit(state.copyWith(
+        status: GameStatus.failed,
+        errorMessage: 'Error loading pack: $e',
+      ));
+    }
+  }
+
   /// Start a new game with the given pack
   void startGame(GamePack pack) {
     final shuffledTiles = _shuffleTiles(pack.tiles);
-    
+
     emit(GameState(
       currentPack: pack,
       tiles: shuffledTiles,

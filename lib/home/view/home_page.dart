@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:memory_lane/design_system.dart';
 import 'package:memory_lane/game/view/game_page.dart';
 import 'package:memory_lane/home/cubit/home_cubit.dart';
 import 'package:memory_lane/home/cubit/home_state.dart';
 import 'package:memory_lane/home/view/widgets/daily_packs_section.dart';
 import 'package:memory_lane/home/view/widgets/library_section.dart';
-import 'package:memory_lane/shared/constants/app_constants.dart';
 
 /// Home page of the Memory Lane app
 class HomePage extends StatelessWidget {
@@ -28,7 +28,7 @@ class HomeView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text(AppConstants.appName),
+        title: const Text('Golden Moments'),
         actions: [
           IconButton(
             icon: const Icon(Icons.settings),
@@ -67,7 +67,7 @@ class _LoadingView extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           CircularProgressIndicator(),
-          SizedBox(height: AppConstants.defaultPadding),
+          SizedBox(height: gmSpaceMd),
           Text(
             'Loading your memory games...',
             style: TextStyle(fontSize: 18),
@@ -88,7 +88,7 @@ class _ErrorView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Padding(
-        padding: const EdgeInsets.all(AppConstants.defaultPadding),
+        padding: const EdgeInsets.all(gmSpaceMd),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
@@ -97,24 +97,24 @@ class _ErrorView extends StatelessWidget {
               size: 64,
               color: Colors.red,
             ),
-            const SizedBox(height: AppConstants.defaultPadding),
+            const SizedBox(height: gmSpaceMd),
             Text(
               'Oops! Something went wrong',
               style: Theme.of(context).textTheme.headlineSmall,
               textAlign: TextAlign.center,
             ),
-            const SizedBox(height: AppConstants.smallPadding),
+            const SizedBox(height: gmSpaceSm),
             Text(
-              message ?? AppConstants.genericErrorMessage,
+              message ?? 'Something went wrong. Please try again.',
               style: Theme.of(context).textTheme.bodyLarge,
               textAlign: TextAlign.center,
             ),
-            const SizedBox(height: AppConstants.largePadding),
-            ElevatedButton(
-              onPressed: () {
+            const SizedBox(height: gmSpaceLg),
+            GmPrimaryButton(
+              label: 'Try Again',
+              onTap: () {
                 context.read<HomeCubit>().initialize();
               },
-              child: const Text('Try Again'),
             ),
           ],
         ),
@@ -135,13 +135,13 @@ class _LoadedView extends StatelessWidget {
       onRefresh: () => context.read<HomeCubit>().refreshDailyPacks(),
       child: SingleChildScrollView(
         physics: const AlwaysScrollableScrollPhysics(),
-        padding: const EdgeInsets.all(AppConstants.defaultPadding),
+        padding: const EdgeInsets.all(gmSpaceMd),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             // Welcome message
             _WelcomeSection(),
-            const SizedBox(height: AppConstants.largePadding),
+            const SizedBox(height: gmSpaceLg),
             
             // Daily packs section
             DailyPacksSection(
@@ -154,7 +154,7 @@ class _LoadedView extends StatelessWidget {
                 );
               },
             ),
-            const SizedBox(height: AppConstants.largePadding),
+            const SizedBox(height: gmSpaceLg),
             
             // Library section
             LibrarySection(
@@ -183,18 +183,19 @@ class _LoadedView extends StatelessWidget {
       context: context,
       builder: (context) => AlertDialog(
         title: const Text('Premium Content'),
-        content: const Text(AppConstants.premiumRequiredMessage),
+        content: const Text('This content requires a premium subscription.'),
         actions: [
-          TextButton(
-            onPressed: () => Navigator.of(context).pop(),
-            child: const Text('Cancel'),
+          GmOutlineButton(
+            label: 'Cancel',
+            onTap: () => Navigator.of(context).pop(),
           ),
-          ElevatedButton(
-            onPressed: () {
+          const SizedBox(width: gmSpaceSm),
+          GmPrimaryButton(
+            label: 'Upgrade',
+            onTap: () {
               Navigator.of(context).pop();
               // Navigate to premium purchase would go here
             },
-            child: const Text('Upgrade'),
           ),
         ],
       ),
@@ -210,7 +211,7 @@ class _WelcomeSection extends StatelessWidget {
     
     return Card(
       child: Padding(
-        padding: const EdgeInsets.all(AppConstants.defaultPadding),
+        padding: const EdgeInsets.all(gmSpaceMd),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
@@ -221,7 +222,7 @@ class _WelcomeSection extends StatelessWidget {
                 fontWeight: FontWeight.bold,
               ),
             ),
-            const SizedBox(height: AppConstants.smallPadding),
+            const SizedBox(height: gmSpaceSm),
             Text(
               'Take a nostalgic journey through the past with our memory matching games. Choose from daily featured packs or explore our full library.',
               style: theme.textTheme.bodyLarge,

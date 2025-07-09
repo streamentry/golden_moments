@@ -55,6 +55,14 @@ $ open coverage/index.html
 
 ---
 
+## 📚 Documentation
+
+- [Pack Management Guide](docs/packs.md) - How to add and update memory game packs
+- [Example Pack](docs/example-pack.json) - Sample pack structure
+- [Pack Validation Script](scripts/validate_packs.py) - Validate pack data
+
+---
+
 ## Working with Translations 🌐
 
 This project relies on [flutter_localizations][flutter_localizations_link] and follows the [official internationalization guide for Flutter][internationalization_link].

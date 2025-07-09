@@ -35,6 +35,10 @@ const gmGold300      = Color(0xFFFFE08A);
 const gmGold600      = Color(0xFFC99200);
 const gmGold700      = Color(0xFFB07E00);
 
+// Status colors for download indicators
+const gmGreen600     = Color(0xFF4CAF50);
+const gmOrange600    = Color(0xFFFF9800);
+
 // Functional accents
 const gmSapphire500  = Color(0xFF16688C);   // secondary CTAs / focus ring
 const gmEmerald500   = Color(0xFF2E7D32);   // success / matched

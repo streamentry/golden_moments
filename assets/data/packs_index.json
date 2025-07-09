@@ -1,0 +1,227 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-09T12:00:00Z",
+  "totalPacks": 12,
+  "categories": [
+    {
+      "id": "animals",
+      "name": "Animals",
+      "description": "Cute and friendly animals from around the world",
+      "iconUrl": "https://images.unsplash.com/photo-1574158622682-e40e69881006?w=100&h=100&fit=crop",
+      "packCount": 3
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "description": "Beautiful landscapes and natural scenes",
+      "iconUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=100&h=100&fit=crop",
+      "packCount": 2
+    },
+    {
+      "id": "food",
+      "name": "Food",
+      "description": "Delicious meals and treats",
+      "iconUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=100&h=100&fit=crop",
+      "packCount": 2
+    },
+    {
+      "id": "vintage",
+      "name": "Vintage",
+      "description": "Classic memories from the past",
+      "iconUrl": "https://images.unsplash.com/photo-1493612276216-ee3925520721?w=100&h=100&fit=crop",
+      "packCount": 3
+    },
+    {
+      "id": "flowers",
+      "name": "Flowers",
+      "description": "Beautiful blooms and garden scenes",
+      "iconUrl": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=100&h=100&fit=crop",
+      "packCount": 2
+    }
+  ],
+  "featuredPacks": ["animals_farm", "nature_mountains", "vintage_cars"],
+  "packs": [
+    {
+      "id": "animals_farm",
+      "title": "Farm Animals",
+      "description": "Friendly farm animals that will bring back memories of countryside visits",
+      "theme": "Farm Life",
+      "category": "animals",
+      "difficulty": "easy",
+      "isPremium": false,
+      "isFeatured": true,
+      "imageCount": 8,
+      "estimatedSize": "2.1 MB",
+      "version": "1.0.0",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "updatedAt": "2025-01-01T00:00:00Z",
+      "tags": ["farm", "animals", "countryside", "easy"],
+      "thumbnailUrl": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=300&h=200&fit=crop",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=150&h=150&fit=crop"
+      ],
+      "images": [
+        {
+          "id": "cow_1",
+          "url": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=400&h=400&fit=crop",
+          "caption": "Friendly Cow"
+        },
+        {
+          "id": "pig_1",
+          "url": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=400&h=400&fit=crop",
+          "caption": "Happy Pig"
+        },
+        {
+          "id": "chicken_1",
+          "url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=400&h=400&fit=crop",
+          "caption": "Rooster"
+        },
+        {
+          "id": "sheep_1",
+          "url": "https://images.unsplash.com/photo-1551582045-6ec9c11d8697?w=400&h=400&fit=crop",
+          "caption": "Woolly Sheep"
+        },
+        {
+          "id": "horse_1",
+          "url": "https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?w=400&h=400&fit=crop",
+          "caption": "Beautiful Horse"
+        },
+        {
+          "id": "duck_1",
+          "url": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=400&h=400&fit=crop",
+          "caption": "Duck Family"
+        },
+        {
+          "id": "goat_1",
+          "url": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=400&h=400&fit=crop",
+          "caption": "Curious Goat"
+        },
+        {
+          "id": "rabbit_1",
+          "url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=400&h=400&fit=crop",
+          "caption": "Cute Rabbit"
+        }
+      ]
+    },
+    {
+      "id": "nature_mountains",
+      "title": "Mountain Views",
+      "description": "Breathtaking mountain landscapes and scenic vistas",
+      "theme": "Natural Beauty",
+      "category": "nature",
+      "difficulty": "medium",
+      "isPremium": false,
+      "isFeatured": true,
+      "imageCount": 6,
+      "estimatedSize": "3.2 MB",
+      "version": "1.0.0",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "updatedAt": "2025-01-01T00:00:00Z",
+      "tags": ["mountains", "nature", "landscape", "scenic"],
+      "thumbnailUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=200&fit=crop",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1464822759844-d150baec0494?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1506197603052-3cc9c3a201bd?w=150&h=150&fit=crop"
+      ],
+      "images": [
+        {
+          "id": "mountain_1",
+          "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop",
+          "caption": "Snow-capped Peaks"
+        },
+        {
+          "id": "mountain_2",
+          "url": "https://images.unsplash.com/photo-1464822759844-d150baec0494?w=400&h=400&fit=crop",
+          "caption": "Mountain Lake"
+        },
+        {
+          "id": "mountain_3",
+          "url": "https://images.unsplash.com/photo-1506197603052-3cc9c3a201bd?w=400&h=400&fit=crop",
+          "caption": "Alpine Valley"
+        },
+        {
+          "id": "mountain_4",
+          "url": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=400&h=400&fit=crop",
+          "caption": "Rocky Summit"
+        },
+        {
+          "id": "mountain_5",
+          "url": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=400&h=400&fit=crop",
+          "caption": "Forest Hills"
+        },
+        {
+          "id": "mountain_6",
+          "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&h=400&fit=crop",
+          "caption": "Misty Mountains"
+        }
+      ]
+    },
+    {
+      "id": "vintage_cars",
+      "title": "Classic Cars",
+      "description": "Beautiful vintage automobiles from bygone eras",
+      "theme": "Automotive History",
+      "category": "vintage",
+      "difficulty": "medium",
+      "isPremium": false,
+      "isFeatured": true,
+      "imageCount": 8,
+      "estimatedSize": "2.8 MB",
+      "version": "1.0.0",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "updatedAt": "2025-01-01T00:00:00Z",
+      "tags": ["vintage", "cars", "classic", "automotive"],
+      "thumbnailUrl": "https://images.unsplash.com/photo-1493612276216-ee3925520721?w=300&h=200&fit=crop",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1493612276216-ee3925520721?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=150&h=150&fit=crop"
+      ],
+      "images": [
+        {
+          "id": "vintage_car_1",
+          "url": "https://images.unsplash.com/photo-1493612276216-ee3925520721?w=400&h=400&fit=crop",
+          "caption": "Classic Red Car"
+        },
+        {
+          "id": "vintage_car_2",
+          "url": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=400&h=400&fit=crop",
+          "caption": "Vintage Beetle"
+        },
+        {
+          "id": "vintage_car_3",
+          "url": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=400&h=400&fit=crop",
+          "caption": "Classic Convertible"
+        },
+        {
+          "id": "vintage_car_4",
+          "url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=400&h=400&fit=crop",
+          "caption": "Retro Sports Car"
+        },
+        {
+          "id": "vintage_car_5",
+          "url": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=400&h=400&fit=crop",
+          "caption": "Old Truck"
+        },
+        {
+          "id": "vintage_car_6",
+          "url": "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=400&h=400&fit=crop",
+          "caption": "Classic Sedan"
+        },
+        {
+          "id": "vintage_car_7",
+          "url": "https://images.unsplash.com/photo-1486326658981-ed68abe5868e?w=400&h=400&fit=crop",
+          "caption": "Vintage Roadster"
+        },
+        {
+          "id": "vintage_car_8",
+          "url": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400&h=400&fit=crop",
+          "caption": "Classic Coupe"
+        }
+      ]
+    }
+  ]
+}
