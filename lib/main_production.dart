@@ -1,5 +1,5 @@
-import 'package:memory_lane/app/app.dart';
-import 'package:memory_lane/bootstrap.dart';
+import 'package:golden_moments/app/app.dart';
+import 'package:golden_moments/bootstrap.dart';
 
 void main() {
   bootstrap(() => const App());

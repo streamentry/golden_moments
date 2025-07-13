@@ -1,20 +1,21 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/shared/widgets/game_pack_card.dart';
+import 'package:golden_moments/data/models/category.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/game/models/models.dart';
+import 'package:golden_moments/shared/widgets/category_card.dart';
 
 /// Section displaying the game library
 class LibrarySection extends StatelessWidget {
   const LibrarySection({
-    super.key,
-    required this.packs,
+    required this.categories,
     required this.userPreferences,
     required this.onPackTap,
+    super.key,
   });
 
-  final List<GamePack> packs;
+  final List<Category> categories;
   final UserPreferences userPreferences;
-  final void Function(GamePack pack) onPackTap;
+  final void Function(Category pack) onPackTap;
 
   @override
   Widget build(BuildContext context) {
@@ -59,11 +60,11 @@ class LibrarySection extends StatelessWidget {
         const SizedBox(height: gmSpaceMd),
 
         // Library packs
-        if (packs.isEmpty)
+        if (categories.isEmpty)
           _EmptyState()
         else
           _PacksList(
-            packs: packs,
+            categories: categories,
             userPreferences: userPreferences,
             onPackTap: onPackTap,
           ),
@@ -75,29 +76,29 @@ class LibrarySection extends StatelessWidget {
 /// List layout for library packs
 class _PacksList extends StatelessWidget {
   const _PacksList({
-    required this.packs,
+    required this.categories,
     required this.userPreferences,
     required this.onPackTap,
   });
 
-  final List<GamePack> packs;
+  final List<Category> categories;
   final UserPreferences userPreferences;
-  final void Function(GamePack pack) onPackTap;
+  final void Function(Category pack) onPackTap;
 
   @override
   Widget build(BuildContext context) {
     // Show only first few packs in home view
-    final displayPacks = packs.take(4).toList();
+    final displayCategories = categories.take(3).toList();
 
     return Column(
-      children: displayPacks.map((pack) {
+      children: displayCategories.map((category) {
         return Padding(
           padding: const EdgeInsets.only(bottom: gmSpaceSm),
-          child: GamePackCard(
-            pack: pack,
-            onTap: () => onPackTap(pack),
-            isHorizontal: true,
-            showPremiumBadge: pack.isPremium && !userPreferences.isPremiumUser,
+          child: CategoryCard(
+            category: category,
+            onTap: () => onPackTap(category),
+            // showPremiumBadge:
+            //     category.isPremium && !userPreferences.isPremiumUser,
           ),
         );
       }).toList(),

@@ -1,5 +1,6 @@
 import 'package:equatable/equatable.dart';
-import 'package:memory_lane/game/models/models.dart';
+import 'package:golden_moments/data/models/category.dart';
+import 'package:golden_moments/game/models/models.dart';
 
 /// Status of the home screen
 enum HomeStatus {
@@ -23,10 +24,10 @@ class HomeState extends Equatable {
   final HomeStatus status;
 
   /// Daily featured game packs
-  final List<GamePack> dailyPacks;
+  final List<Pack> dailyPacks;
 
   /// All available game packs in library
-  final List<GamePack> libraryPacks;
+  final List<Category> libraryPacks;
 
   /// User preferences and settings
   final UserPreferences userPreferences;
@@ -37,8 +38,8 @@ class HomeState extends Equatable {
   /// Creates a copy of this state with updated properties
   HomeState copyWith({
     HomeStatus? status,
-    List<GamePack>? dailyPacks,
-    List<GamePack>? libraryPacks,
+    List<Pack>? dailyPacks,
+    List<Category>? libraryPacks,
     UserPreferences? userPreferences,
     String? errorMessage,
   }) {
@@ -53,10 +54,10 @@ class HomeState extends Equatable {
 
   @override
   List<Object?> get props => [
-        status,
-        dailyPacks,
-        libraryPacks,
-        userPreferences,
-        errorMessage,
-      ];
+    status,
+    dailyPacks,
+    libraryPacks,
+    userPreferences,
+    errorMessage,
+  ];
 }

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/design_system.dart';
+import 'package:golden_moments/design_system.dart';
 
 /// Grid widget for displaying pack categories
 class PackCategoryGrid extends StatelessWidget {

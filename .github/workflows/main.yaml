@@ -1,4 +1,4 @@
-name: memory_lane
+name: golden_moments
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}

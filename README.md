@@ -100,7 +100,7 @@ This project relies on [flutter_localizations][flutter_localizations_link] and f
 3. Use the new string
 
 ```dart
-import 'package:memory_lane/l10n/l10n.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 @override
 Widget build(BuildContext context) {
@@ -182,4 +182,5 @@ Alternatively, run `flutter run` and code generation will take place automatical
 [very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
 [very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
 [very_good_cli_link]: https://github.com/VeryGoodOpenSource/very_good_cli
-# memory_lane
+
+# golden_moments

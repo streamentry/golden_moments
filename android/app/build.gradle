@@ -29,17 +29,17 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace "com.example.verygoodcore.memory_lane"
+    namespace "com.mindfulness.golden_moments"
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_1_8
-        targetCompatibility = JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
     }
 
     kotlinOptions {
-        jvmTarget = JavaVersion.VERSION_1_8
+        jvmTarget = '17'
     }
 
     sourceSets {
@@ -75,22 +75,22 @@ android {
         }
     }
 
-    flavorDimensions "default"
+    flavorDimensions "env"
     productFlavors { 
         production {
-            dimension "default"
+            dimension "env"
             applicationIdSuffix ""
-            manifestPlaceholders = [appName: "Memory Lane"]
+            manifestPlaceholders = [appName: "Golden Moments"]
         }
         staging {
-            dimension "default"
+            dimension "env"
             applicationIdSuffix ".stg"
-            manifestPlaceholders = [appName: "[STG] Memory Lane"]
+            manifestPlaceholders = [appName: "[STG] Golden Moments"]
         }
         development {
-            dimension "default"
+            dimension "env"
             applicationIdSuffix ".dev"
-            manifestPlaceholders = [appName: "[DEV] Memory Lane"]
+            manifestPlaceholders = [appName: "[DEV] Golden Moments"]
         }
     }
 
@@ -111,5 +111,5 @@ flutter {
 }
 
 dependencies {
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.20"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.22"
 }

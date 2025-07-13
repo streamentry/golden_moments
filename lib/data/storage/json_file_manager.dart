@@ -36,7 +36,7 @@ class JsonFileManager {
         // Restore from backup - we'll handle this in the service layer
         return backupData;
       }
-      
+
       // Log error and return null
       print('Error loading JSON file $relativePath: $e');
       return null;
@@ -52,57 +52,51 @@ class JsonFileManager {
     try {
       final filePath = path.join(cacheDirectory, relativePath);
       final file = File(filePath);
-      
+
       // Ensure directory exists
       await file.parent.create(recursive: true);
-      
+
       // Create backup if file exists
-      if (await file.exists()) {
+      if (file.existsSync()) {
         await _createBackup(filePath);
       }
-      
+
       // Atomic write using temporary file
       final tempPath = '$filePath.tmp';
       final tempFile = File(tempPath);
-      
+
       final jsonData = toJson(data);
       final jsonString = const JsonEncoder.withIndent('  ').convert(jsonData);
-      
+
       await tempFile.writeAsString(jsonString);
-      
+
       // Atomic rename
       await tempFile.rename(filePath);
-      
     } catch (e) {
-      print('Error saving JSON file $relativePath: $e');
       rethrow;
     }
   }
 
   /// Check if file exists
-  Future<bool> fileExists(String relativePath) async {
+  bool fileExists(String relativePath) {
     final filePath = path.join(cacheDirectory, relativePath);
-    return File(filePath).exists();
+    return File(filePath).existsSync();
   }
 
   /// Delete file safely
   Future<void> deleteFile(String relativePath) async {
-    try {
-      final filePath = path.join(cacheDirectory, relativePath);
-      final file = File(filePath);
-      
-      if (await file.exists()) {
-        await file.delete();
-      }
-      
-      // Also delete backup if it exists
-      final backupPath = '$filePath.backup';
-      final backupFile = File(backupPath);
-      if (await backupFile.exists()) {
-        await backupFile.delete();
-      }
-    } catch (e) {
-      print('Error deleting file $relativePath: $e');
+    final filePath = path.join(cacheDirectory, relativePath);
+    final file = File(filePath);
+
+    if (file.existsSync()) {
+      await file.delete();
+    }
+
+    // Also delete backup if it exists
+    final backupPath = '$filePath.backup';
+    final backupFile = File(backupPath);
+    if (backupFile.existsSync()) {
+      await backupFile.delete();
     }
   }
 
@@ -118,18 +112,17 @@ class JsonFileManager {
     try {
       final dirPath = path.join(cacheDirectory, relativePath);
       final directory = Directory(dirPath);
-      
-      if (!await directory.exists()) {
+
+      if (!directory.existsSync()) {
         return [];
       }
-      
+
       final files = await directory.list().toList();
       return files
-          .where((entity) => entity is File)
+          .whereType<File>()
           .map((file) => path.basename(file.path))
           .toList();
-    } catch (e) {
-      print('Error listing files in $relativePath: $e');
+    } on Exception {
       return [];
     }
   }
@@ -139,13 +132,12 @@ class JsonFileManager {
     try {
       final filePath = path.join(cacheDirectory, relativePath);
       final file = File(filePath);
-      
-      if (await file.exists()) {
+
+      if (file.existsSync()) {
         return await file.length();
       }
       return 0;
-    } catch (e) {
-      print('Error getting file size for $relativePath: $e');
+    } on Exception {
       return 0;
     }
   }
@@ -155,45 +147,36 @@ class JsonFileManager {
     try {
       final dirPath = path.join(cacheDirectory, relativePath);
       final directory = Directory(dirPath);
-      
-      if (!await directory.exists()) {
+
+      if (!directory.existsSync()) {
         return 0;
       }
-      
-      int totalSize = 0;
+
+      var totalSize = 0;
       await for (final entity in directory.list(recursive: true)) {
         if (entity is File) {
           totalSize += await entity.length();
         }
       }
-      
+
       return totalSize;
-    } catch (e) {
-      print('Error calculating directory size for $relativePath: $e');
+    } on Exception {
       return 0;
     }
   }
 
   /// Clean up temporary files
   Future<void> cleanupTempFiles() async {
-    try {
-      final directory = Directory(cacheDirectory);
-      
-      if (!await directory.exists()) {
-        return;
+    final directory = Directory(cacheDirectory);
+
+    if (!directory.existsSync()) {
+      return;
+    }
+
+    await for (final entity in directory.list(recursive: true)) {
+      if (entity is File && entity.path.endsWith('.tmp')) {
+        await entity.delete();
       }
-      
-      await for (final entity in directory.list(recursive: true)) {
-        if (entity is File && entity.path.endsWith('.tmp')) {
-          try {
-            await entity.delete();
-          } catch (e) {
-            print('Error deleting temp file ${entity.path}: $e');
-          }
-        }
-      }
-    } catch (e) {
-      print('Error cleaning up temp files: $e');
     }
   }
 
@@ -202,28 +185,24 @@ class JsonFileManager {
     try {
       final filePath = path.join(cacheDirectory, relativePath);
       final file = File(filePath);
-      
-      if (!await file.exists()) {
+
+      if (!file.existsSync()) {
         return false;
       }
-      
+
       final content = await file.readAsString();
       jsonDecode(content); // This will throw if invalid JSON
       return true;
-    } catch (e) {
+    } on Exception {
       return false;
     }
   }
 
   /// Create backup of existing file
   Future<void> _createBackup(String filePath) async {
-    try {
-      final file = File(filePath);
-      final backupPath = '$filePath.backup';
-      await file.copy(backupPath);
-    } catch (e) {
-      print('Error creating backup for $filePath: $e');
-    }
+    final file = File(filePath);
+    final backupPath = '$filePath.backup';
+    await file.copy(backupPath);
   }
 
   /// Try to load from backup file
@@ -235,16 +214,15 @@ class JsonFileManager {
       final filePath = path.join(cacheDirectory, relativePath);
       final backupPath = '$filePath.backup';
       final backupFile = File(backupPath);
-      
-      if (!await backupFile.exists()) {
+
+      if (!backupFile.existsSync()) {
         return null;
       }
-      
+
       final content = await backupFile.readAsString();
       final jsonData = jsonDecode(content) as Map<String, dynamic>;
       return fromJson(jsonData);
-    } catch (e) {
-      print('Error loading backup for $relativePath: $e');
+    } on Exception {
       return null;
     }
   }
@@ -254,15 +232,14 @@ class JsonFileManager {
     try {
       // Create main cache directory
       await createDirectory('');
-      
+
       // Create subdirectories
       await createDirectory('packs');
       await createDirectory('images');
-      
+
       // Clean up any temporary files from previous sessions
       await cleanupTempFiles();
-    } catch (e) {
-      print('Error initializing cache structure: $e');
+    } on Exception {
       rethrow;
     }
   }

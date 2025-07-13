@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:memory_lane/game/models/models.dart';
+import 'package:golden_moments/game/models/models.dart';
 
 /// Cached pack data with local file paths and metadata
 class PackCache extends Equatable {
@@ -12,12 +12,23 @@ class PackCache extends Equatable {
     required this.images,
   });
 
-  final String id;
-  final String version;
-  final DateTime downloadedAt;
-  final DateTime expiresAt;
-  final GamePack manifest;
-  final List<CachedImage> images;
+  /// Create a new pack cache with 60-day expiry
+  factory PackCache.create({
+    required String id,
+    required String version,
+    required Pack manifest,
+    List<CachedImage>? images,
+  }) {
+    final now = DateTime.now();
+    return PackCache(
+      id: id,
+      version: version,
+      downloadedAt: now,
+      expiresAt: now.add(const Duration(days: 60)),
+      manifest: manifest,
+      images: images ?? [],
+    );
+  }
 
   factory PackCache.fromJson(Map<String, dynamic> json) {
     return PackCache(
@@ -25,12 +36,19 @@ class PackCache extends Equatable {
       version: json['version'] as String,
       downloadedAt: DateTime.parse(json['downloadedAt'] as String),
       expiresAt: DateTime.parse(json['expiresAt'] as String),
-      manifest: GamePack.fromJson(json['manifest'] as Map<String, dynamic>),
+      manifest: Pack.fromJson(json['manifest'] as Map<String, dynamic>),
       images: (json['images'] as List<dynamic>? ?? [])
           .map((item) => CachedImage.fromJson(item as Map<String, dynamic>))
           .toList(),
     );
   }
+
+  final String id;
+  final String version;
+  final DateTime downloadedAt;
+  final DateTime expiresAt;
+  final Pack manifest;
+  final List<CachedImage> images;
 
   Map<String, dynamic> toJson() {
     return {
@@ -48,7 +66,7 @@ class PackCache extends Equatable {
     String? version,
     DateTime? downloadedAt,
     DateTime? expiresAt,
-    GamePack? manifest,
+    Pack? manifest,
     List<CachedImage>? images,
   }) {
     return PackCache(
@@ -61,35 +79,17 @@ class PackCache extends Equatable {
     );
   }
 
-  /// Create a new pack cache with 60-day expiry
-  factory PackCache.create({
-    required String id,
-    required String version,
-    required GamePack manifest,
-    List<CachedImage>? images,
-  }) {
-    final now = DateTime.now();
-    return PackCache(
-      id: id,
-      version: version,
-      downloadedAt: now,
-      expiresAt: now.add(const Duration(days: 60)),
-      manifest: manifest,
-      images: images ?? [],
-    );
-  }
-
   /// Add or update a cached image
   PackCache addImage(CachedImage image) {
     final updatedImages = List<CachedImage>.from(images);
     final existingIndex = updatedImages.indexWhere((img) => img.id == image.id);
-    
+
     if (existingIndex >= 0) {
       updatedImages[existingIndex] = image;
     } else {
       updatedImages.add(image);
     }
-    
+
     return copyWith(images: updatedImages);
   }
 
@@ -100,7 +100,7 @@ class PackCache extends Equatable {
   }
 
   /// Get downloaded images count
-  int get downloadedImagesCount => 
+  int get downloadedImagesCount =>
       images.where((img) => img.status == ImageCacheStatus.downloaded).length;
 
   /// Get total cache size in bytes
@@ -110,36 +110,36 @@ class PackCache extends Equatable {
   bool get isExpired => DateTime.now().isAfter(expiresAt);
 
   /// Check if all images are downloaded
-  bool get isComplete => downloadedImagesCount >= manifest.tiles.length;
+  bool get isComplete => downloadedImagesCount >= manifest.images.length;
 
   /// Get download progress (0.0 to 1.0)
   double get downloadProgress {
-    if (manifest.tiles.isEmpty) return 1.0;
-    return downloadedImagesCount / manifest.tiles.length;
+    if (manifest.images.isEmpty) return 1;
+    return downloadedImagesCount / manifest.images.length;
   }
 
   /// Get cached image by ID
   CachedImage? getImage(String imageId) {
     try {
       return images.firstWhere((img) => img.id == imageId);
-    } catch (e) {
+    } on Exception {
       return null;
     }
   }
 
   /// Get all downloaded images
-  List<CachedImage> get downloadedImages => 
+  List<CachedImage> get downloadedImages =>
       images.where((img) => img.status == ImageCacheStatus.downloaded).toList();
 
   @override
   List<Object?> get props => [
-        id,
-        version,
-        downloadedAt,
-        expiresAt,
-        manifest,
-        images,
-      ];
+    id,
+    version,
+    downloadedAt,
+    expiresAt,
+    manifest,
+    images,
+  ];
 }
 
 /// Cached image with local file path and metadata
@@ -160,19 +160,36 @@ class CachedImage extends Equatable {
     required this.status,
   });
 
-  final String id;
-  final String filename;
-  final String caption;
-  final String altText;
-  final String localPath;
-  final String? thumbnailPath;
-  final String downloadUrl;
-  final int size;
-  final String dimensions;
-  final String format;
-  final String checksum;
-  final DateTime downloadedAt;
-  final ImageCacheStatus status;
+  /// Create a new cached image entry
+  factory CachedImage.create({
+    required String id,
+    required String filename,
+    required String caption,
+    required String altText,
+    required String localPath,
+    required String downloadUrl,
+    required int size,
+    required String dimensions,
+    required String format,
+    required String checksum,
+    String? thumbnailPath,
+  }) {
+    return CachedImage(
+      id: id,
+      filename: filename,
+      caption: caption,
+      altText: altText,
+      localPath: localPath,
+      thumbnailPath: thumbnailPath,
+      downloadUrl: downloadUrl,
+      size: size,
+      dimensions: dimensions,
+      format: format,
+      checksum: checksum,
+      downloadedAt: DateTime.now(),
+      status: ImageCacheStatus.downloaded,
+    );
+  }
 
   factory CachedImage.fromJson(Map<String, dynamic> json) {
     return CachedImage(
@@ -191,6 +208,20 @@ class CachedImage extends Equatable {
       status: ImageCacheStatus.fromString(json['status'] as String),
     );
   }
+
+  final String id;
+  final String filename;
+  final String caption;
+  final String altText;
+  final String localPath;
+  final String? thumbnailPath;
+  final String downloadUrl;
+  final int size;
+  final String dimensions;
+  final String format;
+  final String checksum;
+  final DateTime downloadedAt;
+  final ImageCacheStatus status;
 
   Map<String, dynamic> toJson() {
     return {
@@ -242,37 +273,6 @@ class CachedImage extends Equatable {
     );
   }
 
-  /// Create a new cached image entry
-  factory CachedImage.create({
-    required String id,
-    required String filename,
-    required String caption,
-    required String altText,
-    required String localPath,
-    String? thumbnailPath,
-    required String downloadUrl,
-    required int size,
-    required String dimensions,
-    required String format,
-    required String checksum,
-  }) {
-    return CachedImage(
-      id: id,
-      filename: filename,
-      caption: caption,
-      altText: altText,
-      localPath: localPath,
-      thumbnailPath: thumbnailPath,
-      downloadUrl: downloadUrl,
-      size: size,
-      dimensions: dimensions,
-      format: format,
-      checksum: checksum,
-      downloadedAt: DateTime.now(),
-      status: ImageCacheStatus.downloaded,
-    );
-  }
-
   /// Check if image file exists locally
   bool get isAvailable => status == ImageCacheStatus.downloaded;
 
@@ -281,20 +281,20 @@ class CachedImage extends Equatable {
 
   @override
   List<Object?> get props => [
-        id,
-        filename,
-        caption,
-        altText,
-        localPath,
-        thumbnailPath,
-        downloadUrl,
-        size,
-        dimensions,
-        format,
-        checksum,
-        downloadedAt,
-        status,
-      ];
+    id,
+    filename,
+    caption,
+    altText,
+    localPath,
+    thumbnailPath,
+    downloadUrl,
+    size,
+    dimensions,
+    format,
+    checksum,
+    downloadedAt,
+    status,
+  ];
 }
 
 /// Image cache status enumeration

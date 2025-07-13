@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:memory_lane/data/services/connectivity_service.dart';
-import 'package:memory_lane/design_system.dart';
+import 'package:golden_moments/data/services/connectivity_service.dart';
+import 'package:golden_moments/design_system.dart';
 
 /// Widget that displays connectivity status and offline indicators
 class OfflineIndicator extends StatefulWidget {

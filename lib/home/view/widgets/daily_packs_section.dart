@@ -1,18 +1,18 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/shared/widgets/game_pack_card.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/game/models/models.dart';
+import 'package:golden_moments/shared/widgets/pack_card.dart';
 
 /// Section displaying daily featured game packs
 class DailyPacksSection extends StatelessWidget {
   const DailyPacksSection({
-    super.key,
     required this.packs,
     required this.onPackTap,
+    super.key,
   });
 
-  final List<GamePack> packs;
-  final void Function(GamePack pack) onPackTap;
+  final List<Pack> packs;
+  final void Function(Pack pack) onPackTap;
 
   @override
   Widget build(BuildContext context) {
@@ -68,8 +68,8 @@ class _PacksGrid extends StatelessWidget {
     required this.onPackTap,
   });
 
-  final List<GamePack> packs;
-  final void Function(GamePack pack) onPackTap;
+  final List<Pack> packs;
+  final void Function(Pack pack) onPackTap;
 
   @override
   Widget build(BuildContext context) {
@@ -78,14 +78,14 @@ class _PacksGrid extends StatelessWidget {
       physics: const NeverScrollableScrollPhysics(),
       gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
         crossAxisCount: 2,
-        childAspectRatio: 0.8,
+        childAspectRatio: 0.7,
         crossAxisSpacing: gmSpaceSm,
         mainAxisSpacing: gmSpaceSm,
       ),
       itemCount: packs.length,
       itemBuilder: (context, index) {
         final pack = packs[index];
-        return GamePackCard(
+        return PackCard(
           pack: pack,
           onTap: () => onPackTap(pack),
           showDailyBadge: true,

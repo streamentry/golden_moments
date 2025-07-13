@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example.verygoodcore.memory-lane" "\0"
-            VALUE "FileDescription", "memory_lane" "\0"
+            VALUE "CompanyName", "com.mindfulness.golden_moments" "\0"
+            VALUE "FileDescription", "golden_moments" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "memory_lane" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2025 com.example.verygoodcore.memory-lane. All rights reserved." "\0"
-            VALUE "OriginalFilename", "memory_lane.exe" "\0"
-            VALUE "ProductName", "Memory Lane" "\0"
+            VALUE "InternalName", "golden_moments" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 com.mindfulness.golden_moments. All rights reserved." "\0"
+            VALUE "OriginalFilename", "golden_moments.exe" "\0"
+            VALUE "ProductName", "Golden Moments" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

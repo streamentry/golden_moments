@@ -3,20 +3,18 @@ import 'dart:convert';
 import 'dart:io';
 import 'dart:typed_data';
 
+import 'package:golden_moments/data/models/download_error.dart';
+import 'package:golden_moments/shared/constants/cache_constants.dart';
 import 'package:http/http.dart' as http;
-
-import '../../shared/constants/cache_constants.dart';
-import '../models/download_error.dart';
 
 /// HTTP client service with retry logic and timeout handling
 class HttpClientService {
-  HttpClientService._();
-  
-  static HttpClientService? _instance;
-  static HttpClientService get instance => _instance ??= HttpClientService._();
+  factory HttpClientService() => _instance;
+  HttpClientService._internal();
+  static final HttpClientService _instance = HttpClientService._internal();
 
   late final http.Client _client;
-  
+
   /// Initialize the HTTP client
   void initialize() {
     _client = http.Client();
@@ -30,7 +28,7 @@ class HttpClientService {
   /// Download JSON data with retry logic
   Future<Map<String, dynamic>> downloadJson(String url) async {
     final response = await _downloadWithRetry(url);
-    
+
     try {
       final jsonData = jsonDecode(response.body) as Map<String, dynamic>;
       return jsonData;
@@ -45,37 +43,37 @@ class HttpClientService {
     void Function(int downloaded, int total)? onProgress,
   }) async {
     int retryCount = 0;
-    
+
     while (retryCount < CacheConstants.maxRetryAttempts) {
       try {
         final request = http.Request('GET', Uri.parse(url));
         request.headers.addAll(CacheConstants.defaultHeaders);
-        
-        final streamedResponse = await _client.send(request)
+
+        final streamedResponse = await _client
+            .send(request)
             .timeout(CacheConstants.downloadTimeout);
-        
+
         if (streamedResponse.statusCode != 200) {
           throw DownloadError.httpError(
-            url, 
-            streamedResponse.statusCode, 
+            url,
+            streamedResponse.statusCode,
             streamedResponse.reasonPhrase ?? 'Unknown error',
           );
         }
-        
+
         final contentLength = streamedResponse.contentLength ?? 0;
         final bytes = <int>[];
         int downloadedBytes = 0;
-        
+
         await for (final chunk in streamedResponse.stream) {
           bytes.addAll(chunk);
           downloadedBytes += chunk.length;
-          
+
           // Report progress if callback provided
           onProgress?.call(downloadedBytes, contentLength);
         }
-        
+
         return Uint8List.fromList(bytes);
-        
       } on SocketException catch (e) {
         if (retryCount == CacheConstants.maxRetryAttempts - 1) {
           throw DownloadError.networkError(url, e.message);
@@ -93,18 +91,19 @@ class HttpClientService {
           throw DownloadError.unknown(url, e.toString());
         }
       }
-      
+
       retryCount++;
       await _waitForRetry(retryCount);
     }
-    
+
     throw DownloadError.unknown(url, 'Max retries exceeded');
   }
 
   /// Check if URL is accessible
   Future<bool> checkConnectivity(String url) async {
     try {
-      final response = await _client.head(Uri.parse(url))
+      final response = await _client
+          .head(Uri.parse(url))
           .timeout(const Duration(seconds: 5));
       return response.statusCode == 200;
     } catch (e) {
@@ -115,22 +114,23 @@ class HttpClientService {
   /// Get file size from URL without downloading
   Future<int> getFileSize(String url) async {
     try {
-      final response = await _client.head(Uri.parse(url))
+      final response = await _client
+          .head(Uri.parse(url))
           .timeout(const Duration(seconds: 10));
-      
+
       if (response.statusCode != 200) {
         throw DownloadError.httpError(
-          url, 
-          response.statusCode, 
+          url,
+          response.statusCode,
           response.reasonPhrase ?? 'Unknown error',
         );
       }
-      
+
       final contentLength = response.headers['content-length'];
       if (contentLength != null) {
         return int.parse(contentLength);
       }
-      
+
       return 0;
     } catch (e) {
       if (e is DownloadError) rethrow;
@@ -141,14 +141,16 @@ class HttpClientService {
   /// Download with automatic retry logic
   Future<http.Response> _downloadWithRetry(String url) async {
     int retryCount = 0;
-    
+
     while (retryCount < CacheConstants.maxRetryAttempts) {
       try {
-        final response = await _client.get(
-          Uri.parse(url),
-          headers: CacheConstants.defaultHeaders,
-        ).timeout(CacheConstants.downloadTimeout);
-        
+        final response = await _client
+            .get(
+              Uri.parse(url),
+              headers: CacheConstants.defaultHeaders,
+            )
+            .timeout(CacheConstants.downloadTimeout);
+
         if (response.statusCode == 200) {
           return response;
         } else if (response.statusCode == 429) {
@@ -157,19 +159,18 @@ class HttpClientService {
         } else if (response.statusCode >= 400 && response.statusCode < 500) {
           // Client error - don't retry
           throw DownloadError.httpError(
-            url, 
-            response.statusCode, 
+            url,
+            response.statusCode,
             response.reasonPhrase ?? 'Client error',
           );
         } else {
           // Server error - retry
           throw DownloadError.httpError(
-            url, 
-            response.statusCode, 
+            url,
+            response.statusCode,
             response.reasonPhrase ?? 'Server error',
           );
         }
-        
       } on SocketException catch (e) {
         if (retryCount == CacheConstants.maxRetryAttempts - 1) {
           throw DownloadError.networkError(url, e.message);
@@ -188,11 +189,11 @@ class HttpClientService {
           throw DownloadError.unknown(url, e.toString());
         }
       }
-      
+
       retryCount++;
       await _waitForRetry(retryCount);
     }
-    
+
     throw DownloadError.unknown(url, 'Max retries exceeded');
   }
 
@@ -205,8 +206,9 @@ class HttpClientService {
   /// Check if device has internet connection
   Future<bool> hasInternetConnection() async {
     try {
-      final result = await InternetAddress.lookup('google.com')
-          .timeout(const Duration(seconds: 3));
+      final result = await InternetAddress.lookup(
+        'google.com',
+      ).timeout(const Duration(seconds: 3));
       return result.isNotEmpty && result[0].rawAddress.isNotEmpty;
     } catch (e) {
       return false;

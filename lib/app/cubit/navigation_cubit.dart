@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:memory_lane/data/services/download_manager.dart';
+import 'package:golden_moments/data/services/download_manager.dart';
 
 /// Cubit for managing main navigation state
 class NavigationCubit extends Cubit<NavigationState> {
@@ -10,7 +10,7 @@ class NavigationCubit extends Cubit<NavigationState> {
     _initialize();
   }
 
-  final DownloadManager _downloadManager = DownloadManager.instance;
+  final DownloadManager _downloadManager = DownloadManager();
   StreamSubscription? _downloadSubscription;
 
   /// Initialize navigation cubit
@@ -56,8 +56,9 @@ class NavigationCubit extends Cubit<NavigationState> {
     try {
       // In a real implementation, you would get this from the download manager
       // For now, we'll use a placeholder
-      final activeCount = 0; // await _downloadManager.getActiveDownloadsCount();
-      
+      final activeCount =
+          0; // await _downloadManager.getActiveDownloadsCount();
+
       if (activeCount != state.activeDownloadsCount) {
         emit(state.copyWith(activeDownloadsCount: activeCount));
       }
@@ -157,16 +158,17 @@ class NavigationState extends Equatable {
     return NavigationState(
       currentIndex: currentIndex ?? this.currentIndex,
       activeDownloadsCount: activeDownloadsCount ?? this.activeDownloadsCount,
-      hasUnreadNotifications: hasUnreadNotifications ?? this.hasUnreadNotifications,
+      hasUnreadNotifications:
+          hasUnreadNotifications ?? this.hasUnreadNotifications,
     );
   }
 
   @override
   List<Object?> get props => [
-        currentIndex,
-        activeDownloadsCount,
-        hasUnreadNotifications,
-      ];
+    currentIndex,
+    activeDownloadsCount,
+    hasUnreadNotifications,
+  ];
 }
 
 /// Navigation analytics helper

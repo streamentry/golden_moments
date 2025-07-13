@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/game/models/models.dart';
+import 'package:golden_moments/game/models/models.dart';
 
 /// Senior-friendly theme configuration for Memory Lane
 class AppTheme {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/design_system.dart';
+import 'package:golden_moments/design_system.dart';
 
 /// Search bar widget for pack discovery
 class PackSearchBar extends StatefulWidget {

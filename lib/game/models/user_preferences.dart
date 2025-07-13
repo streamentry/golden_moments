@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:memory_lane/game/models/game_pack.dart';
+import 'package:golden_moments/data/models/pack.dart';
 
 /// Font size options for accessibility
 enum FontSize {
@@ -86,7 +86,8 @@ class UserPreferences extends Equatable {
     return UserPreferences(
       fontSize: fontSize ?? this.fontSize,
       voiceEnabled: voiceEnabled ?? this.voiceEnabled,
-      hapticFeedbackEnabled: hapticFeedbackEnabled ?? this.hapticFeedbackEnabled,
+      hapticFeedbackEnabled:
+          hapticFeedbackEnabled ?? this.hapticFeedbackEnabled,
       highContrastMode: highContrastMode ?? this.highContrastMode,
       preferredDifficulty: preferredDifficulty ?? this.preferredDifficulty,
       soundEnabled: soundEnabled ?? this.soundEnabled,
@@ -100,16 +101,16 @@ class UserPreferences extends Equatable {
 
   @override
   List<Object?> get props => [
-        fontSize,
-        voiceEnabled,
-        hapticFeedbackEnabled,
-        highContrastMode,
-        preferredDifficulty,
-        soundEnabled,
-        autoReadCaptions,
-        animationSpeed,
-        completedPacks,
-        isPremiumUser,
-        adFreeEnabled,
-      ];
+    fontSize,
+    voiceEnabled,
+    hapticFeedbackEnabled,
+    highContrastMode,
+    preferredDifficulty,
+    soundEnabled,
+    autoReadCaptions,
+    animationSpeed,
+    completedPacks,
+    isPremiumUser,
+    adFreeEnabled,
+  ];
 }

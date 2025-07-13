@@ -1,42 +1,42 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-01-09T12:00:00Z",
-  "totalPacks": 12,
+  "lastUpdated": "2025-07-10T14:30:00Z",
+  "totalPacks": 4,
   "categories": [
     {
       "id": "animals",
       "name": "Animals",
       "description": "Cute and friendly animals from around the world",
       "iconUrl": "https://images.unsplash.com/photo-1574158622682-e40e69881006?w=100&h=100&fit=crop",
-      "packCount": 3
+      "packCount": 2
     },
     {
       "id": "nature",
       "name": "Nature",
       "description": "Beautiful landscapes and natural scenes",
       "iconUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=100&h=100&fit=crop",
-      "packCount": 2
+      "packCount": 1
     },
     {
       "id": "food",
       "name": "Food",
       "description": "Delicious meals and treats",
       "iconUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=100&h=100&fit=crop",
-      "packCount": 2
+      "packCount": 0
     },
     {
       "id": "vintage",
       "name": "Vintage",
       "description": "Classic memories from the past",
       "iconUrl": "https://images.unsplash.com/photo-1493612276216-ee3925520721?w=100&h=100&fit=crop",
-      "packCount": 3
+      "packCount": 1
     },
     {
       "id": "flowers",
       "name": "Flowers",
       "description": "Beautiful blooms and garden scenes",
       "iconUrl": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=100&h=100&fit=crop",
-      "packCount": 2
+      "packCount": 0
     }
   ],
   "featuredPacks": ["animals_farm", "nature_mountains", "vintage_cars"],
@@ -220,6 +220,60 @@
           "id": "vintage_car_8",
           "url": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400&h=400&fit=crop",
           "caption": "Classic Coupe"
+        }
+      ]
+    },
+    {
+      "id": "animals_safari",
+      "title": "Safari Animals",
+      "description": "Majestic animals from African safaris",
+      "theme": "Wildlife",
+      "category": "animals",
+      "difficulty": "medium",
+      "isPremium": false,
+      "isFeatured": false,
+      "imageCount": 6,
+      "estimatedSize": "3.2 MB",
+      "version": "1.0.0",
+      "createdAt": "2025-07-10T14:30:00Z",
+      "updatedAt": "2025-07-10T14:30:00Z",
+      "tags": ["safari", "animals", "wildlife", "africa"],
+      "thumbnailUrl": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=300&h=200&fit=crop",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1534759846116-5799c33ce22a?w=150&h=150&fit=crop"
+      ],
+      "images": [
+        {
+          "id": "lion_1",
+          "url": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=400&h=400&fit=crop",
+          "caption": "Majestic Lion"
+        },
+        {
+          "id": "elephant_1",
+          "url": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=400&h=400&fit=crop",
+          "caption": "African Elephant"
+        },
+        {
+          "id": "giraffe_1",
+          "url": "https://images.unsplash.com/photo-1534759846116-5799c33ce22a?w=400&h=400&fit=crop",
+          "caption": "Tall Giraffe"
+        },
+        {
+          "id": "zebra_1",
+          "url": "https://images.unsplash.com/photo-1526095179574-86e545346ae6?w=400&h=400&fit=crop",
+          "caption": "Striped Zebra"
+        },
+        {
+          "id": "rhino_1",
+          "url": "https://images.unsplash.com/photo-1501706362039-c06b2d715385?w=400&h=400&fit=crop",
+          "caption": "Powerful Rhino"
+        },
+        {
+          "id": "cheetah_1",
+          "url": "https://images.unsplash.com/photo-1551969014-7d2c4cddf0b6?w=400&h=400&fit=crop",
+          "caption": "Fast Cheetah"
         }
       ]
     }

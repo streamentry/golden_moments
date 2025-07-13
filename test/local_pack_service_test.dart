@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter/services.dart';
-import 'package:memory_lane/data/services/local_pack_service.dart';
+import 'package:golden_moments/data/services/local_pack_service.dart';
 
 void main() {
   group('LocalPackService Tests', () {
@@ -17,8 +17,8 @@ void main() {
       const channel = MethodChannel('flutter/assets');
       TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger
           .setMockMethodCallHandler(channel, (MethodCall methodCall) async {
-        if (methodCall.method == 'loadString') {
-          return '''
+            if (methodCall.method == 'loadString') {
+              return '''
 {
   "version": "1.0.0",
   "lastUpdated": "2025-01-09T12:00:00Z",
@@ -67,12 +67,12 @@ void main() {
   ]
 }
 ''';
-        }
-        return null;
-      });
+            }
+            return null;
+          });
 
-      final packIndex = await service.loadPackIndex();
-      
+      final packIndex = await service.loadPacksIndex();
+
       expect(packIndex.version, '1.0.0');
       expect(packIndex.totalPacks, 1);
       expect(packIndex.packs.length, 1);
@@ -85,8 +85,8 @@ void main() {
       const channel = MethodChannel('flutter/assets');
       TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger
           .setMockMethodCallHandler(channel, (MethodCall methodCall) async {
-        if (methodCall.method == 'loadString') {
-          return '''
+            if (methodCall.method == 'loadString') {
+              return '''
 {
   "version": "1.0.0",
   "lastUpdated": "2025-01-09T12:00:00Z",
@@ -131,12 +131,12 @@ void main() {
   ]
 }
 ''';
-        }
-        return null;
-      });
+            }
+            return null;
+          });
 
-      final packs = await service.getAllPacks();
-      
+      final packs = await service.getPacks();
+
       expect(packs.length, 2);
       expect(packs[0].id, 'pack1');
       expect(packs[1].id, 'pack2');
@@ -147,8 +147,8 @@ void main() {
       const channel = MethodChannel('flutter/assets');
       TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger
           .setMockMethodCallHandler(channel, (MethodCall methodCall) async {
-        if (methodCall.method == 'loadString') {
-          return '''
+            if (methodCall.method == 'loadString') {
+              return '''
 {
   "version": "1.0.0",
   "lastUpdated": "2025-01-09T12:00:00Z",
@@ -176,12 +176,12 @@ void main() {
   ]
 }
 ''';
-        }
-        return null;
-      });
+            }
+            return null;
+          });
 
       final pack = await service.getPackById('target_pack');
-      
+
       expect(pack, isNotNull);
       expect(pack!.id, 'target_pack');
       expect(pack.title, 'Target Pack');
@@ -192,8 +192,8 @@ void main() {
       const channel = MethodChannel('flutter/assets');
       TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger
           .setMockMethodCallHandler(channel, (MethodCall methodCall) async {
-        if (methodCall.method == 'loadString') {
-          return '''
+            if (methodCall.method == 'loadString') {
+              return '''
 {
   "version": "1.0.0",
   "lastUpdated": "2025-01-09T12:00:00Z",
@@ -203,12 +203,12 @@ void main() {
   "packs": []
 }
 ''';
-        }
-        return null;
-      });
+            }
+            return null;
+          });
 
       final pack = await service.getPackById('non_existent');
-      
+
       expect(pack, isNull);
     });
 
@@ -217,8 +217,8 @@ void main() {
       const channel = MethodChannel('flutter/assets');
       TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger
           .setMockMethodCallHandler(channel, (MethodCall methodCall) async {
-        if (methodCall.method == 'loadString') {
-          return '''
+            if (methodCall.method == 'loadString') {
+              return '''
 {
   "version": "1.0.0",
   "lastUpdated": "2025-01-09T12:00:00Z",
@@ -257,13 +257,13 @@ void main() {
   ]
 }
 ''';
-        }
-        return null;
-      });
+            }
+            return null;
+          });
 
       final packInfo = await service.getPackById('game_pack');
       final gamePack = service.convertToGamePack(packInfo!);
-      
+
       expect(gamePack.id, 'game_pack');
       expect(gamePack.title, 'Game Pack');
       expect(gamePack.theme, 'Gaming');

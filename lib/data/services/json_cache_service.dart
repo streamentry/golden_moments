@@ -11,10 +11,9 @@ import '../storage/json_file_manager.dart';
 
 /// JSON-based cache service for managing pack and image cache
 class JsonCacheService {
-  JsonCacheService._();
-
-  static JsonCacheService? _instance;
-  static JsonCacheService get instance => _instance ??= JsonCacheService._();
+  factory JsonCacheService() => _instance;
+  JsonCacheService._internal();
+  static final JsonCacheService _instance = JsonCacheService._internal();
 
   JsonFileManager? _fileManager;
   String? _cacheDirectory;
@@ -33,7 +32,9 @@ class JsonCacheService {
   /// Get the file manager instance
   JsonFileManager get fileManager {
     if (_fileManager == null) {
-      throw StateError('JsonCacheService not initialized. Call initialize() first.');
+      throw StateError(
+        'JsonCacheService not initialized. Call initialize() first.',
+      );
     }
     return _fileManager!;
   }
@@ -128,7 +129,9 @@ class JsonCacheService {
 
   /// Get all cached pack IDs
   Future<List<String>> getCachedPackIds() async {
-    final packFiles = await fileManager.listFiles(CacheFilePaths.packsDirectory);
+    final packFiles = await fileManager.listFiles(
+      CacheFilePaths.packsDirectory,
+    );
     return packFiles
         .where((file) => file.endsWith('.json'))
         .map((file) => file.substring(0, file.length - 5)) // Remove .json
@@ -182,7 +185,7 @@ class JsonCacheService {
     final cachedPackIds = await getCachedPackIds();
 
     // Count total images
-    int totalImages = 0;
+    var totalImages = 0;
     for (final packId in cachedPackIds) {
       final packCache = await loadPackCache(packId);
       if (packCache != null) {
@@ -206,7 +209,7 @@ class JsonCacheService {
     final imagesDir = CacheFilePaths.packImagesDirectory(packId);
     final imagesDirPath = fileManager.getCachePath(imagesDir);
     final directory = Directory(imagesDirPath);
-    
+
     if (await directory.exists()) {
       await directory.delete(recursive: true);
     }
@@ -250,7 +253,7 @@ class JsonCacheService {
   /// Repair corrupted cache files
   Future<void> repairCache() async {
     final issues = await validateCacheIntegrity();
-    
+
     for (final issue in issues) {
       if (issue.contains('cache_index.json')) {
         await saveCacheIndex(CacheIndex.empty());
