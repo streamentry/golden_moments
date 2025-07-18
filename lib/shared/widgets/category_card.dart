@@ -2,13 +2,15 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/pack/presentation/pack_page.dart';
 import 'package:golden_moments/shared/widgets/download_progress_card.dart';
+import 'package:golden_moments/shared/widgets/pressable.dart';
 
 /// Card widget for displaying a game pack
 class CategoryCard extends StatelessWidget {
   const CategoryCard({
     required this.category,
-    required this.onTap,
+    this.onTap,
     this.showDailyBadge = false,
     this.showPremiumBadge = false,
     this.downloadStatus,
@@ -17,19 +19,37 @@ class CategoryCard extends StatelessWidget {
   });
 
   final Category category;
-  final VoidCallback onTap;
+  final VoidCallback? onTap;
   final bool showDailyBadge;
   final bool showPremiumBadge;
   final PackDownloadStatus? downloadStatus;
   final double? downloadProgress;
 
   @override
-  Widget build(BuildContext context) {
-    final theme = Theme.of(context);
+  Widget build(BuildContext parentContext) {
+    final theme = Theme.of(parentContext);
 
     return Card(
       clipBehavior: Clip.antiAlias,
-      child: InkWell(onTap: onTap, child: _buildLayout(theme)),
+      child: Pressable(
+        onPressed: () async {
+          // Wait for ripple animation before calling onPressed
+          await Future<void>.delayed(const Duration(milliseconds: 300));
+          if (onTap == null) {
+            await Navigator.of(parentContext).push(
+              MaterialPageRoute<void>(
+                builder: (context) => PackPage(
+                  categoryName: category.name,
+                  categoryId: category.id,
+                ),
+              ),
+            );
+          } else {
+            onTap?.call();
+          }
+        },
+        child: _buildLayout(theme),
+      ),
     );
   }
 

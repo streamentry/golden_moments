@@ -7,6 +7,7 @@ environment:
   sdk: ^3.8.0
 
 dependencies:
+  audioplayers: ^6.4.0
   bloc: ^9.0.0
   cached_network_image: ^3.3.1
   crypto: ^3.0.5
@@ -20,6 +21,7 @@ dependencies:
   intl: ^0.20.2
   path: ^1.9.0
   path_provider: ^2.1.4
+  provider: ^6.1.5
 
 dev_dependencies:
   bloc_test: ^10.0.0
@@ -37,6 +39,7 @@ flutter:
   # Add assets
   assets:
     - assets/data/
+    - assets/sounds/
 
 flutter_launcher_icons:
   android: 'launcher_icon'

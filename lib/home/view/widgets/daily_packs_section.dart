@@ -15,8 +15,8 @@ class DailyPacksSection extends StatelessWidget {
   final void Function(Pack pack) onPackTap;
 
   @override
-  Widget build(BuildContext context) {
-    final theme = Theme.of(context);
+  Widget build(BuildContext parentContext) {
+    final theme = Theme.of(parentContext);
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -72,7 +72,7 @@ class _PacksGrid extends StatelessWidget {
   final void Function(Pack pack) onPackTap;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     return GridView.builder(
       shrinkWrap: true,
       physics: const NeverScrollableScrollPhysics(),
@@ -98,8 +98,8 @@ class _PacksGrid extends StatelessWidget {
 /// Empty state when no daily packs are available
 class _EmptyState extends StatelessWidget {
   @override
-  Widget build(BuildContext context) {
-    final theme = Theme.of(context);
+  Widget build(BuildContext parentContext) {
+    final theme = Theme.of(parentContext);
 
     return Container(
       height: 200,

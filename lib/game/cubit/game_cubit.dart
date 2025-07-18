@@ -15,6 +15,7 @@ class GameCubit extends Cubit<GameState> {
             id: 'empty',
             title: 'Empty',
             theme: 'Empty',
+            category: 'Empty',
             version: '1.0.0',
             thumbnailUrl: 'Empty',
             images: [],
@@ -31,15 +32,15 @@ class GameCubit extends Cubit<GameState> {
     emit(state.copyWith(status: GameStatus.loading));
     try {
       final pack = await _localPackService.getPackById(packId);
-      startGame(pack);
-    } catch (e) {
+      startNewGame(pack);
+    } on Exception {
       emit(state.copyWith(status: GameStatus.failed));
     }
   }
 
   /// Start a new game with the given pack
-  void startGame(Pack pack) {
-    final shuffledTiles = _shuffleTiles(pack.images);
+  void startNewGame(Pack pack) {
+    final shuffledTiles = _shuffleTiles(pack.images, pack.difficulty);
 
     emit(
       GameState(
@@ -185,29 +186,23 @@ class GameCubit extends Cubit<GameState> {
 
   /// Reset the game
   void resetGame() {
-    startGame(state.currentPack);
+    startNewGame(state.currentPack);
   }
 
   /// Shuffle tiles for game start
-  List<GameTile> _shuffleTiles(List<Image> images) {
+  List<GameTile> _shuffleTiles(List<Image> images, GameDifficulty difficulty) {
     // Convert images to game tiles
     final tiles = <GameTile>[];
 
     // Create pairs of tiles from images
-    for (
-      int i = 0;
-      i < images.length &&
-          tiles.length < state.currentPack.difficulty.totalTiles;
-      i++
-    ) {
-      final image = images[i];
-      final pairId = 'pair_$i';
-
+    for (var i = 0; i < difficulty.pairCount; i++) {
+      final image = images[i % images.length];
+      final pairId = 'pair_${i % images.length}';
       // Add first tile of the pair
       tiles
         ..add(
           GameTile(
-            id: '${image.id}_1',
+            id: '${image.id}_${i ~/ images.length * 2 + 1}',
             image: image,
             pairId: pairId,
           ),
@@ -215,7 +210,7 @@ class GameCubit extends Cubit<GameState> {
         // Add second tile of the pair
         ..add(
           GameTile(
-            id: '${image.id}_2',
+            id: '${image.id}_${i ~/ images.length * 2 + 2}',
             image: image,
             pairId: pairId,
           ),

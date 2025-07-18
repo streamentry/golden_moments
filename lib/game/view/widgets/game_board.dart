@@ -19,7 +19,7 @@ class GameBoard extends StatelessWidget {
   final void Function(String tileId) onTileTap;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     return LayoutBuilder(
       builder: (context, constraints) {
         final crossAxisCount = _getCrossAxisCount(difficulty);
@@ -54,9 +54,9 @@ class GameBoard extends StatelessWidget {
       case GameDifficulty.medium:
         return 4; // 4x4 grid
       case GameDifficulty.hard:
-        return 5; // 5x5 grid
+        return 4; // 4x6 grid
       case GameDifficulty.brainy:
-        return 6; // 6x6 grid
+        return 5; // 5x6 grid
     }
   }
 

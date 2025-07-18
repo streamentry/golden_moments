@@ -20,7 +20,7 @@ class MemoryTile extends StatelessWidget {
   final VoidCallback onTap;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     final fileName = '${tile.image.id}.jpg';
     final imagePath = CacheFilePaths.imageFile(packId, fileName);
     final fullPath = JsonCacheService().fileManager.getCachePath(imagePath);

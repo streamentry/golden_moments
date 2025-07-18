@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
-import 'package:golden_moments/data/services/local_pack_service.dart';
 import 'package:golden_moments/data/models/category.dart';
+import 'package:golden_moments/data/services/local_pack_service.dart';
 import 'package:golden_moments/game/models/models.dart';
 import 'package:golden_moments/home/cubit/home_state.dart';
 
@@ -13,9 +13,6 @@ class HomeCubit extends Cubit<HomeState> {
     emit(state.copyWith(status: HomeStatus.loading));
 
     try {
-      // Load user preferences (in real app, this would come from storage)
-      final preferences = await _loadUserPreferences();
-
       // Load daily packs
       final dailyPacks = await _loadPacks();
 
@@ -25,7 +22,6 @@ class HomeCubit extends Cubit<HomeState> {
       emit(
         state.copyWith(
           status: HomeStatus.loaded,
-          userPreferences: preferences,
           dailyPacks: dailyPacks,
           libraryPacks: libraryPacks,
         ),
@@ -40,23 +36,8 @@ class HomeCubit extends Cubit<HomeState> {
     }
   }
 
-  /// Update user preferences
-  void updatePreferences(UserPreferences preferences) {
-    emit(state.copyWith(userPreferences: preferences));
-    // In real app, save to storage here
-  }
-
   /// Mark a pack as completed
   void markPackCompleted(String packId) {
-    final updatedCompletedPacks = [
-      ...state.userPreferences.completedPacks,
-      if (!state.userPreferences.completedPacks.contains(packId)) packId,
-    ];
-
-    final updatedPreferences = state.userPreferences.copyWith(
-      completedPacks: updatedCompletedPacks,
-    );
-
     // Update daily packs
     final updatedDailyPacks = state.dailyPacks.map((pack) {
       if (pack.id == packId) {
@@ -75,7 +56,6 @@ class HomeCubit extends Cubit<HomeState> {
 
     emit(
       state.copyWith(
-        userPreferences: updatedPreferences,
         dailyPacks: updatedDailyPacks,
         libraryPacks: updatedLibraryPacks,
       ),

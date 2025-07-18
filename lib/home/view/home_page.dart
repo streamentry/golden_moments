@@ -1,18 +1,22 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/category/presentation/category_page.dart';
+import 'package:golden_moments/features/pack/presentation/pack_page.dart';
 import 'package:golden_moments/game/view/game_page.dart';
 import 'package:golden_moments/home/cubit/home_cubit.dart';
 import 'package:golden_moments/home/cubit/home_state.dart';
 import 'package:golden_moments/home/view/widgets/daily_packs_section.dart';
 import 'package:golden_moments/home/view/widgets/library_section.dart';
+import 'package:golden_moments/home/view/widgets/setting_modal.dart';
 
 /// Home page of the Memory Lane app
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     return BlocProvider(
       create: (context) => HomeCubit()..initialize(),
       child: const HomeView(),
@@ -25,37 +29,36 @@ class HomeView extends StatelessWidget {
   const HomeView({super.key});
 
   @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Golden Moments'),
-        actions: [
-          IconButton(
-            icon: const Icon(Icons.settings),
-            onPressed: () {
-              // Navigator.of(context).push(
-              //   MaterialPageRoute<void>(
-              //     builder: (context) => DownloadManagerPage(),
-              //   ),
-              // );
-            },
-            tooltip: 'Settings',
+  Widget build(BuildContext parentContext) {
+    return BlocBuilder<HomeCubit, HomeState>(
+      builder: (context, state) {
+        Widget body;
+        switch (state.status) {
+          case HomeStatus.initial:
+          case HomeStatus.loading:
+            body = const _LoadingView();
+          case HomeStatus.error:
+            body = _ErrorView(message: state.errorMessage);
+          case HomeStatus.loaded:
+            body = _LoadedView(state: state);
+        }
+        return Scaffold(
+          appBar: AppBar(
+            title: const Text('Golden Moments'),
+            actions: [
+              IconButton(
+                icon: const Icon(Icons.settings),
+                onPressed: () {
+                  SoundService().playTap();
+                  showSettingModal(context: parentContext);
+                },
+                tooltip: 'Settings',
+              ),
+            ],
           ),
-        ],
-      ),
-      body: BlocBuilder<HomeCubit, HomeState>(
-        builder: (context, state) {
-          switch (state.status) {
-            case HomeStatus.initial:
-            case HomeStatus.loading:
-              return const _LoadingView();
-            case HomeStatus.error:
-              return _ErrorView(message: state.errorMessage);
-            case HomeStatus.loaded:
-              return _LoadedView(state: state);
-          }
-        },
-      ),
+          body: body,
+        );
+      },
     );
   }
 }
@@ -65,7 +68,7 @@ class _LoadingView extends StatelessWidget {
   const _LoadingView();
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     return const Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
@@ -89,7 +92,7 @@ class _ErrorView extends StatelessWidget {
   final String? message;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     return Center(
       child: Padding(
         padding: const EdgeInsets.all(gmSpaceMd),
@@ -104,20 +107,20 @@ class _ErrorView extends StatelessWidget {
             const SizedBox(height: gmSpaceMd),
             Text(
               'Oops! Something went wrong',
-              style: Theme.of(context).textTheme.headlineSmall,
+              style: Theme.of(parentContext).textTheme.headlineSmall,
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
               message ?? 'Something went wrong. Please try again.',
-              style: Theme.of(context).textTheme.bodyLarge,
+              style: Theme.of(parentContext).textTheme.bodyLarge,
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceLg),
             GmPrimaryButton(
               label: 'Try Again',
               onTap: () {
-                context.read<HomeCubit>().initialize();
+                parentContext.read<HomeCubit>().initialize();
               },
             ),
           ],
@@ -134,7 +137,7 @@ class _LoadedView extends StatelessWidget {
   final HomeState state;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     return RefreshIndicator(
       // onRefresh: () => context.read<HomeCubit>().refreshDailyPacks(),
       onRefresh: () async {},
@@ -152,7 +155,7 @@ class _LoadedView extends StatelessWidget {
             DailyPacksSection(
               packs: state.dailyPacks,
               onPackTap: (pack) {
-                Navigator.of(context).push(
+                Navigator.of(parentContext).push(
                   MaterialPageRoute<void>(
                     builder: (context) => GamePage(gamePack: pack),
                   ),
@@ -164,18 +167,15 @@ class _LoadedView extends StatelessWidget {
             // Library section
             LibrarySection(
               categories: state.libraryPacks,
-              userPreferences: state.userPreferences,
-              onPackTap: (pack) {
-                // if (pack.isPremium && !state.userPreferences.isPremiumUser) {
-                //   _showPremiumDialog(context);
-                // } else
-                // {
-                //   Navigator.of(context).push(
-                //     MaterialPageRoute<void>(
-                //       builder: (context) => GamePage(gamePack: pack),
-                //     ),
-                //   );
-                // }
+              onCategoryTap: (category) {
+                Navigator.of(parentContext).push(
+                  MaterialPageRoute<void>(
+                    builder: (context) => PackPage(
+                      categoryId: category.id,
+                      categoryName: category.name,
+                    ),
+                  ),
+                );
               },
             ),
           ],
@@ -212,8 +212,8 @@ class _LoadedView extends StatelessWidget {
 /// Welcome section widget
 class _WelcomeSection extends StatelessWidget {
   @override
-  Widget build(BuildContext context) {
-    final theme = Theme.of(context);
+  Widget build(BuildContext parentContext) {
+    final theme = Theme.of(parentContext);
 
     return Card(
       child: Padding(

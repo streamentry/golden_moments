@@ -16,7 +16,6 @@ class HomeState extends Equatable {
     this.status = HomeStatus.initial,
     this.dailyPacks = const [],
     this.libraryPacks = const [],
-    this.userPreferences = const UserPreferences(),
     this.errorMessage,
   });
 
@@ -29,9 +28,6 @@ class HomeState extends Equatable {
   /// All available game packs in library
   final List<Category> libraryPacks;
 
-  /// User preferences and settings
-  final UserPreferences userPreferences;
-
   /// Error message if status is error
   final String? errorMessage;
 
@@ -40,14 +36,12 @@ class HomeState extends Equatable {
     HomeStatus? status,
     List<Pack>? dailyPacks,
     List<Category>? libraryPacks,
-    UserPreferences? userPreferences,
     String? errorMessage,
   }) {
     return HomeState(
       status: status ?? this.status,
       dailyPacks: dailyPacks ?? this.dailyPacks,
       libraryPacks: libraryPacks ?? this.libraryPacks,
-      userPreferences: userPreferences ?? this.userPreferences,
       errorMessage: errorMessage ?? this.errorMessage,
     );
   }
@@ -57,7 +51,6 @@ class HomeState extends Equatable {
     status,
     dailyPacks,
     libraryPacks,
-    userPreferences,
     errorMessage,
   ];
 }

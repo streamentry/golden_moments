@@ -3,9 +3,12 @@ import 'dart:developer';
 
 import 'package:bloc/bloc.dart';
 import 'package:flutter/widgets.dart';
+import 'package:golden_moments/data/models/sound_setting.dart';
 import 'package:golden_moments/data/services/http_client_service.dart';
 import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/download_manager.dart';
+import 'package:golden_moments/data/services/sound_service.dart';
+import 'package:provider/provider.dart';
 
 class AppBlocObserver extends BlocObserver {
   const AppBlocObserver();
@@ -32,7 +35,12 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
 
   // Add cross-flavor configuration here
 
-  runApp(await builder());
+  runApp(
+    ChangeNotifierProvider(
+      create: (_) => SoundSettings(),
+      child: await builder(),
+    ),
+  );
 
   // Initialize services
   await _initializeServices();
@@ -42,6 +50,7 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
 Future<void> _initializeServices() async {
   // Initialize cache service first
   await JsonCacheService().initialize();
+  await SoundService().initialize();
 
   HttpClientService().initialize();
 }

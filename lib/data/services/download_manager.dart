@@ -11,6 +11,7 @@ import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
 import 'package:golden_moments/data/storage/cache_file_paths.dart';
 import 'package:golden_moments/shared/constants/cache_constants.dart';
+import 'package:golden_moments/utils/string_util.dart';
 
 /// Download manager for processing pack and image downloads
 class DownloadManager {
@@ -78,7 +79,7 @@ class DownloadManager {
     String imageId,
     String filename,
   ) async {
-    final downloadId = '${packId}_$imageId';
+    final downloadId = generateDownloadId(packId, imageId);
 
     final downloadItem = DownloadItem(
       id: downloadId,
@@ -315,7 +316,7 @@ class DownloadManager {
       localPath: imagePath,
       downloadUrl: imageUrl,
       size: imageData.length,
-      dimensions: '800x600', // TODO: Get actual dimensions
+      dimensions: '400x400', // TODO: Get actual dimensions
       format: filename.split('.').last.toUpperCase(),
       checksum: checksum,
     );

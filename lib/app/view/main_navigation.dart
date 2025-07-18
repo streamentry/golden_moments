@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:golden_moments/app/cubit/navigation_cubit.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/download_manager/view/download_manager_page.dart';
-import 'package:golden_moments/features/pack_discovery/view/pack_discovery_page.dart';
+import 'package:golden_moments/features/category/presentation/category_page.dart';
 import 'package:golden_moments/home/view/home_page.dart';
 import 'package:golden_moments/shared/widgets/offline_indicator.dart';
 
@@ -12,7 +12,7 @@ class MainNavigation extends StatelessWidget {
   const MainNavigation({super.key});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     return BlocProvider(
       create: (context) => NavigationCubit(),
       child: const MainNavigationView(),
@@ -25,7 +25,7 @@ class MainNavigationView extends StatelessWidget {
   const MainNavigationView({super.key});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     return BlocBuilder<NavigationCubit, NavigationState>(
       builder: (context, state) {
         return Scaffold(
@@ -40,8 +40,6 @@ class MainNavigationView extends StatelessWidget {
                   index: state.currentIndex,
                   children: const [
                     HomePage(),
-                    // PackDiscoveryPage(),
-                    // DownloadManagerPage(),
                   ],
                 ),
               ),

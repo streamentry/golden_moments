@@ -1,13 +1,12 @@
 import 'package:equatable/equatable.dart';
 import 'package:golden_moments/data/models/image.dart';
-import 'package:golden_moments/game/models/game_tile.dart';
 
 /// Difficulty levels for the memory game
 enum GameDifficulty {
-  easy(gridSize: 3, pairCount: 4, displayName: 'Easy'),
+  easy(gridSize: 3, pairCount: 6, displayName: 'Easy'),
   medium(gridSize: 4, pairCount: 8, displayName: 'Medium'),
-  hard(gridSize: 5, pairCount: 12, displayName: 'Hard'),
-  brainy(gridSize: 6, pairCount: 12, displayName: 'Brainy');
+  hard(gridSize: 4, pairCount: 12, displayName: 'Hard'),
+  brainy(gridSize: 5, pairCount: 20, displayName: 'Brainy');
 
   const GameDifficulty({
     required this.gridSize,
@@ -34,6 +33,7 @@ class Pack extends Equatable {
     required this.id,
     required this.title,
     required this.theme,
+    required this.category,
     required this.version,
     required this.difficulty,
     required this.thumbnailUrl,
@@ -49,6 +49,7 @@ class Pack extends Equatable {
       id: json['id'] as String,
       title: json['title'] as String,
       theme: json['theme'] as String,
+      category: json['category'] as String,
       difficulty: GameDifficulty.values.firstWhere(
         (d) => d.name == (json['difficulty'] as String),
         orElse: () => GameDifficulty.medium,
@@ -76,6 +77,9 @@ class Pack extends Equatable {
   /// Theme category (e.g., "1960s Cars", "Classic Movies")
   final String theme;
 
+  /// Category
+  final String category;
+
   /// Version
   final String version;
 
@@ -100,6 +104,7 @@ class Pack extends Equatable {
       'id': id,
       'title': title,
       'theme': theme,
+      'category': category,
       'version': version,
       'thumbnailUrl': thumbnailUrl,
       'images': images,
@@ -115,6 +120,7 @@ class Pack extends Equatable {
     String? id,
     String? title,
     String? theme,
+    String? category,
     String? version,
     String? thumbnailUrl,
     List<Image>? images,
@@ -127,6 +133,7 @@ class Pack extends Equatable {
       id: id ?? this.id,
       title: title ?? this.title,
       theme: theme ?? this.theme,
+      category: category ?? this.category,
       version: version ?? this.version,
       thumbnailUrl: thumbnailUrl ?? this.thumbnailUrl,
       images: images ?? this.images,
@@ -142,6 +149,7 @@ class Pack extends Equatable {
     id,
     title,
     theme,
+    category,
     version,
     thumbnailUrl,
     images,

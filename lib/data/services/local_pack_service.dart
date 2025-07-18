@@ -47,6 +47,13 @@ class LocalPackService {
     return (await getPacks()).firstWhere((pack) => pack.id == packId);
   }
 
+  /// Get all available packs
+  Future<List<Pack>> getPacksByCategory(String categoryId) async {
+    return (await getPacksIndex()).packs
+        .where((item) => item.category == categoryId)
+        .toList();
+  }
+
   /// Clear cached data (for testing or refresh)
   void clearCache() {
     packsIndex = null;

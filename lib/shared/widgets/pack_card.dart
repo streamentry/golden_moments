@@ -5,27 +5,112 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/data/services/download_manager.dart';
 import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/design_system.dart';
-import 'package:golden_moments/game/models/models.dart';
+import 'package:golden_moments/game/game.dart';
 import 'package:golden_moments/shared/widgets/download_progress_card.dart';
+import 'package:golden_moments/shared/widgets/pressable.dart';
+import 'package:golden_moments/utils/string_util.dart';
 
 /// Card widget for displaying a game pack
-class PackCard extends StatelessWidget {
+class PackCard extends StatefulWidget {
   const PackCard({
     required this.pack,
-    required this.onTap,
+    this.onTap,
     this.showDailyBadge = false,
     this.showPremiumBadge = false,
-    this.downloadStatus,
     this.downloadProgress,
     super.key,
   });
 
   final Pack pack;
-  final VoidCallback onTap;
+  final VoidCallback? onTap;
   final bool showDailyBadge;
   final bool showPremiumBadge;
-  final PackDownloadStatus? downloadStatus;
   final double? downloadProgress;
+
+  @override
+  State<PackCard> createState() => _PackCardState();
+}
+
+class _PackCardState extends State<PackCard> {
+  PackDownloadStatus? _downloadStatus;
+  bool _isLoading = true;
+
+  @override
+  void initState() {
+    super.initState();
+    _checkPackCacheStatus();
+  }
+
+  Future<void> _checkPackCacheStatus() async {
+    try {
+      final isCached = await JsonCacheService().isPackCached(widget.pack.id);
+      if (mounted) {
+        setState(() {
+          _downloadStatus = isCached
+              ? PackDownloadStatus.cached
+              : PackDownloadStatus.available;
+        });
+      }
+    } on Exception {
+      if (mounted) {
+        setState(() {
+          _downloadStatus = PackDownloadStatus.available;
+        });
+      }
+    } finally {
+      _isLoading = false;
+    }
+  }
+
+  void _updateDownloadStatus(PackDownloadStatus status) {
+    setState(() {
+      _downloadStatus = status;
+    });
+  }
+
+  void _startDownloadPack(Pack pack) {
+    _updateDownloadStatus(PackDownloadStatus.downloading);
+    unawaited(DownloadManager().downloadPack(pack.id));
+    DownloadManager()
+        .getDownloadProgress(
+          generateDownloadId(
+            pack.id,
+            pack.images[pack.images.length - 1].id,
+          ),
+        )
+        .listen((progress) {
+          if (progress.isCompleted) {
+            _updateDownloadStatus(PackDownloadStatus.cached);
+          }
+        });
+  }
+
+  void _showDownloadConfirmationDialog(Pack pack) {
+    showDialog<void>(
+      context: context,
+      builder: (dialogContext) => AlertDialog(
+        title: const Text('Download Pack'),
+        content: Text(
+          'Do you want to download the "${pack.title}" pack? This may consume data.',
+        ),
+        actions: [
+          TextButton(
+            onPressed: () {
+              Navigator.of(dialogContext).pop(); // Close dialog
+            },
+            child: const Text('Cancel'),
+          ),
+          TextButton(
+            onPressed: () {
+              Navigator.of(dialogContext).pop(); // Close dialog
+              _startDownloadPack(pack); // Start download
+            },
+            child: const Text('Download'),
+          ),
+        ],
+      ),
+    );
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -33,12 +118,31 @@ class PackCard extends StatelessWidget {
 
     return Card(
       clipBehavior: Clip.antiAlias,
-      child: InkWell(
-        onTap: () async {
-          if (await JsonCacheService().isPackCached(pack.id)) {
-            onTap();
-          } else {
-            unawaited(DownloadManager().downloadPack(pack.id));
+      child: Pressable(
+        onPressed: () async {
+          // Wait for ripple animation before calling onPressed
+          await Future<void>.delayed(const Duration(milliseconds: 300));
+          switch (_downloadStatus) {
+            case PackDownloadStatus.cached:
+              {
+                if (widget.onTap == null) {
+                  await Navigator.of(context).push(
+                    MaterialPageRoute<void>(
+                      builder: (context) => GamePage(
+                        gamePack: widget.pack,
+                      ),
+                    ),
+                  );
+                } else {
+                  widget.onTap?.call();
+                }
+              }
+            case PackDownloadStatus.available:
+            case PackDownloadStatus.expired:
+            case PackDownloadStatus.failed:
+            case null:
+              _showDownloadConfirmationDialog(widget.pack);
+            case PackDownloadStatus.downloading:
           }
         },
         child: _buildLayout(theme),
@@ -47,6 +151,20 @@ class PackCard extends StatelessWidget {
   }
 
   Widget _buildLayout(ThemeData theme) {
+    IconData getIcon() {
+      switch (_downloadStatus) {
+        case PackDownloadStatus.cached:
+          return Icons.download_done;
+        case PackDownloadStatus.available:
+        case PackDownloadStatus.expired:
+        case PackDownloadStatus.failed:
+        case null:
+          return Icons.download;
+        case PackDownloadStatus.downloading:
+          return Icons.downloading;
+      }
+    }
+
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -66,7 +184,7 @@ class PackCard extends StatelessWidget {
                 child: AspectRatio(
                   aspectRatio: 3 / 2, // width / height
                   child: CachedNetworkImage(
-                    imageUrl: pack.thumbnailUrl,
+                    imageUrl: widget.pack.thumbnailUrl,
                     errorWidget: (context, url, error) =>
                         const Icon(Icons.error),
                     fit: BoxFit.cover,
@@ -92,7 +210,7 @@ class PackCard extends StatelessWidget {
               children: [
                 Expanded(
                   child: Text(
-                    pack.title,
+                    widget.pack.title,
                     style: theme.textTheme.titleMedium?.copyWith(
                       fontWeight: FontWeight.bold,
                     ),
@@ -101,7 +219,7 @@ class PackCard extends StatelessWidget {
                   ),
                 ),
                 Text(
-                  pack.theme,
+                  widget.pack.theme,
                   style: theme.textTheme.bodySmall?.copyWith(
                     color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
                   ),
@@ -115,11 +233,23 @@ class PackCard extends StatelessWidget {
                   children: [
                     _buildDifficultyChip(theme),
                     const Spacer(),
-                    Icon(
-                      Icons.download,
-                      size: 32,
-                      color: theme.colorScheme.primary,
-                    ),
+                    if (_isLoading)
+                      SizedBox(
+                        width: 24,
+                        height: 24,
+                        child: CircularProgressIndicator(
+                          strokeWidth: 2.5,
+                          valueColor: AlwaysStoppedAnimation<Color>(
+                            theme.colorScheme.primary,
+                          ),
+                        ),
+                      )
+                    else
+                      Icon(
+                        getIcon(),
+                        size: 24,
+                        color: theme.colorScheme.primary,
+                      ),
                   ],
                 ),
               ],
@@ -133,7 +263,7 @@ class PackCard extends StatelessWidget {
   Widget _buildBadges(ThemeData theme) {
     final badges = <Widget>[];
 
-    if (showDailyBadge) {
+    if (widget.showDailyBadge) {
       badges.add(
         Container(
           padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
@@ -152,7 +282,7 @@ class PackCard extends StatelessWidget {
       );
     }
 
-    if (showPremiumBadge) {
+    if (widget.showPremiumBadge) {
       badges.add(
         Container(
           padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
@@ -187,8 +317,8 @@ class PackCard extends StatelessWidget {
   }
 
   Widget _buildDifficultyChip(ThemeData theme) {
-    Color chipColor;
-    switch (pack.difficulty) {
+    final Color chipColor;
+    switch (widget.pack.difficulty) {
       case GameDifficulty.easy:
         chipColor = Colors.green;
       case GameDifficulty.medium:
@@ -207,31 +337,12 @@ class PackCard extends StatelessWidget {
         border: Border.all(color: chipColor.withValues(alpha: 0.3)),
       ),
       child: Text(
-        pack.difficulty.displayName,
+        widget.pack.difficulty.displayName,
         style: theme.textTheme.labelSmall?.copyWith(
           color: chipColor,
           fontWeight: FontWeight.w500,
         ),
       ),
     );
-  }
-
-  IconData _getThemeIcon() {
-    switch (pack.theme) {
-      case '1960s Cars':
-        return Icons.directions_car;
-      case 'Classic Movies':
-        return Icons.movie;
-      case 'Retro Toys':
-        return Icons.toys;
-      case 'Vintage Household Items':
-        return Icons.kitchen;
-      case 'Old TV Shows':
-        return Icons.tv;
-      case 'Vintage Fashion':
-        return Icons.checkroom;
-      default:
-        return Icons.photo;
-    }
   }
 }

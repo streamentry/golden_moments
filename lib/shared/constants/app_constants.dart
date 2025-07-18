@@ -5,7 +5,8 @@ class AppConstants {
   // App information
   static const String appName = 'Golden Moments';
   static const String appVersion = '1.0.0';
-  static const String appDescription = 'A nostalgia-themed memory game for seniors';
+  static const String appDescription =
+      'A nostalgia-themed memory game for seniors';
 
   // Game configuration
   static const int maxSelectedTiles = 2;
@@ -20,15 +21,15 @@ class AppConstants {
   static const Duration longAnimation = Duration(milliseconds: 600);
 
   // Layout constants
-  static const double defaultPadding = 16.0;
-  static const double smallPadding = 8.0;
-  static const double largePadding = 24.0;
-  static const double cardBorderRadius = 16.0;
-  static const double buttonBorderRadius = 12.0;
+  static const double defaultPadding = 16;
+  static const double smallPadding = 8;
+  static const double largePadding = 24;
+  static const double cardBorderRadius = 16;
+  static const double buttonBorderRadius = 12;
 
   // Accessibility
-  static const double minTouchTargetSize = 48.0;
-  static const double maxFontSizeMultiplier = 2.0;
+  static const double minTouchTargetSize = 48;
+  static const double maxFontSizeMultiplier = 2;
   static const double minFontSizeMultiplier = 0.8;
 
   // Storage keys
@@ -79,16 +80,20 @@ class AppConstants {
     'Excellent memory!',
     'Great job!',
     'Wonderful!',
-    'You\'re doing fantastic!',
+    "You're doing fantastic!",
     'Keep it up!',
     'Marvelous!',
   ];
 
   // Error messages
-  static const String networkErrorMessage = 'Please check your internet connection and try again.';
-  static const String genericErrorMessage = 'Something went wrong. Please try again.';
-  static const String premiumRequiredMessage = 'This content requires a premium subscription.';
-  static const String adLoadErrorMessage = 'Unable to load advertisement. Please try again.';
+  static const String networkErrorMessage =
+      'Please check your internet connection and try again.';
+  static const String genericErrorMessage =
+      'Something went wrong. Please try again.';
+  static const String premiumRequiredMessage =
+      'This content requires a premium subscription.';
+  static const String adLoadErrorMessage =
+      'Unable to load advertisement. Please try again.';
 
   // Accessibility labels
   static const String tileAccessibilityLabel = 'Memory game tile';

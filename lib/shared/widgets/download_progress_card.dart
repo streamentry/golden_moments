@@ -20,8 +20,8 @@ class DownloadProgressCard extends StatelessWidget {
   final bool showControls;
 
   @override
-  Widget build(BuildContext context) {
-    final theme = Theme.of(context);
+  Widget build(BuildContext parentContext) {
+    final theme = Theme.of(parentContext);
 
     return Card(
       margin: const EdgeInsets.symmetric(
@@ -243,8 +243,8 @@ class DownloadStatusBadge extends StatelessWidget {
   final DownloadBadgeSize size;
 
   @override
-  Widget build(BuildContext context) {
-    final theme = Theme.of(context);
+  Widget build(BuildContext parentContext) {
+    final theme = Theme.of(parentContext);
     final isSmall = size == DownloadBadgeSize.small;
 
     return Container(
