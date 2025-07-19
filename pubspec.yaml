@@ -22,6 +22,8 @@ dependencies:
 
 dev_dependencies:
   bloc_test: ^10.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.1
   flutter_test:
     sdk: flutter
   mocktail: ^1.0.4
@@ -30,3 +32,28 @@ dev_dependencies:
 flutter:
   generate: true
   uses-material-design: true
+  # Add assets
+  assets:
+    - assets/data/
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/app_icon.png"
+  min_sdk_android: 21
+
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  color: "#FFF5DE"
+  image: assets/icons/app_icon_padded.png
+  color_dark: "#FFF5DE"
+  image_dark: assets/icons/app_icon_padded.png
+
+  android_12:
+    image: assets/icons/app_icon_padded.png
+    color: "#FFF5DE"
+    color_dark: "#FFF5DE"
+    image_dark: assets/icons/app_icon_padded.png
