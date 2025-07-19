@@ -20,6 +20,7 @@ javascript
 
 ──────────────────────────────────────────────────────────────────────────────*/
 import 'package:flutter/material.dart';
+import 'package:golden_moments/shared/widgets/pressable.dart';
 
 ///////////////////////////////////////////////////////////////////////////////
 /// 1. COLOR TOKENS – “Golden Core”
@@ -163,8 +164,8 @@ class GmPrimaryButton extends StatelessWidget {
   }) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    final scheme = Theme.of(context).colorScheme;
+  Widget build(BuildContext parentContext) {
+    final scheme = Theme.of(parentContext).colorScheme;
     final bool isDisabled = disabled || busy || onTap == null;
     final Color bg = isDisabled
         ? scheme.primary.withValues(alpha: 0.38)
@@ -178,9 +179,9 @@ class GmPrimaryButton extends StatelessWidget {
         child: Material(
           color: bg,
           borderRadius: BorderRadius.circular(gmRadiusMd),
-          child: InkWell(
+          child: Pressable(
             borderRadius: BorderRadius.circular(gmRadiusMd),
-            onTap: isDisabled ? null : onTap,
+            onPressed: isDisabled ? null : onTap,
             child: Center(
               child: busy
                   ? SizedBox.square(
@@ -193,7 +194,7 @@ class GmPrimaryButton extends StatelessWidget {
                   : Text(
                       label,
                       style: Theme.of(
-                        context,
+                        parentContext,
                       ).textTheme.titleLarge!.copyWith(color: scheme.onPrimary),
                     ),
             ),
@@ -212,8 +213,8 @@ class GmOutlineButton extends StatelessWidget {
     : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
-    final scheme = Theme.of(context).colorScheme;
+  Widget build(BuildContext parentContext) {
+    final scheme = Theme.of(parentContext).colorScheme;
     return Semantics(
       button: true,
       child: OutlinedButton(
@@ -228,7 +229,7 @@ class GmOutlineButton extends StatelessWidget {
         child: Text(
           label,
           style: Theme.of(
-            context,
+            parentContext,
           ).textTheme.titleLarge!.copyWith(color: scheme.secondary),
         ),
       ),
@@ -238,28 +239,28 @@ class GmOutlineButton extends StatelessWidget {
 
 /// MEMORY TILE  (face-down / revealed)
 class GmMemoryTile extends StatelessWidget {
-  final bool revealed;
-  final ImageProvider image;
-  final VoidCallback? onTap;
   const GmMemoryTile({
-    Key? key,
     required this.revealed,
     required this.image,
     this.onTap,
-  }) : super(key: key);
+    super.key,
+  });
+  final bool revealed;
+  final ImageProvider image;
+  final VoidCallback? onTap;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     final border = RoundedRectangleBorder(
       borderRadius: BorderRadius.circular(gmRadiusMd),
     );
     return Material(
-      color: Theme.of(context).colorScheme.surface,
+      color: Theme.of(parentContext).colorScheme.surface,
       elevation: gmElevationCard,
       shape: border,
-      child: InkWell(
+      child: Pressable(
         customBorder: border,
-        onTap: revealed ? null : onTap,
+        onPressed: revealed ? null : onTap,
         child: AnimatedSwitcher(
           duration: const Duration(milliseconds: 300),
           transitionBuilder: (c, a) =>
@@ -277,7 +278,7 @@ class GmMemoryTile extends StatelessWidget {
                   child: Icon(
                     Icons.help_outline,
                     size: 42,
-                    color: Theme.of(context).colorScheme.primary,
+                    color: Theme.of(parentContext).colorScheme.primary,
                   ),
                 ),
         ),
@@ -346,6 +347,11 @@ class _GmConfettiOverlayState extends State<GmConfettiOverlay>
 
   @override
   Widget build(BuildContext context) {
+    // Hide completely when show is false
+    if (!widget.show) {
+      return const SizedBox.shrink();
+    }
+
     final size = MediaQuery.sizeOf(context);
     return IgnorePointer(
       ignoring: true,

@@ -1,35 +1,131 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:golden_moments/data/models/pack.dart';
+import 'package:golden_moments/data/models/sound_setting.dart';
+import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/game/cubit/game_cubit.dart';
-import 'package:golden_moments/game/models/models.dart';
+import 'package:golden_moments/game/cubit/game_state.dart';
 import 'package:golden_moments/game/view/widgets/game_board.dart';
 import 'package:golden_moments/game/view/widgets/game_header.dart';
+import 'package:golden_moments/shared/utils/string_util.dart';
+import 'package:provider/provider.dart';
 
 /// Game page for playing memory matching games
-class GamePage extends StatelessWidget {
+class GamePage extends StatefulWidget {
   const GamePage({
-    super.key,
     required this.gamePack,
+    super.key,
   });
 
-  final GamePack gamePack;
+  final Pack gamePack;
+
+  @override
+  State<StatefulWidget> createState() => _GamePageState();
+}
+
+class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
+  Timer? _timer;
+  int _elapsedSeconds = 0;
+  bool _isPaused = false;
+
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addObserver(this);
+    _startTimer();
+  }
+
+  void _startTimer() {
+    if (_timer?.isActive ?? true) return; // Don't start if already running
+
+    _timer = Timer.periodic(const Duration(seconds: 1), (timer) {
+      if (mounted && !_isPaused) {
+        setState(() {
+          _elapsedSeconds++;
+        });
+      }
+    });
+  }
+
+  void _pauseTimer() {
+    setState(() {
+      _isPaused = true;
+    });
+    _timer?.cancel();
+  }
+
+  void _resumeTimer() {
+    setState(() {
+      _isPaused = false;
+    });
+    _startTimer();
+  }
+
+  void _resetTimer() {
+    _timer?.cancel();
+    setState(() {
+      _elapsedSeconds = 0;
+      _isPaused = false;
+    });
+    _startTimer();
+  }
+
+  @override
+  void dispose() {
+    _timer?.cancel();
+    WidgetsBinding.instance.removeObserver(this);
+    super.dispose();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.paused) {
+      _pauseTimer();
+    } else if (state == AppLifecycleState.resumed) {
+      _resumeTimer();
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
-      create: (context) => GameCubit()..startGame(gamePack),
-      child: const GameView(),
+      create: (context) => GameCubit()..startNewGame(widget.gamePack),
+      child: BlocListener<GameCubit, GameState>(
+        listener: (context, state) {
+          // Handle timer based on game status
+          if (state.status == GameStatus.paused) {
+            _pauseTimer();
+          } else if (state.status == GameStatus.playing) {
+            _resumeTimer();
+          } else if (state.status == GameStatus.completed) {
+            _pauseTimer();
+          }
+        },
+        child: GameView(
+          currentTime: formatTime(_elapsedSeconds),
+          onRestart: _resetTimer,
+        ),
+      ),
     );
   }
 }
 
 /// Game view widget
 class GameView extends StatelessWidget {
-  const GameView({super.key});
+  const GameView({
+    required this.currentTime,
+    required this.onRestart,
+    super.key,
+  });
+
+  final String currentTime;
+  final VoidCallback onRestart;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     return Scaffold(
       appBar: AppBar(
         title: BlocBuilder<GameCubit, GameState>(
@@ -41,15 +137,26 @@ class GameView extends StatelessWidget {
           IconButton(
             icon: const Icon(Icons.pause),
             onPressed: () {
-              context.read<GameCubit>().pauseGame();
-              _showPauseDialog(context);
+              SoundService().playTap();
+              parentContext.read<GameCubit>().pauseGame();
+              _showPauseDialog(parentContext);
             },
             tooltip: 'Pause Game',
           ),
           IconButton(
+            icon: const Icon(Icons.replay_outlined),
+            onPressed: () {
+              SoundService().playTap();
+              parentContext.read<GameCubit>().resetGame();
+              onRestart();
+            },
+            tooltip: 'Replay',
+          ),
+          IconButton(
             icon: const Icon(Icons.lightbulb_outline),
             onPressed: () {
-              context.read<GameCubit>().showHint();
+              SoundService().playTap();
+              parentContext.read<GameCubit>().showHint();
             },
             tooltip: 'Show Hint',
           ),
@@ -61,6 +168,7 @@ class GameView extends StatelessWidget {
             listener: (context, state) {
               if (state.status == GameStatus.completed) {
                 _showCompletionDialog(context, state);
+                SoundService().playWinner();
               }
             },
             child: BlocBuilder<GameCubit, GameState>(
@@ -71,9 +179,15 @@ class GameView extends StatelessWidget {
                     return const _LoadingView();
                   case GameStatus.playing:
                   case GameStatus.paused:
-                    return _GamePlayView(state: state);
+                    return _GamePlayView(
+                      state: state,
+                      currentTime: currentTime,
+                    );
                   case GameStatus.completed:
-                    return _GamePlayView(state: state);
+                    return _GamePlayView(
+                      state: state,
+                      currentTime: currentTime,
+                    );
                   case GameStatus.failed:
                     return _ErrorView(state: state);
                   case GameStatus.requiresDownload:
@@ -95,46 +209,86 @@ class GameView extends StatelessWidget {
     );
   }
 
-  void _showPauseDialog(BuildContext context) {
+  void _showPauseDialog(BuildContext parentContext) {
     showDialog<void>(
-      context: context,
+      context: parentContext,
       barrierDismissible: false,
-      builder: (context) => AlertDialog(
-        title: const Text('Game Paused'),
-        content: const Text(
-          'Take your time! The game will resume when you\'re ready.',
+      builder: (dialogContext) => StatefulBuilder(
+        builder: (context, setState) => AlertDialog(
+          title: const Text('Game Paused'),
+          content: Consumer<SoundSettings>(
+            builder: (_, settings, _) => Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                const Text(
+                  "Take your time! The game will resume when you're ready.",
+                ),
+                const SizedBox(height: gmSpaceMd),
+                Row(
+                  children: [
+                    const Text('Music'),
+                    const Spacer(),
+                    Switch(
+                      value: settings.isMusicOn,
+                      onChanged: (value) {
+                        setState(() {
+                          settings.setMusic(value);
+                          SoundService().musicEnabled = value;
+                        });
+                      },
+                    ),
+                  ],
+                ),
+                Row(
+                  children: [
+                    const Text('Sound'),
+                    const Spacer(),
+                    Switch(
+                      value: settings.isSoundOn,
+                      onChanged: (value) {
+                        setState(() {
+                          settings.setSound(value);
+                          SoundService().soundEnabled = value;
+                        });
+                      },
+                    ),
+                  ],
+                ),
+              ],
+            ),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                SoundService().playTap();
+                Navigator.of(dialogContext).pop();
+                Navigator.of(dialogContext).pop(); // Go back to home
+              },
+              child: const Text('Quit Game'),
+            ),
+            TextButton(
+              onPressed: () {
+                SoundService().playTap();
+                Navigator.of(dialogContext).pop();
+                parentContext.read<GameCubit>().resumeGame();
+              },
+              child: const Text('Resume'),
+            ),
+          ],
         ),
-        actions: [
-          TextButton(
-            onPressed: () {
-              Navigator.of(context).pop();
-              context.read<GameCubit>().resumeGame();
-            },
-            child: const Text('Resume'),
-          ),
-          TextButton(
-            onPressed: () {
-              Navigator.of(context).pop();
-              Navigator.of(context).pop(); // Go back to home
-            },
-            child: const Text('Quit Game'),
-          ),
-        ],
       ),
     );
   }
 
-  void _showCompletionDialog(BuildContext context, GameState state) {
-    final completionTime = state.completionTime;
-    final timeText = completionTime != null
-        ? '${completionTime.inMinutes}:${(completionTime.inSeconds % 60).toString().padLeft(2, '0')}'
-        : 'Unknown';
+  void _showCompletionDialog(BuildContext parentContext, GameState state) {
+    // Use the current formatted time from the stopwatch
+    final timeText = currentTime;
 
     showDialog<void>(
-      context: context,
+      context: parentContext,
       barrierDismissible: false,
       builder: (context) => AlertDialog(
-        title: const Text('🎉 Congratulations!'),
+        title: const Center(child: Text('🎉 Congratulations!')),
         content: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
@@ -165,15 +319,16 @@ class GameView extends StatelessWidget {
             label: 'Play Again',
             onTap: () {
               Navigator.of(context).pop();
-              context.read<GameCubit>().resetGame();
+              parentContext.read<GameCubit>().resetGame();
+              onRestart();
             },
           ),
-          const SizedBox(width: gmSpaceSm),
+          const SizedBox(height: gmSpaceSm),
           GmPrimaryButton(
-            label: 'Continue',
+            label: 'New Packs',
             onTap: () {
               Navigator.of(context).pop();
-              Navigator.of(context).pop(); // Go back to home
+              Navigator.of(context).pop();
             },
           ),
         ],
@@ -187,7 +342,7 @@ class _LoadingView extends StatelessWidget {
   const _LoadingView();
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     return const Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
@@ -206,16 +361,23 @@ class _LoadingView extends StatelessWidget {
 
 /// Game play view
 class _GamePlayView extends StatelessWidget {
-  const _GamePlayView({required this.state});
+  const _GamePlayView({
+    required this.state,
+    required this.currentTime,
+  });
 
   final GameState state;
+  final String currentTime;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     return Column(
       children: [
         // Game header with stats
-        GameHeader(state: state),
+        GameHeader(
+          state: state,
+          currentTime: currentTime,
+        ),
 
         // Game board
         Expanded(
@@ -224,8 +386,9 @@ class _GamePlayView extends StatelessWidget {
             child: GameBoard(
               tiles: state.tiles,
               difficulty: state.currentPack.difficulty,
+              packId: state.currentPack.id,
               onTileTap: (tileId) {
-                context.read<GameCubit>().onTileTap(tileId);
+                parentContext.read<GameCubit>().onTileTap(tileId);
               },
             ),
           ),
@@ -242,8 +405,8 @@ class _RequiresDownloadView extends StatelessWidget {
   final GameState state;
 
   @override
-  Widget build(BuildContext context) {
-    final theme = Theme.of(context);
+  Widget build(BuildContext parentContext) {
+    final theme = Theme.of(parentContext);
 
     return Center(
       child: Padding(
@@ -277,14 +440,14 @@ class _RequiresDownloadView extends StatelessWidget {
               label: 'Download Pack',
               onTap: () {
                 // Navigate to pack details or start download
-                Navigator.of(context).pop();
+                Navigator.of(parentContext).pop();
               },
             ),
             const SizedBox(height: gmSpaceMd),
             GmOutlineButton(
               label: 'Go Back',
               onTap: () {
-                Navigator.of(context).pop();
+                Navigator.of(parentContext).pop();
               },
             ),
           ],
@@ -301,7 +464,7 @@ class _ErrorView extends StatelessWidget {
   final GameState state;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     return Center(
       child: Padding(
         padding: const EdgeInsets.all(gmSpaceMd),
@@ -316,7 +479,7 @@ class _ErrorView extends StatelessWidget {
             const SizedBox(height: gmSpaceMd),
             Text(
               'Game Error',
-              style: Theme.of(context).textTheme.headlineSmall,
+              style: Theme.of(parentContext).textTheme.headlineSmall,
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceSm),
@@ -328,14 +491,14 @@ class _ErrorView extends StatelessWidget {
             GmPrimaryButton(
               label: 'Try Again',
               onTap: () {
-                context.read<GameCubit>().resetGame();
+                parentContext.read<GameCubit>().resetGame();
               },
             ),
             const SizedBox(height: gmSpaceSm),
             GmOutlineButton(
               label: 'Go Back',
               onTap: () {
-                Navigator.of(context).pop();
+                Navigator.of(parentContext).pop();
               },
             ),
           ],

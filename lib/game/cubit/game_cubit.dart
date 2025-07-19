@@ -1,7 +1,11 @@
 import 'dart:math';
-import 'package:bloc/bloc.dart';
-import 'package:golden_moments/game/models/models.dart';
-import 'package:golden_moments/game/services/game_pack_loader.dart';
+
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:golden_moments/data/models/image.dart';
+import 'package:golden_moments/data/models/pack.dart';
+import 'package:golden_moments/data/services/local_pack_service.dart';
+import 'package:golden_moments/game/cubit/game_state.dart';
+import 'package:golden_moments/game/cubit/tile_state.dart';
 import 'package:golden_moments/shared/constants/app_constants.dart';
 
 /// Cubit for managing game state and logic
@@ -9,72 +13,42 @@ class GameCubit extends Cubit<GameState> {
   GameCubit()
     : super(
         const GameState(
-          currentPack: GamePack(
+          currentPack: Pack(
             id: 'empty',
             title: 'Empty',
             theme: 'Empty',
-            tiles: [],
+            category: 'Empty',
+            version: '1.0.0',
+            thumbnailUrl: 'Empty',
+            images: [],
             difficulty: GameDifficulty.easy,
           ),
           tiles: [],
         ),
       );
 
-  final GamePackLoader _packLoader = GamePackLoader.instance;
+  final LocalPackService _localPackService = LocalPackService();
 
   /// Load and start a new game with offline-first approach
   Future<void> loadAndStartGame(String packId) async {
     emit(state.copyWith(status: GameStatus.loading));
-
     try {
-      final result = await _packLoader.loadGamePack(packId);
-
-      if (result.isSuccess && result.gamePack != null) {
-        // startGame(result.gamePack!);
-
-        // Emit additional metadata about the load
-        if (result.isFromCache) {
-          // Pack loaded from cache - fully offline
-        } else if (result.requiresDownload) {
-          // Pack requires download - show download UI
-          emit(
-            state.copyWith(
-              status: GameStatus.requiresDownload,
-              loadResult: result,
-            ),
-          );
-          return;
-        }
-      } else {
-        emit(
-          state.copyWith(
-            status: GameStatus.failed,
-            errorMessage: result.error ?? 'Failed to load pack',
-          ),
-        );
-      }
-    } catch (e) {
-      emit(
-        state.copyWith(
-          status: GameStatus.failed,
-          errorMessage: 'Error loading pack: $e',
-        ),
-      );
+      final pack = await _localPackService.getPackById(packId);
+      startNewGame(pack);
+    } on Exception {
+      emit(state.copyWith(status: GameStatus.failed));
     }
   }
 
   /// Start a new game with the given pack
-  void startGame(GamePack pack) {
-    final shuffledTiles = _shuffleTiles(pack.tiles);
+  void startNewGame(Pack pack) {
+    final shuffledTiles = _shuffleTiles(pack.images, pack.difficulty);
 
     emit(
       GameState(
         currentPack: pack,
         tiles: shuffledTiles,
         status: GameStatus.playing,
-        moves: 0,
-        matchedPairs: 0,
-        selectedTiles: [],
         startTime: DateTime.now(),
       ),
     );
@@ -214,31 +188,47 @@ class GameCubit extends Cubit<GameState> {
 
   /// Reset the game
   void resetGame() {
-    startGame(state.currentPack);
+    startNewGame(state.currentPack);
   }
 
   /// Shuffle tiles for game start
-  List<GameTile> _shuffleTiles(List<GameTile> tiles) {
-    final shuffledTiles = List<GameTile>.from(tiles);
+  List<GameTile> _shuffleTiles(List<Image> images, GameDifficulty difficulty) {
+    // Convert images to game tiles
+    final tiles = <GameTile>[];
 
-    // Reset all tile states
-    for (int i = 0; i < shuffledTiles.length; i++) {
-      shuffledTiles[i] = shuffledTiles[i].copyWith(
-        isMatched: false,
-        isRevealed: false,
-      );
+    // Create pairs of tiles from images
+    for (var i = 0; i < difficulty.pairCount; i++) {
+      final image = images[i % images.length];
+      final pairId = 'pair_${i % images.length}';
+      // Add first tile of the pair
+      tiles
+        ..add(
+          GameTile(
+            id: '${image.id}_${i ~/ images.length * 2 + 1}',
+            image: image,
+            pairId: pairId,
+          ),
+        )
+        // Add second tile of the pair
+        ..add(
+          GameTile(
+            id: '${image.id}_${i ~/ images.length * 2 + 2}',
+            image: image,
+            pairId: pairId,
+          ),
+        );
     }
 
     // Shuffle the list
     final random = Random();
-    for (int i = shuffledTiles.length - 1; i > 0; i--) {
+    for (var i = tiles.length - 1; i > 0; i--) {
       final j = random.nextInt(i + 1);
-      final temp = shuffledTiles[i];
-      shuffledTiles[i] = shuffledTiles[j];
-      shuffledTiles[j] = temp;
+      final temp = tiles[i];
+      tiles[i] = tiles[j];
+      tiles[j] = temp;
     }
 
-    return shuffledTiles;
+    return tiles;
   }
 
   /// Get hint (reveal a pair briefly)

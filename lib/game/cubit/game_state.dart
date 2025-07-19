@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
-import 'package:golden_moments/game/models/game_pack.dart';
-import 'package:golden_moments/game/models/game_tile.dart';
+import 'package:golden_moments/data/models/pack.dart';
+import 'package:golden_moments/game/cubit/tile_state.dart';
 
 /// Current status of the game
 enum GameStatus {
@@ -30,7 +30,7 @@ class GameState extends Equatable {
   });
 
   /// The game pack currently being played
-  final GamePack currentPack;
+  final Pack currentPack;
 
   /// Current state of all tiles in the game
   final List<GameTile> tiles;
@@ -75,7 +75,7 @@ class GameState extends Equatable {
 
   /// Creates a copy of this state with updated properties
   GameState copyWith({
-    GamePack? currentPack,
+    Pack? currentPack,
     List<GameTile>? tiles,
     GameStatus? status,
     int? moves,

@@ -3,7 +3,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:golden_moments/app/cubit/navigation_cubit.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/download_manager/view/download_manager_page.dart';
-import 'package:golden_moments/features/pack_discovery/view/pack_discovery_page.dart';
 import 'package:golden_moments/home/view/home_page.dart';
 import 'package:golden_moments/shared/widgets/offline_indicator.dart';
 
@@ -40,7 +39,6 @@ class MainNavigationView extends StatelessWidget {
                   index: state.currentIndex,
                   children: const [
                     HomePage(),
-                    PackDiscoveryPage(),
                     DownloadManagerPage(),
                   ],
                 ),
@@ -88,18 +86,10 @@ class MainNavigationView extends StatelessWidget {
               _buildNavItem(
                 context: context,
                 index: 1,
-                icon: Icons.explore,
-                label: 'Discover',
-                isSelected: state.currentIndex == 1,
-                onTap: () => context.read<NavigationCubit>().setIndex(1),
-              ),
-              _buildNavItem(
-                context: context,
-                index: 2,
                 icon: Icons.download,
                 label: 'Downloads',
-                isSelected: state.currentIndex == 2,
-                onTap: () => context.read<NavigationCubit>().setIndex(2),
+                isSelected: state.currentIndex == 1,
+                onTap: () => context.read<NavigationCubit>().setIndex(1),
                 badge: state.activeDownloadsCount > 0
                     ? state.activeDownloadsCount.toString()
                     : null,
@@ -218,11 +208,6 @@ class NavigationConfig {
       icon: Icons.home,
       label: 'Library',
       page: HomePage(),
-    ),
-    NavigationItem(
-      icon: Icons.explore,
-      label: 'Discover',
-      page: PackDiscoveryPage(),
     ),
     NavigationItem(
       icon: Icons.download,

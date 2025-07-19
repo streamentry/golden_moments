@@ -1,9 +1,9 @@
 import 'package:equatable/equatable.dart';
-import 'package:golden_moments/game/models/game_pack.dart';
+import 'package:golden_moments/data/models/pack.dart';
 
 /// Font size options for accessibility
 enum FontSize {
-  small(multiplier: 1.0, displayName: 'Small'),
+  small(multiplier: 1, displayName: 'Small'),
   medium(multiplier: 1.2, displayName: 'Medium'),
   large(multiplier: 1.5, displayName: 'Large'),
   extraLarge(multiplier: 1.8, displayName: 'Extra Large');
@@ -24,11 +24,11 @@ enum FontSize {
 class UserPreferences extends Equatable {
   const UserPreferences({
     this.fontSize = FontSize.large,
-    this.voiceEnabled = true,
-    this.hapticFeedbackEnabled = true,
     this.highContrastMode = false,
     this.preferredDifficulty = GameDifficulty.easy,
-    this.soundEnabled = true,
+    this.isMusicOn = true,
+    this.isSoundOn = true,
+    this.isHapticsOn = true,
     this.autoReadCaptions = true,
     this.animationSpeed = 1.0,
     this.completedPacks = const [],
@@ -39,20 +39,20 @@ class UserPreferences extends Equatable {
   /// Selected font size for accessibility
   final FontSize fontSize;
 
-  /// Whether voice-over/text-to-speech is enabled
-  final bool voiceEnabled;
-
-  /// Whether haptic feedback is enabled
-  final bool hapticFeedbackEnabled;
-
   /// Whether high contrast mode is enabled
   final bool highContrastMode;
 
   /// User's preferred difficulty level
   final GameDifficulty preferredDifficulty;
 
+  /// Whether music is enabled
+  final bool isMusicOn;
+
   /// Whether sound effects are enabled
-  final bool soundEnabled;
+  final bool isSoundOn;
+
+  /// Whether haptic feedback is enabled
+  final bool isHapticsOn;
 
   /// Whether captions should be read aloud automatically
   final bool autoReadCaptions;
@@ -72,11 +72,11 @@ class UserPreferences extends Equatable {
   /// Creates a copy of preferences with updated properties
   UserPreferences copyWith({
     FontSize? fontSize,
-    bool? voiceEnabled,
-    bool? hapticFeedbackEnabled,
+    bool? isSoundOn,
+    bool? isMusicOn,
+    bool? isHapticsOn,
     bool? highContrastMode,
     GameDifficulty? preferredDifficulty,
-    bool? soundEnabled,
     bool? autoReadCaptions,
     double? animationSpeed,
     List<String>? completedPacks,
@@ -85,12 +85,11 @@ class UserPreferences extends Equatable {
   }) {
     return UserPreferences(
       fontSize: fontSize ?? this.fontSize,
-      voiceEnabled: voiceEnabled ?? this.voiceEnabled,
-      hapticFeedbackEnabled:
-          hapticFeedbackEnabled ?? this.hapticFeedbackEnabled,
+      isSoundOn: isSoundOn ?? this.isSoundOn,
+      isMusicOn: isMusicOn ?? this.isMusicOn,
+      isHapticsOn: isHapticsOn ?? this.isHapticsOn,
       highContrastMode: highContrastMode ?? this.highContrastMode,
       preferredDifficulty: preferredDifficulty ?? this.preferredDifficulty,
-      soundEnabled: soundEnabled ?? this.soundEnabled,
       autoReadCaptions: autoReadCaptions ?? this.autoReadCaptions,
       animationSpeed: animationSpeed ?? this.animationSpeed,
       completedPacks: completedPacks ?? this.completedPacks,
@@ -102,11 +101,11 @@ class UserPreferences extends Equatable {
   @override
   List<Object?> get props => [
     fontSize,
-    voiceEnabled,
-    hapticFeedbackEnabled,
+    isSoundOn,
+    isMusicOn,
+    isHapticsOn,
     highContrastMode,
     preferredDifficulty,
-    soundEnabled,
     autoReadCaptions,
     animationSpeed,
     completedPacks,
