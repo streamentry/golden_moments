@@ -2,11 +2,11 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:memory_lane/data/models/github_pack_index.dart';
-import 'package:memory_lane/data/services/local_pack_service.dart';
-import 'package:memory_lane/data/services/long_term_image_cache.dart';
-import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/shared/widgets/download_progress_card.dart';
+import 'package:golden_moments/data/models/github_pack_index.dart';
+import 'package:golden_moments/data/services/local_pack_service.dart';
+import 'package:golden_moments/data/services/long_term_image_cache.dart';
+import 'package:golden_moments/game/models/models.dart';
+import 'package:golden_moments/shared/widgets/download_progress_card.dart';
 
 /// Cubit for managing pack details state
 class PackDetailsCubit extends Cubit<PackDetailsState> {
@@ -34,17 +34,20 @@ class PackDetailsCubit extends Cubit<PackDetailsState> {
           ? PackDownloadStatus.cached
           : PackDownloadStatus.available;
 
-      emit(state.copyWith(
-        status: PackDetailsStatus.loaded,
-        downloadStatus: downloadStatus,
-        gamePack: gamePack,
-      ));
-
+      emit(
+        state.copyWith(
+          status: PackDetailsStatus.loaded,
+          downloadStatus: downloadStatus,
+          gamePack: gamePack,
+        ),
+      );
     } catch (e) {
-      emit(state.copyWith(
-        status: PackDetailsStatus.error,
-        errorMessage: 'Failed to load pack details: $e',
-      ));
+      emit(
+        state.copyWith(
+          status: PackDetailsStatus.error,
+          errorMessage: 'Failed to load pack details: $e',
+        ),
+      );
     }
   }
 
@@ -58,15 +61,18 @@ class PackDetailsCubit extends Cubit<PackDetailsState> {
           .toList();
       await _imageCache.preloadPackImages(imageUrls);
 
-      emit(state.copyWith(
-        downloadStatus: PackDownloadStatus.cached,
-      ));
-
+      emit(
+        state.copyWith(
+          downloadStatus: PackDownloadStatus.cached,
+        ),
+      );
     } catch (e) {
-      emit(state.copyWith(
-        downloadStatus: PackDownloadStatus.failed,
-        errorMessage: 'Failed to cache images: $e',
-      ));
+      emit(
+        state.copyWith(
+          downloadStatus: PackDownloadStatus.failed,
+          errorMessage: 'Failed to cache images: $e',
+        ),
+      );
     }
   }
 
@@ -108,8 +114,7 @@ class PackDetailsState extends Equatable {
       gamePack != null && downloadStatus == PackDownloadStatus.cached;
 
   /// Check if pack is downloading
-  bool get isDownloading =>
-      downloadStatus == PackDownloadStatus.downloading;
+  bool get isDownloading => downloadStatus == PackDownloadStatus.downloading;
 
   /// Check if pack is cached
   bool get isCached => downloadStatus == PackDownloadStatus.cached;
@@ -135,12 +140,12 @@ class PackDetailsState extends Equatable {
 
   @override
   List<Object?> get props => [
-        packInfo,
-        status,
-        downloadStatus,
-        gamePack,
-        errorMessage,
-      ];
+    packInfo,
+    status,
+    downloadStatus,
+    gamePack,
+    errorMessage,
+  ];
 }
 
 /// Pack details status enumeration

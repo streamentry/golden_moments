@@ -1,8 +1,8 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:memory_lane/data/models/github_pack_index.dart';
-import 'package:memory_lane/data/services/local_pack_service.dart';
-import 'package:memory_lane/game/models/models.dart';
+import 'package:golden_moments/data/models/github_pack_index.dart';
+import 'package:golden_moments/data/services/local_pack_service.dart';
+import 'package:golden_moments/game/models/models.dart';
 
 /// Cubit for managing pack discovery state
 class PackDiscoveryCubit extends Cubit<PackDiscoveryState> {
@@ -21,19 +21,22 @@ class PackDiscoveryCubit extends Cubit<PackDiscoveryState> {
       // Extract categories
       final categories = _extractCategories(packIndex.packs);
 
-      emit(state.copyWith(
-        status: PackDiscoveryStatus.loaded,
-        allPacks: packIndex.packs,
-        filteredPacks: packIndex.packs,
-        featuredPacks: packIndex.getFeaturedPacks(),
-        categories: categories,
-      ));
-
+      emit(
+        state.copyWith(
+          status: PackDiscoveryStatus.loaded,
+          allPacks: packIndex.packs,
+          filteredPacks: packIndex.packs,
+          featuredPacks: packIndex.getFeaturedPacks(),
+          categories: categories,
+        ),
+      );
     } catch (e) {
-      emit(state.copyWith(
-        status: PackDiscoveryStatus.error,
-        errorMessage: 'Failed to load packs: $e',
-      ));
+      emit(
+        state.copyWith(
+          status: PackDiscoveryStatus.error,
+          errorMessage: 'Failed to load packs: $e',
+        ),
+      );
     }
   }
 
@@ -47,11 +50,13 @@ class PackDiscoveryCubit extends Cubit<PackDiscoveryState> {
     final filteredPacks = query.isEmpty
         ? state.allPacks
         : state.allPacks.where((pack) => pack.matchesQuery(query)).toList();
-    
-    emit(state.copyWith(
-      searchQuery: query,
-      filteredPacks: filteredPacks,
-    ));
+
+    emit(
+      state.copyWith(
+        searchQuery: query,
+        filteredPacks: filteredPacks,
+      ),
+    );
   }
 
   /// Select category filter
@@ -59,23 +64,25 @@ class PackDiscoveryCubit extends Cubit<PackDiscoveryState> {
     final filteredPacks = category == null
         ? state.allPacks
         : state.allPacks.where((pack) => pack.category == category).toList();
-    
-    emit(state.copyWith(
-      selectedCategory: category,
-      filteredPacks: filteredPacks,
-      searchQuery: '', // Clear search when selecting category
-    ));
+
+    emit(
+      state.copyWith(
+        selectedCategory: category,
+        filteredPacks: filteredPacks,
+        searchQuery: '', // Clear search when selecting category
+      ),
+    );
   }
 
   /// Apply filters
   void applyFilters(PackDiscoveryFilters filters) {
     var filteredPacks = state.allPacks.where((pack) {
       // Difficulty filter
-      if (filters.difficulties.isNotEmpty && 
+      if (filters.difficulties.isNotEmpty &&
           !filters.difficulties.contains(pack.difficulty)) {
         return false;
       }
-      
+
       // Premium filter
       if (filters.showFreeOnly && pack.isPremium) {
         return false;
@@ -83,37 +90,41 @@ class PackDiscoveryCubit extends Cubit<PackDiscoveryState> {
       if (filters.showPremiumOnly && !pack.isPremium) {
         return false;
       }
-      
+
       // Category filter
-      if (filters.categories.isNotEmpty && 
+      if (filters.categories.isNotEmpty &&
           !filters.categories.contains(pack.category)) {
         return false;
       }
-      
+
       return true;
     }).toList();
-    
+
     // Apply search query if present
     if (state.searchQuery.isNotEmpty) {
       filteredPacks = filteredPacks
           .where((pack) => pack.matchesQuery(state.searchQuery))
           .toList();
     }
-    
-    emit(state.copyWith(
-      filters: filters,
-      filteredPacks: filteredPacks,
-    ));
+
+    emit(
+      state.copyWith(
+        filters: filters,
+        filteredPacks: filteredPacks,
+      ),
+    );
   }
 
   /// Clear all filters
   void clearFilters() {
-    emit(state.copyWith(
-      filters: const PackDiscoveryFilters(),
-      selectedCategory: null,
-      searchQuery: '',
-      filteredPacks: state.allPacks,
-    ));
+    emit(
+      state.copyWith(
+        filters: const PackDiscoveryFilters(),
+        selectedCategory: null,
+        searchQuery: '',
+        filteredPacks: state.allPacks,
+      ),
+    );
   }
 
   /// Extract unique categories from packs
@@ -174,16 +185,16 @@ class PackDiscoveryState extends Equatable {
 
   @override
   List<Object?> get props => [
-        status,
-        allPacks,
-        filteredPacks,
-        featuredPacks,
-        categories,
-        searchQuery,
-        selectedCategory,
-        filters,
-        errorMessage,
-      ];
+    status,
+    allPacks,
+    filteredPacks,
+    featuredPacks,
+    categories,
+    searchQuery,
+    selectedCategory,
+    filters,
+    errorMessage,
+  ];
 }
 
 /// Pack discovery status enumeration
@@ -233,20 +244,20 @@ class PackDiscoveryFilters extends Equatable {
   /// Check if any filters are active
   bool get hasActiveFilters {
     return difficulties.isNotEmpty ||
-           categories.isNotEmpty ||
-           showFreeOnly ||
-           showPremiumOnly ||
-           showNewOnly ||
-           showUpdatedOnly;
+        categories.isNotEmpty ||
+        showFreeOnly ||
+        showPremiumOnly ||
+        showNewOnly ||
+        showUpdatedOnly;
   }
 
   @override
   List<Object?> get props => [
-        difficulties,
-        categories,
-        showFreeOnly,
-        showPremiumOnly,
-        showNewOnly,
-        showUpdatedOnly,
-      ];
+    difficulties,
+    categories,
+    showFreeOnly,
+    showPremiumOnly,
+    showNewOnly,
+    showUpdatedOnly,
+  ];
 }

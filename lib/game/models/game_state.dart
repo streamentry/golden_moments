@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
-import 'package:memory_lane/game/models/game_pack.dart';
-import 'package:memory_lane/game/models/game_tile.dart';
+import 'package:golden_moments/game/models/game_pack.dart';
+import 'package:golden_moments/game/models/game_tile.dart';
 
 /// Current status of the game
 enum GameStatus {
@@ -104,16 +104,16 @@ class GameState extends Equatable {
 
   @override
   List<Object?> get props => [
-        currentPack,
-        tiles,
-        status,
-        moves,
-        matchedPairs,
-        selectedTiles,
-        startTime,
-        endTime,
-        showingMismatch,
-        errorMessage,
-        loadResult,
-      ];
+    currentPack,
+    tiles,
+    status,
+    moves,
+    matchedPairs,
+    selectedTiles,
+    startTime,
+    endTime,
+    showingMismatch,
+    errorMessage,
+    loadResult,
+  ];
 }

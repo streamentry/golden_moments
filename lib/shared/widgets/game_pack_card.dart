@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/shared/widgets/download_progress_card.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/game/models/models.dart';
+import 'package:golden_moments/shared/widgets/download_progress_card.dart';
 
 /// Card widget for displaying a game pack
 class GamePackCard extends StatelessWidget {
@@ -32,7 +32,9 @@ class GamePackCard extends StatelessWidget {
       clipBehavior: Clip.antiAlias,
       child: InkWell(
         onTap: onTap,
-        child: isHorizontal ? _buildHorizontalLayout(theme) : _buildVerticalLayout(theme),
+        child: isHorizontal
+            ? _buildHorizontalLayout(theme)
+            : _buildVerticalLayout(theme),
       ),
     );
   }
@@ -218,7 +220,9 @@ class GamePackCard extends StatelessWidget {
                           child: Text(
                             pack.description!,
                             style: theme.textTheme.bodySmall?.copyWith(
-                              color: theme.colorScheme.onSurface.withValues(alpha: 0.6),
+                              color: theme.colorScheme.onSurface.withValues(
+                                alpha: 0.6,
+                              ),
                             ),
                             maxLines: 1,
                             overflow: TextOverflow.ellipsis,
@@ -280,10 +284,14 @@ class GamePackCard extends StatelessWidget {
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.end,
-      children: badges.map((badge) => Padding(
-        padding: const EdgeInsets.only(bottom: 4),
-        child: badge,
-      )).toList(),
+      children: badges
+          .map(
+            (badge) => Padding(
+              padding: const EdgeInsets.only(bottom: 4),
+              child: badge,
+            ),
+          )
+          .toList(),
     );
   }
 

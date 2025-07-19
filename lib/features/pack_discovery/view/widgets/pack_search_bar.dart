@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/design_system.dart';
+import 'package:golden_moments/design_system.dart';
 
 /// Search bar widget for pack discovery
 class PackSearchBar extends StatefulWidget {
@@ -49,7 +49,7 @@ class _PackSearchBarState extends State<PackSearchBar> {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Row(
       children: [
         // Search field
@@ -79,7 +79,9 @@ class _PackSearchBarState extends State<PackSearchBar> {
                     ? IconButton(
                         icon: Icon(
                           Icons.clear,
-                          color: theme.colorScheme.onSurface.withValues(alpha: 0.5),
+                          color: theme.colorScheme.onSurface.withValues(
+                            alpha: 0.5,
+                          ),
                         ),
                         onPressed: () {
                           _controller.clear();
@@ -102,13 +104,13 @@ class _PackSearchBarState extends State<PackSearchBar> {
             ),
           ),
         ),
-        
+
         // Filter button
         if (widget.onFilterTap != null) ...[
           const SizedBox(width: gmSpaceMd),
           Container(
             decoration: BoxDecoration(
-              color: widget.hasActiveFilters 
+              color: widget.hasActiveFilters
                   ? theme.colorScheme.primary
                   : theme.colorScheme.surface,
               borderRadius: BorderRadius.circular(gmRadiusMd),
@@ -166,11 +168,11 @@ class PackSearchSuggestions extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     if (suggestions.isEmpty) {
       return const SizedBox.shrink();
     }
-    
+
     return Container(
       margin: const EdgeInsets.only(top: gmSpaceSm),
       decoration: BoxDecoration(
@@ -243,11 +245,11 @@ class RecentSearches extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     if (recentSearches.isEmpty) {
       return const SizedBox.shrink();
     }
-    
+
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -286,7 +288,9 @@ class RecentSearches extends StatelessWidget {
                   vertical: 4,
                 ),
                 decoration: BoxDecoration(
-                  color: theme.colorScheme.primaryContainer.withValues(alpha: 0.3),
+                  color: theme.colorScheme.primaryContainer.withValues(
+                    alpha: 0.3,
+                  ),
                   borderRadius: BorderRadius.circular(gmRadiusMd),
                 ),
                 child: Row(
@@ -301,7 +305,9 @@ class RecentSearches extends StatelessWidget {
                     Text(
                       search,
                       style: theme.textTheme.bodySmall?.copyWith(
-                        color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
+                        color: theme.colorScheme.onSurface.withValues(
+                          alpha: 0.7,
+                        ),
                       ),
                     ),
                   ],

@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:memory_lane/game/models/models.dart';
+import 'package:golden_moments/game/models/models.dart';
 
 /// Cached pack data with local file paths and metadata
 class PackCache extends Equatable {
@@ -83,13 +83,13 @@ class PackCache extends Equatable {
   PackCache addImage(CachedImage image) {
     final updatedImages = List<CachedImage>.from(images);
     final existingIndex = updatedImages.indexWhere((img) => img.id == image.id);
-    
+
     if (existingIndex >= 0) {
       updatedImages[existingIndex] = image;
     } else {
       updatedImages.add(image);
     }
-    
+
     return copyWith(images: updatedImages);
   }
 
@@ -100,7 +100,7 @@ class PackCache extends Equatable {
   }
 
   /// Get downloaded images count
-  int get downloadedImagesCount => 
+  int get downloadedImagesCount =>
       images.where((img) => img.status == ImageCacheStatus.downloaded).length;
 
   /// Get total cache size in bytes
@@ -128,18 +128,18 @@ class PackCache extends Equatable {
   }
 
   /// Get all downloaded images
-  List<CachedImage> get downloadedImages => 
+  List<CachedImage> get downloadedImages =>
       images.where((img) => img.status == ImageCacheStatus.downloaded).toList();
 
   @override
   List<Object?> get props => [
-        id,
-        version,
-        downloadedAt,
-        expiresAt,
-        manifest,
-        images,
-      ];
+    id,
+    version,
+    downloadedAt,
+    expiresAt,
+    manifest,
+    images,
+  ];
 }
 
 /// Cached image with local file path and metadata
@@ -281,20 +281,20 @@ class CachedImage extends Equatable {
 
   @override
   List<Object?> get props => [
-        id,
-        filename,
-        caption,
-        altText,
-        localPath,
-        thumbnailPath,
-        downloadUrl,
-        size,
-        dimensions,
-        format,
-        checksum,
-        downloadedAt,
-        status,
-      ];
+    id,
+    filename,
+    caption,
+    altText,
+    localPath,
+    thumbnailPath,
+    downloadUrl,
+    size,
+    dimensions,
+    format,
+    checksum,
+    downloadedAt,
+    status,
+  ];
 }
 
 /// Image cache status enumeration

@@ -1,21 +1,24 @@
 import 'dart:math';
 import 'package:bloc/bloc.dart';
-import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/game/services/game_pack_loader.dart';
-import 'package:memory_lane/shared/constants/app_constants.dart';
+import 'package:golden_moments/game/models/models.dart';
+import 'package:golden_moments/game/services/game_pack_loader.dart';
+import 'package:golden_moments/shared/constants/app_constants.dart';
 
 /// Cubit for managing game state and logic
 class GameCubit extends Cubit<GameState> {
-  GameCubit() : super(const GameState(
-    currentPack: GamePack(
-      id: 'empty',
-      title: 'Empty',
-      theme: 'Empty',
-      tiles: [],
-      difficulty: GameDifficulty.easy,
-    ),
-    tiles: [],
-  ));
+  GameCubit()
+    : super(
+        const GameState(
+          currentPack: GamePack(
+            id: 'empty',
+            title: 'Empty',
+            theme: 'Empty',
+            tiles: [],
+            difficulty: GameDifficulty.easy,
+          ),
+          tiles: [],
+        ),
+      );
 
   final GamePackLoader _packLoader = GamePackLoader.instance;
 
@@ -34,23 +37,29 @@ class GameCubit extends Cubit<GameState> {
           // Pack loaded from cache - fully offline
         } else if (result.requiresDownload) {
           // Pack requires download - show download UI
-          emit(state.copyWith(
-            status: GameStatus.requiresDownload,
-            loadResult: result,
-          ));
+          emit(
+            state.copyWith(
+              status: GameStatus.requiresDownload,
+              loadResult: result,
+            ),
+          );
           return;
         }
       } else {
-        emit(state.copyWith(
-          status: GameStatus.failed,
-          errorMessage: result.error ?? 'Failed to load pack',
-        ));
+        emit(
+          state.copyWith(
+            status: GameStatus.failed,
+            errorMessage: result.error ?? 'Failed to load pack',
+          ),
+        );
       }
     } catch (e) {
-      emit(state.copyWith(
-        status: GameStatus.failed,
-        errorMessage: 'Error loading pack: $e',
-      ));
+      emit(
+        state.copyWith(
+          status: GameStatus.failed,
+          errorMessage: 'Error loading pack: $e',
+        ),
+      );
     }
   }
 
@@ -58,45 +67,52 @@ class GameCubit extends Cubit<GameState> {
   void startGame(GamePack pack) {
     final shuffledTiles = _shuffleTiles(pack.tiles);
 
-    emit(GameState(
-      currentPack: pack,
-      tiles: shuffledTiles,
-      status: GameStatus.playing,
-      moves: 0,
-      matchedPairs: 0,
-      selectedTiles: [],
-      startTime: DateTime.now(),
-    ));
+    emit(
+      GameState(
+        currentPack: pack,
+        tiles: shuffledTiles,
+        status: GameStatus.playing,
+        moves: 0,
+        matchedPairs: 0,
+        selectedTiles: [],
+        startTime: DateTime.now(),
+      ),
+    );
   }
 
   /// Handle tile tap
   void onTileTap(String tileId) {
     if (state.status != GameStatus.playing) return;
     if (state.showingMismatch) return;
-    
+
     final tileIndex = state.tiles.indexWhere((tile) => tile.id == tileId);
     if (tileIndex == -1) return;
-    
+
     final tile = state.tiles[tileIndex];
-    
+
     // Don't allow tapping already matched or revealed tiles
     if (tile.isMatched || tile.isRevealed) return;
-    
+
     // Don't allow more than 2 tiles to be selected
     if (state.selectedTiles.length >= AppConstants.maxSelectedTiles) return;
-    
+
     // Reveal the tile
     final updatedTiles = List<GameTile>.from(state.tiles);
     updatedTiles[tileIndex] = tile.copyWith(isRevealed: true);
-    
-    final updatedSelectedTiles = [...state.selectedTiles, tile.copyWith(isRevealed: true)];
-    
-    emit(state.copyWith(
-      tiles: updatedTiles,
-      selectedTiles: updatedSelectedTiles,
-      moves: state.moves + 1,
-    ));
-    
+
+    final updatedSelectedTiles = [
+      ...state.selectedTiles,
+      tile.copyWith(isRevealed: true),
+    ];
+
+    emit(
+      state.copyWith(
+        tiles: updatedTiles,
+        selectedTiles: updatedSelectedTiles,
+        moves: state.moves + 1,
+      ),
+    );
+
     // Check for match if we have 2 tiles selected
     if (updatedSelectedTiles.length == AppConstants.maxSelectedTiles) {
       _checkForMatch();
@@ -106,12 +122,12 @@ class GameCubit extends Cubit<GameState> {
   /// Check if the selected tiles match
   void _checkForMatch() {
     if (state.selectedTiles.length != AppConstants.maxSelectedTiles) return;
-    
+
     final tile1 = state.selectedTiles[0];
     final tile2 = state.selectedTiles[1];
-    
+
     final isMatch = tile1.pairId == tile2.pairId && tile1.id != tile2.id;
-    
+
     if (isMatch) {
       _handleMatch();
     } else {
@@ -127,18 +143,21 @@ class GameCubit extends Cubit<GameState> {
       }
       return tile;
     }).toList();
-    
+
     final newMatchedPairs = state.matchedPairs + 1;
-    final isGameCompleted = newMatchedPairs == state.currentPack.difficulty.pairCount;
-    
-    emit(state.copyWith(
-      tiles: updatedTiles,
-      selectedTiles: [],
-      matchedPairs: newMatchedPairs,
-      status: isGameCompleted ? GameStatus.completed : GameStatus.playing,
-      endTime: isGameCompleted ? DateTime.now() : null,
-    ));
-    
+    final isGameCompleted =
+        newMatchedPairs == state.currentPack.difficulty.pairCount;
+
+    emit(
+      state.copyWith(
+        tiles: updatedTiles,
+        selectedTiles: [],
+        matchedPairs: newMatchedPairs,
+        status: isGameCompleted ? GameStatus.completed : GameStatus.playing,
+        endTime: isGameCompleted ? DateTime.now() : null,
+      ),
+    );
+
     if (isGameCompleted) {
       _handleGameCompletion();
     }
@@ -148,7 +167,7 @@ class GameCubit extends Cubit<GameState> {
   void _handleMismatch() {
     // Show mismatch state briefly
     emit(state.copyWith(showingMismatch: true));
-    
+
     // After delay, hide the tiles
     Future<void>.delayed(AppConstants.mismatchDisplayDuration, () {
       if (state.showingMismatch) {
@@ -158,12 +177,14 @@ class GameCubit extends Cubit<GameState> {
           }
           return tile;
         }).toList();
-        
-        emit(state.copyWith(
-          tiles: updatedTiles,
-          selectedTiles: [],
-          showingMismatch: false,
-        ));
+
+        emit(
+          state.copyWith(
+            tiles: updatedTiles,
+            selectedTiles: [],
+            showingMismatch: false,
+          ),
+        );
       }
     });
   }
@@ -199,7 +220,7 @@ class GameCubit extends Cubit<GameState> {
   /// Shuffle tiles for game start
   List<GameTile> _shuffleTiles(List<GameTile> tiles) {
     final shuffledTiles = List<GameTile>.from(tiles);
-    
+
     // Reset all tile states
     for (int i = 0; i < shuffledTiles.length; i++) {
       shuffledTiles[i] = shuffledTiles[i].copyWith(
@@ -207,7 +228,7 @@ class GameCubit extends Cubit<GameState> {
         isRevealed: false,
       );
     }
-    
+
     // Shuffle the list
     final random = Random();
     for (int i = shuffledTiles.length - 1; i > 0; i--) {
@@ -216,7 +237,7 @@ class GameCubit extends Cubit<GameState> {
       shuffledTiles[i] = shuffledTiles[j];
       shuffledTiles[j] = temp;
     }
-    
+
     return shuffledTiles;
   }
 
@@ -224,11 +245,13 @@ class GameCubit extends Cubit<GameState> {
   void showHint() {
     if (state.status != GameStatus.playing) return;
     if (state.selectedTiles.isNotEmpty) return;
-    
+
     // Find an unmatched pair
-    final unmatchedTiles = state.tiles.where((tile) => !tile.isMatched).toList();
+    final unmatchedTiles = state.tiles
+        .where((tile) => !tile.isMatched)
+        .toList();
     if (unmatchedTiles.length < 2) return;
-    
+
     // Group by pair ID
     final pairGroups = <String, List<GameTile>>{};
     for (final tile in unmatchedTiles) {
@@ -237,18 +260,18 @@ class GameCubit extends Cubit<GameState> {
         pairGroups[tile.pairId!]!.add(tile);
       }
     }
-    
+
     // Find a complete pair
     final completePairs = pairGroups.entries
         .where((entry) => entry.value.length == 2)
         .toList();
-    
+
     if (completePairs.isEmpty) return;
-    
+
     // Pick a random pair to hint
     final random = Random();
     final hintPair = completePairs[random.nextInt(completePairs.length)].value;
-    
+
     // Briefly reveal the pair
     final updatedTiles = state.tiles.map((tile) {
       if (hintPair.any((hintTile) => hintTile.id == tile.id)) {
@@ -256,18 +279,19 @@ class GameCubit extends Cubit<GameState> {
       }
       return tile;
     }).toList();
-    
+
     emit(state.copyWith(tiles: updatedTiles));
-    
+
     // Hide the hint after a short delay
     Future<void>.delayed(const Duration(milliseconds: 1000), () {
       final revertedTiles = state.tiles.map((tile) {
-        if (hintPair.any((hintTile) => hintTile.id == tile.id) && !tile.isMatched) {
+        if (hintPair.any((hintTile) => hintTile.id == tile.id) &&
+            !tile.isMatched) {
           return tile.copyWith(isRevealed: false);
         }
         return tile;
       }).toList();
-      
+
       emit(state.copyWith(tiles: revertedTiles));
     });
   }

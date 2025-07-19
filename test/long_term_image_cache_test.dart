@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:memory_lane/data/services/long_term_image_cache.dart';
+import 'package:golden_moments/data/services/long_term_image_cache.dart';
 import 'package:path_provider_platform_interface/path_provider_platform_interface.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
@@ -41,7 +41,7 @@ void main() {
 
     test('should initialize cache directory', () async {
       await cache.initialize();
-      
+
       final cacheDir = Directory('/tmp/test_cache/image_cache');
       expect(await cacheDir.exists(), isTrue);
       expect(cache.isInitialized, isTrue);
@@ -49,18 +49,18 @@ void main() {
 
     test('should check if image is cached', () async {
       await cache.initialize();
-      
+
       const testUrl = 'https://example.com/test.jpg';
       final isCached = await cache.isImageCached(testUrl);
-      
+
       expect(isCached, isFalse);
     });
 
     test('should get cache statistics', () async {
       await cache.initialize();
-      
+
       final stats = await cache.getCacheStatistics();
-      
+
       expect(stats.totalFiles, 0);
       expect(stats.totalSizeBytes, 0);
       expect(stats.expiredFiles, 0);
@@ -69,32 +69,32 @@ void main() {
 
     test('should clean expired cache', () async {
       await cache.initialize();
-      
+
       final cleanedCount = await cache.cleanExpiredCache();
-      
+
       expect(cleanedCount, 0); // No expired items initially
     });
 
     test('should clear all cache', () async {
       await cache.initialize();
-      
+
       await cache.clearAllCache();
-      
+
       final stats = await cache.getCacheStatistics();
       expect(stats.totalFiles, 0);
     });
 
     test('should preload pack images', () async {
       await cache.initialize();
-      
+
       const imageUrls = [
         'https://example.com/img1.jpg',
         'https://example.com/img2.jpg',
       ];
-      
+
       // This should not throw an error even if downloads fail
       await cache.preloadPackImages(imageUrls);
-      
+
       // Since we can't actually download in tests, just verify no exception
       expect(true, isTrue);
     });
@@ -118,7 +118,9 @@ void main() {
       final expiredMetadata = CacheMetadata(
         url: 'https://example.com/old.jpg',
         cacheKey: 'old_key',
-        cachedAt: DateTime.now().subtract(const Duration(days: 400)), // > 1 year
+        cachedAt: DateTime.now().subtract(
+          const Duration(days: 400),
+        ), // > 1 year
         lastAccessed: DateTime.now().subtract(const Duration(days: 400)),
         fileSize: 2048,
         fileName: 'old.jpg',

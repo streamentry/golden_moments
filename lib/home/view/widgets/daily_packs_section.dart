@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/shared/widgets/game_pack_card.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/game/models/models.dart';
+import 'package:golden_moments/shared/widgets/game_pack_card.dart';
 
 /// Section displaying daily featured game packs
 class DailyPacksSection extends StatelessWidget {

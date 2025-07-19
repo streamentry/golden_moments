@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/game/view/game_page.dart';
-import 'package:memory_lane/home/cubit/home_cubit.dart';
-import 'package:memory_lane/home/cubit/home_state.dart';
-import 'package:memory_lane/home/view/widgets/daily_packs_section.dart';
-import 'package:memory_lane/home/view/widgets/library_section.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/game/view/game_page.dart';
+import 'package:golden_moments/home/cubit/home_cubit.dart';
+import 'package:golden_moments/home/cubit/home_state.dart';
+import 'package:golden_moments/home/view/widgets/daily_packs_section.dart';
+import 'package:golden_moments/home/view/widgets/library_section.dart';
 
 /// Home page of the Memory Lane app
 class HomePage extends StatelessWidget {
@@ -142,7 +142,7 @@ class _LoadedView extends StatelessWidget {
             // Welcome message
             _WelcomeSection(),
             const SizedBox(height: gmSpaceLg),
-            
+
             // Daily packs section
             DailyPacksSection(
               packs: state.dailyPacks,
@@ -155,7 +155,7 @@ class _LoadedView extends StatelessWidget {
               },
             ),
             const SizedBox(height: gmSpaceLg),
-            
+
             // Library section
             LibrarySection(
               packs: state.libraryPacks,
@@ -208,7 +208,7 @@ class _WelcomeSection extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Card(
       child: Padding(
         padding: const EdgeInsets.all(gmSpaceMd),

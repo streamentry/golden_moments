@@ -1,9 +1,9 @@
 import 'dart:async';
 
-import 'package:memory_lane/data/models/github_pack_index.dart';
-import 'package:memory_lane/data/services/local_pack_service.dart';
-import 'package:memory_lane/data/services/long_term_image_cache.dart';
-import 'package:memory_lane/game/models/models.dart';
+import 'package:golden_moments/data/models/github_pack_index.dart';
+import 'package:golden_moments/data/services/local_pack_service.dart';
+import 'package:golden_moments/data/services/long_term_image_cache.dart';
+import 'package:golden_moments/game/models/models.dart';
 
 /// Service for loading game packs with local JSON and cached images
 class GamePackLoader {
@@ -43,7 +43,6 @@ class GamePackLoader {
           totalSize: packInfo.estimatedSize,
         ),
       );
-
     } catch (e) {
       return GamePackLoadResult.failure(
         'Failed to load pack: $e',
@@ -69,15 +68,13 @@ class GamePackLoader {
     });
   }
 
-
-
-
-
   /// Get available packs from local JSON
   Future<List<GamePack>> getAvailablePacks() async {
     try {
       final packInfos = await _packService.getAllPacks();
-      return packInfos.map((packInfo) => _packService.convertToGamePack(packInfo)).toList();
+      return packInfos
+          .map((packInfo) => _packService.convertToGamePack(packInfo))
+          .toList();
     } catch (e) {
       return [];
     }

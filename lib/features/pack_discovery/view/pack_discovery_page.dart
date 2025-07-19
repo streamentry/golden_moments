@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/features/pack_discovery/cubit/pack_discovery_cubit.dart';
-import 'package:memory_lane/features/pack_discovery/view/widgets/pack_category_grid.dart';
-import 'package:memory_lane/features/pack_discovery/view/widgets/pack_search_bar.dart';
-import 'package:memory_lane/shared/widgets/download_progress_card.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/pack_discovery/cubit/pack_discovery_cubit.dart';
+import 'package:golden_moments/features/pack_discovery/view/widgets/pack_category_grid.dart';
+import 'package:golden_moments/features/pack_discovery/view/widgets/pack_search_bar.dart';
+import 'package:golden_moments/shared/widgets/download_progress_card.dart';
 
 /// Pack discovery page for browsing available packs
 class PackDiscoveryPage extends StatelessWidget {
@@ -47,7 +47,8 @@ class PackDiscoveryView extends StatelessWidget {
             case PackDiscoveryStatus.error:
               return _ErrorView(
                 message: state.errorMessage,
-                onRetry: () => context.read<PackDiscoveryCubit>().refreshPacks(),
+                onRetry: () =>
+                    context.read<PackDiscoveryCubit>().refreshPacks(),
               );
             case PackDiscoveryStatus.loaded:
               return _LoadedView(state: state);
@@ -65,7 +66,7 @@ class _LoadingView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
@@ -97,7 +98,7 @@ class _ErrorView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Center(
       child: Padding(
         padding: const EdgeInsets.all(gmSpaceLg),
@@ -229,7 +230,7 @@ class _LoadedView extends StatelessWidget {
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: gmSpaceMd),
               child: _SectionHeader(
-                title: state.searchQuery.isNotEmpty 
+                title: state.searchQuery.isNotEmpty
                     ? 'Search Results (${state.filteredPacks.length})'
                     : 'All Packs',
                 icon: Icons.grid_view,
@@ -292,7 +293,7 @@ class _SectionHeader extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Padding(
       padding: const EdgeInsets.only(bottom: gmSpaceMd),
       child: Row(
@@ -325,7 +326,7 @@ class _FeaturedPackCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Card(
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -377,7 +378,7 @@ class _FeaturedPackCard extends StatelessWidget {
               ),
             ),
           ),
-          
+
           // Pack info
           Expanded(
             flex: 2,
@@ -418,7 +419,7 @@ class _PackDiscoveryCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Card(
       child: InkWell(
         borderRadius: BorderRadius.circular(gmRadiusMd),
@@ -448,7 +449,7 @@ class _PackDiscoveryCard extends StatelessWidget {
                 ),
               ),
             ),
-            
+
             // Pack info
             Expanded(
               flex: 2,
@@ -469,7 +470,9 @@ class _PackDiscoveryCard extends StatelessWidget {
                     Text(
                       'Category', // pack.category
                       style: theme.textTheme.bodySmall?.copyWith(
-                        color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
+                        color: theme.colorScheme.onSurface.withValues(
+                          alpha: 0.7,
+                        ),
                       ),
                     ),
                     const Spacer(),
@@ -479,7 +482,9 @@ class _PackDiscoveryCard extends StatelessWidget {
                         Text(
                           '10 images', // ${pack.imageCount} images
                           style: theme.textTheme.bodySmall?.copyWith(
-                            color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
+                            color: theme.colorScheme.onSurface.withValues(
+                              alpha: 0.7,
+                            ),
                           ),
                         ),
                         DownloadStatusBadge(
@@ -524,27 +529,27 @@ class _FilterBottomSheet extends StatelessWidget {
             ),
           ),
           const SizedBox(height: gmSpaceMd),
-          
+
           // Difficulty filter
           Text(
             'Difficulty',
             style: Theme.of(context).textTheme.titleMedium,
           ),
           const SizedBox(height: gmSpaceSm),
+
           // Add difficulty filter chips here
-          
           const SizedBox(height: gmSpaceMd),
-          
+
           // Premium filter
           Text(
             'Content Type',
             style: Theme.of(context).textTheme.titleMedium,
           ),
           const SizedBox(height: gmSpaceSm),
+
           // Add premium filter chips here
-          
           const SizedBox(height: gmSpaceLg),
-          
+
           // Apply button
           SizedBox(
             width: double.infinity,

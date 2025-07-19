@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/data/services/cache_test_service.dart';
-import 'package:memory_lane/design_system.dart';
+import 'package:golden_moments/data/services/cache_test_service.dart';
+import 'package:golden_moments/design_system.dart';
 
 /// Test page to verify the design system works correctly
 class DesignSystemTestPage extends StatefulWidget {

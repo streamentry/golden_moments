@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/data/models/download_progress.dart';
-import 'package:memory_lane/design_system.dart';
+import 'package:golden_moments/data/models/download_progress.dart';
+import 'package:golden_moments/design_system.dart';
 
 /// Card widget displaying download progress for a pack
 class DownloadProgressCard extends StatelessWidget {
@@ -22,7 +22,7 @@ class DownloadProgressCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Card(
       margin: const EdgeInsets.symmetric(
         horizontal: gmSpaceMd,
@@ -49,7 +49,7 @@ class DownloadProgressCard extends StatelessWidget {
                   ),
                 ),
                 const SizedBox(width: gmSpaceMd),
-                
+
                 // Pack info
                 Expanded(
                   child: Column(
@@ -74,14 +74,14 @@ class DownloadProgressCard extends StatelessWidget {
                     ],
                   ),
                 ),
-                
+
                 // Controls
                 if (showControls) _buildControls(theme),
               ],
             ),
-            
+
             const SizedBox(height: gmSpaceMd),
-            
+
             // Progress details
             if (progress.isActive) ...[
               // Progress bar
@@ -90,7 +90,9 @@ class DownloadProgressCard extends StatelessWidget {
                   Expanded(
                     child: LinearProgressIndicator(
                       value: progress.progressPercentage,
-                      backgroundColor: theme.colorScheme.outline.withValues(alpha: 0.2),
+                      backgroundColor: theme.colorScheme.outline.withValues(
+                        alpha: 0.2,
+                      ),
                       valueColor: AlwaysStoppedAnimation<Color>(
                         _getStatusColor(theme),
                       ),
@@ -107,9 +109,9 @@ class DownloadProgressCard extends StatelessWidget {
                   ),
                 ],
               ),
-              
+
               const SizedBox(height: gmSpaceSm),
-              
+
               // Progress stats
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -124,12 +126,14 @@ class DownloadProgressCard extends StatelessWidget {
                     Text(
                       progress.speedText,
                       style: theme.textTheme.bodySmall?.copyWith(
-                        color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
+                        color: theme.colorScheme.onSurface.withValues(
+                          alpha: 0.7,
+                        ),
                       ),
                     ),
                 ],
               ),
-              
+
               if (progress.etaText.isNotEmpty) ...[
                 const SizedBox(height: 2),
                 Text(
@@ -140,7 +144,7 @@ class DownloadProgressCard extends StatelessWidget {
                 ),
               ],
             ],
-            
+
             // Error message
             if (progress.isFailed && progress.error != null) ...[
               const SizedBox(height: gmSpaceSm),
@@ -197,7 +201,7 @@ class DownloadProgressCard extends StatelessWidget {
             iconSize: 20,
           ),
         ],
-        
+
         // Cancel button
         IconButton(
           onPressed: onCancel,
@@ -240,7 +244,7 @@ class DownloadStatusBadge extends StatelessWidget {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final isSmall = size == DownloadBadgeSize.small;
-    
+
     return Container(
       padding: EdgeInsets.all(isSmall ? 4 : 6),
       decoration: BoxDecoration(
@@ -291,7 +295,9 @@ class DownloadStatusBadge extends StatelessWidget {
       case PackDownloadStatus.available:
         return 'DOWNLOAD';
       case PackDownloadStatus.downloading:
-        return progress != null ? '${(progress! * 100).round()}%' : 'DOWNLOADING';
+        return progress != null
+            ? '${(progress! * 100).round()}%'
+            : 'DOWNLOADING';
       case PackDownloadStatus.cached:
         return 'CACHED';
       case PackDownloadStatus.expired:
@@ -331,11 +337,11 @@ class DownloadStatusBadge extends StatelessWidget {
 
 /// Pack download status enumeration
 enum PackDownloadStatus {
-  available,    // Available for download
-  downloading,  // Currently downloading
-  cached,       // Downloaded and cached
-  expired,      // Cache expired, needs update
-  failed,       // Download failed
+  available, // Available for download
+  downloading, // Currently downloading
+  cached, // Downloaded and cached
+  expired, // Cache expired, needs update
+  failed, // Download failed
 }
 
 /// Download badge size options

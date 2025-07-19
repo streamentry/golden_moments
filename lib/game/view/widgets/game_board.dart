@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/game/view/widgets/memory_tile.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/game/models/models.dart';
+import 'package:golden_moments/game/view/widgets/memory_tile.dart';
 
 /// Game board widget that displays the memory tiles in a grid
 class GameBoard extends StatelessWidget {
@@ -22,7 +22,7 @@ class GameBoard extends StatelessWidget {
       builder: (context, constraints) {
         final crossAxisCount = _getCrossAxisCount(difficulty);
         final aspectRatio = _getAspectRatio(difficulty);
-        
+
         return GridView.builder(
           gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
             crossAxisCount: crossAxisCount,

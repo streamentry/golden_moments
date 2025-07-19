@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/game/cubit/game_cubit.dart';
-import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/game/view/widgets/game_board.dart';
-import 'package:memory_lane/game/view/widgets/game_header.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/game/cubit/game_cubit.dart';
+import 'package:golden_moments/game/models/models.dart';
+import 'package:golden_moments/game/view/widgets/game_board.dart';
+import 'package:golden_moments/game/view/widgets/game_header.dart';
 
 /// Game page for playing memory matching games
 class GamePage extends StatelessWidget {
@@ -101,7 +101,9 @@ class GameView extends StatelessWidget {
       barrierDismissible: false,
       builder: (context) => AlertDialog(
         title: const Text('Game Paused'),
-        content: const Text('Take your time! The game will resume when you\'re ready.'),
+        content: const Text(
+          'Take your time! The game will resume when you\'re ready.',
+        ),
         actions: [
           TextButton(
             onPressed: () {
@@ -214,7 +216,7 @@ class _GamePlayView extends StatelessWidget {
       children: [
         // Game header with stats
         GameHeader(state: state),
-        
+
         // Game board
         Expanded(
           child: Padding(

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/game/models/models.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/game/models/models.dart';
 
 /// Individual memory tile widget using the design system
 class MemoryTile extends StatelessWidget {

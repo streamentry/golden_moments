@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/design_system.dart';
+import 'package:golden_moments/design_system.dart';
 
 /// Grid widget for displaying pack categories
 class PackCategoryGrid extends StatelessWidget {
@@ -18,7 +18,7 @@ class PackCategoryGrid extends StatelessWidget {
   Widget build(BuildContext context) {
     // Add "All" category at the beginning
     final allCategories = ['All', ...categories];
-    
+
     return Container(
       height: 120,
       padding: const EdgeInsets.symmetric(horizontal: gmSpaceMd),
@@ -34,10 +34,10 @@ class PackCategoryGrid extends StatelessWidget {
         itemBuilder: (context, index) {
           final category = allCategories[index];
           final isAll = category == 'All';
-          final isSelected = isAll 
-              ? selectedCategory == null 
+          final isSelected = isAll
+              ? selectedCategory == null
               : selectedCategory == category;
-          
+
           return PackCategoryCard(
             category: category,
             isSelected: isSelected,
@@ -67,10 +67,10 @@ class PackCategoryCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Card(
       elevation: isSelected ? 4 : 1,
-      color: isSelected 
+      color: isSelected
           ? theme.colorScheme.primaryContainer
           : theme.colorScheme.surface,
       child: InkWell(
@@ -87,7 +87,9 @@ class PackCategoryCard extends StatelessWidget {
                 decoration: BoxDecoration(
                   color: isSelected
                       ? theme.colorScheme.primary
-                      : theme.colorScheme.primaryContainer.withValues(alpha: 0.3),
+                      : theme.colorScheme.primaryContainer.withValues(
+                          alpha: 0.3,
+                        ),
                   borderRadius: BorderRadius.circular(gmRadiusMd),
                 ),
                 child: Icon(
@@ -98,9 +100,9 @@ class PackCategoryCard extends StatelessWidget {
                       : theme.colorScheme.primary,
                 ),
               ),
-              
+
               const SizedBox(height: gmSpaceSm),
-              
+
               // Category name
               Text(
                 category,
@@ -195,7 +197,7 @@ class PackCategoryChips extends StatelessWidget {
         itemBuilder: (context, index) {
           final category = categories[index];
           final isSelected = selectedCategories.contains(category);
-          
+
           return Padding(
             padding: const EdgeInsets.only(right: gmSpaceSm),
             child: FilterChip(
@@ -235,7 +237,7 @@ class CategoryStats extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -273,7 +275,9 @@ class CategoryStats extends StatelessWidget {
                     vertical: 2,
                   ),
                   decoration: BoxDecoration(
-                    color: theme.colorScheme.primaryContainer.withValues(alpha: 0.3),
+                    color: theme.colorScheme.primaryContainer.withValues(
+                      alpha: 0.3,
+                    ),
                     borderRadius: BorderRadius.circular(gmRadiusMd),
                   ),
                   child: Text(

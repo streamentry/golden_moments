@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/game/models/models.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/game/models/models.dart';
 
 /// Header widget showing game statistics and progress
 class GameHeader extends StatelessWidget {
@@ -45,8 +45,9 @@ class GameHeader extends StatelessWidget {
               Expanded(
                 child: LinearProgressIndicator(
                   value: progress,
-                  backgroundColor:
-                      theme.colorScheme.outline.withValues(alpha: 0.3),
+                  backgroundColor: theme.colorScheme.outline.withValues(
+                    alpha: 0.3,
+                  ),
                   valueColor: AlwaysStoppedAnimation<Color>(
                     theme.colorScheme.primary,
                   ),
@@ -63,9 +64,9 @@ class GameHeader extends StatelessWidget {
               ),
             ],
           ),
-          
+
           const SizedBox(height: gmSpaceMd),
-          
+
           // Game stats
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -97,11 +98,11 @@ class GameHeader extends StatelessWidget {
 
   String _formatTime(DateTime? startTime) {
     if (startTime == null) return '0:00';
-    
+
     final elapsed = DateTime.now().difference(startTime);
     final minutes = elapsed.inMinutes;
     final seconds = elapsed.inSeconds % 60;
-    
+
     return '$minutes:${seconds.toString().padLeft(2, '0')}';
   }
 }

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/game/models/models.dart';
+import 'package:golden_moments/game/models/models.dart';
 
 /// Senior-friendly theme configuration for Memory Lane
 class AppTheme {
@@ -18,26 +18,26 @@ class AppTheme {
   static const Color primaryColor = Color(0xFF2E7D32); // Dark green
   static const Color primaryLightColor = Color(0xFF60AD5E); // Light green
   static const Color primaryDarkColor = Color(0xFF005005); // Very dark green
-  
+
   static const Color secondaryColor = Color(0xFF1976D2); // Blue
   static const Color secondaryLightColor = Color(0xFF63A4FF); // Light blue
   static const Color secondaryDarkColor = Color(0xFF004BA0); // Dark blue
-  
+
   static const Color accentColor = Color(0xFFFF8F00); // Orange
   static const Color errorColor = Color(0xFFD32F2F); // Red
   static const Color successColor = Color(0xFF388E3C); // Green
   static const Color warningColor = Color(0xFFF57C00); // Amber
-  
+
   // Background colors
   static const Color backgroundColor = Color(0xFFF5F5F5); // Light gray
   static const Color surfaceColor = Color(0xFFFFFFFF); // White
   static const Color cardColor = Color(0xFFFAFAFA); // Very light gray
-  
+
   // Text colors
   static const Color textPrimaryColor = Color(0xFF212121); // Dark gray
   static const Color textSecondaryColor = Color(0xFF757575); // Medium gray
   static const Color textOnPrimaryColor = Color(0xFFFFFFFF); // White
-  
+
   // High contrast colors
   static const Color highContrastBackground = Color(0xFF000000); // Black
   static const Color highContrastSurface = Color(0xFF1A1A1A); // Very dark gray
@@ -49,17 +49,17 @@ class AppTheme {
     FontSize fontSize = FontSize.large,
     bool highContrastMode = false,
   }) {
-    final colorScheme = highContrastMode 
-        ? _getHighContrastColorScheme() 
+    final colorScheme = highContrastMode
+        ? _getHighContrastColorScheme()
         : _getStandardColorScheme();
-    
+
     final textTheme = _getTextTheme(fontSize, highContrastMode);
-    
+
     return ThemeData(
       useMaterial3: true,
       colorScheme: colorScheme,
       textTheme: textTheme,
-      
+
       // Button themes with large touch targets
       elevatedButtonTheme: ElevatedButtonThemeData(
         style: ElevatedButton.styleFrom(
@@ -71,7 +71,7 @@ class AppTheme {
           ),
         ),
       ),
-      
+
       textButtonTheme: TextButtonThemeData(
         style: TextButton.styleFrom(
           minimumSize: const Size(minTouchTargetSize * 2, minTouchTargetSize),
@@ -79,9 +79,9 @@ class AppTheme {
           textStyle: textTheme.titleMedium,
         ),
       ),
-      
+
       // Card theme will be handled by individual Card widgets
-      
+
       // App bar theme
       appBarTheme: AppBarTheme(
         backgroundColor: colorScheme.primary,
@@ -92,7 +92,7 @@ class AppTheme {
           fontWeight: FontWeight.bold,
         ),
       ),
-      
+
       // Input decoration theme
       inputDecorationTheme: InputDecorationTheme(
         border: OutlineInputBorder(
@@ -103,13 +103,13 @@ class AppTheme {
           vertical: 16,
         ),
       ),
-      
+
       // Icon theme
       iconTheme: IconThemeData(
         size: 32 * fontSize.multiplier,
         color: colorScheme.onSurface,
       ),
-      
+
       // Divider theme
       dividerTheme: DividerThemeData(
         thickness: 2,
@@ -147,7 +147,7 @@ class AppTheme {
   static TextTheme _getTextTheme(FontSize fontSize, bool highContrastMode) {
     final baseColor = highContrastMode ? highContrastText : textPrimaryColor;
     final multiplier = fontSize.multiplier;
-    
+
     return TextTheme(
       displayLarge: TextStyle(
         fontSize: 32 * multiplier,

@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:memory_lane/game/models/models.dart';
+import 'package:golden_moments/game/models/models.dart';
 
 /// Status of the home screen
 enum HomeStatus {
@@ -53,10 +53,10 @@ class HomeState extends Equatable {
 
   @override
   List<Object?> get props => [
-        status,
-        dailyPacks,
-        libraryPacks,
-        userPreferences,
-        errorMessage,
-      ];
+    status,
+    dailyPacks,
+    libraryPacks,
+    userPreferences,
+    errorMessage,
+  ];
 }

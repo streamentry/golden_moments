@@ -1,13 +1,13 @@
 import 'dart:convert';
 
 import 'package:flutter/services.dart';
-import 'package:memory_lane/data/models/github_pack_index.dart';
-import 'package:memory_lane/game/models/models.dart';
+import 'package:golden_moments/data/models/github_pack_index.dart';
+import 'package:golden_moments/game/models/models.dart';
 
 /// Service for loading pack data from local JSON files
 class LocalPackService {
   LocalPackService._();
-  
+
   static LocalPackService? _instance;
   static LocalPackService get instance => _instance ??= LocalPackService._();
 
@@ -20,12 +20,13 @@ class LocalPackService {
     }
 
     try {
-      final jsonString = await rootBundle.loadString('assets/data/packs_index.json');
+      final jsonString = await rootBundle.loadString(
+        'assets/data/packs_index.json',
+      );
       final jsonData = json.decode(jsonString) as Map<String, dynamic>;
-      
+
       _cachedIndex = GitHubPackIndex.fromJson(jsonData);
       return _cachedIndex!;
-      
     } catch (e) {
       throw Exception('Failed to load pack index: $e');
     }
@@ -67,13 +68,13 @@ class LocalPackService {
 
     final packs = await getAllPacks();
     final lowerQuery = query.toLowerCase();
-    
+
     return packs.where((pack) {
       return pack.title.toLowerCase().contains(lowerQuery) ||
-             (pack.description?.toLowerCase().contains(lowerQuery) ?? false) ||
-             pack.theme.toLowerCase().contains(lowerQuery) ||
-             pack.category.toLowerCase().contains(lowerQuery) ||
-             pack.tags.any((tag) => tag.toLowerCase().contains(lowerQuery));
+          (pack.description?.toLowerCase().contains(lowerQuery) ?? false) ||
+          pack.theme.toLowerCase().contains(lowerQuery) ||
+          pack.category.toLowerCase().contains(lowerQuery) ||
+          pack.tags.any((tag) => tag.toLowerCase().contains(lowerQuery));
     }).toList();
   }
 
@@ -91,11 +92,15 @@ class LocalPackService {
       theme: packInfo.theme,
       difficulty: packInfo.difficulty,
       description: packInfo.description,
-      tiles: packInfo.images.map((image) => GameTile(
-        id: image['id'] as String,
-        imageUrl: image['url'] as String,
-        caption: image['caption'] as String,
-      )).toList(),
+      tiles: packInfo.images
+          .map(
+            (image) => GameTile(
+              id: image['id'] as String,
+              imageUrl: image['url'] as String,
+              caption: image['caption'] as String,
+            ),
+          )
+          .toList(),
     );
   }
 
@@ -103,7 +108,7 @@ class LocalPackService {
   Future<GamePack?> getGamePackById(String packId) async {
     final packInfo = await getPackById(packId);
     if (packInfo == null) return null;
-    
+
     return convertToGamePack(packInfo);
   }
 
@@ -111,23 +116,33 @@ class LocalPackService {
   Future<PackStatistics> getPackStatistics() async {
     final packs = await getAllPacks();
     final categories = await getCategories();
-    
+
     return PackStatistics(
       totalPacks: packs.length,
       totalCategories: categories.length,
       featuredPacks: packs.where((pack) => pack.isFeatured).length,
       premiumPacks: packs.where((pack) => pack.isPremium).length,
       packsByDifficulty: {
-        GameDifficulty.easy: packs.where((pack) => pack.difficulty == GameDifficulty.easy).length,
-        GameDifficulty.medium: packs.where((pack) => pack.difficulty == GameDifficulty.medium).length,
-        GameDifficulty.hard: packs.where((pack) => pack.difficulty == GameDifficulty.hard).length,
-        GameDifficulty.brainy: packs.where((pack) => pack.difficulty == GameDifficulty.brainy).length,
+        GameDifficulty.easy: packs
+            .where((pack) => pack.difficulty == GameDifficulty.easy)
+            .length,
+        GameDifficulty.medium: packs
+            .where((pack) => pack.difficulty == GameDifficulty.medium)
+            .length,
+        GameDifficulty.hard: packs
+            .where((pack) => pack.difficulty == GameDifficulty.hard)
+            .length,
+        GameDifficulty.brainy: packs
+            .where((pack) => pack.difficulty == GameDifficulty.brainy)
+            .length,
       },
       packsByCategory: Map.fromEntries(
-        categories.map((category) => MapEntry(
-          category.name,
-          packs.where((pack) => pack.category == category.id).length,
-        )),
+        categories.map(
+          (category) => MapEntry(
+            category.name,
+            packs.where((pack) => pack.category == category.id).length,
+          ),
+        ),
       ),
     );
   }
@@ -141,29 +156,29 @@ class LocalPackService {
     List<String>? tags,
   }) async {
     var packs = await getAllPacks();
-    
+
     if (category != null) {
       packs = packs.where((pack) => pack.category == category).toList();
     }
-    
+
     if (difficulty != null) {
       packs = packs.where((pack) => pack.difficulty == difficulty).toList();
     }
-    
+
     if (isPremium != null) {
       packs = packs.where((pack) => pack.isPremium == isPremium).toList();
     }
-    
+
     if (isFeatured != null) {
       packs = packs.where((pack) => pack.isFeatured == isFeatured).toList();
     }
-    
+
     if (tags != null && tags.isNotEmpty) {
-      packs = packs.where((pack) => 
-        tags.any((tag) => pack.tags.contains(tag))
-      ).toList();
+      packs = packs
+          .where((pack) => tags.any((tag) => pack.tags.contains(tag)))
+          .toList();
     }
-    
+
     return packs;
   }
 
@@ -262,7 +277,7 @@ class ServiceStatus {
   String get formattedLastUpdated {
     final now = DateTime.now();
     final difference = now.difference(lastUpdated);
-    
+
     if (difference.inMinutes < 1) {
       return 'Just now';
     } else if (difference.inHours < 1) {

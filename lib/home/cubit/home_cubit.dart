@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
-import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/home/cubit/home_state.dart';
+import 'package:golden_moments/game/models/models.dart';
+import 'package:golden_moments/home/cubit/home_state.dart';
 
 /// Cubit for managing home screen state and logic
 class HomeCubit extends Cubit<HomeState> {
@@ -9,28 +9,32 @@ class HomeCubit extends Cubit<HomeState> {
   /// Initialize the home screen with data
   Future<void> initialize() async {
     emit(state.copyWith(status: HomeStatus.loading));
-    
+
     try {
       // Load user preferences (in real app, this would come from storage)
       final preferences = await _loadUserPreferences();
-      
+
       // Load daily packs
       final dailyPacks = await _loadDailyPacks();
-      
+
       // Load library packs
       final libraryPacks = await _loadLibraryPacks();
-      
-      emit(state.copyWith(
-        status: HomeStatus.loaded,
-        userPreferences: preferences,
-        dailyPacks: dailyPacks,
-        libraryPacks: libraryPacks,
-      ));
+
+      emit(
+        state.copyWith(
+          status: HomeStatus.loaded,
+          userPreferences: preferences,
+          dailyPacks: dailyPacks,
+          libraryPacks: libraryPacks,
+        ),
+      );
     } catch (error) {
-      emit(state.copyWith(
-        status: HomeStatus.error,
-        errorMessage: error.toString(),
-      ));
+      emit(
+        state.copyWith(
+          status: HomeStatus.error,
+          errorMessage: error.toString(),
+        ),
+      );
     }
   }
 
@@ -46,11 +50,11 @@ class HomeCubit extends Cubit<HomeState> {
       ...state.userPreferences.completedPacks,
       if (!state.userPreferences.completedPacks.contains(packId)) packId,
     ];
-    
+
     final updatedPreferences = state.userPreferences.copyWith(
       completedPacks: updatedCompletedPacks,
     );
-    
+
     // Update daily packs
     final updatedDailyPacks = state.dailyPacks.map((pack) {
       if (pack.id == packId) {
@@ -58,7 +62,7 @@ class HomeCubit extends Cubit<HomeState> {
       }
       return pack;
     }).toList();
-    
+
     // Update library packs
     final updatedLibraryPacks = state.libraryPacks.map((pack) {
       if (pack.id == packId) {
@@ -66,12 +70,14 @@ class HomeCubit extends Cubit<HomeState> {
       }
       return pack;
     }).toList();
-    
-    emit(state.copyWith(
-      userPreferences: updatedPreferences,
-      dailyPacks: updatedDailyPacks,
-      libraryPacks: updatedLibraryPacks,
-    ));
+
+    emit(
+      state.copyWith(
+        userPreferences: updatedPreferences,
+        dailyPacks: updatedDailyPacks,
+        libraryPacks: updatedLibraryPacks,
+      ),
+    );
   }
 
   /// Refresh daily packs
@@ -80,15 +86,17 @@ class HomeCubit extends Cubit<HomeState> {
       final dailyPacks = await _loadDailyPacks();
       emit(state.copyWith(dailyPacks: dailyPacks));
     } catch (error) {
-      emit(state.copyWith(
-        status: HomeStatus.error,
-        errorMessage: 'Failed to refresh daily packs: ${error.toString()}',
-      ));
+      emit(
+        state.copyWith(
+          status: HomeStatus.error,
+          errorMessage: 'Failed to refresh daily packs: ${error.toString()}',
+        ),
+      );
     }
   }
 
   // Mock data loading methods (in real app, these would call repositories)
-  
+
   Future<UserPreferences> _loadUserPreferences() async {
     // Simulate loading delay
     await Future<void>.delayed(const Duration(milliseconds: 500));
@@ -100,7 +108,7 @@ class HomeCubit extends Cubit<HomeState> {
   Future<List<GamePack>> _loadDailyPacks() async {
     // Simulate loading delay
     await Future<void>.delayed(const Duration(milliseconds: 800));
-    
+
     // Mock daily packs
     return [
       _createMockPack(
@@ -127,7 +135,7 @@ class HomeCubit extends Cubit<HomeState> {
   Future<List<GamePack>> _loadLibraryPacks() async {
     // Simulate loading delay
     await Future<void>.delayed(const Duration(milliseconds: 600));
-    
+
     // Mock library packs
     return [
       _createMockPack(

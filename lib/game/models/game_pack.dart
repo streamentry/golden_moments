@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:memory_lane/game/models/game_tile.dart';
+import 'package:golden_moments/game/models/game_tile.dart';
 
 /// Difficulty levels for the memory game
 enum GameDifficulty {
@@ -122,13 +122,13 @@ class GamePack extends Equatable {
 
   @override
   List<Object?> get props => [
-        id,
-        title,
-        theme,
-        tiles,
-        difficulty,
-        isCompleted,
-        isPremium,
-        description,
-      ];
+    id,
+    title,
+    theme,
+    tiles,
+    difficulty,
+    isCompleted,
+    isPremium,
+    description,
+  ];
 }

@@ -1,4 +1,4 @@
-package com.example.verygoodcore.memory_lane
+package com.mindfulness.golden_moments
 
 import io.flutter.embedding.android.FlutterActivity
 

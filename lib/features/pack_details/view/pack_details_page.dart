@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:memory_lane/data/models/github_pack_index.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/features/pack_details/cubit/pack_details_cubit.dart';
-import 'package:memory_lane/game/view/game_page.dart';
-import 'package:memory_lane/shared/widgets/cached_image_widget.dart';
-import 'package:memory_lane/shared/widgets/download_progress_card.dart';
-import 'package:memory_lane/shared/widgets/offline_indicator.dart';
+import 'package:golden_moments/data/models/github_pack_index.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/pack_details/cubit/pack_details_cubit.dart';
+import 'package:golden_moments/game/view/game_page.dart';
+import 'package:golden_moments/shared/widgets/cached_image_widget.dart';
+import 'package:golden_moments/shared/widgets/download_progress_card.dart';
+import 'package:golden_moments/shared/widgets/offline_indicator.dart';
 
 /// Pack details page showing comprehensive pack information
 class PackDetailsPage extends StatelessWidget {
@@ -44,7 +44,7 @@ class PackDetailsView extends StatelessWidget {
             slivers: [
               // App bar with pack image
               _buildSliverAppBar(context, state),
-              
+
               // Pack information content
               SliverToBoxAdapter(
                 child: _buildPackContent(context, state),
@@ -59,7 +59,7 @@ class PackDetailsView extends StatelessWidget {
 
   Widget _buildSliverAppBar(BuildContext context, PackDetailsState state) {
     final theme = Theme.of(context);
-    
+
     return SliverAppBar(
       expandedHeight: 250,
       pinned: true,
@@ -102,7 +102,7 @@ class PackDetailsView extends StatelessWidget {
                     )
                   : _buildPlaceholderImage(theme),
             ),
-            
+
             // Gradient overlay
             Container(
               decoration: BoxDecoration(
@@ -116,7 +116,7 @@ class PackDetailsView extends StatelessWidget {
                 ),
               ),
             ),
-            
+
             // Status badges
             Positioned(
               top: 60,
@@ -126,8 +126,7 @@ class PackDetailsView extends StatelessWidget {
                 children: [
                   if (packInfo.isPremium)
                     _buildStatusBadge('PREMIUM', gmGold600),
-                  if (packInfo.isNew)
-                    _buildStatusBadge('NEW', gmGreen600),
+                  if (packInfo.isNew) _buildStatusBadge('NEW', gmGreen600),
                   _buildStatusBadge(
                     state.downloadStatus == PackDownloadStatus.cached
                         ? 'CACHED'
@@ -186,32 +185,32 @@ class PackDetailsView extends StatelessWidget {
           // Offline indicator
           const OfflineIndicator(compact: true),
           const SizedBox(height: gmSpaceMd),
-          
+
           // Pack description
           _buildPackDescription(context),
           const SizedBox(height: gmSpaceLg),
-          
+
           // Pack statistics
           _buildPackStatistics(context),
           const SizedBox(height: gmSpaceLg),
-          
+
           // Cache status info
           if (state.isDownloading) ...[
             _buildCacheStatusInfo(context, state),
             const SizedBox(height: gmSpaceLg),
           ],
-          
+
           // Pack details
           _buildPackDetails(context),
           const SizedBox(height: gmSpaceLg),
-          
+
           // Preview images
           _buildPreviewImages(context, state),
           const SizedBox(height: gmSpaceLg),
-          
+
           // Tags
           _buildTags(context),
-          
+
           // Bottom padding for floating action button
           const SizedBox(height: 100),
         ],
@@ -221,7 +220,7 @@ class PackDetailsView extends StatelessWidget {
 
   Widget _buildPackDescription(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -244,7 +243,7 @@ class PackDetailsView extends StatelessWidget {
 
   Widget _buildPackStatistics(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Container(
       padding: const EdgeInsets.all(gmSpaceMd),
       decoration: BoxDecoration(
@@ -285,7 +284,7 @@ class PackDetailsView extends StatelessWidget {
     String label,
   ) {
     final theme = Theme.of(context);
-    
+
     return Expanded(
       child: Column(
         children: [
@@ -344,7 +343,7 @@ class PackDetailsView extends StatelessWidget {
 
   Widget _buildPackDetails(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -360,8 +359,7 @@ class PackDetailsView extends StatelessWidget {
         _buildDetailRow('Difficulty', packInfo.difficultyDisplayName),
         _buildDetailRow('Version', packInfo.version),
         _buildDetailRow('Updated', _formatDate(packInfo.updatedAt)),
-        if (packInfo.isPremium)
-          _buildDetailRow('Type', 'Premium'),
+        if (packInfo.isPremium) _buildDetailRow('Type', 'Premium'),
       ],
     );
   }
@@ -402,11 +400,11 @@ class PackDetailsView extends StatelessWidget {
 
   Widget _buildPreviewImages(BuildContext context, PackDetailsState state) {
     final theme = Theme.of(context);
-    
+
     if (packInfo.previewImages.isEmpty) {
       return const SizedBox.shrink();
     }
-    
+
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -454,11 +452,11 @@ class PackDetailsView extends StatelessWidget {
 
   Widget _buildTags(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     if (packInfo.tags.isEmpty) {
       return const SizedBox.shrink();
     }
-    
+
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -479,8 +477,9 @@ class PackDetailsView extends StatelessWidget {
                 vertical: 4,
               ),
               decoration: BoxDecoration(
-                color: theme.colorScheme.primaryContainer
-                    .withValues(alpha: 0.5),
+                color: theme.colorScheme.primaryContainer.withValues(
+                  alpha: 0.5,
+                ),
                 borderRadius: BorderRadius.circular(8),
               ),
               child: Text(
@@ -583,7 +582,7 @@ class PackDetailsView extends StatelessWidget {
   String _formatDate(DateTime date) {
     final now = DateTime.now();
     final difference = now.difference(date);
-    
+
     if (difference.inDays < 1) {
       return 'Today';
     } else if (difference.inDays < 7) {
