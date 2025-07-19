@@ -1,6 +1,5 @@
 import 'dart:async';
 import 'dart:io';
-import 'dart:typed_data';
 
 import 'package:crypto/crypto.dart';
 
@@ -17,7 +16,7 @@ import 'json_cache_service.dart';
 /// Download manager for processing pack and image downloads
 class DownloadManager {
   DownloadManager._();
-  
+
   static DownloadManager? _instance;
   static DownloadManager get instance => _instance ??= DownloadManager._();
 
@@ -25,9 +24,10 @@ class DownloadManager {
   final GitHubPackService _githubService = GitHubPackService.instance;
   final HttpClientService _httpClient = HttpClientService.instance;
 
-  final Map<String, StreamController<DownloadProgress>> _progressControllers = {};
+  final Map<String, StreamController<DownloadProgress>> _progressControllers =
+      {};
   final Map<String, bool> _cancelledDownloads = {};
-  
+
   Timer? _queueProcessor;
   bool _isProcessing = false;
 
@@ -50,31 +50,36 @@ class DownloadManager {
     try {
       // Get pack manifest first
       final manifest = await _githubService.fetchPackManifest(packId);
-      
+
       // Create pack cache entry
       final packCache = PackCache.create(
         id: packId,
         version: '1.0.0', // TODO: Get from manifest
         manifest: manifest,
       );
-      
+
       // Save initial pack cache
       await _cacheService.savePackCache(packCache);
-      
+
       // Queue image downloads
       for (final tile in manifest.tiles) {
         await _queueImageDownload(packId, tile.id, tile.imageUrl);
       }
-      
     } catch (e) {
-      throw e is DownloadError ? e : DownloadError.unknown(packId, e.toString());
+      throw e is DownloadError
+          ? e
+          : DownloadError.unknown(packId, e.toString());
     }
   }
 
   /// Queue an image download
-  Future<void> _queueImageDownload(String packId, String imageId, String filename) async {
+  Future<void> _queueImageDownload(
+    String packId,
+    String imageId,
+    String filename,
+  ) async {
     final downloadId = '${packId}_$imageId';
-    
+
     final downloadItem = DownloadItem(
       id: downloadId,
       packId: packId,
@@ -85,7 +90,7 @@ class DownloadManager {
       retryCount: 0,
       queuedAt: DateTime.now(),
     );
-    
+
     // Add to download queue
     final queue = await _cacheService.loadDownloadQueue();
     final updatedQueue = queue.addDownload(downloadItem);
@@ -95,7 +100,8 @@ class DownloadManager {
   /// Get download progress stream
   Stream<DownloadProgress> getDownloadProgress(String downloadId) {
     if (!_progressControllers.containsKey(downloadId)) {
-      _progressControllers[downloadId] = StreamController<DownloadProgress>.broadcast();
+      _progressControllers[downloadId] =
+          StreamController<DownloadProgress>.broadcast();
     }
     return _progressControllers[downloadId]!.stream;
   }
@@ -103,20 +109,22 @@ class DownloadManager {
   /// Cancel download
   Future<void> cancelDownload(String downloadId) async {
     _cancelledDownloads[downloadId] = true;
-    
+
     // Update queue status
     final queue = await _cacheService.loadDownloadQueue();
     // TODO: Implement queue cancellation logic
-    
+
     // Emit cancelled progress
-    _emitProgress(DownloadProgress.cancelled(
-      downloadId: downloadId,
-      packId: downloadId.split('_').first,
-      imageId: downloadId.split('_').skip(1).join('_'),
-      bytesDownloaded: 0,
-      totalBytes: 0,
-      startTime: DateTime.now(),
-    ));
+    _emitProgress(
+      DownloadProgress.cancelled(
+        downloadId: downloadId,
+        packId: downloadId.split('_').first,
+        imageId: downloadId.split('_').skip(1).join('_'),
+        bytesDownloaded: 0,
+        totalBytes: 0,
+        startTime: DateTime.now(),
+      ),
+    );
   }
 
   /// Start queue processor
@@ -132,15 +140,14 @@ class DownloadManager {
   Future<void> _processQueue() async {
     if (_isProcessing) return;
     _isProcessing = true;
-    
+
     try {
       final queue = await _cacheService.loadDownloadQueue();
       final activeCount = queue.activeDownloads.length;
-      
+
       // Start new downloads if under limit
-      if (activeCount < CacheConstants.maxConcurrentDownloads && 
+      if (activeCount < CacheConstants.maxConcurrentDownloads &&
           queue.queuedDownloads.isNotEmpty) {
-        
         final nextDownload = queue.queuedDownloads.first;
         await _startDownload(nextDownload);
       }
@@ -154,17 +161,17 @@ class DownloadManager {
   /// Start individual download
   Future<void> _startDownload(DownloadItem item) async {
     final downloadId = item.id;
-    
+
     // Check if cancelled
     if (_cancelledDownloads[downloadId] == true) {
       return;
     }
-    
+
     // Update queue to mark as active
     final queue = await _cacheService.loadDownloadQueue();
     final updatedQueue = queue.startDownload(downloadId);
     await _cacheService.saveDownloadQueue(updatedQueue);
-    
+
     try {
       if (item.type == DownloadType.image) {
         await _downloadImage(item);
@@ -181,19 +188,19 @@ class DownloadManager {
     final downloadId = item.id;
     final packId = item.packId;
     final imageId = item.imageId!;
-    
+
     // Get image filename from pack cache
     final packCache = await _cacheService.loadPackCache(packId);
     if (packCache == null) {
       throw DownloadError.unknown(downloadId, 'Pack cache not found');
     }
-    
+
     final tile = packCache.manifest.tiles.firstWhere((t) => t.id == imageId);
     final filename = tile.imageUrl;
-    
+
     // Get file size first
     final totalBytes = await _githubService.getImageSize(packId, filename);
-    
+
     // Emit initial progress
     final initialProgress = DownloadProgress.started(
       downloadId: downloadId,
@@ -202,22 +209,22 @@ class DownloadManager {
       totalBytes: totalBytes,
     );
     _emitProgress(initialProgress);
-    
+
     // Download with progress tracking
     int bytesDownloaded = 0;
     final startTime = DateTime.now();
-    
+
     final imageData = await _githubService.downloadImage(
-      packId, 
+      packId,
       filename,
       onProgress: (downloaded, total) {
         bytesDownloaded = downloaded;
-        
+
         // Calculate speed and ETA
         final elapsed = DateTime.now().difference(startTime);
         final speed = _httpClient.calculateDownloadSpeed(downloaded, elapsed);
         final eta = _httpClient.calculateETA(total - downloaded, speed);
-        
+
         // Emit progress update
         final progress = initialProgress.updateProgress(
           bytesDownloaded: downloaded,
@@ -227,21 +234,21 @@ class DownloadManager {
         _emitProgress(progress);
       },
     );
-    
+
     // Save image to cache
     final imagePath = CacheFilePaths.imageFile(packId, filename);
     final fullPath = _cacheService.fileManager.getCachePath(imagePath);
     final imageFile = File(fullPath);
-    
+
     // Ensure directory exists
     await imageFile.parent.create(recursive: true);
-    
+
     // Write image data
     await imageFile.writeAsBytes(imageData);
-    
+
     // Verify checksum if available
     final checksum = sha256.convert(imageData).toString();
-    
+
     // Update pack cache with downloaded image
     final cachedImage = CachedImage.create(
       id: imageId,
@@ -255,13 +262,13 @@ class DownloadManager {
       format: filename.split('.').last.toUpperCase(),
       checksum: checksum,
     );
-    
+
     final updatedPackCache = packCache.addImage(cachedImage);
     await _cacheService.savePackCache(updatedPackCache);
-    
+
     // Mark download as completed
     await _completeDownload(item);
-    
+
     // Emit completion progress
     _emitProgress(initialProgress.complete());
   }
@@ -281,25 +288,27 @@ class DownloadManager {
 
   /// Handle download error
   Future<void> _handleDownloadError(DownloadItem item, dynamic error) async {
-    final downloadError = error is DownloadError 
-        ? error 
+    final downloadError = error is DownloadError
+        ? error
         : DownloadError.unknown(item.id, error.toString());
-    
+
     // Update queue with failure
     final queue = await _cacheService.loadDownloadQueue();
     final updatedQueue = queue.failDownload(item.id, downloadError.message);
     await _cacheService.saveDownloadQueue(updatedQueue);
-    
+
     // Emit error progress
-    _emitProgress(DownloadProgress.failed(
-      downloadId: item.id,
-      packId: item.packId,
-      imageId: item.imageId,
-      bytesDownloaded: 0,
-      totalBytes: 0,
-      startTime: DateTime.now(),
-      error: downloadError,
-    ));
+    _emitProgress(
+      DownloadProgress.failed(
+        downloadId: item.id,
+        packId: item.packId,
+        imageId: item.imageId,
+        bytesDownloaded: 0,
+        totalBytes: 0,
+        startTime: DateTime.now(),
+        error: downloadError,
+      ),
+    );
   }
 
   /// Emit progress update
@@ -326,6 +335,6 @@ class DownloadManager {
   Future<bool> isPackDownloading(String packId) async {
     final queue = await _cacheService.loadDownloadQueue();
     return queue.activeDownloads.any((item) => item.packId == packId) ||
-           queue.queuedDownloads.any((item) => item.packId == packId);
+        queue.queuedDownloads.any((item) => item.packId == packId);
   }
 }

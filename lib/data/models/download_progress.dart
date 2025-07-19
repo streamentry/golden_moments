@@ -7,11 +7,11 @@ class DownloadProgress extends Equatable {
   const DownloadProgress({
     required this.downloadId,
     required this.packId,
-    this.imageId,
     required this.status,
     required this.bytesDownloaded,
     required this.totalBytes,
     required this.startTime,
+    this.imageId,
     this.endTime,
     this.error,
     this.speed,
@@ -212,7 +212,7 @@ class DownloadProgress extends Equatable {
   bool get isCancelled => status == DownloadProgressStatus.cancelled;
 
   /// Check if download is finished (completed, failed, or cancelled)
-  bool get isFinished => 
+  bool get isFinished =>
       status == DownloadProgressStatus.completed ||
       status == DownloadProgressStatus.failed ||
       status == DownloadProgressStatus.cancelled;
@@ -238,7 +238,7 @@ class DownloadProgress extends Equatable {
   /// Get formatted speed text
   String get speedText {
     if (speed == null || speed! <= 0) return '';
-    
+
     if (speed! < 1024) {
       return '${speed!.toStringAsFixed(0)} B/s';
     } else if (speed! < 1024 * 1024) {
@@ -251,7 +251,7 @@ class DownloadProgress extends Equatable {
   /// Get formatted ETA text
   String get etaText {
     if (eta == null || eta!.inSeconds <= 0) return '';
-    
+
     if (eta!.inHours > 0) {
       return '${eta!.inHours}h ${eta!.inMinutes % 60}m';
     } else if (eta!.inMinutes > 0) {
@@ -291,18 +291,18 @@ class DownloadProgress extends Equatable {
 
   @override
   List<Object?> get props => [
-        downloadId,
-        packId,
-        imageId,
-        status,
-        bytesDownloaded,
-        totalBytes,
-        startTime,
-        endTime,
-        error,
-        speed,
-        eta,
-      ];
+    downloadId,
+    packId,
+    imageId,
+    status,
+    bytesDownloaded,
+    totalBytes,
+    startTime,
+    endTime,
+    error,
+    speed,
+    eta,
+  ];
 }
 
 /// Download progress status enumeration
@@ -332,31 +332,31 @@ class PackDownloadProgress extends Equatable {
   /// Get overall progress percentage (0.0 to 1.0)
   double get overallProgress {
     if (imageProgresses.isEmpty) return 0.0;
-    
+
     final totalBytes = imageProgresses.fold<int>(
-      0, (sum, progress) => sum + progress.totalBytes,
+      0,
+      (sum, progress) => sum + progress.totalBytes,
     );
-    
+
     if (totalBytes == 0) return 0.0;
-    
+
     final downloadedBytes = imageProgresses.fold<int>(
-      0, (sum, progress) => sum + progress.bytesDownloaded,
+      0,
+      (sum, progress) => sum + progress.bytesDownloaded,
     );
-    
+
     return (downloadedBytes / totalBytes).clamp(0.0, 1.0);
   }
 
   /// Get completed images count
-  int get completedImages => 
-      imageProgresses.where((p) => p.isCompleted).length;
+  int get completedImages => imageProgresses.where((p) => p.isCompleted).length;
 
   /// Get total images count
   int get totalImages => imageProgresses.length;
 
   /// Check if pack download is completed
-  bool get isCompleted => 
-      imageProgresses.isNotEmpty && 
-      imageProgresses.every((p) => p.isCompleted);
+  bool get isCompleted =>
+      imageProgresses.isNotEmpty && imageProgresses.every((p) => p.isCompleted);
 
   /// Check if pack download has any failures
   bool get hasFailed => imageProgresses.any((p) => p.isFailed);
@@ -368,24 +368,26 @@ class PackDownloadProgress extends Equatable {
   double get averageSpeed {
     final activeProgresses = imageProgresses.where((p) => p.speed != null);
     if (activeProgresses.isEmpty) return 0.0;
-    
+
     final totalSpeed = activeProgresses.fold<double>(
-      0.0, (sum, progress) => sum + (progress.speed ?? 0.0),
+      0.0,
+      (sum, progress) => sum + (progress.speed ?? 0.0),
     );
-    
+
     return totalSpeed / activeProgresses.length;
   }
 
   /// Get estimated time remaining
   Duration get estimatedTimeRemaining {
     if (averageSpeed <= 0) return Duration.zero;
-    
+
     final remainingBytes = imageProgresses.fold<int>(
-      0, (sum, progress) => sum + progress.remainingBytes,
+      0,
+      (sum, progress) => sum + progress.remainingBytes,
     );
-    
+
     if (remainingBytes <= 0) return Duration.zero;
-    
+
     final secondsRemaining = remainingBytes / averageSpeed;
     return Duration(seconds: secondsRemaining.round());
   }
@@ -397,10 +399,10 @@ class PackDownloadProgress extends Equatable {
 
   @override
   List<Object?> get props => [
-        packId,
-        packTitle,
-        imageProgresses,
-        startTime,
-        endTime,
-      ];
+    packId,
+    packTitle,
+    imageProgresses,
+    startTime,
+    endTime,
+  ];
 }

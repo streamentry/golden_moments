@@ -216,13 +216,13 @@ class _LoadedView extends StatelessWidget {
                     progress: progress,
                     onCancel: () => context
                         .read<DownloadManagerCubit>()
-                        .cancelDownload(progress.id),
+                        .cancelDownload(progress.downloadId),
                     onPause: () => context
                         .read<DownloadManagerCubit>()
-                        .pauseDownload(progress.id),
+                        .pauseDownload(progress.downloadId),
                     onResume: () => context
                         .read<DownloadManagerCubit>()
-                        .resumeDownload(progress.id),
+                        .resumeDownload(progress.downloadId),
                   );
                 },
                 childCount: state.activeDownloads.length,
@@ -246,7 +246,7 @@ class _LoadedView extends StatelessWidget {
                     progress: progress,
                     onCancel: () => context
                         .read<DownloadManagerCubit>()
-                        .cancelDownload(progress.id),
+                        .cancelDownload(progress.downloadId),
                     showControls: false,
                   );
                 },

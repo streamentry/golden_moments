@@ -64,7 +64,7 @@ class MainNavigationView extends StatelessWidget {
         color: theme.colorScheme.surface,
         boxShadow: [
           BoxShadow(
-            color: theme.shadowColor.withValues(alpha: 0.1),
+            color: theme.shadowColor.withOpacity(0.1), // Fixed method call
             blurRadius: 8,
             offset: const Offset(0, -2),
           ),

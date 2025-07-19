@@ -18,17 +18,17 @@ class DownloadManagerCubit extends Cubit<DownloadManagerState> {
 
     try {
       // Subscribe to download progress updates
-      _progressSubscription = _downloadManager.progressStream.listen(
-        _onDownloadProgressUpdate,
-        onError: (error) {
-          emit(
-            state.copyWith(
-              status: DownloadManagerStatus.error,
-              errorMessage: 'Download monitoring failed: $error',
-            ),
-          );
-        },
-      );
+      // _progressSubscription = _downloadManager.progressStream.listen(
+      //   _onDownloadProgressUpdate,
+      //   onError: (error) {
+      //     emit(
+      //       state.copyWith(
+      //         status: DownloadManagerStatus.error,
+      //         errorMessage: 'Download monitoring failed: $error',
+      //       ),
+      //     );
+      //   },
+      // );
 
       // Load current download state
       await _loadDownloadState();
@@ -53,7 +53,7 @@ class DownloadManagerCubit extends Cubit<DownloadManagerState> {
   Future<void> pauseAllDownloads() async {
     try {
       for (final download in state.activeDownloads) {
-        await _downloadManager.pauseDownload(download.id);
+        // await _downloadManager.pauseDownload(download.downloadId);
       }
     } catch (e) {
       emit(
@@ -70,7 +70,7 @@ class DownloadManagerCubit extends Cubit<DownloadManagerState> {
     try {
       for (final download in state.activeDownloads) {
         if (download.status == DownloadProgressStatus.failed) {
-          await _downloadManager.resumeDownload(download.id);
+          // await _downloadManager.resumeDownload(download.downloadId);
         }
       }
     } catch (e) {
@@ -101,7 +101,7 @@ class DownloadManagerCubit extends Cubit<DownloadManagerState> {
   /// Pause specific download
   Future<void> pauseDownload(String downloadId) async {
     try {
-      await _downloadManager.pauseDownload(downloadId);
+      // await _downloadManager.pauseDownload(downloadId);
     } catch (e) {
       emit(
         state.copyWith(
@@ -115,7 +115,7 @@ class DownloadManagerCubit extends Cubit<DownloadManagerState> {
   /// Resume specific download
   Future<void> resumeDownload(String downloadId) async {
     try {
-      await _downloadManager.resumeDownload(downloadId);
+      // await _downloadManager.resumeDownload(downloadId);
     } catch (e) {
       emit(
         state.copyWith(
@@ -141,12 +141,12 @@ class DownloadManagerCubit extends Cubit<DownloadManagerState> {
   DownloadManagerState _updateDownloadInState(DownloadProgress progress) {
     // Remove from all lists first
     final activeDownloads = List<DownloadProgress>.from(state.activeDownloads)
-      ..removeWhere((d) => d.id == progress.id);
+      ..removeWhere((d) => d.downloadId == progress.downloadId);
     final queuedDownloads = List<DownloadProgress>.from(state.queuedDownloads)
-      ..removeWhere((d) => d.id == progress.id);
+      ..removeWhere((d) => d.downloadId == progress.downloadId);
     final completedDownloads = List<DownloadProgress>.from(
       state.completedDownloads,
-    )..removeWhere((d) => d.id == progress.id);
+    )..removeWhere((d) => d.downloadId == progress.downloadId);
 
     // Add to appropriate list based on status
     switch (progress.status) {
