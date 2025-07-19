@@ -1,6 +1,7 @@
 import 'dart:async';
 
-import 'package:golden_moments/data/models/github_pack_index.dart';
+import 'package:golden_moments/data/models/pack.dart';
+import 'package:golden_moments/data/models/packs_index.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
 import 'package:golden_moments/data/services/long_term_image_cache.dart';
 import 'package:golden_moments/game/models/models.dart';
@@ -12,35 +13,23 @@ class GamePackLoader {
   static GamePackLoader? _instance;
   static GamePackLoader get instance => _instance ??= GamePackLoader._();
 
-  final LocalPackService _packService = LocalPackService.instance;
+  final LocalPackService _packService = LocalPackService();
   final LongTermImageCache _imageCache = LongTermImageCache.instance;
 
   /// Load a game pack with local JSON and cached images
   Future<GamePackLoadResult> loadGamePack(String packId) async {
     try {
       // 1. Load pack metadata from local JSON
-      final packInfo = await _packService.getPackById(packId);
-      if (packInfo == null) {
-        return GamePackLoadResult.failure(
-          'Pack not found: $packId',
-          GamePackLoadSource.none,
-        );
-      }
-
-      // 2. Convert to GamePack
-      final gamePack = _packService.convertToGamePack(packInfo);
-
-      // 3. Preload images into cache (non-blocking)
-      _preloadPackImages(packInfo);
+      final pack = await _packService.getPackById(packId);
 
       return GamePackLoadResult.success(
-        gamePack,
+        pack,
         GamePackLoadSource.bundled, // Use bundled as it's local
         metadata: GamePackMetadata(
           cacheHit: true,
           loadTime: DateTime.now(),
-          imageCount: packInfo.imageCount,
-          totalSize: packInfo.estimatedSize,
+          imageCount: pack.images.length,
+          totalSize: pack.images.length,
         ),
       );
     } catch (e) {
@@ -51,39 +40,16 @@ class GamePackLoader {
     }
   }
 
-  /// Preload pack images into cache (non-blocking)
-  void _preloadPackImages(GitHubPackInfo packInfo) {
-    // Run in background without blocking
-    Future.microtask(() async {
-      try {
-        final imageUrls = packInfo.images
-            .map((image) => image['url'] as String)
-            .toList();
-
-        await _imageCache.preloadPackImages(imageUrls);
-      } catch (e) {
-        // Handle preload error gracefully
-        print('Failed to preload images for pack ${packInfo.id}: $e');
-      }
-    });
-  }
-
   /// Get available packs from local JSON
-  Future<List<GamePack>> getAvailablePacks() async {
-    try {
-      final packInfos = await _packService.getAllPacks();
-      return packInfos
-          .map((packInfo) => _packService.convertToGamePack(packInfo))
-          .toList();
-    } catch (e) {
-      return [];
-    }
+  Future<List<Pack>> getAvailablePacks() async {
+    final packs = await _packService.getPacks();
+    return packs;
   }
 
   /// Preload pack images for better performance
-  Future<void> preloadPackImages(GamePack pack) async {
+  Future<void> preloadPackImages(Pack pack) async {
     try {
-      final imageUrls = pack.tiles.map((tile) => tile.imageUrl).toList();
+      final imageUrls = pack.images.map((image) => image.url).toList();
       await _imageCache.preloadPackImages(imageUrls);
     } catch (e) {
       // Handle preload error gracefully
@@ -111,14 +77,14 @@ class GamePackLoadResult {
   });
 
   final bool isSuccess;
-  final GamePack? gamePack;
+  final Pack? gamePack;
   final String? error;
   final GamePackLoadSource source;
   final GamePackMetadata? metadata;
 
   /// Create successful result
   factory GamePackLoadResult.success(
-    GamePack gamePack,
+    Pack gamePack,
     GamePackLoadSource source, {
     GamePackMetadata? metadata,
   }) {

@@ -9,7 +9,7 @@ import 'package:golden_moments/data/services/download_manager.dart';
 class DownloadManagerCubit extends Cubit<DownloadManagerState> {
   DownloadManagerCubit() : super(const DownloadManagerState());
 
-  final DownloadManager _downloadManager = DownloadManager.instance;
+  final DownloadManager _downloadManager = DownloadManager();
   StreamSubscription<DownloadProgress>? _progressSubscription;
 
   /// Initialize download manager
@@ -161,6 +161,7 @@ class DownloadManagerCubit extends Cubit<DownloadManagerState> {
       case DownloadProgressStatus.cancelled:
         // Don't add cancelled downloads to any list
         break;
+      case DownloadProgressStatus.paused:
     }
 
     return state.copyWith(

@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:golden_moments/game/models/models.dart';
+import 'package:golden_moments/data/models/pack.dart';
 
 /// Cached pack data with local file paths and metadata
 class PackCache extends Equatable {
@@ -12,12 +12,23 @@ class PackCache extends Equatable {
     required this.images,
   });
 
-  final String id;
-  final String version;
-  final DateTime downloadedAt;
-  final DateTime expiresAt;
-  final GamePack manifest;
-  final List<CachedImage> images;
+  /// Create a new pack cache with 60-day expiry
+  factory PackCache.create({
+    required String id,
+    required String version,
+    required Pack manifest,
+    List<CachedImage>? images,
+  }) {
+    final now = DateTime.now();
+    return PackCache(
+      id: id,
+      version: version,
+      downloadedAt: now,
+      expiresAt: now.add(const Duration(days: 60)),
+      manifest: manifest,
+      images: images ?? [],
+    );
+  }
 
   factory PackCache.fromJson(Map<String, dynamic> json) {
     return PackCache(
@@ -25,12 +36,19 @@ class PackCache extends Equatable {
       version: json['version'] as String,
       downloadedAt: DateTime.parse(json['downloadedAt'] as String),
       expiresAt: DateTime.parse(json['expiresAt'] as String),
-      manifest: GamePack.fromJson(json['manifest'] as Map<String, dynamic>),
+      manifest: Pack.fromJson(json['manifest'] as Map<String, dynamic>),
       images: (json['images'] as List<dynamic>? ?? [])
           .map((item) => CachedImage.fromJson(item as Map<String, dynamic>))
           .toList(),
     );
   }
+
+  final String id;
+  final String version;
+  final DateTime downloadedAt;
+  final DateTime expiresAt;
+  final Pack manifest;
+  final List<CachedImage> images;
 
   Map<String, dynamic> toJson() {
     return {
@@ -48,7 +66,7 @@ class PackCache extends Equatable {
     String? version,
     DateTime? downloadedAt,
     DateTime? expiresAt,
-    GamePack? manifest,
+    Pack? manifest,
     List<CachedImage>? images,
   }) {
     return PackCache(
@@ -58,24 +76,6 @@ class PackCache extends Equatable {
       expiresAt: expiresAt ?? this.expiresAt,
       manifest: manifest ?? this.manifest,
       images: images ?? this.images,
-    );
-  }
-
-  /// Create a new pack cache with 60-day expiry
-  factory PackCache.create({
-    required String id,
-    required String version,
-    required GamePack manifest,
-    List<CachedImage>? images,
-  }) {
-    final now = DateTime.now();
-    return PackCache(
-      id: id,
-      version: version,
-      downloadedAt: now,
-      expiresAt: now.add(const Duration(days: 60)),
-      manifest: manifest,
-      images: images ?? [],
     );
   }
 
@@ -110,19 +110,19 @@ class PackCache extends Equatable {
   bool get isExpired => DateTime.now().isAfter(expiresAt);
 
   /// Check if all images are downloaded
-  bool get isComplete => downloadedImagesCount >= manifest.tiles.length;
+  bool get isComplete => downloadedImagesCount >= manifest.images.length;
 
   /// Get download progress (0.0 to 1.0)
   double get downloadProgress {
-    if (manifest.tiles.isEmpty) return 1.0;
-    return downloadedImagesCount / manifest.tiles.length;
+    if (manifest.images.isEmpty) return 1;
+    return downloadedImagesCount / manifest.images.length;
   }
 
   /// Get cached image by ID
   CachedImage? getImage(String imageId) {
     try {
       return images.firstWhere((img) => img.id == imageId);
-    } catch (e) {
+    } on Exception {
       return null;
     }
   }
@@ -160,19 +160,36 @@ class CachedImage extends Equatable {
     required this.status,
   });
 
-  final String id;
-  final String filename;
-  final String caption;
-  final String altText;
-  final String localPath;
-  final String? thumbnailPath;
-  final String downloadUrl;
-  final int size;
-  final String dimensions;
-  final String format;
-  final String checksum;
-  final DateTime downloadedAt;
-  final ImageCacheStatus status;
+  /// Create a new cached image entry
+  factory CachedImage.create({
+    required String id,
+    required String filename,
+    required String caption,
+    required String altText,
+    required String localPath,
+    required String downloadUrl,
+    required int size,
+    required String dimensions,
+    required String format,
+    required String checksum,
+    String? thumbnailPath,
+  }) {
+    return CachedImage(
+      id: id,
+      filename: filename,
+      caption: caption,
+      altText: altText,
+      localPath: localPath,
+      thumbnailPath: thumbnailPath,
+      downloadUrl: downloadUrl,
+      size: size,
+      dimensions: dimensions,
+      format: format,
+      checksum: checksum,
+      downloadedAt: DateTime.now(),
+      status: ImageCacheStatus.downloaded,
+    );
+  }
 
   factory CachedImage.fromJson(Map<String, dynamic> json) {
     return CachedImage(
@@ -191,6 +208,20 @@ class CachedImage extends Equatable {
       status: ImageCacheStatus.fromString(json['status'] as String),
     );
   }
+
+  final String id;
+  final String filename;
+  final String caption;
+  final String altText;
+  final String localPath;
+  final String? thumbnailPath;
+  final String downloadUrl;
+  final int size;
+  final String dimensions;
+  final String format;
+  final String checksum;
+  final DateTime downloadedAt;
+  final ImageCacheStatus status;
 
   Map<String, dynamic> toJson() {
     return {
@@ -239,37 +270,6 @@ class CachedImage extends Equatable {
       checksum: checksum ?? this.checksum,
       downloadedAt: downloadedAt ?? this.downloadedAt,
       status: status ?? this.status,
-    );
-  }
-
-  /// Create a new cached image entry
-  factory CachedImage.create({
-    required String id,
-    required String filename,
-    required String caption,
-    required String altText,
-    required String localPath,
-    String? thumbnailPath,
-    required String downloadUrl,
-    required int size,
-    required String dimensions,
-    required String format,
-    required String checksum,
-  }) {
-    return CachedImage(
-      id: id,
-      filename: filename,
-      caption: caption,
-      altText: altText,
-      localPath: localPath,
-      thumbnailPath: thumbnailPath,
-      downloadUrl: downloadUrl,
-      size: size,
-      dimensions: dimensions,
-      format: format,
-      checksum: checksum,
-      downloadedAt: DateTime.now(),
-      status: ImageCacheStatus.downloaded,
     );
   }
 

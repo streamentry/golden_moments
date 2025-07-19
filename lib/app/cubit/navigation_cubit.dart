@@ -10,7 +10,7 @@ class NavigationCubit extends Cubit<NavigationState> {
     _initialize();
   }
 
-  final DownloadManager _downloadManager = DownloadManager.instance;
+  final DownloadManager _downloadManager = DownloadManager();
   StreamSubscription? _downloadSubscription;
 
   /// Initialize navigation cubit

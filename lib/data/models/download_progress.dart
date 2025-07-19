@@ -1,6 +1,5 @@
 import 'package:equatable/equatable.dart';
-
-import 'download_error.dart';
+import 'package:golden_moments/data/models/download_error.dart';
 
 /// Download progress tracking for individual downloads
 class DownloadProgress extends Equatable {
@@ -18,24 +17,76 @@ class DownloadProgress extends Equatable {
     this.eta,
   });
 
-  final String downloadId;
-  final String packId;
-  final String? imageId;
-  final DownloadProgressStatus status;
-  final int bytesDownloaded;
-  final int totalBytes;
-  final DateTime startTime;
-  final DateTime? endTime;
-  final DownloadError? error;
-  final double? speed; // bytes per second
-  final Duration? eta; // estimated time remaining
+  /// Create cancelled progress
+  factory DownloadProgress.cancelled({
+    required String downloadId,
+    required String packId,
+    required int bytesDownloaded,
+    required int totalBytes,
+    required DateTime startTime,
+    String? imageId,
+  }) {
+    return DownloadProgress(
+      downloadId: downloadId,
+      packId: packId,
+      imageId: imageId,
+      status: DownloadProgressStatus.cancelled,
+      bytesDownloaded: bytesDownloaded,
+      totalBytes: totalBytes,
+      startTime: startTime,
+      endTime: DateTime.now(),
+    );
+  }
+
+  /// Create paused progress
+  factory DownloadProgress.paused({
+    required String downloadId,
+    required String packId,
+    required int bytesDownloaded,
+    required int totalBytes,
+    required DateTime startTime,
+    String? imageId,
+  }) {
+    return DownloadProgress(
+      downloadId: downloadId,
+      packId: packId,
+      imageId: imageId,
+      status: DownloadProgressStatus.paused,
+      bytesDownloaded: bytesDownloaded,
+      totalBytes: totalBytes,
+      startTime: startTime,
+    );
+  }
+
+  /// Create failed progress
+  factory DownloadProgress.failed({
+    required String downloadId,
+    required String packId,
+    required int bytesDownloaded,
+    required int totalBytes,
+    required DateTime startTime,
+    required DownloadError error,
+    String? imageId,
+  }) {
+    return DownloadProgress(
+      downloadId: downloadId,
+      packId: packId,
+      imageId: imageId,
+      status: DownloadProgressStatus.failed,
+      bytesDownloaded: bytesDownloaded,
+      totalBytes: totalBytes,
+      startTime: startTime,
+      endTime: DateTime.now(),
+      error: error,
+    );
+  } // estimated time remaining
 
   /// Create initial progress
   factory DownloadProgress.started({
     required String downloadId,
     required String packId,
-    String? imageId,
     required int totalBytes,
+    String? imageId,
   }) {
     return DownloadProgress(
       downloadId: downloadId,
@@ -52,9 +103,9 @@ class DownloadProgress extends Equatable {
   factory DownloadProgress.completed({
     required String downloadId,
     required String packId,
-    String? imageId,
     required int totalBytes,
     required DateTime startTime,
+    String? imageId,
   }) {
     return DownloadProgress(
       downloadId: downloadId,
@@ -68,49 +119,17 @@ class DownloadProgress extends Equatable {
     );
   }
 
-  /// Create failed progress
-  factory DownloadProgress.failed({
-    required String downloadId,
-    required String packId,
-    String? imageId,
-    required int bytesDownloaded,
-    required int totalBytes,
-    required DateTime startTime,
-    required DownloadError error,
-  }) {
-    return DownloadProgress(
-      downloadId: downloadId,
-      packId: packId,
-      imageId: imageId,
-      status: DownloadProgressStatus.failed,
-      bytesDownloaded: bytesDownloaded,
-      totalBytes: totalBytes,
-      startTime: startTime,
-      endTime: DateTime.now(),
-      error: error,
-    );
-  }
-
-  /// Create cancelled progress
-  factory DownloadProgress.cancelled({
-    required String downloadId,
-    required String packId,
-    String? imageId,
-    required int bytesDownloaded,
-    required int totalBytes,
-    required DateTime startTime,
-  }) {
-    return DownloadProgress(
-      downloadId: downloadId,
-      packId: packId,
-      imageId: imageId,
-      status: DownloadProgressStatus.cancelled,
-      bytesDownloaded: bytesDownloaded,
-      totalBytes: totalBytes,
-      startTime: startTime,
-      endTime: DateTime.now(),
-    );
-  }
+  final String downloadId;
+  final String packId;
+  final String? imageId;
+  final DownloadProgressStatus status;
+  final int bytesDownloaded;
+  final int totalBytes;
+  final DateTime startTime;
+  final DateTime? endTime;
+  final DownloadError? error;
+  final double? speed; // bytes per second
+  final Duration? eta;
 
   /// Update progress with new bytes downloaded
   DownloadProgress updateProgress({
@@ -163,7 +182,6 @@ class DownloadProgress extends Equatable {
       endTime: DateTime.now(),
       error: error,
       speed: speed,
-      eta: null,
     );
   }
 
@@ -180,13 +198,12 @@ class DownloadProgress extends Equatable {
       endTime: DateTime.now(),
       error: error,
       speed: speed,
-      eta: null,
     );
   }
 
   /// Get progress percentage (0.0 to 1.0)
   double get progressPercentage {
-    if (totalBytes == 0) return 0.0;
+    if (totalBytes == 0) return 0;
     return (bytesDownloaded / totalBytes).clamp(0.0, 1.0);
   }
 
@@ -272,6 +289,8 @@ class DownloadProgress extends Equatable {
         return 'Failed';
       case DownloadProgressStatus.cancelled:
         return 'Cancelled';
+      case DownloadProgressStatus.paused:
+        return 'Paused';
     }
   }
 
@@ -286,6 +305,8 @@ class DownloadProgress extends Equatable {
         return '❌';
       case DownloadProgressStatus.cancelled:
         return '⏹️';
+      case DownloadProgressStatus.paused:
+        return '⏸️';
     }
   }
 
@@ -308,6 +329,7 @@ class DownloadProgress extends Equatable {
 /// Download progress status enumeration
 enum DownloadProgressStatus {
   downloading,
+  paused,
   completed,
   failed,
   cancelled,
@@ -331,14 +353,14 @@ class PackDownloadProgress extends Equatable {
 
   /// Get overall progress percentage (0.0 to 1.0)
   double get overallProgress {
-    if (imageProgresses.isEmpty) return 0.0;
+    if (imageProgresses.isEmpty) return 0;
 
     final totalBytes = imageProgresses.fold<int>(
       0,
       (sum, progress) => sum + progress.totalBytes,
     );
 
-    if (totalBytes == 0) return 0.0;
+    if (totalBytes == 0) return 0;
 
     final downloadedBytes = imageProgresses.fold<int>(
       0,
@@ -367,10 +389,10 @@ class PackDownloadProgress extends Equatable {
   /// Get average download speed
   double get averageSpeed {
     final activeProgresses = imageProgresses.where((p) => p.speed != null);
-    if (activeProgresses.isEmpty) return 0.0;
+    if (activeProgresses.isEmpty) return 0;
 
     final totalSpeed = activeProgresses.fold<double>(
-      0.0,
+      0,
       (sum, progress) => sum + (progress.speed ?? 0.0),
     );
 

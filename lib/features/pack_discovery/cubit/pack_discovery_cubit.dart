@@ -8,36 +8,11 @@ import 'package:golden_moments/game/models/models.dart';
 class PackDiscoveryCubit extends Cubit<PackDiscoveryState> {
   PackDiscoveryCubit() : super(const PackDiscoveryState());
 
-  final LocalPackService _packService = LocalPackService.instance;
+  final LocalPackService _packService = LocalPackService();
 
   /// Initialize pack discovery
   Future<void> initialize() async {
     emit(state.copyWith(status: PackDiscoveryStatus.loading));
-
-    try {
-      // Load pack index from local JSON
-      final packIndex = await _packService.loadPackIndex();
-
-      // Extract categories
-      final categories = _extractCategories(packIndex.packs);
-
-      emit(
-        state.copyWith(
-          status: PackDiscoveryStatus.loaded,
-          allPacks: packIndex.packs,
-          filteredPacks: packIndex.packs,
-          featuredPacks: packIndex.getFeaturedPacks(),
-          categories: categories,
-        ),
-      );
-    } catch (e) {
-      emit(
-        state.copyWith(
-          status: PackDiscoveryStatus.error,
-          errorMessage: 'Failed to load packs: $e',
-        ),
-      );
-    }
   }
 
   /// Refresh packs from GitHub

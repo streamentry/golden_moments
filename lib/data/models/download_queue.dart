@@ -67,9 +67,9 @@ class DownloadQueue extends Equatable {
 
   /// Add a new download to the queue
   DownloadQueue addDownload(DownloadItem item) {
-    final updatedQueue = List<DownloadItem>.from(queuedDownloads);
-    updatedQueue.add(item);
-    updatedQueue.sort((a, b) => a.priority.compareTo(b.priority));
+    final updatedQueue = List<DownloadItem>.from(queuedDownloads)
+      ..add(item)
+      ..sort((a, b) => a.priority.compareTo(b.priority));
 
     return copyWith(queuedDownloads: updatedQueue);
   }
@@ -134,6 +134,99 @@ class DownloadQueue extends Equatable {
       activeDownloads: updatedActive,
       failedDownloads: updatedFailed,
     );
+  }
+
+  /// Pause a download (move from active to queued)
+  DownloadQueue pauseDownload(String downloadId) {
+    final item = activeDownloads.firstWhere((item) => item.id == downloadId);
+    final updatedActive = activeDownloads
+        .where((item) => item.id != downloadId)
+        .toList();
+    final updatedQueued = [
+      ...queuedDownloads,
+      item.copyWith(
+        status: DownloadStatus.queued,
+      ),
+    ];
+
+    return copyWith(
+      activeDownloads: updatedActive,
+      queuedDownloads: updatedQueued,
+    );
+  }
+
+  /// Resume a paused download (move from queued to active)
+  DownloadQueue resumeDownload(String downloadId) {
+    final item = queuedDownloads.firstWhere((item) => item.id == downloadId);
+    final updatedQueued = queuedDownloads
+        .where((item) => item.id != downloadId)
+        .toList();
+    final updatedActive = [
+      ...activeDownloads,
+      item.copyWith(
+        status: DownloadStatus.downloading,
+        startedAt: DateTime.now(),
+      ),
+    ];
+
+    return copyWith(
+      queuedDownloads: updatedQueued,
+      activeDownloads: updatedActive,
+    );
+  }
+
+  /// Cancel a download (remove from any list)
+  DownloadQueue cancelDownload(String downloadId) {
+    final updatedActive = activeDownloads
+        .where((item) => item.id != downloadId)
+        .toList();
+    final updatedQueued = queuedDownloads
+        .where((item) => item.id != downloadId)
+        .toList();
+
+    return copyWith(
+      activeDownloads: updatedActive,
+      queuedDownloads: updatedQueued,
+    );
+  }
+
+  /// Retry a failed download (move from failed to queued)
+  DownloadQueue retryDownload(String downloadId) {
+    final item = failedDownloads.firstWhere((item) => item.id == downloadId);
+    final updatedFailed = failedDownloads
+        .where((item) => item.id != downloadId)
+        .toList();
+    final updatedQueued = [
+      ...queuedDownloads,
+      item.copyWith(
+        status: DownloadStatus.queued,
+      ),
+    ];
+
+    return copyWith(
+      failedDownloads: updatedFailed,
+      queuedDownloads: updatedQueued,
+    );
+  }
+
+  /// Get download item by ID from any list
+  DownloadItem? getDownload(String downloadId) {
+    for (final item in [
+      ...activeDownloads,
+      ...queuedDownloads,
+      ...completedDownloads,
+      ...failedDownloads,
+    ]) {
+      if (item.id == downloadId) {
+        return item;
+      }
+    }
+    return null;
+  }
+
+  /// Check if download exists in any state
+  bool hasDownload(String downloadId) {
+    return getDownload(downloadId) != null;
   }
 
   /// Update download progress

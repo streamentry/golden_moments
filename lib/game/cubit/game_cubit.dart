@@ -30,7 +30,7 @@ class GameCubit extends Cubit<GameState> {
       final result = await _packLoader.loadGamePack(packId);
 
       if (result.isSuccess && result.gamePack != null) {
-        startGame(result.gamePack!);
+        // startGame(result.gamePack!);
 
         // Emit additional metadata about the load
         if (result.isFromCache) {

@@ -2,27 +2,26 @@ import 'dart:async';
 import 'dart:io';
 
 import 'package:crypto/crypto.dart';
-
-import '../../shared/constants/cache_constants.dart';
-import '../models/download_error.dart';
-import '../models/download_progress.dart';
-import '../models/download_queue.dart';
-import '../models/pack_cache.dart';
-import '../storage/cache_file_paths.dart';
-import 'github_pack_service.dart';
-import 'http_client_service.dart';
-import 'json_cache_service.dart';
+import 'package:golden_moments/data/models/download_error.dart';
+import 'package:golden_moments/data/models/download_progress.dart';
+import 'package:golden_moments/data/models/download_queue.dart';
+import 'package:golden_moments/data/models/pack_cache.dart';
+import 'package:golden_moments/data/services/http_client_service.dart';
+import 'package:golden_moments/data/services/json_cache_service.dart';
+import 'package:golden_moments/data/services/local_pack_service.dart';
+import 'package:golden_moments/data/storage/cache_file_paths.dart';
+import 'package:golden_moments/shared/constants/cache_constants.dart';
+import 'package:golden_moments/shared/utils/string_util.dart';
 
 /// Download manager for processing pack and image downloads
 class DownloadManager {
-  DownloadManager._();
+  factory DownloadManager() => _instance;
+  DownloadManager._internal();
+  static final DownloadManager _instance = DownloadManager._internal();
 
-  static DownloadManager? _instance;
-  static DownloadManager get instance => _instance ??= DownloadManager._();
-
-  final JsonCacheService _cacheService = JsonCacheService.instance;
-  final GitHubPackService _githubService = GitHubPackService.instance;
-  final HttpClientService _httpClient = HttpClientService.instance;
+  final JsonCacheService _cacheService = JsonCacheService();
+  final LocalPackService _localPackService = LocalPackService();
+  final HttpClientService _httpClient = HttpClientService();
 
   final Map<String, StreamController<DownloadProgress>> _progressControllers =
       {};
@@ -48,23 +47,25 @@ class DownloadManager {
   /// Download a complete pack
   Future<void> downloadPack(String packId) async {
     try {
-      // Get pack manifest first
-      final manifest = await _githubService.fetchPackManifest(packId);
+      // Get pack info from local service
+      final pack = await _localPackService.getPackById(packId);
 
-      // Create pack cache entry
+      // Create pack cache entry from local pack info
       final packCache = PackCache.create(
         id: packId,
-        version: '1.0.0', // TODO: Get from manifest
-        manifest: manifest,
+        version: pack.version,
+        manifest: pack,
       );
 
       // Save initial pack cache
       await _cacheService.savePackCache(packCache);
 
       // Queue image downloads
-      for (final tile in manifest.tiles) {
-        await _queueImageDownload(packId, tile.id, tile.imageUrl);
+      for (final image in pack.images) {
+        await _queueImageDownload(packId, image.id, image.url);
       }
+
+      _startQueueProcessor();
     } catch (e) {
       throw e is DownloadError
           ? e
@@ -78,7 +79,7 @@ class DownloadManager {
     String imageId,
     String filename,
   ) async {
-    final downloadId = '${packId}_$imageId';
+    final downloadId = generateDownloadId(packId, imageId);
 
     final downloadItem = DownloadItem(
       id: downloadId,
@@ -93,7 +94,9 @@ class DownloadManager {
 
     // Add to download queue
     final queue = await _cacheService.loadDownloadQueue();
+
     final updatedQueue = queue.addDownload(downloadItem);
+
     await _cacheService.saveDownloadQueue(updatedQueue);
   }
 
@@ -112,7 +115,8 @@ class DownloadManager {
 
     // Update queue status
     final queue = await _cacheService.loadDownloadQueue();
-    // TODO: Implement queue cancellation logic
+    final updatedQueue = queue.cancelDownload(downloadId);
+    await _cacheService.saveDownloadQueue(updatedQueue);
 
     // Emit cancelled progress
     _emitProgress(
@@ -125,6 +129,57 @@ class DownloadManager {
         startTime: DateTime.now(),
       ),
     );
+  }
+
+  /// Pause download
+  Future<void> pauseDownload(String downloadId) async {
+    _cancelledDownloads[downloadId] = true;
+
+    // Update queue status
+    final queue = await _cacheService.loadDownloadQueue();
+    final updatedQueue = queue.pauseDownload(downloadId);
+    await _cacheService.saveDownloadQueue(updatedQueue);
+
+    // Emit paused progress
+    _emitProgress(
+      DownloadProgress.paused(
+        downloadId: downloadId,
+        packId: downloadId.split('_').first,
+        imageId: downloadId.split('_').skip(1).join('_'),
+        bytesDownloaded: 0,
+        totalBytes: 0,
+        startTime: DateTime.now(),
+      ),
+    );
+  }
+
+  /// Resume download
+  Future<void> resumeDownload(String downloadId) async {
+    _cancelledDownloads.remove(downloadId);
+
+    // Update queue status
+    final queue = await _cacheService.loadDownloadQueue();
+    final updatedQueue = queue.resumeDownload(downloadId);
+    await _cacheService.saveDownloadQueue(updatedQueue);
+
+    // The queue processor will pick up the resumed download
+  }
+
+  /// Retry a failed download
+  Future<void> retryDownload(String downloadId) async {
+    _cancelledDownloads.remove(downloadId);
+
+    // Update queue status
+    final queue = await _cacheService.loadDownloadQueue();
+    final updatedQueue = queue.retryDownload(downloadId);
+    await _cacheService.saveDownloadQueue(updatedQueue);
+
+    // The queue processor will pick up the retried download
+  }
+
+  /// Get current download queue
+  Future<DownloadQueue> getDownloadQueue() async {
+    return _cacheService.loadDownloadQueue();
   }
 
   /// Start queue processor
@@ -144,15 +199,15 @@ class DownloadManager {
     try {
       final queue = await _cacheService.loadDownloadQueue();
       final activeCount = queue.activeDownloads.length;
+      final queuedCount = queue.queuedDownloads.length;
 
       // Start new downloads if under limit
       if (activeCount < CacheConstants.maxConcurrentDownloads &&
           queue.queuedDownloads.isNotEmpty) {
         final nextDownload = queue.queuedDownloads.first;
         await _startDownload(nextDownload);
-      }
-    } catch (e) {
-      print('Error processing download queue: $e');
+      } else if (queuedCount == 0) {
+      } else {}
     } finally {
       _isProcessing = false;
     }
@@ -178,7 +233,7 @@ class DownloadManager {
       } else {
         await _downloadPackManifest(item);
       }
-    } catch (e) {
+    } on Exception catch (e) {
       await _handleDownloadError(item, e);
     }
   }
@@ -189,48 +244,51 @@ class DownloadManager {
     final packId = item.packId;
     final imageId = item.imageId!;
 
-    // Get image filename from pack cache
+    // Get image URL from pack cache
     final packCache = await _cacheService.loadPackCache(packId);
     if (packCache == null) {
       throw DownloadError.unknown(downloadId, 'Pack cache not found');
     }
 
-    final tile = packCache.manifest.tiles.firstWhere((t) => t.id == imageId);
-    final filename = tile.imageUrl;
+    final tile = packCache.manifest.images.firstWhere((t) => t.id == imageId);
+    final imageUrl = tile.url;
 
-    // Get file size first
-    final totalBytes = await _githubService.getImageSize(packId, filename);
+    // Extract filename from URL for local storage
+    final filename = '$imageId.jpg'; // Use consistent filename
 
-    // Emit initial progress
+    // Download with progress tracking
+    final startTime = DateTime.now();
+
+    // Emit initial progress (we'll get total bytes during download)
     final initialProgress = DownloadProgress.started(
       downloadId: downloadId,
       packId: packId,
       imageId: imageId,
-      totalBytes: totalBytes,
+      totalBytes: 0, // Will be updated during download
     );
     _emitProgress(initialProgress);
 
-    // Download with progress tracking
-    int bytesDownloaded = 0;
-    final startTime = DateTime.now();
-
-    final imageData = await _githubService.downloadImage(
-      packId,
-      filename,
-      onProgress: (downloaded, total) {
-        bytesDownloaded = downloaded;
-
+    // Download image data using HTTP client
+    final imageData = await _httpClient.downloadBinary(
+      imageUrl,
+      onProgress: (int downloaded, int total) {
         // Calculate speed and ETA
         final elapsed = DateTime.now().difference(startTime);
         final speed = _httpClient.calculateDownloadSpeed(downloaded, elapsed);
         final eta = _httpClient.calculateETA(total - downloaded, speed);
 
-        // Emit progress update
-        final progress = initialProgress.updateProgress(
-          bytesDownloaded: downloaded,
-          speed: speed,
-          eta: eta,
-        );
+        // Emit progress update with updated total bytes
+        final progress =
+            DownloadProgress.started(
+              downloadId: downloadId,
+              packId: packId,
+              imageId: imageId,
+              totalBytes: total,
+            ).updateProgress(
+              bytesDownloaded: downloaded,
+              speed: speed,
+              eta: eta,
+            );
         _emitProgress(progress);
       },
     );
@@ -256,9 +314,9 @@ class DownloadManager {
       caption: tile.caption,
       altText: tile.caption,
       localPath: imagePath,
-      downloadUrl: CacheConstants.imageDownloadUrl(packId, filename),
+      downloadUrl: imageUrl,
       size: imageData.length,
-      dimensions: '800x600', // TODO: Get actual dimensions
+      dimensions: '400x400', // TODO: Get actual dimensions
       format: filename.split('.').last.toUpperCase(),
       checksum: checksum,
     );

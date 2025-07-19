@@ -223,6 +223,8 @@ class DownloadProgressCard extends StatelessWidget {
         return theme.colorScheme.error;
       case DownloadProgressStatus.cancelled:
         return theme.colorScheme.outline;
+      case DownloadProgressStatus.paused:
+        throw UnimplementedError();
     }
   }
 }

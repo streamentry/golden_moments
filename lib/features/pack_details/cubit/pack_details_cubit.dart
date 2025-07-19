@@ -13,7 +13,7 @@ class PackDetailsCubit extends Cubit<PackDetailsState> {
   PackDetailsCubit(this.packInfo) : super(PackDetailsState(packInfo: packInfo));
 
   final GitHubPackInfo packInfo;
-  final LocalPackService _packService = LocalPackService.instance;
+  final LocalPackService _packService = LocalPackService();
   final LongTermImageCache _imageCache = LongTermImageCache.instance;
 
   /// Initialize pack details
@@ -22,7 +22,7 @@ class PackDetailsCubit extends Cubit<PackDetailsState> {
 
     try {
       // Convert pack info to game pack
-      final gamePack = _packService.convertToGamePack(packInfo);
+      final gamePack = _packService.getPackById(packInfo.id);
 
       // Check if images are cached
       final imageUrls = packInfo.images
@@ -34,13 +34,13 @@ class PackDetailsCubit extends Cubit<PackDetailsState> {
           ? PackDownloadStatus.cached
           : PackDownloadStatus.available;
 
-      emit(
-        state.copyWith(
-          status: PackDetailsStatus.loaded,
-          downloadStatus: downloadStatus,
-          gamePack: gamePack,
-        ),
-      );
+      // emit(
+      //   state.copyWith(
+      //     status: PackDetailsStatus.loaded,
+      //     downloadStatus: downloadStatus,
+      //     gamePack: gamePack,
+      //   ),
+      // );
     } catch (e) {
       emit(
         state.copyWith(
