@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:memory_lane/app/app.dart';
-import 'package:memory_lane/counter/counter.dart';
+import 'package:golden_moments/app/app.dart';
+import 'package:golden_moments/counter/counter.dart';
 
 void main() {
   group('App', () {

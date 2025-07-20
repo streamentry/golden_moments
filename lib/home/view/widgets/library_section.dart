@@ -1,24 +1,24 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/shared/widgets/game_pack_card.dart';
+import 'package:golden_moments/data/models/category.dart';
+import 'package:golden_moments/data/services/sound_service.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/category/presentation/category_page.dart';
+import 'package:golden_moments/shared/widgets/category_card.dart';
 
 /// Section displaying the game library
 class LibrarySection extends StatelessWidget {
   const LibrarySection({
+    required this.categories,
+    required this.onCategoryTap,
     super.key,
-    required this.packs,
-    required this.userPreferences,
-    required this.onPackTap,
   });
 
-  final List<GamePack> packs;
-  final UserPreferences userPreferences;
-  final void Function(GamePack pack) onPackTap;
+  final List<Category> categories;
+  final void Function(Category category) onCategoryTap;
 
   @override
-  Widget build(BuildContext context) {
-    final theme = Theme.of(context);
+  Widget build(BuildContext parentContext) {
+    final theme = Theme.of(parentContext);
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -42,7 +42,14 @@ class LibrarySection extends StatelessWidget {
             const Spacer(),
             TextButton.icon(
               onPressed: () {
-                // TODO: Navigate to full library view
+                SoundService().playTap();
+                Navigator.of(parentContext).push(
+                  MaterialPageRoute<void>(
+                    builder: (context) => CategoryPage(
+                      categories: categories,
+                    ),
+                  ),
+                );
               },
               icon: const Icon(Icons.arrow_forward),
               label: const Text('View All'),
@@ -59,13 +66,12 @@ class LibrarySection extends StatelessWidget {
         const SizedBox(height: gmSpaceMd),
 
         // Library packs
-        if (packs.isEmpty)
+        if (categories.isEmpty)
           _EmptyState()
         else
           _PacksList(
-            packs: packs,
-            userPreferences: userPreferences,
-            onPackTap: onPackTap,
+            categories: categories,
+            onPackTap: onCategoryTap,
           ),
       ],
     );
@@ -75,29 +81,27 @@ class LibrarySection extends StatelessWidget {
 /// List layout for library packs
 class _PacksList extends StatelessWidget {
   const _PacksList({
-    required this.packs,
-    required this.userPreferences,
+    required this.categories,
     required this.onPackTap,
   });
 
-  final List<GamePack> packs;
-  final UserPreferences userPreferences;
-  final void Function(GamePack pack) onPackTap;
+  final List<Category> categories;
+  final void Function(Category pack) onPackTap;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     // Show only first few packs in home view
-    final displayPacks = packs.take(4).toList();
+    final displayCategories = categories.take(3).toList();
 
     return Column(
-      children: displayPacks.map((pack) {
+      children: displayCategories.map((category) {
         return Padding(
           padding: const EdgeInsets.only(bottom: gmSpaceSm),
-          child: GamePackCard(
-            pack: pack,
-            onTap: () => onPackTap(pack),
-            isHorizontal: true,
-            showPremiumBadge: pack.isPremium && !userPreferences.isPremiumUser,
+          child: CategoryCard(
+            category: category,
+            onTap: () => onPackTap(category),
+            // showPremiumBadge:
+            //     category.isPremium && !userPreferences.isPremiumUser,
           ),
         );
       }).toList(),
@@ -108,8 +112,8 @@ class _PacksList extends StatelessWidget {
 /// Empty state when no library packs are available
 class _EmptyState extends StatelessWidget {
   @override
-  Widget build(BuildContext context) {
-    final theme = Theme.of(context);
+  Widget build(BuildContext parentContext) {
+    final theme = Theme.of(parentContext);
 
     return Container(
       height: 200,

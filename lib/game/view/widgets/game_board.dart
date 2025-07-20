@@ -1,28 +1,31 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/game/models/models.dart';
-import 'package:memory_lane/game/view/widgets/memory_tile.dart';
+import 'package:golden_moments/data/models/pack.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/game/cubit/tile_state.dart';
+import 'package:golden_moments/game/view/widgets/memory_tile.dart';
 
 /// Game board widget that displays the memory tiles in a grid
 class GameBoard extends StatelessWidget {
   const GameBoard({
-    super.key,
+    required this.packId,
     required this.tiles,
     required this.difficulty,
     required this.onTileTap,
+    super.key,
   });
 
+  final String packId;
   final List<GameTile> tiles;
   final GameDifficulty difficulty;
   final void Function(String tileId) onTileTap;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     return LayoutBuilder(
       builder: (context, constraints) {
         final crossAxisCount = _getCrossAxisCount(difficulty);
         final aspectRatio = _getAspectRatio(difficulty);
-        
+
         return GridView.builder(
           gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
             crossAxisCount: crossAxisCount,
@@ -34,6 +37,7 @@ class GameBoard extends StatelessWidget {
           itemBuilder: (context, index) {
             final tile = tiles[index];
             return MemoryTile(
+              packId: packId,
               tile: tile,
               onTap: () => onTileTap(tile.id),
             );
@@ -51,9 +55,9 @@ class GameBoard extends StatelessWidget {
       case GameDifficulty.medium:
         return 4; // 4x4 grid
       case GameDifficulty.hard:
-        return 5; // 5x5 grid
+        return 4; // 4x6 grid
       case GameDifficulty.brainy:
-        return 6; // 6x6 grid
+        return 5; // 5x6 grid
     }
   }
 
@@ -61,13 +65,13 @@ class GameBoard extends StatelessWidget {
   double _getAspectRatio(GameDifficulty difficulty) {
     switch (difficulty) {
       case GameDifficulty.easy:
-        return 0.8; // Slightly taller than wide
+        return 1; // Slightly taller than wide
       case GameDifficulty.medium:
-        return 1.0; // Square
+        return 1; // Square
       case GameDifficulty.hard:
-        return 1.0; // Square
+        return 1; // Square
       case GameDifficulty.brainy:
-        return 1.0; // Square
+        return 1; // Square
     }
   }
 }

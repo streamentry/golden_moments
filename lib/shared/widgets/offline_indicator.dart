@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:memory_lane/data/services/connectivity_service.dart';
-import 'package:memory_lane/design_system.dart';
+import 'package:golden_moments/data/services/connectivity_service.dart';
+import 'package:golden_moments/design_system.dart';
 
 /// Widget that displays connectivity status and offline indicators
 class OfflineIndicator extends StatefulWidget {
@@ -55,7 +55,7 @@ class _OfflineIndicatorState extends State<OfflineIndicator> {
 
   Widget _buildCompactIndicator() {
     final theme = Theme.of(context);
-    
+
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
       decoration: BoxDecoration(
@@ -85,7 +85,7 @@ class _OfflineIndicatorState extends State<OfflineIndicator> {
 
   Widget _buildFullIndicator() {
     final theme = Theme.of(context);
-    
+
     return Container(
       width: double.infinity,
       padding: const EdgeInsets.all(gmSpaceMd),
@@ -231,13 +231,16 @@ class _ConnectivityBannerState extends State<ConnectivityBanner>
       duration: const Duration(milliseconds: 300),
       vsync: this,
     );
-    _slideAnimation = Tween<double>(
-      begin: -1.0,
-      end: 0.0,
-    ).animate(CurvedAnimation(
-      parent: _animationController,
-      curve: Curves.easeInOut,
-    ));
+    _slideAnimation =
+        Tween<double>(
+          begin: -1.0,
+          end: 0.0,
+        ).animate(
+          CurvedAnimation(
+            parent: _animationController,
+            curve: Curves.easeInOut,
+          ),
+        );
 
     _initializeConnectivity();
   }

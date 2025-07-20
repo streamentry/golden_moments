@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/home/view/home_page.dart';
-import 'package:memory_lane/l10n/l10n.dart';
+import 'package:golden_moments/app/view/main_navigation.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 class App extends StatelessWidget {
   const App({super.key});
@@ -13,7 +13,7 @@ class App extends StatelessWidget {
       theme: gmBuildTheme(brightness: Brightness.light),
       localizationsDelegates: AppLocalizations.localizationsDelegates,
       supportedLocales: AppLocalizations.supportedLocales,
-      home: const HomePage(),
+      home: const MainNavigation(),
     );
   }
 }

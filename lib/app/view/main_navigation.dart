@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:memory_lane/app/cubit/navigation_cubit.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/features/download_manager/view/download_manager_page.dart';
-import 'package:memory_lane/features/pack_discovery/view/pack_discovery_page.dart';
-import 'package:memory_lane/home/view/home_page.dart';
-import 'package:memory_lane/shared/widgets/offline_indicator.dart';
+import 'package:golden_moments/app/cubit/navigation_cubit.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/download_manager/view/download_manager_page.dart';
+import 'package:golden_moments/home/view/home_page.dart';
+import 'package:golden_moments/shared/widgets/offline_indicator.dart';
 
 /// Main navigation wrapper with bottom navigation bar
 class MainNavigation extends StatelessWidget {
@@ -33,14 +32,13 @@ class MainNavigationView extends StatelessWidget {
             children: [
               // Connectivity banner
               const ConnectivityBanner(),
-              
+
               // Main content
               Expanded(
                 child: IndexedStack(
                   index: state.currentIndex,
                   children: const [
                     HomePage(),
-                    PackDiscoveryPage(),
                     DownloadManagerPage(),
                   ],
                 ),
@@ -53,15 +51,18 @@ class MainNavigationView extends StatelessWidget {
     );
   }
 
-  Widget _buildBottomNavigationBar(BuildContext context, NavigationState state) {
+  Widget _buildBottomNavigationBar(
+    BuildContext context,
+    NavigationState state,
+  ) {
     final theme = Theme.of(context);
-    
+
     return Container(
       decoration: BoxDecoration(
         color: theme.colorScheme.surface,
         boxShadow: [
           BoxShadow(
-            color: theme.shadowColor.withValues(alpha: 0.1),
+            color: theme.shadowColor.withOpacity(0.1), // Fixed method call
             blurRadius: 8,
             offset: const Offset(0, -2),
           ),
@@ -85,20 +86,12 @@ class MainNavigationView extends StatelessWidget {
               _buildNavItem(
                 context: context,
                 index: 1,
-                icon: Icons.explore,
-                label: 'Discover',
-                isSelected: state.currentIndex == 1,
-                onTap: () => context.read<NavigationCubit>().setIndex(1),
-              ),
-              _buildNavItem(
-                context: context,
-                index: 2,
                 icon: Icons.download,
                 label: 'Downloads',
-                isSelected: state.currentIndex == 2,
-                onTap: () => context.read<NavigationCubit>().setIndex(2),
-                badge: state.activeDownloadsCount > 0 
-                    ? state.activeDownloadsCount.toString() 
+                isSelected: state.currentIndex == 1,
+                onTap: () => context.read<NavigationCubit>().setIndex(1),
+                badge: state.activeDownloadsCount > 0
+                    ? state.activeDownloadsCount.toString()
                     : null,
               ),
             ],
@@ -118,7 +111,7 @@ class MainNavigationView extends StatelessWidget {
     String? badge,
   }) {
     final theme = Theme.of(context);
-    
+
     return Expanded(
       child: InkWell(
         onTap: onTap,
@@ -170,9 +163,9 @@ class MainNavigationView extends StatelessWidget {
                     ),
                 ],
               ),
-              
+
               const SizedBox(height: 4),
-              
+
               // Label
               Text(
                 label,
@@ -215,11 +208,6 @@ class NavigationConfig {
       icon: Icons.home,
       label: 'Library',
       page: HomePage(),
-    ),
-    NavigationItem(
-      icon: Icons.explore,
-      label: 'Discover',
-      page: PackDiscoveryPage(),
     ),
     NavigationItem(
       icon: Icons.download,

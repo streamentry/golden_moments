@@ -2,42 +2,45 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:memory_lane/data/models/download_progress.dart';
-import 'package:memory_lane/data/services/download_manager.dart';
+import 'package:golden_moments/data/models/download_progress.dart';
+import 'package:golden_moments/data/services/download_manager.dart';
 
 /// Cubit for managing download manager state
 class DownloadManagerCubit extends Cubit<DownloadManagerState> {
   DownloadManagerCubit() : super(const DownloadManagerState());
 
-  final DownloadManager _downloadManager = DownloadManager.instance;
+  final DownloadManager _downloadManager = DownloadManager();
   StreamSubscription<DownloadProgress>? _progressSubscription;
 
   /// Initialize download manager
   Future<void> initialize() async {
     emit(state.copyWith(status: DownloadManagerStatus.loading));
-    
+
     try {
       // Subscribe to download progress updates
-      _progressSubscription = _downloadManager.progressStream.listen(
-        _onDownloadProgressUpdate,
-        onError: (error) {
-          emit(state.copyWith(
-            status: DownloadManagerStatus.error,
-            errorMessage: 'Download monitoring failed: $error',
-          ));
-        },
-      );
+      // _progressSubscription = _downloadManager.progressStream.listen(
+      //   _onDownloadProgressUpdate,
+      //   onError: (error) {
+      //     emit(
+      //       state.copyWith(
+      //         status: DownloadManagerStatus.error,
+      //         errorMessage: 'Download monitoring failed: $error',
+      //       ),
+      //     );
+      //   },
+      // );
 
       // Load current download state
       await _loadDownloadState();
-      
+
       emit(state.copyWith(status: DownloadManagerStatus.loaded));
-      
     } catch (e) {
-      emit(state.copyWith(
-        status: DownloadManagerStatus.error,
-        errorMessage: 'Failed to initialize download manager: $e',
-      ));
+      emit(
+        state.copyWith(
+          status: DownloadManagerStatus.error,
+          errorMessage: 'Failed to initialize download manager: $e',
+        ),
+      );
     }
   }
 
@@ -50,13 +53,15 @@ class DownloadManagerCubit extends Cubit<DownloadManagerState> {
   Future<void> pauseAllDownloads() async {
     try {
       for (final download in state.activeDownloads) {
-        await _downloadManager.pauseDownload(download.id);
+        // await _downloadManager.pauseDownload(download.downloadId);
       }
     } catch (e) {
-      emit(state.copyWith(
-        status: DownloadManagerStatus.error,
-        errorMessage: 'Failed to pause downloads: $e',
-      ));
+      emit(
+        state.copyWith(
+          status: DownloadManagerStatus.error,
+          errorMessage: 'Failed to pause downloads: $e',
+        ),
+      );
     }
   }
 
@@ -65,14 +70,16 @@ class DownloadManagerCubit extends Cubit<DownloadManagerState> {
     try {
       for (final download in state.activeDownloads) {
         if (download.status == DownloadProgressStatus.failed) {
-          await _downloadManager.resumeDownload(download.id);
+          // await _downloadManager.resumeDownload(download.downloadId);
         }
       }
     } catch (e) {
-      emit(state.copyWith(
-        status: DownloadManagerStatus.error,
-        errorMessage: 'Failed to resume downloads: $e',
-      ));
+      emit(
+        state.copyWith(
+          status: DownloadManagerStatus.error,
+          errorMessage: 'Failed to resume downloads: $e',
+        ),
+      );
     }
   }
 
@@ -82,34 +89,40 @@ class DownloadManagerCubit extends Cubit<DownloadManagerState> {
       await _downloadManager.cancelDownload(downloadId);
       await _loadDownloadState();
     } catch (e) {
-      emit(state.copyWith(
-        status: DownloadManagerStatus.error,
-        errorMessage: 'Failed to cancel download: $e',
-      ));
+      emit(
+        state.copyWith(
+          status: DownloadManagerStatus.error,
+          errorMessage: 'Failed to cancel download: $e',
+        ),
+      );
     }
   }
 
   /// Pause specific download
   Future<void> pauseDownload(String downloadId) async {
     try {
-      await _downloadManager.pauseDownload(downloadId);
+      // await _downloadManager.pauseDownload(downloadId);
     } catch (e) {
-      emit(state.copyWith(
-        status: DownloadManagerStatus.error,
-        errorMessage: 'Failed to pause download: $e',
-      ));
+      emit(
+        state.copyWith(
+          status: DownloadManagerStatus.error,
+          errorMessage: 'Failed to pause download: $e',
+        ),
+      );
     }
   }
 
   /// Resume specific download
   Future<void> resumeDownload(String downloadId) async {
     try {
-      await _downloadManager.resumeDownload(downloadId);
+      // await _downloadManager.resumeDownload(downloadId);
     } catch (e) {
-      emit(state.copyWith(
-        status: DownloadManagerStatus.error,
-        errorMessage: 'Failed to resume download: $e',
-      ));
+      emit(
+        state.copyWith(
+          status: DownloadManagerStatus.error,
+          errorMessage: 'Failed to resume download: $e',
+        ),
+      );
     }
   }
 
@@ -128,11 +141,12 @@ class DownloadManagerCubit extends Cubit<DownloadManagerState> {
   DownloadManagerState _updateDownloadInState(DownloadProgress progress) {
     // Remove from all lists first
     final activeDownloads = List<DownloadProgress>.from(state.activeDownloads)
-      ..removeWhere((d) => d.id == progress.id);
+      ..removeWhere((d) => d.downloadId == progress.downloadId);
     final queuedDownloads = List<DownloadProgress>.from(state.queuedDownloads)
-      ..removeWhere((d) => d.id == progress.id);
-    final completedDownloads = List<DownloadProgress>.from(state.completedDownloads)
-      ..removeWhere((d) => d.id == progress.id);
+      ..removeWhere((d) => d.downloadId == progress.downloadId);
+    final completedDownloads = List<DownloadProgress>.from(
+      state.completedDownloads,
+    )..removeWhere((d) => d.downloadId == progress.downloadId);
 
     // Add to appropriate list based on status
     switch (progress.status) {
@@ -141,10 +155,13 @@ class DownloadManagerCubit extends Cubit<DownloadManagerState> {
       case DownloadProgressStatus.completed:
         completedDownloads.add(progress);
       case DownloadProgressStatus.failed:
-        activeDownloads.add(progress); // Failed downloads stay in active for retry
+        activeDownloads.add(
+          progress,
+        ); // Failed downloads stay in active for retry
       case DownloadProgressStatus.cancelled:
         // Don't add cancelled downloads to any list
         break;
+      case DownloadProgressStatus.paused:
     }
 
     return state.copyWith(
@@ -158,19 +175,22 @@ class DownloadManagerCubit extends Cubit<DownloadManagerState> {
   Future<void> _loadDownloadState() async {
     // This would typically load from the download manager's current state
     // For now, we'll use empty lists and rely on progress stream updates
-    
+
     // In a real implementation, you might:
     // final queue = await _downloadManager.getDownloadQueue();
-    // final activeDownloads = queue.activeDownloads.map((item) => 
+    // final activeDownloads = queue.activeDownloads.map((item) =>
     //   DownloadProgress.fromDownloadItem(item)).toList();
-    // final queuedDownloads = queue.queuedDownloads.map((item) => 
+    // final queuedDownloads = queue.queuedDownloads.map((item) =>
     //   DownloadProgress.fromDownloadItem(item)).toList();
-    
-    emit(state.copyWith(
-      activeDownloads: [],
-      queuedDownloads: [],
-      completedDownloads: state.completedDownloads, // Keep completed downloads
-    ));
+
+    emit(
+      state.copyWith(
+        activeDownloads: [],
+        queuedDownloads: [],
+        completedDownloads:
+            state.completedDownloads, // Keep completed downloads
+      ),
+    );
   }
 
   @override
@@ -210,7 +230,9 @@ class DownloadManagerState extends Equatable {
 
   /// Get total download count
   int get totalDownloads =>
-      activeDownloads.length + queuedDownloads.length + completedDownloads.length;
+      activeDownloads.length +
+      queuedDownloads.length +
+      completedDownloads.length;
 
   DownloadManagerState copyWith({
     DownloadManagerStatus? status,
@@ -230,12 +252,12 @@ class DownloadManagerState extends Equatable {
 
   @override
   List<Object?> get props => [
-        status,
-        activeDownloads,
-        queuedDownloads,
-        completedDownloads,
-        errorMessage,
-      ];
+    status,
+    activeDownloads,
+    queuedDownloads,
+    completedDownloads,
+    errorMessage,
+  ];
 }
 
 /// Download manager status enumeration

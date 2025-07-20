@@ -1,8 +1,8 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:memory_lane/data/services/long_term_image_cache.dart';
-import 'package:memory_lane/design_system.dart';
+import 'package:golden_moments/data/services/long_term_image_cache.dart';
+import 'package:golden_moments/design_system.dart';
 
 /// Widget that displays images with long-term caching
 class CachedImageWidget extends StatefulWidget {
@@ -33,7 +33,7 @@ class CachedImageWidget extends StatefulWidget {
 
 class _CachedImageWidgetState extends State<CachedImageWidget> {
   final LongTermImageCache _cache = LongTermImageCache.instance;
-  
+
   File? _cachedFile;
   bool _isLoading = true;
   bool _hasError = false;
@@ -55,7 +55,7 @@ class _CachedImageWidgetState extends State<CachedImageWidget> {
 
   Future<void> _loadImage() async {
     if (!mounted) return;
-    
+
     setState(() {
       _isLoading = true;
       _hasError = false;
@@ -64,7 +64,7 @@ class _CachedImageWidgetState extends State<CachedImageWidget> {
 
     try {
       final cachedFile = await _cache.getCachedImage(widget.imageUrl);
-      
+
       if (mounted) {
         setState(() {
           _cachedFile = cachedFile;
@@ -127,7 +127,7 @@ class _CachedImageWidgetState extends State<CachedImageWidget> {
     }
 
     final theme = Theme.of(context);
-    
+
     return Container(
       width: widget.width,
       height: widget.height,
@@ -155,7 +155,7 @@ class _CachedImageWidgetState extends State<CachedImageWidget> {
     }
 
     final theme = Theme.of(context);
-    
+
     return Container(
       width: widget.width,
       height: widget.height,
@@ -173,7 +173,9 @@ class _CachedImageWidgetState extends State<CachedImageWidget> {
             Text(
               'Image failed to load',
               style: theme.textTheme.bodySmall?.copyWith(
-                color: theme.colorScheme.onErrorContainer.withValues(alpha: 0.7),
+                color: theme.colorScheme.onErrorContainer.withValues(
+                  alpha: 0.7,
+                ),
               ),
               textAlign: TextAlign.center,
             ),
@@ -254,13 +256,16 @@ class _FadeInCachedImageState extends State<FadeInCachedImage>
       duration: widget.duration,
       vsync: this,
     );
-    _fadeAnimation = Tween<double>(
-      begin: 0.0,
-      end: 1.0,
-    ).animate(CurvedAnimation(
-      parent: _animationController,
-      curve: Curves.easeIn,
-    ));
+    _fadeAnimation =
+        Tween<double>(
+          begin: 0.0,
+          end: 1.0,
+        ).animate(
+          CurvedAnimation(
+            parent: _animationController,
+            curve: Curves.easeIn,
+          ),
+        );
   }
 
   @override
@@ -354,7 +359,9 @@ class CachedImageCarousel extends StatelessWidget {
             width: height, // Square aspect ratio
             margin: const EdgeInsets.only(right: gmSpaceSm),
             child: GestureDetector(
-              onTap: onImageTap != null ? () => onImageTap!(imageUrl, index) : null,
+              onTap: onImageTap != null
+                  ? () => onImageTap!(imageUrl, index)
+                  : null,
               child: CachedImageWidget(
                 imageUrl: imageUrl,
                 fit: BoxFit.cover,

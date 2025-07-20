@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:memory_lane/design_system.dart';
-import 'package:memory_lane/features/download_manager/cubit/download_manager_cubit.dart';
-import 'package:memory_lane/shared/widgets/download_progress_card.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/download_manager/cubit/download_manager_cubit.dart';
+import 'package:golden_moments/shared/widgets/download_progress_card.dart';
 
 /// Download manager page for managing active downloads
 class DownloadManagerPage extends StatelessWidget {
@@ -32,7 +32,9 @@ class DownloadManagerView extends StatelessWidget {
               return IconButton(
                 icon: const Icon(Icons.pause_circle_outline),
                 onPressed: state.hasActiveDownloads
-                    ? () => context.read<DownloadManagerCubit>().pauseAllDownloads()
+                    ? () => context
+                          .read<DownloadManagerCubit>()
+                          .pauseAllDownloads()
                     : null,
                 tooltip: 'Pause All Downloads',
               );
@@ -60,7 +62,8 @@ class DownloadManagerView extends StatelessWidget {
             case DownloadManagerStatus.error:
               return _ErrorView(
                 message: state.errorMessage,
-                onRetry: () => context.read<DownloadManagerCubit>().initialize(),
+                onRetry: () =>
+                    context.read<DownloadManagerCubit>().initialize(),
               );
             case DownloadManagerStatus.loaded:
               return _LoadedView(state: state);
@@ -104,7 +107,7 @@ class _LoadingView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
@@ -136,7 +139,7 @@ class _ErrorView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Center(
       child: Padding(
         padding: const EdgeInsets.all(gmSpaceLg),
@@ -213,13 +216,13 @@ class _LoadedView extends StatelessWidget {
                     progress: progress,
                     onCancel: () => context
                         .read<DownloadManagerCubit>()
-                        .cancelDownload(progress.id),
+                        .cancelDownload(progress.downloadId),
                     onPause: () => context
                         .read<DownloadManagerCubit>()
-                        .pauseDownload(progress.id),
+                        .pauseDownload(progress.downloadId),
                     onResume: () => context
                         .read<DownloadManagerCubit>()
-                        .resumeDownload(progress.id),
+                        .resumeDownload(progress.downloadId),
                   );
                 },
                 childCount: state.activeDownloads.length,
@@ -243,7 +246,7 @@ class _LoadedView extends StatelessWidget {
                     progress: progress,
                     onCancel: () => context
                         .read<DownloadManagerCubit>()
-                        .cancelDownload(progress.id),
+                        .cancelDownload(progress.downloadId),
                     showControls: false,
                   );
                 },
@@ -256,7 +259,8 @@ class _LoadedView extends StatelessWidget {
           if (state.completedDownloads.isNotEmpty) ...[
             SliverToBoxAdapter(
               child: _SectionHeader(
-                title: 'Completed Downloads (${state.completedDownloads.length})',
+                title:
+                    'Completed Downloads (${state.completedDownloads.length})',
                 icon: Icons.check_circle,
               ),
             ),
@@ -291,7 +295,7 @@ class _EmptyView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Center(
       child: Padding(
         padding: const EdgeInsets.all(gmSpaceLg),
@@ -334,7 +338,7 @@ class _DownloadStats extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Container(
       margin: const EdgeInsets.all(gmSpaceMd),
       padding: const EdgeInsets.all(gmSpaceMd),
@@ -387,7 +391,7 @@ class _StatItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Expanded(
       child: Column(
         children: [
@@ -429,9 +433,14 @@ class _SectionHeader extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    
+
     return Padding(
-      padding: const EdgeInsets.fromLTRB(gmSpaceMd, gmSpaceLg, gmSpaceMd, gmSpaceSm),
+      padding: const EdgeInsets.fromLTRB(
+        gmSpaceMd,
+        gmSpaceLg,
+        gmSpaceMd,
+        gmSpaceSm,
+      ),
       child: Row(
         children: [
           Icon(

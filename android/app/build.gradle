@@ -29,7 +29,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace "com.example.verygoodcore.memory_lane"
+    namespace "com.mindfulness.golden_moments"
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
@@ -80,17 +80,17 @@ android {
         production {
             dimension "default"
             applicationIdSuffix ""
-            manifestPlaceholders = [appName: "Memory Lane"]
+            manifestPlaceholders = [appName: "Golden Moments"]
         }
         staging {
             dimension "default"
             applicationIdSuffix ".stg"
-            manifestPlaceholders = [appName: "[STG] Memory Lane"]
+            manifestPlaceholders = [appName: "[STG] Golden Moments"]
         }
         development {
             dimension "default"
             applicationIdSuffix ".dev"
-            manifestPlaceholders = [appName: "[DEV] Memory Lane"]
+            manifestPlaceholders = [appName: "[DEV] Golden Moments"]
         }
     }
 
