@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
+import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/shared/widgets/pack_card.dart';
 
@@ -44,33 +45,38 @@ class _PackPageState extends State<PackPage> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.categoryName),
-      ),
-      body: _loading
-          ? const Center(child: CircularProgressIndicator())
-          : _packs.isEmpty
-          ? _EmptyState()
-          : GridView.builder(
-              padding: const EdgeInsets.all(gmSpaceMd),
-              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 2,
-                childAspectRatio: 0.7,
-                crossAxisSpacing: gmSpaceSm,
-                mainAxisSpacing: gmSpaceSm,
+    return PopScope(
+      onPopInvokedWithResult: (_, _) {
+        SoundService().playTap();
+      },
+      child: Scaffold(
+        appBar: AppBar(
+          title: Text(widget.categoryName),
+        ),
+        body: _loading
+            ? const Center(child: CircularProgressIndicator())
+            : _packs.isEmpty
+            ? _EmptyState()
+            : GridView.builder(
+                padding: const EdgeInsets.all(gmSpaceMd),
+                gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                  crossAxisCount: 2,
+                  childAspectRatio: 0.7,
+                  crossAxisSpacing: gmSpaceSm,
+                  mainAxisSpacing: gmSpaceSm,
+                ),
+                itemCount: _packs.length,
+                itemBuilder: (context, index) {
+                  final pack = _packs[index];
+                  return PackCard(
+                    pack: pack,
+                    onTap: widget.onPackTap == null
+                        ? null
+                        : () => widget.onPackTap?.call(pack),
+                  );
+                },
               ),
-              itemCount: _packs.length,
-              itemBuilder: (context, index) {
-                final pack = _packs[index];
-                return PackCard(
-                  pack: pack,
-                  onTap: widget.onPackTap == null
-                      ? null
-                      : () => widget.onPackTap?.call(pack),
-                );
-              },
-            ),
+      ),
     );
   }
 }

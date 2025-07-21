@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/download_manager.dart';
 import 'package:golden_moments/data/services/json_cache_service.dart';
+import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/game/game.dart';
 import 'package:golden_moments/shared/utils/string_util.dart';
@@ -97,12 +98,14 @@ class _PackCardState extends State<PackCard> {
         actions: [
           TextButton(
             onPressed: () {
+              SoundService().playTap();
               Navigator.of(dialogContext).pop(); // Close dialog
             },
             child: const Text('Cancel'),
           ),
           TextButton(
             onPressed: () {
+              SoundService().playTap();
               Navigator.of(dialogContext).pop(); // Close dialog
               _startDownloadPack(pack); // Start download
             },
@@ -122,7 +125,7 @@ class _PackCardState extends State<PackCard> {
       child: Pressable(
         onPressed: () async {
           // Wait for ripple animation before calling onPressed
-          await Future<void>.delayed(const Duration(milliseconds: 300));
+          await Future<void>.delayed(const Duration(milliseconds: 180));
           switch (_downloadStatus) {
             case PackDownloadStatus.cached:
               {

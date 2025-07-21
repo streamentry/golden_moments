@@ -11,7 +11,6 @@ class SettingModal extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    final soundService = SoundService();
 
     return Consumer<SoundSettings>(
       builder: (context, settings, _) => Padding(
@@ -34,10 +33,9 @@ class SettingModal extends StatelessWidget {
                 const Text('Music'),
                 const Spacer(),
                 Switch(
-                  value: soundService.musicEnabled,
+                  value: settings.isMusicOn,
                   onChanged: (val) {
-                    soundService.musicEnabled = val;
-                    settings.setMusic(val);
+                    settings.toggleMusic();
                   },
                 ),
               ],
@@ -52,10 +50,9 @@ class SettingModal extends StatelessWidget {
                 const Text('Sound'),
                 const Spacer(),
                 Switch(
-                  value: soundService.soundEnabled,
+                  value: settings.isSoundOn,
                   onChanged: (val) {
-                    soundService.soundEnabled = val;
-                    settings.setSound(val);
+                    settings.toggleSound();
                   },
                 ),
               ],

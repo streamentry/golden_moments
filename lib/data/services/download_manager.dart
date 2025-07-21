@@ -47,10 +47,10 @@ class DownloadManager {
   /// Download a complete pack
   Future<void> downloadPack(String packId) async {
     try {
-      // Get pack info from local service
+      // Get pack from local service (packs_index.json)
       final pack = await _localPackService.getPackById(packId);
 
-      // Create pack cache entry from local pack info
+      // Create pack cache entry from local pack
       final packCache = PackCache.create(
         id: packId,
         version: pack.version,
@@ -64,8 +64,6 @@ class DownloadManager {
       for (final image in pack.images) {
         await _queueImageDownload(packId, image.id, image.url);
       }
-
-      _startQueueProcessor();
     } catch (e) {
       throw e is DownloadError
           ? e
@@ -199,15 +197,13 @@ class DownloadManager {
     try {
       final queue = await _cacheService.loadDownloadQueue();
       final activeCount = queue.activeDownloads.length;
-      final queuedCount = queue.queuedDownloads.length;
 
       // Start new downloads if under limit
       if (activeCount < CacheConstants.maxConcurrentDownloads &&
           queue.queuedDownloads.isNotEmpty) {
         final nextDownload = queue.queuedDownloads.first;
         await _startDownload(nextDownload);
-      } else if (queuedCount == 0) {
-      } else {}
+      }
     } finally {
       _isProcessing = false;
     }
@@ -230,8 +226,6 @@ class DownloadManager {
     try {
       if (item.type == DownloadType.image) {
         await _downloadImage(item);
-      } else {
-        await _downloadPackManifest(item);
       }
     } on Exception catch (e) {
       await _handleDownloadError(item, e);
@@ -293,6 +287,8 @@ class DownloadManager {
       },
     );
 
+    // print(imageData);
+
     // Save image to cache
     final imagePath = CacheFilePaths.imageFile(packId, filename);
     final fullPath = _cacheService.fileManager.getCachePath(imagePath);
@@ -329,12 +325,6 @@ class DownloadManager {
 
     // Emit completion progress
     _emitProgress(initialProgress.complete());
-  }
-
-  /// Download pack manifest (placeholder)
-  Future<void> _downloadPackManifest(DownloadItem item) async {
-    // This would be implemented for manifest-only downloads
-    throw UnimplementedError('Pack manifest download not implemented');
   }
 
   /// Complete download

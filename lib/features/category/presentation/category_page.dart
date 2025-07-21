@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/category.dart';
+import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/shared/widgets/category_card.dart';
 
@@ -16,28 +17,33 @@ class CategoryPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext parentContext) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('All Categories'),
+    return PopScope(
+      onPopInvokedWithResult: (_, _) {
+        SoundService().playTap();
+      },
+      child: Scaffold(
+        appBar: AppBar(
+          title: const Text('All Categories'),
+        ),
+        body: categories.isEmpty
+            ? _EmptyState()
+            : ListView.separated(
+                padding: const EdgeInsets.all(gmSpaceMd),
+                itemCount: categories.length,
+                separatorBuilder: (context, index) =>
+                    const SizedBox(height: gmSpaceSm),
+                itemBuilder: (context, index) {
+                  final category = categories[index];
+                  return CategoryCard(
+                    category: category,
+                    onTap: onCategoryTap == null
+                        ? null
+                        : () => {onCategoryTap?.call(category)},
+                    // showPremiumBadge: category.isPremium && !userPreferences.isPremiumUser,
+                  );
+                },
+              ),
       ),
-      body: categories.isEmpty
-          ? _EmptyState()
-          : ListView.separated(
-              padding: const EdgeInsets.all(gmSpaceMd),
-              itemCount: categories.length,
-              separatorBuilder: (context, index) =>
-                  const SizedBox(height: gmSpaceSm),
-              itemBuilder: (context, index) {
-                final category = categories[index];
-                return CategoryCard(
-                  category: category,
-                  onTap: onCategoryTap == null
-                      ? null
-                      : () => {onCategoryTap?.call(category)},
-                  // showPremiumBadge: category.isPremium && !userPreferences.isPremiumUser,
-                );
-              },
-            ),
     );
   }
 }

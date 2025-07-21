@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/widgets.dart';
+import 'package:golden_moments/data/models/sound_setting.dart';
 
 /// Singleton service for playing app sounds
 class SoundService with WidgetsBindingObserver {
@@ -11,23 +12,11 @@ class SoundService with WidgetsBindingObserver {
   static final SoundService _instance = SoundService._internal();
 
   final AudioPlayer _musicPlayer = AudioPlayer();
-  bool _soundEnabled = true;
-  bool _musicEnabled = true;
+  late SoundSettings _soundSettings;
 
-  bool get soundEnabled => _soundEnabled;
-  set soundEnabled(bool value) => _soundEnabled = value;
+  Future<void> initialize(SoundSettings settings) async {
+    _soundSettings = settings;
 
-  bool get musicEnabled => _musicEnabled;
-  set musicEnabled(bool value) {
-    _musicEnabled = value;
-    if (_musicEnabled) {
-      playMusic();
-    } else {
-      _musicPlayer.stop();
-    }
-  }
-
-  Future<void> initialize() async {
     await _musicPlayer.setAudioContext(
       AudioContext(
         android: const AudioContextAndroid(
@@ -40,14 +29,26 @@ class SoundService with WidgetsBindingObserver {
     await _musicPlayer.setPlayerMode(PlayerMode.mediaPlayer);
     await _musicPlayer.setReleaseMode(ReleaseMode.loop);
     await _musicPlayer.setVolume(1);
-    if (musicEnabled) {
+
+    // Listen to changes to auto-play/stop music
+    _soundSettings.addListener(_onSettingsChanged);
+
+    if (_soundSettings.isMusicOn) {
       await playMusic();
     }
   }
 
+  void _onSettingsChanged() {
+    if (_soundSettings.isMusicOn) {
+      playMusic();
+    } else {
+      _musicPlayer.stop();
+    }
+  }
+
   Future<void> _playAsset(String assetPath, {bool isMusic = false}) async {
-    if (isMusic && !_musicEnabled) return;
-    if (!isMusic && !_soundEnabled) return;
+    if (isMusic && !_soundSettings.isMusicOn) return;
+    if (!isMusic && !_soundSettings.isSoundOn) return;
     if (isMusic) {
       switch (_musicPlayer.state) {
         case PlayerState.paused:
@@ -77,7 +78,7 @@ class SoundService with WidgetsBindingObserver {
   void didChangeAppLifecycleState(AppLifecycleState state) {
     if (state == AppLifecycleState.paused) {
       _musicPlayer.pause();
-    } else if (state == AppLifecycleState.resumed && _musicEnabled) {
+    } else if (state == AppLifecycleState.resumed && _soundSettings.isMusicOn) {
       _musicPlayer.resume();
     }
   }
