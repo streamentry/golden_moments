@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:bloc/bloc.dart';
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/data/models/pack.dart';
@@ -14,17 +16,28 @@ class HomeCubit extends Cubit<HomeState> {
     emit(state.copyWith(status: HomeStatus.loading));
 
     try {
-      // Load daily packs
-      final dailyPacks = await _loadPacks();
+      // Load packs
+      final packs = await _loadPacks();
+      // Random seed
+      final today = DateTime.now();
+      final seed =
+          today.year * 10000 +
+          today.month * 100 +
+          today.day; // Unique seed for the day
+      final random = Random(seed);
+      packs.shuffle(random);
+
+      // Get daily packs
+      final dailyPacks = packs.take(4).toList();
 
       // Load library packs
-      final libraryPacks = await _loadCategory();
+      final libraryCategories = await _loadCategory();
 
       emit(
         state.copyWith(
           status: HomeStatus.loaded,
           dailyPacks: dailyPacks,
-          libraryPacks: libraryPacks,
+          libraryPacks: libraryCategories,
         ),
       );
     } catch (error) {
