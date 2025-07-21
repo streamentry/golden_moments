@@ -12,6 +12,7 @@ class SoundService with WidgetsBindingObserver {
   static final SoundService _instance = SoundService._internal();
 
   final AudioPlayer _musicPlayer = AudioPlayer();
+  final AudioPlayer _soundPlayer = AudioPlayer();
   late SoundSettings _soundSettings;
 
   Future<void> initialize(SoundSettings settings) async {
@@ -29,6 +30,16 @@ class SoundService with WidgetsBindingObserver {
     await _musicPlayer.setPlayerMode(PlayerMode.mediaPlayer);
     await _musicPlayer.setReleaseMode(ReleaseMode.loop);
     await _musicPlayer.setVolume(1);
+
+    await _soundPlayer.setAudioContext(
+      AudioContext(
+        android: const AudioContextAndroid(
+          isSpeakerphoneOn: true,
+          usageType: AndroidUsageType.game,
+          audioFocus: AndroidAudioFocus.none, // allow mixing
+        ),
+      ),
+    );
 
     // Listen to changes to auto-play/stop music
     _soundSettings.addListener(_onSettingsChanged);
@@ -61,12 +72,7 @@ class SoundService with WidgetsBindingObserver {
       }
     } else {
       // Use a separate player for sound effects to avoid disrupting music
-      final soundEffectPlayer = AudioPlayer();
-      await soundEffectPlayer.setPlayerMode(PlayerMode.lowLatency);
-      await soundEffectPlayer.play(AssetSource(assetPath));
-      soundEffectPlayer.onPlayerComplete.listen((_) {
-        soundEffectPlayer.dispose();
-      });
+      await _soundPlayer.play(AssetSource(assetPath));
     }
   }
 
