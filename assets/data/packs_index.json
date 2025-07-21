@@ -306,7 +306,7 @@
           "caption": "Brown Squirrel"
         },
         {
-          "id": "Macaw_11",
+          "id": "macaw_11",
           "url": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=400&h=400&fit=crop",
           "caption": "Yellow And Blue Macaw"
         },
@@ -339,8 +339,8 @@
     },
     {
       "id": "food_desserts_homemade",
-      "title": "Delicous Desserts",
-      "description": "Some delicous desserts for your meals!",
+      "title": "Delicious Desserts",
+      "description": "Some delicious desserts for your meals!",
       "theme": "Sweet desserts",
       "category": "food",
       "difficulty": "easy",

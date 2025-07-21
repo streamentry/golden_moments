@@ -287,8 +287,6 @@ class DownloadManager {
       },
     );
 
-    // print(imageData);
-
     // Save image to cache
     final imagePath = CacheFilePaths.imageFile(packId, filename);
     final fullPath = _cacheService.fileManager.getCachePath(imagePath);
