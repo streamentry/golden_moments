@@ -1,6 +1,7 @@
 import 'dart:math';
 
 import 'package:bloc/bloc.dart';
+import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
@@ -13,6 +14,10 @@ class HomeCubit extends Cubit<HomeState> {
 
   /// Initialize the home screen with data
   Future<void> initialize() async {
+    await FirebaseAnalytics.instance.logScreenView(
+      screenName: 'Home',
+    );
+
     emit(state.copyWith(status: HomeStatus.loading));
 
     try {

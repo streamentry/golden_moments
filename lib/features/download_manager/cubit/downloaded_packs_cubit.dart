@@ -1,4 +1,5 @@
 import 'package:bloc/bloc.dart';
+import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
@@ -10,6 +11,9 @@ class DownloadedPacksCubit extends Cubit<DownloadedPacksState> {
 
   /// Initialize the home screen with data
   Future<void> initialize() async {
+    await FirebaseAnalytics.instance.logScreenView(
+      screenName: 'Downloaded',
+    );
     emit(state.copyWith(status: DownloadedPacksPageStatus.loading));
 
     // Load all packs

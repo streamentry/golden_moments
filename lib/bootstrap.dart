@@ -2,6 +2,8 @@ import 'dart:async';
 import 'dart:developer';
 
 import 'package:bloc/bloc.dart';
+import 'package:firebase_analytics/firebase_analytics.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/widgets.dart';
 import 'package:golden_moments/data/models/sound_setting.dart';
 import 'package:golden_moments/data/services/download_manager.dart';
@@ -32,6 +34,8 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
     log(details.exceptionAsString(), stackTrace: details.stack);
   };
   Bloc.observer = const AppBlocObserver();
+
+  await Firebase.initializeApp();
 
   // Add cross-flavor configuration here
   final soundSettings = SoundSettings();

@@ -89,7 +89,7 @@ android {
         }
         development {
             dimension "default"
-            applicationIdSuffix ".dev"
+            applicationIdSuffix ""
             manifestPlaceholders = [appName: "[DEV] Golden Moments"]
         }
     }
@@ -113,3 +113,5 @@ flutter {
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.20"
 }
+
+apply plugin: 'com.google.gms.google-services'

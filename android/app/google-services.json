@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903759856304",
+    "project_id": "golden-moments-e84f4",
+    "storage_bucket": "golden-moments-e84f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903759856304:android:d7dcdec18bc2e870577175",
+        "android_client_info": {
+          "package_name": "com.mindfulness.golden_moments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMyFx4ngHpp6bQDSRS9A8WzkjxBN-KZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
