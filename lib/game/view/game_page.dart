@@ -39,8 +39,7 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
   }
 
   void _startTimer() {
-    if (_timer?.isActive ?? true) return; // Don't start if already running
-
+    if (_timer?.isActive == true) return; // Don't start if already running
     _timer = Timer.periodic(const Duration(seconds: 1), (timer) {
       if (mounted && !_isPaused) {
         setState(() {
@@ -126,85 +125,90 @@ class GameView extends StatelessWidget {
 
   @override
   Widget build(BuildContext parentContext) {
-    return Scaffold(
-      appBar: AppBar(
-        title: BlocBuilder<GameCubit, GameState>(
-          builder: (context, state) {
-            return Text(state.currentPack.title);
-          },
+    return PopScope(
+      onPopInvokedWithResult: (_, _) {
+        SoundService().playTap();
+      },
+      child: Scaffold(
+        appBar: AppBar(
+          title: BlocBuilder<GameCubit, GameState>(
+            builder: (context, state) {
+              return Text(state.currentPack.title);
+            },
+          ),
+          actions: [
+            IconButton(
+              icon: const Icon(Icons.pause),
+              onPressed: () {
+                SoundService().playTap();
+                parentContext.read<GameCubit>().pauseGame();
+                _showPauseDialog(parentContext);
+              },
+              tooltip: 'Pause Game',
+            ),
+            IconButton(
+              icon: const Icon(Icons.replay_outlined),
+              onPressed: () {
+                SoundService().playTap();
+                parentContext.read<GameCubit>().resetGame();
+                onRestart();
+              },
+              tooltip: 'Replay',
+            ),
+            IconButton(
+              icon: const Icon(Icons.lightbulb_outline),
+              onPressed: () {
+                SoundService().playTap();
+                parentContext.read<GameCubit>().showHint();
+              },
+              tooltip: 'Show Hint',
+            ),
+          ],
         ),
-        actions: [
-          IconButton(
-            icon: const Icon(Icons.pause),
-            onPressed: () {
-              SoundService().playTap();
-              parentContext.read<GameCubit>().pauseGame();
-              _showPauseDialog(parentContext);
-            },
-            tooltip: 'Pause Game',
-          ),
-          IconButton(
-            icon: const Icon(Icons.replay_outlined),
-            onPressed: () {
-              SoundService().playTap();
-              parentContext.read<GameCubit>().resetGame();
-              onRestart();
-            },
-            tooltip: 'Replay',
-          ),
-          IconButton(
-            icon: const Icon(Icons.lightbulb_outline),
-            onPressed: () {
-              SoundService().playTap();
-              parentContext.read<GameCubit>().showHint();
-            },
-            tooltip: 'Show Hint',
-          ),
-        ],
-      ),
-      body: Stack(
-        children: [
-          BlocListener<GameCubit, GameState>(
-            listener: (context, state) {
-              if (state.status == GameStatus.completed) {
-                _showCompletionDialog(context, state);
-                SoundService().playWinner();
-              }
-            },
-            child: BlocBuilder<GameCubit, GameState>(
-              builder: (context, state) {
-                switch (state.status) {
-                  case GameStatus.initial:
-                  case GameStatus.loading:
-                    return const _LoadingView();
-                  case GameStatus.playing:
-                  case GameStatus.paused:
-                    return _GamePlayView(
-                      state: state,
-                      currentTime: currentTime,
-                    );
-                  case GameStatus.completed:
-                    return _GamePlayView(
-                      state: state,
-                      currentTime: currentTime,
-                    );
-                  case GameStatus.failed:
-                    return _ErrorView(state: state);
-                  case GameStatus.requiresDownload:
-                    return _RequiresDownloadView(state: state);
+        body: Stack(
+          children: [
+            BlocListener<GameCubit, GameState>(
+              listener: (context, state) {
+                if (state.status == GameStatus.completed) {
+                  _showCompletionDialog(context, state);
+                  SoundService().playWinner();
                 }
               },
+              child: BlocBuilder<GameCubit, GameState>(
+                builder: (context, state) {
+                  switch (state.status) {
+                    case GameStatus.initial:
+                    case GameStatus.loading:
+                      return const _LoadingView();
+                    case GameStatus.playing:
+                    case GameStatus.paused:
+                      return _GamePlayView(
+                        state: state,
+                        currentTime: currentTime,
+                      );
+                    case GameStatus.completed:
+                      return _GamePlayView(
+                        state: state,
+                        currentTime: currentTime,
+                      );
+                    case GameStatus.failed:
+                      return _ErrorView(state: state);
+                    case GameStatus.requiresDownload:
+                      return _RequiresDownloadView(state: state);
+                  }
+                },
+              ),
             ),
-          ),
-          // Confetti overlay for celebrations
-          BlocBuilder<GameCubit, GameState>(
-            builder: (context, state) {
-              return GmConfettiOverlay(
-                show: state.status == GameStatus.completed,
-              );
-            },
-          ),
-        ],
+            // Confetti overlay for celebrations
+            BlocBuilder<GameCubit, GameState>(
+              builder: (context, state) {
+                return GmConfettiOverlay(
+                  show: state.status == GameStatus.completed,
+                );
+              },
+            ),
+          ],
+        ),
       ),
     );
   }
@@ -226,14 +230,17 @@ class GameView extends StatelessWidget {
                 const SizedBox(height: gmSpaceMd),
                 Row(
                   children: [
+                    Icon(
+                      settings.isMusicOn ? Icons.volume_up : Icons.volume_off,
+                    ),
+                    const SizedBox(width: gmSpaceSm),
                     const Text('Music'),
                     const Spacer(),
                     Switch(
                       value: settings.isMusicOn,
                       onChanged: (value) {
                         setState(() {
-                          settings.setMusic(value);
-                          SoundService().musicEnabled = value;
+                          settings.toggleMusic();
                         });
                       },
                     ),
@@ -241,14 +248,17 @@ class GameView extends StatelessWidget {
                 ),
                 Row(
                   children: [
+                    Icon(
+                      settings.isSoundOn ? Icons.music_note : Icons.music_off,
+                    ),
+                    const SizedBox(width: gmSpaceSm),
                     const Text('Sound'),
                     const Spacer(),
                     Switch(
                       value: settings.isSoundOn,
                       onChanged: (value) {
                         setState(() {
-                          settings.setSound(value);
-                          SoundService().soundEnabled = value;
+                          settings.toggleSound();
                         });
                       },
                     ),

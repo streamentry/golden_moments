@@ -20,6 +20,7 @@ javascript
 
 ──────────────────────────────────────────────────────────────────────────────*/
 import 'package:flutter/material.dart';
+import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
 
 ///////////////////////////////////////////////////////////////////////////////
@@ -225,7 +226,10 @@ class GmOutlineButton extends StatelessWidget {
             borderRadius: BorderRadius.circular(gmRadiusMd),
           ),
         ),
-        onPressed: onTap,
+        onPressed: () {
+          SoundService().playTap();
+          onTap?.call();
+        },
         child: Text(
           label,
           style: Theme.of(

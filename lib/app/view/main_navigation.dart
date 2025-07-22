@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:golden_moments/app/cubit/navigation_cubit.dart';
+import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/download_manager/view/download_manager_page.dart';
 import 'package:golden_moments/home/view/home_page.dart';
@@ -79,17 +80,23 @@ class MainNavigationView extends StatelessWidget {
                 context: context,
                 index: 0,
                 icon: Icons.home,
-                label: 'Library',
+                label: 'Home',
                 isSelected: state.currentIndex == 0,
-                onTap: () => context.read<NavigationCubit>().setIndex(0),
+                onTap: () {
+                  SoundService().playTap();
+                  context.read<NavigationCubit>().setIndex(0);
+                },
               ),
               _buildNavItem(
                 context: context,
                 index: 1,
                 icon: Icons.download,
-                label: 'Downloads',
+                label: 'Downloaded',
                 isSelected: state.currentIndex == 1,
-                onTap: () => context.read<NavigationCubit>().setIndex(1),
+                onTap: () {
+                  SoundService().playTap();
+                  context.read<NavigationCubit>().setIndex(1);
+                },
                 badge: state.activeDownloadsCount > 0
                     ? state.activeDownloadsCount.toString()
                     : null,
@@ -206,12 +213,12 @@ class NavigationConfig {
   static const List<NavigationItem> items = [
     NavigationItem(
       icon: Icons.home,
-      label: 'Library',
+      label: 'Home',
       page: HomePage(),
     ),
     NavigationItem(
       icon: Icons.download,
-      label: 'Downloads',
+      label: 'Downloaded',
       page: DownloadManagerPage(),
     ),
   ];
@@ -249,12 +256,10 @@ class NavigationAccessibility {
   /// Get semantic hint for navigation item
   static String getSemanticHint(NavigationItem item) {
     switch (item.label) {
-      case 'Library':
+      case 'Home':
         return 'View your game library and daily packs';
-      case 'Discover':
-        return 'Browse and discover new memory game packs';
-      case 'Downloads':
-        return 'Manage your pack downloads and view progress';
+      case 'Downloaded':
+        return 'Manage your downloaded packs';
       default:
         return 'Navigate to ${item.label}';
     }

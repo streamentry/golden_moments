@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "lastUpdated": "2025-07-10T14:30:00Z",
-  "totalPacks": 4,
+  "totalPacks": 8,
   "categories": [
     {
       "id": "animals",
@@ -15,14 +15,14 @@
       "name": "Nature",
       "description": "Beautiful landscapes and natural scenes",
       "iconUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=100&h=100&fit=crop",
-      "packCount": 1
+      "packCount": 2
     },
     {
       "id": "food",
       "name": "Food",
       "description": "Delicious meals and treats",
       "iconUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=100&h=100&fit=crop",
-      "packCount": 0
+      "packCount": 2
     },
     {
       "id": "vintage",
@@ -36,7 +36,7 @@
       "name": "Flowers",
       "description": "Beautiful blooms and garden scenes",
       "iconUrl": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=100&h=100&fit=crop",
-      "packCount": 0
+      "packCount": 1
     }
   ],
   "featuredPacks": ["animals_farm", "nature_mountains", "vintage_cars"],
@@ -47,7 +47,7 @@
       "description": "Friendly farm animals that will bring back memories of countryside visits",
       "theme": "Farm Life",
       "category": "animals",
-      "difficulty": "easy",
+      "difficulty": "meidum",
       "isPremium": false,
       "isFeatured": true,
       "imageCount": 8,
@@ -55,7 +55,7 @@
       "version": "1.0.0",
       "createdAt": "2025-01-01T00:00:00Z",
       "updatedAt": "2025-01-01T00:00:00Z",
-      "tags": ["farm", "animals", "countryside", "easy"],
+      "tags": ["farm", "animals", "countryside", "meidum"],
       "thumbnailUrl": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=300&h=200&fit=crop",
       "previewImages": [
         "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=150&h=150&fit=crop",
@@ -70,18 +70,18 @@
         },
         {
           "id": "pig_1",
-          "url": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=400&h=400&fit=crop",
+          "url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=400&h=400&fit=crop",
           "caption": "Happy Pig"
         },
         {
           "id": "chicken_1",
-          "url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=400&h=400&fit=crop",
+          "url": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=400&h=400&fit=crop",
           "caption": "Rooster"
         },
         {
-          "id": "sheep_1",
-          "url": "https://images.unsplash.com/photo-1551582045-6ec9c11d8697?w=400&h=400&fit=crop",
-          "caption": "Woolly Sheep"
+          "id": "buffalo_1",
+          "url": "https://images.unsplash.com/photo-1603696861627-db79cf52fecb?w=400&h=400&fit=crop",
+          "caption": "Water Buffalo"
         },
         {
           "id": "horse_1",
@@ -90,12 +90,12 @@
         },
         {
           "id": "duck_1",
-          "url": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=400&h=400&fit=crop",
+          "url": "https://images.unsplash.com/photo-1660011052031-2ed33f8a92dd?w=400&h=400&fit=crop",
           "caption": "Duck Family"
         },
         {
           "id": "goat_1",
-          "url": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=400&h=400&fit=crop",
+          "url": "https://images.unsplash.com/photo-1751125997619-5036e0938118?w=400&h=400&fit=crop",
           "caption": "Curious Goat"
         },
         {
@@ -111,7 +111,7 @@
       "description": "Breathtaking mountain landscapes and scenic vistas",
       "theme": "Natural Beauty",
       "category": "nature",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "isPremium": false,
       "isFeatured": true,
       "imageCount": 6,
@@ -119,7 +119,7 @@
       "version": "1.0.0",
       "createdAt": "2025-01-01T00:00:00Z",
       "updatedAt": "2025-01-01T00:00:00Z",
-      "tags": ["mountains", "nature", "landscape", "scenic"],
+      "tags": ["mountains", "nature", "landscape", "scenic", "easy"],
       "thumbnailUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=200&fit=crop",
       "previewImages": [
         "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=150&h=150&fit=crop",
@@ -134,8 +134,8 @@
         },
         {
           "id": "mountain_2",
-          "url": "https://images.unsplash.com/photo-1464822759844-d150baec0494?w=400&h=400&fit=crop",
-          "caption": "Mountain Lake"
+          "url": "https://images.unsplash.com/photo-1658720649050-0be95c46129b?w=400&h=400&fit=crop",
+          "caption": "Fuji Mount"
         },
         {
           "id": "mountain_3",
@@ -168,7 +168,7 @@
       "difficulty": "hard",
       "isPremium": false,
       "isFeatured": true,
-      "imageCount": 8,
+      "imageCount": 10,
       "estimatedSize": "2.8 MB",
       "version": "1.0.0",
       "createdAt": "2025-01-01T00:00:00Z",
@@ -183,8 +183,8 @@
       "images": [
         {
           "id": "vintage_car_1",
-          "url": "https://images.unsplash.com/photo-1493612276216-ee3925520721?w=400&h=400&fit=crop",
-          "caption": "Classic Red Car"
+          "url": "https://images.unsplash.com/photo-1504215680853-026ed2a45def?w=400&h=400&fit=crop",
+          "caption": "Audi S5 Sunset"
         },
         {
           "id": "vintage_car_2",
@@ -220,6 +220,16 @@
           "id": "vintage_car_8",
           "url": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=400&h=400&fit=crop",
           "caption": "Classic Coupe"
+        },
+        {
+          "id": "vintage_car_9",
+          "url": "https://images.unsplash.com/photo-1549927681-0b673b8243ab?w=400&h=400&fit=crop",
+          "caption": "Aston Martin"
+        },
+        {
+          "id": "vintage_car_10",
+          "url": "https://images.unsplash.com/photo-1611566026373-c6c8da0ea861?w=400&h=400&fit=crop",
+          "caption": "Blue BMW"
         }
       ]
     },
@@ -232,7 +242,7 @@
       "difficulty": "brainy",
       "isPremium": false,
       "isFeatured": false,
-      "imageCount": 6,
+      "imageCount": 16,
       "estimatedSize": "3.2 MB",
       "version": "1.0.0",
       "createdAt": "2025-07-10T14:30:00Z",
@@ -247,33 +257,399 @@
       "images": [
         {
           "id": "lion_1",
-          "url": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=400&h=400&fit=crop",
+          "url": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?w=400&h=400&fit=crop",
           "caption": "Majestic Lion"
         },
         {
-          "id": "elephant_1",
+          "id": "elephant_2",
           "url": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=400&h=400&fit=crop",
           "caption": "African Elephant"
         },
         {
-          "id": "giraffe_1",
+          "id": "jaguar_3",
           "url": "https://images.unsplash.com/photo-1534759846116-5799c33ce22a?w=400&h=400&fit=crop",
-          "caption": "Tall Giraffe"
+          "caption": "Jaguar"
         },
         {
-          "id": "zebra_1",
+          "id": "zebra_4",
           "url": "https://images.unsplash.com/photo-1526095179574-86e545346ae6?w=400&h=400&fit=crop",
           "caption": "Striped Zebra"
         },
         {
-          "id": "rhino_1",
-          "url": "https://images.unsplash.com/photo-1501706362039-c06b2d715385?w=400&h=400&fit=crop",
+          "id": "rhino_5",
+          "url": "https://images.unsplash.com/photo-1598894000396-bc30e0996899?w=400&h=400&fit=crop",
           "caption": "Powerful Rhino"
         },
         {
-          "id": "cheetah_1",
+          "id": "cheetah_6",
           "url": "https://images.unsplash.com/photo-1551969014-7d2c4cddf0b6?w=400&h=400&fit=crop",
           "caption": "Fast Cheetah"
+        },
+        {
+          "id": "fox_7",
+          "url": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=400&h=400&fit=crop",
+          "caption": "Brown Fox"
+        },
+        {
+          "id": "bear_8",
+          "url": "https://images.unsplash.com/photo-1589656966895-2f33e7653819?w=400&h=400&fit=crop",
+          "caption": "Polar Bear"
+        },
+        {
+          "id": "turtle_9",
+          "url": "https://images.unsplash.com/photo-1496196614460-48988a57fccf?w=400&h=400&fit=crop",
+          "caption": "Brown Turtle"
+        },
+        {
+          "id": "squirrel_10",
+          "url": "https://images.unsplash.com/photo-1504006833117-8886a355efbf?w=400&h=400&fit=crop",
+          "caption": "Brown Squirrel"
+        },
+        {
+          "id": "macaw_11",
+          "url": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=400&h=400&fit=crop",
+          "caption": "Yellow And Blue Macaw"
+        },
+        {
+          "id": "tiger_12",
+          "url": "https://images.unsplash.com/photo-1602491453631-e2a5ad90a131?w=400&h=400&fit=crop",
+          "caption": "Tiger"
+        },
+        {
+          "id": "raccoon_13",
+          "url": "https://images.unsplash.com/photo-1497752531616-c3afd9760a11?w=400&h=400&fit=crop",
+          "caption": "Raccoon"
+        },
+        {
+          "id": "wolf_14",
+          "url": "https://images.unsplash.com/photo-1564166174574-a9666f590437?w=400&h=400&fit=crop",
+          "caption": "Angry Wolf"
+        },
+        {
+          "id": "crocodile_15",
+          "url": "https://images.unsplash.com/photo-1471005197911-88e9d4a7834d?w=400&h=400&fit=crop",
+          "caption": "Crocodile"
+        },
+        {
+          "id": "peacock_16",
+          "url": "https://images.unsplash.com/photo-1455824048252-3571df13b276?w=400&h=400&fit=crop",
+          "caption": "Beautiful Peacock"
+        }
+      ]
+    },
+    {
+      "id": "food_desserts_homemade",
+      "title": "Delicious Desserts",
+      "description": "Some delicious desserts for your meals!",
+      "theme": "Sweet desserts",
+      "category": "food",
+      "difficulty": "easy",
+      "isPremium": false,
+      "isFeatured": true,
+      "imageCount": 6,
+      "estimatedSize": "2.1 MB",
+      "version": "1.0.0",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "updatedAt": "2025-01-01T00:00:00Z",
+      "tags": ["food", "dessert", "homemade", "easy"],
+      "thumbnailUrl": "https://images.unsplash.com/photo-1702742322469-36315505728f?w=300&h=200&fit=crop",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1702742322469-36315505728f?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=150&h=150&fit=crop"
+      ],
+      "images": [
+        {
+          "id": "pastries_1",
+          "url": "https://images.unsplash.com/photo-1702742322469-36315505728f?w=400&h=400&fit=crop",
+          "caption": "Four Pastries"
+        },
+        {
+          "id": "oreo_cookie_sandwiches_2",
+          "url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400&h=400&fit=crop",
+          "caption": "Oreo Cookie Sandwiches"
+        },
+        {
+          "id": "crepe_3",
+          "url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=400&h=400&fit=crop",
+          "caption": "Crepe"
+        },
+        {
+          "id": "pancake_4",
+          "url": "https://images.unsplash.com/photo-1589627461407-6257b1acf0fd?w=400&h=400&fit=crop",
+          "caption": "Pancake"
+        },
+        {
+          "id": "macarons_5",
+          "url": "https://images.unsplash.com/photo-1558326567-98ae2405596b?w=400&h=400&fit=crop",
+          "caption": "Macarons"
+        },
+        {
+          "id": "caramel_cake_6",
+          "url": "https://images.unsplash.com/photo-1547414368-ac947d00b91d?w=400&h=400&fit=crop",
+          "caption": "Caramel Cake"
+        }
+      ]
+    },
+    {
+      "id": "flowers_tropical",
+      "title": "Tropical Blossoms",
+      "description": "Discover the vibrant beauty of the tropics with this pack of exotic flowers!",
+      "theme": "Tropical Flowers",
+      "category": "flowers",
+      "difficulty": "hard",
+      "isPremium": false,
+      "isFeatured": true,
+      "imageCount": 10,
+      "estimatedSize": "2.1 MB",
+      "version": "1.0.0",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "updatedAt": "2025-01-01T00:00:00Z",
+      "tags": ["flowers", "tropical", "blossoms", "hard"],
+      "thumbnailUrl": "https://images.unsplash.com/photo-1715501112481-c8f1972be62e?w=300&h=200&fit=crop",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1715501112481-c8f1972be62e?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1715520173209-dfef2eed9f23?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1715501358836-1151d11a9d07?w=150&h=150&fit=crop"
+      ],
+      "images": [
+        {
+          "id": "hibiscus_1",
+          "url": "https://images.unsplash.com/photo-1715501112481-c8f1972be62e?w=400&h=400&fit=crop",
+          "caption": "Red Hibiscus"
+        },
+        {
+          "id": "frangipani_2",
+          "url": "https://images.unsplash.com/photo-1715520173209-dfef2eed9f23?w=400&h=400&fit=crop",
+          "caption": "Red White Frangipani"
+        },
+        {
+          "id": "sunflower_3",
+          "url": "https://images.unsplash.com/photo-1715501358836-1151d11a9d07?w=400&h=400&fit=crop",
+          "caption": "Sunflower"
+        },
+        {
+          "id": "hydrangea_4",
+          "url": "https://images.unsplash.com/photo-1715501358435-80ecfd5c3d65?w=400&h=400&fit=crop",
+          "caption": "White Hydrangea"
+        },
+        {
+          "id": "rose_5",
+          "url": "https://images.unsplash.com/photo-1715501530383-2d1d39bb8281?w=400&h=400&fit=crop",
+          "caption": "Rose"
+        },
+        {
+          "id": "chrysanthemum_6",
+          "url": "https://images.unsplash.com/photo-1715520170968-81e2ac11ab28?w=400&h=400&fit=crop",
+          "caption": "Chrysanthemum"
+        },
+        {
+          "id": "anthurium_7",
+          "url": "https://images.unsplash.com/photo-1567748157439-651aca2ff064?w=400&h=400&fit=crop",
+          "caption": "Anthurium"
+        },
+        {
+          "id": "plumeria_8",
+          "url": "https://images.unsplash.com/photo-1589049907085-d3e7af5e2814?w=400&h=400&fit=crop",
+          "caption": "Plumeria"
+        },
+        {
+          "id": "kodom_9",
+          "url": "https://images.unsplash.com/photo-1540939615471-650169276c13?w=400&h=400&fit=crop",
+          "caption": "Kodom"
+        },
+        {
+          "id": "delphinium_10",
+          "url": "https://images.unsplash.com/photo-1629730087950-ff658adb5196?w=400&h=400&fit=crop",
+          "caption": "Delphinium"
+        }
+      ]
+    },
+    {
+      "id": "food_street_snacks",
+      "title": "Street Food Fiesta",
+      "description": "Dive into the colorful world of street food with this pack of delicious global snacks!",
+      "theme": "Street Food",
+      "category": "food",
+      "difficulty": "hard",
+      "isPremium": false,
+      "isFeatured": true,
+      "imageCount": 10,
+      "estimatedSize": "3.2 MB",
+      "version": "1.0.0",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "updatedAt": "2025-01-01T00:00:00Z",
+      "tags": ["food", "street", "snacks", "global", "hard"],
+      "thumbnailUrl": "https://images.unsplash.com/photo-1552332386-f8dd00dc2f85?w=300&h=200&fit=crop",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1604467715878-83e57e8bc129?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1526318896980-cf78c088247c?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?w=150&h=150&fit=crop"
+      ],
+      "images": [
+        {
+          "id": "taco_1",
+          "url": "https://images.unsplash.com/photo-1604467715878-83e57e8bc129?w=400&h=400&fit=crop",
+          "caption": "Mexican Taco"
+        },
+        {
+          "id": "ramen_2",
+          "url": "https://images.unsplash.com/photo-1526318896980-cf78c088247c?w=400&h=400&fit=crop",
+          "caption": "Japanese Ramen"
+        },
+        {
+          "id": "dumplings_3",
+          "url": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?w=400&h=400&fit=crop",
+          "caption": "Chinese Dumplings"
+        },
+        {
+          "id": "samosa_4",
+          "url": "https://images.unsplash.com/photo-1666190091090-1d312a4b04c2?w=400&h=400&fit=crop",
+          "caption": "Indian Samosa"
+        },
+        {
+          "id": "pizza_5",
+          "url": "https://images.unsplash.com/photo-1671292747904-baf322a84498?w=400&h=400&fit=crop",
+          "caption": "Italian Pizza Slice"
+        },
+        {
+          "id": "crepe_6",
+          "url": "https://images.unsplash.com/photo-1734056650036-7002ede7b8f8?w=400&h=400&fit=crop",
+          "caption": "French Crepe"
+        },
+        {
+          "id": "satay_7",
+          "url": "https://images.unsplash.com/photo-1740727262915-7c23c3d1ed76?w=400&h=400&fit=crop",
+          "caption": "Thai Satay Skewers"
+        },
+        {
+          "id": "burger_8",
+          "url": "https://images.unsplash.com/photo-1723437531109-b291f063a386?w=400&h=400&fit=crop",
+          "caption": "American Burger"
+        },
+        {
+          "id": "bao_9",
+          "url": "https://images.unsplash.com/photo-1544601284-7fe39c93d4d4?w=400&h=400&fit=crop",
+          "caption": "Steamed Bao Bun"
+        },
+        {
+          "id": "takoyaki_10",
+          "url": "https://images.unsplash.com/photo-1738681335816-8e0df0aa9824?w=400&h=400&fit=crop",
+          "caption": "Japanese Takoyaki"
+        }
+      ]
+    },
+    {
+      "id": "nature_landscape",
+      "title": "Nature Landscape",
+      "description": "Test your mind with stunning nature images designed to sharpen your memory and observation skills!",
+      "theme": "Nature Landscapes",
+      "category": "nature",
+      "difficulty": "brainy",
+      "isPremium": false,
+      "isFeatured": true,
+      "imageCount": 18,
+      "estimatedSize": "5.6 MB",
+      "version": "1.0.0",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "updatedAt": "2025-01-01T00:00:00Z",
+      "tags": ["nature", "brainy", "memory", "landscapes", "hard"],
+      "thumbnailUrl": "https://images.unsplash.com/photo-1525784451128-d1488f52f03e?w=300&h=200&fit=crop",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1526239187794-f8c27c7872ee?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1511884642898-4c92249e20b6?w=150&h=150&fit=crop",
+        "https://images.unsplash.com/photo-1603979649806-5299879db16b?w=150&h=150&fit=crop"
+      ],
+      "images": [
+        {
+          "id": "mountain_1",
+          "url": "https://images.unsplash.com/photo-1526239187794-f8c27c7872ee?w=400&h=400&fit=crop",
+          "caption": "Mountain Range"
+        },
+        {
+          "id": "forest_2",
+          "url": "https://images.unsplash.com/photo-1511884642898-4c92249e20b6?w=400&h=400&fit=crop",
+          "caption": "Foggy Forest"
+        },
+        {
+          "id": "lake_3",
+          "url": "https://images.unsplash.com/photo-1603979649806-5299879db16b?w=400&h=400&fit=crop",
+          "caption": "Mountain Lake"
+        },
+        {
+          "id": "desert_4",
+          "url": "https://images.unsplash.com/photo-1520440718111-45fe694b330a?w=400&h=400&fit=crop",
+          "caption": "Desert Dunes"
+        },
+        {
+          "id": "waterfall_5",
+          "url": "https://images.unsplash.com/photo-1433878455169-4698e60005b1?w=400&h=400&fit=crop",
+          "caption": "Waterfall"
+        },
+        {
+          "id": "beach_6",
+          "url": "https://images.unsplash.com/photo-1599654644080-c3d32894ed0d?w=400&h=400&fit=crop",
+          "caption": "Sandy Beach"
+        },
+        {
+          "id": "river_7",
+          "url": "https://images.unsplash.com/photo-1593132893742-27336c4ffc6a?w=400&h=400&fit=crop",
+          "caption": "Flowing River"
+        },
+        {
+          "id": "canyon_8",
+          "url": "https://images.unsplash.com/photo-1575527048208-6475b441e0a0?w=400&h=400&fit=crop",
+          "caption": "Grand Canyon"
+        },
+        {
+          "id": "sunset_9",
+          "url": "https://images.unsplash.com/photo-1446000649099-aadcb717d36f?w=400&h=400&fit=crop",
+          "caption": "Sunset Sky"
+        },
+        {
+          "id": "snow_mountain_10",
+          "url": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=400&h=400&fit=crop",
+          "caption": "Snowy Mountain"
+        },
+        {
+          "id": "flowers_11",
+          "url": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=400&h=400&fit=crop",
+          "caption": "Wildflowers"
+        },
+        {
+          "id": "rainforest_12",
+          "url": "https://images.unsplash.com/photo-1502293078291-df57ccf350b9?w=400&h=400&fit=crop",
+          "caption": "Rainforest"
+        },
+        {
+          "id": "iceberg_13",
+          "url": "https://images.unsplash.com/photo-1523156774078-3c6207a9e292?w=400&h=400&fit=crop",
+          "caption": "Iceberg"
+        },
+        {
+          "id": "volcano_14",
+          "url": "https://images.unsplash.com/photo-1580250642511-1660fe42ad58?w=400&h=400&fit=crop",
+          "caption": "Volcano"
+        },
+        {
+          "id": "cliff_15",
+          "url": "https://images.unsplash.com/photo-1454783904586-9fa42a1e8442?w=400&h=400&fit=crop",
+          "caption": "Sea Cliff"
+        },
+        {
+          "id": "aurora_16",
+          "url": "https://images.unsplash.com/photo-1483347756197-71ef80e95f73?w=400&h=400&fit=crop",
+          "caption": "Aurora Borealis"
+        },
+        {
+          "id": "savannah_17",
+          "url": "https://images.unsplash.com/photo-1536540079349-3294632f1b72?w=400&h=400&fit=crop",
+          "caption": "Savannah"
+        },
+        {
+          "id": "coral_reef_18",
+          "url": "https://images.unsplash.com/photo-1546026423-cc4642628d2b?w=400&h=400&fit=crop",
+          "caption": "Coral Reef"
         }
       ]
     }
