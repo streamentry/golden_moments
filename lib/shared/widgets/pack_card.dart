@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:cached_network_image/cached_network_image.dart';
+import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/download_manager.dart';
@@ -108,6 +109,11 @@ class _PackCardState extends State<PackCard> {
               SoundService().playTap();
               Navigator.of(dialogContext).pop(); // Close dialog
               _startDownloadPack(pack); // Start download
+
+              FirebaseAnalytics.instance.logEvent(
+                name: 'download_pack',
+                parameters: {'Id': pack.id, 'Title': pack.title},
+              );
             },
             child: const Text('Download'),
           ),
@@ -140,6 +146,10 @@ class _PackCardState extends State<PackCard> {
                 } else {
                   widget.onTap?.call();
                 }
+
+                await FirebaseAnalytics.instance.logScreenView(
+                  screenName: 'Game',
+                );
               }
             case PackDownloadStatus.available:
             case PackDownloadStatus.expired:

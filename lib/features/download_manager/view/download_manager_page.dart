@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/download_manager/cubit/downloaded_packs_cubit.dart';
 import 'package:golden_moments/features/download_manager/cubit/downloaded_packs_state.dart';
-import 'package:golden_moments/game/view/game_page.dart';
 import 'package:golden_moments/shared/widgets/pack_card.dart';
 
 /// Download manager page for managing active downloads
@@ -28,17 +26,33 @@ class DownloadManagerView extends StatelessWidget {
   Widget build(BuildContext context) {
     return BlocBuilder<DownloadedPacksCubit, DownloadedPacksState>(
       builder: (context, state) {
+        Widget body;
         switch (state.status) {
           case DownloadedPacksPageStatus.initial:
           case DownloadedPacksPageStatus.loading:
-            return const _LoadingView();
+            body = const _LoadingView();
           case DownloadedPacksPageStatus.error:
-            return _ErrorView(
+            body = _ErrorView(
               onRetry: () => context.read<DownloadedPacksCubit>().initialize(),
             );
           case DownloadedPacksPageStatus.loaded:
-            return _LoadedView(state: state);
+            body = _LoadedView(state: state);
         }
+        return Scaffold(
+          appBar: AppBar(
+            title: const Text('Downloaded Packs'),
+          ),
+          body: RefreshIndicator(
+            onRefresh: () async {
+              // Trigger the cubit to reload data
+              await context.read<DownloadedPacksCubit>().initialize();
+            },
+            child: SingleChildScrollView(
+              physics: const AlwaysScrollableScrollPhysics(),
+              child: body,
+            ),
+          ),
+        );
       },
     );
   }
@@ -74,10 +88,8 @@ class _LoadingView extends StatelessWidget {
 class _ErrorView extends StatelessWidget {
   const _ErrorView({
     required this.onRetry,
-    this.message = "Error",
   });
 
-  final String message;
   final VoidCallback onRetry;
 
   @override
@@ -105,7 +117,7 @@ class _ErrorView extends StatelessWidget {
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
-              message,
+              'An error occurred while loading downloads.',
               style: theme.textTheme.bodyMedium?.copyWith(
                 color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
               ),
