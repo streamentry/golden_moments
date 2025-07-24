@@ -11,6 +11,7 @@ dependencies:
   bloc: ^9.0.0
   cached_network_image: ^3.3.1
   crypto: ^3.0.5
+  disk_space_plus: ^0.2.6
   equatable: ^2.0.5
   firebase_analytics: ^10.4.4
   firebase_core: ^2.14.0
@@ -24,6 +25,7 @@ dependencies:
   intl: ^0.20.2
   path: ^1.9.0
   path_provider: ^2.1.4
+  percent_indicator: ^4.2.5
   provider: ^6.1.5
   shared_preferences: ^2.2.3
 

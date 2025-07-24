@@ -9,9 +9,9 @@ import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/game/game.dart';
-import 'package:golden_moments/shared/utils/string_util.dart';
 import 'package:golden_moments/shared/widgets/download_progress_card.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
+import 'package:percent_indicator/flutter_percent_indicator.dart';
 
 /// Card widget for displaying a game pack
 class PackCard extends StatefulWidget {
@@ -36,6 +36,7 @@ class PackCard extends StatefulWidget {
 
 class _PackCardState extends State<PackCard> {
   PackDownloadStatus? _downloadStatus;
+  double _downloadProgress = 0;
   bool _isLoading = true;
 
   @override
@@ -74,18 +75,17 @@ class _PackCardState extends State<PackCard> {
   void _startDownloadPack(Pack pack) {
     _updateDownloadStatus(PackDownloadStatus.downloading);
     unawaited(DownloadManager().downloadPack(pack.id));
-    DownloadManager()
-        .getDownloadProgress(
-          generateDownloadId(
-            pack.id,
-            pack.images[pack.images.length - 1].id,
-          ),
-        )
-        .listen((progress) {
-          if (progress.isCompleted) {
-            _updateDownloadStatus(PackDownloadStatus.cached);
-          }
-        });
+    Timer.periodic(const Duration(milliseconds: 851), (timer) {
+      setState(() {
+        _downloadProgress = DownloadManager().getPackDownloadProgress(
+          pack.id,
+        );
+      });
+      if (DownloadManager().getPackDownloadProgress(pack.id) == 1.00) {
+        timer.cancel();
+        _updateDownloadStatus(PackDownloadStatus.cached);
+      }
+    });
   }
 
   void _showDownloadConfirmationDialog(Pack pack) {
@@ -130,16 +130,16 @@ class _PackCardState extends State<PackCard> {
       clipBehavior: Clip.antiAlias,
       child: Pressable(
         onPressed: () async {
-          // Wait for ripple animation before calling onPressed
-          await Future<void>.delayed(const Duration(milliseconds: 180));
           switch (_downloadStatus) {
             case PackDownloadStatus.cached:
               {
                 if (widget.onTap == null) {
-                  await Navigator.of(context).push(
-                    MaterialPageRoute<void>(
-                      builder: (context) => GamePage(
-                        gamePack: widget.pack,
+                  unawaited(
+                    Navigator.of(context).push(
+                      MaterialPageRoute<void>(
+                        builder: (context) => GamePage(
+                          gamePack: widget.pack,
+                        ),
                       ),
                     ),
                   );
@@ -165,17 +165,29 @@ class _PackCardState extends State<PackCard> {
   }
 
   Widget _buildLayout(ThemeData theme) {
-    IconData getIcon() {
+    Widget getIcon() {
       switch (_downloadStatus) {
         case PackDownloadStatus.cached:
-          return Icons.download_done;
+          return Icon(
+            Icons.download_done,
+            size: 24,
+            color: theme.colorScheme.primary,
+          );
         case PackDownloadStatus.available:
         case PackDownloadStatus.expired:
         case PackDownloadStatus.failed:
         case null:
-          return Icons.download;
+          return Icon(
+            Icons.download,
+            size: 24,
+            color: theme.colorScheme.primary,
+          );
         case PackDownloadStatus.downloading:
-          return Icons.downloading;
+          return CircularPercentIndicator(
+            radius: 12,
+            percent: _downloadProgress,
+            progressColor: Colors.green,
+          );
       }
     }
 
@@ -259,11 +271,7 @@ class _PackCardState extends State<PackCard> {
                         ),
                       )
                     else
-                      Icon(
-                        getIcon(),
-                        size: 24,
-                        color: theme.colorScheme.primary,
-                      ),
+                      getIcon(),
                   ],
                 ),
               ],

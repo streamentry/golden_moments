@@ -339,14 +339,12 @@ enum DownloadProgressStatus {
 class PackDownloadProgress extends Equatable {
   const PackDownloadProgress({
     required this.packId,
-    required this.packTitle,
     required this.imageProgresses,
     required this.startTime,
     this.endTime,
   });
 
   final String packId;
-  final String packTitle;
   final List<DownloadProgress> imageProgresses;
   final DateTime startTime;
   final DateTime? endTime;
@@ -419,10 +417,14 @@ class PackDownloadProgress extends Equatable {
     return '$completedImages / $totalImages images';
   }
 
+  /// Get progress base on image
+  double get progressByImage {
+    return (completedImages / totalImages).clamp(0.00, 1.00);
+  }
+
   @override
   List<Object?> get props => [
     packId,
-    packTitle,
     imageProgresses,
     startTime,
     endTime,

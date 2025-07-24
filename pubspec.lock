@@ -21,10 +21,10 @@ packages:
     dependency: transitive
     description:
       name: analyzer
-      sha256: d10f9c2bf877706e39e9cc94d89ba28c7084f6e3529b4a2a96bb474fd0323647
+      sha256: "974859dc0ff5f37bc4313244b3218c791810d03ab3470a579580279ba971a48d"
       url: "https://pub.dev"
     source: hosted
-    version: "7.5.5"
+    version: "7.7.1"
   ansicolor:
     dependency: transitive
     description:
@@ -221,10 +221,10 @@ packages:
     dependency: transitive
     description:
       name: coverage
-      sha256: aa07dbe5f2294c827b7edb9a87bba44a9c15a3cc81bc8da2ca19b37322d30080
+      sha256: "5da775aa218eaf2151c721b16c01c7676fbfdd99cebba2bf64e8b807a28ff94d"
       url: "https://pub.dev"
     source: hosted
-    version: "1.14.1"
+    version: "1.15.0"
   crypto:
     dependency: "direct main"
     description:
@@ -249,6 +249,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.4.1"
+  disk_space_plus:
+    dependency: "direct main"
+    description:
+      name: disk_space_plus
+      sha256: "1e454599a7dcec0c0bc1ad0b7f9f563b3fffbc988175bd452c4d3c7503ed3423"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.6"
   equatable:
     dependency: "direct main"
     description:
@@ -653,6 +661,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.3.0"
+  percent_indicator:
+    dependency: "direct main"
+    description:
+      name: percent_indicator
+      sha256: "157d29133bbc6ecb11f923d36e7960a96a3f28837549a20b65e5135729f0f9fd"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.2.5"
   petitparser:
     dependency: transitive
     description:

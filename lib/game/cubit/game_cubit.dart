@@ -3,10 +3,13 @@ import 'dart:math';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:golden_moments/data/models/image.dart';
 import 'package:golden_moments/data/models/pack.dart';
+import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
+import 'package:golden_moments/data/storage/cache_file_paths.dart';
 import 'package:golden_moments/game/cubit/game_state.dart';
 import 'package:golden_moments/game/cubit/tile_state.dart';
 import 'package:golden_moments/shared/constants/app_constants.dart';
+import 'package:golden_moments/shared/utils/image_util.dart';
 
 /// Cubit for managing game state and logic
 class GameCubit extends Cubit<GameState> {
@@ -20,9 +23,11 @@ class GameCubit extends Cubit<GameState> {
             category: 'Empty',
             version: '1.0.0',
             thumbnailUrl: 'Empty',
+            estimatedSize: '0 MB',
             images: [],
             difficulty: GameDifficulty.easy,
           ),
+          images: [],
           tiles: [],
         ),
       );
@@ -34,6 +39,25 @@ class GameCubit extends Cubit<GameState> {
     emit(state.copyWith(status: GameStatus.loading));
     try {
       final pack = await _localPackService.getPackById(packId);
+
+      final images = <Image>[];
+
+      for (var i = 0; i < pack.images.length; i++) {
+        final fileName = '${pack.images[i].id}.jpg';
+        final imagePath = CacheFilePaths.imageFile(packId, fileName);
+        final fullPath = JsonCacheService().fileManager.getCachePath(imagePath);
+        if (await isImageValid(fullPath)) {
+          images.add(pack.images[i]);
+        }
+      }
+
+      if (images.length < pack.difficulty.pairCount / 2) {
+        emit(state.copyWith(status: GameStatus.failed));
+        return;
+      }
+
+      emit(state.copyWith(images: images));
+
       startNewGame(pack);
     } on Exception {
       emit(state.copyWith(status: GameStatus.failed));
@@ -42,11 +66,12 @@ class GameCubit extends Cubit<GameState> {
 
   /// Start a new game with the given pack
   void startNewGame(Pack pack) {
-    final shuffledTiles = _shuffleTiles(pack.images, pack.difficulty);
+    final shuffledTiles = _shuffleTiles(state.images, pack.difficulty);
 
     emit(
       GameState(
         currentPack: pack,
+        images: state.images,
         tiles: shuffledTiles,
         status: GameStatus.playing,
         startTime: DateTime.now(),

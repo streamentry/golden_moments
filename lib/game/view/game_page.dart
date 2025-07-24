@@ -91,7 +91,7 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
-      create: (context) => GameCubit()..startNewGame(widget.gamePack),
+      create: (context) => GameCubit()..loadAndStartGame(widget.gamePack.id),
       child: BlocListener<GameCubit, GameState>(
         listener: (context, state) {
           // Handle timer based on game status
@@ -494,17 +494,10 @@ class _ErrorView extends StatelessWidget {
             ),
             const SizedBox(height: gmSpaceSm),
             const Text(
-              'Something went wrong with the game. Please try again.',
+              'Something went wrong with the pack. Please reinstall this pack or play another pack.',
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceLg),
-            GmPrimaryButton(
-              label: 'Try Again',
-              onTap: () {
-                parentContext.read<GameCubit>().resetGame();
-              },
-            ),
-            const SizedBox(height: gmSpaceSm),
             GmOutlineButton(
               label: 'Go Back',
               onTap: () {

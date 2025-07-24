@@ -91,7 +91,7 @@ class MainNavigationView extends StatelessWidget {
                 context: context,
                 index: 1,
                 icon: Icons.download,
-                label: 'Downloaded',
+                label: 'Library',
                 isSelected: state.currentIndex == 1,
                 onTap: () {
                   SoundService().playTap();
@@ -218,7 +218,7 @@ class NavigationConfig {
     ),
     NavigationItem(
       icon: Icons.download,
-      label: 'Downloaded',
+      label: 'Library',
       page: DownloadManagerPage(),
     ),
   ];
@@ -257,9 +257,9 @@ class NavigationAccessibility {
   static String getSemanticHint(NavigationItem item) {
     switch (item.label) {
       case 'Home':
-        return 'View your game library and daily packs';
-      case 'Downloaded':
-        return 'Manage your downloaded packs';
+        return 'View your game daily packs and category';
+      case 'Library':
+        return 'Manage your packs';
       default:
         return 'Navigate to ${item.label}';
     }

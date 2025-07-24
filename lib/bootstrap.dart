@@ -32,14 +32,14 @@ class AppBlocObserver extends BlocObserver {
 Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
   WidgetsFlutterBinding.ensureInitialized();
   FlutterError.onError = (details) {
-    FirebaseCrashlytics.instance.recordFlutterFatalError(details);
+    // FirebaseCrashlytics.instance.recordFlutterFatalError(details);
     log(details.exceptionAsString(), stackTrace: details.stack);
   };
 
-  PlatformDispatcher.instance.onError = (error, stack) {
-    FirebaseCrashlytics.instance.recordError(error, stack, fatal: true);
-    return true;
-  };
+  // PlatformDispatcher.instance.onError = (error, stack) {
+  //   FirebaseCrashlytics.instance.recordError(error, stack, fatal: true);
+  //   return true;
+  // };
 
   Bloc.observer = const AppBlocObserver();
 

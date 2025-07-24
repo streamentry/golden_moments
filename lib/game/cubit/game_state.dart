@@ -1,4 +1,5 @@
 import 'package:equatable/equatable.dart';
+import 'package:golden_moments/data/models/image.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/game/cubit/tile_state.dart';
 
@@ -17,6 +18,7 @@ enum GameStatus {
 class GameState extends Equatable {
   const GameState({
     required this.currentPack,
+    required this.images,
     required this.tiles,
     this.status = GameStatus.initial,
     this.moves = 0,
@@ -31,6 +33,9 @@ class GameState extends Equatable {
 
   /// The game pack currently being played
   final Pack currentPack;
+
+  /// Available images of the pack
+  final List<Image> images;
 
   /// Current state of all tiles in the game
   final List<GameTile> tiles;
@@ -76,6 +81,7 @@ class GameState extends Equatable {
   /// Creates a copy of this state with updated properties
   GameState copyWith({
     Pack? currentPack,
+    List<Image>? images,
     List<GameTile>? tiles,
     GameStatus? status,
     int? moves,
@@ -89,6 +95,7 @@ class GameState extends Equatable {
   }) {
     return GameState(
       currentPack: currentPack ?? this.currentPack,
+      images: images ?? this.images,
       tiles: tiles ?? this.tiles,
       status: status ?? this.status,
       moves: moves ?? this.moves,
@@ -105,6 +112,7 @@ class GameState extends Equatable {
   @override
   List<Object?> get props => [
     currentPack,
+    images,
     tiles,
     status,
     moves,

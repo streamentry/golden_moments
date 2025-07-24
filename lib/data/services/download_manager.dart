@@ -2,6 +2,7 @@ import 'dart:async';
 import 'dart:io';
 
 import 'package:crypto/crypto.dart';
+import 'package:disk_space_plus/disk_space_plus.dart';
 import 'package:golden_moments/data/models/download_error.dart';
 import 'package:golden_moments/data/models/download_progress.dart';
 import 'package:golden_moments/data/models/download_queue.dart';
@@ -11,6 +12,7 @@ import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
 import 'package:golden_moments/data/storage/cache_file_paths.dart';
 import 'package:golden_moments/shared/constants/cache_constants.dart';
+import 'package:golden_moments/shared/utils/image_util.dart';
 import 'package:golden_moments/shared/utils/string_util.dart';
 
 /// Download manager for processing pack and image downloads
@@ -25,6 +27,9 @@ class DownloadManager {
 
   final Map<String, StreamController<DownloadProgress>> _progressControllers =
       {};
+
+  final List<PackDownloadProgress> _packsProgress = [];
+
   final Map<String, bool> _cancelledDownloads = {};
 
   Timer? _queueProcessor;
@@ -32,7 +37,7 @@ class DownloadManager {
 
   /// Initialize download manager
   void initialize() {
-    _startQueueProcessor();
+    _resumeQueueProcessor();
   }
 
   /// Dispose download manager
@@ -50,6 +55,12 @@ class DownloadManager {
       // Get pack from local service (packs_index.json)
       final pack = await _localPackService.getPackById(packId);
 
+      final isSpacesAvailable = await checkFreeSpaceBeforeDownload(
+        parseSizeToBytes(pack.estimatedSize),
+      );
+
+      if (!isSpacesAvailable) return;
+
       // Create pack cache entry from local pack
       final packCache = PackCache.create(
         id: packId,
@@ -60,10 +71,30 @@ class DownloadManager {
       // Save initial pack cache
       await _cacheService.savePackCache(packCache);
 
+      final imageProgresses = <DownloadProgress>[];
       // Queue image downloads
       for (final image in pack.images) {
         await _queueImageDownload(packId, image.id, image.url);
+        // Create a pack progress
+
+        imageProgresses.add(
+          DownloadProgress.started(
+            downloadId: generateDownloadId(packId, image.id),
+            packId: packId,
+            imageId: image.id,
+            totalBytes: 0, // Will be updated during download
+          ),
+        );
       }
+
+      final pdp = PackDownloadProgress(
+        packId: packId,
+        imageProgresses: imageProgresses,
+        startTime: imageProgresses.first.startTime,
+      );
+
+      _packsProgress.add(pdp);
+      _startQueueProcessor(pdp);
     } catch (e) {
       throw e is DownloadError
           ? e
@@ -105,6 +136,18 @@ class DownloadManager {
           StreamController<DownloadProgress>.broadcast();
     }
     return _progressControllers[downloadId]!.stream;
+  }
+
+  double getPackDownloadProgress(String packId) {
+    final pdp = _packsProgress.firstWhere(
+      (item) => item.packId == packId,
+      orElse: () => PackDownloadProgress(
+        packId: 'NONE',
+        imageProgresses: List.empty(),
+        startTime: DateTime.now(),
+      ),
+    );
+    return pdp.packId == 'NONE' ? 0 : pdp.progressByImage;
   }
 
   /// Cancel download
@@ -181,10 +224,31 @@ class DownloadManager {
   }
 
   /// Start queue processor
-  void _startQueueProcessor() {
-    _queueProcessor = Timer.periodic(const Duration(seconds: 1), (_) {
+  void _startQueueProcessor(PackDownloadProgress pdp) {
+    _queueProcessor = Timer.periodic(const Duration(milliseconds: 300), (
+      timer,
+    ) {
       if (!_isProcessing) {
         _processQueue();
+      }
+      if (pdp.progressByImage >= 1.00) {
+        timer.cancel();
+      }
+    });
+  }
+
+  /// Resume download queue processor
+  void _resumeQueueProcessor() {
+    _queueProcessor = Timer.periodic(const Duration(milliseconds: 300), (
+      timer,
+    ) async {
+      final queue = await _cacheService.loadDownloadQueue();
+
+      if (!_isProcessing) {
+        unawaited(_processQueue());
+      }
+      if (queue.queuedDownloads.isEmpty) {
+        timer.cancel();
       }
     });
   }
@@ -246,20 +310,20 @@ class DownloadManager {
 
     final tile = packCache.manifest.images.firstWhere((t) => t.id == imageId);
     final imageUrl = tile.url;
-
     // Extract filename from URL for local storage
     final filename = '$imageId.jpg'; // Use consistent filename
 
     // Download with progress tracking
     final startTime = DateTime.now();
 
-    // Emit initial progress (we'll get total bytes during download)
+    // Emit progress (we'll get total bytes during download)
     final initialProgress = DownloadProgress.started(
       downloadId: downloadId,
       packId: packId,
       imageId: imageId,
       totalBytes: 0, // Will be updated during download
     );
+
     _emitProgress(initialProgress);
 
     // Download image data using HTTP client
@@ -363,6 +427,21 @@ class DownloadManager {
     if (controller != null && !controller.isClosed) {
       controller.add(progress);
     }
+
+    final pdp = _packsProgress.firstWhere(
+      (item) => item.packId == progress.packId,
+      orElse: () => PackDownloadProgress(
+        packId: 'NONE',
+        imageProgresses: List.empty(),
+        startTime: DateTime.now(),
+      ),
+    );
+    if (pdp.packId == 'NONE') return;
+    final imagesProgress = pdp.imageProgresses;
+    final index = imagesProgress.indexWhere(
+      (imageProgress) => imageProgress.imageId == progress.imageId,
+    );
+    imagesProgress[index] = progress;
   }
 
   /// Get active downloads count
@@ -382,5 +461,28 @@ class DownloadManager {
     final queue = await _cacheService.loadDownloadQueue();
     return queue.activeDownloads.any((item) => item.packId == packId) ||
         queue.queuedDownloads.any((item) => item.packId == packId);
+  }
+
+  Future<bool> checkFreeSpaceBeforeDownload(int downloadFileSizeInBytes) async {
+    final diskSpacePlus = DiskSpacePlus();
+    final freeDiskSpace = await diskSpacePlus.getFreeDiskSpace ?? 0;
+    if ((freeDiskSpace * 1024 * 1024) >
+        downloadFileSizeInBytes + 200 * 1024 * 1024) {
+      return true;
+    } else {
+      return false;
+    }
+  }
+
+  /// Delete a pack
+  Future<void> deletePack(String packId) async {
+    final pack = await _localPackService.getPackById(packId);
+    for (final image in pack.images) {
+      final file = File(getImageLocalPath(image.id, packId));
+      if (file.existsSync()) {
+        await file.delete();
+      }
+    }
+    await _cacheService.deletePackCache(packId);
   }
 }
