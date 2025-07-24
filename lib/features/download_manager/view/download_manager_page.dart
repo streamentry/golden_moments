@@ -164,13 +164,19 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
                   children: [
                     IconButton(
                       icon: const Icon(Icons.close), // New icon added
-                      onPressed: _toggleSelectionMode,
+                      onPressed: () {
+                        SoundService().playTap();
+                        _toggleSelectionMode();
+                      },
                     ),
                     IconButton(
                       icon: const Icon(Icons.delete),
                       onPressed: _selectedPacks.isEmpty
                           ? null
-                          : () => _deleteSelectedPacks(context),
+                          : () {
+                              SoundService().playTap();
+                              _deleteSelectedPacks(context);
+                            },
                     ),
                   ],
                 )
@@ -385,6 +391,7 @@ class _LoadedView extends StatelessWidget {
           final pack = state.downloadedPacks[index];
           return GestureDetector(
             onTap: () {
+              SoundService().playTap();
               if (isSelectionMode) {
                 final isSelected = selectedPacks.contains(pack);
                 onPackSelected(pack, !isSelected);
