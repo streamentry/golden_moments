@@ -64,6 +64,6 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
 /// Initialize core services
 Future<void> _initializeServices() async {
   await JsonCacheService().initialize();
-  DownloadManager().initialize();
+  await DownloadManager().initialize();
   HttpClientService().initialize();
 }

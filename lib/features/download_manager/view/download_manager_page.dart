@@ -370,7 +370,7 @@ class _LoadedView extends StatelessWidget {
   final PackSelectionCallback onPackSelected;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     if (state.downloadedPacks.isEmpty) {
       return const _EmptyView();
     }
@@ -390,6 +390,7 @@ class _LoadedView extends StatelessWidget {
         itemBuilder: (context, index) {
           final pack = state.downloadedPacks[index];
           return GestureDetector(
+            key: ValueKey(pack.id),
             onTap: () {
               SoundService().playTap();
               if (isSelectionMode) {

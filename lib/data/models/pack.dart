@@ -27,6 +27,12 @@ enum GameDifficulty {
   int get totalTiles => pairCount * 2;
 }
 
+enum PackStatus {
+  notStarted,
+  downloading,
+  completed,
+}
+
 /// Represents a themed collection of memory game tiles
 class Pack extends Equatable {
   const Pack({

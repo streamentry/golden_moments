@@ -365,7 +365,7 @@ class PackDownloadProgress extends Equatable {
       (sum, progress) => sum + progress.bytesDownloaded,
     );
 
-    return (downloadedBytes / totalBytes).clamp(0.0, 1.0);
+    return (downloadedBytes / totalBytes).clamp(0.00, 1.00);
   }
 
   /// Get completed images count

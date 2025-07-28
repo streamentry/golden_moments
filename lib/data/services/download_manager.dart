@@ -3,20 +3,22 @@ import 'dart:io';
 
 import 'package:crypto/crypto.dart';
 import 'package:disk_space_plus/disk_space_plus.dart';
+import 'package:flutter/foundation.dart';
 import 'package:golden_moments/data/models/download_error.dart';
 import 'package:golden_moments/data/models/download_progress.dart';
 import 'package:golden_moments/data/models/download_queue.dart';
+import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/models/pack_cache.dart';
 import 'package:golden_moments/data/services/http_client_service.dart';
 import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
 import 'package:golden_moments/data/storage/cache_file_paths.dart';
-import 'package:golden_moments/shared/constants/cache_constants.dart';
 import 'package:golden_moments/shared/utils/image_util.dart';
 import 'package:golden_moments/shared/utils/string_util.dart';
+import 'package:pool/pool.dart';
 
 /// Download manager for processing pack and image downloads
-class DownloadManager {
+class DownloadManager extends ChangeNotifier {
   factory DownloadManager() => _instance;
   DownloadManager._internal();
   static final DownloadManager _instance = DownloadManager._internal();
@@ -28,30 +30,52 @@ class DownloadManager {
   final Map<String, StreamController<DownloadProgress>> _progressControllers =
       {};
 
-  final List<PackDownloadProgress> _packsProgress = [];
+  // Handle Pack Status
+  final Map<String, PackStatus> _packsStatus = {};
+  final _packStatusController =
+      StreamController<MapEntry<String, PackStatus>>.broadcast();
+  Stream<MapEntry<String, PackStatus>> get onStatusChanged =>
+      _packStatusController.stream;
 
-  final Map<String, bool> _cancelledDownloads = {};
+  final Map<String, PackDownloadProgress> _packsProgress = {};
+  final Map<String, DownloadQueue> _packsDownloadQueue = {};
+
+  final Pool _pool = Pool(3);
 
   Timer? _queueProcessor;
-  bool _isProcessing = false;
 
-  /// Initialize download manager
-  void initialize() {
-    _resumeQueueProcessor();
-  }
-
-  /// Dispose download manager
-  void dispose() {
-    _queueProcessor?.cancel();
-    for (final controller in _progressControllers.values) {
-      controller.close();
+  // Load completed downloads from disk
+  Future<void> initialize() async {
+    final packs = await _localPackService.getPacks();
+    for (final pack in packs) {
+      if (await _cacheService.isPackCached(pack.id)) {
+        _packsStatus[pack.id] = PackStatus.completed;
+      } else {
+        _packsStatus[pack.id] = PackStatus.notStarted;
+      }
     }
-    _progressControllers.clear();
   }
+
+  PackStatus getPackStatus(String packId) {
+    return _packsStatus[packId] ?? PackStatus.notStarted;
+  }
+
+  Map<String, PackStatus> getPacksStatus() {
+    return _packsStatus;
+  }
+
+  bool isDownloaded(String packId) =>
+      (_packsStatus[packId] ?? PackStatus.notStarted) == PackStatus.completed;
 
   /// Download a complete pack
   Future<void> downloadPack(String packId) async {
     try {
+      // Wait for downloading slot to prevent network congestion
+      final pooled = await _pool.request();
+
+      _packsStatus[packId] = PackStatus.downloading;
+      notifyListeners();
+
       // Get pack from local service (packs_index.json)
       final pack = await _localPackService.getPackById(packId);
 
@@ -71,10 +95,12 @@ class DownloadManager {
       // Save initial pack cache
       await _cacheService.savePackCache(packCache);
 
+      var downloadQueue = DownloadQueue.empty();
+
       final imageProgresses = <DownloadProgress>[];
       // Queue image downloads
       for (final image in pack.images) {
-        await _queueImageDownload(packId, image.id, image.url);
+        // await _queueImageDownload(packId, image.id, image.url);
         // Create a pack progress
 
         imageProgresses.add(
@@ -85,6 +111,21 @@ class DownloadManager {
             totalBytes: 0, // Will be updated during download
           ),
         );
+
+        final downloadId = generateDownloadId(packId, image.id);
+
+        downloadQueue = downloadQueue.addDownload(
+          DownloadItem(
+            id: downloadId,
+            packId: packId,
+            imageId: image.id,
+            type: DownloadType.image,
+            status: DownloadStatus.queued,
+            priority: 1,
+            retryCount: 0,
+            queuedAt: DateTime.now(),
+          ),
+        );
       }
 
       final pdp = PackDownloadProgress(
@@ -93,8 +134,17 @@ class DownloadManager {
         startTime: imageProgresses.first.startTime,
       );
 
-      _packsProgress.add(pdp);
-      _startQueueProcessor(pdp);
+      _packsProgress[packId] = pdp;
+      _packsDownloadQueue[packId] = downloadQueue;
+
+      // Process downloading
+      await _processQueue(packId);
+
+      // Handle Complete pack download here
+      _packsStatus[packId] = PackStatus.completed;
+      _packStatusController.add(MapEntry(packId, PackStatus.completed));
+      notifyListeners();
+      pooled.release();
     } catch (e) {
       throw e is DownloadError
           ? e
@@ -102,120 +152,12 @@ class DownloadManager {
     }
   }
 
-  /// Queue an image download
-  Future<void> _queueImageDownload(
-    String packId,
-    String imageId,
-    String filename,
-  ) async {
-    final downloadId = generateDownloadId(packId, imageId);
-
-    final downloadItem = DownloadItem(
-      id: downloadId,
-      packId: packId,
-      imageId: imageId,
-      type: DownloadType.image,
-      status: DownloadStatus.queued,
-      priority: 1,
-      retryCount: 0,
-      queuedAt: DateTime.now(),
-    );
-
-    // Add to download queue
-    final queue = await _cacheService.loadDownloadQueue();
-
-    final updatedQueue = queue.addDownload(downloadItem);
-
-    await _cacheService.saveDownloadQueue(updatedQueue);
-  }
-
-  /// Get download progress stream
-  Stream<DownloadProgress> getDownloadProgress(String downloadId) {
-    if (!_progressControllers.containsKey(downloadId)) {
-      _progressControllers[downloadId] =
-          StreamController<DownloadProgress>.broadcast();
-    }
-    return _progressControllers[downloadId]!.stream;
-  }
-
   double getPackDownloadProgress(String packId) {
-    final pdp = _packsProgress.firstWhere(
-      (item) => item.packId == packId,
-      orElse: () => PackDownloadProgress(
-        packId: 'NONE',
-        imageProgresses: List.empty(),
-        startTime: DateTime.now(),
-      ),
-    );
-    return pdp.packId == 'NONE' ? 0 : pdp.progressByImage;
-  }
-
-  /// Cancel download
-  Future<void> cancelDownload(String downloadId) async {
-    _cancelledDownloads[downloadId] = true;
-
-    // Update queue status
-    final queue = await _cacheService.loadDownloadQueue();
-    final updatedQueue = queue.cancelDownload(downloadId);
-    await _cacheService.saveDownloadQueue(updatedQueue);
-
-    // Emit cancelled progress
-    _emitProgress(
-      DownloadProgress.cancelled(
-        downloadId: downloadId,
-        packId: downloadId.split('_').first,
-        imageId: downloadId.split('_').skip(1).join('_'),
-        bytesDownloaded: 0,
-        totalBytes: 0,
-        startTime: DateTime.now(),
-      ),
-    );
-  }
-
-  /// Pause download
-  Future<void> pauseDownload(String downloadId) async {
-    _cancelledDownloads[downloadId] = true;
-
-    // Update queue status
-    final queue = await _cacheService.loadDownloadQueue();
-    final updatedQueue = queue.pauseDownload(downloadId);
-    await _cacheService.saveDownloadQueue(updatedQueue);
-
-    // Emit paused progress
-    _emitProgress(
-      DownloadProgress.paused(
-        downloadId: downloadId,
-        packId: downloadId.split('_').first,
-        imageId: downloadId.split('_').skip(1).join('_'),
-        bytesDownloaded: 0,
-        totalBytes: 0,
-        startTime: DateTime.now(),
-      ),
-    );
-  }
-
-  /// Resume download
-  Future<void> resumeDownload(String downloadId) async {
-    _cancelledDownloads.remove(downloadId);
-
-    // Update queue status
-    final queue = await _cacheService.loadDownloadQueue();
-    final updatedQueue = queue.resumeDownload(downloadId);
-    await _cacheService.saveDownloadQueue(updatedQueue);
-
-    // The queue processor will pick up the resumed download
-  }
-
-  /// Retry a failed download
-  Future<void> retryDownload(String downloadId) async {
-    _cancelledDownloads.remove(downloadId);
-
-    // Update queue status
-    final queue = await _cacheService.loadDownloadQueue();
-    final updatedQueue = queue.retryDownload(downloadId);
-    await _cacheService.saveDownloadQueue(updatedQueue);
-
-    // The queue processor will pick up the retried download
+    if (_packsProgress.containsKey(packId)) {
+      return _packsProgress[packId]!.progressByImage;
+    } else {
+      return 0;
+    }
   }
 
   /// Get current download queue
@@ -223,53 +165,15 @@ class DownloadManager {
     return _cacheService.loadDownloadQueue();
   }
 
-  /// Start queue processor
-  void _startQueueProcessor(PackDownloadProgress pdp) {
-    _queueProcessor = Timer.periodic(const Duration(milliseconds: 300), (
-      timer,
-    ) {
-      if (!_isProcessing) {
-        _processQueue();
-      }
-      if (pdp.progressByImage >= 1.00) {
-        timer.cancel();
-      }
-    });
-  }
-
-  /// Resume download queue processor
-  void _resumeQueueProcessor() {
-    _queueProcessor = Timer.periodic(const Duration(milliseconds: 300), (
-      timer,
-    ) async {
-      final queue = await _cacheService.loadDownloadQueue();
-
-      if (!_isProcessing) {
-        unawaited(_processQueue());
-      }
-      if (queue.queuedDownloads.isEmpty) {
-        timer.cancel();
-      }
-    });
-  }
-
   /// Process download queue
-  Future<void> _processQueue() async {
-    if (_isProcessing) return;
-    _isProcessing = true;
+  Future<void> _processQueue(String packId) async {
+    if (!_packsDownloadQueue.containsKey(packId)) return;
+    final queue = _packsDownloadQueue[packId]!;
 
-    try {
-      final queue = await _cacheService.loadDownloadQueue();
-      final activeCount = queue.activeDownloads.length;
+    // Start new downloads if under limit
 
-      // Start new downloads if under limit
-      if (activeCount < CacheConstants.maxConcurrentDownloads &&
-          queue.queuedDownloads.isNotEmpty) {
-        final nextDownload = queue.queuedDownloads.first;
-        await _startDownload(nextDownload);
-      }
-    } finally {
-      _isProcessing = false;
+    for (final entry in queue.queuedDownloads) {
+      await _startDownload(entry);
     }
   }
 
@@ -277,15 +181,10 @@ class DownloadManager {
   Future<void> _startDownload(DownloadItem item) async {
     final downloadId = item.id;
 
-    // Check if cancelled
-    if (_cancelledDownloads[downloadId] == true) {
-      return;
-    }
-
     // Update queue to mark as active
-    final queue = await _cacheService.loadDownloadQueue();
-    final updatedQueue = queue.startDownload(downloadId);
-    await _cacheService.saveDownloadQueue(updatedQueue);
+    if (!_packsDownloadQueue.containsKey(item.packId)) return;
+    _packsDownloadQueue[item.packId] = _packsDownloadQueue[item.packId]!
+        .startDownload(downloadId);
 
     try {
       if (item.type == DownloadType.image) {
@@ -383,17 +282,16 @@ class DownloadManager {
     await _cacheService.savePackCache(updatedPackCache);
 
     // Mark download as completed
-    await _completeDownload(item);
+    _completeDownload(item);
 
     // Emit completion progress
     _emitProgress(initialProgress.complete());
   }
 
   /// Complete download
-  Future<void> _completeDownload(DownloadItem item) async {
-    final queue = await _cacheService.loadDownloadQueue();
-    final updatedQueue = queue.completeDownload(item.id);
-    await _cacheService.saveDownloadQueue(updatedQueue);
+  void _completeDownload(DownloadItem item) {
+    if (!_packsDownloadQueue.containsKey(item.packId)) return;
+    _packsDownloadQueue[item.packId]!.completeDownload(item.id);
   }
 
   /// Handle download error
@@ -428,39 +326,15 @@ class DownloadManager {
       controller.add(progress);
     }
 
-    final pdp = _packsProgress.firstWhere(
-      (item) => item.packId == progress.packId,
-      orElse: () => PackDownloadProgress(
-        packId: 'NONE',
-        imageProgresses: List.empty(),
-        startTime: DateTime.now(),
-      ),
-    );
-    if (pdp.packId == 'NONE') return;
-    final imagesProgress = pdp.imageProgresses;
-    final index = imagesProgress.indexWhere(
-      (imageProgress) => imageProgress.imageId == progress.imageId,
-    );
-    imagesProgress[index] = progress;
-  }
-
-  /// Get active downloads count
-  Future<int> getActiveDownloadsCount() async {
-    final queue = await _cacheService.loadDownloadQueue();
-    return queue.activeDownloads.length;
-  }
-
-  /// Get queued downloads count
-  Future<int> getQueuedDownloadsCount() async {
-    final queue = await _cacheService.loadDownloadQueue();
-    return queue.queuedDownloads.length;
-  }
-
-  /// Check if pack is currently downloading
-  Future<bool> isPackDownloading(String packId) async {
-    final queue = await _cacheService.loadDownloadQueue();
-    return queue.activeDownloads.any((item) => item.packId == packId) ||
-        queue.queuedDownloads.any((item) => item.packId == packId);
+    if (_packsProgress.containsKey(progress.packId)) {
+      final imagesProgress = _packsProgress[progress.packId]!.imageProgresses;
+      final index = imagesProgress.indexWhere(
+        (imageProgress) => imageProgress.imageId == progress.imageId,
+      );
+      imagesProgress[index] = progress;
+    } else {
+      return;
+    }
   }
 
   Future<bool> checkFreeSpaceBeforeDownload(int downloadFileSizeInBytes) async {
@@ -484,5 +358,8 @@ class DownloadManager {
       }
     }
     await _cacheService.deletePackCache(packId);
+    _packsStatus[packId] = PackStatus.notStarted;
+    _packStatusController.add(MapEntry(packId, PackStatus.notStarted));
+    notifyListeners();
   }
 }
