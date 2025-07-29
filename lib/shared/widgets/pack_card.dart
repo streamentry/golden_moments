@@ -36,6 +36,7 @@ class _PackCardState extends State<PackCard> {
   PackStatus? _downloadStatus;
   double _downloadProgress = 0;
   bool _isLoading = true;
+  Timer? _progressTimer;
 
   @override
   void initState() {
@@ -47,6 +48,7 @@ class _PackCardState extends State<PackCard> {
   @override
   void dispose() {
     DownloadManager().removeListener(_onStatusChange);
+    _progressTimer?.cancel();
     super.dispose();
   }
 
@@ -73,7 +75,8 @@ class _PackCardState extends State<PackCard> {
   }
 
   void _calculateDownloadProgress(String packId) {
-    Timer.periodic(const Duration(milliseconds: 500), (timer) {
+    _progressTimer?.cancel(); // Cancel any existing timer
+    _progressTimer = Timer.periodic(const Duration(milliseconds: 500), (timer) {
       setState(() {
         _downloadProgress = DownloadManager().getPackDownloadProgress(
           packId,
