@@ -27,9 +27,6 @@ class DownloadManager extends ChangeNotifier {
   final LocalPackService _localPackService = LocalPackService();
   final HttpClientService _httpClient = HttpClientService();
 
-  final Map<String, StreamController<DownloadProgress>> _progressControllers =
-      {};
-
   // Handle Pack Status
   final Map<String, PackStatus> _packsStatus = {};
   final _packStatusController =
@@ -42,8 +39,6 @@ class DownloadManager extends ChangeNotifier {
 
   final Pool _pool = Pool(3);
 
-  Timer? _queueProcessor;
-
   // Load completed downloads from disk
   Future<void> initialize() async {
     final packs = await _localPackService.getPacks();
@@ -54,6 +49,11 @@ class DownloadManager extends ChangeNotifier {
         _packsStatus[pack.id] = PackStatus.notStarted;
       }
     }
+  }
+
+  void dispose() {
+    _packStatusController.close();
+    // cancel or cleanup other resources if needed
   }
 
   PackStatus getPackStatus(String packId) {
@@ -321,11 +321,6 @@ class DownloadManager extends ChangeNotifier {
 
   /// Emit progress update
   void _emitProgress(DownloadProgress progress) {
-    final controller = _progressControllers[progress.downloadId];
-    if (controller != null && !controller.isClosed) {
-      controller.add(progress);
-    }
-
     if (_packsProgress.containsKey(progress.packId)) {
       final imagesProgress = _packsProgress[progress.packId]!.imageProgresses;
       final index = imagesProgress.indexWhere(

@@ -38,6 +38,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
   PackFilterOption _selectedFilter = PackFilterOption.all;
   final Set<Pack> _selectedPacks = <Pack>{}; // Explicitly typed as Set<Pack>
   bool _isSelectionMode = false; // Track selection mode
+  bool _isSelectedAll = false;
 
   void _showDownloadAllDialog(BuildContext parentContext) {
     final notDownloadedPacks = parentContext
@@ -78,11 +79,22 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
     );
   }
 
+  void _toggleSelectedAll(List<Pack> downloadedPacks) {
+    setState(() {
+      _isSelectedAll = !_isSelectedAll;
+      _selectedPacks.clear();
+      if (_isSelectedAll) {
+        _selectedPacks.addAll(downloadedPacks);
+      }
+    });
+  }
+
   void _toggleSelectionMode() {
     setState(() {
       _isSelectionMode = !_isSelectionMode;
       if (!_isSelectionMode) {
         _selectedPacks.clear(); // Clear selections when exiting selection mode
+        _isSelectedAll = false;
       }
     });
   }
@@ -139,17 +151,22 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
               onRetry: () => context.read<DownloadedPacksCubit>().initialize(),
             );
           case DownloadedPacksPageStatus.loaded:
-            final filteredPacks = _filterPacks(state);
             body = _LoadedView(
-              state: state.copyWith(downloadedPacks: filteredPacks),
+              state: state,
+              packFilterOption: _selectedFilter,
+              onLongPress: _toggleSelectionMode,
               isSelectionMode: _isSelectionMode,
               selectedPacks: _selectedPacks,
               onPackSelected: (Pack pack, bool isSelected) {
                 setState(() {
                   if (isSelected) {
                     _selectedPacks.add(pack);
+                    if (state.downloadedPacks.length == _selectedPacks.length) {
+                      _isSelectedAll = true;
+                    }
                   } else {
                     _selectedPacks.remove(pack);
+                    _isSelectedAll = false;
                   }
                 });
               },
@@ -157,7 +174,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
         }
         return Scaffold(
           appBar: AppBar(
-            title: const Text('Library'),
+            title: const Text('Download'),
             actions: [
               if (_isSelectionMode)
                 Row(
@@ -222,12 +239,14 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Padding(
-                    padding: const EdgeInsets.all(gmSpaceMd),
-                    child: Padding(
-                      padding: const EdgeInsets.only(right: gmSpaceLg),
-                      child: Align(
-                        alignment: Alignment.centerRight,
-                        child: DropdownButton<PackFilterOption>(
+                    padding: const EdgeInsets.only(
+                      left: gmSpaceLg,
+                      right: gmSpaceLg,
+                      bottom: gmSpaceSm,
+                    ),
+                    child: Row(
+                      children: [
+                        DropdownButton<PackFilterOption>(
                           value: _selectedFilter,
                           onChanged: _isSelectionMode
                               ? null
@@ -253,7 +272,22 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
                             ),
                           ],
                         ),
-                      ),
+                        const Spacer(),
+                        if (_isSelectionMode)
+                          Row(
+                            children: [
+                              Checkbox(
+                                value: _isSelectedAll, // a bool from your state
+                                onChanged: (bool? newValue) {
+                                  _toggleSelectedAll(state.downloadedPacks);
+                                },
+                              ),
+                              const Text(
+                                'All',
+                              ),
+                            ],
+                          ),
+                      ],
                     ),
                   ),
                   body,
@@ -264,17 +298,6 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
         );
       },
     );
-  }
-
-  List<Pack> _filterPacks(DownloadedPacksState state) {
-    switch (_selectedFilter) {
-      case PackFilterOption.downloaded:
-        return state.downloadedPacks;
-      case PackFilterOption.notDownloaded:
-        return state.notDownloadedPacks;
-      case PackFilterOption.all:
-        return state.packs;
-    }
   }
 }
 
@@ -360,6 +383,8 @@ class _LoadedView extends StatelessWidget {
   const _LoadedView({
     required this.state,
     required this.onPackSelected,
+    required this.packFilterOption,
+    required this.onLongPress,
     this.isSelectionMode = false,
     this.selectedPacks = const {},
   });
@@ -368,10 +393,22 @@ class _LoadedView extends StatelessWidget {
   final bool isSelectionMode;
   final Set<Pack> selectedPacks;
   final PackSelectionCallback onPackSelected;
+  final PackFilterOption packFilterOption;
+  final VoidCallback onLongPress;
 
   @override
   Widget build(BuildContext parentContext) {
-    if (state.downloadedPacks.isEmpty) {
+    late var packs = <Pack>[];
+    switch (packFilterOption) {
+      case PackFilterOption.all:
+        packs = state.packs;
+      case PackFilterOption.downloaded:
+        packs = state.downloadedPacks;
+      case PackFilterOption.notDownloaded:
+        packs = state.notDownloadedPacks;
+    }
+
+    if (packs.isEmpty) {
       return const _EmptyView();
     }
 
@@ -386,9 +423,9 @@ class _LoadedView extends StatelessWidget {
           crossAxisSpacing: gmSpaceSm,
           mainAxisSpacing: gmSpaceSm,
         ),
-        itemCount: state.downloadedPacks.length,
+        itemCount: packs.length,
         itemBuilder: (context, index) {
-          final pack = state.downloadedPacks[index];
+          final pack = packs[index];
           return GestureDetector(
             key: ValueKey(pack.id),
             onTap: () {
@@ -396,6 +433,14 @@ class _LoadedView extends StatelessWidget {
               if (isSelectionMode) {
                 final isSelected = selectedPacks.contains(pack);
                 onPackSelected(pack, !isSelected);
+              }
+            },
+            onLongPress: () {
+              if (!isSelectionMode &&
+                  packFilterOption == PackFilterOption.downloaded) {
+                final isSelected = selectedPacks.contains(pack);
+                onPackSelected(pack, !isSelected);
+                onLongPress();
               }
             },
             child: AbsorbPointer(
@@ -447,14 +492,14 @@ class _EmptyView extends StatelessWidget {
             ),
             const SizedBox(height: gmSpaceMd),
             Text(
-              'No Downloaded Packs',
+              'No Packs',
               style: theme.textTheme.headlineSmall?.copyWith(
                 color: theme.colorScheme.onSurface,
               ),
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
-              'Download some packs to see them here',
+              'Download some packs or update to new version to see them here',
               style: theme.textTheme.bodyMedium?.copyWith(
                 color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
               ),

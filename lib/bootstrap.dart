@@ -1,6 +1,5 @@
 import 'dart:async';
 import 'dart:developer';
-import 'dart:ui';
 
 import 'package:bloc/bloc.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -11,7 +10,6 @@ import 'package:golden_moments/data/services/http_client_service.dart';
 import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:provider/provider.dart';
-import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 
 class AppBlocObserver extends BlocObserver {
   const AppBlocObserver();
