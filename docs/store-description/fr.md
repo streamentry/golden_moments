@@ -14,11 +14,11 @@ Entrez dans un monde où chaque paire raconte une histoire. Moments Dorés n'est
 
 **Pourquoi Moments Dorés est Parfait pour Vous:**
 
-🌟 **Tuiles Grandes et Claires** – Pas besoin de plisser les yeux. Chaque image est nette, colorée et facile à voir
-📱 **Jeu Simple d'Un Toucher** – Touchez simplement pour révéler et associer. Pas de règles compliquées ni de pression temporelle
-🎵 **Expérience Apaisante** – Musique de fond relaxante et sons doux créent l'atmosphère parfaite
-🧠 **Plaisir Sain pour le Cerveau** – Gardez votre esprit vif tout en profitant d'un moment paisible de nostalgie
-👥 **Familial** – Partagez des souvenirs avec les petits-enfants ou profitez de moments tranquilles en solo
+• **Tuiles Grandes et Claires** – Pas besoin de plisser les yeux. Chaque image est nette, colorée et facile à voir
+• **Jeu Simple d'Un Toucher** – Touchez simplement pour révéler et associer. Pas de règles compliquées ni de pression temporelle
+• **Expérience Apaisante** – Musique de fond relaxante et sons doux créent l'atmosphère parfaite
+• **Plaisir Sain pour le Cerveau** – Gardez votre esprit vif tout en profitant d'un moment paisible de nostalgie
+• **Familial** – Partagez des souvenirs avec les petits-enfants ou profitez de moments tranquilles en solo
 
 **Caractéristiques qui Font Toute la Différence:**
 

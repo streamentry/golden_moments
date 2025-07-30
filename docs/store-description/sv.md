@@ -14,11 +14,11 @@ Kliv in i en värld där varje par berättar en historia. Gyllene Ögonblick är
 
 **Varför Gyllene Ögonblick är perfekt för dig:**
 
-🌟 **Stora, tydliga brickor** – Inget behov av att kisa eller anstränga dig. Varje bild är skarp, färgrik och lätt att se
-📱 **Enkelt spel med en tryckning** – Tryck bara för att avslöja och matcha. Inga komplicerade regler eller tidspress
-🎵 **Lugnande upplevelse** – Avkopplande bakgrundsmusik och mjuka ljud skapar den perfekta atmosfären
-🧠 **Hjärnhälsosamt nöje** – Håll ditt sinne skarpt medan du njuter av ett fridfullt ögonblick av nostalgi
-👥 **Familjevänligt** – Dela minnen med barnbarn eller njut av tysta stunder ensam
+• **Stora, tydliga brickor** – Inget behov av att kisa eller anstränga dig. Varje bild är skarp, färgrik och lätt att se
+• **Enkelt spel med en tryckning** – Tryck bara för att avslöja och matcha. Inga komplicerade regler eller tidspress
+• **Lugnande upplevelse** – Avkopplande bakgrundsmusik och mjuka ljud skapar den perfekta atmosfären
+• **Hjärnhälsosamt nöje** – Håll ditt sinne skarpt medan du njuter av ett fridfullt ögonblick av nostalgi
+• **Familjevänligt** – Dela minnen med barnbarn eller njut av tysta stunder ensam
 
 **Funktioner som gör skillnaden:**
 

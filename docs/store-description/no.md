@@ -14,11 +14,11 @@ Tre inn i en verden hvor hvert par forteller en historie. Gylne Øyeblikk er ikk
 
 **Hvorfor Gylne Øyeblikk er perfekt for deg:**
 
-🌟 **Store, tydelige brikker** – Ingen grunn til å myse eller anstrenge deg. Hvert bilde er skarpt, fargerikt og lett å se
-📱 **Enkelt spill med ett trykk** – Bare trykk for å avsløre og matche. Ingen kompliserte regler eller tidspress
-🎵 **Beroligende opplevelse** – Avslappende bakgrunnsmusikk og myke lyder skaper den perfekte atmosfæren
-🧠 **Hjernehelsemoro** – Hold sinnet skarpt mens du nyter et fredelig øyeblikk av nostalgi
-👥 **Familievennlig** – Del minner med barnebarn eller nyt stille øyeblikk alene
+• **Store, tydelige brikker** – Ingen grunn til å myse eller anstrenge deg. Hvert bilde er skarpt, fargerikt og lett å se
+• **Enkelt spill med ett trykk** – Bare trykk for å avsløre og matche. Ingen kompliserte regler eller tidspress
+• **Beroligende opplevelse** – Avslappende bakgrunnsmusikk og myke lyder skaper den perfekte atmosfæren
+• **Hjernehelsemoro** – Hold sinnet skarpt mens du nyter et fredelig øyeblikk av nostalgi
+• **Familievennlig** – Del minner med barnebarn eller nyt stille øyeblikk alene
 
 **Funksjoner som gjør forskjellen:**
 

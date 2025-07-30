@@ -14,11 +14,11 @@ Entra en un mundo donde cada pareja cuenta una historia. Momentos Dorados no es 
 
 **Por qué Momentos Dorados es Perfecto para Ti:**
 
-🌟 **Fichas Grandes y Claras** – Sin entrecerrar los ojos ni forzar la vista. Cada imagen es nítida, colorida y fácil de ver
-📱 **Juego Simple de Un Toque** – Solo toca para revelar y emparejar. Sin reglas complicadas ni presión de tiempo
-🎵 **Experiencia Relajante** – Música de fondo tranquilizadora y sonidos suaves crean la atmósfera perfecta
-🧠 **Diversión Saludable para el Cerebro** – Mantén tu mente ágil mientras disfrutas de un momento pacífico de nostalgia
-👥 **Familiar** – Comparte recuerdos con nietos o disfruta de momentos tranquilos en solitario
+• **Fichas Grandes y Claras** – Sin entrecerrar los ojos ni forzar la vista. Cada imagen es nítida, colorida y fácil de ver
+• **Juego Simple de Un Toque** – Solo toca para revelar y emparejar. Sin reglas complicadas ni presión de tiempo
+• **Experiencia Relajante** – Música de fondo tranquilizadora y sonidos suaves crean la atmósfera perfecta
+• **Diversión Saludable para el Cerebro** – Mantén tu mente ágil mientras disfrutas de un momento pacífico de nostalgia
+• **Familiar** – Comparte recuerdos con nietos o disfruta de momentos tranquilos en solitario
 
 **Características que Hacen Toda la Diferencia:**
 

@@ -14,11 +14,11 @@ Stap een wereld binnen waar elk paar een verhaal vertelt. Gouden Momenten is nie
 
 **Waarom Gouden Momenten perfect voor u is:**
 
-🌟 **Grote, duidelijke tegels** – Geen turen of inspannen nodig. Elke afbeelding is scherp, kleurrijk en gemakkelijk te zien
-📱 **Eenvoudig spelen met één aanraking** – Tik gewoon om te onthullen en te matchen. Geen ingewikkelde regels of tijdsdruk
-🎵 **Rustgevende ervaring** – Ontspannende achtergrondmuziek en zachte geluiden creëren de perfecte sfeer
-🧠 **Gezond plezier voor de hersenen** – Houd uw geest scherp terwijl u geniet van een vredig moment van nostalgie
-👥 **Familievriendelijk** – Deel herinneringen met kleinkinderen of geniet van rustige solo-momenten
+• **Grote, duidelijke tegels** – Geen turen of inspannen nodig. Elke afbeelding is scherp, kleurrijk en gemakkelijk te zien
+• **Eenvoudig spelen met één aanraking** – Tik gewoon om te onthullen en te matchen. Geen ingewikkelde regels of tijdsdruk
+• **Rustgevende ervaring** – Ontspannende achtergrondmuziek en zachte geluiden creëren de perfecte sfeer
+• **Gezond plezier voor de hersenen** – Houd uw geest scherp terwijl u geniet van een vredig moment van nostalgie
+• **Familievriendelijk** – Deel herinneringen met kleinkinderen of geniet van rustige solo-momenten
 
 **Functies die het verschil maken:**
 

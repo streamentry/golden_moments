@@ -14,11 +14,11 @@ Betreten Sie eine Welt, in der jedes Paar eine Geschichte erzählt. Goldene Mome
 
 **Warum Goldene Momente Perfekt für Sie ist:**
 
-🌟 **Große, Klare Kacheln** – Kein Zusammenkneifen der Augen oder Anstrengen. Jedes Bild ist scharf, farbenfroh und leicht zu sehen
-📱 **Einfaches Ein-Touch-Spiel** – Einfach tippen zum Aufdecken und Zuordnen. Keine komplizierten Regeln oder Zeitdruck
-🎵 **Beruhigende Erfahrung** – Entspannende Hintergrundmusik und sanfte Töne schaffen die perfekte Atmosphäre
-🧠 **Gehirngesunder Spaß** – Halten Sie Ihren Geist scharf, während Sie einen friedlichen Moment der Nostalgie genießen
-👥 **Familienfreundlich** – Teilen Sie Erinnerungen mit Enkelkindern oder genießen Sie ruhige Solo-Momente
+• **Große, Klare Kacheln** – Kein Zusammenkneifen der Augen oder Anstrengen. Jedes Bild ist scharf, farbenfroh und leicht zu sehen
+• **Einfaches Ein-Touch-Spiel** – Einfach tippen zum Aufdecken und Zuordnen. Keine komplizierten Regeln oder Zeitdruck
+• **Beruhigende Erfahrung** – Entspannende Hintergrundmusik und sanfte Töne schaffen die perfekte Atmosphäre
+• **Gehirngesunder Spaß** – Halten Sie Ihren Geist scharf, während Sie einen friedlichen Moment der Nostalgie genießen
+• **Familienfreundlich** – Teilen Sie Erinnerungen mit Enkelkindern oder genießen Sie ruhige Solo-Momente
 
 **Funktionen, die den Unterschied Machen:**
 

@@ -14,11 +14,11 @@ Entre num mundo onde cada par conta uma história. Momentos Dourados não é ape
 
 **Por que Momentos Dourados é Perfeito para Você:**
 
-🌟 **Peças Grandes e Claras** – Sem apertar os olhos ou forçar a vista. Cada imagem é nítida, colorida e fácil de ver
-📱 **Jogo Simples de Um Toque** – Apenas toque para revelar e combinar. Sem regras complicadas ou pressão de tempo
-🎵 **Experiência Relaxante** – Música de fundo tranquilizante e sons suaves criam a atmosfera perfeita
-🧠 **Diversão Saudável para o Cérebro** – Mantenha sua mente afiada enquanto desfruta de um momento pacífico de nostalgia
-👥 **Familiar** – Compartilhe memórias com netos ou desfrute de momentos tranquilos sozinho
+• **Peças Grandes e Claras** – Sem apertar os olhos ou forçar a vista. Cada imagem é nítida, colorida e fácil de ver
+• **Jogo Simples de Um Toque** – Apenas toque para revelar e combinar. Sem regras complicadas ou pressão de tempo
+• **Experiência Relaxante** – Música de fundo tranquilizante e sons suaves criam a atmosfera perfeita
+• **Diversão Saudável para o Cérebro** – Mantenha sua mente afiada enquanto desfruta de um momento pacífico de nostalgia
+• **Familiar** – Compartilhe memórias com netos ou desfrute de momentos tranquilos sozinho
 
 **Recursos que Fazem Toda a Diferença:**
 

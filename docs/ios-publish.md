@@ -2,6 +2,27 @@
 
 This guide covers the complete process of publishing the "Golden Moments" Flutter app to the iOS App Store from scratch, as well as how to update existing versions.
 
+## Quick Start for Clean iOS Build
+
+If you're experiencing build or archive issues, the fastest solution is to recreate the iOS project from scratch:
+
+```bash
+# Clean rebuild script - recreates iOS project with proper configuration
+./scripts/recreate_ios_project.sh
+```
+
+This script:
+- ✅ Removes complex flavor configurations that cause build issues
+- ✅ Creates a clean, standard Flutter iOS project
+- ✅ Sets iOS 15.0 target (required for Firebase compatibility)
+- ✅ Fixes all Swift plugin import issues automatically
+- ✅ Eliminates framework linking errors
+- ✅ Tests the build to ensure it works
+
+**Result**: A clean iOS project ready for archiving and App Store submission.
+
+---
+
 ## Prerequisites
 
 ### Development Environment
@@ -66,7 +87,7 @@ This guide covers the complete process of publishing the "Golden Moments" Flutte
    - **Team**: Select your Apple Developer team
    - **Bundle Identifier**: Update to `com.mindfulness.goldenmoments` (remove underscores)
    - **Deployment Info**: 
-     - iOS Deployment Target: 12.0 (minimum recommended)
+     - iOS Deployment Target: 15.0 (required for Firebase Analytics compatibility)
      - Device Orientation: Portrait, Landscape Left, Landscape Right
 
 3. **Update Bundle Identifier**
@@ -122,11 +143,12 @@ This guide covers the complete process of publishing the "Golden Moments" Flutte
 
 2. **Build Release Archive**
    ```bash
-   # Clean previous builds
+   # Use the clean rebuild script for reliable builds
+   ./scripts/recreate_ios_project.sh
+   
+   # Or manually:
    flutter clean
    flutter pub get
-   
-   # Build iOS release
    flutter build ios --release --no-codesign
    ```
 
@@ -225,7 +247,7 @@ This guide covers the complete process of publishing the "Golden Moments" Flutte
    ```bash
    flutter clean
    flutter pub get
-   flutter build ios --release --no-codesign
+   flutter build ios --release --no-codesign -t lib/main.dart --flavor production
    ```
 
 2. **Archive and Upload**
@@ -330,6 +352,23 @@ This guide covers the complete process of publishing the "Golden Moments" Flutte
    pod cache clean --all
    pod install
    ```
+
+3. **If Build Issues Persist**
+   
+   **Use the Clean Rebuild Script:**
+   ```bash
+   # This recreates the iOS project from scratch with proper configuration
+   ./scripts/recreate_ios_project.sh
+   ```
+   
+   This script:
+   - Removes the old iOS project completely
+   - Recreates it using Flutter's standard approach
+   - Sets iOS 15.0 target for Firebase compatibility
+   - Installs all dependencies cleanly
+   - Tests the build to ensure it works
+   
+   This approach eliminates complex configuration issues and gives you a clean, working iOS project.
 
 ### Submission Issues
 

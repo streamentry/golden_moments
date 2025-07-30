@@ -14,11 +14,11 @@ Step into a world where every match tells a story. Golden Moments isn't just ano
 
 **Why Golden Moments is Perfect for You:**
 
-🌟 **Large, Clear Tiles** – No squinting or straining. Every image is crisp, colorful, and easy to see
-📱 **Simple One-Touch Play** – Just tap to reveal and match. No complicated rules or time pressure
-🎵 **Soothing Experience** – Relaxing background music and gentle sounds create the perfect atmosphere
-🧠 **Brain-Healthy Fun** – Keep your mind sharp while enjoying a peaceful moment of nostalgia
-👥 **Family Friendly** – Share memories with grandchildren or enjoy quiet solo moments
+• **Large, Clear Tiles** – No squinting or straining. Every image is crisp, colorful, and easy to see
+• **Simple One-Touch Play** – Just tap to reveal and match. No complicated rules or time pressure
+• **Soothing Experience** – Relaxing background music and gentle sounds create the perfect atmosphere
+• **Brain-Healthy Fun** – Keep your mind sharp while enjoying a peaceful moment of nostalgia
+• **Family Friendly** – Share memories with grandchildren or enjoy quiet solo moments
 
 **Features That Make All the Difference:**
 
