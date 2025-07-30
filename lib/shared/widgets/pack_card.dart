@@ -5,13 +5,11 @@ import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/download_manager.dart';
-import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/game/game.dart';
-import 'package:golden_moments/shared/utils/string_util.dart';
-import 'package:golden_moments/shared/widgets/download_progress_card.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
+import 'package:percent_indicator/flutter_percent_indicator.dart';
 
 /// Card widget for displaying a game pack
 class PackCard extends StatefulWidget {
@@ -35,57 +33,59 @@ class PackCard extends StatefulWidget {
 }
 
 class _PackCardState extends State<PackCard> {
-  PackDownloadStatus? _downloadStatus;
+  PackStatus? _downloadStatus;
+  double _downloadProgress = 0;
   bool _isLoading = true;
+  Timer? _progressTimer;
 
   @override
   void initState() {
     super.initState();
-    _checkPackCacheStatus();
+    _checkPackStatus();
+    DownloadManager().addListener(_onStatusChange);
   }
 
-  Future<void> _checkPackCacheStatus() async {
-    try {
-      final isCached = await JsonCacheService().isPackCached(widget.pack.id);
-      if (mounted) {
-        setState(() {
-          _downloadStatus = isCached
-              ? PackDownloadStatus.cached
-              : PackDownloadStatus.available;
-        });
-      }
-    } on Exception {
-      if (mounted) {
-        setState(() {
-          _downloadStatus = PackDownloadStatus.available;
-        });
-      }
-    } finally {
-      _isLoading = false;
-    }
+  @override
+  void dispose() {
+    DownloadManager().removeListener(_onStatusChange);
+    _progressTimer?.cancel();
+    super.dispose();
   }
 
-  void _updateDownloadStatus(PackDownloadStatus status) {
+  Future<void> _checkPackStatus() async {
+    setState(() {
+      _downloadStatus = DownloadManager().getPackStatus(widget.pack.id);
+    });
+    _isLoading = false;
+  }
+
+  void _onStatusChange() {
+    final status = DownloadManager().getPackStatus(widget.pack.id);
     setState(() {
       _downloadStatus = status;
     });
+    if (status == PackStatus.downloading) {
+      _calculateDownloadProgress(widget.pack.id);
+    }
   }
 
-  void _startDownloadPack(Pack pack) {
-    _updateDownloadStatus(PackDownloadStatus.downloading);
-    unawaited(DownloadManager().downloadPack(pack.id));
-    DownloadManager()
-        .getDownloadProgress(
-          generateDownloadId(
-            pack.id,
-            pack.images[pack.images.length - 1].id,
-          ),
-        )
-        .listen((progress) {
-          if (progress.isCompleted) {
-            _updateDownloadStatus(PackDownloadStatus.cached);
-          }
-        });
+  void _startDownloadPack(String packId) {
+    unawaited(DownloadManager().downloadPack(packId));
+    _calculateDownloadProgress(packId);
+  }
+
+  void _calculateDownloadProgress(String packId) {
+    _progressTimer?.cancel(); // Cancel any existing timer
+    _progressTimer = Timer.periodic(const Duration(milliseconds: 500), (timer) {
+      setState(() {
+        _downloadProgress = DownloadManager().getPackDownloadProgress(
+          packId,
+        );
+      });
+      if (DownloadManager().getPackStatus(packId) == PackStatus.completed) {
+        timer.cancel();
+      }
+    });
   }
 
   void _showDownloadConfirmationDialog(Pack pack) {
@@ -108,7 +108,7 @@ class _PackCardState extends State<PackCard> {
             onPressed: () {
               SoundService().playTap();
               Navigator.of(dialogContext).pop(); // Close dialog
-              _startDownloadPack(pack); // Start download
+              _startDownloadPack(pack.id); // Start download
 
               FirebaseAnalytics.instance.logEvent(
                 name: 'download_pack',
@@ -130,16 +130,16 @@ class _PackCardState extends State<PackCard> {
       clipBehavior: Clip.antiAlias,
       child: Pressable(
         onPressed: () async {
-          // Wait for ripple animation before calling onPressed
-          await Future<void>.delayed(const Duration(milliseconds: 180));
           switch (_downloadStatus) {
-            case PackDownloadStatus.cached:
+            case PackStatus.completed:
               {
                 if (widget.onTap == null) {
-                  await Navigator.of(context).push(
-                    MaterialPageRoute<void>(
-                      builder: (context) => GamePage(
-                        gamePack: widget.pack,
+                  unawaited(
+                    Navigator.of(context).push(
+                      MaterialPageRoute<void>(
+                        builder: (context) => GamePage(
+                          gamePack: widget.pack,
+                        ),
                       ),
                     ),
                   );
@@ -151,12 +151,10 @@ class _PackCardState extends State<PackCard> {
                   screenName: 'Game',
                 );
               }
-            case PackDownloadStatus.available:
-            case PackDownloadStatus.expired:
-            case PackDownloadStatus.failed:
+            case PackStatus.notStarted:
             case null:
               _showDownloadConfirmationDialog(widget.pack);
-            case PackDownloadStatus.downloading:
+            case PackStatus.downloading:
           }
         },
         child: _buildLayout(theme),
@@ -165,17 +163,27 @@ class _PackCardState extends State<PackCard> {
   }
 
   Widget _buildLayout(ThemeData theme) {
-    IconData getIcon() {
+    Widget getIcon() {
       switch (_downloadStatus) {
-        case PackDownloadStatus.cached:
-          return Icons.download_done;
-        case PackDownloadStatus.available:
-        case PackDownloadStatus.expired:
-        case PackDownloadStatus.failed:
+        case PackStatus.completed:
+          return Icon(
+            Icons.download_done,
+            size: 24,
+            color: theme.colorScheme.primary,
+          );
+        case PackStatus.notStarted:
         case null:
-          return Icons.download;
-        case PackDownloadStatus.downloading:
-          return Icons.downloading;
+          return Icon(
+            Icons.download,
+            size: 24,
+            color: theme.colorScheme.primary,
+          );
+        case PackStatus.downloading:
+          return CircularPercentIndicator(
+            radius: 12,
+            percent: _downloadProgress,
+            progressColor: Colors.green,
+          );
       }
     }
 
@@ -259,11 +267,7 @@ class _PackCardState extends State<PackCard> {
                         ),
                       )
                     else
-                      Icon(
-                        getIcon(),
-                        size: 24,
-                        color: theme.colorScheme.primary,
-                      ),
+                      getIcon(),
                   ],
                 ),
               ],

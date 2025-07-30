@@ -27,6 +27,12 @@ enum GameDifficulty {
   int get totalTiles => pairCount * 2;
 }
 
+enum PackStatus {
+  notStarted,
+  downloading,
+  completed,
+}
+
 /// Represents a themed collection of memory game tiles
 class Pack extends Equatable {
   const Pack({
@@ -38,6 +44,7 @@ class Pack extends Equatable {
     required this.difficulty,
     required this.thumbnailUrl,
     required this.images,
+    required this.estimatedSize,
     this.isCompleted = false,
     this.isPremium = false,
     this.description,
@@ -59,6 +66,7 @@ class Pack extends Equatable {
       images: (json['images'] as List<dynamic>? ?? [])
           .map((tile) => Image.fromJson(tile as Map<String, dynamic>))
           .toList(),
+      estimatedSize: json['estimatedSize'] as String,
       isCompleted: json['isCompleted'] as bool? ?? false,
       isPremium: json['isPremium'] as bool? ?? false,
       description: json['description'] as String?,
@@ -95,6 +103,8 @@ class Pack extends Equatable {
   /// Whether this pack requires premium subscription
   final bool isPremium;
 
+  final String estimatedSize;
+
   /// List image of this pack
   final List<Image> images;
 
@@ -107,6 +117,7 @@ class Pack extends Equatable {
       'category': category,
       'version': version,
       'thumbnailUrl': thumbnailUrl,
+      'estimatedSize': estimatedSize,
       'images': images,
       'difficulty': difficulty.name,
       'isCompleted': isCompleted,
@@ -123,6 +134,7 @@ class Pack extends Equatable {
     String? category,
     String? version,
     String? thumbnailUrl,
+    String? estimatedSize,
     List<Image>? images,
     GameDifficulty? difficulty,
     bool? isCompleted,
@@ -136,6 +148,7 @@ class Pack extends Equatable {
       category: category ?? this.category,
       version: version ?? this.version,
       thumbnailUrl: thumbnailUrl ?? this.thumbnailUrl,
+      estimatedSize: estimatedSize ?? this.estimatedSize,
       images: images ?? this.images,
       difficulty: difficulty ?? this.difficulty,
       isCompleted: isCompleted ?? this.isCompleted,
@@ -152,6 +165,7 @@ class Pack extends Equatable {
     category,
     version,
     thumbnailUrl,
+    estimatedSize,
     images,
     difficulty,
     isCompleted,

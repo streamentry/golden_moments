@@ -19,24 +19,29 @@ class CacheConstants {
   static const Duration exponentialBackoffBase = Duration(seconds: 1);
 
   // GitHub repository configuration
-  static const String githubBaseUrl = 
+  static const String githubBaseUrl =
       'https://raw.githubusercontent.com/user/golden-moments-packs/main/';
   static const String packIndexUrl = '${githubBaseUrl}index.json';
-  
+
   // Pack manifest URL pattern
-  static String packManifestUrl(String packId) => 
+  static String packManifestUrl(String packId) =>
       '${githubBaseUrl}packs/$packId/manifest.json';
-  
+
   // Image download URL pattern
-  static String imageDownloadUrl(String packId, String filename) => 
+  static String imageDownloadUrl(String packId, String filename) =>
       '${githubBaseUrl}packs/$packId/images/$filename';
-  
+
   // Thumbnail download URL pattern
-  static String thumbnailDownloadUrl(String packId, String filename) => 
+  static String thumbnailDownloadUrl(String packId, String filename) =>
       '${githubBaseUrl}packs/$packId/thumbnails/$filename';
 
   // File validation
-  static const List<String> supportedImageFormats = ['jpg', 'jpeg', 'png', 'webp'];
+  static const List<String> supportedImageFormats = [
+    'jpg',
+    'jpeg',
+    'png',
+    'webp',
+  ];
   static const int maxImageSizeBytes = 5 * 1024 * 1024; // 5MB per image
   static const int maxPackSizeBytes = 50 * 1024 * 1024; // 50MB per pack
 
@@ -69,20 +74,19 @@ class CacheConstants {
   static final RegExp filenamePattern = RegExp(r'^[a-zA-Z0-9_.-]+$');
 
   // Error messages
-  static const String networkErrorMessage = 
+  static const String networkErrorMessage =
       'Unable to connect to the internet. Please check your connection.';
-  static const String storageErrorMessage = 
+  static const String storageErrorMessage =
       'Not enough storage space available. Please free up some space.';
-  static const String corruptionErrorMessage = 
+  static const String corruptionErrorMessage =
       'Cache data is corrupted. It will be automatically repaired.';
-  static const String downloadFailedMessage = 
+  static const String downloadFailedMessage =
       'Download failed. It will be retried automatically.';
 
   // Success messages
-  static const String downloadCompleteMessage = 
+  static const String downloadCompleteMessage =
       'Pack downloaded successfully and ready to play!';
-  static const String cacheCleanedMessage = 
-      'Cache cleaned up successfully.';
+  static const String cacheCleanedMessage = 'Cache cleaned up successfully.';
 
   // Settings keys for shared preferences
   static const String maxCacheSizeKey = 'max_cache_size_mb';
@@ -122,9 +126,11 @@ class CacheConstants {
 
   // Helper methods
   static bool isValidPackId(String packId) => packIdPattern.hasMatch(packId);
-  static bool isValidImageId(String imageId) => imageIdPattern.hasMatch(imageId);
-  static bool isValidFilename(String filename) => filenamePattern.hasMatch(filename);
-  
+  static bool isValidImageId(String imageId) =>
+      imageIdPattern.hasMatch(imageId);
+  static bool isValidFilename(String filename) =>
+      filenamePattern.hasMatch(filename);
+
   static bool isSupportedImageFormat(String filename) {
     final extension = filename.split('.').last.toLowerCase();
     return supportedImageFormats.contains(extension);
@@ -141,7 +147,8 @@ class CacheConstants {
 
   static Duration getRetryDelay(int attemptNumber) {
     // Exponential backoff: 1s, 2s, 4s, 8s, etc.
-    final delaySeconds = exponentialBackoffBase.inSeconds * (1 << attemptNumber);
+    final delaySeconds =
+        exponentialBackoffBase.inSeconds * (1 << attemptNumber);
     return Duration(seconds: delaySeconds.clamp(1, 60)); // Max 60 seconds
   }
 }

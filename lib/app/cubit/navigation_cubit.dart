@@ -56,7 +56,7 @@ class NavigationCubit extends Cubit<NavigationState> {
     try {
       // In a real implementation, you would get this from the download manager
       // For now, we'll use a placeholder
-      final activeCount =
+      const activeCount =
           0; // await _downloadManager.getActiveDownloadsCount();
 
       if (activeCount != state.activeDownloadsCount) {

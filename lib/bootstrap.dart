@@ -2,7 +2,6 @@ import 'dart:async';
 import 'dart:developer';
 
 import 'package:bloc/bloc.dart';
-import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/widgets.dart';
 import 'package:golden_moments/data/models/sound_setting.dart';
@@ -31,8 +30,15 @@ class AppBlocObserver extends BlocObserver {
 Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
   WidgetsFlutterBinding.ensureInitialized();
   FlutterError.onError = (details) {
+    // FirebaseCrashlytics.instance.recordFlutterFatalError(details);
     log(details.exceptionAsString(), stackTrace: details.stack);
   };
+
+  // PlatformDispatcher.instance.onError = (error, stack) {
+  //   FirebaseCrashlytics.instance.recordError(error, stack, fatal: true);
+  //   return true;
+  // };
+
   Bloc.observer = const AppBlocObserver();
 
   await Firebase.initializeApp();
@@ -56,6 +62,6 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
 /// Initialize core services
 Future<void> _initializeServices() async {
   await JsonCacheService().initialize();
-  DownloadManager().initialize();
+  await DownloadManager().initialize();
   HttpClientService().initialize();
 }
