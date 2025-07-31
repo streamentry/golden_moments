@@ -32,7 +32,7 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
   Timer? _timer;
   int _elapsedSeconds = 0;
   bool _isPaused = false;
-  int _completePlayCount = 1;
+  int _completePlayCount = 3;
 
   @override
   void initState() {
@@ -388,40 +388,99 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
         return ValueListenableBuilder<int>(
           valueListenable: remainingTime,
           builder: (context, timeLeft, child) {
-            return AlertDialog(
-              title: Column(
-                children: [
-                  const Center(child: Text('Invite a Friend')),
-                  const SizedBox(height: 8),
-                  TweenAnimationBuilder<double>(
-                    tween: Tween<double>(
-                      begin: 1.0,
-                      end: timeLeft / 15,
-                    ),
-                    duration: const Duration(seconds: 1),
-                    builder: (context, value, child) {
-                      return LinearProgressIndicator(
-                        value: value,
-                        backgroundColor: Colors.grey[300],
-                        valueColor: const AlwaysStoppedAnimation<Color>(
-                          Colors.green,
+            return Dialog(
+              child: Container(
+                width: MediaQuery.of(context).size.width * 0.9,
+                padding: const EdgeInsets.all(gmSpaceLg),
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    // Title section with progress bar
+                    Column(
+                      children: [
+                        const Text(
+                          'Invite a Friend',
+                          style: TextStyle(
+                            fontSize: 24,
+                            fontWeight: FontWeight.bold,
+                          ),
+                          textAlign: TextAlign.center,
                         ),
-                      );
-                    },
-                  ),
-                ],
-              ),
-              content: const Text(
-                'Share the fun! Invite your friends to play this game with you.',
-                textAlign: TextAlign.center,
-              ),
-              actions: [
-                const SizedBox(height: gmSpaceSm),
-                GmPrimaryButton(
-                  label: 'Invite',
-                  onTap: _shareAppLink,
+                        const SizedBox(height: gmSpaceMd),
+                        TweenAnimationBuilder<double>(
+                          tween: Tween<double>(
+                            begin: 1.0,
+                            end: timeLeft / 15,
+                          ),
+                          duration: const Duration(seconds: 1),
+                          builder: (context, value, child) {
+                            return LinearProgressIndicator(
+                              value: value,
+                              backgroundColor: Colors.grey[300],
+                              valueColor: const AlwaysStoppedAnimation<Color>(
+                                Colors.green,
+                              ),
+                            );
+                          },
+                        ),
+                        const SizedBox(height: gmSpaceSm),
+                        Text(
+                          'Auto-closing in $timeLeft seconds',
+                          style: TextStyle(
+                            fontSize: 12,
+                            color: Colors.grey[600],
+                          ),
+                        ),
+                      ],
+                    ),
+
+                    const SizedBox(height: gmSpaceLg),
+
+                    // Icon
+                    Container(
+                      padding: const EdgeInsets.all(gmSpaceMd),
+                      decoration: BoxDecoration(
+                        color: Colors.green.withValues(alpha: 0.1),
+                        borderRadius: BorderRadius.circular(50),
+                      ),
+                      child: const Icon(
+                        Icons.group_add,
+                        size: 48,
+                        color: Colors.green,
+                      ),
+                    ),
+
+                    const SizedBox(height: gmSpaceLg),
+
+                    // Content
+                    const Text(
+                      'Share the Golden Moments!',
+                      style: TextStyle(
+                        fontSize: 20,
+                        fontWeight: FontWeight.w600,
+                      ),
+                      textAlign: TextAlign.center,
+                    ),
+                    const SizedBox(height: gmSpaceMd),
+                    const Text(
+                      'You\'ve completed 3 memory games! 🎉\n\nWhy not invite your friends and family to join the fun? Share precious memories together and challenge each other in this delightful memory game.',
+                      style: TextStyle(fontSize: 16),
+                      textAlign: TextAlign.center,
+                    ),
+
+                    const SizedBox(height: gmSpaceLg),
+
+                    // Buttons
+                    GmPrimaryButton(
+                      label: 'Invite Friends',
+                      onTap: () {
+                        _shareAppLink();
+                        Navigator.of(context).pop();
+                      },
+                    ),
+                  ],
                 ),
-              ],
+              ),
             );
           },
         );
