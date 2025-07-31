@@ -3,15 +3,16 @@ import 'package:golden_moments/data/models/image.dart';
 
 /// Difficulty levels for the memory game
 enum GameDifficulty {
-  easy(gridSize: 3, pairCount: 6, displayName: 'Easy'),
-  medium(gridSize: 4, pairCount: 8, displayName: 'Medium'),
-  hard(gridSize: 4, pairCount: 12, displayName: 'Hard'),
-  brainy(gridSize: 5, pairCount: 20, displayName: 'Brainy');
+  easy(gridSize: 3, pairCount: 6, displayName: 'Easy', minImages: 6),
+  medium(gridSize: 4, pairCount: 8, displayName: 'Medium', minImages: 8),
+  hard(gridSize: 4, pairCount: 12, displayName: 'Hard', minImages: 10),
+  brainy(gridSize: 5, pairCount: 20, displayName: 'Brainy', minImages: 16);
 
   const GameDifficulty({
     required this.gridSize,
     required this.pairCount,
     required this.displayName,
+    required this.minImages,
   });
 
   /// Grid size (e.g., 3 means 3x4 grid for easy mode)
@@ -22,6 +23,9 @@ enum GameDifficulty {
 
   /// Human-readable name for the difficulty
   final String displayName;
+
+  /// Minimum number of images required for this difficulty level
+  final int minImages;
 
   /// Total number of tiles (pairs * 2)
   int get totalTiles => pairCount * 2;

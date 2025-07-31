@@ -28,6 +28,7 @@ dependencies:
   percent_indicator: ^4.2.5
   pool: ^1.5.0
   provider: ^6.1.5
+  share_plus: ^10.1.4
   shared_preferences: ^2.2.3
 
 dev_dependencies:

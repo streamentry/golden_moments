@@ -267,7 +267,8 @@ class DownloadItem extends Equatable {
     required this.priority,
     required this.retryCount,
     required this.queuedAt,
-    this.imageId,
+    required this.imageId,
+    required this.imageUrl,
     this.startedAt,
     this.completedAt,
     this.progress = 0.0,
@@ -280,7 +281,8 @@ class DownloadItem extends Equatable {
     return DownloadItem(
       id: json['id'] as String,
       packId: json['packId'] as String,
-      imageId: json['imageId'] as String?,
+      imageId: json['imageId'] as String,
+      imageUrl: json['imageUrl'] as String,
       type: DownloadType.fromString(json['type'] as String),
       status: DownloadStatus.fromString(json['status'] as String),
       priority: json['priority'] as int? ?? 0,
@@ -303,7 +305,8 @@ class DownloadItem extends Equatable {
 
   final String id;
   final String packId;
-  final String? imageId;
+  final String imageId;
+  final String imageUrl;
   final DownloadType type;
   final DownloadStatus status;
   final int priority;
@@ -320,7 +323,8 @@ class DownloadItem extends Equatable {
     return {
       'id': id,
       'packId': packId,
-      if (imageId != null) 'imageId': imageId,
+      'imageId': imageId,
+      'imageUrl': imageUrl,
       'type': type.toString(),
       'status': status.toString(),
       'priority': priority,
@@ -339,6 +343,7 @@ class DownloadItem extends Equatable {
     String? id,
     String? packId,
     String? imageId,
+    String? imageUrl,
     DownloadType? type,
     DownloadStatus? status,
     int? priority,
@@ -355,6 +360,7 @@ class DownloadItem extends Equatable {
       id: id ?? this.id,
       packId: packId ?? this.packId,
       imageId: imageId ?? this.imageId,
+      imageUrl: imageUrl ?? this.imageUrl,
       type: type ?? this.type,
       status: status ?? this.status,
       priority: priority ?? this.priority,
@@ -374,6 +380,7 @@ class DownloadItem extends Equatable {
     id,
     packId,
     imageId,
+    imageUrl,
     type,
     status,
     priority,

@@ -51,8 +51,21 @@ class DownloadManager extends ChangeNotifier {
     }
   }
 
+  // Execute download initial packs
+  Future<void> downloadInitialPacks() async {
+    // Simulate downloading all packs
+    final packs = await _localPackService.getPacks();
+    for (final pack in packs) {
+      if (!await JsonCacheService().isPackCached(pack.id)) {
+        unawaited(downloadPack(pack.id));
+      }
+    }
+  }
+
+  @override
   void dispose() {
     _packStatusController.close();
+    super.dispose();
     // cancel or cleanup other resources if needed
   }
 
@@ -85,18 +98,7 @@ class DownloadManager extends ChangeNotifier {
 
       if (!isSpacesAvailable) return;
 
-      // Create pack cache entry from local pack
-      final packCache = PackCache.create(
-        id: packId,
-        version: pack.version,
-        manifest: pack,
-      );
-
-      // Save initial pack cache
-      await _cacheService.savePackCache(packCache);
-
       var downloadQueue = DownloadQueue.empty();
-
       final imageProgresses = <DownloadProgress>[];
       // Queue image downloads
       for (final image in pack.images) {
@@ -119,6 +121,7 @@ class DownloadManager extends ChangeNotifier {
             id: downloadId,
             packId: packId,
             imageId: image.id,
+            imageUrl: image.url,
             type: DownloadType.image,
             status: DownloadStatus.queued,
             priority: 1,
@@ -143,6 +146,17 @@ class DownloadManager extends ChangeNotifier {
       // Handle Complete pack download here
       _packsStatus[packId] = PackStatus.completed;
       _packStatusController.add(MapEntry(packId, PackStatus.completed));
+
+      // Save to local
+      final packCache = PackCache.create(
+        id: packId,
+        version: pack.version,
+        manifest: pack,
+      );
+
+      // Save initial pack cache
+      await _cacheService.savePackCache(packCache);
+
       notifyListeners();
       pooled.release();
     } catch (e) {
@@ -199,16 +213,9 @@ class DownloadManager extends ChangeNotifier {
   Future<void> _downloadImage(DownloadItem item) async {
     final downloadId = item.id;
     final packId = item.packId;
-    final imageId = item.imageId!;
+    final imageId = item.imageId;
+    final imageUrl = item.imageUrl;
 
-    // Get image URL from pack cache
-    final packCache = await _cacheService.loadPackCache(packId);
-    if (packCache == null) {
-      throw DownloadError.unknown(downloadId, 'Pack cache not found');
-    }
-
-    final tile = packCache.manifest.images.firstWhere((t) => t.id == imageId);
-    final imageUrl = tile.url;
     // Extract filename from URL for local storage
     final filename = '$imageId.jpg'; // Use consistent filename
 
@@ -260,26 +267,6 @@ class DownloadManager extends ChangeNotifier {
 
     // Write image data
     await imageFile.writeAsBytes(imageData);
-
-    // Verify checksum if available
-    final checksum = sha256.convert(imageData).toString();
-
-    // Update pack cache with downloaded image
-    final cachedImage = CachedImage.create(
-      id: imageId,
-      filename: filename,
-      caption: tile.caption,
-      altText: tile.caption,
-      localPath: imagePath,
-      downloadUrl: imageUrl,
-      size: imageData.length,
-      dimensions: '400x400', // TODO: Get actual dimensions
-      format: filename.split('.').last.toUpperCase(),
-      checksum: checksum,
-    );
-
-    final updatedPackCache = packCache.addImage(cachedImage);
-    await _cacheService.savePackCache(updatedPackCache);
 
     // Mark download as completed
     _completeDownload(item);
