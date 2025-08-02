@@ -10,6 +10,7 @@ import 'package:golden_moments/data/services/http_client_service.dart';
 import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:provider/provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class AppBlocObserver extends BlocObserver {
   const AppBlocObserver();
@@ -57,6 +58,7 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
 
   // Initialize services
   await _initializeServices();
+  await _executeTaskOnFirstLaunch();
 }
 
 /// Initialize core services
@@ -64,4 +66,15 @@ Future<void> _initializeServices() async {
   await JsonCacheService().initialize();
   await DownloadManager().initialize();
   HttpClientService().initialize();
+}
+
+Future<void> _executeTaskOnFirstLaunch() async {
+  final prefs = await SharedPreferences.getInstance();
+  final alreadyLaunched = prefs.getBool('alreadyLaunched') ?? false;
+
+  if (!alreadyLaunched) {
+    await DownloadManager().downloadInitialPacks();
+
+    await prefs.setBool('alreadyLaunched', true);
+  }
 }

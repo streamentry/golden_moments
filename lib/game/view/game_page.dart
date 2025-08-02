@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -12,6 +13,7 @@ import 'package:golden_moments/game/view/widgets/game_board.dart';
 import 'package:golden_moments/game/view/widgets/game_header.dart';
 import 'package:golden_moments/shared/utils/string_util.dart';
 import 'package:provider/provider.dart';
+import 'package:share_plus/share_plus.dart';
 
 /// Game page for playing memory matching games
 class GamePage extends StatefulWidget {
@@ -30,6 +32,7 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
   Timer? _timer;
   int _elapsedSeconds = 0;
   bool _isPaused = false;
+  int _completePlayCount = 3;
 
   @override
   void initState() {
@@ -72,6 +75,36 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
     _startTimer();
   }
 
+  void _reset() {
+    _resetTimer();
+  }
+
+  void _playAgain() {
+    _timer?.cancel();
+    setState(() {
+      if (_completePlayCount == 3) {
+        _completePlayCount = 1;
+      } else {
+        _completePlayCount++;
+      }
+      _elapsedSeconds = 0;
+      _isPaused = false;
+    });
+    _startTimer();
+  }
+
+  void _shareAppLink() {
+    final link = Platform.isAndroid
+        ? 'https://play.google.com/store/apps/details?id=com.mindfulness.golden_moments'
+        // Change to ios later
+        : 'https://play.google.com/store/apps/details?id=com.mindfulness.golden_moments';
+
+    Share.share(
+      'Check out this app!\n$link',
+      subject: 'Try this app!',
+    );
+  }
+
   @override
   void dispose() {
     _timer?.cancel();
@@ -89,7 +122,7 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
   }
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext parentContext) {
     return BlocProvider(
       create: (context) => GameCubit()..loadAndStartGame(widget.gamePack.id),
       child: BlocListener<GameCubit, GameState>(
@@ -103,111 +136,98 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
             _pauseTimer();
           }
         },
-        child: GameView(
-          currentTime: formatTime(_elapsedSeconds),
-          onRestart: _resetTimer,
-        ),
-      ),
-    );
-  }
-}
-
-/// Game view widget
-class GameView extends StatelessWidget {
-  const GameView({
-    required this.currentTime,
-    required this.onRestart,
-    super.key,
-  });
-
-  final String currentTime;
-  final VoidCallback onRestart;
-
-  @override
-  Widget build(BuildContext parentContext) {
-    return PopScope(
-      onPopInvokedWithResult: (_, _) {
-        SoundService().playTap();
-      },
-      child: Scaffold(
-        appBar: AppBar(
-          title: BlocBuilder<GameCubit, GameState>(
+        child: PopScope(
+          onPopInvokedWithResult: (_, _) {
+            SoundService().playTap();
+          },
+          child: BlocBuilder<GameCubit, GameState>(
             builder: (context, state) {
-              return Text(state.currentPack.title);
+              return Scaffold(
+                appBar: AppBar(
+                  title: BlocBuilder<GameCubit, GameState>(
+                    builder: (_, state) {
+                      return Text(state.currentPack.title);
+                    },
+                  ),
+                  actions: [
+                    IconButton(
+                      icon: const Icon(Icons.pause),
+                      onPressed: () {
+                        SoundService().playTap();
+                        context.read<GameCubit>().pauseGame();
+                        _showPauseDialog(context);
+                      },
+                      tooltip: 'Pause Game',
+                    ),
+                    IconButton(
+                      icon: const Icon(Icons.replay_outlined),
+                      onPressed: () {
+                        SoundService().playTap();
+                        context.read<GameCubit>().resetGame();
+                        _reset();
+                      },
+                      tooltip: 'Replay',
+                    ),
+                    IconButton(
+                      icon: const Icon(Icons.lightbulb_outline),
+                      onPressed: () {
+                        SoundService().playTap();
+                        context.read<GameCubit>().showHint();
+                      },
+                      tooltip: 'Show Hint',
+                    ),
+                  ],
+                ),
+                body: Stack(
+                  children: [
+                    BlocListener<GameCubit, GameState>(
+                      listener: (context, state) {
+                        if (state.status == GameStatus.completed) {
+                          _showCompletionDialog(context, state);
+                          SoundService().playWinner();
+                          if (_completePlayCount == 3) {
+                            _showInviteFriendDialog(context);
+                          }
+                        }
+                      },
+                      child: BlocBuilder<GameCubit, GameState>(
+                        builder: (context, state) {
+                          switch (state.status) {
+                            case GameStatus.initial:
+                            case GameStatus.loading:
+                              return const _LoadingView();
+                            case GameStatus.playing:
+                            case GameStatus.paused:
+                              return _GamePlayView(
+                                state: state,
+                                currentTime: formatTime(_elapsedSeconds),
+                              );
+                            case GameStatus.completed:
+                              return _GamePlayView(
+                                state: state,
+                                currentTime: formatTime(_elapsedSeconds),
+                              );
+                            case GameStatus.failed:
+                              return _ErrorView(state: state);
+                            case GameStatus.requiresDownload:
+                              return _RequiresDownloadView(state: state);
+                          }
+                        },
+                      ),
+                    ),
+                    // Confetti overlay for celebrations
+                    BlocBuilder<GameCubit, GameState>(
+                      builder: (context, state) {
+                        return GmConfettiOverlay(
+                          show: state.status == GameStatus.completed,
+                        );
+                      },
+                    ),
+                  ],
+                ),
+              );
             },
           ),
-          actions: [
-            IconButton(
-              icon: const Icon(Icons.pause),
-              onPressed: () {
-                SoundService().playTap();
-                parentContext.read<GameCubit>().pauseGame();
-                _showPauseDialog(parentContext);
-              },
-              tooltip: 'Pause Game',
-            ),
-            IconButton(
-              icon: const Icon(Icons.replay_outlined),
-              onPressed: () {
-                SoundService().playTap();
-                parentContext.read<GameCubit>().resetGame();
-                onRestart();
-              },
-              tooltip: 'Replay',
-            ),
-            IconButton(
-              icon: const Icon(Icons.lightbulb_outline),
-              onPressed: () {
-                SoundService().playTap();
-                parentContext.read<GameCubit>().showHint();
-              },
-              tooltip: 'Show Hint',
-            ),
-          ],
-        ),
-        body: Stack(
-          children: [
-            BlocListener<GameCubit, GameState>(
-              listener: (context, state) {
-                if (state.status == GameStatus.completed) {
-                  _showCompletionDialog(context, state);
-                  SoundService().playWinner();
-                }
-              },
-              child: BlocBuilder<GameCubit, GameState>(
-                builder: (context, state) {
-                  switch (state.status) {
-                    case GameStatus.initial:
-                    case GameStatus.loading:
-                      return const _LoadingView();
-                    case GameStatus.playing:
-                    case GameStatus.paused:
-                      return _GamePlayView(
-                        state: state,
-                        currentTime: currentTime,
-                      );
-                    case GameStatus.completed:
-                      return _GamePlayView(
-                        state: state,
-                        currentTime: currentTime,
-                      );
-                    case GameStatus.failed:
-                      return _ErrorView(state: state);
-                    case GameStatus.requiresDownload:
-                      return _RequiresDownloadView(state: state);
-                  }
-                },
-              ),
-            ),
-            // Confetti overlay for celebrations
-            BlocBuilder<GameCubit, GameState>(
-              builder: (context, state) {
-                return GmConfettiOverlay(
-                  show: state.status == GameStatus.completed,
-                );
-              },
-            ),
-          ],
         ),
       ),
     );
@@ -292,7 +312,7 @@ class GameView extends StatelessWidget {
 
   void _showCompletionDialog(BuildContext parentContext, GameState state) {
     // Use the current formatted time from the stopwatch
-    final timeText = currentTime;
+    final timeText = formatTime(_elapsedSeconds);
 
     showDialog<void>(
       context: parentContext,
@@ -330,7 +350,7 @@ class GameView extends StatelessWidget {
             onTap: () {
               Navigator.of(context).pop();
               parentContext.read<GameCubit>().resetGame();
-              onRestart();
+              _playAgain();
             },
           ),
           const SizedBox(height: gmSpaceSm),
@@ -344,6 +364,131 @@ class GameView extends StatelessWidget {
         ],
       ),
     );
+  }
+
+  void _showInviteFriendDialog(BuildContext parentContext) {
+    Timer? autoCloseTimer;
+    final remainingTime = ValueNotifier<int>(15);
+
+    showDialog<void>(
+      context: parentContext,
+      barrierDismissible: false,
+      builder: (dialogContext) {
+        autoCloseTimer = Timer.periodic(const Duration(seconds: 1), (timer) {
+          if (remainingTime.value > 0) {
+            remainingTime.value--;
+          } else {
+            timer.cancel();
+            if (Navigator.of(dialogContext).canPop()) {
+              Navigator.of(dialogContext).pop();
+            }
+          }
+        });
+
+        return ValueListenableBuilder<int>(
+          valueListenable: remainingTime,
+          builder: (context, timeLeft, child) {
+            return Dialog(
+              child: Container(
+                width: MediaQuery.of(context).size.width * 0.9,
+                padding: const EdgeInsets.all(gmSpaceLg),
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    // Title section with progress bar
+                    Column(
+                      children: [
+                        const Text(
+                          'Invite a Friend',
+                          style: TextStyle(
+                            fontSize: 24,
+                            fontWeight: FontWeight.bold,
+                          ),
+                          textAlign: TextAlign.center,
+                        ),
+                        const SizedBox(height: gmSpaceMd),
+                        TweenAnimationBuilder<double>(
+                          tween: Tween<double>(
+                            begin: 1.0,
+                            end: timeLeft / 15,
+                          ),
+                          duration: const Duration(seconds: 1),
+                          builder: (context, value, child) {
+                            return LinearProgressIndicator(
+                              value: value,
+                              backgroundColor: Colors.grey[300],
+                              valueColor: const AlwaysStoppedAnimation<Color>(
+                                Colors.green,
+                              ),
+                            );
+                          },
+                        ),
+                        const SizedBox(height: gmSpaceSm),
+                        Text(
+                          'Auto-closing in $timeLeft seconds',
+                          style: TextStyle(
+                            fontSize: 12,
+                            color: Colors.grey[600],
+                          ),
+                        ),
+                      ],
+                    ),
+
+                    const SizedBox(height: gmSpaceLg),
+
+                    // Icon
+                    Container(
+                      padding: const EdgeInsets.all(gmSpaceMd),
+                      decoration: BoxDecoration(
+                        color: Colors.green.withValues(alpha: 0.1),
+                        borderRadius: BorderRadius.circular(50),
+                      ),
+                      child: const Icon(
+                        Icons.group_add,
+                        size: 48,
+                        color: Colors.green,
+                      ),
+                    ),
+
+                    const SizedBox(height: gmSpaceLg),
+
+                    // Content
+                    const Text(
+                      'Share the Golden Moments!',
+                      style: TextStyle(
+                        fontSize: 20,
+                        fontWeight: FontWeight.w600,
+                      ),
+                      textAlign: TextAlign.center,
+                    ),
+                    const SizedBox(height: gmSpaceMd),
+                    const Text(
+                      'You\'ve completed 3 memory games! 🎉\n\nWhy not invite your friends and family to join the fun? Share precious memories together and challenge each other in this delightful memory game.',
+                      style: TextStyle(fontSize: 16),
+                      textAlign: TextAlign.center,
+                    ),
+
+                    const SizedBox(height: gmSpaceLg),
+
+                    // Buttons
+                    GmPrimaryButton(
+                      label: 'Invite Friends',
+                      onTap: () {
+                        _shareAppLink();
+                        Navigator.of(context).pop();
+                      },
+                    ),
+                  ],
+                ),
+              ),
+            );
+          },
+        );
+      },
+    ).then((_) {
+      autoCloseTimer?.cancel();
+      remainingTime.dispose();
+    });
   }
 }
 

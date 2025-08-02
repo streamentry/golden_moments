@@ -19,6 +19,8 @@ javascript
 
 
 ──────────────────────────────────────────────────────────────────────────────*/
+import 'dart:math';
+
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
@@ -298,15 +300,26 @@ class RotationYTransition extends AnimatedWidget {
     required Animation<double> turns,
     required this.child,
   }) : super(key: key, listenable: turns);
+
   final Widget child;
+
   @override
   Widget build(BuildContext context) {
     final double val = (listenable as Animation<double>).value;
-    final Matrix4 transform = Matrix4.rotationY(val * 3.1416); // 0 → 180°
+    final Matrix4 transform = Matrix4.identity()
+      ..setEntry(3, 2, 0.001) // Perspective
+      ..rotateY(val * 3.1416); // 0 → 180°
+
     return Transform(
       transform: transform,
       alignment: Alignment.center,
-      child: child,
+      child: val <= 0.5
+          ? child
+          : Transform(
+              transform: Matrix4.rotationY(3.1416),
+              alignment: Alignment.center,
+              child: child,
+            ),
     );
   }
 }

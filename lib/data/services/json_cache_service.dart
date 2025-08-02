@@ -121,12 +121,6 @@ class JsonCacheService {
     return fileManager.fileExists(CacheFilePaths.packCacheFile(packId));
   }
 
-  /// Check if pack is expired
-  Future<bool> isPackExpired(String packId) async {
-    final packCache = await loadPackCache(packId);
-    return packCache?.isExpired ?? true;
-  }
-
   /// Get all cached pack IDs
   Future<List<String>> getCachedPackIds() async {
     final packFiles = await fileManager.listFiles(
@@ -136,27 +130,6 @@ class JsonCacheService {
         .where((file) => file.endsWith('.json'))
         .map((file) => file.substring(0, file.length - 5)) // Remove .json
         .toList();
-  }
-
-  /// Clean expired cache entries
-  Future<void> cleanExpiredCache() async {
-    final cacheIndex = await loadCacheIndex();
-    final expiredPacks = cacheIndex.getExpiredPacks();
-
-    for (final pack in expiredPacks) {
-      await _deletePackCompletely(pack.id);
-    }
-
-    // Update cache index
-    final updatedIndex = expiredPacks.fold(
-      cacheIndex,
-      (index, pack) => index.removePack(pack.id),
-    );
-
-    await saveCacheIndex(updatedIndex.copyWith(lastCleanup: DateTime.now()));
-
-    // Update cache stats
-    await _updateCacheStats();
   }
 
   /// Clear all cache
@@ -178,28 +151,6 @@ class JsonCacheService {
     return fileManager.getDirectorySize('');
   }
 
-  /// Get cache statistics with current data
-  Future<CacheStats> getCurrentCacheStats() async {
-    final stats = await loadCacheStats();
-    final totalSize = await getCacheSize();
-    final cachedPackIds = await getCachedPackIds();
-
-    // Count total images
-    int totalImages = 0;
-    for (final packId in cachedPackIds) {
-      final packCache = await loadPackCache(packId);
-      if (packCache != null) {
-        totalImages += packCache.images.length;
-      }
-    }
-
-    return stats.copyWith(
-      totalCacheSize: totalSize,
-      totalPacks: cachedPackIds.length,
-      totalImages: totalImages,
-    );
-  }
-
   /// Delete pack completely (cache file and images)
   Future<void> _deletePackCompletely(String packId) async {
     // Delete pack cache file
@@ -213,12 +164,6 @@ class JsonCacheService {
     if (await directory.exists()) {
       await directory.delete(recursive: true);
     }
-  }
-
-  /// Update cache statistics
-  Future<void> _updateCacheStats() async {
-    final currentStats = await getCurrentCacheStats();
-    await saveCacheStats(currentStats);
   }
 
   /// Validate cache integrity
