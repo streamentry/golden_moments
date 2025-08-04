@@ -6,8 +6,8 @@ import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
 import 'package:golden_moments/data/storage/cache_file_paths.dart';
-import 'package:golden_moments/game/cubit/game_state.dart';
-import 'package:golden_moments/game/cubit/tile_state.dart';
+import 'package:golden_moments/features/game/cubit/game_state.dart';
+import 'package:golden_moments/features/game/cubit/tile_state.dart';
 import 'package:golden_moments/shared/constants/app_constants.dart';
 import 'package:golden_moments/shared/utils/image_util.dart';
 

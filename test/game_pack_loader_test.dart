@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter/services.dart';
 import 'package:golden_moments/game/services/game_pack_loader.dart';
-import 'package:golden_moments/game/models/models.dart';
+import 'package:golden_moments/features/game/models/models.dart';
 import 'package:path_provider_platform_interface/path_provider_platform_interface.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 

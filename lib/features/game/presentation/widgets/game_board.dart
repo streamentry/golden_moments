@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/design_system.dart';
-import 'package:golden_moments/game/cubit/tile_state.dart';
-import 'package:golden_moments/game/view/widgets/memory_tile.dart';
+import 'package:golden_moments/features/game/cubit/tile_state.dart';
+import 'package:golden_moments/features/game/presentation/widgets/memory_tile.dart';
 
 /// Game board widget that displays the memory tiles in a grid
 class GameBoard extends StatelessWidget {

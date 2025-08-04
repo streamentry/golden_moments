@@ -7,7 +7,7 @@ import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/download_manager.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
-import 'package:golden_moments/game/game.dart';
+import 'package:golden_moments/features/game/game.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
 import 'package:percent_indicator/flutter_percent_indicator.dart';
 

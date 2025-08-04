@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
-import 'package:golden_moments/game/cubit/tile_state.dart';
+import 'package:golden_moments/features/game/cubit/tile_state.dart';
 import 'package:golden_moments/shared/utils/image_util.dart';
 
 /// Individual memory tile widget using the design system

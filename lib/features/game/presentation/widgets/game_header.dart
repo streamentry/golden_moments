@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
-import 'package:golden_moments/game/cubit/game_state.dart';
+import 'package:golden_moments/features/game/cubit/game_state.dart';
 
 /// Header widget showing game statistics and progress
 class GameHeader extends StatelessWidget {

@@ -2,7 +2,7 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/design_system.dart';
-import 'package:golden_moments/features/pack/presentation/pack_page.dart';
+import 'package:golden_moments/features/pack/presentation/screens/pack_page.dart';
 import 'package:golden_moments/shared/widgets/download_progress_card.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
 

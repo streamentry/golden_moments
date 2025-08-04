@@ -3,8 +3,8 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:golden_moments/app/cubit/navigation_cubit.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
-import 'package:golden_moments/features/download_manager/view/download_manager_page.dart';
-import 'package:golden_moments/home/view/home_page.dart';
+import 'package:golden_moments/features/download_manager/presentation/screens/download_manager_page.dart';
+import 'package:golden_moments/features/home/presentation/screens/home_page.dart';
 import 'package:golden_moments/shared/widgets/offline_indicator.dart';
 
 /// Main navigation wrapper with bottom navigation bar
