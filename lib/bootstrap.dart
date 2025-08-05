@@ -64,9 +64,15 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
     ),
   );
 
-  // Initialize services
-  await _initializeServices();
-  await _executeTaskOnFirstLaunch();
+  // Initialize services with error handling
+  try {
+    await _initializeServices();
+    await _executeTaskOnFirstLaunch();
+  } catch (e, stackTrace) {
+    log('Service initialization failed: $e', stackTrace: stackTrace);
+    // Continue app execution even if services fail to initialize
+    // This allows the app to run in limited mode
+  }
 }
 
 /// Initialize core services

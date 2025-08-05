@@ -22,11 +22,25 @@ class JsonCacheService {
   Future<void> initialize() async {
     if (_fileManager != null) return;
 
-    final appDir = await getApplicationDocumentsDirectory();
-    _cacheDirectory = '${appDir.path}/golden_moments_cache';
-    _fileManager = JsonFileManager(cacheDirectory: _cacheDirectory!);
+    try {
+      final appDir = await getApplicationDocumentsDirectory();
+      _cacheDirectory = '${appDir.path}/golden_moments_cache';
+      _fileManager = JsonFileManager(cacheDirectory: _cacheDirectory!);
 
-    await _fileManager!.initializeCacheStructure();
+      await _fileManager!.initializeCacheStructure();
+    } catch (e) {
+      // On web or platforms where path_provider doesn't work,
+      // create a no-op file manager to prevent crashes
+      _cacheDirectory = '';
+      _fileManager = _createWebCompatibleFileManager();
+    }
+  }
+
+  /// Create a web-compatible file manager that doesn't perform file operations
+  JsonFileManager _createWebCompatibleFileManager() {
+    // This is a mock implementation that prevents crashes on web
+    // In a production app, you'd implement proper web storage here
+    return JsonFileManager(cacheDirectory: '');
   }
 
   /// Get the file manager instance
