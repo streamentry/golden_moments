@@ -42,7 +42,15 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
 
   Bloc.observer = const AppBlocObserver();
 
-  await Firebase.initializeApp();
+  // Initialize Firebase with error handling
+  try {
+    await Firebase.initializeApp();
+    log('Firebase initialized successfully');
+  } catch (e, stackTrace) {
+    log('Firebase initialization failed: $e', stackTrace: stackTrace);
+    // Continue app initialization even if Firebase fails
+    // This allows the app to run in development mode without proper Firebase config
+  }
 
   // Add cross-flavor configuration here
   final soundSettings = SoundSettings();

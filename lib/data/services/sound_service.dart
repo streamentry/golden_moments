@@ -44,14 +44,14 @@ class SoundService with WidgetsBindingObserver {
     // Listen to changes to auto-play/stop music
     _soundSettings.addListener(_onSettingsChanged);
 
-    if (_soundSettings.isMusicOn) {
-      await playMusic();
-    }
+    // Don't auto-play music on initialization to avoid browser restrictions
+    // Music will be played when user interacts with the app
   }
 
   void _onSettingsChanged() {
     if (_soundSettings.isMusicOn) {
-      playMusic();
+      // Don't auto-play music on settings change
+      // Let user interaction trigger music playback
     } else {
       _musicPlayer.stop();
     }
@@ -60,19 +60,25 @@ class SoundService with WidgetsBindingObserver {
   Future<void> _playAsset(String assetPath, {bool isMusic = false}) async {
     if (isMusic && !_soundSettings.isMusicOn) return;
     if (!isMusic && !_soundSettings.isSoundOn) return;
-    if (isMusic) {
-      switch (_musicPlayer.state) {
-        case PlayerState.paused:
-          await _musicPlayer.resume();
-        case PlayerState.stopped:
-        case PlayerState.completed:
-        case PlayerState.disposed:
-          await _musicPlayer.play(AssetSource(assetPath));
-        case PlayerState.playing:
+    
+    try {
+      if (isMusic) {
+        switch (_musicPlayer.state) {
+          case PlayerState.paused:
+            await _musicPlayer.resume();
+          case PlayerState.stopped:
+          case PlayerState.completed:
+          case PlayerState.disposed:
+            await _musicPlayer.play(AssetSource(assetPath));
+          case PlayerState.playing:
+        }
+      } else {
+        // Use a separate player for sound effects to avoid disrupting music
+        await _soundPlayer.play(AssetSource(assetPath));
       }
-    } else {
-      // Use a separate player for sound effects to avoid disrupting music
-      await _soundPlayer.play(AssetSource(assetPath));
+    } catch (e) {
+      // Silently handle audio playback errors (e.g., browser auto-play restrictions)
+      // This prevents crashes while allowing the app to continue functioning
     }
   }
 
