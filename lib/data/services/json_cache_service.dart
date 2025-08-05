@@ -1,5 +1,6 @@
 import 'dart:io';
 
+import 'package:flutter/foundation.dart';
 import 'package:path_provider/path_provider.dart';
 
 import '../models/cache_index.dart';
@@ -8,6 +9,7 @@ import '../models/download_queue.dart';
 import '../models/pack_cache.dart';
 import '../storage/cache_file_paths.dart';
 import '../storage/json_file_manager.dart';
+import '../storage/web_json_file_manager.dart';
 
 /// JSON-based cache service for managing pack and image cache
 class JsonCacheService {
@@ -15,7 +17,7 @@ class JsonCacheService {
   JsonCacheService._internal();
   static final JsonCacheService _instance = JsonCacheService._internal();
 
-  JsonFileManager? _fileManager;
+  dynamic _fileManager; // Can be JsonFileManager or WebJsonFileManager
   String? _cacheDirectory;
 
   /// Initialize the cache service
@@ -37,14 +39,17 @@ class JsonCacheService {
   }
 
   /// Create a web-compatible file manager that doesn't perform file operations
-  JsonFileManager _createWebCompatibleFileManager() {
-    // This is a mock implementation that prevents crashes on web
-    // In a production app, you'd implement proper web storage here
+  dynamic _createWebCompatibleFileManager() {
+    // Use WebJsonFileManager for web platforms
+    if (kIsWeb) {
+      return WebJsonFileManager(cacheDirectory: 'golden_moments_cache');
+    }
+    // Fallback for other platforms
     return JsonFileManager(cacheDirectory: '');
   }
 
   /// Get the file manager instance
-  JsonFileManager get fileManager {
+  dynamic get fileManager {
     if (_fileManager == null) {
       throw StateError(
         'JsonCacheService not initialized. Call initialize() first.',
@@ -170,13 +175,20 @@ class JsonCacheService {
     // Delete pack cache file
     await deletePackCache(packId);
 
-    // Delete pack images directory
-    final imagesDir = CacheFilePaths.packImagesDirectory(packId);
-    final imagesDirPath = fileManager.getCachePath(imagesDir);
-    final directory = Directory(imagesDirPath);
+    // Delete pack images directory (only on non-web platforms)
+    if (!kIsWeb) {
+      try {
+        final imagesDir = CacheFilePaths.packImagesDirectory(packId);
+        final imagesDirPath = fileManager.getCachePath(imagesDir);
+        final directory = Directory(imagesDirPath);
 
-    if (await directory.exists()) {
-      await directory.delete(recursive: true);
+        if (await directory.exists()) {
+          await directory.delete(recursive: true);
+        }
+      } catch (e) {
+        // Ignore directory deletion errors on web
+        print('Error deleting pack images directory: $e');
+      }
     }
   }
 

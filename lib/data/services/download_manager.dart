@@ -1,7 +1,6 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:crypto/crypto.dart';
 import 'package:disk_space_plus/disk_space_plus.dart';
 import 'package:flutter/foundation.dart';
 import 'package:golden_moments/data/models/download_error.dart';
@@ -159,10 +158,10 @@ class DownloadManager extends ChangeNotifier {
 
       notifyListeners();
       pooled.release();
-    } catch (e) {
+    } on Exception catch (e) {
       throw e is DownloadError
           ? e
-          : DownloadError.unknown(packId, e.toString());
+          : DownloadError.unknown('pack:$packId', e.toString());
     }
   }
 
@@ -257,16 +256,23 @@ class DownloadManager extends ChangeNotifier {
       },
     );
 
-    // Save image to cache
-    final imagePath = CacheFilePaths.imageFile(packId, filename);
-    final fullPath = _cacheService.fileManager.getCachePath(imagePath);
-    final imageFile = File(fullPath);
+    // Save image to cache (skip on web for now)
+    if (!kIsWeb) {
+      try {
+        final imagePath = CacheFilePaths.imageFile(packId, filename);
+        final fullPath = _cacheService.fileManager.getCachePath(imagePath);
+        final imageFile = File(fullPath);
 
-    // Ensure directory exists
-    await imageFile.parent.create(recursive: true);
+        // Ensure directory exists
+        await imageFile.parent.create(recursive: true);
 
-    // Write image data
-    await imageFile.writeAsBytes(imageData);
+        // Write image data
+        await imageFile.writeAsBytes(imageData);
+      } on Exception catch (e) {
+        // On web, we can't save files directly
+        debugPrint('Could not save image file (web platform): $e');
+      }
+    }
 
     // Mark download as completed
     _completeDownload(item);
@@ -282,10 +288,10 @@ class DownloadManager extends ChangeNotifier {
   }
 
   /// Handle download error
-  Future<void> _handleDownloadError(DownloadItem item, dynamic error) async {
+  Future<void> _handleDownloadError(DownloadItem item, Exception error) async {
     final downloadError = error is DownloadError
         ? error
-        : DownloadError.unknown(item.id, error.toString());
+        : DownloadError.unknown(item.imageUrl, error.toString());
 
     // Update queue with failure
     final queue = await _cacheService.loadDownloadQueue();
@@ -320,25 +326,45 @@ class DownloadManager extends ChangeNotifier {
   }
 
   Future<bool> checkFreeSpaceBeforeDownload(int downloadFileSizeInBytes) async {
-    final diskSpacePlus = DiskSpacePlus();
-    final freeDiskSpace = await diskSpacePlus.getFreeDiskSpace ?? 0;
-    if ((freeDiskSpace * 1024 * 1024) >
-        downloadFileSizeInBytes + 200 * 1024 * 1024) {
+    // On web, always return true to prevent blocking downloads
+    if (kIsWeb) {
       return true;
-    } else {
-      return false;
+    }
+    
+    try {
+      final diskSpacePlus = DiskSpacePlus();
+      final freeDiskSpace = await diskSpacePlus.getFreeDiskSpace ?? 0;
+      if ((freeDiskSpace * 1024 * 1024) >
+          downloadFileSizeInBytes + 200 * 1024 * 1024) {
+        return true;
+      } else {
+        return false;
+      }
+    } catch (e) {
+      // On platforms where disk space check isn't available,
+      // assume there's enough space to prevent blocking downloads
+      return true;
     }
   }
 
   /// Delete a pack
   Future<void> deletePack(String packId) async {
-    final pack = await _localPackService.getPackById(packId);
-    for (final image in pack.images) {
-      final file = File(getImageLocalPath(image.id, packId));
-      if (file.existsSync()) {
-        await file.delete();
+    // Only try to delete files on non-web platforms
+    if (!kIsWeb) {
+      try {
+        final pack = await _localPackService.getPackById(packId);
+        for (final image in pack.images) {
+          final file = File(getImageLocalPath(image.id, packId));
+          if (file.existsSync()) {
+            await file.delete();
+          }
+        }
+      } on Exception catch (e) {
+        // Ignore file deletion errors on web
+        debugPrint('Error deleting pack files: $e');
       }
     }
+    
     await _cacheService.deletePackCache(packId);
     _packsStatus[packId] = PackStatus.notStarted;
     _packStatusController.add(MapEntry(packId, PackStatus.notStarted));
