@@ -99,8 +99,7 @@ This script:
    # 
    # Update in Xcode project settings:
    # Production: com.mindfulness.goldenmoments
-   # Development: com.mindfulness.goldenmoments.dev  
-   # Staging: com.mindfulness.goldenmoments.stg
+   
    # 
    # Ensure App Store Connect uses: com.mindfulness.goldenmoments
    ```
