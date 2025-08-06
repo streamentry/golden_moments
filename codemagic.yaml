@@ -1,0 +1,193 @@
+workflows:
+  # Development workflow - triggers on any branch except main/master
+  development:
+    name: Development Build
+    max_build_duration: 60
+    instance_type: mac_mini_m1
+    triggering:
+      events:
+        - push
+      branch_patterns:
+        - pattern: '*'
+          include: true
+          source: true
+        - pattern: 'main'
+          include: false
+          source: true
+        - pattern: 'master'
+          include: false
+          source: true
+    environment:
+      android_signing:
+        - golden_moments_keystore
+      ios_signing:
+        distribution_type: development
+        bundle_identifier: com.mindfulness.golden_moments
+      vars:
+        FLUTTER_VERSION: 3.8.0
+        XCODE_WORKSPACE: "Runner.xcworkspace"
+        XCODE_SCHEME: "Runner"
+      flutter: stable
+      java: 17
+      ruby: default
+    scripts:
+      - name: Get Flutter packages
+        script: |
+          flutter packages pub get
+      - name: Flutter analyze
+        script: |
+          flutter analyze --fatal-infos
+      - name: Run Flutter tests
+        script: |
+          flutter test
+      - name: Build APK (Development)
+        script: |
+          flutter build apk --release --flavor development --target lib/main.dart
+      - name: Build iOS (Development) 
+        script: |
+          flutter build ios --release --no-codesign --flavor development
+          xcode-project use-profiles
+          xcode-project build-ipa \
+            --workspace ios/Runner.xcworkspace \
+            --scheme Runner \
+            --config Release-development
+    artifacts:
+      - build/**/outputs/**/*.apk
+      - build/**/outputs/**/mapping.txt
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+      - flutter_drive.log
+    publishing:
+      email:
+        recipients:
+          - cschanhniem@gmail.com
+        notify:
+          success: true
+          failure: true
+      firebase:
+        firebase_token: $FIREBASE_TOKEN
+        android:
+          app_id: 1:123456789012:android:abcdef123456
+          groups:
+            - testers
+        ios:
+          app_id: 1:123456789012:ios:abcdef123456
+          groups:
+            - testers
+
+  # Production workflow - triggers on main/master branch
+  production:
+    name: Production Build
+    max_build_duration: 90
+    instance_type: mac_mini_m1
+    triggering:
+      events:
+        - push
+        - tag
+      branch_patterns:
+        - pattern: 'main'
+          include: true
+          source: true
+        - pattern: 'master'
+          include: true
+          source: true
+    environment:
+      android_signing:
+        - golden_moments_keystore
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: com.mindfulness.golden_moments
+      vars:
+        FLUTTER_VERSION: 3.8.0
+        XCODE_WORKSPACE: "Runner.xcworkspace"
+        XCODE_SCHEME: "Runner"
+        APP_STORE_CONNECT_ISSUER_ID: $APP_STORE_CONNECT_ISSUER_ID
+        APP_STORE_CONNECT_KEY_IDENTIFIER: $APP_STORE_CONNECT_KEY_IDENTIFIER  
+        APP_STORE_CONNECT_PRIVATE_KEY: $APP_STORE_CONNECT_PRIVATE_KEY
+        GOOGLE_PLAY_TRACK: internal
+      flutter: stable
+      java: 17
+      ruby: default
+    scripts:
+      - name: Get Flutter packages
+        script: |
+          flutter packages pub get
+      - name: Flutter analyze
+        script: |
+          flutter analyze --fatal-infos
+      - name: Run Flutter tests
+        script: |
+          flutter test --coverage
+      - name: Build APK (Production)
+        script: |
+          flutter build apk --release --flavor production --target lib/main.dart
+      - name: Build AAB (Production)
+        script: |
+          flutter build appbundle --release --flavor production --target lib/main.dart
+      - name: Build iOS (Production)
+        script: |
+          flutter build ios --release --no-codesign --flavor production
+          xcode-project use-profiles
+          xcode-project build-ipa \
+            --workspace ios/Runner.xcworkspace \
+            --scheme Runner \
+            --config Release-production
+    artifacts:
+      - build/**/outputs/**/*.apk
+      - build/**/outputs/**/*.aab
+      - build/**/outputs/**/mapping.txt
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+      - flutter_drive.log
+      - coverage/lcov.info
+    publishing:
+      email:
+        recipients:
+          - cschanhniem@gmail.com
+        notify:
+          success: true
+          failure: true
+      google_play:
+        credentials: $GCLOUD_SERVICE_ACCOUNT_CREDENTIALS
+        track: internal
+        submit_as_draft: true
+      app_store_connect:
+        auth: integration
+        submit_to_testflight: true
+        beta_groups:
+          - Internal Testing
+        submit_to_app_store: false
+
+  # PR Workflow - runs on pull requests
+  pull_request:
+    name: Pull Request Check
+    max_build_duration: 30
+    instance_type: mac_mini_m1
+    triggering:
+      events:
+        - pull_request
+    environment:
+      vars:
+        FLUTTER_VERSION: 3.8.0
+      flutter: stable
+      java: 17
+    scripts:
+      - name: Get Flutter packages
+        script: |
+          flutter packages pub get
+      - name: Flutter analyze
+        script: |
+          flutter analyze --fatal-infos
+      - name: Run Flutter tests
+        script: |
+          flutter test
+      - name: Check formatting
+        script: |
+          dart format --set-exit-if-changed lib/ test/
+    publishing:
+      email:
+        recipients:
+          - cschanhniem@gmail.com
+        notify:
+          success: false
+          failure: true
