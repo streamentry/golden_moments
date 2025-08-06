@@ -64,16 +64,6 @@ workflows:
         notify:
           success: true
           failure: true
-      firebase:
-        firebase_token: $FIREBASE_TOKEN
-        android:
-          app_id: 1:123456789012:android:abcdef123456
-          groups:
-            - testers
-        ios:
-          app_id: 1:123456789012:ios:abcdef123456
-          groups:
-            - testers
 
   # Production workflow with Fastlane - triggers on main/master branch
   production:
