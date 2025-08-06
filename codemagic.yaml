@@ -20,8 +20,6 @@ workflows:
     environment:
       android_signing:
         - golden_moments_keystore
-      groups:
-        - fastlane_env # Environment variables group for Fastlane
       vars:
         FLUTTER_VERSION: 3.8.0
         XCODE_WORKSPACE: "Runner.xcworkspace"
@@ -96,8 +94,6 @@ workflows:
     environment:
       android_signing:
         - golden_moments_keystore
-      groups:
-        - fastlane_env # Environment variables group for Fastlane
       vars:
         FLUTTER_VERSION: 3.8.0
         XCODE_WORKSPACE: "Runner.xcworkspace"
