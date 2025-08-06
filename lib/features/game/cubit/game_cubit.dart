@@ -6,6 +6,7 @@ import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
 import 'package:golden_moments/data/storage/cache_file_paths.dart';
+import 'package:golden_moments/data/storage/json_file_manager.dart';
 import 'package:golden_moments/features/game/cubit/game_state.dart';
 import 'package:golden_moments/features/game/cubit/tile_state.dart';
 import 'package:golden_moments/shared/constants/app_constants.dart';
@@ -45,9 +46,15 @@ class GameCubit extends Cubit<GameState> {
       for (var i = 0; i < pack.images.length; i++) {
         final fileName = '${pack.images[i].id}.jpg';
         final imagePath = CacheFilePaths.imageFile(packId, fileName);
-        final fullPath = JsonCacheService().fileManager.getCachePath(imagePath);
-        if (await isImageValid(fullPath)) {
-          images.add(pack.images[i]);
+        final dynamic rawManager = JsonCacheService().fileManager;
+        if (rawManager is JsonFileManager) {
+          final jsonManager = rawManager;
+          final fullPath = jsonManager.getCachePath(
+            imagePath,
+          );
+          if (await isImageValid(fullPath)) {
+            images.add(pack.images[i]);
+          }
         }
       }
 

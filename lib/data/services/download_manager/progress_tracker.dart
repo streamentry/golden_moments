@@ -35,12 +35,12 @@ class ProgressTracker extends ChangeNotifier {
 
     final packProgress = _packsProgress[packId]!;
     final imageProgresses = packProgress.imageProgresses;
-    
+
     // Find and update the specific image progress
     final index = imageProgresses.indexWhere(
       (progress) => progress.imageId == imageProgress.imageId,
     );
-    
+
     if (index != -1) {
       imageProgresses[index] = imageProgress;
       notifyListeners();
@@ -82,7 +82,9 @@ class ProgressTracker extends ChangeNotifier {
     if (packProgress == null) return 0;
 
     return packProgress.imageProgresses
-        .where((progress) => progress.status == DownloadProgressStatus.completed)
+        .where(
+          (progress) => progress.status == DownloadProgressStatus.completed,
+        )
         .length;
   }
 
@@ -97,7 +99,9 @@ class ProgressTracker extends ChangeNotifier {
     if (packProgress == null) return 0.0;
 
     final activeDownloads = packProgress.imageProgresses
-        .where((progress) => progress.status == DownloadProgressStatus.downloading)
+        .where(
+          (progress) => progress.status == DownloadProgressStatus.downloading,
+        )
         .toList();
 
     if (activeDownloads.isEmpty) return 0.0;
@@ -115,7 +119,9 @@ class ProgressTracker extends ChangeNotifier {
     if (packProgress == null) return null;
 
     final activeDownloads = packProgress.imageProgresses
-        .where((progress) => progress.status == DownloadProgressStatus.downloading)
+        .where(
+          (progress) => progress.status == DownloadProgressStatus.downloading,
+        )
         .toList();
 
     if (activeDownloads.isEmpty) return null;
@@ -194,5 +200,6 @@ class DownloadStatistics {
   final double totalDownloadSpeed;
 
   double get packProgress => totalPacks > 0 ? completedPacks / totalPacks : 0.0;
-  double get imageProgress => totalImages > 0 ? completedImages / totalImages : 0.0;
+  double get imageProgress =>
+      totalImages > 0 ? completedImages / totalImages : 0.0;
 }

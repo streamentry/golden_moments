@@ -7,6 +7,7 @@ import '../models/cache_index.dart';
 import '../models/cache_stats.dart';
 import '../models/download_queue.dart';
 import '../models/pack_cache.dart';
+import '../storage/base_json_file_manager.dart';
 import '../storage/cache_file_paths.dart';
 import '../storage/json_file_manager.dart';
 import '../storage/web_json_file_manager.dart';
@@ -17,7 +18,7 @@ class JsonCacheService {
   JsonCacheService._internal();
   static final JsonCacheService _instance = JsonCacheService._internal();
 
-  dynamic _fileManager; // Can be JsonFileManager or WebJsonFileManager
+  BaseJsonFileManager? _fileManager;
   String? _cacheDirectory;
 
   /// Initialize the cache service
@@ -39,7 +40,7 @@ class JsonCacheService {
   }
 
   /// Create a web-compatible file manager that doesn't perform file operations
-  dynamic _createWebCompatibleFileManager() {
+  BaseJsonFileManager _createWebCompatibleFileManager() {
     // Use WebJsonFileManager for web platforms
     if (kIsWeb) {
       return WebJsonFileManager(cacheDirectory: 'golden_moments_cache');
@@ -49,7 +50,7 @@ class JsonCacheService {
   }
 
   /// Get the file manager instance
-  dynamic get fileManager {
+  BaseJsonFileManager get fileManager {
     if (_fileManager == null) {
       throw StateError(
         'JsonCacheService not initialized. Call initialize() first.',
@@ -72,7 +73,7 @@ class JsonCacheService {
     await fileManager.saveJsonFile(
       CacheFilePaths.cacheIndex,
       index,
-      (data) => data.toJson(),
+      (CacheIndex data) => data.toJson(),
     );
   }
 
@@ -90,7 +91,7 @@ class JsonCacheService {
     await fileManager.saveJsonFile(
       CacheFilePaths.cacheStats,
       stats,
-      (data) => data.toJson(),
+      (CacheStats data) => data.toJson(),
     );
   }
 
@@ -108,7 +109,7 @@ class JsonCacheService {
     await fileManager.saveJsonFile(
       CacheFilePaths.downloadQueue,
       queue,
-      (data) => data.toJson(),
+      (DownloadQueue data) => data.toJson(),
     );
   }
 
@@ -126,7 +127,7 @@ class JsonCacheService {
     await fileManager.saveJsonFile(
       CacheFilePaths.packCacheFile(packCache.id),
       packCache,
-      (data) => data.toJson(),
+      (PackCache data) => data.toJson(),
     );
   }
 
@@ -146,8 +147,10 @@ class JsonCacheService {
       CacheFilePaths.packsDirectory,
     );
     return packFiles
-        .where((file) => file.endsWith('.json'))
-        .map((file) => file.substring(0, file.length - 5)) // Remove .json
+        .where((String file) => file.endsWith('.json'))
+        .map(
+          (String file) => file.substring(0, file.length - 5),
+        ) // Remove .json
         .toList();
   }
 
