@@ -14,9 +14,15 @@ class HomeCubit extends Cubit<HomeState> {
 
   /// Initialize the home screen with data
   Future<void> initialize() async {
-    await FirebaseAnalytics.instance.logScreenView(
-      screenName: 'Home',
-    );
+    // Try to log screen view, but don't fail if Firebase isn't available
+    try {
+      await FirebaseAnalytics.instance.logScreenView(
+        screenName: 'Home',
+      );
+    } catch (e) {
+      // Silently ignore Firebase Analytics errors
+      // This allows the app to work without Firebase
+    }
 
     emit(state.copyWith(status: HomeStatus.loading));
 

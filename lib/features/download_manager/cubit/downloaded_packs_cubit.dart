@@ -14,9 +14,16 @@ class DownloadedPacksCubit extends Cubit<DownloadedPacksState> {
 
   /// Initialize the home screen with data
   Future<void> initialize() async {
-    await FirebaseAnalytics.instance.logScreenView(
-      screenName: 'Downloaded',
-    );
+    // Try to log screen view, but don't fail if Firebase isn't available
+    try {
+      await FirebaseAnalytics.instance.logScreenView(
+        screenName: 'Downloaded',
+      );
+    } catch (e) {
+      // Silently ignore Firebase Analytics errors
+      // This allows the app to work without Firebase
+    }
+
     emit(state.copyWith(status: DownloadedPacksPageStatus.loading));
 
     // Load all packs

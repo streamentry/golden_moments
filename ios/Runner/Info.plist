@@ -43,7 +43,15 @@
 	</array>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
-	<key>UIApplicationSupportsIndirectInputEvents</key>
-	<true/>
+<key>UIApplicationSupportsIndirectInputEvents</key>
+<true/>
+<key>UIRequiredDeviceCapabilities</key>
+<array>
+	<string>arm64</string>
+</array>
+<key>UIRequiresPersistentWiFi</key>
+<false/>
+<key>LSApplicationCategoryType</key>
+<string>public.app-category.games</string>
 </dict>
 </plist>
