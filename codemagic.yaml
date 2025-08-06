@@ -18,8 +18,6 @@ workflows:
           include: false
           source: true
     environment:
-      android_signing:
-        - golden_moments_keystore
       vars:
         FLUTTER_VERSION: 3.8.0
         XCODE_WORKSPACE: "Runner.xcworkspace"
@@ -45,16 +43,11 @@ workflows:
       - name: Run Flutter tests
         script: |
           flutter test
-      - name: Build APK (Development)
-        script: |
-          flutter build apk --release --flavor development --target lib/main.dart
       - name: Build iOS (Development) with Fastlane
         script: |
           cd ios
-          fastlane build_appstore
+          fastlane build_development
     artifacts:
-      - build/**/outputs/**/*.apk
-      - build/**/outputs/**/mapping.txt
       - ios/build/*.ipa
       - flutter_drive.log
     publishing:
@@ -82,13 +75,10 @@ workflows:
           include: true
           source: true
     environment:
-      android_signing:
-        - golden_moments_keystore
       vars:
         FLUTTER_VERSION: 3.8.0
         XCODE_WORKSPACE: "Runner.xcworkspace"
         XCODE_SCHEME: "Runner"
-        GOOGLE_PLAY_TRACK: internal
       flutter: stable
       java: 17
       ruby: default
@@ -109,74 +99,19 @@ workflows:
           flutter analyze --fatal-infos
       - name: Run Flutter tests
         script: |
-          flutter test --coverage
-      - name: Build APK (Production)
-        script: |
-          flutter build apk --release --flavor production --target lib/main.dart
-      - name: Build AAB (Production)
-        script: |
-          flutter build appbundle --release --flavor production --target lib/main.dart
-      - name: Build and Deploy iOS with Fastlane
+          flutter test
+      - name: Build iOS with Fastlane
         script: |
           cd ios
-          fastlane testflight
+          fastlane build_development
     artifacts:
-      - build/**/outputs/**/*.apk
-      - build/**/outputs/**/*.aab
-      - build/**/outputs/**/mapping.txt
       - ios/build/*.ipa
       - /tmp/xcodebuild_logs/*.log
       - flutter_drive.log
-      - coverage/lcov.info
     publishing:
       email:
         recipients:
-          - cschanhniem@gmail.com
+          - thhao2003@gmail.com
         notify:
           success: true
-          failure: true
-      google_play:
-        credentials: $GCLOUD_SERVICE_ACCOUNT_CREDENTIALS
-        track: internal
-        submit_as_draft: true
-      # iOS publishing is now handled by Fastlane testflight lane
-      # app_store_connect:
-      #   auth: integration
-      #   submit_to_testflight: true
-      #   beta_groups:
-      #     - Internal Testing
-      #   submit_to_app_store: false
-
-  # PR Workflow - runs on pull requests
-  pull_request:
-    name: Pull Request Check
-    max_build_duration: 30
-    instance_type: mac_mini_m1
-    triggering:
-      events:
-        - pull_request
-    environment:
-      vars:
-        FLUTTER_VERSION: 3.8.0
-      flutter: stable
-      java: 17
-    scripts:
-      - name: Get Flutter packages
-        script: |
-          flutter packages pub get
-      - name: Flutter analyze
-        script: |
-          flutter analyze --fatal-infos
-      - name: Run Flutter tests
-        script: |
-          flutter test
-      - name: Check formatting
-        script: |
-          dart format --set-exit-if-changed lib/ test/
-    publishing:
-      email:
-        recipients:
-          - cschanhniem@gmail.com
-        notify:
-          success: false
           failure: true

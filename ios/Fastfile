@@ -19,11 +19,11 @@ platform :ios do
     )
   end
 
-  desc "Build and sign the app for App Store"
-  lane :build_appstore do
-    # Ensure we have the latest certificates
+  desc "Build and sign the app for development/testing"
+  lane :build_development do
+    # Ensure we have the latest development certificates
     match(
-      type: "appstore",
+      type: "development",
       app_identifier: "com.mindfulness.golden_moments",
       readonly: true
     )
@@ -31,14 +31,14 @@ platform :ios do
     # Build the Flutter app
     sh("cd ../.. && flutter build ios --release --no-codesign")
 
-    # Build and sign the iOS app
+    # Build and sign the iOS app for development
     build_app(
       workspace: "Runner.xcworkspace",
       scheme: "Runner",
       configuration: "Release",
-      export_method: "app-store",
+      export_method: "development",
       output_directory: "./build",
-      output_name: "golden_moments.ipa"
+      output_name: "golden_moments_dev.ipa"
     )
   end
 
