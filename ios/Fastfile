@@ -8,14 +8,16 @@ platform :ios do
       type: "appstore",
       app_identifier: "com.mindfulness.golden_moments",
       readonly: false,
-      force_for_new_devices: true
+      force_for_new_devices: true,
+      skip_confirmation: true
     )
     
     match(
       type: "development", 
       app_identifier: "com.mindfulness.golden_moments",
       readonly: false,
-      force_for_new_devices: true
+      force_for_new_devices: true,
+      skip_confirmation: true
     )
   end
 
@@ -25,7 +27,8 @@ platform :ios do
     match(
       type: "development",
       app_identifier: "com.mindfulness.golden_moments",
-      readonly: true
+      readonly: true,
+      skip_confirmation: true
     )
 
     # Build the Flutter app
@@ -38,14 +41,15 @@ platform :ios do
       configuration: "Release",
       export_method: "development",
       output_directory: "./build",
-      output_name: "golden_moments_dev.ipa"
+      output_name: "golden_moments_dev.ipa",
+      skip_profile_detection: true
     )
   end
 
   desc "Upload to TestFlight"
   lane :testflight do
     # Build the app
-    build_appstore
+    build_development
 
     # Upload to TestFlight
     upload_to_testflight(
@@ -58,14 +62,16 @@ platform :ios do
   desc "Deploy to App Store"
   lane :release do
     # Build the app
-    build_appstore
+    build_development
 
     # Upload to App Store
     upload_to_app_store(
       api_key_path: ENV["APP_STORE_CONNECT_API_KEY_PATH"],
       submit_for_review: false,
       automatic_release: false,
-      force: true
+      force: true,
+      skip_screenshots: true,
+      skip_metadata: true
     )
   end
 
@@ -74,13 +80,15 @@ platform :ios do
     match(
       type: "development",
       app_identifier: "com.mindfulness.golden_moments",
-      readonly: true
+      readonly: true,
+      skip_confirmation: true
     )
     
     match(
       type: "appstore", 
       app_identifier: "com.mindfulness.golden_moments",
-      readonly: true
+      readonly: true,
+      skip_confirmation: true
     )
   end
 end
