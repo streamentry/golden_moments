@@ -1,0 +1,86 @@
+default_platform(:ios)
+
+platform :ios do
+  desc "Generate certificates and provisioning profiles"
+  lane :certificates do
+    # Create or update certificates and provisioning profiles
+    match(
+      type: "appstore",
+      app_identifier: "com.mindfulness.golden_moments",
+      readonly: false,
+      force_for_new_devices: true
+    )
+    
+    match(
+      type: "development", 
+      app_identifier: "com.mindfulness.golden_moments",
+      readonly: false,
+      force_for_new_devices: true
+    )
+  end
+
+  desc "Build and sign the app for App Store"
+  lane :build_appstore do
+    # Ensure we have the latest certificates
+    match(
+      type: "appstore",
+      app_identifier: "com.mindfulness.golden_moments",
+      readonly: true
+    )
+
+    # Build the Flutter app
+    sh("cd ../.. && flutter build ios --release --no-codesign")
+
+    # Build and sign the iOS app
+    build_app(
+      workspace: "Runner.xcworkspace",
+      scheme: "Runner",
+      configuration: "Release",
+      export_method: "app-store",
+      output_directory: "./build",
+      output_name: "golden_moments.ipa"
+    )
+  end
+
+  desc "Upload to TestFlight"
+  lane :testflight do
+    # Build the app
+    build_appstore
+
+    # Upload to TestFlight
+    upload_to_testflight(
+      api_key_path: ENV["APP_STORE_CONNECT_API_KEY_PATH"],
+      skip_waiting_for_build_processing: true,
+      skip_submission: true
+    )
+  end
+
+  desc "Deploy to App Store"
+  lane :release do
+    # Build the app
+    build_appstore
+
+    # Upload to App Store
+    upload_to_app_store(
+      api_key_path: ENV["APP_STORE_CONNECT_API_KEY_PATH"],
+      submit_for_review: false,
+      automatic_release: false,
+      force: true
+    )
+  end
+
+  desc "Sync certificates and provisioning profiles"
+  lane :sync_certificates do
+    match(
+      type: "development",
+      app_identifier: "com.mindfulness.golden_moments",
+      readonly: true
+    )
+    
+    match(
+      type: "appstore", 
+      app_identifier: "com.mindfulness.golden_moments",
+      readonly: true
+    )
+  end
+end

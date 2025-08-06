@@ -43,6 +43,14 @@ unlinked.ds
 unlinked_spec.ds
 .fvm/
 
+# Fastlane
+ios/.env
+ios/fastlane/report.xml
+ios/fastlane/Preview.html
+ios/fastlane/screenshots
+ios/fastlane/test_output
+ios/build/
+
 # Android related
 **/android/**/gradle-wrapper.jar
 **/android/.gradle
