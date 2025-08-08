@@ -409,7 +409,7 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
                         const SizedBox(height: gmSpaceMd),
                         TweenAnimationBuilder<double>(
                           tween: Tween<double>(
-                            begin: 1.0,
+                            begin: 1,
                             end: timeLeft / 15,
                           ),
                           duration: const Duration(seconds: 1),
@@ -463,7 +463,7 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
                     ),
                     const SizedBox(height: gmSpaceMd),
                     const Text(
-                      'You\'ve completed 3 memory games! 🎉\n\nWhy not invite your friends and family to join the fun? Share precious memories together and challenge each other in this delightful memory game.',
+                      "You've completed 3 memory games! 🎉\n\nWhy not invite your friends and family to join the fun? Share precious memories together and challenge each other in this delightful memory game.",
                       style: TextStyle(fontSize: 16),
                       textAlign: TextAlign.center,
                     ),

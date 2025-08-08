@@ -211,7 +211,7 @@ class DownloadQueueProcessor {
     // This is a simplified estimation
     // In practice, you'd calculate based on current download speeds
     final activeCount = getActiveDownloadCount();
-    final estimatedSecondsPerDownload = 30; // Average estimate
+    const estimatedSecondsPerDownload = 30; // Average estimate
     
     return Duration(seconds: activeCount * estimatedSecondsPerDownload);
   }
@@ -240,12 +240,12 @@ class QueueStatistics {
   final int failedItems;
 
   double get completionPercentage {
-    if (totalItems == 0) return 0.0;
+    if (totalItems == 0) return 0;
     return (completedItems / totalItems) * 100;
   }
 
   double get failureRate {
-    if (totalItems == 0) return 0.0;
+    if (totalItems == 0) return 0;
     return (failedItems / totalItems) * 100;
   }
 

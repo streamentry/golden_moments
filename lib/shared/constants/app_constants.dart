@@ -20,15 +20,15 @@ class AppConstants {
   static const Duration longAnimation = Duration(milliseconds: 600);
 
   // Layout constants
-  static const double defaultPadding = 16.0;
-  static const double smallPadding = 8.0;
-  static const double largePadding = 24.0;
-  static const double cardBorderRadius = 16.0;
-  static const double buttonBorderRadius = 12.0;
+  static const double defaultPadding = 16;
+  static const double smallPadding = 8;
+  static const double largePadding = 24;
+  static const double cardBorderRadius = 16;
+  static const double buttonBorderRadius = 12;
 
   // Accessibility
-  static const double minTouchTargetSize = 48.0;
-  static const double maxFontSizeMultiplier = 2.0;
+  static const double minTouchTargetSize = 48;
+  static const double maxFontSizeMultiplier = 2;
   static const double minFontSizeMultiplier = 0.8;
 
   // Storage keys
@@ -79,7 +79,7 @@ class AppConstants {
     'Excellent memory!',
     'Great job!',
     'Wonderful!',
-    'You\'re doing fantastic!',
+    "You're doing fantastic!",
     'Keep it up!',
     'Marvelous!',
   ];

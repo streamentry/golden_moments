@@ -1,6 +1,5 @@
 import 'dart:convert';
 import 'dart:io';
-import 'dart:typed_data';
 
 import 'package:crypto/crypto.dart';
 import 'package:http/http.dart' as http;
@@ -10,14 +9,15 @@ import 'package:path_provider/path_provider.dart';
 /// Long-term image caching service with 1-year expiry
 class LongTermImageCache {
   LongTermImageCache._();
-  
+
   static LongTermImageCache? _instance;
-  static LongTermImageCache get instance => _instance ??= LongTermImageCache._();
+  static LongTermImageCache get instance =>
+      _instance ??= LongTermImageCache._();
 
   static const Duration _cacheExpiry = Duration(days: 365); // 1 year
   static const String _cacheDirectoryName = 'image_cache';
   static const String _metadataFileName = 'cache_metadata.json';
-  
+
   Directory? _cacheDirectory;
   Map<String, CacheMetadata> _metadata = {};
   bool _initialized = false;
@@ -29,14 +29,14 @@ class LongTermImageCache {
     try {
       final appDir = await getApplicationDocumentsDirectory();
       _cacheDirectory = Directory(path.join(appDir.path, _cacheDirectoryName));
-      
+
       if (!await _cacheDirectory!.exists()) {
         await _cacheDirectory!.create(recursive: true);
       }
 
       await _loadMetadata();
       await _cleanExpiredCache();
-      
+
       _initialized = true;
     } catch (e) {
       throw Exception('Failed to initialize image cache: $e');
@@ -46,10 +46,10 @@ class LongTermImageCache {
   /// Get cached image file or download if not cached
   Future<File?> getCachedImage(String imageUrl) async {
     await initialize();
-    
+
     final cacheKey = _generateCacheKey(imageUrl);
     final cachedFile = File(path.join(_cacheDirectory!.path, '$cacheKey.jpg'));
-    
+
     // Check if image is cached and not expired
     if (await cachedFile.exists()) {
       final metadata = _metadata[cacheKey];
@@ -62,22 +62,28 @@ class LongTermImageCache {
     }
 
     // Download and cache the image
-    return await _downloadAndCacheImage(imageUrl, cachedFile, cacheKey);
+    return _downloadAndCacheImage(imageUrl, cachedFile, cacheKey);
   }
 
   /// Download and cache an image
-  Future<File?> _downloadAndCacheImage(String imageUrl, File cacheFile, String cacheKey) async {
+  Future<File?> _downloadAndCacheImage(
+    String imageUrl,
+    File cacheFile,
+    String cacheKey,
+  ) async {
     try {
-      final response = await http.get(
-        Uri.parse(imageUrl),
-        headers: {
-          'User-Agent': 'Golden Moments Memory Game/1.0',
-        },
-      ).timeout(const Duration(seconds: 30));
+      final response = await http
+          .get(
+            Uri.parse(imageUrl),
+            headers: {
+              'User-Agent': 'Golden Moments Memory Game/1.0',
+            },
+          )
+          .timeout(const Duration(seconds: 30));
 
       if (response.statusCode == 200) {
         await cacheFile.writeAsBytes(response.bodyBytes);
-        
+
         // Update metadata
         _metadata[cacheKey] = CacheMetadata(
           url: imageUrl,
@@ -85,9 +91,9 @@ class LongTermImageCache {
           cachedAt: DateTime.now(),
           lastAccessed: DateTime.now(),
           fileSize: response.bodyBytes.length,
-          fileName: '${cacheKey}.jpg',
+          fileName: '$cacheKey.jpg',
         );
-        
+
         await _saveMetadata();
         return cacheFile;
       }
@@ -95,19 +101,19 @@ class LongTermImageCache {
       // Handle download error gracefully
       print('Failed to download image $imageUrl: $e');
     }
-    
+
     return null;
   }
 
   /// Check if image is cached and valid
   Future<bool> isImageCached(String imageUrl) async {
     await initialize();
-    
+
     final cacheKey = _generateCacheKey(imageUrl);
     final cachedFile = File(path.join(_cacheDirectory!.path, '$cacheKey.jpg'));
-    
+
     if (!await cachedFile.exists()) return false;
-    
+
     final metadata = _metadata[cacheKey];
     return metadata != null && !metadata.isExpired;
   }
@@ -115,30 +121,30 @@ class LongTermImageCache {
   /// Get cache statistics
   Future<CacheStatistics> getCacheStatistics() async {
     await initialize();
-    
-    int totalFiles = 0;
-    int totalSize = 0;
-    int expiredFiles = 0;
+
+    var totalFiles = 0;
+    var totalSize = 0;
+    var expiredFiles = 0;
     DateTime? oldestFile;
     DateTime? newestFile;
-    
+
     for (final metadata in _metadata.values) {
       totalFiles++;
       totalSize += metadata.fileSize;
-      
+
       if (metadata.isExpired) {
         expiredFiles++;
       }
-      
+
       if (oldestFile == null || metadata.cachedAt.isBefore(oldestFile)) {
         oldestFile = metadata.cachedAt;
       }
-      
+
       if (newestFile == null || metadata.cachedAt.isAfter(newestFile)) {
         newestFile = metadata.cachedAt;
       }
     }
-    
+
     return CacheStatistics(
       totalFiles: totalFiles,
       totalSizeBytes: totalSize,
@@ -152,11 +158,11 @@ class LongTermImageCache {
   /// Clean expired cache entries
   Future<void> _cleanExpiredCache() async {
     final expiredKeys = <String>[];
-    
+
     for (final entry in _metadata.entries) {
       if (entry.value.isExpired) {
         expiredKeys.add(entry.key);
-        
+
         // Delete the cached file
         final file = File(path.join(_cacheDirectory!.path, '${entry.key}.jpg'));
         if (await file.exists()) {
@@ -164,12 +170,12 @@ class LongTermImageCache {
         }
       }
     }
-    
+
     // Remove expired entries from metadata
     for (final key in expiredKeys) {
       _metadata.remove(key);
     }
-    
+
     if (expiredKeys.isNotEmpty) {
       await _saveMetadata();
     }
@@ -178,24 +184,24 @@ class LongTermImageCache {
   /// Manually clean all expired cache
   Future<int> cleanExpiredCache() async {
     await initialize();
-    
+
     final initialCount = _metadata.length;
     await _cleanExpiredCache();
     final finalCount = _metadata.length;
-    
+
     return initialCount - finalCount;
   }
 
   /// Clear all cache
   Future<void> clearAllCache() async {
     await initialize();
-    
+
     // Delete all cached files
     if (await _cacheDirectory!.exists()) {
       await _cacheDirectory!.delete(recursive: true);
       await _cacheDirectory!.create(recursive: true);
     }
-    
+
     // Clear metadata
     _metadata.clear();
     await _saveMetadata();
@@ -204,8 +210,8 @@ class LongTermImageCache {
   /// Preload images for a pack
   Future<void> preloadPackImages(List<String> imageUrls) async {
     await initialize();
-    
-    final futures = imageUrls.map((url) => getCachedImage(url));
+
+    final futures = imageUrls.map(getCachedImage);
     await Future.wait(futures);
   }
 
@@ -218,17 +224,21 @@ class LongTermImageCache {
 
   /// Load metadata from disk
   Future<void> _loadMetadata() async {
-    final metadataFile = File(path.join(_cacheDirectory!.path, _metadataFileName));
-    
+    final metadataFile = File(
+      path.join(_cacheDirectory!.path, _metadataFileName),
+    );
+
     if (await metadataFile.exists()) {
       try {
         final jsonString = await metadataFile.readAsString();
         final jsonData = json.decode(jsonString) as Map<String, dynamic>;
-        
-        _metadata = jsonData.map((key, value) => MapEntry(
-          key,
-          CacheMetadata.fromJson(value as Map<String, dynamic>),
-        ));
+
+        _metadata = jsonData.map(
+          (key, value) => MapEntry(
+            key,
+            CacheMetadata.fromJson(value as Map<String, dynamic>),
+          ),
+        );
       } catch (e) {
         // If metadata is corrupted, start fresh
         _metadata = {};
@@ -238,11 +248,15 @@ class LongTermImageCache {
 
   /// Save metadata to disk
   Future<void> _saveMetadata() async {
-    final metadataFile = File(path.join(_cacheDirectory!.path, _metadataFileName));
-    
-    final jsonData = _metadata.map((key, value) => MapEntry(key, value.toJson()));
+    final metadataFile = File(
+      path.join(_cacheDirectory!.path, _metadataFileName),
+    );
+
+    final jsonData = _metadata.map(
+      (key, value) => MapEntry(key, value.toJson()),
+    );
     final jsonString = json.encode(jsonData);
-    
+
     await metadataFile.writeAsString(jsonString);
   }
 
@@ -271,6 +285,18 @@ class CacheMetadata {
     required this.fileName,
   });
 
+  /// Create from JSON
+  factory CacheMetadata.fromJson(Map<String, dynamic> json) {
+    return CacheMetadata(
+      url: json['url'] as String,
+      cacheKey: json['cacheKey'] as String,
+      cachedAt: DateTime.parse(json['cachedAt'] as String),
+      lastAccessed: DateTime.parse(json['lastAccessed'] as String),
+      fileSize: json['fileSize'] as int,
+      fileName: json['fileName'] as String,
+    );
+  }
+
   final String url;
   final String cacheKey;
   final DateTime cachedAt;
@@ -296,18 +322,6 @@ class CacheMetadata {
     return '${(fileSize / (1024 * 1024)).toStringAsFixed(1)} MB';
   }
 
-  /// Create from JSON
-  factory CacheMetadata.fromJson(Map<String, dynamic> json) {
-    return CacheMetadata(
-      url: json['url'] as String,
-      cacheKey: json['cacheKey'] as String,
-      cachedAt: DateTime.parse(json['cachedAt'] as String),
-      lastAccessed: DateTime.parse(json['lastAccessed'] as String),
-      fileSize: json['fileSize'] as int,
-      fileName: json['fileName'] as String,
-    );
-  }
-
   /// Convert to JSON
   Map<String, dynamic> toJson() {
     return {
@@ -327,9 +341,9 @@ class CacheStatistics {
     required this.totalFiles,
     required this.totalSizeBytes,
     required this.expiredFiles,
+    required this.cacheHitRate,
     this.oldestCacheDate,
     this.newestCacheDate,
-    required this.cacheHitRate,
   });
 
   final int totalFiles;
@@ -351,7 +365,8 @@ class CacheStatistics {
   }
 
   /// Get cache hit rate as percentage
-  String get formattedCacheHitRate => '${(cacheHitRate * 100).toStringAsFixed(1)}%';
+  String get formattedCacheHitRate =>
+      '${(cacheHitRate * 100).toStringAsFixed(1)}%';
 
   /// Get cache health status
   String get healthStatus {

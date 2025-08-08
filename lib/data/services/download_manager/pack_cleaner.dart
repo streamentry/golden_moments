@@ -42,10 +42,9 @@ class PackCleaner {
 
       result.success = true;
       result.message = 'Pack deleted successfully';
-
     } on Exception catch (e) {
       result.success = false;
-      result.message = 'Failed to delete pack: ${e.toString()}';
+      result.message = 'Failed to delete pack: $e';
       result.error = e;
     }
 
@@ -67,7 +66,7 @@ class PackCleaner {
       try {
         final imagePath = getImageLocalPath(image.id, pack.id);
         final imageFile = File(imagePath);
-        
+
         if (imageFile.existsSync()) {
           await imageFile.delete();
           result.deletedCount++;
@@ -77,11 +76,13 @@ class PackCleaner {
         }
       } on Exception catch (e) {
         result.failedCount++;
-        result.errors.add(ImageDeletionError(
-          imageId: image.id,
-          imagePath: getImageLocalPath(image.id, pack.id),
-          error: e,
-        ));
+        result.errors.add(
+          ImageDeletionError(
+            imageId: image.id,
+            imagePath: getImageLocalPath(image.id, pack.id),
+            error: e,
+          ),
+        );
       }
     }
 
@@ -95,8 +96,10 @@ class PackCleaner {
     try {
       // Clean up any partial download files
       final tempDir = Directory.systemTemp;
-      final packTempDir = Directory('${tempDir.path}/golden_moments_temp/$packId');
-      
+      final packTempDir = Directory(
+        '${tempDir.path}/golden_moments_temp/$packId',
+      );
+
       if (packTempDir.existsSync()) {
         await packTempDir.delete(recursive: true);
       }
@@ -109,10 +112,10 @@ class PackCleaner {
   /// Delete multiple packs
   Future<BatchCleanupResult> deletePacks(List<String> packIds) async {
     final result = BatchCleanupResult();
-    
+
     for (final packId in packIds) {
       final packResult = await deletePack(packId);
-      
+
       if (packResult.success) {
         result.successfulDeletions.add(packResult);
       } else {
@@ -121,7 +124,7 @@ class PackCleaner {
     }
 
     result.success = result.failedDeletions.isEmpty;
-    
+
     return result;
   }
 
@@ -132,12 +135,12 @@ class PackCleaner {
     try {
       // Get all packs
       final packs = await _localPackService.getPacks();
-      
+
       // Clean up each pack
       for (final pack in packs) {
         if (await _cacheService.isPackCached(pack.id)) {
           final result = await deletePack(pack.id);
-          
+
           if (result.success) {
             summary.cleanedPacks.add(pack.id);
             summary.totalImagesDeleted += result.deletedImages;
@@ -150,7 +153,6 @@ class PackCleaner {
       }
 
       summary.success = summary.failedPacks.isEmpty;
-      
     } on Exception catch (e) {
       summary.success = false;
       summary.errors.add(e);
@@ -163,13 +165,13 @@ class PackCleaner {
   Future<int> _estimatePackSize(Pack pack) async {
     if (kIsWeb) return 0; // Can't determine size on web
 
-    int totalSize = 0;
-    
+    var totalSize = 0;
+
     for (final image in pack.images) {
       try {
         final imagePath = getImageLocalPath(image.id, pack.id);
         final imageFile = File(imagePath);
-        
+
         if (imageFile.existsSync()) {
           totalSize += imageFile.lengthSync();
         }
@@ -187,25 +189,26 @@ class PackCleaner {
 
     try {
       final packs = await _localPackService.getPacks();
-      
+
       for (final pack in packs) {
         if (await _cacheService.isPackCached(pack.id)) {
           final estimatedSize = await _estimatePackSize(pack);
           final lastAccessed = await _getLastAccessTime(pack.id);
-          
-          candidates.add(CleanupCandidate(
-            packId: pack.id,
-            packName: pack.name,
-            imageCount: pack.images.length,
-            estimatedSize: estimatedSize,
-            lastAccessed: lastAccessed,
-          ));
+
+          candidates.add(
+            CleanupCandidate(
+              packId: pack.id,
+              packName: pack.name,
+              imageCount: pack.images.length,
+              estimatedSize: estimatedSize,
+              lastAccessed: lastAccessed,
+            ),
+          );
         }
       }
-      
+
       // Sort by last accessed (oldest first)
       candidates.sort((a, b) => a.lastAccessed.compareTo(b.lastAccessed));
-      
     } on Exception catch (e) {
       debugPrint('Failed to get cleanup candidates: $e');
     }
@@ -234,11 +237,11 @@ class PackCleaner {
     if (!kIsWeb) {
       try {
         final pack = await _localPackService.getPackById(packId);
-        
+
         for (final image in pack.images) {
           final imagePath = getImageLocalPath(image.id, packId);
           final imageFile = File(imagePath);
-          
+
           if (imageFile.existsSync()) {
             return false; // Found a file that should have been deleted
           }
@@ -255,11 +258,11 @@ class PackCleaner {
   Future<int> getTotalCachedSize() async {
     if (kIsWeb) return 0;
 
-    int totalSize = 0;
-    
+    var totalSize = 0;
+
     try {
       final packs = await _localPackService.getPacks();
-      
+
       for (final pack in packs) {
         if (await _cacheService.isPackCached(pack.id)) {
           totalSize += await _estimatePackSize(pack);
@@ -281,14 +284,14 @@ class PackCleanupResult {
   bool success = false;
   String message = '';
   Exception? error;
-  
+
   int totalImages = 0;
   int deletedImages = 0;
   int failedImages = 0;
-  
+
   bool cacheDeleted = false;
   bool tempFilesDeleted = false;
-  
+
   List<ImageDeletionError> imageErrors = [];
 }
 
@@ -347,8 +350,10 @@ class CleanupCandidate {
 
   String get formattedSize {
     if (estimatedSize < 1024) return '${estimatedSize}B';
-    if (estimatedSize < 1024 * 1024) return '${(estimatedSize / 1024).toStringAsFixed(1)}KB';
-    if (estimatedSize < 1024 * 1024 * 1024) return '${(estimatedSize / (1024 * 1024)).toStringAsFixed(1)}MB';
+    if (estimatedSize < 1024 * 1024)
+      return '${(estimatedSize / 1024).toStringAsFixed(1)}KB';
+    if (estimatedSize < 1024 * 1024 * 1024)
+      return '${(estimatedSize / (1024 * 1024)).toStringAsFixed(1)}MB';
     return '${(estimatedSize / (1024 * 1024 * 1024)).toStringAsFixed(1)}GB';
   }
 

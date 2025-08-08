@@ -12,14 +12,6 @@ class CacheStats extends Equatable {
     required this.statistics,
   });
 
-  final int totalCacheSize;
-  final int maxCacheSize;
-  final int totalPacks;
-  final int totalImages;
-  final DateTime lastCleanup;
-  final CacheSettings settings;
-  final CacheStatistics statistics;
-
   factory CacheStats.defaultStats() {
     return CacheStats(
       totalCacheSize: 0,
@@ -49,6 +41,14 @@ class CacheStats extends Equatable {
       ),
     );
   }
+
+  final int totalCacheSize;
+  final int maxCacheSize;
+  final int totalPacks;
+  final int totalImages;
+  final DateTime lastCleanup;
+  final CacheSettings settings;
+  final CacheStatistics statistics;
 
   Map<String, dynamic> toJson() {
     return {
@@ -84,7 +84,7 @@ class CacheStats extends Equatable {
 
   /// Get cache usage percentage (0.0 to 1.0)
   double get cacheUsagePercentage {
-    if (maxCacheSize == 0) return 0.0;
+    if (maxCacheSize == 0) return 0;
     return totalCacheSize / maxCacheSize;
   }
 
@@ -96,14 +96,14 @@ class CacheStats extends Equatable {
 
   @override
   List<Object?> get props => [
-        totalCacheSize,
-        maxCacheSize,
-        totalPacks,
-        totalImages,
-        lastCleanup,
-        settings,
-        statistics,
-      ];
+    totalCacheSize,
+    maxCacheSize,
+    totalPacks,
+    totalImages,
+    lastCleanup,
+    settings,
+    statistics,
+  ];
 }
 
 /// Cache settings configuration
@@ -116,13 +116,6 @@ class CacheSettings extends Equatable {
     required this.maxConcurrentDownloads,
     required this.downloadRetryAttempts,
   });
-
-  final int maxCacheSizeMB;
-  final int cacheExpiryDays;
-  final bool autoCleanup;
-  final bool wifiOnlyDownloads;
-  final int maxConcurrentDownloads;
-  final int downloadRetryAttempts;
 
   factory CacheSettings.defaultSettings() {
     return const CacheSettings(
@@ -145,6 +138,13 @@ class CacheSettings extends Equatable {
       downloadRetryAttempts: json['downloadRetryAttempts'] as int? ?? 3,
     );
   }
+
+  final int maxCacheSizeMB;
+  final int cacheExpiryDays;
+  final bool autoCleanup;
+  final bool wifiOnlyDownloads;
+  final int maxConcurrentDownloads;
+  final int downloadRetryAttempts;
 
   Map<String, dynamic> toJson() {
     return {
@@ -170,9 +170,9 @@ class CacheSettings extends Equatable {
       cacheExpiryDays: cacheExpiryDays ?? this.cacheExpiryDays,
       autoCleanup: autoCleanup ?? this.autoCleanup,
       wifiOnlyDownloads: wifiOnlyDownloads ?? this.wifiOnlyDownloads,
-      maxConcurrentDownloads: 
+      maxConcurrentDownloads:
           maxConcurrentDownloads ?? this.maxConcurrentDownloads,
-      downloadRetryAttempts: 
+      downloadRetryAttempts:
           downloadRetryAttempts ?? this.downloadRetryAttempts,
     );
   }
@@ -185,13 +185,13 @@ class CacheSettings extends Equatable {
 
   @override
   List<Object?> get props => [
-        maxCacheSizeMB,
-        cacheExpiryDays,
-        autoCleanup,
-        wifiOnlyDownloads,
-        maxConcurrentDownloads,
-        downloadRetryAttempts,
-      ];
+    maxCacheSizeMB,
+    cacheExpiryDays,
+    autoCleanup,
+    wifiOnlyDownloads,
+    maxConcurrentDownloads,
+    downloadRetryAttempts,
+  ];
 }
 
 /// Cache usage statistics
@@ -205,19 +205,12 @@ class CacheStatistics extends Equatable {
     required this.lastUpdated,
   });
 
-  final int totalDownloads;
-  final int failedDownloads;
-  final double cacheHitRate;
-  final double averageDownloadTime;
-  final int totalBandwidthSaved;
-  final DateTime lastUpdated;
-
   factory CacheStatistics.empty() {
     return CacheStatistics(
       totalDownloads: 0,
       failedDownloads: 0,
-      cacheHitRate: 0.0,
-      averageDownloadTime: 0.0,
+      cacheHitRate: 0,
+      averageDownloadTime: 0,
       totalBandwidthSaved: 0,
       lastUpdated: DateTime.now(),
     );
@@ -228,7 +221,7 @@ class CacheStatistics extends Equatable {
       totalDownloads: json['totalDownloads'] as int? ?? 0,
       failedDownloads: json['failedDownloads'] as int? ?? 0,
       cacheHitRate: (json['cacheHitRate'] as num?)?.toDouble() ?? 0.0,
-      averageDownloadTime: 
+      averageDownloadTime:
           (json['averageDownloadTime'] as num?)?.toDouble() ?? 0.0,
       totalBandwidthSaved: json['totalBandwidthSaved'] as int? ?? 0,
       lastUpdated: DateTime.parse(
@@ -236,6 +229,13 @@ class CacheStatistics extends Equatable {
       ),
     );
   }
+
+  final int totalDownloads;
+  final int failedDownloads;
+  final double cacheHitRate;
+  final double averageDownloadTime;
+  final int totalBandwidthSaved;
+  final DateTime lastUpdated;
 
   Map<String, dynamic> toJson() {
     return {
@@ -268,17 +268,17 @@ class CacheStatistics extends Equatable {
 
   /// Get success rate (0.0 to 1.0)
   double get successRate {
-    if (totalDownloads == 0) return 1.0;
+    if (totalDownloads == 0) return 1;
     return (totalDownloads - failedDownloads) / totalDownloads;
   }
 
   @override
   List<Object?> get props => [
-        totalDownloads,
-        failedDownloads,
-        cacheHitRate,
-        averageDownloadTime,
-        totalBandwidthSaved,
-        lastUpdated,
-      ];
+    totalDownloads,
+    failedDownloads,
+    cacheHitRate,
+    averageDownloadTime,
+    totalBandwidthSaved,
+    lastUpdated,
+  ];
 }

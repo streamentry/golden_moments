@@ -236,7 +236,7 @@ class NavigationConfig {
 
   /// Get index of item by label
   static int getIndexByLabel(String label) {
-    for (int i = 0; i < items.length; i++) {
+    for (var i = 0; i < items.length; i++) {
       if (items[i].label == label) {
         return i;
       }

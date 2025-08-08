@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/sound_setting.dart';
-import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:provider/provider.dart';
 

@@ -173,12 +173,16 @@ class ImageDownloader {
         imageData[0] == 0x89 &&
         imageData[1] == 0x50 &&
         imageData[2] == 0x4E &&
-        imageData[3] == 0x47) return true;
+        imageData[3] == 0x47) {
+      return true;
+    }
     
     // Check for GIF header (0x47, 0x49, 0x46)
     if (imageData[0] == 0x47 &&
         imageData[1] == 0x49 &&
-        imageData[2] == 0x46) return true;
+        imageData[2] == 0x46) {
+      return true;
+    }
     
     // Check for WebP header (RIFF....WEBP)
     if (imageData.length >= 12 &&
@@ -189,7 +193,9 @@ class ImageDownloader {
         imageData[8] == 0x57 && // W
         imageData[9] == 0x45 && // E
         imageData[10] == 0x42 && // B
-        imageData[11] == 0x50) return true; // P
+        imageData[11] == 0x50) {
+      return true; // P
+    }
     
     return false;
   }

@@ -42,7 +42,7 @@ class HttpClientService {
     String url, {
     void Function(int downloaded, int total)? onProgress,
   }) async {
-    int retryCount = 0;
+    var retryCount = 0;
 
     while (retryCount < CacheConstants.maxRetryAttempts) {
       try {
@@ -63,7 +63,7 @@ class HttpClientService {
 
         final contentLength = streamedResponse.contentLength ?? 0;
         final bytes = <int>[];
-        int downloadedBytes = 0;
+        var downloadedBytes = 0;
 
         await for (final chunk in streamedResponse.stream) {
           bytes.addAll(chunk);
@@ -140,7 +140,7 @@ class HttpClientService {
 
   /// Download with automatic retry logic
   Future<http.Response> _downloadWithRetry(String url) async {
-    int retryCount = 0;
+    var retryCount = 0;
 
     while (retryCount < CacheConstants.maxRetryAttempts) {
       try {
@@ -217,7 +217,7 @@ class HttpClientService {
 
   /// Get download speed estimate (bytes per second)
   double calculateDownloadSpeed(int bytesDownloaded, Duration elapsed) {
-    if (elapsed.inMilliseconds == 0) return 0.0;
+    if (elapsed.inMilliseconds == 0) return 0;
     return bytesDownloaded / (elapsed.inMilliseconds / 1000.0);
   }
 

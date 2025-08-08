@@ -101,7 +101,7 @@ class StorageChecker {
         totalSpace: 'Unknown',
         freeSpace: 'Unknown',
         usedSpace: 'Unknown',
-        usagePercentage: 0.0,
+        usagePercentage: 0,
         isLowSpace: false,
       );
     }
@@ -127,7 +127,7 @@ class StorageChecker {
         totalSpace: 'Error',
         freeSpace: 'Error',
         usedSpace: 'Error',
-        usagePercentage: 0.0,
+        usagePercentage: 0,
         isLowSpace: false,
       );
     }

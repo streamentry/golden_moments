@@ -6,13 +6,13 @@ class AppTheme {
   AppTheme._();
 
   // Base font sizes (will be multiplied by FontSize multiplier)
-  static const double _baseFontSizeSmall = 14.0;
-  static const double _baseFontSizeMedium = 16.0;
-  static const double _baseFontSizeLarge = 18.0;
-  static const double _baseFontSizeXLarge = 20.0;
+  static const double _baseFontSizeSmall = 14;
+  static const double _baseFontSizeMedium = 16;
+  static const double _baseFontSizeLarge = 18;
+  static const double _baseFontSizeXLarge = 20;
 
   // Minimum touch target size for accessibility
-  static const double minTouchTargetSize = 48.0;
+  static const double minTouchTargetSize = 48;
 
   // Color palette - high contrast and color-blind safe
   static const Color primaryColor = Color(0xFF2E7D32); // Dark green
@@ -121,24 +121,18 @@ class AppTheme {
   static ColorScheme _getStandardColorScheme() {
     return const ColorScheme.light(
       primary: primaryColor,
-      onPrimary: textOnPrimaryColor,
       secondary: secondaryColor,
       onSecondary: textOnPrimaryColor,
-      surface: surfaceColor,
       onSurface: textPrimaryColor,
       error: errorColor,
-      onError: textOnPrimaryColor,
     );
   }
 
   static ColorScheme _getHighContrastColorScheme() {
     return const ColorScheme.dark(
       primary: highContrastPrimary,
-      onPrimary: highContrastBackground,
       secondary: highContrastText,
-      onSecondary: highContrastBackground,
       surface: highContrastSurface,
-      onSurface: highContrastText,
       error: errorColor,
       onError: highContrastText,
     );

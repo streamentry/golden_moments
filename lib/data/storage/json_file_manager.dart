@@ -124,7 +124,7 @@ class JsonFileManager {
 
       final files = await directory.list().toList();
       return files
-          .where((entity) => entity is File)
+          .whereType<File>()
           .map((file) => path.basename(file.path))
           .toList();
     } on Exception catch (e) {

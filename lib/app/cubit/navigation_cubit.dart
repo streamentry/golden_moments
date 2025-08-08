@@ -72,13 +72,10 @@ class NavigationCubit extends Cubit<NavigationState> {
     switch (route) {
       case '/library':
         goToLibrary();
-        break;
       case '/discover':
         goToDiscover();
-        break;
       case '/downloads':
         goToDownloads();
-        break;
       default:
         goToLibrary(); // Default to library
     }

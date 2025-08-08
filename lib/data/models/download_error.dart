@@ -11,20 +11,14 @@ class DownloadError extends Equatable implements Exception {
     this.retryable = false,
   });
 
-  final DownloadErrorType type;
-  final String url;
-  final String message;
-  final String userMessage;
-  final int? statusCode;
-  final bool retryable;
-
   /// Network connection error
   factory DownloadError.networkError(String url, String message) {
     return DownloadError(
       type: DownloadErrorType.network,
       url: url,
       message: message,
-      userMessage: 'Unable to connect to the internet. Please check your connection and try again.',
+      userMessage:
+          'Unable to connect to the internet. Please check your connection and try again.',
       retryable: true,
     );
   }
@@ -32,25 +26,25 @@ class DownloadError extends Equatable implements Exception {
   /// HTTP error with status code
   factory DownloadError.httpError(String url, int statusCode, String message) {
     String userMessage;
-    bool retryable = false;
+    var retryable = false;
 
     switch (statusCode) {
       case 404:
-        userMessage = 'The requested content was not found. It may have been moved or deleted.';
-        break;
+        userMessage =
+            'The requested content was not found. It may have been moved or deleted.';
       case 429:
         userMessage = 'Too many requests. Please wait a moment and try again.';
         retryable = true;
-        break;
       case 500:
       case 502:
       case 503:
       case 504:
-        userMessage = 'Server is temporarily unavailable. Please try again later.';
+        userMessage =
+            'Server is temporarily unavailable. Please try again later.';
         retryable = true;
-        break;
       default:
-        userMessage = 'Download failed with error $statusCode. Please try again.';
+        userMessage =
+            'Download failed with error $statusCode. Please try again.';
         retryable = statusCode >= 500;
     }
 
@@ -70,7 +64,8 @@ class DownloadError extends Equatable implements Exception {
       type: DownloadErrorType.timeout,
       url: url,
       message: message,
-      userMessage: 'Download timed out. Please check your connection and try again.',
+      userMessage:
+          'Download timed out. Please check your connection and try again.',
       retryable: true,
     );
   }
@@ -103,8 +98,8 @@ class DownloadError extends Equatable implements Exception {
       type: DownloadErrorType.storageSpace,
       url: url,
       message: message,
-      userMessage: 'Not enough storage space. Please free up some space and try again.',
-      retryable: false,
+      userMessage:
+          'Not enough storage space. Please free up some space and try again.',
     );
   }
 
@@ -114,7 +109,8 @@ class DownloadError extends Equatable implements Exception {
       type: DownloadErrorType.fileSystem,
       url: url,
       message: message,
-      userMessage: 'Unable to save file. Please check permissions and try again.',
+      userMessage:
+          'Unable to save file. Please check permissions and try again.',
       retryable: true,
     );
   }
@@ -126,7 +122,6 @@ class DownloadError extends Equatable implements Exception {
       url: url,
       message: 'Download cancelled by user',
       userMessage: 'Download was cancelled.',
-      retryable: false,
     );
   }
 
@@ -155,6 +150,13 @@ class DownloadError extends Equatable implements Exception {
       retryable: json['retryable'] as bool? ?? false,
     );
   }
+
+  final DownloadErrorType type;
+  final String url;
+  final String message;
+  final String userMessage;
+  final int? statusCode;
+  final bool retryable;
 
   /// Convert to JSON
   Map<String, dynamic> toJson() {
@@ -198,7 +200,9 @@ class DownloadError extends Equatable implements Exception {
       case DownloadErrorType.timeout:
         return '#FF9800'; // Orange
       case DownloadErrorType.http:
-        return statusCode != null && statusCode! >= 500 ? '#FF9800' : '#F44336'; // Orange for server, red for client
+        return statusCode != null && statusCode! >= 500
+            ? '#FF9800'
+            : '#F44336'; // Orange for server, red for client
       case DownloadErrorType.invalidJson:
       case DownloadErrorType.corruption:
         return '#FF5722'; // Deep orange
@@ -214,19 +218,18 @@ class DownloadError extends Equatable implements Exception {
 
   /// Check if error suggests network issues
   bool get isNetworkRelated {
-    return type == DownloadErrorType.network || 
-           type == DownloadErrorType.timeout ||
-           (type == DownloadErrorType.http && (statusCode ?? 0) >= 500);
+    return type == DownloadErrorType.network ||
+        type == DownloadErrorType.timeout ||
+        (type == DownloadErrorType.http && (statusCode ?? 0) >= 500);
   }
 
   /// Check if error is temporary and should be retried
   bool get shouldRetry {
-    return retryable && (
-      type == DownloadErrorType.network ||
-      type == DownloadErrorType.timeout ||
-      type == DownloadErrorType.corruption ||
-      (type == DownloadErrorType.http && (statusCode ?? 0) >= 500)
-    );
+    return retryable &&
+        (type == DownloadErrorType.network ||
+            type == DownloadErrorType.timeout ||
+            type == DownloadErrorType.corruption ||
+            (type == DownloadErrorType.http && (statusCode ?? 0) >= 500));
   }
 
   /// Get suggested retry delay
@@ -257,15 +260,15 @@ class DownloadError extends Equatable implements Exception {
 
 /// Types of download errors
 enum DownloadErrorType {
-  network,      // Network connection issues
-  http,         // HTTP status code errors
-  timeout,      // Request timeout
-  invalidJson,  // JSON parsing errors
-  corruption,   // File corruption
+  network, // Network connection issues
+  http, // HTTP status code errors
+  timeout, // Request timeout
+  invalidJson, // JSON parsing errors
+  corruption, // File corruption
   storageSpace, // Insufficient storage
-  fileSystem,   // File system errors
-  cancelled,    // User cancelled
-  unknown,      // Unknown errors
+  fileSystem, // File system errors
+  cancelled, // User cancelled
+  unknown, // Unknown errors
 }
 
 /// Extension for error type display names
