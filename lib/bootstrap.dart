@@ -67,7 +67,7 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
   // Initialize services with error handling
   try {
     await _initializeServices();
-    await _executeTaskOnFirstLaunch();
+    await _executeTaskOnLaunch();
   } catch (e, stackTrace) {
     log('Service initialization failed: $e', stackTrace: stackTrace);
     // Continue app execution even if services fail to initialize
@@ -82,13 +82,6 @@ Future<void> _initializeServices() async {
   HttpClientService().initialize();
 }
 
-Future<void> _executeTaskOnFirstLaunch() async {
-  final prefs = await SharedPreferences.getInstance();
-  final alreadyLaunched = prefs.getBool('alreadyLaunched') ?? false;
-
-  if (!alreadyLaunched) {
-    await DownloadManager().downloadInitialPacks();
-
-    await prefs.setBool('alreadyLaunched', true);
-  }
+Future<void> _executeTaskOnLaunch() async {
+  await DownloadManager().downloadInitialPacks();
 }

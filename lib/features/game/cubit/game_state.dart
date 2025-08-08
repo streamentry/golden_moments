@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:golden_moments/data/models/image.dart';
 import 'package:golden_moments/data/models/pack.dart';
-import 'package:golden_moments/game/cubit/tile_state.dart';
+import 'package:golden_moments/features/game/cubit/tile_state.dart';
 
 /// Current status of the game
 enum GameStatus {

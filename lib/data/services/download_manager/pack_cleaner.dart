@@ -83,6 +83,13 @@ class PackCleaner {
             error: e,
           ),
         );
+        result.errors.add(
+          ImageDeletionError(
+            imageId: image.id,
+            imagePath: getImageLocalPath(image.id, pack.id),
+            error: e,
+          ),
+        );
       }
     }
 
@@ -96,6 +103,10 @@ class PackCleaner {
     try {
       // Clean up any partial download files
       final tempDir = Directory.systemTemp;
+      final packTempDir = Directory(
+        '${tempDir.path}/golden_moments_temp/$packId',
+      );
+
       final packTempDir = Directory(
         '${tempDir.path}/golden_moments_temp/$packId',
       );
@@ -165,7 +176,7 @@ class PackCleaner {
   Future<int> _estimatePackSize(Pack pack) async {
     if (kIsWeb) return 0; // Can't determine size on web
 
-    var totalSize = 0;
+    int totalSize = 0;
 
     for (final image in pack.images) {
       try {
@@ -198,7 +209,7 @@ class PackCleaner {
           candidates.add(
             CleanupCandidate(
               packId: pack.id,
-              packName: pack.name,
+              packName: pack.title,
               imageCount: pack.images.length,
               estimatedSize: estimatedSize,
               lastAccessed: lastAccessed,
@@ -258,7 +269,7 @@ class PackCleaner {
   Future<int> getTotalCachedSize() async {
     if (kIsWeb) return 0;
 
-    var totalSize = 0;
+    int totalSize = 0;
 
     try {
       final packs = await _localPackService.getPacks();
@@ -350,6 +361,10 @@ class CleanupCandidate {
 
   String get formattedSize {
     if (estimatedSize < 1024) return '${estimatedSize}B';
+    if (estimatedSize < 1024 * 1024)
+      return '${(estimatedSize / 1024).toStringAsFixed(1)}KB';
+    if (estimatedSize < 1024 * 1024 * 1024)
+      return '${(estimatedSize / (1024 * 1024)).toStringAsFixed(1)}MB';
     if (estimatedSize < 1024 * 1024)
       return '${(estimatedSize / 1024).toStringAsFixed(1)}KB';
     if (estimatedSize < 1024 * 1024 * 1024)

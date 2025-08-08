@@ -2,13 +2,13 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
-import 'package:golden_moments/features/pack/presentation/pack_page.dart';
-import 'package:golden_moments/game/view/game_page.dart';
-import 'package:golden_moments/home/cubit/home_cubit.dart';
-import 'package:golden_moments/home/cubit/home_state.dart';
-import 'package:golden_moments/home/view/widgets/daily_packs_section.dart';
-import 'package:golden_moments/home/view/widgets/library_section.dart';
-import 'package:golden_moments/home/view/widgets/setting_modal.dart';
+import 'package:golden_moments/features/game/presentation/screens/game_page.dart';
+import 'package:golden_moments/features/home/cubit/home_cubit.dart';
+import 'package:golden_moments/features/home/cubit/home_state.dart';
+import 'package:golden_moments/features/home/presentation/widgets/daily_packs_section.dart';
+import 'package:golden_moments/features/home/presentation/widgets/library_section.dart';
+import 'package:golden_moments/features/home/presentation/widgets/setting_modal.dart';
+import 'package:golden_moments/features/pack/presentation/screens/pack_page.dart';
 
 /// Home page of the Memory Lane app
 class HomePage extends StatelessWidget {

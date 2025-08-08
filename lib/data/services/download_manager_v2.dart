@@ -17,7 +17,7 @@ import 'package:golden_moments/data/services/local_pack_service.dart';
 import 'package:golden_moments/shared/utils/string_util.dart';
 
 /// Modular download manager that orchestrates all download operations
-/// 
+///
 /// This is the main entry point for all download-related operations.
 /// It coordinates between different specialized modules to provide
 /// a clean and maintainable download system.
@@ -33,16 +33,16 @@ class DownloadManagerV2 extends ChangeNotifier {
     _packCleaner = PackCleaner();
     _cacheService = JsonCacheService();
     _localPackService = LocalPackService();
-    
+
     // Listen to status changes and forward them
     _statusManager.onStatusChanged.listen((statusChange) {
       notifyListeners();
     });
-    
+
     // Listen to progress changes and forward them
     _progressTracker.addListener(notifyListeners);
   }
-  
+
   static final DownloadManagerV2 _instance = DownloadManagerV2._internal();
 
   // Core modules
@@ -56,13 +56,14 @@ class DownloadManagerV2 extends ChangeNotifier {
   late final LocalPackService _localPackService;
 
   // Public API - Status Management
-  
+
   /// Stream of pack status changes
-  Stream<MapEntry<String, PackStatus>> get onStatusChanged => 
+  Stream<MapEntry<String, PackStatus>> get onStatusChanged =>
       _statusManager.onStatusChanged;
 
   /// Get status of a specific pack
-  PackStatus getPackStatus(String packId) => _statusManager.getPackStatus(packId);
+  PackStatus getPackStatus(String packId) =>
+      _statusManager.getPackStatus(packId);
 
   /// Get status of all packs
   Map<String, PackStatus> getPacksStatus() => _statusManager.getPacksStatus();
@@ -71,9 +72,9 @@ class DownloadManagerV2 extends ChangeNotifier {
   bool isDownloaded(String packId) => _statusManager.isDownloaded(packId);
 
   // Public API - Progress Management
-  
+
   /// Get download progress for a specific pack
-  double getPackDownloadProgress(String packId) => 
+  double getPackDownloadProgress(String packId) =>
       _progressTracker.getPackDownloadProgress(packId);
 
   /// Get detailed progress information for a pack
@@ -81,11 +82,11 @@ class DownloadManagerV2 extends ChangeNotifier {
       _progressTracker.getPackProgressDetails(packId);
 
   /// Get overall download statistics
-  DownloadStatistics getOverallStatistics() => 
+  DownloadStatistics getOverallStatistics() =>
       _progressTracker.getOverallStatistics();
 
   // Public API - Storage Management
-  
+
   /// Check if there's enough space for a download
   Future<bool> hasEnoughSpace(int downloadSizeInBytes) =>
       _storageChecker.hasEnoughSpace(downloadSizeInBytes);
@@ -98,12 +99,12 @@ class DownloadManagerV2 extends ChangeNotifier {
       _storageChecker.getStorageRecommendation();
 
   // Public API - Download Operations
-  
+
   /// Initialize the download manager
   Future<void> initialize() async {
     final packs = await _localPackService.getPacks();
     final packStatuses = <String, PackStatus>{};
-    
+
     for (final pack in packs) {
       if (await _cacheService.isPackCached(pack.id)) {
         packStatuses[pack.id] = PackStatus.completed;
@@ -111,7 +112,7 @@ class DownloadManagerV2 extends ChangeNotifier {
         packStatuses[pack.id] = PackStatus.notStarted;
       }
     }
-    
+
     _statusManager.initializePackStatuses(packStatuses);
     notifyListeners();
   }
@@ -120,13 +121,13 @@ class DownloadManagerV2 extends ChangeNotifier {
   Future<void> downloadInitialPacks() async {
     final packs = await _localPackService.getPacks();
     final downloadFutures = <Future<void>>[];
-    
+
     for (final pack in packs) {
       if (!await _cacheService.isPackCached(pack.id)) {
         downloadFutures.add(downloadPack(pack.id));
       }
     }
-    
+
     // Don't await all - let them run concurrently
     for (final future in downloadFutures) {
       unawaited(future);
@@ -145,17 +146,17 @@ class DownloadManagerV2 extends ChangeNotifier {
       // Check storage space
       final packSizeBytes = parseSizeToBytes(pack.estimatedSize);
       final hasSpace = await _storageChecker.hasEnoughSpace(packSizeBytes);
-      
+
       if (!hasSpace) {
         throw DownloadError.storageSpace(
           'pack:$packId',
-          'Insufficient storage space for pack ${pack.name}',
+          'Insufficient storage space for pack ${pack.title}',
         );
       }
 
       // Create download queue
       final downloadQueue = _createDownloadQueue(pack);
-      
+
       // Initialize progress tracking
       final packProgress = _createPackProgress(pack);
       _progressTracker.initializePackProgress(packProgress);
@@ -164,9 +165,10 @@ class DownloadManagerV2 extends ChangeNotifier {
       await _queueProcessor.processPackQueue(
         packId: packId,
         queue: downloadQueue,
-        onProgress: (progress) => _progressTracker.updateImageProgress(progress),
-        onComplete: _handleDownloadComplete,
-        onError: _handleDownloadError,
+        onProgress: (progress) =>
+            _progressTracker.updateImageProgress(progress),
+        onComplete: (item) => _handleDownloadComplete(item),
+        onError: (item, error) => _handleDownloadError(item, error),
       );
 
       // Save pack cache
@@ -179,14 +181,13 @@ class DownloadManagerV2 extends ChangeNotifier {
 
       // Update final status
       _statusManager.markAsCompleted(packId);
-
     } on Exception catch (e) {
       _statusManager.markAsFailed(packId);
-      
+
       final downloadError = e is DownloadError
           ? e
           : DownloadError.unknown('pack:$packId', e.toString());
-      
+
       throw downloadError;
     }
   }
@@ -194,10 +195,10 @@ class DownloadManagerV2 extends ChangeNotifier {
   /// Create download queue for a pack
   DownloadQueue _createDownloadQueue(Pack pack) {
     var queue = DownloadQueue.empty();
-    
+
     for (final image in pack.images) {
       final downloadId = generateDownloadId(pack.id, image.id);
-      
+
       final item = DownloadItem(
         id: downloadId,
         packId: pack.id,
@@ -209,20 +210,20 @@ class DownloadManagerV2 extends ChangeNotifier {
         retryCount: 0,
         queuedAt: DateTime.now(),
       );
-      
+
       queue = queue.addDownload(item);
     }
-    
+
     return queue;
   }
 
   /// Create pack progress tracking
   PackDownloadProgress _createPackProgress(Pack pack) {
     final imageProgresses = <DownloadProgress>[];
-    
+
     for (final image in pack.images) {
       final downloadId = generateDownloadId(pack.id, image.id);
-      
+
       imageProgresses.add(
         DownloadProgress.started(
           downloadId: downloadId,
@@ -232,7 +233,7 @@ class DownloadManagerV2 extends ChangeNotifier {
         ),
       );
     }
-    
+
     return PackDownloadProgress(
       packId: pack.id,
       imageProgresses: imageProgresses,
@@ -254,11 +255,11 @@ class DownloadManagerV2 extends ChangeNotifier {
   }
 
   // Public API - Cleanup Operations
-  
+
   /// Delete a pack and all its files
   Future<void> deletePack(String packId) async {
     final result = await _packCleaner.deletePack(packId);
-    
+
     if (result.success) {
       _statusManager.resetPackStatus(packId);
       _progressTracker.removePackProgress(packId);
@@ -279,7 +280,7 @@ class DownloadManagerV2 extends ChangeNotifier {
   Future<int> getTotalCachedSize() => _packCleaner.getTotalCachedSize();
 
   // Public API - Queue Management
-  
+
   /// Get download queue statistics
   QueueStatistics getQueueStatistics(String packId) =>
       _queueProcessor.getQueueStatistics(packId);

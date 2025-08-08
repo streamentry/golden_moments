@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
-import 'package:golden_moments/features/category/presentation/category_page.dart';
+import 'package:golden_moments/features/category/presentation/screens/category_page.dart';
 import 'package:golden_moments/shared/widgets/category_card.dart';
 
 /// Section displaying the game library

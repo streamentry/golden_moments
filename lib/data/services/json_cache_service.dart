@@ -11,6 +11,15 @@ import 'package:golden_moments/data/storage/json_store.dart';
 import 'package:golden_moments/data/storage/web_json_file_manager.dart';
 import 'package:path_provider/path_provider.dart';
 
+import '../models/cache_index.dart';
+import '../models/cache_stats.dart';
+import '../models/download_queue.dart';
+import '../models/pack_cache.dart';
+import '../storage/base_json_file_manager.dart';
+import '../storage/cache_file_paths.dart';
+import '../storage/json_file_manager.dart';
+import '../storage/web_json_file_manager.dart';
+
 /// JSON-based cache service for managing pack and image cache
 class JsonCacheService {
   factory JsonCacheService() => _instance;
@@ -146,8 +155,10 @@ class JsonCacheService {
       CacheFilePaths.packsDirectory,
     );
     return packFiles
-        .where((file) => file.endsWith('.json'))
-        .map((file) => file.substring(0, file.length - 5)) // Remove .json
+        .where((String file) => file.endsWith('.json'))
+        .map(
+          (String file) => file.substring(0, file.length - 5),
+        ) // Remove .json
         .toList();
   }
 

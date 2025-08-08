@@ -19,10 +19,11 @@ class StorageChecker {
       final diskSpacePlus = DiskSpacePlus();
       final freeDiskSpaceMB = await diskSpacePlus.getFreeDiskSpace ?? 0;
       final freeDiskSpaceBytes = freeDiskSpaceMB * _bytesPerMB;
-      
+
       // Check if we have enough space for download + minimum buffer
-      final requiredSpace = downloadSizeInBytes + (_minimumFreeSpaceMB * _bytesPerMB);
-      
+      final requiredSpace =
+          downloadSizeInBytes + (_minimumFreeSpaceMB * _bytesPerMB);
+
       return freeDiskSpaceBytes >= requiredSpace;
     } on Exception {
       // On platforms where disk space check isn't available,
@@ -47,7 +48,7 @@ class StorageChecker {
   }
 
   /// Get available disk space in MB
-  Future<int> getAvailableSpaceMB() async {
+  Future<double> getAvailableSpaceMB() async {
     if (kIsWeb) {
       return -1; // Unknown on web
     }
@@ -111,9 +112,12 @@ class StorageChecker {
       final freeSpaceMB = await diskSpacePlus.getFreeDiskSpace ?? 0;
       final totalSpaceMB = await diskSpacePlus.getTotalDiskSpace ?? 0;
       final usedSpaceMB = totalSpaceMB - freeSpaceMB;
-      
-      final usagePercentage = totalSpaceMB > 0 ? usedSpaceMB / totalSpaceMB : 0.0;
-      final isLowSpace = freeSpaceMB < _minimumFreeSpaceMB * 2; // Warning threshold
+
+      final usagePercentage = totalSpaceMB > 0
+          ? usedSpaceMB / totalSpaceMB
+          : 0.0;
+      final isLowSpace =
+          freeSpaceMB < _minimumFreeSpaceMB * 2; // Warning threshold
 
       return StorageInfo(
         totalSpace: _formatBytes((totalSpaceMB * _bytesPerMB).toInt()),
@@ -137,7 +141,8 @@ class StorageChecker {
   String _formatBytes(int bytes) {
     if (bytes < 1024) return '${bytes}B';
     if (bytes < 1024 * 1024) return '${(bytes / 1024).toStringAsFixed(1)}KB';
-    if (bytes < 1024 * 1024 * 1024) return '${(bytes / (1024 * 1024)).toStringAsFixed(1)}MB';
+    if (bytes < 1024 * 1024 * 1024)
+      return '${(bytes / (1024 * 1024)).toStringAsFixed(1)}MB';
     return '${(bytes / (1024 * 1024 * 1024)).toStringAsFixed(1)}GB';
   }
 
@@ -157,7 +162,7 @@ class StorageChecker {
   /// Get recommendation for storage cleanup
   Future<StorageRecommendation> getStorageRecommendation() async {
     final storageInfo = await getStorageInfo();
-    
+
     if (storageInfo.usagePercentage > 0.9) {
       return StorageRecommendation.critical;
     } else if (storageInfo.usagePercentage > 0.8) {
@@ -186,14 +191,15 @@ class StorageInfo {
   final double usagePercentage;
   final bool isLowSpace;
 
-  String get usagePercentageFormatted => '${(usagePercentage * 100).toStringAsFixed(1)}%';
+  String get usagePercentageFormatted =>
+      '${(usagePercentage * 100).toStringAsFixed(1)}%';
 }
 
 /// Storage recommendation levels
 enum StorageRecommendation {
-  ok,       // Storage is fine
-  low,      // Storage is getting low but manageable  
-  warning,  // Storage is low, should clean up
+  ok, // Storage is fine
+  low, // Storage is getting low but manageable
+  warning, // Storage is low, should clean up
   critical, // Storage is critically low, must clean up
 }
 

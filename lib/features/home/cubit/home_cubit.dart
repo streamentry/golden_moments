@@ -5,8 +5,8 @@ import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
-import 'package:golden_moments/game/models/models.dart';
-import 'package:golden_moments/home/cubit/home_state.dart';
+import 'package:golden_moments/features/game/models/models.dart';
+import 'package:golden_moments/features/home/cubit/home_state.dart';
 
 /// Cubit for managing home screen state and logic
 class HomeCubit extends Cubit<HomeState> {

@@ -8,6 +8,7 @@ import 'package:golden_moments/data/storage/json_store.dart';
 class JsonFileManager implements JsonStore {
   JsonFileManager({required this.cacheDirectory});
 
+  @override
   final String cacheDirectory;
 
   /// Load JSON file with type safety and error handling

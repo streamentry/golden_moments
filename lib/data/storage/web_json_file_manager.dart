@@ -7,6 +7,7 @@ import 'package:golden_moments/data/storage/json_store.dart';
 class WebJsonFileManager implements JsonStore {
   WebJsonFileManager({required this.cacheDirectory});
 
+  @override
   final String cacheDirectory;
 
   /// Load JSON file with type safety and error handling
@@ -90,13 +91,14 @@ class WebJsonFileManager implements JsonStore {
     try {
       final prefs = await SharedPreferences.getInstance();
       final prefix = _getStorageKey(relativePath);
-      
-      final keys = prefs.getKeys()
+
+      final keys = prefs
+          .getKeys()
           .where((key) => key.startsWith('$prefix/'))
           .map((key) => key.substring(prefix.length + 1))
           .where((name) => !name.contains('/')) // Only direct children
           .toList();
-      
+
       return keys;
     } on Exception catch (e) {
       print('Error listing files in $relativePath: $e');
@@ -111,7 +113,7 @@ class WebJsonFileManager implements JsonStore {
       final prefs = await SharedPreferences.getInstance();
       final key = _getStorageKey(relativePath);
       final content = prefs.getString(key);
-      
+
       return content?.length ?? 0;
     } on Exception catch (e) {
       print('Error getting file size for $relativePath: $e');
@@ -125,7 +127,7 @@ class WebJsonFileManager implements JsonStore {
     try {
       final prefs = await SharedPreferences.getInstance();
       final prefix = _getStorageKey(relativePath);
-      
+
       var totalSize = 0;
       for (final key in prefs.getKeys()) {
         if (key.startsWith(prefix)) {
@@ -133,7 +135,7 @@ class WebJsonFileManager implements JsonStore {
           totalSize += content?.length ?? 0;
         }
       }
-      
+
       return totalSize;
     } on Exception catch (e) {
       print('Error calculating directory size for $relativePath: $e');
