@@ -2,14 +2,16 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:path/path.dart' as path;
+import 'package:golden_moments/data/storage/json_store.dart';
 
 /// Safe JSON file operations with atomic writes and corruption recovery
-class JsonFileManager {
+class JsonFileManager implements JsonStore {
   JsonFileManager({required this.cacheDirectory});
 
   final String cacheDirectory;
 
   /// Load JSON file with type safety and error handling
+  @override
   Future<T?> loadJsonFile<T>(
     String relativePath,
     T Function(Map<String, dynamic>) fromJson,
@@ -44,6 +46,7 @@ class JsonFileManager {
   }
 
   /// Save JSON file with atomic write and backup
+  @override
   Future<void> saveJsonFile<T>(
     String relativePath,
     T data,
@@ -79,12 +82,14 @@ class JsonFileManager {
   }
 
   /// Check if file exists
+  @override
   Future<bool> fileExists(String relativePath) async {
     final filePath = path.join(cacheDirectory, relativePath);
     return File(filePath).existsSync();
   }
 
   /// Delete file safely
+  @override
   Future<void> deleteFile(String relativePath) async {
     try {
       final filePath = path.join(cacheDirectory, relativePath);
@@ -106,6 +111,7 @@ class JsonFileManager {
   }
 
   /// Create directory
+  @override
   Future<void> createDirectory(String relativePath) async {
     final dirPath = path.join(cacheDirectory, relativePath);
     final directory = Directory(dirPath);
@@ -113,6 +119,7 @@ class JsonFileManager {
   }
 
   /// List files in directory
+  @override
   Future<List<String>> listFiles(String relativePath) async {
     try {
       final dirPath = path.join(cacheDirectory, relativePath);
@@ -134,6 +141,7 @@ class JsonFileManager {
   }
 
   /// Get file size in bytes
+  @override
   Future<int> getFileSize(String relativePath) async {
     try {
       final filePath = path.join(cacheDirectory, relativePath);
@@ -150,6 +158,7 @@ class JsonFileManager {
   }
 
   /// Get directory size in bytes
+  @override
   Future<int> getDirectorySize(String relativePath) async {
     try {
       final dirPath = path.join(cacheDirectory, relativePath);
@@ -174,6 +183,7 @@ class JsonFileManager {
   }
 
   /// Clean up temporary files
+  @override
   Future<void> cleanupTempFiles() async {
     try {
       final directory = Directory(cacheDirectory);
@@ -197,6 +207,7 @@ class JsonFileManager {
   }
 
   /// Validate JSON file integrity
+  @override
   Future<bool> validateJsonFile(String relativePath) async {
     try {
       final filePath = path.join(cacheDirectory, relativePath);
@@ -249,6 +260,7 @@ class JsonFileManager {
   }
 
   /// Initialize cache directory structure
+  @override
   Future<void> initializeCacheStructure() async {
     try {
       // Create main cache directory
@@ -267,6 +279,7 @@ class JsonFileManager {
   }
 
   /// Get cache directory path
+  @override
   String getCachePath(String relativePath) {
     return path.join(cacheDirectory, relativePath);
   }
