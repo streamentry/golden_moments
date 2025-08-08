@@ -40,9 +40,7 @@ class DownloadManagerV2 extends ChangeNotifier {
     });
 
     // Listen to progress changes and forward them
-    _progressTracker.addListener(() {
-      notifyListeners();
-    });
+    _progressTracker.addListener(notifyListeners);
   }
 
   static final DownloadManagerV2 _instance = DownloadManagerV2._internal();
@@ -304,8 +302,8 @@ class DownloadManagerV2 extends ChangeNotifier {
     await _queueProcessor.retryFailedDownloads(
       packId: packId,
       onProgress: (progress) => _progressTracker.updateImageProgress(progress),
-      onComplete: (item) => _handleDownloadComplete(item),
-      onError: (item, error) => _handleDownloadError(item, error),
+      onComplete: _handleDownloadComplete,
+      onError: _handleDownloadError,
     );
   }
 

@@ -54,7 +54,7 @@ const gmBrick500 = Color(0xFFB03127); // error / mismatch
 const _gmFontFamily = 'NotoSans'; // Add in pubspec under fonts:
 
 // Base scale (sp)
-const double _gmFontScale = 1.0; // allow override for testing
+const double _gmFontScale = 1; // allow override for testing
 
 TextTheme _gmTextTheme(Color onSurface) => TextTheme(
   displayLarge: TextStyle(
@@ -91,27 +91,27 @@ TextTheme _gmTextTheme(Color onSurface) => TextTheme(
 ///////////////////////////////////////////////////////////////////////////////
 /// 3. SHAPES, SPACING, ELEVATION
 ///////////////////////////////////////////////////////////////////////////////
-const double gmRadiusMd = 8.0;
-const double gmRadiusLg = 16.0;
+const double gmRadiusMd = 8;
+const double gmRadiusLg = 16;
 
-const double gmSpaceXs = 4.0;
-const double gmSpaceSm = 8.0;
-const double gmSpaceMd = 16.0;
-const double gmSpaceLg = 24.0;
+const double gmSpaceXs = 4;
+const double gmSpaceSm = 8;
+const double gmSpaceMd = 16;
+const double gmSpaceLg = 24;
 
-const double gmElevationCard = 2.0;
-const double gmElevationModal = 8.0;
+const double gmElevationCard = 2;
+const double gmElevationModal = 8;
 
 ///////////////////////////////////////////////////////////////////////////////
 /// 4. THEME BUILDERS  (light & dark)
 ///////////////////////////////////////////////////////////////////////////////
 ThemeData gmBuildTheme({required Brightness brightness}) {
-  final bool dark = brightness == Brightness.dark;
+  final dark = brightness == Brightness.dark;
 
-  final Color onSurface = dark ? gmSurf50 : gmCharcoal900;
-  final Color background = dark ? gmCharcoal900 : gmSurf50;
-  final Color surface = dark ? gmCharcoal900 : gmSurf100;
-  final Color onPrimary = dark ? gmCharcoal900 : Colors.white;
+  final onSurface = dark ? gmSurf50 : gmCharcoal900;
+  final background = dark ? gmCharcoal900 : gmSurf50;
+  final surface = dark ? gmCharcoal900 : gmSurf100;
+  final onPrimary = dark ? gmCharcoal900 : Colors.white;
 
   final scheme = ColorScheme(
     brightness: brightness,
@@ -155,22 +155,23 @@ ThemeData gmBuildTheme({required Brightness brightness}) {
 
 /// PRIMARY CTA BUTTON  –  large touch target, gold fill
 class GmPrimaryButton extends StatelessWidget {
-  final String label;
-  final VoidCallback? onTap;
-  final bool busy, disabled;
   const GmPrimaryButton({
-    Key? key,
     required this.label,
+    super.key,
     this.onTap,
     this.busy = false,
     this.disabled = false,
-  }) : super(key: key);
+  });
+  final String label;
+  final VoidCallback? onTap;
+  final bool busy;
+  final bool disabled;
 
   @override
   Widget build(BuildContext parentContext) {
     final scheme = Theme.of(parentContext).colorScheme;
-    final bool isDisabled = disabled || busy || onTap == null;
-    final Color bg = isDisabled
+    final isDisabled = disabled || busy || onTap == null;
+    final bg = isDisabled
         ? scheme.primary.withValues(alpha: 0.38)
         : scheme.primary;
     return Semantics(
@@ -210,10 +211,9 @@ class GmPrimaryButton extends StatelessWidget {
 
 /// OUTLINE BUTTON  –  secondary CTA
 class GmOutlineButton extends StatelessWidget {
+  const GmOutlineButton({required this.label, super.key, this.onTap});
   final String label;
   final VoidCallback? onTap;
-  const GmOutlineButton({Key? key, required this.label, this.onTap})
-    : super(key: key);
 
   @override
   Widget build(BuildContext parentContext) {
@@ -296,17 +296,17 @@ class GmMemoryTile extends StatelessWidget {
 // Flip helper
 class RotationYTransition extends AnimatedWidget {
   const RotationYTransition({
-    Key? key,
     required Animation<double> turns,
     required this.child,
-  }) : super(key: key, listenable: turns);
+    super.key,
+  }) : super(listenable: turns);
 
   final Widget child;
 
   @override
   Widget build(BuildContext context) {
-    final double val = (listenable as Animation<double>).value;
-    final Matrix4 transform = Matrix4.identity()
+    final val = (listenable as Animation<double>).value;
+    final transform = Matrix4.identity()
       ..setEntry(3, 2, 0.001) // Perspective
       ..rotateY(val * 3.1416); // 0 → 180°
 
@@ -328,8 +328,8 @@ class RotationYTransition extends AnimatedWidget {
 /// 6. CONFETTI OVERLAY  –  respects reduced-motion setting
 ///////////////////////////////////////////////////////////////////////////////
 class GmConfettiOverlay extends StatefulWidget {
+  const GmConfettiOverlay({required this.show, super.key});
   final bool show;
-  const GmConfettiOverlay({Key? key, required this.show}) : super(key: key);
   @override
   State<GmConfettiOverlay> createState() => _GmConfettiOverlayState();
 }
@@ -344,8 +344,9 @@ class _GmConfettiOverlayState extends State<GmConfettiOverlay>
       vsync: this,
       duration: const Duration(seconds: 2),
     );
-    if (widget.show && !MediaQuery.of(context).disableAnimations)
+    if (widget.show && !MediaQuery.of(context).disableAnimations) {
       _ctl.forward();
+    }
   }
 
   @override
@@ -371,7 +372,6 @@ class _GmConfettiOverlayState extends State<GmConfettiOverlay>
 
     final size = MediaQuery.sizeOf(context);
     return IgnorePointer(
-      ignoring: true,
       child: AnimatedBuilder(
         animation: _ctl,
         builder: (_, __) {
@@ -390,19 +390,19 @@ class _GmConfettiOverlayState extends State<GmConfettiOverlay>
 }
 
 class _ConfettiPainter extends CustomPainter {
-  final double progress;
   _ConfettiPainter({required this.progress});
-  static const _colors = [gmGold300, gmGold600, gmGold700];
+  final double progress;
+  static const List<Color> _colors = [gmGold300, gmGold600, gmGold700];
   @override
   void paint(Canvas c, Size s) {
     final paint = Paint();
-    for (int i = 0; i < 30; i++) {
+    for (var i = 0; i < 30; i++) {
       paint.color = _colors[i % _colors.length].withValues(
         alpha: 0.8 * (1 - progress),
       );
       final dx = (i * 53) % s.width;
       final dy = s.height * progress + (i * 37) % 120;
-      c.drawCircle(Offset(dx.toDouble(), dy.toDouble()), 4, paint);
+      c.drawCircle(Offset(dx, dy), 4, paint);
     }
   }
 

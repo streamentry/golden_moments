@@ -2,11 +2,10 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:path/path.dart' as path;
-
-import 'base_json_file_manager.dart';
+import 'package:golden_moments/data/storage/json_store.dart';
 
 /// Safe JSON file operations with atomic writes and corruption recovery
-class JsonFileManager extends BaseJsonFileManager {
+class JsonFileManager implements JsonStore {
   JsonFileManager({required this.cacheDirectory});
 
   @override
@@ -133,7 +132,7 @@ class JsonFileManager extends BaseJsonFileManager {
 
       final files = await directory.list().toList();
       return files
-          .where((entity) => entity is File)
+          .whereType<File>()
           .map((file) => path.basename(file.path))
           .toList();
     } on Exception catch (e) {

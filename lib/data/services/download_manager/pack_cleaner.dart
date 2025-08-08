@@ -44,7 +44,7 @@ class PackCleaner {
       result.message = 'Pack deleted successfully';
     } on Exception catch (e) {
       result.success = false;
-      result.message = 'Failed to delete pack: ${e.toString()}';
+      result.message = 'Failed to delete pack: $e';
       result.error = e;
     }
 
@@ -83,6 +83,13 @@ class PackCleaner {
             error: e,
           ),
         );
+        result.errors.add(
+          ImageDeletionError(
+            imageId: image.id,
+            imagePath: getImageLocalPath(image.id, pack.id),
+            error: e,
+          ),
+        );
       }
     }
 
@@ -96,6 +103,10 @@ class PackCleaner {
     try {
       // Clean up any partial download files
       final tempDir = Directory.systemTemp;
+      final packTempDir = Directory(
+        '${tempDir.path}/golden_moments_temp/$packId',
+      );
+
       final packTempDir = Directory(
         '${tempDir.path}/golden_moments_temp/$packId',
       );
@@ -350,6 +361,10 @@ class CleanupCandidate {
 
   String get formattedSize {
     if (estimatedSize < 1024) return '${estimatedSize}B';
+    if (estimatedSize < 1024 * 1024)
+      return '${(estimatedSize / 1024).toStringAsFixed(1)}KB';
+    if (estimatedSize < 1024 * 1024 * 1024)
+      return '${(estimatedSize / (1024 * 1024)).toStringAsFixed(1)}MB';
     if (estimatedSize < 1024 * 1024)
       return '${(estimatedSize / 1024).toStringAsFixed(1)}KB';
     if (estimatedSize < 1024 * 1024 * 1024)

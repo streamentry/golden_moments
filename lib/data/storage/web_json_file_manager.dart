@@ -1,11 +1,10 @@
 import 'dart:convert';
 
 import 'package:shared_preferences/shared_preferences.dart';
-
-import 'base_json_file_manager.dart';
+import 'package:golden_moments/data/storage/json_store.dart';
 
 /// Web-compatible JSON file manager using SharedPreferences for storage
-class WebJsonFileManager extends BaseJsonFileManager {
+class WebJsonFileManager implements JsonStore {
   WebJsonFileManager({required this.cacheDirectory});
 
   @override

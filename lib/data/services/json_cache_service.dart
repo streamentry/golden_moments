@@ -1,6 +1,14 @@
 import 'dart:io';
 
 import 'package:flutter/foundation.dart';
+import 'package:golden_moments/data/models/cache_index.dart';
+import 'package:golden_moments/data/models/cache_stats.dart';
+import 'package:golden_moments/data/models/download_queue.dart';
+import 'package:golden_moments/data/models/pack_cache.dart';
+import 'package:golden_moments/data/storage/cache_file_paths.dart';
+import 'package:golden_moments/data/storage/json_file_manager.dart';
+import 'package:golden_moments/data/storage/json_store.dart';
+import 'package:golden_moments/data/storage/web_json_file_manager.dart';
 import 'package:path_provider/path_provider.dart';
 
 import '../models/cache_index.dart';
@@ -18,7 +26,7 @@ class JsonCacheService {
   JsonCacheService._internal();
   static final JsonCacheService _instance = JsonCacheService._internal();
 
-  BaseJsonFileManager? _fileManager;
+  JsonStore? _fileManager; // Can be JsonFileManager or WebJsonFileManager
   String? _cacheDirectory;
 
   /// Initialize the cache service
@@ -40,7 +48,7 @@ class JsonCacheService {
   }
 
   /// Create a web-compatible file manager that doesn't perform file operations
-  BaseJsonFileManager _createWebCompatibleFileManager() {
+  JsonStore _createWebCompatibleFileManager() {
     // Use WebJsonFileManager for web platforms
     if (kIsWeb) {
       return WebJsonFileManager(cacheDirectory: 'golden_moments_cache');
@@ -50,7 +58,7 @@ class JsonCacheService {
   }
 
   /// Get the file manager instance
-  BaseJsonFileManager get fileManager {
+  JsonStore get fileManager {
     if (_fileManager == null) {
       throw StateError(
         'JsonCacheService not initialized. Call initialize() first.',

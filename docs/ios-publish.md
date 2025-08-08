@@ -246,7 +246,7 @@ This script:
    ```bash
    flutter clean
    flutter pub get
-   flutter build ios --release --no-codesign -t lib/main.dart --flavor production
+   flutter build ios --release --no-codesign -t lib/main.dart 
    ```
 
 2. **Archive and Upload**
