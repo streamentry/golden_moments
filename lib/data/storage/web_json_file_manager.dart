@@ -1,14 +1,16 @@
 import 'dart:convert';
 
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:golden_moments/data/storage/json_store.dart';
 
 /// Web-compatible JSON file manager using SharedPreferences for storage
-class WebJsonFileManager {
+class WebJsonFileManager implements JsonStore {
   WebJsonFileManager({required this.cacheDirectory});
 
   final String cacheDirectory;
 
   /// Load JSON file with type safety and error handling
+  @override
   Future<T?> loadJsonFile<T>(
     String relativePath,
     T Function(Map<String, dynamic>) fromJson,
@@ -32,6 +34,7 @@ class WebJsonFileManager {
   }
 
   /// Save JSON file with backup
+  @override
   Future<void> saveJsonFile<T>(
     String relativePath,
     T data,
@@ -52,6 +55,7 @@ class WebJsonFileManager {
   }
 
   /// Check if file exists
+  @override
   Future<bool> fileExists(String relativePath) async {
     try {
       final prefs = await SharedPreferences.getInstance();
@@ -63,6 +67,7 @@ class WebJsonFileManager {
   }
 
   /// Delete file safely
+  @override
   Future<void> deleteFile(String relativePath) async {
     try {
       final prefs = await SharedPreferences.getInstance();
@@ -74,11 +79,13 @@ class WebJsonFileManager {
   }
 
   /// Create directory (no-op on web)
+  @override
   Future<void> createDirectory(String relativePath) async {
     // No-op on web - SharedPreferences doesn't need directory structure
   }
 
   /// List files in directory
+  @override
   Future<List<String>> listFiles(String relativePath) async {
     try {
       final prefs = await SharedPreferences.getInstance();
@@ -98,6 +105,7 @@ class WebJsonFileManager {
   }
 
   /// Get file size in bytes (approximation on web)
+  @override
   Future<int> getFileSize(String relativePath) async {
     try {
       final prefs = await SharedPreferences.getInstance();
@@ -112,6 +120,7 @@ class WebJsonFileManager {
   }
 
   /// Get directory size in bytes (approximation on web)
+  @override
   Future<int> getDirectorySize(String relativePath) async {
     try {
       final prefs = await SharedPreferences.getInstance();
@@ -133,11 +142,13 @@ class WebJsonFileManager {
   }
 
   /// Clean up temporary files (no-op on web)
+  @override
   Future<void> cleanupTempFiles() async {
     // No-op on web - no temp files in SharedPreferences
   }
 
   /// Validate JSON file integrity
+  @override
   Future<bool> validateJsonFile(String relativePath) async {
     try {
       final prefs = await SharedPreferences.getInstance();
@@ -156,11 +167,13 @@ class WebJsonFileManager {
   }
 
   /// Initialize cache directory structure (no-op on web)
+  @override
   Future<void> initializeCacheStructure() async {
     // No-op on web - SharedPreferences doesn't need directory structure
   }
 
   /// Get cache directory path (returns logical path on web)
+  @override
   String getCachePath(String relativePath) {
     return '$cacheDirectory/$relativePath';
   }
