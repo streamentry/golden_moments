@@ -233,8 +233,8 @@ class _ConnectivityBannerState extends State<ConnectivityBanner>
     );
     _slideAnimation =
         Tween<double>(
-          begin: -1.0,
-          end: 0.0,
+          begin: -1,
+          end: 0,
         ).animate(
           CurvedAnimation(
             parent: _animationController,
@@ -318,7 +318,7 @@ class _ConnectivityBannerState extends State<ConnectivityBanner>
               const SizedBox(width: gmSpaceSm),
               Expanded(
                 child: Text(
-                  'You\'re offline. Playing with cached packs only.',
+                  "You're offline. Playing with cached packs only.",
                   style: theme.textTheme.bodyMedium?.copyWith(
                     color: theme.colorScheme.onError,
                     fontWeight: FontWeight.w500,
@@ -357,9 +357,7 @@ class ConnectivityCubit extends Cubit<ConnectivityStatus> {
     await _connectivityService.initialize();
     emit(_connectivityService.currentStatus);
 
-    _connectivityService.statusStream.listen((status) {
-      emit(status);
-    });
+    _connectivityService.statusStream.listen(emit);
   }
 
   /// Manually check connectivity

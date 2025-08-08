@@ -7,8 +7,7 @@ import 'package:golden_moments/design_system.dart';
 /// Widget that displays images with long-term caching
 class CachedImageWidget extends StatefulWidget {
   const CachedImageWidget({
-    super.key,
-    required this.imageUrl,
+    required this.imageUrl, super.key,
     this.width,
     this.height,
     this.fit = BoxFit.cover,
@@ -189,9 +188,7 @@ class _CachedImageWidgetState extends State<CachedImageWidget> {
 /// Circular cached image widget for avatars and thumbnails
 class CachedCircularImage extends StatelessWidget {
   const CachedCircularImage({
-    super.key,
-    required this.imageUrl,
-    required this.radius,
+    required this.imageUrl, required this.radius, super.key,
     this.placeholder,
     this.errorWidget,
   });
@@ -208,10 +205,8 @@ class CachedCircularImage extends StatelessWidget {
         imageUrl: imageUrl,
         width: radius * 2,
         height: radius * 2,
-        fit: BoxFit.cover,
         placeholder: placeholder,
         errorWidget: errorWidget,
-        showLoadingIndicator: true,
       ),
     );
   }
@@ -220,8 +215,7 @@ class CachedCircularImage extends StatelessWidget {
 /// Cached image with fade-in animation
 class FadeInCachedImage extends StatefulWidget {
   const FadeInCachedImage({
-    super.key,
-    required this.imageUrl,
+    required this.imageUrl, super.key,
     this.width,
     this.height,
     this.fit = BoxFit.cover,
@@ -258,8 +252,8 @@ class _FadeInCachedImageState extends State<FadeInCachedImage>
     );
     _fadeAnimation =
         Tween<double>(
-          begin: 0.0,
-          end: 1.0,
+          begin: 0,
+          end: 1,
         ).animate(
           CurvedAnimation(
             parent: _animationController,
@@ -292,8 +286,7 @@ class _FadeInCachedImageState extends State<FadeInCachedImage>
 /// Cached image grid for displaying multiple images
 class CachedImageGrid extends StatelessWidget {
   const CachedImageGrid({
-    super.key,
-    required this.imageUrls,
+    required this.imageUrls, super.key,
     this.crossAxisCount = 2,
     this.aspectRatio = 1.0,
     this.spacing = gmSpaceSm,
@@ -324,7 +317,6 @@ class CachedImageGrid extends StatelessWidget {
           onTap: onImageTap != null ? () => onImageTap!(imageUrl, index) : null,
           child: CachedImageWidget(
             imageUrl: imageUrl,
-            fit: BoxFit.cover,
             borderRadius: BorderRadius.circular(gmRadiusMd),
           ),
         );
@@ -336,8 +328,7 @@ class CachedImageGrid extends StatelessWidget {
 /// Cached image carousel for preview images
 class CachedImageCarousel extends StatelessWidget {
   const CachedImageCarousel({
-    super.key,
-    required this.imageUrls,
+    required this.imageUrls, super.key,
     this.height = 200,
     this.onImageTap,
   });
@@ -364,7 +355,6 @@ class CachedImageCarousel extends StatelessWidget {
                   : null,
               child: CachedImageWidget(
                 imageUrl: imageUrl,
-                fit: BoxFit.cover,
                 borderRadius: BorderRadius.circular(gmRadiusMd),
               ),
             ),

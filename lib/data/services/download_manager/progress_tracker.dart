@@ -12,7 +12,7 @@ class ProgressTracker extends ChangeNotifier {
     if (_packsProgress.containsKey(packId)) {
       return _packsProgress[packId]!.progressByImage;
     }
-    return 0.0;
+    return 0;
   }
 
   /// Get detailed progress information for a pack
@@ -94,17 +94,17 @@ class ProgressTracker extends ChangeNotifier {
   /// Get download speed for a pack (average of all active downloads)
   double getPackDownloadSpeed(String packId) {
     final packProgress = _packsProgress[packId];
-    if (packProgress == null) return 0.0;
+    if (packProgress == null) return 0;
 
     final activeDownloads = packProgress.imageProgresses
         .where((progress) => progress.status == DownloadProgressStatus.downloading)
         .toList();
 
-    if (activeDownloads.isEmpty) return 0.0;
+    if (activeDownloads.isEmpty) return 0;
 
     final totalSpeed = activeDownloads
         .map((progress) => progress.downloadSpeed)
-        .fold(0.0, (sum, speed) => sum + speed);
+        .fold(0, (sum, speed) => sum + speed);
 
     return totalSpeed / activeDownloads.length;
   }
@@ -164,8 +164,8 @@ class ProgressTracker extends ChangeNotifier {
         .fold(0, (sum, count) => sum + count);
 
     final totalSpeed = _packsProgress.keys
-        .map((packId) => getPackDownloadSpeed(packId))
-        .fold(0.0, (sum, speed) => sum + speed);
+        .map(getPackDownloadSpeed)
+        .fold(0, (sum, speed) => sum + speed);
 
     return DownloadStatistics(
       totalPacks: totalPacks,

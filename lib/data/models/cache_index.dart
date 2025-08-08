@@ -9,24 +9,19 @@ class CacheIndex extends Equatable {
     required this.packs,
   });
 
-  final String version;
-  final DateTime lastUpdated;
-  final DateTime lastCleanup;
-  final Map<String, CachedPackInfo> packs;
-
   factory CacheIndex.empty() {
     return CacheIndex(
       version: '1.0.0',
       lastUpdated: DateTime.now(),
       lastCleanup: DateTime.now(),
-      packs: {},
+      packs: const {},
     );
   }
 
   factory CacheIndex.fromJson(Map<String, dynamic> json) {
     final packsMap = <String, CachedPackInfo>{};
     final packsJson = json['packs'] as Map<String, dynamic>? ?? {};
-    
+
     for (final entry in packsJson.entries) {
       packsMap[entry.key] = CachedPackInfo.fromJson(
         entry.value as Map<String, dynamic>,
@@ -40,6 +35,11 @@ class CacheIndex extends Equatable {
       packs: packsMap,
     );
   }
+
+  final String version;
+  final DateTime lastUpdated;
+  final DateTime lastCleanup;
+  final Map<String, CachedPackInfo> packs;
 
   Map<String, dynamic> toJson() {
     final packsJson = <String, dynamic>{};
@@ -73,7 +73,7 @@ class CacheIndex extends Equatable {
   CacheIndex addPack(CachedPackInfo packInfo) {
     final updatedPacks = Map<String, CachedPackInfo>.from(packs);
     updatedPacks[packInfo.id] = packInfo;
-    
+
     return copyWith(
       packs: updatedPacks,
       lastUpdated: DateTime.now(),
@@ -84,7 +84,7 @@ class CacheIndex extends Equatable {
   CacheIndex removePack(String packId) {
     final updatedPacks = Map<String, CachedPackInfo>.from(packs);
     updatedPacks.remove(packId);
-    
+
     return copyWith(
       packs: updatedPacks,
       lastUpdated: DateTime.now(),
@@ -94,15 +94,12 @@ class CacheIndex extends Equatable {
   /// Get expired packs that need cleanup
   List<CachedPackInfo> getExpiredPacks() {
     final now = DateTime.now();
-    return packs.values
-        .where((pack) => pack.expiresAt.isBefore(now))
-        .toList();
+    return packs.values.where((pack) => pack.expiresAt.isBefore(now)).toList();
   }
 
   /// Get total cache size in bytes
   int getTotalCacheSize() {
-    return packs.values
-        .fold(0, (sum, pack) => sum + pack.totalSize);
+    return packs.values.fold(0, (sum, pack) => sum + pack.totalSize);
   }
 
   @override
@@ -124,17 +121,6 @@ class CachedPackInfo extends Equatable {
     required this.localManifestPath,
   });
 
-  final String id;
-  final String version;
-  final String title;
-  final CacheStatus status;
-  final DateTime downloadedAt;
-  final DateTime expiresAt;
-  final int imageCount;
-  final int downloadedImages;
-  final int totalSize;
-  final String localManifestPath;
-
   factory CachedPackInfo.fromJson(Map<String, dynamic> json) {
     return CachedPackInfo(
       id: json['id'] as String,
@@ -149,6 +135,17 @@ class CachedPackInfo extends Equatable {
       localManifestPath: json['localManifestPath'] as String,
     );
   }
+
+  final String id;
+  final String version;
+  final String title;
+  final CacheStatus status;
+  final DateTime downloadedAt;
+  final DateTime expiresAt;
+  final int imageCount;
+  final int downloadedImages;
+  final int totalSize;
+  final String localManifestPath;
 
   Map<String, dynamic> toJson() {
     return {
@@ -199,23 +196,23 @@ class CachedPackInfo extends Equatable {
 
   /// Get download progress (0.0 to 1.0)
   double get downloadProgress {
-    if (imageCount == 0) return 1.0;
+    if (imageCount == 0) return 1;
     return downloadedImages / imageCount;
   }
 
   @override
   List<Object?> get props => [
-        id,
-        version,
-        title,
-        status,
-        downloadedAt,
-        expiresAt,
-        imageCount,
-        downloadedImages,
-        totalSize,
-        localManifestPath,
-      ];
+    id,
+    version,
+    title,
+    status,
+    downloadedAt,
+    expiresAt,
+    imageCount,
+    downloadedImages,
+    totalSize,
+    localManifestPath,
+  ];
 }
 
 /// Cache status enumeration

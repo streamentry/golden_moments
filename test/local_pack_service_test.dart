@@ -1,5 +1,5 @@
-import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
 
 void main() {
@@ -183,7 +183,7 @@ void main() {
       final pack = await service.getPackById('target_pack');
 
       expect(pack, isNotNull);
-      expect(pack!.id, 'target_pack');
+      expect(pack.id, 'target_pack');
       expect(pack.title, 'Target Pack');
     });
 
@@ -262,7 +262,7 @@ void main() {
           });
 
       final packInfo = await service.getPackById('game_pack');
-      final gamePack = service.convertToGamePack(packInfo!);
+      final gamePack = service.convertToGamePack(packInfo);
 
       expect(gamePack.id, 'game_pack');
       expect(gamePack.title, 'Game Pack');
