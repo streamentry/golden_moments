@@ -14,7 +14,7 @@ dependencies:
   disk_space_plus: ^0.2.6
   equatable: ^2.0.5
   firebase_analytics: ^12.0.0
-  firebase_core: ^4.0.0
+  firebase_core: ^4.1.1
   firebase_crashlytics: ^5.0.0
   flutter:
     sdk: flutter
