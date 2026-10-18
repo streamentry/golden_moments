@@ -319,6 +319,10 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
       await _delete(id: picture.id);
       return;
     }
+    setState(() {
+      _busy = true;
+      _error = null;
+    });
     try {
       final notes = await _annotations!.update(picture.id, result.note!);
       if (mounted) {
@@ -335,6 +339,8 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
               'changed. Please try again.',
         );
       }
+    } finally {
+      if (mounted) setState(() => _busy = false);
     }
   }
 

@@ -1,5 +1,5 @@
 {
-  "release": "1.3.0+5",
+  "release": "1.3.0+6",
   "meaning": "Implemented means source exists, not released or device-verified.",
   "features": {
     "gentle_matching": {
@@ -38,18 +38,23 @@
   },
   "gates": {
     "flutter_tests": {
-      "status": "locally_passed",
+      "status": "passed",
       "evidence": [
-        "docs/visual-testing.md"
+        "docs/release/app-store-1.3.0-build6.md"
       ]
     },
     "ios_archive": {
-      "status": "pending",
-      "evidence": []
+      "status": "passed",
+      "evidence": [
+        "docs/release/app-store-1.3.0-build6.md"
+      ]
     },
     "ios_photo_picker": {
       "status": "pending",
-      "evidence": []
+      "evidence": [
+        "docs/release/app-store-1.3.0-build6.md"
+      ],
+      "scope": "Native picker happy-path import and matching/viewing passed on separate iPhone/iPad iOS18.5 simulators. Cancel, limited access, HEIC, iCloud and capacity/failure scenarios remain pending."
     },
     "android_photo_picker_recovery": {
       "status": "pending",
@@ -73,19 +78,27 @@
     },
     "privacy_and_sdk_audit": {
       "status": "pending",
-      "evidence": []
+      "evidence": [
+        "docs/release/app-store-1.3.0-build6.md"
+      ],
+      "scope": "Firebase-free signed build validated; source and archive static checks do not replace network-traffic, device-backup and store declaration review."
     },
     "medical_claims_review": {
       "status": "pending",
       "evidence": []
     },
     "real_screenshot_review": {
-      "status": "pending",
-      "evidence": []
+      "status": "passed",
+      "evidence": [
+        "docs/release/app-store-1.3.0-build6.md"
+      ]
     },
     "store_configuration": {
       "status": "pending",
-      "evidence": []
+      "evidence": [
+        "docs/release/app-store-1.3.0-build6.md"
+      ],
+      "scope": "US-English fallback, canonical copy/links, build6 and 12 screenshots saved and API-read back. Broader rights, availability, legal and privacy declarations remain pending."
     }
   },
   "deferred": [
@@ -438,5 +451,16 @@
         ]
       }
     }
+  },
+  "ios_review_candidate": {
+    "version": "1.3.0",
+    "build": 6,
+    "base_commit": "c3fcd03",
+    "apple_build_id": "0456db2d-1a84-4253-a744-fae96b13489f",
+    "public_release": "MANUAL",
+    "evidence": "docs/release/app-store-1.3.0-build6.md",
+    "meaning": "Review submission is separate from public-release clearance; pending gates were not changed to passed.",
+    "review_state": "WAITING_FOR_REVIEW",
+    "review_submission_id": "5fca1044-73d9-4a09-b611-104733ab5306"
   }
 }
