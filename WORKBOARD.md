@@ -46,6 +46,17 @@ Execution status remains here and in release evidence. The feature catalog is a 
 
 All 40 catalog IDs have an entry in `release-status.json` › `senior_first_features` (enforced by `tests/test_senior_status.py`). Current tally: 4 deferred, 9 implemented unverified, 6 not started, 21 partial. Nothing is `verified`: no native device, VoiceOver/TalkBack, upgrade, traffic-capture or human-pilot evidence exists, and every release gate in that file is still pending. R2 items wait on pilot evidence; R3 items are deferred and not authorized.
 
+## Maintainer decisions (2026-10-18)
+
+Recorded at the maintainer's instruction; each is scoped and reversible.
+
+- **Coverage gate loosened.** `min_coverage` is 45 in `.github/workflows/main.yaml` (template default 100, which this codebase could never meet). It is a floor just under the measured level, to be raised as coverage grows and never lowered silently.
+- **Spell-check scope.** The legacy translated store descriptions in `docs/store-description/` are excluded because an English dictionary cannot check them (and their non-English medical claims are not reused); about 28 genuine technical words were added to the dictionary.
+- **Legacy downloader removed.** The unreachable remote-pack downloader and its cache code are removed in a separate change. Stored files from older installs are not touched.
+- **Firebase kept, collection stays off.** The Firebase dependencies stay for a possible later engagement measurement, but analytics and crash collection remain disabled (manifest and plist flags, guarded by `tests/test_network_boundary.py`). Switching collection on needs a privacy decision first: policy and App Privacy answers, a consent design suitable for older adults and caregivers, and no streaks or pressure metrics. Until then engagement is measured by consented diaries and interviews per `docs/specs/senior-first/validation.md`.
+- **PR #54 merged** at the maintainer's instruction after its own checks passed.
+- **Not decided by the assistant:** the real support address and the image rights review need the maintainer or a qualified reviewer; nothing was invented or marked reviewed.
+
 ## Deferred
 
 Photo-deck exchange, family/iCloud sync, multiple albums, recordings and payments. Optional local reminders also require a separately approved permission/product decision. Documented future acceptance criteria do not authorize implementation. No infrastructure expansion before observed repeat use. No diagnosis, cognitive scoring or treatment functionality.

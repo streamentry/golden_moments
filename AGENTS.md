@@ -125,10 +125,11 @@ Code changes need focused regression tests and full checks; native/plugin or UI
 changes additionally need the platform evidence in the Flutter guide. Missing
 tools, failed checks, and untested platforms are reported explicitly.
 
-Do not lower coverage, silence lints, delete tests, replace real assertions with
-mocks, or add `continue-on-error` to obtain green CI. A baseline failure needs
-base-commit evidence; a maintainer exception is explicit, scoped, and recorded.
-Non-fatal analyzer runs are diagnostic, not strict-analysis success.
+Do not lower coverage below the floor in `.github/workflows/main.yaml` (a
+recorded maintainer decision in WORKBOARD), silence lints, delete tests, replace
+real assertions with mocks, or add `continue-on-error` to obtain green CI. A
+baseline failure needs base-commit evidence; a maintainer exception is explicit,
+scoped and recorded. Non-fatal analyzer runs are diagnostic, not strict success.
 
 ## Code Review Rules
 
