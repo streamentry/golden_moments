@@ -15,6 +15,7 @@ Updated 2026-10-18. Scope: US English, local-first Golden Moments 1.3.0 candidat
 | Product, architecture, safety and ASO specs | Documented |
 | DESIGN.md design system applied app-wide (contrast-safe gold, 16px text floor, calm legacy game) | Implemented; automated contrast/target/text-scale tests; device review pending |
 | Senior-first feature plan | Specified in docs/specs/senior-first; not newly implemented or release-approved |
+| Senior-first slice 1: board first, visible exit, comfort settings on request (GM-001/002/003/005/012/013/016, gentle matching screen only) | Implemented; strict analysis and 109 Flutter tests pass locally; no device, screen-reader or user-comprehension evidence. Per-feature status in `release-status.json` › `senior_first_features` |
 
 PR #44 was independently merged while checks were running. That merge is not release approval. [Validation record](docs/release/validation-2026-10-18.md) distinguishes passed focused tests from remaining strict CI and native checks.
 
@@ -34,7 +35,7 @@ Read the [specification map](docs/specs/senior-first/README.md), [feature catalo
 
 The proposal contains 40 identified capabilities/quality requirements, with baseline state, phase, dependencies and acceptance tests. It is not a directive to build all 40 at once. R0 hardens the existing promise; R1 makes return/personalization easier; R2 validates individual new modes; R3 remains conditional.
 
-Within R0 usability work, the next smallest implementation slice is **board first, visible exit, optional settings** (GM-001/002/005/012/013/016). Preserve the PR #48 design tokens, contrast fixes and calm legacy UI. Address the timed legacy mismatch/hint and platform-link follow-ups within the same release-hardening phase; do not revive clocks, scores or confetti. Observe independent and shared users before choosing new activities.
+Within R0 usability work, the first slice, **board first, visible exit, optional settings** (GM-001/002/005/012/013/016, plus GM-003 preferences), is implemented for the gentle matching screen only. Still open: home-screen simplification, the photo/together/legacy screens, GM-004 safe resume and everything else in the catalog. Preserve the PR #48 design tokens, contrast fixes and calm legacy UI. Address the timed legacy mismatch/hint and platform-link follow-ups within the same release-hardening phase; do not revive clocks, scores or confetti. Observe independent and shared users before choosing new activities.
 
 Execution status remains here and in release evidence. The feature catalog is a design map, not a parallel claim that requirements have passed. Agent-guidance PR #46 was separate at the baseline read; do not overwrite its work or infer it is merged.
 

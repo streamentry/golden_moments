@@ -101,5 +101,67 @@
     "treatment_claims",
     "cloud_photo_uploads",
     "AI_processing"
-  ]
+  ],
+  "senior_first_features": {
+    "meaning": "Per-feature execution status for docs/specs/senior-first/feature-catalog.json. Catalog IDs not listed here have not been started. implemented_unverified means source and automated widget tests exist (flutter analyze strict + flutter test pass locally); no native device, VoiceOver/TalkBack or user-comprehension evidence exists yet.",
+    "features": {
+      "GM-001": {
+        "status": "partial",
+        "scope": "Gentle matching screen is board-first with no settings in the first view; the home screen was not changed and fresh-install/upgrade/device journeys are untested.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-002": {
+        "status": "implemented_unverified",
+        "scope": "Gentle matching screen only: Done for now is fixed in a bottom bar, Start again confirms only with progress and Cancel keeps the board, finishing offers Play again beside Done. Photo, together and legacy-library screens not audited.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-003": {
+        "status": "implemented_unverified",
+        "scope": "Tile count and visible-picture choice persist as a versioned, field-by-field-safe record; reset touches comfort choices only. Text size/motion preferences and other screens are not covered.",
+        "evidence": [
+          "lib/features/gentle_activities/data/gentle_preferences.dart",
+          "test/features/gentle_activities/gentle_preferences_test.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-005": {
+        "status": "partial",
+        "scope": "How-this-works help opens on request from the matching screen without resetting play. Error-state review and screen-reader reading-order checks pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-012": {
+        "status": "partial",
+        "scope": "Matching screen reflows at 200% text on 390x844 and 320x568 with no overflow. Other screens and device checks pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-013": {
+        "status": "partial",
+        "scope": "Tiles are at least 64 and as large as the space allows (shared gmBoardColumns); controls keep the 48/56 floor. Tremor/repeated-tap testing pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-016": {
+        "status": "partial",
+        "scope": "Matching screen verified in widget tests on small phone, phone, landscape phone and iPad portrait sizes. Real iPad/device layout review pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      }
+    }
+  }
 }
