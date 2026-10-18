@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:golden_moments/data/services/connectivity_service.dart';
@@ -5,11 +7,7 @@ import 'package:golden_moments/design_system.dart';
 
 /// Widget that displays connectivity status and offline indicators
 class OfflineIndicator extends StatefulWidget {
-  const OfflineIndicator({
-    super.key,
-    this.showWhenOnline = false,
-    this.compact = false,
-  });
+  const new({super.key, this.showWhenOnline = false, this.compact = false});
 
   final bool showWhenOnline;
   final bool compact;
@@ -25,7 +23,7 @@ class _OfflineIndicatorState extends State<OfflineIndicator> {
   @override
   void initState() {
     super.initState();
-    _initializeConnectivity();
+    unawaited(_initializeConnectivity());
   }
 
   Future<void> _initializeConnectivity() async {
@@ -205,7 +203,7 @@ class _OfflineIndicatorState extends State<OfflineIndicator> {
 
 /// Banner widget that appears at the top when offline
 class ConnectivityBanner extends StatefulWidget {
-  const ConnectivityBanner({super.key});
+  const new({super.key});
 
   @override
   State<ConnectivityBanner> createState() => _ConnectivityBannerState();
@@ -229,7 +227,7 @@ class _ConnectivityBannerState extends State<ConnectivityBanner>
       CurvedAnimation(parent: _animationController, curve: Curves.easeInOut),
     );
 
-    _initializeConnectivity();
+    unawaited(_initializeConnectivity());
   }
 
   @override
@@ -318,8 +316,8 @@ class _ConnectivityBannerState extends State<ConnectivityBanner>
 
 /// Connectivity status cubit for global state management
 class ConnectivityCubit extends Cubit<ConnectivityStatus> {
-  ConnectivityCubit() : super(ConnectivityStatus.unknown) {
-    _initialize();
+  new() : super(ConnectivityStatus.unknown) {
+    unawaited(_initialize());
   }
 
   final ConnectivityService _connectivityService = ConnectivityService.instance;
@@ -339,11 +337,11 @@ class ConnectivityCubit extends Cubit<ConnectivityStatus> {
 
   /// Get connectivity quality
   Future<ConnectivityQuality> getConnectivityQuality() async {
-    return _connectivityService.getConnectivityQuality();
+    return await _connectivityService.getConnectivityQuality();
   }
 
   /// Check if connection is metered
   Future<bool> isConnectionMetered() async {
-    return _connectivityService.isConnectionMetered();
+    return await _connectivityService.isConnectionMetered();
   }
 }

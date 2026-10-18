@@ -14,7 +14,7 @@ import 'package:path_provider/path_provider.dart';
 /// JSON-based cache service for managing pack and image cache
 class JsonCacheService {
   factory() => _instance;
-  JsonCacheService._internal();
+  new _internal();
   static final JsonCacheService _instance = JsonCacheService._internal();
 
   JsonStore? _fileManager; // Can be JsonFileManager or WebJsonFileManager
@@ -137,7 +137,7 @@ class JsonCacheService {
 
   /// Check if pack is cached
   Future<bool> isPackCached(String packId) async {
-    return fileManager.fileExists(CacheFilePaths.packCacheFile(packId));
+    return await fileManager.fileExists(CacheFilePaths.packCacheFile(packId));
   }
 
   /// Get all cached pack IDs
@@ -167,7 +167,7 @@ class JsonCacheService {
 
   /// Get total cache size in bytes
   Future<int> getCacheSize() async {
-    return fileManager.getDirectorySize('');
+    return await fileManager.getDirectorySize('');
   }
 
   /// Delete pack completely (cache file and images)

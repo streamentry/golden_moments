@@ -4,7 +4,7 @@ import 'package:golden_moments/features/game/cubit/tile_state.dart';
 
 /// Individual memory tile widget using the design system
 class MemoryTile extends StatelessWidget {
-  const MemoryTile({
+  const new({
     required this.packId,
     required this.tile,
     required this.onTap,

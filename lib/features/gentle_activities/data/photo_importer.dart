@@ -8,7 +8,7 @@ import 'package:image_picker/image_picker.dart';
 
 /// Explicit system-picker import. No library scanning or network requests.
 class PhotoImporter {
-  PhotoImporter({ImagePicker? picker}) : _picker = picker ?? ImagePicker();
+  new({ImagePicker? picker}) : _picker = picker ?? ImagePicker();
   final ImagePicker _picker;
 
   Future<List<XFile>> choose(int remaining) async {
@@ -23,7 +23,7 @@ class PhotoImporter {
       );
       return file == null ? [] : [file];
     }
-    return _picker.pickMultiImage(
+    return await _picker.pickMultiImage(
       maxWidth: 1024,
       maxHeight: 1024,
       imageQuality: 85,

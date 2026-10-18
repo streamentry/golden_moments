@@ -1,3 +1,5 @@
+import 'dart:async';
+
 /*
 ───────────────────────────────────────────────────────────────────────────────
  Golden Moments – design system implementation (Flutter)
@@ -312,7 +314,7 @@ ThemeData gmBuildTheme() {
 
 /// PRIMARY CTA BUTTON  –  large touch target, antique-gold fill
 class GmPrimaryButton extends StatelessWidget {
-  const GmPrimaryButton({
+  const new({
     required this.label,
     super.key,
     this.onTap,
@@ -365,9 +367,8 @@ class GmPrimaryButton extends StatelessWidget {
                     : Text(
                         label,
                         textAlign: TextAlign.center,
-                        style: Theme.of(
-                          parentContext,
-                        ).textTheme.labelLarge!.copyWith(color: fg),
+                        style: Theme.of(parentContext).textTheme.labelLarge!
+                            .copyWith(color: fg),
                       ),
               ),
             ),
@@ -380,7 +381,7 @@ class GmPrimaryButton extends StatelessWidget {
 
 /// OUTLINE BUTTON  –  secondary CTA
 class GmOutlineButton extends StatelessWidget {
-  const GmOutlineButton({required this.label, super.key, this.onTap});
+  const new({required this.label, super.key, this.onTap});
   final String label;
   final VoidCallback? onTap;
 
@@ -390,7 +391,7 @@ class GmOutlineButton extends StatelessWidget {
       width: double.infinity,
       child: OutlinedButton(
         onPressed: () {
-          SoundService().playTap();
+          unawaited(SoundService().playTap());
           onTap?.call();
         },
         child: Text(label, textAlign: TextAlign.center),
@@ -401,7 +402,7 @@ class GmOutlineButton extends StatelessWidget {
 
 /// Gold check badge that marks a matched tile by shape, not color alone.
 class GmMatchBadge extends StatelessWidget {
-  const GmMatchBadge({super.key});
+  const new({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -461,7 +462,7 @@ int gmBoardColumns({
 
 /// MEMORY TILE  (face-down / revealed / matched) for the picture-pack library
 class GmMemoryTile extends StatelessWidget {
-  const GmMemoryTile({
+  const new({
     required this.revealed,
     required this.image,
     this.matched = false,
@@ -528,11 +529,8 @@ class GmMemoryTile extends StatelessWidget {
 
 // Flip helper
 class RotationYTransition extends AnimatedWidget {
-  const RotationYTransition({
-    required Animation<double> turns,
-    required this.child,
-    super.key,
-  }) : super(listenable: turns);
+  const new({required Animation<double> turns, required this.child, super.key})
+    : super(listenable: turns);
 
   final Widget child;
 

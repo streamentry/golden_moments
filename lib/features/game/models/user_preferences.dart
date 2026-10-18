@@ -8,7 +8,7 @@ enum FontSize {
   large(multiplier: 1.5, displayName: 'Large'),
   extraLarge(multiplier: 1.8, displayName: 'Extra Large');
 
-  FontSize({required this.multiplier, required this.displayName});
+  new({required this.multiplier, required this.displayName});
 
   /// Multiplier to apply to base font sizes
   final double multiplier;
@@ -19,7 +19,7 @@ enum FontSize {
 
 /// User preferences and settings
 class UserPreferences extends Equatable {
-  const UserPreferences({
+  const new({
     this.fontSize = FontSize.large,
     this.highContrastMode = false,
     this.preferredDifficulty = GameDifficulty.easy,

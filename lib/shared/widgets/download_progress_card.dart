@@ -4,7 +4,7 @@ import 'package:golden_moments/design_system.dart';
 
 /// Card widget displaying download progress for a pack
 class DownloadProgressCard extends StatelessWidget {
-  const DownloadProgressCard({
+  const new({
     required this.progress,
     super.key,
     this.onCancel,
@@ -241,7 +241,7 @@ class DownloadProgressCard extends StatelessWidget {
 
 /// Compact download status badge for pack cards
 class DownloadStatusBadge extends StatelessWidget {
-  const DownloadStatusBadge({
+  const new({
     required this.status,
     super.key,
     this.progress,

@@ -7,7 +7,7 @@ import 'package:path/path.dart' as path;
 
 /// Safe JSON file operations with atomic writes and corruption recovery
 class JsonFileManager implements JsonStore {
-  JsonFileManager({required this.cacheDirectory});
+  new({required this.cacheDirectory});
 
   final String cacheDirectory;
 

@@ -56,9 +56,7 @@ void main() {
   });
 
   testWidgets('Done for now leaves without any confirmation', (tester) async {
-    await tester.pumpWidget(
-      _app(home: const GentleHomePage()),
-    );
+    await tester.pumpWidget(_app(home: const GentleHomePage()));
     await tester.tap(find.text('Start a gentle game'));
     await tester.pumpAndSettle();
     await tester.tap(_tiles.first);
@@ -71,9 +69,7 @@ void main() {
 
   testWidgets(
     'Start again asks first once there is progress; cancel keeps it',
-    (
-      tester,
-    ) async {
+    (tester) async {
       await tester.pumpWidget(_app());
       await tester.pumpAndSettle();
       // Without progress, starting again needs no question.
@@ -118,9 +114,7 @@ void main() {
 
   testWidgets(
     'settings: choose 8 tiles and hidden pictures, restart keeps them',
-    (
-      tester,
-    ) async {
+    (tester) async {
       await tester.pumpWidget(_app());
       await tester.pumpAndSettle();
       await tester.tap(find.byTooltip('Comfort settings'));

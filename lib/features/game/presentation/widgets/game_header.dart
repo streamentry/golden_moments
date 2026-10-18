@@ -5,7 +5,7 @@ import 'package:golden_moments/features/game/cubit/game_state.dart';
 /// Calm guidance above the board. It deliberately shows no clock or move
 /// count (DESIGN.md › Interaction & Game Feel).
 class GameHeader extends StatelessWidget {
-  const GameHeader({required this.state, super.key});
+  const new({required this.state, super.key});
 
   final GameState state;
 
@@ -20,12 +20,7 @@ class GameHeader extends StatelessWidget {
         : 'Find the matching pictures. There is no time limit.';
 
     return Padding(
-      padding: const EdgeInsets.fromLTRB(
-        gmSpaceMd,
-        gmSpaceSm,
-        gmSpaceMd,
-        0,
-      ),
+      padding: const EdgeInsets.fromLTRB(gmSpaceMd, gmSpaceSm, gmSpaceMd, 0),
       child: Wrap(
         spacing: gmSpaceMd,
         runSpacing: gmSpaceSm,

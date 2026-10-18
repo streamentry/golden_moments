@@ -9,7 +9,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 /// Ask rarely, at the end of a good moment, and never again once the person
 /// has shared or has passed it by twice. Counters stay on this device.
 class SharePolicy {
-  const SharePolicy._();
+  const new _();
 
   /// The first suggestion waits until people have enjoyed a few games.
   static const firstAskAfterGames = 3;
@@ -35,7 +35,7 @@ class SharePolicy {
 
 /// Device-local memory for [SharePolicy]. No account, server or analytics.
 class ShareInvitationStore {
-  ShareInvitationStore._(this._prefs);
+  new _(this._prefs);
 
   static const _completedKey = 'share_completed_games';
   static const _sharedKey = 'share_has_shared';
@@ -102,7 +102,7 @@ Future<bool> shareAndRemember() async {
 /// opens on its own, counts down or blocks play; simply carrying on is a
 /// complete answer.
 class ShareInvitation extends StatelessWidget {
-  const ShareInvitation({required this.onShare, super.key});
+  const new({required this.onShare, super.key});
 
   final VoidCallback onShare;
 
@@ -137,7 +137,7 @@ class ShareInvitation extends StatelessWidget {
 
 /// The always-available, low-key way to share.
 class ShareWithFamilyButton extends StatelessWidget {
-  const ShareWithFamilyButton({required this.onPressed, super.key});
+  const new({required this.onPressed, super.key});
 
   final VoidCallback onPressed;
 

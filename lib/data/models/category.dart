@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 
 class Category extends Equatable {
-  const Category({
+  const new({
     required this.id,
     required this.name,
     required this.description,
@@ -9,7 +9,7 @@ class Category extends Equatable {
     required this.packCount,
   });
 
-  factory Category.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     return Category(
       id: json['id'] as String,
       name: json['name'] as String,

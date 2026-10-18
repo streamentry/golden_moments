@@ -101,9 +101,7 @@ void main() {
       await tester.pumpAndSettle();
     }
 
-    testWidgets('the first finished games carry no suggestion', (
-      tester,
-    ) async {
+    testWidgets('the first finished games carry no suggestion', (tester) async {
       SharedPreferences.setMockInitialValues({});
       await pumpGame(tester);
       await finishBoard(tester);

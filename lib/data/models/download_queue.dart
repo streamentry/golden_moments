@@ -2,14 +2,14 @@ import 'package:equatable/equatable.dart';
 
 /// Download queue management for packs and images
 class DownloadQueue extends Equatable {
-  const DownloadQueue({
+  const new({
     required this.activeDownloads,
     required this.queuedDownloads,
     required this.completedDownloads,
     required this.failedDownloads,
   });
 
-  factory DownloadQueue.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     return DownloadQueue(
       activeDownloads: (json['activeDownloads'] as List<dynamic>? ?? [])
           .map((item) => DownloadItem.fromJson(item as Map<String, dynamic>))
@@ -26,7 +26,7 @@ class DownloadQueue extends Equatable {
     );
   }
 
-  factory DownloadQueue.empty() {
+  factory empty() {
     return const DownloadQueue(
       activeDownloads: [],
       queuedDownloads: [],
@@ -255,7 +255,7 @@ class DownloadQueue extends Equatable {
 
 /// Individual download item
 class DownloadItem extends Equatable {
-  const DownloadItem({
+  const new({
     required this.id,
     required this.packId,
     required this.type,
@@ -273,7 +273,7 @@ class DownloadItem extends Equatable {
     this.totalImages,
   });
 
-  factory DownloadItem.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     return DownloadItem(
       id: json['id'] as String,
       packId: json['packId'] as String,

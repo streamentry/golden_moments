@@ -1,6 +1,6 @@
 /// Cache file paths and directory structure constants
 class CacheFilePaths {
-  CacheFilePaths._();
+  new _();
 
   // Main cache files
   static const String cacheIndex = 'cache_index.json';

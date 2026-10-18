@@ -10,11 +10,11 @@ import 'package:shared_preferences/shared_preferences.dart';
 /// and resetting never touches family photos or packs.
 @immutable
 class GentlePreferences {
-  const GentlePreferences({this.pairs = defaultPairs, this.keepVisible = true});
+  const new({this.pairs = defaultPairs, this.keepVisible = true});
 
   /// Reads each field on its own so one invalid value never discards the rest.
   /// Unknown newer versions and malformed data fall back to defaults.
-  factory GentlePreferences.fromJson(Object? json) {
+  factory fromJson(Object? json) {
     if (json is! Map) return const GentlePreferences();
     final version = json['v'];
     if (version is! int || version < 1 || version > schemaVersion) {
@@ -62,7 +62,7 @@ class GentlePreferences {
 /// Local-only persistence for [GentlePreferences]. Failures fall back to the
 /// defaults so the activity always starts.
 class GentlePreferencesStore {
-  const GentlePreferencesStore();
+  const new();
 
   Future<GentlePreferences> load() async {
     try {

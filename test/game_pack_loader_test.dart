@@ -11,7 +11,7 @@ import 'package:path_provider_platform_interface/path_provider_platform_interfac
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 class _Paths extends PathProviderPlatform with MockPlatformInterfaceMixin {
-  _Paths(this.root);
+  new(this.root);
   final String root;
   @override
   Future<String?> getApplicationDocumentsPath() async => root;

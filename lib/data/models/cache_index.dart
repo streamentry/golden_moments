@@ -2,14 +2,14 @@ import 'package:equatable/equatable.dart';
 
 /// Main cache index that tracks all cached packs and their status
 class CacheIndex extends Equatable {
-  const CacheIndex({
+  const new({
     required this.version,
     required this.lastUpdated,
     required this.lastCleanup,
     required this.packs,
   });
 
-  factory CacheIndex.empty() {
+  factory empty() {
     return CacheIndex(
       version: '1.0.0',
       lastUpdated: DateTime.now(),
@@ -18,7 +18,7 @@ class CacheIndex extends Equatable {
     );
   }
 
-  factory CacheIndex.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     final packsMap = <String, CachedPackInfo>{};
     final packsJson = json['packs'] as Map<String, dynamic>? ?? {};
 
@@ -102,7 +102,7 @@ class CacheIndex extends Equatable {
 
 /// Information about a cached pack
 class CachedPackInfo extends Equatable {
-  const CachedPackInfo({
+  const new({
     required this.id,
     required this.version,
     required this.title,
@@ -115,7 +115,7 @@ class CachedPackInfo extends Equatable {
     required this.localManifestPath,
   });
 
-  factory CachedPackInfo.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     return CachedPackInfo(
       id: json['id'] as String,
       version: json['version'] as String,

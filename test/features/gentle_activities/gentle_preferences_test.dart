@@ -17,9 +17,7 @@ void main() {
 
   test('choices survive a restart as a versioned record', () async {
     expect(
-      await store.save(
-        const GentlePreferences(pairs: 4, keepVisible: false),
-      ),
+      await store.save(const GentlePreferences(pairs: 4, keepVisible: false)),
       isTrue,
     );
     final raw = (await SharedPreferences.getInstance()).getString(

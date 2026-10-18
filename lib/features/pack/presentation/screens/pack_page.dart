@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
@@ -9,7 +11,7 @@ import 'package:golden_moments/shared/widgets/pack_card.dart';
 
 /// Page to display all packs for a given category
 class PackPage extends StatefulWidget {
-  const PackPage({
+  const new({
     required this.categoryId,
     required this.categoryName,
     this.onPackTap,
@@ -31,7 +33,7 @@ class _PackPageState extends State<PackPage> {
   @override
   void initState() {
     super.initState();
-    _fetchPacks();
+    unawaited(_fetchPacks());
   }
 
   Future<void> _fetchPacks() async {
@@ -50,7 +52,7 @@ class _PackPageState extends State<PackPage> {
   Widget build(BuildContext context) {
     return PopScope(
       onPopInvokedWithResult: (_, _) {
-        SoundService().playTap();
+        unawaited(SoundService().playTap());
       },
       child: Scaffold(
         appBar: AppBar(title: Text(widget.categoryName)),

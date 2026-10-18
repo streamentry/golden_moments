@@ -12,7 +12,7 @@ import 'package:golden_moments/shared/sharing/share_invitation.dart';
 /// The matching activity: the board comes first, "Done for now" is always
 /// visible, and comfort settings open only on request (GM-001/002/003/005).
 class GentleGamePage extends StatefulWidget {
-  const GentleGamePage({
+  const new({
     required this.pictures,
     this.preferencesStore = const GentlePreferencesStore(),
     super.key,
@@ -179,43 +179,45 @@ class _GentleGamePageState extends State<GentleGamePage> {
   }
 
   void _showHelp() {
-    showModalBottomSheet<void>(
-      context: context,
-      isScrollControlled: true,
-      builder: (context) => SafeArea(
-        child: SingleChildScrollView(
-          padding: const EdgeInsets.fromLTRB(
-            gmSpaceLg,
-            0,
-            gmSpaceLg,
-            gmSpaceLg,
-          ),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              Text(
-                'How this works',
-                style: Theme.of(context).textTheme.headlineSmall,
-              ),
-              const SizedBox(height: gmSpaceMd),
-              const Text(
-                'Tap one picture, then tap another. Pictures that match stay '
-                'together. Pictures that do not match stay in view until your '
-                'next tap.',
-              ),
-              const SizedBox(height: gmSpaceMd),
-              const Text(
-                'There is no time limit and no wrong answer. It is fine to '
-                'just look at the pictures, talk about them, change the '
-                'number of tiles, or stop with Done for now.',
-              ),
-              const SizedBox(height: gmSpaceLg),
-              FilledButton(
-                onPressed: () => Navigator.pop(context),
-                child: const Text('Back to the pictures'),
-              ),
-            ],
+    unawaited(
+      showModalBottomSheet<void>(
+        context: context,
+        isScrollControlled: true,
+        builder: (context) => SafeArea(
+          child: SingleChildScrollView(
+            padding: const EdgeInsets.fromLTRB(
+              gmSpaceLg,
+              0,
+              gmSpaceLg,
+              gmSpaceLg,
+            ),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Text(
+                  'How this works',
+                  style: Theme.of(context).textTheme.headlineSmall,
+                ),
+                const SizedBox(height: gmSpaceMd),
+                const Text(
+                  'Tap one picture, then tap another. Pictures that match stay '
+                  'together. Pictures that do not match stay in view until '
+                  'your next tap.',
+                ),
+                const SizedBox(height: gmSpaceMd),
+                const Text(
+                  'There is no time limit and no wrong answer. It is fine to '
+                  'just look at the pictures, talk about them, change the '
+                  'number of tiles, or stop with Done for now.',
+                ),
+                const SizedBox(height: gmSpaceLg),
+                FilledButton(
+                  onPressed: () => Navigator.pop(context),
+                  child: const Text('Back to the pictures'),
+                ),
+              ],
+            ),
           ),
         ),
       ),
@@ -223,14 +225,16 @@ class _GentleGamePageState extends State<GentleGamePage> {
   }
 
   void _showSettings() {
-    showModalBottomSheet<void>(
-      context: context,
-      isScrollControlled: true,
-      builder: (context) => _ComfortSheet(
-        initial: _prefs,
-        maxPairs: widget.pictures.length,
-        onChanged: _applyPreferences,
-        onReset: _resetPreferences,
+    unawaited(
+      showModalBottomSheet<void>(
+        context: context,
+        isScrollControlled: true,
+        builder: (context) => _ComfortSheet(
+          initial: _prefs,
+          maxPairs: widget.pictures.length,
+          onChanged: _applyPreferences,
+          onReset: _resetPreferences,
+        ),
       ),
     );
   }
@@ -484,7 +488,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
 
 /// Comfort choices on request. Changes apply and save as they are made.
 class _ComfortSheet extends StatefulWidget {
-  const _ComfortSheet({
+  const new({
     required this.initial,
     required this.maxPairs,
     required this.onChanged,
@@ -546,12 +550,7 @@ class _ComfortSheetState extends State<_ComfortSheet> {
     final theme = Theme.of(context);
     return SafeArea(
       child: SingleChildScrollView(
-        padding: const EdgeInsets.fromLTRB(
-          gmSpaceLg,
-          0,
-          gmSpaceLg,
-          gmSpaceLg,
-        ),
+        padding: const EdgeInsets.fromLTRB(gmSpaceLg, 0, gmSpaceLg, gmSpaceLg),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           mainAxisSize: MainAxisSize.min,
