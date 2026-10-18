@@ -106,28 +106,34 @@
     "meaning": "Per-feature execution status for docs/specs/senior-first/feature-catalog.json. Catalog IDs not listed here have not been started. implemented_unverified means source and automated widget tests exist (flutter analyze strict + flutter test pass locally); no native device, VoiceOver/TalkBack or user-comprehension evidence exists yet.",
     "features": {
       "GM-001": {
-        "status": "partial",
-        "scope": "Gentle matching screen is board-first with no settings in the first view; the home screen was not changed and fresh-install/upgrade/device journeys are untested.",
+        "status": "implemented_unverified",
+        "scope": "Fresh install opens the gentle home with exactly one filled action, 'Start a gentle game', in the first view on a small phone, a phone at 200% text, a small phone at 200% text and a landscape phone (Start sits under the heading, and above it when text exceeds 150%); one tap opens four visible tiles with no dialog, sheet or setup question; a saved comfort choice is used and never overwritten. Seen on the iOS 26.5 simulator (debug). Not done: physical-device journey with blocked network, upgrade from an installed build, five-second comprehension with intended users.",
         "evidence": [
-          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
+          "lib/features/gentle_activities/presentation/gentle_home_page.dart",
           "test/features/gentle_activities/gentle_ui_test.dart"
         ]
       },
       "GM-002": {
         "status": "implemented_unverified",
-        "scope": "Gentle matching screen only: Done for now is fixed in a bottom bar, Start again confirms only with progress and Cancel keeps the board, finishing offers Play again beside Done. Photo, together and legacy-library screens not audited.",
+        "scope": "Done for now is fixed and visible on the gentle matching screen, Look together (with Previous/Next in the same bar, stacked above 130% text) and the legacy picture-pack game (side by side when the labels fit). Start again confirms only with progress and Cancel/Keep this board keeps the exact board; closing legacy Options any way, including system Back, resumes play; finishing offers Play again beside Done/Choose another pack with no rating request. Photo collection, help and library pages keep the standard labelled Back. Switch navigation and device checks pending.",
         "evidence": [
           "lib/features/gentle_activities/presentation/gentle_game_page.dart",
-          "test/features/gentle_activities/gentle_ui_test.dart"
+          "lib/features/gentle_activities/presentation/photo_together_page.dart",
+          "lib/features/game/presentation/widgets/game_exit_bar.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart",
+          "test/features/gentle_activities/photo_together_test.dart",
+          "test/features/legacy_library/legacy_route_test.dart"
         ]
       },
       "GM-003": {
         "status": "implemented_unverified",
-        "scope": "Tile count and visible-picture choice persist as a versioned, field-by-field-safe record; reset touches comfort choices only. Text size/motion preferences and other screens are not covered.",
+        "scope": "Gentle tile count and picture visibility persist as a versioned, field-by-field-safe record; reset touches comfort choices only. In the picture-pack library, music and sounds are off when no choice is stored, a stored choice is read back unchanged and never rewritten on load, and a toggle saves only its own key (existing installs that never chose now start quiet). System text size and Reduce Motion are honored rather than duplicated in app settings. Upgrade of an install that had sound on is not device-tested.",
         "evidence": [
           "lib/features/gentle_activities/data/gentle_preferences.dart",
+          "lib/data/models/sound_setting.dart",
           "test/features/gentle_activities/gentle_preferences_test.dart",
-          "test/features/gentle_activities/gentle_ui_test.dart"
+          "test/features/gentle_activities/gentle_ui_test.dart",
+          "test/features/legacy_library/legacy_route_test.dart"
         ]
       },
       "GM-004": {
@@ -166,9 +172,10 @@
       },
       "GM-008": {
         "status": "implemented_unverified",
-        "scope": "Look together shows one picture at a time with optional prompts and optional captions, no recall questions. Photo-collection journey tests open it from the collection; a dedicated viewing test and device review are pending.",
+        "scope": "Look together shows one bounded picture at a time with labelled Previous/Next and Done for now in a fixed bar; captions and conversation prompts are off by default, independent and stay as chosen for the visit; nothing advances by itself; no wording asks the person to remember or answer. Hide this picture needs no reason and no countdown: family photos use the same persistent, reversible Hide as the collection (and never reach the game), included pictures hide for the visit; a failed save changes nothing and says so. An empty set explains itself and offers the included pictures. Rotation keeps the picture and options. Seen on the iOS simulator; device and caregiver review pending.",
         "evidence": [
           "lib/features/gentle_activities/presentation/photo_together_page.dart",
+          "test/features/gentle_activities/photo_together_test.dart",
           "test/features/gentle_activities/photo_collection_journey_test.dart"
         ]
       },
@@ -193,43 +200,53 @@
       },
       "GM-012": {
         "status": "partial",
-        "scope": "Matching screen reflows at 200% text on 390x844 and 320x568: the board comes first (instruction moves below it above 150% text), exit buttons stack, dialogs scroll. Other screens and device checks pending. Photo cards in the collection grow with text (no FittedBox shrinking) and use one column above 150% text.",
+        "scope": "Automated reflow at 200% text (no overflow, essential controls reachable, nothing clamped) now covers the gentle home, matching board, Look together, photo collection, help, the legacy game, category and pack pages and the library home with pack cards (320x568, 390x844, 844x390, 1024x1366). Pack titles and themes are no longer cut to one line. Largest system setting beyond 200%, native display zoom and device observation pending.",
         "evidence": [
-          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
-          "test/features/gentle_activities/gentle_ui_test.dart"
+          "test/features/gentle_activities/gentle_ui_test.dart",
+          "test/features/gentle_activities/photo_together_test.dart",
+          "test/features/legacy_library/legacy_layout_test.dart",
+          "test/features/home/library_home_text_scale_test.dart"
         ]
       },
       "GM-013": {
         "status": "partial",
-        "scope": "Tiles are at least 64 and as large as the space allows (shared gmBoardColumns); controls keep the 48/56 floor. Tremor/repeated-tap testing pending.",
+        "scope": "Tiles are at least 64 and as large as the space allows on both the gentle and legacy boards (legacy board uses the space left after the measured header and scrolls only when it cannot fit at 64); controls keep the 48/56 floor; pack-card actions are at least 8 apart in both directions. Rapid taps cannot duplicate saves (serialized stores). Tremor, switch and stylus testing with people pending.",
         "evidence": [
           "lib/features/gentle_activities/presentation/gentle_game_page.dart",
-          "test/features/gentle_activities/gentle_ui_test.dart"
+          "lib/features/game/presentation/widgets/game_board.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart",
+          "test/features/legacy_library/legacy_landscape_test.dart",
+          "test/features/home/pack_favorites_ui_test.dart"
         ]
       },
       "GM-014": {
         "status": "partial",
-        "scope": "Automated semantics tests only: hidden game tiles expose 'Hidden picture, tile N' with no caption, description or answer until chosen, and only the chosen tile is revealed; tile state is announced as Selected/Matched; photo cards carry caption plus description labels. VoiceOver/TalkBack walkthroughs of start/play/stop/import/remove are pending.",
+        "scope": "Automated semantics only: hidden tiles on both gentle and legacy boards expose only 'Hidden picture, tile N' (legacy tile content is excluded from semantics, tested mid-flip); Selected/Matched states; a legacy match is announced once through a polite status line; pack Favorite is a toggle named with the pack; Not for me moves focus to a politely announced note; Look together reads label plus description. VoiceOver/TalkBack walkthroughs pending, so no screen-reader support is claimed.",
         "evidence": [
           "test/accessibility_guards_test.dart",
           "test/features/gentle_activities/gentle_ui_test.dart",
-          "test/features/gentle_activities/photo_collection_journey_test.dart"
+          "test/features/gentle_activities/photo_together_test.dart",
+          "test/features/legacy_library/legacy_route_test.dart",
+          "test/features/home/pack_favorites_ui_test.dart"
         ]
       },
       "GM-015": {
         "status": "partial",
-        "scope": "Contrast, text floor and target tests from the design system remain; new test proves the legacy tile flip becomes instant when the system requests reduced motion and animates otherwise. The gentle matching screen has no animation, timer, confetti or auto-closing dialog. Device checks for reduced motion, increased contrast and audio interruption are pending.",
+        "scope": "Contrast/text/target tests from the design system remain. Reduce Motion now also removes the legacy ripple, the 300 ms artificial navigation delay and the tile flip; the no-op pull-to-refresh spinner is gone; the library is quiet by default. No timer, score, move count, streak, confetti or auto-closing dialog is shown anywhere (legacy route tested with a non-zero internal move count). Device checks for reduced motion, increased contrast and audio interruption pending.",
         "evidence": [
           "test/accessibility_guards_test.dart",
-          "test/design_system_test.dart"
+          "test/design_system_test.dart",
+          "test/features/legacy_library/legacy_route_test.dart"
         ]
       },
       "GM-016": {
         "status": "partial",
-        "scope": "Matching screen verified in widget tests on small phone, phone, landscape phone and iPad portrait sizes. Real iPad/device layout review pending.",
+        "scope": "Widget tests cover small phone, phone, landscape phone and iPad for the gentle home, board and Look together, the legacy game, category, pack and library pages; rotating mid-turn keeps the same board and selection, and rotating while viewing keeps the picture and options. iOS simulator (iPhone 17 Pro Max) observed. Real iPad, split screen and keyboard-open checks pending.",
         "evidence": [
-          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
-          "test/features/gentle_activities/gentle_ui_test.dart"
+          "test/features/gentle_activities/gentle_ui_test.dart",
+          "test/features/gentle_activities/photo_together_test.dart",
+          "test/features/legacy_library/legacy_layout_test.dart",
+          "test/features/legacy_library/legacy_landscape_test.dart"
         ]
       },
       "GM-017": {
@@ -238,11 +255,11 @@
       },
       "GM-018": {
         "status": "partial",
-        "scope": "Pre-existing explicit-picker import and storage limits are unchanged. New journey tests cover choose, a failed or out-of-space import leaving the collection intact with a safe message, a damaged optional sidecar not affecting photos, and restart, using a fake picker and real storage. HEIC, cloud-only originals, partial access, Android recovery and real low-storage device checks remain pending.",
+        "scope": "Explicit-picker import and storage limits are unchanged. Copies are written to a staging file, flushed and renamed, so a failed or out-of-space import never leaves a half-written copy that blocks re-adding the photo, and the previous collection stays loadable (every write/rename/delete boundary is failure-tested with real files). Journey tests cover choose, failed and refused imports with a plain message, a damaged optional sidecar, hide/restart and delete. HEIC, cloud-only originals, partial access, Android recovery and real low-storage device checks remain pending.",
         "evidence": [
-          "lib/features/gentle_activities/presentation/photo_collection_page.dart",
-          "test/features/gentle_activities/photo_annotations_test.dart",
-          "test/features/gentle_activities/photo_collection_journey_test.dart"
+          "lib/features/gentle_activities/data/family_photo_store.dart",
+          "test/features/gentle_activities/photo_collection_journey_test.dart",
+          "test/features/gentle_activities/photo_storage_interruption_test.dart"
         ]
       },
       "GM-019": {
@@ -256,13 +273,15 @@
         ]
       },
       "GM-020": {
-        "status": "partial",
-        "scope": "Family photos only: Favorite sorts a photo first; Hide excludes it from the game and Look together without deleting the copy, is shown with the word 'Hidden', persists and is undone by turning the switch off (no countdown); Remove is a separate confirmed action. Fewer than two visible photos disables the game with an explanation and never silently unhides. Included packs, replay and interest filters are not covered. Known behavior: starter and family boards use one session key per source, so hiding or removing a photo starts a fresh board rather than resuming one that includes it.",
+        "status": "implemented_unverified",
+        "scope": "Family photos: Favorite sorts first; Hide (from the photo options or from Look together) excludes a photo from the game and viewing without deleting the copy, is shown with the word 'Hidden', persists and is undone by turning it off; Remove is separate and confirmed. Included packs: 'Add to favorites'/'In favorites' toggle and a 'Your favorites' group; Not for me hides a pack from suggestions and browsing, with a persistent note and a 'Hidden packs (N)' list to show it again, never a countdown. Stored as a versioned record that is never overwritten when unreadable or newer; until choices load no pack card is shown, so a hidden pack never flashes. Fewer than two visible photos disables the game with an explanation and never silently unhides. Device check pending.",
         "evidence": [
           "lib/features/gentle_activities/data/photo_annotations.dart",
           "lib/features/gentle_activities/presentation/photo_collection_page.dart",
-          "test/features/gentle_activities/photo_annotations_test.dart",
-          "test/features/gentle_activities/photo_collection_journey_test.dart"
+          "lib/features/home/data/pack_preferences.dart",
+          "test/features/gentle_activities/photo_collection_journey_test.dart",
+          "test/features/home/pack_preferences_test.dart",
+          "test/features/home/pack_favorites_ui_test.dart"
         ]
       },
       "GM-021": {
@@ -283,12 +302,13 @@
         ]
       },
       "GM-024": {
-        "status": "partial",
-        "scope": "Optional, remembered topic choices on the library section of the included-pack home (reached from the gentle home via 'Explore the picture-pack library'): topic chips for the five existing categories, nothing selected or forced by default, no vintage bias, selection shown with a check and the word, changeable and clearable at any time, stored locally; a chosen set shows every chosen topic (not just three); a stale or corrupt choice falls back to showing everything. Not done: optional text search, favorites/hidden for included packs, and honoring hidden family photos in pack suggestions (not applicable to included packs). Device check pending.",
+        "status": "implemented_unverified",
+        "scope": "Optional, remembered topic choices for the five existing categories with nothing preselected and no vintage bias; changeable and clearable; a stale or corrupt choice shows everything. Hidden packs stay hidden under any filter; if chosen topics leave nothing eligible the page says so and offers 'Show all topics', never unhiding. Optional text search is not built (the spec makes it optional). Device check pending.",
         "evidence": [
           "lib/features/home/data/interest_preferences.dart",
           "lib/features/home/presentation/widgets/library_section.dart",
-          "test/features/home/interest_test.dart"
+          "test/features/home/interest_test.dart",
+          "test/features/home/pack_favorites_ui_test.dart"
         ]
       },
       "GM-025": {
@@ -301,25 +321,33 @@
         ]
       },
       "GM-026": {
-        "status": "partial",
-        "scope": "Family photos only: 'Play with favorites' appears with two or more visible favorites and plays only them; 'Not for me' is the existing reversible Hide. No streaks, quotas, scores or messages after time away, and nothing auto-launches. Included-pack favorites, a suggestion entry and observed voluntary reuse are not done; safe resume (GM-004) covers continuing a board.",
+        "status": "implemented_unverified",
+        "scope": "Familiar replay from explicit local choices: 'Play with favorites' for family photos and a 'Your favorites' group of packs. Optional variety is 'Suggested packs' from included, non-hidden, non-favorite packs in catalog order, changed only when the person taps 'Suggest other packs' (no date shuffle, no 'daily' or 'new every day' wording). Not for me is reversible. No streaks, quotas, scores or messages after time away; nothing auto-launches. Observed voluntary reuse needs the pilot (GM-039).",
         "evidence": [
           "lib/features/gentle_activities/presentation/photo_collection_page.dart",
-          "test/features/gentle_activities/photo_collection_journey_test.dart"
+          "lib/features/home/presentation/widgets/daily_packs_section.dart",
+          "test/features/gentle_activities/photo_collection_journey_test.dart",
+          "test/features/home/pack_favorites_ui_test.dart"
         ]
       },
       "GM-027": {
         "status": "partial",
-        "scope": "Versioned preferences, session and annotation records; serialized atomic writes for annotations; ids validated; deleting a copy removes its annotations; corrupt optional data never resets photos. Not yet covered: interruption at each write boundary, symlink fixtures, upgrade fixtures from installed data, backup explanation, disk-full on real devices.",
+        "scope": "Versioned preferences, session and annotation records with stored formats unchanged (byte-checked against installed v1 fixtures; loading never rewrites installed files). Every mutation stages, flushes and renames; writes are serialized per folder across store instances; symbolic links are never followed for reads, writes or deletes; only a confirmed not-found means absent, so a stat or permission error surfaces instead of shrinking or replacing the collection; unlisted owned copies are tidied only when a manifest was read, and verified copies are adopted when it is missing; a newer-version details file is never moved aside or overwritten; details are pruned only by listed photos. The delete confirmation says earlier device backups are not changed, and Help explains backups. Two independent data-loss reviews found no remaining critical, high or medium issue. Not done: a recovery flow for a corrupt manifest (it surfaces an error and never overwrites), real disk-full, process kill mid-rename and iOS file-protection checks on devices.",
         "evidence": [
-          "test/features/gentle_activities/photo_annotations_test.dart",
+          "lib/features/gentle_activities/data/owned_files.dart",
+          "lib/features/gentle_activities/data/family_photo_store.dart",
+          "lib/features/gentle_activities/data/photo_annotations.dart",
+          "test/features/gentle_activities/photo_storage_symlink_test.dart",
+          "test/features/gentle_activities/photo_storage_interruption_test.dart",
+          "test/features/gentle_activities/photo_storage_access_test.dart",
+          "test/features/gentle_activities/installed_data_upgrade_test.dart",
           "test/features/gentle_activities/family_photo_store_test.dart",
-          "test/features/gentle_activities/gentle_session_test.dart"
+          "test/features/gentle_activities/photo_annotations_test.dart"
         ]
       },
       "GM-028": {
         "status": "partial",
-        "scope": "Source-level audit and CI guard only: startup initializes no backend, local photo features contain no network code, only the photo-picker permission is declared, and the dead remote-pack downloader and its HTTP/cache/connectivity code were removed, so no Dart code imports a network package or opens a connection. Firebase (analytics, crash reporting, core and their config files) was then removed at the maintainer's instruction, and the guard fails if any returns. Not established: merged Android manifest, runtime traffic on a clean install, iOS privacy manifest/App Privacy answers. The privacy_and_sdk_audit gate remains pending.",
+        "scope": "Source-level audit and CI guard: startup initializes no backend, no Dart code imports a network or Firebase package or opens a connection, and Firebase is removed. iOS build inputs were regenerated on a Mac (Podfile.lock has only Flutter; no SwiftPM remote packages) and are now guard-tested; an unsigned release build embeds only Flutter.framework and objective_c.framework, has no Firebase/Crashlytics/app-measurement strings, keeps the bundle identifier and declares only the photo-library usage string. Not established: signed archive, merged Android manifest, runtime traffic on a clean install, an app-level iOS privacy manifest decision, App Privacy answers. The privacy_and_sdk_audit gate remains pending.",
         "evidence": [
           "docs/release/network-privacy-audit.md",
           "tests/test_network_boundary.py"
@@ -337,10 +365,13 @@
       },
       "GM-030": {
         "status": "partial",
-        "scope": "Readable recovery for failed import, unavailable collection, damaged optional sidecar, deleted/corrupt session and failed save; each keeps existing data. Denied access, interrupted picker, low storage and unsupported-platform states need native testing.",
+        "scope": "Readable recovery for failed, refused and out-of-space imports, an unreadable collection or folder, a damaged or newer details file, a deleted or corrupt session and a failed save; each keeps existing data and never reports success. Look together reports a failed hide and changes nothing; an empty set offers the included pictures. Library pack choices that cannot be read are never written over, and a topic page waiting on them shows a plain message and Back instead of an endless spinner. Denied photo access, interrupted picker, real low storage and unsupported-platform states need native testing.",
         "evidence": [
+          "lib/features/gentle_activities/presentation/photo_collection_page.dart",
+          "lib/features/gentle_activities/presentation/photo_together_page.dart",
+          "test/features/gentle_activities/photo_storage_access_test.dart",
           "test/features/gentle_activities/photo_collection_journey_test.dart",
-          "test/features/gentle_activities/gentle_resume_test.dart"
+          "test/features/home/pack_favorites_ui_test.dart"
         ]
       },
       "GM-031": {
