@@ -21,6 +21,11 @@ NETWORK_IO = re.compile(
 EXPECTED_URLS = {
     # Explicit user-initiated share text, opened through the OS share sheet.
     'https://play.google.com/store/apps/details',
+    # Shown as copyable text on the Help page; the app never opens them
+    # (lib/shared/utils/support_info.dart, test/support_info_test.dart).
+    'https://streamentry.github.io/golden-moments-web/help/',
+    'https://streamentry.github.io/golden-moments-web/app-privacy/',
+    'https://streamentry.github.io/golden-moments-web/terms/',
 }
 
 

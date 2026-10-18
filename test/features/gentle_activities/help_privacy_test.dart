@@ -42,6 +42,9 @@ void main() {
     expect(find.text('Version $appVersion'), findsOneWidget);
     // A copyable support page, never opened by the app.
     expect(find.text(supportUrl), findsOneWidget);
+    expect(find.text(privacyPolicyUrl), findsOneWidget);
+    expect(find.text(termsUrl), findsOneWidget);
+    expect(find.text(supportEmail), findsOneWidget);
     await tester.tap(find.text('Done for now'));
     await tester.pumpAndSettle();
     expect(find.text('Start a gentle game'), findsOneWidget);

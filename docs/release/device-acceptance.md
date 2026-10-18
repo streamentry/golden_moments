@@ -73,7 +73,7 @@ On the oldest supported physical devices, in a release or profile build: 20 cold
 
 ## I. Help and support (GM-031, 034)
 
-Open Help and privacy from the Home guide, offline. Write a note and report a problem: the preview must match exactly what the share sheet receives; cancelling sends nothing. Verify with no mail app and with no network. Confirm the support page shown (`supportUrl`, the `support_url` in the store metadata) is live and copies cleanly. If an email address is wanted too, decide it and set `supportEmail` in `lib/shared/utils/support_info.dart`; until then none is shown.
+Open Help and privacy from the Home guide, offline. Write a note and report a problem: the preview must match exactly what the share sheet receives; cancelling sends nothing. Verify with no mail app and with no network. Confirm the three pages shown (`supportUrl`, `privacyPolicyUrl`, `termsUrl`) are live and copy cleanly, and that `supportEmail` is a monitored mailbox. The app never opens any of them.
 
 ## J. Content and rights (GM-025)
 

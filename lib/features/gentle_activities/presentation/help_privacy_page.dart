@@ -143,24 +143,29 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
                 ),
                 heading('Reach us'),
                 para(
-                  supportEmail == null
-                      ? 'You can send a note or a problem report. You review '
-                            'exactly what will be sent, then choose where it '
-                            'goes. Nothing is sent automatically.'
-                      : 'You can email $supportEmail, or send a note or a '
-                            'problem report below. You review exactly what '
-                            'will be sent. Nothing is sent automatically.',
+                  'You can email $supportEmail (copy it; the app does not '
+                  'open your mail), or send a note or a problem report below. '
+                  'You review exactly what will be sent. Nothing is sent '
+                  'automatically.',
                 ),
-                if (supportEmail != null)
-                  SelectableText(
-                    supportEmail!,
-                    style: theme.textTheme.titleMedium,
-                  ),
+                SelectableText(
+                  supportEmail,
+                  style: theme.textTheme.titleMedium,
+                ),
                 para(
                   'Online help, when you are connected (copy this into your '
                   'browser; the app does not open it):',
                 ),
                 SelectableText(supportUrl, style: theme.textTheme.titleMedium),
+                para(
+                  'Privacy policy and terms of use (also copy-only; the app '
+                  'does not open them):',
+                ),
+                SelectableText(
+                  privacyPolicyUrl,
+                  style: theme.textTheme.titleMedium,
+                ),
+                SelectableText(termsUrl, style: theme.textTheme.titleMedium),
                 const SizedBox(height: gmSpaceSm),
                 OutlinedButton.icon(
                   onPressed: _writeNote,

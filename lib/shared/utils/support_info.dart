@@ -9,9 +9,17 @@ const String appVersion = '1.3.0+5';
 const String supportUrl =
     'https://streamentry.github.io/golden-moments-web/help/';
 
-/// A public support address, once the owner decides one. Until then no
-/// address is shown and reports go through the system share sheet instead.
-const String? supportEmail = null;
+/// The mobile-app privacy policy and the terms of use on the owner's site.
+/// Shown as text to copy, never opened by the app. The privacy page is the
+/// app policy (`/app-privacy/`), not the general website notice.
+const String privacyPolicyUrl =
+    'https://streamentry.github.io/golden-moments-web/app-privacy/';
+const String termsUrl =
+    'https://streamentry.github.io/golden-moments-web/terms/';
+
+/// The support address the owner publishes on the same site. Shown as text to
+/// copy; the app never opens a mail client or sends anything by itself.
+const String supportEmail = 'apple@locuno.com';
 
 /// What went wrong, as a short closed list. A report carries only one of
 /// these codes, never free text, file names, photo details or paths.
