@@ -1,4 +1,3 @@
-import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
@@ -51,9 +50,6 @@ class LibrarySection extends StatelessWidget {
             ),
             TextButton.icon(
               onPressed: () {
-                FirebaseAnalytics.instance.logScreenView(
-                  screenName: 'Category',
-                );
                 SoundService().playTap();
                 Navigator.of(parentContext).push(
                   MaterialPageRoute<void>(

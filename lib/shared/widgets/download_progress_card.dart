@@ -60,7 +60,7 @@ class DownloadProgressCard extends StatelessWidget {
                       Text(
                         'Pack: ${progress.packId}',
                         style: theme.textTheme.titleMedium?.copyWith(
-                          fontWeight: FontWeight.w600,
+                          fontWeight: FontWeight.w700,
                         ),
                         maxLines: 1,
                         overflow: TextOverflow.ellipsis,
@@ -102,7 +102,7 @@ class DownloadProgressCard extends StatelessWidget {
                   Text(
                     '${progress.progressPercent}%',
                     style: theme.textTheme.titleMedium?.copyWith(
-                      fontWeight: FontWeight.w600,
+                      fontWeight: FontWeight.w700,
                       color: _getStatusColor(theme),
                     ),
                   ),

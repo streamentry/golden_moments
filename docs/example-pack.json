@@ -1,64 +1,69 @@
 {
-  "id": "flowers_garden_spring",
-  "title": "Spring Garden Flowers",
-  "description": "Beautiful spring flowers that bring back memories of gardening and nature walks",
-  "theme": "Spring Blooms",
-  "category": "flowers",
-  "difficulty": "easy",
+  "id": "animals_farm",
+  "title": "Farm Animals",
+  "description": "Friendly farm animals that will bring back memories of countryside visits",
+  "theme": "Farm Life",
+  "category": "animals",
+  "difficulty": "medium",
   "isPremium": false,
   "isFeatured": true,
   "imageCount": 8,
-  "estimatedSize": "2.4 MB",
+  "estimatedSize": "2.1 MB",
   "version": "1.0.0",
-  "createdAt": "2025-01-09T16:00:00Z",
-  "updatedAt": "2025-01-09T16:00:00Z",
-  "tags": ["flowers", "spring", "garden", "nature", "colorful"],
-  "thumbnailUrl": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=300&h=200&fit=crop&q=80",
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-01-01T00:00:00Z",
+  "tags": [
+    "farm",
+    "animals",
+    "countryside",
+    "medium"
+  ],
+  "thumbnailUrl": "assets/images/catalog/06a40b1b2feb3de6bf633682.jpg",
   "previewImages": [
-    "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=150&h=150&fit=crop&q=80",
-    "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=150&h=150&fit=crop&q=80",
-    "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&q=80"
+    "assets/images/catalog/400afe02904aadeaada761f3.jpg",
+    "assets/images/catalog/15e1ea24db2d17764604ea0d.jpg",
+    "assets/images/catalog/18c33e2a57730a13fe4bf9ed.jpg"
   ],
   "images": [
     {
-      "id": "tulip_red",
-      "url": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=400&h=400&fit=crop&q=80",
-      "caption": "Red Tulips"
+      "id": "cow_1",
+      "url": "assets/images/catalog/defe68445f56c7f448b228be.jpg",
+      "caption": "Friendly Cow"
     },
     {
-      "id": "daffodil_yellow",
-      "url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=400&fit=crop&q=80",
-      "caption": "Yellow Daffodils"
+      "id": "pig_1",
+      "url": "assets/images/catalog/66e96f746fb94bd5c7cab164.jpg",
+      "caption": "Happy Pig"
     },
     {
-      "id": "rose_pink",
-      "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&q=80",
-      "caption": "Pink Roses"
+      "id": "chicken_1",
+      "url": "assets/images/catalog/4753f3397127eef225192c46.jpg",
+      "caption": "Rooster"
     },
     {
-      "id": "sunflower_bright",
-      "url": "https://images.unsplash.com/photo-1597848212624-e6f9e1d7edb1?w=400&h=400&fit=crop&q=80",
-      "caption": "Bright Sunflower"
+      "id": "buffalo_1",
+      "url": "assets/images/catalog/c6e38eff7de957985063012e.jpg",
+      "caption": "Water Buffalo"
     },
     {
-      "id": "lavender_purple",
-      "url": "https://images.unsplash.com/photo-1611909023032-2d6b3134ecba?w=400&h=400&fit=crop&q=80",
-      "caption": "Purple Lavender"
+      "id": "horse_1",
+      "url": "assets/images/catalog/81640e4d45f0f1785f85730d.jpg",
+      "caption": "Beautiful Horse"
     },
     {
-      "id": "daisy_white",
-      "url": "https://images.unsplash.com/photo-1574684891174-df6b02ab38d7?w=400&h=400&fit=crop&q=80",
-      "caption": "White Daisies"
+      "id": "duck_1",
+      "url": "assets/images/catalog/af24a5f0e48bfccb7d2dfd28.jpg",
+      "caption": "Duck Family"
     },
     {
-      "id": "iris_blue",
-      "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop&q=80",
-      "caption": "Blue Iris"
+      "id": "goat_1",
+      "url": "assets/images/catalog/25d5520910e970986663bd02.jpg",
+      "caption": "Curious Goat"
     },
     {
-      "id": "marigold_orange",
-      "url": "https://images.unsplash.com/photo-1595433562696-d6d2d2b55ddf?w=400&h=400&fit=crop&q=80",
-      "caption": "Orange Marigolds"
+      "id": "rabbit_1",
+      "url": "assets/images/catalog/14049252ed52c9178ab77ac3.jpg",
+      "caption": "Cute Rabbit"
     }
   ]
 }

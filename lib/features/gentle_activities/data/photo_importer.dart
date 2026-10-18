@@ -81,7 +81,9 @@ class PhotoImporter {
           codec.dispose();
         }
       }
-      throw const FormatException('This photo cannot fit the local collection.');
+      throw const FormatException(
+        'This photo cannot fit the local collection.',
+      );
     } finally {
       descriptor?.dispose();
       buffer.dispose();

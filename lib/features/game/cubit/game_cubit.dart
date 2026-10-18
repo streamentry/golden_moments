@@ -1,18 +1,13 @@
 import 'dart:math';
 
-import 'package:flutter/foundation.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:golden_moments/data/models/image.dart';
 import 'package:golden_moments/data/models/pack.dart';
-import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
-import 'package:golden_moments/data/storage/browser_image_store.dart';
-import 'package:golden_moments/data/storage/cache_file_paths.dart';
-import 'package:golden_moments/data/storage/json_file_manager.dart';
 import 'package:golden_moments/features/game/cubit/game_state.dart';
 import 'package:golden_moments/features/game/cubit/tile_state.dart';
 import 'package:golden_moments/shared/constants/app_constants.dart';
-import 'package:golden_moments/shared/utils/image_util.dart';
 
 /// Cubit for managing game state and logic
 class GameCubit extends Cubit<GameState> {
@@ -43,35 +38,23 @@ class GameCubit extends Cubit<GameState> {
     try {
       final pack = await _localPackService.getPackById(packId);
 
+      // The catalog and every picture ship together. Check local assets only;
+      // a missing package asset is a build error, never a download prompt.
       final images = <Image>[];
-
-      for (var i = 0; i < pack.images.length; i++) {
-        if (kIsWeb) {
-          final bytes = await BrowserImageStore.read(pack.images[i].url);
-          if (bytes != null && bytes.isNotEmpty) images.add(pack.images[i]);
-          continue;
-        }
-        final fileName = '${pack.images[i].id}.jpg';
-        final imagePath = CacheFilePaths.imageFile(packId, fileName);
-        final dynamic rawManager = JsonCacheService().fileManager;
-        if (rawManager is JsonFileManager) {
-          final jsonManager = rawManager;
-          final fullPath = jsonManager.getCachePath(imagePath);
-          if (await isImageValid(fullPath)) {
-            images.add(pack.images[i]);
-          }
-        }
+      for (final image in pack.images) {
+        await rootBundle.load(image.url);
+        if (isClosed) return;
+        images.add(image);
       }
-
-      if (images.length < pack.difficulty.pairCount / 2) {
+      if (images.length < pack.difficulty.minImages) {
         emit(state.copyWith(status: GameStatus.failed));
         return;
       }
-
       emit(state.copyWith(images: images));
 
       startNewGame(pack);
     } on Object {
+      if (isClosed) return;
       emit(state.copyWith(status: GameStatus.failed));
     }
   }

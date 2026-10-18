@@ -1,11 +1,6 @@
-import 'dart:io';
-
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:golden_moments/data/storage/browser_image_store.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/cubit/tile_state.dart';
-import 'package:golden_moments/shared/utils/image_util.dart';
 
 /// Individual memory tile widget using the design system
 class MemoryTile extends StatelessWidget {
@@ -23,10 +18,6 @@ class MemoryTile extends StatelessWidget {
   @override
   Widget build(BuildContext parentContext) {
     final revealed = tile.isRevealed || tile.isMatched;
-    final image = kIsWeb
-        ? NetworkImage(tile.image.url)
-        : FileImage(File(getImageLocalPath(tile.image.id, packId)));
-
     Widget buildTile(ImageProvider provider) => Semantics(
       label: revealed ? tile.image.caption : 'Hidden picture',
       value: tile.isMatched ? 'Matched' : '',
@@ -40,9 +31,6 @@ class MemoryTile extends StatelessWidget {
       ),
     );
 
-    final bytes = kIsWeb ? BrowserImageStore.peek(tile.image.url) : null;
-    return bytes == null
-        ? buildTile(image as ImageProvider)
-        : buildTile(MemoryImage(bytes));
+    return buildTile(AssetImage(tile.image.url));
   }
 }

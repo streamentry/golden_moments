@@ -28,69 +28,69 @@ colors:
   on-error: "#FFFFFF"
 typography:
   headline-display:
-    fontFamily: system-ui
+    fontFamily: Roboto
     fontSize: 32px
     fontWeight: 700
     lineHeight: 1.2
   headline-lg:
-    fontFamily: system-ui
+    fontFamily: Roboto
     fontSize: 30px
     fontWeight: 700
     lineHeight: 1.2
   headline-md:
-    fontFamily: system-ui
+    fontFamily: Roboto
     fontSize: 28px
     fontWeight: 700
     lineHeight: 1.25
   headline-sm:
-    fontFamily: system-ui
+    fontFamily: Roboto
     fontSize: 24px
-    fontWeight: 600
+    fontWeight: 700
     lineHeight: 1.3
   title-lg:
-    fontFamily: system-ui
+    fontFamily: Roboto
     fontSize: 24px
-    fontWeight: 600
+    fontWeight: 700
     lineHeight: 1.3
   title-md:
-    fontFamily: system-ui
+    fontFamily: Roboto
     fontSize: 20px
-    fontWeight: 600
+    fontWeight: 700
     lineHeight: 1.35
   title-sm:
-    fontFamily: system-ui
+    fontFamily: Roboto
     fontSize: 18px
-    fontWeight: 600
+    fontWeight: 700
     lineHeight: 1.35
   body-lg:
-    fontFamily: system-ui
+    fontFamily: Roboto
     fontSize: 20px
     fontWeight: 400
     lineHeight: 1.4
   body-md:
-    fontFamily: system-ui
+    fontFamily: Roboto
     fontSize: 18px
     fontWeight: 400
     lineHeight: 1.4
   body-sm:
-    fontFamily: system-ui
+    fontFamily: Roboto
     fontSize: 16px
     fontWeight: 400
     lineHeight: 1.4
   label-lg:
-    fontFamily: system-ui
+    fontFamily: Roboto
     fontSize: 20px
-    fontWeight: 600
+    fontWeight: 700
     lineHeight: 1.2
   label-md:
-    fontFamily: system-ui
+    fontFamily: Roboto
     fontSize: 18px
-    fontWeight: 600
+    fontWeight: 700
     lineHeight: 1.2
   label-sm:
-    fontFamily: system-ui
+    fontFamily: Roboto
     fontSize: 16px
-    fontWeight: 600
+    fontWeight: 700
     lineHeight: 1.2
 rounded:
   md: 8px
@@ -266,7 +266,7 @@ The palette is "Golden Hour": warm parchment surfaces, near-black ink and one an
 | `on-surface` | Ink | `#222222` | All primary text and icons | 15:1 on background |
 | `on-surface-variant` | Walnut | `#5C5346` | Secondary text, captions and helper text | 6.5:1 on surface |
 | `outline` | Driftwood | `#7D7366` | Resting tile and card borders, dividers that identify a control | 4.0:1 on surface (≥3:1 non-text) |
-| `success` | Fern | `#256B29` | "Ready / downloaded" status (icon + word) | 6.5:1 with white; 5.6:1 on surface |
+| `success` | Fern | `#256B29` | "Ready" or "saved" status (icon + word) | 6.5:1 with white; 5.6:1 on surface |
 | `warning` | Amber Clay | `#8C4A00` | "Needs attention" status (icon + word) | 6.8:1 with white |
 | `error` | Brick | `#B03127` | Destructive confirmations and real failures only | 6.3:1 with white |
 
@@ -282,27 +282,27 @@ Rules:
 
 ## Typography
 
-Use the platform system font: SF Pro on iOS and Roboto on Android. It is tuned for small screens and Dynamic Type, and adds no bundle weight. Do not name a font family that is not bundled.
+Use **Roboto, bundled** in `assets/fonts` (Regular 400, Medium 500, Bold 700). It renders the same offline on every platform, and it still scales with the user's system text size. Use only the bundled weights; 600 is not bundled. Name the family in every style so component text never falls back to another font.
 
 | Token | Flutter role | Size / weight | Use |
 | --- | --- | --- | --- |
 | `headline-display` | `displayLarge` | 32 / 700 | Rare hero numbers or words |
 | `headline-lg` | `headlineLarge` | 30 / 700 | Reserved |
 | `headline-md` | `headlineMedium` | 28 / 700 | Home greeting, one per screen |
-| `headline-sm` | `headlineSmall` | 24 / 600 | Section, sheet, dialog and empty-state titles |
-| `title-lg` | `titleLarge` | 24 / 600 | App bar titles |
-| `title-md` | `titleMedium` | 20 / 600 | Card titles, list titles |
-| `title-sm` | `titleSmall` | 18 / 600 | Small group labels |
+| `headline-sm` | `headlineSmall` | 24 / 700 | Section, sheet, dialog and empty-state titles |
+| `title-lg` | `titleLarge` | 24 / 700 | App bar titles |
+| `title-md` | `titleMedium` | 20 / 700 | Card titles, list titles |
+| `title-sm` | `titleSmall` | 18 / 700 | Small group labels |
 | `body-lg` | `bodyLarge` | 20 / 400 | **Default reading text** and instructions |
 | `body-md` | `bodyMedium` | 18 / 400 | Secondary paragraphs and helper text |
 | `body-sm` | `bodySmall` | 16 / 400 | Captions and metadata. **Floor for any text** |
-| `label-lg` | `labelLarge` | 20 / 600 | Button labels |
-| `label-md` | `labelMedium` | 18 / 600 | Chips and nav labels |
-| `label-sm` | `labelSmall` | 16 / 600 | Badges and status pills |
+| `label-lg` | `labelLarge` | 20 / 700 | Button labels |
+| `label-md` | `labelMedium` | 18 / 700 | Chips and tab labels |
+| `label-sm` | `labelSmall` | 16 / 700 | Badges and status pills |
 
 Rules:
 
-- **Nothing below 16px** at 100% text size, including badges, nav labels and progress text.
+- **Nothing below 16px** at 100% text size, including badges, tab labels and progress text.
 - **Never cap or clamp the user's text scale.** Layouts must work at 200%: wrap, scroll or reflow. Never truncate a button label or instruction. Truncation is allowed only for long pack titles, at two or more lines.
 - Use sentence case everywhere. **No ALL-CAPS** words or labels, because capitals remove word shape. No italics for paragraphs. Weight is never below 400.
 - Left-align reading text. Center only short one-line titles in dialogs or empty states.
@@ -370,13 +370,13 @@ Material 3 widgets are themed centrally in `gmBuildTheme`. Screens use stock `Fi
 
 **Snackbars:** for non-essential, recoverable news only ("The picture library is unavailable. Your local activities still work."). Anything the user must act on goes inline or in a dialog.
 
-**Status badges and progress:** an icon, a word and a color ("Ready", "Downloading 40%", "Needs attention"). Text is at least 16px, and progress is determinate with a percentage where known.
+**Status badges and progress:** an icon, a word and a color ("Ready", "Saving 2 of 5", "Needs attention"). Text is at least 16px, and progress is determinate with a percentage where known.
 
 **Empty and error states:** say what happened, what still works and the one next action, in that order. Use a calm outline icon in Walnut. Brick is reserved for genuine failure icons.
 
 **Ornament:** Honey (`accent`) dots, frames or illustration fills that carry no meaning. If removing it would lose information, it is not an ornament; use `primary`.
 
-**Navigation bar** (legacy library): icon plus an always-visible label at ≥16px, with targets ≥48px. Show a numeric badge only when the number is useful (for example active downloads).
+**Tabs and navigation bars** (none ship today; the picture library is bundled and opens directly): if one is added, give it an icon plus an always-visible label at ≥16px, with targets ≥48px. Show a numeric badge only when the number is useful.
 
 ## Interaction & Game Feel
 

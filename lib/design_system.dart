@@ -49,10 +49,15 @@ const gmBrick500 = Color(0xFFB03127); // error: real failures only
 ///////////////////////////////////////////////////////////////////////////////
 /// 2. TYPOGRAPHY (DESIGN.md › Typography)
 ///////////////////////////////////////////////////////////////////////////////
-// The platform font (SF Pro / Roboto) is used deliberately: it follows
-// Dynamic Type and adds no bundle weight. Nothing is smaller than 16.
+// Roboto is bundled (400/500/700) so text renders identically offline on
+// every platform; it still scales with the system text size. Every style
+// names the family so component styles never fall back to another font.
+// Nothing is smaller than 16.
+const gmFontFamily = 'Roboto';
+
 TextTheme _gmTextTheme(Color onSurface) {
   TextStyle style(double size, FontWeight weight, double height) => TextStyle(
+    fontFamily: gmFontFamily,
     fontSize: size,
     fontWeight: weight,
     height: height,
@@ -66,16 +71,16 @@ TextTheme _gmTextTheme(Color onSurface) {
     displaySmall: style(30, FontWeight.w700, 1.2),
     headlineLarge: style(30, FontWeight.w700, 1.2), // headline-lg
     headlineMedium: style(28, FontWeight.w700, 1.25), // headline-md
-    headlineSmall: style(24, FontWeight.w600, 1.3), // headline-sm
-    titleLarge: style(24, FontWeight.w600, 1.3), // title-lg
-    titleMedium: style(20, FontWeight.w600, 1.35), // title-md
-    titleSmall: style(18, FontWeight.w600, 1.35), // title-sm
+    headlineSmall: style(24, FontWeight.w700, 1.3), // headline-sm
+    titleLarge: style(24, FontWeight.w700, 1.3), // title-lg
+    titleMedium: style(20, FontWeight.w700, 1.35), // title-md
+    titleSmall: style(18, FontWeight.w700, 1.35), // title-sm
     bodyLarge: style(20, FontWeight.w400, 1.4), // body-lg: default reading
     bodyMedium: style(18, FontWeight.w400, 1.4), // body-md
     bodySmall: style(16, FontWeight.w400, 1.4), // body-sm: the floor
-    labelLarge: style(20, FontWeight.w600, 1.2), // label-lg: buttons
-    labelMedium: style(18, FontWeight.w600, 1.2), // label-md: chips, nav
-    labelSmall: style(16, FontWeight.w600, 1.2), // label-sm: badges
+    labelLarge: style(20, FontWeight.w700, 1.2), // label-lg: buttons
+    labelMedium: style(18, FontWeight.w700, 1.2), // label-md: chips, nav
+    labelSmall: style(16, FontWeight.w700, 1.2), // label-sm: badges
   );
 }
 
@@ -150,6 +155,7 @@ ThemeData gmBuildTheme({required Brightness brightness}) {
 
   return ThemeData(
     colorScheme: scheme,
+    fontFamily: gmFontFamily,
     useMaterial3: true,
     textTheme: text,
     visualDensity: VisualDensity.standard,

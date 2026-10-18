@@ -120,7 +120,7 @@ class _GamePageState extends State<GamePage> {
                       case GameStatus.failed:
                         return _ErrorView(state: state);
                       case GameStatus.requiresDownload:
-                        return _RequiresDownloadView(state: state);
+                        return _ErrorView(state: state);
                     }
                   },
                 ),
@@ -311,65 +311,6 @@ class _GamePlayView extends StatelessWidget {
   }
 }
 
-/// Requires download view
-class _RequiresDownloadView extends StatelessWidget {
-  const _RequiresDownloadView({required this.state});
-
-  final GameState state;
-
-  @override
-  Widget build(BuildContext parentContext) {
-    final theme = Theme.of(parentContext);
-
-    return Center(
-      child: Padding(
-        padding: const EdgeInsets.all(gmSpaceLg),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Icon(
-              Icons.cloud_download,
-              size: 64,
-              color: theme.colorScheme.primary,
-            ),
-            const SizedBox(height: gmSpaceMd),
-            Text(
-              'Download needed',
-              style: theme.textTheme.headlineSmall?.copyWith(
-                color: theme.colorScheme.onSurface,
-              ),
-              textAlign: TextAlign.center,
-            ),
-            const SizedBox(height: gmSpaceSm),
-            Text(
-              'This pack needs to be downloaded before you can play.',
-              style: theme.textTheme.bodyLarge?.copyWith(
-                color: theme.colorScheme.onSurfaceVariant,
-              ),
-              textAlign: TextAlign.center,
-            ),
-            const SizedBox(height: gmSpaceLg),
-            GmPrimaryButton(
-              label: 'Download pack',
-              onTap: () {
-                // Navigate to pack details or start download
-                Navigator.of(parentContext).pop();
-              },
-            ),
-            const SizedBox(height: gmSpaceMd),
-            GmOutlineButton(
-              label: 'Go back',
-              onTap: () {
-                Navigator.of(parentContext).pop();
-              },
-            ),
-          ],
-        ),
-      ),
-    );
-  }
-}
-
 /// Error state view
 class _ErrorView extends StatelessWidget {
   const _ErrorView({required this.state});
@@ -397,8 +338,8 @@ class _ErrorView extends StatelessWidget {
             ),
             const SizedBox(height: gmSpaceSm),
             const Text(
-              'Try downloading it again, or choose another pack. Your other '
-              'packs and activities still work.',
+              'Please choose another pack. Your other packs and '
+              'activities still work.',
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceLg),

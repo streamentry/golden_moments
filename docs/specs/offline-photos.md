@@ -24,9 +24,9 @@ Android lost selections are recovered through the plugin with confirmation befor
 
 `lib/app/view/platform_home.dart` conditionally selects native versus browser entry. iOS/Android receive GentleHomePage; browser/desktop retain MainNavigation. Native IO/photo-picker imports are excluded from the browser entry graph.
 
-Mobile bootstrap loads local settings without Firebase, sound, HTTP or downloads. The explicit mobile library action initializes existing services. Browser/desktop retain the existing optional initialization and catalog downloading. The independently merged caching, responsive layout, completion counting, dependency and visual-test changes from PR #43 are preserved.
+Mobile bootstrap loads local settings without Firebase, HTTP or downloads. The explicit mobile library action opens the bundled catalog immediately. Browser and desktop also start without Firebase or pack downloads. All catalog image fields resolve to bundled assets; legacy downloaded files remain untouched. Responsive layout, completion counting, dependencies, and visual flows from PR #43 are retained.
 
-Bundle IDs, pack schema, preferences and download locations remain unchanged. Tests and release gates must verify existing installations; preserving source paths alone is not migration proof.
+Bundle IDs, pack/image IDs, field names, preferences and existing download locations remain unchanged. Catalog image values now identify packaged assets. Tests and release gates must verify existing installations; preserving source paths alone is not migration proof.
 
 ## Privacy and no-sync boundary
 

@@ -1,0 +1,23 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_test/flutter_test.dart';
+import 'package:golden_moments/data/services/local_pack_service.dart';
+import 'package:golden_moments/features/gentle_activities/presentation/gentle_home_page.dart';
+import 'package:golden_moments/shared/widgets/pack_card.dart';
+
+void main() {
+  testWidgets('gentle home opens included packs without storage or downloads', (
+    tester,
+  ) async {
+    await tester.runAsync(() => LocalPackService().getPacksIndex());
+    await tester.pumpWidget(const MaterialApp(home: GentleHomePage()));
+    final library = find.text('Explore the picture-pack library');
+    await tester.ensureVisible(library);
+    await tester.pumpAndSettle();
+    await tester.tap(library);
+    await tester.pumpAndSettle();
+    expect(find.byType(PackCard), findsWidgets);
+    expect(find.text('Download'), findsNothing);
+    expect(find.text('Download Pack'), findsNothing);
+    expect(tester.takeException(), isNull);
+  });
+}

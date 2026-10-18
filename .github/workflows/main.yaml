@@ -45,7 +45,7 @@ jobs:
       - name: Build release web app
         run: |
           flutter pub get
-          flutter build web --release
+          flutter build web --release --no-web-resources-cdn
       - name: Test real browser flows and capture screenshots
         run: |
           npm install --prefix "$RUNNER_TEMP/visual-smoke" --no-save playwright@1.62.1

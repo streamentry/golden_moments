@@ -17,7 +17,7 @@ The job is **find something comfortable to enjoy together**, not improve a test 
 | P2 | Reuse pictures offline | Normalized independent copies survive app restart |
 | P3 | Control copies | Confirm individual/remove-all; original library files untouched |
 | V1 | Simply look | One picture at a time; optional open-ended prompt; no completion requirement |
-| L1 | Retain old content | Explicit library entry; preserve existing identifiers and pack storage |
+| L1 | Retain old content | Explicit library entry; all packs bundled; preserve identifiers and old storage |
 
 Import errors retain valid content. Corrupt manifests are not silently reset. Matching needs two different pictures; viewing can start with one. Starter illustrations are not described as family photographs.
 
