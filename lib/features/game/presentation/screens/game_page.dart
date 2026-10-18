@@ -10,9 +10,8 @@ import 'package:golden_moments/features/game/cubit/game_cubit.dart';
 import 'package:golden_moments/features/game/cubit/game_state.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_board.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_header.dart';
-import 'package:golden_moments/shared/utils/string_util.dart';
+import 'package:golden_moments/shared/sharing/share_invitation.dart';
 import 'package:provider/provider.dart';
-import 'package:share_plus/share_plus.dart';
 
 /// Game page for playing memory matching games
 class GamePage extends StatefulWidget {
@@ -24,208 +23,96 @@ class GamePage extends StatefulWidget {
   State<StatefulWidget> createState() => _GamePageState();
 }
 
-class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
-  Timer? _timer;
-  int _elapsedSeconds = 0;
-  bool _isPaused = false;
-  int _completePlayCount = 1;
-
-  @override
-  void initState() {
-    super.initState();
-    WidgetsBinding.instance.addObserver(this);
-    _startTimer();
-  }
-
-  void _startTimer() {
-    if (_timer?.isActive ?? false) return; // Don't start if already running
-    _timer = Timer.periodic(const Duration(seconds: 1), (timer) {
-      if (mounted && !_isPaused) {
-        setState(() {
-          _elapsedSeconds++;
-        });
-      }
-    });
-  }
-
-  void _pauseTimer() {
-    setState(() {
-      _isPaused = true;
-    });
-    _timer?.cancel();
-  }
-
-  void _resumeTimer() {
-    setState(() {
-      _isPaused = false;
-    });
-    _startTimer();
-  }
-
-  void _resetTimer() {
-    _timer?.cancel();
-    setState(() {
-      _elapsedSeconds = 0;
-      _isPaused = false;
-    });
-    _startTimer();
-  }
-
-  void _reset() {
-    _resetTimer();
-  }
-
-  void _playAgain() {
-    _timer?.cancel();
-    setState(() {
-      if (_completePlayCount == 3) {
-        _completePlayCount = 1;
-      } else {
-        _completePlayCount++;
-      }
-      _elapsedSeconds = 0;
-      _isPaused = false;
-    });
-    _startTimer();
-  }
-
-  void _shareAppLink() {
-    const link =
-        'https://play.google.com/store/apps/details?id=com.mindfulness.golden_moments';
-
-    unawaited(
-      SharePlus.instance.share(
-        ShareParams(
-          text: 'Check out this app!\n$link',
-          subject: 'Try this app!',
-        ),
-      ),
-    );
-  }
-
-  @override
-  void dispose() {
-    _timer?.cancel();
-    WidgetsBinding.instance.removeObserver(this);
-    super.dispose();
-  }
-
-  @override
-  void didChangeAppLifecycleState(AppLifecycleState state) {
-    if (state == AppLifecycleState.paused) {
-      _pauseTimer();
-    } else if (state == AppLifecycleState.resumed) {
-      _resumeTimer();
+class _GamePageState extends State<GamePage> {
+  /// Records the finished game; returns whether to suggest sharing.
+  Future<bool> _recordCompletion() async {
+    try {
+      return await (await ShareInvitationStore.load()).recordCompletedGame();
+    } on Object {
+      return false;
     }
+  }
+
+  Future<void> _onCompleted(BuildContext context) async {
+    unawaited(SoundService().playWinner());
+    final invite = await _recordCompletion();
+    if (!mounted || !context.mounted) return;
+    _showCompletionDialog(context, invite: invite);
   }
 
   @override
   Widget build(BuildContext parentContext) {
     return BlocProvider(
       create: (context) => GameCubit()..loadAndStartGame(widget.gamePack.id),
-      child: BlocListener<GameCubit, GameState>(
-        listener: (context, state) {
-          // Handle timer based on game status
-          if (state.status == GameStatus.paused) {
-            _pauseTimer();
-          } else if (state.status == GameStatus.playing) {
-            _resumeTimer();
-          } else if (state.status == GameStatus.completed) {
-            _pauseTimer();
-          }
+      child: PopScope(
+        onPopInvokedWithResult: (_, _) {
+          SoundService().playTap();
         },
-        child: PopScope(
-          onPopInvokedWithResult: (_, _) {
-            SoundService().playTap();
-          },
-          child: BlocBuilder<GameCubit, GameState>(
-            builder: (context, state) {
-              return Scaffold(
-                appBar: AppBar(
-                  title: BlocBuilder<GameCubit, GameState>(
-                    builder: (_, state) {
-                      return Text(state.currentPack.title);
+        child: BlocBuilder<GameCubit, GameState>(
+          builder: (context, state) {
+            return Scaffold(
+              appBar: AppBar(
+                title: BlocBuilder<GameCubit, GameState>(
+                  builder: (_, state) {
+                    return Text(state.currentPack.title);
+                  },
+                ),
+                actions: [
+                  IconButton(
+                    icon: const Icon(Icons.lightbulb_outline),
+                    onPressed: () {
+                      SoundService().playTap();
+                      context.read<GameCubit>().showHint();
                     },
+                    tooltip: 'Show a matching pair',
                   ),
-                  actions: [
-                    IconButton(
-                      icon: const Icon(Icons.pause),
-                      onPressed: () {
-                        SoundService().playTap();
-                        context.read<GameCubit>().pauseGame();
-                        _showPauseDialog(context);
-                      },
-                      tooltip: 'Pause Game',
-                    ),
-                    IconButton(
-                      icon: const Icon(Icons.replay_outlined),
-                      onPressed: () {
-                        SoundService().playTap();
-                        context.read<GameCubit>().resetGame();
-                        _reset();
-                      },
-                      tooltip: 'Replay',
-                    ),
-                    IconButton(
-                      icon: const Icon(Icons.lightbulb_outline),
-                      onPressed: () {
-                        SoundService().playTap();
-                        context.read<GameCubit>().showHint();
-                      },
-                      tooltip: 'Show Hint',
-                    ),
-                  ],
+                  IconButton(
+                    icon: const Icon(Icons.replay_outlined),
+                    onPressed: () {
+                      SoundService().playTap();
+                      context.read<GameCubit>().resetGame();
+                    },
+                    tooltip: 'Start again',
+                  ),
+                  IconButton(
+                    icon: const Icon(Icons.tune),
+                    onPressed: () {
+                      SoundService().playTap();
+                      context.read<GameCubit>().pauseGame();
+                      _showPauseDialog(context);
+                    },
+                    tooltip: 'Sound and options',
+                  ),
+                ],
+              ),
+              body: BlocListener<GameCubit, GameState>(
+                listenWhen: (previous, current) =>
+                    previous.status != current.status,
+                listener: (context, state) {
+                  if (state.status == GameStatus.completed) {
+                    unawaited(_onCompleted(context));
+                  }
+                },
+                child: BlocBuilder<GameCubit, GameState>(
+                  builder: (context, state) {
+                    switch (state.status) {
+                      case GameStatus.initial:
+                      case GameStatus.loading:
+                        return const _LoadingView();
+                      case GameStatus.playing:
+                      case GameStatus.paused:
+                      case GameStatus.completed:
+                        return _GamePlayView(state: state);
+                      case GameStatus.failed:
+                        return _ErrorView(state: state);
+                      case GameStatus.requiresDownload:
+                        return _ErrorView(state: state);
+                    }
+                  },
                 ),
-                body: Stack(
-                  children: [
-                    BlocListener<GameCubit, GameState>(
-                      listener: (context, state) {
-                        if (state.status == GameStatus.completed) {
-                          _showCompletionDialog(context, state);
-                          SoundService().playWinner();
-                          if (_completePlayCount == 3) {
-                            _showInviteFriendDialog(context);
-                          }
-                        }
-                      },
-                      child: BlocBuilder<GameCubit, GameState>(
-                        builder: (context, state) {
-                          switch (state.status) {
-                            case GameStatus.initial:
-                            case GameStatus.loading:
-                              return const _LoadingView();
-                            case GameStatus.playing:
-                            case GameStatus.paused:
-                              return _GamePlayView(
-                                state: state,
-                                currentTime: formatTime(_elapsedSeconds),
-                              );
-                            case GameStatus.completed:
-                              return _GamePlayView(
-                                state: state,
-                                currentTime: formatTime(_elapsedSeconds),
-                              );
-                            case GameStatus.failed:
-                              return _ErrorView(state: state);
-                            case GameStatus.requiresDownload:
-                              return _RequiresDownloadView(state: state);
-                          }
-                        },
-                      ),
-                    ),
-                    // Confetti overlay for celebrations
-                    BlocBuilder<GameCubit, GameState>(
-                      builder: (context, state) {
-                        return GmConfettiOverlay(
-                          show: state.status == GameStatus.completed,
-                        );
-                      },
-                    ),
-                  ],
-                ),
-              );
-            },
-          ),
+              ),
+            );
+          },
         ),
       ),
     );
@@ -237,50 +124,35 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
       barrierDismissible: false,
       builder: (dialogContext) => StatefulBuilder(
         builder: (context, setState) => AlertDialog(
-          title: const Text('Game Paused'),
+          title: const Text('Options'),
+          scrollable: true,
           content: Consumer<SoundSettings>(
             builder: (_, settings, _) => Column(
               mainAxisSize: MainAxisSize.min,
               children: [
-                const Text(
-                  "Take your time! The game will resume when you're ready.",
-                ),
+                const Text('Take your time. Nothing changes while you rest.'),
                 const SizedBox(height: gmSpaceMd),
-                Row(
-                  children: [
-                    Icon(
-                      settings.isMusicOn ? Icons.volume_up : Icons.volume_off,
-                    ),
-                    const SizedBox(width: gmSpaceSm),
-                    const Text('Music'),
-                    const Spacer(),
-                    Switch(
-                      value: settings.isMusicOn,
-                      onChanged: (value) {
-                        setState(() {
-                          settings.toggleMusic();
-                        });
-                      },
-                    ),
-                  ],
+                SwitchListTile(
+                  contentPadding: EdgeInsets.zero,
+                  secondary: Icon(
+                    settings.isMusicOn ? Icons.volume_up : Icons.volume_off,
+                  ),
+                  title: const Text('Music'),
+                  value: settings.isMusicOn,
+                  onChanged: (value) {
+                    setState(settings.toggleMusic);
+                  },
                 ),
-                Row(
-                  children: [
-                    Icon(
-                      settings.isSoundOn ? Icons.music_note : Icons.music_off,
-                    ),
-                    const SizedBox(width: gmSpaceSm),
-                    const Text('Sound'),
-                    const Spacer(),
-                    Switch(
-                      value: settings.isSoundOn,
-                      onChanged: (value) {
-                        setState(() {
-                          settings.toggleSound();
-                        });
-                      },
-                    ),
-                  ],
+                SwitchListTile(
+                  contentPadding: EdgeInsets.zero,
+                  secondary: Icon(
+                    settings.isSoundOn ? Icons.music_note : Icons.music_off,
+                  ),
+                  title: const Text('Sounds'),
+                  value: settings.isSoundOn,
+                  onChanged: (value) {
+                    setState(settings.toggleSound);
+                  },
                 ),
               ],
             ),
@@ -292,15 +164,15 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
                 Navigator.of(dialogContext).pop();
                 Navigator.of(dialogContext).pop(); // Go back to home
               },
-              child: const Text('Quit Game'),
+              child: const Text('Done for now'),
             ),
-            TextButton(
+            FilledButton(
               onPressed: () {
                 SoundService().playTap();
                 Navigator.of(dialogContext).pop();
                 parentContext.read<GameCubit>().resumeGame();
               },
-              child: const Text('Resume'),
+              child: const Text('Keep playing'),
             ),
           ],
         ),
@@ -308,179 +180,75 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
     );
   }
 
-  void _showCompletionDialog(BuildContext parentContext, GameState state) {
-    // Use the current formatted time from the stopwatch
-    final timeText = formatTime(_elapsedSeconds);
+  void _showCompletionDialog(
+    BuildContext parentContext, {
+    required bool invite,
+  }) {
+    var shared = false;
+    Future<void> close() async {
+      // Carrying on without sharing is a complete answer, never a nag.
+      if (invite && !shared) {
+        try {
+          await (await ShareInvitationStore.load()).markDeclined();
+        } on Object {
+          // Sharing suggestions are optional; never block play on storage.
+        }
+      }
+    }
 
     showDialog<void>(
       context: parentContext,
       barrierDismissible: false,
-      builder: (context) => AlertDialog(
-        title: const Center(child: Text('🎉 Congratulations!')),
-        content: Column(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            const Text(
-              'You completed the memory game!',
-              style: TextStyle(fontSize: 18),
-              textAlign: TextAlign.center,
-            ),
-            const SizedBox(height: gmSpaceMd),
-            Text('Moves: ${state.moves}', style: const TextStyle(fontSize: 16)),
-            Text('Time: $timeText', style: const TextStyle(fontSize: 16)),
-            const SizedBox(height: gmSpaceMd),
-            const Text(
-              'Did this bring back any memories?',
-              style: TextStyle(fontSize: 16),
-              textAlign: TextAlign.center,
-            ),
-          ],
-        ),
-        actions: [
-          GmOutlineButton(
-            label: 'Play Again',
-            onTap: () {
-              Navigator.of(context).pop();
-              parentContext.read<GameCubit>().resetGame();
-              _playAgain();
-            },
-          ),
-          const SizedBox(height: gmSpaceSm),
-          GmPrimaryButton(
-            label: 'New Packs',
-            onTap: () {
-              Navigator.of(context).pop();
-              Navigator.of(context).pop();
-            },
-          ),
-        ],
-      ),
-    );
-  }
-
-  void _showInviteFriendDialog(BuildContext parentContext) {
-    Timer? autoCloseTimer;
-    final remainingTime = ValueNotifier<int>(15);
-
-    showDialog<void>(
-      context: parentContext,
-      barrierDismissible: false,
-      builder: (dialogContext) {
-        autoCloseTimer = Timer.periodic(const Duration(seconds: 1), (timer) {
-          if (remainingTime.value > 0) {
-            remainingTime.value--;
-          } else {
-            timer.cancel();
-            if (Navigator.of(dialogContext).canPop()) {
-              Navigator.of(dialogContext).pop();
-            }
-          }
-        });
-
-        return ValueListenableBuilder<int>(
-          valueListenable: remainingTime,
-          builder: (context, timeLeft, child) {
-            return Dialog(
-              child: Container(
-                width: MediaQuery.of(context).size.width * 0.9,
-                padding: const EdgeInsets.all(gmSpaceLg),
-                child: Column(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    // Title section with progress bar
-                    Column(
-                      children: [
-                        const Text(
-                          'Invite a Friend',
-                          style: TextStyle(
-                            fontSize: 24,
-                            fontWeight: FontWeight.bold,
-                          ),
-                          textAlign: TextAlign.center,
-                        ),
-                        const SizedBox(height: gmSpaceMd),
-                        TweenAnimationBuilder<double>(
-                          tween: Tween<double>(begin: 1, end: timeLeft / 15),
-                          duration: const Duration(seconds: 1),
-                          builder: (context, value, child) {
-                            return LinearProgressIndicator(
-                              value: value,
-                              backgroundColor: Colors.grey[300],
-                              valueColor: const AlwaysStoppedAnimation<Color>(
-                                Colors.green,
-                              ),
-                            );
-                          },
-                        ),
-                        const SizedBox(height: gmSpaceSm),
-                        Text(
-                          'Auto-closing in $timeLeft seconds',
-                          style: TextStyle(
-                            fontSize: 12,
-                            color: Colors.grey[600],
-                          ),
-                        ),
-                      ],
-                    ),
-
-                    const SizedBox(height: gmSpaceLg),
-
-                    // Icon
-                    Container(
-                      padding: const EdgeInsets.all(gmSpaceMd),
-                      decoration: BoxDecoration(
-                        color: Colors.green.withValues(alpha: 0.1),
-                        borderRadius: BorderRadius.circular(50),
-                      ),
-                      child: const Icon(
-                        Icons.group_add,
-                        size: 48,
-                        color: Colors.green,
-                      ),
-                    ),
-
-                    const SizedBox(height: gmSpaceLg),
-
-                    // Content
-                    const Text(
-                      'Share the Golden Moments!',
-                      style: TextStyle(
-                        fontSize: 20,
-                        fontWeight: FontWeight.w600,
-                      ),
-                      textAlign: TextAlign.center,
-                    ),
-                    const SizedBox(height: gmSpaceMd),
-                    const Text(
-                      "You've completed 3 memory games! 🎉\n\nWhy not invite "
-                      'your friends and family to join the fun? Share precious'
-                      ' memories together and challenge each other in this '
-                      'delightful memory game.',
-                      style: TextStyle(fontSize: 16),
-                      textAlign: TextAlign.center,
-                    ),
-
-                    const SizedBox(height: gmSpaceLg),
-
-                    // Buttons
-                    GmPrimaryButton(
-                      label: 'Invite Friends',
-                      onTap: () {
-                        _shareAppLink();
-                        Navigator.of(context).pop();
-                      },
-                    ),
-                  ],
-                ),
+      builder: (context) => StatefulBuilder(
+        builder: (context, setDialogState) => AlertDialog(
+          scrollable: true,
+          title: const Text('All pairs together'),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'Play again, choose another pack, or take a break. Is there '
+                'a picture you would like to talk about?',
               ),
-            );
-          },
-        );
-      },
-    ).then((_) {
-      autoCloseTimer?.cancel();
-      remainingTime.dispose();
-    });
+              if (invite && !shared) ...[
+                const SizedBox(height: gmSpaceMd),
+                ShareInvitation(
+                  onShare: () async {
+                    if (await shareAndRemember() && context.mounted) {
+                      setDialogState(() => shared = true);
+                    }
+                  },
+                ),
+              ],
+              if (shared) ...[
+                const SizedBox(height: gmSpaceMd),
+                const Text('Thank you for sharing.'),
+              ],
+            ],
+          ),
+          actions: [
+            GmOutlineButton(
+              label: 'Play again',
+              onTap: () {
+                unawaited(close());
+                Navigator.of(context).pop();
+                parentContext.read<GameCubit>().resetGame();
+              },
+            ),
+            const SizedBox(height: gmSpaceSm),
+            GmPrimaryButton(
+              label: 'Choose another pack',
+              onTap: () {
+                unawaited(close());
+                Navigator.of(context).pop();
+                Navigator.of(context).pop();
+              },
+            ),
+          ],
+        ),
+      ),
+    );
   }
 }
 
@@ -496,7 +264,7 @@ class _LoadingView extends StatelessWidget {
         children: [
           CircularProgressIndicator(),
           SizedBox(height: gmSpaceMd),
-          Text('Preparing your memory game...', style: TextStyle(fontSize: 18)),
+          Text('Getting the pictures ready…'),
         ],
       ),
     );
@@ -505,17 +273,16 @@ class _LoadingView extends StatelessWidget {
 
 /// Game play view
 class _GamePlayView extends StatelessWidget {
-  const _GamePlayView({required this.state, required this.currentTime});
+  const _GamePlayView({required this.state});
 
   final GameState state;
-  final String currentTime;
 
   @override
   Widget build(BuildContext parentContext) {
     return Column(
       children: [
         // Game header with stats
-        GameHeader(state: state, currentTime: currentTime),
+        GameHeader(state: state),
 
         // Game board
         Expanded(
@@ -536,65 +303,6 @@ class _GamePlayView extends StatelessWidget {
   }
 }
 
-/// Requires download view
-class _RequiresDownloadView extends StatelessWidget {
-  const _RequiresDownloadView({required this.state});
-
-  final GameState state;
-
-  @override
-  Widget build(BuildContext parentContext) {
-    final theme = Theme.of(parentContext);
-
-    return Center(
-      child: Padding(
-        padding: const EdgeInsets.all(gmSpaceLg),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Icon(
-              Icons.cloud_download,
-              size: 64,
-              color: theme.colorScheme.primary,
-            ),
-            const SizedBox(height: gmSpaceMd),
-            Text(
-              'Download Required',
-              style: theme.textTheme.headlineSmall?.copyWith(
-                color: theme.colorScheme.onSurface,
-              ),
-              textAlign: TextAlign.center,
-            ),
-            const SizedBox(height: gmSpaceSm),
-            Text(
-              'This pack needs to be downloaded before you can play.',
-              style: theme.textTheme.bodyMedium?.copyWith(
-                color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
-              ),
-              textAlign: TextAlign.center,
-            ),
-            const SizedBox(height: gmSpaceLg),
-            GmPrimaryButton(
-              label: 'Download Pack',
-              onTap: () {
-                // Navigate to pack details or start download
-                Navigator.of(parentContext).pop();
-              },
-            ),
-            const SizedBox(height: gmSpaceMd),
-            GmOutlineButton(
-              label: 'Go Back',
-              onTap: () {
-                Navigator.of(parentContext).pop();
-              },
-            ),
-          ],
-        ),
-      ),
-    );
-  }
-}
-
 /// Error state view
 class _ErrorView extends StatelessWidget {
   const _ErrorView({required this.state});
@@ -609,22 +317,26 @@ class _ErrorView extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Icon(Icons.error_outline, size: 64, color: Colors.red),
+            Icon(
+              Icons.error_outline,
+              size: 64,
+              color: Theme.of(parentContext).colorScheme.error,
+            ),
             const SizedBox(height: gmSpaceMd),
             Text(
-              'Game Error',
+              'This pack could not open',
               style: Theme.of(parentContext).textTheme.headlineSmall,
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceSm),
             const Text(
-              'Something went wrong with the pack. Please reinstall '
-              'this pack or play another pack.',
+              'Please choose another pack. Your other packs and '
+              'activities still work.',
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceLg),
             GmOutlineButton(
-              label: 'Go Back',
+              label: 'Go back',
               onTap: () {
                 Navigator.of(parentContext).pop();
               },

@@ -2,7 +2,6 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/data/models/image.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/features/game/cubit/game_cubit.dart';
-import 'package:golden_moments/shared/constants/app_constants.dart';
 
 class _SeededGameCubit extends GameCubit {
   _SeededGameCubit(List<Image> images) {
@@ -65,8 +64,76 @@ void main() {
       ..onTileTap(second.id);
     expect(cubit.state.showingMismatch, isTrue);
     await cubit.close();
-    await tester.pump(AppConstants.mismatchDisplayDuration);
+    await tester.pump(const Duration(seconds: 2));
     expect(tester.takeException(), isNull);
+  });
+
+  testWidgets('a mismatch stays visible until the next deliberate tap', (
+    tester,
+  ) async {
+    final cubit = _SeededGameCubit(images)..startNewGame(pack);
+    addTearDown(cubit.close);
+    final first = cubit.state.tiles.first;
+    final second = cubit.state.tiles.firstWhere(
+      (tile) => tile.pairId != first.pairId,
+    );
+    cubit
+      ..onTileTap(first.id)
+      ..onTileTap(second.id);
+
+    // No timer: much later, both pictures are still face up.
+    await tester.pump(const Duration(minutes: 5));
+    bool revealed(String id) =>
+        cubit.state.tiles.firstWhere((tile) => tile.id == id).isRevealed;
+    expect(cubit.state.showingMismatch, isTrue);
+    expect(revealed(first.id), isTrue);
+    expect(revealed(second.id), isTrue);
+
+    // The next tap turns them over and starts the new turn.
+    final third = cubit.state.tiles.firstWhere(
+      (tile) => tile.id != first.id && tile.id != second.id,
+    );
+    cubit.onTileTap(third.id);
+    expect(cubit.state.showingMismatch, isFalse);
+    expect(revealed(first.id), isFalse);
+    expect(revealed(second.id), isFalse);
+    expect(revealed(third.id), isTrue);
+    expect(cubit.state.selectedTiles.map((tile) => tile.id), [third.id]);
+  });
+
+  testWidgets('tapping a mismatched picture again selects it', (
+    tester,
+  ) async {
+    final cubit = _SeededGameCubit(images)..startNewGame(pack);
+    addTearDown(cubit.close);
+    final first = cubit.state.tiles.first;
+    final second = cubit.state.tiles.firstWhere(
+      (tile) => tile.pairId != first.pairId,
+    );
+    cubit
+      ..onTileTap(first.id)
+      ..onTileTap(second.id)
+      ..onTileTap(first.id);
+    expect(cubit.state.showingMismatch, isFalse);
+    expect(cubit.state.selectedTiles.map((tile) => tile.id), [first.id]);
+  });
+
+  testWidgets('a hint stays visible until the next tap', (tester) async {
+    final cubit = _SeededGameCubit(images)
+      ..startNewGame(pack)
+      ..showHint();
+    addTearDown(cubit.close);
+    final hinted = cubit.state.hintTileIds;
+    expect(hinted, hasLength(2));
+    await tester.pump(const Duration(minutes: 5));
+    expect(cubit.state.tiles.where((tile) => tile.isRevealed), hasLength(2));
+
+    // Tapping one hinted picture, then its partner, makes the match.
+    cubit
+      ..onTileTap(hinted.first)
+      ..onTileTap(hinted.last);
+    expect(cubit.state.hintTileIds, isEmpty);
+    expect(cubit.state.matchedPairs, 1);
   });
 
   testWidgets('leaving during a hint cancels delayed state updates', (

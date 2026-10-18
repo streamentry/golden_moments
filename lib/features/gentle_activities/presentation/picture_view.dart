@@ -15,16 +15,34 @@ class PictureView extends StatelessWidget {
         fit: BoxFit.contain,
         cacheWidth: 768,
         excludeFromSemantics: true,
-        errorBuilder: (_, _, _) =>
-            const Center(child: Text('Photo unavailable')),
+        errorBuilder: (_, _, _) => Center(
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Icon(
+                Icons.image_not_supported_outlined,
+                size: 40,
+                color: Theme.of(context).colorScheme.onSurfaceVariant,
+              ),
+              const Text('Photo unavailable', textAlign: TextAlign.center),
+            ],
+          ),
+        ),
       );
     }
-    return Center(
-      child: Icon(
-        picture.icon ?? Icons.photo,
-        size: 72,
-        color: Theme.of(context).colorScheme.primary,
-      ),
+    // Starter illustrations grow with the tile so they stay easy to see on
+    // tablets as well as phones.
+    return LayoutBuilder(
+      builder: (context, constraints) {
+        final side = constraints.biggest.shortestSide;
+        return Center(
+          child: Icon(
+            picture.icon ?? Icons.photo,
+            size: side.isFinite ? (side * 0.5).clamp(48, 160) : 72,
+            color: Theme.of(context).colorScheme.primary,
+          ),
+        );
+      },
     );
   }
 }

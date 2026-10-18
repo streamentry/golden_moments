@@ -9,6 +9,7 @@ const output = path.resolve('output/playwright');
 fs.mkdirSync(output, { recursive: true });
 const results = [];
 const errors = [];
+const externalRequests = [];
 let browser;
 let page;
 async function shot(name) {
@@ -35,19 +36,35 @@ async function eventually(read, expected) {
   page = await context.newPage();
   page.setDefaultTimeout(20000);
   page.on('pageerror', error => errors.push(error.message));
+  await context.route('**/*', route => {
+    const url = new URL(route.request().url());
+    if (url.protocol.startsWith('http') && url.origin !== new URL(baseUrl).origin) {
+      externalRequests.push(url.href);
+      return route.abort();
+    }
+    return route.continue();
+  });
   await page.goto(baseUrl);
   await page.locator('flt-semantics-placeholder').evaluate(el => el.click());
   await page.getByRole('heading', { name: 'Golden Moments', exact: true }).waitFor();
-  await page.getByRole('button', { name: /^DAILY / }).first().waitFor();
-  await check('real image downloads persist in browser storage', async () => {
+  await page.getByRole('button', { name: /^Daily / }).first().waitFor();
+  await check('fresh install has every catalog image bundled locally', async () => {
     const index = await (await context.request.get(`${baseUrl}/assets/assets/data/packs_index.json`)).json();
-    const urls = [...new Set(index.packs.flatMap(pack => pack.images.map(image => image.url)))];
-    await page.waitForFunction(async expected => {
-      const cache = await caches.open('golden-moments-images-v1');
-      return (await Promise.all(expected.map(url => cache.match(url)))).every(Boolean);
-    }, urls, { timeout: 120000 });
-    assert(urls.length > 0);
-    results.push({ name: 'cached images', count: urls.length, status: 'passed' });
+    function paths(value) {
+      if (typeof value === 'string') return value.startsWith('assets/') || value.startsWith('http') ? [value] : [];
+      if (Array.isArray(value)) return value.flatMap(paths);
+      return value && typeof value === 'object' ? Object.values(value).flatMap(paths) : [];
+    }
+    const assets = [...new Set(paths(index))];
+    assert.equal(assets.length, 121);
+    for (const asset of assets) {
+      assert(asset.startsWith('assets/images/catalog/'));
+      const response = await context.request.get(`${baseUrl}/assets/${asset}`);
+      assert.equal(response.status(), 200, asset);
+      assert((await response.body()).length > 0);
+    }
+    assert.equal(await page.evaluate(() => localStorage.length), 0);
+    assert.deepEqual(externalRequests, []);
   });
   await check('home renders at mobile, tablet, and desktop sizes', async () => {
     for (const [width, height] of [[320, 740], [390, 844], [768, 1024], [1440, 1000]]) {
@@ -73,45 +90,43 @@ async function eventually(read, expected) {
     assert.notEqual(await page.getByRole('switch').first().getAttribute('aria-checked'), before);
     await page.getByRole('button', { name: 'Save', exact: true }).first().click();
   });
-  await check('download manager renders completed packs', async () => {
-    await page.getByRole('button', { name: 'Download', exact: true }).click();
-    await shot('downloads-mobile');
-    await page.getByRole('button', { name: 'Home', exact: true }).click();
+  await check('catalog has no download steps', async () => {
+    assert.equal(await page.getByRole('button', { name: /Download/ }).count(), 0);
   });
-  await check('downloaded pack opens a playable game', async () => {
-    await page.getByRole('button', { name: /^DAILY / }).first().click();
-    await page.getByRole('button', { name: 'Hidden tile', exact: true }).first().waitFor();
-    assert.equal(await page.getByText('Game Error', { exact: true }).count(), 0);
+  await check('bundled pack opens a playable game', async () => {
+    await page.getByRole('button', { name: /^Daily / }).first().click();
+    await page.getByRole('button', { name: 'Hidden picture', exact: true }).first().waitFor();
+    assert.equal(await page.getByText('This pack could not open', { exact: true }).count(), 0);
     await shot('game-mobile');
   });
   await check('tile reveals, pause/resume, and replay work', async () => {
-    const hidden = page.getByRole('button', { name: 'Hidden tile', exact: true });
+    const hidden = page.getByRole('button', { name: 'Hidden picture', exact: true });
     const count = await hidden.count();
     await hidden.first().click();
     await page.waitForTimeout(500);
     await eventually(() => hidden.count(), count - 1);
     await shot('tile-revealed');
-    await page.getByRole('button', { name: 'Pause Game', exact: true }).click();
-    await page.getByText('Game Paused', { exact: true }).waitFor();
+    await page.getByRole('button', { name: 'Sound and options', exact: true }).click();
+    await page.getByText('Options', { exact: true }).waitFor();
     await shot('paused-mobile');
-    await page.getByRole('button', { name: 'Resume', exact: true }).first().click();
-    await page.getByRole('button', { name: 'Replay', exact: true }).click();
+    await page.getByRole('button', { name: 'Keep playing', exact: true }).first().click();
+    await page.getByRole('button', { name: 'Start again', exact: true }).click();
     await eventually(() => hidden.count(), count);
     await shot('game-restarted');
   });
-  await check('cached gameplay works without network', async () => {
-    await context.setOffline(true);
-    const hidden = page.getByRole('button', { name: 'Hidden tile', exact: true });
+  await check('gameplay never needs an external image request', async () => {
+
+    const hidden = page.getByRole('button', { name: 'Hidden picture', exact: true });
     const count = await hidden.count();
     await hidden.first().click();
     await eventually(() => hidden.count(), count - 1);
     await shot('offline-tile-revealed');
-    assert.equal(await page.getByText('Game Error', { exact: true }).count(), 0);
-    await context.setOffline(false);
+    assert.equal(await page.getByText('This pack could not open', { exact: true }).count(), 0);
+
   });
   await check('hint and leaving game do not emit after disposal', async () => {
-    await page.getByRole('button', { name: 'Replay', exact: true }).click();
-    await page.getByRole('button', { name: 'Show Hint', exact: true }).click();
+    await page.getByRole('button', { name: 'Start again', exact: true }).click();
+    await page.getByRole('button', { name: 'Show a matching pair', exact: true }).click();
     await shot('hint-revealed');
     await page.getByRole('button', { name: 'Back', exact: true }).click();
     await page.waitForTimeout(1500);
@@ -126,7 +141,7 @@ async function eventually(read, expected) {
   await check('full game completes and can be played again', async () => {
     await page.getByRole('button', { name: /^Animals Cute/ }).click();
     await page.getByRole('button', { name: /Farm Animals/ }).click();
-    await page.getByRole('button', { name: 'Hidden tile', exact: true }).first().waitFor();
+    await page.getByRole('button', { name: 'Hidden picture', exact: true }).first().waitFor();
     const tiles = page.getByRole('group').getByRole('button');
     const count = await tiles.count();
     const known = new Map();
@@ -137,7 +152,7 @@ async function eventually(read, expected) {
       await page.waitForTimeout(120);
       const snapshot = await tiles.nth(index).ariaSnapshot();
       const name = JSON.parse(snapshot.match(/"(?:[^"\\]|\\.)*"/)[0]);
-      assert.notEqual(name, 'Hidden tile');
+      assert.notEqual(name, 'Hidden picture');
       known.set(index, name);
       return name;
     }
@@ -157,27 +172,29 @@ async function eventually(read, expected) {
       // The final match opens a modal, removing the board's semantics.
       const secondName = matched.size === count - 2
         ? (await tiles.nth(second).click(), firstName) : await flip(second);
-      if (firstName === secondName || secondName === `Matched: ${firstName}`) {
+      if ([firstName, `Matched: ${firstName}`, `${firstName} Matched`].includes(secondName)) {
         matched.add(first); matched.add(second);
       } else {
         await page.waitForTimeout(1600);
       }
     }
     assert.equal(matched.size, count);
-    await page.getByText('You completed the memory game!', { exact: true }).waitFor();
-    assert.equal(await page.getByText(/You've completed 3 memory games/).count(), 0);
+    await page.getByText('All pairs together', { exact: true }).waitFor();
+    // A first finished game never carries a sharing suggestion.
+    assert.equal(await page.getByText(/Another family might enjoy them too/).count(), 0);
     await shot('game-completed');
-    await page.getByRole('button', { name: 'Play Again', exact: true }).first().click();
-    await page.getByRole('button', { name: 'Hidden tile', exact: true }).first().waitFor();
+    await page.getByRole('button', { name: 'Play again', exact: true }).first().click();
+    await page.getByRole('button', { name: 'Hidden picture', exact: true }).first().waitFor();
     await shot('play-again');
   });
   assert.deepEqual(errors, [], 'Unhandled browser errors');
+  assert.deepEqual(externalRequests, [], 'External requests from bundled app');
 })().catch(async error => {
   results.push({ name: 'automation', status: 'failed', error: error.message });
   if (page) await shot('failure').catch(() => {});
   console.error(error);
   process.exitCode = 1;
 }).finally(async () => {
-  fs.writeFileSync(path.join(output, 'results.json'), JSON.stringify({ baseUrl, timestamp: new Date().toISOString(), results, errors }, null, 2));
+  fs.writeFileSync(path.join(output, 'results.json'), JSON.stringify({ baseUrl, timestamp: new Date().toISOString(), results, errors, externalRequests }, null, 2));
   if (browser) await browser.close();
 });

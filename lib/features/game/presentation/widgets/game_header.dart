@@ -2,95 +2,62 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/cubit/game_state.dart';
 
-/// Header widget showing game statistics and progress
+/// Calm guidance above the board. It deliberately shows no clock or move
+/// count (DESIGN.md › Interaction & Game Feel).
 class GameHeader extends StatelessWidget {
-  const GameHeader({required this.state, required this.currentTime, super.key});
+  const GameHeader({required this.state, super.key});
 
   final GameState state;
-  final String currentTime;
 
   @override
   Widget build(BuildContext parentContext) {
     final theme = Theme.of(parentContext);
+    final scheme = theme.colorScheme;
+    final message = state.showingMismatch
+        ? 'Not a pair this time. Tap any picture to continue.'
+        : state.hintTileIds.isNotEmpty
+        ? 'These two match. Tap a picture to continue.'
+        : 'Find the matching pictures. There is no time limit.';
 
-    return Container(
-      padding: const EdgeInsets.all(gmSpaceMd),
-      decoration: BoxDecoration(
-        color: theme.colorScheme.surface,
-        boxShadow: [
-          BoxShadow(
-            color: theme.colorScheme.shadow.withValues(alpha: 0.1),
-            blurRadius: 4,
-            offset: const Offset(0, 2),
-          ),
-        ],
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(
+        gmSpaceMd,
+        gmSpaceSm,
+        gmSpaceMd,
+        0,
       ),
-      child: Column(
+      child: Wrap(
+        spacing: gmSpaceMd,
+        runSpacing: gmSpaceSm,
+        crossAxisAlignment: WrapCrossAlignment.center,
         children: [
-          // Game stats
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-            children: [
-              _StatCard(
-                icon: Icons.touch_app,
-                value: state.moves.toString(),
-                theme: theme,
-              ),
-              const SizedBox(width: gmSpaceSm),
-              _StatCard(icon: Icons.timer, value: currentTime, theme: theme),
-              const SizedBox(width: gmSpaceSm),
-              _StatCard(
-                icon: Icons.stars,
-                value: state.currentPack.difficulty.displayName,
-                theme: theme,
-              ),
-            ],
+          Semantics(
+            liveRegion: true,
+            child: Text(message, style: theme.textTheme.bodyLarge),
           ),
-        ],
-      ),
-    );
-  }
-}
-
-/// Individual stat card widget
-class _StatCard extends StatelessWidget {
-  const _StatCard({
-    required this.icon,
-    required this.value,
-    required this.theme,
-  });
-
-  final IconData icon;
-  final String value;
-  final ThemeData theme;
-
-  @override
-  Widget build(BuildContext parentContext) {
-    return Expanded(
-      child: Container(
-        padding: const EdgeInsets.symmetric(vertical: gmSpaceSm),
-        decoration: BoxDecoration(
-          color: theme.colorScheme.primaryContainer.withValues(alpha: 0.3),
-          borderRadius: BorderRadius.circular(gmRadiusMd),
-          border: Border.all(
-            color: theme.colorScheme.outline.withValues(alpha: 0.2),
-          ),
-        ),
-        child: Row(
-          mainAxisSize: MainAxisSize.min,
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Icon(icon, size: 24, color: theme.colorScheme.primary),
-            const SizedBox(width: gmSpaceSm),
-            Text(
-              value,
-              style: theme.textTheme.titleMedium?.copyWith(
-                fontWeight: FontWeight.bold,
-                color: theme.colorScheme.primary,
+          DecoratedBox(
+            decoration: ShapeDecoration(
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(gmRadiusMd),
+                side: BorderSide(color: scheme.outline),
               ),
             ),
-          ],
-        ),
+            child: Padding(
+              padding: const EdgeInsets.symmetric(
+                horizontal: gmSpaceSm,
+                vertical: gmSpaceXs,
+              ),
+              child: Text(
+                '${state.currentPack.difficulty.displayName} · '
+                '${state.matchedPairs} of '
+                '${state.currentPack.difficulty.pairCount} pairs',
+                style: theme.textTheme.labelSmall?.copyWith(
+                  color: scheme.onSurfaceVariant,
+                ),
+              ),
+            ),
+          ),
+        ],
       ),
     );
   }

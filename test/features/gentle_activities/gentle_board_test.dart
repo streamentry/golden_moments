@@ -30,8 +30,9 @@ void main() {
     final board = GentleBoard(['a', 'b'], random: Random(2));
     final a = board.cards.indexOf('a');
     final b = board.cards.indexOf('b');
-    board.tap(a);
-    board.tap(b);
+    board
+      ..tap(a)
+      ..tap(b);
     expect(board.waitingForNextTurn, isTrue);
     expect(board.isVisible(a, keepVisible: false), isTrue);
     final otherA = board.cards.lastIndexOf('a');

@@ -12,54 +12,55 @@ class SettingModal extends StatelessWidget {
     final theme = Theme.of(context);
 
     return Consumer<SoundSettings>(
-      builder: (context, settings, _) => Padding(
-        padding: const EdgeInsets.all(gmSpaceLg),
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text('Settings', style: theme.textTheme.titleLarge),
-            const SizedBox(height: gmSpaceMd),
-            Row(
-              children: [
-                Icon(settings.isMusicOn ? Icons.volume_up : Icons.volume_off),
-                const SizedBox(width: gmSpaceSm),
-                const Text('Music'),
-                const Spacer(),
-                Switch(
-                  value: settings.isMusicOn,
-                  onChanged: (val) {
-                    settings.toggleMusic();
-                  },
+      builder: (context, settings, _) => SafeArea(
+        child: SingleChildScrollView(
+          padding: const EdgeInsets.fromLTRB(
+            gmSpaceLg,
+            gmSpaceSm,
+            gmSpaceLg,
+            gmSpaceLg,
+          ),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text('Settings', style: theme.textTheme.headlineSmall),
+              const SizedBox(height: gmSpaceMd),
+              // The whole row is the target (DESIGN.md › Switch rows).
+              SwitchListTile(
+                contentPadding: EdgeInsets.zero,
+                secondary: Icon(
+                  settings.isMusicOn ? Icons.volume_up : Icons.volume_off,
                 ),
-              ],
-            ),
-            const SizedBox(height: gmSpaceSm),
-            Row(
-              children: [
-                Icon(settings.isSoundOn ? Icons.music_note : Icons.music_off),
-                const SizedBox(width: gmSpaceSm),
-                const Text('Sound'),
-                const Spacer(),
-                Switch(
-                  value: settings.isSoundOn,
-                  onChanged: (val) {
-                    settings.toggleSound();
-                  },
-                ),
-              ],
-            ),
-            const SizedBox(height: gmSpaceLg),
-            Align(
-              alignment: Alignment.centerRight,
-              child: GmPrimaryButton(
-                label: 'Save',
-                onTap: () {
-                  Navigator.of(context).pop();
+                title: const Text('Music'),
+                value: settings.isMusicOn,
+                onChanged: (val) {
+                  settings.toggleMusic();
                 },
               ),
-            ),
-          ],
+              SwitchListTile(
+                contentPadding: EdgeInsets.zero,
+                secondary: Icon(
+                  settings.isSoundOn ? Icons.music_note : Icons.music_off,
+                ),
+                title: const Text('Sound'),
+                value: settings.isSoundOn,
+                onChanged: (val) {
+                  settings.toggleSound();
+                },
+              ),
+              const SizedBox(height: gmSpaceLg),
+              Align(
+                alignment: Alignment.centerRight,
+                child: GmPrimaryButton(
+                  label: 'Save',
+                  onTap: () {
+                    Navigator.of(context).pop();
+                  },
+                ),
+              ),
+            ],
+          ),
         ),
       ),
     );
@@ -70,9 +71,7 @@ class SettingModal extends StatelessWidget {
 Future<void> showSettingModal({required BuildContext context}) {
   return showModalBottomSheet<void>(
     context: context,
-    shape: const RoundedRectangleBorder(
-      borderRadius: BorderRadius.vertical(top: Radius.circular(gmRadiusLg)),
-    ),
+    // Shape, color and drag handle come from gmBuildTheme.
     builder: (ctx) => const SettingModal(),
   );
 }

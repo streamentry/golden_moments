@@ -1,240 +1,78 @@
-import 'dart:async';
-
-import 'package:cached_network_image/cached_network_image.dart';
-import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/pack.dart';
-import 'package:golden_moments/data/services/download_manager.dart';
-import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/game.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
-import 'package:percent_indicator/flutter_percent_indicator.dart';
 
-/// Card widget for displaying a game pack
-class PackCard extends StatefulWidget {
+/// Every pack is bundled and starts with a single tap.
+class PackCard extends StatelessWidget {
   const PackCard({
     required this.pack,
     this.onTap,
     this.showDailyBadge = false,
     this.showPremiumBadge = false,
-    this.downloadProgress,
     super.key,
   });
-
   final Pack pack;
   final VoidCallback? onTap;
   final bool showDailyBadge;
   final bool showPremiumBadge;
-  final double? downloadProgress;
+
+  /// Height of a [PackCard] in a grid whose columns are [cardWidth] wide.
+  ///
+  /// The text area grows with the system text size, so nothing clips at
+  /// 200% text.
+  static double gridExtent(BuildContext context, double cardWidth) =>
+      cardWidth * 2 / 3 + 176 * MediaQuery.textScalerOf(context).scale(1);
 
   @override
-  State<PackCard> createState() => _PackCardState();
-}
-
-class _PackCardState extends State<PackCard> {
-  PackStatus? _downloadStatus;
-  double _downloadProgress = 0;
-  bool _isLoading = true;
-  Timer? _progressTimer;
-
-  @override
-  void initState() {
-    super.initState();
-    _checkPackStatus();
-    DownloadManager().addListener(_onStatusChange);
-  }
-
-  @override
-  void dispose() {
-    DownloadManager().removeListener(_onStatusChange);
-    _progressTimer?.cancel();
-    super.dispose();
-  }
-
-  Future<void> _checkPackStatus() async {
-    setState(() {
-      _downloadStatus = DownloadManager().getPackStatus(widget.pack.id);
-    });
-    _isLoading = false;
-  }
-
-  void _onStatusChange() {
-    final status = DownloadManager().getPackStatus(widget.pack.id);
-    setState(() {
-      _downloadStatus = status;
-    });
-    if (status == PackStatus.downloading) {
-      _calculateDownloadProgress(widget.pack.id);
-    }
-  }
-
-  void _startDownloadPack(String packId) {
-    unawaited(
-      DownloadManager().downloadPack(packId).catchError((Object error) {
-        if (!mounted) return;
-        _progressTimer?.cancel();
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('Download failed. Please try again.')),
-        );
-      }),
-    );
-    _calculateDownloadProgress(packId);
-  }
-
-  void _calculateDownloadProgress(String packId) {
-    _progressTimer?.cancel(); // Cancel any existing timer
-    _progressTimer = Timer.periodic(const Duration(milliseconds: 500), (timer) {
-      setState(() {
-        _downloadProgress = DownloadManager().getPackDownloadProgress(packId);
-      });
-      if (DownloadManager().getPackStatus(packId) == PackStatus.completed) {
-        timer.cancel();
-      }
-    });
-  }
-
-  void _showDownloadConfirmationDialog(Pack pack) {
-    showDialog<void>(
-      context: context,
-      builder: (dialogContext) => AlertDialog(
-        title: const Text('Download Pack'),
-        content: Text(
-          'Do you want to download the "${pack.title}" pack?'
-          ' This may consume data.',
-        ),
-        actions: [
-          TextButton(
-            onPressed: () {
-              unawaited(SoundService().playTap());
-              Navigator.of(dialogContext).pop(); // Close dialog
-            },
-            child: const Text('Cancel'),
-          ),
-          TextButton(
-            onPressed: () async {
-              unawaited(SoundService().playTap());
-              Navigator.of(dialogContext).pop(); // Close dialog
-              _startDownloadPack(pack.id); // Start download
-
-              try {
-                await FirebaseAnalytics.instance.logEvent(
-                  name: 'download_pack',
-                  parameters: {'Id': pack.id, 'Title': pack.title},
-                );
-              } on Object catch (_) {
-                // Analytics is optional when Firebase is not configured.
-              }
-            },
-            child: const Text('Download'),
-          ),
-        ],
-      ),
-    );
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    final theme = Theme.of(context);
-
-    return Card(
-      clipBehavior: Clip.antiAlias,
-      child: Pressable(
-        onPressed: () async {
-          switch (_downloadStatus) {
-            case PackStatus.completed:
-              {
-                if (widget.onTap == null) {
-                  await Navigator.of(context).push(
-                    MaterialPageRoute<void>(
-                      builder: (context) => GamePage(gamePack: widget.pack),
-                    ),
-                  );
-                } else {
-                  widget.onTap?.call();
-                }
-
-                try {
-                  await FirebaseAnalytics.instance.logScreenView(
-                    screenName: 'Game',
-                  );
-                } on Object catch (_) {
-                  // Analytics must not interrupt gameplay.
-                }
-              }
-            case PackStatus.notStarted:
-            case null:
-              _showDownloadConfirmationDialog(widget.pack);
-            case PackStatus.downloading:
-          }
-        },
-        child: _buildLayout(theme),
-      ),
-    );
-  }
+  Widget build(BuildContext context) => Card(
+    clipBehavior: Clip.antiAlias,
+    child: Pressable(
+      onPressed:
+          onTap ??
+          () {
+            Navigator.of(context).push(
+              MaterialPageRoute<void>(
+                builder: (_) => GamePage(gamePack: pack),
+              ),
+            );
+          },
+      child: _buildLayout(Theme.of(context)),
+    ),
+  );
 
   Widget _buildLayout(ThemeData theme) {
-    Widget getIcon() {
-      switch (_downloadStatus) {
-        case PackStatus.completed:
-          return Icon(
-            Icons.download_done,
-            size: 24,
-            color: theme.colorScheme.primary,
-          );
-        case PackStatus.notStarted:
-        case null:
-          return Icon(
-            Icons.download,
-            size: 24,
-            color: theme.colorScheme.primary,
-          );
-        case PackStatus.downloading:
-          return CircularPercentIndicator(
-            radius: 12,
-            percent: _downloadProgress,
-            progressColor: Colors.green,
-          );
-      }
-    }
-
+    final scheme = theme.colorScheme;
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        // Image placeholder
-        Padding(
-          padding: EdgeInsetsGeometry.zero,
-          child: Stack(
-            children: [
-              Container(
-                width: double.infinity,
-                decoration: BoxDecoration(
-                  color: theme.colorScheme.primaryContainer,
-                  borderRadius: const BorderRadius.vertical(
-                    top: Radius.circular(gmRadiusMd),
-                  ),
-                ),
-                child: AspectRatio(
-                  aspectRatio: 3 / 2, // width / height
-                  child: CachedNetworkImage(
-                    imageUrl: widget.pack.thumbnailUrl,
-                    errorWidget: (context, url, error) =>
-                        const Icon(Icons.error),
-                    fit: BoxFit.cover,
-                    width: double.infinity, // match parent
+        Stack(
+          children: [
+            ColoredBox(
+              color: gmSurf200,
+              child: AspectRatio(
+                aspectRatio: 3 / 2, // width / height
+                child: Image.asset(
+                  pack.thumbnailUrl,
+                  fit: BoxFit.cover,
+                  width: double.infinity,
+                  excludeFromSemantics: true,
+                  errorBuilder: (context, error, stackTrace) => Icon(
+                    Icons.photo_outlined,
+                    size: 40,
+                    color: scheme.onSurfaceVariant,
                   ),
                 ),
               ),
-              // Badges
-              Positioned(
-                top: gmSpaceSm,
-                right: gmSpaceSm,
-                child: _buildBadges(theme),
-              ),
-            ],
-          ),
+            ),
+            Positioned(
+              top: gmSpaceSm,
+              right: gmSpaceSm,
+              child: _buildBadges(theme),
+            ),
+          ],
         ),
-        // Content
         Expanded(
           child: Padding(
             padding: const EdgeInsets.all(gmSpaceSm),
@@ -243,40 +81,44 @@ class _PackCardState extends State<PackCard> {
               children: [
                 Expanded(
                   child: Text(
-                    widget.pack.title,
-                    style: theme.textTheme.titleMedium?.copyWith(
-                      fontWeight: FontWeight.bold,
-                    ),
+                    pack.title,
+                    style: theme.textTheme.titleMedium,
                     maxLines: 2,
                     overflow: TextOverflow.ellipsis,
                   ),
                 ),
                 Text(
-                  widget.pack.theme,
+                  pack.theme,
                   style: theme.textTheme.bodySmall?.copyWith(
-                    color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
+                    color: scheme.onSurfaceVariant,
                   ),
                   maxLines: 1,
                   overflow: TextOverflow.ellipsis,
                 ),
                 const SizedBox(height: gmSpaceSm),
-                Row(
+                Wrap(
+                  spacing: gmSpaceSm,
+                  runSpacing: gmSpaceXs,
+                  crossAxisAlignment: WrapCrossAlignment.center,
                   children: [
                     _buildDifficultyChip(theme),
-                    const Spacer(),
-                    if (_isLoading)
-                      SizedBox(
-                        width: 24,
-                        height: 24,
-                        child: CircularProgressIndicator(
-                          strokeWidth: 2.5,
-                          valueColor: AlwaysStoppedAnimation<Color>(
-                            theme.colorScheme.primary,
+                    Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Icon(
+                          Icons.play_circle_outline,
+                          size: 24,
+                          color: scheme.primary,
+                        ),
+                        const SizedBox(width: gmSpaceXs),
+                        Text(
+                          'Play',
+                          style: theme.textTheme.labelSmall?.copyWith(
+                            color: scheme.primary,
                           ),
                         ),
-                      )
-                    else
-                      getIcon(),
+                      ],
+                    ),
                   ],
                 ),
               ],
@@ -287,87 +129,61 @@ class _PackCardState extends State<PackCard> {
     );
   }
 
+  Widget _badge(ThemeData theme, String label, Color background) {
+    return DecoratedBox(
+      decoration: BoxDecoration(
+        color: background,
+        borderRadius: BorderRadius.circular(gmRadiusMd),
+      ),
+      child: Padding(
+        padding: const EdgeInsets.symmetric(
+          horizontal: gmSpaceSm,
+          vertical: gmSpaceXs,
+        ),
+        child: Text(
+          label,
+          style: theme.textTheme.labelSmall?.copyWith(color: Colors.white),
+        ),
+      ),
+    );
+  }
+
   Widget _buildBadges(ThemeData theme) {
-    final badges = <Widget>[];
-
-    if (widget.showDailyBadge) {
-      badges.add(
-        Container(
-          padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
-          decoration: BoxDecoration(
-            color: theme.colorScheme.secondary,
-            borderRadius: BorderRadius.circular(8),
-          ),
-          child: Text(
-            'DAILY',
-            style: theme.textTheme.labelSmall?.copyWith(
-              color: theme.colorScheme.onSecondary,
-              fontWeight: FontWeight.bold,
-            ),
-          ),
-        ),
-      );
-    }
-
-    if (widget.showPremiumBadge) {
-      badges.add(
-        Container(
-          padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
-          decoration: BoxDecoration(
-            color: theme.colorScheme.tertiary,
-            borderRadius: BorderRadius.circular(8),
-          ),
-          child: Text(
-            'PREMIUM',
-            style: theme.textTheme.labelSmall?.copyWith(
-              color: theme.colorScheme.onTertiary,
-              fontWeight: FontWeight.bold,
-            ),
-          ),
-        ),
-      );
-    }
-
+    final badges = <Widget>[
+      if (showDailyBadge) _badge(theme, 'Daily', theme.colorScheme.secondary),
+      if (showPremiumBadge) _badge(theme, 'Premium', theme.colorScheme.primary),
+    ];
     if (badges.isEmpty) return const SizedBox.shrink();
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.end,
-      children: badges
-          .map(
-            (badge) => Padding(
-              padding: const EdgeInsets.only(bottom: 4),
-              child: badge,
-            ),
-          )
-          .toList(),
+      children: [
+        for (final badge in badges)
+          Padding(
+            padding: const EdgeInsets.only(bottom: gmSpaceXs),
+            child: badge,
+          ),
+      ],
     );
   }
 
+  /// Difficulty is a choice, not a status, so the chip stays neutral.
   Widget _buildDifficultyChip(ThemeData theme) {
-    final Color chipColor;
-    switch (widget.pack.difficulty) {
-      case GameDifficulty.easy:
-        chipColor = Colors.green;
-      case GameDifficulty.medium:
-        chipColor = Colors.orange;
-      case GameDifficulty.hard:
-        chipColor = Colors.red;
-      case GameDifficulty.brainy:
-        chipColor = Colors.red;
-    }
-
-    return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+    return DecoratedBox(
       decoration: BoxDecoration(
-        color: chipColor.withValues(alpha: 0.1),
-        borderRadius: BorderRadius.circular(12),
-        border: Border.all(color: chipColor.withValues(alpha: 0.3)),
+        borderRadius: BorderRadius.circular(gmRadiusMd),
+        border: Border.all(color: theme.colorScheme.outline),
       ),
-      child: Text(
-        widget.pack.difficulty.displayName,
-        style: theme.textTheme.labelSmall?.copyWith(
-          color: chipColor,
-          fontWeight: FontWeight.w500,
+      child: Padding(
+        padding: const EdgeInsets.symmetric(
+          horizontal: gmSpaceSm,
+          vertical: gmSpaceXs,
+        ),
+        child: Text(
+          pack.difficulty.displayName,
+          style: theme.textTheme.labelSmall?.copyWith(
+            color: theme.colorScheme.onSurfaceVariant,
+          ),
         ),
       ),
     );

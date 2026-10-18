@@ -48,8 +48,18 @@ dev_dependencies:
 flutter:
   generate: true
   uses-material-design: true
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Roboto-Bold.ttf
+          weight: 700
   assets:
     - assets/data/
+    - assets/fonts/Roboto_LICENSE.txt
+    - assets/images/catalog/
     - assets/sounds/
 
 flutter_launcher_icons:
@@ -64,10 +74,6 @@ flutter_native_splash:
   web: false
   color: "#FFF5DE"
   image: assets/icons/app_icon_padded.png
-  color_dark: "#FFF5DE"
-  image_dark: assets/icons/app_icon_padded.png
   android_12:
     image: assets/icons/app_icon_padded.png
     color: "#FFF5DE"
-    color_dark: "#FFF5DE"
-    image_dark: assets/icons/app_icon_padded.png

@@ -38,7 +38,7 @@ class FamilyPhotoStore {
 
   Future<List<String>> _read() async {
     await directory.create(recursive: true);
-    if (!await _manifest.exists()) return [];
+    if (!_manifest.existsSync()) return [];
     final data = jsonDecode(await _manifest.readAsString());
     if (data is! Map<String, dynamic> ||
         data['version'] != 1 ||
@@ -59,7 +59,7 @@ class FamilyPhotoStore {
     // Missing copies do not prevent the remaining pictures from being used.
     final available = <String>[];
     for (final id in ids) {
-      if (await fileFor(id).exists()) available.add(id);
+      if (fileFor(id).existsSync()) available.add(id);
     }
     return available;
   }
@@ -96,7 +96,7 @@ class FamilyPhotoStore {
       for (final entry in additions.entries) {
         final file = fileFor(entry.key);
         // Reuse a verified orphan from an interrupted previous import.
-        if (!await file.exists()) {
+        if (!file.existsSync()) {
           await file.writeAsBytes(entry.value, flush: true);
           written.add(file);
         } else if (sha256.convert(await file.readAsBytes()).toString() !=
@@ -107,7 +107,7 @@ class FamilyPhotoStore {
       final updated = [...ids, ...additions.keys];
       await _save(updated);
       return updated;
-    } catch (_) {
+    } on Object catch (_) {
       for (final file in written) {
         try {
           await file.delete();
@@ -124,7 +124,7 @@ class FamilyPhotoStore {
     final ids = await _read();
     ids.remove(id);
     await _save(ids);
-    if (await file.exists()) await file.delete();
+    if (file.existsSync()) await file.delete();
     return ids;
   });
 

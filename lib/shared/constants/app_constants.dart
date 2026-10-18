@@ -11,9 +11,7 @@ class AppConstants {
   // Game configuration
   static const int maxSelectedTiles = 2;
   static const Duration tileFlipDuration = Duration(milliseconds: 300);
-  static const Duration mismatchDisplayDuration = Duration(milliseconds: 1500);
   static const Duration matchCelebrationDuration = Duration(milliseconds: 800);
-  static const Duration packCompletionDelay = Duration(milliseconds: 2000);
 
   // Animation durations
   static const Duration shortAnimation = Duration(milliseconds: 200);

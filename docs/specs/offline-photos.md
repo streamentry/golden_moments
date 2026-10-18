@@ -16,7 +16,7 @@ Mutations are serialized. Validate a batch before modifying the manifest. Write 
 
 ## Permissions and lifecycle
 
-`image_picker` is initially pinned at 1.1.2. Revalidate and resolve its platform dependencies against Flutter 3.47.7/Dart 3.13.5. Set `requestFullMetadata: false` and re-encode pixels. iOS permission text explains selection; no camera or microphone functionality is introduced.
+`image_picker` is initially pinned at 1.1.2. Revalidate and resolve its platform dependencies against the SDK in `.fvmrc` and `pubspec.yaml`. Set `requestFullMetadata: false` and re-encode pixels. iOS permission text explains selection; no camera or microphone functionality is introduced.
 
 Android lost selections are recovered through the plugin with confirmation before import. Test HEIC and iCloud-only originals on hardware. Cancellation is not an error. Removing an original after import must not remove the app copy.
 
@@ -24,14 +24,18 @@ Android lost selections are recovered through the plugin with confirmation befor
 
 `lib/app/view/platform_home.dart` conditionally selects native versus browser entry. iOS/Android receive GentleHomePage; browser/desktop retain MainNavigation. Native IO/photo-picker imports are excluded from the browser entry graph.
 
-Mobile bootstrap loads local settings without Firebase, sound, HTTP or downloads. The explicit mobile library action initializes existing services. Browser/desktop retain the existing optional initialization and catalog downloading. The independently merged caching, responsive layout, completion counting, dependency and visual-test changes from PR #43 are preserved.
+Mobile bootstrap loads local settings without Firebase, HTTP or downloads. The explicit mobile library action opens the bundled catalog immediately. Browser and desktop also start without Firebase or pack downloads. All catalog image fields resolve to bundled assets; legacy downloaded files remain untouched. Responsive layout, completion counting, dependencies, and visual flows from PR #43 are retained.
 
-Bundle IDs, pack schema, preferences and download locations remain unchanged. Tests and release gates must verify existing installations; preserving source paths alone is not migration proof.
+Bundle IDs, pack/image IDs, field names, preferences and existing download locations remain unchanged. Catalog image values now identify packaged assets. Tests and release gates must verify existing installations; preserving source paths alone is not migration proof.
 
 ## Privacy and no-sync boundary
 
-Firebase dependencies remain. Mobile Analytics is deactivated and automatic Crashlytics reporting disabled in native configuration. Audit native initializers, persisted settings, linked SDKs and traffic before asserting no tracking/no collection. Browser startup still has its previous optional Firebase path; do not generalize mobile claims to it.
+Firebase dependencies remain. Mobile Analytics is deactivated and automatic Crashlytics reporting disabled in native configuration. Audit native initializers, persisted settings, linked SDKs and traffic before asserting no tracking/no collection. PR #47 also removed browser Firebase/CDN startup; the older description of an optional browser initialization path is superseded. Browser and native privacy evidence must still be recorded separately.
 
-Photos are snapshots, not watched originals. Device backup may contain copies. No CloudKit sharing, family sync, live-link service or automatic revocation. Deck-file exchange is deferred until bounded archives, path-traversal/zip-bomb protection and recipient consent are specified.
+Photos are snapshots, not watched originals. Device backup may contain copies. No CloudKit sharing, family sync, live-link service or automatic revocation. Deck-file exchange remains deferred.
+
+## Proposed extensions, not current behavior
+
+[Senior-first photo requirements](senior-first/personal-photos.md) specify optional descriptions, favorites, and conditional albums/file exchange. [Reliability requirements](senior-first/reliability-privacy.md) specify migration and failure acceptance. These do not alter the current manifest or quotas. Any future sidecar/schema migration needs a separate implementation and preservation tests. File sharing requires archive limits, traversal/decompression protection and recipient preview before approval.
 
 References: [image_picker](https://pub.dev/packages/image_picker/versions/1.1.2), [Analytics controls](https://firebase.google.com/docs/analytics/configure-data-collection), [Crashlytics controls](https://firebase.google.com/docs/crashlytics/customize-crash-reports).

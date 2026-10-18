@@ -18,6 +18,15 @@ jobs:
           python-version: '3.12'
       - run: python -m unittest discover -s tests -p 'test_*.py' -v
       - run: python scripts/release_metadata.py --check
+  design-system:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Lint DESIGN.md against the open format
+        run: npx --yes @google/design.md@0.4.0 lint DESIGN.md
   gentle-activities:
     runs-on: ubuntu-latest
     timeout-minutes: 20
@@ -31,6 +40,7 @@ jobs:
       - run: flutter pub get
       - run: flutter analyze --no-fatal-infos --no-fatal-warnings
       - run: flutter test test/features/gentle_activities --reporter expanded
+      - run: flutter test test/design_system_test.dart --reporter expanded
       - name: Retain resolved dependencies for review
         if: always()
         uses: actions/upload-artifact@v4

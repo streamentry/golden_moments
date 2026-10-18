@@ -3,6 +3,9 @@
 Scope: this repository. Read this file, then only the references relevant to the
 change. Keep durable rules here; execution details and research live in the
 linked guides. Use uppercase `AGENTS.md`; do not create a competing `agents.md`.
+Read `README.md`, `WORKBOARD.md` and `docs/specs/product.md` before changing
+scope, and `DESIGN.md` before changing any UI, copy, motion, sound or store art.
+Canonical US copy is `metadata/app-store.en-US.json`; generated exports must not drift.
 
 ## Product direction
 
@@ -52,13 +55,35 @@ instead of silently treating any one of these as proof of the others.
 - No diagnosis, cognitive scoring, forced recall, clinical claims, disease-stage
   promises, invented testimonials, or claimed treatment/prevention benefits.
   A disclaimer is not legal clearance; the actual experience and all marketing must agree.
-- Gentle mode has no clock, score, penalty, forced completion, or automatic
-  mismatch timeout. Keep visible-picture play and an easy way to stop.
+- Gentle mode has no clock, score, forced recall, penalty, forced completion, or
+  automatic mismatch timer. Keep visible-picture play and an easy way to stop. No
+  screen anywhere shows a stopwatch, move count, streak, confetti, countdown or
+  auto-closing dialog.
 - No new telemetry, SDK collection, permissions, cloud sync, or recurring cost
   without explicit approval and a documented privacy/product decision. Existing
   Firebase dependencies do not establish either collection or absence of it.
 - Do not put family photos, EXIF, diagnoses, secrets, or raw personal paths in
   logs, fixtures, commits, CI artifacts, or external AI/tool requests.
+
+## Design system
+
+`DESIGN.md` ([open format](https://github.com/google-labs-code/design.md)) is the
+design contract; its YAML tokens are normative and `lib/design_system.dart`
+implements them through `gm…` constants and `gmBuildTheme`.
+
+- Use stock Material widgets with `Theme.of(context)` roles and `gm…` tokens. Do
+  not hardcode `Color(0x…)`, `Colors.*`, `fontSize:` or radius literals in
+  screens; change a token in `DESIGN.md` and `lib/design_system.dart` together.
+- Text is never below 16 at 100% scale, never ALL CAPS and never clamped.
+  Buttons are ≥56 high, every control ≥48×48, picture tiles ≥64 and as large as
+  the screen allows. Bright gold (`accent`/`gmGold600`) is never text or the only outline.
+- Color is never the only signal: pair it with a border, icon or word. Difficulty
+  is never colored like a status. One filled button per screen; keep "Done for
+  now" or Back visible. Follow the `DESIGN.md` voice rules: plain adult language,
+  no brain, score or clinical vocabulary, no emoji praise.
+- Validate with `npx @google/design.md lint DESIGN.md` (0 errors, 0 warnings) and
+  `flutter test test/design_system_test.dart` (token drift, WCAG contrast, text
+  floor, tap targets, 200% text).
 
 ## Working loop
 
@@ -66,7 +91,9 @@ instead of silently treating any one of these as proof of the others.
    relevant workboard item. Preserve other contributors' edits.
 2. State the outcome, acceptance checks, and smallest complete change. For a bug,
    reproduce it and add a regression test where feasible before changing logic.
-3. Reuse existing patterns and dependencies. Finish one coherent slice; avoid
+3. Reuse existing patterns and dependencies. Check `mounted` after async work;
+   preserve accessibility actions and hidden-tile privacy; support text scaling,
+   scrolling, rotation and iPad. Finish one coherent slice; avoid
    unrelated rewrites. Consult official APIs for the pinned SDK, not memory.
 4. Run applicable checks below, inspect the actual UI when changed, and review
    the diff against the three review rules. Fix causes rather than hiding errors.
