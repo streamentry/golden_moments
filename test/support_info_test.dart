@@ -1,3 +1,4 @@
+import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/foundation.dart';
@@ -12,6 +13,27 @@ void main() {
       multiLine: true,
     ).firstMatch(pubspec)!.group(1);
     expect(appVersion, version);
+  });
+
+  test('supportUrl is the support_url in the canonical store metadata', () {
+    final metadata = jsonDecode(
+      File('metadata/app-store.en-US.json').readAsStringSync(),
+    ) as Map<String, dynamic>;
+    expect(supportUrl, metadata['support_url']);
+    expect(Uri.parse(supportUrl).scheme, 'https');
+  });
+
+  test('terms and privacy pages live on the same declared site', () {
+    final metadata = jsonDecode(
+      File('metadata/app-store.en-US.json').readAsStringSync(),
+    ) as Map<String, dynamic>;
+    final site = (metadata['support_url'] as String).replaceFirst(
+      RegExp(r'help/$'),
+      '',
+    );
+    expect(termsUrl, metadata['terms_url']);
+    expect(privacyPolicyUrl, startsWith(site));
+    expect(supportEmail, matches(RegExp(r'^[^@\s]+@[^@\s]+\.[a-z]+$')));
   });
 
   group('diagnostic summary', () {
