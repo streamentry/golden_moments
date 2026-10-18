@@ -130,6 +130,16 @@
           "test/features/gentle_activities/gentle_ui_test.dart"
         ]
       },
+      "GM-004": {
+        "status": "implemented_unverified",
+        "scope": "Matching screen only: the unfinished board (picture ids and tile positions, no score/time/path) saves after each tap and clears on finish or a confirmed restart; reopening offers Carry on or Start fresh, never resumes silently; missing pictures, corrupt or other-version records start fresh without touching photos or settings. Starter and family boards are kept apart. Real process-kill, backgrounding and device checks pending; lifecycle-resume of a backgrounded (not killed) page relies on Flutter keeping page state.",
+        "evidence": [
+          "lib/features/gentle_activities/data/gentle_session.dart",
+          "lib/features/gentle_activities/models/gentle_board.dart",
+          "test/features/gentle_activities/gentle_session_test.dart",
+          "test/features/gentle_activities/gentle_resume_test.dart"
+        ]
+      },
       "GM-005": {
         "status": "partial",
         "scope": "How-this-works help opens on request from the matching screen without resetting play. Error-state review and screen-reader reading-order checks pending.",
@@ -140,7 +150,7 @@
       },
       "GM-012": {
         "status": "partial",
-        "scope": "Matching screen reflows at 200% text on 390x844 and 320x568 with no overflow. Other screens and device checks pending.",
+        "scope": "Matching screen reflows at 200% text on 390x844 and 320x568: the board comes first (instruction moves below it above 150% text), exit buttons stack, dialogs scroll. Other screens and device checks pending.",
         "evidence": [
           "lib/features/gentle_activities/presentation/gentle_game_page.dart",
           "test/features/gentle_activities/gentle_ui_test.dart"

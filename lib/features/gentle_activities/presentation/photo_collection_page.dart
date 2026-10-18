@@ -200,7 +200,8 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
         ? null
         : () => Navigator.of(context).push(
             MaterialPageRoute<void>(
-              builder: (_) => GentleGamePage(pictures: pictures),
+              builder: (_) =>
+                  GentleGamePage(pictures: pictures, sessionKey: 'family'),
             ),
           );
     return Scaffold(

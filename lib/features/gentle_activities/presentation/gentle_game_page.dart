@@ -4,6 +4,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/data/gentle_preferences.dart';
+import 'package:golden_moments/features/gentle_activities/data/gentle_session.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/models/gentle_board.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
@@ -15,10 +16,16 @@ class GentleGamePage extends StatefulWidget {
   const new({
     required this.pictures,
     this.preferencesStore = const GentlePreferencesStore(),
+    this.sessionStore = const GentleSessionStore(),
+    this.sessionKey = 'starter',
     super.key,
   });
   final List<ActivityPicture> pictures;
   final GentlePreferencesStore preferencesStore;
+  final GentleSessionStore sessionStore;
+
+  /// Separates saved boards by picture source (starter vs family photos).
+  final String sessionKey;
 
   @override
   State<GentleGamePage> createState() => _GentleGamePageState();
@@ -43,7 +50,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
   void initState() {
     super.initState();
     _start();
-    unawaited(_loadPreferences());
+    unawaited(_loadSaved());
   }
 
   @override
@@ -54,15 +61,89 @@ class _GentleGamePageState extends State<GentleGamePage> {
 
   /// The board is playable immediately with defaults; saved comfort choices
   /// apply only while the board is still untouched.
-  Future<void> _loadPreferences() async {
+  Future<void> _loadSaved() async {
     final saved = await widget.preferencesStore.load();
-    if (!mounted || saved == _prefs) return;
+    if (!mounted) return;
+    if (saved != _prefs && _untouched) {
+      setState(() {
+        _prefs = saved;
+        _start();
+      });
+    }
+    await _offerResume();
+  }
+
+  bool get _untouched {
     final board = _board;
-    if (board != null && (board.hasProgress || board.complete)) return;
-    setState(() {
-      _prefs = saved;
-      _start();
-    });
+    return board == null || !(board.hasProgress || board.complete);
+  }
+
+  /// Resuming is always a visible choice: a saved board is offered once, on
+  /// opening, and never replaces a board the person has already started.
+  Future<void> _offerResume() async {
+    final session = await widget.sessionStore.load(widget.sessionKey);
+    if (session == null || !mounted || !_untouched) return;
+    final restored = session.toBoard(
+      availablePictureIds: {for (final p in widget.pictures) p.id},
+    );
+    if (restored == null) {
+      // Deleted photos or an unusable record: start fresh, change nothing else.
+      await widget.sessionStore.clear(widget.sessionKey);
+      return;
+    }
+    final resume = await showDialog<bool>(
+      context: context,
+      barrierDismissible: false,
+      builder: (context) => AlertDialog(
+        scrollable: true,
+        title: const Text('Pick up where you left off?'),
+        content: const Text(
+          'You have a board in progress. You can carry on with it or start '
+          'a new one.',
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context, false),
+            child: const Text('Start fresh'),
+          ),
+          FilledButton(
+            onPressed: () => Navigator.pop(context, true),
+            child: const Text('Carry on'),
+          ),
+        ],
+      ),
+    );
+    if (!mounted) return;
+    if (resume ?? false) {
+      if (_untouched) {
+        _settleInvitation();
+        setState(() => _board = restored);
+      }
+    } else {
+      await widget.sessionStore.clear(widget.sessionKey);
+    }
+  }
+
+  /// Saves the unfinished board; a finished or empty board leaves nothing to
+  /// resume. Never awaited by play, and failures are harmless.
+  void _persist() {
+    final board = _board;
+    if (board == null || board.complete || !board.hasProgress) {
+      unawaited(widget.sessionStore.clear(widget.sessionKey));
+    } else {
+      unawaited(
+        widget.sessionStore.save(
+          widget.sessionKey,
+          GentleSession.fromBoard(board),
+        ),
+      );
+    }
+  }
+
+  /// A deliberate new board forgets the saved one.
+  void _restart() {
+    unawaited(widget.sessionStore.clear(widget.sessionKey));
+    setState(_start);
   }
 
   void _tap(int index) {
@@ -70,6 +151,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
     if (board == null) return;
     final wasComplete = board.complete;
     setState(() => board.tap(index));
+    _persist();
     if (!wasComplete && board.complete) unawaited(_recordCompletion());
   }
 
@@ -120,6 +202,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
     final ok = await showDialog<bool>(
       context: context,
       builder: (context) => AlertDialog(
+        scrollable: true,
         title: Text(question),
         content: const Text(
           'The pictures you have found on this board will be cleared.',
@@ -141,7 +224,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
 
   Future<void> _startAgain() async {
     if (!await _confirmDiscard('Start again?', 'Start again')) return;
-    if (mounted) setState(_start);
+    if (mounted) _restart();
   }
 
   /// Returns the preferences in effect afterwards and whether they were saved.
@@ -154,6 +237,9 @@ class _GentleGamePageState extends State<GentleGamePage> {
     }
     if (!mounted) return (prefs: _prefs, saved: true);
     final pairsChanged = next.pairs != _prefs.pairs;
+    if (pairsChanged) {
+      unawaited(widget.sessionStore.clear(widget.sessionKey));
+    }
     setState(() {
       _prefs = next;
       if (pairsChanged) _start();
@@ -171,6 +257,9 @@ class _GentleGamePageState extends State<GentleGamePage> {
     }
     await widget.preferencesStore.reset();
     if (!mounted) return _prefs;
+    if (pairsChanged) {
+      unawaited(widget.sessionStore.clear(widget.sessionKey));
+    }
     setState(() {
       _prefs = defaults;
       if (pairsChanged) _start();
@@ -270,8 +359,11 @@ class _GentleGamePageState extends State<GentleGamePage> {
                   ),
                   child: LayoutBuilder(
                     builder: (context, constraints) {
+                      // At very large text the board comes first and the
+                      // instruction moves into the status line below it.
+                      final instructionBelow = scale > 1.5;
                       final instruction = Text(
-                        'Tap two pictures that match. Take your time.',
+                        'Tap two pictures that match.',
                         style: theme.textTheme.bodyLarge,
                       );
                       final status = Semantics(
@@ -282,6 +374,9 @@ class _GentleGamePageState extends State<GentleGamePage> {
                                     'Play again or take a break.'
                               : board.waitingForNextTurn
                               ? 'Take your time. Tap a picture to continue.'
+                              : instructionBelow
+                              ? 'Tap two pictures that match. '
+                                    'There is no time limit.'
                               : 'There is no time limit.',
                           style: theme.textTheme.bodyLarge,
                         ),
@@ -300,8 +395,10 @@ class _GentleGamePageState extends State<GentleGamePage> {
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
-                              instruction,
-                              const SizedBox(height: gmSpaceMd),
+                              if (!instructionBelow) ...[
+                                instruction,
+                                const SizedBox(height: gmSpaceMd),
+                              ],
                               _grid(board, width, constraints.maxHeight * 0.8),
                               const SizedBox(height: gmSpaceMd),
                               status,
@@ -314,8 +411,10 @@ class _GentleGamePageState extends State<GentleGamePage> {
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
-                            instruction,
-                            const SizedBox(height: gmSpaceMd),
+                            if (!instructionBelow) ...[
+                              instruction,
+                              const SizedBox(height: gmSpaceMd),
+                            ],
                             Expanded(
                               child: LayoutBuilder(
                                 builder: (context, box) => Center(
@@ -368,33 +467,45 @@ class _GentleGamePageState extends State<GentleGamePage> {
                           ),
                           const SizedBox(height: gmSpaceSm),
                         ],
-                        Wrap(
-                          spacing: gmSpaceMd,
-                          runSpacing: gmSpaceSm,
-                          alignment: WrapAlignment.center,
-                          children: [
-                            OutlinedButton(
-                              onPressed: () => Navigator.of(context).pop(),
-                              child: const Text('Done for now'),
-                            ),
-                            if (board.complete)
-                              FilledButton(
-                                onPressed: () => setState(_start),
-                                child: const Text('Play again'),
-                              )
-                            else
-                              OutlinedButton(
-                                onPressed: _startAgain,
-                                child: const Text('Start again'),
-                              ),
-                          ],
-                        ),
+                        _exitButtons(board, stacked: scale > 1.3),
                       ],
                     ),
                   ),
                 ),
               ),
             ),
+    );
+  }
+
+  /// Side by side normally; stacked full width at large text so labels never
+  /// squeeze into a few letters per line or push the board off screen.
+  Widget _exitButtons(GentleBoard board, {required bool stacked}) {
+    final done = OutlinedButton(
+      onPressed: () => Navigator.of(context).pop(),
+      child: const Text('Done for now'),
+    );
+    final again = board.complete
+        ? FilledButton(onPressed: _restart, child: const Text('Play again'))
+        : OutlinedButton(
+            onPressed: _startAgain,
+            child: const Text('Start again'),
+          );
+    if (stacked) {
+      return Column(
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: [
+          done,
+          const SizedBox(height: gmSpaceSm),
+          again,
+        ],
+      );
+    }
+    return Row(
+      children: [
+        Expanded(child: done),
+        const SizedBox(width: gmSpaceMd),
+        Expanded(child: again),
+      ],
     );
   }
 
@@ -523,6 +634,7 @@ class _ComfortSheetState extends State<_ComfortSheet> {
     final ok = await showDialog<bool>(
       context: context,
       builder: (context) => AlertDialog(
+        scrollable: true,
         title: const Text('Reset comfort settings?'),
         content: const Text(
           'This only returns the tile count and picture view to their '
