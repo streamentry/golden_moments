@@ -10,7 +10,7 @@ JUST LOOK TOGETHER
 View a picture at a time. Optional conversation prompts invite a conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.
 
 OFFLINE WHERE IT MATTERS
-Starter illustrations are available immediately. Imported photo copies work offline after import. Selecting originals stored only in iCloud may require an internet connection. The optional picture-pack library requires internet for new downloads.
+Starter illustrations are available immediately. Imported photo copies work offline after import. Selecting originals stored only in iCloud may require an internet connection. All eight picture packs are included with the app, with no separate image downloads.
 
 NO ACCOUNT OR PHOTO-SYNC SERVER
 Family-photo copies stay in the app on this device. You can remove the copies without deleting originals. Device backups may include app data. This version does not sync photos between relatives.

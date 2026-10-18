@@ -44,3 +44,9 @@ Execution status remains here and in release evidence. The feature catalog is a 
 Photo-deck exchange, family/iCloud sync, multiple albums, recordings and payments. Optional local reminders also require a separately approved permission/product decision. Documented future acceptance criteria do not authorize implementation. No infrastructure expansion before observed repeat use. No diagnosis, cognitive scoring or treatment functionality.
 
 Stop publication for destructive imports, offline-start failures, unexpected sensitive-data transmission, misleading medical expectations, unresolved content rights, or screenshots of unimplemented behavior. Weak keyword demand is a distribution signal, not a reason to add unrelated diseases.
+
+## October 18 store publication continuation
+
+Pulled latest main `de84c46`. Corrected ASO offline copy for all eight bundled packs, added a Google Play US-English draft and export validation, and aligned website/help/privacy/terms URLs with `streamentry.github.io/golden-moments-web`. The selected name remains `Dementia Games: Golden Moments` and subtitle `Alzheimer's Photo Activities`.
+
+Strict analysis and all 109 Flutter tests passed on the latest native source; metadata/Python checks pass. Android upload-key reset remains pending at store readback. The latest runtime source archived successfully. Removed the unused Flutter launch-image placeholders and aligned the launch background with DESIGN.md; a final archive of that change is being validated. The prior 2aecea2 IPA is not the current candidate. Remaining native/device/privacy/caregiver/screenshot gates are not marked passed by these checks. Store changes must remain drafts until those gaps and matching screenshots are resolved.

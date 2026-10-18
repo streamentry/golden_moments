@@ -6,16 +6,101 @@
   "subtitle": "Alzheimer's Photo Activities",
   "keywords": "memory,senior,matching,caregiver,reminiscence,family,offline,relaxing,large,tiles,nostalgia",
   "promotional_text": "Enjoy gentle photo games together. Start with four large tiles, add selected family photos, and play at your own pace. No account needed.",
-  "description": "Find a simple activity to enjoy together. Golden Moments offers gentle picture matching and shared photo viewing for families and caregivers, including those spending time with a person living with dementia or Alzheimer's disease.\n\nSTART SMALL\nBegin with four large tiles and familiar starter illustrations. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score, or penalty. Choose 4, 6, 8, or 12 tiles as available.\n\nMAKE IT PERSONAL\nSelect family photos using your device's photo picker. Golden Moments saves smaller copies for local activities; it does not scan your library or change your original photos. Keep up to 24 photos in one collection.\n\nJUST LOOK TOGETHER\nView a picture at a time. Optional conversation prompts invite a conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.\n\nOFFLINE WHERE IT MATTERS\nStarter illustrations are available immediately. Imported photo copies work offline after import. Selecting originals stored only in iCloud may require an internet connection. The optional picture-pack library requires internet for new downloads.\n\nNO ACCOUNT OR PHOTO-SYNC SERVER\nFamily-photo copies stay in the app on this device. You can remove the copies without deleting originals. Device backups may include app data. This version does not sync photos between relatives.\n\nGolden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent, or measure dementia or Alzheimer's disease. Activities are not suitable for everyone; follow the person's interests and comfort, and stop or change the activity when needed.",
-  "release_notes": "A new, gentle starting point for shared activities:\n- Start with four large tiles and an optional always-visible mode.\n- Import selected family photos for local matching and shared viewing.\n- Use optional conversation prompts without name quizzes or scores.\n- Open starter activities without downloading content first.\n- Access the existing picture-pack library separately when needed.",
-  "requires_features": ["gentle_matching", "family_photos", "photo_viewer", "offline_starter", "accessible_layout"],
+  "description": "Find a simple activity to enjoy together. Golden Moments offers gentle picture matching and shared photo viewing for families and caregivers, including those spending time with a person living with dementia or Alzheimer's disease.\n\nSTART SMALL\nBegin with four large tiles and familiar starter illustrations. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score, or penalty. Choose 4, 6, 8, or 12 tiles as available.\n\nMAKE IT PERSONAL\nSelect family photos using your device's photo picker. Golden Moments saves smaller copies for local activities; it does not scan your library or change your original photos. Keep up to 24 photos in one collection.\n\nJUST LOOK TOGETHER\nView a picture at a time. Optional conversation prompts invite a conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.\n\nOFFLINE WHERE IT MATTERS\nStarter illustrations are available immediately. Imported photo copies work offline after import. Selecting originals stored only in iCloud may require an internet connection. All eight picture packs are included with the app, with no separate image downloads.\n\nNO ACCOUNT OR PHOTO-SYNC SERVER\nFamily-photo copies stay in the app on this device. You can remove the copies without deleting originals. Device backups may include app data. This version does not sync photos between relatives.\n\nGolden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent, or measure dementia or Alzheimer's disease. Activities are not suitable for everyone; follow the person's interests and comfort, and stop or change the activity when needed.",
+  "release_notes": "A new, gentle starting point for shared activities:\n- Start with four large tiles and an optional always-visible mode.\n- Import selected family photos for local matching and shared viewing.\n- Use optional conversation prompts without name quizzes or scores.\n- Open starter activities without downloading content first.\n- Explore all eight included picture packs without extra downloads.\n- Adjust gentle-play choices and keep them for next time.",
+  "requires_features": [
+    "gentle_matching",
+    "family_photos",
+    "photo_viewer",
+    "offline_starter",
+    "accessible_layout"
+  ],
   "category_recommendation": "Games / Puzzle; verify actual configuration in App Store Connect.",
   "screenshots": [
-    {"order": 1, "headline": "Simple Dementia Activities", "supporting_text": "Gentle photo games to enjoy together.", "capture": "Real four-tile gentle activity. No mock UI or clinical framing.", "requires": ["gentle_matching"], "files": {"iphone": null, "ipad": null}},
-    {"order": 2, "headline": "Play With Your Family Photos", "supporting_text": "Choose photos already on your device.", "capture": "Real imported-photo game with licensed or consented demonstration photos.", "requires": ["family_photos", "gentle_matching"], "files": {"iphone": null, "ipad": null}},
-    {"order": 3, "headline": "No Timers. No Rush.", "supporting_text": "Enjoy each gentle game at your own pace.", "capture": "Gentle mode without clock or score, not legacy gameplay.", "requires": ["gentle_matching"], "files": {"iphone": null, "ipad": null}},
-    {"order": 4, "headline": "Big Tiles. Easy Taps.", "supporting_text": "A clear layout for simple play.", "capture": "Real readable four-tile board and controls.", "requires": ["accessible_layout", "gentle_matching"], "files": {"iphone": null, "ipad": null}},
-    {"order": 5, "headline": "Choose Your Comfort Level", "supporting_text": "Adjust the number of tiles.", "capture": "Actual supported 4/6/8/12 tile choices.", "requires": ["gentle_matching"], "files": {"iphone": null, "ipad": null}},
-    {"order": 6, "headline": "Ready Without Wi-Fi", "supporting_text": "Starter games and imported photos work offline.", "capture": "Airplane-mode starter/imported activity. Do not imply offline remote downloads.", "requires": ["offline_starter", "family_photos"], "files": {"iphone": null, "ipad": null}}
-  ]
+    {
+      "order": 1,
+      "headline": "Simple Dementia Activities",
+      "supporting_text": "Gentle photo games to enjoy together.",
+      "capture": "Real four-tile gentle activity. No mock UI or clinical framing.",
+      "requires": [
+        "gentle_matching"
+      ],
+      "files": {
+        "iphone": null,
+        "ipad": null
+      }
+    },
+    {
+      "order": 2,
+      "headline": "Play With Your Family Photos",
+      "supporting_text": "Choose photos already on your device.",
+      "capture": "Real imported-photo game with licensed or consented demonstration photos.",
+      "requires": [
+        "family_photos",
+        "gentle_matching"
+      ],
+      "files": {
+        "iphone": null,
+        "ipad": null
+      }
+    },
+    {
+      "order": 3,
+      "headline": "No Timers. No Rush.",
+      "supporting_text": "Enjoy each gentle game at your own pace.",
+      "capture": "Gentle mode without clock or score, not legacy gameplay.",
+      "requires": [
+        "gentle_matching"
+      ],
+      "files": {
+        "iphone": null,
+        "ipad": null
+      }
+    },
+    {
+      "order": 4,
+      "headline": "Big Tiles. Easy Taps.",
+      "supporting_text": "A clear layout for simple play.",
+      "capture": "Real readable four-tile board and controls.",
+      "requires": [
+        "accessible_layout",
+        "gentle_matching"
+      ],
+      "files": {
+        "iphone": null,
+        "ipad": null
+      }
+    },
+    {
+      "order": 5,
+      "headline": "Choose Your Comfort Level",
+      "supporting_text": "Adjust the number of tiles.",
+      "capture": "Actual supported 4/6/8/12 tile choices.",
+      "requires": [
+        "gentle_matching"
+      ],
+      "files": {
+        "iphone": null,
+        "ipad": null
+      }
+    },
+    {
+      "order": 6,
+      "headline": "Ready Without Wi-Fi",
+      "supporting_text": "Starter games and imported photos work offline.",
+      "capture": "Airplane-mode starter/imported activity. Do not imply offline remote downloads.",
+      "requires": [
+        "offline_starter",
+        "family_photos"
+      ],
+      "files": {
+        "iphone": null,
+        "ipad": null
+      }
+    }
+  ],
+  "marketing_url": "https://streamentry.github.io/golden-moments-web/",
+  "support_url": "https://streamentry.github.io/golden-moments-web/help/",
+  "privacy_policy_url": "https://streamentry.github.io/golden-moments-web/privacy/",
+  "terms_url": "https://streamentry.github.io/golden-moments-web/terms/"
 }
