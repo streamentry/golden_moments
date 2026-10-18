@@ -14,31 +14,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 LIB = ROOT / 'lib'
 
-# The legacy remote-catalog downloader. Since the bundled catalog it has no
-# route from any screen; keep that true or decide deliberately.
-ISLAND_PREFIXES = (
-    'lib/data/services/download_manager',
-    'lib/features/download_manager/',
-)
-ISLAND_FILES = {
-    'lib/data/services/http_client_service.dart',
-    'lib/data/services/long_term_image_cache.dart',
-    'lib/data/services/connectivity_service.dart',
-    'lib/shared/widgets/offline_indicator.dart',
-    'lib/shared/widgets/cached_image_widget.dart',
-}
-ISLAND_NAMES = (
-    'DownloadManagerPage', 'DownloadedPacksCubit', 'ConnectivityService',
-    'OfflineIndicator', 'CachedImageWidget', 'LongTermImageCache',
-    'HttpClientService', 'ImageDownloader',
-)
 NETWORK_IMPORT = re.compile(
     r"import\s+'package:(http|cached_network_image|dio|firebase_[a-z_]+)/")
 NETWORK_IO = re.compile(
     r'InternetAddress\.lookup|HttpClient\(|Socket\.connect|WebSocket\.connect|RawSocket')
 EXPECTED_URLS = {
-    # Legacy catalog location; unreachable from screens (see island test).
-    'https://raw.githubusercontent.com/user/golden-moments-packs/main/',
     # Explicit user-initiated share text, opened through the OS share sheet.
     'https://play.google.com/store/apps/details',
 }
@@ -51,68 +31,41 @@ def dart_files():
             yield rel, path.read_text(encoding='utf-8')
 
 
-def in_island(rel):
-    return rel in ISLAND_FILES or rel.startswith(ISLAND_PREFIXES)
-
-
 def code_lines(text):
     return [line for line in text.splitlines()
             if not line.lstrip().startswith('//')]
 
 
 class NetworkBoundaryTests(unittest.TestCase):
-    def test_network_packages_are_imported_only_by_the_legacy_island(self):
-        importers = {rel for rel, text in dart_files() if NETWORK_IMPORT.search(text)}
-        self.assertEqual(
-            importers,
-            {
-                'lib/data/services/http_client_service.dart',
-                'lib/data/services/long_term_image_cache.dart',
-                'lib/features/download_manager/cubit/downloaded_packs_cubit.dart',
-            },
-        )
-        self.assertTrue(all(in_island(rel) for rel in importers))
+    def test_no_dart_code_imports_a_network_or_firebase_package(self):
+        importers = {rel for rel, text in dart_files()
+                     if NETWORK_IMPORT.search(text)}
+        self.assertEqual(importers, set())
 
-    def test_raw_network_io_is_confined_to_the_legacy_island(self):
+    def test_no_dart_code_opens_a_connection(self):
         users = {rel for rel, text in dart_files()
                  if NETWORK_IO.search('\n'.join(code_lines(text)))}
+        self.assertEqual(users, set())
+
+    def test_the_remote_pack_downloader_stays_removed(self):
+        names = [p.relative_to(ROOT).as_posix() for p in LIB.rglob('*.dart')]
+        banned = ('download_manager', 'http_client_service',
+                  'long_term_image_cache', 'connectivity_service',
+                  'json_cache_service')
         self.assertEqual(
-            users,
-            {
-                'lib/data/services/connectivity_service.dart',
-                'lib/data/services/http_client_service.dart',
-            },
-        )
-        self.assertTrue(all(in_island(rel) for rel in users))
-
-    def test_no_screen_references_the_legacy_network_classes(self):
-        pattern = re.compile(r'\b(' + '|'.join(ISLAND_NAMES) + r')\b')
-        leaks = {
-            rel: sorted(set(pattern.findall('\n'.join(code_lines(text)))))
-            for rel, text in dart_files()
-            if not in_island(rel) and pattern.search('\n'.join(code_lines(text)))
-        }
-        self.assertEqual(leaks, {})
-
-    def test_only_the_navigation_cubit_touches_the_download_manager_singleton(self):
-        users = {rel for rel, text in dart_files()
-                 if not in_island(rel)
-                 and re.search(r'\bDownloadManager\b', '\n'.join(code_lines(text)))}
-        self.assertEqual(users, {'lib/app/cubit/navigation_cubit.dart'})
-
-    def test_downloads_are_only_started_inside_the_legacy_island(self):
-        starters = {rel for rel, text in dart_files()
-                    if re.search(r'\.downloadPack\(|downloadInitialPacks\(',
-                                 '\n'.join(code_lines(text)))
-                    and not in_island(rel)}
-        self.assertEqual(starters, set())
+            [n for n in names if any(b in n for b in banned)], [])
+        for rel, text in dart_files():
+            with self.subTest(file=rel):
+                body = '\n'.join(code_lines(text))
+                self.assertNotIn('downloadPack(', body)
+                self.assertNotIn('raw.githubusercontent.com', body)
 
     def test_firebase_is_never_initialized_by_the_app(self):
         for rel, text in dart_files():
             with self.subTest(file=rel):
                 self.assertNotIn('initializeApp(', '\n'.join(code_lines(text)))
 
-    def test_local_photo_features_and_startup_have_no_network_code(self):
+    def test_local_photo_features_and_startup_have_no_firebase_references(self):
         guarded = [
             rel for rel, _ in dart_files()
             if rel.startswith('lib/features/gentle_activities/')
@@ -123,12 +76,9 @@ class NetworkBoundaryTests(unittest.TestCase):
         texts = dict(dart_files())
         for rel in guarded:
             with self.subTest(file=rel):
-                body = '\n'.join(code_lines(texts[rel]))
-                self.assertIsNone(NETWORK_IMPORT.search(body))
-                self.assertIsNone(NETWORK_IO.search(body))
-                self.assertNotIn('Firebase', body)
+                self.assertNotIn('Firebase', '\n'.join(code_lines(texts[rel])))
 
-    def test_hard_coded_urls_are_the_two_known_ones(self):
+    def test_hard_coded_urls_are_the_one_known_share_link(self):
         found = set()
         for _, text in dart_files():
             for line in code_lines(text):

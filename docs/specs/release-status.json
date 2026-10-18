@@ -275,7 +275,7 @@
       },
       "GM-023": {
         "status": "partial",
-        "scope": "All 121 bundled assets resolve locally and the hosted browser flow passes with external requests blocked (existing bundled_catalog evidence). Native fresh-install and upgrade validation are pending; the unreachable legacy downloader is retained deliberately.",
+        "scope": "All 121 bundled assets resolve locally and the hosted browser flow passes with external requests blocked (existing bundled_catalog evidence). Native fresh-install and upgrade validation are pending; the unreachable remote-pack downloader has been removed (stored files from older installs are untouched).",
         "evidence": [
           "test/bundled_catalog_test.dart",
           "tests/test_bundled_catalog.py",
@@ -319,7 +319,7 @@
       },
       "GM-028": {
         "status": "partial",
-        "scope": "Source-level audit and CI guard only: startup initializes no backend, local photo features contain no network code, collection flags are disabled in both manifests, only the photo-picker permission is declared, and the legacy remote downloader has no static route from any screen. Not established: merged Android manifest, FirebaseInitProvider behavior, runtime traffic on a clean install, iOS privacy manifest/App Privacy answers. The privacy_and_sdk_audit gate remains pending.",
+        "scope": "Source-level audit and CI guard only: startup initializes no backend, local photo features contain no network code, collection flags are disabled in both manifests, only the photo-picker permission is declared, and the dead remote-pack downloader and its HTTP/cache/connectivity code were removed, so no Dart code imports a network or Firebase package or opens a connection (Firebase packages stay linked by decision, collection disabled). Not established: merged Android manifest, FirebaseInitProvider behavior, runtime traffic on a clean install, iOS privacy manifest/App Privacy answers. The privacy_and_sdk_audit gate remains pending.",
         "evidence": [
           "docs/release/network-privacy-audit.md",
           "tests/test_network_boundary.py"
