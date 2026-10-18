@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
@@ -35,6 +37,59 @@ void main() {
     await tester.pumpAndSettle();
     expect(find.text('Gentle photo match'), findsOneWidget);
     expect(tester.takeException(), isNull);
+  });
+
+  for (final scenario in {
+    'small phone': (const Size(320, 568), 1.0),
+    'phone at 200% text': (const Size(390, 844), 2.0),
+    'small phone at 200% text': (const Size(320, 568), 2.0),
+    'landscape phone': (const Size(844, 390), 1.0),
+  }.entries) {
+    testWidgets('fresh install on ${scenario.key}: one Start, one tap to play '
+        '(GM-001)', (tester) async {
+      final (size, textScale) = scenario.value;
+      await _size(tester, size);
+      await tester.pumpWidget(
+        _app(home: const GentleHomePage(), textScale: textScale),
+      );
+      await tester.pumpAndSettle();
+
+      // One dominant action, visible without scrolling or setup questions.
+      expect(find.byType(FilledButton), findsOneWidget);
+      final start = find.widgetWithText(FilledButton, 'Start a gentle game');
+      expect(start.hitTestable(), findsOneWidget);
+      expect(tester.getRect(start).bottom, lessThanOrEqualTo(size.height));
+      expect(find.byType(Dialog), findsNothing);
+      expect(find.byType(BottomSheet), findsNothing);
+
+      await tester.tap(start);
+      await tester.pumpAndSettle();
+      expect(_tiles, findsNWidgets(4));
+      expect(find.bySemanticsLabel(RegExp('Hidden picture')), findsNothing);
+      expect(find.byType(Dialog), findsNothing);
+      expect(find.text('Done for now'), findsOneWidget);
+      expect(tester.takeException(), isNull);
+    });
+  }
+
+  testWidgets('an existing comfort choice is kept, never reset (GM-001)', (
+    tester,
+  ) async {
+    final saved = jsonEncode(
+      const GentlePreferences(pairs: 3, keepVisible: false).toJson(),
+    );
+    SharedPreferences.setMockInitialValues({
+      GentlePreferences.storageKey: saved,
+    });
+    await _size(tester, const Size(480, 1400));
+    await tester.pumpWidget(_app(home: const GentleHomePage()));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Start a gentle game'));
+    await tester.pumpAndSettle();
+    expect(_tiles, findsNWidgets(6));
+    expect(find.bySemanticsLabel(RegExp('Hidden picture')), findsNWidgets(6));
+    final prefs = await SharedPreferences.getInstance();
+    expect(prefs.getString(GentlePreferences.storageKey), saved);
   });
 
   testWidgets('comfort settings set from Home carry into the game (GM-037)', (
