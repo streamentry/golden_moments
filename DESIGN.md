@@ -391,7 +391,7 @@ The 2026 mobile-game playbook, filtered for older adults and shared play:
 - **Sound:** always optional and never the only carrier of information. There are no failure sounds, and the tap sound is soft.
 - **Haptics:** at most a light selection tick on a match, and none on a mismatch.
 - **Ethical retention:** no streaks, daily-reward calendars, energy, lives, loot, countdowns, leaderboards, ads, push-notification nagging or purchase pressure. Return visits must come from a good experience.
-- **Sharing:** a share prompt may appear after a good moment. It is always dismissible ("Not now"), never timed, never blocks play and never says "challenge".
+- **Sharing:** word of mouth from one caregiver to another is the best way families find the app, so make sharing easy and ask rarely. See *Sharing* under Voice & Content.
 - **Next deliberate tap, everywhere:** both the gentle board and the picture-pack game leave a mismatch face up, and a hint's pair visible, until the player taps again. That tap turns them over and starts the next turn. No game state changes on a timer.
 - **Optional prompts** in Look Together are open-ended ("What do you notice in this picture?"). They are never "Who is this?" or "Do you remember…?".
 
@@ -407,6 +407,17 @@ Write plain, warm, adult English at about a US grade-6 reading level. Use short 
 | "Done for now" | "Quit game" / "Give up" |
 | "What do you notice in this picture?" | "Who is this? Do you remember?" |
 | "Copies stay on this device." | "Secure cloud AI sync" |
+
+### Sharing
+
+Make sharing easy to find and rare to be asked about. Share from a warm moment, never from a gate.
+
+- **Always available, never pushed:** a quiet "Share with family" text button sits at the bottom of Home (`ShareWithFamilyButton`).
+- **Suggested rarely, inline:** after a finished game, `ShareInvitation` can appear *inside* the end-of-game message, never as a separate pop-up. It reads "Enjoying these pictures together? Another family might enjoy them too." with one "Share with family" button.
+- **When (`SharePolicy`):** first after the 3rd finished game, then at most once every 30 days. It stops for good after one share or after being passed by twice. Carrying on (Play again, Done for now, another pack) is a complete answer; there is no "Not now" decision to make.
+- **Never:** during play, at launch, by notification, with a countdown, as a condition for continuing ("share to continue"), or in exchange for rewards or unlocks. Don't say "challenge" or "invite friends to compete".
+- **The message** is plain and personal and carries the right store link for the device: Google Play on Android, the App Store on Apple devices once the listing exists, and search guidance until then. No tracking parameters.
+- **Privacy:** the counters live only on this device (`shared_preferences`). Nothing is sent anywhere until the person chooses a share target.
 
 Never use: brain age, score, IQ, train, sharpen, decline, therapy, treatment, prevent, clinically proven, "for patients" or medical symbols. Mentioning dementia or Alzheimer's describes the audience, not an outcome.
 

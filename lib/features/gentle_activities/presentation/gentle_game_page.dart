@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
@@ -5,6 +6,7 @@ import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/models/gentle_board.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
+import 'package:golden_moments/shared/sharing/share_invitation.dart';
 
 class GentleGamePage extends StatefulWidget {
   const GentleGamePage({required this.pictures, super.key});
@@ -18,6 +20,8 @@ class _GentleGamePageState extends State<GentleGamePage> {
   GentleBoard? _board;
   int _pairs = 2;
   bool _keepVisible = true;
+  bool _invite = false;
+  bool _shared = false;
 
   @override
   void initState() {
@@ -25,7 +29,49 @@ class _GentleGamePageState extends State<GentleGamePage> {
     _start();
   }
 
+  @override
+  void dispose() {
+    _settleInvitation();
+    super.dispose();
+  }
+
+  void _tap(int index) {
+    final board = _board;
+    if (board == null) return;
+    final wasComplete = board.complete;
+    setState(() => board.tap(index));
+    if (!wasComplete && board.complete) unawaited(_recordCompletion());
+  }
+
+  Future<void> _recordCompletion() async {
+    bool invite;
+    try {
+      invite = await (await ShareInvitationStore.load()).recordCompletedGame();
+    } on Object {
+      invite = false;
+    }
+    if (mounted && invite) setState(() => _invite = true);
+  }
+
+  Future<void> _share() async {
+    if (await shareAndRemember() && mounted) setState(() => _shared = true);
+  }
+
+  /// Carrying on without sharing is a complete answer, never a nag.
+  void _settleInvitation() {
+    if (_invite && !_shared) {
+      unawaited(
+        ShareInvitationStore.load()
+            .then((store) => store.markDeclined())
+            .catchError((Object _) {}),
+      );
+    }
+    _invite = false;
+    _shared = false;
+  }
+
   void _start() {
+    _settleInvitation();
     final choices = List<ActivityPicture>.of(widget.pictures)
       ..shuffle(Random());
     if (choices.length >= _pairs) {
@@ -115,11 +161,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
                               return Semantics(
                                 button: true,
                                 enabled: !matched,
-                                onTap: matched
-                                    ? null
-                                    : () => setState(() {
-                                        board.tap(index);
-                                      }),
+                                onTap: matched ? null : () => _tap(index),
                                 label: visible
                                     ? '${picture.label}, tile ${index + 1}'
                                     : 'Hidden picture, tile ${index + 1}',
@@ -137,11 +179,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
                                     ),
                                     clipBehavior: Clip.antiAlias,
                                     child: InkWell(
-                                      onTap: matched
-                                          ? null
-                                          : () => setState(() {
-                                              board.tap(index);
-                                            }),
+                                      onTap: matched ? null : () => _tap(index),
                                       child: Stack(
                                         fit: StackFit.expand,
                                         children: [
@@ -187,6 +225,17 @@ class _GentleGamePageState extends State<GentleGamePage> {
                           style: theme.textTheme.bodyLarge,
                         ),
                       ),
+                      if (board.complete && _invite && !_shared) ...[
+                        const SizedBox(height: gmSpaceMd),
+                        ShareInvitation(onShare: _share),
+                      ],
+                      if (board.complete && _shared) ...[
+                        const SizedBox(height: gmSpaceMd),
+                        Text(
+                          'Thank you for sharing.',
+                          style: theme.textTheme.bodyMedium,
+                        ),
+                      ],
                       const SizedBox(height: gmSpaceMd),
                       FilledButton(
                         onPressed: () => setState(_start),
