@@ -1,0 +1,160 @@
+{
+  "ipad": {
+    "display_type": "APP_IPAD_PRO_3GEN_129",
+    "screenshot_set": "71eb7933-a273-42da-a8f0-1585df049518",
+    "images": [
+      {
+        "order": 1,
+        "id": "72400019-24a5-85cb-803e-c4614c22237f",
+        "file": "final/ipad/01.jpg",
+        "size": [
+          2064,
+          2752
+        ],
+        "md5": "2e5bdaae705ada0711bebc00cac6484f",
+        "sha256": "769b8017452d2dda6d3e14887b8bbd71c4e89cf9c90b4b3fb79df963bccfcdee",
+        "state": "COMPLETE"
+      },
+      {
+        "order": 2,
+        "id": "63800019-24a5-85cb-8003-8540102b2b4e",
+        "file": "final/ipad/02.jpg",
+        "size": [
+          2064,
+          2752
+        ],
+        "md5": "bc56104e231f4b160903a5026a3ac1cc",
+        "sha256": "f36639881c0e873598171d2bb0dff4a31009d4c3ca438b77390a600ef473d5fd",
+        "state": "COMPLETE"
+      },
+      {
+        "order": 3,
+        "id": "1d800019-24a5-85cb-8000-f77d5aada370",
+        "file": "final/ipad/03.jpg",
+        "size": [
+          2064,
+          2752
+        ],
+        "md5": "77206014137e5ea276ffc246076be84f",
+        "sha256": "38236f8af9d0faedb653ca75510d18d25b7cf6591b56de40ff75388d3244ee3b",
+        "state": "COMPLETE"
+      },
+      {
+        "order": 4,
+        "id": "fa400019-24a5-85cb-803e-5a1a90c22224",
+        "file": "final/ipad/04.jpg",
+        "size": [
+          2064,
+          2752
+        ],
+        "md5": "028711c9a197f2acbd00705b60aad2d0",
+        "sha256": "1baea46db84f800285df55973466384216a5d4c7a18d47f000ebb10ffc5df799",
+        "state": "COMPLETE"
+      },
+      {
+        "order": 5,
+        "id": "b6800019-24a5-85cb-8019-a8e7ed43e092",
+        "file": "final/ipad/05.jpg",
+        "size": [
+          2064,
+          2752
+        ],
+        "md5": "ceb94715a88e46e53c239eb060dfee30",
+        "sha256": "cd509bcdc67e066a2fe3e4fbf675c4b795a222d858447234ce20b7e2e7ceca45",
+        "state": "COMPLETE"
+      },
+      {
+        "order": 6,
+        "id": "31c00019-24a5-85cb-8008-50eb5ba4a1d7",
+        "file": "final/ipad/06.jpg",
+        "size": [
+          2064,
+          2752
+        ],
+        "md5": "49b9c35b87c8de9abf4c4ab3c7ab2f5f",
+        "sha256": "3e9061d75c7f23b016ef819a78b9261f212aeb22e30e4d7e4d73b28b05e8a966",
+        "state": "COMPLETE"
+      }
+    ],
+    "ordered_readback_verified": true
+  },
+  "iphone": {
+    "display_type": "APP_IPHONE_67",
+    "screenshot_set": "59521667-7c8b-40e5-86d6-e562ed2ca851",
+    "images": [
+      {
+        "order": 1,
+        "id": "43000019-24a5-85cb-8014-608432170765",
+        "file": "final/iphone/01.jpg",
+        "size": [
+          1320,
+          2868
+        ],
+        "md5": "80a33fc6ca3ed59a1ffc18157c6c4501",
+        "sha256": "a6e880d0e048fa844212be64505f4f3b60208ff5d2abf5eefac53291fed65a92",
+        "state": "COMPLETE"
+      },
+      {
+        "order": 2,
+        "id": "fd400019-24a5-85cb-800a-d8cc6d9ab03a",
+        "file": "final/iphone/02.jpg",
+        "size": [
+          1320,
+          2868
+        ],
+        "md5": "7f790c1446973300c3cd034350b6584c",
+        "sha256": "52d15c7261833aa3f4f723437b68d99107426f31dc30243d3bab3cbee410e27a",
+        "state": "COMPLETE"
+      },
+      {
+        "order": 3,
+        "id": "7e400019-24a5-85cb-8039-1aef11eab9fc",
+        "file": "final/iphone/03.jpg",
+        "size": [
+          1320,
+          2868
+        ],
+        "md5": "fb327dced16078491950fec607be05b7",
+        "sha256": "d60ff6bfec69cf131a0b9cc22dcb06159d3c68c49b37b3064505e4e38584b2ca",
+        "state": "COMPLETE"
+      },
+      {
+        "order": 4,
+        "id": "32400019-24a5-85cb-802d-f945dae33700",
+        "file": "final/iphone/04.jpg",
+        "size": [
+          1320,
+          2868
+        ],
+        "md5": "5521e0090a873bc0f92128f35931bb7e",
+        "sha256": "3d6695b133425b6d735e8a174aa77917c34544cc9e280b8ca39c0b7b6e3c14e0",
+        "state": "COMPLETE"
+      },
+      {
+        "order": 5,
+        "id": "f2c00019-24a5-85cb-8018-60fe71acac98",
+        "file": "final/iphone/05.jpg",
+        "size": [
+          1320,
+          2868
+        ],
+        "md5": "856398456229de68dbc9f351f4517991",
+        "sha256": "3958ca385c1e19705552ae6823f84ecf8ffc9bc19ebc2f0f16e23e6274b92cce",
+        "state": "COMPLETE"
+      },
+      {
+        "order": 6,
+        "id": "2f800019-24a5-85cb-8015-da9cabf85de6",
+        "file": "final/iphone/06.jpg",
+        "size": [
+          1320,
+          2868
+        ],
+        "md5": "c1ca8109f1adacb1186a04c5b86c3cac",
+        "sha256": "dff23584e3682180d748683ac07a10b29ba1635ce91abd8c420c259abcc82b67",
+        "state": "COMPLETE"
+      }
+    ],
+    "ordered_readback_verified": true
+  }
+}

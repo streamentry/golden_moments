@@ -2,6 +2,7 @@ import 'dart:io';
 import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/data/family_photo_store.dart';
@@ -62,12 +63,43 @@ Future<void> _settle(WidgetTester tester) async {
   }
 }
 
-Future<void> _tapText(WidgetTester tester, String text) async {
+/// Taps [text], then waits for the work to finish. Saving photo details
+/// shows no progress bar, so a quiet screen alone does not prove the write
+/// is done; when the outcome is visible, wait for that [until] condition
+/// instead of guessing from time (which fails on a busy machine).
+Future<void> _tapText(
+  WidgetTester tester,
+  String text, {
+  bool Function()? until,
+}) async {
   final finder = find.text(text).hitTestable();
   await tester.ensureVisible(finder.first);
   await tester.tap(finder.first);
+  if (until != null) {
+    for (var i = 0; i < 2000 && !until(); i++) {
+      await tester.runAsync(
+        () => Future<void>.delayed(const Duration(milliseconds: 8)),
+      );
+      await tester.pump(const Duration(milliseconds: 50));
+    }
+    expect(until(), isTrue, reason: 'Gave up waiting after tapping "$text".');
+  }
   await _settle(tester);
 }
+
+/// Pumps, with real time for file I/O, until [until] holds (bounded).
+Future<void> _waitUntil(WidgetTester tester, bool Function() until) async {
+  for (var i = 0; i < 2000 && !until(); i++) {
+    await tester.runAsync(
+      () => Future<void>.delayed(const Duration(milliseconds: 8)),
+    );
+    await tester.pump(const Duration(milliseconds: 50));
+  }
+  expect(until(), isTrue, reason: 'Gave up waiting.');
+}
+
+bool _shows(Finder finder, [int count = 1]) =>
+    finder.evaluate().length == count;
 
 Future<void> _openOptions(WidgetTester tester, int index) async {
   final button = find.textContaining('Photo options').at(index);
@@ -128,8 +160,29 @@ void main() {
       ),
       'Two people on a wooden dock.',
     );
+    // Helper text beside the counter wraps; it is never cut off.
+    for (final helper in [
+      'Shown only when you choose to show captions.',
+      'Read aloud while the picture is showing.',
+    ]) {
+      final paragraph = tester.renderObject<RenderParagraph>(
+        find.descendant(of: find.text(helper), matching: find.byType(RichText)),
+      );
+      expect(paragraph.didExceedMaxLines, isFalse, reason: helper);
+    }
     await _toggle(tester, 'Favorite');
-    await _tapText(tester, 'Save');
+    await tester.tap(find.text('Save').hitTestable().first);
+    await tester.pump(const Duration(milliseconds: 500));
+    // A second edit must not start from stale details while the first save
+    // is still waiting for real file I/O.
+    expect(find.byType(LinearProgressIndicator), findsOneWidget);
+    final options = tester.widgetList<TextButton>(
+      find.widgetWithText(TextButton, 'Photo options'),
+    );
+    expect(options, isNotEmpty);
+    expect(options.every((button) => button.onPressed == null), isTrue);
+    await _waitUntil(tester, () => _shows(find.text('Favorite')));
+    await _settle(tester);
     expect(find.text('Favorite'), findsOneWidget);
     expect(
       find.bySemanticsLabel(RegExp('Lake day. Two people on a wooden dock.')),
@@ -139,19 +192,19 @@ void main() {
     // Hiding is reversible and visible; the copy stays.
     await _openOptions(tester, 1);
     await _toggle(tester, 'Hide from activities');
-    await _tapText(tester, 'Save');
+    await _tapText(tester, 'Save', until: () => _shows(find.text('Hidden')));
     expect(find.text('Hidden'), findsOneWidget);
     expect(find.text('Play with these photos'), findsOneWidget);
     await _openOptions(tester, 2);
     await _toggle(tester, 'Hide from activities');
-    await _tapText(tester, 'Save');
+    await _tapText(tester, 'Save', until: () => _shows(find.text('Hidden'), 2));
     // Only one photo is left to play with: no silent un-hiding.
     expect(find.text('Play with these photos'), findsNothing);
     expect(find.textContaining('Show at least two photos'), findsOneWidget);
     expect(find.text('3 of 24 photos'), findsOneWidget);
     await _openOptions(tester, 2);
     await _toggle(tester, 'Hide from activities');
-    await _tapText(tester, 'Save');
+    await _tapText(tester, 'Save', until: () => _shows(find.text('Hidden')));
     expect(find.text('Hidden'), findsOneWidget);
 
     // A restart keeps photos, captions, favorites and hidden state.
@@ -170,7 +223,15 @@ void main() {
     await _openOptions(tester, 0);
     await _tapText(tester, 'Remove this copy');
     expect(find.text('Remove this photo copy?'), findsOneWidget);
-    await _tapText(tester, 'Continue');
+    // Honest about what deleting cannot reach (GM-027).
+    expect(find.textContaining('earlier device backups'), findsOneWidget);
+    // The destructive button says what it does.
+    expect(find.widgetWithText(FilledButton, 'Remove copy'), findsOneWidget);
+    await _tapText(
+      tester,
+      'Remove copy',
+      until: () => _shows(find.text('2 of 24 photos')),
+    );
     expect(find.text('2 of 24 photos'), findsOneWidget);
     final after = await tester.runAsync(
       () => FamilyPhotoStore(directory).load(),
@@ -193,7 +254,7 @@ void main() {
     await _tapText(tester, 'Choose photos');
     await _openOptions(tester, 1);
     await _toggle(tester, 'Hide from activities');
-    await _tapText(tester, 'Save');
+    await _tapText(tester, 'Save', until: () => _shows(find.text('Hidden')));
 
     await _tapText(tester, 'Play with these photos');
     expect(find.text('Gentle photo match'), findsOneWidget);
@@ -205,6 +266,42 @@ void main() {
     expect(labels.length, 4);
     expect(labels.toSet(), {'Family photo 1', 'Family photo 3'});
     expect(find.text('Done for now'), findsOneWidget);
+  });
+
+  testWidgets('hiding in Look together is the same reversible Hide', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(480, 1400));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    final importer = _FakeImporter([
+      [1, 2, 3],
+    ]);
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    await _tapText(tester, 'Choose photos');
+
+    await _tapText(tester, 'Look at photos together');
+    expect(find.text('Picture 1 of 3'), findsOneWidget);
+    await _tapText(tester, 'Hide this picture');
+    expect(find.text('Picture 1 of 2'), findsOneWidget);
+    expect(find.textContaining('You can show it again'), findsOneWidget);
+    await _tapText(tester, 'Done for now');
+
+    // The collection keeps the copy, shows it as Hidden, and it survives a
+    // restart; the game never receives it.
+    expect(find.text('3 of 24 photos'), findsOneWidget);
+    expect(find.text('Hidden'), findsOneWidget);
+    await tester.pumpWidget(const SizedBox());
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    expect(find.text('Hidden'), findsOneWidget);
+    await _tapText(tester, 'Play with these photos');
+    final labels = {
+      for (final node
+          in find.bySemanticsLabel(RegExp(r', tile \d+$')).evaluate())
+        (node.widget as Semantics).properties.label!.split(',').first,
+    };
+    expect(labels, {'Family photo 2', 'Family photo 3'});
   });
 
   testWidgets('photo cards grow with 200% text instead of shrinking it', (
@@ -266,13 +363,17 @@ void main() {
 
     await _openOptions(tester, 0);
     await _toggle(tester, 'Favorite');
-    await _tapText(tester, 'Save');
+    await _tapText(tester, 'Save', until: () => _shows(find.text('Favorite')));
     // One favorite is not enough for a game of its own.
     expect(find.text('Play with favorites'), findsNothing);
 
     await _openOptions(tester, 1);
     await _toggle(tester, 'Favorite');
-    await _tapText(tester, 'Save');
+    await _tapText(
+      tester,
+      'Save',
+      until: () => _shows(find.text('Play with favorites')),
+    );
     expect(find.text('Play with favorites'), findsOneWidget);
     // Still exactly one filled button on this screen.
     expect(find.byType(FilledButton), findsNWidgets(1));

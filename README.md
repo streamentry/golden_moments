@@ -5,7 +5,7 @@ Gentle picture matching and shared photo activities. Flutter, local-first on iOS
 **US App Store candidate:** `Dementia Games: Golden Moments`  
 **Subtitle:** `Alzheimer's Photo Activities`  
 **On-device name:** `Golden Moments`  
-**Candidate version:** `1.3.0+5` (not yet an App Store release).
+**Candidate version:** `1.3.0+6` (review candidate; public release remains manual).
 
 ## Start here
 
