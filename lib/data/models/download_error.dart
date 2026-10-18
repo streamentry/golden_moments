@@ -18,7 +18,8 @@ class DownloadError extends Equatable implements Exception {
       url: url,
       message: message,
       userMessage:
-          'Unable to connect to the internet. Please check your connection and try again.',
+          'Unable to connect to the internet. Please check your '
+          'connection and try again.',
       retryable: true,
     );
   }
@@ -31,7 +32,8 @@ class DownloadError extends Equatable implements Exception {
     switch (statusCode) {
       case 404:
         userMessage =
-            'The requested content was not found. It may have been moved or deleted.';
+            'The requested content was not found. It may have been '
+            'moved or deleted.';
       case 429:
         userMessage = 'Too many requests. Please wait a moment and try again.';
         retryable = true;
@@ -244,7 +246,11 @@ class DownloadError extends Equatable implements Exception {
         return const Duration(seconds: 5);
       case DownloadErrorType.corruption:
         return const Duration(seconds: 2);
-      default:
+      case DownloadErrorType.invalidJson:
+      case DownloadErrorType.storageSpace:
+      case DownloadErrorType.fileSystem:
+      case DownloadErrorType.cancelled:
+      case DownloadErrorType.unknown:
         return const Duration(seconds: 5);
     }
   }
@@ -254,7 +260,8 @@ class DownloadError extends Equatable implements Exception {
 
   @override
   String toString() {
-    return 'DownloadError(type: $type, url: $url, message: $message, statusCode: $statusCode)';
+    return 'DownloadError(type: $type, url: $url, message: '
+        '$message, statusCode: $statusCode)';
   }
 }
 

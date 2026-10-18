@@ -7,7 +7,8 @@ import 'package:golden_moments/design_system.dart';
 /// Widget that displays images with long-term caching
 class CachedImageWidget extends StatefulWidget {
   const CachedImageWidget({
-    required this.imageUrl, super.key,
+    required this.imageUrl,
+    super.key,
     this.width,
     this.height,
     this.fit = BoxFit.cover,
@@ -74,7 +75,7 @@ class _CachedImageWidgetState extends State<CachedImageWidget> {
           }
         });
       }
-    } catch (e) {
+    } on Object catch (e) {
       if (mounted) {
         setState(() {
           _isLoading = false;
@@ -100,9 +101,7 @@ class _CachedImageWidgetState extends State<CachedImageWidget> {
     return Container(
       width: widget.width,
       height: widget.height,
-      decoration: BoxDecoration(
-        borderRadius: widget.borderRadius,
-      ),
+      decoration: BoxDecoration(borderRadius: widget.borderRadius),
       clipBehavior: widget.borderRadius != null ? Clip.antiAlias : Clip.none,
       child: child,
     );
@@ -188,7 +187,9 @@ class _CachedImageWidgetState extends State<CachedImageWidget> {
 /// Circular cached image widget for avatars and thumbnails
 class CachedCircularImage extends StatelessWidget {
   const CachedCircularImage({
-    required this.imageUrl, required this.radius, super.key,
+    required this.imageUrl,
+    required this.radius,
+    super.key,
     this.placeholder,
     this.errorWidget,
   });
@@ -215,7 +216,8 @@ class CachedCircularImage extends StatelessWidget {
 /// Cached image with fade-in animation
 class FadeInCachedImage extends StatefulWidget {
   const FadeInCachedImage({
-    required this.imageUrl, super.key,
+    required this.imageUrl,
+    super.key,
     this.width,
     this.height,
     this.fit = BoxFit.cover,
@@ -241,7 +243,6 @@ class FadeInCachedImage extends StatefulWidget {
 class _FadeInCachedImageState extends State<FadeInCachedImage>
     with SingleTickerProviderStateMixin {
   late AnimationController _animationController;
-  late Animation<double> _fadeAnimation;
 
   @override
   void initState() {
@@ -250,16 +251,6 @@ class _FadeInCachedImageState extends State<FadeInCachedImage>
       duration: widget.duration,
       vsync: this,
     );
-    _fadeAnimation =
-        Tween<double>(
-          begin: 0,
-          end: 1,
-        ).animate(
-          CurvedAnimation(
-            parent: _animationController,
-            curve: Curves.easeIn,
-          ),
-        );
   }
 
   @override
@@ -286,7 +277,8 @@ class _FadeInCachedImageState extends State<FadeInCachedImage>
 /// Cached image grid for displaying multiple images
 class CachedImageGrid extends StatelessWidget {
   const CachedImageGrid({
-    required this.imageUrls, super.key,
+    required this.imageUrls,
+    super.key,
     this.crossAxisCount = 2,
     this.aspectRatio = 1.0,
     this.spacing = gmSpaceSm,
@@ -328,7 +320,8 @@ class CachedImageGrid extends StatelessWidget {
 /// Cached image carousel for preview images
 class CachedImageCarousel extends StatelessWidget {
   const CachedImageCarousel({
-    required this.imageUrls, super.key,
+    required this.imageUrls,
+    super.key,
     this.height = 200,
     this.onImageTap,
   });

@@ -22,7 +22,7 @@ import 'package:golden_moments/shared/utils/string_util.dart';
 /// It coordinates between different specialized modules to provide
 /// a clean and maintainable download system.
 class DownloadManagerV2 extends ChangeNotifier {
-  factory DownloadManagerV2() => _instance;
+  factory() => _instance;
   DownloadManagerV2._internal() {
     // Initialize modules
     _statusManager = PackStatusManager();
@@ -167,8 +167,8 @@ class DownloadManagerV2 extends ChangeNotifier {
         queue: downloadQueue,
         onProgress: (progress) =>
             _progressTracker.updateImageProgress(progress),
-        onComplete: (item) => _handleDownloadComplete(item),
-        onError: (item, error) => _handleDownloadError(item, error),
+        onComplete: _handleDownloadComplete,
+        onError: _handleDownloadError,
       );
 
       // Save pack cache

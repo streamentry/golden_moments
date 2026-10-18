@@ -31,8 +31,10 @@ class DownloadManagerView extends StatefulWidget {
   State<DownloadManagerView> createState() => _DownloadManagerViewState();
 }
 
-typedef PackSelectionCallback =
-    void Function(Pack pack, bool isSelected); // Custom callback type
+typedef PackSelectionCallback = void Function(
+  Pack pack, {
+  required bool isSelected,
+}); // Custom callback type
 
 class _DownloadManagerViewState extends State<DownloadManagerView> {
   PackFilterOption _selectedFilter = PackFilterOption.all;
@@ -48,7 +50,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
 
     showDialog<void>(
       context: parentContext,
-      builder: (BuildContext context) {
+      builder: (context) {
         return AlertDialog(
           title: const Text('Download All Packs'),
           content: notDownloadedPacks.isEmpty
@@ -103,7 +105,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
     if (_selectedPacks.isNotEmpty) {
       showDialog<void>(
         context: parentContext,
-        builder: (BuildContext context) {
+        builder: (context) {
           return AlertDialog(
             title: const Text('Delete Selected Packs'),
             content: const Text(
@@ -157,7 +159,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
               onLongPress: _toggleSelectionMode,
               isSelectionMode: _isSelectionMode,
               selectedPacks: _selectedPacks,
-              onPackSelected: (Pack pack, bool isSelected) {
+              onPackSelected: (pack, {required isSelected}) {
                 setState(() {
                   if (isSelected) {
                     _selectedPacks.add(pack);
@@ -214,17 +216,16 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
                       _toggleSelectionMode();
                     }
                   },
-                  itemBuilder: (BuildContext context) =>
-                      <PopupMenuEntry<String>>[
-                        const PopupMenuItem<String>(
-                          value: 'DOWNLOAD',
-                          child: Text('Download all packs'),
-                        ),
-                        const PopupMenuItem<String>(
-                          value: 'DELETE',
-                          child: Text('Select packs to delete'),
-                        ),
-                      ],
+                  itemBuilder: (context) => <PopupMenuEntry<String>>[
+                    const PopupMenuItem<String>(
+                      value: 'DOWNLOAD',
+                      child: Text('Download all packs'),
+                    ),
+                    const PopupMenuItem<String>(
+                      value: 'DELETE',
+                      child: Text('Select packs to delete'),
+                    ),
+                  ],
                 ),
             ],
           ),
@@ -278,13 +279,11 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
                             children: [
                               Checkbox(
                                 value: _isSelectedAll, // a bool from your state
-                                onChanged: (bool? newValue) {
+                                onChanged: (newValue) {
                                   _toggleSelectedAll(state.downloadedPacks);
                                 },
                               ),
-                              const Text(
-                                'All',
-                              ),
+                              const Text('All'),
                             ],
                           ),
                       ],
@@ -329,9 +328,7 @@ class _LoadingView extends StatelessWidget {
 
 /// Error state view
 class _ErrorView extends StatelessWidget {
-  const _ErrorView({
-    required this.onRetry,
-  });
+  const _ErrorView({required this.onRetry});
 
   final VoidCallback onRetry;
 
@@ -345,11 +342,7 @@ class _ErrorView extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Icon(
-              Icons.error_outline,
-              size: 64,
-              color: theme.colorScheme.error,
-            ),
+            Icon(Icons.error_outline, size: 64, color: theme.colorScheme.error),
             const SizedBox(height: gmSpaceMd),
             Text(
               'Download Manager Error',
@@ -367,10 +360,7 @@ class _ErrorView extends StatelessWidget {
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceLg),
-            GmPrimaryButton(
-              label: 'Try Again',
-              onTap: onRetry,
-            ),
+            GmPrimaryButton(label: 'Try Again', onTap: onRetry),
           ],
         ),
       ),
@@ -432,14 +422,14 @@ class _LoadedView extends StatelessWidget {
               SoundService().playTap();
               if (isSelectionMode) {
                 final isSelected = selectedPacks.contains(pack);
-                onPackSelected(pack, !isSelected);
+                onPackSelected(pack, isSelected: !isSelected);
               }
             },
             onLongPress: () {
               if (!isSelectionMode &&
                   packFilterOption == PackFilterOption.downloaded) {
                 final isSelected = selectedPacks.contains(pack);
-                onPackSelected(pack, !isSelected);
+                onPackSelected(pack, isSelected: !isSelected);
                 onLongPress();
               }
             },
@@ -447,9 +437,7 @@ class _LoadedView extends StatelessWidget {
               absorbing: isSelectionMode,
               child: Stack(
                 children: [
-                  PackCard(
-                    pack: pack,
-                  ),
+                  PackCard(pack: pack),
                   // Selection checkbox
                   if (isSelectionMode)
                     Positioned(

@@ -8,10 +8,7 @@ enum FontSize {
   large(multiplier: 1.5, displayName: 'Large'),
   extraLarge(multiplier: 1.8, displayName: 'Extra Large');
 
-  const FontSize({
-    required this.multiplier,
-    required this.displayName,
-  });
+  FontSize({required this.multiplier, required this.displayName});
 
   /// Multiplier to apply to base font sizes
   final double multiplier;

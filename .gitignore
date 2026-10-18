@@ -88,6 +88,9 @@ unlinked_spec.ds
 # Coverage
 coverage/
 
+# Local browser screenshots and reports
+output/playwright/
+
 # Submodules
 packages/**/pubspec.lock
 

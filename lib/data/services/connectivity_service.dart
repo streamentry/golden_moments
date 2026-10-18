@@ -1,28 +1,30 @@
 import 'dart:async';
 import 'dart:io';
 
+import 'package:flutter/foundation.dart';
+import 'package:golden_moments/data/storage/browser_image_store.dart';
+
 /// Service for monitoring network connectivity
 class ConnectivityService {
   ConnectivityService._();
-  
-  static ConnectivityService? _instance;
-  static ConnectivityService get instance => _instance ??= ConnectivityService._();
 
-  final StreamController<ConnectivityStatus> _statusController = 
+  static final instance = ConnectivityService._();
+
+  final StreamController<ConnectivityStatus> _statusController =
       StreamController<ConnectivityStatus>.broadcast();
-  
+
   Timer? _connectivityTimer;
   ConnectivityStatus _currentStatus = ConnectivityStatus.unknown;
-  
+
   /// Stream of connectivity status changes
   Stream<ConnectivityStatus> get statusStream => _statusController.stream;
-  
+
   /// Current connectivity status
   ConnectivityStatus get currentStatus => _currentStatus;
-  
+
   /// Check if device is currently online
   bool get isOnline => _currentStatus == ConnectivityStatus.connected;
-  
+
   /// Check if device is currently offline
   bool get isOffline => _currentStatus == ConnectivityStatus.disconnected;
 
@@ -30,9 +32,12 @@ class ConnectivityService {
   Future<void> initialize() async {
     // Check initial status
     await _checkConnectivity();
-    
+
     // Start periodic connectivity checks
-    _startPeriodicChecks();
+    _connectivityTimer ??= Timer.periodic(
+      const Duration(seconds: 5),
+      (_) => _checkConnectivity(),
+    );
   }
 
   /// Dispose connectivity service
@@ -47,29 +52,31 @@ class ConnectivityService {
     return _currentStatus;
   }
 
-  /// Start periodic connectivity checks
-  void _startPeriodicChecks() {
-    _connectivityTimer = Timer.periodic(
-      const Duration(seconds: 5),
-      (_) => _checkConnectivity(),
-    );
-  }
-
   /// Check connectivity and update status
   Future<void> _checkConnectivity() async {
+    if (kIsWeb) {
+      final status = BrowserImageStore.isOnline
+          ? ConnectivityStatus.connected
+          : ConnectivityStatus.disconnected;
+      if (status != _currentStatus) {
+        _currentStatus = status;
+        _statusController.add(status);
+      }
+      return;
+    }
     try {
       final result = await InternetAddress.lookup('google.com')
           .timeout(const Duration(seconds: 3));
-      
+
       final newStatus = result.isNotEmpty && result[0].rawAddress.isNotEmpty
           ? ConnectivityStatus.connected
           : ConnectivityStatus.disconnected;
-      
+
       if (newStatus != _currentStatus) {
         _currentStatus = newStatus;
         _statusController.add(_currentStatus);
       }
-    } catch (e) {
+    } on Object {
       if (_currentStatus != ConnectivityStatus.disconnected) {
         _currentStatus = ConnectivityStatus.disconnected;
         _statusController.add(_currentStatus);
@@ -84,7 +91,7 @@ class ConnectivityService {
       final result = await InternetAddress.lookup(uri.host)
           .timeout(const Duration(seconds: 3));
       return result.isNotEmpty && result[0].rawAddress.isNotEmpty;
-    } catch (e) {
+    } on Object {
       return false;
     }
   }
@@ -92,32 +99,34 @@ class ConnectivityService {
   /// Get connectivity quality (basic implementation)
   Future<ConnectivityQuality> getConnectivityQuality() async {
     if (!isOnline) return ConnectivityQuality.none;
-    
+
     try {
       final stopwatch = Stopwatch()..start();
       await InternetAddress.lookup('google.com')
           .timeout(const Duration(seconds: 2));
       stopwatch.stop();
-      
+
       final latency = stopwatch.elapsedMilliseconds;
-      
+
       if (latency < 100) return ConnectivityQuality.excellent;
       if (latency < 300) return ConnectivityQuality.good;
       if (latency < 1000) return ConnectivityQuality.fair;
       return ConnectivityQuality.poor;
-    } catch (e) {
+    } on Object {
       return ConnectivityQuality.poor;
     }
   }
 
-  /// Check if connection is metered (placeholder - would need platform-specific implementation)
+  /// Check if connection is metered (placeholder - would need platform-
+  /// specific implementation)
   Future<bool> isConnectionMetered() async {
     // This would require platform-specific implementation
     // For now, assume WiFi is not metered, mobile data is metered
     return false; // Placeholder
   }
 
-  /// Get connection type (placeholder - would need platform-specific implementation)
+  /// Get connection type (placeholder - would need platform-specific
+  /// implementation)
   Future<ConnectionType> getConnectionType() async {
     // This would require platform-specific implementation
     // For now, return unknown
@@ -126,28 +135,13 @@ class ConnectivityService {
 }
 
 /// Connectivity status enumeration
-enum ConnectivityStatus {
-  unknown,
-  connected,
-  disconnected,
-}
+enum ConnectivityStatus { unknown, connected, disconnected }
 
 /// Connectivity quality levels
-enum ConnectivityQuality {
-  none,
-  poor,
-  fair,
-  good,
-  excellent,
-}
+enum ConnectivityQuality { none, poor, fair, good, excellent }
 
 /// Connection type enumeration
-enum ConnectionType {
-  unknown,
-  wifi,
-  mobile,
-  ethernet,
-}
+enum ConnectionType { unknown, wifi, mobile, ethernet }
 
 /// Extension for connectivity status display
 extension ConnectivityStatusExtension on ConnectivityStatus {

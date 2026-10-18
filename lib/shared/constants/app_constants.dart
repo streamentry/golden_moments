@@ -5,7 +5,8 @@ class AppConstants {
   // App information
   static const String appName = 'Golden Moments';
   static const String appVersion = '1.0.0';
-  static const String appDescription = 'A nostalgia-themed memory game for seniors';
+  static const String appDescription =
+      'A nostalgia-themed memory game for seniors';
 
   // Game configuration
   static const int maxSelectedTiles = 2;
@@ -85,10 +86,14 @@ class AppConstants {
   ];
 
   // Error messages
-  static const String networkErrorMessage = 'Please check your internet connection and try again.';
-  static const String genericErrorMessage = 'Something went wrong. Please try again.';
-  static const String premiumRequiredMessage = 'This content requires a premium subscription.';
-  static const String adLoadErrorMessage = 'Unable to load advertisement. Please try again.';
+  static const String networkErrorMessage =
+      'Please check your internet connection and try again.';
+  static const String genericErrorMessage =
+      'Something went wrong. Please try again.';
+  static const String premiumRequiredMessage =
+      'This content requires a premium subscription.';
+  static const String adLoadErrorMessage =
+      'Unable to load advertisement. Please try again.';
 
   // Accessibility labels
   static const String tileAccessibilityLabel = 'Memory game tile';

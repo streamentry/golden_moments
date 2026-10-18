@@ -5,7 +5,6 @@ import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
-import 'package:golden_moments/features/game/models/models.dart';
 import 'package:golden_moments/features/home/cubit/home_state.dart';
 
 /// Cubit for managing home screen state and logic
@@ -16,10 +15,8 @@ class HomeCubit extends Cubit<HomeState> {
   Future<void> initialize() async {
     // Try to log screen view, but don't fail if Firebase isn't available
     try {
-      await FirebaseAnalytics.instance.logScreenView(
-        screenName: 'Home',
-      );
-    } catch (e) {
+      await FirebaseAnalytics.instance.logScreenView(screenName: 'Home');
+    } on Object {
       // Silently ignore Firebase Analytics errors
       // This allows the app to work without Firebase
     }
@@ -51,7 +48,7 @@ class HomeCubit extends Cubit<HomeState> {
           libraryPacks: libraryCategories,
         ),
       );
-    } catch (error) {
+    } on Object catch (error) {
       emit(
         state.copyWith(
           status: HomeStatus.error,
@@ -92,7 +89,7 @@ class HomeCubit extends Cubit<HomeState> {
   //   try {
   //     final dailyPacks = await _loadDailyPacks();
   //     emit(state.copyWith(dailyPacks: dailyPacks));
-  //   } catch (error) {
+  //   } on Object catch (error) {
   //     emit(
   //       state.copyWith(
   //         status: HomeStatus.error,
@@ -104,18 +101,11 @@ class HomeCubit extends Cubit<HomeState> {
 
   // Mock data loading methods (in real app, these would call repositories)
 
-  Future<UserPreferences> _loadUserPreferences() async {
-    // Simulate loading delay
-    await Future<void>.delayed(const Duration(milliseconds: 500));
-
-    // Return default preferences for now
-    return const UserPreferences();
-  }
-
   // Future<List<Pack>> _loadDailyPacks() async {
   //   try {
   //     // Load featured packs from the JSON file for daily packs
-  //     final featuredPacks = await LocalPackService.instance.getFeaturedPacks();
+  //     final featuredPacks = await
+  // LocalPackService.instance.getFeaturedPacks();
 
   //     // Convert to Category objects and take first 3 for daily rotation
   //     final dailyPacks = featuredPacks
@@ -124,7 +114,7 @@ class HomeCubit extends Cubit<HomeState> {
   //         .toList();
 
   //     return dailyPacks;
-  //   } catch (e) {
+  //   } on Object catch (e) {
   //     // Fallback to empty list if loading fails
   //     return [];
   //   }

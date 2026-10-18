@@ -4,11 +4,7 @@ import 'package:golden_moments/features/game/cubit/game_state.dart';
 
 /// Header widget showing game statistics and progress
 class GameHeader extends StatelessWidget {
-  const GameHeader({
-    required this.state,
-    required this.currentTime,
-    super.key,
-  });
+  const GameHeader({required this.state, required this.currentTime, super.key});
 
   final GameState state;
   final String currentTime;
@@ -40,17 +36,9 @@ class GameHeader extends StatelessWidget {
                 value: state.moves.toString(),
                 theme: theme,
               ),
-              const SizedBox(
-                width: gmSpaceSm,
-              ),
-              _StatCard(
-                icon: Icons.timer,
-                value: currentTime,
-                theme: theme,
-              ),
-              const SizedBox(
-                width: gmSpaceSm,
-              ),
+              const SizedBox(width: gmSpaceSm),
+              _StatCard(icon: Icons.timer, value: currentTime, theme: theme),
+              const SizedBox(width: gmSpaceSm),
               _StatCard(
                 icon: Icons.stars,
                 value: state.currentPack.difficulty.displayName,
@@ -80,9 +68,7 @@ class _StatCard extends StatelessWidget {
   Widget build(BuildContext parentContext) {
     return Expanded(
       child: Container(
-        padding: const EdgeInsets.symmetric(
-          vertical: gmSpaceSm,
-        ),
+        padding: const EdgeInsets.symmetric(vertical: gmSpaceSm),
         decoration: BoxDecoration(
           color: theme.colorScheme.primaryContainer.withValues(alpha: 0.3),
           borderRadius: BorderRadius.circular(gmRadiusMd),
@@ -94,14 +80,8 @@ class _StatCard extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Icon(
-              icon,
-              size: 24,
-              color: theme.colorScheme.primary,
-            ),
-            const SizedBox(
-              width: gmSpaceSm,
-            ),
+            Icon(icon, size: 24, color: theme.colorScheme.primary),
+            const SizedBox(width: gmSpaceSm),
             Text(
               value,
               style: theme.textTheme.titleMedium?.copyWith(

@@ -6,11 +6,7 @@ import 'package:golden_moments/shared/widgets/category_card.dart';
 
 /// Page to display all categories
 class CategoryPage extends StatelessWidget {
-  const CategoryPage({
-    required this.categories,
-    this.onCategoryTap,
-    super.key,
-  });
+  const CategoryPage({required this.categories, this.onCategoryTap, super.key});
 
   final List<Category> categories;
   final void Function(Category category)? onCategoryTap;
@@ -22,9 +18,7 @@ class CategoryPage extends StatelessWidget {
         SoundService().playTap();
       },
       child: Scaffold(
-        appBar: AppBar(
-          title: const Text('All Categories'),
-        ),
+        appBar: AppBar(title: const Text('All Categories')),
         body: categories.isEmpty
             ? _EmptyState()
             : ListView.separated(
@@ -39,7 +33,8 @@ class CategoryPage extends StatelessWidget {
                     onTap: onCategoryTap == null
                         ? null
                         : () => {onCategoryTap?.call(category)},
-                    // showPremiumBadge: category.isPremium && !userPreferences.isPremiumUser,
+                    // showPremiumBadge: category.isPremium &&
+                    // !userPreferences.isPremiumUser,
                   );
                 },
               ),

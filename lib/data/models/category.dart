@@ -36,11 +36,5 @@ class Category extends Equatable {
   }
 
   @override
-  List<Object?> get props => [
-    id,
-    name,
-    description,
-    iconUrl,
-    packCount,
-  ];
+  List<Object?> get props => [id, name, description, iconUrl, packCount];
 }

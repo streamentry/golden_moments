@@ -32,15 +32,22 @@ class _PackPageState extends State<PackPage> {
     super.initState();
     _fetchPacks();
 
-    FirebaseAnalytics.instance.logScreenView(
-      screenName: 'Pack',
-    );
+    _logScreenView();
+  }
+
+  Future<void> _logScreenView() async {
+    try {
+      await FirebaseAnalytics.instance.logScreenView(screenName: 'Pack');
+    } on Object catch (_) {
+      // Browsing packs also works without a Firebase configuration.
+    }
   }
 
   Future<void> _fetchPacks() async {
     final packs = await LocalPackService().getPacksByCategory(
       widget.categoryId,
     );
+    if (!mounted) return;
     setState(() {
       // Example: filter packs by categoryName, replace with real fetch
       _packs = packs.where((p) => p.category == widget.categoryId).toList();
@@ -55,29 +62,37 @@ class _PackPageState extends State<PackPage> {
         SoundService().playTap();
       },
       child: Scaffold(
-        appBar: AppBar(
-          title: Text(widget.categoryName),
-        ),
+        appBar: AppBar(title: Text(widget.categoryName)),
         body: _loading
             ? const Center(child: CircularProgressIndicator())
             : _packs.isEmpty
             ? _EmptyState()
-            : GridView.builder(
-                padding: const EdgeInsets.all(gmSpaceMd),
-                gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                  crossAxisCount: 2,
-                  childAspectRatio: 0.7,
-                  crossAxisSpacing: gmSpaceSm,
-                  mainAxisSpacing: gmSpaceSm,
-                ),
-                itemCount: _packs.length,
-                itemBuilder: (context, index) {
-                  final pack = _packs[index];
-                  return PackCard(
-                    pack: pack,
-                    onTap: widget.onPackTap == null
-                        ? null
-                        : () => widget.onPackTap?.call(pack),
+            : LayoutBuilder(
+                builder: (context, constraints) {
+                  final width = constraints.maxWidth - gmSpaceMd * 2;
+                  final columns = (width / 170).floor().clamp(1, 4);
+                  final cardWidth =
+                      (width - (columns - 1) * gmSpaceSm) / columns;
+                  return GridView.builder(
+                    padding: const EdgeInsets.all(gmSpaceMd),
+                    gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                      crossAxisCount: columns,
+                      mainAxisExtent:
+                          cardWidth * 2 / 3 +
+                          140 * MediaQuery.textScalerOf(context).scale(1),
+                      crossAxisSpacing: gmSpaceSm,
+                      mainAxisSpacing: gmSpaceSm,
+                    ),
+                    itemCount: _packs.length,
+                    itemBuilder: (context, index) {
+                      final pack = _packs[index];
+                      return PackCard(
+                        pack: pack,
+                        onTap: widget.onPackTap == null
+                            ? null
+                            : () => widget.onPackTap?.call(pack),
+                      );
+                    },
                   );
                 },
               ),

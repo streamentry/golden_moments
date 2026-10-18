@@ -1,5 +1,9 @@
 name: memory_lane
 
+permissions:
+  contents: read
+  pull-requests: read
+
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
@@ -20,6 +24,7 @@ jobs:
     uses: VeryGoodOpenSource/very_good_workflows/.github/workflows/flutter_package.yml@v1
     with:
       flutter_channel: stable
+      flutter_version_file: .fvmrc
 
   spell-check:
     uses: VeryGoodOpenSource/very_good_workflows/.github/workflows/spell_check.yml@v1
@@ -27,3 +32,31 @@ jobs:
       includes: |
         **/*.md
       modified_files_only: false
+
+  web-visual:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: subosito/flutter-action@v2.23.0
+        with:
+          flutter-version-file: .fvmrc
+          cache: true
+      - name: Build release web app
+        run: |
+          flutter pub get
+          flutter build web --release
+      - name: Test real browser flows and capture screenshots
+        run: |
+          npm install --prefix "$RUNNER_TEMP/visual-smoke" --no-save playwright@1.62.1
+          "$RUNNER_TEMP/visual-smoke/node_modules/.bin/playwright" install --with-deps chromium
+          python3 -m http.server 8765 --bind 127.0.0.1 --directory build/web &
+          server_pid=$!
+          trap 'kill "$server_pid"' EXIT
+          NODE_PATH="$RUNNER_TEMP/visual-smoke/node_modules" PLAYWRIGHT_CHANNEL=chromium node scripts/visual_smoke.cjs
+      - name: Upload visual test evidence
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: web-visual-evidence
+          path: output/playwright/

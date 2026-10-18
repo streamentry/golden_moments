@@ -35,6 +35,7 @@ class CategoryCard extends StatelessWidget {
         onPressed: () async {
           // Wait for ripple animation before calling onPressed
           await Future<void>.delayed(const Duration(milliseconds: 300));
+          if (!parentContext.mounted) return;
           if (onTap == null) {
             await Navigator.of(parentContext).push(
               MaterialPageRoute<void>(

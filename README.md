@@ -32,6 +32,9 @@ _\*Memory Lane works on iOS, Android, Web, and Windows._
 
 ## Running Tests 🧪
 
+For the repeatable browser screenshot and gameplay checks, see
+[Build and visual testing](docs/visual-testing.md).
+
 To run all unit and widget tests use the following command:
 
 ```sh

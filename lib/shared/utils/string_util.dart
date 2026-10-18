@@ -2,7 +2,8 @@
 String formatTime(int secs) {
   final minutes = secs ~/ 60;
   final seconds = secs % 60;
-  return '${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}';
+  return '${minutes.toString().padLeft(2, '0')}:'
+      '${seconds.toString().padLeft(2, '0')}';
 }
 
 /// generate download id from packId and imageId

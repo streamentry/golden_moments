@@ -6,10 +6,6 @@ class AppTheme {
   AppTheme._();
 
   // Base font sizes (will be multiplied by FontSize multiplier)
-  static const double _baseFontSizeSmall = 14;
-  static const double _baseFontSizeMedium = 16;
-  static const double _baseFontSizeLarge = 18;
-  static const double _baseFontSizeXLarge = 20;
 
   // Minimum touch target size for accessibility
   static const double minTouchTargetSize = 48;
@@ -95,9 +91,7 @@ class AppTheme {
 
       // Input decoration theme
       inputDecorationTheme: InputDecorationTheme(
-        border: OutlineInputBorder(
-          borderRadius: BorderRadius.circular(12),
-        ),
+        border: OutlineInputBorder(borderRadius: BorderRadius.circular(12)),
         contentPadding: const EdgeInsets.symmetric(
           horizontal: 16,
           vertical: 16,
@@ -111,10 +105,7 @@ class AppTheme {
       ),
 
       // Divider theme
-      dividerTheme: DividerThemeData(
-        thickness: 2,
-        color: colorScheme.outline,
-      ),
+      dividerTheme: DividerThemeData(thickness: 2, color: colorScheme.outline),
     );
   }
 

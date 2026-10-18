@@ -11,6 +11,7 @@ import 'package:golden_moments/data/models/pack_cache.dart';
 import 'package:golden_moments/data/services/http_client_service.dart';
 import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
+import 'package:golden_moments/data/storage/browser_image_store.dart';
 import 'package:golden_moments/data/storage/cache_file_paths.dart';
 import 'package:golden_moments/shared/utils/image_util.dart';
 import 'package:golden_moments/shared/utils/string_util.dart';
@@ -18,7 +19,7 @@ import 'package:pool/pool.dart';
 
 /// Download manager for processing pack and image downloads
 class DownloadManager extends ChangeNotifier {
-  factory DownloadManager() => _instance;
+  factory() => _instance;
   DownloadManager._internal();
   static final DownloadManager _instance = DownloadManager._internal();
 
@@ -42,12 +43,25 @@ class DownloadManager extends ChangeNotifier {
   Future<void> initialize() async {
     final packs = await _localPackService.getPacks();
     for (final pack in packs) {
-      if (await _cacheService.isPackCached(pack.id)) {
+      var cached = await _cacheService.isPackCached(pack.id);
+      if (kIsWeb && cached) {
+        // Repair metadata from web builds that discarded image bytes.
+        for (final image in pack.images) {
+          final bytes = await BrowserImageStore.read(image.url);
+          if (bytes == null || bytes.isEmpty) {
+            cached = false;
+            await _cacheService.deletePackCache(pack.id);
+            break;
+          }
+        }
+      }
+      if (cached) {
         _packsStatus[pack.id] = PackStatus.completed;
       } else {
         _packsStatus[pack.id] = PackStatus.notStarted;
       }
     }
+    notifyListeners();
   }
 
   // Execute download initial packs
@@ -56,7 +70,11 @@ class DownloadManager extends ChangeNotifier {
     final packs = await _localPackService.getPacks();
     for (final pack in packs) {
       if (!await JsonCacheService().isPackCached(pack.id)) {
-        unawaited(downloadPack(pack.id));
+        unawaited(
+          downloadPack(pack.id).catchError((Object error) {
+            debugPrint('Could not download ${pack.id}: $error');
+          }),
+        );
       }
     }
   }
@@ -81,9 +99,10 @@ class DownloadManager extends ChangeNotifier {
 
   /// Download a complete pack
   Future<void> downloadPack(String packId) async {
+    PoolResource? pooled;
     try {
       // Wait for downloading slot to prevent network congestion
-      final pooled = await _pool.request();
+      pooled = await _pool.request();
 
       _packsStatus[packId] = PackStatus.downloading;
       notifyListeners();
@@ -95,7 +114,9 @@ class DownloadManager extends ChangeNotifier {
         parseSizeToBytes(pack.estimatedSize),
       );
 
-      if (!isSpacesAvailable) return;
+      if (!isSpacesAvailable) {
+        throw StateError('Not enough space to download this pack.');
+      }
 
       var downloadQueue = DownloadQueue.empty();
       final imageProgresses = <DownloadProgress>[];
@@ -157,11 +178,15 @@ class DownloadManager extends ChangeNotifier {
       await _cacheService.savePackCache(packCache);
 
       notifyListeners();
-      pooled.release();
-    } on Exception catch (e) {
+    } on Object catch (e) {
+      _packsStatus[packId] = PackStatus.notStarted;
+      _packStatusController.add(MapEntry(packId, PackStatus.notStarted));
+      notifyListeners();
       throw e is DownloadError
           ? e
           : DownloadError.unknown('pack:$packId', e.toString());
+    } finally {
+      pooled?.release();
     }
   }
 
@@ -205,6 +230,7 @@ class DownloadManager extends ChangeNotifier {
       }
     } on Exception catch (e) {
       await _handleDownloadError(item, e);
+      rethrow;
     }
   }
 
@@ -234,30 +260,27 @@ class DownloadManager extends ChangeNotifier {
     // Download image data using HTTP client
     final imageData = await _httpClient.downloadBinary(
       imageUrl,
-      onProgress: (int downloaded, int total) {
+      onProgress: (downloaded, total) {
         // Calculate speed and ETA
         final elapsed = DateTime.now().difference(startTime);
         final speed = _httpClient.calculateDownloadSpeed(downloaded, elapsed);
         final eta = _httpClient.calculateETA(total - downloaded, speed);
 
         // Emit progress update with updated total bytes
-        final progress =
-            DownloadProgress.started(
-              downloadId: downloadId,
-              packId: packId,
-              imageId: imageId,
-              totalBytes: total,
-            ).updateProgress(
-              bytesDownloaded: downloaded,
-              speed: speed,
-              eta: eta,
-            );
+        final progress = DownloadProgress.started(
+          downloadId: downloadId,
+          packId: packId,
+          imageId: imageId,
+          totalBytes: total,
+        ).updateProgress(bytesDownloaded: downloaded, speed: speed, eta: eta);
         _emitProgress(progress);
       },
     );
 
-    // Save image to cache (skip on web for now)
-    if (!kIsWeb) {
+    // Persist bytes before marking a download complete on either platform.
+    if (kIsWeb) {
+      await BrowserImageStore.write(imageUrl, imageData);
+    } else {
       try {
         final imagePath = CacheFilePaths.imageFile(packId, filename);
         final fullPath = _cacheService.fileManager.getCachePath(imagePath);
@@ -330,7 +353,7 @@ class DownloadManager extends ChangeNotifier {
     if (kIsWeb) {
       return true;
     }
-    
+
     try {
       final diskSpacePlus = DiskSpacePlus();
       final freeDiskSpace = await diskSpacePlus.getFreeDiskSpace ?? 0;
@@ -340,7 +363,7 @@ class DownloadManager extends ChangeNotifier {
       } else {
         return false;
       }
-    } catch (e) {
+    } on Object {
       // On platforms where disk space check isn't available,
       // assume there's enough space to prevent blocking downloads
       return true;
@@ -349,6 +372,12 @@ class DownloadManager extends ChangeNotifier {
 
   /// Delete a pack
   Future<void> deletePack(String packId) async {
+    if (kIsWeb) {
+      final pack = await _localPackService.getPackById(packId);
+      for (final image in pack.images) {
+        await BrowserImageStore.delete(image.url);
+      }
+    }
     // Only try to delete files on non-web platforms
     if (!kIsWeb) {
       try {
@@ -364,7 +393,7 @@ class DownloadManager extends ChangeNotifier {
         debugPrint('Error deleting pack files: $e');
       }
     }
-    
+
     await _cacheService.deletePackCache(packId);
     _packsStatus[packId] = PackStatus.notStarted;
     _packStatusController.add(MapEntry(packId, PackStatus.notStarted));

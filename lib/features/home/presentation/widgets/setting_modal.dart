@@ -18,16 +18,11 @@ class SettingModal extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(
-              'Settings',
-              style: theme.textTheme.titleLarge,
-            ),
+            Text('Settings', style: theme.textTheme.titleLarge),
             const SizedBox(height: gmSpaceMd),
             Row(
               children: [
-                Icon(
-                  settings.isMusicOn ? Icons.volume_up : Icons.volume_off,
-                ),
+                Icon(settings.isMusicOn ? Icons.volume_up : Icons.volume_off),
                 const SizedBox(width: gmSpaceSm),
                 const Text('Music'),
                 const Spacer(),
@@ -42,9 +37,7 @@ class SettingModal extends StatelessWidget {
             const SizedBox(height: gmSpaceSm),
             Row(
               children: [
-                Icon(
-                  settings.isSoundOn ? Icons.music_note : Icons.music_off,
-                ),
+                Icon(settings.isSoundOn ? Icons.music_note : Icons.music_off),
                 const SizedBox(width: gmSpaceSm),
                 const Text('Sound'),
                 const Spacer(),
@@ -74,10 +67,8 @@ class SettingModal extends StatelessWidget {
 }
 
 /// Helper to show the settings modal as a bottom sheet
-dynamic showSettingModal({
-  required BuildContext context,
-}) {
-  return showModalBottomSheet(
+Future<void> showSettingModal({required BuildContext context}) {
+  return showModalBottomSheet<void>(
     context: context,
     shape: const RoundedRectangleBorder(
       borderRadius: BorderRadius.vertical(top: Radius.circular(gmRadiusLg)),

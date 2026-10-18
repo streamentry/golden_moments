@@ -1,5 +1,4 @@
 import 'dart:async';
-import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -17,10 +16,7 @@ import 'package:share_plus/share_plus.dart';
 
 /// Game page for playing memory matching games
 class GamePage extends StatefulWidget {
-  const GamePage({
-    required this.gamePack,
-    super.key,
-  });
+  const GamePage({required this.gamePack, super.key});
 
   final Pack gamePack;
 
@@ -42,7 +38,7 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
   }
 
   void _startTimer() {
-    if (_timer?.isActive == true) return; // Don't start if already running
+    if (_timer?.isActive ?? false) return; // Don't start if already running
     _timer = Timer.periodic(const Duration(seconds: 1), (timer) {
       if (mounted && !_isPaused) {
         setState(() {
@@ -94,14 +90,16 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
   }
 
   void _shareAppLink() {
-    final link = Platform.isAndroid
-        ? 'https://play.google.com/store/apps/details?id=com.mindfulness.golden_moments'
-        // Change to ios later
-        : 'https://play.google.com/store/apps/details?id=com.mindfulness.golden_moments';
+    const link =
+        'https://play.google.com/store/apps/details?id=com.mindfulness.golden_moments';
 
-    Share.share(
-      'Check out this app!\n$link',
-      subject: 'Try this app!',
+    unawaited(
+      SharePlus.instance.share(
+        ShareParams(
+          text: 'Check out this app!\n$link',
+          subject: 'Try this app!',
+        ),
+      ),
     );
   }
 
@@ -328,14 +326,8 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceMd),
-            Text(
-              'Moves: ${state.moves}',
-              style: const TextStyle(fontSize: 16),
-            ),
-            Text(
-              'Time: $timeText',
-              style: const TextStyle(fontSize: 16),
-            ),
+            Text('Moves: ${state.moves}', style: const TextStyle(fontSize: 16)),
+            Text('Time: $timeText', style: const TextStyle(fontSize: 16)),
             const SizedBox(height: gmSpaceMd),
             const Text(
               'Did this bring back any memories?',
@@ -408,10 +400,7 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
                         ),
                         const SizedBox(height: gmSpaceMd),
                         TweenAnimationBuilder<double>(
-                          tween: Tween<double>(
-                            begin: 1,
-                            end: timeLeft / 15,
-                          ),
+                          tween: Tween<double>(begin: 1, end: timeLeft / 15),
                           duration: const Duration(seconds: 1),
                           builder: (context, value, child) {
                             return LinearProgressIndicator(
@@ -463,7 +452,10 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
                     ),
                     const SizedBox(height: gmSpaceMd),
                     const Text(
-                      "You've completed 3 memory games! 🎉\n\nWhy not invite your friends and family to join the fun? Share precious memories together and challenge each other in this delightful memory game.",
+                      "You've completed 3 memory games! 🎉\n\nWhy not invite "
+                      'your friends and family to join the fun? Share precious'
+                      ' memories together and challenge each other in this '
+                      'delightful memory game.',
                       style: TextStyle(fontSize: 16),
                       textAlign: TextAlign.center,
                     ),
@@ -504,10 +496,7 @@ class _LoadingView extends StatelessWidget {
         children: [
           CircularProgressIndicator(),
           SizedBox(height: gmSpaceMd),
-          Text(
-            'Preparing your memory game...',
-            style: TextStyle(fontSize: 18),
-          ),
+          Text('Preparing your memory game...', style: TextStyle(fontSize: 18)),
         ],
       ),
     );
@@ -516,10 +505,7 @@ class _LoadingView extends StatelessWidget {
 
 /// Game play view
 class _GamePlayView extends StatelessWidget {
-  const _GamePlayView({
-    required this.state,
-    required this.currentTime,
-  });
+  const _GamePlayView({required this.state, required this.currentTime});
 
   final GameState state;
   final String currentTime;
@@ -529,10 +515,7 @@ class _GamePlayView extends StatelessWidget {
     return Column(
       children: [
         // Game header with stats
-        GameHeader(
-          state: state,
-          currentTime: currentTime,
-        ),
+        GameHeader(state: state, currentTime: currentTime),
 
         // Game board
         Expanded(
@@ -626,11 +609,7 @@ class _ErrorView extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Icon(
-              Icons.error_outline,
-              size: 64,
-              color: Colors.red,
-            ),
+            const Icon(Icons.error_outline, size: 64, color: Colors.red),
             const SizedBox(height: gmSpaceMd),
             Text(
               'Game Error',
@@ -639,7 +618,8 @@ class _ErrorView extends StatelessWidget {
             ),
             const SizedBox(height: gmSpaceSm),
             const Text(
-              'Something went wrong with the pack. Please reinstall this pack or play another pack.',
+              'Something went wrong with the pack. Please reinstall '
+              'this pack or play another pack.',
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceLg),

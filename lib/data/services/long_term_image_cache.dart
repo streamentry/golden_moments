@@ -2,17 +2,19 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:crypto/crypto.dart';
+import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import 'package:path/path.dart' as path;
 import 'package:path_provider/path_provider.dart';
 
 /// Long-term image caching service with 1-year expiry
 class LongTermImageCache {
-  LongTermImageCache._();
+  LongTermImageCache({this._cacheRoot, this._client});
 
-  static LongTermImageCache? _instance;
-  static LongTermImageCache get instance =>
-      _instance ??= LongTermImageCache._();
+  final Directory? _cacheRoot;
+  final http.Client? _client;
+
+  static final instance = LongTermImageCache();
 
   static const Duration _cacheExpiry = Duration(days: 365); // 1 year
   static const String _cacheDirectoryName = 'image_cache';
@@ -27,10 +29,10 @@ class LongTermImageCache {
     if (_initialized) return;
 
     try {
-      final appDir = await getApplicationDocumentsDirectory();
+      final appDir = _cacheRoot ?? await getApplicationDocumentsDirectory();
       _cacheDirectory = Directory(path.join(appDir.path, _cacheDirectoryName));
 
-      if (!await _cacheDirectory!.exists()) {
+      if (!_cacheDirectory!.existsSync()) {
         await _cacheDirectory!.create(recursive: true);
       }
 
@@ -38,7 +40,7 @@ class LongTermImageCache {
       await _cleanExpiredCache();
 
       _initialized = true;
-    } catch (e) {
+    } on Object catch (e) {
       throw Exception('Failed to initialize image cache: $e');
     }
   }
@@ -51,7 +53,7 @@ class LongTermImageCache {
     final cachedFile = File(path.join(_cacheDirectory!.path, '$cacheKey.jpg'));
 
     // Check if image is cached and not expired
-    if (await cachedFile.exists()) {
+    if (cachedFile.existsSync()) {
       final metadata = _metadata[cacheKey];
       if (metadata != null && !metadata.isExpired) {
         // Update last accessed time
@@ -72,14 +74,13 @@ class LongTermImageCache {
     String cacheKey,
   ) async {
     try {
-      final response = await http
-          .get(
-            Uri.parse(imageUrl),
-            headers: {
-              'User-Agent': 'Golden Moments Memory Game/1.0',
-            },
-          )
-          .timeout(const Duration(seconds: 30));
+      final response =
+          await (_client?.get(
+                    Uri.parse(imageUrl),
+                    headers: {'User-Agent': 'Golden Moments Memory Game/1.0'},
+                  ) ??
+                  http.get(Uri.parse(imageUrl)))
+              .timeout(const Duration(seconds: 30));
 
       if (response.statusCode == 200) {
         await cacheFile.writeAsBytes(response.bodyBytes);
@@ -97,9 +98,9 @@ class LongTermImageCache {
         await _saveMetadata();
         return cacheFile;
       }
-    } catch (e) {
+    } on Object catch (e) {
       // Handle download error gracefully
-      print('Failed to download image $imageUrl: $e');
+      debugPrint('Failed to download image $imageUrl: $e');
     }
 
     return null;
@@ -112,7 +113,7 @@ class LongTermImageCache {
     final cacheKey = _generateCacheKey(imageUrl);
     final cachedFile = File(path.join(_cacheDirectory!.path, '$cacheKey.jpg'));
 
-    if (!await cachedFile.exists()) return false;
+    if (!cachedFile.existsSync()) return false;
 
     final metadata = _metadata[cacheKey];
     return metadata != null && !metadata.isExpired;
@@ -165,7 +166,7 @@ class LongTermImageCache {
 
         // Delete the cached file
         final file = File(path.join(_cacheDirectory!.path, '${entry.key}.jpg'));
-        if (await file.exists()) {
+        if (file.existsSync()) {
           await file.delete();
         }
       }
@@ -197,7 +198,7 @@ class LongTermImageCache {
     await initialize();
 
     // Delete all cached files
-    if (await _cacheDirectory!.exists()) {
+    if (_cacheDirectory!.existsSync()) {
       await _cacheDirectory!.delete(recursive: true);
       await _cacheDirectory!.create(recursive: true);
     }
@@ -228,7 +229,7 @@ class LongTermImageCache {
       path.join(_cacheDirectory!.path, _metadataFileName),
     );
 
-    if (await metadataFile.exists()) {
+    if (metadataFile.existsSync()) {
       try {
         final jsonString = await metadataFile.readAsString();
         final jsonData = json.decode(jsonString) as Map<String, dynamic>;
@@ -239,7 +240,7 @@ class LongTermImageCache {
             CacheMetadata.fromJson(value as Map<String, dynamic>),
           ),
         );
-      } catch (e) {
+      } on Object {
         // If metadata is corrupted, start fresh
         _metadata = {};
       }
