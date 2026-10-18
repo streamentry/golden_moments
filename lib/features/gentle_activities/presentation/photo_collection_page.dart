@@ -89,10 +89,11 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
         }
       }
     } catch (_) {
-      if (mounted)
+      if (mounted) {
         setState(
           () => _error = 'Could not open the photo collection. Your original photos have not been changed. Please try again.',
         );
+      }
     } finally {
       if (mounted) setState(() => _busy = false);
     }
@@ -123,10 +124,11 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
       );
       await _saveFiles(files);
     } catch (_) {
-      if (mounted)
+      if (mounted) {
         setState(
           () => _error = 'Could not add these photos. Try fewer or smaller images, and check free space. Your existing collection is unchanged.',
         );
+      }
     } finally {
       if (mounted) setState(() => _busy = false);
     }
@@ -150,20 +152,22 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
         await _store!.remove(id);
       }
     } catch (_) {
-      if (mounted)
+      if (mounted) {
         setState(
           () => _error = 'Some copies could not be removed. Please try again.',
         );
+      }
     } finally {
       try {
         final ids = await _store!.load();
         if (mounted) setState(() => _ids = ids);
       } catch (_) {
-        if (mounted)
+        if (mounted) {
           setState(
             () => _error =
                 'Could not refresh the collection. Please reopen this screen.',
           );
+        }
       }
       if (mounted) setState(() => _busy = false);
     }

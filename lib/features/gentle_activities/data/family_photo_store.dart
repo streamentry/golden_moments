@@ -19,8 +19,9 @@ class FamilyPhotoStore {
   File get _manifest => File('${directory.path}/collection.json');
 
   File fileFor(String id) {
-    if (!_validId.hasMatch(id))
+    if (!_validId.hasMatch(id)) {
       throw const FormatException('Invalid photo ID.');
+    }
     return File('${directory.path}/$id.png');
   }
 

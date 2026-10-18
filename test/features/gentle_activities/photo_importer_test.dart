@@ -43,7 +43,10 @@ void main() {
     final source = await makePng(1024, 1024, noise: true);
     expect(source.length, greaterThan(FamilyPhotoStore.maxBytesPerPhoto));
     final normalized = await PhotoImporter().normalize(XFile.fromData(source));
-    expect(normalized.length, lessThanOrEqualTo(FamilyPhotoStore.maxBytesPerPhoto));
+    expect(
+      normalized.length,
+      lessThanOrEqualTo(FamilyPhotoStore.maxBytesPerPhoto),
+    );
     final codec = await ui.instantiateImageCodec(normalized);
     final image = (await codec.getNextFrame()).image;
     try {
