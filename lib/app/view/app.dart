@@ -15,7 +15,10 @@ class _AppState extends State<App> {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Golden Moments',
-      theme: gmBuildTheme(brightness: Brightness.light),
+      // Light only: older eyes read dark ink on warm paper best, and MIUI's
+      // forced dark mode turned the app black (#18).
+      theme: gmBuildTheme(),
+      themeMode: ThemeMode.light,
       localizationsDelegates: AppLocalizations.localizationsDelegates,
       supportedLocales: AppLocalizations.supportedLocales,
       home: buildPlatformHome(),

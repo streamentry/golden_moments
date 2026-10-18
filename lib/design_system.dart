@@ -26,7 +26,6 @@ const gmSurf50 = Color(0xFFFDF9F0); // background: parchment page
 const gmSurf100 = Color(0xFFF5EDE0); // surface: linen tiles and cards
 const gmSurf200 = Color(0xFFEADFCB); // surface-sunken: hidden-tile backs
 const gmCharcoal900 = Color(0xFF222222); // on-surface: ink, primary text
-const gmCharcoal50 = Color(0xFFFDF9F0); // text in dark mode
 const gmWalnut600 = Color(0xFF5C5346); // on-surface-variant: secondary text
 const gmDriftwood500 = Color(0xFF7D7366); // outline: resting borders (≥3:1)
 
@@ -34,7 +33,6 @@ const gmDriftwood500 = Color(0xFF7D7366); // outline: resting borders (≥3:1)
 // golds measure below 3:1 on parchment and stay decorative.
 const gmGold300 = Color(0xFFFFE08A); // primary-container: selection fills
 const gmGold600 = Color(0xFFC99200); // accent: ornament only, never text
-const gmGold700 = Color(0xFFB07E00); // dark-mode accent only
 const gmGold800 = Color(0xFF7A5600); // primary: actions (6.7:1 with white)
 
 // Status colors (always paired with an icon and a word)
@@ -111,21 +109,19 @@ const double gmBorderResting = 1;
 const double gmBorderSelected = 4;
 
 ///////////////////////////////////////////////////////////////////////////////
-/// 4. THEME BUILDERS  (light is shipped; dark is unverified)
+/// 4. THEME BUILDER  (light only: the app has no dark mode)
 ///////////////////////////////////////////////////////////////////////////////
-ThemeData gmBuildTheme({required Brightness brightness}) {
-  final dark = brightness == Brightness.dark;
+ThemeData gmBuildTheme() {
+  const onSurface = gmCharcoal900;
+  const background = gmSurf50;
+  const surface = gmSurf100;
 
-  final onSurface = dark ? gmSurf50 : gmCharcoal900;
-  final background = dark ? gmCharcoal900 : gmSurf50;
-  final surface = dark ? gmCharcoal900 : gmSurf100;
-
-  final scheme = ColorScheme(
-    brightness: brightness,
-    primary: dark ? gmGold600 : gmGold800,
-    onPrimary: dark ? gmCharcoal900 : Colors.white,
-    primaryContainer: dark ? gmGold800 : gmGold300,
-    onPrimaryContainer: dark ? gmSurf50 : gmCharcoal900,
+  const scheme = ColorScheme(
+    brightness: Brightness.light,
+    primary: gmGold800,
+    onPrimary: Colors.white,
+    primaryContainer: gmGold300,
+    onPrimaryContainer: gmCharcoal900,
     secondary: gmSapphire500,
     onSecondary: Colors.white,
     tertiary: gmSapphire500,
@@ -134,14 +130,14 @@ ThemeData gmBuildTheme({required Brightness brightness}) {
     onError: Colors.white,
     surface: surface,
     onSurface: onSurface,
-    onSurfaceVariant: dark ? gmSurf200 : gmWalnut600,
+    onSurfaceVariant: gmWalnut600,
     surfaceContainerLowest: background,
     surfaceContainerLow: background,
     surfaceContainer: surface,
-    surfaceContainerHigh: dark ? gmCharcoal900 : gmSurf50,
-    surfaceContainerHighest: dark ? gmCharcoal900 : gmSurf200,
+    surfaceContainerHigh: background,
+    surfaceContainerHighest: gmSurf200,
     outline: gmDriftwood500,
-    outlineVariant: dark ? gmWalnut600 : gmSurf200,
+    outlineVariant: gmSurf200,
     inverseSurface: onSurface,
     onInverseSurface: background,
   );
@@ -162,15 +158,15 @@ ThemeData gmBuildTheme({required Brightness brightness}) {
     materialTapTargetSize: MaterialTapTargetSize.padded,
     scaffoldBackgroundColor: background,
     dividerColor: scheme.outlineVariant,
-    iconTheme: IconThemeData(color: onSurface, size: 28),
+    iconTheme: const IconThemeData(color: onSurface, size: 28),
     appBarTheme: AppBarTheme(
       backgroundColor: background,
       surfaceTintColor: Colors.transparent,
       elevation: 0,
       scrolledUnderElevation: 0,
       toolbarHeight: gmTargetHero,
-      iconTheme: IconThemeData(color: onSurface, size: 28),
-      actionsIconTheme: IconThemeData(color: onSurface, size: 28),
+      iconTheme: const IconThemeData(color: onSurface, size: 28),
+      actionsIconTheme: const IconThemeData(color: onSurface, size: 28),
       titleTextStyle: text.titleLarge,
     ),
     filledButtonTheme: FilledButtonThemeData(
@@ -271,12 +267,12 @@ ThemeData gmBuildTheme({required Brightness brightness}) {
         borderRadius: BorderRadius.circular(gmRadiusXl),
       ),
     ),
-    bottomSheetTheme: BottomSheetThemeData(
+    bottomSheetTheme: const BottomSheetThemeData(
       backgroundColor: background,
       surfaceTintColor: Colors.transparent,
       modalBackgroundColor: background,
       showDragHandle: true,
-      shape: const RoundedRectangleBorder(
+      shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.vertical(top: Radius.circular(gmRadiusXl)),
       ),
     ),
