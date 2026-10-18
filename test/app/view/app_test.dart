@@ -7,7 +7,7 @@ import 'package:golden_moments/features/home/presentation/screens/home_page.dart
 
 class _LoadedHome extends HomeCubit {
   new() {
-    emit(const HomeState(status: HomeStatus.loaded));
+    emit(const HomeState(status: HomeStatus.loaded, preferencesReady: true));
   }
 }
 
@@ -24,7 +24,7 @@ void main() {
       ),
     );
     expect(find.text('Golden Moments'), findsOneWidget);
-    expect(find.text('Daily Packs'), findsOneWidget);
+    expect(find.text('Suggested packs'), findsOneWidget);
     expect(find.text('Library'), findsOneWidget);
     expect(tester.takeException(), isNull);
   });
