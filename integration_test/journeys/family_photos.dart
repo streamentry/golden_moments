@@ -11,6 +11,8 @@ Finder _options(String label) => find.bySemanticsLabel('Options for $label');
 
 /// Waits for the collection screen to show [count] photos and finish work.
 Future<void> _collectionShows(WidgetTester tester, int count) async {
+  // The page keeps its scroll position; the count sits near the top.
+  await reveal(tester, find.text('$count of 24 photos'));
   await waitFor(tester, find.text('$count of 24 photos'));
   await waitForAbsent(tester, _busy);
 }

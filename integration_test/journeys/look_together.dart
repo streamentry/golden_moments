@@ -50,9 +50,11 @@ Future<void> lookTogetherIncluded(
   // Hiding an included picture lasts for this visit only.
   await tapOn(tester, _hide);
   await waitFor(tester, find.text('This picture is hidden for now.'));
-  expect(find.text('Picture 1 of 5'), findsOneWidget);
+  // The view returns to the next picture, with the note above it.
   expect(find.bySemanticsLabel('Flower'), findsNothing);
   expect(find.bySemanticsLabel('Cup'), findsOneWidget);
+  await reveal(tester, find.text('Picture 1 of 5'));
+  expect(find.text('Picture 1 of 5'), findsOneWidget);
   await letTimePass(tester, const Duration(seconds: 2));
   expect(find.text('Picture 1 of 5'), findsOneWidget, reason: 'no slideshow');
   expectNoPressureCues(tester);

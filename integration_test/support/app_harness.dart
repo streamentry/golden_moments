@@ -156,6 +156,7 @@ Future<void> letTimePass(WidgetTester tester, Duration duration) async {
 /// Scrolls [finder] into view if needed, checks a person could actually
 /// touch it there, taps it and lets the result settle.
 Future<void> tapOn(WidgetTester tester, Finder finder) async {
+  await reveal(tester, finder);
   final target = finder.first;
   await tester.ensureVisible(target);
   await settle(tester);
@@ -211,5 +212,21 @@ Future<void> snap(WidgetTester tester, String name) async {
     debugPrint('Screenshot saved: $file');
   } on Object catch (error) {
     debugPrint('Screenshot $file skipped: ${error.runtimeType}');
+  }
+}
+
+/// Long pages build only what is near the screen, so a control far down (or
+/// back up) may not exist yet. Scroll the page the way a person would until
+/// [finder] is built: down first, then up.
+Future<void> reveal(WidgetTester tester, Finder finder) async {
+  if (finder.evaluate().isNotEmpty) return;
+  final page = find.byType(Scrollable);
+  if (page.evaluate().isEmpty) return;
+  for (final delta in [-300.0, 300.0]) {
+    for (var i = 0; i < 30 && finder.evaluate().isEmpty; i++) {
+      await tester.drag(page.first, Offset(0, delta));
+      await settle(tester);
+    }
+    if (finder.evaluate().isNotEmpty) return;
   }
 }

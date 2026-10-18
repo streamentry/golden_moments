@@ -93,6 +93,24 @@ void main() {
     }
   });
 
+  testWidgets('the finish reads the same at 200% text', (tester) async {
+    await _size(tester, const Size(390, 844));
+    await tester.pumpWidget(
+      _app(
+        const GentleGamePage(pictures: ActivityPicture.samples),
+        textScale: 2,
+      ),
+    );
+    await tester.pumpAndSettle();
+    await _finishBoard(tester);
+    await tester.scrollUntilVisible(
+      find.text('Play again or take a break.'),
+      200,
+    );
+    expect(find.text('All pairs together.'), findsOneWidget);
+    expect(find.text('Play again or take a break.'), findsOneWidget);
+  });
+
   testWidgets('GmButtonPair keeps labels whole and orders a stacked pair', (
     tester,
   ) async {

@@ -7,9 +7,9 @@ final Finder doneForNow = find.text('Done for now');
 final Finder resumePrompt = find.text('Pick up where you left off?');
 final Finder carryOn = find.text('Carry on');
 final Finder startFresh = find.text('Start fresh');
-final Finder gentleAllTogether = find.text(
-  'All pairs together. Play again or take a break.',
-);
+
+/// A finished board names the moment where the instruction was.
+final Finder gentleAllTogether = find.text('All pairs together.');
 final Finder playAgain = find.text('Play again');
 final Finder comfortSettingsButton = find.byTooltip('Comfort settings');
 

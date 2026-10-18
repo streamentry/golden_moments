@@ -408,10 +408,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
                         liveRegion: true,
                         child: Text(
                           board.complete
-                              ? instructionBelow
-                                    ? 'All pairs together. '
-                                          'Play again or take a break.'
-                                    : 'Play again or take a break.'
+                              ? 'Play again or take a break.'
                               : board.waitingForNextTurn
                               ? 'Take your time. Tap a picture to continue.'
                               : instructionBelow
@@ -441,6 +438,12 @@ class _GentleGamePageState extends State<GentleGamePage> {
                               ],
                               _grid(board, width, constraints.maxHeight * 0.8),
                               const SizedBox(height: gmSpaceMd),
+                              // At large text the finish is named below the
+                              // board, where the instruction went.
+                              if (instructionBelow && board.complete) ...[
+                                instruction,
+                                const SizedBox(height: gmSpaceSm),
+                              ],
                               status,
                             ],
                           ),
@@ -467,6 +470,10 @@ class _GentleGamePageState extends State<GentleGamePage> {
                               ),
                             ),
                             const SizedBox(height: gmSpaceMd),
+                            if (instructionBelow && board.complete) ...[
+                              instruction,
+                              const SizedBox(height: gmSpaceSm),
+                            ],
                             status,
                           ],
                         ),

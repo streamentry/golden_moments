@@ -59,10 +59,13 @@ class LegalInfoPage extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          OutlinedButton.icon(
-            onPressed: () => unawaited(_openExternal(context, url)),
-            icon: Icon(icon),
-            label: Text(label),
+          SizedBox(
+            width: double.infinity,
+            child: OutlinedButton.icon(
+              onPressed: () => unawaited(_openExternal(context, url)),
+              icon: Icon(icon),
+              label: Text(label),
+            ),
           ),
           const SizedBox(height: gmSpaceSm),
           Text(

@@ -517,21 +517,25 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                     label: const Text('Play with favorites'),
                   ),
                 ],
-                const SizedBox(height: gmSpaceMd),
-                OutlinedButton.icon(
-                  onPressed: _busy || playable.isEmpty
-                      ? null
-                      : () => Navigator.of(context).push(
-                          MaterialPageRoute<void>(
-                            builder: (_) => PhotoTogetherPage(
-                              pictures: playable,
-                              onHide: _hideFromViewing,
+                // Offered once there is something to look at, rather than
+                // shown greyed out, which can read as broken.
+                if (playable.isNotEmpty) ...[
+                  const SizedBox(height: gmSpaceMd),
+                  OutlinedButton.icon(
+                    onPressed: _busy
+                        ? null
+                        : () => Navigator.of(context).push(
+                            MaterialPageRoute<void>(
+                              builder: (_) => PhotoTogetherPage(
+                                pictures: playable,
+                                onHide: _hideFromViewing,
+                              ),
                             ),
                           ),
-                        ),
-                  icon: const Icon(Icons.chat_bubble_outline),
-                  label: const Text('Look at photos together'),
-                ),
+                    icon: const Icon(Icons.chat_bubble_outline),
+                    label: const Text('Look at photos together'),
+                  ),
+                ],
                 const SizedBox(height: gmSpaceLg),
                 // Cards grow with the text instead of shrinking it: one column
                 // at large text, otherwise as many 180+ wide cards as fit.

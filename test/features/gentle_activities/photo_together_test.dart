@@ -215,6 +215,57 @@ void main() {
     expect(tester.takeException(), isNull);
   });
 
+  testWidgets('after Next or Hide the new picture is back in view', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(320, 568));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    await tester.pumpWidget(
+      MaterialApp(
+        theme: gmBuildTheme(),
+        builder: (context, child) => MediaQuery(
+          data: MediaQuery.of(context)
+              .copyWith(textScaler: const TextScaler.linear(2)),
+          child: child!,
+        ),
+        home: const PhotoTogetherPage(pictures: _pictures),
+      ),
+    );
+    await tester.pumpAndSettle();
+    final list = find.byType(Scrollable);
+    bool inView(String label) {
+      final found = find.bySemanticsLabel(RegExp('^$label'));
+      // A picture scrolled far away is not even built: not in view.
+      if (found.evaluate().isEmpty) return false;
+      final rect = tester.getRect(found);
+      final view = tester.getRect(list);
+      return rect.top >= view.top - 1 && rect.top < view.bottom;
+    }
+
+    // Scroll down to the options, as a person at large text must.
+    await tester.scrollUntilVisible(find.text('Hide this picture'), 200);
+    expect(inView('Garden'), isFalse);
+    // On a cramped screen Next sits under the picture: scroll back to it.
+    await tester.scrollUntilVisible(find.text('Next'), -100);
+    await tester.ensureVisible(find.text('Next'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Next'));
+    await tester.pumpAndSettle();
+    expect(inView('Boat'), isTrue);
+
+    await tester.scrollUntilVisible(find.text('Hide this picture'), 200);
+    await tester.ensureVisible(find.text('Hide this picture'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Hide this picture'));
+    await tester.pumpAndSettle();
+    expect(inView('Tea'), isTrue);
+    // The confirmation is where the eye lands too.
+    expect(
+      find.text('This picture is hidden for now.').hitTestable(),
+      findsOneWidget,
+    );
+  });
+
   testWidgets('Done for now leaves at once', (tester) async {
     await _open(tester, _pictures);
     await _tap(tester, 'Done for now');
@@ -244,11 +295,22 @@ void main() {
       );
       await tester.pumpAndSettle();
       expect(tester.takeException(), isNull);
-      // The exit and the way forward never need scrolling to find.
-      for (final label in ['Done for now', 'Next', 'Previous']) {
+      // The exit never needs scrolling to find, and the picture is always
+      // in sight: it is the activity, so the controls must not crowd it out.
+      expect(find.text('Done for now').hitTestable(), findsOneWidget);
+      expect(
+        tester.getRect(find.text('Done for now')).bottom,
+        lessThanOrEqualTo(size.height),
+      );
+      final picture = tester.getRect(find.bySemanticsLabel(RegExp('^Garden')));
+      final top = tester.getRect(find.byType(Scrollable)).top;
+      expect(picture.top, greaterThanOrEqualTo(top - 1));
+      expect(picture.height, greaterThanOrEqualTo(gmTileMin));
+      // The way forward is either fixed in view or right under the picture.
+      for (final label in ['Next', 'Previous']) {
+        await tester.ensureVisible(find.text(label));
+        await tester.pumpAndSettle();
         expect(find.text(label).hitTestable(), findsOneWidget, reason: label);
-        final rect = tester.getRect(find.text(label));
-        expect(rect.bottom, lessThanOrEqualTo(size.height), reason: label);
       }
       for (final label in ['Done for now', 'Next']) {
         final button = find.ancestor(
