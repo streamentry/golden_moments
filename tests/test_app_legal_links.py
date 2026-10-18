@@ -19,7 +19,7 @@ class LegalLinksSourceTests(unittest.TestCase):
         self.assertIn("golden-moments-web/", page)
         self.assertIn("Clipboard.setData", page)
         self.assertIn("LaunchMode.externalApplication", page)
-        self.assertIn("without choosing any personal photographs", page)
+        self.assertIn("choosing any personal photographs.", page)
 
     def test_external_browsing_only_after_explicit_tap(self):
         page = (ROOT / "lib/features/legal/presentation/legal_info_page.dart").read_text()
@@ -31,7 +31,7 @@ class LegalLinksSourceTests(unittest.TestCase):
         pubspec = (ROOT / "pubspec.yaml").read_text()
         release = (ROOT / "docs/release/1.3.0.md").read_text()
         self.assertIn("url_launcher:", pubspec)
-        self.assertIn("data collection", release.lower())
+        self.assertIn("Data Not Collected", release)
         self.assertIn("Firebase", release)
         self.assertIn("not", release.lower())
         self.assertIn("legal review", release.lower())
