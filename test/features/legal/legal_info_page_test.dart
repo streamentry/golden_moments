@@ -11,9 +11,7 @@ void main() {
     addTearDown(tester.view.resetPhysicalSize);
     addTearDown(tester.view.resetDevicePixelRatio);
 
-    await tester.pumpWidget(
-      const MaterialApp(home: LegalInfoPage()),
-    );
+    await tester.pumpWidget(const MaterialApp(home: LegalInfoPage()));
 
     expect(find.text('Privacy and information'), findsOneWidget);
     expect(find.text('Your pictures, your choice'), findsOneWidget);

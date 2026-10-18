@@ -6,8 +6,7 @@ import 'package:golden_moments/design_system.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 // The project path is significant on GitHub Pages. Do not strip it.
-const _site = 'https://streamentry.github.io/'
-    'golden-moments-web/';
+const _site = 'https://streamentry.github.io/golden-moments-web/';
 const _appPrivacyUrl = '${_site}app-privacy/';
 const _privacyChoicesUrl = '${_site}privacy-choices/';
 const _termsUrl = '${_site}terms/';
@@ -112,7 +111,8 @@ class LegalInfoPage extends StatelessWidget {
                 _link(
                   context,
                   label: 'Mobile app privacy policy',
-                  description: 'What stays on your device, external '
+                  description:
+                      'What stays on your device, external '
                       'services, support email and data retention.',
                   url: _appPrivacyUrl,
                   icon: Icons.privacy_tip_outlined,
@@ -120,7 +120,8 @@ class LegalInfoPage extends StatelessWidget {
                 _link(
                   context,
                   label: 'Privacy choices and deletion',
-                  description: 'How to remove local copies without '
+                  description:
+                      'How to remove local copies without '
                       'removing originals, and manage device backups.',
                   url: _privacyChoicesUrl,
                   icon: Icons.delete_outline,
@@ -128,7 +129,8 @@ class LegalInfoPage extends StatelessWidget {
                 _link(
                   context,
                   label: 'Terms and app license',
-                  description: "Apple's standard end-user license applies "
+                  description:
+                      "Apple's standard end-user license applies "
                       'unless the App Store lists a different license.',
                   url: _termsUrl,
                   icon: Icons.description_outlined,
@@ -136,7 +138,8 @@ class LegalInfoPage extends StatelessWidget {
                 _link(
                   context,
                   label: 'Safety and intended use',
-                  description: 'These are recreational picture activities, '
+                  description:
+                      'These are recreational picture activities, '
                       'not diagnosis, treatment or cognitive assessment.',
                   url: _safetyUrl,
                   icon: Icons.info_outline,
@@ -144,7 +147,8 @@ class LegalInfoPage extends StatelessWidget {
                 _link(
                   context,
                   label: 'Contact support',
-                  description: 'Please avoid sending private family '
+                  description:
+                      'Please avoid sending private family '
                       'photographs or medical records to support.',
                   url: _supportUrl,
                   icon: Icons.help_outline,
