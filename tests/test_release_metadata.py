@@ -58,6 +58,17 @@ class MetadataTests(unittest.TestCase):
         for field, filename in module.EXPORTS.items():
             self.assertEqual((ROOT / 'metadata/en-US' / filename).read_text(), self.data[field] + '\n')
 
+    def test_google_play_copy_fits_and_matches_exports(self):
+        data = json.loads(module.GOOGLE_SOURCE.read_text())
+        for field, limit in {'name': 30, 'short_description': 80,
+                             'full_description': 4000, 'release_notes': 500}.items():
+            self.assertTrue(data[field].strip())
+            self.assertLessEqual(len(data[field]), limit)
+            self.assertEqual((ROOT / 'metadata/google-play/en-US' /
+                              (field + '.txt')).read_text(), data[field] + '\n')
+        self.assertEqual(data['name'], self.data['name'])
+        self.assertEqual(data['full_description'], self.data['description'])
+
 
 if __name__ == '__main__':
     unittest.main()
