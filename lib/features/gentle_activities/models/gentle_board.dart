@@ -20,6 +20,11 @@ class GentleBoard {
 
   bool get complete => _matched.length == cards.length;
   bool get waitingForNextTurn => _selected.length == 2;
+
+  /// True once the participant has made a choice on an unfinished board, so
+  /// starting over should be confirmed rather than silently discarding it.
+  bool get hasProgress =>
+      !complete && (_matched.isNotEmpty || _selected.isNotEmpty);
   bool isMatched(int index) => _matched.contains(index);
   bool isSelected(int index) => _selected.contains(index);
   bool isVisible(int index, {required bool keepVisible}) =>
