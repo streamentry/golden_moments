@@ -10,6 +10,7 @@ import 'package:golden_moments/features/gentle_activities/presentation/gentle_ga
 import 'package:golden_moments/features/gentle_activities/presentation/help_privacy_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
+import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
 
 /// Local activities remain usable even when the optional pack service is down.
@@ -104,6 +105,15 @@ class _GentleHomePageState extends State<GentleHomePage> {
                   child: const Text('More help and privacy'),
                 ),
                 const SizedBox(height: gmSpaceSm),
+                OutlinedButton.icon(
+                  onPressed: () {
+                    Navigator.pop(context);
+                    _open(const LegalInfoPage());
+                  },
+                  icon: const Icon(Icons.privacy_tip_outlined),
+                  label: const Text('Privacy, terms and support'),
+                ),
+                const SizedBox(height: gmSpaceMd),
                 FilledButton(
                   onPressed: () => Navigator.pop(context),
                   child: const Text('Close'),

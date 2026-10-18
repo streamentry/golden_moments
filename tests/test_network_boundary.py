@@ -83,7 +83,7 @@ class NetworkBoundaryTests(unittest.TestCase):
             with self.subTest(file=rel):
                 self.assertNotIn('Firebase', '\n'.join(code_lines(texts[rel])))
 
-    def test_hard_coded_urls_are_the_one_known_share_link(self):
+    def test_hard_coded_urls_are_known_user_initiated_links(self):
         found = set()
         for _, text in dart_files():
             for line in code_lines(text):
