@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
@@ -5,6 +6,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/data/gentle_session.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
+import 'package:golden_moments/features/gentle_activities/models/gentle_board.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -131,6 +133,59 @@ void main() {
     expect(await _saved('starter'), isNotNull);
   });
 
+  testWidgets('system back on the prompt chooses nothing and keeps the board', (
+    tester,
+  ) async {
+    await tester.pumpWidget(_app());
+    await tester.pumpAndSettle();
+    await tester.tap(_tiles.first);
+    await tester.pumpAndSettle();
+    final saved = await _saved('starter');
+    expect(saved, isNotNull);
+
+    await _relaunch(tester);
+    expect(find.text('Pick up where you left off?'), findsOneWidget);
+    await tester.binding.handlePopRoute();
+    await tester.pumpAndSettle();
+    expect(find.text('Pick up where you left off?'), findsNothing);
+    // Nothing was chosen, so nothing was deleted.
+    expect(await _saved('starter'), saved);
+    // And the activity is usable with a fresh board.
+    expect(_tiles, findsNWidgets(4));
+    expect(tester.getSemantics(_tiles.first).value, isNot('Selected'));
+  });
+
+  testWidgets('a tap before the prompt cannot overwrite the saved board', (
+    tester,
+  ) async {
+    final board = GentleSession.fromBoard(
+      GentleBoard.tryRestore(
+        cards: const ['flower', 'cup', 'flower', 'cup'],
+        matched: const [],
+        selected: const [0],
+      )!,
+    );
+    final store = _SlowStore(board);
+    await tester.pumpWidget(
+      MaterialApp(
+        theme: gmBuildTheme(),
+        home: GentleGamePage(
+          pictures: ActivityPicture.samples,
+          sessionStore: store,
+        ),
+      ),
+    );
+    await tester.pump();
+    // The saved session has not loaded yet; the person taps a tile.
+    await tester.tap(_tiles.first);
+    await tester.pump();
+    store.release();
+    await tester.pumpAndSettle();
+    expect(store.saves, 0);
+    expect(store.clears, 0);
+    expect(store.stored, board);
+  });
+
   testWidgets('a deleted photo or odd record starts fresh without a prompt', (
     tester,
   ) async {
@@ -197,4 +252,31 @@ void main() {
     await tester.pumpAndSettle();
     expect(tester.takeException(), isNull);
   });
+}
+
+/// A session store whose load waits, to model a tap that beats the prompt.
+class _SlowStore extends GentleSessionStore {
+  new(this.stored);
+  GentleSession stored;
+  final _gate = Completer<void>();
+  int saves = 0;
+  int clears = 0;
+
+  void release() => _gate.complete();
+
+  @override
+  Future<GentleSession?> load(String sourceKey) async {
+    await _gate.future;
+    return stored;
+  }
+
+  @override
+  Future<bool> save(String sourceKey, GentleSession session) async {
+    saves++;
+    stored = session;
+    return true;
+  }
+
+  @override
+  Future<void> clear(String sourceKey) async => clears++;
 }

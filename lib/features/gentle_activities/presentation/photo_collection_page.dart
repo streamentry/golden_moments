@@ -224,6 +224,73 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     }
   }
 
+  Widget _photoCard(ActivityPicture picture, ColorScheme scheme) {
+    final favorite = _isFavorite(picture.id);
+    final hidden = _isHidden(picture.id);
+    return Card(
+      elevation: 0,
+      shape: gmTileShape(scheme),
+      clipBehavior: Clip.antiAlias,
+      child: Column(
+        children: [
+          Padding(
+            padding: const EdgeInsets.all(gmSpaceSm),
+            child: AspectRatio(
+              aspectRatio: 1,
+              child: Semantics(
+                label: [
+                  picture.label,
+                  if (picture.description.isNotEmpty) picture.description,
+                ].join('. '),
+                child: Opacity(
+                  opacity: hidden ? 0.45 : 1,
+                  child: PictureView(picture: picture),
+                ),
+              ),
+            ),
+          ),
+          // Words as well as icons: state is never colour or an icon alone.
+          if (favorite || hidden)
+            Padding(
+              padding: const EdgeInsets.symmetric(horizontal: gmSpaceSm),
+              child: Wrap(
+                spacing: gmSpaceMd,
+                crossAxisAlignment: WrapCrossAlignment.center,
+                children: [
+                  if (favorite)
+                    const Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Icon(Icons.star, size: 20),
+                        SizedBox(width: gmSpaceXs),
+                        Text('Favorite'),
+                      ],
+                    ),
+                  if (hidden)
+                    const Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Icon(Icons.visibility_off, size: 20),
+                        SizedBox(width: gmSpaceXs),
+                        Text('Hidden'),
+                      ],
+                    ),
+                ],
+              ),
+            ),
+          TextButton.icon(
+            onPressed: _busy ? null : () => _editPhoto(picture),
+            icon: const Icon(Icons.tune),
+            label: Text(
+              'Photo options',
+              semanticsLabel: 'Options for ${picture.label}',
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
   Future<void> _editPhoto(ActivityPicture picture) async {
     if (_busy || _annotations == null) return;
     final result = await showModalBottomSheet<_PhotoOptionsResult>(
@@ -389,89 +456,31 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                   label: const Text('Look at photos together'),
                 ),
                 const SizedBox(height: gmSpaceLg),
-                GridView.builder(
-                  shrinkWrap: true,
-                  physics: const NeverScrollableScrollPhysics(),
-                  itemCount: pictures.length,
-                  gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
-                    maxCrossAxisExtent: 240,
-                    childAspectRatio: 0.68,
-                    crossAxisSpacing: gmTileGap,
-                    mainAxisSpacing: gmTileGap,
-                  ),
-                  itemBuilder: (context, index) {
-                    final picture = pictures[index];
-                    final favorite = _isFavorite(picture.id);
-                    final hidden = _isHidden(picture.id);
-                    return Card(
-                      elevation: 0,
-                      shape: gmTileShape(scheme),
-                      clipBehavior: Clip.antiAlias,
-                      child: Column(
-                        children: [
-                          Expanded(
-                            child: Padding(
-                              padding: const EdgeInsets.all(gmSpaceSm),
-                              child: Semantics(
-                                label: [
-                                  picture.label,
-                                  if (picture.description.isNotEmpty)
-                                    picture.description,
-                                ].join('. '),
-                                child: Opacity(
-                                  opacity: hidden ? 0.45 : 1,
-                                  child: PictureView(picture: picture),
-                                ),
-                              ),
-                            ),
+                // Cards grow with the text instead of shrinking it: one column
+                // at large text, otherwise as many 180+ wide cards as fit.
+                LayoutBuilder(
+                  builder: (context, constraints) {
+                    final largeText =
+                        MediaQuery.textScalerOf(context).scale(16) / 16 > 1.5;
+                    final columns = largeText
+                        ? 1
+                        : ((constraints.maxWidth + gmTileGap) /
+                                  (180 + gmTileGap))
+                              .floor()
+                              .clamp(1, 3);
+                    final width =
+                        (constraints.maxWidth - gmTileGap * (columns - 1)) /
+                        columns;
+                    return Wrap(
+                      spacing: gmTileGap,
+                      runSpacing: gmTileGap,
+                      children: [
+                        for (final picture in pictures)
+                          SizedBox(
+                            width: width,
+                            child: _photoCard(picture, scheme),
                           ),
-                          // Words as well as icons: state is never colour or
-                          // an icon alone.
-                          if (favorite || hidden)
-                            Padding(
-                              padding: const EdgeInsets.symmetric(
-                                horizontal: gmSpaceSm,
-                              ),
-                              child: FittedBox(
-                                fit: BoxFit.scaleDown,
-                                child: Row(
-                                  children: [
-                                    if (favorite) ...[
-                                      const Icon(Icons.star, size: 20),
-                                      const SizedBox(width: gmSpaceXs),
-                                      const Text('Favorite'),
-                                    ],
-                                    if (favorite && hidden)
-                                      const SizedBox(width: gmSpaceMd),
-                                    if (hidden) ...[
-                                      const Icon(
-                                        Icons.visibility_off,
-                                        size: 20,
-                                      ),
-                                      const SizedBox(width: gmSpaceXs),
-                                      const Text('Hidden'),
-                                    ],
-                                  ],
-                                ),
-                              ),
-                            ),
-                          // Scales down rather than overflowing a narrow card
-                          // at very large text sizes.
-                          FittedBox(
-                            fit: BoxFit.scaleDown,
-                            child: TextButton.icon(
-                              onPressed: _busy
-                                  ? null
-                                  : () => _editPhoto(picture),
-                              icon: const Icon(Icons.tune),
-                              label: Text(
-                                'Photo options',
-                                semanticsLabel: 'Options for ${picture.label}',
-                              ),
-                            ),
-                          ),
-                        ],
-                      ),
+                      ],
                     );
                   },
                 ),

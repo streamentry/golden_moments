@@ -37,6 +37,11 @@ class _GentleGamePageState extends State<GentleGamePage> {
   bool _invite = false;
   bool _shared = false;
 
+  /// False until a saved board has been offered (or ruled out). Until then
+  /// taps are not saved, so an earlier unfinished board is never overwritten
+  /// before the person has been asked about it.
+  bool _resumeSettled = false;
+
   /// Largest comfortable size no bigger than the pictures available.
   int get _pairs {
     final fits = GentlePreferences.pairChoices.where(
@@ -70,7 +75,11 @@ class _GentleGamePageState extends State<GentleGamePage> {
         _start();
       });
     }
-    await _offerResume();
+    try {
+      await _offerResume();
+    } finally {
+      _resumeSettled = true;
+    }
   }
 
   bool get _untouched {
@@ -119,14 +128,17 @@ class _GentleGamePageState extends State<GentleGamePage> {
         _settleInvitation();
         setState(() => _board = restored);
       }
-    } else {
+    } else if (resume == false) {
       await widget.sessionStore.clear(widget.sessionKey);
     }
+    // Dismissed with system back (null): nothing was chosen, so the saved
+    // board stays until a deliberate choice or the next move replaces it.
   }
 
   /// Saves the unfinished board; a finished or empty board leaves nothing to
   /// resume. Never awaited by play, and failures are harmless.
   void _persist() {
+    if (!_resumeSettled) return;
     final board = _board;
     if (board == null || board.complete || !board.hasProgress) {
       unawaited(widget.sessionStore.clear(widget.sessionKey));

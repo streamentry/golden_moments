@@ -94,6 +94,12 @@ class NetworkBoundaryTests(unittest.TestCase):
         }
         self.assertEqual(leaks, {})
 
+    def test_only_the_navigation_cubit_touches_the_download_manager_singleton(self):
+        users = {rel for rel, text in dart_files()
+                 if not in_island(rel)
+                 and re.search(r'\bDownloadManager\b', '\n'.join(code_lines(text)))}
+        self.assertEqual(users, {'lib/app/cubit/navigation_cubit.dart'})
+
     def test_downloads_are_only_started_inside_the_legacy_island(self):
         starters = {rel for rel, text in dart_files()
                     if re.search(r'\.downloadPack\(|downloadInitialPacks\(',

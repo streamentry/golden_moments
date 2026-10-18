@@ -136,6 +136,27 @@ void main() {
       expect((await store.load())[_a]!.favorite, isTrue);
     });
 
+    test(
+      'a second unreadable sidecar never overwrites the first backup',
+      () async {
+        await sidecar().writeAsString('first bad');
+        await store.update(_a, const PhotoAnnotation(favorite: true));
+        await sidecar().writeAsString('{"version": 2, "photos": {}}');
+        await store.update(_a, const PhotoAnnotation(caption: 'x'));
+        expect(
+          File('${directory.path}/annotations.json.unreadable')
+              .readAsStringSync(),
+          'first bad',
+        );
+        expect(
+          File('${directory.path}/annotations.json.unreadable.1')
+              .readAsStringSync(),
+          contains('"version": 2'),
+        );
+        expect((await store.load())[_a]!.caption, 'x');
+      },
+    );
+
     test('an annotations file never touches the photo collection', () async {
       final manifest = File('${directory.path}/collection.json');
       await manifest.writeAsString('{"version":1,"photos":[]}');

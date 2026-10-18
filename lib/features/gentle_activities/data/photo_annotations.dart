@@ -144,9 +144,14 @@ class PhotoAnnotationStore {
 
   Future<void> _write(Map<String, PhotoAnnotation> notes) async {
     await directory.create(recursive: true);
-    // Keep an unreadable file aside once instead of silently destroying it.
+    // Keep an unreadable file aside instead of silently destroying it.
     if (_file.existsSync() && !await _isReadable()) {
-      await _file.rename('${directory.path}/annotations.json.unreadable');
+      // Never overwrite an earlier backup: use the first free name.
+      var aside = File('${directory.path}/annotations.json.unreadable');
+      for (var n = 1; aside.existsSync(); n++) {
+        aside = File('${directory.path}/annotations.json.unreadable.$n');
+      }
+      await _file.rename(aside.path);
     }
     final temporary = File('${directory.path}/annotations.json.tmp');
     await temporary.writeAsString(

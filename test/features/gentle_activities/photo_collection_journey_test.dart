@@ -201,6 +201,48 @@ void main() {
     expect(find.text('Done for now'), findsOneWidget);
   });
 
+  testWidgets('photo cards grow with 200% text instead of shrinking it', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(320, 3200));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    final importer = _FakeImporter([
+      [1, 2],
+    ]);
+    Widget big() => MaterialApp(
+      theme: gmBuildTheme(),
+      builder: (context, child) => MediaQuery(
+        data: MediaQuery.of(context)
+            .copyWith(textScaler: const TextScaler.linear(2)),
+        child: child!,
+      ),
+      home: PhotoCollectionPage(
+        directoryProvider: () async => directory,
+        importer: importer,
+      ),
+    );
+    await tester.pumpWidget(big());
+    await _settle(tester);
+    final choose = find.text('Choose photos');
+    await tester.tap(choose);
+    await _settle(tester);
+
+    final options = find.textContaining('Photo options');
+    expect(options, findsNWidgets(2));
+    // Real size, never scaled down: no FittedBox around the label, and the
+    // button keeps the 48 point floor.
+    expect(
+      find.ancestor(of: options.first, matching: find.byType(FittedBox)),
+      findsNothing,
+    );
+    final button = find.ancestor(
+      of: options.first,
+      matching: find.byType(TextButton),
+    );
+    expect(tester.getSize(button.first).height, greaterThanOrEqualTo(48));
+    expect(tester.takeException(), isNull);
+  });
+
   testWidgets('a failed import leaves the collection and says what to do', (
     tester,
   ) async {
