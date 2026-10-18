@@ -6,6 +6,7 @@ import 'dart:typed_data';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/data/family_photo_store.dart';
+import 'package:golden_moments/features/gentle_activities/data/photo_annotations.dart';
 import 'package:golden_moments/features/gentle_activities/data/photo_importer.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
@@ -14,28 +15,59 @@ import 'package:golden_moments/features/gentle_activities/presentation/picture_v
 import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
 
+Future<Directory> _supportDirectory() async {
+  final root = await getApplicationSupportDirectory();
+  return Directory('${root.path}/family_photos_v1');
+}
+
 class PhotoCollectionPage extends StatefulWidget {
-  const new({super.key});
+  /// The directory and importer can be replaced so the whole journey (choose,
+  /// personalize, play, delete) runs in tests without a real photo picker.
+  const new({
+    this.directoryProvider = _supportDirectory,
+    this.importer,
+    super.key,
+  });
+
+  final Future<Directory> Function() directoryProvider;
+  final PhotoImporter? importer;
 
   @override
   State<PhotoCollectionPage> createState() => _PhotoCollectionPageState();
 }
 
 class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
-  final _importer = PhotoImporter();
+  late final PhotoImporter _importer = widget.importer ?? PhotoImporter();
   FamilyPhotoStore? _store;
+  PhotoAnnotationStore? _annotations;
+  Map<String, PhotoAnnotation> _notes = {};
   List<String> _ids = [];
   bool _busy = true;
   String? _error;
 
-  List<ActivityPicture> get _pictures => [
-    for (var i = 0; i < _ids.length; i++)
-      ActivityPicture(
-        id: _ids[i],
-        label: 'Family photo ${i + 1}',
-        path: _store!.fileFor(_ids[i]).path,
-      ),
-  ];
+  bool _isFavorite(String id) => _notes[id]?.favorite ?? false;
+  bool _isHidden(String id) => _notes[id]?.hidden ?? false;
+
+  /// Favorites come first so an enjoyed picture is easy to find. Hidden
+  /// pictures stay in the collection; activities skip them.
+  List<ActivityPicture> get _pictures {
+    final ordered = [
+      ..._ids.where(_isFavorite),
+      ..._ids.where((id) => !_isFavorite(id)),
+    ];
+    return [
+      for (var i = 0; i < ordered.length; i++)
+        ActivityPicture(
+          id: ordered[i],
+          label: (_notes[ordered[i]]?.caption ?? '').isEmpty
+              ? 'Family photo ${i + 1}'
+              : _notes[ordered[i]]!.caption,
+          caption: _notes[ordered[i]]?.caption ?? '',
+          description: _notes[ordered[i]]?.description ?? '',
+          path: _store!.fileFor(ordered[i]).path,
+        ),
+    ];
+  }
 
   @override
   void initState() {
@@ -48,6 +80,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     return await showDialog<bool>(
           context: context,
           builder: (context) => AlertDialog(
+            scrollable: true,
             title: Text(title),
             content: Text(message),
             actions: [
@@ -71,14 +104,17 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
       _error = null;
     });
     try {
-      final root = await getApplicationSupportDirectory();
-      final store = FamilyPhotoStore(
-        Directory('${root.path}/family_photos_v1'),
-      );
+      final directory = await widget.directoryProvider();
+      final store = FamilyPhotoStore(directory);
       final ids = await store.load();
+      // Optional details never block the photos; stale ones are dropped.
+      final annotations = PhotoAnnotationStore(directory);
+      final notes = await annotations.keepOnly(ids.toSet());
       if (!mounted) return;
       setState(() {
         _store = store;
+        _annotations = annotations;
+        _notes = notes;
         _ids = ids;
       });
       if (recover) {
@@ -169,7 +205,13 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     } finally {
       try {
         final ids = await _store!.load();
-        if (mounted) setState(() => _ids = ids);
+        final notes = await _annotations!.keepOnly(ids.toSet());
+        if (mounted) {
+          setState(() {
+            _ids = ids;
+            _notes = notes;
+          });
+        }
       } on Object catch (_) {
         if (mounted) {
           setState(
@@ -182,14 +224,53 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     }
   }
 
+  Future<void> _editPhoto(ActivityPicture picture) async {
+    if (_busy || _annotations == null) return;
+    final result = await showModalBottomSheet<_PhotoOptionsResult>(
+      context: context,
+      isScrollControlled: true,
+      builder: (context) => _PhotoOptionsSheet(
+        picture: picture,
+        note: _notes[picture.id] ?? const PhotoAnnotation(),
+      ),
+    );
+    if (result == null || !mounted) return;
+    if (result.remove) {
+      await _delete(id: picture.id);
+      return;
+    }
+    try {
+      final notes = await _annotations!.update(picture.id, result.note!);
+      if (mounted) {
+        setState(() {
+          _notes = notes;
+          _error = null;
+        });
+      }
+    } on Object catch (_) {
+      if (mounted) {
+        setState(
+          () => _error =
+              'Could not save these details. Your photos have not been '
+              'changed. Please try again.',
+        );
+      }
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     final pictures = _store == null ? <ActivityPicture>[] : _pictures;
+    final playable = [
+      for (final picture in pictures)
+        if (!_isHidden(picture.id)) picture,
+    ];
+    final hiddenCount = pictures.length - playable.length;
     final theme = Theme.of(context);
     final scheme = theme.colorScheme;
     // One filled button per screen: adding photos until a game is possible,
     // then playing.
-    final canPlay = pictures.length >= 2;
+    final canPlay = playable.length >= 2;
     final onChoose =
         _busy || _store == null || _ids.length >= FamilyPhotoStore.maxPhotos
         ? null
@@ -201,7 +282,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
         : () => Navigator.of(context).push(
             MaterialPageRoute<void>(
               builder: (_) =>
-                  GentleGamePage(pictures: pictures, sessionKey: 'family'),
+                  GentleGamePage(pictures: playable, sessionKey: 'family'),
             ),
           );
     return Scaffold(
@@ -286,19 +367,22 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                   )
                 else
                   Text(
-                    'Add at least two photos to make a matching game.',
+                    hiddenCount > 0
+                        ? 'Show at least two photos to make a matching game. '
+                              '$hiddenCount hidden.'
+                        : 'Add at least two photos to make a matching game.',
                     style: theme.textTheme.bodyMedium?.copyWith(
                       color: scheme.onSurfaceVariant,
                     ),
                   ),
                 const SizedBox(height: gmSpaceMd),
                 OutlinedButton.icon(
-                  onPressed: _busy || pictures.isEmpty
+                  onPressed: _busy || playable.isEmpty
                       ? null
                       : () => Navigator.of(context).push(
                           MaterialPageRoute<void>(
                             builder: (_) =>
-                                PhotoTogetherPage(pictures: pictures),
+                                PhotoTogetherPage(pictures: playable),
                           ),
                         ),
                   icon: const Icon(Icons.chat_bubble_outline),
@@ -311,43 +395,85 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                   itemCount: pictures.length,
                   gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
                     maxCrossAxisExtent: 240,
-                    childAspectRatio: 0.8,
+                    childAspectRatio: 0.68,
                     crossAxisSpacing: gmTileGap,
                     mainAxisSpacing: gmTileGap,
                   ),
-                  itemBuilder: (context, index) => Card(
-                    elevation: 0,
-                    shape: gmTileShape(scheme),
-                    clipBehavior: Clip.antiAlias,
-                    child: Column(
-                      children: [
-                        Expanded(
-                          child: Padding(
-                            padding: const EdgeInsets.all(gmSpaceSm),
-                            child: Semantics(
-                              label: pictures[index].label,
-                              child: PictureView(picture: pictures[index]),
+                  itemBuilder: (context, index) {
+                    final picture = pictures[index];
+                    final favorite = _isFavorite(picture.id);
+                    final hidden = _isHidden(picture.id);
+                    return Card(
+                      elevation: 0,
+                      shape: gmTileShape(scheme),
+                      clipBehavior: Clip.antiAlias,
+                      child: Column(
+                        children: [
+                          Expanded(
+                            child: Padding(
+                              padding: const EdgeInsets.all(gmSpaceSm),
+                              child: Semantics(
+                                label: [
+                                  picture.label,
+                                  if (picture.description.isNotEmpty)
+                                    picture.description,
+                                ].join('. '),
+                                child: Opacity(
+                                  opacity: hidden ? 0.45 : 1,
+                                  child: PictureView(picture: picture),
+                                ),
+                              ),
                             ),
                           ),
-                        ),
-                        // Scales down rather than overflowing a narrow card at
-                        // very large text sizes.
-                        FittedBox(
-                          fit: BoxFit.scaleDown,
-                          child: TextButton.icon(
-                            onPressed: _busy
-                                ? null
-                                : () => _delete(id: pictures[index].id),
-                            icon: const Icon(Icons.delete_outline),
-                            label: Text(
-                              'Remove',
-                              semanticsLabel: 'Remove photo ${index + 1}',
+                          // Words as well as icons: state is never colour or
+                          // an icon alone.
+                          if (favorite || hidden)
+                            Padding(
+                              padding: const EdgeInsets.symmetric(
+                                horizontal: gmSpaceSm,
+                              ),
+                              child: FittedBox(
+                                fit: BoxFit.scaleDown,
+                                child: Row(
+                                  children: [
+                                    if (favorite) ...[
+                                      const Icon(Icons.star, size: 20),
+                                      const SizedBox(width: gmSpaceXs),
+                                      const Text('Favorite'),
+                                    ],
+                                    if (favorite && hidden)
+                                      const SizedBox(width: gmSpaceMd),
+                                    if (hidden) ...[
+                                      const Icon(
+                                        Icons.visibility_off,
+                                        size: 20,
+                                      ),
+                                      const SizedBox(width: gmSpaceXs),
+                                      const Text('Hidden'),
+                                    ],
+                                  ],
+                                ),
+                              ),
+                            ),
+                          // Scales down rather than overflowing a narrow card
+                          // at very large text sizes.
+                          FittedBox(
+                            fit: BoxFit.scaleDown,
+                            child: TextButton.icon(
+                              onPressed: _busy
+                                  ? null
+                                  : () => _editPhoto(picture),
+                              icon: const Icon(Icons.tune),
+                              label: Text(
+                                'Photo options',
+                                semanticsLabel: 'Options for ${picture.label}',
+                              ),
                             ),
                           ),
-                        ),
-                      ],
-                    ),
-                  ),
+                        ],
+                      ),
+                    );
+                  },
                 ),
                 if (_ids.isNotEmpty) ...[
                   const SizedBox(height: gmSpaceMd),
@@ -361,6 +487,143 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
               ],
             ),
           ),
+        ),
+      ),
+    );
+  }
+}
+
+class _PhotoOptionsResult {
+  const new save(PhotoAnnotation this.note) : remove = false;
+  const new remove() : note = null, remove = true;
+  final PhotoAnnotation? note;
+  final bool remove;
+}
+
+/// Everything here is optional. Hiding keeps the copy and is undone by turning
+/// the switch off; removing deletes the app's copy and is a separate action.
+class _PhotoOptionsSheet extends StatefulWidget {
+  const new({required this.picture, required this.note});
+  final ActivityPicture picture;
+  final PhotoAnnotation note;
+
+  @override
+  State<_PhotoOptionsSheet> createState() => _PhotoOptionsSheetState();
+}
+
+class _PhotoOptionsSheetState extends State<_PhotoOptionsSheet> {
+  late final _caption = TextEditingController(text: widget.note.caption);
+  late final _description = TextEditingController(
+    text: widget.note.description,
+  );
+  late bool _favorite = widget.note.favorite;
+  late bool _hidden = widget.note.hidden;
+
+  @override
+  void dispose() {
+    _caption.dispose();
+    _description.dispose();
+    super.dispose();
+  }
+
+  void _save() {
+    Navigator.pop(
+      context,
+      _PhotoOptionsResult.save(
+        PhotoAnnotation(
+          caption: PhotoAnnotation.normalizeText(
+            _caption.text,
+            PhotoAnnotation.maxCaption,
+          ),
+          description: PhotoAnnotation.normalizeText(
+            _description.text,
+            PhotoAnnotation.maxDescription,
+          ),
+          favorite: _favorite,
+          hidden: _hidden,
+        ),
+      ),
+    );
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    return SafeArea(
+      child: SingleChildScrollView(
+        padding: EdgeInsets.fromLTRB(
+          gmSpaceLg,
+          0,
+          gmSpaceLg,
+          gmSpaceLg + MediaQuery.viewInsetsOf(context).bottom,
+        ),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Text('Photo options', style: theme.textTheme.headlineSmall),
+            const SizedBox(height: gmSpaceSm),
+            Text(
+              'All of this is optional and stays on this device.',
+              style: theme.textTheme.bodyMedium?.copyWith(
+                color: theme.colorScheme.onSurfaceVariant,
+              ),
+            ),
+            const SizedBox(height: gmSpaceMd),
+            TextField(
+              controller: _caption,
+              maxLength: PhotoAnnotation.maxCaption,
+              textCapitalization: TextCapitalization.sentences,
+              decoration: const InputDecoration(
+                labelText: 'Caption (optional)',
+                helperText: 'Shown only when you choose to show captions.',
+              ),
+            ),
+            const SizedBox(height: gmSpaceSm),
+            TextField(
+              controller: _description,
+              maxLength: PhotoAnnotation.maxDescription,
+              maxLines: 3,
+              textCapitalization: TextCapitalization.sentences,
+              decoration: const InputDecoration(
+                labelText: 'Description for screen readers (optional)',
+                helperText: 'Read aloud while the picture is showing.',
+              ),
+            ),
+            SwitchListTile(
+              contentPadding: EdgeInsets.zero,
+              title: const Text('Favorite'),
+              subtitle: const Text('Shows this photo first.'),
+              value: _favorite,
+              onChanged: (value) => setState(() => _favorite = value),
+            ),
+            SwitchListTile(
+              contentPadding: EdgeInsets.zero,
+              title: const Text('Hide from activities'),
+              subtitle: const Text(
+                'Keeps the copy on this device. Turn off to bring it back.',
+              ),
+              value: _hidden,
+              onChanged: (value) => setState(() => _hidden = value),
+            ),
+            const SizedBox(height: gmSpaceSm),
+            FilledButton(onPressed: _save, child: const Text('Save')),
+            const SizedBox(height: gmSpaceSm),
+            OutlinedButton(
+              onPressed: () => Navigator.pop(context),
+              child: const Text('Cancel'),
+            ),
+            const SizedBox(height: gmSpaceSm),
+            TextButton.icon(
+              style: TextButton.styleFrom(
+                foregroundColor: theme.colorScheme.error,
+              ),
+              onPressed: () =>
+                  Navigator.pop(context, const _PhotoOptionsResult.remove()),
+              icon: const Icon(Icons.delete_outline),
+              label: const Text('Remove this copy'),
+            ),
+          ],
         ),
       ),
     );

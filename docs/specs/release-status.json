@@ -171,6 +171,35 @@
           "lib/features/gentle_activities/presentation/gentle_game_page.dart",
           "test/features/gentle_activities/gentle_ui_test.dart"
         ]
+      },
+      "GM-018": {
+        "status": "partial",
+        "scope": "Pre-existing explicit-picker import and storage limits are unchanged. New journey tests cover choose, a failed or out-of-space import leaving the collection intact with a safe message, a damaged optional sidecar not affecting photos, and restart, using a fake picker and real storage. HEIC, cloud-only originals, partial access, Android recovery and real low-storage device checks remain pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/photo_collection_page.dart",
+          "test/features/gentle_activities/photo_annotations_test.dart",
+          "test/features/gentle_activities/photo_collection_journey_test.dart"
+        ]
+      },
+      "GM-019": {
+        "status": "implemented_unverified",
+        "scope": "Optional caption (60) and screen-reader description (280) per family photo in a versioned additive sidecar (annotations.json) keyed by existing photo ids; text is normalized (control/direction characters removed, length capped) and treated as inert data; an unreadable sidecar is kept aside and never invalidates photos; deleting a copy removes its entry. Captions show in Look together only when 'Show captions' is on; hidden game tiles never expose captions or descriptions. Not covered: screen-reader device checks, in-game caption display (intentionally none).",
+        "evidence": [
+          "lib/features/gentle_activities/data/photo_annotations.dart",
+          "lib/features/gentle_activities/presentation/photo_collection_page.dart",
+          "test/features/gentle_activities/photo_annotations_test.dart",
+          "test/features/gentle_activities/photo_collection_journey_test.dart"
+        ]
+      },
+      "GM-020": {
+        "status": "partial",
+        "scope": "Family photos only: Favorite sorts a photo first; Hide excludes it from the game and Look together without deleting the copy, is shown with the word 'Hidden', persists and is undone by turning the switch off (no countdown); Remove is a separate confirmed action. Fewer than two visible photos disables the game with an explanation and never silently unhides. Included packs, replay and interest filters are not covered.",
+        "evidence": [
+          "lib/features/gentle_activities/data/photo_annotations.dart",
+          "lib/features/gentle_activities/presentation/photo_collection_page.dart",
+          "test/features/gentle_activities/photo_annotations_test.dart",
+          "test/features/gentle_activities/photo_collection_journey_test.dart"
+        ]
       }
     }
   }
