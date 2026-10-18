@@ -21,7 +21,7 @@ Test: migration fixtures, process interruption at each mutation boundary, concur
 
 Acceptance:
 - Installed starter/catalog/local-copy use makes no app-controlled network request. No account, AI processing, photo upload, hidden diagnostics endpoint or new advertising/analytics SDK.
-- Audit linked packages, native initializers, manifests, persisted collection settings and runtime traffic. Firebase dependencies being present or inactive do not alone prove what a binary transmits.
+- Audit linked packages, native initializers, manifests, persisted collection settings and runtime traffic. Firebase was removed; source and manifests do not alone prove what a binary transmits.
 - Distinguish app traffic from OS photo retrieval, device backups, store delivery and explicitly initiated support/purchase transport. Do not claim that iCloud-only originals are available offline before import.
 - Local descriptions and preferences are not diagnoses. Do not collect or derive disease stage, cognition, medication or health outcomes from taps.
 - A privacy policy and App Privacy answers must match observed behavior. Removing or changing existing SDKs needs dependency/native regression review, not just deleting imports.

@@ -30,7 +30,7 @@ Bundle IDs, pack/image IDs, field names, preferences and existing download locat
 
 ## Privacy and no-sync boundary
 
-Firebase dependencies remain. Mobile Analytics is deactivated and automatic Crashlytics reporting disabled in native configuration. Audit native initializers, persisted settings, linked SDKs and traffic before asserting no tracking/no collection. PR #47 also removed browser Firebase/CDN startup; the older description of an optional browser initialization path is superseded. Browser and native privacy evidence must still be recorded separately.
+Firebase was removed (analytics, crash reporting and core, with their native configuration). Audit linked SDKs, native initializers and traffic in a native build before asserting no tracking/no collection; the stale iOS `Podfile.lock` and SwiftPM `Package.resolved` still pin Firebase until regenerated on a Mac. PR #47 also removed browser Firebase/CDN startup. Browser and native privacy evidence must still be recorded separately.
 
 Photos are snapshots, not watched originals. Device backup may contain copies. No CloudKit sharing, family sync, live-link service or automatic revocation. Deck-file exchange remains deferred.
 
@@ -38,4 +38,4 @@ Photos are snapshots, not watched originals. Device backup may contain copies. N
 
 [Senior-first photo requirements](senior-first/personal-photos.md) specify optional descriptions, favorites, and conditional albums/file exchange. [Reliability requirements](senior-first/reliability-privacy.md) specify migration and failure acceptance. These do not alter the current manifest or quotas. Any future sidecar/schema migration needs a separate implementation and preservation tests. File sharing requires archive limits, traversal/decompression protection and recipient preview before approval.
 
-References: [image_picker](https://pub.dev/packages/image_picker/versions/1.2.4), [Analytics controls](https://firebase.google.com/docs/analytics/configure-data-collection), [Crashlytics controls](https://firebase.google.com/docs/crashlytics/customize-crash-reports).
+References: [image_picker](https://pub.dev/packages/image_picker/versions/1.2.4).

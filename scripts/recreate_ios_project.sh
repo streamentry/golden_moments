@@ -23,7 +23,7 @@ flutter pub get
 
 # Set iOS version in Podfile
 echo "   Setting iOS version in Podfile..."
-# Manually set iOS 15.0 for Firebase compatibility
+# Manually set iOS 15.0 (kept from the Firebase era)
 sed -i '' 's/# platform :ios, '\''12.0'\''/platform :ios, '\''15.0'\''/g' ios/Podfile || echo "   Manual Podfile update needed for iOS 15.0"
 
 cd ios

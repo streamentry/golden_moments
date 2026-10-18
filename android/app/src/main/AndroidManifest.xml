@@ -5,7 +5,5 @@
             <intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter>
         </activity>
         <meta-data android:name="flutterEmbedding" android:value="2" />
-        <meta-data android:name="firebase_analytics_collection_deactivated" android:value="true" />
-        <meta-data android:name="firebase_crashlytics_collection_enabled" android:value="false" />
     </application>
 </manifest>

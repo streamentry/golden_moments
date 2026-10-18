@@ -7,6 +7,7 @@ import 'package:golden_moments/features/gentle_activities/models/activity_pictur
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_home_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 double _contrast(Color a, Color b) {
   final la = a.computeLuminance();
@@ -44,6 +45,9 @@ Widget _app(Widget home, {double textScale = 1}) => MaterialApp(
 );
 
 void main() {
+  // No saved board or comfort choice may leak into a layout check.
+  setUp(() => SharedPreferences.setMockInitialValues({}));
+
   final theme = gmBuildTheme();
   final scheme = theme.colorScheme;
 

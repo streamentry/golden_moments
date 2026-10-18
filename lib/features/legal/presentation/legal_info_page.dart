@@ -17,7 +17,7 @@ const _supportUrl = '${_site}support/';
 ///
 /// Viewing this screen makes no network request. URLs only open after a tap.
 class LegalInfoPage extends StatelessWidget {
-  const LegalInfoPage({super.key});
+  const new({super.key});
 
   Future<void> _openExternal(BuildContext context, String url) async {
     var opened = false;
@@ -39,9 +39,8 @@ class LegalInfoPage extends StatelessWidget {
         ),
         action: SnackBarAction(
           label: 'Copy link',
-          onPressed: () => unawaited(
-            Clipboard.setData(ClipboardData(text: url)),
-          ),
+          onPressed: () =>
+              unawaited(Clipboard.setData(ClipboardData(text: url))),
         ),
       ),
     );

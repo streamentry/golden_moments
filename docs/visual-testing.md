@@ -55,7 +55,7 @@ pending. Hosted results are recorded on the PR before merge.
   settings, game, reveal, pause, restart, hint, category, completion and replay.
   Animation settling is included before capture. Screenshots are reviewed
   manually; no approved pixel-difference baseline is claimed.
-- The browser renderer and Roboto font ship locally too. No Firebase/CDN
+- The browser renderer and Roboto font ship locally too. No CDN
   initialization or pack-download task runs at startup.
 
 `output/playwright/` contains ignored PNGs, accessibility YAML, and `results.json`,

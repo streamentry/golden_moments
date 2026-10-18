@@ -319,7 +319,7 @@
       },
       "GM-028": {
         "status": "partial",
-        "scope": "Source-level audit and CI guard only: startup initializes no backend, local photo features contain no network code, collection flags are disabled in both manifests, only the photo-picker permission is declared, and the dead remote-pack downloader and its HTTP/cache/connectivity code were removed, so no Dart code imports a network or Firebase package or opens a connection (Firebase packages stay linked by decision, collection disabled). Not established: merged Android manifest, FirebaseInitProvider behavior, runtime traffic on a clean install, iOS privacy manifest/App Privacy answers. The privacy_and_sdk_audit gate remains pending.",
+        "scope": "Source-level audit and CI guard only: startup initializes no backend, local photo features contain no network code, only the photo-picker permission is declared, and the dead remote-pack downloader and its HTTP/cache/connectivity code were removed, so no Dart code imports a network package or opens a connection. Firebase (analytics, crash reporting, core and their config files) was then removed at the maintainer's instruction, and the guard fails if any returns. Not established: merged Android manifest, runtime traffic on a clean install, iOS privacy manifest/App Privacy answers. The privacy_and_sdk_audit gate remains pending.",
         "evidence": [
           "docs/release/network-privacy-audit.md",
           "tests/test_network_boundary.py"
