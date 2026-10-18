@@ -1,0 +1,110 @@
+{
+  "checked_utc": "2026-10-18T17:43:57.777114+00:00",
+  "version": "1.3.0",
+  "build": "6",
+  "version_id": "b134cf66-ccdd-43a7-b8c9-325ac81237e6",
+  "build_id": "0456db2d-1a84-4253-a744-fae96b13489f",
+  "release_type": "MANUAL",
+  "locales": [
+    "en-US"
+  ],
+  "canonical_copy_matches": true,
+  "screenshots": [
+    {
+      "device": "iphone",
+      "order": 1,
+      "id": "43000019-24a5-85cb-8014-608432170765",
+      "file": "iphone/01.jpg",
+      "md5": "80a33fc6ca3ed59a1ffc18157c6c4501",
+      "state": "COMPLETE"
+    },
+    {
+      "device": "iphone",
+      "order": 2,
+      "id": "fd400019-24a5-85cb-800a-d8cc6d9ab03a",
+      "file": "iphone/02.jpg",
+      "md5": "7f790c1446973300c3cd034350b6584c",
+      "state": "COMPLETE"
+    },
+    {
+      "device": "iphone",
+      "order": 3,
+      "id": "7e400019-24a5-85cb-8039-1aef11eab9fc",
+      "file": "iphone/03.jpg",
+      "md5": "fb327dced16078491950fec607be05b7",
+      "state": "COMPLETE"
+    },
+    {
+      "device": "iphone",
+      "order": 4,
+      "id": "32400019-24a5-85cb-802d-f945dae33700",
+      "file": "iphone/04.jpg",
+      "md5": "5521e0090a873bc0f92128f35931bb7e",
+      "state": "COMPLETE"
+    },
+    {
+      "device": "iphone",
+      "order": 5,
+      "id": "f2c00019-24a5-85cb-8018-60fe71acac98",
+      "file": "iphone/05.jpg",
+      "md5": "856398456229de68dbc9f351f4517991",
+      "state": "COMPLETE"
+    },
+    {
+      "device": "iphone",
+      "order": 6,
+      "id": "2f800019-24a5-85cb-8015-da9cabf85de6",
+      "file": "iphone/06.jpg",
+      "md5": "c1ca8109f1adacb1186a04c5b86c3cac",
+      "state": "COMPLETE"
+    },
+    {
+      "device": "ipad",
+      "order": 1,
+      "id": "72400019-24a5-85cb-803e-c4614c22237f",
+      "file": "ipad/01.jpg",
+      "md5": "2e5bdaae705ada0711bebc00cac6484f",
+      "state": "COMPLETE"
+    },
+    {
+      "device": "ipad",
+      "order": 2,
+      "id": "63800019-24a5-85cb-8003-8540102b2b4e",
+      "file": "ipad/02.jpg",
+      "md5": "bc56104e231f4b160903a5026a3ac1cc",
+      "state": "COMPLETE"
+    },
+    {
+      "device": "ipad",
+      "order": 3,
+      "id": "1d800019-24a5-85cb-8000-f77d5aada370",
+      "file": "ipad/03.jpg",
+      "md5": "77206014137e5ea276ffc246076be84f",
+      "state": "COMPLETE"
+    },
+    {
+      "device": "ipad",
+      "order": 4,
+      "id": "fa400019-24a5-85cb-803e-5a1a90c22224",
+      "file": "ipad/04.jpg",
+      "md5": "028711c9a197f2acbd00705b60aad2d0",
+      "state": "COMPLETE"
+    },
+    {
+      "device": "ipad",
+      "order": 5,
+      "id": "b6800019-24a5-85cb-8019-a8e7ed43e092",
+      "file": "ipad/05.jpg",
+      "md5": "ceb94715a88e46e53c239eb060dfee30",
+      "state": "COMPLETE"
+    },
+    {
+      "device": "ipad",
+      "order": 6,
+      "id": "31c00019-24a5-85cb-8008-50eb5ba4a1d7",
+      "file": "ipad/06.jpg",
+      "md5": "49b9c35b87c8de9abf4c4ab3c7ab2f5f",
+      "state": "COMPLETE"
+    }
+  ]
+}

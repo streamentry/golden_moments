@@ -129,7 +129,17 @@ void main() {
       'Two people on a wooden dock.',
     );
     await _toggle(tester, 'Favorite');
-    await _tapText(tester, 'Save');
+    await tester.tap(find.text('Save').hitTestable().first);
+    await tester.pump(const Duration(milliseconds: 500));
+    // A second edit must not start from stale details while the first save
+    // is still waiting for real file I/O.
+    expect(find.byType(LinearProgressIndicator), findsOneWidget);
+    final options = tester.widgetList<TextButton>(
+      find.widgetWithText(TextButton, 'Photo options'),
+    );
+    expect(options, isNotEmpty);
+    expect(options.every((button) => button.onPressed == null), isTrue);
+    await _settle(tester);
     expect(find.text('Favorite'), findsOneWidget);
     expect(
       find.bySemanticsLabel(RegExp('Lake day. Two people on a wooden dock.')),
