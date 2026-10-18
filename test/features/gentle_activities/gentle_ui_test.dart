@@ -36,6 +36,47 @@ void main() {
     expect(tester.takeException(), isNull);
   });
 
+  testWidgets('comfort settings set from Home carry into the game (GM-037)', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(480, 1400));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    await tester.pumpWidget(_app(home: const GentleHomePage()));
+    await tester.pumpAndSettle();
+    // The helper prepares the experience before anyone plays.
+    await tester.tap(find.byTooltip('Comfort settings'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('8 tiles'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.byType(Switch));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Back to the pictures'));
+    await tester.pumpAndSettle();
+
+    await tester.tap(find.text('Start a gentle game'));
+    await tester.pumpAndSettle();
+    expect(_tiles, findsNWidgets(8));
+    expect(find.bySemanticsLabel(RegExp('Hidden picture')), findsWidgets);
+    // The participant sees only the board and the exit.
+    expect(find.text('8 tiles'), findsNothing);
+    expect(find.text('Done for now'), findsOneWidget);
+
+    // Reset from Home returns to the starting choices without confusion.
+    await tester.tap(find.text('Done for now'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.byTooltip('Comfort settings'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Reset comfort settings'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.widgetWithText(FilledButton, 'Reset'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Back to the pictures'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Start a gentle game'));
+    await tester.pumpAndSettle();
+    expect(_tiles, findsNWidgets(4));
+  });
+
   testWidgets('board first: four large tiles and a visible exit, no settings', (
     tester,
   ) async {

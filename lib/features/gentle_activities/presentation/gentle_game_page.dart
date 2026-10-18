@@ -7,6 +7,7 @@ import 'package:golden_moments/features/gentle_activities/data/gentle_preference
 import 'package:golden_moments/features/gentle_activities/data/gentle_session.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/models/gentle_board.dart';
+import 'package:golden_moments/features/gentle_activities/presentation/gentle_comfort_sheet.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
 
@@ -330,7 +331,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
       showModalBottomSheet<void>(
         context: context,
         isScrollControlled: true,
-        builder: (context) => _ComfortSheet(
+        builder: (context) => GentleComfortSheet(
           initial: _prefs,
           maxPairs: widget.pictures.length,
           onChanged: _applyPreferences,
@@ -603,131 +604,6 @@ class _GentleGamePageState extends State<GentleGamePage> {
               ],
             ),
           ),
-        ),
-      ),
-    );
-  }
-}
-
-/// Comfort choices on request. Changes apply and save as they are made.
-class _ComfortSheet extends StatefulWidget {
-  const new({
-    required this.initial,
-    required this.maxPairs,
-    required this.onChanged,
-    required this.onReset,
-  });
-  final GentlePreferences initial;
-  final int maxPairs;
-  final Future<({GentlePreferences prefs, bool saved})> Function(
-    GentlePreferences,
-  )
-  onChanged;
-  final Future<GentlePreferences> Function() onReset;
-
-  @override
-  State<_ComfortSheet> createState() => _ComfortSheetState();
-}
-
-class _ComfortSheetState extends State<_ComfortSheet> {
-  late GentlePreferences _prefs = widget.initial;
-  bool _saveFailed = false;
-
-  Future<void> _change(GentlePreferences next) async {
-    final result = await widget.onChanged(next);
-    if (!mounted) return;
-    setState(() {
-      _prefs = result.prefs;
-      _saveFailed = !result.saved;
-    });
-  }
-
-  Future<void> _reset() async {
-    final ok = await showDialog<bool>(
-      context: context,
-      builder: (context) => AlertDialog(
-        scrollable: true,
-        title: const Text('Reset comfort settings?'),
-        content: const Text(
-          'This only returns the tile count and picture view to their '
-          'starting choices. Your photos and picture packs are not changed.',
-        ),
-        actions: [
-          TextButton(
-            onPressed: () => Navigator.pop(context, false),
-            child: const Text('Keep my settings'),
-          ),
-          FilledButton(
-            onPressed: () => Navigator.pop(context, true),
-            child: const Text('Reset'),
-          ),
-        ],
-      ),
-    );
-    if (ok != true || !mounted) return;
-    final prefs = await widget.onReset();
-    if (mounted) setState(() => _prefs = prefs);
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    final theme = Theme.of(context);
-    return SafeArea(
-      child: SingleChildScrollView(
-        padding: const EdgeInsets.fromLTRB(gmSpaceLg, 0, gmSpaceLg, gmSpaceLg),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            Text('Comfort settings', style: theme.textTheme.headlineSmall),
-            const SizedBox(height: gmSpaceMd),
-            Text('Number of tiles', style: theme.textTheme.titleMedium),
-            const SizedBox(height: gmSpaceSm),
-            Wrap(
-              spacing: gmSpaceSm,
-              runSpacing: gmSpaceSm,
-              children: [
-                for (final pairs in GentlePreferences.pairChoices)
-                  if (pairs <= widget.maxPairs)
-                    ChoiceChip(
-                      label: Text('${pairs * 2} tiles'),
-                      selected: _prefs.pairs == pairs,
-                      onSelected: (_) => _change(_prefs.copyWith(pairs: pairs)),
-                      materialTapTargetSize: MaterialTapTargetSize.padded,
-                    ),
-              ],
-            ),
-            const SizedBox(height: gmSpaceSm),
-            SwitchListTile(
-              contentPadding: EdgeInsets.zero,
-              title: const Text('Keep pictures visible'),
-              subtitle: const Text(
-                'Turn off only when you prefer hidden tiles.',
-              ),
-              value: _prefs.keepVisible,
-              onChanged: (value) =>
-                  _change(_prefs.copyWith(keepVisible: value)),
-            ),
-            if (_saveFailed)
-              Padding(
-                padding: const EdgeInsets.only(bottom: gmSpaceSm),
-                child: Text(
-                  'These choices could not be saved. They will apply until '
-                  'you close the app.',
-                  style: theme.textTheme.bodyMedium,
-                ),
-              ),
-            const SizedBox(height: gmSpaceSm),
-            OutlinedButton(
-              onPressed: _reset,
-              child: const Text('Reset comfort settings'),
-            ),
-            const SizedBox(height: gmSpaceSm),
-            FilledButton(
-              onPressed: () => Navigator.pop(context),
-              child: const Text('Back to the pictures'),
-            ),
-          ],
         ),
       ),
     );

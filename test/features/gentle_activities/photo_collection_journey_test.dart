@@ -46,13 +46,19 @@ Widget _app(Directory directory, PhotoImporter importer) => MaterialApp(
 );
 
 /// Real file I/O needs real time and each awaited step resumes on a pump, so
-/// alternate short real waits with frames.
+/// alternate short real waits with frames. The page shows a progress bar
+/// while it is working, so wait until that has been gone for a while rather
+/// than for a fixed time (which is flaky under load).
 Future<void> _settle(WidgetTester tester) async {
-  for (var i = 0; i < 80; i++) {
+  var quiet = 0;
+  for (var i = 0; i < 1500 && quiet < 40; i++) {
     await tester.runAsync(
-      () => Future<void>.delayed(const Duration(milliseconds: 4)),
+      () => Future<void>.delayed(const Duration(milliseconds: 8)),
     );
     await tester.pump(const Duration(milliseconds: 50));
+    quiet = find.byType(LinearProgressIndicator).evaluate().isEmpty
+        ? quiet + 1
+        : 0;
   }
 }
 
@@ -241,6 +247,48 @@ void main() {
     );
     expect(tester.getSize(button.first).height, greaterThanOrEqualTo(48));
     expect(tester.takeException(), isNull);
+  });
+
+  testWidgets('Play with favorites needs two and uses only favorites', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(480, 2000));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    final importer = _FakeImporter([
+      [1, 2, 3],
+    ]);
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    await _tapText(tester, 'Choose photos');
+    expect(find.text('Play with favorites'), findsNothing);
+
+    await _openOptions(tester, 0);
+    await _toggle(tester, 'Favorite');
+    await _tapText(tester, 'Save');
+    // One favorite is not enough for a game of its own.
+    expect(find.text('Play with favorites'), findsNothing);
+
+    await _openOptions(tester, 1);
+    await _toggle(tester, 'Favorite');
+    await _tapText(tester, 'Save');
+    expect(find.text('Play with favorites'), findsOneWidget);
+    // Still exactly one filled button on this screen.
+    expect(find.byType(FilledButton), findsNWidgets(1));
+
+    await _tapText(tester, 'Play with favorites');
+    expect(find.text('Gentle photo match'), findsOneWidget);
+    final labels = [
+      for (final node
+          in find.bySemanticsLabel(RegExp(r', tile \d+$')).evaluate())
+        (node.widget as Semantics).properties.label!.split(',').first,
+    ];
+    expect(labels.length, 4);
+    // Favorites sort first, so the non-favorite is "Family photo 3".
+    expect(labels.toSet(), {'Family photo 1', 'Family photo 2'});
+    expect(
+      find.textContaining(RegExp('score|streak|move', caseSensitive: false)),
+      findsNothing,
+    );
   });
 
   testWidgets('a failed import leaves the collection and says what to do', (

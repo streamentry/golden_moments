@@ -288,8 +288,12 @@
         ]
       },
       "GM-026": {
-        "status": "not_started",
-        "scope": "Familiar replay/suggestions not built. Safe resume (GM-004) is continuity, not replay."
+        "status": "partial",
+        "scope": "Family photos only: 'Play with favorites' appears with two or more visible favorites and plays only them; 'Not for me' is the existing reversible Hide. No streaks, quotas, scores or messages after time away, and nothing auto-launches. Included-pack favorites, a suggestion entry and observed voluntary reuse are not done; safe resume (GM-004) covers continuing a board.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/photo_collection_page.dart",
+          "test/features/gentle_activities/photo_collection_journey_test.dart"
+        ]
       },
       "GM-027": {
         "status": "partial",
@@ -349,8 +353,13 @@
         "scope": "R2 localization needs demand evidence and editorial review; US English only."
       },
       "GM-037": {
-        "status": "not_started",
-        "scope": "Same-device companion setup not built; the comfort sheet and photo options are the composable pieces it would reuse."
+        "status": "partial",
+        "scope": "Comfort settings (tile count, picture view, reset) are reachable from Home before play via an app-bar action and use the same sheet and storage as the activity, so a helper can prepare it and hand over a board that shows only the board and the exit; the family-photo setup route already exists. No separate Play view mode, no roles or accounts, and no helper-handoff walkthrough with real users; device and caregiver testing pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/gentle_comfort_sheet.dart",
+          "lib/features/gentle_activities/presentation/gentle_home_page.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
       },
       "GM-038": {
         "status": "deferred",

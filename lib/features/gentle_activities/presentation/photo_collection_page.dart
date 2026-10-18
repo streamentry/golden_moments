@@ -333,6 +333,10 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
         if (!_isHidden(picture.id)) picture,
     ];
     final hiddenCount = pictures.length - playable.length;
+    final favorites = [
+      for (final picture in playable)
+        if (_isFavorite(picture.id)) picture,
+    ];
     final theme = Theme.of(context);
     final scheme = theme.colorScheme;
     // One filled button per screen: adding photos until a game is possible,
@@ -442,6 +446,23 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                       color: scheme.onSurfaceVariant,
                     ),
                   ),
+                if (favorites.length >= 2) ...[
+                  const SizedBox(height: gmSpaceMd),
+                  OutlinedButton.icon(
+                    onPressed: _busy
+                        ? null
+                        : () => Navigator.of(context).push(
+                            MaterialPageRoute<void>(
+                              builder: (_) => GentleGamePage(
+                                pictures: favorites,
+                                sessionKey: 'family-favorites',
+                              ),
+                            ),
+                          ),
+                    icon: const Icon(Icons.star_outline),
+                    label: const Text('Play with favorites'),
+                  ),
+                ],
                 const SizedBox(height: gmSpaceMd),
                 OutlinedButton.icon(
                   onPressed: _busy || playable.isEmpty
