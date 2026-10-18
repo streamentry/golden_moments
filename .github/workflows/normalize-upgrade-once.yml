@@ -1,0 +1,35 @@
+# Temporary, branch-scoped repair job; remove after its reviewed commit.
+name: Normalize upgrade sources once
+on:
+  push:
+    branches: [feat/offline-dementia-activities-aso]
+permissions:
+  contents: read
+jobs:
+  normalize:
+    if: github.repository == 'streamentry/golden_moments' && contains(github.event.head_commit.message, '[normalize-upgrade]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.47.7'
+          channel: stable
+          cache: true
+      - run: flutter pub get
+      - name: Apply SDK fixes and formatting
+        run: |
+          dart fix --apply
+          dart format lib test
+      - name: Commit only the upgrade paths and generated dependency files
+        run: |
+          git add lib/features/gentle_activities lib/app/view/app.dart lib/app/view/platform_home.dart lib/app/view/platform_home_native.dart lib/app/view/platform_home_web.dart lib/bootstrap.dart test/features/gentle_activities pubspec.lock linux/flutter/generated_plugins.cmake macos/Flutter/GeneratedPluginRegistrant.swift windows/flutter/generated_plugins.cmake
+          git diff --cached --stat
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'style: normalize upgrade sources and resolve photo-picker dependencies'
+          git push origin HEAD:refs/heads/feat/offline-dementia-activities-aso
