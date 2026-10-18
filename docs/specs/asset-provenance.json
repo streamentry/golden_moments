@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-18",
+  "meaning": "Rights register for everything the app ships (GM-025). rights_status 'reviewed' means a person recorded author, license or permission, attribution and redistribution terms and a review date. Nothing below is reviewed except where stated. Bundling an asset is not proof of redistribution rights; unreviewed assets block release (scripts/release_metadata.py --release).",
+  "groups": [
+    {
+      "id": "catalog-images",
+      "paths": [
+        "assets/images/catalog/"
+      ],
+      "count": 121,
+      "register": "docs/catalog-image-sources.json",
+      "recorded": "per image: source URL (images.unsplash.com), SHA-256 and byte size",
+      "rights_status": "unreviewed",
+      "missing": [
+        "author",
+        "license or permission text",
+        "attribution requirement",
+        "redistribution and modification terms",
+        "review date",
+        "human review for tile-size recognizability, near-duplicates and distressing content"
+      ]
+    },
+    {
+      "id": "font-roboto",
+      "paths": [
+        "assets/fonts/Roboto-Regular.ttf",
+        "assets/fonts/Roboto-Medium.ttf",
+        "assets/fonts/Roboto-Bold.ttf",
+        "assets/fonts/Roboto_LICENSE.txt"
+      ],
+      "license": "Apache-2.0",
+      "license_file": "assets/fonts/Roboto_LICENSE.txt",
+      "rights_status": "license_text_bundled",
+      "missing": [
+        "upstream source URL and exact version of the three font files",
+        "a person's review date"
+      ]
+    },
+    {
+      "id": "sounds",
+      "paths": [
+        "assets/sounds/button_tap.mp3",
+        "assets/sounds/music.mp3",
+        "assets/sounds/winner.mp3"
+      ],
+      "rights_status": "unreviewed",
+      "used_by": "legacy picture-pack game only; not played by the gentle activity",
+      "missing": [
+        "source",
+        "author",
+        "license or permission",
+        "review date"
+      ]
+    },
+    {
+      "id": "app-icons",
+      "paths": [
+        "assets/icons/app_icon.png",
+        "assets/icons/app_icon_padded.png"
+      ],
+      "rights_status": "unreviewed",
+      "missing": [
+        "origin and author",
+        "license or permission",
+        "review date"
+      ]
+    },
+    {
+      "id": "pack-index-data",
+      "paths": [
+        "assets/data/packs_index.json"
+      ],
+      "rights_status": "unreviewed",
+      "missing": [
+        "confirmation that titles and descriptions are original or licensed"
+      ]
+    },
+    {
+      "id": "family-photos",
+      "paths": [],
+      "rights_status": "not_shipped",
+      "note": "Chosen by the person on their own device; never bundled, uploaded or included in screenshots."
+    }
+  ]
+}

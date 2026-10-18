@@ -7,6 +7,7 @@ import 'package:golden_moments/features/gentle_activities/data/gentle_preference
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_comfort_sheet.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
+import 'package:golden_moments/features/gentle_activities/presentation/help_privacy_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
@@ -94,6 +95,14 @@ class _GentleHomePageState extends State<GentleHomePage> {
                   'internet.',
                 ),
                 const SizedBox(height: gmSpaceLg),
+                OutlinedButton(
+                  onPressed: () {
+                    Navigator.pop(context);
+                    _open(const HelpPrivacyPage());
+                  },
+                  child: const Text('More help and privacy'),
+                ),
+                const SizedBox(height: gmSpaceSm),
                 FilledButton(
                   onPressed: () => Navigator.pop(context),
                   child: const Text('Close'),

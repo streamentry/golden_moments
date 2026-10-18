@@ -70,6 +70,14 @@ def validate(data, status, release=False, root=ROOT):
             result = gates.get(gate, {})
             if result.get('status') != 'passed' or not result.get('evidence'):
                 errors.append(f'release gate not evidenced: {gate}')
+        try:
+            provenance = json.loads((root / 'docs/specs/asset-provenance.json').read_text(encoding='utf-8'))
+        except (OSError, ValueError):
+            provenance = {'groups': []}
+            errors.append('asset provenance register missing or unreadable')
+        for group in provenance.get('groups', []):
+            if group.get('rights_status') not in ('reviewed', 'license_text_bundled', 'not_shipped'):
+                errors.append(f'asset rights unreviewed: {group.get("id")}')
         for screen in screenshots:
             for platform in ['iphone', 'ipad']:
                 capture = screen.get('files', {}).get(platform)

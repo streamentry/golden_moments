@@ -281,10 +281,11 @@
       },
       "GM-025": {
         "status": "partial",
-        "scope": "Only a source register exists: each of the 121 images has an Unsplash source URL, SHA-256 and size, and a test checks reference completeness. Missing and not invented here: author, license text/permission, attribution requirement, redistribution/modification terms and review date per asset; provenance for bundled sounds and icons; human tile-size and content review. Bundling is not proof of redistribution rights. Needs a human rights review before release.",
+        "scope": "Rights register for every shipped asset group exists (docs/specs/asset-provenance.json) and a test requires every declared asset and file on disk to be covered. Recorded: image source URL/hash/size, bundled Roboto license text. Unreviewed and therefore release-blocking (scripts/release_metadata.py --release now refuses): catalog images (no author/license/attribution/review date), sounds, app icons, pack index text. Needs a human rights review; nothing is marked reviewed here.",
         "evidence": [
-          "docs/catalog-image-sources.json",
-          "tests/test_bundled_catalog.py"
+          "docs/specs/asset-provenance.json",
+          "tests/test_asset_provenance.py",
+          "docs/catalog-image-sources.json"
         ]
       },
       "GM-026": {
@@ -325,8 +326,14 @@
         ]
       },
       "GM-031": {
-        "status": "not_started",
-        "scope": "Needs a decision on a real support address and a sanitized diagnostic design before building an offline Help/Privacy screen; none is invented here. The existing in-app guide is not a support route."
+        "status": "partial",
+        "scope": "Offline Help and privacy page reached from Home (guide > More help and privacy): plain guidance, privacy explanation, troubleshooting, and a problem report that carries only app version, platform family and one problem code, previewed exactly before the person chooses a destination in the system share sheet (cancellable, nothing automatic, no photos/hashes/captions/identifiers). Not done: a real support address (none is decided; the constant supportEmail is null and nothing is invented) and a no-mail-app copyable address; device checks with a real share sheet.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/help_privacy_page.dart",
+          "lib/shared/utils/support_info.dart",
+          "test/support_info_test.dart",
+          "test/features/gentle_activities/help_privacy_test.dart"
+        ]
       },
       "GM-032": {
         "status": "partial",
@@ -341,8 +348,12 @@
         "scope": "Genuine screenshots of the final build and the five-caregiver comprehension test have not been done."
       },
       "GM-034": {
-        "status": "not_started",
-        "scope": "Voluntary feedback and review handling not built; no rating prompt exists in the gentle flow."
+        "status": "implemented_unverified",
+        "scope": "Voluntary feedback: 'Write a note' previews the exact text (note plus app version and platform) and sends only through the system share sheet; 'Report a problem' as above. Support is separate from any rating; no rating request, incentive, satisfaction pre-screen or nag exists anywhere, and stopping a game is never treated as an event. A platform rating prompt is deliberately not added. Device check of the share sheet pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/help_privacy_page.dart",
+          "test/features/gentle_activities/help_privacy_test.dart"
+        ]
       },
       "GM-035": {
         "status": "deferred",

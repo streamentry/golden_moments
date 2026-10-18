@@ -16,7 +16,7 @@ Updated 2026-10-18. Scope: US English, local-first Golden Moments 1.3.0 candidat
 | DESIGN.md design system applied app-wide (contrast-safe gold, 16px text floor, calm legacy game) | Implemented; automated contrast/target/text-scale tests; device review pending |
 | Senior-first feature plan | Specified in docs/specs/senior-first; not newly implemented or release-approved |
 | Senior-first slice 2: family-photo captions/descriptions, favorites and reversible hiding (GM-019, GM-020 partial, GM-018 failure paths) | Implemented; journey tests with real storage pass locally; no device or screen-reader evidence. Per-feature status in `release-status.json` |
-| Senior-first slice 1: board first, visible exit, comfort settings on request, safe resume (GM-001/002/003/004/005/012/013/016, gentle matching screen only) | Implemented; strict analysis and 151 Flutter tests pass locally; no device, screen-reader or user-comprehension evidence. Per-feature status in `release-status.json` › `senior_first_features` |
+| Senior-first slice 1: board first, visible exit, comfort settings on request, safe resume (GM-001/002/003/004/005/012/013/016, gentle matching screen only) | Implemented; strict analysis and 166 Flutter tests pass locally; no device, screen-reader or user-comprehension evidence. Per-feature status in `release-status.json` › `senior_first_features` |
 
 PR #44 was independently merged while checks were running. That merge is not release approval. [Validation record](docs/release/validation-2026-10-18.md) distinguishes passed focused tests from remaining strict CI and native checks.
 
@@ -42,7 +42,7 @@ Execution status remains here and in release evidence. The feature catalog is a 
 
 ### Senior-first execution tally
 
-All 40 catalog IDs have an entry in `release-status.json` › `senior_first_features` (enforced by `tests/test_senior_status.py`). Current tally: 4 deferred, 7 implemented unverified, 12 not started, 17 partial. Nothing is `verified`: no native device, VoiceOver/TalkBack, upgrade, traffic-capture or human-pilot evidence exists, and every release gate in that file is still pending. R2 items wait on pilot evidence; R3 items are deferred and not authorized.
+All 40 catalog IDs have an entry in `release-status.json` › `senior_first_features` (enforced by `tests/test_senior_status.py`). Current tally: 4 deferred, 8 implemented unverified, 10 not started, 18 partial. Nothing is `verified`: no native device, VoiceOver/TalkBack, upgrade, traffic-capture or human-pilot evidence exists, and every release gate in that file is still pending. R2 items wait on pilot evidence; R3 items are deferred and not authorized.
 
 ## Deferred
 
