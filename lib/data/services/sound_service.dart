@@ -1,11 +1,12 @@
 import 'dart:async';
+
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/widgets.dart';
 import 'package:golden_moments/data/models/sound_setting.dart';
 
 /// Singleton service for playing app sounds
 class SoundService with WidgetsBindingObserver {
-  factory SoundService() => _instance;
+  factory() => _instance;
   SoundService._internal() {
     WidgetsBinding.instance.addObserver(this); // Observe app lifecycle changes
   }
@@ -13,7 +14,7 @@ class SoundService with WidgetsBindingObserver {
 
   final AudioPlayer _musicPlayer = AudioPlayer();
   final AudioPlayer _soundPlayer = AudioPlayer();
-  late SoundSettings _soundSettings;
+  SoundSettings? _soundSettings;
 
   Future<void> initialize(SoundSettings settings) async {
     _soundSettings = settings;
@@ -42,14 +43,14 @@ class SoundService with WidgetsBindingObserver {
     );
 
     // Listen to changes to auto-play/stop music
-    _soundSettings.addListener(_onSettingsChanged);
+    settings.addListener(_onSettingsChanged);
 
     // Don't auto-play music on initialization to avoid browser restrictions
     // Music will be played when user interacts with the app
   }
 
   void _onSettingsChanged() {
-    if (_soundSettings.isMusicOn) {
+    if (_soundSettings?.isMusicOn ?? false) {
       // Don't auto-play music on settings change
       // Let user interaction trigger music playback
     } else {
@@ -58,9 +59,9 @@ class SoundService with WidgetsBindingObserver {
   }
 
   Future<void> _playAsset(String assetPath, {bool isMusic = false}) async {
-    if (isMusic && !_soundSettings.isMusicOn) return;
-    if (!isMusic && !_soundSettings.isSoundOn) return;
-    
+    if (isMusic && !(_soundSettings?.isMusicOn ?? false)) return;
+    if (!isMusic && !(_soundSettings?.isSoundOn ?? false)) return;
+
     try {
       if (isMusic) {
         switch (_musicPlayer.state) {
@@ -76,8 +77,9 @@ class SoundService with WidgetsBindingObserver {
         // Use a separate player for sound effects to avoid disrupting music
         await _soundPlayer.play(AssetSource(assetPath));
       }
-    } catch (e) {
-      // Silently handle audio playback errors (e.g., browser auto-play restrictions)
+    } on Object {
+      // Silently handle audio playback errors (e.g., browser auto-play
+      // restrictions)
       // This prevents crashes while allowing the app to continue functioning
     }
   }
@@ -90,7 +92,8 @@ class SoundService with WidgetsBindingObserver {
   void didChangeAppLifecycleState(AppLifecycleState state) {
     if (state == AppLifecycleState.paused) {
       _musicPlayer.pause();
-    } else if (state == AppLifecycleState.resumed && _soundSettings.isMusicOn) {
+    } else if (state == AppLifecycleState.resumed &&
+        (_soundSettings?.isMusicOn ?? false)) {
       _musicPlayer.resume();
     }
   }

@@ -7,7 +7,7 @@ import 'package:golden_moments/data/models/packs_index.dart';
 
 /// Service for loading pack data from local JSON files
 class LocalPackService {
-  factory LocalPackService() => _instance;
+  factory() => _instance;
 
   LocalPackService._internal();
 
@@ -23,14 +23,14 @@ class LocalPackService {
       );
       final jsonData = json.decode(jsonString) as Map<String, dynamic>;
       return PacksIndex.fromJson(jsonData);
-    } catch (e) {
+    } on Object catch (e) {
       throw Exception('Failed to load pack index: $e');
     }
   }
 
   /// Get Packs Indexs from cache or load from file
   Future<PacksIndex> getPacksIndex() async {
-    return packsIndex ?? loadPacksIndex();
+    return packsIndex ??= await loadPacksIndex();
   }
 
   /// Get all available packs

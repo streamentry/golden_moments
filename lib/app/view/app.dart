@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:golden_moments/app/view/platform_home.dart';
 import 'package:golden_moments/data/services/download_manager.dart';
 import 'package:golden_moments/design_system.dart';
-import 'package:golden_moments/features/gentle_activities/presentation/gentle_home_page.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 
 class App extends StatefulWidget {
@@ -25,7 +25,7 @@ class _AppState extends State<App> {
       theme: gmBuildTheme(brightness: Brightness.light),
       localizationsDelegates: AppLocalizations.localizationsDelegates,
       supportedLocales: AppLocalizations.supportedLocales,
-      home: const GentleHomePage(),
+      home: buildPlatformHome(),
     );
   }
 }

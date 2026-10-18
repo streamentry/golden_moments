@@ -22,5 +22,3 @@ abstract class JsonStore {
   Future<void> initializeCacheStructure();
   String getCachePath(String relativePath);
 }
-
-

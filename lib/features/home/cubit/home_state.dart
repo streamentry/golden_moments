@@ -3,12 +3,7 @@ import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/data/models/pack.dart';
 
 /// Status of the home screen
-enum HomeStatus {
-  initial,
-  loading,
-  loaded,
-  error,
-}
+enum HomeStatus { initial, loading, loaded, error }
 
 /// State for the home screen
 class HomeState extends Equatable {
@@ -47,10 +42,5 @@ class HomeState extends Equatable {
   }
 
   @override
-  List<Object?> get props => [
-    status,
-    dailyPacks,
-    libraryPacks,
-    errorMessage,
-  ];
+  List<Object?> get props => [status, dailyPacks, libraryPacks, errorMessage];
 }

@@ -1,12 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:golden_moments/data/models/pack.dart';
 
-enum DownloadedPacksPageStatus {
-  initial,
-  loading,
-  loaded,
-  error,
-}
+enum DownloadedPacksPageStatus { initial, loading, loaded, error }
 
 /// State for the home screen
 class DownloadedPacksState extends Equatable {

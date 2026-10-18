@@ -1,13 +1,13 @@
 import 'dart:convert';
 
-import 'package:shared_preferences/shared_preferences.dart';
+import 'package:flutter/foundation.dart';
 import 'package:golden_moments/data/storage/json_store.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 /// Web-compatible JSON file manager using SharedPreferences for storage
 class WebJsonFileManager implements JsonStore {
   WebJsonFileManager({required this.cacheDirectory});
 
-  @override
   final String cacheDirectory;
 
   /// Load JSON file with type safety and error handling
@@ -29,7 +29,7 @@ class WebJsonFileManager implements JsonStore {
       return fromJson(jsonData);
     } on Exception catch (e) {
       // Log error and return null
-      print('Error loading JSON file $relativePath: $e');
+      debugPrint('Error loading JSON file $relativePath: $e');
       return null;
     }
   }
@@ -49,8 +49,8 @@ class WebJsonFileManager implements JsonStore {
       final jsonString = const JsonEncoder.withIndent('  ').convert(jsonData);
 
       await prefs.setString(key, jsonString);
-    } catch (e) {
-      print('Error saving JSON file $relativePath: $e');
+    } on Object catch (e) {
+      debugPrint('Error saving JSON file $relativePath: $e');
       rethrow;
     }
   }
@@ -62,7 +62,7 @@ class WebJsonFileManager implements JsonStore {
       final prefs = await SharedPreferences.getInstance();
       final key = _getStorageKey(relativePath);
       return prefs.containsKey(key);
-    } catch (e) {
+    } on Object {
       return false;
     }
   }
@@ -75,7 +75,7 @@ class WebJsonFileManager implements JsonStore {
       final key = _getStorageKey(relativePath);
       await prefs.remove(key);
     } on Exception catch (e) {
-      print('Error deleting file $relativePath: $e');
+      debugPrint('Error deleting file $relativePath: $e');
     }
   }
 
@@ -101,7 +101,7 @@ class WebJsonFileManager implements JsonStore {
 
       return keys;
     } on Exception catch (e) {
-      print('Error listing files in $relativePath: $e');
+      debugPrint('Error listing files in $relativePath: $e');
       return [];
     }
   }
@@ -116,7 +116,7 @@ class WebJsonFileManager implements JsonStore {
 
       return content?.length ?? 0;
     } on Exception catch (e) {
-      print('Error getting file size for $relativePath: $e');
+      debugPrint('Error getting file size for $relativePath: $e');
       return 0;
     }
   }
@@ -138,7 +138,7 @@ class WebJsonFileManager implements JsonStore {
 
       return totalSize;
     } on Exception catch (e) {
-      print('Error calculating directory size for $relativePath: $e');
+      debugPrint('Error calculating directory size for $relativePath: $e');
       return 0;
     }
   }

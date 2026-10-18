@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 
@@ -62,10 +64,12 @@ class Pressable extends StatelessWidget {
         onFocusChange: onFocusChange,
         canRequestFocus: canRequestFocus,
         autofocus: autofocus,
-        onTap: () async {
-          await SoundService().playTap();
-          onPressed?.call();
-        },
+        onTap: onPressed == null
+            ? null
+            : () {
+                unawaited(SoundService().playTap());
+                onPressed?.call();
+              },
         child: child,
       ),
     );

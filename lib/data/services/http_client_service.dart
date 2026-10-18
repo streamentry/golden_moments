@@ -9,7 +9,7 @@ import 'package:http/http.dart' as http;
 
 /// HTTP client service with retry logic and timeout handling
 class HttpClientService {
-  factory HttpClientService() => _instance;
+  factory() => _instance;
   HttpClientService._internal();
   static final HttpClientService _instance = HttpClientService._internal();
 
@@ -32,7 +32,7 @@ class HttpClientService {
     try {
       final jsonData = jsonDecode(response.body) as Map<String, dynamic>;
       return jsonData;
-    } catch (e) {
+    } on Object catch (e) {
       throw DownloadError.invalidJson(url, e.toString());
     }
   }
@@ -86,7 +86,7 @@ class HttpClientService {
         if (retryCount == CacheConstants.maxRetryAttempts - 1) {
           throw DownloadError.timeout(url, e.message ?? 'Request timeout');
         }
-      } catch (e) {
+      } on Object catch (e) {
         if (retryCount == CacheConstants.maxRetryAttempts - 1) {
           throw DownloadError.unknown(url, e.toString());
         }
@@ -106,7 +106,7 @@ class HttpClientService {
           .head(Uri.parse(url))
           .timeout(const Duration(seconds: 5));
       return response.statusCode == 200;
-    } catch (e) {
+    } on Object {
       return false;
     }
   }
@@ -132,7 +132,7 @@ class HttpClientService {
       }
 
       return 0;
-    } catch (e) {
+    } on Object catch (e) {
       if (e is DownloadError) rethrow;
       throw DownloadError.unknown(url, e.toString());
     }
@@ -145,10 +145,7 @@ class HttpClientService {
     while (retryCount < CacheConstants.maxRetryAttempts) {
       try {
         final response = await _client
-            .get(
-              Uri.parse(url),
-              headers: CacheConstants.defaultHeaders,
-            )
+            .get(Uri.parse(url), headers: CacheConstants.defaultHeaders)
             .timeout(CacheConstants.downloadTimeout);
 
         if (response.statusCode == 200) {
@@ -183,7 +180,7 @@ class HttpClientService {
         if (retryCount == CacheConstants.maxRetryAttempts - 1) {
           throw DownloadError.timeout(url, e.message ?? 'Request timeout');
         }
-      } catch (e) {
+      } on Object catch (e) {
         if (e is DownloadError) rethrow;
         if (retryCount == CacheConstants.maxRetryAttempts - 1) {
           throw DownloadError.unknown(url, e.toString());
@@ -206,11 +203,10 @@ class HttpClientService {
   /// Check if device has internet connection
   Future<bool> hasInternetConnection() async {
     try {
-      final result = await InternetAddress.lookup(
-        'google.com',
-      ).timeout(const Duration(seconds: 3));
+      final result = await InternetAddress.lookup('google.com')
+          .timeout(const Duration(seconds: 3));
       return result.isNotEmpty && result[0].rawAddress.isNotEmpty;
-    } catch (e) {
+    } on Object {
       return false;
     }
   }

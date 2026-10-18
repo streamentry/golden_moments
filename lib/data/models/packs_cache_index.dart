@@ -34,9 +34,5 @@ class PacksCacheIndex extends Equatable {
   }
 
   @override
-  List<Object?> get props => [
-    version,
-    lastUpdated,
-    packs,
-  ];
+  List<Object?> get props => [version, lastUpdated, packs];
 }

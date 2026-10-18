@@ -74,10 +74,7 @@ class _LoadingView extends StatelessWidget {
         children: [
           CircularProgressIndicator(),
           SizedBox(height: gmSpaceMd),
-          Text(
-            'Loading your memory games...',
-            style: TextStyle(fontSize: 18),
-          ),
+          Text('Loading your memory games...', style: TextStyle(fontSize: 18)),
         ],
       ),
     );
@@ -98,11 +95,7 @@ class _ErrorView extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Icon(
-              Icons.error_outline,
-              size: 64,
-              color: Colors.red,
-            ),
+            const Icon(Icons.error_outline, size: 64, color: Colors.red),
             const SizedBox(height: gmSpaceMd),
             Text(
               'Oops! Something went wrong',
@@ -182,30 +175,6 @@ class _LoadedView extends StatelessWidget {
       ),
     );
   }
-
-  void _showPremiumDialog(BuildContext context) {
-    showDialog<void>(
-      context: context,
-      builder: (context) => AlertDialog(
-        title: const Text('Premium Content'),
-        content: const Text('This content requires a premium subscription.'),
-        actions: [
-          GmOutlineButton(
-            label: 'Cancel',
-            onTap: () => Navigator.of(context).pop(),
-          ),
-          const SizedBox(width: gmSpaceSm),
-          GmPrimaryButton(
-            label: 'Upgrade',
-            onTap: () {
-              Navigator.of(context).pop();
-              // Navigate to premium purchase would go here
-            },
-          ),
-        ],
-      ),
-    );
-  }
 }
 
 /// Welcome section widget
@@ -229,7 +198,9 @@ class _WelcomeSection extends StatelessWidget {
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
-              'Take a nostalgic journey through the past with our memory matching games. Choose from daily featured packs or explore our full library.',
+              'Take a nostalgic journey through the past with our '
+              'memory matching games. Choose from daily featured packs'
+              ' or explore our full library.',
               style: theme.textTheme.bodyLarge,
             ),
           ],

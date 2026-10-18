@@ -15,13 +15,13 @@ class CacheFilePaths {
   // Pack-specific paths
   static String packCacheFile(String packId) => 'packs/$packId.json';
   static String packImagesDirectory(String packId) => 'images/$packId';
-  static String packThumbnailsDirectory(String packId) => 
+  static String packThumbnailsDirectory(String packId) =>
       'images/$packId/$thumbnailsDirectory';
 
   // Image file paths
-  static String imageFile(String packId, String filename) => 
+  static String imageFile(String packId, String filename) =>
       'images/$packId/$filename';
-  static String thumbnailFile(String packId, String filename) => 
+  static String thumbnailFile(String packId, String filename) =>
       'images/$packId/$thumbnailsDirectory/$filename';
 
   // Backup file paths
@@ -29,13 +29,13 @@ class CacheFilePaths {
   static String tempFile(String originalPath) => '$originalPath.tmp';
 
   // Validation helpers
-  static bool isPackCacheFile(String path) => 
+  static bool isPackCacheFile(String path) =>
       path.startsWith(packsDirectory) && path.endsWith('.json');
-  
-  static bool isImageFile(String path) => 
+
+  static bool isImageFile(String path) =>
       path.startsWith(imagesDirectory) && !path.contains(thumbnailsDirectory);
-  
-  static bool isThumbnailFile(String path) => 
+
+  static bool isThumbnailFile(String path) =>
       path.startsWith(imagesDirectory) && path.contains(thumbnailsDirectory);
 
   // Extract pack ID from file paths
@@ -44,14 +44,14 @@ class CacheFilePaths {
       final filename = path.substring(6); // Remove 'packs/'
       return filename.substring(0, filename.length - 5); // Remove '.json'
     }
-    
+
     if (path.startsWith('images/')) {
       final parts = path.split('/');
       if (parts.length >= 2) {
         return parts[1]; // Second part is pack ID
       }
     }
-    
+
     return null;
   }
 

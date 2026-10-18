@@ -65,11 +65,5 @@ class GameTile extends Equatable {
   }
 
   @override
-  List<Object?> get props => [
-    id,
-    image,
-    isMatched,
-    isRevealed,
-    pairId,
-  ];
+  List<Object?> get props => [id, image, isMatched, isRevealed, pairId];
 }

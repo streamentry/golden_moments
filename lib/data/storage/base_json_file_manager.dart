@@ -18,7 +18,8 @@ abstract class BaseJsonFileManager {
   /// Save JSON file with platform-specific backup and safety mechanisms
   ///
   /// Uses [toJson] to convert the data to a JSON map before saving.
-  /// Implementations should handle atomic writes and backup creation as appropriate.
+  /// Implementations should handle atomic writes and backup creation as
+  /// appropriate.
   Future<void> saveJsonFile<T>(
     String relativePath,
     T data,
@@ -73,6 +74,7 @@ abstract class BaseJsonFileManager {
 
   /// Get full cache path for a relative path
   ///
-  /// Returns the absolute or platform-appropriate path for the given relative path.
+  /// Returns the absolute or platform-appropriate path for the given relative
+  /// path.
   String getCachePath(String relativePath);
 }

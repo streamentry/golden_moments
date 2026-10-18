@@ -1,11 +1,11 @@
 # Golden Moments
 
-Gentle picture matching and shared photo activities. Flutter, local-first, no account, no custom photo backend.
+Gentle picture matching and shared photo activities. Flutter, local-first on iOS/Android, no account or custom photo backend.
 
 **US App Store candidate:** `Dementia Games: Golden Moments`  
 **Subtitle:** `Alzheimer's Photo Activities`  
 **On-device name:** `Golden Moments`  
-**Candidate version:** `1.3.0+5`. This is not a claim of App Store publication.
+**Candidate version:** `1.3.0+5` (not yet an App Store release).
 
 ## Start here
 
@@ -22,15 +22,17 @@ Gentle picture matching and shared photo activities. Flutter, local-first, no ac
 
 ## This upgrade
 
-The default home opens local activities without initializing Firebase or downloading packs. Gentle matching starts with four tiles, keeps pictures visible by default, and has no clock, score, penalty or automatic mismatch timer. Families can select up to 24 photos, store normalized copies locally, match them, or view them with optional conversation prompts.
+On iOS/Android, the new home opens local activities without initializing Firebase or downloading packs. Gentle matching starts with four tiles, keeps pictures visible by default, and has no clock, score, penalty or automatic mismatch timer. Select up to 24 photos, store normalized local copies, match them, or view them with optional conversation prompts.
 
-The existing picture-pack library remains behind an explicit action. New library downloads still require internet. Firebase packages remain in the dependency graph with Analytics deactivated and automatic Crashlytics reporting disabled; native-build privacy auditing remains mandatory.
+The existing picture-pack library remains behind an explicit mobile action. New downloads still need internet. Browser/desktop startup and the independently stabilized web catalog are preserved through a conditional platform entry. Family-photo storage is not a new browser capability.
 
-Code completion is not device verification. See [release-status.json](docs/specs/release-status.json). Sync, photo-deck exchange, voice recording, payments and medical functionality are not part of this upgrade.
+Firebase packages remain in the dependency graph. Mobile Analytics is deactivated and automatic Crashlytics reporting disabled in native configuration; native-build privacy auditing is still required. Do not apply mobile offline/privacy claims to the unchanged browser catalog.
+
+Code completion is not verification. See [release-status.json](docs/specs/release-status.json). Sync, photo-deck exchange, recordings, payments and medical functionality are excluded from this upgrade.
 
 ## Development
 
-Dart constraint: `^3.8.0`. Focused upgrade CI uses Flutter `3.32.8`; the existing full CI is retained. The photo picker is pinned at `1.1.2` for the existing SDK baseline. Resolve and commit dependency lockfile changes after running the toolchain. The new feature targets iOS and Android; web/desktop compatibility is not claimed.
+Use the current `.fvmrc` baseline: Flutter `3.47.7`, Dart `3.13.5`. Dependencies, browser fixes and full/visual workflows from PR #43 are preserved, not downgraded. The new photo picker is initially pinned at `1.1.2`; resolve and review the changed lockfile and platform requirements before merging.
 
 ```sh
 flutter pub get
@@ -41,14 +43,14 @@ python -m unittest discover -s tests -v
 python scripts/release_metadata.py --check
 ```
 
-Existing development/staging/production configurations and signing identifiers are preserved. See [device setup](docs/run-ios-device.md) and [simulator setup](docs/run-ios-simulator.md).
+See [build and visual testing](docs/visual-testing.md), [iOS device setup](docs/run-ios-device.md), and [simulator setup](docs/run-ios-simulator.md). Existing signing and flavor configuration remain unchanged.
 
-Edit `metadata/app-store.en-US.json`, then run `python scripts/release_metadata.py --write` and commit the generated `metadata/en-US/*.txt` exports. `--check` detects drift, length and prohibited-claim errors. `--release` requires QA evidence and genuine screenshot files and is expected to fail while gates are pending. These scripts never upload to App Store Connect.
+Edit `metadata/app-store.en-US.json`, run `python scripts/release_metadata.py --write`, and commit the generated text exports. `--check` detects drift and copy errors. `--release` requires recorded QA and real screenshot files; it intentionally fails while gates are pending. Scripts never publish to App Store Connect.
 
-[Pack management](docs/packs.md), [sample pack](docs/example-pack.json), and [pack validation](scripts/validate_packs.py) remain relevant to the optional library. `TEST_SUMMARY.md` is historical, not evidence for this release.
+[Pack management](docs/packs.md), [sample packs](docs/example-pack.json), and [pack validation](scripts/validate_packs.py) remain relevant. `TEST_SUMMARY.md` and the older visual validation describe historical commits, not a passed test run for this upgrade.
 
-## Localization and product boundary
+## Localization and intended use
 
-The new flow and store copy are English-first. Legacy locale files remain, but they do not mean the new screens are translated. Review all other storefront descriptions before reusing them; use `lib/l10n/arb/` and `flutter gen-l10n` for subsequent localization.
+The new mobile flow and copy are English-first. Existing translated legacy screens do not make new screens translated. Other store descriptions remain historical and require localization/claims review before reuse.
 
-Golden Moments offers recreation and shared conversation. It does not diagnose, measure, treat, prevent or claim to slow dementia or Alzheimer's disease. Do not imply suitability for every person or disease stage.
+Golden Moments offers recreation and shared conversation. It does not diagnose, measure, treat, prevent or claim to slow dementia or Alzheimer's disease. Do not imply suitability for every person or stage.

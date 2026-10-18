@@ -8,7 +8,7 @@ enum GameDifficulty {
   hard(gridSize: 4, pairCount: 12, displayName: 'Hard', minImages: 10),
   brainy(gridSize: 5, pairCount: 20, displayName: 'Brainy', minImages: 16);
 
-  const GameDifficulty({
+  GameDifficulty({
     required this.gridSize,
     required this.pairCount,
     required this.displayName,
@@ -31,11 +31,7 @@ enum GameDifficulty {
   int get totalTiles => pairCount * 2;
 }
 
-enum PackStatus {
-  notStarted,
-  downloading,
-  completed,
-}
+enum PackStatus { notStarted, downloading, completed }
 
 /// Represents a themed collection of memory game tiles
 class Pack extends Equatable {
