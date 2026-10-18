@@ -66,7 +66,7 @@ Stop publication for destructive imports, offline-start failures, unexpected sen
 
 ## October 18 senior-first R0/R1 continuation
 
-Pinned Flutter 3.47.7 / Dart 3.13.5 installed locally; Xcode 27.1 with the iOS 26.5 simulator available; **no physical device and no Android SDK** (installing the Android SDK needs its licence accepted by the maintainer). Work split into reviewable PRs, each with an independent review where it touched data or accessibility; nothing below is merged by the assistant, and nothing is device-verified.
+Pinned Flutter 3.47.7 / Dart 3.13.5 installed locally; Xcode 27.1 with the iOS 26.5 simulator available; **no physical device and no Android SDK** (installing the Android SDK needs its license accepted by the maintainer). Work split into reviewable PRs, each with an independent review where it touched data or accessibility; nothing below is merged by the assistant, and nothing is device-verified.
 
 | PR | Scope (feature IDs) | Evidence |
 | --- | --- | --- |
@@ -85,7 +85,7 @@ Findings for the maintainer, not decided here:
 - **Corrupt photo manifest:** it surfaces an error and is never overwritten, but there is no in-app recovery flow yet; a "keep what can be verified" recovery is a product decision.
 - **Content:** the *Classic Cars* pack cover shows a lightbulb; include it in the GM-025 rights and clarity review.
 
-Next executable actions, in order: merge #61, then #62/#63/#66 (independent) and #64 then #65 (stacked), re-running CI after each merge; then run `docs/release/device-acceptance.md` on a physical iPhone and iPad (VoiceOver walkthrough of start/play/stop/import/remove, rotation, Reduce Motion, airplane-mode fresh install, upgrade from the App Store build); install the Android SDK only with the maintainer's licence acceptance and repeat; then the five-caregiver comprehension test and genuine screenshots (GM-033). R2 stays at the unshipped GM-009 prototype until the pilot (GM-039) chooses; R3 stays deferred.
+Next executable actions, in order: merge #61, then #62/#63/#66 (independent) and #64 then #65 (stacked), re-running CI after each merge; then run `docs/release/device-acceptance.md` on a physical iPhone and iPad (VoiceOver walkthrough of start/play/stop/import/remove, rotation, Reduce Motion, airplane-mode fresh install, upgrade from the App Store build); install the Android SDK only with the maintainer's license acceptance and repeat; then the five-caregiver comprehension test and genuine screenshots (GM-033). R2 stays at the unshipped GM-009 prototype until the pilot (GM-039) chooses; R3 stays deferred.
 
 ## October 18 store publication continuation
 
