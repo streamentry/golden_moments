@@ -190,6 +190,8 @@ void main() {
     await _openOptions(tester, 0);
     await _tapText(tester, 'Remove this copy');
     expect(find.text('Remove this photo copy?'), findsOneWidget);
+    // Honest about what deleting cannot reach (GM-027).
+    expect(find.textContaining('earlier device backups'), findsOneWidget);
     await _tapText(
       tester,
       'Continue',

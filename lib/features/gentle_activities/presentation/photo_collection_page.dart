@@ -184,8 +184,9 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     if (_busy || _store == null) return;
     final confirmed = await _confirm(
       id == null ? 'Remove all photo copies?' : 'Remove this photo copy?',
-      'This removes copies saved by Golden Moments. Originals '
-      'in your photo library are not deleted.',
+      'This removes copies saved by Golden Moments on this device. '
+      'Originals in your photo library are not deleted, and earlier '
+      'device backups are not changed.',
     );
     if (!confirmed || !mounted) return;
     setState(() {
