@@ -164,6 +164,23 @@
           "test/features/gentle_activities/gentle_ui_test.dart"
         ]
       },
+      "GM-014": {
+        "status": "partial",
+        "scope": "Automated semantics tests only: hidden game tiles expose 'Hidden picture, tile N' with no caption, description or answer until chosen, and only the chosen tile is revealed; tile state is announced as Selected/Matched; photo cards carry caption plus description labels. VoiceOver/TalkBack walkthroughs of start/play/stop/import/remove are pending.",
+        "evidence": [
+          "test/accessibility_guards_test.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart",
+          "test/features/gentle_activities/photo_collection_journey_test.dart"
+        ]
+      },
+      "GM-015": {
+        "status": "partial",
+        "scope": "Contrast, text floor and target tests from the design system remain; new test proves the legacy tile flip becomes instant when the system requests reduced motion and animates otherwise. The gentle matching screen has no animation, timer, confetti or auto-closing dialog. Device checks for reduced motion, increased contrast and audio interruption are pending.",
+        "evidence": [
+          "test/accessibility_guards_test.dart",
+          "test/design_system_test.dart"
+        ]
+      },
       "GM-016": {
         "status": "partial",
         "scope": "Matching screen verified in widget tests on small phone, phone, landscape phone and iPad portrait sizes. Real iPad/device layout review pending.",
