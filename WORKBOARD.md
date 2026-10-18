@@ -71,7 +71,7 @@ Pinned Flutter 3.47.7 / Dart 3.13.5 installed locally; Xcode 27.1 with the iOS 2
 | PR | Scope (feature IDs) | Evidence |
 | --- | --- | --- |
 | #61 | Test reliability: preference leakage between files under `very_good --optimization`, condition waits in the photo journey | Journey flake reproduced in CI on #63 and under local load |
-| #62 | Look together complete (GM-008, GM-002), one Start in the first view at large text (GM-001), rotation (GM-016), backup note on delete (GM-027) | 209+ tests; iOS simulator walk-through of home, Look together, hide, game |
+| #62 | Look together complete (GM-008, GM-002), one Start in the first view at large text (GM-001), rotation (GM-016), backup note on delete (GM-027) | 209+ tests; iOS simulator walkthrough of home, Look together, hide, game |
 | #63 | iOS lock files regenerated after the Firebase removal (GM-028) | Unsigned release build: no Firebase/measurement code, identity unchanged; guard covers lock files |
 | #64 | Legacy picture-pack route: quiet default, Reduce Motion, tile semantics, fixed exit, reflow (GM-002/003/012-016) | 228 tests; web release build passes all browser smoke checks |
 | #65 | Favorites and Not for me for included packs, Suggested packs, empty-topic explanation (GM-020/024/026) | 270 tests; 11 browser smoke checks incl. hide, reload, show again |
