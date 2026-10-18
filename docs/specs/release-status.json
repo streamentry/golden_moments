@@ -326,8 +326,14 @@
         ]
       },
       "GM-029": {
-        "status": "not_started",
-        "scope": "Needs release/profile measurements on the oldest supported physical devices (startup, frame time, memory, 20-minute use). No number is claimed."
+        "status": "partial",
+        "scope": "Measurement tooling only: scripts/measure_startup.sh collects cold-start runs on a connected physical device and scripts/startup_stats.py reports count, median, p95, min and max (unit-tested statistics; requires at least 20 runs for a budget). Time to first frame is a proxy for interactive home. No measurement has been taken on any device, no budget is claimed, and frame-time, memory and 20-minute checks are manual (device-acceptance Section H).",
+        "evidence": [
+          "scripts/measure_startup.sh",
+          "scripts/startup_stats.py",
+          "tests/test_startup_stats.py",
+          "docs/release/device-acceptance.md"
+        ]
       },
       "GM-030": {
         "status": "partial",

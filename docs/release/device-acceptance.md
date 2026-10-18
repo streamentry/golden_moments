@@ -69,7 +69,7 @@ See [network-privacy-audit.md](network-privacy-audit.md). On a clean install wit
 
 ## H. Performance (GM-029)
 
-On the oldest supported physical devices, in a release or profile build: 20 cold launches from tap to interactive home (record median and 95th percentile); frame times while matching, browsing and importing; a 24-photo collection; 20 minutes of use watching memory and heat. Record device, build mode and conditions. Do not publish a number you did not measure.
+On the oldest supported physical devices, in a release or profile build: 20 cold launches (`sh scripts/measure_startup.sh <device-id> 20`, then `python3 scripts/startup_stats.py build/startup-runs/*.json`; time to first frame is a proxy, so also time tap-to-interactive-home by hand or screen recording and record median and 95th percentile); frame times while matching, browsing and importing; a 24-photo collection; 20 minutes of use watching memory and heat. Record device, build mode and conditions. Do not publish a number you did not measure.
 
 ## I. Help and support (GM-031, 034)
 
