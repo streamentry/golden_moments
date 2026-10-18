@@ -17,11 +17,17 @@ class PackPreferences {
 
   /// Reads each field on its own so one invalid field never discards the
   /// other. Unknown newer versions and malformed data mean no choices.
-  factory fromJson(Object? json) {
-    if (json is! Map) return const PackPreferences();
+  factory fromJson(Object? json) =>
+      tryFromJson(json) ?? const PackPreferences();
+
+  /// Like [PackPreferences.fromJson], but null when the record as a whole
+  /// cannot be understood (not a map, or a missing, older or newer version),
+  /// so the caller can leave it untouched instead of writing over it.
+  static PackPreferences? tryFromJson(Object? json) {
+    if (json is! Map) return null;
     final version = json['v'];
     if (version is! int || version < 1 || version > schemaVersion) {
-      return const PackPreferences();
+      return null;
     }
     return PackPreferences(
       favorites: _ids(json['favorites']),
@@ -96,19 +102,53 @@ class PackPreferences {
   );
 }
 
-/// Local-only persistence for [PackPreferences]. Failures fall back to no
-/// choices so the library always opens.
+/// What reading the saved record found.
+enum PackPreferencesStatus {
+  /// Nothing saved yet: a fresh start, safe to write.
+  absent,
+
+  /// A record this version understands, safe to write.
+  loaded,
+
+  /// A record that exists but could not be read (damaged, written by a newer
+  /// version, or storage failed). It must never be written over.
+  unreadable,
+}
+
+/// The result of [PackPreferencesStore.load].
+@immutable
+class PackPreferencesLoad {
+  const new(this.status, [this.preferences = const PackPreferences()]);
+
+  final PackPreferencesStatus status;
+
+  /// The saved choices; empty unless [status] is loaded.
+  final PackPreferences preferences;
+
+  /// False when saving would overwrite a record that could not be read.
+  bool get writable => status != PackPreferencesStatus.unreadable;
+}
+
+/// Local-only persistence for [PackPreferences]. A failure never stops the
+/// library from opening, and a record that cannot be read is reported as
+/// such so it is kept rather than replaced.
 class PackPreferencesStore {
   const new();
 
-  Future<PackPreferences> load() async {
+  Future<PackPreferencesLoad> load() async {
     try {
       final prefs = await SharedPreferences.getInstance();
       final raw = prefs.getString(PackPreferences.storageKey);
-      if (raw == null) return const PackPreferences();
-      return PackPreferences.fromJson(jsonDecode(raw));
+      if (raw == null) {
+        return const PackPreferencesLoad(PackPreferencesStatus.absent);
+      }
+      final parsed = PackPreferences.tryFromJson(jsonDecode(raw));
+      if (parsed == null) {
+        return const PackPreferencesLoad(PackPreferencesStatus.unreadable);
+      }
+      return PackPreferencesLoad(PackPreferencesStatus.loaded, parsed);
     } on Object {
-      return const PackPreferences();
+      return const PackPreferencesLoad(PackPreferencesStatus.unreadable);
     }
   }
 

@@ -80,9 +80,9 @@ class GatedPackStore extends PackPreferencesStore {
   void release() => _gate.complete();
 
   @override
-  Future<PackPreferences> load() async {
+  Future<PackPreferencesLoad> load() async {
     await _gate.future;
-    return _stored;
+    return PackPreferencesLoad(PackPreferencesStatus.loaded, _stored);
   }
 
   @override
@@ -97,8 +97,13 @@ class FailingPackStore extends PackPreferencesStore {
   const new();
 
   @override
-  Future<PackPreferences> load() async => const PackPreferences();
+  Future<PackPreferencesLoad> load() async =>
+      const PackPreferencesLoad(PackPreferencesStatus.absent);
 
   @override
   Future<bool> save(PackPreferences value) async => false;
 }
+
+/// Reads the saved choices, for assertions.
+Future<PackPreferences> savedChoices() async =>
+    (await const PackPreferencesStore().load()).preferences;

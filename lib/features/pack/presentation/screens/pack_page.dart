@@ -80,7 +80,9 @@ class _PackView extends StatelessWidget {
                     unawaited(context.read<HomeCubit>().initialize()),
               );
             }
-            if (state.status != HomeStatus.loaded) {
+            // Fail closed: no pack is shown until the saved choices are
+            // known, so a pack marked Not for me never appears.
+            if (state.status != HomeStatus.loaded || !state.preferencesReady) {
               return const Center(child: CircularProgressIndicator());
             }
             final packs = state.browsablePacksIn(categoryId);
@@ -115,6 +117,18 @@ class _PackView extends StatelessWidget {
                 const PackChoiceNotSaved(),
                 const SizedBox(height: gmSpaceMd),
               ],
+              if (state.preferencesUnreadable) ...[
+                const PackChoicesUnreadable(),
+                const SizedBox(height: gmSpaceMd),
+              ],
+              if (state.lastHiddenPack case final lastHidden?
+                  when lastHidden.category == categoryId) ...[
+                HiddenNotice(
+                  pack: lastHidden,
+                  onShowAgain: () => unawaited(cubit.showPack(lastHidden.id)),
+                ),
+                const SizedBox(height: gmSpaceMd),
+              ],
               if (packs.isEmpty)
                 Text(
                   'Every pack in this topic is marked Not for me. Show one '
@@ -130,12 +144,12 @@ class _PackView extends StatelessWidget {
                     onTap: tap == null ? null : () => tap(pack),
                     isFavorite: prefs.isFavorite(pack.id),
                     // Offered only once the saved choices are known.
-                    onFavoriteChanged: state.preferencesReady
+                    onFavoriteChanged: state.choicesEnabled
                         ? (favorite) => unawaited(
                             cubit.setFavorite(pack.id, favorite: favorite),
                           )
                         : null,
-                    onNotForMe: state.preferencesReady
+                    onNotForMe: state.choicesEnabled
                         ? () => unawaited(cubit.hidePack(pack.id))
                         : null,
                   ),

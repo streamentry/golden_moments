@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/scheduler.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/design_system.dart';
 
@@ -84,7 +85,7 @@ class HiddenPacksSection extends StatelessWidget {
                             const SizedBox(width: gmSpaceXs),
                             Flexible(
                               child: Text(
-                                'Favorite',
+                                'In favorites',
                                 style: theme.textTheme.bodySmall,
                               ),
                             ),
@@ -106,6 +107,112 @@ class HiddenPacksSection extends StatelessWidget {
             ),
           ),
       ],
+    );
+  }
+}
+
+/// The lasting note after "Not for me" (GM-026): says what happened and where
+/// to undo it, with a "Show again" button. It never closes on a timer; it
+/// goes when the pack is shown again or another pack is hidden. It is a
+/// polite live region, and keyboard or switch focus moves to it, since the
+/// button that was pressed has gone.
+class HiddenNotice extends StatefulWidget {
+  const new({required this.pack, required this.onShowAgain, super.key});
+
+  final Pack pack;
+  final VoidCallback onShowAgain;
+
+  @override
+  State<HiddenNotice> createState() => _HiddenNoticeState();
+}
+
+class _HiddenNoticeState extends State<HiddenNotice> {
+  final FocusNode _focus = FocusNode(debugLabel: 'hidden-notice');
+
+  @override
+  void initState() {
+    super.initState();
+    _focusSoon();
+  }
+
+  @override
+  void didUpdateWidget(HiddenNotice oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    if (oldWidget.pack.id != widget.pack.id) _focusSoon();
+  }
+
+  void _focusSoon() {
+    SchedulerBinding.instance.addPostFrameCallback((_) {
+      if (mounted) _focus.requestFocus();
+    });
+  }
+
+  @override
+  void dispose() {
+    _focus.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    final scheme = theme.colorScheme;
+    return Focus(
+      focusNode: _focus,
+      child: Semantics(
+        container: true,
+        liveRegion: true,
+        child: DecoratedBox(
+          key: ValueKey('hidden-notice-${widget.pack.id}'),
+          decoration: BoxDecoration(
+            color: scheme.surface,
+            borderRadius: BorderRadius.circular(gmRadiusLg),
+            border: Border.all(color: scheme.outline),
+          ),
+          child: Padding(
+            padding: const EdgeInsets.fromLTRB(
+              gmSpaceMd,
+              gmSpaceSm,
+              gmSpaceSm,
+              gmSpaceSm,
+            ),
+            child: Wrap(
+              alignment: WrapAlignment.spaceBetween,
+              crossAxisAlignment: WrapCrossAlignment.center,
+              spacing: gmSpaceSm,
+              runSpacing: gmSpaceSm,
+              children: [
+                Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Icon(
+                      Icons.visibility_off_outlined,
+                      color: scheme.onSurfaceVariant,
+                    ),
+                    const SizedBox(width: gmSpaceSm),
+                    Flexible(
+                      child: Text(
+                        '${widget.pack.title} is hidden. You can show it '
+                        'again under Hidden packs.',
+                        style: theme.textTheme.bodyLarge,
+                      ),
+                    ),
+                  ],
+                ),
+                TextButton.icon(
+                  key: ValueKey('undo-hide-${widget.pack.id}'),
+                  onPressed: widget.onShowAgain,
+                  icon: const Icon(Icons.visibility_outlined),
+                  label: Text(
+                    'Show again',
+                    semanticsLabel: 'Show ${widget.pack.title} again',
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ),
+      ),
     );
   }
 }

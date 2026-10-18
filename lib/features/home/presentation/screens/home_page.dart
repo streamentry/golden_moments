@@ -145,7 +145,8 @@ class _ErrorView extends StatelessWidget {
 ///
 /// Order: favorites first (easy to find again), then a few suggestions, the
 /// topic library, and last the hidden packs with "Show again". Nothing starts
-/// a pack except the person's own tap.
+/// a pack except the person's own tap. Until the saved choices are known only
+/// the topics are shown, so a hidden pack never appears, even briefly.
 class _LoadedView extends StatelessWidget {
   const new({required this.state});
 
@@ -157,6 +158,9 @@ class _LoadedView extends StatelessWidget {
     final prefs = state.packPreferences;
     final favorites = state.favoritePacks;
     final hidden = state.hiddenPacks;
+    final ready = state.preferencesReady;
+    final choices = state.choicesEnabled;
+    final lastHidden = state.lastHiddenPack;
 
     void openPack(Pack pack) {
       Navigator.of(parentContext).push(
@@ -184,37 +188,53 @@ class _LoadedView extends StatelessWidget {
                 const SizedBox(height: gmSpaceMd),
                 const PackChoiceNotSaved(),
               ],
+              if (state.preferencesUnreadable) ...[
+                const SizedBox(height: gmSpaceMd),
+                const PackChoicesUnreadable(),
+              ],
               const SizedBox(height: gmSpaceLg),
 
-              if (favorites.isNotEmpty) ...[
-                FavoritesSection(
-                  packs: favorites,
+              if (!ready) ...[
+                const PackChoicesLoading(),
+                const SizedBox(height: gmSpaceLg),
+              ] else ...[
+                if (lastHidden != null) ...[
+                  HiddenNotice(
+                    pack: lastHidden,
+                    onShowAgain: () => unawaited(cubit.showPack(lastHidden.id)),
+                  ),
+                  const SizedBox(height: gmSpaceLg),
+                ],
+                if (favorites.isNotEmpty) ...[
+                  FavoritesSection(
+                    packs: favorites,
+                    onPackTap: openPack,
+                    onFavoriteChanged: setFavorite,
+                    onNotForMe: notForMe,
+                  ),
+                  const SizedBox(height: gmSpaceLg),
+                ],
+
+                // Suggested packs section
+                DailyPacksSection(
+                  packs: state.suggestedPacks,
                   onPackTap: openPack,
-                  onFavoriteChanged: setFavorite,
-                  onNotForMe: notForMe,
+                  // Never offered over a record that could not be read.
+                  onFavoriteChanged: choices ? setFavorite : null,
+                  onNotForMe: choices ? notForMe : null,
+                  hiddenCount: hidden.length,
+                  favoriteCount: favorites.length,
+                  onShowOther: state.hasOtherSuggestions
+                      ? cubit.showOtherSuggestions
+                      : null,
                 ),
                 const SizedBox(height: gmSpaceLg),
               ],
 
-              // Suggested packs section
-              DailyPacksSection(
-                packs: state.suggestedPacks,
-                onPackTap: openPack,
-                // Offered only once the saved choices are known.
-                onFavoriteChanged: state.preferencesReady ? setFavorite : null,
-                onNotForMe: state.preferencesReady ? notForMe : null,
-                hiddenCount: hidden.length,
-                favoriteCount: favorites.length,
-                onShowOther: state.hasOtherSuggestions
-                    ? cubit.showOtherSuggestions
-                    : null,
-              ),
-              const SizedBox(height: gmSpaceLg),
-
               // Library section
               LibrarySection(
                 categories: state.libraryPacks,
-                eligiblePackCounts: state.eligiblePackCounts,
+                eligiblePackCounts: ready ? state.eligiblePackCounts : null,
                 onCategoryTap: (category) {
                   Navigator.of(parentContext).push(
                     MaterialPageRoute<void>(
@@ -228,7 +248,7 @@ class _LoadedView extends StatelessWidget {
                 },
               ),
 
-              if (hidden.isNotEmpty) ...[
+              if (ready && hidden.isNotEmpty) ...[
                 const SizedBox(height: gmSpaceXl),
                 HiddenPacksSection(
                   packs: hidden,

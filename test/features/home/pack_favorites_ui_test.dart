@@ -9,6 +9,7 @@ import 'package:golden_moments/features/home/data/pack_preferences.dart';
 import 'package:golden_moments/features/home/presentation/screens/home_page.dart';
 import 'package:golden_moments/features/pack/presentation/screens/pack_page.dart';
 import 'package:golden_moments/shared/widgets/category_card.dart';
+import 'package:golden_moments/shared/widgets/pack_card.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'pack_fixtures.dart';
@@ -86,9 +87,13 @@ void main() {
       findsOneWidget,
     );
     expect(
+      find.descendant(of: toggle, matching: find.text('Add to favorites')),
+      findsOneWidget,
+    );
+    expect(
       tester.getSemantics(toggle),
       isSemantics(
-        label: 'Favorite, Farm Animals',
+        label: 'Add to favorites, Farm Animals',
         isButton: true,
         hasToggledState: true,
         isToggled: false,
@@ -105,10 +110,15 @@ void main() {
       find.descendant(of: filled, matching: find.byIcon(Icons.star)),
       findsOneWidget,
     );
+    // The words change too, so the state is never shown by fill alone.
+    expect(
+      find.descendant(of: filled, matching: find.text('In favorites')),
+      findsOneWidget,
+    );
     expect(
       tester.getSemantics(filled),
       isSemantics(
-        label: 'Favorite, Farm Animals',
+        label: 'In favorites, Farm Animals',
         isButton: true,
         hasToggledState: true,
         isToggled: true,
@@ -128,7 +138,7 @@ void main() {
 
     await _tapKey(tester, 'favorite-farm');
     expect(find.text('Your favorites'), findsNothing);
-    expect(await const PackPreferencesStore().load(), const PackPreferences());
+    expect(await savedChoices(), const PackPreferences());
   });
 
   testWidgets('Not for me hides a pack with a lasting Show again', (
@@ -144,6 +154,16 @@ void main() {
     // The next pack fills in; the rest keep their order.
     expect(_key('suggested-desserts'), findsOneWidget);
 
+    // A lasting note says where it went, is announced politely, and takes
+    // keyboard focus from the button that disappeared.
+    final notice = _key('hidden-notice-farm');
+    expect(notice, findsOneWidget);
+    expect(find.textContaining('Farm Animals is hidden'), findsOneWidget);
+    expect(tester.getSemantics(notice), isSemantics(isLiveRegion: true));
+    expect(FocusManager.instance.primaryFocus?.debugLabel, 'hidden-notice');
+    await tester.pump(const Duration(minutes: 5));
+    expect(notice, findsOneWidget);
+
     // Still there after time passes and after a restart.
     await tester.pump(const Duration(minutes: 5));
     await tester.pumpWidget(const SizedBox());
@@ -154,7 +174,62 @@ void main() {
     await _tapKey(tester, 'show-again-farm');
     expect(find.textContaining('Hidden packs'), findsNothing);
     expect(_key('suggested-farm'), findsOneWidget);
-    expect(await const PackPreferencesStore().load(), const PackPreferences());
+    expect(await savedChoices(), const PackPreferences());
+  });
+
+  testWidgets('the note after Not for me can show the pack again', (
+    tester,
+  ) async {
+    await _pumpHome(tester);
+    await _tapKey(tester, 'not-for-me-farm');
+    await _tapKey(tester, 'undo-hide-farm');
+    expect(_key('hidden-notice-farm'), findsNothing);
+    expect(_key('suggested-farm'), findsOneWidget);
+    expect(await savedChoices(), const PackPreferences());
+  });
+
+  testWidgets('card actions keep at least 8 between targets', (tester) async {
+    for (final width in [800.0, 320.0]) {
+      await tester.binding.setSurfaceSize(Size(width, 900));
+      await _pumpHome(tester, textScale: width < 400 ? 2 : 1);
+      final favorite = tester.getRect(_key('favorite-farm'));
+      final hide = tester.getRect(_key('not-for-me-farm'));
+      final sideBySide = (hide.top - favorite.top).abs() < 1;
+      final gap = sideBySide
+          ? hide.left - favorite.right
+          : hide.top - favorite.bottom;
+      expect(gap, greaterThanOrEqualTo(gmSpaceSm), reason: 'width $width');
+      final card = tester.getRect(_key('suggested-farm'));
+      final play = tester.getRect(
+        find.descendant(
+          of: _key('suggested-farm'),
+          matching: find.text('Play'),
+        ),
+      );
+      expect(card.contains(play.center), isTrue);
+      expect(
+        favorite.top - play.bottom,
+        greaterThanOrEqualTo(gmSpaceSm),
+        reason: 'gap above the actions at width $width',
+      );
+      await tester.pumpWidget(const SizedBox());
+    }
+    await tester.binding.setSurfaceSize(null);
+  });
+
+  testWidgets('a saved record that cannot be read is kept, never replaced', (
+    tester,
+  ) async {
+    const newer = '{"v":2,"hidden":["farm"],"later":true}';
+    SharedPreferences.setMockInitialValues({PackPreferences.storageKey: newer});
+    await _pumpHome(tester);
+    expect(find.textContaining('could not be read'), findsOneWidget);
+    expect(find.text('Add to favorites'), findsNothing);
+    expect(find.text('Not for me'), findsNothing);
+    // The library still opens.
+    expect(_key('suggested-farm'), findsOneWidget);
+    final prefs = await SharedPreferences.getInstance();
+    expect(prefs.getString(PackPreferences.storageKey), newer);
   });
 
   testWidgets('a hidden favorite is only in Hidden packs until shown again', (
@@ -170,7 +245,7 @@ void main() {
     expect(
       find.descendant(
         of: _key('hidden-safari'),
-        matching: find.text('Favorite'),
+        matching: find.text('In favorites'),
       ),
       findsOneWidget,
     );
@@ -197,10 +272,7 @@ void main() {
     expect(find.text('Nothing to show for these topics'), findsNothing);
     expect(await const InterestStore().load(), isEmpty);
     expect(find.text('Hidden packs (1)'), findsOneWidget);
-    expect(
-      (await const PackPreferencesStore().load()).isHidden('cars'),
-      isTrue,
-    );
+    expect((await savedChoices()).isHidden('cars'), isTrue);
   });
 
   testWidgets('a topic page leaves hidden packs out and can show them again', (
@@ -246,7 +318,7 @@ void main() {
     expect(_key('pack-cars'), findsOneWidget);
   });
 
-  testWidgets('choices wait for saved data and are never offered early', (
+  testWidgets('no pack is shown until the saved choices are known', (
     tester,
   ) async {
     final store = GatedPackStore(
@@ -263,15 +335,32 @@ void main() {
     final done = cubit.initialize();
     await tester.pump(HomeCubit.preferencesGrace);
     await tester.pumpAndSettle();
-    expect(_key('suggested-mountains'), findsOneWidget);
-    expect(find.text('Favorite'), findsNothing);
-    expect(find.text('Not for me'), findsNothing);
+    // Topics only: the hidden "farm" pack can never flash up.
+    expect(find.byType(PackCard), findsNothing);
+    expect(find.textContaining('Getting your saved favorites'), findsOneWidget);
+    expect(_chip('Animals'), findsOneWidget);
+
+    // A topic page waits too.
+    await tester.ensureVisible(_topicCard('Animals'));
+    await tester.pumpAndSettle();
+    await tester.tap(_topicCard('Animals'));
+    // The spinner keeps animating, so step time instead of settling.
+    await tester.pump(const Duration(seconds: 1));
+    await tester.pump(const Duration(seconds: 1));
+    expect(find.byType(PackPage), findsOneWidget);
+    expect(find.byType(PackCard), findsNothing);
+    expect(find.byType(CircularProgressIndicator), findsOneWidget);
 
     store.release();
     await done;
     await tester.pumpAndSettle();
+    expect(_key('pack-safari'), findsOneWidget);
+    expect(_key('pack-farm'), findsNothing);
+    await tester.pageBack();
+    await tester.pumpAndSettle();
     expect(_key('suggested-farm'), findsNothing);
     expect(_key('favorite-mountains'), findsOneWidget);
+    expect(find.text('Hidden packs (1)'), findsOneWidget);
   });
 
   testWidgets('a choice that cannot be saved says so calmly', (tester) async {

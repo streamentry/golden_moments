@@ -1,4 +1,5 @@
 import 'package:equatable/equatable.dart';
+import 'package:flutter/foundation.dart' show ValueGetter;
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/features/home/data/pack_preferences.dart';
@@ -17,6 +18,8 @@ class HomeState extends Equatable {
     this.packPreferences = const PackPreferences(),
     this.suggestionOffset = 0,
     this.preferencesReady = false,
+    this.preferencesUnreadable = false,
+    this.lastHiddenPackId,
     this.preferencesSaveFailed = false,
     this.errorMessage,
   });
@@ -36,9 +39,23 @@ class HomeState extends Equatable {
   /// Moves only when the person asks for other suggestions.
   final int suggestionOffset;
 
-  /// True once the saved choices are known; until then Favorite and Not for
-  /// me are not offered, so nothing can overwrite them.
+  /// True once reading the saved choices has finished. Until then no pack is
+  /// shown at all (only topics), so a pack marked Not for me can never
+  /// appear, even briefly, and nothing can overwrite the choices.
   final bool preferencesReady;
+
+  /// True when a saved record exists but could not be read (damaged, from a
+  /// newer version, or storage failed). It is never written over, so
+  /// Favorite and Not for me stay off. Which packs it hid cannot be known,
+  /// so the catalog is shown in full with a note saying so.
+  final bool preferencesUnreadable;
+
+  /// The pack most recently marked Not for me, for the lasting note that
+  /// says where to find it. Cleared when that pack is shown again.
+  final String? lastHiddenPackId;
+
+  /// Whether Favorite and Not for me may be offered and saved.
+  bool get choicesEnabled => preferencesReady && !preferencesUnreadable;
 
   /// True when the last favorite or hide choice could not be saved.
   final bool preferencesSaveFailed;
@@ -61,6 +78,16 @@ class HomeState extends Equatable {
   /// Favorites that are not hidden.
   List<Pack> get favoritePacks =>
       selection.favoritePacks(packs, packPreferences);
+
+  /// The pack named by [lastHiddenPackId], while it is still hidden.
+  Pack? get lastHiddenPack {
+    final id = lastHiddenPackId;
+    if (id == null || !packPreferences.isHidden(id)) return null;
+    for (final pack in packs) {
+      if (pack.id == id) return pack;
+    }
+    return null;
+  }
 
   /// Packs marked "Not for me".
   List<Pack> get hiddenPacks => selection.hiddenPacks(packs, packPreferences);
@@ -89,6 +116,8 @@ class HomeState extends Equatable {
     PackPreferences? packPreferences,
     int? suggestionOffset,
     bool? preferencesReady,
+    bool? preferencesUnreadable,
+    ValueGetter<String?>? lastHiddenPackId,
     bool? preferencesSaveFailed,
     String? errorMessage,
   }) {
@@ -99,6 +128,11 @@ class HomeState extends Equatable {
       packPreferences: packPreferences ?? this.packPreferences,
       suggestionOffset: suggestionOffset ?? this.suggestionOffset,
       preferencesReady: preferencesReady ?? this.preferencesReady,
+      preferencesUnreadable:
+          preferencesUnreadable ?? this.preferencesUnreadable,
+      lastHiddenPackId: lastHiddenPackId == null
+          ? this.lastHiddenPackId
+          : lastHiddenPackId(),
       preferencesSaveFailed:
           preferencesSaveFailed ?? this.preferencesSaveFailed,
       errorMessage: errorMessage ?? this.errorMessage,
@@ -113,6 +147,8 @@ class HomeState extends Equatable {
     packPreferences,
     suggestionOffset,
     preferencesReady,
+    preferencesUnreadable,
+    lastHiddenPackId,
     preferencesSaveFailed,
     errorMessage,
   ];

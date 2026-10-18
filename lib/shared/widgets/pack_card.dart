@@ -7,9 +7,11 @@ import 'package:golden_moments/shared/widgets/pressable.dart';
 /// Every pack is bundled and starts with a single tap.
 ///
 /// When [onFavoriteChanged] or [onNotForMe] is given, the card also shows a
-/// labelled Favorite toggle (filled or outlined star plus the word, announced
-/// as a toggle) and a "Not for me" action. They sit below the tappable
-/// picture area, so choosing them never starts the pack.
+/// favorite toggle and a "Not for me" action. The toggle's words change with
+/// its state ("Add to favorites" / "In favorites"), as does its star (outline
+/// / filled), and it is announced as a toggle. The actions sit below the
+/// tappable picture area, at least 8 apart, so choosing them never starts
+/// the pack.
 class PackCard extends StatelessWidget {
   const new({
     required this.pack,
@@ -60,13 +62,19 @@ class PackCard extends StatelessWidget {
 
   Widget _buildActions(ThemeData theme) {
     return Padding(
-      padding: const EdgeInsets.fromLTRB(gmSpaceXs, 0, gmSpaceXs, gmSpaceXs),
+      padding: const EdgeInsets.fromLTRB(
+        gmSpaceXs,
+        gmSpaceSm,
+        gmSpaceXs,
+        gmSpaceXs,
+      ),
       child: Wrap(
-        spacing: gmSpaceXs,
+        spacing: gmSpaceSm,
+        runSpacing: gmSpaceSm,
         children: [
           if (onFavoriteChanged case final onChanged?)
-            // The word stays "Favorite"; the filled or outlined star and the
-            // announced toggle state carry the choice, never colour alone.
+            // Words, star shape and the announced toggle state all carry the
+            // choice; never colour or fill alone.
             MergeSemantics(
               key: ValueKey('favorite-${pack.id}'),
               child: Semantics(
@@ -75,8 +83,10 @@ class PackCard extends StatelessWidget {
                   onPressed: () => onChanged(!isFavorite),
                   icon: Icon(isFavorite ? Icons.star : Icons.star_border),
                   label: Text(
-                    'Favorite',
-                    semanticsLabel: 'Favorite, ${pack.title}',
+                    isFavorite ? 'In favorites' : 'Add to favorites',
+                    semanticsLabel: isFavorite
+                        ? 'In favorites, ${pack.title}'
+                        : 'Add to favorites, ${pack.title}',
                   ),
                 ),
               ),

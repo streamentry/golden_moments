@@ -88,12 +88,16 @@ void main() {
     const store = PackPreferencesStore();
 
     test('round-trips as a versioned record', () async {
-      expect(await store.load(), const PackPreferences());
+      final fresh = await store.load();
+      expect(fresh.status, PackPreferencesStatus.absent);
+      expect(fresh.writable, isTrue);
       final value = const PackPreferences()
           .withFavorite('farm', favorite: true)
           .withHidden('cars', hide: true);
       expect(await store.save(value), isTrue);
-      expect(await const PackPreferencesStore().load(), value);
+      final read = await const PackPreferencesStore().load();
+      expect(read.status, PackPreferencesStatus.loaded);
+      expect(read.preferences, value);
 
       final raw = (await SharedPreferences.getInstance()).getString(
         PackPreferences.storageKey,
@@ -105,7 +109,7 @@ void main() {
       });
     });
 
-    test('corrupt or other-version data loads as no choices', () async {
+    test('corrupt or other-version data is unreadable, not empty', () async {
       for (final bad in [
         '{not json',
         '[]',
@@ -118,7 +122,10 @@ void main() {
         SharedPreferences.setMockInitialValues({
           PackPreferences.storageKey: bad,
         });
-        expect(await store.load(), const PackPreferences(), reason: bad);
+        final read = await store.load();
+        expect(read.status, PackPreferencesStatus.unreadable, reason: bad);
+        expect(read.writable, isFalse, reason: bad);
+        expect(read.preferences, const PackPreferences(), reason: bad);
       }
     });
 
@@ -135,7 +142,7 @@ void main() {
       });
       await store.save(const PackPreferences().withHidden('farm', hide: true));
       expect(await store.reset(), isTrue);
-      expect(await store.load(), const PackPreferences());
+      expect((await store.load()).status, PackPreferencesStatus.absent);
       expect(await const InterestStore().load(), {'food'});
       expect((await const GentlePreferencesStore().load()).pairs, 3);
       expect(
@@ -233,17 +240,11 @@ void main() {
       await cubit.setFavorite('lakes', favorite: true);
       await cubit.hidePack('farm');
       expect(_ids(cubit.state.favoritePacks), ['lakes']);
-      expect(
-        await const PackPreferencesStore().load(),
-        cubit.state.packPreferences,
-      );
+      expect(await savedChoices(), cubit.state.packPreferences);
 
       await cubit.showPack('farm');
       await cubit.setFavorite('lakes', favorite: false);
-      expect(
-        await const PackPreferencesStore().load(),
-        const PackPreferences(),
-      );
+      expect(await savedChoices(), const PackPreferences());
     });
 
     test('unknown pack ids are ignored', () async {
@@ -259,6 +260,42 @@ void main() {
       );
     });
 
+    test('an unreadable record is never written over', () async {
+      for (final raw in ['{not json', '{"v":2,"hidden":["farm"]}', '[]']) {
+        SharedPreferences.setMockInitialValues({
+          PackPreferences.storageKey: raw,
+        });
+        final cubit = await loaded();
+        expect(cubit.state.preferencesReady, isTrue, reason: raw);
+        expect(cubit.state.preferencesUnreadable, isTrue, reason: raw);
+        expect(cubit.state.choicesEnabled, isFalse, reason: raw);
+        await cubit.hidePack('cars');
+        await cubit.setFavorite('farm', favorite: true);
+        expect(cubit.state.packPreferences, const PackPreferences());
+        expect(
+          (await SharedPreferences.getInstance()).getString(
+            PackPreferences.storageKey,
+          ),
+          raw,
+          reason: raw,
+        );
+      }
+    });
+
+    test('the last hidden pack is remembered until shown again', () async {
+      final cubit = await loaded();
+      await cubit.hidePack('farm');
+      expect(cubit.state.lastHiddenPack?.id, 'farm');
+      await cubit.setFavorite('lakes', favorite: true);
+      expect(cubit.state.lastHiddenPack?.id, 'farm');
+      await cubit.hidePack('cars');
+      expect(cubit.state.lastHiddenPack?.id, 'cars');
+      await cubit.showPack('farm');
+      expect(cubit.state.lastHiddenPack?.id, 'cars');
+      await cubit.showPack('cars');
+      expect(cubit.state.lastHiddenPack, isNull);
+    });
+
     test('a failed save keeps the choice for now and says so', () async {
       final cubit = await loaded(store: const FailingPackStore());
       await cubit.hidePack('farm');
@@ -267,7 +304,7 @@ void main() {
     });
 
     test(
-      'slow saved choices never block the catalog or get overwritten',
+      'slow saved choices keep packs back and are never overwritten',
       () async {
         final store = GatedPackStore(
           const PackPreferences().withHidden('cars', hide: true),
@@ -283,6 +320,7 @@ void main() {
         );
         expect(cubit.state.status, HomeStatus.loaded);
         expect(cubit.state.preferencesReady, isFalse);
+        expect(cubit.state.choicesEnabled, isFalse);
         await cubit.hidePack('farm');
         expect(store.saved, isEmpty);
 
