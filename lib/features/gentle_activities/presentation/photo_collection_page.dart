@@ -77,7 +77,11 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     unawaited(_load(recover: true));
   }
 
-  Future<bool> _confirm(String title, String message) async {
+  Future<bool> _confirm(
+    String title,
+    String message, {
+    String confirmLabel = 'Continue',
+  }) async {
     if (!mounted) return false;
     return await showDialog<bool>(
           context: context,
@@ -92,7 +96,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
               ),
               FilledButton(
                 onPressed: () => Navigator.pop(context, true),
-                child: const Text('Continue'),
+                child: Text(confirmLabel),
               ),
             ],
           ),
@@ -184,8 +188,11 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     if (_busy || _store == null) return;
     final confirmed = await _confirm(
       id == null ? 'Remove all photo copies?' : 'Remove this photo copy?',
-      'This removes copies saved by Golden Moments. Originals '
-      'in your photo library are not deleted.',
+      'This removes copies saved by Golden Moments on this device. '
+      'Originals in your photo library are not deleted, and earlier '
+      'device backups are not changed.',
+      // Say what the button does; a destructive step is never 'Continue'.
+      confirmLabel: id == null ? 'Remove all copies' : 'Remove copy',
     );
     if (!confirmed || !mounted) return;
     setState(() {
@@ -330,6 +337,23 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
       }
     } finally {
       if (mounted) setState(() => _busy = false);
+    }
+  }
+
+  /// Hiding from Look together is the same reversible Hide as in the photo
+  /// options: the copy stays, and the game and later viewing skip it.
+  Future<bool> _hideFromViewing(ActivityPicture picture) async {
+    final annotations = _annotations;
+    if (annotations == null) return false;
+    final note = (_notes[picture.id] ?? const PhotoAnnotation()).copyWith(
+      hidden: true,
+    );
+    try {
+      final notes = await annotations.update(picture.id, note);
+      if (mounted) setState(() => _notes = notes);
+      return true;
+    } on Object {
+      return false;
     }
   }
 
@@ -492,8 +516,10 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                       ? null
                       : () => Navigator.of(context).push(
                           MaterialPageRoute<void>(
-                            builder: (_) =>
-                                PhotoTogetherPage(pictures: playable),
+                            builder: (_) => PhotoTogetherPage(
+                              pictures: playable,
+                              onHide: _hideFromViewing,
+                            ),
                           ),
                         ),
                   icon: const Icon(Icons.chat_bubble_outline),
@@ -630,6 +656,8 @@ class _PhotoOptionsSheetState extends State<_PhotoOptionsSheet> {
               decoration: const InputDecoration(
                 labelText: 'Caption (optional)',
                 helperText: 'Shown only when you choose to show captions.',
+                // Wraps instead of being cut off beside the counter.
+                helperMaxLines: 3,
               ),
             ),
             const SizedBox(height: gmSpaceSm),
@@ -641,6 +669,8 @@ class _PhotoOptionsSheetState extends State<_PhotoOptionsSheet> {
               decoration: const InputDecoration(
                 labelText: 'Description for screen readers (optional)',
                 helperText: 'Read aloud while the picture is showing.',
+                // Wraps instead of being cut off beside the counter.
+                helperMaxLines: 3,
               ),
             ),
             SwitchListTile(

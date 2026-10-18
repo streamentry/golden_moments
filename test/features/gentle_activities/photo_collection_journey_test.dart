@@ -2,6 +2,7 @@ import 'dart:io';
 import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/data/family_photo_store.dart';
@@ -159,6 +160,16 @@ void main() {
       ),
       'Two people on a wooden dock.',
     );
+    // Helper text beside the counter wraps; it is never cut off.
+    for (final helper in [
+      'Shown only when you choose to show captions.',
+      'Read aloud while the picture is showing.',
+    ]) {
+      final paragraph = tester.renderObject<RenderParagraph>(
+        find.descendant(of: find.text(helper), matching: find.byType(RichText)),
+      );
+      expect(paragraph.didExceedMaxLines, isFalse, reason: helper);
+    }
     await _toggle(tester, 'Favorite');
     await tester.tap(find.text('Save').hitTestable().first);
     await tester.pump(const Duration(milliseconds: 500));
@@ -212,9 +223,13 @@ void main() {
     await _openOptions(tester, 0);
     await _tapText(tester, 'Remove this copy');
     expect(find.text('Remove this photo copy?'), findsOneWidget);
+    // Honest about what deleting cannot reach (GM-027).
+    expect(find.textContaining('earlier device backups'), findsOneWidget);
+    // The destructive button says what it does.
+    expect(find.widgetWithText(FilledButton, 'Remove copy'), findsOneWidget);
     await _tapText(
       tester,
-      'Continue',
+      'Remove copy',
       until: () => _shows(find.text('2 of 24 photos')),
     );
     expect(find.text('2 of 24 photos'), findsOneWidget);
@@ -251,6 +266,42 @@ void main() {
     expect(labels.length, 4);
     expect(labels.toSet(), {'Family photo 1', 'Family photo 3'});
     expect(find.text('Done for now'), findsOneWidget);
+  });
+
+  testWidgets('hiding in Look together is the same reversible Hide', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(480, 1400));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    final importer = _FakeImporter([
+      [1, 2, 3],
+    ]);
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    await _tapText(tester, 'Choose photos');
+
+    await _tapText(tester, 'Look at photos together');
+    expect(find.text('Picture 1 of 3'), findsOneWidget);
+    await _tapText(tester, 'Hide this picture');
+    expect(find.text('Picture 1 of 2'), findsOneWidget);
+    expect(find.textContaining('You can show it again'), findsOneWidget);
+    await _tapText(tester, 'Done for now');
+
+    // The collection keeps the copy, shows it as Hidden, and it survives a
+    // restart; the game never receives it.
+    expect(find.text('3 of 24 photos'), findsOneWidget);
+    expect(find.text('Hidden'), findsOneWidget);
+    await tester.pumpWidget(const SizedBox());
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    expect(find.text('Hidden'), findsOneWidget);
+    await _tapText(tester, 'Play with these photos');
+    final labels = {
+      for (final node
+          in find.bySemanticsLabel(RegExp(r', tile \d+$')).evaluate())
+        (node.widget as Semantics).properties.label!.split(',').first,
+    };
+    expect(labels, {'Family photo 2', 'Family photo 3'});
   });
 
   testWidgets('photo cards grow with 200% text instead of shrinking it', (
