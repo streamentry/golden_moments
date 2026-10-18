@@ -68,27 +68,27 @@ class _GentleHomePageState extends State<GentleHomePage> {
               gmSpaceLg,
             ),
             child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.stretch,
               mainAxisSize: MainAxisSize.min,
               children: [
                 Text(
                   'Enjoy it together',
                   style: Theme.of(context).textTheme.headlineSmall,
                 ),
-                const SizedBox(height: 16),
+                const SizedBox(height: gmSpaceMd),
                 const Text(
                   "Follow the person's interests. Keep pictures visible, "
                   'use fewer tiles, or simply look together. There is no '
                   'need to remember names or finish a game. Stop or change '
                   'the activity if it is uncomfortable.',
                 ),
-                const SizedBox(height: 16),
+                const SizedBox(height: gmSpaceMd),
                 const Text(
                   'Golden Moments offers recreation and shared '
                   'conversation. It does not diagnose, treat, prevent, or '
                   "measure dementia or Alzheimer's disease.",
                 ),
-                const SizedBox(height: 16),
+                const SizedBox(height: gmSpaceMd),
                 const Text(
                   'Family-photo copies are stored on this device and may be'
                   ' included in device backups. The app does not upload '
@@ -97,12 +97,13 @@ class _GentleHomePageState extends State<GentleHomePage> {
                   'internet.',
                 ),
                 const SizedBox(height: gmSpaceLg),
-                OutlinedButton(
+                OutlinedButton.icon(
                   onPressed: () {
                     Navigator.pop(context);
                     _open(const HelpPrivacyPage());
                   },
-                  child: const Text('More help and privacy'),
+                  icon: const Icon(Icons.help_outline),
+                  label: const Text('More help and privacy'),
                 ),
                 const SizedBox(height: gmSpaceSm),
                 OutlinedButton.icon(
@@ -142,9 +143,73 @@ class _GentleHomePageState extends State<GentleHomePage> {
       icon: const Icon(Icons.grid_view),
       label: const Text('Start a gentle game'),
     );
+    final children = <Widget>[
+      // The one dominant action stays in the first view (GM-001):
+      // directly under the heading, and above it at large text. A
+      // small picture of the activity sits between them.
+      if (!largeText) ...[
+        heading,
+        const SizedBox(height: gmSpaceLg),
+        const _StarterPreview(),
+        const SizedBox(height: gmSpaceLg),
+      ],
+      start,
+      const SizedBox(height: gmSpaceSm),
+      Text(
+        'Four large tiles. No timers, scores, or rush.',
+        style: theme.textTheme.bodyLarge,
+      ),
+      if (largeText) ...[const SizedBox(height: gmSpaceLg), heading],
+      const SizedBox(height: gmSpaceXl),
+      OutlinedButton.icon(
+        style: OutlinedButton.styleFrom(minimumSize: heroSize),
+        onPressed: () => _open(const PhotoCollectionPage()),
+        icon: const Icon(Icons.photo_library_outlined),
+        label: const Text('Your family photos'),
+      ),
+      const SizedBox(height: gmSpaceMd),
+      OutlinedButton.icon(
+        style: OutlinedButton.styleFrom(minimumSize: heroSize),
+        onPressed: () =>
+            _open(const PhotoTogetherPage(pictures: ActivityPicture.samples)),
+        icon: const Icon(Icons.chat_bubble_outline),
+        label: const Text('Look together'),
+      ),
+      const SizedBox(height: gmSpaceXl),
+      Text(
+        // A non-breaking hyphen keeps "Wi‑Fi" on one line.
+        'The starter illustrations work without Wi\u2011Fi. Selected '
+        'family photos work offline after they are copied to this '
+        'device.',
+        style: theme.textTheme.bodyMedium?.copyWith(
+          color: theme.colorScheme.onSurfaceVariant,
+        ),
+      ),
+      const SizedBox(height: gmSpaceLg),
+      TextButton.icon(
+        onPressed: () => _open(const MainNavigation()),
+        icon: const Icon(Icons.collections_bookmark_outlined),
+        label: const Text('Explore the picture-pack library'),
+      ),
+      Text(
+        'All picture packs are included. Ready to play offline.',
+        textAlign: TextAlign.center,
+        style: theme.textTheme.bodyMedium?.copyWith(
+          color: theme.colorScheme.onSurfaceVariant,
+        ),
+      ),
+      const SizedBox(height: gmSpaceLg),
+      // Always available, never pushed (DESIGN.md › Sharing).
+      Center(
+        child: ShareWithFamilyButton(
+          onPressed: () => unawaited(shareAndRemember()),
+        ),
+      ),
+    ];
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Golden Moments'),
+        toolbarHeight: gmToolbarHeight(context),
+        title: const GmTitle('Golden Moments'),
         actions: [
           IconButton(
             onPressed: _showComfort,
@@ -162,66 +227,73 @@ class _GentleHomePageState extends State<GentleHomePage> {
         child: Center(
           child: ConstrainedBox(
             constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
-            child: ListView(
-              padding: const EdgeInsets.all(gmSpaceLg),
-              children: [
-                // The one dominant action stays in the first view (GM-001):
-                // directly under the heading, and above it at large text.
-                if (!largeText) ...[heading, const SizedBox(height: gmSpaceLg)],
-                start,
-                const SizedBox(height: gmSpaceSm),
-                Text(
-                  'Four large tiles. No timers, scores, or rush.',
-                  style: theme.textTheme.bodyLarge,
-                ),
-                if (largeText) ...[const SizedBox(height: gmSpaceLg), heading],
-                const SizedBox(height: gmSpaceXl),
-                OutlinedButton.icon(
-                  style: OutlinedButton.styleFrom(minimumSize: heroSize),
-                  onPressed: () => _open(const PhotoCollectionPage()),
-                  icon: const Icon(Icons.photo_library_outlined),
-                  label: const Text('Your family photos'),
-                ),
-                const SizedBox(height: gmSpaceMd),
-                OutlinedButton.icon(
-                  style: OutlinedButton.styleFrom(minimumSize: heroSize),
-                  onPressed: () => _open(
-                    const PhotoTogetherPage(pictures: ActivityPicture.samples),
+            // On tall screens (iPad) the content sits in the middle rather
+            // than clinging to the top; on small ones it simply scrolls.
+            child: LayoutBuilder(
+              builder: (context, viewport) => SingleChildScrollView(
+                padding: const EdgeInsets.all(gmSpaceLg),
+                child: ConstrainedBox(
+                  constraints: BoxConstraints(
+                    minHeight: viewport.maxHeight - gmSpaceLg * 2,
                   ),
-                  icon: const Icon(Icons.chat_bubble_outline),
-                  label: const Text('Look together'),
-                ),
-                const SizedBox(height: gmSpaceXl),
-                Text(
-                  'The starter illustrations work without Wi-Fi. Selected '
-                  'family photos work offline after they are copied to this '
-                  'device.',
-                  style: theme.textTheme.bodyMedium?.copyWith(
-                    color: theme.colorScheme.onSurfaceVariant,
+                  child: Column(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    crossAxisAlignment: CrossAxisAlignment.stretch,
+                    children: children,
                   ),
                 ),
-                const SizedBox(height: gmSpaceLg),
-                TextButton.icon(
-                  onPressed: () => _open(const MainNavigation()),
-                  icon: const Icon(Icons.collections_bookmark_outlined),
-                  label: const Text('Explore the picture-pack library'),
-                ),
-                Text(
-                  'All picture packs are included. Ready to play offline.',
-                  textAlign: TextAlign.center,
-                  style: theme.textTheme.bodyMedium?.copyWith(
-                    color: theme.colorScheme.onSurfaceVariant,
-                  ),
-                ),
-                const SizedBox(height: gmSpaceLg),
-                // Always available, never pushed (DESIGN.md › Sharing).
-                Center(
-                  child: ShareWithFamilyButton(
-                    onPressed: () => unawaited(shareAndRemember()),
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+/// A small, decorative picture of the activity: two matching pairs on large
+/// tiles, so a first visit shows what a game looks like before anyone taps.
+/// Screen readers skip it; the button and sentence beside it say the same.
+class _StarterPreview extends StatelessWidget {
+  const new();
+
+  @override
+  Widget build(BuildContext context) {
+    final scheme = Theme.of(context).colorScheme;
+    final pictures = [
+      ActivityPicture.samples[0],
+      ActivityPicture.samples[1],
+      ActivityPicture.samples[1],
+      ActivityPicture.samples[0],
+    ];
+    return ExcludeSemantics(
+      child: Center(
+        child: ConstrainedBox(
+          constraints: const BoxConstraints(maxWidth: 360),
+          child: Row(
+            children: [
+              for (var i = 0; i < pictures.length; i++) ...[
+                if (i > 0) const SizedBox(width: gmTileGap),
+                Expanded(
+                  child: AspectRatio(
+                    aspectRatio: 1,
+                    child: DecoratedBox(
+                      decoration: ShapeDecoration(
+                        color: scheme.surface,
+                        shape: gmTileShape(scheme),
+                      ),
+                      child: LayoutBuilder(
+                        builder: (context, box) => Icon(
+                          pictures[i].icon,
+                          size: box.maxWidth * 0.5,
+                          color: scheme.primary,
+                        ),
+                      ),
+                    ),
                   ),
                 ),
               ],
-            ),
+            ],
           ),
         ),
       ),

@@ -106,7 +106,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
       barrierDismissible: false,
       builder: (context) => AlertDialog(
         scrollable: true,
-        title: const Text('Pick up where you left off?'),
+        title: const GmTitle('Pick up where you left off?'),
         content: const Text(
           'You have a board in progress. You can carry on with it or start '
           'a new one.',
@@ -348,7 +348,8 @@ class _GentleGamePageState extends State<GentleGamePage> {
     final scale = MediaQuery.textScalerOf(context).scale(16) / 16;
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Gentle photo match'),
+        toolbarHeight: gmToolbarHeight(context),
+        title: const GmTitle('Gentle photo match'),
         actions: [
           IconButton(
             onPressed: _showHelp,
@@ -375,16 +376,42 @@ class _GentleGamePageState extends State<GentleGamePage> {
                       // At very large text the board comes first and the
                       // instruction moves into the status line below it.
                       final instructionBelow = scale > 1.5;
-                      final instruction = Text(
-                        'Tap two pictures that match.',
-                        style: theme.textTheme.bodyLarge,
-                      );
+                      // A finished board says so calmly where the
+                      // instruction was: a check and a plain sentence, no
+                      // confetti, score or praise (DESIGN.md › Celebration).
+                      final instruction = board.complete
+                          ? Semantics(
+                              liveRegion: true,
+                              header: true,
+                              child: Row(
+                                children: [
+                                  Icon(
+                                    Icons.check_circle_outline,
+                                    color: theme.colorScheme.primary,
+                                    size: 32,
+                                  ),
+                                  const SizedBox(width: gmSpaceSm),
+                                  Expanded(
+                                    child: Text(
+                                      'All pairs together.',
+                                      style: theme.textTheme.headlineSmall,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            )
+                          : Text(
+                              'Tap two pictures that match.',
+                              style: theme.textTheme.bodyLarge,
+                            );
                       final status = Semantics(
                         liveRegion: true,
                         child: Text(
                           board.complete
-                              ? 'All pairs together. '
-                                    'Play again or take a break.'
+                              ? instructionBelow
+                                    ? 'All pairs together. '
+                                          'Play again or take a break.'
+                                    : 'Play again or take a break.'
                               : board.waitingForNextTurn
                               ? 'Take your time. Tap a picture to continue.'
                               : instructionBelow
@@ -480,7 +507,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
                           ),
                           const SizedBox(height: gmSpaceSm),
                         ],
-                        _exitButtons(board, stacked: scale > 1.3),
+                        _exitButtons(board),
                       ],
                     ),
                   ),
@@ -492,33 +519,31 @@ class _GentleGamePageState extends State<GentleGamePage> {
 
   /// Side by side normally; stacked full width at large text so labels never
   /// squeeze into a few letters per line or push the board off screen.
-  Widget _exitButtons(GentleBoard board, {required bool stacked}) {
+  Widget _exitButtons(GentleBoard board) {
     final done = OutlinedButton(
       onPressed: () => Navigator.of(context).pop(),
-      child: const Text('Done for now'),
+      child: const Text('Done for now', textAlign: TextAlign.center),
     );
-    final again = board.complete
-        ? FilledButton(onPressed: _restart, child: const Text('Play again'))
-        : OutlinedButton(
-            onPressed: _startAgain,
-            child: const Text('Start again'),
-          );
-    if (stacked) {
-      return Column(
-        crossAxisAlignment: CrossAxisAlignment.stretch,
-        children: [
-          done,
-          const SizedBox(height: gmSpaceSm),
-          again,
-        ],
+    if (board.complete) {
+      // Play again is the one primary action, so it comes first when the
+      // two buttons have to stack.
+      return GmButtonPair(
+        first: done,
+        second: FilledButton(
+          onPressed: _restart,
+          child: const Text('Play again', textAlign: TextAlign.center),
+        ),
+        labels: ('Done for now', 'Play again'),
+        secondOnTop: true,
       );
     }
-    return Row(
-      children: [
-        Expanded(child: done),
-        const SizedBox(width: gmSpaceMd),
-        Expanded(child: again),
-      ],
+    return GmButtonPair(
+      first: done,
+      second: OutlinedButton(
+        onPressed: _startAgain,
+        child: const Text('Start again', textAlign: TextAlign.center),
+      ),
+      labels: ('Done for now', 'Start again'),
     );
   }
 
@@ -585,16 +610,13 @@ class _GentleGamePageState extends State<GentleGamePage> {
             child: Stack(
               fit: StackFit.expand,
               children: [
-                Padding(
-                  padding: const EdgeInsets.all(gmSpaceSm),
-                  child: visible
-                      ? PictureView(picture: picture)
-                      : Icon(
-                          Icons.photo_outlined,
-                          size: 56,
-                          color: scheme.onSurfaceVariant,
-                        ),
-                ),
+                if (visible)
+                  Padding(
+                    padding: const EdgeInsets.all(gmSpaceSm),
+                    child: PictureView(picture: picture),
+                  )
+                else
+                  const GmTileBack(),
                 if (matched)
                   const Positioned(
                     top: gmSpaceSm,

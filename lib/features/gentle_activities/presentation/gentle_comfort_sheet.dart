@@ -86,6 +86,13 @@ class _GentleComfortSheetState extends State<GentleComfortSheet> {
           mainAxisSize: MainAxisSize.min,
           children: [
             Text('Comfort settings', style: theme.textTheme.headlineSmall),
+            const SizedBox(height: gmSpaceXs),
+            Text(
+              'Changes apply right away and are remembered.',
+              style: theme.textTheme.bodyMedium?.copyWith(
+                color: theme.colorScheme.onSurfaceVariant,
+              ),
+            ),
             const SizedBox(height: gmSpaceMd),
             Text('Number of tiles', style: theme.textTheme.titleMedium),
             const SizedBox(height: gmSpaceSm),
@@ -123,15 +130,20 @@ class _GentleComfortSheetState extends State<GentleComfortSheet> {
                   style: theme.textTheme.bodyMedium,
                 ),
               ),
-            const SizedBox(height: gmSpaceSm),
-            OutlinedButton(
+            // Reset is a quiet, confirmed side action; closing is the one
+            // primary action and spans the sheet like other sheet actions.
+            TextButton.icon(
               onPressed: _reset,
-              child: const Text('Reset comfort settings'),
+              icon: const Icon(Icons.restart_alt),
+              label: const Text('Reset comfort settings'),
             ),
             const SizedBox(height: gmSpaceSm),
-            FilledButton(
-              onPressed: () => Navigator.pop(context),
-              child: Text(widget.closeLabel),
+            SizedBox(
+              width: double.infinity,
+              child: FilledButton(
+                onPressed: () => Navigator.pop(context),
+                child: Text(widget.closeLabel),
+              ),
             ),
           ],
         ),

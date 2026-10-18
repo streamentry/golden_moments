@@ -14,8 +14,10 @@ class PackGrid extends StatelessWidget {
   final List<Pack> packs;
   final Widget Function(BuildContext context, Pack pack) cardBuilder;
 
-  /// Narrowest comfortable card at 100% text.
-  static const double minCardWidth = 170;
+  /// Narrowest comfortable card at 100% text: wide enough for a large
+  /// picture and for each action label on one line, so phones show one
+  /// column and tablets two.
+  static const double minCardWidth = 300;
 
   @override
   Widget build(BuildContext context) {
@@ -24,7 +26,7 @@ class PackGrid extends StatelessWidget {
       builder: (context, constraints) {
         final columns = (constraints.maxWidth / (minCardWidth * scale))
             .floor()
-            .clamp(1, 4);
+            .clamp(1, 3);
         final rows = <Widget>[];
         for (var start = 0; start < packs.length; start += columns) {
           final cells = <Widget>[];

@@ -71,7 +71,10 @@ class _PackView extends StatelessWidget {
         unawaited(SoundService().playTap());
       },
       child: Scaffold(
-        appBar: AppBar(title: Text(categoryName)),
+        appBar: AppBar(
+          toolbarHeight: gmToolbarHeight(context),
+          title: GmTitle(categoryName),
+        ),
         body: BlocBuilder<HomeCubit, HomeState>(
           builder: (context, state) {
             if (state.status == HomeStatus.error) {

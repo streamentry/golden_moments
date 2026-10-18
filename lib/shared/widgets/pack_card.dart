@@ -118,7 +118,9 @@ class PackCard extends StatelessWidget {
             ColoredBox(
               color: gmSurf200,
               child: AspectRatio(
-                aspectRatio: 3 / 2, // width / height
+                // Cards are at least 300 wide (PackGrid), so a wide frame
+                // keeps the picture large without making cards tall.
+                aspectRatio: 16 / 9,
                 child: Image.asset(
                   pack.thumbnailUrl,
                   fit: BoxFit.cover,
@@ -228,7 +230,8 @@ class PackCard extends StatelessWidget {
     );
   }
 
-  /// Difficulty is a choice, not a status, so the chip stays neutral.
+  /// Size is a concrete choice, not a level: the chip says how many tiles,
+  /// in the same words as the comfort settings, and stays neutral.
   Widget _buildDifficultyChip(ThemeData theme) {
     return DecoratedBox(
       decoration: BoxDecoration(
@@ -241,7 +244,7 @@ class PackCard extends StatelessWidget {
           vertical: gmSpaceXs,
         ),
         child: Text(
-          pack.difficulty.displayName,
+          '${pack.difficulty.totalTiles} tiles',
           style: theme.textTheme.labelSmall?.copyWith(
             color: theme.colorScheme.onSurfaceVariant,
           ),

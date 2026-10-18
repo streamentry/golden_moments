@@ -85,9 +85,11 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
 
   @override
   Widget build(BuildContext context) {
-    final scale = MediaQuery.textScalerOf(context).scale(16) / 16;
     return Scaffold(
-      appBar: AppBar(title: const Text('Look together')),
+      appBar: AppBar(
+        toolbarHeight: gmToolbarHeight(context),
+        title: const GmTitle('Look together'),
+      ),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(
@@ -96,7 +98,7 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
           ),
         ),
       ),
-      bottomNavigationBar: _controls(stacked: scale > 1.3),
+      bottomNavigationBar: _controls(),
     );
   }
 
@@ -194,13 +196,13 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
         if (_pictures.any((p) => p.caption.isNotEmpty))
           SwitchListTile(
             contentPadding: EdgeInsets.zero,
-            title: const Text('Show captions'),
+            title: const GmTitle('Show captions'),
             value: _showCaption,
             onChanged: (value) => setState(() => _showCaption = value),
           ),
         SwitchListTile(
           contentPadding: EdgeInsets.zero,
-          title: const Text('Show a conversation prompt'),
+          title: const GmTitle('Show a conversation prompt'),
           value: _showPrompt,
           onChanged: (value) => setState(() => _showPrompt = value),
         ),
@@ -225,7 +227,7 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
     );
   }
 
-  Widget _controls({required bool stacked}) {
+  Widget _controls() {
     final done = TextButton(
       onPressed: () => Navigator.of(context).pop(),
       child: const Text('Done for now'),
@@ -257,19 +259,13 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
               mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
-                if (hasPictures && stacked) ...[
-                  next,
-                  const SizedBox(height: gmSpaceSm),
-                  previous,
-                  const SizedBox(height: gmSpaceSm),
-                ],
-                if (hasPictures && !stacked) ...[
-                  Row(
-                    children: [
-                      Expanded(child: previous),
-                      const SizedBox(width: gmSpaceMd),
-                      Expanded(child: next),
-                    ],
+                if (hasPictures) ...[
+                  GmButtonPair(
+                    first: previous,
+                    second: next,
+                    labels: ('Previous', 'Next'),
+                    iconWidth: 24 + gmSpaceSm,
+                    secondOnTop: true,
                   ),
                   const SizedBox(height: gmSpaceSm),
                 ],

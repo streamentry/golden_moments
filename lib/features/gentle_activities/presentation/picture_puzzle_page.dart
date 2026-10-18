@@ -67,7 +67,10 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
     final scale = MediaQuery.textScalerOf(context).scale(16) / 16;
     final complete = _board.complete;
     return Scaffold(
-      appBar: AppBar(title: const Text('Picture puzzle')),
+      appBar: AppBar(
+        toolbarHeight: gmToolbarHeight(context),
+        title: const GmTitle('Picture puzzle'),
+      ),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(

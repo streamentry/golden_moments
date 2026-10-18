@@ -53,7 +53,12 @@ class HomeView extends StatelessWidget {
         }
         return Scaffold(
           appBar: AppBar(
-            title: const Text('Golden Moments'),
+            toolbarHeight: gmToolbarHeight(context),
+            // Opened from the gentle home this is one place among several, so
+            // it is named for what it holds; on the web it is the whole app.
+            title: GmTitle(
+              Navigator.canPop(context) ? 'Picture packs' : 'Golden Moments',
+            ),
             actions: [
               IconButton(
                 icon: const Icon(Icons.settings),
@@ -85,7 +90,7 @@ class _LoadingView extends StatelessWidget {
           const CircularProgressIndicator(),
           const SizedBox(height: gmSpaceMd),
           Text(
-            'Loading your memory games...',
+            'Getting the picture packs ready…',
             style: Theme.of(parentContext).textTheme.bodyLarge,
             textAlign: TextAlign.center,
           ),
@@ -264,33 +269,17 @@ class _LoadedView extends StatelessWidget {
   }
 }
 
-/// Welcome section widget
+/// One plain sentence under the title: what this place holds and that it
+/// works offline. No welcome banner: the person has already arrived.
 class _WelcomeSection extends StatelessWidget {
   @override
   Widget build(BuildContext parentContext) {
     final theme = Theme.of(parentContext);
-
-    return Card(
-      child: Padding(
-        padding: const EdgeInsets.all(gmSpaceMd),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              'Welcome to Golden Moments',
-              style: theme.textTheme.headlineMedium?.copyWith(
-                color: theme.colorScheme.primary,
-              ),
-            ),
-            const SizedBox(height: gmSpaceSm),
-            Text(
-              'Picture matching games to enjoy at your own pace. Choose '
-              'a suggested pack or explore the full library. Every pack is '
-              'included and works offline.',
-              style: theme.textTheme.bodyLarge,
-            ),
-          ],
-        ),
+    return Text(
+      'Picture matching at your own pace. Every pack is included and works '
+      'offline.',
+      style: theme.textTheme.bodyLarge?.copyWith(
+        color: theme.colorScheme.onSurfaceVariant,
       ),
     );
   }

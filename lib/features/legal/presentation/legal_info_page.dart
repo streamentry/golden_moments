@@ -80,7 +80,10 @@ class LegalInfoPage extends StatelessWidget {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     return Scaffold(
-      appBar: AppBar(title: const Text('Privacy and information')),
+      appBar: AppBar(
+        toolbarHeight: gmToolbarHeight(context),
+        title: const GmTitle('Privacy and information'),
+      ),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(

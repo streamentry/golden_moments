@@ -89,7 +89,10 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
       child: Text(text, style: theme.textTheme.bodyLarge),
     );
     return Scaffold(
-      appBar: AppBar(title: const Text('Help and privacy')),
+      appBar: AppBar(
+        toolbarHeight: gmToolbarHeight(context),
+        title: const GmTitle('Help and privacy'),
+      ),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(
@@ -226,7 +229,7 @@ class _NoteDialogState extends State<_NoteDialog> {
     final preview = feedbackMessage(_controller.text);
     return AlertDialog(
       scrollable: true,
-      title: const Text('Write a note'),
+      title: const GmTitle('Write a note'),
       content: Column(
         mainAxisSize: MainAxisSize.min,
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -283,7 +286,7 @@ class _ProblemDialogState extends State<_ProblemDialog> {
   Widget build(BuildContext context) {
     return AlertDialog(
       scrollable: true,
-      title: const Text('Report a problem'),
+      title: const GmTitle('Report a problem'),
       content: Column(
         mainAxisSize: MainAxisSize.min,
         crossAxisAlignment: CrossAxisAlignment.start,

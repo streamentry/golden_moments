@@ -393,7 +393,10 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
             ),
           );
     return Scaffold(
-      appBar: AppBar(title: const Text('Your family photos')),
+      appBar: AppBar(
+        toolbarHeight: gmToolbarHeight(context),
+        title: const GmTitle('Your family photos'),
+      ),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(
@@ -679,14 +682,14 @@ class _PhotoOptionsSheetState extends State<_PhotoOptionsSheet> {
             ),
             SwitchListTile(
               contentPadding: EdgeInsets.zero,
-              title: const Text('Favorite'),
-              subtitle: const Text('Shows this photo first.'),
+              title: const GmTitle('Favorite'),
+              subtitle: const GmTitle('Shows this photo first.'),
               value: _favorite,
               onChanged: (value) => setState(() => _favorite = value),
             ),
             SwitchListTile(
               contentPadding: EdgeInsets.zero,
-              title: const Text('Hide from activities'),
+              title: const GmTitle('Hide from activities'),
               subtitle: const Text(
                 'Keeps the copy on this device. Turn off to bring it back.',
               ),
