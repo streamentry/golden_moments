@@ -20,7 +20,7 @@ import 'package:pool/pool.dart';
 /// Download manager for processing pack and image downloads
 class DownloadManager extends ChangeNotifier {
   factory() => _instance;
-  DownloadManager._internal();
+  new _internal();
   static final DownloadManager _instance = DownloadManager._internal();
 
   final JsonCacheService _cacheService = JsonCacheService();
@@ -81,7 +81,7 @@ class DownloadManager extends ChangeNotifier {
 
   @override
   void dispose() {
-    _packStatusController.close();
+    unawaited(_packStatusController.close());
     super.dispose();
     // cancel or cleanup other resources if needed
   }
@@ -200,7 +200,7 @@ class DownloadManager extends ChangeNotifier {
 
   /// Get current download queue
   Future<DownloadQueue> getDownloadQueue() async {
-    return _cacheService.loadDownloadQueue();
+    return await _cacheService.loadDownloadQueue();
   }
 
   /// Process download queue

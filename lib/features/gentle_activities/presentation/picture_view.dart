@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 
 class PictureView extends StatelessWidget {
-  const PictureView({required this.picture, super.key});
+  const new({required this.picture, super.key});
   final ActivityPicture picture;
 
   @override

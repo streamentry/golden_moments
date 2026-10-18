@@ -15,7 +15,7 @@ import 'package:provider/provider.dart';
 
 /// Game page for playing memory matching games
 class GamePage extends StatefulWidget {
-  const GamePage({required this.gamePack, super.key});
+  const new({required this.gamePack, super.key});
 
   final Pack gamePack;
 
@@ -43,10 +43,14 @@ class _GamePageState extends State<GamePage> {
   @override
   Widget build(BuildContext parentContext) {
     return BlocProvider(
-      create: (context) => GameCubit()..loadAndStartGame(widget.gamePack.id),
+      create: (context) {
+        final cubit = GameCubit();
+        unawaited(cubit.loadAndStartGame(widget.gamePack.id));
+        return cubit;
+      },
       child: PopScope(
         onPopInvokedWithResult: (_, _) {
-          SoundService().playTap();
+          unawaited(SoundService().playTap());
         },
         child: BlocBuilder<GameCubit, GameState>(
           builder: (context, state) {
@@ -61,7 +65,7 @@ class _GamePageState extends State<GamePage> {
                   IconButton(
                     icon: const Icon(Icons.lightbulb_outline),
                     onPressed: () {
-                      SoundService().playTap();
+                      unawaited(SoundService().playTap());
                       context.read<GameCubit>().showHint();
                     },
                     tooltip: 'Show a matching pair',
@@ -69,7 +73,7 @@ class _GamePageState extends State<GamePage> {
                   IconButton(
                     icon: const Icon(Icons.replay_outlined),
                     onPressed: () {
-                      SoundService().playTap();
+                      unawaited(SoundService().playTap());
                       context.read<GameCubit>().resetGame();
                     },
                     tooltip: 'Start again',
@@ -77,7 +81,7 @@ class _GamePageState extends State<GamePage> {
                   IconButton(
                     icon: const Icon(Icons.tune),
                     onPressed: () {
-                      SoundService().playTap();
+                      unawaited(SoundService().playTap());
                       context.read<GameCubit>().pauseGame();
                       _showPauseDialog(context);
                     },
@@ -119,62 +123,64 @@ class _GamePageState extends State<GamePage> {
   }
 
   void _showPauseDialog(BuildContext parentContext) {
-    showDialog<void>(
-      context: parentContext,
-      barrierDismissible: false,
-      builder: (dialogContext) => StatefulBuilder(
-        builder: (context, setState) => AlertDialog(
-          title: const Text('Options'),
-          scrollable: true,
-          content: Consumer<SoundSettings>(
-            builder: (_, settings, _) => Column(
-              mainAxisSize: MainAxisSize.min,
-              children: [
-                const Text('Take your time. Nothing changes while you rest.'),
-                const SizedBox(height: gmSpaceMd),
-                SwitchListTile(
-                  contentPadding: EdgeInsets.zero,
-                  secondary: Icon(
-                    settings.isMusicOn ? Icons.volume_up : Icons.volume_off,
+    unawaited(
+      showDialog<void>(
+        context: parentContext,
+        barrierDismissible: false,
+        builder: (dialogContext) => StatefulBuilder(
+          builder: (context, setState) => AlertDialog(
+            title: const Text('Options'),
+            scrollable: true,
+            content: Consumer<SoundSettings>(
+              builder: (_, settings, _) => Column(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  const Text('Take your time. Nothing changes while you rest.'),
+                  const SizedBox(height: gmSpaceMd),
+                  SwitchListTile(
+                    contentPadding: EdgeInsets.zero,
+                    secondary: Icon(
+                      settings.isMusicOn ? Icons.volume_up : Icons.volume_off,
+                    ),
+                    title: const Text('Music'),
+                    value: settings.isMusicOn,
+                    onChanged: (value) {
+                      setState(settings.toggleMusic);
+                    },
                   ),
-                  title: const Text('Music'),
-                  value: settings.isMusicOn,
-                  onChanged: (value) {
-                    setState(settings.toggleMusic);
-                  },
-                ),
-                SwitchListTile(
-                  contentPadding: EdgeInsets.zero,
-                  secondary: Icon(
-                    settings.isSoundOn ? Icons.music_note : Icons.music_off,
+                  SwitchListTile(
+                    contentPadding: EdgeInsets.zero,
+                    secondary: Icon(
+                      settings.isSoundOn ? Icons.music_note : Icons.music_off,
+                    ),
+                    title: const Text('Sounds'),
+                    value: settings.isSoundOn,
+                    onChanged: (value) {
+                      setState(settings.toggleSound);
+                    },
                   ),
-                  title: const Text('Sounds'),
-                  value: settings.isSoundOn,
-                  onChanged: (value) {
-                    setState(settings.toggleSound);
-                  },
-                ),
-              ],
+                ],
+              ),
             ),
+            actions: [
+              TextButton(
+                onPressed: () {
+                  unawaited(SoundService().playTap());
+                  Navigator.of(dialogContext).pop();
+                  Navigator.of(dialogContext).pop(); // Go back to home
+                },
+                child: const Text('Done for now'),
+              ),
+              FilledButton(
+                onPressed: () {
+                  unawaited(SoundService().playTap());
+                  Navigator.of(dialogContext).pop();
+                  parentContext.read<GameCubit>().resumeGame();
+                },
+                child: const Text('Keep playing'),
+              ),
+            ],
           ),
-          actions: [
-            TextButton(
-              onPressed: () {
-                SoundService().playTap();
-                Navigator.of(dialogContext).pop();
-                Navigator.of(dialogContext).pop(); // Go back to home
-              },
-              child: const Text('Done for now'),
-            ),
-            FilledButton(
-              onPressed: () {
-                SoundService().playTap();
-                Navigator.of(dialogContext).pop();
-                parentContext.read<GameCubit>().resumeGame();
-              },
-              child: const Text('Keep playing'),
-            ),
-          ],
         ),
       ),
     );
@@ -196,56 +202,58 @@ class _GamePageState extends State<GamePage> {
       }
     }
 
-    showDialog<void>(
-      context: parentContext,
-      barrierDismissible: false,
-      builder: (context) => StatefulBuilder(
-        builder: (context, setDialogState) => AlertDialog(
-          scrollable: true,
-          title: const Text('All pairs together'),
-          content: Column(
-            mainAxisSize: MainAxisSize.min,
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              const Text(
-                'Play again, choose another pack, or take a break. Is there '
-                'a picture you would like to talk about?',
-              ),
-              if (invite && !shared) ...[
-                const SizedBox(height: gmSpaceMd),
-                ShareInvitation(
-                  onShare: () async {
-                    if (await shareAndRemember() && context.mounted) {
-                      setDialogState(() => shared = true);
-                    }
-                  },
+    unawaited(
+      showDialog<void>(
+        context: parentContext,
+        barrierDismissible: false,
+        builder: (context) => StatefulBuilder(
+          builder: (context, setDialogState) => AlertDialog(
+            scrollable: true,
+            title: const Text('All pairs together'),
+            content: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const Text(
+                  'Play again, choose another pack, or take a break. Is there '
+                  'a picture you would like to talk about?',
                 ),
+                if (invite && !shared) ...[
+                  const SizedBox(height: gmSpaceMd),
+                  ShareInvitation(
+                    onShare: () async {
+                      if (await shareAndRemember() && context.mounted) {
+                        setDialogState(() => shared = true);
+                      }
+                    },
+                  ),
+                ],
+                if (shared) ...[
+                  const SizedBox(height: gmSpaceMd),
+                  const Text('Thank you for sharing.'),
+                ],
               ],
-              if (shared) ...[
-                const SizedBox(height: gmSpaceMd),
-                const Text('Thank you for sharing.'),
-              ],
+            ),
+            actions: [
+              GmOutlineButton(
+                label: 'Play again',
+                onTap: () {
+                  unawaited(close());
+                  Navigator.of(context).pop();
+                  parentContext.read<GameCubit>().resetGame();
+                },
+              ),
+              const SizedBox(height: gmSpaceSm),
+              GmPrimaryButton(
+                label: 'Choose another pack',
+                onTap: () {
+                  unawaited(close());
+                  Navigator.of(context).pop();
+                  Navigator.of(context).pop();
+                },
+              ),
             ],
           ),
-          actions: [
-            GmOutlineButton(
-              label: 'Play again',
-              onTap: () {
-                unawaited(close());
-                Navigator.of(context).pop();
-                parentContext.read<GameCubit>().resetGame();
-              },
-            ),
-            const SizedBox(height: gmSpaceSm),
-            GmPrimaryButton(
-              label: 'Choose another pack',
-              onTap: () {
-                unawaited(close());
-                Navigator.of(context).pop();
-                Navigator.of(context).pop();
-              },
-            ),
-          ],
         ),
       ),
     );
@@ -254,7 +262,7 @@ class _GamePageState extends State<GamePage> {
 
 /// Loading state view
 class _LoadingView extends StatelessWidget {
-  const _LoadingView();
+  const new();
 
   @override
   Widget build(BuildContext parentContext) {
@@ -273,7 +281,7 @@ class _LoadingView extends StatelessWidget {
 
 /// Game play view
 class _GamePlayView extends StatelessWidget {
-  const _GamePlayView({required this.state});
+  const new({required this.state});
 
   final GameState state;
 
@@ -305,7 +313,7 @@ class _GamePlayView extends StatelessWidget {
 
 /// Error state view
 class _ErrorView extends StatelessWidget {
-  const _ErrorView({required this.state});
+  const new({required this.state});
 
   final GameState state;
 

@@ -1,6 +1,6 @@
 /// Application-wide constants for Memory Lane
 class AppConstants {
-  AppConstants._();
+  new _();
 
   // App information
   static const String appName = 'Golden Moments';

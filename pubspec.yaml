@@ -13,24 +13,24 @@ dependencies:
   cached_network_image: ^4.0.4
   crypto: ^3.0.5
   disk_space_plus: ^0.2.6
-  equatable: ^2.1.0
-  firebase_analytics: ^12.0.0
-  firebase_core: ^4.14.0
-  firebase_crashlytics: ^5.0.0
+  equatable: ^3.0.0
+  firebase_analytics: ^13.0.0
+  firebase_core: ^5.0.0
+  firebase_crashlytics: ^6.0.0
   flutter:
     sdk: flutter
   flutter_bloc: ^9.1.1
   flutter_localizations:
     sdk: flutter
   http: ^1.5.0
-  image_picker: 1.1.2
+  image_picker: ^1.2.4
   intl: ^0.20.2
   path: ^1.9.0
   path_provider: ^2.1.4
   percent_indicator: ^4.2.5
   pool: ^1.5.0
   provider: ^6.1.5
-  share_plus: ^11.1.0
+  share_plus: ^13.3.1
   shared_preferences: ^2.2.3
   web: ^1.1.1
 
@@ -43,7 +43,7 @@ dev_dependencies:
   mocktail: ^1.0.5
   path_provider_platform_interface: ^2.1.2
   plugin_platform_interface: ^2.1.8
-  very_good_analysis: ^9.0.0
+  very_good_analysis: ^11.0.0
 
 flutter:
   generate: true

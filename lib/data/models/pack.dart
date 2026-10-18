@@ -8,7 +8,7 @@ enum GameDifficulty {
   hard(gridSize: 4, pairCount: 12, displayName: 'Hard', minImages: 10),
   brainy(gridSize: 5, pairCount: 20, displayName: 'Largest', minImages: 16);
 
-  GameDifficulty({
+  new({
     required this.gridSize,
     required this.pairCount,
     required this.displayName,
@@ -35,7 +35,7 @@ enum PackStatus { notStarted, downloading, completed }
 
 /// Represents a themed collection of memory game tiles
 class Pack extends Equatable {
-  const Pack({
+  const new({
     required this.id,
     required this.title,
     required this.theme,
@@ -51,7 +51,7 @@ class Pack extends Equatable {
   });
 
   /// Creates a GamePack from JSON data
-  factory Pack.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     return Pack(
       id: json['id'] as String,
       title: json['title'] as String,

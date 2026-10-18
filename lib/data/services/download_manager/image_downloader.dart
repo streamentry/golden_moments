@@ -10,11 +10,9 @@ import 'package:golden_moments/data/storage/cache_file_paths.dart';
 
 /// Handles individual image download operations
 class ImageDownloader {
-  ImageDownloader({
-    HttpClientService? httpClient,
-    JsonCacheService? cacheService,
-  }) : _httpClient = httpClient ?? HttpClientService(),
-       _cacheService = cacheService ?? JsonCacheService();
+  new({HttpClientService? httpClient, JsonCacheService? cacheService})
+    : _httpClient = httpClient ?? HttpClientService(),
+      _cacheService = cacheService ?? JsonCacheService();
 
   final HttpClientService _httpClient;
   final JsonCacheService _cacheService;

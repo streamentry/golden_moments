@@ -16,7 +16,7 @@ enum GameStatus {
 
 /// Represents the current state of an active memory game
 class GameState extends Equatable {
-  const GameState({
+  const new({
     required this.currentPack,
     required this.images,
     required this.tiles,

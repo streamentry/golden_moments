@@ -8,7 +8,7 @@ import 'package:golden_moments/data/services/download_manager.dart';
 
 /// Cubit for managing main navigation state
 class NavigationCubit extends Cubit<NavigationState> {
-  NavigationCubit() : super(const NavigationState()) {
+  new() : super(const NavigationState()) {
     _initialize();
   }
 
@@ -18,7 +18,7 @@ class NavigationCubit extends Cubit<NavigationState> {
   /// Initialize navigation cubit
   void _initialize() {
     _downloadSubscription = _downloadManager.onStatusChanged.listen((_) {
-      _updateDownloadCount();
+      unawaited(_updateDownloadCount());
     });
     // Note: Download manager integration simplified for local JSON approach
     // Subscribe to download progress to update badge count
@@ -31,7 +31,7 @@ class NavigationCubit extends Cubit<NavigationState> {
     // );
 
     // Initial download count update
-    _updateDownloadCount();
+    unawaited(_updateDownloadCount());
   }
 
   /// Set current navigation index
@@ -127,14 +127,14 @@ class NavigationCubit extends Cubit<NavigationState> {
 
   @override
   Future<void> close() {
-    _downloadSubscription?.cancel();
+    unawaited(_downloadSubscription?.cancel());
     return super.close();
   }
 }
 
 /// Navigation state
 class NavigationState extends Equatable {
-  const NavigationState({
+  const new({
     this.currentIndex = 0,
     this.activeDownloadsCount = 0,
     this.hasUnreadNotifications = false,

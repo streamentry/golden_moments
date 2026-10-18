@@ -3,7 +3,7 @@ import 'package:golden_moments/data/models/download_error.dart';
 
 /// Download progress tracking for individual downloads
 class DownloadProgress extends Equatable {
-  const DownloadProgress({
+  const new({
     required this.downloadId,
     required this.packId,
     required this.status,
@@ -18,7 +18,7 @@ class DownloadProgress extends Equatable {
   });
 
   /// Create cancelled progress
-  factory DownloadProgress.cancelled({
+  factory cancelled({
     required String downloadId,
     required String packId,
     required int bytesDownloaded,
@@ -39,7 +39,7 @@ class DownloadProgress extends Equatable {
   }
 
   /// Create paused progress
-  factory DownloadProgress.paused({
+  factory paused({
     required String downloadId,
     required String packId,
     required int bytesDownloaded,
@@ -59,7 +59,7 @@ class DownloadProgress extends Equatable {
   }
 
   /// Create failed progress
-  factory DownloadProgress.failed({
+  factory failed({
     required String downloadId,
     required String packId,
     required int bytesDownloaded,
@@ -82,7 +82,7 @@ class DownloadProgress extends Equatable {
   } // estimated time remaining
 
   /// Create initial progress
-  factory DownloadProgress.started({
+  factory started({
     required String downloadId,
     required String packId,
     required int totalBytes,
@@ -100,7 +100,7 @@ class DownloadProgress extends Equatable {
   }
 
   /// Create completed progress
-  factory DownloadProgress.completed({
+  factory completed({
     required String downloadId,
     required String packId,
     required int totalBytes,
@@ -337,7 +337,7 @@ enum DownloadProgressStatus {
 
 /// Pack download progress aggregating multiple image downloads
 class PackDownloadProgress extends Equatable {
-  const PackDownloadProgress({
+  const new({
     required this.packId,
     required this.imageProgresses,
     required this.startTime,

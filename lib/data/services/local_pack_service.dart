@@ -9,7 +9,7 @@ import 'package:golden_moments/data/models/packs_index.dart';
 class LocalPackService {
   factory() => _instance;
 
-  LocalPackService._internal();
+  new _internal();
 
   static final LocalPackService _instance = LocalPackService._internal();
 
@@ -62,7 +62,7 @@ class LocalPackService {
 
 /// Pack statistics data class
 class PackStatistics {
-  const PackStatistics({
+  const new({
     required this.totalPacks,
     required this.totalCategories,
     required this.featuredPacks,
@@ -81,7 +81,7 @@ class PackStatistics {
 
 /// Service status data class
 class ServiceStatus {
-  const ServiceStatus({
+  const new({
     required this.isAvailable,
     required this.lastUpdated,
     required this.totalPacks,

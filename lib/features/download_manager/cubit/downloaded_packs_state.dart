@@ -5,7 +5,7 @@ enum DownloadedPacksPageStatus { initial, loading, loaded, error }
 
 /// State for the home screen
 class DownloadedPacksState extends Equatable {
-  const DownloadedPacksState({
+  const new({
     this.status = DownloadedPacksPageStatus.initial,
     this.packs = const [],
     this.downloadedPacks = const [],

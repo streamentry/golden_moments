@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:golden_moments/data/models/pack.dart';
@@ -12,12 +14,16 @@ enum PackFilterOption { all, downloaded, notDownloaded }
 
 /// Download manager page for managing active downloads
 class DownloadManagerPage extends StatelessWidget {
-  const DownloadManagerPage({super.key});
+  const new({super.key});
 
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
-      create: (context) => DownloadedPacksCubit()..initialize(),
+      create: (context) {
+        final cubit = DownloadedPacksCubit();
+        unawaited(cubit.initialize());
+        return cubit;
+      },
       child: const DownloadManagerView(),
     );
   }
@@ -25,7 +31,7 @@ class DownloadManagerPage extends StatelessWidget {
 
 /// Download manager view widget
 class DownloadManagerView extends StatefulWidget {
-  const DownloadManagerView({super.key});
+  const new({super.key});
 
   @override
   State<DownloadManagerView> createState() => _DownloadManagerViewState();
@@ -48,36 +54,40 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
         .state
         .notDownloadedPacks;
 
-    showDialog<void>(
-      context: parentContext,
-      builder: (context) {
-        return AlertDialog(
-          title: const Text('Download all packs'),
-          content: notDownloadedPacks.isEmpty
-              ? const Text('All packs are already downloaded.')
-              : const Text('Are you sure you want to download all packs?'),
-          actions: [
-            TextButton(
-              onPressed: () {
-                SoundService().playTap();
-                Navigator.of(context).pop(); // Close the dialog
-              },
-              child: const Text('Cancel'),
-            ),
-            if (notDownloadedPacks.isNotEmpty)
-              FilledButton(
+    unawaited(
+      showDialog<void>(
+        context: parentContext,
+        builder: (context) {
+          return AlertDialog(
+            title: const Text('Download all packs'),
+            content: notDownloadedPacks.isEmpty
+                ? const Text('All packs are already downloaded.')
+                : const Text('Are you sure you want to download all packs?'),
+            actions: [
+              TextButton(
                 onPressed: () {
-                  SoundService().playTap();
+                  unawaited(SoundService().playTap());
                   Navigator.of(context).pop(); // Close the dialog
-                  parentContext
-                      .read<DownloadedPacksCubit>()
-                      .downloadAllPacks(); // Trigger download all logic
                 },
-                child: const Text('Download all'),
+                child: const Text('Cancel'),
               ),
-          ],
-        );
-      },
+              if (notDownloadedPacks.isNotEmpty)
+                FilledButton(
+                  onPressed: () {
+                    unawaited(SoundService().playTap());
+                    Navigator.of(context).pop(); // Close the dialog
+                    unawaited(
+                      parentContext
+                          .read<DownloadedPacksCubit>()
+                          .downloadAllPacks(),
+                    ); // Trigger download all logic
+                  },
+                  child: const Text('Download all'),
+                ),
+            ],
+          );
+        },
+      ),
     );
   }
 
@@ -103,41 +113,45 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
 
   void _deleteSelectedPacks(BuildContext parentContext) {
     if (_selectedPacks.isNotEmpty) {
-      showDialog<void>(
-        context: parentContext,
-        builder: (context) {
-          return AlertDialog(
-            title: const Text('Delete selected packs'),
-            content: const Text(
-              'Delete the selected packs from this device? You can '
-              'download them again later.',
-            ),
-            actions: [
-              TextButton(
-                onPressed: () {
-                  SoundService().playTap();
-                  Navigator.of(context).pop(); // Close the dialog
-                },
-                child: const Text('Cancel'),
+      unawaited(
+        showDialog<void>(
+          context: parentContext,
+          builder: (context) {
+            return AlertDialog(
+              title: const Text('Delete selected packs'),
+              content: const Text(
+                'Delete the selected packs from this device? You can '
+                'download them again later.',
               ),
-              FilledButton(
-                style: FilledButton.styleFrom(
-                  backgroundColor: Theme.of(context).colorScheme.error,
-                  foregroundColor: Theme.of(context).colorScheme.onError,
+              actions: [
+                TextButton(
+                  onPressed: () {
+                    unawaited(SoundService().playTap());
+                    Navigator.of(context).pop(); // Close the dialog
+                  },
+                  child: const Text('Cancel'),
                 ),
-                onPressed: () {
-                  SoundService().playTap();
-                  Navigator.of(context).pop(); // Close the dialog
-                  parentContext.read<DownloadedPacksCubit>().deletePacks(
-                    _selectedPacks.toList(),
-                  ); // Trigger delete logic
-                  _toggleSelectionMode(); // Exit selection mode
-                },
-                child: const Text('Delete'),
-              ),
-            ],
-          );
-        },
+                FilledButton(
+                  style: FilledButton.styleFrom(
+                    backgroundColor: Theme.of(context).colorScheme.error,
+                    foregroundColor: Theme.of(context).colorScheme.onError,
+                  ),
+                  onPressed: () {
+                    unawaited(SoundService().playTap());
+                    Navigator.of(context).pop(); // Close the dialog
+                    unawaited(
+                      parentContext.read<DownloadedPacksCubit>().deletePacks(
+                        _selectedPacks.toList(),
+                      ),
+                    ); // Trigger delete logic
+                    _toggleSelectionMode(); // Exit selection mode
+                  },
+                  child: const Text('Delete'),
+                ),
+              ],
+            );
+          },
+        ),
       );
     } else {
       _toggleSelectionMode();
@@ -190,7 +204,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
                       icon: const Icon(Icons.close), // New icon added
                       tooltip: 'Stop selecting',
                       onPressed: () {
-                        SoundService().playTap();
+                        unawaited(SoundService().playTap());
                         _toggleSelectionMode();
                       },
                     ),
@@ -200,7 +214,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
                       onPressed: _selectedPacks.isEmpty
                           ? null
                           : () {
-                              SoundService().playTap();
+                              unawaited(SoundService().playTap());
                               _deleteSelectedPacks(context);
                             },
                     ),
@@ -211,7 +225,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
                   icon: const Icon(Icons.more_vert),
                   tooltip: 'More options',
                   onSelected: (value) {
-                    SoundService().playTap();
+                    unawaited(SoundService().playTap());
                     // Handle menu item selection
                     if (value == 'DOWNLOAD') {
                       _showDownloadAllDialog(
@@ -320,7 +334,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
 
 /// Loading state view
 class _LoadingView extends StatelessWidget {
-  const _LoadingView();
+  const new();
 
   @override
   Widget build(BuildContext context) {
@@ -347,7 +361,7 @@ class _LoadingView extends StatelessWidget {
 
 /// Error state view
 class _ErrorView extends StatelessWidget {
-  const _ErrorView({required this.onRetry});
+  const new({required this.onRetry});
 
   final VoidCallback onRetry;
 
@@ -387,7 +401,7 @@ class _ErrorView extends StatelessWidget {
 
 /// Loaded state view
 class _LoadedView extends StatelessWidget {
-  const _LoadedView({
+  const new({
     required this.state,
     required this.onPackSelected,
     required this.packFilterOption,
@@ -440,7 +454,7 @@ class _LoadedView extends StatelessWidget {
               return GestureDetector(
                 key: ValueKey(pack.id),
                 onTap: () {
-                  SoundService().playTap();
+                  unawaited(SoundService().playTap());
                   if (isSelectionMode) {
                     final isSelected = selectedPacks.contains(pack);
                     onPackSelected(pack, isSelected: !isSelected);
@@ -483,7 +497,7 @@ class _LoadedView extends StatelessWidget {
 
 /// Empty state view
 class _EmptyView extends StatelessWidget {
-  const _EmptyView();
+  const new();
 
   @override
   Widget build(BuildContext context) {

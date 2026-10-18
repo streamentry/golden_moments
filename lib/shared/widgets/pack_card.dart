@@ -6,7 +6,7 @@ import 'package:golden_moments/shared/widgets/pressable.dart';
 
 /// Every pack is bundled and starts with a single tap.
 class PackCard extends StatelessWidget {
-  const PackCard({
+  const new({
     required this.pack,
     this.onTap,
     this.showDailyBadge = false,
@@ -33,9 +33,7 @@ class PackCard extends StatelessWidget {
           onTap ??
           () {
             Navigator.of(context).push(
-              MaterialPageRoute<void>(
-                builder: (_) => GamePage(gamePack: pack),
-              ),
+              MaterialPageRoute<void>(builder: (_) => GamePage(gamePack: pack)),
             );
           },
       child: _buildLayout(Theme.of(context)),

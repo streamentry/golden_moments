@@ -3,7 +3,7 @@ import 'package:flutter/foundation.dart';
 
 /// Handles storage space checking and management
 class StorageChecker {
-  StorageChecker();
+  new();
 
   static const int _minimumFreeSpaceMB = 200; // 200MB minimum free space
   static const int _bytesPerMB = 1024 * 1024;
@@ -157,7 +157,7 @@ class StorageChecker {
     if (kIsWeb) return true;
 
     final totalDownloadSize = downloadSizes.fold(0, (sum, size) => sum + size);
-    return hasEnoughSpace(totalDownloadSize);
+    return await hasEnoughSpace(totalDownloadSize);
   }
 
   /// Get recommendation for storage cleanup
@@ -178,7 +178,7 @@ class StorageChecker {
 
 /// Storage information data class
 class StorageInfo {
-  const StorageInfo({
+  const new({
     required this.totalSpace,
     required this.freeSpace,
     required this.usedSpace,

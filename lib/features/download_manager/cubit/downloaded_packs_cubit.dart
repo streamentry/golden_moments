@@ -10,7 +10,7 @@ import 'package:golden_moments/features/download_manager/cubit/downloaded_packs_
 
 /// Cubit for managing home screen state and logic
 class DownloadedPacksCubit extends Cubit<DownloadedPacksState> {
-  DownloadedPacksCubit() : super(const DownloadedPacksState());
+  new() : super(const DownloadedPacksState());
 
   /// Initialize the home screen with data
   Future<void> initialize() async {
@@ -77,7 +77,7 @@ class DownloadedPacksCubit extends Cubit<DownloadedPacksState> {
   }
 
   Future<List<Pack>> _loadPacks() async {
-    return LocalPackService().getPacks();
+    return await LocalPackService().getPacks();
   }
 
   /// Download all packs

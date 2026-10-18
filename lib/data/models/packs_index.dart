@@ -4,7 +4,7 @@ import 'package:golden_moments/data/models/pack.dart';
 
 /// GitHub pack index containing all available packs
 class PacksIndex extends Equatable {
-  const PacksIndex({
+  const new({
     required this.version,
     required this.lastUpdated,
     required this.totalPacks,
@@ -13,7 +13,7 @@ class PacksIndex extends Equatable {
     required this.packs,
   });
 
-  factory PacksIndex.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     return PacksIndex(
       version: json['version'] as String? ?? '1.0.0',
       lastUpdated: DateTime.parse(

@@ -10,7 +10,7 @@ import 'package:pool/pool.dart';
 
 /// Processes download queues and manages concurrent downloads
 class DownloadQueueProcessor {
-  DownloadQueueProcessor({
+  new({
     int maxConcurrentDownloads = 3,
     ImageDownloader? imageDownloader,
     JsonCacheService? cacheService,
@@ -230,7 +230,7 @@ class DownloadQueueProcessor {
 
 /// Statistics for a download queue
 class QueueStatistics {
-  const QueueStatistics({
+  const new({
     required this.totalItems,
     required this.queuedItems,
     required this.activeItems,

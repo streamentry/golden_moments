@@ -23,7 +23,7 @@ import 'package:golden_moments/shared/utils/string_util.dart';
 /// a clean and maintainable download system.
 class DownloadManagerV2 extends ChangeNotifier {
   factory() => _instance;
-  DownloadManagerV2._internal() {
+  new _internal() {
     // Initialize modules
     _statusManager = PackStatusManager();
     _progressTracker = ProgressTracker();
@@ -129,9 +129,7 @@ class DownloadManagerV2 extends ChangeNotifier {
     }
 
     // Don't await all - let them run concurrently
-    for (final future in downloadFutures) {
-      unawaited(future);
-    }
+    downloadFutures.forEach(unawaited);
   }
 
   /// Download a complete pack

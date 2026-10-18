@@ -3,7 +3,7 @@ import 'package:golden_moments/data/models/pack.dart';
 
 /// Cached pack data with local file paths and metadata
 class PackCache extends Equatable {
-  const PackCache({
+  const new({
     required this.id,
     required this.version,
     required this.downloadedAt,
@@ -12,7 +12,7 @@ class PackCache extends Equatable {
   });
 
   /// Create a new pack cache with 60-day expiry
-  factory PackCache.create({
+  factory create({
     required String id,
     required String version,
     required Pack manifest,
@@ -27,7 +27,7 @@ class PackCache extends Equatable {
     );
   }
 
-  factory PackCache.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     return PackCache(
       id: json['id'] as String,
       version: json['version'] as String,

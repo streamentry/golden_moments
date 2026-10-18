@@ -3,7 +3,7 @@ import 'package:golden_moments/data/models/download_progress.dart';
 
 /// Tracks and manages download progress for packs and individual images
 class ProgressTracker extends ChangeNotifier {
-  ProgressTracker();
+  new();
 
   final Map<String, PackDownloadProgress> _packsProgress = {};
 
@@ -185,7 +185,7 @@ class ProgressTracker extends ChangeNotifier {
 
 /// Overall download statistics
 class DownloadStatistics {
-  const DownloadStatistics({
+  const new({
     required this.totalPacks,
     required this.completedPacks,
     required this.totalImages,

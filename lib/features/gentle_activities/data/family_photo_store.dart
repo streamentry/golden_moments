@@ -7,7 +7,7 @@ import 'package:crypto/crypto.dart';
 /// Stores normalized PNG copies in an app-owned directory, never originals.
 /// File names are content hashes, not user-provided paths or person names.
 class FamilyPhotoStore {
-  FamilyPhotoStore(this.directory);
+  new(this.directory);
 
   static const maxPhotos = 24;
   static const int maxBytesPerPhoto = 2 * 1024 * 1024;
@@ -47,9 +47,7 @@ class FamilyPhotoStore {
     }
     final values = data['photos'] as List<dynamic>;
     if (values.length > maxPhotos ||
-        values.any(
-          (dynamic id) => id is! String || !_validId.hasMatch(id),
-        )) {
+        values.any((dynamic id) => id is! String || !_validId.hasMatch(id))) {
       throw const FormatException('Invalid photo collection.');
     }
     final ids = values.cast<String>();

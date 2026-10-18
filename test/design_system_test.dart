@@ -36,9 +36,8 @@ Map<String, Color> _designColors() {
 Widget _app(Widget home, {double textScale = 1}) => MaterialApp(
   theme: gmBuildTheme(),
   builder: (context, child) => MediaQuery(
-    data: MediaQuery.of(
-      context,
-    ).copyWith(textScaler: TextScaler.linear(textScale)),
+    data: MediaQuery.of(context)
+        .copyWith(textScaler: TextScaler.linear(textScale)),
     child: child!,
   ),
   home: home,
@@ -228,9 +227,7 @@ void main() {
         res
             .listSync()
             .map((entry) => entry.path)
-            .where(
-              (path) => path.contains('-night'),
-            ),
+            .where((path) => path.contains('-night')),
         isEmpty,
         reason: 'night resources let Android (and MIUI) draw dark windows',
       );
@@ -239,9 +236,9 @@ void main() {
         'android/app/src/main/res/values-v31/styles.xml',
       ]) {
         expect(
-          RegExp(
-            'forceDarkAllowed">false',
-          ).allMatches(File(styles).readAsStringSync()).length,
+          RegExp('forceDarkAllowed">false')
+              .allMatches(File(styles).readAsStringSync())
+              .length,
           2,
           reason: '$styles must block forced dark on both themes',
         );
@@ -279,11 +276,7 @@ void main() {
       );
       // A tablet fits a 4-tile board in 2 large columns.
       expect(
-        gmBoardColumns(
-          tileCount: 4,
-          maxColumns: 3,
-          size: const Size(700, 900),
-        ),
+        gmBoardColumns(tileCount: 4, maxColumns: 3, size: const Size(700, 900)),
         2,
       );
     });

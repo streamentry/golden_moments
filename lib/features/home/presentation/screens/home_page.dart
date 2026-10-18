@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
@@ -12,12 +14,16 @@ import 'package:golden_moments/features/pack/presentation/screens/pack_page.dart
 
 /// Home page of the Memory Lane app
 class HomePage extends StatelessWidget {
-  const HomePage({super.key});
+  const new({super.key});
 
   @override
   Widget build(BuildContext parentContext) {
     return BlocProvider(
-      create: (context) => HomeCubit()..initialize(),
+      create: (context) {
+        final cubit = HomeCubit();
+        unawaited(cubit.initialize());
+        return cubit;
+      },
       child: const HomeView(),
     );
   }
@@ -25,7 +31,7 @@ class HomePage extends StatelessWidget {
 
 /// Home view widget
 class HomeView extends StatelessWidget {
-  const HomeView({super.key});
+  const new({super.key});
 
   @override
   Widget build(BuildContext parentContext) {
@@ -48,8 +54,8 @@ class HomeView extends StatelessWidget {
               IconButton(
                 icon: const Icon(Icons.settings),
                 onPressed: () {
-                  SoundService().playTap();
-                  showSettingModal(context: parentContext);
+                  unawaited(SoundService().playTap());
+                  unawaited(showSettingModal(context: parentContext));
                 },
                 tooltip: 'Settings',
               ),
@@ -64,7 +70,7 @@ class HomeView extends StatelessWidget {
 
 /// Loading state view
 class _LoadingView extends StatelessWidget {
-  const _LoadingView();
+  const new();
 
   @override
   Widget build(BuildContext parentContext) {
@@ -87,7 +93,7 @@ class _LoadingView extends StatelessWidget {
 
 /// Error state view
 class _ErrorView extends StatelessWidget {
-  const _ErrorView({required this.message});
+  const new({required this.message});
 
   final String? message;
 
@@ -120,7 +126,7 @@ class _ErrorView extends StatelessWidget {
             GmPrimaryButton(
               label: 'Try again',
               onTap: () {
-                parentContext.read<HomeCubit>().initialize();
+                unawaited(parentContext.read<HomeCubit>().initialize());
               },
             ),
           ],
@@ -132,7 +138,7 @@ class _ErrorView extends StatelessWidget {
 
 /// Loaded state view
 class _LoadedView extends StatelessWidget {
-  const _LoadedView({required this.state});
+  const new({required this.state});
 
   final HomeState state;
 

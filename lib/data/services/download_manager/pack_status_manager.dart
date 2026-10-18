@@ -5,7 +5,7 @@ import 'package:golden_moments/data/models/pack.dart';
 
 /// Manages pack download status and provides status change notifications
 class PackStatusManager extends ChangeNotifier {
-  PackStatusManager();
+  new();
 
   final Map<String, PackStatus> _packsStatus = {};
   final _statusController =
@@ -83,7 +83,7 @@ class PackStatusManager extends ChangeNotifier {
 
   @override
   void dispose() {
-    _statusController.close();
+    unawaited(_statusController.close());
     super.dispose();
   }
 }
