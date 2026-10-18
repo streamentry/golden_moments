@@ -84,7 +84,8 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
               ),
             const SizedBox(height: 12),
             const Text(
-              'Just looking is enough. There is no need to remember a name or answer a question.',
+              'Just looking is enough. There is no need to remember a '
+              'name or answer a question.',
             ),
           ],
         ),

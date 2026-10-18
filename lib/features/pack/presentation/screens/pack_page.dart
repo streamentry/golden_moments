@@ -1,4 +1,3 @@
-import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
@@ -31,16 +30,6 @@ class _PackPageState extends State<PackPage> {
   void initState() {
     super.initState();
     _fetchPacks();
-
-    _logScreenView();
-  }
-
-  Future<void> _logScreenView() async {
-    try {
-      await FirebaseAnalytics.instance.logScreenView(screenName: 'Pack');
-    } on Object catch (_) {
-      // Browsing packs also works without a Firebase configuration.
-    }
   }
 
   Future<void> _fetchPacks() async {

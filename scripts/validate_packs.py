@@ -127,11 +127,6 @@ def check_image_urls(data, check_accessibility=False):
         print("ℹ️  Skipping URL accessibility check (use --check-urls to enable)")
         return issues
 
-    if not HAS_REQUESTS:
-        issues.append("requests module not available - cannot check URL accessibility")
-        print("⚠️  Install requests module to check URL accessibility: pip install requests")
-        return issues
-
     print("🔍 Checking image URL accessibility...")
 
     for pack in data.get('packs', []):
@@ -156,6 +151,8 @@ def check_image_urls(data, check_accessibility=False):
 
 def check_url_accessible(url):
     """Check if URL is accessible."""
+    if url.startswith('assets/images/catalog/'):
+        return (Path(__file__).resolve().parents[1] / url).is_file()
     if not HAS_REQUESTS:
         return False
 

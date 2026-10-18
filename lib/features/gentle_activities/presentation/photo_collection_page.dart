@@ -83,16 +83,20 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
         if (recovered.isNotEmpty &&
             await _confirm(
               'Finish adding photos?',
-              'The system recovered photos you selected before the app restarted. Add them to this device?',
+              'The system recovered photos you selected before the app '
+                  'restarted. Add them to this device?',
             )) {
           await _saveFiles(recovered);
         }
       }
-    } catch (_) {
-      if (mounted)
+    } on Object catch (_) {
+      if (mounted) {
         setState(
-          () => _error = 'Could not open the photo collection. Your original photos have not been changed. Please try again.',
+          () => _error =
+              'Could not open the photo collection. '
+              'Your original photos have not been changed. Please try again.',
         );
+      }
     } finally {
       if (mounted) setState(() => _busy = false);
     }
@@ -122,11 +126,14 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
         FamilyPhotoStore.maxPhotos - _ids.length,
       );
       await _saveFiles(files);
-    } catch (_) {
-      if (mounted)
+    } on Object catch (_) {
+      if (mounted) {
         setState(
-          () => _error = 'Could not add these photos. Try fewer or smaller images, and check free space. Your existing collection is unchanged.',
+          () => _error =
+              'Could not add these photos. Try fewer or smaller images, '
+              'and check free space. Your existing collection is unchanged.',
         );
+      }
     } finally {
       if (mounted) setState(() => _busy = false);
     }
@@ -136,7 +143,8 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     if (_busy || _store == null) return;
     final confirmed = await _confirm(
       id == null ? 'Remove all photo copies?' : 'Remove this photo copy?',
-      'This removes copies saved by Golden Moments. Originals in your photo library are not deleted.',
+      'This removes copies saved by Golden Moments. Originals '
+      'in your photo library are not deleted.',
     );
     if (!confirmed || !mounted) return;
     setState(() {
@@ -149,21 +157,23 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
       } else {
         await _store!.remove(id);
       }
-    } catch (_) {
-      if (mounted)
+    } on Object catch (_) {
+      if (mounted) {
         setState(
           () => _error = 'Some copies could not be removed. Please try again.',
         );
+      }
     } finally {
       try {
         final ids = await _store!.load();
         if (mounted) setState(() => _ids = ids);
-      } catch (_) {
-        if (mounted)
+      } on Object catch (_) {
+        if (mounted) {
           setState(
             () => _error =
                 'Could not refresh the collection. Please reopen this screen.',
           );
+        }
       }
       if (mounted) setState(() => _busy = false);
     }
@@ -184,7 +194,9 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
             ),
             const SizedBox(height: 12),
             const Text(
-              'Only selected photos are copied into this app. No account or family-sync server. Copies may be included in your device backup.',
+              'Only selected photos are copied into this app. No '
+              'account or family-sync server. Copies may be included in'
+              ' your device backup.',
             ),
             const SizedBox(height: 16),
             FilledButton.icon(

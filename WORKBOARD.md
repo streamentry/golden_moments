@@ -9,7 +9,7 @@ Updated 2026-10-18. Scope: US English, local-first Golden Moments 1.3.0 candidat
 | Four-tile visible-picture starter | Implemented; Flutter/device verification pending |
 | Selected family-photo import and bounded local copies | Implemented; native picker/storage/upgrade QA pending |
 | Shared viewing and optional prompts | Implemented; caregiver review pending |
-| Explicit legacy library instead of launch downloads | Implemented; regression checks pending |
+| Included picture library with no download flow | 121 bundled images; local first-launch/browser and all-pack tests passed |
 | Analytics deactivation and crash-reporting defaults | Configured; native privacy audit pending |
 | Product, architecture, safety and ASO specs | Documented |
 
