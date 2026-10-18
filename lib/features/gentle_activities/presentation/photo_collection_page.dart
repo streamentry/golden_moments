@@ -77,7 +77,11 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     unawaited(_load(recover: true));
   }
 
-  Future<bool> _confirm(String title, String message) async {
+  Future<bool> _confirm(
+    String title,
+    String message, {
+    String confirmLabel = 'Continue',
+  }) async {
     if (!mounted) return false;
     return await showDialog<bool>(
           context: context,
@@ -92,7 +96,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
               ),
               FilledButton(
                 onPressed: () => Navigator.pop(context, true),
-                child: const Text('Continue'),
+                child: Text(confirmLabel),
               ),
             ],
           ),
@@ -187,6 +191,8 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
       'This removes copies saved by Golden Moments on this device. '
       'Originals in your photo library are not deleted, and earlier '
       'device backups are not changed.',
+      // Say what the button does; a destructive step is never 'Continue'.
+      confirmLabel: id == null ? 'Remove all copies' : 'Remove copy',
     );
     if (!confirmed || !mounted) return;
     setState(() {
@@ -644,6 +650,8 @@ class _PhotoOptionsSheetState extends State<_PhotoOptionsSheet> {
               decoration: const InputDecoration(
                 labelText: 'Caption (optional)',
                 helperText: 'Shown only when you choose to show captions.',
+                // Wraps instead of being cut off beside the counter.
+                helperMaxLines: 3,
               ),
             ),
             const SizedBox(height: gmSpaceSm),
@@ -655,6 +663,8 @@ class _PhotoOptionsSheetState extends State<_PhotoOptionsSheet> {
               decoration: const InputDecoration(
                 labelText: 'Description for screen readers (optional)',
                 helperText: 'Read aloud while the picture is showing.',
+                // Wraps instead of being cut off beside the counter.
+                helperMaxLines: 3,
               ),
             ),
             SwitchListTile(
