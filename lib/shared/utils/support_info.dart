@@ -3,6 +3,12 @@ import 'package:flutter/foundation.dart';
 /// Matches `version:` in pubspec.yaml; a test keeps the two in step.
 const String appVersion = '1.3.0+5';
 
+/// The public help page already declared as `support_url` in the canonical
+/// store metadata (a test keeps the two identical). It is shown as text to
+/// copy; the app never opens it, so nothing leaves the device from here.
+const String supportUrl =
+    'https://streamentry.github.io/golden-moments-web/help/';
+
 /// A public support address, once the owner decides one. Until then no
 /// address is shown and reports go through the system share sheet instead.
 const String? supportEmail = null;

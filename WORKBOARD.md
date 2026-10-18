@@ -55,7 +55,8 @@ Recorded at the maintainer's instruction; each is scoped and reversible.
 - **Legacy downloader removed** (35 unreachable files and seven unused packages). Stored files from older installs are not touched. Native iOS/Android builds still need to confirm the plugin removal.
 - **Firebase kept, collection stays off.** The Firebase dependencies stay for a possible later engagement measurement, but analytics and crash collection remain disabled (manifest and plist flags, guarded by `tests/test_network_boundary.py`). Switching collection on needs a privacy decision first: policy and App Privacy answers, a consent design suitable for older adults and caregivers, and no streaks or pressure metrics. Until then engagement is measured by consented diaries and interviews per `docs/specs/senior-first/validation.md`.
 - **PR #54 merged** at the maintainer's instruction after its own checks passed.
-- **Not decided by the assistant:** the real support address and the image rights review need the maintainer or a qualified reviewer; nothing was invented or marked reviewed.
+- **Support contact:** the Help page shows the maintainer's existing `support_url` from the store metadata as copyable text (never opened by the app). No email address was invented.
+- **Not decided by the assistant:** the image rights review needs the maintainer or a qualified reviewer; nothing was marked reviewed.
 
 ## Deferred
 

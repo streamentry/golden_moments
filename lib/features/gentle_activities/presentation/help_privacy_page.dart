@@ -156,6 +156,11 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
                     supportEmail!,
                     style: theme.textTheme.titleMedium,
                   ),
+                para(
+                  'Online help, when you are connected (copy this into your '
+                  'browser; the app does not open it):',
+                ),
+                SelectableText(supportUrl, style: theme.textTheme.titleMedium),
                 const SizedBox(height: gmSpaceSm),
                 OutlinedButton.icon(
                   onPressed: _writeNote,

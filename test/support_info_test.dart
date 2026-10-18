@@ -1,3 +1,4 @@
+import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/foundation.dart';
@@ -12,6 +13,14 @@ void main() {
       multiLine: true,
     ).firstMatch(pubspec)!.group(1);
     expect(appVersion, version);
+  });
+
+  test('supportUrl is the support_url in the canonical store metadata', () {
+    final metadata = jsonDecode(
+      File('metadata/app-store.en-US.json').readAsStringSync(),
+    ) as Map<String, dynamic>;
+    expect(supportUrl, metadata['support_url']);
+    expect(Uri.parse(supportUrl).scheme, 'https');
   });
 
   group('diagnostic summary', () {
