@@ -36,10 +36,10 @@ Playwright was supplied by the desktop app's bundled Node dependencies.
 
 - Release web build: passed.
 - All 84 catalog game images persisted in browser Cache Storage.
-- Nine automated browser checks passed: persistent image downloads, responsive
+- Ten automated browser checks passed: persistent image downloads, responsive
   home, settings toggle/save, download manager, game startup, tile reveal and
   pause/resume/replay, cached gameplay without network, hint/navigation lifecycle,
-  and library category navigation.
+  library category navigation, and full-game completion/play again.
 - Zero unhandled browser errors in the final run.
 - Screenshots at 320x740, 390x844, 768x1024, and 1440x1000, plus settings,
   downloads, gameplay, revealed tile, pause, restart, hint, offline tile, and library.
@@ -82,8 +82,7 @@ The CI workflow now pins Flutter through `.fvmrc`, grants the PR-title checker
 read access to pull requests, and adds an independent release-web/browser job
 that uploads screenshots and accessibility snapshots even on failure.
 
-No native iOS/Android build, physical-device run, store release, full-game
-completion flow, or offline cold launch was verified. Offline gameplay was
+No native iOS/Android build, physical-device run, store release, or offline cold launch was verified. Offline gameplay was
 tested within an already loaded app. The configured Android SDK path on this
 machine is unavailable, so native compilation needs a working Android SDK.
 

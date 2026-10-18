@@ -123,6 +123,54 @@ async function eventually(read, expected) {
     await shot('library-animals');
     await page.getByRole('button', { name: 'Back', exact: true }).click();
   });
+  await check('full game completes and can be played again', async () => {
+    await page.getByRole('button', { name: /^Animals Cute/ }).click();
+    await page.getByRole('button', { name: /Farm Animals/ }).click();
+    await page.getByRole('button', { name: 'Hidden tile', exact: true }).first().waitFor();
+    const tiles = page.getByRole('group').getByRole('button');
+    const count = await tiles.count();
+    const known = new Map();
+    const matched = new Set();
+    // Remember only names revealed by clicking, as a player would.
+    async function flip(index) {
+      await tiles.nth(index).click();
+      await page.waitForTimeout(120);
+      const snapshot = await tiles.nth(index).ariaSnapshot();
+      const name = JSON.parse(snapshot.match(/"(?:[^"\\]|\\.)*"/)[0]);
+      assert.notEqual(name, 'Hidden tile');
+      known.set(index, name);
+      return name;
+    }
+    for (let turn = 0; matched.size < count && turn < 100; turn++) {
+      const left = Array.from({ length: count }, (_, index) => index).filter(index => !matched.has(index));
+      let pair;
+      for (const first of left) {
+        const second = left.find(second => first !== second && known.has(first) && known.get(first) === known.get(second));
+        if (second !== undefined) { pair = [first, second]; break; }
+      }
+      const first = pair ? pair[0] : left.find(index => !known.has(index));
+      assert.notEqual(first, undefined);
+      const firstName = await flip(first);
+      const second = pair ? pair[1] : left.find(index => index !== first && known.get(index) === firstName)
+        ?? left.find(index => index !== first && !known.has(index))
+        ?? left.find(index => index !== first);
+      // The final match opens a modal, removing the board's semantics.
+      const secondName = matched.size === count - 2
+        ? (await tiles.nth(second).click(), firstName) : await flip(second);
+      if (firstName === secondName || secondName === `Matched: ${firstName}`) {
+        matched.add(first); matched.add(second);
+      } else {
+        await page.waitForTimeout(1600);
+      }
+    }
+    assert.equal(matched.size, count);
+    await page.getByText('You completed the memory game!', { exact: true }).waitFor();
+    assert.equal(await page.getByText(/You've completed 3 memory games/).count(), 0);
+    await shot('game-completed');
+    await page.getByRole('button', { name: 'Play Again', exact: true }).first().click();
+    await page.getByRole('button', { name: 'Hidden tile', exact: true }).first().waitFor();
+    await shot('play-again');
+  });
   assert.deepEqual(errors, [], 'Unhandled browser errors');
 })().catch(async error => {
   results.push({ name: 'automation', status: 'failed', error: error.message });

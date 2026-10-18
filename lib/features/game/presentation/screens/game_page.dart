@@ -28,7 +28,7 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
   Timer? _timer;
   int _elapsedSeconds = 0;
   bool _isPaused = false;
-  int _completePlayCount = 3;
+  int _completePlayCount = 1;
 
   @override
   void initState() {
