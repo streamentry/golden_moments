@@ -9,6 +9,9 @@ import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/shared/widgets/pack_card.dart';
 
+/// Narrowest pack card at 100% text.
+const double _cardMinWidth = 170;
+
 /// Page to display all packs for a given category
 class PackPage extends StatefulWidget {
   const new({
@@ -42,7 +45,6 @@ class _PackPageState extends State<PackPage> {
     );
     if (!mounted) return;
     setState(() {
-      // Example: filter packs by categoryName, replace with real fetch
       _packs = packs.where((p) => p.category == widget.categoryId).toList();
       _loading = false;
     });
@@ -69,7 +71,13 @@ class _PackPageState extends State<PackPage> {
                     gmContentMaxWidth,
                   );
                   final side = (constraints.maxWidth - width) / 2;
-                  final columns = (width / 170).floor().clamp(1, 4);
+                  // Cards get wider as text grows, so their labels wrap
+                  // inside the card instead of overflowing it (GM-012).
+                  final textScale =
+                      MediaQuery.textScalerOf(context).scale(16) / 16;
+                  final columns = (width / (_cardMinWidth * textScale))
+                      .floor()
+                      .clamp(1, 4);
                   final cardWidth =
                       (width - (columns - 1) * gmSpaceSm) / columns;
                   return GridView.builder(

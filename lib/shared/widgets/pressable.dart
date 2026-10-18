@@ -3,7 +3,10 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 
-/// A reusable pressable widget with ripple effect and tap sound
+/// A reusable pressable surface with a ripple and an optional tap sound.
+///
+/// The sound follows [SoundService] settings (off unless chosen) and is never
+/// the only feedback: the highlight and the resulting screen change are.
 class Pressable extends StatelessWidget {
   const new({
     required this.child,
@@ -46,9 +49,12 @@ class Pressable extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Reduce Motion: no spreading ripple; the press highlight still shows.
+    final reduceMotion = MediaQuery.disableAnimationsOf(context);
     return Material(
-      color: Colors.transparent,
+      type: MaterialType.transparency,
       child: InkWell(
+        splashFactory: reduceMotion ? NoSplash.splashFactory : null,
         borderRadius: borderRadius,
         splashColor: splashColor,
         highlightColor: highlightColor,

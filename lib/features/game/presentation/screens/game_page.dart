@@ -13,7 +13,11 @@ import 'package:golden_moments/features/game/presentation/widgets/game_header.da
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
 import 'package:provider/provider.dart';
 
-/// Game page for playing memory matching games
+/// Picture-pack matching game.
+///
+/// Like the gentle board (GM-002), "Done for now" is always visible in a
+/// bottom bar, Start again asks before clearing found pairs, and finishing
+/// never asks for a rating. No clock, move count or score is shown.
 class GamePage extends StatefulWidget {
   const new({required this.gamePack, super.key});
 
@@ -34,6 +38,7 @@ class _GamePageState extends State<GamePage> {
   }
 
   Future<void> _onCompleted(BuildContext context) async {
+    // The chime is optional; the dialog carries the message.
     unawaited(SoundService().playWinner());
     final invite = await _recordCompletion();
     if (!mounted || !context.mounted) return;
@@ -52,69 +57,59 @@ class _GamePageState extends State<GamePage> {
         onPopInvokedWithResult: (_, _) {
           unawaited(SoundService().playTap());
         },
-        child: BlocBuilder<GameCubit, GameState>(
+        child: BlocConsumer<GameCubit, GameState>(
+          listenWhen: (previous, current) => previous.status != current.status,
+          listener: (context, state) {
+            if (state.status == GameStatus.completed) {
+              unawaited(_onCompleted(context));
+            }
+          },
           builder: (context, state) {
+            final playing = switch (state.status) {
+              GameStatus.playing ||
+              GameStatus.paused ||
+              GameStatus.completed => true,
+              _ => false,
+            };
             return Scaffold(
               appBar: AppBar(
-                title: BlocBuilder<GameCubit, GameState>(
-                  builder: (_, state) {
-                    return Text(state.currentPack.title);
-                  },
-                ),
-                actions: [
-                  IconButton(
-                    icon: const Icon(Icons.lightbulb_outline),
-                    onPressed: () {
-                      unawaited(SoundService().playTap());
-                      context.read<GameCubit>().showHint();
-                    },
-                    tooltip: 'Show a matching pair',
-                  ),
-                  IconButton(
-                    icon: const Icon(Icons.replay_outlined),
-                    onPressed: () {
-                      unawaited(SoundService().playTap());
-                      context.read<GameCubit>().resetGame();
-                    },
-                    tooltip: 'Start again',
-                  ),
-                  IconButton(
-                    icon: const Icon(Icons.tune),
-                    onPressed: () {
-                      unawaited(SoundService().playTap());
-                      context.read<GameCubit>().pauseGame();
-                      _showPauseDialog(context);
-                    },
-                    tooltip: 'Sound and options',
-                  ),
-                ],
+                title: Text(playing ? state.currentPack.title : 'Picture game'),
+                actions: playing
+                    ? [
+                        IconButton(
+                          icon: const Icon(Icons.lightbulb_outline),
+                          onPressed: () {
+                            unawaited(SoundService().playTap());
+                            context.read<GameCubit>().showHint();
+                          },
+                          tooltip: 'Show a matching pair',
+                        ),
+                        IconButton(
+                          icon: const Icon(Icons.tune),
+                          onPressed: () {
+                            unawaited(SoundService().playTap());
+                            unawaited(_showOptions(context));
+                          },
+                          tooltip: 'Sound and options',
+                        ),
+                      ]
+                    : null,
               ),
-              body: BlocListener<GameCubit, GameState>(
-                listenWhen: (previous, current) =>
-                    previous.status != current.status,
-                listener: (context, state) {
-                  if (state.status == GameStatus.completed) {
-                    unawaited(_onCompleted(context));
-                  }
-                },
-                child: BlocBuilder<GameCubit, GameState>(
-                  builder: (context, state) {
-                    switch (state.status) {
-                      case GameStatus.initial:
-                      case GameStatus.loading:
-                        return const _LoadingView();
-                      case GameStatus.playing:
-                      case GameStatus.paused:
-                      case GameStatus.completed:
-                        return _GamePlayView(state: state);
-                      case GameStatus.failed:
-                        return _ErrorView(state: state);
-                      case GameStatus.requiresDownload:
-                        return _ErrorView(state: state);
-                    }
-                  },
-                ),
-              ),
+              body: switch (state.status) {
+                GameStatus.initial ||
+                GameStatus.loading => const _LoadingView(),
+                GameStatus.playing ||
+                GameStatus.paused ||
+                GameStatus.completed => _GamePlayView(state: state),
+                GameStatus.failed ||
+                GameStatus.requiresDownload => const _ErrorView(),
+              },
+              bottomNavigationBar: playing
+                  ? _ExitBar(
+                      onDone: () => Navigator.of(context).pop(),
+                      onStartAgain: () => unawaited(_startAgain(context)),
+                    )
+                  : null,
             );
           },
         ),
@@ -122,68 +117,98 @@ class _GamePageState extends State<GamePage> {
     );
   }
 
-  void _showPauseDialog(BuildContext parentContext) {
-    unawaited(
-      showDialog<void>(
-        context: parentContext,
-        barrierDismissible: false,
-        builder: (dialogContext) => StatefulBuilder(
-          builder: (context, setState) => AlertDialog(
-            title: const Text('Options'),
-            scrollable: true,
-            content: Consumer<SoundSettings>(
-              builder: (_, settings, _) => Column(
-                mainAxisSize: MainAxisSize.min,
-                children: [
-                  const Text('Take your time. Nothing changes while you rest.'),
-                  const SizedBox(height: gmSpaceMd),
-                  SwitchListTile(
-                    contentPadding: EdgeInsets.zero,
-                    secondary: Icon(
-                      settings.isMusicOn ? Icons.volume_up : Icons.volume_off,
-                    ),
-                    title: const Text('Music'),
-                    value: settings.isMusicOn,
-                    onChanged: (value) {
-                      setState(settings.toggleMusic);
-                    },
-                  ),
-                  SwitchListTile(
-                    contentPadding: EdgeInsets.zero,
-                    secondary: Icon(
-                      settings.isSoundOn ? Icons.music_note : Icons.music_off,
-                    ),
-                    title: const Text('Sounds'),
-                    value: settings.isSoundOn,
-                    onChanged: (value) {
-                      setState(settings.toggleSound);
-                    },
-                  ),
-                ],
-              ),
+  /// Found pairs are only cleared after a yes; "Keep this board" leaves the
+  /// exact board as it was (GM-002).
+  Future<void> _startAgain(BuildContext context) async {
+    final cubit = context.read<GameCubit>();
+    final state = cubit.state;
+    final hasProgress =
+        state.status != GameStatus.completed &&
+        (state.matchedPairs > 0 || state.selectedTiles.isNotEmpty);
+    if (hasProgress) {
+      final ok = await showDialog<bool>(
+        context: context,
+        builder: (dialogContext) => AlertDialog(
+          scrollable: true,
+          title: const Text('Start again?'),
+          content: const Text(
+            'The pictures you have found on this board will be cleared.',
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(dialogContext, false),
+              child: const Text('Keep this board'),
             ),
-            actions: [
-              TextButton(
-                onPressed: () {
-                  unawaited(SoundService().playTap());
-                  Navigator.of(dialogContext).pop();
-                  Navigator.of(dialogContext).pop(); // Go back to home
-                },
-                child: const Text('Done for now'),
+            FilledButton(
+              onPressed: () => Navigator.pop(dialogContext, true),
+              child: const Text('Start again'),
+            ),
+          ],
+        ),
+      );
+      if (ok != true || cubit.isClosed) return;
+    }
+    cubit.resetGame();
+  }
+
+  /// Sound and stop choices. Closing the dialog in any way, including the
+  /// system Back, returns to the same board.
+  Future<void> _showOptions(BuildContext parentContext) async {
+    final cubit = parentContext.read<GameCubit>()..pauseGame();
+    await showDialog<void>(
+      context: parentContext,
+      builder: (dialogContext) => AlertDialog(
+        title: const Text('Options'),
+        scrollable: true,
+        content: Consumer<SoundSettings>(
+          builder: (_, settings, _) => Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              const Text('Take your time. Nothing changes while you rest.'),
+              const SizedBox(height: gmSpaceMd),
+              SwitchListTile(
+                contentPadding: EdgeInsets.zero,
+                secondary: Icon(
+                  settings.isMusicOn ? Icons.music_note : Icons.music_off,
+                ),
+                title: const Text('Music'),
+                subtitle: const Text('Off unless you turn it on'),
+                value: settings.isMusicOn,
+                onChanged: (_) => settings.toggleMusic(),
               ),
-              FilledButton(
-                onPressed: () {
-                  unawaited(SoundService().playTap());
-                  Navigator.of(dialogContext).pop();
-                  parentContext.read<GameCubit>().resumeGame();
-                },
-                child: const Text('Keep playing'),
+              SwitchListTile(
+                contentPadding: EdgeInsets.zero,
+                secondary: Icon(
+                  settings.isSoundOn ? Icons.volume_up : Icons.volume_off,
+                ),
+                title: const Text('Sounds'),
+                subtitle: const Text('Soft taps and a chime at the end'),
+                value: settings.isSoundOn,
+                onChanged: (_) => settings.toggleSound(),
               ),
             ],
           ),
         ),
+        actions: [
+          TextButton(
+            onPressed: () {
+              unawaited(SoundService().playTap());
+              Navigator.of(dialogContext).pop();
+              Navigator.of(parentContext).pop();
+            },
+            child: const Text('Done for now'),
+          ),
+          FilledButton(
+            onPressed: () {
+              unawaited(SoundService().playTap());
+              Navigator.of(dialogContext).pop();
+            },
+            child: const Text('Keep playing'),
+          ),
+        ],
       ),
     );
+    if (!cubit.isClosed) cubit.resumeGame();
   }
 
   void _showCompletionDialog(
@@ -249,10 +274,65 @@ class _GamePageState extends State<GamePage> {
                 onTap: () {
                   unawaited(close());
                   Navigator.of(context).pop();
-                  Navigator.of(context).pop();
+                  Navigator.of(parentContext).pop();
                 },
               ),
             ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+/// "Done for now" and "Start again", fixed below the board so the exit is
+/// always on screen. Side by side normally; stacked at large text.
+class _ExitBar extends StatelessWidget {
+  const new({required this.onDone, required this.onStartAgain});
+
+  final VoidCallback onDone;
+  final VoidCallback onStartAgain;
+
+  @override
+  Widget build(BuildContext context) {
+    final stacked = MediaQuery.textScalerOf(context).scale(16) / 16 > 1.3;
+    final done = OutlinedButton(
+      onPressed: onDone,
+      child: const Text('Done for now'),
+    );
+    final again = OutlinedButton(
+      onPressed: onStartAgain,
+      child: const Text('Start again'),
+    );
+    return SafeArea(
+      child: Center(
+        heightFactor: 1,
+        child: ConstrainedBox(
+          constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
+          child: Padding(
+            padding: const EdgeInsets.fromLTRB(
+              gmSpaceLg,
+              gmSpaceSm,
+              gmSpaceLg,
+              gmSpaceMd,
+            ),
+            child: stacked
+                ? Column(
+                    mainAxisSize: MainAxisSize.min,
+                    crossAxisAlignment: CrossAxisAlignment.stretch,
+                    children: [
+                      done,
+                      const SizedBox(height: gmSpaceSm),
+                      again,
+                    ],
+                  )
+                : Row(
+                    children: [
+                      Expanded(child: done),
+                      const SizedBox(width: gmSpaceMd),
+                      Expanded(child: again),
+                    ],
+                  ),
           ),
         ),
       ),
@@ -267,19 +347,22 @@ class _LoadingView extends StatelessWidget {
   @override
   Widget build(BuildContext parentContext) {
     return const Center(
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          CircularProgressIndicator(),
-          SizedBox(height: gmSpaceMd),
-          Text('Getting the pictures ready…'),
-        ],
+      child: SingleChildScrollView(
+        padding: EdgeInsets.all(gmSpaceLg),
+        child: Column(
+          children: [
+            CircularProgressIndicator(),
+            SizedBox(height: gmSpaceMd),
+            Text('Getting the pictures ready…', textAlign: TextAlign.center),
+          ],
+        ),
       ),
     );
   }
 }
 
-/// Game play view
+/// The board first; guidance moves below it at very large text, and the
+/// whole page scrolls when the screen is short (GM-012/GM-016).
 class _GamePlayView extends StatelessWidget {
   const new({required this.state});
 
@@ -287,69 +370,115 @@ class _GamePlayView extends StatelessWidget {
 
   @override
   Widget build(BuildContext parentContext) {
-    return Column(
-      children: [
-        // Game header with stats
-        GameHeader(state: state),
+    final scale = MediaQuery.textScalerOf(parentContext).scale(16) / 16;
+    final guidanceBelow = scale > 1.5;
+    final header = GameHeader(state: state);
+    const padding = EdgeInsets.symmetric(
+      horizontal: gmSpaceLg,
+      vertical: gmSpaceMd,
+    );
 
-        // Game board
-        Expanded(
-          child: Padding(
-            padding: const EdgeInsets.all(gmSpaceMd),
-            child: GameBoard(
-              tiles: state.tiles,
-              difficulty: state.currentPack.difficulty,
-              packId: state.currentPack.id,
-              onTileTap: (tileId) {
-                parentContext.read<GameCubit>().onTileTap(tileId);
-              },
-            ),
+    GameBoard board({double? heightBudget}) => GameBoard(
+      tiles: state.tiles,
+      difficulty: state.currentPack.difficulty,
+      selectedTileIds: {for (final tile in state.selectedTiles) tile.id},
+      waitingForNextTap: state.showingMismatch || state.hintTileIds.isNotEmpty,
+      heightBudget: heightBudget,
+      onTileTap: (tileId) => parentContext.read<GameCubit>().onTileTap(tileId),
+    );
+
+    return SafeArea(
+      bottom: false,
+      child: Center(
+        child: ConstrainedBox(
+          constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
+          child: LayoutBuilder(
+            builder: (context, constraints) {
+              final tight = constraints.maxHeight < 360 + 240 * scale;
+              if (tight) {
+                return SingleChildScrollView(
+                  padding: padding,
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      if (!guidanceBelow) ...[
+                        header,
+                        const SizedBox(height: gmSpaceMd),
+                      ],
+                      board(heightBudget: constraints.maxHeight * 0.8),
+                      if (guidanceBelow) ...[
+                        const SizedBox(height: gmSpaceMd),
+                        header,
+                      ],
+                    ],
+                  ),
+                );
+              }
+              return Padding(
+                padding: padding,
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    if (!guidanceBelow) ...[
+                      header,
+                      const SizedBox(height: gmSpaceMd),
+                    ],
+                    Expanded(child: board()),
+                    if (guidanceBelow) ...[
+                      const SizedBox(height: gmSpaceMd),
+                      header,
+                    ],
+                  ],
+                ),
+              );
+            },
           ),
         ),
-      ],
+      ),
     );
   }
 }
 
 /// Error state view
 class _ErrorView extends StatelessWidget {
-  const new({required this.state});
-
-  final GameState state;
+  const new();
 
   @override
   Widget build(BuildContext parentContext) {
+    final theme = Theme.of(parentContext);
     return Center(
-      child: Padding(
-        padding: const EdgeInsets.all(gmSpaceMd),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Icon(
-              Icons.error_outline,
-              size: 64,
-              color: Theme.of(parentContext).colorScheme.error,
-            ),
-            const SizedBox(height: gmSpaceMd),
-            Text(
-              'This pack could not open',
-              style: Theme.of(parentContext).textTheme.headlineSmall,
-              textAlign: TextAlign.center,
-            ),
-            const SizedBox(height: gmSpaceSm),
-            const Text(
-              'Please choose another pack. Your other packs and '
-              'activities still work.',
-              textAlign: TextAlign.center,
-            ),
-            const SizedBox(height: gmSpaceLg),
-            GmOutlineButton(
-              label: 'Go back',
-              onTap: () {
-                Navigator.of(parentContext).pop();
-              },
-            ),
-          ],
+      child: SingleChildScrollView(
+        padding: const EdgeInsets.all(gmSpaceLg),
+        child: ConstrainedBox(
+          constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
+          child: Column(
+            children: [
+              Icon(
+                Icons.error_outline,
+                size: 64,
+                color: theme.colorScheme.error,
+              ),
+              const SizedBox(height: gmSpaceMd),
+              Text(
+                'This pack could not open',
+                style: theme.textTheme.headlineSmall,
+                textAlign: TextAlign.center,
+              ),
+              const SizedBox(height: gmSpaceSm),
+              const Text(
+                'Please choose another pack. Your other packs and '
+                'activities still work.',
+                textAlign: TextAlign.center,
+              ),
+              const SizedBox(height: gmSpaceLg),
+              GmOutlineButton(
+                label: 'Go back',
+                onTap: () {
+                  Navigator.of(parentContext).pop();
+                },
+              ),
+            ],
+          ),
         ),
       ),
     );
