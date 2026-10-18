@@ -101,5 +101,311 @@
     "treatment_claims",
     "cloud_photo_uploads",
     "AI_processing"
-  ]
+  ],
+  "senior_first_features": {
+    "meaning": "Per-feature execution status for docs/specs/senior-first/feature-catalog.json. Catalog IDs not listed here have not been started. implemented_unverified means source and automated widget tests exist (flutter analyze strict + flutter test pass locally); no native device, VoiceOver/TalkBack or user-comprehension evidence exists yet.",
+    "features": {
+      "GM-001": {
+        "status": "partial",
+        "scope": "Gentle matching screen is board-first with no settings in the first view; the home screen was not changed and fresh-install/upgrade/device journeys are untested.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-002": {
+        "status": "implemented_unverified",
+        "scope": "Gentle matching screen only: Done for now is fixed in a bottom bar, Start again confirms only with progress and Cancel keeps the board, finishing offers Play again beside Done. Photo, together and legacy-library screens not audited.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-003": {
+        "status": "implemented_unverified",
+        "scope": "Tile count and visible-picture choice persist as a versioned, field-by-field-safe record; reset touches comfort choices only. Text size/motion preferences and other screens are not covered.",
+        "evidence": [
+          "lib/features/gentle_activities/data/gentle_preferences.dart",
+          "test/features/gentle_activities/gentle_preferences_test.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-004": {
+        "status": "implemented_unverified",
+        "scope": "Matching screen only: the unfinished board (picture ids and tile positions, no score/time/path) saves after each tap and clears on finish or a confirmed restart; reopening offers Carry on or Start fresh, never resumes silently (dismissing the prompt with system back chooses nothing and keeps the saved board; taps are not saved until the prompt is settled); missing pictures, corrupt or other-version records start fresh without touching photos or settings. Starter and family boards are kept apart. Real process-kill, backgrounding and device checks pending; lifecycle-resume of a backgrounded (not killed) page relies on Flutter keeping page state.",
+        "evidence": [
+          "lib/features/gentle_activities/data/gentle_session.dart",
+          "lib/features/gentle_activities/models/gentle_board.dart",
+          "test/features/gentle_activities/gentle_session_test.dart",
+          "test/features/gentle_activities/gentle_resume_test.dart"
+        ]
+      },
+      "GM-005": {
+        "status": "partial",
+        "scope": "How-this-works help opens on request from the matching screen without resetting play. Error-state review and screen-reader reading-order checks pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-006": {
+        "status": "implemented_unverified",
+        "scope": "Visible-picture matching is the default (four visible tiles, mismatches stay visible until the next tap, no timer or score). Covered by board and widget tests; device review pending.",
+        "evidence": [
+          "lib/features/gentle_activities/models/gentle_board.dart",
+          "test/features/gentle_activities/gentle_board_test.dart"
+        ]
+      },
+      "GM-007": {
+        "status": "implemented_unverified",
+        "scope": "Hidden-picture matching is an opt-in switch in comfort settings and persists; hidden tiles expose no picture, caption or description. Covered by widget and semantics tests; device review pending.",
+        "evidence": [
+          "test/accessibility_guards_test.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-008": {
+        "status": "implemented_unverified",
+        "scope": "Look together shows one picture at a time with optional prompts and optional captions, no recall questions. Photo-collection journey tests open it from the collection; a dedicated viewing test and device review are pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/photo_together_page.dart",
+          "test/features/gentle_activities/photo_collection_journey_test.dart"
+        ]
+      },
+      "GM-009": {
+        "status": "implemented_unverified",
+        "scope": "Unshipped prototype, off in every normal build: a tap-to-place picture puzzle (2x2, also 3x3/4x4 in code) with no drag, clock, score, move count or hint ladder; the whole picture stays in view; a wrong placement is never flagged; pieces and slots are at least 64; Done for now is fixed. Reachable only in builds made with --dart-define=GM_EXPERIMENTS=true, from the family-photo collection, using only visible (non-hidden) photos. Per the R2 gate it must not ship until pilot evidence chooses it over GM-010; GM-010 is deliberately not built so both are not offered by default. Device and pilot evidence pending. Screen-reader support is minimal (pieces are 'Piece N of M' and spots are labelled) and has not been tried with VoiceOver/TalkBack, so it is not claimed accessible.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/picture_puzzle_page.dart",
+          "lib/features/gentle_activities/models/puzzle_board.dart",
+          "lib/shared/utils/experiments.dart",
+          "test/features/gentle_activities/puzzle_board_test.dart",
+          "test/features/gentle_activities/picture_puzzle_test.dart"
+        ]
+      },
+      "GM-010": {
+        "status": "not_started",
+        "scope": "R2 evidence gate unmet and deliberately not built: GM-009 is the single prototype so both are not offered by default; sorting is built only if the pilot prefers it or GM-009 fails."
+      },
+      "GM-011": {
+        "status": "not_started",
+        "scope": "R2 and approval-gated; no capability or privacy review done."
+      },
+      "GM-012": {
+        "status": "partial",
+        "scope": "Matching screen reflows at 200% text on 390x844 and 320x568: the board comes first (instruction moves below it above 150% text), exit buttons stack, dialogs scroll. Other screens and device checks pending. Photo cards in the collection grow with text (no FittedBox shrinking) and use one column above 150% text.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-013": {
+        "status": "partial",
+        "scope": "Tiles are at least 64 and as large as the space allows (shared gmBoardColumns); controls keep the 48/56 floor. Tremor/repeated-tap testing pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-014": {
+        "status": "partial",
+        "scope": "Automated semantics tests only: hidden game tiles expose 'Hidden picture, tile N' with no caption, description or answer until chosen, and only the chosen tile is revealed; tile state is announced as Selected/Matched; photo cards carry caption plus description labels. VoiceOver/TalkBack walkthroughs of start/play/stop/import/remove are pending.",
+        "evidence": [
+          "test/accessibility_guards_test.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart",
+          "test/features/gentle_activities/photo_collection_journey_test.dart"
+        ]
+      },
+      "GM-015": {
+        "status": "partial",
+        "scope": "Contrast, text floor and target tests from the design system remain; new test proves the legacy tile flip becomes instant when the system requests reduced motion and animates otherwise. The gentle matching screen has no animation, timer, confetti or auto-closing dialog. Device checks for reduced motion, increased contrast and audio interruption are pending.",
+        "evidence": [
+          "test/accessibility_guards_test.dart",
+          "test/design_system_test.dart"
+        ]
+      },
+      "GM-016": {
+        "status": "partial",
+        "scope": "Matching screen verified in widget tests on small phone, phone, landscape phone and iPad portrait sizes. Real iPad/device layout review pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/gentle_game_page.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-017": {
+        "status": "not_started",
+        "scope": "Requires the physical VoiceOver/TalkBack/Voice Control/switch and Assistive/Guided Access device matrix (GM-040). No claim made."
+      },
+      "GM-018": {
+        "status": "partial",
+        "scope": "Pre-existing explicit-picker import and storage limits are unchanged. New journey tests cover choose, a failed or out-of-space import leaving the collection intact with a safe message, a damaged optional sidecar not affecting photos, and restart, using a fake picker and real storage. HEIC, cloud-only originals, partial access, Android recovery and real low-storage device checks remain pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/photo_collection_page.dart",
+          "test/features/gentle_activities/photo_annotations_test.dart",
+          "test/features/gentle_activities/photo_collection_journey_test.dart"
+        ]
+      },
+      "GM-019": {
+        "status": "implemented_unverified",
+        "scope": "Optional caption (60) and screen-reader description (280) per family photo in a versioned additive sidecar (annotations.json) keyed by existing photo ids; text is normalized (control/direction characters removed, length capped) and treated as inert data; an unreadable sidecar is moved aside under a unique name (never overwriting an earlier backup) and never invalidates photos; deleting a copy removes its entry. Captions show in Look together only when 'Show captions' is on; hidden game tiles never expose captions or descriptions. Not covered: screen-reader device checks, in-game caption display (intentionally none).",
+        "evidence": [
+          "lib/features/gentle_activities/data/photo_annotations.dart",
+          "lib/features/gentle_activities/presentation/photo_collection_page.dart",
+          "test/features/gentle_activities/photo_annotations_test.dart",
+          "test/features/gentle_activities/photo_collection_journey_test.dart"
+        ]
+      },
+      "GM-020": {
+        "status": "partial",
+        "scope": "Family photos only: Favorite sorts a photo first; Hide excludes it from the game and Look together without deleting the copy, is shown with the word 'Hidden', persists and is undone by turning the switch off (no countdown); Remove is a separate confirmed action. Fewer than two visible photos disables the game with an explanation and never silently unhides. Included packs, replay and interest filters are not covered. Known behavior: starter and family boards use one session key per source, so hiding or removing a photo starts a fresh board rather than resuming one that includes it.",
+        "evidence": [
+          "lib/features/gentle_activities/data/photo_annotations.dart",
+          "lib/features/gentle_activities/presentation/photo_collection_page.dart",
+          "test/features/gentle_activities/photo_annotations_test.dart",
+          "test/features/gentle_activities/photo_collection_journey_test.dart"
+        ]
+      },
+      "GM-021": {
+        "status": "deferred",
+        "scope": "R3, approval required; not authorized."
+      },
+      "GM-022": {
+        "status": "deferred",
+        "scope": "R3, approval required; needs its own threat model; not authorized."
+      },
+      "GM-023": {
+        "status": "partial",
+        "scope": "All 121 bundled assets resolve locally and the hosted browser flow passes with external requests blocked (existing bundled_catalog evidence). Native fresh-install and upgrade validation are pending; the unreachable remote-pack downloader has been removed (stored files from older installs are untouched).",
+        "evidence": [
+          "test/bundled_catalog_test.dart",
+          "tests/test_bundled_catalog.py",
+          "scripts/visual_smoke.cjs"
+        ]
+      },
+      "GM-024": {
+        "status": "partial",
+        "scope": "Optional, remembered topic choices on the library section of the included-pack home (reached from the gentle home via 'Explore the picture-pack library'): topic chips for the five existing categories, nothing selected or forced by default, no vintage bias, selection shown with a check and the word, changeable and clearable at any time, stored locally; a chosen set shows every chosen topic (not just three); a stale or corrupt choice falls back to showing everything. Not done: optional text search, favorites/hidden for included packs, and honoring hidden family photos in pack suggestions (not applicable to included packs). Device check pending.",
+        "evidence": [
+          "lib/features/home/data/interest_preferences.dart",
+          "lib/features/home/presentation/widgets/library_section.dart",
+          "test/features/home/interest_test.dart"
+        ]
+      },
+      "GM-025": {
+        "status": "partial",
+        "scope": "Rights register for every shipped asset group exists (docs/specs/asset-provenance.json) and a test requires every declared asset and file on disk to be covered. Recorded: image source URL/hash/size, bundled Roboto license text. Unreviewed and therefore release-blocking (scripts/release_metadata.py --release now refuses, and also refuses a reviewed or bundled-license group that still lists gaps): catalog images (no author/license/attribution/review date), sounds, app icons, native launcher/splash art in the iOS and Android projects, pack index text. Needs a human rights review; nothing is marked reviewed here.",
+        "evidence": [
+          "docs/specs/asset-provenance.json",
+          "tests/test_asset_provenance.py",
+          "docs/catalog-image-sources.json"
+        ]
+      },
+      "GM-026": {
+        "status": "partial",
+        "scope": "Family photos only: 'Play with favorites' appears with two or more visible favorites and plays only them; 'Not for me' is the existing reversible Hide. No streaks, quotas, scores or messages after time away, and nothing auto-launches. Included-pack favorites, a suggestion entry and observed voluntary reuse are not done; safe resume (GM-004) covers continuing a board.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/photo_collection_page.dart",
+          "test/features/gentle_activities/photo_collection_journey_test.dart"
+        ]
+      },
+      "GM-027": {
+        "status": "partial",
+        "scope": "Versioned preferences, session and annotation records; serialized atomic writes for annotations; ids validated; deleting a copy removes its annotations; corrupt optional data never resets photos. Not yet covered: interruption at each write boundary, symlink fixtures, upgrade fixtures from installed data, backup explanation, disk-full on real devices.",
+        "evidence": [
+          "test/features/gentle_activities/photo_annotations_test.dart",
+          "test/features/gentle_activities/family_photo_store_test.dart",
+          "test/features/gentle_activities/gentle_session_test.dart"
+        ]
+      },
+      "GM-028": {
+        "status": "partial",
+        "scope": "Source-level audit and CI guard only: startup initializes no backend, local photo features contain no network code, collection flags are disabled in both manifests, only the photo-picker permission is declared, and the dead remote-pack downloader and its HTTP/cache/connectivity code were removed, so no Dart code imports a network or Firebase package or opens a connection (Firebase packages stay linked by decision, collection disabled). Not established: merged Android manifest, FirebaseInitProvider behavior, runtime traffic on a clean install, iOS privacy manifest/App Privacy answers. The privacy_and_sdk_audit gate remains pending.",
+        "evidence": [
+          "docs/release/network-privacy-audit.md",
+          "tests/test_network_boundary.py"
+        ]
+      },
+      "GM-029": {
+        "status": "partial",
+        "scope": "Measurement tooling only: scripts/measure_startup.sh collects cold-start runs on a connected physical device and scripts/startup_stats.py reports count, median, p95, min and max (unit-tested statistics; requires at least 20 runs for a budget). Time to first frame is a proxy for interactive home. No measurement has been taken on any device, no budget is claimed, and frame-time, memory and 20-minute checks are manual (device-acceptance Section H).",
+        "evidence": [
+          "scripts/measure_startup.sh",
+          "scripts/startup_stats.py",
+          "tests/test_startup_stats.py",
+          "docs/release/device-acceptance.md"
+        ]
+      },
+      "GM-030": {
+        "status": "partial",
+        "scope": "Readable recovery for failed import, unavailable collection, damaged optional sidecar, deleted/corrupt session and failed save; each keeps existing data. Denied access, interrupted picker, low storage and unsupported-platform states need native testing.",
+        "evidence": [
+          "test/features/gentle_activities/photo_collection_journey_test.dart",
+          "test/features/gentle_activities/gentle_resume_test.dart"
+        ]
+      },
+      "GM-031": {
+        "status": "partial",
+        "scope": "Offline Help and privacy page reached from Home (guide > More help and privacy): plain guidance, privacy explanation, troubleshooting, and a problem report that carries only app version, platform family and one problem code, previewed exactly before the person chooses a destination in the system share sheet (cancellable, nothing automatic, invisible/direction-override characters stripped so the preview is complete, and a share result the platform cannot report is never described as 'nothing sent', no photos/hashes/captions/identifiers). Not done: a real support address (none is decided; the constant supportEmail is null and nothing is invented) and a no-mail-app copyable address; device checks with a real share sheet.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/help_privacy_page.dart",
+          "lib/shared/utils/support_info.dart",
+          "test/support_info_test.dart",
+          "test/features/gentle_activities/help_privacy_test.dart"
+        ]
+      },
+      "GM-032": {
+        "status": "partial",
+        "scope": "Canonical metadata, exports and claim checks pass in CI (release_metadata.py, 24+ Python tests). Keyword demand is unmeasured and store configuration is pending; no ASO result is claimed.",
+        "evidence": [
+          "metadata/app-store.en-US.json",
+          "tests/test_release_metadata.py"
+        ]
+      },
+      "GM-033": {
+        "status": "not_started",
+        "scope": "Genuine screenshots of the final build and the five-caregiver comprehension test have not been done."
+      },
+      "GM-034": {
+        "status": "implemented_unverified",
+        "scope": "Voluntary feedback: 'Write a note' previews the exact text (note plus app version and platform) and sends only through the system share sheet; 'Report a problem' as above. Support is separate from any rating; no rating request, incentive, satisfaction pre-screen or nag exists anywhere, and stopping a game is never treated as an event. A platform rating prompt is deliberately not added. Device check of the share sheet pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/help_privacy_page.dart",
+          "test/features/gentle_activities/help_privacy_test.dart"
+        ]
+      },
+      "GM-035": {
+        "status": "deferred",
+        "scope": "R3, approval required; not authorized."
+      },
+      "GM-036": {
+        "status": "not_started",
+        "scope": "R2 localization needs demand evidence and editorial review; US English only."
+      },
+      "GM-037": {
+        "status": "partial",
+        "scope": "Comfort settings (tile count, picture view, reset) are reachable from Home before play via an app-bar action and use the same sheet and storage as the activity, so a helper can prepare it and hand over a board that shows only the board and the exit; the family-photo setup route already exists. No separate Play view mode, no roles or accounts, and no helper-handoff walkthrough with real users; device and caregiver testing pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/gentle_comfort_sheet.dart",
+          "lib/features/gentle_activities/presentation/gentle_home_page.dart",
+          "test/features/gentle_activities/gentle_ui_test.dart"
+        ]
+      },
+      "GM-038": {
+        "status": "deferred",
+        "scope": "R3, approval required; would add a notification permission; not authorized."
+      },
+      "GM-039": {
+        "status": "not_started",
+        "scope": "Needs human participants, consent and a comparative protocol; cannot be performed by this build process."
+      },
+      "GM-040": {
+        "status": "partial",
+        "scope": "Traceable acceptance procedure written: step-by-step device, accessibility, privacy, performance, support, rights and screenshot scenarios with expected results, a record format, and a traceability table covering all 40 feature ids (enforced by test). Automated layers run in CI. No device, native, accessibility-tool or human-study run has been performed, so no device_evidence exists and no feature is verified.",
+        "evidence": [
+          "docs/release/device-acceptance.md",
+          "tests/test_senior_status.py"
+        ]
+      }
+    }
+  }
 }

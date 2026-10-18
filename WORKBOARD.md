@@ -15,11 +15,14 @@ Updated 2026-10-18. Scope: US English, local-first Golden Moments 1.3.0 candidat
 | Product, architecture, safety and ASO specs | Documented |
 | DESIGN.md design system applied app-wide (contrast-safe gold, 16px text floor, calm legacy game) | Implemented; automated contrast/target/text-scale tests; device review pending |
 | Senior-first feature plan | Specified in docs/specs/senior-first; not newly implemented or release-approved |
-| Senior-first slice 1: board first, visible exit, comfort settings on request (GM-001/002/003/005/012/013/016, gentle matching screen only) | Implemented; strict analysis and 109 Flutter tests pass locally; no device, screen-reader or user-comprehension evidence. Per-feature status in `release-status.json` › `senior_first_features` |
+| Senior-first slice 2: family-photo captions/descriptions, favorites and reversible hiding (GM-019, GM-020 partial, GM-018 failure paths) | Implemented; journey tests with real storage pass locally; no device or screen-reader evidence. Per-feature status in `release-status.json` |
+| Senior-first slice 1: board first, visible exit, comfort settings on request, safe resume (GM-001/002/003/004/005/012/013/016, gentle matching screen only) | Implemented; strict analysis and the full Flutter suite pass locally and in CI for this branch (counts in the PR description and CI logs, not recorded here); no device, screen-reader or user-comprehension evidence. Per-feature status in `release-status.json` › `senior_first_features` |
 
 PR #44 was independently merged while checks were running. That merge is not release approval. [Validation record](docs/release/validation-2026-10-18.md) distinguishes passed focused tests from remaining strict CI and native checks.
 
 ## Next in order
+
+0. Run the device and human scenarios in [docs/release/device-acceptance.md](docs/release/device-acceptance.md) and record evidence per its format.
 
 1. Record full strict CI for the bundled catalog without hiding spelling or coverage failures. The formatter cleanup is retained and the temporary helper is removed.
 2. Complete device, offline, failure, rotation and accessibility checks in `docs/release/1.3.0.md`.
@@ -35,15 +38,40 @@ Read the [specification map](docs/specs/senior-first/README.md), [feature catalo
 
 The proposal contains 40 identified capabilities/quality requirements, with baseline state, phase, dependencies and acceptance tests. It is not a directive to build all 40 at once. R0 hardens the existing promise; R1 makes return/personalization easier; R2 validates individual new modes; R3 remains conditional.
 
-Within R0 usability work, the first slice, **board first, visible exit, optional settings** (GM-001/002/005/012/013/016, plus GM-003 preferences), is implemented for the gentle matching screen only. Still open: home-screen simplification, the photo/together/legacy screens, GM-004 safe resume and everything else in the catalog. Preserve the PR #48 design tokens, contrast fixes and calm legacy UI. Address the timed legacy mismatch/hint and platform-link follow-ups within the same release-hardening phase; do not revive clocks, scores or confetti. Observe independent and shared users before choosing new activities.
+Within R0 usability work, the first slice, **board first, visible exit, optional settings** (GM-001/002/005/012/013/016, plus GM-003 preferences), is implemented for the gentle matching screen only. Still open: home-screen simplification, the photo/together/legacy screens, everything else in the catalog. Preserve the PR #48 design tokens, contrast fixes and calm legacy UI. Address the timed legacy mismatch/hint and platform-link follow-ups within the same release-hardening phase; do not revive clocks, scores or confetti. Observe independent and shared users before choosing new activities.
 
 Execution status remains here and in release evidence. The feature catalog is a design map, not a parallel claim that requirements have passed. Agent-guidance PR #46 was separate at the baseline read; do not overwrite its work or infer it is merged.
+
+### Senior-first execution tally
+
+All 40 catalog IDs have an entry in `release-status.json` › `senior_first_features` (enforced by `tests/test_senior_status.py`). Current tally: 4 deferred, 9 implemented unverified, 6 not started, 21 partial. Nothing is `verified`: no native device, VoiceOver/TalkBack, upgrade, traffic-capture or human-pilot evidence exists, and every release gate in that file is still pending. R2 items wait on pilot evidence; R3 items are deferred and not authorized.
+
+## Maintainer decisions (2026-10-18)
+
+Recorded at the maintainer's instruction; each is scoped and reversible.
+
+- **Coverage gate loosened.** `min_coverage` is 45 in `.github/workflows/main.yaml` (template default 100, which this codebase could never meet). It is a floor just under the measured level, to be raised as coverage grows and never lowered silently.
+- **Spell-check scope.** The legacy translated store descriptions in `docs/store-description/` are excluded because an English dictionary cannot check them (and their non-English medical claims are not reused); about 28 genuine technical words were added to the dictionary.
+- **Legacy downloader removed** (35 unreachable files and seven unused packages). Stored files from older installs are not touched. Native iOS/Android builds still need to confirm the plugin removal.
+- **Firebase kept, collection stays off.** The Firebase dependencies stay for a possible later engagement measurement, but analytics and crash collection remain disabled (manifest and plist flags, guarded by `tests/test_network_boundary.py`). Switching collection on needs a privacy decision first: policy and App Privacy answers, a consent design suitable for older adults and caregivers, and no streaks or pressure metrics. Until then engagement is measured by consented diaries and interviews per `docs/specs/senior-first/validation.md`.
+- **PR #54 merged** at the maintainer's instruction after its own checks passed.
+- **Not decided by the assistant:** the real support address and the image rights review need the maintainer or a qualified reviewer; nothing was invented or marked reviewed.
 
 ## Deferred
 
 Photo-deck exchange, family/iCloud sync, multiple albums, recordings and payments. Optional local reminders also require a separately approved permission/product decision. Documented future acceptance criteria do not authorize implementation. No infrastructure expansion before observed repeat use. No diagnosis, cognitive scoring or treatment functionality.
 
 Stop publication for destructive imports, offline-start failures, unexpected sensitive-data transmission, misleading medical expectations, unresolved content rights, or screenshots of unimplemented behavior. Weak keyword demand is a distribution signal, not a reason to add unrelated diseases.
+
+## October 18 store publication continuation
+
+Pulled latest main `de84c46`. Corrected ASO offline copy for all eight bundled packs, added a Google Play US-English draft and export validation, and aligned website/help/privacy/terms URLs with the [GitHub Pages website](https://streamentry.github.io/golden-moments-web/). The selected name remains `Dementia Games: Golden Moments` and subtitle `Alzheimer's Photo Activities`.
+
+Strict analysis and all 109 Flutter tests passed on the latest native source; metadata/Python checks pass. Google Play confirms replacement-key activation on October 20, 2026 at 13:38 UTC (20:38 Vietnam time); uploads are blocked until then. The latest runtime source archived successfully. Removed the unused Flutter launch-image placeholders and aligned the launch background with DESIGN.md; the final signed archive and IPA export passed, with the placeholder warning resolved. The prior 2aecea2 IPA is not the current candidate. Remaining native/device/privacy/caregiver/screenshot gates are not marked passed by these checks. Store changes must remain drafts until those gaps and matching screenshots are resolved.
+
+Release evidence for this continuation: all 109 Flutter tests and strict analysis passed; 25 Python tests and both metadata export checks passed. Hosted web visual, design, gentle-activity and metadata checks passed. The unchanged full-coverage gate reports 36.83% against 100%; the English spelling job still flags translated/historical store text. Those failures remain visible. Website PR #3 deployed commit `48ded15ae94080d13c93b797a8c71f2f8fb85f09`; home, help, terms and privacy all returned HTTP 200 with expected updated content.
+
+App Store Connect version 1.3.0 was created and US-English name/subtitle plus description, notes, keywords, support and marketing URLs were saved. The browser session disconnected before privacy-link and Play listing edits were completed. Binary upload has not occurred; use of an existing API credential from a different app's protected backup requires explicit approval. Public review submission remains pending the native/privacy/screenshot gates above.
 
 ## Legal and app-review disclosure work
 

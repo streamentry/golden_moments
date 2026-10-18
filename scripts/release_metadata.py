@@ -7,6 +7,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / 'metadata/app-store.en-US.json'
+GOOGLE_SOURCE = ROOT / 'metadata/google-play.en-US.json'
+GOOGLE_EXPORTS = ('name', 'short_description', 'full_description', 'release_notes')
 STATUS = ROOT / 'docs/specs/release-status.json'
 EXPORTS = {key: key + '.txt' for key in (
     'name', 'subtitle', 'keywords', 'promotional_text', 'description', 'release_notes')}
@@ -68,6 +70,23 @@ def validate(data, status, release=False, root=ROOT):
             result = gates.get(gate, {})
             if result.get('status') != 'passed' or not result.get('evidence'):
                 errors.append(f'release gate not evidenced: {gate}')
+        try:
+            provenance = json.loads((root / 'docs/specs/asset-provenance.json').read_text(encoding='utf-8'))
+        except (OSError, ValueError):
+            provenance = {'groups': []}
+            errors.append('asset provenance register missing or unreadable')
+        groups = provenance.get('groups', [])
+        if not groups:
+            errors.append('asset provenance register has no groups')
+        for group in groups:
+            gid = group.get('id')
+            rights = group.get('rights_status')
+            if rights not in ('reviewed', 'license_text_bundled', 'not_shipped'):
+                errors.append(f'asset rights unreviewed: {gid}')
+            elif rights in ('reviewed', 'license_text_bundled') and group.get('missing'):
+                errors.append(f'asset rights incomplete: {gid}')
+            elif rights == 'not_shipped' and group.get('paths'):
+                errors.append(f'asset marked not shipped but lists files: {gid}')
         for screen in screenshots:
             for platform in ['iphone', 'ipad']:
                 capture = screen.get('files', {}).get(platform)
@@ -89,17 +108,36 @@ def main():
     args = parser.parse_args()
     try:
         data = json.loads(SOURCE.read_text(encoding='utf-8'))
+        google = json.loads(GOOGLE_SOURCE.read_text(encoding='utf-8'))
         status = json.loads(STATUS.read_text(encoding='utf-8'))
     except (OSError, ValueError) as error:
         print(f'ERROR: cannot read metadata/status: {error}')
         return 1
     errors = validate(data, status, release=args.release)
+    for field, limit in {'name': 30, 'short_description': 80,
+                         'full_description': 4000, 'release_notes': 500}.items():
+        value = google.get(field)
+        if not isinstance(value, str) or not value.strip() or len(value) > limit:
+            errors.append(f'Google Play {field}: required text, maximum {limit} characters')
+    for google_field, apple_field in {'name': 'name', 'full_description': 'description',
+                                       'release_notes': 'release_notes'}.items():
+        if google.get(google_field) != data.get(apple_field):
+            errors.append(f'Google Play {google_field}: differs from canonical app copy')
     if not errors:
         out = ROOT / 'metadata/en-US'
         out.mkdir(parents=True, exist_ok=True)
         for key, filename in EXPORTS.items():
             expected = data[key] + '\n'
             path = out / filename
+            if args.write:
+                path.write_text(expected, encoding='utf-8')
+            elif not path.is_file() or path.read_text(encoding='utf-8') != expected:
+                errors.append(f'outdated export: {path.relative_to(ROOT)}; run --write')
+        out = ROOT / 'metadata/google-play/en-US'
+        out.mkdir(parents=True, exist_ok=True)
+        for key in GOOGLE_EXPORTS:
+            expected = google[key] + '\n'
+            path = out / (key + '.txt')
             if args.write:
                 path.write_text(expected, encoding='utf-8')
             elif not path.is_file() or path.read_text(encoding='utf-8') != expected:

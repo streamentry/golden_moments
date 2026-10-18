@@ -7,8 +7,8 @@ Canonical text and feature requirements: `metadata/app-store.en-US.json`. Final 
 | 1 | Simple Dementia Activities | Gentle photo games to enjoy together. | Real gentle activity; four tiles; no clinical framing |
 | 2 | Play With Your Family Photos | Choose photos already on your device. | Real import and game using consented/licensed demo images |
 | 3 | No Timers. No Rush. | Enjoy each gentle game at your own pace. | Gentle mode, not a legacy screen with performance indicators |
-| 4 | Big Tiles. Easy Taps. | A clear layout for simple play. | Readable actual controls |
-| 5 | Choose Your Comfort Level | Adjust the number of tiles. | Actual supported 4/6/8/12 choices |
+| 4 | Big Tiles. Easy Taps. | A clear layout for simple play. | The actual board with its large tiles and the always-visible Done for now / Start again buttons |
+| 5 | Choose Your Comfort Level | Adjust the number of tiles. | The actual Comfort settings sheet (tune icon on Home or in the activity) showing the 4/6/8/12 choices; the board itself no longer shows these controls |
 | 6 | Ready Without Wi-Fi | Starter games and imported photos work offline. | Airplane-mode verification, not remote downloads |
 
 ## Rules

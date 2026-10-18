@@ -3,8 +3,11 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/app/view/main_navigation.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/gentle_activities/data/gentle_preferences.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
+import 'package:golden_moments/features/gentle_activities/presentation/gentle_comfort_sheet.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
+import 'package:golden_moments/features/gentle_activities/presentation/help_privacy_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
 import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
@@ -12,7 +15,13 @@ import 'package:golden_moments/shared/sharing/share_invitation.dart';
 
 /// Local activities remain usable even when the optional pack service is down.
 class GentleHomePage extends StatefulWidget {
-  const new({super.key});
+  const new({
+    this.preferencesStore = const GentlePreferencesStore(),
+    super.key,
+  });
+
+  /// Where comfort choices are saved; replaceable in tests.
+  final GentlePreferencesStore preferencesStore;
 
   @override
   State<GentleHomePage> createState() => _GentleHomePageState();
@@ -21,6 +30,28 @@ class GentleHomePage extends StatefulWidget {
 class _GentleHomePageState extends State<GentleHomePage> {
   void _open(Widget page) {
     Navigator.of(context).push(MaterialPageRoute<void>(builder: (_) => page));
+  }
+
+  /// A helper (or the person) can set tile count and picture view before
+  /// anyone plays: the same choices as in the activity, saved the same way.
+  Future<void> _showComfort() async {
+    final store = widget.preferencesStore;
+    final initial = await store.load();
+    if (!mounted) return;
+    await showModalBottomSheet<void>(
+      context: context,
+      isScrollControlled: true,
+      builder: (context) => GentleComfortSheet(
+        initial: initial,
+        maxPairs: ActivityPicture.samples.length,
+        closeLabel: 'Done',
+        onChanged: (next) async => (prefs: next, saved: await store.save(next)),
+        onReset: () async {
+          await store.reset();
+          return const GentlePreferences();
+        },
+      ),
+    );
   }
 
   void _showGuide() {
@@ -66,9 +97,17 @@ class _GentleHomePageState extends State<GentleHomePage> {
                   'internet.',
                 ),
                 const SizedBox(height: gmSpaceLg),
+                OutlinedButton(
+                  onPressed: () {
+                    Navigator.pop(context);
+                    _open(const HelpPrivacyPage());
+                  },
+                  child: const Text('More help and privacy'),
+                ),
+                const SizedBox(height: gmSpaceSm),
                 OutlinedButton.icon(
                   onPressed: () {
-                    Navigator.of(context).pop();
+                    Navigator.pop(context);
                     _open(const LegalInfoPage());
                   },
                   icon: const Icon(Icons.privacy_tip_outlined),
@@ -95,6 +134,11 @@ class _GentleHomePageState extends State<GentleHomePage> {
       appBar: AppBar(
         title: const Text('Golden Moments'),
         actions: [
+          IconButton(
+            onPressed: _showComfort,
+            icon: const Icon(Icons.tune),
+            tooltip: 'Comfort settings',
+          ),
           IconButton(
             onPressed: _showGuide,
             icon: const Icon(Icons.info_outline),

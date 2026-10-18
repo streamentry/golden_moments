@@ -25,6 +25,12 @@ jobs:
     with:
       flutter_channel: stable
       flutter_version_file: .fvmrc
+      # Loosened from the template's 100% by the maintainer's decision. The
+      # old gate could never pass for this codebase (legacy library code was
+      # untested). This is a floor just under the measured level, so it still
+      # catches regressions; raise it as coverage grows, never lower it
+      # silently.
+      min_coverage: 45
 
   spell-check:
     uses: VeryGoodOpenSource/very_good_workflows/.github/workflows/spell_check.yml@v1

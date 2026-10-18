@@ -1,0 +1,339 @@
+import 'dart:io';
+import 'dart:typed_data';
+
+import 'package:flutter/material.dart';
+import 'package:flutter_test/flutter_test.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/gentle_activities/data/family_photo_store.dart';
+import 'package:golden_moments/features/gentle_activities/data/photo_annotations.dart';
+import 'package:golden_moments/features/gentle_activities/data/photo_importer.dart';
+import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
+import 'package:image_picker/image_picker.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+
+/// Replaces only the system picker and image decoder; storage, annotations
+/// and every screen are the real ones working on a real temporary directory.
+class _FakeImporter extends PhotoImporter {
+  new(this.batches);
+  final List<List<int>> batches;
+  Exception? failWith;
+
+  @override
+  Future<List<XFile>> choose(int remaining) async {
+    if (failWith != null) throw failWith!;
+    return [
+      for (final value in batches.removeAt(0))
+        XFile.fromData(Uint8List.fromList([value])),
+    ];
+  }
+
+  @override
+  Future<Uint8List> normalize(XFile file) async => Uint8List.fromList([
+    137, 80, 78, 71, 13, 10, 26, 10, // PNG signature, as the store requires
+    ...await file.readAsBytes(),
+  ]);
+
+  @override
+  Future<List<XFile>> recover() async => [];
+}
+
+Widget _app(Directory directory, PhotoImporter importer) => MaterialApp(
+  theme: gmBuildTheme(),
+  home: PhotoCollectionPage(
+    directoryProvider: () async => directory,
+    importer: importer,
+  ),
+);
+
+/// Real file I/O needs real time and each awaited step resumes on a pump, so
+/// alternate short real waits with frames. The page shows a progress bar
+/// while it is working, so wait until that has been gone for a while rather
+/// than for a fixed time (which is flaky under load).
+Future<void> _settle(WidgetTester tester) async {
+  var quiet = 0;
+  for (var i = 0; i < 1500 && quiet < 40; i++) {
+    await tester.runAsync(
+      () => Future<void>.delayed(const Duration(milliseconds: 8)),
+    );
+    await tester.pump(const Duration(milliseconds: 50));
+    quiet = find.byType(LinearProgressIndicator).evaluate().isEmpty
+        ? quiet + 1
+        : 0;
+  }
+}
+
+Future<void> _tapText(WidgetTester tester, String text) async {
+  final finder = find.text(text).hitTestable();
+  await tester.ensureVisible(finder.first);
+  await tester.tap(finder.first);
+  await _settle(tester);
+}
+
+Future<void> _openOptions(WidgetTester tester, int index) async {
+  final button = find.textContaining('Photo options').at(index);
+  await tester.ensureVisible(button);
+  await tester.tap(button);
+  await _settle(tester);
+}
+
+Future<void> _toggle(WidgetTester tester, String title) async {
+  final tile = find.widgetWithText(SwitchListTile, title);
+  await tester.ensureVisible(tile);
+  await tester.tap(tile);
+  await tester.pump();
+}
+
+void main() {
+  late Directory directory;
+
+  setUp(() async {
+    SharedPreferences.setMockInitialValues({});
+    directory = await Directory.systemTemp.createTemp('golden-journey-');
+  });
+  tearDown(() async {
+    await directory.delete(recursive: true);
+  });
+
+  testWidgets('choose, personalize, play, hide, restart and delete', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(480, 1400));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    final importer = _FakeImporter([
+      [1, 2, 3],
+    ]);
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+
+    // Nothing is needed first: an empty collection explains itself.
+    expect(find.textContaining('Add at least two photos'), findsOneWidget);
+    expect(find.text('Play with these photos'), findsNothing);
+
+    // Choose three photos through the picker; originals are never touched.
+    await _tapText(tester, 'Choose photos');
+    expect(find.textContaining('Photo options'), findsNWidgets(3));
+    expect(find.text('3 of 24 photos'), findsOneWidget);
+    expect(find.text('Play with these photos'), findsOneWidget);
+
+    // Personalize the first photo: caption, description, favorite.
+    await _openOptions(tester, 0);
+    await tester.enterText(
+      find.widgetWithText(TextField, 'Caption (optional)'),
+      '  Lake   day ',
+    );
+    await tester.enterText(
+      find.widgetWithText(
+        TextField,
+        'Description for screen readers (optional)',
+      ),
+      'Two people on a wooden dock.',
+    );
+    await _toggle(tester, 'Favorite');
+    await _tapText(tester, 'Save');
+    expect(find.text('Favorite'), findsOneWidget);
+    expect(
+      find.bySemanticsLabel(RegExp('Lake day. Two people on a wooden dock.')),
+      findsOneWidget,
+    );
+
+    // Hiding is reversible and visible; the copy stays.
+    await _openOptions(tester, 1);
+    await _toggle(tester, 'Hide from activities');
+    await _tapText(tester, 'Save');
+    expect(find.text('Hidden'), findsOneWidget);
+    expect(find.text('Play with these photos'), findsOneWidget);
+    await _openOptions(tester, 2);
+    await _toggle(tester, 'Hide from activities');
+    await _tapText(tester, 'Save');
+    // Only one photo is left to play with: no silent un-hiding.
+    expect(find.text('Play with these photos'), findsNothing);
+    expect(find.textContaining('Show at least two photos'), findsOneWidget);
+    expect(find.text('3 of 24 photos'), findsOneWidget);
+    await _openOptions(tester, 2);
+    await _toggle(tester, 'Hide from activities');
+    await _tapText(tester, 'Save');
+    expect(find.text('Hidden'), findsOneWidget);
+
+    // A restart keeps photos, captions, favorites and hidden state.
+    await tester.pumpWidget(const SizedBox());
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    expect(find.text('3 of 24 photos'), findsOneWidget);
+    expect(find.text('Favorite'), findsOneWidget);
+    expect(find.text('Hidden'), findsOneWidget);
+
+    // Remove is separate from Hide and cleans up what was written about it.
+    final before = await tester.runAsync(
+      () => FamilyPhotoStore(directory).load(),
+    );
+    expect(before!.length, 3);
+    await _openOptions(tester, 0);
+    await _tapText(tester, 'Remove this copy');
+    expect(find.text('Remove this photo copy?'), findsOneWidget);
+    await _tapText(tester, 'Continue');
+    expect(find.text('2 of 24 photos'), findsOneWidget);
+    final after = await tester.runAsync(
+      () => FamilyPhotoStore(directory).load(),
+    );
+    expect(after!.length, 2);
+    final notes = await tester.runAsync(
+      () => PhotoAnnotationStore(directory).load(),
+    );
+    expect(notes!.keys.every(after.contains), isTrue);
+  });
+
+  testWidgets('a hidden photo never reaches the game', (tester) async {
+    await tester.binding.setSurfaceSize(const Size(480, 1400));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    final importer = _FakeImporter([
+      [1, 2, 3],
+    ]);
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    await _tapText(tester, 'Choose photos');
+    await _openOptions(tester, 1);
+    await _toggle(tester, 'Hide from activities');
+    await _tapText(tester, 'Save');
+
+    await _tapText(tester, 'Play with these photos');
+    expect(find.text('Gentle photo match'), findsOneWidget);
+    final labels = [
+      for (final node
+          in find.bySemanticsLabel(RegExp(r', tile \d+$')).evaluate())
+        (node.widget as Semantics).properties.label!.split(',').first,
+    ];
+    expect(labels.length, 4);
+    expect(labels.toSet(), {'Family photo 1', 'Family photo 3'});
+    expect(find.text('Done for now'), findsOneWidget);
+  });
+
+  testWidgets('photo cards grow with 200% text instead of shrinking it', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(320, 3200));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    final importer = _FakeImporter([
+      [1, 2],
+    ]);
+    Widget big() => MaterialApp(
+      theme: gmBuildTheme(),
+      builder: (context, child) => MediaQuery(
+        data: MediaQuery.of(context)
+            .copyWith(textScaler: const TextScaler.linear(2)),
+        child: child!,
+      ),
+      home: PhotoCollectionPage(
+        directoryProvider: () async => directory,
+        importer: importer,
+      ),
+    );
+    await tester.pumpWidget(big());
+    await _settle(tester);
+    final choose = find.text('Choose photos');
+    await tester.tap(choose);
+    await _settle(tester);
+
+    final options = find.textContaining('Photo options');
+    expect(options, findsNWidgets(2));
+    // Real size, never scaled down: no FittedBox around the label, and the
+    // button keeps the 48 point floor.
+    expect(
+      find.ancestor(of: options.first, matching: find.byType(FittedBox)),
+      findsNothing,
+    );
+    final button = find.ancestor(
+      of: options.first,
+      matching: find.byType(TextButton),
+    );
+    expect(tester.getSize(button.first).height, greaterThanOrEqualTo(48));
+    expect(tester.takeException(), isNull);
+  });
+
+  testWidgets('Play with favorites needs two and uses only favorites', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(480, 2000));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    final importer = _FakeImporter([
+      [1, 2, 3],
+    ]);
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    await _tapText(tester, 'Choose photos');
+    expect(find.text('Play with favorites'), findsNothing);
+    // Experiments are off in normal builds.
+    expect(find.textContaining('picture puzzle'), findsNothing);
+
+    await _openOptions(tester, 0);
+    await _toggle(tester, 'Favorite');
+    await _tapText(tester, 'Save');
+    // One favorite is not enough for a game of its own.
+    expect(find.text('Play with favorites'), findsNothing);
+
+    await _openOptions(tester, 1);
+    await _toggle(tester, 'Favorite');
+    await _tapText(tester, 'Save');
+    expect(find.text('Play with favorites'), findsOneWidget);
+    // Still exactly one filled button on this screen.
+    expect(find.byType(FilledButton), findsNWidgets(1));
+
+    await _tapText(tester, 'Play with favorites');
+    expect(find.text('Gentle photo match'), findsOneWidget);
+    final labels = [
+      for (final node
+          in find.bySemanticsLabel(RegExp(r', tile \d+$')).evaluate())
+        (node.widget as Semantics).properties.label!.split(',').first,
+    ];
+    expect(labels.length, 4);
+    // Favorites sort first, so the non-favorite is "Family photo 3".
+    expect(labels.toSet(), {'Family photo 1', 'Family photo 2'});
+    expect(
+      find.textContaining(RegExp('score|streak|move', caseSensitive: false)),
+      findsNothing,
+    );
+  });
+
+  testWidgets('a failed import leaves the collection and says what to do', (
+    tester,
+  ) async {
+    final importer = _FakeImporter([
+      [1, 2],
+    ]);
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    await _tapText(tester, 'Choose photos');
+    expect(find.text('2 of 24 photos'), findsOneWidget);
+
+    importer.failWith = const FileSystemException('No space left on device');
+    await _tapText(tester, 'Choose photos');
+    expect(find.textContaining('check free space'), findsOneWidget);
+    expect(
+      find.textContaining('existing collection is unchanged'),
+      findsOneWidget,
+    );
+    expect(find.text('2 of 24 photos'), findsOneWidget);
+    expect(tester.takeException(), isNull);
+    final ids = await tester.runAsync(() => FamilyPhotoStore(directory).load());
+    expect(ids!.length, 2);
+  });
+
+  testWidgets('a damaged annotations file never hides the photos', (
+    tester,
+  ) async {
+    final importer = _FakeImporter([
+      [1, 2],
+    ]);
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    await _tapText(tester, 'Choose photos');
+    await tester.runAsync(
+      () => File('${directory.path}/annotations.json').writeAsString('{oops'),
+    );
+    await tester.pumpWidget(const SizedBox());
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    expect(find.text('2 of 24 photos'), findsOneWidget);
+    expect(find.text('Play with these photos'), findsOneWidget);
+    expect(tester.takeException(), isNull);
+  });
+}
