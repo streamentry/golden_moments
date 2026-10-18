@@ -1,45 +1,68 @@
-import 'dart:math';
+import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:golden_moments/data/models/category.dart';
-import 'package:golden_moments/data/models/pack.dart';
+import 'package:golden_moments/data/models/packs_index.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
 import 'package:golden_moments/features/home/cubit/home_state.dart';
+import 'package:golden_moments/features/home/data/pack_preferences.dart';
+import 'package:golden_moments/features/home/data/pack_selection.dart';
 
-/// Cubit for managing home screen state and logic
+/// Loads the included catalog.
+typedef CatalogLoader = Future<PacksIndex> Function();
+
+/// Cubit for the included-pack library: the catalog plus the person's
+/// favorites and "Not for me" choices (see `pack_selection.dart` for how they
+/// combine). Nothing here launches a pack or changes on a timer.
 class HomeCubit extends Cubit<HomeState> {
-  new() : super(const HomeState());
+  new({
+    PackPreferencesStore preferencesStore = const PackPreferencesStore(),
+    CatalogLoader? loadCatalog,
+  }) : _store = preferencesStore,
+       _loadCatalog = loadCatalog ?? LocalPackService().getPacksIndex,
+       super(const HomeState());
 
-  /// Initialize the home screen with data
+  final PackPreferencesStore _store;
+  final CatalogLoader _loadCatalog;
+
+  /// Saves run one after another so an older choice never lands last.
+  Future<void> _saving = Future.value();
+
+  /// How long the catalog waits for saved choices before it opens without
+  /// them. Storage trouble must never keep the included packs from opening.
+  static const Duration preferencesGrace = Duration(seconds: 1);
+
+  /// Initialize the home screen with data.
+  ///
+  /// Saved choices load alongside the catalog. If they are slow, the catalog
+  /// opens first with Favorite and Not for me turned off until they arrive,
+  /// so a late load can never overwrite them.
   Future<void> initialize() async {
     emit(state.copyWith(status: HomeStatus.loading));
+    // Choices already loaded stay authoritative: every change goes through
+    // this cubit.
+    final pending = state.preferencesReady ? null : _store.load();
 
     try {
-      // Load packs
-      final packs = await _loadPacks();
-      // Random seed
-      final today = DateTime.now();
-      final seed =
-          today.year * 10000 +
-          today.month * 100 +
-          today.day; // Unique seed for the day
-      final random = Random(seed);
-      packs.shuffle(random);
-
-      // Get daily packs
-      final dailyPacks = packs.take(4).toList();
-
-      // Load library packs
-      final libraryCategories = await _loadCategory();
-
+      final index = await _loadCatalog();
+      final early = pending == null ? null : await _within(pending);
+      if (isClosed) return;
       emit(
         state.copyWith(
           status: HomeStatus.loaded,
-          dailyPacks: dailyPacks,
-          libraryPacks: libraryCategories,
+          packs: List.unmodifiable(index.packs),
+          libraryPacks: List.unmodifiable(index.categories),
+          packPreferences: early,
+          preferencesReady: pending == null || early != null,
         ),
       );
+      if (pending != null && early == null) {
+        final late = await pending;
+        if (!isClosed) {
+          emit(state.copyWith(packPreferences: late, preferencesReady: true));
+        }
+      }
     } on Object catch (error) {
+      if (isClosed) return;
       emit(
         state.copyWith(
           status: HomeStatus.error,
@@ -49,73 +72,60 @@ class HomeCubit extends Cubit<HomeState> {
     }
   }
 
-  /// Mark a pack as completed
-  void markPackCompleted(String packId) {
-    // Update daily packs
-    final updatedDailyPacks = state.dailyPacks.map((pack) {
-      if (pack.id == packId) {
-        // return pack.copyWith(isCompleted: true);
-      }
-      return pack;
-    }).toList();
+  Future<PackPreferences?> _within(Future<PackPreferences> pending) async {
+    try {
+      return await pending.timeout(preferencesGrace);
+    } on TimeoutException {
+      return null;
+    }
+  }
 
-    // Update library packs
-    final updatedLibraryPacks = state.libraryPacks.map((pack) {
-      if (pack.id == packId) {
-        // return pack.copyWith(isCompleted: true);
-      }
-      return pack;
-    }).toList();
+  /// Marks or unmarks [packId] as a favorite.
+  Future<void> setFavorite(String packId, {required bool favorite}) => _change(
+    packId,
+    (prefs) => prefs.withFavorite(packId, favorite: favorite),
+  );
 
+  /// "Not for me": hides [packId] everywhere except the hidden list. Nothing
+  /// is deleted, and it stays hidden until the person shows it again.
+  Future<void> hidePack(String packId) =>
+      _change(packId, (prefs) => prefs.withHidden(packId, hide: true));
+
+  /// Shows a hidden pack again.
+  Future<void> showPack(String packId) =>
+      _change(packId, (prefs) => prefs.withHidden(packId, hide: false));
+
+  /// Moves to the next few suggestions, only when the person asks.
+  void showOtherSuggestions() {
+    if (!state.hasOtherSuggestions) return;
     emit(
       state.copyWith(
-        dailyPacks: updatedDailyPacks,
-        libraryPacks: updatedLibraryPacks,
+        suggestionOffset: state.suggestionOffset + suggestionCount,
       ),
     );
   }
 
-  /// Refresh daily packs
-  // Future<void> refreshDailyPacks() async {
-  //   try {
-  //     final dailyPacks = await _loadDailyPacks();
-  //     emit(state.copyWith(dailyPacks: dailyPacks));
-  //   } on Object catch (error) {
-  //     emit(
-  //       state.copyWith(
-  //         status: HomeStatus.error,
-  //         errorMessage: 'Failed to refresh daily packs: ${error.toString()}',
-  //       ),
-  //     );
-  //   }
-  // }
-
-  // Mock data loading methods (in real app, these would call repositories)
-
-  // Future<List<Pack>> _loadDailyPacks() async {
-  //   try {
-  //     // Load featured packs from the JSON file for daily packs
-  //     final featuredPacks = await
-  // LocalPackService.instance.getFeaturedPacks();
-
-  //     // Convert to Category objects and take first 3 for daily rotation
-  //     final dailyPacks = featuredPacks
-  //         .take(3)
-  //         .map((pack) => LocalPackService.instance.convertToGamePack(pack))
-  //         .toList();
-
-  //     return dailyPacks;
-  //   } on Object catch (e) {
-  //     // Fallback to empty list if loading fails
-  //     return [];
-  //   }
-  // }
-
-  Future<List<Pack>> _loadPacks() async {
-    return await LocalPackService().getPacks();
+  Future<void> _change(
+    String packId,
+    PackPreferences Function(PackPreferences) change,
+  ) async {
+    // Ignore ids that are not in the included catalog, and any change before
+    // the saved choices are known.
+    if (state.status != HomeStatus.loaded ||
+        !state.preferencesReady ||
+        !state.packs.any((pack) => pack.id == packId)) {
+      return;
+    }
+    final next = change(state.packPreferences);
+    if (next == state.packPreferences) return;
+    emit(state.copyWith(packPreferences: next));
+    final saved = await _enqueueSave(next);
+    if (!isClosed) emit(state.copyWith(preferencesSaveFailed: !saved));
   }
 
-  Future<List<Category>> _loadCategory() async {
-    return await LocalPackService().getCategories();
+  Future<bool> _enqueueSave(PackPreferences value) {
+    final result = _saving.then((_) => _store.save(value));
+    _saving = result.then<void>((_) {}, onError: (Object _) {});
+    return result.catchError((Object _) => false);
   }
 }

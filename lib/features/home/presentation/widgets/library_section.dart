@@ -14,12 +14,17 @@ class LibrarySection extends StatefulWidget {
     required this.categories,
     required this.onCategoryTap,
     this.interestStore = const InterestStore(),
+    this.eligiblePackCounts,
     super.key,
   });
 
   final List<Category> categories;
   final void Function(Category category) onCategoryTap;
   final InterestStore interestStore;
+
+  /// Packs per category that are not hidden. A topic with none is left out of
+  /// the list. Null means nothing is hidden.
+  final Map<String, int>? eligiblePackCounts;
 
   @override
   State<LibrarySection> createState() => _LibrarySectionState();
@@ -77,6 +82,14 @@ class _LibrarySectionState extends State<LibrarySection> {
     final categories = widget.categories;
     final shown = categoriesForInterests(categories, _chosen);
     final filtered = _chosen.isNotEmpty && shown.length != categories.length;
+    final counts = widget.eligiblePackCounts;
+    final browsable = [
+      for (final category in shown)
+        if (counts == null || (counts[category.id] ?? 0) > 0) category,
+    ];
+    // Chosen topics whose packs are all hidden: explain and offer every
+    // topic. The hidden packs stay hidden (GM-024).
+    final nothingForChoice = filtered && browsable.isEmpty;
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -111,8 +124,10 @@ class _LibrarySectionState extends State<LibrarySection> {
                 unawaited(SoundService().playTap());
                 Navigator.of(parentContext).push(
                   MaterialPageRoute<void>(
-                    builder: (context) =>
-                        CategoryPage(categories: widget.categories),
+                    builder: (context) => CategoryPage(
+                      categories: widget.categories,
+                      onCategoryTap: widget.onCategoryTap,
+                    ),
                   ),
                 );
               },
@@ -151,7 +166,7 @@ class _LibrarySectionState extends State<LibrarySection> {
                 ),
             ],
           ),
-          if (_chosen.isNotEmpty)
+          if (_chosen.isNotEmpty && !nothingForChoice)
             TextButton(onPressed: _clear, child: const Text('Show all topics')),
           if (_saveFailed)
             Text(
@@ -165,9 +180,13 @@ class _LibrarySectionState extends State<LibrarySection> {
         // Library packs
         if (categories.isEmpty)
           _EmptyState()
+        else if (nothingForChoice)
+          _NoEligiblePacks(onShowAllTopics: _clear)
+        else if (browsable.isEmpty)
+          const _NoEligiblePacks()
         else
           _PacksList(
-            categories: shown,
+            categories: browsable,
             showAll: filtered,
             onPackTap: widget.onCategoryTap,
           ),
@@ -209,6 +228,70 @@ class _PacksList extends StatelessWidget {
           ),
         );
       }).toList(),
+    );
+  }
+}
+
+/// Shown when every pack in the chosen topics, or in the whole library, is
+/// marked "Not for me". Never unhides anything by itself.
+class _NoEligiblePacks extends StatelessWidget {
+  const new({this.onShowAllTopics});
+
+  /// Null when no topic is chosen, so there is nothing broader to show.
+  final VoidCallback? onShowAllTopics;
+
+  @override
+  Widget build(BuildContext parentContext) {
+    final theme = Theme.of(parentContext);
+    final onShowAll = onShowAllTopics;
+    return Container(
+      width: double.infinity,
+      padding: const EdgeInsets.all(gmSpaceMd),
+      decoration: BoxDecoration(
+        color: theme.colorScheme.surface,
+        borderRadius: BorderRadius.circular(gmRadiusLg),
+        border: Border.all(color: theme.colorScheme.outline),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              Icon(
+                Icons.visibility_off_outlined,
+                color: theme.colorScheme.onSurfaceVariant,
+              ),
+              const SizedBox(width: gmSpaceSm),
+              Expanded(
+                child: Text(
+                  onShowAll == null
+                      ? 'All packs are hidden'
+                      : 'Nothing to show for these topics',
+                  style: theme.textTheme.titleMedium,
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: gmSpaceSm),
+          Text(
+            onShowAll == null
+                ? 'You marked every pack Not for me. Show one again under '
+                      'Hidden packs.'
+                : 'Every pack in the topics you chose is marked Not for me. '
+                      'They stay hidden until you show them again under '
+                      'Hidden packs.',
+            style: theme.textTheme.bodyLarge,
+          ),
+          if (onShowAll != null) ...[
+            const SizedBox(height: gmSpaceSm),
+            OutlinedButton.icon(
+              onPressed: onShowAll,
+              icon: const Icon(Icons.apps),
+              label: const Text('Show all topics'),
+            ),
+          ],
+        ],
+      ),
     );
   }
 }
