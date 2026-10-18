@@ -77,6 +77,8 @@ Pinned Flutter 3.47.7 / Dart 3.13.5 installed locally; Xcode 27.1 with the iOS 2
 | #65 | Favorites and Not for me for included packs, Suggested packs, empty-topic explanation (GM-020/024/026) | 270 tests; 11 browser smoke checks incl. hide, reload, show again |
 | #66 | Photo storage hardening: staged writes, no link following, no loss on stat errors, adoption, upgrade fixtures (GM-018/027/030) | 244 tests; two data-loss reviews, final verdict approve |
 
+Simulator journeys on the integrated build (iOS 26.5, iPhone 17 Pro Max, debug, fresh install): launch → one-tap start → choose a tile → Done for now → reopen → Carry on restored the board; Your family photos → system picker (no permission prompt) → three photos copied as metadata-free 1024-pixel PNGs → caption and favorite saved → Look together showed the caption on request → game used the photos without cropping → Remove copy deleted one copy and its details only. Two defects found this way were fixed in #62 (clamped helper text, a destructive button labelled 'Continue'). Simulator runs are not device, VoiceOver or user evidence.
+
 Findings for the maintainer, not decided here:
 - **Sound default:** installs that never touched the library sound switches now start quiet (stored choices are kept). Mention in release notes.
 - **App-level privacy manifest:** the iOS build carries plugin manifests but no app `PrivacyInfo.xcprivacy`; decide against Apple's current rules before submission.
