@@ -1,136 +1,279 @@
+import 'dart:async';
+import 'dart:math' as math;
+
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
 
 /// Looking and talking are optional: this is not a recall or recognition test.
+///
+/// Nothing moves on its own: there is no slideshow, sound or timed
+/// transition. Previous, Next and Done for now stay in a fixed bar so they
+/// remain reachable at large text sizes (GM-002, GM-008).
 class PhotoTogetherPage extends StatefulWidget {
-  const new({required this.pictures, super.key});
+  const new({required this.pictures, this.onHide, super.key});
   final List<ActivityPicture> pictures;
+
+  /// Saves hiding a family photo so later activities skip it too. Returns
+  /// whether it was saved. Without it, hiding lasts for this visit only.
+  final Future<bool> Function(ActivityPicture picture)? onHide;
 
   @override
   State<PhotoTogetherPage> createState() => _PhotoTogetherPageState();
 }
 
 class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
+  late List<ActivityPicture> _pictures = widget.pictures;
   int _index = 0;
   bool _showPrompt = false;
   bool _showCaption = false;
+  bool _hiding = false;
+  bool _usingIncluded = false;
+  String? _status;
   static const _prompts = [
     'What do you like about this picture?',
     'What catches your eye?',
     'Would you like to talk about this, or look at another picture?',
   ];
 
+  void _move(int step) => setState(() {
+    _index = (_index + step).clamp(0, _pictures.length - 1);
+    _status = null;
+  });
+
+  Future<void> _hide() async {
+    if (_hiding || _pictures.isEmpty) return;
+    final picture = _pictures[_index];
+    final save = _usingIncluded ? null : widget.onHide;
+    setState(() => _hiding = true);
+    var saved = true;
+    if (save != null) {
+      try {
+        saved = await save(picture);
+      } on Object {
+        saved = false;
+      }
+    }
+    if (!mounted) return;
+    setState(() {
+      _hiding = false;
+      if (!saved) {
+        _status =
+            'Could not hide this picture. Nothing has changed. You can '
+            'move to another picture or stop here.';
+        return;
+      }
+      _pictures = [
+        for (final p in _pictures)
+          if (p.id != picture.id) p,
+      ];
+      _index = math.min(_index, math.max(0, _pictures.length - 1));
+      _status = save == null
+          ? 'This picture is hidden for now.'
+          : 'This picture is hidden. You can show it again from Your '
+                'family photos.';
+    });
+  }
+
+  void _useIncluded() => setState(() {
+    _pictures = ActivityPicture.samples;
+    _usingIncluded = true;
+    _index = 0;
+    _status = null;
+  });
+
   @override
   Widget build(BuildContext context) {
-    final textTheme = Theme.of(context).textTheme;
-    if (widget.pictures.isEmpty) {
-      return Scaffold(
-        appBar: AppBar(title: const Text('Look together')),
-        body: const Center(child: Text('Add a photo first.')),
-      );
-    }
+    final scale = MediaQuery.textScalerOf(context).scale(16) / 16;
     return Scaffold(
       appBar: AppBar(title: const Text('Look together')),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(
             constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
-            child: ListView(
-              padding: const EdgeInsets.all(gmSpaceLg),
+            child: _pictures.isEmpty ? _empty(context) : _viewer(context),
+          ),
+        ),
+      ),
+      bottomNavigationBar: _controls(stacked: scale > 1.3),
+    );
+  }
+
+  Widget _empty(BuildContext context) {
+    final textTheme = Theme.of(context).textTheme;
+    return ListView(
+      padding: const EdgeInsets.all(gmSpaceLg),
+      children: [
+        Text(
+          'There are no pictures to look at here right now.',
+          style: textTheme.headlineSmall,
+        ),
+        if (_status != null) ...[
+          const SizedBox(height: gmSpaceMd),
+          Text(_status!, style: textTheme.bodyLarge),
+        ],
+        const SizedBox(height: gmSpaceMd),
+        Text(
+          'You can look at the pictures included with the app, or stop '
+          'here.',
+          style: textTheme.bodyLarge,
+        ),
+        const SizedBox(height: gmSpaceLg),
+        FilledButton.icon(
+          onPressed: _useIncluded,
+          icon: const Icon(Icons.collections_outlined),
+          label: const Text('Look at the included pictures'),
+        ),
+      ],
+    );
+  }
+
+  Widget _viewer(BuildContext context) {
+    final theme = Theme.of(context);
+    final textTheme = theme.textTheme;
+    final picture = _pictures[_index];
+    // A stable, comfortably bounded picture: never wider than the content
+    // column, never so tall that the controls are pushed far away.
+    final side = math.min(
+      MediaQuery.sizeOf(context).width - 2 * gmSpaceLg,
+      math.max<double>(MediaQuery.sizeOf(context).height * 0.5, 200),
+    );
+    return ListView(
+      padding: const EdgeInsets.all(gmSpaceLg),
+      children: [
+        Center(
+          child: Semantics(
+            image: true,
+            label: [
+              picture.label,
+              if (picture.description.isNotEmpty) picture.description,
+            ].join('. '),
+            child: SizedBox.square(
+              dimension: math.min(side, gmContentMaxWidth),
+              child: DecoratedBox(
+                decoration: ShapeDecoration(
+                  color: theme.colorScheme.surface,
+                  shape: gmTileShape(theme.colorScheme),
+                ),
+                child: Padding(
+                  padding: const EdgeInsets.all(gmSpaceSm),
+                  child: PictureView(picture: picture),
+                ),
+              ),
+            ),
+          ),
+        ),
+        if (_showCaption && picture.caption.isNotEmpty) ...[
+          const SizedBox(height: gmSpaceMd),
+          Text(
+            picture.caption,
+            textAlign: TextAlign.center,
+            style: textTheme.headlineSmall,
+          ),
+        ],
+        const SizedBox(height: gmSpaceMd),
+        Text(
+          'Picture ${_index + 1} of ${_pictures.length}',
+          textAlign: TextAlign.center,
+          style: textTheme.bodyLarge,
+        ),
+        if (_showPrompt) ...[
+          const SizedBox(height: gmSpaceMd),
+          Text(
+            _prompts[_index % _prompts.length],
+            textAlign: TextAlign.center,
+            style: textTheme.headlineSmall,
+          ),
+        ],
+        if (_status != null) ...[
+          const SizedBox(height: gmSpaceMd),
+          Text(_status!, style: textTheme.bodyLarge),
+        ],
+        const SizedBox(height: gmSpaceMd),
+        if (_pictures.any((p) => p.caption.isNotEmpty))
+          SwitchListTile(
+            contentPadding: EdgeInsets.zero,
+            title: const Text('Show captions'),
+            value: _showCaption,
+            onChanged: (value) => setState(() => _showCaption = value),
+          ),
+        SwitchListTile(
+          contentPadding: EdgeInsets.zero,
+          title: const Text('Show a conversation prompt'),
+          value: _showPrompt,
+          onChanged: (value) => setState(() => _showPrompt = value),
+        ),
+        const SizedBox(height: gmSpaceSm),
+        Align(
+          alignment: AlignmentDirectional.centerStart,
+          child: TextButton.icon(
+            onPressed: _hiding ? null : () => unawaited(_hide()),
+            icon: const Icon(Icons.visibility_off_outlined),
+            label: const Text('Hide this picture'),
+          ),
+        ),
+        const SizedBox(height: gmSpaceSm),
+        Text(
+          'Just looking is enough. There is no need to remember a name '
+          'or answer a question.',
+          style: textTheme.bodyMedium?.copyWith(
+            color: theme.colorScheme.onSurfaceVariant,
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _controls({required bool stacked}) {
+    final done = TextButton(
+      onPressed: () => Navigator.of(context).pop(),
+      child: const Text('Done for now'),
+    );
+    final hasPictures = _pictures.isNotEmpty;
+    final previous = OutlinedButton.icon(
+      onPressed: _index == 0 ? null : () => _move(-1),
+      icon: const Icon(Icons.arrow_back),
+      label: const Text('Previous'),
+    );
+    final next = FilledButton.icon(
+      onPressed: _index >= _pictures.length - 1 ? null : () => _move(1),
+      icon: const Icon(Icons.arrow_forward),
+      label: const Text('Next'),
+    );
+    return SafeArea(
+      child: Center(
+        heightFactor: 1,
+        child: ConstrainedBox(
+          constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
+          child: Padding(
+            padding: const EdgeInsets.fromLTRB(
+              gmSpaceLg,
+              gmSpaceSm,
+              gmSpaceLg,
+              gmSpaceMd,
+            ),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
-                Semantics(
-                  label: [
-                    widget.pictures[_index].label,
-                    if (widget.pictures[_index].description.isNotEmpty)
-                      widget.pictures[_index].description,
-                  ].join('. '),
-                  child: AspectRatio(
-                    aspectRatio: 1,
-                    child: DecoratedBox(
-                      decoration: ShapeDecoration(
-                        color: Theme.of(context).colorScheme.surface,
-                        shape: gmTileShape(Theme.of(context).colorScheme),
-                      ),
-                      child: Padding(
-                        padding: const EdgeInsets.all(gmSpaceSm),
-                        child: PictureView(picture: widget.pictures[_index]),
-                      ),
-                    ),
-                  ),
-                ),
-                if (_showCaption &&
-                    widget.pictures[_index].caption.isNotEmpty) ...[
-                  const SizedBox(height: gmSpaceMd),
-                  Text(
-                    widget.pictures[_index].caption,
-                    textAlign: TextAlign.center,
-                    style: textTheme.headlineSmall,
-                  ),
+                if (hasPictures && stacked) ...[
+                  next,
+                  const SizedBox(height: gmSpaceSm),
+                  previous,
+                  const SizedBox(height: gmSpaceSm),
                 ],
-                const SizedBox(height: gmSpaceMd),
-                Text(
-                  'Picture ${_index + 1} of ${widget.pictures.length}',
-                  textAlign: TextAlign.center,
-                  style: textTheme.bodyLarge,
-                ),
-                const SizedBox(height: gmSpaceMd),
-                Wrap(
-                  alignment: WrapAlignment.center,
-                  spacing: gmSpaceMd,
-                  runSpacing: gmSpaceSm,
-                  children: [
-                    OutlinedButton.icon(
-                      onPressed: _index == 0
-                          ? null
-                          : () => setState(() => _index--),
-                      icon: const Icon(Icons.arrow_back),
-                      label: const Text('Previous'),
-                    ),
-                    FilledButton.icon(
-                      onPressed: _index == widget.pictures.length - 1
-                          ? null
-                          : () => setState(() => _index++),
-                      icon: const Icon(Icons.arrow_forward),
-                      label: const Text('Next'),
-                    ),
-                  ],
-                ),
-                if (widget.pictures.any((p) => p.caption.isNotEmpty))
-                  SwitchListTile(
-                    contentPadding: EdgeInsets.zero,
-                    title: const Text('Show captions'),
-                    value: _showCaption,
-                    onChanged: (value) => setState(() => _showCaption = value),
+                if (hasPictures && !stacked) ...[
+                  Row(
+                    children: [
+                      Expanded(child: previous),
+                      const SizedBox(width: gmSpaceMd),
+                      Expanded(child: next),
+                    ],
                   ),
-                SwitchListTile(
-                  contentPadding: EdgeInsets.zero,
-                  title: const Text('Show a conversation prompt'),
-                  value: _showPrompt,
-                  onChanged: (value) => setState(() => _showPrompt = value),
-                ),
-                if (_showPrompt)
-                  Semantics(
-                    liveRegion: true,
-                    child: Text(
-                      _prompts[_index % _prompts.length],
-                      style: textTheme.headlineSmall,
-                    ),
-                  ),
-                const SizedBox(height: gmSpaceMd),
-                Text(
-                  'Just looking is enough. There is no need to remember a name '
-                  'or answer a question.',
-                  style: textTheme.bodyMedium?.copyWith(
-                    color: Theme.of(context).colorScheme.onSurfaceVariant,
-                  ),
-                ),
-                const SizedBox(height: gmSpaceSm),
-                TextButton(
-                  onPressed: () => Navigator.of(context).pop(),
-                  child: const Text('Done for now'),
-                ),
+                  const SizedBox(height: gmSpaceSm),
+                ],
+                done,
               ],
             ),
           ),
