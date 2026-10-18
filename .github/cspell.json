@@ -1,7 +1,10 @@
 {
   "version": "0.2",
   "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
-  "dictionaries": ["vgv_allowed", "vgv_forbidden"],
+  "dictionaries": [
+    "vgv_allowed",
+    "vgv_forbidden"
+  ],
   "dictionaryDefinitions": [
     {
       "name": "vgv_allowed",
@@ -16,23 +19,54 @@
   ],
   "useGitignore": true,
   "words": [
+    "altool",
+    "alzheimers",
+    "appiconset",
+    "autoplay",
     "autoplaying",
+    "backgrounded",
+    "backgrounding",
+    "cocoapods",
+    "codesign",
     "Contador",
+    "deintegrate",
     "designmd",
     "EXIF",
     "foldables",
     "fvmrc",
+    "goldenmoments",
+    "grayscale",
+    "IPHONEOS",
     "letterboxed",
     "localizable",
+    "lproj",
     "MIUI",
     "mostrado",
+    "MVVM",
+    "nonmatching",
+    "pbxproj",
     "pressable",
+    "pseudolocalization",
     "página",
+    "readback",
+    "Riverpod",
     "Roboto",
+    "SIGABRT",
+    "simctl",
     "snackbars",
     "subosito",
+    "sundowning",
     "Texto",
+    "UDID",
+    "UHZE",
+    "unhiding",
+    "unreviewed",
     "WCAG",
-    "workboard"
+    "workboard",
+    "worktrees",
+    "xcrun"
+  ],
+  "ignorePaths": [
+    "**/docs/store-description/**"
   ]
 }

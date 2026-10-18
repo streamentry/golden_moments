@@ -14,9 +14,67 @@ class GentleBoard {
     );
   }
 
+  new _restored(
+    List<String> restoredCards,
+    Iterable<int> matched,
+    Iterable<int> selected,
+  ) {
+    cards = List<String>.unmodifiable(restoredCards);
+    _matched.addAll(matched);
+    _selected.addAll(selected);
+  }
+
+  /// Rebuilds a saved, unfinished board, or returns null when the saved
+  /// arrangement is not a state this activity could have reached.
+  static GentleBoard? tryRestore({
+    required List<String> cards,
+    required List<int> matched,
+    required List<int> selected,
+  }) {
+    final counts = <String, int>{};
+    for (final id in cards) {
+      counts[id] = (counts[id] ?? 0) + 1;
+    }
+    final pairs = counts.length;
+    if (cards.length != pairs * 2 ||
+        pairs < 2 ||
+        pairs > 6 ||
+        counts.values.any((n) => n != 2)) {
+      return null;
+    }
+    bool inRange(int i) => i >= 0 && i < cards.length;
+    final matchedSet = matched.toSet();
+    final selectedSet = selected.toSet();
+    if (matchedSet.length != matched.length ||
+        selectedSet.length != selected.length ||
+        !matchedSet.every(inRange) ||
+        !selectedSet.every(inRange) ||
+        selected.length > 2 ||
+        selectedSet.any(matchedSet.contains)) {
+      return null;
+    }
+    // Matches come in whole pairs, and two selected tiles that match would
+    // already have been matched.
+    for (final id in counts.keys) {
+      final at = [
+        for (var i = 0; i < cards.length; i++)
+          if (cards[i] == id) i,
+      ];
+      if (at.where(matchedSet.contains).length == 1) return null;
+    }
+    if (selected.length == 2 && cards[selected[0]] == cards[selected[1]]) {
+      return null;
+    }
+    final board = GentleBoard._restored(cards, matched, selected);
+    return board.complete ? null : board;
+  }
+
   late final List<String> cards;
   final Set<int> _matched = {};
   final List<int> _selected = [];
+
+  List<int> get matchedIndices => (_matched.toList()..sort());
+  List<int> get selectedIndices => List<int>.of(_selected);
 
   bool get complete => _matched.length == cards.length;
   bool get waitingForNextTurn => _selected.length == 2;

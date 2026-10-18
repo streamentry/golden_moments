@@ -15,6 +15,7 @@ class PhotoTogetherPage extends StatefulWidget {
 class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
   int _index = 0;
   bool _showPrompt = false;
+  bool _showCaption = false;
   static const _prompts = [
     'What do you like about this picture?',
     'What catches your eye?',
@@ -40,7 +41,11 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
               padding: const EdgeInsets.all(gmSpaceLg),
               children: [
                 Semantics(
-                  label: widget.pictures[_index].label,
+                  label: [
+                    widget.pictures[_index].label,
+                    if (widget.pictures[_index].description.isNotEmpty)
+                      widget.pictures[_index].description,
+                  ].join('. '),
                   child: AspectRatio(
                     aspectRatio: 1,
                     child: DecoratedBox(
@@ -55,6 +60,15 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
                     ),
                   ),
                 ),
+                if (_showCaption &&
+                    widget.pictures[_index].caption.isNotEmpty) ...[
+                  const SizedBox(height: gmSpaceMd),
+                  Text(
+                    widget.pictures[_index].caption,
+                    textAlign: TextAlign.center,
+                    style: textTheme.headlineSmall,
+                  ),
+                ],
                 const SizedBox(height: gmSpaceMd),
                 Text(
                   'Picture ${_index + 1} of ${widget.pictures.length}',
@@ -83,6 +97,13 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
                     ),
                   ],
                 ),
+                if (widget.pictures.any((p) => p.caption.isNotEmpty))
+                  SwitchListTile(
+                    contentPadding: EdgeInsets.zero,
+                    title: const Text('Show captions'),
+                    value: _showCaption,
+                    onChanged: (value) => setState(() => _showCaption = value),
+                  ),
                 SwitchListTile(
                   contentPadding: EdgeInsets.zero,
                   title: const Text('Show a conversation prompt'),

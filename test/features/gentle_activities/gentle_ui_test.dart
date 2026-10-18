@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/gentle_activities/data/gentle_preferences.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_home_page.dart';
@@ -34,6 +35,47 @@ void main() {
     await tester.pumpAndSettle();
     expect(find.text('Gentle photo match'), findsOneWidget);
     expect(tester.takeException(), isNull);
+  });
+
+  testWidgets('comfort settings set from Home carry into the game (GM-037)', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(480, 1400));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    await tester.pumpWidget(_app(home: const GentleHomePage()));
+    await tester.pumpAndSettle();
+    // The helper prepares the experience before anyone plays.
+    await tester.tap(find.byTooltip('Comfort settings'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('8 tiles'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.byType(Switch));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Done'));
+    await tester.pumpAndSettle();
+
+    await tester.tap(find.text('Start a gentle game'));
+    await tester.pumpAndSettle();
+    expect(_tiles, findsNWidgets(8));
+    expect(find.bySemanticsLabel(RegExp('Hidden picture')), findsWidgets);
+    // The participant sees only the board and the exit.
+    expect(find.text('8 tiles'), findsNothing);
+    expect(find.text('Done for now'), findsOneWidget);
+
+    // Reset from Home returns to the starting choices without confusion.
+    await tester.tap(find.text('Done for now'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.byTooltip('Comfort settings'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Reset comfort settings'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.widgetWithText(FilledButton, 'Reset'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Done'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Start a gentle game'));
+    await tester.pumpAndSettle();
+    expect(_tiles, findsNWidgets(4));
   });
 
   testWidgets('board first: four large tiles and a visible exit, no settings', (
@@ -153,6 +195,25 @@ void main() {
       expect(find.bySemanticsLabel(RegExp('Hidden picture')), findsNothing);
     },
   );
+
+  testWidgets('two quick choices in the comfort sheet both count', (
+    tester,
+  ) async {
+    await tester.pumpWidget(_app());
+    await tester.pumpAndSettle();
+    await tester.tap(find.byTooltip('Comfort settings'));
+    await tester.pumpAndSettle();
+    // No frame between the two taps: the second must build on the first.
+    await tester.tap(find.text('6 tiles'));
+    await tester.tap(find.byType(Switch));
+    await tester.pumpAndSettle();
+    final saved = await const GentlePreferencesStore().load();
+    expect(saved.pairs, 3);
+    expect(saved.keepVisible, isFalse);
+    await tester.tap(find.text('Back to the pictures'));
+    await tester.pumpAndSettle();
+    expect(_tiles, findsNWidgets(6));
+  });
 
   testWidgets('changing tile count mid-board asks first and can be declined', (
     tester,
