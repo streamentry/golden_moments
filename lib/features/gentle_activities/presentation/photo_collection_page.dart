@@ -11,7 +11,9 @@ import 'package:golden_moments/features/gentle_activities/data/photo_importer.da
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
+import 'package:golden_moments/features/gentle_activities/presentation/picture_puzzle_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
+import 'package:golden_moments/shared/utils/experiments.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
 
@@ -446,6 +448,21 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                       color: scheme.onSurfaceVariant,
                     ),
                   ),
+                if (experimentsEnabled && playable.isNotEmpty) ...[
+                  const SizedBox(height: gmSpaceMd),
+                  OutlinedButton.icon(
+                    onPressed: _busy
+                        ? null
+                        : () => Navigator.of(context).push(
+                            MaterialPageRoute<void>(
+                              builder: (_) =>
+                                  PicturePuzzlePage(pictures: playable),
+                            ),
+                          ),
+                    icon: const Icon(Icons.extension_outlined),
+                    label: const Text('Try a picture puzzle (experiment)'),
+                  ),
+                ],
                 if (favorites.length >= 2) ...[
                   const SizedBox(height: gmSpaceMd),
                   OutlinedButton.icon(

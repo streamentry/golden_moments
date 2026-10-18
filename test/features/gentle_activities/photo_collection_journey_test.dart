@@ -261,6 +261,8 @@ void main() {
     await _settle(tester);
     await _tapText(tester, 'Choose photos');
     expect(find.text('Play with favorites'), findsNothing);
+    // Experiments are off in normal builds.
+    expect(find.textContaining('picture puzzle'), findsNothing);
 
     await _openOptions(tester, 0);
     await _toggle(tester, 'Favorite');

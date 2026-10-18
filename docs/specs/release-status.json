@@ -173,12 +173,19 @@
         ]
       },
       "GM-009": {
-        "status": "not_started",
-        "scope": "R2 evidence gate unmet: no observed pilot or demand data to choose between the puzzle (GM-009) and sorting (GM-010) experiments; neither is built."
+        "status": "implemented_unverified",
+        "scope": "Unshipped prototype, off in every normal build: a tap-to-place picture puzzle (2x2, also 3x3/4x4 in code) with no drag, clock, score, move count or hint ladder; the whole picture stays in view; a wrong placement is never flagged; pieces and slots are at least 64; Done for now is fixed. Reachable only in builds made with --dart-define=GM_EXPERIMENTS=true, from the family-photo collection, using only visible (non-hidden) photos. Per the R2 gate it must not ship until pilot evidence chooses it over GM-010; GM-010 is deliberately not built so both are not offered by default. Device and pilot evidence pending.",
+        "evidence": [
+          "lib/features/gentle_activities/presentation/picture_puzzle_page.dart",
+          "lib/features/gentle_activities/models/puzzle_board.dart",
+          "lib/shared/utils/experiments.dart",
+          "test/features/gentle_activities/puzzle_board_test.dart",
+          "test/features/gentle_activities/picture_puzzle_test.dart"
+        ]
       },
       "GM-010": {
         "status": "not_started",
-        "scope": "R2 evidence gate unmet; see GM-009."
+        "scope": "R2 evidence gate unmet and deliberately not built: GM-009 is the single prototype so both are not offered by default; sorting is built only if the pilot prefers it or GM-009 fails."
       },
       "GM-011": {
         "status": "not_started",

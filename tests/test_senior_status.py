@@ -49,7 +49,20 @@ class SeniorStatusTests(unittest.TestCase):
                 if feature['phase'] == 'R3':
                     self.assertEqual(entry['status'], 'deferred')
                 if feature['phase'] == 'R2':
-                    self.assertEqual(entry['status'], 'not_started')
+                    # Gated: at most one unshipped prototype, never verified.
+                    self.assertIn(
+                        entry['status'], {'not_started', 'implemented_unverified'})
+                    if entry['status'] == 'implemented_unverified':
+                        self.assertIn('unshipped', entry['scope'].lower())
+                        self.assertIn('GM_EXPERIMENTS', entry['scope'])
+
+    def test_at_most_one_r2_activity_is_built(self):
+        built = [
+            feature_id for feature_id, entry in FEATURES.items()
+            if feature_id in ('GM-009', 'GM-010')
+            and entry['status'] != 'not_started'
+        ]
+        self.assertLessEqual(len(built), 1)
 
     def test_release_gates_stay_pending_until_evidenced(self):
         for gate, result in STATUS['gates'].items():

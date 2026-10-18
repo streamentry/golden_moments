@@ -81,7 +81,9 @@ A person reviews every shipped asset against [asset-provenance.json](../specs/as
 
 ## K. Screenshots and comprehension (GM-032, 033, 039)
 
-Capture the six frames per [screenshots.md](../specs/screenshots.md) from the tested build on iPhone and iPad separately, using demo images, and record build/device/steps with each file. Run the five-caregiver comprehension test and the usability sequence in [validation.md](../specs/senior-first/validation.md); record denominators and missing responses.
+Capture the six frames per [screenshots.md](../specs/screenshots.md) from the tested build on iPhone and iPad separately, using demo images, and record build/device/steps with each file. For the R2 pilot build the experiment with `flutter build apk --dart-define=GM_EXPERIMENTS=true` (never for a store build): in Your family photos, Try a picture puzzle (experiment) opens the tap-to-place puzzle; hidden photos must never appear in it. Note whether participants choose it voluntarily; that evidence, not this prototype, decides GM-009 versus GM-010.
+
+Run the five-caregiver comprehension test and the usability sequence in [validation.md](../specs/senior-first/validation.md); record denominators and missing responses.
 
 ## Traceability
 
@@ -102,5 +104,6 @@ Every catalog feature and how it is verified. Statuses live in `release-status.j
 | GM-031 GM-034 | Section I (device) |
 | GM-032 GM-033 GM-039 | Section K (people, store configuration) |
 | GM-040 | This document and the records it asks for |
-| GM-009 GM-010 GM-011 GM-036 | Not started: R2 evidence gate (pilot results) must choose and approve first |
+| GM-009 | Unshipped prototype behind `GM_EXPERIMENTS`; pilot evidence (Section K) must choose it before it ships |
+| GM-010 GM-011 GM-036 | Not started: R2 evidence gate (pilot results) must choose and approve first |
 | GM-021 GM-022 GM-035 GM-038 | Deferred: R3, needs explicit approval and its own review |
