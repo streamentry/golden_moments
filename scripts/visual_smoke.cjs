@@ -180,7 +180,8 @@ async function eventually(read, expected) {
     }
     assert.equal(matched.size, count);
     await page.getByText('All pairs together', { exact: true }).waitFor();
-    assert.equal(await page.getByText('Share Golden Moments?', { exact: true }).count(), 0);
+    // A first finished game never carries a sharing suggestion.
+    assert.equal(await page.getByText(/Another family might enjoy them too/).count(), 0);
     await shot('game-completed');
     await page.getByRole('button', { name: 'Play again', exact: true }).first().click();
     await page.getByRole('button', { name: 'Hidden picture', exact: true }).first().waitFor();

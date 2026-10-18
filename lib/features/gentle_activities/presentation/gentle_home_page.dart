@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:golden_moments/app/view/main_navigation.dart';
 import 'package:golden_moments/design_system.dart';
@@ -5,6 +7,7 @@ import 'package:golden_moments/features/gentle_activities/models/activity_pictur
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
+import 'package:golden_moments/shared/sharing/share_invitation.dart';
 
 /// Local activities remain usable even when the optional pack service is down.
 class GentleHomePage extends StatefulWidget {
@@ -148,6 +151,13 @@ class _GentleHomePageState extends State<GentleHomePage> {
                   textAlign: TextAlign.center,
                   style: theme.textTheme.bodyMedium?.copyWith(
                     color: theme.colorScheme.onSurfaceVariant,
+                  ),
+                ),
+                const SizedBox(height: gmSpaceLg),
+                // Always available, never pushed (DESIGN.md › Sharing).
+                Center(
+                  child: ShareWithFamilyButton(
+                    onPressed: () => unawaited(shareAndRemember()),
                   ),
                 ),
               ],

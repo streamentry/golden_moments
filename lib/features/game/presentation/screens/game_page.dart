@@ -10,9 +10,8 @@ import 'package:golden_moments/features/game/cubit/game_cubit.dart';
 import 'package:golden_moments/features/game/cubit/game_state.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_board.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_header.dart';
-import 'package:golden_moments/shared/utils/share_util.dart';
+import 'package:golden_moments/shared/sharing/share_invitation.dart';
 import 'package:provider/provider.dart';
-import 'package:share_plus/share_plus.dart';
 
 /// Game page for playing memory matching games
 class GamePage extends StatefulWidget {
@@ -25,24 +24,20 @@ class GamePage extends StatefulWidget {
 }
 
 class _GamePageState extends State<GamePage> {
-  int _completePlayCount = 1;
-
-  void _playAgain() {
-    setState(() {
-      if (_completePlayCount == 3) {
-        _completePlayCount = 1;
-      } else {
-        _completePlayCount++;
-      }
-    });
+  /// Records the finished game; returns whether to suggest sharing.
+  Future<bool> _recordCompletion() async {
+    try {
+      return await (await ShareInvitationStore.load()).recordCompletedGame();
+    } on Object {
+      return false;
+    }
   }
 
-  void _shareAppLink() {
-    unawaited(
-      SharePlus.instance.share(
-        ShareParams(text: appShareText(), subject: 'Golden Moments'),
-      ),
-    );
+  Future<void> _onCompleted(BuildContext context) async {
+    unawaited(SoundService().playWinner());
+    final invite = await _recordCompletion();
+    if (!mounted || !context.mounted) return;
+    _showCompletionDialog(context, invite: invite);
   }
 
   @override
@@ -95,11 +90,7 @@ class _GamePageState extends State<GamePage> {
                     previous.status != current.status,
                 listener: (context, state) {
                   if (state.status == GameStatus.completed) {
-                    _showCompletionDialog(context);
-                    SoundService().playWinner();
-                    if (_completePlayCount == 3) {
-                      _showInviteFriendDialog(context);
-                    }
+                    unawaited(_onCompleted(context));
                   }
                 },
                 child: BlocBuilder<GameCubit, GameState>(
@@ -189,68 +180,74 @@ class _GamePageState extends State<GamePage> {
     );
   }
 
-  void _showCompletionDialog(BuildContext parentContext) {
+  void _showCompletionDialog(
+    BuildContext parentContext, {
+    required bool invite,
+  }) {
+    var shared = false;
+    Future<void> close() async {
+      // Carrying on without sharing is a complete answer, never a nag.
+      if (invite && !shared) {
+        try {
+          await (await ShareInvitationStore.load()).markDeclined();
+        } on Object {
+          // Sharing suggestions are optional; never block play on storage.
+        }
+      }
+    }
+
     showDialog<void>(
       context: parentContext,
       barrierDismissible: false,
-      builder: (context) => AlertDialog(
-        scrollable: true,
-        title: const Text('All pairs together'),
-        content: const Text(
-          'Play again, choose another pack, or take a break. Is there a '
-          'picture you would like to talk about?',
-        ),
-        actions: [
-          GmOutlineButton(
-            label: 'Play again',
-            onTap: () {
-              Navigator.of(context).pop();
-              parentContext.read<GameCubit>().resetGame();
-              _playAgain();
-            },
-          ),
-          const SizedBox(height: gmSpaceSm),
-          GmPrimaryButton(
-            label: 'Choose another pack',
-            onTap: () {
-              Navigator.of(context).pop();
-              Navigator.of(context).pop();
-            },
-          ),
-        ],
-      ),
-    );
-  }
-
-  /// A gentle, dismissible share suggestion. It never counts down or closes
-  /// on its own (DESIGN.md › Interaction & Game Feel).
-  void _showInviteFriendDialog(BuildContext parentContext) {
-    showDialog<void>(
-      context: parentContext,
-      builder: (dialogContext) {
-        final scheme = Theme.of(dialogContext).colorScheme;
-        return AlertDialog(
+      builder: (context) => StatefulBuilder(
+        builder: (context, setDialogState) => AlertDialog(
           scrollable: true,
-          icon: Icon(Icons.group_add_outlined, size: 48, color: scheme.primary),
-          title: const Text('Share Golden Moments?'),
-          content: const Text(
-            'If you enjoy these pictures together, other families might too.',
+          title: const Text('All pairs together'),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'Play again, choose another pack, or take a break. Is there '
+                'a picture you would like to talk about?',
+              ),
+              if (invite && !shared) ...[
+                const SizedBox(height: gmSpaceMd),
+                ShareInvitation(
+                  onShare: () async {
+                    if (await shareAndRemember() && context.mounted) {
+                      setDialogState(() => shared = true);
+                    }
+                  },
+                ),
+              ],
+              if (shared) ...[
+                const SizedBox(height: gmSpaceMd),
+                const Text('Thank you for sharing.'),
+              ],
+            ],
           ),
           actions: [
-            TextButton(
-              onPressed: () => Navigator.of(dialogContext).pop(),
-              child: const Text('Not now'),
-            ),
-            FilledButton(
-              onPressed: () {
-                _shareAppLink();
-                Navigator.of(dialogContext).pop();
+            GmOutlineButton(
+              label: 'Play again',
+              onTap: () {
+                unawaited(close());
+                Navigator.of(context).pop();
+                parentContext.read<GameCubit>().resetGame();
               },
-              child: const Text('Share'),
+            ),
+            const SizedBox(height: gmSpaceSm),
+            GmPrimaryButton(
+              label: 'Choose another pack',
+              onTap: () {
+                unawaited(close());
+                Navigator.of(context).pop();
+                Navigator.of(context).pop();
+              },
             ),
           ],
-        );
-      },
+        ),
+      ),
     );
   }
 }
