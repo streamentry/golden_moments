@@ -1,0 +1,28 @@
+{
+  "release": "1.3.0+5",
+  "meaning": "Implemented means source exists, not released or device-verified.",
+  "features": {
+    "gentle_matching": {"status": "implemented_unverified", "evidence": []},
+    "family_photos": {"status": "implemented_unverified", "evidence": []},
+    "photo_viewer": {"status": "implemented_unverified", "evidence": []},
+    "offline_starter": {"status": "implemented_unverified", "evidence": []},
+    "accessible_layout": {"status": "implemented_unverified", "evidence": []},
+    "legacy_library": {"status": "implemented_unverified", "evidence": []}
+  },
+  "gates": {
+    "flutter_tests": {"status": "pending", "evidence": []},
+    "ios_archive": {"status": "pending", "evidence": []},
+    "ios_photo_picker": {"status": "pending", "evidence": []},
+    "android_photo_picker_recovery": {"status": "pending", "evidence": []},
+    "fresh_install_offline": {"status": "pending", "evidence": []},
+    "upgrade_preserves_packs": {"status": "pending", "evidence": []},
+    "accessibility_device_review": {"status": "pending", "evidence": []},
+    "caregiver_comprehension": {"status": "pending", "evidence": []},
+    "privacy_and_sdk_audit": {"status": "pending", "evidence": []},
+    "medical_claims_review": {"status": "pending", "evidence": []},
+    "real_screenshot_review": {"status": "pending", "evidence": []},
+    "store_configuration": {"status": "pending", "evidence": []}
+  },
+  "deferred": ["family_sync", "deck_file_sharing", "voice_recording", "payments", "automatic_photo_album_watching"],
+  "excluded": ["diagnosis", "cognitive_scoring", "treatment_claims", "cloud_photo_uploads", "AI_processing"]
+}

@@ -4,6 +4,7 @@ import 'dart:developer';
 import 'package:bloc/bloc.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/widgets.dart';
+import 'package:golden_moments/app/view/platform_home.dart';
 import 'package:golden_moments/data/models/sound_setting.dart';
 import 'package:golden_moments/data/services/download_manager.dart';
 import 'package:golden_moments/data/services/http_client_service.dart';
@@ -15,47 +16,39 @@ class AppBlocObserver extends BlocObserver {
   const AppBlocObserver();
 
   @override
-  void onChange(BlocBase<dynamic> bloc, Change<dynamic> change) {
-    super.onChange(bloc, change);
-    log('onChange(${bloc.runtimeType}, $change)');
-  }
-
-  @override
   void onError(BlocBase<dynamic> bloc, Object error, StackTrace stackTrace) {
-    log('onError(${bloc.runtimeType}, $error, $stackTrace)');
+    // Avoid state dumps and user-provided photo paths or identifiers.
+    log('State error in ${bloc.runtimeType}', stackTrace: stackTrace);
     super.onError(bloc, error, stackTrace);
   }
 }
 
 Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
   WidgetsFlutterBinding.ensureInitialized();
-  FlutterError.onError = (details) {
-    // FirebaseCrashlytics.instance.recordFlutterFatalError(details);
-    log(details.exceptionAsString(), stackTrace: details.stack);
-  };
-
-  // PlatformDispatcher.instance.onError = (error, stack) {
-  //   FirebaseCrashlytics.instance.recordError(error, stack, fatal: true);
-  //   return true;
-  // };
-
+  FlutterError.onError = FlutterError.presentError;
   Bloc.observer = const AppBlocObserver();
 
-  // Initialize Firebase with error handling
+  final soundSettings = SoundSettings();
   try {
-    await Firebase.initializeApp();
-    log('Firebase initialized successfully');
-  } on Object catch (e, stackTrace) {
-    log('Firebase initialization failed: $e', stackTrace: stackTrace);
-    // Continue app initialization even if Firebase fails
-    // This allows the app to run in development mode without proper Firebase
-    // config
+    await soundSettings.load();
+  } on Object {
+    log('Using default local sound settings.');
   }
 
-  // Add cross-flavor configuration here
-  final soundSettings = SoundSettings();
-  await soundSettings.load();
-  await SoundService().initialize(soundSettings);
+  // Preserve the independently stabilized browser/desktop initialization.
+  // The mobile starter does not depend on Firebase, audio, HTTP or downloads.
+  if (!usesGentleActivities) {
+    try {
+      await Firebase.initializeApp();
+    } on Object {
+      log('Optional Firebase initialization unavailable.');
+    }
+    try {
+      await SoundService().initialize(soundSettings);
+    } on Object {
+      log('Optional sound initialization unavailable.');
+    }
+  }
 
   runApp(
     ChangeNotifierProvider(
@@ -64,24 +57,14 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
     ),
   );
 
-  // Initialize services with error handling
-  try {
-    await _initializeServices();
-    await _executeTaskOnLaunch();
-  } on Object catch (e, stackTrace) {
-    log('Service initialization failed: $e', stackTrace: stackTrace);
-    // Continue app execution even if services fail to initialize
-    // This allows the app to run in limited mode
+  if (!usesGentleActivities) {
+    try {
+      await JsonCacheService().initialize();
+      await DownloadManager().initialize();
+      HttpClientService().initialize();
+      await DownloadManager().downloadInitialPacks();
+    } on Object {
+      log('The optional catalog is not fully available.');
+    }
   }
-}
-
-/// Initialize core services
-Future<void> _initializeServices() async {
-  await JsonCacheService().initialize();
-  await DownloadManager().initialize();
-  HttpClientService().initialize();
-}
-
-Future<void> _executeTaskOnLaunch() async {
-  await DownloadManager().downloadInitialPacks();
 }

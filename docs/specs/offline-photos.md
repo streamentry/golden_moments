@@ -1,0 +1,37 @@
+# Local-photo architecture
+
+## Decision and flow
+
+Keep Flutter and explicit photo selection on iOS/Android; no new backend. One collection in `ApplicationSupport/family_photos_v1` is sufficient initially.
+
+System picker -> bounded decode/resize -> fresh PNG pixels -> hash-named local file -> atomic JSON manifest -> matching/shared viewing. OS download of iCloud-only originals and OS backup are separate behaviors, not app-managed family sync.
+
+## Storage
+
+Manifest: `{ "version": 1, "photos": ["<sha256>"] }`. IDs are lowercase 64-character hashes; copies are `<id>.png`. No external paths, names, URLs, EXIF, GPS, diagnoses or face identities are indexed. Deduplication compares normalized content, not faces.
+
+Bounds: 24 photos, 20 MiB source-file check, at most 40 million decoded pixels, within 1024x1024 output preserving aspect ratio, and 2 MiB maximum normalized copy. Oversized or undecodable inputs fail without changing the original collection. These are engineering limits, not camera compatibility promises.
+
+Mutations are serialized. Validate a batch before modifying the manifest. Write copies before replacing the index atomically; failure preserves the old index. Deletion removes indexed references before owned copies. Remove-all also cleans hash-named orphan PNGs, not unrelated files. Corrupt manifests are surfaced, not overwritten. Disk-full, interruptions and failed cleanup need device QA.
+
+## Permissions and lifecycle
+
+`image_picker` is initially pinned at 1.1.2. Revalidate and resolve its platform dependencies against Flutter 3.47.7/Dart 3.13.5. Set `requestFullMetadata: false` and re-encode pixels. iOS permission text explains selection; no camera or microphone functionality is introduced.
+
+Android lost selections are recovered through the plugin with confirmation before import. Test HEIC and iCloud-only originals on hardware. Cancellation is not an error. Removing an original after import must not remove the app copy.
+
+## Platform entry and migration
+
+`lib/app/view/platform_home.dart` conditionally selects native versus browser entry. iOS/Android receive GentleHomePage; browser/desktop retain MainNavigation. Native IO/photo-picker imports are excluded from the browser entry graph.
+
+Mobile bootstrap loads local settings without Firebase, sound, HTTP or downloads. The explicit mobile library action initializes existing services. Browser/desktop retain the existing optional initialization and catalog downloading. The independently merged caching, responsive layout, completion counting, dependency and visual-test changes from PR #43 are preserved.
+
+Bundle IDs, pack schema, preferences and download locations remain unchanged. Tests and release gates must verify existing installations; preserving source paths alone is not migration proof.
+
+## Privacy and no-sync boundary
+
+Firebase dependencies remain. Mobile Analytics is deactivated and automatic Crashlytics reporting disabled in native configuration. Audit native initializers, persisted settings, linked SDKs and traffic before asserting no tracking/no collection. Browser startup still has its previous optional Firebase path; do not generalize mobile claims to it.
+
+Photos are snapshots, not watched originals. Device backup may contain copies. No CloudKit sharing, family sync, live-link service or automatic revocation. Deck-file exchange is deferred until bounded archives, path-traversal/zip-bomb protection and recipient consent are specified.
+
+References: [image_picker](https://pub.dev/packages/image_picker/versions/1.1.2), [Analytics controls](https://firebase.google.com/docs/analytics/configure-data-collection), [Crashlytics controls](https://firebase.google.com/docs/crashlytics/customize-crash-reports).
