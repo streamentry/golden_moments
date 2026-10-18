@@ -402,4 +402,187 @@ void main() {
     expect(find.text('Play with these photos'), findsOneWidget);
     expect(tester.takeException(), isNull);
   });
+
+  testWidgets(
+    'when nothing can be written, every change says so and keeps the photos',
+    (tester) async {
+      await tester.binding.setSurfaceSize(const Size(480, 1600));
+      addTearDown(() => tester.binding.setSurfaceSize(null));
+      final importer = _FakeImporter([
+        [1, 2],
+        [3],
+      ]);
+      await tester.pumpWidget(_app(directory, importer));
+      await _settle(tester);
+      await _tapText(tester, 'Choose photos');
+      expect(find.text('2 of 24 photos'), findsOneWidget);
+
+      // A read-only folder refuses every write, the way a full or protected
+      // disk does. Root ignores permissions, so the check is skipped there.
+      void chmod(String mode) =>
+          Process.runSync('chmod', [mode, directory.path]);
+      chmod('555');
+      addTearDown(() => chmod('755'));
+      final probe = File('${directory.path}/probe');
+      final writable = await tester.runAsync(() async {
+        try {
+          await probe.create();
+          await probe.delete();
+          return true;
+        } on FileSystemException {
+          return false;
+        }
+      });
+      if (writable!) {
+        markTestSkipped('This user can write to read-only folders.');
+        return;
+      }
+
+      await _tapText(tester, 'Choose photos');
+      expect(find.textContaining('check free space'), findsOneWidget);
+      expect(find.text('2 of 24 photos'), findsOneWidget);
+
+      await _openOptions(tester, 0);
+      await _toggle(tester, 'Favorite');
+      final notSaved = find.textContaining('Could not save these details');
+      await _tapText(tester, 'Save', until: () => _shows(notSaved));
+      expect(notSaved, findsOneWidget);
+      expect(find.text('Favorite'), findsNothing);
+
+      await _openOptions(tester, 0);
+      await _tapText(tester, 'Remove this copy');
+      await _tapText(tester, 'Continue');
+      expect(find.textContaining('could not be removed'), findsOneWidget);
+      expect(find.text('2 of 24 photos'), findsOneWidget);
+
+      await _tapText(tester, 'Remove all photo copies');
+      await _tapText(tester, 'Continue');
+      expect(find.textContaining('could not be removed'), findsOneWidget);
+      expect(find.text('2 of 24 photos'), findsOneWidget);
+      expect(tester.takeException(), isNull);
+
+      chmod('755');
+      final ids = await tester.runAsync(
+        () => FamilyPhotoStore(directory).load(),
+      );
+      expect(ids, hasLength(2));
+    },
+    skip: Platform.isWindows,
+  );
+
+  testWidgets(
+    'a collection that cannot be read for a moment never prunes photo details',
+    (tester) async {
+      await tester.binding.setSurfaceSize(const Size(480, 1600));
+      addTearDown(() => tester.binding.setSurfaceSize(null));
+      final importer = _FakeImporter([
+        [1, 2],
+      ]);
+      await tester.pumpWidget(_app(directory, importer));
+      await _settle(tester);
+      await _tapText(tester, 'Choose photos');
+      await _openOptions(tester, 0);
+      await _toggle(tester, 'Favorite');
+      await _tapText(
+        tester,
+        'Save',
+        until: () => _shows(find.text('Favorite')),
+      );
+      final sidecar = File('${directory.path}/annotations.json');
+      final details = await tester.runAsync(sidecar.readAsBytes);
+
+      // The details are only pruned by a list the collection really holds.
+      // An unreadable index must stop the screen, not empty that list.
+      final manifest = File('${directory.path}/collection.json');
+      void chmod(String mode) =>
+          Process.runSync('chmod', [mode, manifest.path]);
+      chmod('000');
+      addTearDown(() => chmod('644'));
+      final readable = await tester.runAsync(() async {
+        try {
+          await manifest.readAsBytes();
+          return true;
+        } on FileSystemException {
+          return false;
+        }
+      });
+      if (readable!) {
+        markTestSkipped('This user can read any file.');
+        return;
+      }
+      await tester.pumpWidget(const SizedBox());
+      await tester.pumpWidget(_app(directory, importer));
+      await _settle(tester);
+      expect(
+        find.textContaining('Could not open the photo collection'),
+        findsOneWidget,
+      );
+      expect(await tester.runAsync(sidecar.readAsBytes), details);
+
+      chmod('644');
+      await _tapText(
+        tester,
+        'Try again',
+        until: () => _shows(find.text('2 of 24 photos')),
+      );
+      expect(find.text('Favorite'), findsOneWidget);
+      expect(tester.takeException(), isNull);
+    },
+    skip: Platform.isWindows,
+  );
+
+  testWidgets('a photo that cannot be shown for a while keeps its details', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(480, 1600));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    final importer = _FakeImporter([
+      [1, 2, 3],
+    ]);
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    await _tapText(tester, 'Choose photos');
+    await _openOptions(tester, 0);
+    await tester.enterText(
+      find.widgetWithText(TextField, 'Caption (optional)'),
+      'Lake day',
+    );
+    await _toggle(tester, 'Favorite');
+    await _toggle(tester, 'Hide from activities');
+    await _tapText(tester, 'Save', until: () => _shows(find.text('Favorite')));
+
+    // Its copy is replaced by something else for a while (a folder here).
+    final notes = await tester.runAsync(
+      () => PhotoAnnotationStore(directory).load(),
+    );
+    final id = notes!.keys.single;
+    final copy = File('${directory.path}/$id.png');
+    final aside = File('${directory.path}/aside.bin');
+    await tester.runAsync(() async {
+      await copy.rename(aside.path);
+      await Directory(copy.path).create();
+    });
+    await tester.pumpWidget(const SizedBox());
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    expect(find.text('2 of 24 photos'), findsOneWidget);
+    expect(find.text('Favorite'), findsNothing);
+
+    // Back again: caption, favorite and hidden were never pruned.
+    await tester.runAsync(() async {
+      await Directory(copy.path).delete();
+      await aside.rename(copy.path);
+    });
+    await tester.pumpWidget(const SizedBox());
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    expect(find.text('3 of 24 photos'), findsOneWidget);
+    expect(find.text('Favorite'), findsOneWidget);
+    expect(find.text('Hidden'), findsOneWidget);
+    final kept = await tester.runAsync(
+      () => PhotoAnnotationStore(directory).load(),
+    );
+    expect(kept![id]!.caption, 'Lake day');
+    expect(kept[id]!.hidden, isTrue);
+  });
 }

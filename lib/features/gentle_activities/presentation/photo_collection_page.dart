@@ -109,9 +109,11 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
       final directory = await widget.directoryProvider();
       final store = FamilyPhotoStore(directory);
       final ids = await store.load();
-      // Optional details never block the photos; stale ones are dropped.
+      // Optional details never block the photos. Only details of photos the
+      // collection no longer lists are dropped, never those of a photo that
+      // merely cannot be shown right now.
       final annotations = PhotoAnnotationStore(directory);
-      final notes = await annotations.keepOnly(ids.toSet());
+      final notes = await annotations.keepOnly((await store.listed()).toSet());
       if (!mounted) return;
       setState(() {
         _store = store;
@@ -208,7 +210,9 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     } finally {
       try {
         final ids = await _store!.load();
-        final notes = await _annotations!.keepOnly(ids.toSet());
+        final notes = await _annotations!.keepOnly(
+          (await _store!.listed()).toSet(),
+        );
         if (mounted) {
           setState(() {
             _ids = ids;
