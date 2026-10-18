@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:golden_moments/app/view/main_navigation.dart';
 import 'package:golden_moments/data/services/download_manager.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/gentle_activities/presentation/gentle_home_page.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 
 class App extends StatefulWidget {
@@ -11,17 +11,10 @@ class App extends StatefulWidget {
   State<App> createState() => _AppState();
 }
 
-class _AppState extends State<App> with WidgetsBindingObserver {
-  @override
-  void initState() {
-    super.initState();
-    WidgetsBinding.instance.addObserver(this);
-  }
-
+class _AppState extends State<App> {
   @override
   void dispose() {
-    WidgetsBinding.instance.removeObserver(this);
-    DownloadManager().dispose(); // ✅ Cleanup
+    DownloadManager().dispose();
     super.dispose();
   }
 
@@ -32,7 +25,7 @@ class _AppState extends State<App> with WidgetsBindingObserver {
       theme: gmBuildTheme(brightness: Brightness.light),
       localizationsDelegates: AppLocalizations.localizationsDelegates,
       supportedLocales: AppLocalizations.supportedLocales,
-      home: const MainNavigation(),
+      home: const GentleHomePage(),
     );
   }
 }

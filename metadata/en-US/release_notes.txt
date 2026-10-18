@@ -1,0 +1,6 @@
+A new, gentle starting point for shared activities:
+- Start with four large tiles and an optional always-visible mode.
+- Import selected family photos for local matching and shared viewing.
+- Use optional conversation prompts without name quizzes or scores.
+- Open starter activities without downloading content first.
+- Access the existing picture-pack library separately when needed.

@@ -29,29 +29,17 @@
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UISupportedInterfaceOrientations</key>
-	<array>
-		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
-	</array>
+	<array><string>UIInterfaceOrientationPortrait</string><string>UIInterfaceOrientationLandscapeLeft</string><string>UIInterfaceOrientationLandscapeRight</string></array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
-	<array>
-		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationPortraitUpsideDown</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
-	</array>
-	<key>CADisableMinimumFrameDurationOnPhone</key>
-	<true/>
-<key>UIApplicationSupportsIndirectInputEvents</key>
-<true/>
-<key>UIRequiredDeviceCapabilities</key>
-<array>
-	<string>arm64</string>
-</array>
-<key>UIRequiresPersistentWiFi</key>
-<false/>
-<key>LSApplicationCategoryType</key>
-<string>public.app-category.games</string>
+	<array><string>UIInterfaceOrientationPortrait</string><string>UIInterfaceOrientationPortraitUpsideDown</string><string>UIInterfaceOrientationLandscapeLeft</string><string>UIInterfaceOrientationLandscapeRight</string></array>
+	<key>CADisableMinimumFrameDurationOnPhone</key><true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key><true/>
+	<key>UIRequiredDeviceCapabilities</key><array><string>arm64</string></array>
+	<key>UIRequiresPersistentWiFi</key><false/>
+	<key>LSApplicationCategoryType</key><string>public.app-category.games</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Choose family photos to copy into private activities on this device. Golden Moments does not scan your photo library.</string>
+	<key>FIREBASE_ANALYTICS_COLLECTION_DEACTIVATED</key><true/>
+	<key>FirebaseCrashlyticsCollectionEnabled</key><false/>
 </dict>
 </plist>

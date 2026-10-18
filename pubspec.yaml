@@ -1,6 +1,6 @@
 name: golden_moments
-description: Golden Moments - A nostalgia-themed, large-print tile-matching game designed for seniors
-version: 1.2.0+4
+description: Gentle photo activities to enjoy together, with offline starter games and selected family photos.
+version: 1.3.0+5
 publish_to: none
 
 environment:
@@ -22,6 +22,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   http: ^1.5.0
+  image_picker: 1.1.2
   intl: ^0.20.2
   path: ^1.9.0
   path_provider: ^2.1.4
@@ -43,8 +44,6 @@ dev_dependencies:
 flutter:
   generate: true
   uses-material-design: true
-
-  # Add assets
   assets:
     - assets/data/
     - assets/sounds/
@@ -59,12 +58,10 @@ flutter_native_splash:
   android: true
   ios: true
   web: false
-
   color: "#FFF5DE"
   image: assets/icons/app_icon_padded.png
   color_dark: "#FFF5DE"
   image_dark: assets/icons/app_icon_padded.png
-
   android_12:
     image: assets/icons/app_icon_padded.png
     color: "#FFF5DE"
