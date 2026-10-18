@@ -492,4 +492,59 @@ void main() {
     },
     skip: Platform.isWindows,
   );
+
+  testWidgets('a photo that cannot be shown for a while keeps its details', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(480, 1600));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    final importer = _FakeImporter([
+      [1, 2, 3],
+    ]);
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    await _tapText(tester, 'Choose photos');
+    await _openOptions(tester, 0);
+    await tester.enterText(
+      find.widgetWithText(TextField, 'Caption (optional)'),
+      'Lake day',
+    );
+    await _toggle(tester, 'Favorite');
+    await _toggle(tester, 'Hide from activities');
+    await _tapText(tester, 'Save', until: () => _shows(find.text('Favorite')));
+
+    // Its copy is replaced by something else for a while (a folder here).
+    final notes = await tester.runAsync(
+      () => PhotoAnnotationStore(directory).load(),
+    );
+    final id = notes!.keys.single;
+    final copy = File('${directory.path}/$id.png');
+    final aside = File('${directory.path}/aside.bin');
+    await tester.runAsync(() async {
+      await copy.rename(aside.path);
+      await Directory(copy.path).create();
+    });
+    await tester.pumpWidget(const SizedBox());
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    expect(find.text('2 of 24 photos'), findsOneWidget);
+    expect(find.text('Favorite'), findsNothing);
+
+    // Back again: caption, favorite and hidden were never pruned.
+    await tester.runAsync(() async {
+      await Directory(copy.path).delete();
+      await aside.rename(copy.path);
+    });
+    await tester.pumpWidget(const SizedBox());
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    expect(find.text('3 of 24 photos'), findsOneWidget);
+    expect(find.text('Favorite'), findsOneWidget);
+    expect(find.text('Hidden'), findsOneWidget);
+    final kept = await tester.runAsync(
+      () => PhotoAnnotationStore(directory).load(),
+    );
+    expect(kept![id]!.caption, 'Lake day');
+    expect(kept[id]!.hidden, isTrue);
+  });
 }

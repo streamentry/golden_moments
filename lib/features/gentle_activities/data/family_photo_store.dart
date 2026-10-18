@@ -65,6 +65,14 @@ class FamilyPhotoStore {
     ];
   });
 
+  /// Every photo the collection lists, including ones whose copy cannot be
+  /// shown right now (a moment's error, or something else in its place).
+  /// Without a manifest, the copies [load] would adopt. Prune photo details
+  /// by this, never by [load]: a copy that is unusable for a moment must
+  /// not lose its caption, favorite or hidden choice. Throws like [load].
+  Future<List<String>> listed() =>
+      _serial(() async => await _readManifest() ?? await _adoptable());
+
   /// The ids the manifest lists, or null only when there is genuinely no
   /// manifest. A manifest that cannot be inspected or read, or anything
   /// other than a well-formed current manifest in a plain file, is surfaced

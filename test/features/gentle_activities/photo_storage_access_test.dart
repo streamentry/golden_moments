@@ -85,6 +85,29 @@ void main() {
     await expectNothingLost();
   });
 
+  test('a folder that can be listed but whose entries cannot be inspected '
+      'is an error, never an empty collection', () async {
+    // Readable but not searchable: listing works, while inspecting any
+    // entry fails with "permission denied", which a plain type check would
+    // report as "not found".
+    chmod('444', directory.path);
+    if (!enforced(manifest().path)) {
+      markTestSkipped('This user can read any folder.');
+      return;
+    }
+    expect(directory.listSync(), isNotEmpty);
+    expect(
+      FileSystemEntity.typeSync(manifest().path, followLinks: false),
+      FileSystemEntityType.notFound,
+    );
+    await expectLater(store.load(), failed);
+    await expectLater(store.listed(), failed);
+    await expectLater(store.add([image(3)]), failed);
+    await expectLater(store.remove(ids.first), failed);
+    await expectLater(store.clear(), failed);
+    await expectNothingLost();
+  });
+
   group('photo details', () {
     final a = 'a' * 64;
     File sidecar() => File('${directory.path}/annotations.json');

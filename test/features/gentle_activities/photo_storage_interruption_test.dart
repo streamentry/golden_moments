@@ -157,21 +157,46 @@ void main() {
       });
     }
 
-    test('an unreadable file moved aside survives a failed write', () async {
-      await sidecar().writeAsString('damaged');
-      ops.failWhen = (s, entry) =>
-          s == FileStep.write && entry == 'annotations.json.tmp';
-      await expectLater(
-        notes.update(a, const PhotoAnnotation(favorite: true)),
-        failed,
-      );
-      expect(
-        File('${directory.path}/annotations.json.unreadable')
-            .readAsStringSync(),
-        'damaged',
-      );
-      expect(await notes.load(), isEmpty);
-    });
+    for (final (label, step, name) in [
+      (
+        'the new details cannot be staged',
+        FileStep.write,
+        'annotations.json.tmp',
+      ),
+      (
+        'the damaged file cannot be moved aside',
+        FileStep.rename,
+        'annotations.json',
+      ),
+      (
+        'the new details cannot be renamed in after the move',
+        FileStep.rename,
+        'annotations.json.tmp',
+      ),
+    ]) {
+      test('a damaged sidecar stays in place when $label', () async {
+        await sidecar().writeAsString('damaged');
+        ops.failWhen = (s, entry) => s == step && entry == name;
+        await expectLater(
+          notes.update(a, const PhotoAnnotation(favorite: true)),
+          failed,
+        );
+        // Never "no sidecar at all": the damaged file is where it was.
+        expect(await sidecar().readAsString(), 'damaged');
+        expect(entryNames(directory), ['annotations.json']);
+        expect(await notes.load(), isEmpty);
+
+        // Once writing works it is kept aside and the details are saved.
+        ops.failWhen = null;
+        await notes.update(a, const PhotoAnnotation(favorite: true));
+        expect(
+          File('${directory.path}/annotations.json.unreadable')
+              .readAsStringSync(),
+          'damaged',
+        );
+        expect((await notes.load())[a]!.favorite, isTrue);
+      });
+    }
 
     test('pruning that cannot be saved never blocks the photos', () async {
       await notes.update(a, const PhotoAnnotation(caption: 'A'));

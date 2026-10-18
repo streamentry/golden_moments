@@ -93,6 +93,20 @@ class PhotoAnnotation {
   int get hashCode => Object.hash(caption, description, favorite, hidden);
 }
 
+/// What a stored sidecar turned out to be.
+enum _Sidecar {
+  /// Absent, or a current-version file: safe to read and replace.
+  usable,
+
+  /// A link or folder in its place, invalid text, or an older or unknown
+  /// shape: moved aside (never destroyed) when new details are saved.
+  damaged,
+
+  /// Written by a newer version of the app: never shown, moved or replaced,
+  /// so its details come back after an upgrade.
+  newer,
+}
+
 /// A small versioned sidecar next to the photo collection. It is optional by
 /// design: a missing, unreadable or newer-version file means "no annotations"
 /// and can never make a photo unavailable. Writes are serialized (across
@@ -126,7 +140,8 @@ class PhotoAnnotationStore {
       // Left for the next load; it is never read as annotations.
     }
     try {
-      return await _parse() ?? {};
+      final (state, notes) = await _parse();
+      return state == _Sidecar.usable ? notes : {};
     } on Object {
       return {};
     }
@@ -137,27 +152,30 @@ class PhotoAnnotationStore {
   bool get _isOwnedFolder =>
       entryType(directory.path) == FileSystemEntityType.directory;
 
-  /// The stored details, `{}` when there is no sidecar, or null when the
-  /// sidecar is unusable: a link or folder in its place, invalid text, or
-  /// another version. A failure to inspect or read it (no permission, an I/O
-  /// error) is thrown, never mistaken for damage, so it can never cause the
-  /// real sidecar to be moved aside and replaced.
-  Future<Map<String, PhotoAnnotation>?> _parse() async {
+  /// What is stored, with its details when [_Sidecar.usable] (`{}` when
+  /// there is no sidecar). A failure to inspect or read it (no permission,
+  /// an I/O error) is thrown, never mistaken for damage, so it can never
+  /// cause the real sidecar to be moved aside and replaced.
+  Future<(_Sidecar, Map<String, PhotoAnnotation>)> _parse() async {
+    final damaged = (_Sidecar.damaged, <String, PhotoAnnotation>{});
     final type = await confirmedType(_file.path);
-    if (type == FileSystemEntityType.notFound) return {};
-    if (type != FileSystemEntityType.file) return null;
+    if (type == FileSystemEntityType.notFound) {
+      return (_Sidecar.usable, <String, PhotoAnnotation>{});
+    }
+    if (type != FileSystemEntityType.file) return damaged;
     final bytes = await _file.readAsBytes();
     final Object? data;
     try {
       data = jsonDecode(utf8.decode(bytes));
     } on FormatException {
-      return null;
+      return damaged;
     }
-    if (data is! Map ||
-        data['version'] != schemaVersion ||
-        data['photos'] is! Map) {
-      return null;
+    if (data is! Map) return damaged;
+    final version = data['version'];
+    if (version is int && version > schemaVersion) {
+      return (_Sidecar.newer, <String, PhotoAnnotation>{});
     }
+    if (version != schemaVersion || data['photos'] is! Map) return damaged;
     final result = <String, PhotoAnnotation>{};
     for (final entry in (data['photos'] as Map).entries) {
       final id = entry.key;
@@ -166,12 +184,13 @@ class PhotoAnnotationStore {
       if (!note.isEmpty) result[id] = note;
       if (result.length >= maxEntries) break;
     }
-    return result;
+    return (_Sidecar.usable, result);
   }
 
-  /// Keeps an unusable sidecar (or a link in its place) aside under the
-  /// first free name instead of destroying it or writing through it.
-  Future<void> _moveAside() async {
+  /// Keeps a damaged sidecar (or a link in its place) aside under the first
+  /// free name instead of destroying it or writing through it, and returns
+  /// how to put it back.
+  Future<Future<void> Function()> _moveAside() async {
     var aside = '${directory.path}/$_name.unreadable';
     for (var n = 1; entryType(aside) != FileSystemEntityType.notFound; n++) {
       aside = '${directory.path}/$_name.unreadable.$n';
@@ -181,12 +200,18 @@ class PhotoAnnotationStore {
     }
     if (entryType(_file.path) == FileSystemEntityType.link) {
       await Link(_file.path).rename(aside); // Moves the link, not its target.
-    } else {
-      await fileOps.rename(_file, aside);
+      return () async {
+        await Link(aside).rename(_file.path);
+      };
     }
+    await fileOps.rename(_file, aside);
+    return () => fileOps.rename(File(aside), _file.path);
   }
 
-  Future<void> _write(Map<String, PhotoAnnotation> notes) => replaceAtomically(
+  Future<void> _write(
+    Map<String, PhotoAnnotation> notes, {
+    Future<void> Function()? beforeRename,
+  }) => replaceAtomically(
     _file,
     utf8.encode(
       jsonEncode({
@@ -197,10 +222,15 @@ class PhotoAnnotationStore {
       }),
     ),
     fileOps,
+    beforeRename: beforeRename,
   );
 
   /// Sets or clears one photo's details and returns everything stored.
-  /// A failed read or write is reported and leaves the sidecar in place.
+  ///
+  /// A failed read or write is reported and leaves the sidecar in place. A
+  /// sidecar from a newer version of the app is reported as not saved and
+  /// left untouched. A damaged one is moved aside only once the new details
+  /// are fully staged, and put back if they then cannot be renamed in.
   Future<Map<String, PhotoAnnotation>> update(
     String id,
     PhotoAnnotation note,
@@ -209,36 +239,62 @@ class PhotoAnnotationStore {
       throw const FormatException('Invalid photo ID.');
     }
     await ensureOwnedDirectory(directory);
-    final stored = await _parse();
-    final notes = stored ?? <String, PhotoAnnotation>{};
+    final (state, notes) = await _parse();
+    if (state == _Sidecar.newer) {
+      throw const FormatException(
+        'These photo details were saved by a newer version of the app.',
+      );
+    }
     if (note.isEmpty) {
       notes.remove(id);
     } else {
       notes[id] = note;
     }
-    if (stored == null) await _moveAside();
-    await _write(notes);
+    Future<void> Function()? restore;
+    try {
+      await _write(
+        notes,
+        beforeRename: state == _Sidecar.damaged
+            ? () async => restore = await _moveAside()
+            : null,
+      );
+    } on Object {
+      final undo = restore;
+      if (undo != null &&
+          entryType(_file.path) == FileSystemEntityType.notFound) {
+        try {
+          await undo();
+        } on Object {
+          // Keep the original error; the old file stays under its aside name.
+        }
+      }
+      rethrow;
+    }
     return notes;
   });
 
   /// Drops details for photos that no longer exist. Used after a copy is
   /// removed so deleting a photo also deletes what was written about it.
+  /// [ids] must be every photo the collection lists, not only the ones that
+  /// can be shown right now.
   ///
   /// Optional details must never stop the photos from opening, so this
-  /// never throws. If the sidecar cannot be read, nothing is written and no
-  /// details are shown this time. If writing the smaller sidecar fails (for
-  /// example on a full disk), the previous one stays intact, the result
-  /// still contains only [ids], and the next call retries the write.
+  /// never throws. If the sidecar cannot be read, is damaged or comes from a
+  /// newer version, nothing is written and no details are shown this time.
+  /// If writing the smaller sidecar fails (for example on a full disk), the
+  /// previous one stays intact, the result still contains only [ids], and
+  /// the next call retries the write.
   Future<Map<String, PhotoAnnotation>> keepOnly(Set<String> ids) =>
       _serial(() async {
         if (!_isOwnedFolder) return {};
-        final Map<String, PhotoAnnotation>? notes;
+        final _Sidecar state;
+        final Map<String, PhotoAnnotation> notes;
         try {
-          notes = await _parse();
+          (state, notes) = await _parse();
         } on Object {
           return {};
         }
-        if (notes == null) return {};
+        if (state != _Sidecar.usable) return {};
         final before = notes.length;
         notes.removeWhere((id, _) => !ids.contains(id));
         if (notes.length != before) {

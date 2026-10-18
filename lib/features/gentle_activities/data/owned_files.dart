@@ -85,17 +85,22 @@ Future<void> removeEntry(String path, StoreFileOps ops) async {
 /// it, [target] is complete. A stale staging file or a planted link at the
 /// staging name is removed first and never written through. On failure the
 /// staging file is removed and the original error is rethrown.
+///
+/// [beforeRename] runs once the new content is fully staged, just before
+/// the rename; if it fails, [target] is left as it was.
 Future<void> replaceAtomically(
   File target,
   List<int> bytes,
-  StoreFileOps ops,
-) async {
+  StoreFileOps ops, {
+  Future<void> Function()? beforeRename,
+}) async {
   final staging = File('${target.path}$stagingSuffix');
   await removeEntry(staging.path, ops);
   try {
     // Exclusive creation fails rather than following a link raced in here.
     await staging.create(exclusive: true);
     await ops.write(staging, bytes);
+    await beforeRename?.call();
     await ops.rename(staging, target.path);
   } on Object {
     try {

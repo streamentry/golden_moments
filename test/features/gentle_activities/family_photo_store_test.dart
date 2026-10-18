@@ -152,6 +152,21 @@ void main() {
     await aside.rename(copy.path);
     expect(await FamilyPhotoStore(directory).load(), updated);
   });
+  test('listed keeps every indexed photo, even one not shown now', () async {
+    final ids = await store.add([image(1), image(2)]);
+    await store.fileFor(ids.first).delete();
+    await Directory(store.fileFor(ids.first).path).create();
+    expect(await store.load(), [ids.last]);
+    expect(await store.listed(), ids);
+    // Without a manifest, it lists what load would adopt.
+    final other = await Directory.systemTemp.createTemp('golden-photo-fresh-');
+    addTearDown(() => other.delete(recursive: true));
+    final fresh = FamilyPhotoStore(other);
+    final id = sha256.convert(image(3)).toString();
+    await File('${other.path}/$id.png').writeAsBytes(image(3));
+    expect(await fresh.listed(), [id]);
+    expect(await fresh.load(), [id]);
+  });
   test('capacity counts photos whose copy is unusable for now', () async {
     final ids = await store.add(List.generate(24, image));
     await store.fileFor(ids.first).delete();

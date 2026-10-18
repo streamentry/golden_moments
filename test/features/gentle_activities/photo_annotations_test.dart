@@ -141,7 +141,7 @@ void main() {
       () async {
         await sidecar().writeAsString('first bad');
         await store.update(_a, const PhotoAnnotation(favorite: true));
-        await sidecar().writeAsString('{"version": 2, "photos": {}}');
+        await sidecar().writeAsString('{"version": 0, "photos": {}}');
         await store.update(_a, const PhotoAnnotation(caption: 'x'));
         expect(
           File('${directory.path}/annotations.json.unreadable')
@@ -151,9 +151,35 @@ void main() {
         expect(
           File('${directory.path}/annotations.json.unreadable.1')
               .readAsStringSync(),
-          contains('"version": 2'),
+          contains('"version": 0'),
         );
         expect((await store.load())[_a]!.caption, 'x');
+      },
+    );
+
+    test(
+      'details from a newer app version are never shown, moved or replaced',
+      () async {
+        // After a downgrade, the newer details must still be there when the
+        // newer version is installed again.
+        final text = jsonEncode({
+          'version': 2,
+          'photos': {
+            _a: {'caption': 'From a newer version'},
+          },
+          'albums': <Object>[],
+        });
+        await sidecar().writeAsString(text);
+        expect(await store.load(), isEmpty);
+        expect(await store.keepOnly({}), isEmpty);
+        await expectLater(
+          store.update(_a, const PhotoAnnotation(favorite: true)),
+          throwsFormatException,
+        );
+        expect(await sidecar().readAsString(), text);
+        expect(directory.listSync().map((e) => e.uri.pathSegments.last), [
+          'annotations.json',
+        ]);
       },
     );
 
