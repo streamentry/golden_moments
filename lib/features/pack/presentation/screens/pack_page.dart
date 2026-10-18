@@ -1,3 +1,5 @@
+import 'dart:math' as math;
+
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
@@ -58,17 +60,24 @@ class _PackPageState extends State<PackPage> {
             ? _EmptyState()
             : LayoutBuilder(
                 builder: (context, constraints) {
-                  final width = constraints.maxWidth - gmSpaceMd * 2;
+                  // One centered column no wider than gmContentMaxWidth;
+                  // extra width becomes margin.
+                  final width = math.min(
+                    constraints.maxWidth - gmSpaceMd * 2,
+                    gmContentMaxWidth,
+                  );
+                  final side = (constraints.maxWidth - width) / 2;
                   final columns = (width / 170).floor().clamp(1, 4);
                   final cardWidth =
                       (width - (columns - 1) * gmSpaceSm) / columns;
                   return GridView.builder(
-                    padding: const EdgeInsets.all(gmSpaceMd),
+                    padding: EdgeInsets.symmetric(
+                      horizontal: side,
+                      vertical: gmSpaceMd,
+                    ),
                     gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
                       crossAxisCount: columns,
-                      mainAxisExtent:
-                          cardWidth * 2 / 3 +
-                          140 * MediaQuery.textScalerOf(context).scale(1),
+                      mainAxisExtent: PackCard.gridExtent(context, cardWidth),
                       crossAxisSpacing: gmSpaceSm,
                       mainAxisSpacing: gmSpaceSm,
                     ),
@@ -95,7 +104,7 @@ class _EmptyState extends StatelessWidget {
   Widget build(BuildContext parentContext) {
     final theme = Theme.of(parentContext);
     return Center(
-      child: Padding(
+      child: SingleChildScrollView(
         padding: const EdgeInsets.all(gmSpaceMd),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -103,20 +112,19 @@ class _EmptyState extends StatelessWidget {
             Icon(
               Icons.extension_off,
               size: 48,
-              color: theme.colorScheme.onSurface.withAlpha(128),
+              color: theme.colorScheme.onSurfaceVariant,
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
               'No packs found',
-              style: theme.textTheme.titleMedium?.copyWith(
-                color: theme.colorScheme.onSurface.withAlpha(128),
-              ),
+              style: theme.textTheme.titleMedium,
+              textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
               'There are no packs in this category yet.',
               style: theme.textTheme.bodyMedium?.copyWith(
-                color: theme.colorScheme.onSurface.withAlpha(128),
+                color: theme.colorScheme.onSurfaceVariant,
               ),
               textAlign: TextAlign.center,
             ),

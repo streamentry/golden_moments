@@ -52,7 +52,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
       context: parentContext,
       builder: (context) {
         return AlertDialog(
-          title: const Text('Download All Packs'),
+          title: const Text('Download all packs'),
           content: notDownloadedPacks.isEmpty
               ? const Text('All packs are already downloaded.')
               : const Text('Are you sure you want to download all packs?'),
@@ -65,7 +65,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
               child: const Text('Cancel'),
             ),
             if (notDownloadedPacks.isNotEmpty)
-              TextButton(
+              FilledButton(
                 onPressed: () {
                   SoundService().playTap();
                   Navigator.of(context).pop(); // Close the dialog
@@ -73,7 +73,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
                       .read<DownloadedPacksCubit>()
                       .downloadAllPacks(); // Trigger download all logic
                 },
-                child: const Text('Accept'),
+                child: const Text('Download all'),
               ),
           ],
         );
@@ -107,9 +107,10 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
         context: parentContext,
         builder: (context) {
           return AlertDialog(
-            title: const Text('Delete Selected Packs'),
+            title: const Text('Delete selected packs'),
             content: const Text(
-              'Are you sure you want to delete the selected packs?',
+              'Delete the selected packs from this device? You can '
+              'download them again later.',
             ),
             actions: [
               TextButton(
@@ -119,7 +120,11 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
                 },
                 child: const Text('Cancel'),
               ),
-              TextButton(
+              FilledButton(
+                style: FilledButton.styleFrom(
+                  backgroundColor: Theme.of(context).colorScheme.error,
+                  foregroundColor: Theme.of(context).colorScheme.onError,
+                ),
                 onPressed: () {
                   SoundService().playTap();
                   Navigator.of(context).pop(); // Close the dialog
@@ -183,6 +188,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
                   children: [
                     IconButton(
                       icon: const Icon(Icons.close), // New icon added
+                      tooltip: 'Stop selecting',
                       onPressed: () {
                         SoundService().playTap();
                         _toggleSelectionMode();
@@ -190,6 +196,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
                     ),
                     IconButton(
                       icon: const Icon(Icons.delete),
+                      tooltip: 'Delete selected packs',
                       onPressed: _selectedPacks.isEmpty
                           ? null
                           : () {
@@ -202,6 +209,7 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
               else
                 PopupMenuButton<String>(
                   icon: const Icon(Icons.more_vert),
+                  tooltip: 'More options',
                   onSelected: (value) {
                     SoundService().playTap();
                     // Handle menu item selection
@@ -236,61 +244,71 @@ class _DownloadManagerViewState extends State<DownloadManagerView> {
             },
             child: SingleChildScrollView(
               physics: const AlwaysScrollableScrollPhysics(),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Padding(
-                    padding: const EdgeInsets.only(
-                      left: gmSpaceLg,
-                      right: gmSpaceLg,
-                      bottom: gmSpaceSm,
-                    ),
-                    child: Row(
-                      children: [
-                        DropdownButton<PackFilterOption>(
-                          value: _selectedFilter,
-                          onChanged: _isSelectionMode
-                              ? null
-                              : (value) {
-                                  if (value != null) {
-                                    setState(() {
-                                      _selectedFilter = value;
-                                    });
-                                  }
-                                },
-                          items: const [
-                            DropdownMenuItem(
-                              value: PackFilterOption.all,
-                              child: Text('All'),
+              child: Center(
+                child: ConstrainedBox(
+                  constraints: const BoxConstraints(
+                    maxWidth: gmContentMaxWidth,
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Padding(
+                        padding: const EdgeInsets.only(
+                          left: gmSpaceLg,
+                          right: gmSpaceLg,
+                          bottom: gmSpaceSm,
+                        ),
+                        child: Wrap(
+                          alignment: WrapAlignment.spaceBetween,
+                          crossAxisAlignment: WrapCrossAlignment.center,
+                          spacing: gmSpaceMd,
+                          children: [
+                            DropdownButton<PackFilterOption>(
+                              value: _selectedFilter,
+                              onChanged: _isSelectionMode
+                                  ? null
+                                  : (value) {
+                                      if (value != null) {
+                                        setState(() {
+                                          _selectedFilter = value;
+                                        });
+                                      }
+                                    },
+                              items: const [
+                                DropdownMenuItem(
+                                  value: PackFilterOption.all,
+                                  child: Text('All'),
+                                ),
+                                DropdownMenuItem(
+                                  value: PackFilterOption.downloaded,
+                                  child: Text('Downloaded'),
+                                ),
+                                DropdownMenuItem(
+                                  value: PackFilterOption.notDownloaded,
+                                  child: Text('Not downloaded'),
+                                ),
+                              ],
                             ),
-                            DropdownMenuItem(
-                              value: PackFilterOption.downloaded,
-                              child: Text('Downloaded'),
-                            ),
-                            DropdownMenuItem(
-                              value: PackFilterOption.notDownloaded,
-                              child: Text('Not Downloaded'),
-                            ),
+                            if (_isSelectionMode)
+                              Row(
+                                mainAxisSize: MainAxisSize.min,
+                                children: [
+                                  Checkbox(
+                                    value: _isSelectedAll,
+                                    onChanged: (newValue) {
+                                      _toggleSelectedAll(state.downloadedPacks);
+                                    },
+                                  ),
+                                  const Text('Select all'),
+                                ],
+                              ),
                           ],
                         ),
-                        const Spacer(),
-                        if (_isSelectionMode)
-                          Row(
-                            children: [
-                              Checkbox(
-                                value: _isSelectedAll, // a bool from your state
-                                onChanged: (newValue) {
-                                  _toggleSelectedAll(state.downloadedPacks);
-                                },
-                              ),
-                              const Text('All'),
-                            ],
-                          ),
-                      ],
-                    ),
+                      ),
+                      body,
+                    ],
                   ),
-                  body,
-                ],
+                ),
               ),
             ),
           ),
@@ -316,9 +334,10 @@ class _LoadingView extends StatelessWidget {
           const SizedBox(height: gmSpaceMd),
           Text(
             'Loading downloads...',
-            style: theme.textTheme.titleMedium?.copyWith(
-              color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
+            style: theme.textTheme.bodyLarge?.copyWith(
+              color: theme.colorScheme.onSurfaceVariant,
             ),
+            textAlign: TextAlign.center,
           ),
         ],
       ),
@@ -345,22 +364,20 @@ class _ErrorView extends StatelessWidget {
             Icon(Icons.error_outline, size: 64, color: theme.colorScheme.error),
             const SizedBox(height: gmSpaceMd),
             Text(
-              'Download Manager Error',
-              style: theme.textTheme.headlineSmall?.copyWith(
-                color: theme.colorScheme.onSurface,
-              ),
+              'Downloads could not load',
+              style: theme.textTheme.headlineSmall,
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
               'An error occurred while loading downloads.',
-              style: theme.textTheme.bodyMedium?.copyWith(
-                color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
+              style: theme.textTheme.bodyLarge?.copyWith(
+                color: theme.colorScheme.onSurfaceVariant,
               ),
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceLg),
-            GmPrimaryButton(label: 'Try Again', onTap: onRetry),
+            GmPrimaryButton(label: 'Try again', onTap: onRetry),
           ],
         ),
       ),
@@ -404,54 +421,59 @@ class _LoadedView extends StatelessWidget {
 
     return Padding(
       padding: const EdgeInsetsGeometry.symmetric(horizontal: gmSpaceSm),
-      child: GridView.builder(
-        shrinkWrap: true,
-        physics: const NeverScrollableScrollPhysics(),
-        gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-          crossAxisCount: 2,
-          childAspectRatio: 0.7,
-          crossAxisSpacing: gmSpaceSm,
-          mainAxisSpacing: gmSpaceSm,
-        ),
-        itemCount: packs.length,
-        itemBuilder: (context, index) {
-          final pack = packs[index];
-          return GestureDetector(
-            key: ValueKey(pack.id),
-            onTap: () {
-              SoundService().playTap();
-              if (isSelectionMode) {
-                final isSelected = selectedPacks.contains(pack);
-                onPackSelected(pack, isSelected: !isSelected);
-              }
-            },
-            onLongPress: () {
-              if (!isSelectionMode &&
-                  packFilterOption == PackFilterOption.downloaded) {
-                final isSelected = selectedPacks.contains(pack);
-                onPackSelected(pack, isSelected: !isSelected);
-                onLongPress();
-              }
-            },
-            child: AbsorbPointer(
-              absorbing: isSelectionMode,
-              child: Stack(
-                children: [
-                  PackCard(pack: pack),
-                  // Selection checkbox
-                  if (isSelectionMode)
-                    Positioned(
-                      top: 0,
-                      left: 0,
-                      child: Checkbox(
-                        checkColor: Colors.green,
-                        value: selectedPacks.contains(pack),
-                        onChanged: null,
-                      ),
-                    ),
-                ],
-              ),
+      child: LayoutBuilder(
+        builder: (context, constraints) {
+          final cardWidth = (constraints.maxWidth - gmSpaceSm) / 2;
+          return GridView.builder(
+            shrinkWrap: true,
+            physics: const NeverScrollableScrollPhysics(),
+            gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+              crossAxisCount: 2,
+              // Grows with the text size instead of a fixed aspect ratio.
+              mainAxisExtent: PackCard.gridExtent(context, cardWidth),
+              crossAxisSpacing: gmSpaceSm,
+              mainAxisSpacing: gmSpaceSm,
             ),
+            itemCount: packs.length,
+            itemBuilder: (context, index) {
+              final pack = packs[index];
+              return GestureDetector(
+                key: ValueKey(pack.id),
+                onTap: () {
+                  SoundService().playTap();
+                  if (isSelectionMode) {
+                    final isSelected = selectedPacks.contains(pack);
+                    onPackSelected(pack, isSelected: !isSelected);
+                  }
+                },
+                onLongPress: () {
+                  if (!isSelectionMode &&
+                      packFilterOption == PackFilterOption.downloaded) {
+                    final isSelected = selectedPacks.contains(pack);
+                    onPackSelected(pack, isSelected: !isSelected);
+                    onLongPress();
+                  }
+                },
+                child: AbsorbPointer(
+                  absorbing: isSelectionMode,
+                  child: Stack(
+                    children: [
+                      PackCard(pack: pack),
+                      // Selection checkbox
+                      if (isSelectionMode)
+                        Positioned(
+                          top: 0,
+                          left: 0,
+                          child: Checkbox(
+                            value: selectedPacks.contains(pack),
+                            onChanged: null,
+                          ),
+                        ),
+                    ],
+                  ),
+                ),
+              );
+            },
           );
         },
       ),
@@ -476,20 +498,19 @@ class _EmptyView extends StatelessWidget {
             Icon(
               Icons.download_done,
               size: 64,
-              color: theme.colorScheme.outline,
+              color: theme.colorScheme.onSurfaceVariant,
             ),
             const SizedBox(height: gmSpaceMd),
             Text(
-              'No Packs',
-              style: theme.textTheme.headlineSmall?.copyWith(
-                color: theme.colorScheme.onSurface,
-              ),
+              'No packs',
+              style: theme.textTheme.headlineSmall,
+              textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
               'Download some packs or update to new version to see them here',
-              style: theme.textTheme.bodyMedium?.copyWith(
-                color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
+              style: theme.textTheme.bodyLarge?.copyWith(
+                color: theme.colorScheme.onSurfaceVariant,
               ),
               textAlign: TextAlign.center,
             ),

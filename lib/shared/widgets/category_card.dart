@@ -54,24 +54,27 @@ class CategoryCard extends StatelessWidget {
   }
 
   Widget _buildLayout(ThemeData theme) {
-    return SizedBox(
-      height: 100,
+    // A minimum height, not a fixed one, so the text can wrap at 200%.
+    return ConstrainedBox(
+      constraints: const BoxConstraints(minHeight: 100),
       child: Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           // Image placeholder
           Container(
             width: 100,
-            decoration: BoxDecoration(
-              color: theme.colorScheme.primaryContainer,
-              borderRadius: const BorderRadius.horizontal(
-                left: Radius.circular(gmRadiusMd),
-              ),
-            ),
+            height: 100,
+            color: gmSurf200,
             child: Stack(
               children: [
                 Center(
                   child: Image.asset(
                     category.iconUrl,
+                    errorBuilder: (context, error, stackTrace) => Icon(
+                      Icons.photo_outlined,
+                      size: 40,
+                      color: theme.colorScheme.onSurfaceVariant,
+                    ),
                     fit: BoxFit.cover,
                     width: 100,
                     height: 100,
@@ -113,6 +116,7 @@ class CategoryCard extends StatelessWidget {
                           style: theme.textTheme.titleMedium?.copyWith(
                             fontWeight: FontWeight.bold,
                           ),
+                          maxLines: 2,
                           overflow: TextOverflow.ellipsis,
                         ),
                       ),
@@ -122,7 +126,7 @@ class CategoryCard extends StatelessWidget {
                   Text(
                     category.description,
                     style: theme.textTheme.bodySmall?.copyWith(
-                      color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
+                      color: theme.colorScheme.onSurfaceVariant,
                     ),
                   ),
                 ],
@@ -140,16 +144,18 @@ class CategoryCard extends StatelessWidget {
     if (showDailyBadge) {
       badges.add(
         Container(
-          padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+          padding: const EdgeInsets.symmetric(
+            horizontal: gmSpaceSm,
+            vertical: 2,
+          ),
           decoration: BoxDecoration(
             color: theme.colorScheme.secondary,
-            borderRadius: BorderRadius.circular(8),
+            borderRadius: BorderRadius.circular(gmRadiusMd),
           ),
           child: Text(
-            'DAILY',
+            'Daily',
             style: theme.textTheme.labelSmall?.copyWith(
               color: theme.colorScheme.onSecondary,
-              fontWeight: FontWeight.bold,
             ),
           ),
         ),
@@ -159,16 +165,18 @@ class CategoryCard extends StatelessWidget {
     if (showPremiumBadge) {
       badges.add(
         Container(
-          padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+          padding: const EdgeInsets.symmetric(
+            horizontal: gmSpaceSm,
+            vertical: 2,
+          ),
           decoration: BoxDecoration(
             color: theme.colorScheme.tertiary,
-            borderRadius: BorderRadius.circular(8),
+            borderRadius: BorderRadius.circular(gmRadiusMd),
           ),
           child: Text(
-            'PREMIUM',
+            'Premium',
             style: theme.textTheme.labelSmall?.copyWith(
               color: theme.colorScheme.onTertiary,
-              fontWeight: FontWeight.bold,
             ),
           ),
         ),
@@ -182,7 +190,7 @@ class CategoryCard extends StatelessWidget {
       children: badges
           .map(
             (badge) => Padding(
-              padding: const EdgeInsets.only(bottom: 4),
+              padding: const EdgeInsets.only(bottom: gmSpaceXs),
               child: badge,
             ),
           )

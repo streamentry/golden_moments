@@ -129,7 +129,7 @@ class _CachedImageWidgetState extends State<CachedImageWidget> {
     return Container(
       width: widget.width,
       height: widget.height,
-      color: theme.colorScheme.primaryContainer.withValues(alpha: 0.3),
+      color: gmSurf200,
       child: widget.showLoadingIndicator
           ? Center(
               child: SizedBox(
@@ -157,23 +157,23 @@ class _CachedImageWidgetState extends State<CachedImageWidget> {
     return Container(
       width: widget.width,
       height: widget.height,
-      color: theme.colorScheme.errorContainer.withValues(alpha: 0.3),
+      // A missing picture is calm, not alarming: Oat well, Walnut outline
+      // icon (DESIGN.md › Empty and error states).
+      color: gmSurf200,
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Icon(
-            Icons.broken_image,
+            Icons.broken_image_outlined,
             size: 32,
-            color: theme.colorScheme.onErrorContainer.withValues(alpha: 0.7),
+            color: theme.colorScheme.onSurfaceVariant,
           ),
           if (_errorMessage != null) ...[
             const SizedBox(height: gmSpaceSm),
             Text(
               'Image failed to load',
               style: theme.textTheme.bodySmall?.copyWith(
-                color: theme.colorScheme.onErrorContainer.withValues(
-                  alpha: 0.7,
-                ),
+                color: theme.colorScheme.onSurfaceVariant,
               ),
               textAlign: TextAlign.center,
             ),
@@ -309,7 +309,7 @@ class CachedImageGrid extends StatelessWidget {
           onTap: onImageTap != null ? () => onImageTap!(imageUrl, index) : null,
           child: CachedImageWidget(
             imageUrl: imageUrl,
-            borderRadius: BorderRadius.circular(gmRadiusMd),
+            borderRadius: BorderRadius.circular(gmRadiusLg),
           ),
         );
       },
@@ -348,7 +348,7 @@ class CachedImageCarousel extends StatelessWidget {
                   : null,
               child: CachedImageWidget(
                 imageUrl: imageUrl,
-                borderRadius: BorderRadius.circular(gmRadiusMd),
+                borderRadius: BorderRadius.circular(gmRadiusLg),
               ),
             ),
           );

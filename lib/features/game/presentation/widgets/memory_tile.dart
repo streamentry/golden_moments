@@ -19,15 +19,13 @@ class MemoryTile extends StatelessWidget {
   Widget build(BuildContext parentContext) {
     final revealed = tile.isRevealed || tile.isMatched;
     Widget buildTile(ImageProvider provider) => Semantics(
-      label: tile.isMatched
-          ? 'Matched: ${tile.image.caption}'
-          : revealed
-          ? tile.image.caption
-          : 'Hidden tile',
+      label: revealed ? tile.image.caption : 'Hidden picture',
+      value: tile.isMatched ? 'Matched' : '',
       button: true,
       enabled: !revealed,
       child: GmMemoryTile(
-        revealed: tile.isRevealed || tile.isMatched,
+        revealed: revealed,
+        matched: tile.isMatched,
         image: provider,
         onTap: onTap,
       ),
