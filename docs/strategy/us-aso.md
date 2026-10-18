@@ -61,3 +61,11 @@ Stop release for medical misunderstanding, destructive imports, unexpected data 
 Start without implementing a paywall in this change. A later one-time unlock can be tested for additional collections/features; the previously discussed $6.99 is only a hypothesis. Do not charge a subscription without recurring value or place restore/purchase burdens in the activity flow.
 
 References: [Apple search](https://developer.apple.com/app-store/search/), [product pages](https://developer.apple.com/app-store/product-page/), [PPO](https://developer.apple.com/help/app-store-connect/create-product-page-optimization-tests/overview-of-product-page-optimization), [Apple review](https://developer.apple.com/app-store/review/guidelines/). These support platform practices, not demand forecasts or legal immunity.
+
+## October 18 release handoff
+
+Retain the chosen 30-character name and caregiver positioning. Correct the offline description to match all eight bundled packs. Use `metadata/google-play.en-US.json` for the Play draft (30-character name, 80-character short description, 4,000-character description). US-English drafts do not replace translations that have not been reviewed. Both stores link to the same GitHub Pages marketing, help, privacy and terms pages.
+
+Rechecked official platform sources on October 18, 2026: [Apple product page](https://developer.apple.com/app-store/product-page/), [Apple metadata](https://developer.apple.com/help/app-store-connect/reference/app-information/app-information/), [Google listing limits](https://support.google.com/googleplay/android-developer/answer/9859152), [Google metadata policy](https://support.google.com/googleplay/android-developer/answer/9898842). Keep descriptive audience context and no ranking, pricing, clinical or cognitive-benefit promises.
+
+The Android upload-key reset was submitted and remains pending at the latest store verification. The previous signed iOS IPA was built from 2aecea2 and is superseded as a release candidate by latest main; build and verify the new head before uploading. Public website copy continues to label 1.3.0 personal-photo functionality as upcoming until store release readback confirms availability.
