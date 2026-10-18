@@ -22,6 +22,8 @@ PR #44 was independently merged while checks were running. That merge is not rel
 
 ## Next in order
 
+0. Run the device and human scenarios in [docs/release/device-acceptance.md](docs/release/device-acceptance.md) and record evidence per its format.
+
 1. Record full strict CI for the bundled catalog without hiding spelling or coverage failures. The formatter cleanup is retained and the temporary helper is removed.
 2. Complete device, offline, failure, rotation and accessibility checks in `docs/release/1.3.0.md`.
 3. Test screenshot comprehension with five target caregivers, then capture the actual passing build.
@@ -42,7 +44,7 @@ Execution status remains here and in release evidence. The feature catalog is a 
 
 ### Senior-first execution tally
 
-All 40 catalog IDs have an entry in `release-status.json` › `senior_first_features` (enforced by `tests/test_senior_status.py`). Current tally: 4 deferred, 8 implemented unverified, 9 not started, 19 partial. Nothing is `verified`: no native device, VoiceOver/TalkBack, upgrade, traffic-capture or human-pilot evidence exists, and every release gate in that file is still pending. R2 items wait on pilot evidence; R3 items are deferred and not authorized.
+All 40 catalog IDs have an entry in `release-status.json` › `senior_first_features` (enforced by `tests/test_senior_status.py`). Current tally: 4 deferred, 8 implemented unverified, 8 not started, 20 partial. Nothing is `verified`: no native device, VoiceOver/TalkBack, upgrade, traffic-capture or human-pilot evidence exists, and every release gate in that file is still pending. R2 items wait on pilot evidence; R3 items are deferred and not authorized.
 
 ## Deferred
 

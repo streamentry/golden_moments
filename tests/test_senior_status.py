@@ -1,5 +1,6 @@
 """Every senior-first feature has an honest, evidence-backed status."""
 import json
+import re
 import unittest
 from pathlib import Path
 
@@ -55,6 +56,16 @@ class SeniorStatusTests(unittest.TestCase):
             if result['status'] == 'passed':
                 with self.subTest(gate=gate):
                     self.assertTrue(result['evidence'])
+
+    def test_device_acceptance_checklist_covers_every_feature(self):
+        text = (ROOT / 'docs/release/device-acceptance.md').read_text(
+            encoding='utf-8')
+        # Expand ranges such as "GM-012 to 017" and plain mentions.
+        mentioned = set(re.findall(r'GM-\d{3}', text))
+        for first, last in re.findall(r'GM-(\d{3}) to (\d{3})', text):
+            mentioned |= {f'GM-{n:03d}' for n in range(int(first), int(last) + 1)}
+        ids = {feature['id'] for feature in CATALOG['features']}
+        self.assertEqual(sorted(ids - mentioned), [])
 
 
 if __name__ == '__main__':

@@ -386,8 +386,12 @@
         "scope": "Needs human participants, consent and a comparative protocol; cannot be performed by this build process."
       },
       "GM-040": {
-        "status": "not_started",
-        "scope": "Needs the physical device matrix and signed builds; no device verification has been performed."
+        "status": "partial",
+        "scope": "Traceable acceptance procedure written: step-by-step device, accessibility, privacy, performance, support, rights and screenshot scenarios with expected results, a record format, and a traceability table covering all 40 feature ids (enforced by test). Automated layers run in CI. No device, native, accessibility-tool or human-study run has been performed, so no device_evidence exists and no feature is verified.",
+        "evidence": [
+          "docs/release/device-acceptance.md",
+          "tests/test_senior_status.py"
+        ]
       }
     }
   }
