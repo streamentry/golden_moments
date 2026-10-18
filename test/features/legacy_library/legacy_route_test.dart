@@ -107,6 +107,34 @@ void main() {
       expect(opened, 1);
     });
 
+    testWidgets('a category card is one button for a screen reader', (
+      tester,
+    ) async {
+      final handle = tester.ensureSemantics();
+      await tester.pumpWidget(
+        legacyApp(
+          Scaffold(
+            body: CategoryCard(
+              category: const Category(
+                id: 'nature',
+                name: 'Nature',
+                description: 'Hills and rivers',
+                iconUrl: 'assets/missing.png',
+                packCount: 1,
+              ),
+              onTap: () {},
+            ),
+          ),
+        ),
+      );
+      final buttons = find.semantics.byPredicate(
+        (node) =>
+            node.flagsCollection.isButton && node.label.contains('Nature'),
+      );
+      expect(buttons, findsOne);
+      handle.dispose();
+    });
+
     testWidgets('a tile turns over instantly on the board', (tester) async {
       final pack = await bundledPack(tester, 'nature_mountains');
       final handle = tester.ensureSemantics();

@@ -10,6 +10,10 @@ fs.mkdirSync(output, { recursive: true });
 const results = [];
 const errors = [];
 const externalRequests = [];
+// Hidden tiles are announced by position only (GM-014): 'Hidden picture, tile 3'.
+const HIDDEN = /^Hidden picture, tile \d+/;
+// A shown tile is '<picture>, tile N'; compare pictures without the position.
+const picture = name => name.replace(/, tile \d+.*$/, '');
 let browser;
 let page;
 async function shot(name) {
@@ -95,12 +99,12 @@ async function eventually(read, expected) {
   });
   await check('bundled pack opens a playable game', async () => {
     await page.getByRole('button', { name: /^Daily / }).first().click();
-    await page.getByRole('button', { name: 'Hidden picture', exact: true }).first().waitFor();
+    await page.getByRole('button', { name: HIDDEN }).first().waitFor();
     assert.equal(await page.getByText('This pack could not open', { exact: true }).count(), 0);
     await shot('game-mobile');
   });
   await check('tile reveals, pause/resume, and replay work', async () => {
-    const hidden = page.getByRole('button', { name: 'Hidden picture', exact: true });
+    const hidden = page.getByRole('button', { name: HIDDEN });
     const count = await hidden.count();
     await hidden.first().click();
     await page.waitForTimeout(500);
@@ -116,7 +120,7 @@ async function eventually(read, expected) {
   });
   await check('gameplay never needs an external image request', async () => {
 
-    const hidden = page.getByRole('button', { name: 'Hidden picture', exact: true });
+    const hidden = page.getByRole('button', { name: HIDDEN });
     const count = await hidden.count();
     await hidden.first().click();
     await eventually(() => hidden.count(), count - 1);
@@ -141,7 +145,7 @@ async function eventually(read, expected) {
   await check('full game completes and can be played again', async () => {
     await page.getByRole('button', { name: /^Animals Cute/ }).click();
     await page.getByRole('button', { name: /Farm Animals/ }).click();
-    await page.getByRole('button', { name: 'Hidden picture', exact: true }).first().waitFor();
+    await page.getByRole('button', { name: HIDDEN }).first().waitFor();
     const tiles = page.getByRole('group').getByRole('button');
     const count = await tiles.count();
     const known = new Map();
@@ -151,8 +155,8 @@ async function eventually(read, expected) {
       await tiles.nth(index).click();
       await page.waitForTimeout(120);
       const snapshot = await tiles.nth(index).ariaSnapshot();
-      const name = JSON.parse(snapshot.match(/"(?:[^"\\]|\\.)*"/)[0]);
-      assert.notEqual(name, 'Hidden picture');
+      const name = picture(JSON.parse(snapshot.match(/"(?:[^"\\]|\\.)*"/)[0]));
+      assert(!name.startsWith('Hidden picture'), name);
       known.set(index, name);
       return name;
     }
@@ -172,10 +176,9 @@ async function eventually(read, expected) {
       // The final match opens a modal, removing the board's semantics.
       const secondName = matched.size === count - 2
         ? (await tiles.nth(second).click(), firstName) : await flip(second);
-      if ([firstName, `Matched: ${firstName}`, `${firstName} Matched`].includes(secondName)) {
+      // A mismatch stays face up until the next tap; nothing turns back on a timer.
+      if (secondName === firstName) {
         matched.add(first); matched.add(second);
-      } else {
-        await page.waitForTimeout(1600);
       }
     }
     assert.equal(matched.size, count);
@@ -184,7 +187,7 @@ async function eventually(read, expected) {
     assert.equal(await page.getByText(/Another family might enjoy them too/).count(), 0);
     await shot('game-completed');
     await page.getByRole('button', { name: 'Play again', exact: true }).first().click();
-    await page.getByRole('button', { name: 'Hidden picture', exact: true }).first().waitFor();
+    await page.getByRole('button', { name: HIDDEN }).first().waitFor();
     await shot('play-again');
   });
   assert.deepEqual(errors, [], 'Unhandled browser errors');

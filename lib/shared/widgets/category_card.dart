@@ -30,27 +30,26 @@ class CategoryCard extends StatelessWidget {
 
     // The whole card is one button. It opens at once: no artificial delay
     // for the ripple, so Reduce Motion users never wait (GM-015).
-    return Semantics(
-      button: true,
-      child: Card(
-        clipBehavior: Clip.antiAlias,
-        child: Pressable(
-          onPressed: () {
-            if (onTap != null) {
-              onTap?.call();
-              return;
-            }
-            Navigator.of(parentContext).push(
-              MaterialPageRoute<void>(
-                builder: (context) => PackPage(
-                  categoryName: category.name,
-                  categoryId: category.id,
-                ),
+    return Card(
+      clipBehavior: Clip.antiAlias,
+      child: Pressable(
+        onPressed: () {
+          if (onTap != null) {
+            onTap?.call();
+            return;
+          }
+          Navigator.of(parentContext).push(
+            MaterialPageRoute<void>(
+              builder: (context) => PackPage(
+                categoryName: category.name,
+                categoryId: category.id,
               ),
-            );
-          },
-          child: _buildLayout(theme),
-        ),
+            ),
+          );
+        },
+        // The button role annotates the tappable surface's own node, so a
+        // screen reader finds one labelled button, not two (GM-014).
+        child: Semantics(button: true, child: _buildLayout(theme)),
       ),
     );
   }
