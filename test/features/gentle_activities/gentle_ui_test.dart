@@ -133,6 +133,34 @@ void main() {
     expect(_tiles, findsNWidgets(4));
   });
 
+  testWidgets('rotating mid-turn keeps the board and the choice (GM-016)', (
+    tester,
+  ) async {
+    await _size(tester, const Size(390, 844));
+    await tester.pumpWidget(_app());
+    await tester.pumpAndSettle();
+    List<String> labels() => [
+      for (final e in _tiles.evaluate())
+        tester.getSemantics(find.byWidget(e.widget)).label,
+    ];
+    final before = labels();
+    await tester.tap(_tiles.first);
+    await tester.pumpAndSettle();
+    expect(tester.getSemantics(_tiles.first).value, 'Selected');
+
+    // Landscape, then back: same pictures in the same places, still chosen.
+    await tester.binding.setSurfaceSize(const Size(844, 390));
+    await tester.pumpAndSettle();
+    expect(labels(), before);
+    expect(tester.getSemantics(_tiles.first).value, 'Selected');
+    expect(find.text('Done for now').hitTestable(), findsOneWidget);
+    await tester.binding.setSurfaceSize(const Size(390, 844));
+    await tester.pumpAndSettle();
+    expect(labels(), before);
+    expect(tester.getSemantics(_tiles.first).value, 'Selected');
+    expect(tester.takeException(), isNull);
+  });
+
   testWidgets('board first: four large tiles and a visible exit, no settings', (
     tester,
   ) async {

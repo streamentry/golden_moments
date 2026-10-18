@@ -197,6 +197,24 @@ void main() {
     expect(find.textContaining('You can show it again'), findsOneWidget);
   });
 
+  testWidgets('rotating keeps the picture and the chosen options', (
+    tester,
+  ) async {
+    await _open(tester, _pictures);
+    await _tap(tester, 'Next');
+    await _toggle(tester, 'Show a conversation prompt');
+    expect(find.text('What catches your eye?'), findsOneWidget);
+    await tester.binding.setSurfaceSize(const Size(1800, 600));
+    await tester.pumpAndSettle();
+    expect(find.text('Picture 2 of 3'), findsOneWidget);
+    expect(find.text('Done for now').hitTestable(), findsOneWidget);
+    await tester.binding.setSurfaceSize(const Size(600, 1800));
+    await tester.pumpAndSettle();
+    expect(find.text('Picture 2 of 3'), findsOneWidget);
+    expect(find.text('What catches your eye?'), findsOneWidget);
+    expect(tester.takeException(), isNull);
+  });
+
   testWidgets('Done for now leaves at once', (tester) async {
     await _open(tester, _pictures);
     await _tap(tester, 'Done for now');
