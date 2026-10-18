@@ -5,6 +5,7 @@ import 'package:golden_moments/data/services/download_manager.dart';
 import 'package:golden_moments/data/services/http_client_service.dart';
 import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
+import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
@@ -57,7 +58,12 @@ class _GentleHomePageState extends State<GentleHomePage> {
       isScrollControlled: true,
       builder: (context) => SafeArea(
         child: SingleChildScrollView(
-          padding: const EdgeInsets.all(24),
+          padding: const EdgeInsets.fromLTRB(
+            gmSpaceLg,
+            0,
+            gmSpaceLg,
+            gmSpaceLg,
+          ),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             mainAxisSize: MainAxisSize.min,
@@ -78,7 +84,7 @@ class _GentleHomePageState extends State<GentleHomePage> {
               const Text(
                 'Family-photo copies are stored on this device and may be included in device backups. The app does not upload these copies or sync them between relatives. The optional picture library needs internet for downloads.',
               ),
-              const SizedBox(height: 16),
+              const SizedBox(height: gmSpaceLg),
               FilledButton(
                 onPressed: () => Navigator.pop(context),
                 child: const Text('Close'),
@@ -92,6 +98,8 @@ class _GentleHomePageState extends State<GentleHomePage> {
 
   @override
   Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    const heroSize = Size.fromHeight(gmTargetHero);
     return Scaffold(
       appBar: AppBar(
         title: const Text('Golden Moments'),
@@ -106,66 +114,69 @@ class _GentleHomePageState extends State<GentleHomePage> {
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(
-            constraints: const BoxConstraints(maxWidth: 720),
+            constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
             child: ListView(
-              padding: const EdgeInsets.all(24),
+              padding: const EdgeInsets.all(gmSpaceLg),
               children: [
                 Text(
                   'Simple activities to enjoy together',
-                  style: Theme.of(context).textTheme.headlineMedium,
+                  style: theme.textTheme.headlineMedium,
                 ),
-                const SizedBox(height: 12),
-                const Text(
+                const SizedBox(height: gmSpaceMd),
+                Text(
                   'Start with four large tiles. No timers, scores, or rush.',
-                  style: TextStyle(fontSize: 20),
+                  style: theme.textTheme.bodyLarge,
                 ),
-                const SizedBox(height: 28),
+                const SizedBox(height: gmSpaceXl),
                 FilledButton.icon(
-                  style: FilledButton.styleFrom(
-                    minimumSize: const Size.fromHeight(64),
-                  ),
+                  style: FilledButton.styleFrom(minimumSize: heroSize),
                   onPressed: () => _open(
                     const GentleGamePage(pictures: ActivityPicture.samples),
                   ),
                   icon: const Icon(Icons.grid_view),
                   label: const Text('Start a gentle game'),
                 ),
-                const SizedBox(height: 16),
+                const SizedBox(height: gmSpaceMd),
                 OutlinedButton.icon(
-                  style: OutlinedButton.styleFrom(
-                    minimumSize: const Size.fromHeight(64),
-                  ),
+                  style: OutlinedButton.styleFrom(minimumSize: heroSize),
                   onPressed: () => _open(const PhotoCollectionPage()),
                   icon: const Icon(Icons.photo_library_outlined),
                   label: const Text('Your family photos'),
                 ),
-                const SizedBox(height: 16),
+                const SizedBox(height: gmSpaceMd),
                 OutlinedButton.icon(
-                  style: OutlinedButton.styleFrom(
-                    minimumSize: const Size.fromHeight(64),
-                  ),
+                  style: OutlinedButton.styleFrom(minimumSize: heroSize),
                   onPressed: () => _open(
                     const PhotoTogetherPage(pictures: ActivityPicture.samples),
                   ),
                   icon: const Icon(Icons.chat_bubble_outline),
                   label: const Text('Look together'),
                 ),
-                const SizedBox(height: 28),
-                const Text(
-                  'The starter illustrations work without Wi-Fi. Selected family photos work offline after they are copied to this device.',
+                const SizedBox(height: gmSpaceXl),
+                Text(
+                  'The starter illustrations work without Wi-Fi. Selected '
+                  'family photos work offline after they are copied to this '
+                  'device.',
+                  style: theme.textTheme.bodyMedium?.copyWith(
+                    color: theme.colorScheme.onSurfaceVariant,
+                  ),
                 ),
-                const SizedBox(height: 20),
-                TextButton(
+                const SizedBox(height: gmSpaceLg),
+                TextButton.icon(
                   onPressed: _openingLibrary ? null : _openLibrary,
-                  child: Text(
+                  icon: const Icon(Icons.collections_bookmark_outlined),
+                  label: Text(
                     _openingLibrary
                         ? 'Opening library...'
                         : 'Explore the picture-pack library',
                   ),
                 ),
-                const Text(
+                Text(
                   'Optional downloads. Existing packs remain available.',
                   textAlign: TextAlign.center,
+                  style: theme.textTheme.bodyMedium?.copyWith(
+                    color: theme.colorScheme.onSurfaceVariant,
+                  ),
                 ),
               ],
             ),

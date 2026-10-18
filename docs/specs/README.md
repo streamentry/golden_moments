@@ -10,7 +10,7 @@ Read [product](product.md), [offline photos](offline-photos.md), [safety/accessi
 | Family photos | data/family_photo_store.dart; data/photo_importer.dart; presentation/photo_collection_page.dart | Filesystem tests, native picker/storage/upgrade tests |
 | Shared viewing | presentation/photo_together_page.dart | Navigation and caregiver review |
 | Offline starter | presentation/gentle_home_page.dart; lib/bootstrap.dart | Fresh airplane-mode install, no cached content |
-| Accessible layout | Presentation files; DESIGN.md | Screen readers, large text, contrast, rotation |
+| Accessible layout | DESIGN.md; lib/design_system.dart; test/design_system_test.dart | Automated contrast/target/200% text tests, plus screen readers, rotation and contrast on devices |
 | Legacy library | Explicit home action | Existing packs and downloads preserved |
 
 No sync or clinical functionality is implied. Release gates stay pending until evidence exists.

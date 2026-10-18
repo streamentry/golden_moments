@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
 
@@ -22,6 +23,7 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
 
   @override
   Widget build(BuildContext context) {
+    final textTheme = Theme.of(context).textTheme;
     if (widget.pictures.isEmpty) {
       return Scaffold(
         appBar: AppBar(title: const Text('Look together')),
@@ -31,62 +33,86 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
     return Scaffold(
       appBar: AppBar(title: const Text('Look together')),
       body: SafeArea(
-        child: ListView(
-          padding: const EdgeInsets.all(20),
-          children: [
-            Semantics(
-              label: widget.pictures[_index].label,
-              child: AspectRatio(
-                aspectRatio: 1,
-                child: PictureView(
-                  picture: widget.pictures[_index],
-                ),
-              ),
-            ),
-            const SizedBox(height: 16),
-            Text(
-              'Picture ${_index + 1} of ${widget.pictures.length}',
-              textAlign: TextAlign.center,
-              style: const TextStyle(fontSize: 20),
-            ),
-            const SizedBox(height: 12),
-            Wrap(
-              alignment: WrapAlignment.center,
-              spacing: 16,
-              runSpacing: 8,
+        child: Center(
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
+            child: ListView(
+              padding: const EdgeInsets.all(gmSpaceLg),
               children: [
-                OutlinedButton.icon(
-                  onPressed: _index == 0
-                      ? null
-                      : () => setState(() => _index--),
-                  icon: const Icon(Icons.arrow_back),
-                  label: const Text('Previous'),
+                Semantics(
+                  label: widget.pictures[_index].label,
+                  child: AspectRatio(
+                    aspectRatio: 1,
+                    child: DecoratedBox(
+                      decoration: ShapeDecoration(
+                        color: Theme.of(context).colorScheme.surface,
+                        shape: gmTileShape(Theme.of(context).colorScheme),
+                      ),
+                      child: Padding(
+                        padding: const EdgeInsets.all(gmSpaceSm),
+                        child: PictureView(picture: widget.pictures[_index]),
+                      ),
+                    ),
+                  ),
                 ),
-                FilledButton.icon(
-                  onPressed: _index == widget.pictures.length - 1
-                      ? null
-                      : () => setState(() => _index++),
-                  icon: const Icon(Icons.arrow_forward),
-                  label: const Text('Next'),
+                const SizedBox(height: gmSpaceMd),
+                Text(
+                  'Picture ${_index + 1} of ${widget.pictures.length}',
+                  textAlign: TextAlign.center,
+                  style: textTheme.bodyLarge,
+                ),
+                const SizedBox(height: gmSpaceMd),
+                Wrap(
+                  alignment: WrapAlignment.center,
+                  spacing: gmSpaceMd,
+                  runSpacing: gmSpaceSm,
+                  children: [
+                    OutlinedButton.icon(
+                      onPressed: _index == 0
+                          ? null
+                          : () => setState(() => _index--),
+                      icon: const Icon(Icons.arrow_back),
+                      label: const Text('Previous'),
+                    ),
+                    FilledButton.icon(
+                      onPressed: _index == widget.pictures.length - 1
+                          ? null
+                          : () => setState(() => _index++),
+                      icon: const Icon(Icons.arrow_forward),
+                      label: const Text('Next'),
+                    ),
+                  ],
+                ),
+                SwitchListTile(
+                  contentPadding: EdgeInsets.zero,
+                  title: const Text('Show a conversation prompt'),
+                  value: _showPrompt,
+                  onChanged: (value) => setState(() => _showPrompt = value),
+                ),
+                if (_showPrompt)
+                  Semantics(
+                    liveRegion: true,
+                    child: Text(
+                      _prompts[_index % _prompts.length],
+                      style: textTheme.headlineSmall,
+                    ),
+                  ),
+                const SizedBox(height: gmSpaceMd),
+                Text(
+                  'Just looking is enough. There is no need to remember a name '
+                  'or answer a question.',
+                  style: textTheme.bodyMedium?.copyWith(
+                    color: Theme.of(context).colorScheme.onSurfaceVariant,
+                  ),
+                ),
+                const SizedBox(height: gmSpaceSm),
+                TextButton(
+                  onPressed: () => Navigator.of(context).pop(),
+                  child: const Text('Done for now'),
                 ),
               ],
             ),
-            SwitchListTile(
-              contentPadding: EdgeInsets.zero,
-              title: const Text('Show a conversation prompt'),
-              value: _showPrompt,
-              onChanged: (value) => setState(() => _showPrompt = value),
-            ),
-            if (_showPrompt)
-              Text(
-                _prompts[_index % _prompts.length],
-                style: const TextStyle(fontSize: 22),
-              ),
-            const SizedBox(height: 12),
-            const Text(
-              'Just looking is enough. There is no need to remember a name or answer a question.',
-            ),
-          ],
+          ),
         ),
       ),
     );

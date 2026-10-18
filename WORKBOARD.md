@@ -12,6 +12,7 @@ Updated 2026-10-18. Scope: US English, local-first Golden Moments 1.3.0 candidat
 | Explicit legacy library instead of launch downloads | Implemented; regression checks pending |
 | Analytics deactivation and crash-reporting defaults | Configured; native privacy audit pending |
 | Product, architecture, safety and ASO specs | Documented |
+| DESIGN.md design system applied app-wide (contrast-safe gold, 16px text floor, calm legacy game) | Implemented; automated contrast/target/text-scale tests; device review pending |
 
 ## Next in order
 
@@ -20,6 +21,8 @@ Updated 2026-10-18. Scope: US English, local-first Golden Moments 1.3.0 candidat
 3. Test screenshot comprehension with five target caregivers, then capture the real passing build.
 4. Measure US App Store activity/game queries using the keyword worksheet; unknown demand remains unknown.
 5. Review privacy, advertising declarations, age rating, language availability and disease positioning before manual submission.
+
+Design follow-ups: the legacy library game still flips mismatched tiles back after a delay and hides hints after one second (`GameCubit`); move both to the next deliberate tap with tests. Its share link points to Google Play on every platform. Define and verify dark-mode tokens before shipping a dark theme.
 
 ## Deferred
 

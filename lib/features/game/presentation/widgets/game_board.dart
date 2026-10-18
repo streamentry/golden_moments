@@ -23,15 +23,22 @@ class GameBoard extends StatelessWidget {
   Widget build(BuildContext parentContext) {
     return LayoutBuilder(
       builder: (context, constraints) {
-        final crossAxisCount = _getCrossAxisCount(difficulty);
+        // Tiles never shrink below gmTileMin; denser packs scroll instead.
+        final fitting =
+            ((constraints.maxWidth + gmTileGap) / (gmTileMin + gmTileGap))
+                .floor();
+        final crossAxisCount = fitting.clamp(
+          2,
+          _getCrossAxisCount(difficulty),
+        );
         final aspectRatio = _getAspectRatio(difficulty);
 
         return GridView.builder(
           gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
             crossAxisCount: crossAxisCount,
             childAspectRatio: aspectRatio,
-            crossAxisSpacing: gmSpaceSm,
-            mainAxisSpacing: gmSpaceSm,
+            crossAxisSpacing: gmTileGap,
+            mainAxisSpacing: gmTileGap,
           ),
           itemCount: tiles.length,
           itemBuilder: (context, index) {

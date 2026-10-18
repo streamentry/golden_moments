@@ -14,6 +14,9 @@ Start small with visible pictures. Do not force naming relatives, correct recoll
 
 ## Device checklist
 
+Visual, interaction and copy rules live in [DESIGN.md](../../DESIGN.md); `test/design_system_test.dart` automates contrast, text-floor, tap-target and 200% text checks. Automated checks do not replace the device review below.
+
+
 - Screen-reader focus, actions and states work; hidden content is not announced. Personal-photo labels are currently positional.
 - Essential actions remain reachable at 200% text scale, portrait and landscape, iPhone and iPad.
 - Verify contrast and at least 48 logical-pixel targets; matching is indicated by shape as well as color.

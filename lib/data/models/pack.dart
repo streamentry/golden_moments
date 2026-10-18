@@ -6,7 +6,7 @@ enum GameDifficulty {
   easy(gridSize: 3, pairCount: 6, displayName: 'Easy', minImages: 6),
   medium(gridSize: 4, pairCount: 8, displayName: 'Medium', minImages: 8),
   hard(gridSize: 4, pairCount: 12, displayName: 'Hard', minImages: 10),
-  brainy(gridSize: 5, pairCount: 20, displayName: 'Brainy', minImages: 16);
+  brainy(gridSize: 5, pairCount: 20, displayName: 'Largest', minImages: 16);
 
   GameDifficulty({
     required this.gridSize,

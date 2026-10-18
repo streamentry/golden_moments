@@ -18,6 +18,7 @@ Gentle picture matching and shared photo activities. Flutter, local-first on iOS
 | How will ASO be validated? | [US strategy](docs/strategy/us-aso.md) |
 | What screenshots should be captured? | [Screenshot specification](docs/specs/screenshots.md) |
 | What blocks publication? | [Release checklist](docs/release/1.3.0.md) |
+| How should every screen look, sound and read? | [Design system](DESIGN.md) |
 | What should happen next? | [Workboard](WORKBOARD.md) |
 
 ## This upgrade
