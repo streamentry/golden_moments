@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/foundation.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -13,13 +15,13 @@ class SoundSettings with ChangeNotifier {
 
   void toggleMusic() {
     _isMusicOn = !_isMusicOn;
-    _save();
+    unawaited(_save());
     notifyListeners();
   }
 
   void toggleSound() {
     _isSoundOn = !_isSoundOn;
-    _save();
+    unawaited(_save());
     notifyListeners();
   }
 

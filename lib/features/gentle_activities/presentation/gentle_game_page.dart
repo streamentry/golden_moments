@@ -9,7 +9,7 @@ import 'package:golden_moments/features/gentle_activities/presentation/picture_v
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
 
 class GentleGamePage extends StatefulWidget {
-  const GentleGamePage({required this.pictures, super.key});
+  const new({required this.pictures, super.key});
   final List<ActivityPicture> pictures;
 
   @override

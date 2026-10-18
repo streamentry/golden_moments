@@ -12,9 +12,7 @@ void main() {
     expect(cubit.currentTabName, 'Downloads');
   });
   test('invalid tabs are rejected', () {
-    for (final index in [-1, 2, 3, 99]) {
-      cubit.setIndex(index);
-    }
+    [-1, 2, 3, 99].forEach(cubit.setIndex);
     expect(cubit.state.currentIndex, 0);
   });
   test('back returns home before allowing exit', () {

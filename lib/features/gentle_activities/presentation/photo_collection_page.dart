@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'dart:io';
 import 'dart:typed_data';
 
@@ -13,7 +15,7 @@ import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
 
 class PhotoCollectionPage extends StatefulWidget {
-  const PhotoCollectionPage({super.key});
+  const new({super.key});
 
   @override
   State<PhotoCollectionPage> createState() => _PhotoCollectionPageState();
@@ -38,7 +40,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
   @override
   void initState() {
     super.initState();
-    _load(recover: true);
+    unawaited(_load(recover: true));
   }
 
   Future<bool> _confirm(String title, String message) async {

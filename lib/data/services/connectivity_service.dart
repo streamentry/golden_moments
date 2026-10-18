@@ -6,7 +6,7 @@ import 'package:golden_moments/data/storage/browser_image_store.dart';
 
 /// Service for monitoring network connectivity
 class ConnectivityService {
-  ConnectivityService._();
+  new _();
 
   static final instance = ConnectivityService._();
 
@@ -43,7 +43,7 @@ class ConnectivityService {
   /// Dispose connectivity service
   void dispose() {
     _connectivityTimer?.cancel();
-    _statusController.close();
+    unawaited(_statusController.close());
   }
 
   /// Manually check connectivity status

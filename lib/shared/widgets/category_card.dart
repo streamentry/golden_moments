@@ -7,7 +7,7 @@ import 'package:golden_moments/shared/widgets/pressable.dart';
 
 /// Card widget for displaying a game pack
 class CategoryCard extends StatelessWidget {
-  const CategoryCard({
+  const new({
     required this.category,
     this.onTap,
     this.showDailyBadge = false,

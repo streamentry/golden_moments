@@ -8,7 +8,7 @@ import 'package:golden_moments/features/home/cubit/home_state.dart';
 
 /// Cubit for managing home screen state and logic
 class HomeCubit extends Cubit<HomeState> {
-  HomeCubit() : super(const HomeState());
+  new() : super(const HomeState());
 
   /// Initialize the home screen with data
   Future<void> initialize() async {
@@ -112,10 +112,10 @@ class HomeCubit extends Cubit<HomeState> {
   // }
 
   Future<List<Pack>> _loadPacks() async {
-    return LocalPackService().getPacks();
+    return await LocalPackService().getPacks();
   }
 
   Future<List<Category>> _loadCategory() async {
-    return LocalPackService().getCategories();
+    return await LocalPackService().getCategories();
   }
 }

@@ -16,7 +16,7 @@ Mutations are serialized. Validate a batch before modifying the manifest. Write 
 
 ## Permissions and lifecycle
 
-`image_picker` is initially pinned at 1.1.2. Revalidate and resolve its platform dependencies against the SDK in `.fvmrc` and `pubspec.yaml`. Set `requestFullMetadata: false` and re-encode pixels. iOS permission text explains selection; no camera or microphone functionality is introduced.
+`image_picker` was initially pinned at 1.1.2 and now resolves `^1.2.4` (2026-10-18 upgrade; 1.2.3 fixes `pickMultiImage(limit: 1)`, which this app already avoids by using `pickImage` for a single slot). Real-device HEIC and Android lost-data validation of 1.2.4 has not been run. Revalidate and resolve its platform dependencies against the SDK in `.fvmrc` and `pubspec.yaml`. Set `requestFullMetadata: false` and re-encode pixels. iOS permission text explains selection; no camera or microphone functionality is introduced.
 
 Android lost selections are recovered through the plugin with confirmation before import. Test HEIC and iCloud-only originals on hardware. Cancellation is not an error. Removing an original after import must not remove the app copy.
 
@@ -38,4 +38,4 @@ Photos are snapshots, not watched originals. Device backup may contain copies. N
 
 [Senior-first photo requirements](senior-first/personal-photos.md) specify optional descriptions, favorites, and conditional albums/file exchange. [Reliability requirements](senior-first/reliability-privacy.md) specify migration and failure acceptance. These do not alter the current manifest or quotas. Any future sidecar/schema migration needs a separate implementation and preservation tests. File sharing requires archive limits, traversal/decompression protection and recipient preview before approval.
 
-References: [image_picker](https://pub.dev/packages/image_picker/versions/1.1.2), [Analytics controls](https://firebase.google.com/docs/analytics/configure-data-collection), [Crashlytics controls](https://firebase.google.com/docs/crashlytics/customize-crash-reports).
+References: [image_picker](https://pub.dev/packages/image_picker/versions/1.2.4), [Analytics controls](https://firebase.google.com/docs/analytics/configure-data-collection), [Crashlytics controls](https://firebase.google.com/docs/crashlytics/customize-crash-reports).

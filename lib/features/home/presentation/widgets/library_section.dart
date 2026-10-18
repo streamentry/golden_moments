@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
@@ -7,11 +9,7 @@ import 'package:golden_moments/shared/widgets/category_card.dart';
 
 /// Section displaying the game library
 class LibrarySection extends StatelessWidget {
-  const LibrarySection({
-    required this.categories,
-    required this.onCategoryTap,
-    super.key,
-  });
+  const new({required this.categories, required this.onCategoryTap, super.key});
 
   final List<Category> categories;
   final void Function(Category category) onCategoryTap;
@@ -50,7 +48,7 @@ class LibrarySection extends StatelessWidget {
             ),
             TextButton.icon(
               onPressed: () {
-                SoundService().playTap();
+                unawaited(SoundService().playTap());
                 Navigator.of(parentContext).push(
                   MaterialPageRoute<void>(
                     builder: (context) => CategoryPage(categories: categories),
@@ -83,7 +81,7 @@ class LibrarySection extends StatelessWidget {
 
 /// List layout for library packs
 class _PacksList extends StatelessWidget {
-  const _PacksList({required this.categories, required this.onPackTap});
+  const new({required this.categories, required this.onPackTap});
 
   final List<Category> categories;
   final void Function(Category pack) onPackTap;

@@ -3,7 +3,7 @@ import 'dart:math';
 /// A matching activity with no clock, score, penalty, or delayed callbacks.
 /// A non-matching pair stays visible until the next deliberate tap.
 class GentleBoard {
-  GentleBoard(List<String> pictureIds, {Random? random}) {
+  new(List<String> pictureIds, {Random? random}) {
     if (pictureIds.length < 2 ||
         pictureIds.length > 6 ||
         pictureIds.toSet().length != pictureIds.length) {

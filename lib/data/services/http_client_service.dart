@@ -10,7 +10,7 @@ import 'package:http/http.dart' as http;
 /// HTTP client service with retry logic and timeout handling
 class HttpClientService {
   factory() => _instance;
-  HttpClientService._internal();
+  new _internal();
   static final HttpClientService _instance = HttpClientService._internal();
 
   late final http.Client _client;

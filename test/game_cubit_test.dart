@@ -4,7 +4,7 @@ import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/features/game/cubit/game_cubit.dart';
 
 class _SeededGameCubit extends GameCubit {
-  _SeededGameCubit(List<Image> images) {
+  new(List<Image> images) {
     emit(state.copyWith(images: images));
   }
 }
@@ -101,9 +101,7 @@ void main() {
     expect(cubit.state.selectedTiles.map((tile) => tile.id), [third.id]);
   });
 
-  testWidgets('tapping a mismatched picture again selects it', (
-    tester,
-  ) async {
+  testWidgets('tapping a mismatched picture again selects it', (tester) async {
     final cubit = _SeededGameCubit(images)..startNewGame(pack);
     addTearDown(cubit.close);
     final first = cubit.state.tiles.first;

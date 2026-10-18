@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
@@ -6,7 +8,7 @@ import 'package:golden_moments/shared/widgets/category_card.dart';
 
 /// Page to display all categories
 class CategoryPage extends StatelessWidget {
-  const CategoryPage({required this.categories, this.onCategoryTap, super.key});
+  const new({required this.categories, this.onCategoryTap, super.key});
 
   final List<Category> categories;
   final void Function(Category category)? onCategoryTap;
@@ -15,7 +17,7 @@ class CategoryPage extends StatelessWidget {
   Widget build(BuildContext parentContext) {
     return PopScope(
       onPopInvokedWithResult: (_, _) {
-        SoundService().playTap();
+        unawaited(SoundService().playTap());
       },
       child: Scaffold(
         appBar: AppBar(title: const Text('All categories')),

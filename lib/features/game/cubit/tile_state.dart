@@ -3,7 +3,7 @@ import 'package:golden_moments/data/models/image.dart';
 
 /// Represents a single tile in the memory matching game
 class GameTile extends Equatable {
-  const GameTile({
+  const new({
     required this.id,
     required this.image,
     this.isMatched = false,
@@ -12,7 +12,7 @@ class GameTile extends Equatable {
   });
 
   /// Creates a GameTile from JSON data
-  factory GameTile.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     return GameTile(
       id: json['id'] as String,
       image: Image.fromJson(json['image'] as Map<String, dynamic>),

@@ -4,7 +4,7 @@ import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 
 class App extends StatefulWidget {
-  const App({super.key});
+  const new({super.key});
 
   @override
   State<App> createState() => _AppState();

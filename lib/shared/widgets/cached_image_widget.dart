@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'dart:io';
 
 import 'package:flutter/material.dart';
@@ -6,7 +8,7 @@ import 'package:golden_moments/design_system.dart';
 
 /// Widget that displays images with long-term caching
 class CachedImageWidget extends StatefulWidget {
-  const CachedImageWidget({
+  const new({
     required this.imageUrl,
     super.key,
     this.width,
@@ -42,14 +44,14 @@ class _CachedImageWidgetState extends State<CachedImageWidget> {
   @override
   void initState() {
     super.initState();
-    _loadImage();
+    unawaited(_loadImage());
   }
 
   @override
   void didUpdateWidget(CachedImageWidget oldWidget) {
     super.didUpdateWidget(oldWidget);
     if (oldWidget.imageUrl != widget.imageUrl) {
-      _loadImage();
+      unawaited(_loadImage());
     }
   }
 
@@ -186,7 +188,7 @@ class _CachedImageWidgetState extends State<CachedImageWidget> {
 
 /// Circular cached image widget for avatars and thumbnails
 class CachedCircularImage extends StatelessWidget {
-  const CachedCircularImage({
+  const new({
     required this.imageUrl,
     required this.radius,
     super.key,
@@ -215,7 +217,7 @@ class CachedCircularImage extends StatelessWidget {
 
 /// Cached image with fade-in animation
 class FadeInCachedImage extends StatefulWidget {
-  const FadeInCachedImage({
+  const new({
     required this.imageUrl,
     super.key,
     this.width,
@@ -276,7 +278,7 @@ class _FadeInCachedImageState extends State<FadeInCachedImage>
 
 /// Cached image grid for displaying multiple images
 class CachedImageGrid extends StatelessWidget {
-  const CachedImageGrid({
+  const new({
     required this.imageUrls,
     super.key,
     this.crossAxisCount = 2,
@@ -319,7 +321,7 @@ class CachedImageGrid extends StatelessWidget {
 
 /// Cached image carousel for preview images
 class CachedImageCarousel extends StatelessWidget {
-  const CachedImageCarousel({
+  const new({
     required this.imageUrls,
     super.key,
     this.height = 200,

@@ -2,7 +2,7 @@ import 'package:equatable/equatable.dart';
 
 /// Cache statistics and settings
 class CacheStats extends Equatable {
-  const CacheStats({
+  const new({
     required this.totalCacheSize,
     required this.maxCacheSize,
     required this.totalPacks,
@@ -12,7 +12,7 @@ class CacheStats extends Equatable {
     required this.statistics,
   });
 
-  factory CacheStats.defaultStats() {
+  factory defaultStats() {
     return CacheStats(
       totalCacheSize: 0,
       maxCacheSize: 500 * 1024 * 1024, // 500MB
@@ -24,7 +24,7 @@ class CacheStats extends Equatable {
     );
   }
 
-  factory CacheStats.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     return CacheStats(
       totalCacheSize: json['totalCacheSize'] as int? ?? 0,
       maxCacheSize: json['maxCacheSize'] as int? ?? 500 * 1024 * 1024,
@@ -108,7 +108,7 @@ class CacheStats extends Equatable {
 
 /// Cache settings configuration
 class CacheSettings extends Equatable {
-  const CacheSettings({
+  const new({
     required this.maxCacheSizeMB,
     required this.cacheExpiryDays,
     required this.autoCleanup,
@@ -117,7 +117,7 @@ class CacheSettings extends Equatable {
     required this.downloadRetryAttempts,
   });
 
-  factory CacheSettings.defaultSettings() {
+  factory defaultSettings() {
     return const CacheSettings(
       maxCacheSizeMB: 500,
       cacheExpiryDays: 60,
@@ -128,7 +128,7 @@ class CacheSettings extends Equatable {
     );
   }
 
-  factory CacheSettings.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     return CacheSettings(
       maxCacheSizeMB: json['maxCacheSizeMB'] as int? ?? 500,
       cacheExpiryDays: json['cacheExpiryDays'] as int? ?? 60,
@@ -196,7 +196,7 @@ class CacheSettings extends Equatable {
 
 /// Cache usage statistics
 class CacheStatistics extends Equatable {
-  const CacheStatistics({
+  const new({
     required this.totalDownloads,
     required this.failedDownloads,
     required this.cacheHitRate,
@@ -205,7 +205,7 @@ class CacheStatistics extends Equatable {
     required this.lastUpdated,
   });
 
-  factory CacheStatistics.empty() {
+  factory empty() {
     return CacheStatistics(
       totalDownloads: 0,
       failedDownloads: 0,
@@ -216,7 +216,7 @@ class CacheStatistics extends Equatable {
     );
   }
 
-  factory CacheStatistics.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     return CacheStatistics(
       totalDownloads: json['totalDownloads'] as int? ?? 0,
       failedDownloads: json['failedDownloads'] as int? ?? 0,

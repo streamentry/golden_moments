@@ -6,7 +6,7 @@ import 'package:golden_moments/features/home/cubit/home_state.dart';
 import 'package:golden_moments/features/home/presentation/screens/home_page.dart';
 
 class _LoadedHome extends HomeCubit {
-  _LoadedHome() {
+  new() {
     emit(const HomeState(status: HomeStatus.loaded));
   }
 }

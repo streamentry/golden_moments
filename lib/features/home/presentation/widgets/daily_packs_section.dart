@@ -5,11 +5,7 @@ import 'package:golden_moments/shared/widgets/pack_card.dart';
 
 /// Section displaying daily featured game packs
 class DailyPacksSection extends StatelessWidget {
-  const DailyPacksSection({
-    required this.packs,
-    required this.onPackTap,
-    super.key,
-  });
+  const new({required this.packs, required this.onPackTap, super.key});
 
   final List<Pack> packs;
   final void Function(Pack pack) onPackTap;
@@ -57,7 +53,7 @@ class DailyPacksSection extends StatelessWidget {
 
 /// Grid layout for displaying packs
 class _PacksGrid extends StatelessWidget {
-  const _PacksGrid({required this.packs, required this.onPackTap});
+  const new({required this.packs, required this.onPackTap});
 
   final List<Pack> packs;
   final void Function(Pack pack) onPackTap;

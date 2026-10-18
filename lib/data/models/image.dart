@@ -1,10 +1,10 @@
 import 'package:equatable/equatable.dart';
 
 class Image extends Equatable {
-  const Image({required this.id, required this.url, required this.caption});
+  const new({required this.id, required this.url, required this.caption});
 
   /// Creates a Image from JSON data
-  factory Image.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     return Image(
       id: json['id'] as String,
       url: json['url'] as String,

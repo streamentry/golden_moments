@@ -5,7 +5,7 @@ import 'package:golden_moments/features/gentle_activities/presentation/picture_v
 
 /// Looking and talking are optional: this is not a recall or recognition test.
 class PhotoTogetherPage extends StatefulWidget {
-  const PhotoTogetherPage({required this.pictures, super.key});
+  const new({required this.pictures, super.key});
   final List<ActivityPicture> pictures;
 
   @override

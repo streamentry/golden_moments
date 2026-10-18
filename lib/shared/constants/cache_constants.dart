@@ -1,6 +1,6 @@
 /// Cache system constants and configuration
 class CacheConstants {
-  CacheConstants._();
+  new _();
 
   // Cache duration and expiry
   static const Duration cacheExpiryDuration = Duration(days: 60);

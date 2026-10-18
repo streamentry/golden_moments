@@ -7,7 +7,7 @@ enum HomeStatus { initial, loading, loaded, error }
 
 /// State for the home screen
 class HomeState extends Equatable {
-  const HomeState({
+  const new({
     this.status = HomeStatus.initial,
     this.dailyPacks = const [],
     this.libraryPacks = const [],

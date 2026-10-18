@@ -6,7 +6,7 @@ import 'package:golden_moments/features/game/presentation/widgets/memory_tile.da
 
 /// Game board widget that displays the memory tiles in a grid
 class GameBoard extends StatelessWidget {
-  const GameBoard({
+  const new({
     required this.packId,
     required this.tiles,
     required this.difficulty,

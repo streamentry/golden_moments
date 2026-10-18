@@ -2,7 +2,7 @@ import 'package:equatable/equatable.dart';
 
 /// Comprehensive download error types with user-friendly messages
 class DownloadError extends Equatable implements Exception {
-  const DownloadError({
+  const new({
     required this.type,
     required this.url,
     required this.message,
@@ -12,7 +12,7 @@ class DownloadError extends Equatable implements Exception {
   });
 
   /// Network connection error
-  factory DownloadError.networkError(String url, String message) {
+  factory networkError(String url, String message) {
     return DownloadError(
       type: DownloadErrorType.network,
       url: url,
@@ -25,7 +25,7 @@ class DownloadError extends Equatable implements Exception {
   }
 
   /// HTTP error with status code
-  factory DownloadError.httpError(String url, int statusCode, String message) {
+  factory httpError(String url, int statusCode, String message) {
     String userMessage;
     var retryable = false;
 
@@ -61,7 +61,7 @@ class DownloadError extends Equatable implements Exception {
   }
 
   /// Request timeout error
-  factory DownloadError.timeout(String url, String message) {
+  factory timeout(String url, String message) {
     return DownloadError(
       type: DownloadErrorType.timeout,
       url: url,
@@ -73,7 +73,7 @@ class DownloadError extends Equatable implements Exception {
   }
 
   /// Invalid JSON format error
-  factory DownloadError.invalidJson(String url, String message) {
+  factory invalidJson(String url, String message) {
     return DownloadError(
       type: DownloadErrorType.invalidJson,
       url: url,
@@ -84,7 +84,7 @@ class DownloadError extends Equatable implements Exception {
   }
 
   /// File corruption error
-  factory DownloadError.corruption(String url, String message) {
+  factory corruption(String url, String message) {
     return DownloadError(
       type: DownloadErrorType.corruption,
       url: url,
@@ -95,7 +95,7 @@ class DownloadError extends Equatable implements Exception {
   }
 
   /// Storage space error
-  factory DownloadError.storageSpace(String url, String message) {
+  factory storageSpace(String url, String message) {
     return DownloadError(
       type: DownloadErrorType.storageSpace,
       url: url,
@@ -106,7 +106,7 @@ class DownloadError extends Equatable implements Exception {
   }
 
   /// File system error
-  factory DownloadError.fileSystem(String url, String message) {
+  factory fileSystem(String url, String message) {
     return DownloadError(
       type: DownloadErrorType.fileSystem,
       url: url,
@@ -118,7 +118,7 @@ class DownloadError extends Equatable implements Exception {
   }
 
   /// Cancelled by user
-  factory DownloadError.cancelled(String url) {
+  factory cancelled(String url) {
     return DownloadError(
       type: DownloadErrorType.cancelled,
       url: url,
@@ -128,7 +128,7 @@ class DownloadError extends Equatable implements Exception {
   }
 
   /// Unknown error
-  factory DownloadError.unknown(String url, String message) {
+  factory unknown(String url, String message) {
     return DownloadError(
       type: DownloadErrorType.unknown,
       url: url,
@@ -139,7 +139,7 @@ class DownloadError extends Equatable implements Exception {
   }
 
   /// Create from JSON
-  factory DownloadError.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     return DownloadError(
       type: DownloadErrorType.values.firstWhere(
         (type) => type.name == json['type'],

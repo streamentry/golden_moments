@@ -7,7 +7,7 @@ import 'package:golden_moments/data/models/sound_setting.dart';
 /// Singleton service for playing app sounds
 class SoundService with WidgetsBindingObserver {
   factory() => _instance;
-  SoundService._internal() {
+  new _internal() {
     WidgetsBinding.instance.addObserver(this); // Observe app lifecycle changes
   }
   static final SoundService _instance = SoundService._internal();
@@ -54,7 +54,7 @@ class SoundService with WidgetsBindingObserver {
       // Don't auto-play music on settings change
       // Let user interaction trigger music playback
     } else {
-      _musicPlayer.stop();
+      unawaited(_musicPlayer.stop());
     }
   }
 
@@ -91,15 +91,15 @@ class SoundService with WidgetsBindingObserver {
   @override
   void didChangeAppLifecycleState(AppLifecycleState state) {
     if (state == AppLifecycleState.paused) {
-      _musicPlayer.pause();
+      unawaited(_musicPlayer.pause());
     } else if (state == AppLifecycleState.resumed &&
         (_soundSettings?.isMusicOn ?? false)) {
-      _musicPlayer.resume();
+      unawaited(_musicPlayer.resume());
     }
   }
 
   void dispose() {
     WidgetsBinding.instance.removeObserver(this); // Clean up observer
-    _musicPlayer.dispose();
+    unawaited(_musicPlayer.dispose());
   }
 }

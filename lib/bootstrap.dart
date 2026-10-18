@@ -9,7 +9,7 @@ import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:provider/provider.dart';
 
 class AppBlocObserver extends BlocObserver {
-  const AppBlocObserver();
+  const new();
 
   @override
   void onError(BlocBase<dynamic> bloc, Object error, StackTrace stackTrace) {

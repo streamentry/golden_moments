@@ -9,7 +9,7 @@ import 'package:path_provider/path_provider.dart';
 
 /// Long-term image caching service with 1-year expiry
 class LongTermImageCache {
-  LongTermImageCache({this._cacheRoot, this._client});
+  new({this._cacheRoot, this._client});
 
   final Directory? _cacheRoot;
   final http.Client? _client;
@@ -64,7 +64,7 @@ class LongTermImageCache {
     }
 
     // Download and cache the image
-    return _downloadAndCacheImage(imageUrl, cachedFile, cacheKey);
+    return await _downloadAndCacheImage(imageUrl, cachedFile, cacheKey);
   }
 
   /// Download and cache an image
@@ -173,9 +173,7 @@ class LongTermImageCache {
     }
 
     // Remove expired entries from metadata
-    for (final key in expiredKeys) {
-      _metadata.remove(key);
-    }
+    expiredKeys.forEach(_metadata.remove);
 
     if (expiredKeys.isNotEmpty) {
       await _saveMetadata();
@@ -277,7 +275,7 @@ class LongTermImageCache {
 
 /// Cache metadata for individual images
 class CacheMetadata {
-  CacheMetadata({
+  new({
     required this.url,
     required this.cacheKey,
     required this.cachedAt,
@@ -287,7 +285,7 @@ class CacheMetadata {
   });
 
   /// Create from JSON
-  factory CacheMetadata.fromJson(Map<String, dynamic> json) {
+  factory fromJson(Map<String, dynamic> json) {
     return CacheMetadata(
       url: json['url'] as String,
       cacheKey: json['cacheKey'] as String,
@@ -338,7 +336,7 @@ class CacheMetadata {
 
 /// Cache statistics
 class CacheStatistics {
-  const CacheStatistics({
+  const new({
     required this.totalFiles,
     required this.totalSizeBytes,
     required this.expiredFiles,

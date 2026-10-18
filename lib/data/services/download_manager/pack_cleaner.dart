@@ -8,11 +8,9 @@ import 'package:golden_moments/shared/utils/image_util.dart';
 
 /// Handles pack deletion and cleanup operations
 class PackCleaner {
-  PackCleaner({
-    JsonCacheService? cacheService,
-    LocalPackService? localPackService,
-  }) : _cacheService = cacheService ?? JsonCacheService(),
-       _localPackService = localPackService ?? LocalPackService();
+  new({JsonCacheService? cacheService, LocalPackService? localPackService})
+    : _cacheService = cacheService ?? JsonCacheService(),
+      _localPackService = localPackService ?? LocalPackService();
 
   final JsonCacheService _cacheService;
   final LocalPackService _localPackService;
@@ -288,7 +286,7 @@ class PackCleaner {
 
 /// Result of pack cleanup operation
 class PackCleanupResult {
-  PackCleanupResult({required this.packId});
+  new({required this.packId});
 
   final String packId;
   bool success = false;
@@ -314,11 +312,7 @@ class ImageCleanupResult {
 
 /// Error information for image deletion
 class ImageDeletionError {
-  ImageDeletionError({
-    required this.imageId,
-    required this.imagePath,
-    required this.error,
-  });
+  new({required this.imageId, required this.imagePath, required this.error});
 
   final String imageId;
   final String imagePath;
@@ -344,7 +338,7 @@ class CleanupSummary {
 
 /// Information about a pack that can be cleaned up
 class CleanupCandidate {
-  CleanupCandidate({
+  new({
     required this.packId,
     required this.packName,
     required this.imageCount,

@@ -5,7 +5,7 @@ import 'package:golden_moments/data/services/sound_service.dart';
 
 /// A reusable pressable widget with ripple effect and tap sound
 class Pressable extends StatelessWidget {
-  const Pressable({
+  const new({
     required this.child,
     this.onPressed,
     this.borderRadius,

@@ -11,7 +11,7 @@ import 'package:golden_moments/shared/constants/app_constants.dart';
 
 /// Cubit for managing game state and logic
 class GameCubit extends Cubit<GameState> {
-  GameCubit()
+  new()
     : super(
         const GameState(
           currentPack: Pack(

@@ -6,7 +6,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 /// Web-compatible JSON file manager using SharedPreferences for storage
 class WebJsonFileManager implements JsonStore {
-  WebJsonFileManager({required this.cacheDirectory});
+  new({required this.cacheDirectory});
 
   final String cacheDirectory;
 

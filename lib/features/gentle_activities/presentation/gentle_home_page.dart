@@ -11,7 +11,7 @@ import 'package:golden_moments/shared/sharing/share_invitation.dart';
 
 /// Local activities remain usable even when the optional pack service is down.
 class GentleHomePage extends StatefulWidget {
-  const GentleHomePage({super.key});
+  const new({super.key});
 
   @override
   State<GentleHomePage> createState() => _GentleHomePageState();
@@ -23,52 +23,54 @@ class _GentleHomePageState extends State<GentleHomePage> {
   }
 
   void _showGuide() {
-    showModalBottomSheet<void>(
-      context: context,
-      isScrollControlled: true,
-      builder: (context) => SafeArea(
-        child: SingleChildScrollView(
-          padding: const EdgeInsets.fromLTRB(
-            gmSpaceLg,
-            0,
-            gmSpaceLg,
-            gmSpaceLg,
-          ),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              Text(
-                'Enjoy it together',
-                style: Theme.of(context).textTheme.headlineSmall,
-              ),
-              const SizedBox(height: 16),
-              const Text(
-                "Follow the person's interests. Keep pictures visible, "
-                'use fewer tiles, or simply look together. There is no '
-                'need to remember names or finish a game. Stop or change '
-                'the activity if it is uncomfortable.',
-              ),
-              const SizedBox(height: 16),
-              const Text(
-                'Golden Moments offers recreation and shared '
-                'conversation. It does not diagnose, treat, prevent, or '
-                "measure dementia or Alzheimer's disease.",
-              ),
-              const SizedBox(height: 16),
-              const Text(
-                'Family-photo copies are stored on this device and may be'
-                ' included in device backups. The app does not upload '
-                'these copies or sync them between relatives. The picture'
-                ' library is included in the app and works without '
-                'internet.',
-              ),
-              const SizedBox(height: gmSpaceLg),
-              FilledButton(
-                onPressed: () => Navigator.pop(context),
-                child: const Text('Close'),
-              ),
-            ],
+    unawaited(
+      showModalBottomSheet<void>(
+        context: context,
+        isScrollControlled: true,
+        builder: (context) => SafeArea(
+          child: SingleChildScrollView(
+            padding: const EdgeInsets.fromLTRB(
+              gmSpaceLg,
+              0,
+              gmSpaceLg,
+              gmSpaceLg,
+            ),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Text(
+                  'Enjoy it together',
+                  style: Theme.of(context).textTheme.headlineSmall,
+                ),
+                const SizedBox(height: 16),
+                const Text(
+                  "Follow the person's interests. Keep pictures visible, "
+                  'use fewer tiles, or simply look together. There is no '
+                  'need to remember names or finish a game. Stop or change '
+                  'the activity if it is uncomfortable.',
+                ),
+                const SizedBox(height: 16),
+                const Text(
+                  'Golden Moments offers recreation and shared '
+                  'conversation. It does not diagnose, treat, prevent, or '
+                  "measure dementia or Alzheimer's disease.",
+                ),
+                const SizedBox(height: 16),
+                const Text(
+                  'Family-photo copies are stored on this device and may be'
+                  ' included in device backups. The app does not upload '
+                  'these copies or sync them between relatives. The picture'
+                  ' library is included in the app and works without '
+                  'internet.',
+                ),
+                const SizedBox(height: gmSpaceLg),
+                FilledButton(
+                  onPressed: () => Navigator.pop(context),
+                  child: const Text('Close'),
+                ),
+              ],
+            ),
           ),
         ),
       ),

@@ -5,7 +5,7 @@ import 'package:provider/provider.dart';
 
 /// A reusable settings modal for the app
 class SettingModal extends StatelessWidget {
-  const SettingModal({super.key});
+  const new({super.key});
 
   @override
   Widget build(BuildContext context) {
