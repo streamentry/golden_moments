@@ -86,6 +86,28 @@ Future<void> _tapText(
   await _settle(tester);
 }
 
+/// Presses a confirmation dialog's filled button, whatever its label, then
+/// waits for [until] like [_tapText].
+Future<void> _confirmDialog(
+  WidgetTester tester, {
+  required bool Function() until,
+}) async {
+  await tester.tap(
+    find.descendant(
+      of: find.byType(AlertDialog),
+      matching: find.byType(FilledButton),
+    ),
+  );
+  for (var i = 0; i < 2000 && !until(); i++) {
+    await tester.runAsync(
+      () => Future<void>.delayed(const Duration(milliseconds: 8)),
+    );
+    await tester.pump(const Duration(milliseconds: 50));
+  }
+  expect(until(), isTrue, reason: 'Gave up waiting after confirming.');
+  await _settle(tester);
+}
+
 bool _shows(Finder finder, [int count = 1]) =>
     finder.evaluate().length == count;
 
@@ -413,13 +435,14 @@ void main() {
 
       await _openOptions(tester, 0);
       await _tapText(tester, 'Remove this copy');
-      await _tapText(tester, 'Continue');
-      expect(find.textContaining('could not be removed'), findsOneWidget);
+      final notRemoved = find.textContaining('could not be removed');
+      await _confirmDialog(tester, until: () => _shows(notRemoved));
+      expect(notRemoved, findsOneWidget);
       expect(find.text('2 of 24 photos'), findsOneWidget);
 
       await _tapText(tester, 'Remove all photo copies');
-      await _tapText(tester, 'Continue');
-      expect(find.textContaining('could not be removed'), findsOneWidget);
+      await _confirmDialog(tester, until: () => _shows(notRemoved));
+      expect(notRemoved, findsOneWidget);
       expect(find.text('2 of 24 photos'), findsOneWidget);
       expect(tester.takeException(), isNull);
 
