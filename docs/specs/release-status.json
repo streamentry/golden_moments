@@ -200,6 +200,14 @@
           "test/features/gentle_activities/photo_annotations_test.dart",
           "test/features/gentle_activities/photo_collection_journey_test.dart"
         ]
+      },
+      "GM-028": {
+        "status": "partial",
+        "scope": "Source-level audit and CI guard only: startup initializes no backend, local photo features contain no network code, collection flags are disabled in both manifests, only the photo-picker permission is declared, and the legacy remote downloader has no static route from any screen. Not established: merged Android manifest, FirebaseInitProvider behavior, runtime traffic on a clean install, iOS privacy manifest/App Privacy answers. The privacy_and_sdk_audit gate remains pending.",
+        "evidence": [
+          "docs/release/network-privacy-audit.md",
+          "tests/test_network_boundary.py"
+        ]
       }
     }
   }
