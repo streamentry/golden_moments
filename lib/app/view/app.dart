@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/app/view/platform_home.dart';
-import 'package:golden_moments/data/services/download_manager.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 
@@ -12,12 +11,6 @@ class App extends StatefulWidget {
 }
 
 class _AppState extends State<App> {
-  @override
-  void dispose() {
-    DownloadManager().dispose();
-    super.dispose();
-  }
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

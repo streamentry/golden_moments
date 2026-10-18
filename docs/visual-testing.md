@@ -1,104 +1,78 @@
 # Build and visual testing
 
-Validated locally on 2026-10-18 with Flutter 3.47.7, Dart 3.13.5,
-Playwright 1.62.1, and Chrome 155.0.8059.85 on macOS.
+Current bundled-catalog validation: 2026-10-18, Flutter 3.47.7 / Dart 3.13.5,
+Playwright 1.62.1, Chrome 155.0.8059.85 on macOS.
 
-## Reproduce
-
-Install Flutter and Google Chrome. Make the `playwright` Node package available
-through local dependencies or `NODE_PATH`. The test uses Playwright directly
-because the installed Playwright CLI wrapper could not run in this environment.
+## Run
 
 ```sh
 flutter pub get
-flutter build web --release
+flutter analyze
+flutter test --coverage
+python3 -m unittest discover -s tests -v
+python3 scripts/release_metadata.py --check
+python3 scripts/validate_packs.py --check-urls
+flutter build web --release --no-web-resources-cdn
 python3 -m http.server 8765 --bind 127.0.0.1 --directory build/web
 ```
 
-In another terminal, from the repository root:
+In another terminal from the repository root:
 
 ```sh
 node scripts/visual_smoke.cjs
-flutter test --no-pub test/game_cubit_test.dart
 ```
 
-`APP_URL` overrides the test URL. `PLAYWRIGHT_CHANNEL` defaults to `chrome`.
-The browser run uses a fresh context and real catalog assets and image downloads.
-It requires internet for the initial download. It deliberately disables network
-access during the cached-gameplay check. The process exits nonzero on failure.
+The `playwright` Node package must be available through local dependencies or
+`NODE_PATH`; Google Chrome is the default channel. `APP_URL` overrides the local
+URL and `PLAYWRIGHT_CHANNEL` overrides the browser channel. CI installs Chromium
+and uploads the results as `web-visual-evidence`.
 
-This session's temporary SDK is `/private/tmp/golden-moments-flutter/bin/flutter`.
-Its package cache is `/private/tmp/golden-moments-pub-cache`; set `PUB_CACHE` to
-that path when reusing this SDK. Both temporary directories can disappear.
-Playwright was supplied by the desktop app's bundled Node dependencies.
+The desktop app's bundled Node modules supplied Playwright for local runs.
+The temporary SDK is `/private/tmp/golden-moments-flutter/bin/flutter`, with
+`PUB_CACHE=/private/tmp/golden-moments-pub-cache`; these temporary paths may expire.
 
-## Verified results
+## Local results
 
-- Release web build: passed.
-- All 84 catalog game images persisted in browser Cache Storage.
-- Ten automated browser checks passed: persistent image downloads, responsive
-  home, settings toggle/save, download manager, game startup, tile reveal and
-  pause/resume/replay, cached gameplay without network, hint/navigation lifecycle,
-  library category navigation, and full-game completion/play again.
-- Zero unhandled browser errors in the final run.
-- Screenshots at 320x740, 390x844, 768x1024, and 1440x1000, plus settings,
-  downloads, gameplay, revealed tile, pause, restart, hint, offline tile, and library.
-- Screenshots reviewed manually after animations settled. Narrow pack-card text
-  clipping and oversized desktop cards were repaired and recaptured.
-- Full Flutter suite: 24 tests passed with randomized ordering seeds 42 and 517,
-  including real filesystem image loading, catalog parsing, navigation, widgets,
-  matching/replay, and disposal during hint and mismatch delays.
-- Repository-wide strict analysis: no issues found. Formatting passed.
+49 Flutter tests passed, including all pre-existing tests and the new local
+catalog/mobile-library checks. All 12 Python tests, metadata validation, catalog
+validation, formatting, and strict analysis passed. Native/device gates remain
+pending. Hosted results are recorded on the PR before merge.
 
-Artifacts are written to ignored `output/playwright/`: PNG screenshots, YAML
-accessibility snapshots, and `results.json`. Screenshots are visual smoke-test
-artifacts; no approved pixel-difference baseline existed for this repository.
+## Bundled-catalog proof
 
-## Repairs made while testing
+- The image inventory contains 121 files / 3,914,100 bytes. Provenance and hashes
+  are checked without network by `tests/test_bundled_catalog.py`.
+- Flutter decodes every image and starts all eight packs directly from assets
+  without storage, HTTP, or download initialization. Prior tests are retained.
+- The browser starts with an empty profile and blocks every request outside the
+  local application origin before its first navigation. It asserts zero external
+  requests throughout the run, including full-game completion and Play Again.
+- Ten browser checks cover all packaged image responses, responsive home,
+  settings, absence of download controls, immediate game startup, tile reveal,
+  pause/resume/replay, local image rendering, hint/disposal, category navigation,
+  and full-game completion. Some checks cover multiple related actions.
+- Screenshots are captured at 320, 390, 768, and 1440 logical pixels wide, plus
+  settings, game, reveal, pause, restart, hint, category, completion and replay.
+  Animation settling is included before capture. Screenshots are reviewed
+  manually; no approved pixel-difference baseline is claimed.
+- The browser renderer and Roboto font ship locally too. No Firebase/CDN
+  initialization or pack-download task runs at startup.
 
-The prior web downloader discarded image bytes but saved completed-pack metadata.
-Gameplay then looked for native files and failed with `Game Error`. The browser
-now stores image bytes using Cache Storage, validates existing web metadata at
-startup, and renders stored bytes. Missing bytes invalidate stale completed-pack
-metadata so the normal downloader can refill it. Browser cache availability
-requires HTTPS or a trusted local origin; browser storage can be evicted.
-See the [Cache API documentation](https://developer.mozilla.org/en-US/docs/Web/API/Cache/put).
+`output/playwright/` contains ignored PNGs, accessibility YAML, and `results.json`,
+including `externalRequests`. This tests an installed build served locally;
+requests to its own origin read packaged files. It does not claim a web PWA
+will cold-launch offline without its server, or that a native device was tested.
 
-Browser connectivity uses the browser's online hint instead of native DNS calls.
-It does not prove that any particular image host is reachable; actual download
-errors reset pack state and remain retryable. Optional Firebase analytics no
-longer interrupts the tested game and category navigation paths. Download slots
-are released after failures. Delayed game callbacks stop after the cubit closes.
+## Limits and gates
 
-## Remaining verification limits
+Native iOS/Android compilation, picker behavior, real-device accessibility,
+upgrade installations, privacy auditing and store submission remain separate
+release gates in `docs/specs/release-status.json`. Family photos remain explicit
+local imports; these private copies are not redistributed as catalog assets.
 
-Local tests and analysis now pass. The original CI coverage requirement remains
-100%; measured local coverage is 18.67% (601/3219 executable lines). This work does
-not claim to satisfy that threshold. The existing full-document spell check also
-uses English dictionaries on translated store descriptions; its prior run
-reported thousands of foreign-language tokens. Neither gate was disabled.
+The existing 100% coverage gate and full-document spelling gate are retained.
+Their historical failures were explicitly accepted for PR #43; this change does
+not lower or disable them. Record each new PR's actual CI outcome before merge.
 
-The CI workflow now pins Flutter through `.fvmrc`, grants the PR-title checker
-read access to pull requests, and adds an independent release-web/browser job
-that uploads screenshots and accessibility snapshots even on failure.
-
-No native iOS/Android build, physical-device run, store release, or offline cold launch was verified. Offline gameplay was
-tested within an already loaded app. The configured Android SDK path on this
-machine is unavailable, so native compilation needs a working Android SDK.
-
-## Dependency refresh
-
-The lockfile updates compatible runtime and development libraries, including
-AudioPlayers 6.8.1, Bloc 9.2.1, cached_network_image 4.0.4, Equatable 2.1.0,
-Firebase Core 4.15.0, Analytics 12.6.0, Crashlytics 5.4.0, HTTP 1.6.0,
-path_provider 2.1.6, Pool 1.5.3, and shared_preferences 2.5.6. Flutter 3.47.7
-and Dart 3.13.5 are the declared toolchain.
-
-Firebase 5.x was deferred because it raises native platform requirements;
-share_plus stays on 11.1.0 to preserve the current Android toolchain.
-Equatable stays on its 2.x line to preserve equality semantics. Existing analyzer
-rules are retained. Sharing now uses `SharePlus.instance.share(ShareParams(...))`.
-
-Migration references: [Firebase Core changelog](https://pub.dev/packages/firebase_core/changelog),
-[share_plus changelog](https://pub.dev/packages/share_plus/changelog), and
-[cached_network_image changelog](https://pub.dev/packages/cached_network_image/changelog).
+See [the catalog guide](packs.md) for maintenance. Normal builds and tests do not
+run the maintainer-only network importer `scripts/bundle_catalog.py`.

@@ -1,203 +1,41 @@
-import 'dart:async';
-
-import 'package:cached_network_image/cached_network_image.dart';
-import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/pack.dart';
-import 'package:golden_moments/data/services/download_manager.dart';
-import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/game.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
-import 'package:percent_indicator/flutter_percent_indicator.dart';
 
-/// Card widget for displaying a game pack
-class PackCard extends StatefulWidget {
+/// Every pack is bundled and starts with a single tap.
+class PackCard extends StatelessWidget {
   const PackCard({
     required this.pack,
     this.onTap,
     this.showDailyBadge = false,
     this.showPremiumBadge = false,
-    this.downloadProgress,
     super.key,
   });
-
   final Pack pack;
   final VoidCallback? onTap;
   final bool showDailyBadge;
   final bool showPremiumBadge;
-  final double? downloadProgress;
 
   @override
-  State<PackCard> createState() => _PackCardState();
-}
-
-class _PackCardState extends State<PackCard> {
-  PackStatus? _downloadStatus;
-  double _downloadProgress = 0;
-  bool _isLoading = true;
-  Timer? _progressTimer;
-
-  @override
-  void initState() {
-    super.initState();
-    _checkPackStatus();
-    DownloadManager().addListener(_onStatusChange);
-  }
-
-  @override
-  void dispose() {
-    DownloadManager().removeListener(_onStatusChange);
-    _progressTimer?.cancel();
-    super.dispose();
-  }
-
-  Future<void> _checkPackStatus() async {
-    setState(() {
-      _downloadStatus = DownloadManager().getPackStatus(widget.pack.id);
-    });
-    _isLoading = false;
-  }
-
-  void _onStatusChange() {
-    final status = DownloadManager().getPackStatus(widget.pack.id);
-    setState(() {
-      _downloadStatus = status;
-    });
-    if (status == PackStatus.downloading) {
-      _calculateDownloadProgress(widget.pack.id);
-    }
-  }
-
-  void _startDownloadPack(String packId) {
-    unawaited(
-      DownloadManager().downloadPack(packId).catchError((Object error) {
-        if (!mounted) return;
-        _progressTimer?.cancel();
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('Download failed. Please try again.')),
-        );
-      }),
-    );
-    _calculateDownloadProgress(packId);
-  }
-
-  void _calculateDownloadProgress(String packId) {
-    _progressTimer?.cancel(); // Cancel any existing timer
-    _progressTimer = Timer.periodic(const Duration(milliseconds: 500), (timer) {
-      setState(() {
-        _downloadProgress = DownloadManager().getPackDownloadProgress(packId);
-      });
-      if (DownloadManager().getPackStatus(packId) == PackStatus.completed) {
-        timer.cancel();
-      }
-    });
-  }
-
-  void _showDownloadConfirmationDialog(Pack pack) {
-    showDialog<void>(
-      context: context,
-      builder: (dialogContext) => AlertDialog(
-        title: const Text('Download Pack'),
-        content: Text(
-          'Do you want to download the "${pack.title}" pack?'
-          ' This may consume data.',
-        ),
-        actions: [
-          TextButton(
-            onPressed: () {
-              unawaited(SoundService().playTap());
-              Navigator.of(dialogContext).pop(); // Close dialog
-            },
-            child: const Text('Cancel'),
-          ),
-          TextButton(
-            onPressed: () async {
-              unawaited(SoundService().playTap());
-              Navigator.of(dialogContext).pop(); // Close dialog
-              _startDownloadPack(pack.id); // Start download
-
-              try {
-                await FirebaseAnalytics.instance.logEvent(
-                  name: 'download_pack',
-                  parameters: {'Id': pack.id, 'Title': pack.title},
-                );
-              } on Object catch (_) {
-                // Analytics is optional when Firebase is not configured.
-              }
-            },
-            child: const Text('Download'),
-          ),
-        ],
-      ),
-    );
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    final theme = Theme.of(context);
-
-    return Card(
-      clipBehavior: Clip.antiAlias,
-      child: Pressable(
-        onPressed: () async {
-          switch (_downloadStatus) {
-            case PackStatus.completed:
-              {
-                if (widget.onTap == null) {
-                  await Navigator.of(context).push(
-                    MaterialPageRoute<void>(
-                      builder: (context) => GamePage(gamePack: widget.pack),
-                    ),
-                  );
-                } else {
-                  widget.onTap?.call();
-                }
-
-                try {
-                  await FirebaseAnalytics.instance.logScreenView(
-                    screenName: 'Game',
-                  );
-                } on Object catch (_) {
-                  // Analytics must not interrupt gameplay.
-                }
-              }
-            case PackStatus.notStarted:
-            case null:
-              _showDownloadConfirmationDialog(widget.pack);
-            case PackStatus.downloading:
-          }
-        },
-        child: _buildLayout(theme),
-      ),
-    );
-  }
+  Widget build(BuildContext context) => Card(
+    clipBehavior: Clip.antiAlias,
+    child: Pressable(
+      onPressed:
+          onTap ??
+          () {
+            Navigator.of(context).push(
+              MaterialPageRoute<void>(
+                builder: (_) => GamePage(gamePack: pack),
+              ),
+            );
+          },
+      child: _buildLayout(Theme.of(context)),
+    ),
+  );
 
   Widget _buildLayout(ThemeData theme) {
-    Widget getIcon() {
-      switch (_downloadStatus) {
-        case PackStatus.completed:
-          return Icon(
-            Icons.download_done,
-            size: 24,
-            color: theme.colorScheme.primary,
-          );
-        case PackStatus.notStarted:
-        case null:
-          return Icon(
-            Icons.download,
-            size: 24,
-            color: theme.colorScheme.primary,
-          );
-        case PackStatus.downloading:
-          return CircularPercentIndicator(
-            radius: 12,
-            percent: _downloadProgress,
-            progressColor: Colors.green,
-          );
-      }
-    }
-
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -216,10 +54,8 @@ class _PackCardState extends State<PackCard> {
                 ),
                 child: AspectRatio(
                   aspectRatio: 3 / 2, // width / height
-                  child: CachedNetworkImage(
-                    imageUrl: widget.pack.thumbnailUrl,
-                    errorWidget: (context, url, error) =>
-                        const Icon(Icons.error),
+                  child: Image.asset(
+                    pack.thumbnailUrl,
                     fit: BoxFit.cover,
                     width: double.infinity, // match parent
                   ),
@@ -243,7 +79,7 @@ class _PackCardState extends State<PackCard> {
               children: [
                 Expanded(
                   child: Text(
-                    widget.pack.title,
+                    pack.title,
                     style: theme.textTheme.titleMedium?.copyWith(
                       fontWeight: FontWeight.bold,
                     ),
@@ -252,7 +88,7 @@ class _PackCardState extends State<PackCard> {
                   ),
                 ),
                 Text(
-                  widget.pack.theme,
+                  pack.theme,
                   style: theme.textTheme.bodySmall?.copyWith(
                     color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
                   ),
@@ -264,19 +100,11 @@ class _PackCardState extends State<PackCard> {
                   children: [
                     _buildDifficultyChip(theme),
                     const Spacer(),
-                    if (_isLoading)
-                      SizedBox(
-                        width: 24,
-                        height: 24,
-                        child: CircularProgressIndicator(
-                          strokeWidth: 2.5,
-                          valueColor: AlwaysStoppedAnimation<Color>(
-                            theme.colorScheme.primary,
-                          ),
-                        ),
-                      )
-                    else
-                      getIcon(),
+                    Icon(
+                      Icons.play_circle_outline,
+                      size: 24,
+                      color: theme.colorScheme.primary,
+                    ),
                   ],
                 ),
               ],
@@ -290,7 +118,7 @@ class _PackCardState extends State<PackCard> {
   Widget _buildBadges(ThemeData theme) {
     final badges = <Widget>[];
 
-    if (widget.showDailyBadge) {
+    if (showDailyBadge) {
       badges.add(
         Container(
           padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
@@ -309,7 +137,7 @@ class _PackCardState extends State<PackCard> {
       );
     }
 
-    if (widget.showPremiumBadge) {
+    if (showPremiumBadge) {
       badges.add(
         Container(
           padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
@@ -345,7 +173,7 @@ class _PackCardState extends State<PackCard> {
 
   Widget _buildDifficultyChip(ThemeData theme) {
     final Color chipColor;
-    switch (widget.pack.difficulty) {
+    switch (pack.difficulty) {
       case GameDifficulty.easy:
         chipColor = Colors.green;
       case GameDifficulty.medium:
@@ -364,7 +192,7 @@ class _PackCardState extends State<PackCard> {
         border: Border.all(color: chipColor.withValues(alpha: 0.3)),
       ),
       child: Text(
-        widget.pack.difficulty.displayName,
+        pack.difficulty.displayName,
         style: theme.textTheme.labelSmall?.copyWith(
           color: chipColor,
           fontWeight: FontWeight.w500,

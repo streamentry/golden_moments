@@ -1,7 +1,6 @@
 import 'dart:math';
 
 import 'package:bloc/bloc.dart';
-import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
@@ -13,14 +12,6 @@ class HomeCubit extends Cubit<HomeState> {
 
   /// Initialize the home screen with data
   Future<void> initialize() async {
-    // Try to log screen view, but don't fail if Firebase isn't available
-    try {
-      await FirebaseAnalytics.instance.logScreenView(screenName: 'Home');
-    } on Object {
-      // Silently ignore Firebase Analytics errors
-      // This allows the app to work without Firebase
-    }
-
     emit(state.copyWith(status: HomeStatus.loading));
 
     try {

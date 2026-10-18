@@ -84,10 +84,10 @@ void main() {
     await other.writeAsString('keep');
     final ids = await store.add([image(1), image(2)]);
     expect(await store.remove(ids.first), [ids.last]);
-    expect(await store.fileFor(ids.first).exists(), isFalse);
+    expect(store.fileFor(ids.first).existsSync(), isFalse);
     await store.clear();
     expect(await store.load(), isEmpty);
-    expect(await store.fileFor(ids.last).exists(), isFalse);
+    expect(store.fileFor(ids.last).existsSync(), isFalse);
     expect(await other.readAsString(), 'keep');
   });
 }

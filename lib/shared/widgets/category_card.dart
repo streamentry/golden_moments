@@ -1,4 +1,3 @@
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/design_system.dart';
@@ -71,10 +70,8 @@ class CategoryCard extends StatelessWidget {
             child: Stack(
               children: [
                 Center(
-                  child: CachedNetworkImage(
-                    imageUrl: category.iconUrl,
-                    errorWidget: (context, url, error) =>
-                        const Icon(Icons.error),
+                  child: Image.asset(
+                    category.iconUrl,
                     fit: BoxFit.cover,
                     width: 100,
                     height: 100,

@@ -42,7 +42,7 @@ const gmBrick500 = Color(0xFFB03127); // error / mismatch
 ///////////////////////////////////////////////////////////////////////////////
 /// 2. TYPOGRAPHY
 ///////////////////////////////////////////////////////////////////////////////
-const _gmFontFamily = 'NotoSans'; // Add in pubspec under fonts:
+const _gmFontFamily = 'Roboto'; // Bundled for offline rendering.
 
 // Base scale (sp)
 const double _gmFontScale = 1; // allow override for testing
@@ -119,6 +119,7 @@ ThemeData gmBuildTheme({required Brightness brightness}) {
 
   return ThemeData(
     colorScheme: scheme,
+    fontFamily: _gmFontFamily,
     useMaterial3: true,
     textTheme: _gmTextTheme(onSurface),
     visualDensity: VisualDensity.standard,

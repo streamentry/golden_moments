@@ -208,7 +208,7 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
                             case GameStatus.failed:
                               return _ErrorView(state: state);
                             case GameStatus.requiresDownload:
-                              return _RequiresDownloadView(state: state);
+                              return _ErrorView(state: state);
                           }
                         },
                       ),
@@ -316,7 +316,7 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
       context: parentContext,
       barrierDismissible: false,
       builder: (context) => AlertDialog(
-        title: const Center(child: Text('🎉 Congratulations!')),
+        title: const Center(child: Text('Congratulations!')),
         content: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
@@ -452,7 +452,7 @@ class _GamePageState extends State<GamePage> with WidgetsBindingObserver {
                     ),
                     const SizedBox(height: gmSpaceMd),
                     const Text(
-                      "You've completed 3 memory games! 🎉\n\nWhy not invite "
+                      "You've completed 3 memory games!\n\nWhy not invite "
                       'your friends and family to join the fun? Share precious'
                       ' memories together and challenge each other in this '
                       'delightful memory game.',
@@ -536,65 +536,6 @@ class _GamePlayView extends StatelessWidget {
   }
 }
 
-/// Requires download view
-class _RequiresDownloadView extends StatelessWidget {
-  const _RequiresDownloadView({required this.state});
-
-  final GameState state;
-
-  @override
-  Widget build(BuildContext parentContext) {
-    final theme = Theme.of(parentContext);
-
-    return Center(
-      child: Padding(
-        padding: const EdgeInsets.all(gmSpaceLg),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Icon(
-              Icons.cloud_download,
-              size: 64,
-              color: theme.colorScheme.primary,
-            ),
-            const SizedBox(height: gmSpaceMd),
-            Text(
-              'Download Required',
-              style: theme.textTheme.headlineSmall?.copyWith(
-                color: theme.colorScheme.onSurface,
-              ),
-              textAlign: TextAlign.center,
-            ),
-            const SizedBox(height: gmSpaceSm),
-            Text(
-              'This pack needs to be downloaded before you can play.',
-              style: theme.textTheme.bodyMedium?.copyWith(
-                color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
-              ),
-              textAlign: TextAlign.center,
-            ),
-            const SizedBox(height: gmSpaceLg),
-            GmPrimaryButton(
-              label: 'Download Pack',
-              onTap: () {
-                // Navigate to pack details or start download
-                Navigator.of(parentContext).pop();
-              },
-            ),
-            const SizedBox(height: gmSpaceMd),
-            GmOutlineButton(
-              label: 'Go Back',
-              onTap: () {
-                Navigator.of(parentContext).pop();
-              },
-            ),
-          ],
-        ),
-      ),
-    );
-  }
-}
-
 /// Error state view
 class _ErrorView extends StatelessWidget {
   const _ErrorView({required this.state});
@@ -618,8 +559,8 @@ class _ErrorView extends StatelessWidget {
             ),
             const SizedBox(height: gmSpaceSm),
             const Text(
-              'Something went wrong with the pack. Please reinstall '
-              'this pack or play another pack.',
+              'This picture pack could not be opened. '
+              'Please try another pack.',
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceLg),
