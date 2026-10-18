@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/foundation.dart';
+import 'package:golden_moments/features/gentle_activities/data/owned_files.dart';
 
 /// Optional, local-only details about one family photo (GM-019/GM-020).
 ///
@@ -92,92 +93,144 @@ class PhotoAnnotation {
   int get hashCode => Object.hash(caption, description, favorite, hidden);
 }
 
+/// What a stored sidecar turned out to be.
+enum _Sidecar {
+  /// Absent, or a current-version file: safe to read and replace.
+  usable,
+
+  /// A link or folder in its place, invalid text, or an older or unknown
+  /// shape: moved aside (never destroyed) when new details are saved.
+  damaged,
+
+  /// Written by a newer version of the app: never shown, moved or replaced,
+  /// so its details come back after an upgrade.
+  newer,
+}
+
 /// A small versioned sidecar next to the photo collection. It is optional by
 /// design: a missing, unreadable or newer-version file means "no annotations"
-/// and can never make a photo unavailable. Writes are serialized and atomic.
+/// and can never make a photo unavailable. Writes are serialized (across
+/// every instance on the same folder) and atomic, and a symbolic link in
+/// place of the sidecar is never read or written through.
 class PhotoAnnotationStore {
-  new(this.directory);
+  new(this.directory, {this.fileOps = const StoreFileOps()});
 
   static const int schemaVersion = 1;
   static const int maxEntries = 24;
   static final _validId = RegExp(r'^[a-f0-9]{64}$');
+  static const _name = 'annotations.json';
 
   final Directory directory;
-  Future<void> _pending = Future<void>.value();
 
-  File get _file => File('${directory.path}/annotations.json');
+  /// Replaced only in tests, to fail one file step at a time.
+  final StoreFileOps fileOps;
 
-  Future<T> _serial<T>(Future<T> Function() action) {
-    final operation = _pending.then((_) => action());
-    _pending = operation.then<void>(
-      (_) {},
-      onError: (Object _, StackTrace _) {},
-    );
-    return operation;
-  }
+  File get _file => File('${directory.path}/$_name');
 
-  Future<Map<String, PhotoAnnotation>> load() => _serial(_read);
+  Future<T> _serial<T>(Future<T> Function() action) =>
+      serializeOn('annotations:${directory.absolute.path}', action);
 
-  /// Never throws: any problem means no annotations.
-  Future<Map<String, PhotoAnnotation>> _read() async {
+  /// For display: never throws, and any problem means no details. Also
+  /// removes a staging file an interrupted write left behind.
+  Future<Map<String, PhotoAnnotation>> load() => _serial(() async {
+    if (!_isOwnedFolder) return {};
     try {
-      if (!_file.existsSync()) return {};
-      final data = jsonDecode(await _file.readAsString());
-      if (data is! Map ||
-          data['version'] != schemaVersion ||
-          data['photos'] is! Map) {
-        return {};
-      }
-      final result = <String, PhotoAnnotation>{};
-      for (final entry in (data['photos'] as Map).entries) {
-        final id = entry.key;
-        if (id is! String || !_validId.hasMatch(id)) continue;
-        final note = PhotoAnnotation.fromJson(entry.value);
-        if (!note.isEmpty) result[id] = note;
-        if (result.length >= maxEntries) break;
-      }
-      return result;
+      await removeEntry('${_file.path}$stagingSuffix', fileOps);
+    } on Object {
+      // Left for the next load; it is never read as annotations.
+    }
+    try {
+      final (state, notes) = await _parse();
+      return state == _Sidecar.usable ? notes : {};
     } on Object {
       return {};
     }
+  });
+
+  /// False when the folder is missing, cannot be inspected or has been
+  /// replaced by a link. Used only where "no details" is the safe answer.
+  bool get _isOwnedFolder =>
+      entryType(directory.path) == FileSystemEntityType.directory;
+
+  /// What is stored, with its details when [_Sidecar.usable] (`{}` when
+  /// there is no sidecar). A failure to inspect or read it (no permission,
+  /// an I/O error) is thrown, never mistaken for damage, so it can never
+  /// cause the real sidecar to be moved aside and replaced.
+  Future<(_Sidecar, Map<String, PhotoAnnotation>)> _parse() async {
+    final damaged = (_Sidecar.damaged, <String, PhotoAnnotation>{});
+    final type = await confirmedType(_file.path);
+    if (type == FileSystemEntityType.notFound) {
+      return (_Sidecar.usable, <String, PhotoAnnotation>{});
+    }
+    if (type != FileSystemEntityType.file) return damaged;
+    final bytes = await _file.readAsBytes();
+    final Object? data;
+    try {
+      data = jsonDecode(utf8.decode(bytes));
+    } on FormatException {
+      return damaged;
+    }
+    if (data is! Map) return damaged;
+    final version = data['version'];
+    if (version is int && version > schemaVersion) {
+      return (_Sidecar.newer, <String, PhotoAnnotation>{});
+    }
+    if (version != schemaVersion || data['photos'] is! Map) return damaged;
+    final result = <String, PhotoAnnotation>{};
+    for (final entry in (data['photos'] as Map).entries) {
+      final id = entry.key;
+      if (id is! String || !_validId.hasMatch(id)) continue;
+      final note = PhotoAnnotation.fromJson(entry.value);
+      if (!note.isEmpty) result[id] = note;
+      if (result.length >= maxEntries) break;
+    }
+    return (_Sidecar.usable, result);
   }
 
-  Future<void> _write(Map<String, PhotoAnnotation> notes) async {
-    await directory.create(recursive: true);
-    // Keep an unreadable file aside instead of silently destroying it.
-    if (_file.existsSync() && !await _isReadable()) {
-      // Never overwrite an earlier backup: use the first free name.
-      var aside = File('${directory.path}/annotations.json.unreadable');
-      for (var n = 1; aside.existsSync(); n++) {
-        aside = File('${directory.path}/annotations.json.unreadable.$n');
-      }
-      await _file.rename(aside.path);
+  /// Keeps a damaged sidecar (or a link in its place) aside under the first
+  /// free name instead of destroying it or writing through it, and returns
+  /// how to put it back.
+  Future<Future<void> Function()> _moveAside() async {
+    var aside = '${directory.path}/$_name.unreadable';
+    for (var n = 1; entryType(aside) != FileSystemEntityType.notFound; n++) {
+      aside = '${directory.path}/$_name.unreadable.$n';
     }
-    final temporary = File('${directory.path}/annotations.json.tmp');
-    await temporary.writeAsString(
+    if (await confirmedType(aside) != FileSystemEntityType.notFound) {
+      throw const FileSystemException('A backup name could not be checked.');
+    }
+    if (entryType(_file.path) == FileSystemEntityType.link) {
+      await Link(_file.path).rename(aside); // Moves the link, not its target.
+      return () async {
+        await Link(aside).rename(_file.path);
+      };
+    }
+    await fileOps.rename(_file, aside);
+    return () => fileOps.rename(File(aside), _file.path);
+  }
+
+  Future<void> _write(
+    Map<String, PhotoAnnotation> notes, {
+    Future<void> Function()? beforeRename,
+  }) => replaceAtomically(
+    _file,
+    utf8.encode(
       jsonEncode({
         'version': schemaVersion,
         'photos': {
           for (final entry in notes.entries) entry.key: entry.value.toJson(),
         },
       }),
-      flush: true,
-    );
-    await temporary.rename(_file.path);
-  }
-
-  Future<bool> _isReadable() async {
-    try {
-      final data = jsonDecode(await _file.readAsString());
-      return data is Map &&
-          data['version'] == schemaVersion &&
-          data['photos'] is Map;
-    } on Object {
-      return false;
-    }
-  }
+    ),
+    fileOps,
+    beforeRename: beforeRename,
+  );
 
   /// Sets or clears one photo's details and returns everything stored.
+  ///
+  /// A failed read or write is reported and leaves the sidecar in place. A
+  /// sidecar from a newer version of the app is reported as not saved and
+  /// left untouched. A damaged one is moved aside only once the new details
+  /// are fully staged, and put back if they then cannot be renamed in.
   Future<Map<String, PhotoAnnotation>> update(
     String id,
     PhotoAnnotation note,
@@ -185,24 +238,72 @@ class PhotoAnnotationStore {
     if (!_validId.hasMatch(id)) {
       throw const FormatException('Invalid photo ID.');
     }
-    final notes = await _read();
+    await ensureOwnedDirectory(directory);
+    final (state, notes) = await _parse();
+    if (state == _Sidecar.newer) {
+      throw const FormatException(
+        'These photo details were saved by a newer version of the app.',
+      );
+    }
     if (note.isEmpty) {
       notes.remove(id);
     } else {
       notes[id] = note;
     }
-    await _write(notes);
+    Future<void> Function()? restore;
+    try {
+      await _write(
+        notes,
+        beforeRename: state == _Sidecar.damaged
+            ? () async => restore = await _moveAside()
+            : null,
+      );
+    } on Object {
+      final undo = restore;
+      if (undo != null &&
+          entryType(_file.path) == FileSystemEntityType.notFound) {
+        try {
+          await undo();
+        } on Object {
+          // Keep the original error; the old file stays under its aside name.
+        }
+      }
+      rethrow;
+    }
     return notes;
   });
 
   /// Drops details for photos that no longer exist. Used after a copy is
   /// removed so deleting a photo also deletes what was written about it.
+  /// [ids] must be every photo the collection lists, not only the ones that
+  /// can be shown right now.
+  ///
+  /// Optional details must never stop the photos from opening, so this
+  /// never throws. If the sidecar cannot be read, is damaged or comes from a
+  /// newer version, nothing is written and no details are shown this time.
+  /// If writing the smaller sidecar fails (for example on a full disk), the
+  /// previous one stays intact, the result still contains only [ids], and
+  /// the next call retries the write.
   Future<Map<String, PhotoAnnotation>> keepOnly(Set<String> ids) =>
       _serial(() async {
-        final notes = await _read();
+        if (!_isOwnedFolder) return {};
+        final _Sidecar state;
+        final Map<String, PhotoAnnotation> notes;
+        try {
+          (state, notes) = await _parse();
+        } on Object {
+          return {};
+        }
+        if (state != _Sidecar.usable) return {};
         final before = notes.length;
         notes.removeWhere((id, _) => !ids.contains(id));
-        if (notes.length != before) await _write(notes);
+        if (notes.length != before) {
+          try {
+            await _write(notes);
+          } on Object {
+            // Retried on the next call; see above.
+          }
+        }
         return notes;
       });
 }
