@@ -1,8 +1,8 @@
 """Source-level guard for the no-backend / no-upload boundary (GM-028).
 
 This reads source and manifests. It is NOT a runtime traffic capture and does
-not prove what a native binary transmits: Android library manifests and
-FirebaseInitProvider are only visible in a built app. A failure here means a
+not prove what a native binary transmits: merged Android manifests and linked
+iOS pods are only visible in a built app. A failure here means a
 network-capable path changed and needs a conscious privacy decision plus an
 update to docs/release/network-privacy-audit.md.
 """
@@ -42,7 +42,7 @@ def code_lines(text):
 
 
 class NetworkBoundaryTests(unittest.TestCase):
-    def test_no_dart_code_imports_a_network_or_firebase_package(self):
+    def test_no_dart_code_imports_a_network_package(self):
         importers = {rel for rel, text in dart_files()
                      if NETWORK_IMPORT.search(text)}
         self.assertEqual(importers, set())
@@ -65,23 +65,27 @@ class NetworkBoundaryTests(unittest.TestCase):
                 self.assertNotIn('downloadPack(', body)
                 self.assertNotIn('raw.githubusercontent.com', body)
 
-    def test_firebase_is_never_initialized_by_the_app(self):
+    def test_firebase_stays_removed_everywhere_it_could_collect(self):
+        # Removed by maintainer decision; bringing any analytics or crash SDK
+        # back needs a privacy decision first (see WORKBOARD.md).
+        for rel in ('pubspec.yaml', 'pubspec.lock',
+                    'android/build.gradle', 'android/app/build.gradle',
+                    'android/app/src/main/AndroidManifest.xml',
+                    'ios/Runner/Info.plist',
+                    'ios/Runner.xcodeproj/project.pbxproj'):
+            with self.subTest(file=rel):
+                text = (ROOT / rel).read_text().lower()
+                for needle in ('firebase', 'crashlytics', 'google-services',
+                               'googleservice-info', 'com.google.gms'):
+                    self.assertNotIn(needle, text)
+        for rel in ('android/app/google-services.json',
+                    'ios/Runner/GoogleService-Info.plist'):
+            self.assertFalse((ROOT / rel).exists(), rel)
         for rel, text in dart_files():
             with self.subTest(file=rel):
-                self.assertNotIn('initializeApp(', '\n'.join(code_lines(text)))
-
-    def test_local_photo_features_and_startup_have_no_firebase_references(self):
-        guarded = [
-            rel for rel, _ in dart_files()
-            if rel.startswith('lib/features/gentle_activities/')
-            or rel in ('lib/bootstrap.dart', 'lib/main.dart',
-                       'lib/app/view/platform_home_native.dart')
-        ]
-        self.assertTrue(guarded)
-        texts = dict(dart_files())
-        for rel in guarded:
-            with self.subTest(file=rel):
-                self.assertNotIn('Firebase', '\n'.join(code_lines(texts[rel])))
+                body = '\n'.join(code_lines(text)).lower()
+                self.assertNotIn('firebase', body)
+                self.assertNotIn('initializeapp(', body)
 
     def test_hard_coded_urls_are_known_user_initiated_links(self):
         found = set()
@@ -90,14 +94,8 @@ class NetworkBoundaryTests(unittest.TestCase):
                 found.update(re.findall(r"https?://[^'\"\s)]+", line))
         self.assertEqual(found, EXPECTED_URLS)
 
-    def test_android_manifest_disables_collection_and_requests_no_sensitive_access(self):
+    def test_android_manifest_requests_no_sensitive_access(self):
         manifest = (ROOT / 'android/app/src/main/AndroidManifest.xml').read_text()
-        self.assertRegex(
-            manifest,
-            r'firebase_analytics_collection_deactivated"\s+android:value="true"')
-        self.assertRegex(
-            manifest,
-            r'firebase_crashlytics_collection_enabled"\s+android:value="false"')
         permissions = set(re.findall(r'uses-permission[^>]*android:name="([^"]+)"', manifest))
         forbidden = {
             'android.permission.CAMERA', 'android.permission.RECORD_AUDIO',
@@ -110,12 +108,8 @@ class NetworkBoundaryTests(unittest.TestCase):
         }
         self.assertEqual(permissions & forbidden, set())
 
-    def test_ios_plist_disables_collection_and_asks_only_for_the_picker(self):
+    def test_ios_plist_asks_only_for_the_picker(self):
         plist = (ROOT / 'ios/Runner/Info.plist').read_text()
-        self.assertRegex(
-            plist, r'FIREBASE_ANALYTICS_COLLECTION_DEACTIVATED</key>\s*<true/>')
-        self.assertRegex(
-            plist, r'FirebaseCrashlyticsCollectionEnabled</key>\s*<false/>')
         usage_keys = set(re.findall(r'<key>(NS\w+UsageDescription)</key>', plist))
         self.assertEqual(usage_keys, {'NSPhotoLibraryUsageDescription'})
         self.assertNotIn('NSUserTrackingUsageDescription', plist)

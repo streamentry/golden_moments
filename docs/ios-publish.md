@@ -14,7 +14,7 @@ If you're experiencing build or archive issues, the fastest solution is to recre
 This script:
 - ✅ Removes complex flavor configurations that cause build issues
 - ✅ Creates a clean, standard Flutter iOS project
-- ✅ Sets iOS 15.0 target (required for Firebase compatibility)
+- ✅ Sets iOS 15.0 target (kept from the Firebase era; revisit only with a native build)
 - ✅ Fixes all Swift plugin import issues automatically
 - ✅ Eliminates framework linking errors
 - ✅ Tests the build to ensure it works
@@ -87,7 +87,7 @@ This script:
    - **Team**: Select your Apple Developer team
    - **Bundle Identifier**: Update to `com.mindfulness.goldenmoments` (remove underscores)
    - **Deployment Info**: 
-     - iOS Deployment Target: 15.0 (required for Firebase Analytics compatibility)
+     - iOS Deployment Target: 15.0 (kept from the Firebase era)
      - Device Orientation: Portrait, Landscape Left, Landscape Right
 
 3. **Update Bundle Identifier**
@@ -326,10 +326,7 @@ This script:
    - Crash reports
    - User reviews and ratings
 
-2. **Firebase Analytics** (already integrated)
-   - User engagement metrics
-   - Feature usage analytics
-   - Custom events tracking
+2. **In-app analytics** are not integrated (Firebase was removed); engagement is measured by consented diaries and interviews
 
 ## Troubleshooting Common Issues
 
@@ -363,7 +360,7 @@ This script:
    This script:
    - Removes the old iOS project completely
    - Recreates it using Flutter's standard approach
-   - Sets iOS 15.0 target for Firebase compatibility
+   - Sets iOS 15.0 target (kept from the Firebase era)
    - Installs all dependencies cleanly
    - Tests the build to ensure it works
    

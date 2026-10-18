@@ -23,11 +23,11 @@ Gentle picture matching and shared photo activities. Flutter, local-first on iOS
 
 ## This upgrade
 
-On iOS/Android, the new home opens local activities without initializing Firebase or downloading packs. Gentle matching starts with four tiles, keeps pictures visible by default, and has no clock, score, penalty or automatic mismatch timer. Select up to 24 photos, store normalized local copies, match them, or view them with optional conversation prompts.
+On iOS/Android, the new home opens local activities without any backend or pack download. Gentle matching starts with four tiles, keeps pictures visible by default, and has no clock, score, penalty or automatic mismatch timer. Select up to 24 photos, store normalized local copies, match them, or view them with optional conversation prompts.
 
 All eight picture packs are now included with the app: 121 bundled images cover game pictures, category icons, thumbnails, and previews. The explicit mobile library action opens immediately. Browser and desktop use the same included catalog with no download tab, startup downloads, or image CDN. Family-photo storage is not a new browser capability.
 
-Firebase packages remain in the dependency graph, but app startup no longer initializes Firebase or requests its browser CDN. Mobile Analytics is deactivated and automatic Crashlytics reporting disabled in native configuration; native-build privacy auditing is still required.
+Firebase (analytics, crash reporting and core) was removed at the maintainer's instruction: no analytics or crash SDK is linked, and no Firebase configuration file ships. The app has no network code. A native iOS/Android build is still needed to confirm the regenerated projects link no other collection SDK (see `docs/release/network-privacy-audit.md`).
 
 Code completion is not verification. See [release-status.json](docs/specs/release-status.json). Sync, photo-deck exchange, recordings, payments and medical functionality are excluded from this upgrade.
 

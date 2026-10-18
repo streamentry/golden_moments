@@ -31,7 +31,7 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
     log('Using default local sound settings.');
   }
 
-  // Sound uses bundled files and is optional. No Firebase/CDN initialization
+  // Sound uses bundled files and is optional. No CDN request
   // or pack download may gate the first frame of the bundled catalog.
   if (!usesGentleActivities) {
     try {

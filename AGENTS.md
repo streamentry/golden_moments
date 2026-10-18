@@ -61,7 +61,8 @@ instead of silently treating any one of these as proof of the others.
   auto-closing dialog.
 - No new telemetry, SDK collection, permissions, cloud sync, or recurring cost
   without explicit approval and a documented privacy/product decision. Existing
-  Firebase dependencies do not establish either collection or absence of it.
+  Firebase was removed; bringing back any analytics or crash SDK is a new
+  privacy decision, and `tests/test_network_boundary.py` fails until it is made.
 - Do not put family photos, EXIF, diagnoses, secrets, or raw personal paths in
   logs, fixtures, commits, CI artifacts, or external AI/tool requests.
 
