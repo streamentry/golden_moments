@@ -34,7 +34,7 @@ Install on a clean device, switch on airplane mode, then launch.
 
 ## C. Comfort settings (GM-003, 037)
 
-1. From Home open Comfort settings (tune icon). Choose 8 tiles and hidden pictures. Start a game. **Expect:** 8 tiles, hidden backs, and no settings on the board.
+1. From Home open Comfort settings (tune icon). Choose 8 tiles and hidden pictures. Start a game. **Expect:** 8 tiles, hidden backs, and no settings on the board (the board screen shows the tiles, Done for now and Start again).
 2. Force-quit and relaunch. **Expect:** choices kept. Reset. **Expect:** confirmation, then four visible tiles; photos and packs untouched.
 3. Change the phone's text size. **Expect:** the app follows it (see F).
 

@@ -174,7 +174,7 @@
       },
       "GM-009": {
         "status": "implemented_unverified",
-        "scope": "Unshipped prototype, off in every normal build: a tap-to-place picture puzzle (2x2, also 3x3/4x4 in code) with no drag, clock, score, move count or hint ladder; the whole picture stays in view; a wrong placement is never flagged; pieces and slots are at least 64; Done for now is fixed. Reachable only in builds made with --dart-define=GM_EXPERIMENTS=true, from the family-photo collection, using only visible (non-hidden) photos. Per the R2 gate it must not ship until pilot evidence chooses it over GM-010; GM-010 is deliberately not built so both are not offered by default. Device and pilot evidence pending.",
+        "scope": "Unshipped prototype, off in every normal build: a tap-to-place picture puzzle (2x2, also 3x3/4x4 in code) with no drag, clock, score, move count or hint ladder; the whole picture stays in view; a wrong placement is never flagged; pieces and slots are at least 64; Done for now is fixed. Reachable only in builds made with --dart-define=GM_EXPERIMENTS=true, from the family-photo collection, using only visible (non-hidden) photos. Per the R2 gate it must not ship until pilot evidence chooses it over GM-010; GM-010 is deliberately not built so both are not offered by default. Device and pilot evidence pending. Screen-reader support is minimal (pieces are 'Piece N of M' and spots are labelled) and has not been tried with VoiceOver/TalkBack, so it is not claimed accessible.",
         "evidence": [
           "lib/features/gentle_activities/presentation/picture_puzzle_page.dart",
           "lib/features/gentle_activities/models/puzzle_board.dart",
@@ -293,7 +293,7 @@
       },
       "GM-025": {
         "status": "partial",
-        "scope": "Rights register for every shipped asset group exists (docs/specs/asset-provenance.json) and a test requires every declared asset and file on disk to be covered. Recorded: image source URL/hash/size, bundled Roboto license text. Unreviewed and therefore release-blocking (scripts/release_metadata.py --release now refuses): catalog images (no author/license/attribution/review date), sounds, app icons, pack index text. Needs a human rights review; nothing is marked reviewed here.",
+        "scope": "Rights register for every shipped asset group exists (docs/specs/asset-provenance.json) and a test requires every declared asset and file on disk to be covered. Recorded: image source URL/hash/size, bundled Roboto license text. Unreviewed and therefore release-blocking (scripts/release_metadata.py --release now refuses, and also refuses a reviewed or bundled-license group that still lists gaps): catalog images (no author/license/attribution/review date), sounds, app icons, native launcher/splash art in the iOS and Android projects, pack index text. Needs a human rights review; nothing is marked reviewed here.",
         "evidence": [
           "docs/specs/asset-provenance.json",
           "tests/test_asset_provenance.py",
@@ -345,7 +345,7 @@
       },
       "GM-031": {
         "status": "partial",
-        "scope": "Offline Help and privacy page reached from Home (guide > More help and privacy): plain guidance, privacy explanation, troubleshooting, and a problem report that carries only app version, platform family and one problem code, previewed exactly before the person chooses a destination in the system share sheet (cancellable, nothing automatic, no photos/hashes/captions/identifiers). Not done: a real support address (none is decided; the constant supportEmail is null and nothing is invented) and a no-mail-app copyable address; device checks with a real share sheet.",
+        "scope": "Offline Help and privacy page reached from Home (guide > More help and privacy): plain guidance, privacy explanation, troubleshooting, and a problem report that carries only app version, platform family and one problem code, previewed exactly before the person chooses a destination in the system share sheet (cancellable, nothing automatic, invisible/direction-override characters stripped so the preview is complete, and a share result the platform cannot report is never described as 'nothing sent', no photos/hashes/captions/identifiers). Not done: a real support address (none is decided; the constant supportEmail is null and nothing is invented) and a no-mail-app copyable address; device checks with a real share sheet.",
         "evidence": [
           "lib/features/gentle_activities/presentation/help_privacy_page.dart",
           "lib/shared/utils/support_info.dart",

@@ -8,8 +8,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 class _Recorder {
   final calls = <(String, String)>[];
-  bool result = true;
-  Future<bool> call(String text, String subject) async {
+  ShareOutcome result = ShareOutcome.shared;
+  Future<ShareOutcome> call(String text, String subject) async {
     calls.add((text, subject));
     return result;
   }
@@ -106,15 +106,31 @@ void main() {
   ) async {
     await tester.binding.setSurfaceSize(const Size(480, 4000));
     addTearDown(() => tester.binding.setSurfaceSize(null));
-    final recorder = _Recorder()..result = false;
+    final recorder = _Recorder()..result = ShareOutcome.dismissed;
     await tester.pumpWidget(_app(HelpPrivacyPage(sharer: recorder.call)));
     await tester.tap(find.text('Report a problem'));
     await tester.pumpAndSettle();
     await tester.tap(find.text('Choose where to send'));
     await tester.pumpAndSettle();
     expect(find.textContaining('Nothing was sent'), findsOneWidget);
+    expect(find.textContaining('copy the text'), findsNothing);
     // The buttons are still there to try again.
     expect(find.text('Report a problem'), findsOneWidget);
+  });
+
+  testWidgets('an unknown share result never claims nothing was sent', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(480, 4000));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    final recorder = _Recorder()..result = ShareOutcome.unknown;
+    await tester.pumpWidget(_app(HelpPrivacyPage(sharer: recorder.call)));
+    await tester.tap(find.text('Report a problem'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Choose where to send'));
+    await tester.pumpAndSettle();
+    expect(find.textContaining('If you sent it, thank you'), findsOneWidget);
+    expect(find.textContaining('Nothing was sent'), findsNothing);
   });
 
   testWidgets('no review or rating is requested anywhere on this page', (

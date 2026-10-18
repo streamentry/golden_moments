@@ -75,9 +75,18 @@ def validate(data, status, release=False, root=ROOT):
         except (OSError, ValueError):
             provenance = {'groups': []}
             errors.append('asset provenance register missing or unreadable')
-        for group in provenance.get('groups', []):
-            if group.get('rights_status') not in ('reviewed', 'license_text_bundled', 'not_shipped'):
-                errors.append(f'asset rights unreviewed: {group.get("id")}')
+        groups = provenance.get('groups', [])
+        if not groups:
+            errors.append('asset provenance register has no groups')
+        for group in groups:
+            gid = group.get('id')
+            rights = group.get('rights_status')
+            if rights not in ('reviewed', 'license_text_bundled', 'not_shipped'):
+                errors.append(f'asset rights unreviewed: {gid}')
+            elif rights in ('reviewed', 'license_text_bundled') and group.get('missing'):
+                errors.append(f'asset rights incomplete: {gid}')
+            elif rights == 'not_shipped' and group.get('paths'):
+                errors.append(f'asset marked not shipped but lists files: {gid}')
         for screen in screenshots:
             for platform in ['iphone', 'ipad']:
                 capture = screen.get('files', {}).get(platform)

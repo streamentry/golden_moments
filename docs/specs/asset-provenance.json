@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "updated": "2026-10-18",
-  "meaning": "Rights register for everything the app ships (GM-025). rights_status 'reviewed' means a person recorded author, license or permission, attribution and redistribution terms and a review date. Nothing below is reviewed except where stated. Bundling an asset is not proof of redistribution rights; unreviewed assets block release (scripts/release_metadata.py --release).",
+  "meaning": "Rights register for everything the app ships, including native launcher and splash art (GM-025). rights_status 'reviewed' means a person recorded author, license or permission, attribution and redistribution terms and a review date. Nothing below is reviewed except where stated. Bundling an asset is not proof of redistribution rights; unreviewed assets block release (scripts/release_metadata.py --release).",
   "groups": [
     {
       "id": "catalog-images",
@@ -81,6 +81,23 @@
       "paths": [],
       "rights_status": "not_shipped",
       "note": "Chosen by the person on their own device; never bundled, uploaded or included in screenshots."
+    },
+    {
+      "id": "native-icon-and-splash-art",
+      "paths": [
+        "ios/Runner/Assets.xcassets/AppIcon.appiconset/",
+        "android/app/src/main/res/",
+        "android/app/src/main/ic_launcher-playstore.png",
+        "android/app/src/development/",
+        "android/app/src/staging/"
+      ],
+      "rights_status": "unreviewed",
+      "note": "Launcher icons and splash images checked into the native projects; generated from assets/icons by flutter_launcher_icons and flutter_native_splash, so they carry the same origin question as the app-icons group.",
+      "missing": [
+        "origin and author of the source icon",
+        "license or permission",
+        "review date"
+      ]
     }
   ]
 }

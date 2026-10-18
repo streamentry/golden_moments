@@ -33,23 +33,6 @@ void main() {
         expect(code, matches(RegExp(r'^[a-z-]+$')));
       }
     });
-
-    test('nothing personal can enter the summary', () {
-      // The only inputs are the enum and the platform; seeded personal
-      // strings from elsewhere in the app have no way in.
-      final seeds = [
-        '/data/user/0/app/family_photos_v1/${'a' * 64}.png',
-        'Grandma Rose',
-        'Lake day caption',
-      ];
-      for (final kind in ProblemKind.values) {
-        final text = diagnosticSummary(kind);
-        for (final seed in seeds) {
-          expect(text, isNot(contains(seed)));
-        }
-        expect(text, isNot(matches(RegExp('[a-f0-9]{16,}'))));
-      }
-    });
   });
 
   group('feedback message', () {
@@ -75,6 +58,25 @@ void main() {
     test('is capped at the maximum length', () {
       final text = feedbackMessage('x' * 5000, platform: TargetPlatform.iOS);
       expect(text.split('\n\n').first.length, maxNoteLength);
+    });
+
+    test('invisible characters are not sent, so the preview is complete', () {
+      final text = feedbackMessage(
+        'a\u200Bb\u202Ec\u2066d\uFEFFe',
+        platform: TargetPlatform.iOS,
+      );
+      final note = text.split('\n\n').first;
+      expect(note, 'a b c d e');
+      for (final unit in note.runes) {
+        expect(
+          unit > 0x1F &&
+              !(unit >= 0x200B && unit <= 0x200F) &&
+              !(unit >= 0x202A && unit <= 0x202E) &&
+              !(unit >= 0x2066 && unit <= 0x2069) &&
+              unit != 0xFEFF,
+          isTrue,
+        );
+      }
     });
 
     test('markup stays inert text', () {

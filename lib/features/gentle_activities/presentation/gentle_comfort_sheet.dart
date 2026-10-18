@@ -11,9 +11,13 @@ class GentleComfortSheet extends StatefulWidget {
     required this.maxPairs,
     required this.onChanged,
     required this.onReset,
+    this.closeLabel = 'Back to the pictures',
     super.key,
   });
   final GentlePreferences initial;
+
+  /// What the button that closes the sheet says, to fit where it opened.
+  final String closeLabel;
   final int maxPairs;
   final Future<({GentlePreferences prefs, bool saved})> Function(
     GentlePreferences,
@@ -28,10 +32,16 @@ class GentleComfortSheet extends StatefulWidget {
 class _GentleComfortSheetState extends State<GentleComfortSheet> {
   late GentlePreferences _prefs = widget.initial;
   bool _saveFailed = false;
+  int _latest = 0;
 
+  /// Shows the choice at once and builds the next one on top of it, so two
+  /// quick taps both count. Only the newest answer is allowed to settle the
+  /// sheet, so a slow earlier save cannot undo a later choice.
   Future<void> _change(GentlePreferences next) async {
+    final mine = ++_latest;
+    setState(() => _prefs = next);
     final result = await widget.onChanged(next);
-    if (!mounted) return;
+    if (!mounted || mine != _latest) return;
     setState(() {
       _prefs = result.prefs;
       _saveFailed = !result.saved;
@@ -121,7 +131,7 @@ class _GentleComfortSheetState extends State<GentleComfortSheet> {
             const SizedBox(height: gmSpaceSm),
             FilledButton(
               onPressed: () => Navigator.pop(context),
-              child: const Text('Back to the pictures'),
+              child: Text(widget.closeLabel),
             ),
           ],
         ),

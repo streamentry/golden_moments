@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/gentle_activities/data/gentle_preferences.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_home_page.dart';
@@ -50,7 +51,7 @@ void main() {
     await tester.pumpAndSettle();
     await tester.tap(find.byType(Switch));
     await tester.pumpAndSettle();
-    await tester.tap(find.text('Back to the pictures'));
+    await tester.tap(find.text('Done'));
     await tester.pumpAndSettle();
 
     await tester.tap(find.text('Start a gentle game'));
@@ -70,7 +71,7 @@ void main() {
     await tester.pumpAndSettle();
     await tester.tap(find.widgetWithText(FilledButton, 'Reset'));
     await tester.pumpAndSettle();
-    await tester.tap(find.text('Back to the pictures'));
+    await tester.tap(find.text('Done'));
     await tester.pumpAndSettle();
     await tester.tap(find.text('Start a gentle game'));
     await tester.pumpAndSettle();
@@ -194,6 +195,25 @@ void main() {
       expect(find.bySemanticsLabel(RegExp('Hidden picture')), findsNothing);
     },
   );
+
+  testWidgets('two quick choices in the comfort sheet both count', (
+    tester,
+  ) async {
+    await tester.pumpWidget(_app());
+    await tester.pumpAndSettle();
+    await tester.tap(find.byTooltip('Comfort settings'));
+    await tester.pumpAndSettle();
+    // No frame between the two taps: the second must build on the first.
+    await tester.tap(find.text('6 tiles'));
+    await tester.tap(find.byType(Switch));
+    await tester.pumpAndSettle();
+    final saved = await const GentlePreferencesStore().load();
+    expect(saved.pairs, 3);
+    expect(saved.keepVisible, isFalse);
+    await tester.tap(find.text('Back to the pictures'));
+    await tester.pumpAndSettle();
+    expect(_tiles, findsNWidgets(6));
+  });
 
   testWidgets('changing tile count mid-board asks first and can be declined', (
     tester,

@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
@@ -191,6 +192,61 @@ void main() {
       expect(tester.takeException(), isNull);
     });
 
+    testWidgets('stale topics are dropped from the saved choice', (
+      tester,
+    ) async {
+      SharedPreferences.setMockInitialValues({
+        InterestStore.storageKey: jsonEncode({
+          'v': 1,
+          'topics': ['gone', 'food'],
+        }),
+      });
+      await tester.pumpWidget(_app());
+      await tester.pumpAndSettle();
+      expect(tester.widget<FilterChip>(_chip('Food')).selected, isTrue);
+      expect(await const InterestStore().load(), {'food'});
+
+      SharedPreferences.setMockInitialValues({
+        InterestStore.storageKey: jsonEncode({
+          'v': 1,
+          'topics': ['gone'],
+        }),
+      });
+      await tester.pumpWidget(const SizedBox());
+      await tester.pumpWidget(_app());
+      await tester.pumpAndSettle();
+      expect(find.text('Show all topics'), findsNothing);
+      expect(await const InterestStore().load(), isEmpty);
+    });
+
+    testWidgets('a tap before the saved choice loads is not overwritten', (
+      tester,
+    ) async {
+      final store = _SlowInterestStore({'animals'});
+      await tester.pumpWidget(
+        MaterialApp(
+          theme: gmBuildTheme(),
+          home: Scaffold(
+            body: SingleChildScrollView(
+              child: LibrarySection(
+                categories: _categories,
+                onCategoryTap: (_) {},
+                interestStore: store,
+              ),
+            ),
+          ),
+        ),
+      );
+      await tester.pump();
+      await tester.tap(_chip('Food'));
+      await tester.pump();
+      store.release();
+      await tester.pumpAndSettle();
+      expect(tester.widget<FilterChip>(_chip('Food')).selected, isTrue);
+      expect(tester.widget<FilterChip>(_chip('Animals')).selected, isFalse);
+      expect(store.saved.last, {'food'});
+    });
+
     testWidgets('selection is shown with a check, not colour alone', (
       tester,
     ) async {
@@ -217,4 +273,26 @@ void main() {
       expect(tester.getSize(_chip('Food')).height, greaterThanOrEqualTo(48));
     });
   });
+}
+
+/// A store whose load waits, to model a tap that beats the saved choice.
+class _SlowInterestStore extends InterestStore {
+  new(this._stored);
+  final Set<String> _stored;
+  final _gate = Completer<void>();
+  final List<Set<String>> saved = [];
+
+  void release() => _gate.complete();
+
+  @override
+  Future<Set<String>> load() async {
+    await _gate.future;
+    return _stored;
+  }
+
+  @override
+  Future<bool> save(Set<String> topics) async {
+    saved.add({...topics});
+    return true;
+  }
 }

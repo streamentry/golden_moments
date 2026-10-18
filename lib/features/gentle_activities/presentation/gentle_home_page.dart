@@ -43,6 +43,7 @@ class _GentleHomePageState extends State<GentleHomePage> {
       builder: (context) => GentleComfortSheet(
         initial: initial,
         maxPairs: ActivityPicture.samples.length,
+        closeLabel: 'Done',
         onChanged: (next) async => (prefs: next, saved: await store.save(next)),
         onReset: () async {
           await store.reset();

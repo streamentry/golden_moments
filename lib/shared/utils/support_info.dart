@@ -44,7 +44,15 @@ const int maxNoteLength = 1000;
 /// it can be understood. Nothing else is attached.
 String feedbackMessage(String note, {TargetPlatform? platform}) {
   final cleaned = note
-      .replaceAll(RegExp(r'[\u0000-\u0008\u000B-\u001F\u007F-\u009F]'), ' ')
+      // Control characters, zero-width and direction-override characters are
+      // invisible in the preview, so none of them are sent.
+      .replaceAll(
+        RegExp(
+          r'[\u0000-\u0008\u000B-\u001F\u007F-\u009F'
+          r'\u200B-\u200F\u202A-\u202E\u2060-\u2064\u2066-\u2069\uFEFF]',
+        ),
+        ' ',
+      )
       .replaceAll(RegExp(r'[ \t]+'), ' ')
       .replaceAll(RegExp(r'\n{3,}'), '\n\n')
       .trim();

@@ -157,8 +157,8 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
                           spacing: gmTileGap,
                           runSpacing: gmTileGap,
                           children: [
-                            for (final piece in _board.tray)
-                              _trayPiece(piece, trayPiece),
+                            for (var i = 0; i < _board.tray.length; i++)
+                              _trayPiece(_board.tray[i], trayPiece, i),
                           ],
                         ),
                       ],
@@ -242,11 +242,11 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
     return Semantics(
       button: true,
       label: piece == null ? '$spot, empty' : '$spot, has a piece',
-      hint: piece != null
-          ? 'Takes the piece back'
-          : _board.selected != null
-          ? 'Places the chosen piece here'
-          : 'Choose a piece first',
+      hint: _board.selected != null
+          ? (piece == null
+                ? 'Places the chosen piece here'
+                : 'Swaps with the chosen piece')
+          : (piece == null ? 'Choose a piece first' : 'Takes the piece back'),
       onTap: () => setState(() => _board.tapSlot(slot)),
       child: ExcludeSemantics(
         child: SizedBox.square(
@@ -276,12 +276,14 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
     );
   }
 
-  Widget _trayPiece(int piece, double side) {
+  Widget _trayPiece(int piece, double side, int position) {
     final scheme = Theme.of(context).colorScheme;
     final selected = _board.selected == piece;
     return Semantics(
       button: true,
-      label: 'Piece',
+      // The position in the tray tells pieces apart without revealing where
+      // each one belongs.
+      label: 'Piece ${position + 1} of ${_board.tray.length}',
       value: selected ? 'Selected' : '',
       onTap: () => setState(() => _board.select(piece)),
       child: ExcludeSemantics(

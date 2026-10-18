@@ -16,7 +16,7 @@ Updated 2026-10-18. Scope: US English, local-first Golden Moments 1.3.0 candidat
 | DESIGN.md design system applied app-wide (contrast-safe gold, 16px text floor, calm legacy game) | Implemented; automated contrast/target/text-scale tests; device review pending |
 | Senior-first feature plan | Specified in docs/specs/senior-first; not newly implemented or release-approved |
 | Senior-first slice 2: family-photo captions/descriptions, favorites and reversible hiding (GM-019, GM-020 partial, GM-018 failure paths) | Implemented; journey tests with real storage pass locally; no device or screen-reader evidence. Per-feature status in `release-status.json` |
-| Senior-first slice 1: board first, visible exit, comfort settings on request, safe resume (GM-001/002/003/004/005/012/013/016, gentle matching screen only) | Implemented; strict analysis and 196 Flutter tests pass locally; no device, screen-reader or user-comprehension evidence. Per-feature status in `release-status.json` › `senior_first_features` |
+| Senior-first slice 1: board first, visible exit, comfort settings on request, safe resume (GM-001/002/003/004/005/012/013/016, gentle matching screen only) | Implemented; strict analysis and the full Flutter suite pass locally and in CI for this branch (counts in the PR description and CI logs, not recorded here); no device, screen-reader or user-comprehension evidence. Per-feature status in `release-status.json` › `senior_first_features` |
 
 PR #44 was independently merged while checks were running. That merge is not release approval. [Validation record](docs/release/validation-2026-10-18.md) distinguishes passed focused tests from remaining strict CI and native checks.
 

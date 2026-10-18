@@ -29,6 +29,10 @@ class _LibrarySectionState extends State<LibrarySection> {
   Set<String> _chosen = {};
   bool _saveFailed = false;
 
+  /// Set once the person has chosen or cleared anything, so a slower load of
+  /// the saved choice can never overwrite what they just did.
+  bool _touched = false;
+
   @override
   void initState() {
     super.initState();
@@ -37,10 +41,18 @@ class _LibrarySectionState extends State<LibrarySection> {
 
   Future<void> _load() async {
     final saved = await widget.interestStore.load();
-    if (mounted && saved.isNotEmpty) setState(() => _chosen = saved);
+    if (!mounted || _touched) return;
+    // Only topics that still exist count; a stale choice is dropped.
+    final known = {for (final category in widget.categories) category.id};
+    final current = saved.intersection(known);
+    if (current.isNotEmpty) setState(() => _chosen = current);
+    if (current.length != saved.length) {
+      unawaited(widget.interestStore.save(current));
+    }
   }
 
   Future<void> _toggle(String id, {required bool selected}) async {
+    _touched = true;
     final next = {..._chosen};
     if (selected) {
       next.add(id);
@@ -53,6 +65,7 @@ class _LibrarySectionState extends State<LibrarySection> {
   }
 
   Future<void> _clear() async {
+    _touched = true;
     setState(() => _chosen = {});
     final saved = await widget.interestStore.save({});
     if (mounted) setState(() => _saveFailed = !saved);

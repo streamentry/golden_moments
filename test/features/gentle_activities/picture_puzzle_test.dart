@@ -22,7 +22,7 @@ Widget _app({double textScale = 1, int seed = 7, int size = 2}) => MaterialApp(
   home: PicturePuzzlePage(pictures: _one, size: size, random: Random(seed)),
 );
 
-final Finder _pieces = find.bySemanticsLabel(RegExp(r'^Piece$'));
+final Finder _pieces = find.bySemanticsLabel(RegExp(r'^Piece \d+ of \d+$'));
 Finder _spot(int slot, int n) =>
     find.bySemanticsLabel(RegExp('^Spot ${slot ~/ n + 1}, ${slot % n + 1},'));
 

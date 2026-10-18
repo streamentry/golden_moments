@@ -3,18 +3,25 @@ import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/shared/utils/support_info.dart';
 import 'package:share_plus/share_plus.dart';
 
-/// Sends text through the system share sheet. True only if the platform says
-/// something was shared.
-typedef TextSharer = Future<bool> Function(String text, String subject);
+/// What the platform reported about a share. `unknown` is common: many
+/// platforms cannot say whether the person finished sharing.
+enum ShareOutcome { shared, dismissed, unknown }
 
-Future<bool> shareText(String text, String subject) async {
+/// Sends text through the system share sheet.
+typedef TextSharer = Future<ShareOutcome> Function(String text, String subject);
+
+Future<ShareOutcome> shareText(String text, String subject) async {
   try {
     final result = await SharePlus.instance.share(
       ShareParams(text: text, subject: subject),
     );
-    return result.status == ShareResultStatus.success;
+    return switch (result.status) {
+      ShareResultStatus.success => ShareOutcome.shared,
+      ShareResultStatus.dismissed => ShareOutcome.dismissed,
+      ShareResultStatus.unavailable => ShareOutcome.unknown,
+    };
   } on Object {
-    return false;
+    return ShareOutcome.dismissed;
   }
 }
 
@@ -35,13 +42,16 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
   String? _status;
 
   Future<void> _send(String text, String subject) async {
-    final shared = await widget.sharer(text, subject);
+    final outcome = await widget.sharer(text, subject);
     if (!mounted) return;
     setState(
-      () => _status = shared
-          ? 'Thank you. Nothing else was sent.'
-          : 'Nothing was sent. You can try again, or copy the text above '
-                'from the review window.',
+      () => _status = switch (outcome) {
+        ShareOutcome.shared => 'Thank you. Nothing else was sent.',
+        ShareOutcome.dismissed => 'Nothing was sent. You can try again.',
+        ShareOutcome.unknown =>
+          'The share window closed. If you sent it, thank you. Nothing '
+              'else was sent.',
+      },
     );
   }
 
