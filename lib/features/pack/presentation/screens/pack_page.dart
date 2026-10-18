@@ -83,7 +83,7 @@ class _PackView extends StatelessWidget {
             // Fail closed: no pack is shown until the saved choices are
             // known, so a pack marked Not for me never appears.
             if (state.status != HomeStatus.loaded || !state.preferencesReady) {
-              return const Center(child: CircularProgressIndicator());
+              return const _WaitingForChoices();
             }
             final packs = state.browsablePacksIn(categoryId);
             final hidden = state.hiddenPacksIn(categoryId);
@@ -162,6 +162,74 @@ class _PackView extends StatelessWidget {
                   onShowAgain: (pack) => unawaited(cubit.showPack(pack.id)),
                 ),
               ],
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+/// Shown while the catalog or the saved choices are still loading. No pack
+/// is shown until the choices are known (a hidden pack must never appear),
+/// but the wait is bounded: after [HomeCubit.preferencesGrace] the spinner is
+/// replaced by a plain explanation and a way back (GM-005, GM-030). Nothing
+/// retries on its own; when the choices arrive the packs simply appear.
+class _WaitingForChoices extends StatefulWidget {
+  const new();
+
+  @override
+  State<_WaitingForChoices> createState() => _WaitingForChoicesState();
+}
+
+class _WaitingForChoicesState extends State<_WaitingForChoices> {
+  Timer? _timer;
+  bool _slow = false;
+
+  @override
+  void initState() {
+    super.initState();
+    _timer = Timer(HomeCubit.preferencesGrace, () {
+      if (mounted) setState(() => _slow = true);
+    });
+  }
+
+  @override
+  void dispose() {
+    _timer?.cancel();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    if (!_slow) return const Center(child: CircularProgressIndicator());
+    final theme = Theme.of(context);
+    return Center(
+      child: SingleChildScrollView(
+        padding: const EdgeInsets.all(gmSpaceMd),
+        child: ConstrainedBox(
+          constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Icon(
+                Icons.hourglass_empty,
+                size: 48,
+                color: theme.colorScheme.onSurfaceVariant,
+              ),
+              const SizedBox(height: gmSpaceSm),
+              Text(
+                'Your saved pack choices are not ready yet. You can go back '
+                'and try again in a moment.',
+                style: theme.textTheme.bodyLarge,
+                textAlign: TextAlign.center,
+              ),
+              const SizedBox(height: gmSpaceMd),
+              OutlinedButton.icon(
+                onPressed: () => Navigator.of(context).maybePop(),
+                icon: const Icon(Icons.arrow_back),
+                label: const Text('Back to the library'),
+              ),
             ],
           ),
         ),

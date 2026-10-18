@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -344,12 +346,16 @@ void main() {
     await tester.ensureVisible(_topicCard('Animals'));
     await tester.pumpAndSettle();
     await tester.tap(_topicCard('Animals'));
-    // The spinner keeps animating, so step time instead of settling.
-    await tester.pump(const Duration(seconds: 1));
-    await tester.pump(const Duration(seconds: 1));
+    await tester.pump();
+    await tester.pump(const Duration(milliseconds: 200));
+    await tester.pump(const Duration(milliseconds: 200));
     expect(find.byType(PackPage), findsOneWidget);
     expect(find.byType(PackCard), findsNothing);
     expect(find.byType(CircularProgressIndicator), findsOneWidget);
+    await tester.pump(HomeCubit.preferencesGrace);
+    await tester.pumpAndSettle();
+    expect(find.textContaining('not ready yet'), findsOneWidget);
+    expect(find.byType(PackCard), findsNothing);
 
     store.release();
     await done;
@@ -361,6 +367,89 @@ void main() {
     expect(_key('suggested-farm'), findsNothing);
     expect(_key('favorite-mountains'), findsOneWidget);
     expect(find.text('Hidden packs (1)'), findsOneWidget);
+  });
+
+  testWidgets('a topic page never spins forever while choices load', (
+    tester,
+  ) async {
+    // A store whose load never completes.
+    final store = GatedPackStore(const PackPreferences());
+    final cubit = _cubit(store: store);
+    addTearDown(cubit.close);
+    await tester.pumpWidget(
+      MaterialApp(
+        theme: gmBuildTheme(),
+        home: Builder(
+          builder: (context) => Scaffold(
+            body: Center(
+              child: TextButton(
+                onPressed: () => Navigator.of(context).push(
+                  MaterialPageRoute<void>(
+                    builder: (_) => PackPage(
+                      categoryId: 'animals',
+                      categoryName: 'Animals',
+                      library: cubit,
+                    ),
+                  ),
+                ),
+                child: const Text('Open Animals'),
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+    unawaited(cubit.initialize());
+    await tester.tap(find.text('Open Animals'));
+    await tester.pump();
+    await tester.pump(const Duration(milliseconds: 400));
+    expect(find.byType(CircularProgressIndicator), findsOneWidget);
+
+    await tester.pump(HomeCubit.preferencesGrace * 2);
+    // Settles: no endless spinner remains after the grace.
+    await tester.pumpAndSettle();
+    expect(find.byType(CircularProgressIndicator), findsNothing);
+    expect(find.textContaining('not ready yet'), findsOneWidget);
+    expect(find.byType(PackCard), findsNothing);
+    final back = find.widgetWithText(OutlinedButton, 'Back to the library');
+    expect(back, findsOneWidget);
+    expect(tester.getSize(back).height, greaterThanOrEqualTo(gmTargetMin));
+
+    await tester.tap(back);
+    await tester.pumpAndSettle();
+    expect(find.byType(PackPage), findsNothing);
+    expect(find.text('Open Animals'), findsOneWidget);
+  });
+
+  testWidgets('packs appear once slow choices arrive, without a retry', (
+    tester,
+  ) async {
+    final store = GatedPackStore(
+      const PackPreferences().withHidden('farm', hide: true),
+    );
+    final cubit = _cubit(store: store);
+    addTearDown(cubit.close);
+    await tester.pumpWidget(
+      MaterialApp(
+        theme: gmBuildTheme(),
+        home: PackPage(
+          categoryId: 'animals',
+          categoryName: 'Animals',
+          library: cubit,
+        ),
+      ),
+    );
+    final done = cubit.initialize();
+    await tester.pump(HomeCubit.preferencesGrace * 3);
+    await tester.pumpAndSettle();
+    expect(find.textContaining('not ready yet'), findsOneWidget);
+
+    store.release();
+    await done;
+    await tester.pumpAndSettle();
+    expect(find.textContaining('not ready yet'), findsNothing);
+    expect(_key('pack-safari'), findsOneWidget);
+    expect(_key('pack-farm'), findsNothing);
   });
 
   testWidgets('a choice that cannot be saved says so calmly', (tester) async {
