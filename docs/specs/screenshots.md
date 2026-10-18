@@ -1,6 +1,6 @@
 # US screenshot specification
 
-Canonical text and feature requirements: `metadata/app-store.en-US.json`. Final build6 iPhone and iPad files, originals and hashes are in `assets/screenshots/en-US/`; canonical metadata records all 12 final paths.
+Canonical text and feature requirements: `metadata/app-store.en-US.json`. Final build 6 iPhone and iPad files, originals and hashes are in `assets/screenshots/en-US/`; canonical metadata records all 12 final paths.
 
 | Order | Headline | Supporting text | Proof |
 | --- | --- | --- | --- |
@@ -23,7 +23,7 @@ UI dominates; one message per frame. Do not use invented interfaces, medical bad
 4. Add restrained text without hiding functionality. Keep originals.
 5. Set final file paths in metadata and device/build evidence in release status; run `--release`.
 
-Source implementation alone does not prove native import works. Do not submit frame 2 until native picker verification passes. The build6 native picker and actual imported-photo activity passed on both iOS18.5 simulator sizes; physical-device and failure-path QA remain pending. See [capture evidence](../../assets/screenshots/en-US/README.md).
+Source implementation alone does not prove native import works. Do not submit frame 2 until native picker verification passes. The build 6 native picker and actual imported-photo activity passed on both iOS 18.5 simulator sizes; physical-device and failure-path QA remain pending. See [capture evidence](../../assets/screenshots/en-US/README.md).
 
 ## Test
 

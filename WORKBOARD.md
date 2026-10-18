@@ -83,7 +83,7 @@ The website privacy/terms/deletion/safety documentation is prepared in `streamen
 Prepared from `c3fcd03` plus the annotation-save busy-state regression fix. The
 actual candidate passes 189 Flutter tests, strict analysis and 56 Python tests.
 The signed Firebase-free IPA validates with Apple and processes as VALID.
-Separate native iPhone/iPad iOS18.5 sessions imported the two synthetic demo
+Separate native iPhone/iPad iOS 18.5 sessions imported the two synthetic demo
 photos through the real picker and exercised matching, viewing, comfort controls
 and the included library. Twelve genuine store screenshots, originals, generation
 prompts and hashes are committed under `assets/screenshots/en-US/`; all twelve
@@ -94,7 +94,7 @@ localizations were removed after a protected backup. The published1.0 translatio
 were retained. Public release is MANUAL. Review submission does not certify the
 pending physical-device, upgrade, accessibility, caregiver, legal or inherited
 asset-rights gates. The release validator remains fail-closed. See
-[build6 evidence](docs/release/app-store-1.3.0-build6.md) for exact limits and store state.
+[build 6 evidence](docs/release/app-store-1.3.0-build 6.md) for exact limits and store state.
 
-Apple readback confirmed build6 **WAITING_FOR_REVIEW** at2026-10-18T17:44:55Z;
+Apple readback confirmed build 6 **WAITING_FOR_REVIEW** at 2026-10-18T17:44:55Z;
 public release remains MANUAL. This is submitted, not approved or published.
