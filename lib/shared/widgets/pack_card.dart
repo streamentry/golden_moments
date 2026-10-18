@@ -133,14 +133,8 @@ class PackCard extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             mainAxisSize: MainAxisSize.min,
             children: [
-              // Long pack titles may truncate at two lines (DESIGN.md);
-              // everything else wraps.
-              Text(
-                pack.title,
-                style: theme.textTheme.titleMedium,
-                maxLines: 2,
-                overflow: TextOverflow.ellipsis,
-              ),
+              // Nothing is clamped: the card grows with its text.
+              Text(pack.title, style: theme.textTheme.titleMedium),
               Text(
                 pack.theme,
                 style: theme.textTheme.bodySmall?.copyWith(
@@ -163,10 +157,14 @@ class PackCard extends StatelessWidget {
                         color: scheme.primary,
                       ),
                       const SizedBox(width: gmSpaceXs),
-                      Text(
-                        'Play',
-                        style: theme.textTheme.labelSmall?.copyWith(
-                          color: scheme.primary,
+                      // Flexible so a narrow card wraps the word instead of
+                      // overflowing at large text sizes.
+                      Flexible(
+                        child: Text(
+                          'Play',
+                          style: theme.textTheme.labelSmall?.copyWith(
+                            color: scheme.primary,
+                          ),
                         ),
                       ),
                     ],
