@@ -12,8 +12,12 @@ import 'package:golden_moments/features/gentle_activities/data/owned_files.dart'
 /// place, so an interruption leaves either the previous file or the new one.
 /// Copies are written before the manifest that indexes them, and the manifest
 /// drops a reference before its copy is deleted. Whatever an interruption
-/// leaves behind (staging files, copies no manifest lists) is removed on the
-/// next load. Symbolic links are never read, written or deleted through.
+/// leaves behind (staging files, copies an existing manifest does not list)
+/// is removed on the next load. With no manifest at all, copies whose
+/// content matches their name are adopted rather than removed. Changes start
+/// from the manifest as written, never from the filtered display list, and
+/// a file that cannot be inspected is an error, never "absent". Symbolic
+/// links are never read, written or deleted through.
 class FamilyPhotoStore {
   new(this.directory, {this.fileOps = const StoreFileOps()});
 
@@ -40,24 +44,34 @@ class FamilyPhotoStore {
   Future<T> _serial<T>(Future<T> Function() action) =>
       serializeOn('photos:${directory.absolute.path}', action);
 
-  /// The photos that can be shown. Also tidies what an interrupted change
-  /// left behind; that tidying never blocks or changes the result.
+  /// The photos that can be shown, in collection order. Also tidies what an
+  /// interrupted change left behind; that tidying never changes the result.
+  ///
+  /// Throws, rather than returning fewer photos, when the manifest or a copy
+  /// cannot be inspected or read: callers prune photo details by this list.
   Future<List<String>> load() => _serial(() async {
     final indexed = await _readManifest();
     try {
+      // Without a manifest only staging files go; copies are adopted below.
       await _removeLeftovers(indexed?.toSet());
     } on Object {
       // Left for the next load; the indexed photos are unaffected.
     }
-    return _available(indexed);
+    final ids = indexed ?? await _adoptable();
+    return [
+      for (final id in ids)
+        if (await confirmedType(fileFor(id).path) == FileSystemEntityType.file)
+          id,
+    ];
   });
 
-  /// The ids the manifest lists, or null when there is no manifest yet.
-  /// Anything other than a well-formed current manifest in a plain file is
-  /// surfaced as an error and never overwritten.
+  /// The ids the manifest lists, or null only when there is genuinely no
+  /// manifest. A manifest that cannot be inspected or read, or anything
+  /// other than a well-formed current manifest in a plain file, is surfaced
+  /// as an error and never overwritten.
   Future<List<String>?> _readManifest() async {
     await ensureOwnedDirectory(directory);
-    final type = entryType(_manifest.path);
+    final type = await confirmedType(_manifest.path);
     if (type == FileSystemEntityType.notFound) return null;
     if (type != FileSystemEntityType.file) {
       throw const FormatException('The photo collection cannot be read.');
@@ -80,14 +94,39 @@ class FamilyPhotoStore {
     return ids;
   }
 
-  /// Missing copies do not prevent the remaining pictures from being used.
-  /// A copy replaced by a link is treated as missing and never read through.
-  List<String> _available(List<String>? indexed) => [
-    for (final id in indexed ?? const <String>[])
-      if (isPlainFile(fileFor(id).path)) id,
-  ];
+  /// Without a manifest (a first import stopped before its index was
+  /// written), the plain hash-named copies whose content matches their name
+  /// are the collection: oldest first, at most [maxPhotos]. Nothing is
+  /// written here; the next change records them in a new manifest.
+  Future<List<String>> _adoptable() async {
+    final found = <(DateTime, String)>[];
+    await for (final entry in directory.list(followLinks: false)) {
+      final copy = _copyName.firstMatch(entry.uri.pathSegments.last);
+      if (entry is! File || copy == null || copy[2] != null) continue;
+      if (await _holds(entry, copy[1]!)) {
+        found.add((entry.lastModifiedSync(), copy[1]!));
+      }
+    }
+    found.sort((a, b) {
+      final byTime = a.$1.compareTo(b.$1);
+      return byTime != 0 ? byTime : a.$2.compareTo(b.$2);
+    });
+    return [for (final (_, id) in found.take(maxPhotos)) id];
+  }
 
-  Future<List<String>> _read() async => _available(await _readManifest());
+  /// The ids a change starts from: the manifest exactly as written (or the
+  /// adopted copies), minus only photos whose copy is confirmed to be gone.
+  /// A copy that is merely unreadable or replaced keeps its place, so a
+  /// change can never drop its reference and let cleanup delete its file.
+  Future<List<String>> _current() async {
+    final ids = await _readManifest() ?? await _adoptable();
+    return [
+      for (final id in ids)
+        if (await confirmedType(fileFor(id).path) !=
+            FileSystemEntityType.notFound)
+          id,
+    ];
+  }
 
   Future<void> _save(List<String> ids) => replaceAtomically(
     _manifest,
@@ -96,11 +135,10 @@ class FamilyPhotoStore {
   );
 
   /// Removes staging files and, when [keep] is given, hash-named copies it
-  /// does not list. Without a manifest ([keep] is null) copies are kept: they
-  /// may be all that is left of an interrupted first import. Only entries
-  /// directly inside the folder with names this store creates are touched;
-  /// links are unlinked, folders and other files are left. Tries every
-  /// entry, then rethrows the first failure.
+  /// does not list. Without a manifest ([keep] is null) copies are kept.
+  /// Only entries directly inside the folder with names this store creates
+  /// are touched; links are unlinked, folders and other files are left.
+  /// Tries every entry, then rethrows the first failure.
   Future<void> _removeLeftovers(Set<String>? keep) async {
     final leftovers = <String>[];
     await for (final entry in directory.list(followLinks: false)) {
@@ -125,15 +163,17 @@ class FamilyPhotoStore {
     if (firstError != null) Error.throwWithStackTrace(firstError, firstStack!);
   }
 
-  /// True when [file] is a plain file whose content hashes to [id].
+  /// True when [file] is a plain file whose content hashes to [id]. A file
+  /// that is present but cannot be read is an error, not a mismatch.
   Future<bool> _holds(File file, String id) async =>
-      isPlainFile(file.path) &&
+      await confirmedType(file.path) == FileSystemEntityType.file &&
       sha256.convert(await file.readAsBytes()).toString() == id;
 
   /// All validation happens before changing the current manifest.
   Future<List<String>> add(List<Uint8List> images) => _serial(() async {
-    final ids = await _read();
+    final ids = await _current();
     final additions = <String, Uint8List>{};
+    final repairs = <String, Uint8List>{};
     for (final bytes in images) {
       if (bytes.length < 8 ||
           bytes.length > maxBytesPerPhoto ||
@@ -143,10 +183,20 @@ class FamilyPhotoStore {
         throw const FormatException('Choose a smaller, valid photo.');
       }
       final id = sha256.convert(bytes).toString();
-      if (!ids.contains(id)) additions[id] = bytes;
+      if (!ids.contains(id)) {
+        additions[id] = bytes;
+      } else if (!await _holds(fileFor(id), id)) {
+        // Listed, but its copy was replaced or damaged: write it again.
+        repairs[id] = bytes;
+      }
     }
     if (ids.length + additions.length > maxPhotos) {
       throw const FormatException('A collection can hold up to 24 photos.');
+    }
+    // A repaired copy is never removed on failure: the rename either did not
+    // happen (the old entry stays) or left the correct content in place.
+    for (final entry in repairs.entries) {
+      await replaceAtomically(fileFor(entry.key), entry.value, fileOps);
     }
     final written = <String>[];
     try {
@@ -180,7 +230,7 @@ class FamilyPhotoStore {
   /// reported, and the next load removes the unindexed copy.
   Future<List<String>> remove(String id) => _serial(() async {
     final file = fileFor(id); // Validate before any filesystem operation.
-    final ids = await _read();
+    final ids = await _current();
     ids.remove(id);
     await _save(ids);
     await removeEntry(file.path, fileOps);
@@ -188,7 +238,7 @@ class FamilyPhotoStore {
   });
 
   Future<void> clear() => _serial(() async {
-    await _read(); // Do not silently overwrite a corrupt collection.
+    await _current(); // Do not silently overwrite a corrupt collection.
     await _save([]);
     // Include orphan copies left by an interrupted import. Never traverse.
     await _removeLeftovers(const {});

@@ -26,29 +26,50 @@ class StoreFileOps {
 const String stagingSuffix = '.tmp';
 
 /// The type of the entry at [path] itself, without following a link.
+///
+/// Beware: this reports `notFound` for ANY failure to inspect the entry
+/// (no permission, an I/O error), not only for a missing one. Use it only
+/// where "absent" is the safe reading; use [confirmedType] wherever treating
+/// an existing entry as absent could lose data.
 FileSystemEntityType entryType(String path) =>
     FileSystemEntity.typeSync(path, followLinks: false);
 
-/// True only for a regular file. A symbolic link, even one pointing at a
-/// file, is not an app-owned copy and is never read through.
-bool isPlainFile(String path) => entryType(path) == FileSystemEntityType.file;
+/// Like [entryType], but a reported absence is confirmed by trying to open
+/// the entry: only "no such file or directory" means absent. Any other
+/// failure (no permission, an I/O error, something present after all) is
+/// thrown, so a transient problem is surfaced instead of being mistaken for
+/// an empty collection or a missing copy.
+Future<FileSystemEntityType> confirmedType(String path) async {
+  final type = entryType(path);
+  if (type != FileSystemEntityType.notFound) return type;
+  try {
+    final handle = await File(path).open();
+    await handle.close();
+  } on PathNotFoundException {
+    return FileSystemEntityType.notFound;
+  }
+  // Openable, so it exists, yet it could not be inspected a moment ago.
+  throw const FileSystemException('A file in the app folder changed.');
+}
 
 /// Creates the owned folder if needed and refuses one that has been replaced
 /// by a symbolic link or a file, so no store ever works outside it.
 Future<void> ensureOwnedDirectory(Directory directory) async {
-  final type = entryType(directory.path);
+  final type = await confirmedType(directory.path);
+  if (type == FileSystemEntityType.directory) return;
   if (type == FileSystemEntityType.notFound) {
     await directory.create(recursive: true);
-  } else if (type != FileSystemEntityType.directory) {
-    // No path in the message: it may name a person's device folders.
-    throw const FileSystemException('The app folder is not a plain folder.');
+    return;
   }
+  // No path in the message: it may name a person's device folders.
+  throw const FileSystemException('The app folder is not a plain folder.');
 }
 
 /// Removes one entry inside an owned folder without following it. A link is
-/// unlinked and its target is left alone; a folder is never removed.
+/// unlinked and its target is left alone; a folder is never removed. An
+/// entry that cannot be inspected is reported, never assumed gone.
 Future<void> removeEntry(String path, StoreFileOps ops) async {
-  final type = entryType(path);
+  final type = await confirmedType(path);
   if (type == FileSystemEntityType.notFound) return;
   if (type == FileSystemEntityType.link) {
     await ops.delete(Link(path));
@@ -89,9 +110,15 @@ Future<void> replaceAtomically(
 final Map<String, Future<void>> _tails = {};
 
 /// Runs [action] after every earlier action with the same [key] has
-/// finished, across all store instances in this process. Each store keys by
-/// its folder, so two screens opening the same collection cannot interleave
-/// writes or clean up a copy another instance is about to index.
+/// finished, across all store instances. Each store keys by its folder's
+/// absolute path, so two screens opening the same collection cannot
+/// interleave writes or clean up a copy another instance is about to index.
+///
+/// Limits: the queue lives in this isolate's memory. It does not coordinate
+/// other isolates or processes (this app touches the folder from its single
+/// UI isolate only), and two different spellings of one folder (a relative
+/// path, a trailing slash, a link to it) would get separate queues; the
+/// stores always use the one path the app derives at start-up.
 Future<T> serializeOn<T>(String key, Future<T> Function() action) {
   final previous = _tails[key] ?? Future<void>.value();
   final operation = previous.then((_) => action());

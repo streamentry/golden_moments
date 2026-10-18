@@ -103,16 +103,6 @@ Future<void> _toggle(WidgetTester tester, String title) async {
   await tester.pump();
 }
 
-/// Pumps, with real time for file I/O, until [finder] matches something.
-Future<void> _pumpUntil(WidgetTester tester, Finder finder) async {
-  for (var i = 0; i < 1500 && finder.evaluate().isEmpty; i++) {
-    await tester.runAsync(
-      () => Future<void>.delayed(const Duration(milliseconds: 8)),
-    );
-    await tester.pump(const Duration(milliseconds: 50));
-  }
-}
-
 void main() {
   late Directory directory;
 
@@ -416,9 +406,8 @@ void main() {
 
       await _openOptions(tester, 0);
       await _toggle(tester, 'Favorite');
-      await _tapText(tester, 'Save');
       final notSaved = find.textContaining('Could not save these details');
-      await _pumpUntil(tester, notSaved);
+      await _tapText(tester, 'Save', until: () => _shows(notSaved));
       expect(notSaved, findsOneWidget);
       expect(find.text('Favorite'), findsNothing);
 
@@ -439,6 +428,67 @@ void main() {
         () => FamilyPhotoStore(directory).load(),
       );
       expect(ids, hasLength(2));
+    },
+    skip: Platform.isWindows,
+  );
+
+  testWidgets(
+    'a collection that cannot be read for a moment never prunes photo details',
+    (tester) async {
+      await tester.binding.setSurfaceSize(const Size(480, 1600));
+      addTearDown(() => tester.binding.setSurfaceSize(null));
+      final importer = _FakeImporter([
+        [1, 2],
+      ]);
+      await tester.pumpWidget(_app(directory, importer));
+      await _settle(tester);
+      await _tapText(tester, 'Choose photos');
+      await _openOptions(tester, 0);
+      await _toggle(tester, 'Favorite');
+      await _tapText(
+        tester,
+        'Save',
+        until: () => _shows(find.text('Favorite')),
+      );
+      final sidecar = File('${directory.path}/annotations.json');
+      final details = await tester.runAsync(sidecar.readAsBytes);
+
+      // The details are only pruned by a list the collection really holds.
+      // An unreadable index must stop the screen, not empty that list.
+      final manifest = File('${directory.path}/collection.json');
+      void chmod(String mode) =>
+          Process.runSync('chmod', [mode, manifest.path]);
+      chmod('000');
+      addTearDown(() => chmod('644'));
+      final readable = await tester.runAsync(() async {
+        try {
+          await manifest.readAsBytes();
+          return true;
+        } on FileSystemException {
+          return false;
+        }
+      });
+      if (readable!) {
+        markTestSkipped('This user can read any file.');
+        return;
+      }
+      await tester.pumpWidget(const SizedBox());
+      await tester.pumpWidget(_app(directory, importer));
+      await _settle(tester);
+      expect(
+        find.textContaining('Could not open the photo collection'),
+        findsOneWidget,
+      );
+      expect(await tester.runAsync(sidecar.readAsBytes), details);
+
+      chmod('644');
+      await _tapText(
+        tester,
+        'Try again',
+        until: () => _shows(find.text('2 of 24 photos')),
+      );
+      expect(find.text('Favorite'), findsOneWidget);
+      expect(tester.takeException(), isNull);
     },
     skip: Platform.isWindows,
   );
