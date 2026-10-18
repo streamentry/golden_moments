@@ -40,6 +40,7 @@ jobs:
       - run: flutter pub get
       - run: flutter analyze --no-fatal-infos --no-fatal-warnings
       - run: flutter test test/features/gentle_activities --reporter expanded
+      - run: flutter test test/features/legal --reporter expanded
       - run: flutter test test/design_system_test.dart --reporter expanded
       - name: Retain resolved dependencies for review
         if: always()
