@@ -10,16 +10,7 @@
  ▸ Every constant, style and widget here is **prefix-scoped (gm…)** so it
    cannot clash with 3rd-party libs.
 
- HOW TO USE  
- ```dart
- import 'package:golden_moments/design_system.dart';
-ThemeData theme = gmBuildTheme(brightness: Brightness.light);
-class Home extends StatelessWidget { @override Widget build(BuildContext ctx) => Scaffold( backgroundColor: gmSurf50, body: Center( child: GmPrimaryButton( onTap: () => print('Memories!'), label: 'Start Daily Pack', ), ), ); }
-javascript
-
-
-──────────────────────────────────────────────────────────────────────────────*/
-import 'dart:math';
+*/
 
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
@@ -197,9 +188,8 @@ class GmPrimaryButton extends StatelessWidget {
                     )
                   : Text(
                       label,
-                      style: Theme.of(
-                        parentContext,
-                      ).textTheme.titleLarge!.copyWith(color: scheme.onPrimary),
+                      style: Theme.of(parentContext).textTheme.titleLarge!
+                          .copyWith(color: scheme.onPrimary),
                     ),
             ),
           ),
@@ -234,9 +224,8 @@ class GmOutlineButton extends StatelessWidget {
         },
         child: Text(
           label,
-          style: Theme.of(
-            parentContext,
-          ).textTheme.titleLarge!.copyWith(color: scheme.secondary),
+          style: Theme.of(parentContext).textTheme.titleLarge!
+              .copyWith(color: scheme.secondary),
         ),
       ),
     );
@@ -274,10 +263,7 @@ class GmMemoryTile extends StatelessWidget {
           child: revealed
               ? ClipRRect(
                   borderRadius: BorderRadius.circular(gmRadiusMd),
-                  child: Image(
-                    image: image,
-                    fit: BoxFit.cover,
-                  ),
+                  child: Image(image: image, fit: BoxFit.cover),
                 )
               : Center(
                   key: const ValueKey('back'),
@@ -374,7 +360,7 @@ class _GmConfettiOverlayState extends State<GmConfettiOverlay>
     return IgnorePointer(
       child: AnimatedBuilder(
         animation: _ctl,
-        builder: (_, __) {
+        builder: (_, _) {
           final t = _ctl.value;
           return Opacity(
             opacity: 1 - t,
@@ -419,41 +405,4 @@ extension GmAccessible on BuildContext {
 }
 
 ///////////////////////////////////////////////////////////////////////////////
-/// 8. SAMPLE SCAFFOLD (delete when integrated)
-///////////////////////////////////////////////////////////////////////////////
-/* 
-class DesignSystemShowcase extends StatelessWidget {
- const DesignSystemShowcase({super.key});
-
- @override
- Widget build(BuildContext context) {
-   return Theme(
-     data: gmBuildTheme(brightness: Brightness.light),
-     child: Scaffold(
-       body: Padding(
-         padding: const EdgeInsets.all(gmSpaceLg),
-         child: Column(
-           crossAxisAlignment: CrossAxisAlignment.stretch,
-           children: [
-             Text('Golden Moments', style: Theme.of(context).textTheme.displayLarge),
-             const SizedBox(height: gmSpaceLg),
-             GmPrimaryButton(label: 'Primary CTA', onTap: () {}),
-             const SizedBox(height: gmSpaceMd),
-             GmOutlineButton(label: 'Outline CTA', onTap: () {}),
-             const SizedBox(height: gmSpaceLg),
-             SizedBox(
-               height: 120,
-               child: GmMemoryTile(
-                 revealed: false,
-                 image: const AssetImage('assets/sample.webp'),
-                 onTap: () {},
-               ),
-             ),
-           ],
-         ),
-       ),
-     ),
-   );
- }
-}
-*/
+/// See the application screens for component usage.

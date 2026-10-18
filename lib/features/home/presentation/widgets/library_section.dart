@@ -49,9 +49,7 @@ class LibrarySection extends StatelessWidget {
                 SoundService().playTap();
                 Navigator.of(parentContext).push(
                   MaterialPageRoute<void>(
-                    builder: (context) => CategoryPage(
-                      categories: categories,
-                    ),
+                    builder: (context) => CategoryPage(categories: categories),
                   ),
                 );
               },
@@ -73,10 +71,7 @@ class LibrarySection extends StatelessWidget {
         if (categories.isEmpty)
           _EmptyState()
         else
-          _PacksList(
-            categories: categories,
-            onPackTap: onCategoryTap,
-          ),
+          _PacksList(categories: categories, onPackTap: onCategoryTap),
       ],
     );
   }
@@ -84,10 +79,7 @@ class LibrarySection extends StatelessWidget {
 
 /// List layout for library packs
 class _PacksList extends StatelessWidget {
-  const _PacksList({
-    required this.categories,
-    required this.onPackTap,
-  });
+  const _PacksList({required this.categories, required this.onPackTap});
 
   final List<Category> categories;
   final void Function(Category pack) onPackTap;

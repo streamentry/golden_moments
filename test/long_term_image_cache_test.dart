@@ -1,49 +1,29 @@
 import 'dart:io';
+
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/data/services/long_term_image_cache.dart';
-import 'package:path_provider_platform_interface/path_provider_platform_interface.dart';
-import 'package:plugin_platform_interface/plugin_platform_interface.dart';
-
-class MockPathProviderPlatform extends Fake
-    with MockPlatformInterfaceMixin
-    implements PathProviderPlatform {
-  @override
-  Future<String?> getApplicationDocumentsPath() async {
-    return '/tmp/test_cache';
-  }
-}
+import 'package:http/http.dart' as http;
+import 'package:http/testing.dart';
 
 void main() {
   group('LongTermImageCache Tests', () {
     late LongTermImageCache cache;
     late Directory testDir;
 
-    setUpAll(() async {
-      PathProviderPlatform.instance = MockPathProviderPlatform();
-      testDir = Directory('/tmp/test_cache');
-      if (await testDir.exists()) {
-        await testDir.delete(recursive: true);
-      }
-      await testDir.create(recursive: true);
+    setUp(() async {
+      testDir = await Directory.systemTemp.createTemp('golden-image-test-');
+      cache = LongTermImageCache(
+        cacheRoot: testDir,
+        client: MockClient((_) async => http.Response('image bytes', 200)),
+      );
     });
-
-    setUp(() {
-      cache = LongTermImageCache.instance;
-    });
-
-    tearDown(() async {
-      // Clean up test cache
-      final cacheDir = Directory('/tmp/test_cache/image_cache');
-      if (await cacheDir.exists()) {
-        await cacheDir.delete(recursive: true);
-      }
-    });
+    tearDown(() => testDir.delete(recursive: true));
 
     test('should initialize cache directory', () async {
       await cache.initialize();
 
-      final cacheDir = Directory('/tmp/test_cache/image_cache');
-      expect(await cacheDir.exists(), isTrue);
+      final cacheDir = Directory('${testDir.path}/image_cache');
+      expect(cacheDir.existsSync(), isTrue);
       expect(cache.isInitialized, isTrue);
     });
 

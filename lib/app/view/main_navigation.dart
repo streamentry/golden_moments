@@ -38,10 +38,7 @@ class MainNavigationView extends StatelessWidget {
               Expanded(
                 child: IndexedStack(
                   index: state.currentIndex,
-                  children: const [
-                    HomePage(),
-                    DownloadManagerPage(),
-                  ],
+                  children: const [HomePage(), DownloadManagerPage()],
                 ),
               ),
             ],
@@ -63,7 +60,9 @@ class MainNavigationView extends StatelessWidget {
         color: theme.colorScheme.surface,
         boxShadow: [
           BoxShadow(
-            color: theme.shadowColor.withOpacity(0.1), // Fixed method call
+            color: theme.shadowColor.withValues(
+              alpha: 0.1,
+            ), // Fixed method call
             blurRadius: 8,
             offset: const Offset(0, -2),
           ),
@@ -211,11 +210,7 @@ class NavigationItem {
 /// Navigation items configuration
 class NavigationConfig {
   static const List<NavigationItem> items = [
-    NavigationItem(
-      icon: Icons.home,
-      label: 'Home',
-      page: HomePage(),
-    ),
+    NavigationItem(icon: Icons.home, label: 'Home', page: HomePage()),
     NavigationItem(
       icon: Icons.download,
       label: 'Download',
@@ -248,7 +243,10 @@ class NavigationConfig {
 /// Navigation accessibility helper
 class NavigationAccessibility {
   /// Get semantic label for navigation item
-  static String getSemanticLabel(NavigationItem item, bool isSelected) {
+  static String getSemanticLabel(
+    NavigationItem item, {
+    required bool isSelected,
+  }) {
     final status = isSelected ? 'selected' : 'not selected';
     return '${item.label} tab, $status';
   }

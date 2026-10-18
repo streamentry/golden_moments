@@ -22,7 +22,7 @@ class ImageDownloader {
   /// Download a single image with progress tracking
   Future<void> downloadImage({
     required DownloadItem item,
-    required Function(DownloadProgress) onProgress,
+    required void Function(DownloadProgress) onProgress,
   }) async {
     final downloadId = item.id;
     final packId = item.packId;
@@ -49,7 +49,7 @@ class ImageDownloader {
       // Download image data using HTTP client
       final imageData = await _httpClient.downloadBinary(
         imageUrl,
-        onProgress: (int downloaded, int total) {
+        onProgress: (downloaded, total) {
           // Calculate speed and ETA
           final elapsed = DateTime.now().difference(startTime);
           final speed = _httpClient.calculateDownloadSpeed(downloaded, elapsed);
@@ -61,12 +61,8 @@ class ImageDownloader {
             packId: packId,
             imageId: imageId,
             totalBytes: total,
-          ).updateProgress(
-            bytesDownloaded: downloaded,
-            speed: speed,
-            eta: eta,
-          );
-          
+          ).updateProgress(bytesDownloaded: downloaded, speed: speed, eta: eta);
+
           onProgress(progress);
         },
       );
@@ -83,7 +79,7 @@ class ImageDownloader {
     } on Exception catch (e) {
       // Create and emit error progress
       final downloadError = _createDownloadError(e, imageUrl);
-      
+
       final errorProgress = DownloadProgress.failed(
         downloadId: downloadId,
         packId: packId,
@@ -93,7 +89,7 @@ class ImageDownloader {
         startTime: startTime,
         error: downloadError,
       );
-      
+
       onProgress(errorProgress);
       rethrow;
     }
@@ -135,21 +131,21 @@ class ImageDownloader {
 
     // Handle common HTTP errors
     final errorMessage = error.toString();
-    
+
     if (errorMessage.contains('TimeoutException') ||
         errorMessage.contains('timeout')) {
       return DownloadError.timeout(url, errorMessage);
     }
-    
+
     if (errorMessage.contains('SocketException') ||
         errorMessage.contains('NetworkException')) {
       return DownloadError.networkError(url, errorMessage);
     }
-    
+
     if (errorMessage.contains('404')) {
       return DownloadError.httpError(url, 404, errorMessage);
     }
-    
+
     if (errorMessage.contains('500')) {
       return DownloadError.httpError(url, 500, errorMessage);
     }
@@ -161,13 +157,13 @@ class ImageDownloader {
   /// Validate image data integrity
   bool validateImageData(List<int> imageData) {
     if (imageData.isEmpty) return false;
-    
+
     // Basic validation - check for common image file headers
     if (imageData.length < 4) return false;
-    
+
     // Check for JPEG header (0xFF, 0xD8)
     if (imageData[0] == 0xFF && imageData[1] == 0xD8) return true;
-    
+
     // Check for PNG header (0x89, 0x50, 0x4E, 0x47)
     if (imageData.length >= 8 &&
         imageData[0] == 0x89 &&
@@ -176,14 +172,12 @@ class ImageDownloader {
         imageData[3] == 0x47) {
       return true;
     }
-    
+
     // Check for GIF header (0x47, 0x49, 0x46)
-    if (imageData[0] == 0x47 &&
-        imageData[1] == 0x49 &&
-        imageData[2] == 0x46) {
+    if (imageData[0] == 0x47 && imageData[1] == 0x49 && imageData[2] == 0x46) {
       return true;
     }
-    
+
     // Check for WebP header (RIFF....WEBP)
     if (imageData.length >= 12 &&
         imageData[0] == 0x52 && // R
@@ -196,7 +190,7 @@ class ImageDownloader {
         imageData[11] == 0x50) {
       return true; // P
     }
-    
+
     return false;
   }
 
@@ -208,21 +202,22 @@ class ImageDownloader {
     if (networkSpeedBytesPerSecond <= 0) {
       return const Duration(seconds: 30); // Default estimate
     }
-    
-    final estimatedSeconds = (imageSizeBytes / networkSpeedBytesPerSecond).ceil();
+
+    final estimatedSeconds = (imageSizeBytes / networkSpeedBytesPerSecond)
+        .ceil();
     return Duration(seconds: estimatedSeconds);
   }
 
   /// Check if image exists in cache
   Future<bool> isImageCached(String packId, String imageId) async {
     if (kIsWeb) return false; // No file caching on web
-    
+
     try {
       final filename = '$imageId.jpg';
       final imagePath = CacheFilePaths.imageFile(packId, filename);
       final fullPath = _cacheService.fileManager.getCachePath(imagePath);
       final imageFile = File(fullPath);
-      
+
       return imageFile.existsSync();
     } on Exception {
       return false;
@@ -232,7 +227,7 @@ class ImageDownloader {
   /// Get cached image file path
   String? getCachedImagePath(String packId, String imageId) {
     if (kIsWeb) return null; // No file paths on web
-    
+
     try {
       final filename = '$imageId.jpg';
       final imagePath = CacheFilePaths.imageFile(packId, filename);
@@ -245,11 +240,11 @@ class ImageDownloader {
   /// Delete cached image
   Future<bool> deleteCachedImage(String packId, String imageId) async {
     if (kIsWeb) return true; // Nothing to delete on web
-    
+
     try {
       final imagePath = getCachedImagePath(packId, imageId);
       if (imagePath == null) return false;
-      
+
       final imageFile = File(imagePath);
       if (imageFile.existsSync()) {
         await imageFile.delete();
@@ -264,11 +259,11 @@ class ImageDownloader {
   /// Get cached image size in bytes
   Future<int> getCachedImageSize(String packId, String imageId) async {
     if (kIsWeb) return 0; // Unknown on web
-    
+
     try {
       final imagePath = getCachedImagePath(packId, imageId);
       if (imagePath == null) return 0;
-      
+
       final imageFile = File(imagePath);
       if (imageFile.existsSync()) {
         return imageFile.lengthSync();

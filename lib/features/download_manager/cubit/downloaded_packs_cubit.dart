@@ -16,10 +16,8 @@ class DownloadedPacksCubit extends Cubit<DownloadedPacksState> {
   Future<void> initialize() async {
     // Try to log screen view, but don't fail if Firebase isn't available
     try {
-      await FirebaseAnalytics.instance.logScreenView(
-        screenName: 'Downloaded',
-      );
-    } catch (e) {
+      await FirebaseAnalytics.instance.logScreenView(screenName: 'Downloaded');
+    } on Object {
       // Silently ignore Firebase Analytics errors
       // This allows the app to work without Firebase
     }

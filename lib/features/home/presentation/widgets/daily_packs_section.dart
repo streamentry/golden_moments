@@ -24,11 +24,7 @@ class DailyPacksSection extends StatelessWidget {
         // Section header
         Row(
           children: [
-            Icon(
-              Icons.today,
-              size: 32,
-              color: theme.colorScheme.primary,
-            ),
+            Icon(Icons.today, size: 32, color: theme.colorScheme.primary),
             const SizedBox(width: gmSpaceSm),
             Text(
               'Daily Packs',
@@ -52,10 +48,7 @@ class DailyPacksSection extends StatelessWidget {
         if (packs.isEmpty)
           _EmptyState()
         else
-          _PacksGrid(
-            packs: packs,
-            onPackTap: onPackTap,
-          ),
+          _PacksGrid(packs: packs, onPackTap: onPackTap),
       ],
     );
   }
@@ -63,32 +56,38 @@ class DailyPacksSection extends StatelessWidget {
 
 /// Grid layout for displaying packs
 class _PacksGrid extends StatelessWidget {
-  const _PacksGrid({
-    required this.packs,
-    required this.onPackTap,
-  });
+  const _PacksGrid({required this.packs, required this.onPackTap});
 
   final List<Pack> packs;
   final void Function(Pack pack) onPackTap;
 
   @override
   Widget build(BuildContext parentContext) {
-    return GridView.builder(
-      shrinkWrap: true,
-      physics: const NeverScrollableScrollPhysics(),
-      gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-        crossAxisCount: 2,
-        childAspectRatio: 0.7,
-        crossAxisSpacing: gmSpaceSm,
-        mainAxisSpacing: gmSpaceSm,
-      ),
-      itemCount: packs.length,
-      itemBuilder: (context, index) {
-        final pack = packs[index];
-        return PackCard(
-          pack: pack,
-          onTap: () => onPackTap(pack),
-          showDailyBadge: true,
+    return LayoutBuilder(
+      builder: (context, constraints) {
+        final columns = (constraints.maxWidth / 170).floor().clamp(1, 4);
+        final cardWidth =
+            (constraints.maxWidth - (columns - 1) * gmSpaceSm) / columns;
+        return GridView.builder(
+          shrinkWrap: true,
+          physics: const NeverScrollableScrollPhysics(),
+          gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+            crossAxisCount: columns,
+            mainAxisExtent:
+                cardWidth * 2 / 3 +
+                140 * MediaQuery.textScalerOf(context).scale(1),
+            crossAxisSpacing: gmSpaceSm,
+            mainAxisSpacing: gmSpaceSm,
+          ),
+          itemCount: packs.length,
+          itemBuilder: (context, index) {
+            final pack = packs[index];
+            return PackCard(
+              pack: pack,
+              onTap: () => onPackTap(pack),
+              showDailyBadge: true,
+            );
+          },
         );
       },
     );

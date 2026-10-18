@@ -1,14 +1,14 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:path/path.dart' as path;
+import 'package:flutter/foundation.dart';
 import 'package:golden_moments/data/storage/json_store.dart';
+import 'package:path/path.dart' as path;
 
 /// Safe JSON file operations with atomic writes and corruption recovery
 class JsonFileManager implements JsonStore {
   JsonFileManager({required this.cacheDirectory});
 
-  @override
   final String cacheDirectory;
 
   /// Load JSON file with type safety and error handling
@@ -41,7 +41,7 @@ class JsonFileManager implements JsonStore {
       }
 
       // Log error and return null
-      print('Error loading JSON file $relativePath: $e');
+      debugPrint('Error loading JSON file $relativePath: $e');
       return null;
     }
   }
@@ -76,8 +76,8 @@ class JsonFileManager implements JsonStore {
 
       // Atomic rename
       await tempFile.rename(filePath);
-    } catch (e) {
-      print('Error saving JSON file $relativePath: $e');
+    } on Object catch (e) {
+      debugPrint('Error saving JSON file $relativePath: $e');
       rethrow;
     }
   }
@@ -107,7 +107,7 @@ class JsonFileManager implements JsonStore {
         await backupFile.delete();
       }
     } on Exception catch (e) {
-      print('Error deleting file $relativePath: $e');
+      debugPrint('Error deleting file $relativePath: $e');
     }
   }
 
@@ -136,7 +136,7 @@ class JsonFileManager implements JsonStore {
           .map((file) => path.basename(file.path))
           .toList();
     } on Exception catch (e) {
-      print('Error listing files in $relativePath: $e');
+      debugPrint('Error listing files in $relativePath: $e');
       return [];
     }
   }
@@ -153,7 +153,7 @@ class JsonFileManager implements JsonStore {
       }
       return 0;
     } on Exception catch (e) {
-      print('Error getting file size for $relativePath: $e');
+      debugPrint('Error getting file size for $relativePath: $e');
       return 0;
     }
   }
@@ -178,7 +178,7 @@ class JsonFileManager implements JsonStore {
 
       return totalSize;
     } on Exception catch (e) {
-      print('Error calculating directory size for $relativePath: $e');
+      debugPrint('Error calculating directory size for $relativePath: $e');
       return 0;
     }
   }
@@ -198,12 +198,12 @@ class JsonFileManager implements JsonStore {
           try {
             await entity.delete();
           } on Exception catch (e) {
-            print('Error deleting temp file ${entity.path}: $e');
+            debugPrint('Error deleting temp file ${entity.path}: $e');
           }
         }
       }
     } on Exception catch (e) {
-      print('Error cleaning up temp files: $e');
+      debugPrint('Error cleaning up temp files: $e');
     }
   }
 
@@ -233,7 +233,7 @@ class JsonFileManager implements JsonStore {
       final backupPath = '$filePath.backup';
       await file.copy(backupPath);
     } on Exception catch (e) {
-      print('Error creating backup for $filePath: $e');
+      debugPrint('Error creating backup for $filePath: $e');
     }
   }
 
@@ -255,7 +255,7 @@ class JsonFileManager implements JsonStore {
       final jsonData = jsonDecode(content) as Map<String, dynamic>;
       return fromJson(jsonData);
     } on Exception catch (e) {
-      print('Error loading backup for $relativePath: $e');
+      debugPrint('Error loading backup for $relativePath: $e');
       return null;
     }
   }
@@ -274,7 +274,7 @@ class JsonFileManager implements JsonStore {
       // Clean up any temporary files from previous sessions
       await cleanupTempFiles();
     } on Exception catch (e) {
-      print('Error initializing cache structure: $e');
+      debugPrint('Error initializing cache structure: $e');
       rethrow;
     }
   }

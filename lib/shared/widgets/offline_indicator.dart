@@ -65,11 +65,7 @@ class _OfflineIndicatorState extends State<OfflineIndicator> {
       child: Row(
         mainAxisSize: MainAxisSize.min,
         children: [
-          Icon(
-            _getStatusIcon(),
-            size: 16,
-            color: _getIconColor(theme),
-          ),
+          Icon(_getStatusIcon(), size: 16, color: _getIconColor(theme)),
           const SizedBox(width: 4),
           Text(
             _getStatusText(),
@@ -95,11 +91,7 @@ class _OfflineIndicatorState extends State<OfflineIndicator> {
       ),
       child: Row(
         children: [
-          Icon(
-            _getStatusIcon(),
-            size: 24,
-            color: _getIconColor(theme),
-          ),
+          Icon(_getStatusIcon(), size: 24, color: _getIconColor(theme)),
           const SizedBox(width: gmSpaceMd),
           Expanded(
             child: Column(
@@ -231,16 +223,9 @@ class _ConnectivityBannerState extends State<ConnectivityBanner>
       duration: const Duration(milliseconds: 300),
       vsync: this,
     );
-    _slideAnimation =
-        Tween<double>(
-          begin: -1,
-          end: 0,
-        ).animate(
-          CurvedAnimation(
-            parent: _animationController,
-            curve: Curves.easeInOut,
-          ),
-        );
+    _slideAnimation = Tween<double>(begin: -1, end: 0).animate(
+      CurvedAnimation(parent: _animationController, curve: Curves.easeInOut),
+    );
 
     _initializeConnectivity();
   }
@@ -310,11 +295,7 @@ class _ConnectivityBannerState extends State<ConnectivityBanner>
           bottom: false,
           child: Row(
             children: [
-              Icon(
-                Icons.wifi_off,
-                size: 20,
-                color: theme.colorScheme.onError,
-              ),
+              Icon(Icons.wifi_off, size: 20, color: theme.colorScheme.onError),
               const SizedBox(width: gmSpaceSm),
               Expanded(
                 child: Text(

@@ -11,18 +11,9 @@ import 'package:golden_moments/data/storage/json_store.dart';
 import 'package:golden_moments/data/storage/web_json_file_manager.dart';
 import 'package:path_provider/path_provider.dart';
 
-import '../models/cache_index.dart';
-import '../models/cache_stats.dart';
-import '../models/download_queue.dart';
-import '../models/pack_cache.dart';
-import '../storage/base_json_file_manager.dart';
-import '../storage/cache_file_paths.dart';
-import '../storage/json_file_manager.dart';
-import '../storage/web_json_file_manager.dart';
-
 /// JSON-based cache service for managing pack and image cache
 class JsonCacheService {
-  factory JsonCacheService() => _instance;
+  factory() => _instance;
   JsonCacheService._internal();
   static final JsonCacheService _instance = JsonCacheService._internal();
 
@@ -39,7 +30,7 @@ class JsonCacheService {
       _fileManager = JsonFileManager(cacheDirectory: _cacheDirectory!);
 
       await _fileManager!.initializeCacheStructure();
-    } catch (e) {
+    } on Object {
       // On web or platforms where path_provider doesn't work,
       // create a no-op file manager to prevent crashes
       _cacheDirectory = '';
@@ -81,7 +72,7 @@ class JsonCacheService {
     await fileManager.saveJsonFile(
       CacheFilePaths.cacheIndex,
       index,
-      (CacheIndex data) => data.toJson(),
+      (data) => data.toJson(),
     );
   }
 
@@ -99,7 +90,7 @@ class JsonCacheService {
     await fileManager.saveJsonFile(
       CacheFilePaths.cacheStats,
       stats,
-      (CacheStats data) => data.toJson(),
+      (data) => data.toJson(),
     );
   }
 
@@ -117,7 +108,7 @@ class JsonCacheService {
     await fileManager.saveJsonFile(
       CacheFilePaths.downloadQueue,
       queue,
-      (DownloadQueue data) => data.toJson(),
+      (data) => data.toJson(),
     );
   }
 
@@ -135,7 +126,7 @@ class JsonCacheService {
     await fileManager.saveJsonFile(
       CacheFilePaths.packCacheFile(packCache.id),
       packCache,
-      (PackCache data) => data.toJson(),
+      (data) => data.toJson(),
     );
   }
 
@@ -155,10 +146,8 @@ class JsonCacheService {
       CacheFilePaths.packsDirectory,
     );
     return packFiles
-        .where((String file) => file.endsWith('.json'))
-        .map(
-          (String file) => file.substring(0, file.length - 5),
-        ) // Remove .json
+        .where((file) => file.endsWith('.json'))
+        .map((file) => file.substring(0, file.length - 5)) // Remove .json
         .toList();
   }
 
@@ -193,12 +182,12 @@ class JsonCacheService {
         final imagesDirPath = fileManager.getCachePath(imagesDir);
         final directory = Directory(imagesDirPath);
 
-        if (await directory.exists()) {
+        if (directory.existsSync()) {
           await directory.delete(recursive: true);
         }
-      } catch (e) {
+      } on Object catch (e) {
         // Ignore directory deletion errors on web
-        print('Error deleting pack images directory: $e');
+        debugPrint('Error deleting pack images directory: $e');
       }
     }
   }

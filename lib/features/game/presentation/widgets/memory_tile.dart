@@ -1,6 +1,8 @@
 import 'dart:io';
 
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:golden_moments/data/storage/browser_image_store.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/cubit/tile_state.dart';
 import 'package:golden_moments/shared/utils/image_util.dart';
@@ -20,13 +22,29 @@ class MemoryTile extends StatelessWidget {
 
   @override
   Widget build(BuildContext parentContext) {
-    final imagePath = getImageLocalPath(tile.image.id, packId);
-    final image = FileImage(File(imagePath));
+    final revealed = tile.isRevealed || tile.isMatched;
+    final image = kIsWeb
+        ? NetworkImage(tile.image.url)
+        : FileImage(File(getImageLocalPath(tile.image.id, packId)));
 
-    return GmMemoryTile(
-      revealed: tile.isRevealed || tile.isMatched,
-      image: image,
-      onTap: onTap,
+    Widget buildTile(ImageProvider provider) => Semantics(
+      label: tile.isMatched
+          ? 'Matched: ${tile.image.caption}'
+          : revealed
+          ? tile.image.caption
+          : 'Hidden tile',
+      button: true,
+      enabled: !revealed,
+      child: GmMemoryTile(
+        revealed: tile.isRevealed || tile.isMatched,
+        image: provider,
+        onTap: onTap,
+      ),
     );
+
+    final bytes = kIsWeb ? BrowserImageStore.peek(tile.image.url) : null;
+    return bytes == null
+        ? buildTile(image as ImageProvider)
+        : buildTile(MemoryImage(bytes));
   }
 }

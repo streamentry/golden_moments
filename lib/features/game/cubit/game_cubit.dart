@@ -1,10 +1,12 @@
 import 'dart:math';
 
+import 'package:flutter/foundation.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:golden_moments/data/models/image.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
+import 'package:golden_moments/data/storage/browser_image_store.dart';
 import 'package:golden_moments/data/storage/cache_file_paths.dart';
 import 'package:golden_moments/data/storage/json_file_manager.dart';
 import 'package:golden_moments/features/game/cubit/game_state.dart';
@@ -44,14 +46,17 @@ class GameCubit extends Cubit<GameState> {
       final images = <Image>[];
 
       for (var i = 0; i < pack.images.length; i++) {
+        if (kIsWeb) {
+          final bytes = await BrowserImageStore.read(pack.images[i].url);
+          if (bytes != null && bytes.isNotEmpty) images.add(pack.images[i]);
+          continue;
+        }
         final fileName = '${pack.images[i].id}.jpg';
         final imagePath = CacheFilePaths.imageFile(packId, fileName);
         final dynamic rawManager = JsonCacheService().fileManager;
         if (rawManager is JsonFileManager) {
           final jsonManager = rawManager;
-          final fullPath = jsonManager.getCachePath(
-            imagePath,
-          );
+          final fullPath = jsonManager.getCachePath(imagePath);
           if (await isImageValid(fullPath)) {
             images.add(pack.images[i]);
           }
@@ -66,7 +71,7 @@ class GameCubit extends Cubit<GameState> {
       emit(state.copyWith(images: images));
 
       startNewGame(pack);
-    } on Exception {
+    } on Object {
       emit(state.copyWith(status: GameStatus.failed));
     }
   }
@@ -176,6 +181,7 @@ class GameCubit extends Cubit<GameState> {
 
     // After delay, hide the tiles
     Future<void>.delayed(AppConstants.mismatchDisplayDuration, () {
+      if (isClosed) return;
       if (state.showingMismatch) {
         final updatedTiles = state.tiles.map((tile) {
           if (state.selectedTiles.any((selected) => selected.id == tile.id)) {
@@ -306,6 +312,7 @@ class GameCubit extends Cubit<GameState> {
 
     // Hide the hint after a short delay
     Future<void>.delayed(const Duration(milliseconds: 1000), () {
+      if (isClosed) return;
       final revertedTiles = state.tiles.map((tile) {
         if (hintPair.any((hintTile) => hintTile.id == tile.id) &&
             !tile.isMatched) {

@@ -423,10 +423,5 @@ class PackDownloadProgress extends Equatable {
   }
 
   @override
-  List<Object?> get props => [
-    packId,
-    imageProgresses,
-    startTime,
-    endTime,
-  ];
+  List<Object?> get props => [packId, imageProgresses, startTime, endTime];
 }

@@ -70,7 +70,15 @@ class _PackCardState extends State<PackCard> {
   }
 
   void _startDownloadPack(String packId) {
-    unawaited(DownloadManager().downloadPack(packId));
+    unawaited(
+      DownloadManager().downloadPack(packId).catchError((Object error) {
+        if (!mounted) return;
+        _progressTimer?.cancel();
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('Download failed. Please try again.')),
+        );
+      }),
+    );
     _calculateDownloadProgress(packId);
   }
 
@@ -78,9 +86,7 @@ class _PackCardState extends State<PackCard> {
     _progressTimer?.cancel(); // Cancel any existing timer
     _progressTimer = Timer.periodic(const Duration(milliseconds: 500), (timer) {
       setState(() {
-        _downloadProgress = DownloadManager().getPackDownloadProgress(
-          packId,
-        );
+        _downloadProgress = DownloadManager().getPackDownloadProgress(packId);
       });
       if (DownloadManager().getPackStatus(packId) == PackStatus.completed) {
         timer.cancel();
@@ -94,26 +100,31 @@ class _PackCardState extends State<PackCard> {
       builder: (dialogContext) => AlertDialog(
         title: const Text('Download Pack'),
         content: Text(
-          'Do you want to download the "${pack.title}" pack? This may consume data.',
+          'Do you want to download the "${pack.title}" pack?'
+          ' This may consume data.',
         ),
         actions: [
           TextButton(
             onPressed: () {
-              SoundService().playTap();
+              unawaited(SoundService().playTap());
               Navigator.of(dialogContext).pop(); // Close dialog
             },
             child: const Text('Cancel'),
           ),
           TextButton(
-            onPressed: () {
-              SoundService().playTap();
+            onPressed: () async {
+              unawaited(SoundService().playTap());
               Navigator.of(dialogContext).pop(); // Close dialog
               _startDownloadPack(pack.id); // Start download
 
-              FirebaseAnalytics.instance.logEvent(
-                name: 'download_pack',
-                parameters: {'Id': pack.id, 'Title': pack.title},
-              );
+              try {
+                await FirebaseAnalytics.instance.logEvent(
+                  name: 'download_pack',
+                  parameters: {'Id': pack.id, 'Title': pack.title},
+                );
+              } on Object catch (_) {
+                // Analytics is optional when Firebase is not configured.
+              }
             },
             child: const Text('Download'),
           ),
@@ -134,22 +145,22 @@ class _PackCardState extends State<PackCard> {
             case PackStatus.completed:
               {
                 if (widget.onTap == null) {
-                  unawaited(
-                    Navigator.of(context).push(
-                      MaterialPageRoute<void>(
-                        builder: (context) => GamePage(
-                          gamePack: widget.pack,
-                        ),
-                      ),
+                  await Navigator.of(context).push(
+                    MaterialPageRoute<void>(
+                      builder: (context) => GamePage(gamePack: widget.pack),
                     ),
                   );
                 } else {
                   widget.onTap?.call();
                 }
 
-                await FirebaseAnalytics.instance.logScreenView(
-                  screenName: 'Game',
-                );
+                try {
+                  await FirebaseAnalytics.instance.logScreenView(
+                    screenName: 'Game',
+                  );
+                } on Object catch (_) {
+                  // Analytics must not interrupt gameplay.
+                }
               }
             case PackStatus.notStarted:
             case null:
@@ -248,9 +259,7 @@ class _PackCardState extends State<PackCard> {
                   maxLines: 1,
                   overflow: TextOverflow.ellipsis,
                 ),
-                const SizedBox(
-                  height: gmSpaceSm,
-                ),
+                const SizedBox(height: gmSpaceSm),
                 Row(
                   children: [
                     _buildDifficultyChip(theme),

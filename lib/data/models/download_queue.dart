@@ -144,9 +144,7 @@ class DownloadQueue extends Equatable {
         .toList();
     final updatedQueued = [
       ...queuedDownloads,
-      item.copyWith(
-        status: DownloadStatus.queued,
-      ),
+      item.copyWith(status: DownloadStatus.queued),
     ];
 
     return copyWith(
@@ -198,9 +196,7 @@ class DownloadQueue extends Equatable {
         .toList();
     final updatedQueued = [
       ...queuedDownloads,
-      item.copyWith(
-        status: DownloadStatus.queued,
-      ),
+      item.copyWith(status: DownloadStatus.queued),
     ];
 
     return copyWith(

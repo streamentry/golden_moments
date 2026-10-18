@@ -10,7 +10,6 @@ import 'package:golden_moments/data/services/http_client_service.dart';
 import 'package:golden_moments/data/services/json_cache_service.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:provider/provider.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 
 class AppBlocObserver extends BlocObserver {
   const AppBlocObserver();
@@ -46,10 +45,11 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
   try {
     await Firebase.initializeApp();
     log('Firebase initialized successfully');
-  } catch (e, stackTrace) {
+  } on Object catch (e, stackTrace) {
     log('Firebase initialization failed: $e', stackTrace: stackTrace);
     // Continue app initialization even if Firebase fails
-    // This allows the app to run in development mode without proper Firebase config
+    // This allows the app to run in development mode without proper Firebase
+    // config
   }
 
   // Add cross-flavor configuration here
@@ -68,7 +68,7 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
   try {
     await _initializeServices();
     await _executeTaskOnLaunch();
-  } catch (e, stackTrace) {
+  } on Object catch (e, stackTrace) {
     log('Service initialization failed: $e', stackTrace: stackTrace);
     // Continue app execution even if services fail to initialize
     // This allows the app to run in limited mode

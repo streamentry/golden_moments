@@ -1,11 +1,7 @@
 import 'package:equatable/equatable.dart';
 
 class Image extends Equatable {
-  const Image({
-    required this.id,
-    required this.url,
-    required this.caption,
-  });
+  const Image({required this.id, required this.url, required this.caption});
 
   /// Creates a Image from JSON data
   factory Image.fromJson(Map<String, dynamic> json) {
@@ -27,19 +23,11 @@ class Image extends Equatable {
 
   /// Converts this Image to JSON data
   Map<String, dynamic> toJson() {
-    return {
-      'id': id,
-      'url': url,
-      'caption': caption,
-    };
+    return {'id': id, 'url': url, 'caption': caption};
   }
 
   /// Creates a copy of this image with updated properties
-  Image copyWith({
-    String? id,
-    String? url,
-    String? caption,
-  }) {
+  Image copyWith({String? id, String? url, String? caption}) {
     return Image(
       id: id ?? this.id,
       url: url ?? this.url,
@@ -48,9 +36,5 @@ class Image extends Equatable {
   }
 
   @override
-  List<Object?> get props => [
-    id,
-    url,
-    caption,
-  ];
+  List<Object?> get props => [id, url, caption];
 }

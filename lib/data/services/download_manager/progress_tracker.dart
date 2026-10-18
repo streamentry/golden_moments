@@ -56,7 +56,7 @@ class ProgressTracker extends ChangeNotifier {
       return packProgress.imageProgresses.firstWhere(
         (progress) => progress.imageId == imageId,
       );
-    } catch (e) {
+    } on Object {
       return null;
     }
   }
@@ -107,8 +107,8 @@ class ProgressTracker extends ChangeNotifier {
     if (activeDownloads.isEmpty) return 0;
 
     final totalSpeed = activeDownloads
-        .map((progress) => progress.downloadSpeed)
-        .fold(0, (sum, speed) => sum + speed);
+        .map((progress) => progress.speed ?? 0.0)
+        .fold<double>(0, (sum, speed) => sum + speed);
 
     return totalSpeed / activeDownloads.length;
   }
@@ -171,7 +171,7 @@ class ProgressTracker extends ChangeNotifier {
 
     final totalSpeed = _packsProgress.keys
         .map(getPackDownloadSpeed)
-        .fold(0, (sum, speed) => sum + speed);
+        .fold<double>(0, (sum, speed) => sum + speed);
 
     return DownloadStatistics(
       totalPacks: totalPacks,

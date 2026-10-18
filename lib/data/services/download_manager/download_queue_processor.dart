@@ -1,5 +1,6 @@
 import 'dart:async';
 
+import 'package:flutter/foundation.dart';
 import 'package:golden_moments/data/models/download_error.dart';
 import 'package:golden_moments/data/models/download_progress.dart';
 import 'package:golden_moments/data/models/download_queue.dart';
@@ -26,15 +27,15 @@ class DownloadQueueProcessor {
   Future<void> processPackQueue({
     required String packId,
     required DownloadQueue queue,
-    required Function(DownloadProgress) onProgress,
-    required Function(DownloadItem) onComplete,
-    required Function(DownloadItem, DownloadError) onError,
+    required void Function(DownloadProgress) onProgress,
+    required void Function(DownloadItem) onComplete,
+    required void Function(DownloadItem, DownloadError) onError,
   }) async {
     _activeQueues[packId] = queue;
 
     // Process all queued downloads
     final futures = <Future<void>>[];
-    
+
     for (final item in queue.queuedDownloads) {
       final future = _processDownloadItem(
         item: item,
@@ -48,7 +49,7 @@ class DownloadQueueProcessor {
 
     // Wait for all downloads to complete
     await Future.wait(futures);
-    
+
     // Remove from active queues
     _activeQueues.remove(packId);
   }
@@ -57,9 +58,9 @@ class DownloadQueueProcessor {
   Future<void> _processDownloadItem({
     required DownloadItem item,
     required String packId,
-    required Function(DownloadProgress) onProgress,
-    required Function(DownloadItem) onComplete,
-    required Function(DownloadItem, DownloadError) onError,
+    required void Function(DownloadProgress) onProgress,
+    required void Function(DownloadItem) onComplete,
+    required void Function(DownloadItem, DownloadError) onError,
   }) async {
     // Wait for available slot in the pool
     final poolResource = await _pool.request();
@@ -69,19 +70,15 @@ class DownloadQueueProcessor {
       _updateQueueItemStatus(packId, item.id, DownloadStatus.queued);
 
       // Perform the actual download
-      await _imageDownloader.downloadImage(
-        item: item,
-        onProgress: onProgress,
-      );
+      await _imageDownloader.downloadImage(item: item, onProgress: onProgress);
 
       // Mark as completed
       _updateQueueItemStatus(packId, item.id, DownloadStatus.completed);
       onComplete(item);
-
     } on Exception catch (e) {
       // Handle download error
-      final downloadError = e is DownloadError 
-          ? e 
+      final downloadError = e is DownloadError
+          ? e
           : DownloadError.unknown(item.imageUrl, e.toString());
 
       // Update queue with error
@@ -96,7 +93,11 @@ class DownloadQueueProcessor {
   }
 
   /// Update download item status in queue
-  void _updateQueueItemStatus(String packId, String downloadId, DownloadStatus status) {
+  void _updateQueueItemStatus(
+    String packId,
+    String downloadId,
+    DownloadStatus status,
+  ) {
     final queue = _activeQueues[packId];
     if (queue == null) return;
 
@@ -107,14 +108,18 @@ class DownloadQueueProcessor {
   }
 
   /// Update queue with error information
-  Future<void> _updateQueueWithError(String packId, String downloadId, String errorMessage) async {
+  Future<void> _updateQueueWithError(
+    String packId,
+    String downloadId,
+    String errorMessage,
+  ) async {
     try {
       final queue = await _cacheService.loadDownloadQueue();
       final updatedQueue = queue.failDownload(downloadId, errorMessage);
       await _cacheService.saveDownloadQueue(updatedQueue);
     } on Exception catch (e) {
       // Log error but don't fail the download
-      print('Failed to update download queue with error: $e');
+      debugPrint('Failed to update download queue with error: $e');
     }
   }
 
@@ -178,9 +183,9 @@ class DownloadQueueProcessor {
   /// Retry failed downloads in a pack
   Future<void> retryFailedDownloads({
     required String packId,
-    required Function(DownloadProgress) onProgress,
-    required Function(DownloadItem) onComplete,
-    required Function(DownloadItem, DownloadError) onError,
+    required void Function(DownloadProgress) onProgress,
+    required void Function(DownloadItem) onComplete,
+    required void Function(DownloadItem, DownloadError) onError,
   }) async {
     final queue = _activeQueues[packId];
     if (queue == null) return;
@@ -212,7 +217,7 @@ class DownloadQueueProcessor {
     // In practice, you'd calculate based on current download speeds
     final activeCount = getActiveDownloadCount();
     const estimatedSecondsPerDownload = 30; // Average estimate
-    
+
     return Duration(seconds: activeCount * estimatedSecondsPerDownload);
   }
 
@@ -257,7 +262,10 @@ class QueueStatistics {
 /// Extension to add utility methods to DownloadQueue
 extension DownloadQueueExtensions on DownloadQueue {
   /// Update status of a specific download item
-  DownloadQueue updateDownloadStatus(String downloadId, DownloadStatus newStatus) {
+  DownloadQueue updateDownloadStatus(
+    String downloadId,
+    DownloadStatus newStatus,
+  ) {
     // This is a simplified implementation
     // In practice, you'd create proper immutable update methods
     return this; // Placeholder - implement proper status update

@@ -2,6 +2,8 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
+import 'package:flutter/foundation.dart';
+import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/download_manager.dart';
 
 /// Cubit for managing main navigation state
@@ -11,10 +13,13 @@ class NavigationCubit extends Cubit<NavigationState> {
   }
 
   final DownloadManager _downloadManager = DownloadManager();
-  StreamSubscription? _downloadSubscription;
+  StreamSubscription<MapEntry<String, PackStatus>>? _downloadSubscription;
 
   /// Initialize navigation cubit
   void _initialize() {
+    _downloadSubscription = _downloadManager.onStatusChanged.listen((_) {
+      _updateDownloadCount();
+    });
     // Note: Download manager integration simplified for local JSON approach
     // Subscribe to download progress to update badge count
     // _downloadSubscription = _downloadManager.progressStream.listen(
@@ -31,7 +36,7 @@ class NavigationCubit extends Cubit<NavigationState> {
 
   /// Set current navigation index
   void setIndex(int index) {
-    if (index >= 0 && index < 3) {
+    if (index >= 0 && index < 2) {
       emit(state.copyWith(currentIndex: index));
     }
   }
@@ -48,7 +53,7 @@ class NavigationCubit extends Cubit<NavigationState> {
 
   /// Navigate to Downloads tab
   void goToDownloads() {
-    setIndex(2);
+    setIndex(1);
   }
 
   /// Update active downloads count for badge
@@ -56,13 +61,16 @@ class NavigationCubit extends Cubit<NavigationState> {
     try {
       // In a real implementation, you would get this from the download manager
       // For now, we'll use a placeholder
-      const activeCount =
-          0; // await _downloadManager.getActiveDownloadsCount();
+      final activeCount = _downloadManager
+          .getPacksStatus()
+          .values
+          .where((status) => status == PackStatus.downloading)
+          .length;
 
       if (activeCount != state.activeDownloadsCount) {
         emit(state.copyWith(activeDownloadsCount: activeCount));
       }
-    } catch (e) {
+    } on Object {
       // Handle error gracefully - don't update count if we can't get it
     }
   }
@@ -87,8 +95,6 @@ class NavigationCubit extends Cubit<NavigationState> {
       case 0:
         return 'Library';
       case 1:
-        return 'Discover';
-      case 2:
         return 'Downloads';
       default:
         return 'Library';
@@ -102,7 +108,7 @@ class NavigationCubit extends Cubit<NavigationState> {
   bool get isDiscoverTab => state.currentIndex == 1;
 
   /// Check if current tab is Downloads
-  bool get isDownloadsTab => state.currentIndex == 2;
+  bool get isDownloadsTab => state.currentIndex == 1;
 
   /// Handle back button press
   bool handleBackPress() {
@@ -174,17 +180,17 @@ class NavigationAnalytics {
   static void trackTabSelected(String tabName) {
     // In a real app, you would send this to your analytics service
     // For now, we'll just log it
-    print('Navigation: Selected tab $tabName');
+    debugPrint('Navigation: Selected tab $tabName');
   }
 
   /// Track deep link navigation
   static void trackDeepLink(String route) {
-    print('Navigation: Deep link to $route');
+    debugPrint('Navigation: Deep link to $route');
   }
 
   /// Track back button usage
   static void trackBackButton(String fromTab) {
-    print('Navigation: Back button from $fromTab');
+    debugPrint('Navigation: Back button from $fromTab');
   }
 }
 

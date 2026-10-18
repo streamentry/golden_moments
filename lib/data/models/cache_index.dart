@@ -74,21 +74,15 @@ class CacheIndex extends Equatable {
     final updatedPacks = Map<String, CachedPackInfo>.from(packs);
     updatedPacks[packInfo.id] = packInfo;
 
-    return copyWith(
-      packs: updatedPacks,
-      lastUpdated: DateTime.now(),
-    );
+    return copyWith(packs: updatedPacks, lastUpdated: DateTime.now());
   }
 
   /// Remove a pack from the cache index
   CacheIndex removePack(String packId) {
-    final updatedPacks = Map<String, CachedPackInfo>.from(packs);
-    updatedPacks.remove(packId);
+    final updatedPacks = Map<String, CachedPackInfo>.from(packs)
+      ..remove(packId);
 
-    return copyWith(
-      packs: updatedPacks,
-      lastUpdated: DateTime.now(),
-    );
+    return copyWith(packs: updatedPacks, lastUpdated: DateTime.now());
   }
 
   /// Get expired packs that need cleanup

@@ -4,17 +4,18 @@ version: 1.2.0+4
 publish_to: none
 
 environment:
-  sdk: ^3.8.0
+  sdk: ^3.13.5
+  flutter: ">=3.47.7"
 
 dependencies:
   audioplayers: ^6.5.0
   bloc: ^9.0.0
-  cached_network_image: ^3.3.1
+  cached_network_image: ^4.0.4
   crypto: ^3.0.5
   disk_space_plus: ^0.2.6
-  equatable: ^2.0.5
+  equatable: ^2.1.0
   firebase_analytics: ^12.0.0
-  firebase_core: ^4.0.0
+  firebase_core: ^4.14.0
   firebase_crashlytics: ^5.0.0
   flutter:
     sdk: flutter
@@ -30,6 +31,7 @@ dependencies:
   provider: ^6.1.5
   share_plus: ^11.1.0
   shared_preferences: ^2.2.3
+  web: ^1.1.1
 
 dev_dependencies:
   bloc_test: ^10.0.0
@@ -37,7 +39,9 @@ dev_dependencies:
   flutter_native_splash: ^2.4.1
   flutter_test:
     sdk: flutter
-  mocktail: ^1.0.4
+  mocktail: ^1.0.5
+  path_provider_platform_interface: ^2.1.2
+  plugin_platform_interface: ^2.1.8
   very_good_analysis: ^9.0.0
 
 flutter:
