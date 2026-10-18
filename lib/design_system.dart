@@ -101,7 +101,7 @@ const double gmSpaceXl = 32; // section break
 const double gmTargetMin = 48; // every control
 const double gmTargetPrimary = 56; // buttons
 const double gmTargetHero = 64; // the one main action on Home
-const double gmTileMin = 96; // picture tiles never shrink below this
+const double gmTileMin = 64; // picture tiles never shrink below this
 const double gmContentMaxWidth = 720; // single centered column
 
 const double gmElevationCard = 2;
@@ -435,6 +435,33 @@ RoundedRectangleBorder gmTileShape(
     color: emphasized ? scheme.primary : scheme.outline,
   ),
 );
+
+/// Columns for a square-tile board: the largest tiles that let the whole
+/// board fit on screen, so nothing has to be remembered while scrolling.
+/// Tiles never drop below [gmTileMin]; only then does the board scroll.
+int gmBoardColumns({
+  required int tileCount,
+  required int maxColumns,
+  required Size size,
+}) {
+  double tileFor(int columns) =>
+      (size.width - (columns - 1) * gmTileGap) / columns;
+  final upper = maxColumns < 2 ? 2 : maxColumns;
+  for (var columns = 2; columns <= upper; columns++) {
+    final tile = tileFor(columns);
+    if (tile < gmTileMin) break;
+    final rows = (tileCount / columns).ceil();
+    if (!size.height.isFinite ||
+        rows * tile + (rows - 1) * gmTileGap <= size.height) {
+      return columns;
+    }
+  }
+  var columns = upper;
+  while (columns > 2 && tileFor(columns) < gmTileMin) {
+    columns--;
+  }
+  return columns;
+}
 
 /// MEMORY TILE  (face-down / revealed / matched) for the picture-pack library
 class GmMemoryTile extends StatelessWidget {

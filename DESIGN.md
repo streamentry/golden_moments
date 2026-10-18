@@ -107,7 +107,7 @@ spacing:
   target-min: 48px
   target-primary: 56px
   target-hero: 64px
-  tile-min: 96px
+  tile-min: 64px
   content-max: 720px
 components:
   button-hero:
@@ -142,7 +142,7 @@ components:
     backgroundColor: "{colors.surface}"
     textColor: "{colors.on-surface}"
     rounded: "{rounded.lg}"
-    size: 96px
+    size: 64px
     padding: 8px
   tile-selected:
     backgroundColor: "{colors.primary-container}"
@@ -319,7 +319,7 @@ Rules:
 - **Respect safe areas and edge-to-edge** (Android 15+ draws behind system bars; iPhone has the notch and home indicator). Use `SafeArea` and keep targets out of the gesture zones.
 - **Rotation and resizing are supported.** Android 16 ignores orientation locks on large screens, so every screen must reflow at any size class.
 - **Placement is consistent:** Back stays top-left, help (ⓘ) top-right, and "Done for now" or "Close" is the last item on the screen. Controls never move between turns of a game.
-- **Tile grid:** two columns on phones, aspect ratio about 1.1. Tiles are never smaller than `tile-min` (96px), and the gap is `tile-gap`. Columns are computed from the available width, capped by the board's design. More tiles means more scrolling, never smaller tiles.
+- **Tile grid:** two columns on phones, aspect ratio about 1.1. The gap is `tile-gap`. Use the **largest tiles that fit the whole board on one screen** (`gmBoardColumns`), because scrolling a memory board forces the player to remember what has gone out of view. Tiles never drop below `tile-min` (64px, well above the 48px target minimum); only a board that cannot fit at that size scrolls. The gentle board's four tiles are far larger.
 
 ## Elevation & Depth
 
@@ -414,7 +414,7 @@ Never use: brain age, score, IQ, train, sharpen, decline, therapy, treatment, pr
 
 Acceptance for any screen change. "Implemented" is not "verified"; record device checks in `docs/specs/release-status.json` only when they were actually performed.
 
-- **Targets:** ≥48×48 for every control, ≥56 high for buttons, 64 for the Home hero action and tiles ≥96. Interactive elements are at least 8px apart.
+- **Targets:** ≥48×48 for every control, ≥56 high for buttons, 64 for the Home hero action and tiles ≥64 (as large as the screen allows). Interactive elements are at least 8px apart.
 - **Contrast:** text ≥4.5:1, with body text aimed at ≥7:1. Control boundaries and selection indicators are ≥3:1. Re-measure when a color token changes.
 - **Text scale:** check 100%, 150% and 200%, portrait and landscape, on iPhone SE, iPhone Pro Max and iPad. Nothing essential clips or truncates.
 - **Screen readers:** every tile is a button with a positional label and a state value. Hidden tiles never leak their picture. Live regions announce turn guidance. Decorative icons are excluded. Personal-photo labels are currently positional, so do not claim descriptive alt text.

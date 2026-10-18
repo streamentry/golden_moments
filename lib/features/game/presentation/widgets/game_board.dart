@@ -23,13 +23,10 @@ class GameBoard extends StatelessWidget {
   Widget build(BuildContext parentContext) {
     return LayoutBuilder(
       builder: (context, constraints) {
-        // Tiles never shrink below gmTileMin; denser packs scroll instead.
-        final fitting =
-            ((constraints.maxWidth + gmTileGap) / (gmTileMin + gmTileGap))
-                .floor();
-        final crossAxisCount = fitting.clamp(
-          2,
-          _getCrossAxisCount(difficulty),
+        final crossAxisCount = gmBoardColumns(
+          tileCount: tiles.length,
+          maxColumns: _getCrossAxisCount(difficulty),
+          size: constraints.biggest,
         );
         final aspectRatio = _getAspectRatio(difficulty);
 

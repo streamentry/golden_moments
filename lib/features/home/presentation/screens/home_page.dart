@@ -203,16 +203,16 @@ class _WelcomeSection extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              'Welcome to Golden Moments!',
+              'Welcome to Golden Moments',
               style: theme.textTheme.headlineMedium?.copyWith(
                 color: theme.colorScheme.primary,
               ),
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
-              'Take a nostalgic journey through the past with our '
-              'memory matching games. Choose from daily featured packs'
-              ' or explore our full library.',
+              'Picture matching games to enjoy at your own pace. Choose '
+              "one of today's packs or explore the full library. Every "
+              'pack is included and works offline.',
               style: theme.textTheme.bodyLarge,
             ),
           ],

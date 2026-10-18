@@ -38,7 +38,7 @@ class DailyPacksSection extends StatelessWidget {
         ),
         const SizedBox(height: gmSpaceSm),
         Text(
-          'Fresh memory challenges updated daily',
+          'A few picture packs chosen for today',
           style: theme.textTheme.bodyLarge?.copyWith(
             color: theme.colorScheme.onSurfaceVariant,
           ),

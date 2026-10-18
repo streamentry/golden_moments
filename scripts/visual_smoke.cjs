@@ -47,7 +47,7 @@ async function eventually(read, expected) {
   await page.goto(baseUrl);
   await page.locator('flt-semantics-placeholder').evaluate(el => el.click());
   await page.getByRole('heading', { name: 'Golden Moments', exact: true }).waitFor();
-  await page.getByRole('button', { name: /^DAILY / }).first().waitFor();
+  await page.getByRole('button', { name: /^Daily / }).first().waitFor();
   await check('fresh install has every catalog image bundled locally', async () => {
     const index = await (await context.request.get(`${baseUrl}/assets/assets/data/packs_index.json`)).json();
     function paths(value) {
@@ -94,39 +94,39 @@ async function eventually(read, expected) {
     assert.equal(await page.getByRole('button', { name: /Download/ }).count(), 0);
   });
   await check('bundled pack opens a playable game', async () => {
-    await page.getByRole('button', { name: /^DAILY / }).first().click();
-    await page.getByRole('button', { name: 'Hidden tile', exact: true }).first().waitFor();
-    assert.equal(await page.getByText('Game Error', { exact: true }).count(), 0);
+    await page.getByRole('button', { name: /^Daily / }).first().click();
+    await page.getByRole('button', { name: 'Hidden picture', exact: true }).first().waitFor();
+    assert.equal(await page.getByText('This pack could not open', { exact: true }).count(), 0);
     await shot('game-mobile');
   });
   await check('tile reveals, pause/resume, and replay work', async () => {
-    const hidden = page.getByRole('button', { name: 'Hidden tile', exact: true });
+    const hidden = page.getByRole('button', { name: 'Hidden picture', exact: true });
     const count = await hidden.count();
     await hidden.first().click();
     await page.waitForTimeout(500);
     await eventually(() => hidden.count(), count - 1);
     await shot('tile-revealed');
-    await page.getByRole('button', { name: 'Pause Game', exact: true }).click();
-    await page.getByText('Game Paused', { exact: true }).waitFor();
+    await page.getByRole('button', { name: 'Sound and options', exact: true }).click();
+    await page.getByText('Options', { exact: true }).waitFor();
     await shot('paused-mobile');
-    await page.getByRole('button', { name: 'Resume', exact: true }).first().click();
-    await page.getByRole('button', { name: 'Replay', exact: true }).click();
+    await page.getByRole('button', { name: 'Keep playing', exact: true }).first().click();
+    await page.getByRole('button', { name: 'Start again', exact: true }).click();
     await eventually(() => hidden.count(), count);
     await shot('game-restarted');
   });
   await check('gameplay never needs an external image request', async () => {
 
-    const hidden = page.getByRole('button', { name: 'Hidden tile', exact: true });
+    const hidden = page.getByRole('button', { name: 'Hidden picture', exact: true });
     const count = await hidden.count();
     await hidden.first().click();
     await eventually(() => hidden.count(), count - 1);
     await shot('offline-tile-revealed');
-    assert.equal(await page.getByText('Game Error', { exact: true }).count(), 0);
+    assert.equal(await page.getByText('This pack could not open', { exact: true }).count(), 0);
 
   });
   await check('hint and leaving game do not emit after disposal', async () => {
-    await page.getByRole('button', { name: 'Replay', exact: true }).click();
-    await page.getByRole('button', { name: 'Show Hint', exact: true }).click();
+    await page.getByRole('button', { name: 'Start again', exact: true }).click();
+    await page.getByRole('button', { name: 'Show a matching pair', exact: true }).click();
     await shot('hint-revealed');
     await page.getByRole('button', { name: 'Back', exact: true }).click();
     await page.waitForTimeout(1500);
@@ -141,7 +141,7 @@ async function eventually(read, expected) {
   await check('full game completes and can be played again', async () => {
     await page.getByRole('button', { name: /^Animals Cute/ }).click();
     await page.getByRole('button', { name: /Farm Animals/ }).click();
-    await page.getByRole('button', { name: 'Hidden tile', exact: true }).first().waitFor();
+    await page.getByRole('button', { name: 'Hidden picture', exact: true }).first().waitFor();
     const tiles = page.getByRole('group').getByRole('button');
     const count = await tiles.count();
     const known = new Map();
@@ -152,7 +152,7 @@ async function eventually(read, expected) {
       await page.waitForTimeout(120);
       const snapshot = await tiles.nth(index).ariaSnapshot();
       const name = JSON.parse(snapshot.match(/"(?:[^"\\]|\\.)*"/)[0]);
-      assert.notEqual(name, 'Hidden tile');
+      assert.notEqual(name, 'Hidden picture');
       known.set(index, name);
       return name;
     }
@@ -172,18 +172,18 @@ async function eventually(read, expected) {
       // The final match opens a modal, removing the board's semantics.
       const secondName = matched.size === count - 2
         ? (await tiles.nth(second).click(), firstName) : await flip(second);
-      if (firstName === secondName || secondName === `Matched: ${firstName}`) {
+      if ([firstName, `Matched: ${firstName}`, `${firstName} Matched`].includes(secondName)) {
         matched.add(first); matched.add(second);
       } else {
         await page.waitForTimeout(1600);
       }
     }
     assert.equal(matched.size, count);
-    await page.getByText('You completed the memory game!', { exact: true }).waitFor();
-    assert.equal(await page.getByText(/You've completed 3 memory games/).count(), 0);
+    await page.getByText('All pairs together', { exact: true }).waitFor();
+    assert.equal(await page.getByText('Share Golden Moments?', { exact: true }).count(), 0);
     await shot('game-completed');
-    await page.getByRole('button', { name: 'Play Again', exact: true }).first().click();
-    await page.getByRole('button', { name: 'Hidden tile', exact: true }).first().waitFor();
+    await page.getByRole('button', { name: 'Play again', exact: true }).first().click();
+    await page.getByRole('button', { name: 'Hidden picture', exact: true }).first().waitFor();
     await shot('play-again');
   });
   assert.deepEqual(errors, [], 'Unhandled browser errors');

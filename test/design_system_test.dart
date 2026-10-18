@@ -195,6 +195,48 @@ void main() {
     }
   });
 
+  group('gmBoardColumns', () {
+    test('uses the largest tiles that fit the whole board', () {
+      // 12 tiles on a phone board: 3 columns of ~111px fit without scrolling.
+      expect(
+        gmBoardColumns(
+          tileCount: 12,
+          maxColumns: 3,
+          size: const Size(358, 680),
+        ),
+        3,
+      );
+      // 16 tiles need 4 columns to fit, still above the 64px floor.
+      expect(
+        gmBoardColumns(
+          tileCount: 16,
+          maxColumns: 4,
+          size: const Size(358, 680),
+        ),
+        4,
+      );
+      // A tablet fits a 4-tile board in 2 large columns.
+      expect(
+        gmBoardColumns(
+          tileCount: 4,
+          maxColumns: 3,
+          size: const Size(700, 900),
+        ),
+        2,
+      );
+    });
+
+    test('never shrinks tiles below the minimum; scrolls instead', () {
+      final columns = gmBoardColumns(
+        tileCount: 40,
+        maxColumns: 5,
+        size: const Size(358, 680),
+      );
+      final tile = (358 - (columns - 1) * gmTileGap) / columns;
+      expect(tile, greaterThanOrEqualTo(gmTileMin));
+    });
+  });
+
   testWidgets('a matched tile shows a check badge, not color alone', (
     tester,
   ) async {
