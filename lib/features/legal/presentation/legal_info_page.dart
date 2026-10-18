@@ -59,10 +59,13 @@ class LegalInfoPage extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          OutlinedButton.icon(
-            onPressed: () => unawaited(_openExternal(context, url)),
-            icon: Icon(icon),
-            label: Text(label),
+          SizedBox(
+            width: double.infinity,
+            child: OutlinedButton.icon(
+              onPressed: () => unawaited(_openExternal(context, url)),
+              icon: Icon(icon),
+              label: Text(label),
+            ),
           ),
           const SizedBox(height: gmSpaceSm),
           Text(
@@ -80,7 +83,10 @@ class LegalInfoPage extends StatelessWidget {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     return Scaffold(
-      appBar: AppBar(title: const Text('Privacy and information')),
+      appBar: AppBar(
+        toolbarHeight: gmToolbarHeight(context),
+        title: const GmTitle('Privacy and information'),
+      ),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(

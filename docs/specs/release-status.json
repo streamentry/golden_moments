@@ -120,22 +120,24 @@
     "features": {
       "GM-001": {
         "status": "implemented_unverified",
-        "scope": "Fresh install opens the gentle home with exactly one filled action, 'Start a gentle game', in the first view on a small phone, a phone at 200% text, a small phone at 200% text and a landscape phone (Start sits under the heading, and above it when text exceeds 150%); one tap opens four visible tiles with no dialog, sheet or setup question; a saved comfort choice is used and never overwritten. Seen on the iOS 26.5 simulator (debug). Not done: physical-device journey with blocked network, upgrade from an installed build, five-second comprehension with intended users.",
+        "scope": "Fresh install opens the gentle home with exactly one filled action, 'Start a gentle game', in the first view on a small phone, a phone at 200% text, a small phone at 200% text and a landscape phone (Start sits under the heading, and above it when text exceeds 150%); one tap opens four visible tiles with no dialog, sheet or setup question; a saved comfort choice is used and never overwritten. Seen on the iOS 26.5 simulator (debug). Not done: physical-device journey with blocked network, upgrade from an installed build, five-second comprehension with intended users. An end-to-end suite (integration_test) drives the real app on the iOS simulator (iPhone 17 Pro Max and iPad Pro 13-inch, iOS 26.5): fresh install, one Start, four visible tiles, finish, Play again, Done for now; also at 200% text. Home now shows a small decorative picture of the activity and centres on tall screens.",
         "evidence": [
           "lib/features/gentle_activities/presentation/gentle_home_page.dart",
-          "test/features/gentle_activities/gentle_ui_test.dart"
+          "test/features/gentle_activities/gentle_ui_test.dart",
+          "integration_test/app_journeys_test.dart"
         ]
       },
       "GM-002": {
         "status": "implemented_unverified",
-        "scope": "Done for now is fixed and visible on the gentle matching screen, Look together (with Previous/Next in the same bar, stacked above 130% text) and the legacy picture-pack game (side by side when the labels fit). Start again confirms only with progress and Cancel/Keep this board keeps the exact board; closing legacy Options any way, including system Back, resumes play; finishing offers Play again beside Done/Choose another pack with no rating request. Photo collection, help and library pages keep the standard labelled Back. Switch navigation and device checks pending.",
+        "scope": "Done for now is fixed and visible on the gentle matching screen, Look together (with Previous/Next in the same bar, stacked above 130% text) and the legacy picture-pack game (side by side when the labels fit). Start again confirms only with progress and Cancel/Keep this board keeps the exact board; closing legacy Options any way, including system Back, resumes play; finishing offers Play again beside Done/Choose another pack with no rating request. Photo collection, help and library pages keep the standard labelled Back. Switch navigation and device checks pending. End-to-end journeys on iPhone and iPad simulators exercise Done for now, Start again, Carry on/Start fresh and system-free exits on every screen they visit.",
         "evidence": [
           "lib/features/gentle_activities/presentation/gentle_game_page.dart",
           "lib/features/gentle_activities/presentation/photo_together_page.dart",
           "lib/features/game/presentation/widgets/game_exit_bar.dart",
           "test/features/gentle_activities/gentle_ui_test.dart",
           "test/features/gentle_activities/photo_together_test.dart",
-          "test/features/legacy_library/legacy_route_test.dart"
+          "test/features/legacy_library/legacy_route_test.dart",
+          "integration_test/app_journeys_test.dart"
         ]
       },
       "GM-003": {
@@ -151,12 +153,13 @@
       },
       "GM-004": {
         "status": "implemented_unverified",
-        "scope": "Matching screen only: the unfinished board (picture ids and tile positions, no score/time/path) saves after each tap and clears on finish or a confirmed restart; reopening offers Carry on or Start fresh, never resumes silently (dismissing the prompt with system back chooses nothing and keeps the saved board; taps are not saved until the prompt is settled); missing pictures, corrupt or other-version records start fresh without touching photos or settings. Starter and family boards are kept apart. Real process-kill, backgrounding and device checks pending; lifecycle-resume of a backgrounded (not killed) page relies on Flutter keeping page state. Observed on the iOS simulator: leaving with Done for now after one choice and reopening offered Carry on or Start fresh, and Carry on restored the same board with the choice outlined.",
+        "scope": "Matching screen only: the unfinished board (picture ids and tile positions, no score/time/path) saves after each tap and clears on finish or a confirmed restart; reopening offers Carry on or Start fresh, never resumes silently (dismissing the prompt with system back chooses nothing and keeps the saved board; taps are not saved until the prompt is settled); missing pictures, corrupt or other-version records start fresh without touching photos or settings. Starter and family boards are kept apart. Real process-kill, backgrounding and device checks pending; lifecycle-resume of a backgrounded (not killed) page relies on Flutter keeping page state. Observed on the iOS simulator: leaving with Done for now after one choice and reopening offered Carry on or Start fresh, and Carry on restored the same board with the choice outlined. End-to-end on iPhone and iPad simulators: stop after one choice, cold relaunch, Carry on restores the board, Start fresh forgets it, and a finished board is never offered.",
         "evidence": [
           "lib/features/gentle_activities/data/gentle_session.dart",
           "lib/features/gentle_activities/models/gentle_board.dart",
           "test/features/gentle_activities/gentle_session_test.dart",
-          "test/features/gentle_activities/gentle_resume_test.dart"
+          "test/features/gentle_activities/gentle_resume_test.dart",
+          "integration_test/app_journeys_test.dart"
         ]
       },
       "GM-005": {
@@ -185,11 +188,12 @@
       },
       "GM-008": {
         "status": "implemented_unverified",
-        "scope": "Look together shows one bounded picture at a time with labelled Previous/Next and Done for now in a fixed bar; captions and conversation prompts are off by default, independent and stay as chosen for the visit; nothing advances by itself; no wording asks the person to remember or answer. Hide this picture needs no reason and no countdown: family photos use the same persistent, reversible Hide as the collection (and never reach the game), included pictures hide for the visit; a failed save changes nothing and says so. An empty set explains itself and offers the included pictures. Rotation keeps the picture and options. Seen on the iOS simulator; device and caregiver review pending.",
+        "scope": "Look together shows one bounded picture at a time with labelled Previous/Next and Done for now in a fixed bar; captions and conversation prompts are off by default, independent and stay as chosen for the visit; nothing advances by itself; no wording asks the person to remember or answer. Hide this picture needs no reason and no countdown: family photos use the same persistent, reversible Hide as the collection (and never reach the game), included pictures hide for the visit; a failed save changes nothing and says so. An empty set explains itself and offers the included pictures. Rotation keeps the picture and options. Seen on the iOS simulator; device and caregiver review pending. After Next, Previous or Hide the view returns to the picture, the hide note sits above it, and on a small screen at large text only Done for now stays fixed so the picture is never crowded out (found by the end-to-end suite at 200% text). End-to-end on both simulators.",
         "evidence": [
           "lib/features/gentle_activities/presentation/photo_together_page.dart",
           "test/features/gentle_activities/photo_together_test.dart",
-          "test/features/gentle_activities/photo_collection_journey_test.dart"
+          "test/features/gentle_activities/photo_collection_journey_test.dart",
+          "integration_test/app_journeys_test.dart"
         ]
       },
       "GM-009": {
@@ -213,12 +217,13 @@
       },
       "GM-012": {
         "status": "partial",
-        "scope": "Automated reflow at 200% text (no overflow, essential controls reachable, nothing clamped) now covers the gentle home, matching board, Look together, photo collection, help, the legacy game, category and pack pages and the library home with pack cards (320x568, 390x844, 844x390, 1024x1366). Pack titles and themes are no longer cut to one line. Largest system setting beyond 200%, native display zoom and device observation pending.",
+        "scope": "Automated reflow at 200% text (no overflow, essential controls reachable, nothing clamped) now covers the gentle home, matching board, Look together, photo collection, help, the legacy game, category and pack pages and the library home with pack cards (320x568, 390x844, 844x390, 1024x1366). Pack titles and themes are no longer cut to one line. Largest system setting beyond 200%, native display zoom and device observation pending. App-bar titles now wrap and the toolbar grows with text size instead of ending in an ellipsis; peer buttons sit side by side only when both labels fit; pack cards are one column on phones. End-to-end journeys at 200% text pass on iPhone and iPad simulators.",
         "evidence": [
           "test/features/gentle_activities/gentle_ui_test.dart",
           "test/features/gentle_activities/photo_together_test.dart",
           "test/features/legacy_library/legacy_layout_test.dart",
-          "test/features/home/library_home_text_scale_test.dart"
+          "test/features/home/library_home_text_scale_test.dart",
+          "integration_test/app_journeys_test.dart"
         ]
       },
       "GM-013": {
@@ -254,12 +259,13 @@
       },
       "GM-016": {
         "status": "partial",
-        "scope": "Widget tests cover small phone, phone, landscape phone and iPad for the gentle home, board and Look together, the legacy game, category, pack and library pages; rotating mid-turn keeps the same board and selection, and rotating while viewing keeps the picture and options. iOS simulator (iPhone 17 Pro Max) observed. Real iPad, split screen and keyboard-open checks pending.",
+        "scope": "Widget tests cover small phone, phone, landscape phone and iPad for the gentle home, board and Look together, the legacy game, category, pack and library pages; rotating mid-turn keeps the same board and selection, and rotating while viewing keeps the picture and options. iOS simulator (iPhone 17 Pro Max) observed. Real iPad, split screen and keyboard-open checks pending. End-to-end journeys pass on iPhone 17 Pro Max and iPad Pro 13-inch simulators.",
         "evidence": [
           "test/features/gentle_activities/gentle_ui_test.dart",
           "test/features/gentle_activities/photo_together_test.dart",
           "test/features/legacy_library/legacy_layout_test.dart",
-          "test/features/legacy_library/legacy_landscape_test.dart"
+          "test/features/legacy_library/legacy_landscape_test.dart",
+          "integration_test/app_journeys_test.dart"
         ]
       },
       "GM-017": {
@@ -287,14 +293,15 @@
       },
       "GM-020": {
         "status": "implemented_unverified",
-        "scope": "Family photos: Favorite sorts first; Hide (from the photo options or from Look together) excludes a photo from the game and viewing without deleting the copy, is shown with the word 'Hidden', persists and is undone by turning it off; Remove is separate and confirmed. Included packs: 'Add to favorites'/'In favorites' toggle and a 'Your favorites' group; Not for me hides a pack from suggestions and browsing, with a persistent note and a 'Hidden packs (N)' list to show it again, never a countdown. Stored as a versioned record that is never overwritten when unreadable or newer; until choices load no pack card is shown, so a hidden pack never flashes. Fewer than two visible photos disables the game with an explanation and never silently unhides. Device check pending.",
+        "scope": "Family photos: Favorite sorts first; Hide (from the photo options or from Look together) excludes a photo from the game and viewing without deleting the copy, is shown with the word 'Hidden', persists and is undone by turning it off; Remove is separate and confirmed. Included packs: 'Add to favorites'/'In favorites' toggle and a 'Your favorites' group; Not for me hides a pack from suggestions and browsing, with a persistent note and a 'Hidden packs (N)' list to show it again, never a countdown. Stored as a versioned record that is never overwritten when unreadable or newer; until choices load no pack card is shown, so a hidden pack never flashes. Fewer than two visible photos disables the game with an explanation and never silently unhides. Device check pending. End-to-end on both simulators: an installed family collection is played, captioned, favorited, hidden and removed with the files on disk checked; a pack is favorited, hidden with Not for me and shown again.",
         "evidence": [
           "lib/features/gentle_activities/data/photo_annotations.dart",
           "lib/features/gentle_activities/presentation/photo_collection_page.dart",
           "lib/features/home/data/pack_preferences.dart",
           "test/features/gentle_activities/photo_collection_journey_test.dart",
           "test/features/home/pack_preferences_test.dart",
-          "test/features/home/pack_favorites_ui_test.dart"
+          "test/features/home/pack_favorites_ui_test.dart",
+          "integration_test/app_journeys_test.dart"
         ]
       },
       "GM-021": {

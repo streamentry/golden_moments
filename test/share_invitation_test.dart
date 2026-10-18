@@ -105,10 +105,10 @@ void main() {
       SharedPreferences.setMockInitialValues({});
       await pumpGame(tester);
       await finishBoard(tester);
-      expect(
-        find.text('All pairs together. Play again or take a break.'),
-        findsOneWidget,
-      );
+      // A calm heading where the instruction was, and an invitation below.
+      expect(find.text('All pairs together.'), findsOneWidget);
+      expect(find.text('Play again or take a break.'), findsOneWidget);
+      expect(find.text('Tap two pictures that match.'), findsNothing);
       expect(find.byType(ShareInvitation), findsNothing);
     });
 

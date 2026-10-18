@@ -104,16 +104,16 @@ class _LibrarySectionState extends State<LibrarySection> {
               mainAxisSize: MainAxisSize.min,
               children: [
                 Icon(
-                  Icons.library_books,
+                  Icons.collections_bookmark_outlined,
                   size: 32,
-                  color: theme.colorScheme.secondary,
+                  color: theme.colorScheme.primary,
                 ),
                 const SizedBox(width: gmSpaceSm),
                 Flexible(
                   child: Text(
-                    'Library',
+                    'Browse by topic',
                     style: theme.textTheme.headlineSmall?.copyWith(
-                      color: theme.colorScheme.secondary,
+                      color: theme.colorScheme.primary,
                     ),
                   ),
                 ),
@@ -132,13 +132,13 @@ class _LibrarySectionState extends State<LibrarySection> {
                 );
               },
               icon: const Icon(Icons.arrow_forward),
-              label: const Text('View all'),
+              label: const Text('See all topics'),
             ),
           ],
         ),
         const SizedBox(height: gmSpaceSm),
         Text(
-          'Explore our full collection of nostalgic memory games',
+          'Every included picture pack, sorted by topic.',
           style: theme.textTheme.bodyLarge?.copyWith(
             color: theme.colorScheme.onSurfaceVariant,
           ),

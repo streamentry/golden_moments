@@ -251,12 +251,15 @@ ThemeData gmBuildTheme() {
       ),
       iconColor: onSurface,
     ),
+    // DESIGN.md › Elevation: hierarchy from tone and borders, not shadows.
+    // Content cards are linen with a 1px Driftwood border at elevation 0.
     cardTheme: CardThemeData(
       color: surface,
       surfaceTintColor: Colors.transparent,
-      elevation: gmElevationCard,
+      elevation: 0,
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(gmRadiusLg),
+        side: const BorderSide(color: gmDriftwood500),
       ),
     ),
     dialogTheme: DialogThemeData(
@@ -401,6 +404,158 @@ class GmOutlineButton extends StatelessWidget {
 }
 
 /// Gold check badge that marks a matched tile by shape, not color alone.
+/// Two peer buttons that sit side by side only when both labels fit on one
+/// line at the current text size, and otherwise stack full width, so a label
+/// is never broken mid-phrase (GM-012). [labels] are the visible words of
+/// [first] and [second]; [iconWidth] adds room for a leading icon.
+///
+/// When stacked, [secondOnTop] puts [second] first: use it when [second] is
+/// the primary action, so reading order is action order.
+class GmButtonPair extends StatelessWidget {
+  const new({
+    required this.first,
+    required this.second,
+    required this.labels,
+    this.iconWidth = 0,
+    this.secondOnTop = false,
+    super.key,
+  });
+
+  final Widget first;
+  final Widget second;
+  final (String, String) labels;
+  final double iconWidth;
+  final bool secondOnTop;
+
+  /// Matches the button padding and the 2px outline in [gmBuildTheme].
+  static const double _chrome = gmSpaceLg * 2 + 2 * 2;
+
+  /// Width a button needs to keep [label] on one line.
+  static double neededWidth(
+    BuildContext context,
+    String label, {
+    double iconWidth = 0,
+  }) {
+    final painter = TextPainter(
+      text: TextSpan(
+        text: label,
+        style: Theme.of(context).textTheme.labelLarge,
+      ),
+      textScaler: MediaQuery.textScalerOf(context),
+      textDirection: Directionality.of(context),
+      maxLines: 1,
+    )..layout();
+    final width = painter.width;
+    painter.dispose();
+    return width + _chrome + iconWidth;
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return LayoutBuilder(
+      builder: (context, constraints) {
+        final half = (constraints.maxWidth - gmSpaceMd) / 2;
+        final sideBySide =
+            neededWidth(context, labels.$1, iconWidth: iconWidth) <= half &&
+            neededWidth(context, labels.$2, iconWidth: iconWidth) <= half;
+        if (sideBySide) {
+          return Row(
+            children: [
+              Expanded(child: first),
+              const SizedBox(width: gmSpaceMd),
+              Expanded(child: second),
+            ],
+          );
+        }
+        final ordered = secondOnTop ? [second, first] : [first, second];
+        return Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.stretch,
+          children: [
+            ordered[0],
+            const SizedBox(height: gmSpaceSm),
+            ordered[1],
+          ],
+        );
+      },
+    );
+  }
+}
+
+/// The back of a hidden tile: Oat with an inset Honey frame and a small dot
+/// ornament, so it reads as the back of a card rather than a missing photo.
+/// Purely decorative (DESIGN.md › Ornament); the tile's label says it is
+/// hidden.
+class GmTileBack extends StatelessWidget {
+  const new({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.all(gmSpaceSm),
+      child: DecoratedBox(
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(gmRadiusMd),
+          border: Border.all(color: gmGold600, width: 2),
+        ),
+        child: const Center(
+          child: FractionallySizedBox(
+            widthFactor: 0.3,
+            heightFactor: 0.3,
+            child: CustomPaint(painter: _DotOrnament()),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+class _DotOrnament extends CustomPainter {
+  const new();
+
+  @override
+  void paint(Canvas canvas, Size size) {
+    final paint = Paint()..color = gmGold600;
+    final step = size.shortestSide / 3;
+    final radius = step / 5;
+    final origin = Offset(
+      (size.width - step * 3) / 2 + step / 2,
+      (size.height - step * 3) / 2 + step / 2,
+    );
+    for (var row = 0; row < 3; row++) {
+      for (var col = 0; col < 3; col++) {
+        canvas.drawCircle(
+          origin + Offset(col * step, row * step),
+          radius,
+          paint,
+        );
+      }
+    }
+  }
+
+  @override
+  bool shouldRepaint(_DotOrnament oldDelegate) => false;
+}
+
+/// App-bar height that grows with the system text size, so a [GmTitle] can
+/// wrap onto a second line instead of being cut off (GM-012).
+double gmToolbarHeight(BuildContext context) {
+  final scale = MediaQuery.textScalerOf(context).scale(1);
+  return scale <= 1.15 ? gmTargetHero : gmTargetHero * scale;
+}
+
+/// An app-bar title that wraps instead of ending in an ellipsis: text is
+/// never clamped. Pair with [gmToolbarHeight].
+class GmTitle extends StatelessWidget {
+  const new(this.text, {super.key});
+
+  final String text;
+
+  @override
+  Widget build(BuildContext context) =>
+      Text(text, softWrap: true, maxLines: 3, overflow: TextOverflow.visible);
+}
+
 class GmMatchBadge extends StatelessWidget {
   const new({super.key});
 
@@ -511,14 +666,7 @@ class GmMemoryTile extends StatelessWidget {
                         child: Image(image: image, fit: BoxFit.cover),
                       ),
                     )
-                  : Center(
-                      key: const ValueKey('back'),
-                      child: Icon(
-                        Icons.photo_outlined,
-                        size: 48,
-                        color: scheme.onSurfaceVariant,
-                      ),
-                    ),
+                  : const GmTileBack(key: ValueKey('back')),
             ),
             if (matched)
               const Positioned(

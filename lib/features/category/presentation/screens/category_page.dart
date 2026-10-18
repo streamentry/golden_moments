@@ -20,7 +20,10 @@ class CategoryPage extends StatelessWidget {
         unawaited(SoundService().playTap());
       },
       child: Scaffold(
-        appBar: AppBar(title: const Text('All categories')),
+        appBar: AppBar(
+          toolbarHeight: gmToolbarHeight(parentContext),
+          title: const GmTitle('All categories'),
+        ),
         body: categories.isEmpty
             ? _EmptyState()
             : ListView.separated(

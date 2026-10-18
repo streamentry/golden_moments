@@ -25,7 +25,7 @@ void main() {
     );
     expect(find.text('Golden Moments'), findsOneWidget);
     expect(find.text('Suggested packs'), findsOneWidget);
-    expect(find.text('Library'), findsOneWidget);
+    expect(find.text('Browse by topic'), findsOneWidget);
     expect(tester.takeException(), isNull);
   });
 }

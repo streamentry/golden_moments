@@ -31,16 +31,47 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
   bool _hiding = false;
   bool _usingIncluded = false;
   String? _status;
+
+  /// When the picture changes, the view returns to it: at large text the
+  /// person may have scrolled down to the buttons, and a new picture
+  /// appearing out of sight looks as if nothing happened.
+  final _scroll = ScrollController();
+
+  /// When three stacked buttons would take much of a small screen (large
+  /// text), only Done for now stays fixed and Previous/Next sit directly
+  /// under the picture, so the picture itself is never crowded out.
+  bool _compactBar = false;
+
+  @override
+  void dispose() {
+    _scroll.dispose();
+    super.dispose();
+  }
+
+  void _showPicture() {
+    if (_scroll.hasClients) _scroll.jumpTo(0);
+    // The note above the picture is inserted in the next layout, which can
+    // apply a scroll-offset correction; return to the top once more after it.
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (mounted && _scroll.hasClients && _scroll.offset != 0) {
+        _scroll.jumpTo(0);
+      }
+    });
+  }
+
   static const _prompts = [
     'What do you like about this picture?',
     'What catches your eye?',
     'Would you like to talk about this, or look at another picture?',
   ];
 
-  void _move(int step) => setState(() {
-    _index = (_index + step).clamp(0, _pictures.length - 1);
-    _status = null;
-  });
+  void _move(int step) {
+    setState(() {
+      _index = (_index + step).clamp(0, _pictures.length - 1);
+      _status = null;
+    });
+    _showPicture();
+  }
 
   Future<void> _hide() async {
     if (_hiding || _pictures.isEmpty) return;
@@ -70,24 +101,33 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
       ];
       _index = math.min(_index, math.max(0, _pictures.length - 1));
       _status = save == null
-          ? 'This picture is hidden for now.'
-          : 'This picture is hidden. You can show it again from Your '
-                'family photos.';
+          // Short, so it never pushes the picture out of sight at
+          // large text; it sits directly above the next picture.
+          ? 'Hidden for this visit.'
+          : 'Hidden. You can show it again in Your family photos.';
     });
+    if (saved) _showPicture();
   }
 
   void _useIncluded() => setState(() {
     _pictures = ActivityPicture.samples;
     _usingIncluded = true;
     _index = 0;
+    _showPicture();
     _status = null;
   });
 
   @override
   Widget build(BuildContext context) {
-    final scale = MediaQuery.textScalerOf(context).scale(16) / 16;
+    final scale = MediaQuery.textScalerOf(context).scale(1);
+    _compactBar =
+        gmTargetPrimary * scale * 3 + gmSpaceLg * 2 >
+        MediaQuery.sizeOf(context).height * 0.4;
     return Scaffold(
-      appBar: AppBar(title: const Text('Look together')),
+      appBar: AppBar(
+        toolbarHeight: gmToolbarHeight(context),
+        title: const GmTitle('Look together'),
+      ),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(
@@ -96,13 +136,14 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
           ),
         ),
       ),
-      bottomNavigationBar: _controls(stacked: scale > 1.3),
+      bottomNavigationBar: _controls(),
     );
   }
 
   Widget _empty(BuildContext context) {
     final textTheme = Theme.of(context).textTheme;
     return ListView(
+      controller: _scroll,
       padding: const EdgeInsets.all(gmSpaceLg),
       children: [
         Text(
@@ -130,18 +171,44 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
   }
 
   Widget _viewer(BuildContext context) {
+    final picture = _pictures[_index];
+    return LayoutBuilder(
+      builder: (context, viewport) {
+        // A stable picture that always fits the visible area above the
+        // fixed controls, so it is in sight together with Next and Done
+        // even at large text on a small phone; never wider than the column.
+        final side = math.max<double>(
+          math.min(
+            viewport.maxWidth - 2 * gmSpaceLg,
+            viewport.maxHeight - 2 * gmSpaceLg,
+          ),
+          gmTileMin,
+        );
+        return _viewerList(context, picture, side);
+      },
+    );
+  }
+
+  Widget _viewerList(
+    BuildContext context,
+    ActivityPicture picture,
+    double side,
+  ) {
     final theme = Theme.of(context);
     final textTheme = theme.textTheme;
-    final picture = _pictures[_index];
-    // A stable, comfortably bounded picture: never wider than the content
-    // column, never so tall that the controls are pushed far away.
-    final side = math.min(
-      MediaQuery.sizeOf(context).width - 2 * gmSpaceLg,
-      math.max<double>(MediaQuery.sizeOf(context).height * 0.5, 200),
-    );
     return ListView(
+      controller: _scroll,
       padding: const EdgeInsets.all(gmSpaceLg),
       children: [
+        // Feedback sits where the eye lands after the view returns to the
+        // picture, so it is seen even at large text.
+        if (_status != null) ...[
+          Semantics(
+            liveRegion: true,
+            child: Text(_status!, style: textTheme.bodyLarge),
+          ),
+          const SizedBox(height: gmSpaceMd),
+        ],
         Center(
           child: Semantics(
             image: true,
@@ -164,6 +231,7 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
             ),
           ),
         ),
+        if (_compactBar) ...[const SizedBox(height: gmSpaceMd), _navPair()],
         if (_showCaption && picture.caption.isNotEmpty) ...[
           const SizedBox(height: gmSpaceMd),
           Text(
@@ -186,21 +254,17 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
             style: textTheme.headlineSmall,
           ),
         ],
-        if (_status != null) ...[
-          const SizedBox(height: gmSpaceMd),
-          Text(_status!, style: textTheme.bodyLarge),
-        ],
         const SizedBox(height: gmSpaceMd),
         if (_pictures.any((p) => p.caption.isNotEmpty))
           SwitchListTile(
             contentPadding: EdgeInsets.zero,
-            title: const Text('Show captions'),
+            title: const GmTitle('Show captions'),
             value: _showCaption,
             onChanged: (value) => setState(() => _showCaption = value),
           ),
         SwitchListTile(
           contentPadding: EdgeInsets.zero,
-          title: const Text('Show a conversation prompt'),
+          title: const GmTitle('Show a conversation prompt'),
           value: _showPrompt,
           onChanged: (value) => setState(() => _showPrompt = value),
         ),
@@ -208,7 +272,9 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
         Align(
           alignment: AlignmentDirectional.centerStart,
           child: TextButton.icon(
-            onPressed: _hiding ? null : () => unawaited(_hide()),
+            // Never disabled while saving (a disabled button drops focus
+            // and its scroll position); a second tap is ignored in _hide.
+            onPressed: () => unawaited(_hide()),
             icon: const Icon(Icons.visibility_off_outlined),
             label: const Text('Hide this picture'),
           ),
@@ -225,22 +291,28 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
     );
   }
 
-  Widget _controls({required bool stacked}) {
+  Widget _navPair() => GmButtonPair(
+    first: OutlinedButton.icon(
+      onPressed: _index == 0 ? null : () => _move(-1),
+      icon: const Icon(Icons.arrow_back),
+      label: const Text('Previous'),
+    ),
+    second: FilledButton.icon(
+      onPressed: _index >= _pictures.length - 1 ? null : () => _move(1),
+      icon: const Icon(Icons.arrow_forward),
+      label: const Text('Next'),
+    ),
+    labels: ('Previous', 'Next'),
+    iconWidth: 24 + gmSpaceSm,
+    secondOnTop: true,
+  );
+
+  Widget _controls() {
     final done = TextButton(
       onPressed: () => Navigator.of(context).pop(),
       child: const Text('Done for now'),
     );
-    final hasPictures = _pictures.isNotEmpty;
-    final previous = OutlinedButton.icon(
-      onPressed: _index == 0 ? null : () => _move(-1),
-      icon: const Icon(Icons.arrow_back),
-      label: const Text('Previous'),
-    );
-    final next = FilledButton.icon(
-      onPressed: _index >= _pictures.length - 1 ? null : () => _move(1),
-      icon: const Icon(Icons.arrow_forward),
-      label: const Text('Next'),
-    );
+    final navInBar = _pictures.isNotEmpty && !_compactBar;
     return SafeArea(
       child: Center(
         heightFactor: 1,
@@ -257,20 +329,8 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
               mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
-                if (hasPictures && stacked) ...[
-                  next,
-                  const SizedBox(height: gmSpaceSm),
-                  previous,
-                  const SizedBox(height: gmSpaceSm),
-                ],
-                if (hasPictures && !stacked) ...[
-                  Row(
-                    children: [
-                      Expanded(child: previous),
-                      const SizedBox(width: gmSpaceMd),
-                      Expanded(child: next),
-                    ],
-                  ),
+                if (navInBar) ...[
+                  _navPair(),
                   const SizedBox(height: gmSpaceSm),
                 ],
                 done,

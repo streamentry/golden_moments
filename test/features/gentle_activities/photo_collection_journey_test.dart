@@ -162,6 +162,8 @@ void main() {
     // Nothing is needed first: an empty collection explains itself.
     expect(find.textContaining('Add at least two photos'), findsOneWidget);
     expect(find.text('Play with these photos'), findsNothing);
+    // Nothing to look at yet, so it is not offered greyed out.
+    expect(find.text('Look at photos together'), findsNothing);
 
     // Choose three photos through the picker; originals are never touched.
     await _tapText(tester, 'Choose photos');

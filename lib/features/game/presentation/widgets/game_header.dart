@@ -60,7 +60,8 @@ class GameHeader extends StatelessWidget {
               vertical: gmSpaceXs,
             ),
             child: Text(
-              '${state.currentPack.difficulty.displayName} · '
+              // Progress in plain counts; no difficulty word, which reads
+              // like a judgement of the person (GM-003).
               '${state.matchedPairs} of '
               '${state.currentPack.difficulty.pairCount} pairs',
               style: theme.textTheme.labelSmall?.copyWith(

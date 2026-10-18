@@ -73,7 +73,10 @@ class _GamePageState extends State<GamePage> {
             };
             return Scaffold(
               appBar: AppBar(
-                title: Text(playing ? state.currentPack.title : 'Picture game'),
+                toolbarHeight: gmToolbarHeight(context),
+                title: GmTitle(
+                  playing ? state.currentPack.title : 'Picture game',
+                ),
                 actions: playing
                     ? [
                         IconButton(
@@ -130,7 +133,7 @@ class _GamePageState extends State<GamePage> {
         context: context,
         builder: (dialogContext) => AlertDialog(
           scrollable: true,
-          title: const Text('Start again?'),
+          title: const GmTitle('Start again?'),
           content: const Text(
             'The pairs you have found on this board will be cleared.',
           ),
@@ -158,7 +161,7 @@ class _GamePageState extends State<GamePage> {
     await showDialog<void>(
       context: parentContext,
       builder: (dialogContext) => AlertDialog(
-        title: const Text('Options'),
+        title: const GmTitle('Options'),
         scrollable: true,
         content: Consumer<SoundSettings>(
           builder: (_, settings, _) => Column(
@@ -171,8 +174,8 @@ class _GamePageState extends State<GamePage> {
                 secondary: Icon(
                   settings.isMusicOn ? Icons.music_note : Icons.music_off,
                 ),
-                title: const Text('Music'),
-                subtitle: const Text('Off unless you turn it on'),
+                title: const GmTitle('Music'),
+                subtitle: const GmTitle('Off unless you turn it on'),
                 value: settings.isMusicOn,
                 onChanged: (_) => settings.toggleMusic(),
               ),
@@ -181,8 +184,8 @@ class _GamePageState extends State<GamePage> {
                 secondary: Icon(
                   settings.isSoundOn ? Icons.volume_up : Icons.volume_off,
                 ),
-                title: const Text('Sounds'),
-                subtitle: const Text('Soft taps and a chime at the end'),
+                title: const GmTitle('Sounds'),
+                subtitle: const GmTitle('Soft taps and a chime at the end'),
                 value: settings.isSoundOn,
                 onChanged: (_) => settings.toggleSound(),
               ),
@@ -234,7 +237,7 @@ class _GamePageState extends State<GamePage> {
         builder: (context) => StatefulBuilder(
           builder: (context, setDialogState) => AlertDialog(
             scrollable: true,
-            title: const Text('All pairs together'),
+            title: const GmTitle('All pairs together'),
             content: Column(
               mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: CrossAxisAlignment.start,

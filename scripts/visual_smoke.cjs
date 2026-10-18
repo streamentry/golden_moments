@@ -201,7 +201,10 @@ async function eventually(read, expected) {
     const card = page.getByRole('button', { name: /^Mountain Views.*Play$/ });
     await card.first().waitFor();
     await page.getByRole('button', { name: 'Not for me, hide Mountain Views', exact: true }).click();
-    await page.getByText(/Mountain Views is hidden/).first().waitFor();
+    // The note is focusable, so some browsers expose it as a labelled group
+    // rather than as text; accept either.
+    const hiddenNote = /Mountain Views is hidden/;
+    await page.getByText(hiddenNote).or(page.getByRole('group', { name: hiddenNote })).first().waitFor();
     await eventually(() => card.count(), 0);
     await shot('pack-hidden');
     // The choice is kept locally across a reload, then undone.
