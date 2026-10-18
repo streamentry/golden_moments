@@ -2,6 +2,7 @@ import 'dart:io';
 import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/data/family_photo_store.dart';
@@ -148,6 +149,16 @@ void main() {
       ),
       'Two people on a wooden dock.',
     );
+    // Helper text beside the counter wraps; it is never cut off.
+    for (final helper in [
+      'Shown only when you choose to show captions.',
+      'Read aloud while the picture is showing.',
+    ]) {
+      final paragraph = tester.renderObject<RenderParagraph>(
+        find.descendant(of: find.text(helper), matching: find.byType(RichText)),
+      );
+      expect(paragraph.didExceedMaxLines, isFalse, reason: helper);
+    }
     await _toggle(tester, 'Favorite');
     await _tapText(tester, 'Save', until: () => _shows(find.text('Favorite')));
     expect(find.text('Favorite'), findsOneWidget);
@@ -192,9 +203,11 @@ void main() {
     expect(find.text('Remove this photo copy?'), findsOneWidget);
     // Honest about what deleting cannot reach (GM-027).
     expect(find.textContaining('earlier device backups'), findsOneWidget);
+    // The destructive button says what it does.
+    expect(find.widgetWithText(FilledButton, 'Remove copy'), findsOneWidget);
     await _tapText(
       tester,
-      'Continue',
+      'Remove copy',
       until: () => _shows(find.text('2 of 24 photos')),
     );
     expect(find.text('2 of 24 photos'), findsOneWidget);
