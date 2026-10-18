@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/sound_setting.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
 import 'package:provider/provider.dart';
 
 /// A reusable settings modal for the app
@@ -48,6 +49,20 @@ class SettingModal extends StatelessWidget {
                 onChanged: (val) {
                   settings.toggleSound();
                 },
+              ),
+              const SizedBox(height: gmSpaceLg),
+              OutlinedButton.icon(
+                onPressed: () {
+                  final navigator = Navigator.of(context);
+                  navigator.pop();
+                  navigator.push(
+                    MaterialPageRoute<void>(
+                      builder: (_) => const LegalInfoPage(),
+                    ),
+                  );
+                },
+                icon: const Icon(Icons.privacy_tip_outlined),
+                label: const Text('Privacy, terms and support'),
               ),
               const SizedBox(height: gmSpaceLg),
               Align(
