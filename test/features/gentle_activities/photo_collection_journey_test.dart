@@ -103,6 +103,16 @@ Future<void> _toggle(WidgetTester tester, String title) async {
   await tester.pump();
 }
 
+/// Pumps, with real time for file I/O, until [finder] matches something.
+Future<void> _pumpUntil(WidgetTester tester, Finder finder) async {
+  for (var i = 0; i < 1500 && finder.evaluate().isEmpty; i++) {
+    await tester.runAsync(
+      () => Future<void>.delayed(const Duration(milliseconds: 8)),
+    );
+    await tester.pump(const Duration(milliseconds: 50));
+  }
+}
+
 void main() {
   late Directory directory;
 
@@ -364,4 +374,72 @@ void main() {
     expect(find.text('Play with these photos'), findsOneWidget);
     expect(tester.takeException(), isNull);
   });
+
+  testWidgets(
+    'when nothing can be written, every change says so and keeps the photos',
+    (tester) async {
+      await tester.binding.setSurfaceSize(const Size(480, 1600));
+      addTearDown(() => tester.binding.setSurfaceSize(null));
+      final importer = _FakeImporter([
+        [1, 2],
+        [3],
+      ]);
+      await tester.pumpWidget(_app(directory, importer));
+      await _settle(tester);
+      await _tapText(tester, 'Choose photos');
+      expect(find.text('2 of 24 photos'), findsOneWidget);
+
+      // A read-only folder refuses every write, the way a full or protected
+      // disk does. Root ignores permissions, so the check is skipped there.
+      void chmod(String mode) =>
+          Process.runSync('chmod', [mode, directory.path]);
+      chmod('555');
+      addTearDown(() => chmod('755'));
+      final probe = File('${directory.path}/probe');
+      final writable = await tester.runAsync(() async {
+        try {
+          await probe.create();
+          await probe.delete();
+          return true;
+        } on FileSystemException {
+          return false;
+        }
+      });
+      if (writable!) {
+        markTestSkipped('This user can write to read-only folders.');
+        return;
+      }
+
+      await _tapText(tester, 'Choose photos');
+      expect(find.textContaining('check free space'), findsOneWidget);
+      expect(find.text('2 of 24 photos'), findsOneWidget);
+
+      await _openOptions(tester, 0);
+      await _toggle(tester, 'Favorite');
+      await _tapText(tester, 'Save');
+      final notSaved = find.textContaining('Could not save these details');
+      await _pumpUntil(tester, notSaved);
+      expect(notSaved, findsOneWidget);
+      expect(find.text('Favorite'), findsNothing);
+
+      await _openOptions(tester, 0);
+      await _tapText(tester, 'Remove this copy');
+      await _tapText(tester, 'Continue');
+      expect(find.textContaining('could not be removed'), findsOneWidget);
+      expect(find.text('2 of 24 photos'), findsOneWidget);
+
+      await _tapText(tester, 'Remove all photo copies');
+      await _tapText(tester, 'Continue');
+      expect(find.textContaining('could not be removed'), findsOneWidget);
+      expect(find.text('2 of 24 photos'), findsOneWidget);
+      expect(tester.takeException(), isNull);
+
+      chmod('755');
+      final ids = await tester.runAsync(
+        () => FamilyPhotoStore(directory).load(),
+      );
+      expect(ids, hasLength(2));
+    },
+    skip: Platform.isWindows,
+  );
 }
