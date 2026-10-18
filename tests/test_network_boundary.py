@@ -26,6 +26,8 @@ EXPECTED_URLS = {
     'https://streamentry.github.io/golden-moments-web/help/',
     'https://streamentry.github.io/golden-moments-web/app-privacy/',
     'https://streamentry.github.io/golden-moments-web/terms/',
+    # Base of the pages LegalInfoPage opens in the browser, only after a tap.
+    'https://streamentry.github.io/golden-moments-web/',
 }
 
 

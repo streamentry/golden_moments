@@ -53,13 +53,13 @@ class SettingModal extends StatelessWidget {
               const SizedBox(height: gmSpaceLg),
               OutlinedButton.icon(
                 onPressed: () {
-                  final navigator = Navigator.of(context);
-                  navigator.pop();
-                  navigator.push(
-                    MaterialPageRoute<void>(
-                      builder: (_) => const LegalInfoPage(),
-                    ),
-                  );
+                  Navigator.of(context)
+                    ..pop()
+                    ..push(
+                      MaterialPageRoute<void>(
+                        builder: (_) => const LegalInfoPage(),
+                      ),
+                    );
                 },
                 icon: const Icon(Icons.privacy_tip_outlined),
                 label: const Text('Privacy, terms and support'),
