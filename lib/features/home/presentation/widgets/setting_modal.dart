@@ -31,9 +31,10 @@ class SettingModal extends StatelessWidget {
               SwitchListTile(
                 contentPadding: EdgeInsets.zero,
                 secondary: Icon(
-                  settings.isMusicOn ? Icons.volume_up : Icons.volume_off,
+                  settings.isMusicOn ? Icons.music_note : Icons.music_off,
                 ),
                 title: const Text('Music'),
+                subtitle: const Text('Off unless you turn it on'),
                 value: settings.isMusicOn,
                 onChanged: (val) {
                   settings.toggleMusic();
@@ -42,9 +43,10 @@ class SettingModal extends StatelessWidget {
               SwitchListTile(
                 contentPadding: EdgeInsets.zero,
                 secondary: Icon(
-                  settings.isSoundOn ? Icons.music_note : Icons.music_off,
+                  settings.isSoundOn ? Icons.volume_up : Icons.volume_off,
                 ),
-                title: const Text('Sound'),
+                title: const Text('Sounds'),
+                subtitle: const Text('Soft taps and a chime at the end'),
                 value: settings.isSoundOn,
                 onChanged: (val) {
                   settings.toggleSound();

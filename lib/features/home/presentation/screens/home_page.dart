@@ -112,13 +112,14 @@ class _ErrorView extends StatelessWidget {
             ),
             const SizedBox(height: gmSpaceMd),
             Text(
-              'Oops! Something went wrong',
+              'The picture library could not open',
               style: Theme.of(parentContext).textTheme.headlineSmall,
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
-              message ?? 'Something went wrong. Please try again.',
+              message ??
+                  'Your gentle activities still work. You can try again now.',
               style: Theme.of(parentContext).textTheme.bodyLarge,
               textAlign: TextAlign.center,
             ),
@@ -144,51 +145,48 @@ class _LoadedView extends StatelessWidget {
 
   @override
   Widget build(BuildContext parentContext) {
-    return RefreshIndicator(
-      // onRefresh: () => context.read<HomeCubit>().refreshDailyPacks(),
-      onRefresh: () async {},
-      child: SingleChildScrollView(
-        physics: const AlwaysScrollableScrollPhysics(),
-        padding: const EdgeInsets.all(gmSpaceMd),
-        child: Center(
-          child: ConstrainedBox(
-            constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                // Welcome message
-                _WelcomeSection(),
-                const SizedBox(height: gmSpaceLg),
+    // Everything is bundled, so there is nothing to pull-to-refresh; a
+    // spinner that changes nothing would be motion without meaning.
+    return SingleChildScrollView(
+      padding: const EdgeInsets.all(gmSpaceMd),
+      child: Center(
+        child: ConstrainedBox(
+          constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              // Welcome message
+              _WelcomeSection(),
+              const SizedBox(height: gmSpaceLg),
 
-                // Daily packs section
-                DailyPacksSection(
-                  packs: state.dailyPacks,
-                  onPackTap: (pack) {
-                    Navigator.of(parentContext).push(
-                      MaterialPageRoute<void>(
-                        builder: (context) => GamePage(gamePack: pack),
-                      ),
-                    );
-                  },
-                ),
-                const SizedBox(height: gmSpaceLg),
+              // Daily packs section
+              DailyPacksSection(
+                packs: state.dailyPacks,
+                onPackTap: (pack) {
+                  Navigator.of(parentContext).push(
+                    MaterialPageRoute<void>(
+                      builder: (context) => GamePage(gamePack: pack),
+                    ),
+                  );
+                },
+              ),
+              const SizedBox(height: gmSpaceLg),
 
-                // Library section
-                LibrarySection(
-                  categories: state.libraryPacks,
-                  onCategoryTap: (category) {
-                    Navigator.of(parentContext).push(
-                      MaterialPageRoute<void>(
-                        builder: (context) => PackPage(
-                          categoryId: category.id,
-                          categoryName: category.name,
-                        ),
+              // Library section
+              LibrarySection(
+                categories: state.libraryPacks,
+                onCategoryTap: (category) {
+                  Navigator.of(parentContext).push(
+                    MaterialPageRoute<void>(
+                      builder: (context) => PackPage(
+                        categoryId: category.id,
+                        categoryName: category.name,
                       ),
-                    );
-                  },
-                ),
-              ],
-            ),
+                    ),
+                  );
+                },
+              ),
+            ],
           ),
         ),
       ),
