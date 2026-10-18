@@ -16,7 +16,7 @@ Read `README.md`, `WORKBOARD.md`, and `docs/specs/product.md` before changing sc
 
 `DESIGN.md` (open [DESIGN.md format](https://github.com/google-labs-code/design.md)) is the design contract; its YAML tokens are normative and `lib/design_system.dart` implements them through `gm…` constants and `gmBuildTheme`.
 
-- Use stock Material widgets with `Theme.of(context)` roles and `gm…` tokens. Do not hard-code `Color(0x…)`, `Colors.*`, `fontSize:` or radius literals in screens; add or change a token in `DESIGN.md` and `lib/design_system.dart` together.
+- Use stock Material widgets with `Theme.of(context)` roles and `gm…` tokens. Do not hardcode `Color(0x…)`, `Colors.*`, `fontSize:` or radius literals in screens; add or change a token in `DESIGN.md` and `lib/design_system.dart` together.
 - Text is never below 16 at 100% scale, never ALL CAPS and never clamped. Buttons are ≥56 high, every control ≥48×48 and picture tiles ≥96. Bright gold (`accent`/`gmGold600`) is never text or the only outline.
 - Color is never the only signal: pair it with a border, icon or word. Difficulty is never colored like a status.
 - One filled (primary) button per screen. Keep "Done for now" or Back visible.
