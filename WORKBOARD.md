@@ -44,7 +44,7 @@ Execution status remains here and in release evidence. The feature catalog is a 
 
 ### Senior-first execution tally
 
-All 40 catalog IDs have an entry in `release-status.json` › `senior_first_features` (enforced by `tests/test_senior_status.py`). Current tally (with PRs #61-#66 applied, as on `integration/senior-first-status`): 4 deferred, 13 implemented unverified, 6 not started, 17 partial. Nothing is `verified`: no native device, VoiceOver/TalkBack, upgrade, traffic-capture or human-pilot evidence exists, and every release gate in that file is still pending. R2 items wait on pilot evidence; R3 items are deferred and not authorized.
+All 40 catalog IDs have an entry in `release-status.json` › `senior_first_features` (enforced by `tests/test_senior_status.py`). Current tally (PRs #61-#66 merged to main on 2026-10-19): 4 deferred, 13 implemented unverified, 6 not started, 17 partial. Nothing is `verified`: no native device, VoiceOver/TalkBack, upgrade, traffic-capture or human-pilot evidence exists, and every release gate in that file is still pending. R2 items wait on pilot evidence; R3 items are deferred and not authorized.
 
 ## Maintainer decisions (2026-10-18)
 
@@ -66,7 +66,7 @@ Stop publication for destructive imports, offline-start failures, unexpected sen
 
 ## October 18 senior-first R0/R1 continuation
 
-Pinned Flutter 3.47.7 / Dart 3.13.5 installed locally; Xcode 27.1 with the iOS 26.5 simulator available; **no physical device and no Android SDK** (installing the Android SDK needs its license accepted by the maintainer). Work split into reviewable PRs, each with an independent review where it touched data or accessibility; nothing below is merged by the assistant, and nothing is device-verified.
+Pinned Flutter 3.47.7 / Dart 3.13.5 installed locally; Xcode 27.1 with the iOS 26.5 simulator available; **no physical device and no Android SDK** (installing the Android SDK needs its license accepted by the maintainer). Work split into reviewable PRs, each with an independent review where it touched data or accessibility; the maintainer approved merging them in order on 2026-10-19, and each was merged only after its branch was updated with main and all seven CI checks passed on that exact commit. Nothing is device-verified.
 
 | PR | Scope (feature IDs) | Evidence |
 | --- | --- | --- |
@@ -85,7 +85,7 @@ Findings for the maintainer, not decided here:
 - **Corrupt photo manifest:** it surfaces an error and is never overwritten, but there is no in-app recovery flow yet; a "keep what can be verified" recovery is a product decision.
 - **Content:** the *Classic Cars* pack cover shows a lightbulb; include it in the GM-025 rights and clarity review.
 
-Next executable actions, in order: merge #61, then #62/#63/#66 (independent) and #64 then #65 (stacked), re-running CI after each merge; then run `docs/release/device-acceptance.md` on a physical iPhone and iPad (VoiceOver walkthrough of start/play/stop/import/remove, rotation, Reduce Motion, airplane-mode fresh install, upgrade from the App Store build); install the Android SDK only with the maintainer's license acceptance and repeat; then the five-caregiver comprehension test and genuine screenshots (GM-033). R2 stays at the unshipped GM-009 prototype until the pilot (GM-039) chooses; R3 stays deferred.
+Next executable actions, in order: run `docs/release/device-acceptance.md` on a physical iPhone and iPad (VoiceOver walkthrough of start/play/stop/import/remove, rotation, Reduce Motion, airplane-mode fresh install, upgrade from the App Store build); install the Android SDK only with the maintainer's license acceptance and repeat; then the five-caregiver comprehension test and genuine screenshots (GM-033). R2 stays at the unshipped GM-009 prototype until the pilot (GM-039) chooses; R3 stays deferred.
 
 ## October 18 store publication continuation
 
