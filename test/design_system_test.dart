@@ -198,6 +198,8 @@ void main() {
   testWidgets('a matched tile shows a check badge, not color alone', (
     tester,
   ) async {
+    await tester.binding.setSurfaceSize(const Size(390, 1600));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
     await tester.pumpWidget(
       _app(const GentleGamePage(pictures: ActivityPicture.samples)),
     );
@@ -215,8 +217,11 @@ void main() {
           .first;
       final first = labels[label];
       if (first != null) {
-        await tester.tap(tiles.at(first));
-        await tester.tap(tiles.at(i));
+        for (final index in [first, i]) {
+          await tester.ensureVisible(tiles.at(index));
+          await tester.tap(tiles.at(index));
+          await tester.pump();
+        }
         break;
       }
       labels[label] = i;

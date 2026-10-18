@@ -28,6 +28,13 @@ class PackCard extends StatefulWidget {
   final bool showPremiumBadge;
   final double? downloadProgress;
 
+  /// Height of a [PackCard] in a grid whose columns are [cardWidth] wide.
+  ///
+  /// The text area grows with the system text size, so nothing clips at
+  /// 200% text.
+  static double gridExtent(BuildContext context, double cardWidth) =>
+      cardWidth * 2 / 3 + 176 * MediaQuery.textScalerOf(context).scale(1);
+
   @override
   State<PackCard> createState() => _PackCardState();
 }
@@ -98,7 +105,7 @@ class _PackCardState extends State<PackCard> {
     showDialog<void>(
       context: context,
       builder: (dialogContext) => AlertDialog(
-        title: const Text('Download Pack'),
+        title: const Text('Download pack'),
         content: Text(
           'Do you want to download the "${pack.title}" pack?'
           ' This may consume data.',
@@ -111,7 +118,7 @@ class _PackCardState extends State<PackCard> {
             },
             child: const Text('Cancel'),
           ),
-          TextButton(
+          FilledButton(
             onPressed: () async {
               unawaited(SoundService().playTap());
               Navigator.of(dialogContext).pop(); // Close dialog
@@ -174,28 +181,45 @@ class _PackCardState extends State<PackCard> {
   }
 
   Widget _buildLayout(ThemeData theme) {
-    Widget getIcon() {
+    // Status is an icon, a word and a color, never color alone.
+    Widget getStatus() {
+      final Widget indicator;
+      final String word;
+      final Color color;
       switch (_downloadStatus) {
         case PackStatus.completed:
-          return Icon(
-            Icons.download_done,
-            size: 24,
-            color: theme.colorScheme.primary,
-          );
+          color = gmGreen600;
+          word = 'Ready';
+          indicator = Icon(Icons.download_done, size: 24, color: color);
         case PackStatus.notStarted:
         case null:
-          return Icon(
-            Icons.download,
-            size: 24,
-            color: theme.colorScheme.primary,
-          );
+          color = theme.colorScheme.primary;
+          word = 'Download';
+          indicator = Icon(Icons.download, size: 24, color: color);
         case PackStatus.downloading:
-          return CircularPercentIndicator(
+          color = theme.colorScheme.primary;
+          word = 'Downloading';
+          indicator = CircularPercentIndicator(
             radius: 12,
-            percent: _downloadProgress,
-            progressColor: Colors.green,
+            lineWidth: 4,
+            percent: _downloadProgress.clamp(0, 1).toDouble(),
+            progressColor: color,
+            backgroundColor: gmSurf200,
           );
       }
+      return Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          indicator,
+          const SizedBox(width: gmSpaceXs),
+          Flexible(
+            child: Text(
+              word,
+              style: theme.textTheme.labelSmall?.copyWith(color: color),
+            ),
+          ),
+        ],
+      );
     }
 
     return Column(
@@ -208,18 +232,21 @@ class _PackCardState extends State<PackCard> {
             children: [
               Container(
                 width: double.infinity,
-                decoration: BoxDecoration(
-                  color: theme.colorScheme.primaryContainer,
-                  borderRadius: const BorderRadius.vertical(
-                    top: Radius.circular(gmRadiusMd),
+                decoration: const BoxDecoration(
+                  color: gmSurf200,
+                  borderRadius: BorderRadius.vertical(
+                    top: Radius.circular(gmRadiusLg),
                   ),
                 ),
                 child: AspectRatio(
                   aspectRatio: 3 / 2, // width / height
                   child: CachedNetworkImage(
                     imageUrl: widget.pack.thumbnailUrl,
-                    errorWidget: (context, url, error) =>
-                        const Icon(Icons.error),
+                    errorWidget: (context, url, error) => Icon(
+                      Icons.photo_outlined,
+                      size: 48,
+                      color: theme.colorScheme.onSurfaceVariant,
+                    ),
                     fit: BoxFit.cover,
                     width: double.infinity, // match parent
                   ),
@@ -254,29 +281,25 @@ class _PackCardState extends State<PackCard> {
                 Text(
                   widget.pack.theme,
                   style: theme.textTheme.bodySmall?.copyWith(
-                    color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
+                    color: theme.colorScheme.onSurfaceVariant,
                   ),
                   maxLines: 1,
                   overflow: TextOverflow.ellipsis,
                 ),
                 const SizedBox(height: gmSpaceSm),
-                Row(
+                Wrap(
+                  spacing: gmSpaceSm,
+                  runSpacing: gmSpaceXs,
+                  crossAxisAlignment: WrapCrossAlignment.center,
                   children: [
                     _buildDifficultyChip(theme),
-                    const Spacer(),
                     if (_isLoading)
-                      SizedBox(
-                        width: 24,
-                        height: 24,
-                        child: CircularProgressIndicator(
-                          strokeWidth: 2.5,
-                          valueColor: AlwaysStoppedAnimation<Color>(
-                            theme.colorScheme.primary,
-                          ),
-                        ),
+                      const SizedBox.square(
+                        dimension: 24,
+                        child: CircularProgressIndicator(strokeWidth: 2.5),
                       )
                     else
-                      getIcon(),
+                      getStatus(),
                   ],
                 ),
               ],
@@ -293,16 +316,18 @@ class _PackCardState extends State<PackCard> {
     if (widget.showDailyBadge) {
       badges.add(
         Container(
-          padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+          padding: const EdgeInsets.symmetric(
+            horizontal: gmSpaceSm,
+            vertical: 2,
+          ),
           decoration: BoxDecoration(
             color: theme.colorScheme.secondary,
-            borderRadius: BorderRadius.circular(8),
+            borderRadius: BorderRadius.circular(gmRadiusMd),
           ),
           child: Text(
-            'DAILY',
+            'Daily',
             style: theme.textTheme.labelSmall?.copyWith(
               color: theme.colorScheme.onSecondary,
-              fontWeight: FontWeight.bold,
             ),
           ),
         ),
@@ -312,16 +337,18 @@ class _PackCardState extends State<PackCard> {
     if (widget.showPremiumBadge) {
       badges.add(
         Container(
-          padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+          padding: const EdgeInsets.symmetric(
+            horizontal: gmSpaceSm,
+            vertical: 2,
+          ),
           decoration: BoxDecoration(
             color: theme.colorScheme.tertiary,
-            borderRadius: BorderRadius.circular(8),
+            borderRadius: BorderRadius.circular(gmRadiusMd),
           ),
           child: Text(
-            'PREMIUM',
+            'Premium',
             style: theme.textTheme.labelSmall?.copyWith(
               color: theme.colorScheme.onTertiary,
-              fontWeight: FontWeight.bold,
             ),
           ),
         ),
@@ -335,7 +362,7 @@ class _PackCardState extends State<PackCard> {
       children: badges
           .map(
             (badge) => Padding(
-              padding: const EdgeInsets.only(bottom: 4),
+              padding: const EdgeInsets.only(bottom: gmSpaceXs),
               child: badge,
             ),
           )
@@ -343,31 +370,22 @@ class _PackCardState extends State<PackCard> {
     );
   }
 
+  // Difficulty is not a status, so the chip stays neutral: "hard" is not
+  // "danger" (DESIGN.md › Colors).
   Widget _buildDifficultyChip(ThemeData theme) {
-    final Color chipColor;
-    switch (widget.pack.difficulty) {
-      case GameDifficulty.easy:
-        chipColor = Colors.green;
-      case GameDifficulty.medium:
-        chipColor = Colors.orange;
-      case GameDifficulty.hard:
-        chipColor = Colors.red;
-      case GameDifficulty.brainy:
-        chipColor = Colors.red;
-    }
-
     return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+      padding: const EdgeInsets.symmetric(
+        horizontal: gmSpaceSm,
+        vertical: gmSpaceXs,
+      ),
       decoration: BoxDecoration(
-        color: chipColor.withValues(alpha: 0.1),
-        borderRadius: BorderRadius.circular(12),
-        border: Border.all(color: chipColor.withValues(alpha: 0.3)),
+        borderRadius: BorderRadius.circular(gmRadiusMd),
+        border: Border.all(color: theme.colorScheme.outline),
       ),
       child: Text(
         widget.pack.difficulty.displayName,
         style: theme.textTheme.labelSmall?.copyWith(
-          color: chipColor,
-          fontWeight: FontWeight.w500,
+          color: theme.colorScheme.onSurfaceVariant,
         ),
       ),
     );

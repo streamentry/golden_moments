@@ -26,11 +26,12 @@ class DailyPacksSection extends StatelessWidget {
           children: [
             Icon(Icons.today, size: 32, color: theme.colorScheme.primary),
             const SizedBox(width: gmSpaceSm),
-            Text(
-              'Daily Packs',
-              style: theme.textTheme.headlineMedium?.copyWith(
-                color: theme.colorScheme.primary,
-                fontWeight: FontWeight.bold,
+            Flexible(
+              child: Text(
+                'Daily Packs',
+                style: theme.textTheme.headlineSmall?.copyWith(
+                  color: theme.colorScheme.primary,
+                ),
               ),
             ),
           ],
@@ -39,7 +40,7 @@ class DailyPacksSection extends StatelessWidget {
         Text(
           'Fresh memory challenges updated daily',
           style: theme.textTheme.bodyLarge?.copyWith(
-            color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
+            color: theme.colorScheme.onSurfaceVariant,
           ),
         ),
         const SizedBox(height: gmSpaceMd),
@@ -73,9 +74,7 @@ class _PacksGrid extends StatelessWidget {
           physics: const NeverScrollableScrollPhysics(),
           gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
             crossAxisCount: columns,
-            mainAxisExtent:
-                cardWidth * 2 / 3 +
-                140 * MediaQuery.textScalerOf(context).scale(1),
+            mainAxisExtent: PackCard.gridExtent(context, cardWidth),
             crossAxisSpacing: gmSpaceSm,
             mainAxisSpacing: gmSpaceSm,
           ),
@@ -101,40 +100,35 @@ class _EmptyState extends StatelessWidget {
     final theme = Theme.of(parentContext);
 
     return Container(
-      height: 200,
+      width: double.infinity,
+      padding: const EdgeInsets.all(gmSpaceLg),
       decoration: BoxDecoration(
         color: theme.colorScheme.surface,
-        borderRadius: BorderRadius.circular(gmRadiusMd),
-        border: Border.all(
-          color: theme.colorScheme.outline.withValues(alpha: 0.3),
-        ),
+        borderRadius: BorderRadius.circular(gmRadiusLg),
+        border: Border.all(color: theme.colorScheme.outline),
       ),
-      child: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Icon(
-              Icons.calendar_today_outlined,
-              size: 48,
-              color: theme.colorScheme.onSurface.withValues(alpha: 0.5),
+      child: Column(
+        children: [
+          Icon(
+            Icons.calendar_today_outlined,
+            size: 48,
+            color: theme.colorScheme.onSurfaceVariant,
+          ),
+          const SizedBox(height: gmSpaceSm),
+          Text(
+            'No daily packs available',
+            style: theme.textTheme.titleMedium,
+            textAlign: TextAlign.center,
+          ),
+          const SizedBox(height: gmSpaceSm),
+          Text(
+            'Check back tomorrow for new content!',
+            style: theme.textTheme.bodyMedium?.copyWith(
+              color: theme.colorScheme.onSurfaceVariant,
             ),
-            const SizedBox(height: gmSpaceSm),
-            Text(
-              'No daily packs available',
-              style: theme.textTheme.titleMedium?.copyWith(
-                color: theme.colorScheme.onSurface.withValues(alpha: 0.7),
-              ),
-            ),
-            const SizedBox(height: gmSpaceSm),
-            Text(
-              'Check back tomorrow for new content!',
-              style: theme.textTheme.bodyMedium?.copyWith(
-                color: theme.colorScheme.onSurface.withValues(alpha: 0.5),
-              ),
-              textAlign: TextAlign.center,
-            ),
-          ],
-        ),
+            textAlign: TextAlign.center,
+          ),
+        ],
       ),
     );
   }

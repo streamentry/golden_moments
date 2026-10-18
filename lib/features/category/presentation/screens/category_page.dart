@@ -18,11 +18,11 @@ class CategoryPage extends StatelessWidget {
         SoundService().playTap();
       },
       child: Scaffold(
-        appBar: AppBar(title: const Text('All Categories')),
+        appBar: AppBar(title: const Text('All categories')),
         body: categories.isEmpty
             ? _EmptyState()
             : ListView.separated(
-                padding: const EdgeInsets.all(gmSpaceMd),
+                padding: _centeredPadding(parentContext),
                 itemCount: categories.length,
                 separatorBuilder: (context, index) =>
                     const SizedBox(height: gmSpaceSm),
@@ -43,12 +43,22 @@ class CategoryPage extends StatelessWidget {
   }
 }
 
+/// Keeps the list in one centered column no wider than
+/// [gmContentMaxWidth]; extra width becomes margin.
+EdgeInsets _centeredPadding(BuildContext context) {
+  final width = MediaQuery.sizeOf(context).width;
+  final side = width > gmContentMaxWidth + gmSpaceMd * 2
+      ? (width - gmContentMaxWidth) / 2
+      : gmSpaceMd;
+  return EdgeInsets.symmetric(horizontal: side, vertical: gmSpaceMd);
+}
+
 class _EmptyState extends StatelessWidget {
   @override
   Widget build(BuildContext parentContext) {
     final theme = Theme.of(parentContext);
     return Center(
-      child: Padding(
+      child: SingleChildScrollView(
         padding: const EdgeInsets.all(gmSpaceMd),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -56,20 +66,19 @@ class _EmptyState extends StatelessWidget {
             Icon(
               Icons.category_outlined,
               size: 48,
-              color: theme.colorScheme.onSurface.withAlpha(128),
+              color: theme.colorScheme.onSurfaceVariant,
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
               'No categories found',
-              style: theme.textTheme.titleMedium?.copyWith(
-                color: theme.colorScheme.onSurface.withAlpha(180),
-              ),
+              style: theme.textTheme.titleMedium,
+              textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
               'Please check back later for more categories!',
               style: theme.textTheme.bodyMedium?.copyWith(
-                color: theme.colorScheme.onSurface.withAlpha(128),
+                color: theme.colorScheme.onSurfaceVariant,
               ),
               textAlign: TextAlign.center,
             ),

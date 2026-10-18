@@ -30,6 +30,7 @@ class _OfflineIndicatorState extends State<OfflineIndicator> {
 
   Future<void> _initializeConnectivity() async {
     await _connectivityService.initialize();
+    if (!mounted) return;
     setState(() {
       _status = _connectivityService.currentStatus;
     });
@@ -57,7 +58,10 @@ class _OfflineIndicatorState extends State<OfflineIndicator> {
     final theme = Theme.of(context);
 
     return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+      padding: const EdgeInsets.symmetric(
+        horizontal: gmSpaceSm,
+        vertical: gmSpaceXs,
+      ),
       decoration: BoxDecoration(
         color: _getStatusColor(theme),
         borderRadius: BorderRadius.circular(gmRadiusMd),
@@ -65,13 +69,14 @@ class _OfflineIndicatorState extends State<OfflineIndicator> {
       child: Row(
         mainAxisSize: MainAxisSize.min,
         children: [
-          Icon(_getStatusIcon(), size: 16, color: _getIconColor(theme)),
-          const SizedBox(width: 4),
-          Text(
-            _getStatusText(),
-            style: theme.textTheme.bodySmall?.copyWith(
-              color: _getIconColor(theme),
-              fontWeight: FontWeight.w600,
+          Icon(_getStatusIcon(), size: 20, color: _getIconColor(theme)),
+          const SizedBox(width: gmSpaceXs),
+          Flexible(
+            child: Text(
+              _getStatusText(),
+              style: theme.textTheme.labelSmall?.copyWith(
+                color: _getIconColor(theme),
+              ),
             ),
           ),
         ],
@@ -101,16 +106,13 @@ class _OfflineIndicatorState extends State<OfflineIndicator> {
                   _getStatusTitle(),
                   style: theme.textTheme.titleMedium?.copyWith(
                     color: _getIconColor(theme),
-                    fontWeight: FontWeight.w600,
                   ),
                 ),
                 if (_getStatusDescription().isNotEmpty) ...[
                   const SizedBox(height: 2),
                   Text(
                     _getStatusDescription(),
-                    style: theme.textTheme.bodySmall?.copyWith(
-                      color: _getIconColor(theme).withValues(alpha: 0.8),
-                    ),
+                    style: theme.textTheme.bodyMedium,
                   ),
                 ],
               ],
@@ -118,16 +120,13 @@ class _OfflineIndicatorState extends State<OfflineIndicator> {
           ),
           if (_status == ConnectivityStatus.disconnected)
             TextButton(
+              style: TextButton.styleFrom(
+                foregroundColor: _getIconColor(theme),
+              ),
               onPressed: () async {
                 await _connectivityService.checkConnectivity();
               },
-              child: Text(
-                'Retry',
-                style: TextStyle(
-                  color: _getIconColor(theme),
-                  fontWeight: FontWeight.w600,
-                ),
-              ),
+              child: const Text('Try again'),
             ),
         ],
       ),
@@ -159,11 +158,11 @@ class _OfflineIndicatorState extends State<OfflineIndicator> {
   String _getStatusTitle() {
     switch (_status) {
       case ConnectivityStatus.unknown:
-        return 'Connection Status Unknown';
+        return 'Connection status unknown';
       case ConnectivityStatus.connected:
-        return 'Connected to Internet';
+        return 'Connected to the internet';
       case ConnectivityStatus.disconnected:
-        return 'No Internet Connection';
+        return 'No internet connection';
     }
   }
 
@@ -172,31 +171,34 @@ class _OfflineIndicatorState extends State<OfflineIndicator> {
       case ConnectivityStatus.unknown:
         return 'Checking connection status...';
       case ConnectivityStatus.connected:
-        return 'You can download new packs and sync your progress';
+        // There is no account or sync in this release, so do not promise it.
+        return 'You can download new packs.';
       case ConnectivityStatus.disconnected:
-        return 'You can still play with cached packs';
+        return 'Downloaded packs still work.';
     }
   }
 
   Color _getStatusColor(ThemeData theme) {
     switch (_status) {
       case ConnectivityStatus.unknown:
-        return theme.colorScheme.outline.withValues(alpha: 0.1);
+        return gmSurf200;
       case ConnectivityStatus.connected:
         return gmGreen600.withValues(alpha: 0.1);
       case ConnectivityStatus.disconnected:
-        return theme.colorScheme.error.withValues(alpha: 0.1);
+        return gmOrange600.withValues(alpha: 0.1);
     }
   }
 
   Color _getIconColor(ThemeData theme) {
     switch (_status) {
+      // Offline is "needs attention" (warning), not a failure: downloaded
+      // packs keep working. Driftwood is below 4.5:1 for text; use Walnut.
       case ConnectivityStatus.unknown:
-        return theme.colorScheme.outline;
+        return theme.colorScheme.onSurfaceVariant;
       case ConnectivityStatus.connected:
         return gmGreen600;
       case ConnectivityStatus.disconnected:
-        return theme.colorScheme.error;
+        return gmOrange600;
     }
   }
 }
@@ -238,6 +240,7 @@ class _ConnectivityBannerState extends State<ConnectivityBanner>
 
   Future<void> _initializeConnectivity() async {
     await _connectivityService.initialize();
+    if (!mounted) return;
     _updateStatus(_connectivityService.currentStatus);
 
     _connectivityService.statusStream.listen((status) {
@@ -281,42 +284,29 @@ class _ConnectivityBannerState extends State<ConnectivityBanner>
           horizontal: gmSpaceMd,
           vertical: gmSpaceSm,
         ),
-        decoration: BoxDecoration(
-          color: theme.colorScheme.error,
-          boxShadow: [
-            BoxShadow(
-              color: theme.shadowColor.withValues(alpha: 0.1),
-              blurRadius: 4,
-              offset: const Offset(0, 2),
-            ),
-          ],
-        ),
+        // Warning, not error: being offline is not a failure because
+        // downloaded packs keep working. White on Amber Clay is 6.8:1.
+        color: gmOrange600,
         child: SafeArea(
           bottom: false,
           child: Row(
             children: [
-              Icon(Icons.wifi_off, size: 20, color: theme.colorScheme.onError),
+              const Icon(Icons.wifi_off, size: 24, color: Colors.white),
               const SizedBox(width: gmSpaceSm),
               Expanded(
                 child: Text(
-                  "You're offline. Playing with cached packs only.",
+                  "You're offline. Downloaded packs still work.",
                   style: theme.textTheme.bodyMedium?.copyWith(
-                    color: theme.colorScheme.onError,
-                    fontWeight: FontWeight.w500,
+                    color: Colors.white,
                   ),
                 ),
               ),
               TextButton(
+                style: TextButton.styleFrom(foregroundColor: Colors.white),
                 onPressed: () async {
                   await _connectivityService.checkConnectivity();
                 },
-                child: Text(
-                  'Retry',
-                  style: TextStyle(
-                    color: theme.colorScheme.onError,
-                    fontWeight: FontWeight.w600,
-                  ),
-                ),
+                child: const Text('Try again'),
               ),
             ],
           ),

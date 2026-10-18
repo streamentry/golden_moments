@@ -55,52 +55,51 @@ class MainNavigationView extends StatelessWidget {
   ) {
     final theme = Theme.of(context);
 
-    return Container(
+    return DecoratedBox(
       decoration: BoxDecoration(
         color: theme.colorScheme.surface,
-        boxShadow: [
-          BoxShadow(
-            color: theme.shadowColor.withValues(
-              alpha: 0.1,
-            ), // Fixed method call
-            blurRadius: 8,
-            offset: const Offset(0, -2),
-          ),
-        ],
+        border: Border(
+          top: BorderSide(color: theme.colorScheme.outlineVariant),
+        ),
       ),
       child: SafeArea(
-        child: Container(
-          height: 80, // Larger height for senior-friendly design
-          padding: const EdgeInsets.symmetric(horizontal: gmSpaceMd),
-          child: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceAround,
-            children: [
-              _buildNavItem(
-                context: context,
-                index: 0,
-                icon: Icons.home,
-                label: 'Home',
-                isSelected: state.currentIndex == 0,
-                onTap: () {
-                  SoundService().playTap();
-                  context.read<NavigationCubit>().setIndex(0);
-                },
-              ),
-              _buildNavItem(
-                context: context,
-                index: 1,
-                icon: Icons.download,
-                label: 'Download',
-                isSelected: state.currentIndex == 1,
-                onTap: () {
-                  SoundService().playTap();
-                  context.read<NavigationCubit>().setIndex(1);
-                },
-                badge: state.activeDownloadsCount > 0
-                    ? state.activeDownloadsCount.toString()
-                    : null,
-              ),
-            ],
+        child: ConstrainedBox(
+          // A minimum, not a fixed height, so 200% text never overflows.
+          constraints: const BoxConstraints(
+            minHeight: gmTargetHero + gmSpaceMd,
+          ),
+          child: Padding(
+            padding: const EdgeInsets.symmetric(horizontal: gmSpaceMd),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              children: [
+                _buildNavItem(
+                  context: context,
+                  index: 0,
+                  icon: Icons.home,
+                  label: 'Home',
+                  isSelected: state.currentIndex == 0,
+                  onTap: () {
+                    SoundService().playTap();
+                    context.read<NavigationCubit>().setIndex(0);
+                  },
+                ),
+                _buildNavItem(
+                  context: context,
+                  index: 1,
+                  icon: Icons.download,
+                  label: 'Download',
+                  isSelected: state.currentIndex == 1,
+                  onTap: () {
+                    SoundService().playTap();
+                    context.read<NavigationCubit>().setIndex(1);
+                  },
+                  badge: state.activeDownloadsCount > 0
+                      ? state.activeDownloadsCount.toString()
+                      : null,
+                ),
+              ],
+            ),
           ),
         ),
       ),
@@ -117,74 +116,104 @@ class MainNavigationView extends StatelessWidget {
     String? badge,
   }) {
     final theme = Theme.of(context);
+    final scheme = theme.colorScheme;
+    final foreground = isSelected ? scheme.onSurface : scheme.onSurfaceVariant;
 
     return Expanded(
-      child: InkWell(
-        onTap: onTap,
-        borderRadius: BorderRadius.circular(gmRadiusMd),
-        child: Container(
-          padding: const EdgeInsets.symmetric(vertical: gmSpaceSm),
-          child: Column(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              // Icon with badge
-              Stack(
-                clipBehavior: Clip.none,
-                children: [
-                  Icon(
-                    icon,
-                    size: 28, // Larger icons for seniors
-                    color: isSelected
-                        ? theme.colorScheme.primary
-                        : theme.colorScheme.onSurface.withValues(alpha: 0.6),
-                  ),
-                  if (badge != null)
-                    Positioned(
-                      right: -8,
-                      top: -8,
-                      child: Container(
-                        padding: const EdgeInsets.all(4),
-                        decoration: BoxDecoration(
-                          color: theme.colorScheme.error,
-                          shape: BoxShape.circle,
-                          border: Border.all(
-                            color: theme.colorScheme.surface,
-                            width: 2,
+      child: MergeSemantics(
+        child: Semantics(
+          button: true,
+          selected: isSelected,
+          child: InkWell(
+            onTap: onTap,
+            borderRadius: BorderRadius.circular(gmRadiusMd),
+            child: ConstrainedBox(
+              constraints: const BoxConstraints(minHeight: gmTargetMin),
+              child: Padding(
+                padding: const EdgeInsets.symmetric(vertical: gmSpaceSm),
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    // Icon with badge. The selected tab also gets an
+                    // indicator pill, so selection is not shown by color
+                    // alone.
+                    Stack(
+                      clipBehavior: Clip.none,
+                      children: [
+                        DecoratedBox(
+                          decoration: ShapeDecoration(
+                            color: isSelected
+                                ? scheme.primaryContainer
+                                : Colors.transparent,
+                            shape: const StadiumBorder(),
+                          ),
+                          child: Padding(
+                            padding: const EdgeInsets.symmetric(
+                              horizontal: gmSpaceMd,
+                              vertical: gmSpaceXs,
+                            ),
+                            child: Icon(
+                              icon,
+                              size: 28,
+                              color: isSelected
+                                  ? scheme.onPrimaryContainer
+                                  : scheme.onSurfaceVariant,
+                            ),
                           ),
                         ),
-                        constraints: const BoxConstraints(
-                          minWidth: 20,
-                          minHeight: 20,
-                        ),
-                        child: Text(
-                          badge,
-                          style: theme.textTheme.bodySmall?.copyWith(
-                            color: theme.colorScheme.onError,
-                            fontWeight: FontWeight.bold,
-                            fontSize: 10,
+                        if (badge != null)
+                          Positioned(
+                            right: -gmSpaceXs,
+                            top: -gmSpaceSm,
+                            child: Container(
+                              alignment: Alignment.center,
+                              padding: const EdgeInsets.symmetric(
+                                horizontal: gmSpaceXs,
+                                vertical: 2,
+                              ),
+                              decoration: BoxDecoration(
+                                color: scheme.error,
+                                borderRadius: BorderRadius.circular(
+                                  gmTargetMin,
+                                ),
+                                border: Border.all(
+                                  color: scheme.surface,
+                                  width: 2,
+                                ),
+                              ),
+                              constraints: const BoxConstraints(
+                                minWidth: 28,
+                                minHeight: 28,
+                              ),
+                              child: Text(
+                                badge,
+                                style: theme.textTheme.labelSmall?.copyWith(
+                                  color: scheme.onError,
+                                ),
+                                textAlign: TextAlign.center,
+                              ),
+                            ),
                           ),
-                          textAlign: TextAlign.center,
-                        ),
-                      ),
+                      ],
                     ),
-                ],
-              ),
 
-              const SizedBox(height: 4),
+                    const SizedBox(height: gmSpaceXs),
 
-              // Label
-              Text(
-                label,
-                style: theme.textTheme.bodySmall?.copyWith(
-                  color: isSelected
-                      ? theme.colorScheme.primary
-                      : theme.colorScheme.onSurface.withValues(alpha: 0.6),
-                  fontWeight: isSelected ? FontWeight.w600 : FontWeight.normal,
-                  fontSize: 12, // Larger text for seniors
+                    // Label, always visible
+                    Text(
+                      label,
+                      style: theme.textTheme.labelMedium?.copyWith(
+                        color: foreground,
+                        fontWeight: isSelected
+                            ? FontWeight.w700
+                            : FontWeight.w600,
+                      ),
+                      textAlign: TextAlign.center,
+                    ),
+                  ],
                 ),
-                textAlign: TextAlign.center,
               ),
-            ],
+            ),
           ),
         ),
       ),

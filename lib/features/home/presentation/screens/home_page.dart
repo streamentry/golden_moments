@@ -68,13 +68,17 @@ class _LoadingView extends StatelessWidget {
 
   @override
   Widget build(BuildContext parentContext) {
-    return const Center(
+    return Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          CircularProgressIndicator(),
-          SizedBox(height: gmSpaceMd),
-          Text('Loading your memory games...', style: TextStyle(fontSize: 18)),
+          const CircularProgressIndicator(),
+          const SizedBox(height: gmSpaceMd),
+          Text(
+            'Loading your memory games...',
+            style: Theme.of(parentContext).textTheme.bodyLarge,
+            textAlign: TextAlign.center,
+          ),
         ],
       ),
     );
@@ -90,12 +94,16 @@ class _ErrorView extends StatelessWidget {
   @override
   Widget build(BuildContext parentContext) {
     return Center(
-      child: Padding(
+      child: SingleChildScrollView(
         padding: const EdgeInsets.all(gmSpaceMd),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Icon(Icons.error_outline, size: 64, color: Colors.red),
+            Icon(
+              Icons.error_outline,
+              size: 64,
+              color: Theme.of(parentContext).colorScheme.error,
+            ),
             const SizedBox(height: gmSpaceMd),
             Text(
               'Oops! Something went wrong',
@@ -110,7 +118,7 @@ class _ErrorView extends StatelessWidget {
             ),
             const SizedBox(height: gmSpaceLg),
             GmPrimaryButton(
-              label: 'Try Again',
+              label: 'Try again',
               onTap: () {
                 parentContext.read<HomeCubit>().initialize();
               },
@@ -136,41 +144,46 @@ class _LoadedView extends StatelessWidget {
       child: SingleChildScrollView(
         physics: const AlwaysScrollableScrollPhysics(),
         padding: const EdgeInsets.all(gmSpaceMd),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            // Welcome message
-            _WelcomeSection(),
-            const SizedBox(height: gmSpaceLg),
+        child: Center(
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                // Welcome message
+                _WelcomeSection(),
+                const SizedBox(height: gmSpaceLg),
 
-            // Daily packs section
-            DailyPacksSection(
-              packs: state.dailyPacks,
-              onPackTap: (pack) {
-                Navigator.of(parentContext).push(
-                  MaterialPageRoute<void>(
-                    builder: (context) => GamePage(gamePack: pack),
-                  ),
-                );
-              },
-            ),
-            const SizedBox(height: gmSpaceLg),
+                // Daily packs section
+                DailyPacksSection(
+                  packs: state.dailyPacks,
+                  onPackTap: (pack) {
+                    Navigator.of(parentContext).push(
+                      MaterialPageRoute<void>(
+                        builder: (context) => GamePage(gamePack: pack),
+                      ),
+                    );
+                  },
+                ),
+                const SizedBox(height: gmSpaceLg),
 
-            // Library section
-            LibrarySection(
-              categories: state.libraryPacks,
-              onCategoryTap: (category) {
-                Navigator.of(parentContext).push(
-                  MaterialPageRoute<void>(
-                    builder: (context) => PackPage(
-                      categoryId: category.id,
-                      categoryName: category.name,
-                    ),
-                  ),
-                );
-              },
+                // Library section
+                LibrarySection(
+                  categories: state.libraryPacks,
+                  onCategoryTap: (category) {
+                    Navigator.of(parentContext).push(
+                      MaterialPageRoute<void>(
+                        builder: (context) => PackPage(
+                          categoryId: category.id,
+                          categoryName: category.name,
+                        ),
+                      ),
+                    );
+                  },
+                ),
+              ],
             ),
-          ],
+          ),
         ),
       ),
     );
@@ -193,7 +206,6 @@ class _WelcomeSection extends StatelessWidget {
               'Welcome to Golden Moments!',
               style: theme.textTheme.headlineMedium?.copyWith(
                 color: theme.colorScheme.primary,
-                fontWeight: FontWeight.bold,
               ),
             ),
             const SizedBox(height: gmSpaceSm),
