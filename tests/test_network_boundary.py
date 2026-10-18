@@ -83,6 +83,18 @@ class NetworkBoundaryTests(unittest.TestCase):
         for rel in ('android/app/google-services.json',
                     'ios/Runner/GoogleService-Info.plist'):
             self.assertFalse((ROOT / rel).exists(), rel)
+        # Native lock files decide what an iOS build links. Regenerated on a
+        # Mac after the removal; any SwiftPM pin that returns must not be an
+        # analytics or crash SDK.
+        locks = [ROOT / 'ios/Podfile.lock',
+                 *ROOT.glob('ios/**/swiftpm/Package.resolved')]
+        for path in locks:
+            with self.subTest(file=path.relative_to(ROOT).as_posix()):
+                text = path.read_text().lower()
+                for needle in ('firebase', 'crashlytics', 'googleappmeasurement',
+                               'google-app-measurement', 'nanopb',
+                               'googleutilities', 'googledatatransport'):
+                    self.assertNotIn(needle, text)
         for rel, text in dart_files():
             with self.subTest(file=rel):
                 body = '\n'.join(code_lines(text)).lower()
