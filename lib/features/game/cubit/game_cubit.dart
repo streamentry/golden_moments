@@ -106,6 +106,7 @@ class GameCubit extends Cubit<GameState> {
         tiles: updatedTiles,
         selectedTiles: updatedSelectedTiles,
         moves: state.moves + 1,
+        lastTurnMatched: false,
       ),
     );
 
@@ -149,6 +150,7 @@ class GameCubit extends Cubit<GameState> {
         tiles: updatedTiles,
         selectedTiles: [],
         matchedPairs: newMatchedPairs,
+        lastTurnMatched: true,
         status: isGameCompleted ? GameStatus.completed : GameStatus.playing,
         endTime: isGameCompleted ? DateTime.now() : null,
       ),
@@ -285,6 +287,7 @@ class GameCubit extends Cubit<GameState> {
             )
             .toList(),
         hintTileIds: hintIds,
+        lastTurnMatched: false,
       ),
     );
   }

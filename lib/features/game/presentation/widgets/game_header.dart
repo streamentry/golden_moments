@@ -10,24 +10,42 @@ class GameHeader extends StatelessWidget {
 
   final GameState state;
 
+  /// Shown whenever nothing has just happened.
+  static const instruction =
+      'Find the matching pictures. There is no time limit.';
+
+  /// What just happened on the board, or null when nothing did.
+  static String? statusFor(GameState state) {
+    if (state.showingMismatch) {
+      return 'Take your time. Tap a picture to continue.';
+    }
+    if (state.hintTileIds.isNotEmpty) {
+      return 'Here is a pair that matches. Tap a picture to continue.';
+    }
+    if (state.lastTurnMatched) return 'These two match.';
+    return null;
+  }
+
   @override
   Widget build(BuildContext parentContext) {
     final theme = Theme.of(parentContext);
     final scheme = theme.colorScheme;
-    final message = state.showingMismatch
-        ? 'Take your time. Tap a picture to continue.'
-        : state.hintTileIds.isNotEmpty
-        ? 'These two match. Tap a picture to continue.'
-        : 'Find the matching pictures. There is no time limit.';
+    final status = statusFor(state);
 
     return Wrap(
       spacing: gmSpaceMd,
       runSpacing: gmSpaceSm,
       crossAxisAlignment: WrapCrossAlignment.center,
       children: [
+        // A polite live region only while it carries news (a match, a
+        // mismatch or a hint), so screen readers hear each event once and
+        // the return to the plain instruction is not announced again.
         Semantics(
-          liveRegion: true,
-          child: Text(message, style: theme.textTheme.bodyLarge),
+          container: true,
+          liveRegion: status != null,
+          label: status ?? instruction,
+          excludeSemantics: true,
+          child: Text(status ?? instruction, style: theme.textTheme.bodyLarge),
         ),
         DecoratedBox(
           decoration: ShapeDecoration(

@@ -7,6 +7,7 @@ import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/category/presentation/screens/category_page.dart';
 import 'package:golden_moments/features/game/cubit/game_state.dart';
 import 'package:golden_moments/features/game/presentation/screens/game_page.dart';
+import 'package:golden_moments/features/game/presentation/widgets/game_header.dart';
 import 'package:golden_moments/features/pack/presentation/screens/pack_page.dart';
 import 'package:golden_moments/shared/widgets/category_card.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
@@ -269,6 +270,23 @@ void main() {
       handle.dispose();
     });
 
+    testWidgets('one turned-over picture is not progress: Start again needs '
+        'no question', (tester) async {
+      final pack = await bundledPack(tester, 'nature_mountains');
+      final handle = tester.ensureSemantics();
+      await openPage(tester, GamePage(gamePack: pack));
+      final cubit = gameCubit(tester);
+      await tapTile(tester, 0);
+      expect(cubit.state.selectedTiles, hasLength(1));
+
+      await tester.tap(find.widgetWithText(OutlinedButton, 'Start again'));
+      await tester.pumpAndSettle();
+      expect(find.byType(AlertDialog), findsNothing);
+      expect(cubit.state.selectedTiles, isEmpty);
+      expect(cubit.state.tiles.where((tile) => tile.isRevealed), isEmpty);
+      handle.dispose();
+    });
+
     testWidgets('closing Options with system Back returns to a live board', (
       tester,
     ) async {
@@ -331,6 +349,69 @@ void main() {
       await tester.tap(find.byTooltip('Back'));
       await tester.pumpAndSettle();
       expect(find.text('Open'), findsOneWidget);
+    });
+  });
+
+  group('a match is announced once, in the header (GM-014)', () {
+    Finder status(String text) => find.bySemanticsLabel(text);
+
+    testWidgets('a match is a polite live status; hidden tiles stay hidden', (
+      tester,
+    ) async {
+      final pack = await bundledPack(tester, 'nature_mountains');
+      final handle = tester.ensureSemantics();
+      await openPage(tester, GamePage(gamePack: pack));
+      final cubit = gameCubit(tester);
+
+      // Nothing has happened yet: the instruction is not a live region.
+      expect(
+        tester.getSemantics(status(GameHeader.instruction)),
+        isSemantics(isLiveRegion: false),
+      );
+
+      final partner = partnerOf(cubit, 0);
+      await tapTile(tester, 0);
+      await tapTile(tester, partner);
+      expect(
+        tester.getSemantics(status('These two match.')),
+        isSemantics(label: 'These two match.', isLiveRegion: true),
+      );
+      // No per-tile announcement, and no praise anywhere.
+      expect(status('These two match.'), findsOneWidget);
+      expect(
+        find.textContaining(
+          RegExp('great|well done|congrat|amazing|!', caseSensitive: false),
+        ),
+        findsNothing,
+      );
+      // The other ten tiles still expose only their position, and no other
+      // picture's name is in the tree.
+      expect(
+        find.bySemanticsLabel(RegExp(r'^Hidden picture, tile \d+$')),
+        findsNWidgets(10),
+      );
+      final matchedCaption = cubit.state.tiles[0].image.caption;
+      final others = [
+        for (final image in pack.images)
+          if (image.caption != matchedCaption) RegExp.escape(image.caption),
+      ];
+      expect(
+        find.bySemanticsLabel(RegExp('(${others.join('|')})')),
+        findsNothing,
+      );
+
+      // The next tap ends the news; the instruction returns quietly.
+      final next = List.generate(
+        12,
+        (i) => i,
+      ).firstWhere((i) => i != 0 && i != partner);
+      await tapTile(tester, next);
+      expect(status('These two match.'), findsNothing);
+      expect(
+        tester.getSemantics(status(GameHeader.instruction)),
+        isSemantics(isLiveRegion: false),
+      );
+      handle.dispose();
     });
   });
 

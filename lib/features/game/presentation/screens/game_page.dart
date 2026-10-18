@@ -8,8 +8,8 @@ import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/cubit/game_cubit.dart';
 import 'package:golden_moments/features/game/cubit/game_state.dart';
-import 'package:golden_moments/features/game/presentation/widgets/game_board.dart';
-import 'package:golden_moments/features/game/presentation/widgets/game_header.dart';
+import 'package:golden_moments/features/game/presentation/widgets/game_exit_bar.dart';
+import 'package:golden_moments/features/game/presentation/widgets/game_play_view.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
 import 'package:provider/provider.dart';
 
@@ -100,12 +100,12 @@ class _GamePageState extends State<GamePage> {
                 GameStatus.loading => const _LoadingView(),
                 GameStatus.playing ||
                 GameStatus.paused ||
-                GameStatus.completed => _GamePlayView(state: state),
+                GameStatus.completed => GamePlayView(state: state),
                 GameStatus.failed ||
                 GameStatus.requiresDownload => const _ErrorView(),
               },
               bottomNavigationBar: playing
-                  ? _ExitBar(
+                  ? GameExitBar(
                       onDone: () => Navigator.of(context).pop(),
                       onStartAgain: () => unawaited(_startAgain(context)),
                     )
@@ -122,9 +122,9 @@ class _GamePageState extends State<GamePage> {
   Future<void> _startAgain(BuildContext context) async {
     final cubit = context.read<GameCubit>();
     final state = cubit.state;
+    // One turned-over picture is not progress; found pairs are.
     final hasProgress =
-        state.status != GameStatus.completed &&
-        (state.matchedPairs > 0 || state.selectedTiles.isNotEmpty);
+        state.status != GameStatus.completed && state.matchedPairs > 0;
     if (hasProgress) {
       final ok = await showDialog<bool>(
         context: context,
@@ -132,7 +132,7 @@ class _GamePageState extends State<GamePage> {
           scrollable: true,
           title: const Text('Start again?'),
           content: const Text(
-            'The pictures you have found on this board will be cleared.',
+            'The pairs you have found on this board will be cleared.',
           ),
           actions: [
             TextButton(
@@ -285,61 +285,6 @@ class _GamePageState extends State<GamePage> {
   }
 }
 
-/// "Done for now" and "Start again", fixed below the board so the exit is
-/// always on screen. Side by side normally; stacked at large text.
-class _ExitBar extends StatelessWidget {
-  const new({required this.onDone, required this.onStartAgain});
-
-  final VoidCallback onDone;
-  final VoidCallback onStartAgain;
-
-  @override
-  Widget build(BuildContext context) {
-    final stacked = MediaQuery.textScalerOf(context).scale(16) / 16 > 1.3;
-    final done = OutlinedButton(
-      onPressed: onDone,
-      child: const Text('Done for now'),
-    );
-    final again = OutlinedButton(
-      onPressed: onStartAgain,
-      child: const Text('Start again'),
-    );
-    return SafeArea(
-      child: Center(
-        heightFactor: 1,
-        child: ConstrainedBox(
-          constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
-          child: Padding(
-            padding: const EdgeInsets.fromLTRB(
-              gmSpaceLg,
-              gmSpaceSm,
-              gmSpaceLg,
-              gmSpaceMd,
-            ),
-            child: stacked
-                ? Column(
-                    mainAxisSize: MainAxisSize.min,
-                    crossAxisAlignment: CrossAxisAlignment.stretch,
-                    children: [
-                      done,
-                      const SizedBox(height: gmSpaceSm),
-                      again,
-                    ],
-                  )
-                : Row(
-                    children: [
-                      Expanded(child: done),
-                      const SizedBox(width: gmSpaceMd),
-                      Expanded(child: again),
-                    ],
-                  ),
-          ),
-        ),
-      ),
-    );
-  }
-}
-
 /// Loading state view
 class _LoadingView extends StatelessWidget {
   const new();
@@ -355,84 +300,6 @@ class _LoadingView extends StatelessWidget {
             SizedBox(height: gmSpaceMd),
             Text('Getting the pictures ready…', textAlign: TextAlign.center),
           ],
-        ),
-      ),
-    );
-  }
-}
-
-/// The board first; guidance moves below it at very large text, and the
-/// whole page scrolls when the screen is short (GM-012/GM-016).
-class _GamePlayView extends StatelessWidget {
-  const new({required this.state});
-
-  final GameState state;
-
-  @override
-  Widget build(BuildContext parentContext) {
-    final scale = MediaQuery.textScalerOf(parentContext).scale(16) / 16;
-    final guidanceBelow = scale > 1.5;
-    final header = GameHeader(state: state);
-    const padding = EdgeInsets.symmetric(
-      horizontal: gmSpaceLg,
-      vertical: gmSpaceMd,
-    );
-
-    GameBoard board({double? heightBudget}) => GameBoard(
-      tiles: state.tiles,
-      difficulty: state.currentPack.difficulty,
-      selectedTileIds: {for (final tile in state.selectedTiles) tile.id},
-      waitingForNextTap: state.showingMismatch || state.hintTileIds.isNotEmpty,
-      heightBudget: heightBudget,
-      onTileTap: (tileId) => parentContext.read<GameCubit>().onTileTap(tileId),
-    );
-
-    return SafeArea(
-      bottom: false,
-      child: Center(
-        child: ConstrainedBox(
-          constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
-          child: LayoutBuilder(
-            builder: (context, constraints) {
-              final tight = constraints.maxHeight < 360 + 240 * scale;
-              if (tight) {
-                return SingleChildScrollView(
-                  padding: padding,
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      if (!guidanceBelow) ...[
-                        header,
-                        const SizedBox(height: gmSpaceMd),
-                      ],
-                      board(heightBudget: constraints.maxHeight * 0.8),
-                      if (guidanceBelow) ...[
-                        const SizedBox(height: gmSpaceMd),
-                        header,
-                      ],
-                    ],
-                  ),
-                );
-              }
-              return Padding(
-                padding: padding,
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    if (!guidanceBelow) ...[
-                      header,
-                      const SizedBox(height: gmSpaceMd),
-                    ],
-                    Expanded(child: board()),
-                    if (guidanceBelow) ...[
-                      const SizedBox(height: gmSpaceMd),
-                      header,
-                    ],
-                  ],
-                ),
-              );
-            },
-          ),
         ),
       ),
     );
