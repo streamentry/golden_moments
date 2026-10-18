@@ -130,6 +130,18 @@ class _GentleHomePageState extends State<GentleHomePage> {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     const heroSize = Size.fromHeight(gmTargetHero);
+    final largeText = MediaQuery.textScalerOf(context).scale(16) / 16 > 1.5;
+    final heading = Text(
+      'Simple activities to enjoy together',
+      style: theme.textTheme.headlineMedium,
+    );
+    final start = FilledButton.icon(
+      style: FilledButton.styleFrom(minimumSize: heroSize),
+      onPressed: () =>
+          _open(const GentleGamePage(pictures: ActivityPicture.samples)),
+      icon: const Icon(Icons.grid_view),
+      label: const Text('Start a gentle game'),
+    );
     return Scaffold(
       appBar: AppBar(
         title: const Text('Golden Moments'),
@@ -153,25 +165,17 @@ class _GentleHomePageState extends State<GentleHomePage> {
             child: ListView(
               padding: const EdgeInsets.all(gmSpaceLg),
               children: [
+                // The one dominant action stays in the first view (GM-001):
+                // directly under the heading, and above it at large text.
+                if (!largeText) ...[heading, const SizedBox(height: gmSpaceLg)],
+                start,
+                const SizedBox(height: gmSpaceSm),
                 Text(
-                  'Simple activities to enjoy together',
-                  style: theme.textTheme.headlineMedium,
-                ),
-                const SizedBox(height: gmSpaceMd),
-                Text(
-                  'Start with four large tiles. No timers, scores, or rush.',
+                  'Four large tiles. No timers, scores, or rush.',
                   style: theme.textTheme.bodyLarge,
                 ),
+                if (largeText) ...[const SizedBox(height: gmSpaceLg), heading],
                 const SizedBox(height: gmSpaceXl),
-                FilledButton.icon(
-                  style: FilledButton.styleFrom(minimumSize: heroSize),
-                  onPressed: () => _open(
-                    const GentleGamePage(pictures: ActivityPicture.samples),
-                  ),
-                  icon: const Icon(Icons.grid_view),
-                  label: const Text('Start a gentle game'),
-                ),
-                const SizedBox(height: gmSpaceMd),
                 OutlinedButton.icon(
                   style: OutlinedButton.styleFrom(minimumSize: heroSize),
                   onPressed: () => _open(const PhotoCollectionPage()),

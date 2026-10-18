@@ -184,8 +184,9 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     if (_busy || _store == null) return;
     final confirmed = await _confirm(
       id == null ? 'Remove all photo copies?' : 'Remove this photo copy?',
-      'This removes copies saved by Golden Moments. Originals '
-      'in your photo library are not deleted.',
+      'This removes copies saved by Golden Moments on this device. '
+      'Originals in your photo library are not deleted, and earlier '
+      'device backups are not changed.',
     );
     if (!confirmed || !mounted) return;
     setState(() {
@@ -324,6 +325,23 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
               'changed. Please try again.',
         );
       }
+    }
+  }
+
+  /// Hiding from Look together is the same reversible Hide as in the photo
+  /// options: the copy stays, and the game and later viewing skip it.
+  Future<bool> _hideFromViewing(ActivityPicture picture) async {
+    final annotations = _annotations;
+    if (annotations == null) return false;
+    final note = (_notes[picture.id] ?? const PhotoAnnotation()).copyWith(
+      hidden: true,
+    );
+    try {
+      final notes = await annotations.update(picture.id, note);
+      if (mounted) setState(() => _notes = notes);
+      return true;
+    } on Object {
+      return false;
     }
   }
 
@@ -486,8 +504,10 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                       ? null
                       : () => Navigator.of(context).push(
                           MaterialPageRoute<void>(
-                            builder: (_) =>
-                                PhotoTogetherPage(pictures: playable),
+                            builder: (_) => PhotoTogetherPage(
+                              pictures: playable,
+                              onHide: _hideFromViewing,
+                            ),
                           ),
                         ),
                   icon: const Icon(Icons.chat_bubble_outline),
