@@ -11,14 +11,20 @@ class PictureView extends StatelessWidget {
   Widget build(BuildContext context) {
     if (picture.path != null) {
       return Image.file(
-        File(picture.path!), fit: BoxFit.contain, cacheWidth: 768,
+        File(picture.path!),
+        fit: BoxFit.contain,
+        cacheWidth: 768,
         excludeFromSemantics: true,
-        errorBuilder: (_, __, ___) => const Center(child: Text('Photo unavailable')),
+        errorBuilder: (_, _, _) =>
+            const Center(child: Text('Photo unavailable')),
       );
     }
-    return Center(child: Icon(
-      picture.icon ?? Icons.photo, size: 72,
-      color: Theme.of(context).colorScheme.primary,
-    ));
+    return Center(
+      child: Icon(
+        picture.icon ?? Icons.photo,
+        size: 72,
+        color: Theme.of(context).colorScheme.primary,
+      ),
+    );
   }
 }

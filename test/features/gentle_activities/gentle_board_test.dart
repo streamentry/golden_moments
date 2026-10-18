@@ -1,4 +1,5 @@
 import 'dart:math';
+
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/features/gentle_activities/models/gentle_board.dart';
 
@@ -12,7 +13,10 @@ void main() {
   test('invalid or duplicate inputs are rejected', () {
     expect(() => GentleBoard(['a']), throwsArgumentError);
     expect(() => GentleBoard(['a', 'a']), throwsArgumentError);
-    expect(() => GentleBoard(List.generate(7, (i) => '$i')), throwsArgumentError);
+    expect(
+      () => GentleBoard(List.generate(7, (i) => '$i')),
+      throwsArgumentError,
+    );
   });
   test('same tile cannot match itself and invalid taps do nothing', () {
     final board = GentleBoard(['a', 'b']);
@@ -26,7 +30,8 @@ void main() {
     final board = GentleBoard(['a', 'b'], random: Random(2));
     final a = board.cards.indexOf('a');
     final b = board.cards.indexOf('b');
-    board.tap(a); board.tap(b);
+    board.tap(a);
+    board.tap(b);
     expect(board.waitingForNextTurn, isTrue);
     expect(board.isVisible(a, keepVisible: false), isTrue);
     final otherA = board.cards.lastIndexOf('a');

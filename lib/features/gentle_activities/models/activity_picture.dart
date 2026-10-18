@@ -2,7 +2,12 @@ import 'package:flutter/material.dart';
 
 /// A bundled illustration or a normalized, local family-photo copy.
 class ActivityPicture {
-  const ActivityPicture({required this.id, required this.label, this.icon, this.path});
+  const ActivityPicture({
+    required this.id,
+    required this.label,
+    this.icon,
+    this.path,
+  });
   final String id;
   final String label;
   final IconData? icon;

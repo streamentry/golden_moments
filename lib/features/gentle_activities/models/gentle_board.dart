@@ -4,7 +4,8 @@ import 'dart:math';
 /// A non-matching pair stays visible until the next deliberate tap.
 class GentleBoard {
   GentleBoard(List<String> pictureIds, {Random? random}) {
-    if (pictureIds.length < 2 || pictureIds.length > 6 ||
+    if (pictureIds.length < 2 ||
+        pictureIds.length > 6 ||
         pictureIds.toSet().length != pictureIds.length) {
       throw ArgumentError('Choose between two and six different pictures.');
     }

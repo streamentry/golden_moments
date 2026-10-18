@@ -8,6 +8,5 @@ import 'package:golden_moments/features/gentle_activities/presentation/gentle_ho
 bool get usesGentleActivities => Platform.isIOS || Platform.isAndroid;
 
 /// Preserve the existing desktop catalog until native photo flows are tested.
-Widget buildPlatformHome() => usesGentleActivities
-    ? const GentleHomePage()
-    : const MainNavigation();
+Widget buildPlatformHome() =>
+    usesGentleActivities ? const GentleHomePage() : const MainNavigation();

@@ -10,7 +10,7 @@ class FamilyPhotoStore {
   FamilyPhotoStore(this.directory);
 
   static const maxPhotos = 24;
-  static const maxBytesPerPhoto = 2 * 1024 * 1024;
+  static const int maxBytesPerPhoto = 2 * 1024 * 1024;
   static final _validId = RegExp(r'^[a-f0-9]{64}$');
   static const _pngSignature = [137, 80, 78, 71, 13, 10, 26, 10];
   final Directory directory;
@@ -19,13 +19,17 @@ class FamilyPhotoStore {
   File get _manifest => File('${directory.path}/collection.json');
 
   File fileFor(String id) {
-    if (!_validId.hasMatch(id)) throw const FormatException('Invalid photo ID.');
+    if (!_validId.hasMatch(id))
+      throw const FormatException('Invalid photo ID.');
     return File('${directory.path}/$id.png');
   }
 
   Future<T> _serial<T>(Future<T> Function() action) {
     final operation = _pending.then((_) => action());
-    _pending = operation.then<void>((_) {}, onError: (Object _, StackTrace __) {});
+    _pending = operation.then<void>(
+      (_) {},
+      onError: (Object _, StackTrace _) {},
+    );
     return operation;
   }
 
@@ -35,14 +39,16 @@ class FamilyPhotoStore {
     await directory.create(recursive: true);
     if (!await _manifest.exists()) return [];
     final data = jsonDecode(await _manifest.readAsString());
-    if (data is! Map<String, dynamic> || data['version'] != 1 ||
+    if (data is! Map<String, dynamic> ||
+        data['version'] != 1 ||
         data['photos'] is! List) {
       throw const FormatException('The photo collection cannot be read.');
     }
     final values = data['photos'] as List<dynamic>;
-    if (values.length > maxPhotos || values.any(
-      (dynamic id) => id is! String || !_validId.hasMatch(id),
-    )) {
+    if (values.length > maxPhotos ||
+        values.any(
+          (dynamic id) => id is! String || !_validId.hasMatch(id),
+        )) {
       throw const FormatException('Invalid photo collection.');
     }
     final ids = values.cast<String>();
@@ -60,7 +66,8 @@ class FamilyPhotoStore {
   Future<void> _save(List<String> ids) async {
     final temporary = File('${directory.path}/collection.json.tmp');
     await temporary.writeAsString(
-      jsonEncode({'version': 1, 'photos': ids}), flush: true,
+      jsonEncode({'version': 1, 'photos': ids}),
+      flush: true,
     );
     await temporary.rename(_manifest.path);
   }
@@ -70,7 +77,8 @@ class FamilyPhotoStore {
     final ids = await _read();
     final additions = <String, Uint8List>{};
     for (final bytes in images) {
-      if (bytes.length < 8 || bytes.length > maxBytesPerPhoto ||
+      if (bytes.length < 8 ||
+          bytes.length > maxBytesPerPhoto ||
           List<int>.generate(8, (i) => bytes[i]).asMap().entries.any(
             (entry) => entry.value != _pngSignature[entry.key],
           )) {
@@ -90,7 +98,8 @@ class FamilyPhotoStore {
         if (!await file.exists()) {
           await file.writeAsBytes(entry.value, flush: true);
           written.add(file);
-        } else if (sha256.convert(await file.readAsBytes()).toString() != entry.key) {
+        } else if (sha256.convert(await file.readAsBytes()).toString() !=
+            entry.key) {
           throw const FormatException('A saved photo could not be verified.');
         }
       }
@@ -99,7 +108,11 @@ class FamilyPhotoStore {
       return updated;
     } catch (_) {
       for (final file in written) {
-        try { await file.delete(); } on FileSystemException { /* Retain original error. */ }
+        try {
+          await file.delete();
+        } on FileSystemException {
+          /* Retain original error. */
+        }
       }
       rethrow;
     }
@@ -120,7 +133,8 @@ class FamilyPhotoStore {
     // Include orphan copies left by an interrupted import. Never traverse.
     await for (final entry in directory.list(followLinks: false)) {
       final name = entry.uri.pathSegments.last;
-      if (entry is File && name.endsWith('.png') &&
+      if (entry is File &&
+          name.endsWith('.png') &&
           _validId.hasMatch(name.substring(0, name.length - 4))) {
         await entry.delete();
       }
