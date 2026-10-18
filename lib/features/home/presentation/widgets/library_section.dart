@@ -5,18 +5,65 @@ import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/category/presentation/screens/category_page.dart';
+import 'package:golden_moments/features/home/data/interest_preferences.dart';
 import 'package:golden_moments/shared/widgets/category_card.dart';
 
-/// Section displaying the game library
-class LibrarySection extends StatelessWidget {
-  const new({required this.categories, required this.onCategoryTap, super.key});
+/// Section displaying the game library, with optional topic choices.
+class LibrarySection extends StatefulWidget {
+  const new({
+    required this.categories,
+    required this.onCategoryTap,
+    this.interestStore = const InterestStore(),
+    super.key,
+  });
 
   final List<Category> categories;
   final void Function(Category category) onCategoryTap;
+  final InterestStore interestStore;
+
+  @override
+  State<LibrarySection> createState() => _LibrarySectionState();
+}
+
+class _LibrarySectionState extends State<LibrarySection> {
+  Set<String> _chosen = {};
+  bool _saveFailed = false;
+
+  @override
+  void initState() {
+    super.initState();
+    unawaited(_load());
+  }
+
+  Future<void> _load() async {
+    final saved = await widget.interestStore.load();
+    if (mounted && saved.isNotEmpty) setState(() => _chosen = saved);
+  }
+
+  Future<void> _toggle(String id, {required bool selected}) async {
+    final next = {..._chosen};
+    if (selected) {
+      next.add(id);
+    } else {
+      next.remove(id);
+    }
+    setState(() => _chosen = next);
+    final saved = await widget.interestStore.save(next);
+    if (mounted) setState(() => _saveFailed = !saved);
+  }
+
+  Future<void> _clear() async {
+    setState(() => _chosen = {});
+    final saved = await widget.interestStore.save({});
+    if (mounted) setState(() => _saveFailed = !saved);
+  }
 
   @override
   Widget build(BuildContext parentContext) {
     final theme = Theme.of(parentContext);
+    final categories = widget.categories;
+    final shown = categoriesForInterests(categories, _chosen);
+    final filtered = _chosen.isNotEmpty && shown.length != categories.length;
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -51,7 +98,8 @@ class LibrarySection extends StatelessWidget {
                 unawaited(SoundService().playTap());
                 Navigator.of(parentContext).push(
                   MaterialPageRoute<void>(
-                    builder: (context) => CategoryPage(categories: categories),
+                    builder: (context) =>
+                        CategoryPage(categories: widget.categories),
                   ),
                 );
               },
@@ -69,11 +117,47 @@ class LibrarySection extends StatelessWidget {
         ),
         const SizedBox(height: gmSpaceMd),
 
+        if (categories.length > 1) ...[
+          Text(
+            'Pick topics you enjoy (optional)',
+            style: theme.textTheme.titleMedium,
+          ),
+          const SizedBox(height: gmSpaceSm),
+          Wrap(
+            spacing: gmSpaceSm,
+            runSpacing: gmSpaceSm,
+            children: [
+              for (final category in categories)
+                FilterChip(
+                  label: Text(category.name),
+                  selected: _chosen.contains(category.id),
+                  showCheckmark: true,
+                  onSelected: (selected) =>
+                      unawaited(_toggle(category.id, selected: selected)),
+                  materialTapTargetSize: MaterialTapTargetSize.padded,
+                ),
+            ],
+          ),
+          if (_chosen.isNotEmpty)
+            TextButton(onPressed: _clear, child: const Text('Show all topics')),
+          if (_saveFailed)
+            Text(
+              'Your choice could not be saved. It will apply until you close '
+              'the app.',
+              style: theme.textTheme.bodyMedium,
+            ),
+          const SizedBox(height: gmSpaceSm),
+        ],
+
         // Library packs
         if (categories.isEmpty)
           _EmptyState()
         else
-          _PacksList(categories: categories, onPackTap: onCategoryTap),
+          _PacksList(
+            categories: shown,
+            showAll: filtered,
+            onPackTap: widget.onCategoryTap,
+          ),
       ],
     );
   }
@@ -81,15 +165,24 @@ class LibrarySection extends StatelessWidget {
 
 /// List layout for library packs
 class _PacksList extends StatelessWidget {
-  const new({required this.categories, required this.onPackTap});
+  const new({
+    required this.categories,
+    required this.onPackTap,
+    this.showAll = false,
+  });
 
   final List<Category> categories;
   final void Function(Category pack) onPackTap;
 
+  /// When the person has chosen topics, show every chosen one.
+  final bool showAll;
+
   @override
   Widget build(BuildContext parentContext) {
     // Show only first few packs in home view
-    final displayCategories = categories.take(3).toList();
+    final displayCategories = showAll
+        ? categories
+        : categories.take(3).toList();
 
     return Column(
       children: displayCategories.map((category) {

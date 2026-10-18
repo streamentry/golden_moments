@@ -276,8 +276,13 @@
         ]
       },
       "GM-024": {
-        "status": "not_started",
-        "scope": "Interest-first discovery not built; depends on GM-020 favorites/hide being extended to included packs."
+        "status": "partial",
+        "scope": "Optional, remembered topic choices on the library section of the included-pack home (reached from the gentle home via 'Explore the picture-pack library'): topic chips for the five existing categories, nothing selected or forced by default, no vintage bias, selection shown with a check and the word, changeable and clearable at any time, stored locally; a chosen set shows every chosen topic (not just three); a stale or corrupt choice falls back to showing everything. Not done: optional text search, favorites/hidden for included packs, and honoring hidden family photos in pack suggestions (not applicable to included packs). Device check pending.",
+        "evidence": [
+          "lib/features/home/data/interest_preferences.dart",
+          "lib/features/home/presentation/widgets/library_section.dart",
+          "test/features/home/interest_test.dart"
+        ]
       },
       "GM-025": {
         "status": "partial",
