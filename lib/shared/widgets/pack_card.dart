@@ -5,40 +5,108 @@ import 'package:golden_moments/features/game/game.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
 
 /// Every pack is bundled and starts with a single tap.
+///
+/// When [onFavoriteChanged] or [onNotForMe] is given, the card also shows a
+/// favorite toggle and a "Not for me" action. The toggle's words change with
+/// its state ("Add to favorites" / "In favorites"), as does its star (outline
+/// / filled), and it is announced as a toggle. The actions sit below the
+/// tappable picture area, at least 8 apart, so choosing them never starts
+/// the pack.
 class PackCard extends StatelessWidget {
   const new({
     required this.pack,
     this.onTap,
     this.showDailyBadge = false,
     this.showPremiumBadge = false,
+    this.isFavorite = false,
+    this.onFavoriteChanged,
+    this.onNotForMe,
     super.key,
   });
   final Pack pack;
   final VoidCallback? onTap;
   final bool showDailyBadge;
   final bool showPremiumBadge;
+  final bool isFavorite;
+  final ValueChanged<bool>? onFavoriteChanged;
+  final VoidCallback? onNotForMe;
 
-  /// Height of a [PackCard] in a grid whose columns are [cardWidth] wide.
-  ///
-  /// The text area grows with the system text size, so nothing clips at
-  /// 200% text.
-  static double gridExtent(BuildContext context, double cardWidth) =>
-      cardWidth * 2 / 3 + 176 * MediaQuery.textScalerOf(context).scale(1);
+  bool get _hasActions => onFavoriteChanged != null || onNotForMe != null;
 
   @override
-  Widget build(BuildContext context) => Card(
-    clipBehavior: Clip.antiAlias,
-    child: Pressable(
-      onPressed:
-          onTap ??
-          () {
-            Navigator.of(context).push(
-              MaterialPageRoute<void>(builder: (_) => GamePage(gamePack: pack)),
-            );
-          },
-      child: _buildLayout(Theme.of(context)),
-    ),
-  );
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    return Card(
+      clipBehavior: Clip.antiAlias,
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        children: [
+          Pressable(
+            onPressed:
+                onTap ??
+                () {
+                  Navigator.of(context).push(
+                    MaterialPageRoute<void>(
+                      builder: (_) => GamePage(gamePack: pack),
+                    ),
+                  );
+                },
+            // One labelled button for a screen reader: the role annotates
+            // the tappable surface's own node (GM-014).
+            child: Semantics(button: true, child: _buildLayout(theme)),
+          ),
+          if (_hasActions) _buildActions(theme),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildActions(ThemeData theme) {
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(
+        gmSpaceXs,
+        gmSpaceSm,
+        gmSpaceXs,
+        gmSpaceXs,
+      ),
+      child: Wrap(
+        spacing: gmSpaceSm,
+        runSpacing: gmSpaceSm,
+        children: [
+          if (onFavoriteChanged case final onChanged?)
+            // Words, star shape and the announced toggle state all carry the
+            // choice; never colour or fill alone.
+            MergeSemantics(
+              key: ValueKey('favorite-${pack.id}'),
+              child: Semantics(
+                toggled: isFavorite,
+                child: TextButton.icon(
+                  onPressed: () => onChanged(!isFavorite),
+                  icon: Icon(isFavorite ? Icons.star : Icons.star_border),
+                  label: Text(
+                    isFavorite ? 'In favorites' : 'Add to favorites',
+                    semanticsLabel: isFavorite
+                        ? 'In favorites, ${pack.title}'
+                        : 'Add to favorites, ${pack.title}',
+                  ),
+                ),
+              ),
+            ),
+          if (onNotForMe case final onHide?)
+            TextButton.icon(
+              key: ValueKey('not-for-me-${pack.id}'),
+              onPressed: onHide,
+              icon: const Icon(Icons.visibility_off_outlined),
+              label: Text(
+                'Not for me',
+                semanticsLabel: 'Not for me, hide ${pack.title}',
+              ),
+            ),
+        ],
+      ),
+    );
+  }
 
   Widget _buildLayout(ThemeData theme) {
     final scheme = theme.colorScheme;
@@ -71,56 +139,51 @@ class PackCard extends StatelessWidget {
             ),
           ],
         ),
-        Expanded(
-          child: Padding(
-            padding: const EdgeInsets.all(gmSpaceSm),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Expanded(
-                  child: Text(
-                    pack.title,
-                    style: theme.textTheme.titleMedium,
-                    maxLines: 2,
-                    overflow: TextOverflow.ellipsis,
-                  ),
+        Padding(
+          padding: const EdgeInsets.all(gmSpaceSm),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              // Nothing is clamped: the card grows with its text.
+              Text(pack.title, style: theme.textTheme.titleMedium),
+              Text(
+                pack.theme,
+                style: theme.textTheme.bodySmall?.copyWith(
+                  color: scheme.onSurfaceVariant,
                 ),
-                Text(
-                  pack.theme,
-                  style: theme.textTheme.bodySmall?.copyWith(
-                    color: scheme.onSurfaceVariant,
-                  ),
-                  maxLines: 1,
-                  overflow: TextOverflow.ellipsis,
-                ),
-                const SizedBox(height: gmSpaceSm),
-                Wrap(
-                  spacing: gmSpaceSm,
-                  runSpacing: gmSpaceXs,
-                  crossAxisAlignment: WrapCrossAlignment.center,
-                  children: [
-                    _buildDifficultyChip(theme),
-                    Row(
-                      mainAxisSize: MainAxisSize.min,
-                      children: [
-                        Icon(
-                          Icons.play_circle_outline,
-                          size: 24,
-                          color: scheme.primary,
-                        ),
-                        const SizedBox(width: gmSpaceXs),
-                        Text(
+              ),
+              const SizedBox(height: gmSpaceSm),
+              Wrap(
+                spacing: gmSpaceSm,
+                runSpacing: gmSpaceXs,
+                crossAxisAlignment: WrapCrossAlignment.center,
+                children: [
+                  _buildDifficultyChip(theme),
+                  Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Icon(
+                        Icons.play_circle_outline,
+                        size: 24,
+                        color: scheme.primary,
+                      ),
+                      const SizedBox(width: gmSpaceXs),
+                      // Flexible so a narrow card wraps the word instead of
+                      // overflowing at large text sizes.
+                      Flexible(
+                        child: Text(
                           'Play',
                           style: theme.textTheme.labelSmall?.copyWith(
                             color: scheme.primary,
                           ),
                         ),
-                      ],
-                    ),
-                  ],
-                ),
-              ],
-            ),
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+            ],
           ),
         ),
       ],

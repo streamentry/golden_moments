@@ -2,13 +2,17 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/presentation/screens/game_page.dart';
 import 'package:golden_moments/features/home/cubit/home_cubit.dart';
 import 'package:golden_moments/features/home/cubit/home_state.dart';
 import 'package:golden_moments/features/home/presentation/widgets/daily_packs_section.dart';
+import 'package:golden_moments/features/home/presentation/widgets/favorites_section.dart';
+import 'package:golden_moments/features/home/presentation/widgets/hidden_packs_section.dart';
 import 'package:golden_moments/features/home/presentation/widgets/library_section.dart';
+import 'package:golden_moments/features/home/presentation/widgets/pack_choice_not_saved.dart';
 import 'package:golden_moments/features/home/presentation/widgets/setting_modal.dart';
 import 'package:golden_moments/features/pack/presentation/screens/pack_page.dart';
 
@@ -112,13 +116,14 @@ class _ErrorView extends StatelessWidget {
             ),
             const SizedBox(height: gmSpaceMd),
             Text(
-              'Oops! Something went wrong',
+              'The picture library could not open',
               style: Theme.of(parentContext).textTheme.headlineSmall,
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
-              message ?? 'Something went wrong. Please try again.',
+              message ??
+                  'Your gentle activities still work. You can try again now.',
               style: Theme.of(parentContext).textTheme.bodyLarge,
               textAlign: TextAlign.center,
             ),
@@ -136,7 +141,12 @@ class _ErrorView extends StatelessWidget {
   }
 }
 
-/// Loaded state view
+/// Loaded state view.
+///
+/// Order: favorites first (easy to find again), then a few suggestions, the
+/// topic library, and last the hidden packs with "Show again". Nothing starts
+/// a pack except the person's own tap. Until the saved choices are known only
+/// the topics are shown, so a hidden pack never appears, even briefly.
 class _LoadedView extends StatelessWidget {
   const new({required this.state});
 
@@ -144,51 +154,109 @@ class _LoadedView extends StatelessWidget {
 
   @override
   Widget build(BuildContext parentContext) {
-    return RefreshIndicator(
-      // onRefresh: () => context.read<HomeCubit>().refreshDailyPacks(),
-      onRefresh: () async {},
-      child: SingleChildScrollView(
-        physics: const AlwaysScrollableScrollPhysics(),
-        padding: const EdgeInsets.all(gmSpaceMd),
-        child: Center(
-          child: ConstrainedBox(
-            constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                // Welcome message
-                _WelcomeSection(),
-                const SizedBox(height: gmSpaceLg),
+    final cubit = parentContext.read<HomeCubit>();
+    final prefs = state.packPreferences;
+    final favorites = state.favoritePacks;
+    final hidden = state.hiddenPacks;
+    final ready = state.preferencesReady;
+    final choices = state.choicesEnabled;
+    final lastHidden = state.lastHiddenPack;
 
-                // Daily packs section
+    void openPack(Pack pack) {
+      Navigator.of(parentContext).push(
+        MaterialPageRoute<void>(builder: (context) => GamePage(gamePack: pack)),
+      );
+    }
+
+    void setFavorite(Pack pack, {required bool favorite}) =>
+        unawaited(cubit.setFavorite(pack.id, favorite: favorite));
+    void notForMe(Pack pack) => unawaited(cubit.hidePack(pack.id));
+
+    // Everything is bundled, so there is nothing to pull-to-refresh; a
+    // spinner that changes nothing would be motion without meaning.
+    return SingleChildScrollView(
+      padding: const EdgeInsets.all(gmSpaceMd),
+      child: Center(
+        child: ConstrainedBox(
+          constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              // Welcome message
+              _WelcomeSection(),
+              if (state.preferencesSaveFailed) ...[
+                const SizedBox(height: gmSpaceMd),
+                const PackChoiceNotSaved(),
+              ],
+              if (state.preferencesUnreadable) ...[
+                const SizedBox(height: gmSpaceMd),
+                const PackChoicesUnreadable(),
+              ],
+              const SizedBox(height: gmSpaceLg),
+
+              if (!ready) ...[
+                const PackChoicesLoading(),
+                const SizedBox(height: gmSpaceLg),
+              ] else ...[
+                if (lastHidden != null) ...[
+                  HiddenNotice(
+                    pack: lastHidden,
+                    onShowAgain: () => unawaited(cubit.showPack(lastHidden.id)),
+                  ),
+                  const SizedBox(height: gmSpaceLg),
+                ],
+                if (favorites.isNotEmpty) ...[
+                  FavoritesSection(
+                    packs: favorites,
+                    onPackTap: openPack,
+                    onFavoriteChanged: setFavorite,
+                    onNotForMe: notForMe,
+                  ),
+                  const SizedBox(height: gmSpaceLg),
+                ],
+
+                // Suggested packs section
                 DailyPacksSection(
-                  packs: state.dailyPacks,
-                  onPackTap: (pack) {
-                    Navigator.of(parentContext).push(
-                      MaterialPageRoute<void>(
-                        builder: (context) => GamePage(gamePack: pack),
-                      ),
-                    );
-                  },
+                  packs: state.suggestedPacks,
+                  onPackTap: openPack,
+                  // Never offered over a record that could not be read.
+                  onFavoriteChanged: choices ? setFavorite : null,
+                  onNotForMe: choices ? notForMe : null,
+                  hiddenCount: hidden.length,
+                  favoriteCount: favorites.length,
+                  onShowOther: state.hasOtherSuggestions
+                      ? cubit.showOtherSuggestions
+                      : null,
                 ),
                 const SizedBox(height: gmSpaceLg),
+              ],
 
-                // Library section
-                LibrarySection(
-                  categories: state.libraryPacks,
-                  onCategoryTap: (category) {
-                    Navigator.of(parentContext).push(
-                      MaterialPageRoute<void>(
-                        builder: (context) => PackPage(
-                          categoryId: category.id,
-                          categoryName: category.name,
-                        ),
+              // Library section
+              LibrarySection(
+                categories: state.libraryPacks,
+                eligiblePackCounts: ready ? state.eligiblePackCounts : null,
+                onCategoryTap: (category) {
+                  Navigator.of(parentContext).push(
+                    MaterialPageRoute<void>(
+                      builder: (context) => PackPage(
+                        categoryId: category.id,
+                        categoryName: category.name,
+                        library: cubit,
                       ),
-                    );
-                  },
+                    ),
+                  );
+                },
+              ),
+
+              if (ready && hidden.isNotEmpty) ...[
+                const SizedBox(height: gmSpaceXl),
+                HiddenPacksSection(
+                  packs: hidden,
+                  favoriteIds: prefs.favorites,
+                  onShowAgain: (pack) => unawaited(cubit.showPack(pack.id)),
                 ),
               ],
-            ),
+            ],
           ),
         ),
       ),
@@ -217,8 +285,8 @@ class _WelcomeSection extends StatelessWidget {
             const SizedBox(height: gmSpaceSm),
             Text(
               'Picture matching games to enjoy at your own pace. Choose '
-              "one of today's packs or explore the full library. Every "
-              'pack is included and works offline.',
+              'a suggested pack or explore the full library. Every pack is '
+              'included and works offline.',
               style: theme.textTheme.bodyLarge,
             ),
           ],

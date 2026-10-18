@@ -460,32 +460,38 @@ int gmBoardColumns({
   return columns;
 }
 
-/// MEMORY TILE  (face-down / revealed / matched) for the picture-pack library
+/// MEMORY TILE  (face-down / revealed / selected / matched) for the
+/// picture-pack library. Selected and matched tiles get the 4px Antique Gold
+/// border, so state is never shown by color alone. [onTap] is null when the
+/// tile cannot be chosen; the caller decides, because a face-up mismatch is
+/// tappable (its tap starts the next turn).
 class GmMemoryTile extends StatelessWidget {
   const new({
     required this.revealed,
     required this.image,
     this.matched = false,
+    this.selected = false,
     this.onTap,
     super.key,
   });
   final bool revealed;
   final bool matched;
+  final bool selected;
   final ImageProvider image;
   final VoidCallback? onTap;
 
   @override
   Widget build(BuildContext parentContext) {
     final scheme = Theme.of(parentContext).colorScheme;
-    final border = gmTileShape(scheme, emphasized: matched);
-    final reduceMotion = MediaQuery.of(parentContext).disableAnimations;
+    final border = gmTileShape(scheme, emphasized: matched || selected);
+    final reduceMotion = MediaQuery.disableAnimationsOf(parentContext);
     return Material(
       color: revealed ? scheme.surface : gmSurf200,
       shape: border,
       clipBehavior: Clip.antiAlias,
       child: Pressable(
         customBorder: border,
-        onPressed: revealed ? null : onTap,
+        onPressed: matched ? null : onTap,
         child: Stack(
           fit: StackFit.expand,
           children: [

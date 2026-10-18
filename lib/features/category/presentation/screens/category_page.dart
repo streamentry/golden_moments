@@ -34,9 +34,7 @@ class CategoryPage extends StatelessWidget {
                     category: category,
                     onTap: onCategoryTap == null
                         ? null
-                        : () => {onCategoryTap?.call(category)},
-                    // showPremiumBadge: category.isPremium &&
-                    // !userPreferences.isPremiumUser,
+                        : () => onCategoryTap?.call(category),
                   );
                 },
               ),
@@ -78,7 +76,7 @@ class _EmptyState extends StatelessWidget {
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
-              'Please check back later for more categories!',
+              'The picture library is empty in this version.',
               style: theme.textTheme.bodyMedium?.copyWith(
                 color: theme.colorScheme.onSurfaceVariant,
               ),

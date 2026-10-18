@@ -27,6 +27,7 @@ class GameState extends Equatable {
     this.startTime,
     this.endTime,
     this.showingMismatch = false,
+    this.lastTurnMatched = false,
     this.hintTileIds = const [],
     this.errorMessage,
     this.loadResult,
@@ -62,6 +63,10 @@ class GameState extends Equatable {
   /// Whether a non-matching pair stays visible until the next tap
   final bool showingMismatch;
 
+  /// The latest turn made a pair; cleared by the next tap or hint. Lets the
+  /// header announce a match once, without praise.
+  final bool lastTurnMatched;
+
   /// Tiles revealed by a hint; they stay visible until the next tap
   final List<String> hintTileIds;
 
@@ -94,6 +99,7 @@ class GameState extends Equatable {
     DateTime? startTime,
     DateTime? endTime,
     bool? showingMismatch,
+    bool? lastTurnMatched,
     List<String>? hintTileIds,
     String? errorMessage,
     dynamic loadResult,
@@ -109,6 +115,7 @@ class GameState extends Equatable {
       startTime: startTime ?? this.startTime,
       endTime: endTime ?? this.endTime,
       showingMismatch: showingMismatch ?? this.showingMismatch,
+      lastTurnMatched: lastTurnMatched ?? this.lastTurnMatched,
       hintTileIds: hintTileIds ?? this.hintTileIds,
       errorMessage: errorMessage ?? this.errorMessage,
       loadResult: loadResult ?? this.loadResult,
@@ -127,6 +134,7 @@ class GameState extends Equatable {
     startTime,
     endTime,
     showingMismatch,
+    lastTurnMatched,
     hintTileIds,
     errorMessage,
     loadResult,

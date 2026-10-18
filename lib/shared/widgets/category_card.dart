@@ -28,27 +28,28 @@ class CategoryCard extends StatelessWidget {
   Widget build(BuildContext parentContext) {
     final theme = Theme.of(parentContext);
 
+    // The whole card is one button. It opens at once: no artificial delay
+    // for the ripple, so Reduce Motion users never wait (GM-015).
     return Card(
       clipBehavior: Clip.antiAlias,
       child: Pressable(
-        onPressed: () async {
-          // Wait for ripple animation before calling onPressed
-          await Future<void>.delayed(const Duration(milliseconds: 300));
-          if (!parentContext.mounted) return;
-          if (onTap == null) {
-            await Navigator.of(parentContext).push(
-              MaterialPageRoute<void>(
-                builder: (context) => PackPage(
-                  categoryName: category.name,
-                  categoryId: category.id,
-                ),
-              ),
-            );
-          } else {
+        onPressed: () {
+          if (onTap != null) {
             onTap?.call();
+            return;
           }
+          Navigator.of(parentContext).push(
+            MaterialPageRoute<void>(
+              builder: (context) => PackPage(
+                categoryName: category.name,
+                categoryId: category.id,
+              ),
+            ),
+          );
         },
-        child: _buildLayout(theme),
+        // The button role annotates the tappable surface's own node, so a
+        // screen reader finds one labelled button, not two (GM-014).
+        child: Semantics(button: true, child: _buildLayout(theme)),
       ),
     );
   }
@@ -78,6 +79,8 @@ class CategoryCard extends StatelessWidget {
                     fit: BoxFit.cover,
                     width: 100,
                     height: 100,
+                    // Decorative: the name and description are read instead.
+                    excludeFromSemantics: true,
                   ),
                 ),
                 // Completion indicator
@@ -113,11 +116,8 @@ class CategoryCard extends StatelessWidget {
                       Expanded(
                         child: Text(
                           category.name,
-                          style: theme.textTheme.titleMedium?.copyWith(
-                            fontWeight: FontWeight.bold,
-                          ),
-                          maxLines: 2,
-                          overflow: TextOverflow.ellipsis,
+                          // Wraps at any text size; never truncated.
+                          style: theme.textTheme.titleMedium,
                         ),
                       ),
                       _buildBadges(theme),
