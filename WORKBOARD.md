@@ -50,7 +50,7 @@ All 40 catalog IDs have an entry in `release-status.json` › `senior_first_feat
 
 Recorded at the maintainer's instruction; each is scoped and reversible.
 
-- **Coverage gate loosened.** `min_coverage` is 45 in `.github/workflows/main.yaml` (template default 100, which this codebase could never meet). It is a floor just under the measured level, to be raised as coverage grows and never lowered silently.
+- **Coverage gate loosened.** `min_coverage` is 62 in `.github/workflows/main.yaml` (template default 100, which this codebase could never meet; first set to 45, then ratcheted after the dead downloader was removed and 64.93% was measured). It is a floor just under the measured level, to be raised as coverage grows and never lowered silently.
 - **Spell-check scope.** The legacy translated store descriptions in `docs/store-description/` are excluded because an English dictionary cannot check them (and their non-English medical claims are not reused); about 28 genuine technical words were added to the dictionary.
 - **Legacy downloader removed** (35 unreachable files and seven unused packages). Stored files from older installs are not touched. Native iOS/Android builds still need to confirm the plugin removal.
 - **Firebase kept, collection stays off.** The Firebase dependencies stay for a possible later engagement measurement, but analytics and crash collection remain disabled (manifest and plist flags, guarded by `tests/test_network_boundary.py`). Switching collection on needs a privacy decision first: policy and App Privacy answers, a consent design suitable for older adults and caregivers, and no streaks or pressure metrics. Until then engagement is measured by consented diaries and interviews per `docs/specs/senior-first/validation.md`.
