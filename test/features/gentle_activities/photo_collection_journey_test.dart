@@ -87,6 +87,17 @@ Future<void> _tapText(
   await _settle(tester);
 }
 
+/// Pumps, with real time for file I/O, until [until] holds (bounded).
+Future<void> _waitUntil(WidgetTester tester, bool Function() until) async {
+  for (var i = 0; i < 2000 && !until(); i++) {
+    await tester.runAsync(
+      () => Future<void>.delayed(const Duration(milliseconds: 8)),
+    );
+    await tester.pump(const Duration(milliseconds: 50));
+  }
+  expect(until(), isTrue, reason: 'Gave up waiting.');
+}
+
 bool _shows(Finder finder, [int count = 1]) =>
     finder.evaluate().length == count;
 
@@ -160,7 +171,18 @@ void main() {
       expect(paragraph.didExceedMaxLines, isFalse, reason: helper);
     }
     await _toggle(tester, 'Favorite');
-    await _tapText(tester, 'Save', until: () => _shows(find.text('Favorite')));
+    await tester.tap(find.text('Save').hitTestable().first);
+    await tester.pump(const Duration(milliseconds: 500));
+    // A second edit must not start from stale details while the first save
+    // is still waiting for real file I/O.
+    expect(find.byType(LinearProgressIndicator), findsOneWidget);
+    final options = tester.widgetList<TextButton>(
+      find.widgetWithText(TextButton, 'Photo options'),
+    );
+    expect(options, isNotEmpty);
+    expect(options.every((button) => button.onPressed == null), isTrue);
+    await _waitUntil(tester, () => _shows(find.text('Favorite')));
+    await _settle(tester);
     expect(find.text('Favorite'), findsOneWidget);
     expect(
       find.bySemanticsLabel(RegExp('Lake day. Two people on a wooden dock.')),
