@@ -10,6 +10,7 @@ import 'package:golden_moments/features/game/cubit/game_cubit.dart';
 import 'package:golden_moments/features/game/cubit/game_state.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_board.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_header.dart';
+import 'package:golden_moments/shared/utils/share_util.dart';
 import 'package:provider/provider.dart';
 import 'package:share_plus/share_plus.dart';
 
@@ -37,15 +38,9 @@ class _GamePageState extends State<GamePage> {
   }
 
   void _shareAppLink() {
-    const link =
-        'https://play.google.com/store/apps/details?id=com.mindfulness.golden_moments';
-
     unawaited(
       SharePlus.instance.share(
-        ShareParams(
-          text: 'A gentle picture game we enjoy together:\n$link',
-          subject: 'Golden Moments',
-        ),
+        ShareParams(text: appShareText(), subject: 'Golden Moments'),
       ),
     );
   }

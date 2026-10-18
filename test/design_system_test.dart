@@ -34,7 +34,7 @@ Map<String, Color> _designColors() {
 }
 
 Widget _app(Widget home, {double textScale = 1}) => MaterialApp(
-  theme: gmBuildTheme(brightness: Brightness.light),
+  theme: gmBuildTheme(),
   builder: (context, child) => MediaQuery(
     data: MediaQuery.of(
       context,
@@ -45,7 +45,7 @@ Widget _app(Widget home, {double textScale = 1}) => MaterialApp(
 );
 
 void main() {
-  final theme = gmBuildTheme(brightness: Brightness.light);
+  final theme = gmBuildTheme();
   final scheme = theme.colorScheme;
 
   group('DESIGN.md tokens', () {
@@ -193,6 +193,68 @@ void main() {
         });
       }
     }
+  });
+
+  group('light only (no dark mode)', () {
+    test('the only theme is light', () {
+      expect(theme.brightness, Brightness.light);
+      expect(scheme.brightness, Brightness.light);
+    });
+
+    testWidgets('a device in dark mode still gets the light app', (
+      tester,
+    ) async {
+      tester.platformDispatcher.platformBrightnessTestValue = Brightness.dark;
+      addTearDown(tester.platformDispatcher.clearPlatformBrightnessTestValue);
+      late Brightness seen;
+      await tester.pumpWidget(
+        MaterialApp(
+          theme: gmBuildTheme(),
+          themeMode: ThemeMode.light,
+          home: Builder(
+            builder: (context) {
+              seen = Theme.of(context).brightness;
+              return const SizedBox();
+            },
+          ),
+        ),
+      );
+      expect(seen, Brightness.light);
+    });
+
+    test('native shells cannot switch to dark', () {
+      final res = Directory('android/app/src/main/res');
+      expect(
+        res
+            .listSync()
+            .map((entry) => entry.path)
+            .where(
+              (path) => path.contains('-night'),
+            ),
+        isEmpty,
+        reason: 'night resources let Android (and MIUI) draw dark windows',
+      );
+      for (final styles in [
+        'android/app/src/main/res/values/styles.xml',
+        'android/app/src/main/res/values-v31/styles.xml',
+      ]) {
+        expect(
+          RegExp(
+            'forceDarkAllowed">false',
+          ).allMatches(File(styles).readAsStringSync()).length,
+          2,
+          reason: '$styles must block forced dark on both themes',
+        );
+      }
+      expect(
+        File('ios/Runner/Info.plist').readAsStringSync(),
+        matches(RegExp(r'UIUserInterfaceStyle</key>\s*<string>Light')),
+      );
+      expect(
+        File('web/index.html').readAsStringSync(),
+        contains('content="only light"'),
+      );
+    });
   });
 
   group('gmBoardColumns', () {

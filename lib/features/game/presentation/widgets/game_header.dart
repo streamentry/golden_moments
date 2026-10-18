@@ -14,7 +14,9 @@ class GameHeader extends StatelessWidget {
     final theme = Theme.of(parentContext);
     final scheme = theme.colorScheme;
     final message = state.showingMismatch
-        ? 'Not a pair this time. Take your time.'
+        ? 'Not a pair this time. Tap any picture to continue.'
+        : state.hintTileIds.isNotEmpty
+        ? 'These two match. Tap a picture to continue.'
         : 'Find the matching pictures. There is no time limit.';
 
     return Padding(

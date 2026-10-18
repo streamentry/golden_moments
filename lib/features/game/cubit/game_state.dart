@@ -27,6 +27,7 @@ class GameState extends Equatable {
     this.startTime,
     this.endTime,
     this.showingMismatch = false,
+    this.hintTileIds = const [],
     this.errorMessage,
     this.loadResult,
   });
@@ -58,8 +59,11 @@ class GameState extends Equatable {
   /// When the game ended
   final DateTime? endTime;
 
-  /// Whether we're currently showing a mismatch (brief pause)
+  /// Whether a non-matching pair stays visible until the next tap
   final bool showingMismatch;
+
+  /// Tiles revealed by a hint; they stay visible until the next tap
+  final List<String> hintTileIds;
 
   /// Error message for failed states
   final String? errorMessage;
@@ -90,6 +94,7 @@ class GameState extends Equatable {
     DateTime? startTime,
     DateTime? endTime,
     bool? showingMismatch,
+    List<String>? hintTileIds,
     String? errorMessage,
     dynamic loadResult,
   }) {
@@ -104,6 +109,7 @@ class GameState extends Equatable {
       startTime: startTime ?? this.startTime,
       endTime: endTime ?? this.endTime,
       showingMismatch: showingMismatch ?? this.showingMismatch,
+      hintTileIds: hintTileIds ?? this.hintTileIds,
       errorMessage: errorMessage ?? this.errorMessage,
       loadResult: loadResult ?? this.loadResult,
     );
@@ -121,6 +127,7 @@ class GameState extends Equatable {
     startTime,
     endTime,
     showingMismatch,
+    hintTileIds,
     errorMessage,
     loadResult,
   ];

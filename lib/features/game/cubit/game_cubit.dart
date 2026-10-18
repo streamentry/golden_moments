@@ -77,7 +77,9 @@ class GameCubit extends Cubit<GameState> {
   /// Handle tile tap
   void onTileTap(String tileId) {
     if (state.status != GameStatus.playing) return;
-    if (state.showingMismatch) return;
+    // A mismatch or hint stays visible until this deliberate tap; nothing
+    // is hidden on a timer (DESIGN.md › Interaction & Game Feel).
+    _hideMismatchAndHint();
 
     final tileIndex = state.tiles.indexWhere((tile) => tile.id == tileId);
     if (tileIndex == -1) return;
@@ -151,46 +153,34 @@ class GameCubit extends Cubit<GameState> {
         endTime: isGameCompleted ? DateTime.now() : null,
       ),
     );
-
-    if (isGameCompleted) {
-      _handleGameCompletion();
-    }
   }
 
-  /// Handle mismatch (hide tiles after delay)
+  /// A non-matching pair stays face up until the player's next tap.
   void _handleMismatch() {
-    // Show mismatch state briefly
     emit(state.copyWith(showingMismatch: true));
-
-    // After delay, hide the tiles
-    Future<void>.delayed(AppConstants.mismatchDisplayDuration, () {
-      if (isClosed) return;
-      if (state.showingMismatch) {
-        final updatedTiles = state.tiles.map((tile) {
-          if (state.selectedTiles.any((selected) => selected.id == tile.id)) {
-            return tile.copyWith(isRevealed: false);
-          }
-          return tile;
-        }).toList();
-
-        emit(
-          state.copyWith(
-            tiles: updatedTiles,
-            selectedTiles: [],
-            showingMismatch: false,
-          ),
-        );
-      }
-    });
   }
 
-  /// Handle game completion
-  void _handleGameCompletion() {
-    // Add celebration delay
-    Future<void>.delayed(AppConstants.packCompletionDelay, () {
-      // Game completion logic can be extended here
-      // For now, just ensure the state is properly set
-    });
+  /// Turns a shown mismatch or hint face down again before the next turn.
+  void _hideMismatchAndHint() {
+    if (!state.showingMismatch && state.hintTileIds.isEmpty) return;
+    final hide = {
+      if (state.showingMismatch) ...state.selectedTiles.map((tile) => tile.id),
+      ...state.hintTileIds,
+    };
+    emit(
+      state.copyWith(
+        tiles: state.tiles
+            .map(
+              (tile) => hide.contains(tile.id) && !tile.isMatched
+                  ? tile.copyWith(isRevealed: false)
+                  : tile,
+            )
+            .toList(),
+        selectedTiles: state.showingMismatch ? [] : state.selectedTiles,
+        showingMismatch: false,
+        hintTileIds: [],
+      ),
+    );
   }
 
   /// Pause the game
@@ -252,10 +242,11 @@ class GameCubit extends Cubit<GameState> {
     return tiles;
   }
 
-  /// Get hint (reveal a pair briefly)
+  /// Hint: show one matching pair until the player's next tap.
   void showHint() {
     if (state.status != GameStatus.playing) return;
-    if (state.selectedTiles.isNotEmpty) return;
+    if (state.selectedTiles.isNotEmpty || state.showingMismatch) return;
+    if (state.hintTileIds.isNotEmpty) return;
 
     // Find an unmatched pair
     final unmatchedTiles = state.tiles
@@ -279,32 +270,22 @@ class GameCubit extends Cubit<GameState> {
 
     if (completePairs.isEmpty) return;
 
-    // Pick a random pair to hint
     final random = Random();
-    final hintPair = completePairs[random.nextInt(completePairs.length)].value;
+    final hintIds = completePairs[random.nextInt(completePairs.length)].value
+        .map((tile) => tile.id)
+        .toList();
 
-    // Briefly reveal the pair
-    final updatedTiles = state.tiles.map((tile) {
-      if (hintPair.any((hintTile) => hintTile.id == tile.id)) {
-        return tile.copyWith(isRevealed: true);
-      }
-      return tile;
-    }).toList();
-
-    emit(state.copyWith(tiles: updatedTiles));
-
-    // Hide the hint after a short delay
-    Future<void>.delayed(const Duration(milliseconds: 1000), () {
-      if (isClosed) return;
-      final revertedTiles = state.tiles.map((tile) {
-        if (hintPair.any((hintTile) => hintTile.id == tile.id) &&
-            !tile.isMatched) {
-          return tile.copyWith(isRevealed: false);
-        }
-        return tile;
-      }).toList();
-
-      emit(state.copyWith(tiles: revertedTiles));
-    });
+    emit(
+      state.copyWith(
+        tiles: state.tiles
+            .map(
+              (tile) => hintIds.contains(tile.id)
+                  ? tile.copyWith(isRevealed: true)
+                  : tile,
+            )
+            .toList(),
+        hintTileIds: hintIds,
+      ),
+    );
   }
 }

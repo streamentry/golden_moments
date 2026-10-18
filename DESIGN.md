@@ -278,7 +278,7 @@ Rules:
 - **Red means a real problem.** A mismatch is not an error. Do not show it in red, shake it or play a buzzer.
 - **Avoid hue-only distinctions** between blue, green and violet. Aging lenses compress them.
 - **No pure white pages** (glare) and no pure black text. Use parchment and ink.
-- **Light theme only** in this release. `gmBuildTheme(brightness: Brightness.dark)` exists but is not shipped or verified. Before enabling it, define dark tokens here and re-measure every pair.
+- **Light only, no dark mode.** Dark ink on warm paper is the most legible pairing for aging eyes, and one verified palette is safer than two. `gmBuildTheme()` builds the only theme and the app sets `ThemeMode.light`. Android has no `values-night`/`drawable-night` resources and sets `forceDarkAllowed=false` (MIUI forced a black background, #18). iOS sets `UIUserInterfaceStyle=Light`, and the web declares `color-scheme: only light`. Do not add dark tokens or night resources.
 
 ## Typography
 
@@ -392,7 +392,7 @@ The 2026 mobile-game playbook, filtered for older adults and shared play:
 - **Haptics:** at most a light selection tick on a match, and none on a mismatch.
 - **Ethical retention:** no streaks, daily-reward calendars, energy, lives, loot, countdowns, leaderboards, ads, push-notification nagging or purchase pressure. Return visits must come from a good experience.
 - **Sharing:** a share prompt may appear after a good moment. It is always dismissible ("Not now"), never timed, never blocks play and never says "challenge".
-- **Known deviation:** the legacy picture-pack game (`GameCubit`) still flips a mismatch back after a short delay and hides a hint after one second. That breaks the "next deliberate tap" rule and is tracked in `WORKBOARD.md`. Do not copy it into new work.
+- **Next deliberate tap, everywhere:** both the gentle board and the picture-pack game leave a mismatch face up, and a hint's pair visible, until the player taps again. That tap turns them over and starts the next turn. No game state changes on a timer.
 - **Optional prompts** in Look Together are open-ended ("What do you notice in this picture?"). They are never "Who is this?" or "Do you remember…?".
 
 ## Voice & Content

@@ -25,7 +25,7 @@ PR #44 was independently merged while checks were running. That merge is not rel
 4. Measure US App Store activity/game queries using the worksheet; unknown demand remains unknown.
 5. Review privacy, advertising declarations, age rating, language availability and disease positioning before manual submission.
 
-Design follow-ups: the legacy library game still flips mismatched tiles back after a delay and hides hints after one second (`GameCubit`); move both to the next deliberate tap with tests. Its share link points to Google Play on every platform. Define and verify dark-mode tokens before shipping a dark theme.
+Design follow-ups: set `appStoreUrl` in `lib/shared/utils/share_util.dart` once the App Store listing exists (Apple devices are told to search by name until then). The app is light-only by decision; do not add a dark theme.
 
 ## Deferred
 
