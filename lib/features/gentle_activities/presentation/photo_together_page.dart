@@ -50,6 +50,13 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
 
   void _showPicture() {
     if (_scroll.hasClients) _scroll.jumpTo(0);
+    // The note above the picture is inserted in the next layout, which can
+    // apply a scroll-offset correction; return to the top once more after it.
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (mounted && _scroll.hasClients && _scroll.offset != 0) {
+        _scroll.jumpTo(0);
+      }
+    });
   }
 
   static const _prompts = [
@@ -94,9 +101,10 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
       ];
       _index = math.min(_index, math.max(0, _pictures.length - 1));
       _status = save == null
-          ? 'This picture is hidden for now.'
-          : 'This picture is hidden. You can show it again from Your '
-                'family photos.';
+          // Short, so it never pushes the picture out of sight at
+          // large text; it sits directly above the next picture.
+          ? 'Hidden for this visit.'
+          : 'Hidden. You can show it again in Your family photos.';
     });
     if (saved) _showPicture();
   }

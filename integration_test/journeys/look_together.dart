@@ -49,7 +49,7 @@ Future<void> lookTogetherIncluded(
 
   // Hiding an included picture lasts for this visit only.
   await tapOn(tester, _hide);
-  await waitFor(tester, find.text('This picture is hidden for now.'));
+  await waitFor(tester, find.text('Hidden for this visit.'));
   // The view returns to the next picture, with the note above it.
   expect(find.bySemanticsLabel('Flower'), findsNothing);
   expect(find.bySemanticsLabel('Cup'), findsOneWidget);

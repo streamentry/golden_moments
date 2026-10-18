@@ -139,9 +139,9 @@ void main() {
     await _tap(tester, 'Next');
     await _tap(tester, 'Hide this picture');
     expect(find.text('Picture 2 of 2'), findsOneWidget);
-    expect(find.text('This picture is hidden for now.'), findsOneWidget);
+    expect(find.text('Hidden for this visit.'), findsOneWidget);
     await tester.pump(const Duration(minutes: 5));
-    expect(find.text('This picture is hidden for now.'), findsOneWidget);
+    expect(find.text('Hidden for this visit.'), findsOneWidget);
     expect(find.bySemanticsLabel('Boat'), findsNothing);
   });
 
@@ -260,10 +260,7 @@ void main() {
     await tester.pumpAndSettle();
     expect(inView('Tea'), isTrue);
     // The confirmation is where the eye lands too.
-    expect(
-      find.text('This picture is hidden for now.').hitTestable(),
-      findsOneWidget,
-    );
+    expect(find.text('Hidden for this visit.').hitTestable(), findsOneWidget);
   });
 
   testWidgets('Done for now leaves at once', (tester) async {

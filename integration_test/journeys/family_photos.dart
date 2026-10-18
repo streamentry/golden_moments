@@ -100,10 +100,7 @@ Future<void> familyPhotosInstalledCollection(WidgetTester tester) async {
   await tapOn(tester, find.text('Hide this picture'));
   await waitFor(
     tester,
-    find.text(
-      'This picture is hidden. You can show it again from Your family '
-      'photos.',
-    ),
+    find.text('Hidden. You can show it again in Your family photos.'),
   );
   expect(find.text('Picture 2 of 2'), findsOneWidget);
   expect(find.bySemanticsLabel('Family photo 2'), findsNothing);
