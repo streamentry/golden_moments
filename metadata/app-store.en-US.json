@@ -1,7 +1,7 @@
 {
   "locale": "en-US",
   "market": "US",
-  "candidate_version": "1.3.0+5",
+  "candidate_version": "1.3.0+6",
   "name": "Dementia Games: Golden Moments",
   "subtitle": "Alzheimer's Photo Activities",
   "keywords": "memory,senior,matching,caregiver,reminiscence,family,offline,relaxing,large,tiles,nostalgia",
@@ -26,8 +26,8 @@
         "gentle_matching"
       ],
       "files": {
-        "iphone": null,
-        "ipad": null
+        "iphone": "assets/screenshots/en-US/iphone/01.jpg",
+        "ipad": "assets/screenshots/en-US/ipad/01.jpg"
       }
     },
     {
@@ -40,8 +40,8 @@
         "gentle_matching"
       ],
       "files": {
-        "iphone": null,
-        "ipad": null
+        "iphone": "assets/screenshots/en-US/iphone/02.jpg",
+        "ipad": "assets/screenshots/en-US/ipad/02.jpg"
       }
     },
     {
@@ -53,22 +53,22 @@
         "gentle_matching"
       ],
       "files": {
-        "iphone": null,
-        "ipad": null
+        "iphone": "assets/screenshots/en-US/iphone/03.jpg",
+        "ipad": "assets/screenshots/en-US/ipad/03.jpg"
       }
     },
     {
       "order": 4,
-      "headline": "Big Tiles. Easy Taps.",
+      "headline": "Big Pictures. Easy Taps.",
       "supporting_text": "A clear layout for simple play.",
-      "capture": "Real readable four-tile board and controls.",
+      "capture": "Real large-picture viewer with synthetic demonstration content, not invented UI.",
       "requires": [
         "accessible_layout",
-        "gentle_matching"
+        "photo_viewer"
       ],
       "files": {
-        "iphone": null,
-        "ipad": null
+        "iphone": "assets/screenshots/en-US/iphone/04.jpg",
+        "ipad": "assets/screenshots/en-US/ipad/04.jpg"
       }
     },
     {
@@ -80,27 +80,26 @@
         "gentle_matching"
       ],
       "files": {
-        "iphone": null,
-        "ipad": null
+        "iphone": "assets/screenshots/en-US/iphone/05.jpg",
+        "ipad": "assets/screenshots/en-US/ipad/05.jpg"
       }
     },
     {
       "order": 6,
-      "headline": "Ready Without Wi-Fi",
-      "supporting_text": "Starter games and imported photos work offline.",
-      "capture": "Airplane-mode starter/imported activity. Do not imply offline remote downloads.",
+      "headline": "Eight Included Picture Packs",
+      "supporting_text": "Open the picture library and choose a pack.",
+      "capture": "Actual included picture-pack library; no remote download or airplane-mode simulation.",
       "requires": [
-        "offline_starter",
-        "family_photos"
+        "bundled_catalog"
       ],
       "files": {
-        "iphone": null,
-        "ipad": null
+        "iphone": "assets/screenshots/en-US/iphone/06.jpg",
+        "ipad": "assets/screenshots/en-US/ipad/06.jpg"
       }
     }
   ],
   "marketing_url": "https://streamentry.github.io/golden-moments-web/",
   "support_url": "https://streamentry.github.io/golden-moments-web/help/",
-  "privacy_policy_url": "https://streamentry.github.io/golden-moments-web/privacy/",
+  "privacy_policy_url": "https://streamentry.github.io/golden-moments-web/app-privacy/",
   "terms_url": "https://streamentry.github.io/golden-moments-web/terms/"
 }

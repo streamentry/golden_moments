@@ -77,3 +77,24 @@ App Store Connect version 1.3.0 was created and US-English name/subtitle plus de
 ## Legal and app-review disclosure work
 
 The website privacy/terms/deletion/safety documentation is prepared in `streamentry/golden-moments-web` PR #2, awaiting CI and qualified legal/privacy review before publication. This app PR adds a privacy, terms, safety and support entry accessible from the home guide and legacy settings with an offline-readable summary. **Do not mark legally cleared or App Review-ready.** Public paths are contingent on website PR deployment. Check final iOS/Android SDK manifests, traffic, permissions, Apple privacy nutrition labels, public support mailbox and required DPO details, existing medical claims, and actual device link behavior. The website publishes under a GitHub Pages project prefix. Apple Standard EULA remains the default, not an unreviewed custom EULA.
+
+## iOS review candidate 1.3.0 build 6 (2026-10-19)
+
+Prepared from `c3fcd03` plus the annotation-save busy-state regression fix. The
+actual candidate passes 189 Flutter tests, strict analysis and 56 Python tests.
+The signed Firebase-free IPA validates with Apple and processes as VALID.
+Separate native iPhone/iPad iOS18.5 sessions imported the two synthetic demo
+photos through the real picker and exercised matching, viewing, comfort controls
+and the included library. Twelve genuine store screenshots, originals, generation
+prompts and hashes are committed under `assets/screenshots/en-US/`; all twelve
+Apple asset deliveries completed and checksums/order were read back.
+
+The owner requested review submission and US-English fallback; 17 obsolete draft
+localizations were removed after a protected backup. The published1.0 translations
+were retained. Public release is MANUAL. Review submission does not certify the
+pending physical-device, upgrade, accessibility, caregiver, legal or inherited
+asset-rights gates. The release validator remains fail-closed. See
+[build6 evidence](docs/release/app-store-1.3.0-build6.md) for exact limits and store state.
+
+Apple readback confirmed build6 **WAITING_FOR_REVIEW** at2026-10-18T17:44:55Z;
+public release remains MANUAL. This is submitted, not approved or published.

@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 
 /// Matches `version:` in pubspec.yaml; a test keeps the two in step.
-const String appVersion = '1.3.0+5';
+const String appVersion = '1.3.0+6';
 
 /// The public help page already declared as `support_url` in the canonical
 /// store metadata (a test keeps the two identical). It is shown as text to

@@ -1,15 +1,15 @@
 # US screenshot specification
 
-Canonical text and feature requirements: `metadata/app-store.en-US.json`. Final image paths remain unset until real captures exist. The previous ASO HTML brief is not a store screenshot.
+Canonical text and feature requirements: `metadata/app-store.en-US.json`. Final build6 iPhone and iPad files, originals and hashes are in `assets/screenshots/en-US/`; canonical metadata records all 12 final paths.
 
 | Order | Headline | Supporting text | Proof |
 | --- | --- | --- | --- |
 | 1 | Simple Dementia Activities | Gentle photo games to enjoy together. | Real gentle activity; four tiles; no clinical framing |
 | 2 | Play With Your Family Photos | Choose photos already on your device. | Real import and game using consented/licensed demo images |
 | 3 | No Timers. No Rush. | Enjoy each gentle game at your own pace. | Gentle mode, not a legacy screen with performance indicators |
-| 4 | Big Tiles. Easy Taps. | A clear layout for simple play. | The actual board with its large tiles and the always-visible Done for now / Start again buttons |
+| 4 | Big Pictures. Easy Taps. | A clear layout for simple play. | Real shared photo viewer with synthetic demonstration content |
 | 5 | Choose Your Comfort Level | Adjust the number of tiles. | The actual Comfort settings sheet (tune icon on Home or in the activity) showing the 4/6/8/12 choices; the board itself no longer shows these controls |
-| 6 | Ready Without Wi-Fi | Starter games and imported photos work offline. | Airplane-mode verification, not remote downloads |
+| 6 | Eight Included Picture Packs | Open the picture library and choose a pack. | Actual included library; this screenshot makes no airplane-mode verification claim |
 
 ## Rules
 
@@ -23,7 +23,7 @@ UI dominates; one message per frame. Do not use invented interfaces, medical bad
 4. Add restrained text without hiding functionality. Keep originals.
 5. Set final file paths in metadata and device/build evidence in release status; run `--release`.
 
-Source implementation alone does not prove native import works. Do not submit frame 2 until native picker verification passes. No final screenshots are supplied in this code change.
+Source implementation alone does not prove native import works. Do not submit frame 2 until native picker verification passes. The build6 native picker and actual imported-photo activity passed on both iOS18.5 simulator sizes; physical-device and failure-path QA remain pending. See [capture evidence](../../assets/screenshots/en-US/README.md).
 
 ## Test
 

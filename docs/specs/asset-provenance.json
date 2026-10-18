@@ -98,6 +98,17 @@
         "license or permission",
         "review date"
       ]
+    },
+    {
+      "id": "app-store-screenshots-1.3.0",
+      "paths": [
+        "assets/screenshots/en-US/"
+      ],
+      "rights_status": "unreviewed",
+      "recorded": "Build6 native captures with synthetic teacup/flowers and built-in image_gen background. PROMPTS.md and manifest.json record generation, composition and file hashes. No private family photos. Marketing assets only; not listed in pubspec.yaml and not bundled in the app.",
+      "missing": [
+        "Publisher rights sign-off for the app UI and inherited catalog/font artwork appearing inside captures; see the existing catalog-images, font-roboto and icon groups."
+      ]
     }
   ]
 }
