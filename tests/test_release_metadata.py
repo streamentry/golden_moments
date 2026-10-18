@@ -44,6 +44,9 @@ class MetadataTests(unittest.TestCase):
         self.assertTrue(any('unknown feature' in e for e in module.validate(self.data, self.status)))
 
     def test_release_cannot_pass_pending_evidence(self):
+        # Exercise a missing capture explicitly, even when the real listing
+        # already has all of its screenshot files.
+        self.data['screenshots'][0]['files']['iphone'] = None
         errors = module.validate(self.data, self.status, release=True)
         self.assertTrue(any('not verified' in e for e in errors))
         self.assertTrue(any('not evidenced' in e for e in errors))
