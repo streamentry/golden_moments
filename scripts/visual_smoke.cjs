@@ -12,6 +12,9 @@ const errors = [];
 const externalRequests = [];
 // Hidden tiles are announced by position only (GM-014): 'Hidden picture, tile 3'.
 const HIDDEN = /^Hidden picture, tile \d+/;
+// A pack card is one button whose name ends with its Play cue; suggestions
+// carry no 'Daily' badge any more.
+const PACK = /\bPlay$/;
 // A shown tile is '<picture>, tile N'; compare pictures without the position.
 const picture = name => name.replace(/, tile \d+.*$/, '');
 let browser;
@@ -51,7 +54,7 @@ async function eventually(read, expected) {
   await page.goto(baseUrl);
   await page.locator('flt-semantics-placeholder').evaluate(el => el.click());
   await page.getByRole('heading', { name: 'Golden Moments', exact: true }).waitFor();
-  await page.getByRole('button', { name: /^Daily / }).first().waitFor();
+  await page.getByRole('button', { name: PACK }).first().waitFor();
   await check('fresh install has every catalog image bundled locally', async () => {
     const index = await (await context.request.get(`${baseUrl}/assets/assets/data/packs_index.json`)).json();
     function paths(value) {
@@ -83,7 +86,8 @@ async function eventually(read, expected) {
   await page.setViewportSize({ width: 390, height: 844 });
   await check('settings toggles and saves', async () => {
     await page.getByRole('button', { name: 'Settings', exact: true }).click();
-    const toggle = page.getByRole('switch').first();
+    // Packs carry their own Favorite switches; target the setting by name.
+    const toggle = page.getByRole('switch', { name: /^Music/ });
     await toggle.waitFor();
     const before = await toggle.getAttribute('aria-checked');
     await toggle.click();
@@ -91,14 +95,14 @@ async function eventually(read, expected) {
     await shot('settings-mobile');
     await page.getByRole('button', { name: 'Save', exact: true }).first().click();
     await page.getByRole('button', { name: 'Settings', exact: true }).click();
-    assert.notEqual(await page.getByRole('switch').first().getAttribute('aria-checked'), before);
+    assert.notEqual(await page.getByRole('switch', { name: /^Music/ }).getAttribute('aria-checked'), before);
     await page.getByRole('button', { name: 'Save', exact: true }).first().click();
   });
   await check('catalog has no download steps', async () => {
     assert.equal(await page.getByRole('button', { name: /Download/ }).count(), 0);
   });
   await check('bundled pack opens a playable game', async () => {
-    await page.getByRole('button', { name: /^Daily / }).first().click();
+    await page.getByRole('button', { name: PACK }).first().click();
     await page.getByRole('button', { name: HIDDEN }).first().waitFor();
     assert.equal(await page.getByText('This pack could not open', { exact: true }).count(), 0);
     await shot('game-mobile');
@@ -144,7 +148,7 @@ async function eventually(read, expected) {
   });
   await check('full game completes and can be played again', async () => {
     await page.getByRole('button', { name: /^Animals Cute/ }).click();
-    await page.getByRole('button', { name: /Farm Animals/ }).click();
+    await page.getByRole('button', { name: /^Farm Animals.*Play$/ }).click();
     await page.getByRole('button', { name: HIDDEN }).first().waitFor();
     const tiles = page.getByRole('group').getByRole('button');
     const count = await tiles.count();
@@ -189,6 +193,33 @@ async function eventually(read, expected) {
     await page.getByRole('button', { name: 'Play again', exact: true }).first().click();
     await page.getByRole('button', { name: HIDDEN }).first().waitFor();
     await shot('play-again');
+  });
+  await check('Not for me hides a pack until Show again', async () => {
+    await page.goto(baseUrl);
+    await page.locator('flt-semantics-placeholder').evaluate(el => el.click());
+    await page.getByRole('heading', { name: 'Golden Moments', exact: true }).waitFor();
+    const card = page.getByRole('button', { name: /^Mountain Views.*Play$/ });
+    await card.first().waitFor();
+    await page.getByRole('button', { name: 'Not for me, hide Mountain Views', exact: true }).click();
+    await page.getByText(/Mountain Views is hidden/).first().waitFor();
+    await eventually(() => card.count(), 0);
+    await shot('pack-hidden');
+    // The choice is kept locally across a reload, then undone.
+    await page.goto(baseUrl);
+    await page.locator('flt-semantics-placeholder').evaluate(el => el.click());
+    await page.getByRole('heading', { name: 'Golden Moments', exact: true }).waitFor();
+    await page.getByRole('button', { name: /^Farm Animals.*Play$/ }).first().waitFor();
+    assert.equal(await card.count(), 0);
+    // Hidden packs sit at the end of the library; scroll like a person would.
+    const showAgain = page.getByRole('button', { name: 'Show Mountain Views again', exact: true });
+    for (let i = 0; i < 40 && await showAgain.count() === 0; i++) {
+      await page.mouse.move(195, 600);
+      await page.mouse.wheel(0, 500);
+      await page.waitForTimeout(150);
+    }
+    await shot('hidden-packs');
+    await showAgain.first().click();
+    await card.first().waitFor();
   });
   assert.deepEqual(errors, [], 'Unhandled browser errors');
   assert.deepEqual(externalRequests, [], 'External requests from bundled app');

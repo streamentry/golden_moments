@@ -52,7 +52,9 @@ class PackCard extends StatelessWidget {
                     ),
                   );
                 },
-            child: _buildLayout(theme),
+            // One labelled button for a screen reader: the role annotates
+            // the tappable surface's own node (GM-014).
+            child: Semantics(button: true, child: _buildLayout(theme)),
           ),
           if (_hasActions) _buildActions(theme),
         ],

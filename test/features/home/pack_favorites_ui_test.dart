@@ -64,6 +64,21 @@ Future<void> _tapFinder(WidgetTester tester, Finder target) async {
 void main() {
   setUp(() => SharedPreferences.setMockInitialValues({}));
 
+  testWidgets('a pack card is one button for a screen reader (GM-014)', (
+    tester,
+  ) async {
+    final handle = tester.ensureSemantics();
+    await _pumpHome(tester);
+    final cards = find.semantics.byPredicate(
+      (node) =>
+          node.flagsCollection.isButton &&
+          node.label.startsWith('Farm Animals') &&
+          node.getSemanticsData().hasAction(SemanticsAction.tap),
+    );
+    expect(cards, findsOne);
+    handle.dispose();
+  });
+
   testWidgets('suggestions are labelled honestly and start nothing', (
     tester,
   ) async {
