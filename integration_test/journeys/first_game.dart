@@ -58,6 +58,8 @@ Future<void> firstGentleGame(
 
   await matchAllVisiblePairs(tester);
   await waitFor(tester, gentleAllTogether);
+  // The closing words are in view above the buttons, even at 200% text.
+  expectHittable(tester, find.text('Play again or take a break.'));
   expect(buttonWithLabel<FilledButton>(playAgain), findsOneWidget);
   expect(buttonWithLabel<OutlinedButton>(doneForNow), findsOneWidget);
   expectHittable(tester, playAgain);
