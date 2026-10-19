@@ -339,9 +339,10 @@ void main() {
     expect(border.top.color, Colors.transparent);
   });
 
-  testWidgets('at 200% the closing words fit above a bar that also holds a '
-      'share suggestion', (tester) async {
-    // The third finished game brings a quiet suggestion into the bar.
+  testWidgets('a share suggestion arriving after the finish never hides '
+      '"All pairs together."', (tester) async {
+    // The third finished game brings a quiet suggestion into the bar,
+    // leaving room at 200% for only part of the finish.
     SharedPreferences.setMockInitialValues({'share_completed_games': 2});
     await _size(tester, const Size(390, 844));
     await tester.pumpWidget(
@@ -353,18 +354,83 @@ void main() {
     await tester.pumpAndSettle();
     await _finishBoard(tester);
     expect(
-      find.text('Enjoying these pictures together?', findRichText: true),
-      findsNothing,
-    );
-    expect(
       find.textContaining('Another family might enjoy them too'),
       findsOneWidget,
     );
-    final words = tester.getRect(find.text('Play again or take a break.'));
+    final heading = tester.getRect(find.text('All pairs together.'));
     expect(
-      words.bottom,
+      heading.top,
+      greaterThanOrEqualTo(tester.getRect(find.byType(AppBar)).bottom - 0.5),
+    );
+    expect(
+      heading.bottom,
       lessThanOrEqualTo(tester.getRect(find.byType(GmBottomBar)).top + 0.5),
     );
+  });
+
+  testWidgets('in landscape the finish keeps "All pairs together." in view', (
+    tester,
+  ) async {
+    await _size(tester, const Size(844, 390));
+    await tester.pumpWidget(
+      _app(const GentleGamePage(pictures: ActivityPicture.samples)),
+    );
+    await tester.pumpAndSettle();
+    await _finishBoard(tester);
+    final heading = tester.getRect(find.text('All pairs together.'));
+    expect(
+      heading.top,
+      greaterThanOrEqualTo(tester.getRect(find.byType(AppBar)).bottom - 0.5),
+    );
+    expect(
+      heading.bottom,
+      lessThanOrEqualTo(tester.getRect(find.byType(GmBottomBar)).top + 0.5),
+    );
+  });
+
+  testWidgets('when the whole finish cannot fit, "All pairs together." is '
+      'what stays in view', (tester) async {
+    // A small phone at 200%: the heading and the closing words need more
+    // than the space between the bars. The closing words only repeat what
+    // the buttons below offer, so the heading wins.
+    await _size(tester, const Size(320, 568));
+    await tester.pumpWidget(
+      _app(
+        const GentleGamePage(pictures: ActivityPicture.samples),
+        textScale: 2,
+      ),
+    );
+    await tester.pumpAndSettle();
+    await _finishBoard(tester);
+    final heading = tester.getRect(find.text('All pairs together.'));
+    expect(
+      heading.top,
+      greaterThanOrEqualTo(tester.getRect(find.byType(AppBar)).bottom - 0.5),
+    );
+    expect(
+      heading.bottom,
+      lessThanOrEqualTo(tester.getRect(find.byType(GmBottomBar)).top + 0.5),
+    );
+  });
+
+  testWidgets('a board that scrolls is centred like one that fits', (
+    tester,
+  ) async {
+    await _size(tester, const Size(320, 568));
+    await tester.pumpWidget(
+      _app(
+        const GentleGamePage(pictures: ActivityPicture.samples),
+        textScale: 2,
+      ),
+    );
+    await tester.pumpAndSettle();
+    final tiles = find.bySemanticsLabel(RegExp(r', tile \d+$'));
+    var board = Rect.zero;
+    for (var i = 0; i < tiles.evaluate().length; i++) {
+      final r = tester.getRect(tiles.at(i));
+      board = i == 0 ? r : board.expandToInclude(r);
+    }
+    expect(board.center.dx, closeTo(160, 1));
   });
 
   testWidgets('with Reduce Motion the finish is shown without an animated '
