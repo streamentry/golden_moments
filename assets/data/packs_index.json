@@ -7,35 +7,35 @@
       "id": "animals",
       "name": "Animals",
       "description": "Cute and friendly animals from around the world",
-      "iconUrl": "assets/images/catalog/24c28cf9fd7d826b4863ed6a.jpg",
+      "iconUrl": "assets/images/catalog/70aea05458ba8301e5bfd09f.jpg",
       "packCount": 2
     },
     {
       "id": "nature",
       "name": "Nature",
       "description": "Beautiful landscapes and natural scenes",
-      "iconUrl": "assets/images/catalog/a7cdfc99c95d7f036ab29f2a.jpg",
+      "iconUrl": "assets/images/catalog/009e266ad24a2e670a2c2590.jpg",
       "packCount": 2
     },
     {
       "id": "food",
       "name": "Food",
       "description": "Delicious meals and treats",
-      "iconUrl": "assets/images/catalog/f338249d45e5e41776227649.jpg",
+      "iconUrl": "assets/images/catalog/3e96a6acbc12d1de52ae6f0c.jpg",
       "packCount": 2
     },
     {
       "id": "vintage",
       "name": "Cars",
       "description": "Cars and trucks to look at and talk about",
-      "iconUrl": "assets/images/catalog/e41dbac24f6286e87ae65fd8.jpg",
+      "iconUrl": "assets/images/catalog/695011f0cfc18e14421f6a09.jpg",
       "packCount": 1
     },
     {
       "id": "flowers",
       "name": "Flowers",
       "description": "Beautiful blooms and garden scenes",
-      "iconUrl": "assets/images/catalog/51523d88095d529ab87921c3.jpg",
+      "iconUrl": "assets/images/catalog/8075346c77d575b14fb529df.jpg",
       "packCount": 1
     }
   ],
@@ -65,7 +65,7 @@
         "countryside",
         "medium"
       ],
-      "thumbnailUrl": "assets/images/catalog/06a40b1b2feb3de6bf633682.jpg",
+      "thumbnailUrl": "assets/images/catalog/56762375a9ad760df2efe7f9.jpg",
       "previewImages": [
         "assets/images/catalog/400afe02904aadeaada761f3.jpg",
         "assets/images/catalog/15e1ea24db2d17764604ea0d.jpg",
@@ -135,7 +135,7 @@
         "scenic",
         "easy"
       ],
-      "thumbnailUrl": "assets/images/catalog/b531df473b19080f629c894a.jpg",
+      "thumbnailUrl": "assets/images/catalog/089108234c2997ad615d2714.jpg",
       "previewImages": [
         "assets/images/catalog/5fd827069574985a256260b9.jpg",
         "assets/images/catalog/4f4a0cc7831f952adfb508b7.jpg",
@@ -193,7 +193,7 @@
         "trucks",
         "automotive"
       ],
-      "thumbnailUrl": "assets/images/catalog/9817468bddffe6d1a96bd519.jpg",
+      "thumbnailUrl": "assets/images/catalog/738e7b5a9509fd77d6c77ed7.jpg",
       "previewImages": [
         "assets/images/catalog/a4c118ae738da49923260cd4.jpg",
         "assets/images/catalog/4ea2d65203c3b3e2bb127c27.jpg",
@@ -272,7 +272,7 @@
         "wildlife",
         "africa"
       ],
-      "thumbnailUrl": "assets/images/catalog/12260736e504684f17f6fbc5.jpg",
+      "thumbnailUrl": "assets/images/catalog/78ae515ae0b6353543d80eb2.jpg",
       "previewImages": [
         "assets/images/catalog/55474e0ecb2d4de2876b6015.jpg",
         "assets/images/catalog/dff45c351c3001a159c0ac27.jpg",
@@ -381,7 +381,7 @@
         "homemade",
         "easy"
       ],
-      "thumbnailUrl": "assets/images/catalog/8156b03b2e98446b3bdef3c8.jpg",
+      "thumbnailUrl": "assets/images/catalog/f8c1c0f7b84a7b3bdb047982.jpg",
       "previewImages": [
         "assets/images/catalog/82e8f9f8d0dfa3a90df31f29.jpg",
         "assets/images/catalog/8c18e821011cc3f38af7d7d2.jpg",
@@ -440,7 +440,7 @@
         "blossoms",
         "hard"
       ],
-      "thumbnailUrl": "assets/images/catalog/6448e3554bb46a4135ceb6e6.jpg",
+      "thumbnailUrl": "assets/images/catalog/4bfa63c385b132cf411f8792.jpg",
       "previewImages": [
         "assets/images/catalog/0e4b949f2c9e45edf9ad2316.jpg",
         "assets/images/catalog/bee2bb605b8e4b4f942b7980.jpg",
@@ -520,7 +520,7 @@
         "global",
         "hard"
       ],
-      "thumbnailUrl": "assets/images/catalog/6dd650dd1f6669b3191015c6.jpg",
+      "thumbnailUrl": "assets/images/catalog/36dab8fe00a4622d415a4001.jpg",
       "previewImages": [
         "assets/images/catalog/bb0b12aa799c9e717dcc2047.jpg",
         "assets/images/catalog/09bb303137b2e396125c4c04.jpg",
@@ -600,7 +600,7 @@
         "landscapes",
         "hard"
       ],
-      "thumbnailUrl": "assets/images/catalog/48679e547ce4d8b4411becc4.jpg",
+      "thumbnailUrl": "assets/images/catalog/b63b4182e9f1c70ec2d590e4.jpg",
       "previewImages": [
         "assets/images/catalog/7f66f351681ffaf37a0b4b4d.jpg",
         "assets/images/catalog/12790a47cea195ec900852b7.jpg",

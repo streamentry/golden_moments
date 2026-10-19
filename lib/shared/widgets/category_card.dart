@@ -3,6 +3,7 @@ import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/pack/presentation/screens/pack_page.dart';
 import 'package:golden_moments/shared/widgets/download_progress_card.dart';
+import 'package:golden_moments/shared/widgets/gm_mounted_picture.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
 
 /// Card widget for displaying a game pack
@@ -57,53 +58,11 @@ class CategoryCard extends StatelessWidget {
   Widget _buildLayout(ThemeData theme) {
     // A minimum height, not a fixed one, so the text can wrap at 200%.
     return ConstrainedBox(
-      constraints: const BoxConstraints(minHeight: 100),
+      constraints: const BoxConstraints(minHeight: 96 + gmSpaceSm * 2),
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          // Image placeholder
-          Container(
-            width: 100,
-            height: 100,
-            color: gmSurf200,
-            child: Stack(
-              children: [
-                Center(
-                  child: Image.asset(
-                    category.iconUrl,
-                    errorBuilder: (context, error, stackTrace) => Icon(
-                      Icons.photo_outlined,
-                      size: 40,
-                      color: theme.colorScheme.onSurfaceVariant,
-                    ),
-                    fit: BoxFit.cover,
-                    width: 100,
-                    height: 100,
-                    // Decorative: the name and description are read instead.
-                    excludeFromSemantics: true,
-                  ),
-                ),
-                // Completion indicator
-                // if (category.isCompleted)
-                //   Positioned(
-                //     top: gmSpaceSm,
-                //     right: gmSpaceSm,
-                //     child: Container(
-                //       padding: const EdgeInsets.all(2),
-                //       decoration: BoxDecoration(
-                //         color: theme.colorScheme.primary,
-                //         shape: BoxShape.circle,
-                //       ),
-                //       child: Icon(
-                //         Icons.check,
-                //         size: 12,
-                //         color: theme.colorScheme.onPrimary,
-                //       ),
-                //     ),
-                //   ),
-              ],
-            ),
-          ),
+          GmMountedPicture(asset: category.iconUrl, width: 96),
           // Content
           Expanded(
             child: Padding(
