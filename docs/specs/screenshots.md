@@ -19,8 +19,8 @@ UI dominates; one message per frame. Do not use invented interfaces, medical bad
 
 1. Build the exact candidate and record its commit.
 2. Use a clean test installation and appropriate demo content.
-3. Capture with `sh scripts/capture_ios_screenshot.sh <01-06> <iphone|ipad> <simulator-id>` or device-native tooling. The helper captures only the existing screen; it does not navigate or render mock UI.
-4. Add restrained text without hiding functionality. Keep originals.
+3. Capture with `sh scripts/capture_store_screens.sh <iphone|ipad> <simulator-id>`. It runs `integration_test/store_screens_test.dart`, which drives the real app to each frame and pauses while the script saves the simulator screen. Alternatively, use `sh scripts/capture_ios_screenshot.sh <01-06> <iphone|ipad> <simulator-id>` on a screen you reached by hand, which is needed to show the real photo picker. Neither tool renders mock UI.
+4. Place the captures in the approved frames with `python3 scripts/compose_store_screens.py <iphone|ipad>`; it changes only the screen inside the bezel. Keep originals.
 5. Set final file paths in metadata and device/build evidence in release status; run `--release`.
 
 Source implementation alone does not prove native import works. Do not submit frame 2 until native picker verification passes. The build 6 native picker and actual imported-photo activity passed on both iOS 18.5 simulator sizes; physical-device and failure-path QA remain pending. See [capture evidence](../../assets/screenshots/en-US/README.md).

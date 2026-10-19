@@ -426,8 +426,14 @@
         ]
       },
       "GM-033": {
-        "status": "not_started",
-        "scope": "Genuine screenshots of the final build and the five-caregiver comprehension test have not been done."
+        "status": "partial",
+        "scope": "Store screenshots were recaptured from the current app (main at fce00d7) on the iOS 26.5 iPhone 17 Pro Max and iPad Pro 13-inch simulators and placed in the approved frames; manifest.json records tools, hashes and how the demo photos entered the app (native picker on iPhone; the app's own import steps via integration_test/store_screens_test.dart on iPad). Not done: captures from the final signed release build, physical-device captures, and the five-caregiver comprehension test.",
+        "evidence": [
+          "assets/screenshots/en-US/manifest.json",
+          "integration_test/store_screens_test.dart",
+          "scripts/capture_store_screens.sh",
+          "scripts/compose_store_screens.py"
+        ]
       },
       "GM-034": {
         "status": "implemented_unverified",
