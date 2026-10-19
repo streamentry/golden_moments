@@ -445,6 +445,88 @@ void main() {
     expect(ids!.length, 2);
   });
 
+  testWidgets("a damaged photo list can be set aside, at the person's "
+      'request, to show the copies that can be checked', (tester) async {
+    await tester.binding.setSurfaceSize(const Size(480, 1600));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    final importer = _FakeImporter([
+      [1, 2],
+    ]);
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    await _tapText(tester, 'Choose photos');
+    final list = File('${directory.path}/collection.json');
+    await tester.runAsync(() => list.writeAsString('{"version": 1, "pho'));
+    await tester.pumpWidget(const SizedBox());
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+
+    // Said plainly, nothing changed yet, and nothing happens on its own.
+    expect(
+      find.text(
+        'The list of your photos could not be read. Your original photos '
+        'have not been changed.',
+      ),
+      findsOneWidget,
+    );
+    final recover = find.widgetWithText(
+      OutlinedButton,
+      'Show the photos that can be checked',
+    );
+    expect(recover, findsOneWidget);
+    expect(await tester.runAsync(list.readAsString), '{"version": 1, "pho');
+
+    // Not now keeps everything as it was.
+    await _tapText(tester, 'Show the photos that can be checked');
+    expect(find.text('Show the photos that can be checked?'), findsOneWidget);
+    expect(find.textContaining('Nothing is deleted'), findsOneWidget);
+    await _tapText(tester, 'Not now');
+    expect(await tester.runAsync(list.readAsString), '{"version": 1, "pho');
+
+    await _tapText(tester, 'Show the photos that can be checked');
+    await _tapText(
+      tester,
+      'Show the photos',
+      until: () => _shows(find.text('2 of 24 photos')),
+    );
+    expect(find.text('Play with these photos'), findsOneWidget);
+    expect(recover, findsNothing);
+    final kept = await tester.runAsync(
+      () async => [
+        for (final entry in directory.listSync())
+          if (entry.uri.pathSegments.last.startsWith('collection.damaged-'))
+            await File(entry.path).readAsString(),
+      ],
+    );
+    expect(kept, ['{"version": 1, "pho']);
+    expect(tester.takeException(), isNull);
+  });
+
+  testWidgets('a list from a newer app version asks for an update and offers '
+      'no change', (tester) async {
+    await tester.runAsync(
+      () =>
+          File('${directory.path}/collection.json')
+              .writeAsString('{"version": 2, "photos": []}'),
+    );
+    await tester.pumpWidget(_app(directory, _FakeImporter([])));
+    await _settle(tester);
+    expect(
+      find.text(
+        'These photos were saved by a newer version of Golden Moments. '
+        'Update the app to see them. Nothing has been changed.',
+      ),
+      findsOneWidget,
+    );
+    expect(find.text('Show the photos that can be checked'), findsNothing);
+    expect(
+      await tester.runAsync(
+        () => File('${directory.path}/collection.json').readAsString(),
+      ),
+      '{"version": 2, "photos": []}',
+    );
+  });
+
   testWidgets('a damaged annotations file never hides the photos', (
     tester,
   ) async {
