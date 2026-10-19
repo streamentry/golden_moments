@@ -7,13 +7,15 @@
  "ios_runtime": "26.5 simulator",
  "devices": {
   "iphone": "iPhone17ProMax,1320x2868",
-  "ipad": "iPadPro13-inchM5,2064x2752"
+  "ipad": "iPadPro13-inchM5,2064x2752",
+  "android": "Pixel 7 emulator (Android 16, google_apis arm64), 1080x2400; Play frames 1440x2560"
  },
  "capture_appearance": "Status bar set with simctl status_bar (9:41, Wi-Fi, full battery). Debug banner suppressed in capture only; release omits it by default. No app UI was synthesized or edited.",
  "composition": "scripts/compose_store_screens.py places each unchanged native capture inside the approved build 6 frame (generated backdrop, headline, supporting text, bezel), clipped to the bezel's rounded screen.",
  "synthetic_content": "Teacup and yellow flowers (art/); no private family photos or people. Placed by integration_test/store_screens_test.dart through the app's own normalize-and-store import steps on both devices. originals/iphone/native-picker.png (fce00d7) and originals/ipad/native-picker.png (build 6) are earlier proofs that the same demo photos go through the real system picker.",
  "capture_tools": [
-  "Both devices: scripts/capture_store_screens.sh with integration_test/store_screens_test.dart (status bar cleared and set with simctl status_bar before capture)"
+  "Both devices: scripts/capture_store_screens.sh with integration_test/store_screens_test.dart (status bar cleared and set with simctl status_bar before capture)",
+  "Google Play: scripts/capture_play_screens.sh with the same integration_test/store_screens_test.dart on the Android emulator (status bar set with System UI demo mode), then scripts/compose_play_screens.py builds the 9:16 frames from the same backdrop, copy and Roboto type"
  ],
  "files": [
   {
@@ -160,6 +162,66 @@
    "path": "assets/screenshots/en-US/originals/iphone/native-picker.png",
    "bytes": 3833702,
    "sha256": "99d1b59269f6216ac66bd2258b5cbd4833a7a5aaa701de6de6d01597e62624b7"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/android/01.png",
+   "bytes": 82857,
+   "sha256": "d8b1f70a49c7a2eac1769c40d1a879228cb7fd75cb0522fe25e5ee17d70ab8c2"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/android/02.png",
+   "bytes": 1390921,
+   "sha256": "3a47dc92c5cce2773beaf7767d80348eeb614a242952eaa5898b508d5d1bd2c5"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/android/03.png",
+   "bytes": 91478,
+   "sha256": "201582c5052023fe50cbfc2bf503791ded38e697698b6310027a468cf0b49060"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/android/04.png",
+   "bytes": 1224909,
+   "sha256": "47c9cc2fff3fcd14860be52cfc1d271823c4e3ce39857db35493f51431725e73"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/android/05.png",
+   "bytes": 154520,
+   "sha256": "564fb74a696ffafdaf22d41f36a5de7179a5ef117bbe5e2bc28631aae45b3d57"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/android/06.png",
+   "bytes": 1028547,
+   "sha256": "33af5edea85d15b100b21af9aa515c87ca2f775eb6db0a9c389fe3008a10cdbe"
+  },
+  {
+   "path": "assets/screenshots/en-US/android/01.jpg",
+   "bytes": 399873,
+   "sha256": "2aa69bce5ef86d9c0a0df81c6205950c09eb3fe5b406422c3c4ef43a72cb172b"
+  },
+  {
+   "path": "assets/screenshots/en-US/android/02.jpg",
+   "bytes": 518491,
+   "sha256": "8fa550a92c8488f8dbff0b772dee272290df8b13e9076e537d864ab4438f82a6"
+  },
+  {
+   "path": "assets/screenshots/en-US/android/03.jpg",
+   "bytes": 402565,
+   "sha256": "ff8f5afd201326df82ad00b3ad5a9e71aa2fbdc45782dfe649dc19cf8d64a0ea"
+  },
+  {
+   "path": "assets/screenshots/en-US/android/04.jpg",
+   "bytes": 489791,
+   "sha256": "a65cd7e7d45ca6675890159b167f47642953ca0121e208ed2b8d4ce3b6b7116d"
+  },
+  {
+   "path": "assets/screenshots/en-US/android/05.jpg",
+   "bytes": 426390,
+   "sha256": "ed7c6c7520d8ea183eb1472546fa558c14405a84f45341c8e08cb15b5849cb60"
+  },
+  {
+   "path": "assets/screenshots/en-US/android/06.jpg",
+   "bytes": 493346,
+   "sha256": "7b229ee4fdf8a5cbaf67e915b863216e3985375fa4974ff571bf9d010e9da496"
   }
  ],
  "runtime_source_sha256": {
