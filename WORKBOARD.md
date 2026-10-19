@@ -91,7 +91,7 @@ Detail pass (after #70): a review of 24 screen states at phone, 200% text and iP
 - Full-width sheet actions.
 - A Classic Cars cover and captions that show and name the pack's own cars.
 
-New journeys J8 (help and privacy offline, a note sent nowhere) and J9a/J9b (confirmations at 100% and 200%) bring the suite to 11 tests, all passing on the iPhone 17 Pro Max and iPad Pro 13-inch simulators (iOS 26.5). Widget tests: 374 pass, also in one isolate in random order, with 78.7% line coverage. The browser smoke passes 11 of 11. Simulators are not physical devices or screen-reader runs.
+New journeys J8 (help and privacy offline, a note sent nowhere) and J9a/J9b (confirmations at 100% and 200%) bring the suite to 11 tests, all passing on the iPhone 17 Pro Max and iPad Pro 13-inch simulators (iOS 26.5). The family-photos journey also caught Home throwing a negative-height layout error under a keyboard, now fixed with a regression test. Widget tests: 377 pass, also in one isolate in random order, with 78.7% line coverage. The browser smoke passes 11 of 11. Simulators are not physical devices or screen-reader runs.
 
 Findings for the maintainer, not decided here:
 - **Sound default:** installs that never touched the library sound switches now start quiet (stored choices are kept). Mention in release notes.
