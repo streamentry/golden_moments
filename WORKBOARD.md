@@ -93,11 +93,11 @@ Detail pass (after #70): a review of 24 screen states at phone, 200% text and iP
 
 New journeys J8 (help and privacy offline, a note sent nowhere) and J9a/J9b (confirmations at 100% and 200%) bring the suite to 11 tests, all passing on the iPhone 17 Pro Max and iPad Pro 13-inch simulators (iOS 26.5). The family-photos journey also caught Home throwing a negative-height layout error under a keyboard, now fixed with a regression test. Widget tests: 377 pass, also in one isolate in random order, with 78.7% line coverage. The browser smoke passes 11 of 11. Simulators are not physical devices or screen-reader runs.
 
-Findings for the maintainer, not decided here:
-- **Sound default:** installs that never touched the library sound switches now start quiet (stored choices are kept). Mention in release notes.
-- **App-level privacy manifest:** the iOS build carries plugin manifests but no app `PrivacyInfo.xcprivacy`; decide against Apple's current rules before submission.
-- **Corrupt photo manifest:** it surfaces an error and is never overwritten, but there is no in-app recovery flow yet; a "keep what can be verified" recovery is a product decision.
-- **Content:** the *Classic Cars* cover and first preview now show cars from the pack (they showed a light bulb), and its screen-reader captions describe the cars actually shown. The pack still contains modern cars under a "Classic"/"vintage" title and description; include that wording in the GM-025 rights and clarity review.
+Maintainer decisions, made on 2026-10-19 at the owner's request ("make the right decision"):
+- **Sound default:** keep library music and sounds off for installs that never chose; stored choices are kept. The release notes now say so.
+- **App-level privacy manifest:** added `ios/Runner/PrivacyInfo.xcprivacy`. It declares no tracking, no collected data, and the app's own reasons for file timestamps in its container (C617.1) and its preferences (CA92.1), and it is built into the app. Flutter.framework and the plugin bundles keep their own manifests. The signed-archive privacy report remains a release gate.
+- **Corrupt photo list:** a "keep what can be verified" recovery, only on request. The damaged list is set aside, never deleted, and the copies whose content matches their names come back with their details. A list from a newer app version is never moved.
+- **Car pack content:** named for what it shows, as *Cars and Trucks* under the *Cars* topic. Its cover, preview and topic icon are the pack's own photos. Genuinely vintage car photos would be new content for the GM-025 rights review. Store screenshots that show the old library must be recaptured (GM-033).
 
 Next executable actions, in order: run `docs/release/device-acceptance.md` on a physical iPhone and iPad (VoiceOver walkthrough of start/play/stop/import/remove, rotation, Reduce Motion, airplane-mode fresh install, upgrade from the App Store build); install the Android SDK only with the maintainer's license acceptance and repeat; then the five-caregiver comprehension test and genuine screenshots (GM-033). R2 stays at the unshipped GM-009 prototype until the pilot (GM-039) chooses; R3 stays deferred.
 
