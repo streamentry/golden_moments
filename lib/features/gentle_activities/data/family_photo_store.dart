@@ -26,6 +26,7 @@ class FamilyPhotoStore {
   static final _validId = RegExp(r'^[a-f0-9]{64}$');
   static final _copyName = RegExp(r'^([a-f0-9]{64})\.png(\.tmp)?$');
   static const _manifestName = 'collection.json';
+  static final _asideName = RegExp(r'^collection\.damaged-[0-9-]+\.json$');
   static const _pngSignature = [137, 80, 78, 71, 13, 10, 26, 10];
   final Directory directory;
 
@@ -100,7 +101,8 @@ class FamilyPhotoStore {
       throw damaged;
     }
     final version = data is Map<String, dynamic> ? data['version'] : null;
-    if (version is int && version > 1) {
+    // Any number above 1 is a later format, however it was written.
+    if (version is num && version > 1) {
       throw const UnreadablePhotoList(
         'A newer app version saved the photo collection.',
         fromNewerVersion: true,
@@ -296,6 +298,11 @@ class FamilyPhotoStore {
     await _save([]);
     // Include orphan copies left by an interrupted import. Never traverse.
     await _removeLeftovers(const {});
+    // Lists set aside by a recovery name only photos that are now gone.
+    await for (final entry in directory.list(followLinks: false)) {
+      final name = entry.uri.pathSegments.last;
+      if (_asideName.hasMatch(name)) await removeEntry(entry.path, fileOps);
+    }
   });
 }
 

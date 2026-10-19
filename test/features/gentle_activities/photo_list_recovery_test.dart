@@ -75,19 +75,27 @@ void main() {
       final written = jsonDecode(await list().readAsString()) as Map;
       expect(written['version'], 1);
       expect(keptAside(), hasLength(1));
-      // Removing every photo copy still leaves the kept list alone.
+      // Removing every photo copy also removes lists kept aside, which
+      // name only photos that are now gone.
+      final other = File('${directory.path}/keep.txt')..writeAsStringSync('x');
       await store.clear();
-      expect(keptAside(), hasLength(1));
+      expect(keptAside(), isEmpty);
+      expect(other.existsSync(), isTrue);
     });
 
-    test('a copy whose content no longer matches its name stays hidden and '
-        'is not deleted', () async {
+    test('a copy whose content no longer matches its name is not shown, and '
+        'is tidied away by the next change, as the dialog says', () async {
       final ids = await store.add([image(1), image(2)]);
       await store.fileFor(ids.first).writeAsBytes(image(9));
       await list().writeAsString('not json');
       expect(await store.setAsideDamagedList(), isTrue);
       expect(await store.load(), [ids.last]);
+      // Kept until the collection is next changed, then removed like any
+      // copy the list does not name.
       expect(store.fileFor(ids.first).existsSync(), isTrue);
+      await store.add([image(3)]);
+      await store.load();
+      expect(store.fileFor(ids.first).existsSync(), isFalse);
     });
 
     test('photo details of recovered photos are kept', () async {
@@ -153,6 +161,50 @@ void main() {
       expect(await list().readAsString(), newer);
       expect(keptAside(), isEmpty);
     });
+
+    for (final version in ['2.0', '1e30', '99999999999999999999']) {
+      test('when a newer version is written as $version', () async {
+        await store.add([image(1)]);
+        final newer = '{"version": $version, "photos": []}';
+        await list().writeAsString(newer);
+        await expectLater(
+          store.load(),
+          throwsA(
+            isA<UnreadablePhotoList>().having(
+              (e) => e.fromNewerVersion,
+              'fromNewerVersion',
+              isTrue,
+            ),
+          ),
+        );
+        expect(await store.setAsideDamagedList(), isFalse);
+        expect(await list().readAsString(), newer);
+      });
+    }
+
+    test(
+      'when the list cannot be read right now, which is not damage',
+      () async {
+        await store.add([image(1)]);
+        final before = await list().readAsString();
+        await Process.run('chmod', ['000', list().path]);
+        addTearDown(() => Process.run('chmod', ['644', list().path]));
+        // Someone allowed to read anything (root) cannot test this.
+        final unreadable = await list().readAsString().then(
+          (_) => false,
+          onError: (_) => true,
+        );
+        if (!unreadable) return;
+        await expectLater(store.load(), throwsA(isA<FileSystemException>()));
+        await expectLater(
+          store.setAsideDamagedList(),
+          throwsA(isA<FileSystemException>()),
+        );
+        await Process.run('chmod', ['644', list().path]);
+        expect(await list().readAsString(), before);
+        expect(keptAside(), isEmpty);
+      },
+    );
 
     test('when something other than a plain file is in its place', () async {
       await Directory('${directory.path}/collection.json').create();

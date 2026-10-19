@@ -167,8 +167,8 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
               ? 'These photos were saved by a newer version of Golden '
                     'Moments. Update the app to see them. Nothing has been '
                     'changed.'
-              : 'The list of your photos could not be read. Your original '
-                    'photos have not been changed.';
+              : 'Your photo list could not be read. Your original photos '
+                    'are unchanged.';
           _canRecover = problem.canSetAside;
         });
       }
@@ -185,15 +185,54 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     }
   }
 
+  /// The error, then its way forward: the recovery when the list is
+  /// damaged, and always Try again.
+  List<Widget> _problem(ThemeData theme) {
+    final scheme = theme.colorScheme;
+    return [
+      Semantics(
+        liveRegion: true,
+        child: Row(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Icon(Icons.error_outline, color: scheme.error),
+            const SizedBox(width: gmSpaceSm),
+            Expanded(
+              child: Text(
+                _error!,
+                style: theme.textTheme.bodyLarge?.copyWith(color: scheme.error),
+              ),
+            ),
+          ],
+        ),
+      ),
+      if (_canRecover) ...[
+        const SizedBox(height: gmSpaceSm),
+        OutlinedButton.icon(
+          onPressed: _busy ? null : _recover,
+          icon: const Icon(Icons.photo_library_outlined),
+          label: const Text('Show my photos'),
+        ),
+      ],
+      TextButton(
+        onPressed: _busy ? null : _load,
+        child: const Text('Try again'),
+      ),
+    ];
+  }
+
   /// Only at the person's request: keeps the unreadable list aside and shows
-  /// every copy that can be checked, with its details. Nothing is deleted.
+  /// every copy that can be checked, with its details. The dialog says
+  /// exactly what happens to a copy that cannot be checked.
   Future<void> _recover() async {
     final ok = await _confirm(
       'Show the photos that can be checked?',
       'Golden Moments will look through the photo copies on this device and '
           'show every one that is intact, with its caption and choices. The '
-          'order may change. Nothing is deleted: the list that could not be '
-          'read is kept on this device.',
+          'order may change. The list that could not be read is kept on this '
+          'device. A copy that is damaged cannot be shown and is removed '
+          'later; you can add that photo again from your photo library, where '
+          'your originals are unchanged.',
       confirmLabel: 'Show the photos',
       keepLabel: 'Not now',
     );
@@ -472,6 +511,12 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
             child: ListView(
               padding: const EdgeInsets.all(gmSpaceLg),
               children: [
+                // The collection could not open: say so first, with the way
+                // forward, rather than below an intro and a dead button.
+                if (_error != null && _store == null) ...[
+                  ..._problem(theme),
+                  const SizedBox(height: gmSpaceLg),
+                ],
                 Text(
                   'Choose photos you would enjoy looking at together.',
                   style: theme.textTheme.headlineSmall,
@@ -511,38 +556,11 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                     padding: EdgeInsets.all(gmSpaceMd),
                     child: LinearProgressIndicator(),
                   ),
-                if (_error != null) ...[
+                // An error about an action stays beside it; one that kept the
+                // collection from opening is shown first (above).
+                if (_error != null && _store != null) ...[
                   const SizedBox(height: gmSpaceMd),
-                  Semantics(
-                    liveRegion: true,
-                    child: Row(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Icon(Icons.error_outline, color: scheme.error),
-                        const SizedBox(width: gmSpaceSm),
-                        Expanded(
-                          child: Text(
-                            _error!,
-                            style: theme.textTheme.bodyLarge?.copyWith(
-                              color: scheme.error,
-                            ),
-                          ),
-                        ),
-                      ],
-                    ),
-                  ),
-                  if (_canRecover) ...[
-                    const SizedBox(height: gmSpaceSm),
-                    OutlinedButton.icon(
-                      onPressed: _busy ? null : _recover,
-                      icon: const Icon(Icons.photo_library_outlined),
-                      label: const Text('Show the photos that can be checked'),
-                    ),
-                  ],
-                  TextButton(
-                    onPressed: _busy ? null : _load,
-                    child: const Text('Try again'),
-                  ),
+                  ..._problem(theme),
                 ],
                 const SizedBox(height: gmSpaceLg),
                 if (canPlay)

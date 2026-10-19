@@ -1,8 +1,8 @@
 import 'dart:io';
-import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/data/family_photo_store.dart';
@@ -464,26 +464,31 @@ void main() {
     // Said plainly, nothing changed yet, and nothing happens on its own.
     expect(
       find.text(
-        'The list of your photos could not be read. Your original photos '
-        'have not been changed.',
+        'Your photo list could not be read. Your original photos are '
+        'unchanged.',
       ),
       findsOneWidget,
     );
-    final recover = find.widgetWithText(
-      OutlinedButton,
-      'Show the photos that can be checked',
-    );
+    final recover = find.widgetWithText(OutlinedButton, 'Show my photos');
     expect(recover, findsOneWidget);
     expect(await tester.runAsync(list.readAsString), '{"version": 1, "pho');
 
     // Not now keeps everything as it was.
-    await _tapText(tester, 'Show the photos that can be checked');
+    await _tapText(tester, 'Show my photos');
     expect(find.text('Show the photos that can be checked?'), findsOneWidget);
-    expect(find.textContaining('Nothing is deleted'), findsOneWidget);
+    // Exactly what happens, including to a copy that is damaged.
+    expect(
+      find.textContaining('The list that could not be read is kept'),
+      findsOneWidget,
+    );
+    expect(
+      find.textContaining('A copy that is damaged cannot be shown'),
+      findsOneWidget,
+    );
     await _tapText(tester, 'Not now');
     expect(await tester.runAsync(list.readAsString), '{"version": 1, "pho');
 
-    await _tapText(tester, 'Show the photos that can be checked');
+    await _tapText(tester, 'Show my photos');
     await _tapText(
       tester,
       'Show the photos',
@@ -499,6 +504,45 @@ void main() {
       ],
     );
     expect(kept, ['{"version": 1, "pho']);
+    expect(tester.takeException(), isNull);
+  });
+
+  testWidgets('at 200% text on a small phone the problem and the way '
+      'forward are the first thing on screen', (tester) async {
+    // The shipped Roboto, so the layout is the real one, not the test font's.
+    await tester.runAsync(() async {
+      final roboto = FontLoader(gmFontFamily);
+      for (final weight in ['Regular', 'Medium', 'Bold']) {
+        roboto.addFont(rootBundle.load('assets/fonts/Roboto-$weight.ttf'));
+      }
+      await roboto.load();
+    });
+    await tester.binding.setSurfaceSize(const Size(320, 568));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    await tester.runAsync(
+      () => File('${directory.path}/collection.json').writeAsString('oops'),
+    );
+    await tester.pumpWidget(
+      MaterialApp(
+        theme: gmBuildTheme(),
+        builder: (context, child) => MediaQuery(
+          data: MediaQuery.of(context)
+              .copyWith(textScaler: const TextScaler.linear(2)),
+          child: child!,
+        ),
+        home: PhotoCollectionPage(
+          directoryProvider: () async => directory,
+          importer: _FakeImporter([]),
+        ),
+      ),
+    );
+    await _settle(tester);
+    // No scrolling needed to learn what happened and what to do.
+    expect(
+      find.textContaining('could not be read').hitTestable(),
+      findsOneWidget,
+    );
+    expect(find.text('Show my photos').hitTestable(), findsOneWidget);
     expect(tester.takeException(), isNull);
   });
 
@@ -518,7 +562,7 @@ void main() {
       ),
       findsOneWidget,
     );
-    expect(find.text('Show the photos that can be checked'), findsNothing);
+    expect(find.text('Show my photos'), findsNothing);
     expect(
       await tester.runAsync(
         () => File('${directory.path}/collection.json').readAsString(),
