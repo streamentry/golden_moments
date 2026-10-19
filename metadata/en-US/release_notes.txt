@@ -1,8 +1,8 @@
-A new, gentle starting point for shared activities:
-- Start with four large tiles and an optional always-visible mode.
-- Import selected family photos for local matching and shared viewing.
-- Use optional conversation prompts without name quizzes or scores.
-- Open starter activities without downloading content first.
-- Explore all eight included picture packs without extra downloads.
-- Adjust gentle-play choices and keep them for next time.
+A warmer photo album, with gentler details:
+- Start with four large tiles, with no timer or score.
+- Family photos you choose fill their tiles as rounded prints.
+- Picture packs look like prints in a family album, with sharper covers.
+- Mark a favorite pack, or set one aside with Not for me.
+- Confirmation dialogs put the safe choice first.
+- Large text stays readable on small screens.
 - Library sounds start off; earlier choices are kept.
