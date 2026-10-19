@@ -146,14 +146,15 @@
       },
       "GM-003": {
         "status": "implemented_unverified",
-        "scope": "Gentle tile count and picture visibility persist as a versioned, field-by-field-safe record; reset touches comfort choices only. In the picture-pack library, music and sounds are off when no choice is stored, a stored choice is read back unchanged and never rewritten on load, and a toggle saves only its own key (existing installs that never chose now start quiet). System text size and Reduce Motion are honored rather than duplicated in app settings. Upgrade of an install that had sound on is not device-tested. Tile-count chips have equal widths in full rows (one row, two per row or one per row), so no choice sits alone and no label wraps; checked at 320 and 390 wide, at 100% and 200% text, and on iPad.",
+        "scope": "Gentle tile count and picture visibility persist as a versioned, field-by-field-safe record; reset touches comfort choices only. In the picture-pack library, music and sounds are off when no choice is stored, a stored choice is read back unchanged and never rewritten on load, and a toggle saves only its own key (existing installs that never chose now start quiet). System text size and Reduce Motion are honored rather than duplicated in app settings. Upgrade of an install that had sound on is not device-tested. Tile-count chips have equal widths in full rows (one row, two per row or one per row), so no choice sits alone and no label wraps; checked at 320 and 390 wide, at 100% and 200% text, and on iPad. Decision: library music and sounds stay off for installs that never chose. A stored choice is kept, and the release notes say so.",
         "evidence": [
           "lib/features/gentle_activities/data/gentle_preferences.dart",
           "lib/data/models/sound_setting.dart",
           "test/features/gentle_activities/gentle_preferences_test.dart",
           "test/features/gentle_activities/gentle_ui_test.dart",
           "test/features/legacy_library/legacy_route_test.dart",
-          "test/ux_detail_test.dart"
+          "test/ux_detail_test.dart",
+          "metadata/app-store.en-US.json"
         ]
       },
       "GM-004": {
@@ -340,7 +341,7 @@
       },
       "GM-025": {
         "status": "partial",
-        "scope": "Rights register for every shipped asset group exists (docs/specs/asset-provenance.json) and a test requires every declared asset and file on disk to be covered. Recorded: image source URL/hash/size, bundled Roboto license text. Unreviewed and therefore release-blocking (scripts/release_metadata.py --release now refuses, and also refuses a reviewed or bundled-license group that still lists gaps): catalog images (no author/license/attribution/review date), sounds, app icons, native launcher/splash art in the iOS and Android projects, pack index text. Needs a human rights review; nothing is marked reviewed here. The Classic Cars cover and first preview, which showed an unrelated light-bulb photo, are now made locally from the pack's own car photos (paths and the 121-asset mapping unchanged; derivation recorded in docs/catalog-image-sources.json), and its screen-reader captions name the cars actually shown. The pack's 'Classic'/'vintage' title and description still describe modern cars and need the content review.",
+        "scope": "Rights register for every shipped asset group exists (docs/specs/asset-provenance.json) and a test requires every declared asset and file on disk to be covered. Recorded: image source URL/hash/size, bundled Roboto license text. Unreviewed and therefore release-blocking (scripts/release_metadata.py --release now refuses, and also refuses a reviewed or bundled-license group that still lists gaps): catalog images (no author/license/attribution/review date), sounds, app icons, native launcher/splash art in the iOS and Android projects, pack index text. Needs a human rights review; nothing is marked reviewed here. The Classic Cars cover and first preview, which showed an unrelated light-bulb photo, are now made locally from the pack's own car photos (paths and the 121-asset mapping unchanged; derivation recorded in docs/catalog-image-sources.json), and its screen-reader captions name the cars actually shown. The pack's 'Classic'/'vintage' title and description still describe modern cars and need the content review. Decision: the car pack and its topic are named for what they show, as 'Cars and Trucks' ('On the Road') under the topic 'Cars'. They were 'Classic Cars' and 'Vintage', with 'Classic memories from the past'. The topic icon, also a light-bulb photo, is now a crop of the pack's own photo. IDs are unchanged. Genuinely vintage car photos would be new content needing a rights review.",
         "evidence": [
           "docs/specs/asset-provenance.json",
           "tests/test_asset_provenance.py",
@@ -375,10 +376,12 @@
       },
       "GM-028": {
         "status": "partial",
-        "scope": "Source-level audit and CI guard: startup initializes no backend, no Dart code imports a network or Firebase package or opens a connection, and Firebase is removed. iOS build inputs were regenerated on a Mac (Podfile.lock has only Flutter; no SwiftPM remote packages) and are now guard-tested; an unsigned release build embeds only Flutter.framework and objective_c.framework, has no Firebase/Crashlytics/app-measurement strings, keeps the bundle identifier and declares only the photo-library usage string. Not established: signed archive, merged Android manifest, runtime traffic on a clean install, an app-level iOS privacy manifest decision, App Privacy answers. The privacy_and_sdk_audit gate remains pending.",
+        "scope": "Source-level audit and CI guard: startup initializes no backend, no Dart code imports a network or Firebase package or opens a connection, and Firebase is removed. iOS build inputs were regenerated on a Mac (Podfile.lock has only Flutter; no SwiftPM remote packages) and are now guard-tested; an unsigned release build embeds only Flutter.framework and objective_c.framework, has no Firebase/Crashlytics/app-measurement strings, keeps the bundle identifier and declares only the photo-library usage string. Not established: signed archive, merged Android manifest, runtime traffic on a clean install, an app-level iOS privacy manifest decision, App Privacy answers. The privacy_and_sdk_audit gate remains pending. An app-level ios/Runner/PrivacyInfo.xcprivacy declares no tracking, no tracking domains and no collected data, matching the intended 'Data Not Collected' label. It gives reasons for the app's own use of file timestamps inside its container (C617.1) and of its own preferences (CA92.1). Flutter.framework and the four plugin bundles carry their own manifests. A signed archive privacy report is still a release gate.",
         "evidence": [
           "docs/release/network-privacy-audit.md",
-          "tests/test_network_boundary.py"
+          "tests/test_network_boundary.py",
+          "ios/Runner/PrivacyInfo.xcprivacy",
+          "tests/test_privacy_manifest.py"
         ]
       },
       "GM-029": {
@@ -393,13 +396,15 @@
       },
       "GM-030": {
         "status": "partial",
-        "scope": "Readable recovery for failed, refused and out-of-space imports, an unreadable collection or folder, a damaged or newer details file, a deleted or corrupt session and a failed save; each keeps existing data and never reports success. Look together reports a failed hide and changes nothing; an empty set offers the included pictures. Library pack choices that cannot be read are never written over, and a topic page waiting on them shows a plain message and Back instead of an endless spinner. Denied photo access, interrupted picker, real low storage and unsupported-platform states need native testing.",
+        "scope": "Readable recovery for failed, refused and out-of-space imports, an unreadable collection or folder, a damaged or newer details file, a deleted or corrupt session and a failed save; each keeps existing data and never reports success. Look together reports a failed hide and changes nothing; an empty set offers the included pictures. Library pack choices that cannot be read are never written over, and a topic page waiting on them shows a plain message and Back instead of an endless spinner. Denied photo access, interrupted picker, real low storage and unsupported-platform states need native testing. A damaged photo list now has an explicit recovery. 'Show the photos that can be checked' sets the list aside as collection.damaged-<time>.json after a confirmation, never deleting it, and every copy whose content matches its name comes back with its details. A list from a newer app version is never moved, and the screen asks for an update.",
         "evidence": [
           "lib/features/gentle_activities/presentation/photo_collection_page.dart",
           "lib/features/gentle_activities/presentation/photo_together_page.dart",
           "test/features/gentle_activities/photo_storage_access_test.dart",
           "test/features/gentle_activities/photo_collection_journey_test.dart",
-          "test/features/home/pack_favorites_ui_test.dart"
+          "test/features/home/pack_favorites_ui_test.dart",
+          "lib/features/gentle_activities/data/family_photo_store.dart",
+          "test/features/gentle_activities/photo_list_recovery_test.dart"
         ]
       },
       "GM-031": {

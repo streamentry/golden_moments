@@ -26,6 +26,7 @@ class FamilyPhotoStore {
   static final _validId = RegExp(r'^[a-f0-9]{64}$');
   static final _copyName = RegExp(r'^([a-f0-9]{64})\.png(\.tmp)?$');
   static const _manifestName = 'collection.json';
+  static final _asideName = RegExp(r'^collection\.damaged-[0-9-]+\.json$');
   static const _pngSignature = [137, 80, 78, 71, 13, 10, 26, 10];
   final Directory directory;
 
@@ -82,25 +83,72 @@ class FamilyPhotoStore {
     final type = await confirmedType(_manifest.path);
     if (type == FileSystemEntityType.notFound) return null;
     if (type != FileSystemEntityType.file) {
-      throw const FormatException('The photo collection cannot be read.');
+      throw const UnreadablePhotoList('The photo collection cannot be read.');
     }
-    final data = jsonDecode(await _manifest.readAsString());
+    const damaged = UnreadablePhotoList(
+      'The photo collection is damaged.',
+      canSetAside: true,
+    );
+    // A read that fails (no permission, an I/O error) is thrown as it is:
+    // the list may be fine, so it is never treated as damaged.
+    final text = await _manifest.readAsString().onError<FormatException>(
+      (_, _) => throw damaged,
+    );
+    final Object? data;
+    try {
+      data = jsonDecode(text);
+    } on FormatException {
+      throw damaged;
+    }
+    final version = data is Map<String, dynamic> ? data['version'] : null;
+    // Any number above 1 is a later format, however it was written.
+    if (version is num && version > 1) {
+      throw const UnreadablePhotoList(
+        'A newer app version saved the photo collection.',
+        fromNewerVersion: true,
+      );
+    }
     if (data is! Map<String, dynamic> ||
-        data['version'] != 1 ||
+        version != 1 ||
         data['photos'] is! List) {
-      throw const FormatException('The photo collection cannot be read.');
+      throw damaged;
     }
     final values = data['photos'] as List<dynamic>;
     if (values.length > maxPhotos ||
         values.any((dynamic id) => id is! String || !_validId.hasMatch(id))) {
-      throw const FormatException('Invalid photo collection.');
+      throw damaged;
     }
     final ids = values.cast<String>();
-    if (ids.toSet().length != ids.length) {
-      throw const FormatException('Duplicate photo IDs.');
-    }
+    if (ids.toSet().length != ids.length) throw damaged;
     return ids;
   }
+
+  /// Moves a damaged photo list aside, never deleting or overwriting it, so
+  /// the copies whose content still matches their names become the
+  /// collection again, as after a first import that stopped before its list
+  /// was written. Photo details stay with their photos. Only a plain file
+  /// whose content cannot be used is moved: a list from a newer app version,
+  /// a link or anything else in its place is left exactly as it is. Returns
+  /// whether a list was set aside. Only ever run at the person's request.
+  Future<bool> setAsideDamagedList() => _serial(() async {
+    try {
+      await _readManifest();
+      return false;
+    } on UnreadablePhotoList catch (problem) {
+      if (!problem.canSetAside) return false;
+    }
+    final stamp = DateTime.now().toUtc().microsecondsSinceEpoch;
+    var aside = File('${directory.path}/collection.damaged-$stamp.json');
+    for (
+      var n = 1;
+      await confirmedType(aside.path) != FileSystemEntityType.notFound;
+      n++
+    ) {
+      aside = File('${directory.path}/collection.damaged-$stamp-$n.json');
+    }
+    await fileOps.rename(_manifest, aside.path);
+    return true;
+  });
 
   /// Without a manifest (a first import stopped before its index was
   /// written), the plain hash-named copies whose content matches their name
@@ -250,5 +298,24 @@ class FamilyPhotoStore {
     await _save([]);
     // Include orphan copies left by an interrupted import. Never traverse.
     await _removeLeftovers(const {});
+    // Lists set aside by a recovery name only photos that are now gone.
+    await for (final entry in directory.list(followLinks: false)) {
+      final name = entry.uri.pathSegments.last;
+      if (_asideName.hasMatch(name)) await removeEntry(entry.path, fileOps);
+    }
   });
+}
+
+/// The photo list exists but cannot be used. Only a plain file whose content
+/// is damaged [canSetAside]; a list a newer app version wrote
+/// ([fromNewerVersion]) or anything other than a plain file is never moved.
+class UnreadablePhotoList extends FormatException {
+  const new(
+    super.message, {
+    this.canSetAside = false,
+    this.fromNewerVersion = false,
+  });
+
+  final bool canSetAside;
+  final bool fromNewerVersion;
 }

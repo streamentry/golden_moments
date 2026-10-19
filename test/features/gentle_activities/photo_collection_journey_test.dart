@@ -1,8 +1,8 @@
 import 'dart:io';
-import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/data/family_photo_store.dart';
@@ -443,6 +443,132 @@ void main() {
     expect(tester.takeException(), isNull);
     final ids = await tester.runAsync(() => FamilyPhotoStore(directory).load());
     expect(ids!.length, 2);
+  });
+
+  testWidgets("a damaged photo list can be set aside, at the person's "
+      'request, to show the copies that can be checked', (tester) async {
+    await tester.binding.setSurfaceSize(const Size(480, 1600));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    final importer = _FakeImporter([
+      [1, 2],
+    ]);
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+    await _tapText(tester, 'Choose photos');
+    final list = File('${directory.path}/collection.json');
+    await tester.runAsync(() => list.writeAsString('{"version": 1, "pho'));
+    await tester.pumpWidget(const SizedBox());
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+
+    // Said plainly, nothing changed yet, and nothing happens on its own.
+    expect(
+      find.text(
+        'Your photo list could not be read. Your original photos are '
+        'unchanged.',
+      ),
+      findsOneWidget,
+    );
+    final recover = find.widgetWithText(OutlinedButton, 'Show my photos');
+    expect(recover, findsOneWidget);
+    expect(await tester.runAsync(list.readAsString), '{"version": 1, "pho');
+
+    // Not now keeps everything as it was.
+    await _tapText(tester, 'Show my photos');
+    expect(find.text('Show the photos that can be checked?'), findsOneWidget);
+    // Exactly what happens, including to a copy that is damaged.
+    expect(
+      find.textContaining('The list that could not be read is kept'),
+      findsOneWidget,
+    );
+    expect(
+      find.textContaining('A copy that is damaged cannot be shown'),
+      findsOneWidget,
+    );
+    await _tapText(tester, 'Not now');
+    expect(await tester.runAsync(list.readAsString), '{"version": 1, "pho');
+
+    await _tapText(tester, 'Show my photos');
+    await _tapText(
+      tester,
+      'Show the photos',
+      until: () => _shows(find.text('2 of 24 photos')),
+    );
+    expect(find.text('Play with these photos'), findsOneWidget);
+    expect(recover, findsNothing);
+    final kept = await tester.runAsync(
+      () async => [
+        for (final entry in directory.listSync())
+          if (entry.uri.pathSegments.last.startsWith('collection.damaged-'))
+            await File(entry.path).readAsString(),
+      ],
+    );
+    expect(kept, ['{"version": 1, "pho']);
+    expect(tester.takeException(), isNull);
+  });
+
+  testWidgets('at 200% text on a small phone the problem and the way '
+      'forward are the first thing on screen', (tester) async {
+    // The shipped Roboto, so the layout is the real one, not the test font's.
+    await tester.runAsync(() async {
+      final roboto = FontLoader(gmFontFamily);
+      for (final weight in ['Regular', 'Medium', 'Bold']) {
+        roboto.addFont(rootBundle.load('assets/fonts/Roboto-$weight.ttf'));
+      }
+      await roboto.load();
+    });
+    await tester.binding.setSurfaceSize(const Size(320, 568));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    await tester.runAsync(
+      () => File('${directory.path}/collection.json').writeAsString('oops'),
+    );
+    await tester.pumpWidget(
+      MaterialApp(
+        theme: gmBuildTheme(),
+        builder: (context, child) => MediaQuery(
+          data: MediaQuery.of(context)
+              .copyWith(textScaler: const TextScaler.linear(2)),
+          child: child!,
+        ),
+        home: PhotoCollectionPage(
+          directoryProvider: () async => directory,
+          importer: _FakeImporter([]),
+        ),
+      ),
+    );
+    await _settle(tester);
+    // No scrolling needed to learn what happened and what to do.
+    expect(
+      find.textContaining('could not be read').hitTestable(),
+      findsOneWidget,
+    );
+    expect(find.text('Show my photos').hitTestable(), findsOneWidget);
+    expect(tester.takeException(), isNull);
+  });
+
+  testWidgets('a list from a newer app version asks for an update and offers '
+      'no change', (tester) async {
+    await tester.runAsync(
+      () =>
+          File('${directory.path}/collection.json')
+              .writeAsString('{"version": 2, "photos": []}'),
+    );
+    await tester.pumpWidget(_app(directory, _FakeImporter([])));
+    await _settle(tester);
+    expect(
+      find.text(
+        'These photos were saved by a newer version of Golden Moments. '
+        'Update the app to see them. Nothing has been changed.',
+      ),
+      findsOneWidget,
+    );
+    expect(find.text('Show my photos'), findsNothing);
+    expect(
+      await tester.runAsync(
+        () => File('${directory.path}/collection.json').readAsString(),
+      ),
+      '{"version": 2, "photos": []}',
+    );
   });
 
   testWidgets('a damaged annotations file never hides the photos', (

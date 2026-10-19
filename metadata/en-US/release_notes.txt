@@ -5,3 +5,4 @@ A new, gentle starting point for shared activities:
 - Open starter activities without downloading content first.
 - Explore all eight included picture packs without extra downloads.
 - Adjust gentle-play choices and keep them for next time.
+- Library sounds start off; earlier choices are kept.

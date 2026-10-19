@@ -670,9 +670,10 @@
     },
     {
       "asset": "assets/images/catalog/e41dbac24f6286e87ae65fd8.jpg",
-      "source": "https://images.unsplash.com/photo-1493612276216-ee3925520721?w=100&h=100&fit=crop",
-      "sha256": "ac41f6d2bf462928f64223bf161b7b01d5310869738d505b16f5989b8f841e40",
-      "bytes": 5337
+      "source": "https://images.unsplash.com/photo-1549927681-0b673b8243ab?w=100&h=100&fit=crop",
+      "sha256": "78764239f41c28a5f74597d386ba4bcabb4c2b83e7165480cb69ec97a415d4db",
+      "bytes": 2801,
+      "derivedFrom": "Made locally from assets/images/catalog/bdd190ec75e9178c40da2c49.jpg (the same photo): a square crop around the car resized to 100x100. Replaced an unrelated light-bulb photo on the car topic."
     },
     {
       "asset": "assets/images/catalog/e9a191ab81192a7af22e0c23.jpg",

@@ -45,7 +45,7 @@ Future<void> picturePackLibrary(WidgetTester tester) async {
   for (final title in [
     'Farm Animals',
     'Mountain Views',
-    'Classic Cars',
+    'Cars and Trucks',
     'Safari Animals',
   ]) {
     expect(find.text(title), findsOneWidget);

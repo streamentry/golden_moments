@@ -47,6 +47,10 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
   bool _busy = true;
   String? _error;
 
+  /// The photo list is damaged in a way the person may choose to recover
+  /// from by setting it aside (never automatic).
+  bool _canRecover = false;
+
   bool _isFavorite(String id) => _notes[id]?.favorite ?? false;
   bool _isHidden(String id) => _notes[id]?.hidden ?? false;
 
@@ -83,10 +87,11 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     String title,
     String message, {
     String confirmLabel = 'Continue',
+    String keepLabel = 'Cancel',
     bool destructive = false,
   }) async {
     if (!mounted) return false;
-    const keep = 'Cancel';
+    final keep = keepLabel;
     final confirm = Text(confirmLabel, textAlign: TextAlign.center);
     return await showDialog<bool>(
           context: context,
@@ -102,14 +107,14 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                     ),
                     primary: FilledButton(
                       onPressed: () => Navigator.pop(context, false),
-                      child: const Text(keep, textAlign: TextAlign.center),
+                      child: Text(keep, textAlign: TextAlign.center),
                     ),
                     labels: (confirmLabel, keep),
                   )
                 : gmDialogActions(
                     other: TextButton(
                       onPressed: () => Navigator.pop(context, false),
-                      child: const Text(keep, textAlign: TextAlign.center),
+                      child: Text(keep, textAlign: TextAlign.center),
                     ),
                     primary: FilledButton(
                       onPressed: () => Navigator.pop(context, true),
@@ -126,6 +131,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     setState(() {
       _busy = true;
       _error = null;
+      _canRecover = false;
     });
     try {
       final directory = await widget.directoryProvider();
@@ -154,6 +160,18 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
           await _saveFiles(recovered);
         }
       }
+    } on UnreadablePhotoList catch (problem) {
+      if (mounted) {
+        setState(() {
+          _error = problem.fromNewerVersion
+              ? 'These photos were saved by a newer version of Golden '
+                    'Moments. Update the app to see them. Nothing has been '
+                    'changed.'
+              : 'Your photo list could not be read. Your original photos '
+                    'are unchanged.';
+          _canRecover = problem.canSetAside;
+        });
+      }
     } on Object catch (_) {
       if (mounted) {
         setState(
@@ -165,6 +183,76 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     } finally {
       if (mounted) setState(() => _busy = false);
     }
+  }
+
+  /// The error, then its way forward: the recovery when the list is
+  /// damaged, and always Try again.
+  List<Widget> _problem(ThemeData theme) {
+    final scheme = theme.colorScheme;
+    return [
+      Semantics(
+        liveRegion: true,
+        child: Row(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Icon(Icons.error_outline, color: scheme.error),
+            const SizedBox(width: gmSpaceSm),
+            Expanded(
+              child: Text(
+                _error!,
+                style: theme.textTheme.bodyLarge?.copyWith(color: scheme.error),
+              ),
+            ),
+          ],
+        ),
+      ),
+      if (_canRecover) ...[
+        const SizedBox(height: gmSpaceSm),
+        OutlinedButton.icon(
+          onPressed: _busy ? null : _recover,
+          icon: const Icon(Icons.photo_library_outlined),
+          label: const Text('Show my photos'),
+        ),
+      ],
+      TextButton(
+        onPressed: _busy ? null : _load,
+        child: const Text('Try again'),
+      ),
+    ];
+  }
+
+  /// Only at the person's request: keeps the unreadable list aside and shows
+  /// every copy that can be checked, with its details. The dialog says
+  /// exactly what happens to a copy that cannot be checked.
+  Future<void> _recover() async {
+    final ok = await _confirm(
+      'Show the photos that can be checked?',
+      'Golden Moments will look through the photo copies on this device and '
+          'show every one that is intact, with its caption and choices. The '
+          'order may change. The list that could not be read is kept on this '
+          'device. A copy that is damaged cannot be shown and is removed '
+          'later; you can add that photo again from your photo library, where '
+          'your originals are unchanged.',
+      confirmLabel: 'Show the photos',
+      keepLabel: 'Not now',
+    );
+    if (!ok || !mounted) return;
+    setState(() => _busy = true);
+    try {
+      final directory = await widget.directoryProvider();
+      await FamilyPhotoStore(directory).setAsideDamagedList();
+    } on Object catch (_) {
+      if (mounted) {
+        setState(() {
+          _busy = false;
+          _error =
+              'The photos could not be checked. Nothing was changed. '
+              'Please try again.';
+        });
+      }
+      return;
+    }
+    if (mounted) await _load();
   }
 
   Future<void> _saveFiles(List<XFile> files) async {
@@ -423,6 +511,12 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
             child: ListView(
               padding: const EdgeInsets.all(gmSpaceLg),
               children: [
+                // The collection could not open: say so first, with the way
+                // forward, rather than below an intro and a dead button.
+                if (_error != null && _store == null) ...[
+                  ..._problem(theme),
+                  const SizedBox(height: gmSpaceLg),
+                ],
                 Text(
                   'Choose photos you would enjoy looking at together.',
                   style: theme.textTheme.headlineSmall,
@@ -462,30 +556,11 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                     padding: EdgeInsets.all(gmSpaceMd),
                     child: LinearProgressIndicator(),
                   ),
-                if (_error != null) ...[
+                // An error about an action stays beside it; one that kept the
+                // collection from opening is shown first (above).
+                if (_error != null && _store != null) ...[
                   const SizedBox(height: gmSpaceMd),
-                  Semantics(
-                    liveRegion: true,
-                    child: Row(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Icon(Icons.error_outline, color: scheme.error),
-                        const SizedBox(width: gmSpaceSm),
-                        Expanded(
-                          child: Text(
-                            _error!,
-                            style: theme.textTheme.bodyLarge?.copyWith(
-                              color: scheme.error,
-                            ),
-                          ),
-                        ),
-                      ],
-                    ),
-                  ),
-                  TextButton(
-                    onPressed: _busy ? null : _load,
-                    child: const Text('Try again'),
-                  ),
+                  ..._problem(theme),
                 ],
                 const SizedBox(height: gmSpaceLg),
                 if (canPlay)
