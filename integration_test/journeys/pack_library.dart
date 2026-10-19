@@ -50,7 +50,7 @@ Future<void> picturePackLibrary(WidgetTester tester) async {
   ]) {
     expect(find.text(title), findsOneWidget);
   }
-  await snap(tester, 'j6-library');
+  await checkpoint(tester, 'j6-library');
 
   // Add to favorites moves the pack into its own group above suggestions.
   await tapOn(tester, find.bySemanticsLabel('Add to favorites, Farm Animals'));
@@ -62,7 +62,7 @@ Future<void> picturePackLibrary(WidgetTester tester) async {
   final cardTop = tester.getTopLeft(find.text('Farm Animals')).dy;
   expect(cardTop, greaterThan(favoritesTop));
   expect(cardTop, lessThan(tester.getTopLeft(_suggested).dy));
-  await snap(tester, 'j6-favorite');
+  await checkpoint(tester, 'j6-favorite');
 
   // Not for me hides it with a lasting note; Show again restores it.
   await tapOn(tester, find.bySemanticsLabel('Not for me, hide Mountain Views'));
@@ -74,7 +74,7 @@ Future<void> picturePackLibrary(WidgetTester tester) async {
   );
   await letTimePass(tester, const Duration(seconds: 2));
   expect(find.text(_hiddenNote), findsOneWidget, reason: 'never on a timer');
-  await snap(tester, 'j6-not-for-me');
+  await checkpoint(tester, 'j6-not-for-me');
   await tapOn(tester, find.bySemanticsLabel('Show Mountain Views again'));
   await waitForAbsent(tester, find.text(_hiddenNote));
   expect(find.text('Hidden packs (1)'), findsNothing);
@@ -86,7 +86,7 @@ Future<void> picturePackLibrary(WidgetTester tester) async {
   // Open a topic, then a pack.
   await tapOn(tester, find.text('Delicious meals and treats'));
   await waitFor(tester, find.text('Street Food Fiesta'));
-  await snap(tester, 'j6-topic');
+  await checkpoint(tester, 'j6-topic');
   await tapOn(tester, find.text('Delicious Desserts'));
   await waitUntil(
     tester,
@@ -95,13 +95,13 @@ Future<void> picturePackLibrary(WidgetTester tester) async {
   );
   expectHittable(tester, doneForNow);
   expectNoPressureCues(tester);
-  await snap(tester, 'j6-pack-board');
+  await checkpoint(tester, 'j6-pack-board');
 
   await _playWithHints(tester);
   await waitFor(tester, _packAllTogether);
   expectHittable(tester, playAgain);
   expectNoPressureCues(tester);
-  await snap(tester, 'j6-pack-finished');
+  await checkpoint(tester, 'j6-pack-finished');
   await tapOn(tester, playAgain);
   await waitForAbsent(tester, _packAllTogether);
   await waitUntil(

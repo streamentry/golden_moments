@@ -22,7 +22,7 @@ Future<void> comfortSettingsFromHome(WidgetTester tester) async {
   await launchApp(tester);
   await tapOn(tester, comfortSettingsButton);
   await waitFor(tester, find.text('Number of tiles'));
-  await snap(tester, 'j3-comfort-sheet');
+  await checkpoint(tester, 'j3-comfort-sheet');
   await tapOn(tester, find.text('8 tiles'));
   await tapOn(tester, find.text('Keep pictures visible'));
   await waitUntil(
@@ -52,7 +52,7 @@ Future<void> comfortSettingsFromHome(WidgetTester tester) async {
   );
   expect(resumePrompt, findsNothing);
   expectHittable(tester, doneForNow);
-  await snap(tester, 'j3-eight-hidden');
+  await checkpoint(tester, 'j3-eight-hidden');
 
   // Choosing a tile shows only that picture.
   await tapTile(tester, 1);
@@ -82,6 +82,6 @@ Future<void> comfortSettingsFromHome(WidgetTester tester) async {
   final reset = readBoard(tester);
   expect(reset, hasLength(4));
   expect(reset.where((tile) => tile.hidden), isEmpty);
-  await snap(tester, 'j3-reset-four-visible');
+  await checkpoint(tester, 'j3-reset-four-visible');
   await tapOn(tester, doneForNow);
 }

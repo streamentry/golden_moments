@@ -42,7 +42,7 @@ Future<void> safeConfirmations(
   expect(buttonWithLabel<TextButton>(confirmStartAgain), findsOneWidget);
   expectHittable(tester, keepBoard);
   expectHittable(tester, confirmStartAgain);
-  await snap(tester, 'j9-start-again$tag');
+  await checkpoint(tester, 'j9-start-again$tag');
   await tapOn(tester, keepBoard);
   await waitForAbsent(tester, question);
   expect(found(), 2, reason: 'Keep this board keeps the found pair');
@@ -62,7 +62,7 @@ Future<void> safeConfirmations(
   expect(buttonWithLabel<FilledButton>(keepSettings), findsOneWidget);
   expect(buttonWithLabel<TextButton>(find.text('Reset')), findsOneWidget);
   expectHittable(tester, keepSettings);
-  await snap(tester, 'j9-reset$tag');
+  await checkpoint(tester, 'j9-reset$tag');
   await tapOn(tester, keepSettings);
   await waitForAbsent(tester, keepSettings);
   await tapOn(tester, find.text('Back to the pictures'));

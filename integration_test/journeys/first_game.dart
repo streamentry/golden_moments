@@ -22,7 +22,7 @@ Future<void> firstGentleGame(
   expect(buttonWithLabel<FilledButton>(startGentleGame), findsOneWidget);
   expectHittable(tester, startGentleGame);
   expectNoPressureCues(tester);
-  await snap(tester, 'j1-home$tag');
+  await checkpoint(tester, 'j1-home$tag');
 
   await tapOn(tester, startGentleGame);
   await waitFor(tester, boardTiles);
@@ -35,7 +35,7 @@ Future<void> firstGentleGame(
   expectHittable(tester, doneForNow);
   expectHittable(tester, find.text('Start again'));
   expectNoPressureCues(tester);
-  await snap(tester, 'j1-board$tag');
+  await checkpoint(tester, 'j1-board$tag');
 
   // A mismatch stays in view until the next deliberate tap.
   final first = board.first;
@@ -65,7 +65,7 @@ Future<void> firstGentleGame(
   expectHittable(tester, playAgain);
   expectHittable(tester, doneForNow);
   expectNoPressureCues(tester);
-  await snap(tester, 'j1-finished$tag');
+  await checkpoint(tester, 'j1-finished$tag');
 
   await tapOn(tester, playAgain);
   await waitForAbsent(tester, gentleAllTogether);
