@@ -11,6 +11,7 @@ import 'package:golden_moments/features/game/cubit/game_state.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_exit_bar.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_play_view.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
+import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
 import 'package:provider/provider.dart';
 
 /// Picture-pack matching game.
@@ -28,6 +29,14 @@ class GamePage extends StatefulWidget {
 }
 
 class _GamePageState extends State<GamePage> {
+  final GmMoreBelow _moreBelow = GmMoreBelow();
+
+  @override
+  void dispose() {
+    _moreBelow.dispose();
+    super.dispose();
+  }
+
   /// Records the finished game; returns whether to suggest sharing.
   Future<bool> _recordCompletion() async {
     try {
@@ -103,12 +112,15 @@ class _GamePageState extends State<GamePage> {
                 GameStatus.loading => const _LoadingView(),
                 GameStatus.playing ||
                 GameStatus.paused ||
-                GameStatus.completed => GamePlayView(state: state),
+                GameStatus.completed => _moreBelow.watch(
+                  GamePlayView(state: state),
+                ),
                 GameStatus.failed ||
                 GameStatus.requiresDownload => const _ErrorView(),
               },
               bottomNavigationBar: playing
                   ? GameExitBar(
+                      moreBelow: _moreBelow,
                       onDone: () => Navigator.of(context).pop(),
                       onStartAgain: () => unawaited(_startAgain(context)),
                     )
@@ -137,16 +149,18 @@ class _GamePageState extends State<GamePage> {
           content: const Text(
             'The pairs you have found on this board will be cleared.',
           ),
-          actions: [
-            TextButton(
-              onPressed: () => Navigator.pop(dialogContext, false),
-              child: const Text('Keep this board'),
-            ),
-            FilledButton(
+          // Keeping the board is the safe choice, so it is the primary one.
+          actions: gmDialogActions(
+            other: TextButton(
               onPressed: () => Navigator.pop(dialogContext, true),
-              child: const Text('Start again'),
+              child: const Text('Start again', textAlign: TextAlign.center),
             ),
-          ],
+            primary: FilledButton(
+              onPressed: () => Navigator.pop(dialogContext, false),
+              child: const Text('Keep this board', textAlign: TextAlign.center),
+            ),
+            labels: ('Start again', 'Keep this board'),
+          ),
         ),
       );
       if (ok != true || cubit.isClosed) return;
@@ -192,23 +206,24 @@ class _GamePageState extends State<GamePage> {
             ],
           ),
         ),
-        actions: [
-          TextButton(
+        actions: gmDialogActions(
+          other: TextButton(
             onPressed: () {
               unawaited(SoundService().playTap());
               Navigator.of(dialogContext).pop();
               Navigator.of(parentContext).pop();
             },
-            child: const Text('Done for now'),
+            child: const Text('Done for now', textAlign: TextAlign.center),
           ),
-          FilledButton(
+          primary: FilledButton(
             onPressed: () {
               unawaited(SoundService().playTap());
               Navigator.of(dialogContext).pop();
             },
-            child: const Text('Keep playing'),
+            child: const Text('Keep playing', textAlign: TextAlign.center),
           ),
-        ],
+          labels: ('Done for now', 'Keep playing'),
+        ),
       ),
     );
     if (!cubit.isClosed) cubit.resumeGame();
@@ -262,25 +277,31 @@ class _GamePageState extends State<GamePage> {
                 ],
               ],
             ),
-            actions: [
-              GmOutlineButton(
-                label: 'Play again',
-                onTap: () {
-                  unawaited(close());
-                  Navigator.of(context).pop();
-                  parentContext.read<GameCubit>().resetGame();
-                },
-              ),
-              const SizedBox(height: gmSpaceSm),
-              GmPrimaryButton(
-                label: 'Choose another pack',
-                onTap: () {
+            // As on the gentle board, Play again is the one primary action.
+            actions: gmDialogActions(
+              other: OutlinedButton(
+                onPressed: () {
+                  unawaited(SoundService().playTap());
                   unawaited(close());
                   Navigator.of(context).pop();
                   Navigator.of(parentContext).pop();
                 },
+                child: const Text(
+                  'Choose another pack',
+                  textAlign: TextAlign.center,
+                ),
               ),
-            ],
+              primary: FilledButton(
+                onPressed: () {
+                  unawaited(SoundService().playTap());
+                  unawaited(close());
+                  Navigator.of(context).pop();
+                  parentContext.read<GameCubit>().resetGame();
+                },
+                child: const Text('Play again', textAlign: TextAlign.center),
+              ),
+              labels: ('Choose another pack', 'Play again'),
+            ),
           ),
         ),
       ),

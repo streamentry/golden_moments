@@ -256,18 +256,22 @@ class _NoteDialogState extends State<_NoteDialog> {
           SelectableText(preview),
         ],
       ),
-      actions: [
-        TextButton(
+      actions: gmDialogActions(
+        other: TextButton(
           onPressed: () => Navigator.pop(context),
-          child: const Text('Cancel'),
+          child: const Text('Cancel', textAlign: TextAlign.center),
         ),
-        FilledButton(
+        primary: FilledButton(
           onPressed: _controller.text.trim().isEmpty
               ? null
               : () => Navigator.pop(context, _controller.text),
-          child: const Text('Choose where to send'),
+          child: const Text(
+            'Choose where to send',
+            textAlign: TextAlign.center,
+          ),
         ),
-      ],
+        labels: ('Cancel', 'Choose where to send'),
+      ),
     );
   }
 }
@@ -315,16 +319,20 @@ class _ProblemDialogState extends State<_ProblemDialog> {
           SelectableText(diagnosticSummary(_kind)),
         ],
       ),
-      actions: [
-        TextButton(
+      actions: gmDialogActions(
+        other: TextButton(
           onPressed: () => Navigator.pop(context),
-          child: const Text('Cancel'),
+          child: const Text('Cancel', textAlign: TextAlign.center),
         ),
-        FilledButton(
+        primary: FilledButton(
           onPressed: () => Navigator.pop(context, _kind),
-          child: const Text('Choose where to send'),
+          child: const Text(
+            'Choose where to send',
+            textAlign: TextAlign.center,
+          ),
         ),
-      ],
+        labels: ('Cancel', 'Choose where to send'),
+      ),
     );
   }
 }

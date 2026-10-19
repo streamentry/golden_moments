@@ -5,6 +5,7 @@ import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/models/puzzle_board.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
+import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
 
 /// Experimental tap-to-place picture puzzle (GM-009), reachable only in
 /// builds made with `GM_EXPERIMENTS=true`. No drag, clock, score or hint
@@ -26,11 +27,18 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
   late final Random _random = widget.random ?? Random();
   late ActivityPicture _picture;
   late PuzzleBoard _board;
+  final GmMoreBelow _moreBelow = GmMoreBelow();
 
   @override
   void initState() {
     super.initState();
     _start();
+  }
+
+  @override
+  void dispose() {
+    _moreBelow.dispose();
+    super.dispose();
   }
 
   void _start() {
@@ -64,176 +72,156 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
     final theme = Theme.of(context);
     final scheme = theme.colorScheme;
     final n = widget.size;
-    final scale = MediaQuery.textScalerOf(context).scale(16) / 16;
     final complete = _board.complete;
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: gmToolbarHeight(context),
         title: const GmTitle('Picture puzzle'),
       ),
-      body: SafeArea(
-        child: Center(
-          child: ConstrainedBox(
-            constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
-            child: LayoutBuilder(
-              builder: (context, constraints) {
-                final available = constraints.maxWidth - 2 * gmSpaceLg;
-                // Size the board to the height too, so the pieces below it
-                // are in view without scrolling at ordinary text sizes.
-                final fit = constraints.maxHeight * 0.42;
-                final gridSide = max(
-                  n * gmTileMin + gmTileGap * (n - 1),
-                  min(available, min(300, fit)),
-                ).toDouble();
-                final slot = (gridSide - gmTileGap * (n - 1)) / n;
-                final trayPiece = max(
-                  gmTileMin,
-                  min(slot * 0.6, 76),
-                ).toDouble();
-                return SingleChildScrollView(
-                  padding: const EdgeInsets.all(gmSpaceLg),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Row(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Semantics(
-                            label: 'The whole picture: ${_picture.label}',
-                            child: ExcludeSemantics(
-                              child: SizedBox.square(
-                                dimension: 72,
-                                child: DecoratedBox(
-                                  decoration: ShapeDecoration(
-                                    color: scheme.surface,
-                                    shape: gmTileShape(scheme),
-                                  ),
-                                  child: Padding(
-                                    padding: const EdgeInsets.all(gmSpaceXs),
-                                    child: PictureView(picture: _picture),
+      body: _moreBelow.watch(
+        SafeArea(
+          child: Center(
+            child: ConstrainedBox(
+              constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
+              child: LayoutBuilder(
+                builder: (context, constraints) {
+                  final available = constraints.maxWidth - 2 * gmSpaceLg;
+                  // Size the board to the height too, so the pieces below it
+                  // are in view without scrolling at ordinary text sizes; on
+                  // a tablet it grows with the screen like the other boards.
+                  final fit = constraints.maxHeight * 0.42;
+                  final gridSide = max<double>(
+                    n * gmTileMin + gmTileGap * (n - 1),
+                    min(available, fit),
+                  );
+                  final slot = (gridSide - gmTileGap * (n - 1)) / n;
+                  // Loose pieces stay on one row whenever they can.
+                  final pieces = n * n;
+                  final rowFit =
+                      (available - gmTileGap * (pieces - 1)) / pieces;
+                  final trayPiece = max<double>(
+                    gmTileMin,
+                    min(min(slot * 0.6, 120), rowFit),
+                  );
+                  return SingleChildScrollView(
+                    padding: const EdgeInsets.all(gmSpaceLg),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          'Tap a piece, then tap where it goes. Tap a placed '
+                          'piece to take it back.',
+                          style: theme.textTheme.bodyLarge,
+                        ),
+                        const SizedBox(height: gmSpaceMd),
+                        // The reference picture and its name read as one.
+                        Semantics(
+                          label: 'The whole picture: ${_picture.label}',
+                          child: ExcludeSemantics(
+                            child: Row(
+                              children: [
+                                SizedBox.square(
+                                  dimension: 72,
+                                  child: DecoratedBox(
+                                    decoration: ShapeDecoration(
+                                      color: scheme.surface,
+                                      shape: gmTileShape(scheme),
+                                    ),
+                                    child: Padding(
+                                      padding: const EdgeInsets.all(gmSpaceXs),
+                                      child: PictureView(picture: _picture),
+                                    ),
                                   ),
                                 ),
-                              ),
+                                const SizedBox(width: gmSpaceMd),
+                                Expanded(
+                                  child: Text(
+                                    'The whole picture',
+                                    style: theme.textTheme.bodyMedium?.copyWith(
+                                      color: scheme.onSurfaceVariant,
+                                    ),
+                                  ),
+                                ),
+                              ],
                             ),
                           ),
-                          const SizedBox(width: gmSpaceMd),
-                          Expanded(
-                            child: Text(
-                              'Tap a piece, then tap where it goes. Tap a '
-                              'placed piece to take it back.',
-                              style: theme.textTheme.bodyLarge,
-                            ),
-                          ),
-                        ],
-                      ),
-                      const SizedBox(height: gmSpaceXs),
-                      Text(
-                        'The whole picture',
-                        style: theme.textTheme.bodyMedium?.copyWith(
-                          color: scheme.onSurfaceVariant,
                         ),
-                      ),
-                      const SizedBox(height: gmSpaceMd),
-                      Center(
-                        child: SizedBox(
-                          width: gridSide,
-                          child: Wrap(
+                        const SizedBox(height: gmSpaceMd),
+                        Center(
+                          child: SizedBox(
+                            width: gridSide,
+                            child: Wrap(
+                              spacing: gmTileGap,
+                              runSpacing: gmTileGap,
+                              children: [
+                                for (var s = 0; s < n * n; s++) _slot(s, slot),
+                              ],
+                            ),
+                          ),
+                        ),
+                        if (_board.tray.isNotEmpty) ...[
+                          const SizedBox(height: gmSpaceLg),
+                          Semantics(
+                            header: true,
+                            child: Text(
+                              'Pieces',
+                              style: theme.textTheme.titleMedium,
+                            ),
+                          ),
+                          const SizedBox(height: gmSpaceSm),
+                          Wrap(
                             spacing: gmTileGap,
                             runSpacing: gmTileGap,
                             children: [
-                              for (var s = 0; s < n * n; s++) _slot(s, slot),
+                              for (var i = 0; i < _board.tray.length; i++)
+                                _trayPiece(_board.tray[i], trayPiece, i),
                             ],
                           ),
-                        ),
-                      ),
-                      if (_board.tray.isNotEmpty) ...[
+                        ],
                         const SizedBox(height: gmSpaceLg),
                         Semantics(
-                          header: true,
+                          liveRegion: true,
                           child: Text(
-                            'Pieces',
-                            style: theme.textTheme.titleMedium,
+                            complete
+                                ? 'The picture is together.'
+                                : 'There is no time limit.',
+                            style: theme.textTheme.bodyLarge,
                           ),
                         ),
-                        const SizedBox(height: gmSpaceSm),
-                        Wrap(
-                          spacing: gmTileGap,
-                          runSpacing: gmTileGap,
-                          children: [
-                            for (var i = 0; i < _board.tray.length; i++)
-                              _trayPiece(_board.tray[i], trayPiece, i),
-                          ],
-                        ),
                       ],
-                      const SizedBox(height: gmSpaceLg),
-                      Semantics(
-                        liveRegion: true,
-                        child: Text(
-                          complete
-                              ? 'The picture is together.'
-                              : 'There is no time limit.',
-                          style: theme.textTheme.bodyLarge,
-                        ),
-                      ),
-                    ],
-                  ),
-                );
-              },
+                    ),
+                  );
+                },
+              ),
             ),
           ),
         ),
       ),
-      bottomNavigationBar: SafeArea(
-        child: Center(
-          heightFactor: 1,
-          child: ConstrainedBox(
-            constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
-            child: Padding(
-              padding: const EdgeInsets.fromLTRB(
-                gmSpaceLg,
-                0,
-                gmSpaceLg,
-                gmSpaceMd,
-              ),
-              child: _exitButtons(complete: complete, stacked: scale > 1.3),
-            ),
-          ),
-        ),
+      bottomNavigationBar: GmBottomBar(
+        moreBelow: _moreBelow,
+        child: _exitButtons(complete: complete),
       ),
     );
   }
 
-  Widget _exitButtons({required bool complete, required bool stacked}) {
+  /// Side by side only when both labels fit on one line; stacked, the one
+  /// primary action (Play again) comes first, as on the matching board.
+  Widget _exitButtons({required bool complete}) {
+    const doneLabel = 'Done for now';
+    final againLabel = complete ? 'Play again' : 'Start again';
     final done = OutlinedButton(
       onPressed: () => Navigator.of(context).pop(),
-      child: const Text('Done for now'),
+      child: const Text(doneLabel, textAlign: TextAlign.center),
     );
+    final label = Text(againLabel, textAlign: TextAlign.center);
     final again = complete
-        ? FilledButton(
-            onPressed: () => setState(_start),
-            child: const Text('Play again'),
-          )
-        : OutlinedButton(
-            onPressed: () => setState(_start),
-            child: const Text('Start again'),
-          );
-    if (stacked) {
-      return Column(
-        mainAxisSize: MainAxisSize.min,
-        crossAxisAlignment: CrossAxisAlignment.stretch,
-        children: [
-          done,
-          const SizedBox(height: gmSpaceSm),
-          again,
-        ],
-      );
-    }
-    return Row(
-      children: [
-        Expanded(child: done),
-        const SizedBox(width: gmSpaceMd),
-        Expanded(child: again),
-      ],
+        ? FilledButton(onPressed: () => setState(_start), child: label)
+        : OutlinedButton(onPressed: () => setState(_start), child: label);
+    return GmButtonPair(
+      first: done,
+      second: again,
+      labels: (doneLabel, againLabel),
+      secondOnTop: complete,
     );
   }
 

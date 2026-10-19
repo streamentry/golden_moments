@@ -114,7 +114,7 @@ void main() {
     expect(await _saved('starter'), isNotNull);
     await tester.tap(find.text('Start again'));
     await tester.pumpAndSettle();
-    await tester.tap(find.widgetWithText(FilledButton, 'Start again'));
+    await tester.tap(find.widgetWithText(TextButton, 'Start again'));
     await tester.pumpAndSettle();
     expect(await _saved('starter'), isNull);
   });

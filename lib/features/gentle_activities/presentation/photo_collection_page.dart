@@ -77,28 +77,46 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     unawaited(_load(recover: true));
   }
 
+  /// Asks before acting. For a [destructive] step, keeping things as they
+  /// are is the safe choice and so the primary action (DESIGN.md › Dialogs).
   Future<bool> _confirm(
     String title,
     String message, {
     String confirmLabel = 'Continue',
+    bool destructive = false,
   }) async {
     if (!mounted) return false;
+    const keep = 'Cancel';
+    final confirm = Text(confirmLabel, textAlign: TextAlign.center);
     return await showDialog<bool>(
           context: context,
           builder: (context) => AlertDialog(
             scrollable: true,
             title: Text(title),
             content: Text(message),
-            actions: [
-              TextButton(
-                onPressed: () => Navigator.pop(context, false),
-                child: const Text('Cancel'),
-              ),
-              FilledButton(
-                onPressed: () => Navigator.pop(context, true),
-                child: Text(confirmLabel),
-              ),
-            ],
+            actions: destructive
+                ? gmDialogActions(
+                    other: TextButton(
+                      onPressed: () => Navigator.pop(context, true),
+                      child: confirm,
+                    ),
+                    primary: FilledButton(
+                      onPressed: () => Navigator.pop(context, false),
+                      child: const Text(keep, textAlign: TextAlign.center),
+                    ),
+                    labels: (confirmLabel, keep),
+                  )
+                : gmDialogActions(
+                    other: TextButton(
+                      onPressed: () => Navigator.pop(context, false),
+                      child: const Text(keep, textAlign: TextAlign.center),
+                    ),
+                    primary: FilledButton(
+                      onPressed: () => Navigator.pop(context, true),
+                      child: confirm,
+                    ),
+                    labels: (keep, confirmLabel),
+                  ),
           ),
         ) ??
         false;
@@ -195,6 +213,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
       'device backups are not changed.',
       // Say what the button does; a destructive step is never 'Continue'.
       confirmLabel: id == null ? 'Remove all copies' : 'Remove copy',
+      destructive: true,
     );
     if (!confirmed || !mounted) return;
     setState(() {
@@ -701,11 +720,18 @@ class _PhotoOptionsSheetState extends State<_PhotoOptionsSheet> {
               onChanged: (value) => setState(() => _hidden = value),
             ),
             const SizedBox(height: gmSpaceSm),
-            FilledButton(onPressed: _save, child: const Text('Save')),
-            const SizedBox(height: gmSpaceSm),
-            OutlinedButton(
-              onPressed: () => Navigator.pop(context),
-              child: const Text('Cancel'),
+            // Full width like every sheet's actions; Save is the primary.
+            GmButtonPair(
+              first: OutlinedButton(
+                onPressed: () => Navigator.pop(context),
+                child: const Text('Cancel', textAlign: TextAlign.center),
+              ),
+              second: FilledButton(
+                onPressed: _save,
+                child: const Text('Save', textAlign: TextAlign.center),
+              ),
+              labels: ('Cancel', 'Save'),
+              secondOnTop: true,
             ),
             const SizedBox(height: gmSpaceSm),
             TextButton.icon(

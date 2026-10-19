@@ -189,7 +189,11 @@ class _GentleHomePageState extends State<GentleHomePage> {
       TextButton.icon(
         onPressed: () => _open(const MainNavigation()),
         icon: const Icon(Icons.collections_bookmark_outlined),
-        label: const Text('Explore the picture-pack library'),
+        // Centred like the line under it when it wraps.
+        label: const Text(
+          'Explore the picture-pack library',
+          textAlign: TextAlign.center,
+        ),
       ),
       Text(
         'All picture packs are included. Ready to play offline.',

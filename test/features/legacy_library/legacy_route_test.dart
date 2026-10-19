@@ -292,7 +292,7 @@ void main() {
 
       await tester.tap(find.widgetWithText(OutlinedButton, 'Start again'));
       await tester.pumpAndSettle();
-      await tester.tap(find.widgetWithText(FilledButton, 'Start again'));
+      await tester.tap(find.widgetWithText(TextButton, 'Start again'));
       await tester.pumpAndSettle();
       expect(cubit.state.matchedPairs, 0);
       handle.dispose();
@@ -352,8 +352,12 @@ void main() {
       expect(cubit.state.status, GameStatus.completed);
       expect(cubit.state.moves, greaterThan(12));
       expect(find.text('All pairs together'), findsOneWidget);
-      expect(find.text('Play again'), findsOneWidget);
-      expect(find.text('Choose another pack'), findsOneWidget);
+      // As on the gentle board, Play again is the one primary action.
+      expect(find.widgetWithText(FilledButton, 'Play again'), findsOneWidget);
+      expect(
+        find.widgetWithText(OutlinedButton, 'Choose another pack'),
+        findsOneWidget,
+      );
       expect(find.textContaining(scoreLike, findRichText: true), findsNothing);
       expect(find.bySemanticsLabel(scoreLike), findsNothing);
       handle.dispose();

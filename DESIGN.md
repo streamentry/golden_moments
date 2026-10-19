@@ -325,6 +325,8 @@ Rules:
 
 Hierarchy comes from **tone and borders, not shadows**. Pages are parchment. Tiles and cards are linen, with a 1px Driftwood border, or a 4px Antique Gold border when selected. Elevation is limited to 0 for content, 2 for raised cards and 8 for dialogs and sheets. Do not stack shadows.
 
+Scrolling shows by tone too. When content scrolls under the app bar, the bar turns linen. A fixed bottom bar ("Done for now", Start again, Next) gets a 1px Driftwood line along its top edge only while content continues beneath it. Text cut off at that edge then reads as "more below" rather than as clipped.
+
 Every surface that carries text is **opaque**. Translucent or blurred "glass" layers (for example iOS 26 Liquid Glass) are fine in system-owned chrome but never behind instructions, labels or pictures. The scrim behind dialogs and sheets darkens the page (about 50% ink) so the foreground is unambiguous.
 
 ## Shapes
@@ -362,11 +364,11 @@ Material 3 widgets are themed centrally in `gmBuildTheme`. Screens use stock `Fi
 | Matched | 4px Antique Gold border + gold check badge (white ring), picture stays visible | value "Matched", disabled |
 | Mismatch | Both stay as they are until the **next deliberate tap**. No shake, red, sound or timer | Live region: "Take your time. Tap a picture to continue." |
 
-**Comfort-level chips:** `ChoiceChip`, at least 48px tall, labelled "4 tiles", "6 tiles", "8 tiles" or "12 tiles". More tiles are a *choice*, never a level-up, and the app never raises difficulty automatically.
+**Comfort-level chips:** `ChoiceChip`, at least 48px tall, labelled "4 tiles", "6 tiles", "8 tiles" or "12 tiles". They have equal widths and fill full rows: all on one row when every label fits, otherwise two per row, otherwise one, so no choice sits alone. More tiles are a *choice*, never a level-up, and the app never raises difficulty automatically.
 
 **Switch rows:** `SwitchListTile` with a plain title and a one-line subtitle that explains the consequence ("Turn off only when you prefer hidden tiles"). The whole row is the target.
 
-**Dialogs and sheets:** a title in `headline-sm`, body text in `body-lg`, and at most two actions (the safe one on the right as primary). Never auto-dismiss, never count down and never trap the user. Destructive confirmations name exactly what will be removed and say that originals in the photo library are untouched.
+**Dialogs and sheets:** a title in `headline-sm`, body text in `body-lg`, and at most two actions (the safe one on the right as primary). When both labels do not fit side by side, the actions stack full width with the primary first. Sheet actions span the sheet. Never auto-dismiss, never count down and never trap the user. Destructive confirmations name exactly what will be removed and say that originals in the photo library are untouched.
 
 **Snackbars:** for non-essential, recoverable news only ("The picture library is unavailable. Your local activities still work."). Anything the user must act on goes inline or in a dialog.
 

@@ -162,7 +162,12 @@ ThemeData gmBuildTheme() {
     dividerColor: scheme.outlineVariant,
     iconTheme: const IconThemeData(color: onSurface, size: 28),
     appBarTheme: AppBarTheme(
-      backgroundColor: background,
+      // Content scrolled under the bar shows by tone, not a shadow: the bar
+      // turns linen, like a card edge (DESIGN.md › Elevation).
+      backgroundColor: WidgetStateColor.resolveWith(
+        (states) =>
+            states.contains(WidgetState.scrolledUnder) ? surface : background,
+      ),
       surfaceTintColor: Colors.transparent,
       elevation: 0,
       scrolledUnderElevation: 0,
@@ -403,7 +408,6 @@ class GmOutlineButton extends StatelessWidget {
   }
 }
 
-/// Gold check badge that marks a matched tile by shape, not color alone.
 /// Two peer buttons that sit side by side only when both labels fit on one
 /// line at the current text size, and otherwise stack full width, so a label
 /// is never broken mid-phrase (GM-012). [labels] are the visible words of
@@ -482,6 +486,62 @@ class GmButtonPair extends StatelessWidget {
   }
 }
 
+/// The two actions of a dialog in the [GmButtonPair] layout: side by side
+/// with [primary] on the right when both labels fit, otherwise stacked full
+/// width with [primary] first. In a confirmation the primary is the safe
+/// choice, such as "Keep this board" (DESIGN.md › Dialogs and sheets).
+/// [labels] are the visible words of ([other], [primary]).
+///
+/// A dialog sizes itself to its content, so the choice is made from the
+/// widest the dialog can be rather than with a [LayoutBuilder]; side by
+/// side, the row's own width then keeps the dialog wide enough for both.
+List<Widget> gmDialogActions({
+  required Widget other,
+  required Widget primary,
+  required (String, String) labels,
+}) => [
+  Builder(
+    builder: (context) {
+      final dialog = DialogTheme.of(context);
+      final inset =
+          dialog.insetPadding?.horizontal ?? _gmDialogInset.horizontal;
+      final padding =
+          dialog.actionsPadding?.horizontal ?? _gmDialogActionsPadding;
+      // showDialog keeps the dialog inside the safe area (a notch or the
+      // home indicator in landscape), and the padding it used up is gone
+      // from the MediaQuery here, so read the window's own.
+      final safe = MediaQueryData.fromView(View.of(context)).padding.horizontal;
+      final room = MediaQuery.sizeOf(context).width - safe - inset - padding;
+      final half = (room - gmSpaceMd) / 2;
+      final sideBySide =
+          GmButtonPair.neededWidth(context, labels.$1) <= half &&
+          GmButtonPair.neededWidth(context, labels.$2) <= half;
+      if (sideBySide) {
+        return Row(
+          children: [
+            Expanded(child: other),
+            const SizedBox(width: gmSpaceMd),
+            Expanded(child: primary),
+          ],
+        );
+      }
+      return Column(
+        mainAxisSize: MainAxisSize.min,
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: [
+          primary,
+          const SizedBox(height: gmSpaceSm),
+          other,
+        ],
+      );
+    },
+  ),
+];
+
+/// Material's dialog defaults, used when the theme leaves them unset.
+const _gmDialogInset = EdgeInsets.symmetric(horizontal: 40, vertical: 24);
+const double _gmDialogActionsPadding = gmSpaceLg * 2;
+
 /// The back of a hidden tile: Oat with an inset Honey frame and a small dot
 /// ornament, so it reads as the back of a card rather than a missing photo.
 /// Purely decorative (DESIGN.md › Ornament); the tile's label says it is
@@ -556,6 +616,7 @@ class GmTitle extends StatelessWidget {
       Text(text, softWrap: true, maxLines: 3, overflow: TextOverflow.visible);
 }
 
+/// Gold check badge that marks a matched tile by shape, not color alone.
 class GmMatchBadge extends StatelessWidget {
   const new({super.key});
 
