@@ -129,7 +129,7 @@
       },
       "GM-002": {
         "status": "implemented_unverified",
-        "scope": "Done for now is fixed and visible on the gentle matching screen, Look together (with Previous/Next in the same bar, stacked above 130% text) and the legacy picture-pack game (side by side when the labels fit). Start again confirms only with progress and Cancel/Keep this board keeps the exact board; closing legacy Options any way, including system Back, resumes play; finishing offers Play again beside Done/Choose another pack with no rating request. Photo collection, help and library pages keep the standard labelled Back. Switch navigation and device checks pending. End-to-end journeys on iPhone and iPad simulators exercise Done for now, Start again, Carry on/Start fresh and system-free exits on every screen they visit.",
+        "scope": "Done for now is fixed and visible on the gentle matching screen, Look together (with Previous/Next in the same bar, stacked above 130% text) and the legacy picture-pack game (side by side when the labels fit). Start again confirms only with progress and Cancel/Keep this board keeps the exact board; closing legacy Options any way, including system Back, resumes play; finishing offers Play again beside Done/Choose another pack with no rating request. Photo collection, help and library pages keep the standard labelled Back. Switch navigation and device checks pending. End-to-end journeys on iPhone and iPad simulators exercise Done for now, Start again, Carry on/Start fresh and system-free exits on every screen they visit. Confirmations make keeping things the filled primary action ('Keep this board', 'Keep my settings', 'Cancel' before removing a copy); the destructive choice is a text button, and when both labels do not fit the actions stack full width with the safe one first. Fixed bottom bars show a 1px Driftwood line only while content continues beneath them. Journey J9 checks this on the simulators at 100% and 200% text.",
         "evidence": [
           "lib/features/gentle_activities/presentation/gentle_game_page.dart",
           "lib/features/gentle_activities/presentation/photo_together_page.dart",
@@ -137,18 +137,23 @@
           "test/features/gentle_activities/gentle_ui_test.dart",
           "test/features/gentle_activities/photo_together_test.dart",
           "test/features/legacy_library/legacy_route_test.dart",
-          "integration_test/app_journeys_test.dart"
+          "integration_test/app_journeys_test.dart",
+          "lib/shared/widgets/gm_bottom_bar.dart",
+          "test/shared/gm_bottom_bar_test.dart",
+          "test/ux_detail_test.dart",
+          "integration_test/journeys/safe_confirmations.dart"
         ]
       },
       "GM-003": {
         "status": "implemented_unverified",
-        "scope": "Gentle tile count and picture visibility persist as a versioned, field-by-field-safe record; reset touches comfort choices only. In the picture-pack library, music and sounds are off when no choice is stored, a stored choice is read back unchanged and never rewritten on load, and a toggle saves only its own key (existing installs that never chose now start quiet). System text size and Reduce Motion are honored rather than duplicated in app settings. Upgrade of an install that had sound on is not device-tested.",
+        "scope": "Gentle tile count and picture visibility persist as a versioned, field-by-field-safe record; reset touches comfort choices only. In the picture-pack library, music and sounds are off when no choice is stored, a stored choice is read back unchanged and never rewritten on load, and a toggle saves only its own key (existing installs that never chose now start quiet). System text size and Reduce Motion are honored rather than duplicated in app settings. Upgrade of an install that had sound on is not device-tested. Tile-count chips have equal widths in full rows (one row, two per row or one per row), so no choice sits alone and no label wraps; checked at 320 and 390 wide, at 100% and 200% text, and on iPad.",
         "evidence": [
           "lib/features/gentle_activities/data/gentle_preferences.dart",
           "lib/data/models/sound_setting.dart",
           "test/features/gentle_activities/gentle_preferences_test.dart",
           "test/features/gentle_activities/gentle_ui_test.dart",
-          "test/features/legacy_library/legacy_route_test.dart"
+          "test/features/legacy_library/legacy_route_test.dart",
+          "test/ux_detail_test.dart"
         ]
       },
       "GM-004": {
@@ -217,13 +222,14 @@
       },
       "GM-012": {
         "status": "partial",
-        "scope": "Automated reflow at 200% text (no overflow, essential controls reachable, nothing clamped) now covers the gentle home, matching board, Look together, photo collection, help, the legacy game, category and pack pages and the library home with pack cards (320x568, 390x844, 844x390, 1024x1366). Pack titles and themes are no longer cut to one line. Largest system setting beyond 200%, native display zoom and device observation pending. App-bar titles now wrap and the toolbar grows with text size instead of ending in an ellipsis; peer buttons sit side by side only when both labels fit; pack cards are one column on phones. End-to-end journeys at 200% text pass on iPhone and iPad simulators.",
+        "scope": "Automated reflow at 200% text (no overflow, essential controls reachable, nothing clamped) now covers the gentle home, matching board, Look together, photo collection, help, the legacy game, category and pack pages and the library home with pack cards (320x568, 390x844, 844x390, 1024x1366). Pack titles and themes are no longer cut to one line. Largest system setting beyond 200%, native display zoom and device observation pending. App-bar titles now wrap and the toolbar grows with text size instead of ending in an ellipsis; peer buttons sit side by side only when both labels fit; pack cards are one column on phones. End-to-end journeys at 200% text pass on iPhone and iPad simulators. At 200% a finished gentle board scrolls its closing words into view above the buttons; the picture puzzle's exit labels no longer break mid-phrase; dialog actions stack full width rather than squeezing.",
         "evidence": [
           "test/features/gentle_activities/gentle_ui_test.dart",
           "test/features/gentle_activities/photo_together_test.dart",
           "test/features/legacy_library/legacy_layout_test.dart",
           "test/features/home/library_home_text_scale_test.dart",
-          "integration_test/app_journeys_test.dart"
+          "integration_test/app_journeys_test.dart",
+          "test/ux_detail_test.dart"
         ]
       },
       "GM-013": {
@@ -259,13 +265,14 @@
       },
       "GM-016": {
         "status": "partial",
-        "scope": "Widget tests cover small phone, phone, landscape phone and iPad for the gentle home, board and Look together, the legacy game, category, pack and library pages; rotating mid-turn keeps the same board and selection, and rotating while viewing keeps the picture and options. iOS simulator (iPhone 17 Pro Max) observed. Real iPad, split screen and keyboard-open checks pending. End-to-end journeys pass on iPhone 17 Pro Max and iPad Pro 13-inch simulators.",
+        "scope": "Widget tests cover small phone, phone, landscape phone and iPad for the gentle home, board and Look together, the legacy game, category, pack and library pages; rotating mid-turn keeps the same board and selection, and rotating while viewing keeps the picture and options. iOS simulator (iPhone 17 Pro Max) observed. Real iPad, split screen and keyboard-open checks pending. End-to-end journeys pass on iPhone 17 Pro Max and iPad Pro 13-inch simulators. On iPad the picture puzzle board grows with the screen and its loose pieces stay on one row.",
         "evidence": [
           "test/features/gentle_activities/gentle_ui_test.dart",
           "test/features/gentle_activities/photo_together_test.dart",
           "test/features/legacy_library/legacy_layout_test.dart",
           "test/features/legacy_library/legacy_landscape_test.dart",
-          "integration_test/app_journeys_test.dart"
+          "integration_test/app_journeys_test.dart",
+          "test/ux_detail_test.dart"
         ]
       },
       "GM-017": {
@@ -333,11 +340,12 @@
       },
       "GM-025": {
         "status": "partial",
-        "scope": "Rights register for every shipped asset group exists (docs/specs/asset-provenance.json) and a test requires every declared asset and file on disk to be covered. Recorded: image source URL/hash/size, bundled Roboto license text. Unreviewed and therefore release-blocking (scripts/release_metadata.py --release now refuses, and also refuses a reviewed or bundled-license group that still lists gaps): catalog images (no author/license/attribution/review date), sounds, app icons, native launcher/splash art in the iOS and Android projects, pack index text. Needs a human rights review; nothing is marked reviewed here.",
+        "scope": "Rights register for every shipped asset group exists (docs/specs/asset-provenance.json) and a test requires every declared asset and file on disk to be covered. Recorded: image source URL/hash/size, bundled Roboto license text. Unreviewed and therefore release-blocking (scripts/release_metadata.py --release now refuses, and also refuses a reviewed or bundled-license group that still lists gaps): catalog images (no author/license/attribution/review date), sounds, app icons, native launcher/splash art in the iOS and Android projects, pack index text. Needs a human rights review; nothing is marked reviewed here. The Classic Cars cover and first preview, which showed an unrelated light-bulb photo, are now made locally from the pack's own car photos (paths and the 121-asset mapping unchanged; derivation recorded in docs/catalog-image-sources.json), and its screen-reader captions name the cars actually shown. The pack's 'Classic'/'vintage' title and description still describe modern cars and need the content review.",
         "evidence": [
           "docs/specs/asset-provenance.json",
           "tests/test_asset_provenance.py",
-          "docs/catalog-image-sources.json"
+          "docs/catalog-image-sources.json",
+          "assets/data/packs_index.json"
         ]
       },
       "GM-026": {
