@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/shared/widgets/gm_copyable_text.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 // The project path is significant on GitHub Pages. Do not strip it.
@@ -164,7 +165,7 @@ class LegalInfoPage extends StatelessWidget {
                   style: theme.textTheme.bodyMedium,
                 ),
                 const SizedBox(height: gmSpaceSm),
-                const SelectableText('apple@locuno.com'),
+                const GmCopyableText('apple@locuno.com'),
                 const SizedBox(height: gmSpaceLg),
                 TextButton.icon(
                   onPressed: () => Navigator.of(context).pop(),

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/shared/utils/support_info.dart';
+import 'package:golden_moments/shared/widgets/gm_copyable_text.dart';
 import 'package:share_plus/share_plus.dart';
 
 /// What the platform reported about a share. `unknown` is common: many
@@ -151,7 +152,7 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
                   'You review exactly what will be sent. Nothing is sent '
                   'automatically.',
                 ),
-                SelectableText(
+                GmCopyableText(
                   supportEmail,
                   style: theme.textTheme.titleMedium,
                 ),
@@ -159,16 +160,16 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
                   'Online help, when you are connected (copy this into your '
                   'browser; the app does not open it):',
                 ),
-                SelectableText(supportUrl, style: theme.textTheme.titleMedium),
+                GmCopyableText(supportUrl, style: theme.textTheme.titleMedium),
                 para(
                   'Privacy policy and terms of use (also copy-only; the app '
                   'does not open them):',
                 ),
-                SelectableText(
+                GmCopyableText(
                   privacyPolicyUrl,
                   style: theme.textTheme.titleMedium,
                 ),
-                SelectableText(termsUrl, style: theme.textTheme.titleMedium),
+                GmCopyableText(termsUrl, style: theme.textTheme.titleMedium),
                 const SizedBox(height: gmSpaceSm),
                 OutlinedButton.icon(
                   onPressed: _writeNote,
@@ -253,7 +254,7 @@ class _NoteDialogState extends State<_NoteDialog> {
             style: Theme.of(context).textTheme.titleMedium,
           ),
           const SizedBox(height: gmSpaceSm),
-          SelectableText(preview),
+          GmCopyableText(preview),
         ],
       ),
       actions: gmDialogActions(
@@ -316,7 +317,7 @@ class _ProblemDialogState extends State<_ProblemDialog> {
             style: Theme.of(context).textTheme.titleMedium,
           ),
           const SizedBox(height: gmSpaceSm),
-          SelectableText(diagnosticSummary(_kind)),
+          GmCopyableText(diagnosticSummary(_kind)),
         ],
       ),
       actions: gmDialogActions(
