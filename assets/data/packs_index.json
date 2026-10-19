@@ -26,8 +26,8 @@
     },
     {
       "id": "vintage",
-      "name": "Vintage",
-      "description": "Classic memories from the past",
+      "name": "Cars",
+      "description": "Cars and trucks to look at and talk about",
       "iconUrl": "assets/images/catalog/e41dbac24f6286e87ae65fd8.jpg",
       "packCount": 1
     },
@@ -176,9 +176,9 @@
     },
     {
       "id": "vintage_cars",
-      "title": "Classic Cars",
-      "description": "Beautiful vintage automobiles from bygone eras",
-      "theme": "Automotive History",
+      "title": "Cars and Trucks",
+      "description": "Shiny cars and trucks to look at and talk about",
+      "theme": "On the Road",
       "category": "vintage",
       "difficulty": "hard",
       "isPremium": false,
@@ -189,9 +189,8 @@
       "createdAt": "2025-01-01T00:00:00Z",
       "updatedAt": "2025-01-01T00:00:00Z",
       "tags": [
-        "vintage",
         "cars",
-        "classic",
+        "trucks",
         "automotive"
       ],
       "thumbnailUrl": "assets/images/catalog/9817468bddffe6d1a96bd519.jpg",
