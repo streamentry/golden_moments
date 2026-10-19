@@ -138,3 +138,18 @@ asset-rights gates. The release validator remains fail-closed. See
 
 Apple readback confirmed build 6 **WAITING_FOR_REVIEW** at 2026-10-18T17:44:55Z;
 public release remains MANUAL. This is submitted, not approved or published.
+
+
+## iOS 1.4.0 build 7 submission (2026-10-19)
+
+Main has candidate `9ff8c1b`; App Store Connect 1.4.0 draft exists with six
+complete iPhone and six complete iPad screenshots whose checksums match the
+committed latest-main assets. Canonical en-US release notes/promotional text
+and review instructions are saved; release is set to automatic after review
+approval. Flutter analysis and 430 tests, 63 Python tests and metadata checks
+passed locally; hosted workflows on the candidate passed. Rebuilding the iOS
+CocoaPods manifest from current Flutter plugins exposed that the tracked lock
+was stale. The reviewed native lock/Xcode integration PR and a signed build 7
+archive are now required before attaching and submitting this draft. See
+`docs/release/app-store-1.4.0-build7.md`; picker/device, accessibility, human
+comprehension and inherited rights gates remain pending.
