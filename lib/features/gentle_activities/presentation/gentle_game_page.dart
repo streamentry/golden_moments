@@ -2,6 +2,7 @@ import 'dart:async';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/data/gentle_preferences.dart';
 import 'package:golden_moments/features/gentle_activities/data/gentle_session.dart';
@@ -43,6 +44,9 @@ class _GentleGamePageState extends State<GentleGamePage> {
   /// The line under the board that names the finish; at large text the
   /// page scrolls to it when the last pair is found.
   final GlobalKey _finishKey = GlobalKey();
+
+  /// "All pairs together.", above the board unless the text is very large.
+  final GlobalKey _headingKey = GlobalKey();
 
   /// False until a saved board has been offered (or ruled out). Until then
   /// taps are not saved, so an earlier unfinished board is never overwritten
@@ -179,22 +183,37 @@ class _GentleGamePageState extends State<GentleGamePage> {
     }
   }
 
-  /// At large text the finish is named below the board, at the end of the
-  /// page; scroll to the end so it is not left under the bar. Without a
-  /// page scroll view this does nothing.
+  /// Brings the finish into view when the page scrolls: "All pairs
+  /// together." and the closing words below the board. When both fit, the
+  /// page goes as far down as it can with the heading still in sight (to the
+  /// end where possible, so nothing is left under the bar). When they do
+  /// not, the heading is what stays in view, with as little movement as
+  /// possible. Without a page scroll view this does nothing.
   void _revealFinish() {
     WidgetsBinding.instance.addPostFrameCallback((_) {
-      final target = _finishKey.currentContext;
-      if (!mounted || target == null) return;
-      final position = Scrollable.maybeOf(target)?.position;
-      if (position == null || position.extentAfter <= 0) return;
-      final calm = MediaQuery.disableAnimationsOf(context);
-      if (calm) {
-        position.jumpTo(position.maxScrollExtent);
+      final statusContext = _finishKey.currentContext;
+      final heading = _headingKey.currentContext?.findRenderObject();
+      final status = statusContext?.findRenderObject();
+      if (!mounted || statusContext == null || heading == null) return;
+      final scrollable = Scrollable.maybeOf(statusContext);
+      final viewport = RenderAbstractViewport.maybeOf(heading);
+      if (scrollable == null || viewport == null || status == null) return;
+      final position = scrollable.position;
+      final headingTop = viewport.getOffsetToReveal(heading, 0).offset;
+      final headingEnd = viewport.getOffsetToReveal(heading, 1).offset;
+      final statusEnd = viewport.getOffsetToReveal(status, 1).offset;
+      final target =
+          (statusEnd <= headingTop
+                  ? position.maxScrollExtent.clamp(statusEnd, headingTop)
+                  : position.pixels.clamp(headingEnd, headingTop))
+              .clamp(position.minScrollExtent, position.maxScrollExtent);
+      if ((target - position.pixels).abs() < 0.5) return;
+      if (MediaQuery.disableAnimationsOf(context)) {
+        position.jumpTo(target);
       } else {
         unawaited(
           position.animateTo(
-            position.maxScrollExtent,
+            target,
             duration: const Duration(milliseconds: 300),
             curve: Curves.easeOut,
           ),
@@ -429,6 +448,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
                         // confetti, score or praise (DESIGN.md › Celebration).
                         final instruction = board.complete
                             ? Semantics(
+                                key: _headingKey,
                                 liveRegion: true,
                                 header: true,
                                 child: Row(
@@ -485,10 +505,13 @@ class _GentleGamePageState extends State<GentleGamePage> {
                                   instruction,
                                   const SizedBox(height: gmSpaceMd),
                                 ],
-                                _grid(
-                                  board,
-                                  width,
-                                  constraints.maxHeight * 0.8,
+                                // Centred, like a board that fits.
+                                Center(
+                                  child: _grid(
+                                    board,
+                                    width,
+                                    constraints.maxHeight * 0.8,
+                                  ),
                                 ),
                                 const SizedBox(height: gmSpaceMd),
                                 // At large text the finish is named below the

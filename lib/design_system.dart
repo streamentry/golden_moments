@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:math' as math;
 
 /*
 ───────────────────────────────────────────────────────────────────────────────
@@ -659,21 +660,44 @@ int gmBoardColumns({
 }) {
   double tileFor(int columns) =>
       (size.width - (columns - 1) * gmTileGap) / columns;
+  // The tile the board really gets: as wide as a column, as tall as the
+  // rows allow, never below the minimum (then the board scrolls).
+  double fitted(int columns) {
+    final rows = (tileCount / columns).ceil();
+    final byHeight = size.height.isFinite
+        ? (size.height - (rows - 1) * gmTileGap) / rows
+        : double.infinity;
+    return math.max(gmTileMin, math.min(tileFor(columns), byHeight));
+  }
+
   final upper = maxColumns < 2 ? 2 : maxColumns;
+  var chosen = upper;
   for (var columns = 2; columns <= upper; columns++) {
     final tile = tileFor(columns);
     if (tile < gmTileMin) break;
     final rows = (tileCount / columns).ceil();
     if (!size.height.isFinite ||
         rows * tile + (rows - 1) * gmTileGap <= size.height) {
-      return columns;
+      chosen = columns;
+      break;
+    }
+    if (columns == upper) chosen = upper;
+  }
+  while (chosen > 2 && tileFor(chosen) < gmTileMin) {
+    chosen--;
+  }
+  // A last row with a tile or two on its own is avoided whenever a layout
+  // with full rows gives tiles at least as large (4 tiles as 2 x 2, not
+  // 3 + 1), preferring the fewest rows.
+  if (tileCount % chosen != 0) {
+    final tile = fitted(chosen);
+    for (var columns = chosen - 1; columns >= 2; columns--) {
+      if (tileCount % columns == 0 && fitted(columns) >= tile - 0.5) {
+        return columns;
+      }
     }
   }
-  var columns = upper;
-  while (columns > 2 && tileFor(columns) < gmTileMin) {
-    columns--;
-  }
-  return columns;
+  return chosen;
 }
 
 /// MEMORY TILE  (face-down / revealed / selected / matched) for the

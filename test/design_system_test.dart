@@ -356,6 +356,30 @@ void main() {
       );
     });
 
+    test('full rows win when their tiles are at least as large', () {
+      // A small phone at 200% text: 3 columns of 83-point tiles fit, but
+      // 2 x 2 gives 94-point tiles there, and 3 + 1 would leave a tile
+      // alone on a row.
+      expect(
+        gmBoardColumns(tileCount: 4, maxColumns: 4, size: const Size(272, 200)),
+        2,
+      );
+      // Too short for either: both give the same tiles, so 2 x 2.
+      expect(
+        gmBoardColumns(tileCount: 4, maxColumns: 4, size: const Size(272, 168)),
+        2,
+      );
+      // Full rows with smaller tiles do not win: 16 tiles stay in 4 columns.
+      expect(
+        gmBoardColumns(
+          tileCount: 16,
+          maxColumns: 4,
+          size: const Size(358, 680),
+        ),
+        4,
+      );
+    });
+
     test('never shrinks tiles below the minimum; scrolls instead', () {
       final columns = gmBoardColumns(
         tileCount: 40,
