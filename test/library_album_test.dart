@@ -1,0 +1,80 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_test/flutter_test.dart';
+import 'package:golden_moments/data/services/local_pack_service.dart';
+import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/shared/widgets/category_card.dart';
+import 'package:golden_moments/shared/widgets/pack_card.dart';
+
+Widget _app(Widget child) => MaterialApp(
+  theme: gmBuildTheme(),
+  home: Scaffold(
+    body: SingleChildScrollView(
+      child: Padding(padding: const EdgeInsets.all(16), child: child),
+    ),
+  ),
+);
+
+/// The picture's frame inside its card, and whether it is drawn through a
+/// rounded clip, as a print mounted in an album.
+void _expectMounted(WidgetTester tester, Finder card) {
+  final cardRect = tester.getRect(card);
+  final image = find.descendant(of: card, matching: find.byType(Image));
+  final rect = tester.getRect(image);
+  expect(rect.left - cardRect.left, greaterThanOrEqualTo(gmSpaceSm));
+  expect(rect.top - cardRect.top, greaterThanOrEqualTo(gmSpaceSm));
+  final clip = tester.widget<ClipRRect>(
+    find.ancestor(of: image, matching: find.byType(ClipRRect)).first,
+  );
+  expect(clip.borderRadius, BorderRadius.circular(gmRadiusMd));
+  // Decoded at the size it is shown, not at the file's full size.
+  expect(tester.widget<Image>(image).image, isA<ResizeImage>());
+}
+
+void main() {
+  testWidgets('a pack card mounts its cover like a print and leads with a '
+      'larger title', (tester) async {
+    final pack = (await tester.runAsync(
+      () => LocalPackService().getPackById('animals_farm'),
+    ))!;
+    await tester.pumpWidget(_app(PackCard(pack: pack)));
+    await tester.pumpAndSettle();
+    _expectMounted(tester, find.byType(Card));
+    final title = tester.widget<Text>(find.text(pack.title));
+    expect(title.style?.fontSize, 24);
+  });
+
+  testWidgets('choices sit in a footer under a hairline, only when offered', (
+    tester,
+  ) async {
+    final pack = (await tester.runAsync(
+      () => LocalPackService().getPackById('animals_farm'),
+    ))!;
+    await tester.pumpWidget(_app(PackCard(pack: pack)));
+    await tester.pumpAndSettle();
+    expect(find.byType(Divider), findsNothing);
+
+    await tester.pumpWidget(
+      _app(PackCard(pack: pack, onFavoriteChanged: (_) {}, onNotForMe: () {})),
+    );
+    await tester.pumpAndSettle();
+    final divider = tester.getRect(find.byType(Divider));
+    expect(
+      divider.top,
+      greaterThan(tester.getRect(find.text(pack.title)).bottom),
+    );
+    expect(
+      divider.bottom,
+      lessThanOrEqualTo(tester.getRect(find.text('Add to favorites')).top),
+    );
+  });
+
+  testWidgets('a topic card mounts its picture the same way', (tester) async {
+    final categories = (await tester.runAsync(
+      () => LocalPackService().getCategories(),
+    ))!;
+    final animals = categories.firstWhere((c) => c.id == 'animals');
+    await tester.pumpWidget(_app(CategoryCard(category: animals)));
+    await tester.pumpAndSettle();
+    _expectMounted(tester, find.byType(Card));
+  });
+}

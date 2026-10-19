@@ -364,6 +364,8 @@ Material 3 widgets are themed centrally in `gmBuildTheme`. Screens use stock `Fi
 | Matched | 4px Antique Gold border + gold check badge (white ring), picture stays visible | value "Matched", disabled |
 | Mismatch | Both stay as they are until the **next deliberate tap**. No shake, red, sound or timer | Live region: "Take your time. Tap a picture to continue." |
 
+**Picture-pack and topic cards:** the picture is mounted like a print in a family album: inset in its linen card by `sm`, with `rounded.md` corners, and decoded at the size it is shown (`GmMountedPicture`). Pack covers are 16:9 and at least 1170px wide, so they stay sharp on a large phone; topic pictures are square. The pack title is `title-lg`. Favorite and "Not for me" sit in a footer under a hairline, apart from the picture that starts the pack.
+
 **Comfort-level chips:** `ChoiceChip`, at least 48px tall, labelled "4 tiles", "6 tiles", "8 tiles" or "12 tiles". They have equal widths and fill full rows: all on one row when every label fits, otherwise two per row, otherwise one, so no choice sits alone. More tiles are a *choice*, never a level-up, and the app never raises difficulty automatically.
 
 **Switch rows:** `SwitchListTile` with a plain title and a one-line subtitle that explains the consequence ("Turn off only when you prefer hidden tiles"). The whole row is the target.

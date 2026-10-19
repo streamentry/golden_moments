@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/game.dart';
+import 'package:golden_moments/shared/widgets/gm_mounted_picture.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
 
 /// Every pack is bundled and starts with a single tap.
@@ -56,7 +57,17 @@ class PackCard extends StatelessWidget {
             // the tappable surface's own node (GM-014).
             child: Semantics(button: true, child: _buildLayout(theme)),
           ),
-          if (_hasActions) _buildActions(theme),
+          if (_hasActions) ...[
+            // A hairline sets the choices apart from the picture and its
+            // name, like a caption strip under a print.
+            const Divider(
+              height: 1,
+              thickness: 1,
+              indent: gmSpaceSm,
+              endIndent: gmSpaceSm,
+            ),
+            _buildActions(theme),
+          ],
         ],
       ),
     );
@@ -115,40 +126,29 @@ class PackCard extends StatelessWidget {
       children: [
         Stack(
           children: [
-            ColoredBox(
-              color: gmSurf200,
-              child: AspectRatio(
-                // Cards are at least 300 wide (PackGrid), so a wide frame
-                // keeps the picture large without making cards tall.
-                aspectRatio: 16 / 9,
-                child: Image.asset(
-                  pack.thumbnailUrl,
-                  fit: BoxFit.cover,
-                  width: double.infinity,
-                  excludeFromSemantics: true,
-                  errorBuilder: (context, error, stackTrace) => Icon(
-                    Icons.photo_outlined,
-                    size: 40,
-                    color: scheme.onSurfaceVariant,
-                  ),
-                ),
-              ),
-            ),
+            // Cards are at least 300 wide (PackGrid), so a wide frame keeps
+            // the picture large without making cards tall.
+            GmMountedPicture(asset: pack.thumbnailUrl, aspectRatio: 16 / 9),
             Positioned(
-              top: gmSpaceSm,
-              right: gmSpaceSm,
+              top: gmSpaceMd,
+              right: gmSpaceMd,
               child: _buildBadges(theme),
             ),
           ],
         ),
         Padding(
-          padding: const EdgeInsets.all(gmSpaceSm),
+          padding: const EdgeInsets.fromLTRB(
+            gmSpaceMd,
+            0,
+            gmSpaceMd,
+            gmSpaceMd,
+          ),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             mainAxisSize: MainAxisSize.min,
             children: [
               // Nothing is clamped: the card grows with its text.
-              Text(pack.title, style: theme.textTheme.titleMedium),
+              Text(pack.title, style: theme.textTheme.titleLarge),
               Text(
                 pack.theme,
                 style: theme.textTheme.bodySmall?.copyWith(

@@ -99,6 +99,9 @@ Maintainer decisions, made on 2026-10-19 at the owner's request ("make the right
 - **Corrupt photo list:** a "keep what can be verified" recovery, only on request. The damaged list is set aside, never deleted, and the copies whose content matches their names come back with their details. A list from a newer app version is never moved.
 - **Car pack content:** named for what it shows, as *Cars and Trucks* under the *Cars* topic. Its cover, preview and topic icon are the pack's own photos. Genuinely vintage car photos would be new content for the GM-025 rights review. The 12 store screenshots were then recaptured from main at `fce00d7` and placed in the approved frames (GM-033); see `assets/screenshots/en-US/README.md`.
 
+
+Picture-pack library as an album (after #76): with the owner's approval, the 8 covers and 5 topic pictures were fetched again from their recorded Unsplash sources at 1200x675 and 480x480 (about 1.2 MB more in the app). Pack and topic cards now mount the picture like a print (inset, rounded, decoded at the size shown), lead with a larger title, and keep favorite and "Not for me" in a footer under a hairline. The 121-asset mapping is unchanged.
+
 Next executable actions, in order: run `docs/release/device-acceptance.md` on a physical iPhone and iPad (VoiceOver walkthrough of start/play/stop/import/remove, rotation, Reduce Motion, airplane-mode fresh install, upgrade from the App Store build); install the Android SDK only with the maintainer's license acceptance and repeat; then the five-caregiver comprehension test and genuine screenshots (GM-033). R2 stays at the unshipped GM-009 prototype until the pilot (GM-039) chooses; R3 stays deferred.
 
 ## October 18 store publication continuation
