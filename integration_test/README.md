@@ -30,6 +30,8 @@ on a device whose app data you want to keep.
 | J8 | Help, privacy and support from Home with no network: the guide, every help section, a note previewed exactly and cancelled (nothing sent), the named privacy and terms links, and a way back from each page |
 | J9 | Confirmations at 100% and 200% text: Keep this board and Keep my settings are the primary actions, keeping keeps the found pair and the tile count, and Start again clears only when chosen |
 
+At each key screen (the `checkpoint` calls), a journey also checks the screen as it is on the device for a label on every control you can tap and for tap targets of at least 44 points (iOS) and 48 dp (Android). Text contrast is checked in widget tests instead. These checks do not replace a VoiceOver or TalkBack walkthrough.
+
 `store_screens_test.dart` is not a journey. It drives the app to each App Store frame for `scripts/capture_store_screens.sh`, and it is skipped (shown as `~1`) unless that script passes a capture folder. See `docs/specs/screenshots.md`.
 
 Notes:

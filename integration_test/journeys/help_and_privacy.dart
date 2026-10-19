@@ -18,7 +18,7 @@ Future<void> helpAndPrivacy(WidgetTester tester) async {
   await waitFor(tester, find.text('Enjoy it together'));
   expect(find.textContaining('It does not diagnose'), findsOneWidget);
   expectNoPressureCues(tester);
-  await snap(tester, 'j8-guide');
+  await checkpoint(tester, 'j8-guide');
 
   await tapOn(tester, find.text('More help and privacy'));
   await waitFor(tester, find.text('This page works without internet.'));
@@ -51,7 +51,7 @@ Future<void> helpAndPrivacy(WidgetTester tester) async {
     findsOneWidget,
     reason: 'the preview shows the note',
   );
-  await snap(tester, 'j8-note');
+  await checkpoint(tester, 'j8-note');
   await tapOn(tester, find.text('Cancel'));
   await waitForAbsent(tester, send);
 
@@ -73,7 +73,7 @@ Future<void> helpAndPrivacy(WidgetTester tester) async {
     expect(find.text(link), findsOneWidget, reason: link);
   }
   expectNoPressureCues(tester);
-  await snap(tester, 'j8-privacy');
+  await checkpoint(tester, 'j8-privacy');
   await tapOn(tester, doneForNow);
   await waitFor(tester, startGentleGame);
 }

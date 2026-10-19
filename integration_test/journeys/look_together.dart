@@ -29,7 +29,7 @@ Future<void> lookTogetherIncluded(
   expectHittable(tester, doneForNow);
   expectHittable(tester, _next);
   expectNoPressureCues(tester);
-  await snap(tester, 'j4-look-together$tag');
+  await checkpoint(tester, 'j4-look-together$tag');
 
   await tapOn(tester, _next);
   await waitFor(tester, find.text('Picture 2 of 6'));
@@ -43,7 +43,7 @@ Future<void> lookTogetherIncluded(
   expect(find.text(question), findsNothing);
   await tapOn(tester, _prompt);
   await waitFor(tester, find.text(question));
-  await snap(tester, 'j4-prompt$tag');
+  await checkpoint(tester, 'j4-prompt$tag');
   await tapOn(tester, _prompt);
   await waitForAbsent(tester, find.text(question));
 
@@ -58,7 +58,7 @@ Future<void> lookTogetherIncluded(
   await letTimePass(tester, const Duration(seconds: 2));
   expect(find.text('Picture 1 of 5'), findsOneWidget, reason: 'no slideshow');
   expectNoPressureCues(tester);
-  await snap(tester, 'j4-hidden-for-visit$tag');
+  await checkpoint(tester, 'j4-hidden-for-visit$tag');
 
   await tapOn(tester, doneForNow);
   await waitFor(tester, startGentleGame);

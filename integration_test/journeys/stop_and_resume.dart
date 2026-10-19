@@ -40,14 +40,14 @@ Future<void> stopAndResume(WidgetTester tester) async {
   await waitFor(tester, resumePrompt);
   expect(carryOn, findsOneWidget);
   expect(startFresh, findsOneWidget);
-  await snap(tester, 'j2-resume-prompt');
+  await checkpoint(tester, 'j2-resume-prompt');
   await tapOn(tester, carryOn);
   await waitForAbsent(tester, resumePrompt);
   expect(arrangement(tester), before, reason: 'same arrangement restored');
   final restored = readBoard(tester);
   expect(restored.first.selected, isTrue, reason: 'chosen tile still chosen');
   expect(restored.skip(1).where((t) => t.selected || t.matched), isEmpty);
-  await snap(tester, 'j2-carried-on');
+  await checkpoint(tester, 'j2-carried-on');
   await tapOn(tester, doneForNow);
   await waitFor(tester, startGentleGame);
 

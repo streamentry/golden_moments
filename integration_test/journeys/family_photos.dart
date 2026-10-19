@@ -44,7 +44,7 @@ Future<void> familyPhotosInstalledCollection(WidgetTester tester) async {
   }
   expect(_shownCopies(tester), ids.toSet());
   expect(find.text('Photo unavailable'), findsNothing);
-  await snap(tester, 'j5-installed-collection');
+  await checkpoint(tester, 'j5-installed-collection');
 
   // A caption and a favorite for the first photo.
   await tapOn(tester, _options('Family photo 1'));
@@ -80,7 +80,7 @@ Future<void> familyPhotosInstalledCollection(WidgetTester tester) async {
   expect(_shownCopies(tester), isNotEmpty);
   expect(find.text('Photo unavailable'), findsNothing);
   expectNoPressureCues(tester);
-  await snap(tester, 'j5-family-board');
+  await checkpoint(tester, 'j5-family-board');
   await matchAllVisiblePairs(tester);
   await waitFor(tester, gentleAllTogether);
   await tapOn(tester, doneForNow);
@@ -93,7 +93,7 @@ Future<void> familyPhotosInstalledCollection(WidgetTester tester) async {
   expect(find.text('Garden bench'), findsNothing);
   await tapOn(tester, find.text('Show captions'));
   await waitFor(tester, find.text('Garden bench'));
-  await snap(tester, 'j5-look-together-caption');
+  await checkpoint(tester, 'j5-look-together-caption');
   await tapOn(tester, find.text('Next'));
   await waitFor(tester, find.text('Picture 2 of 3'));
   expect(find.bySemanticsLabel('Family photo 2'), findsOneWidget);
@@ -114,7 +114,7 @@ Future<void> familyPhotosInstalledCollection(WidgetTester tester) async {
   await tapOn(tester, _options('Family photo 3'));
   await tapOn(tester, find.text('Remove this copy'));
   await waitFor(tester, find.text('Remove this photo copy?'));
-  await snap(tester, 'j5-remove-confirmation');
+  await checkpoint(tester, 'j5-remove-confirmation');
   await tapOn(tester, find.text('Remove copy'));
   await _collectionShows(tester, 2);
   expect(_options('Family photo 3'), findsNothing);
@@ -124,7 +124,7 @@ Future<void> familyPhotosInstalledCollection(WidgetTester tester) async {
     find.text('Show at least two photos to make a matching game. 1 hidden.'),
     findsOneWidget,
   );
-  await snap(tester, 'j5-after-remove');
+  await checkpoint(tester, 'j5-after-remove');
 
   stored = await readStoredCollection();
   expect(stored.manifest, [ids[0], ids[1]]);

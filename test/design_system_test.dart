@@ -6,7 +6,10 @@ import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_home_page.dart';
+import 'package:golden_moments/features/gentle_activities/presentation/help_privacy_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
+import 'package:golden_moments/features/gentle_activities/presentation/picture_puzzle_page.dart';
+import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 double _contrast(Color a, Color b) {
@@ -171,7 +174,75 @@ void main() {
       'look together': const PhotoTogetherPage(
         pictures: ActivityPicture.samples,
       ),
+      'help and privacy': const HelpPrivacyPage(),
+      'privacy and information': const LegalInfoPage(),
+      'picture puzzle': const PicturePuzzlePage(
+        pictures: ActivityPicture.samples,
+      ),
     };
+
+    // Where choices are made: the comfort sheet and a confirmation.
+    Future<void> expectGuidelines(WidgetTester tester) async {
+      await expectLater(tester, meetsGuideline(androidTapTargetGuideline));
+      await expectLater(tester, meetsGuideline(iOSTapTargetGuideline));
+      await expectLater(tester, meetsGuideline(labeledTapTargetGuideline));
+      await expectLater(tester, meetsGuideline(textContrastGuideline));
+    }
+
+    // Long pages, tall enough that the copyable address and links at the end
+    // are on screen and checked too.
+    for (final (name, page) in [
+      ('help and privacy', const HelpPrivacyPage()),
+      ('privacy and information', const LegalInfoPage()),
+    ]) {
+      testWidgets('$name, whole page: every target is big enough', (
+        tester,
+      ) async {
+        final handle = tester.ensureSemantics();
+        // The guideline skips anything outside the view's physical size, so
+        // size the view itself (a test surface size would not count).
+        tester.view
+          ..devicePixelRatio = 3
+          ..physicalSize = const Size(1024, 3000) * 3;
+        addTearDown(tester.view.reset);
+        await tester.pumpWidget(_app(page));
+        await tester.pumpAndSettle();
+        expect(find.byType(SelectableText).hitTestable(), findsWidgets);
+        await expectLater(tester, meetsGuideline(iOSTapTargetGuideline));
+        await expectLater(tester, meetsGuideline(androidTapTargetGuideline));
+        handle.dispose();
+        // On iOS copyable text answers a long press, so it is a target too.
+      }, variant: TargetPlatformVariant.mobile());
+    }
+
+    testWidgets('comfort sheet: tap targets, labels and contrast', (
+      tester,
+    ) async {
+      final handle = tester.ensureSemantics();
+      await tester.pumpWidget(_app(const GentleHomePage()));
+      await tester.pumpAndSettle();
+      await tester.tap(find.byTooltip('Comfort settings'));
+      await tester.pumpAndSettle();
+      await expectGuidelines(tester);
+      handle.dispose();
+    });
+
+    testWidgets('Start again confirmation: tap targets, labels and contrast', (
+      tester,
+    ) async {
+      final handle = tester.ensureSemantics();
+      await tester.pumpWidget(
+        _app(const GentleGamePage(pictures: ActivityPicture.samples)),
+      );
+      await tester.pumpAndSettle();
+      await tester.tap(find.bySemanticsLabel(RegExp(r', tile 1$')).first);
+      await tester.pumpAndSettle();
+      await tester.tap(find.widgetWithText(OutlinedButton, 'Start again'));
+      await tester.pumpAndSettle();
+      expect(find.byType(AlertDialog), findsOneWidget);
+      await expectGuidelines(tester);
+      handle.dispose();
+    });
     for (final entry in screens.entries) {
       testWidgets('${entry.key}: tap targets, labels and contrast', (
         tester,

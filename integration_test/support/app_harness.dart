@@ -186,6 +186,26 @@ void expectHittable(WidgetTester tester, Finder finder) {
   );
 }
 
+/// A key screen of a journey: saves a screenshot when [screenshotDirectory]
+/// is set (first, so a failure below can be seen), then checks the screen as
+/// a person meets it, on the real device with the shipped fonts, against
+/// the platform tap-target sizes (44 points on iOS, 48 dp on Android) and
+/// requires a label on every tappable control. These do not replace a
+/// VoiceOver or TalkBack walkthrough.
+///
+/// Text contrast is checked where it can be measured truthfully: the WCAG
+/// token checks in test/design_system_test.dart and the screen checks in
+/// widget tests. Here the guideline samples the screen at one pixel per
+/// point, where real glyphs blur into their background and small text
+/// reads as low contrast (16 pt Walnut on parchment, 7.2:1, measured 1.9).
+Future<void> checkpoint(WidgetTester tester, String name) async {
+  await settle(tester);
+  await snap(tester, name);
+  await expectLater(tester, meetsGuideline(iOSTapTargetGuideline));
+  await expectLater(tester, meetsGuideline(androidTapTargetGuideline));
+  await expectLater(tester, meetsGuideline(labeledTapTargetGuideline));
+}
+
 var _shots = 0;
 final _shotName = RegExp(r'^\d\d-j[0-9a-z-]+\.png$');
 

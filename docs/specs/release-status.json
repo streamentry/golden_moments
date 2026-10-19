@@ -246,18 +246,21 @@
       },
       "GM-014": {
         "status": "partial",
-        "scope": "Automated semantics only: hidden tiles on both gentle and legacy boards expose only 'Hidden picture, tile N' (legacy tile content is excluded from semantics, tested mid-flip); Selected/Matched states; a legacy match is announced once through a polite status line; pack Favorite is a toggle named with the pack; Not for me moves focus to a politely announced note; Look together reads label plus description. VoiceOver/TalkBack walkthroughs pending, so no screen-reader support is claimed.",
+        "scope": "Automated semantics only: hidden tiles on both gentle and legacy boards expose only 'Hidden picture, tile N' (legacy tile content is excluded from semantics, tested mid-flip); Selected/Matched states; a legacy match is announced once through a polite status line; pack Favorite is a toggle named with the pack; Not for me moves focus to a politely announced note; Look together reads label plus description. VoiceOver/TalkBack walkthroughs pending, so no screen-reader support is claimed. Every end-to-end journey now checks its 27 key screens, on the iPhone 17 Pro Max and iPad Pro 13-inch simulators with the shipped fonts, for a label on every tappable control and for 44-point (iOS) and 48 dp (Android) tap targets. This includes the 200% text runs. It is automation, not a VoiceOver or TalkBack walkthrough. The device checks found that copyable text (the support address and links on the help and privacy pages) answers a long press but was only 25 points tall. It is now at least 48, and a whole-page widget test checks it on iOS and Android.",
         "evidence": [
           "test/accessibility_guards_test.dart",
           "test/features/gentle_activities/gentle_ui_test.dart",
           "test/features/gentle_activities/photo_together_test.dart",
           "test/features/legacy_library/legacy_route_test.dart",
-          "test/features/home/pack_favorites_ui_test.dart"
+          "test/features/home/pack_favorites_ui_test.dart",
+          "integration_test/support/app_harness.dart",
+          "lib/shared/widgets/gm_copyable_text.dart",
+          "test/design_system_test.dart"
         ]
       },
       "GM-015": {
         "status": "partial",
-        "scope": "Contrast/text/target tests from the design system remain. Reduce Motion now also removes the legacy ripple, the 300 ms artificial navigation delay and the tile flip; the no-op pull-to-refresh spinner is gone; the library is quiet by default. No timer, score, move count, streak, confetti or auto-closing dialog is shown anywhere (legacy route tested with a non-zero internal move count). Device checks for reduced motion, increased contrast and audio interruption pending.",
+        "scope": "Contrast/text/target tests from the design system remain. Reduce Motion now also removes the legacy ripple, the 300 ms artificial navigation delay and the tile flip; the no-op pull-to-refresh spinner is gone; the library is quiet by default. No timer, score, move count, streak, confetti or auto-closing dialog is shown anywhere (legacy route tested with a non-zero internal move count). Device checks for reduced motion, increased contrast and audio interruption pending. Screen-level WCAG contrast, tap-target and label checks in widget tests now also cover Help and privacy, Privacy and information, the picture puzzle, the comfort sheet and a confirmation dialog. On-device contrast is not used: it samples at one pixel per point, where real glyphs blur and small text reads as low contrast (16 pt Walnut on parchment, 7.2:1, measured 1.9).",
         "evidence": [
           "test/accessibility_guards_test.dart",
           "test/design_system_test.dart",
