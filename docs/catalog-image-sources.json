@@ -506,9 +506,10 @@
     },
     {
       "asset": "assets/images/catalog/9817468bddffe6d1a96bd519.jpg",
-      "source": "https://images.unsplash.com/photo-1493612276216-ee3925520721?w=300&h=200&fit=crop",
-      "sha256": "dc25c5f8868dfa6fbd922665b4607f0ed51a39874bf1d7b9ecc6dc5fc28c6a78",
-      "bytes": 9905
+      "source": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=300&h=200&fit=crop",
+      "sha256": "4a4e5cd2fc48d3759e3540a156b2a336c49ff609ee19de3c9ee113f24e703d3f",
+      "bytes": 16832,
+      "derivedFrom": "Made locally from assets/images/catalog/89956fba58ff4623c1c778d8.jpg (the same photo): lower 3:2 crop resized to 300x200. Replaced an unrelated light-bulb photo on the Classic Cars cover."
     },
     {
       "asset": "assets/images/catalog/9e086c30734641c181db199e.jpg",
@@ -536,9 +537,10 @@
     },
     {
       "asset": "assets/images/catalog/a4c118ae738da49923260cd4.jpg",
-      "source": "https://images.unsplash.com/photo-1493612276216-ee3925520721?w=150&h=150&fit=crop",
-      "sha256": "b16aea40aa638a5ae37d113f93f778a647df56a537161628ebe03a82538ecc7a",
-      "bytes": 6784
+      "source": "https://images.unsplash.com/photo-1504215680853-026ed2a45def?w=150&h=150&fit=crop",
+      "sha256": "56fa0eabfb2585bc126497170ef9a85b60fb03f6d1630175266d090d89ce1197",
+      "bytes": 6789,
+      "derivedFrom": "Made locally from assets/images/catalog/9633eaa1fbd35e771fc9ef83.jpg (the same photo): resized to 150x150. Replaced an unrelated light-bulb photo in the Classic Cars previews."
     },
     {
       "asset": "assets/images/catalog/a7cdfc99c95d7f036ab29f2a.jpg",
