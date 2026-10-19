@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:golden_moments/app/view/main_navigation.dart';
@@ -237,8 +238,10 @@ class _GentleHomePageState extends State<GentleHomePage> {
               builder: (context, viewport) => SingleChildScrollView(
                 padding: const EdgeInsets.all(gmSpaceLg),
                 child: ConstrainedBox(
+                  // Never negative: a keyboard over the page (Home stays laid
+                  // out under the photo pages) can leave less than the padding.
                   constraints: BoxConstraints(
-                    minHeight: viewport.maxHeight - gmSpaceLg * 2,
+                    minHeight: max(0, viewport.maxHeight - gmSpaceLg * 2),
                   ),
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,

@@ -139,6 +139,28 @@ void main() {
     });
   });
 
+  testWidgets('Home still lays out when a keyboard above it leaves almost no '
+      'room', (tester) async {
+    // Home stays laid out under the photo pages; a keyboard there can leave
+    // its body shorter than its own padding.
+    await _size(tester, const Size(390, 844));
+    for (final keyboard in [700.0, 760.0, 800.0]) {
+      await tester.pumpWidget(
+        MaterialApp(
+          theme: gmBuildTheme(),
+          builder: (context, child) => MediaQuery(
+            data: MediaQuery.of(context)
+                .copyWith(viewInsets: EdgeInsets.only(bottom: keyboard)),
+            child: child!,
+          ),
+          home: const GentleHomePage(),
+        ),
+      );
+      await tester.pumpAndSettle();
+      expect(tester.takeException(), isNull, reason: 'keyboard $keyboard');
+    }
+  });
+
   testWidgets('the help sheet closes with a full-width button like the '
       'other sheets', (tester) async {
     await _size(tester, const Size(390, 844));
