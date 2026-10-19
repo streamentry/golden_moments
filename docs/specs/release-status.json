@@ -44,7 +44,7 @@
       ]
     },
     "ios_archive": {
-      "status": "pending",
+      "status": "passed",
       "evidence": [
         "docs/release/app-store-1.4.0-build7.md"
       ]
@@ -79,9 +79,9 @@
     "privacy_and_sdk_audit": {
       "status": "pending",
       "evidence": [
-        "docs/release/app-store-1.3.0-build6.md"
+        "docs/release/app-store-1.4.0-build7.md"
       ],
-      "scope": "Firebase-free signed build validated; source and archive static checks do not replace network-traffic, device-backup and store declaration review."
+      "scope": "The signed 1.4 archive includes the app and plugin privacy manifests; static inspection found no Firebase Pod. Runtime traffic, data-backup behavior and App Privacy/legal review remain pending."
     },
     "medical_claims_review": {
       "status": "pending",
@@ -90,7 +90,7 @@
     "real_screenshot_review": {
       "status": "passed",
       "evidence": [
-        "docs/release/app-store-1.3.0-build6.md"
+        "docs/release/app-store-1.4.0-build7.md"
       ]
     },
     "store_configuration": {
@@ -98,7 +98,7 @@
       "evidence": [
         "docs/release/app-store-1.4.0-build7.md"
       ],
-      "scope": "US-English fallback, canonical copy/links, build6 and 12 screenshots saved and API-read back. Broader rights, availability, legal and privacy declarations remain pending."
+      "scope": "The 1.4.0 en-US draft, auto-release-after-approval setting, build 7 and screenshot set were read back. Rights, legal/privacy declarations and other release gates remain pending."
     }
   },
   "deferred": [
@@ -487,10 +487,24 @@
     "build": 6,
     "base_commit": "c3fcd03",
     "apple_build_id": "0456db2d-1a84-4253-a744-fae96b13489f",
-    "public_release": "MANUAL",
-    "evidence": "docs/release/app-store-1.3.0-build6.md",
-    "meaning": "Review submission is separate from public-release clearance; pending gates were not changed to passed.",
+    "public_release": "released_from_manual_hold",
+    "review_state": "COMPLETE",
+    "app_store_state": "READY_FOR_SALE",
+    "evidence": "docs/release/app-store-1.4.0-build7.md",
+    "meaning": "The 1.3.0 release was read back as READY_FOR_SALE before the 1.4.0 update."
+  },
+  "ios_review_candidate_1_4": {
+    "version": "1.4.0",
+    "build": 7,
+    "base_commit": "7738d7f8b4407297086a30ec13f75acace976ddf",
+    "archive_source_commit": "5f825eece2d6ea9822b1c763f79325c77f4dfe48",
+    "apple_build_id": "b8fc04e4-e8e8-4205-8008-ef0d11f103e7",
+    "submission_id": "0261a5a0-fd3f-434c-82cf-d01f5440dd01",
     "review_state": "WAITING_FOR_REVIEW",
-    "review_submission_id": "5fca1044-73d9-4a09-b611-104733ab5306"
+    "release_type": "AFTER_APPROVAL",
+    "ipa_bytes": 33343308,
+    "ipa_sha256": "0bf8a55fbd9f92ac998f0a017df23afc1860b62c46a1e60fe4c9006dfcdecbeb",
+    "evidence": "docs/release/app-store-1.4.0-build7.md",
+    "meaning": "Apple review is pending; automatic release follows approval."
   }
 }

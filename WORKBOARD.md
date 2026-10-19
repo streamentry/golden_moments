@@ -130,26 +130,20 @@ prompts and hashes are committed under `assets/screenshots/en-US/`; all twelve
 Apple asset deliveries completed and checksums/order were read back.
 
 The owner requested review submission and US-English fallback; 17 obsolete draft
-localizations were removed after a protected backup. The published1.0 translations
-were retained. Public release is MANUAL. Review submission does not certify the
-pending physical-device, upgrade, accessibility, caregiver, legal or inherited
-asset-rights gates. The release validator remains fail-closed. See
-[build 6 evidence](docs/release/app-store-1.3.0-build 6.md) for exact limits and store state.
-
-Apple readback confirmed build 6 **WAITING_FOR_REVIEW** at 2026-10-18T17:44:55Z;
-public release remains MANUAL. This is submitted, not approved or published.
+localizations were removed after a protected backup. The published 1.0 translations
+were retained. Version 1.3.0 was manually released and is now READY_FOR_SALE. Its
+review history and the pending physical-device, accessibility, caregiver, legal and
+inherited asset-rights gates are recorded in [build 6 evidence](docs/release/app-store-1.3.0-build6.md).
 
 
 ## iOS 1.4.0 build 7 submission (2026-10-19)
 
-Main has candidate `9ff8c1b`; App Store Connect 1.4.0 draft exists with six
-complete iPhone and six complete iPad screenshots whose checksums match the
-committed latest-main assets. Canonical en-US release notes/promotional text
-and review instructions are saved; release is set to automatic after review
-approval. Flutter analysis and 430 tests, 63 Python tests and metadata checks
-passed locally; hosted workflows on the candidate passed. Rebuilding the iOS
-CocoaPods manifest from current Flutter plugins exposed that the tracked lock
-was stale. The reviewed native lock/Xcode integration PR and a signed build 7
-archive are now required before attaching and submitting this draft. See
-`docs/release/app-store-1.4.0-build7.md`; picker/device, accessibility, human
-comprehension and inherited rights gates remain pending.
+PR #86 merged commit `7738d7f8b4407297086a30ec13f75acace976ddf` to sync iOS
+plugin pods and the Xcode embed phase. Pinned Flutter analysis, all 430 Flutter
+tests, 63 Python checks and metadata validation pass. The signed 1.4.0 build 7
+IPA validates and processes as **VALID**. All 12 en-US screenshots are complete
+and match their committed file checksums. App Store Connect reports
+**WAITING_FOR_REVIEW** with automatic release selected after approval. The
+release is submitted, not approved or publicly available. Physical-device,
+screen-reader, caregiver, runtime privacy/legal and inherited asset-rights gates
+remain pending. Full record: `docs/release/app-store-1.4.0-build7.md`.

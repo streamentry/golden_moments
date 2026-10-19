@@ -1,31 +1,66 @@
 # iOS 1.4.0 build 7 release record
 
-Candidate source: `9ff8c1b72c353df266cb3f39bfe467162581ac5d` plus the
-CocoaPods lock and Xcode project integration in PR for this record. Flutter
-3.47.7 / Dart 3.13.5; Xcode 27.1; iOS deployment target 15.0.
+## Source and checks
 
-## Source checks
+Candidate tree on main: `7738d7f8b4407297086a30ec13f75acace976ddf` (PR #86).
+The archive was built from PR head `5f825eece2d6ea9822b1c763f79325c77f4dfe48`;
+that tree matches the merged main tree. It includes the synchronized local
+CocoaPods lock and embed phase. The temporary signing override was scoped to
+the Runner Release configuration and restored after archiving.
 
+- Flutter 3.47.7 / Dart 3.13.5; Xcode 27.1; minimum iOS 15.
 - `flutter analyze --fatal-infos --fatal-warnings`: passed, no issues.
 - `flutter test --coverage`: 430 tests passed.
-- Python release and repository checks: 63 tests passed after temporarily
-  moving aside and restoring three ignored macOS `.DS_Store` files from the
-  screenshot folders. No asset files were deleted.
+- `python3 -m unittest discover -s tests -p 'test_*.py' -v`: 63 tests passed.
+  Three ignored `.DS_Store` files were moved aside temporarily for the asset
+  provenance check and restored unchanged.
 - `python3 scripts/release_metadata.py --check`: passed.
-- Latest main workflows for the candidate commit: both successful.
+- All seven hosted checks for PR #86 passed.
+- Xcode archive and App Store export succeeded. `codesign --verify --deep
+  --strict` passed. The bundle is `com.mindfulness.goldenmoments`, version
+  1.4.0, build 7, Team 7MBXZKYSY4. Info.plist says
+  `ITSAppUsesNonExemptEncryption=false`. The app and plugin privacy manifests
+  are present in the archived app.
 
-## App Store draft
+The exported IPA is 33,343,308 bytes; SHA-256:
+`0bf8a55fbd9f92ac998f0a017df23afc1860b62c46a1e60fe4c9006dfcdecbeb`.
+Apple validation passed without errors. App Store Connect build
+`b8fc04e4-e8e8-4205-8008-ef0d11f103e7` processed as **VALID** with encryption
+exemption set to false.
 
-App Store Connect version 1.4.0 is already created. It has six iPhone and six
-iPad screenshots, all in `COMPLETE` state. Each stored screenshot checksum
-matched its committed local JPEG. The canonical en-US description, keywords,
-promotional text, support/marketing URLs and release notes were saved and read
-back. Review notes describe the album-print feature; no sign-in is required.
-Automatic release after approval is selected.
+## Store metadata and review
 
-## Native artifact and remaining checks
+App Store Connect version `909ef499-6635-48c9-b726-665f1536299e` is version
+1.4.0 with en-US localization only. Name, subtitle, description, keywords,
+promotional text, release notes, support and marketing URLs, app privacy URL,
+and review instructions were saved and read back. Review instructions say that
+no account is needed and describe the family-photo album-print flow.
 
-The signed archive/IPA and Apple processing result will be recorded here after
-the archive succeeds. Native picker/device checks, accessibility walkthroughs,
-caregiver comprehension and inherited asset-rights review remain separate
-pending gates. Do not infer these from a valid archive or store approval.
+All six iPhone and six iPad screenshots are **COMPLETE**. Apple’s checksums match
+the committed JPEGs. They were captured from the real app with generated demo
+photos; no personal family photos were used. The 12 frames were visually
+reviewed, including the updated pack-library and album-print experience.
+
+Submission `0261a5a0-fd3f-434c-82cf-d01f5440dd01` is **WAITING_FOR_REVIEW** with
+build 7 attached. Version release type is **AFTER_APPROVAL**, so Apple approval
+will trigger automatic release. This is not Apple approval or storefront
+availability.
+
+## Remaining release evidence
+
+The release status remains fail-closed for physical-device picker and upgrade
+cases, screen-reader/accessibility walkthroughs, caregiver comprehension,
+runtime traffic/privacy review, legal review and inherited image/font rights.
+The signed archive’s manifests are static evidence, not a runtime network audit.
+These gates remain pending and are not represented as passed by this submission.
+
+
+## Store state readback
+
+At 2026-10-19 19:20 UTC, App Store Connect reported build 7 `VALID`, the version
+and review submission as `WAITING_FOR_REVIEW`, and release type `AFTER_APPROVAL`.
+Version 1.3.0 had reached `READY_FOR_SALE`. The en-US listing fields and all 12
+screenshot files were read back; each Apple screenshot checksum matches its local
+file. A sanitized receipt is in `output/release/release-1.4.0-build7-submission.json`
+and the protected `backups/golden-moments-ios-20261018/release-build7/` bundle.
+No signing or API key was copied to that backup.
