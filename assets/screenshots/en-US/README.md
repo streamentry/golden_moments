@@ -4,7 +4,7 @@ Six separate iPhone JPEGs at 1320 by 2868 pixels and six iPad JPEGs at 2064 by 2
 
 ## Current captures
 
-The current captures come from `a704346`, the album library: sharper pack covers and pictures mounted like prints. They were taken on the iPhone 17 Pro Max and iPad Pro 13-inch (M5) simulators running iOS 26.5, both with `scripts/capture_store_screens.sh`. That script runs `integration_test/store_screens_test.dart`, which drives the real app to each frame and pauses while the screen is saved.
+The current captures come from `b9e681c`, the album library with family photos shown as cropped prints. They were taken on the iPhone 17 Pro Max and iPad Pro 13-inch (M5) simulators running iOS 26.5, both with `scripts/capture_store_screens.sh`. That script runs `integration_test/store_screens_test.dart`, which drives the real app to each frame and pauses while the screen is saved.
 
 - **Status bar:** cleared, then set to 9:41 with `xcrun simctl status_bar`. Clearing first matters: a stale override once left a charging battery and "no service" dots.
 - **Debug banner:** hidden for capture only; a release build never shows it.
