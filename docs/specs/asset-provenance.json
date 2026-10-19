@@ -105,7 +105,7 @@
         "assets/screenshots/en-US/"
       ],
       "rights_status": "unreviewed",
-      "recorded": "Build6 native captures with synthetic teacup/flowers and built-in image_gen background. PROMPTS.md and manifest.json record generation, composition and file hashes. No private family photos. Marketing assets only; not listed in pubspec.yaml and not bundled in the app.",
+      "recorded": "Native captures of main at fce00d7 (iOS 26.5 simulators; build 6 frames before that) with synthetic teacup/flowers and built-in image_gen background. PROMPTS.md and manifest.json record generation, capture tools, composition and file hashes. No private family photos. Marketing assets only; not listed in pubspec.yaml and not bundled in the app.",
       "missing": [
         "Publisher rights sign-off for the app UI and inherited catalog/font artwork appearing inside captures; see the existing catalog-images, font-roboto and icon groups."
       ]

@@ -72,9 +72,23 @@ Future<void> _tapText(
   String text, {
   bool Function()? until,
 }) async {
-  final finder = find.text(text).hitTestable();
+  final finder = find.text(text);
+  // A long page builds only what is near the screen: scroll the way a
+  // person would until the target exists, up first, then down.
+  for (final delta in [-300.0, 300.0]) {
+    if (finder.evaluate().isNotEmpty) break;
+    await tester
+        .scrollUntilVisible(
+          finder,
+          delta,
+          scrollable: find.byType(Scrollable).first,
+          maxScrolls: 30,
+        )
+        .catchError((Object _) {});
+  }
   await tester.ensureVisible(finder.first);
-  await tester.tap(finder.first);
+  await tester.pump();
+  await tester.tap(finder.hitTestable().first);
   if (until != null) {
     for (var i = 0; i < 2000 && !until(); i++) {
       await tester.runAsync(
@@ -125,8 +139,10 @@ bool _shows(Finder finder, [int count = 1]) =>
     finder.evaluate().length == count;
 
 Future<void> _openOptions(WidgetTester tester, int index) async {
-  final button = find.textContaining('Photo options').at(index);
+  final button = find.text('Options').at(index);
   await tester.ensureVisible(button);
+  // Lay out the scrolled page before working out where to tap.
+  await tester.pump();
   await tester.tap(button);
   await _settle(tester);
 }
@@ -134,6 +150,7 @@ Future<void> _openOptions(WidgetTester tester, int index) async {
 Future<void> _toggle(WidgetTester tester, String title) async {
   final tile = find.widgetWithText(SwitchListTile, title);
   await tester.ensureVisible(tile);
+  await tester.pump();
   await tester.tap(tile);
   await tester.pump();
 }
@@ -168,7 +185,7 @@ void main() {
 
     // Choose three photos through the picker; originals are never touched.
     await _tapText(tester, 'Choose photos');
-    expect(find.textContaining('Photo options'), findsNWidgets(3));
+    expect(find.text('Options'), findsNWidgets(3));
     expect(find.text('3 of 24 photos'), findsOneWidget);
     expect(find.text('Play with these photos'), findsOneWidget);
 
@@ -202,7 +219,7 @@ void main() {
     // is still waiting for real file I/O.
     expect(find.byType(LinearProgressIndicator), findsOneWidget);
     final options = tester.widgetList<TextButton>(
-      find.widgetWithText(TextButton, 'Photo options'),
+      find.widgetWithText(TextButton, 'Options'),
     );
     expect(options, isNotEmpty);
     expect(options.every((button) => button.onPressed == null), isTrue);
@@ -357,7 +374,7 @@ void main() {
     await tester.tap(choose);
     await _settle(tester);
 
-    final options = find.textContaining('Photo options');
+    final options = find.text('Options');
     expect(options, findsNWidgets(2));
     // Real size, never scaled down: no FittedBox around the label, and the
     // button keeps the 48 point floor.
@@ -570,6 +587,52 @@ void main() {
       '{"version": 2, "photos": []}',
     );
   });
+
+  for (final size in [
+    const Size(390, 844),
+    const Size(440, 956),
+    const Size(1032, 1376),
+  ]) {
+    testWidgets('photo cards keep "Options" on one line at $size', (
+      tester,
+    ) async {
+      // The shipped Roboto, so label widths are the real ones.
+      await tester.runAsync(() async {
+        final roboto = FontLoader(gmFontFamily);
+        for (final weight in ['Regular', 'Medium', 'Bold']) {
+          roboto.addFont(rootBundle.load('assets/fonts/Roboto-$weight.ttf'));
+        }
+        await roboto.load();
+      });
+      await tester.binding.setSurfaceSize(size);
+      addTearDown(() => tester.binding.setSurfaceSize(null));
+      await tester.pumpWidget(
+        _app(
+          directory,
+          _FakeImporter([
+            [1, 2, 3],
+          ]),
+        ),
+      );
+      await _settle(tester);
+      await _tapText(tester, 'Choose photos');
+      final labels = find.text('Options');
+      expect(labels, findsNWidgets(3));
+      for (var i = 0; i < 3; i++) {
+        final paragraph = tester.renderObject<RenderParagraph>(
+          find.descendant(of: labels.at(i), matching: find.byType(RichText)),
+        );
+        final boxes = paragraph.getBoxesForSelection(
+          const TextSelection(baseOffset: 0, extentOffset: 7),
+        );
+        expect(
+          {for (final box in boxes) box.top.round()},
+          hasLength(1),
+          reason: 'label $i wrapped',
+        );
+      }
+    });
+  }
 
   testWidgets('a damaged annotations file never hides the photos', (
     tester,

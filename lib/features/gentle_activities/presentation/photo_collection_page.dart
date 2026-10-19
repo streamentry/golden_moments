@@ -401,8 +401,10 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
           TextButton.icon(
             onPressed: _busy ? null : () => _editPhoto(picture),
             icon: const Icon(Icons.tune),
+            // Short enough to stay on one line in two columns on a large
+            // phone; the photo above and the spoken label give the context.
             label: Text(
-              'Photo options',
+              'Options',
               semanticsLabel: 'Options for ${picture.label}',
             ),
           ),

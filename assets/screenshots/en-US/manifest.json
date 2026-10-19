@@ -1,232 +1,243 @@
 {
-  "candidate": "1.3.0+6",
-  "base_commit": "c3fcd031d0ad7749a6c33f69b6ed0d08d77ac795",
-  "runtime_changes": [
-    "lib/features/gentle_activities/presentation/photo_collection_page.dart: serialize UI during annotation save",
-    "lib/shared/utils/support_info.dart: version1.3.0+6"
-  ],
-  "ios_runtime": "18.5 simulator",
-  "devices": {
-    "iphone": "iPhone16ProMax,1320x2868",
-    "ipad": "iPadPro13-inchM4,2064x2752"
+ "candidate": "1.3.0+6 source as merged in main (after build 6: PRs #70, #71, #72)",
+ "base_commit": "fce00d78c02ca299c4bf5b3b10f9678d7924d814",
+ "runtime_changes": [
+  "iPhone: debug banner hidden by a local capture-only edit (MaterialApp debugShowCheckedModeBanner: false), not committed",
+  "iPad: debug banner hidden by integration_test/store_screens_test.dart (WidgetsApp.debugAllowBannerOverride = false)"
+ ],
+ "ios_runtime": "26.5 simulator",
+ "devices": {
+  "iphone": "iPhone17ProMax,1320x2868",
+  "ipad": "iPadPro13-inchM5,2064x2752"
+ },
+ "capture_appearance": "Status bar set with simctl status_bar (9:41, Wi-Fi, full battery). Debug banner suppressed in capture only; release omits it by default. No app UI was synthesized or edited.",
+ "composition": "scripts/compose_store_screens.py places each unchanged native capture inside the approved build 6 frame (generated backdrop, headline, supporting text, bezel), clipped to the bezel's rounded screen.",
+ "synthetic_content": "Teacup and yellow flowers (art/); no private family photos or people. iPhone: imported through the actual native photo picker (originals/iphone/native-picker.png). iPad: placed by integration_test/store_screens_test.dart through the app's own normalize-and-store import steps; originals/ipad/native-picker.png is the build 6 picker proof.",
+ "capture_tools": [
+  "iPhone: driven by hand on the simulator, saved with xcrun simctl io screenshot (as scripts/capture_ios_screenshot.sh)",
+  "iPad: scripts/capture_store_screens.sh with integration_test/store_screens_test.dart"
+ ],
+ "files": [
+  {
+   "path": "assets/screenshots/en-US/art/demo-flowers.png",
+   "bytes": 2274226,
+   "sha256": "e3950b768c0734423529537826fbe615f8eeb3039190e58bbd4b356661fdeb0f"
   },
-  "capture_appearance": "Debug banner suppressed in capture only; release omits it by default. No app UI was synthesized or edited.",
-  "composition": "Generated background and text outside unchanged real native captures; HTML/CSS renderer.",
-  "synthetic_content": "Teacup and yellow flowers; no private family photos or people. Imported through actual native picker.",
-  "files": [
-    {
-      "path": "assets/screenshots/en-US/art/demo-flowers.png",
-      "bytes": 2274226,
-      "sha256": "e3950b768c0734423529537826fbe615f8eeb3039190e58bbd4b356661fdeb0f"
-    },
-    {
-      "path": "assets/screenshots/en-US/art/demo-teacup.png",
-      "bytes": 2134033,
-      "sha256": "cef62bdac4619fcfcfe4d7627409a61a6abed46c7cdaee4a200d4a55050c44be"
-    },
-    {
-      "path": "assets/screenshots/en-US/art/parchment-backdrop.png",
-      "bytes": 2087359,
-      "sha256": "156d72dbaf77c51b3d6042aa4b18cd0deb301148ba9f31f0851bc3981df000cf"
-    },
-    {
-      "path": "assets/screenshots/en-US/ipad/01.jpg",
-      "bytes": 302556,
-      "sha256": "769b8017452d2dda6d3e14887b8bbd71c4e89cf9c90b4b3fb79df963bccfcdee"
-    },
-    {
-      "path": "assets/screenshots/en-US/ipad/02.jpg",
-      "bytes": 460458,
-      "sha256": "f36639881c0e873598171d2bb0dff4a31009d4c3ca438b77390a600ef473d5fd"
-    },
-    {
-      "path": "assets/screenshots/en-US/ipad/03.jpg",
-      "bytes": 302594,
-      "sha256": "38236f8af9d0faedb653ca75510d18d25b7cf6591b56de40ff75388d3244ee3b"
-    },
-    {
-      "path": "assets/screenshots/en-US/ipad/04.jpg",
-      "bytes": 412431,
-      "sha256": "1baea46db84f800285df55973466384216a5d4c7a18d47f000ebb10ffc5df799"
-    },
-    {
-      "path": "assets/screenshots/en-US/ipad/05.jpg",
-      "bytes": 313949,
-      "sha256": "cd509bcdc67e066a2fe3e4fbf675c4b795a222d858447234ce20b7e2e7ceca45"
-    },
-    {
-      "path": "assets/screenshots/en-US/ipad/06.jpg",
-      "bytes": 415393,
-      "sha256": "3e9061d75c7f23b016ef819a78b9261f212aeb22e30e4d7e4d73b28b05e8a966"
-    },
-    {
-      "path": "assets/screenshots/en-US/iphone/01.jpg",
-      "bytes": 264298,
-      "sha256": "a6e880d0e048fa844212be64505f4f3b60208ff5d2abf5eefac53291fed65a92"
-    },
-    {
-      "path": "assets/screenshots/en-US/iphone/02.jpg",
-      "bytes": 370233,
-      "sha256": "52d15c7261833aa3f4f723437b68d99107426f31dc30243d3bab3cbee410e27a"
-    },
-    {
-      "path": "assets/screenshots/en-US/iphone/03.jpg",
-      "bytes": 267332,
-      "sha256": "d60ff6bfec69cf131a0b9cc22dcb06159d3c68c49b37b3064505e4e38584b2ca"
-    },
-    {
-      "path": "assets/screenshots/en-US/iphone/04.jpg",
-      "bytes": 348555,
-      "sha256": "3d6695b133425b6d735e8a174aa77917c34544cc9e280b8ca39c0b7b6e3c14e0"
-    },
-    {
-      "path": "assets/screenshots/en-US/iphone/05.jpg",
-      "bytes": 273852,
-      "sha256": "3958ca385c1e19705552ae6823f84ecf8ffc9bc19ebc2f0f16e23e6274b92cce"
-    },
-    {
-      "path": "assets/screenshots/en-US/iphone/06.jpg",
-      "bytes": 361971,
-      "sha256": "dff23584e3682180d748683ac07a10b29ba1635ce91abd8c420c259abcc82b67"
-    },
-    {
-      "path": "assets/screenshots/en-US/originals/ipad/01.png",
-      "bytes": 145899,
-      "sha256": "b3ba5bb71a5c7560bc6a085cf07b55092a1b37d04834419ff820fb050615cd17"
-    },
-    {
-      "path": "assets/screenshots/en-US/originals/ipad/02.png",
-      "bytes": 2685805,
-      "sha256": "68ee0f984e92c148511f16ea756739441ee5b43f0110cef1f7c932048b51b3dd"
-    },
-    {
-      "path": "assets/screenshots/en-US/originals/ipad/03.png",
-      "bytes": 153987,
-      "sha256": "130dc8284501bf6368a4c386070789848fccf5cdc917572909d44a2e2c423062"
-    },
-    {
-      "path": "assets/screenshots/en-US/originals/ipad/04.png",
-      "bytes": 2315094,
-      "sha256": "aee24797cc0d6bca868a238540e0d534d4e3af3e7f27c1e7b7f88527dde77053"
-    },
-    {
-      "path": "assets/screenshots/en-US/originals/ipad/05.png",
-      "bytes": 202686,
-      "sha256": "93909059d600605b3e8a6c33ad724375ed5318a5061b728c87370740792c65f3"
-    },
-    {
-      "path": "assets/screenshots/en-US/originals/ipad/06.png",
-      "bytes": 868061,
-      "sha256": "eaac580474886c6eaef4871f39df86a87370ef9a13853ab893fd41a4b2c087de"
-    },
-    {
-      "path": "assets/screenshots/en-US/originals/ipad/native-picker.png",
-      "bytes": 1164631,
-      "sha256": "48b793892362cf8f7d304ed1c303a006111a7044a4233afc8e02375acc2f17a0"
-    },
-    {
-      "path": "assets/screenshots/en-US/originals/iphone/01.png",
-      "bytes": 141788,
-      "sha256": "eceed249199404313a66cf22326e044dc1e3fc35557d3b255824fdf664acf7f6"
-    },
-    {
-      "path": "assets/screenshots/en-US/originals/iphone/02.png",
-      "bytes": 1973753,
-      "sha256": "eeea9ca05a381659165fa02d8e9b359a24bc86d7caa2640a04d9b262c548fb47"
-    },
-    {
-      "path": "assets/screenshots/en-US/originals/iphone/03.png",
-      "bytes": 152656,
-      "sha256": "5a3eeabff40377c56cfdc1e9c918cdcefddefcbb4c816b6776ca6dea0e11743a"
-    },
-    {
-      "path": "assets/screenshots/en-US/originals/iphone/04.png",
-      "bytes": 1832706,
-      "sha256": "c25499a83df2d5b9b9fcc7b9a88c1ca039fe29420951c5fa43750df33524daa1"
-    },
-    {
-      "path": "assets/screenshots/en-US/originals/iphone/05.png",
-      "bytes": 196687,
-      "sha256": "f8a1a4253e6941171ed4697e6978447a100aa046182592f5440fd88de9c48f81"
-    },
-    {
-      "path": "assets/screenshots/en-US/originals/iphone/06.png",
-      "bytes": 1123355,
-      "sha256": "79d59d9c5230c6b726c4462f248ef48ed385db74ee2942b3f6651c9358ee3415"
-    },
-    {
-      "path": "assets/screenshots/en-US/originals/iphone/native-picker.png",
-      "bytes": 2627154,
-      "sha256": "4b740a601847cedde20f2e871e4742f36bd4204664ef98c36412a2c84afa6907"
-    }
-  ],
-  "runtime_source_sha256": {
-    "lib/app/app.dart": "49dfaf053a2a0cda8b933277ecfbcddae996c263b79514269371eeffd62f2010",
-    "lib/app/view/app.dart": "aca61cdbedb0dbfebc3cb71e5068d5e1193050cab733f9bdb58656a2e996c841",
-    "lib/app/view/main_navigation.dart": "7407292cf1f34678c42a464e7a6f6f64f40a641fb6e0a1ebeeb702c58ab594d4",
-    "lib/app/view/platform_home.dart": "9db5dad73e260c7bb1af36331e3668d2d1c6b6f1eab0bf1edb0fb38bbee53e8e",
-    "lib/app/view/platform_home_native.dart": "fc09bc6e32f95f8cbcd8cca944d6ef6b18357ba45ab197f221c1c3824e2d6253",
-    "lib/app/view/platform_home_web.dart": "514c9144dff5a929d039bb24d303f484821d8818496d891222e61047258f9bfa",
-    "lib/bootstrap.dart": "a00c309a9cf5234de1fd96551dc7c75d348a44c603b02cdeb85e4ce01a410cd8",
-    "lib/data/models/category.dart": "c915cd208192dfbe6f4797e92187a38d0a5ec045fb290d11f7bee3b31a7fe316",
-    "lib/data/models/download_error.dart": "9f37a78ed77f50cffd477ce586c2d2846f8fb60a7095c9cd26e55118fc5f6180",
-    "lib/data/models/download_progress.dart": "6b9872a34040f2f4d52a7389f1fc370d4e73d9a5e19c7d89c0358cfcfb3890fa",
-    "lib/data/models/image.dart": "70654db15f4ff2fe58db21439babe7f6ebafa816fa5e97552b10d75a90445053",
-    "lib/data/models/pack.dart": "0ce576668de485b699a2f6f22ef4f32a04656b1da7e67af7230867b5e03d7593",
-    "lib/data/models/packs_index.dart": "64d703c64285cc893ba9bc27ad1dc85a6fbe99cdeefa170c9116e2697d1da53a",
-    "lib/data/models/sound_setting.dart": "50ad2acd1fbcaea57adb9f1ef23e027a90084c1e28cdfd528ddb77455d90c39a",
-    "lib/data/services/local_pack_service.dart": "d2215a3853768c93b471038d324a3ece465b8b23934caea0d8bf41a6f9f848a4",
-    "lib/data/services/sound_service.dart": "8382d507d6e5e27b74009efec90e65a3bd6516044b8a741589a2d612dea51ffc",
-    "lib/design_system.dart": "5740ad068a98c16699e13c35ad7363ddd1a34c77168f70d4f43f8d21d20522ce",
-    "lib/features/category/presentation/screens/category_page.dart": "58563032a8b6936dc15b769075179af058b1323c45c23a1da2f1fb994685d2ee",
-    "lib/features/game/cubit/game_cubit.dart": "d70d7b8e2404410759684c45f290089aa17b4da4953c47008a221d202d18fe0f",
-    "lib/features/game/cubit/game_state.dart": "758a03dc21d4638d41caa1285d649715659929ebd9e747849a0f631c03e5edb7",
-    "lib/features/game/cubit/tile_state.dart": "b0d9e0ec8c37e4eec9e185dc3e20694aef95e8ebfb5f2eef6c8e1c494b2e9339",
-    "lib/features/game/game.dart": "a4a93a7ca48c6b5443e2f3974a76616d1fd50e30a4a7698cf9baf36b550b7fe4",
-    "lib/features/game/models/models.dart": "bec6081f9c4681098a59c708c7c4a4ae72d37b538033f8a21169d5a85a0bd2bc",
-    "lib/features/game/models/user_preferences.dart": "2771f108fe34970365826718794fd5f278e3a3e9b66592b903253a2abbdc0e89",
-    "lib/features/game/presentation/screens/game_page.dart": "a5a66de40507c5e3e0fea55d6105b4e0426e70b8ea3e6aecc7eb90a8231e2747",
-    "lib/features/game/presentation/widgets/game_board.dart": "088f3038d2fcba375095175daee41e5dac5bfd7a297ca166b61a984f45113fcb",
-    "lib/features/game/presentation/widgets/game_header.dart": "8c54c3ed75c1b4e9852999ebc20d4e3367784c75708a98d793dfc62027a65a7a",
-    "lib/features/game/presentation/widgets/memory_tile.dart": "75c334b5efe17f9d34c7197a36c995af1c374d5403b77f3fe119f25fb4cf1b55",
-    "lib/features/gentle_activities/data/family_photo_store.dart": "990e515aa22bac1f6096724f10b50d1faea5918b53f86175d8cafb88bf074cc6",
-    "lib/features/gentle_activities/data/gentle_preferences.dart": "d4ca9f4e634a0dc4e66307a9b627713b468b460ace90dee659250a19237f4ddf",
-    "lib/features/gentle_activities/data/gentle_session.dart": "9bb532749450b8f8477b9eac5582d577c1fa7b0b45d20def88d6d71945a18c24",
-    "lib/features/gentle_activities/data/photo_annotations.dart": "916afb8cd730020ebf617627f6acbde78a088bd2ef9d3de0693b9059836b0e48",
-    "lib/features/gentle_activities/data/photo_importer.dart": "bffbb19147a658cbbd7e843b666a0c85864af34c6346671fd5d3ba08b34691fa",
-    "lib/features/gentle_activities/models/activity_picture.dart": "70ddf877c1a1b12aff0f683c09ee3dea85556d1dbf100aa3a873b489a65e5561",
-    "lib/features/gentle_activities/models/gentle_board.dart": "69707e8ac93a9aa135428d05f82efc8ac50eae48af215d994b17ae338f81ee5e",
-    "lib/features/gentle_activities/models/puzzle_board.dart": "71c5a2b01196459b9e2cf70d90f360422d22253a64a0e001467e0e7f7f0f4696",
-    "lib/features/gentle_activities/presentation/gentle_comfort_sheet.dart": "bfb743c03937e1169498cd647a017c6530cd9cf5dc2ec58fd3be68a9de7f8082",
-    "lib/features/gentle_activities/presentation/gentle_game_page.dart": "ba2611f13c68bb6de537519e098645c18424b778a94e62d304d7fee458f060d8",
-    "lib/features/gentle_activities/presentation/gentle_home_page.dart": "12531d3eb41fb15cc2707d1a208761bc3c4986cc6c33c5e29bdd9fa7d2a45b48",
-    "lib/features/gentle_activities/presentation/help_privacy_page.dart": "4eae91c592ec0762285be1ee9be753733569793277aa6b115ef191dcfda1dcec",
-    "lib/features/gentle_activities/presentation/photo_collection_page.dart": "9e1f56a3a712b21154677379692491f517398a12c0518516ab843f495d737a5a",
-    "lib/features/gentle_activities/presentation/photo_together_page.dart": "4b8e21308abb1b4715e07b7079699e78dda83d9f39870d30ba1cc80cd89bba93",
-    "lib/features/gentle_activities/presentation/picture_puzzle_page.dart": "73e8d8e76d339dadc767a00f5b19992f5dbdfe4b98bc0254c5430a24fd031c6d",
-    "lib/features/gentle_activities/presentation/picture_view.dart": "51de515d89bee8ac52ae5f2f7bdc03091f6d36480b0a44d8d7f87b2abd956832",
-    "lib/features/home/cubit/home_cubit.dart": "04a77bdc9388934a189ae18b4d76ea895ce5a8df72b2ba88c7ef3661f1ac5ee6",
-    "lib/features/home/cubit/home_state.dart": "f9084606e36b4dcbc973c75688ecf1c9ccb7efa22d51f98e3ee4b2bbebbe2dd4",
-    "lib/features/home/data/interest_preferences.dart": "a760edcc6e19727d9abfe1b35bad6b7f4ffc73c1a940722fa96466344ef39eb8",
-    "lib/features/home/presentation/screens/home_page.dart": "3fe2a80dfb5fca4d756cdd3a1f428997fac2d24a6dfab2dcfc869b8feca28c03",
-    "lib/features/home/presentation/widgets/daily_packs_section.dart": "d7d5448fd6e69fa9f3ab4867ba13441e2f1710abbf45f45b61123aee5f881b1c",
-    "lib/features/home/presentation/widgets/library_section.dart": "15079a5d2440a3434bb181241f3b73a9f706334e03fd5404dfc4e6a9032298c8",
-    "lib/features/home/presentation/widgets/setting_modal.dart": "5eb93114bf3103ba0832caf1a9a906438c1d2f3d5def0c927912b91ee070c681",
-    "lib/features/legal/presentation/legal_info_page.dart": "61a13d00750997e6e02be19d2554ac2497ea3e2d22eb959a72c318f3d3b9f908",
-    "lib/features/pack/presentation/screens/pack_page.dart": "b153933075e8812da456a48dce6717c4a28091e5ce01306466a8a9f760ff2990",
-    "lib/l10n/gen/app_localizations.dart": "77f2818d5afb91282bfe7cf2f6e5cc10a2d2019ea8c081e64484de0c13aa4e85",
-    "lib/l10n/gen/app_localizations_en.dart": "d5540cac0a0fb7f4fb89174a87cc3f53f434618d32980920a4c8845a3a1b5e7a",
-    "lib/l10n/gen/app_localizations_es.dart": "c05a9d893fdf983f8ce5370201aadba627175aad5795bedf568001f637a5543f",
-    "lib/l10n/l10n.dart": "f469e9d95cd7ac5467fdf462882c2a39ab0588ff683327d50a2095c083318f13",
-    "lib/main.dart": "3caacc68a0910778b731b0edcc0ddfaf8f48329824d932df2b80aa7c05660e53",
-    "lib/shared/constants/app_constants.dart": "99c579a98ca07abccdf6059898c84588f463810dc55d4fc223103fee5ee56a93",
-    "lib/shared/sharing/share_invitation.dart": "551f842648ef489bce667620181559c13bbf47ec24f7b475bdce5b59b16459e1",
-    "lib/shared/utils/experiments.dart": "8cfcceb5295e49378ce16307c25de82f15945c13e8a78d3d65e141434b3525be",
-    "lib/shared/utils/share_util.dart": "042ef13b992b35508da6aa3df528bddef659c3bd71fa8e43dea7ca2eab09efbe",
-    "lib/shared/utils/support_info.dart": "edb60b3417cfc000189bb4e3af14af3fd5eb0c968797ba7bf2155e0e04ce1e92",
-    "lib/shared/widgets/category_card.dart": "322932546924e01277e572cedcc8bda608b8da538f11cf0d30d16e587074ff84",
-    "lib/shared/widgets/download_progress_card.dart": "f7843ee9d018fbc68ea6447dc2cb4c318686fcba9b7991e81ab5eb15e0eb3fc6",
-    "lib/shared/widgets/pack_card.dart": "c64179af8e8ed0e38290f3a92ce8e732c2d4b24f1a9d40054e61ff7ea69b5996",
-    "lib/shared/widgets/pressable.dart": "33d6c0d6ec25ec4de4b59b445ff52499677d65cc5578a88384cda89594d144ef"
+  {
+   "path": "assets/screenshots/en-US/art/demo-teacup.png",
+   "bytes": 2134033,
+   "sha256": "cef62bdac4619fcfcfe4d7627409a61a6abed46c7cdaee4a200d4a55050c44be"
+  },
+  {
+   "path": "assets/screenshots/en-US/art/parchment-backdrop.png",
+   "bytes": 2087359,
+   "sha256": "156d72dbaf77c51b3d6042aa4b18cd0deb301148ba9f31f0851bc3981df000cf"
+  },
+  {
+   "path": "assets/screenshots/en-US/ipad/01.jpg",
+   "bytes": 377387,
+   "sha256": "0f20b6b325a3f1c8abef952273ccb5d890b558d45b8a6766b09e839fee80bb17"
+  },
+  {
+   "path": "assets/screenshots/en-US/ipad/02.jpg",
+   "bytes": 607389,
+   "sha256": "88438b7d2cc48d23f0df4a6428b2c7ab5d2fccdcda7ca3a9c296d62020783d61"
+  },
+  {
+   "path": "assets/screenshots/en-US/ipad/03.jpg",
+   "bytes": 377949,
+   "sha256": "2b439c9ded6b5f098c190cd8224c82ebebe44ad93a8a243d1775b951d49243c4"
+  },
+  {
+   "path": "assets/screenshots/en-US/ipad/04.jpg",
+   "bytes": 505445,
+   "sha256": "8fe0482cf4d3eb8475389113ecf58f1c6411b083f9fac589b17b53c1cd4ccf5c"
+  },
+  {
+   "path": "assets/screenshots/en-US/ipad/05.jpg",
+   "bytes": 404222,
+   "sha256": "d236328704b86ae0daeaea342abf94e571415caa316082856d6a58aa15fb014a"
+  },
+  {
+   "path": "assets/screenshots/en-US/ipad/06.jpg",
+   "bytes": 572679,
+   "sha256": "5ce3ea7b8493c6924e1d878a0b147a12ae15e2f5d9c1acda7863a5421855f52b"
+  },
+  {
+   "path": "assets/screenshots/en-US/iphone/01.jpg",
+   "bytes": 332697,
+   "sha256": "74e10033d7278f88f7b454b0ca2ecc1f08d3a0b0fed08b6cfa18fb8a4444d901"
+  },
+  {
+   "path": "assets/screenshots/en-US/iphone/02.jpg",
+   "bytes": 495005,
+   "sha256": "b0adca8c81a0f3a0cc9d81e4810b8a9db2b2c3887e9ba487316b5e23739ccbe2"
+  },
+  {
+   "path": "assets/screenshots/en-US/iphone/03.jpg",
+   "bytes": 338013,
+   "sha256": "3d3c7a4804a5fd12ac8af6f791b8b26304f7e2f534f28c2ae0193cc10dfccc59"
+  },
+  {
+   "path": "assets/screenshots/en-US/iphone/04.jpg",
+   "bytes": 441883,
+   "sha256": "3323855ee673c871e3a6cd5d58c45ec7d25beabdfcfb77763a5c781902e1c619"
+  },
+  {
+   "path": "assets/screenshots/en-US/iphone/05.jpg",
+   "bytes": 363201,
+   "sha256": "919ef285386b57ff6bc964c75991e52b3ba65a549d38fda90953bdff70666feb"
+  },
+  {
+   "path": "assets/screenshots/en-US/iphone/06.jpg",
+   "bytes": 440239,
+   "sha256": "208a50aa7bafc33cd3d91ffa5a5e370329523087b177f8ef12cbf189f6acf041"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/ipad/01.png",
+   "bytes": 185660,
+   "sha256": "e0693af6ebede0e1d4b6aec769e1b854791f0366abd3af7a041d2260c1bc5833"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/ipad/02.png",
+   "bytes": 3102552,
+   "sha256": "cba665946e093874d0c55715fb4c27f5b5b445aaca114a2f13c99b2e026ab0cf"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/ipad/03.png",
+   "bytes": 193068,
+   "sha256": "fa170a2d21a07d50dd16b976690b6895bdafadf6b3f9f688523273872e172ae2"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/ipad/04.png",
+   "bytes": 2410856,
+   "sha256": "00bb0a65a992241c16140fdb0b03d3a20e848058c55095e1ba12079129aa9c5e"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/ipad/05.png",
+   "bytes": 259721,
+   "sha256": "8504198f77dec04405a6342f4f20247b4f9bb87d75f6f80d9cbd14b3512c6a19"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/ipad/06.png",
+   "bytes": 1821376,
+   "sha256": "9a0cf55f2b05cb8efcaf827322e645d431dbf2e269d024b2aaa7846a0e0ff382"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/ipad/native-picker.png",
+   "bytes": 1164631,
+   "sha256": "48b793892362cf8f7d304ed1c303a006111a7044a4233afc8e02375acc2f17a0"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/iphone/01.png",
+   "bytes": 170821,
+   "sha256": "492c160a987a6a72311c7b52059e48677ec38e0674bbfe7ffade8862fa968a12"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/iphone/02.png",
+   "bytes": 2322987,
+   "sha256": "9fe035e51f5f6d1dcd78a168af3dea9fc6b75099dfa1a252fb63e7970a5ef2d7"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/iphone/03.png",
+   "bytes": 182315,
+   "sha256": "938a71258def08e6b127d74086763cd7a84a400fb57a6c5072477bf7ed729299"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/iphone/04.png",
+   "bytes": 1972952,
+   "sha256": "0f855a81c24f0be96fff5af3855b740df933532a54cb97a4477466565665ff9a"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/iphone/05.png",
+   "bytes": 252539,
+   "sha256": "3c4e4c9234c60a1e9486d9fc7a62cabe17e52b7be782d8e4e2e2f05116cdcf99"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/iphone/06.png",
+   "bytes": 1752374,
+   "sha256": "8070ea9d4d4ff43bddeda424237b1e9709ac84c234cf9e8820fb33fd6ca15fb6"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/iphone/native-picker.png",
+   "bytes": 3833702,
+   "sha256": "99d1b59269f6216ac66bd2258b5cbd4833a7a5aaa701de6de6d01597e62624b7"
   }
+ ],
+ "runtime_source_sha256": {
+  "lib/app/app.dart": "49dfaf053a2a0cda8b933277ecfbcddae996c263b79514269371eeffd62f2010",
+  "lib/app/view/app.dart": "aca61cdbedb0dbfebc3cb71e5068d5e1193050cab733f9bdb58656a2e996c841",
+  "lib/app/view/main_navigation.dart": "7407292cf1f34678c42a464e7a6f6f64f40a641fb6e0a1ebeeb702c58ab594d4",
+  "lib/app/view/platform_home.dart": "9db5dad73e260c7bb1af36331e3668d2d1c6b6f1eab0bf1edb0fb38bbee53e8e",
+  "lib/app/view/platform_home_native.dart": "fc09bc6e32f95f8cbcd8cca944d6ef6b18357ba45ab197f221c1c3824e2d6253",
+  "lib/app/view/platform_home_web.dart": "514c9144dff5a929d039bb24d303f484821d8818496d891222e61047258f9bfa",
+  "lib/bootstrap.dart": "a00c309a9cf5234de1fd96551dc7c75d348a44c603b02cdeb85e4ce01a410cd8",
+  "lib/data/models/category.dart": "c915cd208192dfbe6f4797e92187a38d0a5ec045fb290d11f7bee3b31a7fe316",
+  "lib/data/models/download_error.dart": "9f37a78ed77f50cffd477ce586c2d2846f8fb60a7095c9cd26e55118fc5f6180",
+  "lib/data/models/download_progress.dart": "6b9872a34040f2f4d52a7389f1fc370d4e73d9a5e19c7d89c0358cfcfb3890fa",
+  "lib/data/models/image.dart": "70654db15f4ff2fe58db21439babe7f6ebafa816fa5e97552b10d75a90445053",
+  "lib/data/models/pack.dart": "0ce576668de485b699a2f6f22ef4f32a04656b1da7e67af7230867b5e03d7593",
+  "lib/data/models/packs_index.dart": "64d703c64285cc893ba9bc27ad1dc85a6fbe99cdeefa170c9116e2697d1da53a",
+  "lib/data/models/sound_setting.dart": "d9e3919516d3c9adc11dadeb98c749e6abb471fc5af90a7303488b6f188bc6df",
+  "lib/data/services/local_pack_service.dart": "d2215a3853768c93b471038d324a3ece465b8b23934caea0d8bf41a6f9f848a4",
+  "lib/data/services/sound_service.dart": "8382d507d6e5e27b74009efec90e65a3bd6516044b8a741589a2d612dea51ffc",
+  "lib/design_system.dart": "7b9552e38a4329edad93fc16b085133db08bf4d23b5b57f895c204a94a5dfe92",
+  "lib/features/category/presentation/screens/category_page.dart": "1e16c83a4da435ea79cac097202d356aaf1ade190f0937c6508bf45be51a8d1c",
+  "lib/features/game/cubit/game_cubit.dart": "315a3138c27dbce386db18b7403302406682ab7f9df724c410822bb3ccd97726",
+  "lib/features/game/cubit/game_state.dart": "92d9ee5d1a564df0fdaea738aab5937871c1ac1298e51bed26d506980e658bad",
+  "lib/features/game/cubit/tile_state.dart": "b0d9e0ec8c37e4eec9e185dc3e20694aef95e8ebfb5f2eef6c8e1c494b2e9339",
+  "lib/features/game/game.dart": "a4a93a7ca48c6b5443e2f3974a76616d1fd50e30a4a7698cf9baf36b550b7fe4",
+  "lib/features/game/models/models.dart": "bec6081f9c4681098a59c708c7c4a4ae72d37b538033f8a21169d5a85a0bd2bc",
+  "lib/features/game/models/user_preferences.dart": "2771f108fe34970365826718794fd5f278e3a3e9b66592b903253a2abbdc0e89",
+  "lib/features/game/presentation/screens/game_page.dart": "3464345153dd55744c08db4091fe44f7d82b5c329d2ae3e393110e198fa7be66",
+  "lib/features/game/presentation/widgets/game_board.dart": "c0982f8417852f85b6f26698d0294558a00336771fd27709310ca894bb689a22",
+  "lib/features/game/presentation/widgets/game_exit_bar.dart": "ccd27471542c27830597211cd3efa9016cb31879d2e0a542e66347eaf332b9c6",
+  "lib/features/game/presentation/widgets/game_header.dart": "8dc0761c6a41774c220c22bb85b7b4ecb16066926a54778f18a0b10186e97abb",
+  "lib/features/game/presentation/widgets/game_play_view.dart": "d0e59a557c12b1532ab691de97f9110275010a92f28d82a6001c4ca1db8220b0",
+  "lib/features/game/presentation/widgets/memory_tile.dart": "c080ed52af63e7d7ae83a508260b31add76e98d26cdae72585a72eb0e1fd4bfb",
+  "lib/features/gentle_activities/data/family_photo_store.dart": "9980baaf3df1c54bd90828818d9683f49df9b02e0ba4fcf8f9823d6fda82bb72",
+  "lib/features/gentle_activities/data/gentle_preferences.dart": "d4ca9f4e634a0dc4e66307a9b627713b468b460ace90dee659250a19237f4ddf",
+  "lib/features/gentle_activities/data/gentle_session.dart": "9bb532749450b8f8477b9eac5582d577c1fa7b0b45d20def88d6d71945a18c24",
+  "lib/features/gentle_activities/data/owned_files.dart": "5022c3038b14ec7cc84beb2f2012e895d1fd777330ed9d51210edc758bb3d993",
+  "lib/features/gentle_activities/data/photo_annotations.dart": "2a7f46c774f97bfe2a074d80e4f0ee73b5268acd167fd5edd3f2456d84326633",
+  "lib/features/gentle_activities/data/photo_importer.dart": "bffbb19147a658cbbd7e843b666a0c85864af34c6346671fd5d3ba08b34691fa",
+  "lib/features/gentle_activities/models/activity_picture.dart": "70ddf877c1a1b12aff0f683c09ee3dea85556d1dbf100aa3a873b489a65e5561",
+  "lib/features/gentle_activities/models/gentle_board.dart": "69707e8ac93a9aa135428d05f82efc8ac50eae48af215d994b17ae338f81ee5e",
+  "lib/features/gentle_activities/models/puzzle_board.dart": "71c5a2b01196459b9e2cf70d90f360422d22253a64a0e001467e0e7f7f0f4696",
+  "lib/features/gentle_activities/presentation/gentle_comfort_sheet.dart": "3a5b6c4ec7efbfbfae0339dbafda0cbaa4a06c110b2024e34e33ee145c27cd16",
+  "lib/features/gentle_activities/presentation/gentle_game_page.dart": "f666471f5f868325992b558c0dcdf1f3a8c4f649a5bbe013d890188d1c56b7dc",
+  "lib/features/gentle_activities/presentation/gentle_home_page.dart": "cece20e9848228a98f5eb032dfb53a944ad7a74886e1700d03d9295ea669ae40",
+  "lib/features/gentle_activities/presentation/help_privacy_page.dart": "922a6bac5f2b4d262debcadbba158ec73f3f7ac8228a6b41ceb39872c200070f",
+  "lib/features/gentle_activities/presentation/photo_collection_page.dart": "507852636df52b8fe13b27c1cfc04dbf9a5c15afce5871cee404777da1e88f28",
+  "lib/features/gentle_activities/presentation/photo_together_page.dart": "ca5b4db723f282bd530ad6e50e53f3231341124e7df524b99fd925d55cea4740",
+  "lib/features/gentle_activities/presentation/picture_puzzle_page.dart": "30a5fe168a04906b239f9ffbda41bf7f9343fd6f95239c6a3fbb28ab5a33e52f",
+  "lib/features/gentle_activities/presentation/picture_view.dart": "51de515d89bee8ac52ae5f2f7bdc03091f6d36480b0a44d8d7f87b2abd956832",
+  "lib/features/home/cubit/home_cubit.dart": "16dd6422f0ac9274405e80017ca0cc98628d622835072dd472f1140b657757c8",
+  "lib/features/home/cubit/home_state.dart": "673a20ff5885c67c89b7e6dec883249d9549028d2618d4a7694ed21bd35eace1",
+  "lib/features/home/data/interest_preferences.dart": "a760edcc6e19727d9abfe1b35bad6b7f4ffc73c1a940722fa96466344ef39eb8",
+  "lib/features/home/data/pack_preferences.dart": "e64be0d3dd29aebb446dfbc86b6cad93ca8b2d4c6ccea40b0a2bd5da1f0c4502",
+  "lib/features/home/data/pack_selection.dart": "ae7cf070216f3663415d09201dca4d781476eade6ddd732cca2e8eac36280f4d",
+  "lib/features/home/presentation/screens/home_page.dart": "d2b3e7052e93420cb5459b8f1021b83b2250143e7eb8cf90b8ecea00cec33703",
+  "lib/features/home/presentation/widgets/daily_packs_section.dart": "ea3f5f481220f510d38d1ca22db4a42aec22a614e52bcba75edd10d81856bea3",
+  "lib/features/home/presentation/widgets/favorites_section.dart": "3e6ede956eca523b44a57efa910dab123520e7fc79c6cffbc53eb88156a73a44",
+  "lib/features/home/presentation/widgets/hidden_packs_section.dart": "dceb30e56f7d9991e9e8a0eedabeff6828b56087223479730315aa4524e398e7",
+  "lib/features/home/presentation/widgets/library_section.dart": "555144127e684ae6ceda1ca8b00b353a4874cd50ba6fd1ea22f75de537f2be48",
+  "lib/features/home/presentation/widgets/pack_choice_not_saved.dart": "967d008e27dde2d74859c3b6d6f301fc7170d56caaf18164b9abffa4683fbbc5",
+  "lib/features/home/presentation/widgets/setting_modal.dart": "b391eca8d534007260ca6059fab5c43cfecc4267af673a38a15813cce0159a7a",
+  "lib/features/legal/presentation/legal_info_page.dart": "042bea5f3120bf66d07a8e36f2b91f4058f897b1dda2d6edf199ba605f1742c1",
+  "lib/features/pack/presentation/screens/pack_page.dart": "5d16b64f0fa4920873fa6a2ac572581ae0f34e206999d2506b6dd282668fb902",
+  "lib/l10n/l10n.dart": "f469e9d95cd7ac5467fdf462882c2a39ab0588ff683327d50a2095c083318f13",
+  "lib/main.dart": "3caacc68a0910778b731b0edcc0ddfaf8f48329824d932df2b80aa7c05660e53",
+  "lib/shared/constants/app_constants.dart": "8a8d7e5cd21e8b1768b25a844cb997aaae595283290436e96b8c1e89e37ae013",
+  "lib/shared/sharing/share_invitation.dart": "551f842648ef489bce667620181559c13bbf47ec24f7b475bdce5b59b16459e1",
+  "lib/shared/utils/experiments.dart": "8cfcceb5295e49378ce16307c25de82f15945c13e8a78d3d65e141434b3525be",
+  "lib/shared/utils/share_util.dart": "042ef13b992b35508da6aa3df528bddef659c3bd71fa8e43dea7ca2eab09efbe",
+  "lib/shared/utils/support_info.dart": "edb60b3417cfc000189bb4e3af14af3fd5eb0c968797ba7bf2155e0e04ce1e92",
+  "lib/shared/widgets/category_card.dart": "d37636f7cd20d7434feca73518d0ac5e37fe6b8c213989c05401fadea4d4ee5e",
+  "lib/shared/widgets/download_progress_card.dart": "f7843ee9d018fbc68ea6447dc2cb4c318686fcba9b7991e81ab5eb15e0eb3fc6",
+  "lib/shared/widgets/gm_bottom_bar.dart": "89655f10229593a02fc94f53dfd1d38244353af143c8d9adbc29cc9a290ea663",
+  "lib/shared/widgets/pack_card.dart": "f757d1f0d0602777801feee0d00a89da5a8305fa0d0b61d6f5611b7ca27227fb",
+  "lib/shared/widgets/pack_grid.dart": "0eb7fb5f71da3206f37340500c08a394c5d6f6d1b98ebd08f9fc827b999407a8",
+  "lib/shared/widgets/pressable.dart": "d9082f3eeb3ae4d87af82231f6f7264a6f9e372be5d6b23bbe98723b81d2e267"
+ }
 }
