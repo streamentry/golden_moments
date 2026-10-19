@@ -4,15 +4,22 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 
 class PictureView extends StatelessWidget {
-  const new({required this.picture, super.key});
+  const new({required this.picture, this.fit = BoxFit.contain, super.key});
   final ActivityPicture picture;
+
+  /// How a photo fills its space: whole by default (Look together), or
+  /// [BoxFit.cover] where it sits in a tile and is cropped to the tile's
+  /// shape, never letterboxed (DESIGN.md › Shapes).
+  final BoxFit fit;
 
   @override
   Widget build(BuildContext context) {
     if (picture.path != null) {
       return Image.file(
         File(picture.path!),
-        fit: BoxFit.contain,
+        fit: fit,
+        width: double.infinity,
+        height: double.infinity,
         cacheWidth: 768,
         excludeFromSemantics: true,
         errorBuilder: (_, _, _) => Center(

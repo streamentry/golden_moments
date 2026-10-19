@@ -686,9 +686,14 @@ class _GentleGamePageState extends State<GentleGamePage> {
               fit: StackFit.expand,
               children: [
                 if (visible)
+                  // Mounted like a print: cropped to the tile, never
+                  // letterboxed, with softly rounded corners.
                   Padding(
                     padding: const EdgeInsets.all(gmSpaceSm),
-                    child: PictureView(picture: picture),
+                    child: ClipRRect(
+                      borderRadius: BorderRadius.circular(gmRadiusMd),
+                      child: PictureView(picture: picture, fit: BoxFit.cover),
+                    ),
                   )
                 else
                   const GmTileBack(),
