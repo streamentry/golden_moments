@@ -27,6 +27,8 @@ on a device whose app data you want to keep.
 | J5 | Family photos: a generated collection written into app storage as an earlier install would leave it, then caption, favorite, play, captions, hide, remove, with the files on disk checked |
 | J6 | Picture-pack library: favorites, Not for me and Show again, a topic, a pack played to the end, Play again, back to Home |
 | J7 | J1 and J4 again at 200% text: no overflow, Start and Done for now reachable |
+| J8 | Help, privacy and support from Home with no network: the guide, every help section, a note previewed exactly and cancelled (nothing sent), the named privacy and terms links, and a way back from each page |
+| J9 | Confirmations at 100% and 200% text: Keep this board and Keep my settings are the primary actions, keeping keeps the found pair and the tile count, and Start again clears only when chosen |
 
 Notes:
 

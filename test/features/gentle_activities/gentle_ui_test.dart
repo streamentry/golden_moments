@@ -124,7 +124,7 @@ void main() {
     await tester.pumpAndSettle();
     await tester.tap(find.text('Reset comfort settings'));
     await tester.pumpAndSettle();
-    await tester.tap(find.widgetWithText(FilledButton, 'Reset'));
+    await tester.tap(find.widgetWithText(TextButton, 'Reset'));
     await tester.pumpAndSettle();
     await tester.tap(find.text('Done'));
     await tester.pumpAndSettle();
@@ -216,7 +216,7 @@ void main() {
 
       await tester.tap(find.text('Start again'));
       await tester.pumpAndSettle();
-      await tester.tap(find.widgetWithText(FilledButton, 'Start again'));
+      await tester.tap(find.widgetWithText(TextButton, 'Start again'));
       await tester.pumpAndSettle();
       expect(tester.getSemantics(_tiles.first).value, isNot('Selected'));
     },
@@ -270,7 +270,7 @@ void main() {
       expect(_tiles, findsNWidgets(8));
       await tester.tap(find.text('Reset comfort settings'));
       await tester.pumpAndSettle();
-      await tester.tap(find.widgetWithText(FilledButton, 'Reset'));
+      await tester.tap(find.widgetWithText(TextButton, 'Reset'));
       await tester.pumpAndSettle();
       await tester.tap(find.text('Back to the pictures'));
       await tester.pumpAndSettle();

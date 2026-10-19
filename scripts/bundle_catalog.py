@@ -46,6 +46,25 @@ def rewrite(value, paths):
     return paths.get(value, value) if isinstance(value, str) else value
 
 
+def reusable(old, refresh, root=ROOT):
+    """The recorded entry to keep without fetching, or None to fetch.
+
+    An entry made locally from another bundled photo (it has ``derivedFrom``)
+    is always kept, even with --refresh: its source URL names the photo, not
+    these exact bytes, so fetching would replace it with a different file.
+    """
+    if not old:
+        return None
+    if old.get('derivedFrom'):
+        return old
+    path = root / old['asset']
+    if refresh or not path.is_file():
+        return None
+    if hashlib.sha256(path.read_bytes()).hexdigest() == old['sha256']:
+        return old
+    return None
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--refresh', action='store_true')
@@ -58,11 +77,9 @@ def main():
     DEST.mkdir(parents=True, exist_ok=True)
 
     def acquire(url):
-        old = known.get(url)
-        if old and not args.refresh and (ROOT / old['asset']).is_file():
-            data = (ROOT / old['asset']).read_bytes()
-            if hashlib.sha256(data).hexdigest() == old['sha256']:
-                return old
+        kept = reusable(known.get(url), args.refresh)
+        if kept:
+            return kept
         key = hashlib.sha256(url.encode()).hexdigest()[:24]
         existing = list(DEST.glob(key + '.*'))
         if existing and not args.refresh:

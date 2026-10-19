@@ -81,11 +81,23 @@ Simulator journeys on the integrated build (iOS 26.5, iPhone 17 Pro Max, debug, 
 
 End-to-end and UX pass (stacked on #67): an `integration_test/` suite drives the real app through seven journeys (first game, stop and resume, comfort settings, Look together, an installed family collection without the picker, the picture-pack library, and 200% text). All 8 tests pass on the iPhone 17 Pro Max and iPad Pro 13-inch simulators (iOS 26.5); run with `flutter test integration_test -d <simulator>` (see `integration_test/README.md`; it clears app data). A screen-by-screen review at phone, 200% text and iPad sizes led to: a picture of the activity on Home, a calm 'All pairs together.' finish, unclamped app-bar titles, measured button pairs, a clearer library ('Picture packs', tile counts instead of difficulty words, one column on phones, 1px Driftwood card borders), honest card backs for hidden tiles, and Look together keeping the picture in sight. Running the suite at 200% text on the iPhone found three real defects, all fixed with regression tests. Simulators are not physical devices or screen-reader runs.
 
+Detail pass (after #70): a review of 24 screen states at phone, 200% text and iPad sizes, including family-photo grids, photo options, dialogs, the picture puzzle and the pack page. It led to:
+- Confirmations that make the safe choice the filled primary, with full-width stacked actions when labels do not fit.
+- Play again as the primary action on the pack-game finish.
+- A 1px line above fixed bottom bars only while content continues beneath them, and a linen app bar when content scrolls under it.
+- At 200% text, a finished board scrolls its closing words into view (a jump with Reduce Motion).
+- Equal-width comfort chips in full rows.
+- Picture-puzzle exit labels that no longer break mid-phrase, and a puzzle board that grows on iPad.
+- Full-width sheet actions.
+- A Classic Cars cover and captions that show and name the pack's own cars.
+
+New journeys J8 (help and privacy offline, a note sent nowhere) and J9a/J9b (confirmations at 100% and 200%) bring the suite to 11 tests, all passing on the iPhone 17 Pro Max and iPad Pro 13-inch simulators (iOS 26.5). The family-photos journey also caught Home throwing a negative-height layout error under a keyboard, now fixed with a regression test. Widget tests: 377 pass, also in one isolate in random order, with 78.7% line coverage. The browser smoke passes 11 of 11. Simulators are not physical devices or screen-reader runs.
+
 Findings for the maintainer, not decided here:
 - **Sound default:** installs that never touched the library sound switches now start quiet (stored choices are kept). Mention in release notes.
 - **App-level privacy manifest:** the iOS build carries plugin manifests but no app `PrivacyInfo.xcprivacy`; decide against Apple's current rules before submission.
 - **Corrupt photo manifest:** it surfaces an error and is never overwritten, but there is no in-app recovery flow yet; a "keep what can be verified" recovery is a product decision.
-- **Content:** the *Classic Cars* pack cover shows a lightbulb; include it in the GM-025 rights and clarity review.
+- **Content:** the *Classic Cars* cover and first preview now show cars from the pack (they showed a light bulb), and its screen-reader captions describe the cars actually shown. The pack still contains modern cars under a "Classic"/"vintage" title and description; include that wording in the GM-025 rights and clarity review.
 
 Next executable actions, in order: run `docs/release/device-acceptance.md` on a physical iPhone and iPad (VoiceOver walkthrough of start/play/stop/import/remove, rotation, Reduce Motion, airplane-mode fresh install, upgrade from the App Store build); install the Android SDK only with the maintainer's license acceptance and repeat; then the five-caregiver comprehension test and genuine screenshots (GM-033). R2 stays at the unshipped GM-009 prototype until the pilot (GM-039) chooses; R3 stays deferred.
 

@@ -4,8 +4,10 @@ import 'package:integration_test/integration_test.dart';
 import 'journeys/comfort_settings.dart';
 import 'journeys/family_photos.dart';
 import 'journeys/first_game.dart';
+import 'journeys/help_and_privacy.dart';
 import 'journeys/look_together.dart';
 import 'journeys/pack_library.dart';
+import 'journeys/safe_confirmations.dart';
 import 'journeys/stop_and_resume.dart';
 import 'support/app_harness.dart';
 
@@ -50,6 +52,18 @@ void main() {
     journey(
       'J7b 200% text: look together',
       (tester) => lookTogetherIncluded(tester, textScale: 2),
+    );
+    journey(
+      'J8 help, privacy and support offline, with a note sent nowhere',
+      helpAndPrivacy,
+    );
+    journey(
+      'J9a confirmations keep things unless the person chooses otherwise',
+      safeConfirmations,
+    );
+    journey(
+      'J9b 200% text: confirmations',
+      (tester) => safeConfirmations(tester, textScale: 2),
     );
   });
 }

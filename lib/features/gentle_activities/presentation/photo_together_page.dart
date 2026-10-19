@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
+import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
 
 /// Looking and talking are optional: this is not a recall or recognition test.
 ///
@@ -36,6 +37,7 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
   /// person may have scrolled down to the buttons, and a new picture
   /// appearing out of sight looks as if nothing happened.
   final _scroll = ScrollController();
+  final GmMoreBelow _moreBelow = GmMoreBelow();
 
   /// When three stacked buttons would take much of a small screen (large
   /// text), only Done for now stays fixed and Previous/Next sit directly
@@ -45,6 +47,7 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
   @override
   void dispose() {
     _scroll.dispose();
+    _moreBelow.dispose();
     super.dispose();
   }
 
@@ -128,11 +131,13 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
         toolbarHeight: gmToolbarHeight(context),
         title: const GmTitle('Look together'),
       ),
-      body: SafeArea(
-        child: Center(
-          child: ConstrainedBox(
-            constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
-            child: _pictures.isEmpty ? _empty(context) : _viewer(context),
+      body: _moreBelow.watch(
+        SafeArea(
+          child: Center(
+            child: ConstrainedBox(
+              constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
+              child: _pictures.isEmpty ? _empty(context) : _viewer(context),
+            ),
           ),
         ),
       ),
@@ -313,31 +318,15 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
       child: const Text('Done for now'),
     );
     final navInBar = _pictures.isNotEmpty && !_compactBar;
-    return SafeArea(
-      child: Center(
-        heightFactor: 1,
-        child: ConstrainedBox(
-          constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
-          child: Padding(
-            padding: const EdgeInsets.fromLTRB(
-              gmSpaceLg,
-              gmSpaceSm,
-              gmSpaceLg,
-              gmSpaceMd,
-            ),
-            child: Column(
-              mainAxisSize: MainAxisSize.min,
-              crossAxisAlignment: CrossAxisAlignment.stretch,
-              children: [
-                if (navInBar) ...[
-                  _navPair(),
-                  const SizedBox(height: gmSpaceSm),
-                ],
-                done,
-              ],
-            ),
-          ),
-        ),
+    return GmBottomBar(
+      moreBelow: _moreBelow,
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: [
+          if (navInBar) ...[_navPair(), const SizedBox(height: gmSpaceSm)],
+          done,
+        ],
       ),
     );
   }

@@ -30,6 +30,8 @@ by another picture in that same pack.
 2. For remote maintainer sources, explicitly run
    `python3 scripts/bundle_catalog.py`. This imports files and rewrites source
    URLs to local asset paths. `--refresh` explicitly reacquires recorded sources.
+   An image made locally from another bundled photo (a crop or resize, marked
+   `derivedFrom` in the source record) is never fetched again.
    This is a maintainer tool, never an app-startup, build, or CI requirement.
 3. Commit the local files, catalog, and source/checksum record together. Assets
    must be declared in `pubspec.yaml` before packaging. New inventory counts

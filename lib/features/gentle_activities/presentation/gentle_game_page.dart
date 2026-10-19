@@ -10,6 +10,7 @@ import 'package:golden_moments/features/gentle_activities/models/gentle_board.da
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_comfort_sheet.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
+import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
 
 /// The matching activity: the board comes first, "Done for now" is always
 /// visible, and comfort settings open only on request (GM-001/002/003/005).
@@ -37,6 +38,11 @@ class _GentleGamePageState extends State<GentleGamePage> {
   GentlePreferences _prefs = const GentlePreferences();
   bool _invite = false;
   bool _shared = false;
+  final GmMoreBelow _moreBelow = GmMoreBelow();
+
+  /// The line under the board that names the finish; at large text the
+  /// page scrolls to it when the last pair is found.
+  final GlobalKey _finishKey = GlobalKey();
 
   /// False until a saved board has been offered (or ruled out). Until then
   /// taps are not saved, so an earlier unfinished board is never overwritten
@@ -62,6 +68,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
   @override
   void dispose() {
     _settleInvitation();
+    _moreBelow.dispose();
     super.dispose();
   }
 
@@ -111,16 +118,17 @@ class _GentleGamePageState extends State<GentleGamePage> {
           'You have a board in progress. You can carry on with it or start '
           'a new one.',
         ),
-        actions: [
-          TextButton(
+        actions: gmDialogActions(
+          other: TextButton(
             onPressed: () => Navigator.pop(context, false),
-            child: const Text('Start fresh'),
+            child: const Text('Start fresh', textAlign: TextAlign.center),
           ),
-          FilledButton(
+          primary: FilledButton(
             onPressed: () => Navigator.pop(context, true),
-            child: const Text('Carry on'),
+            child: const Text('Carry on', textAlign: TextAlign.center),
           ),
-        ],
+          labels: ('Start fresh', 'Carry on'),
+        ),
       ),
     );
     if (!mounted) return;
@@ -165,7 +173,34 @@ class _GentleGamePageState extends State<GentleGamePage> {
     final wasComplete = board.complete;
     setState(() => board.tap(index));
     _persist();
-    if (!wasComplete && board.complete) unawaited(_recordCompletion());
+    if (!wasComplete && board.complete) {
+      unawaited(_recordCompletion());
+      _revealFinish();
+    }
+  }
+
+  /// At large text the finish is named below the board, at the end of the
+  /// page; scroll to the end so it is not left under the bar. Without a
+  /// page scroll view this does nothing.
+  void _revealFinish() {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      final target = _finishKey.currentContext;
+      if (!mounted || target == null) return;
+      final position = Scrollable.maybeOf(target)?.position;
+      if (position == null || position.extentAfter <= 0) return;
+      final calm = MediaQuery.disableAnimationsOf(context);
+      if (calm) {
+        position.jumpTo(position.maxScrollExtent);
+      } else {
+        unawaited(
+          position.animateTo(
+            position.maxScrollExtent,
+            duration: const Duration(milliseconds: 300),
+            curve: Curves.easeOut,
+          ),
+        );
+      }
+    });
   }
 
   Future<void> _recordCompletion() async {
@@ -175,11 +210,18 @@ class _GentleGamePageState extends State<GentleGamePage> {
     } on Object {
       invite = false;
     }
-    if (mounted && invite) setState(() => _invite = true);
+    if (mounted && invite) {
+      setState(() => _invite = true);
+      // The suggestion makes the bar taller; keep the closing words in view.
+      _revealFinish();
+    }
   }
 
   Future<void> _share() async {
-    if (await shareAndRemember() && mounted) setState(() => _shared = true);
+    if (await shareAndRemember() && mounted) {
+      setState(() => _shared = true);
+      _revealFinish();
+    }
   }
 
   /// Carrying on without sharing is a complete answer, never a nag.
@@ -220,16 +262,18 @@ class _GentleGamePageState extends State<GentleGamePage> {
         content: const Text(
           'The pictures you have found on this board will be cleared.',
         ),
-        actions: [
-          TextButton(
-            onPressed: () => Navigator.pop(context, false),
-            child: const Text('Keep this board'),
-          ),
-          FilledButton(
+        // Keeping the board is the safe choice, so it is the primary one.
+        actions: gmDialogActions(
+          other: TextButton(
             onPressed: () => Navigator.pop(context, true),
-            child: Text(action),
+            child: Text(action, textAlign: TextAlign.center),
           ),
-        ],
+          primary: FilledButton(
+            onPressed: () => Navigator.pop(context, false),
+            child: const Text('Keep this board', textAlign: TextAlign.center),
+          ),
+          labels: (action, 'Keep this board'),
+        ),
       ),
     );
     return ok ?? false;
@@ -314,9 +358,12 @@ class _GentleGamePageState extends State<GentleGamePage> {
                   'number of tiles, or stop with Done for now.',
                 ),
                 const SizedBox(height: gmSpaceLg),
-                FilledButton(
-                  onPressed: () => Navigator.pop(context),
-                  child: const Text('Back to the pictures'),
+                SizedBox(
+                  width: double.infinity,
+                  child: FilledButton(
+                    onPressed: () => Navigator.pop(context),
+                    child: const Text('Back to the pictures'),
+                  ),
                 ),
               ],
             ),
@@ -365,69 +412,103 @@ class _GentleGamePageState extends State<GentleGamePage> {
       ),
       body: board == null
           ? const Center(child: Text('Choose at least two photos to play.'))
-          : SafeArea(
-              child: Center(
-                child: ConstrainedBox(
-                  constraints: const BoxConstraints(
-                    maxWidth: gmContentMaxWidth,
-                  ),
-                  child: LayoutBuilder(
-                    builder: (context, constraints) {
-                      // At very large text the board comes first and the
-                      // instruction moves into the status line below it.
-                      final instructionBelow = scale > 1.5;
-                      // A finished board says so calmly where the
-                      // instruction was: a check and a plain sentence, no
-                      // confetti, score or praise (DESIGN.md › Celebration).
-                      final instruction = board.complete
-                          ? Semantics(
-                              liveRegion: true,
-                              header: true,
-                              child: Row(
-                                children: [
-                                  Icon(
-                                    Icons.check_circle_outline,
-                                    color: theme.colorScheme.primary,
-                                    size: 32,
-                                  ),
-                                  const SizedBox(width: gmSpaceSm),
-                                  Expanded(
-                                    child: Text(
-                                      'All pairs together.',
-                                      style: theme.textTheme.headlineSmall,
+          : _moreBelow.watch(
+              SafeArea(
+                child: Center(
+                  child: ConstrainedBox(
+                    constraints: const BoxConstraints(
+                      maxWidth: gmContentMaxWidth,
+                    ),
+                    child: LayoutBuilder(
+                      builder: (context, constraints) {
+                        // At very large text the board comes first and the
+                        // instruction moves into the status line below it.
+                        final instructionBelow = scale > 1.5;
+                        // A finished board says so calmly where the
+                        // instruction was: a check and a plain sentence, no
+                        // confetti, score or praise (DESIGN.md › Celebration).
+                        final instruction = board.complete
+                            ? Semantics(
+                                liveRegion: true,
+                                header: true,
+                                child: Row(
+                                  children: [
+                                    Icon(
+                                      Icons.check_circle_outline,
+                                      color: theme.colorScheme.primary,
+                                      size: 32,
                                     ),
-                                  ),
+                                    const SizedBox(width: gmSpaceSm),
+                                    Expanded(
+                                      child: Text(
+                                        'All pairs together.',
+                                        style: theme.textTheme.headlineSmall,
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              )
+                            : Text(
+                                'Tap two pictures that match.',
+                                style: theme.textTheme.bodyLarge,
+                              );
+                        final status = Semantics(
+                          key: _finishKey,
+                          liveRegion: true,
+                          child: Text(
+                            board.complete
+                                ? 'Play again or take a break.'
+                                : board.waitingForNextTurn
+                                ? 'Take your time. Tap a picture to continue.'
+                                : instructionBelow
+                                ? 'Tap two pictures that match. '
+                                      'There is no time limit.'
+                                : 'There is no time limit.',
+                            style: theme.textTheme.bodyLarge,
+                          ),
+                        );
+                        const padding = EdgeInsets.symmetric(
+                          horizontal: gmSpaceLg,
+                          vertical: gmSpaceMd,
+                        );
+                        final width = constraints.maxWidth - padding.horizontal;
+                        // Large text or a short landscape screen: scroll the
+                        // page instead of squeezing the board below tile size.
+                        final tight = constraints.maxHeight < 360 + 240 * scale;
+                        if (tight) {
+                          return SingleChildScrollView(
+                            padding: padding,
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                if (!instructionBelow) ...[
+                                  instruction,
+                                  const SizedBox(height: gmSpaceMd),
                                 ],
-                              ),
-                            )
-                          : Text(
-                              'Tap two pictures that match.',
-                              style: theme.textTheme.bodyLarge,
-                            );
-                      final status = Semantics(
-                        liveRegion: true,
-                        child: Text(
-                          board.complete
-                              ? 'Play again or take a break.'
-                              : board.waitingForNextTurn
-                              ? 'Take your time. Tap a picture to continue.'
-                              : instructionBelow
-                              ? 'Tap two pictures that match. '
-                                    'There is no time limit.'
-                              : 'There is no time limit.',
-                          style: theme.textTheme.bodyLarge,
-                        ),
-                      );
-                      const padding = EdgeInsets.symmetric(
-                        horizontal: gmSpaceLg,
-                        vertical: gmSpaceMd,
-                      );
-                      final width = constraints.maxWidth - padding.horizontal;
-                      // Large text or a short landscape screen: scroll the
-                      // page instead of squeezing the board below tile size.
-                      final tight = constraints.maxHeight < 360 + 240 * scale;
-                      if (tight) {
-                        return SingleChildScrollView(
+                                _grid(
+                                  board,
+                                  width,
+                                  constraints.maxHeight * 0.8,
+                                ),
+                                const SizedBox(height: gmSpaceMd),
+                                // At large text the finish is named below the
+                                // board, where the instruction went.
+                                if (instructionBelow && board.complete) ...[
+                                  instruction,
+                                  const SizedBox(height: gmSpaceSm),
+                                ],
+                                status,
+                              ],
+                            ),
+                          );
+                        }
+                        // Nothing scrolls in this layout, so nothing is below.
+                        if (_moreBelow.value) {
+                          WidgetsBinding.instance.addPostFrameCallback((_) {
+                            if (mounted) _moreBelow.value = false;
+                          });
+                        }
+                        return Padding(
                           padding: padding,
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
@@ -436,10 +517,18 @@ class _GentleGamePageState extends State<GentleGamePage> {
                                 instruction,
                                 const SizedBox(height: gmSpaceMd),
                               ],
-                              _grid(board, width, constraints.maxHeight * 0.8),
+                              Expanded(
+                                child: LayoutBuilder(
+                                  builder: (context, box) => Center(
+                                    child: _grid(
+                                      board,
+                                      box.maxWidth,
+                                      box.maxHeight,
+                                    ),
+                                  ),
+                                ),
+                              ),
                               const SizedBox(height: gmSpaceMd),
-                              // At large text the finish is named below the
-                              // board, where the instruction went.
                               if (instructionBelow && board.complete) ...[
                                 instruction,
                                 const SizedBox(height: gmSpaceSm),
@@ -448,77 +537,33 @@ class _GentleGamePageState extends State<GentleGamePage> {
                             ],
                           ),
                         );
-                      }
-                      return Padding(
-                        padding: padding,
-                        child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            if (!instructionBelow) ...[
-                              instruction,
-                              const SizedBox(height: gmSpaceMd),
-                            ],
-                            Expanded(
-                              child: LayoutBuilder(
-                                builder: (context, box) => Center(
-                                  child: _grid(
-                                    board,
-                                    box.maxWidth,
-                                    box.maxHeight,
-                                  ),
-                                ),
-                              ),
-                            ),
-                            const SizedBox(height: gmSpaceMd),
-                            if (instructionBelow && board.complete) ...[
-                              instruction,
-                              const SizedBox(height: gmSpaceSm),
-                            ],
-                            status,
-                          ],
-                        ),
-                      );
-                    },
+                      },
+                    ),
                   ),
                 ),
               ),
             ),
       bottomNavigationBar: board == null
           ? null
-          : SafeArea(
-              child: Center(
-                heightFactor: 1,
-                child: ConstrainedBox(
-                  constraints: const BoxConstraints(
-                    maxWidth: gmContentMaxWidth,
-                  ),
-                  child: Padding(
-                    padding: const EdgeInsets.fromLTRB(
-                      gmSpaceLg,
-                      0,
-                      gmSpaceLg,
-                      gmSpaceMd,
+          : GmBottomBar(
+              moreBelow: _moreBelow,
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  if (board.complete && _invite && !_shared) ...[
+                    ShareInvitation(onShare: _share),
+                    const SizedBox(height: gmSpaceSm),
+                  ],
+                  if (board.complete && _shared) ...[
+                    Text(
+                      'Thank you for sharing.',
+                      style: theme.textTheme.bodyMedium,
                     ),
-                    child: Column(
-                      mainAxisSize: MainAxisSize.min,
-                      crossAxisAlignment: CrossAxisAlignment.stretch,
-                      children: [
-                        if (board.complete && _invite && !_shared) ...[
-                          ShareInvitation(onShare: _share),
-                          const SizedBox(height: gmSpaceSm),
-                        ],
-                        if (board.complete && _shared) ...[
-                          Text(
-                            'Thank you for sharing.',
-                            style: theme.textTheme.bodyMedium,
-                          ),
-                          const SizedBox(height: gmSpaceSm),
-                        ],
-                        _exitButtons(board),
-                      ],
-                    ),
-                  ),
-                ),
+                    const SizedBox(height: gmSpaceSm),
+                  ],
+                  _exitButtons(board),
+                ],
               ),
             ),
     );

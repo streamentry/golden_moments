@@ -87,8 +87,9 @@ Future<void> _tapText(
   await _settle(tester);
 }
 
-/// Presses a confirmation dialog's filled button, whatever its label, then
-/// waits for [until] like [_tapText].
+/// Confirms a removal dialog, whatever its label: the destructive action is
+/// the text button, since keeping the photo is the filled, primary one.
+/// Then waits for [until] like [_tapText].
 Future<void> _confirmDialog(
   WidgetTester tester, {
   required bool Function() until,
@@ -96,7 +97,7 @@ Future<void> _confirmDialog(
   await tester.tap(
     find.descendant(
       of: find.byType(AlertDialog),
-      matching: find.byType(FilledButton),
+      matching: find.byType(TextButton),
     ),
   );
   for (var i = 0; i < 2000 && !until(); i++) {
@@ -249,8 +250,10 @@ void main() {
     expect(find.text('Remove this photo copy?'), findsOneWidget);
     // Honest about what deleting cannot reach (GM-027).
     expect(find.textContaining('earlier device backups'), findsOneWidget);
-    // The destructive button says what it does.
-    expect(find.widgetWithText(FilledButton, 'Remove copy'), findsOneWidget);
+    // The destructive button says what it does, and keeping the photo is
+    // the primary action (DESIGN.md › Dialogs and sheets).
+    expect(find.widgetWithText(TextButton, 'Remove copy'), findsOneWidget);
+    expect(find.widgetWithText(FilledButton, 'Cancel'), findsOneWidget);
     await _tapText(
       tester,
       'Remove copy',
