@@ -269,14 +269,15 @@
       },
       "GM-016": {
         "status": "partial",
-        "scope": "Widget tests cover small phone, phone, landscape phone and iPad for the gentle home, board and Look together, the legacy game, category, pack and library pages; rotating mid-turn keeps the same board and selection, and rotating while viewing keeps the picture and options. iOS simulator (iPhone 17 Pro Max) observed. Real iPad, split screen and keyboard-open checks pending. End-to-end journeys pass on iPhone 17 Pro Max and iPad Pro 13-inch simulators. On iPad the picture puzzle board grows with the screen and its loose pieces stay on one row.",
+        "scope": "Widget tests cover small phone, phone, landscape phone and iPad for the gentle home, board and Look together, the legacy game, category, pack and library pages; rotating mid-turn keeps the same board and selection, and rotating while viewing keeps the picture and options. iOS simulator (iPhone 17 Pro Max) observed. Real iPad, split screen and keyboard-open checks pending. End-to-end journeys pass on iPhone 17 Pro Max and iPad Pro 13-inch simulators. On iPad the picture puzzle board grows with the screen and its loose pieces stay on one row. Family photos are cropped to their square tile and mounted with rounded corners on Your family photos and on the gentle board, instead of letterboxed (DESIGN.md › Shapes); Look together still shows each photo whole.",
         "evidence": [
           "test/features/gentle_activities/gentle_ui_test.dart",
           "test/features/gentle_activities/photo_together_test.dart",
           "test/features/legacy_library/legacy_layout_test.dart",
           "test/features/legacy_library/legacy_landscape_test.dart",
           "integration_test/app_journeys_test.dart",
-          "test/ux_detail_test.dart"
+          "test/ux_detail_test.dart",
+          "test/family_album_test.dart"
         ]
       },
       "GM-017": {
