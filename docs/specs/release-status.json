@@ -430,7 +430,7 @@
       },
       "GM-033": {
         "status": "partial",
-        "scope": "Store screenshots were recaptured from the current app (main at fce00d7) on the iOS 26.5 iPhone 17 Pro Max and iPad Pro 13-inch simulators and placed in the approved frames; manifest.json records tools, hashes and how the demo photos entered the app (native picker on iPhone; the app's own import steps via integration_test/store_screens_test.dart on iPad). Not done: captures from the final signed release build, physical-device captures, and the five-caregiver comprehension test.",
+        "scope": "Store screenshots were recaptured from the current app (a704346, the album library) on the iOS 26.5 iPhone 17 Pro Max and iPad Pro 13-inch simulators and placed in the approved frames; manifest.json records tools, hashes and how the demo photos entered the app (the app's own import steps via integration_test/store_screens_test.dart on both devices; earlier native-picker proofs kept). Not done: captures from the final signed release build, physical-device captures, and the five-caregiver comprehension test.",
         "evidence": [
           "assets/screenshots/en-US/manifest.json",
           "integration_test/store_screens_test.dart",

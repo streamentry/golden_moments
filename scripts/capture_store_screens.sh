@@ -22,6 +22,9 @@ work=$(mktemp -d /tmp/gm-store-capture.XXXXXX)
 cp "$root/assets/screenshots/en-US/art/demo-teacup.png" \
    "$root/assets/screenshots/en-US/art/demo-flowers.png" "$work/"
 
+# Clear first: an earlier override can leave stale values behind (a charging
+# battery, "no service" dots) that a new override does not replace.
+xcrun simctl status_bar "$simulator" clear
 xcrun simctl status_bar "$simulator" override --time 9:41 --dataNetwork wifi \
   --wifiMode active --wifiBars 3 --batteryState discharging --batteryLevel 100 \
   --cellularMode notSupported

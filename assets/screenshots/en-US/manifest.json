@@ -1,9 +1,8 @@
 {
- "candidate": "1.3.0+6 source as merged in main (after build 6: PRs #70, #71, #72)",
- "base_commit": "fce00d78c02ca299c4bf5b3b10f9678d7924d814",
+ "candidate": "1.3.0+6 source with the album library (after PRs #70-#76)",
+ "base_commit": "a7043467c6478c00dc2ab7e16642cb9eb5fb5b2a",
  "runtime_changes": [
-  "iPhone: debug banner hidden by a local capture-only edit (MaterialApp debugShowCheckedModeBanner: false), not committed",
-  "iPad: debug banner hidden by integration_test/store_screens_test.dart (WidgetsApp.debugAllowBannerOverride = false)"
+  "Debug banner hidden by integration_test/store_screens_test.dart (WidgetsApp.debugAllowBannerOverride = false); no app code changed for capture"
  ],
  "ios_runtime": "26.5 simulator",
  "devices": {
@@ -12,10 +11,9 @@
  },
  "capture_appearance": "Status bar set with simctl status_bar (9:41, Wi-Fi, full battery). Debug banner suppressed in capture only; release omits it by default. No app UI was synthesized or edited.",
  "composition": "scripts/compose_store_screens.py places each unchanged native capture inside the approved build 6 frame (generated backdrop, headline, supporting text, bezel), clipped to the bezel's rounded screen.",
- "synthetic_content": "Teacup and yellow flowers (art/); no private family photos or people. iPhone: imported through the actual native photo picker (originals/iphone/native-picker.png). iPad: placed by integration_test/store_screens_test.dart through the app's own normalize-and-store import steps; originals/ipad/native-picker.png is the build 6 picker proof.",
+ "synthetic_content": "Teacup and yellow flowers (art/); no private family photos or people. Placed by integration_test/store_screens_test.dart through the app's own normalize-and-store import steps on both devices. originals/iphone/native-picker.png (fce00d7) and originals/ipad/native-picker.png (build 6) are earlier proofs that the same demo photos go through the real system picker.",
  "capture_tools": [
-  "iPhone: driven by hand on the simulator, saved with xcrun simctl io screenshot (as scripts/capture_ios_screenshot.sh)",
-  "iPad: scripts/capture_store_screens.sh with integration_test/store_screens_test.dart"
+  "Both devices: scripts/capture_store_screens.sh with integration_test/store_screens_test.dart (status bar cleared and set with simctl status_bar before capture)"
  ],
  "files": [
   {
@@ -35,78 +33,78 @@
   },
   {
    "path": "assets/screenshots/en-US/ipad/01.jpg",
-   "bytes": 377387,
-   "sha256": "0f20b6b325a3f1c8abef952273ccb5d890b558d45b8a6766b09e839fee80bb17"
+   "bytes": 378414,
+   "sha256": "87bf8ef841146b66fa1a3903a5b65afd0d7452be2ad2d2bd01993e0c8274f4f9"
   },
   {
    "path": "assets/screenshots/en-US/ipad/02.jpg",
-   "bytes": 607389,
-   "sha256": "88438b7d2cc48d23f0df4a6428b2c7ab5d2fccdcda7ca3a9c296d62020783d61"
+   "bytes": 607514,
+   "sha256": "ff71c99aebc443ee165ec65d8f074b8f25e8c3d0723c757d755548d204acf16c"
   },
   {
    "path": "assets/screenshots/en-US/ipad/03.jpg",
-   "bytes": 377949,
-   "sha256": "2b439c9ded6b5f098c190cd8224c82ebebe44ad93a8a243d1775b951d49243c4"
+   "bytes": 379013,
+   "sha256": "b430a0dd171dd6232791d14696beba21cffa4b1720b18251ae70c565f15880e2"
   },
   {
    "path": "assets/screenshots/en-US/ipad/04.jpg",
-   "bytes": 505445,
-   "sha256": "8fe0482cf4d3eb8475389113ecf58f1c6411b083f9fac589b17b53c1cd4ccf5c"
+   "bytes": 505446,
+   "sha256": "9e85c928b6a0c73d830dd6d69e186ae4797c9d8e81b40b31d1e86c44e4020c5d"
   },
   {
    "path": "assets/screenshots/en-US/ipad/05.jpg",
-   "bytes": 404222,
-   "sha256": "d236328704b86ae0daeaea342abf94e571415caa316082856d6a58aa15fb014a"
+   "bytes": 404849,
+   "sha256": "182151ef8a6cfa261846ba2c058d1ca6fd0cc2d7cd11b1446486d8fed8e7baa5"
   },
   {
    "path": "assets/screenshots/en-US/ipad/06.jpg",
-   "bytes": 572679,
-   "sha256": "5ce3ea7b8493c6924e1d878a0b147a12ae15e2f5d9c1acda7863a5421855f52b"
+   "bytes": 580401,
+   "sha256": "283eb975a781ed642495eb5728f5206a3fa191f88489d6e25ef9f639fe236007"
   },
   {
    "path": "assets/screenshots/en-US/iphone/01.jpg",
-   "bytes": 332697,
-   "sha256": "74e10033d7278f88f7b454b0ca2ecc1f08d3a0b0fed08b6cfa18fb8a4444d901"
+   "bytes": 327860,
+   "sha256": "119694452b004d27bff94d4cee0550fb6d5b2dffc235f2c55a476bfe36c1457a"
   },
   {
    "path": "assets/screenshots/en-US/iphone/02.jpg",
-   "bytes": 495005,
-   "sha256": "b0adca8c81a0f3a0cc9d81e4810b8a9db2b2c3887e9ba487316b5e23739ccbe2"
+   "bytes": 489212,
+   "sha256": "d6a1046f4e0cf85423f3461801aa3daa83b29af884d8191f7e5c382ffed8ccf5"
   },
   {
    "path": "assets/screenshots/en-US/iphone/03.jpg",
-   "bytes": 338013,
-   "sha256": "3d3c7a4804a5fd12ac8af6f791b8b26304f7e2f534f28c2ae0193cc10dfccc59"
+   "bytes": 333342,
+   "sha256": "b730fed5c31a55683b202ea01635d4db44799da0e8928ceddc9af83b7a4da6fa"
   },
   {
    "path": "assets/screenshots/en-US/iphone/04.jpg",
-   "bytes": 441883,
-   "sha256": "3323855ee673c871e3a6cd5d58c45ec7d25beabdfcfb77763a5c781902e1c619"
+   "bytes": 436785,
+   "sha256": "2434ea3cdfe359fc37085e62235fab825f6640d5bf48cb25d99330286f09de93"
   },
   {
    "path": "assets/screenshots/en-US/iphone/05.jpg",
-   "bytes": 363201,
-   "sha256": "919ef285386b57ff6bc964c75991e52b3ba65a549d38fda90953bdff70666feb"
+   "bytes": 361825,
+   "sha256": "08980eed8fd774db82a448de841a3beaf60a6e42948838e95faf278973d84376"
   },
   {
    "path": "assets/screenshots/en-US/iphone/06.jpg",
-   "bytes": 440239,
-   "sha256": "208a50aa7bafc33cd3d91ffa5a5e370329523087b177f8ef12cbf189f6acf041"
+   "bytes": 472454,
+   "sha256": "d68c102adb197a1558bccaa90abdaa934e4ef14e956b0b8de12891608c2d7da0"
   },
   {
    "path": "assets/screenshots/en-US/originals/ipad/01.png",
-   "bytes": 185660,
-   "sha256": "e0693af6ebede0e1d4b6aec769e1b854791f0366abd3af7a041d2260c1bc5833"
+   "bytes": 187825,
+   "sha256": "6c9c02e7060bf9948dc3fba62e8089ccd4db5ab94cb8fd521be66ccc0e22aa95"
   },
   {
    "path": "assets/screenshots/en-US/originals/ipad/02.png",
-   "bytes": 3102552,
-   "sha256": "cba665946e093874d0c55715fb4c27f5b5b445aaca114a2f13c99b2e026ab0cf"
+   "bytes": 3102573,
+   "sha256": "df84c49798aa7f19a739f90d078dd67658f2a95633dee07d109ba184cdf10377"
   },
   {
    "path": "assets/screenshots/en-US/originals/ipad/03.png",
-   "bytes": 193068,
-   "sha256": "fa170a2d21a07d50dd16b976690b6895bdafadf6b3f9f688523273872e172ae2"
+   "bytes": 195098,
+   "sha256": "f80bf2f56bfbd84923a7fc98736081afaac354de97b52c7ebc083f2e42ee6281"
   },
   {
    "path": "assets/screenshots/en-US/originals/ipad/04.png",
@@ -115,13 +113,13 @@
   },
   {
    "path": "assets/screenshots/en-US/originals/ipad/05.png",
-   "bytes": 259721,
-   "sha256": "8504198f77dec04405a6342f4f20247b4f9bb87d75f6f80d9cbd14b3512c6a19"
+   "bytes": 261695,
+   "sha256": "7448770d8d20b698db04ec44750f939a09b86ec9e86383995c4b4472342f7630"
   },
   {
    "path": "assets/screenshots/en-US/originals/ipad/06.png",
-   "bytes": 1821376,
-   "sha256": "9a0cf55f2b05cb8efcaf827322e645d431dbf2e269d024b2aaa7846a0e0ff382"
+   "bytes": 1827672,
+   "sha256": "3ee0d8a55b50eb00a87622aa0291049044a60afa044575f4f1e22c15286d51bb"
   },
   {
    "path": "assets/screenshots/en-US/originals/ipad/native-picker.png",
@@ -130,33 +128,33 @@
   },
   {
    "path": "assets/screenshots/en-US/originals/iphone/01.png",
-   "bytes": 170821,
-   "sha256": "492c160a987a6a72311c7b52059e48677ec38e0674bbfe7ffade8862fa968a12"
+   "bytes": 166435,
+   "sha256": "6af00d4e8e28ac5d96516abb3d55e68d2dcc346116820b2b730f53b79b2bd2d6"
   },
   {
    "path": "assets/screenshots/en-US/originals/iphone/02.png",
-   "bytes": 2322987,
-   "sha256": "9fe035e51f5f6d1dcd78a168af3dea9fc6b75099dfa1a252fb63e7970a5ef2d7"
+   "bytes": 2273583,
+   "sha256": "674404ac38ce7b605bf6fcd40c31e7345a7b47899eff10b294b8019411b1325e"
   },
   {
    "path": "assets/screenshots/en-US/originals/iphone/03.png",
-   "bytes": 182315,
-   "sha256": "938a71258def08e6b127d74086763cd7a84a400fb57a6c5072477bf7ed729299"
+   "bytes": 177809,
+   "sha256": "4ba5686323e4b9ee1526fe29ad217d2fa53b9ec425ca15c2923819761028ea8f"
   },
   {
    "path": "assets/screenshots/en-US/originals/iphone/04.png",
-   "bytes": 1972952,
-   "sha256": "0f855a81c24f0be96fff5af3855b740df933532a54cb97a4477466565665ff9a"
+   "bytes": 1913741,
+   "sha256": "80948674cfd7e50664c6e7d0079364f6753c6f73b84aacbbf18a9be7772cb851"
   },
   {
    "path": "assets/screenshots/en-US/originals/iphone/05.png",
-   "bytes": 252539,
-   "sha256": "3c4e4c9234c60a1e9486d9fc7a62cabe17e52b7be782d8e4e2e2f05116cdcf99"
+   "bytes": 250615,
+   "sha256": "71f0366123c3c6a5cb53940b17cbd05df8d3f51b29f6df1ef8c8d54f0ab0464e"
   },
   {
    "path": "assets/screenshots/en-US/originals/iphone/06.png",
-   "bytes": 1752374,
-   "sha256": "8070ea9d4d4ff43bddeda424237b1e9709ac84c234cf9e8820fb33fd6ca15fb6"
+   "bytes": 1976463,
+   "sha256": "afddcb34578a9fe5cd630bdc0df674fb3fa69c09ec00c98f679cec25b2455ca3"
   },
   {
    "path": "assets/screenshots/en-US/originals/iphone/native-picker.png",
@@ -181,7 +179,7 @@
   "lib/data/models/sound_setting.dart": "d9e3919516d3c9adc11dadeb98c749e6abb471fc5af90a7303488b6f188bc6df",
   "lib/data/services/local_pack_service.dart": "d2215a3853768c93b471038d324a3ece465b8b23934caea0d8bf41a6f9f848a4",
   "lib/data/services/sound_service.dart": "8382d507d6e5e27b74009efec90e65a3bd6516044b8a741589a2d612dea51ffc",
-  "lib/design_system.dart": "7b9552e38a4329edad93fc16b085133db08bf4d23b5b57f895c204a94a5dfe92",
+  "lib/design_system.dart": "fc58046dd77eb8f6b3442994764d76adc510a06aa9990b5de0fe2b7ab3a16712",
   "lib/features/category/presentation/screens/category_page.dart": "1e16c83a4da435ea79cac097202d356aaf1ade190f0937c6508bf45be51a8d1c",
   "lib/features/game/cubit/game_cubit.dart": "315a3138c27dbce386db18b7403302406682ab7f9df724c410822bb3ccd97726",
   "lib/features/game/cubit/game_state.dart": "92d9ee5d1a564df0fdaea738aab5937871c1ac1298e51bed26d506980e658bad",
@@ -190,7 +188,7 @@
   "lib/features/game/models/models.dart": "bec6081f9c4681098a59c708c7c4a4ae72d37b538033f8a21169d5a85a0bd2bc",
   "lib/features/game/models/user_preferences.dart": "2771f108fe34970365826718794fd5f278e3a3e9b66592b903253a2abbdc0e89",
   "lib/features/game/presentation/screens/game_page.dart": "3464345153dd55744c08db4091fe44f7d82b5c329d2ae3e393110e198fa7be66",
-  "lib/features/game/presentation/widgets/game_board.dart": "c0982f8417852f85b6f26698d0294558a00336771fd27709310ca894bb689a22",
+  "lib/features/game/presentation/widgets/game_board.dart": "f2428fd705246dde960605d88e63feeaa7f7e0d9a5468b39b77999f631a47a1f",
   "lib/features/game/presentation/widgets/game_exit_bar.dart": "ccd27471542c27830597211cd3efa9016cb31879d2e0a542e66347eaf332b9c6",
   "lib/features/game/presentation/widgets/game_header.dart": "8dc0761c6a41774c220c22bb85b7b4ecb16066926a54778f18a0b10186e97abb",
   "lib/features/game/presentation/widgets/game_play_view.dart": "d0e59a557c12b1532ab691de97f9110275010a92f28d82a6001c4ca1db8220b0",
@@ -205,10 +203,10 @@
   "lib/features/gentle_activities/models/gentle_board.dart": "69707e8ac93a9aa135428d05f82efc8ac50eae48af215d994b17ae338f81ee5e",
   "lib/features/gentle_activities/models/puzzle_board.dart": "71c5a2b01196459b9e2cf70d90f360422d22253a64a0e001467e0e7f7f0f4696",
   "lib/features/gentle_activities/presentation/gentle_comfort_sheet.dart": "3a5b6c4ec7efbfbfae0339dbafda0cbaa4a06c110b2024e34e33ee145c27cd16",
-  "lib/features/gentle_activities/presentation/gentle_game_page.dart": "f666471f5f868325992b558c0dcdf1f3a8c4f649a5bbe013d890188d1c56b7dc",
+  "lib/features/gentle_activities/presentation/gentle_game_page.dart": "315a832c6fae5cf6ce7c75eabde7a186f3bbd2b2864b62ef271be21cf92f7ab9",
   "lib/features/gentle_activities/presentation/gentle_home_page.dart": "cece20e9848228a98f5eb032dfb53a944ad7a74886e1700d03d9295ea669ae40",
-  "lib/features/gentle_activities/presentation/help_privacy_page.dart": "922a6bac5f2b4d262debcadbba158ec73f3f7ac8228a6b41ceb39872c200070f",
-  "lib/features/gentle_activities/presentation/photo_collection_page.dart": "507852636df52b8fe13b27c1cfc04dbf9a5c15afce5871cee404777da1e88f28",
+  "lib/features/gentle_activities/presentation/help_privacy_page.dart": "baaa51b5e6d3f4ef237717e5c7e116003513357846380fa04b138da149bc9529",
+  "lib/features/gentle_activities/presentation/photo_collection_page.dart": "bdc6a53866e4619827fb8c3d40b78c284ddd3c49a81ee4a5f8820e810f171672",
   "lib/features/gentle_activities/presentation/photo_together_page.dart": "ca5b4db723f282bd530ad6e50e53f3231341124e7df524b99fd925d55cea4740",
   "lib/features/gentle_activities/presentation/picture_puzzle_page.dart": "30a5fe168a04906b239f9ffbda41bf7f9343fd6f95239c6a3fbb28ab5a33e52f",
   "lib/features/gentle_activities/presentation/picture_view.dart": "51de515d89bee8ac52ae5f2f7bdc03091f6d36480b0a44d8d7f87b2abd956832",
@@ -224,7 +222,7 @@
   "lib/features/home/presentation/widgets/library_section.dart": "555144127e684ae6ceda1ca8b00b353a4874cd50ba6fd1ea22f75de537f2be48",
   "lib/features/home/presentation/widgets/pack_choice_not_saved.dart": "967d008e27dde2d74859c3b6d6f301fc7170d56caaf18164b9abffa4683fbbc5",
   "lib/features/home/presentation/widgets/setting_modal.dart": "b391eca8d534007260ca6059fab5c43cfecc4267af673a38a15813cce0159a7a",
-  "lib/features/legal/presentation/legal_info_page.dart": "042bea5f3120bf66d07a8e36f2b91f4058f897b1dda2d6edf199ba605f1742c1",
+  "lib/features/legal/presentation/legal_info_page.dart": "17c58ae967f914a5c78bcf19f4ed5a5726fd5501eecd688b4e98238a95fc02a9",
   "lib/features/pack/presentation/screens/pack_page.dart": "5d16b64f0fa4920873fa6a2ac572581ae0f34e206999d2506b6dd282668fb902",
   "lib/l10n/l10n.dart": "f469e9d95cd7ac5467fdf462882c2a39ab0588ff683327d50a2095c083318f13",
   "lib/main.dart": "3caacc68a0910778b731b0edcc0ddfaf8f48329824d932df2b80aa7c05660e53",
@@ -233,10 +231,12 @@
   "lib/shared/utils/experiments.dart": "8cfcceb5295e49378ce16307c25de82f15945c13e8a78d3d65e141434b3525be",
   "lib/shared/utils/share_util.dart": "042ef13b992b35508da6aa3df528bddef659c3bd71fa8e43dea7ca2eab09efbe",
   "lib/shared/utils/support_info.dart": "edb60b3417cfc000189bb4e3af14af3fd5eb0c968797ba7bf2155e0e04ce1e92",
-  "lib/shared/widgets/category_card.dart": "d37636f7cd20d7434feca73518d0ac5e37fe6b8c213989c05401fadea4d4ee5e",
+  "lib/shared/widgets/category_card.dart": "166734db2b3c67f8eb2a8e32db2d1da025e64393f22867e20102de1d8764cd78",
   "lib/shared/widgets/download_progress_card.dart": "f7843ee9d018fbc68ea6447dc2cb4c318686fcba9b7991e81ab5eb15e0eb3fc6",
   "lib/shared/widgets/gm_bottom_bar.dart": "89655f10229593a02fc94f53dfd1d38244353af143c8d9adbc29cc9a290ea663",
-  "lib/shared/widgets/pack_card.dart": "f757d1f0d0602777801feee0d00a89da5a8305fa0d0b61d6f5611b7ca27227fb",
+  "lib/shared/widgets/gm_copyable_text.dart": "e961465df1d607a1c2abcd6396bd3c42095592670d584deced010b83a7ce556f",
+  "lib/shared/widgets/gm_mounted_picture.dart": "b5925ae11ffc3a79d15be98dd8e681ba07099be3d0b88ae2b2edb920038527fe",
+  "lib/shared/widgets/pack_card.dart": "714ee380bbb57b7cfb8b56d60129985d7e520db22b3c8684c52570b69d47e2af",
   "lib/shared/widgets/pack_grid.dart": "0eb7fb5f71da3206f37340500c08a394c5d6f6d1b98ebd08f9fc827b999407a8",
   "lib/shared/widgets/pressable.dart": "d9082f3eeb3ae4d87af82231f6f7264a6f9e372be5d6b23bbe98723b81d2e267"
  }
