@@ -55,4 +55,33 @@ void main() {
       codec.dispose();
     }
   });
+
+  test('covers and topic pictures are sharp on a large phone', () async {
+    final index = jsonDecode(
+      await rootBundle.loadString('assets/data/packs_index.json'),
+    ) as Map<String, dynamic>;
+    Future<ui.Image> decode(String path) async {
+      final bytes = await rootBundle.load(path);
+      final codec = await ui.instantiateImageCodec(
+        bytes.buffer.asUint8List(bytes.offsetInBytes, bytes.lengthInBytes),
+      );
+      return (await codec.getNextFrame()).image;
+    }
+
+    // A cover fills a card up to about 392 points wide, 16:9, so 1170
+    // pixels on a 3x phone; a topic picture is 96 points square.
+    for (final pack in (index['packs'] as List).cast<Map<String, dynamic>>()) {
+      final image = await decode(pack['thumbnailUrl'] as String);
+      expect(image.width, greaterThanOrEqualTo(1170), reason: '${pack['id']}');
+      expect(image.width / image.height, closeTo(16 / 9, 0.02));
+      image.dispose();
+    }
+    for (final topic
+        in (index['categories'] as List).cast<Map<String, dynamic>>()) {
+      final image = await decode(topic['iconUrl'] as String);
+      expect(image.width, greaterThanOrEqualTo(288), reason: '${topic['id']}');
+      expect(image.height, image.width);
+      image.dispose();
+    }
+  });
 }
