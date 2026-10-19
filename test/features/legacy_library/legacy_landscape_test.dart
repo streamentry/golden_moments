@@ -37,6 +37,14 @@ void main() {
       expect(fit.tile, 106);
     });
 
+    test('a board that cannot fit spreads its tiles evenly over the rows', () {
+      // 12 tiles at the minimum size: 9 columns would leave 9 + 3; the same
+      // two rows hold 6 + 6.
+      final fit = GameBoard.fit(count: 12, size: const Size(700, 100));
+      expect(fit.tile, gmTileMin);
+      expect(fit.columns, 6);
+    });
+
     test('a board that cannot fit stays at the minimum and scrolls least', () {
       final fit = GameBoard.fit(count: 40, size: const Size(272, 100));
       expect(fit.tile, gmTileMin);

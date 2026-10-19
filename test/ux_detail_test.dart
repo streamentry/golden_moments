@@ -85,6 +85,21 @@ Future<void> _loadRoboto() async {
   await loader.load();
 }
 
+/// True when no word in [label] is broken across two lines.
+bool _wordsWhole(WidgetTester tester, Finder label) {
+  final paragraph = tester.renderObject<RenderParagraph>(
+    find.descendant(of: label, matching: find.byType(RichText)).first,
+  );
+  final text = paragraph.text.toPlainText();
+  for (final word in RegExp(r'\S+').allMatches(text)) {
+    final boxes = paragraph.getBoxesForSelection(
+      TextSelection(baseOffset: word.start, extentOffset: word.end),
+    );
+    if ({for (final box in boxes) box.top.round()}.length > 1) return false;
+  }
+  return true;
+}
+
 void main() {
   setUpAll(_loadRoboto);
   setUp(() => SharedPreferences.setMockInitialValues({}));
@@ -290,6 +305,23 @@ void main() {
         await tester.tap(find.text('Keep this board'));
         await tester.pumpAndSettle();
       }
+    });
+
+    testWidgets('on a small phone at 200% no word in a dialog button is '
+        'broken', (tester) async {
+      await _size(tester, const Size(320, 568));
+      await tester.pumpWidget(_app(const GentleHomePage(), textScale: 2));
+      await tester.pumpAndSettle();
+      await _openComfort(tester);
+      final reset = find.text('Reset comfort settings');
+      await tester.ensureVisible(reset);
+      await tester.pumpAndSettle();
+      await tester.tap(reset);
+      await tester.pumpAndSettle();
+      for (final label in ['Keep my settings', 'Reset']) {
+        expect(_wordsWhole(tester, find.text(label)), isTrue, reason: label);
+      }
+      expect(tester.takeException(), isNull);
     });
 
     testWidgets('Reset comfort settings asks with Keep my settings first', (
