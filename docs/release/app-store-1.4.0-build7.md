@@ -18,7 +18,8 @@ the Runner Release configuration and restored after archiving.
 - All seven hosted checks for PR #86 passed.
 - Xcode archive and App Store export succeeded. `codesign --verify --deep
   --strict` passed. The bundle is `com.mindfulness.goldenmoments`, version
-  1.4.0, build 7, Team 7MBXZKYSY4. Info.plist says
+  1.4.0, build 7, signed with the approved Cloudjet distribution identity.
+  Info.plist says
   `ITSAppUsesNonExemptEncryption=false`. The app and plugin privacy manifests
   are present in the archived app.
 
