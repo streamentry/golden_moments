@@ -61,6 +61,10 @@ class GameBoard extends StatelessWidget {
     while (columns > 2 && byWidth(columns) < gmTileMin) {
       columns--;
     }
+    // The fewest rows that width allows, with the tiles spread evenly over
+    // them (12 tiles as 6 + 6, not 9 + 3).
+    final rows = (count / columns).ceil();
+    columns = math.max(2, (count / rows).ceil());
     return (columns: columns, tile: gmTileMin);
   }
 

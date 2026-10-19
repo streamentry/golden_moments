@@ -269,6 +269,12 @@ ThemeData gmBuildTheme() {
       ),
     ),
     dialogTheme: DialogThemeData(
+      // A narrower margin than Material's 40, so at large text a button
+      // label wraps between words, never inside one (DESIGN.md › Text).
+      insetPadding: const EdgeInsets.symmetric(
+        horizontal: gmSpaceMd,
+        vertical: gmSpaceLg,
+      ),
       backgroundColor: background,
       surfaceTintColor: Colors.transparent,
       elevation: gmElevationModal,

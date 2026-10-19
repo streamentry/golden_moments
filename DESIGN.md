@@ -368,7 +368,7 @@ Material 3 widgets are themed centrally in `gmBuildTheme`. Screens use stock `Fi
 
 **Switch rows:** `SwitchListTile` with a plain title and a one-line subtitle that explains the consequence ("Turn off only when you prefer hidden tiles"). The whole row is the target.
 
-**Dialogs and sheets:** a title in `headline-sm`, body text in `body-lg`, and at most two actions (the safe one on the right as primary). When both labels do not fit side by side, the actions stack full width with the primary first. Sheet actions span the sheet. Never auto-dismiss, never count down and never trap the user. Destructive confirmations name exactly what will be removed and say that originals in the photo library are untouched.
+**Dialogs and sheets:** a title in `headline-sm`, body text in `body-lg`, and at most two actions (the safe one on the right as primary). When both labels do not fit side by side, the actions stack full width with the primary first. Sheet actions span the sheet. Dialogs keep a 16px side margin, so at large text a label wraps between words, never inside one. Never auto-dismiss, never count down and never trap the user. Destructive confirmations name exactly what will be removed and say that originals in the photo library are untouched.
 
 **Snackbars:** for non-essential, recoverable news only ("The picture library is unavailable. Your local activities still work."). Anything the user must act on goes inline or in a dialog.
 
