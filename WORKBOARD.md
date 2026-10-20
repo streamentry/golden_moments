@@ -147,3 +147,7 @@ and match their committed file checksums. App Store Connect reports
 release is submitted, not approved or publicly available. Physical-device,
 screen-reader, caregiver, runtime privacy/legal and inherited asset-rights gates
 remain pending. Full record: `docs/release/app-store-1.4.0-build7.md`.
+
+## Android 1.4.0 API 36 resubmission (2026-10-20)
+
+The Play Console policy page supplied by the maintainer showed an update in review with an API 36 target requirement. The production manifest now targets API 36. Version code 8 is built and signed with the replacement upload key; 430 Flutter tests, 64 Python tests, strict analysis, metadata validation, and a Pixel emulator smoke test on Android 16 passed. The AAB and checksums are in `output/release/android-1.4.0-api36-build8/`; detailed evidence is in [the Android release record](docs/release/android-1.4.0-api36-build8.md). Google Play upload and review submission remain pending: verify the replacement certificate in Play Console after its stated activation time, then upload and submit the candidate.
