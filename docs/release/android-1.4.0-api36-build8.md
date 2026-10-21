@@ -4,7 +4,7 @@
 production release `1.4.0 (8)` and reports target SDK 36, minimum SDK 24 and
 three ABIs. The release is saved for a full rollout but is not submitted yet:
 publishing checks still report an incomplete Advertising ID declaration even
-though the declaration is saved as No and App content lists it as actioned.
+though the declaration is saved as No and App content lists it as completed.
 Fresh checks completed with the same issue. A fresh declaration page and an
 explicit resave both confirm No; the review-submission button remains disabled.
 
