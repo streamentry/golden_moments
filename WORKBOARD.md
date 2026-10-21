@@ -160,3 +160,16 @@ and the approved automatic release has completed. The [release record](docs/rele
 links the current receipt to the earlier submission evidence. Android version
 code 8 remains prepared locally; Play Console authentication and upload-key
 certificate readback are still required before its upload and submission.
+
+## Android 1.4.0 bundle accepted by Google Play (2026-10-21)
+
+Using the built-in Browser, uploaded the signed version-code 8 AAB to a
+production release named `1.4.0 (8)`. Play accepted its signing key and reports
+target SDK 36. Corrected the outdated Advertising ID declaration to No; the Ads
+declaration already says No. The release and phone screenshots are saved for
+review, but submission is still blocked by a publishing check that calls the
+saved declaration incomplete. Fresh checks completed with the same issue, and
+a fresh page and explicit resave confirm No. Managed publishing is on.
+The [Android release record](docs/release/android-1.4.0-api36-build8.md)
+records the validation contradiction, delivery size and device-support warnings;
+neither upload acceptance nor a saved rollout is a review submission or release.
