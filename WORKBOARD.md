@@ -151,3 +151,12 @@ remain pending. Full record: `docs/release/app-store-1.4.0-build7.md`.
 ## Android 1.4.0 API 36 resubmission (2026-10-20)
 
 The Play Console policy page supplied by the maintainer showed an update in review with an API 36 target requirement. The production manifest now targets API 36. Version code 8 is built and signed with the replacement upload key; 430 Flutter tests, 64 Python tests, strict analysis, metadata validation, and a Pixel emulator smoke test on Android 16 passed. The AAB and checksums are in `output/release/android-1.4.0-api36-build8/`; detailed evidence is in [the Android release record](docs/release/android-1.4.0-api36-build8.md). Google Play upload and review submission remain pending: verify the replacement certificate in Play Console after its stated activation time, then upload and submit the candidate.
+
+## iOS 1.4.0 publication confirmed (2026-10-21)
+
+Live App Store Connect readback confirms version 1.4.0 is `READY_FOR_SALE` /
+`READY_FOR_DISTRIBUTION` and downloadable. Build 7 is valid, review is complete,
+and the approved automatic release has completed. The [release record](docs/release/app-store-1.4.0-build7.md)
+links the current receipt to the earlier submission evidence. Android version
+code 8 remains prepared locally; Play Console authentication and upload-key
+certificate readback are still required before its upload and submission.

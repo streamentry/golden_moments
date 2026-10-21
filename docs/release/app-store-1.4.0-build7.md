@@ -1,5 +1,13 @@
 # iOS 1.4.0 build 7 release record
 
+**Publication confirmed (2026-10-21):** live App Store Connect readback reports
+1.4.0 as `READY_FOR_SALE` / `READY_FOR_DISTRIBUTION`, with `downloadable=true`.
+Build 7 is `VALID` and the review submission is `COMPLETE`. The approved
+automatic release has completed. A sanitized live receipt is saved locally at
+`output/release/store-status-2026-10-21.json`. The review and submission details
+below describe the earlier October 19 state; remaining device, accessibility,
+privacy, legal and asset-rights evidence is not changed by Apple's approval.
+
 ## Source and checks
 
 Candidate tree on main: `7738d7f8b4407297086a30ec13f75acace976ddf` (PR #86).
