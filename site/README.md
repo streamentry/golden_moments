@@ -120,5 +120,11 @@ settings):
 3. Verify the domain in Google Search Console and Bing Webmaster Tools and
    submit `https://dementiaactivities.games/sitemap.xml`.
 
+After a deploy that adds or changes pages, run `pnpm indexnow`: it sends every
+URL in the live `/sitemap.xml` to IndexNow, which Bing (and the AI search tools
+that use Bing's index) read. Google does not use IndexNow; it reads the
+sitemap submitted in Search Console. The 32-character `.txt` file in `public/`
+is the IndexNow key. It is public on purpose; keep its name and contents.
+
 Nothing runs server side: Workers serves the static files in `dist/`, applies
 `public/_headers`, redirects to trailing-slash URLs and serves `404.html`.
