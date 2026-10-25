@@ -33,6 +33,8 @@ export const GET: APIRoute = async () => {
     '## About',
     `- [Our approach](${SITE.url}/about/): why the games avoid timers, scores and quizzing.`,
     `- [Editorial policy](${SITE.url}/editorial-policy/): sources, review and corrections.`,
+    `- [For organizations](${SITE.url}/for-organizations/): free use in care homes, libraries and support groups, and text for resource lists.`,
+    `- [Printable handout](${SITE.url}/handout/): one page for families and caregiver packets.`,
     `- [Health information notice](${SITE.url}/medical-disclaimer/)`,
     `- [Privacy](${SITE.url}/privacy/)`,
     `- [Golden Moments app](${SITE.url}/app/): iPhone, iPad and Android.`,
