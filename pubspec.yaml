@@ -37,6 +37,11 @@ dev_dependencies:
   very_good_analysis: ^11.0.0
 
 flutter:
+  # Plugins link through CocoaPods (ios/Podfile). This Flutter turns Swift
+  # Package Manager on by default, which dropped every plugin from the iOS
+  # app because the custom Podfile was never migrated.
+  config:
+    enable-swift-package-manager: false
   generate: true
   uses-material-design: true
   fonts:
