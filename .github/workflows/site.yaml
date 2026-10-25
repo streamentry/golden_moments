@@ -1,0 +1,48 @@
+name: Website
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "site/**"
+      - ".github/workflows/site.yaml"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "site/**"
+      - ".github/workflows/site.yaml"
+
+defaults:
+  run:
+    working-directory: site
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.33.0
+      # Node is pinned by `devEngines.runtime` in site/package.json; pnpm
+      # downloads it into node_modules, so no setup-node step is needed.
+      - name: Install
+        run: pnpm install --frozen-lockfile
+      - name: Unit tests
+        run: pnpm exec vitest run
+      - name: Type check
+        run: pnpm exec astro sync && pnpm exec tsc --noEmit
+      - name: Build
+        run: pnpm exec astro build
+      - name: Check pages, links, metadata and claims wording
+        run: pnpm exec node scripts/check-site.mjs

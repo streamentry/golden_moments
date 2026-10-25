@@ -20,6 +20,7 @@ Gentle picture matching and shared photo activities. Flutter, local-first on iOS
 | What blocks publication? | [Release checklist](docs/release/1.3.0.md) |
 | How should every screen look, sound and read? | [Design system](DESIGN.md) |
 | What should happen next? | [Workboard](WORKBOARD.md) |
+| How is the website (dementiaactivities.games) built and deployed? | [Website README](site/README.md), [content guide](site/CONTENT_GUIDE.md) |
 
 ## This upgrade
 

@@ -1,0 +1,59 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import Icon from '../components/Icon.astro';
+import { SITE, absoluteUrl } from '../lib/site';
+
+const appSchema = {
+  '@type': 'MobileApplication',
+  name: 'Dementia Games: Golden Moments',
+  operatingSystem: 'iOS, Android',
+  applicationCategory: 'GameApplication',
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+  url: absoluteUrl('/app/'),
+  sameAs: [SITE.appStoreUrl, SITE.playStoreUrl],
+};
+---
+<PageLayout
+  title="The Golden Moments App"
+  seoTitle="The Golden Moments App for iPhone and Android"
+  description="The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account."
+  path="/app/"
+  crumb="The app"
+  lede="Everything you like about the website, in an app that works offline and can use family photos you choose."
+  jsonLd={[appSchema]}
+>
+  <div class="btn-row btn-row--spaced">
+    <a class="btn btn--primary" href={SITE.appStoreUrl} rel="noopener"><Icon name="phone" />Get it on the App Store</a>
+    <a class="btn" href={SITE.playStoreUrl} rel="noopener"><Icon name="phone" />Get it on Google Play</a>
+  </div>
+  <h2>Start small</h2>
+  <p>
+    Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable.
+    Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.
+  </p>
+  <h2>Make it personal</h2>
+  <p>
+    Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not
+    scan your library or change your original photos, and it keeps up to 24 photos in one collection.
+  </p>
+  <h2>Just look together</h2>
+  <p>
+    View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give
+    a correct answer. Simply looking is enough.
+  </p>
+  <h2>Offline where it matters</h2>
+  <p>
+    Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing
+    originals stored only in iCloud may need an internet connection.
+  </p>
+  <h2>No account, no photo-sync server</h2>
+  <p>
+    Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device
+    backups may include app data. Read the <a href="/app-privacy/">app privacy policy</a>, and
+    <a href="/help/">app help</a> walks through each step.
+  </p>
+  <p class="muted">
+    Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia
+    or Alzheimer’s disease.
+  </p>
+</PageLayout>

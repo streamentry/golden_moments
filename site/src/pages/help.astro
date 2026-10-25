@@ -1,0 +1,84 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../lib/site';
+---
+<PageLayout
+  title="Help with the Golden Moments App"
+  seoTitle="App Help: Gentle Games and Family Photos"
+  description="Help for the Golden Moments app: start a gentle game, change comfort settings, add family photos, play offline and remove copies safely."
+  path="/help/"
+  crumb="App help"
+  updated="2026-10-25"
+  lede="Start small, follow the person’s interests and stop whenever you like."
+>
+  <aside class="notice" aria-labelledby="help-version">
+    <div>
+      <strong id="help-version">Check your version first</strong>
+      <p>
+        These steps describe version 1.4.0 and later. Earlier versions have different screens and do not include family
+        photos. Update from the <a href={SITE.appStoreUrl} rel="noopener">App Store</a> or
+        <a href={SITE.playStoreUrl} rel="noopener">Google Play</a> when the update is offered.
+      </p>
+    </div>
+  </aside>
+
+  <h2>Start a gentle game</h2>
+  <p>
+    Choose <strong>Start a gentle game</strong>. The first board has four large tiles with the pictures showing. Tap two
+    pictures that match. There is no timer, score or penalty. Choose <strong>Done for now</strong> whenever you want to
+    stop.
+  </p>
+
+  <h2>Adjust the pictures</h2>
+  <p>
+    Open <strong>Comfort settings</strong> to change the number of tiles or whether pictures stay showing. The choices
+    depend on how many pictures there are. Your settings are saved on this device, and you can go back to a smaller
+    board at any time.
+  </p>
+
+  <h2>Add family photos</h2>
+  <p>
+    Open <strong>Your family photos</strong>, then <strong>Choose photos</strong>. Pick only photos you may use and that
+    the person is comfortable seeing. The app keeps smaller copies of up to 24 photos. It does not scan the rest of your
+    library or change your originals.
+  </p>
+  <p>
+    Add at least two photos for a matching game, or choose <strong>Look at photos together</strong> to enjoy them one at a
+    time. Optional conversation prompts have no right answer. Simply looking together is enough.
+  </p>
+
+  <h2>Play offline</h2>
+  <p>
+    All eight picture packs come with the app, so they need no downloads. Photo copies work offline once added. If an
+    original is stored only in iCloud or another cloud photo service, your device may need the internet to fetch it
+    while you add it.
+  </p>
+
+  <h2>Remove a copy safely</h2>
+  <p>
+    Open a photo’s <strong>Options</strong> and choose <strong>Remove this copy</strong>, or choose
+    <strong>Remove all photo copies</strong>, and read the message before you confirm. This removes the app’s copies, not
+    the originals in your photo library. There is no photo sync or transfer to another device. Device backups may
+    include app data, depending on your settings. <a href="/privacy-choices/">More about removing copies</a>.
+  </p>
+
+  <h2>If something goes wrong</h2>
+  <p>
+    If choosing photos is cancelled, try again when you are ready. If adding photos fails, keep your originals and try
+    fewer photos. If a screen is stuck, close and reopen the app. Do not delete the app or clear its storage as a first
+    step: that can remove saved copies and settings.
+  </p>
+  <p>
+    If photos or settings seem to be missing, stop making changes and <a href="/support/">contact support</a>. Tell us
+    your device, its system version, the app version and what happened. Please do not send family photos, passwords or
+    medical details.
+  </p>
+
+  <h2>Comfort comes first</h2>
+  <p>
+    Offer choices rather than asking someone to remember a name or finish a board. Change the picture or stop if it
+    feels uncomfortable. Golden Moments offers enjoyment and conversation; it does not diagnose, measure, treat or
+    prevent dementia or Alzheimer’s disease. Read more in <a href="/safety/">safety and intended use</a> and
+    <a href="/caregiving/how-to-play-together/">how to play together</a>.
+  </p>
+</PageLayout>

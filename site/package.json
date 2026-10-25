@@ -1,0 +1,42 @@
+{
+  "name": "golden-moments-site",
+  "private": true,
+  "type": "module",
+  "description": "dementiaactivities.games: gentle browser games and caregiver guides from Golden Moments",
+  "engines": {
+    "node": ">=22.22.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "wrangler dev",
+    "check:site": "node scripts/check-site.mjs",
+    "check:live": "node scripts/verify-live-legal.mjs",
+    "test": "vitest run",
+    "verify": "vitest run && astro build && node scripts/check-site.mjs",
+    "deploy": "astro build && node scripts/check-site.mjs && wrangler deploy"
+  },
+  "dependencies": {
+    "@astrojs/react": "7.1.0",
+    "@astrojs/sitemap": "3.7.4",
+    "@tanstack/react-store": "0.11.2",
+    "astro": "7.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devEngines": {
+    "runtime": {
+      "name": "node",
+      "version": "24.11.1",
+      "onFail": "download"
+    }
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "axe-core": "4.14.0",
+    "typescript": "6.0.3",
+    "vitest": "5.0.4",
+    "wrangler": "4.151.1"
+  }
+}

@@ -1,0 +1,90 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../lib/site';
+---
+<PageLayout
+  title="Privacy"
+  seoTitle="Privacy Notice for This Website"
+  description="This website has no accounts or ads. We use Google Analytics to count visits. Photos you choose for Photo pairs stay in your browser and are never uploaded."
+  path="/privacy/"
+  crumb="Privacy"
+  updated="2026-10-25"
+  lede="The short version: no accounts and no ads. We use Google Analytics to see how many people visit and which pages help, and photos you choose for Photo pairs never leave your browser."
+>
+  <p>This notice covers the website at {SITE.domain}, published by Cloudjet Solutions Pte. Ltd., Singapore. The Golden Moments mobile app has its own <a href="/app-privacy/">app privacy policy</a>, and you can find every policy on our <a href="/legal/">legal page</a>.</p>
+
+  <h2>What we do not collect</h2>
+  <ul>
+    <li>No accounts, sign-ups, names or email addresses are needed to use the site.</li>
+    <li>No advertising, session recording or social media tracking scripts are loaded.</li>
+    <li>Game choices and progress are not sent anywhere. They exist only in your browser tab.</li>
+  </ul>
+
+  <h2>Google Analytics</h2>
+  <p>
+    We use Google Analytics 4, a service from Google, to count visits and see which pages and games are used, so we
+    can improve the site. When a page loads, Google Analytics sets cookies in your browser (named <code>_ga</code>
+    and <code>_ga_X4CNGM5F8Z</code>) and sends Google the page address, the page that linked to it, your browser,
+    device and screen size, an approximate location based on your IP address, and a random identifier for your
+    browser. We have turned off Google signals and ad personalization, so these visits are not used for advertising.
+    Google Analytics is not loaded on Photo pairs.
+  </p>
+  <p>
+    Google describes how it uses this information in
+    <a href="https://policies.google.com/technologies/partner-sites" rel="noopener">How Google uses information from sites that use its services</a>.
+    To opt out, block cookies for this site, turn on your browser’s tracking protection or install
+    <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener">Google’s opt-out add-on</a>. The site works the
+    same either way.
+  </p>
+
+  <h2>Cookies</h2>
+  <p>
+    The only cookies are the Google Analytics cookies above. Our host, Cloudflare, may also set a strictly necessary
+    security cookie if it needs to check for automated traffic.
+  </p>
+
+  <h2>Photos in Photo pairs</h2>
+  <p>
+    When you choose photos for <a href="/games/photo-pairs/">Photo pairs</a>, your browser reads them from your device
+    and shows them on the page. The photos are not uploaded to us or to anyone else, and they are not saved. They are
+    gone when you tap “Clear photos”, reload or close the page.
+  </p>
+
+  <h2>What stays in your browser</h2>
+  <p>
+    If you turn soft sounds on or off, the site remembers that one choice in your browser’s local storage so it is the
+    same next time. It is never sent to us. You can clear it at any time by clearing this site’s data in your browser.
+  </p>
+
+  <h2>Hosting</h2>
+  <p>
+    The site is served by Cloudflare. Like any web host, Cloudflare processes technical information needed to deliver
+    pages and protect the site from abuse, such as your IP address, browser type and the page requested. We do not
+    add our own server logging on top of this. Cloudflare’s handling is described in the
+    <a href="https://www.cloudflare.com/privacypolicy/" rel="noopener">Cloudflare privacy policy</a>.
+  </p>
+
+  <h2>If you email us</h2>
+  <p>
+    Writing to us shares your email address, your message and any attachments with us and the email services involved.
+    We use them to reply, deal with a privacy or rights request and meet legal obligations, and we keep them only as long
+    as reasonably needed for that. To ask for access, correction or deletion, email
+    <a href={`mailto:${SITE.supportEmail}?subject=Website%20privacy%20request`}>{SITE.supportEmail}</a>. Please do not
+    send family photos, diagnoses or identity documents just to ask a question.
+  </p>
+
+  <h2>Links to other sites</h2>
+  <p>
+    Our guides link to sources such as government and charity websites, and to the App Store and Google Play. Those
+    sites have their own privacy practices.
+  </p>
+
+  <h2>Children</h2>
+  <p>This website is meant for adults and is not directed at children under 13.</p>
+
+  <h2>Changes and contact</h2>
+  <p>
+    If this notice changes, we will update the date at the top. Questions? Email
+    <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
+  </p>
+</PageLayout>

@@ -397,6 +397,7 @@ The 2026 mobile-game playbook, filtered for older adults and shared play:
 - **Ethical retention:** no streaks, daily-reward calendars, energy, lives, loot, countdowns, leaderboards, ads, push-notification nagging or purchase pressure. Return visits must come from a good experience.
 - **Sharing:** word of mouth from one caregiver to another is the best way families find the app, so make sharing easy and ask rarely. See *Sharing* under Voice & Content.
 - **Next deliberate tap, everywhere:** both the gentle board and the picture-pack game leave a mismatch face up, and a hint's pair visible, until the player taps again. That tap turns them over and starts the next turn. No game state changes on a timer.
+- **One paced exception:** the website's calm breathing pause (`site/src/games/CalmBreathing.tsx`) changes its circle on a timer, because pacing is the activity. It starts only on a tap, stops on a tap or by itself after six breaths, announces only starting and stopping, and honors Reduce Motion. No game uses this pattern.
 - **Optional prompts** in Look Together are open-ended ("What do you notice in this picture?"). They are never "Who is this?" or "Do you remember…?".
 
 ## Voice & Content
