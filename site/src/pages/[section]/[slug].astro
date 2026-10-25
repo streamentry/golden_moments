@@ -1,0 +1,154 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { getCollection, getEntry, render, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import Faq from '../../components/Faq.astro';
+import HealthNotice from '../../components/HealthNotice.astro';
+import PlayCta from '../../components/PlayCta.astro';
+import { GAME_BY_SLUG } from '../../data/games';
+import { pictureUrl } from '../../data/pictures';
+import { SECTION_META } from '../../lib/site';
+import { article, breadcrumbs, faqPage } from '../../lib/schema';
+
+export const getStaticPaths = (async () => {
+  const guides = await getCollection('guides');
+  return guides.map((entry) => {
+    const [section, slug] = entry.id.split('/');
+    return { params: { section, slug }, props: { entry } };
+  });
+}) satisfies GetStaticPaths;
+
+interface Props {
+  entry: CollectionEntry<'guides'>;
+}
+const { entry } = Astro.props;
+const d = entry.data;
+const { Content, headings } = await render(entry);
+const meta = SECTION_META[d.section];
+const path = `/${entry.id}/`;
+const crumbs = [
+  { href: meta.href, label: meta.label },
+  { href: path, label: d.title },
+];
+const words = (entry.body ?? '').split(/\s+/).filter(Boolean).length;
+const minutes = Math.max(2, Math.round(words / 220));
+const toc = headings.filter((h) => h.depth === 2);
+const updated = d.updated.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
+
+const relatedGames = d.relatedGames.map((s) => GAME_BY_SLUG.get(s)).filter((g) => g !== undefined);
+const related = (
+  await Promise.all(
+    d.related.map(async (ref) => {
+      const e = await getEntry('guides', ref);
+      return e ? { href: `/${e.id}/`, title: e.data.title } : null;
+    }),
+  )
+).filter((r): r is { href: string; title: string } => r !== null);
+
+const ogImage = `/og/${d.section}.png`;
+const jsonLd = [
+  article({
+    path,
+    title: d.title,
+    description: d.description,
+    updated: d.updated,
+    image: ogImage,
+    section: meta.label,
+    citations: d.sources.map((s) => ({ title: s.title, url: s.url })),
+    health: d.health,
+  }),
+  breadcrumbs(crumbs),
+  faqPage(d.faq),
+];
+---
+<BaseLayout title={d.seoTitle ?? d.title} description={d.description} type="article" image={ogImage} jsonLd={jsonLd}>
+  <Breadcrumbs items={crumbs} />
+  <div class="container">
+    <header class="page-head">
+      <p class="eyebrow">{meta.label}</p>
+      <h1>{d.title}</h1>
+      <p class="meta-line">
+        <span>Updated <time datetime={d.updated.toISOString().slice(0, 10)}>{updated}</time></span>
+        <span>{minutes} minute read</span>
+        <span>By the Golden Moments team · <a href="/editorial-policy/">How we write</a></span>
+      </p>
+    </header>
+
+    <div class="article-layout">
+      <article class="prose">
+        {d.health && <HealthNotice />}
+        <section class="answer" aria-labelledby="short-answer">
+          <p class="answer__label" id="short-answer">The short answer</p>
+          <p>{d.summary}</p>
+          <ul>
+            {d.keyPoints.map((k) => <li>{k}</li>)}
+          </ul>
+        </section>
+        {
+          toc.length > 2 && (
+            <details class="toc">
+              <summary>On this page ({toc.length} sections)</summary>
+              <ol>
+                {toc.map((h) => (
+                  <li>
+                    <a href={`#${h.slug}`}>{h.text}</a>
+                  </li>
+                ))}
+              </ol>
+            </details>
+          )
+        }
+        <Content />
+        <Faq items={d.faq} title="Common questions" />
+        <section class="sources" aria-labelledby="sources">
+          <h2 id="sources">Sources</h2>
+          <p class="muted">We link to the organizations and studies this page relies on. Each was checked when the page was updated.</p>
+          <ol>
+            {
+              d.sources.map((s) => (
+                <li>
+                  <a href={s.url} rel="noopener">{s.title}</a> <span class="publisher">· {s.publisher}</span>
+                </li>
+              ))
+            }
+          </ol>
+        </section>
+      </article>
+      <aside class="article-aside" aria-label="Related">
+        {
+          relatedGames.length > 0 && (
+            <div class="aside-box">
+              <h2>Try together</h2>
+              <ul>
+                {relatedGames.map((g) => (
+                  <li>
+                    <a href={`/games/${g.slug}/`}>
+                      <img src={pictureUrl(g.cardPictures[0] ?? 'teacup')} alt="" width="44" height="44" loading="lazy" />
+                      {g.name}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
+        {
+          related.length > 0 && (
+            <div class="aside-box">
+              <h2>Related guides</h2>
+              <ul>
+                {related.map((r) => (
+                  <li>
+                    <a href={r.href}>{r.title}</a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
+      </aside>
+    </div>
+    <PlayCta />
+  </div>
+</BaseLayout>

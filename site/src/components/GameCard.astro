@@ -1,0 +1,26 @@
+---
+import { pictureUrl } from '../data/pictures';
+import { STAGE_LABEL, type GameInfo } from '../data/games';
+interface Props {
+  game: GameInfo;
+  headingLevel?: 'h2' | 'h3';
+}
+const { game, headingLevel = 'h3' } = Astro.props;
+const H = headingLevel;
+---
+<article class="card game-card">
+  <div class="game-card__print">
+    <div class="game-card__pics">
+      {game.cardPictures.map((id) => <img src={pictureUrl(id)} alt="" width="120" height="120" loading="lazy" decoding="async" />)}
+    </div>
+  </div>
+  <div class="card__body">
+    <H><a class="card__link" href={`/games/${game.slug}/`}>{game.name}</a></H>
+    <p>{game.short}</p>
+    <ul class="tag-list" aria-label="Good for">
+      {game.stages.map((s) => <li class="tag">{STAGE_LABEL[s]}</li>)}
+      {game.printable && <li class="tag">Printable</li>}
+    </ul>
+    <span class="card__more" aria-hidden="true">Play {game.name.toLowerCase()} →</span>
+  </div>
+</article>

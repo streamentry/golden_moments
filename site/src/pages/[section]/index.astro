@@ -1,0 +1,111 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import HealthNotice from '../../components/HealthNotice.astro';
+import PlayCta from '../../components/PlayCta.astro';
+import { SECTIONS } from '../../content.config';
+import { SECTION_META, absoluteUrl, type SectionKey } from '../../lib/site';
+import { breadcrumbs } from '../../lib/schema';
+
+const INTRO: Record<SectionKey, { description: string; lede: string; seo: string }> = {
+  activities: {
+    seo: 'Activities for People with Dementia: Ideas by Stage',
+    description:
+      'Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.',
+    lede: 'Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today.',
+  },
+  caregiving: {
+    seo: 'Dementia Caregiving Guides: Practical Everyday Help',
+    description:
+      'Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.',
+    lede: 'Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself.',
+  },
+  'brain-health': {
+    seo: 'Brain Health and Dementia Risk: What Research Says',
+    description:
+      'Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.',
+    lede: 'What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice.',
+  },
+};
+
+export const getStaticPaths = (async () => {
+  const all = await getCollection('guides');
+  return SECTIONS.map((section) => ({
+    params: { section },
+    props: { section, entries: all.filter((e) => e.data.section === section).sort((a, b) => a.data.order - b.data.order) },
+  }));
+}) satisfies GetStaticPaths;
+
+interface Props {
+  section: SectionKey;
+  entries: CollectionEntry<'guides'>[];
+}
+const { section, entries } = Astro.props;
+const meta = SECTION_META[section];
+const intro = INTRO[section];
+const crumbs = [{ href: meta.href, label: meta.label }];
+const [lead, ...rest] = entries;
+const itemList = {
+  '@type': 'ItemList',
+  name: meta.title,
+  itemListElement: entries.map((e, i) => ({ '@type': 'ListItem', position: i + 1, url: absoluteUrl(`/${e.id}/`), name: e.data.title })),
+};
+---
+<BaseLayout title={intro.seo} description={intro.description} jsonLd={[breadcrumbs(crumbs), itemList]}>
+  <Breadcrumbs items={crumbs} />
+  <div class="container">
+    <header class="page-head">
+      <h1>{meta.title}</h1>
+      <p class="lede">{intro.lede}</p>
+    </header>
+    {section === 'brain-health' && <div class="narrow"><HealthNotice /></div>}
+    {
+      lead && (
+        <a class="lead-guide" href={`/${lead.id}/`}>
+          <span class="eyebrow">Start here</span>
+          <span class="lead-guide__title">{lead.data.title}</span>
+          <span class="lead-guide__text">{lead.data.summary}</span>
+          <span class="card__more">Read the guide →</span>
+        </a>
+      )
+    }
+    <ul class="card-grid">
+      {rest.map((e) => <li><GuideCard href={`/${e.id}/`} title={e.data.title} text={e.data.description} /></li>)}
+    </ul>
+    <PlayCta />
+  </div>
+</BaseLayout>
+
+<style>
+  .lead-guide {
+    display: grid;
+    gap: var(--space-sm);
+    padding: clamp(1.5rem, 1rem + 2vw, 2.5rem);
+    margin-bottom: var(--space-xl);
+    border-radius: var(--radius-xl);
+    background: var(--gm-print-white);
+    border: 1px solid var(--gm-surface-sunken);
+    box-shadow: var(--shadow-raised);
+    color: var(--gm-on-surface);
+    text-decoration: none;
+    transition: transform var(--duration-normal) var(--ease-out), box-shadow var(--duration-normal) ease;
+  }
+  .lead-guide:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-print);
+    color: var(--gm-on-surface);
+  }
+  .lead-guide__title {
+    font-size: var(--text-h2);
+    font-weight: 700;
+    line-height: 1.2;
+  }
+  .lead-guide__text {
+    font-size: var(--text-lg);
+    color: var(--gm-on-surface-variant);
+    max-width: 46em;
+  }
+</style>

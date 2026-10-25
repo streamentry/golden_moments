@@ -1,0 +1,21 @@
+---
+import Icon from './Icon.astro';
+interface Props {
+  title?: string;
+  text?: string;
+}
+const {
+  title = 'Ready for a gentle game?',
+  text = 'Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.',
+} = Astro.props;
+---
+<section class="cta-band" aria-label="Play a game">
+  <div>
+    <h2>{title}</h2>
+    <p>{text}</p>
+  </div>
+  <div class="btn-row">
+    <a class="btn btn--primary btn--hero" href="/games/picture-pairs/"><Icon name="play" />Play a Game</a>
+    <a class="btn" href="/games/">See all games</a>
+  </div>
+</section>

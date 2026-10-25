@@ -1,0 +1,114 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import Faq from '../components/Faq.astro';
+import PlayCta from '../components/PlayCta.astro';
+import { faqPage, type FaqItem } from '../lib/schema';
+
+const groups: { id: string; title: string; items: FaqItem[] }[] = [
+  {
+    id: 'games',
+    title: 'About the games',
+    items: [
+      {
+        q: 'What are the best games for someone with dementia?',
+        a: 'The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test.',
+      },
+      {
+        q: 'Are the games really free?',
+        a: 'Yes. All games and printables are free, with no account, sign-up, download or advertising.',
+      },
+      {
+        q: 'Why are there no scores, levels or timers?',
+        a: 'Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point.',
+      },
+      {
+        q: 'Which devices work best?',
+        a: 'Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups.',
+      },
+      {
+        q: 'Can we play with our own family photos?',
+        a: 'Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved.',
+      },
+    ],
+  },
+  {
+    id: 'activities',
+    title: 'Activities and caregiving',
+    items: [
+      {
+        q: 'How long should an activity last?',
+        a: 'Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount.',
+      },
+      {
+        q: 'What if they do not want to do an activity?',
+        a: 'Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no.',
+      },
+      {
+        q: 'What activities suit later-stage dementia?',
+        a: 'Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas.',
+      },
+      {
+        q: 'Are there activities for groups in a care home?',
+        a: 'Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities.',
+      },
+    ],
+  },
+  {
+    id: 'health',
+    title: 'Brain health',
+    items: [
+      {
+        q: 'Can games prevent or slow dementia?',
+        a: 'No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection.',
+      },
+      {
+        q: 'Can dementia be prevented?',
+        a: 'Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault.',
+      },
+      {
+        q: 'Is intermittent fasting good for brain health?',
+        a: 'Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat.',
+      },
+    ],
+  },
+  {
+    id: 'privacy',
+    title: 'Privacy and safety',
+    items: [
+      {
+        q: 'Do you collect any information?',
+        a: 'No accounts, ads, analytics or tracking. The only thing remembered is whether you turned soft sounds on, stored in your own browser.',
+      },
+      {
+        q: 'Is this medical advice?',
+        a: 'No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911.',
+      },
+    ],
+  },
+];
+
+const all = groups.flatMap((g) => g.items);
+---
+<PageLayout
+  title="Questions and Answers"
+  seoTitle="Dementia Games and Activities: Questions and Answers"
+  description="Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy."
+  path="/faq/"
+  crumb="Questions and answers"
+  lede="Short, plain answers to the questions caregivers ask most."
+  jsonLd={[faqPage(all)]}
+>
+  <nav aria-label="Topics" class="toc">
+    <ol>
+      {groups.map((g) => <li><a href={`#${g.id}`}>{g.title}</a></li>)}
+    </ol>
+  </nav>
+  {groups.map((g) => <Faq items={g.items} title={g.title} id={g.id} />)}
+  <p>
+    More detail: <a href="/caregiving/how-to-play-together/">how to play together</a>,
+    <a href="/caregiving/when-they-say-no/">when they say no</a>,
+    <a href="/activities/late-stage/">later-stage activities</a> and
+    <a href="/brain-health/can-dementia-be-prevented/">can dementia be prevented?</a>
+  </p>
+  <PlayCta slot="after" />
+</PageLayout>

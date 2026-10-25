@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // Static Astro build served by Workers Static Assets: no Worker script runs,
+  // so requests are free and nothing is collected server side.
+  "name": "dementia-activities-games",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./dist",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+  "routes": [
+    { "pattern": "dementiaactivities.games", "custom_domain": true }
+  ],
+  "observability": { "enabled": false }
+}

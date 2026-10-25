@@ -119,3 +119,9 @@ app.*.map.json
 lib/l10n/gen/
 backups/
 output/
+
+# Website (site/)
+site/node_modules/
+site/dist/
+site/.astro/
+site/.wrangler/

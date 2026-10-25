@@ -1,0 +1,53 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../lib/site';
+import PlayCta from '../components/PlayCta.astro';
+---
+<PageLayout
+  title="A Shared Activity, Not a Memory Test"
+  seoTitle="About Golden Moments: Our Approach"
+  description="Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia."
+  path="/about/"
+  crumb="Our approach"
+  lede="Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side."
+>
+  <h2>What we believe</h2>
+  <p>
+    The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures
+    together, or simply sitting close. It is not to measure anyone, push them further or prove anything.
+  </p>
+  <p>
+    Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia
+    that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:
+  </p>
+  <ul>
+    <li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li>
+    <li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li>
+    <li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li>
+    <li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li>
+    <li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li>
+    <li><strong>Private by default.</strong> No accounts, ads, analytics or tracking. Photos you choose stay on your device.</li>
+  </ul>
+
+  <h2>What we do not claim</h2>
+  <p>
+    Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or
+    Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our
+    <a href="/brain-health/">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it
+    to our own games.
+  </p>
+
+  <h2>Who we are</h2>
+  <p>
+    Golden Moments is a small independent team. We are not clinicians. Our guides are written from published
+    guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide
+    lists its sources. Read <a href="/editorial-policy/">how we write and check our pages</a>.
+  </p>
+
+  <h2>Tell us what would help</h2>
+  <p>
+    We would love to hear what works for you and what does not, especially from people living with dementia, family
+    caregivers and activity staff. Email <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
+  </p>
+  <PlayCta slot="after" />
+</PageLayout>
