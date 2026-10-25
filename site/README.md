@@ -29,7 +29,7 @@ pnpm preview             # serves dist/ with the real Workers runtime, headers a
 | Path | What it is |
 | --- | --- |
 | `src/pages/` | Routes: home, `games/`, `[section]/` guides and hubs, legal pages, `robots.txt`, `llms.txt`, `llms-full.txt`, manifest, `pictures/[id].svg` |
-| `src/content/guides/<section>/*.md` | The 35 guides. Frontmatter is validated by `src/content.config.ts` |
+| `src/content/guides/<section>/*.md` | The 37 guides. Frontmatter is validated by `src/content.config.ts` |
 | `src/games/` | One React island per game, plus `shared/` (frame, tiles, chips, settings store, sound) |
 | `src/lib/games/` | Pure game logic with unit tests (`games.test.ts`) |
 | `src/data/` | Game registry, picture library, sayings, conversation prompts, word themes, coloring pages |
@@ -103,6 +103,9 @@ Cloudflare account. The `workers.dev` address is turned off.
   `www.dementiaactivities.games` that 301-redirects to the apex, keeping path
   and query. Deploy it with `cd redirect-www && ../node_modules/.bin/wrangler deploy`
   (only needed if it changes).
+- **Email:** Cloudflare Email Routing forwards `web@dementiaactivities.games`
+  to the maintainer's verified inbox (rule "Website contact", tested
+  2026-10-25). Manage it with `pnpm exec wrangler email routing rules list dementiaactivities.games`.
 - **No injected scripts:** `Cache-Control: no-transform` in `public/_headers`
   stops Cloudflare from injecting its Web Analytics beacon, and the CSP would
   block it anyway. Keep both. The CSP allows only Google's GA4 domains.
@@ -114,9 +117,8 @@ settings):
    `http://` currently serves the page instead of redirecting).
 2. Web Analytics: turn off automatic setup for the zone, so nothing tries to
    inject a beacon.
-3. Email Routing: route `web@dementiaactivities.games` to a real inbox.
-4. Verify the domain in Google Search Console and Bing Webmaster Tools and
-   submit `https://dementiaactivities.games/sitemap-index.xml`.
+3. Verify the domain in Google Search Console and Bing Webmaster Tools and
+   submit `https://dementiaactivities.games/sitemap.xml`.
 
 Nothing runs server side: Workers serves the static files in `dist/`, applies
 `public/_headers`, redirects to trailing-slash URLs and serves `404.html`.
