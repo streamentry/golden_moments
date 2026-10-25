@@ -103,7 +103,7 @@ export const GAMES: readonly GameInfo[] = [
         a: 'Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded.',
       },
     ],
-    relatedGuides: ['caregiving/how-to-play-together', 'activities/middle-stage'],
+    relatedGuides: ['caregiving/how-to-play-together', 'activities/memory-games', 'activities/middle-stage'],
     featured: true,
   },
   {
@@ -140,7 +140,7 @@ export const GAMES: readonly GameInfo[] = [
       },
       FREE_FAQ,
     ],
-    relatedGuides: ['activities/late-stage', 'caregiving/communication-tips'],
+    relatedGuides: ['activities/late-stage', 'activities/alzheimers', 'caregiving/communication-tips'],
     featured: true,
   },
   {
@@ -214,7 +214,7 @@ export const GAMES: readonly GameInfo[] = [
       },
       FREE_FAQ,
     ],
-    relatedGuides: ['activities/early-stage', 'caregiving/tablets-and-screens'],
+    relatedGuides: ['activities/puzzles', 'activities/early-stage', 'caregiving/tablets-and-screens'],
     featured: true,
   },
   {
@@ -250,7 +250,7 @@ export const GAMES: readonly GameInfo[] = [
       },
       FREE_FAQ,
     ],
-    relatedGuides: ['activities/care-home-groups', 'activities/reminiscence'],
+    relatedGuides: ['activities/care-home-groups', 'activities/trivia', 'activities/reminiscence'],
     featured: true,
   },
   {
@@ -287,7 +287,7 @@ export const GAMES: readonly GameInfo[] = [
       },
       FREE_FAQ,
     ],
-    relatedGuides: ['activities/printable', 'activities/early-stage'],
+    relatedGuides: ['activities/printable', 'activities/puzzles', 'activities/early-stage'],
     featured: false,
   },
   {

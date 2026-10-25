@@ -55,7 +55,7 @@ sources:
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/daily-care/activities"
 relatedGames: [picture-pairs, conversation-cards, photo-pairs, calm-breathing, picture-bingo]
-related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain-health/brain-games, brain-health/can-dementia-be-prevented, activities/early-stage, activities/late-stage]
+related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain-health/brain-games, brain-health/can-dementia-be-prevented, activities/early-stage, activities/late-stage, activities/memory-games]
 health: false
 ---
 

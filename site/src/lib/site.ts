@@ -4,9 +4,9 @@ export const SITE = {
   domain: 'dementiaactivities.games',
   name: 'Golden Moments',
   titleSuffix: ' | Golden Moments',
-  homeTitle: 'Dementia Games & Activities Online | Golden Moments',
+  homeTitle: "Dementia & Alzheimer's Games and Activities | Golden Moments",
   description:
-    'Free, gentle picture games and activity ideas for people living with dementia and the people who care for them. No sign-up, no timers, no scores.',
+    "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
   locale: 'en_US',
   /** Live US listing, read back from App Store Connect on 2026-10-21. */
   appStoreUrl: 'https://apps.apple.com/us/app/dementia-games-golden-moments/id6749312459',

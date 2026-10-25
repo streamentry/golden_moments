@@ -19,6 +19,14 @@ const faq = [
     a: 'Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people.',
   },
   {
+    q: "Are these games good for someone with Alzheimer's?",
+    a: "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones.",
+  },
+  {
+    q: 'Are these memory games for seniors?',
+    a: 'They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle.',
+  },
+  {
     q: 'Are there games for groups in a care home?',
     a: 'Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group.',
   },
@@ -30,8 +38,8 @@ const itemList = {
 };
 ---
 <BaseLayout
-  title="Free Dementia Games Online: Gentle Picture Games"
-  description="Free online games for people living with dementia: picture matching, easy jigsaws, sorting, sayings, coloring, bingo and more. No sign-up, no timers, no scores."
+  title="Free Dementia & Alzheimer's Games Online"
+  description="Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores."
   jsonLd={[breadcrumbs(crumbs), itemList, faqPage(faq)]}
 >
   <Breadcrumbs items={crumbs} />
@@ -74,7 +82,11 @@ const itemList = {
           </tbody>
         </table>
       </div>
-      <p>More ideas away from the screen: <a href="/activities/ideas/">101 activities for people with dementia</a>.</p>
+      <p>
+        More ideas away from the screen: <a href="/activities/ideas/">101 activities for people with dementia</a>,
+        <a href="/activities/alzheimers/">activities and games for Alzheimer's</a>,
+        <a href="/activities/memory-games/">gentle memory games</a> and <a href="/activities/puzzles/">puzzles</a>.
+      </p>
     </section>
     <div class="narrow">
       <Faq items={faq} />

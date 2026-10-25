@@ -53,7 +53,7 @@ sources:
     publisher: "The Lancet"
     url: "https://doi.org/10.1016/S0140-6736(24)01296-0"
 relatedGames: [picture-pairs, conversation-cards, finish-the-saying, picture-puzzle, word-search]
-related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-games, caregiving/how-to-play-together, activities/ideas, brain-health/social-connection]
+related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-games, caregiving/how-to-play-together, activities/ideas, brain-health/social-connection, activities/memory-games]
 health: true
 ---
 

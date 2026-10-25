@@ -45,7 +45,7 @@ sources:
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/daily-care/art-music"
 relatedGames: [picture-pairs, conversation-cards, sort-together, photo-pairs, picture-bingo, coloring]
-related: [activities/early-stage, activities/middle-stage, activities/late-stage, activities/daily-routine, caregiving/how-to-play-together, caregiving/when-they-say-no]
+related: [activities/early-stage, activities/middle-stage, activities/late-stage, activities/daily-routine, caregiving/how-to-play-together, caregiving/when-they-say-no, activities/alzheimers]
 health: false
 ---
 
@@ -180,7 +180,7 @@ Games work when there is no timer, score or pressure. If one starts to feel like
 57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
 58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
 59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible.
+60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
 61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
 62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
 63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.

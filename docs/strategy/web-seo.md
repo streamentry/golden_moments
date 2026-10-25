@@ -56,3 +56,32 @@ For your proposed web-and-mobile product, I would resolve it by making **playabl
 **My decision:** use `DementiaActivities.games` if it is inexpensive and browser-based play is central. At comparable cost, I would prefer `DementiaActivities.com` for a broader activities resource, but I would not delay launching or spend heavily to obtain it.
 
 **Availability, renewal pricing, and trademark clearance remain unverified.** Before committing, show the address to five caregivers and ask what they expect to find; that will reveal more about its practical value than further keyword-name brainstorming.
+
+## Keyword-to-page map (2026-10-25)
+
+One page owns each search intent, so pages do not compete with each other.
+These are target queries, not measured volumes: no search-volume or ranking
+data has been collected yet (see `keyword-research.csv`). After Search Console
+is verified, replace guesses with impressions and positions per page.
+
+| Search intent | Page that owns it |
+| --- | --- |
+| dementia games, dementia and Alzheimer's games and activities | `/` (home) |
+| free dementia games online, Alzheimer's games online | `/games/` |
+| alzheimers activities, alzheimers games, activities for Alzheimer's patients | `/activities/alzheimers/` |
+| activities for dementia, things to do with someone with dementia | `/activities/ideas/` |
+| early, middle, late stage dementia activities | `/activities/early-stage/`, `/middle-stage/`, `/late-stage/` |
+| memory games for seniors, senior matching games | `/activities/memory-games/` |
+| trivia for seniors with dementia | `/activities/trivia/` |
+| puzzles or jigsaw puzzles for dementia | `/activities/puzzles/` |
+| printable dementia activities | `/activities/printable/` |
+| group activities for memory care or nursing homes | `/activities/care-home-groups/` |
+| matching game for dementia | `/games/picture-pairs/` |
+| family photo memory game | `/games/photo-pairs/` |
+| large print word search | `/games/word-search/` |
+| do brain games prevent dementia | `/brain-health/brain-games/` |
+
+Searches that use "patients" are answered in our own words ("people living
+with dementia"), per `site/CONTENT_GUIDE.md`. In October 2026 the US results for
+printable, memory-game and trivia queries were dominated by scraped pages with
+no usable content, which is why those pages exist.
