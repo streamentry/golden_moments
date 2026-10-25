@@ -16,7 +16,7 @@ class LegalLinksSourceTests(unittest.TestCase):
         for src in (gentle, legacy):
             self.assertIn("LegalInfoPage", src)
             self.assertIn("Privacy, terms and support", src)
-        self.assertIn("golden-moments-web/", page)
+        self.assertIn("https://dementiaactivities.games/", page)
         self.assertIn("Clipboard.setData", page)
         self.assertIn("LaunchMode.externalApplication", page)
         self.assertIn("choosing any personal photographs.", page)
