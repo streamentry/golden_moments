@@ -3,13 +3,17 @@ import PageLayout from '../layouts/PageLayout.astro';
 import { SITE } from '../lib/site';
 ---
 <PageLayout
-  title="Terms of Use"
-  description="Terms for using the Golden Moments website, its free games and printable activities, including permitted personal and group use."
+  title="Terms of Use and App License"
+  description="Terms for the Golden Moments website, free games and printables, and which license covers the Golden Moments app on iPhone, iPad and Android."
   path="/terms/"
-  crumb="Terms of use"
+  crumb="Terms of use and app license"
   updated="2026-10-25"
 >
-  <p>By using {SITE.domain} you agree to these terms. If you do not agree, please do not use the site.</p>
+  <p>
+    Golden Moments is published by <strong>Cloudjet Solutions Pte. Ltd.</strong>, Singapore. By using {SITE.domain} you
+    agree to these website terms. If you do not agree, please do not use the site. The app has its own license, described
+    below.
+  </p>
 
   <h2>Free to use</h2>
   <p>
@@ -23,11 +27,37 @@ import { SITE } from '../lib/site';
     <li>Copying our pages or pictures to another website or app.</li>
     <li>Using the site to break the law, or trying to disrupt or overload it.</li>
   </ul>
+  <h2>Your photos and other people’s rights</h2>
+  <p>
+    Choose only photos you may use and show, in Photo pairs on this website or in the app. Take particular care with
+    photos of children and of people who cannot easily say what they want. We do not own, publish or receive the photos
+    you choose. Keep your originals somewhere safe; the app’s copies are not a backup.
+  </p>
   <h2>Not medical advice</h2>
   <p>
     Golden Moments is for recreation and general information. It is not medical advice, diagnosis or treatment. Please
     read our <a href="/medical-disclaimer/">health information notice</a>. Supervise activities as appropriate for the
     person, especially anything involving food, small objects, scents, heat or going outdoors.
+  </p>
+  <h2 id="app-license">The Golden Moments app</h2>
+  <p>
+    The iPhone and iPad app is licensed through Apple’s App Store. Unless a different license is shown on the App Store
+    listing, the <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/" rel="noopener">Apple
+    Standard Licensed Application End User License Agreement</a> governs it.
+    <strong>This page does not replace or amend Apple’s Standard EULA.</strong>
+  </p>
+  <p>
+    The <a href={SITE.appStoreUrl} rel="noopener">App Store listing</a> sets Apple distribution, compatibility and prices.
+    The Android app from <a href={SITE.playStoreUrl} rel="noopener">Google Play</a> is subject to Google Play’s terms.
+    If an App Store purchase applies, Apple’s billing and refund processes govern it; you can use
+    <a href="https://reportaproblem.apple.com/" rel="noopener">Apple’s purchase support</a> for eligible refunds. The app
+    is for recreation, as described in <a href="/safety/">safety and intended use</a>. How it handles data is in the
+    <a href="/app-privacy/">app privacy policy</a>.
+  </p>
+  <h2>Other services</h2>
+  <p>
+    Apple, Google Play, Cloudflare and the websites we link to operate independently, with their own terms and privacy
+    practices. A link is not a medical endorsement.
   </p>
   <h2>No warranty</h2>
   <p>
@@ -35,8 +65,21 @@ import { SITE } from '../lib/site';
     available, error free or suitable for a particular purpose. To the extent the law allows, we are not liable for any
     loss arising from use of the site.
   </p>
+  <p>
+    <strong>Nothing on this page excludes a consumer right or liability that the law does not allow us to exclude.</strong>
+    These terms do not require arbitration, waive class action rights or choose a court for disputes.
+  </p>
+  <h2>Rights concerns</h2>
+  <p>
+    If you believe something on this website infringes your rights, email
+    <a href={`mailto:${SITE.supportEmail}?subject=Golden%20Moments%20content%20rights`}>{SITE.supportEmail}</a> with a
+    link to it and a short explanation.
+  </p>
   <h2>Changes</h2>
-  <p>We may update these terms. The date at the top shows when they last changed.</p>
+  <p>
+    We may update these terms. The date at the top shows when they last changed. Changes do not override legal rights or
+    the app’s store license.
+  </p>
   <h2>Contact</h2>
   <p>Email <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.</p>
 </PageLayout>

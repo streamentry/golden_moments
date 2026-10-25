@@ -385,10 +385,12 @@
   color: var(--gm-secondary);
   margin-top: 2px;
 }
-.notice p:last-child {
+.notice p:last-child,
+.notice ul:last-child {
   margin-bottom: 0;
 }
-.notice strong {
+/* The notice's title, not bold words inside its text or list. */
+.notice > div > strong:first-child {
   display: block;
   font-size: var(--text-lg);
   margin-bottom: var(--space-xs);

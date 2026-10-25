@@ -11,6 +11,7 @@
     "build": "astro build",
     "preview": "wrangler dev",
     "check:site": "node scripts/check-site.mjs",
+    "check:live": "node scripts/verify-live-legal.mjs",
     "test": "vitest run",
     "verify": "vitest run && astro build && node scripts/check-site.mjs",
     "deploy": "astro build && node scripts/check-site.mjs && wrangler deploy"

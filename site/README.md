@@ -36,7 +36,7 @@ pnpm preview             # serves dist/ with the real Workers runtime, headers a
 | `src/lib/schema.ts` | JSON-LD builders (WebSite, Organization, Article/MedicalWebPage, FAQPage, VideoGame, BreadcrumbList) |
 | `src/styles/` | Tokens from `DESIGN.md`, base, components and game styles. Light theme only |
 | `public/` | Fonts, icons, share images, `_headers` (security and cache headers) |
-| `scripts/` | `check-site.mjs` (post-build checks) and `make-images.py` (icons and share images) |
+| `scripts/` | `check-site.mjs` (post-build checks), `verify-live-legal.mjs` (deployed legal pages) and `make-images.py` (icons and share images) |
 
 ## Rules that are easy to break
 
@@ -54,6 +54,26 @@ pnpm preview             # serves dist/ with the real Workers runtime, headers a
 - **No timers, scores, streaks or quizzing**, in games or copy. Health pages use
   risk language and cite sources; see `CONTENT_GUIDE.md`.
 - **Photo pairs never uploads.** Photos become object URLs in the tab only.
+
+## App legal pages
+
+The app's legal and help pages (`/app-privacy/`, `/privacy-choices/`, `/terms/`,
+`/safety/`, `/support/`, `/help/`, `/legal/`) moved here on 2026-10-25 from the
+retired `streamentry/golden-moments-web` repository, so one site holds
+everything. The App Review checklist that came with them is
+[`docs/legal/app-review-gates.md`](../docs/legal/app-review-gates.md).
+
+- Their paths are public: App Store Connect, Google Play and the app itself
+  link to them. Do not rename them.
+- The app and both store listings still point at
+  `streamentry.github.io/golden-moments-web/`. Keep that site up until the app
+  release and store listings use `dementiaactivities.games` instead.
+- `check-site.mjs` fails the build if a legal page goes missing or loses a key
+  statement (Apple Standard EULA, consumer rights, deletion steps). After a
+  deploy, `pnpm check:live` fetches each page over HTTPS.
+- Match app wording to the current build (button labels such as
+  **Remove this copy** come from `lib/features/gentle_activities/`). These pages
+  are not proof of legal clearance.
 
 ## Share images and icons
 

@@ -63,6 +63,22 @@ promise.
   changing plans, or just sitting together is a good outcome.
 - No emoji, no exclamation-mark praise, no ALL CAPS, sentence-case headings.
 
+## Legal and app help pages
+
+`/app-privacy/` covers the mobile app; `/privacy/` covers this website. Keep
+them separate. On every legal page:
+
+- Name the publisher, Cloudjet Solutions Pte. Ltd., Singapore, and give the
+  site contact address from `src/lib/site.ts`.
+- The Apple Standard EULA covers the iOS app unless the App Store shows another
+  license; Android follows Google Play's terms. Do not add a custom EULA,
+  forced arbitration or a waiver of consumer rights.
+- Describe only what the published app does. Say which version a feature
+  arrived in, and keep originals, the app's copies and device backups distinct.
+- Do not claim "Data Not Collected", complete deletion from backups or zero
+  network traffic from source code alone.
+- Never ask people to send photos, diagnoses or identity documents.
+
 ## Page format (Markdown + frontmatter)
 
 Files live in `src/content/guides/<section>/<slug>.md`. The URL is

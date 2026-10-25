@@ -151,6 +151,36 @@ for (const required of ['robots.txt', 'llms.txt', 'llms-full.txt', 'manifest.web
   if (!existsSync(join(DIST, required))) err('dist', `missing ${required}`);
 }
 
+// Legal pages linked from the app and both store listings (moved here from
+// streamentry/golden-moments-web). Their paths are public contracts; the
+// phrases keep the app license, consumer rights and deletion facts in place.
+const LEGAL_PAGES = {
+  'app-privacy/': ['Cloudjet Solutions Pte. Ltd.', 'Remove all photo copies', 'device backup', 'Firebase', '/privacy-choices/', '/privacy/'],
+  'privacy-choices/': ['Remove this copy', 'Remove all photo copies', 'Offload App', 'Delete App', 'does not automatically delete'],
+  'privacy/': ['Cloudflare', 'IP address', 'email address', '/app-privacy/'],
+  'terms/': [
+    'https://www.apple.com/legal/internet-services/itunes/dev/stdeula/',
+    'does not replace or amend Apple',
+    'Nothing on this page excludes a consumer right',
+  ],
+  'safety/': ['not intended for medical diagnosis', 'Stop, take a break, or change activities', 'local emergency number', 'not a measure of their intelligence'],
+  'support/': ['/privacy-choices/', 'Avoid deleting or reinstalling'],
+  'help/': ['Start a gentle game', 'Your family photos', 'Remove this copy'],
+  'legal/': ['/app-privacy/', '/privacy-choices/', '/terms/', '/safety/', '/support/'],
+};
+const LEGAL_BANNED = /We collect no data|No data is ever shared|HIPAA|100% secure|guaranteed deletion|binding arbitration|waive your rights|FDA[ -](?:approved|cleared)|\[COMPANY\]|\[DATE\]|TODO:/i;
+for (const [page, phrases] of Object.entries(LEGAL_PAGES)) {
+  const file = join(DIST, page, 'index.html');
+  if (!existsSync(file)) {
+    err(page, 'legal page is missing');
+    continue;
+  }
+  const html = readFileSync(file, 'utf8').replace(/&#39;|&rsquo;|’/g, "'");
+  for (const phrase of phrases) if (!html.includes(phrase.replace(/’/g, "'"))) err(page, `legal page lost "${phrase}"`);
+  const banned = text(html).match(LEGAL_BANNED);
+  if (banned) err(page, `legal page says "${banned[0]}"`);
+}
+
 for (const w of warnings) console.warn(`warn  ${w}`);
 for (const e of errors) console.error(`error ${e}`);
 console.log(`Checked ${htmlFiles.length} pages: ${errors.length} errors, ${warnings.length} warnings.`);

@@ -36,6 +36,11 @@ export const GET: APIRoute = async () => {
     `- [Health information notice](${SITE.url}/medical-disclaimer/)`,
     `- [Privacy](${SITE.url}/privacy/)`,
     `- [Golden Moments app](${SITE.url}/app/): iPhone, iPad and Android.`,
+    `- [App help](${SITE.url}/help/): gentle games, family photos, offline play and removing copies.`,
+    `- [App privacy policy](${SITE.url}/app-privacy/): family photos stay on the device; no account or photo upload.`,
+    `- [Safety and intended use](${SITE.url}/safety/): recreation, not diagnosis, testing or treatment.`,
+    `- [Legal and privacy information](${SITE.url}/legal/)`,
+    `- [Support](${SITE.url}/support/)`,
     '',
   );
   return new Response(lines.join('\n'), { headers: { 'Content-Type': 'text/plain; charset=utf-8' } });

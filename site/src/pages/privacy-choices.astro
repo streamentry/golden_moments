@@ -1,0 +1,88 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../lib/site';
+---
+<PageLayout
+  title="Privacy Choices and Deletion"
+  seoTitle="Remove App Photo Copies and Other Privacy Choices"
+  description="How to remove Golden Moments photo copies without deleting your original photos, check device backups and ask us to delete information we hold."
+  path="/privacy-choices/"
+  crumb="Privacy choices"
+  updated="2026-10-25"
+  lede="You can stop, remove a copy or delete the app. Your original photos are separate and stay where they are."
+>
+  <aside class="notice" aria-labelledby="choices-summary">
+    <div>
+      <strong id="choices-summary">Two things to know first</strong>
+      <ul>
+        <li><strong>Removing a photo in Golden Moments does not delete the original</strong> from your photo library.</li>
+        <li><strong>Removing the app’s copies does not erase earlier backups</strong> or copies you sent to someone else. Manage those separately.</li>
+      </ul>
+    </div>
+  </aside>
+  <p>You can play the included activities without adding family photos or creating an account.</p>
+
+  <h2 id="remove-one">Remove one photo</h2>
+  <p>In version 1.4.0 and later:</p>
+  <ol>
+    <li>Open Golden Moments and choose <strong>Your family photos</strong>.</li>
+    <li>Find the photo and choose <strong>Options</strong>.</li>
+    <li>Choose <strong>Remove this copy</strong>, read the message and choose <strong>Remove copy</strong>.</li>
+  </ol>
+  <p>
+    This removes the app’s working copy, not your original. If you do not see <strong>Your family photos</strong>, your
+    installed version does not include family photos.
+  </p>
+
+  <h2 id="remove-all">Remove all photo copies</h2>
+  <ol>
+    <li>Open <strong>Your family photos</strong>.</li>
+    <li>Choose <strong>Remove all photo copies</strong>, then <strong>Remove all copies</strong>.</li>
+    <li>If an error appears, try again or <a href="/support/">contact support</a> with a description. Please do not send the photos.</li>
+  </ol>
+  <p>Removing the app’s copies does not change your photo library, your cloud photo library or earlier device backups.</p>
+
+  <h2 id="delete-app">Delete the app and its data</h2>
+  <p>
+    On iPhone or iPad, use <strong>Delete App</strong> and confirm. This normally removes the app and the data it keeps
+    on the device. <strong>Offload App</strong> is different: it can keep the app’s documents and data so they come back
+    when you reinstall.
+  </p>
+  <p>
+    On Android, uninstall Golden Moments or clear its storage in the device’s app settings. Menus differ between device
+    makers. Clearing data cannot be undone, so save anything you want to keep first.
+  </p>
+  <p>We cannot erase anything on your device remotely, because Golden Moments has no user accounts or photo server.</p>
+
+  <h2 id="backups">Backups, iCloud and other copies</h2>
+  <p>
+    iCloud, Google, device maker or computer backups may contain app data, depending on your settings. Removing
+    something in the app, or deleting the app, does not automatically delete copies from earlier backups. Check your
+    device’s backup settings and the device maker’s guidance before removing a backup, especially if it protects other
+    important information.
+  </p>
+  <p>If you shared a photo with another person or app, that copy is theirs to manage. We cannot recall or erase it.</p>
+
+  <h2 id="permissions">Photo access</h2>
+  <p>
+    Adding photos is optional, and the app uses only the photos you select. You can change photo permissions in your
+    device’s Settings. Turning off permission does not remove copies already added; use the steps above.
+  </p>
+
+  <h2 id="contact">Ask about information we hold</h2>
+  <p>
+    If you emailed support, we may have your email address and message. To ask for access, correction or deletion, or to
+    withdraw consent where that applies, email
+    <a href={`mailto:${SITE.supportEmail}?subject=Golden%20Moments%20privacy%20request`}>{SITE.supportEmail}</a> and say
+    what you would like us to find. We may ask for a little information to confirm the request is yours, and the law may
+    require us to keep some records.
+  </p>
+  <p>
+    <strong>Please do not send medical records, a diagnosis, identity documents or photos with your request.</strong>
+    We cannot reach or delete anything that is only on your device or in another company’s account.
+  </p>
+  <p>
+    Read the full <a href="/app-privacy/">app privacy policy</a>. The <a href="/privacy/">website privacy notice</a>
+    covers this website.
+  </p>
+</PageLayout>
