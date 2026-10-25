@@ -67,14 +67,14 @@ they lack: printable picture bingo, the cited caregiver guides, Photo pairs.
 | 13 | Alzheimer's New Jersey, Virtual Activity List (2024 PDF) | General jigsaw and coloring sites | alznj.org contact page | Form; needs approval |
 | 14 | Topsfield MA Council on Aging, Dementia Friendly Topsfield Virtual Resource Guide | Asks readers for suggestions; no dementia-specific games | Site blocks automated checks; contact unverified | Check by hand |
 | 15 | Prince William County VA Area Agency on Aging, Virtual Resources | "Games" section is general puzzles | pwcva.gov contact page | Form; needs approval |
-| 16 | Montgomery County MD HHS, "Thrive at Home" | "Things to Do Together at Home" has no game | Published site-edits address of a named staff member | Batch 2 draft |
-| 17 | Alzheimer's San Diego, "How to Plan Meaningful Activities" (Mar 2026) | At-home list has a weekly crossword, no large-print or picture games | info@alzsd.org | Batch 2 draft |
+| 16 | Montgomery County MD HHS, "Thrive at Home" | "Things to Do Together at Home" has no game | Published site-edits address of a named staff member | Sent 2026-10-25 |
+| 17 | Alzheimer's San Diego, "How to Plan Meaningful Activities" (Mar 2026) | At-home list has a weekly crossword, no large-print or picture games | info@alzsd.org | Sent 2026-10-25 |
 | 18 | St. John's Dementia Resource Center, Rochester NY, games and technology page (2020) | Lists "finish the phrase" and matching ideas, no free online versions | Contact form | Form; needs approval |
 | 19 | Washington County Library, Memory Maker Kit guide (PDF) | "Online Memory Games" are Lumosity, AARP, BrightFocus | Library contact page | Form; needs approval |
 | 20 | California Association of Health Facilities, Virtual Resources for Activity Directors (PDF) | No picture bingo | cahf.org contact | Form; needs approval |
-| 21 | Rochester Public Library, Memory Care Collection | Physical kits only; stresses no competition | extension@libraryweb.org | Batch 2 draft |
+| 21 | Rochester Public Library, Memory Care Collection | Physical kits only; stresses no competition | extension@libraryweb.org | Sent 2026-10-25 |
 | 22 | Mississippi Library Commission, memory loss resource guide (Jun 2026) | No free activity site | mlc.lib.ms.us contact | Form; needs approval |
-| 23 | Illinois Cognitive Resources Network, Library Support page | Library programs, no free printables | info@ilbrainhealth.org | Batch 2 draft |
+| 23 | Illinois Cognitive Resources Network, Library Support page | Library programs, no free printables | info@ilbrainhealth.org | Sent 2026-10-25 |
 | 24 | Dementia Friendly America, Memory Café Resources | Facilitation resources only | dfamerica.org contact page | Form; needs approval |
 | 25 | Utah DHHS, Caregiver support and resources | Has a public "suggest an addition" form | Qualtrics form on page | Form; needs approval |
 
@@ -168,9 +168,9 @@ If it seems useful for the carers you support, I would be glad if you added it.
 James Le
 Golden Moments · https://dementiaactivities.games
 
-## Batch 2 drafts (organizations; not sent)
+## Batch 2 (organizations; sent 2026-10-25)
 
-These point to `/for-organizations/` and `/handout/`, so deploy those pages first.
+Sent after `/for-organizations/` and `/handout/` went live.
 
 ### 6. Alzheimer's San Diego (info@alzsd.org)
 
@@ -235,4 +235,11 @@ Golden Moments · https://dementiaactivities.games
 | Date | Prospect | Action | Result |
 | --- | --- | --- | --- |
 | 2026-10-25 | 1–5 | Approved and sent from the maintainer's personal Gmail | Awaiting replies; one follow-up allowed after 2026-11-08 |
-| 2026-10-25 | 6–9 | Drafted | Awaiting approval and deploy of `/for-organizations/` and `/handout/` |
+| 2026-10-25 | 6–9 | Approved and sent after the two pages were deployed | Awaiting replies; one follow-up allowed after 2026-11-08 |
+
+## Next actions
+
+1. 2026-11-08: one short follow-up to anyone who has not replied, then stop.
+2. Contact-form prospects (#6–8, #10–13, #15, #18–20, #22, #24, #25): these need a name and email typed into each site's form; get the maintainer's go-ahead for that channel.
+3. Owned links: merge PR #93, add a moved notice to the old GitHub Pages site, set the GitHub repository homepage.
+4. When a link goes live, record it here with the date, and check it in Search Console's Links report.
