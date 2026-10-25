@@ -32,7 +32,7 @@ Astro + React + TanStack Store site in `site/`, built as static files for Cloudf
 | Privacy: no analytics, ads or cookies; photo pairs is local only | Implemented; photo pairs made no network requests after photos were chosen, and the `_headers` CSP (`connect-src 'self'`) blocked a test request to another site |
 | Accessibility | axe-core (WCAG 2.2 AA + best practice): no violations on the 11 pages scanned. Independent code review fixes applied (picker focus ring, focus after answers, one completion live region, word-search arrow keys and 48px cells, 48px footer links). No assistive-technology user testing |
 | Exceptions recorded | Calm breathing is the one paced activity (stops on a tap or after six breaths), recorded in `DESIGN.md` |
-| Deployment | Live on workers.dev (RunLumi account, version 7d252a08, 2026-10-25): <https://dementia-activities-games.4rqnf2gvxf.workers.dev>. `dementiaactivities.games` is not registered yet; register it, restore the custom-domain route, redeploy, then add the www redirect, Email Routing and Search Console |
+| Deployment | Live at <https://dementiaactivities.games> (RunLumi account, 2026-10-25); www 301-redirects to the apex; no external requests or CSP violations on the live home and picture-pairs pages. Dashboard items left: Always Use HTTPS, turn off Web Analytics auto-setup, Email Routing for `web@dementiaactivities.games`, Search Console and Bing |
 
 Open items for the maintainer: legal review of the website privacy notice and terms; make sure `web@dementiaactivities.games` (the website contact) receives mail, for example with Cloudflare Email Routing; the Play listing link points at the existing package while 1.4.0 awaits review.
 

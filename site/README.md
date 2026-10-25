@@ -70,21 +70,29 @@ python3 scripts/make-images.py
 
 Deploying is a maintainer action; nothing here deploys automatically.
 
-Currently deployed (2026-10-25) to the RunLumi account at
-<https://dementia-activities-games.4rqnf2gvxf.workers.dev>, because
-`dementiaactivities.games` was not yet registered.
+Live since 2026-10-25 at <https://dementiaactivities.games> on the RunLumi
+Cloudflare account. The `workers.dev` address is turned off.
 
-1. Register `dementiaactivities.games` and add it as a zone in the same
-   Cloudflare account.
-2. In `wrangler.jsonc`, add back
-   `"routes": [{ "pattern": "dementiaactivities.games", "custom_domain": true }]`.
-3. `pnpm deploy` (build, checks, then `wrangler deploy`) while logged in with
-   `pnpm exec wrangler login`.
-4. In the Cloudflare dashboard, add a redirect rule from
-   `www.dementiaactivities.games/*` to `https://dementiaactivities.games/${1}`
-   (301), so there is one canonical host.
-5. Set up Email Routing so `web@dementiaactivities.games` reaches a real inbox.
-6. Verify the domain in Google Search Console and Bing Webmaster Tools and
+- **Site:** `pnpm deploy` (build, checks, then `wrangler deploy`) while logged
+  in with `pnpm exec wrangler login`. `wrangler.jsonc` attaches the apex as a
+  Workers custom domain.
+- **www:** `redirect-www/` is a separate tiny Worker on
+  `www.dementiaactivities.games` that 301-redirects to the apex, keeping path
+  and query. Deploy it with `cd redirect-www && ../node_modules/.bin/wrangler deploy`
+  (only needed if it changes).
+- **No injected scripts:** `Cache-Control: no-transform` in `public/_headers`
+  stops Cloudflare from injecting its Web Analytics beacon, and the CSP would
+  block it anyway. Keep both.
+
+Still to do in the Cloudflare dashboard (the Wrangler login cannot change zone
+settings):
+
+1. SSL/TLS, Edge Certificates: turn on **Always Use HTTPS** (plain
+   `http://` currently serves the page instead of redirecting).
+2. Web Analytics: turn off automatic setup for the zone, so nothing tries to
+   inject a beacon.
+3. Email Routing: route `web@dementiaactivities.games` to a real inbox.
+4. Verify the domain in Google Search Console and Bing Webmaster Tools and
    submit `https://dementiaactivities.games/sitemap-index.xml`.
 
 Nothing runs server side: Workers serves the static files in `dist/`, applies
