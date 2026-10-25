@@ -19,9 +19,9 @@ activity staff already use, so the site gets found and trusted. Rules:
 
 | Where | Status |
 | --- | --- |
-| App Store and Google Play listing website, support and privacy URLs; in-app links | PR #93 switches them from `streamentry.github.io/golden-moments-web/` to the new domain |
-| Old site `streamentry.github.io/golden-moments-web/` | Still live, no link to the new domain. Proposal: add a "This site has moved" notice and a link on each page now; redirect after the app release |
-| GitHub repository homepage field (`streamentry/golden_moments`) | Empty. Proposal: set it to `https://dementiaactivities.games` |
+| App Store and Google Play listing website, support and privacy URLs; in-app links | PR #93 merged (metadata and app code). Store consoles change when the next release is submitted |
+| Old site `streamentry.github.io/golden-moments-web/` | Done 2026-10-25: a notice linking to the new domain on every page (commit a7efdc3 in that repo). Redirect after the app release |
+| GitHub repository homepage fields (`golden_moments`, `golden-moments-web`) | Done 2026-10-25: both set to `https://dementiaactivities.games` |
 
 ## Linkable pages on the site
 
@@ -43,12 +43,12 @@ contact page. "Gap" is what the page lacks that we offer.
 | 3 | Willows Healthcare, "Memory Games For Seniors Free Online" (Mar 2025) | Lists general puzzle sites (Memozor, JIGIDI), nothing made for dementia | info.greensburg@willowshealthcare.com | Sent 2026-10-25 |
 | 4 | BoomersHub, "15 Free Online Games for Seniors" | Dementia section points only to apps | info@boomershub.com | Sent 2026-10-25 |
 | 5 | talkdementia.uk, "Activities from home" | No family-photo matching game | talkdementia.uk@gmail.com | Sent 2026-10-25 |
-| 6 | This Insidious Dementia, "Dementia Brain Games – Jigsaw Puzzles" | Smallest jigsaw listed is 6 pieces; one listed site is broken | Contact form | Form; needs approval |
-| 7 | Ultimate Care NY, "Games for Dementia" (Jan 2025) | General coloring and jigsaw sites; no bingo or sorting | Contact form | Form; needs approval |
-| 8 | Heritage Manor AZ, "Fun Memory Games for Dementia Patients" (Aug 2025) | Describes games, links none online | Contact form | Form; needs approval |
+| 6 | This Insidious Dementia, "Dementia Brain Games – Jigsaw Puzzles" | Smallest jigsaw listed is 6 pieces; one listed site is broken | Contact form | Form submitted 2026-10-25 |
+| 7 | Ultimate Care NY, "Games for Dementia" (Jan 2025) | General coloring and jigsaw sites; no bingo or sorting | Contact form (Cloudflare Turnstile) | Maintainer to submit |
+| 8 | Heritage Manor AZ, "Fun Memory Games for Dementia Patients" (Aug 2025) | Describes games, links none online | Only a named staff member's address | Skipped |
 | 9 | Alzheimer's Association West Territory, "Click & Go Online Activities" | Games section has two general links | No contact on page | Find the chapter contact |
-| 10 | Lone Star Neurology, "10 Best Mobile Apps for Dementia Patients" (2024) | Score-based apps only | Contact form | Form; needs approval |
-| 11 | Caring Village, "8 Best Dementia Caregiver Apps for 2026" | No free Android shared-activity app | Contact form | Form; needs approval |
+| 10 | Lone Star Neurology, "10 Best Mobile Apps for Dementia Patients" (2024) | Score-based apps only | Contact form (reCAPTCHA) | Maintainer to submit |
+| 11 | Caring Village, "8 Best Dementia Caregiver Apps for 2026" | No free Android shared-activity app | Contact form (CAPTCHA) | Maintainer to submit |
 
 Not pursued: Sixty and Me (guest posts only), NAAP partner listings (paid),
 ORCHA app libraries (they choose apps themselves), pages last updated in 2020.
@@ -63,20 +63,20 @@ they lack: printable picture bingo, the cited caregiver guides, Photo pairs.
 
 | # | Page | Gap | Contact | Status |
 | --- | --- | --- | --- | --- |
-| 12 | California Dept. of Aging, "Online Activities for People with Dementia and Care Partners" (PDF, 2026-09) | Games are general-audience (chess, Scrabble, jigsaw) | aging.ca.gov contact page | Form; needs approval |
-| 13 | Alzheimer's New Jersey, Virtual Activity List (2024 PDF) | General jigsaw and coloring sites | alznj.org contact page | Form; needs approval |
+| 12 | California Dept. of Aging, "Online Activities for People with Dementia and Care Partners" (PDF, 2026-09) | Games are general-audience (chess, Scrabble, jigsaw) | aging.ca.gov contact page | Form has a CAPTCHA; maintainer to submit |
+| 13 | Alzheimer's New Jersey, Virtual Activity List (2024 PDF) | General jigsaw and coloring sites | info@alznj.org | Sent 2026-10-25 |
 | 14 | Topsfield MA Council on Aging, Dementia Friendly Topsfield Virtual Resource Guide | Asks readers for suggestions; no dementia-specific games | Site blocks automated checks; contact unverified | Check by hand |
-| 15 | Prince William County VA Area Agency on Aging, Virtual Resources | "Games" section is general puzzles | pwcva.gov contact page | Form; needs approval |
+| 15 | Prince William County VA Area Agency on Aging, Virtual Resources | "Games" section is general puzzles | pwaaa@pwcgov.org | Sent 2026-10-25 |
 | 16 | Montgomery County MD HHS, "Thrive at Home" | "Things to Do Together at Home" has no game | Published site-edits address of a named staff member | Sent 2026-10-25 |
 | 17 | Alzheimer's San Diego, "How to Plan Meaningful Activities" (Mar 2026) | At-home list has a weekly crossword, no large-print or picture games | info@alzsd.org | Sent 2026-10-25 |
-| 18 | St. John's Dementia Resource Center, Rochester NY, games and technology page (2020) | Lists "finish the phrase" and matching ideas, no free online versions | Contact form | Form; needs approval |
-| 19 | Washington County Library, Memory Maker Kit guide (PDF) | "Online Memory Games" are Lumosity, AARP, BrightFocus | Library contact page | Form; needs approval |
-| 20 | California Association of Health Facilities, Virtual Resources for Activity Directors (PDF) | No picture bingo | cahf.org contact | Form; needs approval |
+| 18 | St. John's Dementia Resource Center, Rochester NY, games and technology page (2020) | Later-stage list has Finish the Phrase, matching games and few-piece jigsaws, no online versions | info@stjohnsliving.org | Drafted; sending was blocked by the session's permission check |
+| 19 | Washington County Library, Memory Maker Kit guide (PDF) | "Online Memory Games" are Lumosity, AARP, BrightFocus | Library site would not load for automation | Maintainer to contact |
+| 20 | California Association of Health Facilities, Virtual Resources for Activity Directors (PDF) | No picture bingo | cahf.org contact form | Form submitted 2026-10-25 |
 | 21 | Rochester Public Library, Memory Care Collection | Physical kits only; stresses no competition | extension@libraryweb.org | Sent 2026-10-25 |
-| 22 | Mississippi Library Commission, memory loss resource guide (Jun 2026) | No free activity site | mlc.lib.ms.us contact | Form; needs approval |
+| 22 | Mississippi Library Commission, memory loss resource guide (Jun 2026) | No free activity site | mlc.lib.ms.us contact | Not contacted |
 | 23 | Illinois Cognitive Resources Network, Library Support page | Library programs, no free printables | info@ilbrainhealth.org | Sent 2026-10-25 |
-| 24 | Dementia Friendly America, Memory Café Resources | Facilitation resources only | dfamerica.org contact page | Form; needs approval |
-| 25 | Utah DHHS, Caregiver support and resources | Has a public "suggest an addition" form | Qualtrics form on page | Form; needs approval |
+| 24 | Dementia Friendly America, Memory Café Resources | Facilitation resources only | dfamerica.org contact form | Form has a CAPTCHA; maintainer to submit |
+| 25 | Utah DHHS, Caregiver support and resources | Has a public "suggest an addition" form | Qualtrics form on page | Form submitted 2026-10-25 |
 
 Lower value (2020 lists, possibly unmaintained): Long Island Alzheimer's and
 Dementia Center, Orange County NC aging services, Alzheimer's Orange County.
@@ -236,10 +236,37 @@ Golden Moments · https://dementiaactivities.games
 | --- | --- | --- | --- |
 | 2026-10-25 | 1–5 | Approved and sent from the maintainer's personal Gmail | Awaiting replies; one follow-up allowed after 2026-11-08 |
 | 2026-10-25 | 6–9 | Approved and sent after the two pages were deployed | Awaiting replies; one follow-up allowed after 2026-11-08 |
+| 2026-10-25 | Utah DHHS, This Insidious Dementia, CAHF | Resource suggestions submitted through their forms (confirmation shown) | Awaiting replies |
+| 2026-10-25 | Prince William AAA, Alzheimer's New Jersey | Emails sent | Awaiting replies |
+| 2026-10-25 | Montgomery County MD | Out-of-office auto-reply received | Recheck after follow-up date |
+| 2026-10-25 | Owned links | Old site notice live; GitHub homepages set; PR #93 merged | Done |
 
 ## Next actions
 
 1. 2026-11-08: one short follow-up to anyone who has not replied, then stop.
-2. Contact-form prospects (#6–8, #10–13, #15, #18–20, #22, #24, #25): these need a name and email typed into each site's form; get the maintainer's go-ahead for that channel.
-3. Owned links: merge PR #93, add a moved notice to the old GitHub Pages site, set the GitHub repository homepage.
+2. Left for the maintainer: forms behind CAPTCHAs (California Dept. of Aging, Dementia Friendly America, Caring Village, Ultimate Care NY, Lone Star Neurology), Washington County Library, Mississippi Library Commission, and the St. John's email drafted in the log. Topsfield's site blocks automated access.
+3. Owned links: done, except the store consoles, which update with the next release submission.
 4. When a link goes live, record it here with the date, and check it in Search Console's Links report.
+
+## Ready to send by hand
+
+### St. John's Dementia Resource Center (info@stjohnsliving.org)
+
+**Free online versions of the later-stage games on your Dementia Resource Center page**
+
+Hello,
+
+I read "Games, activities, and useful technology for caregivers at home" on your Dementia Resource Center site. Its later-stage list includes Finish the Phrase, matching games and jigsaw puzzles with very few pieces. Our free site has simple online versions of all three, made for people living with dementia:
+
+Finish the saying: https://dementiaactivities.games/games/finish-the-saying/
+Picture pairs (matching): https://dementiaactivities.games/games/picture-pairs/
+Picture puzzle (4 or 9 pieces): https://dementiaactivities.games/games/picture-puzzle/
+
+They work on a tablet or phone, with large pictures and no sign-up, ads, timers or scores. If they would help families using your page, we would be glad to be linked.
+
+James Le
+Golden Moments · https://dementiaactivities.games
+
+### Short message for CAPTCHA forms (adapt the first sentence to each page)
+
+Hello, I read your page on [page name]. If you update it, you might add a free site made for people living with dementia: https://dementiaactivities.games. It has gentle picture games with pictures left showing, an easy 4- or 9-piece jigsaw, and printables such as picture bingo and a large-print word search, all with no sign-up, ads, timers or scores. A short description for resource lists is at https://dementiaactivities.games/for-organizations/. Thank you. James Le, Golden Moments
