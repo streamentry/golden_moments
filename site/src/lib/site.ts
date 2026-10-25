@@ -13,8 +13,8 @@ export const SITE = {
   /** Production listing for the Android package com.mindfulness.golden_moments. */
   playStoreUrl: 'https://play.google.com/store/apps/details?id=com.mindfulness.golden_moments',
   appPrivacyUrl: 'https://streamentry.github.io/golden-moments-web/app-privacy/',
-  /** Support address published in the mobile app's Help page. */
-  supportEmail: 'apple@locuno.com',
+  /** Public contact for the website, chosen by the maintainer on 2026-10-25. */
+  supportEmail: 'web@dementiaactivities.games',
   updated: '2026-10-25',
 } as const;
 

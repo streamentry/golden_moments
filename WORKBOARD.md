@@ -34,7 +34,7 @@ Astro + React + TanStack Store site in `site/`, built as static files for Cloudf
 | Exceptions recorded | Calm breathing is the one paced activity (stops on a tap or after six breaths), recorded in `DESIGN.md` |
 | Deployment | Not deployed. Needs maintainer `wrangler login`, `pnpm deploy`, www→apex redirect rule, Search Console and Bing verification |
 
-Open items for the maintainer: legal review of the website privacy notice and terms; confirm `apple@locuno.com` as the public contact; the Play listing link points at the existing package while 1.4.0 awaits review.
+Open items for the maintainer: legal review of the website privacy notice and terms; make sure `web@dementiaactivities.games` (the website contact) receives mail, for example with Cloudflare Email Routing; the Play listing link points at the existing package while 1.4.0 awaits review.
 
 ## Next in order
 
