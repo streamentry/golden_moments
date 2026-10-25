@@ -70,14 +70,21 @@ python3 scripts/make-images.py
 
 Deploying is a maintainer action; nothing here deploys automatically.
 
-1. `pnpm exec wrangler login` with the Cloudflare account that owns
-   `dementiaactivities.games`.
-2. `pnpm deploy` (build, checks, then `wrangler deploy`). `wrangler.jsonc`
-   attaches the apex domain as a Workers custom domain.
-3. In the Cloudflare dashboard, add a redirect rule from
+Currently deployed (2026-10-25) to the RunLumi account at
+<https://dementia-activities-games.4rqnf2gvxf.workers.dev>, because
+`dementiaactivities.games` was not yet registered.
+
+1. Register `dementiaactivities.games` and add it as a zone in the same
+   Cloudflare account.
+2. In `wrangler.jsonc`, add back
+   `"routes": [{ "pattern": "dementiaactivities.games", "custom_domain": true }]`.
+3. `pnpm deploy` (build, checks, then `wrangler deploy`) while logged in with
+   `pnpm exec wrangler login`.
+4. In the Cloudflare dashboard, add a redirect rule from
    `www.dementiaactivities.games/*` to `https://dementiaactivities.games/${1}`
    (301), so there is one canonical host.
-4. Verify the domain in Google Search Console and Bing Webmaster Tools and
+5. Set up Email Routing so `web@dementiaactivities.games` reaches a real inbox.
+6. Verify the domain in Google Search Console and Bing Webmaster Tools and
    submit `https://dementiaactivities.games/sitemap-index.xml`.
 
 Nothing runs server side: Workers serves the static files in `dist/`, applies

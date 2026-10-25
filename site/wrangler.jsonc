@@ -9,8 +9,9 @@
     "html_handling": "auto-trailing-slash",
     "not_found_handling": "404-page"
   },
-  "routes": [
-    { "pattern": "dementiaactivities.games", "custom_domain": true }
-  ],
+  // Served at the account's workers.dev address until dementiaactivities.games
+  // is registered. Then add the custom domain back:
+  //   "routes": [{ "pattern": "dementiaactivities.games", "custom_domain": true }]
+  "workers_dev": true,
   "observability": { "enabled": false }
 }
