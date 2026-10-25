@@ -16,6 +16,9 @@
   font-weight: 700;
   margin-bottom: var(--space-md);
 }
+.game__board {
+  min-height: 18rem;
+}
 .game__message {
   min-height: 1.6em;
   margin: var(--space-md) 0;
@@ -494,6 +497,13 @@
   background: var(--gm-surface);
   border: 2px dashed var(--gm-outline);
   border-radius: var(--radius-lg);
+}
+.photo-pick label.btn {
+  position: relative;
+}
+.photo-pick label.btn:has(input:focus-visible) {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 3px;
 }
 .photo-pick input[type='file'] {
   position: absolute;

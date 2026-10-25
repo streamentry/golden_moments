@@ -24,7 +24,7 @@ export default function PicturePairs() {
   const [message, setMessage] = useState('');
   const [done, setDone] = useState(false);
 
-  // Picture ids are chosen once per round; sky pictures stay out of tiny boards for variety.
+  // A fresh set of pictures each round.
   const values = useMemo(
     () => sample(PICTURES.map((p) => p.id), size / 2, createRng(randomSeed())),
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -39,7 +39,7 @@ export default function PicturePairs() {
   return (
     <GameFrame
       guidance={view === 'showing' ? 'Tap a picture, then tap the one that matches it.' : 'Tap two tiles to turn them over. Look for two the same.'}
-      message={done ? '' : message}
+      message={message}
       onRestart={restart}
       restartLabel="New pictures"
       options={
@@ -50,8 +50,7 @@ export default function PicturePairs() {
       }
       footer={
         done ? (
-          <div className="game__done" role="status">
-            <p>All pairs together. Play again or take a break.</p>
+          <div className="game__done">
             <div className="btn-row">
               <button type="button" className="btn btn--primary" onClick={restart}>
                 Play again with new pictures

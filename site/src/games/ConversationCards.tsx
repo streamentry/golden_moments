@@ -47,7 +47,7 @@ export default function ConversationCards() {
           </div>
         }
       >
-        <article className="talk-card" aria-live="polite">
+        <article className="talk-card">
           <img src={pictureUrl(card.picture)} alt={pictureName(card.picture)} width={220} height={220} />
           <div>
             <p className="talk-card__theme">{themeLabel(card.theme)}</p>

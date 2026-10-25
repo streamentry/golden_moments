@@ -26,7 +26,7 @@ export default function PictureBingo() {
   const [squares, setSquares] = useState<number>(9);
   const [players, setPlayers] = useState<number>(8);
   const [cards, setCards] = useState<string[][]>([]);
-  const [calls, setCalls] = useState<string[]>([]);
+  const [calls, setCalls] = useState<string[]>(() => createCallOrder(POOL, createRng(randomSeed())));
   const [called, setCalled] = useState(0);
 
   useEffect(() => {
@@ -37,7 +37,6 @@ export default function PictureBingo() {
     setCalls(createCallOrder(POOL, createRng(randomSeed())));
     setCalled(0);
   };
-  useEffect(newGame, []);
 
   const current = called > 0 ? calls[called - 1] : undefined;
   const next = () => {
@@ -77,7 +76,7 @@ export default function PictureBingo() {
           ) : (
             <p className="caller__name">Ready when you are</p>
           )}
-          <button type="button" className="btn btn--primary btn--hero" onClick={next} disabled={called >= calls.length}>
+          <button type="button" className="btn btn--primary btn--hero" onClick={next} aria-disabled={called >= calls.length}>
             {called >= calls.length ? 'Every picture has been called' : 'Next picture'}
           </button>
           {called > 1 ? (

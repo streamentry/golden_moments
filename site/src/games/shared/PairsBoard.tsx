@@ -62,7 +62,10 @@ export function PairsBoard({ values, hidden, photos = false, round, onMessage, o
         onMessage(photos ? 'A pair of photos, together.' : `Two pictures of the ${pictureName(v).toLowerCase()}, together.`);
       }
     } else if (after.mismatch) {
-      onMessage('Take your time. Tap a picture to continue.');
+      // With hidden tiles a screen reader user cannot see what turned over, so name both.
+      const [a, b] = after.mismatch;
+      const names = hidden ? `${label(after.tiles[a]?.value ?? '')} and ${label(after.tiles[b]?.value ?? '')}. ` : '';
+      onMessage(`${names}Take your time. Tap a picture to continue.`);
     } else {
       sounds.tap();
       const v = after.tiles[i]?.value ?? '';

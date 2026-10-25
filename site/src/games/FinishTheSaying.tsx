@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { SAYINGS, type Saying } from '../data/sayings';
 import { createRng, randomSeed, shuffle } from '../lib/games/random';
 import { GameFrame } from './shared/GameFrame';
@@ -10,6 +10,8 @@ export default function FinishTheSaying() {
   const [choices, setChoices] = useState<string[]>([]);
   const [revealed, setRevealed] = useState(false);
   const [message, setMessage] = useState('');
+  // The choice buttons disappear once answered, so focus moves to Next saying.
+  const nextButton = useRef<HTMLButtonElement>(null);
 
   useEffect(() => {
     setDeck(shuffle(SAYINGS, createRng(randomSeed())));
@@ -28,6 +30,7 @@ export default function FinishTheSaying() {
   const choose = (word: string) => {
     if (revealed) return;
     setRevealed(true);
+    nextButton.current?.focus();
     if (word === saying.end) {
       sounds.match();
       setMessage(`Yes, "${saying.start} ${saying.end}."`);
@@ -39,6 +42,7 @@ export default function FinishTheSaying() {
 
   const reveal = () => {
     setRevealed(true);
+    nextButton.current?.focus();
     setMessage(`The saying is "${saying.start} ${saying.end}."`);
   };
 
@@ -72,7 +76,7 @@ export default function FinishTheSaying() {
         )}
       </div>
       <div className="btn-row btn-row--center">
-        <button type="button" className={revealed ? 'btn btn--primary btn--hero' : 'btn'} onClick={next}>
+        <button ref={nextButton} type="button" className={revealed ? 'btn btn--primary btn--hero' : 'btn'} onClick={next}>
           Next saying
         </button>
       </div>

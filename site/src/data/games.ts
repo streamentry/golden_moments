@@ -43,6 +43,16 @@ export const STAGE_LABEL: Record<Stage, string> = {
   late: 'Later stage',
 };
 
+/**
+ * A suitability hint, never a promise: "Often suits early and middle stages".
+ * People differ more than stages do.
+ */
+export function stageHint(stages: readonly Stage[]): string {
+  const words = stages.map((s) => ({ early: 'early', middle: 'middle', late: 'later' })[s]);
+  const list = words.length > 1 ? `${words.slice(0, -1).join(', ')} and ${words[words.length - 1]}` : words[0];
+  return `Often suits ${list} stage${words.length > 1 ? 's' : ''}`;
+}
+
 const NO_PRESSURE_FAQ: FaqItem = {
   q: 'Is there a timer or a score?',
   a: 'No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish.',
@@ -446,7 +456,7 @@ export const GAMES: readonly GameInfo[] = [
     seoTitle: 'A Calm Breathing Pause for Seniors and Caregivers',
     h1: 'A Calm Breathing Pause',
     description:
-      'A slow, quiet breathing pause to share: a gentle circle grows and shrinks while you breathe in and out together. You start it, and you can stop any time.',
+      'A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.',
     short: 'A slow circle to breathe along with. Start and stop when you like.',
     cardPictures: ['moon', 'sun', 'potted-plant'],
     stages: ['early', 'middle', 'late'],
@@ -458,7 +468,7 @@ export const GAMES: readonly GameInfo[] = [
       'Sit comfortably side by side.',
       'Choose a pace: slow or gentle.',
       'Tap "Start". Breathe in while the circle grows, and out while it shrinks.',
-      'Tap "Stop" whenever you like.',
+      'It stops by itself after six breaths, or tap "Stop" whenever you like.',
     ],
     tips: [
       'Hold hands or rest a hand on the person\'s arm if that is welcome.',
@@ -472,7 +482,7 @@ export const GAMES: readonly GameInfo[] = [
       },
       {
         q: 'Does the circle move without me starting it?',
-        a: 'No. Nothing moves until you tap Start, and it stops when you tap Stop. If your device is set to reduce motion, the words change without the circle growing.',
+        a: 'No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing.',
       },
       FREE_FAQ,
     ],

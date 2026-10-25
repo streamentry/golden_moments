@@ -6,7 +6,7 @@ import Faq from '../../components/Faq.astro';
 import GameCard from '../../components/GameCard.astro';
 import Icon from '../../components/Icon.astro';
 import { getEntry } from 'astro:content';
-import { GAMES, STAGE_LABEL, type GameInfo } from '../../data/games';
+import { GAMES, stageHint, type GameInfo } from '../../data/games';
 import { breadcrumbs, faqPage, game as gameSchema } from '../../lib/schema';
 import '../../styles/games.css';
 import PicturePairs from '../../games/PicturePairs';
@@ -20,6 +20,8 @@ import ConversationCards from '../../games/ConversationCards';
 import PhotoPairs from '../../games/PhotoPairs';
 import PictureBingo from '../../games/PictureBingo';
 import CalmBreathing from '../../games/CalmBreathing';
+
+const NON_GAMES = new Set(['calm-breathing', 'conversation-cards']);
 
 export const getStaticPaths = (() => GAMES.map((g) => ({ params: { slug: g.slug }, props: { game: g } }))) satisfies GetStaticPaths;
 
@@ -44,11 +46,12 @@ const guides = (
 
 const ogImage = `/og/games/${game.slug}.png`;
 const jsonLd = [
-  gameSchema({ path, name: game.name, description: game.description, image: ogImage }),
+  gameSchema({ path, name: game.name, description: game.description, image: ogImage, isGame: !NON_GAMES.has(game.slug) }),
   breadcrumbs(crumbs),
   faqPage(game.faq),
 ];
 const s = game.slug;
+
 ---
 <BaseLayout title={game.seoTitle} description={game.description} image={ogImage} imageAlt={`${game.name}: large, friendly pictures`} jsonLd={jsonLd}>
   <Breadcrumbs items={crumbs} />
@@ -80,7 +83,7 @@ const s = game.slug;
         <h2 id="about-game">About {game.name.toLowerCase()}</h2>
         <p>{game.intro}</p>
         <ul class="tag-list" aria-label="About this game">
-          {game.stages.map((st) => <li class="tag">{STAGE_LABEL[st]}</li>)}
+          <li class="tag">{stageHint(game.stages)}</li>
           <li class="tag">{game.players}</li>
           <li class="tag">No timer or score</li>
           {game.printable && <li class="tag"><Icon name="print" size={18} />Printable</li>}

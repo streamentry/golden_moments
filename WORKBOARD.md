@@ -29,8 +29,9 @@ Astro + React + TanStack Store site in `site/`, built as static files for Cloudf
 | 11 browser games (picture pairs, find the same, sort together, picture puzzle, finish the saying, word search, coloring, conversation cards, photo pairs, picture bingo, calm breathing) | Implemented; logic unit tests pass; every game exercised in the built-in browser under the Workers runtime at 375px and desktop; no device, screen-reader or caregiver testing |
 | 35 sourced guides (16 activities, 7 caregiving, 10 brain health incl. prevention and fasting) | Written with cited, opened sources; brain-health pages carry a health notice; not reviewed by a clinician (the editorial policy says so) |
 | SEO/GEO: titles, descriptions, canonicals, JSON-LD, sitemap, robots, `llms.txt`, `llms-full.txt`, share images | Implemented; `scripts/check-site.mjs` passes with 0 errors |
-| Privacy: no analytics, ads or cookies; photo pairs is local only | Implemented; photo pairs made no network requests after photos were chosen (browser check) |
-| Accessibility | axe-core (WCAG 2.2 AA + best practice): no violations on the 11 pages scanned; no assistive-technology user testing |
+| Privacy: no analytics, ads or cookies; photo pairs is local only | Implemented; photo pairs made no network requests after photos were chosen, and the `_headers` CSP (`connect-src 'self'`) blocked a test request to another site |
+| Accessibility | axe-core (WCAG 2.2 AA + best practice): no violations on the 11 pages scanned. Independent code review fixes applied (picker focus ring, focus after answers, one completion live region, word-search arrow keys and 48px cells, 48px footer links). No assistive-technology user testing |
+| Exceptions recorded | Calm breathing is the one paced activity (stops on a tap or after six breaths), recorded in `DESIGN.md` |
 | Deployment | Not deployed. Needs maintainer `wrangler login`, `pnpm deploy`, www→apex redirect rule, Search Console and Bing verification |
 
 Open items for the maintainer: legal review of the website privacy notice and terms; confirm `apple@locuno.com` as the public contact; the Play listing link points at the existing package while 1.4.0 awaits review.

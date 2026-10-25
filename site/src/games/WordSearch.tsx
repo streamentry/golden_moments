@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState, type KeyboardEvent } from 'react';
 import { WORD_THEMES } from '../data/wordthemes';
 import { createRng, randomSeed, sample } from '../lib/games/random';
 import { cellsOf, createWordSearch, wordBetween, type WordGrid } from '../lib/games/wordsearch';
@@ -6,11 +6,19 @@ import { ChoiceChips } from './shared/ChoiceChips';
 import { GameFrame } from './shared/GameFrame';
 import { Icon } from './shared/Icon';
 import { sounds } from './shared/sound';
+import { useWide } from './shared/useWide';
 
 const SIZES = [
   { value: 6, label: '6 by 6 (4 words)' },
   { value: 8, label: '8 by 8 (6 words)' },
 ] as const;
+
+const MOVES: Record<string, [number, number]> = {
+  ArrowUp: [-1, 0],
+  ArrowDown: [1, 0],
+  ArrowLeft: [0, -1],
+  ArrowRight: [0, 1],
+};
 
 const WORDS_FOR: Record<number, number> = { 6: 4, 8: 6 };
 
@@ -22,16 +30,23 @@ export default function WordSearch() {
   const [start, setStart] = useState<[number, number] | null>(null);
   const [found, setFound] = useState<string[]>([]);
   const [message, setMessage] = useState('');
+  // One tab stop for the grid; arrow keys move between letters.
+  const [cursor, setCursor] = useState<[number, number]>([0, 0]);
+  const cells = useRef(new Map<string, HTMLButtonElement>());
+  // 8 by 8 letters only stay 48px or larger on wider screens.
+  const wide = useWide(560);
+  const effectiveSize = wide ? size : 6;
 
   useEffect(() => {
     const t = WORD_THEMES.find((w) => w.value === theme) ?? WORD_THEMES[0]!;
     const rng = createRng(randomSeed());
-    const words = sample(t.words, WORDS_FOR[size] ?? 4, rng);
-    setGrid(createWordSearch(words, size, rng));
+    const words = sample(t.words, WORDS_FOR[effectiveSize] ?? 4, rng);
+    setGrid(createWordSearch(words, effectiveSize, rng));
     setStart(null);
     setFound([]);
+    setCursor([0, 0]);
     setMessage('');
-  }, [theme, size, round]);
+  }, [theme, effectiveSize, round]);
 
   if (!grid) return null;
 
@@ -68,6 +83,16 @@ export default function WordSearch() {
     }
   };
 
+  const onKey = (e: KeyboardEvent, r: number, c: number) => {
+    const move = MOVES[e.key];
+    if (!move) return;
+    e.preventDefault();
+    const nr = Math.min(grid.size - 1, Math.max(0, r + move[0]));
+    const nc = Math.min(grid.size - 1, Math.max(0, c + move[1]));
+    setCursor([nr, nc]);
+    cells.current.get(`${nr}-${nc}`)?.focus();
+  };
+
   const allFound = found.length === grid.words.length;
   return (
     <>
@@ -79,7 +104,7 @@ export default function WordSearch() {
         options={
           <>
             <ChoiceChips legend="Theme" choices={WORD_THEMES} value={theme} onChange={setTheme} />
-            <ChoiceChips legend="Grid size" choices={SIZES} value={size} onChange={setSize} />
+            {wide ? <ChoiceChips legend="Grid size" choices={SIZES} value={size} onChange={setSize} /> : null}
           </>
         }
         footer={
@@ -91,7 +116,7 @@ export default function WordSearch() {
           </div>
         }
       >
-        <div className="ws" role="group" aria-label={`Letter grid, ${grid.size} rows of ${grid.size} letters`} data-size={grid.size}>
+        <div className="ws" role="group" aria-label={`Letter grid, ${grid.size} rows of ${grid.size} letters. Use the arrow keys to move between letters.`} data-size={grid.size}>
           {grid.cells.map((row, r) => (
             <div key={r} className="ws__row">
               {row.map((ch, c) => {
@@ -104,6 +129,13 @@ export default function WordSearch() {
                     className={`ws__cell${isStart ? ' ws__cell--start' : ''}${foundCells.has(key) ? ' ws__cell--found' : ''}`}
                     aria-label={`${ch}, row ${r + 1}, column ${c + 1}${foundCells.has(key) ? ', part of a found word' : ''}`}
                     aria-pressed={isStart}
+                    tabIndex={cursor[0] === r && cursor[1] === c ? 0 : -1}
+                    ref={(el) => {
+                      if (el) cells.current.set(key, el);
+                      else cells.current.delete(key);
+                    }}
+                    onFocus={() => setCursor([r, c])}
+                    onKeyDown={(e) => onKey(e, r, c)}
                     onClick={() => tap(r, c)}
                   >
                     {ch}

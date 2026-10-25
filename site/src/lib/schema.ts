@@ -67,6 +67,7 @@ export interface ArticleInput {
   title: string;
   description: string;
   updated: Date;
+  published?: Date;
   image: string;
   section: string;
   citations: { title: string; url: string }[];
@@ -83,7 +84,7 @@ export function article(input: ArticleInput): Node {
     mainEntityOfPage: absoluteUrl(input.path),
     image: absoluteUrl(input.image),
     dateModified: input.updated.toISOString().slice(0, 10),
-    datePublished: input.updated.toISOString().slice(0, 10),
+    datePublished: (input.published ?? input.updated).toISOString().slice(0, 10),
     inLanguage: 'en-US',
     isAccessibleForFree: true,
     author: { '@id': ORG_ID },
@@ -98,6 +99,8 @@ export function article(input: ArticleInput): Node {
 
 export interface GameInput {
   path: string;
+  /** False for activities that are not games, such as a breathing pause. */
+  isGame: boolean;
   name: string;
   description: string;
   image: string;
@@ -105,15 +108,14 @@ export interface GameInput {
 
 export function game(input: GameInput): Node {
   return {
-    '@type': ['VideoGame', 'WebApplication'],
+    '@type': input.isGame ? ['VideoGame', 'WebApplication'] : 'WebApplication',
     '@id': `${absoluteUrl(input.path)}#game`,
     name: input.name,
     description: input.description,
     url: absoluteUrl(input.path),
     image: absoluteUrl(input.image),
-    applicationCategory: 'GameApplication',
-    genre: ['Casual', 'Puzzle'],
-    gamePlatform: 'Web browser',
+    applicationCategory: input.isGame ? 'GameApplication' : 'LifestyleApplication',
+    ...(input.isGame ? { genre: ['Casual', 'Puzzle'], gamePlatform: 'Web browser' } : {}),
     operatingSystem: 'Any',
     browserRequirements: 'Requires JavaScript',
     inLanguage: 'en-US',

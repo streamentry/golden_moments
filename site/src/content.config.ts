@@ -26,6 +26,8 @@ const guides = defineCollection({
     description: z.string().min(110).max(165),
     section: z.enum(SECTIONS),
     order: z.number().int(),
+    /** First publication; defaults to `updated` for pages published once. */
+    published: z.coerce.date().optional(),
     updated: z.coerce.date(),
     summary: z.string().min(80).max(420),
     keyPoints: z.array(z.string()).min(3).max(6),

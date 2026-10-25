@@ -40,6 +40,9 @@ pnpm preview             # serves dist/ with the real Workers runtime, headers a
 
 ## Rules that are easy to break
 
+- **Two CSPs apply.** Astro emits a hash-based `<meta>` policy for scripts and
+  styles; `public/_headers` adds a response policy that allows network
+  requests only to this site. Keep both when adding features.
 - **No inline `style` attributes.** The build emits a hash-based Content
   Security Policy, which blocks them. Use a class or a `data-` attribute.
   `check-site.mjs` fails the build if one appears.
