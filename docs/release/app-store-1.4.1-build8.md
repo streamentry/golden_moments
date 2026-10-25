@@ -1,9 +1,12 @@
 # iOS 1.4.1 build 8 release record
 
 **State (2026-10-25):** build 8 is uploaded, processed as `VALID` and attached
-to App Store Connect version 1.4.1, which is in a draft review submission.
-The final **Submit for Review** click was left to the maintainer. This is not
-Apple approval or storefront availability.
+to App Store Connect version 1.4.1. The maintainer submitted it for review:
+submission `978c3498-fdc1-4076-9485-3271be222960`, submitted Oct 25, 2026 at
+7:02 PM (App Store Connect local time), read back as **Waiting for Review**
+with 1.4.1 (8) as its only item. 1.4.0 stays Ready for Distribution until
+1.4.1 is approved and released automatically. This is not Apple approval or
+storefront availability.
 
 ## Why this release
 
