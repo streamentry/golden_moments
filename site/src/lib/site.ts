@@ -14,6 +14,8 @@ export const SITE = {
   playStoreUrl: 'https://play.google.com/store/apps/details?id=com.mindfulness.golden_moments',
   /** Public contact for the website, chosen by the maintainer on 2026-10-25. */
   supportEmail: 'web@dementiaactivities.games',
+  /** Google Analytics 4 web stream, added by the maintainer on 2026-10-25. */
+  gaMeasurementId: 'G-X4CNGM5F8Z',
   updated: '2026-10-25',
 } as const;
 

@@ -53,7 +53,7 @@ const jsonLd = [
 const s = game.slug;
 
 ---
-<BaseLayout title={game.seoTitle} description={game.description} image={ogImage} imageAlt={`${game.name}: large, friendly pictures`} jsonLd={jsonLd}>
+<BaseLayout title={game.seoTitle} description={game.description} image={ogImage} imageAlt={`${game.name}: large, friendly pictures`} jsonLd={jsonLd} analytics={s !== 'photo-pairs'}>
   <Breadcrumbs items={crumbs} />
   <div class="container">
     <header class="page-head page-head--game">

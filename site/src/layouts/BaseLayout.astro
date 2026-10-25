@@ -5,6 +5,7 @@ import '../styles/components.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import JsonLd from '../components/JsonLd.astro';
+import Analytics from '../components/Analytics.astro';
 import { SITE, absoluteUrl } from '../lib/site';
 
 interface Props {
@@ -17,6 +18,8 @@ interface Props {
   type?: 'website' | 'article';
   jsonLd?: Record<string, unknown>[];
   noindex?: boolean;
+  /** False on pages that handle family photos, which allow no third-party scripts. */
+  analytics?: boolean;
 }
 
 const {
@@ -28,6 +31,7 @@ const {
   type = 'website',
   jsonLd = [],
   noindex = false,
+  analytics = true,
 } = Astro.props;
 
 const fullTitle = rawTitle ? title : `${title}${SITE.titleSuffix}`;
@@ -38,6 +42,7 @@ const ogImage = absoluteUrl(image);
 <html lang="en-US">
   <head>
     <meta charset="utf-8" />
+    {analytics && <Analytics />}
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{fullTitle}</title>
     <meta name="description" content={description} />

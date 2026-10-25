@@ -49,8 +49,11 @@ pnpm preview             # serves dist/ with the real Workers runtime, headers a
 - **Every picture is drawn in `src/data/pictures.ts`.** Do not add third-party
   images without recording their rights. The app's catalog photos are not
   cleared for the website.
-- **No analytics, ads, cookies or tracking.** The privacy page says so. Adding
-  any would need a documented decision and a privacy-page update first.
+- **Google Analytics 4 is the only analytics.** The maintainer approved it on
+  2026-10-25 (`src/components/Analytics.astro`, ID in `src/lib/site.ts`), with
+  Google signals and ad personalization off. It is not loaded on Photo pairs,
+  which keeps a no-third-party CSP. No ads, and no other tracking, cookies or
+  analytics without a documented decision and a privacy-page update first.
 - **No timers, scores, streaks or quizzing**, in games or copy. Health pages use
   risk language and cite sources; see `CONTENT_GUIDE.md`.
 - **Photo pairs never uploads.** Photos become object URLs in the tab only.
@@ -102,7 +105,7 @@ Cloudflare account. The `workers.dev` address is turned off.
   (only needed if it changes).
 - **No injected scripts:** `Cache-Control: no-transform` in `public/_headers`
   stops Cloudflare from injecting its Web Analytics beacon, and the CSP would
-  block it anyway. Keep both.
+  block it anyway. Keep both. The CSP allows only Google's GA4 domains.
 
 Still to do in the Cloudflare dashboard (the Wrangler login cannot change zone
 settings):

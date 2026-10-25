@@ -9,7 +9,10 @@ export default defineConfig({
   site: SITE_URL,
   trailingSlash: 'always',
   build: { format: 'directory', inlineStylesheets: 'auto' },
-  security: { csp: true },
+  // Hash-based meta CSP; the only outside script is the Google tag loader.
+  security: {
+    csp: { scriptDirective: { resources: ["'self'", 'https://www.googletagmanager.com'] } },
+  },
   // No code blocks on this site; Shiki's inline styles would conflict with the CSP.
   markdown: { syntaxHighlight: false },
   integrations: [
