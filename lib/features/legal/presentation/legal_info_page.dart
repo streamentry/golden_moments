@@ -6,8 +6,8 @@ import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/shared/widgets/gm_copyable_text.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-// The project path is significant on GitHub Pages. Do not strip it.
-const _site = 'https://streamentry.github.io/golden-moments-web/';
+// The website that publishes the legal pages (site/ in this repository).
+const _site = 'https://dementiaactivities.games/';
 const _appPrivacyUrl = '${_site}app-privacy/';
 const _privacyChoicesUrl = '${_site}privacy-choices/';
 const _termsUrl = '${_site}terms/';

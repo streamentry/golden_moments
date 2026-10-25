@@ -23,11 +23,11 @@ EXPECTED_URLS = {
     'https://play.google.com/store/apps/details',
     # Shown as copyable text on the Help page; the app never opens them
     # (lib/shared/utils/support_info.dart, test/support_info_test.dart).
-    'https://streamentry.github.io/golden-moments-web/help/',
-    'https://streamentry.github.io/golden-moments-web/app-privacy/',
-    'https://streamentry.github.io/golden-moments-web/terms/',
+    'https://dementiaactivities.games/help/',
+    'https://dementiaactivities.games/app-privacy/',
+    'https://dementiaactivities.games/terms/',
     # Base of the pages LegalInfoPage opens in the browser, only after a tap.
-    'https://streamentry.github.io/golden-moments-web/',
+    'https://dementiaactivities.games/',
 }
 
 
