@@ -146,7 +146,8 @@
     "xcrun",
     "MBXZKYSY",
     "audioplayers",
-    "xcarchive"
+    "xcarchive",
+    "appbundle"
   ],
   "ignorePaths": [
     "**/docs/store-description/**"
