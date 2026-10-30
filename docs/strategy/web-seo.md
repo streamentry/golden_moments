@@ -85,3 +85,21 @@ Searches that use "patients" are answered in our own words ("people living
 with dementia"), per `site/CONTENT_GUIDE.md`. In October 2026 the US results for
 printable, memory-game and trivia queries were dominated by scraped pages with
 no usable content, which is why those pages exist.
+
+## AI answer engines and app installs (2026-10-30)
+
+The owner reports a lot of traffic from ChatGPT. On 2026-10-30, OAI-SearchBot, ChatGPT-User, GPTBot, Bingbot, PerplexityBot and ClaudeBot all received HTTP 200 from the live site, and `robots.txt` allows everything, so nothing is blocked.
+
+The gap was conversion: no game page linked to the app, and guides ended with a band that keeps people in the browser. Changes:
+
+- `site/src/lib/app.ts` holds the app facts once (summary, features, requirements, FAQ). Describe only released features; keep it in step with `metadata/app-store.en-US.json`.
+- `AppCta` sits on every game page (a sidebar box, plus a band after the copy) and on every guide and section page. Photo pairs has its own wording.
+- Each game's FAQ and FAQPage data now answers "Is there an app version of this game?" honestly: yes only for Picture pairs and Photo pairs.
+- `/app/` carries full `MobileApplication` data and a six-question FAQ. `llms.txt` and `llms-full.txt` lead with an app section and both store links.
+- The apps checklist guide now discloses our own app in "Where does Golden Moments fit?".
+
+Still for the maintainer:
+
+1. **Bing Webmaster Tools:** verify the site and submit `sitemap.xml`. ChatGPT search draws on Bing's index; IndexNow pings alone do not show coverage or queries.
+2. **Install attribution:** App Store Connect › App Analytics › Campaigns gives a provider token (`pt`). With it, store links can carry `ct=web` (or `ct=chatgpt` on pages ChatGPT sends people to), so installs from the site become visible. Without it, site-to-install is unmeasured.
+3. **GA4:** compare sessions with source `chatgpt.com` against outbound clicks to apps.apple.com and play.google.com, to see whether the new app links convert.

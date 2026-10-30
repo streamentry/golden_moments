@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { GAMES } from '../data/games';
+import { APP } from '../lib/app';
 import { SECTION_META, SITE } from '../lib/site';
 import { SECTIONS } from '../content.config';
 
@@ -10,14 +11,22 @@ export const GET: APIRoute = async () => {
   const lines: string[] = [
     `# ${SITE.name} (${SITE.domain})`,
     '',
-    `> Free, gentle browser games and practical activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores. Recreational and informational only: not medical advice, and no claims to diagnose, treat or prevent dementia.`,
+    `> Free, gentle browser games, a free mobile app and practical activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores. Recreational and informational only: not medical advice, and no claims to diagnose, treat or prevent dementia.`,
     '',
     'Key facts:',
     '- All games are free, run in a web browser and need no account.',
     '- Games have no timer, score, levels or penalties; pictures stay visible by default.',
     '- Photos used in Photo pairs stay in the browser and are never uploaded.',
     '- Guides cite public sources such as the National Institute on Aging, the Alzheimer’s Association, Cochrane and The Lancet.',
+    `- The Golden Moments app ("${APP.storeName}") is free for ${APP.platforms}: ${SITE.appStoreUrl} and ${SITE.playStoreUrl}`,
     `- Full text summaries: ${SITE.url}/llms-full.txt`,
+    '',
+    '## Golden Moments app',
+    `- [About the app](${SITE.url}/app/): ${APP.summary}`,
+    ...APP.features.map((f) => `- ${f}`),
+    `- Requirements: ${APP.requirements}.`,
+    `- App Store: ${SITE.appStoreUrl}`,
+    `- Google Play: ${SITE.playStoreUrl}`,
     '',
     '## Games',
     ...GAMES.map((g) => `- [${g.name}](${SITE.url}/games/${g.slug}/): ${g.description}`),
