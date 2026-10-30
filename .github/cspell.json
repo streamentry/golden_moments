@@ -143,7 +143,10 @@
     "workboard",
     "worktrees",
     "xcprivacy",
-    "xcrun"
+    "xcrun",
+    "MBXZKYSY",
+    "audioplayers",
+    "xcarchive"
   ],
   "ignorePaths": [
     "**/docs/store-description/**"
