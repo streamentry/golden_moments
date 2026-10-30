@@ -13,6 +13,7 @@ import { breadcrumbs, faqPage, game as gameSchema } from '../../lib/schema';
 import '../../styles/games.css';
 import PicturePairs from '../../games/PicturePairs';
 import FindTheSame from '../../games/FindTheSame';
+import ShadowMatch from '../../games/ShadowMatch';
 import SortTogether from '../../games/SortTogether';
 import PicturePuzzle from '../../games/PicturePuzzle';
 import FinishTheSaying from '../../games/FinishTheSaying';
@@ -70,6 +71,7 @@ const s = game.slug;
       </noscript>
       {s === 'picture-pairs' && <PicturePairs client:load />}
       {s === 'find-the-same' && <FindTheSame client:load />}
+      {s === 'shadow-match' && <ShadowMatch client:load />}
       {s === 'sort-together' && <SortTogether client:load />}
       {s === 'picture-puzzle' && <PicturePuzzle client:load />}
       {s === 'finish-the-saying' && <FinishTheSaying client:load />}

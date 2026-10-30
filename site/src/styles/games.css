@@ -211,6 +211,15 @@
   font-weight: 700;
 }
 
+/* Shadow match: the picture without its background, darkened to a soft shadow */
+.target__print--shadow {
+  background: var(--gm-surface);
+}
+.target__print--shadow img {
+  filter: brightness(0);
+  opacity: 0.78;
+}
+
 /* Sorting baskets */
 .baskets {
   display: grid;

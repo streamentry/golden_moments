@@ -3,6 +3,7 @@ import type { FaqItem } from '../lib/schema';
 export type GameSlug =
   | 'picture-pairs'
   | 'find-the-same'
+  | 'shadow-match'
   | 'sort-together'
   | 'picture-puzzle'
   | 'finish-the-saying'
@@ -142,6 +143,47 @@ export const GAMES: readonly GameInfo[] = [
     ],
     relatedGuides: ['activities/late-stage', 'activities/alzheimers', 'caregiving/communication-tips'],
     featured: true,
+  },
+  {
+    slug: 'shadow-match',
+    name: 'Shadow match',
+    seoTitle: 'Shadow Matching Game for Dementia: Free Online',
+    h1: 'Shadow Match: a Gentle Picture Game',
+    description:
+      'A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.',
+    short: 'Look at the shadow and tap the picture that makes it.',
+    cardPictures: ['teacup', 'umbrella', 'bicycle'],
+    stages: ['early', 'middle'],
+    players: '1 or 2 people',
+    printable: false,
+    intro:
+      'Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.',
+    howTo: [
+      'Choose two, three or four pictures to pick from. Two is the simplest.',
+      'Look at the shadow together. What shape is it? Is it tall or round?',
+      'Tap the picture that makes the shadow. Its name appears under the shadow.',
+      'If a different picture is tapped, the game simply names it and waits. Take your time.',
+      'Tap "Next shadow" when you are ready for another.',
+    ],
+    tips: [
+      'Trace the outline of the shadow with a finger and talk about the shape.',
+      'If shadows feel hard today, switch to Find the same, where the pictures look alike.',
+      'Talk about the picture once it is found: "We had an umbrella like that."',
+    ],
+    faq: [
+      NO_PRESSURE_FAQ,
+      {
+        q: 'Is shadow matching good for people with dementia?',
+        a: 'It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together.',
+      },
+      {
+        q: 'What happens if the wrong picture is tapped?',
+        a: 'Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap.',
+      },
+      FREE_FAQ,
+    ],
+    relatedGuides: ['activities/puzzles', 'activities/early-stage', 'caregiving/how-to-play-together'],
+    featured: false,
   },
   {
     slug: 'sort-together',
