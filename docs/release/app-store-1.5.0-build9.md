@@ -12,7 +12,11 @@
   Managed publishing is off: Play Console showed pre-review checks running,
   after which the change goes to review and publishes on approval.
 
-Neither is store approval or availability.
+**Update (2026-10-31):** Apple approved 1.5.0 and released it automatically.
+App Store Connect reads `READY_FOR_SALE`, and the public US lookup shows
+version 1.5.0 released 2026-10-30 19:35 UTC (0 ratings at that time). Google
+Play still served 1.4.0 publicly; the Android release was not yet confirmed as
+approved.
 
 ## Why this release
 
