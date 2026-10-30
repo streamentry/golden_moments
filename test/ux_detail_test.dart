@@ -2,7 +2,6 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
@@ -11,6 +10,8 @@ import 'package:golden_moments/features/gentle_activities/presentation/gentle_ho
 import 'package:golden_moments/features/gentle_activities/presentation/picture_puzzle_page.dart';
 import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+
+import 'helpers/shipped_fonts.dart';
 
 Widget _app(Widget home, {double textScale = 1}) => MaterialApp(
   theme: gmBuildTheme(),
@@ -76,15 +77,6 @@ List<Rect> _chipRects(WidgetTester tester) => [
     tester.getRect(find.widgetWithText(ChoiceChip, label)),
 ];
 
-/// The shipped Roboto, so label widths are real rather than the test font's.
-Future<void> _loadRoboto() async {
-  final loader = FontLoader(gmFontFamily);
-  for (final weight in ['Regular', 'Medium', 'Bold']) {
-    loader.addFont(rootBundle.load('assets/fonts/Roboto-$weight.ttf'));
-  }
-  await loader.load();
-}
-
 /// True when no word in [label] is broken across two lines.
 bool _wordsWhole(WidgetTester tester, Finder label) {
   final paragraph = tester.renderObject<RenderParagraph>(
@@ -101,7 +93,8 @@ bool _wordsWhole(WidgetTester tester, Finder label) {
 }
 
 void main() {
-  setUpAll(_loadRoboto);
+  // The shipped fonts, so widths are real rather than the test font's.
+  setUpAll(loadShippedFonts);
   setUp(() => SharedPreferences.setMockInitialValues({}));
 
   group('comfort tile choices', () {

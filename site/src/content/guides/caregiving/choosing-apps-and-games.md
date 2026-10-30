@@ -4,7 +4,7 @@ seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
 description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
 section: caregiving
 order: 6
-updated: 2026-10-25
+updated: 2026-10-30
 summary: >-
   Start with what you want the app to do: gentle stimulation, reminiscence,
   calm or connection. Then pick one that fits the person's abilities today,
@@ -55,7 +55,7 @@ sources:
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/daily-care/activities"
 relatedGames: [picture-pairs, conversation-cards, photo-pairs, calm-breathing, picture-bingo]
-related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain-health/brain-games, brain-health/can-dementia-be-prevented, activities/early-stage, activities/late-stage]
+related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain-health/brain-games, brain-health/can-dementia-be-prevented, activities/early-stage, activities/late-stage, activities/memory-games]
 health: false
 ---
 
@@ -164,6 +164,8 @@ If you are unsure about a claim, ask the person's doctor.
 ## Where does Golden Moments fit?
 
 Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+
+We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
 
 We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
 

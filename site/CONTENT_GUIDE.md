@@ -135,6 +135,7 @@ Body rules:
 | --- | --- |
 | `picture-pairs` | Gentle matching pairs with large pictures; pictures can stay visible; 4–12 tiles; no timer or score |
 | `find-the-same` | One picture at the top; tap the same one below (2–4 choices) |
+| `shadow-match` | A soft shadow at the top; tap the picture that makes it (2–4 choices) |
 | `sort-together` | Tap a picture, then the basket it belongs in (kitchen/garden and other themes) |
 | `picture-puzzle` | A picture cut into 4 or 9 pieces; tap two pieces to swap them; the whole picture stays visible as a guide |
 | `finish-the-saying` | Familiar American sayings with the last word missing; tap a choice or show the ending; a talking prompt follows |

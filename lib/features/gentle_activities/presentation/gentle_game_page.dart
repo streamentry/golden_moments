@@ -203,10 +203,14 @@ class _GentleGamePageState extends State<GentleGamePage> {
       final headingTop = viewport.getOffsetToReveal(heading, 0).offset;
       final headingEnd = viewport.getOffsetToReveal(heading, 1).offset;
       final statusEnd = viewport.getOffsetToReveal(status, 1).offset;
+      // A heading taller than the viewport (large text in a short window)
+      // has headingEnd above headingTop; its top is then what stays in view.
       final target =
           (statusEnd <= headingTop
                   ? position.maxScrollExtent.clamp(statusEnd, headingTop)
-                  : position.pixels.clamp(headingEnd, headingTop))
+                  : headingEnd <= headingTop
+                  ? position.pixels.clamp(headingEnd, headingTop)
+                  : headingTop)
               .clamp(position.minScrollExtent, position.maxScrollExtent);
       if ((target - position.pixels).abs() < 0.5) return;
       if (MediaQuery.disableAnimationsOf(context)) {

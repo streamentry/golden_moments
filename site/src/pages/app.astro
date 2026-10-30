@@ -1,17 +1,10 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
+import Faq from '../components/Faq.astro';
 import Icon from '../components/Icon.astro';
-import { SITE, absoluteUrl } from '../lib/site';
-
-const appSchema = {
-  '@type': 'MobileApplication',
-  name: 'Dementia Games: Golden Moments',
-  operatingSystem: 'iOS, Android',
-  applicationCategory: 'GameApplication',
-  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
-  url: absoluteUrl('/app/'),
-  sameAs: [SITE.appStoreUrl, SITE.playStoreUrl],
-};
+import { APP, APP_FAQ, mobileApplication } from '../lib/app';
+import { faqPage } from '../lib/schema';
+import { SITE } from '../lib/site';
 ---
 <PageLayout
   title="The Golden Moments App"
@@ -20,12 +13,13 @@ const appSchema = {
   path="/app/"
   crumb="The app"
   lede="Everything you like about the website, in an app that works offline and can use family photos you choose."
-  jsonLd={[appSchema]}
+  jsonLd={[mobileApplication(), faqPage(APP_FAQ)]}
 >
   <div class="btn-row btn-row--spaced">
     <a class="btn btn--primary" href={SITE.appStoreUrl} rel="noopener"><Icon name="phone" />Get it on the App Store</a>
     <a class="btn" href={SITE.playStoreUrl} rel="noopener"><Icon name="phone" />Get it on Google Play</a>
   </div>
+  <p>{APP.summary} Works on {APP.platforms} ({APP.requirements}).</p>
   <h2>Start small</h2>
   <p>
     Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable.
@@ -52,6 +46,7 @@ const appSchema = {
     backups may include app data. Read the <a href="/app-privacy/">app privacy policy</a>, and
     <a href="/help/">app help</a> walks through each step.
   </p>
+  <Faq items={APP_FAQ} />
   <p class="muted">
     Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia
     or Alzheimer’s disease.

@@ -42,7 +42,7 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [picture-pairs, find-the-same, sort-together, picture-puzzle, finish-the-saying, word-search, coloring, conversation-cards, photo-pairs, picture-bingo, calm-breathing]
-related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving/tablets-and-screens, activities/ideas, activities/reminiscence, activities/care-home-groups]
+related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving/tablets-and-screens, activities/ideas, activities/reminiscence, activities/care-home-groups, activities/memory-games]
 health: false
 ---
 

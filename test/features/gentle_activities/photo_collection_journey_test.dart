@@ -12,6 +12,8 @@ import 'package:golden_moments/features/gentle_activities/presentation/photo_col
 import 'package:image_picker/image_picker.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import '../../helpers/shipped_fonts.dart';
+
 /// Replaces only the system picker and image decoder; storage, annotations
 /// and every screen are the real ones working on a real temporary directory.
 class _FakeImporter extends PhotoImporter {
@@ -526,14 +528,8 @@ void main() {
 
   testWidgets('at 200% text on a small phone the problem and the way '
       'forward are the first thing on screen', (tester) async {
-    // The shipped Roboto, so the layout is the real one, not the test font's.
-    await tester.runAsync(() async {
-      final roboto = FontLoader(gmFontFamily);
-      for (final weight in ['Regular', 'Medium', 'Bold']) {
-        roboto.addFont(rootBundle.load('assets/fonts/Roboto-$weight.ttf'));
-      }
-      await roboto.load();
-    });
+    // The shipped fonts, so the layout is the real one, not the test font's.
+    await tester.runAsync(loadShippedFonts);
     await tester.binding.setSurfaceSize(const Size(320, 568));
     addTearDown(() => tester.binding.setSurfaceSize(null));
     await tester.runAsync(
@@ -596,14 +592,8 @@ void main() {
     testWidgets('photo cards keep "Options" on one line at $size', (
       tester,
     ) async {
-      // The shipped Roboto, so label widths are the real ones.
-      await tester.runAsync(() async {
-        final roboto = FontLoader(gmFontFamily);
-        for (final weight in ['Regular', 'Medium', 'Bold']) {
-          roboto.addFont(rootBundle.load('assets/fonts/Roboto-$weight.ttf'));
-        }
-        await roboto.load();
-      });
+      // The shipped fonts, so label widths are the real ones.
+      await tester.runAsync(loadShippedFonts);
       await tester.binding.setSurfaceSize(size);
       addTearDown(() => tester.binding.setSurfaceSize(null));
       await tester.pumpWidget(

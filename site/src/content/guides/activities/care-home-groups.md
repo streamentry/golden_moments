@@ -47,7 +47,7 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [picture-bingo, finish-the-saying, conversation-cards, picture-pairs, word-search]
-related: [activities/music, activities/reminiscence, activities/printable, activities/late-stage, caregiving/communication-tips]
+related: [activities/music, activities/reminiscence, activities/printable, activities/late-stage, caregiving/communication-tips, activities/trivia]
 health: false
 ---
 

@@ -32,7 +32,7 @@ sources:
     url: "https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan"
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
+    url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning"
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease"
@@ -48,7 +48,7 @@ A gentle routine gives the day a familiar shape: getting up, meals, a little act
 
 ## Why does a daily routine help?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
 
 ## A sample gentle day
 

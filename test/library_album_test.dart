@@ -14,18 +14,38 @@ Widget _app(Widget child) => MaterialApp(
   ),
 );
 
-/// The picture's frame inside its card, and whether it is drawn through a
-/// rounded clip, as a print mounted in an album.
+/// The picture's frame inside its card, as a print mounted in an album
+/// (DESIGN.md › Signature details): a print-white mat with a hairline sits
+/// `sm` inside the card, and the picture sits `mat` inside it behind a
+/// rounded clip, with corners stepping down 16 → 8 → 4.
 void _expectMounted(WidgetTester tester, Finder card) {
   final cardRect = tester.getRect(card);
   final image = find.descendant(of: card, matching: find.byType(Image));
   final rect = tester.getRect(image);
-  expect(rect.left - cardRect.left, greaterThanOrEqualTo(gmSpaceSm));
-  expect(rect.top - cardRect.top, greaterThanOrEqualTo(gmSpaceSm));
+  final mat = find.ancestor(
+    of: image,
+    matching: find.byWidgetPredicate(
+      (w) =>
+          w is DecoratedBox &&
+          w.decoration is ShapeDecoration &&
+          (w.decoration as ShapeDecoration).color == gmSurfRaised,
+    ),
+  );
+  expect(mat, findsOneWidget);
+  final matRect = tester.getRect(mat);
+  expect(matRect.left - cardRect.left, greaterThanOrEqualTo(gmSpaceSm));
+  expect(matRect.top - cardRect.top, greaterThanOrEqualTo(gmSpaceSm));
+  expect(rect.left - matRect.left, greaterThanOrEqualTo(gmMatInset));
+  expect(rect.top - matRect.top, greaterThanOrEqualTo(gmMatInset));
+  final shape =
+      (tester.widget<DecoratedBox>(mat).decoration as ShapeDecoration).shape
+          as RoundedRectangleBorder;
+  expect(shape.borderRadius, BorderRadius.circular(gmRadiusMd));
+  expect(shape.side.width, 1);
   final clip = tester.widget<ClipRRect>(
     find.ancestor(of: image, matching: find.byType(ClipRRect)).first,
   );
-  expect(clip.borderRadius, BorderRadius.circular(gmRadiusMd));
+  expect(clip.borderRadius, BorderRadius.circular(gmRadiusSm));
   // Decoded at the size it is shown, not at the file's full size.
   expect(tester.widget<Image>(image).image, isA<ResizeImage>());
 }
