@@ -139,7 +139,7 @@ void main() {
       expect(theme.chipTheme.labelStyle?.fontFamily, gmFontFamily);
     });
 
-    test('both bundled families are declared with their licences', () {
+    test('both bundled families are declared with their licenses', () {
       final pubspec = File('pubspec.yaml').readAsStringSync();
       expect(pubspec, contains('family: $gmFontFamily'));
       expect(pubspec, contains('family: $gmDisplayFontFamily'));
