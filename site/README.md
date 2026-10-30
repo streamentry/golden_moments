@@ -91,14 +91,21 @@ python3 scripts/make-images.py
 
 ## Deploy (Cloudflare Workers)
 
-Deploying is a maintainer action; nothing here deploys automatically.
-
 Live since 2026-10-25 at <https://dementiaactivities.games> on the RunLumi
 Cloudflare account. The `workers.dev` address is turned off.
 
-- **Site:** `pnpm deploy` (build, checks, then `wrangler deploy`) while logged
-  in with `pnpm exec wrangler login`. `wrangler.jsonc` attaches the apex as a
-  Workers custom domain.
+- **Automatic:** every push to `main` that touches `site/**` runs
+  `.github/workflows/site.yaml`. Its `build` job tests, type-checks, builds and
+  runs `check-site.mjs`; only when all of that passes does the `deploy` job
+  publish that same build with `wrangler deploy` and then run `indexnow.mjs`.
+  Pull requests build and check but never deploy. The job needs two repository
+  secrets, set once in GitHub → Settings → Secrets and variables → Actions:
+  `CLOUDFLARE_API_TOKEN` (an API token with *Workers Scripts: Edit* on the
+  account, nothing wider) and `CLOUDFLARE_ACCOUNT_ID`. Merging to `main` is
+  therefore a release of the website.
+- **By hand:** `pnpm run deploy` (build, checks, then `wrangler deploy`) while
+  logged in with `pnpm exec wrangler login`, for a hotfix or when Actions is
+  unavailable. `wrangler.jsonc` attaches the apex as a Workers custom domain.
 - **www:** `redirect-www/` is a separate tiny Worker on
   `www.dementiaactivities.games` that 301-redirects to the apex, keeping path
   and query. Deploy it with `cd redirect-www && ../node_modules/.bin/wrangler deploy`
@@ -120,7 +127,8 @@ settings):
 3. Verify the domain in Google Search Console and Bing Webmaster Tools and
    submit `https://dementiaactivities.games/sitemap.xml`.
 
-After a deploy that adds or changes pages, run `pnpm indexnow`: it sends every
+The automatic deploy ends with `pnpm indexnow`; after a manual deploy that adds
+or changes pages, run it yourself. It sends every
 URL in the live `/sitemap.xml` to IndexNow, which Bing (and the AI search tools
 that use Bing's index) read. Google does not use IndexNow; it reads the
 sitemap submitted in Search Console. The 32-character `.txt` file in `public/`

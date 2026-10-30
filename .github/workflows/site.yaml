@@ -46,3 +46,49 @@ jobs:
         run: pnpm exec astro build
       - name: Check pages, links, metadata and claims wording
         run: pnpm exec node scripts/check-site.mjs
+      - name: Keep the checked build for the deploy job
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-dist
+          path: site/dist
+          retention-days: 1
+
+  # Pushes to main publish the build that the job above just checked, so the
+  # live site is always a tested commit. Pull requests never deploy. Needs two
+  # repository secrets: CLOUDFLARE_API_TOKEN (a token scoped to Workers
+  # Scripts: Edit on this account) and CLOUDFLARE_ACCOUNT_ID. The www redirect
+  # Worker (redirect-www/) rarely changes and stays a manual deploy.
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: production
+      url: https://dementiaactivities.games
+    steps:
+      - uses: actions/checkout@v7
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.33.0
+      - name: Install
+        run: pnpm install --frozen-lockfile
+      - name: Fetch the checked build
+        uses: actions/download-artifact@v4
+        with:
+          name: site-dist
+          path: site/dist
+      - name: Deploy to Cloudflare Workers
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: site
+          packageManager: pnpm
+          command: deploy
+      - name: Tell IndexNow about the live pages
+        # Bing and partners only; Google ignores IndexNow. A failure here must
+        # not mark a successful deploy red.
+        continue-on-error: true
+        run: pnpm exec node scripts/indexnow.mjs

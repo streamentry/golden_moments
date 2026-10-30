@@ -28,9 +28,19 @@ svg {
   height: auto;
 }
 
+/* Headlines and large titles are Fraunces; everything that is read stays
+   Roboto (DESIGN.md › Typography). Tracking stays open: Fraunces may
+   tighten only at hero size. */
 h1,
 h2,
-h3,
+h3 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: var(--leading-heading);
+  letter-spacing: 0;
+  margin: 0 0 var(--space-md);
+  text-wrap: balance;
+}
 h4 {
   font-weight: 700;
   line-height: var(--leading-heading);
@@ -39,14 +49,19 @@ h4 {
 }
 h1 {
   font-size: var(--text-h1);
-  letter-spacing: -0.015em;
+  line-height: var(--leading-tight);
 }
 h2 {
   font-size: var(--text-h2);
-  letter-spacing: -0.01em;
 }
 h3 {
   font-size: var(--text-title-lg);
+  line-height: 1.3;
+}
+
+::selection {
+  background: var(--gm-primary-container);
+  color: var(--gm-on-primary-container);
 }
 
 p,
@@ -146,12 +161,14 @@ textarea {
   color: var(--gm-on-surface-variant);
   margin-bottom: var(--space-sm);
 }
+/* Ornament: a Honey dot, never the only signal (the words are). */
 .eyebrow::before {
   content: '';
   width: 10px;
   height: 10px;
   border-radius: var(--radius-full);
   background: var(--gm-accent);
+  box-shadow: 0 0 0 3px var(--gm-primary-container);
 }
 
 .lede {

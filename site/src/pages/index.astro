@@ -240,8 +240,9 @@ const collage = ['teacup', 'sunflower', 'dog', 'sailboat'];
   .hero {
     position: relative;
     overflow: hidden;
+    /* The one golden-hour glow on the page, over an opaque parchment base. */
     background:
-      radial-gradient(1200px 500px at 85% 10%, rgb(255 224 138 / 55%), transparent 60%),
+      radial-gradient(1200px 500px at 85% 10%, var(--gm-glow), transparent 60%),
       radial-gradient(900px 400px at 0% 100%, rgb(234 223 203 / 70%), transparent 60%),
       var(--gm-background);
     border-bottom: 1px solid var(--gm-surface-sunken);
@@ -259,8 +260,8 @@ const collage = ['teacup', 'sunflower', 'dog', 'sailboat'];
   }
   .hero h1 {
     font-size: var(--text-hero);
-    line-height: 1.05;
-    letter-spacing: -0.025em;
+    line-height: var(--leading-hero);
+    letter-spacing: var(--tracking-hero);
     margin-bottom: var(--space-lg);
   }
   .hero .lede {
@@ -296,13 +297,13 @@ const collage = ['teacup', 'sunflower', 'dog', 'sailboat'];
   .print {
     margin: 0;
     padding: 12px 12px 30px;
-    background: var(--gm-print-white);
-    border-radius: 6px;
+    background: var(--gm-surface-raised);
+    border-radius: var(--radius-md);
     box-shadow: var(--shadow-print);
     position: relative;
   }
   .print img {
-    border-radius: 3px;
+    border-radius: var(--radius-sm);
     width: 100%;
   }
   .print::before {
@@ -313,8 +314,9 @@ const collage = ['teacup', 'sunflower', 'dog', 'sailboat'];
     width: 64px;
     height: 22px;
     transform: translateX(-50%) rotate(-3deg);
-    background: rgb(255 224 138 / 75%);
-    border: 1px solid rgb(201 146 0 / 25%);
+    background: var(--gm-accent-pale);
+    border: 1px solid rgb(201 146 0 / 25%); /* a hint of Honey at the tape's edge */
+    opacity: 0.85;
   }
   .print--1 {
     transform: rotate(-4deg);
@@ -383,9 +385,11 @@ const collage = ['teacup', 'sunflower', 'dog', 'sailboat'];
     border-top: 3px solid var(--gm-on-surface);
     padding-top: var(--space-lg);
   }
+  /* Big numerals: Fraunces at hero size in Antique Gold over an ink rule. */
   .steps__n {
     display: block;
-    font-size: 3.5rem;
+    font-family: var(--font-display);
+    font-size: var(--text-hero);
     font-weight: 700;
     line-height: 1;
     color: var(--gm-primary);
@@ -444,8 +448,8 @@ const collage = ['teacup', 'sunflower', 'dog', 'sailboat'];
     justify-content: space-between;
     padding: var(--space-xl);
     border-radius: var(--radius-xl);
-    background: #eef5f8;
-    border: 1px solid #c7dbe5;
+    background: var(--gm-secondary-container);
+    border: 1px solid var(--gm-secondary-outline);
     border-left: 8px solid var(--gm-secondary);
   }
   .research-band h2 {

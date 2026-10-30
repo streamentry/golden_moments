@@ -37,6 +37,19 @@ Astro + React + TanStack Store site in `site/`, built as static files for Cloudf
 
 Open items for the maintainer: legal review of the website privacy notice and terms; the Play listing link points at the existing package while 1.4.0 awaits review. The app (`lib/shared/utils/support_info.dart`, `lib/features/legal/`), `metadata/*.json` and both store consoles still link to `streamentry.github.io/golden-moments-web/`: after deploying the moved pages, switch them to `dementiaactivities.games` in the next app release, then retire or redirect the old site. The app shows `apple@locuno.com` while the site pages use `web@dementiaactivities.games`.
 
+## Golden Hour design pass and website auto-deploy (2026-10-30)
+
+| Deliverable | Status |
+| --- | --- |
+| `DESIGN.md` rewritten: Atmosphere and Signature details, a gold ramp (`primary-deep`, `accent-pale`, `accent-deep`), `surface-raised`, `secondary-container`/`-outline`, `on-ink*`, `shadow-ink`, Fraunces display typography, `rounded.sm`, `spacing.mat`, mirrored component list for the website | Lint 0 errors / 0 warnings; every colour token has a Dart constant and the drift test checks both directions |
+| Fraunces Bold (OFL) bundled for headlines in the app (`assets/fonts/Fraunces-Bold.ttf`, 36 KB) and the website (`fraunces-latin-700-normal.woff2`, 18 KB): one static instance of the variable font, recorded in `asset-provenance.json` | `gmBuildTheme` display/headline/title-lg roles use it; strict analysis and the full suite pass locally; seen on the iPhone simulator (home, picture packs). No real-device or 200% device evidence yet |
+| Mounted print in the app (`GmMountedPicture`): print-white mat with a hairline, corners 16 → 8 → 4 | Tests updated; seen on the simulator pack cards |
+| Website: tokens, Fraunces headings, sunrise rule on the header, Honey rule on the footer, umber shadows, tokenised notices, game badges and the breathing circle | `pnpm verify` passes (20 tests, 72 pages, 0 check errors); home and a guide inspected at desktop and 375px, no overflow |
+| Fix: `_revealFinish` threw on a heading taller than the viewport (large text in a short window) | Fixed in `gentle_game_page.dart`; covered by the existing ux_detail tests, which now load both shipped fonts |
+| Website deploys itself: `site.yaml` `deploy` job on pushes to `main` publishes the checked build with `wrangler deploy`, then runs IndexNow | Needs `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID` repository secrets before the first merge; until they exist the job fails and `pnpm run deploy` by hand still works |
+
+Next: add the two secrets, merge, watch the first deploy; re-check the app at 200% text on iPhone SE and iPad with the serif headlines; refresh the OG images (`scripts/og-games.mjs`) and store screenshots so they carry the new headline type.
+
 ## Next in order
 
 0. Run the device and human scenarios in [docs/release/device-acceptance.md](docs/release/device-acceptance.md) and record evidence per its format.

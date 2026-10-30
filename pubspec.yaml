@@ -47,9 +47,16 @@ flutter:
           weight: 500
         - asset: assets/fonts/Roboto-Bold.ttf
           weight: 700
+    # Display serif for headlines and titles only (DESIGN.md › Typography).
+    # A static Bold instance of the variable font, subset to Latin.
+    - family: Fraunces
+      fonts:
+        - asset: assets/fonts/Fraunces-Bold.ttf
+          weight: 700
   assets:
     - assets/data/
     - assets/fonts/Roboto_LICENSE.txt
+    - assets/fonts/Fraunces_LICENSE.txt
     - assets/images/catalog/
     - assets/sounds/
 
