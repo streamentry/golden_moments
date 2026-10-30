@@ -39,7 +39,7 @@ sources:
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
-relatedGames: [picture-puzzle, word-search, find-the-same, sort-together, coloring]
+relatedGames: [picture-puzzle, word-search, find-the-same, sort-together, coloring, shadow-match]
 related: [activities/memory-games, activities/printable, activities/early-stage, activities/middle-stage, brain-health/brain-games, caregiving/how-to-play-together]
 health: false
 ---

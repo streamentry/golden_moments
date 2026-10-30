@@ -44,7 +44,7 @@ sources:
   - title: "Computerised cognitive training for preventing dementia in people with mild cognitive impairment"
     publisher: "Cochrane Database of Systematic Reviews (via PubMed)"
     url: "https://pubmed.ncbi.nlm.nih.gov/30864747/"
-relatedGames: [picture-pairs, find-the-same, photo-pairs, picture-puzzle, sort-together, picture-bingo]
+relatedGames: [picture-pairs, find-the-same, photo-pairs, picture-puzzle, sort-together, picture-bingo, shadow-match]
 related: [caregiving/how-to-play-together, brain-health/brain-games, activities/alzheimers, activities/puzzles, activities/trivia, caregiving/choosing-apps-and-games]
 health: false
 ---
