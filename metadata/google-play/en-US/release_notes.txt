@@ -1,3 +1,3 @@
-A small update:
-- Help, privacy and terms links now go to our new website, dementiaactivities.games.
-- The website also has free picture games and activity ideas to try together.
+A few additions for families:
+- On iPhone and iPad, an optional gentle reminder for picture time, on the days and at the time you choose. It is off until you turn it on.
+- Rate Golden Moments from Help and privacy, if you like. Ratings help other families find it.

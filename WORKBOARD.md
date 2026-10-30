@@ -37,6 +37,12 @@ Astro + React + TanStack Store site in `site/`, built as static files for Cloudf
 
 Open items for the maintainer: legal review of the website privacy notice and terms; make sure `web@dementiaactivities.games` (the website contact) receives mail, for example with Cloudflare Email Routing; the Play listing link points at the existing package while 1.4.0 awaits review. The app (`lib/shared/utils/support_info.dart`, `lib/features/legal/`), `metadata/*.json` and both store consoles still link to `streamentry.github.io/golden-moments-web/`: after deploying the moved pages, switch them to `dementiaactivities.games` in the next app release, then retire or redirect the old site. The app shows `apple@locuno.com` while the site pages use `web@dementiaactivities.games`.
 
+## Growth pass: ratings, reminders and ASO (2026-10-30, 1.5.0+9 candidate)
+
+Owner goal: from about 10 to 100 installs a day, with high retention. Maintainer decisions on 2026-10-30: add Apple's rating prompt plus a Help link (reverses the 2026-10-18 "no rating request" choice; GM-034) and build opt-in reminders (GM-038, R3, now approved). Both use a small iOS channel in `AppDelegate.swift` with no new package; Android hides reminders and gets only the Rate link to Play. iPhone shares now carry the App Store link. Keywords, promotional text and the Play short description were rewritten (see `docs/strategy/us-aso.md` › October 30, including console actions such as the 16+ age rating).
+
+Evidence: strict analysis clean, 450+ Flutter tests pass with 79.8% line coverage, 64 Python tests and metadata checks pass, DESIGN.md lint 0/0. iOS 26.5 simulator, debug build: Apple's rating sheet appeared on Home after a finished game with seeded counters, never on the finish message (`docs/release/evidence/1.5.0/`); the notification question appeared only after "Turn on reminder", and scheduling succeeded. Not device-verified, no VoiceOver run, Android not built.
+
 ## Next in order
 
 0. Run the device and human scenarios in [docs/release/device-acceptance.md](docs/release/device-acceptance.md) and record evidence per its format.

@@ -69,3 +69,22 @@ Retain the chosen 30-character name and caregiver positioning. Correct the offli
 Rechecked official platform sources on October 18, 2026: [Apple product page](https://developer.apple.com/app-store/product-page/), [Apple metadata](https://developer.apple.com/help/app-store-connect/reference/app-information/app-information/), [Google listing limits](https://support.google.com/googleplay/android-developer/answer/9859152), [Google metadata policy](https://support.google.com/googleplay/android-developer/answer/9898842). Keep descriptive audience context and no ranking, pricing, clinical or cognitive-benefit promises.
 
 The Android upload-key reset was submitted and remains pending at the latest store verification. The previous signed iOS IPA was built from 2aecea2 and is superseded as a release candidate by latest main; build and verify the new head before uploading. Public website copy continues to label 1.3.0 personal-photo functionality as upcoming until store release readback confirms availability.
+
+## October 30 growth pass (1.5.0 candidate)
+
+Live listing read on apps.apple.com on 2026-10-30: version 1.4.1, **no ratings shown**, **age rating 16+**, Puzzle category, no Accessibility Nutrition Labels declared. The owner reports about 10 installs a day and set 100 a day as the goal; nothing here forecasts that.
+
+Changed in the repository (ships only with a new build and a manual metadata save):
+
+- Keywords (99/100 bytes): `memory,seniors,elderly,matching,caregiver,reminiscence,family,picture,puzzle,grandparents,nostalgia`. Dropped `offline,relaxing,large,tiles`, which caregivers are unlikely to search. Kept clinical words (patients, therapy, brain) out, as DESIGN.md requires.
+- Promotional text mentions the optional reminder (Apple only; the reminder is iOS only). Description stays shared with Play and platform-neutral; Apple does not index it for search.
+- Play short description now leads with "Simple dementia activities", which the old one lacked.
+- In-app: Apple's rating prompt at a voluntary pause, a Rate link on Help, the App Store link in iPhone shares, and opt-in reminders (DESIGN.md › Ratings, Reminders).
+
+Console actions only the maintainer can take (none were done by the assistant):
+
+1. **Age rating:** re-answer the App Store Connect age questionnaire. 16+ is unusual for a gentle picture game and may put families off. Check the answers on medical or treatment information and on web access (the app only opens Safari after a tap; it has no in-app browser). Answer truthfully; do not change answers just to lower the rating.
+2. **Promotional text:** save the new text when 1.5.0 is live (it can change without review).
+3. **Keywords and release notes:** save with the 1.5.0 version from `metadata/en-US/`.
+4. **Accessibility Nutrition Labels:** declare Larger Text, Sufficient Contrast, Reduced Motion and Differentiate Without Color only after the device checks DESIGN.md › Accessibility requires.
+5. **Apple Search Ads** on `dementia games`, `dementia activities` and `memory games for seniors` needs a separately approved budget; record popularity figures in `keyword-research.csv`.
