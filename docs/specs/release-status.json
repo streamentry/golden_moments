@@ -441,10 +441,13 @@
       },
       "GM-034": {
         "status": "implemented_unverified",
-        "scope": "Voluntary feedback: 'Write a note' previews the exact text (note plus app version and platform) and sends only through the system share sheet; 'Report a problem' as above. Support is separate from any rating; no rating request, incentive, satisfaction pre-screen or nag exists anywhere, and stopping a game is never treated as an event. A platform rating prompt is deliberately not added. Device check of the share sheet pending.",
+        "scope": "Voluntary feedback: 'Write a note' previews the exact text (note plus app version and platform) and sends only through the system share sheet; 'Report a problem' as above. Support is separate from rating. Since 1.5.0 (maintainer decision 2026-10-30) Help offers one optional 'Rate Golden Moments' link that opens the store only after a tap, and Apple's own rating prompt may be requested when Home is shown again after a finished game, from the 4th finished game on a 2nd day of play, at most once per 120 days; never during play, at launch, on the finish message, with an incentive or after a satisfaction pre-screen. Device check of the share sheet and the prompt pending.",
         "evidence": [
           "lib/features/gentle_activities/presentation/help_privacy_page.dart",
-          "test/features/gentle_activities/help_privacy_test.dart"
+          "lib/shared/rating/review_request.dart",
+          "ios/Runner/AppDelegate.swift",
+          "test/features/gentle_activities/help_privacy_test.dart",
+          "test/review_request_test.dart"
         ]
       },
       "GM-035": {
@@ -465,8 +468,15 @@
         ]
       },
       "GM-038": {
-        "status": "deferred",
-        "scope": "R3, approval required; would add a notification permission; not authorized."
+        "status": "implemented_unverified",
+        "scope": "Approved 2026-10-30. iOS only: 'Gentle reminder' on Home opens a page where a helper chooses days and a time; it is off until 'Turn on reminder' is tapped, the only place the system notification question appears. Local repeating notifications on this device, cancelled by 'Turn off reminder'; no counts, streaks or missed-day wording. Hidden on Android and web until built and tested there. No device check yet.",
+        "evidence": [
+          "lib/features/reminders/presentation/reminder_page.dart",
+          "lib/features/reminders/data/reminder_settings.dart",
+          "lib/shared/native/gm_native.dart",
+          "ios/Runner/AppDelegate.swift",
+          "test/features/reminders/reminder_page_test.dart"
+        ]
       },
       "GM-039": {
         "status": "not_started",

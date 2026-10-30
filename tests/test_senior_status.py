@@ -46,7 +46,7 @@ class SeniorStatusTests(unittest.TestCase):
         for feature_id, entry in FEATURES.items():
             feature = by_id[feature_id]
             with self.subTest(feature=feature_id):
-                if feature['phase'] == 'R3':
+                if feature['phase'] == 'R3' and not feature.get('approved_on'):
                     self.assertEqual(entry['status'], 'deferred')
                 if feature['phase'] == 'R2':
                     # Gated: at most one unshipped prototype, never verified.

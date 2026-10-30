@@ -10,6 +10,7 @@ import 'package:golden_moments/features/gentle_activities/models/activity_pictur
 import 'package:golden_moments/features/gentle_activities/models/gentle_board.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_comfort_sheet.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
+import 'package:golden_moments/shared/rating/review_request.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
 import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
 
@@ -229,6 +230,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
     } on Object {
       invite = false;
     }
+    unawaited(recordFinishedGameForReview(suggestedSharing: invite));
     if (mounted && invite) {
       setState(() => _invite = true);
       // The suggestion makes the bar taller; keep the closing words in view.

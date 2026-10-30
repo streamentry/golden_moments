@@ -394,7 +394,7 @@ The 2026 mobile-game playbook, filtered for older adults and shared play:
 - **Motion:** honor Reduce Motion (`MediaQuery.disableAnimations`) by swapping flips for instant changes. Nothing flashes more than 3 times per second, and there is no parallax or autoplaying animation.
 - **Sound:** always optional and never the only carrier of information. There are no failure sounds, and the tap sound is soft.
 - **Haptics:** at most a light selection tick on a match, and none on a mismatch.
-- **Ethical retention:** no streaks, daily-reward calendars, energy, lives, loot, countdowns, leaderboards, ads, push-notification nagging or purchase pressure. Return visits must come from a good experience.
+- **Ethical retention:** no streaks, daily-reward calendars, energy, lives, loot, countdowns, leaderboards, ads, push-notification nagging or purchase pressure. Return visits must come from a good experience. The one cue is a reminder a helper chooses to set (see *Reminders* under Voice & Content).
 - **Sharing:** word of mouth from one caregiver to another is the best way families find the app, so make sharing easy and ask rarely. See *Sharing* under Voice & Content.
 - **Next deliberate tap, everywhere:** both the gentle board and the picture-pack game leave a mismatch face up, and a hint's pair visible, until the player taps again. That tap turns them over and starts the next turn. No game state changes on a timer.
 - **One paced exception:** the website's calm breathing pause (`site/src/games/CalmBreathing.tsx`) changes its circle on a timer, because pacing is the activity. It starts only on a tap, stops on a tap or by itself after six breaths, announces only starting and stopping, and honors Reduce Motion. No game uses this pattern.
@@ -421,8 +421,25 @@ Make sharing easy to find and rare to be asked about. Share from a warm moment, 
 - **Suggested rarely, inline:** after a finished game, `ShareInvitation` can appear *inside* the end-of-game message, never as a separate pop-up. It reads "Enjoying these pictures together? Another family might enjoy them too." with one "Share with family" button.
 - **When (`SharePolicy`):** first after the 3rd finished game, then at most once every 30 days. It stops for good after one share or after being passed by twice. Carrying on (Play again, Done for now, another pack) is a complete answer; there is no "Not now" decision to make.
 - **Never:** during play, at launch, by notification, with a countdown, as a condition for continuing ("share to continue"), or in exchange for rewards or unlocks. Don't say "challenge" or "invite friends to compete".
-- **The message** is plain and personal and carries the right store link for the device: Google Play on Android, the App Store on Apple devices once the listing exists, and search guidance until then. No tracking parameters.
+- **The message** is plain and personal and carries the right store link for the device: Google Play on Android, the App Store listing (`appStoreUrl`) on Apple devices. No tracking parameters.
 - **Privacy:** the counters live only on this device (`shared_preferences`). Nothing is sent anywhere until the person chooses a share target.
+
+### Ratings
+
+Ratings let other families judge the app before installing it. Ask the platform, at a pause, the same way for everyone (maintainer decision, 2026-10-30).
+
+- **Prompt (`ReviewPolicy`):** only Apple's own rating prompt, requested when Home is shown again after a finished game, from the 4th finished game on a 2nd day of play, at most once every 120 days. The system decides whether it appears and caps it at three a year.
+- **Link:** Help and privacy has one optional "Rate Golden Moments" button under *Tell other families*. It opens the store only after a tap.
+- **Never:** a custom rating dialog (Apple forbids it), during play, at launch, on the finish message, together with the share suggestion, with an incentive, or after a "Do you enjoy it?" pre-screen that sends only happy people to the store. Support stays separate from rating.
+
+### Reminders
+
+An optional cue a helper sets, not a hook (GM-038, approved 2026-10-30).
+
+- **Off until chosen:** "Gentle reminder" on Home opens a page with days, a time and one "Turn on reminder" button. The notification permission question appears only after that tap, never at launch.
+- **Wording:** "Time for pictures together?" / "Golden Moments is here whenever it suits you." Never count days, mention a missed day, use exclamation marks or urgency.
+- **Control:** "Turn off reminder" is always on the same page. Changing days or time reschedules at once. At least one day stays chosen.
+- **Platform:** iOS only until Android is built and tested; elsewhere the entry is hidden, not disabled.
 
 Never use: brain age, score, IQ, train, sharpen, decline, therapy, treatment, prevent, clinically proven, "for patients" or medical symbols. Mentioning dementia or Alzheimer's describes the audience, not an outcome.
 

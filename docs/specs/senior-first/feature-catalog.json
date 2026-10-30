@@ -48,7 +48,7 @@
     {"id":"GM-035","title":"Fair one-time purchase option","phase":"R3","baseline_state":"deferred","spec":"distribution.md#gm-035","depends_on":["GM-027","GM-028","GM-031","GM-039"],"approval_required":true},
     {"id":"GM-036","title":"Complete evidence-led localization","phase":"R2","baseline_state":"proposed","spec":"distribution.md#gm-036","depends_on":["GM-012","GM-014","GM-025"],"approval_required":false},
     {"id":"GM-037","title":"Same-device companion setup","phase":"R1","baseline_state":"proposed","spec":"navigation.md#gm-037","depends_on":["GM-002","GM-003","GM-019"],"approval_required":false},
-    {"id":"GM-038","title":"Optional neutral local reminders","phase":"R3","baseline_state":"deferred","spec":"navigation.md#gm-038","depends_on":["GM-003","GM-028"],"approval_required":true},
+    {"id":"GM-038","title":"Optional neutral local reminders","phase":"R3","baseline_state":"deferred","spec":"navigation.md#gm-038","depends_on":["GM-003","GM-028"],"approval_required":true,"approved_on":"2026-10-30","approval_note":"Maintainer approved opt-in reminders, off by default, iOS first"},
     {"id":"GM-039","title":"Comparative usability and preference pilot","phase":"R0","baseline_state":"proposed","spec":"validation.md#gm-039","depends_on":["GM-001","GM-002","GM-006","GM-008","GM-018"],"approval_required":false},
     {"id":"GM-040","title":"Traceable device and release acceptance","phase":"R0","baseline_state":"partial","spec":"validation.md#gm-040","depends_on":["GM-015","GM-018","GM-023","GM-028"],"approval_required":false}
   ]

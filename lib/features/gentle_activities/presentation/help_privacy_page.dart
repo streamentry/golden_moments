@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/shared/rating/review_request.dart';
 import 'package:golden_moments/shared/utils/support_info.dart';
 import 'package:golden_moments/shared/widgets/gm_copyable_text.dart';
 import 'package:share_plus/share_plus.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 /// What the platform reported about a share. `unknown` is common: many
 /// platforms cannot say whether the person finished sharing.
@@ -26,14 +28,36 @@ Future<ShareOutcome> shareText(String text, String subject) async {
   }
 }
 
+/// Opens a store page outside the app; returns whether it opened.
+typedef StoreOpener = Future<bool> Function(String url);
+
+Future<bool> openStorePage(String url) async {
+  try {
+    return await launchUrl(
+      Uri.parse(url),
+      mode: LaunchMode.externalApplication,
+    );
+  } on Object {
+    return false;
+  }
+}
+
 /// Offline help, privacy and support (GM-031, GM-034). Everything here is
 /// local text. Nothing leaves the app unless the person reviews it and
 /// chooses a destination in the system share sheet; reaching support is
-/// separate from any rating request, and nothing here changes saved data.
+/// separate from the optional rating link, and nothing here changes saved
+/// data.
 class HelpPrivacyPage extends StatefulWidget {
-  const new({this.sharer = shareText, super.key});
+  const new({
+    this.sharer = shareText,
+    this.storeOpener = openStorePage,
+    super.key,
+  });
 
   final TextSharer sharer;
+
+  /// Opens the store review page, only after "Rate Golden Moments" is tapped.
+  final StoreOpener storeOpener;
 
   @override
   State<HelpPrivacyPage> createState() => _HelpPrivacyPageState();
@@ -63,6 +87,15 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
     );
     if (note == null || note.trim().isEmpty || !mounted) return;
     await _send(feedbackMessage(note), 'Golden Moments note');
+  }
+
+  Future<void> _rate() async {
+    if (await widget.storeOpener(storeReviewUrl()) || !mounted) return;
+    setState(
+      () => _status =
+          'Could not open the store. You can find Golden Moments there '
+          'later.',
+    );
   }
 
   Future<void> _reportProblem() async {
@@ -181,6 +214,17 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
                   onPressed: _reportProblem,
                   icon: const Icon(Icons.report_problem_outlined),
                   label: const Text('Report a problem'),
+                ),
+                heading('Tell other families'),
+                para(
+                  'If Golden Moments has been useful, a rating in the store '
+                  'helps other families find it. It is entirely optional, '
+                  'and separate from writing to us.',
+                ),
+                OutlinedButton.icon(
+                  onPressed: _rate,
+                  icon: const Icon(Icons.star_outline),
+                  label: const Text('Rate Golden Moments'),
                 ),
                 if (_status != null) ...[
                   const SizedBox(height: gmSpaceMd),
