@@ -85,14 +85,14 @@
         "macaw_11": "Yellow And Blue Macaw",
         "tiger_12": "Tiger",
         "raccoon_13": "Raccoon",
-        "wolf_14": "Angry Wolf",
+        "wolf_14": "Grey Wolf",
         "crocodile_15": "Crocodile",
         "peacock_16": "Beautiful Peacock"
       }
     },
     "food_desserts_homemade": {
       "title": "Delicious Desserts",
-      "description": "Some delicious desserts for your meals!",
+      "description": "Some delicious desserts for your meals.",
       "theme": "Sweet desserts",
       "images": {
         "pastries_1": "Four Pastries",
@@ -105,7 +105,7 @@
     },
     "flowers_tropical": {
       "title": "Tropical Blossoms",
-      "description": "Discover the vibrant beauty of the tropics with this pack of exotic flowers!",
+      "description": "Discover the vibrant beauty of the tropics with this pack of exotic flowers.",
       "theme": "Tropical Flowers",
       "images": {
         "hibiscus_1": "Red Hibiscus",
@@ -122,7 +122,7 @@
     },
     "food_street_snacks": {
       "title": "Street Food Fiesta",
-      "description": "Dive into the colorful world of street food with this pack of delicious global snacks!",
+      "description": "Explore the colorful world of street food with this pack of delicious snacks from around the world.",
       "theme": "Street Food",
       "images": {
         "taco_1": "Mexican Taco",
@@ -139,7 +139,7 @@
     },
     "nature_landscape": {
       "title": "Nature Landscape",
-      "description": "Test your mind with stunning nature images designed to sharpen your memory and observation skills!",
+      "description": "Calm, beautiful nature scenes to look at slowly and talk about together.",
       "theme": "Nature Landscapes",
       "images": {
         "mountain_1": "Mountain Range",
