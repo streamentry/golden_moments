@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
 
 /// "Done for now" and "Start again", fixed below the board so the exit is
@@ -22,18 +23,17 @@ class GameExitBar extends StatelessWidget {
   /// Draws the bar's dividing line while the board continues beneath it.
   final GmMoreBelow? moreBelow;
 
-  static const doneLabel = 'Done for now';
-  static const startAgainLabel = 'Start again';
-
   @override
   Widget build(BuildContext context) {
+    final doneLabel = context.l10n.commonDoneForNow;
+    final startAgainLabel = context.l10n.commonStartAgain;
     final done = OutlinedButton(
       onPressed: onDone,
-      child: const Text(doneLabel, textAlign: TextAlign.center),
+      child: Text(doneLabel, textAlign: TextAlign.center),
     );
     final again = OutlinedButton(
       onPressed: onStartAgain,
-      child: const Text(startAgainLabel, textAlign: TextAlign.center),
+      child: Text(startAgainLabel, textAlign: TextAlign.center),
     );
     return GmBottomBar(
       moreBelow: moreBelow,

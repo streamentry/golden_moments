@@ -2,7 +2,9 @@ import 'package:equatable/equatable.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 /// An optional, caregiver-chosen reminder (GM-038). Off until someone turns
-/// it on. It never counts days, streaks or missed sessions.
+/// it on. It never counts days, streaks or missed sessions. The notification
+/// wording lives in the app's translations (reminderNotificationTitle/Body)
+/// and is passed in when the reminder is scheduled.
 class ReminderSettings extends Equatable {
   const new({
     this.enabled = false,
@@ -13,9 +15,6 @@ class ReminderSettings extends Equatable {
 
   /// [DateTime.monday] to [DateTime.sunday].
   static const allWeekdays = {1, 2, 3, 4, 5, 6, 7};
-
-  static const title = 'Time for pictures together?';
-  static const body = 'Golden Moments is here whenever it suits you.';
 
   final bool enabled;
   final Set<int> weekdays;

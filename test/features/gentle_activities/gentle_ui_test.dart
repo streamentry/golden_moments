@@ -7,9 +7,11 @@ import 'package:golden_moments/features/gentle_activities/data/gentle_preference
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_home_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 Widget _app({double textScale = 1, Widget? home}) => MaterialApp(
+  localizationsDelegates: AppLocalizations.localizationsDelegates,
   theme: gmBuildTheme(),
   builder: (context, child) => MediaQuery(
     data: MediaQuery.of(context)

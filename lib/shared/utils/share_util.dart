@@ -1,4 +1,5 @@
 import 'package:flutter/foundation.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 /// Google Play listing for the Android package.
 const playStoreUrl =
@@ -13,10 +14,11 @@ const appStoreId = '6749312459';
 const appStoreUrl = 'https://apps.apple.com/app/id$appStoreId';
 
 /// The share message for the device the app is running on, so nobody on an
-/// iPhone or Mac is sent to Google Play.
-String appShareText({TargetPlatform? platform}) {
+/// iPhone or Mac is sent to Google Play. The sentence is in the app's
+/// language; the link is the same everywhere.
+String appShareText(AppLocalizations l10n, {TargetPlatform? platform}) {
   final target = platform ?? defaultTargetPlatform;
-  const intro = 'A gentle picture game we enjoy together: Golden Moments.';
+  final intro = l10n.shareMessage;
   switch (target) {
     case TargetPlatform.iOS:
     case TargetPlatform.macOS:

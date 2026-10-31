@@ -93,7 +93,8 @@ labels are a documented limitation, not descriptive accessibility. VoiceOver
 and TalkBack deserve actual sessions. Avoid duplicate nested semantics, automatic
 focus jumps, flashing success, forced recall, and unexpected audio. [F4].
 
-For new user-facing strings use the existing ARB/localization system. Do not
+For new user-facing strings use the existing ARB/localization system, and
+show catalog text through `context.packText` ([localization](localization.md)). Do not
 claim a translated experience because only legacy screens have translations.
 Do not add an automated photo-captioning API to solve labels without approval.
 

@@ -4,6 +4,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/features/home/cubit/home_cubit.dart';
 import 'package:golden_moments/features/home/cubit/home_state.dart';
 import 'package:golden_moments/features/home/presentation/screens/home_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 class _LoadedHome extends HomeCubit {
   new() {
@@ -17,6 +18,7 @@ void main() {
     addTearDown(cubit.close);
     await tester.pumpWidget(
       MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
         home: BlocProvider<HomeCubit>.value(
           value: cubit,
           child: const HomeView(),

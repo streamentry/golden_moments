@@ -14,6 +14,7 @@ class GameBoard extends StatelessWidget {
     this.selectedTileIds = const {},
     this.waitingForNextTap = false,
     this.heightBudget,
+    this.packId,
     super.key,
   });
 
@@ -29,6 +30,9 @@ class GameBoard extends StatelessWidget {
   /// Height to fit the board into when the board itself sits in a scroll
   /// view (unbounded height).
   final double? heightBudget;
+
+  /// The pack being played, so picture names read in the app language.
+  final String? packId;
 
   /// Columns and tile side for [count] square tiles in [size].
   ///
@@ -100,6 +104,7 @@ class GameBoard extends StatelessWidget {
                     child: MemoryTile(
                       tile: tiles[index],
                       position: index + 1,
+                      packId: packId,
                       selected: selectedTileIds.contains(tiles[index].id),
                       onTap: _canTap(tiles[index])
                           ? () => onTileTap(tiles[index].id)

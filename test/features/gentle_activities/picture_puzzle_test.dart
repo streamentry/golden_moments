@@ -6,6 +6,7 @@ import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/models/puzzle_board.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_puzzle_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/utils/experiments.dart';
 
 const _one = [
@@ -13,6 +14,7 @@ const _one = [
 ];
 
 Widget _app({double textScale = 1, int seed = 7, int size = 2}) => MaterialApp(
+  localizationsDelegates: AppLocalizations.localizationsDelegates,
   theme: gmBuildTheme(),
   builder: (context, child) => MediaQuery(
     data: MediaQuery.of(context)

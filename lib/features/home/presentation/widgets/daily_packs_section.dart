@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/pack_card.dart';
 import 'package:golden_moments/shared/widgets/pack_grid.dart';
 
@@ -55,7 +56,7 @@ class DailyPacksSection extends StatelessWidget {
             const SizedBox(width: gmSpaceSm),
             Flexible(
               child: Text(
-                'Suggested packs',
+                parentContext.l10n.librarySuggestedTitle,
                 style: theme.textTheme.headlineSmall?.copyWith(
                   color: theme.colorScheme.primary,
                 ),
@@ -65,7 +66,7 @@ class DailyPacksSection extends StatelessWidget {
         ),
         const SizedBox(height: gmSpaceSm),
         Text(
-          'A few included picture packs to try. Tap one to start.',
+          parentContext.l10n.librarySuggestedBody,
           style: theme.textTheme.bodyLarge?.copyWith(
             color: theme.colorScheme.onSurfaceVariant,
           ),
@@ -73,8 +74,7 @@ class DailyPacksSection extends StatelessWidget {
         if (hiddenCount > 0) ...[
           const SizedBox(height: gmSpaceSm),
           Text(
-            'Packs you marked Not for me are not suggested. You can show them '
-            'again under Hidden packs.',
+            parentContext.l10n.librarySuggestedHiddenNote,
             style: theme.textTheme.bodyMedium?.copyWith(
               color: theme.colorScheme.onSurfaceVariant,
             ),
@@ -102,7 +102,7 @@ class DailyPacksSection extends StatelessWidget {
           TextButton.icon(
             onPressed: onShowOther,
             icon: const Icon(Icons.arrow_forward),
-            label: const Text('Suggest other packs'),
+            label: Text(parentContext.l10n.librarySuggestOther),
           ),
         ],
       ],
@@ -117,15 +117,10 @@ class _EmptyState extends StatelessWidget {
   final int hiddenCount;
   final int favoriteCount;
 
-  String get _message {
-    if (hiddenCount > 0) {
-      return 'Hidden packs are not suggested. You can show them again under '
-          'Hidden packs.';
-    }
-    if (favoriteCount > 0) {
-      return 'Every included pack is already in your favorites.';
-    }
-    return 'No picture packs are available right now.';
+  String _message(AppLocalizations l10n) {
+    if (hiddenCount > 0) return l10n.librarySuggestedEmptyHidden;
+    if (favoriteCount > 0) return l10n.librarySuggestedEmptyFavorites;
+    return l10n.librarySuggestedEmptyNone;
   }
 
   @override
@@ -149,13 +144,13 @@ class _EmptyState extends StatelessWidget {
           ),
           const SizedBox(height: gmSpaceSm),
           Text(
-            'No other packs to suggest',
+            parentContext.l10n.librarySuggestedEmptyTitle,
             style: theme.textTheme.titleMedium,
             textAlign: TextAlign.center,
           ),
           const SizedBox(height: gmSpaceSm),
           Text(
-            _message,
+            _message(parentContext.l10n),
             style: theme.textTheme.bodyMedium?.copyWith(
               color: theme.colorScheme.onSurfaceVariant,
             ),

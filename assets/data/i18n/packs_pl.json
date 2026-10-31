@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Zwierzęta",
+      "description": "Miłe, przyjazne zwierzęta z całego świata"
+    },
+    "nature": {
+      "name": "Przyroda",
+      "description": "Piękne krajobrazy i widoki z natury"
+    },
+    "food": {
+      "name": "Jedzenie",
+      "description": "Smaczne potrawy i słodkości"
+    },
+    "vintage": {
+      "name": "Samochody",
+      "description": "Samochody i ciężarówki do oglądania i rozmowy"
+    },
+    "flowers": {
+      "name": "Kwiaty",
+      "description": "Piękne kwiaty i ogrodowe widoki"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Zwierzęta z gospodarstwa",
+      "description": "Przyjazne zwierzęta z gospodarstwa, jak podczas wizyty na wsi.",
+      "theme": "Życie na wsi",
+      "images": {
+        "cow_1": "Przyjazna krowa",
+        "pig_1": "Wesoła świnka",
+        "chicken_1": "Kogut",
+        "buffalo_1": "Bawół wodny",
+        "horse_1": "Piękny koń",
+        "duck_1": "Kacza rodzina",
+        "goat_1": "Ciekawska koza",
+        "rabbit_1": "Miły królik"
+      }
+    },
+    "nature_mountains": {
+      "title": "Górskie widoki",
+      "description": "Zachwycające górskie krajobrazy i malownicze widoki",
+      "theme": "Piękno przyrody",
+      "images": {
+        "mountain_1": "Ośnieżone szczyty",
+        "mountain_2": "Góra Fudżi",
+        "mountain_3": "Alpejska dolina",
+        "mountain_4": "Skalisty szczyt",
+        "mountain_5": "Zalesione wzgórza",
+        "mountain_6": "Góry we mgle"
+      }
+    },
+    "vintage_cars": {
+      "title": "Samochody i ciężarówki",
+      "description": "Błyszczące samochody i ciężarówki do oglądania i rozmowy",
+      "theme": "W drodze",
+      "images": {
+        "vintage_car_1": "Pomarańczowe audi o zachodzie słońca",
+        "vintage_car_2": "Niebieski samochód sportowy na pustyni",
+        "vintage_car_3": "Srebrne bugatti",
+        "vintage_car_4": "Czarne porsche na drodze",
+        "vintage_car_5": "Pomarańczowe BMW na ulicy z palmami",
+        "vintage_car_6": "Niebieskie coupé przy garażu",
+        "vintage_car_7": "Zielony pikap",
+        "vintage_car_8": "Biały SUV wśród czerwonych skał",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Niebieski samochód w białe pasy"
+      }
+    },
+    "animals_safari": {
+      "title": "Zwierzęta z safari",
+      "description": "Majestatyczne zwierzęta z afrykańskiego safari",
+      "theme": "Dzikie zwierzęta",
+      "images": {
+        "lion_1": "Majestatyczny lew",
+        "elephant_2": "Słoń afrykański",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Pasiasta zebra",
+        "rhino_5": "Potężny nosorożec",
+        "cheetah_6": "Szybki gepard",
+        "fox_7": "Rudy lis",
+        "bear_8": "Niedźwiedź polarny",
+        "turtle_9": "Brązowy żółw",
+        "squirrel_10": "Ruda wiewiórka",
+        "macaw_11": "Żółto-niebieska ara",
+        "tiger_12": "Tygrys",
+        "raccoon_13": "Szop pracz",
+        "wolf_14": "Szary wilk",
+        "crocodile_15": "Krokodyl",
+        "peacock_16": "Piękny paw"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Pyszne desery",
+      "description": "Kilka pysznych deserów do posiłków.",
+      "theme": "Słodkie desery",
+      "images": {
+        "pastries_1": "Cztery ciastka",
+        "oreo_cookie_sandwiches_2": "Ciasteczka Oreo",
+        "crepe_3": "Naleśnik",
+        "pancake_4": "Pancake",
+        "macarons_5": "Makaroniki",
+        "caramel_cake_6": "Ciasto karmelowe"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropikalne kwiaty",
+      "description": "Odkryj barwne piękno tropików w tym pakiecie egzotycznych kwiatów.",
+      "theme": "Kwiaty tropików",
+      "images": {
+        "hibiscus_1": "Czerwony hibiskus",
+        "frangipani_2": "Czerwono-biały frangipani",
+        "sunflower_3": "Słonecznik",
+        "hydrangea_4": "Biała hortensja",
+        "rose_5": "Róża",
+        "chrysanthemum_6": "Chryzantema",
+        "anthurium_7": "Anturium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kadam",
+        "delphinium_10": "Ostróżka"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Uliczne przysmaki",
+      "description": "Poznaj kolorowy świat ulicznego jedzenia w tym pakiecie smacznych przekąsek z całego świata.",
+      "theme": "Jedzenie uliczne",
+      "images": {
+        "taco_1": "Meksykańskie taco",
+        "ramen_2": "Japoński ramen",
+        "dumplings_3": "Chińskie pierożki",
+        "samosa_4": "Indyjska samosa",
+        "pizza_5": "Kawałek włoskiej pizzy",
+        "crepe_6": "Francuski naleśnik",
+        "satay_7": "Tajskie szaszłyki satay",
+        "burger_8": "Amerykański burger",
+        "bao_9": "Bułeczka bao na parze",
+        "takoyaki_10": "Japońskie takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Krajobrazy przyrody",
+      "description": "Spokojne, piękne widoki przyrody do powolnego oglądania i wspólnej rozmowy.",
+      "theme": "Krajobrazy",
+      "images": {
+        "mountain_1": "Pasmo górskie",
+        "forest_2": "Las we mgle",
+        "lake_3": "Górskie jezioro",
+        "desert_4": "Wydmy na pustyni",
+        "waterfall_5": "Wodospad",
+        "beach_6": "Piaszczysta plaża",
+        "river_7": "Płynąca rzeka",
+        "canyon_8": "Wielki Kanion",
+        "sunset_9": "Niebo o zachodzie słońca",
+        "snow_mountain_10": "Ośnieżona góra",
+        "flowers_11": "Polne kwiaty",
+        "rainforest_12": "Las deszczowy",
+        "iceberg_13": "Góra lodowa",
+        "volcano_14": "Wulkan",
+        "cliff_15": "Klif nad morzem",
+        "aurora_16": "Zorza polarna",
+        "savannah_17": "Sawanna",
+        "coral_reef_18": "Rafa koralowa"
+      }
+    }
+  }
+}

@@ -3,8 +3,11 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_home_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/help_privacy_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/utils/support_info.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+
+import '../../helpers/l10n_helpers.dart';
 
 class _Recorder {
   final calls = <(String, String)>[];
@@ -16,6 +19,7 @@ class _Recorder {
 }
 
 Widget _app(Widget home, {double textScale = 1}) => MaterialApp(
+  localizationsDelegates: AppLocalizations.localizationsDelegates,
   theme: gmBuildTheme(),
   builder: (context, child) => MediaQuery(
     data: MediaQuery.of(context)
@@ -61,7 +65,7 @@ void main() {
     await tester.pumpAndSettle();
     await tester.tap(find.text('Photos would not add'));
     await tester.pumpAndSettle();
-    final preview = diagnosticSummary(ProblemKind.photosNotAdded);
+    final preview = diagnosticSummary(ProblemKind.photosNotAdded, englishL10n);
     expect(find.text(preview), findsOneWidget);
     expect(recorder.calls, isEmpty); // nothing is sent before choosing
     await tester.tap(find.text('Choose where to send'));

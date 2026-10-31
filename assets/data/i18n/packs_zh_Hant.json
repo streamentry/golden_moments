@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "動物",
+      "description": "來自世界各地、可愛又友善的動物"
+    },
+    "nature": {
+      "name": "自然",
+      "description": "美麗的風景和自然景色"
+    },
+    "food": {
+      "name": "美食",
+      "description": "美味的餐點和點心"
+    },
+    "vintage": {
+      "name": "汽車",
+      "description": "可以一起看看、聊一聊的汽車和卡車"
+    },
+    "flowers": {
+      "name": "花卉",
+      "description": "美麗的花朵和花園景色"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "農場動物",
+      "description": "友善的農場動物，就像到鄉下走走一樣。",
+      "theme": "農場生活",
+      "images": {
+        "cow_1": "溫和的乳牛",
+        "pig_1": "開心的小豬",
+        "chicken_1": "公雞",
+        "buffalo_1": "水牛",
+        "horse_1": "漂亮的馬",
+        "duck_1": "鴨子一家",
+        "goat_1": "好奇的山羊",
+        "rabbit_1": "可愛的兔子"
+      }
+    },
+    "nature_mountains": {
+      "title": "壯麗山景",
+      "description": "壯觀的山景和開闊的風光",
+      "theme": "自然之美",
+      "images": {
+        "mountain_1": "白雪覆蓋的山峰",
+        "mountain_2": "富士山",
+        "mountain_3": "高山山谷",
+        "mountain_4": "岩石山頂",
+        "mountain_5": "森林山丘",
+        "mountain_6": "雲霧繚繞的山"
+      }
+    },
+    "vintage_cars": {
+      "title": "汽車和卡車",
+      "description": "閃亮的汽車和卡車，可以一起看看、聊一聊",
+      "theme": "在路上",
+      "images": {
+        "vintage_car_1": "夕陽下的橘色奧迪",
+        "vintage_car_2": "沙漠裡的藍色跑車",
+        "vintage_car_3": "銀色布加迪",
+        "vintage_car_4": "路上的黑色保時捷",
+        "vintage_car_5": "棕櫚樹街道上的橘色 BMW",
+        "vintage_car_6": "車庫旁的藍色雙門跑車",
+        "vintage_car_7": "綠色小貨車",
+        "vintage_car_8": "紅色岩石間的白色休旅車",
+        "vintage_car_9": "奧斯頓馬丁",
+        "vintage_car_10": "有白色條紋的藍色汽車"
+      }
+    },
+    "animals_safari": {
+      "title": "野生動物",
+      "description": "來自非洲草原的威風動物",
+      "theme": "野外動物",
+      "images": {
+        "lion_1": "威風的獅子",
+        "elephant_2": "非洲象",
+        "jaguar_3": "美洲豹",
+        "zebra_4": "斑馬",
+        "rhino_5": "強壯的犀牛",
+        "cheetah_6": "跑得很快的獵豹",
+        "fox_7": "棕色的狐狸",
+        "bear_8": "北極熊",
+        "turtle_9": "棕色的烏龜",
+        "squirrel_10": "棕色的松鼠",
+        "macaw_11": "藍黃金剛鸚鵡",
+        "tiger_12": "老虎",
+        "raccoon_13": "浣熊",
+        "wolf_14": "灰狼",
+        "crocodile_15": "鱷魚",
+        "peacock_16": "美麗的孔雀"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "美味甜點",
+      "description": "飯後來一點美味的甜點。",
+      "theme": "甜點",
+      "images": {
+        "pastries_1": "四個酥皮點心",
+        "oreo_cookie_sandwiches_2": "OREO 夾心餅乾",
+        "crepe_3": "可麗餅",
+        "pancake_4": "鬆餅",
+        "macarons_5": "馬卡龍",
+        "caramel_cake_6": "焦糖蛋糕"
+      }
+    },
+    "flowers_tropical": {
+      "title": "熱帶花卉",
+      "description": "這個圖片包有各種熱帶花卉，一起欣賞熱帶的繽紛之美。",
+      "theme": "熱帶花朵",
+      "images": {
+        "hibiscus_1": "紅色扶桑花",
+        "frangipani_2": "紅白相間的雞蛋花",
+        "sunflower_3": "向日葵",
+        "hydrangea_4": "白色繡球花",
+        "rose_5": "玫瑰",
+        "chrysanthemum_6": "菊花",
+        "anthurium_7": "火鶴花",
+        "plumeria_8": "緬梔花",
+        "kodom_9": "團花",
+        "delphinium_10": "飛燕草"
+      }
+    },
+    "food_street_snacks": {
+      "title": "街頭小吃",
+      "description": "這個圖片包有世界各地的美味小吃，一起逛逛繽紛的街頭小吃世界。",
+      "theme": "路邊美食",
+      "images": {
+        "taco_1": "墨西哥塔可",
+        "ramen_2": "日本拉麵",
+        "dumplings_3": "中式水餃",
+        "samosa_4": "印度咖哩角",
+        "pizza_5": "一片義大利披薩",
+        "crepe_6": "法式可麗餅",
+        "satay_7": "泰式沙嗲串",
+        "burger_8": "美式漢堡",
+        "bao_9": "包子",
+        "takoyaki_10": "日式章魚燒"
+      }
+    },
+    "nature_landscape": {
+      "title": "自然風景",
+      "description": "平靜美麗的自然景色，可以慢慢看，一起聊一聊。",
+      "theme": "自然風光",
+      "images": {
+        "mountain_1": "連綿的山脈",
+        "forest_2": "起霧的森林",
+        "lake_3": "高山湖泊",
+        "desert_4": "沙漠沙丘",
+        "waterfall_5": "瀑布",
+        "beach_6": "沙灘",
+        "river_7": "流動的河",
+        "canyon_8": "大峽谷",
+        "sunset_9": "夕陽下的天空",
+        "snow_mountain_10": "雪山",
+        "flowers_11": "野花",
+        "rainforest_12": "雨林",
+        "iceberg_13": "冰山",
+        "volcano_14": "火山",
+        "cliff_15": "海邊懸崖",
+        "aurora_16": "北極光",
+        "savannah_17": "熱帶草原",
+        "coral_reef_18": "珊瑚礁"
+      }
+    }
+  }
+}

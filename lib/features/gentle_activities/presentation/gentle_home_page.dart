@@ -13,6 +13,7 @@ import 'package:golden_moments/features/gentle_activities/presentation/photo_col
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
 import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
 import 'package:golden_moments/features/reminders/presentation/reminder_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/native/gm_native.dart';
 import 'package:golden_moments/shared/rating/review_request.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
@@ -58,7 +59,7 @@ class _GentleHomePageState extends State<GentleHomePage> {
       builder: (context) => GentleComfortSheet(
         initial: initial,
         maxPairs: ActivityPicture.samples.length,
-        closeLabel: 'Done',
+        closeLabel: context.l10n.commonDone,
         onChanged: (next) async => (prefs: next, saved: await store.save(next)),
         onReset: () async {
           await store.reset();
@@ -86,30 +87,15 @@ class _GentleHomePageState extends State<GentleHomePage> {
               mainAxisSize: MainAxisSize.min,
               children: [
                 Text(
-                  'Enjoy it together',
+                  context.l10n.homeGuideTitle,
                   style: Theme.of(context).textTheme.headlineSmall,
                 ),
                 const SizedBox(height: gmSpaceMd),
-                const Text(
-                  "Follow the person's interests. Keep pictures visible, "
-                  'use fewer tiles, or simply look together. There is no '
-                  'need to remember names or finish a game. Stop or change '
-                  'the activity if it is uncomfortable.',
-                ),
+                Text(context.l10n.homeGuideInterests),
                 const SizedBox(height: gmSpaceMd),
-                const Text(
-                  'Golden Moments offers recreation and shared '
-                  'conversation. It does not diagnose, treat, prevent, or '
-                  "measure dementia or Alzheimer's disease.",
-                ),
+                Text(context.l10n.homeGuideNotMedical),
                 const SizedBox(height: gmSpaceMd),
-                const Text(
-                  'Family-photo copies are stored on this device and may be'
-                  ' included in device backups. The app does not upload '
-                  'these copies or sync them between relatives. The picture'
-                  ' library is included in the app and works without '
-                  'internet.',
-                ),
+                Text(context.l10n.homeGuidePhotoCopies),
                 const SizedBox(height: gmSpaceLg),
                 OutlinedButton.icon(
                   onPressed: () {
@@ -117,7 +103,7 @@ class _GentleHomePageState extends State<GentleHomePage> {
                     _open(const HelpPrivacyPage());
                   },
                   icon: const Icon(Icons.help_outline),
-                  label: const Text('More help and privacy'),
+                  label: Text(context.l10n.homeGuideMoreHelp),
                 ),
                 const SizedBox(height: gmSpaceSm),
                 OutlinedButton.icon(
@@ -126,12 +112,12 @@ class _GentleHomePageState extends State<GentleHomePage> {
                     _open(const LegalInfoPage());
                   },
                   icon: const Icon(Icons.privacy_tip_outlined),
-                  label: const Text('Privacy, terms and support'),
+                  label: Text(context.l10n.commonPrivacyTermsSupport),
                 ),
                 const SizedBox(height: gmSpaceMd),
                 FilledButton(
                   onPressed: () => Navigator.pop(context),
-                  child: const Text('Close'),
+                  child: Text(context.l10n.commonClose),
                 ),
               ],
             ),
@@ -146,8 +132,9 @@ class _GentleHomePageState extends State<GentleHomePage> {
     final theme = Theme.of(context);
     const heroSize = Size.fromHeight(gmTargetHero);
     final largeText = MediaQuery.textScalerOf(context).scale(16) / 16 > 1.5;
+    final l10n = context.l10n;
     final heading = Text(
-      'Simple activities to enjoy together',
+      l10n.homeHeading,
       style: theme.textTheme.headlineMedium,
     );
     final start = FilledButton.icon(
@@ -155,7 +142,7 @@ class _GentleHomePageState extends State<GentleHomePage> {
       onPressed: () =>
           _open(const GentleGamePage(pictures: ActivityPicture.samples)),
       icon: const Icon(Icons.grid_view),
-      label: const Text('Start a gentle game'),
+      label: Text(l10n.homeStartGentleGame),
     );
     final children = <Widget>[
       // The one dominant action stays in the first view (GM-001):
@@ -169,17 +156,14 @@ class _GentleHomePageState extends State<GentleHomePage> {
       ],
       start,
       const SizedBox(height: gmSpaceSm),
-      Text(
-        'Four large tiles. No timers, scores, or rush.',
-        style: theme.textTheme.bodyLarge,
-      ),
+      Text(l10n.homeStartGentleGameHint, style: theme.textTheme.bodyLarge),
       if (largeText) ...[const SizedBox(height: gmSpaceLg), heading],
       const SizedBox(height: gmSpaceXl),
       OutlinedButton.icon(
         style: OutlinedButton.styleFrom(minimumSize: heroSize),
         onPressed: () => _open(const PhotoCollectionPage()),
         icon: const Icon(Icons.photo_library_outlined),
-        label: const Text('Your family photos'),
+        label: Text(l10n.commonYourFamilyPhotos),
       ),
       const SizedBox(height: gmSpaceMd),
       OutlinedButton.icon(
@@ -187,14 +171,12 @@ class _GentleHomePageState extends State<GentleHomePage> {
         onPressed: () =>
             _open(const PhotoTogetherPage(pictures: ActivityPicture.samples)),
         icon: const Icon(Icons.chat_bubble_outline),
-        label: const Text('Look together'),
+        label: Text(l10n.commonLookTogether),
       ),
       const SizedBox(height: gmSpaceXl),
       Text(
-        // A non-breaking hyphen keeps "Wi‑Fi" on one line.
-        'The starter illustrations work without Wi\u2011Fi. Selected '
-        'family photos work offline after they are copied to this '
-        'device.',
+        // The ARB text keeps a non-breaking hyphen in "Wi‑Fi".
+        l10n.homeOfflineNote,
         style: theme.textTheme.bodyMedium?.copyWith(
           color: theme.colorScheme.onSurfaceVariant,
         ),
@@ -204,13 +186,10 @@ class _GentleHomePageState extends State<GentleHomePage> {
         onPressed: () => _open(const MainNavigation()),
         icon: const Icon(Icons.collections_bookmark_outlined),
         // Centred like the line under it when it wraps.
-        label: const Text(
-          'Explore the picture-pack library',
-          textAlign: TextAlign.center,
-        ),
+        label: Text(l10n.homeExploreLibrary, textAlign: TextAlign.center),
       ),
       Text(
-        'All picture packs are included. Ready to play offline.',
+        l10n.homeLibraryOfflineNote,
         textAlign: TextAlign.center,
         style: theme.textTheme.bodyMedium?.copyWith(
           color: theme.colorScheme.onSurfaceVariant,
@@ -220,7 +199,7 @@ class _GentleHomePageState extends State<GentleHomePage> {
       // Always available, never pushed (DESIGN.md › Sharing).
       Center(
         child: ShareWithFamilyButton(
-          onPressed: () => unawaited(shareAndRemember()),
+          onPressed: () => unawaited(shareAndRemember(context.l10n)),
         ),
       ),
       // Optional and off until a helper turns it on (GM-038).
@@ -229,24 +208,24 @@ class _GentleHomePageState extends State<GentleHomePage> {
           child: TextButton.icon(
             onPressed: () => _open(ReminderPage(native: widget.native)),
             icon: const Icon(Icons.notifications_none),
-            label: const Text('Gentle reminder'),
+            label: Text(l10n.commonGentleReminder),
           ),
         ),
     ];
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: gmToolbarHeight(context),
-        title: const GmTitle('Golden Moments'),
+        title: GmTitle(l10n.appTitle),
         actions: [
           IconButton(
             onPressed: _showComfort,
             icon: const Icon(Icons.tune),
-            tooltip: 'Comfort settings',
+            tooltip: l10n.commonComfortSettings,
           ),
           IconButton(
             onPressed: _showGuide,
             icon: const Icon(Icons.info_outline),
-            tooltip: 'Guide and privacy',
+            tooltip: l10n.homeGuideTooltip,
           ),
         ],
       ),

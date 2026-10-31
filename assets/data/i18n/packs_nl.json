@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Dieren",
+      "description": "Lieve en vriendelijke dieren van over de hele wereld"
+    },
+    "nature": {
+      "name": "Natuur",
+      "description": "Mooie landschappen en plekjes in de natuur"
+    },
+    "food": {
+      "name": "Eten",
+      "description": "Lekkere gerechten en iets zoets"
+    },
+    "vintage": {
+      "name": "Auto’s",
+      "description": "Auto’s en vrachtwagens om naar te kijken en over te praten"
+    },
+    "flowers": {
+      "name": "Bloemen",
+      "description": "Mooie bloemen en tuinen"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Boerderijdieren",
+      "description": "Vriendelijke dieren, net als bij een uitstapje naar het platteland.",
+      "theme": "Op de boerderij",
+      "images": {
+        "cow_1": "Vriendelijke koe",
+        "pig_1": "Vrolijk varken",
+        "chicken_1": "Haan",
+        "buffalo_1": "Waterbuffel",
+        "horse_1": "Mooi paard",
+        "duck_1": "Eendenfamilie",
+        "goat_1": "Nieuwsgierige geit",
+        "rabbit_1": "Lief konijn"
+      }
+    },
+    "nature_mountains": {
+      "title": "Uitzicht op de bergen",
+      "description": "Prachtige berglandschappen en weidse uitzichten",
+      "theme": "Mooie natuur",
+      "images": {
+        "mountain_1": "Besneeuwde toppen",
+        "mountain_2": "De berg Fuji",
+        "mountain_3": "Dal in de Alpen",
+        "mountain_4": "Rotsige bergtop",
+        "mountain_5": "Beboste heuvels",
+        "mountain_6": "Bergen in de mist"
+      }
+    },
+    "vintage_cars": {
+      "title": "Auto’s en vrachtwagens",
+      "description": "Glimmende auto’s en vrachtwagens om naar te kijken en over te praten",
+      "theme": "Op de weg",
+      "images": {
+        "vintage_car_1": "Oranje Audi bij zonsondergang",
+        "vintage_car_2": "Blauwe sportauto in de woestijn",
+        "vintage_car_3": "Zilveren Bugatti",
+        "vintage_car_4": "Zwarte Porsche op de weg",
+        "vintage_car_5": "Oranje BMW in een straat met palmbomen",
+        "vintage_car_6": "Blauwe coupé bij een garage",
+        "vintage_car_7": "Groene pick-up",
+        "vintage_car_8": "Witte terreinwagen tussen rode rotsen",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Blauwe auto met witte strepen"
+      }
+    },
+    "animals_safari": {
+      "title": "Safaridieren",
+      "description": "Prachtige dieren van een safari in Afrika",
+      "theme": "Wilde dieren",
+      "images": {
+        "lion_1": "Statige leeuw",
+        "elephant_2": "Afrikaanse olifant",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Gestreepte zebra",
+        "rhino_5": "Sterke neushoorn",
+        "cheetah_6": "Snelle jachtluipaard",
+        "fox_7": "Bruine vos",
+        "bear_8": "IJsbeer",
+        "turtle_9": "Bruine schildpad",
+        "squirrel_10": "Bruine eekhoorn",
+        "macaw_11": "Geelblauwe ara",
+        "tiger_12": "Tijger",
+        "raccoon_13": "Wasbeer",
+        "wolf_14": "Grijze wolf",
+        "crocodile_15": "Krokodil",
+        "peacock_16": "Mooie pauw"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Lekkere toetjes",
+      "description": "Een paar lekkere toetjes na het eten.",
+      "theme": "Zoete toetjes",
+      "images": {
+        "pastries_1": "Vier gebakjes",
+        "oreo_cookie_sandwiches_2": "Oreo-koekjes",
+        "crepe_3": "Flensje",
+        "pancake_4": "Pannenkoek",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Karameltaart"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropische bloesems",
+      "description": "Ontdek de kleurrijke bloemen van de tropen in dit pakket met bijzondere bloemen.",
+      "theme": "Tropische bloemen",
+      "images": {
+        "hibiscus_1": "Rode hibiscus",
+        "frangipani_2": "Rood-witte frangipani",
+        "sunflower_3": "Zonnebloem",
+        "hydrangea_4": "Witte hortensia",
+        "rose_5": "Roos",
+        "chrysanthemum_6": "Chrysant",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Ridderspoor"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Straateten",
+      "description": "Ontdek de kleurrijke wereld van straateten, met lekkere hapjes van over de hele wereld.",
+      "theme": "Eten van de straat",
+      "images": {
+        "taco_1": "Mexicaanse taco",
+        "ramen_2": "Japanse ramen",
+        "dumplings_3": "Chinese dumplings",
+        "samosa_4": "Indiase samosa",
+        "pizza_5": "Italiaanse punt pizza",
+        "crepe_6": "Franse crêpe",
+        "satay_7": "Thaise saté",
+        "burger_8": "Amerikaanse hamburger",
+        "bao_9": "Gestoomd baobroodje",
+        "takoyaki_10": "Japanse takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Natuurlandschap",
+      "description": "Rustige, mooie plekjes in de natuur om op je gemak te bekijken en samen over te praten.",
+      "theme": "Landschappen",
+      "images": {
+        "mountain_1": "Bergketen",
+        "forest_2": "Bos in de mist",
+        "lake_3": "Bergmeer",
+        "desert_4": "Zandduinen in de woestijn",
+        "waterfall_5": "Waterval",
+        "beach_6": "Zandstrand",
+        "river_7": "Stromende rivier",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Lucht bij zonsondergang",
+        "snow_mountain_10": "Besneeuwde berg",
+        "flowers_11": "Wilde bloemen",
+        "rainforest_12": "Regenwoud",
+        "iceberg_13": "IJsberg",
+        "volcano_14": "Vulkaan",
+        "cliff_15": "Kliffen aan zee",
+        "aurora_16": "Noorderlicht",
+        "savannah_17": "Savanne",
+        "coral_reef_18": "Koraalrif"
+      }
+    }
+  }
+}

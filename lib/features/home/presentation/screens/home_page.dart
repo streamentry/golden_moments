@@ -15,6 +15,7 @@ import 'package:golden_moments/features/home/presentation/widgets/library_sectio
 import 'package:golden_moments/features/home/presentation/widgets/pack_choice_not_saved.dart';
 import 'package:golden_moments/features/home/presentation/widgets/setting_modal.dart';
 import 'package:golden_moments/features/pack/presentation/screens/pack_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 /// Home page of the Memory Lane app
 class HomePage extends StatelessWidget {
@@ -47,7 +48,9 @@ class HomeView extends StatelessWidget {
           case HomeStatus.loading:
             body = const _LoadingView();
           case HomeStatus.error:
-            body = _ErrorView(message: state.errorMessage);
+            // The raw error is English developer text, so the screen shows a
+            // plain, translated sentence instead.
+            body = const _ErrorView();
           case HomeStatus.loaded:
             body = _LoadedView(state: state);
         }
@@ -57,7 +60,9 @@ class HomeView extends StatelessWidget {
             // Opened from the gentle home this is one place among several, so
             // it is named for what it holds; on the web it is the whole app.
             title: GmTitle(
-              Navigator.canPop(context) ? 'Picture packs' : 'Golden Moments',
+              Navigator.canPop(context)
+                  ? context.l10n.libraryTitlePicturePacks
+                  : context.l10n.appTitle,
             ),
             actions: [
               IconButton(
@@ -66,7 +71,7 @@ class HomeView extends StatelessWidget {
                   unawaited(SoundService().playTap());
                   unawaited(showSettingModal(context: parentContext));
                 },
-                tooltip: 'Settings',
+                tooltip: context.l10n.commonSettings,
               ),
             ],
           ),
@@ -90,7 +95,7 @@ class _LoadingView extends StatelessWidget {
           const CircularProgressIndicator(),
           const SizedBox(height: gmSpaceMd),
           Text(
-            'Getting the picture packs ready…',
+            parentContext.l10n.libraryLoading,
             style: Theme.of(parentContext).textTheme.bodyLarge,
             textAlign: TextAlign.center,
           ),
@@ -102,9 +107,7 @@ class _LoadingView extends StatelessWidget {
 
 /// Error state view
 class _ErrorView extends StatelessWidget {
-  const new({required this.message});
-
-  final String? message;
+  const new();
 
   @override
   Widget build(BuildContext parentContext) {
@@ -121,20 +124,19 @@ class _ErrorView extends StatelessWidget {
             ),
             const SizedBox(height: gmSpaceMd),
             Text(
-              'The picture library could not open',
+              parentContext.l10n.libraryErrorTitle,
               style: Theme.of(parentContext).textTheme.headlineSmall,
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
-              message ??
-                  'Your gentle activities still work. You can try again now.',
+              parentContext.l10n.libraryErrorBody,
               style: Theme.of(parentContext).textTheme.bodyLarge,
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceLg),
             GmPrimaryButton(
-              label: 'Try again',
+              label: parentContext.l10n.commonTryAgain,
               onTap: () {
                 unawaited(parentContext.read<HomeCubit>().initialize());
               },
@@ -276,8 +278,7 @@ class _WelcomeSection extends StatelessWidget {
   Widget build(BuildContext parentContext) {
     final theme = Theme.of(parentContext);
     return Text(
-      'Picture matching at your own pace. Every pack is included and works '
-      'offline.',
+      parentContext.l10n.libraryWelcome,
       style: theme.textTheme.bodyLarge?.copyWith(
         color: theme.colorScheme.onSurfaceVariant,
       ),

@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/game.dart';
+import 'package:golden_moments/l10n/l10n.dart';
+import 'package:golden_moments/l10n/pack_text.dart';
 import 'package:golden_moments/shared/widgets/gm_mounted_picture.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
 
@@ -37,6 +39,9 @@ class PackCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
+    final l10n = context.l10n;
+    final text = context.packText;
+    final title = text.packTitle(pack);
     return Card(
       clipBehavior: Clip.antiAlias,
       child: Column(
@@ -55,7 +60,10 @@ class PackCard extends StatelessWidget {
                 },
             // One labelled button for a screen reader: the role annotates
             // the tappable surface's own node (GM-014).
-            child: Semantics(button: true, child: _buildLayout(theme)),
+            child: Semantics(
+              button: true,
+              child: _buildLayout(theme, l10n, title, text.packTheme(pack)),
+            ),
           ),
           if (_hasActions) ...[
             // A hairline sets the choices apart from the picture and its
@@ -66,14 +74,14 @@ class PackCard extends StatelessWidget {
               indent: gmSpaceSm,
               endIndent: gmSpaceSm,
             ),
-            _buildActions(theme),
+            _buildActions(theme, l10n, title),
           ],
         ],
       ),
     );
   }
 
-  Widget _buildActions(ThemeData theme) {
+  Widget _buildActions(ThemeData theme, AppLocalizations l10n, String title) {
     return Padding(
       padding: const EdgeInsets.fromLTRB(
         gmSpaceXs,
@@ -96,10 +104,12 @@ class PackCard extends StatelessWidget {
                   onPressed: () => onChanged(!isFavorite),
                   icon: Icon(isFavorite ? Icons.star : Icons.star_border),
                   label: Text(
-                    isFavorite ? 'In favorites' : 'Add to favorites',
+                    isFavorite
+                        ? l10n.libraryHiddenInFavorites
+                        : l10n.packAddToFavorites,
                     semanticsLabel: isFavorite
-                        ? 'In favorites, ${pack.title}'
-                        : 'Add to favorites, ${pack.title}',
+                        ? l10n.packInFavoritesLabel(title)
+                        : l10n.packAddToFavoritesLabel(title),
                   ),
                 ),
               ),
@@ -110,8 +120,8 @@ class PackCard extends StatelessWidget {
               onPressed: onHide,
               icon: const Icon(Icons.visibility_off_outlined),
               label: Text(
-                'Not for me',
-                semanticsLabel: 'Not for me, hide ${pack.title}',
+                l10n.packNotForMe,
+                semanticsLabel: l10n.packNotForMeLabel(title),
               ),
             ),
         ],
@@ -119,7 +129,12 @@ class PackCard extends StatelessWidget {
     );
   }
 
-  Widget _buildLayout(ThemeData theme) {
+  Widget _buildLayout(
+    ThemeData theme,
+    AppLocalizations l10n,
+    String title,
+    String packTheme,
+  ) {
     final scheme = theme.colorScheme;
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -129,10 +144,10 @@ class PackCard extends StatelessWidget {
             // Cards are at least 300 wide (PackGrid), so a wide frame keeps
             // the picture large without making cards tall.
             GmMountedPicture(asset: pack.thumbnailUrl, aspectRatio: 16 / 9),
-            Positioned(
+            PositionedDirectional(
               top: gmSpaceMd,
-              right: gmSpaceMd,
-              child: _buildBadges(theme),
+              end: gmSpaceMd,
+              child: _buildBadges(theme, l10n),
             ),
           ],
         ),
@@ -148,9 +163,9 @@ class PackCard extends StatelessWidget {
             mainAxisSize: MainAxisSize.min,
             children: [
               // Nothing is clamped: the card grows with its text.
-              Text(pack.title, style: theme.textTheme.titleLarge),
+              Text(title, style: theme.textTheme.titleLarge),
               Text(
-                pack.theme,
+                packTheme,
                 style: theme.textTheme.bodySmall?.copyWith(
                   color: scheme.onSurfaceVariant,
                 ),
@@ -161,7 +176,7 @@ class PackCard extends StatelessWidget {
                 runSpacing: gmSpaceXs,
                 crossAxisAlignment: WrapCrossAlignment.center,
                 children: [
-                  _buildDifficultyChip(theme),
+                  _buildDifficultyChip(theme, l10n),
                   Row(
                     mainAxisSize: MainAxisSize.min,
                     children: [
@@ -175,7 +190,7 @@ class PackCard extends StatelessWidget {
                       // overflowing at large text sizes.
                       Flexible(
                         child: Text(
-                          'Play',
+                          l10n.packPlay,
                           style: theme.textTheme.labelSmall?.copyWith(
                             color: scheme.primary,
                           ),
@@ -211,10 +226,12 @@ class PackCard extends StatelessWidget {
     );
   }
 
-  Widget _buildBadges(ThemeData theme) {
+  Widget _buildBadges(ThemeData theme, AppLocalizations l10n) {
     final badges = <Widget>[
-      if (showDailyBadge) _badge(theme, 'Daily', theme.colorScheme.secondary),
-      if (showPremiumBadge) _badge(theme, 'Premium', theme.colorScheme.primary),
+      if (showDailyBadge)
+        _badge(theme, l10n.packBadgeDaily, theme.colorScheme.secondary),
+      if (showPremiumBadge)
+        _badge(theme, l10n.packBadgePremium, theme.colorScheme.primary),
     ];
     if (badges.isEmpty) return const SizedBox.shrink();
 
@@ -232,7 +249,7 @@ class PackCard extends StatelessWidget {
 
   /// Size is a concrete choice, not a level: the chip says how many tiles,
   /// in the same words as the comfort settings, and stays neutral.
-  Widget _buildDifficultyChip(ThemeData theme) {
+  Widget _buildDifficultyChip(ThemeData theme, AppLocalizations l10n) {
     return DecoratedBox(
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(gmRadiusMd),
@@ -244,7 +261,7 @@ class PackCard extends StatelessWidget {
           vertical: gmSpaceXs,
         ),
         child: Text(
-          '${pack.difficulty.totalTiles} tiles',
+          l10n.packTileCount(pack.difficulty.totalTiles),
           style: theme.textTheme.labelSmall?.copyWith(
             color: theme.colorScheme.onSurfaceVariant,
           ),

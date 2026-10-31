@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Con vật",
+      "description": "Những con vật dễ thương, thân thiện từ khắp nơi trên thế giới"
+    },
+    "nature": {
+      "name": "Thiên nhiên",
+      "description": "Phong cảnh và thiên nhiên tươi đẹp"
+    },
+    "food": {
+      "name": "Món ăn",
+      "description": "Những món ăn và món ngọt ngon miệng"
+    },
+    "vintage": {
+      "name": "Xe cộ",
+      "description": "Ô tô và xe tải để cùng ngắm và trò chuyện"
+    },
+    "flowers": {
+      "name": "Hoa",
+      "description": "Những bông hoa đẹp và cảnh vườn"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Con vật ở trang trại",
+      "description": "Những con vật thân thiện ở trang trại, như một chuyến về thăm quê.",
+      "theme": "Đời sống trang trại",
+      "images": {
+        "cow_1": "Chú bò hiền lành",
+        "pig_1": "Chú heo vui vẻ",
+        "chicken_1": "Gà trống",
+        "buffalo_1": "Con trâu",
+        "horse_1": "Chú ngựa đẹp",
+        "duck_1": "Gia đình vịt",
+        "goat_1": "Chú dê tò mò",
+        "rabbit_1": "Chú thỏ dễ thương"
+      }
+    },
+    "nature_mountains": {
+      "title": "Cảnh núi non",
+      "description": "Phong cảnh núi non hùng vĩ và những khung cảnh đẹp",
+      "theme": "Vẻ đẹp thiên nhiên",
+      "images": {
+        "mountain_1": "Đỉnh núi phủ tuyết",
+        "mountain_2": "Núi Phú Sĩ",
+        "mountain_3": "Thung lũng trên núi cao",
+        "mountain_4": "Đỉnh núi đá",
+        "mountain_5": "Đồi rừng",
+        "mountain_6": "Núi trong sương"
+      }
+    },
+    "vintage_cars": {
+      "title": "Ô tô và xe tải",
+      "description": "Ô tô và xe tải bóng loáng để cùng ngắm và trò chuyện",
+      "theme": "Trên đường",
+      "images": {
+        "vintage_car_1": "Xe Audi màu cam lúc hoàng hôn",
+        "vintage_car_2": "Xe thể thao màu xanh trên sa mạc",
+        "vintage_car_3": "Xe Bugatti màu bạc",
+        "vintage_car_4": "Xe Porsche màu đen trên đường",
+        "vintage_car_5": "Xe BMW màu cam trên phố có hàng cọ",
+        "vintage_car_6": "Xe coupe màu xanh cạnh nhà để xe",
+        "vintage_car_7": "Xe bán tải màu xanh lá",
+        "vintage_car_8": "Xe SUV màu trắng giữa núi đá đỏ",
+        "vintage_car_9": "Xe Aston Martin",
+        "vintage_car_10": "Xe màu xanh có sọc trắng"
+      }
+    },
+    "animals_safari": {
+      "title": "Thú hoang dã",
+      "description": "Những loài thú oai vệ trên các thảo nguyên châu Phi",
+      "theme": "Thế giới hoang dã",
+      "images": {
+        "lion_1": "Sư tử oai vệ",
+        "elephant_2": "Voi châu Phi",
+        "jaguar_3": "Báo đốm",
+        "zebra_4": "Ngựa vằn",
+        "rhino_5": "Tê giác khỏe mạnh",
+        "cheetah_6": "Báo săn nhanh nhẹn",
+        "fox_7": "Cáo nâu",
+        "bear_8": "Gấu Bắc Cực",
+        "turtle_9": "Rùa nâu",
+        "squirrel_10": "Sóc nâu",
+        "macaw_11": "Vẹt đuôi dài xanh vàng",
+        "tiger_12": "Con hổ",
+        "raccoon_13": "Gấu mèo",
+        "wolf_14": "Sói xám",
+        "crocodile_15": "Cá sấu",
+        "peacock_16": "Chim công đẹp"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Món tráng miệng ngon",
+      "description": "Vài món tráng miệng ngon cho bữa ăn.",
+      "theme": "Món ngọt",
+      "images": {
+        "pastries_1": "Bốn chiếc bánh ngọt",
+        "oreo_cookie_sandwiches_2": "Bánh quy Oreo",
+        "crepe_3": "Bánh crepe",
+        "pancake_4": "Bánh kếp",
+        "macarons_5": "Bánh macaron",
+        "caramel_cake_6": "Bánh caramel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Hoa nhiệt đới",
+      "description": "Ngắm vẻ đẹp rực rỡ của miền nhiệt đới với bộ hình những loài hoa lạ này.",
+      "theme": "Hoa nhiệt đới",
+      "images": {
+        "hibiscus_1": "Hoa dâm bụt đỏ",
+        "frangipani_2": "Hoa sứ đỏ trắng",
+        "sunflower_3": "Hoa hướng dương",
+        "hydrangea_4": "Hoa cẩm tú cầu trắng",
+        "rose_5": "Hoa hồng",
+        "chrysanthemum_6": "Hoa cúc",
+        "anthurium_7": "Hoa hồng môn",
+        "plumeria_8": "Hoa sứ",
+        "kodom_9": "Hoa gáo",
+        "delphinium_10": "Hoa phi yến"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Hội món ăn đường phố",
+      "description": "Khám phá thế giới món ăn đường phố đầy màu sắc với bộ hình những món ăn vặt ngon từ khắp nơi trên thế giới.",
+      "theme": "Món ăn đường phố",
+      "images": {
+        "taco_1": "Bánh taco Mexico",
+        "ramen_2": "Mì ramen Nhật Bản",
+        "dumplings_3": "Sủi cảo Trung Hoa",
+        "samosa_4": "Bánh samosa Ấn Độ",
+        "pizza_5": "Lát pizza Ý",
+        "crepe_6": "Bánh crepe Pháp",
+        "satay_7": "Xiên thịt nướng Thái",
+        "burger_8": "Bánh hamburger Mỹ",
+        "bao_9": "Bánh bao hấp",
+        "takoyaki_10": "Bánh takoyaki Nhật Bản"
+      }
+    },
+    "nature_landscape": {
+      "title": "Phong cảnh thiên nhiên",
+      "description": "Những cảnh thiên nhiên đẹp, yên bình để ngắm chậm rãi và cùng trò chuyện.",
+      "theme": "Phong cảnh thiên nhiên",
+      "images": {
+        "mountain_1": "Dãy núi",
+        "forest_2": "Rừng trong sương",
+        "lake_3": "Hồ trên núi",
+        "desert_4": "Đồi cát sa mạc",
+        "waterfall_5": "Thác nước",
+        "beach_6": "Bãi cát",
+        "river_7": "Dòng sông",
+        "canyon_8": "Hẻm núi lớn",
+        "sunset_9": "Bầu trời hoàng hôn",
+        "snow_mountain_10": "Núi tuyết",
+        "flowers_11": "Hoa dại",
+        "rainforest_12": "Rừng mưa",
+        "iceberg_13": "Tảng băng trôi",
+        "volcano_14": "Núi lửa",
+        "cliff_15": "Vách đá ven biển",
+        "aurora_16": "Cực quang",
+        "savannah_17": "Đồng cỏ xavan",
+        "coral_reef_18": "Rạn san hô"
+      }
+    }
+  }
+}

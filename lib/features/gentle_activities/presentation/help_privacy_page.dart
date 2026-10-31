@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/rating/review_request.dart';
 import 'package:golden_moments/shared/utils/support_info.dart';
 import 'package:golden_moments/shared/widgets/gm_copyable_text.dart';
@@ -69,13 +70,12 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
   Future<void> _send(String text, String subject) async {
     final outcome = await widget.sharer(text, subject);
     if (!mounted) return;
+    final l10n = context.l10n;
     setState(
       () => _status = switch (outcome) {
-        ShareOutcome.shared => 'Thank you. Nothing else was sent.',
-        ShareOutcome.dismissed => 'Nothing was sent. You can try again.',
-        ShareOutcome.unknown =>
-          'The share window closed. If you sent it, thank you. Nothing '
-              'else was sent.',
+        ShareOutcome.shared => l10n.helpStatusShared,
+        ShareOutcome.dismissed => l10n.helpStatusDismissed,
+        ShareOutcome.unknown => l10n.helpStatusUnknown,
       },
     );
   }
@@ -86,16 +86,13 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
       builder: (context) => const _NoteDialog(),
     );
     if (note == null || note.trim().isEmpty || !mounted) return;
-    await _send(feedbackMessage(note), 'Golden Moments note');
+    await _send(feedbackMessage(note), context.l10n.helpNoteSubject);
   }
 
   Future<void> _rate() async {
     if (await widget.storeOpener(storeReviewUrl()) || !mounted) return;
-    setState(
-      () => _status =
-          'Could not open the store. You can find Golden Moments there '
-          'later.',
-    );
+    final message = context.l10n.helpStatusStoreFailed;
+    setState(() => _status = message);
   }
 
   Future<void> _reportProblem() async {
@@ -104,13 +101,17 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
       builder: (context) => const _ProblemDialog(),
     );
     if (kind == null || !mounted) return;
-    await _send(diagnosticSummary(kind), 'Golden Moments problem report');
+    await _send(
+      diagnosticSummary(kind, context.l10n),
+      context.l10n.helpProblemSubject,
+    );
   }
 
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final muted = theme.colorScheme.onSurfaceVariant;
+    final l10n = context.l10n;
     Widget heading(String text) => Padding(
       padding: const EdgeInsets.only(top: gmSpaceLg, bottom: gmSpaceSm),
       child: Semantics(
@@ -125,7 +126,7 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: gmToolbarHeight(context),
-        title: const GmTitle('Help and privacy'),
+        title: GmTitle(l10n.helpTitle),
       ),
       body: SafeArea(
         child: Center(
@@ -135,69 +136,29 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
               padding: const EdgeInsets.all(gmSpaceLg),
               children: [
                 Text(
-                  'This page works without internet.',
+                  l10n.helpWorksOffline,
                   style: theme.textTheme.bodyMedium?.copyWith(color: muted),
                 ),
-                heading('Enjoying it together'),
-                para(
-                  'Follow the person’s interests. Keep pictures visible, use '
-                  'fewer tiles, or simply look together. There is no need to '
-                  'remember names or finish a game. It is fine to stop, or to '
-                  'change the activity, at any time.',
-                ),
-                para(
-                  'Golden Moments offers recreation and shared conversation. '
-                  'It does not diagnose, treat, prevent or measure dementia '
-                  'or Alzheimer’s disease.',
-                ),
-                heading('Your photos and privacy'),
-                para(
-                  'You choose which photos to add. Copies are kept on this '
-                  'device, and your originals are never changed. There is no '
-                  'account and no family sync.',
-                ),
-                para(
-                  'Copies may be included in your phone’s backups. Removing a '
-                  'copy here does not erase an earlier backup or a picture '
-                  'someone already received.',
-                ),
-                para(
-                  'The picture library is included in the app and works '
-                  'without internet.',
-                ),
-                heading('If something goes wrong'),
-                para(
-                  'Photos would not add: choose fewer or smaller photos and '
-                  'check your free space. Nothing already saved is changed.',
-                ),
-                para(
-                  'A game was not where you left it: choose Start fresh. Your '
-                  'photos and settings are not affected.',
-                ),
-                para(
-                  'Text or buttons are hard to use: change the text size in '
-                  'your phone’s settings. The app follows it.',
-                ),
-                heading('Reach us'),
-                para(
-                  'You can email $supportEmail (copy it; the app does not '
-                  'open your mail), or send a note or a problem report below. '
-                  'You review exactly what will be sent. Nothing is sent '
-                  'automatically.',
-                ),
+                heading(l10n.helpTogetherHeading),
+                para(l10n.helpTogetherInterests),
+                para(l10n.helpTogetherNotMedical),
+                heading(l10n.helpPhotosHeading),
+                para(l10n.helpPhotosChoose),
+                para(l10n.helpPhotosBackups),
+                para(l10n.helpPhotosLibrary),
+                heading(l10n.helpTroubleHeading),
+                para(l10n.helpTroublePhotos),
+                para(l10n.helpTroubleGame),
+                para(l10n.helpTroubleTextSize),
+                heading(l10n.helpReachHeading),
+                para(l10n.helpReachEmail(supportEmail)),
                 GmCopyableText(
                   supportEmail,
                   style: theme.textTheme.titleMedium,
                 ),
-                para(
-                  'Online help, when you are connected (copy this into your '
-                  'browser; the app does not open it):',
-                ),
+                para(l10n.helpOnlineHelp),
                 GmCopyableText(supportUrl, style: theme.textTheme.titleMedium),
-                para(
-                  'Privacy policy and terms of use (also copy-only; the app '
-                  'does not open them):',
-                ),
+                para(l10n.helpPolicyLinks),
                 GmCopyableText(
                   privacyPolicyUrl,
                   style: theme.textTheme.titleMedium,
@@ -207,24 +168,20 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
                 OutlinedButton.icon(
                   onPressed: _writeNote,
                   icon: const Icon(Icons.edit_note),
-                  label: const Text('Write a note'),
+                  label: Text(l10n.helpWriteNote),
                 ),
                 const SizedBox(height: gmSpaceSm),
                 OutlinedButton.icon(
                   onPressed: _reportProblem,
                   icon: const Icon(Icons.report_problem_outlined),
-                  label: const Text('Report a problem'),
+                  label: Text(l10n.commonReportProblem),
                 ),
-                heading('Tell other families'),
-                para(
-                  'If Golden Moments has been useful, a rating in the store '
-                  'helps other families find it. It is entirely optional, '
-                  'and separate from writing to us.',
-                ),
+                heading(l10n.helpRateHeading),
+                para(l10n.helpRateBody),
                 OutlinedButton.icon(
                   onPressed: _rate,
                   icon: const Icon(Icons.star_outline),
-                  label: const Text('Rate Golden Moments'),
+                  label: Text(l10n.helpRateButton),
                 ),
                 if (_status != null) ...[
                   const SizedBox(height: gmSpaceMd),
@@ -235,13 +192,13 @@ class _HelpPrivacyPageState extends State<HelpPrivacyPage> {
                 ],
                 const SizedBox(height: gmSpaceLg),
                 Text(
-                  'Version $appVersion',
+                  l10n.helpVersion(appVersion),
                   style: theme.textTheme.bodyMedium?.copyWith(color: muted),
                 ),
                 const SizedBox(height: gmSpaceMd),
                 TextButton(
                   onPressed: () => Navigator.of(context).pop(),
-                  child: const Text('Done for now'),
+                  child: Text(l10n.commonDoneForNow),
                 ),
               ],
             ),
@@ -272,9 +229,10 @@ class _NoteDialogState extends State<_NoteDialog> {
   @override
   Widget build(BuildContext context) {
     final preview = feedbackMessage(_controller.text);
+    final l10n = context.l10n;
     return AlertDialog(
       scrollable: true,
-      title: const GmTitle('Write a note'),
+      title: GmTitle(l10n.helpWriteNote),
       content: Column(
         mainAxisSize: MainAxisSize.min,
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -285,16 +243,15 @@ class _NoteDialogState extends State<_NoteDialog> {
             maxLines: 5,
             minLines: 3,
             textCapitalization: TextCapitalization.sentences,
-            decoration: const InputDecoration(
-              labelText: 'Your note',
-              helperText:
-                  'Please leave out names, addresses and anything private.',
+            decoration: InputDecoration(
+              labelText: l10n.helpNoteField,
+              helperText: l10n.helpNoteFieldHint,
             ),
             onChanged: (_) => setState(() {}),
           ),
           const SizedBox(height: gmSpaceMd),
           Text(
-            'This is exactly what will be shared:',
+            l10n.helpNotePreviewHeading,
             style: Theme.of(context).textTheme.titleMedium,
           ),
           const SizedBox(height: gmSpaceSm),
@@ -304,18 +261,15 @@ class _NoteDialogState extends State<_NoteDialog> {
       actions: gmDialogActions(
         other: TextButton(
           onPressed: () => Navigator.pop(context),
-          child: const Text('Cancel', textAlign: TextAlign.center),
+          child: Text(l10n.commonCancel, textAlign: TextAlign.center),
         ),
         primary: FilledButton(
           onPressed: _controller.text.trim().isEmpty
               ? null
               : () => Navigator.pop(context, _controller.text),
-          child: const Text(
-            'Choose where to send',
-            textAlign: TextAlign.center,
-          ),
+          child: Text(l10n.helpChooseWhereToSend, textAlign: TextAlign.center),
         ),
-        labels: ('Cancel', 'Choose where to send'),
+        labels: (l10n.commonCancel, l10n.helpChooseWhereToSend),
       ),
     );
   }
@@ -333,9 +287,10 @@ class _ProblemDialogState extends State<_ProblemDialog> {
 
   @override
   Widget build(BuildContext context) {
+    final l10n = context.l10n;
     return AlertDialog(
       scrollable: true,
-      title: const GmTitle('Report a problem'),
+      title: GmTitle(l10n.commonReportProblem),
       content: Column(
         mainAxisSize: MainAxisSize.min,
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -349,34 +304,30 @@ class _ProblemDialogState extends State<_ProblemDialog> {
                   RadioListTile<ProblemKind>(
                     contentPadding: EdgeInsets.zero,
                     value: kind,
-                    title: Text(kind.label),
+                    title: Text(kind.label(context.l10n)),
                   ),
               ],
             ),
           ),
           const SizedBox(height: gmSpaceSm),
           Text(
-            'This is exactly what will be shared. It has no photos, names or '
-            'file details:',
+            l10n.helpProblemPreviewHeading,
             style: Theme.of(context).textTheme.titleMedium,
           ),
           const SizedBox(height: gmSpaceSm),
-          GmCopyableText(diagnosticSummary(_kind)),
+          GmCopyableText(diagnosticSummary(_kind, context.l10n)),
         ],
       ),
       actions: gmDialogActions(
         other: TextButton(
           onPressed: () => Navigator.pop(context),
-          child: const Text('Cancel', textAlign: TextAlign.center),
+          child: Text(l10n.commonCancel, textAlign: TextAlign.center),
         ),
         primary: FilledButton(
           onPressed: () => Navigator.pop(context, _kind),
-          child: const Text(
-            'Choose where to send',
-            textAlign: TextAlign.center,
-          ),
+          child: Text(l10n.helpChooseWhereToSend, textAlign: TextAlign.center),
         ),
-        labels: ('Cancel', 'Choose where to send'),
+        labels: (l10n.commonCancel, l10n.helpChooseWhereToSend),
       ),
     );
   }

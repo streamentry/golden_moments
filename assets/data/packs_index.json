@@ -48,7 +48,7 @@
     {
       "id": "animals_farm",
       "title": "Farm Animals",
-      "description": "Friendly farm animals that will bring back memories of countryside visits",
+      "description": "Friendly farm animals, like on a visit to the countryside.",
       "theme": "Farm Life",
       "category": "animals",
       "difficulty": "medium",
@@ -347,7 +347,7 @@
         {
           "id": "wolf_14",
           "url": "assets/images/catalog/f4dbb5fd2094d06ca294a21d.jpg",
-          "caption": "Angry Wolf"
+          "caption": "Grey Wolf"
         },
         {
           "id": "crocodile_15",
@@ -364,7 +364,7 @@
     {
       "id": "food_desserts_homemade",
       "title": "Delicious Desserts",
-      "description": "Some delicious desserts for your meals!",
+      "description": "Some delicious desserts for your meals.",
       "theme": "Sweet desserts",
       "category": "food",
       "difficulty": "easy",
@@ -423,7 +423,7 @@
     {
       "id": "flowers_tropical",
       "title": "Tropical Blossoms",
-      "description": "Discover the vibrant beauty of the tropics with this pack of exotic flowers!",
+      "description": "Discover the vibrant beauty of the tropics with this pack of exotic flowers.",
       "theme": "Tropical Flowers",
       "category": "flowers",
       "difficulty": "hard",
@@ -502,7 +502,7 @@
     {
       "id": "food_street_snacks",
       "title": "Street Food Fiesta",
-      "description": "Dive into the colorful world of street food with this pack of delicious global snacks!",
+      "description": "Explore the colorful world of street food with this pack of delicious snacks from around the world.",
       "theme": "Street Food",
       "category": "food",
       "difficulty": "hard",
@@ -582,7 +582,7 @@
     {
       "id": "nature_landscape",
       "title": "Nature Landscape",
-      "description": "Test your mind with stunning nature images designed to sharpen your memory and observation skills!",
+      "description": "Calm, beautiful nature scenes to look at slowly and talk about together.",
       "theme": "Nature Landscapes",
       "category": "nature",
       "difficulty": "brainy",

@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Tiere",
+      "description": "Liebe und freundliche Tiere aus aller Welt"
+    },
+    "nature": {
+      "name": "Natur",
+      "description": "Schöne Landschaften und Bilder aus der Natur"
+    },
+    "food": {
+      "name": "Essen",
+      "description": "Leckere Gerichte und Süßes"
+    },
+    "vintage": {
+      "name": "Autos",
+      "description": "Autos und Lastwagen zum Anschauen und Erzählen"
+    },
+    "flowers": {
+      "name": "Blumen",
+      "description": "Schöne Blüten und Bilder aus dem Garten"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Tiere vom Bauernhof",
+      "description": "Freundliche Tiere vom Bauernhof, wie bei einem Ausflug aufs Land",
+      "theme": "Leben auf dem Bauernhof",
+      "images": {
+        "cow_1": "Freundliche Kuh",
+        "pig_1": "Fröhliches Schwein",
+        "chicken_1": "Hahn",
+        "buffalo_1": "Wasserbüffel",
+        "horse_1": "Schönes Pferd",
+        "duck_1": "Entenfamilie",
+        "goat_1": "Neugierige Ziege",
+        "rabbit_1": "Niedliches Kaninchen"
+      }
+    },
+    "nature_mountains": {
+      "title": "Blick auf die Berge",
+      "description": "Herrliche Berglandschaften und weite Aussichten",
+      "theme": "Schöne Natur",
+      "images": {
+        "mountain_1": "Schneebedeckte Gipfel",
+        "mountain_2": "Der Berg Fuji",
+        "mountain_3": "Tal in den Alpen",
+        "mountain_4": "Felsiger Gipfel",
+        "mountain_5": "Bewaldete Hügel",
+        "mountain_6": "Berge im Nebel"
+      }
+    },
+    "vintage_cars": {
+      "title": "Autos und Lastwagen",
+      "description": "Glänzende Autos und Lastwagen zum Anschauen und Erzählen",
+      "theme": "Unterwegs",
+      "images": {
+        "vintage_car_1": "Oranger Audi im Abendrot",
+        "vintage_car_2": "Blauer Sportwagen in der Wüste",
+        "vintage_car_3": "Silberner Bugatti",
+        "vintage_car_4": "Schwarzer Porsche auf der Straße",
+        "vintage_car_5": "Oranger BMW in einer Straße mit Palmen",
+        "vintage_car_6": "Blaues Coupé vor einer Garage",
+        "vintage_car_7": "Grüner Pick-up",
+        "vintage_car_8": "Weißer Geländewagen zwischen roten Felsen",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Blaues Auto mit weißen Streifen"
+      }
+    },
+    "animals_safari": {
+      "title": "Tiere auf Safari",
+      "description": "Prächtige Tiere wie auf einer Safari in Afrika",
+      "theme": "Wilde Tiere",
+      "images": {
+        "lion_1": "Prächtiger Löwe",
+        "elephant_2": "Afrikanischer Elefant",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Gestreiftes Zebra",
+        "rhino_5": "Kräftiges Nashorn",
+        "cheetah_6": "Schneller Gepard",
+        "fox_7": "Brauner Fuchs",
+        "bear_8": "Eisbär",
+        "turtle_9": "Braune Schildkröte",
+        "squirrel_10": "Braunes Eichhörnchen",
+        "macaw_11": "Gelb-blauer Ara",
+        "tiger_12": "Tiger",
+        "raccoon_13": "Waschbär",
+        "wolf_14": "Grauer Wolf",
+        "crocodile_15": "Krokodil",
+        "peacock_16": "Schöner Pfau"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Leckere Desserts",
+      "description": "Ein paar leckere Desserts zum Essen dazu.",
+      "theme": "Süße Desserts",
+      "images": {
+        "pastries_1": "Vier Gebäckstücke",
+        "oreo_cookie_sandwiches_2": "Oreo-Kekse",
+        "crepe_3": "Crêpe",
+        "pancake_4": "Pfannkuchen",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Karamellkuchen"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropische Blüten",
+      "description": "Die leuchtende Schönheit der Tropen in einem Paket mit fremdländischen Blumen.",
+      "theme": "Tropische Blumen",
+      "images": {
+        "hibiscus_1": "Roter Hibiskus",
+        "frangipani_2": "Rot-weiße Frangipani",
+        "sunflower_3": "Sonnenblume",
+        "hydrangea_4": "Weiße Hortensie",
+        "rose_5": "Rose",
+        "chrysanthemum_6": "Chrysantheme",
+        "anthurium_7": "Flamingoblume",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kadam-Blüte",
+        "delphinium_10": "Rittersporn"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Streetfood-Fest",
+      "description": "Die bunte Welt des Streetfoods: leckere Kleinigkeiten aus aller Welt.",
+      "theme": "Streetfood",
+      "images": {
+        "taco_1": "Mexikanischer Taco",
+        "ramen_2": "Japanische Ramen",
+        "dumplings_3": "Chinesische Teigtaschen",
+        "samosa_4": "Indische Samosa",
+        "pizza_5": "Italienisches Stück Pizza",
+        "crepe_6": "Französischer Crêpe",
+        "satay_7": "Thailändische Satay-Spieße",
+        "burger_8": "Amerikanischer Burger",
+        "bao_9": "Gedämpftes Bao-Brötchen",
+        "takoyaki_10": "Japanische Takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Naturlandschaften",
+      "description": "Ruhige, schöne Bilder aus der Natur, die man langsam anschauen und gemeinsam besprechen kann.",
+      "theme": "Naturlandschaften",
+      "images": {
+        "mountain_1": "Bergkette",
+        "forest_2": "Wald im Nebel",
+        "lake_3": "Bergsee",
+        "desert_4": "Dünen in der Wüste",
+        "waterfall_5": "Wasserfall",
+        "beach_6": "Sandstrand",
+        "river_7": "Fließender Fluss",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Himmel bei Sonnenuntergang",
+        "snow_mountain_10": "Verschneiter Berg",
+        "flowers_11": "Wildblumen",
+        "rainforest_12": "Regenwald",
+        "iceberg_13": "Eisberg",
+        "volcano_14": "Vulkan",
+        "cliff_15": "Steilküste",
+        "aurora_16": "Nordlicht",
+        "savannah_17": "Savanne",
+        "coral_reef_18": "Korallenriff"
+      }
+    }
+  }
+}

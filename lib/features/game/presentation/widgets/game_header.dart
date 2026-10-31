@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/cubit/game_state.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 /// Calm guidance and found-pairs progress for the board. It deliberately
 /// shows no clock, move count or score (DESIGN.md › Interaction & Game Feel),
@@ -11,18 +12,13 @@ class GameHeader extends StatelessWidget {
   final GameState state;
 
   /// Shown whenever nothing has just happened.
-  static const instruction =
-      'Find the matching pictures. There is no time limit.';
+  static String instruction(AppLocalizations l10n) => l10n.gameInstruction;
 
   /// What just happened on the board, or null when nothing did.
-  static String? statusFor(GameState state) {
-    if (state.showingMismatch) {
-      return 'Take your time. Tap a picture to continue.';
-    }
-    if (state.hintTileIds.isNotEmpty) {
-      return 'Here is a pair that matches. Tap a picture to continue.';
-    }
-    if (state.lastTurnMatched) return 'These two match.';
+  static String? statusFor(GameState state, AppLocalizations l10n) {
+    if (state.showingMismatch) return l10n.gameStatusMismatch;
+    if (state.hintTileIds.isNotEmpty) return l10n.gameStatusHint;
+    if (state.lastTurnMatched) return l10n.gameStatusMatch;
     return null;
   }
 
@@ -30,7 +26,9 @@ class GameHeader extends StatelessWidget {
   Widget build(BuildContext parentContext) {
     final theme = Theme.of(parentContext);
     final scheme = theme.colorScheme;
-    final status = statusFor(state);
+    final l10n = parentContext.l10n;
+    final status = statusFor(state, l10n);
+    final message = status ?? instruction(l10n);
 
     return Wrap(
       spacing: gmSpaceMd,
@@ -43,9 +41,9 @@ class GameHeader extends StatelessWidget {
         Semantics(
           container: true,
           liveRegion: status != null,
-          label: status ?? instruction,
+          label: message,
           excludeSemantics: true,
-          child: Text(status ?? instruction, style: theme.textTheme.bodyLarge),
+          child: Text(message, style: theme.textTheme.bodyLarge),
         ),
         DecoratedBox(
           decoration: ShapeDecoration(
@@ -62,8 +60,10 @@ class GameHeader extends StatelessWidget {
             child: Text(
               // Progress in plain counts; no difficulty word, which reads
               // like a judgement of the person (GM-003).
-              '${state.matchedPairs} of '
-              '${state.currentPack.difficulty.pairCount} pairs',
+              l10n.gamePairsProgress(
+                state.matchedPairs,
+                state.currentPack.difficulty.pairCount,
+              ),
               style: theme.textTheme.labelSmall?.copyWith(
                 color: scheme.onSurfaceVariant,
               ),

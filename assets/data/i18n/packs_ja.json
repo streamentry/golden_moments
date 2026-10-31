@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "動物",
+      "description": "世界中の、かわいくて人なつこい動物たち"
+    },
+    "nature": {
+      "name": "自然",
+      "description": "美しい景色と自然の風景"
+    },
+    "food": {
+      "name": "食べもの",
+      "description": "おいしい料理とおやつ"
+    },
+    "vintage": {
+      "name": "車",
+      "description": "眺めて、おしゃべりしたくなる車やトラック"
+    },
+    "flowers": {
+      "name": "花",
+      "description": "美しい花と庭の風景"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "牧場の動物",
+      "description": "田舎を訪ねたときのような、人なつこい牧場の動物たち。",
+      "theme": "牧場の暮らし",
+      "images": {
+        "cow_1": "やさしい牛",
+        "pig_1": "ごきげんなブタ",
+        "chicken_1": "おんどり",
+        "buffalo_1": "水牛",
+        "horse_1": "きれいな馬",
+        "duck_1": "アヒルの親子",
+        "goat_1": "興味しんしんのヤギ",
+        "rabbit_1": "かわいいウサギ"
+      }
+    },
+    "nature_mountains": {
+      "title": "山の景色",
+      "description": "息をのむような山の景色と、見晴らしのよい眺め",
+      "theme": "自然の美しさ",
+      "images": {
+        "mountain_1": "雪をかぶった山々",
+        "mountain_2": "富士山",
+        "mountain_3": "アルプスの谷",
+        "mountain_4": "岩の山頂",
+        "mountain_5": "森の丘",
+        "mountain_6": "霧の山"
+      }
+    },
+    "vintage_cars": {
+      "title": "車とトラック",
+      "description": "眺めて、おしゃべりしたくなる、ぴかぴかの車やトラック",
+      "theme": "道をゆく",
+      "images": {
+        "vintage_car_1": "夕日とオレンジ色のアウディ",
+        "vintage_car_2": "砂漠を走る青いスポーツカー",
+        "vintage_car_3": "銀色のブガッティ",
+        "vintage_car_4": "道を走る黒いポルシェ",
+        "vintage_car_5": "ヤシ並木のオレンジ色のBMW",
+        "vintage_car_6": "ガレージのそばの青いクーペ",
+        "vintage_car_7": "緑のピックアップトラック",
+        "vintage_car_8": "赤い岩山と白いSUV",
+        "vintage_car_9": "アストンマーティン",
+        "vintage_car_10": "白いラインの青い車"
+      }
+    },
+    "animals_safari": {
+      "title": "サファリの動物",
+      "description": "アフリカのサファリで出会う、堂々とした動物たち",
+      "theme": "野生の動物",
+      "images": {
+        "lion_1": "堂々としたライオン",
+        "elephant_2": "アフリカゾウ",
+        "jaguar_3": "ジャガー",
+        "zebra_4": "しまもようのシマウマ",
+        "rhino_5": "力強いサイ",
+        "cheetah_6": "足の速いチーター",
+        "fox_7": "茶色のキツネ",
+        "bear_8": "ホッキョクグマ",
+        "turtle_9": "茶色のカメ",
+        "squirrel_10": "茶色のリス",
+        "macaw_11": "黄色と青のコンゴウインコ",
+        "tiger_12": "トラ",
+        "raccoon_13": "アライグマ",
+        "wolf_14": "灰色のオオカミ",
+        "crocodile_15": "ワニ",
+        "peacock_16": "きれいなクジャク"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "おいしいデザート",
+      "description": "食事のあとに楽しみたい、おいしいデザート。",
+      "theme": "甘いデザート",
+      "images": {
+        "pastries_1": "4つの焼き菓子",
+        "oreo_cookie_sandwiches_2": "オレオのクッキーサンド",
+        "crepe_3": "クレープ",
+        "pancake_4": "パンケーキ",
+        "macarons_5": "マカロン",
+        "caramel_cake_6": "キャラメルケーキ"
+      }
+    },
+    "flowers_tropical": {
+      "title": "南国の花",
+      "description": "色あざやかな南国の花を集めたセットです。",
+      "theme": "南国の花",
+      "images": {
+        "hibiscus_1": "赤いハイビスカス",
+        "frangipani_2": "赤と白のプルメリア",
+        "sunflower_3": "ひまわり",
+        "hydrangea_4": "白いアジサイ",
+        "rose_5": "バラ",
+        "chrysanthemum_6": "菊",
+        "anthurium_7": "アンスリウム",
+        "plumeria_8": "プルメリア",
+        "kodom_9": "カダムの花",
+        "delphinium_10": "デルフィニウム"
+      }
+    },
+    "food_street_snacks": {
+      "title": "世界の屋台めぐり",
+      "description": "世界のおいしい軽食を集めた、色とりどりの屋台料理のセットです。",
+      "theme": "屋台の味",
+      "images": {
+        "taco_1": "メキシコのタコス",
+        "ramen_2": "ラーメン",
+        "dumplings_3": "中国のギョーザ",
+        "samosa_4": "インドのサモサ",
+        "pizza_5": "イタリアのピザ",
+        "crepe_6": "フランスのクレープ",
+        "satay_7": "タイの串焼き サテ",
+        "burger_8": "アメリカのハンバーガー",
+        "bao_9": "ふかふかの中華まん",
+        "takoyaki_10": "たこ焼き"
+      }
+    },
+    "nature_landscape": {
+      "title": "自然の風景",
+      "description": "ゆっくり眺めて、いっしょに話したくなる、穏やかで美しい自然の風景。",
+      "theme": "自然の景色",
+      "images": {
+        "mountain_1": "連なる山々",
+        "forest_2": "霧の森",
+        "lake_3": "山の湖",
+        "desert_4": "砂漠の砂丘",
+        "waterfall_5": "滝",
+        "beach_6": "砂浜",
+        "river_7": "流れる川",
+        "canyon_8": "グランドキャニオン",
+        "sunset_9": "夕焼け空",
+        "snow_mountain_10": "雪山",
+        "flowers_11": "野の花",
+        "rainforest_12": "熱帯雨林",
+        "iceberg_13": "氷山",
+        "volcano_14": "火山",
+        "cliff_15": "海辺の崖",
+        "aurora_16": "オーロラ",
+        "savannah_17": "サバンナ",
+        "coral_reef_18": "サンゴ礁"
+      }
+    }
+  }
+}

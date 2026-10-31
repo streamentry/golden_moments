@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
 
 /// The colour of the line along the top of the bar.
@@ -19,6 +20,7 @@ Color _line(WidgetTester tester) {
 
 Widget _page({required GmMoreBelow moreBelow, required double contentHeight}) {
   return MaterialApp(
+    localizationsDelegates: AppLocalizations.localizationsDelegates,
     theme: gmBuildTheme(),
     home: Scaffold(
       body: moreBelow.watch(
@@ -89,6 +91,7 @@ void main() {
   testWidgets('without a listenable the bar draws no line', (tester) async {
     await tester.pumpWidget(
       MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
         theme: gmBuildTheme(),
         home: const Scaffold(
           bottomNavigationBar: GmBottomBar(child: Text('Done for now')),

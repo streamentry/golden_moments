@@ -2,6 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 class PictureView extends StatelessWidget {
   const new({required this.picture, this.fit = BoxFit.contain, super.key});
@@ -31,7 +32,10 @@ class PictureView extends StatelessWidget {
                 size: 40,
                 color: Theme.of(context).colorScheme.onSurfaceVariant,
               ),
-              const Text('Photo unavailable', textAlign: TextAlign.center),
+              Text(
+                context.l10n.pictureViewUnavailable,
+                textAlign: TextAlign.center,
+              ),
             ],
           ),
         ),

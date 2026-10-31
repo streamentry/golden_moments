@@ -10,6 +10,7 @@ import 'package:golden_moments/features/gentle_activities/presentation/help_priv
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_puzzle_page.dart';
 import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 double _contrast(Color a, Color b) {
@@ -38,6 +39,7 @@ Map<String, Color> _designColors() {
 }
 
 Widget _app(Widget home, {double textScale = 1}) => MaterialApp(
+  localizationsDelegates: AppLocalizations.localizationsDelegates,
   theme: gmBuildTheme(),
   builder: (context, child) => MediaQuery(
     data: MediaQuery.of(context)
@@ -369,6 +371,7 @@ void main() {
       late Brightness seen;
       await tester.pumpWidget(
         MaterialApp(
+          localizationsDelegates: AppLocalizations.localizationsDelegates,
           theme: gmBuildTheme(),
           themeMode: ThemeMode.light,
           home: Builder(

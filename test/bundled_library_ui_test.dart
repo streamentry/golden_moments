@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_home_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/pack_card.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -15,7 +16,12 @@ void main() {
     tester,
   ) async {
     await tester.runAsync(() => LocalPackService().getPacksIndex());
-    await tester.pumpWidget(const MaterialApp(home: GentleHomePage()));
+    await tester.pumpWidget(
+      const MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
+        home: GentleHomePage(),
+      ),
+    );
     final library = find.text('Explore the picture-pack library');
     await tester.ensureVisible(library);
     await tester.pumpAndSettle();

@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Animaux",
+      "description": "Des animaux sympathiques du monde entier"
+    },
+    "nature": {
+      "name": "Nature",
+      "description": "De beaux paysages et des scènes de nature"
+    },
+    "food": {
+      "name": "Cuisine",
+      "description": "De bons plats et des douceurs"
+    },
+    "vintage": {
+      "name": "Voitures",
+      "description": "Des voitures et des camions à regarder et à commenter"
+    },
+    "flowers": {
+      "name": "Fleurs",
+      "description": "De belles fleurs et des scènes de jardin"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Animaux de la ferme",
+      "description": "Des animaux de la ferme sympathiques, comme lors d’une promenade à la campagne",
+      "theme": "La vie à la ferme",
+      "images": {
+        "cow_1": "Vache paisible",
+        "pig_1": "Cochon content",
+        "chicken_1": "Coq",
+        "buffalo_1": "Buffle d’eau",
+        "horse_1": "Beau cheval",
+        "duck_1": "Famille de canards",
+        "goat_1": "Chèvre curieuse",
+        "rabbit_1": "Joli lapin"
+      }
+    },
+    "nature_mountains": {
+      "title": "Paysages de montagne",
+      "description": "De magnifiques paysages de montagne et de beaux panoramas",
+      "theme": "Beautés de la nature",
+      "images": {
+        "mountain_1": "Sommets enneigés",
+        "mountain_2": "Mont Fuji",
+        "mountain_3": "Vallée alpine",
+        "mountain_4": "Sommet rocheux",
+        "mountain_5": "Collines boisées",
+        "mountain_6": "Montagnes dans la brume"
+      }
+    },
+    "vintage_cars": {
+      "title": "Voitures et camions",
+      "description": "De belles voitures et des camions brillants à regarder et à commenter",
+      "theme": "Sur la route",
+      "images": {
+        "vintage_car_1": "Audi orange au coucher du soleil",
+        "vintage_car_2": "Voiture de sport bleue dans le désert",
+        "vintage_car_3": "Bugatti argentée",
+        "vintage_car_4": "Porsche noire sur la route",
+        "vintage_car_5": "BMW orange dans une rue bordée de palmiers",
+        "vintage_car_6": "Coupé bleu devant un garage",
+        "vintage_car_7": "Pick-up vert",
+        "vintage_car_8": "4x4 blanc parmi les rochers rouges",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Voiture bleue à bandes blanches"
+      }
+    },
+    "animals_safari": {
+      "title": "Animaux du safari",
+      "description": "De magnifiques animaux des safaris africains",
+      "theme": "Animaux sauvages",
+      "images": {
+        "lion_1": "Lion majestueux",
+        "elephant_2": "Éléphant d’Afrique",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Zèbre rayé",
+        "rhino_5": "Rhinocéros puissant",
+        "cheetah_6": "Guépard rapide",
+        "fox_7": "Renard roux",
+        "bear_8": "Ours polaire",
+        "turtle_9": "Tortue brune",
+        "squirrel_10": "Écureuil roux",
+        "macaw_11": "Ara jaune et bleu",
+        "tiger_12": "Tigre",
+        "raccoon_13": "Raton laveur",
+        "wolf_14": "Loup gris",
+        "crocodile_15": "Crocodile",
+        "peacock_16": "Beau paon"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Délicieux desserts",
+      "description": "De délicieux desserts pour vos repas.",
+      "theme": "Desserts gourmands",
+      "images": {
+        "pastries_1": "Quatre pâtisseries",
+        "oreo_cookie_sandwiches_2": "Biscuits Oreo",
+        "crepe_3": "Crêpe",
+        "pancake_4": "Pancake",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Gâteau au caramel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Fleurs des tropiques",
+      "description": "Découvrez la beauté éclatante des tropiques avec cette série de fleurs exotiques.",
+      "theme": "Fleurs tropicales",
+      "images": {
+        "hibiscus_1": "Hibiscus rouge",
+        "frangipani_2": "Frangipanier rouge et blanc",
+        "sunflower_3": "Tournesol",
+        "hydrangea_4": "Hortensia blanc",
+        "rose_5": "Rose",
+        "chrysanthemum_6": "Chrysanthème",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kadam",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Saveurs de rue",
+      "description": "Explorez le monde coloré de la cuisine de rue avec cette série de bons en-cas du monde entier.",
+      "theme": "Cuisine de rue",
+      "images": {
+        "taco_1": "Taco mexicain",
+        "ramen_2": "Ramen japonais",
+        "dumplings_3": "Raviolis chinois",
+        "samosa_4": "Samoussa indien",
+        "pizza_5": "Part de pizza italienne",
+        "crepe_6": "Crêpe française",
+        "satay_7": "Brochettes satay thaïlandaises",
+        "burger_8": "Burger américain",
+        "bao_9": "Bao à la vapeur",
+        "takoyaki_10": "Takoyaki japonais"
+      }
+    },
+    "nature_landscape": {
+      "title": "Paysages de nature",
+      "description": "De belles scènes de nature, calmes, à regarder tranquillement et à commenter ensemble.",
+      "theme": "Paysages naturels",
+      "images": {
+        "mountain_1": "Chaîne de montagnes",
+        "forest_2": "Forêt dans le brouillard",
+        "lake_3": "Lac de montagne",
+        "desert_4": "Dunes du désert",
+        "waterfall_5": "Cascade",
+        "beach_6": "Plage de sable",
+        "river_7": "Rivière",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Ciel au coucher du soleil",
+        "snow_mountain_10": "Montagne enneigée",
+        "flowers_11": "Fleurs sauvages",
+        "rainforest_12": "Forêt tropicale",
+        "iceberg_13": "Iceberg",
+        "volcano_14": "Volcan",
+        "cliff_15": "Falaise au bord de la mer",
+        "aurora_16": "Aurore boréale",
+        "savannah_17": "Savane",
+        "coral_reef_18": "Récif de corail"
+      }
+    }
+  }
+}

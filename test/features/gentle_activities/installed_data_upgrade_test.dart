@@ -11,6 +11,7 @@ import 'package:golden_moments/features/gentle_activities/data/gentle_session.da
 import 'package:golden_moments/features/gentle_activities/data/photo_annotations.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../helpers/failing_file_ops.dart';
@@ -151,6 +152,7 @@ void main() {
     addTearDown(() => tester.binding.setSurfaceSize(null));
     await tester.pumpWidget(
       MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
         theme: gmBuildTheme(),
         home: PhotoCollectionPage(directoryProvider: () async => photos),
       ),

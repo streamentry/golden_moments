@@ -5,7 +5,11 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
+
+/// The note shown after Hide, kept as a reason so it follows the language.
+enum _HideStatus { failed, hiddenForVisit, hiddenSaved }
 
 /// Looking and talking are optional: this is not a recall or recognition test.
 ///
@@ -31,7 +35,7 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
   bool _showCaption = false;
   bool _hiding = false;
   bool _usingIncluded = false;
-  String? _status;
+  _HideStatus? _status;
 
   /// When the picture changes, the view returns to it: at large text the
   /// person may have scrolled down to the buttons, and a new picture
@@ -62,11 +66,19 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
     });
   }
 
-  static const _prompts = [
-    'What do you like about this picture?',
-    'What catches your eye?',
-    'Would you like to talk about this, or look at another picture?',
+  /// Open-ended conversation prompts, never a recall question.
+  static List<String> _prompts(AppLocalizations l10n) => [
+    l10n.togetherPromptLike,
+    l10n.togetherPromptCatchesEye,
+    l10n.togetherPromptTalkOrMove,
   ];
+
+  String _statusText(AppLocalizations l10n, _HideStatus status) =>
+      switch (status) {
+        _HideStatus.failed => l10n.togetherHideFailed,
+        _HideStatus.hiddenForVisit => l10n.togetherHiddenForVisit,
+        _HideStatus.hiddenSaved => l10n.togetherHiddenSaved,
+      };
 
   void _move(int step) {
     setState(() {
@@ -93,9 +105,7 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
     setState(() {
       _hiding = false;
       if (!saved) {
-        _status =
-            'Could not hide this picture. Nothing has changed. You can '
-            'move to another picture or stop here.';
+        _status = _HideStatus.failed;
         return;
       }
       _pictures = [
@@ -106,8 +116,8 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
       _status = save == null
           // Short, so it never pushes the picture out of sight at
           // large text; it sits directly above the next picture.
-          ? 'Hidden for this visit.'
-          : 'Hidden. You can show it again in Your family photos.';
+          ? _HideStatus.hiddenForVisit
+          : _HideStatus.hiddenSaved;
     });
     if (saved) _showPicture();
   }
@@ -129,7 +139,7 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: gmToolbarHeight(context),
-        title: const GmTitle('Look together'),
+        title: GmTitle(context.l10n.commonLookTogether),
       ),
       body: _moreBelow.watch(
         SafeArea(
@@ -147,29 +157,23 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
 
   Widget _empty(BuildContext context) {
     final textTheme = Theme.of(context).textTheme;
+    final l10n = context.l10n;
     return ListView(
       controller: _scroll,
       padding: const EdgeInsets.all(gmSpaceLg),
       children: [
-        Text(
-          'There are no pictures to look at here right now.',
-          style: textTheme.headlineSmall,
-        ),
+        Text(l10n.togetherEmptyTitle, style: textTheme.headlineSmall),
         if (_status != null) ...[
           const SizedBox(height: gmSpaceMd),
-          Text(_status!, style: textTheme.bodyLarge),
+          Text(_statusText(l10n, _status!), style: textTheme.bodyLarge),
         ],
         const SizedBox(height: gmSpaceMd),
-        Text(
-          'You can look at the pictures included with the app, or stop '
-          'here.',
-          style: textTheme.bodyLarge,
-        ),
+        Text(l10n.togetherEmptyBody, style: textTheme.bodyLarge),
         const SizedBox(height: gmSpaceLg),
         FilledButton.icon(
           onPressed: _useIncluded,
           icon: const Icon(Icons.collections_outlined),
-          label: const Text('Look at the included pictures'),
+          label: Text(l10n.togetherUseIncluded),
         ),
       ],
     );
@@ -201,6 +205,9 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
   ) {
     final theme = Theme.of(context);
     final textTheme = theme.textTheme;
+    final l10n = context.l10n;
+    final label = picture.localizedLabel(l10n);
+    final prompts = _prompts(l10n);
     return ListView(
       controller: _scroll,
       padding: const EdgeInsets.all(gmSpaceLg),
@@ -210,17 +217,19 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
         if (_status != null) ...[
           Semantics(
             liveRegion: true,
-            child: Text(_status!, style: textTheme.bodyLarge),
+            child: Text(
+              _statusText(l10n, _status!),
+              style: textTheme.bodyLarge,
+            ),
           ),
           const SizedBox(height: gmSpaceMd),
         ],
         Center(
           child: Semantics(
             image: true,
-            label: [
-              picture.label,
-              if (picture.description.isNotEmpty) picture.description,
-            ].join('. '),
+            label: picture.description.isEmpty
+                ? label
+                : l10n.photosLabelWithDescription(label, picture.description),
             child: SizedBox.square(
               dimension: math.min(side, gmContentMaxWidth),
               child: DecoratedBox(
@@ -247,14 +256,14 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
         ],
         const SizedBox(height: gmSpaceMd),
         Text(
-          'Picture ${_index + 1} of ${_pictures.length}',
+          l10n.togetherPosition(_index + 1, _pictures.length),
           textAlign: TextAlign.center,
           style: textTheme.bodyLarge,
         ),
         if (_showPrompt) ...[
           const SizedBox(height: gmSpaceMd),
           Text(
-            _prompts[_index % _prompts.length],
+            prompts[_index % prompts.length],
             textAlign: TextAlign.center,
             style: textTheme.headlineSmall,
           ),
@@ -263,13 +272,13 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
         if (_pictures.any((p) => p.caption.isNotEmpty))
           SwitchListTile(
             contentPadding: EdgeInsets.zero,
-            title: const GmTitle('Show captions'),
+            title: GmTitle(l10n.togetherShowCaptions),
             value: _showCaption,
             onChanged: (value) => setState(() => _showCaption = value),
           ),
         SwitchListTile(
           contentPadding: EdgeInsets.zero,
-          title: const GmTitle('Show a conversation prompt'),
+          title: GmTitle(l10n.togetherShowPrompt),
           value: _showPrompt,
           onChanged: (value) => setState(() => _showPrompt = value),
         ),
@@ -281,13 +290,12 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
             // and its scroll position); a second tap is ignored in _hide.
             onPressed: () => unawaited(_hide()),
             icon: const Icon(Icons.visibility_off_outlined),
-            label: const Text('Hide this picture'),
+            label: Text(l10n.togetherHidePicture),
           ),
         ),
         const SizedBox(height: gmSpaceSm),
         Text(
-          'Just looking is enough. There is no need to remember a name '
-          'or answer a question.',
+          l10n.togetherJustLooking,
           style: textTheme.bodyMedium?.copyWith(
             color: theme.colorScheme.onSurfaceVariant,
           ),
@@ -299,15 +307,16 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
   Widget _navPair() => GmButtonPair(
     first: OutlinedButton.icon(
       onPressed: _index == 0 ? null : () => _move(-1),
+      // Material arrows mirror on their own in right-to-left languages.
       icon: const Icon(Icons.arrow_back),
-      label: const Text('Previous'),
+      label: Text(context.l10n.togetherPrevious),
     ),
     second: FilledButton.icon(
       onPressed: _index >= _pictures.length - 1 ? null : () => _move(1),
       icon: const Icon(Icons.arrow_forward),
-      label: const Text('Next'),
+      label: Text(context.l10n.togetherNext),
     ),
-    labels: ('Previous', 'Next'),
+    labels: (context.l10n.togetherPrevious, context.l10n.togetherNext),
     iconWidth: 24 + gmSpaceSm,
     secondOnTop: true,
   );
@@ -315,7 +324,7 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
   Widget _controls() {
     final done = TextButton(
       onPressed: () => Navigator.of(context).pop(),
-      child: const Text('Done for now'),
+      child: Text(context.l10n.commonDoneForNow),
     );
     final navInBar = _pictures.isNotEmpty && !_compactBar;
     return GmBottomBar(

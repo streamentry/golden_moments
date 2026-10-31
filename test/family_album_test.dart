@@ -10,6 +10,7 @@ import 'package:golden_moments/features/gentle_activities/models/activity_pictur
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 /// A valid PNG of [width] x [height]; contents never matter here.
@@ -75,7 +76,11 @@ List<ActivityPicture> _seed(Directory dir) {
   ];
 }
 
-Widget _app(Widget home) => MaterialApp(theme: gmBuildTheme(), home: home);
+Widget _app(Widget home) => MaterialApp(
+  localizationsDelegates: AppLocalizations.localizationsDelegates,
+  theme: gmBuildTheme(),
+  home: home,
+);
 
 /// Cropped to its square and mounted with rounded corners, never
 /// letterboxed (DESIGN.md › Shapes).

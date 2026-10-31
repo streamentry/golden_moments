@@ -9,6 +9,8 @@ import 'package:golden_moments/features/home/cubit/home_cubit.dart';
 import 'package:golden_moments/features/home/cubit/home_state.dart';
 import 'package:golden_moments/features/home/presentation/widgets/hidden_packs_section.dart';
 import 'package:golden_moments/features/home/presentation/widgets/pack_choice_not_saved.dart';
+import 'package:golden_moments/l10n/l10n.dart';
+import 'package:golden_moments/l10n/pack_text.dart';
 import 'package:golden_moments/shared/widgets/pack_card.dart';
 import 'package:golden_moments/shared/widgets/pack_grid.dart';
 
@@ -73,7 +75,9 @@ class _PackView extends StatelessWidget {
       child: Scaffold(
         appBar: AppBar(
           toolbarHeight: gmToolbarHeight(context),
-          title: GmTitle(categoryName),
+          title: GmTitle(
+            context.packText.categoryNameFor(categoryId, categoryName),
+          ),
         ),
         body: BlocBuilder<HomeCubit, HomeState>(
           builder: (context, state) {
@@ -134,8 +138,7 @@ class _PackView extends StatelessWidget {
               ],
               if (packs.isEmpty)
                 Text(
-                  'Every pack in this topic is marked Not for me. Show one '
-                  'again below.',
+                  context.l10n.packAllHiddenInTopic,
                   style: Theme.of(context).textTheme.bodyLarge,
                 )
               else
@@ -222,8 +225,7 @@ class _WaitingForChoicesState extends State<_WaitingForChoices> {
               ),
               const SizedBox(height: gmSpaceSm),
               Text(
-                'Your saved pack choices are not ready yet. You can go back '
-                'and try again in a moment.',
+                context.l10n.packChoicesSlow,
                 style: theme.textTheme.bodyLarge,
                 textAlign: TextAlign.center,
               ),
@@ -231,7 +233,7 @@ class _WaitingForChoicesState extends State<_WaitingForChoices> {
               OutlinedButton.icon(
                 onPressed: () => Navigator.of(context).maybePop(),
                 icon: const Icon(Icons.arrow_back),
-                label: const Text('Back to the library'),
+                label: Text(context.l10n.packBackToLibrary),
               ),
             ],
           ),
@@ -256,7 +258,7 @@ class _LoadError extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           children: [
             Text(
-              'These packs could not be opened.',
+              context.l10n.packLoadError,
               style: theme.textTheme.titleMedium,
               textAlign: TextAlign.center,
             ),
@@ -264,7 +266,7 @@ class _LoadError extends StatelessWidget {
             OutlinedButton.icon(
               onPressed: onRetry,
               icon: const Icon(Icons.refresh),
-              label: const Text('Try again'),
+              label: Text(context.l10n.commonTryAgain),
             ),
           ],
         ),
@@ -290,13 +292,13 @@ class _EmptyState extends StatelessWidget {
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
-              'No packs found',
+              parentContext.l10n.packEmptyTitle,
               style: theme.textTheme.titleMedium,
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
-              'There are no packs in this category yet.',
+              parentContext.l10n.packEmptyBody,
               style: theme.textTheme.bodyMedium?.copyWith(
                 color: theme.colorScheme.onSurfaceVariant,
               ),

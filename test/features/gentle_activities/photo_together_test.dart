@@ -3,6 +3,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 const _pictures = [
   ActivityPicture(
@@ -20,6 +21,7 @@ Widget _app(
   List<ActivityPicture> pictures, {
   Future<bool> Function(ActivityPicture)? onHide,
 }) => MaterialApp(
+  localizationsDelegates: AppLocalizations.localizationsDelegates,
   theme: gmBuildTheme(),
   home: Builder(
     builder: (context) => Scaffold(
@@ -222,6 +224,7 @@ void main() {
     addTearDown(() => tester.binding.setSurfaceSize(null));
     await tester.pumpWidget(
       MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
         theme: gmBuildTheme(),
         builder: (context, child) => MediaQuery(
           data: MediaQuery.of(context)
@@ -281,6 +284,7 @@ void main() {
       addTearDown(() => tester.binding.setSurfaceSize(null));
       await tester.pumpWidget(
         MaterialApp(
+          localizationsDelegates: AppLocalizations.localizationsDelegates,
           theme: gmBuildTheme(),
           builder: (context, child) => MediaQuery(
             data: MediaQuery.of(context)

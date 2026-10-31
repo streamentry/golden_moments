@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Animais",
+      "description": "Bichos simpáticos do mundo todo"
+    },
+    "nature": {
+      "name": "Natureza",
+      "description": "Paisagens bonitas e cenas da natureza"
+    },
+    "food": {
+      "name": "Comida",
+      "description": "Pratos gostosos e doces"
+    },
+    "vintage": {
+      "name": "Carros",
+      "description": "Carros e caminhonetes para olhar e conversar"
+    },
+    "flowers": {
+      "name": "Flores",
+      "description": "Flores bonitas e cenas de jardim"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Animais da fazenda",
+      "description": "Animais simpáticos da fazenda, para conversar sobre passeios no campo",
+      "theme": "Vida na fazenda",
+      "images": {
+        "cow_1": "Vaca mansa",
+        "pig_1": "Porquinho feliz",
+        "chicken_1": "Galo",
+        "buffalo_1": "Búfalo",
+        "horse_1": "Cavalo bonito",
+        "duck_1": "Família de patos",
+        "goat_1": "Cabra curiosa",
+        "rabbit_1": "Coelho fofinho"
+      }
+    },
+    "nature_mountains": {
+      "title": "Paisagens de montanha",
+      "description": "Montanhas de tirar o fôlego e vistas lindas",
+      "theme": "Beleza natural",
+      "images": {
+        "mountain_1": "Picos com neve",
+        "mountain_2": "Monte Fuji",
+        "mountain_3": "Vale nos Alpes",
+        "mountain_4": "Pico de pedra",
+        "mountain_5": "Morros com floresta",
+        "mountain_6": "Montanhas na neblina"
+      }
+    },
+    "vintage_cars": {
+      "title": "Carros e caminhonetes",
+      "description": "Carros e caminhonetes brilhantes para olhar e conversar",
+      "theme": "Na estrada",
+      "images": {
+        "vintage_car_1": "Audi laranja ao pôr do sol",
+        "vintage_car_2": "Carro esporte azul no deserto",
+        "vintage_car_3": "Bugatti prateado",
+        "vintage_car_4": "Porsche preto na estrada",
+        "vintage_car_5": "BMW laranja numa rua com palmeiras",
+        "vintage_car_6": "Carro azul perto de uma garagem",
+        "vintage_car_7": "Caminhonete verde",
+        "vintage_car_8": "Carro branco entre pedras vermelhas",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Carro azul com listras brancas"
+      }
+    },
+    "animals_safari": {
+      "title": "Animais selvagens",
+      "description": "Animais imponentes dos safáris na África",
+      "theme": "Vida selvagem",
+      "images": {
+        "lion_1": "Leão imponente",
+        "elephant_2": "Elefante africano",
+        "jaguar_3": "Onça-pintada",
+        "zebra_4": "Zebra listrada",
+        "rhino_5": "Rinoceronte forte",
+        "cheetah_6": "Guepardo veloz",
+        "fox_7": "Raposa marrom",
+        "bear_8": "Urso-polar",
+        "turtle_9": "Tartaruga marrom",
+        "squirrel_10": "Esquilo marrom",
+        "macaw_11": "Arara azul e amarela",
+        "tiger_12": "Tigre",
+        "raccoon_13": "Guaxinim",
+        "wolf_14": "Lobo-cinzento",
+        "crocodile_15": "Crocodilo",
+        "peacock_16": "Pavão bonito"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Sobremesas gostosas",
+      "description": "Algumas sobremesas gostosas para as suas refeições.",
+      "theme": "Doces",
+      "images": {
+        "pastries_1": "Quatro doces de padaria",
+        "oreo_cookie_sandwiches_2": "Biscoitos Oreo",
+        "crepe_3": "Crepe",
+        "pancake_4": "Panqueca",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Bolo de caramelo"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Flores tropicais",
+      "description": "A beleza colorida dos trópicos neste pacote de flores exóticas.",
+      "theme": "Flores tropicais",
+      "images": {
+        "hibiscus_1": "Hibisco vermelho",
+        "frangipani_2": "Jasmim-manga vermelho e branco",
+        "sunflower_3": "Girassol",
+        "hydrangea_4": "Hortênsia branca",
+        "rose_5": "Rosa",
+        "chrysanthemum_6": "Crisântemo",
+        "anthurium_7": "Antúrio",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Flor de kadam",
+        "delphinium_10": "Esporinha"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Festa da comida de rua",
+      "description": "Conheça o mundo colorido da comida de rua com este pacote de petiscos gostosos de vários países.",
+      "theme": "Comida de rua",
+      "images": {
+        "taco_1": "Taco mexicano",
+        "ramen_2": "Lámen japonês",
+        "dumplings_3": "Bolinhos chineses",
+        "samosa_4": "Samosa indiana",
+        "pizza_5": "Fatia de pizza italiana",
+        "crepe_6": "Crepe francês",
+        "satay_7": "Espetinhos tailandeses",
+        "burger_8": "Hambúrguer americano",
+        "bao_9": "Pãozinho chinês no vapor",
+        "takoyaki_10": "Takoyaki japonês"
+      }
+    },
+    "nature_landscape": {
+      "title": "Paisagens da natureza",
+      "description": "Cenas da natureza, calmas e bonitas, para olhar devagar e conversar juntos.",
+      "theme": "Paisagens naturais",
+      "images": {
+        "mountain_1": "Cadeia de montanhas",
+        "forest_2": "Floresta com neblina",
+        "lake_3": "Lago na montanha",
+        "desert_4": "Dunas no deserto",
+        "waterfall_5": "Cachoeira",
+        "beach_6": "Praia de areia",
+        "river_7": "Rio correndo",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Céu ao pôr do sol",
+        "snow_mountain_10": "Montanha com neve",
+        "flowers_11": "Flores do campo",
+        "rainforest_12": "Floresta tropical",
+        "iceberg_13": "Iceberg",
+        "volcano_14": "Vulcão",
+        "cliff_15": "Penhasco à beira-mar",
+        "aurora_16": "Aurora boreal",
+        "savannah_17": "Savana",
+        "coral_reef_18": "Recife de coral"
+      }
+    }
+  }
+}

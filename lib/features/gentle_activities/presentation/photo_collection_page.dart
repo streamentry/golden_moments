@@ -13,6 +13,7 @@ import 'package:golden_moments/features/gentle_activities/presentation/gentle_ga
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_puzzle_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/utils/experiments.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
@@ -21,6 +22,31 @@ Future<Directory> _supportDirectory() async {
   final root = await getApplicationSupportDirectory();
   return Directory('${root.path}/family_photos_v1');
 }
+
+/// What went wrong, kept as a reason rather than as text so the message
+/// follows the reader's language.
+enum _Problem {
+  newerVersion,
+  unreadable,
+  cannotOpen,
+  cannotCheck,
+  cannotAdd,
+  cannotRemove,
+  cannotRefresh,
+  cannotSaveDetails,
+}
+
+String _problemText(AppLocalizations l10n, _Problem problem) =>
+    switch (problem) {
+      _Problem.newerVersion => l10n.photosErrorNewerVersion,
+      _Problem.unreadable => l10n.photosErrorUnreadable,
+      _Problem.cannotOpen => l10n.photosErrorCannotOpen,
+      _Problem.cannotCheck => l10n.photosErrorCannotCheck,
+      _Problem.cannotAdd => l10n.photosErrorCannotAdd,
+      _Problem.cannotRemove => l10n.photosErrorCannotRemove,
+      _Problem.cannotRefresh => l10n.photosErrorCannotRefresh,
+      _Problem.cannotSaveDetails => l10n.photosErrorCannotSaveDetails,
+    };
 
 class PhotoCollectionPage extends StatefulWidget {
   /// The directory and importer can be replaced so the whole journey (choose,
@@ -45,7 +71,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
   Map<String, PhotoAnnotation> _notes = {};
   List<String> _ids = [];
   bool _busy = true;
-  String? _error;
+  _Problem? _error;
 
   /// The photo list is damaged in a way the person may choose to recover
   /// from by setting it aside (never automatic).
@@ -57,6 +83,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
   /// Favorites come first so an enjoyed picture is easy to find. Hidden
   /// pictures stay in the collection; activities skip them.
   List<ActivityPicture> get _pictures {
+    final l10n = context.l10n;
     final ordered = [
       ..._ids.where(_isFavorite),
       ..._ids.where((id) => !_isFavorite(id)),
@@ -66,7 +93,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
         ActivityPicture(
           id: ordered[i],
           label: (_notes[ordered[i]]?.caption ?? '').isEmpty
-              ? 'Family photo ${i + 1}'
+              ? l10n.photosFamilyPhotoNumber(i + 1)
               : _notes[ordered[i]]!.caption,
           caption: _notes[ordered[i]]?.caption ?? '',
           description: _notes[ordered[i]]?.description ?? '',
@@ -86,13 +113,14 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
   Future<bool> _confirm(
     String title,
     String message, {
-    String confirmLabel = 'Continue',
-    String keepLabel = 'Cancel',
+    String? confirmLabel,
+    String? keepLabel,
     bool destructive = false,
   }) async {
     if (!mounted) return false;
-    final keep = keepLabel;
-    final confirm = Text(confirmLabel, textAlign: TextAlign.center);
+    final keep = keepLabel ?? context.l10n.commonCancel;
+    final confirmText = confirmLabel ?? context.l10n.commonContinue;
+    final confirm = Text(confirmText, textAlign: TextAlign.center);
     return await showDialog<bool>(
           context: context,
           builder: (context) => AlertDialog(
@@ -109,7 +137,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                       onPressed: () => Navigator.pop(context, false),
                       child: Text(keep, textAlign: TextAlign.center),
                     ),
-                    labels: (confirmLabel, keep),
+                    labels: (confirmText, keep),
                   )
                 : gmDialogActions(
                     other: TextButton(
@@ -120,7 +148,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                       onPressed: () => Navigator.pop(context, true),
                       child: confirm,
                     ),
-                    labels: (keep, confirmLabel),
+                    labels: (keep, confirmText),
                   ),
           ),
         ) ??
@@ -151,34 +179,28 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
       });
       if (recover) {
         final recovered = await _importer.recover();
-        if (recovered.isNotEmpty &&
-            await _confirm(
-              'Finish adding photos?',
-              'The system recovered photos you selected before the app '
-                  'restarted. Add them to this device?',
-            )) {
-          await _saveFiles(recovered);
+        if (recovered.isNotEmpty && mounted) {
+          final l10n = context.l10n;
+          if (await _confirm(
+            l10n.photosRecoveredTitle,
+            l10n.photosRecoveredMessage,
+          )) {
+            await _saveFiles(recovered);
+          }
         }
       }
     } on UnreadablePhotoList catch (problem) {
       if (mounted) {
         setState(() {
           _error = problem.fromNewerVersion
-              ? 'These photos were saved by a newer version of Golden '
-                    'Moments. Update the app to see them. Nothing has been '
-                    'changed.'
-              : 'Your photo list could not be read. Your original photos '
-                    'are unchanged.';
+              ? _Problem.newerVersion
+              : _Problem.unreadable;
           _canRecover = problem.canSetAside;
         });
       }
     } on Object catch (_) {
       if (mounted) {
-        setState(
-          () => _error =
-              'Could not open the photo collection. '
-              'Your original photos have not been changed. Please try again.',
-        );
+        setState(() => _error = _Problem.cannotOpen);
       }
     } finally {
       if (mounted) setState(() => _busy = false);
@@ -199,7 +221,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
             const SizedBox(width: gmSpaceSm),
             Expanded(
               child: Text(
-                _error!,
+                _problemText(context.l10n, _error!),
                 style: theme.textTheme.bodyLarge?.copyWith(color: scheme.error),
               ),
             ),
@@ -211,12 +233,12 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
         OutlinedButton.icon(
           onPressed: _busy ? null : _recover,
           icon: const Icon(Icons.photo_library_outlined),
-          label: const Text('Show my photos'),
+          label: Text(context.l10n.photosShowMyPhotos),
         ),
       ],
       TextButton(
         onPressed: _busy ? null : _load,
-        child: const Text('Try again'),
+        child: Text(context.l10n.commonTryAgain),
       ),
     ];
   }
@@ -225,16 +247,12 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
   /// every copy that can be checked, with its details. The dialog says
   /// exactly what happens to a copy that cannot be checked.
   Future<void> _recover() async {
+    final l10n = context.l10n;
     final ok = await _confirm(
-      'Show the photos that can be checked?',
-      'Golden Moments will look through the photo copies on this device and '
-          'show every one that is intact, with its caption and choices. The '
-          'order may change. The list that could not be read is kept on this '
-          'device. A copy that is damaged cannot be shown and is removed '
-          'later; you can add that photo again from your photo library, where '
-          'your originals are unchanged.',
-      confirmLabel: 'Show the photos',
-      keepLabel: 'Not now',
+      l10n.photosRecoverTitle,
+      l10n.photosRecoverMessage,
+      confirmLabel: l10n.photosRecoverConfirm,
+      keepLabel: l10n.photosNotNow,
     );
     if (!ok || !mounted) return;
     setState(() => _busy = true);
@@ -245,9 +263,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
       if (mounted) {
         setState(() {
           _busy = false;
-          _error =
-              'The photos could not be checked. Nothing was changed. '
-              'Please try again.';
+          _error = _Problem.cannotCheck;
         });
       }
       return;
@@ -281,11 +297,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
       await _saveFiles(files);
     } on Object catch (_) {
       if (mounted) {
-        setState(
-          () => _error =
-              'Could not add these photos. Try fewer or smaller images, '
-              'and check free space. Your existing collection is unchanged.',
-        );
+        setState(() => _error = _Problem.cannotAdd);
       }
     } finally {
       if (mounted) setState(() => _busy = false);
@@ -294,13 +306,14 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
 
   Future<void> _delete({String? id}) async {
     if (_busy || _store == null) return;
+    final l10n = context.l10n;
     final confirmed = await _confirm(
-      id == null ? 'Remove all photo copies?' : 'Remove this photo copy?',
-      'This removes copies saved by Golden Moments on this device. '
-      'Originals in your photo library are not deleted, and earlier '
-      'device backups are not changed.',
+      id == null ? l10n.photosRemoveAllTitle : l10n.photosRemoveOneTitle,
+      l10n.photosRemoveMessage,
       // Say what the button does; a destructive step is never 'Continue'.
-      confirmLabel: id == null ? 'Remove all copies' : 'Remove copy',
+      confirmLabel: id == null
+          ? l10n.photosRemoveAllConfirm
+          : l10n.photosRemoveOneConfirm,
       destructive: true,
     );
     if (!confirmed || !mounted) return;
@@ -316,9 +329,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
       }
     } on Object catch (_) {
       if (mounted) {
-        setState(
-          () => _error = 'Some copies could not be removed. Please try again.',
-        );
+        setState(() => _error = _Problem.cannotRemove);
       }
     } finally {
       try {
@@ -334,10 +345,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
         }
       } on Object catch (_) {
         if (mounted) {
-          setState(
-            () => _error =
-                'Could not refresh the collection. Please reopen this screen.',
-          );
+          setState(() => _error = _Problem.cannotRefresh);
         }
       }
       if (mounted) setState(() => _busy = false);
@@ -345,6 +353,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
   }
 
   Widget _photoCard(ActivityPicture picture, ColorScheme scheme) {
+    final l10n = context.l10n;
     final favorite = _isFavorite(picture.id);
     final hidden = _isHidden(picture.id);
     // A print in a family album: the photo cropped to a square and mounted
@@ -359,10 +368,12 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
             child: AspectRatio(
               aspectRatio: 1,
               child: Semantics(
-                label: [
-                  picture.label,
-                  if (picture.description.isNotEmpty) picture.description,
-                ].join('. '),
+                label: picture.description.isEmpty
+                    ? picture.label
+                    : l10n.photosLabelWithDescription(
+                        picture.label,
+                        picture.description,
+                      ),
                 child: Opacity(
                   opacity: hidden ? 0.45 : 1,
                   child: ClipRRect(
@@ -396,21 +407,21 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                 crossAxisAlignment: WrapCrossAlignment.center,
                 children: [
                   if (favorite)
-                    const Row(
+                    Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        Icon(Icons.star, size: 20),
-                        SizedBox(width: gmSpaceXs),
-                        Text('Favorite'),
+                        const Icon(Icons.star, size: 20),
+                        const SizedBox(width: gmSpaceXs),
+                        Text(l10n.photosFavoriteBadge),
                       ],
                     ),
                   if (hidden)
-                    const Row(
+                    Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        Icon(Icons.visibility_off, size: 20),
-                        SizedBox(width: gmSpaceXs),
-                        Text('Hidden'),
+                        const Icon(Icons.visibility_off, size: 20),
+                        const SizedBox(width: gmSpaceXs),
+                        Text(l10n.photosHiddenBadge),
                       ],
                     ),
                 ],
@@ -422,8 +433,8 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
             // Short enough to stay on one line in two columns on a large
             // phone; the photo above and the spoken label give the context.
             label: Text(
-              'Options',
-              semanticsLabel: 'Options for ${picture.label}',
+              l10n.photosOptions,
+              semanticsLabel: l10n.photosOptionsFor(picture.label),
             ),
           ),
         ],
@@ -460,11 +471,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
       }
     } on Object catch (_) {
       if (mounted) {
-        setState(
-          () => _error =
-              'Could not save these details. Your photos have not been '
-              'changed. Please try again.',
-        );
+        setState(() => _error = _Problem.cannotSaveDetails);
       }
     } finally {
       if (mounted) setState(() => _busy = false);
@@ -502,6 +509,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     ];
     final theme = Theme.of(context);
     final scheme = theme.colorScheme;
+    final l10n = context.l10n;
     // One filled button per screen: adding photos until a game is possible,
     // then playing.
     final canPlay = playable.length >= 2;
@@ -510,7 +518,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
         ? null
         : _add;
     const chooseIcon = Icon(Icons.add_photo_alternate_outlined);
-    const chooseLabel = Text('Choose photos');
+    final chooseLabel = Text(l10n.photosChoosePhotos);
     final onPlay = _busy || !canPlay
         ? null
         : () => Navigator.of(context).push(
@@ -522,7 +530,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: gmToolbarHeight(context),
-        title: const GmTitle('Your family photos'),
+        title: GmTitle(l10n.commonYourFamilyPhotos),
       ),
       body: SafeArea(
         child: Center(
@@ -537,15 +545,10 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                   ..._problem(theme),
                   const SizedBox(height: gmSpaceLg),
                 ],
-                Text(
-                  'Choose photos you would enjoy looking at together.',
-                  style: theme.textTheme.headlineSmall,
-                ),
+                Text(l10n.photosIntro, style: theme.textTheme.headlineSmall),
                 const SizedBox(height: gmSpaceMd),
                 Text(
-                  'Only selected photos are copied into this app. No account '
-                  'or family-sync server. Copies may be included in your '
-                  'device backup.',
+                  l10n.photosPrivacyNote,
                   style: theme.textTheme.bodyMedium?.copyWith(
                     color: scheme.onSurfaceVariant,
                   ),
@@ -565,7 +568,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                   ),
                 const SizedBox(height: gmSpaceSm),
                 Text(
-                  '${_ids.length} of ${FamilyPhotoStore.maxPhotos} photos',
+                  l10n.photosCount(_ids.length, FamilyPhotoStore.maxPhotos),
                   textAlign: TextAlign.center,
                   style: theme.textTheme.bodyMedium?.copyWith(
                     color: scheme.onSurfaceVariant,
@@ -587,14 +590,13 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                   FilledButton.icon(
                     onPressed: onPlay,
                     icon: const Icon(Icons.grid_view),
-                    label: const Text('Play with these photos'),
+                    label: Text(l10n.photosPlay),
                   )
                 else
                   Text(
                     hiddenCount > 0
-                        ? 'Show at least two photos to make a matching game. '
-                              '$hiddenCount hidden.'
-                        : 'Add at least two photos to make a matching game.',
+                        ? l10n.photosNeedTwoShowHidden(hiddenCount)
+                        : l10n.photosNeedTwoAdd,
                     style: theme.textTheme.bodyMedium?.copyWith(
                       color: scheme.onSurfaceVariant,
                     ),
@@ -611,7 +613,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                             ),
                           ),
                     icon: const Icon(Icons.extension_outlined),
-                    label: const Text('Try a picture puzzle (experiment)'),
+                    label: Text(l10n.photosTryPuzzle),
                   ),
                 ],
                 if (favorites.length >= 2) ...[
@@ -628,7 +630,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                             ),
                           ),
                     icon: const Icon(Icons.star_outline),
-                    label: const Text('Play with favorites'),
+                    label: Text(l10n.photosPlayFavorites),
                   ),
                 ],
                 // Offered once there is something to look at, rather than
@@ -647,7 +649,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                             ),
                           ),
                     icon: const Icon(Icons.chat_bubble_outline),
-                    label: const Text('Look at photos together'),
+                    label: Text(l10n.photosLookTogether),
                   ),
                 ],
                 const SizedBox(height: gmSpaceLg),
@@ -685,7 +687,7 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                     style: TextButton.styleFrom(foregroundColor: scheme.error),
                     onPressed: _busy ? null : _delete,
                     icon: const Icon(Icons.delete_sweep_outlined),
-                    label: const Text('Remove all photo copies'),
+                    label: Text(l10n.photosRemoveAll),
                   ),
                 ],
               ],
@@ -753,6 +755,7 @@ class _PhotoOptionsSheetState extends State<_PhotoOptionsSheet> {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
+    final l10n = context.l10n;
     return SafeArea(
       child: SingleChildScrollView(
         padding: EdgeInsets.fromLTRB(
@@ -765,10 +768,10 @@ class _PhotoOptionsSheetState extends State<_PhotoOptionsSheet> {
           crossAxisAlignment: CrossAxisAlignment.start,
           mainAxisSize: MainAxisSize.min,
           children: [
-            Text('Photo options', style: theme.textTheme.headlineSmall),
+            Text(l10n.photosOptionsTitle, style: theme.textTheme.headlineSmall),
             const SizedBox(height: gmSpaceSm),
             Text(
-              'All of this is optional and stays on this device.',
+              l10n.photosOptionsIntro,
               style: theme.textTheme.bodyMedium?.copyWith(
                 color: theme.colorScheme.onSurfaceVariant,
               ),
@@ -778,9 +781,9 @@ class _PhotoOptionsSheetState extends State<_PhotoOptionsSheet> {
               controller: _caption,
               maxLength: PhotoAnnotation.maxCaption,
               textCapitalization: TextCapitalization.sentences,
-              decoration: const InputDecoration(
-                labelText: 'Caption (optional)',
-                helperText: 'Shown only when you choose to show captions.',
+              decoration: InputDecoration(
+                labelText: l10n.photosCaptionLabel,
+                helperText: l10n.photosCaptionHelper,
                 // Wraps instead of being cut off beside the counter.
                 helperMaxLines: 3,
               ),
@@ -791,26 +794,24 @@ class _PhotoOptionsSheetState extends State<_PhotoOptionsSheet> {
               maxLength: PhotoAnnotation.maxDescription,
               maxLines: 3,
               textCapitalization: TextCapitalization.sentences,
-              decoration: const InputDecoration(
-                labelText: 'Description for screen readers (optional)',
-                helperText: 'Read aloud while the picture is showing.',
+              decoration: InputDecoration(
+                labelText: l10n.photosDescriptionLabel,
+                helperText: l10n.photosDescriptionHelper,
                 // Wraps instead of being cut off beside the counter.
                 helperMaxLines: 3,
               ),
             ),
             SwitchListTile(
               contentPadding: EdgeInsets.zero,
-              title: const GmTitle('Favorite'),
-              subtitle: const GmTitle('Shows this photo first.'),
+              title: GmTitle(l10n.photosFavoriteSwitchTitle),
+              subtitle: GmTitle(l10n.photosFavoriteSwitchSubtitle),
               value: _favorite,
               onChanged: (value) => setState(() => _favorite = value),
             ),
             SwitchListTile(
               contentPadding: EdgeInsets.zero,
-              title: const GmTitle('Hide from activities'),
-              subtitle: const Text(
-                'Keeps the copy on this device. Turn off to bring it back.',
-              ),
+              title: GmTitle(l10n.photosHideSwitchTitle),
+              subtitle: Text(l10n.photosHideSwitchSubtitle),
               value: _hidden,
               onChanged: (value) => setState(() => _hidden = value),
             ),
@@ -819,13 +820,13 @@ class _PhotoOptionsSheetState extends State<_PhotoOptionsSheet> {
             GmButtonPair(
               first: OutlinedButton(
                 onPressed: () => Navigator.pop(context),
-                child: const Text('Cancel', textAlign: TextAlign.center),
+                child: Text(l10n.commonCancel, textAlign: TextAlign.center),
               ),
               second: FilledButton(
                 onPressed: _save,
-                child: const Text('Save', textAlign: TextAlign.center),
+                child: Text(l10n.commonSave, textAlign: TextAlign.center),
               ),
-              labels: ('Cancel', 'Save'),
+              labels: (l10n.commonCancel, l10n.commonSave),
               secondOnTop: true,
             ),
             const SizedBox(height: gmSpaceSm),
@@ -836,7 +837,7 @@ class _PhotoOptionsSheetState extends State<_PhotoOptionsSheet> {
               onPressed: () =>
                   Navigator.pop(context, const _PhotoOptionsResult.remove()),
               icon: const Icon(Icons.delete_outline),
-              label: const Text('Remove this copy'),
+              label: Text(l10n.photosRemoveThisCopy),
             ),
           ],
         ),
