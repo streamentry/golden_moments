@@ -36,6 +36,23 @@
 .game__bar .btn--quiet:last-child {
   margin-left: auto;
 }
+/* One optional question for the person helping, after play has begun. */
+.game__feedback {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 var(--space-md);
+  align-items: center;
+  margin-top: var(--space-sm);
+  color: var(--gm-on-surface-variant);
+}
+.game__feedback p {
+  margin: 0;
+}
+.game__feedback-choices {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 var(--space-sm);
+}
 .game__done {
   background: var(--gm-surface);
   border: 1px solid var(--gm-outline);
