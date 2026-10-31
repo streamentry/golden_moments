@@ -1,386 +1,259 @@
-# Plan: the first choice for one job, in ten languages
+# Plan: the obvious choice for one job, then a category we can measure
 
-Status: proposal written 2026-10-31 against `main` at `bb0d037`. It is a
-plan, not a status record or an approval. Execution status stays in
-[WORKBOARD.md](../../WORKBOARD.md) and [release-status.json](../specs/release-status.json);
-feature membership stays in the [senior-first catalog](../specs/senior-first/feature-catalog.json).
-Nothing here authorizes spending, new permissions, a backend, payments or a
-store submission. Every item below enters the catalog with its own ID and
-acceptance tests only when the maintainer approves it.
+Proposal, not status or approval. Restructured 2026-10-31 to reconcile
+[category-leader.md](../strategy/category-leader.md) with the earlier version of
+this plan. Status lives in [WORKBOARD.md](../../WORKBOARD.md). Appendices:
+[verification](verification.md) (facts checked, corrections, could not verify),
+[detail](detail.md) (use cases, features, languages),
+[competitors](competitors.md), [evidence](evidence.md),
+[language markets](language-markets.md). Labels: **proven** (observed or a
+primary source), **hypothesis** (plausible, untested), **assumption** (a chosen
+number).
 
-Companion research (sources, numbers, what could not be verified):
-[language markets](language-markets.md), [competitors and review gaps](competitors.md),
-[evidence for activity design](evidence.md).
+**"#1" per storefront** (unchanged from the earlier plan; proposed decisions,
+not benchmarks): top 3 in App Store search for the local head terms in 8 of 12
+weeks; an average rating of at least 4.5 from at least 50 ratings; at least 8 of
+20 pilot households return voluntarily within 7 days; at least 4 of 5 caregivers
+describe it correctly after five seconds on the first screenshot, none inferring
+treatment; and running costs covered without ads. One addition, with a reason: a
+**helpful rate** of at least 70% on at least 50 answers to the website's "Did this
+help today?". It is the only caregiver-reported value signal available without
+app telemetry.
 
-## 1. The ask, and the strongest objection to it
+## 1. The decision
 
-The ask: *cover all use cases and features, and become the number-one choice
-in the top ten languages.*
+**Own one job: "find something comfortable to enjoy together in the next minute",
+for US families caring for someone at home, on whatever is at hand: a phone, a
+browser, a TV or paper.** Activity staff in memory care, adult day and library
+programs are the second segment, tested in the same pilot.
 
-The objection, which this plan accepts: **feature coverage is how products in
-this category lose.** The one competitor with a holistic feature set
-(MindMate: games, exercise, nutrition, reminders, life story) returned 404 on
-both stores on 2026-10-31, and its last reviews were about crashes, logins and
-a setup a person with dementia "could never navigate"
-([competitors](competitors.md)). Our only demonstrated hypothesis is *less
-setup*: open, choose a manageable activity, enjoy it together. Every added
-screen taxes that. "All use cases" also includes jobs we have ruled out
-on purpose: diagnosis, cognitive scoring, treatment, cloud sync, AI.
+This follows the earlier plan on scope (one job, made reliable, then
+multilingual) and takes five things from category-leader.md: the website as a
+free public utility rather than a landing page; problem-specific pages
+("keeps asking to go home") over generic tips; value before any sign-up; no
+advertising in care workflows; and engagement, not cognition, as the promise. It
+rejects, for now, the care platform (accounts, care log, clinician summaries,
+subscription, GUIDE pilots): that space already has free nonprofit tools and
+Alzheimer's Care Partner, Elevmi's US App Store page returns 404, GUIDE pays nothing
+separately for apps, and it would lift four AGENTS.md boundaries at once.
 
-So the plan reframes the goal: **be the obvious first answer to one job, in
-each language, for both the family at home and the person who helps them.**
-The job is "find something comfortable to enjoy together in the next minute."
-Coverage means every *moment* in which that job appears is handled well, not
-every feature a competitor lists.
+Why this job (scores in [verification](verification.md) §3): NICE NG97 tells
+clinicians to offer activities tailored to preferences (**proven**, guideline);
+the need recurs daily for years; GM is already the top Apple search result for
+"dementia activities" (**proven**, approximate, iTunes Search API); the
+competitors in the job are paid (Memory Lane, $69.99/yr), ad-supported or
+abandoned; and it fits every current boundary.
 
-Number one is defined so it can be measured and can fail. Per storefront:
+**Evidence that would switch the choice to the care platform:** category-leader's
+own web test (20–30 caregivers; "What is hardest today?", one answer, a one-tap
+log, a printable summary) gets at least 10 to return unprompted within 7 days and
+at least 3 to say they or their provider would pay, *and* the activity pilot
+misses 8 of 20. Both: a platform must beat free nonprofit tools and the job GM already does.
 
-| Measure | Threshold (proposed decision, not a benchmark) |
-| --- | --- |
-| Organic rank for the three local head terms (the local equivalents of *dementia activities*, *dementia games*, *Alzheimer's activities*) | Top 3 in App Store search for 8 of 12 weeks |
-| First-time downloads and 30-day deletions per storefront, from the App Store Connect reports `scripts/store_downloads.py` reads (turned on 2026-10-30) | Reported per storefront every week; no absolute threshold until eight weeks of US data set the base rate |
-| Rating | At least 4.5 average from at least 50 ratings |
-| Voluntary reuse in that language's pilot | At least 8 of 20 use units return on another day within 7 days (the existing GM-039 threshold) |
-| Comprehension | 4 of 5 local caregivers describe it as shared photo activities after five seconds on the first screenshot; none infer treatment |
+- **Counterargument:** commercial dementia apps stay small (Memory Lane about 50K
+  Play installs; MindMate gone); distribution and caregiver overload may be the
+  constraint, whatever the product.
+- **Must hold:** families come back without reminders; enough of them search or
+  are referred for activities.
+- **Cheapest disproof:** the 20-household reuse pilot ([kit](../strategy/reuse-pilot.md)).
 
-A language that cannot meet the first two within six months of launch is held
-(strings maintained, no further content), not abandoned.
+## 2. What GM does better than the best alternative
 
-### Relationship to the category-leader research
+The best alternatives for this job are not apps. They are the **phone's photo
+album**, a **printed activity** and a **phone call**. Among apps, Memory Lane
+Games is the strongest.
 
-[docs/strategy/category-leader.md](../strategy/category-leader.md), merged on
-2026-10-31, argues for a different bet: a caregiver-first "dementia care
-infrastructure" platform with accounts, a shared care log, clinician summaries,
-a premium family subscription and health-system (CMS GUIDE) pilots, built by a
-team of several engineers and a clinical lead over 24 months. It is research,
-not a decision, and most of what it proposes is excluded today by the
-boundaries in `AGENTS.md` (no accounts, backend, AI processing, subscription or
-telemetry without a recorded decision).
-
-The two documents agree on what matters most: no brain-training or treatment
-claims, outcomes of enjoyment and connection, conservative privacy, and the
-same strongest counterargument, that caregiver overload and distribution, not
-product quality, may be the real constraint. They differ on scope. This plan
-takes the platform bet as unproven and expensive for a founder-led team without
-sales capacity, and keeps the executable path: the one job the app already does,
-made reliable and multilingual. The category-leader document's own cheapest
-test (a web prototype asking "what is hardest today?" with one answer, a one-tap
-log and a printable summary, offered to 20-30 caregivers, continue only if ten
-return unprompted within seven days) can run on the website without touching the
-app's boundaries, and should run before any platform work is specified. If it
-passes, that is the evidence a scope decision needs; if it fails, this plan loses
-nothing.
-
-## 2. Where we actually stand
-
-Facts from the repository and store readback on 2026-10-30; nothing here is a forecast.
-
-- **Traction:** about 10 installs a day (owner report), no ratings shown on the live
-  US listing, age rating 16+, Puzzle category, iOS 1.4.1 live, 1.5.0+9 is the candidate.
-  Android 1.4.0 is uploaded but blocked by a Play declaration check; nothing is
-  published on Play yet.
-- **Verification:** 0 of 40 senior-first items are *verified*. No physical-device,
-  VoiceOver/TalkBack, upgrade, traffic-capture or human-pilot evidence exists.
-  Every release gate except Flutter tests, iOS archive and real screenshots is pending.
-- **Localization:** the app is English-only. `lib/l10n/arb/app_en.arb` holds one
-  template placeholder string; roughly 300 to 400 user-facing literals (about 2,400
-  words) are hardcoded in `lib/features`, `lib/shared` and `lib/app`. Pack names and captions live in
-  `assets/data`. The 17 files in `docs/store-description/` are legacy translations
-  of an older product with brain-training wording and must not be submitted.
-  The website is `lang="en-US"` only.
-- **Fonts (checked with fontTools on the bundled files):** Roboto covers Latin,
-  Vietnamese and Cyrillic (896 glyphs); the Fraunces Bold headline subset covers
-  Western Latin only (224 glyphs, no Vietnamese diacritics). Neither covers
-  Japanese, Chinese, Korean or Arabic.
-- **Activities in the app:** gentle matching (visible or hidden), Look together with
-  prompts, the unshipped tap-to-place puzzle prototype, the legacy pack game.
-  The website already has 11 browser games under the same design contract.
-- **Platform gaps that localization inherits:** reminders are iOS-only; Android is
-  unbuilt for 1.5.0; the Play listing is not live. Most non-US markets below are
-  Android-majority.
-
-Implication: a localized listing in front of an unverified, iOS-only app
-multiplies an unproven loop by ten. The sequence in section 7 therefore puts
-verification and Android ahead of language three.
-
-## 3. Who we serve: the use-case map
-
-Each row is a person and a moment. "Handled" means the job can be done from
-the home screen without instruction; it does not mean verified.
-
-| Person | Moment / job | Today | Plan |
-| --- | --- | --- | --- |
-| Family member at home (primary buyer) | Fill 10-20 minutes together calmly | Handled: matching, Look together | Keep as the first screen; add two more gentle modes (section 4) |
-| Same | Use our own photos without a server | Handled: bounded local copies | Captions and read-aloud in the participant's language |
-| Same | Set it up once, hand the device over | Partial (GM-037) | Participant-language and comfort settings prepared by the helper |
-| Adult using it independently (mild impairment) | Start alone, stop without judgment | Handled | Keep; never add streaks or nudges |
-| Bilingual family: helper speaks English, parent's first language is Spanish, Vietnamese, Chinese, Tagalog... | Play in the parent's language while the helper reads English | Not handled | **Participant language separate from device language** (GM-041 proposal) |
-| Paid carer or visiting grandchild who does not know the person's history | Know what to talk about | Partial (captions, prompts) | Local "about these pictures" notes written by the family (GM-019 extension); no diagnosis fields |
-| Remote relative | Send photos for the activity | Deferred (sync) | No backend: a file-based pack sent by AirDrop or messaging (GM-022) stays R3 and needs its own threat model |
-| Activity coordinator in a care home or day center | Run a 30-minute group session on a TV or iPad | Not handled | Picture bingo and Find the same for groups; AirPlay/HDMI large-screen layout test; several bounded albums (GM-021) for several residents |
-| Carer at a hard hour (late afternoon, waiting rooms) | Something calm, no demands | Partial (Look together) | Calm breathing and slow picture viewing. Honest wording: "a calm, familiar activity some families use during restless times"; never "reduces agitation" (Cochrane 2025 found no music effect on agitation and nothing tests a photo app) |
-| Low vision, tremor, hearing loss | Use it at all | Partial (text floor, 48px targets) | Read aloud (GM-011), per-language font and 200% text checks, switch access |
-| Person who cannot use a screen any more | Still be included | Out of app | Website printable handouts and picture cards; the app does not pretend |
-| Clinician, researcher | Scores, progress, diagnosis | Excluded | Stays excluded; the honest answer is "this is a recreational activity" |
-
-Out of scope by decision and unchanged by this plan: diagnosis, cognitive
-scoring, treatment or prevention claims, AI processing in the app, cloud sync,
-accounts, recordings, telemetry SDKs, music licensing, medication management.
-
-## 4. Feature plan
-
-Everything reuses the existing content, persistence, accessibility and design
-contracts. One filled button per screen, no clock, score, streak or countdown.
-IDs GM-041 and up are **proposals**; they are not in the catalog until approved.
-
-### 4.1 Make the existing promise true (prerequisite, R0 of the roadmap)
-
-Device acceptance per `docs/release/device-acceptance.md`, VoiceOver and
-TalkBack walkthroughs, airplane-mode fresh install, upgrade from the store
-build, the five-caregiver comprehension test, and the Android build and Play
-release. Re-answer the age-rating questionnaire truthfully (16+ is unusual for a
-picture game and likely costs family installs). None of this is new work; it is
-the unfinished top of WORKBOARD, and it gates every language below.
-
-### 4.1b Lead with what the reviews ask for
-
-The category's loudest complaints are ads, scam purchases, subscriptions,
-logins, online dependency, small text, childish content and abandoned apps
-([review-gap log](competitors.md)). The app already answers all of them and
-says so nowhere prominent. Before any new feature: make "No ads. No
-subscription. No account. Works offline." the second screenshot message and
-the first line of the Play short description, within the existing claims rules,
-and reply to every store review in every language.
-
-### 4.2 Localization foundation (GM-036, R2 → promoted)
-
-- Move every production string into ARB files under the existing `flutter_localizations`
-  and `intl` setup; the generated `AppLocalizations` already exists. Add a test that
-  fails on any new hardcoded string in production views.
-- Pack names, captions and conversation prompts get a per-locale layer in `assets/data`
-  with English fallback per item, never a mixed-language essential control.
-- Pseudolocalization and a +40% text-expansion run at 100% and 200% text on the
-  smallest phone and iPad; German and Portuguese are the long-string tests, Japanese
-  and Chinese the short-string tests, Arabic the mirroring test if it is ever chosen.
-- Fonts: Roboto already covers every Latin language here plus Vietnamese. The Fraunces
-  headline subset lacks Vietnamese, Polish and Turkish letters; `gmDisplayFontFamily`
-  already falls back to Roboto, so those headlines silently turn sans. Either accept
-  that or add a second static Fraunces instance (about 40 KB); decide per `DESIGN.md`
-  › Typography.
-  For Japanese, Chinese and Korean use the platform system font through Flutter's
-  font fallback rather than bundling 5-15 MB CJK fonts, and accept that headlines
-  are sans in those languages. Add a design-system test that renders a sample
-  string per supported locale and fails on missing glyphs (tofu).
-- Store side: one canonical `metadata/app-store.<locale>.json` per language, generated
-  exports, and `scripts/release_metadata.py` extended to check each locale's name
-  (30), subtitle (30), keywords (100 bytes), Play short description (80) and the
-  claims word-list in that language.
-- Screenshots: the compose scripts take a locale and render the six approved frames
-  with localized headlines from the canonical JSON. Captures come from the real
-  localized build.
-- Definition of done for a language (from GM-036): full journey in that language,
-  200% text, native permission and share sheets, help and privacy pages, release
-  notes, the six screenshots, the "not a medical device" sentence Google Play
-  requires, and a human reviewer who checks adult tone, no added medical claim and
-  cultural fit. A locale is not advertised before this passes.
-
-### 4.3 GM-041 Participant language (proposal, R1)
-
-A setting a helper can choose before handing over: the activity screens, captions
-and prompts appear in the participant's language while the helper's phone stays in
-its own. Rationale: in the US the buyer searches in English for a parent whose
-first language is Spanish, Vietnamese, Chinese, Korean or Tagalog, and people with
-dementia often lose a later-learned language first (see [evidence](evidence.md)).
-No competitor found offers this. Cost is small once 4.2 exists: one locale override
-on the activity routes and the stored pack layer.
-
-### 4.4 More gentle modes, ported from the website, one at a time (R2)
-
-The website games already follow the design contract and have logic tests. Candidate
-order, chosen by group use and cultural content rather than novelty:
-
-1. **Sort together** (GM-010): tap a picture, tap a group; neutral feedback.
-2. **Finish the saying**: proverbs and song lines per language, editor-reviewed, no
-   recall demand (the saying can be shown whole at any time). This is the one mode
-   whose content is naturally local, so it becomes stronger with each language.
-3. **Picture bingo** and **Find the same** for small groups on an iPad or TV.
-4. **Calm breathing**, the one paced activity, already excepted in `DESIGN.md`.
-
-Each ships only after the comparative pilot (GM-039) prefers it over Look together;
-a mode that raises assistance is removed, not fixed with more modes.
-
-### 4.5 Read aloud (GM-011, R2, lower priority than first assumed)
-
-User-started reading of visible text and opted-in captions with the OS on-device
-voice in the participant language; no voice download, no cloud, immediate Stop.
-The [evidence](evidence.md) cuts its priority: spoken prompts were often ignored
-or produced passive reliance, and older listeners understand synthetic speech
-less well than natural speech. Keep it off by default, for low vision and for a
-helper who cannot read the participant's language, after the speech plugin and
-offline voices per platform are reviewed. Bilingual captions (4.3) do most of
-the same job without audio.
-
-### 4.6 Content that is local, not just translated (GM-025 extension)
-
-Per language, two to three picture packs of recognizable, adult, non-clinical scenes
-(festivals, foods, markets, landscapes, trades) with the same provenance register,
-license check and tile-size review. Prompts are rewritten by a native reviewer, not
-machine translated: "What catches your eye?" has no good literal translation in
-several languages.
-
-### 4.6b GM-042 Helper settings without a password (proposal, R1)
-
-Several competitors lock settings behind a PIN so the participant cannot wander
-into removals or purchases. The Dutch requirements study warns against passwords
-and codes. Proposal: comfort settings stay one tap away as today; destructive or
-helper-only actions (remove copies, reminders, rating link) sit behind a
-press-and-hold "Helper" control with a plain explanation, never a code. Needs a
-usability check that a participant is not locked out of "Done for now".
-
-### 4.7 Group and large-screen use
-
-No new feature: test the existing activities mirrored to a TV (AirPlay, HDMI,
-Chromecast) at 16:9 and record the layout fixes. Add a `for-organizations` offer on
-the website in each language. Several residents need several albums (GM-021, R3,
-approval required).
-
-### 4.8 Still deferred, with the reason
-
-| Item | Why it stays out for now |
-| --- | --- |
-| Music, sing-along | Licensing cost and rights per territory; the user's own music app does this |
-| Family sync, remote upload | Needs a backend and consent model; GM-022 file packs are the no-backend path |
-| Payments (GM-035) | No willingness-to-pay evidence yet; revisit after two languages show reuse |
-| Mainland China availability | Every app on the mainland store needs an ICP filing through a Chinese entity or agent; zh-Hans still serves the US and overseas storefronts; see [language markets](language-markets.md) |
-| Arabic, Hindi | RTL and script cost against low iOS share and low paid intent; revisit with demand evidence |
-
-## 5. Language plan
-
-Full numbers and sources are in [language-markets.md](language-markets.md).
-The ranking weighs people living with dementia and their caregivers, iOS share
-(the app is iOS-first), store revenue as a proxy for willingness to pay, the
-cost of a faithful translation, and whether the word *dementia* works in the
-name.
-
-<!-- cspell:disable -->
-| Order | Locale | Storefronts | Why here | Name note |
-| --- | --- | --- | --- | --- |
-| 1 | en-US (done), en-GB, en-AU, en-CA | US, UK, AU, CA, IE, NZ and, for en-GB, 172 of 175 storefronts as an indexed extra language | Zero translation; UK and AU say *carer*; an en-GB listing is read almost everywhere | Keep |
-| 2 | es-MX, es-ES | US (es-MX is an indexed extra language there), MX, ES and 16 storefronts where es-MX is primary | US Hispanic families and language reversion; the cheapest review; doubles the US keyword space | *Juegos para personas con alzhéimer*: searchers type *Alzheimer*, not *demencia* |
-| 3 | ja | JP (ja plus en-US) | 4.7M people with dementia, the highest iOS share of any large market (60.5%), high willingness to pay, one of the three largest stores | 認知症 is the official, accepted term; never 痴呆 or ボケ; never 予防 |
-| 4 | de | DE, AT, CH | 1.8M, high ARPU, strong associations; the long-string test | *Demenz* is neutral; *Beschäftigung für Menschen mit Demenz* |
-| 5 | zh-Hant, with zh-Hans as a sibling for the US and overseas storefronts only | TW, HK; both scripts indexed in the US | Taiwan iOS 51.6%; the two scripts share one review; mainland is excluded by the ICP filing | 失智症 in Taiwan, 認知障礙症 in Hong Kong; never 老年痴呆 |
-| 6 | fr | FR, CA-fr, BE, CH; French is indexed in 32 storefronts and in the US | 1.0-1.4M; Québec adds a second storefront | *Démence* is avoided in public copy; *maladie d'Alzheimer et maladies apparentées* |
-| 7 | pt-BR | BR; indexed in the US | 1.8-2.7M, third by downloads, Android-majority (needs Play) | *Alzheimer* dominates search; pt-PT is a separate locale later |
-| 8 | ko | KR; indexed in the US | About 1M, national dementia centers as partners | 치매 is stigmatized (43.8% dislike it; a rename to 인지저하증 is proposed); never in the title |
-| 9 | it | IT, CH | 1.48M, about 4M caregivers | *Demenza* neutral; *giochi per anziani* is the live phrase |
-| 10 | vi | VN; indexed in the US | Near-zero review cost for this team; a US differentiator through GM-041 | *Sa sút trí tuệ* is clinical; families say *Alzheimer* or *lẫn* |
-
-Alternates: ar (17 storefronts, Gulf iOS share over 50%, needs right-to-left work),
-nl and pl (small, neutral terms, cheap), hi (negligible iOS share and search).
-Mainland China is excluded until a Chinese entity or agent files the ICP record.
-
-Reality check from the [competitor log](competitors.md): tiny apps already list
-11 to 22 languages, almost certainly machine-translated, and the Japanese and
-Korean head terms lean on prevention (予防, 예방), a claim we will not make.
-Language count is table stakes. What no competitor found does: a native-reviewed
-listing per storefront, local picture packs and sayings, and a participant
-language separate from the helper's.
-
-<!-- cspell:enable -->
-Per-language naming rule: the on-device name stays **Golden Moments** everywhere.
-The store name and subtitle are chosen per locale from the local head term plus
-*Golden Moments*, checked by a native reviewer for stigma, and recorded in the
-canonical JSON. Bundle and package identifiers never change.
-
-Cost estimate: roughly 2,400 words of app strings, 500 words of store copy and
-about 150 caption and prompt lines per language. Published 2026 human rates run
-$0.08-0.14 per word, so about $300 per language for translation, or less with
-machine drafts and native editing, plus linguistic QA by the hour
-([sources](language-markets.md)). The real cost is two to four days per language
-for screenshots, 200% text checks and the native review, not translation.
-
-## 6. Distribution per language
-
-Founder-led and cheap first; no paid campaign without a separately approved budget.
-
-1. **ASO per storefront:** localized name, subtitle, keywords, six screenshots,
-   promotional text; record impressions, conversion and installs per storefront in
-   `keyword-research.csv` with dates and sources, and first-time downloads,
-   deletions and sessions per storefront from the App Store Connect reports
-   (`scripts/store_downloads.py`; see WORKBOARD › Measuring the goal). Search-source
-   installs can include Apple Ads; label them. Play installs come from Play Console.
-2. **National associations and public programs** as the first outbound list:
-   ten to thirty per country, the printable handout translated, a request to be
-   listed on their technology pages. Partners are in [language-markets.md](language-markets.md).
-3. **Website:** translate the home page, five activity guides, help, privacy and the
-   organizations page per language with `hreflang`; the rest stays English until the
-   language shows installs.
-4. **Care homes and day centers:** the organizations page offer, a group-use guide and
-   the large-screen test record; collect three named references per country.
-5. **Ratings:** the existing platform prompt only; it works per storefront.
-
-## 7. Sequence
-
-| Window | Do | Gate to the next window |
+| Versus | GM is better at (status) | GM is worse at |
 | --- | --- | --- |
-| Days 0-30 | Device acceptance, VoiceOver/TalkBack, Android build and Play release, age-rating re-answer, l10n foundation (4.2), GM-041 design, es and vi as the first two languages (cheapest honest review) | Device gates recorded; Play live; two languages pass the definition of done |
-| Days 30-90 | ja, de, zh-Hant; localized screenshot pipeline; association outreach in five countries; Sort together ported behind the pilot | Each language live with localized listing; four weeks of per-storefront data |
-| Days 90-180 | fr, pt-BR, it, ko; Finish the saying with local content; read-aloud review; group large-screen test | Reuse pilot in at least two non-English languages; first three languages measured against section 1 |
-| Days 180-365 | Hold or deepen per language against the thresholds; decide the one-time unlock on observed willingness to pay; second content pack per retained language | At least four storefronts in top 3 for their head terms |
+| Photo album | Matching, Look together prompts and captions turn photos into a shared activity with no setup (**hypothesis**) | Zero learning; already on every phone |
+| Printed activity | Free, endless, personal photos; the website also prints (**proven** features) | Touchable, no screen, a good gift |
+| Memory Lane Games | Free, no subscription (its top complaint), works in a browser and on paper, personal photos (**proven** features) | 1,500+ games, a cited trial, a care-home edition |
+| Oya, senior game apps | No ads, no scores or timers, adult look (**proven** features) | 500K+ installs, thousands of ratings |
 
-Seven-day actions, in order:
+The category's loudest review complaints are ads, subscriptions, logins, online
+dependency, childish content and abandoned apps ([competitors](competitors.md)).
+GM answers all of them and says so nowhere prominent. Category quality is low (uMARS 3.35 of 5 across 17 apps).
 
-1. Run the device acceptance scenarios on one physical iPhone and record them.
-2. Re-answer the App Store Connect age questionnaire and read the result back.
-3. Extract the hardcoded strings into `app_en.arb` with a failing test for new literals.
-   In the same week the maintainer can add an en-GB listing (*carer*, UK spelling)
-   in App Store Connect from a new canonical `metadata/app-store.en-GB.json`: it is
-   the indexed extra language in 172 storefronts and costs about an hour.
-4. Draft `metadata/app-store.es-MX.json` and get one native Spanish caregiver to read it.
-5. Ask three Vietnamese-speaking families with an elder to try the English build and
-   say which words they would want in Vietnamese; this is the GM-041 falsification test.
+- **Counterargument:** none of this is a moat. What compounds is ratings, indexed
+  pages, organization listings and the helpful-rate record.
+- **Must hold:** "less setup than the album" is real for families.
+- **Cheapest disproof:** in the pilot, compare against the device photo viewer
+  (GM-039). If at least 12 of 20 do not prefer GM, the advantage is not shown.
 
-## 8. Risks, assumptions and the cheapest tests
+## 3. The single highest-leverage next action
 
-Load-bearing assumptions:
+**Read all five "#1" measures for the first time this week, as one scorecard.**
+Rank, ratings and downloads are readable now; the helpful rate needs #104; reuse
+and comprehension need people. Today none has a recorded baseline, and only the
+homepage appeared in Bing's index.
 
-1. **Search demand exists in each language for the activity job** (not for *dementia* in
-   general). Test: localized listing plus keyword popularity readings for eight weeks
-   before any content pack is made.
-2. **Less setup is a real advantage over a photo album or a printed activity.** Test:
-   the GM-039 comparative pilot in two languages, against the device photo viewer.
-3. **Language reversion makes GM-041 valuable to US families.** Test: the five-family
-   question above, then an es and vi participant-language build with ten families.
+| Alternative | Why not first |
+| --- | --- |
+| Translate (es, vi) | Multiplies a loop nobody has measured; the earlier plan says the same |
+| Device acceptance | Required before more releases, but it decides quality, not direction; it runs in parallel on hardware |
+| New modes or a care log | No evidence about which problem limits use |
+| More content | Pages that are not indexed earn nothing |
+| Paid search | No approved budget; retention unknown |
 
-Fat tails and failure modes:
+**Ships in 7 days:** Search Console and Bing verified, sitemap submitted; #104
+merged and `answer` registered in GA4; `scripts/store_downloads.py` reading
+first-time downloads and deletions per day; App Store and Play positions and
+rating counts recorded in `keyword-research.csv`; a scorecard table in WORKBOARD;
+pilot and five-second-test recruitment started.
 
-- A translated medical claim slipping into a locale. Mitigation: per-locale claims
-  word-list in the metadata check and human review; the legacy translations are never reused.
-- Store rejection or a stigma complaint over *dementia* in a name. Mitigation: native
-  naming review; the device name never changes.
-- Ten half-maintained languages. Mitigation: hold rule in section 1; strings are
-  cheap, content is gated.
-- Android remains unpublished and six of ten markets are Android-majority. Mitigation:
-  Play release is a gate in window one.
-- Effort flows to localization while US retention stays unmeasured. Mitigation: the
-  US pilot and device gates are the first window; this plan does not start language
-  three until they are recorded.
+**Success:** by day 14, every measure has a dated value or a stated reason it has
+none.
 
-Where this plan is most likely wrong: the ranking order. Japan may be slower than
-expected because families trust institutional channels over App Store search, and
-Brazil may be faster than its revenue rank suggests because caregiver volume is
-large and competition is thin. The per-storefront data after eight weeks decides,
-not this table.
+- **Counterargument:** measuring changes nothing by itself.
+- **Must hold:** enough traffic exists to read (more than about 30 activity starts
+  a week, **assumption**).
+- **Invalidates it:** if pages are already indexed and starts stay under that
+  after 14 days, demand reaching GM is the constraint; switch to direct
+  distribution (pilot, associations, roundups).
 
-## 9. Decisions requested from the maintainer
+## 4. Roadmap and gates
 
-1. Approve the reframed goal and the measurable definition of number one (section 1).
-2. Promote GM-036 to R1 and approve the localization foundation (4.2).
-3. Approve GM-041 participant language as a catalog entry with acceptance tests.
-4. Confirm the first two languages (es, vi) and the order of the next three.
-5. Confirm that Play publication and device acceptance gate language three.
-6. Approve a translation review budget per language before the first paid reviewer.
-7. Approve GM-042 helper settings as a catalog entry, or decline it.
-8. Approve the "No ads. No subscription. No account. Works offline." screenshot and
-   Play short-description change through the canonical metadata and the claims check.
+| By | Do | Continue if (**assumptions**) | Otherwise |
+| --- | --- | --- | --- |
+| Day 7 | Scorecard (section 3); age questionnaire re-answered truthfully; device acceptance on one iPhone started | Every measure has a baseline | Fix the missing source first |
+| Day 30 | Pilot run (12 families, 8 staff); five-second test; two problem pages live; strings moved to ARB (no-regret for any language); "No ads. No subscription. No account. Works offline." in the second screenshot and Play short description; Play 1.5.0 confirmed live | Pilot ≥8/20 return, ≥12/20 prefer GM; helpful ≥70% (n≥50); ≥50% of sitemap URLs indexed | Reuse fails: diagnose setup and activity fit, add nothing. Helpful 50–69%: fix the activities with most "Not really" first. Below 50%: stop growth work |
+| Day 90 | Segment decision (staff if ≥2× families' return or print rate, or ≥5 organizations adopt); en-GB and es-MX listings; GM-041 participant-language test with 3 Vietnamese- and 3 Spanish-speaking families | US top 3 for 2 of 3 head terms; ≥20 ratings averaging ≥4.5; GM-041 families ask for it unprompted | Hold languages; deepen US distribution |
+| Day 365 | Languages per [detail](detail.md) A4, each held unless it reaches top 3 within six months; a paid path only if a gate below passes | US meets all five "#1" measures | If reuse and helpful both stay below gate for two quarters, stop new features and keep GM as a maintained free resource |
+
+- **Counterargument:** gates slow a small team.
+- **Must hold:** gates are read on schedule.
+- **Cheapest disproof:** if a gate is skipped twice, replace the plan with the
+  day-7 scorecard alone.
+
+## 5. Growth
+
+Founder-led and cheap first; no paid spend without an approved budget.
+
+1. **Search:** problem-to-activity pages (asking to go home, repeated questions,
+   visiting day, late afternoon, a rainy day), each with what to say, red flags,
+   two activities and a printable. A few excellent pages a month, human-written
+   and sourced; no mass production.
+2. **App discovery:** ratings through the existing prompt only; the review-gap
+   message in screenshots; en-GB and es-MX listings as US and UK reach moves.
+3. **Associations and care settings:** memory cafés, Area Agencies on Aging,
+   libraries, adult day programs and support groups via `/for-organizations/`
+   and `/handout/`; follow up the nine October pitches; get listed in "best
+   dementia apps" roundups.
+4. **Referral loop:** "Share with family" in the app and the handout carry the
+   site; App Store campaign tokens (`ct=web`) make web-to-install visible.
+5. **Retention:** the optional reminder the caregiver sets, personal photos and
+   new local packs; never streaks or nudges.
+
+- **Counterargument:** AI answers may satisfy searches without a visit.
+- **Must hold:** organizations list free tools for families.
+- **Cheapest disproof:** 20 organization asks; fewer than 3 listings after 30 days
+  means outreach is the wrong channel.
+
+## 6. Business model and unit economics
+
+- **Uses:** the person living with dementia, with a family helper or staff.
+- **Pays:** nobody today. Candidates: families (one-time unlock), organizations
+  (group use), grants.
+- **Recommends:** associations, memory cafés, activity directors, social workers,
+  roundup sites, search and AI answers.
+- **Can block:** store review (claims), the 16+ age rating, care-setting
+  procurement, family distrust of ads or subscriptions, stigma of "dementia" in a
+  name, and the person living with dementia.
+
+| Option | Verdict |
+| --- | --- |
+| Free core, no ads | Keep; required for trust and reach |
+| One-time unlock for extra packs (about $6.99, **assumption**) | Test after day 90 if reuse passes; needs the payments boundary lifted |
+| Organization tier (group mode, weekly printable plan) | Test only if staff win the segment decision |
+| Subscription | No: only 12% of caregivers in a 2026 convenience survey would pay out of pocket, and surprise subscriptions are the category's top complaint |
+| B2B health systems, GUIDE | Later; no app payment exists in GUIDE |
+| Ads | No |
+
+**Economics today:** fixed costs are small (Apple $99 a year, a domain,
+Cloudflare static hosting); no acquisition spend. The constraint is founder time,
+so prefer work that compounds (indexed pages, ratings, listings). No revenue scenario is given: it would be invented.
+
+- **Counterargument:** free forever may not fund the work.
+- **Must hold:** a small share of returning families or organizations will pay
+  once.
+- **Cheapest disproof:** after day 90, ask 10 organizations and 20 returning
+  families what they would pay, before building payment.
+
+## 7. Product and technical
+
+**One system.** The website is the front door: it answers the search, starts an
+activity in seconds with no sign-up, prints, and points to the app only for what
+the web cannot do (personal photos offline, a home-screen habit, a reminder). The
+app is the habit at home. Both share DESIGN.md.
+
+- **Accessibility:** DESIGN.md gates stay mandatory; device, VoiceOver and TalkBack
+  checks are open and block the next release.
+- **Localization:** move strings to ARB first; then en-GB, es-MX (supported on
+  the US storefront; vendors, not Apple, report it is indexed), vi through GM-041
+  participant language as a US move (first-language reversion is weak, mixed
+  evidence, so GM-041 is a hypothesis); other languages per
+  [detail](detail.md) A4. Mainland China excluded (ICP filing). 치매, 老年痴呆
+  and *démence* are naming problems for native reviewers, not translations.
+- **Privacy:** no backend, no accounts; the website sends only the event names in
+  #104 and a fixed Yes/Not really answer; app retention comes from store reports.
+- **Claims:** enjoyment, conversation and mood in the moment only. Nothing about
+  cognition, memory, agitation, sundowning, caregiver burden or disease course
+  (FDA general wellness 2026 never names Alzheimer's, so even "mental acuity"
+  is unsafe beside a dementia audience; FTC Lumosity 2016; Apple 1.4.1 and 5.1.1(ix), the
+  Google Play "not a medical device" sentence, MHRA labeling).
+- **AI where it clearly helps:** translation drafts with native review, image alt
+  text and source checks in production. **Where it would not:** a chat companion,
+  generated activities, scoring, or anything that sends family photos off the
+  device. No AI in the app.
+
+- **Counterargument:** without accounts, families cannot share packs.
+- **Must hold:** one device per household is enough for the job.
+- **Cheapest disproof:** count pilot households that ask to share photos across
+  devices; above 5 of 20 reopens GM-022 file packs (no backend).
+
+## 8. Measurement
+
+| Measure | Source | Baseline (2026-10-31) |
+| --- | --- | --- |
+| First-time downloads, deletions, sessions per storefront | App Store Connect reports (`scripts/store_downloads.py`); Play Console | Not produced yet; owner reports about 10 a day |
+| Search rank on head terms | `keyword-research.csv` (iTunes Search API, Play search) | #1 "dementia activities", not top 14 "dementia games" or "alzheimers games" |
+| Ratings | Store listings | iOS 0; Play count too small to show |
+| Indexed pages, non-brand impressions | Search Console, Bing | Not verified; Bing showed only the homepage |
+| Website activation, meaningful use | GA4 `activity_start`, `activity_restart`, `activity_print` | Starts with #104 |
+| Caregiver-reported value | GA4 `activity_feedback` helpful rate, with n | Starts with #104 |
+| Voluntary reuse, preference | Pilot record sheet (off GitHub) | Not run |
+| Comprehension | Five-second test | Not run |
+| Trust | Complaints, medical-claim or privacy incidents (target 0), review themes | 0 recorded |
+| Economics | Costs, revenue | Near-zero cost, no revenue |
+
+- **Counterargument:** small numbers get read as proof.
+- **Must hold:** every figure carries its count and date.
+- **Cheapest disproof:** review the first scorecard for any number without n.
+
+## 9. Maintainer decisions
+
+The three that matter most:
+
+1. **Merge #104 (website activity events).** Recommend yes: it is the only
+   caregiver-reported value signal without app telemetry.
+2. **Verify Search Console and Bing, and register `answer` in GA4.** Recommend
+   this week.
+3. **Send the pilot messages** ([kit](../strategy/reuse-pilot.md)). Recommend
+   this week; it is the test that can disprove the plan.
+
+Then:
+
+4. Re-answer the App Store age questionnaire truthfully; recommend now.
+5. Create the App Store campaign provider token; recommend now.
+6. Approve the review-gap message in the second screenshot and Play short
+   description, through the canonical metadata and claims check; recommend yes.
+7. Promote GM-036 (string extraction) to R1; recommend yes, no-regret.
+8. Approve GM-041 participant language as a catalog entry; recommend yes after
+   the six-family test.
+9. Confirm Play publication and device acceptance gate any new language;
+   recommend yes.
+10. Approve GM-042 helper settings without a password; recommend a usability
+    check first.
+11. Approve a translation review budget per language; recommend deciding at day 90.
+12. Keep the payments, accounts, backend and AI boundaries; recommend no change
+    before the day-90 gates.
