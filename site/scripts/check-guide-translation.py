@@ -26,6 +26,15 @@ SITE = Path(__file__).resolve().parent.parent
 SOURCE = SITE / 'src/content/guides'
 TRANSLATED = SITE / 'src/content/guides-i18n'
 
+# Words that must not label people living with dementia ("patients"); the same
+# list check-site.mjs fails on for these languages.
+PATIENT_WORDS = {
+    'ar': r'مرضى',
+    'vi': r'người bệnh|bệnh nhân',
+    'th': r'ผู้ป่วย',
+    'zh-Hans': r'患者|病人',
+}
+
 FIXED = ('section', 'order', 'updated', 'published', 'sources',
          'relatedGames', 'related', 'health')
 HEADING = re.compile(r'^(#{2,6})\s', re.M)
@@ -105,6 +114,9 @@ def check(code: str, rel: str) -> tuple[list[str], list[str]]:
     shown = ' '.join(str(front.get(k, '')) for k in ('title', 'seoTitle', 'description', 'summary')) + body
     if '!' in shown or '！' in shown:
         warnings.append('exclamation mark')
+    banned = PATIENT_WORDS.get(code)
+    if banned and re.search(banned, shown):
+        errors.append('uses "patients" wording for people living with dementia')
     title = front.get('seoTitle') or front.get('title', '')
     if width(title) > 64:
         warnings.append(f'search title is long ({width(title)})')

@@ -21,7 +21,7 @@ keyPoints:
   - "Hãy chuẩn bị cho việc người thân tìm cách rời đi, và gọi bác sĩ khi có bất kỳ thay đổi đột ngột nào."
 faq:
   - q: "Vì sao mẹ tôi bị sa sút trí tuệ cứ đòi về nhà khi bà đang ở nhà?"
-    a: "Sa sút trí tuệ có thể khiến những căn phòng quen thuộc trở nên lạ lẫm, và đôi khi người bệnh cảm thấy mình đang ở một thời kỳ trước đó của cuộc đời. “Nhà” có thể là ngôi nhà thời thơ ấu, hoặc đơn giản là cảm giác an toàn và dễ chịu. Đáp lại cảm giác ấy thường hiệu quả hơn là chỉ ra bà đang ở đâu."
+    a: "Sa sút trí tuệ có thể khiến những căn phòng quen thuộc trở nên lạ lẫm, và đôi khi người đó cảm thấy mình đang ở một thời kỳ trước đó của cuộc đời. “Nhà” có thể là ngôi nhà thời thơ ấu, hoặc đơn giản là cảm giác an toàn và dễ chịu. Đáp lại cảm giác ấy thường hiệu quả hơn là chỉ ra bà đang ở đâu."
   - q: "Tôi nên nói gì khi người thân đòi về nhà?"
     a: "Hãy thử nói “Ở đây mình an toàn, và con ở cạnh mẹ”, rồi “Kể con nghe về nhà của mẹ đi.” Hãy lắng nghe, cho xem một tấm ảnh hoặc nghe một bài hát, và mời một ly nước hay một đoạn đi dạo ngắn. Tránh nói “Mẹ đang ở nhà mà” như một lời sửa sai, vì điều đó có thể khiến người thân cảm thấy mình bị bảo là sai."
   - q: "Nói rằng lát nữa mình sẽ về nhà có được không?"
