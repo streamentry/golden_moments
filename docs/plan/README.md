@@ -216,7 +216,7 @@ app is the habit at home. Both share DESIGN.md.
 | Measure | Source | Baseline (2026-10-31) |
 | --- | --- | --- |
 | First-time downloads, deletions, sessions per storefront | App Store Connect reports (`scripts/store_downloads.py`); Play Console | Not produced yet; owner reports about 10 a day |
-| Search rank on head terms | `keyword-research.csv` (iTunes Search API, Play search) | #1 "dementia activities", not top 14 "dementia games" or "alzheimers games" |
+| Search rank on head terms | `scripts/store_scorecard.py`, Play search | #1 "dementia activities", #4 "alzheimers activities", #17 "dementia games", not top 50 "alzheimers games" |
 | Ratings | Store listings | iOS 0; Play count too small to show |
 | Indexed pages, non-brand impressions | Search Console, Bing | Not verified; Bing showed only the homepage |
 | Website activation, meaningful use | GA4 `activity_start`, `activity_restart`, `activity_print` | Starts with #104 |
