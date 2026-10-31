@@ -508,5 +508,26 @@
       "q": "Is there an app version of this game?",
       "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
     }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: large, friendly pictures",
+    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
+    "about": "About {name}",
+    "aboutAria": "About this game",
+    "noTimer": "No timer or score",
+    "printable": "Printable",
+    "howTo": "How to play {name}",
+    "tips": "Tips for playing together",
+    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
+    "moreAria": "More to explore",
+    "helpfulGuides": "Helpful guides",
+    "appTitle": "Play it in the app",
+    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
+    "photoAppTitle": "Keep your photos ready",
+    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
+    "goodToKnow": "Good to know",
+    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
+    "moreGames": "More gentle games",
+    "crumb": "Games"
   }
 }
