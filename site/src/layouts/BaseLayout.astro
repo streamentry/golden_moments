@@ -7,6 +7,8 @@ import Footer from '../components/Footer.astro';
 import JsonLd from '../components/JsonLd.astro';
 import Analytics from '../components/Analytics.astro';
 import { SITE, absoluteUrl } from '../lib/site';
+import { DEFAULT_LOCALE, localeInfo, localePath, splitLocale } from '../i18n/locales';
+import { PUBLISHED, ui } from '../i18n/ui';
 
 interface Props {
   /** Full <title>. Pages normally pass `title` and get the suffix added. */
@@ -20,6 +22,8 @@ interface Props {
   noindex?: boolean;
   /** False on pages that handle family photos, which allow no third-party scripts. */
   analytics?: boolean;
+  /** Language codes this page exists in; defaults to English only. */
+  available?: readonly string[];
 }
 
 const {
@@ -27,19 +31,26 @@ const {
   description,
   rawTitle = false,
   image = '/og/default.png',
-  imageAlt = 'Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog',
+  imageAlt,
   type = 'website',
   jsonLd = [],
   noindex = false,
   analytics = true,
 } = Astro.props;
 
-const fullTitle = rawTitle ? title : `${title}${SITE.titleSuffix}`;
+const { code: lang, path } = splitLocale(Astro.url.pathname);
+const locale = localeInfo(lang);
+const t = ui(lang);
+// Pages declare the languages they exist in; anything else is English only.
+const available = Astro.props.available ?? [DEFAULT_LOCALE];
+const alternates = PUBLISHED.filter((l) => available.includes(l.code));
+const fullTitle = rawTitle ? title : `${title}${t.common.titleSuffix}`;
 const canonical = absoluteUrl(Astro.url.pathname);
 const ogImage = absoluteUrl(image);
+const altText = imageAlt ?? t.common.defaultImageAlt;
 ---
 <!doctype html>
-<html lang="en-US">
+<html lang={locale.htmlLang} dir={locale.dir}>
   <head>
     <meta charset="utf-8" />
     {analytics && <Analytics />}
@@ -47,6 +58,11 @@ const ogImage = absoluteUrl(image);
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    {
+      alternates.length > 1 &&
+        alternates.map((l) => <link rel="alternate" hreflang={l.bcp47} href={absoluteUrl(localePath(l.code, path))} />)
+    }
+    {alternates.length > 1 && <link rel="alternate" hreflang="x-default" href={absoluteUrl(path)} />}
     {noindex && <meta name="robots" content="noindex, follow" />}
     {!noindex && <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />}
     <meta name="theme-color" content="#FDF9F0" />
@@ -66,29 +82,37 @@ const ogImage = absoluteUrl(image);
 
     <meta property="og:type" content={type} />
     <meta property="og:site_name" content={SITE.name} />
-    <meta property="og:locale" content={SITE.locale} />
+    <meta property="og:locale" content={locale.og} />
+    {alternates.filter((l) => l.code !== lang).map((l) => <meta property="og:locale:alternate" content={l.og} />)}
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={ogImage} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:image:alt" content={imageAlt} />
+    <meta property="og:image:alt" content={altText} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
-    <meta name="twitter:image:alt" content={imageAlt} />
+    <meta name="twitter:image:alt" content={altText} />
     <meta name="apple-itunes-app" content="app-id=6749312459" />
     {jsonLd.length > 0 && <JsonLd data={jsonLd} />}
     <slot name="head" />
   </head>
   <body>
-    <a class="skip-link" href="#main">Skip to main content</a>
-    <Header />
+    <a class="skip-link" href="#main">{t.common.skipLink}</a>
+    <Header lang={lang} />
+    {
+      lang !== DEFAULT_LOCALE && (
+        <p class="mt-notice container">
+          {t.common.machineTranslated} <a href={path} hreflang="en" lang="en">{t.common.readOriginal}</a>
+        </p>
+      )
+    }
     <main id="main" tabindex="-1">
       <slot />
     </main>
-    <Footer />
+    <Footer lang={lang} available={available} path={path} />
   </body>
 </html>

@@ -21,14 +21,15 @@ export const SITE = {
 
 export interface NavItem {
   href: string;
-  label: string;
+  /** Key in the `common.nav` dictionary. */
+  key: 'games' | 'activities' | 'caregiving' | 'brainHealth';
 }
 
 export const NAV: readonly NavItem[] = [
-  { href: '/games/', label: 'Games' },
-  { href: '/activities/', label: 'Activities' },
-  { href: '/caregiving/', label: 'Caregiving' },
-  { href: '/brain-health/', label: 'Brain health' },
+  { href: '/games/', key: 'games' },
+  { href: '/activities/', key: 'activities' },
+  { href: '/caregiving/', key: 'caregiving' },
+  { href: '/brain-health/', key: 'brainHealth' },
 ];
 
 export const SECTION_META = {

@@ -6,6 +6,8 @@ import { join, relative } from 'node:path';
 
 const DIST = new URL('../dist/', import.meta.url).pathname;
 const SITE = 'https://dementiaactivities.games';
+/** URL prefixes of translated languages; keep in step with src/i18n/locales.ts. */
+const LOCALE_PREFIXES = new Set(['es', 'pt-br', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', 'ar', 'hi', 'ja', 'ko', 'zh-hans', 'zh-hant', 'vi', 'id', 'th']);
 
 /** Phrases that would make a medical or performance claim. Matched case-insensitively. */
 const BANNED = [
@@ -104,7 +106,13 @@ for (const file of htmlFiles) {
     }
   }
 
-  if (!/<html lang="en-US">/.test(html)) err(rel, 'missing lang attribute');
+  const htmlTag = html.match(/<html lang="([^"]+)" dir="(ltr|rtl)">/);
+  const prefix = rel.match(/^([a-z]{2}(?:-[a-z]{2,4})?)\//)?.[1];
+  const translated = prefix && prefix.length >= 2 && LOCALE_PREFIXES.has(prefix);
+  if (!htmlTag) err(rel, 'missing lang or dir attribute');
+  else if (!translated && htmlTag[1] !== 'en-US') err(rel, `English page has lang="${htmlTag[1]}"`);
+  else if (translated && htmlTag[1].toLowerCase() !== prefix) err(rel, `lang="${htmlTag[1]}" does not match /${prefix}/`);
+  else if ((htmlTag[2] === 'rtl') !== (prefix === 'ar')) err(rel, `dir="${htmlTag[2]}" is wrong for this language`);
   // The CSP only allows hashed <style> blocks, so a style attribute would be blocked.
   if (/\sstyle="/.test(html)) err(rel, 'inline style attribute (blocked by the CSP); use a class');
 
