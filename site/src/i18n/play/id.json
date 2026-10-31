@@ -303,7 +303,7 @@
       {"start": "Bagai kuku dengan", "end": "daging", "others": ["kulit", "jari"], "prompt": "Siapa teman yang paling senang Anda ajak bepergian?"},
       {"start": "Air dicincang tiada", "end": "putus", "others": ["terbelah", "terpisah"], "prompt": "Apa yang paling Anda sukai saat keluarga berkumpul?"},
       {"start": "Sedia payung sebelum", "end": "hujan", "others": ["berangkat", "pergi"], "prompt": "Apa yang selalu Anda bawa saat bepergian?"},
-      {"start": "Biar lambat asal", "end": "selamat", "others": ["sampai", "tenang"], "prompt": "Apa yang paling Anda nikmati bila dikerjakan pelan-pelan?"},
+      {"start": "Biar lambat asal", "end": "selamat", "others": ["kenyang", "tenang"], "prompt": "Apa yang paling Anda nikmati bila dikerjakan pelan-pelan?"},
       {"start": "Alah bisa karena", "end": "biasa", "others": ["belajar", "berlatih"], "prompt": "Keterampilan apa yang sering Anda lakukan, seperti memasak atau menjahit?"},
       {"start": "Bagai langit dan", "end": "bumi", "others": ["laut", "gunung"], "prompt": "Anda lebih suka pemandangan gunung atau pantai?"},
       {"start": "Rajin pangkal", "end": "pandai", "others": ["senang", "berhasil"], "prompt": "Pelajaran sekolah apa yang dulu Anda sukai?"},
