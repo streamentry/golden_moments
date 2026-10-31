@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "picture-pairs",
+    "title": "Picture Pairs: a Gentle Matching Game",
+    "subtitle": "Find the two pictures that are the same. Pictures can stay showing.",
+    "pictures": [
+      "teacup",
+      "sunflower",
+      "dog"
+    ]
+  },
+  {
+    "slug": "find-the-same",
+    "title": "Find the Same Picture",
+    "subtitle": "Look at the picture at the top and tap the same one below.",
+    "pictures": [
+      "apple",
+      "pear",
+      "teacup"
+    ]
+  },
+  {
+    "slug": "shadow-match",
+    "title": "Shadow Match: a Gentle Picture Game",
+    "subtitle": "Look at the shadow and tap the picture that makes it.",
+    "pictures": [
+      "teacup",
+      "umbrella",
+      "bicycle"
+    ]
+  },
+  {
+    "slug": "sort-together",
+    "title": "Sort Together: a Picture Sorting Activity",
+    "subtitle": "Put each picture in its basket: kitchen or garden, and more.",
+    "pictures": [
+      "kettle",
+      "watering-can",
+      "bread"
+    ]
+  },
+  {
+    "slug": "picture-puzzle",
+    "title": "Picture Puzzle: an Easy Jigsaw",
+    "subtitle": "Tap two pieces to swap them until the picture is whole.",
+    "pictures": [
+      "sailboat",
+      "house",
+      "balloon"
+    ]
+  },
+  {
+    "slug": "finish-the-saying",
+    "title": "Finish the Saying",
+    "subtitle": "Complete familiar sayings together, then talk about them.",
+    "pictures": [
+      "key",
+      "umbrella",
+      "lamp"
+    ]
+  },
+  {
+    "slug": "word-search",
+    "title": "Large-Print Word Search",
+    "subtitle": "Big letters, a few words, across and down only. Print it too.",
+    "pictures": [
+      "strawberry",
+      "cherries",
+      "lemon"
+    ]
+  },
+  {
+    "slug": "coloring",
+    "title": "Coloring Pages",
+    "subtitle": "Tap a color, then a part of the picture. Print pages too.",
+    "pictures": [
+      "tulip",
+      "butterfly",
+      "house"
+    ]
+  },
+  {
+    "slug": "conversation-cards",
+    "title": "Conversation Cards",
+    "subtitle": "Picture cards with open, gentle questions. No quizzing.",
+    "pictures": [
+      "dog",
+      "bread",
+      "car"
+    ]
+  },
+  {
+    "slug": "photo-pairs",
+    "title": "Photo Pairs: Match Your Own Photos",
+    "subtitle": "Choose your own photos and match them. Nothing is uploaded.",
+    "pictures": [
+      "house",
+      "dog",
+      "car"
+    ]
+  },
+  {
+    "slug": "picture-bingo",
+    "title": "Picture Bingo for Groups",
+    "subtitle": "Printable picture bingo cards and a big-screen caller for groups.",
+    "pictures": [
+      "sun",
+      "fish",
+      "cake"
+    ]
+  },
+  {
+    "slug": "calm-breathing",
+    "title": "A Calm Breathing Pause",
+    "subtitle": "A slow circle to breathe along with. Start and stop when you like.",
+    "pictures": [
+      "moon",
+      "sun",
+      "potted-plant"
+    ]
+  }
+]

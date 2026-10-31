@@ -1,0 +1,45 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../lib/site';
+---
+<PageLayout
+  title="How We Write and Check Our Pages"
+  seoTitle="Editorial Policy"
+  description="How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish."
+  path="/editorial-policy/"
+  crumb="Editorial policy"
+  updated="2026-10-25"
+>
+  <h2>Our sources</h2>
+  <p>
+    We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the
+    Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on
+    peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies
+    on. We open each source before citing it, and we only report what it actually says.
+  </p>
+  <h2>How we write</h2>
+  <ul>
+    <li>Practical first: what to do today, in plain language.</li>
+    <li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li>
+    <li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li>
+    <li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li>
+  </ul>
+  <h2>Who reviews our pages</h2>
+  <p>
+    Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting.
+    Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or
+    other clinician, and we do not claim otherwise. They are general information, not medical advice.
+  </p>
+  <h2>What we will never publish</h2>
+  <ul>
+    <li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li>
+    <li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li>
+    <li>Advice to start, stop or change any medicine.</li>
+    <li>Advertising or sponsored content disguised as guidance.</li>
+  </ul>
+  <h2>Updates and corrections</h2>
+  <p>
+    Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email
+    <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a> and we will check it promptly.
+  </p>
+</PageLayout>

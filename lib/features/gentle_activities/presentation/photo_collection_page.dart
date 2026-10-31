@@ -347,11 +347,12 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
   Widget _photoCard(ActivityPicture picture, ColorScheme scheme) {
     final favorite = _isFavorite(picture.id);
     final hidden = _isHidden(picture.id);
+    // A print in a family album: the photo cropped to a square and mounted
+    // in the linen card, with its state and Options in a caption strip.
     return Card(
-      elevation: 0,
-      shape: gmTileShape(scheme),
       clipBehavior: Clip.antiAlias,
       child: Column(
+        crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
           Padding(
             padding: const EdgeInsets.all(gmSpaceSm),
@@ -364,15 +365,32 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                 ].join('. '),
                 child: Opacity(
                   opacity: hidden ? 0.45 : 1,
-                  child: PictureView(picture: picture),
+                  child: ClipRRect(
+                    borderRadius: BorderRadius.circular(gmRadiusMd),
+                    child: ColoredBox(
+                      color: gmSurf200,
+                      child: PictureView(picture: picture, fit: BoxFit.cover),
+                    ),
+                  ),
                 ),
               ),
             ),
           ),
+          const Divider(
+            height: 1,
+            thickness: 1,
+            indent: gmSpaceSm,
+            endIndent: gmSpaceSm,
+          ),
           // Words as well as icons: state is never colour or an icon alone.
           if (favorite || hidden)
             Padding(
-              padding: const EdgeInsets.symmetric(horizontal: gmSpaceSm),
+              padding: const EdgeInsets.fromLTRB(
+                gmSpaceMd,
+                gmSpaceSm,
+                gmSpaceMd,
+                0,
+              ),
               child: Wrap(
                 spacing: gmSpaceMd,
                 crossAxisAlignment: WrapCrossAlignment.center,

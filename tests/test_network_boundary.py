@@ -20,14 +20,18 @@ NETWORK_IO = re.compile(
     r'InternetAddress\.lookup|HttpClient\(|Socket\.connect|WebSocket\.connect|RawSocket')
 EXPECTED_URLS = {
     # Explicit user-initiated share text, opened through the OS share sheet.
+    # The Play link is also where "Rate Golden Moments" goes on Android.
     'https://play.google.com/store/apps/details',
+    'https://apps.apple.com/app/id$appStoreId',
+    # Opened only after "Rate Golden Moments" is tapped on the Help page.
+    'https://apps.apple.com/app/id$appStoreId?action=write-review',
     # Shown as copyable text on the Help page; the app never opens them
     # (lib/shared/utils/support_info.dart, test/support_info_test.dart).
-    'https://streamentry.github.io/golden-moments-web/help/',
-    'https://streamentry.github.io/golden-moments-web/app-privacy/',
-    'https://streamentry.github.io/golden-moments-web/terms/',
+    'https://dementiaactivities.games/help/',
+    'https://dementiaactivities.games/app-privacy/',
+    'https://dementiaactivities.games/terms/',
     # Base of the pages LegalInfoPage opens in the browser, only after a tap.
-    'https://streamentry.github.io/golden-moments-web/',
+    'https://dementiaactivities.games/',
 }
 
 

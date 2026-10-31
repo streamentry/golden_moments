@@ -1,9 +1,34 @@
 # Miscellaneous
 *.class
 *.log
-*.pyc
 *.swp
+*.swo
+*~
+
+# macOS (including AppleDouble files written on external volumes)
 .DS_Store
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Secrets and local environment: never commit these
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+*.p8
+*.p12
+*.pem
+*.mobileprovision
+*.keystore
+
+# Claude Code: commit shared config, not local state or agent worktrees
+.claude/worktrees/
+.claude/settings.local.json
 .atom/
 .build/
 .buildlog/
@@ -119,3 +144,25 @@ app.*.map.json
 lib/l10n/gen/
 backups/
 output/
+
+# Node, Astro and Cloudflare Workers (site/, site/redirect-www/)
+node_modules/
+.pnpm-store/
+.npm/
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tsbuildinfo
+site/dist/
+.astro/
+.wrangler/
+
+# Python (scripts/, tests/)
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/

@@ -1,0 +1,68 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { GAMES } from '../data/games';
+import { SITE } from '../lib/site';
+
+const printables = GAMES.filter((g) => g.printable);
+const shortText = `${SITE.name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.`;
+const longText = `${SITE.name} (${SITE.domain}) offers ${GAMES.length} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.`;
+---
+<PageLayout
+  title="For Care Homes, Libraries and Support Groups"
+  seoTitle="Free Dementia Activities for Care Homes and Groups"
+  description="How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list."
+  path="/for-organizations/"
+  crumb="For organizations"
+  lede="Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it."
+>
+  <h2>What organizations can use</h2>
+  <ul>
+    <li><strong>{GAMES.length} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href="/games/">all games</a>.</li>
+    <li>
+      <strong>{printables.length} printables:</strong>{' '}
+      {printables.map((g, i) => (
+        <>
+          <a href={`/games/${g.slug}/`}>{g.name}</a>{i < printables.length - 1 ? ', ' : '. '}
+        </>
+      ))}
+      Use the Print button on each page.
+    </li>
+    <li><strong>Group formats:</strong> <a href="/games/picture-bingo/">Picture bingo</a> has printable cards and an on-screen caller, and <a href="/activities/trivia/">easy trivia</a> has 50 questions with answer choices and talking points.</li>
+    <li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href="/activities/ideas/">101 activity ideas</a> or <a href="/activities/care-home-groups/">group activities for care homes</a>.</li>
+  </ul>
+
+  <h2>How groups use it</h2>
+  <ul>
+    <li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li>
+    <li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li>
+    <li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li>
+    <li><strong>Caregiver support groups and memory cafés:</strong> a <a href="/handout/">one-page printable handout</a> for families to take home.</li>
+    <li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li>
+  </ul>
+
+  <h2>What we do not do</h2>
+  <p>
+    The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask
+    organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or
+    photos to be uploaded. The website uses Google Analytics to count visits; our <a href="/privacy/">privacy notice</a>
+    explains what that collects. Photos used in <a href="/games/photo-pairs/">Photo pairs</a> stay in the browser.
+  </p>
+
+  <h2>Add us to your resource list</h2>
+  <p>If you keep a list of resources for caregivers, you are welcome to link to <a href="/">{SITE.domain}</a>. You can copy either description.</p>
+  <h3>Short description</h3>
+  <blockquote class="copy-text"><p>{shortText}</p></blockquote>
+  <h3>Longer description</h3>
+  <blockquote class="copy-text"><p>{longText}</p></blockquote>
+  <p>
+    Useful pages to link to directly: <a href="/games/">free games</a>, <a href="/activities/printable/">free printables</a>,
+    <a href="/activities/alzheimers/">activities for Alzheimer's</a> and <a href="/caregiving/how-to-play-together/">how to play together</a>.
+  </p>
+
+  <h2>Questions or corrections</h2>
+  <p>
+    If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at
+    <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>. Please do not send personal or health information
+    about residents or clients.
+  </p>
+</PageLayout>

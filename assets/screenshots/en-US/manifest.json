@@ -1,19 +1,21 @@
 {
- "candidate": "1.3.0+6 source with the album library (after PRs #70-#76)",
- "base_commit": "a7043467c6478c00dc2ab7e16642cb9eb5fb5b2a",
+ "candidate": "1.3.0+6 source with the album library and family-photo prints (after PRs #70-#77)",
+ "base_commit": "b9e681cc78c3722adb9399c5e90d3d257dd29226",
  "runtime_changes": [
   "Debug banner hidden by integration_test/store_screens_test.dart (WidgetsApp.debugAllowBannerOverride = false); no app code changed for capture"
  ],
  "ios_runtime": "26.5 simulator",
  "devices": {
   "iphone": "iPhone17ProMax,1320x2868",
-  "ipad": "iPadPro13-inchM5,2064x2752"
+  "ipad": "iPadPro13-inchM5,2064x2752",
+  "android": "Pixel 7 emulator (Android 16, google_apis arm64), 1080x2400; Play frames 1440x2560"
  },
  "capture_appearance": "Status bar set with simctl status_bar (9:41, Wi-Fi, full battery). Debug banner suppressed in capture only; release omits it by default. No app UI was synthesized or edited.",
  "composition": "scripts/compose_store_screens.py places each unchanged native capture inside the approved build 6 frame (generated backdrop, headline, supporting text, bezel), clipped to the bezel's rounded screen.",
  "synthetic_content": "Teacup and yellow flowers (art/); no private family photos or people. Placed by integration_test/store_screens_test.dart through the app's own normalize-and-store import steps on both devices. originals/iphone/native-picker.png (fce00d7) and originals/ipad/native-picker.png (build 6) are earlier proofs that the same demo photos go through the real system picker.",
  "capture_tools": [
-  "Both devices: scripts/capture_store_screens.sh with integration_test/store_screens_test.dart (status bar cleared and set with simctl status_bar before capture)"
+  "Both devices: scripts/capture_store_screens.sh with integration_test/store_screens_test.dart (status bar cleared and set with simctl status_bar before capture)",
+  "Google Play: scripts/capture_play_screens.sh with the same integration_test/store_screens_test.dart on the Android emulator (status bar set with System UI demo mode), then scripts/compose_play_screens.py builds the 9:16 frames from the same backdrop, copy and Roboto type"
  ],
  "files": [
   {
@@ -33,78 +35,78 @@
   },
   {
    "path": "assets/screenshots/en-US/ipad/01.jpg",
-   "bytes": 378414,
-   "sha256": "87bf8ef841146b66fa1a3903a5b65afd0d7452be2ad2d2bd01993e0c8274f4f9"
+   "bytes": 378358,
+   "sha256": "0ff39d905909e62d0bac81630e3f8aafd032ecbb311c066288d8276be539589b"
   },
   {
    "path": "assets/screenshots/en-US/ipad/02.jpg",
-   "bytes": 607514,
-   "sha256": "ff71c99aebc443ee165ec65d8f074b8f25e8c3d0723c757d755548d204acf16c"
+   "bytes": 607740,
+   "sha256": "89ca53fdb2564f23215ccb1329b8ae9668331564ebff4282dd9a036d54f23e95"
   },
   {
    "path": "assets/screenshots/en-US/ipad/03.jpg",
-   "bytes": 379013,
-   "sha256": "b430a0dd171dd6232791d14696beba21cffa4b1720b18251ae70c565f15880e2"
+   "bytes": 378906,
+   "sha256": "f483b58331d5283c696879fed3af58ec12758dc0fef724983c1c9a91ff47411c"
   },
   {
    "path": "assets/screenshots/en-US/ipad/04.jpg",
-   "bytes": 505446,
-   "sha256": "9e85c928b6a0c73d830dd6d69e186ae4797c9d8e81b40b31d1e86c44e4020c5d"
+   "bytes": 505487,
+   "sha256": "18ffee6c79c3f5ef777528da015254ee3ddb24bc9ca7bf4786de36ed600fdbb4"
   },
   {
    "path": "assets/screenshots/en-US/ipad/05.jpg",
-   "bytes": 404849,
-   "sha256": "182151ef8a6cfa261846ba2c058d1ca6fd0cc2d7cd11b1446486d8fed8e7baa5"
+   "bytes": 404735,
+   "sha256": "a8af164e97e5cf553ee790bec3f64b6ac3c44db0828c6ec60491baeaf171d5a0"
   },
   {
    "path": "assets/screenshots/en-US/ipad/06.jpg",
-   "bytes": 580401,
-   "sha256": "283eb975a781ed642495eb5728f5206a3fa191f88489d6e25ef9f639fe236007"
+   "bytes": 580332,
+   "sha256": "edc7e8ca8abc1eda2ee522f7d31b21abd5c44d8ed3f70efdbcc25095005e6530"
   },
   {
    "path": "assets/screenshots/en-US/iphone/01.jpg",
-   "bytes": 327860,
-   "sha256": "119694452b004d27bff94d4cee0550fb6d5b2dffc235f2c55a476bfe36c1457a"
+   "bytes": 332077,
+   "sha256": "d8f3c24d95475020ae01c632033edbbfbd1ba18e81d044bb593b0abbcd32365a"
   },
   {
    "path": "assets/screenshots/en-US/iphone/02.jpg",
-   "bytes": 489212,
-   "sha256": "d6a1046f4e0cf85423f3461801aa3daa83b29af884d8191f7e5c382ffed8ccf5"
+   "bytes": 489525,
+   "sha256": "54a08fb827bb1450ac31542c72a7efcbaa09cb88f8b1308df61f736b33675253"
   },
   {
    "path": "assets/screenshots/en-US/iphone/03.jpg",
-   "bytes": 333342,
-   "sha256": "b730fed5c31a55683b202ea01635d4db44799da0e8928ceddc9af83b7a4da6fa"
+   "bytes": 337419,
+   "sha256": "447a6cc8083b2b240e07a2e69fe0549aa0952aa88cf3d34b755e6491d84c0ed4"
   },
   {
    "path": "assets/screenshots/en-US/iphone/04.jpg",
-   "bytes": 436785,
-   "sha256": "2434ea3cdfe359fc37085e62235fab825f6640d5bf48cb25d99330286f09de93"
+   "bytes": 436782,
+   "sha256": "cde086f54e3a9fb37bc8fe77bbf4e248dc278c64c7c7111e513764cae0246c25"
   },
   {
    "path": "assets/screenshots/en-US/iphone/05.jpg",
-   "bytes": 361825,
-   "sha256": "08980eed8fd774db82a448de841a3beaf60a6e42948838e95faf278973d84376"
+   "bytes": 363086,
+   "sha256": "d61d0f4eaba329703199fd5c6dc6e8a08719aa411c8252e7db805f0707e8aadc"
   },
   {
    "path": "assets/screenshots/en-US/iphone/06.jpg",
-   "bytes": 472454,
-   "sha256": "d68c102adb197a1558bccaa90abdaa934e4ef14e956b0b8de12891608c2d7da0"
+   "bytes": 472458,
+   "sha256": "746abec75e25e76131db24c63623af1170757b1d409b77c389a83eb0b3065040"
   },
   {
    "path": "assets/screenshots/en-US/originals/ipad/01.png",
-   "bytes": 187825,
-   "sha256": "6c9c02e7060bf9948dc3fba62e8089ccd4db5ab94cb8fd521be66ccc0e22aa95"
+   "bytes": 187821,
+   "sha256": "35d944fb994750323f0bcb2d7a01a230b83e95b548223be76193cad60b3c9d17"
   },
   {
    "path": "assets/screenshots/en-US/originals/ipad/02.png",
-   "bytes": 3102573,
-   "sha256": "df84c49798aa7f19a739f90d078dd67658f2a95633dee07d109ba184cdf10377"
+   "bytes": 3102950,
+   "sha256": "7385b2c3a2c0dde8078c7ce85cdc67e3ab3e02baea043bd8859b9fd724efc56a"
   },
   {
    "path": "assets/screenshots/en-US/originals/ipad/03.png",
-   "bytes": 195098,
-   "sha256": "f80bf2f56bfbd84923a7fc98736081afaac354de97b52c7ebc083f2e42ee6281"
+   "bytes": 195093,
+   "sha256": "6acbaa25b10eafbadc4d3fca0be4e8b0d1cb8c842a14769964840ece27c24951"
   },
   {
    "path": "assets/screenshots/en-US/originals/ipad/04.png",
@@ -113,8 +115,8 @@
   },
   {
    "path": "assets/screenshots/en-US/originals/ipad/05.png",
-   "bytes": 261695,
-   "sha256": "7448770d8d20b698db04ec44750f939a09b86ec9e86383995c4b4472342f7630"
+   "bytes": 261409,
+   "sha256": "5c84088a41d39d69b2efe68f15dda6b711d893b21803effe523faeb1448bbbb6"
   },
   {
    "path": "assets/screenshots/en-US/originals/ipad/06.png",
@@ -128,18 +130,18 @@
   },
   {
    "path": "assets/screenshots/en-US/originals/iphone/01.png",
-   "bytes": 166435,
-   "sha256": "6af00d4e8e28ac5d96516abb3d55e68d2dcc346116820b2b730f53b79b2bd2d6"
+   "bytes": 169535,
+   "sha256": "e1d2a75c963f1d80ca21d86998ff9a9cd9d39976baf27b80d74ad05c11cc85cf"
   },
   {
    "path": "assets/screenshots/en-US/originals/iphone/02.png",
-   "bytes": 2273583,
-   "sha256": "674404ac38ce7b605bf6fcd40c31e7345a7b47899eff10b294b8019411b1325e"
+   "bytes": 2272929,
+   "sha256": "58a71873b8386e3e2db7cec2ad1d7e53872e4c494abc80b7a92c331df976aabb"
   },
   {
    "path": "assets/screenshots/en-US/originals/iphone/03.png",
-   "bytes": 177809,
-   "sha256": "4ba5686323e4b9ee1526fe29ad217d2fa53b9ec425ca15c2923819761028ea8f"
+   "bytes": 180943,
+   "sha256": "b271d99524e37e907e444b60c45f0595cb14c867399be040a35d9307d5d8328b"
   },
   {
    "path": "assets/screenshots/en-US/originals/iphone/04.png",
@@ -148,8 +150,8 @@
   },
   {
    "path": "assets/screenshots/en-US/originals/iphone/05.png",
-   "bytes": 250615,
-   "sha256": "71f0366123c3c6a5cb53940b17cbd05df8d3f51b29f6df1ef8c8d54f0ab0464e"
+   "bytes": 252313,
+   "sha256": "774242d5a78375080a5a4acee36064b59a898a3554a42e0ab1284daf69b21fbd"
   },
   {
    "path": "assets/screenshots/en-US/originals/iphone/06.png",
@@ -160,6 +162,66 @@
    "path": "assets/screenshots/en-US/originals/iphone/native-picker.png",
    "bytes": 3833702,
    "sha256": "99d1b59269f6216ac66bd2258b5cbd4833a7a5aaa701de6de6d01597e62624b7"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/android/01.png",
+   "bytes": 82857,
+   "sha256": "d8b1f70a49c7a2eac1769c40d1a879228cb7fd75cb0522fe25e5ee17d70ab8c2"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/android/02.png",
+   "bytes": 1390921,
+   "sha256": "3a47dc92c5cce2773beaf7767d80348eeb614a242952eaa5898b508d5d1bd2c5"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/android/03.png",
+   "bytes": 91478,
+   "sha256": "201582c5052023fe50cbfc2bf503791ded38e697698b6310027a468cf0b49060"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/android/04.png",
+   "bytes": 1224909,
+   "sha256": "47c9cc2fff3fcd14860be52cfc1d271823c4e3ce39857db35493f51431725e73"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/android/05.png",
+   "bytes": 154520,
+   "sha256": "564fb74a696ffafdaf22d41f36a5de7179a5ef117bbe5e2bc28631aae45b3d57"
+  },
+  {
+   "path": "assets/screenshots/en-US/originals/android/06.png",
+   "bytes": 1028547,
+   "sha256": "33af5edea85d15b100b21af9aa515c87ca2f775eb6db0a9c389fe3008a10cdbe"
+  },
+  {
+   "path": "assets/screenshots/en-US/android/01.jpg",
+   "bytes": 399873,
+   "sha256": "2aa69bce5ef86d9c0a0df81c6205950c09eb3fe5b406422c3c4ef43a72cb172b"
+  },
+  {
+   "path": "assets/screenshots/en-US/android/02.jpg",
+   "bytes": 518491,
+   "sha256": "8fa550a92c8488f8dbff0b772dee272290df8b13e9076e537d864ab4438f82a6"
+  },
+  {
+   "path": "assets/screenshots/en-US/android/03.jpg",
+   "bytes": 402565,
+   "sha256": "ff8f5afd201326df82ad00b3ad5a9e71aa2fbdc45782dfe649dc19cf8d64a0ea"
+  },
+  {
+   "path": "assets/screenshots/en-US/android/04.jpg",
+   "bytes": 489791,
+   "sha256": "a65cd7e7d45ca6675890159b167f47642953ca0121e208ed2b8d4ce3b6b7116d"
+  },
+  {
+   "path": "assets/screenshots/en-US/android/05.jpg",
+   "bytes": 426390,
+   "sha256": "ed7c6c7520d8ea183eb1472546fa558c14405a84f45341c8e08cb15b5849cb60"
+  },
+  {
+   "path": "assets/screenshots/en-US/android/06.jpg",
+   "bytes": 493346,
+   "sha256": "7b229ee4fdf8a5cbaf67e915b863216e3985375fa4974ff571bf9d010e9da496"
   }
  ],
  "runtime_source_sha256": {
@@ -203,13 +265,13 @@
   "lib/features/gentle_activities/models/gentle_board.dart": "69707e8ac93a9aa135428d05f82efc8ac50eae48af215d994b17ae338f81ee5e",
   "lib/features/gentle_activities/models/puzzle_board.dart": "71c5a2b01196459b9e2cf70d90f360422d22253a64a0e001467e0e7f7f0f4696",
   "lib/features/gentle_activities/presentation/gentle_comfort_sheet.dart": "3a5b6c4ec7efbfbfae0339dbafda0cbaa4a06c110b2024e34e33ee145c27cd16",
-  "lib/features/gentle_activities/presentation/gentle_game_page.dart": "315a832c6fae5cf6ce7c75eabde7a186f3bbd2b2864b62ef271be21cf92f7ab9",
+  "lib/features/gentle_activities/presentation/gentle_game_page.dart": "f89e82458f84b33526067454b5c18ffcba933bec25d5eedc86b5c7887c3f044e",
   "lib/features/gentle_activities/presentation/gentle_home_page.dart": "cece20e9848228a98f5eb032dfb53a944ad7a74886e1700d03d9295ea669ae40",
   "lib/features/gentle_activities/presentation/help_privacy_page.dart": "baaa51b5e6d3f4ef237717e5c7e116003513357846380fa04b138da149bc9529",
-  "lib/features/gentle_activities/presentation/photo_collection_page.dart": "bdc6a53866e4619827fb8c3d40b78c284ddd3c49a81ee4a5f8820e810f171672",
+  "lib/features/gentle_activities/presentation/photo_collection_page.dart": "278d2ad8fbe79e72849a5db25bb174353615e5ad38ed92cf8949bb9390308c1d",
   "lib/features/gentle_activities/presentation/photo_together_page.dart": "ca5b4db723f282bd530ad6e50e53f3231341124e7df524b99fd925d55cea4740",
   "lib/features/gentle_activities/presentation/picture_puzzle_page.dart": "30a5fe168a04906b239f9ffbda41bf7f9343fd6f95239c6a3fbb28ab5a33e52f",
-  "lib/features/gentle_activities/presentation/picture_view.dart": "51de515d89bee8ac52ae5f2f7bdc03091f6d36480b0a44d8d7f87b2abd956832",
+  "lib/features/gentle_activities/presentation/picture_view.dart": "37e104e0c56a4573b918847251783f4df55ad2787d1de91c739f713390a6ce54",
   "lib/features/home/cubit/home_cubit.dart": "16dd6422f0ac9274405e80017ca0cc98628d622835072dd472f1140b657757c8",
   "lib/features/home/cubit/home_state.dart": "673a20ff5885c67c89b7e6dec883249d9549028d2618d4a7694ed21bd35eace1",
   "lib/features/home/data/interest_preferences.dart": "a760edcc6e19727d9abfe1b35bad6b7f4ffc73c1a940722fa96466344ef39eb8",

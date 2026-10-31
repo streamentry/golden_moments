@@ -1,0 +1,15 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Icon from '../components/Icon.astro';
+---
+<BaseLayout title="Page not found" description="This page could not be found. Try a gentle game or browse activity ideas." noindex>
+  <div class="container container--narrow section">
+    <h1>We could not find that page</h1>
+    <p class="lede">It may have moved. Here are good places to start instead.</p>
+    <div class="btn-row">
+      <a class="btn btn--primary btn--hero" href="/games/picture-pairs/"><Icon name="play" />Play a Game</a>
+      <a class="btn" href="/activities/">Activity ideas</a>
+      <a class="btn btn--quiet" href="/">Home</a>
+    </div>
+  </div>
+</BaseLayout>

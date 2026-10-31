@@ -25,17 +25,28 @@ import 'package:golden_moments/shared/widgets/pressable.dart';
 /// 1. COLOR TOKENS – “Golden Hour” (DESIGN.md › Colors)
 ///////////////////////////////////////////////////////////////////////////////
 // Surfaces & text neutrals
+const gmSurfRaised = Color(0xFFFFFDF7); // surface-raised: the print's white mat
 const gmSurf50 = Color(0xFFFDF9F0); // background: parchment page
 const gmSurf100 = Color(0xFFF5EDE0); // surface: linen tiles and cards
 const gmSurf200 = Color(0xFFEADFCB); // surface-sunken: hidden-tile backs
 const gmCharcoal900 = Color(0xFF222222); // on-surface: ink, primary text
 const gmWalnut600 = Color(0xFF5C5346); // on-surface-variant: secondary text
 const gmDriftwood500 = Color(0xFF7D7366); // outline: resting borders (≥3:1)
+const gmUmber900 = Color(0xFF3C2C0A); // shadow-ink: the tint of every shadow
 
-// Gold ramp. Only Antique Gold (800) may carry text or outlines; the bright
-// golds measure below 3:1 on parchment and stay decorative.
+// Text on ink (the website footer and inverse surfaces).
+const gmOnInk = Color(0xFFF3EAD9); // on-ink: reading text on ink
+const gmOnInkVariant = Color(0xFFD9CFBD); // on-ink-variant: fine print on ink
+const gmOnInkLink = Color(0xFFFFE9B0); // on-ink-link: links on ink
+
+// Gold ramp. Only Antique Gold (800) and Deep Antique (700) may carry text
+// or outlines; the bright golds measure below 3:1 on parchment and stay
+// decorative.
+const gmGold200 = Color(0xFFFFE9B0); // accent-pale: the pale edge of a glow
 const gmGold300 = Color(0xFFFFE08A); // primary-container: selection fills
+const gmGold400 = Color(0xFFF2C95C); // accent-deep: the warm centre of a glow
 const gmGold600 = Color(0xFFC99200); // accent: ornament only, never text
+const gmGold700 = Color(0xFF5F4300); // primary-deep: pressed and hovered fills
 const gmGold800 = Color(0xFF7A5600); // primary: actions (6.7:1 with white)
 
 // Status colors (always paired with an icon and a word)
@@ -43,6 +54,8 @@ const gmGreen600 = Color(0xFF256B29); // success: ready / downloaded
 const gmOrange600 = Color(0xFF8C4A00); // warning: needs attention
 
 // Functional accents
+const gmSapphire50 = Color(0xFFEEF5F8); // secondary-container: notice fills
+const gmSapphire100 = Color(0xFFC7DBE5); // secondary-outline: notice borders
 const gmSapphire500 = Color(0xFF16688C); // secondary: informational accents
 const Color gmEmerald500 = gmGreen600; // success
 const gmBrick500 = Color(0xFFB03127); // error: real failures only
@@ -50,11 +63,17 @@ const gmBrick500 = Color(0xFFB03127); // error: real failures only
 ///////////////////////////////////////////////////////////////////////////////
 /// 2. TYPOGRAPHY (DESIGN.md › Typography)
 ///////////////////////////////////////////////////////////////////////////////
-// Roboto is bundled (400/500/700) so text renders identically offline on
-// every platform; it still scales with the system text size. Every style
-// names the family so component styles never fall back to another font.
-// Nothing is smaller than 16.
+// Two bundled families, so text renders identically offline on every
+// platform and still scales with the system text size:
+//  • Roboto (400/500/700) for everything that is read: body, labels,
+//    buttons, chips and small titles.
+//  • Fraunces Bold (a static, Latin-subset instance of the variable font at
+//    opsz 48, SOFT 50, WONK 0) for headlines and large titles only: the
+//    warm, soft serif of a family album. Never below 24, never for body.
+// Every style names its family so component styles never fall back to
+// another font. Nothing is smaller than 16.
 const gmFontFamily = 'Roboto';
+const gmDisplayFontFamily = 'Fraunces';
 
 TextTheme _gmTextTheme(Color onSurface) {
   TextStyle style(double size, FontWeight weight, double height) => TextStyle(
@@ -65,15 +84,26 @@ TextTheme _gmTextTheme(Color onSurface) {
     color: onSurface,
     letterSpacing: 0,
   );
+  // Fraunces is wider and taller than Roboto: tracking stays at 0 so word
+  // shapes stay open for aging eyes; line heights follow the tokens.
+  TextStyle display(double size, double height) => TextStyle(
+    fontFamily: gmDisplayFontFamily,
+    fontFamilyFallback: const [gmFontFamily],
+    fontSize: size,
+    fontWeight: FontWeight.w700,
+    height: height,
+    color: onSurface,
+    letterSpacing: 0,
+  );
 
   return TextTheme(
-    displayLarge: style(32, FontWeight.w700, 1.2), // headline-display
-    displayMedium: style(32, FontWeight.w700, 1.2),
-    displaySmall: style(30, FontWeight.w700, 1.2),
-    headlineLarge: style(30, FontWeight.w700, 1.2), // headline-lg
-    headlineMedium: style(28, FontWeight.w700, 1.25), // headline-md
-    headlineSmall: style(24, FontWeight.w700, 1.3), // headline-sm
-    titleLarge: style(24, FontWeight.w700, 1.3), // title-lg
+    displayLarge: display(32, 1.2), // headline-display
+    displayMedium: display(32, 1.2),
+    displaySmall: display(30, 1.2),
+    headlineLarge: display(30, 1.2), // headline-lg
+    headlineMedium: display(28, 1.25), // headline-md
+    headlineSmall: display(24, 1.3), // headline-sm
+    titleLarge: display(24, 1.3), // title-lg
     titleMedium: style(20, FontWeight.w700, 1.35), // title-md
     titleSmall: style(18, FontWeight.w700, 1.35), // title-sm
     bodyLarge: style(20, FontWeight.w400, 1.4), // body-lg: default reading
@@ -88,7 +118,8 @@ TextTheme _gmTextTheme(Color onSurface) {
 ///////////////////////////////////////////////////////////////////////////////
 /// 3. SHAPES, SPACING, SIZES, ELEVATION (DESIGN.md › Layout, Shapes)
 ///////////////////////////////////////////////////////////////////////////////
-const double gmRadiusMd = 8; // chips, badges, snackbars
+const double gmRadiusSm = 4; // the picture inside a print mat
+const double gmRadiusMd = 8; // chips, badges, snackbars, the print mat
 const double gmRadiusLg = 16; // tiles, cards
 const double gmRadiusXl = 28; // sheets, dialogs
 
@@ -110,6 +141,7 @@ const double gmElevationModal = 8;
 
 const double gmBorderResting = 1;
 const double gmBorderSelected = 4;
+const double gmMatInset = 6; // the print-white border around a mounted picture
 
 ///////////////////////////////////////////////////////////////////////////////
 /// 4. THEME BUILDER  (light only: the app has no dark mode)
@@ -262,6 +294,7 @@ ThemeData gmBuildTheme() {
     cardTheme: CardThemeData(
       color: surface,
       surfaceTintColor: Colors.transparent,
+      shadowColor: gmUmber900,
       elevation: 0,
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(gmRadiusLg),
@@ -277,6 +310,8 @@ ThemeData gmBuildTheme() {
       ),
       backgroundColor: background,
       surfaceTintColor: Colors.transparent,
+      // Shadows are warm umber, never grey (DESIGN.md › Elevation).
+      shadowColor: gmUmber900,
       elevation: gmElevationModal,
       titleTextStyle: text.headlineSmall,
       contentTextStyle: text.bodyLarge,
@@ -287,6 +322,7 @@ ThemeData gmBuildTheme() {
     bottomSheetTheme: const BottomSheetThemeData(
       backgroundColor: background,
       surfaceTintColor: Colors.transparent,
+      shadowColor: gmUmber900,
       modalBackgroundColor: background,
       showDragHandle: true,
       shape: RoundedRectangleBorder(

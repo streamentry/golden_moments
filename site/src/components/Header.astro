@@ -1,0 +1,33 @@
+---
+import BrandMark from './BrandMark.astro';
+import { NAV } from '../lib/site';
+const path = Astro.url.pathname;
+---
+<header class="site-header">
+  <div class="container site-header__inner">
+    <a class="brand" href="/" aria-label="Golden Moments home">
+      <BrandMark class="brand__mark" />
+      <span class="brand__text">
+        <span class="brand__name">Golden Moments</span>
+        <span class="brand__tag">Dementia activities</span>
+      </span>
+    </a>
+    <nav class="site-nav" aria-label="Main">
+      <ul>
+        {
+          NAV.map((item) => (
+            <li>
+              <a
+                href={item.href}
+                aria-current={path === item.href ? 'page' : undefined}
+                data-active={path.startsWith(item.href) ? 'true' : undefined}
+              >
+                {item.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+  </div>
+</header>

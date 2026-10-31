@@ -1,0 +1,37 @@
+/*
+  # no-transform stops Cloudflare from injecting scripts (such as its Web
+  # Analytics beacon) or rewriting pages. The only analytics is Google
+  # Analytics 4, loaded by src/components/Analytics.astro.
+  Cache-Control: public, max-age=0, must-revalidate, no-transform
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
+  Cross-Origin-Opener-Policy: same-origin
+  # Works with the hash-based meta CSP Astro emits (browsers apply both):
+  # this header blocks any network destination except this site and the
+  # Google Analytics endpoints Google documents for GA4.
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://*.google-analytics.com https://*.googletagmanager.com; font-src 'self'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; media-src 'self'; manifest-src 'self'; worker-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests
+
+# Photo pairs shows family photos, so it loads no analytics and adds a second
+# policy (browsers enforce both) that allows no destination except this site.
+# Repeated headers are joined with a comma, which keeps both policies.
+/games/photo-pairs/
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; connect-src 'self'; form-action 'self'
+
+/_astro/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable, no-transform
+
+/fonts/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable, no-transform
+
+/pictures/*
+  ! Cache-Control
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400, no-transform
+
+/og/*
+  ! Cache-Control
+  Cache-Control: public, max-age=604800, no-transform

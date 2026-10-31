@@ -1,0 +1,172 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import AppCta from '../../components/AppCta.astro';
+import Faq from '../../components/Faq.astro';
+import { appFaqFor } from '../../lib/app';
+import GameCard from '../../components/GameCard.astro';
+import Icon from '../../components/Icon.astro';
+import { getEntry } from 'astro:content';
+import { GAMES, stageHint, type GameInfo } from '../../data/games';
+import { breadcrumbs, faqPage, game as gameSchema } from '../../lib/schema';
+import '../../styles/games.css';
+import PicturePairs from '../../games/PicturePairs';
+import FindTheSame from '../../games/FindTheSame';
+import ShadowMatch from '../../games/ShadowMatch';
+import SortTogether from '../../games/SortTogether';
+import PicturePuzzle from '../../games/PicturePuzzle';
+import FinishTheSaying from '../../games/FinishTheSaying';
+import WordSearch from '../../games/WordSearch';
+import Coloring from '../../games/Coloring';
+import ConversationCards from '../../games/ConversationCards';
+import PhotoPairs from '../../games/PhotoPairs';
+import PictureBingo from '../../games/PictureBingo';
+import CalmBreathing from '../../games/CalmBreathing';
+
+const NON_GAMES = new Set(['calm-breathing', 'conversation-cards']);
+
+export const getStaticPaths = (() => GAMES.map((g) => ({ params: { slug: g.slug }, props: { game: g } }))) satisfies GetStaticPaths;
+
+interface Props {
+  game: GameInfo;
+}
+const { game } = Astro.props;
+const path = `/games/${game.slug}/`;
+const crumbs = [
+  { href: '/games/', label: 'Games' },
+  { href: path, label: game.name },
+];
+const others = GAMES.filter((g) => g.slug !== game.slug && g.featured).slice(0, 3);
+const guides = (
+  await Promise.all(
+    game.relatedGuides.map(async (ref) => {
+      const entry = await getEntry('guides', ref);
+      return entry ? { href: `/${ref}/`, title: entry.data.title } : null;
+    }),
+  )
+).filter((g): g is { href: string; title: string } => g !== null);
+
+const ogImage = `/og/games/${game.slug}.png`;
+const faq = [...game.faq, appFaqFor(game.slug)];
+const jsonLd = [
+  gameSchema({ path, name: game.name, description: game.description, image: ogImage, isGame: !NON_GAMES.has(game.slug) }),
+  breadcrumbs(crumbs),
+  faqPage(faq),
+];
+const s = game.slug;
+
+---
+<BaseLayout title={game.seoTitle} description={game.description} image={ogImage} imageAlt={`${game.name}: large, friendly pictures`} jsonLd={jsonLd} analytics={s !== 'photo-pairs'}>
+  <Breadcrumbs items={crumbs} />
+  <div class="container">
+    <header class="page-head page-head--game">
+      <h1>{game.h1}</h1>
+      <p class="lede">{game.short}</p>
+    </header>
+
+    <div class="game-stage">
+      <noscript>
+        <p class="notice notice--warm">This game needs JavaScript turned on in your browser. The tips below work without it.</p>
+      </noscript>
+      {s === 'picture-pairs' && <PicturePairs client:load />}
+      {s === 'find-the-same' && <FindTheSame client:load />}
+      {s === 'shadow-match' && <ShadowMatch client:load />}
+      {s === 'sort-together' && <SortTogether client:load />}
+      {s === 'picture-puzzle' && <PicturePuzzle client:load />}
+      {s === 'finish-the-saying' && <FinishTheSaying client:load />}
+      {s === 'word-search' && <WordSearch client:load />}
+      {s === 'coloring' && <Coloring client:load />}
+      {s === 'conversation-cards' && <ConversationCards client:load />}
+      {s === 'photo-pairs' && <PhotoPairs client:load />}
+      {s === 'picture-bingo' && <PictureBingo client:load />}
+      {s === 'calm-breathing' && <CalmBreathing client:load />}
+    </div>
+
+    <div class="game-page-copy article-layout">
+      <div class="prose">
+        <h2 id="about-game">About {game.name.toLowerCase()}</h2>
+        <p>{game.intro}</p>
+        <ul class="tag-list" aria-label="About this game">
+          <li class="tag">{stageHint(game.stages)}</li>
+          <li class="tag">{game.players}</li>
+          <li class="tag">No timer or score</li>
+          {game.printable && <li class="tag"><Icon name="print" size={18} />Printable</li>}
+        </ul>
+        <h2 id="how-to-play">How to play {game.name.toLowerCase()}</h2>
+        <ol>
+          {game.howTo.map((step) => <li>{step}</li>)}
+        </ol>
+        <h2 id="tips">Tips for playing together</h2>
+        <ul>
+          {game.tips.map((tip) => <li>{tip}</li>)}
+        </ul>
+        <p>
+          New to playing with someone who has dementia? Read <a href="/caregiving/how-to-play-together/">how to play games together</a>,
+          including what to do if they lose interest.
+        </p>
+        <Faq items={faq} />
+      </div>
+      <aside class="article-aside" aria-label="More to explore">
+        {
+          guides.length > 0 && (
+            <div class="aside-box">
+              <h2>Helpful guides</h2>
+              <ul>
+                {guides.map((g) => (
+                  <li>
+                    <a href={g.href}>{g.title}</a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
+        <AppCta compact title={s === 'photo-pairs' ? 'Keep your photos ready' : 'Play it in the app'} text={
+          s === 'photo-pairs'
+            ? 'In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.'
+            : 'The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.'
+        } />
+        <div class="aside-box">
+          <h2>Good to know</h2>
+          <p class="small-print">
+            This game is for enjoyment and time together. It does not test, measure or treat anything.
+          </p>
+        </div>
+      </aside>
+    </div>
+
+    <AppCta />
+
+    <section class="section" aria-labelledby="more-games">
+      <h2 id="more-games">More gentle games</h2>
+      <ul class="card-grid">
+        {others.map((g) => <li><GameCard game={g} /></li>)}
+      </ul>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-head--game {
+    padding-bottom: var(--space-md);
+  }
+  .page-head--game h1 {
+    margin-bottom: var(--space-sm);
+  }
+  .game-stage {
+    padding: clamp(1rem, 0.5rem + 2vw, 2rem);
+    background: var(--gm-background);
+    border: 1px solid var(--gm-surface-sunken);
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-raised);
+    margin-bottom: var(--space-2xl);
+  }
+  @media (max-width: 599px) {
+    .game-stage {
+      padding: var(--space-md) 0;
+      border: 0;
+      box-shadow: none;
+    }
+  }
+</style>

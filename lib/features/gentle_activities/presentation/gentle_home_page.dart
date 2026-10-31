@@ -12,17 +12,24 @@ import 'package:golden_moments/features/gentle_activities/presentation/help_priv
 import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
 import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
+import 'package:golden_moments/features/reminders/presentation/reminder_page.dart';
+import 'package:golden_moments/shared/native/gm_native.dart';
+import 'package:golden_moments/shared/rating/review_request.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
 
 /// Local activities remain usable even when the optional pack service is down.
 class GentleHomePage extends StatefulWidget {
   const new({
     this.preferencesStore = const GentlePreferencesStore(),
+    this.native = const GmNative(),
     super.key,
   });
 
   /// Where comfort choices are saved; replaceable in tests.
   final GentlePreferencesStore preferencesStore;
+
+  /// Reminders are offered only where the platform supports them (iOS).
+  final GmNative native;
 
   @override
   State<GentleHomePage> createState() => _GentleHomePageState();
@@ -30,7 +37,13 @@ class GentleHomePage extends StatefulWidget {
 
 class _GentleHomePageState extends State<GentleHomePage> {
   void _open(Widget page) {
-    Navigator.of(context).push(MaterialPageRoute<void>(builder: (_) => page));
+    unawaited(
+      Navigator.of(context)
+          .push(MaterialPageRoute<void>(builder: (_) => page))
+          // Back on Home after a finished game is the one voluntary pause
+          // where the system rating prompt may appear (DESIGN.md › Ratings).
+          .then((_) => mounted ? askForReviewOnReturnHome() : null),
+    );
   }
 
   /// A helper (or the person) can set tile count and picture view before
@@ -210,6 +223,15 @@ class _GentleHomePageState extends State<GentleHomePage> {
           onPressed: () => unawaited(shareAndRemember()),
         ),
       ),
+      // Optional and off until a helper turns it on (GM-038).
+      if (widget.native.isSupported)
+        Center(
+          child: TextButton.icon(
+            onPressed: () => _open(ReminderPage(native: widget.native)),
+            icon: const Icon(Icons.notifications_none),
+            label: const Text('Gentle reminder'),
+          ),
+        ),
     ];
     return Scaffold(
       appBar: AppBar(
