@@ -1,4 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
+import type { PlayProps, PlayUi } from '../i18n/play';
+import { boldRuns, fill, plural } from '../i18n/play/format';
 import { GameFrame } from './shared/GameFrame';
 import { Icon } from './shared/Icon';
 import { PairsBoard } from './shared/PairsBoard';
@@ -6,10 +8,10 @@ import { PairsBoard } from './shared/PairsBoard';
 const MAX_PHOTOS = 6;
 const MAX_BYTES = 40 * 1024 * 1024;
 
-function pickNote(skipped: number, extra: number): string {
+function pickNote(ui: PlayUi, lang: string, skipped: number, extra: number): string {
   return [
-    extra > 0 ? `Using the first ${MAX_PHOTOS} photos.` : '',
-    skipped > 0 ? `${skipped} file${skipped === 1 ? ' was' : 's were'} not a photo we can show.` : '',
+    extra > 0 ? fill(ui.photoPairs.usingFirst, { max: MAX_PHOTOS }) : '',
+    skipped > 0 ? fill(plural(ui.photoPairs.skipped, skipped, lang), { count: skipped }) : '',
   ]
     .filter(Boolean)
     .join(' ');
@@ -20,7 +22,8 @@ function pickNote(skipped: number, extra: number): string {
  * uploaded or stored; the URLs are revoked when cleared or when the page closes.
  * The picker stays in one place so keyboard focus is never lost.
  */
-export default function PhotoPairs() {
+export default function PhotoPairs(props: PlayProps) {
+  const { ui, lang } = props;
   const [urls, setUrls] = useState<string[]>([]);
   const [round, setRound] = useState(0);
   const [message, setMessage] = useState('');
@@ -42,10 +45,10 @@ export default function PhotoPairs() {
     // Clear the input so choosing the same files again still fires a change.
     resetInput();
     if (picked.length < 2) {
-      setNote(['Please choose at least two photos.', pickNote(skipped, 0)].filter(Boolean).join(' '));
+      setNote([ui.photoPairs.atLeastTwo, pickNote(ui, lang, skipped, 0)].filter(Boolean).join(' '));
       return;
     }
-    setNote(pickNote(skipped, images.length - picked.length));
+    setNote(pickNote(ui, lang, skipped, images.length - picked.length));
     setUrls(picked.map((f) => URL.createObjectURL(f)));
     setMessage('');
     setDone(false);
@@ -54,7 +57,7 @@ export default function PhotoPairs() {
 
   const clear = () => {
     setUrls([]);
-    setMessage('Photos cleared from this page.');
+    setMessage(ui.photoPairs.cleared);
     setNote('');
     setDone(false);
     resetInput();
@@ -64,25 +67,26 @@ export default function PhotoPairs() {
   const hasPhotos = urls.length > 0;
   return (
     <GameFrame
-      guidance={hasPhotos ? 'Tap a photo, then tap the one that matches it.' : 'Start by choosing your photos.'}
+      ui={ui}
+      lang={lang}
+      guidance={hasPhotos ? ui.photoPairs.guidance : ui.photoPairs.guidanceEmpty}
       message={message}
       onRestart={hasPhotos ? () => { setDone(false); setMessage(''); setRound((r) => r + 1); } : undefined}
-      restartLabel="Mix them again"
+      restartLabel={ui.photoPairs.restart}
       options={
         <div className="photo-pick">
           <p className="m-0">
-            <strong>Choose 2 to 6 photos</strong> from this device. They are shown only on this page and are never
-            uploaded or saved.
+            {boldRuns(ui.photoPairs.intro).map((run, i) => (run.bold ? <strong key={i}>{run.text}</strong> : run.text))}
           </p>
           <label className="btn btn--primary">
             <Icon name="photo" />
-            {hasPhotos ? 'Choose different photos' : 'Choose photos'}
+            {hasPhotos ? ui.photoPairs.chooseDifferent : ui.photoPairs.choose}
             <input ref={input} type="file" accept="image/*" multiple onChange={(e) => choose(e.currentTarget.files)} />
           </label>
           {note ? <p role="status" className="m-0">{note}</p> : null}
           {hasPhotos ? (
             <button type="button" className="btn btn--quiet" onClick={clear}>
-              Clear photos
+              {ui.photoPairs.clear}
             </button>
           ) : null}
         </div>
@@ -91,16 +95,16 @@ export default function PhotoPairs() {
         done ? (
           <div className="game__done">
             <button type="button" className="btn btn--primary" onClick={() => { setDone(false); setMessage(''); setRound((r) => r + 1); }}>
-              Play again with these photos
+              {ui.photoPairs.playAgain}
             </button>
           </div>
         ) : null
       }
     >
       {hasPhotos ? (
-        <PairsBoard values={urls} photos hidden={false} round={round} onMessage={setMessage} onComplete={() => setDone(true)} />
+        <PairsBoard play={props} values={urls} photos hidden={false} round={round} onMessage={setMessage} onComplete={() => setDone(true)} />
       ) : (
-        <p className="muted">Your photos will appear here, each one twice.</p>
+        <p className="muted">{ui.photoPairs.empty}</p>
       )}
     </GameFrame>
   );

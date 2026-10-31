@@ -1,28 +1,23 @@
 import { useEffect, useState } from 'react';
 import { PICTURES, pictureUrl } from '../data/pictures';
+import type { PlayProps } from '../i18n/play';
+import { fill, plural } from '../i18n/play/format';
 import { createBingoCards, createCallOrder } from '../lib/games/bingo';
 import { createRng, randomSeed } from '../lib/games/random';
 import { ChoiceChips } from './shared/ChoiceChips';
 import { GameFrame } from './shared/GameFrame';
 import { Icon } from './shared/Icon';
-import { pictureName } from './shared/PictureTile';
+import { pictureNamer } from './shared/PictureTile';
 import { sounds } from './shared/sound';
 
 const POOL = PICTURES.map((p) => p.id);
 
-const SQUARES = [
-  { value: 9, label: '9 squares (3 by 3)' },
-  { value: 16, label: '16 squares (4 by 4)' },
-] as const;
+const SQUARES = [9, 16] as const;
+const PLAYERS = [4, 8, 12, 20] as const;
 
-const PLAYERS = [
-  { value: 4, label: '4 cards' },
-  { value: 8, label: '8 cards' },
-  { value: 12, label: '12 cards' },
-  { value: 20, label: '20 cards' },
-] as const;
-
-export default function PictureBingo() {
+export default function PictureBingo(props: PlayProps) {
+  const { ui, lang } = props;
+  const pictureName = pictureNamer(props);
   const [squares, setSquares] = useState<number>(9);
   const [players, setPlayers] = useState<number>(8);
   const [cards, setCards] = useState<string[][]>([]);
@@ -45,21 +40,30 @@ export default function PictureBingo() {
     setCalled((n) => n + 1);
   };
 
+  const squareChoices = SQUARES.map((n) => ({ value: n, label: fill(ui.pictureBingo.squares, { n, side: Math.sqrt(n) }) }));
+  const playerChoices = PLAYERS.map((n) => ({ value: n, label: fill(plural(ui.pictureBingo.cards, n, lang), { n }) }));
+
   return (
     <>
       <GameFrame
-        guidance="Print the cards first. Then show this caller on the biggest screen you have."
-        message={current ? `${pictureName(current)}. ${called} of ${calls.length} pictures called.` : 'Tap "Next picture" to call the first picture.'}
+        ui={ui}
+        lang={lang}
+        guidance={ui.pictureBingo.guidance}
+        message={
+          current
+            ? fill(plural(ui.pictureBingo.called, calls.length, lang), { name: pictureName(current), called, total: calls.length })
+            : ui.pictureBingo.start
+        }
         onRestart={newGame}
-        restartLabel="Start a new game"
+        restartLabel={ui.pictureBingo.restart}
         options={
           <>
-            <ChoiceChips legend="Squares on each card" choices={SQUARES} value={squares} onChange={setSquares} />
-            <ChoiceChips legend="How many cards to print" choices={PLAYERS} value={players} onChange={setPlayers} />
+            <ChoiceChips legend={ui.pictureBingo.squaresLegend} choices={squareChoices} value={squares} onChange={setSquares} />
+            <ChoiceChips legend={ui.pictureBingo.cardsLegend} choices={playerChoices} value={players} onChange={setPlayers} />
             <div className="btn-row">
               <button type="button" className="btn" onClick={() => window.print()}>
                 <Icon name="print" />
-                Print {players} bingo cards
+                {fill(plural(ui.pictureBingo.print, players, lang), { n: players })}
               </button>
             </div>
           </>
@@ -74,14 +78,14 @@ export default function PictureBingo() {
               <p className="caller__name">{pictureName(current)}</p>
             </>
           ) : (
-            <p className="caller__name">Ready when you are</p>
+            <p className="caller__name">{ui.pictureBingo.ready}</p>
           )}
           <button type="button" className="btn btn--primary btn--hero" onClick={next} aria-disabled={called >= calls.length}>
-            {called >= calls.length ? 'Every picture has been called' : 'Next picture'}
+            {called >= calls.length ? ui.pictureBingo.allCalled : ui.pictureBingo.next}
           </button>
           {called > 1 ? (
             <div>
-              <h2 className="caller__heading">Already called</h2>
+              <h2 className="caller__heading">{ui.pictureBingo.alreadyCalled}</h2>
               <ul className="called">
                 {calls.slice(0, called - 1).reverse().map((id) => (
                   <li key={id}>
@@ -96,7 +100,7 @@ export default function PictureBingo() {
       <section className="sheet" aria-hidden="true">
         {cards.map((card, i) => (
           <div className="sheet__page" key={i}>
-            <h2>Picture bingo · card {i + 1}</h2>
+            <h2>{fill(ui.pictureBingo.sheetTitle, { n: i + 1 })}</h2>
             <div className="sheet-bingo" data-cols={Math.sqrt(squares)}>
               {card.map((id) => (
                 <div key={id}>

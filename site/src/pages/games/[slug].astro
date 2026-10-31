@@ -23,6 +23,7 @@ import ConversationCards from '../../games/ConversationCards';
 import PhotoPairs from '../../games/PhotoPairs';
 import PictureBingo from '../../games/PictureBingo';
 import CalmBreathing from '../../games/CalmBreathing';
+import { playProps } from '../../i18n/play';
 
 const NON_GAMES = new Set(['calm-breathing', 'conversation-cards']);
 
@@ -55,6 +56,7 @@ const jsonLd = [
   faqPage(faq),
 ];
 const s = game.slug;
+const play = playProps('en', s);
 
 ---
 <BaseLayout title={game.seoTitle} description={game.description} image={ogImage} imageAlt={`${game.name}: large, friendly pictures`} jsonLd={jsonLd} analytics={s !== 'photo-pairs'}>
@@ -69,18 +71,18 @@ const s = game.slug;
       <noscript>
         <p class="notice notice--warm">This game needs JavaScript turned on in your browser. The tips below work without it.</p>
       </noscript>
-      {s === 'picture-pairs' && <PicturePairs client:load />}
-      {s === 'find-the-same' && <FindTheSame client:load />}
-      {s === 'shadow-match' && <ShadowMatch client:load />}
-      {s === 'sort-together' && <SortTogether client:load />}
-      {s === 'picture-puzzle' && <PicturePuzzle client:load />}
-      {s === 'finish-the-saying' && <FinishTheSaying client:load />}
-      {s === 'word-search' && <WordSearch client:load />}
-      {s === 'coloring' && <Coloring client:load />}
-      {s === 'conversation-cards' && <ConversationCards client:load />}
-      {s === 'photo-pairs' && <PhotoPairs client:load />}
-      {s === 'picture-bingo' && <PictureBingo client:load />}
-      {s === 'calm-breathing' && <CalmBreathing client:load />}
+      {s === 'picture-pairs' && <PicturePairs client:load {...play} />}
+      {s === 'find-the-same' && <FindTheSame client:load {...play} />}
+      {s === 'shadow-match' && <ShadowMatch client:load {...play} />}
+      {s === 'sort-together' && <SortTogether client:load {...play} />}
+      {s === 'picture-puzzle' && <PicturePuzzle client:load {...play} />}
+      {s === 'finish-the-saying' && <FinishTheSaying client:load {...play} />}
+      {s === 'word-search' && <WordSearch client:load {...play} />}
+      {s === 'coloring' && <Coloring client:load {...play} />}
+      {s === 'conversation-cards' && <ConversationCards client:load {...play} />}
+      {s === 'photo-pairs' && <PhotoPairs client:load {...play} />}
+      {s === 'picture-bingo' && <PictureBingo client:load {...play} />}
+      {s === 'calm-breathing' && <CalmBreathing client:load {...play} />}
     </div>
 
     <div class="game-page-copy article-layout">

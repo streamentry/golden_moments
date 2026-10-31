@@ -1,21 +1,21 @@
 import { useEffect, useState } from 'react';
 import { pictureShadowUrl } from '../data/pictures';
+import type { PlayProps } from '../i18n/play';
+import { fill } from '../i18n/play/format';
 import { createRng, randomSeed } from '../lib/games/random';
 import { createShadowRound, type ShadowRound } from '../lib/games/shadow';
 import { ChoiceChips } from './shared/ChoiceChips';
 import { GameFrame } from './shared/GameFrame';
-import { PictureTile, pictureName } from './shared/PictureTile';
+import { PictureTile, pictureNamer } from './shared/PictureTile';
 import { sounds } from './shared/sound';
 
-const COUNTS = [
-  { value: 2, label: '2 to choose from' },
-  { value: 3, label: '3 to choose from' },
-  { value: 4, label: '4 to choose from' },
-] as const;
+const COUNTS = [2, 3, 4] as const;
 
 const newRound = (count: number, previous?: string): ShadowRound => createShadowRound(count, createRng(randomSeed()), previous);
 
-export default function ShadowMatch() {
+export default function ShadowMatch(props: PlayProps) {
+  const { ui, lang } = props;
+  const pictureName = pictureNamer(props);
   const [count, setCount] = useState<number>(2);
   const [round, setRound] = useState<ShadowRound | null>(null);
   const [found, setFound] = useState(false);
@@ -38,6 +38,7 @@ export default function ShadowMatch() {
 
   if (!round) return null;
   const targetName = pictureName(round.target);
+  const counts = COUNTS.map((n) => ({ value: n, label: fill(ui.choose.count, { n }) }));
 
   const tap = (id: string) => {
     if (found) return;
@@ -45,22 +46,24 @@ export default function ShadowMatch() {
     if (id === round.target) {
       sounds.match();
       setFound(true);
-      setMessage(`Yes, the ${targetName.toLowerCase()} makes that shadow.`);
+      setMessage(fill(ui.shadowMatch.yes, { name: targetName }, lang));
     } else {
       sounds.tap();
-      setMessage(`That one is the ${pictureName(id).toLowerCase()}. Take your time.`);
+      setMessage(fill(ui.choose.thatOne, { name: pictureName(id) }, lang));
     }
   };
 
   return (
     <GameFrame
-      guidance="Look at the shadow at the top. Tap the picture that makes it."
+      ui={ui}
+      lang={lang}
+      guidance={ui.shadowMatch.guidance}
       message={message}
-      options={<ChoiceChips legend="How many pictures" choices={COUNTS} value={count} onChange={setCount} />}
+      options={<ChoiceChips legend={ui.choose.countLegend} choices={counts} value={count} onChange={setCount} />}
       footer={
         <div className="btn-row btn-row--center">
           <button type="button" className={found ? 'btn btn--primary btn--hero' : 'btn'} onClick={next}>
-            Next shadow
+            {ui.shadowMatch.next}
           </button>
         </div>
       }
@@ -69,7 +72,7 @@ export default function ShadowMatch() {
         <div className="target__print target__print--shadow">
           <img
             src={pictureShadowUrl(round.target)}
-            alt={found ? `The shadow of the ${targetName.toLowerCase()}` : 'A shadow to match'}
+            alt={found ? fill(ui.shadowMatch.foundAlt, { name: targetName }, lang) : ui.shadowMatch.shadowAlt}
             width={196}
             height={196}
           />
@@ -80,7 +83,9 @@ export default function ShadowMatch() {
         {round.options.map((id, i) => (
           <PictureTile
             key={`${round.target}-${id}`}
+            ui={ui}
             value={id}
+            name={pictureName(id)}
             position={i + 1}
             state={found && id === round.target ? 'matched' : tapped === id ? 'selected' : 'resting'}
             onTap={() => tap(id)}

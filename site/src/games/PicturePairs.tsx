@@ -1,23 +1,17 @@
 import { useMemo, useState } from 'react';
 import { PICTURES } from '../data/pictures';
+import type { PlayProps } from '../i18n/play';
+import { localePath } from '../i18n/locales';
+import { fill, plural } from '../i18n/play/format';
 import { createRng, randomSeed, sample } from '../lib/games/random';
 import { ChoiceChips } from './shared/ChoiceChips';
 import { GameFrame } from './shared/GameFrame';
 import { PairsBoard } from './shared/PairsBoard';
 
-const SIZES = [
-  { value: 4, label: '4 tiles' },
-  { value: 6, label: '6 tiles' },
-  { value: 8, label: '8 tiles' },
-  { value: 12, label: '12 tiles' },
-] as const;
+const SIZES = [4, 6, 8, 12] as const;
 
-const VIEW = [
-  { value: 'showing', label: 'Pictures showing' },
-  { value: 'hidden', label: 'Hidden pictures' },
-] as const;
-
-export default function PicturePairs() {
+export default function PicturePairs(props: PlayProps) {
+  const { ui, lang } = props;
   const [size, setSize] = useState<number>(4);
   const [view, setView] = useState<'showing' | 'hidden'>('showing');
   const [round, setRound] = useState(0);
@@ -36,16 +30,24 @@ export default function PicturePairs() {
     setRound((r) => r + 1);
   };
 
+  const sizes = SIZES.map((n) => ({ value: n, label: fill(plural(ui.picturePairs.size, n, lang), { n }) }));
+  const views = [
+    { value: 'showing', label: ui.picturePairs.viewShowing },
+    { value: 'hidden', label: ui.picturePairs.viewHidden },
+  ] as const;
+
   return (
     <GameFrame
-      guidance={view === 'showing' ? 'Tap a picture, then tap the one that matches it.' : 'Tap two tiles to turn them over. Look for two the same.'}
+      ui={ui}
+      lang={lang}
+      guidance={view === 'showing' ? ui.picturePairs.guidanceShowing : ui.picturePairs.guidanceHidden}
       message={message}
       onRestart={restart}
-      restartLabel="New pictures"
+      restartLabel={ui.picturePairs.restart}
       options={
         <>
-          <ChoiceChips legend="How many tiles" choices={SIZES} value={size} onChange={(v) => { setSize(v); setDone(false); }} />
-          <ChoiceChips legend="How to play" choices={VIEW} value={view} onChange={(v) => { setView(v); restart(); }} />
+          <ChoiceChips legend={ui.picturePairs.sizeLegend} choices={sizes} value={size} onChange={(v) => { setSize(v); setDone(false); }} />
+          <ChoiceChips legend={ui.picturePairs.viewLegend} choices={views} value={view} onChange={(v) => { setView(v); restart(); }} />
         </>
       }
       footer={
@@ -53,17 +55,17 @@ export default function PicturePairs() {
           <div className="game__done">
             <div className="btn-row">
               <button type="button" className="btn btn--primary" onClick={restart}>
-                Play again with new pictures
+                {ui.picturePairs.playAgain}
               </button>
-              <a className="btn" href="/games/conversation-cards/">
-                Talk about pictures together
+              <a className="btn" href={localePath(lang, '/games/conversation-cards/')}>
+                {ui.picturePairs.talk}
               </a>
             </div>
           </div>
         ) : null
       }
     >
-      <PairsBoard values={values} hidden={view === 'hidden'} round={round} onMessage={setMessage} onComplete={() => setDone(true)} />
+      <PairsBoard play={props} values={values} hidden={view === 'hidden'} round={round} onMessage={setMessage} onComplete={() => setDone(true)} />
     </GameFrame>
   );
 }
