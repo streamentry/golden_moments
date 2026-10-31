@@ -1,11 +1,14 @@
 ---
 import type { FaqItem } from '../lib/schema';
+import { ui } from '../i18n/ui';
 interface Props {
   items: readonly FaqItem[];
   title?: string;
   id?: string;
+  lang?: string;
 }
-const { items, title = 'Questions and answers', id = 'faq' } = Astro.props;
+const { items, id = 'faq', lang = 'en' } = Astro.props;
+const title = Astro.props.title ?? ui(lang).common.faqTitle;
 ---
 <section aria-labelledby={id}>
   <h2 id={id}>{title}</h2>

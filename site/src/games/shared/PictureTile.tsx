@@ -1,33 +1,37 @@
-import { pictureUrl, PICTURE_BY_ID } from '../../data/pictures';
+import { pictureUrl } from '../../data/pictures';
+import type { PlayProps, PlayUi } from '../../i18n/play';
+import { fill } from '../../i18n/play/format';
 import { Icon } from './Icon';
 
 export type TileState = 'resting' | 'selected' | 'matched' | 'hidden' | 'mismatch';
 
 interface PictureTileProps {
+  ui: PlayUi;
   /** A picture id from the library, or a photo object URL when `photo` is set. */
   value: string;
   photo?: boolean;
-  label?: string;
+  /** The spoken name of the picture or photo. */
+  name: string;
   position: number;
   state: TileState;
   onTap: () => void;
 }
 
-export function pictureName(id: string): string {
-  return PICTURE_BY_ID.get(id)?.name ?? 'Picture';
+/** A picture's name in the page language, for any id in the library. */
+export function pictureNamer({ pictureNames, ui }: Pick<PlayProps, 'pictureNames' | 'ui'>): (id: string) => string {
+  return (id) => pictureNames[id] ?? ui.tile.picture;
 }
 
-export function PictureTile({ value, photo = false, label, position, state, onTap }: PictureTileProps) {
-  const name = label ?? (photo ? `Photo` : pictureName(value));
+export function PictureTile({ ui, value, photo = false, name, position, state, onTap }: PictureTileProps) {
   const hidden = state === 'hidden';
-  const spoken = hidden ? `Hidden picture, tile ${position}` : `${name}, tile ${position}`;
-  const stateWord = state === 'matched' ? 'Matched' : state === 'selected' ? 'Selected' : undefined;
+  const spoken = fill(hidden ? ui.tile.hidden : ui.tile.named, { name, n: position });
+  const stateWord = state === 'matched' ? ui.tile.matched : state === 'selected' ? ui.tile.selected : undefined;
   return (
     <button
       type="button"
       className={`tile tile--${state}`}
       onClick={onTap}
-      aria-label={stateWord ? `${spoken}, ${stateWord}` : spoken}
+      aria-label={stateWord ? fill(ui.tile.withState, { label: spoken, state: stateWord }) : spoken}
       aria-pressed={state === 'selected' ? true : undefined}
       aria-disabled={state === 'matched' ? true : undefined}
     >

@@ -247,7 +247,7 @@
 }
 .breadcrumbs li:not(:last-child)::after {
   content: '/';
-  margin-left: var(--space-sm);
+  margin-inline-start: var(--space-sm);
   color: var(--gm-outline);
 }
 .breadcrumbs a {
@@ -387,8 +387,9 @@
   padding: var(--space-md) var(--space-lg);
   border-radius: var(--radius-lg);
   border: 1px solid var(--gm-outline);
-  border-left: 6px solid var(--gm-secondary);
-  border-color: var(--gm-secondary-outline) var(--gm-secondary-outline) var(--gm-secondary-outline) var(--gm-secondary);
+  border-inline-start: 6px solid var(--gm-secondary);
+  border-color: var(--gm-secondary-outline);
+  border-inline-start-color: var(--gm-secondary);
   background: var(--gm-secondary-container);
   font-size: var(--text-md);
   margin-block: var(--space-lg);
@@ -422,7 +423,7 @@
 .answer {
   position: relative;
   padding: var(--space-lg);
-  padding-left: calc(var(--space-lg) + 8px);
+  padding-inline-start: calc(var(--space-lg) + 8px);
   background: var(--gm-surface-raised);
   border: 1px solid var(--gm-surface-sunken);
   border-radius: var(--radius-lg);
@@ -432,11 +433,12 @@
 .answer::before {
   content: '';
   position: absolute;
-  left: 0;
+  inset-inline-start: 0;
   top: 18px;
   bottom: 18px;
   width: 6px;
-  border-radius: 0 6px 6px 0;
+  border-start-end-radius: 6px;
+  border-end-end-radius: 6px;
   background: var(--gm-accent);
 }
 .answer__label {
@@ -452,7 +454,7 @@
 }
 .answer ul {
   margin: 0;
-  padding-left: 1.25em;
+  padding-inline-start: 1.25em;
 }
 .answer li {
   margin-bottom: var(--space-xs);
@@ -479,7 +481,7 @@
 }
 .prose ul,
 .prose ol {
-  padding-left: 1.4em;
+  padding-inline-start: 1.4em;
 }
 .prose table {
   width: 100%;
@@ -490,7 +492,7 @@
 }
 .prose th,
 .prose td {
-  text-align: left;
+  text-align: start;
   vertical-align: top;
   padding: 12px 14px;
   border-bottom: 1px solid var(--gm-surface-sunken);
@@ -500,8 +502,8 @@
   border-bottom: 2px solid var(--gm-outline);
 }
 .prose blockquote {
-  border-left: 4px solid var(--gm-accent);
-  padding-left: var(--space-lg);
+  border-inline-start: 4px solid var(--gm-accent);
+  padding-inline-start: var(--space-lg);
   color: var(--gm-on-surface-variant);
 }
 
@@ -522,7 +524,7 @@
 }
 .toc ol {
   margin: var(--space-sm) 0 0;
-  padding-left: 1.4em;
+  padding-inline-start: 1.4em;
   font-size: var(--text-md);
 }
 .toc li {
@@ -576,7 +578,7 @@
   font-size: var(--text-md);
 }
 .sources ol {
-  padding-left: 1.4em;
+  padding-inline-start: 1.4em;
 }
 .sources li {
   margin-bottom: var(--space-sm);

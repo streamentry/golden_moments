@@ -1,18 +1,19 @@
 ---
 import Icon from './Icon.astro';
 import { SITE } from '../lib/site';
+import { localePath } from '../i18n/locales';
+import { ui } from '../i18n/ui';
 
 interface Props {
   title?: string;
   text?: string;
   /** A small box for article and game sidebars instead of a full band. */
   compact?: boolean;
+  lang?: string;
 }
-const {
-  title = 'Take these games with you',
-  text = 'The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.',
-  compact = false,
-} = Astro.props;
+const { compact = false, lang = 'en' } = Astro.props;
+const t = ui(lang).appCta;
+const { title = t.title, text = t.text } = Astro.props;
 ---
 {
   compact ? (
@@ -20,20 +21,20 @@ const {
       <h2>{title}</h2>
       <p class="small-print">{text}</p>
       <div class="app-cta-links">
-        <a class="btn btn--primary" href={SITE.appStoreUrl} rel="noopener"><Icon name="phone" />App Store</a>
-        <a class="btn" href={SITE.playStoreUrl} rel="noopener"><Icon name="phone" />Google Play</a>
+        <a class="btn btn--primary" href={SITE.appStoreUrl} rel="noopener"><Icon name="phone" />{t.appStoreShort}</a>
+        <a class="btn" href={SITE.playStoreUrl} rel="noopener"><Icon name="phone" />{t.googlePlayShort}</a>
       </div>
-      <a class="small-print" href="/app/">About the app</a>
+      <a class="small-print" href={localePath(lang, '/app/')}>{t.about}</a>
     </div>
   ) : (
-    <section class="cta-band cta-band--app" aria-label="Get the app">
+    <section class="cta-band cta-band--app" aria-label={t.aria}>
       <div>
         <h2>{title}</h2>
         <p>{text}</p>
       </div>
       <div class="btn-row">
-        <a class="btn btn--primary btn--hero" href={SITE.appStoreUrl} rel="noopener"><Icon name="phone" />Get it on the App Store</a>
-        <a class="btn" href={SITE.playStoreUrl} rel="noopener"><Icon name="phone" />Get it on Google Play</a>
+        <a class="btn btn--primary btn--hero" href={SITE.appStoreUrl} rel="noopener"><Icon name="phone" />{t.appStore}</a>
+        <a class="btn" href={SITE.playStoreUrl} rel="noopener"><Icon name="phone" />{t.googlePlay}</a>
       </div>
     </section>
   )

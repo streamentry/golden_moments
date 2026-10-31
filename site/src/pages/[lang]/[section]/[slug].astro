@@ -1,0 +1,19 @@
+---
+import type { GetStaticPaths } from 'astro';
+import GuideView from '../../../views/GuideView.astro';
+import { allGuides, type LocalGuide } from '../../../i18n/guides';
+import { localeInfo } from '../../../i18n/locales';
+
+export const getStaticPaths = (async () => {
+  const guides = (await allGuides()).filter((g) => g.lang !== 'en');
+  return guides.map((guide) => {
+    const [section, slug] = guide.id.split('/');
+    return { params: { lang: localeInfo(guide.lang).prefix, section, slug }, props: { guide } };
+  });
+}) satisfies GetStaticPaths;
+
+interface Props {
+  guide: LocalGuide;
+}
+---
+<GuideView guide={Astro.props.guide} />

@@ -1,0 +1,163 @@
+---
+import { render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import Faq from '../components/Faq.astro';
+import HealthNotice from '../components/HealthNotice.astro';
+import AppCta from '../components/AppCta.astro';
+import PlayCta from '../components/PlayCta.astro';
+import { GAME_BY_SLUG } from '../data/games';
+import { pictureUrl } from '../data/pictures';
+import { article, breadcrumbs, faqPage } from '../lib/schema';
+import { localeInfo, localePath } from '../i18n/locales';
+import { localizeGame } from '../i18n/games';
+import { findGuide, guideLanguages, type LocalGuide } from '../i18n/guides';
+import { fill, ui } from '../i18n/ui';
+
+interface Props {
+  guide: LocalGuide;
+}
+const { guide } = Astro.props;
+const { lang, id, entry } = guide;
+const d = entry.data;
+const t = ui(lang);
+const g = t.guide;
+const l = (path: string) => localePath(lang, path);
+const { Content, headings } = await render(entry);
+const section = t.sections[d.section];
+const path = l(`/${id}/`);
+const crumbs = [
+  { href: l(`/${d.section}/`), label: section.label },
+  { href: path, label: d.title },
+];
+// Word-based reading time does not fit languages written without spaces.
+const text = entry.body ?? '';
+const spaced = text.split(/\s+/).filter(Boolean).length;
+const words = spaced > text.length / 12 ? spaced : Math.round(text.length / 2.5);
+const minutes = Math.max(2, Math.round(words / 220));
+const toc = headings.filter((h) => h.depth === 2);
+const updated = d.updated.toLocaleDateString(localeInfo(lang).bcp47, { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
+
+const relatedGames = d.relatedGames
+  .map((s) => GAME_BY_SLUG.get(s))
+  .filter((game) => game !== undefined)
+  .map((game) => localizeGame(game, lang));
+const related = (
+  await Promise.all(
+    d.related.map(async (ref) => {
+      const local = (await findGuide(lang, ref)) ?? (await findGuide('en', ref));
+      return local ? { href: localePath(local.lang, `/${ref}/`), title: local.entry.data.title } : null;
+    }),
+  )
+).filter((r): r is { href: string; title: string } => r !== null);
+
+const ogImage = `/og/${d.section}.png`;
+const jsonLd = [
+  article({
+    path,
+    title: d.title,
+    description: d.description,
+    updated: d.updated,
+    published: d.published,
+    image: ogImage,
+    section: section.label,
+    citations: d.sources.map((s) => ({ title: s.title, url: s.url })),
+    health: d.health,
+    lang: localeInfo(lang).bcp47,
+  }),
+  breadcrumbs(crumbs, lang),
+  faqPage(d.faq),
+];
+const available = await guideLanguages(id);
+---
+<BaseLayout title={d.seoTitle ?? d.title} description={d.description} type="article" image={ogImage} jsonLd={jsonLd} available={available}>
+  <Breadcrumbs items={crumbs} lang={lang} />
+  <div class="container">
+    <header class="page-head">
+      <p class="eyebrow">{section.label}</p>
+      <h1>{d.title}</h1>
+      <p class="meta-line">
+        <span>{g.updated} <time datetime={d.updated.toISOString().slice(0, 10)}>{updated}</time></span>
+        <span>{fill(g.minuteRead, { n: minutes })}</span>
+        <span>{g.byTeam} · <a href={l('/editorial-policy/')}>{g.howWeWrite}</a></span>
+      </p>
+    </header>
+
+    <div class="article-layout">
+      <article class="prose">
+        {d.health && <HealthNotice lang={lang} />}
+        <section class="answer" aria-labelledby="short-answer">
+          <p class="answer__label" id="short-answer">{g.shortAnswer}</p>
+          <p>{d.summary}</p>
+          <ul>
+            {d.keyPoints.map((k) => <li>{k}</li>)}
+          </ul>
+        </section>
+        {
+          toc.length > 2 && (
+            <details class="toc">
+              <summary>{fill(g.onThisPage, { n: toc.length })}</summary>
+              <ol>
+                {toc.map((h) => (
+                  <li>
+                    <a href={`#${h.slug}`}>{h.text}</a>
+                  </li>
+                ))}
+              </ol>
+            </details>
+          )
+        }
+        <Content />
+        <Faq items={d.faq} title={g.commonQuestions} lang={lang} />
+        <section class="sources" aria-labelledby="sources">
+          <h2 id="sources">{g.sources}</h2>
+          <p class="muted">{g.sourcesNote}</p>
+          <ol>
+            {
+              d.sources.map((s) => (
+                <li>
+                  <a href={s.url} rel="noopener">{s.title}</a> <span class="publisher">· {s.publisher}</span>
+                </li>
+              ))
+            }
+          </ol>
+        </section>
+      </article>
+      <aside class="article-aside" aria-label={g.related}>
+        {
+          relatedGames.length > 0 && (
+            <div class="aside-box">
+              <h2>{g.tryTogether}</h2>
+              <ul>
+                {relatedGames.map((game) => (
+                  <li>
+                    <a href={l(`/games/${game.slug}/`)}>
+                      <img src={pictureUrl(game.cardPictures[0] ?? 'teacup')} alt="" width="44" height="44" loading="lazy" />
+                      {game.name}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
+        {
+          related.length > 0 && (
+            <div class="aside-box">
+              <h2>{g.relatedGuides}</h2>
+              <ul>
+                {related.map((r) => (
+                  <li>
+                    <a href={r.href}>{r.title}</a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
+      </aside>
+    </div>
+    <PlayCta lang={lang} />
+    <AppCta lang={lang} />
+  </div>
+</BaseLayout>

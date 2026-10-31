@@ -1,0 +1,409 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import GameCard from '../components/GameCard.astro';
+import GuideCard from '../components/GuideCard.astro';
+import Faq from '../components/Faq.astro';
+import Icon from '../components/Icon.astro';
+import type { IconName } from '../lib/icons';
+import PlayCta from '../components/PlayCta.astro';
+import { pictureUrl } from '../data/pictures';
+import { SITE } from '../lib/site';
+import { faqPage, organization, website } from '../lib/schema';
+import { localePath, localizeHtml } from '../i18n/locales';
+import { localizedGames } from '../i18n/games';
+import { PUBLISHED, fill, ui } from '../i18n/ui';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const t = ui(lang);
+const h = t.home;
+const l = (path: string) => localePath(lang, path);
+const games = localizedGames(lang);
+const featured = games.filter((g) => g.featured).slice(0, 6);
+const jsonLd = [website(), organization(), faqPage(h.faq)];
+const collage = ['teacup', 'sunflower', 'dog', 'sailboat'];
+---
+<BaseLayout title={h.title} rawTitle description={h.description} jsonLd={jsonLd} available={PUBLISHED.map((p) => p.code)}>
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="container hero__grid">
+      <div class="hero__copy">
+        <p class="eyebrow">{h.eyebrow}</p>
+        <h1 id="hero-title">{h.h1}</h1>
+        <p class="lede">{h.lede}</p>
+        <div class="btn-row">
+          <a class="btn btn--primary btn--hero" href={l('/games/picture-pairs/')}><Icon name="play" />{h.playGame}</a>
+          <a class="btn btn--hero" href={l('/activities/ideas/')}>{h.findIdeas}</a>
+        </div>
+        <ul class="hero__facts">
+          {h.facts.map((fact) => <li><Icon name="check" />{fact}</li>)}
+        </ul>
+      </div>
+      <div class="hero__album" aria-hidden="true">
+        {
+          collage.map((id, i) => (
+            <figure class={`print print--${i + 1}`}>
+              <img src={pictureUrl(id)} alt="" width="220" height="220" fetchpriority={i === 0 ? 'high' : 'auto'} />
+            </figure>
+          ))
+        }
+        <p class="hero__note">{h.albumNote}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="games-title">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">{h.gamesEyebrow}</p>
+          <h2 id="games-title">{h.gamesTitle}</h2>
+          <p class="lede">{h.gamesLede}</p>
+        </div>
+        <a class="btn" href={l('/games/')}>{fill(h.seeAllGames, { count: games.length })} <Icon name="arrow" /></a>
+      </div>
+      <ul class="card-grid">
+        {featured.map((g) => <li><GameCard game={g} lang={lang} /></li>)}
+      </ul>
+    </div>
+  </section>
+
+  <section class="section section--linen" aria-labelledby="how-title">
+    <div class="container">
+      <h2 id="how-title">{h.howTitle}</h2>
+      <ol class="steps">
+        {
+          h.steps.map((step, i) => (
+            <li>
+              <span class="steps__n">{i + 1}</span>
+              <h3>{step.title}</h3>
+              <p>{step.text}</p>
+            </li>
+          ))
+        }
+      </ol>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="stage-title">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">{h.stageEyebrow}</p>
+          <h2 id="stage-title">{h.stageTitle}</h2>
+          <p class="lede">{h.stageLede}</p>
+        </div>
+        <a class="btn" href={l('/activities/ideas/')}>{h.ideas101} <Icon name="arrow" /></a>
+      </div>
+      <ul class="stage-grid">
+        {
+          h.stages.map((s) => (
+            <li>
+              <GuideCard href={l(s.href)} title={s.title} text={s.text} label={s.label} lang={lang} />
+            </li>
+          ))
+        }
+      </ul>
+      <p class="lede" set:html={localizeHtml(lang, h.specificHtml)} />
+    </div>
+  </section>
+
+  <section class="section section--linen" aria-labelledby="approach-title">
+    <div class="container approach">
+      <div>
+        <p class="eyebrow">{h.approachEyebrow}</p>
+        <h2 id="approach-title">{h.approachTitle}</h2>
+        <p class="lede">{h.approachLede}</p>
+        <a class="btn" href={l('/about/')}>{h.approachLink}</a>
+      </div>
+      <ul class="principles">
+        {
+          h.principles.map((p) => (
+            <li>
+              <Icon name={p.icon as IconName} />
+              <div>
+                <h3>{p.title}</h3>
+                <p>{p.text}</p>
+              </div>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="guides-title">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">{h.guidesEyebrow}</p>
+          <h2 id="guides-title">{h.guidesTitle}</h2>
+        </div>
+        <a class="btn" href={l('/caregiving/')}>{h.allCaregiving} <Icon name="arrow" /></a>
+      </div>
+      <ul class="card-grid">
+        {h.guides.map((g) => <li><GuideCard href={l(g.href)} title={g.title} text={g.text} lang={lang} /></li>)}
+      </ul>
+      <aside class="research-band">
+        <div>
+          <h2>{h.researchTitle}</h2>
+          <p>{h.researchText}</p>
+        </div>
+        <a class="btn" href={l('/brain-health/')}>{h.researchLink}</a>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section section--linen" aria-labelledby="app-title">
+    <div class="container app-band">
+      <div>
+        <p class="eyebrow">{h.appEyebrow}</p>
+        <h2 id="app-title">{h.appTitle}</h2>
+        <p>{h.appText}</p>
+        <div class="btn-row">
+          <a class="btn" href={SITE.appStoreUrl} rel="noopener"><Icon name="phone" />{t.appCta.appStoreShort}</a>
+          <a class="btn" href={SITE.playStoreUrl} rel="noopener"><Icon name="phone" />{t.appCta.googlePlayShort}</a>
+          <a class="btn btn--quiet" href={l('/app/')}>{h.aboutApp}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container container--narrow">
+      <Faq items={h.faq} lang={lang} />
+    </div>
+  </section>
+
+  <div class="container"><PlayCta lang={lang} /></div>
+</BaseLayout>
+
+<style>
+  .hero {
+    position: relative;
+    overflow: hidden;
+    /* The one golden-hour glow on the page, over an opaque parchment base. */
+    background:
+      radial-gradient(1200px 500px at 85% 10%, var(--gm-glow), transparent 60%),
+      radial-gradient(900px 400px at 0% 100%, rgb(234 223 203 / 70%), transparent 60%),
+      var(--gm-background);
+    border-bottom: 1px solid var(--gm-surface-sunken);
+  }
+  .hero__grid {
+    display: grid;
+    gap: var(--space-2xl);
+    align-items: center;
+    padding-block: clamp(2.5rem, 1.5rem + 4vw, 5.5rem);
+  }
+  @media (min-width: 900px) {
+    .hero__grid {
+      grid-template-columns: 1.15fr 1fr;
+    }
+  }
+  .hero h1 {
+    font-size: var(--text-hero);
+    line-height: var(--leading-hero);
+    letter-spacing: var(--tracking-hero);
+    margin-bottom: var(--space-lg);
+  }
+  .hero .lede {
+    margin-bottom: var(--space-xl);
+    color: var(--gm-on-surface);
+  }
+  .hero__facts {
+    list-style: none;
+    padding: 0;
+    margin: var(--space-xl) 0 0;
+    display: grid;
+    gap: var(--space-sm);
+    font-size: var(--text-md);
+  }
+  .hero__facts li {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+  }
+  .hero__facts :global(svg) {
+    color: var(--gm-success);
+    flex: none;
+  }
+  .hero__album {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-lg);
+    max-width: 460px;
+    margin-inline: auto;
+    padding: var(--space-lg);
+  }
+  .print {
+    margin: 0;
+    padding: 12px 12px 30px;
+    background: var(--gm-surface-raised);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-print);
+    position: relative;
+  }
+  .print img {
+    border-radius: var(--radius-sm);
+    width: 100%;
+  }
+  .print::before {
+    content: '';
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    width: 64px;
+    height: 22px;
+    transform: translateX(-50%) rotate(-3deg);
+    background: var(--gm-accent-pale);
+    border: 1px solid rgb(201 146 0 / 25%); /* a hint of Honey at the tape's edge */
+    opacity: 0.85;
+  }
+  .print--1 {
+    transform: rotate(-4deg);
+  }
+  .print--2 {
+    transform: rotate(3deg) translateY(18px);
+  }
+  .print--3 {
+    transform: rotate(2deg) translateY(-6px);
+  }
+  .print--4 {
+    transform: rotate(-3deg) translateY(12px);
+  }
+  .hero__note {
+    position: absolute;
+    left: 50%;
+    bottom: -8px;
+    transform: translateX(-50%) rotate(-1deg);
+    margin: 0;
+    padding: 10px 18px;
+    background: var(--gm-on-surface);
+    color: var(--gm-background);
+    border-radius: var(--radius-md);
+    font-size: var(--text-md);
+    font-weight: 700;
+    width: max-content;
+    max-width: 92%;
+    text-align: center;
+    box-shadow: var(--shadow-raised);
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .print {
+      transition: transform var(--duration-normal) var(--ease-out);
+    }
+    .hero__album:hover .print--1 {
+      transform: rotate(-6deg) translateY(-4px);
+    }
+    .hero__album:hover .print--2 {
+      transform: rotate(5deg) translateY(10px);
+    }
+  }
+  .section-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+    justify-content: space-between;
+    gap: var(--space-lg);
+    margin-bottom: var(--space-xl);
+  }
+  .section-head h2 {
+    margin-bottom: var(--space-sm);
+  }
+  .section-head .lede {
+    margin: 0;
+  }
+  .steps {
+    list-style: none;
+    padding: 0;
+    margin: var(--space-xl) 0 0;
+    display: grid;
+    gap: var(--space-xl);
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
+    counter-reset: none;
+  }
+  .steps li {
+    border-top: 3px solid var(--gm-on-surface);
+    padding-top: var(--space-lg);
+  }
+  /* Big numerals: Fraunces at hero size in Antique Gold over an ink rule. */
+  .steps__n {
+    display: block;
+    font-family: var(--font-display);
+    font-size: var(--text-hero);
+    font-weight: 700;
+    line-height: 1;
+    color: var(--gm-primary);
+    margin-bottom: var(--space-md);
+  }
+  .steps p {
+    color: var(--gm-on-surface-variant);
+    margin: 0;
+  }
+  .approach {
+    display: grid;
+    gap: var(--space-2xl);
+  }
+  @media (min-width: 900px) {
+    .approach {
+      grid-template-columns: 1fr 1.2fr;
+      align-items: start;
+    }
+  }
+  .principles {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: var(--space-md);
+  }
+  .principles li {
+    display: flex;
+    gap: var(--space-md);
+    padding: var(--space-lg);
+    background: var(--gm-background);
+    border: 1px solid var(--gm-outline);
+    border-radius: var(--radius-lg);
+  }
+  .principles :global(svg) {
+    flex: none;
+    width: 32px;
+    height: 32px;
+    color: var(--gm-primary);
+  }
+  .principles h3 {
+    font-size: var(--text-title-md);
+    margin-bottom: var(--space-xs);
+  }
+  .principles p {
+    margin: 0;
+    color: var(--gm-on-surface-variant);
+    font-size: var(--text-md);
+  }
+  .research-band {
+    margin-top: var(--space-2xl);
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-lg);
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--space-xl);
+    border-radius: var(--radius-xl);
+    background: var(--gm-secondary-container);
+    border: 1px solid var(--gm-secondary-outline);
+    border-left: 8px solid var(--gm-secondary);
+  }
+  .research-band h2 {
+    font-size: var(--text-title-lg);
+    margin-bottom: var(--space-sm);
+  }
+  .research-band p {
+    margin: 0;
+    max-width: 44em;
+  }
+  .app-band {
+    max-width: calc(var(--content-max) + 2 * var(--gutter));
+  }
+</style>

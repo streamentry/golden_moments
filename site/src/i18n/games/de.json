@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Bilderpaare",
+    "seoTitle": "Bilderpaare finden: Sanftes Spiel bei Demenz",
+    "h1": "Bilderpaare: ein sanftes Zuordnungsspiel",
+    "description": "Ein kostenloses, sanftes Zuordnungsspiel für Menschen mit Demenz: große Bilder, die sichtbar bleiben, keine Uhr, keine Punkte und 4 bis 12 Karten nach Wahl.",
+    "short": "Finden Sie die zwei gleichen Bilder. Die Bilder können sichtbar bleiben.",
+    "players": "1 oder 2 Personen, nebeneinander",
+    "intro": "Tippen Sie auf ein Bild und dann auf das passende. Die Bilder bleiben von Anfang an sichtbar, man muss sich also nichts merken. Wenn zwei Bilder zusammengehören, bekommen sie einen goldenen Rahmen und ein Häkchen.",
+    "howTo": [
+      "Wählen Sie, wie viele Karten Sie nutzen möchten. Vier Karten sind ein ruhiger Anfang.",
+      "Tippen Sie auf ein beliebiges Bild. Es bekommt einen goldenen Rahmen.",
+      "Tippen Sie auf das Bild, das genauso aussieht. Das Paar bleibt mit einem Häkchen zusammen.",
+      "Wenn die beiden Bilder verschieden sind, passiert nichts Schlimmes. Tippen Sie einfach erneut, wann immer Sie bereit sind.",
+      "Schalten Sie „Verdeckte Bilder“ nur ein, wenn Sie beide Freude an der klassischen Version mit umgedrehten Karten haben."
+    ],
+    "tips": [
+      "Benennen Sie die Bilder gemeinsam laut und plaudern Sie darüber: „Eine rote Teetasse. Trinken Sie Ihren Tee mit Milch?“",
+      "Überlassen Sie das Tippen der Person, die Sie begleiten, auch wenn es eine Weile dauert. Zeigen Sie lieber, statt für sie zu tippen.",
+      "Bleiben Sie bei vier Karten, solange es sich gut anfühlt. Mehr Karten sind eine Wahlmöglichkeit, nie ein Level, das man erreichen muss.",
+      "Hören Sie auf, solange es noch Freude macht. Ein Spiel ist schon eine vollständige Beschäftigung."
+    ],
+    "faq": [
+      {
+        "q": "Gibt es eine Uhr oder Punkte?",
+        "a": "Nein. Es gibt keine Uhr, keine Punkte, keinen Zugzähler und kein Verlieren. Sie können jederzeit aufhören, und mittendrin aufzuhören ist ein völlig guter Abschluss."
+      },
+      {
+        "q": "Warum liegen die Bilder offen?",
+        "a": "Wenn die Bilder sichtbar bleiben, geht es ums Anschauen und Zuordnen statt ums Erinnern. Viele Menschen empfinden das als ruhiger. Wenn Sie möchten, können Sie mit einem Tippen zu verdeckten Bildern wechseln."
+      },
+      {
+        "q": "Ist es kostenlos, und muss ich mich anmelden?",
+        "a": "Ja, es ist kostenlos, und es gibt kein Konto, keine Anmeldung und keinen Download. Es funktioniert im Webbrowser auf Handy, Tablet oder Computer."
+      },
+      {
+        "q": "Können wir unsere eigenen Familienfotos verwenden?",
+        "a": "Ja. Probieren Sie „Fotopaare“, dort können Sie Fotos von Ihrem Gerät auswählen. Die Fotos bleiben in Ihrem Browser und werden nicht hochgeladen."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Gleiches Bild finden",
+    "seoTitle": "Gleiches Bild finden: Einfaches Spiel bei Demenz",
+    "h1": "Gleiches Bild finden",
+    "description": "Oben ein Bild, darunter zwei bis vier. Tippen Sie auf das gleiche. Ein ruhiges, kostenloses Bilderspiel für Menschen mit Demenz, ganz ohne Uhr.",
+    "short": "Schauen Sie sich das Bild oben an und tippen Sie unten auf das gleiche.",
+    "players": "1 oder 2 Personen",
+    "intro": "Oben auf dem Bildschirm steht ein einzelnes Bild. Darunter sind zwei, drei oder vier Bilder. Tippen Sie auf das gleiche. Es ist immer nur eine einfache Entscheidung auf einmal, mit viel Raum zum Erzählen.",
+    "howTo": [
+      "Wählen Sie, ob zwei, drei oder vier Bilder zur Auswahl stehen. Zwei ist am einfachsten.",
+      "Schauen Sie sich gemeinsam das Bild oben an.",
+      "Tippen Sie unten auf das gleiche Bild. Es wird mit einem Häkchen und ein paar freundlichen Worten markiert.",
+      "Wird ein anderes Bild angetippt, nennt das Spiel einfach seinen Namen und wartet. Lassen Sie sich Zeit.",
+      "Tippen Sie auf „Nächstes Bild“, wenn Sie bereit für ein weiteres sind."
+    ],
+    "tips": [
+      "Sprechen Sie vor der Wahl über jedes Bild: Farben, Formen, wo man so etwas sieht.",
+      "Zwei Bilder zur Auswahl sind nicht „zu leicht“. Es geht um einen schönen Moment, nicht um eine Herausforderung.",
+      "Fällt das Tippen schwer, kann die Person zeigen, und Sie tippen für sie."
+    ],
+    "faq": [
+      {
+        "q": "Gibt es eine Uhr oder Punkte?",
+        "a": "Nein. Es gibt keine Uhr, keine Punkte, keinen Zugzähler und kein Verlieren. Sie können jederzeit aufhören, und mittendrin aufzuhören ist ein völlig guter Abschluss."
+      },
+      {
+        "q": "Was passiert, wenn das falsche Bild angetippt wird?",
+        "a": "Nichts Unangenehmes. Es gibt keinen Summton, kein rotes Kreuz und kein Wackeln. Das Spiel nennt das angetippte Bild und wartet auf den nächsten Tipp."
+      },
+      {
+        "q": "Ist es kostenlos, und muss ich mich anmelden?",
+        "a": "Ja, es ist kostenlos, und es gibt kein Konto, keine Anmeldung und keinen Download. Es funktioniert im Webbrowser auf Handy, Tablet oder Computer."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Schattenbilder",
+    "seoTitle": "Schattenbilder zuordnen: Spiel bei Demenz, online",
+    "h1": "Schattenbilder: ein sanftes Bilderspiel",
+    "description": "Oben ein dunkler Schatten, darunter zwei bis vier Bilder: Tippen Sie auf das passende. Ein kostenloses, ruhiges Schattenspiel bei Demenz, ohne Uhr.",
+    "short": "Schauen Sie sich den Schatten an und tippen Sie auf das passende Bild.",
+    "players": "1 oder 2 Personen",
+    "intro": "Schattenbilder zuordnen kennen viele von Arbeitsblättern – hier mit großen Bildern und ohne Ausdrucken. Oben auf dem Bildschirm liegt ein weicher Schatten, darunter warten zwei, drei oder vier Bilder. Tippen Sie auf das Bild, das zum Schatten passt. Formen wie ein Fahrrad, ein Regenschirm oder eine Teetasse laden außerdem zum Erzählen ein.",
+    "howTo": [
+      "Wählen Sie, ob zwei, drei oder vier Bilder zur Auswahl stehen. Zwei ist am einfachsten.",
+      "Schauen Sie sich gemeinsam den Schatten an. Welche Form hat er? Ist er hoch oder rund?",
+      "Tippen Sie auf das Bild, das zum Schatten passt. Sein Name erscheint unter dem Schatten.",
+      "Wird ein anderes Bild angetippt, nennt das Spiel einfach seinen Namen und wartet. Lassen Sie sich Zeit.",
+      "Tippen Sie auf „Nächster Schatten“, wenn Sie bereit für einen weiteren sind."
+    ],
+    "tips": [
+      "Fahren Sie mit dem Finger den Umriss des Schattens nach und sprechen Sie über die Form.",
+      "Wenn Schatten heute schwerfallen, wechseln Sie zu „Gleiches Bild finden“, wo die Bilder gleich aussehen.",
+      "Sprechen Sie über das Bild, wenn es gefunden ist: „So einen Regenschirm hatten wir auch.“"
+    ],
+    "faq": [
+      {
+        "q": "Gibt es eine Uhr oder Punkte?",
+        "a": "Nein. Es gibt keine Uhr, keine Punkte, keinen Zugzähler und kein Verlieren. Sie können jederzeit aufhören, und mittendrin aufzuhören ist ein völlig guter Abschluss."
+      },
+      {
+        "q": "Ist Schattenbilder-Zuordnen gut für Menschen mit Demenz?",
+        "a": "Für manche Menschen kann es eine angenehme, einfache Beschäftigung sein, besonders im früheren Stadium. Formen sind leichter zu erkennen als Wörter. Es ist für Freude und Gespräch gedacht, nicht als Test, und es behandelt oder verlangsamt Demenz nicht. Wenn es Frust auslöst, probieren Sie „Gleiches Bild finden“ oder schauen Sie einfach gemeinsam Bilder an."
+      },
+      {
+        "q": "Was passiert, wenn das falsche Bild angetippt wird?",
+        "a": "Nichts Unangenehmes. Es gibt keinen Summton, kein rotes Kreuz und kein Wackeln. Das Spiel nennt das angetippte Bild und wartet auf den nächsten Tipp."
+      },
+      {
+        "q": "Ist es kostenlos, und muss ich mich anmelden?",
+        "a": "Ja, es ist kostenlos, und es gibt kein Konto, keine Anmeldung und keinen Download. Es funktioniert im Webbrowser auf Handy, Tablet oder Computer."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Gemeinsam sortieren",
+    "seoTitle": "Sortierspiel bei Demenz: Gemeinsam sortieren",
+    "h1": "Gemeinsam sortieren: Bilder einordnen",
+    "description": "Tippen Sie auf ein Bild und dann auf den passenden Korb: Küche oder Garten, Obst oder Tiere. Ein ruhiges, kostenloses Sortierspiel für Menschen mit Demenz.",
+    "short": "Legen Sie jedes Bild in seinen Korb: Küche oder Garten und mehr.",
+    "players": "1 oder 2 Personen",
+    "intro": "Sortieren ist eine vertraute, befriedigende Alltagstätigkeit – wie Einkäufe einräumen oder Socken zusammenlegen. Tippen Sie auf ein Bild und dann auf den Korb, in den es gehört. Es gibt keine Eile und keinen falschen Weg.",
+    "howTo": [
+      "Wählen Sie ein Thema: Küche und Garten, Obst und Tiere oder Zuhause und Reisen.",
+      "Tippen Sie auf ein Bild. Es bekommt einen goldenen Rahmen.",
+      "Tippen Sie auf den Korb, in den es gehört. Das Bild wandert in diesen Korb.",
+      "Gehört es in den anderen Korb, sagt das Spiel das freundlich und wartet.",
+      "Wenn alle Bilder einsortiert sind, schauen Sie sich die Körbe gemeinsam an."
+    ],
+    "tips": [
+      "Im echten Leben gibt es oft keine falschen Antworten. Wenn jemand sagt, die Gießkanne gehört in die Küche, fragen Sie nach dem Warum. Vielleicht hören Sie eine schöne Geschichte.",
+      "Nutzen Sie die Bilder als Anstoß: „Was haben Sie in Ihrem Garten angebaut?“",
+      "Echte Gegenstände sortieren, etwa Löffel und Gabeln oder Knöpfe nach Farben, ist eine schöne Fortsetzung abseits des Bildschirms."
+    ],
+    "faq": [
+      {
+        "q": "Gibt es eine Uhr oder Punkte?",
+        "a": "Nein. Es gibt keine Uhr, keine Punkte, keinen Zugzähler und kein Verlieren. Sie können jederzeit aufhören, und mittendrin aufzuhören ist ein völlig guter Abschluss."
+      },
+      {
+        "q": "Warum sortieren?",
+        "a": "Viele Menschen sortieren gern, weil es sich wie nützliche, vertraute Arbeit anfühlt. Außerdem lässt sich dabei gut über die Bilder sprechen."
+      },
+      {
+        "q": "Ist es kostenlos, und muss ich mich anmelden?",
+        "a": "Ja, es ist kostenlos, und es gibt kein Konto, keine Anmeldung und keinen Download. Es funktioniert im Webbrowser auf Handy, Tablet oder Computer."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Bilderpuzzle",
+    "seoTitle": "Leichtes Puzzle bei Demenz: 4 oder 9 Teile",
+    "h1": "Bilderpuzzle: ein leichtes Puzzle",
+    "description": "Ein leichtes Online-Puzzle für Menschen mit Demenz: 4 oder 9 große Teile, das ganze Bild bleibt sichtbar, und Sie tippen auf zwei Teile, um sie zu tauschen.",
+    "short": "Tippen Sie auf zwei Teile, um sie zu tauschen, bis das Bild vollständig ist.",
+    "players": "1 oder 2 Personen",
+    "intro": "Ein freundliches Bild wird in vier oder neun große Teile zerlegt und gemischt. Das ganze Bild bleibt als Vorlage sichtbar. Tippen Sie auf ein Teil und dann auf ein anderes, und die beiden tauschen die Plätze. Ziehen ist nicht nötig.",
+    "howTo": [
+      "Wählen Sie ein Bild und 4 oder 9 Teile. Vier ist ein sanfter Anfang.",
+      "Schauen Sie sich oben das ganze Bild an.",
+      "Tippen Sie auf ein Teil und dann auf die Stelle, an die es gehört. Die beiden Teile tauschen die Plätze.",
+      "Teile an der richtigen Stelle bekommen ein kleines Häkchen.",
+      "Wenn das Bild vollständig ist, freuen Sie sich gemeinsam daran und wählen Sie dann ein neues."
+    ],
+    "tips": [
+      "Für viele Menschen ist es viel leichter, zwei Teile anzutippen, als sie zu ziehen.",
+      "Sprechen Sie über das Bild, während es entsteht: „Da ist das rote Dach.“",
+      "Ein echtes Holzpuzzle mit 12 bis 24 großen Teilen ist auch eine schöne Beschäftigung am Tisch."
+    ],
+    "faq": [
+      {
+        "q": "Gibt es eine Uhr oder Punkte?",
+        "a": "Nein. Es gibt keine Uhr, keine Punkte, keinen Zugzähler und kein Verlieren. Sie können jederzeit aufhören, und mittendrin aufzuhören ist ein völlig guter Abschluss."
+      },
+      {
+        "q": "Muss ich die Teile ziehen?",
+        "a": "Nein. Tippen Sie auf ein Teil und dann auf ein anderes, und sie tauschen die Plätze. Das ist leichter bei zittrigen Händen oder auf einem kleinen Bildschirm."
+      },
+      {
+        "q": "Ist es kostenlos, und muss ich mich anmelden?",
+        "a": "Ja, es ist kostenlos, und es gibt kein Konto, keine Anmeldung und keinen Download. Es funktioniert im Webbrowser auf Handy, Tablet oder Computer."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Sprichwörter ergänzen",
+    "seoTitle": "Sprichwörter ergänzen: Spiel für Senioren",
+    "h1": "Sprichwörter ergänzen",
+    "description": "Bekannte Sprichwörter, bei denen das letzte Wort fehlt, etwa „Morgenstund hat Gold im ___“. Tippen Sie auf eine Antwort oder lassen Sie sich das Ende zeigen.",
+    "short": "Bekannte Sprichwörter gemeinsam ergänzen und darüber sprechen.",
+    "players": "1, 2 oder eine Gruppe",
+    "intro": "Alte Sprichwörter kennt man oft ein Leben lang. Jede Karte zeigt ein bekanntes Sprichwort, bei dem das letzte Wort fehlt, dazu drei Antworten und die Schaltfläche „Ende zeigen“. Danach lädt eine behutsame Frage zum Gespräch ein.",
+    "howTo": [
+      "Lesen Sie das Sprichwort gemeinsam laut vor.",
+      "Tippen Sie auf das Wort, das es vervollständigt, oder auf „Ende zeigen“.",
+      "Lesen Sie das ganze Sprichwort noch einmal und sprechen Sie mithilfe der Frage darüber.",
+      "Tippen Sie auf „Nächstes Sprichwort“, wenn Sie bereit sind."
+    ],
+    "tips": [
+      "Lesen Sie langsam und machen Sie vor dem letzten Wort eine kleine Pause. Oft sagt Ihr Gegenüber es, bevor Sie fertig sind.",
+      "Wenn jemand ein anderes Ende nennt, freuen Sie sich darüber. Manche Sprichwörter klingen je nach Familie oder Gegend etwas anders.",
+      "In einer Gruppe liest eine Person vor, und alle sprechen das Ende mit."
+    ],
+    "faq": [
+      {
+        "q": "Gibt es eine Uhr oder Punkte?",
+        "a": "Nein. Es gibt keine Uhr, keine Punkte, keinen Zugzähler und kein Verlieren. Sie können jederzeit aufhören, und mittendrin aufzuhören ist ein völlig guter Abschluss."
+      },
+      {
+        "q": "Was ist, wenn wir ein anderes Wort wählen?",
+        "a": "Das Spiel zeigt das übliche Ende und geht zum Gespräch über. Es gibt keine Punkte, und eine andere Antwort ist völlig in Ordnung."
+      },
+      {
+        "q": "Ist es kostenlos, und muss ich mich anmelden?",
+        "a": "Ja, es ist kostenlos, und es gibt kein Konto, keine Anmeldung und keinen Download. Es funktioniert im Webbrowser auf Handy, Tablet oder Computer."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Wortsuchrätsel in großer Schrift",
+    "seoTitle": "Wortsuchrätsel in großer Schrift bei Demenz, zum Drucken",
+    "h1": "Wortsuchrätsel in großer Schrift",
+    "description": "Kostenloses Wortsuchrätsel in großer Schrift für Senioren und Menschen mit Demenz: wenige Wörter, nur waagerecht und senkrecht. Online spielen oder ausdrucken.",
+    "short": "Große Buchstaben, wenige Wörter, nur waagerecht und senkrecht. Auch zum Ausdrucken.",
+    "players": "1 oder 2 Personen",
+    "intro": "Ein kleines Gitter mit großen Buchstaben und nur einer Handvoll bekannter Wörter, alle waagerecht oder senkrecht zu lesen. Tippen Sie auf den ersten Buchstaben eines Wortes und dann auf den letzten. Lieber auf Papier? Drucken Sie mit einem Tippen ein neues Rätsel aus.",
+    "howTo": [
+      "Wählen Sie ein Thema und eine Gittergröße.",
+      "Schauen Sie sich die Wörterliste an. Die Wörter stehen waagerecht (von links nach rechts) oder senkrecht (von oben nach unten).",
+      "Tippen Sie auf den ersten Buchstaben eines Wortes und dann auf seinen letzten Buchstaben.",
+      "Ein gefundenes Wort wird hervorgehoben und auf der Liste durchgestrichen.",
+      "Tippen Sie auf „Rätsel drucken“, um mit Bleistift oder Stift auf Papier zu spielen."
+    ],
+    "tips": [
+      "Zeigen Sie auf ein Wort in der Liste und suchen Sie gemeinsam nach seinem ersten Buchstaben.",
+      "Auf Papier lässt sich ein Textmarker leichter halten als ein Bleistift.",
+      "Sprechen Sie über die Wörter zum Thema. Wörter rund ums Obst führen ganz natürlich zu Erinnerungen ans Pflücken, Backen oder an den Markt."
+    ],
+    "faq": [
+      {
+        "q": "Gibt es eine Uhr oder Punkte?",
+        "a": "Nein. Es gibt keine Uhr, keine Punkte, keinen Zugzähler und kein Verlieren. Sie können jederzeit aufhören, und mittendrin aufzuhören ist ein völlig guter Abschluss."
+      },
+      {
+        "q": "Kann ich das Wortsuchrätsel ausdrucken?",
+        "a": "Ja. Tippen Sie auf „Rätsel drucken“, um das aktuelle Gitter in großer Schrift mit der Wörterliste darunter zu drucken. Jedes neue Rätsel ist anders."
+      },
+      {
+        "q": "Ist es kostenlos, und muss ich mich anmelden?",
+        "a": "Ja, es ist kostenlos, und es gibt kein Konto, keine Anmeldung und keinen Download. Es funktioniert im Webbrowser auf Handy, Tablet oder Computer."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Ausmalbilder",
+    "seoTitle": "Ausmalbilder für Erwachsene mit Demenz (kostenlos)",
+    "h1": "Ausmalbilder",
+    "description": "Einfache Ausmalbilder für Erwachsene mit großen Flächen: erst die Farbe, dann das Bild antippen. Keine falschen Farben, jede Seite kostenlos zum Drucken.",
+    "short": "Tippen Sie auf eine Farbe und dann auf einen Teil des Bildes. Auch zum Ausdrucken.",
+    "players": "1 oder 2 Personen",
+    "intro": "Seiten mit großen, einfachen Formen: eine Blume im Topf, ein Haus, eine Teetasse, ein Schmetterling und ein Segelboot. Tippen Sie auf eine Farbe und dann auf einen Teil des Bildes, um ihn auszufüllen. Es gibt keine falschen Farben.",
+    "howTo": [
+      "Wählen Sie eine Seite.",
+      "Tippen Sie auf eine Farbe. Auf jeder Farbe steht ihr Name.",
+      "Tippen Sie auf einen Teil des Bildes, um ihn mit dieser Farbe zu füllen.",
+      "Sie können es sich jederzeit anders überlegen und die Fläche neu füllen.",
+      "Tippen Sie auf „Seite drucken“, um eine leere Seite zum Ausmalen mit Buntstiften oder Filzstiften zu bekommen."
+    ],
+    "tips": [
+      "Bieten Sie zwei Farben zur Wahl an statt aller Farben, wenn die Auswahl zu viel ist.",
+      "Lila Bäume und blaue Sonnen sind herzlich willkommen. Es geht um die Freude an Farbe, nicht um Genauigkeit.",
+      "Ausgedruckte Seiten lassen sich gut mit dicken Filzstiften oder Wachsmalstiften ausmalen, die leichter zu greifen sind."
+    ],
+    "faq": [
+      {
+        "q": "Gibt es eine Uhr oder Punkte?",
+        "a": "Nein. Es gibt keine Uhr, keine Punkte, keinen Zugzähler und kein Verlieren. Sie können jederzeit aufhören, und mittendrin aufzuhören ist ein völlig guter Abschluss."
+      },
+      {
+        "q": "Sind die Bilder nicht zu kindlich?",
+        "a": "Wir haben ruhige, einfache Gegenstände gezeichnet statt Comicfiguren, damit die Seiten zu Erwachsenen passen. Große Formen machen das Ausmalen leicht, ohne dass es kindisch wirkt."
+      },
+      {
+        "q": "Ist es kostenlos, und muss ich mich anmelden?",
+        "a": "Ja, es ist kostenlos, und es gibt kein Konto, keine Anmeldung und keinen Download. Es funktioniert im Webbrowser auf Handy, Tablet oder Computer."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Gesprächskarten",
+    "seoTitle": "Gesprächskarten bei Demenz: Bilder als Gesprächsanlass",
+    "h1": "Gesprächskarten",
+    "description": "Bildkarten mit behutsamen Gesprächsanregungen für Menschen mit Demenz: kein Abfragen, keine richtigen Antworten. Am Bildschirm nutzen oder alle Karten drucken.",
+    "short": "Bildkarten mit offenen, behutsamen Fragen. Kein Abfragen.",
+    "players": "2 Personen oder eine Gruppe",
+    "intro": "Jede Karte verbindet ein vertrautes Bild mit einer offenen Einladung zum Erzählen, etwa „Welches Wetter mögen Sie am liebsten?“ Es gibt keine richtigen Antworten und nichts, was man sich merken muss. Wählen Sie ein Thema oder mischen Sie alle Karten.",
+    "howTo": [
+      "Wählen Sie ein Thema oder bleiben Sie bei „Alle Karten“.",
+      "Lesen Sie die Frage laut vor und schauen Sie sich gemeinsam das Bild an.",
+      "Hören Sie zu, erzählen Sie selbst etwas und lassen Sie das Gespräch schweifen.",
+      "Tippen Sie auf „Nächste Karte“, wenn Sie bereit sind, oder bleiben Sie so lange bei einer Karte, wie Sie mögen.",
+      "Tippen Sie auf „Alle Karten drucken“, um einen Kartensatz aus Papier auszuschneiden."
+    ],
+    "tips": [
+      "Beantworten Sie die Frage auch selbst. So fühlt es sich wie ein Gespräch an, nicht wie ein Interview.",
+      "Folgen Sie der Geschichte, nicht den Fakten. Wenn sich Einzelheiten ändern, ist das in Ordnung.",
+      "Wenn eine Karte etwas Trauriges berührt, nehmen Sie das Gefühl ernst und wechseln Sie behutsam zu einer anderen Karte."
+    ],
+    "faq": [
+      {
+        "q": "Warum gibt es keine Fragen wie „Erinnern Sie sich …?“",
+        "a": "Fragen, die das Gedächtnis prüfen, können sich wie eine Prüfung anfühlen und beschämen. Offene Einladungen wie „Erzählen Sie mir von …“ lassen alle mitmachen, ganz gleich, woran sie sich erinnern."
+      },
+      {
+        "q": "Kann ich die Karten ausdrucken?",
+        "a": "Ja. „Alle Karten drucken“ druckt den ganzen Satz in großer Schrift, mehrere Karten pro Seite, fertig zum Ausschneiden."
+      },
+      {
+        "q": "Ist es kostenlos, und muss ich mich anmelden?",
+        "a": "Ja, es ist kostenlos, und es gibt kein Konto, keine Anmeldung und keinen Download. Es funktioniert im Webbrowser auf Handy, Tablet oder Computer."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Fotopaare",
+    "seoTitle": "Ein Zuordnungsspiel aus eigenen Familienfotos",
+    "h1": "Fotopaare: Ihre eigenen Fotos zuordnen",
+    "description": "Machen Sie aus Ihren eigenen Familienfotos ein sanftes Zuordnungsspiel. Wählen Sie 2 bis 6 Fotos; sie bleiben in Ihrem Browser und werden nie hochgeladen.",
+    "short": "Eigene Fotos auswählen und Paare finden. Nichts wird hochgeladen.",
+    "players": "2 Personen, nebeneinander",
+    "intro": "Wählen Sie zwei bis sechs Fotos von Ihrem Handy, Tablet oder Computer aus, und sie werden zu einem Zuordnungsspiel mit großen, sichtbaren Bildern. Die Fotos werden nur auf dieser Seite angezeigt. Sie werden nicht hochgeladen, gespeichert oder geteilt und verschwinden, wenn Sie die Seite schließen.",
+    "howTo": [
+      "Tippen Sie auf „Fotos wählen“ und suchen Sie zwei bis sechs Fotos aus.",
+      "Jedes Foto erscheint zweimal. Tippen Sie auf eines und dann auf sein Gegenstück.",
+      "Sprechen Sie über jedes Foto, sobald Sie es finden.",
+      "Wenn Sie fertig sind, schließen Sie die Seite oder tippen Sie auf „Fotos entfernen“. Nichts wird aufbewahrt."
+    ],
+    "tips": [
+      "Wählen Sie klare Fotos von schönen, vertrauten Dingen: ein Haustier, ein Garten, ein Lieblingsort, ein Hochzeitstag.",
+      "Bilder von Orten und Gegenständen sind oft leichter als Gesichter und ersparen den Druck, Menschen benennen zu müssen.",
+      "Lassen Sie Fotos von Verstorbenen weg, wenn sie plötzliche Trauer auslösen könnten – es sei denn, Sie wissen, dass sie Trost spenden."
+    ],
+    "faq": [
+      {
+        "q": "Werden meine Fotos irgendwo hochgeladen?",
+        "a": "Nein. Die Seite liest die ausgewählten Fotos direkt in Ihrem Browser und zeigt sie auf Ihrem Bildschirm. Sie werden weder an uns noch an andere gesendet und sind weg, sobald Sie die Seite schließen oder neu laden."
+      },
+      {
+        "q": "Gibt es eine Uhr oder Punkte?",
+        "a": "Nein. Es gibt keine Uhr, keine Punkte, keinen Zugzähler und kein Verlieren. Sie können jederzeit aufhören, und mittendrin aufzuhören ist ein völlig guter Abschluss."
+      },
+      {
+        "q": "Kann ich das Spiel für das nächste Mal speichern?",
+        "a": "Im Browser nicht – mit Absicht, damit nichts Privates gespeichert wird. Die kostenlose Golden Moments App für iPhone und iPad kann Kopien ausgewählter Fotos auf Ihrem Gerät aufbewahren."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bilder-Bingo",
+    "seoTitle": "Bilder-Bingo für Senioren mit Demenz: zum Ausdrucken",
+    "h1": "Bilder-Bingo für Gruppen",
+    "description": "Kostenloses Bilder-Bingo zum Ausdrucken für Pflegeheime und Seniorengruppen, mit Ansage am Bildschirm. Große Bilder mit Wörtern, 9 oder 16 Felder.",
+    "short": "Bingokarten mit Bildern zum Ausdrucken und eine Ansage für den großen Bildschirm.",
+    "players": "Eine Gruppe von 2 bis 30",
+    "intro": "Klassisches Bingo mit Bildern statt Zahlen, sodass niemand Kleingedrucktes lesen muss. Drucken Sie einen Satz unterschiedlicher Karten aus und zeigen Sie dann mit der Ansage jedes Bild groß auf einem Fernseher, Laptop oder Tablet.",
+    "howTo": [
+      "Wählen Sie 9 oder 16 Felder pro Karte und die Zahl der Mitspielenden.",
+      "Tippen Sie auf „Karten drucken“. Jede Karte ist anders.",
+      "Öffnen Sie die Ansage auf einem großen Bildschirm. Tippen Sie auf „Nächstes Bild“, um jedes Bild mit seinem Namen zu zeigen.",
+      "Die Mitspielenden decken das passende Bild auf ihrer Karte mit einer Münze, einem Knopf oder einem Spielstein ab.",
+      "Alle, die eine Reihe oder die ganze Karte voll haben, bekommen Applaus. In dieser Version verliert niemand: Spielen Sie weiter, bis alle eine Reihe haben."
+    ],
+    "tips": [
+      "Nehmen Sie große Spielsteine wie Damesteine oder Flaschendeckel. Kleine Knöpfe lassen sich schwer aufheben.",
+      "Nennen Sie das Bild und sagen Sie etwas dazu: „Ein Segelboot. Wer war schon einmal auf einem Boot?“",
+      "Setzen Sie Menschen, die schlecht sehen, am nächsten an den Bildschirm, und stellen Sie Helfende an die Seite derer, die Unterstützung brauchen.",
+      "Neun Felder reichen den meisten Gruppen. Planen Sie etwa 20 bis 30 Minuten ein."
+    ],
+    "faq": [
+      {
+        "q": "Wie spiele ich Bilder-Bingo im Pflegeheim?",
+        "a": "Drucken Sie eine Karte pro Person aus, zeigen Sie die Ansage auf dem größten Bildschirm, den Sie haben, und rufen Sie die Bilder langsam auf, jedes mit Namen. Spielen Sie, bis alle eine Reihe haben, damit niemand außen vor bleibt."
+      },
+      {
+        "q": "Ist das Ausdrucken kostenlos?",
+        "a": "Ja. Drucken Sie so viele Karten, wie Sie brauchen, so oft Sie möchten, für den privaten Gebrauch oder für Gruppen."
+      },
+      {
+        "q": "Kann man auch ohne Lesen mitspielen?",
+        "a": "Ja. Jedes Feld ist ein großes Bild, mit dem Namen darunter für alle, die gern Wörter dabeihaben."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Ruhig atmen",
+    "seoTitle": "Eine ruhige Atempause für Senioren und Angehörige",
+    "h1": "Eine ruhige Atempause",
+    "description": "Eine langsame, stille Atempause zum Teilen: Ein sanfter Kreis wird sechs Atemzüge lang größer und kleiner. Sie starten ihn und können jederzeit aufhören.",
+    "short": "Ein langsamer Kreis zum Mitatmen. Starten und aufhören, wann Sie möchten.",
+    "players": "1 oder 2 Personen",
+    "intro": "Manchmal ist die schönste Beschäftigung eine stille Pause. Tippen Sie auf „Start“, atmen Sie ein, während der Kreis größer wird, und aus, während er kleiner wird. Wählen Sie ein langsameres oder schnelleres Tempo. Es ist keine Behandlung, sondern einfach ein friedlicher Moment zu zweit.",
+    "howTo": [
+      "Setzen Sie sich bequem nebeneinander.",
+      "Wählen Sie ein Tempo: langsam oder sanft.",
+      "Tippen Sie auf „Start“. Atmen Sie ein, während der Kreis größer wird, und aus, während er kleiner wird.",
+      "Nach sechs Atemzügen hört er von selbst auf, oder Sie tippen jederzeit auf „Stopp“."
+    ],
+    "tips": [
+      "Halten Sie sich an den Händen oder legen Sie eine Hand auf den Arm Ihres Gegenübers, wenn das willkommen ist.",
+      "Bestehen Sie nie darauf. Wenn Ihr Gegenüber lieber nur zuschaut, ist das in Ordnung.",
+      "Wenn jemand Atembeschwerden hat, atmen Sie normal und schauen Sie dem Kreis einfach zu. Fragen Sie bei Sorgen rund ums Atmen Ihre Ärztin oder Ihren Arzt."
+    ],
+    "faq": [
+      {
+        "q": "Ist das eine medizinische Atemübung?",
+        "a": "Nein. Es ist eine einfache, freiwillige Pause für Ruhe und Gesellschaft. Es ist keine Behandlung von Angst oder einer anderen Erkrankung. Sprechen Sie bei gesundheitlichen Sorgen mit Ihrer Ärztin oder Ihrem Arzt."
+      },
+      {
+        "q": "Bewegt sich der Kreis, ohne dass ich ihn starte?",
+        "a": "Nein. Nichts bewegt sich, bevor Sie auf „Start“ tippen, und es hört nach sechs Atemzügen auf oder wenn Sie auf „Stopp“ tippen. Ist Ihr Gerät auf reduzierte Bewegung eingestellt, wechseln nur die Worte, ohne dass der Kreis wächst."
+      },
+      {
+        "q": "Ist es kostenlos, und muss ich mich anmelden?",
+        "a": "Ja, es ist kostenlos, und es gibt kein Konto, keine Anmeldung und keinen Download. Es funktioniert im Webbrowser auf Handy, Tablet oder Computer."
+      }
+    ]
+  }
+}

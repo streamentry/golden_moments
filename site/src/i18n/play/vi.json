@@ -1,0 +1,482 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Trò chơi",
+      "restart": "Chơi lại từ đầu",
+      "soundOn": "Âm thanh nhẹ: bật",
+      "soundOff": "Âm thanh nhẹ: tắt",
+      "done": "Tạm nghỉ thôi",
+      "feedbackQuestion": "Hôm nay hoạt động này có giúp ích cho bạn không?",
+      "feedbackYes": "Có",
+      "feedbackNo": "Không hẳn",
+      "feedbackThanks": "Cảm ơn bạn đã cho chúng tôi biết."
+    },
+    "tile": {
+      "named": "{name}, ô {n}",
+      "hidden": "Hình đang úp, ô {n}",
+      "withState": "{label}, {state}",
+      "matched": "Đã thành đôi",
+      "selected": "Đang chọn",
+      "picture": "Hình",
+      "photoNumber": "Ảnh {n}"
+    },
+    "pairs": {
+      "allTogether": "Tất cả các đôi đã ở bên nhau. Chơi lại hoặc tạm nghỉ nhé.",
+      "photoPair": "Một đôi ảnh, đã ở bên nhau.",
+      "picturePair": "Hai hình {name|lower}, đã ở bên nhau.",
+      "selected": "{name}. Giờ tìm hình giống với nó.",
+      "mismatch": "Cứ thong thả. Chạm vào một hình để chơi tiếp.",
+      "mismatchNamed": "{a} và {b}. Cứ thong thả. Chạm vào một hình để chơi tiếp."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Chạm vào một hình, rồi chạm vào hình giống với nó.",
+      "guidanceHidden": "Chạm vào hai ô để lật hình lên. Tìm hai hình giống nhau.",
+      "restart": "Hình mới",
+      "sizeLegend": "Số ô",
+      "size": {"other": "{n} ô"},
+      "viewLegend": "Cách chơi",
+      "viewShowing": "Ngửa hình",
+      "viewHidden": "Úp hình",
+      "playAgain": "Chơi lại với hình mới",
+      "talk": "Cùng trò chuyện về các hình"
+    },
+    "choose": {
+      "countLegend": "Số hình",
+      "count": "Chọn trong {n} hình",
+      "thatOne": "Hình đó là {name|lower}. Cứ thong thả nhé."
+    },
+    "findTheSame": {
+      "guidance": "Nhìn hình ở trên cùng. Chạm vào hình giống như vậy ở bên dưới.",
+      "yes": "Vâng, cũng là {name|lower}.",
+      "next": "Hình tiếp theo"
+    },
+    "shadowMatch": {
+      "guidance": "Nhìn cái bóng ở trên cùng. Chạm vào hình tạo ra cái bóng đó.",
+      "yes": "Vâng, {name|lower} tạo ra cái bóng đó.",
+      "next": "Bóng tiếp theo",
+      "shadowAlt": "Một cái bóng để ghép",
+      "foundAlt": "Bóng của {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Chạm vào một hình, rồi chạm vào chiếc giỏ hợp với nó.",
+      "restart": "Hình mới",
+      "themeLegend": "Chủ đề",
+      "selected": "{name}. Giờ chạm vào chiếc giỏ để đặt hình vào.",
+      "pickFirst": "Trước tiên chạm vào một hình, rồi chạm vào một chiếc giỏ.",
+      "hint": "Có thể để {name|lower} vào giỏ “{basket}”. Chạm vào giỏ đó để đặt hình vào.",
+      "placed": "Đã để {name|lower} vào giỏ “{basket}”.",
+      "sorted": "Mọi hình đã được xếp xong. Cùng xem lại từng giỏ, hoặc thử một chủ đề khác.",
+      "basket": {"other": "Giỏ “{basket}”, có {count} hình"}
+    },
+    "picturePuzzle": {
+      "guidance": "Chạm vào một mảnh, rồi chạm vào một mảnh khác. Hai mảnh sẽ đổi chỗ cho nhau.",
+      "restart": "Trộn lại",
+      "pictureLegend": "Tranh",
+      "pictures": {
+        "sailboat": "Thuyền buồm",
+        "house": "Ngôi nhà",
+        "balloon": "Khinh khí cầu",
+        "sunflower": "Hướng dương",
+        "lighthouse": "Hải đăng",
+        "cat": "Con mèo"
+      },
+      "sizeLegend": "Số mảnh",
+      "size": {"other": "{n} mảnh"},
+      "pickedUp": "Đã nhấc một mảnh lên. Giờ chạm vào chỗ muốn đặt mảnh đó.",
+      "whole": "Bức tranh {name|lower} đã liền lại. Chọn tranh khác tùy ý.",
+      "swapped": {
+        "other": "Đã đổi chỗ. {correct} trên {total} mảnh đã nằm đúng chỗ."
+      },
+      "guideAlt": "Bức tranh hoàn chỉnh: {name}",
+      "guideText": "Bức tranh trông như thế này khi đã liền lại.",
+      "piece": "Mảnh ở {place}",
+      "pieceInPlace": ", đã nằm đúng chỗ",
+      "piecePickedUp": ", đang được nhấc lên",
+      "places4": ["góc trên bên trái", "góc trên bên phải", "góc dưới bên trái", "góc dưới bên phải"],
+      "places9": [
+        "góc trên bên trái",
+        "giữa hàng trên",
+        "góc trên bên phải",
+        "bên trái hàng giữa",
+        "chính giữa",
+        "bên phải hàng giữa",
+        "góc dưới bên trái",
+        "giữa hàng dưới",
+        "góc dưới bên phải"
+      ],
+      "done": "Bức tranh đã liền lại. Chơi lại hoặc tạm nghỉ nhé.",
+      "playAgain": "Trộn tranh lần nữa"
+    },
+    "finishTheSaying": {
+      "guidance": "Cùng đọc câu tục ngữ, rồi chạm vào chữ nối tiếp câu.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Vâng: “{start} {end}.”",
+      "otherEnding": "“{word}” nghe cũng hay. Câu quen thuộc kết thúc bằng “{end}”.",
+      "revealed": "Câu đầy đủ là: “{start} {end}.”",
+      "choicesLabel": "Chọn chữ cuối",
+      "show": "Xem phần cuối",
+      "talk": "Cùng trò chuyện: ",
+      "next": "Câu tiếp theo"
+    },
+    "wordSearch": {
+      "guidance": "Các từ nằm theo hàng ngang hoặc hàng dọc. Chạm vào chữ cái đầu của một từ, rồi chạm vào chữ cái cuối.",
+      "restart": "Bảng chữ mới",
+      "themeLegend": "Chủ đề",
+      "sizeLegend": "Cỡ bảng chữ",
+      "size": {"other": "{n} × {n} ({words} từ)"},
+      "print": "In bảng chữ này",
+      "letterChosen": "Đã chọn chữ {letter}. Giờ chạm vào chữ cái cuối của từ.",
+      "found": "Đã tìm thấy {word}.",
+      "foundAll": "Đã tìm thấy {word}. Vậy là đủ tất cả các từ. Chơi lại hoặc tạm nghỉ nhé.",
+      "tryAgain": "Cứ thong thả. Chạm vào chữ cái đầu của một từ, rồi chạm vào chữ cái cuối.",
+      "gridLabel": "Bảng chữ, {n} hàng, mỗi hàng {n} chữ. Dùng các phím mũi tên để di chuyển giữa các chữ.",
+      "cell": "{letter}, hàng {row}, cột {col}",
+      "cellFound": ", thuộc một từ đã tìm thấy",
+      "wordsHeading": "Các từ cần tìm",
+      "wordFound": " (đã tìm thấy)",
+      "sheetTitle": "Tìm từ: {theme}",
+      "sheetNote": "Các từ nằm theo hàng ngang hoặc hàng dọc.",
+      "unavailable": "Bảng chữ cái không hợp với ngôn ngữ này, nên ở đây không có trò tìm từ. Mời chơi các trò chơi bằng hình."
+    },
+    "coloring": {
+      "guidance": "Chạm vào một màu, rồi chạm vào một phần của bức tranh.",
+      "restart": "Xóa hết màu",
+      "cleared": "Trang tranh đã trắng trở lại.",
+      "pageLegend": "Trang tranh",
+      "print": "In trang này",
+      "colorsLabel": "Màu",
+      "paintChosen": "Đã chọn màu {paint|lower}.",
+      "painted": "{part} đã được tô màu {paint|lower}.",
+      "artLabel": "{page}, {count} phần để tô",
+      "partPainted": "{part}, màu {paint|lower}",
+      "partBlank": "{part}, chưa tô màu",
+      "paints": {
+        "red": "Đỏ",
+        "orange": "Cam",
+        "yellow": "Vàng",
+        "green": "Xanh lá",
+        "blue": "Xanh nước biển",
+        "purple": "Tím",
+        "pink": "Hồng",
+        "brown": "Nâu",
+        "sky-blue": "Xanh da trời",
+        "cream": "Vàng kem",
+        "gray": "Xám",
+        "white": "Trắng"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Đọc to thẻ lên. Không có câu trả lời nào là đúng hay sai.",
+      "position": "Thẻ {n} trên {total}",
+      "themeLegend": "Chủ đề",
+      "next": "Thẻ tiếp theo",
+      "previous": "Thẻ trước",
+      "print": "In tất cả thẻ",
+      "sheetTitle": "Thẻ trò chuyện"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Bắt đầu bằng cách chọn ảnh.",
+      "guidance": "Chạm vào một ảnh, rồi chạm vào ảnh giống với nó.",
+      "restart": "Trộn lại",
+      "intro": "**Chọn từ 2 đến 6 ảnh** trên thiết bị này. Ảnh chỉ hiện trên trang này, không bao giờ được tải lên hay lưu lại.",
+      "choose": "Chọn ảnh",
+      "chooseDifferent": "Chọn ảnh khác",
+      "clear": "Gỡ ảnh",
+      "cleared": "Đã gỡ ảnh khỏi trang này.",
+      "atLeastTwo": "Vui lòng chọn ít nhất hai ảnh.",
+      "usingFirst": "Đang dùng {max} ảnh đầu tiên.",
+      "skipped": {
+        "other": "Có {count} tệp không phải là ảnh có thể hiển thị."
+      },
+      "playAgain": "Chơi lại với những ảnh này",
+      "empty": "Ảnh của bạn sẽ hiện ở đây, mỗi ảnh hai lần."
+    },
+    "pictureBingo": {
+      "guidance": "In phiếu trước. Rồi mở phần xướng hình này trên màn hình lớn nhất bạn có.",
+      "called": {
+        "other": "{name}. Đã xướng {called} trên {total} hình."
+      },
+      "start": "Chạm “Hình tiếp theo” để xướng hình đầu tiên.",
+      "restart": "Bắt đầu ván mới",
+      "squaresLegend": "Số ô trên mỗi phiếu",
+      "squares": "{n} ô ({side} × {side})",
+      "cardsLegend": "Số phiếu cần in",
+      "cards": {"other": "{n} phiếu"},
+      "print": {"other": "In phiếu ({n})"},
+      "ready": "Khi nào sẵn sàng thì bắt đầu",
+      "next": "Hình tiếp theo",
+      "allCalled": "Đã xướng hết các hình",
+      "alreadyCalled": "Đã xướng",
+      "sheetTitle": "Lô tô hình ảnh · phiếu {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Hít vào khi vòng tròn nở ra, và thở ra khi vòng tròn thu lại. Vòng tròn tự dừng sau sáu nhịp thở.",
+      "paceLegend": "Nhịp thở",
+      "paceSlow": "Chậm (mỗi lượt 5 giây)",
+      "paceGentle": "Nhẹ nhàng (mỗi lượt 4 giây)",
+      "ready": "Khi nào sẵn sàng thì bắt đầu",
+      "in": "Hít vào",
+      "hold": "Nghỉ",
+      "out": "Thở ra",
+      "start": "Bắt đầu",
+      "stop": "Dừng",
+      "started": "Đã bắt đầu. Hít vào khi vòng tròn nở ra.",
+      "stopped": "Đã dừng.",
+      "finished": "Vậy là xong sáu nhịp thở chậm. Bắt đầu lại lúc nào cũng được."
+    }
+  },
+  "pictures": {
+    "teacup": "Tách trà",
+    "kettle": "Ấm đun nước",
+    "bread": "Ổ bánh mì",
+    "frying-pan": "Chảo trứng ốp la",
+    "cake": "Bánh sinh nhật",
+    "sunflower": "Hoa hướng dương",
+    "tulip": "Hoa tulip đỏ",
+    "watering-can": "Bình tưới cây",
+    "potted-plant": "Chậu cây xanh",
+    "tree": "Cây xanh",
+    "bird": "Chim cổ đỏ trên cành",
+    "butterfly": "Con bướm",
+    "dog": "Con chó",
+    "cat": "Con mèo",
+    "fish": "Cá vàng",
+    "apple": "Quả táo đỏ",
+    "pear": "Quả lê",
+    "strawberry": "Quả dâu tây",
+    "banana": "Quả chuối",
+    "lemon": "Quả chanh vàng",
+    "cherries": "Quả anh đào",
+    "house": "Ngôi nhà",
+    "lamp": "Đèn bàn",
+    "armchair": "Ghế bành",
+    "key": "Chìa khóa cũ",
+    "umbrella": "Cái ô",
+    "sailboat": "Thuyền buồm",
+    "car": "Ô tô cổ",
+    "bicycle": "Xe đạp",
+    "balloon": "Khinh khí cầu",
+    "lighthouse": "Ngọn hải đăng",
+    "sun": "Mặt trời",
+    "moon": "Trăng và sao"
+  },
+  "content": {
+    "sayings": [
+      {"start": "Ăn quả nhớ kẻ trồng", "end": "cây", "others": ["hoa", "rau"], "prompt": "Bác thích loại quả nào nhất?"},
+      {"start": "Uống nước nhớ", "end": "nguồn", "others": ["sông", "nhà"], "prompt": "Bác thích uống gì nhất: chè xanh, trà nóng hay nước dừa?"},
+      {"start": "Có công mài sắt, có ngày nên", "end": "kim", "others": ["dao", "nồi"], "prompt": "Có việc gì bác đã bền bỉ làm cho đến khi xong không?"},
+      {"start": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi", "end": "cao", "others": ["xanh", "to"], "prompt": "Bác thích cùng mọi người làm việc gì?"},
+      {"start": "Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một", "end": "giàn", "others": ["vườn", "nhà"], "prompt": "Bác thích canh bầu hay canh bí hơn?"},
+      {"start": "Lá lành đùm lá", "end": "rách", "others": ["xanh", "vàng"], "prompt": "Một việc tốt nhỏ nào làm bác thấy ấm lòng?"},
+      {"start": "Gần mực thì đen, gần đèn thì", "end": "sáng", "others": ["ấm", "vui"], "prompt": "Theo bác, thế nào là một người bạn tốt?"},
+      {"start": "Tốt gỗ hơn tốt nước", "end": "sơn", "others": ["màu", "vôi"], "prompt": "Trong nhà, bác thích món đồ gỗ nào?"},
+      {"start": "Đi một ngày đàng, học một sàng", "end": "khôn", "others": ["hay", "vui"], "prompt": "Nơi nào bác thích đến chơi nhất?"},
+      {"start": "Có chí thì", "end": "nên", "others": ["xong", "vui"], "prompt": "Việc gì bác đã cố gắng làm và thấy vui khi làm được?"},
+      {"start": "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy", "end": "ra", "others": ["xa", "về"], "prompt": "Bác học được điều gì hay từ cha mẹ?"},
+      {"start": "Chim có tổ, người có", "end": "tông", "others": ["nhà", "bạn"], "prompt": "Tết đến, cả nhà bác hay quây quần làm gì?"},
+      {"start": "Ăn có nhai, nói có", "end": "nghĩ", "others": ["cười", "nghe"], "prompt": "Trong bữa cơm, cả nhà bác hay nói chuyện gì vui?"},
+      {"start": "Tiên học lễ, hậu học", "end": "văn", "others": ["toán", "nghề"], "prompt": "Bác thích điều gì ở thời đi học?"},
+      {"start": "Không thầy đố mày làm", "end": "nên", "others": ["xong", "được"], "prompt": "Bác kể cho con nghe về một thầy cô mà bác quý nhé."},
+      {"start": "Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau", "end": "cùng", "others": ["nhiều", "luôn"], "prompt": "Điều gì làm mọi người thấy gần gũi nhau hơn?"},
+      {"start": "Ở hiền gặp", "end": "lành", "others": ["may", "vui"], "prompt": "Bác kể cho con nghe về một người hiền lành mà bác quý nhé."},
+      {"start": "Thương người như thể thương", "end": "thân", "others": ["con", "nhà"], "prompt": "Một việc tử tế nào làm bác thấy vui?"},
+      {"start": "Học thầy không tày học", "end": "bạn", "others": ["sách", "nghề"], "prompt": "Ngày nhỏ, bác hay chơi gì với bạn bè?"},
+      {"start": "Chuồn chuồn bay thấp thì mưa, bay cao thì nắng, bay vừa thì", "end": "râm", "others": ["mát", "gió"], "prompt": "Bác thích trời nắng hay trời mưa hơn?"},
+      {"start": "Nhất nước, nhì phân, tam cần, tứ", "end": "giống", "others": ["cày", "đất"], "prompt": "Nếu có một mảnh vườn, bác muốn trồng gì?"},
+      {"start": "Lời chào cao hơn mâm", "end": "cỗ", "others": ["cơm", "bánh"], "prompt": "Bác thích món nào nhất trong mâm cỗ ngày Tết?"},
+      {"start": "Một miếng khi đói bằng một gói khi", "end": "no", "others": ["vui", "xa"], "prompt": "Một bữa ăn đơn giản nào bác thấy ngon nhất?"},
+      {"start": "Lựa lời mà nói cho vừa lòng", "end": "nhau", "others": ["người", "ta"], "prompt": "Bác thích trò chuyện với ai nhất?"},
+      {"start": "Nước chảy đá", "end": "mòn", "others": ["tròn", "trơn"], "prompt": "Bác thích ngồi bên sông, bên hồ hay bên biển?"},
+      {"start": "Con hơn cha là nhà có", "end": "phúc", "others": ["lộc", "hoa"], "prompt": "Bác mong điều gì tốt đẹp cho con cháu?"},
+      {"start": "Nói ngọt lọt đến", "end": "xương", "others": ["tim", "lòng"], "prompt": "Bác thích nghe những lời nói như thế nào?"},
+      {"start": "Một điều nhịn, chín điều", "end": "lành", "others": ["vui", "hay"], "prompt": "Điều gì giúp bác thấy thư thái?"},
+      {"start": "Ăn chắc mặc", "end": "bền", "others": ["đẹp", "ấm"], "prompt": "Bác thích mặc loại áo nào nhất?"},
+      {"start": "Thuận vợ thuận chồng, tát biển Đông cũng", "end": "cạn", "others": ["được", "xong"], "prompt": "Theo bác, điều gì làm một gia đình êm ấm?"},
+      {"start": "Anh em như thể tay", "end": "chân", "others": ["trái", "phải"], "prompt": "Bác có người bạn nào thân như anh em không? Bác kể cho con nghe nhé."},
+      {"start": "Đi đến nơi, về đến", "end": "chốn", "others": ["nhà", "quê"], "prompt": "Bác thích đi xa hay ở nhà hơn?"},
+      {"start": "Bán anh em xa, mua láng giềng", "end": "gần", "others": ["tốt", "vui"], "prompt": "Hàng xóm tốt bụng thường giúp nhau những việc gì?"},
+      {"start": "Đất lành chim", "end": "đậu", "others": ["hót", "bay"], "prompt": "Bác thích nghe chim hót vào lúc nào trong ngày?"},
+      {"start": "Trăm hay không bằng tay", "end": "quen", "others": ["làm", "khéo"], "prompt": "Bác thích làm việc gì bằng đôi tay của mình?"},
+      {"start": "Mưa dầm thấm", "end": "lâu", "others": ["đất", "sâu"], "prompt": "Bác có thích nghe tiếng mưa rơi không?"},
+      {"start": "Đêm tháng năm chưa nằm đã sáng, ngày tháng mười chưa cười đã", "end": "tối", "others": ["trưa", "xong"], "prompt": "Bác thích những ngày dài mùa hè hay những ngày ngắn mùa đông?"},
+      {"start": "Nhập gia tùy", "end": "tục", "others": ["ý", "lễ"], "prompt": "Ngày Tết, bác thích phong tục nào nhất?"},
+      {"start": "Tấc đất tấc", "end": "vàng", "others": ["ngọc", "hoa"], "prompt": "Bác thích trồng cây gì trước sân nhà?"},
+      {"start": "Trai tài gái", "end": "sắc", "others": ["đẹp", "hiền"], "prompt": "Theo bác, một đám cưới vui cần có những gì?"},
+      {"start": "Râu tôm nấu với ruột bầu, chồng chan vợ húp gật đầu khen", "end": "ngon", "others": ["thơm", "ngọt"], "prompt": "Món canh nào bác thấy ngon nhất?"},
+      {"start": "Ai ơi bưng bát cơm đầy, dẻo thơm một hạt, đắng cay muôn", "end": "phần", "others": ["nơi", "nhà"], "prompt": "Bác thích ăn cơm với món gì nhất?"},
+      {"start": "Rủ nhau xuống bể mò cua, đem về nấu quả mơ chua trên", "end": "rừng", "others": ["núi", "đồi"], "prompt": "Bác thích nấu canh chua với gì?"},
+      {"start": "Mất lòng trước, được lòng", "end": "sau", "others": ["nhau", "lâu"], "prompt": "Lời khuyên thật lòng nào bác thấy quý?"},
+      {"start": "Chị ngã em", "end": "nâng", "others": ["đỡ", "theo"], "prompt": "Anh chị em trong nhà bác hay giúp nhau những việc gì?"},
+      {"start": "Có đi có", "end": "lại", "others": ["về", "đến"], "prompt": "Khi đi thăm ai, bác hay mang quà gì?"},
+      {"start": "Đi đâu mà vội mà", "end": "vàng", "others": ["nhanh", "mau"], "prompt": "Việc gì bác thích làm thật thong thả?"},
+      {"start": "Trâu ơi ta bảo trâu này, trâu ra ngoài ruộng trâu cày với", "end": "ta", "others": ["anh", "tôi"], "prompt": "Bác kể cho con nghe về cánh đồng ở quê nhé."},
+      {"start": "Một nắng hai", "end": "sương", "others": ["mưa", "gió"], "prompt": "Bác thích làm việc ngoài trời hay trong nhà hơn?"},
+      {"start": "Ăn ngay nói", "end": "thật", "others": ["thẳng", "khéo"], "prompt": "Theo bác, đức tính nào ở một người là đáng quý nhất?"}
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "AĂÂBCDĐEÊGHIKLMNOÔƠPRSTUƯVXYÁÀẠẤẾÓỒỜÚỪ",
+      "themes": [
+        {"value": "fruit", "label": "Trái cây", "words": ["CHUỐI", "XOÀI", "CAM", "BƯỞI", "CHANH", "NHÃN", "VẢI", "DỪA", "MÍT"]},
+        {"value": "garden", "label": "Khu vườn", "words": ["HOA", "CÂY", "ĐẤT", "RAU", "SEN", "CÚC", "MAI", "CÀNH", "CHẬU"]},
+        {"value": "kitchen", "label": "Nhà bếp", "words": ["NỒI", "CHẢO", "BÁT", "ĐŨA", "ĐĨA", "BẾP", "GẠO", "CƠM", "MUỐI"]},
+        {"value": "weather", "label": "Thời tiết", "words": ["MƯA", "NẮNG", "GIÓ", "MÂY", "BÃO", "SƯƠNG", "NÓNG", "MÁT", "LẠNH"]},
+        {"value": "animals", "label": "Con vật", "words": ["MÈO", "CHÓ", "TRÂU", "NGỰA", "VỊT", "CHIM", "VOI", "CUA", "TÔM"]},
+        {"value": "home", "label": "Nhà cửa", "words": ["CỬA", "BÀN", "GHẾ", "GIƯỜNG", "ĐÈN", "CHIẾU", "QUẠT", "GỐI", "SÂN"]}
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Tất cả thẻ",
+        "food": "Món ăn",
+        "home": "Nhà cửa",
+        "outdoors": "Ngoài trời",
+        "animals": "Con vật",
+        "travel": "Đi đây đi đó",
+        "work": "Công việc và sở thích",
+        "music": "Ca hát và giải trí",
+        "seasons": "Mùa trong năm"
+      },
+      "cards": [
+        {"theme": "food", "picture": "bread", "prompt": "Bác thích ăn bánh mì kèm với gì?"},
+        {"theme": "food", "picture": "cake", "prompt": "Những ngày vui trong nhà, bác thích có món bánh gì?"},
+        {"theme": "food", "picture": "apple", "prompt": "Bác kể cho con nghe về một món chè hay món tráng miệng bác thích nhé."},
+        {"theme": "food", "picture": "teacup", "prompt": "Bác thích uống trà hay cà phê, và pha thế nào thì vừa?"},
+        {"theme": "food", "picture": "frying-pan", "prompt": "Theo bác, bữa sáng ngon nhất là phở, xôi, bánh mì hay món gì khác?"},
+        {"theme": "food", "picture": "strawberry", "prompt": "Bác kể cho con nghe về một lần hái quả trong vườn nhé."},
+        {"theme": "food", "picture": "lemon", "prompt": "Bác thích vị chua hay vị ngọt hơn?"},
+        {"theme": "food", "picture": "cherries", "prompt": "Món ăn nào làm bác nghĩ đến mùa hè?"},
+        {"theme": "food", "picture": "banana", "prompt": "Đi chợ, bác thích mua những gì nhất?"},
+        {"theme": "home", "picture": "house", "prompt": "Bác kể cho con nghe về một ngôi nhà mà bác thích sống nhé."},
+        {"theme": "home", "picture": "armchair", "prompt": "Ở nhà, bác thích ngồi nghỉ ở chỗ nào nhất?"},
+        {"theme": "home", "picture": "lamp", "prompt": "Buổi tối yên tĩnh, bác thích làm gì?"},
+        {"theme": "home", "picture": "key", "prompt": "Nếu có một chiếc hộp nhỏ để cất đồ quý, bác sẽ cất gì trong đó?"},
+        {"theme": "home", "picture": "kettle", "prompt": "Bác muốn mời ai đến nhà uống chén trà?"},
+        {"theme": "home", "picture": "umbrella", "prompt": "Ngày mưa, bác thích làm gì ở nhà?"},
+        {"theme": "outdoors", "picture": "sunflower", "prompt": "Nếu có một khu vườn, bác muốn trồng hoa gì?"},
+        {"theme": "outdoors", "picture": "tree", "prompt": "Bác kể cho con nghe về một cái cây hay một khu vườn mà bác thích nhé."},
+        {"theme": "outdoors", "picture": "watering-can", "prompt": "Bác thích điều gì nhất khi ở trong vườn?"},
+        {"theme": "outdoors", "picture": "tulip", "prompt": "Bác thích hoa màu gì nhất?"},
+        {"theme": "outdoors", "picture": "potted-plant", "prompt": "Bác có thích để cây xanh trong nhà không?"},
+        {"theme": "outdoors", "picture": "sun", "prompt": "Một ngày nắng đẹp, bác muốn đi đâu?"},
+        {"theme": "animals", "picture": "dog", "prompt": "Bác kể cho con nghe về một chú chó mà bác quen nhé."},
+        {"theme": "animals", "picture": "cat", "prompt": "Bác thích mèo hay chó hơn? Bác thích ở chúng điều gì?"},
+        {"theme": "animals", "picture": "bird", "prompt": "Quanh nhà bác hay nghe tiếng chim gì?"},
+        {"theme": "animals", "picture": "fish", "prompt": "Bác có thích đi câu cá hay nuôi cá cảnh không?"},
+        {"theme": "animals", "picture": "butterfly", "prompt": "Con vật nào bác thấy đẹp nhất?"},
+        {"theme": "travel", "picture": "car", "prompt": "Bác kể cho con nghe về một chiếc xe mà bác thích nhé."},
+        {"theme": "travel", "picture": "sailboat", "prompt": "Bác thích một ngày ở biển hay một ngày trên núi hơn?"},
+        {"theme": "travel", "picture": "bicycle", "prompt": "Nếu được đạp xe một vòng, bác muốn đi đâu?"},
+        {"theme": "travel", "picture": "balloon", "prompt": "Nếu được bay qua bất kỳ nơi nào, bác muốn ngắm nơi nào?"},
+        {"theme": "travel", "picture": "lighthouse", "prompt": "Bác kể cho con nghe về một chuyến đi mà bác thích nhé."},
+        {"theme": "work", "picture": "key", "prompt": "Bác thích làm công việc gì nhất?"},
+        {"theme": "work", "picture": "watering-can", "prompt": "Có sở thích nào bác làm hàng giờ cũng không chán?"},
+        {"theme": "work", "picture": "bread", "prompt": "Món gì bác nấu hay làm khéo nhất?"},
+        {"theme": "work", "picture": "house", "prompt": "Bác muốn khuyên một người trẻ mới đi làm điều gì?"},
+        {"theme": "music", "picture": "balloon", "prompt": "Bác thích nghe dân ca, cải lương hay nhạc trữ tình?"},
+        {"theme": "music", "picture": "cake", "prompt": "Theo bác, một bữa tiệc vui cần có những gì?"},
+        {"theme": "music", "picture": "lamp", "prompt": "Bác thích nghe ca sĩ nào hát?"},
+        {"theme": "music", "picture": "armchair", "prompt": "Bộ phim hay chương trình nào bác thích xem lại?"},
+        {"theme": "seasons", "picture": "sun", "prompt": "Bác thích điều gì nhất ở mùa hè?"},
+        {"theme": "seasons", "picture": "tree", "prompt": "Mùa thu, bác thích điều gì?"},
+        {"theme": "seasons", "picture": "moon", "prompt": "Tết Trung thu, bác thích gì nhất: bánh nướng, bánh dẻo hay đèn ông sao?"},
+        {"theme": "seasons", "picture": "tulip", "prompt": "Bác thích điều gì nhất khi mùa xuân về?"},
+        {"theme": "seasons", "picture": "umbrella", "prompt": "Trời nắng, trời mưa hay trời se lạnh, bác thích kiểu nào hơn?"},
+        {"theme": "seasons", "picture": "potted-plant", "prompt": "Ngày Tết, bác thích nhất việc gì: gói bánh chưng, đi chợ hoa hay đi chúc Tết?"}
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Chậu hoa",
+          "regions": {
+            "sky": "Nền",
+            "table": "Mặt bàn",
+            "stem": "Cuống hoa",
+            "leaf-left": "Lá bên trái",
+            "leaf-right": "Lá bên phải",
+            "petal-1": "Cánh hoa 1",
+            "petal-2": "Cánh hoa 2",
+            "petal-3": "Cánh hoa 3",
+            "petal-4": "Cánh hoa 4",
+            "petal-5": "Cánh hoa 5",
+            "petal-6": "Cánh hoa 6",
+            "petal-7": "Cánh hoa 7",
+            "petal-8": "Cánh hoa 8",
+            "center": "Nhụy hoa",
+            "pot": "Chậu",
+            "pot-rim": "Miệng chậu"
+          }
+        },
+        "house": {
+          "name": "Ngôi nhà",
+          "regions": {
+            "sky": "Bầu trời",
+            "sun": "Mặt trời",
+            "grass": "Bãi cỏ",
+            "chimney": "Ống khói",
+            "walls": "Tường nhà",
+            "roof": "Mái nhà",
+            "door": "Cửa ra vào",
+            "window-left": "Cửa sổ bên trái",
+            "window-right": "Cửa sổ bên phải",
+            "path": "Lối đi"
+          }
+        },
+        "teacup": {
+          "name": "Tách trà",
+          "regions": {
+            "background": "Nền",
+            "saucer": "Đĩa lót",
+            "handle": "Quai tách",
+            "cup": "Thân tách",
+            "band": "Đường viền trên tách",
+            "tea": "Nước trà"
+          }
+        },
+        "butterfly": {
+          "name": "Con bướm",
+          "regions": {
+            "background": "Nền",
+            "wing-top-left": "Cánh trên bên trái",
+            "wing-top-right": "Cánh trên bên phải",
+            "wing-bottom-left": "Cánh dưới bên trái",
+            "wing-bottom-right": "Cánh dưới bên phải",
+            "spot-left": "Đốm trên cánh trái",
+            "spot-right": "Đốm trên cánh phải",
+            "body": "Thân bướm"
+          }
+        },
+        "sailboat": {
+          "name": "Thuyền buồm",
+          "regions": {
+            "sky": "Bầu trời",
+            "sea": "Biển",
+            "sail-big": "Cánh buồm lớn",
+            "sail-small": "Cánh buồm nhỏ",
+            "mast": "Cột buồm",
+            "hull": "Thân thuyền",
+            "flag": "Lá cờ"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Nhà bếp và khu vườn",
+          "baskets": ["Trong bếp", "Ngoài vườn"]
+        },
+        "fruit-animals": {
+          "label": "Trái cây và con vật",
+          "baskets": ["Trái cây", "Con vật"]
+        },
+        "home-travel": {
+          "label": "Nhà cửa và du lịch",
+          "baskets": ["Ở nhà", "Đi ra ngoài"]
+        }
+      }
+    }
+  }
+}

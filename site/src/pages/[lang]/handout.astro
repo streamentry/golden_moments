@@ -1,0 +1,10 @@
+---
+import HandoutView from '../../views/HandoutView.astro';
+import { localeStaticPaths } from '../../i18n/ui';
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+const { lang } = Astro.props;
+---
+<HandoutView lang={lang} />

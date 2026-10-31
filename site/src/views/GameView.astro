@@ -1,0 +1,174 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import AppCta from '../components/AppCta.astro';
+import Faq from '../components/Faq.astro';
+import GameCard from '../components/GameCard.astro';
+import Icon from '../components/Icon.astro';
+import { appFaqFor } from '../lib/app';
+import type { GameInfo } from '../data/games';
+import { breadcrumbs, faqPage, game as gameSchema } from '../lib/schema';
+import { localePath, localizeHtml } from '../i18n/locales';
+import { gameLanguages, localStageHint, localizeGame, localizedGames } from '../i18n/games';
+import { findGuide } from '../i18n/guides';
+import { playProps } from '../i18n/play';
+import { fill, ui } from '../i18n/ui';
+import '../styles/games.css';
+import PicturePairs from '../games/PicturePairs';
+import FindTheSame from '../games/FindTheSame';
+import ShadowMatch from '../games/ShadowMatch';
+import SortTogether from '../games/SortTogether';
+import PicturePuzzle from '../games/PicturePuzzle';
+import FinishTheSaying from '../games/FinishTheSaying';
+import WordSearch from '../games/WordSearch';
+import Coloring from '../games/Coloring';
+import ConversationCards from '../games/ConversationCards';
+import PhotoPairs from '../games/PhotoPairs';
+import PictureBingo from '../games/PictureBingo';
+import CalmBreathing from '../games/CalmBreathing';
+
+const NON_GAMES = new Set(['calm-breathing', 'conversation-cards']);
+
+interface Props {
+  /** The English game; text is localized here. */
+  game: GameInfo;
+  lang: string;
+}
+const { lang } = Astro.props;
+const game = localizeGame(Astro.props.game, lang);
+const t = ui(lang);
+const p = t.gamePage;
+const l = (path: string) => localePath(lang, path);
+const nameInText = lang === 'en' ? game.name.toLowerCase() : game.name;
+const path = l(`/games/${game.slug}/`);
+const crumbs = [
+  { href: l('/games/'), label: p.crumb },
+  { href: path, label: game.name },
+];
+const others = localizedGames(lang)
+  .filter((g) => g.slug !== game.slug && g.featured)
+  .slice(0, 3);
+const guides = (
+  await Promise.all(
+    game.relatedGuides.map(async (ref) => {
+      const local = (await findGuide(lang, ref)) ?? (await findGuide('en', ref));
+      return local ? { href: localePath(local.lang, `/${ref}/`), title: local.entry.data.title } : null;
+    }),
+  )
+).filter((g): g is { href: string; title: string } => g !== null);
+
+const ogImage = `/og/games/${game.slug}.png`;
+const faq = [...game.faq, appFaqFor(game.slug, lang)];
+const jsonLd = [
+  gameSchema({ path, name: game.name, description: game.description, image: ogImage, isGame: !NON_GAMES.has(game.slug) }),
+  breadcrumbs(crumbs, lang),
+  faqPage(faq),
+];
+const s = game.slug;
+const play = playProps(lang, s);
+const photo = s === 'photo-pairs';
+---
+<BaseLayout title={game.seoTitle} description={game.description} image={ogImage} imageAlt={fill(p.imageAlt, { name: game.name })} jsonLd={jsonLd} analytics={!photo} available={gameLanguages(game.slug)}>
+  <Breadcrumbs items={crumbs} lang={lang} />
+  <div class="container">
+    <header class="page-head page-head--game">
+      <h1>{game.h1}</h1>
+      <p class="lede">{game.short}</p>
+    </header>
+
+    <div class="game-stage">
+      <noscript>
+        <p class="notice notice--warm">{p.noscript}</p>
+      </noscript>
+      {s === 'picture-pairs' && <PicturePairs client:load {...play} />}
+      {s === 'find-the-same' && <FindTheSame client:load {...play} />}
+      {s === 'shadow-match' && <ShadowMatch client:load {...play} />}
+      {s === 'sort-together' && <SortTogether client:load {...play} />}
+      {s === 'picture-puzzle' && <PicturePuzzle client:load {...play} />}
+      {s === 'finish-the-saying' && <FinishTheSaying client:load {...play} />}
+      {s === 'word-search' && <WordSearch client:load {...play} />}
+      {s === 'coloring' && <Coloring client:load {...play} />}
+      {s === 'conversation-cards' && <ConversationCards client:load {...play} />}
+      {s === 'photo-pairs' && <PhotoPairs client:load {...play} />}
+      {s === 'picture-bingo' && <PictureBingo client:load {...play} />}
+      {s === 'calm-breathing' && <CalmBreathing client:load {...play} />}
+    </div>
+
+    <div class="game-page-copy article-layout">
+      <div class="prose">
+        <h2 id="about-game">{fill(p.about, { name: nameInText })}</h2>
+        <p>{game.intro}</p>
+        <ul class="tag-list" aria-label={p.aboutAria}>
+          <li class="tag">{localStageHint(game.stages, lang)}</li>
+          <li class="tag">{game.players}</li>
+          <li class="tag">{p.noTimer}</li>
+          {game.printable && <li class="tag"><Icon name="print" size={18} />{p.printable}</li>}
+        </ul>
+        <h2 id="how-to-play">{fill(p.howTo, { name: nameInText })}</h2>
+        <ol>
+          {game.howTo.map((step) => <li>{step}</li>)}
+        </ol>
+        <h2 id="tips">{p.tips}</h2>
+        <ul>
+          {game.tips.map((tip) => <li>{tip}</li>)}
+        </ul>
+        <p set:html={localizeHtml(lang, p.newToPlayingHtml)} />
+        <Faq items={faq} lang={lang} />
+      </div>
+      <aside class="article-aside" aria-label={p.moreAria}>
+        {
+          guides.length > 0 && (
+            <div class="aside-box">
+              <h2>{p.helpfulGuides}</h2>
+              <ul>
+                {guides.map((g) => (
+                  <li>
+                    <a href={g.href}>{g.title}</a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
+        <AppCta compact lang={lang} title={photo ? p.photoAppTitle : p.appTitle} text={photo ? p.photoAppText : p.appText} />
+        <div class="aside-box">
+          <h2>{p.goodToKnow}</h2>
+          <p class="small-print">{p.goodToKnowText}</p>
+        </div>
+      </aside>
+    </div>
+
+    <AppCta lang={lang} />
+
+    <section class="section" aria-labelledby="more-games">
+      <h2 id="more-games">{p.moreGames}</h2>
+      <ul class="card-grid">
+        {others.map((g) => <li><GameCard game={g} lang={lang} /></li>)}
+      </ul>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-head--game {
+    padding-bottom: var(--space-md);
+  }
+  .page-head--game h1 {
+    margin-bottom: var(--space-sm);
+  }
+  .game-stage {
+    padding: clamp(1rem, 0.5rem + 2vw, 2rem);
+    background: var(--gm-background);
+    border: 1px solid var(--gm-surface-sunken);
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-raised);
+    margin-bottom: var(--space-2xl);
+  }
+  @media (max-width: 599px) {
+    .game-stage {
+      padding: var(--space-md) 0;
+      border: 0;
+      box-shadow: none;
+    }
+  }
+</style>

@@ -2,27 +2,37 @@
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import { breadcrumbs } from '../lib/schema';
+import { localeInfo, localePath } from '../i18n/locales';
+import { ui } from '../i18n/ui';
 
 interface Props {
   title: string;
   seoTitle?: string;
   description: string;
+  /** Path without a language prefix. */
   path: string;
   crumb: string;
   lede?: string;
   updated?: string;
   jsonLd?: Record<string, unknown>[];
+  lang?: string;
+  /** Languages this page exists in; English only by default. */
+  available?: readonly string[];
 }
-const { title, seoTitle, description, path, crumb, lede, updated, jsonLd = [] } = Astro.props;
-const crumbs = [{ href: path, label: crumb }];
+const { title, seoTitle, description, path, crumb, lede, updated, jsonLd = [], lang = 'en', available } = Astro.props;
+const crumbs = [{ href: localePath(lang, path), label: crumb }];
+const t = ui(lang).common;
+const updatedText = updated
+  ? new Date(updated).toLocaleDateString(localeInfo(lang).bcp47, { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })
+  : undefined;
 ---
-<BaseLayout title={seoTitle ?? title} description={description} jsonLd={[breadcrumbs(crumbs), ...jsonLd]}>
-  <Breadcrumbs items={crumbs} />
+<BaseLayout title={seoTitle ?? title} description={description} jsonLd={[breadcrumbs(crumbs, lang), ...jsonLd]} available={available}>
+  <Breadcrumbs items={crumbs} lang={lang} />
   <div class="container">
     <header class="page-head">
       <h1>{title}</h1>
       {lede && <p class="lede">{lede}</p>}
-      {updated && <p class="meta-line"><span>Last updated <time datetime={updated}>{new Date(updated).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })}</time></span></p>}
+      {updated && <p class="meta-line"><span>{t.lastUpdated} <time datetime={updated}>{updatedText}</time></span></p>}
     </header>
     <div class="prose">
       <slot />

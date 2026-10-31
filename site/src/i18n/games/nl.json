@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Paren zoeken",
+    "seoTitle": "Memoryspel bij dementie: Paren zoeken",
+    "h1": "Paren zoeken: een rustig memoryspel",
+    "description": "Een gratis, rustig spel om paren te zoeken voor mensen met dementie. Grote plaatjes blijven zichtbaar, er is geen klok of score en je kiest 4 tot 12 kaartjes.",
+    "short": "Zoek de twee plaatjes die hetzelfde zijn. Plaatjes kunnen zichtbaar blijven.",
+    "players": "1 of 2 personen, naast elkaar",
+    "intro": "Tik op een plaatje en dan op het plaatje dat erbij hoort. De plaatjes blijven standaard zichtbaar, dus je hoeft niets te onthouden. Horen twee plaatjes bij elkaar, dan krijgen ze een gouden rand en een vinkje.",
+    "howTo": [
+      "Kies met hoeveel kaartjes je speelt. Vier kaartjes is een rustig begin.",
+      "Tik op een plaatje. Het krijgt een gouden rand.",
+      "Tik op het plaatje dat er hetzelfde uitziet. Het paar blijft bij elkaar, met een vinkje.",
+      "Zijn de twee plaatjes verschillend, dan gebeurt er niets vervelends. Tik opnieuw wanneer je wilt.",
+      "Zet “Plaatjes verborgen” alleen aan als jullie allebei van de klassieke versie met dichte kaartjes houden."
+    ],
+    "tips": [
+      "Noem de plaatjes samen hardop en praat erover: “Een rood theekopje. Neem jij melk in je thee?”",
+      "Laat je naaste zelf tikken, ook als dat even duurt. Wijs liever aan dan dat je voor je naaste tikt.",
+      "Blijf bij vier kaartjes zolang dat fijn voelt. Meer kaartjes zijn een keuze, nooit een niveau dat je moet halen.",
+      "Stop zolang het nog leuk is. Eén spelletje is al een complete activiteit."
+    ],
+    "faq": [
+      {
+        "q": "Is er een klok of een score?",
+        "a": "Nee. Er is geen klok, score, zettenteller en je kunt niet verliezen. Je kunt op elk moment stoppen, en halverwege stoppen is een prima manier om te eindigen."
+      },
+      {
+        "q": "Waarom blijven de plaatjes open liggen?",
+        "a": "Als de plaatjes zichtbaar blijven, gaat het spel over kijken en bij elkaar zoeken in plaats van onthouden. Veel mensen vinden dat rustiger. Wil je liever verborgen plaatjes, dan zet je dat met één tik aan."
+      },
+      {
+        "q": "Is het gratis, en moet ik me aanmelden?",
+        "a": "Ja, het is gratis, en er is geen account, aanmelding of download nodig. Het werkt in de webbrowser op een telefoon, tablet of computer."
+      },
+      {
+        "q": "Kunnen we onze eigen familiefoto’s gebruiken?",
+        "a": "Ja. Probeer Fotoparen, waarmee je foto’s van je apparaat kiest. De foto’s blijven in je browser en worden niet geüpload."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Hetzelfde plaatje",
+    "seoTitle": "Hetzelfde plaatje: eenvoudig spel bij dementie",
+    "h1": "Zoek hetzelfde plaatje",
+    "description": "Eén plaatje bovenaan, twee tot vier eronder. Tik op het plaatje dat hetzelfde is. Een rustig, gratis plaatjesspel voor mensen met dementie, zonder klok.",
+    "short": "Kijk naar het plaatje bovenaan en tik hieronder op hetzelfde plaatje.",
+    "players": "1 of 2 personen",
+    "intro": "Bovenaan het scherm staat één plaatje. Daaronder staan er twee, drie of vier. Tik op het plaatje dat hetzelfde is. Steeds één eenvoudige keuze, met volop ruimte om te praten.",
+    "howTo": [
+      "Kies uit hoeveel plaatjes je wilt kiezen: twee, drie of vier. Twee is het eenvoudigst.",
+      "Bekijk samen het plaatje bovenaan.",
+      "Tik hieronder op hetzelfde plaatje. Het krijgt een vinkje en een paar warme woorden.",
+      "Wordt er op een ander plaatje getikt, dan noemt het spel gewoon de naam en wacht het. Neem de tijd.",
+      "Tik op “Volgend plaatje” als je klaar bent voor een nieuw plaatje."
+    ],
+    "tips": [
+      "Praat over elk plaatje voordat je kiest: kleuren, vormen, waar je het zou kunnen zien.",
+      "Twee keuzes zijn niet “te makkelijk”. Het gaat om een fijn moment, niet om een uitdaging.",
+      "Is tikken lastig, dan kan je naaste aanwijzen en tik jij."
+    ],
+    "faq": [
+      {
+        "q": "Is er een klok of een score?",
+        "a": "Nee. Er is geen klok, score, zettenteller en je kunt niet verliezen. Je kunt op elk moment stoppen, en halverwege stoppen is een prima manier om te eindigen."
+      },
+      {
+        "q": "Wat gebeurt er als er op een ander plaatje wordt getikt?",
+        "a": "Niets vervelends. Er is geen zoemer, rood kruis of trillend beeld. Het spel noemt het plaatje waarop is getikt en wacht op de volgende tik."
+      },
+      {
+        "q": "Is het gratis, en moet ik me aanmelden?",
+        "a": "Ja, het is gratis, en er is geen account, aanmelding of download nodig. Het werkt in de webbrowser op een telefoon, tablet of computer."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Schaduwplaatjes",
+    "seoTitle": "Schaduwplaatjes: gratis schaduwspel bij dementie",
+    "h1": "Schaduwplaatjes: een rustig plaatjesspel",
+    "description": "Bovenaan een donkere schaduw, eronder twee tot vier plaatjes. Tik op het plaatje dat erbij hoort. Een gratis, rustig schaduwspel bij dementie, zonder klok.",
+    "short": "Kijk naar de schaduw en tik op het plaatje dat erbij hoort.",
+    "players": "1 of 2 personen",
+    "intro": "De juiste schaduw zoeken kennen veel mensen van werkbladen op papier. Hier gaat het met grote plaatjes en hoef je niets te printen. Bovenaan het scherm staat een zachte schaduw en eronder wachten twee, drie of vier plaatjes. Tik op het plaatje dat bij de schaduw hoort. Over vormen als een fiets, een paraplu of een theekopje kun je ook fijn praten.",
+    "howTo": [
+      "Kies uit hoeveel plaatjes je wilt kiezen: twee, drie of vier. Twee is het eenvoudigst.",
+      "Bekijk samen de schaduw. Welke vorm heeft hij? Is hij hoog of rond?",
+      "Tik op het plaatje dat bij de schaduw hoort. De naam verschijnt onder de schaduw.",
+      "Wordt er op een ander plaatje getikt, dan noemt het spel gewoon de naam en wacht het. Neem de tijd.",
+      "Tik op “Volgende schaduw” als je klaar bent voor een nieuwe."
+    ],
+    "tips": [
+      "Volg met een vinger de omtrek van de schaduw en praat over de vorm.",
+      "Voelen schaduwen vandaag lastig, ga dan naar Hetzelfde plaatje, waar de plaatjes er hetzelfde uitzien.",
+      "Praat over het plaatje als het gevonden is: “Wij hadden ook zo’n paraplu.”"
+    ],
+    "faq": [
+      {
+        "q": "Is er een klok of een score?",
+        "a": "Nee. Er is geen klok, score, zettenteller en je kunt niet verliezen. Je kunt op elk moment stoppen, en halverwege stoppen is een prima manier om te eindigen."
+      },
+      {
+        "q": "Is een schaduwspel geschikt voor mensen met dementie?",
+        "a": "Voor sommige mensen kan het een fijne, eenvoudige activiteit zijn, vooral in de vroegere fasen. Vormen zijn makkelijker te herkennen dan woorden. Het is bedoeld voor plezier en gesprek, niet als test, en het behandelt of vertraagt geen dementie. Geeft het frustratie, probeer dan Hetzelfde plaatje of bekijk gewoon samen wat plaatjes."
+      },
+      {
+        "q": "Wat gebeurt er als er op een ander plaatje wordt getikt?",
+        "a": "Niets vervelends. Er is geen zoemer, rood kruis of trillend beeld. Het spel noemt het plaatje waarop is getikt en wacht op de volgende tik."
+      },
+      {
+        "q": "Is het gratis, en moet ik me aanmelden?",
+        "a": "Ja, het is gratis, en er is geen account, aanmelding of download nodig. Het werkt in de webbrowser op een telefoon, tablet of computer."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Samen sorteren",
+    "seoTitle": "Sorteerspel bij dementie: Samen sorteren",
+    "h1": "Samen sorteren: plaatjes in het juiste mandje",
+    "description": "Tik op een plaatje en dan op het mandje waar het in hoort: keuken of tuin, fruit of dieren. Een rustige, gratis sorteeractiviteit voor mensen met dementie.",
+    "short": "Leg elk plaatje in het goede mandje: keuken of tuin, en meer.",
+    "players": "1 of 2 personen",
+    "intro": "Sorteren is een vertrouwde, voldoening gevende klus, zoals boodschappen opruimen of sokken bij elkaar zoeken. Tik op een plaatje en dan op het mandje waar het in hoort. Er is geen haast en je kunt niets verkeerd doen.",
+    "howTo": [
+      "Kies een thema: keuken en tuin, fruit en dieren, of thuis en op reis.",
+      "Tik op een plaatje. Het krijgt een gouden rand.",
+      "Tik op het mandje waar het in hoort. Het plaatje gaat naar dat mandje.",
+      "Hoort het in het andere mandje, dan zegt het spel dat vriendelijk en wacht het.",
+      "Is elk plaatje gesorteerd, bekijk dan samen wat er in de mandjes zit."
+    ],
+    "tips": [
+      "In het echte leven is er vaak geen fout antwoord. Zegt iemand dat een gieter in de keuken hoort, vraag dan waarom. Misschien komt er een mooi verhaal.",
+      "Gebruik de plaatjes om een gesprek te beginnen: “Wat had jij vroeger in je tuin staan?”",
+      "Echte voorwerpen sorteren, zoals lepels en vorken of knopen op kleur, is een mooi vervolg zonder scherm."
+    ],
+    "faq": [
+      {
+        "q": "Is er een klok of een score?",
+        "a": "Nee. Er is geen klok, score, zettenteller en je kunt niet verliezen. Je kunt op elk moment stoppen, en halverwege stoppen is een prima manier om te eindigen."
+      },
+      {
+        "q": "Waarom sorteren?",
+        "a": "Veel mensen sorteren graag omdat het voelt als nuttig, vertrouwd werk. Onderweg kun je ook makkelijk over de plaatjes praten."
+      },
+      {
+        "q": "Is het gratis, en moet ik me aanmelden?",
+        "a": "Ja, het is gratis, en er is geen account, aanmelding of download nodig. Het werkt in de webbrowser op een telefoon, tablet of computer."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Plaatjespuzzel",
+    "seoTitle": "Makkelijke legpuzzel bij dementie: 4 of 9 stukjes",
+    "h1": "Plaatjespuzzel: een makkelijke legpuzzel",
+    "description": "Een makkelijke online legpuzzel voor mensen met dementie: 4 of 9 grote stukjes, het hele plaatje blijft zichtbaar en je tikt op twee stukjes om ze te wisselen.",
+    "short": "Tik op twee stukjes om ze te wisselen, tot het plaatje heel is.",
+    "players": "1 of 2 personen",
+    "intro": "Een vriendelijk plaatje is in vier of negen grote stukjes geknipt en door elkaar gehusseld. Het hele plaatje blijft zichtbaar als voorbeeld. Tik op een stukje en dan op een ander, en ze wisselen van plek. Slepen is niet nodig.",
+    "howTo": [
+      "Kies een plaatje en 4 of 9 stukjes. Vier is een rustig begin.",
+      "Bekijk het hele plaatje bovenaan.",
+      "Tik op een stukje en dan op de plek waar het hoort. De twee stukjes wisselen van plek.",
+      "Stukjes op de goede plek krijgen een klein vinkje.",
+      "Is het plaatje heel, geniet er dan samen van en kies een volgend plaatje."
+    ],
+    "tips": [
+      "Voor veel mensen is op twee stukjes tikken veel makkelijker dan slepen.",
+      "Praat over het plaatje terwijl het heel wordt: “Daar is het rode dak.”",
+      "Een echte houten legpuzzel met 12 tot 24 grote stukjes is ook een fijne activiteit aan tafel."
+    ],
+    "faq": [
+      {
+        "q": "Is er een klok of een score?",
+        "a": "Nee. Er is geen klok, score, zettenteller en je kunt niet verliezen. Je kunt op elk moment stoppen, en halverwege stoppen is een prima manier om te eindigen."
+      },
+      {
+        "q": "Moet ik de stukjes slepen?",
+        "a": "Nee. Tik op een stukje, dan op een ander, en ze wisselen van plek. Dat is makkelijker met een trillende hand of op een klein scherm."
+      },
+      {
+        "q": "Is het gratis, en moet ik me aanmelden?",
+        "a": "Ja, het is gratis, en er is geen account, aanmelding of download nodig. Het werkt in de webbrowser op een telefoon, tablet of computer."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Spreekwoorden afmaken",
+    "seoTitle": "Spreekwoorden afmaken: spel voor ouderen",
+    "h1": "Spreekwoorden afmaken",
+    "description": "Bekende Nederlandse spreekwoorden waarvan het laatste woord ontbreekt, zoals “Oost west, thuis ___”. Tik op een woord of laat het einde zien, en praat erover.",
+    "short": "Maak samen bekende spreekwoorden af en praat erover.",
+    "players": "1, 2 of een groep",
+    "intro": "Oude spreekwoorden kent iemand vaak een leven lang. Elke kaart toont een bekend spreekwoord waarvan het laatste woord ontbreekt, drie keuzes en een knop “Laat het einde zien”. Na het einde volgt een vriendelijke vraag om over te praten.",
+    "howTo": [
+      "Lees het spreekwoord samen hardop voor.",
+      "Tik op het woord dat het afmaakt, of tik op “Laat het einde zien”.",
+      "Lees het hele spreekwoord nog eens en praat erover met behulp van de vraag.",
+      "Tik op “Volgend spreekwoord” als je er klaar voor bent."
+    ],
+    "tips": [
+      "Lees langzaam en laat een pauze vallen voor het laatste woord. Vaak zegt iemand het al voordat je klaar bent.",
+      "Geeft iemand een ander einde, geniet er dan van. Sommige spreekwoorden klinken per familie of streek net wat anders.",
+      "In een groep leest één persoon voor en zegt iedereen samen het einde."
+    ],
+    "faq": [
+      {
+        "q": "Is er een klok of een score?",
+        "a": "Nee. Er is geen klok, score, zettenteller en je kunt niet verliezen. Je kunt op elk moment stoppen, en halverwege stoppen is een prima manier om te eindigen."
+      },
+      {
+        "q": "Wat als we een ander woord kiezen?",
+        "a": "Het spel laat het gebruikelijke einde zien en gaat verder met het gesprek. Er is geen score, en een ander antwoord is prima."
+      },
+      {
+        "q": "Is het gratis, en moet ik me aanmelden?",
+        "a": "Ja, het is gratis, en er is geen account, aanmelding of download nodig. Het werkt in de webbrowser op een telefoon, tablet of computer."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Woordzoeker in grote letters",
+    "seoTitle": "Woordzoeker in grote letters bij dementie, printbaar",
+    "h1": "Woordzoeker in grote letters",
+    "description": "Een gratis woordzoeker in grote letters voor ouderen en mensen met dementie. Weinig woorden, alleen horizontaal en verticaal. Online spelen of printen.",
+    "short": "Grote letters, een paar woorden, alleen horizontaal en verticaal. Ook om te printen.",
+    "players": "1 of 2 personen",
+    "intro": "Een klein rooster met grote letters en maar een handvol woorden, allemaal horizontaal of verticaal. Tik op de eerste letter van een woord en dan op de laatste letter. Liever op papier? Print met één tik een nieuwe puzzel.",
+    "howTo": [
+      "Kies een thema en een roostergrootte.",
+      "Bekijk de woordenlijst. Woorden lopen horizontaal (van links naar rechts) of verticaal (van boven naar beneden).",
+      "Tik op de eerste letter van een woord en dan op de laatste letter.",
+      "Een gevonden woord wordt gemarkeerd en op de lijst doorgestreept.",
+      "Tik op “Deze puzzel afdrukken” om op papier te spelen met een potlood of stift."
+    ],
+    "tips": [
+      "Wijs een woord op de lijst aan en zoek samen naar de eerste letter.",
+      "Op papier is een markeerstift makkelijker vast te houden dan een potlood.",
+      "Praat over de woorden van het thema. Woorden over fruit brengen vanzelf herinneringen aan plukken, bakken of de markt."
+    ],
+    "faq": [
+      {
+        "q": "Is er een klok of een score?",
+        "a": "Nee. Er is geen klok, score, zettenteller en je kunt niet verliezen. Je kunt op elk moment stoppen, en halverwege stoppen is een prima manier om te eindigen."
+      },
+      {
+        "q": "Kan ik de woordzoeker printen?",
+        "a": "Ja. Tik op “Deze puzzel afdrukken” om het huidige rooster in grote letters te printen, met de woordenlijst eronder. Elke nieuwe puzzel is anders."
+      },
+      {
+        "q": "Is het gratis, en moet ik me aanmelden?",
+        "a": "Ja, het is gratis, en er is geen account, aanmelding of download nodig. Het werkt in de webbrowser op een telefoon, tablet of computer."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Kleurplaten",
+    "seoTitle": "Kleurplaten voor volwassenen met dementie (gratis)",
+    "h1": "Kleurplaten",
+    "description": "Eenvoudige kleurplaten voor volwassenen, met grote vlakken: tik op een kleur en dan op het plaatje. Geen geknoei, geen foute kleuren, gratis te printen.",
+    "short": "Tik op een kleur en dan op een deel van het plaatje. Ook om te printen.",
+    "players": "1 of 2 personen",
+    "intro": "Platen met grote, eenvoudige vormen: een bloem in een pot, een huis, een theekopje, een vlinder en een zeilboot. Tik op een kleur en dan op een deel van het plaatje om het in te kleuren. Er bestaan geen foute kleuren.",
+    "howTo": [
+      "Kies een kleurplaat.",
+      "Tik op een kleur. Op elke kleur staat de naam.",
+      "Tik op een deel van het plaatje om het in die kleur te kleuren.",
+      "Bedenk je je, kleur het dan gewoon opnieuw.",
+      "Tik op “Deze pagina afdrukken” voor een lege plaat om met kleurpotloden of stiften in te kleuren."
+    ],
+    "tips": [
+      "Bied twee kleuren aan in plaats van alle kleuren als kiezen te veel voelt.",
+      "Paarse bomen en blauwe zonnen zijn welkom. Het gaat om plezier in kleur, niet om precisie.",
+      "Geprinte platen werken goed met dikke stiften of waskrijtjes, die zijn makkelijker vast te houden."
+    ],
+    "faq": [
+      {
+        "q": "Is er een klok of een score?",
+        "a": "Nee. Er is geen klok, score, zettenteller en je kunt niet verliezen. Je kunt op elk moment stoppen, en halverwege stoppen is een prima manier om te eindigen."
+      },
+      {
+        "q": "Zijn deze kleurplaten niet te kinderachtig?",
+        "a": "We tekenden rustige, eenvoudige voorwerpen in plaats van tekenfilmfiguren, zodat de platen bij volwassenen passen. Door de grote vormen blijft kleuren makkelijk zonder kinderachtig te worden."
+      },
+      {
+        "q": "Is het gratis, en moet ik me aanmelden?",
+        "a": "Ja, het is gratis, en er is geen account, aanmelding of download nodig. Het werkt in de webbrowser op een telefoon, tablet of computer."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Gesprekskaarten",
+    "seoTitle": "Gespreksstarters bij dementie: kaarten met plaatjes",
+    "h1": "Gesprekskaarten",
+    "description": "Kaarten met plaatjes en vriendelijke gespreksstarters voor mensen met dementie: geen overhoren, geen goede antwoorden. Op het scherm of de hele set printen.",
+    "short": "Kaarten met plaatjes en open, vriendelijke vragen. Geen overhoren.",
+    "players": "2 personen of een groep",
+    "intro": "Elke kaart combineert een vertrouwd plaatje met een open uitnodiging om te praten, zoals “Van wat voor weer houd jij het meest?” Er zijn geen goede antwoorden en niets om te onthouden. Kies een thema of schud alle kaarten.",
+    "howTo": [
+      "Kies een thema, of laat “Alle kaarten” staan.",
+      "Lees de vraag hardop voor en bekijk samen het plaatje.",
+      "Luister, vertel ook je eigen antwoord en laat het gesprek alle kanten op gaan.",
+      "Tik op “Volgende kaart” als je klaar bent, of blijf zo lang bij één kaart als je wilt.",
+      "Tik op “Alle kaarten afdrukken” om een papieren set uit te knippen."
+    ],
+    "tips": [
+      "Beantwoord de vraag zelf ook. Dan voelt het als een gesprek, niet als een interview.",
+      "Volg het verhaal, niet de feiten. Veranderen de details, dan is dat prima.",
+      "Raakt een kaart iets verdrietigs, erken dan het gevoel en ga rustig door naar een andere kaart."
+    ],
+    "faq": [
+      {
+        "q": "Waarom zijn er geen vragen als “Weet je nog…?”",
+        "a": "Vragen die het geheugen testen kunnen voelen als een examen en voor schaamte zorgen. Open uitnodigingen zoals “Vertel eens over…” laten iedereen meedoen, wat iemand zich ook herinnert."
+      },
+      {
+        "q": "Kan ik de kaarten printen?",
+        "a": "Ja. “Alle kaarten afdrukken” print de hele set in grote letters, een paar kaarten per pagina, klaar om uit te knippen."
+      },
+      {
+        "q": "Is het gratis, en moet ik me aanmelden?",
+        "a": "Ja, het is gratis, en er is geen account, aanmelding of download nodig. Het werkt in de webbrowser op een telefoon, tablet of computer."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Fotoparen",
+    "seoTitle": "Maak een memoryspel van je eigen familiefoto’s",
+    "h1": "Fotoparen: zoek paren met je eigen foto’s",
+    "description": "Maak van je eigen familiefoto’s een rustig spel om paren te zoeken. Kies 2 tot 6 foto’s op je apparaat; ze blijven in je browser en worden nooit geüpload.",
+    "short": "Kies je eigen foto’s en zoek de paren. Er wordt niets geüpload.",
+    "players": "2 personen, naast elkaar",
+    "intro": "Kies twee tot zes foto’s van je telefoon, tablet of computer, en ze worden een spel om paren te zoeken, met grote, zichtbare plaatjes. De foto’s worden alleen op deze pagina getoond. Ze worden niet geüpload, opgeslagen of gedeeld, en ze verdwijnen als je de pagina sluit.",
+    "howTo": [
+      "Tik op “Foto’s kiezen” en kies twee tot zes foto’s.",
+      "Elke foto staat er twee keer. Tik op de ene en dan op de foto die erbij hoort.",
+      "Praat over elke foto als je hem vindt.",
+      "Ben je klaar, sluit dan de pagina of tik op “Foto’s wissen”. Er wordt niets bewaard."
+    ],
+    "tips": [
+      "Kies duidelijke foto’s van fijne, vertrouwde dingen: een huisdier, een tuin, een geliefde plek, een trouwdag.",
+      "Foto’s van plekken en voorwerpen kunnen makkelijker zijn dan gezichten, en dan hoeft niemand namen te noemen.",
+      "Laat foto’s weg van mensen die zijn overleden als die plotseling verdriet kunnen oproepen, tenzij je weet dat ze troost geven."
+    ],
+    "faq": [
+      {
+        "q": "Worden mijn foto’s ergens naartoe geüpload?",
+        "a": "Nee. De pagina leest de foto’s die je kiest rechtstreeks in je browser en toont ze op je scherm. Ze worden niet naar ons of naar iemand anders gestuurd, en ze zijn weg als je de pagina sluit of opnieuw laadt."
+      },
+      {
+        "q": "Is er een klok of een score?",
+        "a": "Nee. Er is geen klok, score, zettenteller en je kunt niet verliezen. Je kunt op elk moment stoppen, en halverwege stoppen is een prima manier om te eindigen."
+      },
+      {
+        "q": "Kan ik het spel bewaren voor de volgende keer?",
+        "a": "Niet in de browser, en dat is bewust, zodat er niets persoonlijks wordt opgeslagen. De gratis Golden Moments-app voor iPhone en iPad kan kopieën van gekozen foto’s op je apparaat bewaren."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Plaatjesbingo",
+    "seoTitle": "Plaatjesbingo voor ouderen met dementie: printbaar",
+    "h1": "Plaatjesbingo voor groepen",
+    "description": "Gratis plaatjesbingo om te printen voor groepen in de zorg en dagbesteding, met een grote omroeper op het scherm. Grote plaatjes met woorden, 9 of 16 vakjes.",
+    "short": "Bingokaarten met plaatjes om te printen en een omroeper op groot scherm.",
+    "players": "Een groep van 2 tot 30",
+    "intro": "Klassieke bingo met plaatjes in plaats van cijfers, zodat niemand kleine lettertjes hoeft te lezen. Print een set kaarten die allemaal anders zijn, en gebruik de omroeper op het scherm om elk plaatje groot te laten zien op een tv, laptop of tablet.",
+    "howTo": [
+      "Kies 9 of 16 vakjes per kaart en het aantal spelers.",
+      "Tik op “Kaarten afdrukken”. Elke kaart is anders.",
+      "Open de omroeper op een groot scherm. Tik op “Volgend plaatje” om elk plaatje met de naam te laten zien.",
+      "Spelers leggen een muntje, knoop of fiche op het plaatje dat op hun kaart staat.",
+      "Wie een rij of de hele kaart vol heeft, krijgt een applausje. In deze versie verliest niemand: speel door tot iedereen een rij heeft."
+    ],
+    "tips": [
+      "Gebruik grote fiches, zoals damstenen of flessendoppen. Kleine knoopjes zijn soms lastig op te pakken.",
+      "Noem het plaatje en vertel er iets over: “Een zeilboot. Wie heeft er weleens op een boot gezeten?”",
+      "Laat mensen die slecht zien het dichtst bij het scherm zitten, en zet helpers naast spelers die dat nodig hebben.",
+      "Negen vakjes is voor de meeste groepen ruim genoeg. Houd het bij zo’n 20 tot 30 minuten."
+    ],
+    "faq": [
+      {
+        "q": "Hoe speel je plaatjesbingo in een verpleeghuis of woonzorgcentrum?",
+        "a": "Print één kaart per speler, zet de omroeper op het grootste scherm dat je hebt en roep de plaatjes langzaam om, steeds met de naam erbij. Speel door tot iedereen een rij heeft, zodat niemand buiten de boot valt."
+      },
+      {
+        "q": "Is printen gratis?",
+        "a": "Ja. Print zoveel kaarten als je nodig hebt, zo vaak als je wilt, voor jezelf of voor een groep."
+      },
+      {
+        "q": "Kun je meedoen zonder te lezen?",
+        "a": "Ja. Elk vakje is een groot plaatje, met de naam eronder voor wie van woorden houdt."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Rustig ademen",
+    "seoTitle": "Rustig ademen: een pauze voor ouderen en mantelzorgers",
+    "h1": "Even rustig ademen",
+    "description": "Een langzame, stille ademhalingspauze om samen te doen: een zachte cirkel wordt groter en kleiner, zes ademhalingen lang. Jij start, en je kunt altijd stoppen.",
+    "short": "Adem mee met een langzame cirkel. Start en stop wanneer je wilt.",
+    "players": "1 of 2 personen",
+    "intro": "Soms is een stille pauze de fijnste activiteit. Tik op “Start” en adem in terwijl de cirkel groter wordt, en uit terwijl hij kleiner wordt. Kies een langzamer of sneller tempo. Het is geen behandeling, gewoon een rustig moment om te delen.",
+    "howTo": [
+      "Ga lekker naast elkaar zitten.",
+      "Kies een tempo: langzaam of rustig.",
+      "Tik op “Start”. Adem in terwijl de cirkel groter wordt, en uit terwijl hij kleiner wordt.",
+      "Na zes ademhalingen stopt het vanzelf, of tik op “Stop” wanneer je wilt."
+    ],
+    "tips": [
+      "Houd elkaars hand vast of leg een hand op de arm van je naaste, als dat welkom is.",
+      "Dring nooit aan. Kijkt je naaste liever alleen, dan is dat prima.",
+      "Heeft iemand problemen met ademen, adem dan gewoon normaal en kijk alleen naar de cirkel. Vraag een arts om advies bij zorgen over de ademhaling."
+    ],
+    "faq": [
+      {
+        "q": "Is dit een medische ademhalingsoefening?",
+        "a": "Nee. Het is een eenvoudige pauze, als je dat wilt, voor rust en gezelschap. Het is geen behandeling voor angst of een andere aandoening. Praat met een arts over zorgen om je gezondheid."
+      },
+      {
+        "q": "Beweegt de cirkel zonder dat ik hem start?",
+        "a": "Nee. Er beweegt niets tot je op Start tikt, en het stopt na zes ademhalingen of als je op Stop tikt. Staat je apparaat ingesteld op minder beweging, dan veranderen de woorden zonder dat de cirkel groter wordt."
+      },
+      {
+        "q": "Is het gratis, en moet ik me aanmelden?",
+        "a": "Ja, het is gratis, en er is geen account, aanmelding of download nodig. Het werkt in de webbrowser op een telefoon, tablet of computer."
+      }
+    ]
+  }
+}

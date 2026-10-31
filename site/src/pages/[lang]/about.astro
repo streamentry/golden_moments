@@ -1,0 +1,10 @@
+---
+import ProseView from '../../views/ProseView.astro';
+import { localeStaticPaths } from '../../i18n/ui';
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+const { lang } = Astro.props;
+---
+<ProseView lang={lang} page="about" path="/about/" />

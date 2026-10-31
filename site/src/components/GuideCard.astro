@@ -1,11 +1,15 @@
 ---
+import { ui } from '../i18n/ui';
+
 interface Props {
   href: string;
   title: string;
   text: string;
   label?: string;
+  lang?: string;
 }
-const { href, title, text, label = 'Read the guide' } = Astro.props;
+const { href, title, text, lang = 'en' } = Astro.props;
+const label = Astro.props.label ?? ui(lang).cards.readGuide;
 ---
 <article class="card">
   <h3><a class="card__link" href={href}>{title}</a></h3>

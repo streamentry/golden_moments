@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Ghép đôi hình",
+    "seoTitle": "Trò chơi ghép đôi hình cho người sa sút trí tuệ",
+    "h1": "Ghép đôi hình: trò chơi ghép đôi nhẹ nhàng",
+    "description": "Trò chơi ghép đôi miễn phí, nhẹ nhàng cho người sống chung với sa sút trí tuệ. Hình lớn luôn hiện rõ, không hẹn giờ, không điểm số, bạn chọn từ 4 đến 12 ô.",
+    "short": "Tìm hai hình giống nhau. Hình ảnh có thể luôn hiện rõ.",
+    "players": "1 hoặc 2 người, ngồi cạnh nhau",
+    "intro": "Chạm vào một hình, rồi chạm vào hình giống với nó. Theo mặc định, hình ảnh luôn hiện rõ nên không cần phải nhớ gì cả. Khi hai hình thành một đôi, chúng sẽ có viền vàng và dấu tích.",
+    "howTo": [
+      "Chọn số ô muốn dùng. Bốn ô là cách bắt đầu nhẹ nhàng.",
+      "Chạm vào một hình bất kỳ. Hình đó sẽ có viền vàng.",
+      "Chạm vào hình trông giống hệt. Đôi hình sẽ nằm cạnh nhau kèm dấu tích.",
+      "Nếu hai hình khác nhau, không có gì xấu xảy ra. Hãy chạm lại khi nào bạn sẵn sàng.",
+      "Chỉ bật “Úp hình” nếu cả hai cùng thích kiểu chơi cổ điển với hình úp xuống."
+    ],
+    "tips": [
+      "Cùng nhau gọi tên các hình thành tiếng và trò chuyện về chúng: “Một tách trà màu đỏ. Bác có thích uống trà không?”",
+      "Để người bạn chăm sóc tự chạm, dù có mất một lúc. Hãy chỉ tay gợi ý thay vì chạm hộ.",
+      "Cứ giữ bốn ô bao lâu cũng được, miễn là thấy vui. Thêm ô là một lựa chọn, không bao giờ là cấp độ phải vượt qua.",
+      "Kết thúc khi vẫn còn vui. Một ván đã là một hoạt động trọn vẹn."
+    ],
+    "faq": [
+      {
+        "q": "Có hẹn giờ hay tính điểm không?",
+        "a": "Không. Không có đồng hồ, điểm số, bộ đếm lượt hay chuyện thua cuộc. Bạn có thể dừng bất cứ lúc nào, và dừng giữa chừng cũng là một cách kết thúc hoàn toàn ổn."
+      },
+      {
+        "q": "Vì sao hình ảnh luôn ngửa lên?",
+        "a": "Để hình luôn hiện rõ biến trò chơi thành việc ngắm và ghép, chứ không phải ghi nhớ. Nhiều người thấy cách này êm dịu hơn. Nếu thích, bạn có thể chuyển sang úp hình chỉ với một lần chạm."
+      },
+      {
+        "q": "Trò chơi có miễn phí không, có cần đăng ký không?",
+        "a": "Có, trò chơi miễn phí, và không cần tài khoản, đăng ký hay tải về. Trò chơi chạy trên trình duyệt web của điện thoại, máy tính bảng hoặc máy tính."
+      },
+      {
+        "q": "Chúng tôi có thể dùng ảnh gia đình mình không?",
+        "a": "Có. Hãy thử Ghép đôi ảnh, trò chơi cho phép bạn chọn ảnh từ thiết bị của mình. Ảnh chỉ ở trong trình duyệt của bạn và không được tải lên."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Tìm hình giống",
+    "seoTitle": "Tìm hình giống: trò chơi đơn giản cho người sa sút trí tuệ",
+    "h1": "Tìm hình giống nhau",
+    "description": "Một hình ở trên, hai đến bốn hình ở dưới. Chạm vào hình giống hệt. Trò chơi hình ảnh miễn phí, êm dịu cho người sống chung với sa sút trí tuệ, không hẹn giờ.",
+    "short": "Nhìn hình ở trên và chạm vào hình giống nó ở bên dưới.",
+    "players": "1 hoặc 2 người",
+    "intro": "Một hình nằm ở phía trên màn hình. Bên dưới có hai, ba hoặc bốn hình. Chạm vào hình giống hệt. Mỗi lần chỉ một lựa chọn đơn giản, và có nhiều thời gian để trò chuyện.",
+    "howTo": [
+      "Chọn hai, ba hoặc bốn hình để chọn. Hai hình là đơn giản nhất.",
+      "Cùng nhau nhìn hình ở phía trên.",
+      "Chạm vào hình giống nó ở bên dưới. Hình đó được đánh dấu tích kèm vài lời ấm áp.",
+      "Nếu chạm vào một hình khác, trò chơi chỉ đơn giản gọi tên hình đó và chờ. Cứ thong thả.",
+      "Chạm “Hình tiếp theo” khi bạn sẵn sàng cho hình khác."
+    ],
+    "tips": [
+      "Trò chuyện về từng hình trước khi chọn: màu sắc, hình dáng, bạn có thể thấy nó ở đâu.",
+      "Hai lựa chọn không phải là “quá dễ”. Mục đích là một khoảnh khắc dễ chịu, không phải thử thách.",
+      "Nếu khó chạm, người thân có thể chỉ tay và bạn chạm giúp."
+    ],
+    "faq": [
+      {
+        "q": "Có hẹn giờ hay tính điểm không?",
+        "a": "Không. Không có đồng hồ, điểm số, bộ đếm lượt hay chuyện thua cuộc. Bạn có thể dừng bất cứ lúc nào, và dừng giữa chừng cũng là một cách kết thúc hoàn toàn ổn."
+      },
+      {
+        "q": "Điều gì xảy ra nếu chạm vào hình khác?",
+        "a": "Không có gì khó chịu cả. Không có tiếng còi, dấu gạch chéo đỏ hay rung lắc. Trò chơi gọi tên hình vừa được chạm và chờ lần chạm tiếp theo."
+      },
+      {
+        "q": "Trò chơi có miễn phí không, có cần đăng ký không?",
+        "a": "Có, trò chơi miễn phí, và không cần tài khoản, đăng ký hay tải về. Trò chơi chạy trên trình duyệt web của điện thoại, máy tính bảng hoặc máy tính."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Ghép bóng",
+    "seoTitle": "Trò chơi ghép bóng cho người sa sút trí tuệ, miễn phí",
+    "h1": "Ghép bóng: trò chơi hình ảnh nhẹ nhàng",
+    "description": "Một chiếc bóng ở trên, hai đến bốn hình ở dưới. Chạm vào hình tạo ra chiếc bóng. Trò chơi ghép bóng miễn phí, êm dịu cho người sa sút trí tuệ, không hẹn giờ.",
+    "short": "Nhìn chiếc bóng và chạm vào hình tạo ra nó.",
+    "players": "1 hoặc 2 người",
+    "intro": "Ghép bóng là hoạt động quen thuộc trên các phiếu bài in sẵn, ở đây có hình ảnh lớn và không cần in. Một chiếc bóng mờ nằm ở phía trên màn hình, bên dưới có hai, ba hoặc bốn hình. Chạm vào hình tạo ra chiếc bóng. Những hình dáng như chiếc xe đạp, cái ô hay tách trà cũng rất dễ để trò chuyện.",
+    "howTo": [
+      "Chọn hai, ba hoặc bốn hình để chọn. Hai hình là đơn giản nhất.",
+      "Cùng nhau nhìn chiếc bóng. Nó có hình gì? Cao hay tròn?",
+      "Chạm vào hình tạo ra chiếc bóng. Tên của hình hiện ra bên dưới chiếc bóng.",
+      "Nếu chạm vào một hình khác, trò chơi chỉ đơn giản gọi tên hình đó và chờ. Cứ thong thả.",
+      "Chạm “Bóng tiếp theo” khi bạn sẵn sàng cho bóng khác."
+    ],
+    "tips": [
+      "Dùng ngón tay vẽ theo đường viền của chiếc bóng và trò chuyện về hình dáng.",
+      "Nếu hôm nay thấy ghép bóng hơi khó, hãy chuyển sang Tìm hình giống, nơi các hình trông giống hệt nhau.",
+      "Trò chuyện về hình khi đã tìm thấy: “Nhà mình ngày xưa cũng có cái ô như thế.”"
+    ],
+    "faq": [
+      {
+        "q": "Có hẹn giờ hay tính điểm không?",
+        "a": "Không. Không có đồng hồ, điểm số, bộ đếm lượt hay chuyện thua cuộc. Bạn có thể dừng bất cứ lúc nào, và dừng giữa chừng cũng là một cách kết thúc hoàn toàn ổn."
+      },
+      {
+        "q": "Ghép bóng có tốt cho người sa sút trí tuệ không?",
+        "a": "Với một số người, đây có thể là hoạt động đơn giản, dễ chịu, nhất là ở giai đoạn sớm hơn. Hình dáng dễ nhận ra hơn chữ. Trò chơi là để vui và trò chuyện, không phải bài kiểm tra, và không điều trị hay làm chậm sa sút trí tuệ. Nếu trò chơi gây bực bội, hãy thử Tìm hình giống hoặc đơn giản là cùng ngắm hình."
+      },
+      {
+        "q": "Điều gì xảy ra nếu chạm vào hình khác?",
+        "a": "Không có gì khó chịu cả. Không có tiếng còi, dấu gạch chéo đỏ hay rung lắc. Trò chơi gọi tên hình vừa được chạm và chờ lần chạm tiếp theo."
+      },
+      {
+        "q": "Trò chơi có miễn phí không, có cần đăng ký không?",
+        "a": "Có, trò chơi miễn phí, và không cần tài khoản, đăng ký hay tải về. Trò chơi chạy trên trình duyệt web của điện thoại, máy tính bảng hoặc máy tính."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Cùng phân loại",
+    "seoTitle": "Trò chơi phân loại cho người sa sút trí tuệ",
+    "h1": "Cùng phân loại: hoạt động sắp xếp hình ảnh",
+    "description": "Chạm vào một hình, rồi chạm vào chiếc giỏ phù hợp: nhà bếp hay khu vườn, trái cây hay con vật. Hoạt động phân loại miễn phí, êm dịu cho người sa sút trí tuệ.",
+    "short": "Xếp mỗi hình vào giỏ của nó: nhà bếp hay khu vườn, và nhiều chủ đề khác.",
+    "players": "1 hoặc 2 người",
+    "intro": "Phân loại là việc thường ngày quen thuộc và dễ chịu, như cất đồ đi chợ về hay xếp tất thành đôi. Chạm vào một hình, rồi chạm vào chiếc giỏ phù hợp. Không cần vội và không có bước nào là sai.",
+    "howTo": [
+      "Chọn một chủ đề: nhà bếp và khu vườn, trái cây và con vật, hoặc nhà cửa và du lịch.",
+      "Chạm vào một hình. Hình đó sẽ có viền vàng.",
+      "Chạm vào chiếc giỏ phù hợp. Hình sẽ chuyển vào giỏ đó.",
+      "Nếu hình hợp với giỏ kia hơn, trò chơi sẽ nhẹ nhàng nói vậy và chờ.",
+      "Khi mọi hình đã được xếp xong, hãy cùng nhau xem lại từng giỏ."
+    ],
+    "tips": [
+      "Ngoài đời thường thì nhiều khi chẳng có câu trả lời nào sai. Nếu người thân nói bình tưới cây thuộc về nhà bếp, hãy hỏi vì sao. Biết đâu bạn sẽ được nghe một câu chuyện hay.",
+      "Dùng hình ảnh để gợi chuyện: “Ngày trước vườn nhà mình trồng những gì?”",
+      "Phân loại đồ vật thật, như thìa và nĩa, hay cúc áo theo màu, là hoạt động tiếp nối rất hay ngoài màn hình."
+    ],
+    "faq": [
+      {
+        "q": "Có hẹn giờ hay tính điểm không?",
+        "a": "Không. Không có đồng hồ, điểm số, bộ đếm lượt hay chuyện thua cuộc. Bạn có thể dừng bất cứ lúc nào, và dừng giữa chừng cũng là một cách kết thúc hoàn toàn ổn."
+      },
+      {
+        "q": "Vì sao lại là phân loại?",
+        "a": "Nhiều người thích phân loại vì cảm giác như đang làm một việc có ích, quen thuộc. Vừa xếp vừa trò chuyện về các hình cũng rất dễ."
+      },
+      {
+        "q": "Trò chơi có miễn phí không, có cần đăng ký không?",
+        "a": "Có, trò chơi miễn phí, và không cần tài khoản, đăng ký hay tải về. Trò chơi chạy trên trình duyệt web của điện thoại, máy tính bảng hoặc máy tính."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Ghép tranh",
+    "seoTitle": "Ghép tranh dễ cho người sa sút trí tuệ: 4 hoặc 9 mảnh",
+    "h1": "Ghép tranh: trò xếp hình dễ",
+    "description": "Trò ghép tranh trực tuyến dễ chơi cho người sa sút trí tuệ: 4 hoặc 9 mảnh lớn, cả bức tranh luôn hiện rõ, chạm vào hai mảnh để đổi chỗ cho nhau.",
+    "short": "Chạm vào hai mảnh để đổi chỗ cho đến khi bức tranh hoàn chỉnh.",
+    "players": "1 hoặc 2 người",
+    "intro": "Một bức tranh thân thuộc được cắt thành bốn hoặc chín mảnh lớn rồi xáo trộn. Cả bức tranh vẫn hiện rõ để làm mẫu. Chạm vào một mảnh, rồi một mảnh khác, và hai mảnh sẽ đổi chỗ. Không cần kéo thả.",
+    "howTo": [
+      "Chọn một bức tranh và 4 hoặc 9 mảnh. Bốn mảnh là khởi đầu nhẹ nhàng.",
+      "Nhìn cả bức tranh ở phía trên.",
+      "Chạm vào một mảnh, rồi chạm vào chỗ mảnh đó nên nằm. Hai mảnh sẽ đổi chỗ.",
+      "Mảnh nào đúng chỗ sẽ có một dấu tích nhỏ.",
+      "Khi bức tranh đã hoàn chỉnh, hãy cùng ngắm, rồi chọn bức khác."
+    ],
+    "tips": [
+      "Với nhiều người, chạm vào hai mảnh để đổi chỗ dễ hơn nhiều so với kéo thả.",
+      "Trò chuyện về bức tranh khi nó dần hiện ra: “Kia là mái nhà màu đỏ.”",
+      "Một bộ ghép hình bằng gỗ thật với 12 đến 24 mảnh lớn cũng là hoạt động rất hay để làm trên bàn."
+    ],
+    "faq": [
+      {
+        "q": "Có hẹn giờ hay tính điểm không?",
+        "a": "Không. Không có đồng hồ, điểm số, bộ đếm lượt hay chuyện thua cuộc. Bạn có thể dừng bất cứ lúc nào, và dừng giữa chừng cũng là một cách kết thúc hoàn toàn ổn."
+      },
+      {
+        "q": "Tôi có cần kéo các mảnh không?",
+        "a": "Không. Chạm vào một mảnh, rồi chạm vào mảnh khác, và chúng sẽ đổi chỗ. Cách này dễ hơn khi tay run hoặc khi dùng màn hình nhỏ."
+      },
+      {
+        "q": "Trò chơi có miễn phí không, có cần đăng ký không?",
+        "a": "Có, trò chơi miễn phí, và không cần tài khoản, đăng ký hay tải về. Trò chơi chạy trên trình duyệt web của điện thoại, máy tính bảng hoặc máy tính."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Nói tiếp câu tục ngữ",
+    "seoTitle": "Nói tiếp ca dao, tục ngữ: trò chơi cho người cao tuổi",
+    "h1": "Nói tiếp câu tục ngữ",
+    "description": "Những câu ca dao, tục ngữ quen thuộc thiếu chữ cuối, như “Ăn quả nhớ kẻ trồng ___”. Chạm vào một lựa chọn hoặc xem phần cuối, rồi cùng trò chuyện.",
+    "short": "Cùng nói tiếp những câu ca dao, tục ngữ quen thuộc, rồi trò chuyện về chúng.",
+    "players": "1, 2 người hoặc một nhóm",
+    "intro": "Những câu ca dao, tục ngữ xưa thường được nhớ suốt đời. Mỗi thẻ có một câu quen thuộc bị thiếu chữ cuối, ba lựa chọn và nút “Xem phần cuối”. Sau khi hiện đủ câu, một câu hỏi nhẹ nhàng sẽ mời mọi người trò chuyện.",
+    "howTo": [
+      "Cùng nhau đọc to câu tục ngữ.",
+      "Chạm vào chữ nối tiếp câu, hoặc chạm “Xem phần cuối”.",
+      "Đọc lại cả câu và trò chuyện về nó theo câu hỏi gợi ý.",
+      "Chạm “Câu tiếp theo” khi bạn sẵn sàng."
+    ],
+    "tips": [
+      "Đọc chậm và ngừng một chút trước chữ cuối. Nhiều khi người thân sẽ nói ra trước khi bạn đọc hết.",
+      "Nếu ai đó nói một kết thúc khác, hãy cứ vui với điều đó. Nhiều câu có cách nói khác nhau tùy gia đình hay vùng miền.",
+      "Khi chơi theo nhóm, một người đọc và mọi người cùng nói phần cuối."
+    ],
+    "faq": [
+      {
+        "q": "Có hẹn giờ hay tính điểm không?",
+        "a": "Không. Không có đồng hồ, điểm số, bộ đếm lượt hay chuyện thua cuộc. Bạn có thể dừng bất cứ lúc nào, và dừng giữa chừng cũng là một cách kết thúc hoàn toàn ổn."
+      },
+      {
+        "q": "Nếu chúng tôi chọn một chữ khác thì sao?",
+        "a": "Trò chơi sẽ hiện cách nói quen thuộc và chuyển sang phần trò chuyện. Không có điểm số, và một câu trả lời khác cũng không sao cả."
+      },
+      {
+        "q": "Trò chơi có miễn phí không, có cần đăng ký không?",
+        "a": "Có, trò chơi miễn phí, và không cần tài khoản, đăng ký hay tải về. Trò chơi chạy trên trình duyệt web của điện thoại, máy tính bảng hoặc máy tính."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Tìm từ chữ to",
+    "seoTitle": "Trò chơi tìm từ chữ to cho người sa sút trí tuệ, có bản in",
+    "h1": "Tìm từ chữ to",
+    "description": "Trò tìm từ chữ to miễn phí cho người cao tuổi và người sa sút trí tuệ. Ít từ, chữ lớn, chỉ đọc theo hàng ngang và hàng dọc. Chơi trực tuyến hoặc in ra.",
+    "short": "Chữ to, ít từ, chỉ theo hàng ngang và hàng dọc. In ra cũng được.",
+    "players": "1 hoặc 2 người",
+    "intro": "Một bảng chữ nhỏ với chữ cái lớn và chỉ vài từ, tất cả đọc theo hàng ngang hoặc hàng dọc. Chạm vào chữ cái đầu của một từ, rồi chạm vào chữ cái cuối. Thích chơi trên giấy hơn? In một bảng mới chỉ với một lần chạm.",
+    "howTo": [
+      "Chọn một chủ đề và cỡ bảng chữ.",
+      "Xem danh sách từ. Các từ đọc theo hàng ngang (từ trái sang phải) hoặc hàng dọc (từ trên xuống dưới).",
+      "Chạm vào chữ cái đầu của một từ, rồi chạm vào chữ cái cuối.",
+      "Từ đã tìm thấy được tô sáng và gạch khỏi danh sách.",
+      "Chạm “In bảng chữ này” để chơi trên giấy với bút chì hoặc bút dạ."
+    ],
+    "tips": [
+      "Chỉ vào một từ trong danh sách và cùng nhau tìm chữ cái đầu của nó.",
+      "Trên giấy, bút dạ quang dễ cầm hơn bút chì.",
+      "Trò chuyện về các từ theo chủ đề. Tên các loại trái cây dễ gợi nhớ chuyện hái quả, làm bánh hay đi chợ."
+    ],
+    "faq": [
+      {
+        "q": "Có hẹn giờ hay tính điểm không?",
+        "a": "Không. Không có đồng hồ, điểm số, bộ đếm lượt hay chuyện thua cuộc. Bạn có thể dừng bất cứ lúc nào, và dừng giữa chừng cũng là một cách kết thúc hoàn toàn ổn."
+      },
+      {
+        "q": "Tôi có thể in trò tìm từ không?",
+        "a": "Có. Chạm “In bảng chữ này” để in bảng hiện tại với chữ lớn, kèm danh sách từ bên dưới. Mỗi bảng mới đều khác nhau."
+      },
+      {
+        "q": "Trò chơi có miễn phí không, có cần đăng ký không?",
+        "a": "Có, trò chơi miễn phí, và không cần tài khoản, đăng ký hay tải về. Trò chơi chạy trên trình duyệt web của điện thoại, máy tính bảng hoặc máy tính."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Tranh tô màu",
+    "seoTitle": "Tranh tô màu cho người lớn sa sút trí tuệ (miễn phí)",
+    "h1": "Tranh tô màu",
+    "description": "Tranh tô màu đơn giản, hợp với người lớn, với các mảng lớn: chạm vào một màu, rồi chạm vào tranh. Không lem luốc, không có màu nào sai, trang nào cũng in miễn phí được.",
+    "short": "Chạm vào một màu, rồi một phần của bức tranh. In ra cũng được.",
+    "players": "1 hoặc 2 người",
+    "intro": "Các trang tranh có hình dáng lớn, đơn giản: chậu hoa, ngôi nhà, tách trà, con bướm và thuyền buồm. Chạm vào một màu, rồi chạm vào một phần của bức tranh để tô. Không có màu nào là sai.",
+    "howTo": [
+      "Chọn một trang tranh.",
+      "Chạm vào một màu. Mỗi màu đều có ghi tên.",
+      "Chạm vào một phần của bức tranh để tô màu đó.",
+      "Đổi ý lúc nào cũng được, chỉ cần tô lại.",
+      "Chạm “In trang này” để có một trang trống tô bằng bút chì màu hoặc bút dạ."
+    ],
+    "tips": [
+      "Nếu chọn màu có vẻ quá nhiều, hãy đưa ra hai màu để chọn thay vì cả bộ.",
+      "Cây màu tím hay mặt trời màu xanh đều được cả. Đây là để vui với màu sắc, không phải để tô cho đúng.",
+      "Trang in ra hợp với bút dạ hoặc bút sáp màu to, dễ cầm hơn."
+    ],
+    "faq": [
+      {
+        "q": "Có hẹn giờ hay tính điểm không?",
+        "a": "Không. Không có đồng hồ, điểm số, bộ đếm lượt hay chuyện thua cuộc. Bạn có thể dừng bất cứ lúc nào, và dừng giữa chừng cũng là một cách kết thúc hoàn toàn ổn."
+      },
+      {
+        "q": "Những trang này có quá trẻ con không?",
+        "a": "Chúng tôi vẽ những đồ vật đơn giản, êm dịu thay vì hình hoạt hình, nên các trang phù hợp với người lớn. Hình dáng lớn giúp tô màu dễ dàng mà không trẻ con."
+      },
+      {
+        "q": "Trò chơi có miễn phí không, có cần đăng ký không?",
+        "a": "Có, trò chơi miễn phí, và không cần tài khoản, đăng ký hay tải về. Trò chơi chạy trên trình duyệt web của điện thoại, máy tính bảng hoặc máy tính."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Thẻ trò chuyện",
+    "seoTitle": "Thẻ hình gợi chuyện cho người sa sút trí tuệ",
+    "h1": "Thẻ trò chuyện",
+    "description": "Thẻ hình kèm câu gợi chuyện nhẹ nhàng cho người sống chung với sa sút trí tuệ: không hỏi đố, không có câu trả lời đúng. Dùng trên màn hình hoặc in cả bộ.",
+    "short": "Thẻ hình với câu hỏi mở, nhẹ nhàng. Không hỏi đố.",
+    "players": "2 người hoặc một nhóm",
+    "intro": "Mỗi thẻ ghép một hình ảnh quen thuộc với một lời mời trò chuyện cởi mở, như “Bác thích kiểu thời tiết nào nhất?” Không có câu trả lời đúng và không có gì phải nhớ. Chọn một chủ đề hoặc trộn tất cả.",
+    "howTo": [
+      "Chọn một chủ đề, hoặc giữ “Tất cả thẻ”.",
+      "Đọc to câu hỏi và cùng nhau nhìn hình.",
+      "Lắng nghe, chia sẻ câu trả lời của chính bạn, và để câu chuyện tự nhiên lan man.",
+      "Chạm “Thẻ tiếp theo” khi bạn sẵn sàng, hoặc ở lại với một thẻ bao lâu tùy thích.",
+      "Chạm “In tất cả thẻ” để cắt ra một bộ thẻ giấy."
+    ],
+    "tips": [
+      "Bạn cũng hãy tự trả lời câu hỏi. Như vậy sẽ giống một cuộc trò chuyện hơn là một buổi phỏng vấn.",
+      "Theo câu chuyện, đừng bắt bẻ chi tiết. Nếu chi tiết thay đổi cũng không sao.",
+      "Nếu một thẻ chạm đến điều buồn, hãy ghi nhận cảm xúc đó rồi nhẹ nhàng chuyển sang thẻ khác."
+    ],
+    "faq": [
+      {
+        "q": "Vì sao không có câu hỏi “Bác có nhớ…?”",
+        "a": "Những câu hỏi kiểm tra trí nhớ có thể giống một kỳ thi và gây ngại ngùng. Những lời mời cởi mở như “Kể cho con nghe về…” giúp ai cũng có thể tham gia, dù họ nhớ được bao nhiêu."
+      },
+      {
+        "q": "Tôi có thể in các thẻ không?",
+        "a": "Có. “In tất cả thẻ” sẽ in cả bộ với chữ lớn, nhiều thẻ trên một trang, sẵn sàng để cắt."
+      },
+      {
+        "q": "Trò chơi có miễn phí không, có cần đăng ký không?",
+        "a": "Có, trò chơi miễn phí, và không cần tài khoản, đăng ký hay tải về. Trò chơi chạy trên trình duyệt web của điện thoại, máy tính bảng hoặc máy tính."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Ghép đôi ảnh",
+    "seoTitle": "Tạo trò chơi ghép đôi từ ảnh gia đình",
+    "h1": "Ghép đôi ảnh: ghép chính ảnh của bạn",
+    "description": "Biến ảnh gia đình thành một trò chơi ghép đôi nhẹ nhàng. Chọn 2 đến 6 ảnh trên thiết bị; ảnh chỉ ở trong trình duyệt của bạn và không bao giờ được tải lên.",
+    "short": "Chọn ảnh của chính bạn và ghép đôi. Không có gì được tải lên.",
+    "players": "2 người, ngồi cạnh nhau",
+    "intro": "Chọn hai đến sáu ảnh từ điện thoại, máy tính bảng hoặc máy tính, và chúng sẽ thành một trò chơi ghép đôi với hình lớn, luôn hiện rõ. Ảnh chỉ hiển thị bên trong trang này. Ảnh không được tải lên, lưu lại hay chia sẻ, và sẽ biến mất khi bạn đóng trang.",
+    "howTo": [
+      "Chạm “Chọn ảnh” và chọn hai đến sáu ảnh.",
+      "Mỗi ảnh xuất hiện hai lần. Chạm vào một ảnh, rồi chạm vào ảnh giống nó.",
+      "Trò chuyện về từng ảnh khi tìm thấy.",
+      "Khi xong, hãy đóng trang hoặc chạm “Gỡ ảnh”. Không có gì được giữ lại."
+    ],
+    "tips": [
+      "Chọn ảnh rõ nét về những điều vui vẻ, thân quen: thú cưng, khu vườn, một nơi yêu thích, ngày cưới.",
+      "Ảnh về nơi chốn và đồ vật có thể dễ hơn ảnh chân dung, và tránh được áp lực phải gọi tên người trong ảnh.",
+      "Không nên chọn ảnh những người đã khuất nếu có thể gợi nỗi buồn đột ngột, trừ khi bạn biết những ảnh đó mang lại sự an ủi."
+    ],
+    "faq": [
+      {
+        "q": "Ảnh của tôi có bị tải lên đâu không?",
+        "a": "Không. Trang đọc những ảnh bạn chọn ngay trong trình duyệt và hiển thị trên màn hình của bạn. Ảnh không được gửi cho chúng tôi hay bất kỳ ai khác, và sẽ mất đi khi bạn đóng hoặc tải lại trang."
+      },
+      {
+        "q": "Có hẹn giờ hay tính điểm không?",
+        "a": "Không. Không có đồng hồ, điểm số, bộ đếm lượt hay chuyện thua cuộc. Bạn có thể dừng bất cứ lúc nào, và dừng giữa chừng cũng là một cách kết thúc hoàn toàn ổn."
+      },
+      {
+        "q": "Tôi có thể lưu trò chơi cho lần sau không?",
+        "a": "Trên trình duyệt thì không, và đó là chủ ý, để không có gì riêng tư bị lưu lại. Ứng dụng Golden Moments miễn phí cho iPhone và iPad có thể giữ bản sao những ảnh đã chọn trên thiết bị của bạn."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Lô tô hình ảnh",
+    "seoTitle": "Lô tô hình ảnh cho người cao tuổi sa sút trí tuệ, có bản in",
+    "h1": "Lô tô hình ảnh cho nhóm",
+    "description": "Lô tô hình ảnh in miễn phí cho viện dưỡng lão và nhóm người cao tuổi, kèm người xướng hình lớn trên màn hình. Hình to có chữ, 9 hoặc 16 ô, không cần biết đọc.",
+    "short": "Phiếu lô tô hình ảnh để in và người xướng hình trên màn hình lớn cho nhóm.",
+    "players": "Một nhóm từ 2 đến 30 người",
+    "intro": "Trò lô tô quen thuộc với hình ảnh thay cho con số, nên không ai phải đọc chữ nhỏ. In một bộ phiếu, mỗi phiếu một khác, rồi dùng người xướng hình trên màn hình để hiện từng hình thật lớn trên TV, máy tính xách tay hoặc máy tính bảng.",
+    "howTo": [
+      "Chọn 9 hoặc 16 ô mỗi phiếu và số người chơi.",
+      "Chạm “In phiếu”. Mỗi phiếu đều khác nhau.",
+      "Mở người xướng hình trên màn hình lớn. Chạm “Hình tiếp theo” để hiện từng hình kèm tên.",
+      "Người chơi đặt đồng xu, cúc áo hoặc vật đánh dấu lên hình giống vậy trên phiếu của mình.",
+      "Ai kín một hàng, hoặc cả phiếu, đều được cả nhóm vỗ tay. Cách chơi này không có ai thua: cứ chơi tiếp đến khi ai cũng có một hàng."
+    ],
+    "tips": [
+      "Dùng vật đánh dấu lớn như quân cờ hoặc nắp chai. Cúc áo nhỏ có thể khó nhặt.",
+      "Gọi tên hình và nói đôi điều về nó: “Chiếc thuyền buồm. Ai đã từng đi thuyền rồi nhỉ?”",
+      "Xếp những người nhìn kém ngồi gần màn hình nhất, và để người hỗ trợ ngồi cạnh người chơi cần giúp.",
+      "Chín ô là đủ với hầu hết các nhóm. Mỗi buổi chơi khoảng 20 đến 30 phút."
+    ],
+    "faq": [
+      {
+        "q": "Tổ chức lô tô hình ảnh ở viện dưỡng lão như thế nào?",
+        "a": "In mỗi người một phiếu, mở người xướng hình trên màn hình lớn nhất bạn có, và xướng hình thật chậm, gọi tên từng hình. Chơi đến khi ai cũng có một hàng, để không ai bị bỏ lại."
+      },
+      {
+        "q": "In có miễn phí không?",
+        "a": "Có. In bao nhiêu phiếu tùy nhu cầu, bao nhiêu lần tùy thích, cho cá nhân hay cho nhóm."
+      },
+      {
+        "q": "Người không đọc chữ có chơi được không?",
+        "a": "Được. Mỗi ô là một hình lớn, có ghi tên bên dưới cho ai thích đọc chữ."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Hít thở thư thái",
+    "seoTitle": "Phút hít thở thư thái cho người cao tuổi và người chăm sóc",
+    "h1": "Phút hít thở thư thái",
+    "description": "Một phút hít thở chậm rãi, yên tĩnh để cùng chia sẻ: một vòng tròn nhẹ nhàng nở ra và thu lại trong sáu nhịp thở. Bạn tự bắt đầu, và có thể dừng bất cứ lúc nào.",
+    "short": "Một vòng tròn chậm rãi để hít thở theo. Bắt đầu và dừng tùy ý.",
+    "players": "1 hoặc 2 người",
+    "intro": "Đôi khi hoạt động tốt nhất là một phút lặng yên. Chạm “Bắt đầu”, rồi hít vào khi vòng tròn nở ra và thở ra khi nó thu lại. Chọn nhịp chậm hơn hoặc nhanh hơn. Đây không phải cách điều trị, chỉ là một khoảnh khắc bình yên để ở bên nhau.",
+    "howTo": [
+      "Ngồi thoải mái cạnh nhau.",
+      "Chọn nhịp: chậm hoặc nhẹ nhàng.",
+      "Chạm “Bắt đầu”. Hít vào khi vòng tròn nở ra, và thở ra khi nó thu lại.",
+      "Vòng tròn tự dừng sau sáu nhịp thở, hoặc chạm “Dừng” bất cứ lúc nào bạn muốn."
+    ],
+    "tips": [
+      "Nắm tay hoặc đặt tay lên cánh tay người thân nếu họ thấy thoải mái.",
+      "Đừng bao giờ ép. Nếu người thân chỉ muốn ngồi xem thì cũng không sao.",
+      "Nếu ai đó có vấn đề về hô hấp, hãy cứ thở bình thường và chỉ ngắm vòng tròn. Hãy hỏi bác sĩ nếu có lo lắng về hô hấp."
+    ],
+    "faq": [
+      {
+        "q": "Đây có phải bài tập thở chữa bệnh không?",
+        "a": "Không. Đây chỉ là một phút dừng lại đơn giản, tùy chọn, để thấy bình yên và có người bên cạnh. Đây không phải cách điều trị lo âu hay bất kỳ bệnh nào. Hãy hỏi ý kiến bác sĩ về các vấn đề sức khỏe."
+      },
+      {
+        "q": "Vòng tròn có tự chuyển động khi tôi chưa bắt đầu không?",
+        "a": "Không. Không có gì chuyển động cho đến khi bạn chạm Bắt đầu, và vòng tròn dừng sau sáu nhịp thở hoặc khi bạn chạm Dừng. Nếu thiết bị của bạn đã bật giảm chuyển động, chữ sẽ thay đổi mà vòng tròn không nở ra."
+      },
+      {
+        "q": "Trò chơi có miễn phí không, có cần đăng ký không?",
+        "a": "Có, hoạt động này miễn phí, và không cần tài khoản, đăng ký hay tải về. Hoạt động chạy trên trình duyệt web của điện thoại, máy tính bảng hoặc máy tính."
+      }
+    ]
+  }
+}

@@ -108,7 +108,7 @@ textarea {
 
 .skip-link {
   position: absolute;
-  left: var(--space-md);
+  inset-inline-start: var(--space-md);
   top: -100px;
   z-index: 100;
   background: var(--gm-on-surface);
@@ -191,4 +191,39 @@ textarea {
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
+}
+
+/* Scripts without a bundled font use the platform's own fonts. */
+:root:lang(ar) {
+  --font-sans: 'Geeza Pro', 'Noto Naskh Arabic', 'Segoe UI', Tahoma, sans-serif;
+  --font-display: var(--font-sans);
+}
+:root:lang(hi) {
+  --font-sans: 'Kohinoor Devanagari', 'Noto Sans Devanagari', 'Nirmala UI', system-ui, sans-serif;
+  --font-display: var(--font-sans);
+}
+:root:lang(th) {
+  --font-sans: 'Thonburi', 'Noto Sans Thai', 'Leelawadee UI', system-ui, sans-serif;
+  --font-display: var(--font-sans);
+}
+:root:lang(ja) {
+  --font-sans: 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', 'Noto Sans JP', Meiryo, sans-serif;
+  --font-display: var(--font-sans);
+}
+:root:lang(ko) {
+  --font-sans: 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+  --font-display: var(--font-sans);
+}
+:root:lang(zh-Hans) {
+  --font-sans: 'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;
+  --font-display: var(--font-sans);
+}
+:root:lang(zh-Hant) {
+  --font-sans: 'PingFang TC', 'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+  --font-display: var(--font-sans);
+}
+
+/* Arrows point the way the text reads. */
+[dir='rtl'] svg[data-icon='arrow'] {
+  transform: scaleX(-1);
 }

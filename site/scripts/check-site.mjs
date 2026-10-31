@@ -6,6 +6,11 @@ import { join, relative } from 'node:path';
 
 const DIST = new URL('../dist/', import.meta.url).pathname;
 const SITE = 'https://dementiaactivities.games';
+/** Display width: Chinese, Japanese and Korean characters count double and combining marks
+    (Devanagari and Thai vowel signs, accents) count nothing, as in search results. */
+const width = (s) => [...s].reduce((n, ch) => n + (/\p{M}/u.test(ch) ? 0 : /[\u1100-\u115f\u2e80-\ua4cf\uac00-\ud7a3\uf900-\ufaff\ufe30-\ufe4f\uff00-\uff60\uffe0-\uffe6]/.test(ch) ? 2 : 1), 0);
+/** URL prefixes of translated languages; keep in step with src/i18n/locales.ts. */
+const LOCALE_PREFIXES = new Set(['es', 'pt-br', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', 'ar', 'hi', 'ja', 'ko', 'zh-hans', 'zh-hant', 'vi', 'id', 'th']);
 
 /** Phrases that would make a medical or performance claim. Matched case-insensitively. */
 const BANNED = [
@@ -25,6 +30,37 @@ const errors = [];
 const warnings = [];
 const err = (file, msg) => errors.push(`${file}: ${msg}`);
 const warn = (file, msg) => warnings.push(`${file}: ${msg}`);
+
+// Photo pairs handles family photos, so every language copy must load no
+// analytics and carry the strict second Content-Security-Policy from _headers.
+// _headers rules use :placeholders (one path segment) and * (anything).
+const headerRules = existsSync(join(DIST, '_headers'))
+  ? readFileSync(join(DIST, '_headers'), 'utf8')
+      .split(/\n\s*\n/)
+      .map((block) => block.split('\n').filter((l) => l.trim() && !l.trim().startsWith('#')))
+      .filter((lines) => lines.length && lines[0].startsWith('/'))
+      .map(([route, ...rest]) => ({
+        pattern: new RegExp(`^${route.trim().replace(/[.+?^${}()|[\]\\]/g, '\\$&').replace(/:\w+/g, '[^/]+').replace(/\*/g, '.*')}$`),
+        headers: rest.join('\n'),
+      }))
+  : [];
+const strictPolicy = (urlPath) =>
+  headerRules.some((r) => r.pattern.test(urlPath) && /connect-src 'self';/.test(r.headers) && !/google/.test(r.headers));
+
+// Words a translation must not use for people living with dementia ("patients"):
+// errors where a language has been cleaned, warnings where it has not.
+const PATIENT_WORDS = {
+  ar: { re: /مرضى/, fail: true },
+  vi: { re: /người bệnh|bệnh nhân/, fail: true },
+  th: { re: /ผู้ป่วย/, fail: true },
+  'zh-hans': { re: /患者|病人/, fail: true },
+  'zh-hant': { re: /患者|病人/, fail: false },
+  ja: { re: /患者/, fail: false },
+  ko: { re: /환자/, fail: false },
+  hi: { re: /मरीज/, fail: false },
+  ru: { re: /пациент/i, fail: false },
+  uk: { re: /пацієнт/i, fail: false },
+};
 
 function walk(dir) {
   return readdirSync(dir).flatMap((name) => {
@@ -66,6 +102,7 @@ function text(html) {
 const titles = new Map();
 const descriptions = new Map();
 const indexable = [];
+const noindexed = [];
 
 for (const file of htmlFiles) {
   const rel = relative(DIST, file);
@@ -75,12 +112,14 @@ for (const file of htmlFiles) {
 
   const title = html.match(/<title>([^<]*)<\/title>/)?.[1] ?? '';
   if (!title) err(rel, 'missing <title>');
-  if (title.length > 70) warn(rel, `title is ${title.length} chars: "${title}"`);
-  if (!is404) titles.set(title, [...(titles.get(title) ?? []), rel]);
+  if (width(title) > 70) warn(rel, `title is ${width(title)} chars wide: "${title}"`);
+  // Duplicates matter within one language; the same words in two languages are fine.
+  const langKey = (rel.match(/^([a-z]{2}(?:-[a-z]{2,4})?)\//)?.[1] ?? '') + '|';
+  if (!is404) titles.set(langKey + title, [...(titles.get(langKey + title) ?? []), rel]);
 
   const desc = html.match(/<meta name="description" content="([^"]*)"/)?.[1] ?? '';
-  if (desc.length < 70 || desc.length > 170) err(rel, `meta description is ${desc.length} chars`);
-  if (!is404) descriptions.set(desc, [...(descriptions.get(desc) ?? []), rel]);
+  if (width(desc) < 70 || width(desc) > 170) err(rel, `meta description is ${width(desc)} chars wide`);
+  if (!is404) descriptions.set(langKey + desc, [...(descriptions.get(langKey + desc) ?? []), rel]);
 
   const h1s = html.match(/<h1[\s>]/g) ?? [];
   if (h1s.length !== 1) err(rel, `has ${h1s.length} <h1> elements`);
@@ -89,6 +128,18 @@ for (const file of htmlFiles) {
   if (!is404) {
     if (canonical !== `${SITE}${path}`) err(rel, `canonical ${canonical} should be ${SITE}${path}`);
     if (!/noindex/.test(html)) indexable.push(`${SITE}${path}`);
+    else noindexed.push(`${SITE}${path}`);
+    // A page that asks not to be indexed must not advertise language alternates.
+    if (/noindex/.test(html) && /rel="alternate" hreflang=/.test(html)) err(rel, 'noindex page lists hreflang alternates');
+
+    if (/(^|\/)games\/photo-pairs\/$/.test(path)) {
+      if (/googletagmanager\.com\/gtag\/js/.test(html)) err(rel, 'Photo pairs loads Google Analytics');
+      if (!strictPolicy(path)) err(rel, 'Photo pairs has no strict Content-Security-Policy rule in _headers');
+    }
+
+    const prefix = path.match(/^\/([a-z]{2}(?:-[a-z]{2,4})?)\//)?.[1];
+    const patient = prefix && PATIENT_WORDS[prefix];
+    if (patient && patient.re.test(text(html))) (patient.fail ? err : warn)(rel, 'uses "patients" wording for people living with dementia');
   }
 
   const og = html.match(/<meta property="og:image" content="([^"]*)"/)?.[1];
@@ -104,7 +155,13 @@ for (const file of htmlFiles) {
     }
   }
 
-  if (!/<html lang="en-US">/.test(html)) err(rel, 'missing lang attribute');
+  const htmlTag = html.match(/<html lang="([^"]+)" dir="(ltr|rtl)">/);
+  const prefix = rel.match(/^([a-z]{2}(?:-[a-z]{2,4})?)\//)?.[1];
+  const translated = prefix && prefix.length >= 2 && LOCALE_PREFIXES.has(prefix);
+  if (!htmlTag) err(rel, 'missing lang or dir attribute');
+  else if (!translated && htmlTag[1] !== 'en-US') err(rel, `English page has lang="${htmlTag[1]}"`);
+  else if (translated && htmlTag[1].toLowerCase() !== prefix) err(rel, `lang="${htmlTag[1]}" does not match /${prefix}/`);
+  else if ((htmlTag[2] === 'rtl') !== (prefix === 'ar')) err(rel, `dir="${htmlTag[2]}" is wrong for this language`);
   // The CSP only allows hashed <style> blocks, so a style attribute would be blocked.
   if (/\sstyle="/.test(html)) err(rel, 'inline style attribute (blocked by the CSP); use a class');
 
@@ -140,7 +197,7 @@ for (const file of htmlFiles) {
   }
 }
 
-for (const [title, pages] of titles) if (pages.length > 1) err(pages.join(', '), `duplicate title "${title}"`);
+for (const [key, pages] of titles) if (pages.length > 1) err(pages.join(', '), `duplicate title "${key.split('|').slice(1).join('|')}"`);
 for (const [desc, pages] of descriptions) if (pages.length > 1) err(pages.join(', '), `duplicate description`);
 
 const sitemapFiles = files.filter((f) => /sitemap-\d+\.xml$/.test(f));
@@ -148,6 +205,10 @@ const sitemap = sitemapFiles.map((f) => readFileSync(f, 'utf8')).join('\n');
 for (const url of indexable) if (!sitemap.includes(`<loc>${url}</loc>`)) err('sitemap', `missing ${url}`);
 const single = existsSync(join(DIST, 'sitemap.xml')) ? readFileSync(join(DIST, 'sitemap.xml'), 'utf8') : '';
 for (const url of indexable) if (!single.includes(`<loc>${url}</loc>`)) err('sitemap.xml', `missing ${url}`);
+for (const url of noindexed) {
+  if (single.includes(`<loc>${url}</loc>`)) err('sitemap.xml', `lists a noindex page: ${url}`);
+  if (sitemap.includes(`<loc>${url}</loc>`)) err('sitemap-0.xml', `lists a noindex page: ${url}`);
+}
 for (const m of single.matchAll(/<loc>([^<]+)<\/loc>/g)) {
   if (!resolves(m[1].replace(SITE, ''))) err('sitemap.xml', `lists a page that does not exist: ${m[1]}`);
 }

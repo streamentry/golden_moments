@@ -34,7 +34,7 @@
   border-top: 1px solid var(--gm-surface-sunken);
 }
 .game__bar .btn--quiet:last-child {
-  margin-left: auto;
+  margin-inline-start: auto;
 }
 /* One optional question for the person helping, after play has begun. */
 .game__feedback {
@@ -56,7 +56,7 @@
 .game__done {
   background: var(--gm-surface);
   border: 1px solid var(--gm-outline);
-  border-left: 6px solid var(--gm-primary);
+  border-inline-start: 6px solid var(--gm-primary);
   border-radius: var(--radius-lg);
   padding: var(--space-lg);
   margin-block: var(--space-md);
@@ -192,7 +192,7 @@
 .tile__badge {
   position: absolute;
   top: -10px;
-  right: -10px;
+  inset-inline-end: -10px;
   display: grid;
   place-items: center;
   width: 38px;
@@ -253,7 +253,7 @@
   border: 2px dashed var(--gm-outline);
   border-radius: var(--radius-lg);
   background: var(--gm-background);
-  text-align: left;
+  text-align: start;
   cursor: pointer;
 }
 .basket:hover,
@@ -294,6 +294,8 @@
   box-shadow: var(--shadow-raised);
 }
 .puzzle {
+  /* Pieces are slices of a picture, so the board keeps the picture's own left and right in every language. */
+  direction: ltr;
   display: grid;
   grid-template-columns: repeat(var(--size), 1fr);
   gap: 6px;
@@ -321,7 +323,7 @@
 .piece--correct::after {
   content: '';
   position: absolute;
-  right: 6px;
+  inset-inline-end: 6px;
   bottom: 6px;
   width: 22px;
   height: 22px;
@@ -477,7 +479,7 @@
   font-weight: 700;
   font-size: var(--text-sm);
   cursor: pointer;
-  text-align: left;
+  text-align: start;
 }
 .swatch__dot {
   width: 26px;
@@ -778,39 +780,44 @@
 .breathe__circle[data-phase='hold'] {
   transition-duration: 1s;
 }
-.swatch__dot[data-paint='Red'] {
+.swatch__dot[data-paint='red'] {
   background: #C8473A;
 }
-.swatch__dot[data-paint='Orange'] {
+.swatch__dot[data-paint='orange'] {
   background: #E07B28;
 }
-.swatch__dot[data-paint='Yellow'] {
+.swatch__dot[data-paint='yellow'] {
   background: #F2CC3D;
 }
-.swatch__dot[data-paint='Green'] {
+.swatch__dot[data-paint='green'] {
   background: #4E8A3E;
 }
-.swatch__dot[data-paint='Blue'] {
+.swatch__dot[data-paint='blue'] {
   background: #2F6F9E;
 }
-.swatch__dot[data-paint='Purple'] {
+.swatch__dot[data-paint='purple'] {
   background: #8A5A9E;
 }
-.swatch__dot[data-paint='Pink'] {
+.swatch__dot[data-paint='pink'] {
   background: #E58FA0;
 }
-.swatch__dot[data-paint='Brown'] {
+.swatch__dot[data-paint='brown'] {
   background: #8A5A2B;
 }
-.swatch__dot[data-paint='Sky blue'] {
+.swatch__dot[data-paint='sky-blue'] {
   background: #BFD9E6;
 }
-.swatch__dot[data-paint='Cream'] {
+.swatch__dot[data-paint='cream'] {
   background: #F9E7C3;
 }
-.swatch__dot[data-paint='Gray'] {
+.swatch__dot[data-paint='gray'] {
   background: #8C8C8C;
 }
-.swatch__dot[data-paint='White'] {
+.swatch__dot[data-paint='white'] {
   background: #FFFFFF;
+}
+/* Arrows point the way the page reads. */
+:where([dir='rtl']) .game svg[data-icon='arrow'],
+:where([dir='rtl']) .game svg[data-icon='back'] {
+  transform: scaleX(-1);
 }

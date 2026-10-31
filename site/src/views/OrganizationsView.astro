@@ -1,0 +1,40 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../lib/site';
+import { localizeHtml } from '../i18n/locales';
+import { PUBLISHED, fill, ui } from '../i18n/ui';
+import { localePath } from '../i18n/locales';
+import { localizedGames } from '../i18n/games';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const p = ui(lang).pages.organizations;
+const games = localizedGames(lang);
+const printables = games.filter((g) => g.printable);
+const values = { name: SITE.name, domain: SITE.domain, email: SITE.supportEmail, count: games.length };
+const html = (s: string) => localizeHtml(lang, fill(s, values));
+---
+<PageLayout title={p.title} seoTitle={p.seoTitle} description={p.description} path="/for-organizations/" crumb={p.crumb} lede={p.lede} lang={lang} available={PUBLISHED.map((l) => l.code)}>
+  <h2>{p.useTitle}</h2>
+  <ul>
+    <li set:html={html(p.gamesItemHtml)} />
+    <li>
+      <strong>{fill(p.printablesLabel, { count: printables.length })}</strong>{' '}
+      {printables.map((g, i) => (
+        <>
+          <a href={localePath(lang, `/games/${g.slug}/`)}>{g.name}</a>{i < printables.length - 1 ? ', ' : '. '}
+        </>
+      ))}
+      {p.printablesAfter}
+    </li>
+    <Fragment set:html={html(p.moreItemsHtml)} />
+  </ul>
+  <Fragment set:html={html(p.restHtml)} />
+  <h3>{p.shortTitle}</h3>
+  <blockquote class="copy-text"><p>{fill(p.shortText, values)}</p></blockquote>
+  <h3>{p.longTitle}</h3>
+  <blockquote class="copy-text"><p>{fill(p.longText, values)}</p></blockquote>
+  <Fragment set:html={html(p.linksHtml)} />
+</PageLayout>

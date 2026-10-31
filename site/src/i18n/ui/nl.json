@@ -1,0 +1,532 @@
+{
+  "common": {
+    "skipLink": "Direct naar de inhoud",
+    "brandName": "Golden Moments",
+    "brandTag": "Activiteiten bij dementie",
+    "homeLabel": "Golden Moments, startpagina",
+    "mainNav": "Hoofdmenu",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: grote, vriendelijke afbeeldingen van een theekopje, een zonnebloem en een hond",
+    "languages": "Taal",
+    "englishOnly": "(Engels)",
+    "machineTranslated": "Deze pagina is automatisch vertaald en nog niet nagekeken door iemand met Nederlands als moedertaal.",
+    "readOriginal": "Lees het Engelse origineel",
+    "nav": {
+      "games": "Spelletjes",
+      "activities": "Activiteiten",
+      "caregiving": "Mantelzorg",
+      "brainHealth": "Hersengezondheid"
+    },
+    "faqTitle": "Vragen en antwoorden",
+    "breadcrumb": "Kruimelpad",
+    "home": "Start",
+    "lastUpdated": "Laatst bijgewerkt",
+    "topics": "Onderwerpen"
+  },
+  "footer": {
+    "play": "Spelen",
+    "picturePairs": "Paren zoeken",
+    "conversationCards": "Gesprekskaarten",
+    "pictureBingo": "Plaatjesbingo",
+    "allGames": "Alle spelletjes",
+    "activityIdeas": "Ideeën voor activiteiten",
+    "ideas101": "101 ideeën voor activiteiten",
+    "lateStage": "Activiteiten in de latere fase",
+    "printable": "Activiteiten om te printen",
+    "allActivities": "Alle activiteiten",
+    "forCaregivers": "Voor mantelzorgers",
+    "playTogether": "Zo speel je samen",
+    "selfCare": "Goed voor jezelf zorgen",
+    "brainHealth": "Onderzoek naar hersengezondheid",
+    "faq": "Vragen en antwoorden",
+    "about": "Over ons",
+    "approach": "Onze aanpak",
+    "howWeWrite": "Hoe wij schrijven",
+    "organizations": "Voor organisaties",
+    "app": "De Golden Moments-app",
+    "appHelp": "Hulp bij de app",
+    "support": "Hulp",
+    "legal": "Juridisch",
+    "sitePrivacy": "Privacy op de website",
+    "appPrivacy": "Privacybeleid van de app",
+    "privacyChoices": "Privacykeuzes",
+    "terms": "Voorwaarden en licentie van de app",
+    "safety": "Veiligheid en bedoeld gebruik",
+    "accessibility": "Toegankelijkheid",
+    "healthNotice": "Over gezondheidsinformatie",
+    "allLegal": "Alle juridische informatie",
+    "note": "Golden Moments biedt eenvoudige activiteiten om samen van te genieten. Het is geen medisch advies, geen test en geen behandeling, en het stelt geen diagnose, meet niets en geeft niemand een score. Heb je vragen over gezondheid, praat dan met een arts. Bel in een noodgeval 112.",
+    "publisher": "Uitgegeven door Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Spelletjes en activiteiten bij dementie | Golden Moments",
+    "description": "Gratis, rustige spelletjes en ideeën voor activiteiten voor mensen met dementie of alzheimer en hun mantelzorgers. Zonder aanmelding, klok of score.",
+    "eyebrow": "Gratis · Zonder aanmelding · Geen klok of score",
+    "h1": "Rustige spelletjes en activiteiten voor mensen met dementie",
+    "lede": "Eenvoudige plaatjesspelletjes, vertrouwde foto’s en activiteiten om samen van te genieten – in je eigen tempo.",
+    "playGame": "Speel een spelletje",
+    "findIdeas": "Ideeën voor activiteiten",
+    "facts": [
+      "Werkt op telefoon, tablet en computer",
+      "Grote plaatjes die zichtbaar blijven",
+      "Stop wanneer je wilt; niets kan misgaan"
+    ],
+    "albumNote": "“Theekopje: twee plaatjes, bij elkaar.”",
+    "gamesEyebrow": "Speel in je browser",
+    "gamesTitle": "Spelletjes die je meteen kunt spelen",
+    "gamesLede": "Elk spel is rustig, volwassen en snel gestart. Kies er een, ga naast elkaar zitten en tik om de beurt.",
+    "seeAllGames": "Bekijk alle {count} spelletjes",
+    "howTitle": "Zo werkt het",
+    "steps": [
+      {
+        "title": "Kies iets vertrouwds",
+        "text": "Plaatjes van theekopjes, tuinen, huisdieren en zeilboten. Je hoeft eerst niets te lezen of regels te leren."
+      },
+      {
+        "title": "Ga naast elkaar zitten",
+        "text": "Laat je naaste tikken. Praat over de plaatjes. Wordt er een ander plaatje gekozen, dan wacht het spel gewoon op de volgende tik."
+      },
+      {
+        "title": "Stop zolang het fijn is",
+        "text": "Eén spelletje is al een complete activiteit. “Genoeg voor nu” staat altijd in beeld."
+      }
+    ],
+    "stageEyebrow": "Ook zonder scherm",
+    "stageTitle": "Ideeën voor activiteiten in elke fase",
+    "stageLede": "Muziek, alledaagse klusjes, herinneringen ophalen en rustige momenten voor de zintuigen, aangepast aan wat nu prettig voelt.",
+    "ideas101": "101 ideeën voor activiteiten",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Vroege fase",
+        "text": "Blijf doen waar je naaste van houdt, met kleine aanpassingen: hobby’s, uitstapjes, woordspelletjes en samen plannen maken.",
+        "label": "Ideeën voor de vroege fase"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Middenfase",
+        "text": "Eenvoudige, vertrouwde klusjes in kleine stapjes: vouwen, sorteren, muziek, plaatjesspelletjes en korte wandelingen.",
+        "label": "Ideeën voor de middenfase"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Latere fase",
+        "text": "Troost en contact via aanraking, geluid en beeld: handen verzorgen, geliefde liedjes, foto’s en gewoon samen zijn.",
+        "label": "Ideeën voor de latere fase"
+      }
+    ],
+    "specificHtml": "Op zoek naar iets specifieks? Bekijk <a href=\"/activities/alzheimers/\">activiteiten en spelletjes bij alzheimer</a>, <a href=\"/activities/memory-games/\">rustige memoryspelletjes</a>, <a href=\"/activities/trivia/\">een makkelijke quiz</a> of <a href=\"/activities/puzzles/\">puzzels</a>.",
+    "approachEyebrow": "Onze aanpak",
+    "approachTitle": "Samen iets doen, geen geheugentest",
+    "approachLede": "Veel “hersenspelletjes” draaien om snelheid, scores en reeksen. Voor iemand met dementie kan dat voelen als een examen. Wij maakten precies het omgekeerde.",
+    "approachLink": "Waarom we het zo ontwerpen",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Niets kan misgaan",
+        "text": "Geen klok, score, levens of verliezen. Een ander plaatje is een pauze, geen fout."
+      },
+      {
+        "icon": "eye",
+        "title": "Plaatjes blijven zichtbaar",
+        "text": "Herkennen in plaats van onthouden. Paren zoeken begint met de plaatjes open, dus er valt niets te onthouden."
+      },
+      {
+        "icon": "people",
+        "title": "Volwassen en waardig",
+        "text": "Warme, gewone woorden en echte afbeeldingen. Nooit tekenfilmpjes of kindertaal."
+      },
+      {
+        "icon": "shield",
+        "title": "Privacy vanaf het begin",
+        "text": "Geen accounts of advertenties. Je foto’s verlaten je apparaat nooit."
+      }
+    ],
+    "guidesEyebrow": "Voor mantelzorgers",
+    "guidesTitle": "Praktische gidsen voor de zorg van elke dag",
+    "allCaregiving": "Alle gidsen over mantelzorg",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Samen spelletjes spelen",
+        "text": "Voorbereiden, het juiste tempo en wat je doet als een spel niet meer leuk is."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Als je naaste nee zegt tegen een activiteit",
+        "text": "Veelvoorkomende redenen om te weigeren, en vriendelijke manieren om het later opnieuw te proberen."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Een tablet instellen",
+        "text": "Grotere tekst, minder onderbrekingen en één eenvoudig beginscherm."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Gratis activiteiten om te printen",
+        "text": "Woordzoekers in grote letters, kleurplaten, bingo en gesprekskaarten."
+      }
+    ],
+    "researchTitle": "Hersengezondheid: wat het onderzoek echt zegt",
+    "researchText": "Is dementie te voorkomen? Helpen hersenspelletjes? En hoe zit het met vasten, voeding, slaap en gehoor? Heldere antwoorden met bronnen, ook waar het bewijs zwak is.",
+    "researchLink": "Lees de gidsen over onderzoek",
+    "appEyebrow": "Ook als app",
+    "appTitle": "Golden Moments op iPhone, iPad en Android",
+    "appText": "De gratis app werkt offline en kan familiefoto’s gebruiken die jij kiest, bewaard als kopie op je apparaat. Hetzelfde rustige ontwerp: vier grote kaartjes, geen klok, geen score.",
+    "aboutApp": "Over de app",
+    "faq": [
+      {
+        "q": "Wat zijn goede spelletjes voor mensen met dementie?",
+        "a": "Goede spelletjes zijn eenvoudig, vertrouwd en zonder druk: grote plaatjes bij elkaar zoeken, sorteren, makkelijke legpuzzels, bekende spreekwoorden afmaken, kleuren, plaatjesbingo en gesprekskaarten. De beste keuze is wat je naaste vandaag leuk vindt. Vermijd klokken, scores en alles wat als een test voelt."
+      },
+      {
+        "q": "Zijn deze spelletjes voor mensen met dementie gratis?",
+        "a": "Ja. Alle spelletjes en printbare activiteiten op Golden Moments zijn gratis, zonder account, aanmelding of download. De spelletjes werken in de webbrowser op een telefoon, tablet of computer."
+      },
+      {
+        "q": "Voorkomen hersenspelletjes dementie?",
+        "a": "Van geen enkel spel is aangetoond dat het dementie voorkomt, en Golden Moments beweert niet dat het iets behandelt of voorkomt. Onze spelletjes zijn bedoeld voor plezier en tijd samen. In ons deel over hersengezondheid lees je wat onderzoek wel en niet laat zien."
+      },
+      {
+        "q": "Zijn deze spelletjes geschikt voor iemand met alzheimer?",
+        "a": "Ja. De ziekte van Alzheimer is de meest voorkomende oorzaak van dementie, en de spelletjes zijn daarop gemaakt: grote plaatjes die zichtbaar blijven, weinig keuzes en niets om te onthouden of fout te doen. Bij elkaar zoeken, sorteren en bekende spreekwoorden afmaken leunen op wat iemand al heel lang weet, niet op iets nieuws leren."
+      },
+      {
+        "q": "Kan iemand in een latere fase van dementie deze activiteiten doen?",
+        "a": "Vaak wel, met iemand ernaast. Begin met Hetzelfde plaatje met twee plaatjes, Paren zoeken met vier kaartjes, een kleurplaat of een rustige ademhalingspauze. Houd het kort, volg je naaste en stop als het genoeg is."
+      },
+      {
+        "q": "Blijven mijn gegevens privé?",
+        "a": "De site heeft geen accounts en geen advertenties. We gebruiken Google Analytics om te zien welke pagina’s worden bezocht. Foto’s die je kiest voor Fotoparen worden alleen in je browser getoond en nooit geüpload."
+      },
+      {
+        "q": "Wie maakt Golden Moments?",
+        "a": "Golden Moments is een klein team dat rustige, volwassen plaatjesactiviteiten maakt voor families en mantelzorgers, op het web en als gratis app. Wij zijn geen zorgverleners, en niets hier is medisch advies."
+      }
+    ]
+  },
+  "stage": {
+    "early": "vroege",
+    "middle": "middelste",
+    "late": "latere",
+    "hintOne": "Past vaak in de {list} fase",
+    "hintMany": "Past vaak in de {list} fasen",
+    "labelEarly": "Vroege fase",
+    "labelMiddle": "Middenfase",
+    "labelLate": "Latere fase"
+  },
+  "cards": {
+    "aboutGame": "Over dit spel",
+    "printable": "Om te printen",
+    "play": "Naar {name} →",
+    "readGuide": "Lees de gids"
+  },
+  "playCta": {
+    "title": "Zin in een rustig spelletje?",
+    "text": "Grote plaatjes, geen klok, geen score en nergens voor aanmelden. Speel samen in je browser.",
+    "play": "Speel een spelletje",
+    "all": "Bekijk alle spelletjes",
+    "aria": "Speel een spelletje"
+  },
+  "appCta": {
+    "title": "Neem deze spelletjes mee",
+    "text": "De gratis Golden Moments-app voor iPhone, iPad en Android: grote plaatjes, spelletjes met je eigen familiefoto’s en plaatjespakketten die zonder wifi werken. Geen account, advertenties, klok of score.",
+    "appStore": "Download in de App Store",
+    "googlePlay": "Ontdek het op Google Play",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Over de app",
+    "aria": "Download de app"
+  },
+  "sections": {
+    "activities": {
+      "label": "Activiteiten",
+      "title": "Activiteiten voor mensen met dementie",
+      "seo": "Activiteiten bij dementie: ideeën per fase",
+      "description": "Ideeën voor activiteiten en dagbesteding bij dementie, voor elke fase: muziek, herinneringen, klusjes, zintuigen, knutselen, buiten zijn en gratis printwerk.",
+      "lede": "Een zinvolle activiteit is alles wat troost, houvast of een moment van contact geeft. Begin met wat je naaste altijd graag deed, en pas het aan op vandaag."
+    },
+    "caregiving": {
+      "label": "Mantelzorg",
+      "title": "Gidsen voor mantelzorgers",
+      "seo": "Mantelzorg bij dementie: praktische hulp voor elke dag",
+      "description": "Praktische, vriendelijke gidsen voor mantelzorgers bij dementie: samen spelen, praten, weigeren, onrust aan het eind van de dag, tablets, apps en zelfzorg.",
+      "lede": "Heldere, praktische hulp bij de dagelijkse momenten van zorgen voor iemand met dementie, en bij het zorgen voor jezelf."
+    },
+    "brain-health": {
+      "label": "Hersengezondheid",
+      "title": "Hersengezondheid: wat het onderzoek zegt",
+      "seo": "Hersengezondheid en dementierisico: wat onderzoek zegt",
+      "description": "Is dementie te voorkomen? Eerlijke gidsen met bronnen over risicofactoren, hersenspelletjes, vasten, voeding, bewegen, slaap, gehoor en vroege signalen.",
+      "lede": "Wat grote studies echt laten zien over het verlagen van het risico op dementie, helder uitgelegd, ook waar het bewijs zwak of wisselend is. Algemene informatie, geen medisch advies."
+    }
+  },
+  "guide": {
+    "updated": "Bijgewerkt",
+    "minuteRead": "{n} minuten lezen",
+    "byTeam": "Door het team van Golden Moments",
+    "howWeWrite": "Hoe wij schrijven",
+    "shortAnswer": "Het korte antwoord",
+    "onThisPage": "Op deze pagina ({n} onderdelen)",
+    "commonQuestions": "Veelgestelde vragen",
+    "sources": "Bronnen",
+    "sourcesNote": "We linken naar de organisaties en studies waarop deze pagina steunt. Elke bron is gecontroleerd toen de pagina werd bijgewerkt.",
+    "tryTogether": "Samen proberen",
+    "relatedGuides": "Verwante gidsen",
+    "related": "Zie ook",
+    "startHere": "Begin hier"
+  },
+  "healthNotice": {
+    "aria": "Over gezondheidsinformatie",
+    "title": "Algemene informatie, geen medisch advies",
+    "textHtml": "Deze pagina vat gepubliceerd onderzoek samen voor families. Ze kan niet vertellen wat goed is voor één bepaald persoon. Overleg met een arts voordat je iets verandert aan voeding, beweging, slaap, medicijnen of supplementen. Bij plotselinge verwardheid of andere plotselinge veranderingen: zoek meteen medische hulp. <a href=\"/medical-disclaimer/\">Lees meer over onze gezondheidsinformatie</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Samen iets doen, geen geheugentest",
+      "seoTitle": "Over Golden Moments: onze aanpak",
+      "description": "Waarom de spelletjes van Golden Moments geen klok, score of reeksen hebben, waarom plaatjes zichtbaar blijven en wat we wel en niet beweren over dementie.",
+      "crumb": "Onze aanpak",
+      "lede": "Golden Moments maakt rustige, volwassen plaatjesactiviteiten waar een mantelzorger en iemand met dementie naast elkaar van kunnen genieten.",
+      "bodyHtml": "<h2>Waar we in geloven</h2><p>Het gaat bij een activiteit om het moment zelf: een gesprek, een glimlach, de voldoening van twee plaatjes bij elkaar leggen, of gewoon dicht bij elkaar zitten. Het doel is niet om iemand te meten, verder te pushen of iets te bewijzen.</p><p>Veel apps voor hersentraining draaien om snelheid, scores, reeksen en niveaus. Voor iemand met dementie kan dat voelen als een examen waarvoor je niet kunt slagen. Wij ontwierpen het omgekeerde, en we houden ons aan deze regels:</p><ul><li><strong>Niets kan misgaan.</strong> Geen klok, score, zettenteller, levens, reeksen, confetti of aftellen, op geen enkel scherm.</li><li><strong>Herkennen in plaats van onthouden.</strong> Plaatjes blijven standaard zichtbaar. Vragen nodigen uit tot een gesprek en overhoren nooit namen of herinneringen.</li><li><strong>Groot, eenvoudig en vertrouwd.</strong> Grote tekst en plaatjes, veel contrast en knoppen die altijd op dezelfde plek staan.</li><li><strong>Volwassen waardigheid.</strong> Echte afbeeldingen en gewone, warme woorden. Geen tekenfilmpjes, zangerige complimentjes of emoji als beloning.</li><li><strong>Altijd makkelijk stoppen.</strong> “Genoeg voor nu” is altijd zichtbaar. Halverwege stoppen is een prima afloop.</li><li><strong>Standaard privé.</strong> Geen accounts of advertenties. Foto’s die je kiest blijven op je apparaat.</li></ul><h2>Wat we niet beweren</h2><p>Onze spelletjes zijn bedoeld voor plezier en contact. Ze stellen geen diagnose en testen, meten, behandelen, vertragen of voorkomen geen dementie of de ziekte van Alzheimer, en niemand zou ze om die reden moeten kiezen. Als we op onze <a href=\"/brain-health/\">pagina’s over hersengezondheid</a> over onderzoek schrijven, zeggen we eerlijk waar het bewijs zwak is, en we koppelen het nooit aan onze eigen spelletjes.</p><h2>Wie we zijn</h2><p>Golden Moments is een klein, onafhankelijk team. Wij zijn geen zorgverleners. Onze gidsen zijn gebaseerd op gepubliceerde richtlijnen van organisaties zoals het National Institute on Aging en de Alzheimer’s Association, en elke gids vermeldt zijn bronnen. Lees <a href=\"/editorial-policy/\">hoe we onze pagina’s schrijven en controleren</a>.</p><h2>Vertel ons wat helpt</h2><p>We horen graag wat voor jou werkt en wat niet, vooral van mensen met dementie, mantelzorgers en activiteitenbegeleiders. Mail naar <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Hoe wij onze pagina’s schrijven en controleren",
+      "seoTitle": "Redactiebeleid",
+      "description": "Hoe Golden Moments zijn pagina’s over activiteiten bij dementie en hersengezondheid onderzoekt, schrijft, onderbouwt en bijwerkt, en wat we nooit publiceren.",
+      "crumb": "Redactiebeleid",
+      "bodyHtml": "<h2>Onze bronnen</h2><p>Onze gidsen zijn gebaseerd op openbare richtlijnen van organisaties zoals het National Institute on Aging, de CDC, de Alzheimer’s Association, de Alzheimer’s Foundation of America, de Family Caregiver Alliance en de NHS, en op wetenschappelijk getoetst onderzoek zoals Cochrane-reviews en grote klinische studies. Elke gids vermeldt de bronnen waarop hij steunt. We openen elke bron voordat we die aanhalen, en we geven alleen weer wat er echt in staat.</p><h2>Hoe we schrijven</h2><ul><li>Praktisch eerst: wat je vandaag kunt doen, in gewone taal.</li><li>Eerlijk over bewijs: we zeggen “hangt samen met”, “kan” en “het bewijs is wisselend” als dat de waarheid is.</li><li>Respectvol: we schrijven over mensen met dementie als volwassenen, en we gebruiken nooit taal die overhoort of beschaamt.</li><li>Niets verzonnen: geen verzonnen cijfers, citaten, deskundigen, studies, recensies of ervaringsverhalen.</li></ul><h2>Wie onze pagina’s controleert</h2><p>Pagina’s worden geschreven en gecontroleerd door het team van Golden Moments, met hulp van AI-schrijfhulpmiddelen bij onderzoek en eerste versies. Het team controleert elke pagina aan de hand van de bronnen. Onze pagina’s zijn <strong>niet</strong> beoordeeld door een arts of andere zorgverlener, en we beweren ook niet dat dat wel zo is. Het is algemene informatie, geen medisch advies.</p><h2>Wat we nooit publiceren</h2><ul><li>Beweringen dat een spel, voedingsmiddel, supplement, vasten of gewoonte dementie voorkomt, behandelt, vertraagt of geneest.</li><li>Tests, quizzen of scores die suggereren dat iemand wel of geen dementie heeft.</li><li>Advies om een medicijn te starten, te stoppen of te veranderen.</li><li>Reclame of gesponsorde inhoud die zich voordoet als advies.</li></ul><h2>Updates en correcties</h2><p>Elke pagina toont de datum waarop ze voor het laatst is bijgewerkt. Zie je een fout of een verouderde bron, mail dan naar <a href=\"mailto:{email}\">{email}</a>, dan kijken we er snel naar.</p>"
+    },
+    "faq": {
+      "title": "Vragen en antwoorden",
+      "seoTitle": "Spelletjes en activiteiten bij dementie: vragen",
+      "description": "Antwoorden op vragen over spelletjes en activiteiten bij dementie: welke spelletjes, hoe lang, ideeën voor de latere fase, hersengezondheid en privacy.",
+      "crumb": "Vragen en antwoorden",
+      "lede": "Korte, heldere antwoorden op de vragen die mantelzorgers het vaakst stellen.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Over de spelletjes",
+          "items": [
+            {
+              "q": "Wat zijn de beste spelletjes voor iemand met dementie?",
+              "a": "De beste spelletjes zijn vertrouwd, eenvoudig en zonder druk, en de juiste is gewoon wat je naaste vandaag leuk vindt. Plaatjes bij elkaar zoeken terwijl ze zichtbaar blijven, sorteren, makkelijke legpuzzels, bekende spreekwoorden afmaken, kleuren en plaatjesbingo werken voor veel mensen goed. Vermijd klokken, scores en alles wat als een test voelt."
+            },
+            {
+              "q": "Zijn de spelletjes echt gratis?",
+              "a": "Ja. Alle spelletjes en printbare activiteiten zijn gratis, zonder account, aanmelding, download of reclame."
+            },
+            {
+              "q": "Waarom zijn er geen scores, niveaus of klokken?",
+              "a": "Snelheid en scores maken van een fijne activiteit een examen, en dat kan schaamte of frustratie geven. We houden de aandacht bij plezier en tijd samen, zodat er niets mis kan gaan en je op elk moment kunt stoppen."
+            },
+            {
+              "q": "Welke apparaten werken het best?",
+              "a": "Elke telefoon, tablet of computer met een moderne webbrowser. Een tablet op een standaard aan tafel is vaak het prettigst om met z’n tweeën naast elkaar te spelen. Een laptop aangesloten op een tv werkt goed voor groepen."
+            },
+            {
+              "q": "Kunnen we met onze eigen familiefoto’s spelen?",
+              "a": "Ja. Fotoparen maakt van 2 tot 6 foto’s die je kiest een spel om paren te zoeken. De foto’s blijven in je browser en worden niet geüpload of opgeslagen."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Activiteiten en mantelzorg",
+          "items": [
+            {
+              "q": "Hoe lang moet een activiteit duren?",
+              "a": "Vaak is 10 tot 20 minuten ruim genoeg, en soms is 2 minuten al een succes. Let op tekenen van vermoeidheid of frustratie en stop zolang het nog fijn voelt. Er is geen goede of foute duur."
+            },
+            {
+              "q": "Wat als je naaste geen zin heeft in een activiteit?",
+              "a": "Respecteer het nee, en probeer het later of op een andere manier opnieuw. Weigeren kan komen door vermoeidheid, pijn, onzekerheid of gewoon geen interesse. Lees onze gids over wat je kunt doen als je naaste nee zegt."
+            },
+            {
+              "q": "Welke activiteiten passen bij een latere fase van dementie?",
+              "a": "Troost en de zintuigen: luisteren naar geliefde muziek, de handen masseren met wat crème, samen foto’s bekijken, een zacht dekentje vasthouden, buiten zitten of een heel eenvoudig plaatjesspel met iemand ernaast. In onze gids voor de latere fase staan nog veel meer ideeën."
+            },
+            {
+              "q": "Zijn er activiteiten voor groepen in een verpleeghuis of woonzorgcentrum?",
+              "a": "Ja. Plaatjesbingo heeft kaarten om te printen en een omroeper op het scherm, en Spreekwoorden afmaken en Gesprekskaarten werken goed als je ze hardop voorleest. Onze gids voor groepen in de zorg gaat over groepsgrootte, opstelling en aanpassen aan verschillende mogelijkheden."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Hersengezondheid",
+          "items": [
+            {
+              "q": "Kunnen spelletjes dementie voorkomen of vertragen?",
+              "a": "Van geen enkel spel is aangetoond dat het dementie voorkomt, en onze spelletjes beweren dat ook niet. Cognitieve stimulatie in een groep liet in onderzoek kleine voordelen zien voor mensen met lichte tot matige dementie, maar dat is iets anders dan een spel dat ziekte voorkomt. Wij bieden spelletjes voor plezier en contact."
+            },
+            {
+              "q": "Is dementie te voorkomen?",
+              "a": "Niet met zekerheid. Onderzoek verbindt 14 factoren rond gezondheid en leefstijl met het risico op dementie, zoals gehoorverlies, hoge bloeddruk, weinig bewegen en sociaal isolement. Daar iets aan doen kan het risico voor sommige mensen verlagen, maar veel mensen die alles goed doen, krijgen toch dementie. Het is nooit iemands schuld."
+            },
+            {
+              "q": "Is periodiek vasten goed voor de hersenen?",
+              "a": "Het bewijs bij mensen is beperkt en nog pril, en veel onderzoek is bij dieren gedaan. Vasten kan riskant zijn voor ouderen, vooral bij medicijnen voor diabetes of ongewild gewichtsverlies, en het wordt niet aangeraden voor mensen met dementie. Overleg met een arts voordat je je eetpatroon verandert."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Privacy en veiligheid",
+          "items": [
+            {
+              "q": "Verzamelen jullie gegevens?",
+              "a": "Geen accounts of advertenties. We gebruiken Google Analytics om bezoeken te tellen en te zien welke pagina’s helpen, en je browser onthoudt of je zachte geluiden hebt aangezet. Foto’s die je kiest voor Fotoparen worden nooit geüpload. Lees de privacyverklaring voor de details."
+            },
+            {
+              "q": "Is dit medisch advies?",
+              "a": "Nee. Golden Moments is bedoeld voor ontspanning en algemene informatie. Met vragen over gezondheid ga je naar een arts, en in een noodgeval bel je 112."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Meer weten: <a href=\"/caregiving/how-to-play-together/\">zo speel je samen</a>, <a href=\"/caregiving/when-they-say-no/\">als je naaste nee zegt</a>, <a href=\"/activities/late-stage/\">activiteiten in de latere fase</a> en <a href=\"/brain-health/can-dementia-be-prevented/\">is dementie te voorkomen?</a>"
+    },
+    "handout": {
+      "title": "Gratis, rustige spelletjes voor mensen met dementie",
+      "seoTitle": "Folder om te printen: gratis spelletjes bij dementie",
+      "description": "Een printbare folder voor families, mantelzorgers en praatgroepen over gratis, rustige plaatjesspelletjes voor mensen met dementie.",
+      "crumb": "Folder om te printen",
+      "lede": "Print deze pagina voor een praatgroep, een zorgpakket of de koelkastdeur. Gebruik de afdrukfunctie van je browser; menu’s en knoppen komen niet op de afdruk.",
+      "introHtml": "<p>Grote plaatjes, gewone woorden en niets dat mis kan gaan. Gratis op een telefoon, tablet of computer, zonder aanmelding, reclame, klok of score. Ga naast elkaar zitten en speel om de beurt.</p>",
+      "gamesTitle": "Spelletjes om samen te proberen",
+      "restHtml": "<h2>Een paar tips</h2><ul><li>Kies een moment van de dag waarop je naaste zich het best voelt.</li><li>Begin met de makkelijkste instelling. Vier kaartjes is ruim genoeg.</li><li>Praat over de plaatjes. Het gesprek is vaak het mooiste deel.</li><li>Stop zolang het nog fijn voelt. Vroeg stoppen is een prima afloop.</li></ul><h2>Ook op de site</h2><ul><li>Gratis om te printen: woordzoekers in grote letters, kleurplaten, gesprekskaarten en plaatjesbingo.</li><li>Ideeën voor activiteiten in elke fase, en gidsen over samen spelen en goed voor jezelf zorgen.</li></ul><p class=\"muted\">Voor plezier en tijd samen. Geen medisch advies, test of behandeling. Golden Moments wordt uitgegeven door Cloudjet Solutions Pte. Ltd.</p>"
+    },
+    "organizations": {
+      "title": "Voor verpleeghuizen, bibliotheken en praatgroepen",
+      "seoTitle": "Gratis activiteiten bij dementie voor zorg en groepen",
+      "description": "Hoe verpleeghuizen, dagbesteding, bibliotheken en praatgroepen onze gratis spelletjes bij dementie gebruiken, plus tekst voor je lijst met hulpbronnen.",
+      "crumb": "Voor organisaties",
+      "lede": "Alles op deze site mag je gratis gebruiken met bewoners, deelnemers en cliënten, zonder account, licentie of kosten. Op deze pagina lees je wat er is en hoe je het deelt.",
+      "shortText": "{name}: gratis, rustige plaatjesspelletjes en gidsen met activiteiten voor mensen met dementie en hun mantelzorgers. Zonder aanmelding, klok of score.",
+      "longText": "{name} ({domain}) biedt {count} gratis browserspelletjes voor mensen met dementie, waaronder paren zoeken met plaatjes die zichtbaar blijven, een makkelijke legpuzzel, sorteren, bekende spreekwoorden en plaatjesbingo met kaarten om te printen. Er is geen account, reclame, klok of score. De site heeft ook gidsen in gewone taal met activiteiten voor elke fase van dementie, met verwijzingen naar het National Institute on Aging en de Alzheimer's Association.",
+      "useTitle": "Wat organisaties kunnen gebruiken",
+      "gamesItemHtml": "<strong>{count} browserspelletjes</strong> die werken op een laptop, tablet of een tv die op een computer is aangesloten. Niets te installeren, geen account of download. Bekijk <a href=\"/games/\">alle spelletjes</a>.",
+      "printablesLabel": "{count} activiteiten om te printen:",
+      "printablesAfter": "Gebruik de knop Afdrukken op elke pagina.",
+      "moreItemsHtml": "<li><strong>Voor groepen:</strong> <a href=\"/games/picture-bingo/\">Plaatjesbingo</a> heeft kaarten om te printen en een omroeper op het scherm, en <a href=\"/activities/trivia/\">een makkelijke quiz</a> heeft 50 vragen met antwoordkeuzes en gespreksonderwerpen.</li><li><strong>Gidsen met activiteiten</strong> voor medewerkers en families, per fase en per soort, in gewone taal en met bronnen. Begin met <a href=\"/activities/ideas/\">101 ideeën voor activiteiten</a> of <a href=\"/activities/care-home-groups/\">groepsactiviteiten in verpleeghuizen</a>.</li>",
+      "restHtml": "<h2>Hoe groepen het gebruiken</h2><ul><li><strong>Verpleeghuizen, woonzorgcentra en kleinschalig wonen:</strong> plaatjesbingo of spreekwoorden afmaken op de tv in de huiskamer, met één persoon die voor de groep tikt.</li><li><strong>Dagbesteding en dagcentra:</strong> een tablet met Paren zoeken op vier kaartjes, voor korte momenten één op één.</li><li><strong>Openbare bibliotheken:</strong> geprinte woordzoekers en gesprekskaarten in een geheugenkoffer, en de site als bladwijzer op de tablets van de bibliotheek.</li><li><strong>Praatgroepen voor mantelzorgers en Alzheimer Cafés:</strong> een <a href=\"/handout/\">folder van één pagina om te printen</a> die families mee naar huis nemen.</li><li><strong>Ziekenhuizen en transferverpleegkundigen:</strong> de folder in informatiepakketten voor mantelzorgers, voor iets rustigs om thuis of aan het bed te doen.</li></ul><h2>Wat we niet doen</h2><p>De spelletjes zijn bedoeld voor plezier en tijd samen. Ze stellen geen diagnose en testen, scoren, behandelen of vertragen geen dementie, en we vragen organisaties om ze ook niet zo te omschrijven. Er is geen reclame, en de spelletjes vragen niet om namen, gezondheidsgegevens of het uploaden van foto’s. De website gebruikt Google Analytics om bezoeken te tellen; in onze <a href=\"/privacy/\">privacyverklaring</a> lees je wat daarbij wordt verzameld. Foto’s in <a href=\"/games/photo-pairs/\">Fotoparen</a> blijven in de browser.</p><h2>Zet ons op je lijst met hulpbronnen</h2><p>Houd je een lijst bij met hulpbronnen voor mantelzorgers, dan mag je gerust linken naar <a href=\"/\">{domain}</a>. Je kunt een van beide omschrijvingen kopiëren.</p>",
+      "shortTitle": "Korte omschrijving",
+      "longTitle": "Langere omschrijving",
+      "linksHtml": "<p>Handige pagina’s om direct naar te linken: <a href=\"/games/\">gratis spelletjes</a>, <a href=\"/activities/printable/\">gratis activiteiten om te printen</a>, <a href=\"/activities/alzheimers/\">activiteiten bij alzheimer</a> en <a href=\"/caregiving/how-to-play-together/\">zo speel je samen</a>.</p><h2>Vragen of correcties</h2><p>Klopt er iets niet of is iets onduidelijk, of past wat hier staat niet bij wat een bewoner nodig heeft, laat het ons dan weten via <a href=\"mailto:{email}\">{email}</a>. Stuur alsjeblieft geen persoonlijke of medische gegevens over bewoners of cliënten.</p>"
+    },
+    "app": {
+      "title": "De Golden Moments-app",
+      "seoTitle": "De Golden Moments-app voor iPhone en Android",
+      "description": "De gratis Golden Moments-app: rustig paren zoeken met vier grote kaartjes, familiefoto’s die op je apparaat blijven, plaatjespakketten offline en geen account.",
+      "crumb": "De app",
+      "lede": "Alles wat je fijn vindt aan de website, in een app die offline werkt en familiefoto’s kan gebruiken die jij kiest.",
+      "worksOn": "Werkt op {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Begin klein</h2><p>Begin met vier grote kaartjes en vertrouwde plaatjes. Laat de plaatjes zichtbaar, of verberg ze als dat prettig voelt. De rustige modus heeft geen klok, score of straf. Kies 4, 6, 8 of 12 kaartjes.</p><h2>Maak het persoonlijk</h2><p>Kies familiefoto’s met de fotokiezer van je apparaat. De app bewaart kleinere kopieën voor de activiteiten. Hij doorzoekt je fotobibliotheek niet, verandert je originele foto’s niet en bewaart maximaal 24 foto’s in één verzameling.</p><h2>Gewoon samen kijken</h2><p>Bekijk één plaatje tegelijk. Gespreksvragen zijn een keuze en nodigen uit tot praten, zonder dat iemand namen hoeft te onthouden of een goed antwoord hoeft te geven. Gewoon kijken is genoeg.</p><h2>Offline waar het telt</h2><p>De startplaatjes en alle acht plaatjespakketten zitten in de app. Geïmporteerde kopieën van foto’s werken offline. Voor originelen die alleen in iCloud staan, is soms een internetverbinding nodig.</p><h2>Geen account, geen server die foto’s synchroniseert</h2><p>Kopieën van familiefoto’s blijven in de app op het apparaat. Je kunt de kopieën verwijderen zonder de originelen te wissen. Back-ups van je apparaat kunnen app-gegevens bevatten. Lees het <a href=\"/app-privacy/\">privacybeleid van de app</a>; in <a href=\"/help/\">hulp bij de app</a> lees je stap voor stap hoe alles werkt.</p>",
+      "disclaimer": "Golden Moments is bedoeld voor ontspanning en gesprekken samen. Het stelt geen diagnose en behandelt, voorkomt of meet geen dementie of de ziekte van Alzheimer.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Spelletjes voor mensen met dementie: gratis online",
+    "description": "Gratis online spelletjes voor ouderen met dementie of alzheimer: paren zoeken, legpuzzels, sorteren, spreekwoorden, kleuren, bingo. Zonder aanmelding of score.",
+    "crumb": "Spelletjes",
+    "h1": "Rustige spelletjes voor mensen met dementie",
+    "lede": "{count} gratis spelletjes om samen te spelen in je browser. Grote plaatjes, gewone woorden en niets dat mis kan gaan: geen klok, geen score, geen aanmelding.",
+    "listName": "Rustige spelletjes voor mensen met dementie",
+    "byStageTitle": "Een spel kiezen per fase",
+    "byStageLede": "Fasen zijn maar een ruwe leidraad. Volg wat je naaste leuk vindt en wat vandaag prettig voelt.",
+    "stageCol": "Fase",
+    "gamesCol": "Spelletjes die vaak passen",
+    "moreHtml": "Meer ideeën zonder scherm: <a href=\"/activities/ideas/\">101 activiteiten voor mensen met dementie</a>, <a href=\"/activities/alzheimers/\">activiteiten en spelletjes bij alzheimer</a>, <a href=\"/activities/memory-games/\">rustige memoryspelletjes</a> en <a href=\"/activities/puzzles/\">puzzels</a>.",
+    "faq": [
+      {
+        "q": "Met welk spel kunnen we het best beginnen?",
+        "a": "Paren zoeken met vier kaartjes is een rustige eerste keuze. Voelt kiezen tussen plaatjes als te veel, probeer dan Hetzelfde plaatje met twee plaatjes. Voor een groep is Plaatjesbingo een goede keuze."
+      },
+      {
+        "q": "Werken de spelletjes op een iPad of telefoon?",
+        "a": "Ja. Elk spel werkt in de browser op telefoons, tablets en computers, en de plaatjes worden zo groot als het scherm toelaat. Een tablet op een standaard is vaak het prettigst voor twee mensen."
+      },
+      {
+        "q": "Zijn deze spelletjes geschikt voor iemand met alzheimer?",
+        "a": "Ja. Ze zijn gemaakt voor mensen met dementie, ook alzheimer, de meest voorkomende oorzaak. Plaatjes blijven zichtbaar, er zijn maar een paar keuzes en niets is op tijd of telt mee voor een score. Zo leunen de spelletjes op het herkennen van vertrouwde dingen, niet op het onthouden van nieuwe."
+      },
+      {
+        "q": "Zijn dit memoryspelletjes voor ouderen?",
+        "a": "Het zijn spelletjes met plaatjes en paren waar elke oudere van kan genieten, maar ze zijn juist niet gemaakt om het geheugen te testen: bij Paren zoeken blijven de plaatjes open liggen, tenzij je zelf iets anders kiest. Onze gids over memoryspelletjes voor ouderen met dementie legt uit hoe je elk memoryspel rustig houdt."
+      },
+      {
+        "q": "Zijn er spelletjes voor groepen in een verpleeghuis of woonzorgcentrum?",
+        "a": "Ja. Plaatjesbingo heeft kaarten om te printen en een omroeper op het scherm, en Spreekwoorden afmaken en Gesprekskaarten werken goed als je ze hardop voorleest aan een groep."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad en Android",
+    "requirements": "iOS 15 of nieuwer; Android 7.0 of nieuwer",
+    "summary": "Een gratis app voor iPhone, iPad en Android: rustig paren zoeken met vier tot twaalf grote kaartjes, paren zoeken en samen kijken met familiefoto’s die jij kiest, en acht plaatjespakketten die zonder internet werken. Geen account, advertenties, klok of score.",
+    "features": [
+      "Rustig paren zoeken met 4, 6, 8 of 12 grote kaartjes; de plaatjes blijven zichtbaar, tenzij je ze wilt verbergen",
+      "Familiefoto’s die je kiest, worden naar de app gekopieerd om paren te zoeken en om samen te bekijken",
+      "Samen kijken: één plaatje tegelijk, met gespreksvragen als je die wilt",
+      "Acht plaatjespakketten zitten in de app en werken offline",
+      "Geen account, advertenties, aankopen in de app, klok, score of straf"
+    ],
+    "faq": [
+      {
+        "q": "Bestaat er een app met activiteiten bij dementie?",
+        "a": "Ja. Golden Moments (in de winkel te vinden als “{storeName}”) is gratis in de App Store en op Google Play. De app biedt rustig paren zoeken met grote kaartjes, spelletjes met familiefoto’s die jij kiest en plaatjespakketten die offline werken."
+      },
+      {
+        "q": "Is de Golden Moments-app gratis?",
+        "a": "Ja. Je downloadt de app gratis, zonder advertenties, account of aankopen in de app."
+      },
+      {
+        "q": "Werkt de app zonder internet?",
+        "a": "Ja. De startplaatjes en alle acht plaatjespakketten zitten in de app, en familiefoto’s werken offline zodra ze naar de app zijn gekopieerd. Voor een foto die alleen in iCloud staat, is soms een verbinding nodig."
+      },
+      {
+        "q": "Kan ik onze eigen familiefoto’s gebruiken?",
+        "a": "Ja. Kies foto’s met de fotokiezer van je apparaat. De app bewaart kleinere kopieën op het apparaat voor de activiteiten, uploadt ze niet en verandert nooit de originelen. Je kunt de kopieën op elk moment verwijderen."
+      },
+      {
+        "q": "Is het een app voor hersentraining of een geheugentest?",
+        "a": "Nee. Golden Moments is bedoeld voor plezier en tijd samen. Er zijn geen scores of tests, en de app stelt geen diagnose en behandelt, voorkomt of meet geen dementie of de ziekte van Alzheimer."
+      },
+      {
+        "q": "Op welke apparaten werkt de app?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Is er een app-versie van dit spel?",
+      "a": "Ja. De gratis Golden Moments-app voor iPhone, iPad en Android heeft hetzelfde rustige paren zoeken, kan familiefoto’s gebruiken die jij kiest en werkt offline. Geen account, advertenties of score."
+    },
+    "gameFaqNo": {
+      "q": "Is er een app-versie van dit spel?",
+      "a": "Niet van dit spel. De gratis Golden Moments-app voor iPhone, iPad en Android heeft rustig paren zoeken met grote kaartjes en familiefoto’s die jij kiest, en werkt offline. Dit spel blijft hier gratis in je browser."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: grote, vriendelijke plaatjes",
+    "noscript": "Voor dit spel moet JavaScript aanstaan in je browser. De tips hieronder werken ook zonder.",
+    "about": "Over {name}",
+    "aboutAria": "Over dit spel",
+    "noTimer": "Geen klok of score",
+    "printable": "Om te printen",
+    "howTo": "Zo speel je {name}",
+    "tips": "Tips om samen te spelen",
+    "newToPlayingHtml": "Speel je voor het eerst met iemand met dementie? Lees <a href=\"/caregiving/how-to-play-together/\">hoe je samen spelletjes speelt</a>, ook wat je kunt doen als de interesse wegzakt.",
+    "moreAria": "Meer om te ontdekken",
+    "helpfulGuides": "Handige gidsen",
+    "appTitle": "Speel het in de app",
+    "appText": "De gratis Golden Moments-app heeft rustig paren zoeken met grote kaartjes en je eigen familiefoto’s, en werkt zonder wifi. Voor iPhone, iPad en Android.",
+    "photoAppTitle": "Houd je foto’s bij de hand",
+    "photoAppText": "In de gratis Golden Moments-app blijven de foto’s die je kiest op je apparaat voor de volgende keer, en de spelletjes werken zonder wifi. Voor iPhone, iPad en Android.",
+    "goodToKnow": "Goed om te weten",
+    "goodToKnowText": "Dit spel is bedoeld voor plezier en tijd samen. Het test, meet of behandelt niets.",
+    "moreGames": "Meer rustige spelletjes",
+    "crumb": "Spelletjes"
+  }
+}
