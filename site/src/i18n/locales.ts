@@ -27,6 +27,20 @@ export interface LocaleInfo {
 
 export const DEFAULT_LOCALE = 'en';
 
+/**
+ * Languages a native speaker has reviewed. Every other language is a machine
+ * translation: its pages stay reachable and labelled, but they are `noindex`
+ * and left out of the sitemap, hreflang and llms.txt until a language is added
+ * here, so unreviewed dementia and health wording is not put in front of search
+ * engines. Add a code only after a native reviewer has checked adult tone, any
+ * added medical claim and cultural fit (see TRANSLATING.md).
+ */
+export const REVIEWED_LANGUAGES: ReadonlySet<string> = new Set([DEFAULT_LOCALE]);
+
+export function isIndexable(code: string): boolean {
+  return REVIEWED_LANGUAGES.has(code);
+}
+
 export const LOCALES: readonly LocaleInfo[] = [
   { code: 'en', prefix: '', bcp47: 'en', htmlLang: 'en-US', og: 'en_US', name: 'English', englishName: 'English', dir: 'ltr' },
   { code: 'es', prefix: 'es', bcp47: 'es', htmlLang: 'es', og: 'es_ES', name: 'Español', englishName: 'Spanish', dir: 'ltr' },

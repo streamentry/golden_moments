@@ -1,12 +1,12 @@
 ---
-title: "Hoạt động và trò chơi cho người bệnh Alzheimer"
-seoTitle: "Hoạt động, trò chơi cho người bệnh Alzheimer theo giai đoạn"
-description: "Hoạt động và trò chơi cho người bệnh Alzheimer ở từng giai đoạn, dựa trên những kỹ năng và ký ức lâu năm thường còn lại, kèm trò chơi miễn phí để cùng chơi."
+title: "Hoạt động và trò chơi cho người sống chung với bệnh Alzheimer"
+seoTitle: "Hoạt động, trò chơi cho người sống chung với bệnh Alzheimer theo giai đoạn"
+description: "Hoạt động và trò chơi cho người sống chung với bệnh Alzheimer ở từng giai đoạn, dựa trên kỹ năng và ký ức lâu năm thường còn lại, kèm trò chơi miễn phí để cùng chơi."
 section: activities
 order: 17
 updated: 2026-10-25
 summary: >-
-  Hoạt động phù hợp cho người bệnh Alzheimer dựa vào những gì còn lại lâu nhất:
+  Hoạt động phù hợp cho người sống chung với bệnh Alzheimer dựa vào những gì còn lại lâu nhất:
   kỹ năng đã quen tay từ lâu, những bài hát xưa, việc nhà quen thuộc và các giác
   quan. Ở giai đoạn đầu, bài lá, trò chơi trên bàn, nấu ăn và đi chơi thường vẫn
   hợp. Ở giai đoạn giữa, hãy thử gấp đồ, phân loại, hát, xem album ảnh và trò
@@ -19,15 +19,15 @@ keyPoints:
   - "Chọn trò chơi không hẹn giờ, không điểm số, không hỏi bài, và để hình ảnh luôn hiện rõ."
   - "Ngồi xem, cầm một món đồ hay đơn giản là ngồi bên nhau đều được tính là tham gia."
 faq:
-  - q: "Hoạt động nào tốt cho người bệnh Alzheimer?"
+  - q: "Hoạt động nào tốt cho người sống chung với bệnh Alzheimer?"
     a: "Những hoạt động quen thuộc được làm đơn giản đi một chút: gấp quần áo, dọn bàn ăn, cùng nấu ăn, nghe nhạc và hát, xem ảnh, đi dạo, làm vườn và chơi với thú cưng. Trò chơi hình ảnh đơn giản, ghép hình dễ và thẻ trò chuyện cũng hợp với nhiều người. Hãy chọn điều người thân vẫn luôn yêu thích và làm cùng họ."
-  - q: "Trò chơi có tốt cho người bệnh Alzheimer không?"
+  - q: "Trò chơi có tốt cho người sống chung với bệnh Alzheimer không?"
     a: "Trò chơi có thể là một cách dễ chịu để cùng nhau trải qua thời gian nếu người thân thích chơi. Chưa có trò chơi nào được chứng minh là điều trị, làm chậm hay ngăn chặn bệnh Alzheimer, nên hãy chọn trò chơi vì niềm vui: hình ảnh lớn, ít lựa chọn, không hẹn giờ, không điểm số và không có âm thanh báo sai."
-  - q: "Hoạt động cho người sa sút trí tuệ và cho người bệnh Alzheimer có khác nhau không?"
-    a: "Phần lớn là không. Bệnh Alzheimer là nguyên nhân phổ biến nhất gây sa sút trí tuệ, và các ý tưởng hoạt động đều như nhau. Điều hữu ích khi chăm sóc người bệnh Alzheimer là biết rằng ký ức gần đây thường phai đi trước, nên những hoạt động dựa trên kỹ năng, bài hát và thói quen lâu năm thường diễn ra suôn sẻ hơn."
+  - q: "Hoạt động cho người sa sút trí tuệ và cho người sống chung với bệnh Alzheimer có khác nhau không?"
+    a: "Phần lớn là không. Bệnh Alzheimer là nguyên nhân phổ biến nhất gây sa sút trí tuệ, và các ý tưởng hoạt động đều như nhau. Điều hữu ích khi chăm sóc người sống chung với bệnh Alzheimer là biết rằng ký ức gần đây thường phai đi trước, nên những hoạt động dựa trên kỹ năng, bài hát và thói quen lâu năm thường diễn ra suôn sẻ hơn."
   - q: "Người bệnh Alzheimer giai đoạn muộn vẫn có thể thích những gì?"
     a: "Nhạc yêu thích, xoa bóp tay nhẹ nhàng, những thứ mềm mại để cầm, được đọc sách cho nghe, ngồi ngoài trời, và sự bầu bạn của người họ tin tưởng. Hãy giữ thời gian ngắn và êm ả, và để ý nét mặt, cử chỉ để biết người thân thích gì."
-  - q: "Làm sao để người bệnh Alzheimer hứng thú với một hoạt động?"
+  - q: "Làm sao để người sống chung với bệnh Alzheimer hứng thú với một hoạt động?"
     a: "Hãy nhờ người thân giúp thay vì thông báo rằng có một hoạt động, bày sẵn mọi thứ trước, và tự bạn bắt đầu để người thân có thể cùng tham gia. Chọn thời điểm trong ngày khi người thân khỏe khoắn, tỉnh táo nhất tạo ra khác biệt lớn. Nếu người thân từ chối, hãy thử lại sau hoặc đề nghị một phiên bản nhỏ hơn."
 sources:
   - title: "What Is Alzheimer's Disease?"
@@ -62,7 +62,7 @@ Không khác nhiều. Sa sút trí tuệ là thuật ngữ chung, và bệnh Alz
 
 Điều hữu ích nên biết là thứ tự thay đổi thường gặp. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) giải thích rằng bệnh Alzheimer trước tiên làm tổn thương những vùng não liên quan đến trí nhớ, về sau mới ảnh hưởng đến ngôn ngữ, khả năng suy luận và cách ứng xử với mọi người. Alzheimer's Association cho biết triệu chứng sớm thường gặp nhất là khó nhớ những thông tin mới học được. Mỗi người mỗi khác, và nhiều người có nhiều nguyên nhân cùng lúc, nhưng quy luật này định hình những gì thường phù hợp.
 
-## Những loại hoạt động nào hợp nhất với người bệnh Alzheimer?
+## Những loại hoạt động nào hợp nhất với người sống chung với bệnh Alzheimer?
 
 Những hoạt động dựa trên hiểu biết lâu năm, đã quen tay thường diễn ra suôn sẻ hơn những hoạt động đòi hỏi phải học và ghi nhớ điều gì đó mới.
 
@@ -74,7 +74,7 @@ Những hoạt động dựa trên hiểu biết lâu năm, đã quen tay thư�
 
 Những gì thường kém suôn sẻ hơn: bất cứ thứ gì có đồng hồ, luật mới phải học, nhiều bước phải nhớ, hay những câu hỏi kiểm tra trí nhớ như “Có nhớ đây là ai không?” Những điều đó đẩy phần khó khăn nhất của bệnh Alzheimer lên hàng đầu.
 
-## Hoạt động cho người bệnh Alzheimer giai đoạn đầu
+## Hoạt động cho người sống chung với bệnh Alzheimer giai đoạn đầu
 
 Ở giai đoạn đầu, [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) cho biết người thân có thể vẫn lái xe, đi làm và tham gia các hoạt động xã hội, trong khi nhận thấy những lúc đãng trí như quên những từ quen thuộc hay quên chỗ để đồ. Cách tốt nhất là cùng nhau bàn bạc: hỏi người thân muốn tiếp tục làm gì và muốn được giúp như thế nào.
 
@@ -87,7 +87,7 @@ Những gì thường kém suôn sẻ hơn: bất cứ thứ gì có đồng h�
 
 Thêm ý tưởng: [hoạt động cho giai đoạn đầu](/activities/early-stage/).
 
-## Hoạt động cho người bệnh Alzheimer giai đoạn giữa
+## Hoạt động cho người sống chung với bệnh Alzheimer giai đoạn giữa
 
 Alzheimer's Association mô tả giai đoạn giữa thường là giai đoạn dài nhất, và có thể kéo dài nhiều năm. Người thân hay nói nhầm từ, dễ bực bội hơn và cần được chăm sóc nhiều hơn. Alzheimer's Foundation of America cho biết thêm rằng nhiều người cần được giúp để bắt đầu hoặc tiếp tục một hoạt động. Vai trò của bạn chuyển sang chuẩn bị mọi thứ, làm mẫu thay vì giải thích, và đảm nhận những phần khó.
 
@@ -101,7 +101,7 @@ Alzheimer's Association mô tả giai đoạn giữa thường là giai đoạn 
 
 Thêm ý tưởng: [hoạt động cho giai đoạn giữa](/activities/middle-stage/).
 
-## Hoạt động cho người bệnh Alzheimer giai đoạn muộn
+## Hoạt động cho người sống chung với bệnh Alzheimer giai đoạn muộn
 
 Ở giai đoạn muộn, Alzheimer's Association cho biết người thân mất khả năng phản ứng với môi trường xung quanh và khả năng trò chuyện, dù vẫn có thể nói vài từ hay vài câu. Lúc này, hoạt động có nghĩa là sự dễ chịu và gắn kết, được mang đến tận nơi người thân đang nghỉ ngơi.
 
@@ -114,7 +114,7 @@ Thêm ý tưởng: [hoạt động cho giai đoạn giữa](/activities/middle-s
 
 Thêm ý tưởng: [hoạt động cho giai đoạn muộn](/activities/late-stage/).
 
-## Trò chơi nào phù hợp với người bệnh Alzheimer?
+## Trò chơi nào phù hợp với người sống chung với bệnh Alzheimer?
 
 Hãy chọn những trò chơi không có gì để thua. Mọi trò chơi trên trang web này đều miễn phí, chạy trên trình duyệt và không có hẹn giờ, điểm số hay đăng ký.
 

@@ -115,7 +115,7 @@
         "label": "Ý tưởng cho giai đoạn muộn"
       }
     ],
-    "specificHtml": "Bạn đang tìm điều gì cụ thể? Hãy thử <a href=\"/activities/alzheimers/\">hoạt động và trò chơi cho người bệnh Alzheimer</a>, <a href=\"/activities/memory-games/\">trò chơi trí nhớ nhẹ nhàng</a>, <a href=\"/activities/trivia/\">câu đố dễ</a> hoặc <a href=\"/activities/puzzles/\">trò ghép hình</a>.",
+    "specificHtml": "Bạn đang tìm điều gì cụ thể? Hãy thử <a href=\"/activities/alzheimers/\">hoạt động và trò chơi cho người sống chung với bệnh Alzheimer</a>, <a href=\"/activities/memory-games/\">trò chơi trí nhớ nhẹ nhàng</a>, <a href=\"/activities/trivia/\">câu đố dễ</a> hoặc <a href=\"/activities/puzzles/\">trò ghép hình</a>.",
     "approachEyebrow": "Cách chúng tôi làm",
     "approachTitle": "Một hoạt động chung, không phải bài kiểm tra trí nhớ",
     "approachLede": "Nhiều “trò chơi rèn trí não” được xây dựng quanh tốc độ, điểm số và chuỗi ngày chơi liên tục. Với người sống chung với sa sút trí tuệ, điều đó có thể giống như một kỳ thi. Chúng tôi làm điều ngược lại.",
@@ -188,7 +188,7 @@
         "a": "Chưa có trò chơi nào được chứng minh là phòng ngừa được sa sút trí tuệ, và Golden Moments không tuyên bố điều trị hay phòng ngừa bất cứ điều gì. Trò chơi của chúng tôi là để vui và có thời gian bên nhau. Mục sức khỏe não bộ của chúng tôi giải thích những gì nghiên cứu cho thấy và chưa cho thấy."
       },
       {
-        "q": "Các trò chơi này có phù hợp với người bệnh Alzheimer không?",
+        "q": "Các trò chơi này có phù hợp với người sống chung với bệnh Alzheimer không?",
         "a": "Có. Bệnh Alzheimer là nguyên nhân phổ biến nhất gây sa sút trí tuệ, và các trò chơi được làm ra chính cho điều đó: hình ảnh lớn luôn hiện rõ, ít lựa chọn, không có gì phải nhớ hay có thể làm sai. Ghép đôi, phân loại và nói tiếp câu tục ngữ quen thuộc dựa vào những hiểu biết đã có từ lâu, chứ không đòi hỏi học điều mới."
       },
       {
@@ -413,7 +413,7 @@
       "restHtml": "<h2>Các nhóm dùng trang web như thế nào</h2><ul><li><strong>Viện dưỡng lão và khu chăm sóc trí nhớ:</strong> lô tô hình ảnh hoặc nói tiếp câu tục ngữ trên TV ở phòng sinh hoạt chung, một người chạm thay cho cả nhóm.</li><li><strong>Trung tâm chăm sóc ban ngày cho người cao tuổi:</strong> một góc máy tính bảng với Ghép đôi hình để ở bốn ô, cho các buổi một kèm một ngắn.</li><li><strong>Thư viện công cộng:</strong> phiếu tìm từ và thẻ trò chuyện in sẵn trong bộ đồ dùng gợi nhớ, và trang web được đánh dấu trên máy tính bảng của thư viện.</li><li><strong>Nhóm hỗ trợ người chăm sóc và quán cà phê trí nhớ:</strong> một <a href=\"/handout/\">tờ thông tin một trang để in</a> cho các gia đình mang về nhà.</li><li><strong>Bệnh viện và bộ phận lo xuất viện:</strong> tờ thông tin trong túi tài liệu cho người chăm sóc, để có hoạt động êm dịu ở nhà hoặc bên giường bệnh.</li></ul><h2>Những gì chúng tôi không làm</h2><p>Các trò chơi là để vui và có thời gian bên nhau. Chúng không chẩn đoán, kiểm tra, chấm điểm, điều trị hay làm chậm sa sút trí tuệ, và chúng tôi đề nghị các tổ chức không mô tả chúng như vậy. Không có quảng cáo, và trò chơi không yêu cầu tên, thông tin sức khỏe hay tải ảnh lên. Trang web dùng Google Analytics để đếm lượt truy cập; <a href=\"/privacy/\">thông báo về quyền riêng tư</a> của chúng tôi giải thích công cụ này thu thập những gì. Ảnh dùng trong <a href=\"/games/photo-pairs/\">Ghép đôi ảnh</a> chỉ ở trong trình duyệt.</p><h2>Thêm chúng tôi vào danh sách tài nguyên của bạn</h2><p>Nếu bạn có danh sách tài nguyên cho người chăm sóc, bạn có thể dẫn liên kết đến <a href=\"/\">{domain}</a>. Bạn có thể sao chép một trong hai đoạn mô tả.</p>",
       "shortTitle": "Mô tả ngắn",
       "longTitle": "Mô tả dài hơn",
-      "linksHtml": "<p>Những trang hữu ích để dẫn liên kết trực tiếp: <a href=\"/games/\">trò chơi miễn phí</a>, <a href=\"/activities/printable/\">tài liệu in miễn phí</a>, <a href=\"/activities/alzheimers/\">hoạt động cho người bệnh Alzheimer</a> và <a href=\"/caregiving/how-to-play-together/\">cách chơi cùng nhau</a>.</p><h2>Câu hỏi hoặc đính chính</h2><p>Nếu có điều gì trên trang web sai hoặc chưa rõ, hoặc nhu cầu của người cao tuổi bạn chăm sóc chưa được đáp ứng, vui lòng cho chúng tôi biết qua <a href=\"mailto:{email}\">{email}</a>. Xin đừng gửi thông tin cá nhân hay thông tin sức khỏe của người cao tuổi hoặc khách hàng.</p>"
+      "linksHtml": "<p>Những trang hữu ích để dẫn liên kết trực tiếp: <a href=\"/games/\">trò chơi miễn phí</a>, <a href=\"/activities/printable/\">tài liệu in miễn phí</a>, <a href=\"/activities/alzheimers/\">hoạt động cho người sống chung với bệnh Alzheimer</a> và <a href=\"/caregiving/how-to-play-together/\">cách chơi cùng nhau</a>.</p><h2>Câu hỏi hoặc đính chính</h2><p>Nếu có điều gì trên trang web sai hoặc chưa rõ, hoặc nhu cầu của người cao tuổi bạn chăm sóc chưa được đáp ứng, vui lòng cho chúng tôi biết qua <a href=\"mailto:{email}\">{email}</a>. Xin đừng gửi thông tin cá nhân hay thông tin sức khỏe của người cao tuổi hoặc khách hàng.</p>"
     },
     "app": {
       "title": "Ứng dụng Golden Moments",
@@ -438,7 +438,7 @@
     "byStageLede": "Các giai đoạn chỉ để tham khảo. Hãy theo những gì người thân thích và thấy thoải mái hôm nay.",
     "stageCol": "Giai đoạn",
     "gamesCol": "Trò chơi thường phù hợp",
-    "moreHtml": "Thêm ý tưởng ngoài màn hình: <a href=\"/activities/ideas/\">101 hoạt động cho người sa sút trí tuệ</a>, <a href=\"/activities/alzheimers/\">hoạt động và trò chơi cho người bệnh Alzheimer</a>, <a href=\"/activities/memory-games/\">trò chơi trí nhớ nhẹ nhàng</a> và <a href=\"/activities/puzzles/\">trò ghép hình</a>.",
+    "moreHtml": "Thêm ý tưởng ngoài màn hình: <a href=\"/activities/ideas/\">101 hoạt động cho người sa sút trí tuệ</a>, <a href=\"/activities/alzheimers/\">hoạt động và trò chơi cho người sống chung với bệnh Alzheimer</a>, <a href=\"/activities/memory-games/\">trò chơi trí nhớ nhẹ nhàng</a> và <a href=\"/activities/puzzles/\">trò ghép hình</a>.",
     "faq": [
       {
         "q": "Nên bắt đầu với trò chơi nào?",
@@ -449,7 +449,7 @@
         "a": "Có. Mọi trò chơi đều chạy trên trình duyệt của điện thoại, máy tính bảng và máy tính, và hình ảnh tự phóng to cho vừa màn hình. Máy tính bảng đặt trên giá thường thoải mái nhất cho hai người."
       },
       {
-        "q": "Các trò chơi này có tốt cho người bệnh Alzheimer không?",
+        "q": "Các trò chơi này có tốt cho người sống chung với bệnh Alzheimer không?",
         "a": "Có. Trò chơi được làm cho người sống chung với sa sút trí tuệ, kể cả bệnh Alzheimer, nguyên nhân phổ biến nhất. Hình ảnh luôn hiện rõ, chỉ có vài lựa chọn, không có gì bị tính giờ hay chấm điểm, nên trò chơi dựa vào việc nhận ra những điều quen thuộc chứ không phải ghi nhớ điều mới."
       },
       {
