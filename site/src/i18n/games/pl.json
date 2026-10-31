@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Pary obrazków",
+    "seoTitle": "Gra w pary dla osób z demencją: Pary obrazków",
+    "h1": "Pary obrazków: łagodna gra w dopasowywanie",
+    "description": "Bezpłatna, łagodna gra w pary dla osób z demencją. Duże obrazki pozostają widoczne, nie ma odliczania czasu ani punktów, a kafelków może być od 4 do 12.",
+    "short": "Znajdź dwa takie same obrazki. Obrazki mogą być cały czas widoczne.",
+    "players": "1 lub 2 osoby, obok siebie",
+    "intro": "Dotknij obrazka, a potem tego, który do niego pasuje. Obrazki domyślnie są widoczne, więc niczego nie trzeba zapamiętywać. Gdy dwa obrazki do siebie pasują, dostają złotą ramkę i ptaszek.",
+    "howTo": [
+      "Wybierz liczbę kafelków. Cztery to spokojny początek.",
+      "Dotknij dowolnego obrazka. Pojawi się wokół niego złota ramka.",
+      "Dotknij obrazka, który wygląda tak samo. Para zostaje razem i dostaje ptaszek.",
+      "Jeśli obrazki się różnią, nic złego się nie dzieje. Dotknij ponownie, kiedy zechcesz.",
+      "Włącz „Ukryte obrazki” tylko wtedy, gdy oboje lubicie klasyczną wersję z zakrytymi kartami."
+    ],
+    "tips": [
+      "Nazywajcie obrazki na głos i rozmawiajcie o nich: „Czerwona filiżanka. Lubisz herbatę z cytryną?”",
+      "Pozwól bliskiej osobie samej dotykać obrazków, nawet jeśli trwa to dłużej. Lepiej wskazać obrazek palcem, niż dotknąć go za nią.",
+      "Zostańcie przy czterech kafelkach tak długo, jak jest dobrze. Więcej kafelków to wybór, a nie poziom do osiągnięcia.",
+      "Skończcie, póki jest jeszcze przyjemnie. Jedna gra to całe zajęcie."
+    ],
+    "faq": [
+      {
+        "q": "Czy jest odliczanie czasu albo punkty?",
+        "a": "Nie. Nie ma zegara, punktów, licznika ruchów ani przegranej. Można przerwać w dowolnej chwili, a przerwanie w połowie to zupełnie dobry sposób na zakończenie."
+      },
+      {
+        "q": "Dlaczego obrazki są odkryte?",
+        "a": "Gdy obrazki są widoczne, gra polega na patrzeniu i dopasowywaniu, a nie na zapamiętywaniu. Dla wielu osób to spokojniejsze. Jeśli wolisz, jednym dotknięciem możesz przełączyć na ukryte obrazki."
+      },
+      {
+        "q": "Czy gra jest bezpłatna i czy trzeba się rejestrować?",
+        "a": "Tak, jest bezpłatna i nie wymaga konta, rejestracji ani pobierania. Działa w przeglądarce na telefonie, tablecie lub komputerze."
+      },
+      {
+        "q": "Czy możemy użyć własnych zdjęć rodzinnych?",
+        "a": "Tak. Wypróbuj grę „Pary zdjęć”, w której można wybrać zdjęcia z urządzenia. Zdjęcia zostają w przeglądarce i nie są nigdzie przesyłane."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Znajdź taki sam",
+    "seoTitle": "Znajdź taki sam obrazek: prosta gra przy demencji",
+    "h1": "Znajdź taki sam obrazek",
+    "description": "Jeden obrazek u góry, od dwóch do czterech poniżej. Dotknij takiego samego. Spokojna, bezpłatna gra obrazkowa dla osób z demencją, bez odliczania czasu.",
+    "short": "Popatrz na obrazek u góry i dotknij takiego samego poniżej.",
+    "players": "1 lub 2 osoby",
+    "intro": "U góry ekranu jest jeden obrazek. Pod nim są dwa, trzy lub cztery obrazki. Dotknij tego, który jest taki sam. To jeden prosty wybór naraz i dużo miejsca na rozmowę.",
+    "howTo": [
+      "Wybierz, spośród ilu obrazków wybieracie: dwóch, trzech czy czterech. Dwa to najprostsza wersja.",
+      "Popatrzcie razem na obrazek u góry.",
+      "Dotknij takiego samego obrazka poniżej. Pojawi się przy nim ptaszek i kilka ciepłych słów.",
+      "Jeśli dotkniesz innego obrazka, gra po prostu poda jego nazwę i poczeka. Bez pośpiechu.",
+      "Dotknij „Następny obrazek”, gdy będziecie gotowi na kolejny."
+    ],
+    "tips": [
+      "Porozmawiajcie o każdym obrazku przed wyborem: o kolorach, kształtach i o tym, gdzie można go spotkać.",
+      "Dwa obrazki to nie jest „za łatwo”. Chodzi o miłą chwilę, a nie o wyzwanie.",
+      "Jeśli dotykanie ekranu sprawia trudność, bliska osoba może wskazać obrazek, a Ty go dotkniesz."
+    ],
+    "faq": [
+      {
+        "q": "Czy jest odliczanie czasu albo punkty?",
+        "a": "Nie. Nie ma zegara, punktów, licznika ruchów ani przegranej. Można przerwać w dowolnej chwili, a przerwanie w połowie to zupełnie dobry sposób na zakończenie."
+      },
+      {
+        "q": "Co się dzieje, gdy dotknie się innego obrazka?",
+        "a": "Nic przykrego. Nie ma brzęczyka, czerwonego krzyżyka ani trzęsienia ekranu. Gra podaje nazwę dotkniętego obrazka i czeka na kolejne dotknięcie."
+      },
+      {
+        "q": "Czy gra jest bezpłatna i czy trzeba się rejestrować?",
+        "a": "Tak, jest bezpłatna i nie wymaga konta, rejestracji ani pobierania. Działa w przeglądarce na telefonie, tablecie lub komputerze."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Dopasuj cień",
+    "seoTitle": "Gra w cienie dla osób z demencją: bezpłatnie online",
+    "h1": "Dopasuj cień: łagodna gra obrazkowa",
+    "description": "Ciemny cień u góry, od dwóch do czterech obrazków poniżej. Dotknij obrazka, do którego należy cień. Bezpłatna, spokojna gra w cienie dla osób z demencją.",
+    "short": "Popatrz na cień i dotknij obrazka, do którego należy.",
+    "players": "1 lub 2 osoby",
+    "intro": "Dopasowywanie cieni to znane zadanie z drukowanych kart pracy – tutaj z dużymi obrazkami i bez drukowania. U góry ekranu jest łagodny cień, a pod nim czekają dwa, trzy lub cztery obrazki. Dotknij tego, do którego należy cień. O kształtach takich jak rower, parasol czy filiżanka łatwo też porozmawiać.",
+    "howTo": [
+      "Wybierz, spośród ilu obrazków wybieracie: dwóch, trzech czy czterech. Dwa to najprostsza wersja.",
+      "Popatrzcie razem na cień. Jaki ma kształt? Jest wysoki czy okrągły?",
+      "Dotknij obrazka, do którego należy cień. Jego nazwa pojawi się pod cieniem.",
+      "Jeśli dotkniesz innego obrazka, gra po prostu poda jego nazwę i poczeka. Bez pośpiechu.",
+      "Dotknij „Następny cień”, gdy będziecie gotowi na kolejny."
+    ],
+    "tips": [
+      "Obwiedźcie palcem kontur cienia i porozmawiajcie o jego kształcie.",
+      "Jeśli dziś cienie wydają się trudne, przejdźcie do gry „Znajdź taki sam”, w której obrazki wyglądają identycznie.",
+      "Porozmawiajcie o obrazku, gdy już się znajdzie: „Mieliśmy kiedyś taki parasol”."
+    ],
+    "faq": [
+      {
+        "q": "Czy jest odliczanie czasu albo punkty?",
+        "a": "Nie. Nie ma zegara, punktów, licznika ruchów ani przegranej. Można przerwać w dowolnej chwili, a przerwanie w połowie to zupełnie dobry sposób na zakończenie."
+      },
+      {
+        "q": "Czy dopasowywanie cieni jest dobre dla osób z demencją?",
+        "a": "Dla niektórych osób może to być miłe, proste zajęcie, zwłaszcza we wcześniejszych stadiach. Kształty łatwiej rozpoznać niż słowa. Gra służy przyjemności i rozmowie, nie jest testem i nie leczy ani nie spowalnia demencji. Jeśli wywołuje frustrację, wypróbujcie „Znajdź taki sam” albo po prostu pooglądajcie razem obrazki."
+      },
+      {
+        "q": "Co się dzieje, gdy dotknie się innego obrazka?",
+        "a": "Nic przykrego. Nie ma brzęczyka, czerwonego krzyżyka ani trzęsienia ekranu. Gra podaje nazwę dotkniętego obrazka i czeka na kolejne dotknięcie."
+      },
+      {
+        "q": "Czy gra jest bezpłatna i czy trzeba się rejestrować?",
+        "a": "Tak, jest bezpłatna i nie wymaga konta, rejestracji ani pobierania. Działa w przeglądarce na telefonie, tablecie lub komputerze."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Sortujmy razem",
+    "seoTitle": "Gra w sortowanie dla osób z demencją: Sortujmy razem",
+    "h1": "Sortujmy razem: sortowanie obrazków",
+    "description": "Dotknij obrazka, a potem koszyka, do którego pasuje: kuchnia czy ogród, owoce czy zwierzęta. Spokojne, bezpłatne sortowanie dla osób z demencją.",
+    "short": "Włóż każdy obrazek do jego koszyka: kuchnia czy ogród – i nie tylko.",
+    "players": "1 lub 2 osoby",
+    "intro": "Sortowanie to znana, dająca satysfakcję codzienna czynność – jak rozpakowywanie zakupów czy łączenie skarpet w pary. Dotknij obrazka, a potem koszyka, do którego pasuje. Nie ma pośpiechu ani złych ruchów.",
+    "howTo": [
+      "Wybierz temat: kuchnia i ogród, owoce i zwierzęta albo dom i podróże.",
+      "Dotknij obrazka. Pojawi się wokół niego złota ramka.",
+      "Dotknij koszyka, do którego pasuje. Obrazek przeniesie się do tego koszyka.",
+      "Jeśli pasuje do drugiego koszyka, gra łagodnie o tym powie i poczeka.",
+      "Gdy wszystkie obrazki będą posortowane, przejrzyjcie razem koszyki."
+    ],
+    "tips": [
+      "W prawdziwym życiu często nie ma złych odpowiedzi. Jeśli ktoś uzna, że konewka pasuje do kuchni, zapytaj dlaczego. Może usłyszysz ciekawą historię.",
+      "Wykorzystajcie obrazki jako zachętę do rozmowy: „Co rosło u ciebie w ogrodzie?”",
+      "Sortowanie prawdziwych przedmiotów, np. łyżek i widelców albo guzików według koloru, to świetny ciąg dalszy z dala od ekranu."
+    ],
+    "faq": [
+      {
+        "q": "Czy jest odliczanie czasu albo punkty?",
+        "a": "Nie. Nie ma zegara, punktów, licznika ruchów ani przegranej. Można przerwać w dowolnej chwili, a przerwanie w połowie to zupełnie dobry sposób na zakończenie."
+      },
+      {
+        "q": "Dlaczego sortowanie?",
+        "a": "Wiele osób lubi sortować, bo przypomina to pożyteczną, znajomą pracę. Łatwo też przy tym rozmawiać o obrazkach."
+      },
+      {
+        "q": "Czy gra jest bezpłatna i czy trzeba się rejestrować?",
+        "a": "Tak, jest bezpłatna i nie wymaga konta, rejestracji ani pobierania. Działa w przeglądarce na telefonie, tablecie lub komputerze."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Układanka obrazkowa",
+    "seoTitle": "Łatwe puzzle dla osób z demencją: 4 lub 9 elementów",
+    "h1": "Układanka obrazkowa: łatwe puzzle",
+    "description": "Łatwe puzzle online dla osób z demencją: 4 lub 9 dużych elementów, cały obrazek jest widoczny, a dwa elementy zamienia się miejscami dotknięciem.",
+    "short": "Dotykaj po dwa elementy, by zamieniać je miejscami, aż obrazek będzie cały.",
+    "players": "1 lub 2 osoby",
+    "intro": "Przyjazny obrazek jest pocięty na cztery lub dziewięć dużych elementów i wymieszany. Cały obrazek pozostaje widoczny jako wzór. Dotknij jednego elementu, potem drugiego, a zamienią się miejscami. Nie trzeba niczego przeciągać.",
+    "howTo": [
+      "Wybierz obrazek i 4 lub 9 elementów. Cztery to łagodny początek.",
+      "Popatrz na cały obrazek u góry.",
+      "Dotknij elementu, a potem miejsca, w którym powinien się znaleźć. Oba elementy zamienią się miejscami.",
+      "Elementy na właściwym miejscu dostają mały ptaszek.",
+      "Gdy obrazek jest cały, nacieszcie się nim razem, a potem wybierzcie kolejny."
+    ],
+    "tips": [
+      "Dla wielu osób dotknięcie dwóch elementów, by je zamienić, jest dużo łatwiejsze niż przeciąganie.",
+      "Rozmawiajcie o obrazku, gdy się układa: „O, jest czerwony dach”.",
+      "Prawdziwe drewniane puzzle z 12–24 dużymi elementami to także piękne zajęcie przy stole."
+    ],
+    "faq": [
+      {
+        "q": "Czy jest odliczanie czasu albo punkty?",
+        "a": "Nie. Nie ma zegara, punktów, licznika ruchów ani przegranej. Można przerwać w dowolnej chwili, a przerwanie w połowie to zupełnie dobry sposób na zakończenie."
+      },
+      {
+        "q": "Czy trzeba przeciągać elementy?",
+        "a": "Nie. Dotknij jednego elementu, potem drugiego, a zamienią się miejscami. To łatwiejsze, gdy ręka drży, a także na małym ekranie."
+      },
+      {
+        "q": "Czy gra jest bezpłatna i czy trzeba się rejestrować?",
+        "a": "Tak, jest bezpłatna i nie wymaga konta, rejestracji ani pobierania. Działa w przeglądarce na telefonie, tablecie lub komputerze."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Dokończ przysłowie",
+    "seoTitle": "Dokończ przysłowie: gra słowna dla seniorów",
+    "h1": "Dokończ przysłowie",
+    "description": "Znane polskie przysłowia bez ostatniego słowa, np. „Lepiej późno niż ___”. Dotknij odpowiedzi lub pokaż zakończenie, a potem porozmawiajcie.",
+    "short": "Kończcie razem znane przysłowia, a potem o nich porozmawiajcie.",
+    "players": "1 lub 2 osoby albo grupa",
+    "intro": "Stare przysłowia wiele osób zna przez całe życie. Na każdej karcie jest znane przysłowie bez ostatniego słowa, trzy odpowiedzi do wyboru i przycisk „Pokaż zakończenie”. Po zakończeniu łagodne pytanie zachęca do rozmowy.",
+    "howTo": [
+      "Przeczytajcie razem przysłowie na głos.",
+      "Dotknij słowa, które je kończy, albo dotknij „Pokaż zakończenie”.",
+      "Przeczytajcie jeszcze raz całe przysłowie i porozmawiajcie o nim, korzystając z pytania.",
+      "Dotknij „Następne przysłowie”, gdy będziecie gotowi."
+    ],
+    "tips": [
+      "Czytaj powoli i zrób pauzę przed ostatnim słowem. Często ktoś powie je, zanim skończysz.",
+      "Jeśli ktoś poda inne zakończenie, cieszcie się nim. Niektóre przysłowia brzmią różnie w zależności od rodziny czy regionu.",
+      "W grupie jedna osoba czyta, a wszyscy razem mówią zakończenie."
+    ],
+    "faq": [
+      {
+        "q": "Czy jest odliczanie czasu albo punkty?",
+        "a": "Nie. Nie ma zegara, punktów, licznika ruchów ani przegranej. Można przerwać w dowolnej chwili, a przerwanie w połowie to zupełnie dobry sposób na zakończenie."
+      },
+      {
+        "q": "Co jeśli wybierzemy inne słowo?",
+        "a": "Gra pokazuje zwykłe zakończenie i przechodzi do rozmowy. Nie ma punktów, a inna odpowiedź jest w porządku."
+      },
+      {
+        "q": "Czy gra jest bezpłatna i czy trzeba się rejestrować?",
+        "a": "Tak, jest bezpłatna i nie wymaga konta, rejestracji ani pobierania. Działa w przeglądarce na telefonie, tablecie lub komputerze."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Wykreślanka z dużymi literami",
+    "seoTitle": "Wykreślanka z dużymi literami dla seniorów, do druku",
+    "h1": "Wykreślanka z dużymi literami",
+    "description": "Bezpłatna wykreślanka z dużymi literami dla seniorów i osób z demencją. Mało słów, duże litery, słowa tylko poziomo i pionowo. Online lub do wydruku.",
+    "short": "Duże litery, kilka słów, tylko poziomo i pionowo. Także do wydruku.",
+    "players": "1 lub 2 osoby",
+    "intro": "Mała siatka z dużymi literami i tylko kilkoma słowami – wszystkie czyta się poziomo lub pionowo. Dotknij pierwszej litery słowa, a potem ostatniej. Wolisz papier? Wydrukuj nową wykreślankę jednym dotknięciem.",
+    "howTo": [
+      "Wybierz temat i wielkość siatki.",
+      "Popatrz na listę słów. Słowa czyta się poziomo (od lewej do prawej) lub pionowo (z góry na dół).",
+      "Dotknij pierwszej litery słowa, a potem jego ostatniej litery.",
+      "Znalezione słowo zostaje podświetlone i skreślone na liście.",
+      "Dotknij „Wydrukuj tę wykreślankę”, by rozwiązać ją na papierze ołówkiem lub flamastrem."
+    ],
+    "tips": [
+      "Wskaż słowo na liście i razem poszukajcie jego pierwszej litery.",
+      "Na papierze zakreślacz łatwiej utrzymać w dłoni niż ołówek.",
+      "Porozmawiajcie o słowach z danego tematu. Nazwy owoców to naturalny wstęp do wspomnień o zbieraniu owoców, pieczeniu ciast czy targu."
+    ],
+    "faq": [
+      {
+        "q": "Czy jest odliczanie czasu albo punkty?",
+        "a": "Nie. Nie ma zegara, punktów, licznika ruchów ani przegranej. Można przerwać w dowolnej chwili, a przerwanie w połowie to zupełnie dobry sposób na zakończenie."
+      },
+      {
+        "q": "Czy mogę wydrukować wykreślankę?",
+        "a": "Tak. Dotknij „Wydrukuj tę wykreślankę”, by wydrukować aktualną siatkę dużą czcionką, z listą słów pod spodem. Każda nowa wykreślanka jest inna."
+      },
+      {
+        "q": "Czy gra jest bezpłatna i czy trzeba się rejestrować?",
+        "a": "Tak, jest bezpłatna i nie wymaga konta, rejestracji ani pobierania. Działa w przeglądarce na telefonie, tablecie lub komputerze."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Kolorowanki",
+    "seoTitle": "Kolorowanki dla dorosłych z demencją (bezpłatne)",
+    "h1": "Kolorowanki",
+    "description": "Proste kolorowanki dla dorosłych z dużymi polami: dotknij koloru, potem obrazka. Bez bałaganu i bez złych kolorów, a każdą stronę można bezpłatnie wydrukować.",
+    "short": "Dotknij koloru, a potem części obrazka. Strony można też wydrukować.",
+    "players": "1 lub 2 osoby",
+    "intro": "Strony z dużymi, prostymi kształtami: kwiat w doniczce, dom, filiżanka, motyl i żaglówka. Dotknij koloru, a potem części obrazka, by ją wypełnić. Nie ma złych kolorów.",
+    "howTo": [
+      "Wybierz stronę.",
+      "Dotknij koloru. Na każdym kolorze jest napisana jego nazwa.",
+      "Dotknij części obrazka, by wypełnić ją tym kolorem.",
+      "W każdej chwili możesz zmienić zdanie i wypełnić ją ponownie.",
+      "Dotknij „Wydrukuj tę stronę”, by dostać pustą stronę do kolorowania kredkami lub flamastrami."
+    ],
+    "tips": [
+      "Jeśli wybieranie to za dużo, zaproponuj dwa kolory zamiast całego zestawu.",
+      "Fioletowe drzewa i niebieskie słońca są mile widziane. Chodzi o radość z kolorów, a nie o dokładność.",
+      "Wydrukowane strony dobrze sprawdzają się z grubymi flamastrami lub kredkami świecowymi, które łatwiej chwycić."
+    ],
+    "faq": [
+      {
+        "q": "Czy jest odliczanie czasu albo punkty?",
+        "a": "Nie. Nie ma zegara, punktów, licznika ruchów ani przegranej. Można przerwać w dowolnej chwili, a przerwanie w połowie to zupełnie dobry sposób na zakończenie."
+      },
+      {
+        "q": "Czy te kolorowanki nie są zbyt dziecinne?",
+        "a": "Narysowaliśmy spokojne, proste przedmioty, a nie postacie z kreskówek, więc strony pasują do dorosłych. Duże kształty sprawiają, że kolorowanie jest łatwe, ale nie dziecinne."
+      },
+      {
+        "q": "Czy gra jest bezpłatna i czy trzeba się rejestrować?",
+        "a": "Tak, jest bezpłatna i nie wymaga konta, rejestracji ani pobierania. Działa w przeglądarce na telefonie, tablecie lub komputerze."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Karty do rozmowy",
+    "seoTitle": "Tematy do rozmowy z osobą z demencją: karty obrazkowe",
+    "h1": "Karty do rozmowy",
+    "description": "Karty obrazkowe z łagodnymi tematami do rozmowy z osobami z demencją: bez odpytywania i bez dobrych czy złych odpowiedzi. Na ekranie lub do wydruku.",
+    "short": "Karty obrazkowe z otwartymi, łagodnymi pytaniami. Bez odpytywania.",
+    "players": "2 osoby lub grupa",
+    "intro": "Każda karta łączy znajomy obrazek z otwartym zaproszeniem do rozmowy, np. „Jaką pogodę lubisz najbardziej?”. Nie ma tu dobrych ani złych odpowiedzi i niczego nie trzeba pamiętać. Wybierz temat albo przetasuj wszystkie karty.",
+    "howTo": [
+      "Wybierz temat albo zostaw „Wszystkie karty”.",
+      "Przeczytaj pytanie na głos i razem popatrzcie na obrazek.",
+      "Słuchaj, podziel się własną odpowiedzią i pozwól rozmowie płynąć swobodnie.",
+      "Dotknij „Następna karta”, gdy będziecie gotowi, albo zostańcie przy jednej karcie tak długo, jak chcecie.",
+      "Dotknij „Wydrukuj wszystkie karty”, by wyciąć papierowy zestaw."
+    ],
+    "tips": [
+      "Odpowiadaj na pytania także od siebie. Wtedy to rozmowa, a nie wywiad.",
+      "Podążaj za opowieścią, a nie za faktami. Jeśli szczegóły się zmieniają, nic nie szkodzi.",
+      "Jeśli karta poruszy coś smutnego, uznaj to uczucie i łagodnie przejdź do innej karty."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego nie ma pytań typu „Czy pamiętasz…?”",
+        "a": "Pytania, które sprawdzają pamięć, mogą przypominać egzamin i wywoływać zakłopotanie. Otwarte zaproszenia, takie jak „Opowiedz mi o…”, pozwalają każdemu się włączyć, niezależnie od tego, co pamięta."
+      },
+      {
+        "q": "Czy mogę wydrukować karty?",
+        "a": "Tak. „Wydrukuj wszystkie karty” drukuje cały zestaw dużą czcionką, po kilka kart na stronie, gotowy do wycięcia."
+      },
+      {
+        "q": "Czy gra jest bezpłatna i czy trzeba się rejestrować?",
+        "a": "Tak, jest bezpłatna i nie wymaga konta, rejestracji ani pobierania. Działa w przeglądarce na telefonie, tablecie lub komputerze."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Pary zdjęć",
+    "seoTitle": "Gra w pary z własnych zdjęć rodzinnych",
+    "h1": "Pary zdjęć: dopasuj własne zdjęcia",
+    "description": "Zamień własne zdjęcia rodzinne w łagodną grę w pary. Wybierz od 2 do 6 zdjęć z urządzenia; zostają w przeglądarce i nigdy nie są nigdzie przesyłane.",
+    "short": "Wybierz własne zdjęcia i dopasuj je w pary. Nic nie jest przesyłane.",
+    "players": "2 osoby, obok siebie",
+    "intro": "Wybierz od dwóch do sześciu zdjęć z telefonu, tabletu lub komputera, a powstanie z nich gra w pary z dużymi, widocznymi obrazkami. Zdjęcia są wyświetlane tylko na tej stronie. Nie są przesyłane, zapisywane ani udostępniane i znikają po zamknięciu strony.",
+    "howTo": [
+      "Dotknij „Wybierz zdjęcia” i wybierz od dwóch do sześciu zdjęć.",
+      "Każde zdjęcie pojawia się dwa razy. Dotknij jednego, a potem jego pary.",
+      "Rozmawiajcie o każdym zdjęciu, gdy je znajdziecie.",
+      "Gdy skończycie, zamknij stronę lub dotknij „Usuń zdjęcia”. Nic nie zostaje zapisane."
+    ],
+    "tips": [
+      "Wybierz wyraźne zdjęcia radosnych, znajomych rzeczy: zwierzaka, ogrodu, ulubionego miejsca, dnia ślubu.",
+      "Zdjęcia miejsc i przedmiotów bywają łatwiejsze niż twarze i nie wywierają presji, by nazywać osoby.",
+      "Pomiń zdjęcia osób, które zmarły, jeśli mogą wywołać nagły smutek – chyba że wiesz, że przynoszą pocieszenie."
+    ],
+    "faq": [
+      {
+        "q": "Czy moje zdjęcia są gdzieś przesyłane?",
+        "a": "Nie. Strona odczytuje wybrane zdjęcia bezpośrednio w przeglądarce i pokazuje je na ekranie. Nie trafiają do nas ani do nikogo innego i znikają po zamknięciu lub odświeżeniu strony."
+      },
+      {
+        "q": "Czy jest odliczanie czasu albo punkty?",
+        "a": "Nie. Nie ma zegara, punktów, licznika ruchów ani przegranej. Można przerwać w dowolnej chwili, a przerwanie w połowie to zupełnie dobry sposób na zakończenie."
+      },
+      {
+        "q": "Czy mogę zapisać grę na następny raz?",
+        "a": "Nie w przeglądarce – celowo, żeby nic prywatnego nie było przechowywane. Bezpłatna aplikacja Golden Moments na iPhone’a i iPada może przechowywać kopie wybranych zdjęć na urządzeniu."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bingo obrazkowe",
+    "seoTitle": "Bingo obrazkowe dla seniorów z demencją, do druku",
+    "h1": "Bingo obrazkowe dla grup",
+    "description": "Bezpłatne bingo obrazkowe do druku dla domów opieki i grup seniorów, z dużym losowaniem na ekranie. Obrazki z podpisami, 9 lub 16 pól, bez czytania.",
+    "short": "Karty bingo z obrazkami do druku i losowanie na dużym ekranie dla grup.",
+    "players": "Grupa od 2 do 30 osób",
+    "intro": "Klasyczne bingo z obrazkami zamiast liczb, więc nikt nie musi czytać drobnego druku. Wydrukuj zestaw niepowtarzalnych kart, a potem w losowaniu na ekranie pokazuj każdy obrazek w dużym formacie na telewizorze, laptopie lub tablecie.",
+    "howTo": [
+      "Wybierz 9 lub 16 pól na karcie i liczbę graczy.",
+      "Dotknij „Wydrukuj karty”. Każda karta jest inna.",
+      "Otwórz losowanie na dużym ekranie. Dotknij „Następny obrazek”, by pokazać kolejny obrazek z nazwą.",
+      "Gracze zakrywają pasujący obrazek na swojej karcie monetą, guzikiem lub żetonem.",
+      "Każdy, kto zapełni rząd albo całą kartę, dostaje brawa. W tej wersji nikt nie przegrywa: grajcie dalej, aż każdy będzie miał linię."
+    ],
+    "tips": [
+      "Używajcie dużych żetonów, np. pionków do warcabów lub nakrętek od butelek. Małe guziki trudno podnieść.",
+      "Nazwij obrazek i powiedz coś o nim: „Żaglówka. Kto pływał kiedyś łódką?”",
+      "Osoby, które słabiej widzą, posadź najbliżej ekranu, a graczom, którzy potrzebują pomocy, przydziel pomocników.",
+      "Dziewięć pól wystarczy większości grup. Niech spotkanie trwa około 20–30 minut."
+    ],
+    "faq": [
+      {
+        "q": "Jak poprowadzić bingo obrazkowe w domu opieki?",
+        "a": "Wydrukuj po jednej karcie dla każdego gracza, wyświetl losowanie na największym ekranie, jaki masz, i pokazuj obrazki powoli, nazywając każdy z nich. Grajcie, aż każdy będzie miał linię, żeby nikt nie został pominięty."
+      },
+      {
+        "q": "Czy drukowanie jest bezpłatne?",
+        "a": "Tak. Drukuj tyle kart, ile potrzebujesz, i tak często, jak chcesz – do użytku prywatnego lub w grupie."
+      },
+      {
+        "q": "Czy można grać bez czytania?",
+        "a": "Tak. Każde pole to duży obrazek, a pod nim jego nazwa dla tych, którzy lubią słowa."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Spokojny oddech",
+    "seoTitle": "Chwila spokojnego oddechu dla seniorów i opiekunów",
+    "h1": "Chwila spokojnego oddechu",
+    "description": "Powolna, cicha chwila oddechu we dwoje: łagodne koło rośnie i maleje przez sześć oddechów. To Ty je uruchamiasz i możesz przerwać w każdej chwili.",
+    "short": "Powolne koło, z którym można oddychać. Start i stop, kiedy chcesz.",
+    "players": "1 lub 2 osoby",
+    "intro": "Czasem najlepszym zajęciem jest cicha chwila. Dotknij „Start”, a potem wdychaj powietrze, gdy koło rośnie, i wydychaj, gdy maleje. Wybierz wolniejsze lub szybsze tempo. To nie jest leczenie, tylko spokojna chwila, którą można dzielić z drugą osobą.",
+    "howTo": [
+      "Usiądźcie wygodnie obok siebie.",
+      "Wybierz tempo: wolne lub łagodne.",
+      "Dotknij „Start”. Wdech, gdy koło rośnie, wydech, gdy maleje.",
+      "Koło zatrzyma się samo po sześciu oddechach. Możesz też w każdej chwili dotknąć „Stop”."
+    ],
+    "tips": [
+      "Weź bliską osobę za rękę lub połóż dłoń na jej ramieniu, jeśli jest to mile widziane.",
+      "Nigdy nie nalegaj. Jeśli bliska osoba woli tylko patrzeć, to w porządku.",
+      "Jeśli ktoś ma problemy z oddychaniem, niech oddycha normalnie i po prostu patrzy na koło. Wszelkie wątpliwości dotyczące oddychania warto omówić z lekarzem."
+    ],
+    "faq": [
+      {
+        "q": "Czy to medyczne ćwiczenie oddechowe?",
+        "a": "Nie. To prosta, dobrowolna chwila spokoju i bycia razem. Nie jest to leczenie lęku ani żadnej innej dolegliwości. W sprawach zdrowia porozmawiaj z lekarzem."
+      },
+      {
+        "q": "Czy koło porusza się, zanim je uruchomię?",
+        "a": "Nie. Nic się nie porusza, dopóki nie dotkniesz „Start”, a koło zatrzymuje się po sześciu oddechach lub gdy dotkniesz „Stop”. Jeśli urządzenie ma włączoną opcję ograniczenia ruchu, zmieniają się tylko napisy, a koło nie rośnie."
+      },
+      {
+        "q": "Czy gra jest bezpłatna i czy trzeba się rejestrować?",
+        "a": "Tak, jest bezpłatna i nie wymaga konta, rejestracji ani pobierania. Działa w przeglądarce na telefonie, tablecie lub komputerze."
+      }
+    ]
+  }
+}
