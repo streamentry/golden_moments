@@ -5,7 +5,11 @@
       "restart": "Start again",
       "soundOn": "Soft sounds on",
       "soundOff": "Soft sounds off",
-      "done": "Done for now"
+      "done": "Done for now",
+      "feedbackQuestion": "Did this help today?",
+      "feedbackYes": "Yes",
+      "feedbackNo": "Not really",
+      "feedbackThanks": "Thank you for telling us."
     },
     "tile": {
       "named": "{name}, tile {n}",

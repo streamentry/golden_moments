@@ -5,7 +5,11 @@
       "restart": "Mulai lagi",
       "soundOn": "Suara lembut menyala",
       "soundOff": "Suara lembut mati",
-      "done": "Cukup dulu"
+      "done": "Cukup dulu",
+      "feedbackQuestion": "Apakah ini membantu hari ini?",
+      "feedbackYes": "Ya",
+      "feedbackNo": "Tidak terlalu",
+      "feedbackThanks": "Terima kasih sudah memberi tahu kami."
     },
     "tile": {
       "named": "{name}, kotak {n}",

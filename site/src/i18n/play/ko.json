@@ -5,7 +5,11 @@
       "restart": "처음부터 다시",
       "soundOn": "부드러운 소리 켜짐",
       "soundOff": "부드러운 소리 꺼짐",
-      "done": "오늘은 여기까지"
+      "done": "오늘은 여기까지",
+      "feedbackQuestion": "오늘 도움이 되었나요?",
+      "feedbackYes": "네",
+      "feedbackNo": "별로요",
+      "feedbackThanks": "알려 주셔서 감사합니다."
     },
     "tile": {
       "named": "{name}, {n}번 타일",

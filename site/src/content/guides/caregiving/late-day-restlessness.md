@@ -42,7 +42,7 @@ sources:
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and"
 relatedGames: [calm-breathing, picture-pairs, coloring, conversation-cards, photo-pairs]
-related: [caregiving/when-they-say-no, caregiving/communication-tips, activities/daily-routine, activities/music, activities/sensory, brain-health/sleep]
+related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/communication-tips, activities/daily-routine, activities/music, activities/sensory, brain-health/sleep]
 health: true
 ---
 

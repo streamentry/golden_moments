@@ -5,7 +5,11 @@
       "restart": "Ricomincia",
       "soundOn": "Suoni delicati attivi",
       "soundOff": "Suoni delicati spenti",
-      "done": "Per ora basta"
+      "done": "Per ora basta",
+      "feedbackQuestion": "Le è stato utile oggi?",
+      "feedbackYes": "Sì",
+      "feedbackNo": "Non molto",
+      "feedbackThanks": "Grazie per avercelo detto."
     },
     "tile": {
       "named": "{name}, riquadro {n}",

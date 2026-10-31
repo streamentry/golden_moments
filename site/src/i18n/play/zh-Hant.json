@@ -5,7 +5,11 @@
       "restart": "重新開始",
       "soundOn": "輕柔音效：開",
       "soundOff": "輕柔音效：關",
-      "done": "先到這裡"
+      "done": "先到這裡",
+      "feedbackQuestion": "今天這對您有幫助嗎？",
+      "feedbackYes": "有",
+      "feedbackNo": "不太有",
+      "feedbackThanks": "謝謝您告訴我們。"
     },
     "tile": {
       "named": "{name}，第 {n} 張圖卡",

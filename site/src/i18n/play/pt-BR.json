@@ -5,7 +5,11 @@
       "restart": "Começar de novo",
       "soundOn": "Sons suaves ligados",
       "soundOff": "Sons suaves desligados",
-      "done": "Por enquanto é só"
+      "done": "Por enquanto é só",
+      "feedbackQuestion": "Isso ajudou hoje?",
+      "feedbackYes": "Sim",
+      "feedbackNo": "Não muito",
+      "feedbackThanks": "Obrigado por nos contar."
     },
     "tile": {
       "named": "{name}, carta {n}",

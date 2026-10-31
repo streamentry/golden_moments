@@ -5,7 +5,11 @@
       "restart": "Volver a empezar",
       "soundOn": "Sonidos suaves activados",
       "soundOff": "Sonidos suaves desactivados",
-      "done": "Terminar por ahora"
+      "done": "Terminar por ahora",
+      "feedbackQuestion": "¿Le ayudó esto hoy?",
+      "feedbackYes": "Sí",
+      "feedbackNo": "No mucho",
+      "feedbackThanks": "Gracias por contarnos."
     },
     "tile": {
       "named": "{name}, casilla {n}",

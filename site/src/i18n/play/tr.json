@@ -5,7 +5,11 @@
       "restart": "Yeniden başla",
       "soundOn": "Yumuşak sesler açık",
       "soundOff": "Yumuşak sesler kapalı",
-      "done": "Şimdilik bu kadar"
+      "done": "Şimdilik bu kadar",
+      "feedbackQuestion": "Bugün bu işinize yaradı mı?",
+      "feedbackYes": "Evet",
+      "feedbackNo": "Pek değil",
+      "feedbackThanks": "Bize bildirdiğiniz için teşekkürler."
     },
     "tile": {
       "named": "{name}, kare {n}",

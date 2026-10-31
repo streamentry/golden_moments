@@ -5,7 +5,11 @@
       "restart": "फिर से शुरू करें",
       "soundOn": "हल्की आवाज़ें चालू",
       "soundOff": "हल्की आवाज़ें बंद",
-      "done": "अभी के लिए बस"
+      "done": "अभी के लिए बस",
+      "feedbackQuestion": "क्या आज इससे मदद मिली?",
+      "feedbackYes": "हाँ",
+      "feedbackNo": "ज़्यादा नहीं",
+      "feedbackThanks": "बताने के लिए धन्यवाद।"
     },
     "tile": {
       "named": "{name}, टाइल {n}",

@@ -5,7 +5,11 @@
       "restart": "Начать заново",
       "soundOn": "Тихие звуки включены",
       "soundOff": "Тихие звуки выключены",
-      "done": "Пока закончим"
+      "done": "Пока закончим",
+      "feedbackQuestion": "Это помогло вам сегодня?",
+      "feedbackYes": "Да",
+      "feedbackNo": "Не очень",
+      "feedbackThanks": "Спасибо, что ответили."
     },
     "tile": {
       "named": "{name}, карточка {n}",

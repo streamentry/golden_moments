@@ -5,7 +5,11 @@
       "restart": "Opnieuw beginnen",
       "soundOn": "Zachte geluiden aan",
       "soundOff": "Zachte geluiden uit",
-      "done": "Genoeg voor nu"
+      "done": "Genoeg voor nu",
+      "feedbackQuestion": "Had je hier vandaag iets aan?",
+      "feedbackYes": "Ja",
+      "feedbackNo": "Niet echt",
+      "feedbackThanks": "Bedankt dat je het laat weten."
     },
     "tile": {
       "named": "{name}, kaartje {n}",

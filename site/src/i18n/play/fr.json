@@ -5,7 +5,11 @@
       "restart": "Recommencer",
       "soundOn": "Sons doux activés",
       "soundOff": "Sons doux désactivés",
-      "done": "Fini pour l’instant"
+      "done": "Fini pour l’instant",
+      "feedbackQuestion": "Est-ce que cela vous a aidé aujourd’hui ?",
+      "feedbackYes": "Oui",
+      "feedbackNo": "Pas vraiment",
+      "feedbackThanks": "Merci de nous l’avoir dit."
     },
     "tile": {
       "named": "{name}, carte {n}",

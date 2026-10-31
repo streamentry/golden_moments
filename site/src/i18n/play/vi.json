@@ -5,7 +5,11 @@
       "restart": "Chơi lại từ đầu",
       "soundOn": "Âm thanh nhẹ: bật",
       "soundOff": "Âm thanh nhẹ: tắt",
-      "done": "Tạm nghỉ thôi"
+      "done": "Tạm nghỉ thôi",
+      "feedbackQuestion": "Hôm nay hoạt động này có giúp ích cho bạn không?",
+      "feedbackYes": "Có",
+      "feedbackNo": "Không hẳn",
+      "feedbackThanks": "Cảm ơn bạn đã cho chúng tôi biết."
     },
     "tile": {
       "named": "{name}, ô {n}",

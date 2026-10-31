@@ -5,7 +5,11 @@
       "restart": "重新开始",
       "soundOn": "轻柔音效：开",
       "soundOff": "轻柔音效：关",
-      "done": "先到这里"
+      "done": "先到这里",
+      "feedbackQuestion": "今天这对您有帮助吗？",
+      "feedbackYes": "有",
+      "feedbackNo": "不太有",
+      "feedbackThanks": "谢谢您告诉我们。"
     },
     "tile": {
       "named": "{name}，第 {n} 块",

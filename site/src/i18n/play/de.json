@@ -5,7 +5,11 @@
       "restart": "Neu beginnen",
       "soundOn": "Leise Töne an",
       "soundOff": "Leise Töne aus",
-      "done": "Genug für jetzt"
+      "done": "Genug für jetzt",
+      "feedbackQuestion": "Hat Ihnen das heute geholfen?",
+      "feedbackYes": "Ja",
+      "feedbackNo": "Nicht wirklich",
+      "feedbackThanks": "Danke für Ihre Rückmeldung."
     },
     "tile": {
       "named": "{name}, Karte {n}",

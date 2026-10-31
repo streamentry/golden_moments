@@ -5,7 +5,11 @@
       "restart": "Zacznij od nowa",
       "soundOn": "Ciche dźwięki włączone",
       "soundOff": "Ciche dźwięki wyłączone",
-      "done": "Na razie wystarczy"
+      "done": "Na razie wystarczy",
+      "feedbackQuestion": "Czy to dziś pomogło?",
+      "feedbackYes": "Tak",
+      "feedbackNo": "Nie bardzo",
+      "feedbackThanks": "Dziękujemy za odpowiedź."
     },
     "tile": {
       "named": "{name}, kafelek {n}",

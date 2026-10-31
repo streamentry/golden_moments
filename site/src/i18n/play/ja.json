@@ -5,7 +5,11 @@
       "restart": "最初から",
       "soundOn": "やさしい音：オン",
       "soundOff": "やさしい音：オフ",
-      "done": "今日はここまで"
+      "done": "今日はここまで",
+      "feedbackQuestion": "今日はお役に立ちましたか？",
+      "feedbackYes": "はい",
+      "feedbackNo": "あまり",
+      "feedbackThanks": "お知らせいただきありがとうございます。"
     },
     "tile": {
       "named": "{name}、{n}枚目",

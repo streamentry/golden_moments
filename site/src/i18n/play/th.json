@@ -5,7 +5,11 @@
       "restart": "เริ่มใหม่",
       "soundOn": "เสียงเบา ๆ เปิดอยู่",
       "soundOff": "เสียงเบา ๆ ปิดอยู่",
-      "done": "พอแค่นี้ก่อน"
+      "done": "พอแค่นี้ก่อน",
+      "feedbackQuestion": "วันนี้กิจกรรมนี้ช่วยได้ไหม",
+      "feedbackYes": "ช่วยได้",
+      "feedbackNo": "ไม่ค่อย",
+      "feedbackThanks": "ขอบคุณที่บอกเรา"
     },
     "tile": {
       "named": "{name} ช่องที่ {n}",

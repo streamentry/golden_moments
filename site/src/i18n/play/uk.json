@@ -5,7 +5,11 @@
       "restart": "Почати знову",
       "soundOn": "Тихі звуки ввімкнено",
       "soundOff": "Тихі звуки вимкнено",
-      "done": "Поки що досить"
+      "done": "Поки що досить",
+      "feedbackQuestion": "Чи це допомогло вам сьогодні?",
+      "feedbackYes": "Так",
+      "feedbackNo": "Не дуже",
+      "feedbackThanks": "Дякуємо, що відповіли."
     },
     "tile": {
       "named": "{name}, плитка {n}",

@@ -5,7 +5,11 @@
       "restart": "ابدأ من جديد",
       "soundOn": "الأصوات الهادئة مفعّلة",
       "soundOff": "الأصوات الهادئة متوقفة",
-      "done": "يكفي الآن"
+      "done": "يكفي الآن",
+      "feedbackQuestion": "هل ساعدك هذا اليوم؟",
+      "feedbackYes": "نعم",
+      "feedbackNo": "ليس كثيرًا",
+      "feedbackThanks": "شكرًا لإخبارنا."
     },
     "tile": {
       "named": "{name}، البطاقة {n}",
