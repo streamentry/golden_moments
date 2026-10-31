@@ -43,7 +43,7 @@ const locale = localeInfo(lang);
 const t = ui(lang);
 // Pages declare the languages they exist in; anything else is English only.
 const available = Astro.props.available ?? [DEFAULT_LOCALE];
-// Only reviewed languages are advertised as alternates; machine translations are noindex.
+// Only indexed languages are advertised as alternates (see INDEXED_LANGUAGES).
 const alternates = PUBLISHED.filter((l) => available.includes(l.code) && isIndexable(l.code));
 const blockIndexing = noindex || !isIndexable(lang);
 const fullTitle = rawTitle ? title : `${title}${t.common.titleSuffix}`;

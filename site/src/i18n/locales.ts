@@ -27,20 +27,6 @@ export interface LocaleInfo {
 
 export const DEFAULT_LOCALE = 'en';
 
-/**
- * Languages a native speaker has reviewed. Every other language is a machine
- * translation: its pages stay reachable and labelled, but they are `noindex`
- * and left out of the sitemap, hreflang and llms.txt until a language is added
- * here, so unreviewed dementia and health wording is not put in front of search
- * engines. Add a code only after a native reviewer has checked adult tone, any
- * added medical claim and cultural fit (see TRANSLATING.md).
- */
-export const REVIEWED_LANGUAGES: ReadonlySet<string> = new Set([DEFAULT_LOCALE]);
-
-export function isIndexable(code: string): boolean {
-  return REVIEWED_LANGUAGES.has(code);
-}
-
 export const LOCALES: readonly LocaleInfo[] = [
   { code: 'en', prefix: '', bcp47: 'en', htmlLang: 'en-US', og: 'en_US', name: 'English', englishName: 'English', dir: 'ltr' },
   { code: 'es', prefix: 'es', bcp47: 'es', htmlLang: 'es', og: 'es_ES', name: 'Español', englishName: 'Spanish', dir: 'ltr' },
@@ -63,6 +49,19 @@ export const LOCALES: readonly LocaleInfo[] = [
   { code: 'id', prefix: 'id', bcp47: 'id', htmlLang: 'id', og: 'id_ID', name: 'Bahasa Indonesia', englishName: 'Indonesian', dir: 'ltr' },
   { code: 'th', prefix: 'th', bcp47: 'th', htmlLang: 'th', og: 'th_TH', name: 'ไทย', englishName: 'Thai', dir: 'ltr' },
 ];
+
+/**
+ * Languages search engines may index, listed in sitemaps, hreflang and
+ * llms.txt. Every published language is indexed (maintainer decision,
+ * 2026-11-01), including the machine translations: those pages still say they
+ * are unreviewed and link to the English original. Remove a code to make that
+ * language `noindex` again; TRANSLATING.md tracks which are reviewed.
+ */
+export const INDEXED_LANGUAGES: ReadonlySet<string> = new Set(LOCALES.map((l) => l.code));
+
+export function isIndexable(code: string): boolean {
+  return INDEXED_LANGUAGES.has(code);
+}
 
 const BY_CODE = new Map(LOCALES.map((l) => [l.code, l]));
 const BY_PREFIX = new Map(LOCALES.filter((l) => l.prefix).map((l) => [l.prefix, l]));
