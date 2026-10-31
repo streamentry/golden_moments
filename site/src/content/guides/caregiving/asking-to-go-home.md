@@ -62,7 +62,7 @@ sources:
     publisher: "Penn Memory Center"
     url: "https://pennmemorycenter.org/telling-white-lies-may-justified-patient-alzheimers-disease/"
 relatedGames: [photo-pairs, conversation-cards, calm-breathing, picture-pairs]
-related: [activities/visiting, caregiving/late-day-restlessness, caregiving/communication-tips, activities/reminiscence, activities/music, caregiving/when-they-say-no]
+related: [activities/visiting, caregiving/repeated-questions, caregiving/late-day-restlessness, caregiving/communication-tips, activities/reminiscence, activities/music, caregiving/when-they-say-no]
 health: false
 ---
 
