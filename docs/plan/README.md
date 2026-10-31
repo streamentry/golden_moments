@@ -38,12 +38,38 @@ Number one is defined so it can be measured and can fail. Per storefront:
 | Measure | Threshold (proposed decision, not a benchmark) |
 | --- | --- |
 | Organic rank for the three local head terms (the local equivalents of *dementia activities*, *dementia games*, *Alzheimer's activities*) | Top 3 in App Store search for 8 of 12 weeks |
+| First-time downloads and 30-day deletions per storefront, from the App Store Connect reports `scripts/store_downloads.py` reads (turned on 2026-10-30) | Reported per storefront every week; no absolute threshold until eight weeks of US data set the base rate |
 | Rating | At least 4.5 average from at least 50 ratings |
 | Voluntary reuse in that language's pilot | At least 8 of 20 use units return on another day within 7 days (the existing GM-039 threshold) |
 | Comprehension | 4 of 5 local caregivers describe it as shared photo activities after five seconds on the first screenshot; none infer treatment |
 
 A language that cannot meet the first two within six months of launch is held
 (strings maintained, no further content), not abandoned.
+
+### Relationship to the category-leader research
+
+[docs/strategy/category-leader.md](../strategy/category-leader.md), merged on
+2026-10-31, argues for a different bet: a caregiver-first "dementia care
+infrastructure" platform with accounts, a shared care log, clinician summaries,
+a premium family subscription and health-system (CMS GUIDE) pilots, built by a
+team of several engineers and a clinical lead over 24 months. It is research,
+not a decision, and most of what it proposes is excluded today by the
+boundaries in `AGENTS.md` (no accounts, backend, AI processing, subscription or
+telemetry without a recorded decision).
+
+The two documents agree on what matters most: no brain-training or treatment
+claims, outcomes of enjoyment and connection, conservative privacy, and the
+same strongest counterargument, that caregiver overload and distribution, not
+product quality, may be the real constraint. They differ on scope. This plan
+takes the platform bet as unproven and expensive for a founder-led team without
+sales capacity, and keeps the executable path: the one job the app already does,
+made reliable and multilingual. The category-leader document's own cheapest
+test (a web prototype asking "what is hardest today?" with one answer, a one-tap
+log and a printable summary, offered to 20-30 caregivers, continue only if ten
+return unprompted within seven days) can run on the website without touching the
+app's boundaries, and should run before any platform work is specified. If it
+passes, that is the evidence a scope decision needs; if it fails, this plan loses
+nothing.
 
 ## 2. Where we actually stand
 
@@ -280,8 +306,10 @@ Founder-led and cheap first; no paid campaign without a separately approved budg
 
 1. **ASO per storefront:** localized name, subtitle, keywords, six screenshots,
    promotional text; record impressions, conversion and installs per storefront in
-   `keyword-research.csv` with dates and sources. Search-source installs can include
-   Apple Ads; label them.
+   `keyword-research.csv` with dates and sources, and first-time downloads,
+   deletions and sessions per storefront from the App Store Connect reports
+   (`scripts/store_downloads.py`; see WORKBOARD › Measuring the goal). Search-source
+   installs can include Apple Ads; label them. Play installs come from Play Console.
 2. **National associations and public programs** as the first outbound list:
    ten to thirty per country, the printable handout translated, a request to be
    listed on their technology pages. Partners are in [language-markets.md](language-markets.md).
