@@ -536,5 +536,125 @@
     "android_state": "Committed to the production track; approval not confirmed at the last readback (Play still served 1.4.0)",
     "evidence": "docs/release/app-store-1.5.0-build9.md",
     "meaning": "Store state only. Physical-device, screen-reader and caregiver gates remain pending."
+  },
+  "localization": {
+    "decision": "2026-10-31 maintainer decision: ship machine translations before native review, mark every language unreviewed, and keep unreviewed website pages out of search.",
+    "meaning": "reviewed means a named native reader checked every surface listed in docs/engineering/native-review.md and the evidence is a link to their sign-off; unreviewed means machine-made only. Review order is the order of this list.",
+    "languages": {
+      "es": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "vi": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ja": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "zh-Hant": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "de": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "fr": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ko": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "zh-Hans": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "pt-BR": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "it": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ar": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ru": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "pl": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "nl": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "tr": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "id": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "th": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "uk": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "hi": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      }
+    }
   }
 }
