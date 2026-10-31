@@ -143,7 +143,7 @@ music in gentle activities, optional soft confirmation sounds, no music licensin
 ## 7. Care homes and day centers
 
 - England adult social care provider technology survey 2025 (n=1,085): barriers are
-  set-up cost 73%, ongoing license cost 70%, staff training and turnover 52%,
+  setup cost 73%, ongoing license cost 70%, staff training and turnover 52%,
   connectivity 40%, staff digital skills 39%; 25% use health or well-being apps. **E**.
   <https://www.gov.uk/government/statistics/technology-use-in-adult-social-care-2025-survey-results/findings-from-the-2025-adult-social-care-provider-technology-survey>
 - UK activity providers: funding, time, training and retention gaps; many homes have
@@ -167,8 +167,8 @@ music in gentle activities, optional soft confirmation sounds, no music licensin
   A label counts only if all common tasks complete with that feature. **E**.
   <https://developer.apple.com/help/app-store-connect/manage-app-accessibility/overview-of-accessibility-nutrition-labels>
 - EU Accessibility Act (Directive 2019/882, applies from 28 June 2025): apps are in
-  scope as part of listed services such as e-commerce; microenterprises are exempt;
-  a recreational app with no e-commerce is likely out of scope, in-app purchase may
+  scope as part of listed services such as online shopping; microenterprises are exempt;
+  a recreational app with no online shopping is likely out of scope, in-app purchase may
   touch it. **P** (directive text could not be opened).
 
 ## 9. Reading aloud
@@ -185,7 +185,7 @@ music in gentle activities, optional soft confirmation sounds, no music licensin
 
 ## 10. Consent, privacy and legacy
 
-- Alzheimer's Society factsheet 437 "Using technology": no decision without the
+- Alzheimer's Society fact sheet 437 "Using technology": no decision without the
   person's consent; where capacity is lacking, decide on their behalf under the
   Mental Capacity Act; technology must not replace face-to-face contact. **E**.
   <https://www.alzheimers.org.uk/media/16636>

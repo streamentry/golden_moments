@@ -82,8 +82,7 @@ stay in the default language unless localized ([Google](https://support.google.c
 A supplied translation therefore replaces a machine one that users already see.
 
 **Flutter.** `flutter_localizations`, `intl` and ARB files through `gen-l10n` are
-the documented standard; Chinese scripts use `Locale.fromSubtags(scriptCode:
-'Hans' or 'Hant')`; text direction comes from `GlobalWidgetsLocalizations`
+the documented standard; Chinese scripts use a locale with the script code `Hans` or `Hant`; text direction comes from `GlobalWidgetsLocalizations`
 ([Flutter docs](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization)).
 Repository state: `l10n.yaml` and `app_en.arb` exist with one template string;
 a regex estimate found roughly 300 to 400 hardcoded literals, about 2,400 words,
