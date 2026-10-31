@@ -2,4 +2,4 @@
 "CFBundleDisplayName" = "Golden Moments";
 
 /* Shown when the app first asks to choose photos. Say plainly that only chosen photos are copied, on this device. */
-"NSPhotoLibraryUsageDescription" = "Choose family photos to copy into private activities on this device. Golden Moments does not scan your photo library.";
+"NSPhotoLibraryUsageDescription" = "Выберите семейные фото, чтобы скопировать их для личных занятий на этом устройстве. Golden Moments не просматривает вашу медиатеку.";
