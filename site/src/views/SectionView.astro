@@ -50,7 +50,7 @@ const itemList = {
       {rest.map((g) => <li><GuideCard href={href(g)} title={g.entry.data.title} text={g.entry.data.description} lang={lang} /></li>)}
     </ul>
     <PlayCta lang={lang} />
-    <AppCta lang={lang} />
+    <AppCta placement="section" lang={lang} />
   </div>
 </BaseLayout>
 

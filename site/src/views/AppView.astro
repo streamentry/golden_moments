@@ -1,6 +1,7 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
 import { SITE } from '../lib/site';
+import { playStoreUrl } from '../lib/store-links';
 import { localizeHtml } from '../i18n/locales';
 import { PUBLISHED, fill, ui } from '../i18n/ui';
 import Faq from '../components/Faq.astro';
@@ -20,7 +21,7 @@ const faq = appFaq(lang);
 <PageLayout title={p.title} seoTitle={p.seoTitle} description={p.description} path="/app/" crumb={p.crumb} lede={p.lede} jsonLd={[mobileApplication(lang), faqPage(faq)]} lang={lang} available={PUBLISHED.map((l) => l.code)}>
   <div class="btn-row btn-row--spaced">
     <a class="btn btn--primary" href={SITE.appStoreUrl} rel="noopener"><Icon name="phone" />{t.appCta.appStore}</a>
-    <a class="btn" href={SITE.playStoreUrl} rel="noopener"><Icon name="phone" />{t.appCta.googlePlay}</a>
+    <a class="btn" href={playStoreUrl('app-page')} rel="noopener"><Icon name="phone" />{t.appCta.googlePlay}</a>
   </div>
   <p>{facts.summary} {fill(p.worksOn, { platforms: facts.platforms, requirements: facts.requirements })}</p>
   {p.appLanguageNote && <p>{p.appLanguageNote}</p>}

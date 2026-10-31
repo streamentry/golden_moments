@@ -130,7 +130,7 @@ const photo = s === 'photo-pairs';
             </div>
           )
         }
-        <AppCta compact lang={lang} title={photo ? p.photoAppTitle : p.appTitle} text={photo ? p.photoAppText : p.appText} />
+        <AppCta compact placement="game-aside" lang={lang} title={photo ? p.photoAppTitle : p.appTitle} text={photo ? p.photoAppText : p.appText} />
         <div class="aside-box">
           <h2>{p.goodToKnow}</h2>
           <p class="small-print">{p.goodToKnowText}</p>
@@ -138,7 +138,7 @@ const photo = s === 'photo-pairs';
       </aside>
     </div>
 
-    <AppCta lang={lang} />
+    <AppCta placement="game" lang={lang} />
 
     <section class="section" aria-labelledby="more-games">
       <h2 id="more-games">{p.moreGames}</h2>

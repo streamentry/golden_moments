@@ -8,6 +8,7 @@ import type { IconName } from '../lib/icons';
 import PlayCta from '../components/PlayCta.astro';
 import { pictureUrl } from '../data/pictures';
 import { SITE } from '../lib/site';
+import { playStoreUrl } from '../lib/store-links';
 import { faqPage, organization, website } from '../lib/schema';
 import { localePath, localizeHtml } from '../i18n/locales';
 import { localizedGames } from '../i18n/games';
@@ -39,6 +40,7 @@ const collage = ['teacup', 'sunflower', 'dog', 'sailboat'];
         <ul class="hero__facts">
           {h.facts.map((fact) => <li><Icon name="check" />{fact}</li>)}
         </ul>
+        <p class="hero__app"><Icon name="phone" /><a href={l('/app/')}>{h.heroApp}</a></p>
       </div>
       <div class="hero__album" aria-hidden="true">
         {
@@ -163,7 +165,7 @@ const collage = ['teacup', 'sunflower', 'dog', 'sailboat'];
         <p>{h.appText}</p>
         <div class="btn-row">
           <a class="btn" href={SITE.appStoreUrl} rel="noopener"><Icon name="phone" />{t.appCta.appStoreShort}</a>
-          <a class="btn" href={SITE.playStoreUrl} rel="noopener"><Icon name="phone" />{t.appCta.googlePlayShort}</a>
+          <a class="btn" href={playStoreUrl('home')} rel="noopener"><Icon name="phone" />{t.appCta.googlePlayShort}</a>
           <a class="btn btn--quiet" href={l('/app/')}>{h.aboutApp}</a>
         </div>
       </div>
@@ -218,6 +220,15 @@ const collage = ['teacup', 'sunflower', 'dog', 'sailboat'];
     display: grid;
     gap: var(--space-sm);
     font-size: var(--text-md);
+  }
+  .hero__app {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    margin-top: var(--space-md);
+  }
+  .hero__app :global(svg) {
+    flex: none;
   }
   .hero__facts li {
     display: flex;

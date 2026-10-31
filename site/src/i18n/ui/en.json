@@ -62,7 +62,7 @@
   "home": {
     "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
     "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No sign-up · No timers or scores",
+    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
     "h1": "Gentle Games & Activities for People with Dementia",
     "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
     "playGame": "Play a Game",
@@ -72,6 +72,7 @@
       "Big pictures that stay showing",
       "Stop any time; nothing to fail"
     ],
+    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
     "albumNote": "“Two pictures of the teacup, together.”",
     "gamesEyebrow": "Play in your browser",
     "gamesTitle": "Games you can play right now",
