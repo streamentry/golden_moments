@@ -13,6 +13,7 @@ import 'package:golden_moments/features/gentle_activities/presentation/photo_col
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
 import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
 import 'package:golden_moments/features/reminders/presentation/reminder_page.dart';
+import 'package:golden_moments/features/today/presentation/today_page.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/native/gm_native.dart';
 import 'package:golden_moments/shared/rating/review_request.dart';
@@ -196,6 +197,14 @@ class _GentleHomePageState extends State<GentleHomePage> {
         ),
       ),
       const SizedBox(height: gmSpaceLg),
+      // For the caregiver: one hard moment, what to try, private notes.
+      Center(
+        child: TextButton.icon(
+          onPressed: () => _open(const TodayPage()),
+          icon: const Icon(Icons.volunteer_activism_outlined),
+          label: Text(l10n.todayTitle, textAlign: TextAlign.center),
+        ),
+      ),
       // Always available, never pushed (DESIGN.md › Sharing).
       Center(
         child: ShareWithFamilyButton(

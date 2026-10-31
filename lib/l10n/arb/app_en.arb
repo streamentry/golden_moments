@@ -1487,5 +1487,225 @@
         "example": "photo-import"
       }
     }
+  },
+  "todayTitle": "What is hardest today?",
+  "@todayTitle": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Page title and the Home link to it. A question to the caregiver."
+  },
+  "todayIntro": "Choose one. You get three things to try, when to get help, and one gentle activity. Later, tap how it went.",
+  "@todayIntro": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Intro under the title."
+  },
+  "todayTryHeading": "Try one of these",
+  "@todayTryHeading": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Heading above three suggestions."
+  },
+  "todayGetHelp": "Get help",
+  "@todayGetHelp": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Heading above when to call a doctor or helpline."
+  },
+  "todayHelpDoctor": "Call their doctor the same day if this starts suddenly or gets much worse over hours or days, or comes with a fever, pain or a new medicine. In an emergency, call 911.",
+  "@todayHelpDoctor": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. When to get help, for most situations. '911' is the US emergency number: use the local emergency number or the words 'emergency services'."
+  },
+  "todayHelpVisit": "If you notice a sudden change during a visit, tell the staff or their doctor the same day. In an emergency, call 911.",
+  "@todayHelpVisit": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. When to get help, for a visit. '911' is the US emergency number: use the local emergency number or the words 'emergency services'."
+  },
+  "todayHelpCrisis": "If you feel in crisis, call or text 988. In an emergency, call 911.",
+  "@todayHelpCrisis": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. When to get help, for a worn-out caregiver. 988 is the US crisis line: use the local crisis line or 'a crisis line'. '911' is the US emergency number: use the local emergency number or the words 'emergency services'."
+  },
+  "todayActivityHeading": "One gentle activity",
+  "@todayActivityHeading": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Heading above a button that opens an activity in the app."
+  },
+  "todayHowHeading": "Later: how did it go?",
+  "@todayHowHeading": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Heading above three buttons the caregiver taps after trying something."
+  },
+  "todayNoteLabel": "A few words for yourself (optional)",
+  "@todayNoteLabel": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Label of an optional text field."
+  },
+  "todayOutcomeHelped": "That helped",
+  "@todayOutcomeHelped": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Button: what they tried helped."
+  },
+  "todayOutcomeNotReally": "Not really",
+  "@todayOutcomeNotReally": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Button: it did not help much. Gentle, not negative."
+  },
+  "todayOutcomeNotTried": "Didn’t try it",
+  "@todayOutcomeNotTried": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Button: they did not try it. No blame."
+  },
+  "todaySaved": "Saved in your notes below.",
+  "@todaySaved": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Confirmation after a tap."
+  },
+  "todayCouldNotSave": "These notes could not be saved on this device. You can still share them now.",
+  "@todayCouldNotSave": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Shown when saving fails."
+  },
+  "todayNotesHeading": "Your notes",
+  "@todayNotesHeading": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Heading of the list of saved notes, grouped by day."
+  },
+  "todayNotesEmpty": "Nothing yet. After you try something, tap how it went and it appears here, by day.",
+  "@todayNotesEmpty": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Shown when there are no notes."
+  },
+  "todayNotesPrivacy": "Your notes stay on this device. Nothing is sent to us. Deleting the app deletes them.",
+  "@todayNotesPrivacy": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Privacy line under the notes."
+  },
+  "todayRemove": "Remove",
+  "@todayRemove": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Button that deletes one note."
+  },
+  "todayShare": "Share notes for an appointment",
+  "@todayShare": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Button that opens the share sheet with the notes as text, to print, email or show a doctor."
+  },
+  "todayShareTitle": "Notes to bring to an appointment",
+  "@todayShareTitle": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. First line of the shared notes."
+  },
+  "todayShareDisclaimer": "Written by a family member. These are personal notes, not a medical record.",
+  "@todayShareDisclaimer": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Second line of the shared notes."
+  },
+  "todayDisclaimer": "General information for families. It is not medical advice and does not replace their doctor or care team.",
+  "@todayDisclaimer": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Small print at the end of the page."
+  },
+  "todayGoHome": "They keep asking to go home",
+  "@todayGoHome": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. One hard moment the caregiver can choose, in the caregiver's own words. Keep it short."
+  },
+  "todayGoHomeTry1": "Answer the feeling, not the address: “You’re safe here, and I’m staying with you.”",
+  "@todayGoHomeTry1": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 1 of 3 for 'They keep asking to go home'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayGoHomeTry2": "Say “Tell me about your home,” then share a photo, a song or a cup of tea.",
+  "@todayGoHomeTry2": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 2 of 3 for 'They keep asking to go home'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayGoHomeTry3": "Check the simple things: hungry, thirsty, the toilet, pain, too hot or too cold.",
+  "@todayGoHomeTry3": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 3 of 3 for 'They keep asking to go home'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todaySameQuestion": "They ask the same question again and again",
+  "@todaySameQuestion": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. One hard moment the caregiver can choose, in the caregiver's own words. Keep it short."
+  },
+  "todaySameQuestionTry1": "Answer briefly and kindly, as if for the first time. Skip “You already asked.”",
+  "@todaySameQuestionTry1": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 1 of 3 for 'They ask the same question again and again'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todaySameQuestionTry2": "Listen for the feeling underneath, such as worry about a visit, and answer that.",
+  "@todaySameQuestionTry2": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 2 of 3 for 'They ask the same question again and again'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todaySameQuestionTry3": "Put the answer where they can see it: a note, a whiteboard or a clock.",
+  "@todaySameQuestionTry3": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 3 of 3 for 'They ask the same question again and again'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todaySaysNo": "They say no to everything",
+  "@todaySaysNo": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. One hard moment the caregiver can choose, in the caregiver's own words. Keep it short."
+  },
+  "todaySaysNoTry1": "Take the no as an answer. Stop, wait, and try again later or another day.",
+  "@todaySaysNoTry1": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 1 of 3 for 'They say no to everything'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todaySaysNoTry2": "Make it smaller or simpler, or ask for their help instead: “Could you help me fold these?”",
+  "@todaySaysNoTry2": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 2 of 3 for 'They say no to everything'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todaySaysNoTry3": "Check for tired, unwell, uncomfortable or rushed, including on your side.",
+  "@todaySaysNoTry3": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 3 of 3 for 'They say no to everything'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayLateDay": "Late afternoons are restless",
+  "@todayLateDay": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. One hard moment the caregiver can choose, in the caregiver's own words. Keep it short."
+  },
+  "todayLateDayTry1": "Turn the lights on before dusk and lower the noise: TV, radio, visitors.",
+  "@todayLateDayTry1": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 1 of 3 for 'Late afternoons are restless'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayLateDayTry2": "Switch to something calm and familiar: music they love, photos, folding towels.",
+  "@todayLateDayTry2": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 2 of 3 for 'Late afternoons are restless'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayLateDayTry3": "Move outings, bathing and busy tasks to the morning tomorrow.",
+  "@todayLateDayTry3": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 3 of 3 for 'Late afternoons are restless'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayNothingToDo": "There’s nothing they want to do",
+  "@todayNothingToDo": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. One hard moment the caregiver can choose, in the caregiver's own words. Keep it short."
+  },
+  "todayNothingToDoTry1": "Start from their own life: their work, hobbies, faith or favorite music.",
+  "@todayNothingToDoTry1": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 1 of 3 for 'There’s nothing they want to do'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayNothingToDoTry2": "Offer two choices, not a list, and do the hard part yourself.",
+  "@todayNothingToDoTry2": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 2 of 3 for 'There’s nothing they want to do'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayNothingToDoTry3": "Watching, holding something or sitting close all count. Stopping early is fine.",
+  "@todayNothingToDoTry3": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 3 of 3 for 'There’s nothing they want to do'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayHardToTalk": "Talking together is hard",
+  "@todayHardToTalk": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. One hard moment the caregiver can choose, in the caregiver's own words. Keep it short."
+  },
+  "todayHardToTalkTry1": "Turn off background noise and get eye contact before you start.",
+  "@todayHardToTalkTry1": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 1 of 3 for 'Talking together is hard'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayHardToTalkTry2": "Use short sentences and offer a choice of two: “Tea or coffee?”",
+  "@todayHardToTalkTry2": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 2 of 3 for 'Talking together is hard'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayHardToTalkTry3": "Wait for the answer. Respond to the feeling behind the words, and share a picture.",
+  "@todayHardToTalkTry3": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 3 of 3 for 'Talking together is hard'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayVisit": "A visit or call is coming up",
+  "@todayVisit": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. One hard moment the caregiver can choose, in the caregiver's own words. Keep it short."
+  },
+  "todayVisitTry1": "Greet them by name and say who you are: “Hi Mom, it’s Susan, your daughter.”",
+  "@todayVisitTry1": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 1 of 3 for 'A visit or call is coming up'. Plain, kind, practical; no medical claims. Use local typographic quotes. Use a common local name instead of Susan."
+  },
+  "todayVisitTry2": "Bring one or two things to share: a photo album, a favorite song, a soft blanket.",
+  "@todayVisitTry2": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 2 of 3 for 'A visit or call is coming up'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayVisitTry3": "Keep it short, use the same goodbye each time, and leave without lingering.",
+  "@todayVisitTry3": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 3 of 3 for 'A visit or call is coming up'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayWornOut": "I’m worn out",
+  "@todayWornOut": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. One hard moment the caregiver can choose, in the caregiver's own words. Keep it short."
+  },
+  "todayWornOutTry1": "Ask one person for one specific thing this week: a meal, an afternoon, a phone call.",
+  "@todayWornOutTry1": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 1 of 3 for 'I’m worn out'. Plain, kind, practical; no medical claims. Use local typographic quotes."
+  },
+  "todayWornOutTry2": "Call the Alzheimer’s Association 24/7 Helpline, 1-800-272-3900. It is free and confidential.",
+  "@todayWornOutTry2": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 2 of 3 for 'I’m worn out'. Plain, kind, practical; no medical claims. Use local typographic quotes. Keep US phone numbers only in English; elsewhere name the national dementia helpline or say 'a dementia helpline in your country' without a number."
+  },
+  "todayWornOutTry3": "Ask the Eldercare Locator, 1-800-677-1116, about respite care near you.",
+  "@todayWornOutTry3": {
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 3 of 3 for 'I’m worn out'. Plain, kind, practical; no medical claims. Use local typographic quotes. Keep US phone numbers only in English; elsewhere name the national dementia helpline or say 'a dementia helpline in your country' without a number."
   }
 }
