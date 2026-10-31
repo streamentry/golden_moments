@@ -43,7 +43,7 @@ sources:
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease"
 relatedGames: [picture-pairs, find-the-same, sort-together, picture-bingo, conversation-cards]
-related: [activities/ideas, activities/household-tasks, activities/late-stage, caregiving/how-to-play-together, caregiving/when-they-say-no, caregiving/late-day-restlessness]
+related: [activities/ideas, activities/household-tasks, activities/late-stage, caregiving/how-to-play-together, caregiving/when-they-say-no, caregiving/late-day-restlessness, activities/alzheimers]
 health: false
 ---
 

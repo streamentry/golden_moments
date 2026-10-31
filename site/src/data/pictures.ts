@@ -459,6 +459,19 @@ export function pictureUrl(id: string): string {
   return `/pictures/${id}.svg`;
 }
 
+/**
+ * The picture without its background, for Shadow match. The game darkens it
+ * with a CSS filter, which keeps open strokes as lines instead of filling
+ * them in.
+ */
+export function pictureShadowSvg(picture: Picture): string {
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="240" height="240" aria-hidden="true"><g stroke-width="3">${picture.body.replace(/\s*\n\s*/g, '')}</g></svg>`;
+}
+
+export function pictureShadowUrl(id: string): string {
+  return `/pictures/shadow/${id}.svg`;
+}
+
 export function picturesIn(category: PictureCategory): Picture[] {
   return PICTURES.filter((p) => p.category === category);
 }

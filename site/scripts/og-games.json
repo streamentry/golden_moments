@@ -20,6 +20,16 @@
     ]
   },
   {
+    "slug": "shadow-match",
+    "title": "Shadow Match: a Gentle Picture Game",
+    "subtitle": "Look at the shadow and tap the picture that makes it.",
+    "pictures": [
+      "teacup",
+      "umbrella",
+      "bicycle"
+    ]
+  },
+  {
     "slug": "sort-together",
     "title": "Sort Together: a Picture Sorting Activity",
     "subtitle": "Put each picture in its basket: kitchen or garden, and more.",

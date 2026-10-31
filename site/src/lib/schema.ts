@@ -15,6 +15,9 @@ export interface FaqItem {
 const ORG_ID = `${SITE.url}/#organization`;
 const SITE_ID = `${SITE.url}/#website`;
 
+/** Google resolves `@id` only within one page, so references also carry the name. */
+const ORG_REF = { '@type': 'Organization', '@id': ORG_ID, name: SITE.name, url: SITE.url };
+
 export function organization(): Node {
   return {
     '@type': 'Organization',
@@ -22,6 +25,9 @@ export function organization(): Node {
     name: SITE.name,
     url: SITE.url,
     logo: absoluteUrl('/icons/icon-512.png'),
+    email: SITE.supportEmail,
+    publishingPrinciples: absoluteUrl('/editorial-policy/'),
+    parentOrganization: { '@type': 'Organization', name: 'Cloudjet Solutions Pte. Ltd.' },
     sameAs: [SITE.appStoreUrl, SITE.playStoreUrl],
   };
 }
@@ -34,7 +40,7 @@ export function website(): Node {
     alternateName: 'Dementia Activities Games',
     url: SITE.url,
     inLanguage: 'en-US',
-    publisher: { '@id': ORG_ID },
+    publisher: ORG_REF,
   };
 }
 
@@ -87,8 +93,8 @@ export function article(input: ArticleInput): Node {
     datePublished: (input.published ?? input.updated).toISOString().slice(0, 10),
     inLanguage: 'en-US',
     isAccessibleForFree: true,
-    author: { '@id': ORG_ID },
-    publisher: { '@id': ORG_ID },
+    author: ORG_REF,
+    publisher: ORG_REF,
     isPartOf: { '@id': SITE_ID },
     citation: input.citations.map((c) => ({ '@type': 'CreativeWork', name: c.title, url: c.url })),
     ...(input.health
@@ -121,6 +127,6 @@ export function game(input: GameInput): Node {
     inLanguage: 'en-US',
     isAccessibleForFree: true,
     offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
-    publisher: { '@id': ORG_ID },
+    publisher: ORG_REF,
   };
 }

@@ -39,15 +39,12 @@ sources:
   - title: "Facts About Older Adult Falls"
     publisher: "Centers for Disease Control and Prevention"
     url: "https://www.cdc.gov/falls/data-research/facts-stats/index.html"
-  - title: "Staying Physically Active with Alzheimer's"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/exercise-and-physical-activity/staying-physically-active-alzheimers"
   - title: "Caring for a Person With Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf"
-  - title: "Activities To Do With a Family Member or Friend Who Has Alzheimer's Disease"
+  - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-caregiving/activities-do-family-member-or-friend-who-has-alzheimers-disease"
+    url: "https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease"
 relatedGames: [calm-breathing, sort-together, picture-bingo]
 related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, activities/outdoor-and-gardening, activities/music, activities/household-tasks, caregiving/when-they-say-no]
 health: true
@@ -92,13 +89,13 @@ These are goals, not entry requirements. The CDC says that if you cannot meet th
 
 ## How to exercise with someone living with dementia
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says activity helps people with Alzheimer's feel better and keeps their muscles, joints and heart in good shape. It can also help with regular sleep and toilet habits. [NIA caregiving tips](https://www.nia.nih.gov/health/exercise-and-physical-activity/staying-physically-active-alzheimers) suggest:
+For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
 
 1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Break it into small steps.** Show one movement at a time and do it alongside them rather than giving spoken instructions.
+2. **Try exercise videos for older adults.** Follow along together, seated or standing.
 3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
 4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer a drink during and after, and choose well-fitting shoes made for walking.
+5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
 
 If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
 

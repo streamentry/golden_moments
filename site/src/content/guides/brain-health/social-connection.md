@@ -42,9 +42,12 @@ sources:
   - title: "Loneliness and Social Isolation — Tips for Staying Connected"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected"
-  - title: "Activities To Do With a Family Member or Friend Who Has Alzheimer's Disease"
+  - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-caregiving/activities-do-family-member-or-friend-who-has-alzheimers-disease"
+    url: "https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease"
+  - title: "Activities"
+    publisher: "Alzheimer's Association"
+    url: "https://www.alz.org/help-support/caregiving/daily-care/activities"
 relatedGames: [conversation-cards, picture-bingo, photo-pairs, picture-pairs]
 related: [caregiving/how-to-play-together, activities/visiting, activities/phone-and-video-calls, activities/care-home-groups, activities/reminiscence, caregiving/caregiver-self-care]
 health: true
@@ -94,7 +97,7 @@ The NIA suggests a range of ideas. Pick one or two that fit:
 
 ## Why do shared activities matter in dementia?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [NIA notes](https://www.nia.nih.gov/health/alzheimers-caregiving/activities-do-family-member-or-friend-who-has-alzheimers-disease) that doing activities together that the person enjoys can help their quality of life and strengthen your bond. It can also help with changes such as sleep problems and agitation.
+For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
 
 Ideas that work well:
 

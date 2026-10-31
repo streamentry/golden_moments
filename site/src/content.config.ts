@@ -7,6 +7,7 @@ export const SECTIONS = ['activities', 'caregiving', 'brain-health'] as const;
 export const GAME_SLUGS = [
   'picture-pairs',
   'find-the-same',
+  'shadow-match',
   'sort-together',
   'picture-puzzle',
   'finish-the-saying',

@@ -29,7 +29,7 @@ pnpm preview             # serves dist/ with the real Workers runtime, headers a
 | Path | What it is |
 | --- | --- |
 | `src/pages/` | Routes: home, `games/`, `[section]/` guides and hubs, legal pages, `robots.txt`, `llms.txt`, `llms-full.txt`, manifest, `pictures/[id].svg` |
-| `src/content/guides/<section>/*.md` | The 35 guides. Frontmatter is validated by `src/content.config.ts` |
+| `src/content/guides/<section>/*.md` | The 37 guides. Frontmatter is validated by `src/content.config.ts` |
 | `src/games/` | One React island per game, plus `shared/` (frame, tiles, chips, settings store, sound) |
 | `src/lib/games/` | Pure game logic with unit tests (`games.test.ts`) |
 | `src/data/` | Game registry, picture library, sayings, conversation prompts, word themes, coloring pages |
@@ -91,18 +91,28 @@ python3 scripts/make-images.py
 
 ## Deploy (Cloudflare Workers)
 
-Deploying is a maintainer action; nothing here deploys automatically.
-
 Live since 2026-10-25 at <https://dementiaactivities.games> on the RunLumi
 Cloudflare account. The `workers.dev` address is turned off.
 
-- **Site:** `pnpm deploy` (build, checks, then `wrangler deploy`) while logged
-  in with `pnpm exec wrangler login`. `wrangler.jsonc` attaches the apex as a
-  Workers custom domain.
+- **Automatic:** every push to `main` that touches `site/**` runs
+  `.github/workflows/site.yaml`. Its `build` job tests, type-checks, builds and
+  runs `check-site.mjs`; only when all of that passes does the `deploy` job
+  publish that same build with `wrangler deploy` and then run `indexnow.mjs`.
+  Pull requests build and check but never deploy. The job needs two repository
+  secrets, set once in GitHub → Settings → Secrets and variables → Actions:
+  `CLOUDFLARE_API_TOKEN` (an API token with *Workers Scripts: Edit* on the
+  account, nothing wider) and `CLOUDFLARE_ACCOUNT_ID`. Merging to `main` is
+  therefore a release of the website.
+- **By hand:** `pnpm run deploy` (build, checks, then `wrangler deploy`) while
+  logged in with `pnpm exec wrangler login`, for a hotfix or when Actions is
+  unavailable. `wrangler.jsonc` attaches the apex as a Workers custom domain.
 - **www:** `redirect-www/` is a separate tiny Worker on
   `www.dementiaactivities.games` that 301-redirects to the apex, keeping path
   and query. Deploy it with `cd redirect-www && ../node_modules/.bin/wrangler deploy`
   (only needed if it changes).
+- **Email:** Cloudflare Email Routing forwards `web@dementiaactivities.games`
+  to the maintainer's verified inbox (rule "Website contact", tested
+  2026-10-25). Manage it with `pnpm exec wrangler email routing rules list dementiaactivities.games`.
 - **No injected scripts:** `Cache-Control: no-transform` in `public/_headers`
   stops Cloudflare from injecting its Web Analytics beacon, and the CSP would
   block it anyway. Keep both. The CSP allows only Google's GA4 domains.
@@ -114,9 +124,15 @@ settings):
    `http://` currently serves the page instead of redirecting).
 2. Web Analytics: turn off automatic setup for the zone, so nothing tries to
    inject a beacon.
-3. Email Routing: route `web@dementiaactivities.games` to a real inbox.
-4. Verify the domain in Google Search Console and Bing Webmaster Tools and
-   submit `https://dementiaactivities.games/sitemap-index.xml`.
+3. Verify the domain in Google Search Console and Bing Webmaster Tools and
+   submit `https://dementiaactivities.games/sitemap.xml`.
+
+The automatic deploy ends with `pnpm indexnow`; after a manual deploy that adds
+or changes pages, run it yourself. It sends every
+URL in the live `/sitemap.xml` to IndexNow, which Bing (and the AI search tools
+that use Bing's index) read. Google does not use IndexNow; it reads the
+sitemap submitted in Search Console. The 32-character `.txt` file in `public/`
+is the IndexNow key. It is public on purpose; keep its name and contents.
 
 Nothing runs server side: Workers serves the static files in `dist/`, applies
 `public/_headers`, redirects to trailing-slash URLs and serves `404.html`.

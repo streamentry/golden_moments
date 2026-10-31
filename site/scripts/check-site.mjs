@@ -146,8 +146,13 @@ for (const [desc, pages] of descriptions) if (pages.length > 1) err(pages.join('
 const sitemapFiles = files.filter((f) => /sitemap-\d+\.xml$/.test(f));
 const sitemap = sitemapFiles.map((f) => readFileSync(f, 'utf8')).join('\n');
 for (const url of indexable) if (!sitemap.includes(`<loc>${url}</loc>`)) err('sitemap', `missing ${url}`);
+const single = existsSync(join(DIST, 'sitemap.xml')) ? readFileSync(join(DIST, 'sitemap.xml'), 'utf8') : '';
+for (const url of indexable) if (!single.includes(`<loc>${url}</loc>`)) err('sitemap.xml', `missing ${url}`);
+for (const m of single.matchAll(/<loc>([^<]+)<\/loc>/g)) {
+  if (!resolves(m[1].replace(SITE, ''))) err('sitemap.xml', `lists a page that does not exist: ${m[1]}`);
+}
 
-for (const required of ['robots.txt', 'llms.txt', 'llms-full.txt', 'manifest.webmanifest', '_headers', 'favicon.svg', 'favicon.ico']) {
+for (const required of ['sitemap.xml', 'robots.txt', 'llms.txt', 'llms-full.txt', 'manifest.webmanifest', '_headers', 'favicon.svg', 'favicon.ico']) {
   if (!existsSync(join(DIST, required))) err('dist', `missing ${required}`);
 }
 
