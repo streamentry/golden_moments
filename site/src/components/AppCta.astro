@@ -3,6 +3,7 @@ import Icon from './Icon.astro';
 import { SITE } from '../lib/site';
 import { localePath } from '../i18n/locales';
 import { ui } from '../i18n/ui';
+import { playStoreUrl, type StorePlacement } from '../lib/store-links';
 
 interface Props {
   title?: string;
@@ -10,8 +11,10 @@ interface Props {
   /** A small box for article and game sidebars instead of a full band. */
   compact?: boolean;
   lang?: string;
+  /** Where the box sits, for Play Console's acquisition report. */
+  placement?: StorePlacement;
 }
-const { compact = false, lang = 'en' } = Astro.props;
+const { compact = false, lang = 'en', placement = 'guide' } = Astro.props;
 const t = ui(lang).appCta;
 const { title = t.title, text = t.text } = Astro.props;
 ---
@@ -22,7 +25,7 @@ const { title = t.title, text = t.text } = Astro.props;
       <p class="small-print">{text}</p>
       <div class="app-cta-links">
         <a class="btn btn--primary" href={SITE.appStoreUrl} rel="noopener"><Icon name="phone" />{t.appStoreShort}</a>
-        <a class="btn" href={SITE.playStoreUrl} rel="noopener"><Icon name="phone" />{t.googlePlayShort}</a>
+        <a class="btn" href={playStoreUrl(placement)} rel="noopener"><Icon name="phone" />{t.googlePlayShort}</a>
       </div>
       <a class="small-print" href={localePath(lang, '/app/')}>{t.about}</a>
     </div>
@@ -34,7 +37,7 @@ const { title = t.title, text = t.text } = Astro.props;
       </div>
       <div class="btn-row">
         <a class="btn btn--primary btn--hero" href={SITE.appStoreUrl} rel="noopener"><Icon name="phone" />{t.appStore}</a>
-        <a class="btn" href={SITE.playStoreUrl} rel="noopener"><Icon name="phone" />{t.googlePlay}</a>
+        <a class="btn" href={playStoreUrl(placement)} rel="noopener"><Icon name="phone" />{t.googlePlay}</a>
       </div>
     </section>
   )
