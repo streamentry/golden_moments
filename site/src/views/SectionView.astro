@@ -37,6 +37,14 @@ const itemList = {
     </header>
     {section === 'brain-health' && <div class="narrow"><HealthNotice lang={lang} /></div>}
     {
+      section === 'caregiving' && lang === 'en' && (
+        <p class="today-link">
+          Need help with one hard moment right now? <a href="/today/">Choose what is hardest today</a> for three things to
+          try and private notes you can print.
+        </p>
+      )
+    }
+    {
       lead && (
         <a class="lead-guide" href={href(lead)} lang={lead.lang !== lang ? 'en' : undefined}>
           <span class="eyebrow">{t.guide.startHere}</span>
@@ -55,6 +63,10 @@ const itemList = {
 </BaseLayout>
 
 <style>
+  .today-link {
+    font-size: var(--text-lg);
+    margin-bottom: var(--space-lg);
+  }
   .lead-guide {
     display: grid;
     gap: var(--space-sm);

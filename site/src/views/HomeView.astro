@@ -147,6 +147,15 @@ const collage = ['teacup', 'sunflower', 'dog', 'sailboat'];
       <ul class="card-grid">
         {h.guides.map((g) => <li><GuideCard href={l(g.href)} title={g.title} text={g.text} lang={lang} /></li>)}
       </ul>
+      {lang === 'en' && (
+        <aside class="research-band" aria-labelledby="today-band">
+          <div>
+            <h2 id="today-band">What is hardest today?</h2>
+            <p>Pick the hard moment, such as asking to go home or a restless late afternoon. Get three things to try, when to get help and one gentle activity, and keep private notes to print for an appointment.</p>
+          </div>
+          <a class="btn" href="/today/">Start with today</a>
+        </aside>
+      )}
       <aside class="research-band">
         <div>
           <h2>{h.researchTitle}</h2>
