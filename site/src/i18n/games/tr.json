@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Resim eşleştirme",
+    "seoTitle": "Demans İçin Eşleştirme Oyunu: Resim Eşleştirme",
+    "h1": "Resim Eşleştirme: Sakin Bir Eşleştirme Oyunu",
+    "description": "Demansla yaşayan kişiler için ücretsiz, sakin bir eşleştirme oyunu. Büyük resimler açık kalır, süre ya da puan yoktur; 4 ila 12 kare seçersiniz.",
+    "short": "Aynı olan iki resmi bulun. Resimler açık kalabilir.",
+    "players": "Yan yana 1 ya da 2 kişi",
+    "intro": "Bir resme, sonra onunla eşleşen resme dokunun. Resimler varsayılan olarak açık kalır, yani hiçbir şeyi akılda tutmak gerekmez. Birbirine uyan iki resim altın renkli bir çerçeve ve bir onay işareti alır.",
+    "howTo": [
+      "Kaç kare kullanacağınızı seçin. Dört kare, başlamak için sakin bir seçimdir.",
+      "Herhangi bir resme dokunun. Resim altın renkli bir çerçeve alır.",
+      "Aynı görünen resme dokunun. İkisi bir onay işaretiyle yan yana kalır.",
+      "İki resim farklıysa kötü bir şey olmaz. Hazır olduğunuzda yeniden dokunun.",
+      "“Gizli resimler”i yalnızca ikiniz de resimlerin kapalı olduğu klasik sürümden hoşlanıyorsanız açın."
+    ],
+    "tips": [
+      "Resimlerin adını birlikte yüksek sesle söyleyin ve üzerine sohbet edin: “Kırmızı bir çay fincanı. Çayınızı açık mı seversiniz, demli mi?”",
+      "Biraz zaman alsa bile dokunmayı baktığınız kişiye bırakın. Onun yerine dokunmak yerine resmi gösterin.",
+      "Keyifli olduğu sürece dört karede kalın. Daha fazla kare bir tercihtir, ulaşılması gereken bir seviye değil.",
+      "Hâlâ keyifliyken bitirin. Tek bir oyun başlı başına bir etkinliktir."
+    ],
+    "faq": [
+      {
+        "q": "Süre ya da puan var mı?",
+        "a": "Hayır. Saat, puan, hamle sayacı ya da kaybetmek yoktur. İstediğiniz an bırakabilirsiniz; yarıda bırakmak da bitirmenin gayet güzel bir yoludur."
+      },
+      {
+        "q": "Resimler neden açık duruyor?",
+        "a": "Resimlerin açık kalması, oyunu hatırlamaktan çok bakıp eşleştirmeye dönüştürür. Pek çok kişi bunu daha sakin bulur. İsterseniz tek dokunuşla gizli resimlere geçebilirsiniz."
+      },
+      {
+        "q": "Ücretsiz mi, üye olmam gerekiyor mu?",
+        "a": "Evet, ücretsizdir; hesap, üyelik ya da indirme gerekmez. Telefonda, tablette veya bilgisayarda web tarayıcısında çalışır."
+      },
+      {
+        "q": "Kendi aile fotoğraflarımızı kullanabilir miyiz?",
+        "a": "Evet. Cihazınızdan fotoğraf seçmenizi sağlayan “Fotoğraf eşleştirme”yi deneyin. Fotoğraflar tarayıcınızda kalır ve yüklenmez."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Aynısını bul",
+    "seoTitle": "Aynı Resmi Bul: Demans İçin Basit Bir Oyun",
+    "h1": "Aynı Resmi Bulun",
+    "description": "Üstte bir resim, altta iki ila dört resim. Aynı olana dokunun. Demansla yaşayan kişiler için süresiz, sakin ve ücretsiz bir resim oyunu.",
+    "short": "Üstteki resme bakın ve aşağıdan aynısına dokunun.",
+    "players": "1 ya da 2 kişi",
+    "intro": "Ekranın üstünde tek bir resim durur. Altında iki, üç ya da dört resim vardır. Aynı olana dokunun. Her seferinde tek bir basit seçim; sohbet etmeye de bolca yer var.",
+    "howTo": [
+      "Aralarından seçim yapılacak iki, üç ya da dört resim seçin. En basiti iki resimdir.",
+      "Üstteki resme birlikte bakın.",
+      "Aşağıdaki aynı resme dokunun. Resim bir onay işareti ve birkaç sıcak sözcükle işaretlenir.",
+      "Farklı bir resme dokunulursa oyun sadece onun adını söyler ve bekler. Acele etmeyin.",
+      "Başka bir resme hazır olduğunuzda “Sonraki resim”e dokunun."
+    ],
+    "tips": [
+      "Seçmeden önce her resim hakkında konuşun: renkleri, şekilleri, onu nerede görebileceğiniz.",
+      "İki seçenek “fazla kolay” değildir. Amaç zorlamak değil, keyifli bir an yaşamaktır.",
+      "Dokunmak zor geliyorsa kişi resmi gösterebilir, siz de onun yerine dokunabilirsiniz."
+    ],
+    "faq": [
+      {
+        "q": "Süre ya da puan var mı?",
+        "a": "Hayır. Saat, puan, hamle sayacı ya da kaybetmek yoktur. İstediğiniz an bırakabilirsiniz; yarıda bırakmak da bitirmenin gayet güzel bir yoludur."
+      },
+      {
+        "q": "Yanlış resme dokunulursa ne olur?",
+        "a": "Hoş olmayan hiçbir şey olmaz. Sinyal sesi, kırmızı çarpı ya da sallanma yoktur. Oyun dokunulan resmin adını söyler ve bir sonraki dokunuşu bekler."
+      },
+      {
+        "q": "Ücretsiz mi, üye olmam gerekiyor mu?",
+        "a": "Evet, ücretsizdir; hesap, üyelik ya da indirme gerekmez. Telefonda, tablette veya bilgisayarda web tarayıcısında çalışır."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Gölge eşleştirme",
+    "seoTitle": "Demans İçin Gölge Eşleştirme Oyunu: Ücretsiz Online",
+    "h1": "Gölge Eşleştirme: Sakin Bir Resim Oyunu",
+    "description": "Üstte koyu bir gölge, altta iki ila dört resim. Gölgeyi oluşturan resme dokunun. Demans için süresiz, sakin ve ücretsiz bir gölge eşleştirme oyunu.",
+    "short": "Gölgeye bakın ve onu oluşturan resme dokunun.",
+    "players": "1 ya da 2 kişi",
+    "intro": "Gölge eşleştirme, basılı etkinlik sayfalarından tanıdık bir etkinliktir; burada büyük resimlerle ve hiçbir şey yazdırmadan oynanır. Ekranın üstünde yumuşak bir gölge, altında iki, üç ya da dört resim durur. Gölgeyi oluşturan resme dokunun. Bisiklet, şemsiye ya da çay fincanı gibi şekiller üzerine sohbet etmek de kolaydır.",
+    "howTo": [
+      "Aralarından seçim yapılacak iki, üç ya da dört resim seçin. En basiti iki resimdir.",
+      "Gölgeye birlikte bakın. Nasıl bir şekli var? Uzun mu, yuvarlak mı?",
+      "Gölgeyi oluşturan resme dokunun. Resmin adı gölgenin altında belirir.",
+      "Farklı bir resme dokunulursa oyun sadece onun adını söyler ve bekler. Acele etmeyin.",
+      "Başka bir gölgeye hazır olduğunuzda “Sonraki gölge”ye dokunun."
+    ],
+    "tips": [
+      "Gölgenin çevresini parmağınızla izleyin ve şekli hakkında konuşun.",
+      "Gölgeler bugün zor geliyorsa resimlerin birbirine benzediği “Aynısını bul”a geçin.",
+      "Resim bulunduktan sonra onun hakkında konuşun: “Bizim de böyle bir şemsiyemiz vardı.”"
+    ],
+    "faq": [
+      {
+        "q": "Süre ya da puan var mı?",
+        "a": "Hayır. Saat, puan, hamle sayacı ya da kaybetmek yoktur. İstediğiniz an bırakabilirsiniz; yarıda bırakmak da bitirmenin gayet güzel bir yoludur."
+      },
+      {
+        "q": "Gölge eşleştirme demansla yaşayan kişiler için uygun mu?",
+        "a": "Bazı kişiler için, özellikle erken evrelerde, keyifli ve basit bir etkinlik olabilir. Şekilleri tanımak sözcüklerden daha kolaydır. Keyif ve sohbet içindir, bir test değildir; demansı tedavi etmez ya da yavaşlatmaz. Bıkkınlık yaratırsa “Aynısını bul”u deneyin ya da sadece birlikte resimlere bakın."
+      },
+      {
+        "q": "Yanlış resme dokunulursa ne olur?",
+        "a": "Hoş olmayan hiçbir şey olmaz. Sinyal sesi, kırmızı çarpı ya da sallanma yoktur. Oyun dokunulan resmin adını söyler ve bir sonraki dokunuşu bekler."
+      },
+      {
+        "q": "Ücretsiz mi, üye olmam gerekiyor mu?",
+        "a": "Evet, ücretsizdir; hesap, üyelik ya da indirme gerekmez. Telefonda, tablette veya bilgisayarda web tarayıcısında çalışır."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Birlikte ayıralım",
+    "seoTitle": "Demans İçin Ayırma Oyunu: Birlikte Ayıralım",
+    "h1": "Birlikte Ayıralım: Resimli Bir Ayırma Etkinliği",
+    "description": "Bir resme, sonra ait olduğu sepete dokunun: mutfak mı bahçe mi, meyve mi hayvan mı? Demansla yaşayan kişiler için sakin ve ücretsiz bir ayırma etkinliği.",
+    "short": "Her resmi kendi sepetine koyun: mutfak ya da bahçe ve daha fazlası.",
+    "players": "1 ya da 2 kişi",
+    "intro": "Ayırmak, pazar alışverişini yerleştirmek ya da çorapları eşlemek gibi tanıdık ve insana iyi gelen bir gündelik iştir. Bir resme, sonra ait olduğu sepete dokunun. Acele yok, yanlış yol yok.",
+    "howTo": [
+      "Bir konu seçin: mutfak ve bahçe, meyve ve hayvanlar ya da ev ve yolculuk.",
+      "Bir resme dokunun. Resim altın renkli bir çerçeve alır.",
+      "Ait olduğu sepete dokunun. Resim o sepete geçer.",
+      "Resim öbür sepete aitse oyun bunu nazikçe söyler ve bekler.",
+      "Bütün resimler ayrıldığında sepetlere birlikte göz atın."
+    ],
+    "tips": [
+      "Gerçek hayatta çoğu zaman yanlış cevap yoktur. Biri sulama kabının mutfağa ait olduğunu söylerse nedenini sorun. Güzel bir hikâye dinleyebilirsiniz.",
+      "Resimleri sohbet başlatmak için kullanın: “Bahçenizde neler yetiştirirdiniz?”",
+      "Kaşık ve çatalları ya da düğmeleri renklerine göre ayırmak gibi gerçek eşyalarla ayırma, ekrandan sonra güzel bir devam olur."
+    ],
+    "faq": [
+      {
+        "q": "Süre ya da puan var mı?",
+        "a": "Hayır. Saat, puan, hamle sayacı ya da kaybetmek yoktur. İstediğiniz an bırakabilirsiniz; yarıda bırakmak da bitirmenin gayet güzel bir yoludur."
+      },
+      {
+        "q": "Neden ayırma?",
+        "a": "Pek çok kişi ayırmaktan hoşlanır, çünkü yararlı ve tanıdık bir iş gibi gelir. Ayırırken resimler hakkında konuşmak da kolaydır."
+      },
+      {
+        "q": "Ücretsiz mi, üye olmam gerekiyor mu?",
+        "a": "Evet, ücretsizdir; hesap, üyelik ya da indirme gerekmez. Telefonda, tablette veya bilgisayarda web tarayıcısında çalışır."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Resimli yapboz",
+    "seoTitle": "Demans İçin Kolay Yapboz: 4 ya da 9 Parça",
+    "h1": "Resimli Yapboz: Kolay Bir Yapboz",
+    "description": "Demansla yaşayan kişiler için kolay bir online yapboz: 4 ya da 9 büyük parça, resmin tamamı görünür kalır ve iki parçaya dokunarak yerlerini değiştirirsiniz.",
+    "short": "Resim tamamlanana kadar iki parçaya dokunup yerlerini değiştirin.",
+    "players": "1 ya da 2 kişi",
+    "intro": "Sevimli bir resim dört ya da dokuz büyük parçaya bölünür ve karıştırılır. Resmin tamamı yol gösterici olarak görünür kalır. Bir parçaya, sonra bir başkasına dokunun; ikisi yer değiştirir. Sürüklemek gerekmez.",
+    "howTo": [
+      "Bir resim ve 4 ya da 9 parça seçin. Dört parça nazik bir başlangıçtır.",
+      "Üstteki resmin tamamına bakın.",
+      "Bir parçaya, sonra onun gitmesi gereken yere dokunun. İki parça yer değiştirir.",
+      "Doğru yerdeki parçalar küçük bir onay işareti alır.",
+      "Resim tamamlandığında birlikte tadını çıkarın, sonra bir başkasını seçin."
+    ],
+    "tips": [
+      "İki parçaya dokunarak yer değiştirmek, pek çok kişi için sürüklemekten çok daha kolaydır.",
+      "Resim tamamlandıkça onun hakkında konuşun: “İşte kırmızı çatı.”",
+      "12 ila 24 büyük parçalı gerçek bir ahşap yapboz da masada yapılacak güzel bir etkinliktir."
+    ],
+    "faq": [
+      {
+        "q": "Süre ya da puan var mı?",
+        "a": "Hayır. Saat, puan, hamle sayacı ya da kaybetmek yoktur. İstediğiniz an bırakabilirsiniz; yarıda bırakmak da bitirmenin gayet güzel bir yoludur."
+      },
+      {
+        "q": "Parçaları sürüklemem gerekiyor mu?",
+        "a": "Hayır. Bir parçaya, sonra bir başkasına dokunun; yer değiştirirler. Bu, eli titreyen biri için ya da küçük bir ekranda daha kolaydır."
+      },
+      {
+        "q": "Ücretsiz mi, üye olmam gerekiyor mu?",
+        "a": "Evet, ücretsizdir; hesap, üyelik ya da indirme gerekmez. Telefonda, tablette veya bilgisayarda web tarayıcısında çalışır."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Atasözünü tamamla",
+    "seoTitle": "Atasözünü Tamamla: Yaşlılar İçin Atasözü Oyunu",
+    "h1": "Atasözünü Tamamlayın",
+    "description": "“Sakla samanı, gelir ___” gibi son sözcüğü eksik, herkesin bildiği atasözleri. Bir seçeneğe dokunun ya da sonunu gösterin, sonra üzerine sohbet edin.",
+    "short": "Tanıdık atasözlerini birlikte tamamlayın, sonra üzerine konuşun.",
+    "players": "1, 2 kişi ya da bir grup",
+    "intro": "Eski atasözleri çoğu zaman ömür boyu akılda kalır. Her kartta son sözcüğü eksik tanıdık bir atasözü, üç seçenek ve bir “Sonunu göster” düğmesi bulunur. Atasözü tamamlandıktan sonra nazik bir soru sohbete davet eder.",
+    "howTo": [
+      "Atasözünü birlikte yüksek sesle okuyun.",
+      "Onu tamamlayan sözcüğe ya da “Sonunu göster”e dokunun.",
+      "Atasözünün tamamını yeniden okuyun ve sorunun yardımıyla üzerine konuşun.",
+      "Hazır olduğunuzda “Sonraki atasözü”ne dokunun."
+    ],
+    "tips": [
+      "Yavaş okuyun ve son sözcükten önce biraz durun. Çoğu zaman kişi, siz bitirmeden söyler.",
+      "Biri farklı bir son söylerse tadını çıkarın. Bazı atasözleri aileden aileye ya da yöreden yöreye değişir.",
+      "Bir grupta bir kişi okur, sonunu herkes birlikte söyler."
+    ],
+    "faq": [
+      {
+        "q": "Süre ya da puan var mı?",
+        "a": "Hayır. Saat, puan, hamle sayacı ya da kaybetmek yoktur. İstediğiniz an bırakabilirsiniz; yarıda bırakmak da bitirmenin gayet güzel bir yoludur."
+      },
+      {
+        "q": "Farklı bir sözcük seçersek ne olur?",
+        "a": "Oyun atasözünün bilinen sonunu gösterir ve sohbete geçer. Puan yoktur; farklı bir cevap da gayet olur."
+      },
+      {
+        "q": "Ücretsiz mi, üye olmam gerekiyor mu?",
+        "a": "Evet, ücretsizdir; hesap, üyelik ya da indirme gerekmez. Telefonda, tablette veya bilgisayarda web tarayıcısında çalışır."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Büyük harfli kelime avı",
+    "seoTitle": "Demans İçin Büyük Harfli Kelime Avı, Yazdırılabilir",
+    "h1": "Büyük Harfli Kelime Avı",
+    "description": "Yaşlılar ve demansla yaşayan kişiler için ücretsiz, büyük harfli kelime avı. Az kelime, iri harfler, yalnızca yatay ve dikey. Online oynayın ya da yazdırın.",
+    "short": "İri harfler, birkaç kelime, yalnızca yatay ve dikey. Yazdırabilirsiniz de.",
+    "players": "1 ya da 2 kişi",
+    "intro": "İri harfli küçük bir tablo ve hepsi soldan sağa ya da yukarıdan aşağıya okunan bir avuç kelime. Bir kelimenin ilk harfine, sonra son harfine dokunun. Kâğıdı mı tercih edersiniz? Tek dokunuşla yeni bir bulmaca yazdırın.",
+    "howTo": [
+      "Bir konu ve bir tablo boyutu seçin.",
+      "Kelime listesine bakın. Kelimeler yatay (soldan sağa) ya da dikey (yukarıdan aşağıya) okunur.",
+      "Bir kelimenin ilk harfine, sonra son harfine dokunun.",
+      "Bulunan kelime renklenir ve listede üzeri çizilir.",
+      "Kâğıt üzerinde kalem ya da keçeli kalemle oynamak için “Bu bulmacayı yazdır”a dokunun."
+    ],
+    "tips": [
+      "Listeden bir kelimeyi gösterin ve ilk harfini birlikte arayın.",
+      "Kâğıt üzerinde fosforlu kalem tutmak, kurşun kalemden daha kolaydır.",
+      "Konu kelimeleri üzerine konuşun. Meyve kelimeleri; meyve toplama, reçel kaynatma ya da pazar anılarına doğal bir kapı açar."
+    ],
+    "faq": [
+      {
+        "q": "Süre ya da puan var mı?",
+        "a": "Hayır. Saat, puan, hamle sayacı ya da kaybetmek yoktur. İstediğiniz an bırakabilirsiniz; yarıda bırakmak da bitirmenin gayet güzel bir yoludur."
+      },
+      {
+        "q": "Kelime avını yazdırabilir miyim?",
+        "a": "Evet. Mevcut tabloyu büyük harflerle, altında kelime listesiyle yazdırmak için “Bu bulmacayı yazdır”a dokunun. Her yeni bulmaca farklıdır."
+      },
+      {
+        "q": "Ücretsiz mi, üye olmam gerekiyor mu?",
+        "a": "Evet, ücretsizdir; hesap, üyelik ya da indirme gerekmez. Telefonda, tablette veya bilgisayarda web tarayıcısında çalışır."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Boyama sayfaları",
+    "seoTitle": "Demansla Yaşayan Yetişkinler İçin Boyama Sayfaları",
+    "h1": "Boyama Sayfaları",
+    "description": "Geniş alanlı, sade ve yetişkinlere uygun boyama sayfaları: bir renge, sonra resme dokunun. Dağınıklık yok, yanlış renk yok; her sayfa ücretsiz yazdırılabilir.",
+    "short": "Bir renge, sonra resmin bir bölümüne dokunun. Sayfaları yazdırabilirsiniz de.",
+    "players": "1 ya da 2 kişi",
+    "intro": "Büyük, sade şekillerden oluşan sayfalar: saksıda bir çiçek, bir ev, bir çay fincanı, bir kelebek ve bir yelkenli. Bir renge, sonra boyamak istediğiniz bölüme dokunun. Yanlış renk diye bir şey yoktur.",
+    "howTo": [
+      "Bir sayfa seçin.",
+      "Bir renge dokunun. Her rengin üzerinde adı yazar.",
+      "Resmin bir bölümüne dokunarak onu o renge boyayın.",
+      "Fikriniz değişirse o bölümü istediğiniz zaman yeniden boyayın.",
+      "Kuru boya ya da keçeli kalemle boyamak üzere boş bir sayfa için “Bu sayfayı yazdır”a dokunun."
+    ],
+    "tips": [
+      "Seçmek fazla geliyorsa bütün renkler yerine aralarından seçilecek iki renk önerin.",
+      "Mor ağaçlar ve mavi güneşler de olur. Amaç doğruluk değil, rengin tadını çıkarmaktır.",
+      "Yazdırılan sayfalar, tutması daha kolay olan kalın keçeli kalemler ya da pastel boyalarla iyi olur."
+    ],
+    "faq": [
+      {
+        "q": "Süre ya da puan var mı?",
+        "a": "Hayır. Saat, puan, hamle sayacı ya da kaybetmek yoktur. İstediğiniz an bırakabilirsiniz; yarıda bırakmak da bitirmenin gayet güzel bir yoludur."
+      },
+      {
+        "q": "Bu sayfalar fazla çocukça mı?",
+        "a": "Çizgi film karakterleri yerine sakin, sade nesneler çizdik; bu yüzden sayfalar yetişkinlere uygundur. Büyük şekiller boyamayı çocukça hale getirmeden kolaylaştırır."
+      },
+      {
+        "q": "Ücretsiz mi, üye olmam gerekiyor mu?",
+        "a": "Evet, ücretsizdir; hesap, üyelik ya da indirme gerekmez. Telefonda, tablette veya bilgisayarda web tarayıcısında çalışır."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Sohbet kartları",
+    "seoTitle": "Demans İçin Sohbet Başlatıcılar: Resimli Kartlar",
+    "h1": "Sohbet Kartları",
+    "description": "Demansla yaşayan kişiler için nazik sohbet soruları içeren resimli kartlar: sınav yok, doğru cevap yok. Ekranda kullanın ya da tüm seti yazdırın.",
+    "short": "Açık uçlu, nazik sorular içeren resimli kartlar. Sınav yok.",
+    "players": "2 kişi ya da bir grup",
+    "intro": "Her kart, tanıdık bir resmi “En sevdiğiniz hava hangisi?” gibi açık bir sohbet davetiyle bir araya getirir. Doğru cevap yoktur, hatırlanacak bir şey de yoktur. Bir konu seçin ya da hepsini karıştırın.",
+    "howTo": [
+      "Bir konu seçin ya da “Tüm kartlar”da kalın.",
+      "Soruyu yüksek sesle okuyun ve resme birlikte bakın.",
+      "Dinleyin, kendi cevabınızı da paylaşın ve sohbetin kendi yolunda ilerlemesine izin verin.",
+      "Hazır olduğunuzda “Sonraki kart”a dokunun ya da istediğiniz kadar tek bir kartta kalın.",
+      "Kesip kullanacağınız kâğıt bir set için “Tüm kartları yazdır”a dokunun."
+    ],
+    "tips": [
+      "Soruyu siz de cevaplayın. Böylece bir röportaj değil, sohbet gibi hissettirir.",
+      "Ayrıntıların değil, hikâyenin peşinden gidin. Ayrıntılar değişse de sorun değil.",
+      "Bir kart hüzünlü bir şeye dokunursa duyguyu kabul edin ve nazikçe başka bir karta geçin."
+    ],
+    "faq": [
+      {
+        "q": "Neden “Hatırlıyor musunuz…?” diye başlayan sorular yok?",
+        "a": "Hafızayı sınayan sorular sınav gibi gelebilir ve mahcubiyete yol açabilir. “Bana … anlatır mısınız?” gibi açık davetler, ne hatırlarsa hatırlasın herkesin katılmasını sağlar."
+      },
+      {
+        "q": "Kartları yazdırabilir miyim?",
+        "a": "Evet. “Tüm kartları yazdır”, tüm seti büyük harflerle, her sayfada birkaç kart olacak şekilde, kesmeye hazır yazdırır."
+      },
+      {
+        "q": "Ücretsiz mi, üye olmam gerekiyor mu?",
+        "a": "Evet, ücretsizdir; hesap, üyelik ya da indirme gerekmez. Telefonda, tablette veya bilgisayarda web tarayıcısında çalışır."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Fotoğraf eşleştirme",
+    "seoTitle": "Aile Fotoğraflarından Eşleştirme Oyunu Yapın",
+    "h1": "Fotoğraf Eşleştirme: Kendi Fotoğraflarınızla",
+    "description": "Kendi aile fotoğraflarınızı sakin bir eşleştirme oyununa dönüştürün. Cihazınızdan 2 ila 6 fotoğraf seçin; tarayıcınızda kalır, asla yüklenmez.",
+    "short": "Kendi fotoğraflarınızı seçin ve eşleştirin. Hiçbir şey yüklenmez.",
+    "players": "Yan yana 2 kişi",
+    "intro": "Telefonunuzdan, tabletinizden ya da bilgisayarınızdan iki ila altı fotoğraf seçin; büyük, açık resimlerle bir eşleştirme oyununa dönüşsünler. Fotoğraflar yalnızca bu sayfanın içinde gösterilir. Yüklenmez, kaydedilmez ya da paylaşılmaz; sayfayı kapattığınızda kaybolurlar.",
+    "howTo": [
+      "“Fotoğraf seç”e dokunun ve iki ila altı fotoğraf seçin.",
+      "Her fotoğraf iki kez görünür. Birine, sonra eşine dokunun.",
+      "Her fotoğrafı bulduğunuzda onun hakkında konuşun.",
+      "Bitirdiğinizde sayfayı kapatın ya da “Fotoğrafları temizle”ye dokunun. Hiçbir şey saklanmaz."
+    ],
+    "tips": [
+      "Mutlu, tanıdık şeylerin net fotoğraflarını seçin: bir evcil hayvan, bir bahçe, sevilen bir yer, bir düğün günü.",
+      "Yerlerin ve eşyaların resimleri yüzlerden daha kolay olabilir ve kişileri adlandırma baskısını ortadan kaldırır.",
+      "Vefat etmiş kişilerin fotoğrafları ani bir hüzne yol açabilirse, onlara iyi geldiğini bilmiyorsanız bu fotoğrafları dışarıda bırakın."
+    ],
+    "faq": [
+      {
+        "q": "Fotoğraflarım bir yere yükleniyor mu?",
+        "a": "Hayır. Sayfa, seçtiğiniz fotoğrafları doğrudan tarayıcınızda okur ve ekranınızda gösterir. Fotoğraflar ne bize ne de başka birine gönderilir; sayfayı kapattığınızda ya da yenilediğinizde kaybolurlar."
+      },
+      {
+        "q": "Süre ya da puan var mı?",
+        "a": "Hayır. Saat, puan, hamle sayacı ya da kaybetmek yoktur. İstediğiniz an bırakabilirsiniz; yarıda bırakmak da bitirmenin gayet güzel bir yoludur."
+      },
+      {
+        "q": "Oyunu bir dahaki sefere kaydedebilir miyim?",
+        "a": "Tarayıcıda hayır; özel hiçbir şey saklanmasın diye bilerek böyle tasarlandı. iPhone ve iPad için ücretsiz Golden Moments uygulaması, seçilen fotoğrafların kopyalarını cihazınızda saklayabilir."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Resimli tombala",
+    "seoTitle": "Demansla Yaşayan Yaşlılar İçin Resimli Tombala",
+    "h1": "Gruplar İçin Resimli Tombala",
+    "description": "Huzurevleri ve yaşlı grupları için ücretsiz, yazdırılabilir resimli tombala; ekranda büyük resim çekme bölümüyle. Yazılı büyük resimler, 9 ya da 16 kare.",
+    "short": "Yazdırılabilir resimli tombala kartları ve gruplar için büyük ekranda resim çekme.",
+    "players": "2 ila 30 kişilik bir grup",
+    "intro": "Sayılar yerine resimlerle oynanan klasik tombala; böylece kimsenin küçük yazı okuması gerekmez. Her biri farklı bir kart seti yazdırın, ardından ekrandaki resim çekme bölümüyle her resmi televizyonda, dizüstü bilgisayarda ya da tablette büyük olarak gösterin.",
+    "howTo": [
+      "Kart başına 9 ya da 16 kare ve oyuncu sayısını seçin.",
+      "“Kartları yazdır”a dokunun. Her kart farklıdır.",
+      "Resim çekme bölümünü büyük bir ekranda açın. Her resmi adıyla birlikte göstermek için “Sonraki resim”e dokunun.",
+      "Oyuncular kartlarındaki aynı resmin üzerini bir bozuk para, düğme ya da işaretle kapatır.",
+      "Bir sırayı ya da kartın tamamını dolduran herkes alkışlanır. Bu sürümde kaybeden yoktur: herkes bir sıra tamamlayana kadar oynamaya devam edin."
+    ],
+    "tips": [
+      "Dama taşı ya da şişe kapağı gibi büyük işaretler kullanın. Küçük düğmeleri tutmak zor olabilir.",
+      "Resmin adını söyleyin ve onunla ilgili bir şey anlatın: “Bir yelkenli. Kim teknede gezdi?”",
+      "Görmekte zorlananları ekrana en yakın yere oturtun ve yardıma ihtiyacı olan oyunculara bir yardımcı eşlik etsin.",
+      "Çoğu grup için dokuz kare yeterlidir. Oturumu 20 ila 30 dakika civarında tutun."
+    ],
+    "faq": [
+      {
+        "q": "Huzurevinde resimli tombala nasıl oynatılır?",
+        "a": "Her oyuncuya bir kart yazdırın, resim çekme bölümünü elinizdeki en büyük ekranda açın ve her resmin adını söyleyerek yavaşça çekin. Kimse dışarıda kalmasın diye herkes bir sıra tamamlayana kadar oynayın."
+      },
+      {
+        "q": "Yazdırmak ücretsiz mi?",
+        "a": "Evet. Kişisel ya da grup kullanımı için istediğiniz kadar kartı, istediğiniz sıklıkta yazdırabilirsiniz."
+      },
+      {
+        "q": "Okuma bilmeden oynanabilir mi?",
+        "a": "Evet. Her kare büyük bir resimdir; sözcükleri sevenler için altında adı da yazar."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Sakin nefes",
+    "seoTitle": "Yaşlılar ve Bakım Verenler İçin Sakin Bir Nefes Molası",
+    "h1": "Sakin Bir Nefes Molası",
+    "description": "Birlikte paylaşılacak yavaş, sessiz bir nefes molası: nazik bir daire altı nefes boyunca büyüyüp küçülür. Siz başlatırsınız, istediğiniz an durdurabilirsiniz.",
+    "short": "Birlikte nefes alınacak yavaş bir daire. İstediğiniz zaman başlatın ve durdurun.",
+    "players": "1 ya da 2 kişi",
+    "intro": "Bazen en güzel etkinlik sessiz bir moladır. “Başlat”a dokunun; daire büyürken nefes alın, küçülürken verin. Daha yavaş ya da daha hızlı bir tempo seçebilirsiniz. Bu bir tedavi değil, sadece birlikte paylaşılan huzurlu bir andır.",
+    "howTo": [
+      "Yan yana rahatça oturun.",
+      "Bir tempo seçin: yavaş ya da hafif.",
+      "“Başlat”a dokunun. Daire büyürken nefes alın, küçülürken verin.",
+      "Altı nefesten sonra kendiliğinden durur; dilediğiniz an “Durdur”a da dokunabilirsiniz."
+    ],
+    "tips": [
+      "Hoşuna gidiyorsa el ele tutuşun ya da elinizi kişinin koluna koyun.",
+      "Asla ısrar etmeyin. Sadece izlemek isterse bu da güzel.",
+      "Birinin nefes alma sorunu varsa normal nefes alsın ve sadece daireyi izlesin. Nefesle ilgili her türlü endişeyi bir doktora danışın."
+    ],
+    "faq": [
+      {
+        "q": "Bu tıbbi bir nefes egzersizi mi?",
+        "a": "Hayır. Sakinlik ve birliktelik için basit, isteğe bağlı bir moladır. Kaygı ya da başka bir rahatsızlık için tedavi değildir. Sağlıkla ilgili endişeleriniz için bir doktorla konuşun."
+      },
+      {
+        "q": "Daire ben başlatmadan hareket eder mi?",
+        "a": "Hayır. “Başlat”a dokunana kadar hiçbir şey hareket etmez; altı nefesten sonra ya da “Durdur”a dokunduğunuzda durur. Cihazınız hareketi azaltacak şekilde ayarlıysa daire büyümeden yalnızca yazılar değişir."
+      },
+      {
+        "q": "Ücretsiz mi, üye olmam gerekiyor mu?",
+        "a": "Evet, ücretsizdir; hesap, üyelik ya da indirme gerekmez. Telefonda, tablette veya bilgisayarda web tarayıcısında çalışır."
+      }
+    ]
+  }
+}
