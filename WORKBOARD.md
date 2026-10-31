@@ -77,6 +77,10 @@ Translations (same day): by maintainer decision ("ship now, review later") all 1
 
 Next, in order: merge the activity events; verify Google Search Console and Bing Webmaster Tools and submit the sitemap; register `answer` as an event-scoped custom dimension in GA4; record the first scorecard (plan section 3); send the reuse pilot messages; re-answer the App Store age questionnaire truthfully (not just to lower the rating); create the App Store campaign provider token for `ct=web`.
 
+## Update 2026-11-01 (proposal, not status)
+
+[docs/plan/README.md](docs/plan/README.md) now records: 1.6.0 (20 languages) submitted on both stores and **awaiting review, not approved**; the website live in 20 languages with 19 translations noindex until native review; all translations machine-made and unreviewed by maintainer decision, which overrode the plan's "measure first" order. New gate: 30 days after approval, compare first-time downloads by territory (assumption: 20% outside the US or in Spanish or Vietnamese). Highest-leverage next action is still the 20-household reuse pilot. Unreconciled: the iTunes API reports age 17+ and genre Games, our docs say 16+ and Puzzle; the tier in App Store Connect has not been read. Claims re-checked at primary sources are in [verification](docs/plan/verification.md) §5 and §6. Nothing here is approved.
+
 ## Next in order
 
 0. Run the device and human scenarios in [docs/release/device-acceptance.md](docs/release/device-acceptance.md) and record evidence per its format.

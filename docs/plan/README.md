@@ -1,8 +1,8 @@
 # Plan: the obvious choice for one job, then a category we can measure
 
-Proposal, not status or approval. Restructured 2026-10-31 to reconcile
-[category-leader.md](../strategy/category-leader.md) with the earlier version of
-this plan. Status lives in [WORKBOARD.md](../../WORKBOARD.md). Appendices:
+Proposal, not status or approval. Reconciles
+[category-leader.md](../strategy/category-leader.md) with the earlier plan;
+updated 2026-11-01. Status lives in [WORKBOARD.md](../../WORKBOARD.md). Appendices:
 [verification](verification.md) (facts checked, corrections, could not verify),
 [detail](detail.md) (use cases, features, languages),
 [competitors](competitors.md), [evidence](evidence.md),
@@ -10,15 +10,22 @@ this plan. Status lives in [WORKBOARD.md](../../WORKBOARD.md). Appendices:
 primary source), **hypothesis** (plausible, untested), **assumption** (a chosen
 number).
 
-**"#1" per storefront** (unchanged from the earlier plan; proposed decisions,
-not benchmarks): top 3 in App Store search for the local head terms in 8 of 12
-weeks; an average rating of at least 4.5 from at least 50 ratings; at least 8 of
-20 pilot households return voluntarily within 7 days; at least 4 of 5 caregivers
-describe it correctly after five seconds on the first screenshot, none inferring
-treatment; and running costs covered without ads. One addition, with a reason: a
-**helpful rate** of at least 70% on at least 50 answers to the website's "Did this
-help today?". It is the only caregiver-reported value signal available without
-app telemetry.
+**State, 2026-11-01.** iOS 1.5.0 is live (released 2026-10-30, 0 ratings). 1.6.0
+(build 10, 20 languages) was submitted on both stores on 2026-10-31 and is
+awaiting review; nothing in it is approved yet. The website is live in 20
+languages, with the 19 translations kept out of search and sitemaps until native
+review. All translations are machine-made and unreviewed, by maintainer decision.
+First-time downloads were 7 on 2026-10-29 and 8 on 2026-10-30 (Apple's data starts
+2026-10-29). There is no retention, reuse or comprehension data.
+
+**"#1" per storefront** (proposed decisions, not benchmarks): top 3 in App Store
+search for the local head terms in 8 of 12 weeks; an average rating of at least
+4.5 from at least 50 ratings; at least 8 of 20 pilot households return
+voluntarily within 7 days; at least 4 of 5 caregivers describe it correctly after
+five seconds on the first screenshot, none inferring treatment; and running costs
+covered without ads. One addition, with a reason: a **helpful rate** of at least
+70% on at least 50 answers to the website's "Did this help today?". It is the only
+caregiver-reported value signal available without app telemetry.
 
 ## 1. The decision
 
@@ -27,32 +34,41 @@ for US families caring for someone at home, on whatever is at hand: a phone, a
 browser, a TV or paper.** Activity staff in memory care, adult day and library
 programs are the second segment, tested in the same pilot.
 
-This follows the earlier plan on scope (one job, made reliable, then
-multilingual) and takes five things from category-leader.md: the website as a
-free public utility rather than a landing page; problem-specific pages
-("keeps asking to go home") over generic tips; value before any sign-up; no
-advertising in care workflows; and engagement, not cognition, as the promise. It
-rejects, for now, the care platform (accounts, care log, clinician summaries,
-subscription, GUIDE pilots): that space already has free nonprofit tools and
-Alzheimer's Care Partner, Elevmi's US App Store page returns 404, GUIDE pays nothing
-separately for apps, and it would lift four AGENTS.md boundaries at once.
+This follows the earlier plan on scope (one job, made reliable) and takes five
+things from category-leader.md: the website as a free public utility rather than a
+landing page; problem-specific pages ("keeps asking to go home") over generic
+tips; value before any sign-up; no advertising in care workflows; and engagement,
+not cognition, as the promise. It rejects, for now, the care platform (accounts,
+care log, clinician summaries, subscription, GUIDE pilots): free nonprofit tools
+and Alzheimer's Care Partner already hold that space, Elevmi's US App Store page
+returns 404, GUIDE pays nothing separately for apps, and it would lift four
+AGENTS.md boundaries at once.
 
 Why this job (scores in [verification](verification.md) §3): NICE NG97 tells
 clinicians to offer activities tailored to preferences (**proven**, guideline);
-the need recurs daily for years; GM is already the top Apple search result for
-"dementia activities" (**proven**, approximate, iTunes Search API); the
-competitors in the job are paid (Memory Lane, $69.99/yr), ad-supported or
-abandoned; and it fits every current boundary.
+the need recurs daily for years; GM is the top Apple search result for "dementia
+activities" (**proven**, approximate); competitors in the job are paid,
+ad-supported or abandoned; and it fits every current boundary.
+
+**Languages are now a running test, not a plan.** The maintainer shipped 19
+machine translations before the measurements this plan wanted first. Treat that
+as a bet with a cheap read (section 4, day 30), not as proof: translation is
+spent, so what remains is native review, per-language screenshots and listing
+tuning. The risk is quality in a regulated, emotional subject; the mitigation is
+review in the order of [native review](../engineering/native-review.md).
 
 **Evidence that would switch the choice to the care platform:** category-leader's
 own web test (20–30 caregivers; "What is hardest today?", one answer, a one-tap
 log, a printable summary) gets at least 10 to return unprompted within 7 days and
 at least 3 to say they or their provider would pay, *and* the activity pilot
-misses 8 of 20. Both: a platform must beat free nonprofit tools and the job GM already does.
+misses 8 of 20. Both: a platform must beat free nonprofit tools and the job GM
+already does.
 
 - **Counterargument:** commercial dementia apps stay small (Memory Lane about 50K
   Play installs; MindMate gone); distribution and caregiver overload may be the
-  constraint, whatever the product.
+  constraint, whatever the product. Rank #1 for the head term yields about 8
+  first-time downloads a day, which suggests store search for these terms is
+  small (**hypothesis**).
 - **Must hold:** families come back without reminders; enough of them search or
   are referred for activities.
 - **Cheapest disproof:** the 20-household reuse pilot ([kit](../strategy/reuse-pilot.md)).
@@ -67,12 +83,12 @@ Games is the strongest.
 | --- | --- | --- |
 | Photo album | Matching, Look together prompts and captions turn photos into a shared activity with no setup (**hypothesis**) | Zero learning; already on every phone |
 | Printed activity | Free, endless, personal photos; the website also prints (**proven** features) | Touchable, no screen, a good gift |
-| Memory Lane Games | Free, no subscription (its top complaint), works in a browser and on paper, personal photos (**proven** features) | 1,500+ games, a cited trial, a care-home edition |
-| Oya, senior game apps | No ads, no scores or timers, adult look (**proven** features) | 500K+ installs, thousands of ratings |
+| Memory Lane Games | Free, no subscription (its top complaint), works in a browser and on paper, personal photos, now 20 languages (**proven** features) | 1,500+ games, a cited trial, a care-home edition |
 
-The category's loudest review complaints are ads, subscriptions, logins, online
-dependency, childish content and abandoned apps ([competitors](competitors.md)).
-GM answers all of them and says so nowhere prominent. Category quality is low (uMARS 3.35 of 5 across 17 apps).
+The category's loudest complaints are ads, subscriptions, logins, online
+dependency, childish content and abandoned apps ([competitors](competitors.md));
+GM answers all of them and says so nowhere prominent. Quality is low (uMARS 3.35
+of 5 across 17 apps).
 
 - **Counterargument:** none of this is a moat. What compounds is ratings, indexed
   pages, organization listings and the helpful-rate record.
@@ -82,72 +98,66 @@ GM answers all of them and says so nowhere prominent. Category quality is low (u
 
 ## 3. The single highest-leverage next action
 
-**Read all five "#1" measures for the first time this week, as one scorecard.**
-Rank, ratings and downloads are readable now; the helpful rate needs #104; reuse
-and comprehension need people. Today none has a recorded baseline, and only the
-homepage appeared in Bing's index.
+**Run the reuse pilot: send the pilot messages this week.** The first scorecard
+now exists; it shows GM is already first for its head term yet gets about 8
+first-time downloads a day. So the open question is not rank but whether anyone
+returns and whether enough people arrive, and only people can answer that.
+Everything else (reviews, more pages, more languages) multiplies a loop nobody has
+shown to work.
 
-| Alternative | Why not first |
-| --- | --- |
-| Translate (es, vi) | Multiplies a loop nobody has measured; the earlier plan says the same |
-| Device acceptance | Required before more releases, but it decides quality, not direction; it runs in parallel on hardware |
-| New modes or a care log | No evidence about which problem limits use |
-| More content | Pages that are not indexed earn nothing |
-| Paid search | No approved budget; retention unknown |
+Not first: native review multiplies reach, not return; device acceptance is
+overdue (1.5.0 and 1.6.0 shipped without it) but runs in parallel and gates the
+next release; new modes, more content or paid search have no evidence behind them.
 
-**Ships in 7 days:** Search Console and Bing verified, sitemap submitted; #104
-merged and `answer` registered in GA4; `scripts/store_downloads.py` reading
-first-time downloads and deletions per day; App Store and Play positions and
-rating counts recorded in `keyword-research.csv`; a scorecard table in WORKBOARD;
-pilot and five-second-test recruitment started.
+**Ships in 7 days:** pilot messages sent to 12 families and 8 staff, and the
+five-second test started; 1.6.0 approval read back on both stores; downloads read
+by territory (the script needs a by-territory option); Search Console and Bing
+verified and the sitemap submitted; positions and rating counts recorded in
+`keyword-research.csv`.
 
-**Success:** by day 14, every measure has a dated value or a stated reason it has
-none.
+**Success:** by day 14, at least 20 pilot participants recruited and every measure
+has a dated value or a stated reason it has none.
 
-- **Counterargument:** measuring changes nothing by itself.
-- **Must hold:** enough traffic exists to read (more than about 30 activity starts
-  a week, **assumption**).
-- **Invalidates it:** if pages are already indexed and starts stay under that
-  after 14 days, demand reaching GM is the constraint; switch to direct
-  distribution (pilot, associations, roundups).
+- **Counterargument:** a pilot of 20 is small and recruiting may bias it toward
+  friendly families.
+- **Must hold:** the households have the job (someone living with dementia at
+  home) and are not people we already know.
+- **Invalidates it:** fewer than 8 of 20 return in 7 days. Then diagnose setup and
+  activity fit before any further release.
 
 ## 4. Roadmap and gates
 
 | By | Do | Continue if (**assumptions**) | Otherwise |
 | --- | --- | --- | --- |
-| Day 7 | Scorecard (section 3); age questionnaire re-answered truthfully; device acceptance on one iPhone started | Every measure has a baseline | Fix the missing source first |
-| Day 30 | Pilot run (12 families, 8 staff); five-second test; two problem pages live; strings moved to ARB (no-regret for any language); "No ads. No subscription. No account. Works offline." in the second screenshot and Play short description; Play 1.5.0 confirmed live | Pilot ≥8/20 return, ≥12/20 prefer GM; helpful ≥70% (n≥50); ≥50% of sitemap URLs indexed | Reuse fails: diagnose setup and activity fit, add nothing. Helpful 50–69%: fix the activities with most "Not really" first. Below 50%: stop growth work |
-| Day 90 | Segment decision (staff if ≥2× families' return or print rate, or ≥5 organizations adopt); en-GB and es-MX listings; GM-041 participant-language test with 3 Vietnamese- and 3 Spanish-speaking families | US top 3 for 2 of 3 head terms; ≥20 ratings averaging ≥4.5; GM-041 families ask for it unprompted | Hold languages; deepen US distribution |
-| Day 365 | Languages per [detail](detail.md) A4, each held unless it reaches top 3 within six months; a paid path only if a gate below passes | US meets all five "#1" measures | If reuse and helpful both stay below gate for two quarters, stop new features and keep GM as a maintained free resource |
+| Day 7 | Pilot messages and five-second test started; approvals read back; scorecard repeated; age questionnaire re-answered truthfully; device acceptance started on one iPhone | Every measure has a baseline | Fix the missing source first |
+| Day 30 | Pilot run (12 families, 8 staff); two problem pages live; native review under way for Spanish and Vietnamese; "No ads. No subscription. No account. Works offline." in the second screenshot and Play short description | Pilot ≥8/20 return, ≥12/20 prefer GM; helpful ≥70% (n≥50); ≥50% of sitemap URLs indexed. **Languages:** 30 days after 1.6.0 is live, at least 20% of first-time downloads come from outside the US or from Spanish or Vietnamese in the US | Reuse fails: diagnose, add nothing. Helpful 50–69%: fix the activities with most "Not really". Below 50%: stop growth work. Languages below 10%: stop review spending after Spanish and Vietnamese |
+| Day 90 | Segment decision (staff if ≥2× families' return or print rate, or ≥5 organizations adopt); en-GB listing; GM-041 participant-language test with 3 Vietnamese- and 3 Spanish-speaking families | US top 3 for 2 of 3 head terms; ≥20 ratings averaging ≥4.5; GM-041 families ask for it unprompted | Hold languages; deepen US distribution |
+| Day 365 | Reviewed languages only reach search; a paid path only if a gate below passes | US meets all five "#1" measures | If reuse and helpful both stay below gate for two quarters, stop new features and keep GM as a maintained free resource |
 
-- **Counterargument:** gates slow a small team.
-- **Must hold:** gates are read on schedule.
-- **Cheapest disproof:** if a gate is skipped twice, replace the plan with the
-  day-7 scorecard alone.
+- **Counterargument:** gates slow a small team. **Must hold:** they are read on
+  schedule. **Disproof:** a gate skipped twice means the plan shrinks to the
+  day-7 scorecard.
 
 ## 5. Growth
 
 Founder-led and cheap first; no paid spend without an approved budget.
 
-1. **Search:** problem-to-activity pages (asking to go home, repeated questions,
-   visiting day, late afternoon, a rainy day), each with what to say, red flags,
-   two activities and a printable. A few excellent pages a month, human-written
-   and sourced; no mass production.
+1. **Search:** problem-to-activity pages (asking to go home, visiting day, a rainy
+   day), each with what to say, two activities and a printable; a few
+   human-written, sourced pages a month.
 2. **App discovery:** ratings through the existing prompt only; the review-gap
-   message in screenshots; en-GB and es-MX listings as US and UK reach moves.
+   message in screenshots; the localized listings as US and international reach.
 3. **Associations and care settings:** memory cafés, Area Agencies on Aging,
-   libraries, adult day programs and support groups via `/for-organizations/`
-   and `/handout/`; follow up the nine October pitches; get listed in "best
-   dementia apps" roundups.
+   libraries and adult day programs via `/for-organizations/` and `/handout/`;
+   follow up the nine October pitches.
 4. **Referral loop:** "Share with family" in the app and the handout carry the
    site; App Store campaign tokens (`ct=web`) make web-to-install visible.
 5. **Retention:** the optional reminder the caregiver sets, personal photos and
    new local packs; never streaks or nudges.
 
 - **Counterargument:** AI answers may satisfy searches without a visit.
-- **Must hold:** organizations list free tools for families.
-- **Cheapest disproof:** 20 organization asks; fewer than 3 listings after 30 days
-  means outreach is the wrong channel.
+  **Must hold:** organizations list free tools. **Disproof:** fewer than 3
+  listings from 20 asks in 30 days.
 
 ## 6. Business model and unit economics
 
@@ -160,24 +170,21 @@ Founder-led and cheap first; no paid spend without an approved budget.
   procurement, family distrust of ads or subscriptions, stigma of "dementia" in a
   name, and the person living with dementia.
 
-| Option | Verdict |
-| --- | --- |
-| Free core, no ads | Keep; required for trust and reach |
-| One-time unlock for extra packs (about $6.99, **assumption**) | Test after day 90 if reuse passes; needs the payments boundary lifted |
-| Organization tier (group mode, weekly printable plan) | Test only if staff win the segment decision |
-| Subscription | No: only 12% of caregivers in a 2026 convenience survey would pay out of pocket, and surprise subscriptions are the category's top complaint |
-| B2B health systems, GUIDE | Later; no app payment exists in GUIDE |
-| Ads | No |
+Verdicts: free core without ads, keep (trust and reach). One-time unlock for
+extra packs (about $6.99, **assumption**), test after day 90 if reuse passes;
+needs the payments boundary lifted. Organization tier, only if staff win the
+segment decision. Subscription, no: 12% of caregivers in a 2026 convenience
+survey would pay out of pocket, and surprise subscriptions are the category's top
+complaint. Health systems and GUIDE, later (no app payment exists). Ads, no.
 
 **Economics today:** fixed costs are small (Apple $99 a year, a domain,
 Cloudflare static hosting); no acquisition spend. The constraint is founder time,
-so prefer work that compounds (indexed pages, ratings, listings). No revenue scenario is given: it would be invented.
+so prefer work that compounds (indexed pages, ratings, listings). No revenue
+scenario is given: it would be invented.
 
-- **Counterargument:** free forever may not fund the work.
-- **Must hold:** a small share of returning families or organizations will pay
-  once.
-- **Cheapest disproof:** after day 90, ask 10 organizations and 20 returning
-  families what they would pay, before building payment.
+- **Counterargument:** free forever may not fund the work. **Must hold:** a
+  small share will pay once. **Disproof:** after day 90, ask 10 organizations and
+  20 returning families what they would pay, before building payment.
 
 ## 7. Product and technical
 
@@ -186,25 +193,24 @@ activity in seconds with no sign-up, prints, and points to the app only for what
 the web cannot do (personal photos offline, a home-screen habit, a reminder). The
 app is the habit at home. Both share DESIGN.md.
 
-- **Accessibility:** DESIGN.md gates stay mandatory; device, VoiceOver and TalkBack
-  checks are open and block the next release.
-- **Localization:** move strings to ARB first; then en-GB, es-MX (supported on
-  the US storefront; vendors, not Apple, report it is indexed), vi through GM-041
-  participant language as a US move (first-language reversion is weak, mixed
-  evidence, so GM-041 is a hypothesis); other languages per
-  [detail](detail.md) A4. Mainland China excluded (ICP filing). 치매, 老年痴呆
-  and *démence* are naming problems for native reviewers, not translations.
+- **Accessibility:** DESIGN.md gates stay mandatory; device, VoiceOver, TalkBack,
+  200% text and Arabic right-to-left checks are open and block the next release.
+- **Localization:** app, listings, website, games and 40 guides exist in 19
+  languages, machine-made and unreviewed. Review order and sign-off steps are in
+  [native review](../engineering/native-review.md): Spanish and Vietnamese first,
+  because the US store lists both as additional languages (indexing is
+  vendor-reported). Mainland China is excluded (ICP filing). Naming of dementia in
+  Korean, Chinese and French is a native-reviewer decision, not a translation.
+  GM-041 participant language stays a hypothesis (first-language reversion is weak,
+  mixed evidence).
 - **Privacy:** no backend, no accounts; the website sends only the event names in
   #104 and a fixed Yes/Not really answer; app retention comes from store reports.
 - **Claims:** enjoyment, conversation and mood in the moment only. Nothing about
   cognition, memory, agitation, sundowning, caregiver burden or disease course
-  (FDA general wellness 2026 never names Alzheimer's, so even "mental acuity"
-  is unsafe beside a dementia audience; FTC Lumosity 2016; Apple 1.4.1 and 5.1.1(ix), the
-  Google Play "not a medical device" sentence, MHRA labeling).
-- **AI where it clearly helps:** translation drafts with native review, image alt
-  text and source checks in production. **Where it would not:** a chat companion,
-  generated activities, scoring, or anything that sends family photos off the
-  device. No AI in the app.
+  (FDA general wellness 2026 never names Alzheimer's; FTC Lumosity 2016; Apple
+  1.4.1; the Play "not a medical device" sentence; see [verification](verification.md) §5).
+- **AI:** translation drafts with native review and source checks in
+  production; none in the app, and never anything that sends photos off device.
 
 - **Counterargument:** without accounts, families cannot share packs.
 - **Must hold:** one device per household is enough for the job.
@@ -213,47 +219,37 @@ app is the habit at home. Both share DESIGN.md.
 
 ## 8. Measurement
 
-| Measure | Source | Baseline (2026-10-31) |
+| Measure | Source | Baseline (2026-11-01) |
 | --- | --- | --- |
-| First-time downloads, deletions, sessions per storefront | App Store Connect reports (`scripts/store_downloads.py`); Play Console | Not produced yet; owner reports about 10 a day |
-| Search rank on head terms | `scripts/store_scorecard.py`, Play search | #1 "dementia activities", #4 "alzheimers activities", #17 "dementia games", not top 50 "alzheimers games" |
+| First-time downloads, deletions, sessions per storefront | App Store Connect reports (`scripts/store_downloads.py`); Play Console | 7 (10-29), 8 (10-30); by territory, deletions and sessions not read yet |
+| Search rank on head terms | `scripts/store_scorecard.py`, Play search | #1 "dementia activities", #2 "reminiscence dementia", #4 "alzheimers activities", #17 "dementia games" (same on 10-31) |
 | Ratings | Store listings | iOS 0; Play count too small to show |
-| Indexed pages, non-brand impressions | Search Console, Bing | Not verified; Bing showed only the homepage |
-| Website activation, meaningful use | GA4 `activity_start`, `activity_restart`, `activity_print` | Starts with #104 |
-| Caregiver-reported value | GA4 `activity_feedback` helpful rate, with n | Starts with #104 |
+| Indexed pages, non-brand impressions | Search Console, Bing | Not verified; 19 languages now noindex by design |
+| Website use and helpful rate (with n) | GA4 `activity_*` events | Live; not read yet |
 | Voluntary reuse, preference | Pilot record sheet (off GitHub) | Not run |
 | Comprehension | Five-second test | Not run |
-| Trust | Complaints, medical-claim or privacy incidents (target 0), review themes | 0 recorded |
-| Economics | Costs, revenue | Near-zero cost, no revenue |
+| Trust, economics | Incidents (target 0), review themes; costs, revenue | 0 incidents; near-zero cost, no revenue |
 
-- **Counterargument:** small numbers get read as proof.
-- **Must hold:** every figure carries its count and date.
-- **Cheapest disproof:** review the first scorecard for any number without n.
+- **Counterargument:** small numbers get read as proof. **Must hold:** every
+  figure carries its count and date. **Disproof:** any number without n.
 
 ## 9. Maintainer decisions
 
 The three that matter most:
 
-1. **Merge #104 (website activity events).** Recommend yes: it is the only
-   caregiver-reported value signal without app telemetry.
-2. **Verify Search Console and Bing, and register `answer` in GA4.** Recommend
-   this week.
-3. **Send the pilot messages** ([kit](../strategy/reuse-pilot.md)). Recommend
-   this week; it is the test that can disprove the plan.
+1. **Send the pilot messages** ([kit](../strategy/reuse-pilot.md)). Recommend this
+   week; it is the test that can disprove the plan.
+2. **Name native reviewers, Spanish and Vietnamese first.** Recommend now: the
+   translated site stays out of search until a language is reviewed, and the
+   subject is regulated and emotional.
+3. **Verify Search Console and Bing, and register `answer` in GA4.** Recommend
+   this week (not confirmed done).
 
-Then:
-
-4. Re-answer the App Store age questionnaire truthfully; recommend now.
-5. Create the App Store campaign provider token; recommend now.
-6. Approve the review-gap message in the second screenshot and Play short
-   description, through the canonical metadata and claims check; recommend yes.
-7. Promote GM-036 (string extraction) to R1; recommend yes, no-regret.
-8. Approve GM-041 participant language as a catalog entry; recommend yes after
-   the six-family test.
-9. Confirm Play publication and device acceptance gate any new language;
-   recommend yes.
-10. Approve GM-042 helper settings without a password; recommend a usability
-    check first.
-11. Approve a translation review budget per language; recommend deciding at day 90.
-12. Keep the payments, accounts, backend and AI boundaries; recommend no change
-    before the day-90 gates.
+Then: re-answer the App Store age questionnaire truthfully and reconcile
+the 17+ the API reports with the 16+ in our docs; create the campaign provider
+token; approve the review-gap screenshot and Play short description through the
+canonical metadata; run device acceptance before the next release (overdue);
+per-language screenshots after review; GM-041 and GM-042 only after their tests;
+a review budget beyond two languages at the day-30 gate; keep the payments,
+accounts, backend and AI boundaries until the day-90 gates. All recommended,
+none approved.
