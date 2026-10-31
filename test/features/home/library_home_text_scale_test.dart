@@ -6,6 +6,7 @@ import 'package:golden_moments/data/services/local_pack_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/home/cubit/home_cubit.dart';
 import 'package:golden_moments/features/home/presentation/screens/home_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/pack_card.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -42,6 +43,7 @@ void main() {
 
       await tester.pumpWidget(
         MaterialApp(
+          localizationsDelegates: AppLocalizations.localizationsDelegates,
           theme: gmBuildTheme(),
           builder: (context, child) => MediaQuery(
             data: MediaQuery.of(context)

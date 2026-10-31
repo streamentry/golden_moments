@@ -7,6 +7,7 @@ import 'package:golden_moments/data/services/local_pack_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/cubit/game_cubit.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_board.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:provider/provider.dart';
 
 /// The legacy picture-pack route as the app builds it: theme, sound
@@ -18,6 +19,7 @@ Widget legacyApp(
 }) => ChangeNotifierProvider<SoundSettings>(
   create: (_) => SoundSettings(),
   child: MaterialApp(
+    localizationsDelegates: AppLocalizations.localizationsDelegates,
     theme: gmBuildTheme(),
     builder: (context, child) => MediaQuery(
       data: MediaQuery.of(context).copyWith(

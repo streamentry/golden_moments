@@ -3,12 +3,16 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/reminders/data/reminder_settings.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/native/gm_native.dart';
 
 /// Optional, caregiver-chosen reminders (GM-038, approved 2026-10-30). Off
 /// by default; the system permission question appears only after "Turn on
 /// reminder" is tapped. Reminders are scheduled on this device and never
 /// count days, streaks or missed sessions.
+///
+/// The notification text is taken from the app's language when the reminder
+/// is scheduled, so it stays in that language until it is next changed here.
 class ReminderPage extends StatefulWidget {
   const new({
     this.native = const GmNative(),
@@ -24,18 +28,28 @@ class ReminderPage extends StatefulWidget {
 }
 
 class _ReminderPageState extends State<ReminderPage> {
-  static const Map<int, (String, String)> _dayNames = {
-    DateTime.monday: ('Mon', 'Monday'),
-    DateTime.tuesday: ('Tue', 'Tuesday'),
-    DateTime.wednesday: ('Wed', 'Wednesday'),
-    DateTime.thursday: ('Thu', 'Thursday'),
-    DateTime.friday: ('Fri', 'Friday'),
-    DateTime.saturday: ('Sat', 'Saturday'),
-    DateTime.sunday: ('Sun', 'Sunday'),
+  /// Short chip text and the full name read aloud, Monday first.
+  static Map<int, (String, String)> _dayNames(AppLocalizations l10n) => {
+    DateTime.monday: (l10n.reminderDayMondayShort, l10n.reminderDayMonday),
+    DateTime.tuesday: (l10n.reminderDayTuesdayShort, l10n.reminderDayTuesday),
+    DateTime.wednesday: (
+      l10n.reminderDayWednesdayShort,
+      l10n.reminderDayWednesday,
+    ),
+    DateTime.thursday: (
+      l10n.reminderDayThursdayShort,
+      l10n.reminderDayThursday,
+    ),
+    DateTime.friday: (l10n.reminderDayFridayShort, l10n.reminderDayFriday),
+    DateTime.saturday: (
+      l10n.reminderDaySaturdayShort,
+      l10n.reminderDaySaturday,
+    ),
+    DateTime.sunday: (l10n.reminderDaySundayShort, l10n.reminderDaySunday),
   };
 
   ReminderSettings? _settings;
-  String? _status;
+  _Status? _status;
   bool _busy = false;
 
   @override
@@ -54,29 +68,32 @@ class _ReminderPageState extends State<ReminderPage> {
     if (mounted) setState(() => _settings = loaded);
   }
 
-  Future<bool> _schedule(ReminderSettings s) => widget.native.scheduleReminders(
-    weekdays: s.weekdays,
-    hour: s.hour,
-    minute: s.minute,
-    title: ReminderSettings.title,
-    body: ReminderSettings.body,
-  );
+  Future<bool> _schedule(ReminderSettings s, AppLocalizations l10n) =>
+      widget.native.scheduleReminders(
+        weekdays: s.weekdays,
+        hour: s.hour,
+        minute: s.minute,
+        title: l10n.reminderNotificationTitle,
+        body: l10n.reminderNotificationBody,
+      );
 
   /// Saves [next]; when the reminder is on, reschedules it first so the
   /// saved choice always matches what the device will show.
-  Future<void> _apply(ReminderSettings next, {String? done}) async {
+  Future<void> _apply(ReminderSettings next, {_Status? done}) async {
+    // Read before any await so the scheduled text matches the screen.
+    final l10n = context.l10n;
     setState(() => _busy = true);
     var status = done;
     var saved = next;
     try {
-      if (next.enabled && !await _schedule(next)) {
-        status = 'The reminder could not be set. Nothing was changed.';
+      if (next.enabled && !await _schedule(next, l10n)) {
+        status = _Status.couldNotSet;
         saved = _settings!;
       } else {
         await widget.store.save(next);
       }
     } on Object {
-      status = 'The reminder could not be saved. Please try again.';
+      status = _Status.couldNotSave;
       saved = _settings!;
     }
     if (!mounted) return;
@@ -97,9 +114,7 @@ class _ReminderPageState extends State<ReminderPage> {
     if (permission != ReminderPermission.granted) {
       setState(() {
         _busy = false;
-        _status =
-            'Notifications are off for Golden Moments. You can allow them '
-            'in the Settings app, under Notifications, and try again.';
+        _status = _Status.notificationsOff;
       });
       return;
     }
@@ -111,7 +126,7 @@ class _ReminderPageState extends State<ReminderPage> {
     setState(() => _busy = true);
     await widget.native.cancelReminders();
     if (!mounted) return;
-    await _apply(_settings!.copyWith(enabled: false), done: 'Reminder is off.');
+    await _apply(_settings!.copyWith(enabled: false), done: _Status.off);
   }
 
   void _toggleDay(int day) {
@@ -133,18 +148,29 @@ class _ReminderPageState extends State<ReminderPage> {
     await _apply(s.copyWith(hour: picked.hour, minute: picked.minute));
   }
 
-  String _summary(ReminderSettings s) {
+  String _summary(ReminderSettings s, AppLocalizations l10n) {
+    final names = _dayNames(l10n);
     final days = s.weekdays.length == 7
-        ? 'Every day'
-        : ([...s.weekdays]..sort()).map((d) => _dayNames[d]!.$2).join(', ');
+        ? l10n.reminderEveryDay
+        : ([...s.weekdays]..sort())
+              .map((d) => names[d]!.$2)
+              .join(l10n.reminderDayListSeparator);
     final time = MaterialLocalizations.of(context)
         .formatTimeOfDay(TimeOfDay(hour: s.hour, minute: s.minute));
-    return '$days at $time';
+    return l10n.reminderSummary(days, time);
   }
+
+  String _statusText(_Status status, AppLocalizations l10n) => switch (status) {
+    _Status.couldNotSet => l10n.reminderCouldNotSet,
+    _Status.couldNotSave => l10n.reminderCouldNotSave,
+    _Status.notificationsOff => l10n.reminderNotificationsOff,
+    _Status.off => l10n.reminderIsOff,
+  };
 
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
+    final l10n = context.l10n;
     final s = _settings;
     Widget heading(String text) => Padding(
       padding: const EdgeInsets.only(top: gmSpaceLg, bottom: gmSpaceSm),
@@ -156,7 +182,7 @@ class _ReminderPageState extends State<ReminderPage> {
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: gmToolbarHeight(context),
-        title: const GmTitle('Gentle reminder'),
+        title: GmTitle(l10n.commonGentleReminder),
       ),
       body: SafeArea(
         child: Center(
@@ -168,19 +194,16 @@ class _ReminderPageState extends State<ReminderPage> {
                     padding: const EdgeInsets.all(gmSpaceLg),
                     children: [
                       Text(
-                        'A quiet note on this device at a time you choose, '
-                        'as a nudge to share some pictures. It never counts '
-                        'days or mentions a missed one. You can turn it off '
-                        'at any time.',
+                        l10n.reminderIntro,
                         style: theme.textTheme.bodyLarge,
                       ),
-                      heading('Days'),
+                      heading(l10n.reminderDays),
                       Wrap(
                         spacing: gmSpaceSm,
                         runSpacing: gmSpaceSm,
                         children: [
                           for (final MapEntry(key: day, value: names)
-                              in _dayNames.entries)
+                              in _dayNames(l10n).entries)
                             Semantics(
                               label: names.$2,
                               excludeSemantics: true,
@@ -198,7 +221,7 @@ class _ReminderPageState extends State<ReminderPage> {
                             ),
                         ],
                       ),
-                      heading('Time'),
+                      heading(l10n.reminderTime),
                       Align(
                         alignment: AlignmentDirectional.centerStart,
                         child: OutlinedButton.icon(
@@ -216,7 +239,7 @@ class _ReminderPageState extends State<ReminderPage> {
                         Semantics(
                           liveRegion: true,
                           child: Text(
-                            'Reminder is on: ${_summary(s)}.',
+                            l10n.reminderIsOn(_summary(s, l10n)),
                             style: theme.textTheme.bodyLarge,
                           ),
                         ),
@@ -224,20 +247,20 @@ class _ReminderPageState extends State<ReminderPage> {
                         OutlinedButton.icon(
                           onPressed: _busy ? null : _turnOff,
                           icon: const Icon(Icons.notifications_off_outlined),
-                          label: const Text('Turn off reminder'),
+                          label: Text(l10n.reminderTurnOff),
                         ),
                       ] else
                         FilledButton.icon(
                           onPressed: _busy ? null : _turnOn,
                           icon: const Icon(Icons.notifications_none),
-                          label: const Text('Turn on reminder'),
+                          label: Text(l10n.reminderTurnOn),
                         ),
                       if (_status != null) ...[
                         const SizedBox(height: gmSpaceMd),
                         Semantics(
                           liveRegion: true,
                           child: Text(
-                            _status!,
+                            _statusText(_status!, l10n),
                             style: theme.textTheme.bodyLarge,
                           ),
                         ),
@@ -245,7 +268,7 @@ class _ReminderPageState extends State<ReminderPage> {
                       const SizedBox(height: gmSpaceMd),
                       TextButton(
                         onPressed: () => Navigator.of(context).pop(),
-                        child: const Text('Done for now'),
+                        child: Text(l10n.commonDoneForNow),
                       ),
                     ],
                   ),
@@ -255,3 +278,7 @@ class _ReminderPageState extends State<ReminderPage> {
     );
   }
 }
+
+/// What the status line under the buttons reports, turned into words in the
+/// app's language only when it is shown.
+enum _Status { couldNotSet, couldNotSave, notificationsOff, off }

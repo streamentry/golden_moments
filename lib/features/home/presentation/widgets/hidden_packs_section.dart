@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 /// The lasting way back from "Not for me" (GM-020, GM-026).
 ///
@@ -41,7 +42,7 @@ class HiddenPacksSection extends StatelessWidget {
             const SizedBox(width: gmSpaceSm),
             Expanded(
               child: Text(
-                'Hidden packs (${packs.length})',
+                context.l10n.libraryHiddenTitle(packs.length),
                 style: theme.textTheme.headlineSmall,
               ),
             ),
@@ -49,8 +50,7 @@ class HiddenPacksSection extends StatelessWidget {
         ),
         const SizedBox(height: gmSpaceSm),
         Text(
-          'You marked these Not for me. They are not deleted. Show one again '
-          'whenever you like.',
+          context.l10n.libraryHiddenBody,
           style: theme.textTheme.bodyLarge?.copyWith(
             color: scheme.onSurfaceVariant,
           ),
@@ -61,7 +61,7 @@ class HiddenPacksSection extends StatelessWidget {
             key: ValueKey('hidden-${pack.id}'),
             elevation: 0,
             child: Padding(
-              padding: const EdgeInsets.fromLTRB(
+              padding: const EdgeInsetsDirectional.fromSTEB(
                 gmSpaceMd,
                 gmSpaceSm,
                 gmSpaceSm,
@@ -85,7 +85,7 @@ class HiddenPacksSection extends StatelessWidget {
                             const SizedBox(width: gmSpaceXs),
                             Flexible(
                               child: Text(
-                                'In favorites',
+                                context.l10n.libraryHiddenInFavorites,
                                 style: theme.textTheme.bodySmall,
                               ),
                             ),
@@ -98,8 +98,10 @@ class HiddenPacksSection extends StatelessWidget {
                     onPressed: () => onShowAgain(pack),
                     icon: const Icon(Icons.visibility_outlined),
                     label: Text(
-                      'Show again',
-                      semanticsLabel: 'Show ${pack.title} again',
+                      context.l10n.libraryShowAgain,
+                      semanticsLabel: context.l10n.libraryShowPackAgain(
+                        pack.title,
+                      ),
                     ),
                   ),
                 ],
@@ -170,7 +172,7 @@ class _HiddenNoticeState extends State<HiddenNotice> {
             border: Border.all(color: scheme.outline),
           ),
           child: Padding(
-            padding: const EdgeInsets.fromLTRB(
+            padding: const EdgeInsetsDirectional.fromSTEB(
               gmSpaceMd,
               gmSpaceSm,
               gmSpaceSm,
@@ -192,8 +194,7 @@ class _HiddenNoticeState extends State<HiddenNotice> {
                     const SizedBox(width: gmSpaceSm),
                     Flexible(
                       child: Text(
-                        '${widget.pack.title} is hidden. You can show it '
-                        'again under Hidden packs.',
+                        context.l10n.libraryPackHiddenNotice(widget.pack.title),
                         style: theme.textTheme.bodyLarge,
                       ),
                     ),
@@ -204,8 +205,10 @@ class _HiddenNoticeState extends State<HiddenNotice> {
                   onPressed: widget.onShowAgain,
                   icon: const Icon(Icons.visibility_outlined),
                   label: Text(
-                    'Show again',
-                    semanticsLabel: 'Show ${widget.pack.title} again',
+                    context.l10n.libraryShowAgain,
+                    semanticsLabel: context.l10n.libraryShowPackAgain(
+                      widget.pack.title,
+                    ),
                   ),
                 ),
               ],

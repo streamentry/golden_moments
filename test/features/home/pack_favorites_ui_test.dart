@@ -10,6 +10,7 @@ import 'package:golden_moments/features/home/data/interest_preferences.dart';
 import 'package:golden_moments/features/home/data/pack_preferences.dart';
 import 'package:golden_moments/features/home/presentation/screens/home_page.dart';
 import 'package:golden_moments/features/pack/presentation/screens/pack_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/category_card.dart';
 import 'package:golden_moments/shared/widgets/pack_card.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -28,6 +29,7 @@ Future<HomeCubit> _pumpHome(
   addTearDown(cubit.close);
   await tester.pumpWidget(
     MaterialApp(
+      localizationsDelegates: AppLocalizations.localizationsDelegates,
       theme: gmBuildTheme(),
       builder: (context, child) => MediaQuery(
         data: MediaQuery.of(context)
@@ -320,6 +322,7 @@ void main() {
     addTearDown(cubit.close);
     await tester.pumpWidget(
       MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
         theme: gmBuildTheme(),
         home: PackPage(
           categoryId: 'vintage',
@@ -345,6 +348,7 @@ void main() {
     addTearDown(cubit.close);
     await tester.pumpWidget(
       MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
         theme: gmBuildTheme(),
         home: BlocProvider.value(value: cubit, child: const HomeView()),
       ),
@@ -393,6 +397,7 @@ void main() {
     addTearDown(cubit.close);
     await tester.pumpWidget(
       MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
         theme: gmBuildTheme(),
         home: Builder(
           builder: (context) => Scaffold(
@@ -446,6 +451,7 @@ void main() {
     addTearDown(cubit.close);
     await tester.pumpWidget(
       MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
         theme: gmBuildTheme(),
         home: PackPage(
           categoryId: 'animals',

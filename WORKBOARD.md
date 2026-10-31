@@ -56,6 +56,12 @@ Owner goal: from about 10 to 100 installs a day, with high retention. Maintainer
 
 Evidence: strict analysis clean, 450+ Flutter tests pass with 79.8% line coverage, 64 Python tests and metadata checks pass, DESIGN.md lint 0/0. iOS 26.5 simulator, debug build: Apple's rating sheet appeared on Home after a finished game with seeded counters, never on the finish message (`docs/release/evidence/1.5.0/`); the notification question appeared only after "Turn on reminder", and scheduling succeeded. Not device-verified, no VoiceOver run, Android not built.
 
+## App localization infrastructure (2026-10-31, GM-036 partial)
+
+Maintainer request: make the app ready for 20 languages; translations are a later step. All user-visible strings in `lib/` (320 keys) now live in `lib/l10n/arb/app_en.arb`, each with a translator description; share text, reminder notifications and problem-report labels take the app language (report codes stay English). `supportedLocales`, a locale resolver (Traditional Chinese by script or TW/HK/MO region, any Portuguese to `pt_BR`, unknown languages fall through to English) and iOS `CFBundleLocalizations` list the 20 languages; every non-English ARB holds only `@@locale`, so missing text falls back to English. Layout uses directional padding/alignment for Arabic; the photo puzzle grid stays left to right on purpose.
+
+Evidence: strict analysis clean, full Flutter suite and new ARB, locale and Arabic/long-German layout tests pass locally (counts in the PR); Python and metadata checks pass. Not done: translations, translated picture-pack content (`assets/data/packs_index.json`), `InfoPlist.strings` for the photo permission text, Android per-app language config, device/screen-reader checks. Release gate: until reviewed translations exist, shipping this build shows English text in those languages (mirrored in Arabic), and no store listing may claim them.
+
 ## Next in order
 
 0. Run the device and human scenarios in [docs/release/device-acceptance.md](docs/release/device-acceptance.md) and record evidence per its format.

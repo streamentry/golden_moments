@@ -7,6 +7,7 @@ import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/data/gentle_preferences.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 // A valid 1x1 PNG, so the revealed tile has a real image to show.
@@ -19,6 +20,7 @@ final Uint8List _png = base64Decode(
 
 Widget _flipHost({required bool revealed, required bool reduceMotion}) =>
     MaterialApp(
+      localizationsDelegates: AppLocalizations.localizationsDelegates,
       theme: gmBuildTheme(),
       builder: (context, child) => MediaQuery(
         data: MediaQuery.of(context).copyWith(disableAnimations: reduceMotion),
@@ -86,6 +88,7 @@ void main() {
       final handle = tester.ensureSemantics();
       await tester.pumpWidget(
         MaterialApp(
+          localizationsDelegates: AppLocalizations.localizationsDelegates,
           theme: gmBuildTheme(),
           home: const GentleGamePage(pictures: pictures),
         ),

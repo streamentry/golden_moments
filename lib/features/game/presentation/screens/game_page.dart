@@ -10,6 +10,7 @@ import 'package:golden_moments/features/game/cubit/game_cubit.dart';
 import 'package:golden_moments/features/game/cubit/game_state.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_exit_bar.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_play_view.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/rating/review_request.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
 import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
@@ -89,7 +90,9 @@ class _GamePageState extends State<GamePage> {
               appBar: AppBar(
                 toolbarHeight: gmToolbarHeight(context),
                 title: GmTitle(
-                  playing ? state.currentPack.title : 'Picture game',
+                  playing
+                      ? state.currentPack.title
+                      : context.l10n.gameTitleFallback,
                 ),
                 actions: playing
                     ? [
@@ -99,7 +102,7 @@ class _GamePageState extends State<GamePage> {
                             unawaited(SoundService().playTap());
                             context.read<GameCubit>().showHint();
                           },
-                          tooltip: 'Show a matching pair',
+                          tooltip: context.l10n.gameHintTooltip,
                         ),
                         IconButton(
                           icon: const Icon(Icons.tune),
@@ -107,7 +110,7 @@ class _GamePageState extends State<GamePage> {
                             unawaited(SoundService().playTap());
                             unawaited(_showOptions(context));
                           },
-                          tooltip: 'Sound and options',
+                          tooltip: context.l10n.gameOptionsTooltip,
                         ),
                       ]
                     : null,
@@ -150,21 +153,28 @@ class _GamePageState extends State<GamePage> {
         context: context,
         builder: (dialogContext) => AlertDialog(
           scrollable: true,
-          title: const GmTitle('Start again?'),
-          content: const Text(
-            'The pairs you have found on this board will be cleared.',
-          ),
+          title: GmTitle(dialogContext.l10n.gameStartAgainTitle),
+          content: Text(dialogContext.l10n.gameStartAgainBody),
           // Keeping the board is the safe choice, so it is the primary one.
           actions: gmDialogActions(
             other: TextButton(
               onPressed: () => Navigator.pop(dialogContext, true),
-              child: const Text('Start again', textAlign: TextAlign.center),
+              child: Text(
+                dialogContext.l10n.commonStartAgain,
+                textAlign: TextAlign.center,
+              ),
             ),
             primary: FilledButton(
               onPressed: () => Navigator.pop(dialogContext, false),
-              child: const Text('Keep this board', textAlign: TextAlign.center),
+              child: Text(
+                dialogContext.l10n.commonKeepThisBoard,
+                textAlign: TextAlign.center,
+              ),
             ),
-            labels: ('Start again', 'Keep this board'),
+            labels: (
+              dialogContext.l10n.commonStartAgain,
+              dialogContext.l10n.commonKeepThisBoard,
+            ),
           ),
         ),
       );
@@ -180,21 +190,21 @@ class _GamePageState extends State<GamePage> {
     await showDialog<void>(
       context: parentContext,
       builder: (dialogContext) => AlertDialog(
-        title: const GmTitle('Options'),
+        title: GmTitle(dialogContext.l10n.gameOptionsTitle),
         scrollable: true,
         content: Consumer<SoundSettings>(
           builder: (_, settings, _) => Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              const Text('Take your time. Nothing changes while you rest.'),
+              Text(dialogContext.l10n.gameOptionsBody),
               const SizedBox(height: gmSpaceMd),
               SwitchListTile(
                 contentPadding: EdgeInsets.zero,
                 secondary: Icon(
                   settings.isMusicOn ? Icons.music_note : Icons.music_off,
                 ),
-                title: const GmTitle('Music'),
-                subtitle: const GmTitle('Off unless you turn it on'),
+                title: GmTitle(dialogContext.l10n.settingsMusic),
+                subtitle: GmTitle(dialogContext.l10n.settingsMusicSubtitle),
                 value: settings.isMusicOn,
                 onChanged: (_) => settings.toggleMusic(),
               ),
@@ -203,8 +213,8 @@ class _GamePageState extends State<GamePage> {
                 secondary: Icon(
                   settings.isSoundOn ? Icons.volume_up : Icons.volume_off,
                 ),
-                title: const GmTitle('Sounds'),
-                subtitle: const GmTitle('Soft taps and a chime at the end'),
+                title: GmTitle(dialogContext.l10n.settingsSounds),
+                subtitle: GmTitle(dialogContext.l10n.settingsSoundsSubtitle),
                 value: settings.isSoundOn,
                 onChanged: (_) => settings.toggleSound(),
               ),
@@ -218,16 +228,25 @@ class _GamePageState extends State<GamePage> {
               Navigator.of(dialogContext).pop();
               Navigator.of(parentContext).pop();
             },
-            child: const Text('Done for now', textAlign: TextAlign.center),
+            child: Text(
+              dialogContext.l10n.commonDoneForNow,
+              textAlign: TextAlign.center,
+            ),
           ),
           primary: FilledButton(
             onPressed: () {
               unawaited(SoundService().playTap());
               Navigator.of(dialogContext).pop();
             },
-            child: const Text('Keep playing', textAlign: TextAlign.center),
+            child: Text(
+              dialogContext.l10n.gameKeepPlaying,
+              textAlign: TextAlign.center,
+            ),
           ),
-          labels: ('Done for now', 'Keep playing'),
+          labels: (
+            dialogContext.l10n.commonDoneForNow,
+            dialogContext.l10n.gameKeepPlaying,
+          ),
         ),
       ),
     );
@@ -257,20 +276,18 @@ class _GamePageState extends State<GamePage> {
         builder: (context) => StatefulBuilder(
           builder: (context, setDialogState) => AlertDialog(
             scrollable: true,
-            title: const GmTitle('All pairs together'),
+            title: GmTitle(context.l10n.gameFinishTitle),
             content: Column(
               mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                const Text(
-                  'Play again, choose another pack, or take a break. Is there '
-                  'a picture you would like to talk about?',
-                ),
+                Text(context.l10n.gameFinishBody),
                 if (invite && !shared) ...[
                   const SizedBox(height: gmSpaceMd),
                   ShareInvitation(
                     onShare: () async {
-                      if (await shareAndRemember() && context.mounted) {
+                      if (await shareAndRemember(context.l10n) &&
+                          context.mounted) {
                         setDialogState(() => shared = true);
                       }
                     },
@@ -278,7 +295,7 @@ class _GamePageState extends State<GamePage> {
                 ],
                 if (shared) ...[
                   const SizedBox(height: gmSpaceMd),
-                  const Text('Thank you for sharing.'),
+                  Text(context.l10n.commonThankYouForSharing),
                 ],
               ],
             ),
@@ -291,8 +308,8 @@ class _GamePageState extends State<GamePage> {
                   Navigator.of(context).pop();
                   Navigator.of(parentContext).pop();
                 },
-                child: const Text(
-                  'Choose another pack',
+                child: Text(
+                  context.l10n.gameChooseAnotherPack,
                   textAlign: TextAlign.center,
                 ),
               ),
@@ -303,9 +320,15 @@ class _GamePageState extends State<GamePage> {
                   Navigator.of(context).pop();
                   parentContext.read<GameCubit>().resetGame();
                 },
-                child: const Text('Play again', textAlign: TextAlign.center),
+                child: Text(
+                  context.l10n.commonPlayAgain,
+                  textAlign: TextAlign.center,
+                ),
               ),
-              labels: ('Choose another pack', 'Play again'),
+              labels: (
+                context.l10n.gameChooseAnotherPack,
+                context.l10n.commonPlayAgain,
+              ),
             ),
           ),
         ),
@@ -320,14 +343,14 @@ class _LoadingView extends StatelessWidget {
 
   @override
   Widget build(BuildContext parentContext) {
-    return const Center(
+    return Center(
       child: SingleChildScrollView(
-        padding: EdgeInsets.all(gmSpaceLg),
+        padding: const EdgeInsets.all(gmSpaceLg),
         child: Column(
           children: [
-            CircularProgressIndicator(),
-            SizedBox(height: gmSpaceMd),
-            Text('Getting the pictures ready…', textAlign: TextAlign.center),
+            const CircularProgressIndicator(),
+            const SizedBox(height: gmSpaceMd),
+            Text(parentContext.l10n.gameLoading, textAlign: TextAlign.center),
           ],
         ),
       ),
@@ -356,19 +379,18 @@ class _ErrorView extends StatelessWidget {
               ),
               const SizedBox(height: gmSpaceMd),
               Text(
-                'This pack could not open',
+                parentContext.l10n.gameErrorTitle,
                 style: theme.textTheme.headlineSmall,
                 textAlign: TextAlign.center,
               ),
               const SizedBox(height: gmSpaceSm),
-              const Text(
-                'Please choose another pack. Your other packs and '
-                'activities still work.',
+              Text(
+                parentContext.l10n.gameErrorBody,
                 textAlign: TextAlign.center,
               ),
               const SizedBox(height: gmSpaceLg),
               GmOutlineButton(
-                label: 'Go back',
+                label: parentContext.l10n.gameGoBack,
                 onTap: () {
                   Navigator.of(parentContext).pop();
                 },

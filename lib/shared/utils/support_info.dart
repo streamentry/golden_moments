@@ -1,4 +1,5 @@
 import 'package:flutter/foundation.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 /// Matches `version:` in pubspec.yaml; a test keeps the two in step.
 const String appVersion = '1.5.0+9';
@@ -19,17 +20,27 @@ const String termsUrl = 'https://dementiaactivities.games/terms/';
 const String supportEmail = 'apple@locuno.com';
 
 /// What went wrong, as a short closed list. A report carries only one of
-/// these codes, never free text, file names, photo details or paths.
+/// these codes, never free text, file names, photo details or paths. The
+/// codes stay in English so support can read every report; only the label
+/// the person chooses from is translated.
 enum ProblemKind {
-  photosNotAdded('photo-import', 'Photos would not add'),
-  photosNotShown('photo-display', 'A photo would not show'),
-  boardMissing('resume', 'My game was not where I left it'),
-  textTooSmall('text-size', 'Text or buttons were hard to use'),
-  somethingElse('other', 'Something else');
+  photosNotAdded('photo-import'),
+  photosNotShown('photo-display'),
+  boardMissing('resume'),
+  textTooSmall('text-size'),
+  somethingElse('other');
 
-  new(this.code, this.label);
+  new(this.code);
   final String code;
-  final String label;
+
+  /// The choice as the person reads it in the report dialog.
+  String label(AppLocalizations l10n) => switch (this) {
+    ProblemKind.photosNotAdded => l10n.supportProblemPhotosNotAdded,
+    ProblemKind.photosNotShown => l10n.supportProblemPhotoNotShown,
+    ProblemKind.boardMissing => l10n.supportProblemBoardMissing,
+    ProblemKind.textTooSmall => l10n.supportProblemTextTooSmall,
+    ProblemKind.somethingElse => l10n.supportProblemSomethingElse,
+  };
 }
 
 String _platformName(TargetPlatform platform) => switch (platform) {
@@ -43,10 +54,17 @@ String _platformName(TargetPlatform platform) => switch (platform) {
 
 /// The whole report: app version, platform family and one problem code.
 /// No device identifiers, no OS build, no photos, hashes, captions or logs.
-String diagnosticSummary(ProblemKind kind, {TargetPlatform? platform}) =>
-    'Golden Moments $appVersion\n'
-    'Platform: ${_platformName(platform ?? defaultTargetPlatform)}\n'
-    'Problem: ${kind.code}';
+/// The line names follow the app's language; the platform name and the
+/// problem code stay in English.
+String diagnosticSummary(
+  ProblemKind kind,
+  AppLocalizations l10n, {
+  TargetPlatform? platform,
+}) => [
+  'Golden Moments $appVersion',
+  l10n.supportReportPlatform(_platformName(platform ?? defaultTargetPlatform)),
+  l10n.supportReportProblem(kind.code),
+].join('\n');
 
 /// Longest note that can be shared.
 const int maxNoteLength = 1000;

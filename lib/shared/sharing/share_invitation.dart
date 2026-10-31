@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/utils/share_util.dart';
 import 'package:share_plus/share_plus.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -74,11 +75,12 @@ class ShareInvitationStore {
 }
 
 /// Opens the system share sheet. Returns true only when the platform reports
-/// that something was actually shared.
-Future<bool> shareGoldenMoments() async {
+/// that something was actually shared. [l10n] supplies the message in the
+/// app's language.
+Future<bool> shareGoldenMoments(AppLocalizations l10n) async {
   try {
     final result = await SharePlus.instance.share(
-      ShareParams(text: appShareText(), subject: 'Golden Moments'),
+      ShareParams(text: appShareText(l10n), subject: l10n.appTitle),
     );
     return result.status == ShareResultStatus.success;
   } on Object {
@@ -88,8 +90,8 @@ Future<bool> shareGoldenMoments() async {
 
 /// Shares and, if it worked, stops future suggestions. Returns whether
 /// something was shared.
-Future<bool> shareAndRemember() async {
-  if (!await shareGoldenMoments()) return false;
+Future<bool> shareAndRemember(AppLocalizations l10n) async {
+  if (!await shareGoldenMoments(l10n)) return false;
   try {
     await (await ShareInvitationStore.load()).markShared();
   } on Object {
@@ -122,8 +124,7 @@ class ShareInvitation extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              'Enjoying these pictures together? Another family '
-              'might enjoy them too.',
+              context.l10n.shareInvitationText,
               style: theme.textTheme.bodyMedium,
             ),
             const SizedBox(height: gmSpaceSm),
@@ -145,6 +146,6 @@ class ShareWithFamilyButton extends StatelessWidget {
   Widget build(BuildContext context) => TextButton.icon(
     onPressed: onPressed,
     icon: Icon(Icons.adaptive.share),
-    label: const Text('Share with family'),
+    label: Text(context.l10n.shareWithFamily),
   );
 }

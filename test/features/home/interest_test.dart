@@ -7,6 +7,7 @@ import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/home/data/interest_preferences.dart';
 import 'package:golden_moments/features/home/presentation/widgets/library_section.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 const _icon = 'assets/images/catalog/24c28cf9fd7d826b4863ed6a.jpg';
@@ -42,6 +43,7 @@ const _categories = [
 ];
 
 Widget _app({double textScale = 1}) => MaterialApp(
+  localizationsDelegates: AppLocalizations.localizationsDelegates,
   theme: gmBuildTheme(),
   builder: (context, child) => MediaQuery(
     data: MediaQuery.of(context)
@@ -225,6 +227,7 @@ void main() {
       final store = _SlowInterestStore({'animals'});
       await tester.pumpWidget(
         MaterialApp(
+          localizationsDelegates: AppLocalizations.localizationsDelegates,
           theme: gmBuildTheme(),
           home: Scaffold(
             body: SingleChildScrollView(

@@ -5,8 +5,11 @@ import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_home_page.dart';
 import 'package:golden_moments/features/reminders/data/reminder_settings.dart';
 import 'package:golden_moments/features/reminders/presentation/reminder_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/native/gm_native.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+
+import '../../helpers/l10n_helpers.dart';
 
 const _channel = MethodChannel('golden_moments/native');
 const _ios = GmNative(supportedOverride: true);
@@ -32,6 +35,7 @@ class _FakeIos {
 }
 
 Widget _app(Widget home, {double textScale = 1}) => MaterialApp(
+  localizationsDelegates: AppLocalizations.localizationsDelegates,
   theme: gmBuildTheme(),
   builder: (context, child) => MediaQuery(
     data: MediaQuery.of(context)
@@ -81,7 +85,8 @@ void main() {
     final args = ios.calls.last.arguments as Map<Object?, Object?>;
     expect(args['weekdays'], [1, 2, 3, 4, 5, 6, 7]);
     expect(args['hour'], 10);
-    expect(args['title'], ReminderSettings.title);
+    expect(args['title'], englishL10n.reminderNotificationTitle);
+    expect(args['body'], englishL10n.reminderNotificationBody);
     expect(find.textContaining('Reminder is on: Every day'), findsOneWidget);
     expect((await const ReminderSettingsStore().load()).enabled, isTrue);
   });
@@ -151,7 +156,8 @@ void main() {
       ),
       findsNothing,
     );
-    expect(ReminderSettings.body, isNot(contains('!')));
+    expect(englishL10n.reminderNotificationTitle, isNot(contains('!')));
+    expect(englishL10n.reminderNotificationBody, isNot(contains('!')));
   });
 
   testWidgets('reads at 200% text on a small phone', (tester) async {

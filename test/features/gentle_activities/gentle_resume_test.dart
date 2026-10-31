@@ -8,10 +8,12 @@ import 'package:golden_moments/features/gentle_activities/data/gentle_session.da
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/models/gentle_board.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 Widget _app({String sessionKey = 'starter', double textScale = 1}) =>
     MaterialApp(
+      localizationsDelegates: AppLocalizations.localizationsDelegates,
       theme: gmBuildTheme(),
       builder: (context, child) => MediaQuery(
         data: MediaQuery.of(context)
@@ -168,6 +170,7 @@ void main() {
     final store = _SlowStore(board);
     await tester.pumpWidget(
       MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
         theme: gmBuildTheme(),
         home: GentleGamePage(
           pictures: ActivityPicture.samples,

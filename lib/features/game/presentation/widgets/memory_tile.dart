@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/cubit/tile_state.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 /// One picture tile on the picture-pack board.
 ///
@@ -28,27 +29,30 @@ class MemoryTile extends StatelessWidget {
   final VoidCallback? onTap;
 
   /// Spoken label: positional while hidden, the picture's name once shown.
-  static String labelFor(GameTile tile, int position) {
+  static String labelFor(GameTile tile, int position, AppLocalizations l10n) {
     if (!tile.isRevealed && !tile.isMatched) {
-      return 'Hidden picture, tile $position';
+      return l10n.gameTileHidden(position);
     }
     final caption = tile.image.caption.trim();
-    return '${caption.isEmpty ? 'Picture' : caption}, tile $position';
+    return caption.isEmpty
+        ? l10n.gameTilePicture(position)
+        : l10n.gameTileNamed(caption, position);
   }
 
   @override
   Widget build(BuildContext parentContext) {
+    final l10n = parentContext.l10n;
     final revealed = tile.isRevealed || tile.isMatched;
     return Semantics(
       container: true,
       button: true,
       enabled: onTap != null,
       onTap: onTap,
-      label: labelFor(tile, position),
+      label: labelFor(tile, position, l10n),
       value: tile.isMatched
-          ? 'Matched'
+          ? l10n.commonMatched
           : selected
-          ? 'Selected'
+          ? l10n.commonSelected
           : '',
       // Everything inside is visual only, so nothing hidden can leak.
       child: ExcludeSemantics(

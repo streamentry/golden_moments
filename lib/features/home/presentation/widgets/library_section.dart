@@ -6,6 +6,7 @@ import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/category/presentation/screens/category_page.dart';
 import 'package:golden_moments/features/home/data/interest_preferences.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/category_card.dart';
 
 /// Section displaying the game library, with optional topic choices.
@@ -111,7 +112,7 @@ class _LibrarySectionState extends State<LibrarySection> {
                 const SizedBox(width: gmSpaceSm),
                 Flexible(
                   child: Text(
-                    'Browse by topic',
+                    parentContext.l10n.libraryBrowseByTopic,
                     style: theme.textTheme.headlineSmall?.copyWith(
                       color: theme.colorScheme.primary,
                     ),
@@ -132,13 +133,13 @@ class _LibrarySectionState extends State<LibrarySection> {
                 );
               },
               icon: const Icon(Icons.arrow_forward),
-              label: const Text('See all topics'),
+              label: Text(parentContext.l10n.librarySeeAllTopics),
             ),
           ],
         ),
         const SizedBox(height: gmSpaceSm),
         Text(
-          'Every included picture pack, sorted by topic.',
+          parentContext.l10n.libraryBrowseByTopicBody,
           style: theme.textTheme.bodyLarge?.copyWith(
             color: theme.colorScheme.onSurfaceVariant,
           ),
@@ -147,7 +148,7 @@ class _LibrarySectionState extends State<LibrarySection> {
 
         if (categories.length > 1) ...[
           Text(
-            'Pick topics you enjoy (optional)',
+            parentContext.l10n.libraryPickTopics,
             style: theme.textTheme.titleMedium,
           ),
           const SizedBox(height: gmSpaceSm),
@@ -167,11 +168,13 @@ class _LibrarySectionState extends State<LibrarySection> {
             ],
           ),
           if (_chosen.isNotEmpty && !nothingForChoice)
-            TextButton(onPressed: _clear, child: const Text('Show all topics')),
+            TextButton(
+              onPressed: _clear,
+              child: Text(parentContext.l10n.libraryShowAllTopics),
+            ),
           if (_saveFailed)
             Text(
-              'Your choice could not be saved. It will apply until you close '
-              'the app.',
+              parentContext.l10n.libraryChoiceNotSaved,
               style: theme.textTheme.bodyMedium,
             ),
           const SizedBox(height: gmSpaceSm),
@@ -265,8 +268,8 @@ class _NoEligiblePacks extends StatelessWidget {
               Expanded(
                 child: Text(
                   onShowAll == null
-                      ? 'All packs are hidden'
-                      : 'Nothing to show for these topics',
+                      ? parentContext.l10n.libraryAllHiddenTitle
+                      : parentContext.l10n.libraryTopicsAllHiddenTitle,
                   style: theme.textTheme.titleMedium,
                 ),
               ),
@@ -275,11 +278,8 @@ class _NoEligiblePacks extends StatelessWidget {
           const SizedBox(height: gmSpaceSm),
           Text(
             onShowAll == null
-                ? 'You marked every pack Not for me. Show one again under '
-                      'Hidden packs.'
-                : 'Every pack in the topics you chose is marked Not for me. '
-                      'They stay hidden until you show them again under '
-                      'Hidden packs.',
+                ? parentContext.l10n.libraryAllHiddenBody
+                : parentContext.l10n.libraryTopicsAllHiddenBody,
             style: theme.textTheme.bodyLarge,
           ),
           if (onShowAll != null) ...[
@@ -287,7 +287,7 @@ class _NoEligiblePacks extends StatelessWidget {
             OutlinedButton.icon(
               onPressed: onShowAll,
               icon: const Icon(Icons.apps),
-              label: const Text('Show all topics'),
+              label: Text(parentContext.l10n.libraryShowAllTopics),
             ),
           ],
         ],
@@ -319,13 +319,13 @@ class _EmptyState extends StatelessWidget {
           ),
           const SizedBox(height: gmSpaceSm),
           Text(
-            'Library is empty',
+            parentContext.l10n.libraryEmptyTitle,
             style: theme.textTheme.titleMedium,
             textAlign: TextAlign.center,
           ),
           const SizedBox(height: gmSpaceSm),
           Text(
-            'New content will be added soon!',
+            parentContext.l10n.libraryEmptyBody,
             style: theme.textTheme.bodyMedium?.copyWith(
               color: theme.colorScheme.onSurfaceVariant,
             ),

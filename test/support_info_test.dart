@@ -5,6 +5,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/shared/utils/support_info.dart';
 
+import 'helpers/l10n_helpers.dart';
+
 void main() {
   test('appVersion matches pubspec.yaml', () {
     final pubspec = File('pubspec.yaml').readAsStringSync();
@@ -39,7 +41,11 @@ void main() {
   group('diagnostic summary', () {
     test('is only app version, platform family and one problem code', () {
       for (final kind in ProblemKind.values) {
-        final text = diagnosticSummary(kind, platform: TargetPlatform.iOS);
+        final text = diagnosticSummary(
+          kind,
+          englishL10n,
+          platform: TargetPlatform.iOS,
+        );
         expect(text.split('\n'), [
           'Golden Moments $appVersion',
           'Platform: iOS',

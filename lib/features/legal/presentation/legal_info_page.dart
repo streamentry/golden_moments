@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/gm_copyable_text.dart';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -33,13 +34,12 @@ class LegalInfoPage extends StatelessWidget {
     }
     if (opened || !context.mounted) return;
 
+    final l10n = context.l10n;
     ScaffoldMessenger.of(context).showSnackBar(
       SnackBar(
-        content: const Text(
-          'Could not open the page. You can copy the address and try later.',
-        ),
+        content: Text(l10n.legalOpenFailed),
         action: SnackBarAction(
-          label: 'Copy link',
+          label: l10n.legalCopyLink,
           onPressed: () =>
               unawaited(Clipboard.setData(ClipboardData(text: url))),
         ),
@@ -83,10 +83,11 @@ class LegalInfoPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
+    final l10n = context.l10n;
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: gmToolbarHeight(context),
-        title: const GmTitle('Privacy and information'),
+        title: GmTitle(l10n.legalTitle),
       ),
       body: SafeArea(
         child: Center(
@@ -95,82 +96,59 @@ class LegalInfoPage extends StatelessWidget {
             child: ListView(
               padding: const EdgeInsets.all(gmSpaceLg),
               children: [
-                Text(
-                  'Your pictures, your choice',
-                  style: theme.textTheme.headlineSmall,
-                ),
+                Text(l10n.legalHeading, style: theme.textTheme.headlineSmall),
+                const SizedBox(height: gmSpaceMd),
+                Text(l10n.legalNoAccount, style: theme.textTheme.bodyLarge),
                 const SizedBox(height: gmSpaceMd),
                 Text(
-                  'There is no Golden Moments account or family-photo '
-                  'server. When you choose family photos, the app keeps '
-                  'working copies on this device. Device backups may '
-                  'include those copies.',
-                  style: theme.textTheme.bodyLarge,
-                ),
-                const SizedBox(height: gmSpaceMd),
-                Text(
-                  'You can use built-in picture activities without '
-                  'choosing any personal photographs.',
+                  l10n.legalBuiltInPictures,
                   style: theme.textTheme.bodyLarge,
                 ),
                 const SizedBox(height: gmSpaceXl),
                 _link(
                   context,
-                  label: 'Mobile app privacy policy',
-                  description:
-                      'What stays on your device, external '
-                      'services, support email and data retention.',
+                  label: l10n.legalPrivacyPolicyLink,
+                  description: l10n.legalPrivacyPolicyDescription,
                   url: _appPrivacyUrl,
                   icon: Icons.privacy_tip_outlined,
                 ),
                 _link(
                   context,
-                  label: 'Privacy choices and deletion',
-                  description:
-                      'How to remove local copies without '
-                      'removing originals, and manage device backups.',
+                  label: l10n.legalPrivacyChoicesLink,
+                  description: l10n.legalPrivacyChoicesDescription,
                   url: _privacyChoicesUrl,
                   icon: Icons.delete_outline,
                 ),
                 _link(
                   context,
-                  label: 'Terms and app license',
-                  description:
-                      "Apple's standard end-user license applies "
-                      'unless the App Store lists a different license.',
+                  label: l10n.legalTermsLink,
+                  description: l10n.legalTermsDescription,
                   url: _termsUrl,
                   icon: Icons.description_outlined,
                 ),
                 _link(
                   context,
-                  label: 'Safety and intended use',
-                  description:
-                      'These are recreational picture activities, '
-                      'not diagnosis, treatment or cognitive assessment.',
+                  label: l10n.legalSafetyLink,
+                  description: l10n.legalSafetyDescription,
                   url: _safetyUrl,
                   icon: Icons.info_outline,
                 ),
                 _link(
                   context,
-                  label: 'Contact support',
-                  description:
-                      'Please avoid sending private family '
-                      'photographs or medical records to support.',
+                  label: l10n.legalSupportLink,
+                  description: l10n.legalSupportDescription,
                   url: _supportUrl,
                   icon: Icons.help_outline,
                 ),
                 const SizedBox(height: gmSpaceSm),
-                Text(
-                  'Published by Cloudjet Solutions Pte. Ltd., Singapore.',
-                  style: theme.textTheme.bodyMedium,
-                ),
+                Text(l10n.legalPublisher, style: theme.textTheme.bodyMedium),
                 const SizedBox(height: gmSpaceSm),
                 const GmCopyableText('apple@locuno.com'),
                 const SizedBox(height: gmSpaceLg),
                 TextButton.icon(
                   onPressed: () => Navigator.of(context).pop(),
                   icon: const Icon(Icons.arrow_back),
-                  label: const Text('Done for now'),
+                  label: Text(l10n.commonDoneForNow),
                 ),
               ],
             ),

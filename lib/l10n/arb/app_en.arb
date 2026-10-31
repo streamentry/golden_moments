@@ -1,7 +1,1491 @@
 {
-    "@@locale": "en",
-    "counterAppBarTitle": "Counter",
-    "@counterAppBarTitle": {
-        "description": "Text shown in the AppBar of the Counter Page"
+  "@@locale": "en",
+  "appTitle": "Golden Moments",
+  "@appTitle": {
+    "description": "The app's name, a brand name. Keep it as is unless the store listing uses a local name. Shown in the Home title bar and the task switcher."
+  },
+  "commonDoneForNow": "Done for now",
+  "@commonDoneForNow": {
+    "description": "Button that ends an activity without judgment, on game and activity screens. Never 'Quit' or 'Give up'. Keep under about 20 characters."
+  },
+  "commonTryAgain": "Try again",
+  "@commonTryAgain": {
+    "description": "Button after something could not be loaded or saved. Short."
+  },
+  "commonStartAgain": "Start again",
+  "@commonStartAgain": {
+    "description": "Button that begins the same activity fresh. Short."
+  },
+  "commonPlayAgain": "Play again",
+  "@commonPlayAgain": {
+    "description": "Button on the calm finish message after all pairs are together. Short."
+  },
+  "commonKeepThisBoard": "Keep this board",
+  "@commonKeepThisBoard": {
+    "description": "Safe button in a confirmation dialog that keeps the current game instead of starting over. Short."
+  },
+  "commonComfortSettings": "Comfort settings",
+  "@commonComfortSettings": {
+    "description": "Title and tooltip for the sheet where a helper sets tile count, picture view and sound. Short."
+  },
+  "commonNoTimeLimit": "There is no time limit.",
+  "@commonNoTimeLimit": {
+    "description": "Calm reassurance under game and activity instructions."
+  },
+  "commonDone": "Done",
+  "@commonDone": {
+    "description": "Button that closes a sheet or dialog after changing settings. Very short."
+  },
+  "commonClose": "Close",
+  "@commonClose": {
+    "description": "Button that closes a sheet or dialog. Very short."
+  },
+  "commonCancel": "Cancel",
+  "@commonCancel": {
+    "description": "Button that backs out of a dialog without changing anything. Very short."
+  },
+  "commonSave": "Save",
+  "@commonSave": {
+    "description": "Button that saves typed text such as a note or caption. Very short."
+  },
+  "commonReset": "Reset",
+  "@commonReset": {
+    "description": "Button that returns settings to their defaults. Very short."
+  },
+  "commonContinue": "Continue",
+  "@commonContinue": {
+    "description": "Button that carries on with the current activity. Very short."
+  },
+  "commonBack": "Back",
+  "@commonBack": {
+    "description": "Button or tooltip that returns to the previous screen. Very short."
+  },
+  "commonSettings": "Settings",
+  "@commonSettings": {
+    "description": "Title or tooltip for the settings screen in the picture-pack library. Short."
+  },
+  "commonYourFamilyPhotos": "Your family photos",
+  "@commonYourFamilyPhotos": {
+    "description": "Home button and page title for the person's own selected photos. Short."
+  },
+  "commonLookTogether": "Look together",
+  "@commonLookTogether": {
+    "description": "Home button and page title for browsing pictures together without a game. Short."
+  },
+  "commonPrivacyTermsSupport": "Privacy, terms and support",
+  "@commonPrivacyTermsSupport": {
+    "description": "Button that opens the legal and support links page. Shown in the Home guide sheet and in library settings."
+  },
+  "commonGentleReminder": "Gentle reminder",
+  "@commonGentleReminder": {
+    "description": "Home button and page title for the optional reminder a helper can set. Short."
+  },
+  "commonReportProblem": "Report a problem",
+  "@commonReportProblem": {
+    "description": "Button that opens the device share sheet with a plain problem report. Short."
+  },
+  "commonThankYouForSharing": "Thank you for sharing.",
+  "@commonThankYouForSharing": {
+    "description": "Short message shown after the person shares the app with family."
+  },
+  "commonSelected": "Selected",
+  "@commonSelected": {
+    "description": "Screen-reader state for a chosen option or picture. One word if possible."
+  },
+  "commonMatched": "Matched",
+  "@commonMatched": {
+    "description": "Screen-reader state for a tile whose pair has been found. One word if possible."
+  },
+  "samplePictureFlower": "Flower",
+  "@samplePictureFlower": {
+    "description": "Name of a starter illustration (a flower). Read by screen readers on picture tiles and in Look together. One or two words."
+  },
+  "samplePictureCup": "Cup",
+  "@samplePictureCup": {
+    "description": "Name of a starter illustration (a cup of coffee or tea). Read by screen readers. One or two words."
+  },
+  "samplePictureSun": "Sun",
+  "@samplePictureSun": {
+    "description": "Name of a starter illustration (the sun). Read by screen readers. One or two words."
+  },
+  "samplePictureHome": "Home",
+  "@samplePictureHome": {
+    "description": "Name of a starter illustration (a house). Read by screen readers. One or two words."
+  },
+  "samplePictureTree": "Tree",
+  "@samplePictureTree": {
+    "description": "Name of a starter illustration (a tree). Read by screen readers. One or two words."
+  },
+  "samplePicturePawPrint": "Paw print",
+  "@samplePicturePawPrint": {
+    "description": "Name of a starter illustration (an animal paw print). Read by screen readers. One or two words."
+  },
+  "photosFamilyPhotoNumber": "Family photo {number}",
+  "@photosFamilyPhotoNumber": {
+    "description": "Screen-reader name for a family photo that has no caption, on Your family photos and in the activities. {number} is its position in the collection.",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
     }
+  },
+  "photosLabelWithDescription": "{label}. {description}",
+  "@photosLabelWithDescription": {
+    "description": "Screen-reader text for a picture that has a description the family wrote: the picture's name, then the description. Used on Your family photos and in Look together. Keep the order and only adjust punctuation.",
+    "placeholders": {
+      "label": {
+        "type": "String",
+        "example": "Family photo 3"
+      },
+      "description": {
+        "type": "String",
+        "example": "Grandma in the garden"
+      }
+    }
+  },
+  "photosRecoveredTitle": "Finish adding photos?",
+  "@photosRecoveredTitle": {
+    "description": "Dialog title on Your family photos when the system hands back photos chosen just before the app restarted. Short."
+  },
+  "photosRecoveredMessage": "The system recovered photos you selected before the app restarted. Add them to this device?",
+  "@photosRecoveredMessage": {
+    "description": "Dialog message on Your family photos explaining the recovered photo selection. Buttons are Cancel and Continue."
+  },
+  "photosErrorNewerVersion": "These photos were saved by a newer version of Golden Moments. Update the app to see them. Nothing has been changed.",
+  "@photosErrorNewerVersion": {
+    "description": "Error on Your family photos when the saved photo list comes from a newer app version. 'Golden Moments' is the app name."
+  },
+  "photosErrorUnreadable": "Your photo list could not be read. Your original photos are unchanged.",
+  "@photosErrorUnreadable": {
+    "description": "Error on Your family photos when the saved photo list is damaged. Reassures that originals in the photo library are safe."
+  },
+  "photosErrorCannotOpen": "Could not open the photo collection. Your original photos have not been changed. Please try again.",
+  "@photosErrorCannotOpen": {
+    "description": "Error on Your family photos when the collection could not be opened for another reason."
+  },
+  "photosShowMyPhotos": "Show my photos",
+  "@photosShowMyPhotos": {
+    "description": "Button under the damaged-list error on Your family photos that starts the recovery. Short."
+  },
+  "photosRecoverTitle": "Show the photos that can be checked?",
+  "@photosRecoverTitle": {
+    "description": "Dialog title on Your family photos before recovering a damaged photo list."
+  },
+  "photosRecoverMessage": "Golden Moments will look through the photo copies on this device and show every one that is intact, with its caption and choices. The order may change. The list that could not be read is kept on this device. A copy that is damaged cannot be shown and is removed later; you can add that photo again from your photo library, where your originals are unchanged.",
+  "@photosRecoverMessage": {
+    "description": "Dialog message on Your family photos explaining exactly what recovery does. 'Golden Moments' is the app name. The dialog scrolls, so length is not critical."
+  },
+  "photosRecoverConfirm": "Show the photos",
+  "@photosRecoverConfirm": {
+    "description": "Primary button in the recovery dialog on Your family photos. Short."
+  },
+  "photosNotNow": "Not now",
+  "@photosNotNow": {
+    "description": "Button in the recovery dialog on Your family photos that keeps things as they are. Very short."
+  },
+  "photosErrorCannotCheck": "The photos could not be checked. Nothing was changed. Please try again.",
+  "@photosErrorCannotCheck": {
+    "description": "Error on Your family photos when recovery of a damaged list failed."
+  },
+  "photosErrorCannotAdd": "Could not add these photos. Try fewer or smaller images, and check free space. Your existing collection is unchanged.",
+  "@photosErrorCannotAdd": {
+    "description": "Error on Your family photos when chosen photos could not be copied in."
+  },
+  "photosRemoveAllTitle": "Remove all photo copies?",
+  "@photosRemoveAllTitle": {
+    "description": "Dialog title on Your family photos before deleting every photo copy the app saved."
+  },
+  "photosRemoveOneTitle": "Remove this photo copy?",
+  "@photosRemoveOneTitle": {
+    "description": "Dialog title on Your family photos before deleting one photo copy the app saved."
+  },
+  "photosRemoveMessage": "This removes copies saved by Golden Moments on this device. Originals in your photo library are not deleted, and earlier device backups are not changed.",
+  "@photosRemoveMessage": {
+    "description": "Dialog message on Your family photos explaining that only the app's copies are removed. 'Golden Moments' is the app name."
+  },
+  "photosRemoveAllConfirm": "Remove all copies",
+  "@photosRemoveAllConfirm": {
+    "description": "Destructive button in the remove-all dialog on Your family photos. Say what it does; never 'Continue'. Short."
+  },
+  "photosRemoveOneConfirm": "Remove copy",
+  "@photosRemoveOneConfirm": {
+    "description": "Destructive button in the remove-one dialog on Your family photos. Short."
+  },
+  "photosErrorCannotRemove": "Some copies could not be removed. Please try again.",
+  "@photosErrorCannotRemove": {
+    "description": "Error on Your family photos when deleting copies partly failed."
+  },
+  "photosErrorCannotRefresh": "Could not refresh the collection. Please reopen this screen.",
+  "@photosErrorCannotRefresh": {
+    "description": "Error on Your family photos when the list could not be reloaded after a change."
+  },
+  "photosErrorCannotSaveDetails": "Could not save these details. Your photos have not been changed. Please try again.",
+  "@photosErrorCannotSaveDetails": {
+    "description": "Error on Your family photos when a caption, description, favorite or hide choice could not be saved."
+  },
+  "photosFavoriteBadge": "Favorite",
+  "@photosFavoriteBadge": {
+    "description": "Word beside a star icon under a photo card on Your family photos, marking a favorite. One word; cards can be narrow."
+  },
+  "photosHiddenBadge": "Hidden",
+  "@photosHiddenBadge": {
+    "description": "Word beside an eye-off icon under a photo card on Your family photos, marking a photo hidden from activities. One word."
+  },
+  "photosOptions": "Options",
+  "@photosOptions": {
+    "description": "Button under each photo card on Your family photos that opens the photo options. Must fit on one line in a narrow card: keep under about 10 characters."
+  },
+  "photosOptionsFor": "Options for {name}",
+  "@photosOptionsFor": {
+    "description": "Screen-reader label of the Options button under a photo card. {name} is the photo's caption or numbered name.",
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Family photo 3"
+      }
+    }
+  },
+  "photosChoosePhotos": "Choose photos",
+  "@photosChoosePhotos": {
+    "description": "Button on Your family photos that opens the system photo picker. Short."
+  },
+  "photosIntro": "Choose photos you would enjoy looking at together.",
+  "@photosIntro": {
+    "description": "Heading at the top of Your family photos."
+  },
+  "photosPrivacyNote": "Only selected photos are copied into this app. No account or family-sync server. Copies may be included in your device backup.",
+  "@photosPrivacyNote": {
+    "description": "Privacy note under the heading on Your family photos. Must stay accurate: nothing is uploaded."
+  },
+  "photosCount": "{max, plural, =1{{count} of 1 photo} other{{count} of {max} photos}}",
+  "@photosCount": {
+    "description": "Line under Choose photos on Your family photos: how many photos are in the collection out of the maximum (24).",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "photosPlay": "Play with these photos",
+  "@photosPlay": {
+    "description": "Main button on Your family photos that starts a matching game with the photos. Short."
+  },
+  "photosNeedTwoShowHidden": "Show at least two photos to make a matching game. {count, plural, other{{count} hidden.}}",
+  "@photosNeedTwoShowHidden": {
+    "description": "Hint on Your family photos when fewer than two photos are shown because some are hidden. {count} is how many are hidden.",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "photosNeedTwoAdd": "Add at least two photos to make a matching game.",
+  "@photosNeedTwoAdd": {
+    "description": "Hint on Your family photos when fewer than two photos have been added."
+  },
+  "photosTryPuzzle": "Try a picture puzzle (experiment)",
+  "@photosTryPuzzle": {
+    "description": "Button on Your family photos, only in experimental builds, that opens the picture puzzle."
+  },
+  "photosPlayFavorites": "Play with favorites",
+  "@photosPlayFavorites": {
+    "description": "Button on Your family photos that starts a matching game with favorite photos only. Short."
+  },
+  "photosLookTogether": "Look at photos together",
+  "@photosLookTogether": {
+    "description": "Button on Your family photos that opens Look together with these photos. Short."
+  },
+  "photosRemoveAll": "Remove all photo copies",
+  "@photosRemoveAll": {
+    "description": "Red text button at the bottom of Your family photos that removes every copy (asks first)."
+  },
+  "photosOptionsTitle": "Photo options",
+  "@photosOptionsTitle": {
+    "description": "Title of the bottom sheet for one photo on Your family photos. Short."
+  },
+  "photosOptionsIntro": "All of this is optional and stays on this device.",
+  "@photosOptionsIntro": {
+    "description": "Line under the Photo options title."
+  },
+  "photosCaptionLabel": "Caption (optional)",
+  "@photosCaptionLabel": {
+    "description": "Label of the caption text field in Photo options. Short."
+  },
+  "photosCaptionHelper": "Shown only when you choose to show captions.",
+  "@photosCaptionHelper": {
+    "description": "Help text under the caption field in Photo options. Wraps to up to three lines."
+  },
+  "photosDescriptionLabel": "Description for screen readers (optional)",
+  "@photosDescriptionLabel": {
+    "description": "Label of the description text field in Photo options."
+  },
+  "photosDescriptionHelper": "Read aloud while the picture is showing.",
+  "@photosDescriptionHelper": {
+    "description": "Help text under the description field in Photo options. Wraps to up to three lines."
+  },
+  "photosFavoriteSwitchTitle": "Favorite",
+  "@photosFavoriteSwitchTitle": {
+    "description": "Title of the favorite switch in Photo options. Short."
+  },
+  "photosFavoriteSwitchSubtitle": "Shows this photo first.",
+  "@photosFavoriteSwitchSubtitle": {
+    "description": "Line under the favorite switch in Photo options."
+  },
+  "photosHideSwitchTitle": "Hide from activities",
+  "@photosHideSwitchTitle": {
+    "description": "Title of the hide switch in Photo options. Short."
+  },
+  "photosHideSwitchSubtitle": "Keeps the copy on this device. Turn off to bring it back.",
+  "@photosHideSwitchSubtitle": {
+    "description": "Line under the hide switch in Photo options."
+  },
+  "photosRemoveThisCopy": "Remove this copy",
+  "@photosRemoveThisCopy": {
+    "description": "Red text button at the bottom of Photo options that removes this photo's copy (asks first). Short."
+  },
+  "togetherPromptLike": "What do you like about this picture?",
+  "@togetherPromptLike": {
+    "description": "Optional open-ended conversation prompt in Look together. Never a recall or 'who is this' question."
+  },
+  "togetherPromptCatchesEye": "What catches your eye?",
+  "@togetherPromptCatchesEye": {
+    "description": "Optional open-ended conversation prompt in Look together. Never a recall question."
+  },
+  "togetherPromptTalkOrMove": "Would you like to talk about this, or look at another picture?",
+  "@togetherPromptTalkOrMove": {
+    "description": "Optional open-ended conversation prompt in Look together, offering a choice. Never a recall question."
+  },
+  "togetherHideFailed": "Could not hide this picture. Nothing has changed. You can move to another picture or stop here.",
+  "@togetherHideFailed": {
+    "description": "Message above the picture in Look together when hiding could not be saved."
+  },
+  "togetherHiddenForVisit": "Hidden for this visit.",
+  "@togetherHiddenForVisit": {
+    "description": "Message above the next picture in Look together after hiding a starter picture. Keep very short so the picture stays in view at large text."
+  },
+  "togetherHiddenSaved": "Hidden. You can show it again in Your family photos.",
+  "@togetherHiddenSaved": {
+    "description": "Message above the next picture in Look together after hiding a family photo. 'Your family photos' is the name of that page (commonYourFamilyPhotos)."
+  },
+  "togetherEmptyTitle": "There are no pictures to look at here right now.",
+  "@togetherEmptyTitle": {
+    "description": "Heading in Look together when every picture has been hidden."
+  },
+  "togetherEmptyBody": "You can look at the pictures included with the app, or stop here.",
+  "@togetherEmptyBody": {
+    "description": "Line under the empty heading in Look together."
+  },
+  "togetherUseIncluded": "Look at the included pictures",
+  "@togetherUseIncluded": {
+    "description": "Button in the empty state of Look together that switches to the starter pictures."
+  },
+  "togetherPosition": "Picture {position} of {total}",
+  "@togetherPosition": {
+    "description": "Line under the picture in Look together saying where you are in the set.",
+    "placeholders": {
+      "position": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "togetherShowCaptions": "Show captions",
+  "@togetherShowCaptions": {
+    "description": "Switch title in Look together that shows the family's captions under pictures. Short."
+  },
+  "togetherShowPrompt": "Show a conversation prompt",
+  "@togetherShowPrompt": {
+    "description": "Switch title in Look together that shows an optional open-ended prompt. Short."
+  },
+  "togetherHidePicture": "Hide this picture",
+  "@togetherHidePicture": {
+    "description": "Text button in Look together that hides the current picture. Short."
+  },
+  "togetherJustLooking": "Just looking is enough. There is no need to remember a name or answer a question.",
+  "@togetherJustLooking": {
+    "description": "Reassuring note at the bottom of Look together."
+  },
+  "togetherPrevious": "Previous",
+  "@togetherPrevious": {
+    "description": "Button in Look together that goes to the previous picture. Sits beside Next; keep under about 12 characters."
+  },
+  "togetherNext": "Next",
+  "@togetherNext": {
+    "description": "Button in Look together that goes to the next picture. Sits beside Previous; keep under about 12 characters."
+  },
+  "puzzleTitle": "Picture puzzle",
+  "@puzzleTitle": {
+    "description": "Title bar of the experimental picture puzzle. Short."
+  },
+  "puzzleInstructions": "Tap a piece, then tap where it goes. Tap a placed piece to take it back.",
+  "@puzzleInstructions": {
+    "description": "Instructions at the top of the picture puzzle."
+  },
+  "puzzleWholePictureLabel": "The whole picture: {name}",
+  "@puzzleWholePictureLabel": {
+    "description": "Screen-reader label of the small reference picture in the picture puzzle. {name} is the picture's name.",
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Flower"
+      }
+    }
+  },
+  "puzzleWholePicture": "The whole picture",
+  "@puzzleWholePicture": {
+    "description": "Caption beside the small reference picture in the picture puzzle."
+  },
+  "puzzlePieces": "Pieces",
+  "@puzzlePieces": {
+    "description": "Heading above the loose puzzle pieces. One word."
+  },
+  "puzzleComplete": "The picture is together.",
+  "@puzzleComplete": {
+    "description": "Calm message when every puzzle piece is in place. No praise or exclamation."
+  },
+  "puzzleSpotEmpty": "Spot {row}, {column}, empty",
+  "@puzzleSpotEmpty": {
+    "description": "Screen-reader label of an empty place on the puzzle board. {row} and {column} give its position.",
+    "placeholders": {
+      "row": {
+        "type": "int"
+      },
+      "column": {
+        "type": "int"
+      }
+    }
+  },
+  "puzzleSpotFilled": "Spot {row}, {column}, has a piece",
+  "@puzzleSpotFilled": {
+    "description": "Screen-reader label of a filled place on the puzzle board. {row} and {column} give its position.",
+    "placeholders": {
+      "row": {
+        "type": "int"
+      },
+      "column": {
+        "type": "int"
+      }
+    }
+  },
+  "puzzleHintPlaceHere": "Places the chosen piece here",
+  "@puzzleHintPlaceHere": {
+    "description": "Screen-reader hint on an empty puzzle place while a piece is chosen."
+  },
+  "puzzleHintSwap": "Swaps with the chosen piece",
+  "@puzzleHintSwap": {
+    "description": "Screen-reader hint on a filled puzzle place while a piece is chosen."
+  },
+  "puzzleHintChooseFirst": "Choose a piece first",
+  "@puzzleHintChooseFirst": {
+    "description": "Screen-reader hint on an empty puzzle place when no piece is chosen."
+  },
+  "puzzleHintTakeBack": "Takes the piece back",
+  "@puzzleHintTakeBack": {
+    "description": "Screen-reader hint on a filled puzzle place when no piece is chosen."
+  },
+  "puzzlePiecePosition": "Piece {position} of {total}",
+  "@puzzlePiecePosition": {
+    "description": "Screen-reader label of a loose puzzle piece; its position among the loose pieces, never where it belongs.",
+    "placeholders": {
+      "position": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "pictureViewUnavailable": "Photo unavailable",
+  "@pictureViewUnavailable": {
+    "description": "Shown inside a picture tile when a family photo copy cannot be displayed. Short; the tile can be small."
+  },
+  "homeHeading": "Simple activities to enjoy together",
+  "@homeHeading": {
+    "description": "Home screen (phones and tablets): main headline above the start button. Warm, plain; may wrap to two or three lines."
+  },
+  "homeStartGentleGame": "Start a gentle game",
+  "@homeStartGentleGame": {
+    "description": "Home screen: the one large primary button that starts the matching game. Keep under about 25 characters."
+  },
+  "homeStartGentleGameHint": "Four large tiles. No timers, scores, or rush.",
+  "@homeStartGentleGameHint": {
+    "description": "Home screen: one line under the start button describing the first game. Never use words like score, brain or train in a promising way."
+  },
+  "homeOfflineNote": "The starter illustrations work without Wi‑Fi. Selected family photos work offline after they are copied to this device.",
+  "@homeOfflineNote": {
+    "description": "Home screen: small muted note about offline use. The English text uses a non-breaking hyphen (U+2011) in 'Wi‑Fi' so the word never breaks across lines; keep a non-breaking form if your language uses the word."
+  },
+  "homeExploreLibrary": "Explore the picture-pack library",
+  "@homeExploreLibrary": {
+    "description": "Home screen: text button that opens the picture-pack library. Centred; may wrap to two lines."
+  },
+  "homeLibraryOfflineNote": "All picture packs are included. Ready to play offline.",
+  "@homeLibraryOfflineNote": {
+    "description": "Home screen: centred muted line under the library button."
+  },
+  "homeGuideTooltip": "Guide and privacy",
+  "@homeGuideTooltip": {
+    "description": "Home screen: tooltip and screen-reader label for the information icon in the title bar. Short."
+  },
+  "homeGuideTitle": "Enjoy it together",
+  "@homeGuideTitle": {
+    "description": "Home guide sheet (opened from the information icon): heading. Short."
+  },
+  "homeGuideInterests": "Follow the person's interests. Keep pictures visible, use fewer tiles, or simply look together. There is no need to remember names or finish a game. Stop or change the activity if it is uncomfortable.",
+  "@homeGuideInterests": {
+    "description": "Home guide sheet: first paragraph of advice for the helper. Never suggest testing memory."
+  },
+  "homeGuideNotMedical": "Golden Moments offers recreation and shared conversation. It does not diagnose, treat, prevent, or measure dementia or Alzheimer's disease.",
+  "@homeGuideNotMedical": {
+    "description": "Home guide sheet: required non-medical statement. Keep the meaning exact; 'Golden Moments' is the app name."
+  },
+  "homeGuidePhotoCopies": "Family-photo copies are stored on this device and may be included in device backups. The app does not upload these copies or sync them between relatives. The picture library is included in the app and works without internet.",
+  "@homeGuidePhotoCopies": {
+    "description": "Home guide sheet: privacy paragraph about family-photo copies. Keep the meaning exact."
+  },
+  "homeGuideMoreHelp": "More help and privacy",
+  "@homeGuideMoreHelp": {
+    "description": "Home guide sheet: outlined button that opens the Help and privacy page. Short."
+  },
+  "gentleGameTitle": "Gentle photo match",
+  "@gentleGameTitle": {
+    "description": "Gentle matching game: title bar. Short, about 20 characters; never 'memory game'."
+  },
+  "gentleGameHowThisWorks": "How this works",
+  "@gentleGameHowThisWorks": {
+    "description": "Gentle matching game: tooltip of the help icon and heading of the help sheet. Short."
+  },
+  "gentleGameHelpHowToPlay": "Tap one picture, then tap another. Pictures that match stay together. Pictures that do not match stay in view until your next tap.",
+  "@gentleGameHelpHowToPlay": {
+    "description": "Gentle matching game, help sheet: how to play."
+  },
+  "gentleGameHelpNoWrongAnswer": "There is no time limit and no wrong answer. It is fine to just look at the pictures, talk about them, change the number of tiles, or stop with Done for now.",
+  "@gentleGameHelpNoWrongAnswer": {
+    "description": "Gentle matching game, help sheet: reassurance. 'Done for now' names the button; use the same words as commonDoneForNow."
+  },
+  "gentleGameBackToPictures": "Back to the pictures",
+  "@gentleGameBackToPictures": {
+    "description": "Button that closes the game's help sheet or comfort settings sheet and returns to the board. Full-width button; keep under about 30 characters."
+  },
+  "gentleGameNeedTwoPhotos": "Choose at least two photos to play.",
+  "@gentleGameNeedTwoPhotos": {
+    "description": "Gentle matching game: centred message when fewer than two pictures are available."
+  },
+  "gentleGameInstruction": "Tap two pictures that match.",
+  "@gentleGameInstruction": {
+    "description": "Gentle matching game: instruction above the board."
+  },
+  "gentleGameInstructionNoTimeLimit": "Tap two pictures that match. There is no time limit.",
+  "@gentleGameInstructionNoTimeLimit": {
+    "description": "Gentle matching game: status line under the board at very large text sizes, combining the instruction and the reassurance. Read aloud by screen readers when it changes."
+  },
+  "gentleGameWaitingStatus": "Take your time. Tap a picture to continue.",
+  "@gentleGameWaitingStatus": {
+    "description": "Gentle matching game: status line under the board after two pictures that do not match. Never say 'wrong'. Read aloud by screen readers."
+  },
+  "gentleGameAllPairsTogether": "All pairs together.",
+  "@gentleGameAllPairsTogether": {
+    "description": "Gentle matching game: calm heading beside a check mark when the board is finished. No exclamation or praise. Read aloud by screen readers."
+  },
+  "gentleGameFinishedStatus": "Play again or take a break.",
+  "@gentleGameFinishedStatus": {
+    "description": "Gentle matching game: status line under the finished board. Read aloud by screen readers."
+  },
+  "gentleGameTileLabel": "{picture}, tile {position}",
+  "@gentleGameTileLabel": {
+    "description": "Gentle matching game: screen-reader label of a visible picture tile, e.g. 'Cup, tile 3'.",
+    "placeholders": {
+      "picture": {
+        "type": "String",
+        "example": "Cup"
+      },
+      "position": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+  "gentleGameHiddenTileLabel": "Hidden picture, tile {position}",
+  "@gentleGameHiddenTileLabel": {
+    "description": "Gentle matching game: screen-reader label of a face-down tile. Must never name the picture.",
+    "placeholders": {
+      "position": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+  "gentleGameResumeTitle": "Pick up where you left off?",
+  "@gentleGameResumeTitle": {
+    "description": "Gentle matching game: title of the dialog offering an unfinished saved board."
+  },
+  "gentleGameResumeBody": "You have a board in progress. You can carry on with it or start a new one.",
+  "@gentleGameResumeBody": {
+    "description": "Gentle matching game: body of the resume dialog."
+  },
+  "gentleGameResumeStartFresh": "Start fresh",
+  "@gentleGameResumeStartFresh": {
+    "description": "Gentle matching game, resume dialog: button that discards the saved board. Short. The Help page refers to it by name (helpTroubleGame)."
+  },
+  "gentleGameResumeCarryOn": "Carry on",
+  "@gentleGameResumeCarryOn": {
+    "description": "Gentle matching game, resume dialog: primary button that restores the saved board. Short."
+  },
+  "gentleGameDiscardBody": "The pictures you have found on this board will be cleared.",
+  "@gentleGameDiscardBody": {
+    "description": "Gentle matching game: body of the confirmation dialog before starting over or changing tiles."
+  },
+  "gentleGameStartAgainQuestion": "Start again?",
+  "@gentleGameStartAgainQuestion": {
+    "description": "Gentle matching game: title of the confirmation dialog before starting a new board. Short."
+  },
+  "gentleGameChangeTilesQuestion": "Change the number of tiles?",
+  "@gentleGameChangeTilesQuestion": {
+    "description": "Gentle matching game: title of the confirmation dialog before changing the tile count mid-game."
+  },
+  "gentleGameChangeTilesAction": "Change",
+  "@gentleGameChangeTilesAction": {
+    "description": "Gentle matching game: button in the change-tiles confirmation dialog. Very short."
+  },
+  "gentleGameResetComfortQuestion": "Reset comfort settings?",
+  "@gentleGameResetComfortQuestion": {
+    "description": "Title of the confirmation dialog before comfort settings return to their defaults (comfort sheet and gentle game)."
+  },
+  "comfortChangesApply": "Changes apply right away and are remembered.",
+  "@comfortChangesApply": {
+    "description": "Comfort settings sheet: muted line under the heading."
+  },
+  "comfortNumberOfTiles": "Number of tiles",
+  "@comfortNumberOfTiles": {
+    "description": "Comfort settings sheet: label above the tile-count choices. Short."
+  },
+  "comfortTileCount": "{count, plural, =1{1 tile} other{{count} tiles}}",
+  "@comfortTileCount": {
+    "description": "Comfort settings sheet: label of one tile-count choice chip (4, 6, 8, 12...). Must fit on one line in a chip; keep very short.",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "6"
+      }
+    }
+  },
+  "comfortKeepVisible": "Keep pictures visible",
+  "@comfortKeepVisible": {
+    "description": "Comfort settings sheet: switch title. When on, pictures are never hidden."
+  },
+  "comfortKeepVisibleHint": "Turn off only when you prefer hidden tiles.",
+  "@comfortKeepVisibleHint": {
+    "description": "Comfort settings sheet: subtitle under the keep-visible switch."
+  },
+  "comfortSaveFailed": "These choices could not be saved. They will apply until you close the app.",
+  "@comfortSaveFailed": {
+    "description": "Comfort settings sheet: calm message when saving settings failed."
+  },
+  "comfortResetButton": "Reset comfort settings",
+  "@comfortResetButton": {
+    "description": "Comfort settings sheet: quiet text button that asks to reset the settings."
+  },
+  "comfortResetBody": "This only returns the tile count and picture view to their starting choices. Your photos and picture packs are not changed.",
+  "@comfortResetBody": {
+    "description": "Comfort settings sheet: body of the reset confirmation dialog."
+  },
+  "comfortKeepMySettings": "Keep my settings",
+  "@comfortKeepMySettings": {
+    "description": "Comfort settings sheet: safe primary button in the reset confirmation dialog. Short."
+  },
+  "helpTitle": "Help and privacy",
+  "@helpTitle": {
+    "description": "Help and privacy page: title bar. Short."
+  },
+  "helpWorksOffline": "This page works without internet.",
+  "@helpWorksOffline": {
+    "description": "Help and privacy page: muted first line."
+  },
+  "helpTogetherHeading": "Enjoying it together",
+  "@helpTogetherHeading": {
+    "description": "Help and privacy page: section heading."
+  },
+  "helpTogetherInterests": "Follow the person’s interests. Keep pictures visible, use fewer tiles, or simply look together. There is no need to remember names or finish a game. It is fine to stop, or to change the activity, at any time.",
+  "@helpTogetherInterests": {
+    "description": "Help and privacy page: advice paragraph for the helper. Never suggest testing memory."
+  },
+  "helpTogetherNotMedical": "Golden Moments offers recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+  "@helpTogetherNotMedical": {
+    "description": "Help and privacy page: required non-medical statement. Keep the meaning exact; 'Golden Moments' is the app name."
+  },
+  "helpPhotosHeading": "Your photos and privacy",
+  "@helpPhotosHeading": {
+    "description": "Help and privacy page: section heading."
+  },
+  "helpPhotosChoose": "You choose which photos to add. Copies are kept on this device, and your originals are never changed. There is no account and no family sync.",
+  "@helpPhotosChoose": {
+    "description": "Help and privacy page: privacy paragraph. Keep the meaning exact."
+  },
+  "helpPhotosBackups": "Copies may be included in your phone’s backups. Removing a copy here does not erase an earlier backup or a picture someone already received.",
+  "@helpPhotosBackups": {
+    "description": "Help and privacy page: privacy paragraph about backups. Keep the meaning exact."
+  },
+  "helpPhotosLibrary": "The picture library is included in the app and works without internet.",
+  "@helpPhotosLibrary": {
+    "description": "Help and privacy page: paragraph about the bundled picture library."
+  },
+  "helpTroubleHeading": "If something goes wrong",
+  "@helpTroubleHeading": {
+    "description": "Help and privacy page: section heading for simple troubleshooting."
+  },
+  "helpTroublePhotos": "Photos would not add: choose fewer or smaller photos and check your free space. Nothing already saved is changed.",
+  "@helpTroublePhotos": {
+    "description": "Help and privacy page: troubleshooting tip about adding photos."
+  },
+  "helpTroubleGame": "A game was not where you left it: choose Start fresh. Your photos and settings are not affected.",
+  "@helpTroubleGame": {
+    "description": "Help and privacy page: troubleshooting tip. 'Start fresh' names a button; use the same words as gentleGameResumeStartFresh."
+  },
+  "helpTroubleTextSize": "Text or buttons are hard to use: change the text size in your phone’s settings. The app follows it.",
+  "@helpTroubleTextSize": {
+    "description": "Help and privacy page: troubleshooting tip about text size."
+  },
+  "helpReachHeading": "Reach us",
+  "@helpReachHeading": {
+    "description": "Help and privacy page: section heading for contacting support."
+  },
+  "helpReachEmail": "You can email {email} (copy it; the app does not open your mail), or send a note or a problem report below. You review exactly what will be sent. Nothing is sent automatically.",
+  "@helpReachEmail": {
+    "description": "Help and privacy page: paragraph about contacting support. {email} is the support address and must stay unchanged.",
+    "placeholders": {
+      "email": {
+        "type": "String",
+        "example": "support@example.com"
+      }
+    }
+  },
+  "helpOnlineHelp": "Online help, when you are connected (copy this into your browser; the app does not open it):",
+  "@helpOnlineHelp": {
+    "description": "Help and privacy page: line above the copyable help web address."
+  },
+  "helpPolicyLinks": "Privacy policy and terms of use (also copy-only; the app does not open them):",
+  "@helpPolicyLinks": {
+    "description": "Help and privacy page: line above the copyable privacy and terms web addresses."
+  },
+  "helpWriteNote": "Write a note",
+  "@helpWriteNote": {
+    "description": "Help and privacy page: button that opens the note dialog, and the dialog's title. Short."
+  },
+  "helpRateHeading": "Tell other families",
+  "@helpRateHeading": {
+    "description": "Help and privacy page: section heading above the optional rating button."
+  },
+  "helpRateBody": "If Golden Moments has been useful, a rating in the store helps other families find it. It is entirely optional, and separate from writing to us.",
+  "@helpRateBody": {
+    "description": "Help and privacy page: paragraph above the rating button. No pressure or incentive."
+  },
+  "helpRateButton": "Rate Golden Moments",
+  "@helpRateButton": {
+    "description": "Help and privacy page: button that opens the store's rating page. 'Golden Moments' is the app name. Short."
+  },
+  "helpVersion": "Version {version}",
+  "@helpVersion": {
+    "description": "Help and privacy page: muted app version line near the bottom.",
+    "placeholders": {
+      "version": {
+        "type": "String",
+        "example": "1.5.0"
+      }
+    }
+  },
+  "helpStatusShared": "Thank you. Nothing else was sent.",
+  "@helpStatusShared": {
+    "description": "Help and privacy page: status read aloud after the share sheet reports the note or report was sent."
+  },
+  "helpStatusDismissed": "Nothing was sent. You can try again.",
+  "@helpStatusDismissed": {
+    "description": "Help and privacy page: status read aloud after the share sheet was closed without sending."
+  },
+  "helpStatusUnknown": "The share window closed. If you sent it, thank you. Nothing else was sent.",
+  "@helpStatusUnknown": {
+    "description": "Help and privacy page: status read aloud when the platform cannot say whether anything was sent."
+  },
+  "helpStatusStoreFailed": "Could not open the store. You can find Golden Moments there later.",
+  "@helpStatusStoreFailed": {
+    "description": "Help and privacy page: status read aloud when the store rating page could not open."
+  },
+  "helpNoteSubject": "Golden Moments note",
+  "@helpNoteSubject": {
+    "description": "Subject line given to the share sheet (e.g. email subject) for a note to support. 'Golden Moments' is the app name. Short."
+  },
+  "helpProblemSubject": "Golden Moments problem report",
+  "@helpProblemSubject": {
+    "description": "Subject line given to the share sheet (e.g. email subject) for a problem report. 'Golden Moments' is the app name. Short."
+  },
+  "helpNoteField": "Your note",
+  "@helpNoteField": {
+    "description": "Note dialog (Help page): label of the text field. Short."
+  },
+  "helpNoteFieldHint": "Please leave out names, addresses and anything private.",
+  "@helpNoteFieldHint": {
+    "description": "Note dialog (Help page): helper text under the text field."
+  },
+  "helpNotePreviewHeading": "This is exactly what will be shared:",
+  "@helpNotePreviewHeading": {
+    "description": "Note dialog (Help page): heading above the preview of the exact text to be shared."
+  },
+  "helpProblemPreviewHeading": "This is exactly what will be shared. It has no photos, names or file details:",
+  "@helpProblemPreviewHeading": {
+    "description": "Problem report dialog (Help page): heading above the preview of the exact report."
+  },
+  "helpChooseWhereToSend": "Choose where to send",
+  "@helpChooseWhereToSend": {
+    "description": "Note and problem report dialogs (Help page): primary button that opens the system share sheet. Short."
+  },
+  "legalTitle": "Privacy and information",
+  "@legalTitle": {
+    "description": "Privacy, terms and support page: title bar. Short."
+  },
+  "legalHeading": "Your pictures, your choice",
+  "@legalHeading": {
+    "description": "Privacy, terms and support page: headline."
+  },
+  "legalNoAccount": "There is no Golden Moments account or family-photo server. When you choose family photos, the app keeps working copies on this device. Device backups may include those copies.",
+  "@legalNoAccount": {
+    "description": "Privacy, terms and support page: privacy summary paragraph. Keep the meaning exact."
+  },
+  "legalBuiltInPictures": "You can use built-in picture activities without choosing any personal photographs.",
+  "@legalBuiltInPictures": {
+    "description": "Privacy, terms and support page: second summary paragraph."
+  },
+  "legalPrivacyPolicyLink": "Mobile app privacy policy",
+  "@legalPrivacyPolicyLink": {
+    "description": "Privacy, terms and support page: full-width button that opens the privacy policy web page."
+  },
+  "legalPrivacyPolicyDescription": "What stays on your device, external services, support email and data retention.",
+  "@legalPrivacyPolicyDescription": {
+    "description": "Privacy, terms and support page: muted description under the privacy policy button."
+  },
+  "legalPrivacyChoicesLink": "Privacy choices and deletion",
+  "@legalPrivacyChoicesLink": {
+    "description": "Privacy, terms and support page: full-width button that opens the privacy choices web page."
+  },
+  "legalPrivacyChoicesDescription": "How to remove local copies without removing originals, and manage device backups.",
+  "@legalPrivacyChoicesDescription": {
+    "description": "Privacy, terms and support page: muted description under the privacy choices button."
+  },
+  "legalTermsLink": "Terms and app license",
+  "@legalTermsLink": {
+    "description": "Privacy, terms and support page: full-width button that opens the terms web page."
+  },
+  "legalTermsDescription": "Apple's standard end-user license applies unless the App Store lists a different license.",
+  "@legalTermsDescription": {
+    "description": "Privacy, terms and support page: muted description under the terms button. Legal meaning; keep it exact."
+  },
+  "legalSafetyLink": "Safety and intended use",
+  "@legalSafetyLink": {
+    "description": "Privacy, terms and support page: full-width button that opens the safety web page."
+  },
+  "legalSafetyDescription": "These are recreational picture activities, not diagnosis, treatment or cognitive assessment.",
+  "@legalSafetyDescription": {
+    "description": "Privacy, terms and support page: muted description under the safety button. Keep the non-medical meaning exact."
+  },
+  "legalSupportLink": "Contact support",
+  "@legalSupportLink": {
+    "description": "Privacy, terms and support page: full-width button that opens the support web page."
+  },
+  "legalSupportDescription": "Please avoid sending private family photographs or medical records to support.",
+  "@legalSupportDescription": {
+    "description": "Privacy, terms and support page: muted description under the support button."
+  },
+  "legalPublisher": "Published by Cloudjet Solutions Pte. Ltd., Singapore.",
+  "@legalPublisher": {
+    "description": "Privacy, terms and support page: publisher line. Keep the company name 'Cloudjet Solutions Pte. Ltd.' exactly as written."
+  },
+  "legalOpenFailed": "Could not open the page. You can copy the address and try later.",
+  "@legalOpenFailed": {
+    "description": "Privacy, terms and support page: snackbar when a web page could not open."
+  },
+  "legalCopyLink": "Copy link",
+  "@legalCopyLink": {
+    "description": "Privacy, terms and support page: snackbar action that copies the web address. Very short."
+  },
+  "libraryTitlePicturePacks": "Picture packs",
+  "@libraryTitlePicturePacks": {
+    "description": "Title bar of the picture-pack library when it is opened from the gentle Home. Short, fits a title bar."
+  },
+  "libraryLoading": "Getting the picture packs ready…",
+  "@libraryLoading": {
+    "description": "Picture-pack library: shown under a spinner while the bundled packs load."
+  },
+  "libraryErrorTitle": "The picture library could not open",
+  "@libraryErrorTitle": {
+    "description": "Picture-pack library: heading shown when the bundled packs could not be loaded."
+  },
+  "libraryErrorBody": "Your gentle activities still work. You can try again now.",
+  "@libraryErrorBody": {
+    "description": "Picture-pack library: sentence under the error heading, above the Try again button."
+  },
+  "libraryWelcome": "Picture matching at your own pace. Every pack is included and works offline.",
+  "@libraryWelcome": {
+    "description": "Picture-pack library: one plain sentence under the title saying what the library holds."
+  },
+  "libraryBrowseByTopic": "Browse by topic",
+  "@libraryBrowseByTopic": {
+    "description": "Picture-pack library: section heading beside an icon for the list of topics. Short; wraps at large text."
+  },
+  "librarySeeAllTopics": "See all topics",
+  "@librarySeeAllTopics": {
+    "description": "Picture-pack library: text button beside the Browse by topic heading that opens the full topic list. Short."
+  },
+  "libraryBrowseByTopicBody": "Every included picture pack, sorted by topic.",
+  "@libraryBrowseByTopicBody": {
+    "description": "Picture-pack library: sentence under the Browse by topic heading."
+  },
+  "libraryPickTopics": "Pick topics you enjoy (optional)",
+  "@libraryPickTopics": {
+    "description": "Picture-pack library: label above the row of topic chips the person can choose."
+  },
+  "libraryShowAllTopics": "Show all topics",
+  "@libraryShowAllTopics": {
+    "description": "Picture-pack library: button that clears the chosen topics so every topic is listed again. Short."
+  },
+  "libraryChoiceNotSaved": "Your choice could not be saved. It will apply until you close the app.",
+  "@libraryChoiceNotSaved": {
+    "description": "Picture-pack library: calm note when a topic, favorite or hide choice could not be saved on the device."
+  },
+  "libraryAllHiddenTitle": "All packs are hidden",
+  "@libraryAllHiddenTitle": {
+    "description": "Picture-pack library: heading when every pack was marked Not for me."
+  },
+  "libraryTopicsAllHiddenTitle": "Nothing to show for these topics",
+  "@libraryTopicsAllHiddenTitle": {
+    "description": "Picture-pack library: heading when every pack in the chosen topics was marked Not for me."
+  },
+  "libraryAllHiddenBody": "You marked every pack Not for me. Show one again under Hidden packs.",
+  "@libraryAllHiddenBody": {
+    "description": "Picture-pack library: sentence under 'All packs are hidden'. 'Not for me' and 'Hidden packs' must match the button and section names."
+  },
+  "libraryTopicsAllHiddenBody": "Every pack in the topics you chose is marked Not for me. They stay hidden until you show them again under Hidden packs.",
+  "@libraryTopicsAllHiddenBody": {
+    "description": "Picture-pack library: sentence under 'Nothing to show for these topics'. 'Not for me' and 'Hidden packs' must match the button and section names."
+  },
+  "libraryEmptyTitle": "Library is empty",
+  "@libraryEmptyTitle": {
+    "description": "Picture-pack library: heading when no topics are bundled (should not normally appear)."
+  },
+  "libraryEmptyBody": "New content will be added soon!",
+  "@libraryEmptyBody": {
+    "description": "Picture-pack library: sentence under 'Library is empty'."
+  },
+  "librarySuggestedTitle": "Suggested packs",
+  "@librarySuggestedTitle": {
+    "description": "Picture-pack library: section heading beside an icon for a few suggested packs. Short."
+  },
+  "librarySuggestedBody": "A few included picture packs to try. Tap one to start.",
+  "@librarySuggestedBody": {
+    "description": "Picture-pack library: sentence under the Suggested packs heading."
+  },
+  "librarySuggestedHiddenNote": "Packs you marked Not for me are not suggested. You can show them again under Hidden packs.",
+  "@librarySuggestedHiddenNote": {
+    "description": "Picture-pack library: note under Suggested packs when some packs are hidden."
+  },
+  "librarySuggestOther": "Suggest other packs",
+  "@librarySuggestOther": {
+    "description": "Picture-pack library: text button that shows a different set of suggested packs. Short."
+  },
+  "librarySuggestedEmptyTitle": "No other packs to suggest",
+  "@librarySuggestedEmptyTitle": {
+    "description": "Picture-pack library: heading of the empty Suggested packs box."
+  },
+  "librarySuggestedEmptyHidden": "Hidden packs are not suggested. You can show them again under Hidden packs.",
+  "@librarySuggestedEmptyHidden": {
+    "description": "Picture-pack library: empty Suggested packs box, when the remaining packs are hidden."
+  },
+  "librarySuggestedEmptyFavorites": "Every included pack is already in your favorites.",
+  "@librarySuggestedEmptyFavorites": {
+    "description": "Picture-pack library: empty Suggested packs box, when every pack is a favorite."
+  },
+  "librarySuggestedEmptyNone": "No picture packs are available right now.",
+  "@librarySuggestedEmptyNone": {
+    "description": "Picture-pack library: empty Suggested packs box, when no packs exist."
+  },
+  "libraryFavoritesTitle": "Your favorites",
+  "@libraryFavoritesTitle": {
+    "description": "Picture-pack library: section heading beside a star icon for the packs marked Favorite. Short."
+  },
+  "libraryFavoritesBody": "Packs you marked Favorite. Tap Favorite again to take one off.",
+  "@libraryFavoritesBody": {
+    "description": "Picture-pack library: sentence under Your favorites. 'Favorite' must match the pack card button."
+  },
+  "libraryChoicesUnreadable": "Your saved favorites and hidden packs could not be read, so they are left as they are. All packs are shown, and the favorite and Not for me buttons are off for now.",
+  "@libraryChoicesUnreadable": {
+    "description": "Picture-pack library: calm note when saved favorites and hidden packs could not be read from the device."
+  },
+  "libraryChoicesLoading": "Getting your saved favorites ready. Packs will show here in a moment.",
+  "@libraryChoicesLoading": {
+    "description": "Picture-pack library: note shown briefly while saved favorites load."
+  },
+  "libraryHiddenTitle": "Hidden packs ({count})",
+  "@libraryHiddenTitle": {
+    "description": "Picture-pack library: section heading listing packs marked Not for me, with how many there are.",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "libraryHiddenBody": "You marked these Not for me. They are not deleted. Show one again whenever you like.",
+  "@libraryHiddenBody": {
+    "description": "Picture-pack library: sentence under the Hidden packs heading."
+  },
+  "libraryHiddenInFavorites": "In favorites",
+  "@libraryHiddenInFavorites": {
+    "description": "Picture-pack library: small label beside a star under a hidden pack that is also a favorite. Short."
+  },
+  "libraryShowAgain": "Show again",
+  "@libraryShowAgain": {
+    "description": "Picture-pack library: button that returns a hidden pack to the library. Short."
+  },
+  "libraryShowPackAgain": "Show {packTitle} again",
+  "@libraryShowPackAgain": {
+    "description": "Picture-pack library: screen-reader label of the Show again button, naming the pack.",
+    "placeholders": {
+      "packTitle": {
+        "type": "String",
+        "example": "Garden Flowers"
+      }
+    }
+  },
+  "libraryPackHiddenNotice": "{packTitle} is hidden. You can show it again under Hidden packs.",
+  "@libraryPackHiddenNotice": {
+    "description": "Picture-pack library: notice after the person marks a pack Not for me. Stays until dismissed; read by screen readers.",
+    "placeholders": {
+      "packTitle": {
+        "type": "String",
+        "example": "Garden Flowers"
+      }
+    }
+  },
+  "settingsMusic": "Music",
+  "@settingsMusic": {
+    "description": "Library settings sheet and game options: switch title for background music. Very short."
+  },
+  "settingsMusicSubtitle": "Off unless you turn it on",
+  "@settingsMusicSubtitle": {
+    "description": "Library settings sheet and game options: subtitle under the Music switch."
+  },
+  "settingsSounds": "Sounds",
+  "@settingsSounds": {
+    "description": "Library settings sheet and game options: switch title for tap sounds. Very short."
+  },
+  "settingsSoundsSubtitle": "Soft taps and a chime at the end",
+  "@settingsSoundsSubtitle": {
+    "description": "Library settings sheet and game options: subtitle under the Sounds switch."
+  },
+  "gameTitleFallback": "Picture game",
+  "@gameTitleFallback": {
+    "description": "Picture-pack game: title bar while the pack is still loading or could not open. Short."
+  },
+  "gameHintTooltip": "Show a matching pair",
+  "@gameHintTooltip": {
+    "description": "Picture-pack game: tooltip and screen-reader label of the light-bulb button that turns a matching pair face up."
+  },
+  "gameOptionsTooltip": "Sound and options",
+  "@gameOptionsTooltip": {
+    "description": "Picture-pack game: tooltip and screen-reader label of the options button in the title bar. Short."
+  },
+  "gameStartAgainTitle": "Start again?",
+  "@gameStartAgainTitle": {
+    "description": "Picture-pack game: title of the dialog asking before found pairs are cleared. Short."
+  },
+  "gameStartAgainBody": "The pairs you have found on this board will be cleared.",
+  "@gameStartAgainBody": {
+    "description": "Picture-pack game: sentence in the Start again? dialog."
+  },
+  "gameOptionsTitle": "Options",
+  "@gameOptionsTitle": {
+    "description": "Picture-pack game: title of the options dialog (sound, stop). Very short."
+  },
+  "gameOptionsBody": "Take your time. Nothing changes while you rest.",
+  "@gameOptionsBody": {
+    "description": "Picture-pack game: calm sentence at the top of the options dialog; the board is paused."
+  },
+  "gameKeepPlaying": "Keep playing",
+  "@gameKeepPlaying": {
+    "description": "Picture-pack game: primary button in the options dialog that returns to the same board. Short."
+  },
+  "gameFinishTitle": "All pairs together",
+  "@gameFinishTitle": {
+    "description": "Picture-pack game: title of the calm finish message. No praise or exclamation marks. Short."
+  },
+  "gameFinishBody": "Play again, choose another pack, or take a break. Is there a picture you would like to talk about?",
+  "@gameFinishBody": {
+    "description": "Picture-pack game: body of the finish message. Open, no score or judgment."
+  },
+  "gameChooseAnotherPack": "Choose another pack",
+  "@gameChooseAnotherPack": {
+    "description": "Picture-pack game: button in the finish message that returns to the library. Short."
+  },
+  "gameLoading": "Getting the pictures ready…",
+  "@gameLoading": {
+    "description": "Picture-pack game: shown under a spinner while the pack loads."
+  },
+  "gameErrorTitle": "This pack could not open",
+  "@gameErrorTitle": {
+    "description": "Picture-pack game: heading when a pack could not be loaded."
+  },
+  "gameErrorBody": "Please choose another pack. Your other packs and activities still work.",
+  "@gameErrorBody": {
+    "description": "Picture-pack game: sentence under 'This pack could not open'."
+  },
+  "gameGoBack": "Go back",
+  "@gameGoBack": {
+    "description": "Picture-pack game: button under the error message that returns to the library. Short."
+  },
+  "gameInstruction": "Find the matching pictures. There is no time limit.",
+  "@gameInstruction": {
+    "description": "Picture-pack game: guidance above the board when nothing has just happened. Also read by screen readers."
+  },
+  "gameStatusMismatch": "Take your time. Tap a picture to continue.",
+  "@gameStatusMismatch": {
+    "description": "Picture-pack game: guidance after two pictures that do not match; they stay face up until the next tap. Never 'Wrong'. Announced by screen readers."
+  },
+  "gameStatusHint": "Here is a pair that matches. Tap a picture to continue.",
+  "@gameStatusHint": {
+    "description": "Picture-pack game: guidance after the person asks to see a matching pair. Announced by screen readers."
+  },
+  "gameStatusMatch": "These two match.",
+  "@gameStatusMatch": {
+    "description": "Picture-pack game: guidance after a pair is found. Calm, no exclamation mark. Announced by screen readers."
+  },
+  "gamePairsProgress": "{total, plural, =1{{matched} of 1 pair} other{{matched} of {total} pairs}}",
+  "@gamePairsProgress": {
+    "description": "Picture-pack game: small progress label beside the guidance, e.g. '3 of 6 pairs'. Plain counts only, never a score. Keep short.",
+    "placeholders": {
+      "matched": {
+        "type": "int",
+        "example": "3"
+      },
+      "total": {
+        "type": "int",
+        "example": "6"
+      }
+    }
+  },
+  "gameTileHidden": "Hidden picture, tile {position}",
+  "@gameTileHidden": {
+    "description": "Picture-pack game: screen-reader label of a face-down tile. Must never name the picture. position is the tile's place on the board, counted from 1.",
+    "placeholders": {
+      "position": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+  "gameTilePicture": "Picture, tile {position}",
+  "@gameTilePicture": {
+    "description": "Picture-pack game: screen-reader label of a face-up tile whose picture has no caption.",
+    "placeholders": {
+      "position": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+  "gameTileNamed": "{caption}, tile {position}",
+  "@gameTileNamed": {
+    "description": "Picture-pack game: screen-reader label of a face-up tile, starting with the picture's caption (from the pack data).",
+    "placeholders": {
+      "caption": {
+        "type": "String",
+        "example": "Red barn"
+      },
+      "position": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+  "packAllHiddenInTopic": "Every pack in this topic is marked Not for me. Show one again below.",
+  "@packAllHiddenInTopic": {
+    "description": "Topic page (packs in one topic): sentence when every pack in the topic is hidden. 'Not for me' must match the pack card button."
+  },
+  "packChoicesSlow": "Your saved pack choices are not ready yet. You can go back and try again in a moment.",
+  "@packChoicesSlow": {
+    "description": "Topic page: shown when saved favorites take unusually long to load."
+  },
+  "packBackToLibrary": "Back to the library",
+  "@packBackToLibrary": {
+    "description": "Topic page: button under the slow-loading message that returns to the library. Short."
+  },
+  "packLoadError": "These packs could not be opened.",
+  "@packLoadError": {
+    "description": "Topic page: message when the packs could not be loaded, above a Try again button."
+  },
+  "packEmptyTitle": "No packs found",
+  "@packEmptyTitle": {
+    "description": "Topic page: heading when a topic has no packs (should not normally appear)."
+  },
+  "packEmptyBody": "There are no packs in this category yet.",
+  "@packEmptyBody": {
+    "description": "Topic page: sentence under 'No packs found'."
+  },
+  "packAddToFavorites": "Add to favorites",
+  "@packAddToFavorites": {
+    "description": "Pack card: toggle button under the picture that marks the pack as a favorite. Fits beside 'Not for me' on a 300-point-wide card; keep short."
+  },
+  "packInFavoritesLabel": "In favorites, {packTitle}",
+  "@packInFavoritesLabel": {
+    "description": "Pack card: screen-reader label of the favorite toggle when the pack is a favorite, naming the pack.",
+    "placeholders": {
+      "packTitle": {
+        "type": "String",
+        "example": "Garden Flowers"
+      }
+    }
+  },
+  "packAddToFavoritesLabel": "Add to favorites, {packTitle}",
+  "@packAddToFavoritesLabel": {
+    "description": "Pack card: screen-reader label of the favorite toggle when the pack is not a favorite, naming the pack.",
+    "placeholders": {
+      "packTitle": {
+        "type": "String",
+        "example": "Garden Flowers"
+      }
+    }
+  },
+  "packNotForMe": "Not for me",
+  "@packNotForMe": {
+    "description": "Pack card: button under the picture that hides the pack (it can be shown again under Hidden packs). Keep short; other screens refer to this name."
+  },
+  "packNotForMeLabel": "Not for me, hide {packTitle}",
+  "@packNotForMeLabel": {
+    "description": "Pack card: screen-reader label of the Not for me button, naming the pack.",
+    "placeholders": {
+      "packTitle": {
+        "type": "String",
+        "example": "Garden Flowers"
+      }
+    }
+  },
+  "packPlay": "Play",
+  "@packPlay": {
+    "description": "Pack card: small label beside a play icon showing the card starts the pack. Very short."
+  },
+  "packBadgeDaily": "Daily",
+  "@packBadgeDaily": {
+    "description": "Pack and topic cards: small badge on the picture (currently not shown in the app). One short word."
+  },
+  "packBadgePremium": "Premium",
+  "@packBadgePremium": {
+    "description": "Pack and topic cards: small badge on the picture (currently not shown in the app). One short word."
+  },
+  "packTileCount": "{count, plural, =1{1 tile} other{{count} tiles}}",
+  "@packTileCount": {
+    "description": "Pack card: small chip saying how many picture tiles the pack's board has, e.g. '12 tiles'. A neutral size, never a difficulty level.",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "12"
+      }
+    }
+  },
+  "categoryTitle": "All categories",
+  "@categoryTitle": {
+    "description": "Title bar of the page listing every topic in the picture-pack library. Short."
+  },
+  "categoryEmptyTitle": "No categories found",
+  "@categoryEmptyTitle": {
+    "description": "All categories page: heading when no topics are bundled (should not normally appear)."
+  },
+  "categoryEmptyBody": "The picture library is empty in this version.",
+  "@categoryEmptyBody": {
+    "description": "All categories page: sentence under 'No categories found'."
+  },
+  "reminderIntro": "A quiet note on this device at a time you choose, as a nudge to share some pictures. It never counts days or mentions a missed one. You can turn it off at any time.",
+  "@reminderIntro": {
+    "description": "Gentle reminder page: paragraph at the top explaining the optional reminder. Never mention streaks or missed days."
+  },
+  "reminderDays": "Days",
+  "@reminderDays": {
+    "description": "Gentle reminder page: heading above the weekday chips. One word."
+  },
+  "reminderTime": "Time",
+  "@reminderTime": {
+    "description": "Gentle reminder page: heading above the time button. One word."
+  },
+  "reminderTurnOn": "Turn on reminder",
+  "@reminderTurnOn": {
+    "description": "Gentle reminder page: main button that asks for notification permission and turns the reminder on. Keep under about 25 characters."
+  },
+  "reminderTurnOff": "Turn off reminder",
+  "@reminderTurnOff": {
+    "description": "Gentle reminder page: button that turns the reminder off. Keep under about 25 characters."
+  },
+  "reminderIsOn": "Reminder is on: {summary}.",
+  "@reminderIsOn": {
+    "description": "Gentle reminder page: status line when the reminder is on, read aloud by screen readers. {summary} is reminderSummary, e.g. 'Monday, Friday at 10:00 AM'.",
+    "placeholders": {
+      "summary": {
+        "type": "String",
+        "example": "Every day at 10:00 AM"
+      }
+    }
+  },
+  "reminderIsOff": "Reminder is off.",
+  "@reminderIsOff": {
+    "description": "Gentle reminder page: status line after the reminder is turned off."
+  },
+  "reminderEveryDay": "Every day",
+  "@reminderEveryDay": {
+    "description": "Gentle reminder page: used as {days} in reminderSummary when all seven days are chosen."
+  },
+  "reminderSummary": "{days} at {time}",
+  "@reminderSummary": {
+    "description": "Gentle reminder page: which days and what time the reminder appears. {days} is reminderEveryDay or a list of full day names joined with reminderDayListSeparator; {time} is the time in the device's format.",
+    "placeholders": {
+      "days": {
+        "type": "String",
+        "example": "Monday, Friday"
+      },
+      "time": {
+        "type": "String",
+        "example": "10:00 AM"
+      }
+    }
+  },
+  "reminderDayListSeparator": ", ",
+  "@reminderDayListSeparator": {
+    "description": "Gentle reminder page: separator placed between full day names in a list, including any space. For example ', ' in English, '، ' in Arabic or '、' in Chinese and Japanese."
+  },
+  "reminderCouldNotSet": "The reminder could not be set. Nothing was changed.",
+  "@reminderCouldNotSet": {
+    "description": "Gentle reminder page: calm status after the device refused to schedule the reminder."
+  },
+  "reminderCouldNotSave": "The reminder could not be saved. Please try again.",
+  "@reminderCouldNotSave": {
+    "description": "Gentle reminder page: calm status after saving the choice failed."
+  },
+  "reminderNotificationsOff": "Notifications are off for Golden Moments. You can allow them in the Settings app, under Notifications, and try again.",
+  "@reminderNotificationsOff": {
+    "description": "Gentle reminder page: status when notification permission was declined. 'Settings' and 'Notifications' should match the names the device's own Settings app uses in this language. 'Golden Moments' is the app name."
+  },
+  "reminderDayMondayShort": "Mon",
+  "@reminderDayMondayShort": {
+    "description": "Gentle reminder page: short weekday name on a selectable chip. Keep to about 3 letters or the usual abbreviation."
+  },
+  "reminderDayTuesdayShort": "Tue",
+  "@reminderDayTuesdayShort": {
+    "description": "Gentle reminder page: short weekday name on a selectable chip. Keep to about 3 letters or the usual abbreviation."
+  },
+  "reminderDayWednesdayShort": "Wed",
+  "@reminderDayWednesdayShort": {
+    "description": "Gentle reminder page: short weekday name on a selectable chip. Keep to about 3 letters or the usual abbreviation."
+  },
+  "reminderDayThursdayShort": "Thu",
+  "@reminderDayThursdayShort": {
+    "description": "Gentle reminder page: short weekday name on a selectable chip. Keep to about 3 letters or the usual abbreviation."
+  },
+  "reminderDayFridayShort": "Fri",
+  "@reminderDayFridayShort": {
+    "description": "Gentle reminder page: short weekday name on a selectable chip. Keep to about 3 letters or the usual abbreviation."
+  },
+  "reminderDaySaturdayShort": "Sat",
+  "@reminderDaySaturdayShort": {
+    "description": "Gentle reminder page: short weekday name on a selectable chip. Keep to about 3 letters or the usual abbreviation."
+  },
+  "reminderDaySundayShort": "Sun",
+  "@reminderDaySundayShort": {
+    "description": "Gentle reminder page: short weekday name on a selectable chip. Keep to about 3 letters or the usual abbreviation."
+  },
+  "reminderDayMonday": "Monday",
+  "@reminderDayMonday": {
+    "description": "Gentle reminder page: full weekday name read by screen readers for a day chip and used in the reminder summary."
+  },
+  "reminderDayTuesday": "Tuesday",
+  "@reminderDayTuesday": {
+    "description": "Gentle reminder page: full weekday name read by screen readers for a day chip and used in the reminder summary."
+  },
+  "reminderDayWednesday": "Wednesday",
+  "@reminderDayWednesday": {
+    "description": "Gentle reminder page: full weekday name read by screen readers for a day chip and used in the reminder summary."
+  },
+  "reminderDayThursday": "Thursday",
+  "@reminderDayThursday": {
+    "description": "Gentle reminder page: full weekday name read by screen readers for a day chip and used in the reminder summary."
+  },
+  "reminderDayFriday": "Friday",
+  "@reminderDayFriday": {
+    "description": "Gentle reminder page: full weekday name read by screen readers for a day chip and used in the reminder summary."
+  },
+  "reminderDaySaturday": "Saturday",
+  "@reminderDaySaturday": {
+    "description": "Gentle reminder page: full weekday name read by screen readers for a day chip and used in the reminder summary."
+  },
+  "reminderDaySunday": "Sunday",
+  "@reminderDaySunday": {
+    "description": "Gentle reminder page: full weekday name read by screen readers for a day chip and used in the reminder summary."
+  },
+  "reminderNotificationTitle": "Time for pictures together?",
+  "@reminderNotificationTitle": {
+    "description": "Title of the device notification a helper chose to schedule. A gentle question, no exclamation mark, no urgency, never counts days. Keep under about 40 characters."
+  },
+  "reminderNotificationBody": "Golden Moments is here whenever it suits you.",
+  "@reminderNotificationBody": {
+    "description": "Body of the scheduled device notification. Calm, no exclamation mark, no urgency, never mentions a missed day. 'Golden Moments' is the app name."
+  },
+  "shareMessage": "A gentle picture game we enjoy together: Golden Moments.",
+  "@shareMessage": {
+    "description": "Text placed in the message when someone shares the app with family through the device share sheet. The store link is added on the next line automatically. 'Golden Moments' is the app name."
+  },
+  "shareInvitationText": "Enjoying these pictures together? Another family might enjoy them too.",
+  "@shareInvitationText": {
+    "description": "Quiet suggestion shown inside the finish message after a game, above the 'Share with family' button. Never pushy; no 'challenge' or rewards."
+  },
+  "shareWithFamily": "Share with family",
+  "@shareWithFamily": {
+    "description": "Text button that opens the device share sheet to tell another family about the app. Shown at the bottom of Home and in the finish message. Keep under about 22 characters."
+  },
+  "supportProblemPhotosNotAdded": "Photos would not add",
+  "@supportProblemPhotosNotAdded": {
+    "description": "Help page, 'Report a problem' dialog: one choice in a list of problems. Short, plain."
+  },
+  "supportProblemPhotoNotShown": "A photo would not show",
+  "@supportProblemPhotoNotShown": {
+    "description": "Help page, 'Report a problem' dialog: one choice in a list of problems. Short, plain."
+  },
+  "supportProblemBoardMissing": "My game was not where I left it",
+  "@supportProblemBoardMissing": {
+    "description": "Help page, 'Report a problem' dialog: one choice in a list of problems. Short, plain."
+  },
+  "supportProblemTextTooSmall": "Text or buttons were hard to use",
+  "@supportProblemTextTooSmall": {
+    "description": "Help page, 'Report a problem' dialog: one choice in a list of problems. Short, plain."
+  },
+  "supportProblemSomethingElse": "Something else",
+  "@supportProblemSomethingElse": {
+    "description": "Help page, 'Report a problem' dialog: last choice in a list of problems. Short, plain."
+  },
+  "supportReportPlatform": "Platform: {platform}",
+  "@supportReportPlatform": {
+    "description": "Help page, problem report preview and the shared report: line naming the device's system. {platform} stays in English (iOS, Android).",
+    "placeholders": {
+      "platform": {
+        "type": "String",
+        "example": "iOS"
+      }
+    }
+  },
+  "supportReportProblem": "Problem: {code}",
+  "@supportReportProblem": {
+    "description": "Help page, problem report preview and the shared report: line with the problem code. {code} is a fixed English code such as 'photo-import' that support reads; do not translate it.",
+    "placeholders": {
+      "code": {
+        "type": "String",
+        "example": "photo-import"
+      }
+    }
+  }
 }

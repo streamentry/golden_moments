@@ -10,6 +10,7 @@ import 'package:golden_moments/features/gentle_activities/models/activity_pictur
 import 'package:golden_moments/features/gentle_activities/models/gentle_board.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_comfort_sheet.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/rating/review_request.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
 import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
@@ -116,25 +117,34 @@ class _GentleGamePageState extends State<GentleGamePage> {
     final resume = await showDialog<bool>(
       context: context,
       barrierDismissible: false,
-      builder: (context) => AlertDialog(
-        scrollable: true,
-        title: const GmTitle('Pick up where you left off?'),
-        content: const Text(
-          'You have a board in progress. You can carry on with it or start '
-          'a new one.',
-        ),
-        actions: gmDialogActions(
-          other: TextButton(
-            onPressed: () => Navigator.pop(context, false),
-            child: const Text('Start fresh', textAlign: TextAlign.center),
+      builder: (context) {
+        final l10n = context.l10n;
+        return AlertDialog(
+          scrollable: true,
+          title: GmTitle(l10n.gentleGameResumeTitle),
+          content: Text(l10n.gentleGameResumeBody),
+          actions: gmDialogActions(
+            other: TextButton(
+              onPressed: () => Navigator.pop(context, false),
+              child: Text(
+                l10n.gentleGameResumeStartFresh,
+                textAlign: TextAlign.center,
+              ),
+            ),
+            primary: FilledButton(
+              onPressed: () => Navigator.pop(context, true),
+              child: Text(
+                l10n.gentleGameResumeCarryOn,
+                textAlign: TextAlign.center,
+              ),
+            ),
+            labels: (
+              l10n.gentleGameResumeStartFresh,
+              l10n.gentleGameResumeCarryOn,
+            ),
           ),
-          primary: FilledButton(
-            onPressed: () => Navigator.pop(context, true),
-            child: const Text('Carry on', textAlign: TextAlign.center),
-          ),
-          labels: ('Start fresh', 'Carry on'),
-        ),
-      ),
+        );
+      },
     );
     if (!mounted) return;
     if (resume ?? false) {
@@ -243,7 +253,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
   }
 
   Future<void> _share() async {
-    if (await shareAndRemember() && mounted) {
+    if (await shareAndRemember(context.l10n) && mounted) {
       setState(() => _shared = true);
       _revealFinish();
     }
@@ -281,31 +291,38 @@ class _GentleGamePageState extends State<GentleGamePage> {
     if (board == null || !board.hasProgress) return true;
     final ok = await showDialog<bool>(
       context: context,
-      builder: (context) => AlertDialog(
-        scrollable: true,
-        title: Text(question),
-        content: const Text(
-          'The pictures you have found on this board will be cleared.',
-        ),
-        // Keeping the board is the safe choice, so it is the primary one.
-        actions: gmDialogActions(
-          other: TextButton(
-            onPressed: () => Navigator.pop(context, true),
-            child: Text(action, textAlign: TextAlign.center),
+      builder: (context) {
+        final keep = context.l10n.commonKeepThisBoard;
+        return AlertDialog(
+          scrollable: true,
+          title: Text(question),
+          content: Text(context.l10n.gentleGameDiscardBody),
+          // Keeping the board is the safe choice, so it is the primary one.
+          actions: gmDialogActions(
+            other: TextButton(
+              onPressed: () => Navigator.pop(context, true),
+              child: Text(action, textAlign: TextAlign.center),
+            ),
+            primary: FilledButton(
+              onPressed: () => Navigator.pop(context, false),
+              child: Text(keep, textAlign: TextAlign.center),
+            ),
+            labels: (action, keep),
           ),
-          primary: FilledButton(
-            onPressed: () => Navigator.pop(context, false),
-            child: const Text('Keep this board', textAlign: TextAlign.center),
-          ),
-          labels: (action, 'Keep this board'),
-        ),
-      ),
+        );
+      },
     );
     return ok ?? false;
   }
 
   Future<void> _startAgain() async {
-    if (!await _confirmDiscard('Start again?', 'Start again')) return;
+    final l10n = context.l10n;
+    if (!await _confirmDiscard(
+      l10n.gentleGameStartAgainQuestion,
+      l10n.commonStartAgain,
+    )) {
+      return;
+    }
     if (mounted) _restart();
   }
 
@@ -313,8 +330,12 @@ class _GentleGamePageState extends State<GentleGamePage> {
   Future<({GentlePreferences prefs, bool saved})> _applyPreferences(
     GentlePreferences next,
   ) async {
+    final l10n = context.l10n;
     if (next.pairs != _prefs.pairs &&
-        !await _confirmDiscard('Change the number of tiles?', 'Change')) {
+        !await _confirmDiscard(
+          l10n.gentleGameChangeTilesQuestion,
+          l10n.gentleGameChangeTilesAction,
+        )) {
       return (prefs: _prefs, saved: true);
     }
     if (!mounted) return (prefs: _prefs, saved: true);
@@ -333,8 +354,12 @@ class _GentleGamePageState extends State<GentleGamePage> {
   Future<GentlePreferences> _resetPreferences() async {
     const defaults = GentlePreferences();
     final pairsChanged = _prefs.pairs != defaults.pairs;
+    final l10n = context.l10n;
     if (pairsChanged &&
-        !await _confirmDiscard('Reset comfort settings?', 'Reset')) {
+        !await _confirmDiscard(
+          l10n.gentleGameResetComfortQuestion,
+          l10n.commonReset,
+        )) {
       return _prefs;
     }
     await widget.preferencesStore.reset();
@@ -367,27 +392,19 @@ class _GentleGamePageState extends State<GentleGamePage> {
               mainAxisSize: MainAxisSize.min,
               children: [
                 Text(
-                  'How this works',
+                  context.l10n.gentleGameHowThisWorks,
                   style: Theme.of(context).textTheme.headlineSmall,
                 ),
                 const SizedBox(height: gmSpaceMd),
-                const Text(
-                  'Tap one picture, then tap another. Pictures that match stay '
-                  'together. Pictures that do not match stay in view until '
-                  'your next tap.',
-                ),
+                Text(context.l10n.gentleGameHelpHowToPlay),
                 const SizedBox(height: gmSpaceMd),
-                const Text(
-                  'There is no time limit and no wrong answer. It is fine to '
-                  'just look at the pictures, talk about them, change the '
-                  'number of tiles, or stop with Done for now.',
-                ),
+                Text(context.l10n.gentleGameHelpNoWrongAnswer),
                 const SizedBox(height: gmSpaceLg),
                 SizedBox(
                   width: double.infinity,
                   child: FilledButton(
                     onPressed: () => Navigator.pop(context),
-                    child: const Text('Back to the pictures'),
+                    child: Text(context.l10n.gentleGameBackToPictures),
                   ),
                 ),
               ],
@@ -418,25 +435,26 @@ class _GentleGamePageState extends State<GentleGamePage> {
     final board = _board;
     final theme = Theme.of(context);
     final scale = MediaQuery.textScalerOf(context).scale(16) / 16;
+    final l10n = context.l10n;
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: gmToolbarHeight(context),
-        title: const GmTitle('Gentle photo match'),
+        title: GmTitle(l10n.gentleGameTitle),
         actions: [
           IconButton(
             onPressed: _showHelp,
             icon: const Icon(Icons.help_outline),
-            tooltip: 'How this works',
+            tooltip: l10n.gentleGameHowThisWorks,
           ),
           IconButton(
             onPressed: _showSettings,
             icon: const Icon(Icons.tune),
-            tooltip: 'Comfort settings',
+            tooltip: l10n.commonComfortSettings,
           ),
         ],
       ),
       body: board == null
-          ? const Center(child: Text('Choose at least two photos to play.'))
+          ? Center(child: Text(l10n.gentleGameNeedTwoPhotos))
           : _moreBelow.watch(
               SafeArea(
                 child: Center(
@@ -467,7 +485,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
                                     const SizedBox(width: gmSpaceSm),
                                     Expanded(
                                       child: Text(
-                                        'All pairs together.',
+                                        l10n.gentleGameAllPairsTogether,
                                         style: theme.textTheme.headlineSmall,
                                       ),
                                     ),
@@ -475,7 +493,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
                                 ),
                               )
                             : Text(
-                                'Tap two pictures that match.',
+                                l10n.gentleGameInstruction,
                                 style: theme.textTheme.bodyLarge,
                               );
                         final status = Semantics(
@@ -483,13 +501,12 @@ class _GentleGamePageState extends State<GentleGamePage> {
                           liveRegion: true,
                           child: Text(
                             board.complete
-                                ? 'Play again or take a break.'
+                                ? l10n.gentleGameFinishedStatus
                                 : board.waitingForNextTurn
-                                ? 'Take your time. Tap a picture to continue.'
+                                ? l10n.gentleGameWaitingStatus
                                 : instructionBelow
-                                ? 'Tap two pictures that match. '
-                                      'There is no time limit.'
-                                : 'There is no time limit.',
+                                ? l10n.gentleGameInstructionNoTimeLimit
+                                : l10n.commonNoTimeLimit,
                             style: theme.textTheme.bodyLarge,
                           ),
                         );
@@ -586,7 +603,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
                   ],
                   if (board.complete && _shared) ...[
                     Text(
-                      'Thank you for sharing.',
+                      l10n.commonThankYouForSharing,
                       style: theme.textTheme.bodyMedium,
                     ),
                     const SizedBox(height: gmSpaceSm),
@@ -601,9 +618,10 @@ class _GentleGamePageState extends State<GentleGamePage> {
   /// Side by side normally; stacked full width at large text so labels never
   /// squeeze into a few letters per line or push the board off screen.
   Widget _exitButtons(GentleBoard board) {
+    final l10n = context.l10n;
     final done = OutlinedButton(
       onPressed: () => Navigator.of(context).pop(),
-      child: const Text('Done for now', textAlign: TextAlign.center),
+      child: Text(l10n.commonDoneForNow, textAlign: TextAlign.center),
     );
     if (board.complete) {
       // Play again is the one primary action, so it comes first when the
@@ -612,9 +630,9 @@ class _GentleGamePageState extends State<GentleGamePage> {
         first: done,
         second: FilledButton(
           onPressed: _restart,
-          child: const Text('Play again', textAlign: TextAlign.center),
+          child: Text(l10n.commonPlayAgain, textAlign: TextAlign.center),
         ),
-        labels: ('Done for now', 'Play again'),
+        labels: (l10n.commonDoneForNow, l10n.commonPlayAgain),
         secondOnTop: true,
       );
     }
@@ -622,9 +640,9 @@ class _GentleGamePageState extends State<GentleGamePage> {
       first: done,
       second: OutlinedButton(
         onPressed: _startAgain,
-        child: const Text('Start again', textAlign: TextAlign.center),
+        child: Text(l10n.commonStartAgain, textAlign: TextAlign.center),
       ),
-      labels: ('Done for now', 'Start again'),
+      labels: (l10n.commonDoneForNow, l10n.commonStartAgain),
     );
   }
 
@@ -669,17 +687,18 @@ class _GentleGamePageState extends State<GentleGamePage> {
     final visible = board.isVisible(index, keepVisible: _prefs.keepVisible);
     final matched = board.isMatched(index);
     final emphasized = matched || board.isSelected(index);
+    final l10n = context.l10n;
     return Semantics(
       button: true,
       enabled: !matched,
       onTap: matched ? null : () => _tap(index),
       label: visible
-          ? '${picture.label}, tile ${index + 1}'
-          : 'Hidden picture, tile ${index + 1}',
+          ? l10n.gentleGameTileLabel(picture.localizedLabel(l10n), index + 1)
+          : l10n.gentleGameHiddenTileLabel(index + 1),
       value: matched
-          ? 'Matched'
+          ? l10n.commonMatched
           : board.isSelected(index)
-          ? 'Selected'
+          ? l10n.commonSelected
           : '',
       child: ExcludeSemantics(
         child: Material(
@@ -704,9 +723,9 @@ class _GentleGamePageState extends State<GentleGamePage> {
                 else
                   const GmTileBack(),
                 if (matched)
-                  const Positioned(
+                  const PositionedDirectional(
                     top: gmSpaceSm,
-                    right: gmSpaceSm,
+                    end: gmSpaceSm,
                     child: GmMatchBadge(),
                   ),
               ],

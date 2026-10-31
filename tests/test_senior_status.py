@@ -48,7 +48,13 @@ class SeniorStatusTests(unittest.TestCase):
             with self.subTest(feature=feature_id):
                 if feature['phase'] == 'R3' and not feature.get('approved_on'):
                     self.assertEqual(entry['status'], 'deferred')
-                if feature['phase'] == 'R2':
+                if feature['phase'] == 'R2' and feature.get('approved_on'):
+                    # A maintainer-started R2 item may be under way, but it
+                    # is never called verified from here.
+                    self.assertIn(
+                        entry['status'],
+                        {'not_started', 'partial', 'implemented_unverified'})
+                elif feature['phase'] == 'R2':
                     # Gated: at most one unshipped prototype, never verified.
                     self.assertIn(
                         entry['status'], {'not_started', 'implemented_unverified'})

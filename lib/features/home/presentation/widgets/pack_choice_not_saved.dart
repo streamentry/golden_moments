@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 /// Calm, persistent note when a favorite or hide choice could not be saved.
 class PackChoiceNotSaved extends StatelessWidget {
@@ -15,8 +16,7 @@ class PackChoiceNotSaved extends StatelessWidget {
         const SizedBox(width: gmSpaceSm),
         Expanded(
           child: Text(
-            'Your choice could not be saved. It will apply until you close '
-            'the app.',
+            context.l10n.libraryChoiceNotSaved,
             style: theme.textTheme.bodyMedium,
           ),
         ),
@@ -40,9 +40,7 @@ class PackChoicesUnreadable extends StatelessWidget {
         const SizedBox(width: gmSpaceSm),
         Expanded(
           child: Text(
-            'Your saved favorites and hidden packs could not be read, so they '
-            'are left as they are. All packs are shown, and the favorite and '
-            'Not for me buttons are off for now.',
+            context.l10n.libraryChoicesUnreadable,
             style: theme.textTheme.bodyMedium,
           ),
         ),
@@ -66,8 +64,7 @@ class PackChoicesLoading extends StatelessWidget {
         const SizedBox(width: gmSpaceSm),
         Expanded(
           child: Text(
-            'Getting your saved favorites ready. Packs will show here in a '
-            'moment.',
+            context.l10n.libraryChoicesLoading,
             style: theme.textTheme.bodyMedium,
           ),
         ),

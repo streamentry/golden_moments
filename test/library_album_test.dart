@@ -2,10 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/data/services/local_pack_service.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/category_card.dart';
 import 'package:golden_moments/shared/widgets/pack_card.dart';
 
 Widget _app(Widget child) => MaterialApp(
+  localizationsDelegates: AppLocalizations.localizationsDelegates,
   theme: gmBuildTheme(),
   home: Scaffold(
     body: SingleChildScrollView(

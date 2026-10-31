@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 void main() {
   testWidgets('legal information is readable without opening a browser', (
@@ -11,7 +12,12 @@ void main() {
     addTearDown(tester.view.resetPhysicalSize);
     addTearDown(tester.view.resetDevicePixelRatio);
 
-    await tester.pumpWidget(const MaterialApp(home: LegalInfoPage()));
+    await tester.pumpWidget(
+      const MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
+        home: LegalInfoPage(),
+      ),
+    );
 
     expect(find.text('Privacy and information'), findsOneWidget);
     expect(find.text('Your pictures, your choice'), findsOneWidget);

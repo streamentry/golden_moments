@@ -3,6 +3,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/data/gentle_preferences.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 /// Comfort choices on request, from the activity or from Home (GM-003/037).
 /// Changes apply and save as they are made; the caller decides what applying
@@ -13,13 +14,14 @@ class GentleComfortSheet extends StatefulWidget {
     required this.maxPairs,
     required this.onChanged,
     required this.onReset,
-    this.closeLabel = 'Back to the pictures',
+    this.closeLabel,
     super.key,
   });
   final GentlePreferences initial;
 
   /// What the button that closes the sheet says, to fit where it opened.
-  final String closeLabel;
+  /// Defaults to "Back to the pictures" in the current language.
+  final String? closeLabel;
   final int maxPairs;
   final Future<({GentlePreferences prefs, bool saved})> Function(
     GentlePreferences,
@@ -53,26 +55,29 @@ class _GentleComfortSheetState extends State<GentleComfortSheet> {
   Future<void> _reset() async {
     final ok = await showDialog<bool>(
       context: context,
-      builder: (context) => AlertDialog(
-        scrollable: true,
-        title: const Text('Reset comfort settings?'),
-        content: const Text(
-          'This only returns the tile count and picture view to their '
-          'starting choices. Your photos and picture packs are not changed.',
-        ),
-        // Keeping the settings is the safe choice, so it is the primary one.
-        actions: gmDialogActions(
-          other: TextButton(
-            onPressed: () => Navigator.pop(context, true),
-            child: const Text('Reset', textAlign: TextAlign.center),
+      builder: (context) {
+        final l10n = context.l10n;
+        return AlertDialog(
+          scrollable: true,
+          title: Text(l10n.gentleGameResetComfortQuestion),
+          content: Text(l10n.comfortResetBody),
+          // Keeping the settings is the safe choice, so it is the primary one.
+          actions: gmDialogActions(
+            other: TextButton(
+              onPressed: () => Navigator.pop(context, true),
+              child: Text(l10n.commonReset, textAlign: TextAlign.center),
+            ),
+            primary: FilledButton(
+              onPressed: () => Navigator.pop(context, false),
+              child: Text(
+                l10n.comfortKeepMySettings,
+                textAlign: TextAlign.center,
+              ),
+            ),
+            labels: (l10n.commonReset, l10n.comfortKeepMySettings),
           ),
-          primary: FilledButton(
-            onPressed: () => Navigator.pop(context, false),
-            child: const Text('Keep my settings', textAlign: TextAlign.center),
-          ),
-          labels: ('Reset', 'Keep my settings'),
-        ),
-      ),
+        );
+      },
     );
     if (ok != true || !mounted) return;
     final prefs = await widget.onReset();
@@ -82,6 +87,7 @@ class _GentleComfortSheetState extends State<GentleComfortSheet> {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
+    final l10n = context.l10n;
     return SafeArea(
       child: SingleChildScrollView(
         padding: const EdgeInsets.fromLTRB(gmSpaceLg, 0, gmSpaceLg, gmSpaceLg),
@@ -89,23 +95,26 @@ class _GentleComfortSheetState extends State<GentleComfortSheet> {
           crossAxisAlignment: CrossAxisAlignment.start,
           mainAxisSize: MainAxisSize.min,
           children: [
-            Text('Comfort settings', style: theme.textTheme.headlineSmall),
+            Text(
+              l10n.commonComfortSettings,
+              style: theme.textTheme.headlineSmall,
+            ),
             const SizedBox(height: gmSpaceXs),
             Text(
-              'Changes apply right away and are remembered.',
+              l10n.comfortChangesApply,
               style: theme.textTheme.bodyMedium?.copyWith(
                 color: theme.colorScheme.onSurfaceVariant,
               ),
             ),
             const SizedBox(height: gmSpaceMd),
-            Text('Number of tiles', style: theme.textTheme.titleMedium),
+            Text(l10n.comfortNumberOfTiles, style: theme.textTheme.titleMedium),
             const SizedBox(height: gmSpaceSm),
             _ChoiceRows(
               choices: [
                 for (final pairs in GentlePreferences.pairChoices)
                   if (pairs <= widget.maxPairs)
                     (
-                      label: '${pairs * 2} tiles',
+                      label: l10n.comfortTileCount(pairs * 2),
                       selected: _prefs.pairs == pairs,
                       onSelected: () => _change(_prefs.copyWith(pairs: pairs)),
                     ),
@@ -114,10 +123,8 @@ class _GentleComfortSheetState extends State<GentleComfortSheet> {
             const SizedBox(height: gmSpaceSm),
             SwitchListTile(
               contentPadding: EdgeInsets.zero,
-              title: const Text('Keep pictures visible'),
-              subtitle: const Text(
-                'Turn off only when you prefer hidden tiles.',
-              ),
+              title: Text(l10n.comfortKeepVisible),
+              subtitle: Text(l10n.comfortKeepVisibleHint),
               value: _prefs.keepVisible,
               onChanged: (value) =>
                   _change(_prefs.copyWith(keepVisible: value)),
@@ -126,8 +133,7 @@ class _GentleComfortSheetState extends State<GentleComfortSheet> {
               Padding(
                 padding: const EdgeInsets.only(bottom: gmSpaceSm),
                 child: Text(
-                  'These choices could not be saved. They will apply until '
-                  'you close the app.',
+                  l10n.comfortSaveFailed,
                   style: theme.textTheme.bodyMedium,
                 ),
               ),
@@ -136,14 +142,14 @@ class _GentleComfortSheetState extends State<GentleComfortSheet> {
             TextButton.icon(
               onPressed: _reset,
               icon: const Icon(Icons.restart_alt),
-              label: const Text('Reset comfort settings'),
+              label: Text(l10n.comfortResetButton),
             ),
             const SizedBox(height: gmSpaceSm),
             SizedBox(
               width: double.infinity,
               child: FilledButton(
                 onPressed: () => Navigator.pop(context),
-                child: Text(widget.closeLabel),
+                child: Text(widget.closeLabel ?? l10n.gentleGameBackToPictures),
               ),
             ),
           ],

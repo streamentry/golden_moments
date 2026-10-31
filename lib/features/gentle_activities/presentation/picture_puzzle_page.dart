@@ -5,6 +5,7 @@ import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/models/puzzle_board.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
 
 /// Experimental tap-to-place picture puzzle (GM-009), reachable only in
@@ -71,12 +72,13 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final scheme = theme.colorScheme;
+    final l10n = context.l10n;
     final n = widget.size;
     final complete = _board.complete;
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: gmToolbarHeight(context),
-        title: const GmTitle('Picture puzzle'),
+        title: GmTitle(l10n.puzzleTitle),
       ),
       body: _moreBelow.watch(
         SafeArea(
@@ -109,14 +111,15 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'Tap a piece, then tap where it goes. Tap a placed '
-                          'piece to take it back.',
+                          l10n.puzzleInstructions,
                           style: theme.textTheme.bodyLarge,
                         ),
                         const SizedBox(height: gmSpaceMd),
                         // The reference picture and its name read as one.
                         Semantics(
-                          label: 'The whole picture: ${_picture.label}',
+                          label: l10n.puzzleWholePictureLabel(
+                            _picture.localizedLabel(l10n),
+                          ),
                           child: ExcludeSemantics(
                             child: Row(
                               children: [
@@ -136,7 +139,7 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
                                 const SizedBox(width: gmSpaceMd),
                                 Expanded(
                                   child: Text(
-                                    'The whole picture',
+                                    l10n.puzzleWholePicture,
                                     style: theme.textTheme.bodyMedium?.copyWith(
                                       color: scheme.onSurfaceVariant,
                                     ),
@@ -151,6 +154,10 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
                           child: SizedBox(
                             width: gridSide,
                             child: Wrap(
+                              // A picture is not mirrored in right-to-left
+                              // languages, so neither is the board its
+                              // pieces rebuild: slot 0 stays top left.
+                              textDirection: TextDirection.ltr,
                               spacing: gmTileGap,
                               runSpacing: gmTileGap,
                               children: [
@@ -164,7 +171,7 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
                           Semantics(
                             header: true,
                             child: Text(
-                              'Pieces',
+                              l10n.puzzlePieces,
                               style: theme.textTheme.titleMedium,
                             ),
                           ),
@@ -183,8 +190,8 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
                           liveRegion: true,
                           child: Text(
                             complete
-                                ? 'The picture is together.'
-                                : 'There is no time limit.',
+                                ? l10n.puzzleComplete
+                                : l10n.commonNoTimeLimit,
                             style: theme.textTheme.bodyLarge,
                           ),
                         ),
@@ -207,11 +214,12 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
   /// Side by side only when both labels fit on one line; stacked, the one
   /// primary action (Play again) comes first, as on the matching board.
   Widget _exitButtons({required bool complete}) {
-    const doneLabel = 'Done for now';
-    final againLabel = complete ? 'Play again' : 'Start again';
+    final l10n = context.l10n;
+    final doneLabel = l10n.commonDoneForNow;
+    final againLabel = complete ? l10n.commonPlayAgain : l10n.commonStartAgain;
     final done = OutlinedButton(
       onPressed: () => Navigator.of(context).pop(),
-      child: const Text(doneLabel, textAlign: TextAlign.center),
+      child: Text(doneLabel, textAlign: TextAlign.center),
     );
     final label = Text(againLabel, textAlign: TextAlign.center);
     final again = complete
@@ -229,15 +237,19 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
     final scheme = Theme.of(context).colorScheme;
     final n = widget.size;
     final piece = _board.slots[slot];
-    final spot = 'Spot ${slot ~/ n + 1}, ${slot % n + 1}';
+    final l10n = context.l10n;
+    final row = slot ~/ n + 1;
+    final column = slot % n + 1;
     return Semantics(
       button: true,
-      label: piece == null ? '$spot, empty' : '$spot, has a piece',
+      label: piece == null
+          ? l10n.puzzleSpotEmpty(row, column)
+          : l10n.puzzleSpotFilled(row, column),
       hint: _board.selected != null
-          ? (piece == null
-                ? 'Places the chosen piece here'
-                : 'Swaps with the chosen piece')
-          : (piece == null ? 'Choose a piece first' : 'Takes the piece back'),
+          ? (piece == null ? l10n.puzzleHintPlaceHere : l10n.puzzleHintSwap)
+          : (piece == null
+                ? l10n.puzzleHintChooseFirst
+                : l10n.puzzleHintTakeBack),
       onTap: () => setState(() => _board.tapSlot(slot)),
       child: ExcludeSemantics(
         child: SizedBox.square(
@@ -274,8 +286,8 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
       button: true,
       // The position in the tray tells pieces apart without revealing where
       // each one belongs.
-      label: 'Piece ${position + 1} of ${_board.tray.length}',
-      value: selected ? 'Selected' : '',
+      label: context.l10n.puzzlePiecePosition(position + 1, _board.tray.length),
+      value: selected ? context.l10n.commonSelected : '',
       onTap: () => setState(() => _board.select(piece)),
       child: ExcludeSemantics(
         child: SizedBox.square(

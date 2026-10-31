@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/sound_setting.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:provider/provider.dart';
 
 /// A reusable settings modal for the app
@@ -25,7 +26,10 @@ class SettingModal extends StatelessWidget {
             mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text('Settings', style: theme.textTheme.headlineSmall),
+              Text(
+                context.l10n.commonSettings,
+                style: theme.textTheme.headlineSmall,
+              ),
               const SizedBox(height: gmSpaceMd),
               // The whole row is the target (DESIGN.md › Switch rows).
               SwitchListTile(
@@ -33,8 +37,8 @@ class SettingModal extends StatelessWidget {
                 secondary: Icon(
                   settings.isMusicOn ? Icons.music_note : Icons.music_off,
                 ),
-                title: const Text('Music'),
-                subtitle: const Text('Off unless you turn it on'),
+                title: Text(context.l10n.settingsMusic),
+                subtitle: Text(context.l10n.settingsMusicSubtitle),
                 value: settings.isMusicOn,
                 onChanged: (val) {
                   settings.toggleMusic();
@@ -45,8 +49,8 @@ class SettingModal extends StatelessWidget {
                 secondary: Icon(
                   settings.isSoundOn ? Icons.volume_up : Icons.volume_off,
                 ),
-                title: const Text('Sounds'),
-                subtitle: const Text('Soft taps and a chime at the end'),
+                title: Text(context.l10n.settingsSounds),
+                subtitle: Text(context.l10n.settingsSoundsSubtitle),
                 value: settings.isSoundOn,
                 onChanged: (val) {
                   settings.toggleSound();
@@ -64,13 +68,13 @@ class SettingModal extends StatelessWidget {
                     );
                 },
                 icon: const Icon(Icons.privacy_tip_outlined),
-                label: const Text('Privacy, terms and support'),
+                label: Text(context.l10n.commonPrivacyTermsSupport),
               ),
               const SizedBox(height: gmSpaceLg),
               Align(
-                alignment: Alignment.centerRight,
+                alignment: AlignmentDirectional.centerEnd,
                 child: GmPrimaryButton(
-                  label: 'Save',
+                  label: context.l10n.commonSave,
                   onTap: () {
                     Navigator.of(context).pop();
                   },

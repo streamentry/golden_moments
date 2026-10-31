@@ -14,13 +14,15 @@ class _AppState extends State<App> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Golden Moments',
+      // The task-switcher name follows the device language.
+      onGenerateTitle: (context) => context.l10n.appTitle,
       // Light only: older eyes read dark ink on warm paper best, and MIUI's
       // forced dark mode turned the app black (#18).
       theme: gmBuildTheme(),
       themeMode: ThemeMode.light,
       localizationsDelegates: AppLocalizations.localizationsDelegates,
       supportedLocales: AppLocalizations.supportedLocales,
+      localeListResolutionCallback: resolveAppLocale,
       home: buildPlatformHome(),
     );
   }

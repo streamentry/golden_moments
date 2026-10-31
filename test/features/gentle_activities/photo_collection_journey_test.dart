@@ -9,6 +9,7 @@ import 'package:golden_moments/features/gentle_activities/data/family_photo_stor
 import 'package:golden_moments/features/gentle_activities/data/photo_annotations.dart';
 import 'package:golden_moments/features/gentle_activities/data/photo_importer.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -41,6 +42,7 @@ class _FakeImporter extends PhotoImporter {
 }
 
 Widget _app(Directory directory, PhotoImporter importer) => MaterialApp(
+  localizationsDelegates: AppLocalizations.localizationsDelegates,
   theme: gmBuildTheme(),
   home: PhotoCollectionPage(
     directoryProvider: () async => directory,
@@ -359,6 +361,7 @@ void main() {
       [1, 2],
     ]);
     Widget big() => MaterialApp(
+      localizationsDelegates: AppLocalizations.localizationsDelegates,
       theme: gmBuildTheme(),
       builder: (context, child) => MediaQuery(
         data: MediaQuery.of(context)
@@ -537,6 +540,7 @@ void main() {
     );
     await tester.pumpWidget(
       MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
         theme: gmBuildTheme(),
         builder: (context, child) => MediaQuery(
           data: MediaQuery.of(context)

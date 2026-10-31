@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/pack/presentation/screens/pack_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/download_progress_card.dart';
 import 'package:golden_moments/shared/widgets/gm_mounted_picture.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
@@ -28,6 +29,7 @@ class CategoryCard extends StatelessWidget {
   @override
   Widget build(BuildContext parentContext) {
     final theme = Theme.of(parentContext);
+    final l10n = parentContext.l10n;
 
     // The whole card is one button. It opens at once: no artificial delay
     // for the ripple, so Reduce Motion users never wait (GM-015).
@@ -50,12 +52,12 @@ class CategoryCard extends StatelessWidget {
         },
         // The button role annotates the tappable surface's own node, so a
         // screen reader finds one labelled button, not two (GM-014).
-        child: Semantics(button: true, child: _buildLayout(theme)),
+        child: Semantics(button: true, child: _buildLayout(theme, l10n)),
       ),
     );
   }
 
-  Widget _buildLayout(ThemeData theme) {
+  Widget _buildLayout(ThemeData theme, AppLocalizations l10n) {
     // A minimum height, not a fixed one, so the text can wrap at 200%.
     return ConstrainedBox(
       constraints: const BoxConstraints(minHeight: 96 + gmSpaceSm * 2),
@@ -79,7 +81,7 @@ class CategoryCard extends StatelessWidget {
                           style: theme.textTheme.titleMedium,
                         ),
                       ),
-                      _buildBadges(theme),
+                      _buildBadges(theme, l10n),
                     ],
                   ),
                   Text(
@@ -97,7 +99,7 @@ class CategoryCard extends StatelessWidget {
     );
   }
 
-  Widget _buildBadges(ThemeData theme) {
+  Widget _buildBadges(ThemeData theme, AppLocalizations l10n) {
     final badges = <Widget>[];
 
     if (showDailyBadge) {
@@ -112,7 +114,7 @@ class CategoryCard extends StatelessWidget {
             borderRadius: BorderRadius.circular(gmRadiusMd),
           ),
           child: Text(
-            'Daily',
+            l10n.packBadgeDaily,
             style: theme.textTheme.labelSmall?.copyWith(
               color: theme.colorScheme.onSecondary,
             ),
@@ -133,7 +135,7 @@ class CategoryCard extends StatelessWidget {
             borderRadius: BorderRadius.circular(gmRadiusMd),
           ),
           child: Text(
-            'Premium',
+            l10n.packBadgePremium,
             style: theme.textTheme.labelSmall?.copyWith(
               color: theme.colorScheme.onTertiary,
             ),

@@ -3,6 +3,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -94,6 +95,7 @@ void main() {
       addTearDown(() => tester.binding.setSurfaceSize(null));
       await tester.pumpWidget(
         MaterialApp(
+          localizationsDelegates: AppLocalizations.localizationsDelegates,
           theme: gmBuildTheme(),
           home: const GentleGamePage(pictures: ActivityPicture.samples),
         ),

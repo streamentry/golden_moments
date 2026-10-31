@@ -8,12 +8,14 @@ import 'package:golden_moments/features/gentle_activities/models/activity_pictur
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_home_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_puzzle_page.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'helpers/shipped_fonts.dart';
 
 Widget _app(Widget home, {double textScale = 1}) => MaterialApp(
+  localizationsDelegates: AppLocalizations.localizationsDelegates,
   theme: gmBuildTheme(),
   builder: (context, child) => MediaQuery(
     data: MediaQuery.of(context)
@@ -155,6 +157,7 @@ void main() {
     for (final keyboard in [700.0, 760.0, 800.0]) {
       await tester.pumpWidget(
         MaterialApp(
+          localizationsDelegates: AppLocalizations.localizationsDelegates,
           theme: gmBuildTheme(),
           builder: (context, child) => MediaQuery(
             data: MediaQuery.of(context)
@@ -463,6 +466,7 @@ void main() {
     await _size(tester, const Size(390, 844));
     await tester.pumpWidget(
       MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
         theme: gmBuildTheme(),
         builder: (context, child) => MediaQuery(
           data: MediaQuery.of(context).copyWith(

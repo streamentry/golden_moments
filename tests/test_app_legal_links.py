@@ -1,5 +1,6 @@
 """Static contract checks; cannot replace real iOS/Android link and privacy audit."""
 
+import json
 import pathlib
 import unittest
 
@@ -13,13 +14,20 @@ class LegalLinksSourceTests(unittest.TestCase):
         legacy = (ROOT / "lib/features/home/presentation/widgets/setting_modal.dart").read_text()
         for x in ("app-privacy/", "privacy-choices/", "terms/", "safety/", "support/"):
             self.assertIn(x, page)
+        # The visible words live in the English ARB; the pages use the keys.
+        english = json.loads(
+            (ROOT / "lib/l10n/arb/app_en.arb").read_text(encoding="utf-8"))
+        self.assertEqual(english["commonPrivacyTermsSupport"],
+                         "Privacy, terms and support")
         for src in (gentle, legacy):
             self.assertIn("LegalInfoPage", src)
-            self.assertIn("Privacy, terms and support", src)
+            self.assertIn("l10n.commonPrivacyTermsSupport", src)
         self.assertIn("https://dementiaactivities.games/", page)
         self.assertIn("Clipboard.setData", page)
         self.assertIn("LaunchMode.externalApplication", page)
-        self.assertIn("choosing any personal photographs.", page)
+        self.assertIn("l10n.legalBuiltInPictures", page)
+        self.assertTrue(english["legalBuiltInPictures"].endswith(
+            "choosing any personal photographs."))
 
     def test_external_browsing_only_after_explicit_tap(self):
         page = (ROOT / "lib/features/legal/presentation/legal_info_page.dart").read_text()

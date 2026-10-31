@@ -455,8 +455,14 @@
         "scope": "R3, approval required; not authorized."
       },
       "GM-036": {
-        "status": "not_started",
-        "scope": "R2 localization needs demand evidence and editorial review; US English only."
+        "status": "partial",
+        "scope": "Infrastructure and English extraction only (maintainer request, 2026-10-31). Every user-visible app string is in lib/l10n/arb/app_en.arb with a translator description; ICU placeholders/plurals for built-up text; share, reminder and problem-report text take the app language; 20 languages declared (en, es, pt_BR, fr, de, it, nl, pl, ru, uk, tr, ar, hi, ja, ko, zh_Hans, zh_Hant, vi, id, th; pt and zh are generator base files) in supportedLocales and iOS CFBundleLocalizations; directional layout for Arabic. No translations yet: every non-English ARB holds only @@locale, so those languages show English text (mirrored in Arabic). Do not release or list these languages until reviewed translations land; picture-pack titles and captions in assets/data are untranslated content. Arabic and long-text layout is test-only (English text, stretched stand-in for German); no device, VoiceOver/TalkBack or native-speaker review.",
+        "evidence": [
+          "lib/l10n/arb/app_en.arb",
+          "lib/l10n/l10n.dart",
+          "test/l10n/arb_files_test.dart",
+          "test/l10n/rtl_long_text_test.dart"
+        ]
       },
       "GM-037": {
         "status": "partial",

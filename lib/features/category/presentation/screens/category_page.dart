@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/category_card.dart';
 
 /// Page to display all categories
@@ -22,7 +23,7 @@ class CategoryPage extends StatelessWidget {
       child: Scaffold(
         appBar: AppBar(
           toolbarHeight: gmToolbarHeight(parentContext),
-          title: const GmTitle('All categories'),
+          title: GmTitle(parentContext.l10n.categoryTitle),
         ),
         body: categories.isEmpty
             ? _EmptyState()
@@ -73,13 +74,13 @@ class _EmptyState extends StatelessWidget {
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
-              'No categories found',
+              parentContext.l10n.categoryEmptyTitle,
               style: theme.textTheme.titleMedium,
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: gmSpaceSm),
             Text(
-              'The picture library is empty in this version.',
+              parentContext.l10n.categoryEmptyBody,
               style: theme.textTheme.bodyMedium?.copyWith(
                 color: theme.colorScheme.onSurfaceVariant,
               ),

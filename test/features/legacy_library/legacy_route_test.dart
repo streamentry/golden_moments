@@ -13,6 +13,7 @@ import 'package:golden_moments/shared/widgets/category_card.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import '../../helpers/l10n_helpers.dart';
 import 'legacy_helpers.dart';
 
 void main() {
@@ -397,7 +398,7 @@ void main() {
 
       // Nothing has happened yet: the instruction is not a live region.
       expect(
-        tester.getSemantics(status(GameHeader.instruction)),
+        tester.getSemantics(status(GameHeader.instruction(englishL10n))),
         isSemantics(isLiveRegion: false),
       );
 
@@ -440,7 +441,7 @@ void main() {
       await tapTile(tester, next);
       expect(status('These two match.'), findsNothing);
       expect(
-        tester.getSemantics(status(GameHeader.instruction)),
+        tester.getSemantics(status(GameHeader.instruction(englishL10n))),
         isSemantics(isLiveRegion: false),
       );
       handle.dispose();

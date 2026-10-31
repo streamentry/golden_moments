@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 /// A bundled illustration or a normalized, local family-photo copy.
 class ActivityPicture {
@@ -23,6 +24,22 @@ class ActivityPicture {
   /// Optional longer description read by screen readers while the picture is
   /// visible. Never used for hidden tiles.
   final String description;
+
+  /// [label] in the reader's language. Starter illustrations (no [path])
+  /// have translated names; a family photo keeps its own caption or the
+  /// numbered name its page gave it.
+  String localizedLabel(AppLocalizations l10n) {
+    if (path != null) return label;
+    return switch (id) {
+      'flower' => l10n.samplePictureFlower,
+      'cup' => l10n.samplePictureCup,
+      'sun' => l10n.samplePictureSun,
+      'home' => l10n.samplePictureHome,
+      'tree' => l10n.samplePictureTree,
+      'pet' => l10n.samplePicturePawPrint,
+      _ => label,
+    };
+  }
 
   static const samples = [
     ActivityPicture(id: 'flower', label: 'Flower', icon: Icons.local_florist),
