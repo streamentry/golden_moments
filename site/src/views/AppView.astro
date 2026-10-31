@@ -1,0 +1,30 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../lib/site';
+import { localizeHtml } from '../i18n/locales';
+import { PUBLISHED, fill, ui } from '../i18n/ui';
+import Faq from '../components/Faq.astro';
+import Icon from '../components/Icon.astro';
+import { appFacts, appFaq, mobileApplication } from '../lib/app';
+import { faqPage } from '../lib/schema';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const t = ui(lang);
+const p = t.pages.app;
+const facts = appFacts(lang);
+const faq = appFaq(lang);
+---
+<PageLayout title={p.title} seoTitle={p.seoTitle} description={p.description} path="/app/" crumb={p.crumb} lede={p.lede} jsonLd={[mobileApplication(lang), faqPage(faq)]} lang={lang} available={PUBLISHED.map((l) => l.code)}>
+  <div class="btn-row btn-row--spaced">
+    <a class="btn btn--primary" href={SITE.appStoreUrl} rel="noopener"><Icon name="phone" />{t.appCta.appStore}</a>
+    <a class="btn" href={SITE.playStoreUrl} rel="noopener"><Icon name="phone" />{t.appCta.googlePlay}</a>
+  </div>
+  <p>{facts.summary} {fill(p.worksOn, { platforms: facts.platforms, requirements: facts.requirements })}</p>
+  {p.appLanguageNote && <p>{p.appLanguageNote}</p>}
+  <Fragment set:html={localizeHtml(lang, p.bodyHtml)} />
+  <Faq items={faq} lang={lang} />
+  <p class="muted">{p.disclaimer}</p>
+</PageLayout>

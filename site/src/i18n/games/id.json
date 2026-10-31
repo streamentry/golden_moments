@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Pasangan gambar",
+    "seoTitle": "Permainan Mencocokkan Gambar untuk Demensia",
+    "h1": "Pasangan Gambar: Permainan Mencocokkan yang Lembut",
+    "description": "Permainan mencocokkan gratis yang lembut untuk orang dengan demensia. Gambar besar tetap terlihat, tanpa pengatur waktu atau skor, dan Anda memilih 4–12 kotak.",
+    "short": "Cari dua gambar yang sama. Gambar bisa tetap terlihat.",
+    "players": "1 atau 2 orang, duduk berdampingan",
+    "intro": "Ketuk sebuah gambar, lalu ketuk gambar yang sama dengannya. Secara bawaan gambar tetap terlihat, jadi tidak ada yang perlu diingat. Jika dua gambar sudah berpasangan, keduanya mendapat bingkai emas dan tanda centang.",
+    "howTo": [
+      "Pilih berapa banyak kotak yang dipakai. Empat kotak adalah awal yang tenang.",
+      "Ketuk gambar mana saja. Gambar itu mendapat bingkai emas.",
+      "Ketuk gambar yang terlihat sama. Pasangan itu tetap bersama dengan tanda centang.",
+      "Jika kedua gambar berbeda, tidak terjadi apa-apa yang buruk. Ketuk lagi kapan pun Anda siap.",
+      "Nyalakan “Gambar tersembunyi” hanya jika Anda berdua menikmati versi klasik dengan gambar tertutup."
+    ],
+    "tips": [
+      "Sebutkan nama gambarnya bersama-sama dan mengobrollah tentangnya: “Cangkir teh merah. Lebih suka teh manis atau teh tawar?”",
+      "Biarkan orang yang Anda dampingi yang mengetuk, meskipun butuh waktu. Tunjukkan dengan jari, jangan mengetukkan untuknya.",
+      "Tetaplah di empat kotak selama masih terasa nyaman. Lebih banyak kotak adalah pilihan, bukan level yang harus dicapai.",
+      "Selesaikan selagi masih menyenangkan. Satu permainan sudah merupakan satu kegiatan yang utuh."
+    ],
+    "faq": [
+      {
+        "q": "Apakah ada pengatur waktu atau skor?",
+        "a": "Tidak ada. Tidak ada jam, skor, penghitung langkah, atau kalah. Anda bisa berhenti kapan saja, dan berhenti di tengah jalan adalah cara yang sangat baik untuk selesai."
+      },
+      {
+        "q": "Mengapa gambarnya tetap terbuka?",
+        "a": "Dengan gambar yang tetap terlihat, permainan menjadi kegiatan melihat dan mencocokkan, bukan mengingat. Banyak orang merasa ini lebih menenangkan. Jika Anda mau, Anda bisa beralih ke gambar tersembunyi dengan satu ketukan."
+      },
+      {
+        "q": "Apakah gratis, dan apakah saya perlu mendaftar?",
+        "a": "Ya, gratis, dan tidak perlu akun, pendaftaran, atau unduhan. Permainan ini berjalan di peramban web pada ponsel, tablet, atau komputer."
+      },
+      {
+        "q": "Bisakah kami memakai foto keluarga sendiri?",
+        "a": "Bisa. Coba Pasangan foto, yang memungkinkan Anda memilih foto dari perangkat Anda. Foto tetap berada di peramban Anda dan tidak diunggah."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Cari yang sama",
+    "seoTitle": "Cari Gambar yang Sama: Permainan Demensia Sederhana",
+    "h1": "Cari Gambar yang Sama",
+    "description": "Satu gambar di atas, dua sampai empat di bawah. Ketuk yang sama. Permainan gambar gratis yang tenang untuk orang dengan demensia, tanpa pengatur waktu.",
+    "short": "Lihat gambar di atas, lalu ketuk gambar yang sama di bawah.",
+    "players": "1 atau 2 orang",
+    "intro": "Satu gambar ada di bagian atas layar. Di bawahnya ada dua, tiga, atau empat gambar. Ketuk gambar yang sama. Hanya satu pilihan sederhana setiap kali, dengan banyak kesempatan untuk mengobrol.",
+    "howTo": [
+      "Pilih dua, tiga, atau empat gambar sebagai pilihan. Dua adalah yang paling sederhana.",
+      "Lihat gambar di bagian atas bersama-sama.",
+      "Ketuk gambar yang sama di bawah. Gambar itu diberi tanda centang dan beberapa kata yang hangat.",
+      "Jika gambar lain yang diketuk, permainan cukup menyebutkan nama gambar itu dan menunggu. Tidak perlu terburu-buru.",
+      "Ketuk “Gambar berikutnya” jika Anda siap untuk gambar lain."
+    ],
+    "tips": [
+      "Bicarakan setiap gambar sebelum memilih: warnanya, bentuknya, di mana biasanya kita melihatnya.",
+      "Dua pilihan bukan berarti “terlalu mudah”. Tujuannya adalah momen yang menyenangkan, bukan tantangan.",
+      "Jika mengetuk terasa sulit, beliau bisa menunjuk dan Anda yang mengetukkan."
+    ],
+    "faq": [
+      {
+        "q": "Apakah ada pengatur waktu atau skor?",
+        "a": "Tidak ada. Tidak ada jam, skor, penghitung langkah, atau kalah. Anda bisa berhenti kapan saja, dan berhenti di tengah jalan adalah cara yang sangat baik untuk selesai."
+      },
+      {
+        "q": "Apa yang terjadi jika gambar yang lain diketuk?",
+        "a": "Tidak ada yang tidak menyenangkan. Tidak ada bunyi dengung, tanda silang merah, atau layar bergetar. Permainan menyebutkan nama gambar yang diketuk dan menunggu ketukan berikutnya."
+      },
+      {
+        "q": "Apakah gratis, dan apakah saya perlu mendaftar?",
+        "a": "Ya, gratis, dan tidak perlu akun, pendaftaran, atau unduhan. Permainan ini berjalan di peramban web pada ponsel, tablet, atau komputer."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Cocokkan bayangan",
+    "seoTitle": "Cocokkan Bayangan: Permainan Demensia Gratis Online",
+    "h1": "Cocokkan Bayangan: Permainan Gambar yang Lembut",
+    "description": "Satu bayangan gelap di atas, 2–4 gambar di bawah. Ketuk gambar pemilik bayangan itu. Permainan gratis yang tenang untuk demensia, tanpa batas waktu.",
+    "short": "Lihat bayangannya, lalu ketuk gambar yang membentuk bayangan itu.",
+    "players": "1 atau 2 orang",
+    "intro": "Mencocokkan bayangan adalah kegiatan yang akrab dari lembar kerja cetak, di sini dengan gambar besar dan tanpa perlu mencetak. Sebuah bayangan lembut ada di bagian atas layar, dan dua, tiga, atau empat gambar menunggu di bawahnya. Ketuk gambar yang membentuk bayangan itu. Bentuk seperti sepeda, payung, atau cangkir teh juga mudah dijadikan bahan obrolan.",
+    "howTo": [
+      "Pilih dua, tiga, atau empat gambar sebagai pilihan. Dua adalah yang paling sederhana.",
+      "Lihat bayangannya bersama-sama. Bentuknya seperti apa? Tinggi atau bulat?",
+      "Ketuk gambar yang membentuk bayangan itu. Namanya muncul di bawah bayangan.",
+      "Jika gambar lain yang diketuk, permainan cukup menyebutkan nama gambar itu dan menunggu. Tidak perlu terburu-buru.",
+      "Ketuk “Bayangan berikutnya” jika Anda siap untuk bayangan lain."
+    ],
+    "tips": [
+      "Telusuri garis tepi bayangan dengan jari dan bicarakan bentuknya.",
+      "Jika bayangan terasa sulit hari ini, beralihlah ke Cari yang sama, yang gambarnya terlihat persis sama.",
+      "Bicarakan gambarnya setelah ditemukan: “Dulu kita punya payung seperti itu.”"
+    ],
+    "faq": [
+      {
+        "q": "Apakah ada pengatur waktu atau skor?",
+        "a": "Tidak ada. Tidak ada jam, skor, penghitung langkah, atau kalah. Anda bisa berhenti kapan saja, dan berhenti di tengah jalan adalah cara yang sangat baik untuk selesai."
+      },
+      {
+        "q": "Apakah mencocokkan bayangan baik untuk orang dengan demensia?",
+        "a": "Bagi sebagian orang, ini bisa menjadi kegiatan sederhana yang menyenangkan, terutama pada tahap awal. Bentuk lebih mudah dikenali daripada kata-kata. Ini untuk kesenangan dan obrolan, bukan tes, dan tidak mengobati atau memperlambat demensia. Jika menimbulkan frustrasi, coba Cari yang sama atau cukup melihat gambar bersama."
+      },
+      {
+        "q": "Apa yang terjadi jika gambar yang lain diketuk?",
+        "a": "Tidak ada yang tidak menyenangkan. Tidak ada bunyi dengung, tanda silang merah, atau layar bergetar. Permainan menyebutkan nama gambar yang diketuk dan menunggu ketukan berikutnya."
+      },
+      {
+        "q": "Apakah gratis, dan apakah saya perlu mendaftar?",
+        "a": "Ya, gratis, dan tidak perlu akun, pendaftaran, atau unduhan. Permainan ini berjalan di peramban web pada ponsel, tablet, atau komputer."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Memilah bersama",
+    "seoTitle": "Permainan Memilah untuk Demensia: Memilah Bersama",
+    "h1": "Memilah Bersama: Kegiatan Memilah Gambar",
+    "description": "Ketuk sebuah gambar, lalu ketuk keranjang tempatnya: dapur atau kebun, buah atau hewan. Kegiatan memilah gratis yang tenang untuk orang dengan demensia.",
+    "short": "Masukkan setiap gambar ke keranjangnya: dapur atau kebun, dan lainnya.",
+    "players": "1 atau 2 orang",
+    "intro": "Memilah adalah pekerjaan sehari-hari yang akrab dan memuaskan, seperti merapikan belanjaan atau memasangkan kaus kaki. Ketuk sebuah gambar, lalu ketuk keranjang tempatnya. Tidak perlu terburu-buru dan tidak ada langkah yang salah.",
+    "howTo": [
+      "Pilih tema: dapur dan kebun, buah dan hewan, atau rumah dan bepergian.",
+      "Ketuk sebuah gambar. Gambar itu mendapat bingkai emas.",
+      "Ketuk keranjang tempatnya. Gambar itu pindah ke keranjang tersebut.",
+      "Jika gambar itu lebih cocok di keranjang lain, permainan menyampaikannya dengan lembut dan menunggu.",
+      "Setelah semua gambar terpilah, lihat isi keranjang bersama-sama."
+    ],
+    "tips": [
+      "Dalam kehidupan nyata sering kali tidak ada jawaban yang salah. Jika beliau bilang gembor penyiram tanaman tempatnya di dapur, tanyakan alasannya. Mungkin Anda akan mendapat cerita yang menarik.",
+      "Gunakan gambar sebagai pembuka obrolan: “Dulu menanam apa saja di kebun?”",
+      "Memilah benda sungguhan, seperti sendok dan garpu atau kancing menurut warnanya, adalah kegiatan lanjutan yang bagus di luar layar."
+    ],
+    "faq": [
+      {
+        "q": "Apakah ada pengatur waktu atau skor?",
+        "a": "Tidak ada. Tidak ada jam, skor, penghitung langkah, atau kalah. Anda bisa berhenti kapan saja, dan berhenti di tengah jalan adalah cara yang sangat baik untuk selesai."
+      },
+      {
+        "q": "Mengapa memilah?",
+        "a": "Banyak orang menikmati memilah karena terasa seperti pekerjaan yang berguna dan akrab. Gambarnya juga mudah dijadikan bahan obrolan sambil bermain."
+      },
+      {
+        "q": "Apakah gratis, dan apakah saya perlu mendaftar?",
+        "a": "Ya, gratis, dan tidak perlu akun, pendaftaran, atau unduhan. Permainan ini berjalan di peramban web pada ponsel, tablet, atau komputer."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Puzzle gambar",
+    "seoTitle": "Puzzle Mudah untuk Demensia: 4 atau 9 Keping",
+    "h1": "Puzzle Gambar: Jigsaw yang Mudah",
+    "description": "Puzzle jigsaw online yang mudah untuk orang dengan demensia: 4 atau 9 keping besar, seluruh gambar tetap terlihat, dan ketuk dua keping untuk menukarnya.",
+    "short": "Ketuk dua keping untuk menukarnya sampai gambarnya utuh.",
+    "players": "1 atau 2 orang",
+    "intro": "Sebuah gambar yang ramah dipotong menjadi empat atau sembilan keping besar lalu diacak. Seluruh gambar tetap terlihat sebagai panduan. Ketuk satu keping, lalu keping lain, dan keduanya bertukar tempat. Tidak perlu menyeret.",
+    "howTo": [
+      "Pilih sebuah gambar dan 4 atau 9 keping. Empat keping adalah awal yang santai.",
+      "Lihat seluruh gambar di bagian atas.",
+      "Ketuk satu keping, lalu ketuk tempat yang seharusnya. Kedua keping bertukar tempat.",
+      "Keping yang sudah di tempatnya mendapat tanda centang kecil.",
+      "Setelah gambarnya utuh, nikmati bersama, lalu pilih gambar lain."
+    ],
+    "tips": [
+      "Bagi banyak orang, mengetuk dua keping untuk menukarnya jauh lebih mudah daripada menyeret.",
+      "Bicarakan gambarnya saat mulai tersusun: “Itu dia atapnya yang merah.”",
+      "Puzzle kayu sungguhan dengan 12 sampai 24 keping besar juga menjadi kegiatan meja yang menyenangkan."
+    ],
+    "faq": [
+      {
+        "q": "Apakah ada pengatur waktu atau skor?",
+        "a": "Tidak ada. Tidak ada jam, skor, penghitung langkah, atau kalah. Anda bisa berhenti kapan saja, dan berhenti di tengah jalan adalah cara yang sangat baik untuk selesai."
+      },
+      {
+        "q": "Apakah saya perlu menyeret kepingnya?",
+        "a": "Tidak. Ketuk satu keping, lalu ketuk keping lain, dan keduanya bertukar tempat. Cara ini lebih mudah bagi tangan yang gemetar atau di layar yang kecil."
+      },
+      {
+        "q": "Apakah gratis, dan apakah saya perlu mendaftar?",
+        "a": "Ya, gratis, dan tidak perlu akun, pendaftaran, atau unduhan. Permainan ini berjalan di peramban web pada ponsel, tablet, atau komputer."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Lengkapi peribahasa",
+    "seoTitle": "Lengkapi Peribahasa: Permainan untuk Lansia",
+    "h1": "Lengkapi Peribahasa",
+    "description": "Peribahasa Indonesia yang akrab dengan kata terakhir yang hilang, seperti “Sedikit demi sedikit, lama-lama menjadi ___”. Ketuk pilihan atau lihat akhirannya.",
+    "short": "Lengkapi peribahasa yang akrab bersama-sama, lalu bicarakan maknanya.",
+    "players": "1, 2 orang, atau kelompok",
+    "intro": "Peribahasa lama sering kali dikenal seumur hidup. Setiap kartu menampilkan peribahasa yang akrab dengan kata terakhir yang hilang, tiga pilihan, dan tombol “Lihat akhirannya”. Setelah akhirannya muncul, sebuah pertanyaan lembut mengajak mengobrol.",
+    "howTo": [
+      "Bacakan peribahasanya bersama-sama dengan suara keras.",
+      "Ketuk kata yang melengkapinya, atau ketuk “Lihat akhirannya”.",
+      "Bacakan lagi peribahasa lengkapnya dan mengobrollah dengan bantuan pertanyaan yang muncul.",
+      "Ketuk “Peribahasa berikutnya” jika Anda sudah siap."
+    ],
+    "tips": [
+      "Bacalah pelan-pelan dan beri jeda sebelum kata terakhir. Sering kali beliau sudah mengucapkannya sebelum Anda selesai.",
+      "Jika beliau memberi akhiran yang berbeda, nikmati saja. Beberapa peribahasa memang punya versi yang berbeda di tiap keluarga atau daerah.",
+      "Dalam kelompok, satu orang membacakan dan semua orang ikut mengucapkan akhirannya."
+    ],
+    "faq": [
+      {
+        "q": "Apakah ada pengatur waktu atau skor?",
+        "a": "Tidak ada. Tidak ada jam, skor, penghitung langkah, atau kalah. Anda bisa berhenti kapan saja, dan berhenti di tengah jalan adalah cara yang sangat baik untuk selesai."
+      },
+      {
+        "q": "Bagaimana jika kami memilih kata yang berbeda?",
+        "a": "Permainan menampilkan akhiran yang biasa dipakai lalu beralih ke obrolan. Tidak ada skor, dan jawaban yang berbeda pun tidak apa-apa."
+      },
+      {
+        "q": "Apakah gratis, dan apakah saya perlu mendaftar?",
+        "a": "Ya, gratis, dan tidak perlu akun, pendaftaran, atau unduhan. Permainan ini berjalan di peramban web pada ponsel, tablet, atau komputer."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Cari kata cetak besar",
+    "seoTitle": "Cari Kata Cetak Besar untuk Demensia, Bisa Dicetak",
+    "h1": "Cari Kata Cetak Besar",
+    "description": "Teka-teki cari kata cetak besar gratis untuk lansia dan orang dengan demensia. Sedikit kata, huruf besar, hanya mendatar dan menurun. Main online atau cetak.",
+    "short": "Huruf besar, sedikit kata, hanya mendatar dan menurun. Bisa juga dicetak.",
+    "players": "1 atau 2 orang",
+    "intro": "Kotak huruf kecil dengan huruf-huruf besar dan hanya beberapa kata, semuanya terbaca mendatar atau menurun. Ketuk huruf pertama sebuah kata, lalu huruf terakhirnya. Lebih suka di kertas? Cetak teka-teki baru dengan satu ketukan.",
+    "howTo": [
+      "Pilih tema dan ukuran kotak huruf.",
+      "Lihat daftar katanya. Kata terbaca mendatar (dari kiri ke kanan) atau menurun (dari atas ke bawah).",
+      "Ketuk huruf pertama sebuah kata, lalu ketuk huruf terakhirnya.",
+      "Kata yang ditemukan diberi warna sorotan dan dicoret dari daftar.",
+      "Ketuk “Cetak teka-teki ini” untuk bermain di kertas dengan pensil atau spidol."
+    ],
+    "tips": [
+      "Tunjuk satu kata di daftar dan cari huruf pertamanya bersama-sama.",
+      "Di kertas, stabilo lebih mudah digenggam daripada pensil.",
+      "Bicarakan kata-kata dalam tema. Nama-nama buah bisa membuka obrolan tentang memetik buah, membuat kue, atau pergi ke pasar."
+    ],
+    "faq": [
+      {
+        "q": "Apakah ada pengatur waktu atau skor?",
+        "a": "Tidak ada. Tidak ada jam, skor, penghitung langkah, atau kalah. Anda bisa berhenti kapan saja, dan berhenti di tengah jalan adalah cara yang sangat baik untuk selesai."
+      },
+      {
+        "q": "Bisakah saya mencetak teka-teki cari katanya?",
+        "a": "Bisa. Ketuk “Cetak teka-teki ini” untuk mencetak kotak huruf yang sedang tampil dalam huruf besar, dengan daftar kata di bawahnya. Setiap teka-teki baru selalu berbeda."
+      },
+      {
+        "q": "Apakah gratis, dan apakah saya perlu mendaftar?",
+        "a": "Ya, gratis, dan tidak perlu akun, pendaftaran, atau unduhan. Permainan ini berjalan di peramban web pada ponsel, tablet, atau komputer."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Halaman mewarnai",
+    "seoTitle": "Halaman Mewarnai untuk Lansia dengan Demensia",
+    "h1": "Halaman Mewarnai",
+    "description": "Halaman mewarnai sederhana untuk orang dewasa dengan bidang besar: ketuk warna, lalu gambarnya. Tidak berantakan, tak ada warna yang salah, bisa dicetak gratis.",
+    "short": "Ketuk sebuah warna, lalu bagian gambarnya. Halaman juga bisa dicetak.",
+    "players": "1 atau 2 orang",
+    "intro": "Halaman dengan bentuk-bentuk besar yang sederhana: bunga dalam pot, rumah, cangkir teh, kupu-kupu, dan perahu layar. Ketuk sebuah warna, lalu ketuk bagian gambar untuk mewarnainya. Tidak ada warna yang salah.",
+    "howTo": [
+      "Pilih sebuah halaman.",
+      "Ketuk sebuah warna. Setiap warna ada tulisan namanya.",
+      "Ketuk bagian gambar untuk mengisinya dengan warna itu.",
+      "Berubah pikiran? Isi saja lagi dengan warna lain kapan pun.",
+      "Ketuk “Cetak halaman ini” untuk mendapat halaman kosong yang bisa diwarnai dengan pensil warna atau spidol."
+    ],
+    "tips": [
+      "Tawarkan dua warna untuk dipilih, bukan seluruh warna, jika memilih terasa terlalu berat.",
+      "Pohon ungu dan matahari biru pun boleh saja. Yang penting menikmati warna, bukan ketepatan.",
+      "Halaman cetak cocok diwarnai dengan spidol tebal atau krayon, yang lebih mudah digenggam."
+    ],
+    "faq": [
+      {
+        "q": "Apakah ada pengatur waktu atau skor?",
+        "a": "Tidak ada. Tidak ada jam, skor, penghitung langkah, atau kalah. Anda bisa berhenti kapan saja, dan berhenti di tengah jalan adalah cara yang sangat baik untuk selesai."
+      },
+      {
+        "q": "Apakah halaman ini terlalu kekanak-kanakan?",
+        "a": "Kami menggambar benda-benda sederhana yang tenang, bukan kartun, sehingga halamannya pantas untuk orang dewasa. Bentuk yang besar membuat mewarnai tetap mudah tanpa terasa kekanak-kanakan."
+      },
+      {
+        "q": "Apakah gratis, dan apakah saya perlu mendaftar?",
+        "a": "Ya, gratis, dan tidak perlu akun, pendaftaran, atau unduhan. Permainan ini berjalan di peramban web pada ponsel, tablet, atau komputer."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Kartu obrolan",
+    "seoTitle": "Bahan Obrolan untuk Demensia: Kartu Bergambar",
+    "h1": "Kartu Obrolan",
+    "description": "Kartu bergambar berisi pembuka obrolan yang lembut untuk orang dengan demensia: tanpa menguji, tanpa jawaban benar. Pakai di layar atau cetak seluruh setnya.",
+    "short": "Kartu bergambar dengan pertanyaan terbuka yang lembut. Tanpa menguji.",
+    "players": "2 orang atau kelompok",
+    "intro": "Setiap kartu memadukan gambar yang akrab dengan ajakan terbuka untuk mengobrol, seperti “Cuaca seperti apa yang paling Anda sukai?” Tidak ada jawaban yang benar dan tidak ada yang perlu diingat. Pilih tema atau acak semuanya.",
+    "howTo": [
+      "Pilih tema, atau biarkan di “Semua kartu”.",
+      "Bacakan pertanyaannya dengan suara keras dan lihat gambarnya bersama-sama.",
+      "Dengarkan, ceritakan jawaban Anda sendiri, dan biarkan obrolan mengalir ke mana saja.",
+      "Ketuk “Kartu berikutnya” jika Anda siap, atau tetaplah di satu kartu selama yang Anda suka.",
+      "Ketuk “Cetak semua kartu” untuk menggunting satu set kartu kertas."
+    ],
+    "tips": [
+      "Jawab juga pertanyaannya sendiri. Dengan begitu rasanya seperti mengobrol, bukan wawancara.",
+      "Ikuti ceritanya, bukan faktanya. Jika detailnya berubah, tidak apa-apa.",
+      "Jika sebuah kartu menyentuh hal yang menyedihkan, akui perasaannya dan dengan lembut beralihlah ke kartu lain."
+    ],
+    "faq": [
+      {
+        "q": "Mengapa tidak ada pertanyaan “Masih ingat…?”",
+        "a": "Pertanyaan yang menguji ingatan bisa terasa seperti ujian dan menimbulkan rasa malu. Ajakan terbuka seperti “Ceritakan tentang…” memungkinkan siapa pun ikut serta, seberapa pun yang mereka ingat."
+      },
+      {
+        "q": "Bisakah saya mencetak kartunya?",
+        "a": "Bisa. “Cetak semua kartu” mencetak seluruh set dalam huruf besar, beberapa kartu per halaman, siap digunting."
+      },
+      {
+        "q": "Apakah gratis, dan apakah saya perlu mendaftar?",
+        "a": "Ya, gratis, dan tidak perlu akun, pendaftaran, atau unduhan. Permainan ini berjalan di peramban web pada ponsel, tablet, atau komputer."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Pasangan foto",
+    "seoTitle": "Buat Permainan Mencocokkan dari Foto Keluarga",
+    "h1": "Pasangan Foto: Cocokkan Foto Anda Sendiri",
+    "description": "Ubah foto keluarga Anda menjadi permainan mencocokkan yang lembut. Pilih 2 sampai 6 foto di perangkat Anda; foto tetap di peramban dan tidak pernah diunggah.",
+    "short": "Pilih foto Anda sendiri dan cocokkan. Tidak ada yang diunggah.",
+    "players": "2 orang, duduk berdampingan",
+    "intro": "Pilih dua sampai enam foto dari ponsel, tablet, atau komputer Anda, dan foto-foto itu menjadi permainan mencocokkan dengan gambar besar yang terlihat. Foto hanya ditampilkan di halaman ini. Foto tidak diunggah, disimpan, atau dibagikan, dan akan hilang saat Anda menutup halaman.",
+    "howTo": [
+      "Ketuk “Pilih foto” dan pilih dua sampai enam foto.",
+      "Setiap foto muncul dua kali. Ketuk satu, lalu ketuk pasangannya.",
+      "Bicarakan setiap foto saat Anda menemukannya.",
+      "Setelah selesai, tutup halaman atau ketuk “Hapus foto”. Tidak ada yang disimpan."
+    ],
+    "tips": [
+      "Pilih foto yang jelas tentang hal-hal yang menyenangkan dan akrab: hewan peliharaan, kebun, tempat favorit, hari pernikahan.",
+      "Foto tempat dan benda bisa lebih mudah daripada wajah, dan tidak menimbulkan tekanan untuk menyebutkan nama orang.",
+      "Jangan sertakan foto orang yang sudah meninggal jika mungkin memunculkan duka secara tiba-tiba, kecuali Anda tahu foto itu justru membawa ketenangan."
+    ],
+    "faq": [
+      {
+        "q": "Apakah foto saya diunggah ke suatu tempat?",
+        "a": "Tidak. Halaman ini membaca foto yang Anda pilih langsung di peramban dan menampilkannya di layar Anda. Foto tidak dikirim kepada kami atau kepada siapa pun, dan akan hilang saat Anda menutup atau memuat ulang halaman."
+      },
+      {
+        "q": "Apakah ada pengatur waktu atau skor?",
+        "a": "Tidak ada. Tidak ada jam, skor, penghitung langkah, atau kalah. Anda bisa berhenti kapan saja, dan berhenti di tengah jalan adalah cara yang sangat baik untuk selesai."
+      },
+      {
+        "q": "Bisakah saya menyimpan permainan untuk lain kali?",
+        "a": "Tidak di peramban, dan itu memang disengaja, agar tidak ada hal pribadi yang tersimpan. Aplikasi Golden Moments gratis untuk iPhone dan iPad dapat menyimpan salinan foto pilihan di perangkat Anda."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bingo gambar",
+    "seoTitle": "Bingo Gambar untuk Lansia dengan Demensia, Bisa Dicetak",
+    "h1": "Bingo Gambar untuk Kelompok",
+    "description": "Bingo gambar gratis yang bisa dicetak untuk kelompok lansia dan perawatan demensia, dengan pemanggil besar di layar. Gambar besar berlabel, 9 atau 16 kotak.",
+    "short": "Kartu bingo gambar yang bisa dicetak dan pemanggil layar besar untuk kelompok.",
+    "players": "Kelompok 2 sampai 30 orang",
+    "intro": "Bingo klasik dengan gambar sebagai pengganti angka, jadi tidak ada yang perlu membaca tulisan kecil. Cetak satu set kartu yang semuanya berbeda, lalu pakai pemanggil di layar untuk menampilkan setiap gambar dalam ukuran besar di TV, laptop, atau tablet.",
+    "howTo": [
+      "Pilih 9 atau 16 kotak per kartu dan jumlah pemain.",
+      "Ketuk “Cetak kartu”. Setiap kartu berbeda.",
+      "Buka pemanggil di layar besar. Ketuk “Gambar berikutnya” untuk menampilkan setiap gambar beserta namanya.",
+      "Pemain menutup gambar yang sama di kartunya dengan koin, kancing, atau penanda.",
+      "Setiap orang yang memenuhi satu baris, atau seluruh kartu, mendapat tepuk tangan. Dalam versi ini tidak ada yang kalah: teruskan bermain sampai semua orang mendapat satu baris."
+    ],
+    "tips": [
+      "Pakai penanda yang besar seperti biji dam atau tutup botol. Kancing kecil bisa sulit diambil.",
+      "Sebutkan nama gambarnya dan katakan sesuatu tentangnya: “Perahu layar. Siapa yang pernah naik perahu?”",
+      "Dudukkan peserta yang kurang jelas penglihatannya paling dekat dengan layar, dan pasangkan pendamping dengan pemain yang membutuhkannya.",
+      "Sembilan kotak sudah cukup untuk sebagian besar kelompok. Batasi sesi sekitar 20 sampai 30 menit."
+    ],
+    "faq": [
+      {
+        "q": "Bagaimana cara menyelenggarakan bingo gambar di panti werdha?",
+        "a": "Cetak satu kartu per pemain, tampilkan pemanggil di layar terbesar yang Anda punya, dan panggil gambar pelan-pelan sambil menyebutkan namanya. Bermainlah sampai semua orang mendapat satu baris, supaya tidak ada yang tertinggal."
+      },
+      {
+        "q": "Apakah gratis untuk dicetak?",
+        "a": "Ya. Cetak kartu sebanyak yang Anda perlukan, sesering yang Anda mau, untuk pemakaian pribadi maupun kelompok."
+      },
+      {
+        "q": "Bisakah dimainkan tanpa membaca?",
+        "a": "Bisa. Setiap kotak berisi gambar besar, dengan namanya di bawah bagi yang suka membaca kata."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Bernapas dengan tenang",
+    "seoTitle": "Jeda Bernapas Tenang untuk Lansia dan Pendamping",
+    "h1": "Jeda Bernapas dengan Tenang",
+    "description": "Jeda bernapas yang pelan untuk dilakukan bersama: lingkaran lembut membesar dan mengecil selama enam napas. Anda yang memulai dan bisa berhenti kapan saja.",
+    "short": "Lingkaran pelan untuk diikuti saat bernapas. Mulai dan berhenti sesuka Anda.",
+    "players": "1 atau 2 orang",
+    "intro": "Kadang kegiatan terbaik adalah jeda yang tenang. Ketuk “Mulai”, lalu tarik napas saat lingkaran membesar dan embuskan saat lingkaran mengecil. Pilih tempo yang lebih pelan atau lebih cepat. Ini bukan pengobatan, hanya momen damai untuk dinikmati bersama.",
+    "howTo": [
+      "Duduklah dengan nyaman berdampingan.",
+      "Pilih tempo: pelan atau santai.",
+      "Ketuk “Mulai”. Tarik napas saat lingkaran membesar, dan embuskan saat lingkaran mengecil.",
+      "Lingkaran berhenti sendiri setelah enam napas, atau ketuk “Berhenti” kapan pun Anda mau."
+    ],
+    "tips": [
+      "Bergandengan tangan atau letakkan tangan di lengan beliau jika itu disambut dengan baik.",
+      "Jangan pernah memaksa. Jika beliau lebih suka hanya melihat, tidak apa-apa.",
+      "Jika seseorang punya masalah pernapasan, bernapaslah seperti biasa dan cukup lihat lingkarannya. Tanyakan kepada dokter jika ada kekhawatiran soal pernapasan."
+    ],
+    "faq": [
+      {
+        "q": "Apakah ini latihan pernapasan medis?",
+        "a": "Bukan. Ini jeda sederhana yang opsional untuk ketenangan dan kebersamaan. Ini bukan pengobatan untuk kecemasan atau kondisi apa pun. Bicarakan dengan dokter tentang masalah kesehatan."
+      },
+      {
+        "q": "Apakah lingkarannya bergerak tanpa saya mulai?",
+        "a": "Tidak. Tidak ada yang bergerak sampai Anda mengetuk Mulai, dan lingkaran berhenti setelah enam napas atau saat Anda mengetuk Berhenti. Jika perangkat Anda diatur untuk mengurangi gerakan, kata-katanya berganti tanpa lingkaran yang membesar."
+      },
+      {
+        "q": "Apakah gratis, dan apakah saya perlu mendaftar?",
+        "a": "Ya, gratis, dan tidak perlu akun, pendaftaran, atau unduhan. Permainan ini berjalan di peramban web pada ponsel, tablet, atau komputer."
+      }
+    ]
+  }
+}

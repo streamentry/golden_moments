@@ -1,28 +1,36 @@
 ---
 import BrandMark from './BrandMark.astro';
 import { NAV } from '../lib/site';
-const path = Astro.url.pathname;
+import { localePath, splitLocale } from '../i18n/locales';
+import { ui } from '../i18n/ui';
+
+interface Props {
+  lang?: string;
+}
+const { lang = 'en' } = Astro.props;
+const t = ui(lang);
+const path = splitLocale(Astro.url.pathname).path;
 ---
 <header class="site-header">
   <div class="container site-header__inner">
-    <a class="brand" href="/" aria-label="Golden Moments home">
+    <a class="brand" href={localePath(lang, '/')} aria-label={t.common.homeLabel}>
       <BrandMark class="brand__mark" />
       <span class="brand__text">
-        <span class="brand__name">Golden Moments</span>
-        <span class="brand__tag">Dementia activities</span>
+        <span class="brand__name">{t.common.brandName}</span>
+        <span class="brand__tag">{t.common.brandTag}</span>
       </span>
     </a>
-    <nav class="site-nav" aria-label="Main">
+    <nav class="site-nav" aria-label={t.common.mainNav}>
       <ul>
         {
           NAV.map((item) => (
             <li>
               <a
-                href={item.href}
+                href={localePath(lang, item.href)}
                 aria-current={path === item.href ? 'page' : undefined}
                 data-active={path.startsWith(item.href) ? 'true' : undefined}
               >
-                {item.label}
+                {t.common.nav[item.key]}
               </a>
             </li>
           ))

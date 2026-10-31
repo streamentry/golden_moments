@@ -1,0 +1,532 @@
+{
+  "common": {
+    "skipLink": "Ana içeriğe geç",
+    "brandName": "Golden Moments",
+    "brandTag": "Demans etkinlikleri",
+    "homeLabel": "Golden Moments ana sayfa",
+    "mainNav": "Ana menü",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: bir çay fincanı, bir ayçiçeği ve bir köpeğin büyük, sevimli resimleri",
+    "languages": "Dil",
+    "englishOnly": "(İngilizce)",
+    "machineTranslated": "Bu sayfa otomatik olarak çevrildi ve henüz ana dili Türkçe olan biri tarafından kontrol edilmedi.",
+    "readOriginal": "İngilizce aslını okuyun",
+    "nav": {
+      "games": "Oyunlar",
+      "activities": "Etkinlikler",
+      "caregiving": "Bakım",
+      "brainHealth": "Beyin sağlığı"
+    },
+    "faqTitle": "Sorular ve cevaplar",
+    "breadcrumb": "Sayfa yolu",
+    "home": "Ana sayfa",
+    "lastUpdated": "Son güncelleme",
+    "topics": "Konular"
+  },
+  "footer": {
+    "play": "Oyna",
+    "picturePairs": "Resim eşleştirme",
+    "conversationCards": "Sohbet kartları",
+    "pictureBingo": "Resimli tombala",
+    "allGames": "Tüm oyunlar",
+    "activityIdeas": "Etkinlik fikirleri",
+    "ideas101": "101 etkinlik fikri",
+    "lateStage": "İleri evre etkinlikleri",
+    "printable": "Yazdırılabilir etkinlikler",
+    "allActivities": "Tüm etkinlikler",
+    "forCaregivers": "Bakım verenler için",
+    "playTogether": "Birlikte nasıl oynanır",
+    "selfCare": "Kendinize iyi bakmak",
+    "brainHealth": "Beyin sağlığı araştırmaları",
+    "faq": "Sorular ve cevaplar",
+    "about": "Hakkımızda",
+    "approach": "Yaklaşımımız",
+    "howWeWrite": "Nasıl yazıyoruz",
+    "organizations": "Kurumlar için",
+    "app": "Golden Moments uygulaması",
+    "appHelp": "Uygulama yardımı",
+    "support": "Destek",
+    "legal": "Yasal bilgiler",
+    "sitePrivacy": "Web sitesi gizliliği",
+    "appPrivacy": "Uygulama gizlilik politikası",
+    "privacyChoices": "Gizlilik tercihleri",
+    "terms": "Koşullar ve uygulama lisansı",
+    "safety": "Güvenlik ve kullanım amacı",
+    "accessibility": "Erişilebilirlik",
+    "healthNotice": "Sağlık bilgisi notu",
+    "allLegal": "Tüm yasal bilgiler",
+    "note": "Golden Moments, keyifli vakit geçirmek için basit, birlikte yapılan etkinlikler sunar. Tıbbi tavsiye, test ya da tedavi değildir; kimseye tanı koymaz, kimseyi ölçmez veya puanlamaz. Sağlıkla ilgili sorularınız için bir doktorla konuşun. Acil durumda 112'yi arayın.",
+    "publisher": "Yayıncı: Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Demans ve Alzheimer Oyunları, Etkinlikleri | Golden Moments",
+    "description": "Demansla veya Alzheimer ile yaşayan kişiler ve yakınları için ücretsiz, sakin resimli oyunlar ve etkinlik fikirleri. Üyelik, süre ya da puan yok.",
+    "eyebrow": "Ücretsiz · Üyelik yok · Süre ve puan yok",
+    "h1": "Demansla Yaşayan Kişiler İçin Sakin Oyunlar ve Etkinlikler",
+    "lede": "Basit resimli oyunlar, tanıdık fotoğraflar ve birlikte keyif alacağınız etkinlikler; hepsi kendi hızınızda.",
+    "playGame": "Bir oyun oynayın",
+    "findIdeas": "Etkinlik fikirleri bulun",
+    "facts": [
+      "Telefonda, tablette ve bilgisayarda çalışır",
+      "Büyük resimler hep açık kalır",
+      "İstediğiniz an bırakın; başarısız olunacak bir şey yok"
+    ],
+    "albumNote": "“İki çay fincanı resmi, yan yana.”",
+    "gamesEyebrow": "Tarayıcınızda oynayın",
+    "gamesTitle": "Hemen oynayabileceğiniz oyunlar",
+    "gamesLede": "Hepsi sakin, yetişkinlere uygun ve hızla başlar. Birini seçin, yan yana oturun ve sırayla dokunun.",
+    "seeAllGames": "{count} oyunun tümünü görün",
+    "howTitle": "Nasıl işler?",
+    "steps": [
+      {
+        "title": "Tanıdık bir şey seçin",
+        "text": "Çay fincanları, bahçeler, evcil hayvanlar ve yelkenli resimleri. Önceden okunacak ya da öğrenilecek bir kural yok."
+      },
+      {
+        "title": "Yan yana oturun",
+        "text": "Dokunmayı ona bırakın. Resimler hakkında sohbet edin. Eşleşmeyen bir resim sadece bir sonraki dokunuşu bekler."
+      },
+      {
+        "title": "Hâlâ keyifliyken bırakın",
+        "text": "Tek bir oyun başlı başına bir etkinliktir. “Şimdilik bu kadar” düğmesi her zaman ekrandadır."
+      }
+    ],
+    "stageEyebrow": "Ekranın ötesinde",
+    "stageTitle": "Her evre için etkinlik fikirleri",
+    "stageLede": "Müzik, gündelik işler, anılar üzerine sohbet ve sakin duyusal anlar; şu an rahat hissettiren neyse ona göre uyarlanmış.",
+    "ideas101": "101 etkinlik fikri",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Erken evre",
+        "text": "Sevdiği şeyleri küçük uyarlamalarla yapmaya devam etsin: hobiler, gezmeler, kelime oyunları ve birlikte plan yapmak.",
+        "label": "Erken evre için fikirler"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Orta evre",
+        "text": "Adımlara bölünmüş basit, tanıdık işler: çamaşır katlamak, eşya ayırmak, müzik, resimli oyunlar ve kısa yürüyüşler.",
+        "label": "Orta evre için fikirler"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "İleri evre",
+        "text": "Dokunma, ses ve görüntüyle rahatlık ve yakınlık: el bakımı, sevilen şarkılar, fotoğraflar ve birlikte olmak.",
+        "label": "İleri evre için fikirler"
+      }
+    ],
+    "specificHtml": "Belirli bir şey mi arıyorsunuz? <a href=\"/activities/alzheimers/\">Alzheimer için etkinlikler ve oyunlar</a>, <a href=\"/activities/memory-games/\">sakin hafıza oyunları</a>, <a href=\"/activities/trivia/\">kolay bilgi soruları</a> ya da <a href=\"/activities/puzzles/\">bulmacalar</a> sayfalarına göz atın.",
+    "approachEyebrow": "Yaklaşımımız",
+    "approachTitle": "Hafıza testi değil, birlikte yapılan bir etkinlik",
+    "approachLede": "Pek çok “beyin oyunu” hız, puan ve seriler üzerine kuruludur. Demansla yaşayan biri için bu bir sınav gibi gelebilir. Biz tam tersini yaptık.",
+    "approachLink": "Neden böyle tasarlıyoruz",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Başarısız olunacak bir şey yok",
+        "text": "Saat, puan, can ya da kaybetmek yok. Farklı bir resim hata değil, sadece kısa bir duraklamadır."
+      },
+      {
+        "icon": "eye",
+        "title": "Resimler açık kalır",
+        "text": "Hatırlamak yerine tanımak. Eşleştirme resimler açıkken başlar, yani akılda tutulacak bir şey yoktur."
+      },
+      {
+        "icon": "people",
+        "title": "Yetişkince ve saygılı",
+        "text": "Sıcak, sade sözcükler ve gerçek hayattan resimler. Asla çizgi film ya da çocuğa konuşur gibi bir dil yok."
+      },
+      {
+        "icon": "shield",
+        "title": "Baştan gizliliğe göre tasarlandı",
+        "text": "Hesap ya da reklam yok. Fotoğraflarınız cihazınızdan asla çıkmaz."
+      }
+    ],
+    "guidesEyebrow": "Bakım verenler için",
+    "guidesTitle": "Günlük bakım için pratik rehberler",
+    "allCaregiving": "Tüm bakım rehberleri",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Birlikte nasıl oyun oynanır",
+        "text": "Hazırlık, tempo ve oyun keyifli olmaktan çıktığında ne yapılabileceği."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Bir etkinliğe “hayır” dediğinde",
+        "text": "İstememenin sık görülen nedenleri ve daha sonra yeniden denemenin nazik yolları."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Tableti hazırlamak",
+        "text": "Daha büyük yazı, daha az bildirim ve tek, sade bir ana ekran."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Ücretsiz yazdırılabilir etkinlikler",
+        "text": "Büyük harfli kelime avları, boyama sayfaları, tombala ve sohbet kartları."
+      }
+    ],
+    "researchTitle": "Beyin sağlığı: Araştırmalar gerçekte ne diyor?",
+    "researchText": "Demans önlenebilir mi? Beyin oyunları işe yarar mı? Aralıklı oruç, beslenme, uyku ve işitme hakkında ne biliniyor? Kanıtın zayıf olduğu yerler de dahil, sade ve kaynak gösteren cevaplar.",
+    "researchLink": "Araştırma rehberlerini okuyun",
+    "appEyebrow": "Uygulama olarak da var",
+    "appTitle": "iPhone, iPad ve Android için Golden Moments",
+    "appText": "Ücretsiz uygulama internetsiz çalışır ve seçtiğiniz aile fotoğraflarını, cihazınızda saklanan kopyalar olarak kullanabilir. Aynı sakin tasarım: dört büyük kare, süre yok, puan yok.",
+    "aboutApp": "Uygulama hakkında",
+    "faq": [
+      {
+        "q": "Demansla yaşayan kişiler için hangi oyunlar uygundur?",
+        "a": "İyi oyunlar basit, tanıdık ve baskısızdır: eşleştirilecek büyük resimler, ayırma, kolay yapbozlar, bilinen atasözlerini tamamlama, boyama, resimli tombala ve sohbet kartları. En iyi seçim, kişinin bugün keyif aldığı oyundur. Süre, puan ve test gibi hissettiren her şeyden uzak durun."
+      },
+      {
+        "q": "Bu demans oyunları ücretsiz mi?",
+        "a": "Evet. Golden Moments'taki tüm oyunlar ve yazdırılabilir etkinlikler ücretsizdir; hesap, üyelik ya da indirme gerekmez. Oyunlar telefonda, tablette veya bilgisayarda web tarayıcısında çalışır."
+      },
+      {
+        "q": "Beyin oyunları demansı önler mi?",
+        "a": "Hiçbir oyunun demansı önlediği gösterilmemiştir ve Golden Moments hiçbir şeyi tedavi ettiğini ya da önlediğini iddia etmez. Oyunlarımız keyif ve birlikte geçirilen zaman içindir. Beyin sağlığı bölümümüz, araştırmaların neyi gösterip neyi göstermediğini anlatır."
+      },
+      {
+        "q": "Bu oyunlar Alzheimer hastalığı olan biri için uygun mu?",
+        "a": "Evet. Alzheimer hastalığı demansın en sık görülen nedenidir ve oyunlar bu düşünülerek hazırlandı: açık kalan büyük resimler, az seçenek ve hatırlanacak ya da yanlış yapılacak hiçbir şey yok. Eşleştirme, ayırma ve tanıdık atasözlerini tamamlama, yeni bir şey öğrenmekten çok uzun zamandır bilinenlere dayanır."
+      },
+      {
+        "q": "İleri evre demansı olan biri bu etkinlikleri yapabilir mi?",
+        "a": "Yanında biri olduğunda çoğu zaman evet. İki resimle “Aynısını bul”, dört kareyle “Resim eşleştirme”, bir boyama sayfası ya da sakin bir nefes molasıyla başlayın. Kısa tutun, onun isteğine göre ilerleyin ve yeterli olduğunda bırakın."
+      },
+      {
+        "q": "Bilgilerim gizli kalıyor mu?",
+        "a": "Sitede hesap ve reklam yoktur. Hangi sayfaların ziyaret edildiğini anlamak için Google Analytics kullanıyoruz. “Fotoğraf eşleştirme” için seçtiğiniz fotoğraflar yalnızca tarayıcınızda gösterilir ve asla yüklenmez."
+      },
+      {
+        "q": "Golden Moments'ı kim hazırlıyor?",
+        "a": "Golden Moments, aileler ve bakım verenler için web'de ve ücretsiz bir uygulama olarak sakin, yetişkinlere uygun resimli etkinlikler hazırlayan küçük bir ekiptir. Sağlık profesyoneli değiliz ve buradaki hiçbir şey tıbbi tavsiye değildir."
+      }
+    ]
+  },
+  "stage": {
+    "early": "erken",
+    "middle": "orta",
+    "late": "ileri",
+    "hintOne": "Genellikle {list} evreye uygundur",
+    "hintMany": "Genellikle {list} evrelere uygundur",
+    "labelEarly": "Erken evre",
+    "labelMiddle": "Orta evre",
+    "labelLate": "İleri evre"
+  },
+  "cards": {
+    "aboutGame": "Bu oyun hakkında",
+    "printable": "Yazdırılabilir",
+    "play": "Oyna: {name} →",
+    "readGuide": "Rehberi okuyun"
+  },
+  "playCta": {
+    "title": "Sakin bir oyuna ne dersiniz?",
+    "text": "Büyük resimler; süre, puan ya da üyelik yok. Tarayıcınızda birlikte oynayın.",
+    "play": "Bir oyun oynayın",
+    "all": "Tüm oyunları görün",
+    "aria": "Bir oyun oynayın"
+  },
+  "appCta": {
+    "title": "Bu oyunlar yanınızda olsun",
+    "text": "iPhone, iPad ve Android için ücretsiz Golden Moments uygulaması: büyük resimli kareler, kendi aile fotoğraflarınızla oyunlar ve Wi‑Fi olmadan çalışan resim paketleri. Hesap, reklam, süre ya da puan yok.",
+    "appStore": "App Store'dan indirin",
+    "googlePlay": "Google Play'den alın",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Uygulama hakkında",
+    "aria": "Uygulamayı edinin"
+  },
+  "sections": {
+    "activities": {
+      "label": "Etkinlikler",
+      "title": "Demansla Yaşayan Kişiler İçin Etkinlikler",
+      "seo": "Demans Etkinlikleri: Evrelere Göre Fikirler",
+      "description": "Demansla yaşayan kişiler için her evreye uygun etkinlik fikirleri: müzik, anılar, gündelik işler, duyusal anlar, el işleri, açık hava ve yazdırılabilirler.",
+      "lede": "Anlamlı bir etkinlik; rahatlık, bir amaç ya da kısa bir yakınlık anı getiren her şeydir. Kişinin her zaman sevdiği şeylerle başlayın ve bugüne uyarlayın."
+    },
+    "caregiving": {
+      "label": "Bakım",
+      "title": "Bakım Rehberleri",
+      "seo": "Demans Bakımı Rehberleri: Günlük Pratik Destek",
+      "description": "Demansı olan yakınına bakanlar için pratik, şefkatli rehberler: birlikte oyun, iletişim, istememe, akşam huzursuzluğu, tablet, uygulama seçimi ve öz bakım.",
+      "lede": "Demansla yaşayan birine bakmanın gündelik anları için sade, pratik yardım; kendinize bakmak da dahil."
+    },
+    "brain-health": {
+      "label": "Beyin sağlığı",
+      "title": "Beyin Sağlığı: Araştırmalar Ne Diyor?",
+      "seo": "Beyin Sağlığı ve Demans Riski: Araştırmalar Ne Diyor?",
+      "description": "Demans önlenebilir mi? Risk faktörleri, beyin oyunları, aralıklı oruç, beslenme, egzersiz, uyku, işitme ve erken belirtiler üzerine dürüst, kaynaklı rehberler.",
+      "lede": "Büyük çalışmaların demans riskini azaltma konusunda gerçekte ne gösterdiği; kanıtın zayıf ya da çelişkili olduğu yerler de dahil, sade bir dille. Genel bilgidir, tıbbi tavsiye değildir."
+    }
+  },
+  "guide": {
+    "updated": "Güncellendi",
+    "minuteRead": "Okuma süresi: {n} dakika",
+    "byTeam": "Golden Moments ekibi tarafından",
+    "howWeWrite": "Nasıl yazıyoruz",
+    "shortAnswer": "Kısa cevap",
+    "onThisPage": "Bu sayfada ({n} bölüm)",
+    "commonQuestions": "Sık sorulan sorular",
+    "sources": "Kaynaklar",
+    "sourcesNote": "Bu sayfanın dayandığı kuruluş ve çalışmalara bağlantı veriyoruz. Her biri, sayfa güncellenirken kontrol edildi.",
+    "tryTogether": "Birlikte deneyin",
+    "relatedGuides": "İlgili rehberler",
+    "related": "İlgili",
+    "startHere": "Buradan başlayın"
+  },
+  "healthNotice": {
+    "aria": "Sağlık bilgisi notu",
+    "title": "Genel bilgidir, tıbbi tavsiye değildir",
+    "textHtml": "Bu sayfa, yayımlanmış araştırmaları aileler için özetler. Belirli bir kişi için neyin doğru olduğunu söyleyemez. Beslenme, egzersiz, uyku, ilaç veya takviyelerde değişiklik yapmadan önce bir doktorla konuşun. Ani bilinç bulanıklığı ya da başka ani değişikliklerde hemen tıbbi yardım alın. <a href=\"/medical-disclaimer/\">Sağlık bilgisi notumuzu okuyun</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Hafıza Testi Değil, Birlikte Yapılan Bir Etkinlik",
+      "seoTitle": "Golden Moments Hakkında: Yaklaşımımız",
+      "description": "Golden Moments oyunlarında neden süre, puan ya da seri olmadığı, resimlerin neden açık kaldığı ve demans konusunda neyi iddia etmeyeceğimiz.",
+      "crumb": "Yaklaşımımız",
+      "lede": "Golden Moments, bir bakım veren ile demansla yaşayan birinin yan yana keyif alabileceği sakin, yetişkinlere uygun resimli etkinlikler hazırlar.",
+      "bodyHtml": "<h2>Neye inanıyoruz</h2><p>Bir etkinliğin amacı o anın kendisidir: bir sohbet, bir gülümseme, iki resmi bir araya getirmenin verdiği memnuniyet ya da sadece yan yana oturmak. Amaç kimseyi ölçmek, daha fazlasına zorlamak ya da bir şey kanıtlamak değildir.</p><p>Pek çok beyin egzersizi uygulaması hız, puan, seri ve seviyeler üzerine kuruludur. Demansla yaşayan biri için bu, geçemeyeceği bir sınav gibi gelebilir. Biz tam tersini tasarladık ve kendimize şu kuralları koyduk:</p><ul><li><strong>Başarısız olunacak bir şey yok.</strong> Hiçbir ekranda saat, puan, hamle sayacı, can, seri, konfeti ya da geri sayım yok.</li><li><strong>Hatırlamak yerine tanımak.</strong> Resimler varsayılan olarak açık kalır. Sorular sohbete davet eder; asla isim ya da anı sorgulamaz.</li><li><strong>Büyük, sade ve değişmeyen.</strong> Büyük yazı ve resimler, yüksek kontrast ve hep aynı yerde duran düğmeler.</li><li><strong>Yetişkin onuru.</strong> Gerçek hayattan resimler ve sade, sıcak sözcükler. Çizgi film, şarkılı övgü ya da emoji ödülü yok.</li><li><strong>Kolay bir çıkış.</strong> “Şimdilik bu kadar” her zaman görünür. Yarıda bırakmak da güzel bir sonuçtur.</li><li><strong>Varsayılan olarak gizli.</strong> Hesap ya da reklam yok. Seçtiğiniz fotoğraflar cihazınızda kalır.</li></ul><h2>Neyi iddia etmiyoruz</h2><p>Oyunlarımız keyif ve yakınlık içindir. Demansı ya da Alzheimer hastalığını teşhis etmez, test etmez, ölçmez, tedavi etmez, yavaşlatmaz veya önlemez; kimse onları bu amaçla seçmemelidir. <a href=\"/brain-health/\">Beyin sağlığı sayfalarımızda</a> araştırmalardan söz ederken kanıtın zayıf olduğu yerleri açıkça söyleriz ve bunları asla kendi oyunlarımızla ilişkilendirmeyiz.</p><h2>Biz kimiz</h2><p>Golden Moments küçük, bağımsız bir ekiptir. Sağlık profesyoneli değiliz. Rehberlerimiz National Institute on Aging ve Alzheimer’s Association gibi kuruluşların yayımladığı bilgilere dayanır ve her rehber kaynaklarını listeler. <a href=\"/editorial-policy/\">Sayfalarımızı nasıl yazıp kontrol ettiğimizi</a> okuyun.</p><h2>Neyin işe yarayacağını bize söyleyin</h2><p>Sizin için neyin işe yarayıp neyin yaramadığını duymak isteriz; özellikle demansla yaşayan kişilerden, aile bakım verenlerinden ve etkinlik çalışanlarından. E-posta: <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Sayfalarımızı Nasıl Yazıyor ve Kontrol Ediyoruz",
+      "seoTitle": "Yayın İlkelerimiz",
+      "description": "Golden Moments'ın demans etkinlikleri ve beyin sağlığı sayfalarını nasıl araştırıp yazdığı, kaynak gösterdiği ve güncellediği; asla yayımlamayacaklarımız.",
+      "crumb": "Yayın ilkeleri",
+      "bodyHtml": "<h2>Kaynaklarımız</h2><p>Rehberlerimizi National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance ve NHS gibi kuruluşların kamuya açık bilgilerine; ayrıca Cochrane derlemeleri ve büyük klinik çalışmalar gibi hakemli araştırmalara dayandırırız. Her rehber dayandığı kaynakları listeler. Bir kaynağı göstermeden önce onu açıp okuruz ve yalnızca gerçekten söylediğini aktarırız.</p><h2>Nasıl yazıyoruz</h2><ul><li>Önce pratik olan: bugün ne yapabileceğiniz, sade bir dille.</li><li>Kanıt konusunda dürüst: doğrusu buysa “ilişkili”, “olabilir” ve “kanıtlar çelişkili” deriz.</li><li>Saygılı: demansla yaşayan kişilerden yetişkin olarak söz ederiz; asla sınav yapan ya da utandıran bir dil kullanmayız.</li><li>Uydurma içerik yok: uydurma istatistik, alıntı, uzman, çalışma, yorum ya da kullanıcı görüşü yok.</li></ul><h2>Sayfalarımızı kim kontrol ediyor</h2><p>Sayfalar Golden Moments ekibi tarafından yazılır ve kontrol edilir; araştırma ve taslak için yapay zekâ yazı araçlarından yardım alınır. Her sayfa ekip tarafından kaynaklarıyla karşılaştırılır. Sayfalarımız bir doktor ya da başka bir sağlık profesyoneli tarafından <strong>incelenmemiştir</strong> ve aksini iddia etmiyoruz. Genel bilgidir, tıbbi tavsiye değildir.</p><h2>Asla yayımlamayacaklarımız</h2><ul><li>Bir oyunun, yiyeceğin, takviyenin, orucun ya da alışkanlığın demansı önlediği, tedavi ettiği, yavaşlattığı veya iyileştirdiği iddiaları.</li><li>Birinin demansı olduğunu ya da olmadığını ima eden testler, sınavlar veya puanlar.</li><li>Herhangi bir ilaca başlama, ilacı bırakma ya da değiştirme tavsiyesi.</li><li>Rehber kılığına sokulmuş reklam ya da sponsorlu içerik.</li></ul><h2>Güncellemeler ve düzeltmeler</h2><p>Her sayfa son güncellendiği tarihi gösterir. Bir hata ya da güncelliğini yitirmiş bir kaynak fark ederseniz lütfen <a href=\"mailto:{email}\">{email}</a> adresine yazın; hemen kontrol edelim.</p>"
+    },
+    "faq": {
+      "title": "Sorular ve Cevaplar",
+      "seoTitle": "Demans Oyunları ve Etkinlikleri: Sorular ve Cevaplar",
+      "description": "Demans oyunları ve etkinlikleri hakkında sık sorulan sorulara cevaplar: hangi oyunlar, ne kadar süre, ileri evre fikirleri, beyin sağlığı ve gizlilik.",
+      "crumb": "Sorular ve cevaplar",
+      "lede": "Bakım verenlerin en sık sorduğu sorulara kısa ve sade cevaplar.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Oyunlar hakkında",
+          "items": [
+            {
+              "q": "Demansla yaşayan biri için en iyi oyunlar hangileri?",
+              "a": "En iyi oyunlar tanıdık, basit ve baskısızdır; doğru oyun da kişinin bugün keyif aldığı oyundur. Açık resimlerle eşleştirme, ayırma, kolay yapbozlar, tanıdık atasözlerini tamamlama, boyama ve resimli tombala pek çok kişi için iyi işler. Süre, puan ve test gibi hissettiren her şeyden uzak durun."
+            },
+            {
+              "q": "Oyunlar gerçekten ücretsiz mi?",
+              "a": "Evet. Tüm oyunlar ve yazdırılabilir etkinlikler ücretsizdir; hesap, üyelik, indirme ya da reklam yoktur."
+            },
+            {
+              "q": "Neden puan, seviye ya da süre yok?",
+              "a": "Hız ve puan, keyifli bir etkinliği sınava çevirir; bu da mahcubiyet ya da hayal kırıklığı yaratabilir. Odağı keyifte ve birlikte geçirilen zamanda tutuyoruz; böylece başarısız olunacak bir şey olmaz ve istediğiniz an bırakabilirsiniz."
+            },
+            {
+              "q": "Hangi cihazlar en iyi sonucu verir?",
+              "a": "Güncel bir web tarayıcısı olan her telefon, tablet ya da bilgisayar. Masada bir stand üzerindeki tablet, iki kişinin yan yana oynaması için çoğu zaman en rahat yoldur. Gruplar için televizyona bağlı bir dizüstü bilgisayar iyi işler."
+            },
+            {
+              "q": "Kendi aile fotoğraflarımızla oynayabilir miyiz?",
+              "a": "Evet. “Fotoğraf eşleştirme”, seçtiğiniz 2 ila 6 fotoğrafı bir eşleştirme oyununa dönüştürür. Fotoğraflar tarayıcınızda kalır; yüklenmez ve kaydedilmez."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Etkinlikler ve bakım",
+          "items": [
+            {
+              "q": "Bir etkinlik ne kadar sürmeli?",
+              "a": "Çoğu zaman 10 ila 20 dakika yeterlidir, bazen 2 dakika bile güzel bir sonuçtur. Yorgunluk ya da bıkkınlık işaretlerine dikkat edin ve hâlâ keyifliyken bırakın. Doğru bir süre yoktur."
+            },
+            {
+              "q": "Bir etkinliği yapmak istemezse ne yapmalı?",
+              "a": "“Hayır”ına saygı gösterin; daha sonra ya da başka bir şekilde yeniden deneyin. İstememenin nedeni yorgunluk, ağrı, kendinden emin olamamak ya da sadece ilgi duymamak olabilir. “Hayır” dediğinde neler yapılabileceğini anlatan rehberimize göz atın."
+            },
+            {
+              "q": "İleri evre demansta hangi etkinlikler uygundur?",
+              "a": "Rahatlık ve duyular: sevdiği müziği dinlemek, losyonla el masajı, birlikte fotoğraflara bakmak, yumuşak bir battaniyeye dokunmak, dışarıda oturmak ya da yanında biriyle çok basit bir resimli oyun. İleri evre rehberimizde çok daha fazla fikir var."
+            },
+            {
+              "q": "Huzurevlerindeki gruplar için etkinlikler var mı?",
+              "a": "Evet. “Resimli tombala”nın yazdırılabilir kartları ve ekranda resim çeken bir bölümü var; “Atasözünü tamamla” ile “Sohbet kartları” da sesli okunduğunda iyi işler. Huzurevi grupları rehberimiz grup büyüklüğünü, oturma düzenini ve farklı becerilere göre uyarlamayı anlatır."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Beyin sağlığı",
+          "items": [
+            {
+              "q": "Oyunlar demansı önleyebilir ya da yavaşlatabilir mi?",
+              "a": "Hiçbir oyunun demansı önlediği gösterilmemiştir ve oyunlarımız böyle bir iddiada bulunmaz. Sosyal bir ortamda yapılan bilişsel uyarım, araştırmalarda hafif ve orta düzey demansı olan kişiler için küçük yararlar göstermiştir; ancak bu, bir oyunun hastalığı önlemesinden farklıdır. Oyunlarımızı keyif ve yakınlık için sunuyoruz."
+            },
+            {
+              "q": "Demans önlenebilir mi?",
+              "a": "Kesin olarak değil. Araştırmalar, işitme kaybı, yüksek tansiyon, hareketsizlik ve sosyal yalnızlık gibi 14 sağlık ve yaşam tarzı etkenini demans riskiyle ilişkilendiriyor. Bunlarla ilgilenmek bazı kişilerde riski azaltabilir, ancak her şeyi doğru yapan pek çok kişide de demans gelişebilir. Bu asla kimsenin suçu değildir."
+            },
+            {
+              "q": "Aralıklı oruç beyin sağlığı için iyi mi?",
+              "a": "İnsanlarla ilgili kanıtlar sınırlı ve henüz erken aşamada; araştırmaların çoğu hayvanlarda yapıldı. Oruç, yaşlılar için riskli olabilir; özellikle diyabet ilacı kullananlarda ya da istemeden kilo kaybı olduğunda. Demansla yaşayan kişilere önerilmez. Beslenme düzeninizi değiştirmeden önce bir doktorla konuşun."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Gizlilik ve güvenlik",
+          "items": [
+            {
+              "q": "Herhangi bir bilgi topluyor musunuz?",
+              "a": "Hesap ya da reklam yok. Ziyaretleri saymak ve hangi sayfaların işe yaradığını görmek için Google Analytics kullanıyoruz; tarayıcınız da yumuşak sesleri açıp açmadığınızı hatırlar. “Fotoğraf eşleştirme” için seçtiğiniz fotoğraflar asla yüklenmez. Ayrıntılar için gizlilik bildirimine bakın."
+            },
+            {
+              "q": "Bu tıbbi tavsiye mi?",
+              "a": "Hayır. Golden Moments eğlence ve genel bilgi içindir. Sağlıkla ilgili sorularınız için bir doktorla konuşun; acil durumlarda 112'yi arayın."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Daha fazla ayrıntı: <a href=\"/caregiving/how-to-play-together/\">birlikte nasıl oynanır</a>, <a href=\"/caregiving/when-they-say-no/\">“hayır” dediğinde</a>, <a href=\"/activities/late-stage/\">ileri evre etkinlikleri</a> ve <a href=\"/brain-health/can-dementia-be-prevented/\">demans önlenebilir mi?</a>"
+    },
+    "handout": {
+      "title": "Demansla Yaşayan Kişiler İçin Ücretsiz, Sakin Oyunlar",
+      "seoTitle": "Yazdırılabilir Broşür: Ücretsiz Online Demans Oyunları",
+      "description": "Demansla yaşayan kişiler için ücretsiz, sakin resimli oyunları aileler ve bakım verenlere tanıtan tek sayfalık yazdırılabilir broşür; destek grupları için.",
+      "crumb": "Yazdırılabilir broşür",
+      "lede": "Bu sayfayı bir destek grubu, bakım paketi ya da buzdolabı kapağı için yazdırın. Tarayıcınızın Yazdır komutunu kullanın; menüler ve düğmeler çıktıda yer almaz.",
+      "introHtml": "<p>Büyük resimler, sade sözcükler ve başarısız olunacak hiçbir şey yok. Telefonda, tablette ya da bilgisayarda ücretsiz; üyelik, reklam, süre ve puan yok. Yan yana oturun ve sırayla oynayın.</p>",
+      "gamesTitle": "Birlikte deneyebileceğiniz oyunlar",
+      "restHtml": "<h2>Birkaç ipucu</h2><ul><li>Kişinin en iyi hissettiği bir saati seçin.</li><li>En kolay ayarla başlayın. Dört kare yeterlidir.</li><li>Resimler hakkında konuşun. Çoğu zaman en güzel kısım sohbettir.</li><li>Hâlâ keyifliyken bırakın. Erken bitirmek de güzel bir sonuçtur.</li></ul><h2>Sitede ayrıca</h2><ul><li>Ücretsiz yazdırılabilirler: büyük harfli kelime avı, boyama sayfaları, sohbet kartları ve resimli tombala.</li><li>Her evre için etkinlik fikirleri; birlikte oynamak ve kendinize bakmak üzerine rehberler.</li></ul><p class=\"muted\">Keyif ve birlikte geçirilen zaman içindir. Tıbbi tavsiye, test ya da tedavi değildir. Golden Moments'ın yayıncısı Cloudjet Solutions Pte. Ltd.'dir.</p>"
+    },
+    "organizations": {
+      "title": "Huzurevleri, Kütüphaneler ve Destek Grupları İçin",
+      "seoTitle": "Huzurevleri ve Gruplar İçin Ücretsiz Demans Etkinlikleri",
+      "description": "Huzurevleri, gündüz bakım merkezleri, kütüphaneler, yaşlı hizmetleri ve destek gruplarının ücretsiz demans oyunlarımızı nasıl kullandığı ve tanıtım metinleri.",
+      "crumb": "Kurumlar için",
+      "lede": "Bu sitedeki her şeyi sakinler, üyeler ve danışanlarla ücretsiz kullanabilirsiniz; hesap, lisans ya da ücret gerekmez. Bu sayfa neler bulunduğunu ve nasıl paylaşılacağını anlatır.",
+      "shortText": "{name}: demansla yaşayan kişiler ve yakınları için ücretsiz, sakin resimli oyunlar ve etkinlik rehberleri. Üyelik yok, süre yok, puan yok.",
+      "longText": "{name} ({domain}), demansla yaşayan kişiler için hazırlanmış {count} ücretsiz tarayıcı oyunu sunar: resimlerin açık kaldığı eşleştirme, kolay bir yapboz, ayırma, tanıdık atasözleri ve yazdırılabilir kartlarla resimli tombala bunlardan bazılarıdır. Hesap, reklam, süre ya da puan yoktur. Sitede ayrıca demansın her evresi için, National Institute on Aging ve Alzheimer's Association kaynaklarına dayanan sade dilli etkinlik rehberleri bulunur.",
+      "useTitle": "Kurumların kullanabilecekleri",
+      "gamesItemHtml": "<strong>{count} tarayıcı oyunu</strong>; dizüstü bilgisayarda, tablette ya da bilgisayara bağlı bir televizyonda çalışır. Kurulum, hesap ya da indirme gerekmez. <a href=\"/games/\">Tüm oyunlara</a> göz atın.",
+      "printablesLabel": "Yazdırılabilir materyaller ({count}):",
+      "printablesAfter": "Her sayfadaki Yazdır düğmesini kullanın.",
+      "moreItemsHtml": "<li><strong>Grup etkinlikleri:</strong> <a href=\"/games/picture-bingo/\">Resimli tombala</a>nın yazdırılabilir kartları ve ekranda resim çeken bir bölümü var; <a href=\"/activities/trivia/\">kolay bilgi soruları</a> sayfasında ise cevap seçenekleri ve sohbet konularıyla 50 soru bulunur.</li><li><strong>Etkinlik rehberleri</strong>: çalışanlar ve aileler için, evreye ve türe göre, sade bir dille ve kaynaklarıyla yazıldı. <a href=\"/activities/ideas/\">101 etkinlik fikri</a> ya da <a href=\"/activities/care-home-groups/\">huzurevleri için grup etkinlikleri</a> ile başlayın.</li>",
+      "restHtml": "<h2>Gruplar nasıl kullanıyor</h2><ul><li><strong>Huzurevleri ve bakım merkezleri:</strong> ortak salondaki televizyonda resimli tombala ya da atasözü tamamlama; bir kişi grup adına dokunur.</li><li><strong>Gündüz bakım merkezleri:</strong> kısa, birebir oturumlar için “Resim eşleştirme”nin dört kareye ayarlandığı bir tablet köşesi.</li><li><strong>Halk kütüphaneleri:</strong> hafıza kutularında basılı kelime avları ve sohbet kartları; kütüphane tabletlerinde siteye yer imi.</li><li><strong>Bakım veren destek grupları ve Alzheimer kafeler:</strong> ailelerin eve götürebileceği <a href=\"/handout/\">tek sayfalık yazdırılabilir broşür</a>.</li><li><strong>Hastaneler ve taburcu planlama ekipleri:</strong> evde ya da yatak başında sakin bir uğraş için bakım veren paketlerinde broşür.</li></ul><h2>Ne yapmıyoruz</h2><p>Oyunlar keyif ve birlikte geçirilen zaman içindir. Demansı teşhis etmez, test etmez, puanlamaz, tedavi etmez ya da yavaşlatmaz; kurumlardan da onları bu şekilde tanıtmamalarını rica ediyoruz. Reklam yoktur ve oyunlar isim, sağlık bilgisi ya da fotoğraf yüklenmesini istemez. Web sitesi ziyaretleri saymak için Google Analytics kullanır; bunun neler topladığını <a href=\"/privacy/\">gizlilik bildirimimiz</a> açıklar. <a href=\"/games/photo-pairs/\">Fotoğraf eşleştirme</a> oyununda kullanılan fotoğraflar tarayıcıda kalır.</p><h2>Bizi kaynak listenize ekleyin</h2><p>Bakım verenler için bir kaynak listesi tutuyorsanız <a href=\"/\">{domain}</a> adresine bağlantı verebilirsiniz. İki tanıtım metninden birini kopyalayabilirsiniz.</p>",
+      "shortTitle": "Kısa tanıtım",
+      "longTitle": "Uzun tanıtım",
+      "linksHtml": "<p>Doğrudan bağlantı verebileceğiniz yararlı sayfalar: <a href=\"/games/\">ücretsiz oyunlar</a>, <a href=\"/activities/printable/\">ücretsiz yazdırılabilirler</a>, <a href=\"/activities/alzheimers/\">Alzheimer için etkinlikler</a> ve <a href=\"/caregiving/how-to-play-together/\">birlikte nasıl oynanır</a>.</p><h2>Sorular veya düzeltmeler</h2><p>Sitede yanlış ya da anlaşılmayan bir şey varsa ya da bir sakinin ihtiyaçları buradakilerle karşılanmıyorsa lütfen <a href=\"mailto:{email}\">{email}</a> adresinden bize yazın. Lütfen sakinler veya danışanlar hakkında kişisel ya da sağlık bilgisi göndermeyin.</p>"
+    },
+    "app": {
+      "title": "Golden Moments Uygulaması",
+      "seoTitle": "iPhone ve Android İçin Golden Moments Uygulaması",
+      "description": "Ücretsiz Golden Moments uygulaması: dört büyük kareyle sakin fotoğraf eşleştirme, cihazda kalan aile fotoğrafları, internetsiz resim paketleri, hesap yok.",
+      "crumb": "Uygulama",
+      "lede": "Web sitesinde sevdiğiniz her şey; internetsiz çalışan ve seçtiğiniz aile fotoğraflarını kullanabilen bir uygulamada.",
+      "worksOn": "Desteklenen cihazlar: {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Küçük başlayın</h2><p>Dört büyük kare ve tanıdık resimlerle başlayın. Resimleri açık tutun ya da rahat hissettiğinizde gizleyin. Nazik modda süre, puan ya da ceza yoktur. 4, 6, 8 veya 12 kare seçebilirsiniz.</p><h2>Kişisel hale getirin</h2><p>Aile fotoğraflarını cihazınızın fotoğraf seçicisiyle seçin. Uygulama, etkinlikleri için daha küçük kopyalar kaydeder. Fotoğraf arşivinizi taramaz, orijinal fotoğraflarınızı değiştirmez ve bir koleksiyonda en fazla 24 fotoğraf tutar.</p><h2>Sadece birlikte bakın</h2><p>Her seferinde bir resme bakın. İsteğe bağlı sorular, kimseden isim hatırlamasını ya da doğru cevap vermesini istemeden sohbete davet eder. Sadece bakmak da yeterlidir.</p><h2>Gereken yerde internetsiz</h2><p>Başlangıç resimleri ve sekiz resim paketinin tamamı uygulamayla birlikte gelir. İçe aktarılan fotoğraf kopyaları internetsiz çalışır. Yalnızca iCloud'da saklanan orijinalleri seçmek internet bağlantısı gerektirebilir.</p><h2>Hesap yok, fotoğraf eşitleme sunucusu yok</h2><p>Aile fotoğrafı kopyaları cihazdaki uygulamada kalır. Orijinalleri silmeden kopyaları kaldırabilirsiniz. Cihaz yedeklemeleri uygulama verilerini içerebilir. <a href=\"/app-privacy/\">Uygulama gizlilik politikasını</a> okuyun; <a href=\"/help/\">uygulama yardımı</a> her adımı tek tek anlatır.</p>",
+      "disclaimer": "Golden Moments eğlence ve birlikte sohbet içindir. Demansı ya da Alzheimer hastalığını teşhis etmez, tedavi etmez, önlemez veya ölçmez.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Yaşlılar İçin Ücretsiz Demans ve Alzheimer Oyunları",
+    "description": "Demansla ya da Alzheimer ile yaşayan yaşlılar için ücretsiz online oyunlar: resim eşleştirme, kolay yapboz, ayırma, atasözleri, boyama, tombala. Süre, puan yok.",
+    "crumb": "Oyunlar",
+    "h1": "Demansla Yaşayan Kişiler İçin Sakin Oyunlar",
+    "lede": "Tarayıcınızda birlikte oynayabileceğiniz {count} ücretsiz oyun. Büyük resimler, sade sözcükler ve başarısız olunacak hiçbir şey yok: süre yok, puan yok, üyelik yok.",
+    "listName": "Demansla yaşayan kişiler için sakin oyunlar",
+    "byStageTitle": "Evreye göre oyun seçmek",
+    "byStageLede": "Evreler yalnızca kabaca bir yol göstericidir. Kişinin keyif aldığı ve bugün rahat hissettiği şeye göre hareket edin.",
+    "stageCol": "Evre",
+    "gamesCol": "Genellikle uygun oyunlar",
+    "moreHtml": "Ekran dışında daha fazla fikir: <a href=\"/activities/ideas/\">demansla yaşayan kişiler için 101 etkinlik</a>, <a href=\"/activities/alzheimers/\">Alzheimer için etkinlikler ve oyunlar</a>, <a href=\"/activities/memory-games/\">sakin hafıza oyunları</a> ve <a href=\"/activities/puzzles/\">bulmacalar</a>.",
+    "faq": [
+      {
+        "q": "Hangi oyunla başlamalıyız?",
+        "a": "Dört kareyle “Resim eşleştirme” sakin bir ilk seçimdir. Resimler arasında seçim yapmak fazla geliyorsa iki resimle “Aynısını bul”u deneyin. Bir grup için “Resimli tombala”yı deneyin."
+      },
+      {
+        "q": "Oyunlar iPad'de ya da telefonda çalışıyor mu?",
+        "a": "Evet. Her oyun telefonlarda, tabletlerde ve bilgisayarlarda tarayıcıda çalışır; resimler ekranı dolduracak şekilde büyür. İki kişi için çoğu zaman en rahatı bir stand üzerindeki tablettir."
+      },
+      {
+        "q": "Bu oyunlar Alzheimer hastalığı olan biri için uygun mu?",
+        "a": "Evet. Oyunlar, demansın en sık görülen nedeni olan Alzheimer dahil, demansla yaşayan kişiler için hazırlandı. Resimler açık kalır, yalnızca birkaç seçenek vardır ve hiçbir şey süreyle ya da puanla ölçülmez; böylece oyunlar yeni şeyleri hatırlamaktan çok tanıdık şeyleri tanımaya dayanır."
+      },
+      {
+        "q": "Bunlar yaşlılar için hafıza oyunları mı?",
+        "a": "Her yaşlı yetişkinin keyif alabileceği eşleştirme ve resim oyunlarıdır, ama hafızayı sınamamak üzere tasarlandılar: “Resim eşleştirme”de siz başka türlü seçmedikçe resimler açık kalır. Demansla yaşayan yaşlılar için hafıza oyunları rehberimiz, her hafıza oyununu nasıl sakin tutabileceğinizi anlatır."
+      },
+      {
+        "q": "Huzurevlerindeki gruplar için oyunlar var mı?",
+        "a": "Evet. “Resimli tombala”nın yazdırılabilir kartları ve ekranda resim çeken bir bölümü var; “Atasözünü tamamla” ve “Sohbet kartları” da bir gruba sesli okunduğunda iyi işler."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad ve Android",
+    "requirements": "iOS 15 veya üzeri; Android 7.0 veya üzeri",
+    "summary": "iPhone, iPad ve Android için ücretsiz bir uygulama: dört ila on iki büyük karede sakin resim eşleştirme, seçtiğiniz aile fotoğraflarıyla eşleştirme ve birlikte bakma, internetsiz çalışan sekiz hazır resim paketi. Hesap, reklam, süre ya da puan yok.",
+    "features": [
+      "4, 6, 8 veya 12 büyük kareyle sakin resim eşleştirme; siz gizlemeyi seçmedikçe resimler açık kalır",
+      "Seçtiğiniz aile fotoğrafları, eşleştirme ve birlikte bakmak için uygulamaya kopyalanır",
+      "Birlikte bakın: her seferinde bir resim, isteğe bağlı sohbet sorularıyla",
+      "Uygulamayla gelen sekiz resim paketi; internetsiz çalışır",
+      "Hesap, reklam, uygulama içi satın alma, süre, puan ya da ceza yok"
+    ],
+    "faq": [
+      {
+        "q": "Demans etkinlikleri için bir uygulama var mı?",
+        "a": "Evet. Golden Moments (mağazada “{storeName}” adıyla yer alır) App Store ve Google Play'de ücretsizdir. Büyük karelerle sakin resim eşleştirme, seçtiğiniz aile fotoğraflarıyla oyunlar ve internetsiz çalışan resim paketleri sunar."
+      },
+      {
+        "q": "Golden Moments uygulaması ücretsiz mi?",
+        "a": "Evet. İndirmesi ücretsizdir; reklam, hesap ya da uygulama içi satın alma yoktur."
+      },
+      {
+        "q": "Uygulama internetsiz çalışır mı?",
+        "a": "Evet. Başlangıç resimleri ve sekiz resim paketinin tamamı uygulamayla birlikte gelir; aile fotoğrafları da uygulamaya kopyalandıktan sonra internetsiz çalışır. Yalnızca iCloud'da saklanan bir fotoğrafı seçmek bağlantı gerektirebilir."
+      },
+      {
+        "q": "Kendi aile fotoğraflarımızı kullanabilir miyim?",
+        "a": "Evet. Fotoğrafları cihazınızın fotoğraf seçicisiyle seçin. Uygulama, etkinlikleri için cihazda daha küçük kopyalar tutar; bunları yüklemez ve orijinalleri asla değiştirmez. Kopyaları istediğiniz zaman kaldırabilirsiniz."
+      },
+      {
+        "q": "Bu bir beyin egzersizi ya da hafıza testi uygulaması mı?",
+        "a": "Hayır. Golden Moments keyif ve birlikte geçirilen zaman içindir. Puan ya da test yoktur; demansı veya Alzheimer hastalığını teşhis etmez, tedavi etmez, önlemez ya da ölçmez."
+      },
+      {
+        "q": "Hangi cihazlarda çalışır?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Bu oyunun uygulama sürümü var mı?",
+      "a": "Evet. iPhone, iPad ve Android için ücretsiz Golden Moments uygulamasında aynı sakin resim eşleştirme var; seçtiğiniz aile fotoğraflarını kullanabilir ve internetsiz çalışır. Hesap, reklam ya da puan yok."
+    },
+    "gameFaqNo": {
+      "q": "Bu oyunun uygulama sürümü var mı?",
+      "a": "Bu oyunun yok. iPhone, iPad ve Android için ücretsiz Golden Moments uygulamasında büyük karelerle ve seçtiğiniz aile fotoğraflarıyla sakin resim eşleştirme var ve internetsiz çalışır. Bu oyun ise burada, tarayıcınızda ücretsiz kalmaya devam ediyor."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: büyük, sevimli resimler",
+    "noscript": "Bu oyun için tarayıcınızda JavaScript'in açık olması gerekir. Aşağıdaki ipuçları JavaScript olmadan da işe yarar.",
+    "about": "{name} hakkında",
+    "aboutAria": "Bu oyun hakkında",
+    "noTimer": "Süre ve puan yok",
+    "printable": "Yazdırılabilir",
+    "howTo": "Nasıl oynanır: {name}",
+    "tips": "Birlikte oynamak için ipuçları",
+    "newToPlayingHtml": "Demansla yaşayan biriyle oyun oynamaya yeni mi başlıyorsunuz? İlgisini kaybederse ne yapılabileceği de dahil, <a href=\"/caregiving/how-to-play-together/\">birlikte nasıl oyun oynanır</a> rehberimizi okuyun.",
+    "moreAria": "Keşfedilecek daha fazlası",
+    "helpfulGuides": "Yararlı rehberler",
+    "appTitle": "Uygulamada oynayın",
+    "appText": "Ücretsiz Golden Moments uygulamasında büyük karelerle ve kendi aile fotoğraflarınızla sakin resim eşleştirme var; Wi‑Fi olmadan da çalışır. iPhone, iPad ve Android.",
+    "photoAppTitle": "Fotoğraflarınız hazır dursun",
+    "photoAppText": "Ücretsiz Golden Moments uygulamasında seçtiğiniz fotoğraflar bir dahaki sefere cihazınızda hazır bekler ve oyunlar Wi‑Fi olmadan çalışır. iPhone, iPad ve Android.",
+    "goodToKnow": "Bilmekte fayda var",
+    "goodToKnowText": "Bu oyun keyif ve birlikte geçirilen zaman içindir. Hiçbir şeyi test etmez, ölçmez ya da tedavi etmez.",
+    "moreGames": "Daha fazla sakin oyun",
+    "crumb": "Oyunlar"
+  }
+}

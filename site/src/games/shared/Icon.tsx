@@ -18,6 +18,7 @@ export function Icon({ name, size = 24 }: IconProps) {
       strokeLinejoin="round"
       aria-hidden="true"
       focusable="false"
+      data-icon={name}
       dangerouslySetInnerHTML={{ __html: ICONS[name] }}
     />
   );

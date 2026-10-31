@@ -1,0 +1,36 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../lib/site';
+import { localizeHtml } from '../i18n/locales';
+import { PUBLISHED, fill, ui } from '../i18n/ui';
+import { GAME_BY_SLUG } from '../data/games';
+import { localizeGame } from '../i18n/games';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const p = ui(lang).pages.handout;
+const picks = ['picture-pairs', 'find-the-same', 'finish-the-saying', 'picture-puzzle', 'conversation-cards', 'coloring']
+  .map((s) => GAME_BY_SLUG.get(s as Parameters<typeof GAME_BY_SLUG.get>[0]))
+  .filter((g) => g !== undefined)
+  .map((g) => localizeGame(g, lang));
+---
+<PageLayout title={p.title} seoTitle={p.seoTitle} description={p.description} path="/handout/" crumb={p.crumb} lede={p.lede} lang={lang} available={PUBLISHED.map((l) => l.code)}>
+  <p class="handout-url">{SITE.domain}</p>
+  <Fragment set:html={localizeHtml(lang, p.introHtml)} />
+  <h2>{p.gamesTitle}</h2>
+  <ul>
+    {picks.map((g) => <li><strong>{g.name}.</strong> {g.short}</li>)}
+  </ul>
+  <Fragment set:html={localizeHtml(lang, p.restHtml)} />
+</PageLayout>
+
+<style>
+  .handout-url {
+    margin-block: var(--space-md);
+    font-size: var(--text-h2);
+    font-weight: 700;
+    color: var(--gm-on-surface);
+  }
+</style>

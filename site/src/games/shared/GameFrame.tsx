@@ -1,9 +1,13 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react';
+import type { PlayUi } from '../../i18n/play';
+import { localePath } from '../../i18n/locales';
 import { analyticsAvailable, once, track, trackPrint, type FeedbackAnswer } from '../../lib/track';
 import { Icon } from './Icon';
 import { hydrateSettings, settingsStore, useSound } from './settings';
 
 interface GameFrameProps {
+  ui: PlayUi;
+  lang: string;
   /** One plain sentence of guidance, always visible. */
   guidance: string;
   /** Polite live message after each turn. */
@@ -15,7 +19,7 @@ interface GameFrameProps {
   restartLabel?: string;
 }
 
-export function GameFrame({ guidance, message, options, children, footer, onRestart, restartLabel = 'Start again' }: GameFrameProps) {
+export function GameFrame({ ui, lang, guidance, message, options, children, footer, onRestart, restartLabel }: GameFrameProps) {
   const sound = useSound();
   const [started, setStarted] = useState(false);
   const [answer, setAnswer] = useState<FeedbackAnswer | null>(null);
@@ -47,7 +51,7 @@ export function GameFrame({ guidance, message, options, children, footer, onRest
   };
 
   return (
-    <section className="game" aria-label="Game">
+    <section className="game" aria-label={ui.frame.region}>
       {options ? <div className="game__options">{options}</div> : null}
       <p className="game__guidance">{guidance}</p>
       <div className="game__board" onClickCapture={markStarted}>
@@ -68,7 +72,7 @@ export function GameFrame({ guidance, message, options, children, footer, onRest
             }}
           >
             <Icon name="refresh" />
-            {restartLabel}
+            {restartLabel ?? ui.frame.restart}
           </button>
         ) : null}
         <button
@@ -78,28 +82,28 @@ export function GameFrame({ guidance, message, options, children, footer, onRest
           onClick={() => settingsStore.actions.toggleSound()}
         >
           <Icon name={sound ? 'sound' : 'soundOff'} />
-          {sound ? 'Soft sounds on' : 'Soft sounds off'}
+          {sound ? ui.frame.soundOn : ui.frame.soundOff}
         </button>
-        <a className="btn btn--quiet" href="/games/" onClick={() => track('activity_done')}>
+        <a className="btn btn--quiet" href={localePath(lang, '/games/')} onClick={() => track('activity_done')}>
           <Icon name="door" />
-          Done for now
+          {ui.frame.done}
         </a>
       </div>
       {canAsk && started ? (
         <div className="game__feedback">
           {answer ? (
             <p ref={thanks} tabIndex={-1}>
-              Thank you for telling us.
+              {ui.frame.feedbackThanks}
             </p>
           ) : (
             <>
-              <p id="game-feedback-question">Did this help today?</p>
+              <p id="game-feedback-question">{ui.frame.feedbackQuestion}</p>
               <div role="group" aria-labelledby="game-feedback-question" className="game__feedback-choices">
                 <button type="button" className="btn btn--quiet" onClick={() => giveFeedback('yes')}>
-                  Yes
+                  {ui.frame.feedbackYes}
                 </button>
                 <button type="button" className="btn btn--quiet" onClick={() => giveFeedback('not_really')}>
-                  Not really
+                  {ui.frame.feedbackNo}
                 </button>
               </div>
             </>

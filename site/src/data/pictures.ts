@@ -16,6 +16,10 @@ export type PictureCategory =
 
 export interface Picture {
   id: string;
+  /**
+   * English name, used in the SVG title. The games show the name from
+   * `src/i18n/play/<code>.json` (`pictures`); `en.json` must match this exactly.
+   */
   name: string;
   category: PictureCategory;
   bg: string;

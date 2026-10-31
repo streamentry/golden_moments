@@ -1,0 +1,483 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Game",
+      "restart": "Start again",
+      "soundOn": "Soft sounds on",
+      "soundOff": "Soft sounds off",
+      "done": "Done for now",
+      "feedbackQuestion": "Did this help today?",
+      "feedbackYes": "Yes",
+      "feedbackNo": "Not really",
+      "feedbackThanks": "Thank you for telling us."
+    },
+    "tile": {
+      "named": "{name}, tile {n}",
+      "hidden": "Hidden picture, tile {n}",
+      "withState": "{label}, {state}",
+      "matched": "Matched",
+      "selected": "Selected",
+      "picture": "Picture",
+      "photoNumber": "Photo {n}"
+    },
+    "pairs": {
+      "allTogether": "All pairs together. Play again or take a break.",
+      "photoPair": "A pair of photos, together.",
+      "picturePair": "Two pictures of the {name|lower}, together.",
+      "selected": "{name}. Now find its pair.",
+      "mismatch": "Take your time. Tap a picture to continue.",
+      "mismatchNamed": "{a} and {b}. Take your time. Tap a picture to continue."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tap a picture, then tap the one that matches it.",
+      "guidanceHidden": "Tap two tiles to turn them over. Look for two the same.",
+      "restart": "New pictures",
+      "sizeLegend": "How many tiles",
+      "size": {"one": "{n} tile", "other": "{n} tiles"},
+      "viewLegend": "How to play",
+      "viewShowing": "Pictures showing",
+      "viewHidden": "Hidden pictures",
+      "playAgain": "Play again with new pictures",
+      "talk": "Talk about pictures together"
+    },
+    "choose": {
+      "countLegend": "How many pictures",
+      "count": "{n} to choose from",
+      "thatOne": "That one is the {name|lower}. Take your time."
+    },
+    "findTheSame": {
+      "guidance": "Look at the picture at the top. Tap the same one below.",
+      "yes": "Yes, the same {name|lower}.",
+      "next": "Next picture"
+    },
+    "shadowMatch": {
+      "guidance": "Look at the shadow at the top. Tap the picture that makes it.",
+      "yes": "Yes, the {name|lower} makes that shadow.",
+      "next": "Next shadow",
+      "shadowAlt": "A shadow to match",
+      "foundAlt": "The shadow of the {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tap a picture, then tap the basket it belongs in.",
+      "restart": "New pictures",
+      "themeLegend": "Theme",
+      "selected": "{name}. Now tap the basket it goes in.",
+      "pickFirst": "First tap a picture, then tap a basket.",
+      "hint": "The {name|lower} could go in \"{basket}\". Tap that basket to put it there.",
+      "placed": "The {name|lower} is in \"{basket}\".",
+      "sorted": "Everything is sorted. Look through the baskets together, or try another theme.",
+      "basket": {"one": "{basket} basket, {count} picture inside", "other": "{basket} basket, {count} pictures inside"}
+    },
+    "picturePuzzle": {
+      "guidance": "Tap one piece, then tap another. They swap places.",
+      "restart": "Mix up again",
+      "pictureLegend": "Picture",
+      "pictures": {
+        "sailboat": "Sailboat",
+        "house": "House",
+        "balloon": "Balloon",
+        "sunflower": "Sunflower",
+        "lighthouse": "Lighthouse",
+        "cat": "Cat"
+      },
+      "sizeLegend": "Pieces",
+      "size": {"one": "{n} piece", "other": "{n} pieces"},
+      "pickedUp": "Piece picked up. Now tap where it should go.",
+      "whole": "The {name|lower} is whole again. Choose another picture whenever you like.",
+      "swapped": {
+        "one": "Swapped. {correct} of {total} piece is in place.",
+        "other": "Swapped. {correct} of {total} pieces are in place."
+      },
+      "guideAlt": "The whole picture: {name}",
+      "guideText": "This is how the picture looks when it is whole.",
+      "piece": "Piece in the {place}",
+      "pieceInPlace": ", in the right place",
+      "piecePickedUp": ", picked up",
+      "places4": ["top left", "top right", "bottom left", "bottom right"],
+      "places9": [
+        "top left",
+        "top center",
+        "top right",
+        "middle left",
+        "center",
+        "middle right",
+        "bottom left",
+        "bottom center",
+        "bottom right"
+      ],
+      "done": "The picture is whole again. Play again or take a break.",
+      "playAgain": "Mix it up again"
+    },
+    "finishTheSaying": {
+      "guidance": "Read the saying together, then tap the word that finishes it.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Yes, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" works too. The usual saying ends with \"{end}\".",
+      "revealed": "The saying is \"{start} {end}.\"",
+      "choicesLabel": "Choose the last word",
+      "show": "Show the ending",
+      "talk": "Talk about it: ",
+      "next": "Next saying"
+    },
+    "wordSearch": {
+      "guidance": "Words go across or down. Tap the first letter of a word, then its last letter.",
+      "restart": "New puzzle",
+      "themeLegend": "Theme",
+      "sizeLegend": "Grid size",
+      "size": {"one": "{n} by {n} ({words} word)", "other": "{n} by {n} ({words} words)"},
+      "print": "Print this puzzle",
+      "letterChosen": "Letter {letter} chosen. Now tap the last letter of the word.",
+      "found": "{word} found.",
+      "foundAll": "{word} found. That is every word. Play again or take a break.",
+      "tryAgain": "Take your time. Tap the first letter of a word, then its last letter.",
+      "gridLabel": "Letter grid, {n} rows of {n} letters. Use the arrow keys to move between letters.",
+      "cell": "{letter}, row {row}, column {col}",
+      "cellFound": ", part of a found word",
+      "wordsHeading": "Words to find",
+      "wordFound": " (found)",
+      "sheetTitle": "Word search: {theme}",
+      "sheetNote": "Words go across or down.",
+      "unavailable": "A letter grid does not suit this language, so the word search is not offered here. Try the picture games instead."
+    },
+    "coloring": {
+      "guidance": "Tap a color, then tap a part of the picture.",
+      "restart": "Clear the colors",
+      "cleared": "The page is blank again.",
+      "pageLegend": "Page",
+      "print": "Print this page",
+      "colorsLabel": "Colors",
+      "paintChosen": "{paint} chosen.",
+      "painted": "{part} is now {paint|lower}.",
+      "artLabel": "{page}, {count} parts to color",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, not colored",
+      "paints": {
+        "red": "Red",
+        "orange": "Orange",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue",
+        "purple": "Purple",
+        "pink": "Pink",
+        "brown": "Brown",
+        "sky-blue": "Sky blue",
+        "cream": "Cream",
+        "gray": "Gray",
+        "white": "White"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Read the card out loud. There are no right answers.",
+      "position": "Card {n} of {total}",
+      "themeLegend": "Theme",
+      "next": "Next card",
+      "previous": "Previous card",
+      "print": "Print all cards",
+      "sheetTitle": "Conversation cards"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Start by choosing your photos.",
+      "guidance": "Tap a photo, then tap the one that matches it.",
+      "restart": "Mix them again",
+      "intro": "**Choose 2 to 6 photos** from this device. They are shown only on this page and are never uploaded or saved.",
+      "choose": "Choose photos",
+      "chooseDifferent": "Choose different photos",
+      "clear": "Clear photos",
+      "cleared": "Photos cleared from this page.",
+      "atLeastTwo": "Please choose at least two photos.",
+      "usingFirst": "Using the first {max} photos.",
+      "skipped": {
+        "one": "{count} file was not a photo we can show.",
+        "other": "{count} files were not a photo we can show."
+      },
+      "playAgain": "Play again with these photos",
+      "empty": "Your photos will appear here, each one twice."
+    },
+    "pictureBingo": {
+      "guidance": "Print the cards first. Then show this caller on the biggest screen you have.",
+      "called": {
+        "one": "{name}. {called} of {total} picture called.",
+        "other": "{name}. {called} of {total} pictures called."
+      },
+      "start": "Tap \"Next picture\" to call the first picture.",
+      "restart": "Start a new game",
+      "squaresLegend": "Squares on each card",
+      "squares": "{n} squares ({side} by {side})",
+      "cardsLegend": "How many cards to print",
+      "cards": {"one": "{n} card", "other": "{n} cards"},
+      "print": {"one": "Print {n} bingo card", "other": "Print {n} bingo cards"},
+      "ready": "Ready when you are",
+      "next": "Next picture",
+      "allCalled": "Every picture has been called",
+      "alreadyCalled": "Already called",
+      "sheetTitle": "Picture bingo · card {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Breathe in as the circle grows, and out as it gets smaller. It stops by itself after six breaths.",
+      "paceLegend": "Pace",
+      "paceSlow": "Slow (5 seconds each way)",
+      "paceGentle": "Gentle (4 seconds each way)",
+      "ready": "Ready when you are",
+      "in": "Breathe in",
+      "hold": "Rest",
+      "out": "Breathe out",
+      "start": "Start",
+      "stop": "Stop",
+      "started": "Started. Breathe in as the circle grows.",
+      "stopped": "Stopped.",
+      "finished": "That was six slow breaths. Start again whenever you like."
+    }
+  },
+  "pictures": {
+    "teacup": "Teacup",
+    "kettle": "Kettle",
+    "bread": "Loaf of bread",
+    "frying-pan": "Frying pan with an egg",
+    "cake": "Birthday cake",
+    "sunflower": "Sunflower",
+    "tulip": "Red tulip",
+    "watering-can": "Watering can",
+    "potted-plant": "Potted plant",
+    "tree": "Tree",
+    "bird": "Robin on a branch",
+    "butterfly": "Butterfly",
+    "dog": "Dog",
+    "cat": "Cat",
+    "fish": "Goldfish",
+    "apple": "Red apple",
+    "pear": "Pear",
+    "strawberry": "Strawberry",
+    "banana": "Banana",
+    "lemon": "Lemon",
+    "cherries": "Cherries",
+    "house": "House",
+    "lamp": "Table lamp",
+    "armchair": "Armchair",
+    "key": "Old key",
+    "umbrella": "Umbrella",
+    "sailboat": "Sailboat",
+    "car": "Classic car",
+    "bicycle": "Bicycle",
+    "balloon": "Hot air balloon",
+    "lighthouse": "Lighthouse",
+    "sun": "Sun",
+    "moon": "Moon and stars"
+  },
+  "content": {
+    "sayings": [
+      {"start": "A penny saved is a penny", "end": "earned", "others": ["spent", "found"],  "prompt": "What is something you were glad you saved up for?"},
+      {"start": "An apple a day keeps the doctor", "end": "away", "others": ["busy", "happy"],  "prompt": "What kind of apples do you like best?"},
+      {"start": "The early bird catches the", "end": "worm", "others": ["bus", "train"],  "prompt": "Are you a morning person or a night owl?"},
+      {"start": "Every cloud has a silver", "end": "lining", "others": ["button", "spoon"],  "prompt": "What is a small thing that cheers you up on a gray day?"},
+      {"start": "Home is where the heart", "end": "is", "others": ["was", "sings"],  "prompt": "What makes a place feel like home to you?"},
+      {"start": "Two heads are better than", "end": "one", "others": ["none", "three"],  "prompt": "Who do you like to work on a problem with?"},
+      {"start": "Actions speak louder than", "end": "words", "others": ["music", "bells"],  "prompt": "Who is someone whose kindness you could always count on?"},
+      {"start": "Don't count your chickens before they", "end": "hatch", "others": ["sing", "sleep"],  "prompt": "Have you ever kept chickens, or seen a farm up close?"},
+      {"start": "Where there is a will, there is a", "end": "way", "others": ["day", "path"],  "prompt": "What is something you worked hard to do?"},
+      {"start": "Better late than", "end": "never", "others": ["early", "sorry"],  "prompt": "What is something you started later in life and enjoyed?"},
+      {"start": "A watched pot never", "end": "boils", "others": ["spills", "cools"],  "prompt": "What was a favorite dish cooked in your home?"},
+      {"start": "Birds of a feather flock", "end": "together", "others": ["south", "home"],  "prompt": "What did you and your closest friends enjoy doing together?"},
+      {"start": "Laughter is the best", "end": "medicine", "others": ["music", "present"],  "prompt": "Who always makes you laugh?"},
+      {"start": "Practice makes", "end": "perfect", "others": ["pictures", "progress"],  "prompt": "Is there a skill you practiced a lot, like an instrument or a sport?"},
+      {"start": "Rome was not built in a", "end": "day", "others": ["week", "hurry"],  "prompt": "What is a place you would love to visit, or loved visiting?"},
+      {"start": "The grass is always greener on the other side of the", "end": "fence", "others": ["road", "hill"],  "prompt": "What did your yard or garden look like when you were young?"},
+      {"start": "You can lead a horse to water, but you cannot make it", "end": "drink", "others": ["dance", "swim"],  "prompt": "Have you ever ridden a horse, or would you like to?"},
+      {"start": "Look before you", "end": "leap", "others": ["sleep", "speak"],  "prompt": "What is the most adventurous thing you have done?"},
+      {"start": "Many hands make light", "end": "work", "others": ["lunch", "music"],  "prompt": "What jobs did your family do together around the house?"},
+      {"start": "A picture is worth a thousand", "end": "words", "others": ["dollars", "smiles"],  "prompt": "What is a picture or painting you love to look at?"},
+      {"start": "Beauty is in the eye of the", "end": "beholder", "others": ["storm", "painter"],  "prompt": "What do you think is the most beautiful season?"},
+      {"start": "Great minds think", "end": "alike", "others": ["aloud", "twice"],  "prompt": "Who is someone you often agree with?"},
+      {"start": "Easy come, easy", "end": "go", "others": ["does it", "now"],  "prompt": "What is something small you once won or found?"},
+      {"start": "Out of sight, out of", "end": "mind", "others": ["town", "time"],  "prompt": "What is a favorite place to keep things safe at home?"},
+      {"start": "When it rains, it", "end": "pours", "others": ["shines", "stops"],  "prompt": "Do you like the sound of rain?"},
+      {"start": "The best things in life are", "end": "free", "others": ["sweet", "small"],  "prompt": "What is one of the best free things in life, for you?"},
+      {"start": "All good things must come to an", "end": "end", "others": ["hour", "inn"],  "prompt": "What is a happy day you like to think about?"},
+      {"start": "Absence makes the heart grow", "end": "fonder", "others": ["younger", "warmer"],  "prompt": "Who is someone you love to hear from?"},
+      {"start": "Slow and steady wins the", "end": "race", "others": ["prize", "day"],  "prompt": "What is something you enjoy doing slowly?"},
+      {"start": "Strike while the iron is", "end": "hot", "others": ["ready", "here"],  "prompt": "Did you ever iron clothes, or learn a trade with tools?"},
+      {"start": "There is no place like", "end": "home", "others": ["here", "Rome"],  "prompt": "What is your favorite room in a house, and why?"},
+      {"start": "Too many cooks spoil the", "end": "broth", "others": ["bread", "party"],  "prompt": "Who was the best cook you have known?"},
+      {"start": "Variety is the spice of", "end": "life", "others": ["soup", "Sunday"],  "prompt": "What is your favorite spice or flavor?"},
+      {"start": "Old habits die", "end": "hard", "others": ["young", "quietly"],  "prompt": "What is a favorite part of your daily routine?"},
+      {"start": "Kill two birds with one", "end": "stone", "others": ["trip", "call"],  "prompt": "What errands do you like to do together?"},
+      {"start": "Curiosity killed the", "end": "cat", "others": ["clock", "radio"],  "prompt": "Have you had a pet cat or dog? What was it like?"},
+      {"start": "If the shoe fits, wear", "end": "it", "others": ["two", "blue"],  "prompt": "What is the most comfortable pair of shoes you have owned?"},
+      {"start": "It takes two to", "end": "tango", "others": ["talk", "travel"],  "prompt": "Do you like to dance? What kind of music?"},
+      {"start": "Money does not grow on", "end": "trees", "others": ["Tuesdays", "farms"],  "prompt": "What was your first job?"},
+      {"start": "One good turn deserves", "end": "another", "others": ["a cake", "a song"],  "prompt": "What is a kind thing someone did for you?"},
+      {"start": "Patience is a", "end": "virtue", "others": ["garden", "river"],  "prompt": "What helps you feel calm and patient?"},
+      {"start": "The squeaky wheel gets the", "end": "grease", "others": ["oil change", "ride"],  "prompt": "Have you ever fixed something with your own hands?"},
+      {"start": "Time flies when you are having", "end": "fun", "others": ["tea", "lunch"],  "prompt": "What is an activity that makes time fly for you?"},
+      {"start": "You are never too old to", "end": "learn", "others": ["laugh", "dance"],  "prompt": "What would you like to learn about, or teach someone?"},
+      {"start": "A friend in need is a friend", "end": "indeed", "others": ["in town", "at noon"],  "prompt": "What makes someone a good friend?"},
+      {"start": "Honesty is the best", "end": "policy", "others": ["present", "medicine"],  "prompt": "What is a good piece of advice you were given?"},
+      {"start": "Make hay while the sun", "end": "shines", "others": ["sets", "rises"],  "prompt": "What is your favorite thing to do on a sunny day?"},
+      {"start": "Necessity is the mother of", "end": "invention", "others": ["patience", "gardens"],  "prompt": "What is a clever invention you are glad we have?"},
+      {"start": "Still waters run", "end": "deep", "others": ["fast", "cold"],  "prompt": "Do you like being near a lake, a river or the ocean?"},
+      {"start": "The apple does not fall far from the", "end": "tree", "others": ["table", "basket"],  "prompt": "Who in your family are you most alike?"}
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {"value": "fruit", "label": "Fruit", "words": ["APPLE", "PEAR", "PLUM", "LEMON", "GRAPE", "PEACH", "MELON", "LIME", "FIG"]},
+        {"value": "garden", "label": "Garden", "words": ["ROSE", "TULIP", "SEED", "SOIL", "LEAF", "TREE", "DAISY", "POND", "BEE"]},
+        {"value": "kitchen", "label": "Kitchen", "words": ["CUP", "SPOON", "BREAD", "PAN", "BOWL", "PLATE", "TEA", "OVEN", "FORK"]},
+        {"value": "weather", "label": "Weather", "words": ["SUN", "RAIN", "SNOW", "WIND", "CLOUD", "STORM", "FOG", "MILD", "WARM"]},
+        {"value": "animals", "label": "Animals", "words": ["DOG", "CAT", "BIRD", "FISH", "HORSE", "COW", "DUCK", "GOAT", "HEN"]},
+        {"value": "home", "label": "Home", "words": ["DOOR", "CHAIR", "LAMP", "BED", "RUG", "SOFA", "CLOCK", "DESK", "KEY"]}
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "All cards",
+        "food": "Food",
+        "home": "Home",
+        "outdoors": "Outdoors",
+        "animals": "Animals",
+        "travel": "Going places",
+        "work": "Work and hobbies",
+        "music": "Music and fun",
+        "seasons": "Seasons"
+      },
+      "cards": [
+        {"theme": "food", "picture": "bread", "prompt": "What is your favorite smell from a kitchen?"},
+        {"theme": "food", "picture": "cake", "prompt": "What kind of cake would you choose for a celebration?"},
+        {"theme": "food", "picture": "apple", "prompt": "Tell me about a favorite fruit pie or dessert."},
+        {"theme": "food", "picture": "teacup", "prompt": "How do you like your tea or coffee?"},
+        {"theme": "food", "picture": "frying-pan", "prompt": "What makes a really good breakfast?"},
+        {"theme": "food", "picture": "strawberry", "prompt": "Have you ever picked fruit straight from the plant?"},
+        {"theme": "food", "picture": "lemon", "prompt": "Sweet or sour: which do you like better?"},
+        {"theme": "food", "picture": "cherries", "prompt": "What is a food that tastes like summer to you?"},
+        {"theme": "home", "picture": "house", "prompt": "Tell me about a house you liked living in."},
+        {"theme": "home", "picture": "armchair", "prompt": "Where is your favorite place to sit and relax?"},
+        {"theme": "home", "picture": "lamp", "prompt": "What do you like to do on a quiet evening?"},
+        {"theme": "home", "picture": "key", "prompt": "What is a treasure you would keep in a special box?"},
+        {"theme": "home", "picture": "kettle", "prompt": "Who would you invite over for a cup of tea?"},
+        {"theme": "home", "picture": "umbrella", "prompt": "What do you like to do on a rainy day?"},
+        {"theme": "outdoors", "picture": "sunflower", "prompt": "What flowers would you plant in a garden?"},
+        {"theme": "outdoors", "picture": "tree", "prompt": "Tell me about a tree or park you like."},
+        {"theme": "outdoors", "picture": "watering-can", "prompt": "What is the best part of being in a garden?"},
+        {"theme": "outdoors", "picture": "tulip", "prompt": "What color flowers do you like best?"},
+        {"theme": "outdoors", "picture": "potted-plant", "prompt": "Do you like having plants in the house?"},
+        {"theme": "outdoors", "picture": "sun", "prompt": "What is your idea of a perfect sunny day?"},
+        {"theme": "animals", "picture": "dog", "prompt": "Tell me about a dog you have known."},
+        {"theme": "animals", "picture": "cat", "prompt": "Cats or dogs, or neither? What do you like about them?"},
+        {"theme": "animals", "picture": "bird", "prompt": "What birds do you see or hear outside?"},
+        {"theme": "animals", "picture": "fish", "prompt": "Have you ever been fishing, or kept a fish tank?"},
+        {"theme": "animals", "picture": "butterfly", "prompt": "What is the most beautiful animal you have seen?"},
+        {"theme": "travel", "picture": "car", "prompt": "Tell me about a car you liked."},
+        {"theme": "travel", "picture": "sailboat", "prompt": "Would you rather spend a day at the beach or in the mountains?"},
+        {"theme": "travel", "picture": "bicycle", "prompt": "Where would you like to go for a ride?"},
+        {"theme": "travel", "picture": "balloon", "prompt": "If you could fly over any place, where would it be?"},
+        {"theme": "travel", "picture": "lighthouse", "prompt": "What is a trip you enjoyed?"},
+        {"theme": "work", "picture": "key", "prompt": "What kind of work have you enjoyed doing?"},
+        {"theme": "work", "picture": "watering-can", "prompt": "What is a hobby that you could spend hours on?"},
+        {"theme": "work", "picture": "bread", "prompt": "What is something you were known for making or fixing?"},
+        {"theme": "work", "picture": "house", "prompt": "What advice would you give a young person starting work?"},
+        {"theme": "music", "picture": "balloon", "prompt": "What kind of music makes you want to tap your feet?"},
+        {"theme": "music", "picture": "cake", "prompt": "What makes a really good party?"},
+        {"theme": "music", "picture": "lamp", "prompt": "Who is a singer you like to listen to?"},
+        {"theme": "music", "picture": "armchair", "prompt": "What is a favorite movie or TV show to watch again?"},
+        {"theme": "seasons", "picture": "sun", "prompt": "What do you like most about summer?"},
+        {"theme": "seasons", "picture": "tree", "prompt": "What do you enjoy about the fall?"},
+        {"theme": "seasons", "picture": "moon", "prompt": "What is a cozy thing to do on a winter evening?"},
+        {"theme": "seasons", "picture": "tulip", "prompt": "What are the first signs of spring for you?"},
+        {"theme": "seasons", "picture": "umbrella", "prompt": "Snow, rain or sunshine: which do you prefer?"}
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flower in a pot",
+          "regions": {
+            "sky": "Background",
+            "table": "Table",
+            "stem": "Stem",
+            "leaf-left": "Left leaf",
+            "leaf-right": "Right leaf",
+            "petal-1": "Petal 1",
+            "petal-2": "Petal 2",
+            "petal-3": "Petal 3",
+            "petal-4": "Petal 4",
+            "petal-5": "Petal 5",
+            "petal-6": "Petal 6",
+            "petal-7": "Petal 7",
+            "petal-8": "Petal 8",
+            "center": "Flower center",
+            "pot": "Pot",
+            "pot-rim": "Pot rim"
+          }
+        },
+        "house": {
+          "name": "House",
+          "regions": {
+            "sky": "Sky",
+            "sun": "Sun",
+            "grass": "Grass",
+            "chimney": "Chimney",
+            "walls": "Walls",
+            "roof": "Roof",
+            "door": "Door",
+            "window-left": "Left window",
+            "window-right": "Right window",
+            "path": "Path"
+          }
+        },
+        "teacup": {
+          "name": "Teacup",
+          "regions": {
+            "background": "Background",
+            "saucer": "Saucer",
+            "handle": "Handle",
+            "cup": "Cup",
+            "band": "Stripe on the cup",
+            "tea": "Tea"
+          }
+        },
+        "butterfly": {
+          "name": "Butterfly",
+          "regions": {
+            "background": "Background",
+            "wing-top-left": "Top left wing",
+            "wing-top-right": "Top right wing",
+            "wing-bottom-left": "Bottom left wing",
+            "wing-bottom-right": "Bottom right wing",
+            "spot-left": "Left wing spot",
+            "spot-right": "Right wing spot",
+            "body": "Body"
+          }
+        },
+        "sailboat": {
+          "name": "Sailboat",
+          "regions": {
+            "sky": "Sky",
+            "sea": "Sea",
+            "sail-big": "Big sail",
+            "sail-small": "Small sail",
+            "mast": "Mast",
+            "hull": "Boat",
+            "flag": "Flag"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kitchen and garden",
+          "baskets": ["In the kitchen", "In the garden"]
+        },
+        "fruit-animals": {
+          "label": "Fruit and animals",
+          "baskets": ["Fruit", "Animals"]
+        },
+        "home-travel": {
+          "label": "Home and travel",
+          "baskets": ["At home", "Out and about"]
+        }
+      }
+    }
+  }
+}

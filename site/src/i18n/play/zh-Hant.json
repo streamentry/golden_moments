@@ -1,0 +1,476 @@
+{
+  "ui": {
+    "frame": {
+      "region": "遊戲",
+      "restart": "重新開始",
+      "soundOn": "輕柔音效：開",
+      "soundOff": "輕柔音效：關",
+      "done": "先到這裡",
+      "feedbackQuestion": "今天這對您有幫助嗎？",
+      "feedbackYes": "有",
+      "feedbackNo": "不太有",
+      "feedbackThanks": "謝謝您告訴我們。"
+    },
+    "tile": {
+      "named": "{name}，第 {n} 張圖卡",
+      "hidden": "隱藏的圖片，第 {n} 張圖卡",
+      "withState": "{label}，{state}",
+      "matched": "已配對",
+      "selected": "已選取",
+      "picture": "圖片",
+      "photoNumber": "照片 {n}"
+    },
+    "pairs": {
+      "allTogether": "所有圖片都配好對了。可以再玩一次，也可以休息一下。",
+      "photoPair": "一對照片，配在一起了。",
+      "picturePair": "兩張{name}，配在一起了。",
+      "selected": "{name}。現在找和它一樣的那張。",
+      "mismatch": "慢慢來。點一張圖片繼續。",
+      "mismatchNamed": "{a}和{b}。慢慢來。點一張圖片繼續。"
+    },
+    "picturePairs": {
+      "guidanceShowing": "點一張圖片，再點和它一樣的那張。",
+      "guidanceHidden": "點兩張圖卡，把它們翻過來。找找看哪兩張一樣。",
+      "restart": "換一組圖片",
+      "sizeLegend": "圖卡數量",
+      "size": {"other": "{n} 張圖卡"},
+      "viewLegend": "玩法",
+      "viewShowing": "顯示圖片",
+      "viewHidden": "隱藏圖片",
+      "playAgain": "換一組圖片再玩一次",
+      "talk": "一起聊聊這些圖片"
+    },
+    "choose": {
+      "countLegend": "圖片數量",
+      "count": "從 {n} 張中挑選",
+      "thatOne": "這是{name}。慢慢來。"
+    },
+    "findTheSame": {
+      "guidance": "看看上方的圖片，在下方點出一樣的那張。",
+      "yes": "對，是一樣的{name}。",
+      "next": "下一張"
+    },
+    "shadowMatch": {
+      "guidance": "看看上方的影子，點出投出這個影子的圖片。",
+      "yes": "對，這是{name}的影子。",
+      "next": "下一個影子",
+      "shadowAlt": "要配對的影子",
+      "foundAlt": "{name}的影子"
+    },
+    "sortTogether": {
+      "guidance": "點一張圖片，再點它該放進的籃子。",
+      "restart": "換一組圖片",
+      "themeLegend": "主題",
+      "selected": "{name}。現在點它該放進的籃子。",
+      "pickFirst": "先點一張圖片，再點一個籃子。",
+      "hint": "{name}可以放進「{basket}」。點那個籃子，把它放進去。",
+      "placed": "{name}放進了「{basket}」。",
+      "sorted": "全部都分好了。一起看看每個籃子，或換個主題試試。",
+      "basket": {"other": "籃子「{basket}」，裡面有 {count} 張圖片"}
+    },
+    "picturePuzzle": {
+      "guidance": "點一片拼圖，再點另一片，它們就會交換位置。",
+      "restart": "重新打亂",
+      "pictureLegend": "圖片",
+      "pictures": {
+        "sailboat": "帆船",
+        "house": "房子",
+        "balloon": "熱氣球",
+        "sunflower": "向日葵",
+        "lighthouse": "燈塔",
+        "cat": "貓"
+      },
+      "sizeLegend": "片數",
+      "size": {"other": "{n} 片"},
+      "pickedUp": "拿起了一片。現在點它應該放的位置。",
+      "whole": "{name}又完整了。想換一張圖片，隨時都可以。",
+      "swapped": {
+        "other": "交換好了。{total} 片中有 {correct} 片已經在正確的位置。"
+      },
+      "guideAlt": "完整的圖片：{name}",
+      "guideText": "這是圖片完整時的樣子。",
+      "piece": "{place}的拼圖",
+      "pieceInPlace": "，位置正確",
+      "piecePickedUp": "，已拿起",
+      "places4": ["左上角", "右上角", "左下角", "右下角"],
+      "places9": [
+        "左上角",
+        "上方中間",
+        "右上角",
+        "左邊中間",
+        "正中間",
+        "右邊中間",
+        "左下角",
+        "下方中間",
+        "右下角"
+      ],
+      "done": "圖片又完整了。可以再玩一次，也可以休息一下。",
+      "playAgain": "再打亂一次"
+    },
+    "finishTheSaying": {
+      "guidance": "一起念出這句俗語，再點能把它接完整的字。",
+      "gap": "",
+      "ending": "{end}。",
+      "yes": "對，「{start}{end}。」",
+      "otherEnding": "「{word}」也說得通。常聽到的說法是「{end}」。",
+      "revealed": "這句俗語是「{start}{end}。」",
+      "choicesLabel": "選擇最後的字",
+      "show": "顯示結尾",
+      "talk": "聊一聊：",
+      "next": "下一句"
+    },
+    "wordSearch": {
+      "guidance": "詞語是橫著或直著排的。先點一個詞語的第一個字，再點它的最後一個字。",
+      "restart": "換一份題目",
+      "themeLegend": "主題",
+      "sizeLegend": "方格大小",
+      "size": {"other": "{n} × {n}（{words} 個詞語）"},
+      "print": "列印這份題目",
+      "letterChosen": "選了「{letter}」。現在點這個詞語的最後一個字。",
+      "found": "找到了「{word}」。",
+      "foundAll": "找到了「{word}」。所有詞語都找到了。可以再玩一次，也可以休息一下。",
+      "tryAgain": "慢慢來。先點一個詞語的第一個字，再點它的最後一個字。",
+      "gridLabel": "字格，共 {n} 行，每行 {n} 個字。用方向鍵在字之間移動。",
+      "cell": "{letter}，第 {row} 行，第 {col} 列",
+      "cellFound": "，屬於已找到的詞語",
+      "wordsHeading": "要找的詞語",
+      "wordFound": "（已找到）",
+      "sheetTitle": "大字找字：{theme}",
+      "sheetNote": "詞語是橫著或直著排的。",
+      "unavailable": "這個找字遊戲用的是字母方格，不太適合中文，所以這裡暫不提供。可以試試其他圖片遊戲。"
+    },
+    "coloring": {
+      "guidance": "點一個顏色，再點圖片的一個部分。",
+      "restart": "清除顏色",
+      "cleared": "這一頁又是空白的了。",
+      "pageLegend": "圖畫",
+      "print": "列印此頁",
+      "colorsLabel": "顏色",
+      "paintChosen": "選了{paint}。",
+      "painted": "{part}塗成了{paint}。",
+      "artLabel": "{page}，共 {count} 個部分可以著色",
+      "partPainted": "{part}，{paint}",
+      "partBlank": "{part}，還沒著色",
+      "paints": {
+        "red": "紅色",
+        "orange": "橘色",
+        "yellow": "黃色",
+        "green": "綠色",
+        "blue": "藍色",
+        "purple": "紫色",
+        "pink": "粉紅色",
+        "brown": "咖啡色",
+        "sky-blue": "天藍色",
+        "cream": "米色",
+        "gray": "灰色",
+        "white": "白色"
+      }
+    },
+    "conversationCards": {
+      "guidance": "把卡片大聲念出來。沒有標準答案。",
+      "position": "第 {n} 張，共 {total} 張",
+      "themeLegend": "主題",
+      "next": "下一張卡片",
+      "previous": "上一張卡片",
+      "print": "列印全部卡片",
+      "sheetTitle": "聊天卡"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "先選擇您的照片。",
+      "guidance": "點一張照片，再點和它一樣的那張。",
+      "restart": "重新打亂",
+      "intro": "從這台裝置中**選擇 2 到 6 張照片**。照片只會顯示在這個頁面上，不會上傳，也不會儲存。",
+      "choose": "選擇照片",
+      "chooseDifferent": "換幾張照片",
+      "clear": "清除照片",
+      "cleared": "照片已從這個頁面清除。",
+      "atLeastTwo": "請至少選擇兩張照片。",
+      "usingFirst": "只會用前 {max} 張照片。",
+      "skipped": {
+        "other": "有 {count} 個檔案不是這裡能顯示的照片。"
+      },
+      "playAgain": "用這些照片再玩一次",
+      "empty": "您的照片會顯示在這裡，每張出現兩次。"
+    },
+    "pictureBingo": {
+      "guidance": "先列印賓果卡，再把這個叫號器放在您最大的螢幕上。",
+      "called": {
+        "other": "{name}。{total} 張圖片中已叫出 {called} 張。"
+      },
+      "start": "點「下一張」，叫出第一張圖片。",
+      "restart": "開始新的一局",
+      "squaresLegend": "每張卡片的格數",
+      "squares": "{n} 格（{side} × {side}）",
+      "cardsLegend": "要列印幾張卡片",
+      "cards": {"other": "{n} 張卡片"},
+      "print": {"other": "列印 {n} 張賓果卡"},
+      "ready": "準備好了就開始",
+      "next": "下一張",
+      "allCalled": "所有圖片都叫過了",
+      "alreadyCalled": "已經叫過了",
+      "sheetTitle": "圖片賓果 · 第 {n} 張卡片"
+    },
+    "calmBreathing": {
+      "guidance": "圓圈變大時吸氣，變小時吐氣。六次呼吸後會自動停下。",
+      "paceLegend": "節奏",
+      "paceSlow": "慢（吸氣、吐氣各 5 秒）",
+      "paceGentle": "輕柔（吸氣、吐氣各 4 秒）",
+      "ready": "準備好了就開始",
+      "in": "吸氣",
+      "hold": "停一下",
+      "out": "吐氣",
+      "start": "開始",
+      "stop": "停止",
+      "started": "開始了。圓圈變大時吸氣。",
+      "stopped": "已停止。",
+      "finished": "剛才是六次緩慢的呼吸。想再來的時候，隨時都可以開始。"
+    }
+  },
+  "pictures": {
+    "teacup": "茶杯",
+    "kettle": "水壺",
+    "bread": "麵包",
+    "frying-pan": "平底鍋和荷包蛋",
+    "cake": "生日蛋糕",
+    "sunflower": "向日葵",
+    "tulip": "紅色鬱金香",
+    "watering-can": "澆水壺",
+    "potted-plant": "盆栽",
+    "tree": "樹",
+    "bird": "樹枝上的小鳥",
+    "butterfly": "蝴蝶",
+    "dog": "狗",
+    "cat": "貓",
+    "fish": "金魚",
+    "apple": "紅蘋果",
+    "pear": "梨子",
+    "strawberry": "草莓",
+    "banana": "香蕉",
+    "lemon": "檸檬",
+    "cherries": "櫻桃",
+    "house": "房子",
+    "lamp": "檯燈",
+    "armchair": "單人沙發",
+    "key": "老式鑰匙",
+    "umbrella": "雨傘",
+    "sailboat": "帆船",
+    "car": "老爺車",
+    "bicycle": "腳踏車",
+    "balloon": "熱氣球",
+    "lighthouse": "燈塔",
+    "sun": "太陽",
+    "moon": "月亮和星星"
+  },
+  "content": {
+    "sayings": [
+      {"start": "一寸光陰一寸", "end": "金", "others": ["銀", "玉"], "prompt": "一天當中，您最喜歡哪一段時光？"},
+      {"start": "千里之行，始於", "end": "足下", "others": ["門前", "今日"], "prompt": "您喜歡散步嗎？平常喜歡去哪裡走走？"},
+      {"start": "三人行，必有我", "end": "師", "others": ["友", "伴"], "prompt": "您跟誰學過一樣手藝或本事？"},
+      {"start": "百聞不如一", "end": "見", "others": ["看", "試"], "prompt": "有沒有哪個地方，親眼看到比聽說的還要好？"},
+      {"start": "家和萬事", "end": "興", "others": ["順", "好"], "prompt": "您覺得一家人怎樣才能和和氣氣？"},
+      {"start": "有志者事竟", "end": "成", "others": ["通", "好"], "prompt": "有什麼事，是您下定決心做成的？"},
+      {"start": "開卷有", "end": "益", "others": ["趣", "喜"], "prompt": "您喜歡看什麼樣的書或報紙？"},
+      {"start": "一年之計在於", "end": "春", "others": ["秋", "冬"], "prompt": "春天來了，您最喜歡做什麼？"},
+      {"start": "一日之計在於", "end": "晨", "others": ["午", "夜"], "prompt": "早上起來，您喜歡先做什麼？"},
+      {"start": "遠親不如近", "end": "鄰", "others": ["親", "友"], "prompt": "說說您喜歡的一位鄰居吧。"},
+      {"start": "路遙知馬", "end": "力", "others": ["快", "壯"], "prompt": "您騎過馬，或是近距離看過馬嗎？"},
+      {"start": "熟能生", "end": "巧", "others": ["花", "香"], "prompt": "有沒有哪一樣拿手的事，您做過很多很多遍？"},
+      {"start": "種瓜得瓜，種豆得", "end": "豆", "others": ["花", "米"], "prompt": "您種過菜，或是養過花嗎？"},
+      {"start": "有朋自遠方來，不亦", "end": "樂乎", "others": ["快哉", "美哉"], "prompt": "家裡來客人的時候，您喜歡怎麼招待？"},
+      {"start": "一分耕耘，一分", "end": "收穫", "others": ["歡喜", "汗水"], "prompt": "有什麼事雖然辛苦，做完卻覺得特別值得？"},
+      {"start": "人逢喜事精神", "end": "爽", "others": ["好", "足"], "prompt": "最近有什麼讓您高興的事？"},
+      {"start": "天下無難事，只怕有心", "end": "人", "others": ["情", "力"], "prompt": "有什麼事，是您很用心去做的？"},
+      {"start": "車到山前必有", "end": "路", "others": ["橋", "道"], "prompt": "您喜歡坐車出去走走嗎？想去哪裡？"},
+      {"start": "萬事起頭", "end": "難", "others": ["好", "早"], "prompt": "您學過的哪一樣本事，剛開始最不容易？"},
+      {"start": "只要功夫深，鐵杵磨成", "end": "針", "others": ["刀", "釘"], "prompt": "您會做針線活嗎？家裡誰的手最巧？"},
+      {"start": "冰凍三尺，非一日之", "end": "寒", "others": ["冷", "雪"], "prompt": "天氣冷的時候，您最喜歡做什麼？"},
+      {"start": "近朱者赤，近墨者", "end": "黑", "others": ["白", "灰"], "prompt": "跟誰在一起的時候，您覺得最開心？"},
+      {"start": "一回生，二回", "end": "熟", "others": ["好", "親"], "prompt": "和新朋友見面，您喜歡聊些什麼？"},
+      {"start": "千里送鵝毛，禮輕情意", "end": "重", "others": ["濃", "深"], "prompt": "什麼樣的小禮物最讓您開心？"},
+      {"start": "塞翁失馬，焉知非", "end": "福", "others": ["喜", "好"], "prompt": "有沒有一件事，開頭不太順，後來反而很好？"},
+      {"start": "民以食為", "end": "天", "others": ["先", "本"], "prompt": "您最愛吃的一道家常菜是什麼？"},
+      {"start": "飲水思", "end": "源", "others": ["泉", "河"], "prompt": "有誰幫過您，讓您一直心存感謝？"},
+      {"start": "水滴石", "end": "穿", "others": ["開", "破"], "prompt": "您喜歡聽雨聲，或是溪水流過的聲音嗎？"},
+      {"start": "一個好漢三個", "end": "幫", "others": ["友", "伴"], "prompt": "說說您的好朋友們吧。"},
+      {"start": "不怕慢，只怕", "end": "站", "others": ["停", "等"], "prompt": "有什麼事，您喜歡慢慢來做？"},
+      {"start": "花好月", "end": "圓", "others": ["明", "亮"], "prompt": "中秋節的時候，您家喜歡怎麼過？"},
+      {"start": "授人以魚，不如授人以", "end": "漁", "others": ["網", "竿"], "prompt": "您喜歡釣魚，或是在河邊坐一坐嗎？"},
+      {"start": "磨刀不誤砍柴", "end": "工", "others": ["時", "人"], "prompt": "做事之前，您喜歡先把東西準備好嗎？"},
+      {"start": "三百六十行，行行出", "end": "狀元", "others": ["能人", "好手"], "prompt": "說說一份您喜歡做的工作吧。"},
+      {"start": "酒香不怕巷子", "end": "深", "others": ["長", "遠"], "prompt": "您喜歡逛老街和小巷子嗎？"},
+      {"start": "笑口常", "end": "開", "others": ["樂", "在"], "prompt": "什麼事最能讓您開懷大笑？"},
+      {"start": "助人為快樂之", "end": "本", "others": ["源", "道"], "prompt": "有沒有哪一次幫了別人，讓您心裡很高興？"},
+      {"start": "知足常", "end": "樂", "others": ["好", "安"], "prompt": "什麼樣的小事，會讓您覺得很滿足？"},
+      {"start": "一言既出，駟馬難", "end": "追", "others": ["回", "留"], "prompt": "您欣賞什麼樣的人？"},
+      {"start": "好的開始是成功的", "end": "一半", "others": ["一步", "起點"], "prompt": "您喜歡怎麼開始新的一天？"},
+      {"start": "有緣千里來相", "end": "會", "others": ["見", "聚"], "prompt": "您和最好的朋友是怎麼認識的？"},
+      {"start": "三個臭皮匠，勝過一個", "end": "諸葛亮", "others": ["劉備", "張飛"], "prompt": "遇到事情要商量的時候，您喜歡找誰一起想想？"},
+      {"start": "船到橋頭自然", "end": "直", "others": ["停", "穩"], "prompt": "您坐過船嗎？喜歡在水邊做什麼？"},
+      {"start": "讀萬卷書，行萬里", "end": "路", "others": ["山", "程"], "prompt": "您最想去哪個地方走走看看？"},
+      {"start": "入境隨", "end": "俗", "others": ["意", "和"], "prompt": "去別的地方玩，您喜歡嚐嚐當地的什麼小吃？"},
+      {"start": "好事成", "end": "雙", "others": ["對", "三"], "prompt": "最近有什麼好消息想跟大家分享嗎？"},
+      {"start": "細水長", "end": "流", "others": ["青", "清"], "prompt": "您喜歡在河邊或溪邊散散步嗎？"},
+      {"start": "情人眼裡出", "end": "西施", "others": ["美人", "仙女"], "prompt": "您覺得一年當中，哪個季節的風景最美？"},
+      {"start": "欲速則不", "end": "達", "others": ["好", "成"], "prompt": "做什麼事的時候，您覺得慢慢來最好？"},
+      {"start": "物以類", "end": "聚", "others": ["群", "合"], "prompt": "您和好朋友們常常一起做些什麼？"}
+    ],
+    "conversation": {
+      "themes": {
+        "all": "全部卡片",
+        "food": "吃的喝的",
+        "home": "家",
+        "outdoors": "戶外",
+        "animals": "動物",
+        "travel": "出門走走",
+        "work": "工作和嗜好",
+        "music": "音樂和娛樂",
+        "seasons": "四季"
+      },
+      "cards": [
+        {"theme": "food", "picture": "bread", "prompt": "廚房裡飄出什麼香味，最讓您喜歡？"},
+        {"theme": "food", "picture": "cake", "prompt": "過生日的時候，您喜歡怎麼慶祝？"},
+        {"theme": "food", "picture": "apple", "prompt": "一年四季的水果裡，您最喜歡吃哪一種？"},
+        {"theme": "food", "picture": "teacup", "prompt": "您喜歡泡什麼茶？烏龍茶、包種茶，還是紅茶？"},
+        {"theme": "food", "picture": "frying-pan", "prompt": "早餐您喜歡吃什麼？豆漿燒餅，還是清粥小菜？"},
+        {"theme": "food", "picture": "strawberry", "prompt": "逛夜市的時候，您最喜歡吃什麼小吃？"},
+        {"theme": "food", "picture": "banana", "prompt": "您喜歡去果園採水果，或是去菜市場買菜嗎？"},
+        {"theme": "food", "picture": "lemon", "prompt": "酸的、甜的、鹹的，您比較喜歡哪一種口味？"},
+        {"theme": "food", "picture": "cherries", "prompt": "什麼東西吃起來，讓您覺得是夏天的味道？"},
+        {"theme": "home", "picture": "house", "prompt": "說說一個您住過、很喜歡的家吧。"},
+        {"theme": "home", "picture": "armchair", "prompt": "在家裡，您最喜歡坐在哪裡休息一下？"},
+        {"theme": "home", "picture": "lamp", "prompt": "安靜的晚上，您喜歡做些什麼？"},
+        {"theme": "home", "picture": "key", "prompt": "如果有一個寶貝盒子，您會在裡面放些什麼？"},
+        {"theme": "home", "picture": "kettle", "prompt": "您想請誰來家裡泡茶、聊聊天？"},
+        {"theme": "home", "picture": "umbrella", "prompt": "下雨天，您喜歡在家裡做什麼？"},
+        {"theme": "outdoors", "picture": "sunflower", "prompt": "如果有個小院子，您想種些什麼花？"},
+        {"theme": "outdoors", "picture": "tree", "prompt": "說說一棵您喜歡的樹，或一個您喜歡的公園吧。"},
+        {"theme": "outdoors", "picture": "watering-can", "prompt": "在陽台或院子裡，您最喜歡做什麼？"},
+        {"theme": "outdoors", "picture": "tulip", "prompt": "您最喜歡什麼顏色的花？"},
+        {"theme": "outdoors", "picture": "potted-plant", "prompt": "您喜歡在家裡種花種草嗎？"},
+        {"theme": "outdoors", "picture": "sun", "prompt": "天氣好的時候，您最想去哪裡走走？"},
+        {"theme": "animals", "picture": "dog", "prompt": "說說一隻您認識的狗吧。"},
+        {"theme": "animals", "picture": "cat", "prompt": "貓和狗，您比較喜歡哪一個？喜歡牠們什麼？"},
+        {"theme": "animals", "picture": "bird", "prompt": "早上在公園裡，您喜歡聽鳥叫嗎？"},
+        {"theme": "animals", "picture": "fish", "prompt": "您釣過魚，或是養過金魚嗎？"},
+        {"theme": "animals", "picture": "butterfly", "prompt": "您看過最漂亮的小動物是什麼樣子？"},
+        {"theme": "travel", "picture": "car", "prompt": "您喜歡坐車出去兜兜風嗎？想去哪裡？"},
+        {"theme": "travel", "picture": "sailboat", "prompt": "去海邊和去山上，您比較喜歡哪一個？"},
+        {"theme": "travel", "picture": "bicycle", "prompt": "騎上腳踏車，您想去哪裡轉一轉？"},
+        {"theme": "travel", "picture": "balloon", "prompt": "如果能從天上往下看，您想看看哪個地方？"},
+        {"theme": "travel", "picture": "lighthouse", "prompt": "說說一次讓您開心的出遊吧。"},
+        {"theme": "travel", "picture": "sun", "prompt": "坐火車出去玩的時候，您喜歡吃什麼便當？"},
+        {"theme": "work", "picture": "key", "prompt": "什麼樣的工作，您做起來最有勁？"},
+        {"theme": "work", "picture": "watering-can", "prompt": "有什麼嗜好，讓您一做就是好幾個鐘頭？"},
+        {"theme": "work", "picture": "bread", "prompt": "有什麼東西，大家都誇您做得好、修得好？"},
+        {"theme": "work", "picture": "house", "prompt": "年輕人剛開始工作，您會給他們什麼建議？"},
+        {"theme": "work", "picture": "lamp", "prompt": "有空的時候，您喜歡下棋、打牌，還是打毛線？"},
+        {"theme": "music", "picture": "balloon", "prompt": "什麼樣的音樂，讓您聽了想跟著打拍子？"},
+        {"theme": "music", "picture": "cake", "prompt": "您覺得怎樣的聚會最熱鬧、最開心？"},
+        {"theme": "music", "picture": "lamp", "prompt": "您喜歡聽什麼樣的歌？國語老歌、台語歌，還是廣東歌？"},
+        {"theme": "music", "picture": "armchair", "prompt": "有哪部電影或連續劇，您願意一看再看？"},
+        {"theme": "music", "picture": "teacup", "prompt": "您喜歡一邊泡茶，一邊聽收音機嗎？"},
+        {"theme": "music", "picture": "bird", "prompt": "您喜歡唱卡拉 OK 嗎？最常唱哪一首？"},
+        {"theme": "seasons", "picture": "sun", "prompt": "夏天您最喜歡做什麼？"},
+        {"theme": "seasons", "picture": "tree", "prompt": "秋天有什麼讓您喜歡的？"},
+        {"theme": "seasons", "picture": "moon", "prompt": "中秋節的時候，您家喜歡烤肉、吃月餅，還是一起賞月？"},
+        {"theme": "seasons", "picture": "tulip", "prompt": "春天來了，您最先注意到的是什麼？"},
+        {"theme": "seasons", "picture": "umbrella", "prompt": "晴天、雨天，還是涼涼的陰天，您最喜歡哪一種？"},
+        {"theme": "seasons", "picture": "house", "prompt": "過年圍爐的時候，您家最喜歡吃什麼菜？"},
+        {"theme": "seasons", "picture": "sailboat", "prompt": "端午節的時候，您喜歡看划龍舟，還是包粽子？"},
+        {"theme": "seasons", "picture": "kettle", "prompt": "冬天的晚上，做什麼最溫暖舒服？"}
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "花盆裡的花",
+          "regions": {
+            "sky": "背景",
+            "table": "桌子",
+            "stem": "花莖",
+            "leaf-left": "左邊的葉子",
+            "leaf-right": "右邊的葉子",
+            "petal-1": "花瓣 1",
+            "petal-2": "花瓣 2",
+            "petal-3": "花瓣 3",
+            "petal-4": "花瓣 4",
+            "petal-5": "花瓣 5",
+            "petal-6": "花瓣 6",
+            "petal-7": "花瓣 7",
+            "petal-8": "花瓣 8",
+            "center": "花心",
+            "pot": "花盆",
+            "pot-rim": "花盆邊"
+          }
+        },
+        "house": {
+          "name": "房子",
+          "regions": {
+            "sky": "天空",
+            "sun": "太陽",
+            "grass": "草地",
+            "chimney": "煙囪",
+            "walls": "牆壁",
+            "roof": "屋頂",
+            "door": "門",
+            "window-left": "左邊的窗戶",
+            "window-right": "右邊的窗戶",
+            "path": "小路"
+          }
+        },
+        "teacup": {
+          "name": "茶杯",
+          "regions": {
+            "background": "背景",
+            "saucer": "杯碟",
+            "handle": "杯子把手",
+            "cup": "杯子",
+            "band": "杯子上的條紋",
+            "tea": "茶"
+          }
+        },
+        "butterfly": {
+          "name": "蝴蝶",
+          "regions": {
+            "background": "背景",
+            "wing-top-left": "左上的翅膀",
+            "wing-top-right": "右上的翅膀",
+            "wing-bottom-left": "左下的翅膀",
+            "wing-bottom-right": "右下的翅膀",
+            "spot-left": "左邊翅膀上的圓點",
+            "spot-right": "右邊翅膀上的圓點",
+            "body": "身體"
+          }
+        },
+        "sailboat": {
+          "name": "帆船",
+          "regions": {
+            "sky": "天空",
+            "sea": "大海",
+            "sail-big": "大帆",
+            "sail-small": "小帆",
+            "mast": "桅桿",
+            "hull": "船身",
+            "flag": "旗子"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "廚房和花園",
+          "baskets": ["廚房裡", "花園裡"]
+        },
+        "fruit-animals": {
+          "label": "水果和動物",
+          "baskets": ["水果", "動物"]
+        },
+        "home-travel": {
+          "label": "家裡和旅行",
+          "baskets": ["在家裡", "出門在外"]
+        }
+      }
+    }
+  }
+}

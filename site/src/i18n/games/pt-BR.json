@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Pares de figuras",
+    "seoTitle": "Jogo da memória para idosos com demência: Pares de figuras",
+    "h1": "Pares de figuras: um jogo da memória tranquilo",
+    "description": "Jogo da memória gratuito e tranquilo para pessoas com demência. As figuras grandes ficam à vista, sem cronômetro nem pontos, e você escolhe de 4 a 12 cartas.",
+    "short": "Encontre as duas figuras iguais. As figuras podem ficar à vista.",
+    "players": "1 ou 2 pessoas, lado a lado",
+    "intro": "Toque em uma figura e depois na figura igual a ela. Por padrão, as figuras ficam à vista, então não é preciso lembrar de nada. Quando duas figuras formam um par, ganham uma borda dourada e um sinal de certo.",
+    "howTo": [
+      "Escolha quantas cartas usar. Quatro cartas é um começo tranquilo.",
+      "Toque em qualquer figura. Ela ganha uma borda dourada.",
+      "Toque na figura que é igual. O par fica junto, com um sinal de certo.",
+      "Se as duas figuras forem diferentes, nada de ruim acontece. Toque de novo quando quiser.",
+      "Ligue “Figuras escondidas” só se vocês dois gostarem da versão clássica, com as cartas viradas para baixo."
+    ],
+    "tips": [
+      "Digam o nome das figuras em voz alta e conversem sobre elas: “Uma xícara vermelha. Você gosta de café com leite?”",
+      "Deixe a pessoa de quem você cuida tocar na tela, mesmo que demore um pouco. Aponte em vez de tocar por ela.",
+      "Fiquem com quatro cartas enquanto estiver gostoso. Mais cartas são uma opção, nunca uma fase a vencer.",
+      "Termine enquanto ainda está agradável. Um jogo já é uma atividade completa."
+    ],
+    "faq": [
+      {
+        "q": "Tem cronômetro ou pontos?",
+        "a": "Não. Não há relógio, pontos, contador de jogadas nem derrota. Vocês podem parar a qualquer momento, e parar no meio é um ótimo jeito de terminar."
+      },
+      {
+        "q": "Por que as figuras ficam viradas para cima?",
+        "a": "Com as figuras à vista, o jogo passa a ser olhar e combinar, e não lembrar. Muitas pessoas acham isso mais tranquilo. Se preferir, você pode mudar para figuras escondidas com um toque."
+      },
+      {
+        "q": "É gratuito? Preciso me cadastrar?",
+        "a": "Sim, é gratuito, e não há conta, cadastro nem download. Funciona no navegador do celular, do tablet ou do computador."
+      },
+      {
+        "q": "Podemos usar nossas próprias fotos de família?",
+        "a": "Sim. Experimente o Pares de fotos, que permite escolher fotos do seu aparelho. As fotos ficam no seu navegador e não são enviadas."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Encontre o igual",
+    "seoTitle": "Encontre a figura igual: jogo simples para demência",
+    "h1": "Encontre a figura igual",
+    "description": "Uma figura em cima e duas a quatro embaixo. Toque na que é igual. Um jogo de figuras calmo e gratuito para pessoas com demência, sem cronômetro.",
+    "short": "Olhe a figura de cima e toque na igual, embaixo.",
+    "players": "1 ou 2 pessoas",
+    "intro": "Uma figura fica no alto da tela. Embaixo dela há duas, três ou quatro figuras. Toque na que é igual. É uma escolha simples de cada vez, com bastante espaço para conversar.",
+    "howTo": [
+      "Escolha entre duas, três ou quatro figuras para comparar. Duas é o mais simples.",
+      "Olhem juntos a figura de cima.",
+      "Toque na figura igual, embaixo. Ela ganha um sinal de certo e algumas palavras carinhosas.",
+      "Se outra figura for tocada, o jogo apenas diz o nome dela e espera. Sem pressa.",
+      "Toque em “Próxima figura” quando quiserem outra."
+    ],
+    "tips": [
+      "Conversem sobre cada figura antes de escolher: cores, formatos, onde se costuma ver aquilo.",
+      "Duas opções não é “fácil demais”. O objetivo é um momento agradável, não um desafio.",
+      "Se tocar na tela for difícil, a pessoa pode apontar e você toca por ela."
+    ],
+    "faq": [
+      {
+        "q": "Tem cronômetro ou pontos?",
+        "a": "Não. Não há relógio, pontos, contador de jogadas nem derrota. Vocês podem parar a qualquer momento, e parar no meio é um ótimo jeito de terminar."
+      },
+      {
+        "q": "O que acontece se a figura errada for tocada?",
+        "a": "Nada desagradável. Não há campainha, X vermelho nem tela tremendo. O jogo diz o nome da figura tocada e espera o próximo toque."
+      },
+      {
+        "q": "É gratuito? Preciso me cadastrar?",
+        "a": "Sim, é gratuito, e não há conta, cadastro nem download. Funciona no navegador do celular, do tablet ou do computador."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Jogo das sombras",
+    "seoTitle": "Jogo das sombras para idosos com demência: grátis",
+    "h1": "Jogo das sombras: um jogo de figuras tranquilo",
+    "description": "Uma sombra em cima e duas a quatro figuras embaixo. Toque na figura que faz a sombra. Jogo das sombras gratuito para pessoas com demência, sem cronômetro.",
+    "short": "Olhe a sombra e toque na figura que a forma.",
+    "players": "1 ou 2 pessoas",
+    "intro": "Ligar a figura à sombra é uma atividade conhecida das folhas impressas, aqui com figuras grandes e nada para imprimir. Uma sombra suave fica no alto da tela, e duas, três ou quatro figuras esperam embaixo. Toque na que forma a sombra. Formatos como uma bicicleta, um guarda-chuva ou uma xícara também rendem boas conversas.",
+    "howTo": [
+      "Escolha entre duas, três ou quatro figuras para comparar. Duas é o mais simples.",
+      "Olhem a sombra juntos. Que formato ela tem? É alta ou redonda?",
+      "Toque na figura que forma a sombra. O nome dela aparece embaixo da sombra.",
+      "Se outra figura for tocada, o jogo apenas diz o nome dela e espera. Sem pressa.",
+      "Toque em “Próxima sombra” quando quiserem outra."
+    ],
+    "tips": [
+      "Contorne a sombra com o dedo e conversem sobre o formato.",
+      "Se as sombras estiverem difíceis hoje, mude para Encontre o igual, em que as figuras são idênticas.",
+      "Conversem sobre a figura depois de encontrá-la: “A gente tinha um guarda-chuva assim.”"
+    ],
+    "faq": [
+      {
+        "q": "Tem cronômetro ou pontos?",
+        "a": "Não. Não há relógio, pontos, contador de jogadas nem derrota. Vocês podem parar a qualquer momento, e parar no meio é um ótimo jeito de terminar."
+      },
+      {
+        "q": "O jogo das sombras é bom para pessoas com demência?",
+        "a": "Pode ser uma atividade agradável e simples para algumas pessoas, principalmente nas fases iniciais. Formatos são mais fáceis de reconhecer do que palavras. É para diversão e conversa, não um teste, e não trata nem retarda a demência. Se causar frustração, experimente Encontre o igual ou simplesmente olhem figuras juntos."
+      },
+      {
+        "q": "O que acontece se a figura errada for tocada?",
+        "a": "Nada desagradável. Não há campainha, X vermelho nem tela tremendo. O jogo diz o nome da figura tocada e espera o próximo toque."
+      },
+      {
+        "q": "É gratuito? Preciso me cadastrar?",
+        "a": "Sim, é gratuito, e não há conta, cadastro nem download. Funciona no navegador do celular, do tablet ou do computador."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Separar juntos",
+    "seoTitle": "Jogo de separar para pessoas com demência",
+    "h1": "Separar juntos: uma atividade de separar figuras",
+    "description": "Toque em uma figura e depois no cesto certo: cozinha ou jardim, frutas ou animais. Uma atividade de separar calma e gratuita para pessoas com demência.",
+    "short": "Coloque cada figura no seu cesto: cozinha ou jardim, e outros.",
+    "players": "1 ou 2 pessoas",
+    "intro": "Separar coisas é uma tarefa do dia a dia, conhecida e gratificante, como guardar as compras do mercado ou juntar os pares de meia. Toque em uma figura e depois no cesto onde ela vai. Não há pressa nem caminho errado.",
+    "howTo": [
+      "Escolha um tema: cozinha e jardim, frutas e animais, ou casa e viagem.",
+      "Toque em uma figura. Ela ganha uma borda dourada.",
+      "Toque no cesto onde ela vai. A figura passa para esse cesto.",
+      "Se ela for do outro cesto, o jogo avisa com delicadeza e espera.",
+      "Quando todas as figuras estiverem separadas, olhem os cestos juntos."
+    ],
+    "tips": [
+      "Na vida real, muitas vezes não existe resposta errada. Se alguém disser que o regador vai na cozinha, pergunte por quê. Pode sair uma boa história.",
+      "Use as figuras como ponto de partida: “O que você plantava no seu quintal?”",
+      "Separar objetos de verdade, como colheres e garfos ou botões por cor, é uma ótima continuação longe da tela."
+    ],
+    "faq": [
+      {
+        "q": "Tem cronômetro ou pontos?",
+        "a": "Não. Não há relógio, pontos, contador de jogadas nem derrota. Vocês podem parar a qualquer momento, e parar no meio é um ótimo jeito de terminar."
+      },
+      {
+        "q": "Por que separar?",
+        "a": "Muitas pessoas gostam de separar coisas porque parece um trabalho útil e conhecido. Também é fácil conversar sobre as figuras enquanto isso."
+      },
+      {
+        "q": "É gratuito? Preciso me cadastrar?",
+        "a": "Sim, é gratuito, e não há conta, cadastro nem download. Funciona no navegador do celular, do tablet ou do computador."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Quebra-cabeça de figuras",
+    "seoTitle": "Quebra-cabeça fácil para idosos com demência: 4 ou 9 peças",
+    "h1": "Quebra-cabeça de figuras: fácil de montar",
+    "description": "Quebra-cabeça online fácil para pessoas com demência: 4 ou 9 peças grandes, a figura inteira fica à vista e basta tocar em duas peças para trocá-las de lugar.",
+    "short": "Toque em duas peças para trocá-las até a figura ficar inteira.",
+    "players": "1 ou 2 pessoas",
+    "intro": "Uma figura simpática é dividida em quatro ou nove peças grandes e embaralhada. A figura inteira fica à vista como guia. Toque em uma peça, depois em outra, e elas trocam de lugar. Não é preciso arrastar.",
+    "howTo": [
+      "Escolha uma figura e 4 ou 9 peças. Quatro é um começo tranquilo.",
+      "Olhem a figura inteira, no alto.",
+      "Toque em uma peça e depois no lugar onde ela deve ficar. As duas peças trocam de lugar.",
+      "As peças no lugar certo ganham um pequeno sinal de certo.",
+      "Quando a figura estiver inteira, apreciem juntos e depois escolham outra."
+    ],
+    "tips": [
+      "Para muita gente, tocar em duas peças para trocá-las é bem mais fácil do que arrastar.",
+      "Conversem sobre a figura enquanto ela vai se formando: “Olha o telhado vermelho.”",
+      "Um quebra-cabeça de madeira de verdade, com 12 a 24 peças grandes, também é uma ótima atividade de mesa."
+    ],
+    "faq": [
+      {
+        "q": "Tem cronômetro ou pontos?",
+        "a": "Não. Não há relógio, pontos, contador de jogadas nem derrota. Vocês podem parar a qualquer momento, e parar no meio é um ótimo jeito de terminar."
+      },
+      {
+        "q": "Preciso arrastar as peças?",
+        "a": "Não. Toque em uma peça, depois em outra, e elas trocam de lugar. Isso é mais fácil para quem tem a mão trêmula ou usa uma tela pequena."
+      },
+      {
+        "q": "É gratuito? Preciso me cadastrar?",
+        "a": "Sim, é gratuito, e não há conta, cadastro nem download. Funciona no navegador do celular, do tablet ou do computador."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Complete o ditado",
+    "seoTitle": "Complete o ditado: jogo de ditados populares para idosos",
+    "h1": "Complete o ditado",
+    "description": "Ditados populares conhecidos sem a última palavra, como “Quem espera sempre ___”. Toque em uma opção ou mostre o final e depois conversem.",
+    "short": "Completem juntos ditados conhecidos e conversem sobre eles.",
+    "players": "1, 2 ou um grupo",
+    "intro": "Os ditados antigos costumam acompanhar a gente a vida inteira. Cada carta mostra um ditado conhecido sem a última palavra, três opções e um botão “Mostrar o final”. Depois do final, uma pergunta leve convida à conversa.",
+    "howTo": [
+      "Leiam o ditado em voz alta juntos.",
+      "Toque na palavra que completa o ditado ou em “Mostrar o final”.",
+      "Leiam o ditado inteiro de novo e conversem sobre ele a partir da pergunta.",
+      "Toque em “Próximo ditado” quando quiserem."
+    ],
+    "tips": [
+      "Leia devagar e faça uma pausa antes da última palavra. Muitas vezes a pessoa completa antes de você.",
+      "Se alguém disser outro final, aproveite. Alguns ditados mudam de família para família ou de região para região.",
+      "Em grupo, uma pessoa lê e todos dizem o final juntos."
+    ],
+    "faq": [
+      {
+        "q": "Tem cronômetro ou pontos?",
+        "a": "Não. Não há relógio, pontos, contador de jogadas nem derrota. Vocês podem parar a qualquer momento, e parar no meio é um ótimo jeito de terminar."
+      },
+      {
+        "q": "E se escolhermos outra palavra?",
+        "a": "O jogo mostra o final mais comum e passa para a conversa. Não há pontos, e uma resposta diferente não tem problema nenhum."
+      },
+      {
+        "q": "É gratuito? Preciso me cadastrar?",
+        "a": "Sim, é gratuito, e não há conta, cadastro nem download. Funciona no navegador do celular, do tablet ou do computador."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Caça-palavras com letras grandes",
+    "seoTitle": "Caça-palavras com letras grandes para idosos, para imprimir",
+    "h1": "Caça-palavras com letras grandes",
+    "description": "Caça-palavras gratuito com letras grandes para idosos e pessoas com demência. Poucas palavras, só na horizontal e na vertical. Jogue online ou imprima.",
+    "short": "Letras grandes, poucas palavras, só na horizontal e na vertical. Dá para imprimir.",
+    "players": "1 ou 2 pessoas",
+    "intro": "Uma grade pequena com letras grandes e poucas palavras do dia a dia, todas na horizontal ou na vertical. Toque na primeira letra de uma palavra e depois na última. Prefere papel? Imprima um caça-palavras novo com um toque.",
+    "howTo": [
+      "Escolha um tema e o tamanho da grade.",
+      "Olhe a lista de palavras. As palavras estão na horizontal (da esquerda para a direita) ou na vertical (de cima para baixo).",
+      "Toque na primeira letra de uma palavra e depois na última letra.",
+      "A palavra encontrada fica destacada e é riscada da lista.",
+      "Toque em “Imprimir este caça-palavras” para jogar no papel, com lápis ou caneta."
+    ],
+    "tips": [
+      "Aponte uma palavra da lista e procurem juntos a primeira letra.",
+      "No papel, uma caneta marca-texto é mais fácil de segurar do que um lápis.",
+      "Conversem sobre as palavras do tema. Nomes de frutas costumam puxar lembranças de colheita, de receitas ou da feira."
+    ],
+    "faq": [
+      {
+        "q": "Tem cronômetro ou pontos?",
+        "a": "Não. Não há relógio, pontos, contador de jogadas nem derrota. Vocês podem parar a qualquer momento, e parar no meio é um ótimo jeito de terminar."
+      },
+      {
+        "q": "Posso imprimir o caça-palavras?",
+        "a": "Sim. Toque em “Imprimir este caça-palavras” para imprimir a grade atual em letras grandes, com a lista de palavras embaixo. Cada novo caça-palavras é diferente."
+      },
+      {
+        "q": "É gratuito? Preciso me cadastrar?",
+        "a": "Sim, é gratuito, e não há conta, cadastro nem download. Funciona no navegador do celular, do tablet ou do computador."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Desenhos para colorir",
+    "seoTitle": "Desenhos para colorir para idosos com demência (grátis)",
+    "h1": "Desenhos para colorir",
+    "description": "Desenhos para colorir simples, feitos para adultos, com áreas grandes: toque em uma cor e depois no desenho. Sem sujeira, sem cor errada, e dá para imprimir.",
+    "short": "Toque em uma cor e depois em uma parte do desenho. Dá para imprimir.",
+    "players": "1 ou 2 pessoas",
+    "intro": "Desenhos com formas grandes e simples: uma flor no vaso, uma casa, uma xícara, uma borboleta e um veleiro. Toque em uma cor e depois em uma parte do desenho para pintá-la. Não existe cor errada.",
+    "howTo": [
+      "Escolha um desenho.",
+      "Toque em uma cor. Cada cor tem o nome escrito nela.",
+      "Toque em uma parte do desenho para pintá-la com essa cor.",
+      "Mudou de ideia? É só pintar de novo.",
+      "Toque em “Imprimir esta página” para ter um desenho em branco e colorir com lápis de cor ou canetinhas."
+    ],
+    "tips": [
+      "Se escolher entre muitas cores parecer demais, ofereça só duas.",
+      "Árvores roxas e sóis azuis são bem-vindos. O que importa é aproveitar as cores, não acertar.",
+      "Os desenhos impressos funcionam bem com canetinhas grossas ou giz de cera, que são mais fáceis de segurar."
+    ],
+    "faq": [
+      {
+        "q": "Tem cronômetro ou pontos?",
+        "a": "Não. Não há relógio, pontos, contador de jogadas nem derrota. Vocês podem parar a qualquer momento, e parar no meio é um ótimo jeito de terminar."
+      },
+      {
+        "q": "Esses desenhos não são infantis demais?",
+        "a": "Desenhamos objetos simples e tranquilos em vez de personagens de desenho animado, para que os desenhos combinem com adultos. As formas grandes deixam a pintura fácil sem parecer coisa de criança."
+      },
+      {
+        "q": "É gratuito? Preciso me cadastrar?",
+        "a": "Sim, é gratuito, e não há conta, cadastro nem download. Funciona no navegador do celular, do tablet ou do computador."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Cartas de conversa",
+    "seoTitle": "Cartas para puxar conversa com pessoas com demência",
+    "h1": "Cartas de conversa",
+    "description": "Cartas com figuras e perguntas leves para puxar conversa com pessoas com demência: sem cobrança, sem resposta certa. Use na tela ou imprima o conjunto todo.",
+    "short": "Cartas com figuras e perguntas abertas e leves. Sem cobrança.",
+    "players": "2 pessoas ou um grupo",
+    "intro": "Cada carta junta uma figura conhecida a um convite aberto para conversar, como “Qual é o seu tipo de tempo preferido?”. Não há resposta certa nem nada para lembrar. Escolha um tema ou embaralhe todas.",
+    "howTo": [
+      "Escolha um tema ou deixe em “Todas as cartas”.",
+      "Leia a pergunta em voz alta e olhem a figura juntos.",
+      "Escute, conte a sua própria resposta e deixe a conversa ir para onde quiser.",
+      "Toque em “Próxima carta” quando quiserem, ou fiquem em uma carta pelo tempo que quiserem.",
+      "Toque em “Imprimir todas as cartas” para recortar um conjunto de papel."
+    ],
+    "tips": [
+      "Responda à pergunta você também. Assim parece uma conversa, não uma entrevista.",
+      "Siga a história, não os fatos. Se os detalhes mudarem, tudo bem.",
+      "Se uma carta tocar em algo triste, reconheça o sentimento e passe com delicadeza para outra carta."
+    ],
+    "faq": [
+      {
+        "q": "Por que não há perguntas do tipo “Você se lembra…?”",
+        "a": "Perguntas que testam a memória podem parecer uma prova e causar constrangimento. Convites abertos, como “Me conta sobre…”, deixam qualquer pessoa participar, seja lá do que ela se lembre."
+      },
+      {
+        "q": "Posso imprimir as cartas?",
+        "a": "Sim. “Imprimir todas as cartas” imprime o conjunto completo em letras grandes, várias cartas por página, prontas para recortar."
+      },
+      {
+        "q": "É gratuito? Preciso me cadastrar?",
+        "a": "Sim, é gratuito, e não há conta, cadastro nem download. Funciona no navegador do celular, do tablet ou do computador."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Pares de fotos",
+    "seoTitle": "Jogo da memória com fotos de família",
+    "h1": "Pares de fotos: jogo com as suas próprias fotos",
+    "description": "Transforme suas fotos de família em um jogo da memória tranquilo. Escolha de 2 a 6 fotos do seu aparelho; elas ficam no navegador e nunca são enviadas.",
+    "short": "Escolha suas próprias fotos e forme os pares. Nada é enviado.",
+    "players": "2 pessoas, lado a lado",
+    "intro": "Escolha de duas a seis fotos do seu celular, tablet ou computador, e elas viram um jogo de pares com figuras grandes e à vista. As fotos aparecem apenas dentro desta página. Elas não são enviadas, salvas nem compartilhadas, e somem quando você fecha a página.",
+    "howTo": [
+      "Toque em “Escolher fotos” e selecione de duas a seis fotos.",
+      "Cada foto aparece duas vezes. Toque em uma e depois no par dela.",
+      "Conversem sobre cada foto quando a encontrarem.",
+      "Quando terminarem, feche a página ou toque em “Limpar fotos”. Nada fica guardado."
+    ],
+    "tips": [
+      "Escolha fotos nítidas de coisas alegres e conhecidas: um bicho de estimação, um jardim, um lugar querido, um dia de casamento.",
+      "Fotos de lugares e objetos podem ser mais fáceis do que rostos, e evitam qualquer pressão para dizer o nome das pessoas.",
+      "Deixe de fora fotos de pessoas que já faleceram se elas puderem trazer uma tristeza repentina, a não ser que você saiba que trazem conforto."
+    ],
+    "faq": [
+      {
+        "q": "Minhas fotos são enviadas para algum lugar?",
+        "a": "Não. A página lê as fotos que você escolhe diretamente no seu navegador e as mostra na sua tela. Elas não são enviadas para nós nem para ninguém, e somem quando você fecha ou recarrega a página."
+      },
+      {
+        "q": "Tem cronômetro ou pontos?",
+        "a": "Não. Não há relógio, pontos, contador de jogadas nem derrota. Vocês podem parar a qualquer momento, e parar no meio é um ótimo jeito de terminar."
+      },
+      {
+        "q": "Posso salvar o jogo para a próxima vez?",
+        "a": "No navegador, não. É de propósito, para que nada privado fique guardado. O aplicativo gratuito Golden Moments para iPhone e iPad pode guardar cópias das fotos selecionadas no seu aparelho."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bingo de figuras",
+    "seoTitle": "Bingo de figuras para idosos com demência: para imprimir",
+    "h1": "Bingo de figuras para grupos",
+    "description": "Bingo de figuras grátis para imprimir, para grupos de idosos e casas de repouso, com sorteador na tela. Figuras grandes, 9 ou 16 casas, sem precisar ler.",
+    "short": "Cartelas de bingo de figuras para imprimir e um sorteador na tela grande para grupos.",
+    "players": "Um grupo de 2 a 30 pessoas",
+    "intro": "O bingo de sempre, com figuras no lugar dos números, para que ninguém precise ler letras pequenas. Imprima um conjunto de cartelas diferentes e use o sorteador na tela para mostrar cada figura em tamanho grande em uma TV, notebook ou tablet.",
+    "howTo": [
+      "Escolha 9 ou 16 casas por cartela e quantos jogadores vão participar.",
+      "Toque em “Imprimir cartelas”. Cada cartela é diferente.",
+      "Abra o sorteador em uma tela grande. Toque em “Próxima figura” para mostrar cada figura com o nome dela.",
+      "Os jogadores cobrem a figura correspondente na cartela com uma moeda, um botão ou um marcador.",
+      "Quem completar uma linha, ou a cartela inteira, ganha uma salva de palmas. Nesta versão ninguém perde: continuem jogando até todos completarem uma linha."
+    ],
+    "tips": [
+      "Use marcadores grandes, como peças de dama ou tampinhas de garrafa. Botões pequenos podem ser difíceis de pegar.",
+      "Diga o nome da figura e comente algo sobre ela: “Um veleiro. Quem já andou de barco?”",
+      "Coloque as pessoas que enxergam com dificuldade mais perto da tela e deixe ajudantes ao lado de quem precisa.",
+      "Nove casas bastam para a maioria dos grupos. Mantenha a sessão em torno de 20 a 30 minutos."
+    ],
+    "faq": [
+      {
+        "q": "Como faço um bingo de figuras em uma casa de repouso?",
+        "a": "Imprima uma cartela por jogador, coloque o sorteador na maior tela que tiver e sorteie as figuras devagar, dizendo o nome de cada uma. Joguem até todos completarem uma linha, para ninguém ficar de fora."
+      },
+      {
+        "q": "É gratuito para imprimir?",
+        "a": "Sim. Imprima quantas cartelas precisar, quantas vezes quiser, para uso pessoal ou em grupo."
+      },
+      {
+        "q": "Dá para jogar sem saber ler?",
+        "a": "Sim. Cada casa é uma figura grande, com o nome embaixo para quem gosta de palavras."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Respiração calma",
+    "seoTitle": "Uma pausa para respirar com calma, para idosos e cuidadores",
+    "h1": "Uma pausa para respirar com calma",
+    "description": "Uma pausa lenta e tranquila para respirar juntos: um círculo suave cresce e diminui durante seis respirações. Você começa e pode parar quando quiser.",
+    "short": "Um círculo lento para acompanhar com a respiração. Comece e pare quando quiser.",
+    "players": "1 ou 2 pessoas",
+    "intro": "Às vezes, a melhor atividade é uma pausa tranquila. Toque em “Começar” e então inspire enquanto o círculo cresce e expire enquanto ele diminui. Escolha um ritmo mais lento ou mais rápido. Não é um tratamento, apenas um momento de paz para compartilhar.",
+    "howTo": [
+      "Sentem-se confortavelmente lado a lado.",
+      "Escolha um ritmo: lento ou suave.",
+      "Toque em “Começar”. Inspire enquanto o círculo cresce e expire enquanto ele diminui.",
+      "Ele para sozinho depois de seis respirações, ou toque em “Parar” quando quiser."
+    ],
+    "tips": [
+      "Segure a mão da pessoa ou apoie a mão no braço dela, se isso for bem-vindo.",
+      "Nunca insista. Se a pessoa preferir só olhar, tudo bem.",
+      "Se alguém tiver problemas respiratórios, respire normalmente e apenas acompanhe o círculo com os olhos. Converse com um médico sobre qualquer preocupação com a respiração."
+    ],
+    "faq": [
+      {
+        "q": "Isto é um exercício respiratório médico?",
+        "a": "Não. É uma pausa simples e opcional, para calma e companhia. Não é tratamento para ansiedade nem para nenhuma condição de saúde. Converse com um médico sobre preocupações de saúde."
+      },
+      {
+        "q": "O círculo se move sem eu começar?",
+        "a": "Não. Nada se move até você tocar em Começar, e ele para depois de seis respirações ou quando você toca em Parar. Se o seu aparelho estiver configurado para reduzir o movimento, as palavras mudam sem o círculo crescer."
+      },
+      {
+        "q": "É gratuito? Preciso me cadastrar?",
+        "a": "Sim, é gratuito, e não há conta, cadastro nem download. Funciona no navegador do celular, do tablet ou do computador."
+      }
+    ]
+  }
+}

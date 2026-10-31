@@ -1,12 +1,15 @@
 import { useCreateStore, useSelector } from '@tanstack/react-store';
 import { useEffect } from 'react';
+import type { PlayProps } from '../../i18n/play';
+import { fill } from '../../i18n/play/format';
 import { boardColumns, createPairs, isComplete, tapPair, type PairsState } from '../../lib/games/pairs';
 import { createRng, randomSeed } from '../../lib/games/random';
-import { PictureTile, pictureName, type TileState } from './PictureTile';
+import { PictureTile, pictureNamer, type TileState } from './PictureTile';
 import { sounds } from './sound';
 import { useWide } from './useWide';
 
 interface PairsBoardProps {
+  play: PlayProps;
   values: readonly string[];
   hidden: boolean;
   photos?: boolean;
@@ -25,7 +28,9 @@ function tileState(state: PairsState, i: number, hidden: boolean): TileState {
   return hidden ? 'hidden' : 'resting';
 }
 
-export function PairsBoard({ values, hidden, photos = false, round, onMessage, onComplete }: PairsBoardProps) {
+export function PairsBoard({ play, values, hidden, photos = false, round, onMessage, onComplete }: PairsBoardProps) {
+  const { ui, lang } = play;
+  const pictureName = pictureNamer(play);
   const wide = useWide();
   const store = useCreateStore<PairsState, { tap: (i: number) => void; reset: (v: readonly string[]) => void }>(
     { tiles: [], selected: null, mismatch: null, lastMatch: null },
@@ -43,7 +48,7 @@ export function PairsBoard({ values, hidden, photos = false, round, onMessage, o
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [values, round]);
 
-  const label = (v: string) => (photos ? `Photo ${values.indexOf(v) + 1}` : pictureName(v));
+  const label = (v: string) => (photos ? fill(ui.tile.photoNumber, { n: values.indexOf(v) + 1 }) : pictureName(v));
 
   const onTap = (i: number) => {
     const before = store.state;
@@ -55,21 +60,24 @@ export function PairsBoard({ values, hidden, photos = false, round, onMessage, o
       const v = after.tiles[i]?.value ?? '';
       if (isComplete(after)) {
         sounds.done();
-        onMessage('All pairs together. Play again or take a break.');
+        onMessage(ui.pairs.allTogether);
         onComplete();
       } else {
         sounds.match();
-        onMessage(photos ? 'A pair of photos, together.' : `Two pictures of the ${pictureName(v).toLowerCase()}, together.`);
+        onMessage(photos ? ui.pairs.photoPair : fill(ui.pairs.picturePair, { name: pictureName(v) }, lang));
       }
     } else if (after.mismatch) {
       // With hidden tiles a screen reader user cannot see what turned over, so name both.
       const [a, b] = after.mismatch;
-      const names = hidden ? `${label(after.tiles[a]?.value ?? '')} and ${label(after.tiles[b]?.value ?? '')}. ` : '';
-      onMessage(`${names}Take your time. Tap a picture to continue.`);
+      onMessage(
+        hidden
+          ? fill(ui.pairs.mismatchNamed, { a: label(after.tiles[a]?.value ?? ''), b: label(after.tiles[b]?.value ?? '') })
+          : ui.pairs.mismatch,
+      );
     } else {
       sounds.tap();
       const v = after.tiles[i]?.value ?? '';
-      onMessage(after.selected === i ? `${label(v)}. Now find its pair.` : '');
+      onMessage(after.selected === i ? fill(ui.pairs.selected, { name: label(v) }) : '');
     }
   };
 
@@ -79,9 +87,10 @@ export function PairsBoard({ values, hidden, photos = false, round, onMessage, o
       {state.tiles.map((t, i) => (
         <PictureTile
           key={t.key}
+          ui={ui}
           value={t.value}
           photo={photos}
-          label={photos ? label(t.value) : undefined}
+          name={label(t.value)}
           position={i + 1}
           state={tileState(state, i, hidden)}
           onTap={() => onTap(i)}

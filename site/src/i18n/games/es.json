@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Parejas de imágenes",
+    "seoTitle": "Juego de parejas para personas con demencia",
+    "h1": "Parejas de imágenes: un juego tranquilo para emparejar",
+    "description": "Un juego de parejas gratis y tranquilo para personas con demencia o alzhéimer. Imágenes grandes a la vista, sin cronómetro ni puntos, de 4 a 12 casillas.",
+    "short": "Encuentre las dos imágenes iguales. Las imágenes pueden quedar a la vista.",
+    "players": "1 o 2 personas, una al lado de la otra",
+    "intro": "Toque una imagen y luego toque la que es igual. De forma predeterminada, las imágenes siguen a la vista, así que no hay que recordar nada. Cuando dos imágenes van juntas, se marcan con un borde dorado y una marca de verificación.",
+    "howTo": [
+      "Elija cuántas casillas usar. Cuatro casillas son un buen comienzo, tranquilo.",
+      "Toque cualquier imagen. Se marca con un borde dorado.",
+      "Toque la imagen que se ve igual. La pareja queda unida con una marca de verificación.",
+      "Si las dos imágenes son distintas, no pasa nada malo. Vuelva a tocar cuando esté listo.",
+      "Active «Imágenes ocultas» solo si a los dos les gusta la versión clásica, boca abajo."
+    ],
+    "tips": [
+      "Digan en voz alta el nombre de las imágenes y conversen sobre ellas: «Una taza de té roja. ¿Usted toma el té con leche?».",
+      "Deje que la persona a la que cuida toque la pantalla, aunque tarde un poco. Señale la imagen en lugar de tocarla por ella.",
+      "Quédense con cuatro casillas mientras se sientan a gusto. Usar más casillas es una opción, nunca un nivel que alcanzar.",
+      "Terminen mientras todavía sea agradable. Un solo juego ya es una actividad completa."
+    ],
+    "faq": [
+      {
+        "q": "¿Hay cronómetro o puntos?",
+        "a": "No. No hay reloj, puntos, contador de movimientos ni forma de perder. Pueden parar en cualquier momento, y parar a mitad de camino es una manera perfectamente buena de terminar."
+      },
+      {
+        "q": "¿Por qué las imágenes siguen boca arriba?",
+        "a": "Dejar las imágenes a la vista convierte el juego en mirar y emparejar, en lugar de recordar. A muchas personas esto les resulta más tranquilo. Si lo prefiere, puede pasar a imágenes ocultas con un solo toque."
+      },
+      {
+        "q": "¿Es gratis? ¿Tengo que registrarme?",
+        "a": "Sí, es gratis, y no hace falta cuenta, registro ni descargas. Funciona en el navegador de un teléfono, una tableta o una computadora."
+      },
+      {
+        "q": "¿Podemos usar nuestras propias fotos familiares?",
+        "a": "Sí. Pruebe Parejas de fotos, que le permite elegir fotos de su dispositivo. Las fotos se quedan en su navegador y no se suben a internet."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Encuentre la igual",
+    "seoTitle": "Encuentre la imagen igual: juego para la demencia",
+    "h1": "Encuentre la imagen igual",
+    "description": "Una imagen arriba y de dos a cuatro abajo. Toque la que es igual. Un juego de imágenes gratis y tranquilo para personas con demencia, sin cronómetro.",
+    "short": "Mire la imagen de arriba y toque la que es igual más abajo.",
+    "players": "1 o 2 personas",
+    "intro": "Hay una sola imagen en la parte de arriba de la pantalla. Debajo hay dos, tres o cuatro imágenes. Toque la que es igual. Es una elección sencilla cada vez, con mucho espacio para conversar.",
+    "howTo": [
+      "Elija entre cuántas imágenes escoger: dos, tres o cuatro. Dos es lo más sencillo.",
+      "Miren juntos la imagen de arriba.",
+      "Toque la imagen igual de abajo. Se marca con una marca de verificación y unas palabras amables.",
+      "Si se toca una imagen distinta, el juego simplemente dice su nombre y espera. Tómense su tiempo.",
+      "Toque «Siguiente imagen» cuando estén listos para otra."
+    ],
+    "tips": [
+      "Conversen sobre cada imagen antes de elegir: los colores, las formas, dónde se puede ver algo así.",
+      "Dos opciones no es «demasiado fácil». El objetivo es pasar un rato agradable, no superar un reto.",
+      "Si tocar la pantalla cuesta, la persona puede señalar y usted toca por ella."
+    ],
+    "faq": [
+      {
+        "q": "¿Hay cronómetro o puntos?",
+        "a": "No. No hay reloj, puntos, contador de movimientos ni forma de perder. Pueden parar en cualquier momento, y parar a mitad de camino es una manera perfectamente buena de terminar."
+      },
+      {
+        "q": "¿Qué pasa si se toca la imagen equivocada?",
+        "a": "Nada desagradable. No hay zumbidos, cruces rojas ni sacudidas. El juego dice el nombre de la imagen que se tocó y espera el siguiente toque."
+      },
+      {
+        "q": "¿Es gratis? ¿Tengo que registrarme?",
+        "a": "Sí, es gratis, y no hace falta cuenta, registro ni descargas. Funciona en el navegador de un teléfono, una tableta o una computadora."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Juego de sombras",
+    "seoTitle": "Juego de sombras para personas con demencia, gratis",
+    "h1": "Juego de sombras: un juego de imágenes tranquilo",
+    "description": "Una sombra arriba y de dos a cuatro imágenes abajo. Toque la imagen que hace esa sombra. Un juego de sombras gratis y tranquilo, sin cronómetro.",
+    "short": "Mire la sombra y toque la imagen que la hace.",
+    "players": "1 o 2 personas",
+    "intro": "Emparejar sombras es una actividad conocida de las fichas impresas, aquí con imágenes grandes y sin nada que imprimir. Arriba en la pantalla hay una sombra suave, y abajo esperan dos, tres o cuatro imágenes. Toque la que hace la sombra. Formas como una bicicleta, un paraguas o una taza de té también dan mucho de qué hablar.",
+    "howTo": [
+      "Elija entre cuántas imágenes escoger: dos, tres o cuatro. Dos es lo más sencillo.",
+      "Miren juntos la sombra. ¿Qué forma tiene? ¿Es alta o redonda?",
+      "Toque la imagen que hace la sombra. Su nombre aparece debajo de la sombra.",
+      "Si se toca una imagen distinta, el juego simplemente dice su nombre y espera. Tómense su tiempo.",
+      "Toque «Siguiente sombra» cuando estén listos para otra."
+    ],
+    "tips": [
+      "Recorran el contorno de la sombra con el dedo y conversen sobre la forma.",
+      "Si hoy las sombras resultan difíciles, cambien a Encuentre la igual, donde las imágenes son idénticas.",
+      "Conversen sobre la imagen cuando la encuentren: «Teníamos un paraguas como ese»."
+    ],
+    "faq": [
+      {
+        "q": "¿Hay cronómetro o puntos?",
+        "a": "No. No hay reloj, puntos, contador de movimientos ni forma de perder. Pueden parar en cualquier momento, y parar a mitad de camino es una manera perfectamente buena de terminar."
+      },
+      {
+        "q": "¿El juego de sombras es bueno para personas con demencia?",
+        "a": "Puede ser una actividad agradable y sencilla para algunas personas, sobre todo en las primeras etapas. Las formas se reconocen más fácilmente que las palabras. Es para disfrutar y conversar, no es una prueba, y no trata ni frena la demencia. Si causa frustración, pruebe Encuentre la igual o simplemente miren imágenes juntos."
+      },
+      {
+        "q": "¿Qué pasa si se toca la imagen equivocada?",
+        "a": "Nada desagradable. No hay zumbidos, cruces rojas ni sacudidas. El juego dice el nombre de la imagen que se tocó y espera el siguiente toque."
+      },
+      {
+        "q": "¿Es gratis? ¿Tengo que registrarme?",
+        "a": "Sí, es gratis, y no hace falta cuenta, registro ni descargas. Funciona en el navegador de un teléfono, una tableta o una computadora."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Clasificar juntos",
+    "seoTitle": "Juego de clasificar para personas con demencia",
+    "h1": "Clasificar juntos: una actividad de ordenar imágenes",
+    "description": "Toque una imagen y luego la cesta donde va: cocina o jardín, frutas o animales. Una actividad de clasificar gratis y tranquila para personas con demencia.",
+    "short": "Ponga cada imagen en su cesta: cocina o jardín, y más.",
+    "players": "1 o 2 personas",
+    "intro": "Clasificar es una tarea cotidiana, conocida y satisfactoria, como guardar la compra o emparejar calcetines. Toque una imagen y luego toque la cesta donde va. No hay prisa ni pasos en falso.",
+    "howTo": [
+      "Elija un tema: cocina y jardín, frutas y animales, o casa y viajes.",
+      "Toque una imagen. Se marca con un borde dorado.",
+      "Toque la cesta donde va. La imagen pasa a esa cesta.",
+      "Si va en la otra cesta, el juego lo dice con suavidad y espera.",
+      "Cuando todas las imágenes estén clasificadas, miren juntos las cestas."
+    ],
+    "tips": [
+      "En la vida real muchas veces no hay respuestas equivocadas. Si alguien dice que la regadera va en la cocina, pregúntele por qué. Quizá salga una buena historia.",
+      "Use las imágenes para iniciar la conversación: «¿Qué cultivaba usted en su jardín?».",
+      "Clasificar objetos reales, como cucharas y tenedores o botones por color, es una muy buena actividad para seguir lejos de la pantalla."
+    ],
+    "faq": [
+      {
+        "q": "¿Hay cronómetro o puntos?",
+        "a": "No. No hay reloj, puntos, contador de movimientos ni forma de perder. Pueden parar en cualquier momento, y parar a mitad de camino es una manera perfectamente buena de terminar."
+      },
+      {
+        "q": "¿Por qué clasificar?",
+        "a": "A muchas personas les gusta clasificar porque se siente como un trabajo útil y conocido. Además, es fácil conversar sobre las imágenes mientras se hace."
+      },
+      {
+        "q": "¿Es gratis? ¿Tengo que registrarme?",
+        "a": "Sí, es gratis, y no hace falta cuenta, registro ni descargas. Funciona en el navegador de un teléfono, una tableta o una computadora."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Rompecabezas de imágenes",
+    "seoTitle": "Rompecabezas fácil para la demencia: 4 o 9 piezas",
+    "h1": "Rompecabezas de imágenes: un puzle fácil",
+    "description": "Un rompecabezas en línea fácil para personas con demencia: 4 o 9 piezas grandes, la imagen completa siempre a la vista, y se tocan dos piezas para cambiarlas.",
+    "short": "Toque dos piezas para cambiarlas de lugar hasta completar la imagen.",
+    "players": "1 o 2 personas",
+    "intro": "Una imagen agradable se corta en cuatro o nueve piezas grandes y se mezcla. La imagen completa sigue a la vista como guía. Toque una pieza, luego otra, y cambian de lugar. No hace falta arrastrar nada.",
+    "howTo": [
+      "Elija una imagen y 4 o 9 piezas. Cuatro es un comienzo tranquilo.",
+      "Miren la imagen completa en la parte de arriba.",
+      "Toque una pieza y luego toque el lugar donde debería ir. Las dos piezas se intercambian.",
+      "Las piezas que están en su sitio llevan una pequeña marca de verificación.",
+      "Cuando la imagen esté completa, disfrútenla juntos y después elijan otra."
+    ],
+    "tips": [
+      "Para muchas personas, tocar dos piezas para intercambiarlas es mucho más fácil que arrastrarlas.",
+      "Conversen sobre la imagen a medida que se va formando: «Ahí está el tejado rojo».",
+      "Un rompecabezas de madera de verdad, de 12 a 24 piezas grandes, también es una actividad de mesa muy agradable."
+    ],
+    "faq": [
+      {
+        "q": "¿Hay cronómetro o puntos?",
+        "a": "No. No hay reloj, puntos, contador de movimientos ni forma de perder. Pueden parar en cualquier momento, y parar a mitad de camino es una manera perfectamente buena de terminar."
+      },
+      {
+        "q": "¿Hay que arrastrar las piezas?",
+        "a": "No. Toque una pieza, luego otra, y cambian de lugar. Así es más fácil si la mano tiembla o si la pantalla es pequeña."
+      },
+      {
+        "q": "¿Es gratis? ¿Tengo que registrarme?",
+        "a": "Sí, es gratis, y no hace falta cuenta, registro ni descargas. Funciona en el navegador de un teléfono, una tableta o una computadora."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Complete el refrán",
+    "seoTitle": "Complete el refrán: juego para personas mayores",
+    "h1": "Complete el refrán",
+    "description": "Refranes y dichos de toda la vida con la última palabra en blanco, como «Más vale pájaro en mano que ciento ___». Elija una opción o vea el final y conversen.",
+    "short": "Completen juntos refranes conocidos y luego conversen sobre ellos.",
+    "players": "1, 2 o un grupo",
+    "intro": "Los refranes de siempre suelen conocerse durante toda la vida. Cada tarjeta muestra un refrán conocido sin la última palabra, tres opciones y un botón «Mostrar el final». Después del final, una pregunta amable invita a conversar.",
+    "howTo": [
+      "Lean juntos el refrán en voz alta.",
+      "Toque la palabra que lo completa o toque «Mostrar el final».",
+      "Vuelvan a leer el refrán completo y conversen sobre él con la pregunta que aparece.",
+      "Toque «Siguiente refrán» cuando estén listos."
+    ],
+    "tips": [
+      "Lea despacio y haga una pausa antes de la última palabra. Muchas veces la otra persona la dice antes de que usted termine.",
+      "Si alguien dice otro final, disfrútenlo. Algunos refranes cambian según la familia o la región.",
+      "En grupo, una persona lee y todos dicen el final juntos."
+    ],
+    "faq": [
+      {
+        "q": "¿Hay cronómetro o puntos?",
+        "a": "No. No hay reloj, puntos, contador de movimientos ni forma de perder. Pueden parar en cualquier momento, y parar a mitad de camino es una manera perfectamente buena de terminar."
+      },
+      {
+        "q": "¿Y si elegimos otra palabra?",
+        "a": "El juego muestra el final habitual y pasa a la conversación. No hay puntos, y una respuesta distinta está bien."
+      },
+      {
+        "q": "¿Es gratis? ¿Tengo que registrarme?",
+        "a": "Sí, es gratis, y no hace falta cuenta, registro ni descargas. Funciona en el navegador de un teléfono, una tableta o una computadora."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Sopa de letras en letra grande",
+    "seoTitle": "Sopa de letras en letra grande para imprimir",
+    "h1": "Sopa de letras en letra grande",
+    "description": "Sopa de letras gratis en letra grande para personas mayores y personas con demencia. Pocas palabras, solo en horizontal y vertical. En línea o impresa.",
+    "short": "Letras grandes, pocas palabras, solo en horizontal y vertical. También para imprimir.",
+    "players": "1 o 2 personas",
+    "intro": "Una cuadrícula pequeña con letras grandes y solo unas pocas palabras conocidas, todas en horizontal o en vertical. Toque la primera letra de una palabra y luego su última letra. ¿Prefiere papel? Imprima una sopa de letras nueva con un solo toque.",
+    "howTo": [
+      "Elija un tema y un tamaño de cuadrícula.",
+      "Miren la lista de palabras. Las palabras se leen en horizontal (de izquierda a derecha) o en vertical (de arriba abajo).",
+      "Toque la primera letra de una palabra y luego toque su última letra.",
+      "La palabra encontrada se resalta y se tacha de la lista.",
+      "Toque «Imprimir esta sopa de letras» para jugar en papel con lápiz o marcador."
+    ],
+    "tips": [
+      "Señale una palabra de la lista y busquen juntos su primera letra.",
+      "En papel, un resaltador es más fácil de sostener que un lápiz.",
+      "Conversen sobre las palabras del tema. Las palabras de frutas llevan con naturalidad a recuerdos de cosechas, de cocinar o del mercado."
+    ],
+    "faq": [
+      {
+        "q": "¿Hay cronómetro o puntos?",
+        "a": "No. No hay reloj, puntos, contador de movimientos ni forma de perder. Pueden parar en cualquier momento, y parar a mitad de camino es una manera perfectamente buena de terminar."
+      },
+      {
+        "q": "¿Puedo imprimir la sopa de letras?",
+        "a": "Sí. Toque «Imprimir esta sopa de letras» para imprimir la cuadrícula actual en letra grande, con la lista de palabras debajo. Cada sopa de letras nueva es diferente."
+      },
+      {
+        "q": "¿Es gratis? ¿Tengo que registrarme?",
+        "a": "Sí, es gratis, y no hace falta cuenta, registro ni descargas. Funciona en el navegador de un teléfono, una tableta o una computadora."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Dibujos para colorear",
+    "seoTitle": "Dibujos para colorear para adultos con demencia",
+    "h1": "Dibujos para colorear",
+    "description": "Dibujos para colorear sencillos y para adultos, con zonas grandes: toque un color y luego el dibujo. Sin colores equivocados, y todos se imprimen gratis.",
+    "short": "Toque un color y luego una parte del dibujo. También para imprimir.",
+    "players": "1 o 2 personas",
+    "intro": "Dibujos con formas grandes y sencillas: una flor en una maceta, una casa, una taza de té, una mariposa y un velero. Toque un color y luego toque una parte del dibujo para rellenarla. No hay colores equivocados.",
+    "howTo": [
+      "Elija un dibujo.",
+      "Toque un color. Cada color lleva su nombre escrito.",
+      "Toque una parte del dibujo para rellenarla con ese color.",
+      "Puede cambiar de idea cuando quiera rellenándola otra vez.",
+      "Toque «Imprimir este dibujo» para tener una hoja en blanco y colorearla con lápices de colores o marcadores."
+    ],
+    "tips": [
+      "Si elegir resulta demasiado, ofrezca dos colores en lugar de todos.",
+      "Los árboles morados y los soles azules son bienvenidos. Se trata de disfrutar del color, no de acertar.",
+      "Las hojas impresas van bien con marcadores gruesos o crayones, que son más fáciles de sujetar."
+    ],
+    "faq": [
+      {
+        "q": "¿Hay cronómetro o puntos?",
+        "a": "No. No hay reloj, puntos, contador de movimientos ni forma de perder. Pueden parar en cualquier momento, y parar a mitad de camino es una manera perfectamente buena de terminar."
+      },
+      {
+        "q": "¿Estos dibujos no son demasiado infantiles?",
+        "a": "Dibujamos objetos sencillos y tranquilos en lugar de dibujos animados, así que son adecuados para adultos. Las formas grandes hacen que colorear sea fácil sin que parezca cosa de niños."
+      },
+      {
+        "q": "¿Es gratis? ¿Tengo que registrarme?",
+        "a": "Sí, es gratis, y no hace falta cuenta, registro ni descargas. Funciona en el navegador de un teléfono, una tableta o una computadora."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Tarjetas de conversación",
+    "seoTitle": "Temas de conversación para la demencia: tarjetas",
+    "h1": "Tarjetas de conversación",
+    "description": "Tarjetas con imágenes y preguntas amables para conversar con personas con demencia, sin preguntas de examen ni respuestas correctas. En pantalla o impresas.",
+    "short": "Tarjetas con imágenes y preguntas abiertas y amables. Sin preguntas de examen.",
+    "players": "2 personas o un grupo",
+    "intro": "Cada tarjeta une una imagen conocida con una invitación abierta a conversar, como «¿Qué tiempo le gusta más?». No hay respuestas correctas ni nada que recordar. Elija un tema o mezcle todas las tarjetas.",
+    "howTo": [
+      "Elija un tema o deje «Todas las tarjetas».",
+      "Lea la pregunta en voz alta y miren juntos la imagen.",
+      "Escuche, comparta su propia respuesta y deje que la conversación fluya.",
+      "Toque «Siguiente tarjeta» cuando estén listos, o quédense con una tarjeta el tiempo que quieran.",
+      "Toque «Imprimir todas las tarjetas» para recortar un juego en papel."
+    ],
+    "tips": [
+      "Responda usted también a la pregunta. Así se siente como una conversación, no como una entrevista.",
+      "Siga la historia, no los datos. Si los detalles cambian, no pasa nada.",
+      "Si una tarjeta toca algo triste, reconozca el sentimiento y pase con suavidad a otra tarjeta."
+    ],
+    "faq": [
+      {
+        "q": "¿Por qué no hay preguntas como «¿Se acuerda de…?»?",
+        "a": "Las preguntas que ponen a prueba la memoria pueden sentirse como un examen y causar vergüenza. Las invitaciones abiertas como «Cuénteme sobre…» permiten que cualquiera participe, recuerde lo que recuerde."
+      },
+      {
+        "q": "¿Puedo imprimir las tarjetas?",
+        "a": "Sí. «Imprimir todas las tarjetas» imprime el juego completo en letra grande, varias tarjetas por página, listas para recortar."
+      },
+      {
+        "q": "¿Es gratis? ¿Tengo que registrarme?",
+        "a": "Sí, es gratis, y no hace falta cuenta, registro ni descargas. Funciona en el navegador de un teléfono, una tableta o una computadora."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Parejas de fotos",
+    "seoTitle": "Haga un juego de parejas con sus fotos familiares",
+    "h1": "Parejas de fotos: empareje sus propias fotos",
+    "description": "Convierta sus fotos familiares en un juego de parejas tranquilo. Elija de 2 a 6 fotos de su dispositivo; se quedan en su navegador y nunca se suben a internet.",
+    "short": "Elija sus propias fotos y emparéjelas. No se sube nada.",
+    "players": "2 personas, una al lado de la otra",
+    "intro": "Elija de dos a seis fotos de su teléfono, tableta o computadora, y se convierten en un juego de parejas con imágenes grandes y a la vista. Las fotos solo se muestran dentro de esta página. No se suben, no se guardan ni se comparten, y desaparecen al cerrar la página.",
+    "howTo": [
+      "Toque «Elegir fotos» y escoja de dos a seis fotos.",
+      "Cada foto aparece dos veces. Toque una y luego toque su pareja.",
+      "Conversen sobre cada foto a medida que la encuentren.",
+      "Cuando terminen, cierre la página o toque «Borrar fotos». No se guarda nada."
+    ],
+    "tips": [
+      "Elija fotos nítidas de cosas alegres y conocidas: una mascota, un jardín, un lugar favorito, el día de una boda.",
+      "Las fotos de lugares y objetos pueden ser más fáciles que las caras, y evitan la presión de tener que decir nombres.",
+      "Deje fuera las fotos de personas fallecidas si pudieran causar una tristeza repentina, a menos que sepa que reconfortan."
+    ],
+    "faq": [
+      {
+        "q": "¿Mis fotos se suben a algún sitio?",
+        "a": "No. La página lee las fotos que usted elige directamente en su navegador y las muestra en su pantalla. No se nos envían ni a nosotros ni a nadie, y desaparecen al cerrar o volver a cargar la página."
+      },
+      {
+        "q": "¿Hay cronómetro o puntos?",
+        "a": "No. No hay reloj, puntos, contador de movimientos ni forma de perder. Pueden parar en cualquier momento, y parar a mitad de camino es una manera perfectamente buena de terminar."
+      },
+      {
+        "q": "¿Puedo guardar el juego para la próxima vez?",
+        "a": "En el navegador no, a propósito, para que no se guarde nada privado. La app gratuita Golden Moments para iPhone y iPad puede conservar copias de las fotos seleccionadas en su dispositivo."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bingo de imágenes",
+    "seoTitle": "Bingo de imágenes para mayores con demencia",
+    "h1": "Bingo de imágenes para grupos",
+    "description": "Bingo de imágenes gratis para imprimir, para residencias y grupos de mayores, con anunciador en pantalla. Imágenes con nombre, 9 o 16 casillas, sin leer.",
+    "short": "Cartones de bingo con imágenes para imprimir y un anunciador en pantalla grande para grupos.",
+    "players": "Un grupo de 2 a 30 personas",
+    "intro": "El bingo de siempre, con imágenes en lugar de números, así que nadie tiene que leer letra pequeña. Imprima un juego de cartones, todos distintos, y luego use el anunciador en pantalla para mostrar cada imagen en grande en un televisor, una computadora portátil o una tableta.",
+    "howTo": [
+      "Elija 9 o 16 casillas por cartón y cuántos jugadores hay.",
+      "Toque «Imprimir cartones». Cada cartón es diferente.",
+      "Abra el anunciador en una pantalla grande. Toque «Siguiente imagen» para mostrar cada imagen con su nombre.",
+      "Los jugadores tapan la imagen que coincide en su cartón con una moneda, un botón o una ficha.",
+      "Todos los que completen una línea, o el cartón entero, reciben un aplauso. En esta versión nadie pierde: sigan jugando hasta que todos tengan una línea."
+    ],
+    "tips": [
+      "Use fichas grandes, como fichas de damas o tapas de botella. Los botones pequeños pueden ser difíciles de agarrar.",
+      "Diga el nombre de la imagen y comente algo sobre ella: «Un velero. ¿Quién ha salido alguna vez en barco?».",
+      "Siente más cerca de la pantalla a quienes ven con dificultad, y ponga ayudantes junto a los jugadores que los necesiten.",
+      "Nueve casillas son suficientes para la mayoría de los grupos. Que la sesión dure unos 20 a 30 minutos."
+    ],
+    "faq": [
+      {
+        "q": "¿Cómo organizo un bingo de imágenes en una residencia?",
+        "a": "Imprima un cartón por jugador, ponga el anunciador en la pantalla más grande que tenga y anuncie las imágenes despacio, diciendo el nombre de cada una. Jueguen hasta que todos tengan una línea, para que nadie se quede fuera."
+      },
+      {
+        "q": "¿Es gratis imprimirlo?",
+        "a": "Sí. Imprima todos los cartones que necesite, tantas veces como quiera, para uso personal o en grupo."
+      },
+      {
+        "q": "¿Se puede jugar sin leer?",
+        "a": "Sí. Cada casilla es una imagen grande, con su nombre debajo para quienes disfrutan de las palabras."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Respiración tranquila",
+    "seoTitle": "Una pausa para respirar con calma, para mayores",
+    "h1": "Una pausa para respirar con calma",
+    "description": "Una pausa lenta y tranquila para respirar en compañía: un círculo suave crece y se encoge durante seis respiraciones. Usted la empieza y la para cuando quiera.",
+    "short": "Un círculo lento para respirar a su ritmo. Empiece y pare cuando quiera.",
+    "players": "1 o 2 personas",
+    "intro": "A veces la mejor actividad es una pausa tranquila. Toque «Empezar» y luego tome aire mientras el círculo crece y suéltelo mientras se encoge. Elija un ritmo más lento o un poco más rápido. No es un tratamiento, solo un momento de paz para compartir.",
+    "howTo": [
+      "Siéntense cómodamente, uno al lado del otro.",
+      "Elija un ritmo: lento o suave.",
+      "Toque «Empezar». Tome aire mientras el círculo crece y suéltelo mientras se encoge.",
+      "Se detiene solo después de seis respiraciones, o toque «Parar» cuando quiera."
+    ],
+    "tips": [
+      "Tómense de la mano o apoye una mano en el brazo de la persona, si eso le agrada.",
+      "Nunca insista. Si prefiere solo mirar, está bien.",
+      "Si alguien tiene problemas respiratorios, que respire con normalidad y simplemente mire el círculo. Consulte a un médico cualquier duda sobre la respiración."
+    ],
+    "faq": [
+      {
+        "q": "¿Es un ejercicio de respiración médico?",
+        "a": "No. Es una pausa sencilla y opcional para estar en calma y en compañía. No es un tratamiento para la ansiedad ni para ninguna afección. Hable con un médico si tiene dudas de salud."
+      },
+      {
+        "q": "¿El círculo se mueve sin que yo lo inicie?",
+        "a": "No. Nada se mueve hasta que toca Empezar, y se detiene después de seis respiraciones o cuando toca Parar. Si su dispositivo está configurado para reducir el movimiento, las palabras cambian sin que el círculo crezca."
+      },
+      {
+        "q": "¿Es gratis? ¿Tengo que registrarme?",
+        "a": "Sí, es gratis, y no hace falta cuenta, registro ni descargas. Funciona en el navegador de un teléfono, una tableta o una computadora."
+      }
+    ]
+  }
+}

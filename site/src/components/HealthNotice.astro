@@ -1,14 +1,18 @@
 ---
 import Icon from './Icon.astro';
+import { localizeHtml } from '../i18n/locales';
+import { ui } from '../i18n/ui';
+
+interface Props {
+  lang?: string;
+}
+const { lang = 'en' } = Astro.props;
+const t = ui(lang).healthNotice;
 ---
-<aside class="notice" aria-label="Health information notice">
+<aside class="notice" aria-label={t.aria}>
   <Icon name="info" />
   <div>
-    <strong>General information, not medical advice</strong>
-    <p>
-      This page summarizes published research for families. It cannot tell you what is right for one person. Talk with
-      a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden
-      changes, get medical help right away. <a href="/medical-disclaimer/">Read our health information notice</a>.
-    </p>
+    <strong>{t.title}</strong>
+    <p set:html={localizeHtml(lang, t.textHtml)} />
   </div>
 </aside>

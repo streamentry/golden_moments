@@ -1,0 +1,10 @@
+---
+import HomeView from '../../views/HomeView.astro';
+import { localeStaticPaths } from '../../i18n/ui';
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+const { lang } = Astro.props;
+---
+<HomeView lang={lang} />

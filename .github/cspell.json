@@ -19,6 +19,7 @@
   ],
   "useGitignore": true,
   "words": [
+    "vous",
     "AARP",
     "ABRAz",
     "Activa",
@@ -312,6 +313,7 @@
     "Zinnia"
   ],
   "ignorePaths": [
-    "**/docs/store-description/**"
+    "**/docs/store-description/**",
+    "**/site/src/content/guides-i18n/**"
   ]
 }
