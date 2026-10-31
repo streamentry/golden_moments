@@ -88,3 +88,7 @@ Console actions only the maintainer can take (none were done by the assistant):
 3. **Keywords and release notes:** save with the 1.5.0 version from `metadata/en-US/`.
 4. **Accessibility Nutrition Labels:** declare Larger Text, Sufficient Contrast, Reduced Motion and Differentiate Without Color only after the device checks DESIGN.md › Accessibility requires.
 5. **Apple Search Ads** on `dementia games`, `dementia activities` and `memory games for seniors` needs a separately approved budget; record popularity figures in `keyword-research.csv`.
+
+### Measuring the goal
+
+App Store Connect analytics reports were turned on for the app on 2026-10-30 (ongoing request `67d14118-8b5d-4c8f-bc02-a420cea37dad`, at the maintainer's request). Apple produces daily data a day or two later. `scripts/store_downloads.py` prints first-time downloads per day from the "App Downloads Standard" report; set `ASC_KEY_ID` and `ASC_ISSUER` (see the team key notes the maintainer keeps outside the repository). The same request also produces "App Store Installation and Deletion" and "App Sessions" reports, the basis for judging retention without adding any analytics to the app. Google Play installs are in Play Console › Statistics.
