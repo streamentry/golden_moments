@@ -19,6 +19,7 @@
   ],
   "useGitignore": true,
   "words": [
+    "vous",
     "AARP",
     "Activa",
     "alongs",
@@ -161,6 +162,7 @@
     "xcrun"
   ],
   "ignorePaths": [
-    "**/docs/store-description/**"
+    "**/docs/store-description/**",
+    "**/site/src/content/guides-i18n/**"
   ]
 }
