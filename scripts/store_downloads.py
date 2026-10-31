@@ -73,6 +73,15 @@ def _get(session, path):
     return response.json()
 
 
+def _download(url):
+    import requests
+
+    # Segment URLs are pre-signed: send them no App Store Connect token.
+    response = requests.get(url, timeout=120)
+    response.raise_for_status()
+    return response.content
+
+
 def fetch(days):
     session = _session()
     requests_ = _get(session, f'/v1/apps/{APP_ID}/analyticsReportRequests')['data']
@@ -89,7 +98,7 @@ def fetch(days):
     for instance in instances:
         segments = _get(session, f"/v1/analyticsReportInstances/{instance['id']}/segments")['data']
         for segment in segments:
-            raw = session.get(segment['attributes']['url'], timeout=120).content
+            raw = _download(segment['attributes']['url'])
             parts.append(first_time_downloads(gzip.decompress(raw).decode('utf-8')))
     return merge(*parts)
 

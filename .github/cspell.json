@@ -27,6 +27,7 @@
     "alzheimers",
     "amuseit",
     "APOE",
+    "appbundle",
     "appiconset",
     "ARIC",
     "audioplayers",
@@ -158,20 +159,7 @@
     "worktrees",
     "xcarchive",
     "xcprivacy",
-    "xcrun",
-    "MBXZKYSY",
-    "audioplayers",
-    "xcarchive",
-    "appbundle",
-    "Fraunces",
-    "fraunces",
-    "indexnow",
-    "IndexNow",
-    "lede",
-    "Ledes",
-    "letterforms",
-    "Bingbot",
-    "AARP"
+    "xcrun"
   ],
   "ignorePaths": [
     "**/docs/store-description/**"
