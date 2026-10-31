@@ -56,6 +56,10 @@ Owner goal: from about 10 to 100 installs a day, with high retention. Maintainer
 
 Evidence: strict analysis clean, 450+ Flutter tests pass with 79.8% line coverage, 64 Python tests and metadata checks pass, DESIGN.md lint 0/0. iOS 26.5 simulator, debug build: Apple's rating sheet appeared on Home after a finished game with seeded counters, never on the finish message (`docs/release/evidence/1.5.0/`); the notification question appeared only after "Turn on reminder", and scheduling succeeded. Not device-verified, no VoiceOver run, Android not built.
 
+## Growth and localization plan (2026-10-31, proposal)
+
+`docs/plan/README.md` proposes how the app could become the first choice for one job in ten languages, with research appendices on [language markets](docs/plan/language-markets.md), [competitors and review gaps](docs/plan/competitors.md) and [design evidence](docs/plan/evidence.md). It reframes "cover all use cases" as "handle every moment of one job", sequences device acceptance and the Play release before a third language, and proposes two catalog entries (GM-041 participant language, GM-042 helper settings without a password). It records how it differs from `docs/strategy/category-leader.md` (a platform bet that the current boundaries exclude) and proposes running that document's cheapest web test before any platform scope decision. Nothing in it is approved, scheduled or implemented; the decisions it asks for are listed in its section 9. Documentation only: Python guidance and metadata checks run; no Flutter or device run was performed for it.
+
 ## Next in order
 
 0. Run the device and human scenarios in [docs/release/device-acceptance.md](docs/release/device-acceptance.md) and record evidence per its format.
