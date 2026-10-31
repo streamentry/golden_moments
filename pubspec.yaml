@@ -1,6 +1,6 @@
 name: golden_moments
 description: Gentle shared photo activities with offline starter games and selected family photos.
-version: 1.3.0+6
+version: 1.5.0+9
 publish_to: none
 
 environment:
@@ -37,6 +37,11 @@ dev_dependencies:
   very_good_analysis: ^11.0.0
 
 flutter:
+  # Plugins link through CocoaPods (ios/Podfile). This Flutter turns Swift
+  # Package Manager on by default, which dropped every plugin from the iOS
+  # app because the custom Podfile was never migrated.
+  config:
+    enable-swift-package-manager: false
   generate: true
   uses-material-design: true
   fonts:
@@ -47,9 +52,16 @@ flutter:
           weight: 500
         - asset: assets/fonts/Roboto-Bold.ttf
           weight: 700
+    # Display serif for headlines and titles only (DESIGN.md › Typography).
+    # A static Bold instance of the variable font, subset to Latin.
+    - family: Fraunces
+      fonts:
+        - asset: assets/fonts/Fraunces-Bold.ttf
+          weight: 700
   assets:
     - assets/data/
     - assets/fonts/Roboto_LICENSE.txt
+    - assets/fonts/Fraunces_LICENSE.txt
     - assets/images/catalog/
     - assets/sounds/
 

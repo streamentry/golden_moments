@@ -20,6 +20,42 @@ Updated 2026-10-18 (senior-first R0/R1 continuation). Scope: US English, local-f
 
 PR #44 was independently merged while checks were running. That merge is not release approval. [Validation record](docs/release/validation-2026-10-18.md) distinguishes passed focused tests from remaining strict CI and native checks.
 
+## Website: dementiaactivities.games (2026-10-25)
+
+Astro + React + TanStack Store site in `site/`, built as static files for Cloudflare Workers Static Assets. Read [site/README.md](site/README.md) and [site/CONTENT_GUIDE.md](site/CONTENT_GUIDE.md).
+
+| Deliverable | Status |
+| --- | --- |
+| 11 browser games (picture pairs, find the same, sort together, picture puzzle, finish the saying, word search, coloring, conversation cards, photo pairs, picture bingo, calm breathing) | Implemented; logic unit tests pass; every game exercised in the built-in browser under the Workers runtime at 375px and desktop; no device, screen-reader or caregiver testing |
+| 35 sourced guides (16 activities, 7 caregiving, 10 brain health incl. prevention and fasting) | Written with cited, opened sources; brain-health pages carry a health notice; not reviewed by a clinician (the editorial policy says so) |
+| SEO/GEO: titles, descriptions, canonicals, JSON-LD, sitemap, robots, `llms.txt`, `llms-full.txt`, share images | Implemented; `scripts/check-site.mjs` passes with 0 errors |
+| Privacy: no analytics, ads or cookies; photo pairs is local only | Implemented; photo pairs made no network requests after photos were chosen, and the `_headers` CSP (`connect-src 'self'`) blocked a test request to another site |
+| Accessibility | axe-core (WCAG 2.2 AA + best practice): no violations on the 11 pages scanned. Independent code review fixes applied (picker focus ring, focus after answers, one completion live region, word-search arrow keys and 48px cells, 48px footer links). No assistive-technology user testing |
+| Exceptions recorded | Calm breathing is the one paced activity (stops on a tap or after six breaths), recorded in `DESIGN.md` |
+| App legal pages (moved from `streamentry/golden-moments-web`, 2026-10-25) | `/app-privacy/`, `/privacy-choices/`, `/safety/`, `/support/`, `/help/` and `/legal/` added; app license merged into `/terms/`; copy updated for iOS 1.4.0 (family photos live, Firebase removed, Cloudflare hosting, current button labels). `check-site.mjs` guards each page; `pnpm check:live` checks them after deploy. Not deployed yet, not legally reviewed. The old site's demo, home and activities pages were dropped: the games and guides here replace them. Checklist moved to `docs/legal/app-review-gates.md` |
+| Deployment | Live at <https://dementiaactivities.games> (RunLumi account, 2026-10-25); www 301-redirects to the apex; no external requests or CSP violations on the live home and picture-pairs pages. `web@dementiaactivities.games` forwards through Cloudflare Email Routing (test delivered). Dashboard items left: Always Use HTTPS, turn off Web Analytics auto-setup, Search Console and Bing |
+
+Open items for the maintainer: legal review of the website privacy notice and terms; the Play listing link points at the existing package while 1.4.0 awaits review. The app (`lib/shared/utils/support_info.dart`, `lib/features/legal/`), `metadata/*.json` and both store consoles still link to `streamentry.github.io/golden-moments-web/`: after deploying the moved pages, switch them to `dementiaactivities.games` in the next app release, then retire or redirect the old site. The app shows `apple@locuno.com` while the site pages use `web@dementiaactivities.games`.
+
+## Golden Hour design pass and website auto-deploy (2026-10-30)
+
+| Deliverable | Status |
+| --- | --- |
+| `DESIGN.md` rewritten: Atmosphere and Signature details, a gold ramp (`primary-deep`, `accent-pale`, `accent-deep`), `surface-raised`, `secondary-container`/`-outline`, `on-ink*`, `shadow-ink`, Fraunces display typography, `rounded.sm`, `spacing.mat`, mirrored component list for the website | Lint 0 errors / 0 warnings; every color token has a Dart constant and the drift test checks both directions |
+| Fraunces Bold (OFL) bundled for headlines in the app (`assets/fonts/Fraunces-Bold.ttf`, 36 KB) and the website (`fraunces-latin-700-normal.woff2`, 18 KB): one static instance of the variable font, recorded in `asset-provenance.json` | `gmBuildTheme` display/headline/title-lg roles use it; strict analysis and the full suite pass locally; seen on the iPhone simulator (home, picture packs). No real-device or 200% device evidence yet |
+| Mounted print in the app (`GmMountedPicture`): print-white mat with a hairline, corners 16 → 8 → 4 | Tests updated; seen on the simulator pack cards |
+| Website: tokens, Fraunces headings, sunrise rule on the header, Honey rule on the footer, umber shadows, tokenized notices, game badges and the breathing circle | `pnpm verify` passes (20 tests, 72 pages, 0 check errors); home and a guide inspected at desktop and 375px, no overflow |
+| Fix: `_revealFinish` threw on a heading taller than the viewport (large text in a short window) | Fixed in `gentle_game_page.dart`; covered by the existing ux_detail tests, which now load both shipped fonts |
+| Website deploys itself: `site.yaml` `deploy` job on pushes to `main` publishes the checked build with `wrangler deploy`, then runs IndexNow | Needs `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID` repository secrets before the first merge; until they exist the job fails and `pnpm run deploy` by hand still works |
+
+Next: add the two secrets, merge, watch the first deploy; re-check the app at 200% text on iPhone SE and iPad with the serif headlines; refresh the OG images (`scripts/og-games.mjs`) and store screenshots so they carry the new headline type.
+
+## Growth pass: ratings, reminders and ASO (2026-10-30, 1.5.0+9 candidate)
+
+Owner goal: from about 10 to 100 installs a day, with high retention. Maintainer decisions on 2026-10-30: add Apple's rating prompt plus a Help link (reverses the 2026-10-18 "no rating request" choice; GM-034) and build opt-in reminders (GM-038, R3, now approved). Both use a small iOS channel in `AppDelegate.swift` with no new package; Android hides reminders and gets only the Rate link to Play. iPhone shares now carry the App Store link. Keywords, promotional text and the Play short description were rewritten (see `docs/strategy/us-aso.md` › October 30, including console actions such as the 16+ age rating).
+
+Evidence: strict analysis clean, 450+ Flutter tests pass with 79.8% line coverage, 64 Python tests and metadata checks pass, DESIGN.md lint 0/0. iOS 26.5 simulator, debug build: Apple's rating sheet appeared on Home after a finished game with seeded counters, never on the finish message (`docs/release/evidence/1.5.0/`); the notification question appeared only after "Turn on reminder", and scheduling succeeded. Not device-verified, no VoiceOver run, Android not built.
+
 ## Next in order
 
 0. Run the device and human scenarios in [docs/release/device-acceptance.md](docs/release/device-acceptance.md) and record evidence per its format.
@@ -130,11 +166,46 @@ prompts and hashes are committed under `assets/screenshots/en-US/`; all twelve
 Apple asset deliveries completed and checksums/order were read back.
 
 The owner requested review submission and US-English fallback; 17 obsolete draft
-localizations were removed after a protected backup. The published1.0 translations
-were retained. Public release is MANUAL. Review submission does not certify the
-pending physical-device, upgrade, accessibility, caregiver, legal or inherited
-asset-rights gates. The release validator remains fail-closed. See
-[build 6 evidence](docs/release/app-store-1.3.0-build 6.md) for exact limits and store state.
+localizations were removed after a protected backup. The published 1.0 translations
+were retained. Version 1.3.0 was manually released and is now READY_FOR_SALE. Its
+review history and the pending physical-device, accessibility, caregiver, legal and
+inherited asset-rights gates are recorded in [build 6 evidence](docs/release/app-store-1.3.0-build6.md).
 
-Apple readback confirmed build 6 **WAITING_FOR_REVIEW** at 2026-10-18T17:44:55Z;
-public release remains MANUAL. This is submitted, not approved or published.
+
+## iOS 1.4.0 build 7 submission (2026-10-19)
+
+PR #86 merged commit `7738d7f8b4407297086a30ec13f75acace976ddf` to sync iOS
+plugin pods and the Xcode embed phase. Pinned Flutter analysis, all 430 Flutter
+tests, 63 Python checks and metadata validation pass. The signed 1.4.0 build 7
+IPA validates and processes as **VALID**. All 12 en-US screenshots are complete
+and match their committed file checksums. App Store Connect reports
+**WAITING_FOR_REVIEW** with automatic release selected after approval. The
+release is submitted, not approved or publicly available. Physical-device,
+screen-reader, caregiver, runtime privacy/legal and inherited asset-rights gates
+remain pending. Full record: `docs/release/app-store-1.4.0-build7.md`.
+
+## Android 1.4.0 API 36 resubmission (2026-10-20)
+
+The Play Console policy page supplied by the maintainer showed an update in review with an API 36 target requirement. The production manifest now targets API 36. Version code 8 is built and signed with the replacement upload key; 430 Flutter tests, 64 Python tests, strict analysis, metadata validation, and a Pixel emulator smoke test on Android 16 passed. The AAB and checksums are in `output/release/android-1.4.0-api36-build8/`; detailed evidence is in [the Android release record](docs/release/android-1.4.0-api36-build8.md). Google Play upload and review submission remain pending: verify the replacement certificate in Play Console after its stated activation time, then upload and submit the candidate.
+
+## iOS 1.4.0 publication confirmed (2026-10-21)
+
+Live App Store Connect readback confirms version 1.4.0 is `READY_FOR_SALE` /
+`READY_FOR_DISTRIBUTION` and downloadable. Build 7 is valid, review is complete,
+and the approved automatic release has completed. The [release record](docs/release/app-store-1.4.0-build7.md)
+links the current receipt to the earlier submission evidence. Android version
+code 8 remains prepared locally; Play Console authentication and upload-key
+certificate readback are still required before its upload and submission.
+
+## Android 1.4.0 bundle accepted by Google Play (2026-10-21)
+
+Using the built-in Browser, uploaded the signed version-code 8 AAB to a
+production release named `1.4.0 (8)`. Play accepted its signing key and reports
+target SDK 36. Corrected the outdated Advertising ID declaration to No; the Ads
+declaration already says No. The release and phone screenshots are saved for
+review, but submission is still blocked by a publishing check that calls the
+saved declaration incomplete. Fresh checks completed with the same issue, and
+a fresh page and explicit resave confirm No. Managed publishing is on.
+The [Android release record](docs/release/android-1.4.0-api36-build8.md)
+records the validation contradiction, delivery size and device-support warnings;
+neither upload acceptance nor a saved rollout is a review submission or release.

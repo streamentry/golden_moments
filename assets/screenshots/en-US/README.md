@@ -1,10 +1,10 @@
-# App Store screenshots: 1.3.0
+# Store screenshots: 1.4.0
 
-Six separate iPhone JPEGs at 1320 by 2868 pixels and six iPad JPEGs at 2064 by 2752 pixels. The native PNG captures and the native-picker proof are kept in `originals/`. `manifest.json` records SHA-256 hashes, the source commit and the capture environment. These marketing files are not declared in the app bundle.
+Six separate iPhone JPEGs at 1320 by 2868 pixels, six iPad JPEGs at 2064 by 2752 pixels, and six Google Play phone JPEGs at 1440 by 2560 pixels (9:16). The native PNG captures and the native-picker proof are kept in `originals/`. `manifest.json` records SHA-256 hashes, the source commit and the capture environment. These marketing files are not declared in the app bundle.
 
 ## Current captures
 
-The current captures come from `a704346`, the album library: sharper pack covers and pictures mounted like prints. They were taken on the iPhone 17 Pro Max and iPad Pro 13-inch (M5) simulators running iOS 26.5, both with `scripts/capture_store_screens.sh`. That script runs `integration_test/store_screens_test.dart`, which drives the real app to each frame and pauses while the screen is saved.
+The current captures come from `b9e681c`, the album library with family photos shown as cropped prints. They were taken on the iPhone 17 Pro Max and iPad Pro 13-inch (M5) simulators running iOS 26.5, both with `scripts/capture_store_screens.sh`. That script runs `integration_test/store_screens_test.dart`, which drives the real app to each frame and pauses while the screen is saved.
 
 - **Status bar:** cleared, then set to 9:41 with `xcrun simctl status_bar`. Clearing first matters: a stale override once left a charging battery and "no service" dots.
 - **Debug banner:** hidden for capture only; a release build never shows it.
@@ -14,6 +14,14 @@ The current captures come from `a704346`, the album library: sharper pack covers
 ## Composition
 
 `scripts/compose_store_screens.py` places each unchanged capture inside the approved build 6 frame: the generated paper backdrop, headline, supporting text and device bezel. The capture is clipped to the bezel's rounded screen. The frame geometry was checked by re-composing the build 6 captures, which reproduced the published frames to within JPEG noise. Built-in image generation created only the backdrop and two demo photos; see `PROMPTS.md`. No private photos or identifiable people are used.
+
+## Google Play frames
+
+`android/` holds the six Google Play phone frames, with the same headlines and supporting text as the App Store set. They were captured on a Pixel 7 emulator (Android 16) with `scripts/capture_play_screens.sh`, which runs the same `integration_test/store_screens_test.dart` and saves each screen with `adb exec-out screencap`. The status bar is set to 9:41 with System UI demo mode.
+
+`scripts/compose_play_screens.py` builds each frame from the generated paper backdrop, the shipped Roboto type and a plain dark bezel, then places the unchanged capture inside it. The App Store frames are 2.17:1, longer than Google Play's 2:1 limit, and show an iPhone, so they are not reused for Play. The native captures are in `originals/android/`.
+
+These frames show 1.4.0. The live Android build is 1.2.0, so they must not be published on Google Play before an Android 1.4.0 build is released with them.
 
 ## What each frame shows
 

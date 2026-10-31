@@ -1,8 +1,3 @@
-A new, gentle starting point for shared activities:
-- Start with four large tiles and an optional always-visible mode.
-- Import selected family photos for local matching and shared viewing.
-- Use optional conversation prompts without name quizzes or scores.
-- Open starter activities without downloading content first.
-- Explore all eight included picture packs without extra downloads.
-- Adjust gentle-play choices and keep them for next time.
-- Library sounds start off; earlier choices are kept.
+A few additions for families:
+- On iPhone and iPad, an optional gentle reminder for picture time, on the days and at the time you choose. It is off until you turn it on.
+- Rate Golden Moments from Help and privacy, if you like. Ratings help other families find it.

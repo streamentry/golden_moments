@@ -59,17 +59,31 @@ void main() {
       final tokens = _designColors();
       final expected = <String, Color>{
         'primary': gmGold800,
+        'primary-deep': gmGold700,
         'on-primary': Colors.white,
         'primary-container': gmGold300,
         'on-primary-container': gmCharcoal900,
         'accent': gmGold600,
+        'accent-pale': gmGold200,
+        'accent-deep': gmGold400,
         'secondary': gmSapphire500,
+        'on-secondary': Colors.white,
+        'on-success': Colors.white,
+        'on-warning': Colors.white,
+        'on-error': Colors.white,
+        'secondary-container': gmSapphire50,
+        'secondary-outline': gmSapphire100,
         'background': gmSurf50,
         'surface': gmSurf100,
+        'surface-raised': gmSurfRaised,
         'surface-sunken': gmSurf200,
         'on-surface': gmCharcoal900,
         'on-surface-variant': gmWalnut600,
         'outline': gmDriftwood500,
+        'on-ink': gmOnInk,
+        'on-ink-variant': gmOnInkVariant,
+        'on-ink-link': gmOnInkLink,
+        'shadow-ink': gmUmber900,
         'success': gmGreen600,
         'warning': gmOrange600,
         'error': gmBrick500,
@@ -81,9 +95,63 @@ void main() {
           reason: 'colors.${entry.key} drifted from lib/design_system.dart',
         );
       }
+      // Every token in DESIGN.md has a Dart constant, and the other way round.
+      expect(tokens.keys.toSet(), expected.keys.toSet());
       expect(scheme.primary, gmGold800);
       expect(scheme.outline, gmDriftwood500);
       expect(theme.scaffoldBackgroundColor, gmSurf50);
+    });
+
+    test('headlines are Fraunces and reading text is Roboto', () {
+      final styles = theme.textTheme;
+      for (final style in [
+        styles.displayLarge,
+        styles.headlineLarge,
+        styles.headlineMedium,
+        styles.headlineSmall,
+        styles.titleLarge,
+      ]) {
+        expect(style?.fontFamily, gmDisplayFontFamily);
+        expect(style?.fontFamilyFallback, contains(gmFontFamily));
+        // Fraunces is never smaller than 24 (DESIGN.md › Typography).
+        expect(style?.fontSize, greaterThanOrEqualTo(24));
+        expect(style?.letterSpacing, 0);
+      }
+      for (final style in [
+        styles.titleMedium,
+        styles.titleSmall,
+        styles.bodyLarge,
+        styles.bodyMedium,
+        styles.bodySmall,
+        styles.labelLarge,
+        styles.labelMedium,
+        styles.labelSmall,
+      ]) {
+        expect(style?.fontFamily, gmFontFamily);
+      }
+      expect(theme.appBarTheme.titleTextStyle?.fontFamily, gmDisplayFontFamily);
+      expect(theme.dialogTheme.titleTextStyle?.fontFamily, gmDisplayFontFamily);
+      // Buttons and chips are read, so they stay in Roboto.
+      expect(
+        theme.filledButtonTheme.style?.textStyle?.resolve({})?.fontFamily,
+        gmFontFamily,
+      );
+      expect(theme.chipTheme.labelStyle?.fontFamily, gmFontFamily);
+    });
+
+    test('both bundled families are declared with their licenses', () {
+      final pubspec = File('pubspec.yaml').readAsStringSync();
+      expect(pubspec, contains('family: $gmFontFamily'));
+      expect(pubspec, contains('family: $gmDisplayFontFamily'));
+      expect(pubspec, contains('assets/fonts/Fraunces_LICENSE.txt'));
+      expect(File('assets/fonts/Fraunces-Bold.ttf').existsSync(), isTrue);
+      expect(File('assets/fonts/Fraunces_LICENSE.txt').existsSync(), isTrue);
+    });
+
+    test('shadows are warm umber, never grey', () {
+      expect(theme.dialogTheme.shadowColor, gmUmber900);
+      expect(theme.bottomSheetTheme.shadowColor, gmUmber900);
+      expect(theme.cardTheme.shadowColor, gmUmber900);
     });
   });
 
@@ -103,6 +171,15 @@ void main() {
       'white on warning': (Colors.white, gmOrange600),
       'white on error': (scheme.onError, scheme.error),
       'snackbar': (scheme.onInverseSurface, scheme.inverseSurface),
+      'white on pressed primary': (Colors.white, gmGold700),
+      'ink on print white': (scheme.onSurface, gmSurfRaised),
+      'primary on print white': (scheme.primary, gmSurfRaised),
+      'secondary text on print white': (scheme.onSurfaceVariant, gmSurfRaised),
+      'secondary on notice fill': (gmSapphire500, gmSapphire50),
+      'ink on notice fill': (scheme.onSurface, gmSapphire50),
+      'parchment on ink': (gmOnInk, gmCharcoal900),
+      'fine print on ink': (gmOnInkVariant, gmCharcoal900),
+      'links on ink': (gmOnInkLink, gmCharcoal900),
     };
     for (final entry in text.entries) {
       test('${entry.key} is at least 4.5:1', () {
@@ -124,7 +201,16 @@ void main() {
     test('bright gold stays decorative', () {
       // The reason accent may never carry text or be the only outline.
       expect(_contrast(gmGold600, gmSurf50), lessThan(3));
+      expect(_contrast(gmGold200, gmSurf50), lessThan(3));
+      expect(_contrast(gmGold400, gmSurf50), lessThan(3));
       expect(scheme.primary, isNot(gmGold600));
+    });
+
+    test('the print mat keeps its hairline and picture readable', () {
+      // The mat is the one step up from the page: its hairline must still
+      // read against it, and a resting tile border against the mat.
+      expect(_contrast(scheme.outline, gmSurfRaised), greaterThan(3));
+      expect(_contrast(gmSurfRaised, gmSurf100), lessThan(1.2));
     });
   });
 

@@ -1,0 +1,52 @@
+---
+import Icon from './Icon.astro';
+import { SITE } from '../lib/site';
+
+interface Props {
+  title?: string;
+  text?: string;
+  /** A small box for article and game sidebars instead of a full band. */
+  compact?: boolean;
+}
+const {
+  title = 'Take these games with you',
+  text = 'The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.',
+  compact = false,
+} = Astro.props;
+---
+{
+  compact ? (
+    <div class="aside-box app-cta-box">
+      <h2>{title}</h2>
+      <p class="small-print">{text}</p>
+      <div class="app-cta-links">
+        <a class="btn btn--primary" href={SITE.appStoreUrl} rel="noopener"><Icon name="phone" />App Store</a>
+        <a class="btn" href={SITE.playStoreUrl} rel="noopener"><Icon name="phone" />Google Play</a>
+      </div>
+      <a class="small-print" href="/app/">About the app</a>
+    </div>
+  ) : (
+    <section class="cta-band cta-band--app" aria-label="Get the app">
+      <div>
+        <h2>{title}</h2>
+        <p>{text}</p>
+      </div>
+      <div class="btn-row">
+        <a class="btn btn--primary btn--hero" href={SITE.appStoreUrl} rel="noopener"><Icon name="phone" />Get it on the App Store</a>
+        <a class="btn" href={SITE.playStoreUrl} rel="noopener"><Icon name="phone" />Get it on Google Play</a>
+      </div>
+    </section>
+  )
+}
+
+<style>
+  .app-cta-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+    margin: var(--space-md) 0 var(--space-sm);
+  }
+  .cta-band--app {
+    margin-top: var(--space-xl);
+  }
+</style>

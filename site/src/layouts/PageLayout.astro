@@ -1,0 +1,32 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { breadcrumbs } from '../lib/schema';
+
+interface Props {
+  title: string;
+  seoTitle?: string;
+  description: string;
+  path: string;
+  crumb: string;
+  lede?: string;
+  updated?: string;
+  jsonLd?: Record<string, unknown>[];
+}
+const { title, seoTitle, description, path, crumb, lede, updated, jsonLd = [] } = Astro.props;
+const crumbs = [{ href: path, label: crumb }];
+---
+<BaseLayout title={seoTitle ?? title} description={description} jsonLd={[breadcrumbs(crumbs), ...jsonLd]}>
+  <Breadcrumbs items={crumbs} />
+  <div class="container">
+    <header class="page-head">
+      <h1>{title}</h1>
+      {lede && <p class="lede">{lede}</p>}
+      {updated && <p class="meta-line"><span>Last updated <time datetime={updated}>{new Date(updated).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })}</time></span></p>}
+    </header>
+    <div class="prose">
+      <slot />
+    </div>
+    <slot name="after" />
+  </div>
+</BaseLayout>

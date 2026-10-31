@@ -1,0 +1,29 @@
+---
+/**
+ * Google Analytics 4 (gtag.js), approved by the maintainer on 2026-10-25.
+ * The loader is allowed by the CSP in astro.config.mjs and public/_headers;
+ * the config runs as a bundled script so the hash-based CSP needs no change.
+ * Google signals and ad personalization are off: this is a health-adjacent
+ * site, so visits must not feed advertising profiles. Not rendered on Photo
+ * pairs, which keeps a no-third-party policy for family photos.
+ */
+import { SITE } from '../lib/site';
+---
+<script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${SITE.gaMeasurementId}`}></script>
+<script>
+  import { SITE } from '../lib/site';
+
+  type Gtag = (...args: unknown[]) => void;
+  const w = window as unknown as { dataLayer: unknown[]; gtag: Gtag };
+  w.dataLayer = w.dataLayer || [];
+  // gtag.js expects the Arguments object itself, so this cannot be an arrow function.
+  w.gtag = function gtag() {
+    // eslint-disable-next-line prefer-rest-params
+    w.dataLayer.push(arguments);
+  };
+  w.gtag('js', new Date());
+  w.gtag('config', SITE.gaMeasurementId, {
+    allow_google_signals: false,
+    allow_ad_personalization_signals: false,
+  });
+</script>
