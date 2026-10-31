@@ -1,0 +1,23 @@
+{
+  "language": "pl",
+  "app_store_locales": [
+    "pl"
+  ],
+  "google_play_locales": [
+    "pl-PL"
+  ],
+  "review": "unreviewed",
+  "translated_from": "2026-10-31",
+  "app_store": {
+    "name": "Demencja i gry: Golden Moments",
+    "subtitle": "Alzheimer: zajęcia i zdjęcia",
+    "keywords": "memory,pamięć,seniorzy,pary,opiekun,wspomnienia,rodzina,babcia,dziadek,obrazki,układanka,starsi",
+    "promotional_text": "Proste zajęcia do wspólnego spędzania czasu: duże kafelki z obrazkami, Twoje zdjęcia rodzinne, bez czasomierza i punktów. Teraz z opcjonalnym przypomnieniem. Bez konta.",
+    "description": "Znajdź prostą aktywność do wspólnego spędzania czasu. Golden Moments oferuje łagodną grę w pary i wspólne oglądanie zdjęć dla rodzin i opiekunów, także dla osób spędzających czas z kimś żyjącym z demencją lub chorobą Alzheimera. Aplikacja Golden Moments jest dostępna po polsku.\n\nZACZNIJ OD MAŁEGO\nZacznij od czterech dużych kafelków i znajomych obrazków startowych. Zostaw obrazki widoczne albo ukryj je, gdy tak będzie wygodniej. Tryb łagodny nie ma czasomierza, punktów ani kar. Wybierz 4, 6, 8 lub 12 kafelków, zależnie od dostępności.\n\nZRÓB TO PO SWOJEMU\nWybierz zdjęcia rodzinne za pomocą systemowego wyboru zdjęć na urządzeniu. Golden Moments zapisuje mniejsze kopie na potrzeby lokalnych zajęć; nie skanuje Twojej biblioteki ani nie zmienia oryginalnych zdjęć. W jednej kolekcji można mieć do 24 zdjęć.\n\nPO PROSTU OGLĄDAJCIE RAZEM\nOglądaj jeden obrazek naraz. Opcjonalne podpowiedzi do rozmowy zachęcają do rozmowy, nie wymagając od nikogo pamiętania imion ani udzielania poprawnej odpowiedzi. Samo oglądanie wystarczy.\n\nOFFLINE TAM, GDZIE TO WAŻNE\nObrazki startowe są dostępne od razu. Kopie zaimportowanych zdjęć działają offline po imporcie. Wybranie oryginałów przechowywanych tylko w iCloud może wymagać połączenia z internetem. Wszystkie osiem pakietów obrazków jest w aplikacji, bez osobnego pobierania.\n\nBEZ KONTA I SERWERA DO SYNCHRONIZACJI ZDJĘĆ\nKopie zdjęć rodzinnych zostają w aplikacji na tym urządzeniu. Możesz usunąć kopie bez usuwania oryginałów. Kopie zapasowe urządzenia mogą zawierać dane aplikacji. Ta wersja nie synchronizuje zdjęć między krewnymi.\n\nGolden Moments służy rozrywce i wspólnej rozmowie. Nie stawia diagnozy ani nie służy do leczenia, zapobiegania ani mierzenia demencji czy choroby Alzheimera. Zajęcia nie są odpowiednie dla każdego; kieruj się zainteresowaniami i komfortem osoby oraz przerwij lub zmień zajęcie, gdy zajdzie taka potrzeba."
+  },
+  "google_play": {
+    "name": "Demencja i gry: Golden Moments",
+    "short_description": "Proste zajęcia przy demencji: łagodne gry ze zdjęciami do wspólnej zabawy.",
+    "full_description": "Znajdź prostą aktywność do wspólnego spędzania czasu. Golden Moments oferuje łagodną grę w pary i wspólne oglądanie zdjęć dla rodzin i opiekunów, także dla osób spędzających czas z kimś żyjącym z demencją lub chorobą Alzheimera. Aplikacja Golden Moments jest dostępna po polsku.\n\nZACZNIJ OD MAŁEGO\nZacznij od czterech dużych kafelków i znajomych obrazków startowych. Zostaw obrazki widoczne albo ukryj je, gdy tak będzie wygodniej. Tryb łagodny nie ma czasomierza, punktów ani kar. Wybierz 4, 6, 8 lub 12 kafelków, zależnie od dostępności.\n\nZRÓB TO PO SWOJEMU\nWybierz zdjęcia rodzinne za pomocą systemowego wyboru zdjęć na urządzeniu. Golden Moments zapisuje mniejsze kopie na potrzeby lokalnych zajęć; nie skanuje Twojej biblioteki ani nie zmienia oryginalnych zdjęć. W jednej kolekcji można mieć do 24 zdjęć.\n\nPO PROSTU OGLĄDAJCIE RAZEM\nOglądaj jeden obrazek naraz. Opcjonalne podpowiedzi do rozmowy zachęcają do rozmowy, nie wymagając od nikogo pamiętania imion ani udzielania poprawnej odpowiedzi. Samo oglądanie wystarczy.\n\nOFFLINE TAM, GDZIE TO WAŻNE\nObrazki startowe są dostępne od razu. Kopie zaimportowanych zdjęć działają offline po imporcie. Wybranie oryginałów przechowywanych tylko w chmurze może wymagać połączenia z internetem. Wszystkie osiem pakietów obrazków jest w aplikacji, bez osobnego pobierania.\n\nBEZ KONTA I SERWERA DO SYNCHRONIZACJI ZDJĘĆ\nKopie zdjęć rodzinnych zostają w aplikacji na tym urządzeniu. Możesz usunąć kopie bez usuwania oryginałów. Kopie zapasowe urządzenia mogą zawierać dane aplikacji. Ta wersja nie synchronizuje zdjęć między krewnymi.\n\nGolden Moments służy rozrywce i wspólnej rozmowie. Nie stawia diagnozy ani nie służy do leczenia, zapobiegania ani mierzenia demencji czy choroby Alzheimera. Zajęcia nie są odpowiednie dla każdego; kieruj się zainteresowaniami i komfortem osoby oraz przerwij lub zmień zajęcie, gdy zajdzie taka potrzeba."
+  }
+}
