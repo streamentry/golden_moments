@@ -1014,7 +1014,7 @@
   "@libraryFavoritesTitle": {
     "description": "Picture-pack library: section heading beside a star icon for the packs marked Favorite. Short."
   },
-  "libraryFavoritesBody": "Packs you marked Favorite. Tap Favorite again to take one off.",
+  "libraryFavoritesBody": "Packs you marked Favorite. Tap In favorites to take one off.",
   "@libraryFavoritesBody": {
     "description": "Picture-pack library: sentence under Your favorites. 'Favorite' must match the pack card button."
   },

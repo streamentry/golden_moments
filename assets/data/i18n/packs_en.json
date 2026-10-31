@@ -24,7 +24,7 @@
   "packs": {
     "animals_farm": {
       "title": "Farm Animals",
-      "description": "Friendly farm animals that will bring back memories of countryside visits",
+      "description": "Friendly farm animals, like on a visit to the countryside.",
       "theme": "Farm Life",
       "images": {
         "cow_1": "Friendly Cow",
