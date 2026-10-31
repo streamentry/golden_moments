@@ -7,6 +7,7 @@ import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/category/presentation/screens/category_page.dart';
 import 'package:golden_moments/features/home/data/interest_preferences.dart';
 import 'package:golden_moments/l10n/l10n.dart';
+import 'package:golden_moments/l10n/pack_text.dart';
 import 'package:golden_moments/shared/widgets/category_card.dart';
 
 /// Section displaying the game library, with optional topic choices.
@@ -158,7 +159,7 @@ class _LibrarySectionState extends State<LibrarySection> {
             children: [
               for (final category in categories)
                 FilterChip(
-                  label: Text(category.name),
+                  label: Text(parentContext.packText.categoryName(category)),
                   selected: _chosen.contains(category.id),
                   showCheckmark: true,
                   onSelected: (selected) =>

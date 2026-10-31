@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Animals",
+      "description": "Cute and friendly animals from around the world"
+    },
+    "nature": {
+      "name": "Nature",
+      "description": "Beautiful landscapes and natural scenes"
+    },
+    "food": {
+      "name": "Food",
+      "description": "Delicious meals and treats"
+    },
+    "vintage": {
+      "name": "Cars",
+      "description": "Cars and trucks to look at and talk about"
+    },
+    "flowers": {
+      "name": "Flowers",
+      "description": "Beautiful blooms and garden scenes"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Farm Animals",
+      "description": "Friendly farm animals that will bring back memories of countryside visits",
+      "theme": "Farm Life",
+      "images": {
+        "cow_1": "Friendly Cow",
+        "pig_1": "Happy Pig",
+        "chicken_1": "Rooster",
+        "buffalo_1": "Water Buffalo",
+        "horse_1": "Beautiful Horse",
+        "duck_1": "Duck Family",
+        "goat_1": "Curious Goat",
+        "rabbit_1": "Cute Rabbit"
+      }
+    },
+    "nature_mountains": {
+      "title": "Mountain Views",
+      "description": "Breathtaking mountain landscapes and scenic vistas",
+      "theme": "Natural Beauty",
+      "images": {
+        "mountain_1": "Snow-capped Peaks",
+        "mountain_2": "Fuji Mount",
+        "mountain_3": "Alpine Valley",
+        "mountain_4": "Rocky Summit",
+        "mountain_5": "Forest Hills",
+        "mountain_6": "Misty Mountains"
+      }
+    },
+    "vintage_cars": {
+      "title": "Cars and Trucks",
+      "description": "Shiny cars and trucks to look at and talk about",
+      "theme": "On the Road",
+      "images": {
+        "vintage_car_1": "Orange Audi at sunset",
+        "vintage_car_2": "Blue sports car in the desert",
+        "vintage_car_3": "Silver Bugatti",
+        "vintage_car_4": "Black Porsche on the road",
+        "vintage_car_5": "Orange BMW on a palm-lined street",
+        "vintage_car_6": "Blue coupe by a garage",
+        "vintage_car_7": "Green pickup truck",
+        "vintage_car_8": "White SUV among red rocks",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Blue car with white stripes"
+      }
+    },
+    "animals_safari": {
+      "title": "Safari Animals",
+      "description": "Majestic animals from African safaris",
+      "theme": "Wildlife",
+      "images": {
+        "lion_1": "Majestic Lion",
+        "elephant_2": "African Elephant",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Striped Zebra",
+        "rhino_5": "Powerful Rhino",
+        "cheetah_6": "Fast Cheetah",
+        "fox_7": "Brown Fox",
+        "bear_8": "Polar Bear",
+        "turtle_9": "Brown Turtle",
+        "squirrel_10": "Brown Squirrel",
+        "macaw_11": "Yellow And Blue Macaw",
+        "tiger_12": "Tiger",
+        "raccoon_13": "Raccoon",
+        "wolf_14": "Angry Wolf",
+        "crocodile_15": "Crocodile",
+        "peacock_16": "Beautiful Peacock"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Delicious Desserts",
+      "description": "Some delicious desserts for your meals!",
+      "theme": "Sweet desserts",
+      "images": {
+        "pastries_1": "Four Pastries",
+        "oreo_cookie_sandwiches_2": "Oreo Cookie Sandwiches",
+        "crepe_3": "Crepe",
+        "pancake_4": "Pancake",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Caramel Cake"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropical Blossoms",
+      "description": "Discover the vibrant beauty of the tropics with this pack of exotic flowers!",
+      "theme": "Tropical Flowers",
+      "images": {
+        "hibiscus_1": "Red Hibiscus",
+        "frangipani_2": "Red White Frangipani",
+        "sunflower_3": "Sunflower",
+        "hydrangea_4": "White Hydrangea",
+        "rose_5": "Rose",
+        "chrysanthemum_6": "Chrysanthemum",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Street Food Fiesta",
+      "description": "Dive into the colorful world of street food with this pack of delicious global snacks!",
+      "theme": "Street Food",
+      "images": {
+        "taco_1": "Mexican Taco",
+        "ramen_2": "Japanese Ramen",
+        "dumplings_3": "Chinese Dumplings",
+        "samosa_4": "Indian Samosa",
+        "pizza_5": "Italian Pizza Slice",
+        "crepe_6": "French Crepe",
+        "satay_7": "Thai Satay Skewers",
+        "burger_8": "American Burger",
+        "bao_9": "Steamed Bao Bun",
+        "takoyaki_10": "Japanese Takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Nature Landscape",
+      "description": "Test your mind with stunning nature images designed to sharpen your memory and observation skills!",
+      "theme": "Nature Landscapes",
+      "images": {
+        "mountain_1": "Mountain Range",
+        "forest_2": "Foggy Forest",
+        "lake_3": "Mountain Lake",
+        "desert_4": "Desert Dunes",
+        "waterfall_5": "Waterfall",
+        "beach_6": "Sandy Beach",
+        "river_7": "Flowing River",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Sunset Sky",
+        "snow_mountain_10": "Snowy Mountain",
+        "flowers_11": "Wildflowers",
+        "rainforest_12": "Rainforest",
+        "iceberg_13": "Iceberg",
+        "volcano_14": "Volcano",
+        "cliff_15": "Sea Cliff",
+        "aurora_16": "Aurora Borealis",
+        "savannah_17": "Savannah",
+        "coral_reef_18": "Coral Reef"
+      }
+    }
+  }
+}

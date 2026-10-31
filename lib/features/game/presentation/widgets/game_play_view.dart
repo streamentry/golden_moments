@@ -55,6 +55,7 @@ class _GamePlayViewState extends State<GamePlayView> {
       selectedTileIds: {for (final tile in state.selectedTiles) tile.id},
       waitingForNextTap: state.showingMismatch || state.hintTileIds.isNotEmpty,
       heightBudget: heightBudget,
+      packId: state.currentPack.id,
       onTileTap: (tileId) => context.read<GameCubit>().onTileTap(tileId),
     );
 

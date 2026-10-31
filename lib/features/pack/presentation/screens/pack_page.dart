@@ -10,6 +10,7 @@ import 'package:golden_moments/features/home/cubit/home_state.dart';
 import 'package:golden_moments/features/home/presentation/widgets/hidden_packs_section.dart';
 import 'package:golden_moments/features/home/presentation/widgets/pack_choice_not_saved.dart';
 import 'package:golden_moments/l10n/l10n.dart';
+import 'package:golden_moments/l10n/pack_text.dart';
 import 'package:golden_moments/shared/widgets/pack_card.dart';
 import 'package:golden_moments/shared/widgets/pack_grid.dart';
 
@@ -74,7 +75,9 @@ class _PackView extends StatelessWidget {
       child: Scaffold(
         appBar: AppBar(
           toolbarHeight: gmToolbarHeight(context),
-          title: GmTitle(categoryName),
+          title: GmTitle(
+            context.packText.categoryNameFor(categoryId, categoryName),
+          ),
         ),
         body: BlocBuilder<HomeCubit, HomeState>(
           builder: (context, state) {

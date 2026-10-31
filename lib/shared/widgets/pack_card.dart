@@ -3,6 +3,7 @@ import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/game.dart';
 import 'package:golden_moments/l10n/l10n.dart';
+import 'package:golden_moments/l10n/pack_text.dart';
 import 'package:golden_moments/shared/widgets/gm_mounted_picture.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
 
@@ -39,6 +40,8 @@ class PackCard extends StatelessWidget {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final l10n = context.l10n;
+    final text = context.packText;
+    final title = text.packTitle(pack);
     return Card(
       clipBehavior: Clip.antiAlias,
       child: Column(
@@ -57,7 +60,10 @@ class PackCard extends StatelessWidget {
                 },
             // One labelled button for a screen reader: the role annotates
             // the tappable surface's own node (GM-014).
-            child: Semantics(button: true, child: _buildLayout(theme, l10n)),
+            child: Semantics(
+              button: true,
+              child: _buildLayout(theme, l10n, title, text.packTheme(pack)),
+            ),
           ),
           if (_hasActions) ...[
             // A hairline sets the choices apart from the picture and its
@@ -68,14 +74,14 @@ class PackCard extends StatelessWidget {
               indent: gmSpaceSm,
               endIndent: gmSpaceSm,
             ),
-            _buildActions(theme, l10n),
+            _buildActions(theme, l10n, title),
           ],
         ],
       ),
     );
   }
 
-  Widget _buildActions(ThemeData theme, AppLocalizations l10n) {
+  Widget _buildActions(ThemeData theme, AppLocalizations l10n, String title) {
     return Padding(
       padding: const EdgeInsets.fromLTRB(
         gmSpaceXs,
@@ -102,8 +108,8 @@ class PackCard extends StatelessWidget {
                         ? l10n.libraryHiddenInFavorites
                         : l10n.packAddToFavorites,
                     semanticsLabel: isFavorite
-                        ? l10n.packInFavoritesLabel(pack.title)
-                        : l10n.packAddToFavoritesLabel(pack.title),
+                        ? l10n.packInFavoritesLabel(title)
+                        : l10n.packAddToFavoritesLabel(title),
                   ),
                 ),
               ),
@@ -115,7 +121,7 @@ class PackCard extends StatelessWidget {
               icon: const Icon(Icons.visibility_off_outlined),
               label: Text(
                 l10n.packNotForMe,
-                semanticsLabel: l10n.packNotForMeLabel(pack.title),
+                semanticsLabel: l10n.packNotForMeLabel(title),
               ),
             ),
         ],
@@ -123,7 +129,12 @@ class PackCard extends StatelessWidget {
     );
   }
 
-  Widget _buildLayout(ThemeData theme, AppLocalizations l10n) {
+  Widget _buildLayout(
+    ThemeData theme,
+    AppLocalizations l10n,
+    String title,
+    String packTheme,
+  ) {
     final scheme = theme.colorScheme;
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -152,9 +163,9 @@ class PackCard extends StatelessWidget {
             mainAxisSize: MainAxisSize.min,
             children: [
               // Nothing is clamped: the card grows with its text.
-              Text(pack.title, style: theme.textTheme.titleLarge),
+              Text(title, style: theme.textTheme.titleLarge),
               Text(
-                pack.theme,
+                packTheme,
                 style: theme.textTheme.bodySmall?.copyWith(
                   color: scheme.onSurfaceVariant,
                 ),

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/cubit/tile_state.dart';
 import 'package:golden_moments/l10n/l10n.dart';
+import 'package:golden_moments/l10n/pack_text.dart';
 
 /// One picture tile on the picture-pack board.
 ///
@@ -14,6 +15,7 @@ class MemoryTile extends StatelessWidget {
     required this.position,
     required this.onTap,
     this.selected = false,
+    this.packId,
     super.key,
   });
 
@@ -28,15 +30,25 @@ class MemoryTile extends StatelessWidget {
   /// Null when the tile cannot be chosen right now (for example, matched).
   final VoidCallback? onTap;
 
+  /// The pack the picture belongs to, so its caption can be read in the app
+  /// language. Without it the caption is the catalog's English.
+  final String? packId;
+
   /// Spoken label: positional while hidden, the picture's name once shown.
-  static String labelFor(GameTile tile, int position, AppLocalizations l10n) {
+  /// [caption] replaces the picture's own (English) caption when given.
+  static String labelFor(
+    GameTile tile,
+    int position,
+    AppLocalizations l10n, {
+    String? caption,
+  }) {
     if (!tile.isRevealed && !tile.isMatched) {
       return l10n.gameTileHidden(position);
     }
-    final caption = tile.image.caption.trim();
-    return caption.isEmpty
+    final named = (caption ?? tile.image.caption).trim();
+    return named.isEmpty
         ? l10n.gameTilePicture(position)
-        : l10n.gameTileNamed(caption, position);
+        : l10n.gameTileNamed(named, position);
   }
 
   @override
@@ -48,7 +60,19 @@ class MemoryTile extends StatelessWidget {
       button: true,
       enabled: onTap != null,
       onTap: onTap,
-      label: labelFor(tile, position, l10n),
+      label: labelFor(
+        tile,
+        position,
+        l10n,
+        caption: switch (packId) {
+          final id? => parentContext.packText.caption(
+            id,
+            tile.image.id,
+            tile.image.caption,
+          ),
+          null => null,
+        },
+      ),
       value: tile.isMatched
           ? l10n.commonMatched
           : selected

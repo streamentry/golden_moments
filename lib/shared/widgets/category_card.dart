@@ -3,6 +3,7 @@ import 'package:golden_moments/data/models/category.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/pack/presentation/screens/pack_page.dart';
 import 'package:golden_moments/l10n/l10n.dart';
+import 'package:golden_moments/l10n/pack_text.dart';
 import 'package:golden_moments/shared/widgets/download_progress_card.dart';
 import 'package:golden_moments/shared/widgets/gm_mounted_picture.dart';
 import 'package:golden_moments/shared/widgets/pressable.dart';
@@ -52,12 +53,15 @@ class CategoryCard extends StatelessWidget {
         },
         // The button role annotates the tappable surface's own node, so a
         // screen reader finds one labelled button, not two (GM-014).
-        child: Semantics(button: true, child: _buildLayout(theme, l10n)),
+        child: Semantics(
+          button: true,
+          child: _buildLayout(theme, l10n, parentContext.packText),
+        ),
       ),
     );
   }
 
-  Widget _buildLayout(ThemeData theme, AppLocalizations l10n) {
+  Widget _buildLayout(ThemeData theme, AppLocalizations l10n, PackText text) {
     // A minimum height, not a fixed one, so the text can wrap at 200%.
     return ConstrainedBox(
       constraints: const BoxConstraints(minHeight: 96 + gmSpaceSm * 2),
@@ -76,7 +80,7 @@ class CategoryCard extends StatelessWidget {
                     children: [
                       Expanded(
                         child: Text(
-                          category.name,
+                          text.categoryName(category),
                           // Wraps at any text size; never truncated.
                           style: theme.textTheme.titleMedium,
                         ),
@@ -85,7 +89,7 @@ class CategoryCard extends StatelessWidget {
                     ],
                   ),
                   Text(
-                    category.description,
+                    text.categoryDescription(category),
                     style: theme.textTheme.bodySmall?.copyWith(
                       color: theme.colorScheme.onSurfaceVariant,
                     ),

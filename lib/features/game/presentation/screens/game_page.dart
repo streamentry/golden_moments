@@ -11,6 +11,7 @@ import 'package:golden_moments/features/game/cubit/game_state.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_exit_bar.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_play_view.dart';
 import 'package:golden_moments/l10n/l10n.dart';
+import 'package:golden_moments/l10n/pack_text.dart';
 import 'package:golden_moments/shared/rating/review_request.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
 import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
@@ -91,7 +92,7 @@ class _GamePageState extends State<GamePage> {
                 toolbarHeight: gmToolbarHeight(context),
                 title: GmTitle(
                   playing
-                      ? state.currentPack.title
+                      ? context.packText.packTitle(state.currentPack)
                       : context.l10n.gameTitleFallback,
                 ),
                 actions: playing

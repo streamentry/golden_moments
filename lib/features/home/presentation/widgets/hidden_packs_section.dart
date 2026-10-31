@@ -3,6 +3,7 @@ import 'package:flutter/scheduler.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/l10n/l10n.dart';
+import 'package:golden_moments/l10n/pack_text.dart';
 
 /// The lasting way back from "Not for me" (GM-020, GM-026).
 ///
@@ -76,7 +77,10 @@ class HiddenPacksSection extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     mainAxisSize: MainAxisSize.min,
                     children: [
-                      Text(pack.title, style: theme.textTheme.titleMedium),
+                      Text(
+                        context.packText.packTitle(pack),
+                        style: theme.textTheme.titleMedium,
+                      ),
                       if (favoriteIds.contains(pack.id))
                         Row(
                           mainAxisSize: MainAxisSize.min,
@@ -100,7 +104,7 @@ class HiddenPacksSection extends StatelessWidget {
                     label: Text(
                       context.l10n.libraryShowAgain,
                       semanticsLabel: context.l10n.libraryShowPackAgain(
-                        pack.title,
+                        context.packText.packTitle(pack),
                       ),
                     ),
                   ),
@@ -194,7 +198,9 @@ class _HiddenNoticeState extends State<HiddenNotice> {
                     const SizedBox(width: gmSpaceSm),
                     Flexible(
                       child: Text(
-                        context.l10n.libraryPackHiddenNotice(widget.pack.title),
+                        context.l10n.libraryPackHiddenNotice(
+                          context.packText.packTitle(widget.pack),
+                        ),
                         style: theme.textTheme.bodyLarge,
                       ),
                     ),
@@ -207,7 +213,7 @@ class _HiddenNoticeState extends State<HiddenNotice> {
                   label: Text(
                     context.l10n.libraryShowAgain,
                     semanticsLabel: context.l10n.libraryShowPackAgain(
-                      widget.pack.title,
+                      context.packText.packTitle(widget.pack),
                     ),
                   ),
                 ),
