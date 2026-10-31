@@ -1,4 +1,166 @@
 {
-  "categories": {},
-  "packs": {}
+  "categories": {
+    "animals": {
+      "name": "Hayvanlar",
+      "description": "Dünyanın dört bir yanından sevimli, dost canlısı hayvanlar"
+    },
+    "nature": {
+      "name": "Doğa",
+      "description": "Güzel manzaralar ve doğa görüntüleri"
+    },
+    "food": {
+      "name": "Yiyecekler",
+      "description": "Lezzetli yemekler ve tatlılar"
+    },
+    "vintage": {
+      "name": "Arabalar",
+      "description": "Bakıp üzerine konuşmak için arabalar ve kamyonetler"
+    },
+    "flowers": {
+      "name": "Çiçekler",
+      "description": "Güzel çiçekler ve bahçe görüntüleri"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Çiftlik Hayvanları",
+      "description": "Kırsalda bir gezideki gibi dost canlısı çiftlik hayvanları.",
+      "theme": "Çiftlik hayatı",
+      "images": {
+        "cow_1": "Uysal inek",
+        "pig_1": "Neşeli domuz",
+        "chicken_1": "Horoz",
+        "buffalo_1": "Manda",
+        "horse_1": "Güzel at",
+        "duck_1": "Ördek ailesi",
+        "goat_1": "Meraklı keçi",
+        "rabbit_1": "Sevimli tavşan"
+      }
+    },
+    "nature_mountains": {
+      "title": "Dağ Manzaraları",
+      "description": "Göz alıcı dağ manzaraları ve güzel görünümler",
+      "theme": "Doğanın güzelliği",
+      "images": {
+        "mountain_1": "Karlı zirveler",
+        "mountain_2": "Fuji Dağı",
+        "mountain_3": "Alp vadisi",
+        "mountain_4": "Kayalık zirve",
+        "mountain_5": "Ormanlık tepeler",
+        "mountain_6": "Sisli dağlar"
+      }
+    },
+    "vintage_cars": {
+      "title": "Arabalar ve Kamyonetler",
+      "description": "Bakıp üzerine konuşmak için parlak arabalar ve kamyonetler",
+      "theme": "Yolda",
+      "images": {
+        "vintage_car_1": "Gün batımında turuncu Audi",
+        "vintage_car_2": "Çölde mavi spor araba",
+        "vintage_car_3": "Gümüş rengi Bugatti",
+        "vintage_car_4": "Yolda siyah Porsche",
+        "vintage_car_5": "Palmiyeli sokakta turuncu BMW",
+        "vintage_car_6": "Garajın önünde mavi kupa",
+        "vintage_car_7": "Yeşil kamyonet",
+        "vintage_car_8": "Kırmızı kayalar arasında beyaz cip",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Beyaz çizgili mavi araba"
+      }
+    },
+    "animals_safari": {
+      "title": "Safari Hayvanları",
+      "description": "Afrika safarilerinden görkemli hayvanlar",
+      "theme": "Yaban hayatı",
+      "images": {
+        "lion_1": "Görkemli aslan",
+        "elephant_2": "Afrika fili",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Çizgili zebra",
+        "rhino_5": "Güçlü gergedan",
+        "cheetah_6": "Hızlı çita",
+        "fox_7": "Kahverengi tilki",
+        "bear_8": "Kutup ayısı",
+        "turtle_9": "Kahverengi kaplumbağa",
+        "squirrel_10": "Kahverengi sincap",
+        "macaw_11": "Sarı mavi papağan",
+        "tiger_12": "Kaplan",
+        "raccoon_13": "Rakun",
+        "wolf_14": "Gri kurt",
+        "crocodile_15": "Timsah",
+        "peacock_16": "Güzel tavus kuşu"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Lezzetli Tatlılar",
+      "description": "Sofranız için birkaç lezzetli tatlı.",
+      "theme": "Tatlılar",
+      "images": {
+        "pastries_1": "Dört hamur tatlısı",
+        "oreo_cookie_sandwiches_2": "Oreo bisküviler",
+        "crepe_3": "Krep",
+        "pancake_4": "Pankek",
+        "macarons_5": "Makaronlar",
+        "caramel_cake_6": "Karamelli pasta"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropik Çiçekler",
+      "description": "Bu egzotik çiçek paketiyle tropik bölgelerin canlı güzelliğini keşfedin.",
+      "theme": "Tropik çiçekler",
+      "images": {
+        "hibiscus_1": "Kırmızı ebegümeci",
+        "frangipani_2": "Kırmızı beyaz frangipani",
+        "sunflower_3": "Ayçiçeği",
+        "hydrangea_4": "Beyaz ortanca",
+        "rose_5": "Gül",
+        "chrysanthemum_6": "Kasımpatı",
+        "anthurium_7": "Antoryum",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kadam çiçeği",
+        "delphinium_10": "Hezaren"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Sokak Lezzetleri",
+      "description": "Dünyanın dört bir yanından lezzetli atıştırmalıklarla sokak yemeklerinin renkli dünyasını keşfedin.",
+      "theme": "Sokak yemekleri",
+      "images": {
+        "taco_1": "Meksika tacosu",
+        "ramen_2": "Japon rameni",
+        "dumplings_3": "Çin mantısı",
+        "samosa_4": "Hint samosası",
+        "pizza_5": "Bir dilim İtalyan pizzası",
+        "crepe_6": "Fransız krebi",
+        "satay_7": "Tay usulü şiş",
+        "burger_8": "Amerikan burgeri",
+        "bao_9": "Buharda bao çöreği",
+        "takoyaki_10": "Japon takoyakisi"
+      }
+    },
+    "nature_landscape": {
+      "title": "Doğa Manzaraları",
+      "description": "Yavaşça bakıp birlikte konuşmak için sakin, güzel doğa görüntüleri.",
+      "theme": "Doğa manzaraları",
+      "images": {
+        "mountain_1": "Sıradağlar",
+        "forest_2": "Sisli orman",
+        "lake_3": "Dağ gölü",
+        "desert_4": "Çöl kumulları",
+        "waterfall_5": "Şelale",
+        "beach_6": "Kumsal",
+        "river_7": "Akan nehir",
+        "canyon_8": "Büyük Kanyon",
+        "sunset_9": "Gün batımında gökyüzü",
+        "snow_mountain_10": "Karlı dağ",
+        "flowers_11": "Kır çiçekleri",
+        "rainforest_12": "Yağmur ormanı",
+        "iceberg_13": "Buzdağı",
+        "volcano_14": "Yanardağ",
+        "cliff_15": "Deniz kayalıkları",
+        "aurora_16": "Kuzey ışıkları",
+        "savannah_17": "Savana",
+        "coral_reef_18": "Mercan kayalığı"
+      }
+    }
+  }
 }
