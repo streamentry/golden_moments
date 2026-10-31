@@ -43,4 +43,5 @@ same change.
   *Alzheimer's*), keep `seoTitle`/`title` under about 60 characters and
   descriptions under about 160 where the language allows.
 - **Typography:** use the language's own quotation marks and punctuation, and
-  no exclamation-mark praise or emoji.
+  no exclamation-mark praise or emoji. In Arabic, write the arrow in "… →"
+  labels as "←", since the text reads right to left.
