@@ -4,8 +4,9 @@
     python3 scripts/store_locales.py --check    # validate every language file
     python3 scripts/store_locales.py --list     # store locale codes per file
 
-One file per app language holds its App Store and Google Play listing text and
-the store locale codes it fills (Spanish fills Mexico and Spain, for example).
+One file per app language holds its App Store and Google Play listing text, the
+"What's New" release notes (identical on both stores, at most 500 characters)
+and the store locale codes it fills (Spanish fills Mexico and Spain, for example).
 English stays in `metadata/app-store.en-US.json` and
 `metadata/google-play.en-US.json`. The check enforces the store limits, the
 brand name, keyword rules and our tone rules; it cannot judge translation
@@ -47,8 +48,9 @@ LANGUAGES: dict[str, tuple[tuple[str, ...], tuple[str, ...]]] = {
 }
 
 APP_STORE_LIMITS = {'name': 30, 'subtitle': 30, 'promotional_text': 170,
-                    'description': 4000}
-PLAY_LIMITS = {'name': 30, 'short_description': 80, 'full_description': 4000}
+                    'description': 4000, 'release_notes': 4000}
+PLAY_LIMITS = {'name': 30, 'short_description': 80, 'full_description': 4000,
+               'release_notes': 500}
 KEYWORD_BYTES = 100
 # Pressure, praise and claim marks the tone rules exclude in every language.
 FORBIDDEN_MARKS = ('!', '！', '¡')
@@ -113,6 +115,8 @@ def validate(language: str, data: dict) -> list[str]:
     errors += _text_errors('app_store', store, APP_STORE_LIMITS)
     errors += _keyword_errors(store)
     errors += _text_errors('google_play', play, PLAY_LIMITS)
+    if store.get('release_notes') != play.get('release_notes'):
+        errors.append('release_notes: the App Store and Google Play texts differ')
     return errors
 
 

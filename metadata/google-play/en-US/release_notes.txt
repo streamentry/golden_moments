@@ -1,3 +1,2 @@
-A few additions for families:
-- On iPhone and iPad, an optional gentle reminder for picture time, on the days and at the time you choose. It is off until you turn it on.
-- Rate Golden Moments from Help and privacy, if you like. Ratings help other families find it.
+Golden Moments now speaks 20 languages, including Spanish, Portuguese, French, German, Japanese, Korean, Chinese, Arabic, Hindi and more. The app follows your phone's language, and the picture packs and captions are translated too.
+These translations are new and not yet reviewed by native speakers. If anything reads wrong, tell us from Help and privacy.

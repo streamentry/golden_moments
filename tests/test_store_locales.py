@@ -15,11 +15,13 @@ GOOD = {
         'keywords': 'alzheimer,memoria,mayores,abuelos',
         'promotional_text': 'Actividades sencillas para disfrutar juntos.',
         'description': 'Actividades sencillas con fotos grandes.',
+        'release_notes': 'Ahora en 20 idiomas. Estas traducciones aún no las han revisado hablantes nativos.',
     },
     'google_play': {
         'name': 'Demencia: Golden Moments',
         'short_description': 'Actividades sencillas con fotos para disfrutar juntos.',
         'full_description': 'Actividades sencillas con fotos grandes.',
+        'release_notes': 'Ahora en 20 idiomas. Estas traducciones aún no las han revisado hablantes nativos.',
     },
 }
 
@@ -68,6 +70,15 @@ class StoreLocaleTests(unittest.TestCase):
         self.assertTrue(store_locales.validate('es', variant(app_store__name='Juegos de memoria')))
         self.assertTrue(store_locales.validate(
             'es', variant(app_store__promotional_text='¡Juegue ya!')))
+
+    def test_release_notes_are_required_and_match_across_stores(self):
+        missing = copy.deepcopy(GOOD)
+        del missing['app_store']['release_notes']
+        self.assertTrue(store_locales.validate('es', missing))
+        long_play = variant(google_play__release_notes='x' * 501)
+        self.assertTrue(store_locales.validate('es', long_play))
+        differ = variant(google_play__release_notes='Otra nota.')
+        self.assertTrue(any('differ' in e for e in store_locales.validate('es', differ)))
 
     def test_locale_codes_must_match_the_language(self):
         self.assertTrue(store_locales.validate('es', variant(app_store_locales=['es-ES'])))
