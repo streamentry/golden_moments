@@ -17,12 +17,12 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 /// Layout checks for right-to-left and long translations (GM-036).
 ///
-/// Arabic has no translation yet, so these screens show the English text
-/// laid out right to left: the mirroring is real, the Arabic glyph widths
-/// are not. German has no translation yet either, so the German runs use
-/// [_LongTextL10n], a test-only stand-in that makes every word about 40%
-/// longer, the usual allowance for German. Both need a re-run once the
-/// real translations land.
+/// The Arabic runs use the real (machine-made, unreviewed) Arabic text laid
+/// out right to left; the test font draws every glyph as a box, so glyph
+/// widths are approximate. The German runs use [_LongTextL10n], a test-only
+/// stand-in that makes every English word about 40% longer, the usual
+/// allowance for German, so a stretched worst case is checked as well as
+/// the real German.
 
 const _ios = GmNative(supportedOverride: true);
 const _channel = MethodChannel('golden_moments/native');
@@ -216,10 +216,19 @@ void main() {
     await tester.pumpAndSettle();
     final time = tester.getRect(find.byIcon(Icons.schedule));
     expect(time.center.dx, greaterThan(390 / 2));
-    // Monday, the first day, is the rightmost chip of the first row.
-    final monday = tester.getRect(find.text('Mon'));
-    final tuesday = tester.getRect(find.text('Tue'));
-    expect(monday.left, greaterThan(tuesday.left));
+    // Monday, the first day, starts the first row at the right edge;
+    // Tuesday follows to its left, or starts the next row at the same edge.
+    final arabic = lookupAppLocalizations(const Locale('ar'));
+    Rect chip(String label) => tester.getRect(
+      find.ancestor(of: find.text(label), matching: find.byType(FilterChip)),
+    );
+    final monday = chip(arabic.reminderDayMondayShort);
+    final tuesday = chip(arabic.reminderDayTuesdayShort);
+    expect(monday.center.dx, greaterThan(390 / 2));
+    expect(monday.right, greaterThanOrEqualTo(tuesday.right - 0.5));
+    if (tuesday.top < monday.bottom) {
+      expect(tuesday.right, lessThan(monday.left + 0.5));
+    }
   });
 
   testWidgets('long German text really is longer', (tester) async {

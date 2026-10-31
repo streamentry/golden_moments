@@ -164,10 +164,11 @@ void main() {
     });
   });
 
-  test('an untranslated language shows the English text', () async {
-    final arabic = await AppLocalizations.delegate.load(const Locale('ar'));
+  test('a language with no translated text shows the English text', () async {
+    // app_pt.arb is the generator's empty base file for pt_BR.
+    final base = await AppLocalizations.delegate.load(const Locale('pt'));
     final english = lookupAppLocalizations(fallbackLocale);
-    expect(arabic.homeStartGentleGame, english.homeStartGentleGame);
-    expect(arabic.localeName, 'ar');
+    expect(base.homeStartGentleGame, english.homeStartGentleGame);
+    expect(base.localeName, 'pt');
   });
 }
