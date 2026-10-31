@@ -1,7 +1,7 @@
 ---
 title: "Agitation de fin de journée (syndrome crépusculaire) : activités calmes en fin d’après-midi"
 seoTitle: "Syndrome crépusculaire : activités calmes en fin d’après-midi"
-description: "Routines, aménagement et activités calmes qui peuvent apaiser l’agitation de fin de journée dans la démence, et quand appeler un médecin si elle est nouvelle ou s’aggrave."
+description: "Routines, aménagement et activités calmes pour apaiser l’agitation de fin de journée dans la démence, et quand appeler un médecin si elle est nouvelle ou s’aggrave."
 section: caregiving
 order: 4
 updated: 2026-10-25

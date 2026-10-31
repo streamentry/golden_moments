@@ -92,7 +92,7 @@ def check(code: str, rel: str) -> tuple[list[str], list[str]]:
     if width(title) > 64:
         warnings.append(f'search title is long ({width(title)})')
     if width(front.get('description', '')) > 170:
-        warnings.append(f'description is long ({width(front.get("description", ""))})')
+        errors.append(f'description is too long for the site check ({width(front.get("description", ""))}, maximum 170)')
     return errors, warnings
 
 

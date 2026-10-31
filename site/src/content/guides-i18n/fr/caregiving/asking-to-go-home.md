@@ -1,7 +1,7 @@
 ---
 title: "Une personne atteinte de démence demande sans cesse à rentrer chez elle"
 seoTitle: "Démence : « Je veux rentrer chez moi », que répondre ?"
-description: "Pourquoi une personne atteinte de démence demande à rentrer chez elle alors qu’elle y est, que répondre, quelles activités apaisantes essayer et comment assurer sa sécurité."
+description: "Pourquoi une personne atteinte de démence demande à rentrer chez elle alors qu’elle y est, que répondre, quelles activités apaisantes essayer et comment la protéger."
 section: caregiving
 order: 8
 updated: 2026-10-31

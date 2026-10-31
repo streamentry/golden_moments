@@ -1,7 +1,7 @@
 ---
 title: "Installer une tablette ou un téléphone pour une personne atteinte de démence"
 seoTitle: "Tablette ou téléphone pour une personne atteinte de démence"
-description: "Installer une tablette ou un téléphone pour une personne atteinte de démence : une seule application, grand texte, peu de notifications, écran d’accueil simple, volume et vie privée."
+description: "Préparer une tablette ou un téléphone pour une personne atteinte de démence : une seule appli, grand texte, peu de notifications, écran d’accueil simple, vie privée."
 section: caregiving
 order: 5
 updated: 2026-10-25

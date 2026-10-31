@@ -1,7 +1,7 @@
 ---
 title: "Quand une personne atteinte de démence refuse une activité ou s’en irrite"
 seoTitle: "Démence : que faire quand elle refuse une activité ?"
-description: "Pourquoi une personne atteinte de démence refuse une activité ou s’en irrite, que proposer à la place, ce qu’il faut éviter et quand un changement brusque demande un médecin."
+description: "Pourquoi une personne atteinte de démence refuse une activité ou s’irrite, que proposer à la place, ce qu’il faut éviter et quand un changement brusque exige un médecin."
 section: caregiving
 order: 3
 updated: 2026-10-25
