@@ -1,0 +1,10 @@
+---
+import AppView from '../../views/AppView.astro';
+import { localeStaticPaths } from '../../i18n/ui';
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+const { lang } = Astro.props;
+---
+<AppView lang={lang} />

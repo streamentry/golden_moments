@@ -1,0 +1,10 @@
+---
+import FaqView from '../../views/FaqView.astro';
+import { localeStaticPaths } from '../../i18n/ui';
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+const { lang } = Astro.props;
+---
+<FaqView lang={lang} />

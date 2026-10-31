@@ -1,0 +1,100 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import GameCard from '../components/GameCard.astro';
+import Faq from '../components/Faq.astro';
+import type { Stage } from '../data/games';
+import { absoluteUrl } from '../lib/site';
+import { breadcrumbs, faqPage } from '../lib/schema';
+import { localePath, localizeHtml } from '../i18n/locales';
+import { localizedGames } from '../i18n/games';
+import { PUBLISHED, fill, ui } from '../i18n/ui';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const t = ui(lang);
+const p = t.gamesIndex;
+const games = localizedGames(lang);
+const l = (path: string) => localePath(lang, path);
+const crumbs = [{ href: l('/games/'), label: p.crumb }];
+const stages: Stage[] = ['early', 'middle', 'late'];
+const stageLabel = { early: t.stage.labelEarly, middle: t.stage.labelMiddle, late: t.stage.labelLate };
+const itemList = {
+  '@type': 'ItemList',
+  name: p.listName,
+  itemListElement: games.map((g, i) => ({ '@type': 'ListItem', position: i + 1, url: absoluteUrl(l(`/games/${g.slug}/`)), name: g.name })),
+};
+---
+<BaseLayout title={p.title} description={p.description} jsonLd={[breadcrumbs(crumbs, lang), itemList, faqPage(p.faq)]} available={PUBLISHED.map((x) => x.code)}>
+  <Breadcrumbs items={crumbs} lang={lang} />
+  <div class="container">
+    <header class="page-head">
+      <h1>{p.h1}</h1>
+      <p class="lede">{fill(p.lede, { count: games.length })}</p>
+    </header>
+    <ul class="card-grid">
+      {games.map((g) => <li><GameCard game={g} headingLevel="h2" lang={lang} /></li>)}
+    </ul>
+
+    <section class="section" aria-labelledby="by-stage">
+      <h2 id="by-stage">{p.byStageTitle}</h2>
+      <p class="lede">{p.byStageLede}</p>
+      <div class="stage-table">
+        <table>
+          <thead>
+            <tr><th scope="col">{p.stageCol}</th><th scope="col">{p.gamesCol}</th></tr>
+          </thead>
+          <tbody>
+            {
+              stages.map((st) => (
+                <tr>
+                  <th scope="row">{stageLabel[st]}</th>
+                  <td>
+                    {games.filter((g) => g.stages.includes(st)).map((g, i, arr) => (
+                      <>
+                        <a href={l(`/games/${g.slug}/`)}>{g.name}</a>
+                        {i < arr.length - 1 ? ', ' : ''}
+                      </>
+                    ))}
+                  </td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+      <p set:html={localizeHtml(lang, p.moreHtml)} />
+    </section>
+    <div class="narrow">
+      <Faq items={p.faq} lang={lang} />
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .stage-table {
+    overflow-x: auto;
+    margin-block: var(--space-lg);
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--text-md);
+  }
+  th,
+  td {
+    text-align: start;
+    vertical-align: top;
+    padding: 14px;
+    border-bottom: 1px solid var(--gm-surface-sunken);
+  }
+  thead th {
+    background: var(--gm-surface);
+    border-bottom: 2px solid var(--gm-outline);
+  }
+  tbody th {
+    white-space: nowrap;
+  }
+</style>

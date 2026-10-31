@@ -1,0 +1,10 @@
+---
+import OrganizationsView from '../../views/OrganizationsView.astro';
+import { localeStaticPaths } from '../../i18n/ui';
+
+export function getStaticPaths() {
+  return localeStaticPaths();
+}
+const { lang } = Astro.props;
+---
+<OrganizationsView lang={lang} />

@@ -27,6 +27,10 @@ export function localizedGames(code: string): GameInfo[] {
 export function localStageHint(stages: readonly Stage[], code: string): string {
   const t = ui(code).stage;
   const words = stages.map((s) => t[s]);
-  const list = new Intl.ListFormat(localeInfo(code).bcp47, { type: 'conjunction' }).format(words);
+  // House style has no serial comma in English; other languages follow Intl.
+  const list =
+    code === DEFAULT_LOCALE && words.length > 1
+      ? `${words.slice(0, -1).join(', ')} and ${words[words.length - 1]}`
+      : new Intl.ListFormat(localeInfo(code).bcp47, { type: 'conjunction' }).format(words);
   return fill(words.length > 1 ? t.hintMany : t.hintOne, { list });
 }
