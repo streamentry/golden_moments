@@ -152,7 +152,16 @@
     "MBXZKYSY",
     "audioplayers",
     "xcarchive",
-    "appbundle"
+    "appbundle",
+    "Fraunces",
+    "fraunces",
+    "indexnow",
+    "IndexNow",
+    "lede",
+    "Ledes",
+    "letterforms",
+    "Bingbot",
+    "AARP"
   ],
   "ignorePaths": [
     "**/docs/store-description/**"
