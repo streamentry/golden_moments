@@ -27,7 +27,6 @@ faq:
   - q: "暫時離開照顧工作休息一下，是自私嗎？"
     a: "不是。休息才能讓您繼續照顧，而喘息也能讓被照顧的長輩換個人陪伴、換個活動。很多照顧者後來都說，希望自己早一點開口求助。"
 sources:
-sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers"

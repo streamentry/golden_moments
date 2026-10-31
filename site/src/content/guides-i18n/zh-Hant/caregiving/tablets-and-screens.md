@@ -25,7 +25,6 @@ faq:
   - q: "失智長輩一天看多久螢幕才算合適？"
     a: "沒有固定的數字。短時間、一起使用，再穿插散步、音樂、家事和聊天，比長時間獨自面對螢幕，讓一天更充實。如果裝置讓他感到挫折，或擠掉了其他活動，就少用一點。"
 sources:
-sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
     url: "https://support.apple.com/en-us/111795"

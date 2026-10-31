@@ -27,7 +27,6 @@ faq:
   - q: "什麼時候該請醫師看看？"
     a: "如果一直要回家或意識混亂是突然開始的，或在幾小時、幾天內明顯加重，請盡快聯絡他的醫師，特別是同時發燒、剛換新藥，或有泌尿道感染的徵兆時。突然的意識混亂可能是譫妄，需要緊急處理。有人處於危險時，請撥 119（美國為 911）。"
 sources:
-sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
     url: "https://www.alzheimers.org.uk/blog/i-want-go-home-what-to-say-to-someone-in-dementia-care"

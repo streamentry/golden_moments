@@ -33,10 +33,27 @@ LINK = re.compile(r'\]\(([^)\s]+)[^)]*\)|href="([^"]+)"')
 NUMBER = re.compile(r'\d[\d,.   ]*\d|\d')
 
 
+class UniqueKeyLoader(yaml.SafeLoader):
+    """PyYAML keeps the last of two equal keys; the site's parser rejects them."""
+
+
+def _no_duplicate_keys(loader: UniqueKeyLoader, node: yaml.MappingNode, deep: bool = False) -> dict:
+    seen = set()
+    for key_node, _ in node.value:
+        key = loader.construct_object(key_node, deep=deep)
+        if key in seen:
+            raise yaml.YAMLError(f'duplicate key `{key}`')
+        seen.add(key)
+    return yaml.SafeLoader.construct_mapping(loader, node, deep=deep)
+
+
+UniqueKeyLoader.add_constructor(yaml.resolver.BaseResolver.DEFAULT_MAPPING_TAG, _no_duplicate_keys)
+
+
 def split(path: Path) -> tuple[dict, str]:
     text = path.read_text(encoding='utf-8')
     _, front, body = text.split('---', 2)
-    return yaml.safe_load(front), body
+    return yaml.load(front, Loader=UniqueKeyLoader), body
 
 
 def width(text: str) -> int:

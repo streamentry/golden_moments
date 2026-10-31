@@ -27,7 +27,6 @@ faq:
   - q: "重複發問什麼時候該請醫師看看？"
     a: "如果問題、意識混亂或行為突然改變，或在幾小時、幾天內明顯加重，請盡快聯絡他的醫師。感染、新藥、疼痛、便祕或脫水，都可能造成突然的意識混亂，也就是譫妄，需要盡快處理。"
 sources:
-sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/repetition"

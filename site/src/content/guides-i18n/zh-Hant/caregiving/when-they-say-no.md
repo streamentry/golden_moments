@@ -25,7 +25,6 @@ faq:
   - q: "行為改變什麼時候是緊急情況？"
     a: "如果有人處於危險之中，或出現醫療緊急狀況的徵兆，請撥打 119（美國為 911）。如果是突然的意識混亂，或行為在幾小時、幾天內快速改變，特別是伴隨發燒、感染或新藥，請立刻聯絡他的醫師。"
 sources:
-sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/daily-care/activities"

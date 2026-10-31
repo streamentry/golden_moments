@@ -25,7 +25,6 @@ faq:
   - q: "怎麼和很少說話的後期失智長輩交談？"
     a: "從正面靠近，說出您是誰，用平靜的聲音和輕柔的碰觸。觀察臉上的表情和肢體語言，感受他的心情。您的陪伴、一首熟悉的歌，或握著他的手，不用言語也能傳達很多。"
 sources:
-sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers"

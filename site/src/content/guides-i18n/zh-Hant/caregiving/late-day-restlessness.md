@@ -25,7 +25,6 @@ faq:
   - q: "我該問醫師有沒有藥物可以改善日落症候群嗎？"
     a: "這是要和醫師談的事。美國阿茲海默症協會說，一般會先採用非藥物的方法，而任何改善傍晚躁動的藥物，都應該在衡量風險和好處之後才考慮。這份指南不提供用藥建議。"
 sources:
-sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning"

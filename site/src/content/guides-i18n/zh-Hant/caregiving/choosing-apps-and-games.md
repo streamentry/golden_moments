@@ -27,7 +27,6 @@ faq:
   - q: "我該花錢買失智症 App 嗎？"
     a: "先試免費的選項或免費試用，並觀察長輩幾週的反應。付費不會讓 App 更有效。訂閱之前，先確認怎麼取消。"
 sources:
-sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
     url: "https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program"
