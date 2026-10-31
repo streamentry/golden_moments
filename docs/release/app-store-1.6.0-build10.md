@@ -1,9 +1,11 @@
 # 1.6.0 build 10 release record (iOS and Android): prepared, not shipped
 
 **State (2026-11-01):** the source and the English and translated store copy
-are prepared and checked. **No archive was built, nothing was uploaded and
-nothing was submitted.** The iOS archive stopped at code signing, and uploading,
-submitting and changing signing each need the maintainer's explicit approval.
+are prepared and checked, and the **iOS archive is built and verified locally**.
+**Nothing was uploaded or submitted.** The maintainer approved the temporary
+signing override on 2026-11-01; uploading, submitting and the Android build
+still need their own approval. The web version of this release (website in 20
+languages, PR #103) was deployed on 2026-11-01 at the maintainer's request.
 
 ## Why this release
 
@@ -33,21 +35,33 @@ notes say so. Nothing in the English app changed except the version.
   a launch of any build on a device, screen reader or large text checks in the
   translated languages, and Arabic right-to-left checks on a device.
 
-## What blocked the build
+## iOS artifact
 
-`flutter build ipa --release --build-name=1.6.0 --build-number=10` failed at
-code signing on this machine: Xcode reported no account and no provisioning
-profile for `com.mindfulness.goldenmoments`. The 1.5.0 record used a temporary
-manual signing override that was reverted afterwards. Re-applying it changes
-signing, so it needs approval first. The Android bundle needs the upload key
-from the backup folder, which also needs approval.
+- `flutter build ipa --release --build-name=1.6.0 --build-number=10` first failed
+  at code signing (no account or profile in Xcode). With the maintainer's
+  approval it was rebuilt with the same temporary override as 1.5.0: Runner
+  Release only, manual signing, team `7MBXZKYSY4`, distribution identity and
+  profile `Golden Moments App Store 2026-10-18` (valid to 2027-09-08). The
+  override was applied to `ios/Runner.xcodeproj/project.pbxproj` and reverted
+  with git afterwards; the committed project is unchanged.
+- `codesign --verify --deep --strict`: passed; TeamIdentifier `7MBXZKYSY4`.
+  Bundle `com.mindfulness.goldenmoments`, 1.6.0 (10), minimum iOS 15.
+  `CFBundleLocalizations` lists all 20 languages, and each has its `.lproj`
+  folder with `InfoPlist.strings`.
+- IPA 33,936,577 bytes; SHA-256
+  `8069b645eaa232aef5f48182c4eac21430b4e21b9b41d103284671789d8c742c`. Local copy
+  `output/release/ipa-1.6.0-10/` (not committed).
+- Not run: `altool --validate-app` (it sends the binary to Apple), a launch of
+  the signed build on a device, and the Android bundle (needs the upload key
+  from the backup folder).
 
 ## What the maintainer must decide
 
-1. **Signing.** Approve a temporary signing override for the iOS archive (same
-   approach as 1.5.0), or build on a machine that is already signed in.
-2. **Upload and submit.** Approve uploading build 10 and submitting version
-   1.6.0 with the App Store Connect API, and the matching Android upload.
+1. **Upload and submit.** Approve uploading build 10 and submitting version
+   1.6.0 with the App Store Connect API (team key `P8ZK4BPD78`, as for 1.5.0),
+   and the matching Android build and upload.
+2. **Android.** Approve using the upload key from the backup folder to build
+   the bundle.
 3. **Localized listings.** Approve creating the 19 App Store localizations and
    Google Play listings from `metadata/i18n`. App Store Connect needs "What's
    New" text for every added language (prepared) and decisions about screenshots
