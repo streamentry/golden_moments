@@ -507,5 +507,26 @@
       "q": "¿Hay una versión de este juego en app?",
       "a": "De este juego, no. La app gratuita Golden Moments para iPhone, iPad y Android tiene parejas de imágenes tranquilas con casillas grandes y con las fotos familiares que usted elija, y funciona sin conexión. Este juego sigue siendo gratis aquí, en su navegador."
     }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: imágenes grandes y amables",
+    "noscript": "Este juego necesita que JavaScript esté activado en su navegador. Los consejos de abajo funcionan sin él.",
+    "about": "Acerca de {name}",
+    "aboutAria": "Acerca de este juego",
+    "noTimer": "Sin cronómetro ni puntos",
+    "printable": "Para imprimir",
+    "howTo": "Cómo jugar a {name}",
+    "tips": "Consejos para jugar juntos",
+    "newToPlayingHtml": "¿Es nuevo en esto de jugar con una persona con demencia? Lea <a href=\"/caregiving/how-to-play-together/\">cómo jugar juntos</a>, incluido qué hacer si pierde el interés.",
+    "moreAria": "Más para explorar",
+    "helpfulGuides": "Guías útiles",
+    "appTitle": "Juéguelo en la app",
+    "appText": "La app gratuita Golden Moments tiene parejas de imágenes tranquilas con casillas grandes y sus propias fotos familiares, y funciona sin wifi. iPhone, iPad y Android.",
+    "photoAppTitle": "Tenga sus fotos a mano",
+    "photoAppText": "En la app gratuita Golden Moments, las fotos que usted elige se quedan en su dispositivo para la próxima vez, y los juegos funcionan sin wifi. iPhone, iPad y Android.",
+    "goodToKnow": "Conviene saber",
+    "goodToKnowText": "Este juego es para disfrutar y pasar tiempo juntos. No evalúa, mide ni trata nada.",
+    "moreGames": "Más juegos tranquilos",
+    "crumb": "Juegos"
   }
 }

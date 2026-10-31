@@ -507,5 +507,26 @@
       "q": "Existe-t-il une version application de ce jeu ?",
       "a": "Pas pour ce jeu. L’application gratuite Golden Moments pour iPhone, iPad et Android propose un jeu de paires d’images tout en douceur avec de grandes cartes et les photos de famille que vous choisissez, et elle fonctionne hors ligne. Ce jeu reste gratuit ici, dans votre navigateur."
     }
+  },
+  "gamePage": {
+    "imageAlt": "{name} : de grandes images chaleureuses",
+    "noscript": "Ce jeu a besoin que JavaScript soit activé dans votre navigateur. Les conseils ci-dessous fonctionnent sans lui.",
+    "about": "À propos de {name}",
+    "aboutAria": "À propos de ce jeu",
+    "noTimer": "Ni chrono ni score",
+    "printable": "À imprimer",
+    "howTo": "Comment jouer à {name}",
+    "tips": "Conseils pour jouer ensemble",
+    "newToPlayingHtml": "Vous n’avez pas l’habitude de jouer avec une personne atteinte de démence ? Lisez <a href=\"/caregiving/how-to-play-together/\">comment jouer ensemble</a>, y compris que faire si elle perd intérêt.",
+    "moreAria": "À découvrir aussi",
+    "helpfulGuides": "Guides utiles",
+    "appTitle": "Jouez dans l’application",
+    "appText": "L’application gratuite Golden Moments propose des paires d’images tout en douceur avec de grandes cartes et vos propres photos de famille, et fonctionne sans Wi‑Fi. iPhone, iPad et Android.",
+    "photoAppTitle": "Gardez vos photos sous la main",
+    "photoAppText": "Dans l’application gratuite Golden Moments, les photos que vous choisissez restent sur votre appareil pour la prochaine fois, et les jeux fonctionnent sans Wi‑Fi. iPhone, iPad et Android.",
+    "goodToKnow": "Bon à savoir",
+    "goodToKnowText": "Ce jeu sert à se faire plaisir et à passer du temps ensemble. Il ne teste, ne mesure et ne traite rien.",
+    "moreGames": "D’autres jeux tout en douceur",
+    "crumb": "Jeux"
   }
 }

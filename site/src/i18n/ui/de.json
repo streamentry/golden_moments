@@ -507,5 +507,26 @@
       "q": "Gibt es dieses Spiel auch als App?",
       "a": "Dieses Spiel nicht. Die kostenlose Golden Moments App für iPhone, iPad und Android bietet sanftes Bilderzuordnen mit großen Karten und Familienfotos, die Sie auswählen, und funktioniert offline. Dieses Spiel bleibt hier im Browser kostenlos."
     }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: große, freundliche Bilder",
+    "noscript": "Dieses Spiel braucht JavaScript in Ihrem Browser. Die Tipps unten funktionieren auch ohne.",
+    "about": "Über {name}",
+    "aboutAria": "Über dieses Spiel",
+    "noTimer": "Keine Uhr, keine Punkte",
+    "printable": "Zum Ausdrucken",
+    "howTo": "So spielen Sie {name}",
+    "tips": "Tipps zum gemeinsamen Spielen",
+    "newToPlayingHtml": "Sie spielen zum ersten Mal mit einem Menschen mit Demenz? Lesen Sie, <a href=\"/caregiving/how-to-play-together/\">wie Sie gemeinsam spielen</a>, auch was Sie tun können, wenn das Interesse nachlässt.",
+    "moreAria": "Mehr zum Entdecken",
+    "helpfulGuides": "Hilfreiche Ratgeber",
+    "appTitle": "Spielen Sie in der App",
+    "appText": "Die kostenlose Golden Moments App bietet sanftes Bilderzuordnen mit großen Karten und Ihren eigenen Familienfotos und funktioniert ohne WLAN. iPhone, iPad und Android.",
+    "photoAppTitle": "Halten Sie Ihre Fotos bereit",
+    "photoAppText": "In der kostenlosen Golden Moments App bleiben die Fotos, die Sie auswählen, für das nächste Mal auf Ihrem Gerät, und die Spiele funktionieren ohne WLAN. iPhone, iPad und Android.",
+    "goodToKnow": "Gut zu wissen",
+    "goodToKnowText": "Dieses Spiel ist für Freude und gemeinsame Zeit gedacht. Es prüft, misst und behandelt nichts.",
+    "moreGames": "Mehr sanfte Spiele",
+    "crumb": "Spiele"
   }
 }

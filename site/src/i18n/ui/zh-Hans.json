@@ -507,5 +507,26 @@
       "q": "这个游戏有应用版吗？",
       "a": "这个游戏没有。免费的 Golden Moments 应用支持 iPhone、iPad 和 Android，有大图块的温和图片配对，可以使用您挑选的家庭照片，并且可离线使用。这个游戏在这里的浏览器中一直免费。"
     }
+  },
+  "gamePage": {
+    "imageAlt": "{name}：大而亲切的图片",
+    "noscript": "这个游戏需要在浏览器中开启 JavaScript。下面的提示不需要它也能阅读。",
+    "about": "关于{name}",
+    "aboutAria": "关于这个游戏",
+    "noTimer": "不计时，不打分",
+    "printable": "可打印",
+    "howTo": "{name}怎么玩",
+    "tips": "一起玩的小提示",
+    "newToPlayingHtml": "第一次和认知症长者一起玩？请阅读<a href=\"/caregiving/how-to-play-together/\">如何一起玩游戏</a>，包括对方失去兴趣时该怎么做。",
+    "moreAria": "更多内容",
+    "helpfulGuides": "实用指南",
+    "appTitle": "在应用里玩",
+    "appText": "免费的 Golden Moments 应用有大图块的温和图片配对，可以用您自己的家庭照片玩，不用 Wi‑Fi 也能用。支持 iPhone、iPad 和 Android。",
+    "photoAppTitle": "把照片准备好",
+    "photoAppText": "在免费的 Golden Moments 应用里，您挑选的照片会留在您的设备上，下次可以接着用，游戏也不用 Wi‑Fi。支持 iPhone、iPad 和 Android。",
+    "goodToKnow": "温馨提示",
+    "goodToKnowText": "这个游戏是为了享受乐趣和共度时光，不会测试、衡量或治疗任何东西。",
+    "moreGames": "更多温和游戏",
+    "crumb": "游戏"
   }
 }

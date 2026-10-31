@@ -507,5 +507,26 @@
       "q": "Existe uma versão deste jogo em aplicativo?",
       "a": "Deste jogo, não. O aplicativo gratuito Golden Moments para iPhone, iPad e Android tem jogo da memória tranquilo com cartas grandes e fotos de família que você escolher, e funciona sem internet. Este jogo continua gratuito aqui, no seu navegador."
     }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: figuras grandes e amigáveis",
+    "noscript": "Este jogo precisa que o JavaScript esteja ativado no seu navegador. As dicas abaixo funcionam sem ele.",
+    "about": "Sobre {name}",
+    "aboutAria": "Sobre este jogo",
+    "noTimer": "Sem cronômetro nem pontos",
+    "printable": "Para imprimir",
+    "howTo": "Como jogar {name}",
+    "tips": "Dicas para jogar juntos",
+    "newToPlayingHtml": "Está começando a jogar com alguém que tem demência? Leia <a href=\"/caregiving/how-to-play-together/\">como jogar juntos</a>, inclusive o que fazer se a pessoa perder o interesse.",
+    "moreAria": "Mais para explorar",
+    "helpfulGuides": "Guias úteis",
+    "appTitle": "Jogue no aplicativo",
+    "appText": "O aplicativo gratuito Golden Moments tem jogo de pares tranquilo com cartas grandes e as suas próprias fotos de família, e funciona sem Wi‑Fi. iPhone, iPad e Android.",
+    "photoAppTitle": "Deixe as suas fotos à mão",
+    "photoAppText": "No aplicativo gratuito Golden Moments, as fotos que você escolhe ficam no seu aparelho para a próxima vez, e os jogos funcionam sem Wi‑Fi. iPhone, iPad e Android.",
+    "goodToKnow": "Bom saber",
+    "goodToKnowText": "Este jogo é para se divertir e passar um tempo juntos. Ele não testa, não mede e não trata nada.",
+    "moreGames": "Mais jogos tranquilos",
+    "crumb": "Jogos"
   }
 }
