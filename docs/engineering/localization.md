@@ -4,7 +4,8 @@ The app offers 20 languages. English is the source; every other language falls
 back to English for anything not yet translated. By maintainer decision
 (2026-10-31) the 19 translations are machine-made and ship before native
 review; `docs/specs/release-status.json` records each language as unreviewed
-until a person who reads it has checked it (see `WORKBOARD.md`, GM-036).
+until a person who reads it has checked it (see `WORKBOARD.md`, GM-036, and
+[native review](native-review.md) for the order, checklist and sign-off steps).
 Run `python3 scripts/check_arb.py lib/l10n/arb/app_<locale>.arb` for a quick
 check of keys, placeholders and plural structure, then `flutter gen-l10n`.
 
