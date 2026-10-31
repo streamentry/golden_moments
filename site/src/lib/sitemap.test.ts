@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { renderSitemap, sitemapPath } from './sitemap';
+import { renderSitemap, renderSitemapIndex, sitemapPath } from './sitemap';
 
 const ENTRIES = [
   { path: '/games/', lastmod: '2026-10-31', langs: ['en', 'vi', 'ar'] },
@@ -25,8 +25,17 @@ describe('renderSitemap', () => {
   });
 
   it('places each sitemap under its language prefix', () => {
-    expect(sitemapPath('en')).toBe('/sitemap.xml');
+    expect(sitemapPath('en')).toBe('/sitemap-en.xml');
     expect(sitemapPath('vi')).toBe('/vi/sitemap.xml');
     expect(sitemapPath('zh-Hans')).toBe('/zh-hans/sitemap.xml');
+  });
+
+  it('indexes every language in a sitemap index', () => {
+    const xml = renderSitemapIndex(['en', 'vi', 'zh-Hans'], '2026-11-01');
+    expect(xml).toContain('<sitemapindex');
+    expect(xml).toContain('<loc>https://dementiaactivities.games/sitemap-en.xml</loc>');
+    expect(xml).toContain('<loc>https://dementiaactivities.games/vi/sitemap.xml</loc>');
+    expect(xml).toContain('<loc>https://dementiaactivities.games/zh-hans/sitemap.xml</loc>');
+    expect(xml.match(/<sitemap>/g)).toHaveLength(3);
   });
 });

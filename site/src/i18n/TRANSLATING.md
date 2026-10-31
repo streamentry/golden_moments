@@ -4,8 +4,8 @@ English (`en.json`, `src/content/guides/`) is the source. Every other language
 is a machine translation published as **unreviewed**: each translated page says
 so and links to the English original. A native speaker can review a language
 later. Every published language is indexed: it has its own sitemap
-(`/<prefix>/sitemap.xml`, English at `/sitemap.xml`) with hreflang alternates,
-and appears in `robots.txt` and `llms.txt`. To pull a language back out, remove
+(`/<prefix>/sitemap.xml`, English at `/sitemap-en.xml`) with hreflang alternates,
+listed by the index at `/sitemap.xml`, and appears in `llms.txt`. To pull a language back out, remove
 its code from `INDEXED_LANGUAGES` in `src/i18n/locales.ts`; its pages become
 `noindex` and its sitemap empties.
 

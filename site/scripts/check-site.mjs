@@ -200,22 +200,18 @@ for (const file of htmlFiles) {
 for (const [key, pages] of titles) if (pages.length > 1) err(pages.join(', '), `duplicate title "${key.split('|').slice(1).join('|')}"`);
 for (const [desc, pages] of descriptions) if (pages.length > 1) err(pages.join(', '), `duplicate description`);
 
-const sitemapFiles = files.filter((f) => /sitemap-\d+\.xml$/.test(f));
-const sitemap = sitemapFiles.map((f) => readFileSync(f, 'utf8')).join('\n');
-for (const url of indexable) if (!sitemap.includes(`<loc>${url}</loc>`)) err('sitemap', `missing ${url}`);
-// One sitemap per language: /sitemap.xml for English, /<prefix>/sitemap.xml for the rest.
-const sitemapOf = (prefix) => {
-  const file = join(DIST, prefix ? `${prefix}/sitemap.xml` : 'sitemap.xml');
-  return existsSync(file) ? readFileSync(file, 'utf8') : '';
-};
+// One sitemap per language, all listed by the index at /sitemap.xml:
+// /sitemap-en.xml for English, /<prefix>/sitemap.xml for the rest.
+const sitemapName = (prefix) => (prefix ? `${prefix}/sitemap.xml` : 'sitemap-en.xml');
+const readDist = (name) => (existsSync(join(DIST, name)) ? readFileSync(join(DIST, name), 'utf8') : '');
 const prefixOf = (url) => url.replace(SITE, '').match(/^\/([a-z]{2}(?:-[a-z]{2,4})?)\//)?.[1];
-const langSitemaps = new Map(['', ...LOCALE_PREFIXES].map((prefix) => [prefix, sitemapOf(prefix)]));
 const owner = (url) => {
   const prefix = prefixOf(url);
   return LOCALE_PREFIXES.has(prefix) ? prefix : '';
 };
+const langSitemaps = new Map(['', ...LOCALE_PREFIXES].map((prefix) => [prefix, readDist(sitemapName(prefix))]));
 for (const [prefix, xml] of langSitemaps) {
-  const name = `${prefix ? `${prefix}/` : ''}sitemap.xml`;
+  const name = sitemapName(prefix);
   if (!xml) err(name, 'missing');
   for (const m of xml.matchAll(/<loc>([^<]+)<\/loc>/g)) {
     if (owner(m[1]) !== prefix) err(name, `lists a page from another language: ${m[1]}`);
@@ -224,18 +220,18 @@ for (const [prefix, xml] of langSitemaps) {
 }
 for (const url of indexable) {
   const prefix = owner(url);
-  if (!langSitemaps.get(prefix)?.includes(`<loc>${url}</loc>`)) err(`${prefix ? `${prefix}/` : ''}sitemap.xml`, `missing ${url}`);
+  if (!langSitemaps.get(prefix)?.includes(`<loc>${url}</loc>`)) err(sitemapName(prefix), `missing ${url}`);
 }
 for (const url of noindexed) {
-  if ([...langSitemaps.values()].some((xml) => xml.includes(`<loc>${url}</loc>`))) err('sitemap.xml', `lists a noindex page: ${url}`);
-  if (sitemap.includes(`<loc>${url}</loc>`)) err('sitemap-0.xml', `lists a noindex page: ${url}`);
+  if ([...langSitemaps.values()].some((xml) => xml.includes(`<loc>${url}</loc>`))) err('sitemap', `lists a noindex page: ${url}`);
 }
-const robots = existsSync(join(DIST, 'robots.txt')) ? readFileSync(join(DIST, 'robots.txt'), 'utf8') : '';
-for (const [prefix, xml] of langSitemaps) {
-  if (xml && !robots.includes(`Sitemap: ${SITE}/${prefix ? `${prefix}/` : ''}sitemap.xml`)) err('robots.txt', `does not list the ${prefix || 'en'} sitemap`);
+const sitemapIndex = readDist('sitemap.xml');
+for (const prefix of langSitemaps.keys()) {
+  if (!sitemapIndex.includes(`<loc>${SITE}/${sitemapName(prefix)}</loc>`)) err('sitemap.xml', `index does not list ${sitemapName(prefix)}`);
 }
+if (!readDist('robots.txt').includes(`Sitemap: ${SITE}/sitemap.xml`)) err('robots.txt', 'does not list /sitemap.xml');
 
-for (const required of ['sitemap.xml', 'vi/sitemap.xml', 'robots.txt', 'llms.txt', 'llms-full.txt', 'manifest.webmanifest', '_headers', 'favicon.svg', 'favicon.ico']) {
+for (const required of ['sitemap.xml', 'sitemap-en.xml', 'vi/sitemap.xml', 'robots.txt', 'llms.txt', 'llms-full.txt', 'manifest.webmanifest', '_headers', 'favicon.svg', 'favicon.ico']) {
   if (!existsSync(join(DIST, required))) err('dist', `missing ${required}`);
 }
 

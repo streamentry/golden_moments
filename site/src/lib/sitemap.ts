@@ -1,4 +1,4 @@
-import { isIndexable, localeInfo, localePath } from '../i18n/locales';
+import { DEFAULT_LOCALE, isIndexable, localeInfo, localePath } from '../i18n/locales';
 import { absoluteUrl } from './site';
 
 /** One page, in every language it exists in. */
@@ -10,9 +10,22 @@ export interface SitemapEntry {
   langs: readonly string[];
 }
 
-/** `/sitemap.xml` for English, `/<prefix>/sitemap.xml` for every other language. */
+/** `/sitemap-en.xml` for English, `/<prefix>/sitemap.xml` for every other language. */
 export function sitemapPath(lang: string): string {
-  return localePath(lang, '/sitemap.xml');
+  return lang === DEFAULT_LOCALE ? '/sitemap-en.xml' : localePath(lang, '/sitemap.xml');
+}
+
+/** The sitemap index at `/sitemap.xml`, pointing to one sitemap per indexed language. */
+export function renderSitemapIndex(langs: readonly string[], lastmod: string): string {
+  return [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ...langs
+      .filter(isIndexable)
+      .flatMap((code) => ['  <sitemap>', `    <loc>${escapeXml(absoluteUrl(sitemapPath(code)))}</loc>`, `    <lastmod>${lastmod}</lastmod>`, '  </sitemap>']),
+    '</sitemapindex>',
+    '',
+  ].join('\n');
 }
 
 function escapeXml(value: string): string {

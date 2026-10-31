@@ -1,10 +1,10 @@
 import type { APIRoute } from 'astro';
-import { DEFAULT_LOCALE } from '../i18n/locales';
-import { renderSitemap } from '../lib/sitemap';
-import { sitemapEntries } from '../lib/sitemap-entries';
+import { PUBLISHED } from '../i18n/ui';
+import { SITE } from '../lib/site';
+import { renderSitemapIndex } from '../lib/sitemap';
 
-/** /sitemap.xml: the English pages. Each other language has /<prefix>/sitemap.xml. */
-export const GET: APIRoute = async () =>
-  new Response(renderSitemap(await sitemapEntries(), DEFAULT_LOCALE), {
+/** /sitemap.xml: the index of every language's sitemap (/sitemap-en.xml, /vi/sitemap.xml, ...). */
+export const GET: APIRoute = () =>
+  new Response(renderSitemapIndex(PUBLISHED.map((l) => l.code), SITE.updated), {
     headers: { 'Content-Type': 'application/xml; charset=utf-8' },
   });
