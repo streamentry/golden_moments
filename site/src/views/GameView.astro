@@ -9,10 +9,10 @@ import { appFaqFor } from '../lib/app';
 import type { GameInfo } from '../data/games';
 import { breadcrumbs, faqPage, game as gameSchema } from '../lib/schema';
 import { localePath, localizeHtml } from '../i18n/locales';
-import { localStageHint, localizeGame, localizedGames } from '../i18n/games';
+import { gameLanguages, localStageHint, localizeGame, localizedGames } from '../i18n/games';
 import { findGuide } from '../i18n/guides';
 import { playProps } from '../i18n/play';
-import { PUBLISHED, fill, ui } from '../i18n/ui';
+import { fill, ui } from '../i18n/ui';
 import '../styles/games.css';
 import PicturePairs from '../games/PicturePairs';
 import FindTheSame from '../games/FindTheSame';
@@ -68,7 +68,7 @@ const s = game.slug;
 const play = playProps(lang, s);
 const photo = s === 'photo-pairs';
 ---
-<BaseLayout title={game.seoTitle} description={game.description} image={ogImage} imageAlt={fill(p.imageAlt, { name: game.name })} jsonLd={jsonLd} analytics={!photo} available={PUBLISHED.map((x) => x.code)}>
+<BaseLayout title={game.seoTitle} description={game.description} image={ogImage} imageAlt={fill(p.imageAlt, { name: game.name })} jsonLd={jsonLd} analytics={!photo} available={gameLanguages(game.slug)}>
   <Breadcrumbs items={crumbs} lang={lang} />
   <div class="container">
     <header class="page-head page-head--game">

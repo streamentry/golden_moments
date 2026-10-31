@@ -1,0 +1,484 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Jogo",
+      "restart": "Começar de novo",
+      "soundOn": "Sons suaves ligados",
+      "soundOff": "Sons suaves desligados",
+      "done": "Por enquanto é só"
+    },
+    "tile": {
+      "named": "{name}, carta {n}",
+      "hidden": "Figura escondida, carta {n}",
+      "withState": "{label}, {state}",
+      "matched": "Par formado",
+      "selected": "Escolhida",
+      "picture": "Figura",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Todos os pares estão juntos. Jogue de novo ou faça uma pausa.",
+      "photoPair": "Duas fotos iguais, juntas.",
+      "picturePair": "Duas figuras de {name|lower}, juntas.",
+      "selected": "{name}. Agora encontre o par.",
+      "mismatch": "Sem pressa. Toque em uma figura para continuar.",
+      "mismatchNamed": "{a} e {b}. Sem pressa. Toque em uma figura para continuar."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Toque em uma figura e depois na figura igual a ela.",
+      "guidanceHidden": "Toque em duas cartas para virá-las. Procure duas iguais.",
+      "restart": "Novas figuras",
+      "sizeLegend": "Quantas cartas",
+      "size": {"one": "{n} carta", "many": "{n} cartas", "other": "{n} cartas"},
+      "viewLegend": "Como jogar",
+      "viewShowing": "Figuras à vista",
+      "viewHidden": "Figuras escondidas",
+      "playAgain": "Jogar de novo com novas figuras",
+      "talk": "Conversar sobre as figuras"
+    },
+    "choose": {
+      "countLegend": "Quantas figuras",
+      "count": "{n} para escolher",
+      "thatOne": "Essa é a figura de {name|lower}. Sem pressa."
+    },
+    "findTheSame": {
+      "guidance": "Olhe a figura de cima. Toque na figura igual, embaixo.",
+      "yes": "Sim, a mesma figura: {name|lower}.",
+      "next": "Próxima figura"
+    },
+    "shadowMatch": {
+      "guidance": "Olhe a sombra de cima. Toque na figura que forma essa sombra.",
+      "yes": "Sim, essa sombra é da figura de {name|lower}.",
+      "next": "Próxima sombra",
+      "shadowAlt": "Uma sombra para combinar",
+      "foundAlt": "Sombra de {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Toque em uma figura e depois no cesto onde ela vai.",
+      "restart": "Novas figuras",
+      "themeLegend": "Tema",
+      "selected": "{name}. Agora toque no cesto onde ela vai.",
+      "pickFirst": "Primeiro toque em uma figura, depois em um cesto.",
+      "hint": "A figura de {name|lower} pode ir no cesto “{basket}”. Toque nesse cesto para colocá-la lá.",
+      "placed": "A figura de {name|lower} está no cesto “{basket}”.",
+      "sorted": "Tudo está separado. Olhem os cestos juntos ou escolham outro tema.",
+      "basket": {"one": "Cesto “{basket}”, com {count} figura", "many": "Cesto “{basket}”, com {count} figuras", "other": "Cesto “{basket}”, com {count} figuras"}
+    },
+    "picturePuzzle": {
+      "guidance": "Toque em uma peça e depois em outra. Elas trocam de lugar.",
+      "restart": "Embaralhar de novo",
+      "pictureLegend": "Figura",
+      "pictures": {
+        "sailboat": "Veleiro",
+        "house": "Casa",
+        "balloon": "Balão",
+        "sunflower": "Girassol",
+        "lighthouse": "Farol",
+        "cat": "Gato"
+      },
+      "sizeLegend": "Peças",
+      "size": {"one": "{n} peça", "many": "{n} peças", "other": "{n} peças"},
+      "pickedUp": "Peça escolhida. Agora toque no lugar onde ela deve ficar.",
+      "whole": "A figura de {name|lower} está inteira de novo. Escolha outra figura quando quiser.",
+      "swapped": {
+        "one": "Peças trocadas. {correct} de {total} peça no lugar.",
+        "many": "Peças trocadas. {correct} de {total} peças no lugar.",
+        "other": "Peças trocadas. {correct} de {total} peças no lugar."
+      },
+      "guideAlt": "A figura inteira: {name}",
+      "guideText": "Assim fica a figura quando está inteira.",
+      "piece": "Peça {place}",
+      "pieceInPlace": ", no lugar certo",
+      "piecePickedUp": ", escolhida",
+      "places4": ["em cima, à esquerda", "em cima, à direita", "embaixo, à esquerda", "embaixo, à direita"],
+      "places9": [
+        "em cima, à esquerda",
+        "em cima, no meio",
+        "em cima, à direita",
+        "no meio, à esquerda",
+        "no centro",
+        "no meio, à direita",
+        "embaixo, à esquerda",
+        "embaixo, no meio",
+        "embaixo, à direita"
+      ],
+      "done": "A figura está inteira de novo. Jogue de novo ou faça uma pausa.",
+      "playAgain": "Embaralhar outra vez"
+    },
+    "finishTheSaying": {
+      "guidance": "Leiam o ditado juntos. Depois, toque na palavra que completa o ditado.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Sim: “{start} {end}.”",
+      "otherEnding": "“{word}” também combina. O ditado costuma terminar com “{end}”.",
+      "revealed": "O ditado é: “{start} {end}.”",
+      "choicesLabel": "Escolha a última palavra",
+      "show": "Mostrar o final",
+      "talk": "Para conversar: ",
+      "next": "Próximo ditado"
+    },
+    "wordSearch": {
+      "guidance": "As palavras estão na horizontal ou na vertical. Toque na primeira letra de uma palavra e depois na última.",
+      "restart": "Novo caça-palavras",
+      "themeLegend": "Tema",
+      "sizeLegend": "Tamanho da grade",
+      "size": {"one": "{n} por {n} ({words} palavra)", "many": "{n} por {n} ({words} palavras)", "other": "{n} por {n} ({words} palavras)"},
+      "print": "Imprimir este caça-palavras",
+      "letterChosen": "Letra {letter} escolhida. Agora toque na última letra da palavra.",
+      "found": "{word}: encontrada.",
+      "foundAll": "{word}: encontrada. Essas são todas as palavras. Jogue de novo ou faça uma pausa.",
+      "tryAgain": "Sem pressa. Toque na primeira letra de uma palavra e depois na última.",
+      "gridLabel": "Grade de letras, {n} linhas de {n} letras. Use as setas do teclado para passar de uma letra para outra.",
+      "cell": "{letter}, linha {row}, coluna {col}",
+      "cellFound": ", parte de uma palavra encontrada",
+      "wordsHeading": "Palavras para encontrar",
+      "wordFound": " (encontrada)",
+      "sheetTitle": "Caça-palavras: {theme}",
+      "sheetNote": "As palavras estão na horizontal ou na vertical.",
+      "unavailable": "Uma grade de letras não combina com este idioma, por isso o caça-palavras não aparece aqui. Experimente os jogos de figuras."
+    },
+    "coloring": {
+      "guidance": "Toque em uma cor e depois em uma parte do desenho.",
+      "restart": "Apagar as cores",
+      "cleared": "O desenho está em branco de novo.",
+      "pageLegend": "Desenho",
+      "print": "Imprimir esta página",
+      "colorsLabel": "Cores",
+      "paintChosen": "Cor escolhida: {paint}.",
+      "painted": "{part}: agora em {paint|lower}.",
+      "artLabel": "{page}, {count} partes para colorir",
+      "partPainted": "{part}, em {paint|lower}",
+      "partBlank": "{part}, sem cor",
+      "paints": {
+        "red": "Vermelho",
+        "orange": "Laranja",
+        "yellow": "Amarelo",
+        "green": "Verde",
+        "blue": "Azul",
+        "purple": "Roxo",
+        "pink": "Rosa",
+        "brown": "Marrom",
+        "sky-blue": "Azul-claro",
+        "cream": "Creme",
+        "gray": "Cinza",
+        "white": "Branco"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Leia a carta em voz alta. Não há resposta certa.",
+      "position": "Carta {n} de {total}",
+      "themeLegend": "Tema",
+      "next": "Próxima carta",
+      "previous": "Carta anterior",
+      "print": "Imprimir todas as cartas",
+      "sheetTitle": "Cartas de conversa"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Comece escolhendo as suas fotos.",
+      "guidance": "Toque em uma foto e depois no par dela.",
+      "restart": "Embaralhar de novo",
+      "intro": "**Escolha de 2 a 6 fotos** deste aparelho. Elas aparecem só nesta página e nunca são enviadas nem salvas.",
+      "choose": "Escolher fotos",
+      "chooseDifferent": "Escolher outras fotos",
+      "clear": "Limpar fotos",
+      "cleared": "As fotos foram retiradas desta página.",
+      "atLeastTwo": "Escolha pelo menos duas fotos, por favor.",
+      "usingFirst": "Usando as primeiras {max} fotos.",
+      "skipped": {
+        "one": "{count} arquivo não é uma foto que podemos mostrar.",
+        "many": "{count} arquivos não são fotos que podemos mostrar.",
+        "other": "{count} arquivos não são fotos que podemos mostrar."
+      },
+      "playAgain": "Jogar de novo com estas fotos",
+      "empty": "Suas fotos vão aparecer aqui, cada uma duas vezes."
+    },
+    "pictureBingo": {
+      "guidance": "Imprima as cartelas primeiro. Depois mostre este sorteador na maior tela que você tiver.",
+      "called": {
+        "one": "{name}. Figuras sorteadas: {called} de {total}.",
+        "many": "{name}. Figuras sorteadas: {called} de {total}.",
+        "other": "{name}. Figuras sorteadas: {called} de {total}."
+      },
+      "start": "Toque em “Próxima figura” para sortear a primeira figura.",
+      "restart": "Começar um novo jogo",
+      "squaresLegend": "Casas em cada cartela",
+      "squares": "{n} casas ({side} por {side})",
+      "cardsLegend": "Quantas cartelas imprimir",
+      "cards": {"one": "{n} cartela", "many": "{n} cartelas", "other": "{n} cartelas"},
+      "print": {"one": "Imprimir cartela ({n})", "many": "Imprimir cartelas ({n})", "other": "Imprimir cartelas ({n})"},
+      "ready": "Quando quiser, é só começar",
+      "next": "Próxima figura",
+      "allCalled": "Todas as figuras já foram sorteadas",
+      "alreadyCalled": "Já sorteada",
+      "sheetTitle": "Bingo de figuras · cartela {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Inspire enquanto o círculo cresce e expire enquanto ele diminui. Ele para sozinho depois de seis respirações.",
+      "paceLegend": "Ritmo",
+      "paceSlow": "Lento (5 segundos para inspirar e 5 para expirar)",
+      "paceGentle": "Suave (4 segundos para inspirar e 4 para expirar)",
+      "ready": "Quando quiser, é só começar",
+      "in": "Inspire",
+      "hold": "Pausa",
+      "out": "Expire",
+      "start": "Começar",
+      "stop": "Parar",
+      "started": "Começou. Inspire enquanto o círculo cresce.",
+      "stopped": "Parou.",
+      "finished": "Foram seis respirações lentas. Comece de novo quando quiser."
+    }
+  },
+  "pictures": {
+    "teacup": "Xícara",
+    "kettle": "Chaleira",
+    "bread": "Pão",
+    "frying-pan": "Frigideira com ovo",
+    "cake": "Bolo de aniversário",
+    "sunflower": "Girassol",
+    "tulip": "Tulipa vermelha",
+    "watering-can": "Regador",
+    "potted-plant": "Planta no vaso",
+    "tree": "Árvore",
+    "bird": "Passarinho no galho",
+    "butterfly": "Borboleta",
+    "dog": "Cachorro",
+    "cat": "Gato",
+    "fish": "Peixinho dourado",
+    "apple": "Maçã vermelha",
+    "pear": "Pera",
+    "strawberry": "Morango",
+    "banana": "Banana",
+    "lemon": "Limão",
+    "cherries": "Cerejas",
+    "house": "Casa",
+    "lamp": "Abajur",
+    "armchair": "Poltrona",
+    "key": "Chave antiga",
+    "umbrella": "Guarda-chuva",
+    "sailboat": "Veleiro",
+    "car": "Carro antigo",
+    "bicycle": "Bicicleta",
+    "balloon": "Balão de ar quente",
+    "lighthouse": "Farol",
+    "sun": "Sol",
+    "moon": "Lua e estrelas"
+  },
+  "content": {
+    "sayings": [
+      {"start": "Quem espera sempre", "end": "alcança", "others": ["descansa", "sorri"], "prompt": "O que vale a pena esperar, na sua opinião?"},
+      {"start": "Água mole em pedra dura, tanto bate até que", "end": "fura", "others": ["brilha", "cansa"], "prompt": "Qual é uma coisa que você fez com muita paciência?"},
+      {"start": "Deus ajuda quem cedo", "end": "madruga", "others": ["almoça", "trabalha"], "prompt": "Você gosta mais da manhã ou da noite?"},
+      {"start": "Mais vale um pássaro na mão do que dois", "end": "voando", "others": ["cantando", "no ninho"], "prompt": "Você gosta de ouvir passarinho cantar de manhã?"},
+      {"start": "De grão em grão, a galinha enche o", "end": "papo", "others": ["ninho", "quintal"], "prompt": "Você já viu um galinheiro ou um sítio de perto?"},
+      {"start": "Quem não tem cão caça com", "end": "gato", "others": ["rede", "vara"], "prompt": "Me conta sobre um bicho de estimação de que você gosta."},
+      {"start": "Em casa de ferreiro, o espeto é de", "end": "pau", "others": ["ferro", "prata"], "prompt": "Que profissão você acha bonita?"},
+      {"start": "Cão que ladra não", "end": "morde", "others": ["dorme", "corre"], "prompt": "Você prefere cachorro grande ou pequeno?"},
+      {"start": "Antes tarde do que", "end": "nunca", "others": ["cedo", "depressa"], "prompt": "O que você começou a fazer mais tarde na vida e gostou?"},
+      {"start": "A pressa é inimiga da", "end": "perfeição", "others": ["alegria", "calma"], "prompt": "O que você gosta de fazer bem devagar?"},
+      {"start": "Tal pai, tal", "end": "filho", "others": ["casa", "jeito"], "prompt": "Com quem da sua família você se parece mais?"},
+      {"start": "Quem ri por último ri", "end": "melhor", "others": ["sozinho", "mais alto"], "prompt": "Quem sempre faz você rir?"},
+      {"start": "A união faz a", "end": "força", "others": ["festa", "alegria"], "prompt": "O que a sua família gosta de fazer junta?"},
+      {"start": "Cada macaco no seu", "end": "galho", "others": ["canto", "quintal"], "prompt": "Qual é o seu cantinho preferido da casa?"},
+      {"start": "Gato escaldado tem medo de água", "end": "fria", "others": ["quente", "do mar"], "prompt": "Você prefere gato ou cachorro? Do que você gosta neles?"},
+      {"start": "Quem vê cara não vê", "end": "coração", "others": ["sorriso", "caminho"], "prompt": "O que você mais admira numa pessoa?"},
+      {"start": "Em boca fechada não entra", "end": "mosca", "others": ["vento", "chuva"], "prompt": "Você gosta mais de conversar ou de escutar?"},
+      {"start": "Quem tem boca vai a", "end": "Roma", "others": ["Paris", "pé"], "prompt": "Que lugar você gostaria de conhecer, ou gostou de conhecer?"},
+      {"start": "Devagar se vai", "end": "ao longe", "others": ["à feira", "pra casa"], "prompt": "Você gosta de passear a pé, sem pressa?"},
+      {"start": "Onde há fumaça, há", "end": "fogo", "others": ["comida", "festa"], "prompt": "Qual é um cheirinho de cozinha de que você gosta?"},
+      {"start": "Nem tudo que reluz é", "end": "ouro", "others": ["prata", "sol"], "prompt": "O que é uma coisa simples que vale muito para você?"},
+      {"start": "Quem canta seus males", "end": "espanta", "others": ["encanta", "acalma"], "prompt": "Que música você gosta de cantar?"},
+      {"start": "Uma andorinha só não faz", "end": "verão", "others": ["ninho", "festa"], "prompt": "Do que você mais gosta no verão?"},
+      {"start": "Depois da tempestade vem a", "end": "bonança", "others": ["brisa", "lua"], "prompt": "O que deixa você alegre num dia cinzento?"},
+      {"start": "Quem planta", "end": "colhe", "others": ["rega", "espera"], "prompt": "Você gosta de plantar? O que plantaria num jardim?"},
+      {"start": "A cavalo dado não se olham os", "end": "dentes", "others": ["cascos", "pelos"], "prompt": "Qual é um presente que deixou você feliz?"},
+      {"start": "Saco vazio não para em", "end": "pé", "others": ["casa", "fila"], "prompt": "Qual é a sua comida preferida?"},
+      {"start": "Quem não arrisca não", "end": "petisca", "others": ["passeia", "descansa"], "prompt": "Qual é o seu petisco preferido?"},
+      {"start": "O que os olhos não veem, o coração não", "end": "sente", "others": ["canta", "guarda"], "prompt": "O que você acha mais bonito de olhar?"},
+      {"start": "Há males que vêm para", "end": "bem", "others": ["ficar", "ensinar"], "prompt": "Me conta de uma surpresa boa que já aconteceu com você."},
+      {"start": "Quem casa quer", "end": "casa", "others": ["festa", "jardim"], "prompt": "Como seria a casa dos seus sonhos?"},
+      {"start": "Amigos, amigos, negócios à", "end": "parte", "others": ["mesa", "tarde"], "prompt": "O que faz uma amizade durar?"},
+      {"start": "Para bom entendedor, meia palavra", "end": "basta", "others": ["chega", "serve"], "prompt": "Com quem você se entende só pelo olhar?"},
+      {"start": "Quem conta um conto aumenta um", "end": "ponto", "others": ["pouco", "verso"], "prompt": "Você gosta mais de ouvir histórias ou de contar?"},
+      {"start": "É de pequenino que se torce o", "end": "pepino", "others": ["galho", "pé"], "prompt": "Que brincadeira de criança você acha mais divertida?"},
+      {"start": "O hábito não faz o", "end": "monge", "others": ["dono", "homem"], "prompt": "Com que roupa você se sente mais à vontade?"},
+      {"start": "Águas passadas não movem", "end": "moinho", "others": ["barco", "roda"], "prompt": "Você gosta de ficar perto de um rio, de um lago ou do mar?"},
+      {"start": "Uma mão lava a", "end": "outra", "others": ["louça", "roupa"], "prompt": "Que tarefa da casa você gosta de fazer junto com alguém?"},
+      {"start": "Quem ama o feio, bonito lhe", "end": "parece", "others": ["sorri", "canta"], "prompt": "Qual é o lugar mais bonito que você já viu?"},
+      {"start": "Santo de casa não faz", "end": "milagre", "others": ["festa", "barulho"], "prompt": "Você gosta de festa junina? O que não pode faltar nela?"},
+      {"start": "Cada um sabe onde o sapato", "end": "aperta", "others": ["brilha", "cabe"], "prompt": "Qual é o calçado mais confortável que você já teve?"},
+      {"start": "Ninguém é de", "end": "ferro", "others": ["pedra", "vidro"], "prompt": "Qual é o seu jeito preferido de descansar?"},
+      {"start": "Cada cabeça, uma", "end": "sentença", "others": ["ideia", "canção"], "prompt": "Sobre o que você gosta de conversar?"},
+      {"start": "Quem é vivo sempre", "end": "aparece", "others": ["volta", "chega"], "prompt": "Quem você adora receber em casa?"},
+      {"start": "Nada como um dia após o", "end": "outro", "others": ["domingo", "almoço"], "prompt": "Como é um dia gostoso para você?"},
+      {"start": "Gosto não se", "end": "discute", "others": ["compra", "conta"], "prompt": "Qual é a sua cor preferida?"},
+      {"start": "Em time que está ganhando não se", "end": "mexe", "others": ["grita", "corre"], "prompt": "Você gosta de futebol? Para que time você torce?"},
+      {"start": "Quem procura", "end": "acha", "others": ["espera", "pergunta"], "prompt": "Onde você gosta de guardar as coisas especiais?"},
+      {"start": "Os últimos serão os", "end": "primeiros", "others": ["melhores", "felizes"], "prompt": "Você gosta de chegar cedo ou prefere chegar com calma?"},
+      {"start": "Quem não chora não", "end": "mama", "others": ["come", "ganha"], "prompt": "Qual é um prato de que você nunca enjoa?"},
+      {"start": "Cochilou, o cachimbo", "end": "cai", "others": ["apaga", "esfria"], "prompt": "Você gosta de tirar um cochilo depois do almoço?"},
+      {"start": "Dois bicudos não se", "end": "beijam", "others": ["falam", "olham"], "prompt": "Você gosta mais de gente calma ou de gente animada?"}
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGILMNOPRSTUV",
+      "themes": [
+        {"value": "fruit", "label": "Frutas", "words": ["UVA", "PERA", "MANGA", "CAJU", "GOIABA", "BANANA", "CAQUI", "COCO", "FIGO"]},
+        {"value": "garden", "label": "Jardim", "words": ["ROSA", "FLOR", "TERRA", "FOLHA", "GRAMA", "CRAVO", "HORTA", "VASO", "BROTO"]},
+        {"value": "kitchen", "label": "Cozinha", "words": ["COPO", "PRATO", "PANELA", "GARFO", "FACA", "FORNO", "BULE", "CANECA", "TIGELA"]},
+        {"value": "weather", "label": "Clima", "words": ["SOL", "CHUVA", "VENTO", "NUVEM", "FRIO", "CALOR", "GAROA", "BRISA", "GEADA"]},
+        {"value": "animals", "label": "Animais", "words": ["GATO", "PATO", "VACA", "CAVALO", "GALO", "PEIXE", "CABRA", "PORCO", "BOI"]},
+        {"value": "home", "label": "Casa", "words": ["PORTA", "CAMA", "MESA", "TAPETE", "CHAVE", "JANELA", "ABAJUR", "BANCO", "TOALHA"]}
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Todas as cartas",
+        "food": "Comida",
+        "home": "Casa",
+        "outdoors": "Ao ar livre",
+        "animals": "Animais",
+        "travel": "Passeios",
+        "work": "Trabalho e passatempos",
+        "music": "Música e diversão",
+        "seasons": "Estações do ano"
+      },
+      "cards": [
+        {"theme": "food", "picture": "bread", "prompt": "Qual é o cheiro de cozinha de que você mais gosta?"},
+        {"theme": "food", "picture": "cake", "prompt": "Que bolo você escolheria para uma comemoração?"},
+        {"theme": "food", "picture": "apple", "prompt": "Me conta sobre uma sobremesa de que você gosta, como pudim ou doce de leite."},
+        {"theme": "food", "picture": "teacup", "prompt": "Como você gosta do seu café: puro, com leite, mais doce?"},
+        {"theme": "food", "picture": "frying-pan", "prompt": "O que não pode faltar num bom café da manhã?"},
+        {"theme": "food", "picture": "strawberry", "prompt": "Você já colheu fruta direto do pé?"},
+        {"theme": "food", "picture": "lemon", "prompt": "Doce ou azedinho: do que você gosta mais?"},
+        {"theme": "food", "picture": "cherries", "prompt": "Que fruta combina com um dia de calor, para você?"},
+        {"theme": "home", "picture": "house", "prompt": "Me conta sobre uma casa onde você gostou de morar."},
+        {"theme": "home", "picture": "armchair", "prompt": "Qual é o seu lugar preferido para sentar e descansar?"},
+        {"theme": "home", "picture": "lamp", "prompt": "O que você gosta de fazer numa noite tranquila?"},
+        {"theme": "home", "picture": "key", "prompt": "Que tesouro você guardaria numa caixinha especial?"},
+        {"theme": "home", "picture": "kettle", "prompt": "Quem você convidaria para um cafezinho?"},
+        {"theme": "home", "picture": "umbrella", "prompt": "O que você gosta de fazer num dia de chuva?"},
+        {"theme": "outdoors", "picture": "sunflower", "prompt": "Que flores você plantaria num jardim?"},
+        {"theme": "outdoors", "picture": "tree", "prompt": "Me conta sobre uma árvore, uma praça ou um parque de que você gosta."},
+        {"theme": "outdoors", "picture": "watering-can", "prompt": "Qual é a melhor parte de cuidar de plantas?"},
+        {"theme": "outdoors", "picture": "tulip", "prompt": "De que cor de flor você mais gosta?"},
+        {"theme": "outdoors", "picture": "potted-plant", "prompt": "Você gosta de ter plantas dentro de casa?"},
+        {"theme": "outdoors", "picture": "sun", "prompt": "Como seria um dia de sol perfeito para você?"},
+        {"theme": "animals", "picture": "dog", "prompt": "Me conta sobre um cachorro que você conheceu."},
+        {"theme": "animals", "picture": "cat", "prompt": "Gato, cachorro ou nenhum dos dois? Do que você gosta neles?"},
+        {"theme": "animals", "picture": "bird", "prompt": "Que passarinhos você vê ou escuta lá fora?"},
+        {"theme": "animals", "picture": "fish", "prompt": "Você já foi pescar, ou já teve um aquário?"},
+        {"theme": "animals", "picture": "butterfly", "prompt": "Qual é o bicho mais bonito que você já viu?"},
+        {"theme": "travel", "picture": "car", "prompt": "Me conta sobre um carro de que você gostava."},
+        {"theme": "travel", "picture": "sailboat", "prompt": "Você prefere passar o dia na praia ou na serra?"},
+        {"theme": "travel", "picture": "bicycle", "prompt": "Aonde você gostaria de ir de bicicleta?"},
+        {"theme": "travel", "picture": "balloon", "prompt": "Se pudesse voar por cima de qualquer lugar, qual seria?"},
+        {"theme": "travel", "picture": "lighthouse", "prompt": "Me conta sobre uma viagem que você gostou de fazer."},
+        {"theme": "work", "picture": "key", "prompt": "Que tipo de trabalho você gostou de fazer?"},
+        {"theme": "work", "picture": "watering-can", "prompt": "Que passatempo faz você perder a noção da hora?"},
+        {"theme": "work", "picture": "bread", "prompt": "O que você gosta de fazer ou consertar com as próprias mãos?"},
+        {"theme": "work", "picture": "house", "prompt": "Que conselho você daria para alguém que está começando a trabalhar?"},
+        {"theme": "music", "picture": "balloon", "prompt": "Que música dá vontade de dançar? Samba, forró, uma valsa?"},
+        {"theme": "music", "picture": "cake", "prompt": "O que faz uma festa ser boa de verdade?"},
+        {"theme": "music", "picture": "lamp", "prompt": "Que cantor ou cantora você gosta de ouvir?"},
+        {"theme": "music", "picture": "armchair", "prompt": "Qual é um filme ou uma novela que você veria de novo?"},
+        {"theme": "seasons", "picture": "sun", "prompt": "Do que você mais gosta no verão?"},
+        {"theme": "seasons", "picture": "tree", "prompt": "Que época do ano você acha mais bonita?"},
+        {"theme": "seasons", "picture": "moon", "prompt": "O que é gostoso de fazer numa noite fria de inverno?"},
+        {"theme": "seasons", "picture": "tulip", "prompt": "Do que você mais gosta na primavera, quando as flores aparecem?"},
+        {"theme": "seasons", "picture": "umbrella", "prompt": "Calor, chuva ou friozinho: qual você prefere?"}
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flor no vaso",
+          "regions": {
+            "sky": "Fundo",
+            "table": "Mesa",
+            "stem": "Caule",
+            "leaf-left": "Folha da esquerda",
+            "leaf-right": "Folha da direita",
+            "petal-1": "Pétala 1",
+            "petal-2": "Pétala 2",
+            "petal-3": "Pétala 3",
+            "petal-4": "Pétala 4",
+            "petal-5": "Pétala 5",
+            "petal-6": "Pétala 6",
+            "petal-7": "Pétala 7",
+            "petal-8": "Pétala 8",
+            "center": "Miolo da flor",
+            "pot": "Vaso",
+            "pot-rim": "Borda do vaso"
+          }
+        },
+        "house": {
+          "name": "Casa",
+          "regions": {
+            "sky": "Céu",
+            "sun": "Sol",
+            "grass": "Grama",
+            "chimney": "Chaminé",
+            "walls": "Paredes",
+            "roof": "Telhado",
+            "door": "Porta",
+            "window-left": "Janela da esquerda",
+            "window-right": "Janela da direita",
+            "path": "Caminho"
+          }
+        },
+        "teacup": {
+          "name": "Xícara",
+          "regions": {
+            "background": "Fundo",
+            "saucer": "Pires",
+            "handle": "Asa da xícara",
+            "cup": "Xícara",
+            "band": "Faixa na xícara",
+            "tea": "Chá"
+          }
+        },
+        "butterfly": {
+          "name": "Borboleta",
+          "regions": {
+            "background": "Fundo",
+            "wing-top-left": "Asa de cima, à esquerda",
+            "wing-top-right": "Asa de cima, à direita",
+            "wing-bottom-left": "Asa de baixo, à esquerda",
+            "wing-bottom-right": "Asa de baixo, à direita",
+            "spot-left": "Mancha da asa esquerda",
+            "spot-right": "Mancha da asa direita",
+            "body": "Corpo"
+          }
+        },
+        "sailboat": {
+          "name": "Veleiro",
+          "regions": {
+            "sky": "Céu",
+            "sea": "Mar",
+            "sail-big": "Vela grande",
+            "sail-small": "Vela pequena",
+            "mast": "Mastro",
+            "hull": "Barco",
+            "flag": "Bandeira"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Cozinha e jardim",
+          "baskets": ["Na cozinha", "No jardim"]
+        },
+        "fruit-animals": {
+          "label": "Frutas e animais",
+          "baskets": ["Frutas", "Animais"]
+        },
+        "home-travel": {
+          "label": "Casa e viagem",
+          "baskets": ["Em casa", "Fora de casa"]
+        }
+      }
+    }
+  }
+}

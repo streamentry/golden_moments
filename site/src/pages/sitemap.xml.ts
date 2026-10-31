@@ -4,6 +4,7 @@ import { GAMES } from '../data/games';
 import { SITE, absoluteUrl } from '../lib/site';
 import { localeInfo, localePath } from '../i18n/locales';
 import { allGuides } from '../i18n/guides';
+import { gameLanguages } from '../i18n/games';
 import { PUBLISHED } from '../i18n/ui';
 
 interface Entry {
@@ -58,7 +59,7 @@ export const GET: APIRoute = async () => {
   const english = guides.filter((g) => g.lang === 'en');
   const entries: Entry[] = [
     ...STATIC_PAGES.map((path) => ({ path, lastmod: SITE.updated, langs: LOCALIZED.has(path) ? EVERY : ['en'] })),
-    ...GAMES.map((g) => ({ path: `/games/${g.slug}/`, lastmod: SITE.updated, langs: GAMES_LOCALIZED ? EVERY : ['en'] })),
+    ...GAMES.map((g) => ({ path: `/games/${g.slug}/`, lastmod: SITE.updated, langs: GAMES_LOCALIZED ? gameLanguages(g.slug) : ['en'] })),
     ...SECTIONS.map((s) => ({ path: `/${s}/`, lastmod: SITE.updated, langs: EVERY })),
     ...english.map((g) => ({
       path: `/${g.id}/`,

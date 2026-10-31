@@ -2,6 +2,7 @@ import { SECTIONS } from '../content.config';
 import { GAMES } from '../data/games';
 import { DEFAULT_LOCALE } from './locales';
 import { allGuides } from './guides';
+import { gameAvailable } from './games';
 import { PUBLISHED } from './ui';
 
 /** Pages under src/pages/[lang]/ that are not dynamic (home, games index, app…). */
@@ -25,7 +26,7 @@ export async function pathsIn(code: string): Promise<Set<string>> {
     english || published
       ? [
           ...LOCALIZED_STATIC,
-          ...GAMES.map((g) => `/games/${g.slug}/`),
+          ...GAMES.filter((g) => gameAvailable(g.slug, code)).map((g) => `/games/${g.slug}/`),
           ...SECTIONS.map((s) => `/${s}/`),
           ...guides.filter((g) => g.lang === code).map((g) => `/${g.id}/`),
         ]

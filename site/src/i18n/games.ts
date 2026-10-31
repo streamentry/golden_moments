@@ -1,6 +1,7 @@
 import { GAMES, type GameInfo, type Stage } from '../data/games';
 import { DEFAULT_LOCALE, localeInfo } from './locales';
-import { deepMerge, fill, ui } from './ui';
+import { PUBLISHED, deepMerge, fill, ui } from './ui';
+import { playProps } from './play';
 
 /** Translatable fields of a game; everything else (slug, pictures, stages) is shared. */
 export type GameText = Partial<
@@ -19,8 +20,23 @@ export function localizeGame(game: GameInfo, code: string): GameInfo {
   return text ? deepMerge(game, text) : game;
 }
 
+/**
+ * Whether a game is offered in `code`. Word search needs a letter grid, which
+ * Chinese, Japanese, Korean and Thai do not have, so those languages leave it
+ * out entirely (no page, card or hreflang) rather than show an empty game.
+ */
+export function gameAvailable(slug: string, code: string): boolean {
+  if (slug !== 'word-search') return true;
+  return playProps(code, slug).content.wordSearch.available;
+}
+
+/** Languages a game page exists in. */
+export function gameLanguages(slug: string): string[] {
+  return PUBLISHED.map((l) => l.code).filter((code) => gameAvailable(slug, code));
+}
+
 export function localizedGames(code: string): GameInfo[] {
-  return GAMES.map((g) => localizeGame(g, code));
+  return GAMES.filter((g) => gameAvailable(g.slug, code)).map((g) => localizeGame(g, code));
 }
 
 /** "Often suits early and middle stages", in `code`. Never a promise. */

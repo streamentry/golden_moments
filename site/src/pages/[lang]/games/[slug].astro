@@ -3,9 +3,12 @@ import type { GetStaticPaths } from 'astro';
 import GameView from '../../../views/GameView.astro';
 import { GAMES, type GameInfo } from '../../../data/games';
 import { TRANSLATED } from '../../../i18n/ui';
+import { gameAvailable } from '../../../i18n/games';
 
 export const getStaticPaths = (() =>
-  TRANSLATED.flatMap((l) => GAMES.map((g) => ({ params: { lang: l.prefix, slug: g.slug }, props: { game: g, lang: l.code } })))) satisfies GetStaticPaths;
+  TRANSLATED.flatMap((l) =>
+    GAMES.filter((g) => gameAvailable(g.slug, l.code)).map((g) => ({ params: { lang: l.prefix, slug: g.slug }, props: { game: g, lang: l.code } })),
+  )) satisfies GetStaticPaths;
 
 interface Props {
   game: GameInfo;
