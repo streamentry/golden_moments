@@ -1,11 +1,24 @@
 # 1.6.0 build 10 release record (iOS and Android): prepared, not shipped
 
-**State (2026-11-01):** the source and the English and translated store copy
-are prepared and checked, and the **iOS archive is built and verified locally**.
-**Nothing was uploaded or submitted.** The maintainer approved the temporary
-signing override on 2026-11-01; uploading, submitting and the Android build
-still need their own approval. The web version of this release (website in 20
-languages, PR #103) was deployed on 2026-11-01 at the maintainer's request.
+**State (2026-11-01):** **submitted on both stores, awaiting review.** Build 10
+was uploaded and version 1.6.0 submitted at the maintainer's direction; the web
+version (website in 20 languages, PR #103) was deployed the same day.
+
+- **iOS:** build 10 uploaded with the App Store Connect API (team key
+  `P8ZK4BPD78`), delivery `1d6d4352-0786-4db6-8e80-72b2c948a9ec`, processed
+  `VALID`, attached to version 1.6.0 and submitted 2026-10-31 22:42 UTC: review
+  submission `ccbc8382-ced0-4c47-ad38-79ce2875d1b5`, read back as **Waiting for
+  Review**, release type automatic after approval. 21 App Store localizations
+  (name, subtitle, description, keywords, promotional text, "What's New",
+  support, marketing and privacy links). App Store Connect first refused the
+  submission because the new localizations lacked a support link; the English
+  links were copied across. Screenshots were not added for the new languages;
+  they use the app's existing screenshots.
+- **Android:** version code 10 (`1.6.0 (10)`) committed to the production track at
+  full rollout with 23 localized listings and release notes. The bundle in the
+  Play library has the same SHA-256 as the local build and was signed with the
+  registered upload certificate. Play sends it to review automatically
+  (managed publishing is off).
 
 ## Why this release
 
@@ -55,23 +68,15 @@ notes say so. Nothing in the English app changed except the version.
   the signed build on a device, and the Android bundle (needs the upload key
   from the backup folder).
 
-## What the maintainer must decide
+## Still open
 
-1. **Upload and submit.** Approve uploading build 10 and submitting version
-   1.6.0 with the App Store Connect API (team key `P8ZK4BPD78`, as for 1.5.0),
-   and the matching Android build and upload.
-2. **Android.** Approve using the upload key from the backup folder to build
-   the bundle.
-3. **Localized listings.** Approve creating the 19 App Store localizations and
-   Google Play listings from `metadata/i18n`. App Store Connect needs "What's
-   New" text for every added language (prepared) and decisions about screenshots
-   for each language (the screenshots are still English).
-4. **The unreviewed caveat.** The translations ship unreviewed. Native review
+1. **Approval.** Apple and Google must approve; read the submission state back
+   before saying either is live.
+2. **Unreviewed translations.** All 19 languages ship unreviewed. Native review
    follows [native review](../engineering/native-review.md); until a language is
    reviewed its website pages stay out of search.
-
-## After release
-
-Re-run `scripts/store_downloads.py` for several days and compare with the first
-reading of 7 downloads on 2026-10-29 and 8 on 2026-10-30. Keep this record up to
-date with the real upload and submission details if the release goes ahead.
+3. **Screenshots per language** and **device checks** (large text, screen reader,
+   Arabic right to left) were not done.
+4. **After release**, re-run `scripts/store_downloads.py` for several days and
+   compare with the first reading of 7 downloads on 2026-10-29 and 8 on
+   2026-10-30.
