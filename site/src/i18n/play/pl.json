@@ -287,7 +287,7 @@
   },
   "content": {
     "sayings": [
-      {"start": "Lepiej późno niż", "end": "wcale", "others": ["nigdy", "jutro"], "prompt": "Opowiedz mi o czymś, co sprawiło ci radość, choć przyszło trochę później."},
+      {"start": "Lepiej późno niż", "end": "wcale", "others": ["wcześnie", "jutro"], "prompt": "Opowiedz mi o czymś, co sprawiło ci radość, choć przyszło trochę później."},
       {"start": "Kto rano wstaje, temu Pan Bóg", "end": "daje", "others": ["sprzyja", "pomaga"], "prompt": "Lubisz bardziej poranki czy wieczory?"},
       {"start": "Gdzie kucharek sześć, tam nie ma co", "end": "jeść", "others": ["pić", "robić"], "prompt": "Kto w twojej rodzinie najlepiej gotował?"},
       {"start": "Nie chwal dnia przed zachodem", "end": "słońca", "others": ["księżyca", "gwiazd"], "prompt": "Jak wygląda dla ciebie udany dzień?"},
