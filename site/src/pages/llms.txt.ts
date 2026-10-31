@@ -26,7 +26,7 @@ export const GET: APIRoute = async () => {
     ...(PUBLISHED.filter((l) => isIndexable(l.code)).length > 1
       ? [
           '## Languages',
-          '- English is the original. Other languages are reviewed by native speakers; slugs stay the same, under a language prefix.',
+          '- English is the original. Other languages are machine translations, labelled as such on each page; slugs stay the same, under a language prefix.',
           ...PUBLISHED.filter((l) => isIndexable(l.code)).map((l) => `- [${l.name} (${l.englishName})](${SITE.url}${localePath(l.code, '/')})`),
           '',
         ]

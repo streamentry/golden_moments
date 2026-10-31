@@ -102,6 +102,6 @@ The gap was conversion: no game page linked to the app, and guides ended with a 
 
 Still for the maintainer:
 
-1. **Bing Webmaster Tools:** verify the site and submit `sitemap.xml`. ChatGPT search draws on Bing's index; IndexNow pings alone do not show coverage or queries.
+1. **Bing Webmaster Tools:** verify the site and submit `sitemap.xml` (the index of every language's sitemap). ChatGPT search draws on Bing's index; IndexNow pings alone do not show coverage or queries.
 2. **Install attribution:** App Store Connect › App Analytics › Campaigns gives a provider token (`pt`). With it, store links can carry `ct=web` (or `ct=chatgpt` on pages ChatGPT sends people to), so installs from the site become visible. Without it, site-to-install is unmeasured.
 3. **GA4:** compare sessions with source `chatgpt.com` against outbound clicks to apps.apple.com and play.google.com, to see whether the new app links convert.

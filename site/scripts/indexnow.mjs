@@ -1,5 +1,5 @@
 // Tells IndexNow search engines (Bing and others; not Google) about every page in
-// the live sitemap. Run after a deploy: `pnpm indexnow`. The key file in public/
+// every live sitemap (one per language, listed in /sitemap.xml). Run after a deploy: `pnpm indexnow`. The key file in public/
 // is meant to be public: it proves this site owns the submissions.
 import { readdirSync } from 'node:fs';
 
@@ -8,9 +8,17 @@ const keyFile = readdirSync(new URL('../public/', import.meta.url)).find((f) => 
 if (!keyFile) throw new Error('No IndexNow key file (32 hex characters + .txt) in public/');
 const key = keyFile.slice(0, -4);
 
-const sitemap = await fetch(`${SITE}/sitemap.xml`);
-if (!sitemap.ok) throw new Error(`Could not fetch the live sitemap: HTTP ${sitemap.status}`);
-const urlList = [...(await sitemap.text()).matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
+const index = await fetch(`${SITE}/sitemap.xml`);
+if (!index.ok) throw new Error(`Could not fetch the live sitemap index: HTTP ${index.status}`);
+const sitemaps = [...(await index.text()).matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
+if (sitemaps.length === 0) throw new Error('The sitemap index lists no sitemaps');
+
+const urlList = [];
+for (const url of sitemaps) {
+  const sitemap = await fetch(url);
+  if (!sitemap.ok) throw new Error(`Could not fetch ${url}: HTTP ${sitemap.status}`);
+  urlList.push(...[...(await sitemap.text()).matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]));
+}
 
 const res = await fetch('https://api.indexnow.org/indexnow', {
   method: 'POST',
