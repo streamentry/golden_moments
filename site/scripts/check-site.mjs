@@ -6,8 +6,9 @@ import { join, relative } from 'node:path';
 
 const DIST = new URL('../dist/', import.meta.url).pathname;
 const SITE = 'https://dementiaactivities.games';
-/** Display width: Chinese, Japanese and Korean characters count double, as in search results. */
-const width = (s) => [...s].reduce((n, ch) => n + (/[\u1100-\u115f\u2e80-\ua4cf\uac00-\ud7a3\uf900-\ufaff\ufe30-\ufe4f\uff00-\uff60\uffe0-\uffe6]/.test(ch) ? 2 : 1), 0);
+/** Display width: Chinese, Japanese and Korean characters count double and combining marks
+    (Devanagari and Thai vowel signs, accents) count nothing, as in search results. */
+const width = (s) => [...s].reduce((n, ch) => n + (/\p{M}/u.test(ch) ? 0 : /[\u1100-\u115f\u2e80-\ua4cf\uac00-\ud7a3\uf900-\ufaff\ufe30-\ufe4f\uff00-\uff60\uffe0-\uffe6]/.test(ch) ? 2 : 1), 0);
 /** URL prefixes of translated languages; keep in step with src/i18n/locales.ts. */
 const LOCALE_PREFIXES = new Set(['es', 'pt-br', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', 'ar', 'hi', 'ja', 'ko', 'zh-hans', 'zh-hant', 'vi', 'id', 'th']);
 
