@@ -1,0 +1,65 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../lib/site';
+
+const pages = [
+  {
+    href: '/app-privacy/',
+    label: 'App privacy policy',
+    text: 'How the iPhone, iPad and Android app handles family photos, preferences, support email, backups and your choices.',
+  },
+  {
+    href: '/privacy-choices/',
+    label: 'Privacy choices and deletion',
+    text: 'Step-by-step help removing the app’s photo copies without touching originals, checking backups and asking us to delete what we hold.',
+  },
+  {
+    href: '/privacy/',
+    label: 'Website privacy notice',
+    text: 'What this website collects and what stays in your browser.',
+  },
+  {
+    href: '/terms/',
+    label: 'Terms of use and app license',
+    text: 'Rules for the website and printables, and which license covers the app.',
+  },
+  {
+    href: '/safety/',
+    label: 'Safety and intended use',
+    text: 'Why Golden Moments is for recreation, not diagnosis, testing, treatment or urgent help.',
+  },
+  {
+    href: '/medical-disclaimer/',
+    label: 'Health information notice',
+    text: 'How to read our brain health pages, and where to get help right away.',
+  },
+  {
+    href: '/accessibility/',
+    label: 'Accessibility statement',
+    text: 'How the website is designed for older eyes and hands, and its known limits.',
+  },
+  {
+    href: '/support/',
+    label: 'Support and contact',
+    text: 'Email us without sending private photos or medical details.',
+  },
+];
+---
+<PageLayout
+  title="Legal and Privacy Information"
+  seoTitle="Legal and Privacy Information for Golden Moments"
+  description="All Golden Moments legal pages in one place: app privacy policy, privacy choices, website privacy, terms and app license, safety and support."
+  path="/legal/"
+  crumb="Legal"
+  lede="One place for the information that matters before you download, play or share a picture."
+>
+  <ul>
+    {pages.map((page) => (
+      <li><a href={page.href}><strong>{page.label}</strong></a>: {page.text}</li>
+    ))}
+  </ul>
+  <p>
+    Golden Moments is published by <strong>Cloudjet Solutions Pte. Ltd.</strong>, Singapore. Questions:
+    <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
+  </p>
+</PageLayout>

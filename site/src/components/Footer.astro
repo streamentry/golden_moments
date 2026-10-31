@@ -1,0 +1,69 @@
+---
+import { SITE } from '../lib/site';
+const year = new Date(SITE.updated).getFullYear();
+---
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h2>Play</h2>
+        <ul>
+          <li><a href="/games/picture-pairs/">Picture pairs</a></li>
+          <li><a href="/games/conversation-cards/">Conversation cards</a></li>
+          <li><a href="/games/picture-bingo/">Picture bingo</a></li>
+          <li><a href="/games/">All games</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>Activity ideas</h2>
+        <ul>
+          <li><a href="/activities/ideas/">101 activity ideas</a></li>
+          <li><a href="/activities/late-stage/">Late-stage activities</a></li>
+          <li><a href="/activities/printable/">Printable activities</a></li>
+          <li><a href="/activities/">All activities</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>For caregivers</h2>
+        <ul>
+          <li><a href="/caregiving/how-to-play-together/">How to play together</a></li>
+          <li><a href="/caregiving/caregiver-self-care/">Caring for yourself</a></li>
+          <li><a href="/brain-health/">Brain health research</a></li>
+          <li><a href="/faq/">Questions and answers</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>About</h2>
+        <ul>
+          <li><a href="/about/">Our approach</a></li>
+          <li><a href="/editorial-policy/">How we write</a></li>
+          <li><a href="/for-organizations/">For organizations</a></li>
+          <li><a href="/app/">The Golden Moments app</a></li>
+          <li><a href="/help/">App help</a></li>
+          <li><a href="/support/">Support</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>Legal</h2>
+        <ul>
+          <li><a href="/privacy/">Website privacy</a></li>
+          <li><a href="/app-privacy/">App privacy policy</a></li>
+          <li><a href="/privacy-choices/">Privacy choices</a></li>
+          <li><a href="/terms/">Terms and app license</a></li>
+          <li><a href="/safety/">Safety and intended use</a></li>
+          <li><a href="/accessibility/">Accessibility</a></li>
+          <li><a href="/medical-disclaimer/">Health information notice</a></li>
+          <li><a href="/legal/">All legal information</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-note">
+      <p>
+        Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a
+        treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor.
+        In an emergency, call 911.
+      </p>
+      <p>© {year} Golden Moments · Published by Cloudjet Solutions Pte. Ltd. · {SITE.domain}</p>
+    </div>
+  </div>
+</footer>

@@ -138,18 +138,55 @@ void main() {
     expect(find.textContaining('Nothing was sent'), findsNothing);
   });
 
-  testWidgets('no review or rating is requested anywhere on this page', (
+  testWidgets('rating is one optional link, separate from support', (
     tester,
   ) async {
     await tester.binding.setSurfaceSize(const Size(480, 4000));
     addTearDown(() => tester.binding.setSurfaceSize(null));
-    await tester.pumpWidget(_app(const HelpPrivacyPage()));
+    final opened = <String>[];
+    final recorder = _Recorder();
+    await tester.pumpWidget(
+      _app(
+        HelpPrivacyPage(
+          sharer: recorder.call,
+          storeOpener: (url) async {
+            opened.add(url);
+            return true;
+          },
+        ),
+      ),
+    );
+    expect(find.text('Rate Golden Moments'), findsOneWidget);
+    // No incentive, pre-screen or guilt around it.
     expect(
       find.textContaining(
-        RegExp(r'\brate\b|review us|rating|stars', caseSensitive: false),
+        RegExp(
+          'reward|unlock|5 stars|happy with|love it',
+          caseSensitive: false,
+        ),
       ),
       findsNothing,
     );
+    expect(opened, isEmpty);
+    await tester.tap(find.text('Rate Golden Moments'));
+    await tester.pumpAndSettle();
+    expect(opened, hasLength(1));
+    expect(opened.single, isNot(contains('utm_')));
+    // Rating never sends a note or report.
+    expect(recorder.calls, isEmpty);
+  });
+
+  testWidgets('a store that will not open leaves a calm message', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(480, 4000));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    await tester.pumpWidget(
+      _app(HelpPrivacyPage(storeOpener: (_) async => false)),
+    );
+    await tester.tap(find.text('Rate Golden Moments'));
+    await tester.pumpAndSettle();
+    expect(find.textContaining('Could not open the store'), findsOneWidget);
   });
 
   testWidgets('reads and scrolls at 200% text on a small phone', (

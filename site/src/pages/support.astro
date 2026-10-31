@@ -1,0 +1,78 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import Icon from '../components/Icon.astro';
+import { SITE } from '../lib/site';
+---
+<PageLayout
+  title="Support"
+  seoTitle="Golden Moments Support and Contact"
+  description="Get help with the Golden Moments app or website: email support, simple troubleshooting, privacy and deletion requests, accessibility and App Store refunds."
+  path="/support/"
+  crumb="Support"
+  lede="Tell us what went wrong, or what could be easier. You do not need any technical words."
+>
+  <h2 id="contact">Email us</h2>
+  <p>Golden Moments is published by Cloudjet Solutions Pte. Ltd., Singapore. Our support address is:</p>
+  <div class="btn-row">
+    <a class="btn btn--primary" href={`mailto:${SITE.supportEmail}?subject=Golden%20Moments%20support`}><Icon name="arrow" />Write to support</a>
+  </div>
+  <p><a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a></p>
+  <p class="muted">This opens your email app. There is no account, chat bot or upload form.</p>
+
+  <h2>What to include</h2>
+  <p>
+    Tell us whether you use an iPhone, iPad, Android device or this website. Describe the screen, what you tried and what
+    happened. Include the app version if you know it. A short description is enough to start.
+  </p>
+  <p>
+    <strong>Please do not email family photos, medical records, diagnoses, passwords or payment card details.</strong>
+    We will ask if we need more.
+  </p>
+
+  <h2>Simple troubleshooting</h2>
+  <p>The <a href="/help/">app help guide</a> explains gentle games, family photos and playing offline.</p>
+  <ol>
+    <li>If a screen seems stuck, use Back, or close and reopen the app.</li>
+    <li>Check the <a href={SITE.appStoreUrl} rel="noopener">App Store</a> or <a href={SITE.playStoreUrl} rel="noopener">Google Play</a> listing for device requirements and updates.</li>
+    <li>If adding a photo fails, try one smaller photo and check your free storage.</li>
+    <li>If you still need help, email us with the steps above.</li>
+  </ol>
+  <p>
+    <strong>Avoid deleting or reinstalling the app as a first step:</strong> that can remove photo copies, settings and
+    other things you want to keep. <strong>Offload App</strong> may keep data and is not the same as deleting.
+  </p>
+
+  <h2>Privacy requests and removing photo copies</h2>
+  <p>
+    For step-by-step help removing the app’s photo copies, see <a href="/privacy-choices/">privacy choices and
+    deletion</a>. To see or delete information you sent us by email, write to
+    <a href={`mailto:${SITE.supportEmail}?subject=Golden%20Moments%20privacy%20request`}>{SITE.supportEmail}</a>. We cannot
+    reach or delete a photo that is only on your device.
+  </p>
+  <p>
+    Read the <a href="/app-privacy/">app privacy policy</a> for the app, or the <a href="/privacy/">website privacy
+    notice</a> for this website.
+  </p>
+
+  <h2>Accessibility or unwanted content</h2>
+  <p>
+    If a button is hard to reach, text is hard to read, a screen reader behaves unexpectedly, or a picture is upsetting
+    or may infringe someone’s rights, let us know. Name the activity or screen rather than sending family photos. See
+    also our <a href="/accessibility/">accessibility statement</a> and <a href="/safety/">safety guidance</a>.
+  </p>
+
+  <h2>App Store purchases and refunds</h2>
+  <p>
+    The app is free and this website takes no payments. If an App Store purchase applies to the version you use, Apple
+    manages it; visit <a href="https://reportaproblem.apple.com/" rel="noopener">Apple’s purchase support</a> for eligible
+    refunds. Google Play purchases follow Google Play’s refund policies. This does not replace refund rights you have by
+    law.
+  </p>
+
+  <h2>Versions and features</h2>
+  <p>
+    Family photos arrived in version 1.4.0. If your device shows an earlier version, update it from the App Store or
+    Google Play when the update is offered. Photo pairs on this website is separate: its photos stay in your browser tab
+    and are never uploaded.
+  </p>
+</PageLayout>

@@ -1,0 +1,37 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../lib/site';
+---
+<PageLayout
+  title="Accessibility"
+  seoTitle="Accessibility Statement"
+  description="How Golden Moments is designed for older adults and people living with dementia: large text and targets, high contrast, no timers, keyboard and screen reader support."
+  path="/accessibility/"
+  crumb="Accessibility"
+  updated="2026-10-25"
+>
+  <p>
+    We design for older eyes and hands first, and aim to meet the Web Content Accessibility Guidelines (WCAG) 2.2 at
+    level AA, with stronger contrast where we can.
+  </p>
+  <h2>What we do</h2>
+  <ul>
+    <li>Text is at least 16 pixels and reading text is 20 pixels by default, and it grows with your browser’s text size and zoom.</li>
+    <li>Buttons and picture tiles are large, with targets of at least 48 by 48 pixels.</li>
+    <li>Dark ink on warm paper colors, with high contrast. Color is never the only signal: selected and matched pictures also get a thick border, a check mark and spoken labels.</li>
+    <li>No timers anywhere, and nothing changes or disappears on its own.</li>
+    <li>Every game can be played with taps alone: no dragging, swiping or double-tapping.</li>
+    <li>Games work with a keyboard and announce what happens to screen readers.</li>
+    <li>Motion is minimal and respects your device’s “reduce motion” setting. Sound is off by default and never needed.</li>
+    <li>Printable activities use large type and simple layouts.</li>
+  </ul>
+  <h2>Known limits</h2>
+  <ul>
+    <li>Photos you choose in Photo pairs are announced by number (“Photo 1”), not described.</li>
+    <li>Coloring pages are easiest with a mouse or touch, though every area can also be reached with the keyboard.</li>
+  </ul>
+  <p>
+    We have not yet completed a formal audit with assistive technology users. If something is hard to use, please tell
+    us at <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a> and we will work on it.
+  </p>
+</PageLayout>

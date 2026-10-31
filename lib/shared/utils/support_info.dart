@@ -1,21 +1,18 @@
 import 'package:flutter/foundation.dart';
 
 /// Matches `version:` in pubspec.yaml; a test keeps the two in step.
-const String appVersion = '1.3.0+6';
+const String appVersion = '1.5.0+9';
 
 /// The public help page already declared as `support_url` in the canonical
 /// store metadata (a test keeps the two identical). It is shown as text to
 /// copy; the app never opens it, so nothing leaves the device from here.
-const String supportUrl =
-    'https://streamentry.github.io/golden-moments-web/help/';
+const String supportUrl = 'https://dementiaactivities.games/help/';
 
 /// The mobile-app privacy policy and the terms of use on the owner's site.
 /// Shown as text to copy, never opened by the app. The privacy page is the
 /// app policy (`/app-privacy/`), not the general website notice.
-const String privacyPolicyUrl =
-    'https://streamentry.github.io/golden-moments-web/app-privacy/';
-const String termsUrl =
-    'https://streamentry.github.io/golden-moments-web/terms/';
+const String privacyPolicyUrl = 'https://dementiaactivities.games/app-privacy/';
+const String termsUrl = 'https://dementiaactivities.games/terms/';
 
 /// The support address the owner publishes on the same site. Shown as text to
 /// copy; the app never opens a mail client or sends anything by itself.

@@ -10,6 +10,7 @@ import 'package:golden_moments/features/game/cubit/game_cubit.dart';
 import 'package:golden_moments/features/game/cubit/game_state.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_exit_bar.dart';
 import 'package:golden_moments/features/game/presentation/widgets/game_play_view.dart';
+import 'package:golden_moments/shared/rating/review_request.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
 import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
 import 'package:provider/provider.dart';
@@ -17,8 +18,9 @@ import 'package:provider/provider.dart';
 /// Picture-pack matching game.
 ///
 /// Like the gentle board (GM-002), "Done for now" is always visible in a
-/// bottom bar, Start again asks before clearing found pairs, and finishing
-/// never asks for a rating. No clock, move count or score is shown.
+/// bottom bar, Start again asks before clearing found pairs, and the finish
+/// message never asks for a rating (Home may, later: DESIGN.md › Ratings).
+/// No clock, move count or score is shown.
 class GamePage extends StatefulWidget {
   const new({required this.gamePack, super.key});
 
@@ -39,11 +41,14 @@ class _GamePageState extends State<GamePage> {
 
   /// Records the finished game; returns whether to suggest sharing.
   Future<bool> _recordCompletion() async {
+    bool invite;
     try {
-      return await (await ShareInvitationStore.load()).recordCompletedGame();
+      invite = await (await ShareInvitationStore.load()).recordCompletedGame();
     } on Object {
-      return false;
+      invite = false;
     }
+    unawaited(recordFinishedGameForReview(suggestedSharing: invite));
+    return invite;
   }
 
   Future<void> _onCompleted(BuildContext context) async {
