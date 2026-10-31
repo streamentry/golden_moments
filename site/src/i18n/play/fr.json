@@ -1,0 +1,491 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Jeu",
+      "restart": "Recommencer",
+      "soundOn": "Sons doux activés",
+      "soundOff": "Sons doux désactivés",
+      "done": "Fini pour l’instant"
+    },
+    "tile": {
+      "named": "{name}, carte {n}",
+      "hidden": "Image cachée, carte {n}",
+      "withState": "{label}, {state}",
+      "matched": "Paire réunie",
+      "selected": "Sélectionnée",
+      "picture": "Image",
+      "photoNumber": "Photo {n}"
+    },
+    "pairs": {
+      "allTogether": "Toutes les paires sont réunies. Rejouez ou faites une pause.",
+      "photoPair": "Une paire de photos, réunie.",
+      "picturePair": "Deux images réunies : {name|lower}.",
+      "selected": "{name}. Trouvez maintenant sa paire.",
+      "mismatch": "Prenez votre temps. Touchez une image pour continuer.",
+      "mismatchNamed": "{a} et {b}. Prenez votre temps. Touchez une image pour continuer."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Touchez une image, puis celle qui lui correspond.",
+      "guidanceHidden": "Touchez deux cartes pour les retourner. Cherchez deux images identiques.",
+      "restart": "Nouvelles images",
+      "sizeLegend": "Nombre de cartes",
+      "size": {"one": "{n} carte", "many": "{n} cartes", "other": "{n} cartes"},
+      "viewLegend": "Façon de jouer",
+      "viewShowing": "Images visibles",
+      "viewHidden": "Images cachées",
+      "playAgain": "Rejouer avec de nouvelles images",
+      "talk": "Parler des images ensemble"
+    },
+    "choose": {
+      "countLegend": "Nombre d’images",
+      "count": "{n} images au choix",
+      "thatOne": "Celle-ci montre : {name|lower}. Prenez votre temps."
+    },
+    "findTheSame": {
+      "guidance": "Regardez l’image du haut. Touchez la même en dessous.",
+      "yes": "Oui, la même image : {name|lower}.",
+      "next": "Image suivante"
+    },
+    "shadowMatch": {
+      "guidance": "Regardez l’ombre en haut. Touchez l’image qui fait cette ombre.",
+      "yes": "Oui, c’est bien son ombre : {name|lower}.",
+      "next": "Ombre suivante",
+      "shadowAlt": "Une ombre à associer",
+      "foundAlt": "L’ombre de l’image : {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Touchez une image, puis le panier où elle va.",
+      "restart": "Nouvelles images",
+      "themeLegend": "Thème",
+      "selected": "{name}. Touchez maintenant le panier où elle va.",
+      "pickFirst": "Touchez d’abord une image, puis un panier.",
+      "hint": "Cette image ({name|lower}) peut aller dans « {basket} ». Touchez ce panier pour l’y ranger.",
+      "placed": "C’est rangé dans « {basket} » : {name|lower}.",
+      "sorted": "Tout est trié. Regardez les paniers ensemble, ou essayez un autre thème.",
+      "basket": {
+        "one": "Panier « {basket} », {count} image dedans",
+        "many": "Panier « {basket} », {count} images dedans",
+        "other": "Panier « {basket} », {count} images dedans"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Touchez une pièce, puis une autre. Elles échangent leur place.",
+      "restart": "Mélanger à nouveau",
+      "pictureLegend": "Image",
+      "pictures": {
+        "sailboat": "Voilier",
+        "house": "Maison",
+        "balloon": "Montgolfière",
+        "sunflower": "Tournesol",
+        "lighthouse": "Phare",
+        "cat": "Chat"
+      },
+      "sizeLegend": "Pièces",
+      "size": {"one": "{n} pièce", "many": "{n} pièces", "other": "{n} pièces"},
+      "pickedUp": "Pièce prise. Touchez maintenant l’endroit où elle doit aller.",
+      "whole": "L’image est de nouveau complète : {name|lower}. Choisissez une autre image quand vous voulez.",
+      "swapped": {
+        "one": "Échangées. Pièce à sa place : {correct} sur {total}.",
+        "many": "Échangées. Pièces à leur place : {correct} sur {total}.",
+        "other": "Échangées. Pièces à leur place : {correct} sur {total}."
+      },
+      "guideAlt": "L’image entière : {name}",
+      "guideText": "Voici l’image quand elle est complète.",
+      "piece": "Pièce {place}",
+      "pieceInPlace": ", à la bonne place",
+      "piecePickedUp": ", prise",
+      "places4": ["en haut à gauche", "en haut à droite", "en bas à gauche", "en bas à droite"],
+      "places9": [
+        "en haut à gauche",
+        "en haut au centre",
+        "en haut à droite",
+        "au milieu à gauche",
+        "au centre",
+        "au milieu à droite",
+        "en bas à gauche",
+        "en bas au centre",
+        "en bas à droite"
+      ],
+      "done": "L’image est de nouveau complète. Rejouez ou faites une pause.",
+      "playAgain": "Mélanger encore"
+    },
+    "finishTheSaying": {
+      "guidance": "Lisez le proverbe ensemble, puis touchez le mot qui le complète.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Oui : « {start} {end}. »",
+      "otherEnding": "« {word} » convient aussi. D’habitude, le proverbe se termine par « {end} ».",
+      "revealed": "Le proverbe : « {start} {end}. »",
+      "choicesLabel": "Choisissez le dernier mot",
+      "show": "Afficher la fin",
+      "talk": "Pour en parler : ",
+      "next": "Proverbe suivant"
+    },
+    "wordSearch": {
+      "guidance": "Les mots se lisent à l’horizontale ou à la verticale. Touchez la première lettre d’un mot, puis sa dernière lettre.",
+      "restart": "Nouvelle grille",
+      "themeLegend": "Thème",
+      "sizeLegend": "Taille de la grille",
+      "size": {
+        "one": "{n} sur {n} ({words} mot)",
+        "many": "{n} sur {n} ({words} mots)",
+        "other": "{n} sur {n} ({words} mots)"
+      },
+      "print": "Imprimer cette grille",
+      "letterChosen": "Lettre {letter} choisie. Touchez maintenant la dernière lettre du mot.",
+      "found": "Trouvé : {word}.",
+      "foundAll": "Trouvé : {word}. Tous les mots sont trouvés. Rejouez ou faites une pause.",
+      "tryAgain": "Prenez votre temps. Touchez la première lettre d’un mot, puis sa dernière lettre.",
+      "gridLabel": "Grille de lettres, {n} lignes de {n} lettres. Utilisez les flèches du clavier pour passer d’une lettre à l’autre.",
+      "cell": "{letter}, ligne {row}, colonne {col}",
+      "cellFound": ", dans un mot trouvé",
+      "wordsHeading": "Mots à trouver",
+      "wordFound": " (trouvé)",
+      "sheetTitle": "Mots mêlés : {theme}",
+      "sheetNote": "Les mots se lisent à l’horizontale ou à la verticale.",
+      "unavailable": "Une grille de lettres ne convient pas à cette langue : les mots mêlés ne sont donc pas proposés ici. Essayez plutôt les jeux d’images."
+    },
+    "coloring": {
+      "guidance": "Touchez une couleur, puis une partie du dessin.",
+      "restart": "Effacer les couleurs",
+      "cleared": "La page est de nouveau vierge.",
+      "pageLegend": "Page",
+      "print": "Imprimer cette page",
+      "colorsLabel": "Couleurs",
+      "paintChosen": "{paint} choisi.",
+      "painted": "{part} : en {paint|lower}.",
+      "artLabel": "{page}, {count} parties à colorier",
+      "partPainted": "{part}, en {paint|lower}",
+      "partBlank": "{part}, sans couleur",
+      "paints": {
+        "red": "Rouge",
+        "orange": "Orange",
+        "yellow": "Jaune",
+        "green": "Vert",
+        "blue": "Bleu",
+        "purple": "Violet",
+        "pink": "Rose",
+        "brown": "Marron",
+        "sky-blue": "Bleu ciel",
+        "cream": "Crème",
+        "gray": "Gris",
+        "white": "Blanc"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lisez la carte à voix haute. Il n’y a pas de bonne réponse.",
+      "position": "Carte {n} sur {total}",
+      "themeLegend": "Thème",
+      "next": "Carte suivante",
+      "previous": "Carte précédente",
+      "print": "Imprimer toutes les cartes",
+      "sheetTitle": "Cartes de conversation"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Commencez par choisir vos photos.",
+      "guidance": "Touchez une photo, puis celle qui lui correspond.",
+      "restart": "Mélanger à nouveau",
+      "intro": "**Choisissez 2 à 6 photos** sur cet appareil. Elles ne s’affichent que dans cette page et ne sont jamais envoyées ni enregistrées.",
+      "choose": "Choisir des photos",
+      "chooseDifferent": "Choisir d’autres photos",
+      "clear": "Effacer les photos",
+      "cleared": "Les photos ont été retirées de cette page.",
+      "atLeastTwo": "Choisissez au moins deux photos.",
+      "usingFirst": "Seules les {max} premières photos sont utilisées.",
+      "skipped": {
+        "one": "{count} fichier n’est pas une photo que nous pouvons afficher.",
+        "many": "{count} fichiers ne sont pas des photos que nous pouvons afficher.",
+        "other": "{count} fichiers ne sont pas des photos que nous pouvons afficher."
+      },
+      "playAgain": "Rejouer avec ces photos",
+      "empty": "Vos photos apparaîtront ici, chacune en double."
+    },
+    "pictureBingo": {
+      "guidance": "Imprimez d’abord les cartons. Affichez ensuite ce tirage sur le plus grand écran disponible.",
+      "called": {
+        "one": "{name}. {called} sur {total} image tirée.",
+        "many": "{name}. {called} sur {total} images tirées.",
+        "other": "{name}. {called} sur {total} images tirées."
+      },
+      "start": "Touchez « Image suivante » pour tirer la première image.",
+      "restart": "Nouvelle partie",
+      "squaresLegend": "Cases par carton",
+      "squares": "{n} cases ({side} sur {side})",
+      "cardsLegend": "Nombre de cartons à imprimer",
+      "cards": {"one": "{n} carton", "many": "{n} cartons", "other": "{n} cartons"},
+      "print": {"one": "Imprimer le carton ({n})", "many": "Imprimer les cartons ({n})", "other": "Imprimer les cartons ({n})"},
+      "ready": "Quand vous êtes prêts",
+      "next": "Image suivante",
+      "allCalled": "Toutes les images ont été tirées",
+      "alreadyCalled": "Déjà tirée",
+      "sheetTitle": "Loto en images · carton {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Inspirez quand le cercle grandit, et expirez quand il rétrécit. Il s’arrête tout seul après six respirations.",
+      "paceLegend": "Rythme",
+      "paceSlow": "Lent (5 secondes dans chaque sens)",
+      "paceGentle": "Doux (4 secondes dans chaque sens)",
+      "ready": "Quand vous êtes prêts",
+      "in": "Inspirez",
+      "hold": "Pause",
+      "out": "Expirez",
+      "start": "Démarrer",
+      "stop": "Arrêter",
+      "started": "C’est parti. Inspirez quand le cercle grandit.",
+      "stopped": "Arrêté.",
+      "finished": "Voilà six respirations lentes. Recommencez quand vous voulez."
+    }
+  },
+  "pictures": {
+    "teacup": "Tasse de thé",
+    "kettle": "Bouilloire",
+    "bread": "Pain",
+    "frying-pan": "Poêle avec un œuf",
+    "cake": "Gâteau d’anniversaire",
+    "sunflower": "Tournesol",
+    "tulip": "Tulipe rouge",
+    "watering-can": "Arrosoir",
+    "potted-plant": "Plante en pot",
+    "tree": "Arbre",
+    "bird": "Rouge-gorge sur une branche",
+    "butterfly": "Papillon",
+    "dog": "Chien",
+    "cat": "Chat",
+    "fish": "Poisson rouge",
+    "apple": "Pomme rouge",
+    "pear": "Poire",
+    "strawberry": "Fraise",
+    "banana": "Banane",
+    "lemon": "Citron",
+    "cherries": "Cerises",
+    "house": "Maison",
+    "lamp": "Lampe",
+    "armchair": "Fauteuil",
+    "key": "Clé ancienne",
+    "umbrella": "Parapluie",
+    "sailboat": "Voilier",
+    "car": "Voiture ancienne",
+    "bicycle": "Vélo",
+    "balloon": "Montgolfière",
+    "lighthouse": "Phare",
+    "sun": "Soleil",
+    "moon": "Lune et étoiles"
+  },
+  "content": {
+    "sayings": [
+      {"start": "Petit à petit, l’oiseau fait son", "end": "nid", "others": ["chant", "chemin"], "prompt": "Quels oiseaux aimez-vous regarder ou écouter ?"},
+      {"start": "Après la pluie, le beau", "end": "temps", "others": ["soleil", "jour"], "prompt": "Qu’aimez-vous faire quand le soleil revient ?"},
+      {"start": "Qui va à la chasse perd sa", "end": "place", "others": ["chaise", "route"], "prompt": "Avez-vous une place préférée, à table ou au salon ?"},
+      {"start": "L’habit ne fait pas le", "end": "moine", "others": ["bonheur", "printemps"], "prompt": "Quel vêtement aimez-vous porter pour une grande occasion ?"},
+      {"start": "Mieux vaut tard que", "end": "jamais", "others": ["demain", "rien"], "prompt": "Qu’est-ce qui vaut la peine d’attendre, pour vous ?"},
+      {"start": "Les petits ruisseaux font les grandes", "end": "rivières", "others": ["vagues", "fontaines"], "prompt": "Aimez-vous être près d’une rivière, d’un lac ou de la mer ?"},
+      {"start": "Pierre qui roule n’amasse pas", "end": "mousse", "others": ["poussière", "sable"], "prompt": "Aimez-vous bouger et voyager, ou plutôt rester chez vous ?"},
+      {"start": "Chat échaudé craint l’eau", "end": "froide", "others": ["chaude", "claire"], "prompt": "Que préférez-vous : un bain chaud, une piscine ou la mer ?"},
+      {"start": "Quand le chat n’est pas là, les souris", "end": "dansent", "others": ["dorment", "chantent"], "prompt": "Qu’aimez-vous faire quand vous avez la maison pour vous ?"},
+      {"start": "L’appétit vient en", "end": "mangeant", "others": ["cuisinant", "marchant"], "prompt": "Quel plat vous met l’eau à la bouche ?"},
+      {"start": "On récolte ce que l’on", "end": "sème", "others": ["plante", "aime"], "prompt": "Qu’aimez-vous faire pousser au jardin ou sur un balcon ?"},
+      {"start": "Tout vient à point à qui sait", "end": "attendre", "others": ["sourire", "chercher"], "prompt": "Qu’est-ce qui vous aide à patienter ?"},
+      {"start": "La nuit porte", "end": "conseil", "others": ["rêves", "fraîcheur"], "prompt": "Qu’aimez-vous faire le soir, avant d’aller dormir ?"},
+      {"start": "Qui veut voyager loin ménage sa", "end": "monture", "others": ["valise", "route"], "prompt": "Parlez-moi d’un voyage qui vous a plu."},
+      {"start": "Il faut battre le fer pendant qu’il est", "end": "chaud", "others": ["prêt", "là"], "prompt": "Aimez-vous bricoler, ou travailler de vos mains ?"},
+      {"start": "À cœur vaillant, rien", "end": "d’impossible", "others": ["d’inconnu", "d’interdit"], "prompt": "Qu’est-ce qui vous donne du courage ?"},
+      {"start": "Un tiens vaut mieux que deux tu", "end": "l’auras", "others": ["l’entendras", "le verras"], "prompt": "Quel petit plaisir aimez-vous savourer tout de suite ?"},
+      {"start": "Paris ne s’est pas fait en un", "end": "jour", "others": ["mois", "été"], "prompt": "Quelle ville aimez-vous, ou aimeriez-vous visiter ?"},
+      {"start": "Qui se ressemble", "end": "s’assemble", "others": ["se rencontre", "s’entend"], "prompt": "Qu’aimez-vous faire avec vos amis les plus proches ?"},
+      {"start": "Il ne faut pas mettre la charrue avant les", "end": "bœufs", "others": ["chevaux", "vaches"], "prompt": "Aimez-vous la campagne et la vie à la ferme ?"},
+      {"start": "Une hirondelle ne fait pas le", "end": "printemps", "others": ["beau temps", "bonheur"], "prompt": "Quels sont pour vous les premiers signes du printemps ?"},
+      {"start": "En avril, ne te découvre pas d’un", "end": "fil", "others": ["pull", "pas"], "prompt": "Quel temps aimez-vous au printemps ?"},
+      {"start": "Noël au balcon, Pâques au", "end": "tison", "others": ["jardin", "soleil"], "prompt": "Comment aimez-vous passer les fêtes de fin d’année ?"},
+      {"start": "Les cordonniers sont toujours les plus mal", "end": "chaussés", "others": ["habillés", "servis"], "prompt": "Parlez-moi d’un métier que vous trouvez beau."},
+      {"start": "C’est en forgeant qu’on devient", "end": "forgeron", "others": ["habile", "patient"], "prompt": "Qu’aimez-vous faire de vos mains : cuisiner, coudre, bricoler ?"},
+      {"start": "Qui ne risque rien n’a", "end": "rien", "others": ["tout", "peur"], "prompt": "Aimez-vous les petites aventures, ou plutôt la tranquillité ?"},
+      {"start": "L’union fait la", "end": "force", "others": ["fête", "joie"], "prompt": "Avec qui aimez-vous faire les choses à plusieurs ?"},
+      {"start": "Tel père, tel", "end": "fils", "others": ["frère", "ami"], "prompt": "À qui ressemblez-vous dans votre famille ?"},
+      {"start": "Les chiens ne font pas des", "end": "chats", "others": ["oiseaux", "lapins"], "prompt": "Qu’est-ce qui se transmet dans votre famille, comme une recette ou un talent ?"},
+      {"start": "Il ne faut pas mettre tous ses œufs dans le même", "end": "panier", "others": ["plat", "bol"], "prompt": "Où aimez-vous faire vos courses : au marché, à l’épicerie ?"},
+      {"start": "La parole est d’argent et le silence est", "end": "d’or", "others": ["d’ivoire", "d’azur"], "prompt": "Aimez-vous les moments calmes, ou plutôt les bonnes conversations ?"},
+      {"start": "C’est la goutte d’eau qui fait déborder le", "end": "vase", "others": ["seau", "verre"], "prompt": "Quelles fleurs aimez-vous mettre dans un vase ?"},
+      {"start": "Il n’y a pas de rose sans", "end": "épines", "others": ["parfum", "soleil"], "prompt": "Quelle est votre fleur préférée ?"},
+      {"start": "Après l’effort, le", "end": "réconfort", "others": ["repos", "dessert"], "prompt": "Qu’aimez-vous faire pour vous détendre après une bonne journée ?"},
+      {"start": "La fortune sourit aux", "end": "audacieux", "others": ["voyageurs", "rêveurs"], "prompt": "Qu’est-ce qui vous porte chance, selon vous ?"},
+      {"start": "Il faut tourner sept fois sa langue dans sa bouche avant de", "end": "parler", "others": ["manger", "chanter"], "prompt": "Quel est un bon conseil qu’on vous a donné ?"},
+      {"start": "Tous les chemins mènent à", "end": "Rome", "others": ["Paris", "la mer"], "prompt": "Quel est un endroit où vous aimez aller ?"},
+      {"start": "Aide-toi, le ciel", "end": "t’aidera", "others": ["t’écoutera", "te sourira"], "prompt": "Qui vous donne souvent un coup de main ?"},
+      {"start": "Chose promise, chose", "end": "due", "others": ["faite", "dite"], "prompt": "Qu’est-ce qui fait qu’on peut compter sur quelqu’un ?"},
+      {"start": "Il faut de tout pour faire un", "end": "monde", "others": ["repas", "village"], "prompt": "Qu’est-ce qui rend un quartier agréable à vivre ?"},
+      {"start": "L’avenir appartient à ceux qui se lèvent", "end": "tôt", "others": ["tard", "gaiement"], "prompt": "Êtes-vous plutôt du matin ou du soir ?"},
+      {"start": "Le jeu n’en vaut pas la", "end": "chandelle", "others": ["bougie", "peine"], "prompt": "Aimez-vous les jeux de cartes ou les jeux de société ?"},
+      {"start": "Il faut cultiver son", "end": "jardin", "others": ["potager", "verger"], "prompt": "Qu’aimeriez-vous planter dans un jardin ?"},
+      {"start": "Jamais deux sans", "end": "trois", "others": ["quatre", "cinq"], "prompt": "Avez-vous un chiffre ou un jour de la semaine préféré ?"},
+      {"start": "On ne fait pas d’omelette sans casser des", "end": "œufs", "others": ["assiettes", "noix"], "prompt": "Comment aimez-vous manger les œufs ?"},
+      {"start": "Les paroles s’envolent, les écrits", "end": "restent", "others": ["voyagent", "dorment"], "prompt": "Aimez-vous recevoir des lettres ou des cartes postales ?"},
+      {"start": "Le mieux est l’ennemi du", "end": "bien", "others": ["beau", "bon"], "prompt": "Qu’aimez-vous faire simplement, sans chercher la perfection ?"},
+      {"start": "Vouloir, c’est", "end": "pouvoir", "others": ["choisir", "rêver"], "prompt": "Qu’aimeriez-vous faire cette semaine ?"},
+      {"start": "Pas de nouvelles, bonnes", "end": "nouvelles", "others": ["vacances", "affaires"], "prompt": "Comment aimez-vous prendre des nouvelles de la famille ?"},
+      {"start": "Il ne faut pas réveiller le chat qui", "end": "dort", "others": ["ronronne", "rêve"], "prompt": "Plutôt chats ou plutôt chiens ? Qu’est-ce qui vous plaît chez eux ?"}
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHILMNOPRSTUV",
+      "themes": [
+        {"value": "fruit", "label": "Fruits", "words": ["POMME", "POIRE", "PRUNE", "CITRON", "RAISIN", "MELON", "FRAISE", "CERISE", "FIGUE"]},
+        {"value": "garden", "label": "Jardin", "words": ["ROSE", "TULIPE", "LILAS", "GRAINE", "TERRE", "ARBRE", "HERBE", "PELLE", "BANC"]},
+        {"value": "kitchen", "label": "Cuisine", "words": ["TASSE", "BOL", "PAIN", "FOUR", "PLAT", "VERRE", "NAPPE", "BEURRE", "LAIT"]},
+        {"value": "weather", "label": "Météo", "words": ["SOLEIL", "PLUIE", "NEIGE", "VENT", "NUAGE", "ORAGE", "BRUME", "GIVRE", "CIEL"]},
+        {"value": "animals", "label": "Animaux", "words": ["CHIEN", "CHAT", "OISEAU", "CHEVAL", "VACHE", "CANARD", "POULE", "LAPIN", "MOUTON"]},
+        {"value": "home", "label": "Maison", "words": ["PORTE", "CHAISE", "LAMPE", "LIT", "TAPIS", "TABLE", "BUREAU", "RIDEAU", "MIROIR"]}
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Toutes les cartes",
+        "food": "À table",
+        "home": "Maison",
+        "outdoors": "Plein air",
+        "animals": "Animaux",
+        "travel": "Sorties et voyages",
+        "work": "Travail et loisirs",
+        "music": "Musique et fêtes",
+        "seasons": "Saisons"
+      },
+      "cards": [
+        {"theme": "food", "picture": "bread", "prompt": "Qu’est-ce qui sent le meilleur, pour vous, dans une boulangerie ?"},
+        {"theme": "food", "picture": "cake", "prompt": "Quel gâteau choisiriez-vous pour une fête ?"},
+        {"theme": "food", "picture": "apple", "prompt": "Parlez-moi d’une tarte ou d’un dessert que vous aimez."},
+        {"theme": "food", "picture": "teacup", "prompt": "Comment aimez-vous votre café, ou votre thé ?"},
+        {"theme": "food", "picture": "frying-pan", "prompt": "Qu’est-ce qui fait un bon petit-déjeuner, pour vous ?"},
+        {"theme": "food", "picture": "strawberry", "prompt": "Aimez-vous cueillir des fruits, comme des fraises ou des mûres ?"},
+        {"theme": "food", "picture": "lemon", "prompt": "Sucré ou acidulé : que préférez-vous ?"},
+        {"theme": "food", "picture": "cherries", "prompt": "Quel fruit a pour vous le goût de l’été ?"},
+        {"theme": "home", "picture": "house", "prompt": "Parlez-moi d’une maison où vous avez aimé vivre."},
+        {"theme": "home", "picture": "armchair", "prompt": "Où aimez-vous vous asseoir pour vous détendre ?"},
+        {"theme": "home", "picture": "lamp", "prompt": "Qu’aimez-vous faire pendant une soirée tranquille ?"},
+        {"theme": "home", "picture": "key", "prompt": "Quel petit trésor garderiez-vous dans une jolie boîte ?"},
+        {"theme": "home", "picture": "kettle", "prompt": "Qui aimeriez-vous inviter pour prendre le café ?"},
+        {"theme": "home", "picture": "umbrella", "prompt": "Qu’aimez-vous faire les jours de pluie ?"},
+        {"theme": "outdoors", "picture": "sunflower", "prompt": "Quelles fleurs planteriez-vous dans un jardin ?"},
+        {"theme": "outdoors", "picture": "tree", "prompt": "Parlez-moi d’un arbre ou d’un parc que vous aimez."},
+        {"theme": "outdoors", "picture": "watering-can", "prompt": "Qu’est-ce que vous aimez le plus au jardin ?"},
+        {"theme": "outdoors", "picture": "tulip", "prompt": "Quelle couleur de fleurs préférez-vous ?"},
+        {"theme": "outdoors", "picture": "potted-plant", "prompt": "Aimez-vous avoir des plantes dans la maison ?"},
+        {"theme": "outdoors", "picture": "sun", "prompt": "À quoi ressemble, pour vous, une belle journée ensoleillée ?"},
+        {"theme": "animals", "picture": "dog", "prompt": "Parlez-moi d’un chien que vous avez connu."},
+        {"theme": "animals", "picture": "cat", "prompt": "Plutôt chats, plutôt chiens, ou ni l’un ni l’autre ? Qu’est-ce qui vous plaît chez eux ?"},
+        {"theme": "animals", "picture": "bird", "prompt": "Quels oiseaux voyez-vous ou entendez-vous dehors ?"},
+        {"theme": "animals", "picture": "fish", "prompt": "Aimez-vous la pêche, ou regarder les poissons dans un aquarium ?"},
+        {"theme": "animals", "picture": "butterfly", "prompt": "Quel est le plus bel animal que vous ayez vu ?"},
+        {"theme": "travel", "picture": "car", "prompt": "Parlez-moi d’une voiture que vous avez aimée."},
+        {"theme": "travel", "picture": "sailboat", "prompt": "Une journée à la mer ou à la montagne : que préférez-vous ?"},
+        {"theme": "travel", "picture": "bicycle", "prompt": "Où aimeriez-vous aller faire un tour ?"},
+        {"theme": "travel", "picture": "balloon", "prompt": "Si vous pouviez survoler un endroit, lequel choisiriez-vous ?"},
+        {"theme": "travel", "picture": "lighthouse", "prompt": "Parlez-moi d’un voyage ou de vacances qui vous ont plu."},
+        {"theme": "work", "picture": "key", "prompt": "Quel travail avez-vous aimé faire ?"},
+        {"theme": "work", "picture": "watering-can", "prompt": "Quel passe-temps pourrait vous occuper pendant des heures ?"},
+        {"theme": "work", "picture": "bread", "prompt": "Qu’aimez-vous faire de vos mains : cuisiner, coudre, bricoler ?"},
+        {"theme": "work", "picture": "house", "prompt": "Quel conseil donneriez-vous à un jeune qui commence à travailler ?"},
+        {"theme": "music", "picture": "balloon", "prompt": "Quelle musique vous donne envie de taper du pied ?"},
+        {"theme": "music", "picture": "cake", "prompt": "Qu’est-ce qui fait une belle fête ?"},
+        {"theme": "music", "picture": "lamp", "prompt": "Quel chanteur ou quelle chanteuse aimez-vous écouter ?"},
+        {"theme": "music", "picture": "armchair", "prompt": "Quel film ou quelle émission aimez-vous revoir ?"},
+        {"theme": "music", "picture": "house", "prompt": "Aimez-vous les fêtes de village et les bals ?"},
+        {"theme": "seasons", "picture": "sun", "prompt": "Qu’aimez-vous le plus en été ?"},
+        {"theme": "seasons", "picture": "tree", "prompt": "Qu’est-ce qui vous plaît en automne ?"},
+        {"theme": "seasons", "picture": "moon", "prompt": "Qu’aimez-vous faire, bien au chaud, pendant une soirée d’hiver ?"},
+        {"theme": "seasons", "picture": "tulip", "prompt": "Quelles fleurs vous font penser au printemps ?"},
+        {"theme": "seasons", "picture": "umbrella", "prompt": "Neige, pluie ou soleil : que préférez-vous ?"}
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Fleur en pot",
+          "regions": {
+            "sky": "Fond",
+            "table": "Table",
+            "stem": "Tige",
+            "leaf-left": "Feuille de gauche",
+            "leaf-right": "Feuille de droite",
+            "petal-1": "Pétale 1",
+            "petal-2": "Pétale 2",
+            "petal-3": "Pétale 3",
+            "petal-4": "Pétale 4",
+            "petal-5": "Pétale 5",
+            "petal-6": "Pétale 6",
+            "petal-7": "Pétale 7",
+            "petal-8": "Pétale 8",
+            "center": "Cœur de la fleur",
+            "pot": "Pot",
+            "pot-rim": "Bord du pot"
+          }
+        },
+        "house": {
+          "name": "Maison",
+          "regions": {
+            "sky": "Ciel",
+            "sun": "Soleil",
+            "grass": "Herbe",
+            "chimney": "Cheminée",
+            "walls": "Murs",
+            "roof": "Toit",
+            "door": "Porte",
+            "window-left": "Fenêtre de gauche",
+            "window-right": "Fenêtre de droite",
+            "path": "Allée"
+          }
+        },
+        "teacup": {
+          "name": "Tasse de thé",
+          "regions": {
+            "background": "Fond",
+            "saucer": "Soucoupe",
+            "handle": "Anse",
+            "cup": "Tasse",
+            "band": "Bande sur la tasse",
+            "tea": "Thé"
+          }
+        },
+        "butterfly": {
+          "name": "Papillon",
+          "regions": {
+            "background": "Fond",
+            "wing-top-left": "Aile en haut à gauche",
+            "wing-top-right": "Aile en haut à droite",
+            "wing-bottom-left": "Aile en bas à gauche",
+            "wing-bottom-right": "Aile en bas à droite",
+            "spot-left": "Tache de l’aile gauche",
+            "spot-right": "Tache de l’aile droite",
+            "body": "Corps"
+          }
+        },
+        "sailboat": {
+          "name": "Voilier",
+          "regions": {
+            "sky": "Ciel",
+            "sea": "Mer",
+            "sail-big": "Grande voile",
+            "sail-small": "Petite voile",
+            "mast": "Mât",
+            "hull": "Coque du bateau",
+            "flag": "Drapeau"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Cuisine et jardin",
+          "baskets": ["Dans la cuisine", "Au jardin"]
+        },
+        "fruit-animals": {
+          "label": "Fruits et animaux",
+          "baskets": ["Fruits", "Animaux"]
+        },
+        "home-travel": {
+          "label": "Maison et voyage",
+          "baskets": ["À la maison", "En voyage"]
+        }
+      }
+    }
+  }
+}
