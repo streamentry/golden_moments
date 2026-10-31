@@ -31,6 +31,37 @@ const warnings = [];
 const err = (file, msg) => errors.push(`${file}: ${msg}`);
 const warn = (file, msg) => warnings.push(`${file}: ${msg}`);
 
+// Photo pairs handles family photos, so every language copy must load no
+// analytics and carry the strict second Content-Security-Policy from _headers.
+// _headers rules use :placeholders (one path segment) and * (anything).
+const headerRules = existsSync(join(DIST, '_headers'))
+  ? readFileSync(join(DIST, '_headers'), 'utf8')
+      .split(/\n\s*\n/)
+      .map((block) => block.split('\n').filter((l) => l.trim() && !l.trim().startsWith('#')))
+      .filter((lines) => lines.length && lines[0].startsWith('/'))
+      .map(([route, ...rest]) => ({
+        pattern: new RegExp(`^${route.trim().replace(/[.+?^${}()|[\]\\]/g, '\\$&').replace(/:\w+/g, '[^/]+').replace(/\*/g, '.*')}$`),
+        headers: rest.join('\n'),
+      }))
+  : [];
+const strictPolicy = (urlPath) =>
+  headerRules.some((r) => r.pattern.test(urlPath) && /connect-src 'self';/.test(r.headers) && !/google/.test(r.headers));
+
+// Words a translation must not use for people living with dementia ("patients"):
+// errors where a language has been cleaned, warnings where it has not.
+const PATIENT_WORDS = {
+  ar: { re: /مرضى/, fail: true },
+  vi: { re: /người bệnh|bệnh nhân/, fail: true },
+  th: { re: /ผู้ป่วย/, fail: true },
+  'zh-hans': { re: /患者|病人/, fail: true },
+  'zh-hant': { re: /患者|病人/, fail: false },
+  ja: { re: /患者/, fail: false },
+  ko: { re: /환자/, fail: false },
+  hi: { re: /मरीज/, fail: false },
+  ru: { re: /пациент/i, fail: false },
+  uk: { re: /пацієнт/i, fail: false },
+};
+
 function walk(dir) {
   return readdirSync(dir).flatMap((name) => {
     const p = join(dir, name);
@@ -71,6 +102,7 @@ function text(html) {
 const titles = new Map();
 const descriptions = new Map();
 const indexable = [];
+const noindexed = [];
 
 for (const file of htmlFiles) {
   const rel = relative(DIST, file);
@@ -96,6 +128,18 @@ for (const file of htmlFiles) {
   if (!is404) {
     if (canonical !== `${SITE}${path}`) err(rel, `canonical ${canonical} should be ${SITE}${path}`);
     if (!/noindex/.test(html)) indexable.push(`${SITE}${path}`);
+    else noindexed.push(`${SITE}${path}`);
+    // A page that asks not to be indexed must not advertise language alternates.
+    if (/noindex/.test(html) && /rel="alternate" hreflang=/.test(html)) err(rel, 'noindex page lists hreflang alternates');
+
+    if (/(^|\/)games\/photo-pairs\/$/.test(path)) {
+      if (/googletagmanager\.com\/gtag\/js/.test(html)) err(rel, 'Photo pairs loads Google Analytics');
+      if (!strictPolicy(path)) err(rel, 'Photo pairs has no strict Content-Security-Policy rule in _headers');
+    }
+
+    const prefix = path.match(/^\/([a-z]{2}(?:-[a-z]{2,4})?)\//)?.[1];
+    const patient = prefix && PATIENT_WORDS[prefix];
+    if (patient && patient.re.test(text(html))) (patient.fail ? err : warn)(rel, 'uses "patients" wording for people living with dementia');
   }
 
   const og = html.match(/<meta property="og:image" content="([^"]*)"/)?.[1];
@@ -161,6 +205,10 @@ const sitemap = sitemapFiles.map((f) => readFileSync(f, 'utf8')).join('\n');
 for (const url of indexable) if (!sitemap.includes(`<loc>${url}</loc>`)) err('sitemap', `missing ${url}`);
 const single = existsSync(join(DIST, 'sitemap.xml')) ? readFileSync(join(DIST, 'sitemap.xml'), 'utf8') : '';
 for (const url of indexable) if (!single.includes(`<loc>${url}</loc>`)) err('sitemap.xml', `missing ${url}`);
+for (const url of noindexed) {
+  if (single.includes(`<loc>${url}</loc>`)) err('sitemap.xml', `lists a noindex page: ${url}`);
+  if (sitemap.includes(`<loc>${url}</loc>`)) err('sitemap-0.xml', `lists a noindex page: ${url}`);
+}
 for (const m of single.matchAll(/<loc>([^<]+)<\/loc>/g)) {
   if (!resolves(m[1].replace(SITE, ''))) err('sitemap.xml', `lists a page that does not exist: ${m[1]}`);
 }

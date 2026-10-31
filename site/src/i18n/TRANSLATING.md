@@ -3,7 +3,9 @@
 English (`en.json`, `src/content/guides/`) is the source. Every other language
 is a machine translation published as **unreviewed**: each translated page says
 so and links to the English original. A native speaker can review a language
-later; `docs/specs/release-status.json` tracks that per language.
+later. Reviewed languages are listed in `REVIEWED_LANGUAGES` in
+`src/i18n/locales.ts`; until a language is there, its pages are `noindex` and
+left out of the sitemap, hreflang and `llms.txt`.
 
 ## Files per language (`<code>` as in `locales.ts`)
 
