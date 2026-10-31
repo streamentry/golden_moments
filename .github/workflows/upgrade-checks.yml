@@ -44,7 +44,7 @@ jobs:
       - run: flutter test test/design_system_test.dart --reporter expanded
       - name: Retain resolved dependencies for review
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: resolved-dependencies
           path: pubspec.lock
