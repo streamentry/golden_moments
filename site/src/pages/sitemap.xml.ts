@@ -2,7 +2,7 @@ import type { APIRoute } from 'astro';
 import { SECTIONS } from '../content.config';
 import { GAMES } from '../data/games';
 import { SITE, absoluteUrl } from '../lib/site';
-import { localeInfo, localePath } from '../i18n/locales';
+import { isIndexable, localeInfo, localePath } from '../i18n/locales';
 import { allGuides } from '../i18n/guides';
 import { gameLanguages } from '../i18n/games';
 import { PUBLISHED } from '../i18n/ui';
@@ -71,7 +71,8 @@ export const GET: APIRoute = async () => {
   const body = [
     '<?xml version="1.0" encoding="UTF-8"?>',
     '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">',
-    ...unique.flatMap((e) => e.langs.map((lang) => urlBlock(e, lang))),
+    // Only reviewed languages are listed; machine translations are noindex (see locales.ts).
+    ...unique.map((e) => ({ ...e, langs: e.langs.filter(isIndexable) })).flatMap((e) => e.langs.map((lang) => urlBlock(e, lang))),
     '</urlset>',
     '',
   ].join('\n');

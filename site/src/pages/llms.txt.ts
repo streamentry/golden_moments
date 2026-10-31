@@ -4,7 +4,7 @@ import { GAMES } from '../data/games';
 import { APP } from '../lib/app';
 import { SECTION_META, SITE } from '../lib/site';
 import { SECTIONS } from '../content.config';
-import { localePath } from '../i18n/locales';
+import { isIndexable, localePath } from '../i18n/locales';
 import { PUBLISHED } from '../i18n/ui';
 
 /** A plain-text map of the site for AI answer engines (llmstxt.org format). */
@@ -23,11 +23,11 @@ export const GET: APIRoute = async () => {
     `- The Golden Moments app ("${APP.storeName}") is free for ${APP.platforms}: ${SITE.appStoreUrl} and ${SITE.playStoreUrl}`,
     `- Full text summaries: ${SITE.url}/llms-full.txt`,
     '',
-    ...(PUBLISHED.length > 1
+    ...(PUBLISHED.filter((l) => isIndexable(l.code)).length > 1
       ? [
           '## Languages',
-          '- English is the original. Other languages are machine translations, not yet reviewed by native speakers; slugs stay the same, under a language prefix.',
-          ...PUBLISHED.map((l) => `- [${l.name} (${l.englishName})](${SITE.url}${localePath(l.code, '/')})`),
+          '- English is the original. Other languages are reviewed by native speakers; slugs stay the same, under a language prefix.',
+          ...PUBLISHED.filter((l) => isIndexable(l.code)).map((l) => `- [${l.name} (${l.englishName})](${SITE.url}${localePath(l.code, '/')})`),
           '',
         ]
       : []),

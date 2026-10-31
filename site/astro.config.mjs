@@ -3,6 +3,7 @@ import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
 import { readdirSync, readFileSync } from 'node:fs';
+import { isIndexable, splitLocale } from './src/i18n/locales.ts';
 
 export const SITE_URL = 'https://dementiaactivities.games';
 
@@ -35,7 +36,8 @@ export default defineConfig({
   integrations: [
     react(),
     sitemap({
-      filter: (page) => !page.endsWith('/404/'),
+      // Machine-translated languages are noindex until reviewed, so they are not listed (see src/i18n/locales.ts).
+      filter: (page) => !page.endsWith('/404/') && isIndexable(splitLocale(new URL(page).pathname).code),
       changefreq: 'weekly',
       // Only guides carry a real edit date; other pages get no <lastmod> rather than a made-up one.
       serialize: (item) => {

@@ -7,7 +7,7 @@ import Footer from '../components/Footer.astro';
 import JsonLd from '../components/JsonLd.astro';
 import Analytics from '../components/Analytics.astro';
 import { SITE, absoluteUrl } from '../lib/site';
-import { DEFAULT_LOCALE, localeInfo, localePath, splitLocale } from '../i18n/locales';
+import { DEFAULT_LOCALE, isIndexable, localeInfo, localePath, splitLocale } from '../i18n/locales';
 import { PUBLISHED, ui } from '../i18n/ui';
 
 interface Props {
@@ -43,7 +43,9 @@ const locale = localeInfo(lang);
 const t = ui(lang);
 // Pages declare the languages they exist in; anything else is English only.
 const available = Astro.props.available ?? [DEFAULT_LOCALE];
-const alternates = PUBLISHED.filter((l) => available.includes(l.code));
+// Only reviewed languages are advertised as alternates; machine translations are noindex.
+const alternates = PUBLISHED.filter((l) => available.includes(l.code) && isIndexable(l.code));
+const blockIndexing = noindex || !isIndexable(lang);
 const fullTitle = rawTitle ? title : `${title}${t.common.titleSuffix}`;
 const canonical = absoluteUrl(Astro.url.pathname);
 const ogImage = absoluteUrl(image);
@@ -63,8 +65,8 @@ const altText = imageAlt ?? t.common.defaultImageAlt;
         alternates.map((l) => <link rel="alternate" hreflang={l.bcp47} href={absoluteUrl(localePath(l.code, path))} />)
     }
     {alternates.length > 1 && <link rel="alternate" hreflang="x-default" href={absoluteUrl(path)} />}
-    {noindex && <meta name="robots" content="noindex, follow" />}
-    {!noindex && <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />}
+    {blockIndexing && <meta name="robots" content="noindex, follow" />}
+    {!blockIndexing && <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />}
     <meta name="theme-color" content="#FDF9F0" />
     <meta name="color-scheme" content="only light" />
     <meta name="format-detection" content="telephone=no" />
