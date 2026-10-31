@@ -56,7 +56,7 @@ const _spanish = '''
 
 /// Serves overlays from memory; a missing name fails like a missing asset.
 class _Bundle extends CachingAssetBundle {
-  _Bundle(this.files);
+  new(this.files);
 
   final Map<String, String> files;
   final requested = <String>[];
@@ -189,7 +189,8 @@ void main() {
       (source['categories'] as Map).keys,
       index.categories.map((c) => c.id),
     );
-    expect((source['packs'] as Map).keys, index.packs.map((p) => p.id));
+    final packs = source['packs'] as Map<String, dynamic>;
+    expect(packs.keys, index.packs.map((p) => p.id));
     for (final category in index.categories) {
       expect(text.categoryNameFor(category.id, ''), category.name);
       expect(
@@ -209,12 +210,9 @@ void main() {
       final blank = pack.copyWith(title: '', theme: '');
       expect(text.packTitle(blank), pack.title);
       expect(text.packTheme(blank), pack.theme);
-      expect(
-        (source['packs'] as Map)[pack.id]['description'],
-        pack.description,
-      );
-      final captions =
-          (source['packs'] as Map)[pack.id]['images'] as Map<String, dynamic>;
+      final entry = packs[pack.id] as Map<String, dynamic>;
+      expect(entry['description'], pack.description);
+      final captions = entry['images'] as Map<String, dynamic>;
       expect(captions.keys, pack.images.map((i) => i.id));
       for (final image in pack.images) {
         expect(text.caption(pack.id, image.id, ''), image.caption);
