@@ -80,6 +80,7 @@ is verified, replace guesses with impressions and positions per page.
 | family photo memory game | `/games/photo-pairs/` |
 | large print word search | `/games/word-search/` |
 | do brain games prevent dementia | `/brain-health/brain-games/` |
+| dementia keeps asking to go home, what to say when they want to go home | `/caregiving/asking-to-go-home/` |
 
 Searches that use "patients" are answered in our own words ("people living
 with dementia"), per `site/CONTENT_GUIDE.md`. In October 2026 the US results for
