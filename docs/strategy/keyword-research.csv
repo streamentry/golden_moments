@@ -1,11 +1,11 @@
 keyword,priority,storefront,language,observed_date,source,popularity_metric,popularity_value,organic_rank,relevant_top_apps,review_gap,evidence_url,notes
-dementia activities,P0,US,en,2026-10-31,iTunes Search API (US),,,1,Constant Therapy; My ALZ Journey; Memory Lane Games,,,Top result. Approximates App Store search; Play logged-out search showed #4
-dementia games,P0,US,en,2026-10-31,iTunes Search API (US),,,not in top 14,"Brain-training apps (Impulse, Elevate, Train Your Brain); Memory Lane Games #4-5",,,Play: not in top 10; Oya (500K+ installs) leads
+dementia activities,P0,US,en,2026-10-31,"iTunes Search API (US), scripts/store_scorecard.py, top 50",,,1,"Dementia Games: Golden Moments is #1; next Dementia: Daily Mind Game, Dementia Stages Ability Model",,,Approximates App Store search; Play logged-out search showed #4 on 2026-10-31
+dementia games,P0,US,en,2026-10-31,"iTunes Search API (US), scripts/store_scorecard.py, top 50",,,17,Forget-Me-Not: Dementia App; Train Your Brain; Impulse (all ahead),,,"Earlier check found it outside the top 14; Play: not top 10, Oya (500K+ installs) leads"
 activities for dementia,P0,US,en,,,,,,,,,Not yet measured
-alzheimers activities,P0,US,en,,,,,,,,,Not yet measured
-alzheimers games,P0,US,en,2026-10-31,iTunes Search API (US),,,not in top 14,Brain-training apps; Memory Lane Games #4-5,,,Avoid competing on brain-training wording
+alzheimers activities,P0,US,en,2026-10-31,"iTunes Search API (US), scripts/store_scorecard.py, top 50",,,4,Constant Therapy; My ALZ Journey; The Memoryboard (all ahead),,,First reading
+alzheimers games,P0,US,en,2026-10-31,"iTunes Search API (US), scripts/store_scorecard.py, top 50",,,not in top 50,Impulse; Train Your Brain; Elevate (brain training),,,Avoid competing on brain-training wording
 reminiscence activities,P1,US,en,,,,,,,,,Not yet measured
-reminiscence dementia,P1,US,en,2026-10-31,iTunes Search API (US),,,2,Memory Lane Games (#1),,,Approximates App Store search
+reminiscence dementia,P1,US,en,2026-10-31,"iTunes Search API (US), scripts/store_scorecard.py, top 50",,,2,Memory Lane Games (#1); The InspireD Reminiscence App is third,,,Approximates App Store search
 photo memory game,P1,US,en,,,,,,,,,Not yet measured
 family photo games,P1,US,en,,,,,,,,,Not yet measured
 memory games for seniors,P2,US,en,,,,,,,,,Not yet measured

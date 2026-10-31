@@ -11,7 +11,7 @@ proxy for the real measure. Nothing here is device evidence or approval.
 | Live iOS version | 1.4.1, 1.5.0+9 candidate | **1.5.0 released 2026-10-30 19:35 UTC**, READY_FOR_SALE | `docs/release/app-store-1.5.0-build9.md`, App Store lookup |
 | Play | Not live | A public listing exists: **10+ installs**, 4.7 with a count too small to show, serving 1.4.0; version code 9 committed to production, approval not confirmed | Play listing, logged out; release record |
 | Ratings | None shown | iOS 0 | App Store listing |
-| App Store search | Unmeasured | **#1 "dementia activities"**, #2 "reminiscence dementia", not in the top 14 for "dementia games" or "alzheimers games" | iTunes Search API (approximates App Store search); `docs/strategy/keyword-research.csv` |
+| App Store search | Unmeasured | **#1 "dementia activities"**, #2 "reminiscence dementia", #4 "alzheimers activities", #17 "dementia games", not in the top 50 for "alzheimers games" | `scripts/store_scorecard.py` (iTunes Search API, top 50; approximates App Store search); `docs/strategy/keyword-research.csv` |
 | Play search | Unmeasured | #4 "dementia activities"; not top 10 "dementia games" (Oya, 500K+ installs, leads) | Logged-out Play search |
 | Website indexing | Search Console pending | Only the homepage appeared in Bing's index; not top 10 for any tested query; Search Console and Bing Webmaster Tools unverified | DuckDuckGo/Bing results |
 | Website measurement | GA4 page views | Unchanged until #104 adds activity events | `site/src/components/Analytics.astro` |
