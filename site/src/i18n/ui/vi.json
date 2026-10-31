@@ -1,0 +1,532 @@
+{
+  "common": {
+    "skipLink": "Chuyển đến nội dung chính",
+    "brandName": "Golden Moments",
+    "brandTag": "Hoạt động cho người sa sút trí tuệ",
+    "homeLabel": "Trang chủ Golden Moments",
+    "mainNav": "Điều hướng chính",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: hình ảnh lớn, thân thuộc về một tách trà, một bông hoa hướng dương và một chú chó",
+    "languages": "Ngôn ngữ",
+    "englishOnly": "(tiếng Anh)",
+    "machineTranslated": "Trang này được dịch tự động và chưa được người bản ngữ kiểm tra.",
+    "readOriginal": "Đọc bản gốc tiếng Anh",
+    "nav": {
+      "games": "Trò chơi",
+      "activities": "Hoạt động",
+      "caregiving": "Chăm sóc",
+      "brainHealth": "Sức khỏe não bộ"
+    },
+    "faqTitle": "Hỏi và đáp",
+    "breadcrumb": "Đường dẫn trang",
+    "home": "Trang chủ",
+    "lastUpdated": "Cập nhật lần cuối",
+    "topics": "Chủ đề"
+  },
+  "footer": {
+    "play": "Chơi",
+    "picturePairs": "Ghép đôi hình",
+    "conversationCards": "Thẻ trò chuyện",
+    "pictureBingo": "Lô tô hình ảnh",
+    "allGames": "Tất cả trò chơi",
+    "activityIdeas": "Ý tưởng hoạt động",
+    "ideas101": "101 ý tưởng hoạt động",
+    "lateStage": "Hoạt động cho giai đoạn muộn",
+    "printable": "Hoạt động in ra giấy",
+    "allActivities": "Tất cả hoạt động",
+    "forCaregivers": "Dành cho người chăm sóc",
+    "playTogether": "Cách chơi cùng nhau",
+    "selfCare": "Chăm sóc chính mình",
+    "brainHealth": "Nghiên cứu về sức khỏe não bộ",
+    "faq": "Hỏi và đáp",
+    "about": "Giới thiệu",
+    "approach": "Cách chúng tôi làm",
+    "howWeWrite": "Cách chúng tôi viết bài",
+    "organizations": "Dành cho tổ chức",
+    "app": "Ứng dụng Golden Moments",
+    "appHelp": "Hướng dẫn dùng ứng dụng",
+    "support": "Hỗ trợ",
+    "legal": "Pháp lý",
+    "sitePrivacy": "Quyền riêng tư của trang web",
+    "appPrivacy": "Chính sách quyền riêng tư của ứng dụng",
+    "privacyChoices": "Lựa chọn về quyền riêng tư",
+    "terms": "Điều khoản và giấy phép ứng dụng",
+    "safety": "An toàn và mục đích sử dụng",
+    "accessibility": "Hỗ trợ tiếp cận",
+    "healthNotice": "Lưu ý về thông tin sức khỏe",
+    "allLegal": "Tất cả thông tin pháp lý",
+    "note": "Golden Moments mang đến những hoạt động đơn giản để cùng nhau vui vẻ. Đây không phải lời khuyên y tế, bài kiểm tra hay cách điều trị, và không chẩn đoán, đo lường hay chấm điểm bất kỳ ai. Nếu có thắc mắc về sức khỏe, hãy hỏi ý kiến bác sĩ. Trong trường hợp khẩn cấp, hãy gọi 115.",
+    "publisher": "Phát hành bởi Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Trò chơi, hoạt động cho người sa sút trí tuệ | Golden Moments",
+    "description": "Trò chơi hình ảnh miễn phí, nhẹ nhàng và ý tưởng hoạt động cho người sa sút trí tuệ, bệnh Alzheimer và người chăm sóc. Không đăng ký, hẹn giờ hay điểm số.",
+    "eyebrow": "Miễn phí · Không cần đăng ký · Không hẹn giờ, không điểm số",
+    "h1": "Trò chơi và hoạt động nhẹ nhàng cho người sa sút trí tuệ",
+    "lede": "Trò chơi hình ảnh đơn giản, những tấm ảnh thân quen và các hoạt động để cùng nhau tận hưởng, theo nhịp độ của riêng bạn.",
+    "playGame": "Chơi một trò chơi",
+    "findIdeas": "Tìm ý tưởng hoạt động",
+    "facts": [
+      "Dùng được trên điện thoại, máy tính bảng và máy tính",
+      "Hình ảnh lớn, luôn hiện rõ",
+      "Dừng lúc nào cũng được; không có gì là sai"
+    ],
+    "albumNote": "“Hai hình tách trà, đã thành một đôi.”",
+    "gamesEyebrow": "Chơi ngay trên trình duyệt",
+    "gamesTitle": "Những trò chơi bạn có thể chơi ngay",
+    "gamesLede": "Trò nào cũng nhẹ nhàng, phù hợp với người lớn và bắt đầu rất nhanh. Chọn một trò, ngồi cạnh nhau và lần lượt chạm.",
+    "seeAllGames": "Xem cả {count} trò chơi",
+    "howTitle": "Cách chơi",
+    "steps": [
+      {
+        "title": "Chọn điều gì đó thân quen",
+        "text": "Hình tách trà, khu vườn, thú cưng và thuyền buồm. Không cần đọc chữ hay học luật chơi trước."
+      },
+      {
+        "title": "Ngồi cạnh nhau",
+        "text": "Để người thân tự chạm. Cùng trò chuyện về các hình ảnh. Chọn chưa đúng thì trò chơi chỉ đơn giản chờ lần chạm tiếp theo."
+      },
+      {
+        "title": "Dừng lại khi vẫn còn vui",
+        "text": "Một ván đã là một hoạt động trọn vẹn. Nút “Tạm nghỉ thôi” luôn có trên màn hình."
+      }
+    ],
+    "stageEyebrow": "Ngoài màn hình",
+    "stageTitle": "Ý tưởng hoạt động cho mọi giai đoạn",
+    "stageLede": "Âm nhạc, việc nhà quen thuộc, ôn lại kỷ niệm và những phút giây êm dịu cho các giác quan, điều chỉnh theo những gì người thân thấy thoải mái lúc này.",
+    "ideas101": "101 ý tưởng hoạt động",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Giai đoạn đầu",
+        "text": "Tiếp tục làm những việc người thân yêu thích, chỉ cần điều chỉnh một chút: sở thích, đi chơi, trò chơi chữ và cùng nhau lên kế hoạch.",
+        "label": "Ý tưởng cho giai đoạn đầu"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Giai đoạn giữa",
+        "text": "Những việc đơn giản, quen thuộc, chia thành từng bước nhỏ: gấp đồ, phân loại, âm nhạc, trò chơi hình ảnh và đi dạo ngắn.",
+        "label": "Ý tưởng cho giai đoạn giữa"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Giai đoạn muộn",
+        "text": "Sự dễ chịu và gắn kết qua xúc chạm, âm thanh và hình ảnh: chăm sóc đôi tay, những bài hát yêu thích, ảnh cũ và đơn giản là ở bên nhau.",
+        "label": "Ý tưởng cho giai đoạn muộn"
+      }
+    ],
+    "specificHtml": "Bạn đang tìm điều gì cụ thể? Hãy thử <a href=\"/activities/alzheimers/\">hoạt động và trò chơi cho người bệnh Alzheimer</a>, <a href=\"/activities/memory-games/\">trò chơi trí nhớ nhẹ nhàng</a>, <a href=\"/activities/trivia/\">câu đố dễ</a> hoặc <a href=\"/activities/puzzles/\">trò ghép hình</a>.",
+    "approachEyebrow": "Cách chúng tôi làm",
+    "approachTitle": "Một hoạt động chung, không phải bài kiểm tra trí nhớ",
+    "approachLede": "Nhiều “trò chơi rèn trí não” được xây dựng quanh tốc độ, điểm số và chuỗi ngày chơi liên tục. Với người sống chung với sa sút trí tuệ, điều đó có thể giống như một kỳ thi. Chúng tôi làm điều ngược lại.",
+    "approachLink": "Vì sao chúng tôi thiết kế như vậy",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Không có gì là sai",
+        "text": "Không đồng hồ, không điểm số, không mất lượt, không thua. Một hình khác chỉ là lúc dừng lại, không phải lỗi."
+      },
+      {
+        "icon": "eye",
+        "title": "Hình ảnh luôn hiện rõ",
+        "text": "Nhận ra thay vì phải nhớ lại. Trò ghép đôi bắt đầu với hình ngửa lên, nên không có gì phải ghi nhớ."
+      },
+      {
+        "icon": "people",
+        "title": "Tôn trọng người lớn tuổi",
+        "text": "Lời lẽ ấm áp, giản dị và hình ảnh đời thực. Không bao giờ dùng hoạt hình hay giọng nói chuyện với trẻ con."
+      },
+      {
+        "icon": "shield",
+        "title": "Riêng tư ngay từ thiết kế",
+        "text": "Không tài khoản, không quảng cáo. Ảnh của bạn không bao giờ rời khỏi thiết bị."
+      }
+    ],
+    "guidesEyebrow": "Dành cho người chăm sóc",
+    "guidesTitle": "Hướng dẫn thiết thực cho việc chăm sóc hằng ngày",
+    "allCaregiving": "Tất cả hướng dẫn chăm sóc",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Cách cùng nhau chơi trò chơi",
+        "text": "Chuẩn bị, giữ nhịp độ và nên làm gì khi trò chơi không còn vui nữa."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Khi người thân từ chối một hoạt động",
+        "text": "Những lý do thường gặp khiến người thân từ chối, và cách nhẹ nhàng để thử lại sau."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Cài đặt máy tính bảng",
+        "text": "Chữ lớn hơn, ít bị làm phiền hơn và một màn hình chính đơn giản."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Hoạt động in ra giấy miễn phí",
+        "text": "Tìm từ chữ to, tranh tô màu, lô tô và thẻ trò chuyện."
+      }
+    ],
+    "researchTitle": "Sức khỏe não bộ: nghiên cứu thực sự nói gì",
+    "researchText": "Có thể phòng ngừa sa sút trí tuệ không? Trò chơi rèn trí não có giúp ích không? Còn nhịn ăn, chế độ ăn, giấc ngủ và thính lực thì sao? Câu trả lời dễ hiểu, có dẫn nguồn, kể cả những chỗ bằng chứng còn yếu.",
+    "researchLink": "Đọc các bài về nghiên cứu",
+    "appEyebrow": "Có cả ứng dụng",
+    "appTitle": "Golden Moments trên iPhone, iPad và Android",
+    "appText": "Ứng dụng miễn phí dùng được khi không có mạng và có thể dùng những ảnh gia đình bạn chọn, lưu thành bản sao trên thiết bị của bạn. Vẫn thiết kế êm dịu ấy: bốn ô hình lớn, không hẹn giờ, không điểm số.",
+    "aboutApp": "Về ứng dụng",
+    "faq": [
+      {
+        "q": "Những trò chơi nào phù hợp với người sa sút trí tuệ?",
+        "a": "Trò chơi phù hợp là trò đơn giản, quen thuộc và không gây áp lực: ghép đôi hình ảnh lớn, phân loại, ghép tranh dễ, nói tiếp câu tục ngữ quen thuộc, tô màu, lô tô hình ảnh và thẻ trò chuyện. Lựa chọn tốt nhất là trò mà người thân thấy vui hôm nay. Tránh hẹn giờ, điểm số và bất cứ điều gì giống như bài kiểm tra."
+      },
+      {
+        "q": "Những trò chơi cho người sa sút trí tuệ này có miễn phí không?",
+        "a": "Có. Mọi trò chơi và tài liệu in trên Golden Moments đều miễn phí, không cần tài khoản, đăng ký hay tải về. Các trò chơi chạy trên trình duyệt web của điện thoại, máy tính bảng hoặc máy tính."
+      },
+      {
+        "q": "Trò chơi rèn trí não có phòng ngừa được sa sút trí tuệ không?",
+        "a": "Chưa có trò chơi nào được chứng minh là phòng ngừa được sa sút trí tuệ, và Golden Moments không tuyên bố điều trị hay phòng ngừa bất cứ điều gì. Trò chơi của chúng tôi là để vui và có thời gian bên nhau. Mục sức khỏe não bộ của chúng tôi giải thích những gì nghiên cứu cho thấy và chưa cho thấy."
+      },
+      {
+        "q": "Các trò chơi này có phù hợp với người bệnh Alzheimer không?",
+        "a": "Có. Bệnh Alzheimer là nguyên nhân phổ biến nhất gây sa sút trí tuệ, và các trò chơi được làm ra chính cho điều đó: hình ảnh lớn luôn hiện rõ, ít lựa chọn, không có gì phải nhớ hay có thể làm sai. Ghép đôi, phân loại và nói tiếp câu tục ngữ quen thuộc dựa vào những hiểu biết đã có từ lâu, chứ không đòi hỏi học điều mới."
+      },
+      {
+        "q": "Người sa sút trí tuệ ở giai đoạn muộn có dùng được các hoạt động này không?",
+        "a": "Thường là được, khi có người ngồi bên cạnh. Hãy bắt đầu với Tìm hình giống chỉ với hai hình, Ghép đôi hình với bốn ô, một trang tô màu hoặc một lúc hít thở thư thái. Giữ thời gian ngắn, để người thân dẫn dắt và dừng lại khi họ đã đủ."
+      },
+      {
+        "q": "Thông tin của tôi có được giữ riêng tư không?",
+        "a": "Trang web không có tài khoản và không có quảng cáo. Chúng tôi dùng Google Analytics để biết những trang nào được truy cập. Ảnh bạn chọn cho Ghép đôi ảnh chỉ hiển thị trong trình duyệt của bạn và không bao giờ được tải lên."
+      },
+      {
+        "q": "Ai làm ra Golden Moments?",
+        "a": "Golden Moments là một nhóm nhỏ làm những hoạt động hình ảnh êm dịu, phù hợp với người lớn, dành cho gia đình và người chăm sóc, trên web và dưới dạng ứng dụng miễn phí. Chúng tôi không phải là nhân viên y tế, và không nội dung nào ở đây là lời khuyên y tế."
+      }
+    ]
+  },
+  "stage": {
+    "early": "đầu",
+    "middle": "giữa",
+    "late": "muộn",
+    "hintOne": "Thường hợp với giai đoạn {list}",
+    "hintMany": "Thường hợp với các giai đoạn {list}",
+    "labelEarly": "Giai đoạn đầu",
+    "labelMiddle": "Giai đoạn giữa",
+    "labelLate": "Giai đoạn muộn"
+  },
+  "cards": {
+    "aboutGame": "Về trò chơi này",
+    "printable": "Có thể in",
+    "play": "Chơi {name} →",
+    "readGuide": "Đọc hướng dẫn"
+  },
+  "playCta": {
+    "title": "Sẵn sàng cho một trò chơi nhẹ nhàng?",
+    "text": "Hình ảnh lớn, không hẹn giờ, không điểm số và không cần đăng ký. Cùng nhau chơi ngay trên trình duyệt.",
+    "play": "Chơi một trò chơi",
+    "all": "Xem tất cả trò chơi",
+    "aria": "Chơi một trò chơi"
+  },
+  "appCta": {
+    "title": "Mang những trò chơi này theo bên mình",
+    "text": "Ứng dụng Golden Moments miễn phí cho iPhone, iPad và Android: ô hình lớn, trò chơi với chính ảnh gia đình bạn, và các bộ hình dùng được không cần Wi‑Fi. Không tài khoản, quảng cáo, hẹn giờ hay điểm số.",
+    "appStore": "Tải về trên App Store",
+    "googlePlay": "Tải về trên Google Play",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Về ứng dụng",
+    "aria": "Tải ứng dụng"
+  },
+  "sections": {
+    "activities": {
+      "label": "Hoạt động",
+      "title": "Hoạt động cho người sa sút trí tuệ",
+      "seo": "Hoạt động cho người sa sút trí tuệ theo từng giai đoạn",
+      "description": "Ý tưởng hoạt động cho người sống chung với sa sút trí tuệ ở mọi giai đoạn: âm nhạc, ôn kỷ niệm, việc nhà, giác quan, thủ công, ngoài trời và tài liệu in miễn phí.",
+      "lede": "Một hoạt động ý nghĩa là bất cứ điều gì mang lại sự dễ chịu, cảm giác có ích hay một khoảnh khắc gắn kết. Hãy bắt đầu từ những gì người thân vẫn luôn yêu thích, rồi điều chỉnh cho phù hợp với hôm nay."
+    },
+    "caregiving": {
+      "label": "Chăm sóc",
+      "title": "Hướng dẫn chăm sóc",
+      "seo": "Chăm sóc người sa sút trí tuệ: hướng dẫn hằng ngày",
+      "description": "Hướng dẫn thiết thực cho người chăm sóc người sa sút trí tuệ: chơi cùng nhau, giao tiếp, khi bị từ chối, bồn chồn chiều tối, máy tính bảng và tự chăm sóc.",
+      "lede": "Những gợi ý dễ hiểu, thiết thực cho từng khoảnh khắc thường ngày khi chăm sóc người sống chung với sa sút trí tuệ, kể cả việc chăm sóc chính mình."
+    },
+    "brain-health": {
+      "label": "Sức khỏe não bộ",
+      "title": "Sức khỏe não bộ: nghiên cứu nói gì",
+      "seo": "Sức khỏe não bộ và nguy cơ sa sút trí tuệ: nghiên cứu nói gì",
+      "description": "Có thể phòng ngừa sa sút trí tuệ không? Bài viết có dẫn nguồn về yếu tố nguy cơ, trò chơi trí não, nhịn ăn, ăn uống, vận động, giấc ngủ, thính lực và dấu hiệu sớm.",
+      "lede": "Những nghiên cứu lớn thực sự cho thấy gì về việc giảm nguy cơ sa sút trí tuệ, được giải thích dễ hiểu, kể cả những chỗ bằng chứng còn yếu hoặc chưa thống nhất. Thông tin chung, không phải lời khuyên y tế."
+    }
+  },
+  "guide": {
+    "updated": "Cập nhật",
+    "minuteRead": "{n} phút đọc",
+    "byTeam": "Nhóm Golden Moments biên soạn",
+    "howWeWrite": "Cách chúng tôi viết bài",
+    "shortAnswer": "Trả lời ngắn gọn",
+    "onThisPage": "Trên trang này ({n} mục)",
+    "commonQuestions": "Câu hỏi thường gặp",
+    "sources": "Nguồn tham khảo",
+    "sourcesNote": "Chúng tôi dẫn liên kết đến các tổ chức và nghiên cứu mà trang này dựa vào. Mỗi nguồn đã được kiểm tra khi trang được cập nhật.",
+    "tryTogether": "Cùng thử",
+    "relatedGuides": "Hướng dẫn liên quan",
+    "related": "Liên quan",
+    "startHere": "Bắt đầu từ đây"
+  },
+  "healthNotice": {
+    "aria": "Lưu ý về thông tin sức khỏe",
+    "title": "Thông tin chung, không phải lời khuyên y tế",
+    "textHtml": "Trang này tóm tắt các nghiên cứu đã công bố dành cho gia đình. Trang không thể cho bạn biết điều gì phù hợp với một người cụ thể. Hãy hỏi ý kiến bác sĩ trước khi thay đổi chế độ ăn, vận động, giấc ngủ, thuốc hay thực phẩm bổ sung. Nếu người thân đột ngột lơ mơ, mất phương hướng hoặc có thay đổi đột ngột khác, hãy tìm trợ giúp y tế ngay. <a href=\"/medical-disclaimer/\">Đọc lưu ý về thông tin sức khỏe của chúng tôi</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Một hoạt động chung, không phải bài kiểm tra trí nhớ",
+      "seoTitle": "Về Golden Moments: cách chúng tôi làm",
+      "description": "Vì sao trò chơi Golden Moments không có hẹn giờ, điểm số hay chuỗi ngày chơi, vì sao hình ảnh luôn hiện rõ, và chúng tôi sẽ và sẽ không tuyên bố gì về sa sút trí tuệ.",
+      "crumb": "Cách chúng tôi làm",
+      "lede": "Golden Moments làm những hoạt động hình ảnh êm dịu, phù hợp với người lớn, để người chăm sóc và người sống chung với sa sút trí tuệ có thể cùng ngồi bên nhau tận hưởng.",
+      "bodyHtml": "<h2>Điều chúng tôi tin</h2><p>Ý nghĩa của một hoạt động nằm ở chính khoảnh khắc đó: một cuộc trò chuyện, một nụ cười, niềm vui khi ghép được hai hình với nhau, hay đơn giản là ngồi gần nhau. Mục đích không phải là đo lường ai, thúc ép họ cố gắng hơn hay chứng minh điều gì.</p><p>Nhiều ứng dụng rèn trí não được thiết kế quanh tốc độ, điểm số, chuỗi ngày chơi và cấp độ. Với người sống chung với sa sút trí tuệ, điều đó có thể giống như một kỳ thi họ không thể vượt qua. Chúng tôi thiết kế điều ngược lại, và tự đặt cho mình những nguyên tắc sau:</p><ul><li><strong>Không có gì là sai.</strong> Không đồng hồ, điểm số, bộ đếm lượt, mạng chơi, chuỗi ngày, pháo giấy hay đếm ngược, trên bất kỳ màn hình nào.</li><li><strong>Nhận ra thay vì phải nhớ lại.</strong> Hình ảnh luôn hiện rõ theo mặc định. Các gợi ý mời trò chuyện và không bao giờ hỏi đố tên hay kỷ niệm.</li><li><strong>To, rõ và ổn định.</strong> Chữ và hình lớn, độ tương phản cao, các nút luôn ở cùng một chỗ.</li><li><strong>Tôn trọng người lớn tuổi.</strong> Hình ảnh đời thực, lời lẽ giản dị và ấm áp. Không hoạt hình, không khen kiểu dỗ trẻ, không phần thưởng bằng biểu tượng cảm xúc.</li><li><strong>Dễ dàng dừng lại.</strong> Nút “Tạm nghỉ thôi” luôn hiện rõ. Dừng giữa chừng cũng là một kết thúc tốt.</li><li><strong>Riêng tư theo mặc định.</strong> Không tài khoản, không quảng cáo. Ảnh bạn chọn được giữ trên thiết bị của bạn.</li></ul><h2>Điều chúng tôi không tuyên bố</h2><p>Trò chơi của chúng tôi là để vui và gắn kết. Chúng không chẩn đoán, kiểm tra, đo lường, điều trị, làm chậm hay phòng ngừa sa sút trí tuệ hoặc bệnh Alzheimer, và không ai nên chọn chúng vì lý do đó. Khi viết về nghiên cứu trên các <a href=\"/brain-health/\">trang sức khỏe não bộ</a>, chúng tôi nói rõ những chỗ bằng chứng còn yếu, và không bao giờ gắn nghiên cứu với trò chơi của chính mình.</p><h2>Chúng tôi là ai</h2><p>Golden Moments là một nhóm nhỏ độc lập. Chúng tôi không phải là nhân viên y tế. Các bài hướng dẫn được viết dựa trên khuyến nghị đã công bố của những tổ chức như National Institute on Aging và Alzheimer’s Association, và bài nào cũng liệt kê nguồn tham khảo. Đọc thêm <a href=\"/editorial-policy/\">cách chúng tôi viết và kiểm tra các trang</a>.</p><h2>Hãy cho chúng tôi biết điều gì có ích</h2><p>Chúng tôi rất muốn nghe điều gì hiệu quả và điều gì chưa với bạn, nhất là từ người sống chung với sa sút trí tuệ, người chăm sóc trong gia đình và nhân viên tổ chức hoạt động. Gửi email đến <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Cách chúng tôi viết và kiểm tra các trang",
+      "seoTitle": "Chính sách biên tập",
+      "description": "Cách Golden Moments tìm hiểu, viết, dẫn nguồn và cập nhật các trang về hoạt động cho người sa sút trí tuệ và sức khỏe não bộ, và những gì chúng tôi không bao giờ đăng.",
+      "crumb": "Chính sách biên tập",
+      "bodyHtml": "<h2>Nguồn của chúng tôi</h2><p>Các bài hướng dẫn dựa trên khuyến nghị công khai của những tổ chức như National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance và NHS, cùng các nghiên cứu đã được bình duyệt như tổng quan Cochrane và các thử nghiệm lâm sàng lớn. Bài nào cũng liệt kê nguồn mà bài dựa vào. Chúng tôi mở đọc từng nguồn trước khi trích dẫn, và chỉ nêu những gì nguồn đó thực sự nói.</p><h2>Cách chúng tôi viết</h2><ul><li>Thiết thực trước tiên: hôm nay nên làm gì, bằng lời lẽ dễ hiểu.</li><li>Trung thực về bằng chứng: chúng tôi nói “có liên quan đến”, “có thể” và “bằng chứng chưa thống nhất” khi sự thật là như vậy.</li><li>Tôn trọng: chúng tôi viết về người sống chung với sa sút trí tuệ như những người trưởng thành, và không bao giờ dùng lời lẽ hỏi đố hay làm người khác xấu hổ.</li><li>Không bịa đặt: không số liệu, trích dẫn, chuyên gia, nghiên cứu, đánh giá hay lời chứng thực tự dựng lên.</li></ul><h2>Ai xem lại các trang</h2><p>Các trang do nhóm Golden Moments viết và kiểm tra, có dùng công cụ viết bằng AI để hỗ trợ tìm hiểu và soạn bản nháp. Mỗi trang đều được nhóm đối chiếu với nguồn. Các trang của chúng tôi <strong>chưa</strong> được bác sĩ hay nhân viên y tế nào xem lại, và chúng tôi không nói khác đi. Đây là thông tin chung, không phải lời khuyên y tế.</p><h2>Những gì chúng tôi không bao giờ đăng</h2><ul><li>Tuyên bố rằng một trò chơi, món ăn, thực phẩm bổ sung, cách nhịn ăn hay thói quen nào đó phòng ngừa, điều trị, làm chậm hoặc chữa khỏi sa sút trí tuệ.</li><li>Bài kiểm tra, câu đố hay điểm số ngụ ý rằng ai đó mắc hoặc không mắc sa sút trí tuệ.</li><li>Lời khuyên bắt đầu, ngừng hay thay đổi bất kỳ loại thuốc nào.</li><li>Quảng cáo hay nội dung được tài trợ trá hình thành lời khuyên.</li></ul><h2>Cập nhật và đính chính</h2><p>Mỗi trang đều ghi ngày cập nhật gần nhất. Nếu bạn thấy lỗi hoặc một nguồn đã lỗi thời, vui lòng gửi email đến <a href=\"mailto:{email}\">{email}</a>, chúng tôi sẽ kiểm tra ngay.</p>"
+    },
+    "faq": {
+      "title": "Hỏi và đáp",
+      "seoTitle": "Trò chơi và hoạt động cho người sa sút trí tuệ: Hỏi đáp",
+      "description": "Giải đáp thắc mắc về trò chơi và hoạt động cho người sa sút trí tuệ: nên thử trò nào, chơi bao lâu, giai đoạn muộn, sức khỏe não bộ và quyền riêng tư.",
+      "crumb": "Hỏi và đáp",
+      "lede": "Câu trả lời ngắn gọn, dễ hiểu cho những câu hỏi người chăm sóc hay hỏi nhất.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Về các trò chơi",
+          "items": [
+            {
+              "q": "Những trò chơi nào tốt nhất cho người sa sút trí tuệ?",
+              "a": "Trò chơi tốt nhất là trò quen thuộc, đơn giản và không gây áp lực, và trò phù hợp là bất cứ trò nào người thân thấy vui hôm nay. Ghép đôi với hình luôn hiện rõ, phân loại, ghép tranh dễ, nói tiếp câu tục ngữ quen thuộc, tô màu và lô tô hình ảnh đều hợp với nhiều người. Tránh hẹn giờ, điểm số và bất cứ điều gì giống như bài kiểm tra."
+            },
+            {
+              "q": "Các trò chơi có thật sự miễn phí không?",
+              "a": "Có. Mọi trò chơi và tài liệu in đều miễn phí, không cần tài khoản, đăng ký, tải về và không có quảng cáo."
+            },
+            {
+              "q": "Vì sao không có điểm số, cấp độ hay hẹn giờ?",
+              "a": "Tốc độ và điểm số biến một hoạt động dễ chịu thành một kỳ thi, có thể khiến người chơi ngại ngùng hoặc bực bội. Chúng tôi tập trung vào niềm vui và thời gian bên nhau, nên không có gì là sai và bạn có thể dừng bất cứ lúc nào."
+            },
+            {
+              "q": "Thiết bị nào dùng tốt nhất?",
+              "a": "Bất kỳ điện thoại, máy tính bảng hay máy tính nào có trình duyệt web hiện đại. Máy tính bảng đặt trên giá trên bàn thường là cách thoải mái nhất để hai người ngồi cạnh nhau cùng chơi. Máy tính xách tay nối với TV rất hợp khi chơi theo nhóm."
+            },
+            {
+              "q": "Chúng tôi có thể chơi với ảnh gia đình mình không?",
+              "a": "Có. Ghép đôi ảnh biến 2 đến 6 tấm ảnh bạn chọn thành một trò ghép đôi. Ảnh chỉ ở trong trình duyệt của bạn, không được tải lên hay lưu lại."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Hoạt động và chăm sóc",
+          "items": [
+            {
+              "q": "Một hoạt động nên kéo dài bao lâu?",
+              "a": "Thường thì 10 đến 20 phút là đủ, và đôi khi 2 phút đã là thành công. Để ý dấu hiệu mệt mỏi hoặc bực bội và dừng lại khi vẫn còn vui. Không có khoảng thời gian nào là đúng cả."
+            },
+            {
+              "q": "Nếu người thân không muốn tham gia hoạt động thì sao?",
+              "a": "Hãy tôn trọng lời từ chối, và thử lại sau hoặc theo một cách khác. Việc từ chối có thể do mệt, đau, cảm thấy không chắc chắn hoặc đơn giản là không hứng thú. Xem hướng dẫn của chúng tôi về những điều nên làm khi người thân nói không."
+            },
+            {
+              "q": "Hoạt động nào hợp với giai đoạn muộn của sa sút trí tuệ?",
+              "a": "Những hoạt động mang lại dễ chịu và chạm đến các giác quan: nghe nhạc yêu thích, xoa bóp tay với kem dưỡng, cùng xem ảnh, ôm một tấm chăn mềm, ngồi ngoài trời, hoặc một trò chơi hình ảnh thật đơn giản với người ngồi bên cạnh. Hướng dẫn cho giai đoạn muộn của chúng tôi có thêm nhiều ý tưởng."
+            },
+            {
+              "q": "Có hoạt động cho nhóm ở viện dưỡng lão không?",
+              "a": "Có. Lô tô hình ảnh có phiếu in ra và người xướng hình trên màn hình, còn Nói tiếp câu tục ngữ và Thẻ trò chuyện rất hợp để đọc to lên. Hướng dẫn hoạt động nhóm ở viện dưỡng lão của chúng tôi nói về số người trong nhóm, cách xếp chỗ ngồi và cách điều chỉnh khi khả năng mỗi người khác nhau."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Sức khỏe não bộ",
+          "items": [
+            {
+              "q": "Trò chơi có thể phòng ngừa hoặc làm chậm sa sút trí tuệ không?",
+              "a": "Chưa có trò chơi nào được chứng minh là phòng ngừa được sa sút trí tuệ, và trò chơi của chúng tôi không tuyên bố như vậy. Trong nghiên cứu, hoạt động kích thích nhận thức trong môi trường xã hội cho thấy lợi ích nhỏ với người sa sút trí tuệ mức độ nhẹ đến vừa, nhưng điều đó khác với việc một trò chơi phòng ngừa bệnh. Chúng tôi làm trò chơi để vui và gắn kết."
+            },
+            {
+              "q": "Có thể phòng ngừa sa sút trí tuệ không?",
+              "a": "Không thể chắc chắn. Nghiên cứu cho thấy 14 yếu tố sức khỏe và lối sống có liên quan đến nguy cơ sa sút trí tuệ, chẳng hạn như suy giảm thính lực, huyết áp cao, ít vận động và sự cô lập xã hội. Cải thiện những yếu tố này có thể giảm nguy cơ ở một số người, nhưng nhiều người làm mọi điều đúng vẫn bị sa sút trí tuệ. Đó không bao giờ là lỗi của ai cả."
+            },
+            {
+              "q": "Nhịn ăn gián đoạn có tốt cho sức khỏe não bộ không?",
+              "a": "Bằng chứng ở người còn ít và mới ở bước đầu, phần lớn nghiên cứu là trên động vật. Nhịn ăn có thể gây rủi ro cho người cao tuổi, nhất là khi đang dùng thuốc tiểu đường hoặc bị sụt cân ngoài ý muốn, và không được khuyến nghị cho người sống chung với sa sút trí tuệ. Hãy hỏi ý kiến bác sĩ trước khi thay đổi cách ăn uống."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Quyền riêng tư và an toàn",
+          "items": [
+            {
+              "q": "Các bạn có thu thập thông tin nào không?",
+              "a": "Không tài khoản, không quảng cáo. Chúng tôi dùng Google Analytics để đếm lượt truy cập và xem trang nào có ích, và trình duyệt của bạn ghi nhớ bạn có bật âm thanh nhẹ hay không. Ảnh bạn chọn cho Ghép đôi ảnh không bao giờ được tải lên. Xem thông báo về quyền riêng tư để biết chi tiết."
+            },
+            {
+              "q": "Đây có phải lời khuyên y tế không?",
+              "a": "Không. Golden Moments dành cho giải trí và cung cấp thông tin chung. Nếu có thắc mắc về sức khỏe, hãy hỏi ý kiến bác sĩ, và khi khẩn cấp hãy gọi 115."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Tìm hiểu thêm: <a href=\"/caregiving/how-to-play-together/\">cách chơi cùng nhau</a>, <a href=\"/caregiving/when-they-say-no/\">khi người thân nói không</a>, <a href=\"/activities/late-stage/\">hoạt động cho giai đoạn muộn</a> và <a href=\"/brain-health/can-dementia-be-prevented/\">có thể phòng ngừa sa sút trí tuệ không?</a>"
+    },
+    "handout": {
+      "title": "Trò chơi miễn phí, nhẹ nhàng cho người sa sút trí tuệ",
+      "seoTitle": "Tờ in: trò chơi trực tuyến miễn phí cho người sa sút trí tuệ",
+      "description": "Tờ thông tin một trang để in cho gia đình và người chăm sóc về trò chơi hình ảnh miễn phí cho người sa sút trí tuệ, dùng cho nhóm hỗ trợ và túi tài liệu.",
+      "crumb": "Tờ thông tin in",
+      "lede": "In trang này cho nhóm hỗ trợ, túi tài liệu chăm sóc hoặc dán lên cửa tủ lạnh. Dùng lệnh In của trình duyệt; các menu và nút bấm sẽ không xuất hiện trên bản in.",
+      "introHtml": "<p>Hình ảnh lớn, lời lẽ giản dị và không có gì là sai. Miễn phí trên điện thoại, máy tính bảng hoặc máy tính, không cần đăng ký, không quảng cáo, không hẹn giờ và không điểm số. Hãy ngồi cạnh nhau và lần lượt chơi.</p>",
+      "gamesTitle": "Những trò chơi để cùng thử",
+      "restHtml": "<h2>Vài lời khuyên</h2><ul><li>Chọn thời điểm trong ngày khi người thân khỏe khoắn, tỉnh táo nhất.</li><li>Bắt đầu với mức dễ nhất. Bốn ô là đủ.</li><li>Cùng trò chuyện về các hình ảnh. Cuộc trò chuyện thường là phần hay nhất.</li><li>Dừng lại khi vẫn còn thấy dễ chịu. Kết thúc sớm cũng là một kết thúc tốt.</li></ul><h2>Trên trang web còn có</h2><ul><li>Tài liệu in miễn phí: tìm từ chữ to, tranh tô màu, thẻ trò chuyện và lô tô hình ảnh.</li><li>Ý tưởng hoạt động cho mọi giai đoạn, cùng hướng dẫn về cách chơi cùng nhau và cách chăm sóc chính mình.</li></ul><p class=\"muted\">Để vui và có thời gian bên nhau. Không phải lời khuyên y tế, bài kiểm tra hay cách điều trị. Golden Moments do Cloudjet Solutions Pte. Ltd. phát hành.</p>"
+    },
+    "organizations": {
+      "title": "Dành cho viện dưỡng lão, thư viện và nhóm hỗ trợ",
+      "seoTitle": "Hoạt động miễn phí cho người sa sút trí tuệ ở viện dưỡng lão",
+      "description": "Cách viện dưỡng lão, trung tâm chăm sóc ban ngày, thư viện và nhóm hỗ trợ dùng trò chơi miễn phí cho người sa sút trí tuệ, kèm mô tả để thêm vào danh sách.",
+      "crumb": "Dành cho tổ chức",
+      "lede": "Mọi thứ trên trang web này đều được dùng miễn phí với người cao tuổi, hội viên và khách hàng của bạn, không cần tài khoản, giấy phép hay phí. Trang này giải thích có những gì và cách chia sẻ.",
+      "shortText": "{name}: trò chơi hình ảnh miễn phí, nhẹ nhàng và hướng dẫn hoạt động cho người sống chung với sa sút trí tuệ và người chăm sóc. Không cần đăng ký, không hẹn giờ, không điểm số.",
+      "longText": "{name} ({domain}) có {count} trò chơi miễn phí trên trình duyệt, làm riêng cho người sống chung với sa sút trí tuệ, gồm ghép đôi với hình luôn hiện rõ, ghép tranh dễ, phân loại, nói tiếp câu tục ngữ quen thuộc và lô tô hình ảnh có phiếu in ra. Không có tài khoản, quảng cáo, hẹn giờ hay điểm số. Trang web còn có các hướng dẫn hoạt động bằng lời lẽ dễ hiểu cho từng giai đoạn của sa sút trí tuệ, có trích dẫn National Institute on Aging và Alzheimer's Association.",
+      "useTitle": "Các tổ chức có thể dùng những gì",
+      "gamesItemHtml": "<strong>{count} trò chơi trên trình duyệt</strong> chạy được trên máy tính xách tay, máy tính bảng hoặc TV nối với máy tính. Không cần cài đặt, tài khoản hay tải về. Xem <a href=\"/games/\">tất cả trò chơi</a>.",
+      "printablesLabel": "{count} tài liệu in:",
+      "printablesAfter": "Dùng nút In trên từng trang.",
+      "moreItemsHtml": "<li><strong>Hình thức chơi nhóm:</strong> <a href=\"/games/picture-bingo/\">Lô tô hình ảnh</a> có phiếu in ra và người xướng hình trên màn hình, còn <a href=\"/activities/trivia/\">câu đố dễ</a> có 50 câu hỏi kèm lựa chọn trả lời và gợi ý trò chuyện.</li><li><strong>Hướng dẫn hoạt động</strong> cho nhân viên và gia đình, theo giai đoạn và theo loại hoạt động, viết bằng lời lẽ dễ hiểu và có nguồn. Hãy bắt đầu với <a href=\"/activities/ideas/\">101 ý tưởng hoạt động</a> hoặc <a href=\"/activities/care-home-groups/\">hoạt động nhóm ở viện dưỡng lão</a>.</li>",
+      "restHtml": "<h2>Các nhóm dùng trang web như thế nào</h2><ul><li><strong>Viện dưỡng lão và khu chăm sóc trí nhớ:</strong> lô tô hình ảnh hoặc nói tiếp câu tục ngữ trên TV ở phòng sinh hoạt chung, một người chạm thay cho cả nhóm.</li><li><strong>Trung tâm chăm sóc ban ngày cho người cao tuổi:</strong> một góc máy tính bảng với Ghép đôi hình để ở bốn ô, cho các buổi một kèm một ngắn.</li><li><strong>Thư viện công cộng:</strong> phiếu tìm từ và thẻ trò chuyện in sẵn trong bộ đồ dùng gợi nhớ, và trang web được đánh dấu trên máy tính bảng của thư viện.</li><li><strong>Nhóm hỗ trợ người chăm sóc và quán cà phê trí nhớ:</strong> một <a href=\"/handout/\">tờ thông tin một trang để in</a> cho các gia đình mang về nhà.</li><li><strong>Bệnh viện và bộ phận lo xuất viện:</strong> tờ thông tin trong túi tài liệu cho người chăm sóc, để có hoạt động êm dịu ở nhà hoặc bên giường bệnh.</li></ul><h2>Những gì chúng tôi không làm</h2><p>Các trò chơi là để vui và có thời gian bên nhau. Chúng không chẩn đoán, kiểm tra, chấm điểm, điều trị hay làm chậm sa sút trí tuệ, và chúng tôi đề nghị các tổ chức không mô tả chúng như vậy. Không có quảng cáo, và trò chơi không yêu cầu tên, thông tin sức khỏe hay tải ảnh lên. Trang web dùng Google Analytics để đếm lượt truy cập; <a href=\"/privacy/\">thông báo về quyền riêng tư</a> của chúng tôi giải thích công cụ này thu thập những gì. Ảnh dùng trong <a href=\"/games/photo-pairs/\">Ghép đôi ảnh</a> chỉ ở trong trình duyệt.</p><h2>Thêm chúng tôi vào danh sách tài nguyên của bạn</h2><p>Nếu bạn có danh sách tài nguyên cho người chăm sóc, bạn có thể dẫn liên kết đến <a href=\"/\">{domain}</a>. Bạn có thể sao chép một trong hai đoạn mô tả.</p>",
+      "shortTitle": "Mô tả ngắn",
+      "longTitle": "Mô tả dài hơn",
+      "linksHtml": "<p>Những trang hữu ích để dẫn liên kết trực tiếp: <a href=\"/games/\">trò chơi miễn phí</a>, <a href=\"/activities/printable/\">tài liệu in miễn phí</a>, <a href=\"/activities/alzheimers/\">hoạt động cho người bệnh Alzheimer</a> và <a href=\"/caregiving/how-to-play-together/\">cách chơi cùng nhau</a>.</p><h2>Câu hỏi hoặc đính chính</h2><p>Nếu có điều gì trên trang web sai hoặc chưa rõ, hoặc nhu cầu của người cao tuổi bạn chăm sóc chưa được đáp ứng, vui lòng cho chúng tôi biết qua <a href=\"mailto:{email}\">{email}</a>. Xin đừng gửi thông tin cá nhân hay thông tin sức khỏe của người cao tuổi hoặc khách hàng.</p>"
+    },
+    "app": {
+      "title": "Ứng dụng Golden Moments",
+      "seoTitle": "Ứng dụng Golden Moments cho iPhone và Android",
+      "description": "Ứng dụng Golden Moments miễn phí: ghép đôi ảnh nhẹ nhàng với bốn ô lớn, ảnh gia đình lưu trên thiết bị của bạn, bộ hình dùng không cần mạng và không cần tài khoản.",
+      "crumb": "Ứng dụng",
+      "lede": "Mọi điều bạn thích ở trang web, trong một ứng dụng dùng được khi không có mạng và có thể dùng những ảnh gia đình bạn chọn.",
+      "worksOn": "Dùng được trên {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Bắt đầu nhẹ nhàng</h2><p>Bắt đầu với bốn ô lớn và những hình ảnh quen thuộc. Để hình luôn hiện rõ, hoặc úp hình xuống khi thấy thoải mái. Chế độ nhẹ nhàng không có hẹn giờ, điểm số hay hình phạt. Chọn 4, 6, 8 hoặc 12 ô.</p><h2>Làm cho thật gần gũi</h2><p>Chọn ảnh gia đình bằng trình chọn ảnh của thiết bị. Ứng dụng lưu các bản sao nhỏ hơn để dùng cho hoạt động. Ứng dụng không quét thư viện ảnh hay thay đổi ảnh gốc của bạn, và giữ tối đa 24 ảnh trong một bộ sưu tập.</p><h2>Chỉ cần cùng ngắm</h2><p>Xem từng ảnh một. Các gợi ý tùy chọn mời trò chuyện mà không yêu cầu ai phải nhớ tên hay trả lời đúng. Chỉ cần cùng ngắm là đủ.</p><h2>Không cần mạng khi cần nhất</h2><p>Hình ảnh khởi đầu và cả tám bộ hình đều có sẵn trong ứng dụng. Bản sao ảnh đã nhập dùng được khi không có mạng. Chọn ảnh gốc chỉ lưu trên iCloud có thể cần kết nối internet.</p><h2>Không tài khoản, không máy chủ đồng bộ ảnh</h2><p>Bản sao ảnh gia đình nằm trong ứng dụng trên thiết bị. Bạn có thể xóa các bản sao mà không xóa ảnh gốc. Bản sao lưu của thiết bị có thể bao gồm dữ liệu ứng dụng. Đọc <a href=\"/app-privacy/\">chính sách quyền riêng tư của ứng dụng</a>, và <a href=\"/help/\">hướng dẫn dùng ứng dụng</a> sẽ chỉ bạn từng bước.</p>",
+      "disclaimer": "Golden Moments dành cho giải trí và trò chuyện cùng nhau. Ứng dụng không chẩn đoán, điều trị, phòng ngừa hay đo lường sa sút trí tuệ hoặc bệnh Alzheimer.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Trò chơi miễn phí cho người sa sút trí tuệ, Alzheimer",
+    "description": "Trò chơi trực tuyến miễn phí cho người cao tuổi sa sút trí tuệ, Alzheimer: ghép hình, ghép tranh, phân loại, tục ngữ, tô màu, lô tô. Không đăng ký, hẹn giờ hay điểm số.",
+    "crumb": "Trò chơi",
+    "h1": "Trò chơi nhẹ nhàng cho người sa sút trí tuệ",
+    "lede": "{count} trò chơi miễn phí để cùng chơi trên trình duyệt. Hình ảnh lớn, lời lẽ giản dị và không có gì là sai: không hẹn giờ, không điểm số, không cần đăng ký.",
+    "listName": "Trò chơi nhẹ nhàng cho người sa sút trí tuệ",
+    "byStageTitle": "Chọn trò chơi theo giai đoạn",
+    "byStageLede": "Các giai đoạn chỉ để tham khảo. Hãy theo những gì người thân thích và thấy thoải mái hôm nay.",
+    "stageCol": "Giai đoạn",
+    "gamesCol": "Trò chơi thường phù hợp",
+    "moreHtml": "Thêm ý tưởng ngoài màn hình: <a href=\"/activities/ideas/\">101 hoạt động cho người sa sút trí tuệ</a>, <a href=\"/activities/alzheimers/\">hoạt động và trò chơi cho người bệnh Alzheimer</a>, <a href=\"/activities/memory-games/\">trò chơi trí nhớ nhẹ nhàng</a> và <a href=\"/activities/puzzles/\">trò ghép hình</a>.",
+    "faq": [
+      {
+        "q": "Nên bắt đầu với trò chơi nào?",
+        "a": "Ghép đôi hình với bốn ô là lựa chọn đầu tiên nhẹ nhàng. Nếu chọn giữa các hình có vẻ quá sức, hãy thử Tìm hình giống chỉ với hai hình. Khi chơi theo nhóm, hãy thử Lô tô hình ảnh."
+      },
+      {
+        "q": "Các trò chơi có dùng được trên iPad hay điện thoại không?",
+        "a": "Có. Mọi trò chơi đều chạy trên trình duyệt của điện thoại, máy tính bảng và máy tính, và hình ảnh tự phóng to cho vừa màn hình. Máy tính bảng đặt trên giá thường thoải mái nhất cho hai người."
+      },
+      {
+        "q": "Các trò chơi này có tốt cho người bệnh Alzheimer không?",
+        "a": "Có. Trò chơi được làm cho người sống chung với sa sút trí tuệ, kể cả bệnh Alzheimer, nguyên nhân phổ biến nhất. Hình ảnh luôn hiện rõ, chỉ có vài lựa chọn, không có gì bị tính giờ hay chấm điểm, nên trò chơi dựa vào việc nhận ra những điều quen thuộc chứ không phải ghi nhớ điều mới."
+      },
+      {
+        "q": "Đây có phải trò chơi trí nhớ cho người cao tuổi không?",
+        "a": "Đây là trò chơi ghép đôi và trò chơi hình ảnh mà người cao tuổi nào cũng có thể thích, nhưng được làm ra để không kiểm tra trí nhớ: trong Ghép đôi hình, hình ảnh luôn ngửa lên trừ khi bạn chọn khác. Hướng dẫn của chúng tôi về trò chơi trí nhớ cho người cao tuổi sa sút trí tuệ giải thích cách giữ cho mọi trò chơi trí nhớ thật nhẹ nhàng."
+      },
+      {
+        "q": "Có trò chơi cho nhóm ở viện dưỡng lão không?",
+        "a": "Có. Lô tô hình ảnh có phiếu in ra và người xướng hình trên màn hình, còn Nói tiếp câu tục ngữ và Thẻ trò chuyện rất hợp để đọc to cho cả nhóm."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad và Android",
+    "requirements": "iOS 15 trở lên; Android 7.0 trở lên",
+    "summary": "Ứng dụng miễn phí cho iPhone, iPad và Android với trò ghép đôi hình nhẹ nhàng trên bốn đến mười hai ô lớn, ghép đôi và cùng ngắm những ảnh gia đình bạn chọn, và tám bộ hình có sẵn dùng được không cần internet. Không tài khoản, quảng cáo, hẹn giờ hay điểm số.",
+    "features": [
+      "Ghép đôi hình nhẹ nhàng với 4, 6, 8 hoặc 12 ô lớn; hình luôn hiện rõ trừ khi bạn chọn úp xuống",
+      "Ảnh gia đình bạn chọn được sao chép vào ứng dụng để ghép đôi và cùng ngắm",
+      "Cùng ngắm: từng ảnh một, kèm gợi ý trò chuyện tùy chọn",
+      "Tám bộ hình có sẵn trong ứng dụng; dùng được khi không có mạng",
+      "Không tài khoản, quảng cáo, mua trong ứng dụng, hẹn giờ, điểm số hay hình phạt"
+    ],
+    "faq": [
+      {
+        "q": "Có ứng dụng hoạt động cho người sa sút trí tuệ không?",
+        "a": "Có. Golden Moments (tên trên cửa hàng: “{storeName}”) miễn phí trên App Store và Google Play. Ứng dụng có trò ghép đôi hình nhẹ nhàng với ô lớn, trò chơi với ảnh gia đình bạn chọn và các bộ hình dùng được khi không có mạng."
+      },
+      {
+        "q": "Ứng dụng Golden Moments có miễn phí không?",
+        "a": "Có. Tải về miễn phí, không quảng cáo, không tài khoản và không mua trong ứng dụng."
+      },
+      {
+        "q": "Ứng dụng có dùng được khi không có internet không?",
+        "a": "Có. Hình ảnh khởi đầu và cả tám bộ hình đều có sẵn trong ứng dụng, và ảnh gia đình dùng được khi không có mạng sau khi đã sao chép vào ứng dụng. Chọn một ảnh chỉ lưu trên iCloud có thể cần kết nối mạng."
+      },
+      {
+        "q": "Tôi có thể dùng ảnh gia đình mình không?",
+        "a": "Có. Chọn ảnh bằng trình chọn ảnh của thiết bị. Ứng dụng giữ các bản sao nhỏ hơn trên thiết bị để dùng cho hoạt động, không tải chúng lên và không bao giờ thay đổi ảnh gốc. Bạn có thể xóa các bản sao bất cứ lúc nào."
+      },
+      {
+        "q": "Đây có phải ứng dụng rèn trí não hay kiểm tra trí nhớ không?",
+        "a": "Không. Golden Moments là để vui và có thời gian bên nhau. Ứng dụng không có điểm số hay bài kiểm tra, và không chẩn đoán, điều trị, phòng ngừa hay đo lường sa sút trí tuệ hoặc bệnh Alzheimer."
+      },
+      {
+        "q": "Ứng dụng dùng được trên những thiết bị nào?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Trò chơi này có phiên bản ứng dụng không?",
+      "a": "Có. Ứng dụng Golden Moments miễn phí cho iPhone, iPad và Android có cùng kiểu ghép đôi hình nhẹ nhàng, có thể dùng ảnh gia đình bạn chọn và dùng được khi không có mạng. Không tài khoản, quảng cáo hay điểm số."
+    },
+    "gameFaqNo": {
+      "q": "Trò chơi này có phiên bản ứng dụng không?",
+      "a": "Trò chơi này thì không. Ứng dụng Golden Moments miễn phí cho iPhone, iPad và Android có trò ghép đôi hình nhẹ nhàng với ô lớn và ảnh gia đình bạn chọn, và dùng được khi không có mạng. Trò chơi này vẫn miễn phí tại đây trên trình duyệt của bạn."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: hình ảnh lớn, thân thuộc",
+    "noscript": "Trò chơi này cần bật JavaScript trong trình duyệt. Các lời khuyên bên dưới vẫn dùng được khi không bật.",
+    "about": "Về {name}",
+    "aboutAria": "Về trò chơi này",
+    "noTimer": "Không hẹn giờ, không điểm số",
+    "printable": "Có thể in",
+    "howTo": "Cách chơi {name}",
+    "tips": "Lời khuyên khi cùng chơi",
+    "newToPlayingHtml": "Lần đầu chơi cùng người sống chung với sa sút trí tuệ? Hãy đọc <a href=\"/caregiving/how-to-play-together/\">cách cùng nhau chơi trò chơi</a>, kể cả nên làm gì khi người thân không còn hứng thú.",
+    "moreAria": "Khám phá thêm",
+    "helpfulGuides": "Hướng dẫn hữu ích",
+    "appTitle": "Chơi trên ứng dụng",
+    "appText": "Ứng dụng Golden Moments miễn phí có trò ghép đôi hình nhẹ nhàng với ô lớn và ảnh gia đình của chính bạn, dùng được không cần Wi‑Fi. Có cho iPhone, iPad và Android.",
+    "photoAppTitle": "Giữ sẵn ảnh của bạn",
+    "photoAppText": "Trong ứng dụng Golden Moments miễn phí, những ảnh bạn chọn được giữ trên thiết bị cho lần sau, và trò chơi dùng được không cần Wi‑Fi. Có cho iPhone, iPad và Android.",
+    "goodToKnow": "Điều nên biết",
+    "goodToKnowText": "Trò chơi này là để vui và có thời gian bên nhau. Trò chơi không kiểm tra, đo lường hay điều trị bất cứ điều gì.",
+    "moreGames": "Thêm trò chơi nhẹ nhàng",
+    "crumb": "Trò chơi"
+  }
+}
