@@ -21,6 +21,20 @@ traffic count**: get the website indexed and measure whether visits turn into
 shared activities that caregivers say helped. Until that loop exists, every
 other initiative is guesswork.
 
+## How this fits the ten-language plan
+
+[docs/plan/README.md](../plan/README.md) (a proposal, merged 2026-10-31) reaches
+the same core decision independently: be the obvious first answer to one job,
+"find something comfortable to enjoy together in the next minute", and treat the
+care-platform bet as unproven. This document chooses that category for the US
+and adds the website, measurement and evidence gates; the plan covers the app's
+feature order and languages. Where they overlap, they now use the same numbers:
+the plan's per-storefront definition of "number one" (section 12 below) and the
+GM-039 reuse threshold. The one difference in emphasis: this document holds
+languages beyond English until the US gates G1–G3 have readings, while the plan
+sequences device acceptance and the Play release before a third language. Both
+leave the order to the maintainer.
+
 ## 1. Where Golden Moments stands (audit)
 
 | Area | Fact (2026-10-31) | Source |
@@ -338,8 +352,10 @@ outsider can verify all of these:
   problem-to-activity queries it targets;
 - more organization resource lists and handouts linking to it than any
   comparable free activity resource;
-- a helpful rate of at least 70% on a meaningful count of answers, and a store
-  rating of at least 4.6;
+- the plan's per-storefront measures: top 3 in App Store search for the local
+  head terms in 8 of 12 weeks, and an average rating of at least 4.5 from at
+  least 50 ratings ([plan](../plan/README.md) section 1);
+- a helpful rate of at least 70% on a meaningful count of answers;
 - running costs covered by an organization tier, grants or a one-time unlock,
   without ads.
 
