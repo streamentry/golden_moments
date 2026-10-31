@@ -1,0 +1,100 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { Today } from '../tools/Today';
+---
+<PageLayout
+  title="What is hardest today?"
+  seoTitle="Dementia Caregiving: What Is Hardest Today?"
+  description="Pick today's hardest moment in dementia care: three things to try, when to get help, one gentle activity, and private notes to print for an appointment."
+  path="/today/"
+  crumb="Today"
+  lede="A quick answer for a hard moment, and a place to note what helped. Free, no sign-up, and your notes stay on this device."
+>
+  <Today client:load />
+  <p class="muted">
+    General information for families, drawn from the sourced guides on this site. It is not medical advice and does not
+    replace their doctor or care team.
+  </p>
+</PageLayout>
+
+<style is:global>
+  .today__choices {
+    display: grid;
+    gap: var(--space-sm);
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    list-style: none;
+    padding: 0;
+    margin: var(--space-md) 0 var(--space-xl);
+  }
+  .today__choice {
+    height: 100%;
+    border-radius: var(--radius-lg);
+    justify-content: flex-start;
+    text-align: left;
+  }
+  .today__choice[aria-pressed='true'] {
+    background: var(--gm-primary-container);
+    color: var(--gm-on-primary-container);
+    box-shadow: inset 0 0 0 2px var(--gm-primary);
+  }
+  .today__answer {
+    margin: 0 0 var(--space-xl);
+    padding: var(--space-lg);
+    border: 2px solid var(--gm-outline);
+    border-radius: var(--radius-lg);
+    background: var(--gm-surface-raised);
+    box-shadow: var(--shadow-raised);
+  }
+  .today__answer h2:focus {
+    outline: none;
+  }
+  .today__answer h2:focus-visible {
+    outline: 3px solid var(--gm-primary);
+    outline-offset: 4px;
+  }
+  .today__tries li + li {
+    margin-top: var(--space-sm);
+  }
+  .today__help {
+    margin: var(--space-lg) 0;
+    padding: var(--space-md);
+    border-left: 4px solid var(--gm-warning);
+    background: var(--gm-surface-sunken);
+  }
+  .today__label {
+    display: block;
+    font-weight: 700;
+    margin-bottom: var(--space-xs);
+  }
+  .today__text {
+    width: 100%;
+    min-height: 56px;
+    padding: var(--space-sm);
+    border: 2px solid var(--gm-outline);
+    border-radius: var(--radius-md);
+    font: inherit;
+    font-size: var(--text-lg);
+    margin-bottom: var(--space-md);
+  }
+  .today__status:empty {
+    display: none;
+  }
+  .today__day ul {
+    list-style: none;
+    padding: 0;
+  }
+  .today__day li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-sm);
+    padding: var(--space-sm) 0;
+    border-bottom: 1px solid var(--gm-outline);
+  }
+  .today__print-title {
+    font-family: var(--font-display);
+    font-size: var(--text-h2);
+    font-weight: 700;
+  }
+</style>
