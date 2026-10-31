@@ -1,9 +1,11 @@
 import { useEffect, useState } from 'react';
 import { PICTURES, pictureUrl } from '../data/pictures';
+import type { PlayProps } from '../i18n/play';
+import { fill } from '../i18n/play/format';
 import { createRng, randomSeed, sample, shuffle } from '../lib/games/random';
 import { ChoiceChips } from './shared/ChoiceChips';
 import { GameFrame } from './shared/GameFrame';
-import { PictureTile, pictureName } from './shared/PictureTile';
+import { PictureTile, pictureNamer } from './shared/PictureTile';
 import { sounds } from './shared/sound';
 
 interface Round {
@@ -11,11 +13,7 @@ interface Round {
   options: string[];
 }
 
-const COUNTS = [
-  { value: 2, label: '2 to choose from' },
-  { value: 3, label: '3 to choose from' },
-  { value: 4, label: '4 to choose from' },
-] as const;
+const COUNTS = [2, 3, 4] as const;
 
 function newRound(count: number, previous?: string): Round {
   const rng = createRng(randomSeed());
@@ -24,7 +22,9 @@ function newRound(count: number, previous?: string): Round {
   return { target: picked[0] as string, options: shuffle(picked, rng) };
 }
 
-export default function FindTheSame() {
+export default function FindTheSame(props: PlayProps) {
+  const { ui, lang } = props;
+  const pictureName = pictureNamer(props);
   const [count, setCount] = useState<number>(2);
   const [round, setRound] = useState<Round | null>(null);
   const [found, setFound] = useState(false);
@@ -47,6 +47,7 @@ export default function FindTheSame() {
 
   if (!round) return null;
   const targetName = pictureName(round.target);
+  const counts = COUNTS.map((n) => ({ value: n, label: fill(ui.choose.count, { n }) }));
 
   const tap = (id: string) => {
     if (found) return;
@@ -54,22 +55,24 @@ export default function FindTheSame() {
     if (id === round.target) {
       sounds.match();
       setFound(true);
-      setMessage(`Yes, the same ${targetName.toLowerCase()}.`);
+      setMessage(fill(ui.findTheSame.yes, { name: targetName }, lang));
     } else {
       sounds.tap();
-      setMessage(`That one is the ${pictureName(id).toLowerCase()}. Take your time.`);
+      setMessage(fill(ui.choose.thatOne, { name: pictureName(id) }, lang));
     }
   };
 
   return (
     <GameFrame
-      guidance="Look at the picture at the top. Tap the same one below."
+      ui={ui}
+      lang={lang}
+      guidance={ui.findTheSame.guidance}
       message={message}
-      options={<ChoiceChips legend="How many pictures" choices={COUNTS} value={count} onChange={setCount} />}
+      options={<ChoiceChips legend={ui.choose.countLegend} choices={counts} value={count} onChange={setCount} />}
       footer={
         <div className="btn-row btn-row--center">
           <button type="button" className={found ? 'btn btn--primary btn--hero' : 'btn'} onClick={next}>
-            Next picture
+            {ui.findTheSame.next}
           </button>
         </div>
       }
@@ -84,7 +87,9 @@ export default function FindTheSame() {
         {round.options.map((id, i) => (
           <PictureTile
             key={`${round.target}-${id}`}
+            ui={ui}
             value={id}
+            name={pictureName(id)}
             position={i + 1}
             state={found && id === round.target ? 'matched' : tapped === id ? 'selected' : 'resting'}
             onTap={() => tap(id)}

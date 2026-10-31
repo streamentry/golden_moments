@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState, type KeyboardEvent } from 'react';
-import { WORD_THEMES } from '../data/wordthemes';
+import type { PlayProps } from '../i18n/play';
+import { fill, plural } from '../i18n/play/format';
 import { createRng, randomSeed, sample } from '../lib/games/random';
 import { cellsOf, createWordSearch, wordBetween, type WordGrid } from '../lib/games/wordsearch';
 import { ChoiceChips } from './shared/ChoiceChips';
@@ -8,11 +9,9 @@ import { Icon } from './shared/Icon';
 import { sounds } from './shared/sound';
 import { useWide } from './shared/useWide';
 
-const SIZES = [
-  { value: 6, label: '6 by 6 (4 words)' },
-  { value: 8, label: '8 by 8 (6 words)' },
-] as const;
+const SIZES = [6, 8] as const;
 
+/** Row and column steps for the arrow keys, in left-to-right layout. */
 const MOVES: Record<string, [number, number]> = {
   ArrowUp: [-1, 0],
   ArrowDown: [1, 0],
@@ -22,8 +21,17 @@ const MOVES: Record<string, [number, number]> = {
 
 const WORDS_FOR: Record<number, number> = { 6: 4, 8: 6 };
 
-export default function WordSearch() {
-  const [theme, setTheme] = useState(WORD_THEMES[0]!.value);
+export default function WordSearch(props: PlayProps) {
+  if (!props.content.wordSearch.available) {
+    return <p className="notice">{props.ui.wordSearch.unavailable}</p>;
+  }
+  return <WordSearchGame {...props} />;
+}
+
+function WordSearchGame(props: PlayProps) {
+  const { ui, lang, content } = props;
+  const themes = content.wordSearch.themes;
+  const [theme, setTheme] = useState(themes[0]!.value);
   const [size, setSize] = useState<number>(6);
   const [round, setRound] = useState(0);
   const [grid, setGrid] = useState<WordGrid | null>(null);
@@ -38,15 +46,15 @@ export default function WordSearch() {
   const effectiveSize = wide ? size : 6;
 
   useEffect(() => {
-    const t = WORD_THEMES.find((w) => w.value === theme) ?? WORD_THEMES[0]!;
+    const t = themes.find((w) => w.value === theme) ?? themes[0]!;
     const rng = createRng(randomSeed());
     const words = sample(t.words, WORDS_FOR[effectiveSize] ?? 4, rng);
-    setGrid(createWordSearch(words, effectiveSize, rng));
+    setGrid(createWordSearch(words, effectiveSize, rng, { fill: content.wordSearch.fill, locale: lang }));
     setStart(null);
     setFound([]);
     setCursor([0, 0]);
     setMessage('');
-  }, [theme, effectiveSize, round]);
+  }, [theme, effectiveSize, round, themes, content.wordSearch.fill, lang]);
 
   if (!grid) return null;
 
@@ -58,7 +66,7 @@ export default function WordSearch() {
     if (!start) {
       sounds.tap();
       setStart([r, c]);
-      setMessage(`Letter ${grid.cells[r]?.[c]} chosen. Now tap the last letter of the word.`);
+      setMessage(fill(ui.wordSearch.letterChosen, { letter: grid.cells[r]?.[c] ?? '' }));
       return;
     }
     if (start[0] === r && start[1] === c) {
@@ -73,50 +81,60 @@ export default function WordSearch() {
       setFound(next);
       if (next.length === grid.words.length) {
         sounds.done();
-        setMessage(`${w.word} found. That is every word. Play again or take a break.`);
+        setMessage(fill(ui.wordSearch.foundAll, { word: w.word }));
       } else {
         sounds.match();
-        setMessage(`${w.word} found.`);
+        setMessage(fill(ui.wordSearch.found, { word: w.word }));
       }
     } else {
-      setMessage('Take your time. Tap the first letter of a word, then its last letter.');
+      setMessage(ui.wordSearch.tryAgain);
     }
   };
 
-  const onKey = (e: KeyboardEvent, r: number, c: number) => {
+  const onKey = (e: KeyboardEvent<HTMLButtonElement>, r: number, c: number) => {
     const move = MOVES[e.key];
     if (!move) return;
     e.preventDefault();
+    // In right-to-left pages the first column is on the right, so left and right swap.
+    const rtl = getComputedStyle(e.currentTarget).direction === 'rtl';
+    const dc = rtl ? -move[1] : move[1];
     const nr = Math.min(grid.size - 1, Math.max(0, r + move[0]));
-    const nc = Math.min(grid.size - 1, Math.max(0, c + move[1]));
+    const nc = Math.min(grid.size - 1, Math.max(0, c + dc));
     setCursor([nr, nc]);
     cells.current.get(`${nr}-${nc}`)?.focus();
   };
 
+  const sizes = SIZES.map((n) => {
+    const words = WORDS_FOR[n] ?? 4;
+    return { value: n, label: fill(plural(ui.wordSearch.size, words, lang), { n, words }) };
+  });
+  const themeChoices = themes.map((t) => ({ value: t.value, label: t.label }));
   const allFound = found.length === grid.words.length;
   return (
     <>
       <GameFrame
-        guidance="Words go across or down. Tap the first letter of a word, then its last letter."
+        ui={ui}
+        lang={lang}
+        guidance={ui.wordSearch.guidance}
         message={message}
         onRestart={() => setRound((n) => n + 1)}
-        restartLabel="New puzzle"
+        restartLabel={ui.wordSearch.restart}
         options={
           <>
-            <ChoiceChips legend="Theme" choices={WORD_THEMES} value={theme} onChange={setTheme} />
-            {wide ? <ChoiceChips legend="Grid size" choices={SIZES} value={size} onChange={setSize} /> : null}
+            <ChoiceChips legend={ui.wordSearch.themeLegend} choices={themeChoices} value={theme} onChange={setTheme} />
+            {wide ? <ChoiceChips legend={ui.wordSearch.sizeLegend} choices={sizes} value={size} onChange={setSize} /> : null}
           </>
         }
         footer={
           <div className="btn-row">
             <button type="button" className={allFound ? 'btn btn--primary' : 'btn'} onClick={() => window.print()}>
               <Icon name="print" />
-              Print this puzzle
+              {ui.wordSearch.print}
             </button>
           </div>
         }
       >
-        <div className="ws" role="group" aria-label={`Letter grid, ${grid.size} rows of ${grid.size} letters. Use the arrow keys to move between letters.`} data-size={grid.size}>
+        <div className="ws" role="group" aria-label={fill(ui.wordSearch.gridLabel, { n: grid.size })} data-size={grid.size}>
           {grid.cells.map((row, r) => (
             <div key={r} className="ws__row">
               {row.map((ch, c) => {
@@ -127,7 +145,7 @@ export default function WordSearch() {
                     key={key}
                     type="button"
                     className={`ws__cell${isStart ? ' ws__cell--start' : ''}${foundCells.has(key) ? ' ws__cell--found' : ''}`}
-                    aria-label={`${ch}, row ${r + 1}, column ${c + 1}${foundCells.has(key) ? ', part of a found word' : ''}`}
+                    aria-label={`${fill(ui.wordSearch.cell, { letter: ch, row: r + 1, col: c + 1 })}${foundCells.has(key) ? ui.wordSearch.cellFound : ''}`}
                     aria-pressed={isStart}
                     tabIndex={cursor[0] === r && cursor[1] === c ? 0 : -1}
                     ref={(el) => {
@@ -145,25 +163,25 @@ export default function WordSearch() {
             </div>
           ))}
         </div>
-        <h2 className="visually-hidden">Words to find</h2>
+        <h2 className="visually-hidden">{ui.wordSearch.wordsHeading}</h2>
         <ul className="ws-words">
           {grid.words.map((w) => (
             <li key={w.word} data-found={found.includes(w.word)}>
               {found.includes(w.word) ? <Icon name="check" size={20} /> : null}
               {w.word}
-              {found.includes(w.word) ? <span className="visually-hidden"> (found)</span> : null}
+              {found.includes(w.word) ? <span className="visually-hidden">{ui.wordSearch.wordFound}</span> : null}
             </li>
           ))}
         </ul>
       </GameFrame>
       <section className="sheet" aria-hidden="true">
-        <h2>Word search: {WORD_THEMES.find((t) => t.value === theme)?.label}</h2>
+        <h2>{fill(ui.wordSearch.sheetTitle, { theme: themes.find((t) => t.value === theme)?.label ?? '' })}</h2>
         <div className="sheet-ws" data-size={grid.size}>
           {grid.cells.flat().map((ch, i) => (
             <span key={i}>{ch}</span>
           ))}
         </div>
-        <p>Words go across or down.</p>
+        <p>{ui.wordSearch.sheetNote}</p>
         <ul className="sheet-words">
           {grid.words.map((w) => (
             <li key={w.word}>☐ {w.word}</li>

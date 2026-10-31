@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { createRng, shuffle } from './random';
 import { boardColumns, createPairs, isComplete, matchedPairs, tapPair } from './pairs';
 import { correctCount, createPuzzle, isSolved, tapPiece } from './puzzle';
-import { cellsOf, createWordSearch, wordBetween } from './wordsearch';
+import { cellsOf, createWordSearch, lettersOf, normalizeWord, wordBetween } from './wordsearch';
 import { createBingoCards } from './bingo';
 import { createSort, dropInBasket, isSorted, selectItem } from './sorting';
 import { SHADOW_IDS, createShadowRound } from './shadow';
@@ -129,6 +129,30 @@ describe('word search', () => {
     expect(wordBetween(grid, coords[0]!, coords[coords.length - 1]!)).toBe(w);
     expect(wordBetween(grid, coords[coords.length - 1]!, coords[0]!)).toBe(w);
     expect(wordBetween(grid, coords[0]!, coords[0]!)).toBeNull();
+  });
+
+  it('keeps accented and non-Latin letters, in the language capitals', () => {
+    const grid = createWordSearch(['ırmak', 'çiçek', 'elma'], 6, createRng(8), { fill: 'ABCÇDEFGĞHIİ', locale: 'tr' });
+    expect(grid.words.map((w) => w.word).sort()).toEqual(['ELMA', 'IRMAK', 'ÇİÇEK']);
+    for (const w of grid.words) {
+      expect(cellsOf(w).map(([r, c]) => grid.cells[r]?.[c]).join('')).toBe(w.word);
+    }
+    expect(grid.cells.flat().every((ch) => [...'ABCÇDEFGĞHIİKLMRŞEÜ'].includes(ch) || /\p{L}/u.test(ch))).toBe(true);
+  });
+
+  it('keeps a letter with its marks in one cell', () => {
+    expect(lettersOf('किताब')).toEqual(['कि', 'ता', 'ब']);
+    expect(lettersOf('NGƯỜI')).toHaveLength(5);
+    const grid = createWordSearch(['किताब', 'अनार', 'कमल'], 6, createRng(3), { fill: 'कखगचजतदनपबमरलवस', locale: 'hi' });
+    expect(grid.words).toHaveLength(3);
+    for (const w of grid.words) {
+      expect(cellsOf(w)).toHaveLength(lettersOf(w.word).length);
+      expect(cellsOf(w).map(([r, c]) => grid.cells[r]?.[c]).join('')).toBe(w.word);
+    }
+  });
+
+  it('drops spaces and punctuation from words', () => {
+    expect(normalizeWord("tea-pot's", 'en')).toBe('TEAPOTS');
   });
 });
 
