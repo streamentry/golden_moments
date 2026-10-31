@@ -38,13 +38,16 @@ sources:
   - title: "β-Amyloid accumulation in the human brain after one night of sleep deprivation"
     publisher: "Proceedings of the National Academy of Sciences"
     url: "https://www.pnas.org/doi/10.1073/pnas.1721694115"
-  - title: "A Good Night's Sleep"
+  - title: "Sleep and Older Adults"
     publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/sleep/good-nights-sleep"
+    url: "https://www.nia.nih.gov/health/sleep/sleep-and-older-adults"
+  - title: "Alzheimer's Caregiving: Home Safety Tips"
+    publisher: "National Institute on Aging"
+    url: "https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips"
   - title: "Managing Sleep Problems in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease"
-  - title: "Tips for Coping With Sundowning"
+  - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning"
 relatedGames: [calm-breathing, conversation-cards]
@@ -75,16 +78,16 @@ These findings help explain why researchers are interested in sleep. They do not
 
 ## What sleep habits may help?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/good-nights-sleep). Its suggestions include:
+Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
 
 - **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
 - **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Dim the lights in the evening** and keep the bedroom quiet and at a comfortable temperature.
+- **Make the bedroom comfortable,** not too hot or too cold.
 - **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Skip alcohol as a sleep aid.** The NIA notes that even small amounts make it harder to stay asleep.
-- **Avoid large meals close to bedtime.**
+- **Avoid alcohol,** even small amounts, the NIA advises.
+- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
 - **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The light can make it harder to fall asleep, and upsetting shows can keep you awake.
+- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
 - **Avoid late-afternoon or evening naps** if you can.
 
 ## Sleep problems in dementia
@@ -101,7 +104,7 @@ Caregiver tips from the NIA include:
 6. **Limit caffeine and alcohol.**
 7. **Use nightlights** in the bedroom, hall and bathroom.
 
-The NIA also suggests [safety steps](https://www.nia.nih.gov/health/sleep/good-nights-sleep) for nighttime waking: a gate across stairs, grab bars in the bathroom, locked-up medicines and a clear floor.
+For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
 
 A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
 

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/game/presentation/screens/game_page.dart';
@@ -8,20 +7,12 @@ import 'package:golden_moments/features/game/presentation/widgets/game_exit_bar.
 import 'package:golden_moments/features/game/presentation/widgets/game_play_view.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import '../../helpers/shipped_fonts.dart';
 import 'legacy_helpers.dart';
 
-/// Uses the bundled Roboto, so label widths are the shipped ones rather than
-/// the square test font (which makes every label far wider).
-Future<void> _loadRoboto() async {
-  final loader = FontLoader(gmFontFamily);
-  for (final weight in ['Regular', 'Medium', 'Bold']) {
-    loader.addFont(rootBundle.load('assets/fonts/Roboto-$weight.ttf'));
-  }
-  await loader.load();
-}
-
 void main() {
-  setUpAll(_loadRoboto);
+  // The shipped fonts, so widths are real rather than the test font's.
+  setUpAll(loadShippedFonts);
   setUp(() => SharedPreferences.setMockInitialValues({}));
 
   group('board fit picks the largest tiles that fit', () {

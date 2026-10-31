@@ -14,15 +14,12 @@ void main() {
     for (final platform in [TargetPlatform.iOS, TargetPlatform.macOS]) {
       final text = appShareText(platform: platform);
       expect(text, isNot(contains('play.google.com')));
-      expect(text, contains('App Store'));
+      expect(text, contains('apps.apple.com'));
     }
   });
 
-  test('Apple devices get the App Store link once it exists', () {
-    const link = 'https://apps.apple.com/app/id0000000000';
-    expect(
-      appShareText(platform: TargetPlatform.iOS, appStoreLink: link),
-      contains(link),
-    );
+  test('the App Store link is the published listing, without tracking', () {
+    expect(appStoreUrl, 'https://apps.apple.com/app/id6749312459');
+    expect(appStoreUrl, isNot(contains('?')));
   });
 }

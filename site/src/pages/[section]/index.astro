@@ -5,6 +5,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import GuideCard from '../../components/GuideCard.astro';
 import HealthNotice from '../../components/HealthNotice.astro';
+import AppCta from '../../components/AppCta.astro';
 import PlayCta from '../../components/PlayCta.astro';
 import { SECTIONS } from '../../content.config';
 import { SECTION_META, absoluteUrl, type SectionKey } from '../../lib/site';
@@ -76,6 +77,7 @@ const itemList = {
       {rest.map((e) => <li><GuideCard href={`/${e.id}/`} title={e.data.title} text={e.data.description} /></li>)}
     </ul>
     <PlayCta />
+    <AppCta />
   </div>
 </BaseLayout>
 

@@ -5,6 +5,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import Faq from '../../components/Faq.astro';
 import HealthNotice from '../../components/HealthNotice.astro';
+import AppCta from '../../components/AppCta.astro';
 import PlayCta from '../../components/PlayCta.astro';
 import { GAME_BY_SLUG } from '../../data/games';
 import { pictureUrl } from '../../data/pictures';
@@ -151,5 +152,6 @@ const jsonLd = [
       </aside>
     </div>
     <PlayCta />
+    <AppCta />
   </div>
 </BaseLayout>

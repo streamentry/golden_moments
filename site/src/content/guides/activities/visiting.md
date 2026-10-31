@@ -48,7 +48,7 @@ sources:
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/daily-care/communications"
 relatedGames: [photo-pairs, conversation-cards, picture-pairs, calm-breathing]
-related: [activities/phone-and-video-calls, activities/reminiscence, activities/late-stage, activities/sensory, caregiving/communication-tips]
+related: [activities/phone-and-video-calls, activities/reminiscence, activities/late-stage, activities/sensory, caregiving/communication-tips, activities/holidays]
 health: false
 ---
 

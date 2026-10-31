@@ -5,6 +5,8 @@ import { correctCount, createPuzzle, isSolved, tapPiece } from './puzzle';
 import { cellsOf, createWordSearch, wordBetween } from './wordsearch';
 import { createBingoCards } from './bingo';
 import { createSort, dropInBasket, isSorted, selectItem } from './sorting';
+import { SHADOW_IDS, createShadowRound } from './shadow';
+import { PICTURE_BY_ID } from '../../data/pictures';
 
 describe('random', () => {
   it('shuffles a copy without touching the input', () => {
@@ -158,5 +160,30 @@ describe('sorting', () => {
     let state = createSort(['k1', 'k2'], ['g1', 'g2'], 2, createRng(3));
     for (const item of state.items) state = dropInBasket(selectItem(state, item.id), item.basket);
     expect(isSorted(state)).toBe(true);
+  });
+});
+
+describe('shadow match', () => {
+  it('offers distinct pictures that include the shadow', () => {
+    for (let seed = 0; seed < 50; seed++) {
+      for (const count of [2, 3, 4]) {
+        const round = createShadowRound(count, createRng(seed));
+        expect(round.options).toHaveLength(count);
+        expect(new Set(round.options).size).toBe(count);
+        expect(round.options).toContain(round.target);
+      }
+    }
+  });
+
+  it('does not repeat the last shadow straight away', () => {
+    for (let seed = 0; seed < 50; seed++) {
+      const first = createShadowRound(3, createRng(seed));
+      expect(createShadowRound(3, createRng(seed + 1000), first.target).target).not.toBe(first.target);
+    }
+  });
+
+  it('uses only real pictures, leaving out shapes that read as blobs', () => {
+    for (const id of SHADOW_IDS) expect(PICTURE_BY_ID.has(id)).toBe(true);
+    for (const blob of ['bread', 'dog', 'lemon']) expect(SHADOW_IDS).not.toContain(blob);
   });
 });

@@ -47,7 +47,7 @@ sources:
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/daily-care/communications"
 relatedGames: [word-search, coloring, conversation-cards, picture-bingo]
-related: [activities/ideas, activities/care-home-groups, activities/arts-and-crafts, activities/daily-routine, activities/reminiscence]
+related: [activities/ideas, activities/care-home-groups, activities/arts-and-crafts, activities/daily-routine, activities/reminiscence, activities/trivia, activities/puzzles]
 health: false
 ---
 
