@@ -1,9 +1,12 @@
 # Localization
 
 The app offers 20 languages. English is the source; every other language falls
-back to English for anything not yet translated, so a partial translation is
-safe to ship as a build, but no store listing may claim a language until a
-person has reviewed its translation (see `WORKBOARD.md`, GM-036).
+back to English for anything not yet translated. By maintainer decision
+(2026-10-31) the 19 translations are machine-made and ship before native
+review; `docs/specs/release-status.json` records each language as unreviewed
+until a person who reads it has checked it (see `WORKBOARD.md`, GM-036).
+Run `python3 scripts/check_arb.py lib/l10n/arb/app_<locale>.arb` for a quick
+check of keys, placeholders and plural structure, then `flutter gen-l10n`.
 
 | Language | ARB / overlay name | Apple and Android name |
 | --- | --- | --- |
@@ -95,6 +98,6 @@ flutter test test/l10n                        # ARB parity, overlays, layout
 The checks catch a stale `packs_en.json`, an overlay with an unknown id, a
 non-text value or an unknown field, a missing overlay or `InfoPlist.strings`,
 and platform language lists that differ from the ARB files. They cannot judge
-translation quality or truthfulness: a person who reads the language reviews
-each file, then checks the running app at 200% text, in Arabic right to left,
-and with VoiceOver or TalkBack before any store copy claims the language.
+translation quality or truthfulness. Native review should read each file,
+then check the running app at 200% text, in Arabic right to left, and with
+VoiceOver or TalkBack; until then the language is listed as unreviewed.
