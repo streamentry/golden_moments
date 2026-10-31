@@ -16,7 +16,8 @@ ROOT = Path(__file__).resolve().parents[1]
 EN = json.loads((ROOT / 'lib/l10n/arb/app_en.arb').read_text(encoding='utf-8'))
 ICU = re.compile(r'\{\s*(\w+)\s*,\s*(plural|select)\s*,')
 BRANCH = re.compile(r'(?:^|[\s}])(=\d+|zero|one|two|few|many|other|\w+)\s*\{')
-PLACEHOLDER = re.compile(r'\{\s*(\w+)\s*[,}]')
+# Names start with a Latin letter, so branch text such as {1枚} is not mistaken for one.
+PLACEHOLDER = re.compile(r'\{\s*([A-Za-z_]\w*)\s*[,}]')
 
 
 def shape(text):

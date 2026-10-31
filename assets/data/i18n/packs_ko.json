@@ -1,4 +1,166 @@
 {
-  "categories": {},
-  "packs": {}
+  "categories": {
+    "animals": {
+      "name": "동물",
+      "description": "세계 곳곳의 귀엽고 친근한 동물"
+    },
+    "nature": {
+      "name": "자연",
+      "description": "아름다운 풍경과 자연의 모습"
+    },
+    "food": {
+      "name": "음식",
+      "description": "맛있는 음식과 간식"
+    },
+    "vintage": {
+      "name": "자동차",
+      "description": "보면서 이야기 나눌 자동차와 트럭"
+    },
+    "flowers": {
+      "name": "꽃",
+      "description": "아름다운 꽃과 정원 풍경"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "농장 동물",
+      "description": "시골 나들이에서 만나는 것 같은 친근한 농장 동물.",
+      "theme": "시골 생활",
+      "images": {
+        "cow_1": "순한 소",
+        "pig_1": "즐거운 돼지",
+        "chicken_1": "수탉",
+        "buffalo_1": "물소",
+        "horse_1": "멋진 말",
+        "duck_1": "오리 가족",
+        "goat_1": "호기심 많은 염소",
+        "rabbit_1": "귀여운 토끼"
+      }
+    },
+    "nature_mountains": {
+      "title": "산 풍경",
+      "description": "가슴이 탁 트이는 산 풍경과 경치",
+      "theme": "자연의 아름다움",
+      "images": {
+        "mountain_1": "눈 덮인 봉우리",
+        "mountain_2": "후지산",
+        "mountain_3": "알프스 골짜기",
+        "mountain_4": "바위 산꼭대기",
+        "mountain_5": "숲이 우거진 언덕",
+        "mountain_6": "안개 낀 산"
+      }
+    },
+    "vintage_cars": {
+      "title": "자동차와 트럭",
+      "description": "보면서 이야기 나눌 반짝이는 자동차와 트럭",
+      "theme": "길 위에서",
+      "images": {
+        "vintage_car_1": "노을 속 주황색 아우디",
+        "vintage_car_2": "사막의 파란 스포츠카",
+        "vintage_car_3": "은색 부가티",
+        "vintage_car_4": "길 위의 검은 포르쉐",
+        "vintage_car_5": "야자수 길의 주황색 BMW",
+        "vintage_car_6": "차고 옆 파란 쿠페",
+        "vintage_car_7": "초록색 픽업트럭",
+        "vintage_car_8": "붉은 바위 사이 흰색 SUV",
+        "vintage_car_9": "애스턴 마틴",
+        "vintage_car_10": "흰 줄무늬 파란 자동차"
+      }
+    },
+    "animals_safari": {
+      "title": "사파리 동물",
+      "description": "아프리카 사파리의 늠름한 동물들",
+      "theme": "야생 동물",
+      "images": {
+        "lion_1": "늠름한 사자",
+        "elephant_2": "아프리카코끼리",
+        "jaguar_3": "재규어",
+        "zebra_4": "줄무늬 얼룩말",
+        "rhino_5": "힘센 코뿔소",
+        "cheetah_6": "날쌘 치타",
+        "fox_7": "갈색 여우",
+        "bear_8": "북극곰",
+        "turtle_9": "갈색 거북",
+        "squirrel_10": "갈색 다람쥐",
+        "macaw_11": "노랑과 파랑 앵무새",
+        "tiger_12": "호랑이",
+        "raccoon_13": "너구리",
+        "wolf_14": "회색 늑대",
+        "crocodile_15": "악어",
+        "peacock_16": "아름다운 공작"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "맛있는 디저트",
+      "description": "식사 뒤에 즐기는 맛있는 디저트.",
+      "theme": "달콤한 디저트",
+      "images": {
+        "pastries_1": "페이스트리 네 개",
+        "oreo_cookie_sandwiches_2": "오레오 쿠키",
+        "crepe_3": "크레이프",
+        "pancake_4": "팬케이크",
+        "macarons_5": "마카롱",
+        "caramel_cake_6": "캐러멜 케이크"
+      }
+    },
+    "flowers_tropical": {
+      "title": "열대의 꽃",
+      "description": "이국적인 꽃들로 열대의 화사한 아름다움을 만나 보세요.",
+      "theme": "열대 꽃",
+      "images": {
+        "hibiscus_1": "빨간 히비스커스",
+        "frangipani_2": "빨갛고 하얀 프랜지파니",
+        "sunflower_3": "해바라기",
+        "hydrangea_4": "하얀 수국",
+        "rose_5": "장미",
+        "chrysanthemum_6": "국화",
+        "anthurium_7": "안스리움",
+        "plumeria_8": "플루메리아",
+        "kodom_9": "카담바 꽃",
+        "delphinium_10": "델피니움"
+      }
+    },
+    "food_street_snacks": {
+      "title": "세계 길거리 음식",
+      "description": "세계 곳곳의 맛있는 간식으로 다채로운 길거리 음식을 만나 보세요.",
+      "theme": "길거리 음식",
+      "images": {
+        "taco_1": "멕시코 타코",
+        "ramen_2": "일본 라멘",
+        "dumplings_3": "중국 만두",
+        "samosa_4": "인도 사모사",
+        "pizza_5": "이탈리아 피자 한 조각",
+        "crepe_6": "프랑스 크레이프",
+        "satay_7": "태국 사테 꼬치",
+        "burger_8": "미국 햄버거",
+        "bao_9": "찐빵",
+        "takoyaki_10": "일본 다코야키"
+      }
+    },
+    "nature_landscape": {
+      "title": "자연 풍경",
+      "description": "천천히 바라보며 함께 이야기 나누기 좋은, 차분하고 아름다운 자연 풍경.",
+      "theme": "자연 풍경",
+      "images": {
+        "mountain_1": "산맥",
+        "forest_2": "안개 낀 숲",
+        "lake_3": "산속 호수",
+        "desert_4": "사막 모래 언덕",
+        "waterfall_5": "폭포",
+        "beach_6": "모래 해변",
+        "river_7": "흐르는 강",
+        "canyon_8": "그랜드 캐니언",
+        "sunset_9": "노을 진 하늘",
+        "snow_mountain_10": "눈 덮인 산",
+        "flowers_11": "들꽃",
+        "rainforest_12": "열대 우림",
+        "iceberg_13": "빙산",
+        "volcano_14": "화산",
+        "cliff_15": "바닷가 절벽",
+        "aurora_16": "오로라",
+        "savannah_17": "사바나 초원",
+        "coral_reef_18": "산호초"
+      }
+    }
+  }
 }
