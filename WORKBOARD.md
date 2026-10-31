@@ -50,27 +50,22 @@ Open items for the maintainer: legal review of the website privacy notice and te
 
 Next: add the two secrets, merge, watch the first deploy; re-check the app at 200% text on iPhone SE and iPad with the serif headlines; refresh the OG images (`scripts/og-games.mjs`) and store screenshots so they carry the new headline type.
 
-## Category strategy and activity measurement (2026-10-31)
-
-[Category strategy](docs/strategy/category-strategy.md) audits Golden Moments against `category-leader.md` and live competitors and chooses the first category: **ready-to-use dementia activities to do together, free, on the web, on paper and on a phone**, for US family caregivers, with activity staff tested as a second segment. It rejects the care-platform category for now, corrects five claims in the research document and sets gates G1–G6.
-
-| Deliverable | Status |
-| --- | --- |
-| Strategy, audit, roadmap, measurement and decision gates | Written; claims checked against primary sources and live store listings on 2026-10-31 |
-| Website activity events through the existing GA4 tag (`site/src/lib/track.ts`, `GameFrame`): `activity_start`, `activity_restart`, `activity_done`, `activity_print`, and an optional "Did this help today?" (`activity_feedback`, answer `yes` or `not_really`) | Implemented; unit tests, build and site checks pass; the start-once and print-only-on-printable-sheets rules have unit tests; the rest (start on a click only, the question appearing after the first click, focus moving to the reply, 56px buttons, nothing loaded or sent on Photo pairs) was checked by hand in the built-in browser under the Workers runtime with a stubbed tag, and has no automated component test. Privacy notice updated. **New website telemetry: merging is the maintainer's decision** |
-| Baseline | First-time downloads unmeasured (App Store Connect data not yet produced; Sales vendor number not recorded); iOS 0 ratings; top Apple search result for "dementia activities"; Bing showed only the homepage indexed |
-
-Next, in order: verify Google Search Console and Bing Webmaster Tools and submit the sitemap (maintainer, DNS on Cloudflare); register `answer` as an event-scoped custom dimension in GA4; re-answer the App Store age questionnaire truthfully (not just to lower the rating); create the App Store campaign provider token for `ct=web`; record the first week of events, downloads and indexed pages as the baseline; start recruiting the 20-unit reuse pilot.
-
 ## Growth pass: ratings, reminders and ASO (2026-10-30, 1.5.0+9 candidate)
 
 Owner goal: from about 10 to 100 installs a day, with high retention. Maintainer decisions on 2026-10-30: add Apple's rating prompt plus a Help link (reverses the 2026-10-18 "no rating request" choice; GM-034) and build opt-in reminders (GM-038, R3, now approved). Both use a small iOS channel in `AppDelegate.swift` with no new package; Android hides reminders and gets only the Rate link to Play. iPhone shares now carry the App Store link. Keywords, promotional text and the Play short description were rewritten (see `docs/strategy/us-aso.md` › October 30, including console actions such as the 16+ age rating).
 
 Evidence: strict analysis clean, 450+ Flutter tests pass with 79.8% line coverage, 64 Python tests and metadata checks pass, DESIGN.md lint 0/0. iOS 26.5 simulator, debug build: Apple's rating sheet appeared on Home after a finished game with seeded counters, never on the finish message (`docs/release/evidence/1.5.0/`); the notification question appeared only after "Turn on reminder", and scheduling succeeded. Not device-verified, no VoiceOver run, Android not built.
 
-## Growth and localization plan (2026-10-31, proposal)
+## Plan and activity measurement (2026-10-31, proposal)
 
-`docs/plan/README.md` proposes how the app could become the first choice for one job in ten languages, with research appendices on [language markets](docs/plan/language-markets.md), [competitors and review gaps](docs/plan/competitors.md) and [design evidence](docs/plan/evidence.md). It reframes "cover all use cases" as "handle every moment of one job", sequences device acceptance and the Play release before a third language, and proposes two catalog entries (GM-041 participant language, GM-042 helper settings without a password). It records how it differs from `docs/strategy/category-leader.md` (a platform bet that the current boundaries exclude) and proposes running that document's cheapest web test before any platform scope decision. Nothing in it is approved, scheduled or implemented; the decisions it asks for are listed in its section 9. Documentation only: Python guidance and metadata checks run; no Flutter or device run was performed for it.
+[docs/plan/README.md](docs/plan/README.md) reconciles `docs/strategy/category-leader.md` with the earlier ten-language plan in nine short sections: own one job ("find something comfortable to enjoy together in the next minute") for US families at home, with activity staff as a tested second segment; keep the care-platform bet as a named alternative with the evidence that would switch to it; read all five "#1" measures as one scorecard first; then the 7/30/90/365-day gates and twelve maintainer decisions. Detail moved verbatim to [docs/plan/detail.md](docs/plan/detail.md); facts checked and corrections are in [docs/plan/verification.md](docs/plan/verification.md). Nothing in it is approved, scheduled or verified on a device.
+
+| Deliverable | Status |
+| --- | --- |
+| Website activity events through the existing GA4 tag (`site/src/lib/track.ts`, `GameFrame`): `activity_start`, `activity_restart`, `activity_done`, `activity_print`, and an optional "Did this help today?" (`activity_feedback`, answer `yes` or `not_really`) | Implemented; unit tests, build and site checks pass; the start-once and print-only-on-printable-sheets rules have unit tests; the rest (start on a click only, the question appearing after the first click, focus moving to the reply, 56px buttons, nothing loaded or sent on Photo pairs) was checked by hand in the built-in browser under the Workers runtime with a stubbed tag, and has no automated component test. Privacy notice updated. **New website telemetry: merging is the maintainer's decision** |
+| Baseline | First-time downloads unmeasured (App Store Connect data not yet produced; Sales vendor number not recorded); iOS 0 ratings; top Apple search result for "dementia activities"; Bing showed only the homepage indexed |
+
+Next, in order: merge the activity events; verify Google Search Console and Bing Webmaster Tools and submit the sitemap; register `answer` as an event-scoped custom dimension in GA4; record the first scorecard (plan section 3); send the reuse pilot messages; re-answer the App Store age questionnaire truthfully (not just to lower the rating); create the App Store campaign provider token for `ct=web`.
 
 ## Next in order
 

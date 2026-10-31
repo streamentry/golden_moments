@@ -28,13 +28,13 @@ and dignity matter more than completion, engagement, or a score.
 
 | Working on | Read |
 | --- | --- |
-| Scope or priority | [Product](docs/specs/product.md), [WORKBOARD](WORKBOARD.md), [category strategy](docs/strategy/category-strategy.md) |
+| Scope or priority | [Product](docs/specs/product.md), [WORKBOARD](WORKBOARD.md) |
 | Flutter implementation | [Flutter guide](docs/engineering/flutter.md) |
 | Multi-step work or review | [Agent workflow](docs/engineering/agentic.md) |
 | Photos or persistence | [Photo specification](docs/specs/offline-photos.md) |
 | UI or accessibility | [DESIGN](DESIGN.md), [safety](docs/specs/safety-accessibility.md) |
 | Store copy or acquisition | [Metadata](metadata/app-store.en-US.json), [ASO](docs/strategy/us-aso.md) |
-| Languages, growth or new modes | [Plan](docs/plan/README.md) (proposal, not status) |
+| Category, growth, languages or new modes | [Plan](docs/plan/README.md) (proposal, not status) |
 | Screenshots | [Capture specification](docs/specs/screenshots.md) |
 | Verification or release | [Status](docs/specs/release-status.json), [release checklist](docs/release/1.3.0.md) |
 | Why these practices | [Dated primary sources](docs/engineering/sources.md) |

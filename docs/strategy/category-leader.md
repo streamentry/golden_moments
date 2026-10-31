@@ -1,6 +1,6 @@
 # Building the Dementia App and Website Most Likely to Become the Category Leader
 
-> **Audited 2026-10-31.** Read [category-strategy.md](category-strategy.md) first: it corrects claims here (REACH II randomized 642 caregivers, not 495; the WHO physical-activity recommendation is mhGAP 2023; GUIDE pays nothing separately for apps; Elevmi's US App Store page is gone; the 57M figure is WHO's 2021 estimate) and explains why Golden Moments does not adopt this document's care-platform category for now.
+> **Audited 2026-10-31.** Read [the plan](../plan/README.md) and its [verification appendix](../plan/verification.md) first: they correct claims here (REACH II randomized 642 caregivers, not 495; the WHO physical-activity recommendation is mhGAP 2023; GUIDE pays nothing separately for apps; Elevmi's US App Store page is gone; the 57M figure is WHO's 2021 estimate) and explain why Golden Moments does not adopt this document's care-platform category for now, and what evidence would change that.
 
 *Research current to October 30, 2026. Planning assumptions where the brief is unspecified: US-first launch, English-first product, iOS + Android + responsive web, initial focus on family caregivers and people with mild-to-moderate dementia living in the community, followed by international localization. The roadmap assumes roughly 6–8 core FTEs and enough capital for a serious 24‑month product/clinical effort; exact staffing and budget should be adjusted after the first validation phase.*
 

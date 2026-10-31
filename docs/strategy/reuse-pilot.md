@@ -1,13 +1,13 @@
-# Reuse pilot kit (GM-039, gates G3 and G4)
+# Reuse pilot kit (GM-039; plan day-30 and day-90 gates)
 
 Ready to run, not started. This kit puts the reuse-and-comparison stage of
 [validation.md](../specs/senior-first/validation.md) into practice and answers two
-questions from [category-strategy.md](category-strategy.md):
+questions from [the plan](../plan/README.md):
 
-- **G3:** do people come back to Golden Moments on another day without being
+- **Reuse gate (day 30):** do people come back to Golden Moments on another day without being
   reminded? Continue if at least 8 of 20 use units return voluntarily and at
   least 12 would choose it for their next comparable session.
-- **G4:** do activity staff get more repeat value than families? If staff show at
+- **Segment decision (day 90):** do activity staff get more repeat value than families? If staff show at
   least twice the return or print rate, they become the first segment.
 
 These thresholds are chosen product decisions, not benchmarks or clinical
@@ -116,8 +116,8 @@ answer is not a success.
 
 ## After the pilot
 
-1. Fill in the G3 and G4 rows in [category-strategy.md](category-strategy.md) §10
+1. Record the reuse and segment results in the [plan](../plan/README.md) scorecard (section 3) and day-30 gate (section 4)
    with the counts and denominators, and summarize barriers in WORKBOARD.
-2. If G3 fails, diagnose setup and activity fit before adding anything.
+2. If the reuse gate fails, diagnose setup and activity fit before adding anything.
 3. Do not quote participants publicly without separate written permission, and
    never as an endorsement of health benefit.
