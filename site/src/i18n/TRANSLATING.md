@@ -12,10 +12,14 @@ later; `docs/specs/release-status.json` tracks that per language.
 | `src/i18n/ui/<code>.json` | `src/i18n/ui/en.json` | `node scripts/check-translation.mjs src/i18n/ui/en.json src/i18n/ui/<code>.json` |
 | `src/i18n/games/<code>.json` | `src/i18n/games/en.json` | same script with the games files |
 | `src/i18n/play/<code>.json` | `src/i18n/play/en.json` (see `play/README.md`) | same script |
-| `src/content/guides-i18n/<code>/<section>/<slug>.md` | `src/content/guides/<section>/<slug>.md` | `pnpm exec astro build` |
+| `src/content/guides-i18n/<code>/<section>/<slug>.md` | `src/content/guides/<section>/<slug>.md` | `python3 scripts/check-guide-translation.py <code>`, then `pnpm exec astro build` |
 
 A language goes live when `ui/<code>.json` exists, so add the games file in the
-same change.
+same change. A translated guide keeps the English frontmatter for `section`,
+`order`, dates, `sources`, `relatedGames`, `related` and `health`, adds
+`translatedFrom` (the English `updated` it was made from), and keeps every
+link target in the same order; links stay English paths and the site points
+them at the reader's language when that page exists.
 
 ## Rules
 
