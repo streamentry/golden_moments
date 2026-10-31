@@ -1,0 +1,477 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Oyun",
+      "restart": "Yeniden başla",
+      "soundOn": "Yumuşak sesler açık",
+      "soundOff": "Yumuşak sesler kapalı",
+      "done": "Şimdilik bu kadar"
+    },
+    "tile": {
+      "named": "{name}, kare {n}",
+      "hidden": "Gizli resim, kare {n}",
+      "withState": "{label}, {state}",
+      "matched": "Eşleşti",
+      "selected": "Seçildi",
+      "picture": "Resim",
+      "photoNumber": "Fotoğraf {n}"
+    },
+    "pairs": {
+      "allTogether": "Bütün eşler bir arada. Yeniden oynayın ya da biraz dinlenin.",
+      "photoPair": "Bir çift fotoğraf, yan yana.",
+      "picturePair": "{name}: iki resim yan yana.",
+      "selected": "{name}. Şimdi eşini bulun.",
+      "mismatch": "Acele etmeyin. Devam etmek için bir resme dokunun.",
+      "mismatchNamed": "{a} ve {b}. Acele etmeyin. Devam etmek için bir resme dokunun."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Bir resme, sonra onunla eşleşen resme dokunun.",
+      "guidanceHidden": "Çevirmek için iki kareye dokunun. Aynı olan iki resmi arayın.",
+      "restart": "Yeni resimler",
+      "sizeLegend": "Kaç kare",
+      "size": {"one": "{n} kare", "other": "{n} kare"},
+      "viewLegend": "Nasıl oynanır",
+      "viewShowing": "Resimler açık",
+      "viewHidden": "Gizli resimler",
+      "playAgain": "Yeni resimlerle yeniden oynayın",
+      "talk": "Resimler üzerine birlikte konuşun"
+    },
+    "choose": {
+      "countLegend": "Kaç resim",
+      "count": "Aralarından seçilecek {n} resim",
+      "thatOne": "Bu, {name|lower}. Acele etmeyin."
+    },
+    "findTheSame": {
+      "guidance": "Üstteki resme bakın. Aşağıda aynısına dokunun.",
+      "yes": "Evet, ikisi de {name|lower}.",
+      "next": "Sonraki resim"
+    },
+    "shadowMatch": {
+      "guidance": "Üstteki gölgeye bakın. Bu gölgeyi oluşturan resme dokunun.",
+      "yes": "Evet, bu gölgeyi oluşturan {name|lower}.",
+      "next": "Sonraki gölge",
+      "shadowAlt": "Eşleştirilecek bir gölge",
+      "foundAlt": "{name} resminin gölgesi"
+    },
+    "sortTogether": {
+      "guidance": "Bir resme, sonra ait olduğu sepete dokunun.",
+      "restart": "Yeni resimler",
+      "themeLegend": "Konu",
+      "selected": "{name}. Şimdi gideceği sepete dokunun.",
+      "pickFirst": "Önce bir resme, sonra bir sepete dokunun.",
+      "hint": "{name} “{basket}” sepetine gidebilir. Oraya koymak için o sepete dokunun.",
+      "placed": "{name} artık “{basket}” sepetinde.",
+      "sorted": "Her şey yerli yerinde. Sepetlere birlikte göz atın ya da başka bir konu deneyin.",
+      "basket": {"one": "“{basket}” sepeti, içinde {count} resim", "other": "“{basket}” sepeti, içinde {count} resim"}
+    },
+    "picturePuzzle": {
+      "guidance": "Bir parçaya, sonra bir başkasına dokunun. İkisi yer değiştirir.",
+      "restart": "Yeniden karıştır",
+      "pictureLegend": "Resim",
+      "pictures": {
+        "sailboat": "Yelkenli",
+        "house": "Ev",
+        "balloon": "Balon",
+        "sunflower": "Ayçiçeği",
+        "lighthouse": "Deniz feneri",
+        "cat": "Kedi"
+      },
+      "sizeLegend": "Parçalar",
+      "size": {"one": "{n} parça", "other": "{n} parça"},
+      "pickedUp": "Parça alındı. Şimdi gitmesi gereken yere dokunun.",
+      "whole": "{name} resmi yeniden bütün. İstediğiniz zaman başka bir resim seçin.",
+      "swapped": {
+        "one": "Yer değişti. {total} parçadan {correct} tanesi yerinde.",
+        "other": "Yer değişti. {total} parçadan {correct} tanesi yerinde."
+      },
+      "guideAlt": "Resmin tamamı: {name}",
+      "guideText": "Resim bütün olduğunda böyle görünür.",
+      "piece": "Parça, {place}",
+      "pieceInPlace": ", doğru yerde",
+      "piecePickedUp": ", alındı",
+      "places4": ["sol üstte", "sağ üstte", "sol altta", "sağ altta"],
+      "places9": [
+        "sol üstte",
+        "üst ortada",
+        "sağ üstte",
+        "sol ortada",
+        "tam ortada",
+        "sağ ortada",
+        "sol altta",
+        "alt ortada",
+        "sağ altta"
+      ],
+      "done": "Resim yeniden bütün. Yeniden oynayın ya da biraz dinlenin.",
+      "playAgain": "Yeniden karıştırın"
+    },
+    "finishTheSaying": {
+      "guidance": "Atasözünü birlikte okuyun, sonra onu tamamlayan sözcüğe dokunun.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Evet: “{start} {end}.”",
+      "otherEnding": "Bu da güzel: “{word}”. Atasözünün bilinen sonu: “{end}”.",
+      "revealed": "Atasözü şöyle: “{start} {end}.”",
+      "choicesLabel": "Son sözcüğü seçin",
+      "show": "Sonunu göster",
+      "talk": "Üzerine konuşalım: ",
+      "next": "Sonraki atasözü"
+    },
+    "wordSearch": {
+      "guidance": "Kelimeler soldan sağa ya da yukarıdan aşağıya okunur. Bir kelimenin ilk harfine, sonra son harfine dokunun.",
+      "restart": "Yeni bulmaca",
+      "themeLegend": "Konu",
+      "sizeLegend": "Tablo boyutu",
+      "size": {"one": "{n} × {n} ({words} kelime)", "other": "{n} × {n} ({words} kelime)"},
+      "print": "Bu bulmacayı yazdır",
+      "letterChosen": "{letter} harfi seçildi. Şimdi kelimenin son harfine dokunun.",
+      "found": "{word} bulundu.",
+      "foundAll": "{word} bulundu. Bütün kelimeler bulundu. Yeniden oynayın ya da biraz dinlenin.",
+      "tryAgain": "Acele etmeyin. Bir kelimenin ilk harfine, sonra son harfine dokunun.",
+      "gridLabel": "Harf tablosu, {n} satır ve {n} sütun. Harfler arasında gezinmek için ok tuşlarını kullanın.",
+      "cell": "{letter}, satır {row}, sütun {col}",
+      "cellFound": ", bulunan bir kelimenin parçası",
+      "wordsHeading": "Bulunacak kelimeler",
+      "wordFound": " (bulundu)",
+      "sheetTitle": "Kelime avı: {theme}",
+      "sheetNote": "Kelimeler soldan sağa ya da yukarıdan aşağıya okunur.",
+      "unavailable": "Harf tablosu bu dile uymadığı için kelime avı burada sunulmuyor. Bunun yerine resimli oyunları deneyin."
+    },
+    "coloring": {
+      "guidance": "Bir renge, sonra resmin bir bölümüne dokunun.",
+      "restart": "Renkleri temizle",
+      "cleared": "Sayfa yeniden boş.",
+      "pageLegend": "Sayfa",
+      "print": "Bu sayfayı yazdır",
+      "colorsLabel": "Renkler",
+      "paintChosen": "{paint} seçildi.",
+      "painted": "{part} artık {paint|lower}.",
+      "artLabel": "{page}, boyanacak {count} bölüm",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, boyanmadı",
+      "paints": {
+        "red": "Kırmızı",
+        "orange": "Turuncu",
+        "yellow": "Sarı",
+        "green": "Yeşil",
+        "blue": "Mavi",
+        "purple": "Mor",
+        "pink": "Pembe",
+        "brown": "Kahverengi",
+        "sky-blue": "Gök mavisi",
+        "cream": "Krem",
+        "gray": "Gri",
+        "white": "Beyaz"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Kartı yüksek sesle okuyun. Doğru cevap yoktur.",
+      "position": "Kart {n} / {total}",
+      "themeLegend": "Konu",
+      "next": "Sonraki kart",
+      "previous": "Önceki kart",
+      "print": "Tüm kartları yazdır",
+      "sheetTitle": "Sohbet kartları"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Önce fotoğraflarınızı seçin.",
+      "guidance": "Bir fotoğrafa, sonra onunla eşleşen fotoğrafa dokunun.",
+      "restart": "Yeniden karıştır",
+      "intro": "Bu cihazdan **2 ila 6 fotoğraf seçin**. Fotoğraflar yalnızca bu sayfada gösterilir; hiçbir zaman yüklenmez ya da kaydedilmez.",
+      "choose": "Fotoğraf seç",
+      "chooseDifferent": "Başka fotoğraflar seç",
+      "clear": "Fotoğrafları temizle",
+      "cleared": "Fotoğraflar bu sayfadan temizlendi.",
+      "atLeastTwo": "Lütfen en az iki fotoğraf seçin.",
+      "usingFirst": "İlk {max} fotoğraf kullanılıyor.",
+      "skipped": {
+        "one": "{count} dosya, gösterebileceğimiz bir fotoğraf değildi.",
+        "other": "{count} dosya, gösterebileceğimiz bir fotoğraf değildi."
+      },
+      "playAgain": "Bu fotoğraflarla yeniden oynayın",
+      "empty": "Fotoğraflarınız burada görünecek, her biri iki kez."
+    },
+    "pictureBingo": {
+      "guidance": "Önce kartları yazdırın. Sonra resim çekme bölümünü elinizdeki en büyük ekranda gösterin.",
+      "called": {
+        "one": "{name}. {total} resimden {called} tanesi çekildi.",
+        "other": "{name}. {total} resimden {called} tanesi çekildi."
+      },
+      "start": "İlk resmi çekmek için “Sonraki resim”e dokunun.",
+      "restart": "Yeni oyun başlat",
+      "squaresLegend": "Her karttaki kare sayısı",
+      "squares": "{n} kare ({side} × {side})",
+      "cardsLegend": "Kaç kart yazdırılacak",
+      "cards": {"one": "{n} kart", "other": "{n} kart"},
+      "print": {"one": "Kartı yazdır ({n})", "other": "Kartları yazdır ({n})"},
+      "ready": "Hazır olduğunuzda başlayın",
+      "next": "Sonraki resim",
+      "allCalled": "Bütün resimler çekildi",
+      "alreadyCalled": "Daha önce çekildi",
+      "sheetTitle": "Resimli tombala · kart {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Daire büyürken nefes alın, küçülürken verin. Altı nefesten sonra kendiliğinden durur.",
+      "paceLegend": "Tempo",
+      "paceSlow": "Yavaş (alırken ve verirken 5’er saniye)",
+      "paceGentle": "Hafif (alırken ve verirken 4’er saniye)",
+      "ready": "Hazır olduğunuzda başlayın",
+      "in": "Nefes alın",
+      "hold": "Dinlenin",
+      "out": "Nefes verin",
+      "start": "Başlat",
+      "stop": "Durdur",
+      "started": "Başladı. Daire büyürken nefes alın.",
+      "stopped": "Durdu.",
+      "finished": "Altı yavaş nefes tamamlandı. İstediğiniz zaman yeniden başlayın."
+    }
+  },
+  "pictures": {
+    "teacup": "Çay fincanı",
+    "kettle": "Çaydanlık",
+    "bread": "Somun ekmek",
+    "frying-pan": "Tavada yumurta",
+    "cake": "Doğum günü pastası",
+    "sunflower": "Ayçiçeği",
+    "tulip": "Kırmızı lale",
+    "watering-can": "Sulama kabı",
+    "potted-plant": "Saksı çiçeği",
+    "tree": "Ağaç",
+    "bird": "Daldaki kuş",
+    "butterfly": "Kelebek",
+    "dog": "Köpek",
+    "cat": "Kedi",
+    "fish": "Japon balığı",
+    "apple": "Kırmızı elma",
+    "pear": "Armut",
+    "strawberry": "Çilek",
+    "banana": "Muz",
+    "lemon": "Limon",
+    "cherries": "Kiraz",
+    "house": "Ev",
+    "lamp": "Masa lambası",
+    "armchair": "Koltuk",
+    "key": "Eski anahtar",
+    "umbrella": "Şemsiye",
+    "sailboat": "Yelkenli",
+    "car": "Klasik araba",
+    "bicycle": "Bisiklet",
+    "balloon": "Sıcak hava balonu",
+    "lighthouse": "Deniz feneri",
+    "sun": "Güneş",
+    "moon": "Ay ve yıldızlar"
+  },
+  "content": {
+    "sayings": [
+      {"start": "Sakla samanı, gelir", "end": "zamanı", "others": ["baharı", "bayramı"], "prompt": "Atmaya kıyamadığınız bir eşya var mı?"},
+      {"start": "Damlaya damlaya", "end": "göl olur", "others": ["dere olur", "havuz olur"], "prompt": "Yavaş yavaş biriktirmeyi sevdiğiniz bir şey var mı, örneğin tarifler ya da kartpostallar?"},
+      {"start": "Ağaç yaşken", "end": "eğilir", "others": ["büyür", "sulanır"], "prompt": "Gençken öğrendiğiniz hangi işi hâlâ seve seve yaparsınız?"},
+      {"start": "Bir elin nesi var, iki elin", "end": "sesi var", "others": ["işi var", "gücü var"], "prompt": "Birlikte yapmaktan hoşlandığınız işler hangileri?"},
+      {"start": "Tatlı dil yılanı deliğinden", "end": "çıkarır", "others": ["çağırır", "uyandırır"], "prompt": "Güzel bir sözle gününüzü güzelleştiren biri var mı?"},
+      {"start": "Ayağını yorganına göre", "end": "uzat", "others": ["ört", "yay"], "prompt": "Kış gecelerinde yorgan mı, battaniye mi?"},
+      {"start": "Bugünün işini yarına", "end": "bırakma", "others": ["saklama", "taşıma"], "prompt": "Sabahları ilk iş ne yapmayı seversiniz?"},
+      {"start": "Üzüm üzüme baka baka", "end": "kararır", "others": ["tatlanır", "olgunlaşır"], "prompt": "Üzümün hangisini seversiniz, siyahını mı, beyazını mı?"},
+      {"start": "Bir fincan kahvenin kırk yıl", "end": "hatırı var", "others": ["tadı var", "sohbeti var"], "prompt": "Kahvenizi nasıl içersiniz: sade mi, orta mı, şekerli mi?"},
+      {"start": "Sabrın sonu", "end": "selamettir", "others": ["huzurdur", "bayramdır"], "prompt": "Sizi en çok ne sakinleştirir?"},
+      {"start": "Az olsun,", "end": "öz olsun", "others": ["tatlı olsun", "sıcak olsun"], "prompt": "Küçük ama size çok keyif veren bir şey nedir?"},
+      {"start": "Emek olmadan", "end": "yemek olmaz", "others": ["ekmek olmaz", "bayram olmaz"], "prompt": "Hazırlaması zahmetli ama tadına doyulmayan bir yemek hangisi?"},
+      {"start": "Gönül ne kahve ister ne kahvehane, gönül sohbet ister, kahve", "end": "bahane", "others": ["yanında", "sonra"], "prompt": "Sohbet etmeyi en çok kiminle seversiniz?"},
+      {"start": "Ne ekersen onu", "end": "biçersin", "others": ["toplarsın", "sularsın"], "prompt": "Bir bahçeniz olsa ne ekmek isterdiniz?"},
+      {"start": "Söz gümüşse sükût", "end": "altındır", "others": ["incidir", "elmastır"], "prompt": "Sessizce oturup seyretmeyi sevdiğiniz bir yer var mı?"},
+      {"start": "Dereyi görmeden paçaları", "end": "sıvama", "others": ["ıslatma", "toplama"], "prompt": "Dere ya da nehir kenarında oturmak hoşunuza gider mi?"},
+      {"start": "Acele işe şeytan", "end": "karışır", "others": ["gülümser", "bakar"], "prompt": "Hiç acele etmeden yapmayı sevdiğiniz bir iş hangisi?"},
+      {"start": "Bin bilsen de bir bilene", "end": "danış", "others": ["sor", "anlat"], "prompt": "Size güzel bir öğüt veren biri oldu mu?"},
+      {"start": "Gülü seven dikenine", "end": "katlanır", "others": ["bakar", "dokunur"], "prompt": "En sevdiğiniz çiçek hangisi?"},
+      {"start": "İşleyen demir", "end": "pas tutmaz", "others": ["kırılmaz", "eğilmez"], "prompt": "Elinizle yapmaktan hoşlandığınız bir iş hangisi?"},
+      {"start": "Ev alma, komşu", "end": "al", "others": ["bul", "seç"], "prompt": "Sizce iyi bir komşu nasıl olur?"},
+      {"start": "Yuvayı dişi kuş", "end": "yapar", "others": ["süsler", "kurar"], "prompt": "Bir evi sıcak bir yuva yapan nedir?"},
+      {"start": "Her işte bir hayır", "end": "vardır", "others": ["gizlidir", "bulunur"], "prompt": "Size iyi gelen küçük sürprizler nelerdir?"},
+      {"start": "Sütten ağzı yanan yoğurdu üfleyerek", "end": "yer", "others": ["içer", "sever"], "prompt": "Yoğurdu nasıl seversiniz: ayran mı, cacık mı, sade mi?"},
+      {"start": "Aç ayı", "end": "oynamaz", "others": ["uyumaz", "gülmez"], "prompt": "Karnınız acıktığında canınız en çok ne çeker?"},
+      {"start": "Kervan yolda", "end": "düzülür", "others": ["toplanır", "yürür"], "prompt": "Yola çıkmayı sever misiniz? Nereye gitmek hoşunuza gider?"},
+      {"start": "Ateş olmayan yerden duman", "end": "çıkmaz", "others": ["yükselmez", "tütmez"], "prompt": "Soba ya da mangal başında oturmayı sever misiniz?"},
+      {"start": "Mart kapıdan baktırır, kazma kürek", "end": "yaktırır", "others": ["aldırır", "taşıtır"], "prompt": "Soğuk bir günde içinizi ne ısıtır?"},
+      {"start": "Bal tutan parmağını", "end": "yalar", "others": ["tadar", "saklar"], "prompt": "Kahvaltıda bal mı, reçel mi?"},
+      {"start": "Erken kalkan yol", "end": "alır", "others": ["bulur", "görür"], "prompt": "Sabahçı mısınız, yoksa geç kalkmayı mı seversiniz?"},
+      {"start": "İyilik yap, denize", "end": "at", "others": ["bırak", "sal"], "prompt": "Sizce küçük bir iyilik neler olabilir?"},
+      {"start": "Dostlar alışverişte", "end": "görsün", "others": ["bilsin", "gülsün"], "prompt": "Pazarda en sevdiğiniz tezgâh hangisi?"},
+      {"start": "Her şeyin yenisi, dostun", "end": "eskisi", "others": ["iyisi", "yakını"], "prompt": "Bir dostta en çok neye değer verirsiniz?"},
+      {"start": "El elden", "end": "üstündür", "others": ["hızlıdır", "güçlüdür"], "prompt": "Kimin el işini çok beğenirsiniz?"},
+      {"start": "Can boğazdan", "end": "gelir", "others": ["geçer", "başlar"], "prompt": "En sevdiğiniz ev yemeği hangisi?"},
+      {"start": "Misafir umduğunu değil,", "end": "bulduğunu yer", "others": ["sevdiğini yer", "istediğini yer"], "prompt": "Misafire ne ikram etmeyi seversiniz?"},
+      {"start": "Görünen köy kılavuz", "end": "istemez", "others": ["beklemez", "aramaz"], "prompt": "Köy hayatında en çok neyi seversiniz?"},
+      {"start": "Bin işit, bir", "end": "söyle", "others": ["yaz", "gül"], "prompt": "Sizce iyi bir dinleyici nasıl olur?"},
+      {"start": "Yalnız taş duvar", "end": "olmaz", "others": ["tutmaz", "örülmez"], "prompt": "Birlikte yapılınca daha keyifli olan işler hangileri?"},
+      {"start": "Gün doğmadan neler", "end": "doğar", "others": ["olur", "değişir"], "prompt": "Gün doğumunu izlemeyi sever misiniz?"},
+      {"start": "Çivi çiviyi", "end": "söker", "others": ["tutar", "çeker"], "prompt": "Evde bir şeyi onarmak hoşunuza gider mi?"},
+      {"start": "Dağ dağa kavuşmaz, insan insana", "end": "kavuşur", "others": ["gülümser", "uğrar"], "prompt": "Kimin sizi ziyarete gelmesi sizi çok sevindirir?"},
+      {"start": "Tencere yuvarlanmış, kapağını", "end": "bulmuş", "others": ["kapatmış", "yıkamış"], "prompt": "Mutfakta en sevdiğiniz kap kacak hangisi?"},
+      {"start": "Lafla peynir gemisi", "end": "yürümez", "others": ["kalkmaz", "dolmaz"], "prompt": "Hangi peyniri seversiniz: beyaz peynir mi, kaşar mı?"},
+      {"start": "Kızım sana söylüyorum, gelinim sen", "end": "anla", "others": ["dinle", "bil"], "prompt": "Ailede en çok kiminle sohbet edersiniz?"}
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHKLMNOPRSTUYZ",
+      "themes": [
+        {"value": "fruit", "label": "Meyveler", "words": ["ELMA", "ARMUT", "ERİK", "KİRAZ", "ÜZÜM", "İNCİR", "KAVUN", "AYVA", "NAR"]},
+        {"value": "garden", "label": "Bahçe", "words": ["GÜL", "LALE", "TOHUM", "TOPRAK", "YAPRAK", "AĞAÇ", "ÇİÇEK", "ARI", "ÇİM"]},
+        {"value": "kitchen", "label": "Mutfak", "words": ["ÇAY", "BARDAK", "KAŞIK", "TABAK", "TAVA", "ÇATAL", "FIRIN", "EKMEK", "DEMLİK"]},
+        {"value": "weather", "label": "Hava", "words": ["GÜNEŞ", "YAĞMUR", "KAR", "BULUT", "SİS", "DOLU", "AYAZ", "SERİN", "ILIK"]},
+        {"value": "animals", "label": "Hayvanlar", "words": ["KEDİ", "KÖPEK", "KUŞ", "BALIK", "İNEK", "KOYUN", "KEÇİ", "ÖRDEK", "TAVUK"]},
+        {"value": "home", "label": "Ev", "words": ["KAPI", "KOLTUK", "LAMBA", "YATAK", "HALI", "MASA", "SAAT", "PERDE", "SOBA"]}
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Tüm kartlar",
+        "food": "Yemek",
+        "home": "Ev",
+        "outdoors": "Açık hava",
+        "animals": "Hayvanlar",
+        "travel": "Gezip görmek",
+        "work": "İş ve uğraşlar",
+        "music": "Müzik ve eğlence",
+        "seasons": "Mevsimler"
+      },
+      "cards": [
+        {"theme": "food", "picture": "bread", "prompt": "Mutfaktan gelen en sevdiğiniz koku hangisi?"},
+        {"theme": "food", "picture": "cake", "prompt": "Bir kutlama için hangi pastayı ya da tatlıyı seçerdiniz?"},
+        {"theme": "food", "picture": "apple", "prompt": "Bana sevdiğiniz bir reçelden ya da tatlıdan söz eder misiniz?"},
+        {"theme": "food", "picture": "teacup", "prompt": "Çayınızı nasıl seversiniz: açık mı, demli mi?"},
+        {"theme": "food", "picture": "frying-pan", "prompt": "Güzel bir kahvaltı sofrasında neler olmalı?"},
+        {"theme": "food", "picture": "strawberry", "prompt": "Meyveyi dalından toplamak hoşunuza gider mi?"},
+        {"theme": "food", "picture": "lemon", "prompt": "Tatlı mı, ekşi mi: hangisini daha çok seversiniz?"},
+        {"theme": "food", "picture": "cherries", "prompt": "Size göre yazın tadı en çok hangi yiyecekte?"},
+        {"theme": "food", "picture": "pear", "prompt": "Pazardan neler almayı seversiniz?"},
+        {"theme": "food", "picture": "bread", "prompt": "Fırından yeni çıkmış ekmeğin yanına ne yakışır?"},
+        {"theme": "home", "picture": "house", "prompt": "Bana yaşamaktan hoşlandığınız bir evden söz eder misiniz?"},
+        {"theme": "home", "picture": "armchair", "prompt": "Oturup dinlenmek için en sevdiğiniz yer neresi?"},
+        {"theme": "home", "picture": "lamp", "prompt": "Sakin bir akşamda ne yapmayı seversiniz?"},
+        {"theme": "home", "picture": "key", "prompt": "Özel bir kutuda saklamak isteyeceğiniz bir eşya var mı?"},
+        {"theme": "home", "picture": "kettle", "prompt": "Bir demlik çaya kimi davet etmek isterdiniz?"},
+        {"theme": "home", "picture": "umbrella", "prompt": "Yağmurlu bir günde ne yapmayı seversiniz?"},
+        {"theme": "outdoors", "picture": "sunflower", "prompt": "Bir bahçeye hangi çiçekleri ekmek isterdiniz?"},
+        {"theme": "outdoors", "picture": "tree", "prompt": "Bana sevdiğiniz bir ağaçtan ya da parktan söz eder misiniz?"},
+        {"theme": "outdoors", "picture": "watering-can", "prompt": "Sizce bahçede olmanın en güzel yanı nedir?"},
+        {"theme": "outdoors", "picture": "tulip", "prompt": "En çok hangi renk çiçekleri seversiniz?"},
+        {"theme": "outdoors", "picture": "potted-plant", "prompt": "Evde saksı çiçeği olmasını sever misiniz? Sardunya mı, menekşe mi?"},
+        {"theme": "outdoors", "picture": "sun", "prompt": "Sizce güzel, güneşli bir gün nasıl geçer?"},
+        {"theme": "animals", "picture": "dog", "prompt": "Bana tanıdığınız bir köpekten söz eder misiniz?"},
+        {"theme": "animals", "picture": "cat", "prompt": "Kedi mi, köpek mi, ikisi de değil mi? Onların nesini seversiniz?"},
+        {"theme": "animals", "picture": "bird", "prompt": "Dışarıda hangi kuşları görür ya da duyarsınız?"},
+        {"theme": "animals", "picture": "fish", "prompt": "Balık tutmak ya da akvaryum seyretmek hoşunuza gider mi?"},
+        {"theme": "animals", "picture": "butterfly", "prompt": "Sizce en güzel hayvan hangisi?"},
+        {"theme": "travel", "picture": "car", "prompt": "Bana sevdiğiniz bir arabadan söz eder misiniz?"},
+        {"theme": "travel", "picture": "sailboat", "prompt": "Bir günü deniz kenarında mı, yaylada mı geçirmeyi tercih edersiniz?"},
+        {"theme": "travel", "picture": "bicycle", "prompt": "Bir gezintiye çıksanız nereye gitmek isterdiniz?"},
+        {"theme": "travel", "picture": "balloon", "prompt": "Herhangi bir yerin üzerinden uçabilseydiniz, burası neresi olurdu?"},
+        {"theme": "travel", "picture": "lighthouse", "prompt": "Bana keyif aldığınız bir yolculuğu anlatır mısınız?"},
+        {"theme": "work", "picture": "key", "prompt": "Yapmaktan keyif aldığınız işler nelerdir?"},
+        {"theme": "work", "picture": "watering-can", "prompt": "Saatlerce uğraşabileceğiniz bir hobi hangisi?"},
+        {"theme": "work", "picture": "bread", "prompt": "Yapmasıyla ya da onarmasıyla bilindiğiniz bir şey var mı?"},
+        {"theme": "work", "picture": "house", "prompt": "İşe yeni başlayan bir gence ne öğüt verirdiniz?"},
+        {"theme": "music", "picture": "balloon", "prompt": "Hangi müziği duyunca ayağınızla tempo tutarsınız?"},
+        {"theme": "music", "picture": "teacup", "prompt": "Bayramın en sevdiğiniz yanı nedir: ziyaretler mi, tatlılar mı?"},
+        {"theme": "music", "picture": "lamp", "prompt": "Radyoda dinlemeyi sevdiğiniz şarkılar hangileri?"},
+        {"theme": "music", "picture": "armchair", "prompt": "Yeniden izlemek isteyeceğiniz bir film var mı, belki eski bir Yeşilçam filmi?"},
+        {"theme": "music", "picture": "cake", "prompt": "Sizce güzel bir düğün ya da eğlence nasıl olur?"},
+        {"theme": "seasons", "picture": "sun", "prompt": "Yazın en çok neyi seversiniz?"},
+        {"theme": "seasons", "picture": "tree", "prompt": "Sonbaharın hoşunuza giden yanı nedir?"},
+        {"theme": "seasons", "picture": "moon", "prompt": "Bir kış akşamı soba başında ne yapmak keyiflidir?"},
+        {"theme": "seasons", "picture": "tulip", "prompt": "Sizin için baharın ilk işaretleri nelerdir?"},
+        {"theme": "seasons", "picture": "umbrella", "prompt": "Kar mı, yağmur mu, güneş mi: hangisini tercih edersiniz?"}
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Saksıda çiçek",
+          "regions": {
+            "sky": "Arka plan",
+            "table": "Masa",
+            "stem": "Sap",
+            "leaf-left": "Sol yaprak",
+            "leaf-right": "Sağ yaprak",
+            "petal-1": "Taç yaprağı 1",
+            "petal-2": "Taç yaprağı 2",
+            "petal-3": "Taç yaprağı 3",
+            "petal-4": "Taç yaprağı 4",
+            "petal-5": "Taç yaprağı 5",
+            "petal-6": "Taç yaprağı 6",
+            "petal-7": "Taç yaprağı 7",
+            "petal-8": "Taç yaprağı 8",
+            "center": "Çiçeğin ortası",
+            "pot": "Saksı",
+            "pot-rim": "Saksının kenarı"
+          }
+        },
+        "house": {
+          "name": "Ev",
+          "regions": {
+            "sky": "Gökyüzü",
+            "sun": "Güneş",
+            "grass": "Çimen",
+            "chimney": "Baca",
+            "walls": "Duvarlar",
+            "roof": "Çatı",
+            "door": "Kapı",
+            "window-left": "Sol pencere",
+            "window-right": "Sağ pencere",
+            "path": "Bahçe yolu"
+          }
+        },
+        "teacup": {
+          "name": "Çay fincanı",
+          "regions": {
+            "background": "Arka plan",
+            "saucer": "Fincan tabağı",
+            "handle": "Kulp",
+            "cup": "Fincan",
+            "band": "Fincandaki şerit",
+            "tea": "Çay"
+          }
+        },
+        "butterfly": {
+          "name": "Kelebek",
+          "regions": {
+            "background": "Arka plan",
+            "wing-top-left": "Sol üst kanat",
+            "wing-top-right": "Sağ üst kanat",
+            "wing-bottom-left": "Sol alt kanat",
+            "wing-bottom-right": "Sağ alt kanat",
+            "spot-left": "Sol kanattaki benek",
+            "spot-right": "Sağ kanattaki benek",
+            "body": "Gövde"
+          }
+        },
+        "sailboat": {
+          "name": "Yelkenli",
+          "regions": {
+            "sky": "Gökyüzü",
+            "sea": "Deniz",
+            "sail-big": "Büyük yelken",
+            "sail-small": "Küçük yelken",
+            "mast": "Direk",
+            "hull": "Tekne",
+            "flag": "Bayrak"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Mutfak ve bahçe",
+          "baskets": ["Mutfakta", "Bahçede"]
+        },
+        "fruit-animals": {
+          "label": "Meyveler ve hayvanlar",
+          "baskets": ["Meyveler", "Hayvanlar"]
+        },
+        "home-travel": {
+          "label": "Ev ve yolculuk",
+          "baskets": ["Evde", "Dışarıda"]
+        }
+      }
+    }
+  }
+}
