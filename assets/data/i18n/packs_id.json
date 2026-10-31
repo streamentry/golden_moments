@@ -1,4 +1,166 @@
 {
-  "categories": {},
-  "packs": {}
+  "categories": {
+    "animals": {
+      "name": "Hewan",
+      "description": "Hewan yang lucu dan ramah dari seluruh dunia"
+    },
+    "nature": {
+      "name": "Alam",
+      "description": "Pemandangan dan suasana alam yang indah"
+    },
+    "food": {
+      "name": "Makanan",
+      "description": "Hidangan lezat dan kudapan manis"
+    },
+    "vintage": {
+      "name": "Mobil",
+      "description": "Mobil dan truk untuk dilihat dan dibicarakan"
+    },
+    "flowers": {
+      "name": "Bunga",
+      "description": "Bunga-bunga cantik dan suasana kebun"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Hewan Ternak",
+      "description": "Hewan ternak yang ramah, seperti saat berkunjung ke desa.",
+      "theme": "Kehidupan di Peternakan",
+      "images": {
+        "cow_1": "Sapi yang ramah",
+        "pig_1": "Babi yang riang",
+        "chicken_1": "Ayam jago",
+        "buffalo_1": "Kerbau",
+        "horse_1": "Kuda yang indah",
+        "duck_1": "Keluarga bebek",
+        "goat_1": "Kambing yang penasaran",
+        "rabbit_1": "Kelinci yang lucu"
+      }
+    },
+    "nature_mountains": {
+      "title": "Pemandangan Gunung",
+      "description": "Pemandangan gunung yang menakjubkan dan panorama yang indah",
+      "theme": "Keindahan Alam",
+      "images": {
+        "mountain_1": "Puncak bersalju",
+        "mountain_2": "Gunung Fuji",
+        "mountain_3": "Lembah pegunungan",
+        "mountain_4": "Puncak berbatu",
+        "mountain_5": "Bukit berhutan",
+        "mountain_6": "Gunung berkabut"
+      }
+    },
+    "vintage_cars": {
+      "title": "Mobil dan Truk",
+      "description": "Mobil dan truk mengilap untuk dilihat dan dibicarakan",
+      "theme": "Di Jalan",
+      "images": {
+        "vintage_car_1": "Audi oranye saat matahari terbenam",
+        "vintage_car_2": "Mobil sport biru di gurun",
+        "vintage_car_3": "Bugatti perak",
+        "vintage_car_4": "Porsche hitam di jalan",
+        "vintage_car_5": "BMW oranye di jalan berpohon palem",
+        "vintage_car_6": "Mobil kupe biru di dekat garasi",
+        "vintage_car_7": "Truk pikap hijau",
+        "vintage_car_8": "SUV putih di antara batu merah",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Mobil biru bergaris putih"
+      }
+    },
+    "animals_safari": {
+      "title": "Hewan Safari",
+      "description": "Hewan-hewan gagah dari safari di Afrika",
+      "theme": "Satwa Liar",
+      "images": {
+        "lion_1": "Singa yang gagah",
+        "elephant_2": "Gajah Afrika",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Zebra belang",
+        "rhino_5": "Badak yang kuat",
+        "cheetah_6": "Cheetah yang cepat",
+        "fox_7": "Rubah cokelat",
+        "bear_8": "Beruang kutub",
+        "turtle_9": "Kura-kura cokelat",
+        "squirrel_10": "Tupai cokelat",
+        "macaw_11": "Burung makaw kuning dan biru",
+        "tiger_12": "Harimau",
+        "raccoon_13": "Rakun",
+        "wolf_14": "Serigala abu-abu",
+        "crocodile_15": "Buaya",
+        "peacock_16": "Burung merak yang indah"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Hidangan Penutup Lezat",
+      "description": "Beberapa hidangan penutup yang lezat untuk melengkapi santapan.",
+      "theme": "Hidangan Penutup Manis",
+      "images": {
+        "pastries_1": "Empat kue pastri",
+        "oreo_cookie_sandwiches_2": "Biskuit Oreo",
+        "crepe_3": "Krep",
+        "pancake_4": "Panekuk",
+        "macarons_5": "Makaron",
+        "caramel_cake_6": "Kue karamel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Bunga Tropis",
+      "description": "Nikmati keindahan bunga-bunga tropis yang berwarna cerah dalam paket ini.",
+      "theme": "Bunga Tropis",
+      "images": {
+        "hibiscus_1": "Kembang sepatu merah",
+        "frangipani_2": "Kamboja merah putih",
+        "sunflower_3": "Bunga matahari",
+        "hydrangea_4": "Hortensia putih",
+        "rose_5": "Mawar",
+        "chrysanthemum_6": "Krisan",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Kamboja",
+        "kodom_9": "Bunga kadam",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Aneka Jajanan Kaki Lima",
+      "description": "Jelajahi dunia jajanan kaki lima yang penuh warna dengan paket camilan lezat dari berbagai negara ini.",
+      "theme": "Jajanan Kaki Lima",
+      "images": {
+        "taco_1": "Taco Meksiko",
+        "ramen_2": "Ramen Jepang",
+        "dumplings_3": "Pangsit Tiongkok",
+        "samosa_4": "Samosa India",
+        "pizza_5": "Sepotong pizza Italia",
+        "crepe_6": "Krep Prancis",
+        "satay_7": "Sate Thailand",
+        "burger_8": "Burger Amerika",
+        "bao_9": "Bakpao kukus",
+        "takoyaki_10": "Takoyaki Jepang"
+      }
+    },
+    "nature_landscape": {
+      "title": "Lanskap Alam",
+      "description": "Pemandangan alam yang tenang dan indah untuk dilihat perlahan dan dibicarakan bersama.",
+      "theme": "Lanskap Alam",
+      "images": {
+        "mountain_1": "Barisan pegunungan",
+        "forest_2": "Hutan berkabut",
+        "lake_3": "Danau pegunungan",
+        "desert_4": "Bukit pasir gurun",
+        "waterfall_5": "Air terjun",
+        "beach_6": "Pantai berpasir",
+        "river_7": "Sungai yang mengalir",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Langit senja",
+        "snow_mountain_10": "Gunung bersalju",
+        "flowers_11": "Bunga liar",
+        "rainforest_12": "Hutan hujan",
+        "iceberg_13": "Gunung es",
+        "volcano_14": "Gunung berapi",
+        "cliff_15": "Tebing laut",
+        "aurora_16": "Aurora borealis",
+        "savannah_17": "Sabana",
+        "coral_reef_18": "Terumbu karang"
+      }
+    }
+  }
 }
