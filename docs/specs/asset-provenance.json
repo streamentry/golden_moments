@@ -49,7 +49,7 @@
       "source": "https://github.com/google/fonts/raw/main/ofl/fraunces/Fraunces%5BSOFT%2CWONK%2Copsz%2Cwght%5D.ttf",
       "source_sha256": "177ff6c0f14e5550a3c624247cd1189611d4eb65d000b14944c63d967958abbb",
       "source_bytes": 360440,
-      "derivation": "fonttools 4.59.0 varLib.instancer at wght=700 opsz=48 SOFT=50 WONK=0, then subset to the Google Fonts Latin range with all layout features; name table set to Fraunces Bold. The same instance is served to the website as site/public/fonts/fraunces-latin-700-normal.woff2 with the OFL text beside it. OFL permits bundling, subsetting and modification with the licence included; the Reserved Font Name is kept.",
+      "derivation": "fonttools 4.59.0 varLib.instancer at wght=700 opsz=48 SOFT=50 WONK=0, then subset to the Google Fonts Latin range with all layout features; name table set to Fraunces Bold. The same instance is served to the website as site/public/fonts/fraunces-latin-700-normal.woff2 with the OFL text beside it. OFL permits bundling, subsetting and modification with the license included; the Reserved Font Name is kept.",
       "derived_on": "2026-10-30",
       "missing": [
         "a person's review date"
