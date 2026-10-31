@@ -1,4 +1,6 @@
 import { SITE, absoluteUrl } from './site';
+import { localePath } from '../i18n/locales';
+import { ui } from '../i18n/ui';
 
 type Node = Record<string, unknown>;
 
@@ -44,8 +46,8 @@ export function website(): Node {
   };
 }
 
-export function breadcrumbs(items: Crumb[]): Node {
-  const all = [{ href: '/', label: 'Home' }, ...items];
+export function breadcrumbs(items: Crumb[], lang = 'en'): Node {
+  const all = [{ href: localePath(lang, '/'), label: ui(lang).common.home }, ...items];
   return {
     '@type': 'BreadcrumbList',
     itemListElement: all.map((c, i) => ({
@@ -78,6 +80,8 @@ export interface ArticleInput {
   section: string;
   citations: { title: string; url: string }[];
   health: boolean;
+  /** BCP 47 tag of the page language; English (US) when omitted. */
+  lang?: string;
 }
 
 export function article(input: ArticleInput): Node {
@@ -91,7 +95,7 @@ export function article(input: ArticleInput): Node {
     image: absoluteUrl(input.image),
     dateModified: input.updated.toISOString().slice(0, 10),
     datePublished: (input.published ?? input.updated).toISOString().slice(0, 10),
-    inLanguage: 'en-US',
+    inLanguage: input.lang ?? 'en-US',
     isAccessibleForFree: true,
     author: ORG_REF,
     publisher: ORG_REF,

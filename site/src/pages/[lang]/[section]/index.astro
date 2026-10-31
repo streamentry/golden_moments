@@ -1,0 +1,18 @@
+---
+import type { GetStaticPaths } from 'astro';
+import SectionView from '../../../views/SectionView.astro';
+import { SECTIONS } from '../../../content.config';
+import type { SectionKey } from '../../../lib/site';
+import { TRANSLATED } from '../../../i18n/ui';
+
+export const getStaticPaths = (() =>
+  TRANSLATED.flatMap((l) =>
+    SECTIONS.map((section) => ({ params: { lang: l.prefix, section }, props: { section, lang: l.code } })),
+  )) satisfies GetStaticPaths;
+
+interface Props {
+  section: SectionKey;
+  lang: string;
+}
+---
+<SectionView section={Astro.props.section} lang={Astro.props.lang} />

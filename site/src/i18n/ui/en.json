@@ -18,7 +18,9 @@
       "caregiving": "Caregiving",
       "brainHealth": "Brain health"
     },
-    "faqTitle": "Questions and answers"
+    "faqTitle": "Questions and answers",
+    "breadcrumb": "Breadcrumb",
+    "home": "Home"
   },
   "footer": {
     "play": "Play",
@@ -234,5 +236,48 @@
     "googlePlayShort": "Google Play",
     "about": "About the app",
     "aria": "Get the app"
+  },
+  "sections": {
+    "activities": {
+      "label": "Activities",
+      "title": "Activities for People with Dementia",
+      "seo": "Activities for People with Dementia: Ideas by Stage",
+      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
+      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+    },
+    "caregiving": {
+      "label": "Caregiving",
+      "title": "Caregiving Guides",
+      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
+      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
+      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+    },
+    "brain-health": {
+      "label": "Brain health",
+      "title": "Brain Health: What the Research Says",
+      "seo": "Brain Health and Dementia Risk: What Research Says",
+      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
+      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+    }
+  },
+  "guide": {
+    "updated": "Updated",
+    "minuteRead": "{n} minute read",
+    "byTeam": "By the Golden Moments team",
+    "howWeWrite": "How we write",
+    "shortAnswer": "The short answer",
+    "onThisPage": "On this page ({n} sections)",
+    "commonQuestions": "Common questions",
+    "sources": "Sources",
+    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
+    "tryTogether": "Try together",
+    "relatedGuides": "Related guides",
+    "related": "Related",
+    "startHere": "Start here"
+  },
+  "healthNotice": {
+    "aria": "Health information notice",
+    "title": "General information, not medical advice",
+    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
   }
 }

@@ -1,0 +1,86 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import GuideCard from '../components/GuideCard.astro';
+import HealthNotice from '../components/HealthNotice.astro';
+import AppCta from '../components/AppCta.astro';
+import PlayCta from '../components/PlayCta.astro';
+import { absoluteUrl, type SectionKey } from '../lib/site';
+import { breadcrumbs } from '../lib/schema';
+import { localePath } from '../i18n/locales';
+import { sectionGuides } from '../i18n/guides';
+import { PUBLISHED, ui } from '../i18n/ui';
+
+interface Props {
+  section: SectionKey;
+  lang: string;
+}
+const { section, lang } = Astro.props;
+const t = ui(lang);
+const meta = t.sections[section];
+const href = (g: { lang: string; id: string }) => localePath(g.lang, `/${g.id}/`);
+const entries = await sectionGuides(lang, section);
+const crumbs = [{ href: localePath(lang, `/${section}/`), label: meta.label }];
+const [lead, ...rest] = entries;
+const itemList = {
+  '@type': 'ItemList',
+  name: meta.title,
+  itemListElement: entries.map((g, i) => ({ '@type': 'ListItem', position: i + 1, url: absoluteUrl(href(g)), name: g.entry.data.title })),
+};
+---
+<BaseLayout title={meta.seo} description={meta.description} jsonLd={[breadcrumbs(crumbs, lang), itemList]} available={PUBLISHED.map((p) => p.code)}>
+  <Breadcrumbs items={crumbs} lang={lang} />
+  <div class="container">
+    <header class="page-head">
+      <h1>{meta.title}</h1>
+      <p class="lede">{meta.lede}</p>
+    </header>
+    {section === 'brain-health' && <div class="narrow"><HealthNotice lang={lang} /></div>}
+    {
+      lead && (
+        <a class="lead-guide" href={href(lead)} lang={lead.lang !== lang ? 'en' : undefined}>
+          <span class="eyebrow">{t.guide.startHere}</span>
+          <span class="lead-guide__title">{lead.entry.data.title}</span>
+          <span class="lead-guide__text">{lead.entry.data.summary}</span>
+          <span class="card__more">{t.cards.readGuide} →</span>
+        </a>
+      )
+    }
+    <ul class="card-grid">
+      {rest.map((g) => <li><GuideCard href={href(g)} title={g.entry.data.title} text={g.entry.data.description} lang={lang} /></li>)}
+    </ul>
+    <PlayCta lang={lang} />
+    <AppCta lang={lang} />
+  </div>
+</BaseLayout>
+
+<style>
+  .lead-guide {
+    display: grid;
+    gap: var(--space-sm);
+    padding: clamp(1.5rem, 1rem + 2vw, 2.5rem);
+    margin-bottom: var(--space-xl);
+    border-radius: var(--radius-xl);
+    background: var(--gm-print-white);
+    border: 1px solid var(--gm-surface-sunken);
+    box-shadow: var(--shadow-raised);
+    color: var(--gm-on-surface);
+    text-decoration: none;
+    transition: transform var(--duration-normal) var(--ease-out), box-shadow var(--duration-normal) ease;
+  }
+  .lead-guide:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-print);
+    color: var(--gm-on-surface);
+  }
+  .lead-guide__title {
+    font-size: var(--text-h2);
+    font-weight: 700;
+    line-height: 1.2;
+  }
+  .lead-guide__text {
+    font-size: var(--text-lg);
+    color: var(--gm-on-surface-variant);
+    max-width: 46em;
+  }
+</style>
