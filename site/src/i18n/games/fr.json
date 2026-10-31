@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Paires d’images",
+    "seoTitle": "Jeu de paires pour Alzheimer et démence : Paires d’images",
+    "h1": "Paires d’images : un jeu d’association tout en douceur",
+    "description": "Un jeu de paires gratuit et tout en douceur pour les personnes atteintes de démence. Les images restent visibles, sans chrono ni score, de 4 à 12 cartes.",
+    "short": "Trouvez les deux images identiques. Les images peuvent rester visibles.",
+    "players": "1 ou 2 personnes, côte à côte",
+    "intro": "Touchez une image, puis celle qui lui correspond. Par défaut, les images restent visibles : il n’y a rien à mémoriser. Quand deux images vont ensemble, elles reçoivent un contour doré et une coche.",
+    "howTo": [
+      "Choisissez le nombre de cartes. Quatre cartes, c’est un début tranquille.",
+      "Touchez une image. Elle reçoit un contour doré.",
+      "Touchez l’image identique. La paire reste réunie, avec une coche.",
+      "Si les deux images sont différentes, rien de grave. Touchez à nouveau quand vous êtes prêts.",
+      "N’activez « Images cachées » que si vous aimez tous les deux la version classique, faces cachées."
+    ],
+    "tips": [
+      "Nommez les images à voix haute ensemble et parlez-en : « Une tasse rouge. Vous préférez le thé ou le café ? »",
+      "Laissez la personne que vous accompagnez toucher l’écran, même si cela prend du temps. Montrez du doigt plutôt que de toucher à sa place.",
+      "Restez à quatre cartes aussi longtemps que c’est agréable. Ajouter des cartes est un choix, jamais un niveau à atteindre.",
+      "Arrêtez tant que c’est encore agréable. Une seule partie est une activité complète."
+    ],
+    "faq": [
+      {
+        "q": "Y a-t-il un chrono ou un score ?",
+        "a": "Non. Il n’y a ni chronomètre, ni score, ni compteur de coups, ni partie perdue. Vous pouvez arrêter à tout moment, et s’arrêter à mi-parcours est une très bonne façon de finir."
+      },
+      {
+        "q": "Pourquoi les images restent-elles face visible ?",
+        "a": "Avec des images visibles, le jeu consiste à regarder et à associer plutôt qu’à se souvenir. Beaucoup de personnes trouvent cela plus apaisant. Si vous préférez, vous pouvez passer aux images cachées d’une seule touche."
+      },
+      {
+        "q": "Est-ce gratuit, et faut-il s’inscrire ?",
+        "a": "Oui, c’est gratuit, et il n’y a ni compte, ni inscription, ni téléchargement. Tout se passe dans le navigateur d’un téléphone, d’une tablette ou d’un ordinateur."
+      },
+      {
+        "q": "Peut-on utiliser nos propres photos de famille ?",
+        "a": "Oui. Essayez Paires de photos, qui vous permet de choisir des photos sur votre appareil. Les photos restent dans votre navigateur et ne sont pas envoyées en ligne."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Trouver la même",
+    "seoTitle": "Trouver la même image : jeu simple pour Alzheimer",
+    "h1": "Trouver la même image",
+    "description": "Une image en haut, deux à quatre en dessous. Touchez celle qui est identique. Un jeu d’images calme et gratuit pour personnes atteintes de démence, sans chrono.",
+    "short": "Regardez l’image du haut et touchez la même en dessous.",
+    "players": "1 ou 2 personnes",
+    "intro": "Une seule image est affichée en haut de l’écran. En dessous, il y en a deux, trois ou quatre. Touchez celle qui est identique. Un seul choix simple à la fois, avec tout le temps de parler.",
+    "howTo": [
+      "Choisissez entre deux, trois ou quatre images. Deux, c’est le plus simple.",
+      "Regardez ensemble l’image du haut.",
+      "Touchez la même image en dessous. Elle est marquée d’une coche et de quelques mots chaleureux.",
+      "Si une autre image est touchée, le jeu dit simplement son nom et attend. Prenez votre temps.",
+      "Touchez « Image suivante » quand vous êtes prêts pour une autre."
+    ],
+    "tips": [
+      "Parlez de chaque image avant de choisir : les couleurs, les formes, où on pourrait la voir.",
+      "Deux choix, ce n’est pas « trop facile ». Le but est un moment agréable, pas un défi.",
+      "Si toucher l’écran est difficile, la personne peut montrer du doigt et vous pouvez toucher à sa place."
+    ],
+    "faq": [
+      {
+        "q": "Y a-t-il un chrono ou un score ?",
+        "a": "Non. Il n’y a ni chronomètre, ni score, ni compteur de coups, ni partie perdue. Vous pouvez arrêter à tout moment, et s’arrêter à mi-parcours est une très bonne façon de finir."
+      },
+      {
+        "q": "Que se passe-t-il si on touche la mauvaise image ?",
+        "a": "Rien de désagréable. Pas de sonnerie, de croix rouge ni d’image qui tremble. Le jeu dit le nom de l’image touchée et attend le geste suivant."
+      },
+      {
+        "q": "Est-ce gratuit, et faut-il s’inscrire ?",
+        "a": "Oui, c’est gratuit, et il n’y a ni compte, ni inscription, ni téléchargement. Tout se passe dans le navigateur d’un téléphone, d’une tablette ou d’un ordinateur."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Jeu des ombres",
+    "seoTitle": "Jeu des ombres pour Alzheimer et démence, gratuit",
+    "h1": "Jeu des ombres : un jeu d’images tout en douceur",
+    "description": "Une ombre en haut, deux à quatre images en dessous. Touchez l’image qui fait l’ombre. Un jeu d’ombres calme et gratuit pour la démence, sans chrono.",
+    "short": "Regardez l’ombre et touchez l’image qui lui correspond.",
+    "players": "1 ou 2 personnes",
+    "intro": "Associer une image à son ombre est une activité familière des fiches imprimées, ici avec de grandes images et rien à imprimer. Une ombre douce est affichée en haut de l’écran, et deux, trois ou quatre images attendent en dessous. Touchez celle qui fait cette ombre. Des formes comme un vélo, un parapluie ou une tasse donnent aussi matière à conversation.",
+    "howTo": [
+      "Choisissez entre deux, trois ou quatre images. Deux, c’est le plus simple.",
+      "Regardez l’ombre ensemble. Quelle forme a-t-elle ? Est-elle haute ou ronde ?",
+      "Touchez l’image qui fait l’ombre. Son nom apparaît sous l’ombre.",
+      "Si une autre image est touchée, le jeu dit simplement son nom et attend. Prenez votre temps.",
+      "Touchez « Ombre suivante » quand vous êtes prêts pour une autre."
+    ],
+    "tips": [
+      "Suivez le contour de l’ombre avec le doigt et parlez de sa forme.",
+      "Si les ombres semblent difficiles aujourd’hui, passez à Trouver la même, où les images se ressemblent.",
+      "Parlez de l’image une fois trouvée : « Nous avions un parapluie comme celui-là. »"
+    ],
+    "faq": [
+      {
+        "q": "Y a-t-il un chrono ou un score ?",
+        "a": "Non. Il n’y a ni chronomètre, ni score, ni compteur de coups, ni partie perdue. Vous pouvez arrêter à tout moment, et s’arrêter à mi-parcours est une très bonne façon de finir."
+      },
+      {
+        "q": "Le jeu des ombres convient-il aux personnes atteintes de démence ?",
+        "a": "Ce peut être une activité simple et agréable pour certaines personnes, surtout aux premiers stades. Les formes sont plus faciles à reconnaître que les mots. C’est un jeu pour le plaisir et la conversation, pas un test, et il ne traite ni ne ralentit la démence. S’il provoque de la frustration, essayez Trouver la même ou regardez simplement des images ensemble."
+      },
+      {
+        "q": "Que se passe-t-il si on touche la mauvaise image ?",
+        "a": "Rien de désagréable. Pas de sonnerie, de croix rouge ni d’image qui tremble. Le jeu dit le nom de l’image touchée et attend le geste suivant."
+      },
+      {
+        "q": "Est-ce gratuit, et faut-il s’inscrire ?",
+        "a": "Oui, c’est gratuit, et il n’y a ni compte, ni inscription, ni téléchargement. Tout se passe dans le navigateur d’un téléphone, d’une tablette ou d’un ordinateur."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Trier ensemble",
+    "seoTitle": "Jeu de tri pour Alzheimer et démence : Trier ensemble",
+    "h1": "Trier ensemble : une activité de tri en images",
+    "description": "Touchez une image, puis le panier où elle va : cuisine ou jardin, fruits ou animaux. Une activité de tri calme et gratuite pour personnes atteintes de démence.",
+    "short": "Rangez chaque image dans son panier : cuisine ou jardin, et d’autres thèmes.",
+    "players": "1 ou 2 personnes",
+    "intro": "Trier est une tâche du quotidien familière et satisfaisante, comme ranger les courses ou assortir les chaussettes. Touchez une image, puis le panier où elle va. Rien ne presse, et il n’y a pas de faux pas.",
+    "howTo": [
+      "Choisissez un thème : cuisine et jardin, fruits et animaux, ou maison et voyage.",
+      "Touchez une image. Elle reçoit un contour doré.",
+      "Touchez le panier où elle va. L’image se range dans ce panier.",
+      "Si elle va dans l’autre panier, le jeu le dit gentiment et attend.",
+      "Quand toutes les images sont triées, regardez le contenu des paniers ensemble."
+    ],
+    "tips": [
+      "Dans la vraie vie, il n’y a souvent pas de mauvaise réponse. Si quelqu’un dit qu’un arrosoir va dans la cuisine, demandez pourquoi. Vous aurez peut-être droit à une belle histoire.",
+      "Servez-vous des images pour lancer la conversation : « Qu’est-ce que vous faisiez pousser dans votre jardin ? »",
+      "Trier de vrais objets, comme des cuillères et des fourchettes, ou des boutons par couleur, est une excellente suite loin de l’écran."
+    ],
+    "faq": [
+      {
+        "q": "Y a-t-il un chrono ou un score ?",
+        "a": "Non. Il n’y a ni chronomètre, ni score, ni compteur de coups, ni partie perdue. Vous pouvez arrêter à tout moment, et s’arrêter à mi-parcours est une très bonne façon de finir."
+      },
+      {
+        "q": "Pourquoi trier ?",
+        "a": "Beaucoup de personnes aiment trier parce que cela ressemble à un travail utile et familier. Il est aussi facile de parler des images au fil du jeu."
+      },
+      {
+        "q": "Est-ce gratuit, et faut-il s’inscrire ?",
+        "a": "Oui, c’est gratuit, et il n’y a ni compte, ni inscription, ni téléchargement. Tout se passe dans le navigateur d’un téléphone, d’une tablette ou d’un ordinateur."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Puzzle en images",
+    "seoTitle": "Puzzle facile pour Alzheimer et démence : 4 ou 9 pièces",
+    "h1": "Puzzle en images : un puzzle facile",
+    "description": "Un puzzle en ligne facile pour les personnes atteintes de démence : 4 ou 9 grandes pièces, l’image entière reste visible, et on touche deux pièces pour les échanger.",
+    "short": "Touchez deux pièces pour les échanger jusqu’à ce que l’image soit complète.",
+    "players": "1 ou 2 personnes",
+    "intro": "Une image accueillante est découpée en quatre ou neuf grandes pièces, puis mélangée. L’image entière reste visible comme modèle. Touchez une pièce, puis une autre, et elles échangent leur place. Pas besoin de faire glisser.",
+    "howTo": [
+      "Choisissez une image et 4 ou 9 pièces. Quatre, c’est un début en douceur.",
+      "Regardez l’image entière en haut.",
+      "Touchez une pièce, puis l’endroit où elle doit aller. Les deux pièces s’échangent.",
+      "Les pièces bien placées reçoivent une petite coche.",
+      "Quand l’image est complète, profitez-en ensemble, puis choisissez-en une autre."
+    ],
+    "tips": [
+      "Pour beaucoup de personnes, toucher deux pièces pour les échanger est bien plus facile que de les faire glisser.",
+      "Parlez de l’image à mesure qu’elle se reconstitue : « Voilà le toit rouge. »",
+      "Un vrai puzzle en bois de 12 à 24 grandes pièces est aussi une belle activité à faire à table."
+    ],
+    "faq": [
+      {
+        "q": "Y a-t-il un chrono ou un score ?",
+        "a": "Non. Il n’y a ni chronomètre, ni score, ni compteur de coups, ni partie perdue. Vous pouvez arrêter à tout moment, et s’arrêter à mi-parcours est une très bonne façon de finir."
+      },
+      {
+        "q": "Faut-il faire glisser les pièces ?",
+        "a": "Non. Touchez une pièce, puis une autre, et elles échangent leur place. C’est plus facile avec une main qui tremble ou sur un petit écran."
+      },
+      {
+        "q": "Est-ce gratuit, et faut-il s’inscrire ?",
+        "a": "Oui, c’est gratuit, et il n’y a ni compte, ni inscription, ni téléchargement. Tout se passe dans le navigateur d’un téléphone, d’une tablette ou d’un ordinateur."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Proverbes à compléter",
+    "seoTitle": "Proverbes à compléter : jeu pour personnes âgées",
+    "h1": "Proverbes à compléter",
+    "description": "Des proverbes familiers dont le dernier mot manque, comme « Petit à petit, l’oiseau fait son ___ ». Touchez un choix ou affichez la fin, puis parlez-en.",
+    "short": "Complétez ensemble des proverbes familiers, puis parlez-en.",
+    "players": "1 ou 2 personnes, ou un groupe",
+    "intro": "Les vieux proverbes restent souvent connus toute une vie. Chaque carte présente un proverbe familier sans son dernier mot, trois choix et un bouton « Afficher la fin ». Une fois la fin affichée, une question toute simple invite à la conversation.",
+    "howTo": [
+      "Lisez le proverbe à voix haute ensemble.",
+      "Touchez le mot qui le complète, ou touchez « Afficher la fin ».",
+      "Relisez le proverbe en entier et parlez-en à l’aide de la question proposée.",
+      "Touchez « Proverbe suivant » quand vous êtes prêts."
+    ],
+    "tips": [
+      "Lisez lentement et marquez une pause avant le dernier mot. Souvent, la personne le dit avant vous.",
+      "Si quelqu’un propose une autre fin, savourez-la. Certains proverbes varient selon les familles ou les régions.",
+      "En groupe, une personne lit et tout le monde dit la fin ensemble."
+    ],
+    "faq": [
+      {
+        "q": "Y a-t-il un chrono ou un score ?",
+        "a": "Non. Il n’y a ni chronomètre, ni score, ni compteur de coups, ni partie perdue. Vous pouvez arrêter à tout moment, et s’arrêter à mi-parcours est une très bonne façon de finir."
+      },
+      {
+        "q": "Et si on choisit un autre mot ?",
+        "a": "Le jeu affiche la fin habituelle et passe à la conversation. Il n’y a pas de score, et une autre réponse convient très bien."
+      },
+      {
+        "q": "Est-ce gratuit, et faut-il s’inscrire ?",
+        "a": "Oui, c’est gratuit, et il n’y a ni compte, ni inscription, ni téléchargement. Tout se passe dans le navigateur d’un téléphone, d’une tablette ou d’un ordinateur."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Mots mêlés en gros caractères",
+    "seoTitle": "Mots mêlés en gros caractères pour Alzheimer, à imprimer",
+    "h1": "Mots mêlés en gros caractères",
+    "description": "Des mots mêlés gratuits en gros caractères pour seniors et personnes atteintes de démence : peu de mots, grandes lettres, sans diagonales. En ligne ou à imprimer.",
+    "short": "Grandes lettres, quelques mots, à l’horizontale et à la verticale seulement. À imprimer aussi.",
+    "players": "1 ou 2 personnes",
+    "intro": "Une petite grille aux grandes lettres et seulement quelques mots, tous à lire de gauche à droite ou de haut en bas. Touchez la première lettre d’un mot, puis sa dernière lettre. Vous préférez le papier ? Imprimez une nouvelle grille d’une seule touche.",
+    "howTo": [
+      "Choisissez un thème et une taille de grille.",
+      "Regardez la liste de mots. Les mots se lisent à l’horizontale (de gauche à droite) ou à la verticale (de haut en bas).",
+      "Touchez la première lettre d’un mot, puis sa dernière lettre.",
+      "Un mot trouvé est surligné et barré dans la liste.",
+      "Touchez « Imprimer cette grille » pour jouer sur papier avec un crayon ou un feutre."
+    ],
+    "tips": [
+      "Montrez un mot dans la liste et cherchez sa première lettre ensemble.",
+      "Sur papier, un surligneur est plus facile à tenir qu’un crayon.",
+      "Parlez des mots du thème. Les noms de fruits ouvrent naturellement sur des souvenirs de cueillette, de pâtisserie ou de marché."
+    ],
+    "faq": [
+      {
+        "q": "Y a-t-il un chrono ou un score ?",
+        "a": "Non. Il n’y a ni chronomètre, ni score, ni compteur de coups, ni partie perdue. Vous pouvez arrêter à tout moment, et s’arrêter à mi-parcours est une très bonne façon de finir."
+      },
+      {
+        "q": "Peut-on imprimer les mots mêlés ?",
+        "a": "Oui. Touchez « Imprimer cette grille » pour imprimer la grille affichée en gros caractères, avec la liste de mots en dessous. Chaque nouvelle grille est différente."
+      },
+      {
+        "q": "Est-ce gratuit, et faut-il s’inscrire ?",
+        "a": "Oui, c’est gratuit, et il n’y a ni compte, ni inscription, ni téléchargement. Tout se passe dans le navigateur d’un téléphone, d’une tablette ou d’un ordinateur."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Coloriages",
+    "seoTitle": "Coloriages pour adultes atteints de démence (gratuits)",
+    "h1": "Coloriages",
+    "description": "Coloriages simples pour adultes, avec de grandes zones : touchez une couleur, puis le dessin. Rien à salir, pas de mauvaise couleur, et tout s’imprime gratuitement.",
+    "short": "Touchez une couleur, puis une partie du dessin. Pages à imprimer aussi.",
+    "players": "1 ou 2 personnes",
+    "intro": "Des pages aux formes grandes et simples : une fleur en pot, une maison, une tasse, un papillon et un voilier. Touchez une couleur, puis une partie du dessin pour la colorier. Il n’y a pas de mauvaise couleur.",
+    "howTo": [
+      "Choisissez une page.",
+      "Touchez une couleur. Le nom de chaque couleur est écrit dessus.",
+      "Touchez une partie du dessin pour la remplir de cette couleur.",
+      "Vous changez d’avis ? Remplissez-la à nouveau, à tout moment.",
+      "Touchez « Imprimer cette page » pour obtenir une page vierge à colorier aux crayons ou aux feutres."
+    ],
+    "tips": [
+      "Si choisir semble trop difficile, proposez deux couleurs plutôt que toute la palette.",
+      "Les arbres violets et les soleils bleus sont les bienvenus. Il s’agit de profiter des couleurs, pas d’être exact.",
+      "Les pages imprimées se colorient bien avec de gros feutres ou des craies grasses, plus faciles à tenir."
+    ],
+    "faq": [
+      {
+        "q": "Y a-t-il un chrono ou un score ?",
+        "a": "Non. Il n’y a ni chronomètre, ni score, ni compteur de coups, ni partie perdue. Vous pouvez arrêter à tout moment, et s’arrêter à mi-parcours est une très bonne façon de finir."
+      },
+      {
+        "q": "Ces coloriages ne sont-ils pas trop enfantins ?",
+        "a": "Nous avons dessiné des objets simples et paisibles plutôt que des personnages de dessin animé, pour que les pages conviennent aux adultes. Les grandes formes rendent le coloriage facile sans le rendre infantilisant."
+      },
+      {
+        "q": "Est-ce gratuit, et faut-il s’inscrire ?",
+        "a": "Oui, c’est gratuit, et il n’y a ni compte, ni inscription, ni téléchargement. Tout se passe dans le navigateur d’un téléphone, d’une tablette ou d’un ordinateur."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Cartes de conversation",
+    "seoTitle": "Cartes de conversation pour Alzheimer et démence",
+    "h1": "Cartes de conversation",
+    "description": "Cartes illustrées pour lancer la conversation avec une personne atteinte de démence : pas d’interrogatoire, pas de bonne réponse. À l’écran ou à imprimer.",
+    "short": "Des cartes illustrées avec des questions ouvertes et douces. Rien d’un interrogatoire.",
+    "players": "2 personnes ou un groupe",
+    "intro": "Chaque carte associe une image familière à une invitation ouverte à parler, comme « Quel temps préférez-vous ? » Il n’y a pas de bonne réponse et rien à retenir. Choisissez un thème ou mélangez toutes les cartes.",
+    "howTo": [
+      "Choisissez un thème, ou gardez « Toutes les cartes ».",
+      "Lisez la question à voix haute et regardez l’image ensemble.",
+      "Écoutez, partagez votre propre réponse et laissez la conversation vagabonder.",
+      "Touchez « Carte suivante » quand vous êtes prêts, ou restez sur une carte aussi longtemps que vous le souhaitez.",
+      "Touchez « Imprimer toutes les cartes » pour découper un jeu de cartes en papier."
+    ],
+    "tips": [
+      "Répondez vous aussi à la question. Cela ressemble alors à une conversation, pas à un interrogatoire.",
+      "Suivez l’histoire, pas les faits. Si des détails changent, ce n’est pas grave.",
+      "Si une carte touche quelque chose de triste, reconnaissez l’émotion et passez doucement à une autre carte."
+    ],
+    "faq": [
+      {
+        "q": "Pourquoi n’y a-t-il pas de questions « Vous souvenez-vous… ? »",
+        "a": "Les questions qui mettent la mémoire à l’épreuve peuvent ressembler à un examen et mettre mal à l’aise. Des invitations ouvertes comme « Parlez-moi de… » permettent à chacun de participer, quels que soient ses souvenirs."
+      },
+      {
+        "q": "Peut-on imprimer les cartes ?",
+        "a": "Oui. « Imprimer toutes les cartes » imprime le jeu complet en gros caractères, plusieurs cartes par page, prêtes à découper."
+      },
+      {
+        "q": "Est-ce gratuit, et faut-il s’inscrire ?",
+        "a": "Oui, c’est gratuit, et il n’y a ni compte, ni inscription, ni téléchargement. Tout se passe dans le navigateur d’un téléphone, d’une tablette ou d’un ordinateur."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Paires de photos",
+    "seoTitle": "Créer un jeu de paires avec vos photos de famille",
+    "h1": "Paires de photos : associez vos propres photos",
+    "description": "Transformez vos photos de famille en un jeu de paires tout en douceur. Choisissez 2 à 6 photos : elles restent dans votre navigateur et ne sont jamais envoyées.",
+    "short": "Choisissez vos propres photos et associez-les. Rien n’est envoyé en ligne.",
+    "players": "2 personnes, côte à côte",
+    "intro": "Choisissez deux à six photos sur votre téléphone, votre tablette ou votre ordinateur : elles deviennent un jeu de paires avec de grandes images visibles. Les photos ne s’affichent que dans cette page. Elles ne sont ni envoyées, ni enregistrées, ni partagées, et elles disparaissent quand vous fermez la page.",
+    "howTo": [
+      "Touchez « Choisir des photos » et sélectionnez deux à six photos.",
+      "Chaque photo apparaît deux fois. Touchez-en une, puis sa paire.",
+      "Parlez de chaque photo à mesure que vous la trouvez.",
+      "Quand vous avez fini, fermez la page ou touchez « Effacer les photos ». Rien n’est conservé."
+    ],
+    "tips": [
+      "Choisissez des photos nettes de choses heureuses et familières : un animal, un jardin, un lieu aimé, un jour de mariage.",
+      "Les photos de lieux et d’objets peuvent être plus faciles que les visages, et elles évitent toute pression pour nommer les gens.",
+      "Évitez les photos de personnes décédées si elles risquent de raviver un chagrin soudain, sauf si vous savez qu’elles apportent du réconfort."
+    ],
+    "faq": [
+      {
+        "q": "Mes photos sont-elles envoyées quelque part ?",
+        "a": "Non. La page lit les photos que vous choisissez directement dans votre navigateur et les affiche sur votre écran. Elles ne sont envoyées ni à nous ni à personne d’autre, et elles disparaissent quand vous fermez ou rechargez la page."
+      },
+      {
+        "q": "Y a-t-il un chrono ou un score ?",
+        "a": "Non. Il n’y a ni chronomètre, ni score, ni compteur de coups, ni partie perdue. Vous pouvez arrêter à tout moment, et s’arrêter à mi-parcours est une très bonne façon de finir."
+      },
+      {
+        "q": "Puis-je enregistrer la partie pour la prochaine fois ?",
+        "a": "Pas dans le navigateur, volontairement, pour que rien de privé ne soit conservé. L’application gratuite Golden Moments pour iPhone et iPad peut garder des copies des photos sélectionnées sur votre appareil."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Loto en images",
+    "seoTitle": "Loto en images pour seniors et Alzheimer, à imprimer",
+    "h1": "Loto en images pour les groupes",
+    "description": "Loto en images gratuit à imprimer pour EHPAD et groupes de seniors, avec un grand tirage à l’écran. Grandes images légendées, 9 ou 16 cases, rien à lire.",
+    "short": "Des cartons de loto en images à imprimer et un tirage sur grand écran pour les groupes.",
+    "players": "Un groupe de 2 à 30 personnes",
+    "intro": "Le loto classique, avec des images à la place des numéros : personne n’a besoin de lire de petits caractères. Imprimez une série de cartons tous différents, puis utilisez le tirage à l’écran pour afficher chaque image en grand sur une télévision, un ordinateur portable ou une tablette.",
+    "howTo": [
+      "Choisissez 9 ou 16 cases par carton et le nombre de joueurs.",
+      "Touchez « Imprimer les cartons ». Chaque carton est différent.",
+      "Ouvrez le tirage sur un grand écran. Touchez « Image suivante » pour afficher chaque image avec son nom.",
+      "Les joueurs couvrent l’image correspondante sur leur carton avec une pièce, un bouton ou un jeton.",
+      "Toute personne qui remplit une ligne, ou le carton entier, est applaudie. Dans cette version, il n’y a pas de perdant : continuez jusqu’à ce que chacun ait une ligne."
+    ],
+    "tips": [
+      "Utilisez de gros jetons, comme des pions de dames ou des bouchons. Les petits boutons peuvent être difficiles à saisir.",
+      "Nommez l’image et dites-en quelques mots : « Un voilier. Qui est déjà monté sur un bateau ? »",
+      "Installez les personnes qui voient mal au plus près de l’écran, et placez des accompagnants à côté des joueurs qui en ont besoin.",
+      "Neuf cases suffisent pour la plupart des groupes. Prévoyez une séance de 20 à 30 minutes environ."
+    ],
+    "faq": [
+      {
+        "q": "Comment animer un loto en images en EHPAD ?",
+        "a": "Imprimez un carton par joueur, affichez le tirage sur le plus grand écran disponible et annoncez les images lentement, en nommant chacune. Jouez jusqu’à ce que chacun ait une ligne, pour que personne ne soit laissé de côté."
+      },
+      {
+        "q": "L’impression est-elle gratuite ?",
+        "a": "Oui. Imprimez autant de cartons que nécessaire, aussi souvent que vous le souhaitez, pour un usage personnel ou en groupe."
+      },
+      {
+        "q": "Peut-on jouer sans avoir à lire ?",
+        "a": "Oui. Chaque case est une grande image, avec son nom en dessous pour ceux qui aiment les mots."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Respiration calme",
+    "seoTitle": "Une pause respiration calme pour seniors et aidants",
+    "h1": "Une pause respiration calme",
+    "description": "Une pause respiration lente et paisible à partager : un cercle doux grandit et rétrécit pendant six respirations. Vous la lancez et l’arrêtez quand vous voulez.",
+    "short": "Un cercle lent pour respirer à son rythme. Commencez et arrêtez quand vous voulez.",
+    "players": "1 ou 2 personnes",
+    "intro": "Parfois, la meilleure activité est une pause tranquille. Touchez « Démarrer », puis inspirez quand le cercle grandit et expirez quand il rétrécit. Choisissez un rythme plus lent ou plus rapide. Ce n’est pas un traitement, simplement un moment paisible à partager.",
+    "howTo": [
+      "Asseyez-vous confortablement côte à côte.",
+      "Choisissez un rythme : lent ou doux.",
+      "Touchez « Démarrer ». Inspirez pendant que le cercle grandit, et expirez pendant qu’il rétrécit.",
+      "Il s’arrête tout seul après six respirations, ou touchez « Arrêter » quand vous le souhaitez."
+    ],
+    "tips": [
+      "Tenez-vous la main ou posez une main sur le bras de la personne, si elle l’apprécie.",
+      "N’insistez jamais. Si elle préfère regarder, c’est très bien.",
+      "En cas de difficultés respiratoires, respirez normalement et regardez simplement le cercle. Pour toute inquiétude sur la respiration, demandez l’avis d’un médecin."
+    ],
+    "faq": [
+      {
+        "q": "Est-ce un exercice de respiration médical ?",
+        "a": "Non. C’est une pause simple et facultative, pour le calme et la compagnie. Ce n’est pas un traitement de l’anxiété ni d’aucune maladie. Parlez à un médecin de vos inquiétudes de santé."
+      },
+      {
+        "q": "Le cercle bouge-t-il sans que je le lance ?",
+        "a": "Non. Rien ne bouge tant que vous n’avez pas touché Démarrer, et il s’arrête après six respirations ou quand vous touchez Arrêter. Si votre appareil est réglé pour réduire les animations, les mots changent sans que le cercle grandisse."
+      },
+      {
+        "q": "Est-ce gratuit, et faut-il s’inscrire ?",
+        "a": "Oui, c’est gratuit, et il n’y a ni compte, ni inscription, ni téléchargement. Tout se passe dans le navigateur d’un téléphone, d’une tablette ou d’un ordinateur."
+      }
+    ]
+  }
+}
