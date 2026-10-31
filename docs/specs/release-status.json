@@ -1,5 +1,5 @@
 {
-  "release": "1.4.0+7",
+  "release": "1.5.0+9",
   "meaning": "Implemented means source exists, not released or device-verified.",
   "features": {
     "gentle_matching": {
@@ -510,11 +510,25 @@
     "archive_source_commit": "5f825eece2d6ea9822b1c763f79325c77f4dfe48",
     "apple_build_id": "b8fc04e4-e8e8-4205-8008-ef0d11f103e7",
     "submission_id": "0261a5a0-fd3f-434c-82cf-d01f5440dd01",
-    "review_state": "WAITING_FOR_REVIEW",
+    "review_state": "READY_FOR_SALE",
     "release_type": "AFTER_APPROVAL",
     "ipa_bytes": 33343308,
     "ipa_sha256": "0bf8a55fbd9f92ac998f0a017df23afc1860b62c46a1e60fe4c9006dfcdecbeb",
     "evidence": "docs/release/app-store-1.4.0-build7.md",
-    "meaning": "Apple review is pending; automatic release follows approval."
+    "meaning": "Approved and released automatically; live App Store Connect readback on 2026-10-21. Superseded by 1.5.0."
+  },
+  "app_store_1_5": {
+    "version": "1.5.0",
+    "build": 9,
+    "source_commit": "7f54bd555dd371f99c86358260173e1c8cb6a781",
+    "ios_review_submission_id": "6ac69151-97e3-42d6-80e6-79dd2825cc54",
+    "ios_state": "READY_FOR_SALE",
+    "ios_released": "2026-10-30T19:35:00Z",
+    "ipa_bytes": 33330453,
+    "ipa_sha256": "d47c2e69df8a2c92dd99b4c4f23e1746ec6ebd3be9b9abf3f1991c74d8f6ad5c",
+    "android_version_code": 9,
+    "android_state": "Committed to the production track; approval not confirmed at the last readback (Play still served 1.4.0)",
+    "evidence": "docs/release/app-store-1.5.0-build9.md",
+    "meaning": "Store state only. Physical-device, screen-reader and caregiver gates remain pending."
   }
 }
