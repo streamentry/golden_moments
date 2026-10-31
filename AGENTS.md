@@ -28,7 +28,7 @@ and dignity matter more than completion, engagement, or a score.
 
 | Working on | Read |
 | --- | --- |
-| Scope or priority | [Product](docs/specs/product.md), [WORKBOARD](WORKBOARD.md) |
+| Scope or priority | [Product](docs/specs/product.md), [WORKBOARD](WORKBOARD.md), [category strategy](docs/strategy/category-strategy.md) |
 | Flutter implementation | [Flutter guide](docs/engineering/flutter.md) |
 | Multi-step work or review | [Agent workflow](docs/engineering/agentic.md) |
 | Photos or persistence | [Photo specification](docs/specs/offline-photos.md) |

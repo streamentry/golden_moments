@@ -26,10 +26,10 @@ Astro + React + TanStack Store site in `site/`, built as static files for Cloudf
 
 | Deliverable | Status |
 | --- | --- |
-| 11 browser games (picture pairs, find the same, sort together, picture puzzle, finish the saying, word search, coloring, conversation cards, photo pairs, picture bingo, calm breathing) | Implemented; logic unit tests pass; every game exercised in the built-in browser under the Workers runtime at 375px and desktop; no device, screen-reader or caregiver testing |
-| 35 sourced guides (16 activities, 7 caregiving, 10 brain health incl. prevention and fasting) | Written with cited, opened sources; brain-health pages carry a health notice; not reviewed by a clinician (the editorial policy says so) |
+| 11 browser games at launch; 12 on 2026-10-31 with shadow match (picture pairs, find the same, sort together, picture puzzle, finish the saying, word search, coloring, conversation cards, photo pairs, picture bingo, calm breathing) | Implemented; logic unit tests pass; every game exercised in the built-in browser under the Workers runtime at 375px and desktop; no device, screen-reader or caregiver testing |
+| 35 sourced guides at launch (16 activities, 7 caregiving, 10 brain health incl. prevention and fasting); 38 on 2026-10-31 (21 activities, 7 caregiving, 10 brain health) | Written with cited, opened sources; brain-health pages carry a health notice; not reviewed by a clinician (the editorial policy says so) |
 | SEO/GEO: titles, descriptions, canonicals, JSON-LD, sitemap, robots, `llms.txt`, `llms-full.txt`, share images | Implemented; `scripts/check-site.mjs` passes with 0 errors |
-| Privacy: no analytics, ads or cookies; photo pairs is local only | Implemented; photo pairs made no network requests after photos were chosen, and the `_headers` CSP (`connect-src 'self'`) blocked a test request to another site |
+| Privacy: no ads or accounts; Google Analytics 4 since 2026-10-25 (signals and ad personalization off), not loaded on photo pairs, which is local only | Implemented; photo pairs made no network requests after photos were chosen, and the `_headers` CSP (`connect-src 'self'`) blocked a test request to another site |
 | Accessibility | axe-core (WCAG 2.2 AA + best practice): no violations on the 11 pages scanned. Independent code review fixes applied (picker focus ring, focus after answers, one completion live region, word-search arrow keys and 48px cells, 48px footer links). No assistive-technology user testing |
 | Exceptions recorded | Calm breathing is the one paced activity (stops on a tap or after six breaths), recorded in `DESIGN.md` |
 | App legal pages (moved from `streamentry/golden-moments-web`, 2026-10-25) | `/app-privacy/`, `/privacy-choices/`, `/safety/`, `/support/`, `/help/` and `/legal/` added; app license merged into `/terms/`; copy updated for iOS 1.4.0 (family photos live, Firebase removed, Cloudflare hosting, current button labels). `check-site.mjs` guards each page; `pnpm check:live` checks them after deploy. Not deployed yet, not legally reviewed. The old site's demo, home and activities pages were dropped: the games and guides here replace them. Checklist moved to `docs/legal/app-review-gates.md` |
@@ -49,6 +49,18 @@ Open items for the maintainer: legal review of the website privacy notice and te
 | Website deploys itself: `site.yaml` `deploy` job on pushes to `main` publishes the checked build with `wrangler deploy`, then runs IndexNow | Needs `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID` repository secrets before the first merge; until they exist the job fails and `pnpm run deploy` by hand still works |
 
 Next: add the two secrets, merge, watch the first deploy; re-check the app at 200% text on iPhone SE and iPad with the serif headlines; refresh the OG images (`scripts/og-games.mjs`) and store screenshots so they carry the new headline type.
+
+## Category strategy and activity measurement (2026-10-31)
+
+[Category strategy](docs/strategy/category-strategy.md) audits Golden Moments against `category-leader.md` and live competitors and chooses the first category: **ready-to-use dementia activities to do together, free, on the web, on paper and on a phone**, for US family caregivers, with activity staff tested as a second segment. It rejects the care-platform category for now, corrects five claims in the research document and sets gates G1–G6.
+
+| Deliverable | Status |
+| --- | --- |
+| Strategy, audit, roadmap, measurement and decision gates | Written; claims checked against primary sources and live store listings on 2026-10-31 |
+| Website activity events through the existing GA4 tag (`site/src/lib/track.ts`, `GameFrame`): `activity_start`, `activity_restart`, `activity_done`, `activity_print`, and an optional "Did this help today?" (`activity_feedback`, answer `yes` or `not_really`) | Implemented; unit tests, build and site checks pass; the start-once and print-only-on-printable-sheets rules have unit tests; the rest (start on a click only, the question appearing after the first click, focus moving to the reply, 56px buttons, nothing loaded or sent on Photo pairs) was checked by hand in the built-in browser under the Workers runtime with a stubbed tag, and has no automated component test. Privacy notice updated. **New website telemetry: merging is the maintainer's decision** |
+| Baseline | First-time downloads unmeasured (App Store Connect data not yet produced; Sales vendor number not recorded); iOS 0 ratings; top Apple search result for "dementia activities"; Bing showed only the homepage indexed |
+
+Next, in order: verify Google Search Console and Bing Webmaster Tools and submit the sitemap (maintainer, DNS on Cloudflare); register `answer` as an event-scoped custom dimension in GA4; re-answer the App Store age questionnaire truthfully (not just to lower the rating); create the App Store campaign provider token for `ct=web`; record the first week of events, downloads and indexed pages as the baseline; start recruiting the 20-unit reuse pilot.
 
 ## Growth pass: ratings, reminders and ASO (2026-10-30, 1.5.0+9 candidate)
 
