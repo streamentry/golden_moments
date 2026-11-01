@@ -235,6 +235,39 @@
   max-width: 60em;
 }
 
+/* Language menu: a wrapping row of names, not a 50-row list. The current
+   language is marked by a check and weight, never by colour alone. */
+.lang-menu {
+  margin-top: var(--space-xl);
+  padding-top: var(--space-lg);
+  border-top: 1px solid var(--gm-on-surface-variant);
+}
+.lang-menu h2 {
+  font-size: var(--text-title-lg);
+  color: var(--gm-on-primary);
+  margin-bottom: var(--space-sm);
+}
+.lang-menu ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 var(--space-lg);
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.lang-menu a {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  min-height: var(--target-min);
+  font-size: var(--text-md);
+}
+.lang-menu a[aria-current] {
+  color: var(--gm-on-primary);
+  font-weight: 700;
+  text-decoration: none;
+}
+
 /* ---------- Breadcrumbs ---------- */
 .breadcrumbs ol {
   display: flex;
