@@ -90,7 +90,7 @@ class RegisterLanguageTests(unittest.TestCase):
         self.assertIn(':root:lang(fa)', css)
         self.assertNotIn(':root:lang(ha)', css)  # Latin script: the bundled font covers it
         held = re.search(r"HELD_FROM_INDEX: ReadonlySet<string> = new Set\(\[(.*?)\]\)", locales, re.S).group(1)
-        self.assertIn("'ha'", held)  # too weak to index unread
+        self.assertNotIn("'ha'", held)  # every language is indexed (maintainer decision, 2026-11-01)
         self.assertNotIn("'bn'", held)
         play = self.read('site/src/i18n/play.ts')
         self.assertRegex(play, r"NO_LETTER_GRID: readonly string\[\] = \[[^\]]*'my'")
