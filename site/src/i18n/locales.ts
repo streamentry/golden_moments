@@ -61,6 +61,11 @@ export const LOCALES: readonly LocaleInfo[] = [
   { code: 'ro', prefix: 'ro', bcp47: 'ro', htmlLang: 'ro', og: 'ro_RO', name: 'Română', englishName: 'Romanian', dir: 'ltr' },
   { code: 'ms', prefix: 'ms', bcp47: 'ms', htmlLang: 'ms', og: 'ms_MY', name: 'Bahasa Melayu', englishName: 'Malay', dir: 'ltr' },
   { code: 'sw', prefix: 'sw', bcp47: 'sw', htmlLang: 'sw', og: 'sw_KE', name: 'Kiswahili', englishName: 'Swahili', dir: 'ltr' },
+  { code: 'kn', prefix: 'kn', bcp47: 'kn', htmlLang: 'kn', og: 'kn_IN', name: 'ಕನ್ನಡ', englishName: 'Kannada', dir: 'ltr' },
+  { code: 'ml', prefix: 'ml', bcp47: 'ml', htmlLang: 'ml', og: 'ml_IN', name: 'മലയാളം', englishName: 'Malayalam', dir: 'ltr' },
+  { code: 'ne', prefix: 'ne', bcp47: 'ne', htmlLang: 'ne', og: 'ne_NP', name: 'नेपाली', englishName: 'Nepali', dir: 'ltr' },
+  { code: 'az', prefix: 'az', bcp47: 'az', htmlLang: 'az', og: 'az_AZ', name: 'Azərbaycan dili', englishName: 'Azerbaijani', dir: 'ltr' },
+  { code: 'am', prefix: 'am', bcp47: 'am', htmlLang: 'am', og: 'am_ET', name: 'አማርኛ', englishName: 'Amharic', dir: 'ltr' },
 ];
 
 /**
@@ -76,7 +81,7 @@ export const LOCALES: readonly LocaleInfo[] = [
  * labelled, but are `noindex` and left out of the sitemaps, hreflang and
  * llms.txt until a native speaker has read them. Remove a code once reviewed.
  */
-export const HELD_FROM_INDEX: ReadonlySet<string> = new Set(['ha']);
+export const HELD_FROM_INDEX: ReadonlySet<string> = new Set(['ha', 'am']);
 
 export const INDEXED_LANGUAGES: ReadonlySet<string> = new Set(
   LOCALES.map((l) => l.code).filter((code) => !HELD_FROM_INDEX.has(code)),

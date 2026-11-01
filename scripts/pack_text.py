@@ -31,7 +31,8 @@ ARB = ROOT / 'lib/l10n/arb'
 LOCALES = (
     'en', 'es', 'pt_BR', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', 'ar',
     'hi', 'ja', 'ko', 'zh_Hans', 'zh_Hant', 'vi', 'id', 'th', 'bn', 'fa', 'ha',
-    'ur', 'mr', 'te', 'ta', 'gu', 'pa', 'fil', 'ro', 'ms', 'sw',
+    'ur', 'mr', 'te', 'ta', 'gu', 'pa', 'fil', 'ro', 'ms', 'sw', 'kn', 'ml',
+    'ne', 'az', 'am',
 )
 GENERATOR_ONLY_ARBS = ('pt', 'zh')
 CATEGORY_FIELDS = ('name', 'description')

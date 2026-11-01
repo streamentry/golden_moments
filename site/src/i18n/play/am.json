@@ -1,0 +1,792 @@
+{
+  "ui": {
+    "frame": {
+      "region": "ጨዋታ",
+      "restart": "እንደገና ይጀምሩ",
+      "soundOn": "ለስላሳ ድምጾች በርተዋል",
+      "soundOff": "ለስላሳ ድምጾች ጠፍተዋል",
+      "done": "ለአሁን በቃ",
+      "feedbackQuestion": "ዛሬ ይህ ረድቷል?",
+      "feedbackYes": "አዎ",
+      "feedbackNo": "በትክክል አልረዳም",
+      "feedbackThanks": "ስለነገሩን እናመሰግናለን።"
+    },
+    "tile": {
+      "named": "{name}፣ ካርድ {n}",
+      "hidden": "የተደበቀ ስዕል፣ ካርድ {n}",
+      "withState": "{label}፣ {state}",
+      "matched": "ተጣምሯል",
+      "selected": "ተመርጧል",
+      "picture": "ስዕል",
+      "photoNumber": "ፎቶ {n}"
+    },
+    "pairs": {
+      "allTogether": "ሁሉም ጥንዶች ተሰባስበዋል። እንደገና ይጫወቱ ወይም ዕረፍት ይውሰዱ።",
+      "photoPair": "የፎቶዎች ጥንድ፣ አብረው።",
+      "picturePair": "የ{name} ሁለት ስዕሎች፣ አብረው።",
+      "selected": "{name}። አሁን ጥንዱን ያግኙ።",
+      "mismatch": "ጊዜዎን ይውሰዱ። ለመቀጠል አንድ ስዕል ይንኩ።",
+      "mismatchNamed": "{a} እና {b}። ጊዜዎን ይውሰዱ። ለመቀጠል አንድ ስዕል ይንኩ።"
+    },
+    "picturePairs": {
+      "guidanceShowing": "አንድ ስዕል ይንኩ፤ ከዚያ የሚዛመደውን ይንኩ።",
+      "guidanceHidden": "ሁለት ካርዶችን ነክተው ይግለጡ። ተመሳሳይ የሆኑ ሁለት ይፈልጉ።",
+      "restart": "አዲስ ስዕሎች",
+      "sizeLegend": "ስንት ካርዶች",
+      "size": {
+        "one": "{n} ካርድ",
+        "other": "{n} ካርዶች"
+      },
+      "viewLegend": "እንዴት መጫወት",
+      "viewShowing": "ስዕሎች ክፍት",
+      "viewHidden": "የተደበቁ ስዕሎች",
+      "playAgain": "በአዲስ ስዕሎች እንደገና ይጫወቱ",
+      "talk": "ስለ ስዕሎቹ አብራችሁ አውሩ"
+    },
+    "choose": {
+      "countLegend": "ስንት ስዕሎች",
+      "count": "ከ{n} ለመምረጥ",
+      "thatOne": "ያ {name} ነው። ጊዜዎን ይውሰዱ።"
+    },
+    "findTheSame": {
+      "guidance": "ከላይ ያለውን ስዕል ይመልከቱ። ከታች ተመሳሳዩን ይንኩ።",
+      "yes": "አዎ፣ ተመሳሳዩ {name}።",
+      "next": "ቀጣይ ስዕል"
+    },
+    "shadowMatch": {
+      "guidance": "ከላይ ያለውን ጥላ ይመልከቱ። የሚሠራውን ስዕል ይንኩ።",
+      "yes": "አዎ፣ ያን ጥላ የሚሠራው {name} ነው።",
+      "next": "ቀጣይ ጥላ",
+      "shadowAlt": "የሚዛመድ ጥላ",
+      "foundAlt": "የ{name} ጥላ"
+    },
+    "sortTogether": {
+      "guidance": "አንድ ስዕል ይንኩ፤ ከዚያ የሚገባበትን ቅርጫት ይንኩ።",
+      "restart": "አዲስ ስዕሎች",
+      "themeLegend": "ርዕስ",
+      "selected": "{name}። አሁን የሚገባበትን ቅርጫት ይንኩ።",
+      "pickFirst": "መጀመሪያ ስዕል፣ ከዚያ ቅርጫት ይንኩ።",
+      "hint": "{name} በ “{basket}” ውስጥ ሊገባ ይችላል። ለማስገባት ያንን ቅርጫት ይንኩ።",
+      "placed": "{name} በ “{basket}” ውስጥ ነው።",
+      "sorted": "ሁሉም ተለይቷል። ቅርጫቶቹን አብራችሁ ተመልከቱ፤ ወይም ሌላ ርዕስ ሞክሩ።",
+      "basket": {
+        "one": "{basket} ቅርጫት፣ ውስጡ {count} ስዕል",
+        "other": "{basket} ቅርጫት፣ ውስጡ {count} ስዕሎች"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "አንድ ቁራጭ ይንኩ፤ ከዚያ ሌላ ይንኩ። ቦታ ይለዋወጣሉ።",
+      "restart": "እንደገና ይቀላቅሉ",
+      "pictureLegend": "ስዕል",
+      "pictures": {
+        "sailboat": "ባለ ሸራ ጀልባ",
+        "house": "ቤት",
+        "balloon": "ፊኛ",
+        "sunflower": "የሱፍ አበባ",
+        "lighthouse": "Lighthouse",
+        "cat": "ድመት"
+      },
+      "sizeLegend": "ቁራጮች",
+      "size": {
+        "one": "{n} ቁራጭ",
+        "other": "{n} ቁራጮች"
+      },
+      "pickedUp": "ቁራጩ ተነስቷል። አሁን የሚገባበትን ቦታ ይንኩ።",
+      "whole": "{name} እንደገና ሙሉ ሆኗል። በፈለጉት ጊዜ ሌላ ስዕል ይምረጡ።",
+      "swapped": {
+        "one": "ተለዋውጧል። ከ{total} ቁራጭ {correct} በቦታው ነው።",
+        "other": "ተለዋውጧል። ከ{total} ቁራጮች {correct} በቦታቸው ናቸው።"
+      },
+      "guideAlt": "ሙሉው ስዕል፦ {name}",
+      "guideText": "ስዕሉ ሙሉ ሲሆን እንዲህ ይመስላል።",
+      "piece": "{place} ያለ ቁራጭ",
+      "pieceInPlace": "፣ በትክክለኛው ቦታ",
+      "piecePickedUp": "፣ ተነስቷል",
+      "places4": [
+        "ከላይ በግራ",
+        "ከላይ በቀኝ",
+        "ከታች በግራ",
+        "ከታች በቀኝ"
+      ],
+      "places9": [
+        "ከላይ በግራ",
+        "ከላይ መሃል",
+        "ከላይ በቀኝ",
+        "መሃል በግራ",
+        "መሃል",
+        "መሃል በቀኝ",
+        "ከታች በግራ",
+        "ከታች መሃል",
+        "ከታች በቀኝ"
+      ],
+      "done": "ስዕሉ እንደገና ሙሉ ሆኗል። እንደገና ይጫወቱ ወይም ዕረፍት ይውሰዱ።",
+      "playAgain": "እንደገና ይቀላቅሉት"
+    },
+    "finishTheSaying": {
+      "guidance": "አባባሉን አብራችሁ አንብቡ፤ ከዚያ የሚጨርሰውን ቃል ይንኩ።",
+      "gap": " ",
+      "ending": "{end}።",
+      "yes": "አዎ፣ “{start} {end}።”",
+      "otherEnding": "“{word}” ደግሞ ይሠራል። የተለመደው አባባል የሚያበቃው በ “{end}” ነው።",
+      "revealed": "አባባሉ “{start} {end}።” ነው",
+      "choicesLabel": "የመጨረሻውን ቃል ይምረጡ",
+      "show": "መጨረሻውን አሳይ",
+      "talk": "ስለሱ ያውሩ፦ ",
+      "next": "ቀጣይ አባባል"
+    },
+    "wordSearch": {
+      "guidance": "ቃላት በመስመር ወይም በአምድ ይሄዳሉ። የአንድን ቃል የመጀመሪያ ፊደል ይንኩ፤ ከዚያ የመጨረሻ ፊደሉን።",
+      "restart": "አዲስ እንቆቅልሽ",
+      "themeLegend": "ርዕስ",
+      "sizeLegend": "የሰንጠረዥ መጠን",
+      "size": {
+        "one": "{n} በ{n} ({words} ቃል)",
+        "other": "{n} በ{n} ({words} ቃላት)"
+      },
+      "print": "ይህን እንቆቅልሽ ያትሙ",
+      "letterChosen": "ፊደል {letter} ተመርጧል። አሁን የቃሉን የመጨረሻ ፊደል ይንኩ።",
+      "found": "{word} ተገኝቷል።",
+      "foundAll": "{word} ተገኝቷል። ሁሉም ቃላት ተገኝተዋል። እንደገና ይጫወቱ ወይም ዕረፍት ይውሰዱ።",
+      "tryAgain": "ጊዜዎን ይውሰዱ። የአንድን ቃል የመጀመሪያ ፊደል ይንኩ፤ ከዚያ የመጨረሻ ፊደሉን።",
+      "gridLabel": "የፊደል ሰንጠረዥ፣ {n} ረድፎች፣ እያንዳንዳቸው {n} ፊደላት። በፊደላት መካከል ለመንቀሳቀስ የቀስት ቁልፎችን ይጠቀሙ።",
+      "cell": "{letter}፣ ረድፍ {row}፣ አምድ {col}",
+      "cellFound": "፣ የተገኘ ቃል አካል",
+      "wordsHeading": "የሚፈለጉ ቃላት",
+      "wordFound": " (ተገኝቷል)",
+      "sheetTitle": "የቃላት ፍለጋ፦ {theme}",
+      "sheetNote": "ቃላት በመስመር ወይም በአምድ ይሄዳሉ።",
+      "unavailable": "የቃላት ፍለጋው አሁን በዚህ ገጽ አይገኝም። በምትኩ የስዕል ጨዋታዎችን ይሞክሩ።"
+    },
+    "coloring": {
+      "guidance": "ቀለም ይንኩ፤ ከዚያ የስዕሉን አንድ ክፍል ይንኩ።",
+      "restart": "ቀለሞቹን ያጽዱ",
+      "cleared": "ገጹ እንደገና ባዶ ነው።",
+      "pageLegend": "ገጽ",
+      "print": "ይህን ገጽ ያትሙ",
+      "colorsLabel": "ቀለሞች",
+      "paintChosen": "{paint} ተመርጧል።",
+      "painted": "{part} አሁን {paint} ሆኗል።",
+      "artLabel": "{page}፣ የሚቀቡ {count} ክፍሎች",
+      "partPainted": "{part}፣ {paint}",
+      "partBlank": "{part}፣ አልተቀባም",
+      "paints": {
+        "red": "ቀይ",
+        "orange": "ብርቱካናማ",
+        "yellow": "ቢጫ",
+        "green": "አረንጓዴ",
+        "blue": "ሰማያዊ",
+        "purple": "ሐምራዊ",
+        "pink": "ሮዝ",
+        "brown": "ቡናማ",
+        "sky-blue": "ፈዛዛ ሰማያዊ",
+        "cream": "ክሬም",
+        "gray": "ግራጫ",
+        "white": "ነጭ"
+      }
+    },
+    "conversationCards": {
+      "guidance": "ካርዱን ጮክ ብለው ያንብቡ። ትክክለኛ መልስ የለም።",
+      "position": "ካርድ {n} ከ{total}",
+      "themeLegend": "ርዕስ",
+      "next": "ቀጣይ ካርድ",
+      "previous": "ቀዳሚ ካርድ",
+      "print": "ሁሉንም ካርዶች ያትሙ",
+      "sheetTitle": "የውይይት ካርዶች"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "ፎቶዎችዎን በመምረጥ ይጀምሩ።",
+      "guidance": "አንድ ፎቶ ይንኩ፤ ከዚያ የሚዛመደውን ይንኩ።",
+      "restart": "እንደገና ይቀላቅሏቸው",
+      "intro": "ከዚህ መሣሪያ **ከ2 እስከ 6 ፎቶዎች ይምረጡ**። በዚህ ገጽ ላይ ብቻ ይታያሉ፤ በፍጹም አይጫኑም አይቀመጡምም።",
+      "choose": "ፎቶዎችን ይምረጡ",
+      "chooseDifferent": "ሌሎች ፎቶዎችን ይምረጡ",
+      "clear": "ፎቶዎችን ያጽዱ",
+      "cleared": "ፎቶዎቹ ከዚህ ገጽ ተጽድተዋል።",
+      "atLeastTwo": "እባክዎ ቢያንስ ሁለት ፎቶዎችን ይምረጡ።",
+      "usingFirst": "የመጀመሪያዎቹን {max} ፎቶዎች በመጠቀም ላይ።",
+      "skipped": {
+        "one": "{count} ፋይል ማሳየት የምንችለው ፎቶ አልነበረም።",
+        "other": "{count} ፋይሎች ማሳየት የምንችላቸው ፎቶዎች አልነበሩም።"
+      },
+      "playAgain": "በእነዚህ ፎቶዎች እንደገና ይጫወቱ",
+      "empty": "ፎቶዎችዎ እዚህ ይታያሉ፣ እያንዳንዳቸው ሁለት ጊዜ።"
+    },
+    "pictureBingo": {
+      "guidance": "መጀመሪያ ካርዶቹን ያትሙ። ከዚያ ይህን ጠሪ ባለዎት ትልቁ ማያ ገጽ ላይ ያሳዩ።",
+      "called": {
+        "one": "{name}። ከ{total} ስዕል {called} ተጠርቷል።",
+        "other": "{name}። ከ{total} ስዕሎች {called} ተጠርተዋል።"
+      },
+      "start": "የመጀመሪያውን ስዕል ለመጥራት “ቀጣይ ስዕል” ይንኩ።",
+      "restart": "አዲስ ጨዋታ ይጀምሩ",
+      "squaresLegend": "በእያንዳንዱ ካርድ ላይ ያሉ ሳጥኖች",
+      "squares": "{n} ሳጥኖች ({side} በ{side})",
+      "cardsLegend": "ስንት ካርዶች ይታተሙ",
+      "cards": {
+        "one": "{n} ካርድ",
+        "other": "{n} ካርዶች"
+      },
+      "print": {
+        "one": "{n} የቢንጎ ካርድ ያትሙ",
+        "other": "{n} የቢንጎ ካርዶች ያትሙ"
+      },
+      "ready": "ሲዘጋጁ ይጀምሩ",
+      "next": "ቀጣይ ስዕል",
+      "allCalled": "ሁሉም ስዕሎች ተጠርተዋል",
+      "alreadyCalled": "አስቀድሞ ተጠርቷል",
+      "sheetTitle": "የስዕል ቢንጎ · ካርድ {n}"
+    },
+    "calmBreathing": {
+      "guidance": "ክቡ ሲሰፋ ወደ ውስጥ፣ ሲጠብ ወደ ውጭ ይተንፍሱ። ከስድስት ትንፋሽ በኋላ በራሱ ይቆማል።",
+      "paceLegend": "ፍጥነት",
+      "paceSlow": "ቀርፋፋ (በእያንዳንዱ አቅጣጫ 5 ሰከንድ)",
+      "paceGentle": "ለስላሳ (በእያንዳንዱ አቅጣጫ 4 ሰከንድ)",
+      "ready": "ሲዘጋጁ ይጀምሩ",
+      "in": "ወደ ውስጥ ይተንፍሱ",
+      "hold": "ዕረፍት",
+      "out": "ወደ ውጭ ይተንፍሱ",
+      "start": "ይጀምሩ",
+      "stop": "ያቁሙ",
+      "started": "ተጀምሯል። ክቡ ሲሰፋ ወደ ውስጥ ይተንፍሱ።",
+      "stopped": "ቆሟል።",
+      "finished": "ስድስት ዘገምተኛ ትንፋሾች ነበሩ። በፈለጉት ጊዜ እንደገና ይጀምሩ።"
+    }
+  },
+  "pictures": {
+    "teacup": "የሻይ ስኒ",
+    "kettle": "ማንቆርቆሪያ",
+    "bread": "ዳቦ",
+    "frying-pan": "እንቁላል ያለበት መጥበሻ",
+    "cake": "የልደት ኬክ",
+    "sunflower": "የሱፍ አበባ",
+    "tulip": "ቀይ ቱሊፕ",
+    "watering-can": "የውሃ ማጠጫ",
+    "potted-plant": "በማሰሮ ውስጥ ያለ ተክል",
+    "tree": "ዛፍ",
+    "bird": "ቅርንጫፍ ላይ ያለ ወፍ",
+    "butterfly": "ቢራቢሮ",
+    "dog": "ውሻ",
+    "cat": "ድመት",
+    "fish": "ወርቃማ ዓሣ",
+    "apple": "ቀይ ፖም",
+    "pear": "Pear",
+    "strawberry": "እንጆሪ",
+    "banana": "ሙዝ",
+    "lemon": "ሎሚ",
+    "cherries": "Cherries",
+    "house": "ቤት",
+    "lamp": "የጠረጴዛ መብራት",
+    "armchair": "ምቹ ወንበር",
+    "key": "የድሮ ቁልፍ",
+    "umbrella": "ጃንጥላ",
+    "sailboat": "ባለ ሸራ ጀልባ",
+    "car": "የድሮ መኪና",
+    "bicycle": "ብስክሌት",
+    "balloon": "የሙቅ አየር ፊኛ",
+    "lighthouse": "Lighthouse",
+    "sun": "ፀሐይ",
+    "moon": "ጨረቃና ከዋክብት"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "ቀስ በቀስ እንቁላል በእግሩ",
+        "end": "ይሄዳል",
+        "others": [
+          "ይደርሳል",
+          "ይሮጣል"
+        ],
+        "prompt": "ቀስ ብለው በትዕግሥት የሠሩት የሚወዱት ነገር ምንድን ነው?"
+      },
+      {
+        "start": "አንድ እጅ",
+        "end": "አያጨበጭብም",
+        "others": [
+          "አይዘምርም",
+          "አይጮኽም"
+        ],
+        "prompt": "ከሌሎች ጋር አብረው ሲሠሩ የሚያስደስትዎት ነገር ምንድን ነው?"
+      },
+      {
+        "start": "ድር ቢያብር አንበሳ",
+        "end": "ያስር",
+        "others": [
+          "ያሸንፍ",
+          "ይይዝ"
+        ],
+        "prompt": "ቤተሰብ ወይም ጎረቤት አብሮ የሠራውን አንድ ሥራ ንገሩኝ።"
+      },
+      {
+        "start": "ከሩቅ ዘመድ የቅርብ ጎረቤት",
+        "end": "ይሻላል",
+        "others": [
+          "ይጠቅማል",
+          "ይበልጣል"
+        ],
+        "prompt": "ስለ ጎረቤቶችዎ ንገሩኝ።"
+      },
+      {
+        "start": "ሥራ ለሠሪው እሾህ",
+        "end": "ለአጣሪው",
+        "others": [
+          "ለተመልካቹ",
+          "ለሰሚው"
+        ],
+        "prompt": "ሲሠሩ የሚያስደስትዎት ሥራ ምንድን ነው?"
+      },
+      {
+        "start": "ላም ባልዋለበት ኩበት",
+        "end": "አይለቀምም",
+        "others": [
+          "አይገኝም",
+          "አይታይም"
+        ],
+        "prompt": "ከላሞች ወይም ከገጠር ጋር የተያያዘ የሚወዱት ነገር ምንድን ነው?"
+      },
+      {
+        "start": "የማያውቁት አገር",
+        "end": "አይናፍቅም",
+        "others": [
+          "አይረሳም",
+          "አይታወቅም"
+        ],
+        "prompt": "የተደሰቱበትን ቦታ ወይም ጉዞ ንገሩኝ።"
+      },
+      {
+        "start": "የዘራ",
+        "end": "ያጭዳል",
+        "others": [
+          "ይተክላል",
+          "ይሸጣል"
+        ],
+        "prompt": "በአትክልት ቦታ ምን መትከል ይወዳሉ?"
+      }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ለመረሰበተነከወዘየደገጠፈ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "ፍራፍሬ",
+          "words": [
+            "ብርቱካን",
+            "አቮካዶ",
+            "ፓፓያ",
+            "ማንጎ",
+            "እንጆሪ",
+            "ሐብሐብ",
+            "ሮማን",
+            "አናናስ"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "የአትክልት ቦታ",
+          "words": [
+            "አበባ",
+            "ቅጠል",
+            "አፈር",
+            "ጽጌረዳ",
+            "ጎመን",
+            "ቲማቲም",
+            "ካሮት",
+            "ድንች",
+            "ቢራቢሮ"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "ወጥ ቤት",
+          "words": [
+            "ማንኪያ",
+            "ድስት",
+            "ሳህን",
+            "ጀበና",
+            "ምጣድ",
+            "እንጀራ",
+            "ምድጃ",
+            "ወንፊት",
+            "ብርጭቆ"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "የአየር ሁኔታ",
+          "words": [
+            "ፀሐይ",
+            "ዝናብ",
+            "ደመና",
+            "ነፋስ",
+            "ጭጋግ",
+            "በረዶ",
+            "መብረቅ",
+            "ነጎድጓድ",
+            "ሙቀት"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "እንስሳት",
+          "words": [
+            "ፈረስ",
+            "አህያ",
+            "ፍየል",
+            "ድመት",
+            "ግመል",
+            "አንበሳ",
+            "ዝሆን",
+            "ጥንቸል",
+            "ቀጭኔ"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "ቤት",
+          "words": [
+            "መስኮት",
+            "ወንበር",
+            "አልጋ",
+            "ጠረጴዛ",
+            "መብራት",
+            "ሰዓት",
+            "ምንጣፍ",
+            "ግድግዳ",
+            "ጣሪያ"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "ሁሉም ካርዶች",
+        "food": "ምግብ",
+        "home": "ቤት",
+        "outdoors": "ከቤት ውጭ",
+        "animals": "እንስሳት",
+        "travel": "ጉዞ",
+        "work": "ሥራና ትርፍ ጊዜ",
+        "music": "ሙዚቃና መዝናኛ",
+        "seasons": "ወቅቶች"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "ከወጥ ቤት የሚወዱት ሽታ የትኛው ነው?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "ለበዓል ምን ዓይነት ኬክ ይመርጣሉ?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "ስለሚወዱት የፍራፍሬ ምግብ ወይም ጣፋጭ ንገሩኝ።"
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "ሻይዎን ወይም ቡናዎን እንዴት ይወዳሉ?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "ጥሩ ቁርስ ምን ይመስላል?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "ፍራፍሬን ከተክሉ ላይ በቀጥታ ቀጥፈው ያውቃሉ?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "ጣፋጭ ወይስ ጎምዛዛ፦ የትኛውን ይመርጣሉ?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "በጋን የሚያስታውስዎት ምግብ ምንድን ነው?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "መኖር የወደዱትን ቤት ንገሩኝ።"
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "ለመቀመጥና ለማረፍ የሚወዱት ቦታ የት ነው?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "ጸጥ ባለ ምሽት ምን ማድረግ ይወዳሉ?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "በልዩ ሳጥን ውስጥ የሚያስቀምጡት ውድ ነገር ምንድን ነው?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "ለሻይ ወይም ለቡና ወደ ቤትዎ ማንን ይጋብዛሉ?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "ዝናባማ ቀን ምን ማድረግ ይወዳሉ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "በአትክልት ቦታ ምን አበቦችን ይተክላሉ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "ስለሚወዱት ዛፍ ወይም መናፈሻ ንገሩኝ።"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "በአትክልት ቦታ መሆን የሚያስደስተው ምንድን ነው?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "የትኛውን ቀለም ያለው አበባ በጣም ይወዳሉ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "በቤት ውስጥ ተክሎች መኖር ይወዳሉ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "ለእርስዎ ፍጹም ፀሐያማ ቀን ምን ይመስላል?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "ስለሚያውቁት ውሻ ንገሩኝ።"
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "ድመት ወይስ ውሻ፣ ወይስ ሁለቱም አይደሉም? ስለእነሱ ምን ይወዳሉ?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "ውጭ ምን ወፎችን ያያሉ ወይም ይሰማሉ?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "ዓሣ አጥምደው ወይም ዓሣ አቆይተው ያውቃሉ?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "ካዩዋቸው እንስሳት ሁሉ ውብ የሆነው የትኛው ነው?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "ስለወደዱት መኪና ንገሩኝ።"
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "ቀኑን በባሕር ዳር ወይም በተራሮች ላይ ማሳለፍ ይመርጣሉ?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "ለጉዞ ወዴት መሄድ ይወዳሉ?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "በማንኛውም ቦታ ላይ መብረር ቢችሉ ወዴት ይሆናል?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "የተደሰቱበትን ጉዞ ንገሩኝ።"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "ምን ዓይነት ሥራ መሥራት ደስ ብሎዎታል?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "ለሰዓታት ሊያሳልፉበት የሚችሉት ትርፍ ጊዜ ሥራ ምንድን ነው?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "በመሥራት ወይም በመጠገን የሚታወቁበት ነገር ምንድን ነው?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "ሥራ ለሚጀምር ወጣት ምን ምክር ይሰጡታል?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "ምን ዓይነት ሙዚቃ ለመደነስ ያጓጓዎታል?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "ጥሩ ድግስ ምን ይመስላል?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "ማዳመጥ የሚወዱት ዘፋኝ ማን ነው?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "ደጋግመው ማየት የሚወዱት ፊልም ወይም ፕሮግራም ምንድን ነው?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "በበጋ ወቅት ምን በጣም ይወዳሉ?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "በመኸር ወቅት ምን ያስደስትዎታል?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "በክረምት (ዝናባማ ወቅት) ምሽት ምቹ ሆኖ የሚሰማዎት ነገር ምንድን ነው?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "የጸደይ የመጀመሪያ ምልክቶች ለእርስዎ ምንድን ናቸው?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "ዝናብ፣ ፀሐይ ወይም ብርድ፦ የትኛውን ይመርጣሉ?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "በማሰሮ ውስጥ ያለ አበባ",
+          "regions": {
+            "sky": "ጀርባ",
+            "table": "ጠረጴዛ",
+            "stem": "ግንድ",
+            "leaf-left": "የግራ ቅጠል",
+            "leaf-right": "የቀኝ ቅጠል",
+            "petal-1": "የአበባ ቅጠል 1",
+            "petal-2": "የአበባ ቅጠል 2",
+            "petal-3": "የአበባ ቅጠል 3",
+            "petal-4": "የአበባ ቅጠል 4",
+            "petal-5": "የአበባ ቅጠል 5",
+            "petal-6": "የአበባ ቅጠል 6",
+            "petal-7": "የአበባ ቅጠል 7",
+            "petal-8": "የአበባ ቅጠል 8",
+            "center": "የአበባው መሃል",
+            "pot": "ማሰሮ",
+            "pot-rim": "የማሰሮው ጠርዝ"
+          }
+        },
+        "house": {
+          "name": "ቤት",
+          "regions": {
+            "sky": "ሰማይ",
+            "sun": "ፀሐይ",
+            "grass": "ሣር",
+            "chimney": "ጭስ ማውጫ",
+            "walls": "ግድግዳዎች",
+            "roof": "ጣሪያ",
+            "door": "በር",
+            "window-left": "የግራ መስኮት",
+            "window-right": "የቀኝ መስኮት",
+            "path": "መንገድ"
+          }
+        },
+        "teacup": {
+          "name": "የሻይ ስኒ",
+          "regions": {
+            "background": "ጀርባ",
+            "saucer": "የስኒ ሳህን",
+            "handle": "እጀታ",
+            "cup": "ስኒ",
+            "band": "በስኒው ላይ ያለ ጭረት",
+            "tea": "ሻይ"
+          }
+        },
+        "butterfly": {
+          "name": "ቢራቢሮ",
+          "regions": {
+            "background": "ጀርባ",
+            "wing-top-left": "የላይኛው ግራ ክንፍ",
+            "wing-top-right": "የላይኛው ቀኝ ክንፍ",
+            "wing-bottom-left": "የታችኛው ግራ ክንፍ",
+            "wing-bottom-right": "የታችኛው ቀኝ ክንፍ",
+            "spot-left": "የግራ ክንፍ ነጥብ",
+            "spot-right": "የቀኝ ክንፍ ነጥብ",
+            "body": "አካል"
+          }
+        },
+        "sailboat": {
+          "name": "ባለ ሸራ ጀልባ",
+          "regions": {
+            "sky": "ሰማይ",
+            "sea": "ባሕር",
+            "sail-big": "ትልቁ ሸራ",
+            "sail-small": "ትንሹ ሸራ",
+            "mast": "ምሰሶ",
+            "hull": "ጀልባ",
+            "flag": "ባንዲራ"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "ወጥ ቤትና አትክልት ቦታ",
+          "baskets": [
+            "በወጥ ቤት ውስጥ",
+            "በአትክልት ቦታ ውስጥ"
+          ]
+        },
+        "fruit-animals": {
+          "label": "ፍራፍሬና እንስሳት",
+          "baskets": [
+            "ፍራፍሬ",
+            "እንስሳት"
+          ]
+        },
+        "home-travel": {
+          "label": "ቤትና ጉዞ",
+          "baskets": [
+            "በቤት ውስጥ",
+            "ከቤት ውጭ"
+          ]
+        }
+      }
+    }
+  }
+}

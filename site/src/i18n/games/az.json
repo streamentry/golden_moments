@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Şəkil cütləri",
+    "seoTitle": "Demensiya üçün uyğunlaşdırma oyunu: Şəkil cütləri",
+    "h1": "Şəkil cütləri: mülayim uyğunlaşdırma oyunu",
+    "description": "Demensiya ilə yaşayanlar üçün pulsuz, mülayim uyğunlaşdırma oyunu. İri şəkillər görünən qalır, taymer və xal yoxdur, 4-dən 12-yə qədər kart seçirsiniz.",
+    "short": "Eyni olan iki şəkli tapın. Şəkillər açıq qala bilər.",
+    "players": "1 və ya 2 nəfər, yan-yana",
+    "intro": "Bir şəklə toxunun, sonra ona uyğun gələnə toxunun. Şəkillər standart olaraq görünən qalır, ona görə heç nə xatırlamaq lazım deyil. İki şəkil bir-birinə uyğun gəldikdə qızılı haşiyə və işarə alır.",
+    "howTo": [
+      "Neçə kart istifadə ediləcəyini seçin. Dörd kart sakit başlanğıcdır.",
+      "İstənilən şəklə toxunun. O, qızılı haşiyə alır.",
+      "Eyni görünən şəklə toxunun. Cüt işarə ilə birlikdə qalır.",
+      "İki şəkil fərqlidirsə, pis heç nə olmur. Hazır olduqda yenidən toxunun.",
+      "“Gizli şəkillər” rejimini yalnız ikiniz də klassik üzü aşağı versiyadan zövq alırsınızsa açın."
+    ],
+    "tips": [
+      "Şəkillərin adlarını birlikdə ucadan deyin və onlar barədə söhbət edin: “Qırmızı çay fincanı. Çayı necə içirsiniz?”",
+      "Qayğı göstərdiyiniz şəxs toxunsun, bir az çəkməsə də. Onun əvəzinə toxunmaq əvəzinə əlinizlə göstərin.",
+      "Özünüzü yaxşı hiss etdiyiniz qədər dörd kartda qalın. Daha çox kart seçimdir, çatılacaq səviyyə deyil.",
+      "Hələ xoş olarkən bitirin. Bir oyun tam bir fəaliyyətdir."
+    ],
+    "faq": [
+      {
+        "q": "Taymer və ya xal varmı?",
+        "a": "Xeyr. Saat, xal, hərəkət sayğacı və uduzmaq yoxdur. İstənilən anda dayana bilərsiniz və yarımçıq dayanmaq da yaxşı bitirmə yoludur."
+      },
+      {
+        "q": "Şəkillər niyə üzü yuxarı qalır?",
+        "a": "Şəkillərin görünən qalması oyunu xatırlamaqdan çox baxmağa və uyğunlaşdırmağa çevirir. Bir çox adam bunu daha sakit tapır. İstəsəniz, bir toxunuşla gizli şəkillərə keçə bilərsiniz."
+      },
+      {
+        "q": "Pulsuzdurmu və qeydiyyat lazımdırmı?",
+        "a": "Bəli, pulsuzdur; hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
+      },
+      {
+        "q": "Öz ailə fotolarımızdan istifadə edə bilərikmi?",
+        "a": "Bəli. Cihazınızdan foto seçməyə imkan verən “Foto cütləri”ni sınayın. Fotolar brauzerinizdə qalır və yüklənmir."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Eynisini tapın",
+    "seoTitle": "Eyni şəkli tapın: sadə demensiya oyunu",
+    "h1": "Eyni şəkli tapın",
+    "description": "Yuxarıda bir şəkil, aşağıda iki-dörd şəkil. Eyni olana toxunun. Demensiya ilə yaşayanlar üçün sakit, pulsuz şəkil oyunu, taymersiz.",
+    "short": "Yuxarıdakı şəkilə baxın və aşağıda eynisinə toxunun.",
+    "players": "1 və ya 2 nəfər",
+    "intro": "Ekranın yuxarısında tək şəkil durur. Onun altında iki, üç və ya dörd şəkil var. Eyni olana toxunun. Bu, hər dəfə bir sadə seçimdir və söhbət üçün çox yer qalır.",
+    "howTo": [
+      "Aralarından seçmək üçün iki, üç və ya dörd şəkil seçin. İki ən sadəsidir.",
+      "Yuxarıdakı şəkilə birlikdə baxın.",
+      "Aşağıda eyni şəklə toxunun. O, işarə və bir neçə mehriban sözlə qeyd olunur.",
+      "Fərqli şəkilə toxunulsa, oyun sadəcə onun adını deyir və gözləyir. Tələsməyin.",
+      "Başqası üçün hazır olduqda “Növbəti şəkil” düyməsinə toxunun."
+    ],
+    "tips": [
+      "Seçməzdən əvvəl hər şəkil barədə danışın: rənglər, formalar, onu harada görə bilərsiniz.",
+      "İki seçim “çox asan” deyil. Məqsəd çətinlik deyil, xoş andır.",
+      "Toxunmaq çətindirsə, şəxs əli ilə göstərə bilər, siz isə onun əvəzinə toxuna bilərsiniz."
+    ],
+    "faq": [
+      {
+        "q": "Taymer və ya xal varmı?",
+        "a": "Xeyr. Saat, xal, hərəkət sayğacı və uduzmaq yoxdur. İstənilən anda dayana bilərsiniz və yarımçıq dayanmaq da yaxşı bitirmə yoludur."
+      },
+      {
+        "q": "Yanlış şəkilə toxunulsa nə olur?",
+        "a": "Xoşagəlməz heç nə. Səs siqnalı, qırmızı xaç və ya titrəmə yoxdur. Oyun toxunulan şəklin adını deyir və növbəti toxunuşu gözləyir."
+      },
+      {
+        "q": "Pulsuzdurmu və qeydiyyat lazımdırmı?",
+        "a": "Bəli, pulsuzdur; hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Kölgə uyğunluğu",
+    "seoTitle": "Demensiya üçün kölgə uyğunlaşdırma oyunu: pulsuz",
+    "h1": "Kölgə uyğunluğu: mülayim şəkil oyunu",
+    "description": "Yuxarıda tünd kölgə, aşağıda iki-dörd şəkil. Kölgəni yaradan şəkilə toxunun. Demensiya üçün sakit, pulsuz kölgə uyğunlaşdırma oyunu, taymersiz.",
+    "short": "Kölgəyə baxın və onu yaradan şəkilə toxunun.",
+    "players": "1 və ya 2 nəfər",
+    "intro": "Kölgə uyğunlaşdırma çap olunmuş iş vərəqlərindən tanış fəaliyyətdir, burada isə iri şəkillərlə və çap etmədən. Ekranın yuxarısında yumşaq kölgə durur, aşağıda iki, üç və ya dörd şəkil gözləyir. Kölgəni yaradana toxunun. Velosiped, çətir və ya çay fincanı kimi formalar haqqında danışmaq da asandır.",
+    "howTo": [
+      "Aralarından seçmək üçün iki, üç və ya dörd şəkil seçin. İki ən sadəsidir.",
+      "Kölgəyə birlikdə baxın. Hansı formadadır? Hündürdür, yoxsa yumrudur?",
+      "Kölgəni yaradan şəkilə toxunun. Onun adı kölgənin altında görünür.",
+      "Fərqli şəkilə toxunulsa, oyun sadəcə onun adını deyir və gözləyir. Tələsməyin.",
+      "Başqası üçün hazır olduqda “Növbəti kölgə” düyməsinə toxunun."
+    ],
+    "tips": [
+      "Kölgənin konturunu barmaqla izləyin və forma barədə danışın.",
+      "Bu gün kölgələr çətin gələrsə, şəkillərin bir-birinə oxşadığı “Eynisini tapın” oyununa keçin.",
+      "Şəkil tapıldıqdan sonra onun barəsində danışın: “Bizdə də belə çətir var idi.”"
+    ],
+    "faq": [
+      {
+        "q": "Taymer və ya xal varmı?",
+        "a": "Xeyr. Saat, xal, hərəkət sayğacı və uduzmaq yoxdur. İstənilən anda dayana bilərsiniz və yarımçıq dayanmaq da yaxşı bitirmə yoludur."
+      },
+      {
+        "q": "Kölgə uyğunlaşdırma demensiya ilə yaşayanlar üçün yaxşıdırmı?",
+        "a": "Bəzi insanlar üçün, xüsusən erkən mərhələlərdə xoş, sadə fəaliyyət ola bilər. Formaları sözlərdən daha asan tanımaq olar. Bu, zövq və söhbət üçündür, test deyil və demensiyanı müalicə etmir və ya yavaşlatmır. Əsəbilik yaranarsa, “Eynisini tapın” oyununu sınayın və ya sadəcə şəkillərə birlikdə baxın."
+      },
+      {
+        "q": "Yanlış şəkilə toxunulsa nə olur?",
+        "a": "Xoşagəlməz heç nə. Səs siqnalı, qırmızı xaç və ya titrəmə yoxdur. Oyun toxunulan şəklin adını deyir və növbəti toxunuşu gözləyir."
+      },
+      {
+        "q": "Pulsuzdurmu və qeydiyyat lazımdırmı?",
+        "a": "Bəli, pulsuzdur; hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Birlikdə çeşidləyək",
+    "seoTitle": "Demensiya üçün çeşidləmə oyunu: birlikdə çeşidləyək",
+    "h1": "Birlikdə çeşidləyək: şəkil çeşidləmə fəaliyyəti",
+    "description": "Bir şəklə toxunun, sonra aid olduğu səbətə toxunun: mətbəx və ya bağ, meyvə və ya heyvan. Demensiya ilə yaşayanlar üçün sakit, pulsuz çeşidləmə fəaliyyəti.",
+    "short": "Hər şəkli öz səbətinə qoyun: mətbəx və ya bağ və daha çoxu.",
+    "players": "1 və ya 2 nəfər",
+    "intro": "Çeşidləmə tanış, məmnunluq verən gündəlik işdir, məsələn, alış-verişi yerləşdirmək və ya corabları cütləmək kimi. Bir şəklə toxunun, sonra aid olduğu səbətə toxunun. Tələsmək yoxdur və səhv dönüş yoxdur.",
+    "howTo": [
+      "Mövzu seçin: mətbəx və bağ, meyvə və heyvanlar, ev və səfər.",
+      "Bir şəklə toxunun. O, qızılı haşiyə alır.",
+      "Aid olduğu səbətə toxunun. Şəkil o səbətə keçir.",
+      "O, digər səbətə aiddirsə, oyun bunu mehribanlıqla deyir və gözləyir.",
+      "Bütün şəkillər çeşidləndikdə, səbətlərə birlikdə baxın."
+    ],
+    "tips": [
+      "Real həyatda çox vaxt yanlış cavab olmur. Kimsə suvarma qabının mətbəxə aid olduğunu desə, səbəbini soruşun. Yaxşı bir hekayə eşidə bilərsiniz.",
+      "Şəkillərdən söhbət üçün istifadə edin: “Bağınızda nə becərirdiniz?”",
+      "Real əşyaları, məsələn, qaşıq-çəngəl və ya düymələri rəngə görə çeşidləmək ekrandan kənarda yaxşı davamdır."
+    ],
+    "faq": [
+      {
+        "q": "Taymer və ya xal varmı?",
+        "a": "Xeyr. Saat, xal, hərəkət sayğacı və uduzmaq yoxdur. İstənilən anda dayana bilərsiniz və yarımçıq dayanmaq da yaxşı bitirmə yoludur."
+      },
+      {
+        "q": "Niyə çeşidləmə?",
+        "a": "Bir çox adam çeşidləməni sevir, çünki o, faydalı, tanış iş kimi hiss olunur. Gedə-gedə şəkillər barədə danışmaq da asandır."
+      },
+      {
+        "q": "Pulsuzdurmu və qeydiyyat lazımdırmı?",
+        "a": "Bəli, pulsuzdur; hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Şəkil tapmacası",
+    "seoTitle": "Demensiya üçün asan tapmaca: 4 və ya 9 hissə",
+    "h1": "Şəkil tapmacası: asan tapmaca",
+    "description": "Demensiya ilə yaşayanlar üçün asan onlayn tapmaca: 4 və ya 9 iri hissə, bütöv şəkil görünən qalır, yerini dəyişmək üçün iki hissəyə toxunursunuz.",
+    "short": "Şəkil bütöv olana qədər iki hissəyə toxunub yerlərini dəyişin.",
+    "players": "1 və ya 2 nəfər",
+    "intro": "Mehriban şəkil dörd və ya doqquz iri hissəyə kəsilir və qarışdırılır. Bütöv şəkil bələdçi kimi görünən qalır. Bir hissəyə, sonra digərinə toxunun və onlar yer dəyişir. Sürükləmək lazım deyil.",
+    "howTo": [
+      "Şəkil və 4 və ya 9 hissə seçin. Dörd mülayim başlanğıcdır.",
+      "Yuxarıdakı bütöv şəkilə baxın.",
+      "Bir hissəyə, sonra qoyulmalı yerə toxunun. İki hissə yer dəyişir.",
+      "Düzgün yerdəki hissələr kiçik işarə alır.",
+      "Şəkil bütöv olduqda onunla birlikdə zövq alın, sonra başqasını seçin."
+    ],
+    "tips": [
+      "İki hissəyə toxunub yerini dəyişmək bir çox adam üçün sürükləməkdən daha asandır.",
+      "Şəkil birləşdikcə onun barəsində danışın: “Budur qırmızı dam.”",
+      "12-24 iri hissəli real taxta tapmaca da gözəl masa fəaliyyətidir."
+    ],
+    "faq": [
+      {
+        "q": "Taymer və ya xal varmı?",
+        "a": "Xeyr. Saat, xal, hərəkət sayğacı və uduzmaq yoxdur. İstənilən anda dayana bilərsiniz və yarımçıq dayanmaq da yaxşı bitirmə yoludur."
+      },
+      {
+        "q": "Hissələri sürükləməliyəmmi?",
+        "a": "Xeyr. Bir hissəyə, sonra digərinə toxunun və onlar yer dəyişir. Bu, əli əsən olduqda və ya kiçik ekranda daha asandır."
+      },
+      {
+        "q": "Pulsuzdurmu və qeydiyyat lazımdırmı?",
+        "a": "Bəli, pulsuzdur; hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Deyimi tamamlayın",
+    "seoTitle": "Deyimi tamamlayın: yaşlılar üçün atalar sözləri oyunu",
+    "h1": "Deyimi tamamlayın",
+    "description": "Sonuncu sözü çatışmayan tanış atalar sözləri. Variantlardan birinə toxunun və ya sonluğu göstərin, sonra bunun barəsində söhbət edin.",
+    "short": "Tanış deyimləri birlikdə tamamlayın, sonra onlar barədə danışın.",
+    "players": "1, 2 nəfər və ya qrup",
+    "intro": "Köhnə deyimlər çox vaxt ömür boyu tanış olur. Hər kartda sonuncu sözü çatışmayan tanış deyim, üç seçim və “Sonluğu göstərin” düyməsi var. Sonluqdan sonra mehriban sual söhbətə dəvət edir.",
+    "howTo": [
+      "Deyimi birlikdə ucadan oxuyun.",
+      "Onu tamamlayan sözə toxunun və ya “Sonluğu göstərin” düyməsinə toxunun.",
+      "Bütün deyimi yenidən oxuyun və sualdan istifadə edərək onun barəsində danışın.",
+      "Hazır olduqda “Növbəti deyim” düyməsinə toxunun."
+    ],
+    "tips": [
+      "Yavaş oxuyun və sonuncu sözdən əvvəl fasilə verin. Çox vaxt siz bitirməmiş insanlar onu deyir.",
+      "Kimsə fərqli sonluq desə, ondan zövq alın. Deyimlərin bəzi variantları ailəyə və ya bölgəyə görə fərqlənir.",
+      "Qrupda bir nəfər oxuyur, sonluqda hamı qoşulur."
+    ],
+    "faq": [
+      {
+        "q": "Taymer və ya xal varmı?",
+        "a": "Xeyr. Saat, xal, hərəkət sayğacı və uduzmaq yoxdur. İstənilən anda dayana bilərsiniz və yarımçıq dayanmaq da yaxşı bitirmə yoludur."
+      },
+      {
+        "q": "Fərqli söz seçsək nə olar?",
+        "a": "Oyun adi sonluğu göstərir və söhbətə keçir. Xal yoxdur və fərqli cavab olar."
+      },
+      {
+        "q": "Pulsuzdurmu və qeydiyyat lazımdırmı?",
+        "a": "Bəli, pulsuzdur; hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "İri çaplı söz axtarışı",
+    "seoTitle": "Demensiya üçün iri çaplı söz axtarışı, çap oluna bilən",
+    "h1": "İri çaplı söz axtarışı",
+    "description": "Yaşlılar üçün pulsuz iri çaplı söz axtarışı. Az söz, iri hərflər, yalnız soldan sağa və yuxarıdan aşağı. Demensiya ilə yaşayanlara uyğun, onlayn və ya çap üçün.",
+    "short": "İri hərflər, bir neçə söz, yalnız soldan sağa və yuxarıdan aşağı. Çap da edin.",
+    "players": "1 və ya 2 nəfər",
+    "intro": "İri hərfli kiçik cədvəl və yalnız bir ovuc söz, hamısı soldan sağa və ya yuxarıdan aşağı oxunur. Sözün ilk hərfinə, sonra sonuncu hərfinə toxunun. Kağızı üstün tutursunuz? Bir toxunuşla təzə tapmaca çap edin.",
+    "howTo": [
+      "Mövzu və cədvəl ölçüsü seçin.",
+      "Söz siyahısına baxın. Sözlər soldan sağa və ya yuxarıdan aşağı oxunur.",
+      "Sözün ilk hərfinə, sonra sonuncu hərfinə toxunun.",
+      "Tapılmış söz vurğulanır və siyahıdan xətt çəkilir.",
+      "Qələm və ya flomasterlə kağızda oynamaq üçün “Bu tapmacanı çap edin” düyməsinə toxunun."
+    ],
+    "tips": [
+      "Siyahıdakı sözü göstərin və ilk hərfini birlikdə axtarın.",
+      "Kağızda marker qələmdən daha asan tutulur.",
+      "Mövzu sözləri barədə danışın. Meyvə sözləri yığım, bişirmə və bazar xatirələrinə təbii yoldur."
+    ],
+    "faq": [
+      {
+        "q": "Taymer və ya xal varmı?",
+        "a": "Xeyr. Saat, xal, hərəkət sayğacı və uduzmaq yoxdur. İstənilən anda dayana bilərsiniz və yarımçıq dayanmaq da yaxşı bitirmə yoludur."
+      },
+      {
+        "q": "Söz axtarışını çap edə bilərəmmi?",
+        "a": "Bəli. Cari cədvəli iri şriftlə, altında söz siyahısı ilə çap etmək üçün “Bu tapmacanı çap edin” düyməsinə toxunun. Hər yeni tapmaca fərqlidir."
+      },
+      {
+        "q": "Pulsuzdurmu və qeydiyyat lazımdırmı?",
+        "a": "Bəli, pulsuzdur; hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Rəngləmə səhifələri",
+    "seoTitle": "Demensiyalı böyüklər üçün rəngləmə səhifələri (pulsuz)",
+    "h1": "Rəngləmə səhifələri",
+    "description": "İri sahələri olan sadə, böyüklərə yaraşan rəngləmə səhifələri: rəngə, sonra şəkilə toxunun. Çirk yoxdur, yanlış rəng yoxdur, hər səhifə pulsuz çap oluna bilər.",
+    "short": "Rəngə, sonra şəklin hissəsinə toxunun. Səhifələri çap da edin.",
+    "players": "1 və ya 2 nəfər",
+    "intro": "İri, sadə formalı səhifələr: güldanda gül, ev, çay fincanı, kəpənək və yelkənli qayıq. Rəngə, sonra doldurmaq üçün şəklin hissəsinə toxunun. Yanlış rəng yoxdur.",
+    "howTo": [
+      "Səhifə seçin.",
+      "Rəngə toxunun. Hər rəngin üzərində adı yazılıb.",
+      "O rənglə doldurmaq üçün şəklin hissəsinə toxunun.",
+      "İstənilən vaxt yenidən doldurmaqla fikrinizi dəyişin.",
+      "Qələm və ya flomasterlərlə rəngləmək üçün boş səhifə üçün “Bu səhifəni çap edin” düyməsinə toxunun."
+    ],
+    "tips": [
+      "Seçim çox gələrsə, bütün dəst yerinə seçmək üçün iki rəng təklif edin.",
+      "Bənövşəyi ağaclar və mavi günəşlər xoş gəlmişdir. Burada məqsəd dəqiqlik yox, rəngdən zövq almaqdır.",
+      "Çap olunmuş səhifələr tutması daha asan olan qalın flomasterlər və ya mum boyalarla yaxşı işləyir."
+    ],
+    "faq": [
+      {
+        "q": "Taymer və ya xal varmı?",
+        "a": "Xeyr. Saat, xal, hərəkət sayğacı və uduzmaq yoxdur. İstənilən anda dayana bilərsiniz və yarımçıq dayanmaq da yaxşı bitirmə yoludur."
+      },
+      {
+        "q": "Bu səhifələr çox uşaq üçündürmü?",
+        "a": "Cizgi filmləri yox, sakit, sadə əşyalar çəkdik, ona görə səhifələr böyüklərə uyğundur. İri formalar rənglənməni uşaq işi etmədən asan saxlayır."
+      },
+      {
+        "q": "Pulsuzdurmu və qeydiyyat lazımdırmı?",
+        "a": "Bəli, pulsuzdur; hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Söhbət kartları",
+    "seoTitle": "Demensiya üçün söhbət mövzuları: şəkil kartları",
+    "h1": "Söhbət kartları",
+    "description": "Demensiya ilə yaşayanlar üçün mehriban söhbət mövzuları olan şəkil kartları: sorğu-sual və düzgün cavab yoxdur. Ekranda istifadə edin və ya dəsti çap edin.",
+    "short": "Açıq, mehriban suallı şəkil kartları. Sorğu-sual yoxdur.",
+    "players": "2 nəfər və ya qrup",
+    "intro": "Hər kart tanış şəkli söhbətə açıq dəvətlə birləşdirir, məsələn, “Ən sevdiyiniz hava necədir?” Düzgün cavab yoxdur və xatırlanası heç nə yoxdur. Mövzu seçin və ya hamısını qarışdırın.",
+    "howTo": [
+      "Mövzu seçin və ya “Bütün kartlar” seçimini saxlayın.",
+      "Sualı ucadan oxuyun və şəkilə birlikdə baxın.",
+      "Qulaq asın, öz cavabınızı bölüşün və söhbətin axmasına icazə verin.",
+      "Hazır olduqda “Növbəti kart” düyməsinə toxunun və ya bir kartda istədiyiniz qədər qalın.",
+      "Kağız dəst kəsmək üçün “Bütün kartları çap edin” düyməsinə toxunun."
+    ],
+    "tips": [
+      "Suala özünüz də cavab verin. Bu, müsahibə deyil, söhbət kimi hiss olunur.",
+      "Faktları yox, hekayəni izləyin. Təfərrüatlar dəyişsə, eybi yoxdur.",
+      "Kart kədərli bir şeyə toxunarsa, hissi qəbul edin və mehribanlıqla başqa karta keçin."
+    ],
+    "faq": [
+      {
+        "q": "Niyə “Yadınızdadırmı…?” sualları yoxdur?",
+        "a": "Yaddaşı yoxlayan suallar imtahan kimi hiss oluna və utanc yarada bilər. “Mənə … barədə danışın” kimi açıq dəvətlər hər kəsin nə xatırlamasından asılı olmayaraq qoşulmasına imkan verir."
+      },
+      {
+        "q": "Kartları çap edə bilərəmmi?",
+        "a": "Bəli. “Bütün kartları çap edin” bütün dəsti iri şriftlə, hər səhifədə bir neçə kart olmaqla, kəsməyə hazır çap edir."
+      },
+      {
+        "q": "Pulsuzdurmu və qeydiyyat lazımdırmı?",
+        "a": "Bəli, pulsuzdur; hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Foto cütləri",
+    "seoTitle": "Ailə fotolarından uyğunlaşdırma oyunu yaradın",
+    "h1": "Foto cütləri: öz fotolarınızı uyğunlaşdırın",
+    "description": "Öz ailə fotolarınızı mülayim uyğunlaşdırma oyununa çevirin. Cihazınızda 2-dən 6-ya qədər foto seçin; onlar brauzerinizdə qalır və heç vaxt yüklənmir.",
+    "short": "Öz fotolarınızı seçin və uyğunlaşdırın. Heç nə yüklənmir.",
+    "players": "2 nəfər, yan-yana",
+    "intro": "Telefonunuzdan, planşetinizdən və ya kompüterinizdən iki ilə altı foto seçin və onlar iri, görünən şəkilli uyğunlaşdırma oyununa çevrilir. Fotolar yalnız bu səhifənin daxilində göstərilir. Onlar yüklənmir, saxlanılmır və ya paylaşılmır, səhifəni bağladıqda yox olur.",
+    "howTo": [
+      "“Fotoları seçin” düyməsinə toxunun və iki ilə altı foto seçin.",
+      "Hər foto iki dəfə görünür. Birinə, sonra cütünə toxunun.",
+      "Hər birini tapdıqca onun barəsində danışın.",
+      "Bitirdikdə səhifəni bağlayın və ya “Fotoları silin” düyməsinə toxunun. Heç nə saxlanılmır."
+    ],
+    "tips": [
+      "Xoşbəxt, tanış şeylərin aydın fotolarını seçin: ev heyvanı, bağ, sevimli yer, toy günü.",
+      "Yerlərin və əşyaların şəkilləri üzlərdən daha asan ola bilər və insanları adlandırmaq təzyiqindən qaçınmağa kömək edir.",
+      "Vəfat etmiş yaxınların fotoları qəfil kədər gətirə bilərsə və rahatlıq gətirdiyini bilmirsinizsə, onları kənarda saxlayın."
+    ],
+    "faq": [
+      {
+        "q": "Fotolarım haradasa yüklənirmi?",
+        "a": "Xeyr. Səhifə seçdiyiniz fotoları birbaşa brauzerinizdə oxuyur və ekranınızda göstərir. Onlar bizə və ya başqasına göndərilmir və səhifəni bağladıqda və ya yenilədikdə yox olur."
+      },
+      {
+        "q": "Taymer və ya xal varmı?",
+        "a": "Xeyr. Saat, xal, hərəkət sayğacı və uduzmaq yoxdur. İstənilən anda dayana bilərsiniz və yarımçıq dayanmaq da yaxşı bitirmə yoludur."
+      },
+      {
+        "q": "Oyunu növbəti dəfə üçün saxlaya bilərəmmi?",
+        "a": "Brauzerdə yox, bu, bilərəkdən belədir ki, heç bir şəxsi məlumat saxlanılmasın. iPhone və iPad üçün pulsuz Golden Moments tətbiqi seçilmiş foto surətlərini cihazınızda saxlaya bilər."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Şəkil bingosu",
+    "seoTitle": "Demensiyalı yaşlılar üçün şəkil bingosu: çap oluna bilən",
+    "h1": "Qruplar üçün şəkil bingosu",
+    "description": "Qayğı mərkəzləri və yaşlı qrupları üçün pulsuz, çap olunan şəkil bingosu, ekranda iri aparıcı ilə. Sözlü iri şəkillər, 9 və ya 16 xana, oxumaq lazım deyil.",
+    "short": "Qruplar üçün çap olunan şəkil bingo kartları və iri ekran aparıcısı.",
+    "players": "2-30 nəfərlik qrup",
+    "intro": "Rəqəmlər əvəzinə şəkillərlə klassik bingo, beləliklə, heç kim xırda yazını oxumalı olmur. Unikal kartlar dəstini çap edin, sonra hər şəkli televizorda, noutbukda və ya planşetdə iri göstərmək üçün ekrandakı aparıcıdan istifadə edin.",
+    "howTo": [
+      "Hər kart üçün 9 və ya 16 xana və neçə oyunçu olacağını seçin.",
+      "“Kartları çap edin” düyməsinə toxunun. Hər kart fərqlidir.",
+      "Aparıcını iri ekranda açın. Hər şəkli adı ilə göstərmək üçün “Növbəti şəkil” düyməsinə toxunun.",
+      "Oyunçular kartlarındakı uyğun şəkli sikkə, düymə və ya markerlə örtürlər.",
+      "Sıra və ya bütün kartı dolduran hər kəs alqış alır. Bu versiyada uduzanlar yoxdur: hamıda sıra olana qədər oynayın."
+    ],
+    "tips": [
+      "Dama daşları və ya şüşə qapaqları kimi iri nişanlardan istifadə edin. Kiçik düymələri götürmək çətin ola bilər.",
+      "Şəklin adını deyin və onun barəsində nəsə söyləyin: “Yelkənli qayıq. Kim qayıqla çıxıb?”",
+      "Pis görənləri ekrana ən yaxın oturdun, köməkçiləri ehtiyacı olan oyunçularla yanaşı qoyun.",
+      "Doqquz xana əksər qruplar üçün kifayətdir. Seansı 20-30 dəqiqə ətrafında saxlayın."
+    ],
+    "faq": [
+      {
+        "q": "Qayğı evində şəkil bingosunu necə keçirmək olar?",
+        "a": "Hər oyunçu üçün bir kart çap edin, aparıcını əlinizdəki ən böyük ekranda açın və şəkilləri yavaş-yavaş, hər birinin adını deyərək çağırın. Hamıda sıra olana qədər oynayın ki, heç kim kənarda qalmasın."
+      },
+      {
+        "q": "Çap etmək pulsuzdurmu?",
+        "a": "Bəli. Şəxsi və ya qrup istifadəsi üçün lazım qədər kartı istədiyiniz tez-tez çap edin."
+      },
+      {
+        "q": "İnsanlar oxumadan oynaya bilərmi?",
+        "a": "Bəli. Hər xana iri şəkildir, söz sevənlər üçün altında adı var."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Sakit nəfəs",
+    "seoTitle": "Yaşlılar və qayğı göstərənlər üçün sakit nəfəs fasiləsi",
+    "h1": "Sakit nəfəs fasiləsi",
+    "description": "Birlikdə keçirmək üçün yavaş, sakit nəfəs fasiləsi: mülayim dairə altı nəfəs boyu böyüyür və kiçilir. Siz başladırsınız və istənilən vaxt dayana bilərsiniz.",
+    "short": "Birlikdə nəfəs almaq üçün yavaş dairə. İstədiyiniz vaxt başlayın və dayanın.",
+    "players": "1 və ya 2 nəfər",
+    "intro": "Bəzən ən yaxşı fəaliyyət sakit fasilədir. “Başlayın” düyməsinə toxunun, sonra dairə böyüdükcə nəfəs alın, kiçildikcə nəfəs verin. Daha yavaş və ya daha sürətli tempi seçin. Bu, müalicə deyil, sadəcə birlikdə keçirmək üçün sakit andır.",
+    "howTo": [
+      "Yan-yana rahat oturun.",
+      "Temp seçin: yavaş və ya mülayim.",
+      "“Başlayın” düyməsinə toxunun. Dairə böyüyərkən nəfəs alın, kiçilərkən nəfəs verin.",
+      "O, altı nəfəsdən sonra özü dayanır və ya istədiyiniz vaxt “Dayandırın” düyməsinə toxunun."
+    ],
+    "tips": [
+      "Xoş gəlirsə, əl-ələ tutun və ya əlinizi şəxsin qoluna qoyun.",
+      "Heç vaxt təkid etməyin. Daha çox baxmaq istəyirsə, eybi yoxdur.",
+      "Kiminsə nəfəs problemləri varsa, normal nəfəs alsın və sadəcə dairəyə baxsın. Hər hansı nəfəs narahatlığı barədə həkimdən soruşun."
+    ],
+    "faq": [
+      {
+        "q": "Bu, tibbi nəfəs məşqidirmi?",
+        "a": "Xeyr. Bu, sakitlik və yoldaşlıq üçün sadə, könüllü fasilədir. Həyəcan və ya hər hansı vəziyyət üçün müalicə deyil. Sağlamlıq narahatlıqları barədə həkimlə danışın."
+      },
+      {
+        "q": "Mən başlatmadan dairə hərəkət edirmi?",
+        "a": "Xeyr. “Başlayın” düyməsinə toxunana qədər heç nə hərəkət etmir və o, altı nəfəsdən sonra və ya “Dayandırın” düyməsinə toxunduqda dayanır. Cihazınız hərəkəti azaltmaq üçün ayarlanıbsa, sözlər dairə böyüməsi olmadan dəyişir."
+      },
+      {
+        "q": "Pulsuzdurmu və qeydiyyat lazımdırmı?",
+        "a": "Bəli, pulsuzdur; hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "እንስሳት",
+      "description": "ከዓለም ዙሪያ የመጡ ወዳጃዊ እንስሳት"
+    },
+    "nature": {
+      "name": "ተፈጥሮ",
+      "description": "ውብ መልክዓ ምድሮችና የተፈጥሮ ትዕይንቶች"
+    },
+    "food": {
+      "name": "ምግብ",
+      "description": "ጣፋጭ ምግቦችና ጣፋጮች"
+    },
+    "vintage": {
+      "name": "መኪናዎች",
+      "description": "ለማየትና ለማውራት የሚሆኑ መኪናዎችና የጭነት መኪናዎች"
+    },
+    "flowers": {
+      "name": "አበቦች",
+      "description": "ውብ አበቦችና የአትክልት ስፍራ ትዕይንቶች"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "የእርሻ እንስሳት",
+      "description": "እንደ ገጠር ጉብኝት ያሉ ወዳጃዊ የእርሻ እንስሳት።",
+      "theme": "የገጠር ሕይወት",
+      "images": {
+        "cow_1": "ወዳጃዊ ላም",
+        "pig_1": "አሳማ",
+        "chicken_1": "አውራ ዶሮ",
+        "buffalo_1": "Water Buffalo",
+        "horse_1": "ውብ ፈረስ",
+        "duck_1": "የዳክዬ ቤተሰብ",
+        "goat_1": "ፍየል",
+        "rabbit_1": "ጥንቸል"
+      }
+    },
+    "nature_mountains": {
+      "title": "የተራራ እይታዎች",
+      "description": "አስደናቂ የተራራ መልክዓ ምድሮችና ውብ እይታዎች",
+      "theme": "የተፈጥሮ ውበት",
+      "images": {
+        "mountain_1": "በበረዶ የተሸፈኑ ጫፎች",
+        "mountain_2": "የፉጂ ተራራ",
+        "mountain_3": "የተራራ ሸለቆ",
+        "mountain_4": "ድንጋያማ ጫፍ",
+        "mountain_5": "ደን የለበሱ ኮረብቶች",
+        "mountain_6": "ጭጋጋማ ተራሮች"
+      }
+    },
+    "vintage_cars": {
+      "title": "መኪናዎችና የጭነት መኪናዎች",
+      "description": "ለማየትና ለማውራት የሚሆኑ የሚያብረቀርቁ መኪናዎችና የጭነት መኪናዎች",
+      "theme": "በመንገድ ላይ",
+      "images": {
+        "vintage_car_1": "ብርቱካናማ Audi በጀምበር ጠለቃ",
+        "vintage_car_2": "በበረሃ ውስጥ ሰማያዊ የስፖርት መኪና",
+        "vintage_car_3": "ብር ቀለም ያለው Bugatti",
+        "vintage_car_4": "በመንገድ ላይ ጥቁር Porsche",
+        "vintage_car_5": "በዘንባባ በተሰለፈ ጎዳና ላይ ብርቱካናማ BMW",
+        "vintage_car_6": "በጋራዥ አጠገብ ሰማያዊ ኩፔ",
+        "vintage_car_7": "አረንጓዴ ፒክአፕ መኪና",
+        "vintage_car_8": "በቀይ ዓለቶች መካከል ነጭ SUV",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "ነጭ ጭረት ያለው ሰማያዊ መኪና"
+      }
+    },
+    "animals_safari": {
+      "title": "የሳፋሪ እንስሳት",
+      "description": "ከአፍሪካ ሳፋሪ የመጡ ግርማ ሞገስ ያላቸው እንስሳት",
+      "theme": "የዱር እንስሳት",
+      "images": {
+        "lion_1": "ግርማ ሞገስ ያለው አንበሳ",
+        "elephant_2": "የአፍሪካ ዝሆን",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "ባለ ሸርጥ የሜዳ አህያ",
+        "rhino_5": "ኃይለኛ አውራሪስ",
+        "cheetah_6": "ፈጣን አቦ ሸማኔ",
+        "fox_7": "ቡናማ ቀበሮ",
+        "bear_8": "የዋልታ ድብ",
+        "turtle_9": "ቡናማ ኤሊ",
+        "squirrel_10": "ቡናማ ሽኮኮ",
+        "macaw_11": "Yellow And Blue Macaw",
+        "tiger_12": "Tiger",
+        "raccoon_13": "Raccoon",
+        "wolf_14": "ግራጫ ተኩላ",
+        "crocodile_15": "አዞ",
+        "peacock_16": "ውብ ጣዎስ"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "ጣፋጭ ማጣጣሚያዎች",
+      "description": "ከምግብዎ ጋር የሚሆኑ አንዳንድ ጣፋጭ ማጣጣሚያዎች።",
+      "theme": "ጣፋጭ ማጣጣሚያዎች",
+      "images": {
+        "pastries_1": "አራት ጣፋጭ መጋገሪያዎች",
+        "oreo_cookie_sandwiches_2": "Oreo Cookie Sandwiches",
+        "crepe_3": "Crepe",
+        "pancake_4": "ፓንኬክ",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "ካራሜል ኬክ"
+      }
+    },
+    "flowers_tropical": {
+      "title": "ሞቃታማ አካባቢ አበቦች",
+      "description": "በዚህ የውጭ አገር አበቦች ስብስብ የሞቃታማ አካባቢዎችን ደማቅ ውበት ያግኙ።",
+      "theme": "ሞቃታማ አበቦች",
+      "images": {
+        "hibiscus_1": "ቀይ Hibiscus",
+        "frangipani_2": "Red White Frangipani",
+        "sunflower_3": "የሱፍ አበባ",
+        "hydrangea_4": "White Hydrangea",
+        "rose_5": "ጽጌረዳ",
+        "chrysanthemum_6": "Chrysanthemum",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "የመንገድ ዳር ምግብ",
+      "description": "ከዓለም ዙሪያ በመጡ ጣፋጭ ምግቦች የመንገድ ዳር ምግብን ደማቅ ዓለም ይመልከቱ።",
+      "theme": "የመንገድ ዳር ምግብ",
+      "images": {
+        "taco_1": "የሜክሲኮ Taco",
+        "ramen_2": "የጃፓን Ramen",
+        "dumplings_3": "የቻይና Dumplings",
+        "samosa_4": "የሕንድ ሳምቡሳ",
+        "pizza_5": "የጣሊያን ፒዛ ቁራጭ",
+        "crepe_6": "የፈረንሳይ Crepe",
+        "satay_7": "የታይ Satay",
+        "burger_8": "የአሜሪካ በርገር",
+        "bao_9": "በእንፋሎት የተሠራ Bao",
+        "takoyaki_10": "የጃፓን Takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "የተፈጥሮ መልክዓ ምድር",
+      "description": "ቀስ ብለው ለማየትና አብረው ለማውራት የሚሆኑ የተረጋጉ ውብ የተፈጥሮ ትዕይንቶች።",
+      "theme": "የተፈጥሮ መልክዓ ምድሮች",
+      "images": {
+        "mountain_1": "የተራሮች ሰንሰለት",
+        "forest_2": "ጭጋጋማ ደን",
+        "lake_3": "የተራራ ሐይቅ",
+        "desert_4": "የበረሃ አሸዋ ክምሮች",
+        "waterfall_5": "ፏፏቴ",
+        "beach_6": "አሸዋማ የባሕር ዳርቻ",
+        "river_7": "የሚፈስ ወንዝ",
+        "canyon_8": "ግራንድ ካንየን",
+        "sunset_9": "የጀምበር መጥለቂያ ሰማይ",
+        "snow_mountain_10": "በረዶ የለበሰ ተራራ",
+        "flowers_11": "የሜዳ አበቦች",
+        "rainforest_12": "የዝናብ ደን",
+        "iceberg_13": "የበረዶ ግግር",
+        "volcano_14": "እሳተ ገሞራ",
+        "cliff_15": "የባሕር ገደል",
+        "aurora_16": "Aurora Borealis",
+        "savannah_17": "ሳቫና",
+        "coral_reef_18": "ኮራል ሪፍ"
+      }
+    }
+  }
+}

@@ -82,10 +82,10 @@ LANGUAGES = {l.code: l for l in (
     Language('fil', 'fil_PH', 'Filipino', 'Filipino', play=('fil',), sayings=False),
     Language('ta', 'ta_IN', 'தமிழ்', 'Tamil', 'Taml', apple=('ta-IN',), play=('ta-IN',)),
     Language('fa', 'fa_IR', 'فارسی', 'Persian', 'Arab', True, play=('fa',)),
-    Language('am', 'am_ET', 'አማርኛ', 'Amharic', 'Ethi', play=('am',)),
+    Language('am', 'am_ET', 'አማርኛ', 'Amharic', 'Ethi', play=('am',), sayings=False, index=False),
     Language('jv', 'jv_ID', 'Basa Jawa', 'Javanese'),
     Language('gu', 'gu_IN', 'ગુજરાતી', 'Gujarati', 'Gujr', apple=('gu-IN',), play=('gu',)),
-    Language('kn', 'kn_IN', 'ಕನ್ನಡ', 'Kannada', 'Knda', apple=('kn-IN',), play=('kn-IN',)),
+    Language('kn', 'kn_IN', 'ಕನ್ನಡ', 'Kannada', 'Knda', apple=('kn-IN',), play=('kn-IN',), sayings=False),
     Language('yo', 'yo_NG', 'Yorùbá', 'Yoruba'),
     Language('ps', 'ps_AF', 'پښتو', 'Pashto', 'Arab', True),
     Language('ms', 'ms_MY', 'Bahasa Melayu', 'Malay', apple=('ms',), play=('ms',)),
@@ -98,11 +98,11 @@ LANGUAGES = {l.code: l for l in (
     Language('ig', 'ig_NG', 'Igbo', 'Igbo'),
     Language('su', 'su_ID', 'Basa Sunda', 'Sundanese'),
     Language('zu', 'zu_ZA', 'isiZulu', 'Zulu'),
-    Language('az', 'az_AZ', 'Azərbaycan dili', 'Azerbaijani', play=('az-AZ',)),
+    Language('az', 'az_AZ', 'Azərbaycan dili', 'Azerbaijani', play=('az-AZ',), sayings=False),
     Language('so', 'so_SO', 'Soomaali', 'Somali'),
     Language('as', 'as_IN', 'অসমীয়া', 'Assamese', 'Beng'),
     Language('ro', 'ro_RO', 'Română', 'Romanian', apple=('ro',), play=('ro',)),
-    Language('ne', 'ne_NP', 'नेपाली', 'Nepali', 'Deva', play=('ne-NP',)),
+    Language('ne', 'ne_NP', 'नेपाली', 'Nepali', 'Deva', play=('ne-NP',), sayings=False),
 )}
 
 

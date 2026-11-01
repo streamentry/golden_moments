@@ -58,6 +58,11 @@ LANGUAGES: dict[str, tuple[tuple[str, ...], tuple[str, ...]]] = {
     'ro': (('ro',), ('ro',)),
     'ms': (('ms',), ('ms',)),
     'sw': ((), ('sw',)),
+    'kn': (('kn-IN',), ('kn-IN',)),
+    'ml': (('ml-IN',), ('ml-IN',)),
+    'ne': ((), ('ne-NP',)),
+    'az': ((), ('az-AZ',)),
+    'am': ((), ('am',)),
 }
 
 APP_STORE_LIMITS = {'name': 30, 'subtitle': 30, 'promotional_text': 170,

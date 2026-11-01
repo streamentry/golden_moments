@@ -41,6 +41,11 @@
 		<string>ro</string>
 		<string>ms</string>
 		<string>sw</string>
+		<string>kn</string>
+		<string>ml</string>
+		<string>ne</string>
+		<string>az</string>
+		<string>am</string>
 	</array>
 	<key>CFBundleDisplayName</key>
 	<string>Golden Moments</string>

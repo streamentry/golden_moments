@@ -35,4 +35,9 @@
     <locale android:name="ro" />
     <locale android:name="ms" />
     <locale android:name="sw" />
+    <locale android:name="kn" />
+    <locale android:name="ml" />
+    <locale android:name="ne" />
+    <locale android:name="az" />
+    <locale android:name="am" />
 </locale-config>

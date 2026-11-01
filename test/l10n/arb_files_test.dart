@@ -23,6 +23,11 @@ const _appLocales = {
   'ro',
   'ms',
   'sw',
+  'kn',
+  'ml',
+  'ne',
+  'az',
+  'am',
 };
 const _baseFallbacks = {'pt', 'zh'};
 

@@ -1,0 +1,534 @@
+{
+  "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
+  "common": {
+    "skipLink": "Əsas məzmuna keçin",
+    "brandName": "Golden Moments",
+    "brandTag": "Demensiya fəaliyyətləri",
+    "homeLabel": "Golden Moments ana səhifəsi",
+    "mainNav": "Əsas",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: çay fincanının, günəbaxanın və itin iri, mehriban şəkilləri",
+    "languages": "Dil",
+    "englishOnly": "(ingiliscə)",
+    "machineTranslated": "Bu səhifə avtomatik tərcümə olunub və hələ Azərbaycan dilini ana dili kimi bilən şəxs tərəfindən yoxlanılmayıb.",
+    "readOriginal": "Orijinalı ingiliscə oxuyun",
+    "nav": {
+      "games": "Oyunlar",
+      "activities": "Fəaliyyətlər",
+      "caregiving": "Qayğı",
+      "brainHealth": "Beyin sağlamlığı"
+    },
+    "faqTitle": "Suallar və cavablar",
+    "breadcrumb": "Naviqasiya yolu",
+    "home": "Ana səhifə",
+    "lastUpdated": "Son yenilənmə",
+    "topics": "Mövzular"
+  },
+  "footer": {
+    "play": "Oynayın",
+    "picturePairs": "Şəkil cütləri",
+    "conversationCards": "Söhbət kartları",
+    "pictureBingo": "Şəkil bingosu",
+    "allGames": "Bütün oyunlar",
+    "activityIdeas": "Fəaliyyət ideyaları",
+    "ideas101": "101 fəaliyyət ideyası",
+    "lateStage": "Gec mərhələ fəaliyyətləri",
+    "printable": "Çap olunan fəaliyyətlər",
+    "allActivities": "Bütün fəaliyyətlər",
+    "forCaregivers": "Qayğı göstərənlər üçün",
+    "playTogether": "Birlikdə necə oynamaq olar",
+    "selfCare": "Özünüzə qayğı",
+    "brainHealth": "Beyin sağlamlığı tədqiqatları",
+    "faq": "Suallar və cavablar",
+    "about": "Haqqında",
+    "approach": "Yanaşmamız",
+    "howWeWrite": "Necə yazırıq",
+    "organizations": "Təşkilatlar üçün",
+    "app": "Golden Moments tətbiqi",
+    "appHelp": "Tətbiq üzrə kömək",
+    "support": "Dəstək",
+    "legal": "Hüquqi məlumat",
+    "sitePrivacy": "Saytın məxfilik siyasəti",
+    "appPrivacy": "Tətbiqin məxfilik siyasəti",
+    "privacyChoices": "Məxfilik seçimləri",
+    "terms": "Şərtlər və tətbiq lisenziyası",
+    "safety": "Təhlükəsizlik və təyinat",
+    "accessibility": "Əlçatanlıq",
+    "healthNotice": "Sağlamlıq məlumatı bildirişi",
+    "allLegal": "Bütün hüquqi məlumat",
+    "note": "Golden Moments zövq almaq üçün sadə birgə fəaliyyətlər təklif edir. Bu, tibbi məsləhət, test və ya müalicə deyil; heç kimin diaqnozunu qoymur, heç kimi ölçmür və qiymətləndirmir. Sağlamlıqla bağlı suallar üçün həkimlə danışın. Təcili vəziyyətdə yerli təcili yardım nömrəsinə zəng edin.",
+    "publisher": "Cloudjet Solutions Pte. Ltd. tərəfindən nəşr olunub."
+  },
+  "home": {
+    "title": "Demensiya və Alzheimer oyunları | Golden Moments",
+    "description": "Demensiya və ya Alzheimer ilə yaşayanlar və qayğı göstərənlər üçün pulsuz, mülayim şəkil oyunları və fəaliyyət ideyaları. Qeydiyyat, taymer və xal yoxdur.",
+    "eyebrow": "Pulsuz · Reklamsız · Qeydiyyatsız · Taymer və xal yoxdur",
+    "h1": "Demensiya ilə yaşayan şəxslər üçün mülayim oyunlar və fəaliyyətlər",
+    "lede": "Sadə şəkil oyunları, tanış fotolar və birlikdə zövq alacağınız fəaliyyətlər: öz tempinizlə.",
+    "playGame": "Oyun oynayın",
+    "findIdeas": "Fəaliyyət ideyaları tapın",
+    "facts": [
+      "Telefonda, planşetdə və kompüterdə işləyir",
+      "Ekranda qalan iri şəkillər",
+      "İstənilən vaxt dayana bilərsiniz; uğursuz olmaq mümkün deyil"
+    ],
+    "heroApp": "Həmçinin iPhone, iPad və Android üçün pulsuz tətbiq, öz ailə fotolarınızla",
+    "albumNote": "“Fincanın iki şəkli, yan-yana.”",
+    "gamesEyebrow": "Brauzerinizdə oynayın",
+    "gamesTitle": "İndi oynaya biləcəyiniz oyunlar",
+    "gamesLede": "Hər biri sakit, böyüklərə yaraşan və tez başlanır. Birini seçin, yan-yana oturun və növbə ilə toxunun.",
+    "seeAllGames": "Bütün {count} oyuna baxın",
+    "howTitle": "Bu necə işləyir",
+    "steps": [
+      {
+        "title": "Tanış bir şey seçin",
+        "text": "Çay fincanı, bağ, ev heyvanları və yelkənli qayıq şəkilləri. Əvvəlcədən oxumaq və ya qayda öyrənmək lazım deyil."
+      },
+      {
+        "title": "Yan-yana oturun",
+        "text": "Qoy özü toxunsun. Şəkillər barədə danışın. Uyğun gəlməyən şəkil sadəcə növbəti toxunuşu gözləyir."
+      },
+      {
+        "title": "Xoş olarkən dayanın",
+        "text": "Bir oyun tam bir fəaliyyətdir. “Hələlik bu qədər” həmişə ekrandadır."
+      }
+    ],
+    "stageEyebrow": "Ekrandan kənarda",
+    "stageTitle": "Hər mərhələ üçün fəaliyyət ideyaları",
+    "stageLede": "Musiqi, gündəlik işlər, xatirələr və sakit hissiyyat anları, indi nəyin rahat olduğuna uyğunlaşdırılmış.",
+    "ideas101": "101 fəaliyyət ideyası",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Erkən mərhələ",
+        "text": "Sevdiyi işləri kiçik uyğunlaşdırmalarla davam etdirin: hobbilər, gəzintilər, söz oyunları və birlikdə planlaşdırma.",
+        "label": "Erkən mərhələ ideyaları"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Orta mərhələ",
+        "text": "Mərhələlərə bölünmüş sadə, tanış işlər: qatlamaq, çeşidləmək, musiqi, şəkil oyunları və qısa gəzintilər.",
+        "label": "Orta mərhələ ideyaları"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Gec mərhələ",
+        "text": "Toxunuş, səs və görüntü ilə rahatlıq və yaxınlıq: əl baxımı, sevimli mahnılar, fotolar və birlikdə olmaq.",
+        "label": "Gec mərhələ ideyaları"
+      }
+    ],
+    "specificHtml": "Konkret bir şey axtarırsınız? <a href=\"/activities/alzheimers/\">Alzheimer üçün fəaliyyətlər və oyunlar</a>, <a href=\"/activities/memory-games/\">mülayim yaddaş oyunları</a>, <a href=\"/activities/trivia/\">asan viktorina</a> və ya <a href=\"/activities/puzzles/\">tapmacalar</a> səhifələrinə baxın.",
+    "approachEyebrow": "Yanaşmamız",
+    "approachTitle": "Birgə fəaliyyət, yaddaş testi deyil",
+    "approachLede": "Bir çox “beyin oyunu” sürət, xal və ardıcıl qələbələr üzərində qurulub. Demensiya ilə yaşayan şəxs üçün bu, imtahan kimi hiss oluna bilər. Biz bunun əksini yaratdıq.",
+    "approachLink": "Niyə belə hazırlayırıq",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Uğursuz olmaq yoxdur",
+        "text": "Saat, xal, can və uduzmaq yoxdur. Fərqli şəkil fasilədir, səhv deyil."
+      },
+      {
+        "icon": "eye",
+        "title": "Şəkillər görünən qalır",
+        "text": "Xatırlamaqdan çox tanımaq. Uyğunlaşdırma açıq şəkillərlə başlayır, ona görə xatırlamaq lazım deyil."
+      },
+      {
+        "icon": "people",
+        "title": "Böyüklərə yaraşan və ləyaqətli",
+        "text": "İsti, sadə sözlər və real həyat şəkilləri. Heç vaxt cizgi filmi və uşaq dili yox."
+      },
+      {
+        "icon": "shield",
+        "title": "Dizaynla məxfi",
+        "text": "Hesab və reklam yoxdur. Fotolarınız heç vaxt cihazınızı tərk etmir."
+      }
+    ],
+    "guidesEyebrow": "Qayğı göstərənlər üçün",
+    "guidesTitle": "Gündəlik qayğı üçün praktik bələdçilər",
+    "allCaregiving": "Bütün qayğı bələdçiləri",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Oyunları birlikdə necə oynamaq olar",
+        "text": "Hazırlıq, tempo və oyun xoşagəlməz olduqda nə etmək."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Fəaliyyətə “yox” dedikdə",
+        "text": "İmtinanın ümumi səbəbləri və sonra yenidən cəhd etməyin mülayim yolları."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Planşetin qurulması",
+        "text": "Daha iri mətn, daha az yayındırma və bir sadə əsas ekran."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Pulsuz çap olunan fəaliyyətlər",
+        "text": "İri çaplı söz axtarışları, rəngləmə səhifələri, bingo və söhbət kartları."
+      }
+    ],
+    "researchTitle": "Beyin sağlamlığı: tədqiqatlar həqiqətən nə deyir",
+    "researchText": "Demensiyanın qarşısını almaq olarmı? Beyin oyunları kömək edirmi? Oruc, qidalanma, yuxu və eşitmə barədə nə demək olar? Sadə, mənbələrlə cavablar, o cümlədən sübutların zəif olduğu yerlər.",
+    "researchLink": "Tədqiqat bələdçilərini oxuyun",
+    "appEyebrow": "Həm də tətbiq",
+    "appTitle": "iPhone, iPad və Android-də Golden Moments",
+    "appText": "Pulsuz tətbiq oflayn işləyir və seçdiyiniz, cihazınızda surət kimi saxlanılan ailə fotolarından istifadə edə bilir. Eyni sakit dizayn: dörd iri kart, taymer və xal yoxdur.",
+    "aboutApp": "Tətbiq haqqında",
+    "faq": [
+      {
+        "q": "Demensiya ilə yaşayan şəxslər üçün yaxşı oyunlar hansılardır?",
+        "a": "Yaxşı oyunlar sadə, tanış və təzyiqsiz olanlardır: uyğunlaşdırmaq üçün iri şəkillər, çeşidləmə, asan tapmacalar, tanış deyimləri tamamlamaq, rəngləmə, şəkil bingosu və söhbət kartları. Ən yaxşı seçim şəxsin bu gün zövq aldığı seçimdir. Taymerdən, xaldan və test kimi hiss olunan hər şeydən çəkinin."
+      },
+      {
+        "q": "Bu demensiya oyunları pulsuzdurmu?",
+        "a": "Bəli. Golden Moments-dəki hər oyun və çap materialı pulsuzdur; hesab, qeydiyyat və yükləmə tələb olunmur. Oyunlar telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
+      },
+      {
+        "q": "Beyin oyunları demensiyanın qarşısını alırmı?",
+        "a": "Heç bir oyunun demensiyanın qarşısını aldığı sübut olunmayıb və Golden Moments nəyisə müalicə etdiyini və ya qarşısını aldığını iddia etmir. Oyunlarımız zövq almaq və birlikdə vaxt keçirmək üçündür. Beyin sağlamlığı bölməmiz tədqiqatların nəyi göstərdiyini və nəyi göstərmədiyini izah edir."
+      },
+      {
+        "q": "Bu oyunlar Alzheimer ilə yaşayan şəxs üçün uyğundurmu?",
+        "a": "Bəli. Alzheimer xəstəliyi demensiyanın ən çox yayılmış səbəbidir və oyunlar bunu nəzərə alaraq hazırlanıb: ekranda qalan iri şəkillər, az seçim və xatırlamaq və ya səhv etmək üçün heç nə yoxdur. Uyğunlaşdırma, çeşidləmə və tanış deyimləri tamamlamaq yeni öyrənməyə yox, uzun illərdir bilinən məlumata əsaslanır."
+      },
+      {
+        "q": "Demensiyanın gec mərhələsində olan şəxs bu fəaliyyətlərdən istifadə edə bilərmi?",
+        "a": "Çox vaxt bəli, yanında kimsə olduqda. “Eynisini tapın” oyununa iki şəkillə, dörd kartlı “Şəkil cütləri”nə, rəngləmə səhifəsinə və ya sakit nəfəs fasiləsinə başlayın. Qısa tutun, onun təşəbbüsünü izləyin və kifayət qədər olduqda dayandırın."
+      },
+      {
+        "q": "Məlumatlarım məxfidirmi?",
+        "a": "Saytda hesab və reklam yoxdur. Hansı səhifələrə baxıldığını anlamaq üçün Google Analytics-dən istifadə edirik. “Foto cütləri” üçün seçdiyiniz fotolar yalnız brauzerinizdə göstərilir və heç vaxt yüklənmir."
+      },
+      {
+        "q": "Golden Moments-i kim hazırlayır?",
+        "a": "Golden Moments ailələr və qayğı göstərənlər üçün veb-də və pulsuz tətbiq kimi sakit, böyüklərə yaraşan şəkil fəaliyyətləri hazırlayan kiçik komandadır. Biz klinisist deyilik və buradakı heç nə tibbi məsləhət deyil."
+      }
+    ]
+  },
+  "stage": {
+    "early": "erkən",
+    "middle": "orta",
+    "late": "gec",
+    "hintOne": "Çox vaxt {list} mərhələyə uyğundur",
+    "hintMany": "Çox vaxt {list} mərhələlərə uyğundur",
+    "labelEarly": "Erkən mərhələ",
+    "labelMiddle": "Orta mərhələ",
+    "labelLate": "Gec mərhələ"
+  },
+  "cards": {
+    "aboutGame": "Bu oyun haqqında",
+    "printable": "Çap oluna bilər",
+    "play": "{name} oyununu oynayın →",
+    "readGuide": "Bələdçini oxuyun"
+  },
+  "playCta": {
+    "title": "Mülayim oyuna hazırsınız?",
+    "text": "İri şəkillər, taymer və xal yoxdur, qeydiyyat tələb olunmur. Brauzerinizdə birlikdə oynayın.",
+    "play": "Oyun oynayın",
+    "all": "Bütün oyunlara baxın",
+    "aria": "Oyun oynayın"
+  },
+  "appCta": {
+    "title": "Bu oyunları özünüzlə aparın",
+    "text": "iPhone, iPad və Android üçün pulsuz Golden Moments tətbiqi: iri şəkil kartları, öz ailə fotolarınızla oyunlar və Wi‑Fi olmadan işləyən şəkil paketləri. Hesab, reklam, taymer və xal yoxdur.",
+    "appStore": "App Store-dan yükləyin",
+    "googlePlay": "Google Play-dən yükləyin",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Tətbiq haqqında",
+    "aria": "Tətbiqi əldə edin"
+  },
+  "sections": {
+    "activities": {
+      "label": "Fəaliyyətlər",
+      "title": "Demensiya ilə yaşayan şəxslər üçün fəaliyyətlər",
+      "seo": "Demensiya üçün fəaliyyətlər: mərhələyə görə ideyalar",
+      "description": "Demensiya ilə yaşayanlar üçün hər mərhələyə uyğun fəaliyyət ideyaları: musiqi, xatirələr, gündəlik işlər, əl işləri, açıq hava və pulsuz çap materialları.",
+      "lede": "Mənalı fəaliyyət rahatlıq, məqsəd və ya qarşılıqlı əlaqə anı gətirən hər şeydir. Şəxsin həmişə sevdiyi şeydən başlayın və onu bu günə uyğunlaşdırın."
+    },
+    "caregiving": {
+      "label": "Qayğı",
+      "title": "Qayğı bələdçiləri",
+      "seo": "Demensiyaya qayğı bələdçiləri: praktik gündəlik kömək",
+      "description": "Demensiyaya qayğı göstərənlər üçün praktik, mehriban bələdçilər: birlikdə oyun, ünsiyyət, imtina, axşam narahatlığı, planşetlər, tətbiq seçimi və özünə qayğı.",
+      "lede": "Demensiya ilə yaşayan şəxsə qayğı göstərməyin gündəlik anları üçün, o cümlədən özünüzə qayğı üçün sadə, praktik kömək."
+    },
+    "brain-health": {
+      "label": "Beyin sağlamlığı",
+      "title": "Beyin sağlamlığı: tədqiqatlar nə deyir",
+      "seo": "Beyin sağlamlığı və demensiya riski: tədqiqatlar nə deyir",
+      "description": "Demensiyanın qarşısını almaq olarmı? Risk amilləri, beyin oyunları, oruc, qidalanma, idman, yuxu, eşitmə və erkən əlamətlər barədə dürüst, mənbəli bələdçilər.",
+      "lede": "Böyük tədqiqatların demensiya riskinin azaldılması barədə həqiqətən nəyi göstərdiyi, sadə dillə, o cümlədən sübutların zəif və ya qarışıq olduğu yerlər. Ümumi məlumat, tibbi məsləhət deyil."
+    }
+  },
+  "guide": {
+    "updated": "Yenilənib",
+    "minuteRead": "{n} dəqiqəlik oxu",
+    "byTeam": "Golden Moments komandası tərəfindən",
+    "howWeWrite": "Necə yazırıq",
+    "shortAnswer": "Qısa cavab",
+    "onThisPage": "Bu səhifədə ({n} bölmə)",
+    "commonQuestions": "Tez-tez verilən suallar",
+    "sources": "Mənbələr",
+    "sourcesNote": "Bu səhifənin əsaslandığı təşkilat və tədqiqatlara keçid veririk. Hər biri səhifə yenilənərkən yoxlanılıb.",
+    "tryTogether": "Birlikdə sınayın",
+    "relatedGuides": "Əlaqəli bələdçilər",
+    "related": "Əlaqəli",
+    "startHere": "Buradan başlayın"
+  },
+  "healthNotice": {
+    "aria": "Sağlamlıq məlumatı bildirişi",
+    "title": "Ümumi məlumat, tibbi məsləhət deyil",
+    "textHtml": "Bu səhifə ailələr üçün dərc olunmuş tədqiqatları ümumiləşdirir. O, bir şəxs üçün nəyin düzgün olduğunu deyə bilməz. Qidalanmanı, idmanı, yuxunu, dərman və ya əlavələri dəyişməzdən əvvəl həkimlə danışın. Qəfil çaşqınlıq və ya digər qəfil dəyişikliklər üçün dərhal tibbi yardım alın. <a href=\"/medical-disclaimer/\">Sağlamlıq məlumatı bildirişimizi oxuyun</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Birgə fəaliyyət, yaddaş testi deyil",
+      "seoTitle": "Golden Moments haqqında: yanaşmamız",
+      "description": "Golden Moments oyunlarında niyə taymer, xal və ardıcıllıq yoxdur, şəkillər niyə görünən qalır və demensiya barədə nəyi iddia edib-etmədiyimiz.",
+      "crumb": "Yanaşmamız",
+      "lede": "Golden Moments qayğı göstərən şəxslə demensiya ilə yaşayan şəxsin yan-yana zövq ala biləcəyi sakit, böyüklərə yaraşan şəkil fəaliyyətləri hazırlayır.",
+      "bodyHtml": "<h2>Nəyə inanırıq</h2><p>Fəaliyyətin mənası məhz həmin andadır: söhbət, təbəssüm, iki şəkli birləşdirməyin məmnunluğu və ya sadəcə yaxın oturmaq. Məqsəd kimisə ölçmək, daha da irəli itələmək və ya nəyisə sübut etmək deyil.</p><p>Bir çox beyin məşqi tətbiqi sürət, xal, ardıcıl qələbələr və səviyyələr üzərində qurulub. Demensiya ilə yaşayan şəxs üçün bu, keçə bilməyəcəyi imtahan kimi hiss oluna bilər. Biz bunun əksini yaratdıq və özümüzü bu qaydalara bağlayırıq:</p><ul><li><strong>Uğursuz olmaq yoxdur.</strong> Heç bir ekranda saat, xal, hərəkət sayğacı, can, ardıcıllıq, konfeti və ya geri sayım yoxdur.</li><li><strong>Xatırlamaqdan çox tanımaq.</strong> Şəkillər standart olaraq görünən qalır. Suallar söhbətə dəvət edir, heç vaxt ad və ya xatirələri yoxlamır.</li><li><strong>İri, sadə və sabit.</strong> İri mətn və şəkillər, yüksək kontrast və həmişə eyni yerdə qalan düymələr.</li><li><strong>Böyüklərə yaraşan ləyaqət.</strong> Real həyat şəkilləri və sadə, mehriban sözlər. Cizgi filmi, mahnı kimi tərif və ya emoji mükafatı yoxdur.</li><li><strong>Asan çıxış yolu.</strong> “Hələlik bu qədər” həmişə görünür. Yarımçıq dayanmaq yaxşı nəticədir.</li><li><strong>Standart olaraq məxfi.</strong> Hesab və reklam yoxdur. Seçdiyiniz fotolar cihazınızda qalır.</li></ul><h2>Nəyi iddia etmirik</h2><p>Oyunlarımız zövq almaq və yaxınlıq üçündür. Onlar demensiyanın və ya Alzheimer xəstəliyinin diaqnozunu qoymur, onu yoxlamır, ölçmür, müalicə etmir, yavaşlatmır və ya qarşısını almır; heç kim də onları bu səbəbdən seçməməlidir. <a href=\"/brain-health/\">Beyin sağlamlığı səhifələrimizdə</a> tədqiqatlar barədə yazanda sübutların harada zəif olduğunu açıq deyirik və onları heç vaxt öz oyunlarımızla əlaqələndirmirik.</p><h2>Biz kimik</h2><p>Golden Moments kiçik müstəqil komandadır. Biz klinisist deyilik. Bələdçilərimiz Milli Qocalma İnstitutu (National Institute on Aging) və Alzheimer Assosiasiyası (Alzheimer’s Association) kimi təşkilatların dərc etdiyi rəhbərliyə əsaslanır və hər bələdçi mənbələrini göstərir. <a href=\"/editorial-policy/\">Səhifələrimizi necə yazıb yoxladığımızı</a> oxuyun.</p><h2>Nəyin kömək edəcəyini bizə deyin</h2><p>Sizdə nəyin işlədiyini və nəyin işləmədiyini, xüsusən demensiya ilə yaşayan şəxslərdən, ailədə qayğı göstərənlərdən və fəaliyyət işçilərindən eşitmək istərdik. <a href=\"mailto:{email}\">{email}</a> ünvanına yazın.</p>"
+    },
+    "editorial": {
+      "title": "Səhifələrimizi necə yazır və yoxlayırıq",
+      "seoTitle": "Redaksiya siyasəti",
+      "description": "Golden Moments demensiya fəaliyyətləri və beyin sağlamlığı səhifələrini necə araşdırır, yazır, mənbələndirir və yeniləyir və nəyi heç vaxt dərc etmərik.",
+      "crumb": "Redaksiya siyasəti",
+      "bodyHtml": "<h2>Mənbələrimiz</h2><p>Bələdçilərimizi Milli Qocalma İnstitutu, CDC, Alzheimer Assosiasiyası, Amerika Alzheimer Fondu, Ailə Qayğı Göstərənlər Alyansı və NHS kimi təşkilatların açıq rəhbərliyinə, həmçinin Cochrane icmalları və böyük klinik sınaqlar kimi ekspert yoxlamasından keçmiş tədqiqatlara əsaslandırırıq. Hər bələdçi əsaslandığı mənbələri göstərir. Hər mənbəni sitat gətirməzdən əvvəl açırıq və yalnız onun həqiqətən nə dediyini bildiririk.</p><h2>Necə yazırıq</h2><ul><li>Əvvəlcə praktik: bu gün nə etmək, sadə dildə.</li><li>Sübut barədə dürüst: həqiqət belə olduqda “ilə əlaqəlidir”, “ola bilər” və “sübutlar qarışıqdır” deyirik.</li><li>Hörmətlə: demensiya ilə yaşayan şəxsləri böyük kimi təsvir edirik və heç vaxt sorğu-sual və ya utandırma dilindən istifadə etmirik.</li><li>Uydurma məzmun yoxdur: uydurma statistika, sitat, ekspert, tədqiqat, rəy və ya təsdiqnamə yoxdur.</li></ul><h2>Səhifələrimizi kim yoxlayır</h2><p>Səhifələri Golden Moments komandası yazır və yoxlayır, araşdırma və layihə üçün süni intellekt yazı alətlərindən də istifadə olunur. Hər səhifə komanda tərəfindən mənbələrinə qarşı yoxlanılır. Səhifələrimiz həkim və ya digər klinisist tərəfindən <strong>yoxlanılmayıb</strong> və biz bunun əksini iddia etmirik. Onlar ümumi məlumatdır, tibbi məsləhət deyil.</p><h2>Nəyi heç vaxt dərc etmərik</h2><ul><li>Hər hansı oyunun, qidanın, əlavənin, orucun və ya rejimin demensiyanın qarşısını aldığı, müalicə etdiyi, yavaşlatdığı və ya sağaltdığı iddiaları.</li><li>Kiminsə demensiyası olduğunu və ya olmadığını göstərən testlər, viktorinalar və ya xallar.</li><li>Hər hansı dərmanı başlamaq, dayandırmaq və ya dəyişmək üzrə məsləhət.</li><li>Məsləhət kimi gizlədilmiş reklam və ya sponsorlu məzmun.</li></ul><h2>Yeniləmələr və düzəlişlər</h2><p>Hər səhifə sonuncu dəfə nə vaxt yeniləndiyini göstərir. Səhv və ya köhnəlmiş mənbə tapsanız, zəhmət olmasa, <a href=\"mailto:{email}\">{email}</a> ünvanına yazın, biz tez yoxlayacağıq.</p>"
+    },
+    "faq": {
+      "title": "Suallar və cavablar",
+      "seoTitle": "Demensiya oyunları və fəaliyyətləri: suallar və cavablar",
+      "description": "Demensiya oyunları və fəaliyyətləri barədə suallara cavablar: hansı oyunları sınamaq, nə qədər oynamaq, gec mərhələ ideyaları, beyin sağlamlığı və məxfilik.",
+      "crumb": "Suallar və cavablar",
+      "lede": "Qayğı göstərənlərin ən çox verdiyi suallara qısa, sadə cavablar.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Oyunlar haqqında",
+          "items": [
+            {
+              "q": "Demensiya ilə yaşayan şəxs üçün ən yaxşı oyunlar hansılardır?",
+              "a": "Ən yaxşı oyunlar tanış, sadə və təzyiqsiz olanlardır, düzgün oyun isə şəxsin bu gün zövq aldığı oyundur. Görünən şəkillərlə uyğunlaşdırma, çeşidləmə, asan tapmacalar, tanış deyimləri tamamlamaq, rəngləmə və şəkil bingosu bir çox adam üçün yaxşı işləyir. Taymerdən, xaldan və test kimi hiss olunan hər şeydən çəkinin."
+            },
+            {
+              "q": "Oyunlar həqiqətən pulsuzdurmu?",
+              "a": "Bəli. Bütün oyunlar və çap materialları pulsuzdur; hesab, qeydiyyat, yükləmə və ya reklam yoxdur."
+            },
+            {
+              "q": "Niyə xal, səviyyə və taymer yoxdur?",
+              "a": "Sürət və xallar xoş fəaliyyəti imtahana çevirir, bu da utanc və ya əsəbilik gətirə bilər. Diqqəti zövqə və birlikdə keçirilən vaxta yönəldirik, ona görə uğursuz olmaq yoxdur və istənilən anda dayana bilərsiniz."
+            },
+            {
+              "q": "Hansı cihazlar daha yaxşı işləyir?",
+              "a": "Müasir veb brauzeri olan hər telefon, planşet və ya kompüter. Masa arxasında altlığa qoyulmuş planşet çox vaxt iki nəfərin yan-yana oynaması üçün ən rahat yoldur. Televizora qoşulmuş noutbuk qruplar üçün yaxşı işləyir."
+            },
+            {
+              "q": "Öz ailə fotolarımızla oynaya bilərikmi?",
+              "a": "Bəli. “Foto cütləri” seçdiyiniz 2 ilə 6 fotonu uyğunlaşdırma oyununa çevirir. Fotolar brauzerinizdə qalır, yüklənmir və ya saxlanılmır."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Fəaliyyətlər və qayğı",
+          "items": [
+            {
+              "q": "Fəaliyyət nə qədər davam etməlidir?",
+              "a": "Çox vaxt 10-20 dəqiqə kifayətdir, bəzən isə 2 dəqiqə də uğurdur. Yorğunluq və ya əsəbilik əlamətlərinə fikir verin və hələ xoş olarkən dayanın. Düzgün miqdar yoxdur."
+            },
+            {
+              "q": "Fəaliyyət etmək istəməsə nə etməli?",
+              "a": "“Yox” cavabına hörmət edin və sonra və ya başqa yolla yenidən cəhd edin. İmtina yorğunluqdan, ağrıdan, əmin olmamaqdan və ya sadəcə maraqlanmamaqdan ola bilər. “Yox” dedikdə nə etməli bələdçimizə baxın."
+            },
+            {
+              "q": "Demensiyanın gec mərhələsinə hansı fəaliyyətlər uyğundur?",
+              "a": "Rahatlıq və hisslər: sevimli musiqiyə qulaq asmaq, kremlə əl masajı, fotolara birlikdə baxmaq, yumşaq yorğanı tutmaq, çöldə oturmaq və ya yanında kimsə ilə çox sadə şəkil oyunu. Gec mərhələ bələdçimizdə daha çox ideya var."
+            },
+            {
+              "q": "Qayğı evlərində qruplar üçün fəaliyyətlər varmı?",
+              "a": "Bəli. Şəkil bingosunun çap olunan kartları və ekranda aparıcısı var, “Deyimi tamamlayın” və “Söhbət kartları” isə ucadan oxunanda yaxşı işləyir. Qayğı evi qrupları bələdçimiz qrupun ölçüsünü, oturma qaydasını və müxtəlif imkanlara uyğunlaşdırmanı əhatə edir."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Beyin sağlamlığı",
+          "items": [
+            {
+              "q": "Oyunlar demensiyanın qarşısını ala və ya yavaşlada bilərmi?",
+              "a": "Heç bir oyunun demensiyanın qarşısını aldığı sübut olunmayıb və oyunlarımız belə iddia etmir. Sosial mühitdə koqnitiv stimullaşdırmanın yüngül və orta demensiyası olan şəxslər üçün tədqiqatlarda kiçik faydalar göstərdiyi bildirilib, lakin bu, oyunun xəstəliyin qarşısını almasından fərqlidir. Oyunları zövq və yaxınlıq üçün təklif edirik."
+            },
+            {
+              "q": "Demensiyanın qarşısını almaq olarmı?",
+              "a": "Əminliklə yox. Tədqiqatlar 14 sağlamlıq və həyat tərzi amilini, məsələn, eşitmə itkisi, yüksək təzyiq, hərəkətsizlik və sosial təcridi demensiya riski ilə əlaqələndirir. Onlara diqqət bəzi insanlar üçün riski azalda bilər, lakin hər şeyi düzgün edən bir çox insan yenə də demensiyaya tutulur. Bu, heç vaxt kiminsə günahı deyil."
+            },
+            {
+              "q": "Fasilələrlə oruc beyin sağlamlığı üçün yaxşıdırmı?",
+              "a": "İnsanlar üzərində sübutlar məhduddur və ilkindir, tədqiqatın böyük hissəsi heyvanlar üzərindədir. Oruc yaşlılar üçün, xüsusən diabet dərmanları və ya istənilməyən arıqlama olduqda təhlükəli ola bilər və demensiya ilə yaşayan şəxslərə tövsiyə olunmur. Qidalanmanızı dəyişməzdən əvvəl həkimlə danışın."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Məxfilik və təhlükəsizlik",
+          "items": [
+            {
+              "q": "Hər hansı məlumat toplayırsınız?",
+              "a": "Hesab və reklam yoxdur. Ziyarətləri saymaq və hansı səhifələrin faydalı olduğunu görmək üçün Google Analytics-dən istifadə edirik, brauzeriniz isə yumşaq səsləri yandırıb-yandırmadığınızı xatırlayır. “Foto cütləri” üçün seçdiyiniz fotolar heç vaxt yüklənmir. Təfərrüatlar üçün məxfilik bildirişinə baxın."
+            },
+            {
+              "q": "Bu, tibbi məsləhətdirmi?",
+              "a": "Xeyr. Golden Moments əyləncə və ümumi məlumat üçündür. Sağlamlıq sualları üçün həkimlə danışın, təcili hallarda isə yerli təcili yardım nömrəsinə zəng edin."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Daha ətraflı: <a href=\"/caregiving/how-to-play-together/\">birlikdə necə oynamaq olar</a>, <a href=\"/caregiving/when-they-say-no/\">“yox” dedikdə</a>, <a href=\"/activities/late-stage/\">gec mərhələ fəaliyyətləri</a> və <a href=\"/brain-health/can-dementia-be-prevented/\">demensiyanın qarşısını almaq olarmı?</a>"
+    },
+    "handout": {
+      "title": "Demensiya ilə yaşayan şəxslər üçün pulsuz, mülayim oyunlar",
+      "seoTitle": "Çap olunan təlimat: pulsuz demensiya oyunları onlayn",
+      "description": "Ailələr və qayğı göstərənlər üçün demensiya ilə yaşayanlara uyğun pulsuz, mülayim şəkil oyunları barədə bir səhifəlik çap təlimatı, dəstək qrupları üçün.",
+      "crumb": "Çap olunan təlimat",
+      "lede": "Bu səhifəni dəstək qrupu, qayğı paketi və ya soyuducunun qapısı üçün çap edin. Brauzerinizin Çap əmrindən istifadə edin; menyular və düymələr çapa daxil edilmir.",
+      "introHtml": "<p>İri şəkillər, sadə sözlər və uğursuz olmaq yoxdur. Telefonda, planşetdə və ya kompüterdə pulsuzdur; qeydiyyat, reklam, taymer və xal yoxdur. Yan-yana oturun və növbə ilə oynayın.</p>",
+      "gamesTitle": "Birlikdə sınamaq üçün oyunlar",
+      "restHtml": "<h2>Bir neçə məsləhət</h2><ul><li>Şəxsin ən yaxşı olduğu gün vaxtını seçin.</li><li>Ən asan ayardan başlayın. Dörd kart kifayətdir.</li><li>Şəkillər barədə danışın. Söhbət çox vaxt ən yaxşı hissədir.</li><li>Hələ xoş olarkən dayanın. Tez bitirmək yaxşı nəticədir.</li></ul><h2>Saytda həmçinin</h2><ul><li>Pulsuz çap materialları: iri çaplı söz axtarışı, rəngləmə səhifələri, söhbət kartları və şəkil bingosu.</li><li>Hər mərhələ üçün fəaliyyət ideyaları, birlikdə oynamaq və özünüzə qayğı barədə bələdçilər.</li></ul><p class=\"muted\">Zövq almaq və birlikdə vaxt keçirmək üçündür. Tibbi məsləhət, test və ya müalicə deyil. Golden Moments Cloudjet Solutions Pte. Ltd. tərəfindən nəşr olunur.</p>"
+    },
+    "organizations": {
+      "title": "Qayğı evləri, kitabxanalar və dəstək qrupları üçün",
+      "seoTitle": "Qayğı evləri və qruplar üçün pulsuz demensiya fəaliyyətləri",
+      "description": "Qayğı evləri, gündüz proqramları, kitabxanalar və dəstək qrupları pulsuz demensiya oyunlarımızdan necə istifadə edir, üstəlik resurs siyahısı üçün mətn.",
+      "crumb": "Təşkilatlar üçün",
+      "lede": "Bu saytdakı hər şey sakinlər, üzvlər və müştərilərlə istifadə üçün pulsuzdur; hesab, lisenziya və ya ödəniş yoxdur. Bu səhifə nələrin olduğunu və onu necə paylaşmağı izah edir.",
+      "shortText": "{name}: demensiya ilə yaşayan şəxslər və onlara qayğı göstərənlər üçün pulsuz, mülayim şəkil oyunları və fəaliyyət bələdçiləri. Qeydiyyat, taymer və xal yoxdur.",
+      "longText": "{name} ({domain}) demensiya ilə yaşayan şəxslər üçün hazırlanmış {count} pulsuz brauzer oyunu təklif edir; bura şəkilləri görünən qalan cüt uyğunlaşdırma, asan tapmaca, çeşidləmə, tanış deyimlər və çap olunan kartlı şəkil bingosu daxildir. Hesab, reklam, taymer və ya xal yoxdur. Saytda həmçinin demensiyanın hər mərhələsi üçün Milli Qocalma İnstitutuna və Alzheimer Assosiasiyasına istinad edən sadə dilli fəaliyyət bələdçiləri var.",
+      "useTitle": "Təşkilatlar nədən istifadə edə bilər",
+      "gamesItemHtml": "<strong>{count} brauzer oyunu</strong> noutbukda, planşetdə və ya kompüterə qoşulmuş televizorda işləyir. Quraşdırma, hesab və ya yükləmə yoxdur. <a href=\"/games/\">Bütün oyunlara</a> baxın.",
+      "printablesLabel": "{count} çap materialı:",
+      "printablesAfter": "Hər səhifədəki Çap düyməsindən istifadə edin.",
+      "moreItemsHtml": "<li><strong>Qrup formatları:</strong> <a href=\"/games/picture-bingo/\">Şəkil bingosunun</a> çap olunan kartları və ekranda aparıcısı var, <a href=\"/activities/trivia/\">asan viktorinada</a> isə cavab variantları və söhbət mövzuları ilə 50 sual var.</li><li>İşçilər və ailələr üçün mərhələyə və növə görə <strong>fəaliyyət bələdçiləri</strong>, sadə dildə və mənbələrlə yazılıb. <a href=\"/activities/ideas/\">101 fəaliyyət ideyası</a> və ya <a href=\"/activities/care-home-groups/\">qayğı evləri üçün qrup fəaliyyətləri</a> ilə başlayın.</li>",
+      "restHtml": "<h2>Qruplar bundan necə istifadə edir</h2><ul><li><strong>Qayğı evləri və yaddaş qayğısı mərkəzləri:</strong> ümumi otaqdakı televizorda şəkil bingosu və ya deyimi tamamlamaq, qrup üçün bir nəfər toxunur.</li><li><strong>Gündüz proqramları:</strong> qısa fərdi seanslar üçün dörd kartlı “Şəkil cütləri” qurulmuş planşet məntəqəsi.</li><li><strong>İctimai kitabxanalar:</strong> yaddaş dəstlərində çap olunmuş söz axtarışları və söhbət kartları, kitabxana planşetlərində isə yadda saxlanmış sayt.</li><li><strong>Qayğı göstərənlərin dəstək qrupları və yaddaş kafeləri:</strong> ailələrin evə aparması üçün <a href=\"/handout/\">bir səhifəlik çap təlimatı</a>.</li><li><strong>Xəstəxanalar və evə yazılma planlaşdırıcıları:</strong> evdə və ya yataq yanında sakit bir iş üçün qayğı göstərənlərin paketlərində təlimat.</li></ul><h2>Nə etmirik</h2><p>Oyunlar zövq almaq və birlikdə vaxt keçirmək üçündür. Onlar demensiyanın diaqnozunu qoymur, onu yoxlamır, qiymətləndirmir, müalicə etmir və ya yavaşlatmır və təşkilatlardan onları belə təsvir etməməyi xahiş edirik. Reklam yoxdur və oyunlar ad, sağlamlıq məlumatı və ya foto yükləməyi tələb etmir. Veb sayt ziyarətləri saymaq üçün Google Analytics-dən istifadə edir; <a href=\"/privacy/\">məxfilik bildirişimiz</a> bunun nə topladığını izah edir. <a href=\"/games/photo-pairs/\">Foto cütləri</a> oyununda istifadə olunan fotolar brauzerdə qalır.</p><h2>Bizi resurs siyahınıza əlavə edin</h2><p>Qayğı göstərənlər üçün resurs siyahısı aparırsınızsa, <a href=\"/\">{domain}</a> ünvanına keçid verə bilərsiniz. İstənilən təsviri kopyalaya bilərsiniz.</p>",
+      "shortTitle": "Qısa təsvir",
+      "longTitle": "Daha uzun təsvir",
+      "linksHtml": "<p>Birbaşa keçid vermək üçün faydalı səhifələr: <a href=\"/games/\">pulsuz oyunlar</a>, <a href=\"/activities/printable/\">pulsuz çap materialları</a>, <a href=\"/activities/alzheimers/\">Alzheimer üçün fəaliyyətlər</a> və <a href=\"/caregiving/how-to-play-together/\">birlikdə necə oynamaq olar</a>.</p><h2>Suallar və ya düzəlişlər</h2><p>Saytda nəsə yanlış və ya anlaşılmazdırsa, ya da sakinin ehtiyacları buradakılarla ödənilmirsə, zəhmət olmasa, bizə <a href=\"mailto:{email}\">{email}</a> ünvanında bildirin. Zəhmət olmasa, sakinlər və ya müştərilər barədə şəxsi və ya sağlamlıq məlumatı göndərməyin.</p>"
+    },
+    "app": {
+      "title": "Golden Moments tətbiqi",
+      "seoTitle": "iPhone və Android üçün Golden Moments tətbiqi",
+      "description": "Pulsuz Golden Moments tətbiqi: dörd iri kartla mülayim foto uyğunlaşdırma, cihazınızda saxlanan ailə fotoları, oflayn şəkil paketləri və hesabsız istifadə.",
+      "crumb": "Tətbiq",
+      "lede": "Veb saytda sevdiyiniz hər şey, oflayn işləyən və seçdiyiniz ailə fotolarından istifadə edə bilən tətbiqdə.",
+      "worksOn": "{platforms} üzərində işləyir ({requirements}).",
+      "bodyHtml": "<h2>Kiçikdən başlayın</h2><p>Dörd iri kart və tanış şəkillərlə başlayın. Şəkilləri açıq saxlayın və ya rahat hiss etdikdə gizlədin. Mülayim rejimdə taymer, xal və ya cərimə yoxdur. 4, 6, 8 və ya 12 kart seçin.</p><h2>Şəxsiləşdirin</h2><p>Cihazınızın foto seçicisi ilə ailə fotolarını seçin. Tətbiq fəaliyyətləri üçün daha kiçik surətlər saxlayır. O, kitabxananızı skan etmir və ya orijinal fotolarınızı dəyişmir, bir kolleksiyada 24 fotoya qədər saxlayır.</p><h2>Sadəcə birlikdə baxın</h2><p>Bir dəfəyə bir şəkilə baxın. Könüllü suallar heç kimdən ad xatırlamağı və ya düzgün cavab verməyi tələb etmədən söhbətə dəvət edir. Sadəcə baxmaq kifayətdir.</p><h2>Vacib yerlərdə oflayn</h2><p>Başlanğıc şəkilləri və bütün səkkiz şəkil paketi tətbiqlə birlikdə gəlir. İmport edilmiş foto surətləri oflayn işləyir. Yalnız iCloud-da saxlanılan orijinalları seçmək üçün internet bağlantısı lazım ola bilər.</p><h2>Hesab yoxdur, foto sinxronizasiya serveri yoxdur</h2><p>Ailə foto surətləri cihazda tətbiqin daxilində qalır. Orijinalları silmədən surətləri silə bilərsiniz. Cihaz ehtiyat nüsxələrinə tətbiq məlumatları daxil ola bilər. <a href=\"/app-privacy/\">Tətbiqin məxfilik siyasətini</a> oxuyun, <a href=\"/help/\">tətbiq üzrə kömək</a> isə hər addımı izah edir.</p>",
+      "disclaimer": "Golden Moments əyləncə və birgə söhbət üçündür. Demensiyanın və ya Alzheimer xəstəliyinin diaqnozunu qoymur, müalicə etmir, qarşısını almır və ölçmür.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Pulsuz demensiya və Alzheimer oyunları onlayn",
+    "description": "Demensiya və ya Alzheimer ilə yaşayan yaşlılar üçün pulsuz onlayn oyunlar: şəkil uyğunlaşdırma, asan tapmaca, çeşidləmə, bingo. Qeydiyyat, taymer və xal yoxdur.",
+    "crumb": "Oyunlar",
+    "h1": "Demensiya ilə yaşayan şəxslər üçün mülayim oyunlar",
+    "lede": "Brauzerinizdə birlikdə oynamaq üçün {count} pulsuz oyun. İri şəkillər, sadə sözlər və uğursuz olmaq yoxdur: taymer, xal və qeydiyyat yoxdur.",
+    "listName": "Demensiya ilə yaşayan şəxslər üçün mülayim oyunlar",
+    "byStageTitle": "Mərhələyə görə oyun seçimi",
+    "byStageLede": "Mərhələlər yalnız təxmini bələdçidir. Şəxsin zövq aldığını və bu gün nəyin rahat olduğunu izləyin.",
+    "stageCol": "Mərhələ",
+    "gamesCol": "Çox vaxt uyğun gələn oyunlar",
+    "moreHtml": "Ekrandan kənarda daha çox ideya: <a href=\"/activities/ideas/\">demensiya ilə yaşayan şəxslər üçün 101 fəaliyyət</a>, <a href=\"/activities/alzheimers/\">Alzheimer üçün fəaliyyətlər və oyunlar</a>, <a href=\"/activities/memory-games/\">mülayim yaddaş oyunları</a> və <a href=\"/activities/puzzles/\">tapmacalar</a>.",
+    "faq": [
+      {
+        "q": "Hansı oyundan başlayaq?",
+        "a": "Dörd kartlı “Şəkil cütləri” sakit ilk seçimdir. Şəkillər arasında seçim çox gələrsə, iki şəkillə “Eynisini tapın” oyununu sınayın. Qrup üçün “Şəkil bingosu”nu sınayın."
+      },
+      {
+        "q": "Oyunlar iPad və ya telefonda işləyirmi?",
+        "a": "Bəli. Hər oyun telefonlarda, planşetlərdə və kompüterlərdə brauzerdə işləyir və şəkillər ekranı doldurmaq üçün böyüyür. Altlığa qoyulmuş planşet çox vaxt iki nəfər üçün ən rahatdır."
+      },
+      {
+        "q": "Bu oyunlar Alzheimer ilə yaşayan şəxs üçün yaxşıdırmı?",
+        "a": "Bəli. Onlar demensiya, o cümlədən ən çox yayılmış səbəbi olan Alzheimer ilə yaşayan şəxslər üçün hazırlanıb. Şəkillər görünən qalır, yalnız bir neçə seçim var və heç nə vaxta və ya xala bağlı deyil, ona görə oyunlar yeni şeyləri xatırlamaqdan çox tanış şeyləri tanımağa əsaslanır."
+      },
+      {
+        "q": "Bunlar yaşlılar üçün yaddaş oyunlarıdırmı?",
+        "a": "Bunlar hər yaşlı adamın zövq ala biləcəyi uyğunlaşdırma və şəkil oyunlarıdır, lakin yaddaşı yoxlamamaq üçün qurulub: “Şəkil cütləri”ndə siz başqa cür seçməsəniz, şəkillər üzü yuxarı qalır. Demensiyası olan yaşlılar üçün yaddaş oyunları bələdçimiz istənilən yaddaş oyununu necə mülayim saxlamağı izah edir."
+      },
+      {
+        "q": "Qayğı evində qruplar üçün oyunlar varmı?",
+        "a": "Bəli. Şəkil bingosunun çap olunan kartları və ekranda aparıcısı var, “Deyimi tamamlayın” və “Söhbət kartları” isə qrupa ucadan oxunanda yaxşı işləyir."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad və Android",
+    "requirements": "iOS 15 və ya daha yeni; Android 7.0 və ya daha yeni",
+    "summary": "iPhone, iPad və Android üçün pulsuz tətbiq: dörd ilə on iki iri kartla mülayim şəkil uyğunlaşdırma, seçdiyiniz ailə fotoları ilə uyğunlaşdırma və baxış, internetsiz işləyən səkkiz daxili şəkil paketi. Hesab, reklam, taymer və xal yoxdur.",
+    "features": [
+      "4, 6, 8 və ya 12 iri kartla mülayim şəkil uyğunlaşdırma; gizlətməyi seçməsəniz, şəkillər görünən qalır",
+      "Seçdiyiniz ailə fotoları uyğunlaşdırma və birlikdə baxmaq üçün tətbiqə köçürülür",
+      "Birlikdə baxın: bir dəfəyə bir şəkil, könüllü söhbət suallarıyla",
+      "Tətbiqlə birlikdə səkkiz şəkil paketi gəlir; onlar oflayn işləyir",
+      "Hesab, reklam, tətbiqdaxili alış, taymer, xal və ya cərimə yoxdur"
+    ],
+    "faq": [
+      {
+        "q": "Demensiya fəaliyyətləri tətbiqi varmı?",
+        "a": "Bəli. Golden Moments (“{storeName}” adı ilə) App Store və Google Play-də pulsuzdur. O, iri kartlarla mülayim şəkil uyğunlaşdırma, seçdiyiniz ailə fotoları ilə oyunlar və oflayn işləyən şəkil paketləri təklif edir."
+      },
+      {
+        "q": "Golden Moments tətbiqi pulsuzdurmu?",
+        "a": "Bəli. Yükləmək pulsuzdur; reklam, hesab və ya tətbiqdaxili alış yoxdur."
+      },
+      {
+        "q": "Tətbiq internetsiz işləyirmi?",
+        "a": "Bəli. Başlanğıc şəkilləri və bütün səkkiz şəkil paketi tətbiqlə birlikdə gəlir, ailə fotoları isə tətbiqə köçürüldükdən sonra oflayn işləyir. Yalnız iCloud-da saxlanılan fotonu seçmək üçün bağlantı lazım ola bilər."
+      },
+      {
+        "q": "Öz ailə fotolarımızdan istifadə edə bilərəmmi?",
+        "a": "Bəli. Cihazınızın foto seçicisi ilə fotoları seçin. Tətbiq fəaliyyətləri üçün daha kiçik surətləri cihazda saxlayır, onları yükləmir və orijinalları heç vaxt dəyişmir. Surətləri istənilən vaxt silə bilərsiniz."
+      },
+      {
+        "q": "Bu, beyin məşqi və ya yaddaş testi tətbiqidirmi?",
+        "a": "Xeyr. Golden Moments zövq almaq və birlikdə vaxt keçirmək üçündür. Xal və ya test yoxdur, demensiyanın və ya Alzheimer xəstəliyinin diaqnozunu qoymur, müalicə etmir, qarşısını almır və ölçmür."
+      },
+      {
+        "q": "Hansı cihazlarda işləyir?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Bu oyunun tətbiq versiyası varmı?",
+      "a": "Bəli. iPhone, iPad və Android üçün pulsuz Golden Moments tətbiqində eyni mülayim şəkil uyğunlaşdırma var, seçdiyiniz ailə fotolarından istifadə edə bilir və oflayn işləyir. Hesab, reklam və ya xal yoxdur."
+    },
+    "gameFaqNo": {
+      "q": "Bu oyunun tətbiq versiyası varmı?",
+      "a": "Bu oyunun yox. iPhone, iPad və Android üçün pulsuz Golden Moments tətbiqində iri kartlarla mülayim şəkil uyğunlaşdırma və seçdiyiniz ailə fotoları var və oflayn işləyir. Bu oyun burada, brauzerinizdə pulsuz qalır."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: iri, mehriban şəkillər",
+    "noscript": "Bu oyun üçün brauzerinizdə JavaScript açıq olmalıdır. Aşağıdakı məsləhətlər onsuz da işləyir.",
+    "about": "{name} haqqında",
+    "aboutAria": "Bu oyun haqqında",
+    "noTimer": "Taymer və xal yoxdur",
+    "printable": "Çap oluna bilər",
+    "howTo": "{name} necə oynanır",
+    "tips": "Birlikdə oynamaq üçün məsləhətlər",
+    "newToPlayingHtml": "Demensiyası olan şəxslə oynamağa təzəsiniz? Maraq itirdikdə nə etməli də daxil olmaqla, <a href=\"/caregiving/how-to-play-together/\">oyunları birlikdə necə oynamaq olar</a> məqaləsini oxuyun.",
+    "moreAria": "Daha çox kəşf edin",
+    "helpfulGuides": "Faydalı bələdçilər",
+    "appTitle": "Tətbiqdə oynayın",
+    "appText": "Pulsuz Golden Moments tətbiqində iri kartlarla və öz ailə fotolarınızla mülayim şəkil uyğunlaşdırma var və Wi‑Fi olmadan işləyir. iPhone, iPad və Android.",
+    "photoAppTitle": "Fotolarınızı hazır saxlayın",
+    "photoAppText": "Pulsuz Golden Moments tətbiqində seçdiyiniz fotolar növbəti dəfə üçün cihazınızda qalır və oyunlar Wi‑Fi olmadan işləyir. iPhone, iPad və Android.",
+    "goodToKnow": "Bilmək yaxşıdır",
+    "goodToKnowText": "Bu oyun zövq almaq və birlikdə vaxt keçirmək üçündür. Heç nəyi yoxlamır, ölçmür və ya müalicə etmir.",
+    "moreGames": "Daha çox mülayim oyun",
+    "crumb": "Oyunlar"
+  }
+}
