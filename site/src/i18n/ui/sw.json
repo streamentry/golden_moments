@@ -1,0 +1,533 @@
+{
+  "common": {
+    "skipLink": "Ruka hadi maudhui makuu",
+    "brandName": "Golden Moments",
+    "brandTag": "Shughuli za dementia",
+    "homeLabel": "Ukurasa wa mwanzo wa Golden Moments",
+    "mainNav": "Menyu kuu",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: picha kubwa na za kirafiki za kikombe cha chai, alizeti na mbwa",
+    "languages": "Lugha",
+    "englishOnly": "(Kiingereza)",
+    "machineTranslated": "Ukurasa huu umetafsiriwa kiotomatiki na bado haujakaguliwa na mzungumzaji wa asili wa Kiswahili.",
+    "readOriginal": "Soma asili kwa Kiingereza",
+    "nav": {
+      "games": "Michezo",
+      "activities": "Shughuli",
+      "caregiving": "Ulezi",
+      "brainHealth": "Afya ya ubongo"
+    },
+    "faqTitle": "Maswali na majibu",
+    "breadcrumb": "Njia ya kurasa",
+    "home": "Mwanzo",
+    "lastUpdated": "Imesasishwa mwisho",
+    "topics": "Mada"
+  },
+  "footer": {
+    "play": "Cheza",
+    "picturePairs": "Jozi za picha",
+    "conversationCards": "Kadi za mazungumzo",
+    "pictureBingo": "Bingo ya picha",
+    "allGames": "Michezo yote",
+    "activityIdeas": "Mawazo ya shughuli",
+    "ideas101": "Mawazo 101 ya shughuli",
+    "lateStage": "Shughuli za hatua ya baadaye",
+    "printable": "Shughuli za kuchapisha",
+    "allActivities": "Shughuli zote",
+    "forCaregivers": "Kwa walezi",
+    "playTogether": "Jinsi ya kucheza pamoja",
+    "selfCare": "Kujitunza mwenyewe",
+    "brainHealth": "Utafiti kuhusu afya ya ubongo",
+    "faq": "Maswali na majibu",
+    "about": "Kuhusu sisi",
+    "approach": "Mtazamo wetu",
+    "howWeWrite": "Jinsi tunavyoandika",
+    "organizations": "Kwa mashirika",
+    "app": "Programu ya Golden Moments",
+    "appHelp": "Msaada wa programu",
+    "support": "Msaada",
+    "legal": "Taarifa za kisheria",
+    "sitePrivacy": "Faragha ya tovuti",
+    "appPrivacy": "Sera ya faragha ya programu",
+    "privacyChoices": "Chaguo za faragha",
+    "terms": "Masharti na leseni ya programu",
+    "safety": "Usalama na matumizi yaliyokusudiwa",
+    "accessibility": "Ufikivu",
+    "healthNotice": "Tangazo la taarifa za afya",
+    "allLegal": "Taarifa zote za kisheria",
+    "note": "Golden Moments inatoa shughuli rahisi za pamoja kwa ajili ya burudani. Si ushauri wa kitabibu, kipimo wala matibabu, na haitambui ugonjwa, haipimi wala haitoi alama kwa mtu yeyote. Kwa maswali ya afya, zungumza na daktari. Katika dharura, piga nambari ya dharura ya eneo lako.",
+    "publisher": "Imechapishwa na Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Michezo na Shughuli za Dementia na Alzheimer | Golden Moments",
+    "description": "Michezo ya picha ya bure ya taratibu mtandaoni, na mawazo ya shughuli kwa watu wanaoishi na dementia au Alzheimer na walezi wao. Bila usajili, saa wala alama.",
+    "eyebrow": "Bure · Bila matangazo · Bila usajili · Bila saa wala alama",
+    "h1": "Michezo na Shughuli za Taratibu kwa Watu Wanaoishi na Dementia",
+    "lede": "Michezo rahisi ya picha, picha zinazojulikana, na shughuli za kufurahia pamoja, kwa kasi yenu wenyewe.",
+    "playGame": "Cheza mchezo",
+    "findIdeas": "Tafuta mawazo ya shughuli",
+    "facts": [
+      "Inafanya kazi kwenye simu, kompyuta kibao na kompyuta",
+      "Picha kubwa zinazoendelea kuonekana",
+      "Simama wakati wowote; hakuna cha kushindwa"
+    ],
+    "heroApp": "Pia ni programu ya bure ya iPhone, iPad na Android, yenye picha za familia yenu wenyewe",
+    "albumNote": "“Picha mbili za kikombe cha chai, pamoja.”",
+    "gamesEyebrow": "Cheza kwenye kivinjari chako",
+    "gamesTitle": "Michezo unayoweza kucheza sasa hivi",
+    "gamesLede": "Kila mmoja ni mtulivu, wa kiutu uzima na ni rahisi kuanza. Chagueni mmoja, kaeni kando kwa kando, na mgusane kwa zamu.",
+    "seeAllGames": "Tazama michezo yote {count}",
+    "howTitle": "Jinsi inavyofanya kazi",
+    "steps": [
+      {
+        "title": "Chagua kitu kinachojulikana",
+        "text": "Picha za vikombe vya chai, bustani, wanyama kipenzi na mashua. Hakuna kusoma wala sheria za kujifunza kwanza."
+      },
+      {
+        "title": "Kaeni kando kwa kando",
+        "text": "Mwache aguse mwenyewe. Zungumzieni picha. Picha zisizolingana zinangoja tu mguso unaofuata."
+      },
+      {
+        "title": "Simameni wakati bado inapendeza",
+        "text": "Mchezo mmoja ni shughuli kamili. “Maliza kwa sasa” iko kwenye skrini kila wakati."
+      }
+    ],
+    "stageEyebrow": "Zaidi ya skrini",
+    "stageTitle": "Mawazo ya shughuli kwa kila hatua",
+    "stageLede": "Muziki, kazi za kila siku, kukumbushana mambo ya zamani na wakati tulivu wa hisia, vikirekebishwa kulingana na kinachostarehesha sasa.",
+    "ideas101": "Mawazo 101 ya shughuli",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Hatua ya mwanzo",
+        "text": "Endeleeni na yale anayopenda, kwa marekebisho madogo: mambo ya kupenda, matembezi, michezo ya maneno na kupanga pamoja.",
+        "label": "Mawazo ya hatua ya mwanzo"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Hatua ya kati",
+        "text": "Kazi rahisi na zinazojulikana zilizogawanywa kwa hatua: kukunja, kupanga, muziki, michezo ya picha na matembezi mafupi.",
+        "label": "Mawazo ya hatua ya kati"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Hatua ya baadaye",
+        "text": "Faraja na ukaribu kupitia kugusa, sauti na kuona: kutunza mikono, nyimbo anazopenda, picha na kuwa pamoja.",
+        "label": "Mawazo ya hatua ya baadaye"
+      }
+    ],
+    "specificHtml": "Unatafuta kitu mahususi? Jaribu <a href=\"/activities/alzheimers/\">shughuli na michezo kwa Alzheimer</a>, <a href=\"/activities/memory-games/\">michezo ya taratibu ya kumbukumbu</a>, <a href=\"/activities/trivia/\">maswali rahisi ya maarifa</a> au <a href=\"/activities/puzzles/\">mafumbo</a>.",
+    "approachEyebrow": "Mtazamo wetu",
+    "approachTitle": "Shughuli ya pamoja, si kipimo cha kumbukumbu",
+    "approachLede": "Mingi ya “michezo ya ubongo” imejengwa kwa kasi, alama na mfululizo wa ushindi. Kwa mtu anayeishi na dementia hiyo inaweza kuhisiwa kama mtihani. Sisi tumejenga kinyume chake.",
+    "approachLink": "Kwa nini tunaibuni hivi",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Hakuna cha kushindwa",
+        "text": "Hakuna saa, alama, nafasi za kupoteza wala kushindwa. Picha tofauti ni kusimama kidogo, si kosa."
+      },
+      {
+        "icon": "eye",
+        "title": "Picha zinaendelea kuonekana",
+        "text": "Kutambua badala ya kukumbuka. Kulinganisha huanza picha zikiwa wazi, kwa hiyo hakuna cha kukumbuka."
+      },
+      {
+        "icon": "people",
+        "title": "Ya kiutu uzima na yenye heshima",
+        "text": "Maneno ya joto na rahisi na picha za maisha halisi. Hakuna katuni wala lugha ya kitoto."
+      },
+      {
+        "icon": "shield",
+        "title": "Faragha kwa muundo",
+        "text": "Hakuna akaunti wala matangazo. Picha zako hazitoki kwenye kifaa chako."
+      }
+    ],
+    "guidesEyebrow": "Kwa walezi",
+    "guidesTitle": "Miongozo ya vitendo kwa huduma ya kila siku",
+    "allCaregiving": "Miongozo yote ya ulezi",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Jinsi ya kucheza michezo pamoja",
+        "text": "Maandalizi, kasi, na cha kufanya mchezo unapoacha kufurahisha."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Anapokataa shughuli",
+        "text": "Sababu za kawaida za kukataa, na njia za upole za kujaribu tena baadaye."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Kuandaa kompyuta kibao",
+        "text": "Maandishi makubwa zaidi, kukatizwa kidogo na skrini moja rahisi ya mwanzo."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Shughuli za bure za kuchapisha",
+        "text": "Mafumbo ya maneno ya herufi kubwa, kurasa za kupaka rangi, bingo na kadi za mazungumzo."
+      }
+    ],
+    "researchTitle": "Afya ya ubongo: kile ambacho utafiti unasema kweli",
+    "researchText": "Je, dementia inaweza kuzuiwa? Je, michezo ya ubongo inasaidia? Vipi kuhusu kufunga kula, lishe, usingizi na kusikia? Majibu rahisi yenye vyanzo, ikiwemo mahali ambapo ushahidi ni dhaifu.",
+    "researchLink": "Soma miongozo ya utafiti",
+    "appEyebrow": "Pia ni programu",
+    "appTitle": "Golden Moments kwenye iPhone, iPad na Android",
+    "appText": "Programu ya bure inafanya kazi bila mtandao na inaweza kutumia picha za familia ulizochagua, zikihifadhiwa kama nakala kwenye kifaa chako. Muundo ule ule wa utulivu: kadi nne kubwa, bila saa, bila alama.",
+    "aboutApp": "Kuhusu programu",
+    "faq": [
+      {
+        "q": "Ni michezo gani mizuri kwa watu wenye dementia?",
+        "a": "Michezo mizuri ni rahisi, inayojulikana na isiyo na shinikizo: picha kubwa za kulinganisha, kupanga, mafumbo rahisi ya jigsaw, kukamilisha methali zinazojulikana, kupaka rangi, bingo ya picha na kadi za mazungumzo. Chaguo bora ni lile ambalo mtu anafurahia leo. Epuka saa, alama na kitu chochote kinachohisiwa kama mtihani."
+      },
+      {
+        "q": "Je, michezo hii ya dementia ni ya bure?",
+        "a": "Ndiyo. Kila mchezo na kila kitu cha kuchapisha kwenye Golden Moments ni bure, bila akaunti, usajili wala upakuaji. Michezo inaendeshwa kwenye kivinjari cha wavuti kwenye simu, kompyuta kibao au kompyuta."
+      },
+      {
+        "q": "Je, michezo ya ubongo inazuia dementia?",
+        "a": "Hakuna mchezo ambao umeonyeshwa kuzuia dementia, na Golden Moments haidai kutibu wala kuzuia chochote. Michezo yetu ni kwa ajili ya burudani na kuwa pamoja. Sehemu yetu ya afya ya ubongo inaeleza kile ambacho utafiti unaonyesha na kisichoonyesha."
+      },
+      {
+        "q": "Je, michezo hii inafaa kwa mtu mwenye Alzheimer?",
+        "a": "Ndiyo. Ugonjwa wa Alzheimer ndio chanzo cha kawaida zaidi cha dementia, na michezo imetengenezwa kwa ajili yake: picha kubwa zinazoendelea kuonekana, machaguo machache, na kisichohitaji kukumbukwa wala kukosewa. Kulinganisha, kupanga na kukamilisha methali zinazojulikana kunategemea maarifa ya muda mrefu badala ya kujifunza mapya."
+      },
+      {
+        "q": "Je, mtu mwenye dementia ya hatua ya baadaye anaweza kutumia shughuli hizi?",
+        "a": "Mara nyingi, ndiyo, akiwa na mtu kando yake. Anzeni na Tafuta inayofanana kwa picha mbili, Jozi za picha kwa kadi nne, ukurasa wa kupaka rangi au mapumziko tulivu ya kupumua. Iweni fupi, mfuate mwongozo wake na msimame akishatosheka."
+      },
+      {
+        "q": "Je, taarifa zangu ni za faragha?",
+        "a": "Tovuti haina akaunti wala matangazo. Tunatumia Google Analytics kuelewa ni kurasa gani zinatembelewa. Picha unazochagua kwa Jozi za picha za familia zinaonyeshwa kwenye kivinjari chako tu na hazipakiwi mtandaoni kamwe."
+      },
+      {
+        "q": "Nani anatengeneza Golden Moments?",
+        "a": "Golden Moments ni timu ndogo inayotengeneza shughuli tulivu za picha za kiutu uzima kwa familia na walezi, kwenye wavuti na kama programu ya bure. Sisi si madaktari, na hakuna kilichoandikwa hapa ni ushauri wa kitabibu."
+      }
+    ]
+  },
+  "stage": {
+    "early": "mwanzo",
+    "middle": "kati",
+    "late": "baadaye",
+    "hintOne": "Mara nyingi inafaa hatua ya {list}",
+    "hintMany": "Mara nyingi inafaa hatua za {list}",
+    "labelEarly": "Hatua ya mwanzo",
+    "labelMiddle": "Hatua ya kati",
+    "labelLate": "Hatua ya baadaye"
+  },
+  "cards": {
+    "aboutGame": "Kuhusu mchezo huu",
+    "printable": "Ya kuchapisha",
+    "play": "Cheza {name} →",
+    "readGuide": "Soma mwongozo"
+  },
+  "playCta": {
+    "title": "Tayari kwa mchezo wa taratibu?",
+    "text": "Picha kubwa, bila saa, bila alama na bila cha kujisajili. Chezeni pamoja kwenye kivinjari chenu.",
+    "play": "Cheza mchezo",
+    "all": "Tazama michezo yote",
+    "aria": "Cheza mchezo"
+  },
+  "appCta": {
+    "title": "Kuwa na michezo hii popote uendapo",
+    "text": "Programu ya bure ya Golden Moments kwa iPhone, iPad na Android: kadi kubwa za picha, michezo yenye picha za familia yako mwenyewe, na vifurushi vya picha vinavyofanya kazi bila Wi‑Fi. Bila akaunti, matangazo, saa wala alama.",
+    "appStore": "Ipate kwenye App Store",
+    "googlePlay": "Ipate kwenye Google Play",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Kuhusu programu",
+    "aria": "Pata programu"
+  },
+  "sections": {
+    "activities": {
+      "label": "Shughuli",
+      "title": "Shughuli kwa Watu Wanaoishi na Dementia",
+      "seo": "Shughuli kwa Watu Wenye Dementia: Mawazo kwa Hatua",
+      "description": "Mawazo ya shughuli kwa watu wanaoishi na dementia katika kila hatua: muziki, kukumbushana, kazi za kila siku, hisia, ufundi, nje na vya kuchapisha.",
+      "lede": "Shughuli yenye maana ni chochote kinacholeta faraja, kusudi au wakati wa ukaribu. Anza na kile ambacho mtu huyo amekuwa akipenda siku zote, na kirekebishe kulingana na leo."
+    },
+    "caregiving": {
+      "label": "Ulezi",
+      "title": "Miongozo ya Ulezi",
+      "seo": "Miongozo ya Kuhudumia Mtu Mwenye Dementia: Msaada wa Kila Siku",
+      "description": "Miongozo ya vitendo na ya upole kwa walezi wa dementia: kucheza pamoja, mawasiliano, kukataa, kutotulia jioni, kompyuta kibao, kuchagua programu na kujitunza.",
+      "lede": "Msaada rahisi na wa vitendo kwa nyakati za kila siku za kumhudumia mtu anayeishi na dementia, ikiwemo kujitunza wewe mwenyewe."
+    },
+    "brain-health": {
+      "label": "Afya ya ubongo",
+      "title": "Afya ya Ubongo: Utafiti Unasema Nini",
+      "seo": "Afya ya Ubongo na Hatari ya Dementia: Utafiti Unasema Nini",
+      "description": "Je, dementia inaweza kuzuiwa? Miongozo ya kweli yenye vyanzo kuhusu vihatarishi vya dementia, michezo ya ubongo, kufunga, lishe, mazoezi, usingizi na kusikia.",
+      "lede": "Kile ambacho tafiti kubwa zinaonyesha kuhusu kupunguza hatari ya dementia, kimeelezwa kwa urahisi, ikiwemo mahali ambapo ushahidi ni dhaifu au mchanganyiko. Taarifa za jumla, si ushauri wa kitabibu."
+    }
+  },
+  "guide": {
+    "updated": "Imesasishwa",
+    "minuteRead": "Dakika {n} za kusoma",
+    "byTeam": "Na timu ya Golden Moments",
+    "howWeWrite": "Jinsi tunavyoandika",
+    "shortAnswer": "Jibu fupi",
+    "onThisPage": "Kwenye ukurasa huu (sehemu {n})",
+    "commonQuestions": "Maswali ya kawaida",
+    "sources": "Vyanzo",
+    "sourcesNote": "Tunaunganisha kwenye mashirika na tafiti ambazo ukurasa huu unazitegemea. Kila kimoja kilikaguliwa wakati ukurasa ulipasasishwa.",
+    "tryTogether": "Jaribuni pamoja",
+    "relatedGuides": "Miongozo inayohusiana",
+    "related": "Inayohusiana",
+    "startHere": "Anzia hapa"
+  },
+  "healthNotice": {
+    "aria": "Tangazo la taarifa za afya",
+    "title": "Taarifa za jumla, si ushauri wa kitabibu",
+    "textHtml": "Ukurasa huu unafupisha utafiti uliochapishwa kwa ajili ya familia. Hauwezi kukuambia kinachofaa kwa mtu mmoja mmoja. Zungumza na daktari kabla ya kubadilisha lishe, mazoezi, usingizi, dawa au virutubisho. Kwa mchanganyiko wa ghafla wa akili au mabadiliko mengine ya ghafla, tafuta msaada wa kitabibu mara moja. <a href=\"/medical-disclaimer/\">Soma tangazo letu la taarifa za afya</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Shughuli ya Pamoja, Si Kipimo cha Kumbukumbu",
+      "seoTitle": "Kuhusu Golden Moments: Mtazamo Wetu",
+      "description": "Kwa nini michezo ya Golden Moments haina saa wala alama, kwa nini picha zinaendelea kuonekana, na tutakachodai na tusichodai kuhusu dementia.",
+      "crumb": "Mtazamo wetu",
+      "lede": "Golden Moments inatengeneza shughuli tulivu za picha za kiutu uzima ambazo mlezi na mtu anayeishi na dementia wanaweza kufurahia kando kwa kando.",
+      "bodyHtml": "<h2>Tunachoamini</h2><p>Kusudi la shughuli ni wakati wenyewe: mazungumzo, tabasamu, kuridhika kwa kuunganisha picha mbili, au kukaa karibu tu. Si kumpima mtu, kumsukuma zaidi wala kuthibitisha chochote.</p><p>Programu nyingi za mazoezi ya ubongo zimeundwa kwa kasi, alama, mfululizo na viwango. Kwa mtu anayeishi na dementia hiyo inaweza kuhisiwa kama mtihani asioweza kuufaulu. Sisi tumebuni kinyume chake, na tunajiwekea kanuni hizi:</p><ul><li><strong>Hakuna cha kushindwa.</strong> Hakuna saa, alama, hesabu ya mgusano, nafasi za kupoteza, mfululizo, shangwe wala kuhesabu kwa kurudi nyuma, kwenye skrini yoyote.</li><li><strong>Kutambua badala ya kukumbuka.</strong> Picha zinaendelea kuonekana kwa kawaida. Maswali yanakaribisha mazungumzo na hayaulizi majina wala kumbukumbu kamwe.</li><li><strong>Kubwa, rahisi na thabiti.</strong> Maandishi na picha kubwa, utofautishaji wa juu, na vitufe vinavyobaki mahali pamoja.</li><li><strong>Heshima ya mtu mzima.</strong> Picha za maisha halisi na maneno rahisi ya joto. Hakuna katuni, sifa za kuimba wala zawadi za emoji.</li><li><strong>Njia rahisi ya kutoka.</strong> “Maliza kwa sasa” inaonekana kila wakati. Kusimama katikati ni matokeo mazuri.</li><li><strong>Faragha kwa kawaida.</strong> Hakuna akaunti wala matangazo. Picha unazochagua zinabaki kwenye kifaa chako.</li></ul><h2>Tusichodai</h2><p>Michezo yetu ni kwa ajili ya burudani na ukaribu. Haitambui ugonjwa, haipimi, haitibu, haipunguzi kasi wala kuzuia dementia au ugonjwa wa Alzheimer, na hakuna anayepaswa kuichagua kwa sababu hiyo. Tunapoandika kuhusu utafiti kwenye <a href=\"/brain-health/\">kurasa zetu za afya ya ubongo</a>, tunasema wazi mahali ambapo ushahidi ni dhaifu, na hatuuunganishi kamwe na michezo yetu wenyewe.</p><h2>Sisi ni nani</h2><p>Golden Moments ni timu ndogo huru. Sisi si madaktari. Miongozo yetu imeandikwa kutokana na mwongozo uliochapishwa na mashirika kama National Institute on Aging na Alzheimer’s Association, na kila mwongozo unaorodhesha vyanzo vyake. Soma <a href=\"/editorial-policy/\">jinsi tunavyoandika na kukagua kurasa zetu</a>.</p><h2>Tuambie ni nini kingesaidia</h2><p>Tungependa kusikia kinachokufaa na kisichokufaa, hasa kutoka kwa watu wanaoishi na dementia, walezi wa familia na wafanyakazi wa shughuli. Tuandikie barua pepe kwa <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Jinsi Tunavyoandika na Kukagua Kurasa Zetu",
+      "seoTitle": "Sera ya Uhariri",
+      "description": "Jinsi Golden Moments inavyofanya utafiti, kuandika, kutaja vyanzo na kusasisha kurasa zake za shughuli za dementia na afya ya ubongo, na tusichochapisha kamwe.",
+      "crumb": "Sera ya uhariri",
+      "bodyHtml": "<h2>Vyanzo vyetu</h2><p>Tunajenga miongozo yetu juu ya mwongozo wa umma kutoka mashirika kama National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance na NHS, na juu ya utafiti uliopitiwa na wataalamu kama mapitio ya Cochrane na majaribio makubwa ya kitabibu. Kila mwongozo unaorodhesha vyanzo unavyovitegemea. Tunafungua kila chanzo kabla ya kukitaja, na tunaripoti tu kile ambacho kinasema kweli.</p><h2>Jinsi tunavyoandika</h2><ul><li>Vitendo kwanza: cha kufanya leo, kwa lugha rahisi.</li><li>Uaminifu kuhusu ushahidi: tunasema “inahusishwa na”, “huenda” na “ushahidi ni mchanganyiko” pale ambapo huo ndio ukweli.</li><li>Heshima: tunaandika kuhusu watu wanaoishi na dementia kama watu wazima, na hatutumii kamwe lugha ya kuuliza maswali magumu au ya kuaibisha.</li><li>Hakuna maudhui ya kubuni: hakuna takwimu, nukuu, wataalamu, tafiti, maoni wala ushuhuda wa kutunga.</li></ul><h2>Nani anakagua kurasa zetu</h2><p>Kurasa zinaandikwa na kukaguliwa na timu ya Golden Moments, kwa msaada wa zana za uandishi za AI kwa utafiti na uandishi wa awali. Kila ukurasa unakaguliwa dhidi ya vyanzo vyake na timu. Kurasa zetu <strong>hazijakaguliwa</strong> na daktari wala mtaalamu mwingine wa afya, na hatudai vinginevyo. Ni taarifa za jumla, si ushauri wa kitabibu.</p><h2>Tusichochapisha kamwe</h2><ul><li>Madai kwamba mchezo, chakula, kirutubisho, kufunga au utaratibu unazuia, unatibu, unapunguza kasi au unaponya dementia.</li><li>Vipimo, maswali au alama zinazodokeza kwamba mtu ana, au hana, dementia.</li><li>Ushauri wa kuanza, kuacha au kubadilisha dawa yoyote.</li><li>Matangazo au maudhui yaliyodhaminiwa yaliyojificha kama mwongozo.</li></ul><h2>Masasisho na masahihisho</h2><p>Kila ukurasa unaonyesha tarehe ulipasasishwa mwisho. Ukikuta kosa au chanzo kilichopitwa na wakati, tafadhali tuandikie barua pepe kwa <a href=\"mailto:{email}\">{email}</a> na tutakikagua haraka.</p>"
+    },
+    "faq": {
+      "title": "Maswali na Majibu",
+      "seoTitle": "Michezo na Shughuli za Dementia: Maswali na Majibu",
+      "description": "Majibu kwa maswali ya kawaida kuhusu michezo na shughuli za dementia: michezo ya kujaribu, muda wa kucheza, hatua ya baadaye, afya ya ubongo na faragha.",
+      "crumb": "Maswali na majibu",
+      "lede": "Majibu mafupi na rahisi kwa maswali ambayo walezi huuliza zaidi.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Kuhusu michezo",
+          "items": [
+            {
+              "q": "Ni michezo gani bora kwa mtu mwenye dementia?",
+              "a": "Michezo bora ni inayojulikana, rahisi na isiyo na shinikizo, na mchezo sahihi ni ule ambao mtu anafurahia leo. Kulinganisha picha zinazoonekana, kupanga, mafumbo rahisi ya jigsaw, kukamilisha methali zinazojulikana, kupaka rangi na bingo ya picha vinafaa vizuri kwa watu wengi. Epuka saa, alama na kitu chochote kinachohisiwa kama mtihani."
+            },
+            {
+              "q": "Je, michezo ni ya bure kweli?",
+              "a": "Ndiyo. Michezo yote na vitu vya kuchapisha ni vya bure, bila akaunti, usajili, upakuaji wala matangazo."
+            },
+            {
+              "q": "Kwa nini hakuna alama, viwango wala saa?",
+              "a": "Kasi na alama hugeuza shughuli ya kupendeza kuwa mtihani, ambao unaweza kuleta aibu au kukata tamaa. Tunaweka mkazo kwenye burudani na kuwa pamoja, kwa hiyo hakuna cha kushindwa na unaweza kusimama wakati wowote."
+            },
+            {
+              "q": "Ni vifaa gani vinafaa zaidi?",
+              "a": "Simu, kompyuta kibao au kompyuta yoyote yenye kivinjari cha kisasa cha wavuti. Kompyuta kibao kwenye stendi mezani mara nyingi ndiyo njia yenye starehe zaidi kwa watu wawili kucheza kando kwa kando. Kompyuta mpakato iliyounganishwa na televisheni inafaa kwa vikundi."
+            },
+            {
+              "q": "Je, tunaweza kucheza kwa picha zetu za familia?",
+              "a": "Ndiyo. Jozi za picha za familia hugeuza picha 2 hadi 6 unazochagua kuwa mchezo wa kulinganisha. Picha zinabaki kwenye kivinjari chako na hazipakiwi mtandaoni wala kuhifadhiwa."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Shughuli na ulezi",
+          "items": [
+            {
+              "q": "Shughuli inapaswa kudumu kwa muda gani?",
+              "a": "Mara nyingi dakika 10 hadi 20 zinatosha, na wakati mwingine dakika 2 ni mafanikio. Angalia dalili za uchovu au kukata tamaa na usimame ikiwa bado inapendeza. Hakuna kiasi sahihi."
+            },
+            {
+              "q": "Itakuwaje asipotaka kufanya shughuli?",
+              "a": "Heshimu kukataa, na ujaribu tena baadaye au kwa njia nyingine. Kukataa kunaweza kutokana na uchovu, maumivu, kutokuwa na uhakika au kutovutiwa tu. Tazama mwongozo wetu kuhusu cha kufanya anaposema hapana."
+            },
+            {
+              "q": "Ni shughuli gani zinafaa dementia ya hatua ya baadaye?",
+              "a": "Faraja na hisia: kusikiliza muziki anaopenda, kusugua mikono kwa mafuta, kutazama picha pamoja, kushika blanketi laini, kukaa nje, au mchezo rahisi sana wa picha akiwa na mtu kando yake. Mwongozo wetu wa hatua ya baadaye una mawazo mengi zaidi."
+            },
+            {
+              "q": "Je, kuna shughuli za vikundi katika makazi ya wazee?",
+              "a": "Ndiyo. Bingo ya picha ina kadi za kuchapisha na mtajaji wa skrini, na Kamilisha methali pamoja na Kadi za mazungumzo zinafaa vizuri zikisomwa kwa sauti. Mwongozo wetu wa vikundi vya makazi ya wazee unashughulikia ukubwa wa kikundi, mpangilio wa viti na kurekebisha kwa uwezo tofauti."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Afya ya ubongo",
+          "items": [
+            {
+              "q": "Je, michezo inaweza kuzuia au kupunguza kasi ya dementia?",
+              "a": "Hakuna mchezo ambao umeonyeshwa kuzuia dementia, na michezo yetu haidai hivyo. Msisimko wa kufikiri katika mazingira ya kijamii umeonyesha manufaa madogo katika utafiti kwa watu wenye dementia ya kiwango cha chini hadi cha kati, lakini hilo ni tofauti na mchezo kuzuia ugonjwa. Tunatoa michezo kwa ajili ya burudani na ukaribu."
+            },
+            {
+              "q": "Je, dementia inaweza kuzuiwa?",
+              "a": "Si kwa uhakika. Utafiti unahusisha vipengele 14 vya afya na mtindo wa maisha na hatari ya dementia, kama kupoteza uwezo wa kusikia, shinikizo la juu la damu, kutofanya mazoezi na upweke. Kushughulikia vipengele hivyo kunaweza kupunguza hatari kwa baadhi ya watu, lakini watu wengi wanaofanya kila kitu sawasawa bado hupata dementia. Si kosa la mtu yeyote kamwe."
+            },
+            {
+              "q": "Je, kufunga kula kwa vipindi ni vizuri kwa afya ya ubongo?",
+              "a": "Ushahidi kwa binadamu ni mdogo na wa awali, na utafiti mwingi ni kwa wanyama. Kufunga kunaweza kuwa hatari kwa wazee, hasa wanaotumia dawa za kisukari au wanaopungua uzito bila kukusudia, na hakupendekezwi kwa watu wanaoishi na dementia. Zungumza na daktari kabla ya kubadilisha jinsi unavyokula."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Faragha na usalama",
+          "items": [
+            {
+              "q": "Je, mnakusanya taarifa zozote?",
+              "a": "Hakuna akaunti wala matangazo. Tunatumia Google Analytics kuhesabu ziara na kuona ni kurasa gani zinasaidia, na kivinjari chako kinakumbuka ikiwa uliwasha sauti laini. Picha unazochagua kwa Jozi za picha za familia hazipakiwi mtandaoni kamwe. Tazama tangazo la faragha kwa maelezo."
+            },
+            {
+              "q": "Je, huu ni ushauri wa kitabibu?",
+              "a": "Hapana. Golden Moments ni kwa ajili ya burudani na taarifa za jumla. Kwa maswali ya afya, zungumza na daktari, na kwa dharura piga nambari ya dharura ya eneo lako."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Maelezo zaidi: <a href=\"/caregiving/how-to-play-together/\">jinsi ya kucheza pamoja</a>, <a href=\"/caregiving/when-they-say-no/\">anaposema hapana</a>, <a href=\"/activities/late-stage/\">shughuli za hatua ya baadaye</a> na <a href=\"/brain-health/can-dementia-be-prevented/\">je, dementia inaweza kuzuiwa?</a>"
+    },
+    "handout": {
+      "title": "Michezo ya Bure na ya Taratibu kwa Watu Wanaoishi na Dementia",
+      "seoTitle": "Karatasi ya Kuchapisha: Michezo ya Bure ya Dementia Mtandaoni",
+      "description": "Karatasi ya ukurasa mmoja ya kuchapisha kwa familia na walezi kuhusu michezo ya bure na ya taratibu ya picha kwa watu wanaoishi na dementia.",
+      "crumb": "Karatasi ya kuchapisha",
+      "lede": "Chapisha ukurasa huu kwa kikundi cha msaada, mfuko wa huduma au mlango wa jokofu. Tumia amri ya Chapisha ya kivinjari chako; menyu na vitufe havitaonekana kwenye karatasi.",
+      "introHtml": "<p>Picha kubwa, maneno rahisi na hakuna cha kushindwa. Bure kwenye simu, kompyuta kibao au kompyuta, bila usajili, matangazo, saa wala alama. Kaeni kando kwa kando na mgusane kwa zamu.</p>",
+      "gamesTitle": "Michezo ya kujaribu pamoja",
+      "restHtml": "<h2>Vidokezo vichache</h2><ul><li>Chagua wakati wa siku ambapo mtu huyo yuko katika hali yake nzuri zaidi.</li><li>Anza na mpangilio rahisi zaidi. Kadi nne zinatosha.</li><li>Zungumzieni picha. Mazungumzo mara nyingi ndiyo sehemu bora zaidi.</li><li>Simameni ikiwa bado inapendeza. Kumaliza mapema ni matokeo mazuri.</li></ul><h2>Pia kwenye tovuti</h2><ul><li>Vitu vya bure vya kuchapisha: fumbo la maneno la herufi kubwa, kurasa za kupaka rangi, kadi za mazungumzo na bingo ya picha.</li><li>Mawazo ya shughuli kwa kila hatua, na miongozo ya kucheza pamoja na ya kujitunza.</li></ul><p class=\"muted\">Kwa burudani na kuwa pamoja. Si ushauri wa kitabibu, kipimo wala matibabu. Golden Moments imechapishwa na Cloudjet Solutions Pte. Ltd.</p>"
+    },
+    "organizations": {
+      "title": "Kwa Makazi ya Wazee, Maktaba na Vikundi vya Msaada",
+      "seoTitle": "Shughuli za Bure za Dementia kwa Makazi ya Wazee na Vikundi",
+      "description": "Jinsi makazi ya wazee, vituo vya mchana, maktaba na vikundi vya msaada vinavyotumia michezo yetu ya bure ya dementia, na maandishi ya kutuongeza kwenye orodha.",
+      "crumb": "Kwa mashirika",
+      "lede": "Kila kitu kwenye tovuti hii ni bure kutumia na wakazi, wanachama na wateja, bila akaunti, leseni wala ada. Ukurasa huu unaeleza kilichopo na jinsi ya kukishiriki.",
+      "shortText": "{name}: michezo ya bure na ya taratibu ya picha na miongozo ya shughuli kwa watu wanaoishi na dementia na walezi wao. Bila usajili, saa wala alama.",
+      "longText": "{name} ({domain}) inatoa michezo {count} ya bure ya kivinjari iliyotengenezwa kwa watu wanaoishi na dementia, ikiwemo jozi za kulinganisha zenye picha zinazoendelea kuonekana, jigsaw rahisi, kupanga, methali zinazojulikana na bingo ya picha yenye kadi za kuchapisha. Hakuna akaunti, matangazo, saa wala alama. Tovuti pia ina miongozo ya shughuli kwa lugha rahisi kwa kila hatua ya dementia inayotaja National Institute on Aging na Alzheimer’s Association.",
+      "useTitle": "Kile ambacho mashirika yanaweza kutumia",
+      "gamesItemHtml": "<strong>Michezo {count} ya kivinjari</strong> inayofanya kazi kwenye kompyuta mpakato, kompyuta kibao au televisheni iliyounganishwa na kompyuta. Bila kusakinisha, akaunti wala upakuaji. Tazama <a href=\"/games/\">michezo yote</a>.",
+      "printablesLabel": "Vitu {count} vya kuchapisha:",
+      "printablesAfter": "Tumia kitufe cha Chapisha kwenye kila ukurasa.",
+      "moreItemsHtml": "<li><strong>Miundo ya vikundi:</strong> <a href=\"/games/picture-bingo/\">Bingo ya picha</a> ina kadi za kuchapisha na mtajaji wa skrini, na <a href=\"/activities/trivia/\">maswali rahisi ya maarifa</a> yana maswali 50 yenye machaguo ya majibu na hoja za kuzungumzia.</li><li><strong>Miongozo ya shughuli</strong> kwa wafanyakazi na familia, kwa hatua na kwa aina, iliyoandikwa kwa lugha rahisi pamoja na vyanzo. Anzia na <a href=\"/activities/ideas/\">mawazo 101 ya shughuli</a> au <a href=\"/activities/care-home-groups/\">shughuli za vikundi kwa makazi ya wazee</a>.</li>",
+      "restHtml": "<h2>Jinsi vikundi vinavyoitumia</h2><ul><li><strong>Makazi ya wazee na vituo vya huduma ya kumbukumbu:</strong> bingo ya picha au kukamilisha methali kwenye televisheni ya chumba cha pamoja, huku mtu mmoja akigusa kwa niaba ya kikundi.</li><li><strong>Vituo vya mchana vya watu wazima:</strong> kituo cha kompyuta kibao chenye Jozi za picha kwa kadi nne, kwa vipindi vifupi vya mtu mmoja mmoja.</li><li><strong>Maktaba za umma:</strong> mafumbo ya maneno yaliyochapishwa na kadi za mazungumzo kwenye mifuko ya kumbukumbu, na tovuti ikiwekwa alama kwenye kompyuta kibao za maktaba.</li><li><strong>Vikundi vya msaada kwa walezi:</strong> <a href=\"/handout/\">karatasi ya ukurasa mmoja ya kuchapisha</a> ya familia kuchukua nyumbani.</li><li><strong>Hospitali na wapangaji wa kuruhusiwa kutoka hospitalini:</strong> karatasi hiyo kwenye mifuko ya walezi, kwa jambo tulivu la kufanya nyumbani au kando ya kitanda.</li></ul><h2>Tusichofanya</h2><p>Michezo ni kwa ajili ya burudani na kuwa pamoja. Haitambui ugonjwa, haipimi, haitoi alama, haitibu wala kupunguza kasi ya dementia, na tunaomba mashirika yasiieleze hivyo. Hakuna matangazo, na michezo haiombi majina, taarifa za afya wala picha zipakiwe mtandaoni. Tovuti inatumia Google Analytics kuhesabu ziara; <a href=\"/privacy/\">tangazo letu la faragha</a> linaeleza kinachokusanywa. Picha zinazotumika kwenye <a href=\"/games/photo-pairs/\">Jozi za picha za familia</a> zinabaki kwenye kivinjari.</p><h2>Tuongeze kwenye orodha yenu ya rasilimali</h2><p>Ikiwa mna orodha ya rasilimali kwa walezi, mnakaribishwa kuweka kiungo cha <a href=\"/\">{domain}</a>. Mnaweza kunakili maelezo yoyote kati ya haya.</p>",
+      "shortTitle": "Maelezo mafupi",
+      "longTitle": "Maelezo marefu zaidi",
+      "linksHtml": "<p>Kurasa muhimu za kuunganisha moja kwa moja: <a href=\"/games/\">michezo ya bure</a>, <a href=\"/activities/printable/\">vitu vya bure vya kuchapisha</a>, <a href=\"/activities/alzheimers/\">shughuli kwa Alzheimer</a> na <a href=\"/caregiving/how-to-play-together/\">jinsi ya kucheza pamoja</a>.</p><h2>Maswali au masahihisho</h2><p>Ikiwa kitu kwenye tovuti si sahihi au hakieleweki, au mahitaji ya mkazi hayatimizwi na kilichopo hapa, tafadhali tuambie kupitia <a href=\"mailto:{email}\">{email}</a>. Tafadhali msitume taarifa za kibinafsi au za afya kuhusu wakazi au wateja.</p>"
+    },
+    "app": {
+      "title": "Programu ya Golden Moments",
+      "seoTitle": "Programu ya Golden Moments kwa iPhone na Android",
+      "description": "Programu ya bure ya Golden Moments: kulinganisha picha kwa taratibu kwa kadi nne kubwa, picha za familia kwenye kifaa chako, vifurushi vya picha bila mtandao.",
+      "crumb": "Programu",
+      "lede": "Kila unachopenda kuhusu tovuti, ndani ya programu inayofanya kazi bila mtandao na inayoweza kutumia picha za familia ulizochagua.",
+      "worksOn": "Inafanya kazi kwenye {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Anza kidogo</h2><p>Anza na kadi nne kubwa na picha zinazojulikana. Acha picha zionekane, au zifiche inapohisiwa kuwa sawa. Hali ya taratibu haina saa, alama wala adhabu. Chagua kadi 4, 6, 8 au 12.</p><h2>Ifanye iwe yenu</h2><p>Chagua picha za familia kwa kichagua picha cha kifaa chako. Programu inahifadhi nakala ndogo zaidi kwa ajili ya shughuli zake. Haikagui maktaba yako wala kubadilisha picha zako halisi, na inaweza kuweka hadi picha 24 kwenye mkusanyiko mmoja.</p><h2>Tazameni pamoja tu</h2><p>Tazama picha moja kwa wakati. Maswali ya hiari yanakaribisha mazungumzo bila kumwomba mtu yeyote akumbuke majina au atoe jibu sahihi. Kutazama tu kunatosha.</p><h2>Bila mtandao pale inapohitajika</h2><p>Picha za kuanzia na vifurushi vyote nane vya picha vimo ndani ya programu. Nakala za picha zilizoingizwa zinafanya kazi bila mtandao. Kuchagua picha halisi zilizohifadhiwa kwenye iCloud pekee kunaweza kuhitaji muunganisho wa intaneti.</p><h2>Hakuna akaunti, hakuna seva ya kusawazisha picha</h2><p>Nakala za picha za familia zinabaki ndani ya programu kwenye kifaa. Unaweza kuondoa nakala bila kufuta picha halisi. Nakala rudufu za kifaa zinaweza kujumuisha data ya programu. Soma <a href=\"/app-privacy/\">sera ya faragha ya programu</a>, na <a href=\"/help/\">msaada wa programu</a> unaeleza kila hatua.</p>",
+      "disclaimer": "Golden Moments ni kwa ajili ya burudani na mazungumzo ya pamoja. Haitambui ugonjwa, haitibu, haizuii wala haipimi dementia au ugonjwa wa Alzheimer.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Michezo ya Bure ya Dementia na Alzheimer Mtandaoni",
+    "description": "Michezo ya bure mtandaoni kwa wazee wenye dementia au Alzheimer: kulinganisha picha, jigsaw, kupanga, methali, kupaka rangi, bingo. Bila usajili wala alama.",
+    "crumb": "Michezo",
+    "h1": "Michezo ya Taratibu kwa Watu Wenye Dementia",
+    "lede": "Michezo {count} ya bure ya kucheza pamoja kwenye kivinjari chenu. Picha kubwa, maneno rahisi, na hakuna cha kushindwa: bila saa, bila alama, bila usajili.",
+    "listName": "Michezo ya taratibu kwa watu wenye dementia",
+    "byStageTitle": "Kuchagua mchezo kwa hatua",
+    "byStageLede": "Hatua ni mwongozo wa kukadiria tu. Fuata anachofurahia mtu huyo na kinachostarehesha leo.",
+    "stageCol": "Hatua",
+    "gamesCol": "Michezo inayofaa mara nyingi",
+    "moreHtml": "Mawazo zaidi mbali na skrini: <a href=\"/activities/ideas/\">shughuli 101 kwa watu wenye dementia</a>, <a href=\"/activities/alzheimers/\">shughuli na michezo kwa Alzheimer</a>, <a href=\"/activities/memory-games/\">michezo ya taratibu ya kumbukumbu</a> na <a href=\"/activities/puzzles/\">mafumbo</a>.",
+    "faq": [
+      {
+        "q": "Tuanze na mchezo gani?",
+        "a": "Jozi za picha kwa kadi nne ni chaguo la kwanza lenye utulivu. Ikiwa kuchagua kati ya picha kunaonekana kuwa mzigo, jaribu Tafuta inayofanana kwa picha mbili. Kwa kikundi, jaribu Bingo ya picha."
+      },
+      {
+        "q": "Je, michezo inafanya kazi kwenye iPad au simu?",
+        "a": "Ndiyo. Kila mchezo unafanya kazi kwenye kivinjari kwenye simu, kompyuta kibao na kompyuta, na picha zinakua kujaza skrini. Kompyuta kibao kwenye stendi mara nyingi ndiyo yenye starehe zaidi kwa watu wawili."
+      },
+      {
+        "q": "Je, michezo hii inafaa kwa mtu mwenye Alzheimer?",
+        "a": "Ndiyo. Ilitengenezwa kwa watu wanaoishi na dementia, ikiwemo Alzheimer, chanzo cha kawaida zaidi. Picha zinaendelea kuonekana, kuna machaguo machache tu, na hakuna kinachowekewa saa wala alama, kwa hiyo michezo inategemea kutambua vitu vinavyojulikana badala ya kukumbuka vipya."
+      },
+      {
+        "q": "Je, hii ni michezo ya kumbukumbu kwa wazee?",
+        "a": "Ni michezo ya kulinganisha na ya picha ambayo mtu mzima yeyote anaweza kufurahia, lakini imejengwa isipime kumbukumbu: katika Jozi za picha, picha zinabaki wazi isipokuwa mkichagua vinginevyo. Mwongozo wetu wa michezo ya kumbukumbu kwa wazee wenye dementia unaeleza jinsi ya kuweka mchezo wowote wa kumbukumbu uwe wa taratibu."
+      },
+      {
+        "q": "Je, kuna michezo kwa vikundi katika makazi ya wazee?",
+        "a": "Ndiyo. Bingo ya picha ina kadi za kuchapisha na mtajaji wa skrini, na Kamilisha methali pamoja na Kadi za mazungumzo zinafaa vizuri zikisomwa kwa sauti kwa kikundi."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad na Android",
+    "requirements": "iOS 15 au toleo jipya zaidi; Android 7.0 au toleo jipya zaidi",
+    "summary": "Programu ya bure ya iPhone, iPad na Android yenye kulinganisha picha kwa taratibu kwenye kadi nne hadi kumi na mbili kubwa, kulinganisha na kutazama kwa picha za familia ulizochagua, na vifurushi nane vya picha vilivyomo vinavyofanya kazi bila intaneti. Bila akaunti, matangazo, saa wala alama.",
+    "features": [
+      "Kulinganisha picha kwa taratibu kwa kadi 4, 6, 8 au 12 kubwa; picha zinaendelea kuonekana isipokuwa uchague kuzificha",
+      "Picha za familia unazochagua zinanakiliwa ndani ya programu kwa kulinganisha na kutazama pamoja",
+      "Tazameni pamoja: picha moja kwa wakati yenye maswali ya hiari ya mazungumzo",
+      "Vifurushi nane vya picha vimo ndani ya programu; vinafanya kazi bila mtandao",
+      "Bila akaunti, matangazo, ununuzi ndani ya programu, saa, alama wala adhabu"
+    ],
+    "faq": [
+      {
+        "q": "Je, kuna programu ya shughuli za dementia?",
+        "a": "Ndiyo. Golden Moments (inayoonekana kama “{storeName}”) ni bure kwenye App Store na Google Play. Inatoa kulinganisha picha kwa taratibu kwa kadi kubwa, michezo yenye picha za familia ulizochagua, na vifurushi vya picha vinavyofanya kazi bila mtandao."
+      },
+      {
+        "q": "Je, programu ya Golden Moments ni bure?",
+        "a": "Ndiyo. Ni bure kupakua, bila matangazo, akaunti wala ununuzi ndani ya programu."
+      },
+      {
+        "q": "Je, programu inafanya kazi bila intaneti?",
+        "a": "Ndiyo. Picha za kuanzia na vifurushi vyote nane vya picha vimo ndani ya programu, na picha za familia zinafanya kazi bila mtandao zikishanakiliwa ndani ya programu. Kuchagua picha iliyohifadhiwa kwenye iCloud pekee kunaweza kuhitaji muunganisho."
+      },
+      {
+        "q": "Je, ninaweza kutumia picha zetu za familia?",
+        "a": "Ndiyo. Chagua picha kwa kichagua picha cha kifaa chako. Programu inahifadhi nakala ndogo zaidi kwenye kifaa kwa ajili ya shughuli zake, haizipakii mtandaoni na haibadilishi picha halisi kamwe. Unaweza kuondoa nakala wakati wowote."
+      },
+      {
+        "q": "Je, ni programu ya mazoezi ya ubongo au kipimo cha kumbukumbu?",
+        "a": "Hapana. Golden Moments ni kwa ajili ya burudani na kuwa pamoja. Haina alama wala vipimo, na haitambui ugonjwa, haitibu, haizuii wala haipimi dementia au ugonjwa wa Alzheimer."
+      },
+      {
+        "q": "Inafanya kazi kwenye vifaa gani?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Je, kuna toleo la programu la mchezo huu?",
+      "a": "Ndiyo. Programu ya bure ya Golden Moments ya iPhone, iPad na Android ina kulinganisha picha kwa taratibu kule kule, inaweza kutumia picha za familia ulizochagua, na inafanya kazi bila mtandao. Bila akaunti, matangazo wala alama."
+    },
+    "gameFaqNo": {
+      "q": "Je, kuna toleo la programu la mchezo huu?",
+      "a": "Si la mchezo huu. Programu ya bure ya Golden Moments ya iPhone, iPad na Android ina kulinganisha picha kwa taratibu kwa kadi kubwa na picha za familia ulizochagua, na inafanya kazi bila mtandao. Mchezo huu unabaki bure hapa kwenye kivinjari chako."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: picha kubwa na za kirafiki",
+    "noscript": "Mchezo huu unahitaji JavaScript iwashwe kwenye kivinjari chako. Vidokezo vilivyo hapa chini vinafanya kazi bila hiyo.",
+    "about": "Kuhusu {name}",
+    "aboutAria": "Kuhusu mchezo huu",
+    "noTimer": "Bila saa wala alama",
+    "printable": "Ya kuchapisha",
+    "howTo": "Jinsi ya kucheza {name}",
+    "tips": "Vidokezo vya kucheza pamoja",
+    "newToPlayingHtml": "Mpya kwenye kucheza na mtu mwenye dementia? Soma <a href=\"/caregiving/how-to-play-together/\">jinsi ya kucheza michezo pamoja</a>, ikiwemo cha kufanya akipoteza hamu.",
+    "moreAria": "Zaidi ya kuchunguza",
+    "helpfulGuides": "Miongozo yenye msaada",
+    "appTitle": "Cheza kwenye programu",
+    "appText": "Programu ya bure ya Golden Moments ina kulinganisha picha kwa taratibu kwa kadi kubwa na picha zako za familia, na inafanya kazi bila Wi‑Fi. iPhone, iPad na Android.",
+    "photoAppTitle": "Weka picha zako tayari",
+    "photoAppText": "Kwenye programu ya bure ya Golden Moments, picha unazochagua zinabaki kwenye kifaa chako kwa wakati ujao, na michezo inafanya kazi bila Wi‑Fi. iPhone, iPad na Android.",
+    "goodToKnow": "Vizuri kujua",
+    "goodToKnowText": "Mchezo huu ni kwa ajili ya burudani na kuwa pamoja. Haupimi, hauhesabu wala kutibu chochote.",
+    "moreGames": "Michezo zaidi ya taratibu",
+    "crumb": "Michezo"
+  }
+}

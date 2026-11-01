@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Mga Hayop",
+      "description": "Mga kaibig-ibig at magiliw na hayop mula sa buong mundo"
+    },
+    "nature": {
+      "name": "Kalikasan",
+      "description": "Magagandang tanawin at tagpo ng kalikasan"
+    },
+    "food": {
+      "name": "Pagkain",
+      "description": "Masasarap na putahe at pagkain"
+    },
+    "vintage": {
+      "name": "Mga Kotse",
+      "description": "Mga kotse at trak na maaaring tingnan at pag-usapan"
+    },
+    "flowers": {
+      "name": "Mga Bulaklak",
+      "description": "Magagandang bulaklak at tagpo sa hardin"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Mga Hayop sa Bukid",
+      "description": "Mga magiliw na hayop sa bukid, tulad ng pagbisita sa probinsya.",
+      "theme": "Buhay sa Bukid",
+      "images": {
+        "cow_1": "Magiliw na baka",
+        "pig_1": "Baboy",
+        "chicken_1": "Tandang",
+        "buffalo_1": "Kalabaw",
+        "horse_1": "Magandang kabayo",
+        "duck_1": "Pamilya ng mga itik",
+        "goat_1": "Mausisang kambing",
+        "rabbit_1": "Kuneho"
+      }
+    },
+    "nature_mountains": {
+      "title": "Tanawin ng mga Bundok",
+      "description": "Mga kahanga-hangang tanawin ng kabundukan",
+      "theme": "Ganda ng Kalikasan",
+      "images": {
+        "mountain_1": "Mga taluktok na may niyebe",
+        "mountain_2": "Bundok Fuji",
+        "mountain_3": "Lambak sa kabundukan",
+        "mountain_4": "Mabatong tuktok",
+        "mountain_5": "Mga burol na may gubat",
+        "mountain_6": "Mga bundok na may hamog"
+      }
+    },
+    "vintage_cars": {
+      "title": "Mga Kotse at Trak",
+      "description": "Makikintab na kotse at trak na maaaring tingnan at pag-usapan",
+      "theme": "Sa Daan",
+      "images": {
+        "vintage_car_1": "Kahel na Audi sa paglubog ng araw",
+        "vintage_car_2": "Asul na sports car sa disyerto",
+        "vintage_car_3": "Pilak na Bugatti",
+        "vintage_car_4": "Itim na Porsche sa kalsada",
+        "vintage_car_5": "Kahel na BMW sa kalyeng may mga palma",
+        "vintage_car_6": "Asul na coupe sa tabi ng garahe",
+        "vintage_car_7": "Berdeng pickup truck",
+        "vintage_car_8": "Puting SUV sa gitna ng mapupulang bato",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Asul na kotse na may puting guhit"
+      }
+    },
+    "animals_safari": {
+      "title": "Mga Hayop sa Safari",
+      "description": "Mga marangal na hayop mula sa mga safari sa Africa",
+      "theme": "Mga Hayop sa Ligaw",
+      "images": {
+        "lion_1": "Marangal na leon",
+        "elephant_2": "Elepanteng Aprikano",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Zebra na may guhit",
+        "rhino_5": "Malakas na rhinoceros",
+        "cheetah_6": "Mabilis na cheetah",
+        "fox_7": "Kayumangging soro",
+        "bear_8": "Polar bear",
+        "turtle_9": "Kayumangging pagong",
+        "squirrel_10": "Kayumangging ardilya",
+        "macaw_11": "Dilaw at asul na macaw",
+        "tiger_12": "Tigre",
+        "raccoon_13": "Raccoon",
+        "wolf_14": "Abuhing lobo",
+        "crocodile_15": "Buwaya",
+        "peacock_16": "Magandang paboreal"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Masasarap na Panghimagas",
+      "description": "Ilang masasarap na panghimagas para sa mga kainan ninyo.",
+      "theme": "Matatamis na panghimagas",
+      "images": {
+        "pastries_1": "Apat na pastry",
+        "oreo_cookie_sandwiches_2": "Oreo cookie sandwich",
+        "crepe_3": "Crepe",
+        "pancake_4": "Pancake",
+        "macarons_5": "Macaron",
+        "caramel_cake_6": "Caramel cake"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Mga Bulaklak ng Tropiko",
+      "description": "Tuklasin ang makulay na ganda ng tropiko sa paketeng ito ng mga kakaibang bulaklak.",
+      "theme": "Mga Bulaklak ng Tropiko",
+      "images": {
+        "hibiscus_1": "Pulang gumamela",
+        "frangipani_2": "Pula at puting frangipani",
+        "sunflower_3": "Mirasol",
+        "hydrangea_4": "Puting hydrangea",
+        "rose_5": "Rosas",
+        "chrysanthemum_6": "Krisantemo",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Pistang Street Food",
+      "description": "Tuklasin ang makulay na mundo ng street food sa paketeng ito ng masasarap na meryenda mula sa buong mundo.",
+      "theme": "Street Food",
+      "images": {
+        "taco_1": "Taco ng Mexico",
+        "ramen_2": "Ramen ng Japan",
+        "dumplings_3": "Dumpling ng China",
+        "samosa_4": "Samosa ng India",
+        "pizza_5": "Hiwa ng pizza mula sa Italya",
+        "crepe_6": "Crepe ng France",
+        "satay_7": "Satay na tuhog ng Thailand",
+        "burger_8": "Burger ng Amerika",
+        "bao_9": "Pinasingaw na bao",
+        "takoyaki_10": "Takoyaki ng Japan"
+      }
+    },
+    "nature_landscape": {
+      "title": "Tanawin ng Kalikasan",
+      "description": "Mga payapa at magagandang tagpo ng kalikasan na dahan-dahang tingnan at pag-usapan nang magkasama.",
+      "theme": "Mga Tanawin ng Kalikasan",
+      "images": {
+        "mountain_1": "Hanay ng mga bundok",
+        "forest_2": "Kagubatang may hamog",
+        "lake_3": "Lawa sa bundok",
+        "desert_4": "Mga buhanginan sa disyerto",
+        "waterfall_5": "Talon",
+        "beach_6": "Mabuhanging dalampasigan",
+        "river_7": "Umaagos na ilog",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Langit sa paglubog ng araw",
+        "snow_mountain_10": "Bundok na may niyebe",
+        "flowers_11": "Mga ligaw na bulaklak",
+        "rainforest_12": "Rainforest",
+        "iceberg_13": "Iceberg",
+        "volcano_14": "Bulkan",
+        "cliff_15": "Talampas sa tabing-dagat",
+        "aurora_16": "Aurora Borealis",
+        "savannah_17": "Savanna",
+        "coral_reef_18": "Bahura ng korales"
+      }
+    }
+  }
+}

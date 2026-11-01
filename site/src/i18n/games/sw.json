@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Jozi za picha",
+    "seoTitle": "Mchezo wa Kulinganisha kwa Dementia: Jozi za Picha",
+    "h1": "Jozi za Picha: Mchezo wa Taratibu wa Kulinganisha",
+    "description": "Mchezo wa bure wa kulinganisha kwa watu wanaoishi na dementia. Picha kubwa zinaonekana, hakuna saa wala alama, na unachagua kadi 4 hadi 12.",
+    "short": "Tafuta picha mbili zinazofanana. Picha zinaweza kuendelea kuonekana.",
+    "players": "Watu 1 au 2, wakikaa kando kwa kando",
+    "intro": "Gusa picha, kisha gusa ile inayolingana nayo. Kwa kawaida picha huendelea kuonekana, kwa hiyo hakuna cha kukumbuka. Picha mbili zinapolingana hupata ukingo wa dhahabu na alama ya tiki.",
+    "howTo": [
+      "Chagua idadi ya kadi za kutumia. Kadi nne ni mwanzo mtulivu.",
+      "Gusa picha yoyote. Itapata ukingo wa dhahabu.",
+      "Gusa picha inayofanana nayo. Jozi hubaki pamoja na alama ya tiki.",
+      "Ikiwa picha hizo mbili ni tofauti, hakuna jambo baya linalotokea. Gusa tena wakati wowote ukiwa tayari.",
+      "Washa “Picha zimefichwa” tu ikiwa nyote mnapenda toleo la kawaida la kadi zilizogeuzwa chini."
+    ],
+    "tips": [
+      "Tajeni picha kwa sauti pamoja na mzungumze kuzihusu: “Kikombe chekundu cha chai. Unapenda chai yako na maziwa?”",
+      "Mwache mtu unayemhudumia agushe mwenyewe, hata ikichukua muda. Onyesha kwa kidole badala ya kugusa kwa niaba yake.",
+      "Endeleeni na kadi nne kwa muda mrefu kadri inavyopendeza. Kadi nyingi zaidi ni chaguo, si kiwango cha kufikia.",
+      "Malizeni ukiwa bado mnafurahia. Mchezo mmoja ni shughuli kamili."
+    ],
+    "faq": [
+      {
+        "q": "Je, kuna saa au alama?",
+        "a": "Hapana. Hakuna saa, alama, hesabu ya mgusano wala kushindwa. Unaweza kusimama wakati wowote, na kusimama katikati ni njia nzuri kabisa ya kumaliza."
+      },
+      {
+        "q": "Kwa nini picha zinaachwa zionekane?",
+        "a": "Kuacha picha zionekane kunafanya mchezo uwe wa kutazama na kulinganisha badala ya kukumbuka. Watu wengi wanaona hii ni tulivu zaidi. Unaweza kubadili kuwa picha zilizofichwa kwa mguso mmoja ukipenda."
+      },
+      {
+        "q": "Je, ni bure, na ni lazima nijisajili?",
+        "a": "Ndiyo, ni bure, na hakuna akaunti, usajili wala upakuaji. Inafanya kazi kwenye kivinjari cha wavuti kwenye simu, kompyuta kibao au kompyuta."
+      },
+      {
+        "q": "Je, tunaweza kutumia picha zetu za familia?",
+        "a": "Ndiyo. Jaribu Jozi za picha za familia, ambazo hukuruhusu kuchagua picha kutoka kwenye kifaa chako. Picha zinabaki kwenye kivinjari chako na hazipakiwi mtandaoni."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Tafuta inayofanana",
+    "seoTitle": "Tafuta Picha Inayofanana: Mchezo Rahisi wa Dementia",
+    "h1": "Tafuta Picha Inayofanana",
+    "description": "Picha moja juu, mbili hadi nne chini. Gusa ile inayofanana. Mchezo tulivu na wa bure wa picha kwa watu wanaoishi na dementia, bila saa.",
+    "short": "Tazama picha ya juu na ugushe ile inayofanana iliyo chini.",
+    "players": "Watu 1 au 2",
+    "intro": "Picha moja iko juu ya skrini. Chini yake kuna picha mbili, tatu au nne. Gusa ile inayofanana. Ni chaguo moja rahisi kwa wakati mmoja, na nafasi nyingi ya kuzungumza.",
+    "howTo": [
+      "Chagua picha mbili, tatu au nne za kuchagua kati yake. Mbili ndizo rahisi zaidi.",
+      "Tazameni picha ya juu pamoja.",
+      "Gusa picha inayofanana iliyo chini. Itawekewa alama ya tiki na maneno machache ya upole.",
+      "Ikiguswa picha tofauti, mchezo unaitaja tu na kusubiri. Chukueni muda wenu.",
+      "Gusa “Picha inayofuata” ukiwa tayari kwa nyingine."
+    ],
+    "tips": [
+      "Zungumzieni kila picha kabla ya kuchagua: rangi, maumbo, mahali ambapo mngeweza kuiona.",
+      "Chaguo mbili si “rahisi mno”. Lengo ni kuwa na wakati mzuri, si changamoto.",
+      "Ikiwa kugusa ni vigumu, mtu huyo anaweza kuonyesha kwa kidole na wewe ukagusa kwa niaba yake."
+    ],
+    "faq": [
+      {
+        "q": "Je, kuna saa au alama?",
+        "a": "Hapana. Hakuna saa, alama, hesabu ya mgusano wala kushindwa. Unaweza kusimama wakati wowote, na kusimama katikati ni njia nzuri kabisa ya kumaliza."
+      },
+      {
+        "q": "Nini hutokea ikiguswa picha isiyo sahihi?",
+        "a": "Hakuna kisichopendeza. Hakuna kengele kali, alama nyekundu wala kutetemeka. Mchezo unataja picha iliyoguswa na kusubiri mguso unaofuata."
+      },
+      {
+        "q": "Je, ni bure, na ni lazima nijisajili?",
+        "a": "Ndiyo, ni bure, na hakuna akaunti, usajili wala upakuaji. Inafanya kazi kwenye kivinjari cha wavuti kwenye simu, kompyuta kibao au kompyuta."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Kulinganisha vivuli",
+    "seoTitle": "Mchezo wa Vivuli kwa Dementia: Bure Mtandaoni",
+    "h1": "Kulinganisha Vivuli: Mchezo wa Taratibu wa Picha",
+    "description": "Kivuli cheusi juu, picha mbili hadi nne chini. Gusa picha inayotengeneza kivuli. Mchezo tulivu wa bure wa vivuli kwa dementia, bila saa.",
+    "short": "Tazama kivuli na ugushe picha inayokitengeneza.",
+    "players": "Watu 1 au 2",
+    "intro": "Kulinganisha vivuli ni shughuli inayojulikana kutoka karatasi za kuchapishwa, hapa ikiwa na picha kubwa na bila cha kuchapisha. Kivuli laini kiko juu ya skrini na picha mbili, tatu au nne zinasubiri chini. Gusa ile inayotengeneza kivuli. Maumbo kama baiskeli, mwavuli au kikombe cha chai ni rahisi kuzungumzia pia.",
+    "howTo": [
+      "Chagua picha mbili, tatu au nne za kuchagua kati yake. Mbili ndizo rahisi zaidi.",
+      "Tazameni kivuli pamoja. Kina umbo gani? Ni kirefu au cha duara?",
+      "Gusa picha inayotengeneza kivuli. Jina lake linaonekana chini ya kivuli.",
+      "Ikiguswa picha tofauti, mchezo unaitaja tu na kusubiri. Chukueni muda wenu.",
+      "Gusa “Kivuli kinachofuata” ukiwa tayari kwa kingine."
+    ],
+    "tips": [
+      "Fuateni mstari wa nje wa kivuli kwa kidole na mzungumze kuhusu umbo.",
+      "Ikiwa vivuli vinaonekana vigumu leo, badilisheni kwenda Tafuta inayofanana, ambapo picha zinafanana.",
+      "Zungumzieni picha mara itakapopatikana: “Tulikuwa na mwavuli kama huo.”"
+    ],
+    "faq": [
+      {
+        "q": "Je, kuna saa au alama?",
+        "a": "Hapana. Hakuna saa, alama, hesabu ya mgusano wala kushindwa. Unaweza kusimama wakati wowote, na kusimama katikati ni njia nzuri kabisa ya kumaliza."
+      },
+      {
+        "q": "Je, kulinganisha vivuli kunafaa kwa watu wenye dementia?",
+        "a": "Kwa baadhi ya watu inaweza kuwa shughuli rahisi na ya kupendeza, hasa katika hatua za mwanzo. Maumbo ni rahisi kutambua kuliko maneno. Ni kwa ajili ya burudani na mazungumzo, si kipimo, na haitibu wala kupunguza kasi ya dementia. Ikisababisha kukata tamaa, jaribuni Tafuta inayofanana au mtazame tu picha pamoja."
+      },
+      {
+        "q": "Nini hutokea ikiguswa picha isiyo sahihi?",
+        "a": "Hakuna kisichopendeza. Hakuna kengele kali, alama nyekundu wala kutetemeka. Mchezo unataja picha iliyoguswa na kusubiri mguso unaofuata."
+      },
+      {
+        "q": "Je, ni bure, na ni lazima nijisajili?",
+        "a": "Ndiyo, ni bure, na hakuna akaunti, usajili wala upakuaji. Inafanya kazi kwenye kivinjari cha wavuti kwenye simu, kompyuta kibao au kompyuta."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Panga pamoja",
+    "seoTitle": "Mchezo wa Kupanga kwa Dementia: Panga Pamoja",
+    "h1": "Panga Pamoja: Shughuli ya Kupanga Picha",
+    "description": "Gusa picha, kisha gusa kikapu inapostahili: jikoni au bustanini, matunda au wanyama. Shughuli tulivu na ya bure ya kupanga kwa watu wanaoishi na dementia.",
+    "short": "Weka kila picha kwenye kikapu chake: jikoni au bustanini, na zaidi.",
+    "players": "Watu 1 au 2",
+    "intro": "Kupanga ni kazi ya kila siku inayojulikana na ya kuridhisha, kama kuweka vyakula kwenye kabati au kuoanisha soksi. Gusa picha, kisha gusa kikapu inapostahili. Hakuna haraka wala kosa la kuogopa.",
+    "howTo": [
+      "Chagua mada: jikoni na bustanini, matunda na wanyama, au nyumbani na safarini.",
+      "Gusa picha. Itapata ukingo wa dhahabu.",
+      "Gusa kikapu inapostahili. Picha itahamia kwenye kikapu hicho.",
+      "Ikiwa inastahili kikapu kingine, mchezo unasema hivyo kwa upole na kusubiri.",
+      "Picha zote zikishapangwa, tazameni vikapu pamoja."
+    ],
+    "tips": [
+      "Katika maisha halisi mara nyingi hakuna majibu yasiyo sahihi. Mtu akisema kopo la kumwagilia maji linastahili jikoni, muulize kwa nini. Huenda ukapata hadithi nzuri.",
+      "Tumieni picha kama mwanzo wa mazungumzo: “Ulipanda nini kwenye bustani yako?”",
+      "Kupanga vitu halisi, kama vijiko na uma au vifungo kwa rangi, ni shughuli nzuri ya kufuatia mbali na skrini."
+    ],
+    "faq": [
+      {
+        "q": "Je, kuna saa au alama?",
+        "a": "Hapana. Hakuna saa, alama, hesabu ya mgusano wala kushindwa. Unaweza kusimama wakati wowote, na kusimama katikati ni njia nzuri kabisa ya kumaliza."
+      },
+      {
+        "q": "Kwa nini kupanga?",
+        "a": "Watu wengi hufurahia kupanga kwa sababu kunahisiwa kama kazi ya manufaa na inayojulikana. Pia ni rahisi kuzungumzia picha mnapoendelea."
+      },
+      {
+        "q": "Je, ni bure, na ni lazima nijisajili?",
+        "a": "Ndiyo, ni bure, na hakuna akaunti, usajili wala upakuaji. Inafanya kazi kwenye kivinjari cha wavuti kwenye simu, kompyuta kibao au kompyuta."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Fumbo la picha",
+    "seoTitle": "Fumbo Rahisi la Picha kwa Dementia: Vipande 4 au 9",
+    "h1": "Fumbo la Picha: Jigsaw Rahisi",
+    "description": "Jigsaw rahisi mtandaoni kwa watu wanaoishi na dementia: vipande 4 au 9 vikubwa, picha nzima inaonekana, na unagusa vipande viwili ili kuvibadilisha.",
+    "short": "Gusa vipande viwili ili kuvibadilisha hadi picha ikamilike.",
+    "players": "Watu 1 au 2",
+    "intro": "Picha ya kupendeza imekatwa vipande vinne au tisa vikubwa na kuchanganywa. Picha nzima inaendelea kuonekana kama mwongozo. Gusa kipande kimoja, kisha kingine, na vinabadilishana nafasi. Hakuna haja ya kuburuta.",
+    "howTo": [
+      "Chagua picha na vipande 4 au 9. Vinne ni mwanzo wa taratibu.",
+      "Tazameni picha nzima iliyo juu.",
+      "Gusa kipande, kisha gusa mahali kinapostahili kwenda. Vipande viwili vinabadilishana.",
+      "Vipande vilivyo mahali sahihi hupata alama ndogo ya tiki.",
+      "Picha ikikamilika, ifurahieni pamoja, kisha chagueni nyingine."
+    ],
+    "tips": [
+      "Kugusa vipande viwili ili kuvibadilisha ni rahisi zaidi kuliko kuburuta kwa watu wengi.",
+      "Zungumzieni picha inavyokamilika: “Hilo ndilo paa jekundu.”",
+      "Jigsaw halisi ya mbao yenye vipande 12 hadi 24 vikubwa pia ni shughuli nzuri ya mezani."
+    ],
+    "faq": [
+      {
+        "q": "Je, kuna saa au alama?",
+        "a": "Hapana. Hakuna saa, alama, hesabu ya mgusano wala kushindwa. Unaweza kusimama wakati wowote, na kusimama katikati ni njia nzuri kabisa ya kumaliza."
+      },
+      {
+        "q": "Je, ni lazima niburute vipande?",
+        "a": "Hapana. Gusa kipande kimoja, kisha kingine, na vinabadilishana nafasi. Hii ni rahisi zaidi kwa mkono unaotetemeka au kwenye skrini ndogo."
+      },
+      {
+        "q": "Je, ni bure, na ni lazima nijisajili?",
+        "a": "Ndiyo, ni bure, na hakuna akaunti, usajili wala upakuaji. Inafanya kazi kwenye kivinjari cha wavuti kwenye simu, kompyuta kibao au kompyuta."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Kamilisha methali",
+    "seoTitle": "Kamilisha Methali: Mchezo wa Methali kwa Wazee",
+    "h1": "Kamilisha Methali",
+    "description": "Methali za Kiswahili zinazojulikana ambazo neno la mwisho halipo, kama “Haraka haraka haina ___”. Gusa chaguo au onyesha mwisho, kisha zungumzieni.",
+    "short": "Kamilisheni methali zinazojulikana pamoja, kisha zungumzieni.",
+    "players": "Mtu 1, 2 au kikundi",
+    "intro": "Methali za zamani mara nyingi hujulikana maisha yote. Kila kadi inaonyesha methali inayojulikana ambayo neno la mwisho halipo, chaguo tatu, na kitufe cha “Onyesha mwisho”. Baada ya mwisho, swali la upole linakaribisha mazungumzo.",
+    "howTo": [
+      "Someni methali kwa sauti pamoja.",
+      "Gusa neno linalokamilisha, au gusa “Onyesha mwisho”.",
+      "Someni methali nzima tena na mzungumze kuihusu kwa kutumia swali.",
+      "Gusa “Methali inayofuata” ukiwa tayari."
+    ],
+    "tips": [
+      "Soma polepole na uache kimya kidogo kabla ya neno la mwisho. Mara nyingi watu hulisema kabla hujamaliza.",
+      "Mtu akitoa mwisho tofauti, ufurahieni. Baadhi ya methali hutofautiana kati ya familia au maeneo.",
+      "Katika kikundi, mtu mmoja anasoma na kila mtu anajiunga kwenye mwisho."
+    ],
+    "faq": [
+      {
+        "q": "Je, kuna saa au alama?",
+        "a": "Hapana. Hakuna saa, alama, hesabu ya mgusano wala kushindwa. Unaweza kusimama wakati wowote, na kusimama katikati ni njia nzuri kabisa ya kumaliza."
+      },
+      {
+        "q": "Itakuwaje tukichagua neno tofauti?",
+        "a": "Mchezo unaonyesha mwisho wa kawaida na kuendelea na mazungumzo. Hakuna alama, na jibu tofauti ni sawa."
+      },
+      {
+        "q": "Je, ni bure, na ni lazima nijisajili?",
+        "a": "Ndiyo, ni bure, na hakuna akaunti, usajili wala upakuaji. Inafanya kazi kwenye kivinjari cha wavuti kwenye simu, kompyuta kibao au kompyuta."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Fumbo la maneno la herufi kubwa",
+    "seoTitle": "Fumbo la Maneno la Herufi Kubwa kwa Dementia",
+    "h1": "Fumbo la Maneno la Herufi Kubwa",
+    "description": "Fumbo la maneno la bure la herufi kubwa kwa wazee na watu wanaoishi na dementia. Maneno machache, kuvuka na kushuka tu. Cheza mtandaoni au chapisha.",
+    "short": "Herufi kubwa, maneno machache, kuvuka na kushuka tu. Unaweza kuchapisha pia.",
+    "players": "Watu 1 au 2",
+    "intro": "Gridi ndogo yenye herufi kubwa na maneno machache tu, yote yakisomeka kuvuka au kushuka. Gusa herufi ya kwanza ya neno, kisha herufi yake ya mwisho. Unapendelea karatasi? Chapisha fumbo jipya kwa mguso mmoja.",
+    "howTo": [
+      "Chagua mada na ukubwa wa gridi.",
+      "Tazama orodha ya maneno. Maneno husomeka kuvuka (kushoto kwenda kulia) au kushuka (juu kwenda chini).",
+      "Gusa herufi ya kwanza ya neno, kisha gusa herufi yake ya mwisho.",
+      "Neno lililopatikana linawekwa alama na kupigwa mstari kwenye orodha.",
+      "Gusa “Chapisha fumbo hili” ili kucheza kwenye karatasi kwa penseli au kalamu."
+    ],
+    "tips": [
+      "Onyesha neno kwenye orodha kwa kidole na mtafute herufi yake ya kwanza pamoja.",
+      "Kwenye karatasi, kalamu ya kuwekea alama ni rahisi kushika kuliko penseli.",
+      "Zungumzieni maneno ya mada. Maneno ya matunda ni njia ya asili ya kuingia kwenye mazungumzo kuhusu kuchuma, kupika au masoko."
+    ],
+    "faq": [
+      {
+        "q": "Je, kuna saa au alama?",
+        "a": "Hapana. Hakuna saa, alama, hesabu ya mgusano wala kushindwa. Unaweza kusimama wakati wowote, na kusimama katikati ni njia nzuri kabisa ya kumaliza."
+      },
+      {
+        "q": "Je, ninaweza kuchapisha fumbo la maneno?",
+        "a": "Ndiyo. Gusa “Chapisha fumbo hili” ili kuchapisha gridi ya sasa kwa herufi kubwa, na orodha ya maneno chini yake. Kila fumbo jipya ni tofauti."
+      },
+      {
+        "q": "Je, ni bure, na ni lazima nijisajili?",
+        "a": "Ndiyo, ni bure, na hakuna akaunti, usajili wala upakuaji. Inafanya kazi kwenye kivinjari cha wavuti kwenye simu, kompyuta kibao au kompyuta."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Kurasa za kupaka rangi",
+    "seoTitle": "Kurasa za Kupaka Rangi kwa Watu Wazima wenye Dementia",
+    "h1": "Kurasa za Kupaka Rangi",
+    "description": "Kurasa rahisi za kupaka rangi kwa watu wazima zenye sehemu kubwa: gusa rangi, kisha picha. Hakuna rangi isiyo sahihi, na kurasa zinaweza kuchapishwa bure.",
+    "short": "Gusa rangi, kisha sehemu ya picha. Chapisha kurasa pia.",
+    "players": "Watu 1 au 2",
+    "intro": "Kurasa zenye maumbo makubwa na rahisi: ua kwenye chungu, nyumba, kikombe cha chai, kipepeo na mashua ya tanga. Gusa rangi, kisha gusa sehemu ya picha ili kuijaza. Hakuna rangi isiyo sahihi.",
+    "howTo": [
+      "Chagua ukurasa.",
+      "Gusa rangi. Kila rangi ina jina lake limeandikwa juu yake.",
+      "Gusa sehemu ya picha ili kuijaza kwa rangi hiyo.",
+      "Badilisha mawazo wakati wowote kwa kuijaza tena.",
+      "Gusa “Chapisha ukurasa huu” ili kupata ukurasa mweupe wa kupaka kwa penseli au kalamu."
+    ],
+    "tips": [
+      "Toa rangi mbili za kuchagua badala ya seti nzima ikiwa kuchagua kunaonekana kuwa mzigo.",
+      "Miti ya zambarau na majua ya buluu yanakaribishwa. Lengo ni kufurahia rangi, si usahihi.",
+      "Kurasa zilizochapishwa zinafaa kwa kalamu nene au rangi za nta, ambazo ni rahisi kushika."
+    ],
+    "faq": [
+      {
+        "q": "Je, kuna saa au alama?",
+        "a": "Hapana. Hakuna saa, alama, hesabu ya mgusano wala kushindwa. Unaweza kusimama wakati wowote, na kusimama katikati ni njia nzuri kabisa ya kumaliza."
+      },
+      {
+        "q": "Je, kurasa hizi ni za kitoto mno?",
+        "a": "Tulichora vitu tulivu na rahisi badala ya katuni, kwa hiyo kurasa zinafaa watu wazima. Maumbo makubwa hufanya kupaka rangi kuwe rahisi bila kuwa kwa kitoto."
+      },
+      {
+        "q": "Je, ni bure, na ni lazima nijisajili?",
+        "a": "Ndiyo, ni bure, na hakuna akaunti, usajili wala upakuaji. Inafanya kazi kwenye kivinjari cha wavuti kwenye simu, kompyuta kibao au kompyuta."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Kadi za mazungumzo",
+    "seoTitle": "Maswali ya Kuanzisha Mazungumzo kwa Dementia: Kadi za Picha",
+    "h1": "Kadi za Mazungumzo",
+    "description": "Kadi za picha zenye maswali ya upole ya kuanzisha mazungumzo kwa watu wanaoishi na dementia: hakuna majibu sahihi. Tumia skrini au chapisha seti nzima.",
+    "short": "Kadi za picha zenye maswali ya wazi na ya upole. Hakuna kuulizwa maswali magumu.",
+    "players": "Watu 2 au kikundi",
+    "intro": "Kila kadi inaoanisha picha inayojulikana na mwaliko wa wazi wa kuzungumza, kama “Ni hali gani ya hewa unayoipenda zaidi?” Hakuna majibu sahihi wala cha kukumbuka. Chagua mada au zichanganye zote.",
+    "howTo": [
+      "Chagua mada, au endelea na “Kadi zote”.",
+      "Soma swali kwa sauti na mtazame picha pamoja.",
+      "Sikiliza, shiriki jibu lako mwenyewe, na uache mazungumzo yaende yanapotaka.",
+      "Gusa “Kadi inayofuata” ukiwa tayari, au baki na kadi moja kwa muda unaotaka.",
+      "Gusa “Chapisha kadi zote” ili kukata seti ya karatasi."
+    ],
+    "tips": [
+      "Jibu swali wewe mwenyewe pia. Inahisika kama mazungumzo, si mahojiano.",
+      "Fuata hadithi, si ukweli wa kila kitu. Ikiwa maelezo yanabadilika, ni sawa.",
+      "Ikiwa kadi inagusa jambo la huzuni, tambua hisia hiyo na uhamie kadi nyingine kwa upole."
+    ],
+    "faq": [
+      {
+        "q": "Kwa nini hakuna maswali ya “Je, unakumbuka…?”",
+        "a": "Maswali yanayopima kumbukumbu yanaweza kuhisiwa kama mtihani na kusababisha aibu. Mialiko ya wazi kama “Niambie kuhusu…” inamruhusu kila mtu ajiunge, awe anakumbuka nini."
+      },
+      {
+        "q": "Je, ninaweza kuchapisha kadi?",
+        "a": "Ndiyo. “Chapisha kadi zote” huchapisha seti nzima kwa herufi kubwa, kadi kadhaa kwa ukurasa, tayari kukatwa."
+      },
+      {
+        "q": "Je, ni bure, na ni lazima nijisajili?",
+        "a": "Ndiyo, ni bure, na hakuna akaunti, usajili wala upakuaji. Inafanya kazi kwenye kivinjari cha wavuti kwenye simu, kompyuta kibao au kompyuta."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Jozi za picha za familia",
+    "seoTitle": "Tengeneza Mchezo wa Kulinganisha kwa Picha za Familia",
+    "h1": "Jozi za Picha za Familia: Linganisha Picha Zenu",
+    "description": "Geuza picha zako za familia kuwa mchezo wa kulinganisha. Chagua picha 2 hadi 6 kwenye kifaa chako; zinabaki kwenye kivinjari chako na hazipakiwi mtandaoni.",
+    "short": "Chagua picha zenu wenyewe na muzilinganishe. Hakuna kinachopakiwa mtandaoni.",
+    "players": "Watu 2, wakikaa kando kwa kando",
+    "intro": "Chagua picha mbili hadi sita kutoka kwenye simu, kompyuta kibao au kompyuta yako, nazo zinakuwa mchezo wa kulinganisha wenye picha kubwa zinazoonekana. Picha zinaonyeshwa ndani ya ukurasa huu tu. Hazipakiwi mtandaoni, hazihifadhiwi wala kushirikiwa, na hupotea ukifunga ukurasa.",
+    "howTo": [
+      "Gusa “Chagua picha” na uchague picha mbili hadi sita.",
+      "Kila picha inaonekana mara mbili. Gusa moja, kisha gusa jozi yake.",
+      "Zungumzieni kila picha mnapoipata.",
+      "Mkimaliza, funga ukurasa au gusa “Futa picha”. Hakuna kinachohifadhiwa."
+    ],
+    "tips": [
+      "Chagua picha zilizo wazi za mambo ya furaha na yanayojulikana: mnyama kipenzi, bustani, mahali pa kupendwa, siku ya harusi.",
+      "Picha za mahali na vitu zinaweza kuwa rahisi kuliko nyuso, na zinaepusha shinikizo la kutaja majina ya watu.",
+      "Acha picha za watu waliofariki ikiwa zinaweza kuleta huzuni ya ghafla, isipokuwa unajua zinaleta faraja."
+    ],
+    "faq": [
+      {
+        "q": "Je, picha zangu zinapakiwa mahali popote?",
+        "a": "Hapana. Ukurasa unasoma picha unazochagua moja kwa moja kwenye kivinjari chako na kuzionyesha kwenye skrini yako. Hazitumwi kwetu wala kwa mtu mwingine, na hupotea ukifunga au kupakia upya ukurasa."
+      },
+      {
+        "q": "Je, kuna saa au alama?",
+        "a": "Hapana. Hakuna saa, alama, hesabu ya mgusano wala kushindwa. Unaweza kusimama wakati wowote, na kusimama katikati ni njia nzuri kabisa ya kumaliza."
+      },
+      {
+        "q": "Je, ninaweza kuhifadhi mchezo kwa wakati mwingine?",
+        "a": "Si kwenye kivinjari, kwa makusudi, ili hakuna kitu cha faragha kihifadhiwe. Programu ya bure ya Golden Moments ya iPhone na iPad inaweza kuhifadhi nakala za picha ulizochagua kwenye kifaa chako."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bingo ya picha",
+    "seoTitle": "Bingo ya Picha kwa Wazee wenye Dementia: Ya Kuchapisha",
+    "h1": "Bingo ya Picha kwa Vikundi",
+    "description": "Bingo ya picha ya bure ya kuchapisha kwa vikundi vya wazee, na mtajaji wa skrini kubwa. Picha kubwa zenye majina, mraba 9 au 16, bila maandishi madogo.",
+    "short": "Kadi za bingo za picha za kuchapisha na mtajaji wa skrini kubwa kwa vikundi.",
+    "players": "Kikundi cha watu 2 hadi 30",
+    "intro": "Bingo ya kawaida yenye picha badala ya nambari, kwa hiyo hakuna anayehitaji kusoma maandishi madogo. Chapisha seti ya kadi tofauti, kisha tumia mtajaji wa skrini kuonyesha kila picha kubwa kwenye televisheni, kompyuta mpakato au kompyuta kibao.",
+    "howTo": [
+      "Chagua mraba 9 au 16 kwa kila kadi na idadi ya wachezaji.",
+      "Gusa “Chapisha”. Kila kadi ni tofauti.",
+      "Fungua mtajaji kwenye skrini kubwa. Gusa “Picha inayofuata” ili kuonyesha kila picha pamoja na jina lake.",
+      "Wachezaji wanafunika picha inayolingana kwenye kadi yao kwa sarafu, kifungo au kalamu.",
+      "Kila anayejaza mstari, au kadi nzima, anapigiwa makofi. Hakuna wanaoshindwa katika toleo hili: endeleeni kucheza hadi kila mtu apate mstari."
+    ],
+    "tips": [
+      "Tumieni vitu vikubwa vya kufunika kama vifuniko vya chupa. Vifungo vidogo vinaweza kuwa vigumu kuokota.",
+      "Itaje picha na useme jambo kuihusu: “Mashua ya tanga. Nani amewahi kupanda mashua?”",
+      "Wakalisheni watu wenye shida ya kuona karibu zaidi na skrini, na muwaoanishe wasaidizi na wachezaji wanaowahitaji.",
+      "Mraba tisa unatosha kwa vikundi vingi. Weka kipindi kiwe kama dakika 20 hadi 30."
+    ],
+    "faq": [
+      {
+        "q": "Ninawezaje kuendesha bingo ya picha kwenye makazi ya wazee?",
+        "a": "Chapisha kadi moja kwa kila mchezaji, weka mtajaji kwenye skrini kubwa zaidi mliyo nayo, na taja picha polepole, ukitaja kila moja. Chezeni hadi kila mtu apate mstari, ili hakuna anayeachwa nje."
+      },
+      {
+        "q": "Je, kuchapisha ni bure?",
+        "a": "Ndiyo. Chapisha kadi nyingi kadri unavyohitaji, mara nyingi kadri unavyotaka, kwa matumizi ya kibinafsi au ya kikundi."
+      },
+      {
+        "q": "Je, watu wanaweza kucheza bila kusoma?",
+        "a": "Ndiyo. Kila mraba ni picha kubwa, na jina lake chini kwa wanaopenda maneno."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Pumzi tulivu",
+    "seoTitle": "Mapumziko ya Pumzi Tulivu kwa Wazee na Walezi",
+    "h1": "Mapumziko ya Pumzi Tulivu",
+    "description": "Mapumziko ya polepole na tulivu ya kupumua kwa pamoja: duara laini linakua na kupungua kwa pumzi sita. Wewe unaanza, na unaweza kusimama wakati wowote.",
+    "short": "Duara la polepole la kupumua pamoja nalo. Anza na usimame upendavyo.",
+    "players": "Watu 1 au 2",
+    "intro": "Wakati mwingine shughuli bora ni mapumziko tulivu. Gusa “Anza”, kisha vuta pumzi duara linapokua na utoe linapopungua. Chagua kasi ya polepole zaidi au ya haraka kidogo. Si matibabu, ni wakati wa amani tu wa kushirikiana.",
+    "howTo": [
+      "Kaeni kwa starehe kando kwa kando.",
+      "Chagua kasi: polepole au taratibu.",
+      "Gusa “Anza”. Vuta pumzi duara linapokua, na utoe linapopungua.",
+      "Huisha lenyewe baada ya pumzi sita, au gusa “Simama” wakati wowote upendapo."
+    ],
+    "tips": [
+      "Shikaneni mikono au weka mkono begani mwa mtu huyo ikiwa anakubali.",
+      "Usilazimishe kamwe. Akipendelea kutazama tu, ni sawa.",
+      "Ikiwa mtu ana shida ya kupumua, apumue kawaida na atazame duara tu. Muulize daktari kuhusu wasiwasi wowote wa kupumua."
+    ],
+    "faq": [
+      {
+        "q": "Je, hili ni zoezi la kitabibu la kupumua?",
+        "a": "Hapana. Ni mapumziko rahisi na ya hiari kwa ajili ya utulivu na ushirika. Si matibabu ya wasiwasi wala hali yoyote. Zungumza na daktari kuhusu wasiwasi wa kiafya."
+      },
+      {
+        "q": "Je, duara linasogea bila mimi kuanza?",
+        "a": "Hapana. Hakuna kinachosogea hadi ugushe Anza, na huisha baada ya pumzi sita au ukigusa Simama. Ikiwa kifaa chako kimewekwa kupunguza mwendo, maneno hubadilika bila duara kukua."
+      },
+      {
+        "q": "Je, ni bure, na ni lazima nijisajili?",
+        "a": "Ndiyo, ni bure, na hakuna akaunti, usajili wala upakuaji. Inafanya kazi kwenye kivinjari cha wavuti kwenye simu, kompyuta kibao au kompyuta."
+      }
+    ]
+  }
+}

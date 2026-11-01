@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Magkapares na larawan",
+    "seoTitle": "Larong Pagtutugma sa Dementia: Magkapares na Larawan",
+    "h1": "Magkapares na Larawan: Banayad na Larong Pagtutugma",
+    "description": "Libre at banayad na larong pagtutugma para sa taong may dementia. Nakikita ang malalaking larawan, walang timer o puntos, at pipili kayo ng 4 hanggang 12 tile.",
+    "short": "Hanapin ang dalawang larawang magkapareho. Puwedeng manatiling nakikita ang mga larawan.",
+    "players": "1 o 2 tao, magkatabi",
+    "intro": "I-tap ang isang larawan, pagkatapos ay ang katugma nito. Nananatiling nakikita ang mga larawan bilang default, kaya walang kailangang tandaan. Kapag magkatugma ang dalawang larawan, nagkakaroon ang mga ito ng gintong gilid at tsek.",
+    "howTo": [
+      "Piliin kung ilang tile ang gagamitin. Magandang simula ang apat na tile.",
+      "I-tap ang alinmang larawan. Magkakaroon ito ng gintong gilid.",
+      "I-tap ang larawang kamukha nito. Mananatiling magkasama ang pares na may tsek.",
+      "Kung magkaiba ang dalawang larawan, walang masamang mangyayari. I-tap muli kapag handa na kayo.",
+      "I-on ang “Nakatagong larawan” kung gusto ninyong pareho ang klasikong bersyong nakataob."
+    ],
+    "tips": [
+      "Sabay na banggitin ang mga pangalan ng larawan at magkuwentuhan: “Isang pulang tasa. Naglalagay ka ba ng gatas sa tsaa mo?”",
+      "Hayaang ang taong inaalagaan ninyo ang mag-tap, kahit abutin ng matagal. Ituro na lang sa halip na kayo ang mag-tap para sa kanila.",
+      "Manatili sa apat na tile hangga't masarap ito sa pakiramdam. Pagpipilian ang mas maraming tile, hindi antas na dapat abutin.",
+      "Tapusin habang masaya pa. Isang buong aktibidad na ang isang laro."
+    ],
+    "faq": [
+      {
+        "q": "May timer o puntos ba?",
+        "a": "Wala. Walang orasan, puntos, bilang ng galaw o pagkatalo. Maaari kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isang magandang paraan ng pagtatapos."
+      },
+      {
+        "q": "Bakit nakaharap pataas ang mga larawan?",
+        "a": "Dahil nakikita ang mga larawan, nagiging pagtingin at pagtutugma ang laro sa halip na pag-alala. Mas payapa ito para sa marami. Maaari kayong lumipat sa mga nakatagong larawan sa isang tap kung mas gusto ninyo."
+      },
+      {
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up o download. Gumagana ito sa web browser ng telepono, tablet o computer."
+      },
+      {
+        "q": "Magagamit ba namin ang sarili naming litrato ng pamilya?",
+        "a": "Oo. Subukan ang Magkapares na litrato, na nagpapapili ng mga litrato mula sa device ninyo. Nananatili ang mga litrato sa browser ninyo at hindi ina-upload."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Hanapin ang magkapareho",
+    "seoTitle": "Hanapin ang Kaparehong Larawan: Simpleng Laro sa Dementia",
+    "h1": "Hanapin ang Kaparehong Larawan",
+    "description": "Isang larawan sa itaas, dalawa hanggang apat sa ibaba. I-tap ang kapareho. Payapa at libreng laro ng larawan para sa taong may dementia, walang timer.",
+    "short": "Tingnan ang larawan sa itaas at i-tap ang kapareho nito sa ibaba.",
+    "players": "1 o 2 tao",
+    "intro": "Isang larawan ang nasa itaas ng screen. Sa ibaba nito ay dalawa, tatlo o apat na larawan. I-tap ang kapareho. Isang simpleng pagpili sa bawat pagkakataon, na may maraming espasyo para mag-usap.",
+    "howTo": [
+      "Piliin kung dalawa, tatlo o apat na larawan ang pagpipilian. Pinakasimple ang dalawa.",
+      "Sabay na tingnan ang larawan sa itaas.",
+      "I-tap ang kaparehong larawan sa ibaba. Mamarkahan ito ng tsek at ilang magiliw na salita.",
+      "Kung ibang larawan ang na-tap, babanggitin lang ng laro ang pangalan nito at maghihintay. Dahan-dahan lang.",
+      "I-tap ang “Susunod na larawan” kapag handa na kayo para sa isa pa."
+    ],
+    "tips": [
+      "Pag-usapan ang bawat larawan bago pumili: mga kulay, hugis, kung saan ninyo ito maaaring makita.",
+      "Hindi “masyadong madali” ang dalawang pagpipilian. Ang layunin ay isang masayang sandali, hindi hamon.",
+      "Kung mahirap ang pag-tap, maaaring ituro ng tao ang larawan at kayo ang mag-tap para sa kanila."
+    ],
+    "faq": [
+      {
+        "q": "May timer o puntos ba?",
+        "a": "Wala. Walang orasan, puntos, bilang ng galaw o pagkatalo. Maaari kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isang magandang paraan ng pagtatapos."
+      },
+      {
+        "q": "Ano ang mangyayari kung maling larawan ang na-tap?",
+        "a": "Walang masamang mangyayari. Walang buzzer, pulang ekis o pag-uga. Binabanggit ng laro ang pangalan ng na-tap na larawan at naghihintay ito sa susunod na tap."
+      },
+      {
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up o download. Gumagana ito sa web browser ng telepono, tablet o computer."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Pagtutugma ng anino",
+    "seoTitle": "Larong Pagtutugma ng Anino sa Dementia: Libre Online",
+    "h1": "Pagtutugma ng Anino: Banayad na Laro ng Larawan",
+    "description": "Madilim na anino sa itaas, dalawa hanggang apat na larawan sa ibaba. I-tap ang gumagawa ng anino. Libre at payapang laro para sa dementia, walang timer.",
+    "short": "Tingnan ang anino at i-tap ang larawang gumagawa nito.",
+    "players": "1 o 2 tao",
+    "intro": "Pamilyar na aktibidad ang pagtutugma ng anino mula sa mga naka-print na worksheet, narito na may malalaking larawan at walang ipi-print. Isang malambot na anino ang nasa itaas ng screen at dalawa, tatlo o apat na larawan ang naghihintay sa ibaba. I-tap ang gumagawa ng anino. Madaling pag-usapan ang mga hugis tulad ng bisikleta, payong o tasa.",
+    "howTo": [
+      "Piliin kung dalawa, tatlo o apat na larawan ang pagpipilian. Pinakasimple ang dalawa.",
+      "Sabay na tingnan ang anino. Anong hugis ito? Mataas ba o bilog?",
+      "I-tap ang larawang gumagawa ng anino. Lalabas ang pangalan nito sa ilalim ng anino.",
+      "Kung ibang larawan ang na-tap, babanggitin lang ng laro ang pangalan nito at maghihintay. Dahan-dahan lang.",
+      "I-tap ang “Susunod na anino” kapag handa na kayo para sa isa pa."
+    ],
+    "tips": [
+      "Sundan ng daliri ang balangkas ng anino at pag-usapan ang hugis.",
+      "Kung mahirap ang mga anino ngayon, lumipat sa Hanapin ang magkapareho, kung saan magkakamukha ang mga larawan.",
+      "Pag-usapan ang larawan kapag nahanap na: “May payong tayong ganyan noon.”"
+    ],
+    "faq": [
+      {
+        "q": "May timer o puntos ba?",
+        "a": "Wala. Walang orasan, puntos, bilang ng galaw o pagkatalo. Maaari kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isang magandang paraan ng pagtatapos."
+      },
+      {
+        "q": "Mabuti ba ang pagtutugma ng anino para sa mga taong may dementia?",
+        "a": "Maaari itong maging masaya at simpleng aktibidad para sa ilang tao, lalo na sa mga naunang yugto. Mas madaling makilala ang mga hugis kaysa sa mga salita. Para ito sa kasiyahan at usapan, hindi pagsusulit, at hindi nito ginagamot o pinapabagal ang dementia. Kung nagdudulot ito ng inis, subukan ang Hanapin ang magkapareho o magtingin na lang ng mga larawan nang magkasama."
+      },
+      {
+        "q": "Ano ang mangyayari kung maling larawan ang na-tap?",
+        "a": "Walang masamang mangyayari. Walang buzzer, pulang ekis o pag-uga. Binabanggit ng laro ang pangalan ng na-tap na larawan at naghihintay ito sa susunod na tap."
+      },
+      {
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up o download. Gumagana ito sa web browser ng telepono, tablet o computer."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Pag-uri-uriin nang magkasama",
+    "seoTitle": "Larong Pag-uuri sa Dementia: Mag-uri nang Magkasama",
+    "h1": "Pag-uri-uriin nang Magkasama: Pag-uuri ng Larawan",
+    "description": "I-tap ang larawan, pagkatapos ang basket na pinagbibilangan nito: kusina o hardin, prutas o hayop. Libreng aktibidad sa pag-uuri para sa taong may dementia.",
+    "short": "Ilagay ang bawat larawan sa basket nito: kusina o hardin, at iba pa.",
+    "players": "1 o 2 tao",
+    "intro": "Pamilyar at nakakasiyang gawain sa araw-araw ang pag-uuri, tulad ng pag-aayos ng pinamili o pagtutugma ng medyas. I-tap ang larawan, pagkatapos ang basket na pinagbibilangan nito. Walang pagmamadali at walang maling hakbang.",
+    "howTo": [
+      "Pumili ng tema: kusina at hardin, prutas at hayop, o bahay at paglalakbay.",
+      "I-tap ang isang larawan. Magkakaroon ito ng gintong gilid.",
+      "I-tap ang basket na pinagbibilangan nito. Lilipat ang larawan sa basket na iyon.",
+      "Kung sa kabilang basket ito nabibilang, sasabihin iyon ng laro nang banayad at maghihintay.",
+      "Kapag naiayos na ang bawat larawan, sabay na tingnan ang mga basket."
+    ],
+    "tips": [
+      "Madalas na walang maling sagot sa totoong buhay. Kung may magsabing sa kusina nabibilang ang pandilig, itanong kung bakit. Baka may magandang kuwento kayong marinig.",
+      "Gamitin ang mga larawan bilang panimula ng usapan: “Ano ang tinanim mo sa hardin ninyo?”",
+      "Magandang karugtong sa labas ng screen ang pag-uuri ng totoong bagay, tulad ng kutsara at tinidor o mga butones ayon sa kulay."
+    ],
+    "faq": [
+      {
+        "q": "May timer o puntos ba?",
+        "a": "Wala. Walang orasan, puntos, bilang ng galaw o pagkatalo. Maaari kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isang magandang paraan ng pagtatapos."
+      },
+      {
+        "q": "Bakit pag-uuri?",
+        "a": "Maraming tao ang nasisiyahan sa pag-uuri dahil parang kapaki-pakinabang at pamilyar na gawain ito. Madali ring pag-usapan ang mga larawan habang ginagawa ito."
+      },
+      {
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up o download. Gumagana ito sa web browser ng telepono, tablet o computer."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Puzzle ng larawan",
+    "seoTitle": "Madaling Jigsaw Puzzle sa Dementia: 4 o 9 na Piraso",
+    "h1": "Puzzle ng Larawan: Madaling Jigsaw",
+    "description": "Madaling online na jigsaw para sa taong may dementia: 4 o 9 na malalaking piraso, nakikita ang buong larawan, at i-tap ang dalawang piraso para magpalit.",
+    "short": "I-tap ang dalawang piraso para magpalit hanggang mabuo ang larawan.",
+    "players": "1 o 2 tao",
+    "intro": "Isang magiliw na larawan ang hinahati sa apat o siyam na malalaking piraso at hinahalo. Nananatiling nakikita ang buong larawan bilang gabay. I-tap ang isang piraso, pagkatapos ang isa pa, at magpapalit sila ng puwesto. Hindi kailangang mag-drag.",
+    "howTo": [
+      "Pumili ng larawan at 4 o 9 na piraso. Banayad na simula ang apat.",
+      "Tingnan ang buong larawan sa itaas.",
+      "I-tap ang isang piraso, pagkatapos ay ang puwestong paglalagyan nito. Magpapalit ang dalawang piraso.",
+      "Magkakaroon ng maliit na tsek ang mga pirasong nasa tamang puwesto.",
+      "Kapag buo na ang larawan, pagsaluhan ito nang magkasama, saka pumili ng isa pa."
+    ],
+    "tips": [
+      "Para sa marami, mas madali ang pag-tap sa dalawang piraso para magpalit kaysa sa pag-drag.",
+      "Pag-usapan ang larawan habang nabubuo ito: “Ayan ang pulang bubong.”",
+      "Magandang gawain din sa mesa ang totoong kahoy na jigsaw na may 12 hanggang 24 na malalaking piraso."
+    ],
+    "faq": [
+      {
+        "q": "May timer o puntos ba?",
+        "a": "Wala. Walang orasan, puntos, bilang ng galaw o pagkatalo. Maaari kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isang magandang paraan ng pagtatapos."
+      },
+      {
+        "q": "Kailangan ko bang i-drag ang mga piraso?",
+        "a": "Hindi. I-tap ang isang piraso, pagkatapos ang isa pa, at magpapalit sila ng puwesto. Mas madali ito kapag nanginginig ang kamay o sa maliit na screen."
+      },
+      {
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up o download. Gumagana ito sa web browser ng telepono, tablet o computer."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Tapusin ang kasabihan",
+    "seoTitle": "Tapusin ang Kasabihan: Laro ng Salawikain",
+    "h1": "Tapusin ang Kasabihan",
+    "description": "Mga pamilyar na kasabihang kulang ang huling salita, tulad ng “Kung may tiyaga, may ___”. Pumili ng sagot o ipakita ang wakas, saka pag-usapan ito.",
+    "short": "Tapusin nang magkasama ang mga pamilyar na kasabihan, saka pag-usapan ang mga ito.",
+    "players": "1, 2 o isang grupo",
+    "intro": "Madalas na kilalang-kilala sa buong buhay ang mga lumang kasabihan. Ipinapakita ng bawat kard ang isang pamilyar na kasabihang kulang ang huling salita, tatlong pagpipilian, at isang button na “Ipakita ang wakas”. Pagkatapos ng wakas, nag-aanyaya ng usapan ang isang banayad na tanong.",
+    "howTo": [
+      "Sabay na basahin nang malakas ang kasabihan.",
+      "I-tap ang salitang nagtatapos dito, o i-tap ang “Ipakita ang wakas”.",
+      "Basahin muli ang buong kasabihan at pag-usapan ito gamit ang mungkahing tanong.",
+      "I-tap ang “Susunod na kasabihan” kapag handa na kayo."
+    ],
+    "tips": [
+      "Magbasa nang dahan-dahan at magpahinga bago ang huling salita. Madalas, sinasabi na ito ng mga tao bago pa kayo makatapos.",
+      "Kung may magbigay ng ibang wakas, ikasiya ito. May mga bersyon ng kasabihan na nag-iiba ayon sa pamilya o rehiyon.",
+      "Sa grupo, isang tao ang nagbabasa at sama-samang bumibigkas ang lahat sa wakas."
+    ],
+    "faq": [
+      {
+        "q": "May timer o puntos ba?",
+        "a": "Wala. Walang orasan, puntos, bilang ng galaw o pagkatalo. Maaari kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isang magandang paraan ng pagtatapos."
+      },
+      {
+        "q": "Paano kung ibang salita ang piliin namin?",
+        "a": "Ipinapakita ng laro ang karaniwang wakas at lumilipat sa usapan. Walang puntos, at ayos lang ang ibang sagot."
+      },
+      {
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up o download. Gumagana ito sa web browser ng telepono, tablet o computer."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Word search na malalaki ang letra",
+    "seoTitle": "Word Search na Malalaki ang Letra sa Dementia, Ipi-print",
+    "h1": "Word Search na Malalaki ang Letra",
+    "description": "Libreng word search na malalaki ang letra para sa nakatatanda at taong may dementia. Kaunting salita, pahalang at pababa lang. Laruin online o i-print.",
+    "short": "Malalaking letra, ilang salita, pahalang at pababa lang. I-print din ito.",
+    "players": "1 o 2 tao",
+    "intro": "Maliit na grid na may malalaking letra at ilang salita lang, na lahat ay binabasa pahalang o pababa. I-tap ang unang letra ng isang salita, pagkatapos ang huling letra nito. Mas gusto ang papel? Mag-print ng bagong puzzle sa isang tap.",
+    "howTo": [
+      "Pumili ng tema at laki ng grid.",
+      "Tingnan ang listahan ng mga salita. Binabasa ang mga salita pahalang (kaliwa pakanan) o pababa (itaas pababa).",
+      "I-tap ang unang letra ng isang salita, pagkatapos ang huling letra nito.",
+      "Naka-highlight ang nahanap na salita at tinatanggal ito sa listahan.",
+      "I-tap ang “I-print ang puzzle na ito” para maglaro sa papel gamit ang lapis o marker."
+    ],
+    "tips": [
+      "Ituro ang isang salita sa listahan at sabay na hanapin ang unang letra nito.",
+      "Sa papel, mas madaling hawakan ang highlighter kaysa sa lapis.",
+      "Pag-usapan ang mga salita sa tema. Natural na daan sa mga alaala ng pamimitas, pagluluto o pamilihan ang mga salita tungkol sa prutas."
+    ],
+    "faq": [
+      {
+        "q": "May timer o puntos ba?",
+        "a": "Wala. Walang orasan, puntos, bilang ng galaw o pagkatalo. Maaari kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isang magandang paraan ng pagtatapos."
+      },
+      {
+        "q": "Puwede ko bang i-print ang word search?",
+        "a": "Oo. I-tap ang “I-print ang puzzle na ito” para i-print ang kasalukuyang grid sa malalaking letra, na may listahan ng salita sa ilalim. Magkakaiba ang bawat bagong puzzle."
+      },
+      {
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up o download. Gumagana ito sa web browser ng telepono, tablet o computer."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Mga pangkulay",
+    "seoTitle": "Mga Pangkulay para sa mga Adulto na may Dementia (Libre)",
+    "h1": "Mga Pangkulay",
+    "description": "Simpleng pangkulay na pang-adulto na may malalawak na bahagi: pumili ng kulay, saka i-tap ang larawan. Walang maling kulay, at libreng i-print ang bawat pahina.",
+    "short": "Pumili ng kulay, saka ng bahagi ng larawan. Puwede ring i-print ang mga pahina.",
+    "players": "1 o 2 tao",
+    "intro": "Mga pahinang may malalaki at simpleng hugis: bulaklak sa paso, bahay, tasa, paruparo at bangka. Pumili ng kulay, pagkatapos i-tap ang isang bahagi ng larawan para kulayan ito. Walang maling kulay.",
+    "howTo": [
+      "Pumili ng pahina.",
+      "Pumili ng kulay. Nakasulat sa bawat kulay ang pangalan nito.",
+      "I-tap ang isang bahagi ng larawan para kulayan ito ng napiling kulay.",
+      "Magbago ng isip anumang oras sa pamamagitan ng pagkulay muli.",
+      "I-tap ang “I-print ang pahinang ito” para sa blangkong pahinang makukulayan gamit ang lapis o marker."
+    ],
+    "tips": [
+      "Mag-alok ng dalawang kulay na mapagpipilian sa halip na ang buong set kung parang sobra ang pagpili.",
+      "Ayos lang ang lilang puno at asul na araw. Tungkol ito sa kasiyahan sa kulay, hindi sa kawastuhan.",
+      "Bagay sa mga na-print na pahina ang makapal na marker o krayola, na mas madaling hawakan."
+    ],
+    "faq": [
+      {
+        "q": "May timer o puntos ba?",
+        "a": "Wala. Walang orasan, puntos, bilang ng galaw o pagkatalo. Maaari kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isang magandang paraan ng pagtatapos."
+      },
+      {
+        "q": "Masyado bang pambata ang mga pahinang ito?",
+        "a": "Gumuhit kami ng mga payapa at simpleng bagay sa halip na cartoon, kaya angkop ang mga pahina sa mga adulto. Pinananatiling madali ng malalaking hugis ang pagkulay nang hindi ito nagiging pambata."
+      },
+      {
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up o download. Gumagana ito sa web browser ng telepono, tablet o computer."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Mga kard ng usapan",
+    "seoTitle": "Panimula ng Usapan sa Dementia: Mga Kard ng Larawan",
+    "h1": "Mga Kard ng Usapan",
+    "description": "Mga kard ng larawan na may banayad na panimula ng usapan para sa taong may dementia: walang pagsusulit o tamang sagot. Gamitin sa screen o i-print.",
+    "short": "Mga kard ng larawan na may bukas at banayad na tanong. Walang pagsusulit.",
+    "players": "2 tao o isang grupo",
+    "intro": "Pinagpapares ng bawat kard ang isang pamilyar na larawan at isang bukas na paanyaya na mag-usap, tulad ng “Ano ang paborito ninyong uri ng panahon?” Walang tamang sagot at walang kailangang tandaan. Pumili ng tema o paghaluin ang lahat.",
+    "howTo": [
+      "Pumili ng tema, o panatilihin ang “Lahat ng kard”.",
+      "Basahin nang malakas ang tanong at sabay na tingnan ang larawan.",
+      "Makinig, ibahagi ang sarili ninyong sagot, at hayaang gumala ang usapan.",
+      "I-tap ang “Susunod na kard” kapag handa na kayo, o manatili sa isang kard hangga't gusto ninyo.",
+      "I-tap ang “I-print ang lahat ng kard” para makagupit ng set na papel."
+    ],
+    "tips": [
+      "Sagutin din ang tanong ninyo. Para itong usapan, hindi panayam.",
+      "Sundan ang kuwento, hindi ang mga detalye. Ayos lang kung nagbabago ang mga detalye.",
+      "Kung may kard na nakakasagi ng lungkot, kilalanin ang damdamin at dahan-dahang lumipat sa ibang kard."
+    ],
+    "faq": [
+      {
+        "q": "Bakit walang mga tanong na “Naaalala mo ba…?”",
+        "a": "Ang mga tanong na sumusubok ng alaala ay maaaring maging parang eksamen at magdulot ng hiya. Ang mga bukas na paanyaya tulad ng “Kuwentuhan mo ako tungkol sa…” ay nagpapasali sa sinuman, anuman ang maalala nila."
+      },
+      {
+        "q": "Puwede ko bang i-print ang mga kard?",
+        "a": "Oo. Ipini-print ng “I-print ang lahat ng kard” ang buong set sa malalaking letra, ilang kard sa bawat pahina, handa nang gupitin."
+      },
+      {
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up o download. Gumagana ito sa web browser ng telepono, tablet o computer."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Magkapares na litrato",
+    "seoTitle": "Gumawa ng Larong Pagtutugma mula sa mga Litrato ng Pamilya",
+    "h1": "Magkapares na Litrato: Itugma ang Sarili Ninyong mga Litrato",
+    "description": "Gawing banayad na larong pagtutugma ang sarili ninyong litrato ng pamilya. Pumili ng 2 hanggang 6; nananatili ang mga ito sa browser at hindi ina-upload.",
+    "short": "Pumili ng sarili ninyong litrato at itugma ang mga ito. Walang ina-upload.",
+    "players": "2 tao, magkatabi",
+    "intro": "Pumili ng dalawa hanggang anim na litrato mula sa telepono, tablet o computer ninyo, at magiging larong pagtutugma ang mga ito na may malalaki at nakikitang larawan. Sa loob lang ng pahinang ito ipinapakita ang mga litrato. Hindi sila ina-upload, sine-save o ibinabahagi, at nawawala ang mga ito kapag isinara ninyo ang pahina.",
+    "howTo": [
+      "I-tap ang “Pumili ng mga litrato” at pumili ng dalawa hanggang anim na litrato.",
+      "Dalawang beses lalabas ang bawat litrato. I-tap ang isa, pagkatapos ang pares nito.",
+      "Pag-usapan ang bawat litrato habang nahahanap ninyo ito.",
+      "Kapag tapos na kayo, isara ang pahina o i-tap ang “Burahin ang mga litrato”. Walang itinatabi."
+    ],
+    "tips": [
+      "Pumili ng malilinaw na litrato ng masasaya at pamilyar na bagay: alagang hayop, hardin, paboritong lugar, araw ng kasal.",
+      "Mas madali kung minsan ang mga larawan ng lugar at bagay kaysa sa mga mukha, at hindi nito pinipilit ang sinuman na pangalanan ang mga tao.",
+      "Huwag isama ang mga litrato ng mga yumao kung maaari itong magdulot ng biglaang lungkot, maliban kung alam ninyong nagbibigay ito ng ginhawa."
+    ],
+    "faq": [
+      {
+        "q": "Ina-upload ba kahit saan ang mga litrato ko?",
+        "a": "Hindi. Direktang binabasa ng pahina ang mga litratong pipiliin ninyo sa browser ninyo at ipinapakita ang mga ito sa screen ninyo. Hindi sila ipinapadala sa amin o sa sinuman, at nawawala ang mga ito kapag isinara o ni-reload ninyo ang pahina."
+      },
+      {
+        "q": "May timer o puntos ba?",
+        "a": "Wala. Walang orasan, puntos, bilang ng galaw o pagkatalo. Maaari kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isang magandang paraan ng pagtatapos."
+      },
+      {
+        "q": "Maise-save ko ba ang laro para sa susunod?",
+        "a": "Hindi sa browser, sinadya ito para walang pribadong naitatabi. Ang libreng Golden Moments app para sa iPhone at iPad ay kayang mag-ingat ng mga napiling kopya ng litrato sa device ninyo."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bingo ng larawan",
+    "seoTitle": "Bingo ng Larawan para sa may Dementia: Ipi-print",
+    "h1": "Bingo ng Larawan para sa mga Grupo",
+    "description": "Libreng bingo ng larawan na ipi-print para sa memory care at grupo ng nakatatanda, na may malaking on-screen na tagatawag. 9 o 16 na parisukat.",
+    "short": "Mga kard ng bingo ng larawan na ipi-print at tagatawag sa malaking screen para sa mga grupo.",
+    "players": "Grupo ng 2 hanggang 30",
+    "intro": "Klasikong bingo na may mga larawan sa halip na numero, kaya walang kailangang magbasa ng maliliit na letra. Mag-print ng set ng magkakaibang kard, saka gamitin ang on-screen na tagatawag para ipakita nang malaki ang bawat larawan sa TV, laptop o tablet.",
+    "howTo": [
+      "Piliin kung 9 o 16 na parisukat sa bawat kard at kung ilang manlalaro.",
+      "I-tap ang “I-print ang mga kard”. Magkakaiba ang bawat kard.",
+      "Buksan ang tagatawag sa malaking screen. I-tap ang “Susunod na larawan” para ipakita ang bawat larawan kasama ang pangalan nito.",
+      "Tinatakpan ng mga manlalaro ang katugmang larawan sa kard nila gamit ang barya, butones o marker.",
+      "Papalakpakan ang bawat makakumpleto ng isang hanay, o ng buong kard. Walang talo sa bersyong ito: magpatuloy hanggang magkaroon ng linya ang lahat."
+    ],
+    "tips": [
+      "Gumamit ng malalaking token tulad ng takip ng bote. Mahirap kunin ang maliliit na butones.",
+      "Banggitin ang pangalan ng larawan at magsabi ng kaunti tungkol dito: “Isang bangka. Sino ang nakasakay na sa bangka?”",
+      "Paupuin sa pinakamalapit sa screen ang mga mahina ang paningin, at ipares ang mga katulong sa mga manlalarong nangangailangan nito.",
+      "Sapat na para sa karamihan ng grupo ang siyam na parisukat. Panatilihin ang sesyon sa humigit-kumulang 20 hanggang 30 minuto."
+    ],
+    "faq": [
+      {
+        "q": "Paano magpatakbo ng bingo ng larawan sa care home?",
+        "a": "Mag-print ng isang kard bawat manlalaro, ilagay ang tagatawag sa pinakamalaking screen na mayroon kayo, at tawagin ang mga larawan nang dahan-dahan, na binabanggit ang pangalan ng bawat isa. Magpatuloy hanggang magkaroon ng linya ang lahat, para walang maiwan."
+      },
+      {
+        "q": "Libre ba ang pag-print?",
+        "a": "Oo. Mag-print ng kasing dami ng kard na kailangan ninyo, kasingdalas ng gusto ninyo, para sa personal o pang-grupong paggamit."
+      },
+      {
+        "q": "Puwede bang maglaro nang hindi nagbabasa?",
+        "a": "Oo. Malaking larawan ang bawat parisukat, na may pangalan sa ilalim para sa mga mahilig sa salita."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Mahinahong paghinga",
+    "seoTitle": "Mahinahong Paghinga para sa mga Nakatatanda at Tagapag-alaga",
+    "h1": "Isang Mahinahong Paghinga",
+    "description": "Mabagal at tahimik na saglit ng paghinga: lumalaki at lumiliit ang banayad na bilog sa anim na hinga. Kayo ang magsisimula at puwedeng huminto anumang oras.",
+    "short": "Isang mabagal na bilog na sasabayan ng paghinga. Magsimula at huminto kailanman ninyo gusto.",
+    "players": "1 o 2 tao",
+    "intro": "Kung minsan, ang pinakamainam na aktibidad ay isang tahimik na paghinto. I-tap ang “Simulan”, pagkatapos ay huminga papasok habang lumalaki ang bilog at palabas habang lumiliit ito. Pumili ng mas mabagal o mas mabilis na bilis. Hindi ito panggagamot, isang payapang sandali lang na pagsasaluhan.",
+    "howTo": [
+      "Maupong komportable at magkatabi.",
+      "Pumili ng bilis: mabagal o banayad.",
+      "I-tap ang “Simulan”. Huminga papasok habang lumalaki ang bilog, at palabas habang lumiliit ito.",
+      "Titigil ito nang kusa pagkatapos ng anim na hinga, o i-tap ang “Itigil” kailanman ninyo gusto."
+    ],
+    "tips": [
+      "Maghawak ng kamay o ipatong ang kamay sa braso ng tao kung ikinagagalak nila ito.",
+      "Huwag kailanman pilitin. Kung mas gusto nilang manood lang, ayos iyon.",
+      "Kung may problema sa paghinga ang isang tao, huminga nang normal at panoorin lang ang bilog. Magtanong sa doktor tungkol sa anumang alalahanin sa paghinga."
+    ],
+    "faq": [
+      {
+        "q": "Medikal na ehersisyo ba ito sa paghinga?",
+        "a": "Hindi. Isa itong simple at opsyonal na paghinto para sa katahimikan at kasama. Hindi ito panggagamot sa pagkabalisa o anumang kondisyon. Kumonsulta sa doktor tungkol sa mga alalahanin sa kalusugan."
+      },
+      {
+        "q": "Gumagalaw ba ang bilog nang hindi ko sinisimulan?",
+        "a": "Hindi. Walang gumagalaw hanggang i-tap ninyo ang Simulan, at titigil ito pagkatapos ng anim na hinga o kapag na-tap ninyo ang Itigil. Kung nakatakda ang device ninyo na bawasan ang galaw, nagbabago ang mga salita nang hindi lumalaki ang bilog."
+      },
+      {
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up o download. Gumagana ito sa web browser ng telepono, tablet o computer."
+      }
+    ]
+  }
+}

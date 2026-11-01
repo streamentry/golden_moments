@@ -1,0 +1,533 @@
+{
+  "common": {
+    "skipLink": "Treceți la conținutul principal",
+    "brandName": "Golden Moments",
+    "brandTag": "Activități pentru demență",
+    "homeLabel": "Pagina principală Golden Moments",
+    "mainNav": "Principal",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: imagini mari și prietenoase cu o ceașcă de ceai, o floarea-soarelui și un câine",
+    "languages": "Limba",
+    "englishOnly": "(în engleză)",
+    "machineTranslated": "Această pagină a fost tradusă automat și nu a fost încă verificată de un vorbitor nativ.",
+    "readOriginal": "Citiți originalul în engleză",
+    "nav": {
+      "games": "Jocuri",
+      "activities": "Activități",
+      "caregiving": "Îngrijire",
+      "brainHealth": "Sănătatea creierului"
+    },
+    "faqTitle": "Întrebări și răspunsuri",
+    "breadcrumb": "Cale de navigare",
+    "home": "Acasă",
+    "lastUpdated": "Ultima actualizare",
+    "topics": "Subiecte"
+  },
+  "footer": {
+    "play": "Jucați",
+    "picturePairs": "Perechi de imagini",
+    "conversationCards": "Cartonașe de conversație",
+    "pictureBingo": "Bingo cu imagini",
+    "allGames": "Toate jocurile",
+    "activityIdeas": "Idei de activități",
+    "ideas101": "101 idei de activități",
+    "lateStage": "Activități pentru stadiul avansat",
+    "printable": "Activități de tipărit",
+    "allActivities": "Toate activitățile",
+    "forCaregivers": "Pentru îngrijitori",
+    "playTogether": "Cum să jucați împreună",
+    "selfCare": "Grija față de dumneavoastră",
+    "brainHealth": "Cercetări despre sănătatea creierului",
+    "faq": "Întrebări și răspunsuri",
+    "about": "Despre noi",
+    "approach": "Abordarea noastră",
+    "howWeWrite": "Cum scriem",
+    "organizations": "Pentru organizații",
+    "app": "Aplicația Golden Moments",
+    "appHelp": "Ajutor pentru aplicație",
+    "support": "Asistență",
+    "legal": "Informații juridice",
+    "sitePrivacy": "Confidențialitatea site-ului",
+    "appPrivacy": "Politica de confidențialitate a aplicației",
+    "privacyChoices": "Opțiuni de confidențialitate",
+    "terms": "Termeni și licența aplicației",
+    "safety": "Siguranță și utilizare prevăzută",
+    "accessibility": "Accesibilitate",
+    "healthNotice": "Notă de informare medicală",
+    "allLegal": "Toate informațiile juridice",
+    "note": "Golden Moments oferă activități simple, de făcut împreună, pentru plăcere. Nu este sfat medical, test sau tratament și nu diagnostichează, nu măsoară și nu evaluează pe nimeni. Pentru întrebări despre sănătate, discutați cu un medic. În caz de urgență, sunați la numărul local de urgență.",
+    "publisher": "Publicat de Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Jocuri pentru demență și Alzheimer | Golden Moments",
+    "description": "Jocuri blânde gratuite cu imagini și idei de activități pentru persoane cu demență sau Alzheimer și pentru îngrijitori. Fără cont, cronometre sau scoruri.",
+    "eyebrow": "Gratuit · Fără reclame · Fără cont · Fără cronometre sau scoruri",
+    "h1": "Jocuri și activități blânde pentru persoane cu demență",
+    "lede": "Jocuri simple cu imagini, fotografii familiare și activități de făcut împreună, în ritmul dumneavoastră.",
+    "playGame": "Jucați un joc",
+    "findIdeas": "Găsiți idei de activități",
+    "facts": [
+      "Funcționează pe telefon, tabletă și computer",
+      "Imagini mari, care rămân la vedere",
+      "Vă puteți opri oricând; nu aveți ce greși"
+    ],
+    "heroApp": "Și o aplicație gratuită pentru iPhone, iPad și Android, cu propriile fotografii de familie",
+    "albumNote": "„Două imagini cu ceașca de ceai, împreună.”",
+    "gamesEyebrow": "Jucați în browser",
+    "gamesTitle": "Jocuri pe care le puteți juca chiar acum",
+    "gamesLede": "Fiecare este calm, potrivit pentru adulți și se pornește repede. Alegeți unul, stați unul lângă altul și atingeți pe rând.",
+    "seeAllGames": "Vedeți toate cele {count} jocuri",
+    "howTitle": "Cum funcționează",
+    "steps": [
+      {
+        "title": "Alegeți ceva familiar",
+        "text": "Imagini cu ceșți de ceai, grădini, animale de companie și bărci cu pânze. Nu trebuie să citiți sau să învățați reguli mai întâi."
+      },
+      {
+        "title": "Stați unul lângă altul",
+        "text": "Lăsați persoana să atingă. Vorbiți despre imagini. O nepotrivire pur și simplu așteaptă următoarea atingere."
+      },
+      {
+        "title": "Opriți-vă cât vă face plăcere",
+        "text": "Un singur joc este o activitate completă. „Gata pentru acum” este mereu pe ecran."
+      }
+    ],
+    "stageEyebrow": "Dincolo de ecran",
+    "stageTitle": "Idei de activități pentru fiecare stadiu",
+    "stageLede": "Muzică, treburi de zi cu zi, amintiri și momente senzoriale liniștite, adaptate la ce este confortabil acum.",
+    "ideas101": "101 idei de activități",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Stadiul incipient",
+        "text": "Continuați să faceți ce le place, cu mici ajustări: pasiuni, ieșiri, jocuri de cuvinte și planuri făcute împreună.",
+        "label": "Idei pentru stadiul incipient"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Stadiul mediu",
+        "text": "Treburi simple și familiare împărțite în pași: împăturit, sortat, muzică, jocuri cu imagini și plimbări scurte.",
+        "label": "Idei pentru stadiul mediu"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Stadiul avansat",
+        "text": "Confort și apropiere prin atingere, sunet și vedere: îngrijirea mâinilor, melodiile preferate, fotografii și simpla prezență împreună.",
+        "label": "Idei pentru stadiul avansat"
+      }
+    ],
+    "specificHtml": "Căutați ceva anume? Încercați <a href=\"/activities/alzheimers/\">activități și jocuri pentru Alzheimer</a>, <a href=\"/activities/memory-games/\">jocuri blânde de memorie</a>, <a href=\"/activities/trivia/\">întrebări ușoare de cultură generală</a> sau <a href=\"/activities/puzzles/\">puzzle-uri</a>.",
+    "approachEyebrow": "Abordarea noastră",
+    "approachTitle": "O activitate făcută împreună, nu un test de memorie",
+    "approachLede": "Multe „jocuri pentru minte” sunt construite în jurul vitezei, scorurilor și seriilor. Pentru o persoană care trăiește cu demență, acestea pot semăna cu un examen. Noi am construit opusul.",
+    "approachLink": "De ce le concepem așa",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Nimic de greșit",
+        "text": "Fără ceas, scor, vieți sau pierdere. O imagine diferită este o pauză, nu o greșeală."
+      },
+      {
+        "icon": "eye",
+        "title": "Imaginile rămân la vedere",
+        "text": "Recunoaștere, nu reamintire. Potrivirea începe cu imaginile la vedere, deci nu e nimic de ținut minte."
+      },
+      {
+        "icon": "people",
+        "title": "Pentru adulți, cu respect",
+        "text": "Cuvinte simple și calde și imagini din viața reală. Niciodată desene animate sau limbaj copilăresc."
+      },
+      {
+        "icon": "shield",
+        "title": "Private prin concepție",
+        "text": "Fără conturi sau reclame. Fotografiile dumneavoastră nu părăsesc dispozitivul."
+      }
+    ],
+    "guidesEyebrow": "Pentru îngrijitori",
+    "guidesTitle": "Ghiduri practice pentru îngrijirea de zi cu zi",
+    "allCaregiving": "Toate ghidurile pentru îngrijitori",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Cum să jucați jocuri împreună",
+        "text": "Pregătire, ritm și ce să faceți când un joc nu mai este plăcut."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Când persoana refuză o activitate",
+        "text": "Motive frecvente de refuz și moduri blânde de a încerca din nou mai târziu."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Configurarea unei tablete",
+        "text": "Text mai mare, mai puține întreruperi și un singur ecran de pornire simplu."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Activități gratuite de tipărit",
+        "text": "Căutări de cuvinte cu litere mari, pagini de colorat, bingo și cartonașe de conversație."
+      }
+    ],
+    "researchTitle": "Sănătatea creierului: ce spune cu adevărat cercetarea",
+    "researchText": "Poate fi prevenită demența? Ajută jocurile pentru minte? Dar postul, dieta, somnul și auzul? Răspunsuri clare, cu surse, inclusiv acolo unde dovezile sunt slabe.",
+    "researchLink": "Citiți ghidurile despre cercetare",
+    "appEyebrow": "Și o aplicație",
+    "appTitle": "Golden Moments pe iPhone, iPad și Android",
+    "appText": "Aplicația gratuită funcționează offline și poate folosi fotografiile de familie alese de dumneavoastră, păstrate ca copii pe dispozitiv. Același design calm: patru plăcuțe mari, fără cronometru, fără scor.",
+    "aboutApp": "Despre aplicație",
+    "faq": [
+      {
+        "q": "Care sunt jocurile potrivite pentru persoanele cu demență?",
+        "a": "Jocurile potrivite sunt simple, familiare și fără presiune: imagini mari de potrivit, sortare, puzzle-uri ușoare, completarea unor proverbe cunoscute, colorat, bingo cu imagini și cartonașe de conversație. Cea mai bună alegere este cea care îi place persoanei azi. Evitați cronometrele, scorurile și orice seamănă cu un test."
+      },
+      {
+        "q": "Sunt gratuite aceste jocuri pentru demență?",
+        "a": "Da. Fiecare joc și fiecare material de tipărit de pe Golden Moments este gratuit, fără cont, înregistrare sau descărcare. Jocurile rulează în browser, pe telefon, tabletă sau computer."
+      },
+      {
+        "q": "Previn jocurile pentru minte demența?",
+        "a": "Nu s-a demonstrat că vreun joc previne demența, iar Golden Moments nu pretinde că tratează sau previne ceva. Jocurile noastre sunt pentru plăcere și timp petrecut împreună. Secțiunea noastră despre sănătatea creierului explică ce arată și ce nu arată cercetarea."
+      },
+      {
+        "q": "Sunt potrivite aceste jocuri pentru o persoană cu Alzheimer?",
+        "a": "Da. Boala Alzheimer este cea mai frecventă cauză a demenței, iar jocurile sunt făcute pentru ea: imagini mari care rămân la vedere, puține alegeri și nimic de ținut minte sau de greșit. Potrivirea, sortarea și completarea unor proverbe cunoscute se sprijină pe cunoștințe vechi, nu pe învățarea unor lucruri noi."
+      },
+      {
+        "q": "Pot folosi aceste activități persoanele aflate în stadiul avansat al demenței?",
+        "a": "Adesea da, cu cineva alături. Începeți cu Găsiți la fel cu două imagini, cu Perechi de imagini cu patru plăcuțe, cu o pagină de colorat sau cu o pauză liniștită de respirație. Faceți-o scurtă, urmați ritmul persoanei și opriți-vă când a ajuns."
+      },
+      {
+        "q": "Sunt informațiile mele private?",
+        "a": "Site-ul nu are conturi și nici reclame. Folosim Google Analytics pentru a înțelege ce pagini sunt vizitate. Fotografiile alese pentru Perechi de fotografii sunt afișate doar în browserul dumneavoastră și nu sunt încărcate niciodată."
+      },
+      {
+        "q": "Cine face Golden Moments?",
+        "a": "Golden Moments este o echipă mică, care creează activități calme cu imagini, potrivite pentru adulți, destinate familiilor și îngrijitorilor, pe web și ca aplicație gratuită. Nu suntem clinicieni, iar nimic de aici nu este sfat medical."
+      }
+    ]
+  },
+  "stage": {
+    "early": "incipient",
+    "middle": "mediu",
+    "late": "avansat",
+    "hintOne": "Se potrivește adesea în stadiul {list}",
+    "hintMany": "Se potrivește adesea în stadiile {list}",
+    "labelEarly": "Stadiul incipient",
+    "labelMiddle": "Stadiul mediu",
+    "labelLate": "Stadiul avansat"
+  },
+  "cards": {
+    "aboutGame": "Despre acest joc",
+    "printable": "De tipărit",
+    "play": "Jucați {name} →",
+    "readGuide": "Citiți ghidul"
+  },
+  "playCta": {
+    "title": "Gata pentru un joc blând?",
+    "text": "Imagini mari, fără cronometru, fără scor și nimic de completat pentru înscriere. Jucați împreună în browser.",
+    "play": "Jucați un joc",
+    "all": "Vedeți toate jocurile",
+    "aria": "Jucați un joc"
+  },
+  "appCta": {
+    "title": "Luați aceste jocuri cu dumneavoastră",
+    "text": "Aplicația gratuită Golden Moments pentru iPhone, iPad și Android: plăcuțe mari cu imagini, jocuri cu propriile fotografii de familie și pachete de imagini care funcționează fără Wi‑Fi. Fără cont, reclame, cronometru sau scor.",
+    "appStore": "Descărcați din App Store",
+    "googlePlay": "Descărcați din Google Play",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Despre aplicație",
+    "aria": "Descărcați aplicația"
+  },
+  "sections": {
+    "activities": {
+      "label": "Activități",
+      "title": "Activități pentru persoane cu demență",
+      "seo": "Activități pentru demență: idei pe stadii",
+      "description": "Idei de activități pentru persoane cu demență, în orice stadiu: muzică, amintiri, treburi zilnice, momente senzoriale, lucru manual și materiale de tipărit.",
+      "lede": "O activitate cu sens este orice aduce confort, un scop sau un moment de apropiere. Porniți de la ce i-a plăcut dintotdeauna persoanei și adaptați la ziua de azi."
+    },
+    "caregiving": {
+      "label": "Îngrijire",
+      "title": "Ghiduri pentru îngrijitori",
+      "seo": "Ghiduri pentru îngrijitorii persoanelor cu demență",
+      "description": "Ghiduri practice pentru îngrijitorii persoanelor cu demență: jocuri împreună, comunicare, refuzuri, neliniște spre seară, tablete, aplicații și grija de sine.",
+      "lede": "Ajutor simplu și practic pentru momentele de zi cu zi ale îngrijirii unei persoane care trăiește cu demență, inclusiv pentru grija față de dumneavoastră."
+    },
+    "brain-health": {
+      "label": "Sănătatea creierului",
+      "title": "Sănătatea creierului: ce spune cercetarea",
+      "seo": "Sănătatea creierului și riscul de demență",
+      "description": "Poate fi prevenită demența? Ghiduri cinstite, cu surse, despre factorii de risc, jocurile pentru minte, post, dietă, mișcare, somn, auz și semnele timpurii.",
+      "lede": "Ce arată de fapt studiile mari despre reducerea riscului de demență, explicat simplu, inclusiv acolo unde dovezile sunt slabe sau contradictorii. Informații generale, nu sfat medical."
+    }
+  },
+  "guide": {
+    "updated": "Actualizat",
+    "minuteRead": "{n} min de citit",
+    "byTeam": "De echipa Golden Moments",
+    "howWeWrite": "Cum scriem",
+    "shortAnswer": "Răspunsul pe scurt",
+    "onThisPage": "Pe această pagină ({n} secțiuni)",
+    "commonQuestions": "Întrebări frecvente",
+    "sources": "Surse",
+    "sourcesNote": "Trimitem către organizațiile și studiile pe care se sprijină această pagină. Fiecare a fost verificată la data actualizării paginii.",
+    "tryTogether": "Încercați împreună",
+    "relatedGuides": "Ghiduri conexe",
+    "related": "Conexe",
+    "startHere": "Începeți de aici"
+  },
+  "healthNotice": {
+    "aria": "Notă de informare medicală",
+    "title": "Informații generale, nu sfat medical",
+    "textHtml": "Această pagină rezumă cercetări publicate, pentru familii. Nu vă poate spune ce este potrivit pentru o anumită persoană. Discutați cu un medic înainte de a schimba dieta, exercițiile, somnul, medicamentele sau suplimentele. În caz de confuzie bruscă sau de alte schimbări bruște, cereți imediat ajutor medical. <a href=\"/medical-disclaimer/\">Citiți nota noastră de informare medicală</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "O activitate făcută împreună, nu un test de memorie",
+      "seoTitle": "Despre Golden Moments: abordarea noastră",
+      "description": "De ce jocurile Golden Moments nu au cronometre, scoruri sau serii, de ce imaginile rămân la vedere și ce susținem și ce nu susținem despre demență.",
+      "crumb": "Abordarea noastră",
+      "lede": "Golden Moments creează activități calme cu imagini, pentru adulți, pe care un îngrijitor și o persoană care trăiește cu demență le pot face împreună, unul lângă altul.",
+      "bodyHtml": "<h2>În ce credem</h2><p>Rostul unei activități este chiar momentul: o conversație, un zâmbet, mulțumirea de a potrivi două imagini sau pur și simplu a sta aproape. Nu este scopul să măsurăm pe cineva, să-l împingem mai departe sau să dovedim ceva.</p><p>Multe aplicații de antrenament pentru minte sunt concepute în jurul vitezei, scorurilor, seriilor și nivelurilor. Pentru o persoană care trăiește cu demență, acestea pot semăna cu un examen pe care nu îl poate trece. Noi am conceput opusul și ne ținem de aceste reguli:</p><ul><li><strong>Nimic de greșit.</strong> Fără ceas, scor, contor de mutări, vieți, serii, confetti sau numărătoare inversă, pe niciun ecran.</li><li><strong>Recunoaștere, nu reamintire.</strong> Imaginile rămân implicit la vedere. Ideile de conversație invită la discuție și nu cer niciodată nume sau amintiri.</li><li><strong>Mari, simple și stabile.</strong> Text și imagini mari, contrast ridicat și butoane care rămân mereu în același loc.</li><li><strong>Demnitate de adult.</strong> Imagini din viața reală și cuvinte simple, calde. Fără desene animate, laude siropoase sau recompense cu emoji.</li><li><strong>O ieșire ușoară.</strong> „Gata pentru acum” este mereu vizibil. A te opri la jumătate este un rezultat bun.</li><li><strong>Private implicit.</strong> Fără conturi sau reclame. Fotografiile alese de dumneavoastră rămân pe dispozitiv.</li></ul><h2>Ce nu susținem</h2><p>Jocurile noastre sunt pentru plăcere și apropiere. Nu diagnostichează, nu testează, nu măsoară, nu tratează, nu încetinesc și nu previn demența sau boala Alzheimer și nimeni nu ar trebui să le aleagă din acest motiv. Când scriem despre cercetare în <a href=\"/brain-health/\">paginile noastre despre sănătatea creierului</a>, spunem deschis unde dovezile sunt slabe și nu le legăm niciodată de propriile jocuri.</p><h2>Cine suntem</h2><p>Golden Moments este o echipă mică, independentă. Nu suntem clinicieni. Ghidurile noastre sunt scrise pe baza recomandărilor publicate de organizații precum National Institute on Aging și Alzheimer’s Association, iar fiecare ghid își listează sursele. Citiți <a href=\"/editorial-policy/\">cum scriem și verificăm paginile</a>.</p><h2>Spuneți-ne ce ar ajuta</h2><p>Ne-ar plăcea să aflăm ce funcționează pentru dumneavoastră și ce nu, mai ales de la persoane care trăiesc cu demență, de la îngrijitori din familie și de la personalul care organizează activități. Scrieți la <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Cum scriem și verificăm paginile",
+      "seoTitle": "Politica editorială",
+      "description": "Cum cercetează, scrie, citează și actualizează Golden Moments paginile despre activități pentru demență și sănătatea creierului și ce nu vom publica niciodată.",
+      "crumb": "Politica editorială",
+      "bodyHtml": "<h2>Sursele noastre</h2><p>Ne bazăm ghidurile pe recomandări publice ale unor organizații precum National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance și NHS, precum și pe cercetări evaluate de specialiști, cum sunt analizele Cochrane și studiile clinice mari. Fiecare ghid își listează sursele. Deschidem fiecare sursă înainte de a o cita și raportăm doar ce spune ea de fapt.</p><h2>Cum scriem</h2><ul><li>Întâi practic: ce puteți face azi, în limbaj simplu.</li><li>Cinstiți în privința dovezilor: spunem „asociat cu”, „poate” și „dovezile sunt contradictorii” atunci când acesta este adevărul.</li><li>Cu respect: scriem despre persoanele care trăiesc cu demență ca despre adulți și nu folosim niciodată un limbaj care pune întrebări-test sau rușinează.</li><li>Fără conținut inventat: fără statistici, citate, experți, studii, recenzii sau mărturii născocite.</li></ul><h2>Cine ne verifică paginile</h2><p>Paginile sunt scrise și verificate de echipa Golden Moments, cu ajutorul unor instrumente de scriere bazate pe inteligență artificială pentru cercetare și ciorne. Echipa verifică fiecare pagină față de surse. Paginile noastre <strong>nu</strong> au fost revizuite de un medic sau de alt clinician și nu pretindem altceva. Sunt informații generale, nu sfat medical.</p><h2>Ce nu vom publica niciodată</h2><ul><li>Afirmații că un joc, un aliment, un supliment, un post sau o rutină previne, tratează, încetinește sau vindecă demența.</li><li>Teste, chestionare sau scoruri care sugerează că cineva are sau nu are demență.</li><li>Sfaturi de a începe, a opri sau a schimba un medicament.</li><li>Reclame sau conținut sponsorizat deghizat în recomandări.</li></ul><h2>Actualizări și corecturi</h2><p>Fiecare pagină arată data ultimei actualizări. Dacă găsiți o greșeală sau o sursă depășită, scrieți la <a href=\"mailto:{email}\">{email}</a> și o vom verifica prompt.</p>"
+    },
+    "faq": {
+      "title": "Întrebări și răspunsuri",
+      "seoTitle": "Jocuri și activități pentru demență: întrebări și răspunsuri",
+      "description": "Răspunsuri la întrebări despre jocuri și activități pentru demență: ce să încercați, cât să jucați, stadiul avansat, sănătatea creierului și confidențialitate.",
+      "crumb": "Întrebări și răspunsuri",
+      "lede": "Răspunsuri scurte și simple la întrebările pe care le pun cel mai des îngrijitorii.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Despre jocuri",
+          "items": [
+            {
+              "q": "Care sunt cele mai bune jocuri pentru o persoană cu demență?",
+              "a": "Cele mai bune jocuri sunt familiare, simple și fără presiune, iar cel potrivit este cel care îi place persoanei azi. Potrivirea de imagini lăsate la vedere, sortarea, puzzle-urile ușoare, completarea unor proverbe cunoscute, colorarea și bingo cu imagini merg bine pentru mulți oameni. Evitați cronometrele, scorurile și orice seamănă cu un test."
+            },
+            {
+              "q": "Sunt jocurile cu adevărat gratuite?",
+              "a": "Da. Toate jocurile și materialele de tipărit sunt gratuite, fără cont, înregistrare, descărcare sau reclame."
+            },
+            {
+              "q": "De ce nu există scoruri, niveluri sau cronometre?",
+              "a": "Viteza și scorurile transformă o activitate plăcută într-un examen, care poate aduce jenă sau frustrare. Ne concentrăm pe plăcere și pe timpul petrecut împreună, așa că nu aveți ce greși și vă puteți opri oricând."
+            },
+            {
+              "q": "Care dispozitive funcționează cel mai bine?",
+              "a": "Orice telefon, tabletă sau computer cu un browser modern. O tabletă pe un suport, la o masă, este adesea cea mai comodă variantă pentru două persoane care joacă una lângă alta. Un laptop conectat la televizor merge bine pentru grupuri."
+            },
+            {
+              "q": "Putem juca cu propriile fotografii de familie?",
+              "a": "Da. Perechi de fotografii transformă într-un joc de potrivire 2 până la 6 fotografii alese de dumneavoastră. Fotografiile rămân în browser și nu sunt încărcate sau salvate."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Activități și îngrijire",
+          "items": [
+            {
+              "q": "Cât ar trebui să dureze o activitate?",
+              "a": "Adesea 10 până la 20 de minute sunt suficiente, iar uneori și 2 minute sunt o reușită. Urmăriți semnele de oboseală sau frustrare și opriți-vă cât încă vă face plăcere. Nu există o durată potrivită."
+            },
+            {
+              "q": "Ce facem dacă persoana nu vrea să facă o activitate?",
+              "a": "Respectați refuzul și încercați mai târziu sau altfel. Refuzul poate veni din oboseală, durere, nesiguranță sau pur și simplu din lipsa de interes. Citiți ghidul nostru despre ce să faceți când persoana refuză."
+            },
+            {
+              "q": "Ce activități se potrivesc în stadiul avansat al demenței?",
+              "a": "Confortul și simțurile: ascultarea muzicii preferate, un masaj ușor al mâinilor cu loțiune, privitul fotografiilor împreună, o pătură moale, statul afară sau un joc foarte simplu cu imagini, cu cineva alături. Ghidul nostru pentru stadiul avansat are multe alte idei."
+            },
+            {
+              "q": "Există activități pentru grupuri dintr-un cămin de îngrijire?",
+              "a": "Da. Bingo cu imagini are cartonașe de tipărit și un crainic pe ecran, iar Completați proverbul și Cartonașe de conversație merg bine citite cu voce tare. Ghidul nostru pentru grupurile din cămine acoperă dimensiunea grupului, așezarea și adaptarea pentru abilități diferite."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Sănătatea creierului",
+          "items": [
+            {
+              "q": "Pot jocurile să prevină sau să încetinească demența?",
+              "a": "Nu s-a demonstrat că vreun joc previne demența, iar jocurile noastre nu pretind așa ceva. Stimularea cognitivă într-un cadru social a arătat în cercetări beneficii mici pentru persoane cu demență ușoară până la moderată, dar asta este altceva decât un joc care previne boala. Noi oferim jocuri pentru plăcere și apropiere."
+            },
+            {
+              "q": "Poate fi prevenită demența?",
+              "a": "Nu cu certitudine. Cercetările asociază 14 factori de sănătate și stil de viață cu riscul de demență, precum pierderea auzului, tensiunea arterială mare, lipsa mișcării și izolarea socială. Abordarea lor poate reduce riscul pentru unele persoane, dar multe persoane care fac totul bine ajung totuși să aibă demență. Nu este niciodată vina cuiva."
+            },
+            {
+              "q": "Este postul intermitent bun pentru sănătatea creierului?",
+              "a": "Dovezile la oameni sunt limitate și timpurii, iar o mare parte din cercetare este făcută pe animale. Postul poate fi riscant pentru adulții în vârstă, mai ales cu medicamente pentru diabet sau cu scădere neintenționată în greutate, și nu este recomandat persoanelor care trăiesc cu demență. Discutați cu un medic înainte de a schimba modul în care mâncați."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Confidențialitate și siguranță",
+          "items": [
+            {
+              "q": "Colectați vreo informație?",
+              "a": "Fără conturi sau reclame. Folosim Google Analytics pentru a număra vizitele și a vedea ce pagini sunt utile, iar browserul dumneavoastră reține dacă ați activat sunetele line. Fotografiile alese pentru Perechi de fotografii nu sunt încărcate niciodată. Vedeți nota de confidențialitate pentru detalii."
+            },
+            {
+              "q": "Este acesta sfat medical?",
+              "a": "Nu. Golden Moments este pentru recreere și informații generale. Pentru întrebări despre sănătate, discutați cu un medic, iar în caz de urgență sunați la numărul local de urgență."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Mai multe detalii: <a href=\"/caregiving/how-to-play-together/\">cum să jucați împreună</a>, <a href=\"/caregiving/when-they-say-no/\">când persoana refuză</a>, <a href=\"/activities/late-stage/\">activități pentru stadiul avansat</a> și <a href=\"/brain-health/can-dementia-be-prevented/\">poate fi prevenită demența?</a>"
+    },
+    "handout": {
+      "title": "Jocuri blânde și gratuite pentru persoane cu demență",
+      "seoTitle": "Fișă de tipărit: jocuri gratuite pentru demență",
+      "description": "O fișă de o pagină, de tipărit, despre jocuri blânde și gratuite cu imagini pentru persoane cu demență, pentru familii, îngrijitori și grupuri de sprijin.",
+      "crumb": "Fișă de tipărit",
+      "lede": "Tipăriți această pagină pentru un grup de sprijin, un pachet pentru îngrijitori sau ușa frigiderului. Folosiți comanda Tipărire a browserului; meniurile și butoanele nu apar pe hârtie.",
+      "introHtml": "<p>Imagini mari, cuvinte simple și nimic de greșit. Gratuit pe telefon, tabletă sau computer, fără înregistrare, reclame, cronometre sau scoruri. Stați unul lângă altul și atingeți pe rând.</p>",
+      "gamesTitle": "Jocuri de încercat împreună",
+      "restHtml": "<h2>Câteva sfaturi</h2><ul><li>Alegeți un moment al zilei în care persoana se simte cel mai bine.</li><li>Începeți cu cea mai ușoară setare. Patru plăcuțe sunt suficiente.</li><li>Vorbiți despre imagini. Conversația este adesea cea mai frumoasă parte.</li><li>Opriți-vă cât încă vă face plăcere. A termina mai devreme este un rezultat bun.</li></ul><h2>De asemenea, pe site</h2><ul><li>Materiale gratuite de tipărit: căutări de cuvinte cu litere mari, pagini de colorat, cartonașe de conversație și bingo cu imagini.</li><li>Idei de activități pentru fiecare stadiu și ghiduri despre jocul împreună și despre grija față de dumneavoastră.</li></ul><p class=\"muted\">Pentru plăcere și timp petrecut împreună. Nu este sfat medical, test sau tratament. Golden Moments este publicat de Cloudjet Solutions Pte. Ltd.</p>"
+    },
+    "organizations": {
+      "title": "Pentru cămine, biblioteci și grupuri de sprijin",
+      "seoTitle": "Activități gratuite pentru demență, pentru cămine și grupuri",
+      "description": "Cum folosesc căminele, centrele de zi, bibliotecile și grupurile de sprijin jocurile noastre gratuite pentru demență, plus text pentru o listă de resurse.",
+      "crumb": "Pentru organizații",
+      "lede": "Tot ce se află pe acest site este gratuit pentru a fi folosit cu rezidenți, membri și clienți, fără cont, licență sau taxă. Această pagină explică ce găsiți aici și cum puteți trimite mai departe.",
+      "shortText": "{name}: jocuri blânde gratuite cu imagini și ghiduri de activități pentru persoane care trăiesc cu demență și pentru îngrijitorii lor. Fără cont, cronometre sau scoruri.",
+      "longText": "{name} ({domain}) oferă {count} jocuri gratuite în browser, create pentru persoane care trăiesc cu demență, printre care perechi de potrivit cu imagini lăsate la vedere, un puzzle ușor, sortare, proverbe cunoscute și bingo cu imagini, cu cartonașe de tipărit. Nu există cont, reclame, cronometru sau scor. Site-ul conține și ghiduri de activități în limbaj simplu pentru fiecare stadiu al demenței, care citează National Institute on Aging și Alzheimer's Association.",
+      "useTitle": "Ce pot folosi organizațiile",
+      "gamesItemHtml": "<strong>{count} jocuri în browser</strong> care rulează pe un laptop, o tabletă sau un televizor conectat la un computer. Fără instalare, cont sau descărcare. Vedeți <a href=\"/games/\">toate jocurile</a>.",
+      "printablesLabel": "{count} materiale de tipărit:",
+      "printablesAfter": "Folosiți butonul Tipărire de pe fiecare pagină.",
+      "moreItemsHtml": "<li><strong>Formate pentru grup:</strong> <a href=\"/games/picture-bingo/\">Bingo cu imagini</a> are cartonașe de tipărit și un crainic pe ecran, iar <a href=\"/activities/trivia/\">întrebările ușoare de cultură generală</a> au 50 de întrebări cu variante de răspuns și subiecte de discuție.</li><li><strong>Ghiduri de activități</strong> pentru personal și familii, pe stadii și pe tipuri, scrise în limbaj simplu, cu surse. Începeți cu <a href=\"/activities/ideas/\">101 idei de activități</a> sau cu <a href=\"/activities/care-home-groups/\">activități de grup pentru cămine</a>.</li>",
+      "restHtml": "<h2>Cum îl folosesc grupurile</h2><ul><li><strong>Cămine și centre de îngrijire:</strong> bingo cu imagini sau completarea proverbelor pe televizorul din sala comună, cu o persoană care atinge ecranul pentru grup.</li><li><strong>Centre de zi:</strong> o stație cu tabletă, cu Perechi de imagini setat pe patru plăcuțe, pentru sesiuni scurte, individuale.</li><li><strong>Biblioteci publice:</strong> căutări de cuvinte și cartonașe de conversație tipărite în truse de amintiri, iar site-ul salvat la favorite pe tabletele bibliotecii.</li><li><strong>Grupuri de sprijin pentru îngrijitori și cafenele de memorie:</strong> o <a href=\"/handout/\">fișă de o pagină, de tipărit</a>, pe care familiile să o ia acasă.</li><li><strong>Spitale și specialiști în externare:</strong> fișa în pachetele pentru îngrijitori, pentru ceva liniștit de făcut acasă sau la căpătâiul patului.</li></ul><h2>Ce nu facem</h2><p>Jocurile sunt pentru plăcere și timp petrecut împreună. Nu diagnostichează, nu testează, nu evaluează, nu tratează și nu încetinesc demența, iar rugăm organizațiile să nu le descrie astfel. Nu există reclame, iar jocurile nu cer nume, date de sănătate sau încărcarea de fotografii. Site-ul folosește Google Analytics pentru a număra vizitele; <a href=\"/privacy/\">nota noastră de confidențialitate</a> explică ce se colectează. Fotografiile folosite în <a href=\"/games/photo-pairs/\">Perechi de fotografii</a> rămân în browser.</p><h2>Adăugați-ne pe lista dumneavoastră de resurse</h2><p>Dacă țineți o listă de resurse pentru îngrijitori, ne puteți trimite link către <a href=\"/\">{domain}</a>. Puteți copia oricare dintre descrieri.</p>",
+      "shortTitle": "Descriere scurtă",
+      "longTitle": "Descriere mai lungă",
+      "linksHtml": "<p>Pagini utile către care puteți trimite direct: <a href=\"/games/\">jocuri gratuite</a>, <a href=\"/activities/printable/\">materiale gratuite de tipărit</a>, <a href=\"/activities/alzheimers/\">activități pentru Alzheimer</a> și <a href=\"/caregiving/how-to-play-together/\">cum să jucați împreună</a>.</p><h2>Întrebări sau corecturi</h2><p>Dacă ceva de pe site este greșit sau neclar, sau dacă nevoile unui rezident nu sunt acoperite de ce găsiți aici, scrieți-ne la <a href=\"mailto:{email}\">{email}</a>. Vă rugăm să nu trimiteți informații personale sau de sănătate despre rezidenți sau clienți.</p>"
+    },
+    "app": {
+      "title": "Aplicația Golden Moments",
+      "seoTitle": "Aplicația Golden Moments pentru iPhone și Android",
+      "description": "Aplicația gratuită Golden Moments: potrivire blândă cu patru plăcuțe mari, fotografii de familie păstrate pe dispozitiv, pachete offline, fără cont.",
+      "crumb": "Aplicația",
+      "lede": "Tot ce vă place la site, într-o aplicație care funcționează offline și poate folosi fotografiile de familie alese de dumneavoastră.",
+      "worksOn": "Funcționează pe {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Începeți cu puțin</h2><p>Începeți cu patru plăcuțe mari și imagini familiare. Lăsați imaginile la vedere sau ascundeți-le atunci când vi se pare confortabil. Modul blând nu are cronometru, scor sau penalizări. Alegeți 4, 6, 8 sau 12 plăcuțe.</p><h2>Faceți-o personală</h2><p>Selectați fotografii de familie cu ajutorul selectorului de fotografii al dispozitivului. Aplicația salvează copii mai mici pentru activitățile sale. Nu scanează biblioteca dumneavoastră și nu modifică fotografiile originale, iar într-o colecție păstrează până la 24 de fotografii.</p><h2>Priviți pur și simplu împreună</h2><p>Priviți câte o imagine pe rând. Ideile opționale de conversație invită la discuție, fără a cere nimănui să-și amintească nume sau să dea un răspuns corect. Este de ajuns să priviți.</p><h2>Offline acolo unde contează</h2><p>Imaginile de început și toate cele opt pachete de imagini sunt incluse în aplicație. Copiile fotografiilor importate funcționează offline. Alegerea unor originale stocate doar în iCloud poate necesita conexiune la internet.</p><h2>Fără cont, fără server pentru fotografii</h2><p>Copiile fotografiilor de familie rămân în aplicație, pe dispozitiv. Puteți șterge copiile fără a șterge originalele. Copiile de rezervă ale dispozitivului pot include datele aplicației. Citiți <a href=\"/app-privacy/\">politica de confidențialitate a aplicației</a>, iar <a href=\"/help/\">ajutorul pentru aplicație</a> vă ghidează la fiecare pas.</p>",
+      "disclaimer": "Golden Moments este pentru recreere și conversație împreună. Nu diagnostichează, nu tratează, nu previne și nu măsoară demența sau boala Alzheimer.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Jocuri gratuite online pentru demență și Alzheimer",
+    "description": "Jocuri online gratuite pentru seniori cu demență sau Alzheimer: potrivire de imagini, puzzle ușor, sortare, proverbe, colorat, bingo. Fără cont sau scoruri.",
+    "crumb": "Jocuri",
+    "h1": "Jocuri blânde pentru persoane cu demență",
+    "lede": "{count} jocuri gratuite de jucat împreună în browser. Imagini mari, cuvinte simple și nimic de greșit: fără cronometre, fără scoruri, fără înregistrare.",
+    "listName": "Jocuri blânde pentru persoane cu demență",
+    "byStageTitle": "Alegerea unui joc în funcție de stadiu",
+    "byStageLede": "Stadiile sunt doar un reper aproximativ. Urmați ce îi place persoanei și ce este confortabil azi.",
+    "stageCol": "Stadiu",
+    "gamesCol": "Jocuri care se potrivesc adesea",
+    "moreHtml": "Mai multe idei, departe de ecran: <a href=\"/activities/ideas/\">101 activități pentru persoane cu demență</a>, <a href=\"/activities/alzheimers/\">activități și jocuri pentru Alzheimer</a>, <a href=\"/activities/memory-games/\">jocuri blânde de memorie</a> și <a href=\"/activities/puzzles/\">puzzle-uri</a>.",
+    "faq": [
+      {
+        "q": "Cu ce joc să începem?",
+        "a": "Perechi de imagini cu patru plăcuțe este o primă alegere calmă. Dacă alegerea între imagini pare prea mult, încercați Găsiți la fel cu două imagini. Pentru un grup, încercați Bingo cu imagini."
+      },
+      {
+        "q": "Funcționează jocurile pe iPad sau pe telefon?",
+        "a": "Da. Fiecare joc funcționează în browser, pe telefoane, tablete și computere, iar imaginile se măresc pentru a umple ecranul. O tabletă pe un suport este adesea cea mai comodă pentru două persoane."
+      },
+      {
+        "q": "Sunt aceste jocuri bune pentru o persoană cu Alzheimer?",
+        "a": "Da. Au fost făcute pentru persoane care trăiesc cu demență, inclusiv Alzheimer, cea mai frecventă cauză. Imaginile rămân la vedere, există doar câteva alegeri și nimic nu este cronometrat sau punctat, deci jocurile se sprijină pe recunoașterea lucrurilor familiare, nu pe reținerea unora noi."
+      },
+      {
+        "q": "Sunt acestea jocuri de memorie pentru seniori?",
+        "a": "Sunt jocuri de potrivire și jocuri cu imagini pe care le poate savura orice adult în vârstă, dar sunt făcute să nu testeze memoria: în Perechi de imagini, imaginile rămân la vedere, dacă nu alegeți altfel. Ghidul nostru despre jocurile de memorie pentru seniori cu demență explică cum puteți păstra blând orice joc de memorie."
+      },
+      {
+        "q": "Există jocuri pentru grupuri dintr-un cămin de îngrijire?",
+        "a": "Da. Bingo cu imagini are cartonașe de tipărit și un crainic pe ecran, iar Completați proverbul și Cartonașe de conversație merg bine citite cu voce tare unui grup."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad și Android",
+    "requirements": "iOS 15 sau mai nou; Android 7.0 sau mai nou",
+    "summary": "O aplicație gratuită pentru iPhone, iPad și Android, cu potrivire blândă de imagini pe patru până la douăsprezece plăcuțe mari, potrivire și vizionare cu fotografii de familie alese de dumneavoastră și opt pachete de imagini incluse, care funcționează fără internet. Fără cont, reclame, cronometru sau scor.",
+    "features": [
+      "Potrivire blândă de imagini cu 4, 6, 8 sau 12 plăcuțe mari; imaginile rămân la vedere, dacă nu alegeți să le ascundeți",
+      "Fotografiile de familie selectate sunt copiate în aplicație pentru potrivire și pentru a le privi împreună",
+      "Priviți împreună: câte o imagine pe rând, cu idei opționale de conversație",
+      "Opt pachete de imagini incluse în aplicație; funcționează offline",
+      "Fără cont, reclame, achiziții în aplicație, cronometru, scor sau penalizări"
+    ],
+    "faq": [
+      {
+        "q": "Există o aplicație cu activități pentru demență?",
+        "a": "Da. Golden Moments (listată ca „{storeName}”) este gratuită în App Store și Google Play. Oferă potrivire blândă de imagini cu plăcuțe mari, jocuri cu fotografii de familie alese de dumneavoastră și pachete de imagini care funcționează offline."
+      },
+      {
+        "q": "Este aplicația Golden Moments gratuită?",
+        "a": "Da. Se descarcă gratuit, fără reclame, cont sau achiziții în aplicație."
+      },
+      {
+        "q": "Funcționează aplicația fără internet?",
+        "a": "Da. Imaginile de început și toate cele opt pachete de imagini sunt incluse în aplicație, iar fotografiile de familie funcționează offline după ce sunt copiate în aplicație. Alegerea unei fotografii stocate doar în iCloud poate necesita conexiune."
+      },
+      {
+        "q": "Pot folosi propriile fotografii de familie?",
+        "a": "Da. Alegeți fotografii cu ajutorul selectorului de fotografii al dispozitivului. Aplicația păstrează copii mai mici pe dispozitiv pentru activitățile sale, nu le încarcă și nu modifică niciodată originalele. Puteți șterge copiile oricând."
+      },
+      {
+        "q": "Este o aplicație de antrenament mental sau de testare a memoriei?",
+        "a": "Nu. Golden Moments este pentru plăcere și timp petrecut împreună. Nu are scoruri sau teste și nu diagnostichează, nu tratează, nu previne și nu măsoară demența sau boala Alzheimer."
+      },
+      {
+        "q": "Pe ce dispozitive funcționează?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Există o versiune în aplicație a acestui joc?",
+      "a": "Da. Aplicația gratuită Golden Moments pentru iPhone, iPad și Android are aceeași potrivire blândă de imagini, poate folosi fotografii de familie alese de dumneavoastră și funcționează offline. Fără cont, reclame sau scor."
+    },
+    "gameFaqNo": {
+      "q": "Există o versiune în aplicație a acestui joc?",
+      "a": "Nu a acestui joc. Aplicația gratuită Golden Moments pentru iPhone, iPad și Android are potrivire blândă de imagini cu plăcuțe mari și fotografii de familie alese de dumneavoastră și funcționează offline. Acest joc rămâne gratuit aici, în browser."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: imagini mari și prietenoase",
+    "noscript": "Acest joc are nevoie de JavaScript activat în browser. Sfaturile de mai jos funcționează și fără el.",
+    "about": "Despre {name}",
+    "aboutAria": "Despre acest joc",
+    "noTimer": "Fără cronometru sau scor",
+    "printable": "De tipărit",
+    "howTo": "Cum se joacă {name}",
+    "tips": "Sfaturi pentru jocul împreună",
+    "newToPlayingHtml": "Jucați pentru prima dată cu o persoană care are demență? Citiți <a href=\"/caregiving/how-to-play-together/\">cum să jucați jocuri împreună</a>, inclusiv ce să faceți dacă persoana își pierde interesul.",
+    "moreAria": "Mai multe de descoperit",
+    "helpfulGuides": "Ghiduri utile",
+    "appTitle": "Jucați-l în aplicație",
+    "appText": "Aplicația gratuită Golden Moments are potrivire blândă de imagini cu plăcuțe mari și propriile fotografii de familie și funcționează fără Wi‑Fi. iPhone, iPad și Android.",
+    "photoAppTitle": "Păstrați fotografiile la îndemână",
+    "photoAppText": "În aplicația gratuită Golden Moments, fotografiile alese de dumneavoastră rămân pe dispozitiv pentru data viitoare, iar jocurile funcționează fără Wi‑Fi. iPhone, iPad și Android.",
+    "goodToKnow": "Bine de știut",
+    "goodToKnowText": "Acest joc este pentru plăcere și timp petrecut împreună. Nu testează, nu măsoară și nu tratează nimic.",
+    "moreGames": "Mai multe jocuri blânde",
+    "crumb": "Jocuri"
+  }
+}

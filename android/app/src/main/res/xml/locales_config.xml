@@ -30,4 +30,9 @@
     <locale android:name="te" />
     <locale android:name="ta" />
     <locale android:name="gu" />
+    <locale android:name="pa" />
+    <locale android:name="fil" />
+    <locale android:name="ro" />
+    <locale android:name="ms" />
+    <locale android:name="sw" />
 </locale-config>

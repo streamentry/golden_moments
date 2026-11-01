@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Haiwan",
+      "description": "Haiwan yang comel dan mesra dari seluruh dunia"
+    },
+    "nature": {
+      "name": "Alam semula jadi",
+      "description": "Pemandangan indah dan suasana alam"
+    },
+    "food": {
+      "name": "Makanan",
+      "description": "Hidangan dan juadah yang lazat"
+    },
+    "vintage": {
+      "name": "Kereta",
+      "description": "Kereta dan lori untuk dilihat dan dibualkan"
+    },
+    "flowers": {
+      "name": "Bunga",
+      "description": "Bunga yang mekar indah dan suasana taman"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Haiwan ladang",
+      "description": "Haiwan ladang yang mesra, seperti ketika melawat kampung.",
+      "theme": "Kehidupan di ladang",
+      "images": {
+        "cow_1": "Lembu yang mesra",
+        "pig_1": "Khinzir yang ceria",
+        "chicken_1": "Ayam jantan",
+        "buffalo_1": "Kerbau",
+        "horse_1": "Kuda yang cantik",
+        "duck_1": "Keluarga itik",
+        "goat_1": "Kambing yang ingin tahu",
+        "rabbit_1": "Arnab yang comel"
+      }
+    },
+    "nature_mountains": {
+      "title": "Pemandangan gunung",
+      "description": "Pemandangan gunung yang menakjubkan dan indah dipandang",
+      "theme": "Keindahan alam",
+      "images": {
+        "mountain_1": "Puncak bersalji",
+        "mountain_2": "Gunung Fuji",
+        "mountain_3": "Lembah Alpine",
+        "mountain_4": "Puncak berbatu",
+        "mountain_5": "Bukit berhutan",
+        "mountain_6": "Gunung berkabus"
+      }
+    },
+    "vintage_cars": {
+      "title": "Kereta dan lori",
+      "description": "Kereta dan lori berkilat untuk dilihat dan dibualkan",
+      "theme": "Di jalan raya",
+      "images": {
+        "vintage_car_1": "Audi oren ketika matahari terbenam",
+        "vintage_car_2": "Kereta sport biru di gurun",
+        "vintage_car_3": "Bugatti perak",
+        "vintage_car_4": "Porsche hitam di jalan raya",
+        "vintage_car_5": "BMW oren di jalan yang diapit pokok palma",
+        "vintage_car_6": "Kereta kupe biru di tepi garaj",
+        "vintage_car_7": "Trak pikap hijau",
+        "vintage_car_8": "SUV putih di celah batu merah",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Kereta biru berjalur putih"
+      }
+    },
+    "animals_safari": {
+      "title": "Haiwan safari",
+      "description": "Haiwan megah dari safari Afrika",
+      "theme": "Hidupan liar",
+      "images": {
+        "lion_1": "Singa yang gagah",
+        "elephant_2": "Gajah Afrika",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Kuda belang",
+        "rhino_5": "Badak sumbu yang gagah",
+        "cheetah_6": "Cheetah yang pantas",
+        "fox_7": "Rubah perang",
+        "bear_8": "Beruang kutub",
+        "turtle_9": "Kura-kura perang",
+        "squirrel_10": "Tupai perang",
+        "macaw_11": "Makau kuning dan biru",
+        "tiger_12": "Harimau",
+        "raccoon_13": "Rakun",
+        "wolf_14": "Serigala kelabu",
+        "crocodile_15": "Buaya",
+        "peacock_16": "Merak yang cantik"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Pencuci mulut yang lazat",
+      "description": "Beberapa pencuci mulut yang lazat untuk hidangan anda.",
+      "theme": "Pencuci mulut manis",
+      "images": {
+        "pastries_1": "Empat keping pastri",
+        "oreo_cookie_sandwiches_2": "Biskut sandwic Oreo",
+        "crepe_3": "Krep",
+        "pancake_4": "Penkek",
+        "macarons_5": "Makaron",
+        "caramel_cake_6": "Kek karamel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Bunga tropika",
+      "description": "Temui keindahan tropika yang meriah melalui pek bunga eksotik ini.",
+      "theme": "Bunga tropika",
+      "images": {
+        "hibiscus_1": "Bunga raya merah",
+        "frangipani_2": "Kemboja merah putih",
+        "sunflower_3": "Bunga matahari",
+        "hydrangea_4": "Hidrangea putih",
+        "rose_5": "Bunga ros",
+        "chrysanthemum_6": "Kekwa",
+        "anthurium_7": "Anturium",
+        "plumeria_8": "Kemboja",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Pesta makanan jalanan",
+      "description": "Terokai dunia makanan jalanan yang penuh warna melalui pek juadah lazat dari serata dunia.",
+      "theme": "Makanan jalanan",
+      "images": {
+        "taco_1": "Taco Mexico",
+        "ramen_2": "Ramen Jepun",
+        "dumplings_3": "Ladu Cina",
+        "samosa_4": "Samosa India",
+        "pizza_5": "Sepotong piza Itali",
+        "crepe_6": "Krep Perancis",
+        "satay_7": "Sate Thai",
+        "burger_8": "Burger Amerika",
+        "bao_9": "Pau bao kukus",
+        "takoyaki_10": "Takoyaki Jepun"
+      }
+    },
+    "nature_landscape": {
+      "title": "Pemandangan alam",
+      "description": "Suasana alam yang tenang dan indah untuk dilihat perlahan-lahan dan dibualkan bersama.",
+      "theme": "Pemandangan alam",
+      "images": {
+        "mountain_1": "Banjaran gunung",
+        "forest_2": "Hutan berkabus",
+        "lake_3": "Tasik gunung",
+        "desert_4": "Bukit pasir gurun",
+        "waterfall_5": "Air terjun",
+        "beach_6": "Pantai berpasir",
+        "river_7": "Sungai yang mengalir",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Langit senja",
+        "snow_mountain_10": "Gunung bersalji",
+        "flowers_11": "Bunga liar",
+        "rainforest_12": "Hutan hujan",
+        "iceberg_13": "Gunung ais",
+        "volcano_14": "Gunung berapi",
+        "cliff_15": "Tebing tepi laut",
+        "aurora_16": "Aurora borealis",
+        "savannah_17": "Savana",
+        "coral_reef_18": "Terumbu karang"
+      }
+    }
+  }
+}

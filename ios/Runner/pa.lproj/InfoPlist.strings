@@ -1,0 +1,5 @@
+/* Home Screen name under the app icon. Keep it short; it is the app's name. */
+"CFBundleDisplayName" = "Golden Moments";
+
+/* Shown when the app first asks to choose photos. Say plainly that only chosen photos are copied, on this device. */
+"NSPhotoLibraryUsageDescription" = "ਪਰਿਵਾਰ ਦੀਆਂ ਉਹ ਫੋਟੋਆਂ ਚੁਣੋ ਜੋ ਤੁਸੀਂ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਨਿੱਜੀ ਗਤੀਵਿਧੀਆਂ ਲਈ ਕਾਪੀ ਕਰਨੀਆਂ ਚਾਹੁੰਦੇ ਹੋ। Golden Moments ਤੁਹਾਡੀ ਫੋਟੋ ਲਾਇਬ੍ਰੇਰੀ ਨੂੰ ਸਕੈਨ ਨਹੀਂ ਕਰਦਾ।";

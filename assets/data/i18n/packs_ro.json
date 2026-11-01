@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Animale",
+      "description": "Animale simpatice și prietenoase din toată lumea"
+    },
+    "nature": {
+      "name": "Natură",
+      "description": "Peisaje frumoase și scene din natură"
+    },
+    "food": {
+      "name": "Mâncare",
+      "description": "Mâncăruri și dulciuri gustoase"
+    },
+    "vintage": {
+      "name": "Mașini",
+      "description": "Mașini și camioane de privit și de povestit despre ele"
+    },
+    "flowers": {
+      "name": "Flori",
+      "description": "Flori frumoase și scene din grădină"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Animale de la fermă",
+      "description": "Animale prietenoase de la fermă, ca la o vizită la țară.",
+      "theme": "Viața la țară",
+      "images": {
+        "cow_1": "Vacă blândă",
+        "pig_1": "Porc vesel",
+        "chicken_1": "Cocoș",
+        "buffalo_1": "Bivol",
+        "horse_1": "Cal frumos",
+        "duck_1": "Familie de rațe",
+        "goat_1": "Capră curioasă",
+        "rabbit_1": "Iepuraș drăguț"
+      }
+    },
+    "nature_mountains": {
+      "title": "Priveliști de munte",
+      "description": "Peisaje montane și priveliști care taie respirația",
+      "theme": "Frumusețea naturii",
+      "images": {
+        "mountain_1": "Vârfuri acoperite de zăpadă",
+        "mountain_2": "Muntele Fuji",
+        "mountain_3": "Vale alpină",
+        "mountain_4": "Vârf stâncos",
+        "mountain_5": "Dealuri cu pădure",
+        "mountain_6": "Munți în ceață"
+      }
+    },
+    "vintage_cars": {
+      "title": "Mașini și camioane",
+      "description": "Mașini și camioane strălucitoare de privit și de povestit despre ele",
+      "theme": "Pe drum",
+      "images": {
+        "vintage_car_1": "Audi portocaliu la apus",
+        "vintage_car_2": "Mașină sport albastră în deșert",
+        "vintage_car_3": "Bugatti argintiu",
+        "vintage_car_4": "Porsche negru pe șosea",
+        "vintage_car_5": "BMW portocaliu pe o stradă cu palmieri",
+        "vintage_car_6": "Coupé albastru lângă un garaj",
+        "vintage_car_7": "Camionetă verde",
+        "vintage_car_8": "SUV alb printre stânci roșii",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Mașină albastră cu dungi albe"
+      }
+    },
+    "animals_safari": {
+      "title": "Animale de safari",
+      "description": "Animale maiestuoase din safari-urile africane",
+      "theme": "Viața sălbatică",
+      "images": {
+        "lion_1": "Leu maiestuos",
+        "elephant_2": "Elefant african",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Zebră vărgată",
+        "rhino_5": "Rinocer puternic",
+        "cheetah_6": "Ghepard iute",
+        "fox_7": "Vulpe roșcată",
+        "bear_8": "Urs polar",
+        "turtle_9": "Broască țestoasă maro",
+        "squirrel_10": "Veveriță maro",
+        "macaw_11": "Ara galbenă și albastră",
+        "tiger_12": "Tigru",
+        "raccoon_13": "Raton",
+        "wolf_14": "Lup cenușiu",
+        "crocodile_15": "Crocodil",
+        "peacock_16": "Păun frumos"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Deserturi gustoase",
+      "description": "Câteva deserturi gustoase pentru mesele dumneavoastră.",
+      "theme": "Deserturi dulci",
+      "images": {
+        "pastries_1": "Patru pateuri dulci",
+        "oreo_cookie_sandwiches_2": "Biscuiți sandviș cu cremă",
+        "crepe_3": "Clătită subțire",
+        "pancake_4": "Clătită pufoasă",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Tort cu caramel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Flori tropicale",
+      "description": "Descoperiți frumusețea vie a tropicelor cu acest pachet de flori exotice.",
+      "theme": "Flori tropicale",
+      "images": {
+        "hibiscus_1": "Hibiscus roșu",
+        "frangipani_2": "Frangipani roșu cu alb",
+        "sunflower_3": "Floarea-soarelui",
+        "hydrangea_4": "Hortensie albă",
+        "rose_5": "Trandafir",
+        "chrysanthemum_6": "Crizantemă",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Nemțișor"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Mâncare stradală",
+      "description": "Descoperiți lumea colorată a mâncării stradale cu acest pachet de gustări din toată lumea.",
+      "theme": "Mâncare stradală",
+      "images": {
+        "taco_1": "Taco mexican",
+        "ramen_2": "Ramen japonez",
+        "dumplings_3": "Găluște chinezești",
+        "samosa_4": "Samosa indiană",
+        "pizza_5": "Felie de pizza italiană",
+        "crepe_6": "Clătită franțuzească",
+        "satay_7": "Frigărui thailandeze satay",
+        "burger_8": "Burger american",
+        "bao_9": "Chiflă bao la abur",
+        "takoyaki_10": "Takoyaki japonez"
+      }
+    },
+    "nature_landscape": {
+      "title": "Peisaje din natură",
+      "description": "Scene liniștite și frumoase din natură, de privit pe îndelete și de povestit împreună.",
+      "theme": "Peisaje din natură",
+      "images": {
+        "mountain_1": "Lanț muntos",
+        "forest_2": "Pădure în ceață",
+        "lake_3": "Lac de munte",
+        "desert_4": "Dune de deșert",
+        "waterfall_5": "Cascadă",
+        "beach_6": "Plajă cu nisip",
+        "river_7": "Râu curgător",
+        "canyon_8": "Marele Canion",
+        "sunset_9": "Cer la apus",
+        "snow_mountain_10": "Munte înzăpezit",
+        "flowers_11": "Flori de câmp",
+        "rainforest_12": "Pădure tropicală",
+        "iceberg_13": "Aisberg",
+        "volcano_14": "Vulcan",
+        "cliff_15": "Faleză la mare",
+        "aurora_16": "Aurora boreală",
+        "savannah_17": "Savană",
+        "coral_reef_18": "Recif de corali"
+      }
+    }
+  }
+}
