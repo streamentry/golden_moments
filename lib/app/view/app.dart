@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/app/view/platform_home.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/l10n/fallback_localizations.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/l10n/pack_text.dart';
 
@@ -25,6 +26,9 @@ class _AppState extends State<App> {
       localizationsDelegates: const [
         ...AppLocalizations.localizationsDelegates,
         PackTextDelegate(),
+        // Flutter's widget text exists for about 115 languages; the app offers
+        // a few more, which get English labels on built-in widgets.
+        ...fallbackLocalizationsDelegates,
       ],
       supportedLocales: AppLocalizations.supportedLocales,
       localeListResolutionCallback: resolveAppLocale,
