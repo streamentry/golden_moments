@@ -4,6 +4,7 @@ import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/l10n/fallback_localizations.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/l10n/pack_text.dart';
+import 'package:golden_moments/l10n/script_typography.dart';
 
 class App extends StatefulWidget {
   const new({super.key});
@@ -32,6 +33,8 @@ class _AppState extends State<App> {
       ],
       supportedLocales: AppLocalizations.supportedLocales,
       localeListResolutionCallback: resolveAppLocale,
+      // Some scripts, such as Urdu's Nastaliq, need more line height.
+      builder: localizedThemeBuilder,
       home: buildPlatformHome(),
     );
   }

@@ -13,6 +13,11 @@ const _appLocales = {
   'bn',
   'fa',
   'ha',
+  'ur',
+  'mr',
+  'te',
+  'ta',
+  'gu',
 };
 const _baseFallbacks = {'pt', 'zh'};
 

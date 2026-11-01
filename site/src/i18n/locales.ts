@@ -51,6 +51,11 @@ export const LOCALES: readonly LocaleInfo[] = [
   { code: 'bn', prefix: 'bn', bcp47: 'bn', htmlLang: 'bn', og: 'bn_BD', name: 'বাংলা', englishName: 'Bengali', dir: 'ltr' },
   { code: 'fa', prefix: 'fa', bcp47: 'fa', htmlLang: 'fa', og: 'fa_IR', name: 'فارسی', englishName: 'Persian', dir: 'rtl' },
   { code: 'ha', prefix: 'ha', bcp47: 'ha', htmlLang: 'ha', og: 'ha_NG', name: 'Hausa', englishName: 'Hausa', dir: 'ltr' },
+  { code: 'ur', prefix: 'ur', bcp47: 'ur', htmlLang: 'ur', og: 'ur_PK', name: 'اردو', englishName: 'Urdu', dir: 'rtl' },
+  { code: 'mr', prefix: 'mr', bcp47: 'mr', htmlLang: 'mr', og: 'mr_IN', name: 'मराठी', englishName: 'Marathi', dir: 'ltr' },
+  { code: 'te', prefix: 'te', bcp47: 'te', htmlLang: 'te', og: 'te_IN', name: 'తెలుగు', englishName: 'Telugu', dir: 'ltr' },
+  { code: 'ta', prefix: 'ta', bcp47: 'ta', htmlLang: 'ta', og: 'ta_IN', name: 'தமிழ்', englishName: 'Tamil', dir: 'ltr' },
+  { code: 'gu', prefix: 'gu', bcp47: 'gu', htmlLang: 'gu', og: 'gu_IN', name: 'ગુજરાતી', englishName: 'Gujarati', dir: 'ltr' },
 ];
 
 /**

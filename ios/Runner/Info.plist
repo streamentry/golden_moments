@@ -31,6 +31,11 @@
 		<string>bn</string>
 		<string>fa</string>
 		<string>ha</string>
+		<string>ur</string>
+		<string>mr</string>
+		<string>te</string>
+		<string>ta</string>
+		<string>gu</string>
 	</array>
 	<key>CFBundleDisplayName</key>
 	<string>Golden Moments</string>
