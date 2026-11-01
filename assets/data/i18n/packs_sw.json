@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Wanyama",
+      "description": "Wanyama wapole na wa kupendeza kutoka sehemu mbalimbali za dunia"
+    },
+    "nature": {
+      "name": "Asili",
+      "description": "Mandhari nzuri na maeneo ya asili"
+    },
+    "food": {
+      "name": "Chakula",
+      "description": "Milo na vitafunwa vitamu"
+    },
+    "vintage": {
+      "name": "Magari",
+      "description": "Magari na malori ya kutazama na kuzungumzia"
+    },
+    "flowers": {
+      "name": "Maua",
+      "description": "Maua mazuri na mandhari ya bustani"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Wanyama wa shambani",
+      "description": "Wanyama wapole wa shambani, kama katika ziara ya kijijini.",
+      "theme": "Maisha ya shambani",
+      "images": {
+        "cow_1": "Ng’ombe mpole",
+        "pig_1": "Nguruwe mchangamfu",
+        "chicken_1": "Jogoo",
+        "buffalo_1": "Nyati wa maji",
+        "horse_1": "Farasi mzuri",
+        "duck_1": "Familia ya bata",
+        "goat_1": "Mbuzi mdadisi",
+        "rabbit_1": "Sungura wa kupendeza"
+      }
+    },
+    "nature_mountains": {
+      "title": "Mandhari ya milima",
+      "description": "Mandhari ya milima ya kuvutia na maeneo mazuri ya kutazama",
+      "theme": "Uzuri wa asili",
+      "images": {
+        "mountain_1": "Vilele vyenye theluji",
+        "mountain_2": "Mlima Fuji",
+        "mountain_3": "Bonde la milima ya Alps",
+        "mountain_4": "Kilele cha miamba",
+        "mountain_5": "Vilima vya msituni",
+        "mountain_6": "Milima yenye ukungu"
+      }
+    },
+    "vintage_cars": {
+      "title": "Magari na malori",
+      "description": "Magari na malori yanayong’aa ya kutazama na kuzungumzia",
+      "theme": "Barabarani",
+      "images": {
+        "vintage_car_1": "Audi ya rangi ya chungwa wakati wa machweo",
+        "vintage_car_2": "Gari la michezo la buluu jangwani",
+        "vintage_car_3": "Bugatti ya rangi ya fedha",
+        "vintage_car_4": "Porsche nyeusi barabarani",
+        "vintage_car_5": "BMW ya rangi ya chungwa kwenye barabara yenye minazi",
+        "vintage_car_6": "Gari la buluu karibu na gereji",
+        "vintage_car_7": "Gari la kubebea mizigo la kijani",
+        "vintage_car_8": "Gari jeupe kati ya miamba myekundu",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Gari la buluu lenye mistari myeupe"
+      }
+    },
+    "animals_safari": {
+      "title": "Wanyama wa safari",
+      "description": "Wanyama wakubwa wa kuvutia wa safari za Afrika",
+      "theme": "Wanyamapori",
+      "images": {
+        "lion_1": "Simba mwenye hadhi",
+        "elephant_2": "Tembo wa Afrika",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Pundamilia mwenye mistari",
+        "rhino_5": "Kifaru mwenye nguvu",
+        "cheetah_6": "Duma mwenye kasi",
+        "fox_7": "Mbweha wa kahawia",
+        "bear_8": "Dubu wa barafu",
+        "turtle_9": "Kobe wa kahawia",
+        "squirrel_10": "Kindi wa kahawia",
+        "macaw_11": "Kasuku wa manjano na buluu",
+        "tiger_12": "Simbamarara",
+        "raccoon_13": "Raccoon",
+        "wolf_14": "Mbwa mwitu wa kijivu",
+        "crocodile_15": "Mamba",
+        "peacock_16": "Tausi mzuri"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Vitindamlo vitamu",
+      "description": "Vitindamlo vitamu vya kuongeza kwenye milo yenu.",
+      "theme": "Vitindamlo vitamu",
+      "images": {
+        "pastries_1": "Vitafunwa vinne vya kuokwa",
+        "oreo_cookie_sandwiches_2": "Biskuti za Oreo zenye krimu",
+        "crepe_3": "Krepu",
+        "pancake_4": "Pancake",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Keki ya karameli"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Maua ya kitropiki",
+      "description": "Gundua uzuri wa kuvutia wa nchi za tropiki kupitia kifurushi hiki cha maua ya kigeni.",
+      "theme": "Maua ya kitropiki",
+      "images": {
+        "hibiscus_1": "Hibiscus nyekundu",
+        "frangipani_2": "Frangipani nyekundu na nyeupe",
+        "sunflower_3": "Alizeti",
+        "hydrangea_4": "Hydrangea nyeupe",
+        "rose_5": "Waridi",
+        "chrysanthemum_6": "Krisanthemu",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Vyakula vya mitaani",
+      "description": "Gundua ulimwengu wa rangi wa vyakula vya mitaani kupitia kifurushi hiki cha vitafunwa vitamu kutoka sehemu mbalimbali za dunia.",
+      "theme": "Chakula cha mitaani",
+      "images": {
+        "taco_1": "Taco ya Mexico",
+        "ramen_2": "Ramen ya Japani",
+        "dumplings_3": "Dumplings za Kichina",
+        "samosa_4": "Sambusa ya Kihindi",
+        "pizza_5": "Kipande cha pizza ya Kiitaliano",
+        "crepe_6": "Krepu ya Kifaransa",
+        "satay_7": "Vijiti vya nyama vya satay vya Thailand",
+        "burger_8": "Burger ya Kimarekani",
+        "bao_9": "Bao ya mvuke",
+        "takoyaki_10": "Takoyaki ya Japani"
+      }
+    },
+    "nature_landscape": {
+      "title": "Mandhari ya asili",
+      "description": "Mandhari tulivu na nzuri ya asili ya kutazama taratibu na kuzungumzia pamoja.",
+      "theme": "Mandhari ya asili",
+      "images": {
+        "mountain_1": "Safu ya milima",
+        "forest_2": "Msitu wenye ukungu",
+        "lake_3": "Ziwa la mlimani",
+        "desert_4": "Matuta ya jangwani",
+        "waterfall_5": "Maporomoko ya maji",
+        "beach_6": "Ufuo wa mchanga",
+        "river_7": "Mto unaotiririka",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Anga wakati wa machweo",
+        "snow_mountain_10": "Mlima wenye theluji",
+        "flowers_11": "Maua ya porini",
+        "rainforest_12": "Msitu wa mvua",
+        "iceberg_13": "Mwamba mkubwa wa barafu",
+        "volcano_14": "Volkano",
+        "cliff_15": "Mwamba wa pwani",
+        "aurora_16": "Taa za kaskazini (Aurora)",
+        "savannah_17": "Savana",
+        "coral_reef_18": "Mwamba wa matumbawe"
+      }
+    }
+  }
+}

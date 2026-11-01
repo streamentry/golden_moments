@@ -36,6 +36,11 @@
 		<string>te</string>
 		<string>ta</string>
 		<string>gu</string>
+		<string>pa</string>
+		<string>fil</string>
+		<string>ro</string>
+		<string>ms</string>
+		<string>sw</string>
 	</array>
 	<key>CFBundleDisplayName</key>
 	<string>Golden Moments</string>

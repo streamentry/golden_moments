@@ -1,0 +1,1081 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Joc",
+      "restart": "Începeți din nou",
+      "soundOn": "Sunete line activate",
+      "soundOff": "Sunete line dezactivate",
+      "done": "Gata pentru acum",
+      "feedbackQuestion": "V-a fost de folos azi?",
+      "feedbackYes": "Da",
+      "feedbackNo": "Nu prea",
+      "feedbackThanks": "Vă mulțumim că ne-ați spus."
+    },
+    "tile": {
+      "named": "{name}, plăcuța {n}",
+      "hidden": "Imagine ascunsă, plăcuța {n}",
+      "withState": "{label}, {state}",
+      "matched": "Potrivit",
+      "selected": "Selectat",
+      "picture": "Imagine",
+      "photoNumber": "Fotografia {n}"
+    },
+    "pairs": {
+      "allTogether": "Toate perechile sunt împreună. Jucați din nou sau faceți o pauză.",
+      "photoPair": "O pereche de fotografii, împreună.",
+      "picturePair": "Două imagini: {name|lower}, împreună.",
+      "selected": "{name}. Acum găsiți perechea ei.",
+      "mismatch": "Fără grabă. Atingeți o imagine pentru a continua.",
+      "mismatchNamed": "{a} și {b}. Fără grabă. Atingeți o imagine pentru a continua."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Atingeți o imagine, apoi pe cea care i se potrivește.",
+      "guidanceHidden": "Atingeți două plăcuțe pentru a le întoarce. Căutați două la fel.",
+      "restart": "Imagini noi",
+      "sizeLegend": "Câte plăcuțe",
+      "size": {
+        "one": "{n} plăcuță",
+        "few": "{n} plăcuțe",
+        "other": "{n} de plăcuțe"
+      },
+      "viewLegend": "Cum jucați",
+      "viewShowing": "Imagini la vedere",
+      "viewHidden": "Imagini ascunse",
+      "playAgain": "Jucați din nou cu imagini noi",
+      "talk": "Vorbiți împreună despre imagini"
+    },
+    "choose": {
+      "countLegend": "Câte imagini",
+      "count": "{n} de ales",
+      "thatOne": "Aceea este: {name|lower}. Fără grabă."
+    },
+    "findTheSame": {
+      "guidance": "Priviți imaginea de sus. Atingeți-o pe cea la fel de jos.",
+      "yes": "Da, la fel: {name|lower}.",
+      "next": "Imaginea următoare"
+    },
+    "shadowMatch": {
+      "guidance": "Priviți umbra de sus. Atingeți imaginea care o face.",
+      "yes": "Da, umbra aceasta aparține: {name|lower}.",
+      "next": "Umbra următoare",
+      "shadowAlt": "O umbră de potrivit",
+      "foundAlt": "Umbra: {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Atingeți o imagine, apoi coșul în care se potrivește.",
+      "restart": "Imagini noi",
+      "themeLegend": "Tema",
+      "selected": "{name}. Acum atingeți coșul în care merge.",
+      "pickFirst": "Atingeți mai întâi o imagine, apoi un coș.",
+      "hint": "Imaginea „{name|lower}” ar putea merge în „{basket}”. Atingeți acel coș pentru a o pune acolo.",
+      "placed": "Imaginea „{name|lower}” este în „{basket}”.",
+      "sorted": "Totul este sortat. Priviți împreună coșurile sau încercați altă temă.",
+      "basket": {
+        "one": "Coșul „{basket}”, {count} imagine înăuntru",
+        "few": "Coșul „{basket}”, {count} imagini înăuntru",
+        "other": "Coșul „{basket}”, {count} de imagini înăuntru"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Atingeți o piesă, apoi alta. Își schimbă locurile.",
+      "restart": "Amestecați din nou",
+      "pictureLegend": "Imaginea",
+      "pictures": {
+        "sailboat": "Barcă cu pânze",
+        "house": "Casă",
+        "balloon": "Balon",
+        "sunflower": "Floarea-soarelui",
+        "lighthouse": "Far",
+        "cat": "Pisică"
+      },
+      "sizeLegend": "Piese",
+      "size": {
+        "one": "{n} piesă",
+        "few": "{n} piese",
+        "other": "{n} de piese"
+      },
+      "pickedUp": "Piesă ridicată. Acum atingeți locul unde trebuie să meargă.",
+      "whole": "Imaginea „{name|lower}” este din nou întreagă. Alegeți altă imagine oricând doriți.",
+      "swapped": {
+        "one": "Schimbat. {correct} din {total} piesă este la locul ei.",
+        "few": "Schimbat. {correct} din {total} piese sunt la locul lor.",
+        "other": "Schimbat. {correct} din {total} de piese sunt la locul lor."
+      },
+      "guideAlt": "Imaginea întreagă: {name}",
+      "guideText": "Așa arată imaginea când este întreagă.",
+      "piece": "Piesă în {place}",
+      "pieceInPlace": ", la locul potrivit",
+      "piecePickedUp": ", ridicată",
+      "places4": [
+        "stânga sus",
+        "dreapta sus",
+        "stânga jos",
+        "dreapta jos"
+      ],
+      "places9": [
+        "stânga sus",
+        "sus la mijloc",
+        "dreapta sus",
+        "stânga la mijloc",
+        "centru",
+        "dreapta la mijloc",
+        "stânga jos",
+        "jos la mijloc",
+        "dreapta jos"
+      ],
+      "done": "Imaginea este din nou întreagă. Jucați din nou sau faceți o pauză.",
+      "playAgain": "Amestecați din nou"
+    },
+    "finishTheSaying": {
+      "guidance": "Citiți împreună proverbul, apoi atingeți cuvântul care îl completează.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Da, „{start} {end}.”",
+      "otherEnding": "„{word}” merge și el. Proverbul obișnuit se termină cu „{end}”.",
+      "revealed": "Proverbul este „{start} {end}.”",
+      "choicesLabel": "Alegeți ultimul cuvânt",
+      "show": "Arată finalul",
+      "talk": "Vorbiți despre el: ",
+      "next": "Proverbul următor"
+    },
+    "wordSearch": {
+      "guidance": "Cuvintele merg pe orizontală sau pe verticală. Atingeți prima literă a unui cuvânt, apoi ultima.",
+      "restart": "Puzzle nou",
+      "themeLegend": "Tema",
+      "sizeLegend": "Dimensiunea grilei",
+      "size": {
+        "one": "{n} pe {n} ({words} cuvânt)",
+        "few": "{n} pe {n} ({words} cuvinte)",
+        "other": "{n} pe {n} ({words} de cuvinte)"
+      },
+      "print": "Tipăriți acest puzzle",
+      "letterChosen": "Litera {letter} aleasă. Acum atingeți ultima literă a cuvântului.",
+      "found": "{word} găsit.",
+      "foundAll": "{word} găsit. Acestea sunt toate cuvintele. Jucați din nou sau faceți o pauză.",
+      "tryAgain": "Fără grabă. Atingeți prima literă a unui cuvânt, apoi ultima.",
+      "gridLabel": "Grilă de litere, {n} rânduri de câte {n} litere. Folosiți tastele cu săgeți pentru a vă deplasa între litere.",
+      "cell": "{letter}, rândul {row}, coloana {col}",
+      "cellFound": ", parte dintr-un cuvânt găsit",
+      "wordsHeading": "Cuvinte de găsit",
+      "wordFound": " (găsit)",
+      "sheetTitle": "Căutare de cuvinte: {theme}",
+      "sheetNote": "Cuvintele merg pe orizontală sau pe verticală.",
+      "unavailable": "O grilă de litere nu se potrivește acestei limbi, așa că căutarea de cuvinte nu este oferită aici. Încercați jocurile cu imagini."
+    },
+    "coloring": {
+      "guidance": "Atingeți o culoare, apoi o parte din imagine.",
+      "restart": "Ștergeți culorile",
+      "cleared": "Pagina este din nou goală.",
+      "pageLegend": "Pagina",
+      "print": "Tipăriți această pagină",
+      "colorsLabel": "Culori",
+      "paintChosen": "Culoare aleasă: {paint}.",
+      "painted": "{part} are acum culoarea {paint|lower}.",
+      "artLabel": "{page}, {count} părți de colorat",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, fără culoare",
+      "paints": {
+        "red": "Roșu",
+        "orange": "Portocaliu",
+        "yellow": "Galben",
+        "green": "Verde",
+        "blue": "Albastru",
+        "purple": "Mov",
+        "pink": "Roz",
+        "brown": "Maro",
+        "sky-blue": "Albastru deschis",
+        "cream": "Crem",
+        "gray": "Gri",
+        "white": "Alb"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Citiți cartonașul cu voce tare. Nu există răspunsuri corecte.",
+      "position": "Cartonașul {n} din {total}",
+      "themeLegend": "Tema",
+      "next": "Cartonașul următor",
+      "previous": "Cartonașul anterior",
+      "print": "Tipăriți toate cartonașele",
+      "sheetTitle": "Cartonașe de conversație"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Începeți prin a alege fotografiile.",
+      "guidance": "Atingeți o fotografie, apoi pe cea care i se potrivește.",
+      "restart": "Amestecați-le din nou",
+      "intro": "**Alegeți 2 până la 6 fotografii** de pe acest dispozitiv. Sunt afișate doar pe această pagină și nu sunt încărcate sau salvate niciodată.",
+      "choose": "Alegeți fotografii",
+      "chooseDifferent": "Alegeți alte fotografii",
+      "clear": "Ștergeți fotografiile",
+      "cleared": "Fotografiile au fost șterse de pe această pagină.",
+      "atLeastTwo": "Alegeți cel puțin două fotografii.",
+      "usingFirst": "Se folosesc primele {max} fotografii.",
+      "skipped": {
+        "one": "{count} fișier nu era o fotografie pe care o putem afișa.",
+        "few": "{count} fișiere nu erau fotografii pe care le putem afișa.",
+        "other": "{count} de fișiere nu erau fotografii pe care le putem afișa."
+      },
+      "playAgain": "Jucați din nou cu aceste fotografii",
+      "empty": "Fotografiile dumneavoastră vor apărea aici, fiecare de două ori."
+    },
+    "pictureBingo": {
+      "guidance": "Tipăriți mai întâi cartonașele. Apoi arătați acest crainic pe cel mai mare ecran pe care îl aveți.",
+      "called": {
+        "one": "{name}. {called} din {total} imagine anunțată.",
+        "few": "{name}. {called} din {total} imagini anunțate.",
+        "other": "{name}. {called} din {total} de imagini anunțate."
+      },
+      "start": "Atingeți „Imaginea următoare” pentru a anunța prima imagine.",
+      "restart": "Începeți un joc nou",
+      "squaresLegend": "Pătrate pe fiecare cartonaș",
+      "squares": "{n} pătrate ({side} pe {side})",
+      "cardsLegend": "Câte cartonașe se tipăresc",
+      "cards": {
+        "one": "{n} cartonaș",
+        "few": "{n} cartonașe",
+        "other": "{n} de cartonașe"
+      },
+      "print": {
+        "one": "Tipăriți {n} cartonaș de bingo",
+        "few": "Tipăriți {n} cartonașe de bingo",
+        "other": "Tipăriți {n} de cartonașe de bingo"
+      },
+      "ready": "Gata când sunteți dumneavoastră",
+      "next": "Imaginea următoare",
+      "allCalled": "Toate imaginile au fost anunțate",
+      "alreadyCalled": "Deja anunțată",
+      "sheetTitle": "Bingo cu imagini · cartonașul {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Inspirați cât timp cercul crește și expirați cât timp se micșorează. Se oprește singur după șase respirații.",
+      "paceLegend": "Ritm",
+      "paceSlow": "Lent (5 secunde în fiecare sens)",
+      "paceGentle": "Blând (4 secunde în fiecare sens)",
+      "ready": "Gata când sunteți dumneavoastră",
+      "in": "Inspirați",
+      "hold": "Pauză",
+      "out": "Expirați",
+      "start": "Porniți",
+      "stop": "Opriți",
+      "started": "Pornit. Inspirați cât timp cercul crește.",
+      "stopped": "Oprit.",
+      "finished": "Au fost șase respirații lente. Porniți din nou oricând doriți."
+    }
+  },
+  "pictures": {
+    "teacup": "Ceașcă de ceai",
+    "kettle": "Ceainic",
+    "bread": "Pâine",
+    "frying-pan": "Tigaie cu un ou",
+    "cake": "Tort de zi de naștere",
+    "sunflower": "Floarea-soarelui",
+    "tulip": "Lalea roșie",
+    "watering-can": "Stropitoare",
+    "potted-plant": "Plantă în ghiveci",
+    "tree": "Copac",
+    "bird": "Pasăre pe o creangă",
+    "butterfly": "Fluture",
+    "dog": "Câine",
+    "cat": "Pisică",
+    "fish": "Pește auriu",
+    "apple": "Măr roșu",
+    "pear": "Pară",
+    "strawberry": "Căpșună",
+    "banana": "Banană",
+    "lemon": "Lămâie",
+    "cherries": "Cireșe",
+    "house": "Casă",
+    "lamp": "Lampă de masă",
+    "armchair": "Fotoliu",
+    "key": "Cheie veche",
+    "umbrella": "Umbrelă",
+    "sailboat": "Barcă cu pânze",
+    "car": "Mașină clasică",
+    "bicycle": "Bicicletă",
+    "balloon": "Balon cu aer cald",
+    "lighthouse": "Far",
+    "sun": "Soare",
+    "moon": "Lună și stele"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "Cine se scoală de dimineață, departe",
+        "end": "ajunge",
+        "others": [
+          "merge",
+          "vede"
+        ],
+        "prompt": "Sunteți om de dimineață sau de seară?"
+      },
+      {
+        "start": "Mai bine mai târziu decât",
+        "end": "niciodată",
+        "others": [
+          "acum",
+          "mâine"
+        ],
+        "prompt": "Ce vă place să faceți fără grabă?"
+      },
+      {
+        "start": "Fierul se bate cât e",
+        "end": "cald",
+        "others": [
+          "moale",
+          "roșu"
+        ],
+        "prompt": "Ce vă place să faceți cu mâinile?"
+      },
+      {
+        "start": "Cine are carte, are",
+        "end": "parte",
+        "others": [
+          "noroc",
+          "timp"
+        ],
+        "prompt": "Ce fel de cărți vă plac?"
+      },
+      {
+        "start": "Graba strică",
+        "end": "treaba",
+        "others": [
+          "drumul",
+          "masa"
+        ],
+        "prompt": "Ce vă place să faceți încet, cu răbdare?"
+      },
+      {
+        "start": "Ce ție nu-ți place, altuia nu-i",
+        "end": "face",
+        "others": [
+          "spune",
+          "dă"
+        ],
+        "prompt": "Cum arată pentru dumneavoastră un vecin bun?"
+      },
+      {
+        "start": "Cine se aseamănă se",
+        "end": "adună",
+        "others": [
+          "iubește",
+          "vede"
+        ],
+        "prompt": "Ce fel de prieteni vă place să aveți aproape?"
+      },
+      {
+        "start": "Dar din dar se face",
+        "end": "rai",
+        "others": [
+          "pâine",
+          "casă"
+        ],
+        "prompt": "Care este un cadou frumos, primit sau făcut?"
+      },
+      {
+        "start": "Unde-s doi, puterea",
+        "end": "crește",
+        "others": [
+          "se vede",
+          "se simte"
+        ],
+        "prompt": "Ce vă place să faceți împreună cu cineva?"
+      },
+      {
+        "start": "Omul sfințește",
+        "end": "locul",
+        "others": [
+          "casa",
+          "masa"
+        ],
+        "prompt": "Ce loc vă place, datorită oamenilor de acolo?"
+      },
+      {
+        "start": "Nu lăsa pe mâine ce poți face",
+        "end": "azi",
+        "others": [
+          "ieri",
+          "seara"
+        ],
+        "prompt": "Ce treabă vă place să o terminați dimineața?"
+      },
+      {
+        "start": "Dragostea trece prin",
+        "end": "stomac",
+        "others": [
+          "inimă",
+          "bucătărie"
+        ],
+        "prompt": "Ce mâncare gătită în casă vă place cel mai mult?"
+      },
+      {
+        "start": "Foamea este cel mai bun",
+        "end": "bucătar",
+        "others": [
+          "sfetnic",
+          "prieten"
+        ],
+        "prompt": "Care este mâncarea dumneavoastră preferată?"
+      },
+      {
+        "start": "Nu tot ce strălucește este",
+        "end": "aur",
+        "others": [
+          "argint",
+          "soare"
+        ],
+        "prompt": "Ce obiect frumos vă place să priviți?"
+      },
+      {
+        "start": "Prietenul la nevoie se",
+        "end": "cunoaște",
+        "others": [
+          "vede",
+          "alege"
+        ],
+        "prompt": "Ce vă place la un prieten bun?"
+      },
+      {
+        "start": "Mărul nu cade departe de",
+        "end": "pom",
+        "others": [
+          "casă",
+          "gard"
+        ],
+        "prompt": "Cu cine din familie vă asemănați la ceva?"
+      },
+      {
+        "start": "Haina nu face pe",
+        "end": "om",
+        "others": [
+          "domn",
+          "vecin"
+        ],
+        "prompt": "Care este haina sau pălăria dumneavoastră preferată?"
+      },
+      {
+        "start": "Orice început este",
+        "end": "greu",
+        "others": [
+          "frumos",
+          "scurt"
+        ],
+        "prompt": "Povestiți-mi despre ceva ce v-a plăcut să începeți."
+      },
+      {
+        "start": "Vorba dulce mult",
+        "end": "aduce",
+        "others": [
+          "spune",
+          "poartă"
+        ],
+        "prompt": "Care este un cuvânt frumos care vă place?"
+      },
+      {
+        "start": "Cum îți așterni, așa",
+        "end": "dormi",
+        "others": [
+          "visezi",
+          "stai"
+        ],
+        "prompt": "Ce vă place la un pat bine făcut?"
+      },
+      {
+        "start": "Vorba e de argint, tăcerea e de",
+        "end": "aur",
+        "others": [
+          "lemn",
+          "mătase"
+        ],
+        "prompt": "Vă place liniștea sau o casă plină de glasuri?"
+      },
+      {
+        "start": "Ce semeni, aia",
+        "end": "culegi",
+        "others": [
+          "vezi",
+          "ai"
+        ],
+        "prompt": "Ce v-a plăcut să cultivați într-o grădină?"
+      },
+      {
+        "start": "Mai bine un ou azi decât un bou",
+        "end": "mâine",
+        "others": [
+          "ieri",
+          "seara"
+        ],
+        "prompt": "Cum vă plac ouăle dimineața?"
+      },
+      {
+        "start": "Pomul se cunoaște după",
+        "end": "roade",
+        "others": [
+          "frunze",
+          "umbră"
+        ],
+        "prompt": "Ce pom fructifer vă place cel mai mult?"
+      },
+      {
+        "start": "Ziua bună se cunoaște de",
+        "end": "dimineață",
+        "others": [
+          "seară",
+          "vreme"
+        ],
+        "prompt": "Cum arată pentru dumneavoastră o dimineață frumoasă?"
+      },
+      {
+        "start": "Cine fuge după doi iepuri nu prinde",
+        "end": "niciunul",
+        "others": [
+          "multe",
+          "unul"
+        ],
+        "prompt": "Ați văzut vreodată un iepure în câmp?"
+      },
+      {
+        "start": "Patru ochi văd mai bine decât",
+        "end": "doi",
+        "others": [
+          "unul",
+          "trei"
+        ],
+        "prompt": "Ce vă place să faceți în doi, cu cineva alături?"
+      },
+      {
+        "start": "O rândunică nu face",
+        "end": "primăvară",
+        "others": [
+          "vară",
+          "vreme"
+        ],
+        "prompt": "Care sunt primele semne de primăvară pe care le observați?"
+      },
+      {
+        "start": "Câinele care latră nu",
+        "end": "mușcă",
+        "others": [
+          "fuge",
+          "doarme"
+        ],
+        "prompt": "Ce părere aveți despre câini?"
+      },
+      {
+        "start": "Cu răbdarea se trece",
+        "end": "marea",
+        "others": [
+          "râul",
+          "muntele"
+        ],
+        "prompt": "Ce vă place să faceți cu răbdare?"
+      },
+      {
+        "start": "Despre gusturi nu se",
+        "end": "discută",
+        "others": [
+          "ceartă",
+          "spune"
+        ],
+        "prompt": "Ce gust vă place cel mai mult: dulce, sărat sau acru?"
+      },
+      {
+        "start": "Pofta vine",
+        "end": "mâncând",
+        "others": [
+          "dimineața",
+          "încet"
+        ],
+        "prompt": "Ce vă face poftă de mâncare?"
+      },
+      {
+        "start": "Ochii sunt oglinda",
+        "end": "sufletului",
+        "others": [
+          "inimii",
+          "casei"
+        ],
+        "prompt": "Ce vă place să priviți?"
+      },
+      {
+        "start": "Cine întreabă nu",
+        "end": "rătăcește",
+        "others": [
+          "pleacă",
+          "oboșește"
+        ],
+        "prompt": "Ce loc nou v-ar plăcea să vedeți?"
+      },
+      {
+        "start": "Prea mulți bucătari strică",
+        "end": "ciorba",
+        "others": [
+          "supa",
+          "pâinea"
+        ],
+        "prompt": "Cine gătește bine în familia dumneavoastră?"
+      },
+      {
+        "start": "Nu tot ce zboară se",
+        "end": "mănâncă",
+        "others": [
+          "vede",
+          "prinde"
+        ],
+        "prompt": "Ce păsări vă plac cel mai mult?"
+      },
+      {
+        "start": "Ce-i în mână nu-i",
+        "end": "minciună",
+        "others": [
+          "mic",
+          "greu"
+        ],
+        "prompt": "Ce vă place să țineți în mână: o ceașcă, o carte, o floare?"
+      },
+      {
+        "start": "Măsoară de șapte ori și taie o",
+        "end": "dată",
+        "others": [
+          "clipă",
+          "zi"
+        ],
+        "prompt": "Ce lucru făcut cu grijă vă place cel mai mult?"
+      },
+      {
+        "start": "Nu cumpăra pisica în",
+        "end": "sac",
+        "others": [
+          "coș",
+          "casă"
+        ],
+        "prompt": "Ce animale de casă vă plac?"
+      }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHILMNOPRSTUV",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fructe",
+          "words": [
+            "MĂR",
+            "PARĂ",
+            "PRUNĂ",
+            "CAIS",
+            "NUCĂ",
+            "PEPENE",
+            "BANANĂ",
+            "LĂMÂIE",
+            "KIWI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Grădină",
+          "words": [
+            "ROZĂ",
+            "LALEA",
+            "FLOARE",
+            "IARBĂ",
+            "FRUNZĂ",
+            "COPAC",
+            "ALBINĂ",
+            "GARD",
+            "PĂMÂNT"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Bucătărie",
+          "words": [
+            "CEAȘCĂ",
+            "PÂINE",
+            "TIGAIE",
+            "OALĂ",
+            "CUȚIT",
+            "CEAI",
+            "CANĂ",
+            "CUPTOR",
+            "LAPTE"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Vremea",
+          "words": [
+            "SOARE",
+            "PLOAIE",
+            "ZĂPADĂ",
+            "VÂNT",
+            "NORI",
+            "CEAȚĂ",
+            "GER",
+            "CALD",
+            "CER"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animale",
+          "words": [
+            "CÂINE",
+            "PISICĂ",
+            "PASĂRE",
+            "PEȘTE",
+            "CAL",
+            "VACĂ",
+            "RAȚĂ",
+            "CAPRĂ",
+            "OAIE"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Acasă",
+          "words": [
+            "UȘĂ",
+            "SCAUN",
+            "LAMPĂ",
+            "PAT",
+            "COVOR",
+            "CEAS",
+            "BIROU",
+            "CHEIE",
+            "MASĂ"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Toate cartonașele",
+        "food": "Mâncare",
+        "home": "Acasă",
+        "outdoors": "În aer liber",
+        "animals": "Animale",
+        "travel": "Călătorii",
+        "work": "Muncă și pasiuni",
+        "music": "Muzică și distracție",
+        "seasons": "Anotimpuri"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Care este mirosul dumneavoastră preferat dintr-o bucătărie?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Ce fel de tort ați alege pentru o sărbătoare?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Povestiți-mi despre o plăcintă sau un desert preferat."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Cum vă place ceaiul sau cafeaua?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Ce face un mic dejun cu adevărat bun?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ați cules vreodată fructe direct din plantă?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Dulce sau acru: ce vă place mai mult?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Ce mâncare are pentru dumneavoastră gust de vară?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Povestiți-mi despre o casă în care v-a plăcut să locuiți."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Unde vă place cel mai mult să vă așezați și să vă odihniți?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Ce vă place să faceți într-o seară liniștită?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Ce comoară ați păstra într-o cutie specială?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Pe cine ați invita la o ceașcă de ceai?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Ce vă place să faceți într-o zi ploioasă?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Ce flori ați planta într-o grădină?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Povestiți-mi despre un copac sau un parc care vă place."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Care este cel mai frumos lucru dintr-o grădină?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Ce culoare de flori vă place cel mai mult?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Vă place să aveți plante în casă?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Cum arată pentru dumneavoastră o zi însorită perfectă?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Povestiți-mi despre un câine pe care l-ați cunoscut."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Pisici sau câini, sau niciunii? Ce vă place la ei?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Ce păsări vedeți sau auziți afară?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ați fost vreodată la pescuit sau ați avut un acvariu?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Care este cel mai frumos animal pe care l-ați văzut?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Povestiți-mi despre o mașină care v-a plăcut."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Ați prefera o zi la mare sau la munte?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Unde v-ar plăcea să mergeți la o plimbare?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Dacă ați putea zbura peste orice loc, care ar fi acela?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Care este o excursie de care v-ați bucurat?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Ce fel de muncă v-a plăcut să faceți?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Care este o pasiune la care ați putea petrece ore întregi?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Ce știați să faceți sau să reparați cel mai bine?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Ce sfat ați da unui tânăr care începe să lucreze?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Ce fel de muzică vă face să bateți ritmul cu piciorul?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Ce face o petrecere cu adevărat reușită?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ce cântăreț vă place să ascultați?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Care este un film sau o emisiune pe care ați revedea-o cu plăcere?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Ce vă place cel mai mult la vară?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Ce vă place la toamnă?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Ce este plăcut de făcut într-o seară de iarnă?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Care sunt primele semne ale primăverii pentru dumneavoastră?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Zăpadă, ploaie sau soare: ce preferați?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Floare în ghiveci",
+          "regions": {
+            "sky": "Fundal",
+            "table": "Masă",
+            "stem": "Tulpină",
+            "leaf-left": "Frunza din stânga",
+            "leaf-right": "Frunza din dreapta",
+            "petal-1": "Petala 1",
+            "petal-2": "Petala 2",
+            "petal-3": "Petala 3",
+            "petal-4": "Petala 4",
+            "petal-5": "Petala 5",
+            "petal-6": "Petala 6",
+            "petal-7": "Petala 7",
+            "petal-8": "Petala 8",
+            "center": "Mijlocul florii",
+            "pot": "Ghiveci",
+            "pot-rim": "Marginea ghiveciului"
+          }
+        },
+        "house": {
+          "name": "Casă",
+          "regions": {
+            "sky": "Cer",
+            "sun": "Soare",
+            "grass": "Iarbă",
+            "chimney": "Coș de fum",
+            "walls": "Pereți",
+            "roof": "Acoperiș",
+            "door": "Ușă",
+            "window-left": "Fereastra din stânga",
+            "window-right": "Fereastra din dreapta",
+            "path": "Cărare"
+          }
+        },
+        "teacup": {
+          "name": "Ceașcă de ceai",
+          "regions": {
+            "background": "Fundal",
+            "saucer": "Farfurioară",
+            "handle": "Toartă",
+            "cup": "Ceașcă",
+            "band": "Dunga de pe ceașcă",
+            "tea": "Ceai"
+          }
+        },
+        "butterfly": {
+          "name": "Fluture",
+          "regions": {
+            "background": "Fundal",
+            "wing-top-left": "Aripa de sus din stânga",
+            "wing-top-right": "Aripa de sus din dreapta",
+            "wing-bottom-left": "Aripa de jos din stânga",
+            "wing-bottom-right": "Aripa de jos din dreapta",
+            "spot-left": "Pata de pe aripa stângă",
+            "spot-right": "Pata de pe aripa dreaptă",
+            "body": "Corp"
+          }
+        },
+        "sailboat": {
+          "name": "Barcă cu pânze",
+          "regions": {
+            "sky": "Cer",
+            "sea": "Mare",
+            "sail-big": "Pânza mare",
+            "sail-small": "Pânza mică",
+            "mast": "Catarg",
+            "hull": "Barcă",
+            "flag": "Steag"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Bucătărie și grădină",
+          "baskets": [
+            "În bucătărie",
+            "În grădină"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fructe și animale",
+          "baskets": [
+            "Fructe",
+            "Animale"
+          ]
+        },
+        "home-travel": {
+          "label": "Casă și călătorii",
+          "baskets": [
+            "Acasă",
+            "Pe drum"
+          ]
+        }
+      }
+    }
+  }
+}

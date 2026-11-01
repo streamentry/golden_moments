@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Perechi de imagini",
+    "seoTitle": "Joc de potrivire pentru demență: perechi de imagini",
+    "h1": "Perechi de imagini: un joc blând de potrivire",
+    "description": "Joc de potrivire blând și gratuit pentru persoane cu demență. Imagini mari la vedere, fără cronometru sau scor, cu 4 până la 12 plăcuțe la alegere.",
+    "short": "Găsiți cele două imagini la fel. Imaginile pot rămâne la vedere.",
+    "players": "1 sau 2 persoane, una lângă alta",
+    "intro": "Atingeți o imagine, apoi pe cea care i se potrivește. Imaginile rămân implicit la vedere, deci nu trebuie ținut minte nimic. Când două imagini merg împreună, primesc un chenar auriu și o bifă.",
+    "howTo": [
+      "Alegeți câte plăcuțe folosiți. Patru plăcuțe sunt un început calm.",
+      "Atingeți orice imagine. Primește un chenar auriu.",
+      "Atingeți imaginea care arată la fel. Perechea rămâne împreună, cu o bifă.",
+      "Dacă cele două imagini sunt diferite, nu se întâmplă nimic rău. Atingeți din nou când sunteți gata.",
+      "Activați „Imagini ascunse” doar dacă vă place amândurora varianta clasică, cu imaginile întoarse."
+    ],
+    "tips": [
+      "Numiți imaginile cu voce tare, împreună, și discutați despre ele: „O ceașcă roșie. Beți ceaiul cu lapte?”",
+      "Lăsați persoana de care aveți grijă să atingă ea, chiar dacă durează. Mai bine arătați cu degetul decât să atingeți în locul ei.",
+      "Rămâneți la patru plăcuțe cât timp vă face plăcere. Mai multe plăcuțe sunt o alegere, niciodată un nivel de atins.",
+      "Opriți-vă cât încă este plăcut. Un singur joc este o activitate completă."
+    ],
+    "faq": [
+      {
+        "q": "Există cronometru sau scor?",
+        "a": "Nu. Nu există ceas, scor, contor de mutări sau pierdere. Vă puteți opri în orice clipă, iar oprirea la jumătate este o încheiere foarte bună."
+      },
+      {
+        "q": "De ce rămân imaginile cu fața în sus?",
+        "a": "Imaginile la vedere transformă jocul în privit și potrivit, nu în ținut minte. Mulți oameni îl găsesc mai calm. Puteți trece la imagini ascunse dintr-o singură atingere, dacă preferați."
+      },
+      {
+        "q": "Este gratuit și trebuie să mă înregistrez?",
+        "a": "Da, este gratuit și nu există cont, înregistrare sau descărcare. Funcționează în browser, pe telefon, tabletă sau computer."
+      },
+      {
+        "q": "Putem folosi propriile fotografii de familie?",
+        "a": "Da. Încercați Perechi de fotografii, care vă lasă să alegeți fotografii de pe dispozitiv. Fotografiile rămân în browser și nu sunt încărcate."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Găsiți la fel",
+    "seoTitle": "Găsiți aceeași imagine: joc simplu pentru demență",
+    "h1": "Găsiți aceeași imagine",
+    "description": "O imagine sus, două până la patru dedesubt. Atingeți-o pe cea la fel. Un joc calm și gratuit cu imagini pentru persoane cu demență, fără cronometru.",
+    "short": "Priviți imaginea de sus și atingeți-o pe cea la fel de jos.",
+    "players": "1 sau 2 persoane",
+    "intro": "O singură imagine stă în partea de sus a ecranului. Dedesubt sunt două, trei sau patru imagini. Atingeți-o pe cea la fel. Este o alegere simplă o dată, cu mult loc pentru conversație.",
+    "howTo": [
+      "Alegeți între două, trei sau patru imagini. Două este cel mai simplu.",
+      "Priviți împreună imaginea de sus.",
+      "Atingeți imaginea la fel de jos. Este marcată cu o bifă și câteva cuvinte calde.",
+      "Dacă se atinge o altă imagine, jocul doar o numește și așteaptă. Fără grabă.",
+      "Atingeți „Imaginea următoare” când sunteți gata pentru alta."
+    ],
+    "tips": [
+      "Vorbiți despre fiecare imagine înainte de a alege: culori, forme, unde ați putea să o vedeți.",
+      "Două variante nu sunt „prea ușor”. Scopul este un moment plăcut, nu o provocare.",
+      "Dacă atingerea este dificilă, persoana poate arăta cu degetul, iar dumneavoastră atingeți în locul ei."
+    ],
+    "faq": [
+      {
+        "q": "Există cronometru sau scor?",
+        "a": "Nu. Nu există ceas, scor, contor de mutări sau pierdere. Vă puteți opri în orice clipă, iar oprirea la jumătate este o încheiere foarte bună."
+      },
+      {
+        "q": "Ce se întâmplă dacă se atinge imaginea greșită?",
+        "a": "Nimic neplăcut. Nu există sunet de eroare, cruce roșie sau tremurat. Jocul numește imaginea atinsă și așteaptă următoarea atingere."
+      },
+      {
+        "q": "Este gratuit și trebuie să mă înregistrez?",
+        "a": "Da, este gratuit și nu există cont, înregistrare sau descărcare. Funcționează în browser, pe telefon, tabletă sau computer."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Potrivirea umbrelor",
+    "seoTitle": "Joc cu umbre pentru demență: gratuit, online",
+    "h1": "Potrivirea umbrelor: un joc blând cu imagini",
+    "description": "O umbră întunecată sus, două până la patru imagini dedesubt. Atingeți imaginea care face umbra. Un joc calm și gratuit pentru demență, fără cronometru.",
+    "short": "Priviți umbra și atingeți imaginea care o face.",
+    "players": "1 sau 2 persoane",
+    "intro": "Potrivirea umbrelor este o activitate cunoscută din fișele tipărite, aici cu imagini mari și nimic de tipărit. O umbră liniștită stă în partea de sus a ecranului, iar dedesubt așteaptă două, trei sau patru imagini. Atingeți-o pe cea care face umbra. Forme precum o bicicletă, o umbrelă sau o ceașcă sunt ușor de povestit.",
+    "howTo": [
+      "Alegeți între două, trei sau patru imagini. Două este cel mai simplu.",
+      "Priviți umbra împreună. Ce formă are? Este înaltă sau rotundă?",
+      "Atingeți imaginea care face umbra. Numele ei apare sub umbră.",
+      "Dacă se atinge o altă imagine, jocul doar o numește și așteaptă. Fără grabă.",
+      "Atingeți „Umbra următoare” când sunteți gata pentru alta."
+    ],
+    "tips": [
+      "Urmăriți cu degetul conturul umbrei și vorbiți despre formă.",
+      "Dacă umbrele par grele azi, treceți la Găsiți la fel, unde imaginile arată la fel.",
+      "Vorbiți despre imagine după ce a fost găsită: „Am avut și noi o umbrelă ca asta.”"
+    ],
+    "faq": [
+      {
+        "q": "Există cronometru sau scor?",
+        "a": "Nu. Nu există ceas, scor, contor de mutări sau pierdere. Vă puteți opri în orice clipă, iar oprirea la jumătate este o încheiere foarte bună."
+      },
+      {
+        "q": "Este potrivirea umbrelor bună pentru persoanele cu demență?",
+        "a": "Poate fi o activitate plăcută și simplă pentru unele persoane, mai ales în stadiile timpurii. Formele sunt mai ușor de recunoscut decât cuvintele. Este pentru plăcere și conversație, nu un test, și nu tratează și nu încetinește demența. Dacă provoacă frustrare, încercați Găsiți la fel sau priviți pur și simplu imagini împreună."
+      },
+      {
+        "q": "Ce se întâmplă dacă se atinge imaginea greșită?",
+        "a": "Nimic neplăcut. Nu există sunet de eroare, cruce roșie sau tremurat. Jocul numește imaginea atinsă și așteaptă următoarea atingere."
+      },
+      {
+        "q": "Este gratuit și trebuie să mă înregistrez?",
+        "a": "Da, este gratuit și nu există cont, înregistrare sau descărcare. Funcționează în browser, pe telefon, tabletă sau computer."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Sortare împreună",
+    "seoTitle": "Joc de sortare pentru demență: sortăm împreună",
+    "h1": "Sortare împreună: o activitate de sortat imagini",
+    "description": "Atingeți o imagine, apoi coșul ei: bucătărie sau grădină, fructe sau animale. O activitate calmă și gratuită de sortare pentru persoane cu demență.",
+    "short": "Puneți fiecare imagine în coșul ei: bucătărie sau grădină și altele.",
+    "players": "1 sau 2 persoane",
+    "intro": "Sortarea este o treabă obișnuită și mulțumitoare, ca aranjarea cumpărăturilor sau împerecherea ciorapilor. Atingeți o imagine, apoi coșul în care se potrivește. Nu e nicio grabă și nicio greșeală.",
+    "howTo": [
+      "Alegeți o temă: bucătărie și grădină, fructe și animale sau casă și călătorii.",
+      "Atingeți o imagine. Primește un chenar auriu.",
+      "Atingeți coșul în care se potrivește. Imaginea se mută în acel coș.",
+      "Dacă se potrivește în celălalt coș, jocul spune asta cu blândețe și așteaptă.",
+      "Când toate imaginile sunt sortate, priviți împreună coșurile."
+    ],
+    "tips": [
+      "În viața reală nu există mereu răspunsuri greșite. Dacă cineva spune că o stropitoare aparține bucătăriei, întrebați de ce. S-ar putea să auziți o poveste frumoasă.",
+      "Folosiți imaginile ca punct de plecare: „Ce ați cultivat în grădina dumneavoastră?”",
+      "Sortarea unor obiecte reale, ca lingurile și furculițele sau nasturii după culoare, este o continuare foarte bună, departe de ecran."
+    ],
+    "faq": [
+      {
+        "q": "Există cronometru sau scor?",
+        "a": "Nu. Nu există ceas, scor, contor de mutări sau pierdere. Vă puteți opri în orice clipă, iar oprirea la jumătate este o încheiere foarte bună."
+      },
+      {
+        "q": "De ce sortare?",
+        "a": "Multor oameni le place sortarea, pentru că seamănă cu o muncă utilă și familiară. Este și ușor să vorbiți despre imagini pe parcurs."
+      },
+      {
+        "q": "Este gratuit și trebuie să mă înregistrez?",
+        "a": "Da, este gratuit și nu există cont, înregistrare sau descărcare. Funcționează în browser, pe telefon, tabletă sau computer."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Puzzle cu imagini",
+    "seoTitle": "Puzzle ușor pentru demență: 4 sau 9 piese",
+    "h1": "Puzzle cu imagini: un puzzle ușor",
+    "description": "Un puzzle online ușor pentru persoane cu demență: 4 sau 9 piese mari, imaginea întreagă rămâne la vedere, iar atingeți două piese pentru a le schimba între ele.",
+    "short": "Atingeți două piese pentru a le schimba până când imaginea e întreagă.",
+    "players": "1 sau 2 persoane",
+    "intro": "O imagine prietenoasă este tăiată în patru sau nouă piese mari și amestecată. Imaginea întreagă rămâne la vedere, ca ghid. Atingeți o piesă, apoi alta, și își schimbă locurile. Nu trebuie să trageți nimic.",
+    "howTo": [
+      "Alegeți o imagine și 4 sau 9 piese. Patru este un început blând.",
+      "Priviți imaginea întreagă din partea de sus.",
+      "Atingeți o piesă, apoi locul unde ar trebui să stea. Cele două piese își schimbă locurile.",
+      "Piesele aflate la locul potrivit primesc o mică bifă.",
+      "Când imaginea este întreagă, bucurați-vă împreună de ea, apoi alegeți alta."
+    ],
+    "tips": [
+      "Pentru mulți oameni, atingerea a două piese pentru a le schimba este mult mai ușoară decât tragerea.",
+      "Vorbiți despre imagine pe măsură ce se completează: „Iată acoperișul roșu.”",
+      "Un puzzle adevărat din lemn, cu 12 până la 24 de piese mari, este tot o activitate frumoasă la masă."
+    ],
+    "faq": [
+      {
+        "q": "Există cronometru sau scor?",
+        "a": "Nu. Nu există ceas, scor, contor de mutări sau pierdere. Vă puteți opri în orice clipă, iar oprirea la jumătate este o încheiere foarte bună."
+      },
+      {
+        "q": "Trebuie să trag piesele?",
+        "a": "Nu. Atingeți o piesă, apoi alta, și își schimbă locurile. Este mai ușor cu o mână care tremură sau pe un ecran mic."
+      },
+      {
+        "q": "Este gratuit și trebuie să mă înregistrez?",
+        "a": "Da, este gratuit și nu există cont, înregistrare sau descărcare. Funcționează în browser, pe telefon, tabletă sau computer."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Completați proverbul",
+    "seoTitle": "Completați proverbul: joc cu proverbe pentru seniori",
+    "h1": "Completați proverbul",
+    "description": "Proverbe românești cunoscute, cărora le lipsește ultimul cuvânt, ca „Graba strică ___”. Atingeți o variantă sau arătați finalul, apoi vorbiți despre el.",
+    "short": "Completați împreună proverbe cunoscute, apoi vorbiți despre ele.",
+    "players": "1, 2 sau un grup",
+    "intro": "Proverbele vechi sunt adesea cunoscute o viață întreagă. Fiecare cartonaș arată un proverb cunoscut, cu ultimul cuvânt lipsă, trei variante și un buton „Arată finalul”. După final, o întrebare blândă invită la conversație.",
+    "howTo": [
+      "Citiți proverbul cu voce tare, împreună.",
+      "Atingeți cuvântul care îl completează sau atingeți „Arată finalul”.",
+      "Citiți din nou tot proverbul și vorbiți despre el, pornind de la întrebare.",
+      "Atingeți „Proverbul următor” când sunteți gata."
+    ],
+    "tips": [
+      "Citiți rar și lăsați o pauză înainte de ultimul cuvânt. Adesea oamenii îl spun înainte să terminați.",
+      "Dacă cineva dă un alt final, bucurați-vă de el. Unele variante ale proverbelor diferă de la o familie sau regiune la alta.",
+      "Într-un grup, o persoană citește, iar toți se alătură la final."
+    ],
+    "faq": [
+      {
+        "q": "Există cronometru sau scor?",
+        "a": "Nu. Nu există ceas, scor, contor de mutări sau pierdere. Vă puteți opri în orice clipă, iar oprirea la jumătate este o încheiere foarte bună."
+      },
+      {
+        "q": "Ce facem dacă alegem alt cuvânt?",
+        "a": "Jocul arată finalul obișnuit și trece la conversație. Nu există scor, iar un alt răspuns este în regulă."
+      },
+      {
+        "q": "Este gratuit și trebuie să mă înregistrez?",
+        "a": "Da, este gratuit și nu există cont, înregistrare sau descărcare. Funcționează în browser, pe telefon, tabletă sau computer."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Căutare de cuvinte cu litere mari",
+    "seoTitle": "Căutare de cuvinte cu litere mari pentru demență",
+    "h1": "Căutare de cuvinte cu litere mari",
+    "description": "Căutare de cuvinte gratuită, cu litere mari, pentru seniori și persoane cu demență. Puține cuvinte, doar pe orizontală și verticală. Online sau tipărită.",
+    "short": "Litere mari, câteva cuvinte, doar pe orizontală și verticală. Se poate și tipări.",
+    "players": "1 sau 2 persoane",
+    "intro": "O grilă mică, cu litere mari și doar câteva cuvinte, toate citite pe orizontală sau pe verticală. Atingeți prima literă a unui cuvânt, apoi ultima. Preferați hârtia? Tipăriți un puzzle nou dintr-o singură atingere.",
+    "howTo": [
+      "Alegeți o temă și o dimensiune a grilei.",
+      "Priviți lista de cuvinte. Cuvintele se citesc pe orizontală (de la stânga la dreapta) sau pe verticală (de sus în jos).",
+      "Atingeți prima literă a unui cuvânt, apoi ultima.",
+      "Un cuvânt găsit este evidențiat și tăiat din listă.",
+      "Atingeți „Tipăriți acest puzzle” pentru a juca pe hârtie, cu creion sau marker."
+    ],
+    "tips": [
+      "Arătați un cuvânt din listă și căutați împreună prima lui literă.",
+      "Pe hârtie, un evidențiator este mai ușor de ținut decât un creion.",
+      "Vorbiți despre cuvintele temei. Cuvintele despre fructe sunt un drum firesc spre amintiri despre cules, copt sau piață."
+    ],
+    "faq": [
+      {
+        "q": "Există cronometru sau scor?",
+        "a": "Nu. Nu există ceas, scor, contor de mutări sau pierdere. Vă puteți opri în orice clipă, iar oprirea la jumătate este o încheiere foarte bună."
+      },
+      {
+        "q": "Pot tipări căutarea de cuvinte?",
+        "a": "Da. Atingeți „Tipăriți acest puzzle” pentru a tipări grila curentă cu litere mari, cu lista de cuvinte dedesubt. Fiecare puzzle nou este diferit."
+      },
+      {
+        "q": "Este gratuit și trebuie să mă înregistrez?",
+        "a": "Da, este gratuit și nu există cont, înregistrare sau descărcare. Funcționează în browser, pe telefon, tabletă sau computer."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Pagini de colorat",
+    "seoTitle": "Pagini de colorat pentru adulți cu demență (gratuit)",
+    "h1": "Pagini de colorat",
+    "description": "Pagini de colorat simple, pentru adulți, cu zone mari: atingeți o culoare, apoi imaginea. Fără culori greșite, iar fiecare pagină poate fi tipărită gratuit.",
+    "short": "Atingeți o culoare, apoi o parte din imagine. Se pot și tipări.",
+    "players": "1 sau 2 persoane",
+    "intro": "Pagini cu forme mari și simple: o floare în ghiveci, o casă, o ceașcă de ceai, un fluture și o barcă cu pânze. Atingeți o culoare, apoi o parte din imagine pentru a o umple. Nu există culori greșite.",
+    "howTo": [
+      "Alegeți o pagină.",
+      "Atingeți o culoare. Fiecare culoare are numele scris pe ea.",
+      "Atingeți o parte din imagine pentru a o umple cu acea culoare.",
+      "Vă puteți răzgândi oricând, umplând-o din nou.",
+      "Atingeți „Tipăriți această pagină” pentru o pagină goală, de colorat cu creioane sau markere."
+    ],
+    "tips": [
+      "Oferiți două culori de ales, în loc de toată paleta, dacă alegerea pare prea mult.",
+      "Copacii mov și soarele albastru sunt bineveniți. Contează bucuria culorilor, nu exactitatea.",
+      "Paginile tipărite merg bine cu markere groase sau creioane cerate, care se țin mai ușor în mână."
+    ],
+    "faq": [
+      {
+        "q": "Există cronometru sau scor?",
+        "a": "Nu. Nu există ceas, scor, contor de mutări sau pierdere. Vă puteți opri în orice clipă, iar oprirea la jumătate este o încheiere foarte bună."
+      },
+      {
+        "q": "Nu sunt aceste pagini prea copilărești?",
+        "a": "Am desenat obiecte calme și simple, nu desene animate, așa că paginile se potrivesc adulților. Formele mari fac colorarea ușoară fără a o face copilărească."
+      },
+      {
+        "q": "Este gratuit și trebuie să mă înregistrez?",
+        "a": "Da, este gratuit și nu există cont, înregistrare sau descărcare. Funcționează în browser, pe telefon, tabletă sau computer."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Cartonașe de conversație",
+    "seoTitle": "Idei de conversație pentru demență: cartonașe cu imagini",
+    "h1": "Cartonașe de conversație",
+    "description": "Cartonașe cu imagini și idei blânde de conversație pentru persoane cu demență: fără întrebări-test, fără răspunsuri corecte. Pe ecran sau tipărite.",
+    "short": "Cartonașe cu imagini și întrebări deschise, blânde. Fără întrebări-test.",
+    "players": "2 persoane sau un grup",
+    "intro": "Fiecare cartonaș îmbină o imagine familiară cu o invitație deschisă la discuție, ca „Ce fel de vreme vă place cel mai mult?”. Nu există răspunsuri corecte și nimic de ținut minte. Alegeți o temă sau amestecați-le pe toate.",
+    "howTo": [
+      "Alegeți o temă sau lăsați „Toate cartonașele”.",
+      "Citiți întrebarea cu voce tare și priviți împreună imaginea.",
+      "Ascultați, spuneți și răspunsul dumneavoastră și lăsați vorba să curgă.",
+      "Atingeți „Cartonașul următor” când sunteți gata sau rămâneți la un cartonaș cât doriți.",
+      "Atingeți „Tipăriți toate cartonașele” pentru a decupa un set pe hârtie."
+    ],
+    "tips": [
+      "Răspundeți și dumneavoastră la întrebare. Se simte ca o conversație, nu ca un interviu.",
+      "Urmăriți povestea, nu faptele. Dacă detaliile se schimbă, nu este o problemă.",
+      "Dacă un cartonaș atinge ceva trist, recunoașteți sentimentul și treceți cu blândețe la un alt cartonaș."
+    ],
+    "faq": [
+      {
+        "q": "De ce nu există întrebări de tipul „Vă amintiți…?”",
+        "a": "Întrebările care pun memoria la încercare pot semăna cu un examen și pot stânjeni. Invitațiile deschise, precum „Povestiți-mi despre…”, lasă pe oricine să se alăture, indiferent ce își amintește."
+      },
+      {
+        "q": "Pot tipări cartonașele?",
+        "a": "Da. „Tipăriți toate cartonașele” tipărește setul întreg cu litere mari, mai multe cartonașe pe pagină, gata de decupat."
+      },
+      {
+        "q": "Este gratuit și trebuie să mă înregistrez?",
+        "a": "Da, este gratuit și nu există cont, înregistrare sau descărcare. Funcționează în browser, pe telefon, tabletă sau computer."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Perechi de fotografii",
+    "seoTitle": "Faceți un joc de potrivire din fotografii de familie",
+    "h1": "Perechi de fotografii: potriviți propriile fotografii",
+    "description": "Transformați propriile fotografii de familie într-un joc blând de potrivire. Alegeți 2 până la 6 fotografii; rămân în browser și nu sunt încărcate.",
+    "short": "Alegeți propriile fotografii și potriviți-le. Nu se încarcă nimic.",
+    "players": "2 persoane, una lângă alta",
+    "intro": "Alegeți două până la șase fotografii de pe telefon, tabletă sau computer și devin un joc de potrivire cu imagini mari, la vedere. Fotografiile sunt afișate doar în această pagină. Nu sunt încărcate, salvate sau partajate și dispar când închideți pagina.",
+    "howTo": [
+      "Atingeți „Alegeți fotografii” și alegeți două până la șase fotografii.",
+      "Fiecare fotografie apare de două ori. Atingeți una, apoi perechea ei.",
+      "Vorbiți despre fiecare fotografie pe măsură ce o găsiți.",
+      "Când ați terminat, închideți pagina sau atingeți „Ștergeți fotografiile”. Nu se păstrează nimic."
+    ],
+    "tips": [
+      "Alegeți fotografii clare cu lucruri vesele și familiare: un animal de companie, o grădină, un loc preferat, ziua unei nunți.",
+      "Imaginile cu locuri și obiecte pot fi mai ușoare decât chipurile și evită presiunea de a numi persoane.",
+      "Lăsați deoparte fotografiile cu persoane care nu mai sunt, dacă ar putea aduce o durere bruscă, în afară de cazul în care știți că aduc alinare."
+    ],
+    "faq": [
+      {
+        "q": "Sunt fotografiile mele încărcate undeva?",
+        "a": "Nu. Pagina citește fotografiile alese direct în browser și le arată pe ecran. Nu sunt trimise nouă sau altcuiva și dispar când închideți sau reîncărcați pagina."
+      },
+      {
+        "q": "Există cronometru sau scor?",
+        "a": "Nu. Nu există ceas, scor, contor de mutări sau pierdere. Vă puteți opri în orice clipă, iar oprirea la jumătate este o încheiere foarte bună."
+      },
+      {
+        "q": "Pot salva jocul pentru data viitoare?",
+        "a": "Nu în browser, intenționat, ca să nu se păstreze nimic privat. Aplicația gratuită Golden Moments pentru iPhone și iPad poate păstra pe dispozitiv copii ale fotografiilor selectate."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bingo cu imagini",
+    "seoTitle": "Bingo cu imagini pentru seniori cu demență: de tipărit",
+    "h1": "Bingo cu imagini pentru grupuri",
+    "description": "Bingo cu imagini gratuit, de tipărit, pentru grupuri de seniori, cu un crainic mare pe ecran. Imagini mari cu cuvinte, 9 sau 16 pătrate, fără citit.",
+    "short": "Cartonașe de bingo cu imagini, de tipărit, și un crainic pe ecran mare, pentru grupuri.",
+    "players": "Un grup de 2 până la 30",
+    "intro": "Bingo clasic, cu imagini în loc de numere, ca nimeni să nu citească litere mici. Tipăriți un set de cartonașe diferite, apoi folosiți crainicul de pe ecran pentru a arăta fiecare imagine mare, pe televizor, laptop sau tabletă.",
+    "howTo": [
+      "Alegeți 9 sau 16 pătrate pe cartonaș și câți jucători sunt.",
+      "Atingeți „Tipăriți cartonașele”. Fiecare cartonaș este diferit.",
+      "Deschideți crainicul pe un ecran mare. Atingeți „Imaginea următoare” pentru a arăta fiecare imagine cu numele ei.",
+      "Jucătorii acoperă imaginea potrivită de pe cartonaș cu o monedă, un nasture sau un marker.",
+      "Toți cei care completează un rând sau tot cartonașul sunt aplaudați. În această variantă nu există perdanți: continuați până când toți au un rând."
+    ],
+    "tips": [
+      "Folosiți jetoane mari, cum sunt piesele de dame sau capacele de sticlă. Nasturii mici pot fi greu de apucat.",
+      "Numiți imaginea și spuneți ceva despre ea: „O barcă cu pânze. Cine a fost vreodată cu barca?”",
+      "Așezați cel mai aproape de ecran persoanele care văd mai greu și formați perechi între ajutoare și jucătorii care au nevoie de ele.",
+      "Nouă pătrate sunt suficiente pentru majoritatea grupurilor. Păstrați sesiunea la 20-30 de minute."
+    ],
+    "faq": [
+      {
+        "q": "Cum organizez bingo cu imagini într-un cămin de îngrijire?",
+        "a": "Tipăriți câte un cartonaș pentru fiecare jucător, puneți crainicul pe cel mai mare ecran pe care îl aveți și arătați imaginile rar, numind fiecare imagine. Jucați până când toți au un rând, ca nimeni să nu rămână pe dinafară."
+      },
+      {
+        "q": "Este gratuit de tipărit?",
+        "a": "Da. Tipăriți câte cartonașe aveți nevoie, de câte ori doriți, pentru uz personal sau în grup."
+      },
+      {
+        "q": "Pot juca persoanele fără să citească?",
+        "a": "Da. Fiecare pătrat este o imagine mare, cu numele dedesubt pentru cei cărora le plac cuvintele."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Respirație calmă",
+    "seoTitle": "O pauză de respirație calmă pentru seniori și îngrijitori",
+    "h1": "O pauză de respirație calmă",
+    "description": "O pauză lentă și liniștită de respirație, împreună: un cerc blând crește și scade pentru șase respirații. Porniți dumneavoastră și vă puteți opri oricând.",
+    "short": "Un cerc lent, după care să respirați. Porniți și opriți când doriți.",
+    "players": "1 sau 2 persoane",
+    "intro": "Uneori cea mai bună activitate este o pauză liniștită. Atingeți „Porniți”, apoi inspirați în timp ce cercul crește și expirați în timp ce scade. Alegeți un ritm mai lent sau mai blând. Nu este un tratament, doar un moment liniștit de împărțit.",
+    "howTo": [
+      "Stați comod, unul lângă altul.",
+      "Alegeți un ritm: lent sau blând.",
+      "Atingeți „Porniți”. Inspirați cât timp cercul crește și expirați cât timp scade.",
+      "Se oprește singur după șase respirații sau atingeți „Opriți” oricând doriți."
+    ],
+    "tips": [
+      "Țineți-vă de mână sau puneți o mână pe brațul persoanei, dacă este binevenit.",
+      "Nu insistați niciodată. Dacă preferă să privească, este în regulă.",
+      "Dacă cineva are probleme de respirație, să respire normal și să privească doar cercul. Întrebați un medic despre orice îngrijorare legată de respirație."
+    ],
+    "faq": [
+      {
+        "q": "Este acesta un exercițiu medical de respirație?",
+        "a": "Nu. Este o pauză simplă, opțională, pentru liniște și companie. Nu este un tratament pentru anxietate sau pentru vreo afecțiune. Discutați cu un medic despre problemele de sănătate."
+      },
+      {
+        "q": "Se mișcă cercul fără să îl pornesc eu?",
+        "a": "Nu. Nimic nu se mișcă până nu atingeți Porniți, iar se oprește după șase respirații sau când atingeți Opriți. Dacă dispozitivul este setat să reducă mișcarea, cuvintele se schimbă fără ca cercul să crească."
+      },
+      {
+        "q": "Este gratuit și trebuie să mă înregistrez?",
+        "a": "Da, este gratuit și nu există cont, înregistrare sau descărcare. Funcționează în browser, pe telefon, tabletă sau computer."
+      }
+    ]
+  }
+}

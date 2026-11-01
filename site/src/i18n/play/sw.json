@@ -1,0 +1,481 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Mchezo",
+      "restart": "Anza upya",
+      "soundOn": "Sauti laini zimewashwa",
+      "soundOff": "Sauti laini zimezimwa",
+      "done": "Maliza kwa sasa",
+      "feedbackQuestion": "Je, hii ilisaidia leo?",
+      "feedbackYes": "Ndiyo",
+      "feedbackNo": "Si sana",
+      "feedbackThanks": "Asante kwa kutuambia."
+    },
+    "tile": {
+      "named": "{name}, kadi {n}",
+      "hidden": "Picha iliyofichwa, kadi {n}",
+      "withState": "{label}, {state}",
+      "matched": "Imelingana",
+      "selected": "Imechaguliwa",
+      "picture": "Picha",
+      "photoNumber": "Picha {n}"
+    },
+    "pairs": {
+      "allTogether": "Jozi zote zimeunganishwa. Cheza tena au pumzikeni kidogo.",
+      "photoPair": "Jozi ya picha, pamoja.",
+      "picturePair": "Picha mbili za {name|lower}, pamoja.",
+      "selected": "{name}. Sasa tafuta jozi yake.",
+      "mismatch": "Chukua muda wako. Gusa picha ili kuendelea.",
+      "mismatchNamed": "{a} na {b}. Chukua muda wako. Gusa picha ili kuendelea."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Gusa picha, kisha gusa ile inayolingana nayo.",
+      "guidanceHidden": "Gusa kadi mbili ili kuzigeuza. Tafuta mbili zinazofanana.",
+      "restart": "Picha mpya",
+      "sizeLegend": "Idadi ya kadi",
+      "size": {
+        "one": "kadi {n}",
+        "other": "kadi {n}"
+      },
+      "viewLegend": "Jinsi ya kucheza",
+      "viewShowing": "Picha zinaonekana",
+      "viewHidden": "Picha zimefichwa",
+      "playAgain": "Cheza tena na picha mpya",
+      "talk": "Zungumzieni picha pamoja"
+    },
+    "choose": {
+      "countLegend": "Idadi ya picha",
+      "count": "{n} za kuchagua",
+      "thatOne": "Hiyo ni {name|lower}. Chukua muda wako."
+    },
+    "findTheSame": {
+      "guidance": "Tazama picha ya juu. Gusa ile ile iliyo chini.",
+      "yes": "Ndiyo, hiyo ni picha ile ile: {name|lower}.",
+      "next": "Picha inayofuata"
+    },
+    "shadowMatch": {
+      "guidance": "Tazama kivuli cha juu. Gusa picha inayotengeneza kivuli hicho.",
+      "yes": "Ndiyo, kivuli hicho ni cha {name|lower}.",
+      "next": "Kivuli kinachofuata",
+      "shadowAlt": "Kivuli cha kulinganisha",
+      "foundAlt": "Kivuli cha {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Gusa picha, kisha gusa kikapu inapostahili kuwekwa.",
+      "restart": "Picha mpya",
+      "themeLegend": "Mada",
+      "selected": "{name}. Sasa gusa kikapu inapowekwa.",
+      "pickFirst": "Kwanza gusa picha, kisha gusa kikapu.",
+      "hint": "Kwa {name|lower}, kikapu cha “{basket}” kinafaa. Gusa kikapu hicho ili kuweka picha hapo.",
+      "placed": "Picha ya {name|lower} imewekwa kwenye “{basket}”.",
+      "sorted": "Kila kitu kimepangwa. Tazameni vikapu pamoja, au jaribuni mada nyingine.",
+      "basket": {
+        "one": "Kikapu cha {basket}, picha {count} ndani",
+        "other": "Kikapu cha {basket}, picha {count} ndani"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Gusa kipande kimoja, kisha gusa kingine. Vinabadilishana nafasi.",
+      "restart": "Changanya tena",
+      "pictureLegend": "Picha",
+      "pictures": {
+        "sailboat": "Mashua",
+        "house": "Nyumba",
+        "balloon": "Puto",
+        "sunflower": "Alizeti",
+        "lighthouse": "Mnara wa taa",
+        "cat": "Paka"
+      },
+      "sizeLegend": "Vipande",
+      "size": {
+        "one": "kipande {n}",
+        "other": "vipande {n}"
+      },
+      "pickedUp": "Kipande kimechukuliwa. Sasa gusa mahali kinapostahili kwenda.",
+      "whole": "Picha ya {name|lower} imekamilika tena. Chagua picha nyingine wakati wowote.",
+      "swapped": {
+        "one": "Vimebadilishana. Kipande {correct} kati ya {total} kiko mahali pake.",
+        "other": "Vimebadilishana. Vipande {correct} kati ya {total} viko mahali pake."
+      },
+      "guideAlt": "Picha nzima: {name}",
+      "guideText": "Hivi ndivyo picha inavyoonekana ikiwa kamili.",
+      "piece": "Kipande cha {place}",
+      "pieceInPlace": ", kiko mahali sahihi",
+      "piecePickedUp": ", kimechukuliwa",
+      "places4": [
+        "juu kushoto",
+        "juu kulia",
+        "chini kushoto",
+        "chini kulia"
+      ],
+      "places9": [
+        "juu kushoto",
+        "juu katikati",
+        "juu kulia",
+        "katikati kushoto",
+        "katikati",
+        "katikati kulia",
+        "chini kushoto",
+        "chini katikati",
+        "chini kulia"
+      ],
+      "done": "Picha imekamilika tena. Cheza tena au pumzikeni kidogo.",
+      "playAgain": "Changanya tena"
+    },
+    "finishTheSaying": {
+      "guidance": "Someni methali pamoja, kisha gusa neno linalokamilisha.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ndiyo, “{start} {end}.”",
+      "otherEnding": "“{word}” pia inafaa. Methali ya kawaida huishia na “{end}”.",
+      "revealed": "Methali ni “{start} {end}.”",
+      "choicesLabel": "Chagua neno la mwisho",
+      "show": "Onyesha mwisho",
+      "talk": "Zungumzieni: ",
+      "next": "Methali inayofuata"
+    },
+    "wordSearch": {
+      "guidance": "Maneno huenda kuvuka au kushuka. Gusa herufi ya kwanza ya neno, kisha herufi yake ya mwisho.",
+      "restart": "Fumbo jipya",
+      "themeLegend": "Mada",
+      "sizeLegend": "Ukubwa wa gridi",
+      "size": {
+        "one": "{n} kwa {n} (neno {words})",
+        "other": "{n} kwa {n} (maneno {words})"
+      },
+      "print": "Chapisha fumbo hili",
+      "letterChosen": "Herufi {letter} imechaguliwa. Sasa gusa herufi ya mwisho ya neno.",
+      "found": "{word} limepatikana.",
+      "foundAll": "{word} limepatikana. Hayo ni maneno yote. Cheza tena au pumzikeni kidogo.",
+      "tryAgain": "Chukua muda wako. Gusa herufi ya kwanza ya neno, kisha herufi yake ya mwisho.",
+      "gridLabel": "Gridi ya herufi, safu {n} za herufi {n}. Tumia vitufe vya mishale kuhama kati ya herufi.",
+      "cell": "{letter}, safu mlalo {row}, safu wima {col}",
+      "cellFound": ", sehemu ya neno lililopatikana",
+      "wordsHeading": "Maneno ya kutafuta",
+      "wordFound": " (limepatikana)",
+      "sheetTitle": "Fumbo la maneno: {theme}",
+      "sheetNote": "Maneno huenda kuvuka au kushuka.",
+      "unavailable": "Gridi ya herufi haifai lugha hii, kwa hiyo fumbo la maneno halitolewi hapa. Jaribuni michezo ya picha."
+    },
+    "coloring": {
+      "guidance": "Gusa rangi, kisha gusa sehemu ya picha.",
+      "restart": "Futa rangi",
+      "cleared": "Ukurasa ni mweupe tena.",
+      "pageLegend": "Ukurasa",
+      "print": "Chapisha ukurasa huu",
+      "colorsLabel": "Rangi",
+      "paintChosen": "{paint} imechaguliwa.",
+      "painted": "{part} sasa ni {paint|lower}.",
+      "artLabel": "{page}, sehemu {count} za kupaka rangi",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, haijapakwa rangi",
+      "paints": {
+        "red": "Nyekundu",
+        "orange": "Chungwa",
+        "yellow": "Njano",
+        "green": "Kijani",
+        "blue": "Buluu",
+        "purple": "Zambarau",
+        "pink": "Waridi",
+        "brown": "Kahawia",
+        "sky-blue": "Samawati",
+        "cream": "Krimu",
+        "gray": "Kijivu",
+        "white": "Nyeupe"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Soma kadi kwa sauti. Hakuna majibu sahihi.",
+      "position": "Kadi {n} kati ya {total}",
+      "themeLegend": "Mada",
+      "next": "Kadi inayofuata",
+      "previous": "Kadi iliyotangulia",
+      "print": "Chapisha kadi zote",
+      "sheetTitle": "Kadi za mazungumzo"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Anza kwa kuchagua picha zenu.",
+      "guidance": "Gusa picha, kisha gusa ile inayolingana nayo.",
+      "restart": "Zichanganye tena",
+      "intro": "**Chagueni picha 2 hadi 6** kutoka kwenye kifaa hiki. Zinaonyeshwa kwenye ukurasa huu tu, na hazipakiwi mtandaoni wala kuhifadhiwa.",
+      "choose": "Chagua picha",
+      "chooseDifferent": "Chagua picha nyingine",
+      "clear": "Futa picha",
+      "cleared": "Picha zimeondolewa kwenye ukurasa huu.",
+      "atLeastTwo": "Tafadhali chagua angalau picha mbili.",
+      "usingFirst": "Tunatumia picha {max} za kwanza.",
+      "skipped": {
+        "one": "Faili {count} si picha tunayoweza kuonyesha.",
+        "other": "Faili {count} si picha tunazoweza kuonyesha."
+      },
+      "playAgain": "Cheza tena na picha hizi",
+      "empty": "Picha zenu zitaonekana hapa, kila moja mara mbili."
+    },
+    "pictureBingo": {
+      "guidance": "Chapisha kadi kwanza. Kisha onyesha mtajaji huyu kwenye skrini kubwa zaidi mliyo nayo.",
+      "called": {
+        "one": "{name}. Picha {called} kati ya {total} imetajwa.",
+        "other": "{name}. Picha {called} kati ya {total} zimetajwa."
+      },
+      "start": "Gusa “Picha inayofuata” ili kutaja picha ya kwanza.",
+      "restart": "Anza mchezo mpya",
+      "squaresLegend": "Mraba kwenye kila kadi",
+      "squares": "mraba {n} ({side} kwa {side})",
+      "cardsLegend": "Idadi ya kadi za kuchapisha",
+      "cards": {
+        "one": "kadi {n}",
+        "other": "kadi {n}"
+      },
+      "print": {
+        "one": "Chapisha kadi {n} ya bingo",
+        "other": "Chapisha kadi {n} za bingo"
+      },
+      "ready": "Tuko tayari wakati wowote",
+      "next": "Picha inayofuata",
+      "allCalled": "Kila picha imetajwa",
+      "alreadyCalled": "Imeshatajwa",
+      "sheetTitle": "Bingo ya picha · kadi {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Vuta pumzi duara linapokua, na uitoe linapopungua. Huisha lenyewe baada ya pumzi sita.",
+      "paceLegend": "Kasi",
+      "paceSlow": "Polepole (sekunde 5 kila upande)",
+      "paceGentle": "Taratibu (sekunde 4 kila upande)",
+      "ready": "Tuko tayari wakati wowote",
+      "in": "Vuta pumzi",
+      "hold": "Pumzika",
+      "out": "Toa pumzi",
+      "start": "Anza",
+      "stop": "Simama",
+      "started": "Imeanza. Vuta pumzi duara linapokua.",
+      "stopped": "Imesimama.",
+      "finished": "Hizo zilikuwa pumzi sita za polepole. Anzeni tena wakati wowote."
+    }
+  },
+  "pictures": {
+    "teacup": "Kikombe cha chai",
+    "kettle": "Birika",
+    "bread": "Mkate",
+    "frying-pan": "Kikaango chenye yai",
+    "cake": "Keki ya siku ya kuzaliwa",
+    "sunflower": "Alizeti",
+    "tulip": "Tulip nyekundu",
+    "watering-can": "Kopo la kumwagilia maji",
+    "potted-plant": "Mmea kwenye chungu",
+    "tree": "Mti",
+    "bird": "Ndege kwenye tawi",
+    "butterfly": "Kipepeo",
+    "dog": "Mbwa",
+    "cat": "Paka",
+    "fish": "Samaki wa dhahabu",
+    "apple": "Tufaha jekundu",
+    "pear": "Peasi",
+    "strawberry": "Stroberi",
+    "banana": "Ndizi",
+    "lemon": "Ndimu",
+    "cherries": "Cheri",
+    "house": "Nyumba",
+    "lamp": "Taa ya mezani",
+    "armchair": "Kiti cha starehe",
+    "key": "Ufunguo wa zamani",
+    "umbrella": "Mwavuli",
+    "sailboat": "Mashua ya tanga",
+    "car": "Gari la zamani",
+    "bicycle": "Baiskeli",
+    "balloon": "Puto la hewa moto",
+    "lighthouse": "Mnara wa taa",
+    "sun": "Jua",
+    "moon": "Mwezi na nyota"
+  },
+  "content": {
+    "sayings": [
+      { "start": "Haraka haraka haina", "end": "baraka", "others": ["mwisho", "nguvu"], "prompt": "Ni jambo gani unapenda kulifanya taratibu, bila haraka?" },
+      { "start": "Polepole ndio", "end": "mwendo", "others": ["wimbo", "mwisho"], "prompt": "Unapenda kutembea polepole au kwa hatua za haraka?" },
+      { "start": "Asiyefunzwa na mamaye hufunzwa na", "end": "ulimwengu", "others": ["jirani", "shule"], "prompt": "Ni nani aliyekufundisha jambo muhimu?" },
+      { "start": "Mwenye macho haambiwi", "end": "tazama", "others": ["sikiliza", "subiri"], "prompt": "Ni kitu gani kizuri unachopenda kukitazama?" },
+      { "start": "Mchagua jembe si", "end": "mkulima", "others": ["mvuvi", "mpishi"], "prompt": "Ulishawahi kulima au kutunza bustani?" },
+      { "start": "Subira huvuta", "end": "heri", "others": ["amani", "furaha"], "prompt": "Ni jambo gani zuri ulilolisubiri kwa hamu?" },
+      { "start": "Mvumilivu hula", "end": "mbivu", "others": ["mbichi", "matunda"], "prompt": "Ni tunda gani unapenda kula likiwa limeiva?" },
+      { "start": "Mgeni njoo, mwenyeji", "end": "apone", "others": ["afurahi", "apumzike"], "prompt": "Ni mgeni gani huwa unafurahi akija nyumbani kwako?" },
+      { "start": "Kidole kimoja hakivunji", "end": "chawa", "others": ["gogo", "jiwe"], "prompt": "Ni kazi gani mlifanya pamoja na familia au majirani?" },
+      { "start": "Umoja ni", "end": "nguvu", "others": ["furaha", "wimbo"], "prompt": "Ni jambo gani mnapenda kufanya pamoja kama familia?" },
+      { "start": "Haba na haba hujaza", "end": "kibaba", "others": ["kikapu", "kikombe"], "prompt": "Ni kitu gani unapenda kukikusanya kidogo kidogo?" },
+      { "start": "Penye nia pana", "end": "njia", "others": ["mwanga", "furaha"], "prompt": "Ni jambo gani ulilolitaka sana na ukalifanya?" },
+      { "start": "Usipoziba ufa utajenga", "end": "ukuta", "others": ["nyumba", "uzio"], "prompt": "Ni kitu gani umewahi kujitengenezea mwenyewe nyumbani?" },
+      { "start": "Ndugu ni kufaana, si", "end": "kufanana", "others": ["kuonana", "kutembeleana"], "prompt": "Ni ndugu au jamaa gani unapenda kukaa naye?" },
+      { "start": "Heri kujikwaa kidole kuliko kujikwaa", "end": "ulimi", "others": ["mguu", "mkono"], "prompt": "Ni maneno gani mazuri unayopenda kusikia kutoka kwa mtu?" },
+      { "start": "Dalili ya mvua ni", "end": "mawingu", "others": ["jua", "upepo"], "prompt": "Mvua ikinyesha, unapenda kufanya nini ukiwa ndani?" },
+      { "start": "Chovya chovya humaliza buyu la", "end": "asali", "others": ["maziwa", "maji"], "prompt": "Unapenda asali kwenye chai, kwenye mkate au peke yake?" },
+      { "start": "Mchumia juani hulia", "end": "kivulini", "others": ["nyumbani", "shambani"], "prompt": "Ni mahali gani pa kivulini unapenda kukaa?" },
+      { "start": "Jogoo la shamba haliwiki", "end": "mjini", "others": ["usiku", "jioni"], "prompt": "Ulishawahi kufuga kuku au kutembelea shamba?" },
+      { "start": "Kawia", "end": "ufike", "others": ["ulale", "urudi"], "prompt": "Ni safari gani uliifurahia sana?" },
+      { "start": "Bandu bandu huisha", "end": "gogo", "others": ["mti", "kuni"], "prompt": "Ni kazi gani ndefu uliyoifanya kidogo kidogo hadi ikaisha?" },
+      { "start": "Nyumba njema si", "end": "mlango", "others": ["paa", "ukuta"], "prompt": "Ni nini kinafanya mahali kuwa nyumbani kwako?" },
+      { "start": "Hakuna masika yasiyokuwa na", "end": "mbu", "others": ["jua", "upepo"], "prompt": "Ni msimu gani wa mwaka unaoupenda zaidi?" },
+      { "start": "Kinywa ni jumba la", "end": "maneno", "others": ["chakula", "nyimbo"], "prompt": "Ni hadithi gani unapenda kuisimulia?" },
+      { "start": "Samaki mkunje angali", "end": "mbichi", "others": ["hai", "mdogo"], "prompt": "Ulishawahi kuvua au kupika samaki?" },
+      { "start": "Mwenda pole", "end": "hajikwai", "others": ["hachoki", "hapotei"], "prompt": "Unapenda kutembea wapi ukiwa na wakati?" },
+      { "start": "Fuata nyuki ule", "end": "asali", "others": ["maziwa", "matunda"], "prompt": "Ni chakula gani kitamu unachokipenda kutoka shambani?" },
+      { "start": "Mtu ni", "end": "watu", "others": ["nyumba", "kazi"], "prompt": "Ni watu gani unapenda kuwa nao?" },
+      { "start": "Njia mbili zilimshinda", "end": "fisi", "others": ["simba", "paka"], "prompt": "Ni njia gani unapenda kutumia kwenda sokoni au kutembea?" },
+      { "start": "Elimu haina", "end": "mwisho", "others": ["mwanzo", "mlango"], "prompt": "Ni jambo gani la kuvutia ulilojifunza kutoka kwa mtu?" },
+      { "start": "Mkono mmoja haulei", "end": "mwana", "others": ["shamba", "nyumba"], "prompt": "Ni nani alikusaidia kazi za nyumbani?" },
+      { "start": "Siku njema huonekana", "end": "asubuhi", "others": ["jioni", "usiku"], "prompt": "Siku yako njema huanzaje asubuhi?" },
+      { "start": "Uchungu wa mwana aujuaye ni", "end": "mzazi", "others": ["jirani", "mwalimu"], "prompt": "Ni nani katika familia yako anayekujali sana?" },
+      { "start": "Mkulima ni mmoja, walaji ni", "end": "wengi", "others": ["wachache", "wawili"], "prompt": "Ni chakula gani cha kutoka shambani unachokipenda zaidi?" }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEGHIKLMNOPRSTUWY",
+      "themes": [
+        { "value": "fruit", "label": "Matunda", "words": ["EMBE", "NDIZI", "NDIMU", "PERA", "TUFAA", "ZABIBU", "PAPAI", "NANASI", "FENESI"] },
+        { "value": "garden", "label": "Bustani", "words": ["MAUA", "MBEGU", "UDONGO", "MAJANI", "MTI", "MBOGA", "NYASI", "JEMBE", "NYUKI"] },
+        { "value": "kitchen", "label": "Jikoni", "words": ["SAHANI", "KIJIKO", "MKATE", "CHAI", "JIKO", "MAJI", "CHUMVI", "UGALI", "SUKARI"] },
+        { "value": "weather", "label": "Hali ya hewa", "words": ["JUA", "MVUA", "UPEPO", "WINGU", "RADI", "UKUNGU", "BARIDI", "JOTO", "UMEME"] },
+        { "value": "animals", "label": "Wanyama", "words": ["MBWA", "PAKA", "NDEGE", "SAMAKI", "FARASI", "KUKU", "MBUZI", "BATA", "TEMBO"] },
+        { "value": "home", "label": "Nyumbani", "words": ["MLANGO", "KITI", "TAA", "MEZA", "MKEKA", "SAA", "FUNGUO", "PAA", "UKUTA"] }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kadi zote",
+        "food": "Chakula",
+        "home": "Nyumbani",
+        "outdoors": "Nje",
+        "animals": "Wanyama",
+        "travel": "Safari",
+        "work": "Kazi na mambo ya kupenda",
+        "music": "Muziki na burudani",
+        "seasons": "Misimu"
+      },
+      "cards": [
+        { "theme": "food", "picture": "bread", "prompt": "Ni harufu gani ya jikoni unayoipenda zaidi?" },
+        { "theme": "food", "picture": "cake", "prompt": "Ungechagua keki ya aina gani kwa ajili ya sherehe?" },
+        { "theme": "food", "picture": "apple", "prompt": "Niambie kuhusu tunda au kitamu unachokipenda." },
+        { "theme": "food", "picture": "teacup", "prompt": "Unapendaje chai au kahawa yako?" },
+        { "theme": "food", "picture": "frying-pan", "prompt": "Nini kinafanya kifungua kinywa kiwe kizuri sana?" },
+        { "theme": "food", "picture": "strawberry", "prompt": "Ulishawahi kuchuma matunda moja kwa moja kutoka kwenye mti au mmea?" },
+        { "theme": "food", "picture": "lemon", "prompt": "Chachu au tamu: unapendelea ipi?" },
+        { "theme": "food", "picture": "cherries", "prompt": "Ni chakula gani unachopenda kula wakati wa joto?" },
+        { "theme": "home", "picture": "house", "prompt": "Niambie kuhusu nyumba uliyopenda kuishi." },
+        { "theme": "home", "picture": "armchair", "prompt": "Unapenda kukaa wapi ili kupumzika?" },
+        { "theme": "home", "picture": "lamp", "prompt": "Unapenda kufanya nini jioni tulivu?" },
+        { "theme": "home", "picture": "key", "prompt": "Ni kitu gani cha thamani ungehifadhi kwenye sanduku maalum?" },
+        { "theme": "home", "picture": "kettle", "prompt": "Ungemkaribisha nani nyumbani kwa kikombe cha chai?" },
+        { "theme": "home", "picture": "umbrella", "prompt": "Unapenda kufanya nini siku ya mvua?" },
+        { "theme": "outdoors", "picture": "sunflower", "prompt": "Ungepanda maua gani kwenye bustani?" },
+        { "theme": "outdoors", "picture": "tree", "prompt": "Niambie kuhusu mti au bustani unayoipenda." },
+        { "theme": "outdoors", "picture": "watering-can", "prompt": "Ni sehemu gani nzuri zaidi ya kuwa bustanini?" },
+        { "theme": "outdoors", "picture": "tulip", "prompt": "Unapenda maua ya rangi gani zaidi?" },
+        { "theme": "outdoors", "picture": "potted-plant", "prompt": "Unapenda kuwa na mimea ndani ya nyumba?" },
+        { "theme": "outdoors", "picture": "sun", "prompt": "Siku kamili ya jua ingekuwaje kwako?" },
+        { "theme": "animals", "picture": "dog", "prompt": "Niambie kuhusu mbwa uliyewahi kumjua." },
+        { "theme": "animals", "picture": "cat", "prompt": "Paka au mbwa, au hakuna? Unapenda nini kuhusu wanyama hawa?" },
+        { "theme": "animals", "picture": "bird", "prompt": "Ni ndege gani unaowaona au kuwasikia nje?" },
+        { "theme": "animals", "picture": "fish", "prompt": "Ulishawahi kuvua samaki, au kufuga samaki?" },
+        { "theme": "animals", "picture": "butterfly", "prompt": "Ni mnyama gani mzuri zaidi uliyewahi kumwona?" },
+        { "theme": "travel", "picture": "car", "prompt": "Niambie kuhusu gari ulilolipenda." },
+        { "theme": "travel", "picture": "sailboat", "prompt": "Ungependa kutumia siku nzima ufukweni au milimani?" },
+        { "theme": "travel", "picture": "bicycle", "prompt": "Ungependa kwenda wapi kwa baiskeli?" },
+        { "theme": "travel", "picture": "balloon", "prompt": "Kama ungeweza kuruka juu ya mahali popote, ungeenda wapi?" },
+        { "theme": "travel", "picture": "lighthouse", "prompt": "Ni safari gani uliyoifurahia?" },
+        { "theme": "work", "picture": "key", "prompt": "Ni kazi gani uliyoifurahia kuifanya?" },
+        { "theme": "work", "picture": "watering-can", "prompt": "Ni jambo gani unalopenda ambalo ungeweza kulifanya kwa saa nyingi?" },
+        { "theme": "work", "picture": "bread", "prompt": "Ni kitu gani ulichojulikana kwa kukitengeneza au kukirekebisha?" },
+        { "theme": "work", "picture": "house", "prompt": "Ungemshauri nini kijana anayeanza kazi?" },
+        { "theme": "music", "picture": "balloon", "prompt": "Ni muziki wa aina gani unaokufanya utake kucheza?" },
+        { "theme": "music", "picture": "cake", "prompt": "Nini kinafanya sherehe iwe nzuri sana?" },
+        { "theme": "music", "picture": "lamp", "prompt": "Ni mwimbaji gani unayependa kumsikiliza?" },
+        { "theme": "music", "picture": "armchair", "prompt": "Ni filamu au kipindi gani cha televisheni unachopenda kutazama tena?" },
+        { "theme": "seasons", "picture": "sun", "prompt": "Unapenda nini kuhusu siku za jua na joto?" },
+        { "theme": "seasons", "picture": "tree", "prompt": "Unapenda nini kuhusu msimu wa mvua?" },
+        { "theme": "seasons", "picture": "moon", "prompt": "Ni jambo gani la kufurahisha kufanya jioni ya baridi?" },
+        { "theme": "seasons", "picture": "tulip", "prompt": "Ni dalili zipi za kwanza zinazoonyesha mvua za masika zinakaribia?" },
+        { "theme": "seasons", "picture": "umbrella", "prompt": "Mvua, jua au upepo wa baridi: unapendelea lipi?" }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Ua kwenye chungu",
+          "regions": {
+            "sky": "Mandharinyuma",
+            "table": "Meza",
+            "stem": "Shina",
+            "leaf-left": "Jani la kushoto",
+            "leaf-right": "Jani la kulia",
+            "petal-1": "Petali 1",
+            "petal-2": "Petali 2",
+            "petal-3": "Petali 3",
+            "petal-4": "Petali 4",
+            "petal-5": "Petali 5",
+            "petal-6": "Petali 6",
+            "petal-7": "Petali 7",
+            "petal-8": "Petali 8",
+            "center": "Katikati ya ua",
+            "pot": "Chungu",
+            "pot-rim": "Ukingo wa chungu"
+          }
+        },
+        "house": {
+          "name": "Nyumba",
+          "regions": {
+            "sky": "Anga",
+            "sun": "Jua",
+            "grass": "Nyasi",
+            "chimney": "Bomba la moshi",
+            "walls": "Kuta",
+            "roof": "Paa",
+            "door": "Mlango",
+            "window-left": "Dirisha la kushoto",
+            "window-right": "Dirisha la kulia",
+            "path": "Njia"
+          }
+        },
+        "teacup": {
+          "name": "Kikombe cha chai",
+          "regions": {
+            "background": "Mandharinyuma",
+            "saucer": "Kisahani",
+            "handle": "Mpini",
+            "cup": "Kikombe",
+            "band": "Mstari kwenye kikombe",
+            "tea": "Chai"
+          }
+        },
+        "butterfly": {
+          "name": "Kipepeo",
+          "regions": {
+            "background": "Mandharinyuma",
+            "wing-top-left": "Bawa la juu kushoto",
+            "wing-top-right": "Bawa la juu kulia",
+            "wing-bottom-left": "Bawa la chini kushoto",
+            "wing-bottom-right": "Bawa la chini kulia",
+            "spot-left": "Doa kwenye bawa la kushoto",
+            "spot-right": "Doa kwenye bawa la kulia",
+            "body": "Mwili"
+          }
+        },
+        "sailboat": {
+          "name": "Mashua ya tanga",
+          "regions": {
+            "sky": "Anga",
+            "sea": "Bahari",
+            "sail-big": "Tanga kubwa",
+            "sail-small": "Tanga ndogo",
+            "mast": "Mlingoti",
+            "hull": "Mashua",
+            "flag": "Bendera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": { "label": "Jikoni na bustanini", "baskets": ["Jikoni", "Bustanini"] },
+        "fruit-animals": { "label": "Matunda na wanyama", "baskets": ["Matunda", "Wanyama"] },
+        "home-travel": { "label": "Nyumbani na safarini", "baskets": ["Nyumbani", "Safarini"] }
+      }
+    }
+  }
+}

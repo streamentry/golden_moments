@@ -12,7 +12,13 @@ const width = (s) => [...s].reduce((n, ch) => n + (/\p{M}/u.test(ch) ? 0 : /[\u1
 /** URL prefixes of translated languages; keep in step with src/i18n/locales.ts. */
 // Languages written right to left; the checker expects dir="rtl" on exactly these.
 const RTL_PREFIXES = new Set(['ar', 'fa', 'ur']);
-const LOCALE_PREFIXES = new Set(['es', 'pt-br', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', 'ar', 'hi', 'ja', 'ko', 'zh-hans', 'zh-hant', 'vi', 'id', 'th', 'bn', 'fa', 'ha', 'ur', 'mr', 'te', 'ta', 'gu']);
+// The language prefix at the start of a path (`vi`, `fil`, `zh-hans`), or undefined. Only registered
+// prefixes count, so /app/ and /faq/ are never mistaken for languages.
+const prefixIn = (path) => {
+  const found = path.match(/^\/?([a-z]{2,3}(?:-[a-z]{2,4})?)\//)?.[1];
+  return found && LOCALE_PREFIXES.has(found) ? found : undefined;
+};
+const LOCALE_PREFIXES = new Set(['es', 'pt-br', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', 'ar', 'hi', 'ja', 'ko', 'zh-hans', 'zh-hant', 'vi', 'id', 'th', 'bn', 'fa', 'ha', 'ur', 'mr', 'te', 'ta', 'gu', 'pa', 'fil', 'ro', 'ms', 'sw']);
 
 /** Phrases that would make a medical or performance claim. Matched case-insensitively. */
 const BANNED = [
@@ -116,7 +122,7 @@ for (const file of htmlFiles) {
   if (!title) err(rel, 'missing <title>');
   if (width(title) > 70) warn(rel, `title is ${width(title)} chars wide: "${title}"`);
   // Duplicates matter within one language; the same words in two languages are fine.
-  const langKey = (rel.match(/^([a-z]{2}(?:-[a-z]{2,4})?)\//)?.[1] ?? '') + '|';
+  const langKey = (prefixIn(rel) ?? '') + '|';
   if (!is404) titles.set(langKey + title, [...(titles.get(langKey + title) ?? []), rel]);
 
   const desc = html.match(/<meta name="description" content="([^"]*)"/)?.[1] ?? '';
@@ -139,7 +145,7 @@ for (const file of htmlFiles) {
       if (!strictPolicy(path)) err(rel, 'Photo pairs has no strict Content-Security-Policy rule in _headers');
     }
 
-    const prefix = path.match(/^\/([a-z]{2}(?:-[a-z]{2,4})?)\//)?.[1];
+    const prefix = prefixIn(path);
     const patient = prefix && PATIENT_WORDS[prefix];
     if (patient && patient.re.test(text(html))) (patient.fail ? err : warn)(rel, 'uses "patients" wording for people living with dementia');
   }
@@ -158,7 +164,7 @@ for (const file of htmlFiles) {
   }
 
   const htmlTag = html.match(/<html lang="([^"]+)" dir="(ltr|rtl)">/);
-  const prefix = rel.match(/^([a-z]{2}(?:-[a-z]{2,4})?)\//)?.[1];
+  const prefix = prefixIn(rel);
   const translated = prefix && prefix.length >= 2 && LOCALE_PREFIXES.has(prefix);
   if (!htmlTag) err(rel, 'missing lang or dir attribute');
   else if (!translated && htmlTag[1] !== 'en-US') err(rel, `English page has lang="${htmlTag[1]}"`);
@@ -206,7 +212,7 @@ for (const [desc, pages] of descriptions) if (pages.length > 1) err(pages.join('
 // /sitemap-en.xml for English, /<prefix>/sitemap.xml for the rest.
 const sitemapName = (prefix) => (prefix ? `${prefix}/sitemap.xml` : 'sitemap-en.xml');
 const readDist = (name) => (existsSync(join(DIST, name)) ? readFileSync(join(DIST, name), 'utf8') : '');
-const prefixOf = (url) => url.replace(SITE, '').match(/^\/([a-z]{2}(?:-[a-z]{2,4})?)\//)?.[1];
+const prefixOf = (url) => prefixIn(url.replace(SITE, ''));
 const owner = (url) => {
   const prefix = prefixOf(url);
   return LOCALE_PREFIXES.has(prefix) ? prefix : '';

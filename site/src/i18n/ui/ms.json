@@ -1,0 +1,534 @@
+{
+  "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
+  "common": {
+    "skipLink": "Langkau ke kandungan utama",
+    "brandName": "Golden Moments",
+    "brandTag": "Aktiviti demensia",
+    "homeLabel": "Laman utama Golden Moments",
+    "mainNav": "Utama",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: gambar besar yang mesra bagi cawan teh, bunga matahari dan seekor anjing",
+    "languages": "Bahasa",
+    "englishOnly": "(Bahasa Inggeris)",
+    "machineTranslated": "Halaman ini diterjemahkan secara automatik dan belum disemak oleh penutur asli.",
+    "readOriginal": "Baca versi asal dalam Bahasa Inggeris",
+    "nav": {
+      "games": "Permainan",
+      "activities": "Aktiviti",
+      "caregiving": "Penjagaan",
+      "brainHealth": "Kesihatan otak"
+    },
+    "faqTitle": "Soalan dan jawapan",
+    "breadcrumb": "Jejak laluan",
+    "home": "Laman utama",
+    "lastUpdated": "Dikemas kini kali terakhir",
+    "topics": "Topik"
+  },
+  "footer": {
+    "play": "Main",
+    "picturePairs": "Pasangan gambar",
+    "conversationCards": "Kad perbualan",
+    "pictureBingo": "Bingo gambar",
+    "allGames": "Semua permainan",
+    "activityIdeas": "Idea aktiviti",
+    "ideas101": "101 idea aktiviti",
+    "lateStage": "Aktiviti peringkat akhir",
+    "printable": "Aktiviti boleh cetak",
+    "allActivities": "Semua aktiviti",
+    "forCaregivers": "Untuk penjaga",
+    "playTogether": "Cara bermain bersama",
+    "selfCare": "Menjaga diri sendiri",
+    "brainHealth": "Kajian kesihatan otak",
+    "faq": "Soalan dan jawapan",
+    "about": "Tentang kami",
+    "approach": "Pendekatan kami",
+    "howWeWrite": "Cara kami menulis",
+    "organizations": "Untuk organisasi",
+    "app": "Aplikasi Golden Moments",
+    "appHelp": "Bantuan aplikasi",
+    "support": "Sokongan",
+    "legal": "Perundangan",
+    "sitePrivacy": "Privasi laman web",
+    "appPrivacy": "Dasar privasi aplikasi",
+    "privacyChoices": "Pilihan privasi",
+    "terms": "Terma dan lesen aplikasi",
+    "safety": "Keselamatan dan tujuan penggunaan",
+    "accessibility": "Kebolehcapaian",
+    "healthNotice": "Notis maklumat kesihatan",
+    "allLegal": "Semua maklumat perundangan",
+    "note": "Golden Moments menawarkan aktiviti bersama yang mudah untuk dinikmati. Ia bukan nasihat perubatan, ujian atau rawatan, dan tidak mendiagnosis, mengukur atau memberi markah kepada sesiapa. Untuk soalan kesihatan, berbincanglah dengan doktor. Dalam kecemasan, hubungi nombor kecemasan tempatan.",
+    "publisher": "Diterbitkan oleh Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Permainan dan Aktiviti Demensia & Alzheimer | Golden Moments",
+    "description": "Permainan gambar lembut dan percuma untuk dimainkan dalam talian serta idea aktiviti bagi orang yang hidup dengan demensia dan penjaga mereka. Tanpa daftar.",
+    "eyebrow": "Percuma · Tiada iklan · Tanpa pendaftaran · Tiada pemasa atau markah",
+    "h1": "Permainan dan Aktiviti Lembut untuk Orang yang Hidup dengan Demensia",
+    "lede": "Permainan gambar yang mudah, foto yang biasa dilihat, dan aktiviti untuk dinikmati bersama, mengikut rentak anda sendiri.",
+    "playGame": "Main permainan",
+    "findIdeas": "Cari idea aktiviti",
+    "facts": [
+      "Berfungsi pada telefon, tablet dan komputer",
+      "Gambar besar yang sentiasa kelihatan",
+      "Berhenti pada bila-bila masa; tiada apa-apa untuk gagal"
+    ],
+    "heroApp": "Juga ada aplikasi percuma untuk iPhone, iPad dan Android, dengan foto keluarga anda sendiri",
+    "albumNote": "“Dua gambar cawan teh, bersama.”",
+    "gamesEyebrow": "Main dalam pelayar anda",
+    "gamesTitle": "Permainan yang boleh dimainkan sekarang",
+    "gamesLede": "Setiap satu tenang, sesuai untuk orang dewasa dan cepat dimulakan. Pilih satu, duduk bersebelahan, dan bergilir-gilir mengetik.",
+    "seeAllGames": "Lihat semua {count} permainan",
+    "howTitle": "Cara ia berfungsi",
+    "steps": [
+      {
+        "title": "Pilih sesuatu yang biasa dilihat",
+        "text": "Gambar cawan teh, taman, haiwan peliharaan dan perahu layar. Tiada bacaan atau peraturan yang perlu dipelajari dahulu."
+      },
+      {
+        "title": "Duduk bersebelahan",
+        "text": "Biarkan mereka mengetik. Berbual tentang gambar itu. Gambar yang tidak sepadan hanya menunggu ketikan seterusnya."
+      },
+      {
+        "title": "Berhenti ketika masih terasa selesa",
+        "text": "Satu permainan sudah cukup sebagai satu aktiviti. “Cukup buat masa ini” sentiasa ada pada skrin."
+      }
+    ],
+    "stageEyebrow": "Di luar skrin",
+    "stageTitle": "Idea aktiviti untuk setiap peringkat",
+    "stageLede": "Muzik, tugasan harian, mengenang kembali dan detik deria yang tenang, disesuaikan dengan apa yang terasa selesa sekarang.",
+    "ideas101": "101 idea aktiviti",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Peringkat awal",
+        "text": "Teruskan melakukan apa yang mereka suka, dengan sedikit pelarasan: hobi, bersiar-siar, permainan perkataan dan merancang bersama.",
+        "label": "Idea peringkat awal"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Peringkat pertengahan",
+        "text": "Tugasan mudah dan biasa yang dipecahkan kepada langkah: melipat, mengasingkan, muzik, permainan gambar dan berjalan sebentar.",
+        "label": "Idea peringkat pertengahan"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Peringkat akhir",
+        "text": "Keselesaan dan hubungan melalui sentuhan, bunyi dan penglihatan: penjagaan tangan, lagu kegemaran, foto dan sekadar bersama.",
+        "label": "Idea peringkat akhir"
+      }
+    ],
+    "specificHtml": "Mencari sesuatu yang khusus? Cuba <a href=\"/activities/alzheimers/\">aktiviti dan permainan untuk Alzheimer</a>, <a href=\"/activities/memory-games/\">permainan ingatan yang lembut</a>, <a href=\"/activities/trivia/\">trivia mudah</a> atau <a href=\"/activities/puzzles/\">teka-teki</a>.",
+    "approachEyebrow": "Pendekatan kami",
+    "approachTitle": "Aktiviti bersama, bukan ujian ingatan",
+    "approachLede": "Banyak “permainan otak” dibina berdasarkan kelajuan, markah dan rentetan kemenangan. Bagi orang yang hidup dengan demensia, itu boleh terasa seperti peperiksaan. Kami membina sebaliknya.",
+    "approachLink": "Mengapa kami mereka bentuknya begini",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Tiada apa-apa untuk gagal",
+        "text": "Tiada jam, markah, nyawa atau kekalahan. Gambar yang berbeza ialah jeda, bukan kesilapan."
+      },
+      {
+        "icon": "eye",
+        "title": "Gambar sentiasa kelihatan",
+        "text": "Mengenali, bukan mengingat. Padanan bermula dengan gambar terbuka, jadi tiada apa-apa yang perlu diingat."
+      },
+      {
+        "icon": "people",
+        "title": "Sesuai untuk orang dewasa dan bermaruah",
+        "text": "Kata-kata yang mesra dan mudah serta gambar dunia sebenar. Tidak pernah kartun atau cakap budak-budak."
+      },
+      {
+        "icon": "shield",
+        "title": "Peribadi sejak awal",
+        "text": "Tiada akaun atau iklan. Foto anda tidak pernah meninggalkan peranti anda."
+      }
+    ],
+    "guidesEyebrow": "Untuk penjaga",
+    "guidesTitle": "Panduan praktikal untuk penjagaan harian",
+    "allCaregiving": "Semua panduan penjagaan",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Cara bermain permainan bersama",
+        "text": "Persediaan, rentak, dan apa yang perlu dilakukan apabila permainan tidak lagi menyeronokkan."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Apabila mereka menolak sesuatu aktiviti",
+        "text": "Sebab biasa untuk menolak, dan cara lembut untuk mencuba lagi kemudian."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Menyediakan tablet",
+        "text": "Teks lebih besar, kurang gangguan dan satu skrin utama yang mudah."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Aktiviti boleh cetak percuma",
+        "text": "Carian perkataan cetakan besar, halaman mewarna, bingo dan kad perbualan."
+      }
+    ],
+    "researchTitle": "Kesihatan otak: apa sebenarnya kata kajian",
+    "researchText": "Bolehkah demensia dicegah? Adakah permainan otak membantu? Bagaimana dengan berpuasa, pemakanan, tidur dan pendengaran? Jawapan yang mudah dan bersumber, termasuk di mana buktinya lemah.",
+    "researchLink": "Baca panduan kajian",
+    "appEyebrow": "Juga sebuah aplikasi",
+    "appTitle": "Golden Moments pada iPhone, iPad dan Android",
+    "appText": "Aplikasi percuma ini berfungsi luar talian dan boleh menggunakan foto keluarga yang anda pilih, disimpan sebagai salinan pada peranti anda. Reka bentuk tenang yang sama: empat jubin besar, tiada pemasa, tiada markah.",
+    "aboutApp": "Tentang aplikasi",
+    "faq": [
+      {
+        "q": "Apakah permainan yang baik untuk orang yang hidup dengan demensia?",
+        "a": "Permainan yang baik ialah yang mudah, biasa dan bebas tekanan: gambar besar untuk dipadankan, mengasingkan, jigsaw mudah, melengkapkan peribahasa yang terkenal, mewarna, bingo gambar dan kad perbualan. Pilihan terbaik ialah yang disukai orang itu pada hari ini. Elakkan pemasa, markah dan apa-apa yang terasa seperti ujian."
+      },
+      {
+        "q": "Adakah permainan demensia ini percuma?",
+        "a": "Ya. Setiap permainan dan bahan boleh cetak di Golden Moments adalah percuma, tanpa akaun, pendaftaran atau muat turun. Permainan dijalankan dalam pelayar web pada telefon, tablet atau komputer."
+      },
+      {
+        "q": "Adakah permainan otak mencegah demensia?",
+        "a": "Tiada permainan yang terbukti mencegah demensia, dan Golden Moments tidak mendakwa merawat atau mencegah apa-apa. Permainan kami adalah untuk keseronokan dan masa bersama. Bahagian kesihatan otak kami menerangkan apa yang ditunjukkan dan tidak ditunjukkan oleh kajian."
+      },
+      {
+        "q": "Adakah permainan ini sesuai untuk orang yang menghidap Alzheimer?",
+        "a": "Ya. Penyakit Alzheimer ialah punca demensia yang paling biasa, dan permainan ini dibuat dengan mengambil kira keadaan itu: gambar besar yang sentiasa kelihatan, sedikit pilihan, dan tiada apa-apa untuk diingat atau tersilap. Memadankan, mengasingkan dan melengkapkan peribahasa yang biasa bergantung pada pengetahuan yang sudah lama dimiliki, bukan pembelajaran baharu."
+      },
+      {
+        "q": "Bolehkah orang yang berada pada peringkat demensia yang lebih lewat menggunakan aktiviti ini?",
+        "a": "Selalunya boleh, dengan seseorang di sisi mereka. Mulakan dengan Cari yang sama menggunakan dua gambar, Pasangan gambar dengan empat jubin, halaman mewarna atau jeda pernafasan yang tenang. Pastikan ia singkat, ikut petunjuk mereka dan berhenti apabila mereka sudah cukup."
+      },
+      {
+        "q": "Adakah maklumat saya peribadi?",
+        "a": "Laman ini tiada akaun dan tiada iklan. Kami menggunakan Google Analytics untuk memahami halaman mana yang dilawati. Foto yang anda pilih untuk Pasangan foto hanya dipaparkan dalam pelayar anda dan tidak pernah dimuat naik."
+      },
+      {
+        "q": "Siapakah yang membuat Golden Moments?",
+        "a": "Golden Moments ialah pasukan kecil yang membuat aktiviti gambar yang tenang dan sesuai untuk orang dewasa bagi keluarga dan penjaga, di web dan sebagai aplikasi percuma. Kami bukan doktor atau pakar klinikal, dan tiada apa-apa di sini merupakan nasihat perubatan."
+      }
+    ]
+  },
+  "stage": {
+    "early": "awal",
+    "middle": "pertengahan",
+    "late": "akhir",
+    "hintOne": "Selalunya sesuai untuk peringkat {list}",
+    "hintMany": "Selalunya sesuai untuk peringkat {list}",
+    "labelEarly": "Peringkat awal",
+    "labelMiddle": "Peringkat pertengahan",
+    "labelLate": "Peringkat akhir"
+  },
+  "cards": {
+    "aboutGame": "Tentang permainan ini",
+    "printable": "Boleh cetak",
+    "play": "Main {name} →",
+    "readGuide": "Baca panduan"
+  },
+  "playCta": {
+    "title": "Bersedia untuk permainan yang lembut?",
+    "text": "Gambar besar, tiada pemasa, tiada markah dan tiada apa-apa untuk didaftarkan. Main bersama dalam pelayar anda.",
+    "play": "Main permainan",
+    "all": "Lihat semua permainan",
+    "aria": "Main permainan"
+  },
+  "appCta": {
+    "title": "Bawa permainan ini bersama anda",
+    "text": "Aplikasi percuma Golden Moments untuk iPhone, iPad dan Android: jubin gambar besar, permainan dengan foto keluarga anda sendiri, dan pek gambar yang berfungsi tanpa Wi‑Fi. Tiada akaun, iklan, pemasa atau markah.",
+    "appStore": "Dapatkan di App Store",
+    "googlePlay": "Dapatkan di Google Play",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Tentang aplikasi",
+    "aria": "Dapatkan aplikasi"
+  },
+  "sections": {
+    "activities": {
+      "label": "Aktiviti",
+      "title": "Aktiviti untuk Orang yang Hidup dengan Demensia",
+      "seo": "Aktiviti untuk Demensia: Idea Mengikut Peringkat",
+      "description": "Idea aktiviti untuk orang yang hidup dengan demensia pada setiap peringkat: muzik, mengenang kembali, tugasan harian, deria, kraf dan bahan boleh cetak percuma.",
+      "lede": "Aktiviti yang bermakna ialah apa-apa yang membawa keselesaan, tujuan atau detik hubungan. Mulakan dengan apa yang sentiasa disukai orang itu, dan sesuaikan dengan keadaan hari ini."
+    },
+    "caregiving": {
+      "label": "Penjagaan",
+      "title": "Panduan Penjagaan",
+      "seo": "Panduan Penjagaan Demensia: Bantuan Harian Praktikal",
+      "description": "Panduan praktikal dan mesra untuk penjaga demensia: bermain bersama, komunikasi, penolakan, resah lewat petang, tablet, memilih aplikasi dan menjaga diri.",
+      "lede": "Bantuan yang mudah dan praktikal untuk saat-saat harian menjaga orang yang hidup dengan demensia, termasuk menjaga diri anda sendiri."
+    },
+    "brain-health": {
+      "label": "Kesihatan otak",
+      "title": "Kesihatan Otak: Apa Kata Kajian",
+      "seo": "Kesihatan Otak dan Risiko Demensia: Apa Kata Kajian",
+      "description": "Bolehkah demensia dicegah? Panduan jujur dan bersumber tentang faktor risiko, permainan otak, puasa, pemakanan, senaman, tidur, pendengaran dan tanda awal.",
+      "lede": "Apa yang sebenarnya ditunjukkan oleh kajian besar tentang mengurangkan risiko demensia, diterangkan dengan mudah, termasuk di mana buktinya lemah atau bercampur. Maklumat am, bukan nasihat perubatan."
+    }
+  },
+  "guide": {
+    "updated": "Dikemas kini",
+    "minuteRead": "Bacaan {n} minit",
+    "byTeam": "Oleh pasukan Golden Moments",
+    "howWeWrite": "Cara kami menulis",
+    "shortAnswer": "Jawapan ringkas",
+    "onThisPage": "Dalam halaman ini ({n} bahagian)",
+    "commonQuestions": "Soalan lazim",
+    "sources": "Sumber",
+    "sourcesNote": "Kami memaut kepada organisasi dan kajian yang menjadi rujukan halaman ini. Setiap satu disemak apabila halaman dikemas kini.",
+    "tryTogether": "Cuba bersama",
+    "relatedGuides": "Panduan berkaitan",
+    "related": "Berkaitan",
+    "startHere": "Mulakan di sini"
+  },
+  "healthNotice": {
+    "aria": "Notis maklumat kesihatan",
+    "title": "Maklumat am, bukan nasihat perubatan",
+    "textHtml": "Halaman ini meringkaskan kajian yang diterbitkan untuk keluarga. Ia tidak dapat memberitahu anda apa yang sesuai untuk seseorang. Berbincanglah dengan doktor sebelum mengubah pemakanan, senaman, tidur, ubat atau suplemen. Jika berlaku kekeliruan mendadak atau perubahan mendadak yang lain, dapatkan bantuan perubatan dengan segera. <a href=\"/medical-disclaimer/\">Baca notis maklumat kesihatan kami</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Aktiviti Bersama, Bukan Ujian Ingatan",
+      "seoTitle": "Tentang Golden Moments: Pendekatan Kami",
+      "description": "Mengapa permainan Golden Moments tiada pemasa, markah atau rentetan, mengapa gambar sentiasa kelihatan, dan apa yang kami dakwa dan tidak dakwa tentang demensia.",
+      "crumb": "Pendekatan kami",
+      "lede": "Golden Moments membuat aktiviti gambar yang tenang dan sesuai untuk orang dewasa, yang boleh dinikmati oleh penjaga dan orang yang hidup dengan demensia secara bersebelahan.",
+      "bodyHtml": "<h2>Apa yang kami percayai</h2><p>Tujuan sesuatu aktiviti ialah detik itu sendiri: perbualan, senyuman, kepuasan menyatukan dua gambar, atau sekadar duduk rapat. Ia bukan untuk mengukur sesiapa, menolak mereka lebih jauh atau membuktikan sesuatu.</p><p>Banyak aplikasi latihan otak direka berdasarkan kelajuan, markah, rentetan dan tahap. Bagi orang yang hidup dengan demensia, itu boleh terasa seperti peperiksaan yang tidak dapat dilepasi. Kami mereka bentuk sebaliknya, dan kami mematuhi peraturan ini:</p><ul><li><strong>Tiada apa-apa untuk gagal.</strong> Tiada jam, markah, pengira langkah, nyawa, rentetan, konfeti atau kira detik, pada mana-mana skrin.</li><li><strong>Mengenali, bukan mengingat.</strong> Gambar sentiasa kelihatan secara lalai. Cadangan menjemput perbualan dan tidak pernah menyoal nama atau kenangan.</li><li><strong>Besar, mudah dan tetap.</strong> Teks dan gambar besar, kontras tinggi, dan kawalan yang kekal di tempat yang sama.</li><li><strong>Maruah orang dewasa.</strong> Gambar dunia sebenar dan kata-kata yang mudah dan mesra. Tiada kartun, pujian mendayu-dayu atau ganjaran emoji.</li><li><strong>Jalan keluar yang mudah.</strong> “Cukup buat masa ini” sentiasa kelihatan. Berhenti di tengah jalan ialah hasil yang baik.</li><li><strong>Peribadi secara lalai.</strong> Tiada akaun atau iklan. Foto yang anda pilih kekal pada peranti anda.</li></ul><h2>Apa yang kami tidak dakwa</h2><p>Permainan kami adalah untuk keseronokan dan hubungan. Ia tidak mendiagnosis, menguji, mengukur, merawat, melambatkan atau mencegah demensia atau penyakit Alzheimer, dan tiada sesiapa patut memilihnya atas sebab itu. Apabila kami menulis tentang kajian di <a href=\"/brain-health/\">halaman kesihatan otak</a> kami, kami menyatakan dengan jelas di mana buktinya lemah, dan kami tidak pernah mengaitkannya dengan permainan kami sendiri.</p><h2>Siapa kami</h2><p>Golden Moments ialah pasukan kecil yang bebas. Kami bukan doktor atau pakar klinikal. Panduan kami ditulis berdasarkan garis panduan yang diterbitkan oleh organisasi seperti National Institute on Aging dan Alzheimer’s Association, dan setiap panduan menyenaraikan sumbernya. Baca <a href=\"/editorial-policy/\">cara kami menulis dan menyemak halaman kami</a>.</p><h2>Beritahu kami apa yang akan membantu</h2><p>Kami ingin mendengar apa yang berkesan untuk anda dan apa yang tidak, terutamanya daripada orang yang hidup dengan demensia, penjaga keluarga dan kakitangan aktiviti. Hantar e-mel ke <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Cara Kami Menulis dan Menyemak Halaman Kami",
+      "seoTitle": "Dasar Editorial",
+      "description": "Cara Golden Moments mengkaji, menulis, memetik sumber dan mengemas kini halaman aktiviti demensia dan kesihatan otaknya, dan apa yang tidak akan kami terbitkan.",
+      "crumb": "Dasar editorial",
+      "bodyHtml": "<h2>Sumber kami</h2><p>Kami mendasarkan panduan kami pada garis panduan awam daripada organisasi seperti National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance dan NHS, serta kajian yang disemak rakan sebaya seperti ulasan Cochrane dan ujian klinikal besar. Setiap panduan menyenaraikan sumber yang dirujuknya. Kami membuka setiap sumber sebelum memetiknya, dan kami hanya melaporkan apa yang sebenarnya dinyatakan.</p><h2>Cara kami menulis</h2><ul><li>Praktikal dahulu: apa yang perlu dilakukan hari ini, dalam bahasa yang mudah.</li><li>Jujur tentang bukti: kami menyebut “dikaitkan dengan”, “mungkin” dan “buktinya bercampur” apabila itulah yang benar.</li><li>Hormat: kami menulis tentang orang yang hidup dengan demensia sebagai orang dewasa, dan kami tidak pernah menggunakan bahasa menyoal atau memalukan.</li><li>Tiada kandungan rekaan: tiada statistik, petikan, pakar, kajian, ulasan atau testimoni yang direka.</li></ul><h2>Siapa yang menyemak halaman kami</h2><p>Halaman ditulis dan disemak oleh pasukan Golden Moments, dengan bantuan alat penulisan AI untuk penyelidikan dan penyediaan draf. Setiap halaman disemak berdasarkan sumbernya oleh pasukan. Halaman kami <strong>belum</strong> disemak oleh doktor atau pakar klinikal lain, dan kami tidak mendakwa sebaliknya. Ia ialah maklumat am, bukan nasihat perubatan.</p><h2>Apa yang tidak akan kami terbitkan</h2><ul><li>Dakwaan bahawa sesuatu permainan, makanan, suplemen, puasa atau rutin mencegah, merawat, melambatkan atau menyembuhkan demensia.</li><li>Ujian, kuiz atau markah yang mencadangkan seseorang menghidap, atau tidak menghidap, demensia.</li><li>Nasihat untuk memulakan, menghentikan atau mengubah mana-mana ubat.</li><li>Iklan atau kandungan ditaja yang menyamar sebagai panduan.</li></ul><h2>Kemas kini dan pembetulan</h2><p>Setiap halaman memaparkan tarikh ia dikemas kini kali terakhir. Jika anda menjumpai kesilapan atau sumber yang sudah lapuk, sila e-mel ke <a href=\"mailto:{email}\">{email}</a> dan kami akan menyemaknya dengan segera.</p>"
+    },
+    "faq": {
+      "title": "Soalan dan Jawapan",
+      "seoTitle": "Permainan dan Aktiviti Demensia: Soalan dan Jawapan",
+      "description": "Jawapan kepada soalan lazim tentang permainan dan aktiviti demensia: permainan untuk dicuba, tempoh bermain, idea peringkat akhir, kesihatan otak dan privasi.",
+      "crumb": "Soalan dan jawapan",
+      "lede": "Jawapan ringkas dan mudah kepada soalan yang paling kerap ditanya oleh penjaga.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Tentang permainan",
+          "items": [
+            {
+              "q": "Apakah permainan terbaik untuk orang yang hidup dengan demensia?",
+              "a": "Permainan terbaik ialah yang biasa, mudah dan bebas tekanan, dan yang sesuai ialah apa-apa yang disukai orang itu pada hari ini. Memadankan gambar dengan gambar yang kelihatan, mengasingkan, jigsaw mudah, melengkapkan peribahasa yang biasa, mewarna dan bingo gambar semuanya sesuai untuk ramai orang. Elakkan pemasa, markah dan apa-apa yang terasa seperti ujian."
+            },
+            {
+              "q": "Adakah permainan ini benar-benar percuma?",
+              "a": "Ya. Semua permainan dan bahan boleh cetak adalah percuma, tanpa akaun, pendaftaran, muat turun atau iklan."
+            },
+            {
+              "q": "Mengapa tiada markah, tahap atau pemasa?",
+              "a": "Kelajuan dan markah menjadikan aktiviti yang menyenangkan sebagai peperiksaan, yang boleh membawa rasa malu atau kecewa. Kami memberi tumpuan kepada keseronokan dan masa bersama, jadi tiada apa-apa untuk gagal dan anda boleh berhenti pada bila-bila masa."
+            },
+            {
+              "q": "Peranti manakah yang paling sesuai?",
+              "a": "Mana-mana telefon, tablet atau komputer dengan pelayar web moden. Tablet pada pemegang di atas meja selalunya cara yang paling selesa untuk dua orang bermain secara bersebelahan. Komputer riba yang disambungkan ke TV sesuai untuk kumpulan."
+            },
+            {
+              "q": "Bolehkah kami bermain dengan foto keluarga kami sendiri?",
+              "a": "Ya. Pasangan foto menukarkan 2 hingga 6 foto yang anda pilih menjadi permainan padanan. Foto kekal dalam pelayar anda dan tidak dimuat naik atau disimpan."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Aktiviti dan penjagaan",
+          "items": [
+            {
+              "q": "Berapa lamakah sesuatu aktiviti patut berlangsung?",
+              "a": "Selalunya 10 hingga 20 minit sudah memadai, dan kadangkala 2 minit pun sudah baik. Perhatikan tanda letih atau kecewa dan berhentilah ketika masih terasa selesa. Tiada jumlah yang betul."
+            },
+            {
+              "q": "Bagaimana jika mereka tidak mahu melakukan sesuatu aktiviti?",
+              "a": "Hormati penolakan itu, dan cuba lagi kemudian atau dengan cara yang berbeza. Penolakan boleh datang daripada keletihan, sakit, rasa tidak pasti atau sekadar tidak berminat. Lihat panduan kami tentang apa yang perlu dilakukan apabila mereka menolak."
+            },
+            {
+              "q": "Aktiviti apakah yang sesuai untuk demensia peringkat akhir?",
+              "a": "Keselesaan dan deria: mendengar muzik kegemaran, mengurut tangan dengan losyen, melihat foto bersama, memegang selimut yang lembut, duduk di luar, atau permainan gambar yang sangat mudah dengan seseorang di sisi. Panduan peringkat akhir kami mempunyai lebih banyak idea."
+            },
+            {
+              "q": "Adakah aktiviti untuk kumpulan di rumah jagaan?",
+              "a": "Ya. Bingo gambar mempunyai kad boleh cetak dan penyeru pada skrin, dan Lengkapkan peribahasa serta Kad perbualan sesuai dibaca dengan kuat. Panduan kumpulan rumah jagaan kami meliputi saiz kumpulan, tempat duduk dan menyesuaikan untuk kebolehan yang berbeza-beza."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Kesihatan otak",
+          "items": [
+            {
+              "q": "Bolehkah permainan mencegah atau melambatkan demensia?",
+              "a": "Tiada permainan yang terbukti mencegah demensia, dan permainan kami tidak membuat dakwaan sedemikian. Rangsangan kognitif dalam suasana sosial telah menunjukkan manfaat kecil dalam kajian bagi orang yang menghidap demensia ringan hingga sederhana, tetapi itu berbeza daripada sesuatu permainan yang mencegah penyakit. Kami menawarkan permainan untuk keseronokan dan hubungan."
+            },
+            {
+              "q": "Bolehkah demensia dicegah?",
+              "a": "Tidak dengan pasti. Kajian mengaitkan 14 faktor kesihatan dan gaya hidup dengan risiko demensia, seperti kehilangan pendengaran, tekanan darah tinggi, kurang aktiviti fizikal dan pengasingan sosial. Menanganinya mungkin mengurangkan risiko bagi sesetengah orang, tetapi ramai orang yang melakukan segalanya dengan betul masih menghidap demensia. Ia bukan salah sesiapa."
+            },
+            {
+              "q": "Adakah puasa berselang-seli baik untuk kesihatan otak?",
+              "a": "Bukti pada manusia adalah terhad dan awal, dan kebanyakan kajian dilakukan pada haiwan. Puasa boleh berisiko bagi warga emas, terutamanya dengan ubat diabetes atau penurunan berat badan yang tidak disengajakan, dan ia tidak disyorkan untuk orang yang hidup dengan demensia. Berbincanglah dengan doktor sebelum mengubah cara anda makan."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Privasi dan keselamatan",
+          "items": [
+            {
+              "q": "Adakah anda mengumpul sebarang maklumat?",
+              "a": "Tiada akaun atau iklan. Kami menggunakan Google Analytics untuk mengira lawatan dan melihat halaman mana yang membantu, dan pelayar anda mengingati sama ada anda menghidupkan bunyi lembut. Foto yang anda pilih untuk Pasangan foto tidak pernah dimuat naik. Lihat notis privasi untuk butiran."
+            },
+            {
+              "q": "Adakah ini nasihat perubatan?",
+              "a": "Tidak. Golden Moments adalah untuk rekreasi dan maklumat am. Untuk soalan kesihatan, berbincanglah dengan doktor, dan untuk kecemasan hubungi nombor kecemasan tempatan."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Butiran lanjut: <a href=\"/caregiving/how-to-play-together/\">cara bermain bersama</a>, <a href=\"/caregiving/when-they-say-no/\">apabila mereka menolak</a>, <a href=\"/activities/late-stage/\">aktiviti peringkat akhir</a> dan <a href=\"/brain-health/can-dementia-be-prevented/\">bolehkah demensia dicegah?</a>"
+    },
+    "handout": {
+      "title": "Permainan Lembut dan Percuma untuk Orang yang Hidup dengan Demensia",
+      "seoTitle": "Risalah Boleh Cetak: Permainan Demensia Percuma",
+      "description": "Risalah satu halaman yang boleh dicetak untuk keluarga dan penjaga tentang permainan gambar yang lembut dan percuma bagi orang yang hidup dengan demensia.",
+      "crumb": "Risalah boleh cetak",
+      "lede": "Cetak halaman ini untuk kumpulan sokongan, bungkusan penjagaan atau pintu peti sejuk. Gunakan arahan Cetak pelayar anda; menu dan butang tidak disertakan dalam cetakan.",
+      "introHtml": "<p>Gambar besar, kata-kata yang mudah dan tiada apa-apa untuk gagal. Percuma pada telefon, tablet atau komputer, tanpa pendaftaran, tiada iklan, tiada pemasa dan tiada markah. Duduk bersebelahan dan bergilir-gilir.</p>",
+      "gamesTitle": "Permainan untuk dicuba bersama",
+      "restHtml": "<h2>Beberapa petua</h2><ul><li>Pilih waktu dalam sehari apabila orang itu berada pada keadaan terbaiknya.</li><li>Mulakan dengan tetapan yang paling mudah. Empat jubin sudah memadai.</li><li>Berbual tentang gambar itu. Perbualan selalunya bahagian yang terbaik.</li><li>Berhenti ketika masih terasa selesa. Berhenti awal ialah hasil yang baik.</li></ul><h2>Juga di laman ini</h2><ul><li>Bahan boleh cetak percuma: carian perkataan cetakan besar, halaman mewarna, kad perbualan dan bingo gambar.</li><li>Idea aktiviti untuk setiap peringkat, serta panduan tentang bermain bersama dan menjaga diri sendiri.</li></ul><p class=\"muted\">Untuk keseronokan dan masa bersama. Bukan nasihat perubatan, ujian atau rawatan. Golden Moments diterbitkan oleh Cloudjet Solutions Pte. Ltd.</p>"
+    },
+    "organizations": {
+      "title": "Untuk Rumah Jagaan, Perpustakaan dan Kumpulan Sokongan",
+      "seoTitle": "Aktiviti Demensia Percuma untuk Rumah Jagaan dan Kumpulan",
+      "description": "Cara rumah jagaan, perpustakaan, agensi warga emas dan kumpulan sokongan menggunakan permainan demensia percuma kami, serta teks untuk senarai sumber anda.",
+      "crumb": "Untuk organisasi",
+      "lede": "Segala-galanya di laman ini percuma untuk digunakan bersama penghuni, ahli dan klien, tanpa akaun, lesen atau bayaran. Halaman ini menerangkan apa yang ada di sini dan cara berkongsinya.",
+      "shortText": "{name}: permainan gambar yang lembut dan percuma serta panduan aktiviti untuk orang yang hidup dengan demensia dan penjaga mereka. Tanpa pendaftaran, tiada pemasa, tiada markah.",
+      "longText": "{name} ({domain}) menawarkan {count} permainan pelayar percuma yang dibuat untuk orang yang hidup dengan demensia, termasuk memadankan pasangan dengan gambar yang dibiarkan kelihatan, jigsaw mudah, mengasingkan, peribahasa yang biasa dan bingo gambar dengan kad boleh cetak. Tiada akaun, iklan, pemasa atau markah. Laman ini juga mempunyai panduan aktiviti dalam bahasa mudah untuk setiap peringkat demensia yang merujuk National Institute on Aging dan Alzheimer's Association.",
+      "useTitle": "Apa yang boleh digunakan oleh organisasi",
+      "gamesItemHtml": "<strong>{count} permainan pelayar</strong> yang berjalan pada komputer riba, tablet atau TV yang disambungkan ke komputer. Tiada pemasangan, akaun atau muat turun. Lihat <a href=\"/games/\">semua permainan</a>.",
+      "printablesLabel": "{count} bahan boleh cetak:",
+      "printablesAfter": "Gunakan butang Cetak pada setiap halaman.",
+      "moreItemsHtml": "<li><strong>Format kumpulan:</strong> <a href=\"/games/picture-bingo/\">Bingo gambar</a> mempunyai kad boleh cetak dan penyeru pada skrin, dan <a href=\"/activities/trivia/\">trivia mudah</a> mempunyai 50 soalan dengan pilihan jawapan dan bahan perbualan.</li><li><strong>Panduan aktiviti</strong> untuk kakitangan dan keluarga, mengikut peringkat dan jenis, ditulis dalam bahasa mudah dengan sumber. Mulakan dengan <a href=\"/activities/ideas/\">101 idea aktiviti</a> atau <a href=\"/activities/care-home-groups/\">aktiviti kumpulan untuk rumah jagaan</a>.</li>",
+      "restHtml": "<h2>Cara kumpulan menggunakannya</h2><ul><li><strong>Rumah jagaan dan penjagaan ingatan:</strong> bingo gambar atau melengkapkan peribahasa pada TV ruang bersama, dengan seorang mengetik untuk kumpulan.</li><li><strong>Program harian dewasa:</strong> stesen tablet dengan Pasangan gambar ditetapkan kepada empat jubin, untuk sesi singkat satu lawan satu.</li><li><strong>Perpustakaan awam:</strong> carian perkataan dan kad perbualan yang dicetak dalam kit ingatan, dan laman ini ditanda buku pada tablet perpustakaan.</li><li><strong>Kumpulan sokongan penjaga dan kafe ingatan:</strong> <a href=\"/handout/\">risalah boleh cetak satu halaman</a> untuk dibawa pulang oleh keluarga.</li><li><strong>Hospital dan perancang discaj:</strong> risalah dalam bungkusan penjaga, untuk sesuatu yang tenang untuk dilakukan di rumah atau di sisi katil.</li></ul><h2>Apa yang tidak kami lakukan</h2><p>Permainan ini adalah untuk keseronokan dan masa bersama. Ia tidak mendiagnosis, menguji, memberi markah, merawat atau melambatkan demensia, dan kami meminta organisasi tidak menggambarkannya sedemikian. Tiada iklan, dan permainan tidak meminta nama, butiran kesihatan atau foto untuk dimuat naik. Laman web ini menggunakan Google Analytics untuk mengira lawatan; <a href=\"/privacy/\">notis privasi</a> kami menerangkan apa yang dikumpulkan. Foto yang digunakan dalam <a href=\"/games/photo-pairs/\">Pasangan foto</a> kekal dalam pelayar.</p><h2>Tambah kami ke senarai sumber anda</h2><p>Jika anda menyimpan senarai sumber untuk penjaga, anda dialu-alukan memaut ke <a href=\"/\">{domain}</a>. Anda boleh menyalin mana-mana penerangan.</p>",
+      "shortTitle": "Penerangan ringkas",
+      "longTitle": "Penerangan lebih panjang",
+      "linksHtml": "<p>Halaman berguna untuk dipaut terus: <a href=\"/games/\">permainan percuma</a>, <a href=\"/activities/printable/\">bahan boleh cetak percuma</a>, <a href=\"/activities/alzheimers/\">aktiviti untuk Alzheimer</a> dan <a href=\"/caregiving/how-to-play-together/\">cara bermain bersama</a>.</p><h2>Soalan atau pembetulan</h2><p>Jika sesuatu di laman ini salah atau tidak jelas, atau keperluan seorang penghuni tidak dipenuhi oleh apa yang ada di sini, sila beritahu kami di <a href=\"mailto:{email}\">{email}</a>. Sila jangan hantar maklumat peribadi atau kesihatan tentang penghuni atau klien.</p>"
+    },
+    "app": {
+      "title": "Aplikasi Golden Moments",
+      "seoTitle": "Aplikasi Golden Moments untuk iPhone dan Android",
+      "description": "Aplikasi percuma Golden Moments: padanan foto lembut dengan empat jubin besar, foto keluarga disimpan pada peranti anda, pek gambar luar talian dan tanpa akaun.",
+      "crumb": "Aplikasi",
+      "lede": "Segala yang anda suka tentang laman web, dalam aplikasi yang berfungsi luar talian dan boleh menggunakan foto keluarga yang anda pilih.",
+      "worksOn": "Berfungsi pada {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Mula dengan langkah kecil</h2><p>Mulakan dengan empat jubin besar dan gambar yang biasa dilihat. Biarkan gambar kelihatan, atau sembunyikannya apabila anda berasa selesa. Mod lembut tiada pemasa, markah atau penalti. Pilih 4, 6, 8 atau 12 jubin.</p><h2>Jadikan lebih peribadi</h2><p>Pilih foto keluarga dengan pemilih foto pada peranti anda. Aplikasi menyimpan salinan yang lebih kecil untuk aktivitinya. Ia tidak mengimbas pustaka anda atau mengubah foto asal anda, dan ia menyimpan sehingga 24 foto dalam satu koleksi.</p><h2>Cukup dengan melihat bersama</h2><p>Lihat satu gambar pada satu masa. Cadangan pilihan menjemput perbualan tanpa meminta sesiapa mengingati nama atau memberi jawapan yang betul. Melihat sahaja sudah memadai.</p><h2>Luar talian di tempat yang penting</h2><p>Gambar permulaan dan kesemua lapan pek gambar disertakan bersama aplikasi. Salinan foto yang diimport berfungsi luar talian. Memilih foto asal yang hanya disimpan dalam iCloud mungkin memerlukan sambungan internet.</p><h2>Tiada akaun, tiada pelayan penyegerakan foto</h2><p>Salinan foto keluarga kekal dalam aplikasi pada peranti. Anda boleh membuang salinan tanpa memadamkan foto asal. Sandaran peranti mungkin merangkumi data aplikasi. Baca <a href=\"/app-privacy/\">dasar privasi aplikasi</a>, dan <a href=\"/help/\">bantuan aplikasi</a> menerangkan setiap langkah.</p>",
+      "disclaimer": "Golden Moments adalah untuk rekreasi dan perbualan bersama. Ia tidak mendiagnosis, merawat, mencegah atau mengukur demensia atau penyakit Alzheimer.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Permainan Demensia & Alzheimer Percuma Dalam Talian",
+    "description": "Permainan dalam talian percuma untuk warga emas dengan demensia atau Alzheimer: padanan gambar, jigsaw mudah, mengasingkan, peribahasa, mewarna, bingo.",
+    "crumb": "Permainan",
+    "h1": "Permainan Lembut untuk Orang yang Hidup dengan Demensia",
+    "lede": "{count} permainan percuma untuk dimainkan bersama dalam pelayar anda. Gambar besar, kata-kata yang mudah, dan tiada apa-apa untuk gagal: tiada pemasa, tiada markah, tanpa pendaftaran.",
+    "listName": "Permainan lembut untuk orang yang hidup dengan demensia",
+    "byStageTitle": "Memilih permainan mengikut peringkat",
+    "byStageLede": "Peringkat hanyalah panduan kasar. Ikut apa yang disukai orang itu dan apa yang terasa selesa hari ini.",
+    "stageCol": "Peringkat",
+    "gamesCol": "Permainan yang selalunya sesuai",
+    "moreHtml": "Lebih banyak idea di luar skrin: <a href=\"/activities/ideas/\">101 aktiviti untuk orang yang hidup dengan demensia</a>, <a href=\"/activities/alzheimers/\">aktiviti dan permainan untuk Alzheimer</a>, <a href=\"/activities/memory-games/\">permainan ingatan yang lembut</a> dan <a href=\"/activities/puzzles/\">teka-teki</a>.",
+    "faq": [
+      {
+        "q": "Permainan manakah yang patut kami mulakan?",
+        "a": "Pasangan gambar dengan empat jubin ialah pilihan pertama yang tenang. Jika memilih antara gambar terasa terlalu banyak, cuba Cari yang sama dengan dua gambar. Untuk kumpulan, cuba Bingo gambar."
+      },
+      {
+        "q": "Adakah permainan berfungsi pada iPad atau telefon?",
+        "a": "Ya. Setiap permainan berfungsi dalam pelayar pada telefon, tablet dan komputer, dan gambar membesar memenuhi skrin. Tablet pada pemegang selalunya paling selesa untuk dua orang."
+      },
+      {
+        "q": "Adakah permainan ini baik untuk orang yang menghidap Alzheimer?",
+        "a": "Ya. Ia dibuat untuk orang yang hidup dengan demensia, termasuk Alzheimer, punca yang paling biasa. Gambar sentiasa kelihatan, hanya ada beberapa pilihan, dan tiada apa-apa yang dihadkan masa atau diberi markah, jadi permainan ini bergantung pada mengenali perkara yang biasa dan bukan mengingat perkara baharu."
+      },
+      {
+        "q": "Adakah ini permainan ingatan untuk warga emas?",
+        "a": "Ia permainan padanan dan gambar yang boleh dinikmati oleh mana-mana orang dewasa yang lebih tua, tetapi ia dibina supaya tidak menguji ingatan: dalam Pasangan gambar, gambar kekal terbuka kecuali anda memilih sebaliknya. Panduan kami tentang permainan ingatan untuk warga emas yang hidup dengan demensia menerangkan cara memastikan mana-mana permainan ingatan kekal lembut."
+      },
+      {
+        "q": "Adakah permainan untuk kumpulan di rumah jagaan?",
+        "a": "Ya. Bingo gambar mempunyai kad boleh cetak dan penyeru pada skrin, dan Lengkapkan peribahasa serta Kad perbualan sesuai dibaca dengan kuat kepada kumpulan."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad dan Android",
+    "requirements": "iOS 15 atau lebih baharu; Android 7.0 atau lebih baharu",
+    "summary": "Aplikasi percuma untuk iPhone, iPad dan Android dengan padanan gambar lembut pada empat hingga dua belas jubin besar, memadankan dan melihat foto keluarga yang anda pilih, dan lapan pek gambar disertakan yang berfungsi tanpa internet. Tiada akaun, iklan, pemasa atau markah.",
+    "features": [
+      "Padanan gambar lembut dengan 4, 6, 8 atau 12 jubin besar; gambar kekal kelihatan kecuali anda memilih untuk menyembunyikannya",
+      "Foto keluarga yang anda pilih disalin ke dalam aplikasi untuk dipadankan dan dilihat bersama",
+      "Lihat bersama: satu gambar pada satu masa dengan cadangan perbualan pilihan",
+      "Lapan pek gambar disertakan bersama aplikasi; ia berfungsi luar talian",
+      "Tiada akaun, iklan, pembelian dalam aplikasi, pemasa, markah atau penalti"
+    ],
+    "faq": [
+      {
+        "q": "Adakah terdapat aplikasi aktiviti demensia?",
+        "a": "Ya. Golden Moments (disenaraikan sebagai \"{storeName}\") adalah percuma di App Store dan Google Play. Ia menawarkan padanan gambar lembut dengan jubin besar, permainan dengan foto keluarga yang anda pilih, dan pek gambar yang berfungsi luar talian."
+      },
+      {
+        "q": "Adakah aplikasi Golden Moments percuma?",
+        "a": "Ya. Ia percuma untuk dimuat turun, tanpa iklan, akaun atau pembelian dalam aplikasi."
+      },
+      {
+        "q": "Adakah aplikasi berfungsi tanpa internet?",
+        "a": "Ya. Gambar permulaan dan kesemua lapan pek gambar disertakan bersama aplikasi, dan foto keluarga berfungsi luar talian apabila ia telah disalin ke dalam aplikasi. Memilih foto yang hanya disimpan dalam iCloud mungkin memerlukan sambungan."
+      },
+      {
+        "q": "Bolehkah saya menggunakan foto keluarga kami sendiri?",
+        "a": "Ya. Pilih foto dengan pemilih foto pada peranti anda. Aplikasi menyimpan salinan yang lebih kecil pada peranti untuk aktivitinya, tidak memuat naiknya dan tidak pernah mengubah foto asal. Anda boleh membuang salinan pada bila-bila masa."
+      },
+      {
+        "q": "Adakah ia aplikasi latihan otak atau ujian ingatan?",
+        "a": "Tidak. Golden Moments adalah untuk keseronokan dan masa bersama. Ia tiada markah atau ujian, dan ia tidak mendiagnosis, merawat, mencegah atau mengukur demensia atau penyakit Alzheimer."
+      },
+      {
+        "q": "Pada peranti manakah ia berfungsi?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Adakah terdapat versi aplikasi bagi permainan ini?",
+      "a": "Ya. Aplikasi percuma Golden Moments untuk iPhone, iPad dan Android mempunyai padanan gambar lembut yang sama, boleh menggunakan foto keluarga yang anda pilih, dan berfungsi luar talian. Tiada akaun, iklan atau markah."
+    },
+    "gameFaqNo": {
+      "q": "Adakah terdapat versi aplikasi bagi permainan ini?",
+      "a": "Tidak bagi permainan ini. Aplikasi percuma Golden Moments untuk iPhone, iPad dan Android mempunyai padanan gambar lembut dengan jubin besar dan foto keluarga yang anda pilih, dan ia berfungsi luar talian. Permainan ini kekal percuma di sini dalam pelayar anda."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: gambar besar yang mesra",
+    "noscript": "Permainan ini memerlukan JavaScript dihidupkan dalam pelayar anda. Petua di bawah berfungsi tanpanya.",
+    "about": "Tentang {name}",
+    "aboutAria": "Tentang permainan ini",
+    "noTimer": "Tiada pemasa atau markah",
+    "printable": "Boleh cetak",
+    "howTo": "Cara bermain {name}",
+    "tips": "Petua untuk bermain bersama",
+    "newToPlayingHtml": "Baharu bermain bersama orang yang menghidap demensia? Baca <a href=\"/caregiving/how-to-play-together/\">cara bermain permainan bersama</a>, termasuk apa yang perlu dilakukan jika mereka hilang minat.",
+    "moreAria": "Lebih banyak untuk diteroka",
+    "helpfulGuides": "Panduan berguna",
+    "appTitle": "Main dalam aplikasi",
+    "appText": "Aplikasi percuma Golden Moments mempunyai padanan gambar lembut dengan jubin besar dan foto keluarga anda sendiri, dan berfungsi tanpa Wi‑Fi. iPhone, iPad dan Android.",
+    "photoAppTitle": "Sediakan foto anda",
+    "photoAppText": "Dalam aplikasi percuma Golden Moments, foto yang anda pilih kekal pada peranti anda untuk kali seterusnya, dan permainan berfungsi tanpa Wi‑Fi. iPhone, iPad dan Android.",
+    "goodToKnow": "Baik untuk diketahui",
+    "goodToKnowText": "Permainan ini adalah untuk keseronokan dan masa bersama. Ia tidak menguji, mengukur atau merawat apa-apa.",
+    "moreGames": "Lebih banyak permainan lembut",
+    "crumb": "Permainan"
+  }
+}

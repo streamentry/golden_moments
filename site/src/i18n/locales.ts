@@ -56,6 +56,11 @@ export const LOCALES: readonly LocaleInfo[] = [
   { code: 'te', prefix: 'te', bcp47: 'te', htmlLang: 'te', og: 'te_IN', name: 'తెలుగు', englishName: 'Telugu', dir: 'ltr' },
   { code: 'ta', prefix: 'ta', bcp47: 'ta', htmlLang: 'ta', og: 'ta_IN', name: 'தமிழ்', englishName: 'Tamil', dir: 'ltr' },
   { code: 'gu', prefix: 'gu', bcp47: 'gu', htmlLang: 'gu', og: 'gu_IN', name: 'ગુજરાતી', englishName: 'Gujarati', dir: 'ltr' },
+  { code: 'pa', prefix: 'pa', bcp47: 'pa', htmlLang: 'pa', og: 'pa_IN', name: 'ਪੰਜਾਬੀ', englishName: 'Punjabi (Gurmukhi)', dir: 'ltr' },
+  { code: 'fil', prefix: 'fil', bcp47: 'fil', htmlLang: 'fil', og: 'fil_PH', name: 'Filipino', englishName: 'Filipino', dir: 'ltr' },
+  { code: 'ro', prefix: 'ro', bcp47: 'ro', htmlLang: 'ro', og: 'ro_RO', name: 'Română', englishName: 'Romanian', dir: 'ltr' },
+  { code: 'ms', prefix: 'ms', bcp47: 'ms', htmlLang: 'ms', og: 'ms_MY', name: 'Bahasa Melayu', englishName: 'Malay', dir: 'ltr' },
+  { code: 'sw', prefix: 'sw', bcp47: 'sw', htmlLang: 'sw', og: 'sw_KE', name: 'Kiswahili', englishName: 'Swahili', dir: 'ltr' },
 ];
 
 /**
@@ -97,7 +102,8 @@ export function localePath(code: string, path: string): string {
 
 /** Splits `/vi/games/` into `{ code: 'vi', path: '/games/' }`. */
 export function splitLocale(pathname: string): { code: string; path: string } {
-  const match = pathname.match(/^\/([a-z]{2}(?:-[a-z]{2,4})?)(\/.*)?$/);
+  // Two- and three-letter codes (Filipino is `fil`); an unknown prefix such as /app/ is not a language.
+  const match = pathname.match(/^\/([a-z]{2,3}(?:-[a-z]{2,4})?)(\/.*)?$/);
   const info = match ? BY_PREFIX.get(match[1] as string) : undefined;
   if (!info || !match) return { code: DEFAULT_LOCALE, path: pathname };
   return { code: info.code, path: match[2] ?? '/' };
