@@ -32,7 +32,8 @@ LOCALES = (
     'en', 'es', 'pt_BR', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', 'ar',
     'hi', 'ja', 'ko', 'zh_Hans', 'zh_Hant', 'vi', 'id', 'th', 'bn', 'fa', 'ha',
     'ur', 'mr', 'te', 'ta', 'gu', 'pa', 'fil', 'ro', 'ms', 'sw', 'kn', 'ml',
-    'ne', 'az', 'am', 'my', 'uz', 'or', 'as', 'ps',
+    'ne', 'az', 'am', 'my', 'uz', 'or', 'as', 'ps', 'yo', 'ig', 'zu', 'so',
+    'om',
 )
 GENERATOR_ONLY_ARBS = ('pt', 'zh')
 CATEGORY_FIELDS = ('name', 'description')

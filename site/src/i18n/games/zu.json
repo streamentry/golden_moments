@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Amapheya ezithombe",
+    "seoTitle": "Umdlalo Wokufanisa We-Dementia: Amapheya Ezithombe",
+    "h1": "Amapheya Ezithombe: Umdlalo Othambile Wokufanisa",
+    "description": "Umdlalo wokufanisa othambile wamahhala wabantu abaphila ne-dementia. Izithombe ezinkulu ziyabonakala, akukho sibali sikhathi, amakhadi angu-4 kuya ku-12.",
+    "short": "Thola izithombe ezimbili ezifanayo. Izithombe zingahlala ziyabonakala.",
+    "players": "Abantu abangu-1 noma ababili, beceleni komunye nomunye",
+    "intro": "Thintani isithombe, bese nithinta esifana naso. Izithombe zihlala ziyabonakala ngokuzenzakalelayo, ngakho akukho lutho okufanele lukhunjulwe. Uma izithombe ezimbili zihlangana ziba nomphetho wegolide nophawu lokuthi kulungile.",
+    "howTo": [
+      "Khethani ukuthi mangaki amakhadi aza kusetshenziswa. Amakhadi amane yindawo ethule yokuqala.",
+      "Thintani noma yisiphi isithombe. Siba nomphetho wegolide.",
+      "Thintani isithombe esibukeka sifana. Ipheya lihlala ndawonye linophawu lokulunga.",
+      "Uma izithombe ezimbili zihlukile, akukho okubi okwenzekayo. Thintani futhi noma nini lapho selilungele.",
+      "Vulani “Izithombe ezifihliwe” kuphela uma nobabili nijabulela inguqulo yakudala ebheke phansi."
+    ],
+    "tips": [
+      "Qambani amagama ezithombe ngokuzwakalayo ndawonye nixoxe ngazo: “Inkomishi ebomvu yetiye. Niphuza itiye nobisi?”",
+      "Mvumeleni umuntu enimnakekelayo athinte, ngisho noma kuthatha isikhathi. Khombani esikhundleni sokuthinta ngaye.",
+      "Hlalani ngamakhadi amane isikhathi esingakanani kusamnandi. Amakhadi amaningi ayikhetho, akukaze abe izinga okufanele lifinyelelwe.",
+      "Phetha kusamnandi. Umdlalo owodwa ungumsebenzi ophelele."
+    ],
+    "faq": [
+      {
+        "q": "Ingabe kukhona isibali sikhathi noma amaphuzu?",
+        "a": "Cha. Akukho sibali sikhathi, maphuzu, isibali sezinyathelo noma ukulahlekelwa. Ningama noma kunini, futhi ukuma phakathi nendlela kuyindlela ephelele yokuphetha."
+      },
+      {
+        "q": "Kungani izithombe zihlala zibheke phezulu?",
+        "a": "Ukugcina izithombe ziyabonakala kuguqula umdlalo ube ukubuka nokufanisa kunokukhumbula. Abantu abaningi bakuthola kuthule kakhulu. Ningaya ezithombeni ezifihliwe ngokuthinta kanye uma nithanda."
+      },
+      {
+        "q": "Ingabe iyamahhala, futhi ngidinga ukubhalisa?",
+        "a": "Yebo, iyamahhala, futhi akukho akhawunti, ukubhalisa noma ukulanda. Isebenza ku-browser yewebhu efonini, kuthebhulethi noma ekhompyutheni."
+      },
+      {
+        "q": "Ingabe singasebenzisa izithombe zomndeni wethu?",
+        "a": "Yebo. Zamani Amapheya ezithombe zomndeni, okukuvumela ukukhetha izithombe kudivayisi yenu. Izithombe ziyahlala ku-browser yenu futhi azilayishwa."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Thola okufanayo",
+    "seoTitle": "Thola Isithombe Esifanayo: Umdlalo We-Dementia Olula",
+    "h1": "Thola Isithombe Esifanayo",
+    "description": "Isithombe esisodwa phezulu, ezimbili kuya kwezine ngezansi. Thintani esifanayo. Umdlalo wezithombe othulile wamahhala we-dementia, akukho sibali sikhathi.",
+    "short": "Bhekani isithombe esiphezulu bese nithinta esifanayo ngezansi.",
+    "players": "Abantu abangu-1 noma ababili",
+    "intro": "Isithombe esisodwa sihlala phezulu esikrinini. Ngezansi kwaso kunezithombe ezimbili, ezintathu noma ezine. Thintani esifanayo. Kuwukukhetha okulula okukodwa ngesikhathi, kunendawo eningi yokukhuluma.",
+    "howTo": [
+      "Khethani izithombe ezimbili, ezintathu noma ezine zokukhetha kuzo. Ezimbili ziyilula kakhulu.",
+      "Bhekani isithombe esiphezulu ndawonye.",
+      "Thintani isithombe esifanayo ngezansi. Siphawulwa ngophawu lokulunga namagama ambalwa afudumele.",
+      "Uma kuthintwa isithombe esihlukile, umdlalo uqamba igama laso bese ulinda nje. Thathani isikhathi senu.",
+      "Thintani “Isithombe esilandelayo” uma selilungele esinye."
+    ],
+    "tips": [
+      "Khulumani ngesithombe ngasinye ngaphambi kokukhetha: imibala, izimo, lapho ongasibona khona.",
+      "Ukukhetha okubili akukona “kulula kakhulu”. Inhloso yisikhathi esimnandi, hhayi inselele.",
+      "Uma ukuthinta kunzima, umuntu angakhomba futhi nina nithinte ngaye."
+    ],
+    "faq": [
+      {
+        "q": "Ingabe kukhona isibali sikhathi noma amaphuzu?",
+        "a": "Cha. Akukho sibali sikhathi, maphuzu, isibali sezinyathelo noma ukulahlekelwa. Ningama noma kunini, futhi ukuma phakathi nendlela kuyindlela ephelele yokuphetha."
+      },
+      {
+        "q": "Kwenzekani uma kuthintwa isithombe esingafanele?",
+        "a": "Akukho okungemnandi. Akukho buzzer, isiphambano esibomvu noma ukuxukuza. Umdlalo uqamba igama lesithombe esithintiwe bese ulinda ukuthinta okulandelayo."
+      },
+      {
+        "q": "Ingabe iyamahhala, futhi kudingeka ngibhalise?",
+        "a": "Yebo, iyamahhala, futhi akukho akhawunti, ukubhalisa noma ukulanda. Isebenza ku-browser yewebhu efonini, kuthebhulethi noma ekhompyutheni."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Ukufanisa isithunzi",
+    "seoTitle": "Umdlalo Wokufanisa Isithunzi We-Dementia: Mahhala",
+    "h1": "Ukufanisa Isithunzi: Umdlalo Wezithombe Othambile",
+    "description": "Isithunzi phezulu, izithombe ezimbili kuya kwezine ngezansi. Thintani esenza isithunzi. Umdlalo othulile wamahhala we-dementia, akukho sibali sikhathi.",
+    "short": "Bhekani isithunzi bese nithinta isithombe esisenzayo.",
+    "players": "Abantu abangu-1 noma ababili",
+    "intro": "Ukufanisa izithunzi kungumsebenzi wasemaphepheni aphrintiwe, lapha unezithombe ezinkulu futhi akukho lutho lokuphrinta. Isithunzi esithambile sihlala phezulu esikrinini futhi izithombe ezimbili, ezintathu noma ezine ziyalinda ngezansi. Thintani esenza isithunzi. Izimo ezinjengebhayisikili, isambulela noma inkomishi yetiye zilula nokuxoxa ngazo.",
+    "howTo": [
+      "Khethani izithombe ezimbili, ezintathu noma ezine zokukhetha kuzo. Ezimbili ziyilula kakhulu.",
+      "Bhekani isithunzi ndawonye. Siyini isimo saso? Siphakeme noma sizungezile?",
+      "Thintani isithombe esenza isithunzi. Igama laso livela ngaphansi kwesithunzi.",
+      "Uma kuthintwa isithombe esihlukile, umdlalo uqamba igama laso bese ulinda nje. Thathani isikhathi senu.",
+      "Thintani “Isithunzi esilandelayo” uma selilungele esinye."
+    ],
+    "tips": [
+      "Landelani umjikelezo wesithunzi ngomunwe bese nikhuluma ngesimo saso.",
+      "Uma izithunzi zizwakala zinzima namuhla, guqukelani ku-Thola okufanayo, lapho izithombe zibukeka zifana.",
+      "Khulumani ngesithombe uma sesitholakele: “Sake saba nesambulela esinjalo.”"
+    ],
+    "faq": [
+      {
+        "q": "Ingabe kukhona isibali sikhathi noma amaphuzu?",
+        "a": "Cha. Akukho sibali sikhathi, maphuzu, isibali sezinyathelo noma ukulahlekelwa. Ningama noma kunini, futhi ukuma phakathi nendlela kuyindlela ephelele yokuphetha."
+      },
+      {
+        "q": "Ingabe ukufanisa izithunzi kuhle kubantu abaphila ne-dementia?",
+        "a": "Kungaba umsebenzi omnandi nolula kwabanye abantu, ikakhulukazi ezigabeni zokuqala. Izimo ziyalula ukuzibona kunamagama. Kuyokujabulela nengxoxo, hhayi inhlolo, futhi akwelaphi noma ukwehlisa i-dementia. Uma kubangela ukukhathazeka, zamani u-Thola okufanayo noma nibuke nje izithombe ndawonye."
+      },
+      {
+        "q": "Kwenzekani uma kuthintwa isithombe esingafanele?",
+        "a": "Akukho okungemnandi. Akukho buzzer, isiphambano esibomvu noma ukuxukuza. Umdlalo uqamba igama lesithombe esithintiwe bese ulinda ukuthinta okulandelayo."
+      },
+      {
+        "q": "Ingabe iyamahhala, futhi kudingeka ngibhalise?",
+        "a": "Yebo, iyamahhala, futhi akukho akhawunti, ukubhalisa noma ukulanda. Isebenza ku-browser yewebhu efonini, kuthebhulethi noma ekhompyutheni."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Hlungani ndawonye",
+    "seoTitle": "Umdlalo Wokuhlunga We-Dementia: Hlungani Ndawonye",
+    "h1": "Hlungani Ndawonye: Umsebenzi Wokuhlunga Izithombe",
+    "description": "Thintani isithombe, bese nithinta ibhasikidi eliyilo: ikhishi noma ingadi, izithelo noma izilwane. Umsebenzi wokuhlunga othulile wamahhala we-dementia.",
+    "short": "Faka isithombe ngasinye ebhasikidini laso: ekhishini noma engadini, nokunye.",
+    "players": "Abantu abangu-1 noma ababili",
+    "intro": "Ukuhlunga kungumsebenzi wansuku zonke ojwayelekile futhi owanelisayo, njengokubeka ukudla noma ukubhanqa amasokisi. Thintani isithombe, bese nithinta ibhasikidi eliyilo. Akukho ukuphuthuma futhi akukho ukuphutha okubi.",
+    "howTo": [
+      "Khethani indikimba: ikhishi nengadi, izithelo nezilwane, noma ikhaya nohambo.",
+      "Thintani isithombe. Siba nomphetho wegolide.",
+      "Thintani ibhasikidi eliyilo. Isithombe siya kulelo bhasikidi.",
+      "Uma siya kwelinye ibhasikidi, umdlalo usho ngokuthambile futhi ulinda.",
+      "Uma zonke izithombe sezihlungiwe, bhekani amabhasikidi ndawonye."
+    ],
+    "tips": [
+      "Empilweni yangempela kuvame ukungabi bikho izimpendulo ezingalungile. Uma othile ethi ikani lokunisela liyakhishini, buzani ukuthi kungani. Kungenzeka nithole indaba enhle.",
+      "Sebenzisani izithombe njengesiqondiso: “Nahlanyela ini engadini yenu?”",
+      "Ukuhlunga izinto zangempela, njengezinkinobho ngombala, kuyisinyathelo esilandelayo esihle ngaphandle kwesikrini."
+    ],
+    "faq": [
+      {
+        "q": "Ingabe kukhona isibali sikhathi noma amaphuzu?",
+        "a": "Cha. Akukho sibali sikhathi, maphuzu, isibali sezinyathelo noma ukulahlekelwa. Ningama noma kunini, futhi ukuma phakathi nendlela kuyindlela ephelele yokuphetha."
+      },
+      {
+        "q": "Kungani ukuhlunga?",
+        "a": "Abantu abaningi bayakujabulela ukuhlunga ngoba kuzwakala njengomsebenzi osizayo nojwayelekile. Kulula nokuxoxa ngezithombe njengoba niqhubeka."
+      },
+      {
+        "q": "Ingabe iyamahhala, futhi kudingeka ngibhalise?",
+        "a": "Yebo, iyamahhala, futhi akukho akhawunti, ukubhalisa noma ukulanda. Isebenza ku-browser yewebhu efonini, kuthebhulethi noma ekhompyutheni."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Iphazili yesithombe",
+    "seoTitle": "Iphazili Elula Ye-Dementia: Izingcezu Ezi-4 Noma Ezi-9",
+    "h1": "Iphazili Yesithombe: Iphazili Elula",
+    "description": "Iphazili elula ku-inthanethi yabaphila ne-dementia: izingcezu ezinkulu ezi-4 noma ezi-9, isithombe sonke siyabonakala, nithinta ezimbili ukuzishintshanisa.",
+    "short": "Thintani izingcezu ezimbili ukuzishintshanisa kuze kuphelele isithombe.",
+    "players": "Abantu abangu-1 noma ababili",
+    "intro": "Isithombe esinobungane sinqunywa sibe izingcezu ezinkulu ezine noma eziyisishiyagalolunye bese sixutshwa. Isithombe sonke sihlala siyabonakala njengomhlahlandlela. Thintani ucezu olulodwa, bese olunye, bese lushintshana izindawo. Akudingeki ukudonsa.",
+    "howTo": [
+      "Khethani isithombe nezingcezu ezi-4 noma ezi-9. Ezine ziyisiqalo esithambile.",
+      "Bhekani isithombe sonke phezulu.",
+      "Thintani ucezu, bese nithinta indawo okufanele iye kuyo. Izingcezu ezimbili ziyashintshana.",
+      "Izingcezu ezisendaweni efanele zithola uphawu oluncane lokulunga.",
+      "Uma isithombe sesiphelele, sijabuleleni ndawonye, bese nikhetha esinye."
+    ],
+    "tips": [
+      "Ukuthinta izingcezu ezimbili ukuzishintshanisa kulula kakhulu kunokudonsa kwabaningi.",
+      "Khulumani ngesithombe njengoba sihlangana: “Nanku uphahla obomvu.”",
+      "Iphazili yangempela yokhuni enezingcezu ezinkulu ezi-12 kuya kwezingu-24 nayo iwumsebenzi omuhle wetafula."
+    ],
+    "faq": [
+      {
+        "q": "Ingabe kukhona isibali sikhathi noma amaphuzu?",
+        "a": "Cha. Akukho sibali sikhathi, maphuzu, isibali sezinyathelo noma ukulahlekelwa. Ningama noma kunini, futhi ukuma phakathi nendlela kuyindlela ephelele yokuphetha."
+      },
+      {
+        "q": "Ingabe kudingeka ngidonse izingcezu?",
+        "a": "Cha. Thintani ucezu olulodwa, bese nithinta olunye, futhi ziyashintshana izindawo. Lokhu kulula kakhulu uma isandla sinyakazela noma esikrinini esincane."
+      },
+      {
+        "q": "Ingabe iyamahhala, futhi kudingeka ngibhalise?",
+        "a": "Yebo, iyamahhala, futhi akukho akhawunti, ukubhalisa noma ukulanda. Isebenza ku-browser yewebhu efonini, kuthebhulethi noma ekhompyutheni."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Qeda isisho",
+    "seoTitle": "Qeda Isisho: Umdlalo Wezaga Wabadala",
+    "h1": "Qeda Isisho",
+    "description": "Izaga ezijwayelekile zesiZulu zingenawo igama lokugcina, njengokuthi “Umuntu ngumuntu ___”. Thintani ukukhetha noma nikhombise isiphetho, bese nikhuluma ngaso.",
+    "short": "Qedani izaga ezijwayelekile ndawonye, bese nikhuluma ngazo.",
+    "players": "Abantu abangu-1, ababili noma iqembu",
+    "intro": "Izaga ezindala zivame ukwaziwa ngokuphila kwesikhathi eside. Ikhadi ngalinye libonisa isaga esijwayelekile singenalo igama lokugcina, ukukhetha okuthathu, nenkinobho ethi “Khombisa isiphetho”. Ngemva kwesiphetho, umbuzo othambile umema ingxoxo.",
+    "howTo": [
+      "Fundani isaga ngokuzwakalayo ndawonye.",
+      "Thintani igama eliqeda, noma uthinte “Khombisa isiphetho”.",
+      "Fundani isaga sonke futhi nikhulume ngaso nisebenzisa isiqondiso.",
+      "Thintani “Isisho esilandelayo” uma selilungele."
+    ],
+    "tips": [
+      "Fundani kancane bese nenza ukuma ngaphambi kwegama lokugcina. Kaningi abantu bayalisho ngaphambi kokuba niqede.",
+      "Uma othile enikeza isiphetho esihlukile, ujabulele. Ezinye izinguqulo zezaga ziyahlukahluka ngomndeni noma indawo.",
+      "Eqenjini, umuntu oyedwa uyafunda futhi wonke umuntu ujoyina esiphethweni."
+    ],
+    "faq": [
+      {
+        "q": "Ingabe kukhona isibali sikhathi noma amaphuzu?",
+        "a": "Cha. Akukho sibali sikhathi, maphuzu, isibali sezinyathelo noma ukulahlekelwa. Ningama noma kunini, futhi ukuma phakathi nendlela kuyindlela ephelele yokuphetha."
+      },
+      {
+        "q": "Kuthiwani uma sikhetha igama elihlukile?",
+        "a": "Umdlalo ukhombisa isiphetho esijwayelekile bese uya engxoxweni. Akukho maphuzu, futhi impendulo ehlukile ayinankinga."
+      },
+      {
+        "q": "Ingabe iyamahhala, futhi kudingeka ngibhalise?",
+        "a": "Yebo, iyamahhala, futhi akukho akhawunti, ukubhalisa noma ukulanda. Isebenza ku-browser yewebhu efonini, kuthebhulethi noma ekhompyutheni."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Ukusesha amagama ngokuphrinta okukhulu",
+    "seoTitle": "Ukusesha Amagama Ngokuphrinta Okukhulu Kwe-Dementia",
+    "h1": "Ukusesha Amagama Ngokuphrinta Okukhulu",
+    "description": "Ukusesha amagama ngokuphrinta okukhulu kwamahhala kwabadala nabaphila ne-dementia. Amagama ambalwa, nqamula nephansi. Dlalani ku-inthanethi noma niphrinte.",
+    "short": "Amagama amakhulu, amagama ambalwa, nqamula nephansi kuphela. Phrintani futhi.",
+    "players": "Abantu abangu-1 noma ababili",
+    "intro": "Igridi encane enamagama amakhulu namagama ambalwa kuphela, onke afundeka nqamula noma aye phansi. Thintani uhlamvu lokuqala lwegama, bese nithinta uhlamvu lalo lokugcina. Nithanda iphepha? Phrintani iphazili entsha ngokuthinta kanye.",
+    "howTo": [
+      "Khethani indikimba nosayizi wegridi.",
+      "Bhekani uhlu lwamagama. Amagama afundeka nqamula (kusuka kwesobunxele kuya kwesokudla) noma phansi (kusuka phezulu kuya phansi).",
+      "Thintani uhlamvu lokuqala lwegama, bese nithinta uhlamvu lalo lokugcina.",
+      "Igama elitholiwe liyagqanyiswa futhi lisuswe ohlwini.",
+      "Thintani “Phrinta le phazili” ukuze nidlale ephepheni ngepensela noma ipeni elikhulu."
+    ],
+    "tips": [
+      "Khombani igama ohlwini bese nifuna uhlamvu lalo lokuqala ndawonye.",
+      "Ephepheni, i-highlighter ilula ukuyibamba kunepensela.",
+      "Khulumani ngamagama endikimba. Amagama okudla ayindlela yemvelo eya ezinkumbulweni zokukha, ukubhaka noma izimakethe."
+    ],
+    "faq": [
+      {
+        "q": "Ingabe kukhona isibali sikhathi noma amaphuzu?",
+        "a": "Cha. Akukho sibali sikhathi, maphuzu, isibali sezinyathelo noma ukulahlekelwa. Ningama noma kunini, futhi ukuma phakathi nendlela kuyindlela ephelele yokuphetha."
+      },
+      {
+        "q": "Ingabe ngingayiphrinta iphazili yamagama?",
+        "a": "Yebo. Thintani “Phrinta le phazili” ukuze niphrinte igridi yamanje ngohlamvu olukhulu, nohlu lwamagama ngezansi. Iphazili ngayinye entsha ihlukile."
+      },
+      {
+        "q": "Ingabe iyamahhala, futhi kudingeka ngibhalise?",
+        "a": "Yebo, iyamahhala, futhi akukho akhawunti, ukubhalisa noma ukulanda. Isebenza ku-browser yewebhu efonini, kuthebhulethi noma ekhompyutheni."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Amakhasi okufaka imibala",
+    "seoTitle": "Amakhasi Okufaka Imibala Yabadala Abaphila ne-Dementia",
+    "h1": "Amakhasi Okufaka Imibala",
+    "description": "Amakhasi alula okufaka imibala yabadala anezindawo ezinkulu: thintani umbala, bese isithombe. Akukho mibala engalungile, ikhasi ngalinye liyaphrintwa mahhala.",
+    "short": "Thintani umbala, bese ingxenye yesithombe. Phrintani amakhasi futhi.",
+    "players": "Abantu abangu-1 noma ababili",
+    "intro": "Amakhasi anezimo ezinkulu, ezilula: imbali esebhodweni, indlu, inkomishi yetiye, uvemvane nesikebhe. Thintani umbala, bese nithinta ingxenye yesithombe ukuyigcwalisa. Azikho imibala engalungile.",
+    "howTo": [
+      "Khethani ikhasi.",
+      "Thintani umbala. Umbala ngamunye unegama lawo elibhaliwe.",
+      "Thintani ingxenye yesithombe ukuyigcwalisa ngalowo mbala.",
+      "Shintshani umqondo noma nini ngokuyigcwalisa futhi.",
+      "Thintani “Phrinta leli khasi” ukuthola ikhasi elingenalutho lokufaka imibala ngamapensela noma ngamapeni amakhulu."
+    ],
+    "tips": [
+      "Nikezani imibala emibili yokukhetha esikhundleni sesethi yonke uma ukukhetha kuzwakala kuningi.",
+      "Izihlahla ezinsomi nelanga eliluhlaza okwesibhakabhaka kwamukelekile. Lokhu kuphathelene nokujabulela umbala, hhayi ukunemba.",
+      "Amakhasi aphrintiwe asebenza kahle ngamapeni aqinile noma ngamakhrayoni, alula ukuwabamba."
+    ],
+    "faq": [
+      {
+        "q": "Ingabe kukhona isibali sikhathi noma amaphuzu?",
+        "a": "Cha. Akukho sibali sikhathi, maphuzu, isibali sezinyathelo noma ukulahlekelwa. Ningama noma kunini, futhi ukuma phakathi nendlela kuyindlela ephelele yokuphetha."
+      },
+      {
+        "q": "Ingabe lawa makhasi ayanengana kakhulu?",
+        "a": "Sidwebe izinto ezithule, ezilula esikhundleni samakhathuni, ngakho amakhasi afanele abadala. Izimo ezinkulu zigcina ukufaka imibala kulula ngaphandle kokukwenza kufane nokwengane."
+      },
+      {
+        "q": "Ingabe iyamahhala, futhi kudingeka ngibhalise?",
+        "a": "Yebo, iyamahhala, futhi akukho akhawunti, ukubhalisa noma ukulanda. Isebenza ku-browser yewebhu efonini, kuthebhulethi noma ekhompyutheni."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Amakhadi engxoxo",
+    "seoTitle": "Iziqalo Zengxoxo Ze-Dementia: Amakhadi Ezithombe",
+    "h1": "Amakhadi Engxoxo",
+    "description": "Amakhadi ezithombe anemibuzo ethambile yabantu abaphila ne-dementia: akukho kuhlola, akukho mpendulo efanele. Sebenzisani esikrinini noma niphrinte.",
+    "short": "Amakhadi ezithombe anemibuzo evulekile, ethambile. Akukho kuhlola.",
+    "players": "Abantu ababili noma iqembu",
+    "intro": "Ikhadi ngalinye lihlanganisa isithombe esijwayelekile nesimemo esivulekile sokukhuluma, njengokuthi “Yiluphi uhlobo lwezulu oluthandayo?” Azikho izimpendulo ezifanele futhi akukho lutho okufanele lukhunjulwe. Khethani indikimba noma niwaxube wonke.",
+    "howTo": [
+      "Khethani indikimba, noma nigcine “Wonke amakhadi”.",
+      "Fundani umbuzo ngokuzwakalayo futhi nibuke isithombe ndawonye.",
+      "Lalelani, nabelane ngempendulo yenu, futhi nivumele ingxoxo ihambe.",
+      "Thintani “Ikhadi elilandelayo” uma selilungele, noma nihlale ekhadini elilodwa isikhathi enisithandayo.",
+      "Thintani “Phrinta wonke amakhadi” ukuze nigingqe isethi yephepha."
+    ],
+    "tips": [
+      "Phendulani umbuzo nani. Kuzwakala njengengxoxo, hhayi inhlolokhono.",
+      "Landelani indaba, hhayi amaqiniso. Uma imininingwane ishintsha, kulungile.",
+      "Uma ikhadi lithinta okuthile okudabukisayo, vumani umuzwa bese niya kolunye ikhadi ngokuthambile."
+    ],
+    "faq": [
+      {
+        "q": "Kungani kungekho mibuzo ethi “Uyakhumbula…?”",
+        "a": "Imibuzo ehlola inkumbulo ingazwakala njengokuhlolwa futhi ilethe ihlazo. Izimemo ezivulekile ezinjengokuthi “Ngitshele ngo…” ziyamukela noma ubani ukuba ajoyine, noma ngabe ukhumbula ini."
+      },
+      {
+        "q": "Ingabe ngingaphrinta amakhadi?",
+        "a": "Yebo. “Phrinta wonke amakhadi” iphrinta isethi yonke ngohlamvu olukhulu, amakhadi amaningana ekhasini, alungele ukugingqwa."
+      },
+      {
+        "q": "Ingabe iyamahhala, futhi kudingeka ngibhalise?",
+        "a": "Yebo, iyamahhala, futhi akukho akhawunti, ukubhalisa noma ukulanda. Isebenza ku-browser yewebhu efonini, kuthebhulethi noma ekhompyutheni."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Amapheya ezithombe zomndeni",
+    "seoTitle": "Yenzani Umdlalo Wokufanisa Ngezithombe Zomndeni",
+    "h1": "Amapheya Ezithombe Zomndeni: Fanisani Izithombe Zenu",
+    "description": "Guqulani izithombe zomndeni zibe umdlalo wokufanisa othambile. Khethani izithombe ezi-2 kuya kwezi-6; ziyahlala ku-browser yenu futhi azilayishwa neze.",
+    "short": "Khethani izithombe zenu bese nizifanisa. Akukho okulayishwayo.",
+    "players": "Abantu ababili, beceleni komunye nomunye",
+    "intro": "Khethani izithombe ezimbili kuya kweziyisithupha efonini, kuthebhulethi noma ekhompyutheni yenu, futhi ziba umdlalo wokufanisa onezithombe ezinkulu, ezibonakalayo. Izithombe zikhonjiswa kuphela kule khasi. Azilayishwa, azigcinwa noma zabiwe, futhi ziyanyamalala uma nivala ikhasi.",
+    "howTo": [
+      "Thintani “Khetha izithombe” bese nikhetha izithombe ezimbili kuya kweziyisithupha.",
+      "Isithombe ngasinye siyavela kabili. Thintani esisodwa, bese nithinta ipheya laso.",
+      "Khulumani ngesithombe ngasinye njengoba nisitholile.",
+      "Uma seniqedile, valani ikhasi noma nithinte “Sula izithombe”. Akukho okugcinwayo."
+    ],
+    "tips": [
+      "Khethani izithombe ezicacile zezinto ezimnandi, ezijwayelekile: isilwane sasekhaya, ingadi, indawo ethandekayo, usuku lomshado.",
+      "Izithombe zezindawo nezinto zingaba lula kunobuso, futhi zigwema ukucindezela ukuqamba amagama abantu.",
+      "Shiyani izithombe zabantu abashonile uma zingalethela usizi olungazelelwe, ngaphandle uma nazi ukuthi ziletha induduzo."
+    ],
+    "faq": [
+      {
+        "q": "Ingabe izithombe zami zilayishelwa kwenye indawo?",
+        "a": "Cha. Ikhasi lifunda izithombe enizikhethayo ngqo ku-browser yenu futhi lizikhombisa esikrinini senu. Azithunyelwa kithi noma kunoma ubani omunye, futhi ziyanyamalala uma nivala noma nivula kabusha ikhasi."
+      },
+      {
+        "q": "Ingabe kukhona isibali sikhathi noma amaphuzu?",
+        "a": "Cha. Akukho sibali sikhathi, maphuzu, isibali sezinyathelo noma ukulahlekelwa. Ningama noma kunini, futhi ukuma phakathi nendlela kuyindlela ephelele yokuphetha."
+      },
+      {
+        "q": "Ingabe ngingagcina umdlalo ngokulandelayo?",
+        "a": "Hhayi ku-browser, ngomklamo, ukuze kungagcinwa lutho oluyimfihlo. I-app yamahhala ye-Golden Moments ye-iPhone ne-iPad ingagcina amakhophi ezithombe ezikhethiwe kudivayisi yenu."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "I-bingo yezithombe",
+    "seoTitle": "I-Bingo Yezithombe Yabadala Abane-Dementia: Iyaphrintwa",
+    "h1": "I-Bingo Yezithombe Yamaqembu",
+    "description": "I-bingo yezithombe eyaphrintwa mahhala yamaqembu okunakekela inkumbulo nabadala, enomsakazi osesikrinini. Izithombe ezinkulu, izikwele ezi-9 noma ezi-16.",
+    "short": "Amakhadi e-bingo yezithombe aphrintekayo nomsakazi wesikrini esikhulu wamaqembu.",
+    "players": "Iqembu labantu abangu-2 kuya kwabangu-30",
+    "intro": "I-bingo yakudala enezithombe esikhundleni sezinombolo, ngakho akekho odinga ukufunda okuncane. Phrintani isethi yamakhadi ahlukile, bese nisebenzisa umsakazi osesikrinini ukukhombisa isithombe ngasinye sikhulu kuthelevishini, kulaptop noma kuthebhulethi.",
+    "howTo": [
+      "Khethani izikwele ezi-9 noma ezi-16 ekhadini ngalinye nokuthi bangaki abadlali.",
+      "Thintani “Phrinta amakhadi”. Ikhadi ngalinye lihlukile.",
+      "Vulani umsakazi esikrinini esikhulu. Thintani “Isithombe esilandelayo” ukukhombisa isithombe ngasinye negama laso.",
+      "Abadlali bamboza isithombe esifanayo ekhadini labo ngemali, inkinobho noma uphawu.",
+      "Wonke ogcwalisa umugqa, noma ikhadi lonke, uthola ukwamukelwa ngenjabulo. Alikho oyehlulwayo kule nguqulo: qhubekani nidlala kuze wonke umuntu abe nomugqa."
+    ],
+    "tips": [
+      "Sebenzisani amathokheni amakhulu afana nezivalo zamabhodlela. Izinkinobho ezincane zingaba nzima ukuziphakamisa.",
+      "Qambani igama lesithombe nisho okuthile ngaso: “Isikebhe. Ubani osake waphuma ngesikebhe?”",
+      "Hlalisani abantu abanobunzima bokubona eduze kakhulu nesikrini, futhi nihlanganise abasizi nabadlali ababadingayo.",
+      "Izikwele eziyisishiyagalolunye zanele amaqembu amaningi. Gcinani isikhathi cishe imizuzu engama-20 kuya kwengama-30."
+    ],
+    "faq": [
+      {
+        "q": "Ngiyiqhuba kanjani i-bingo yezithombe ekhaya lokunakekela?",
+        "a": "Phrintani ikhadi elilodwa ngomdlali ngamunye, nibeke umsakazi esikrinini esikhulu enaso, bese nibiza izithombe kancane, niqamba ngasinye. Dlalani kuze wonke umuntu abe nomugqa, ukuze akekho oshiywa."
+      },
+      {
+        "q": "Ingabe iyamahhala ukuphrinta?",
+        "a": "Yebo. Phrintani amakhadi amaningi njengoba nidinga, kaningi njengoba nithanda, ukusetshenziswa komuntu siqu noma kweqembu."
+      },
+      {
+        "q": "Ingabe abantu bangadlala bengafundi?",
+        "a": "Yebo. Isikwele ngasinye siyisithombe esikhulu, negama laso ngezansi kwalabo abathanda amagama."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Ukuphefumula okuthulile",
+    "seoTitle": "Ukuphumula Ngokuphefumula Okuthulile Kwabadala Nabanakekeli",
+    "h1": "Ukuphumula Ngokuphefumula Okuthulile",
+    "description": "Ukuphumula okuthulile kokuphefumula ukwabelana: isiyingi esithambile siyakhula bese sincipha ukuphefumula kasithupha. Niyaqala, futhi ningama noma kunini.",
+    "short": "Isiyingi esihamba kancane ongaphefumula nasiso. Qalani futhi nime nxa nithanda.",
+    "players": "Abantu abangu-1 noma ababili",
+    "intro": "Ngezinye izikhathi umsebenzi ongcono kakhulu wukuphumula okuthulile. Thintani “Qala”, bese niphefumula ngaphakathi njengoba isiyingi sikhula, nangaphandle njengoba sincipha. Khethani isivinini esihamba kancane noma esishesha. Akuyona indlela yokwelapha, kungumzuzu omnandi nje wokwabelana.",
+    "howTo": [
+      "Hlalani kahle beceleni komunye nomunye.",
+      "Khethani isivinini: kancane noma kuthambile.",
+      "Thintani “Qala”. Phefumulani ngaphakathi ngenkathi isiyingi sikhula, nangaphandle ngenkathi sincipha.",
+      "Siyama ngokwaso ngemva kokuphefumula kasithupha, noma nithinte “Misa” noma nini."
+    ],
+    "tips": [
+      "Bambanani ngezandla noma niphumuze isandla engalweni yomuntu uma lokho kuyamukeleka.",
+      "Ningaphoqi neze. Uma efisa ukubuka kuphela, kulungile.",
+      "Uma othile enezinkinga zokuphefumula, phefumulani ngokujwayelekile futhi nibuke nje isiyingi. Buzani udokotela nganoma yiziphi izinkathazo zokuphefumula."
+    ],
+    "faq": [
+      {
+        "q": "Ingabe lokhu kungukuzivocavoca kokuphefumula kwezokwelapha?",
+        "a": "Cha. Kungukuphumula okulula, okuyikhetho kokuthula nenkampani. Akuyona indlela yokwelapha ukukhathazeka noma noma yiluphi isimo. Khulumani nodokotela ngezinkinga zezempilo."
+      },
+      {
+        "q": "Ingabe isiyingi siyanyakaza ngaphandle kokuthi ngiqale?",
+        "a": "Cha. Akukho okunyakazayo kuze nithinte Qala, futhi siyama ngemva kokuphefumula kasithupha noma uma nithinta Misa. Uma idivayisi yenu isethelwe ukunciphisa ukunyakaza, amagama ayashintsha ngaphandle kokuthi isiyingi sikhule."
+      },
+      {
+        "q": "Ingabe iyamahhala, futhi kudingeka ngibhalise?",
+        "a": "Yebo, iyamahhala, futhi akukho akhawunti, ukubhalisa noma ukulanda. Isebenza ku-browser yewebhu efonini, kuthebhulethi noma ekhompyutheni."
+      }
+    ]
+  }
+}

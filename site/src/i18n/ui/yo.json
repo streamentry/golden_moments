@@ -1,0 +1,533 @@
+{
+  "common": {
+    "skipLink": "Fò lọ sí àkóónú pàtàkì",
+    "brandName": "Golden Moments",
+    "brandTag": "Àwọn ìgbòkègbodò fún dementia",
+    "homeLabel": "Ojú-ìwé ilé Golden Moments",
+    "mainNav": "Pàtàkì",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: àwọn àwòrán ńlá tí ó rẹwà ti ife tíì, òdòdó òòrùn àti ajá",
+    "languages": "Èdè",
+    "englishOnly": "(Èdè Gẹ̀ẹ́sì)",
+    "machineTranslated": "A túmọ̀ ojú-ìwé yìí láìfọwọ́kọ, olùsọ èdè náà kò sì tíì yẹ̀ ẹ́ wò.",
+    "readOriginal": "Ka èyí àtilẹ̀wá ní èdè Gẹ̀ẹ́sì",
+    "nav": {
+      "games": "Àwọn eré",
+      "activities": "Àwọn ìgbòkègbodò",
+      "caregiving": "Ìtọ́jú ẹni",
+      "brainHealth": "Ìlera ọpọlọ"
+    },
+    "faqTitle": "Àwọn ìbéèrè àti ìdáhùn",
+    "breadcrumb": "Ipa ọ̀nà ojú-ìwé",
+    "home": "Ilé",
+    "lastUpdated": "Ìgbà tí a ṣe àtúnṣe gbẹ̀yìn",
+    "topics": "Àwọn kókó ọ̀rọ̀"
+  },
+  "footer": {
+    "play": "Ṣeré",
+    "picturePairs": "Àwọn méjì-méjì àwòrán",
+    "conversationCards": "Àwọn káàdì ìjíròrò",
+    "pictureBingo": "Bíńgò àwòrán",
+    "allGames": "Gbogbo àwọn eré",
+    "activityIdeas": "Àwọn èrò ìgbòkègbodò",
+    "ideas101": "Èrò ìgbòkègbodò 101",
+    "lateStage": "Àwọn ìgbòkègbodò fún ìgbà ìkẹyìn àìsàn",
+    "printable": "Àwọn ìgbòkègbodò tí a lè tẹ̀ jáde",
+    "allActivities": "Gbogbo àwọn ìgbòkègbodò",
+    "forCaregivers": "Fún àwọn olùtọ́jú",
+    "playTogether": "Bí a ṣe lè jọ ṣeré",
+    "selfCare": "Ṣíṣe ìtọ́jú ara yín",
+    "brainHealth": "Ìwádìí lórí ìlera ọpọlọ",
+    "faq": "Àwọn ìbéèrè àti ìdáhùn",
+    "about": "Nípa wa",
+    "approach": "Ọ̀nà wa",
+    "howWeWrite": "Bí a ṣe ń kọ̀wé",
+    "organizations": "Fún àwọn ẹgbẹ́ àti ilé iṣẹ́",
+    "app": "Àpù Golden Moments",
+    "appHelp": "Ìrànlọ́wọ́ àpù",
+    "support": "Ìrànlọ́wọ́",
+    "legal": "Òfin",
+    "sitePrivacy": "Àṣírí ojú-òpó wẹ́ẹ̀bù",
+    "appPrivacy": "Ìlànà àṣírí àpù",
+    "privacyChoices": "Àwọn àṣàyàn àṣírí",
+    "terms": "Àwọn òfin àti ìwé àṣẹ àpù",
+    "safety": "Ààbò àti lílò tí a pète",
+    "accessibility": "Ìrọ̀rùn wíwọlé",
+    "healthNotice": "Ìkéde ìmọ̀ ìlera",
+    "allLegal": "Gbogbo ìmọ̀ nípa òfin",
+    "note": "Golden Moments ń pèsè àwọn ìgbòkègbodò rírọrùn láti jọ gbádùn. Kì í ṣe ìmọ̀ràn ìṣègùn, àyẹ̀wò tàbí ìtọ́jú, kì í sì í ṣe àyẹ̀wò, ìwọ̀n tàbí fífún ẹnikẹ́ni ní ààmì. Fún àwọn ìbéèrè nípa ìlera, ẹ bá dókítà sọ̀rọ̀. Nígbà pàjáwìrì, ẹ pe nọ́ńbà pàjáwìrì ní agbègbè yín.",
+    "publisher": "Cloudjet Solutions Pte. Ltd. ló tẹ̀ ẹ́ jáde"
+  },
+  "home": {
+    "title": "Eré àti Ìgbòkègbodò Dementia àti Alzheimer | Golden Moments",
+    "description": "Àwọn eré àwòrán jẹ́ẹ́jẹ́ẹ́ lọ́fẹ̀ẹ́ lórí íńtánẹ́ẹ̀tì àti èrò ìgbòkègbodò fún àwọn tí ó ní dementia tàbí Alzheimer àti olùtọ́jú wọn. Kò sí aago tàbí ààmì.",
+    "eyebrow": "Lọ́fẹ̀ẹ́ · Kò sí ìpolówó · Kò sí ìforúkọsílẹ̀ · Kò sí aago tàbí ààmì",
+    "h1": "Àwọn Eré àti Ìgbòkègbodò Jẹ́ẹ́jẹ́ẹ́ fún Àwọn Tí Ó Ní Dementia",
+    "lede": "Àwọn eré àwòrán rírọrùn, àwọn fọ́tò tí ó mọ̀ wọ́n, àti àwọn ìgbòkègbodò láti jọ gbádùn, ní ìyára yín.",
+    "playGame": "Ṣe Eré Kan",
+    "findIdeas": "Wá àwọn èrò ìgbòkègbodò",
+    "facts": [
+      "Ó ń ṣiṣẹ́ lórí fóònù, tábìlẹ́ẹ̀tì àti kọ̀ǹpútà",
+      "Àwọn àwòrán ńlá tí ó wà lójú",
+      "Ẹ lè dúró nígbàkúùgbà; kò sí ohun tí a lè kùnà"
+    ],
+    "heroApp": "Àpù ọ̀fẹ́ tún wà fún iPhone, iPad àti Android, pẹ̀lú àwọn fọ́tò ẹbí yín",
+    "albumNote": "“Àwọn àwòrán méjì ti ife tíì, papọ̀.”",
+    "gamesEyebrow": "Ṣeré nínú ẹ̀rọ aṣàwákiri yín",
+    "gamesTitle": "Àwọn eré tí ẹ lè ṣe ní báyìí gan-an",
+    "gamesLede": "Ọ̀kọ̀ọ̀kan wọn parọ́rọ́, ó dára fún àgbàlagbà, ó sì yára láti bẹ̀rẹ̀. Ẹ yan ọ̀kan, ẹ jókòó ní ẹ̀gbẹ́ ara yín, kí ẹ sì máa gba ìgbà láti tẹ̀.",
+    "seeAllGames": "Wo gbogbo eré {count}",
+    "howTitle": "Bí ó ṣe ń ṣiṣẹ́",
+    "steps": [
+      {
+        "title": "Ẹ yan nǹkan tí ó mọ̀ wọ́n",
+        "text": "Àwọn àwòrán ife tíì, ọgbà, ẹran ọ̀sìn àti ọkọ̀ ojú omi. Kò sí kíkà tàbí òfin láti kọ́ kọ́kọ́."
+      },
+      {
+        "title": "Ẹ jókòó ní ẹ̀gbẹ́ ara yín",
+        "text": "Ẹ jẹ́ kí wọ́n tẹ̀. Ẹ sọ̀rọ̀ nípa àwọn àwòrán. Àwòrán tí kò bára mu yóò kàn dúró de ìtẹ̀ tí ó kàn."
+      },
+      {
+        "title": "Ẹ dúró nígbà tí ó bá ń dùn mọ́ yín",
+        "text": "Eré kan jẹ́ ìgbòkègbodò pípé. “Ó tó fún ìsinsìnyí” máa ń wà lójú ojú-ìbòjú nígbà gbogbo."
+      }
+    ],
+    "stageEyebrow": "Lẹ́yìn ojú-ìbòjú",
+    "stageTitle": "Àwọn èrò ìgbòkègbodò fún gbogbo ìpele",
+    "stageLede": "Orin, àwọn iṣẹ́ ojoojúmọ́, rírántí àwọn ìgbà àtijọ́ àti àwọn ìgbà ìmọ̀lára tí ó parọ́rọ́, tí a mú bá ohun tí ó tù wọ́n lára báyìí mu.",
+    "ideas101": "Èrò ìgbòkègbodò 101",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Ìpele ìbẹ̀rẹ̀",
+        "text": "Ẹ máa ṣe ohun tí wọ́n fẹ́ràn, pẹ̀lú àtúnṣe kékeré: àwọn eré ìgbádùn, ìrìn àjò, eré ọ̀rọ̀ àti ṣíṣètò papọ̀.",
+        "label": "Àwọn èrò ìpele ìbẹ̀rẹ̀"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Ìpele àárín",
+        "text": "Àwọn iṣẹ́ rírọrùn tí ó mọ̀ wọ́n tí a pín sí àwọn ìgbésẹ̀: kíká aṣọ, ìtòlẹ́sẹẹsẹ, orin, àwọn eré àwòrán àti ìrìn kúkúrú.",
+        "label": "Àwọn èrò ìpele àárín"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Ìpele ìkẹyìn",
+        "text": "Ìtùnú àti ìsopọ̀ nípasẹ̀ ìfọwọ́kàn, ohùn àti ìran: ìtọ́jú ọwọ́, àwọn orin tí wọ́n fẹ́ràn, àwọn fọ́tò àti wíwà papọ̀.",
+        "label": "Àwọn èrò ìpele ìkẹyìn"
+      }
+    ],
+    "specificHtml": "Ẹ ń wá nǹkan pàtó kan? Ẹ gbìyànjú <a href=\"/activities/alzheimers/\">àwọn ìgbòkègbodò àti eré fún Alzheimer</a>, <a href=\"/activities/memory-games/\">àwọn eré jẹ́ẹ́jẹ́ẹ́ tí ó níí ṣe pẹ̀lú rírántí</a>, <a href=\"/activities/trivia/\">àwọn ìbéèrè rírọrùn</a> tàbí <a href=\"/activities/puzzles/\">àwọn àdììtú</a>.",
+    "approachEyebrow": "Ọ̀nà wa",
+    "approachTitle": "Ìgbòkègbodò papọ̀, kì í ṣe ìdánwò ìrántí",
+    "approachLede": "Ọ̀pọ̀ “eré ọpọlọ” ni a kọ́ yí ìyára, ààmì àti ìtẹ̀síwájú ká. Fún ẹni tí ó ń gbé pẹ̀lú dementia, ó lè dà bí ìdánwò. A kọ́ ohun tí ó yàtọ̀ sí i.",
+    "approachLink": "Ìdí tí a fi ṣe é báyìí",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Kò sí ohun tí a lè kùnà",
+        "text": "Kò sí aago, ààmì, ẹ̀mí tàbí pípàdánù. Àwòrán tí ó yàtọ̀ jẹ́ ìdúró, kì í ṣe àṣìṣe."
+      },
+      {
+        "icon": "eye",
+        "title": "Àwọn àwòrán ń wà lójú",
+        "text": "Dídá mọ̀ ju rírántí lọ. Ìbára-mu bẹ̀rẹ̀ pẹ̀lú àwòrán tí ó wà lójú, nítorí náà kò sí ohun tí a nílò láti ranti."
+      },
+      {
+        "icon": "people",
+        "title": "Fún àgbàlagbà, pẹ̀lú ọlá",
+        "text": "Àwọn ọ̀rọ̀ rírọrùn tí ó gbóná, àti àwọn àwòrán ayé gidi. Kò sí àwòrán ọmọdé tàbí ọ̀rọ̀ ọmọdé láéláé."
+      },
+      {
+        "icon": "shield",
+        "title": "Àṣírí láti ìbẹ̀rẹ̀",
+        "text": "Kò sí àkọọ́lẹ̀ tàbí ìpolówó. Àwọn fọ́tò yín kì í kúrò lórí ẹ̀rọ yín láéláé."
+      }
+    ],
+    "guidesEyebrow": "Fún àwọn olùtọ́jú",
+    "guidesTitle": "Àwọn ìtọ́sọ́nà tí ó wúlò fún ìtọ́jú ojoojúmọ́",
+    "allCaregiving": "Gbogbo àwọn ìtọ́sọ́nà ìtọ́jú ẹni",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Bí a ṣe lè jọ ṣe àwọn eré",
+        "text": "Ìṣètò, ìyára, àti ohun tí ó yẹ láti ṣe nígbà tí eré kan kò bá dùn mọ́ni mọ́."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Nígbà tí wọ́n bá sọ pé rárá sí ìgbòkègbodò kan",
+        "text": "Àwọn ìdí tí ó wọ́pọ̀ fún kíkọ̀, àti àwọn ọ̀nà jẹ́ẹ́jẹ́ẹ́ láti tún gbìyànjú lẹ́yìn náà."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Ṣíṣètò tábìlẹ́ẹ̀tì",
+        "text": "Ọ̀rọ̀ tí ó tóbi, ìdílọ́wọ́ díẹ̀ àti ojú-ìbòjú ilé kan ṣoṣo tí ó rọrùn."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Àwọn ìgbòkègbodò tí a lè tẹ̀ jáde lọ́fẹ̀ẹ́",
+        "text": "Àwọn ìwádìí ọ̀rọ̀ ní ìtẹ̀ ńlá, àwọn ojú-ìwé àwọ̀ kíkùn, bíńgò àti àwọn káàdì ìjíròrò."
+      }
+    ],
+    "researchTitle": "Ìlera ọpọlọ: ohun tí ìwádìí sọ ní gidi",
+    "researchText": "Ṣé a lè dènà dementia? Ṣé àwọn eré ọpọlọ ń ṣe ìrànlọ́wọ́? Kí ni nípa gbígbààwẹ̀, oúnjẹ, oorun àti ìgbọ́ràn? Àwọn ìdáhùn rírọrùn tí ó ní orísun, pẹ̀lú ibi tí ẹ̀rí ti jẹ́ aláìlágbára.",
+    "researchLink": "Ka àwọn ìtọ́sọ́nà ìwádìí",
+    "appEyebrow": "Àpù pẹ̀lú",
+    "appTitle": "Golden Moments lórí iPhone, iPad àti Android",
+    "appText": "Àpù ọ̀fẹ́ náà ń ṣiṣẹ́ láì sí íńtánẹ́ẹ̀tì, ó sì lè lo àwọn fọ́tò ẹbí tí ẹ yàn, tí a fi pamọ́ bí ẹ̀dà sórí ẹ̀rọ yín. Àwòrán ìrọ̀rùn kan náà: káàdì ńlá mẹ́rin, kò sí aago, kò sí ààmì.",
+    "aboutApp": "Nípa àpù náà",
+    "faq": [
+      {
+        "q": "Àwọn eré wo ni ó dára fún àwọn ènìyàn tí ó ní dementia?",
+        "a": "Àwọn eré tí ó dára jẹ́ rírọrùn, tí ó mọ̀ wọ́n, tí kò sì ní ìfúnpá: àwọn àwòrán ńlá láti bára mu, ìtòlẹ́sẹẹsẹ, àwọn jigsaw rírọrùn, ìparí àwọn òwe tí a mọ̀ dáadáa, àwọ̀ kíkùn, bíńgò àwòrán àti àwọn káàdì ìjíròrò. Àṣàyàn tí ó dára jù ni èyí tí ẹni náà gbádùn lónìí. Ẹ yẹra fún aago, ààmì àti ohunkóhun tí ó dà bí ìdánwò."
+      },
+      {
+        "q": "Ṣé àwọn eré dementia wọ̀nyí jẹ́ lọ́fẹ̀ẹ́?",
+        "a": "Bẹ́ẹ̀ ni. Gbogbo eré àti ohun tí a lè tẹ̀ jáde lórí Golden Moments jẹ́ lọ́fẹ̀ẹ́, láì sí àkọọ́lẹ̀, ìforúkọsílẹ̀ tàbí gbígbà sílẹ̀. Àwọn eré náà ń ṣiṣẹ́ nínú ẹ̀rọ aṣàwákiri lórí fóònù, tábìlẹ́ẹ̀tì tàbí kọ̀ǹpútà."
+      },
+      {
+        "q": "Ṣé àwọn eré ọpọlọ ń dènà dementia?",
+        "a": "Rárá. A kò tíì fi hàn pé eré kankan ń dènà dementia, Golden Moments kò sì sọ pé òun ń tọ́jú tàbí dènà nǹkan kan. Àwọn eré wa wà fún ìgbádùn àti àkókò papọ̀. Ẹ̀ka ìlera ọpọlọ wa ṣàlàyé ohun tí ìwádìí fihàn àti ohun tí kò fihàn."
+      },
+      {
+        "q": "Ṣé àwọn eré wọ̀nyí yẹ fún ẹni tí ó ní Alzheimer?",
+        "a": "Bẹ́ẹ̀ ni. Àrùn Alzheimer ni ìdí tí ó wọ́pọ̀ jù fún dementia, a sì ṣe àwọn eré náà fún un: àwọn àwòrán ńlá tí ó wà lójú, àṣàyàn díẹ̀, àti kò sí ohun tí a nílò láti ranti tàbí láti ṣe àṣìṣe lé lórí. Ìbára-mu, ìtòlẹ́sẹẹsẹ àti ìparí àwọn òwe tí ó mọ̀ wọ́n gbára lé ìmọ̀ tí a ti ní fún ìgbà pípẹ́ dípò kíkọ́ nǹkan tuntun."
+      },
+      {
+        "q": "Ṣé ẹni tí ó ní dementia ní ìpele ìkẹyìn lè lo àwọn ìgbòkègbodò wọ̀nyí?",
+        "a": "Nígbà púpọ̀, bẹ́ẹ̀ ni, pẹ̀lú ẹnìkan ní ẹ̀gbẹ́ wọn. Ẹ bẹ̀rẹ̀ pẹ̀lú Wá èyí tí ó jọra pẹ̀lú àwòrán méjì, Àwọn méjì-méjì àwòrán pẹ̀lú káàdì mẹ́rin, ojú-ìwé àwọ̀ kíkùn tàbí ìdúró mímí parọ́rọ́. Ẹ jẹ́ kí ó kúrú, ẹ tẹ̀lé wọn, kí ẹ sì dúró nígbà tí wọ́n bá ti tó."
+      },
+      {
+        "q": "Ṣé àṣírí ni ìwífún mi?",
+        "a": "Ojú-òpó náà kò ní àkọọ́lẹ̀ tàbí ìpolówó. A lo Google Analytics láti mọ àwọn ojú-ìwé tí a ń bẹ̀wò. Àwọn fọ́tò tí ẹ yàn fún Àwọn méjì-méjì fọ́tò ń hàn nínú ẹ̀rọ aṣàwákiri yín nìkan, a kì í sì í gbé wọn sórí íńtánẹ́ẹ̀tì."
+      },
+      {
+        "q": "Ta ni ó ń ṣe Golden Moments?",
+        "a": "Golden Moments jẹ́ ẹgbẹ́ kékeré tí ó ń ṣe àwọn ìgbòkègbodò àwòrán parọ́rọ́ fún àgbàlagbà fún àwọn ẹbí àti àwọn olùtọ́jú, lórí wẹ́ẹ̀bù àti gẹ́gẹ́ bí àpù ọ̀fẹ́. Àwa kì í ṣe oníṣègùn, kò sì sí ohun tí ó wà níbí tí ó jẹ́ ìmọ̀ràn ìṣègùn."
+      }
+    ]
+  },
+  "stage": {
+    "early": "ìbẹ̀rẹ̀",
+    "middle": "àárín",
+    "late": "ìkẹyìn",
+    "hintOne": "Ó máa ń bá ìpele {list} mu",
+    "hintMany": "Ó máa ń bá àwọn ìpele {list} mu",
+    "labelEarly": "Ìpele ìbẹ̀rẹ̀",
+    "labelMiddle": "Ìpele àárín",
+    "labelLate": "Ìpele ìkẹyìn"
+  },
+  "cards": {
+    "aboutGame": "Nípa eré yìí",
+    "printable": "A lè tẹ̀ ẹ́ jáde",
+    "play": "Ṣe {name} →",
+    "readGuide": "Ka ìtọ́sọ́nà náà"
+  },
+  "playCta": {
+    "title": "Ṣé ẹ ṣetán fún eré jẹ́ẹ́jẹ́ẹ́?",
+    "text": "Àwọn àwòrán ńlá, kò sí aago, kò sí ààmì àti kò sí ohun tí ó nílò ìforúkọsílẹ̀. Ẹ jọ ṣeré nínú ẹ̀rọ aṣàwákiri yín.",
+    "play": "Ṣe Eré Kan",
+    "all": "Wo gbogbo àwọn eré",
+    "aria": "Ṣe eré kan"
+  },
+  "appCta": {
+    "title": "Ẹ mú àwọn eré wọ̀nyí lọ pẹ̀lú yín",
+    "text": "Àpù ọ̀fẹ́ Golden Moments fún iPhone, iPad àti Android: káàdì àwòrán ńlá, àwọn eré pẹ̀lú àwọn fọ́tò ẹbí yín, àti àwọn àpò àwòrán tí ó ń ṣiṣẹ́ láì sí Wi‑Fi. Kò sí àkọọ́lẹ̀, ìpolówó, aago tàbí ààmì.",
+    "appStore": "Gbà á lórí App Store",
+    "googlePlay": "Gbà á lórí Google Play",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Nípa àpù náà",
+    "aria": "Gba àpù náà"
+  },
+  "sections": {
+    "activities": {
+      "label": "Àwọn ìgbòkègbodò",
+      "title": "Àwọn Ìgbòkègbodò fún Àwọn Ènìyàn tí Ń Gbé pẹ̀lú Dementia",
+      "seo": "Àwọn Ìgbòkègbodò fún Dementia: Àwọn Èrò ní Ìbámu pẹ̀lú Ìpele",
+      "description": "Àwọn èrò ìgbòkègbodò fún àwọn tí ó ní dementia ní gbogbo ìpele: orin, rírántí ìgbà àtijọ́, iṣẹ́ ojoojúmọ́, iṣẹ́ ọwọ́ àti àwọn ohun tí a lè tẹ̀ jáde.",
+      "lede": "Ìgbòkègbodò tí ó ní ìtumọ̀ ni ohunkóhun tí ó mú ìtùnú, ète tàbí àkókò ìsopọ̀ wá. Ẹ bẹ̀rẹ̀ pẹ̀lú ohun tí ẹni náà ti máa ń gbádùn nígbà gbogbo, kí ẹ sì mú un bá òní mu."
+    },
+    "caregiving": {
+      "label": "Ìtọ́jú ẹni",
+      "title": "Àwọn Ìtọ́sọ́nà Ìtọ́jú Ẹni",
+      "seo": "Àwọn Ìtọ́sọ́nà Ìtọ́jú Dementia: Ìrànlọ́wọ́ Ojoojúmọ́ Tí Ó Wúlò",
+      "description": "Àwọn ìtọ́sọ́nà tí ó wúlò fún àwọn olùtọ́jú dementia: eré ṣíṣe papọ̀, ìbánisọ̀rọ̀, kíkọ̀, àìsinmi ìrọ̀lẹ́, tábìlẹ́ẹ̀tì àti ìtọ́jú ara ẹni.",
+      "lede": "Ìrànlọ́wọ́ rírọrùn tí ó wúlò fún àwọn àkókò ojoojúmọ́ ti ìtọ́jú ẹni tí ó ń gbé pẹ̀lú dementia, pẹ̀lú ìtọ́jú ara yín."
+    },
+    "brain-health": {
+      "label": "Ìlera ọpọlọ",
+      "title": "Ìlera Ọpọlọ: Ohun tí Ìwádìí Sọ",
+      "seo": "Ìlera Ọpọlọ àti Ewu Dementia: Ohun tí Ìwádìí Sọ",
+      "description": "Ṣé a lè dènà dementia? Àwọn ìtọ́sọ́nà olóòótọ́ lórí ewu dementia, àwọn eré ọpọlọ, oúnjẹ, eré ìdárayá, oorun, ìgbọ́ràn àti àwọn àmì ìkìlọ̀ ìbẹ̀rẹ̀.",
+      "lede": "Ohun tí àwọn ìwádìí ńlá fihàn nípa dídín ewu dementia kù, tí a ṣàlàyé ní rírọrùn, pẹ̀lú ibi tí ẹ̀rí ti jẹ́ aláìlágbára tàbí àdàpọ̀. Ìmọ̀ gbogbogbò, kì í ṣe ìmọ̀ràn ìṣègùn."
+    }
+  },
+  "guide": {
+    "updated": "A ṣe àtúnṣe",
+    "minuteRead": "Ìkàwé ìṣẹ́jú {n}",
+    "byTeam": "Láti ọwọ́ ẹgbẹ́ Golden Moments",
+    "howWeWrite": "Bí a ṣe ń kọ̀wé",
+    "shortAnswer": "Ìdáhùn kúkúrú",
+    "onThisPage": "Lórí ojú-ìwé yìí (àwọn apá {n})",
+    "commonQuestions": "Àwọn ìbéèrè tí ó wọ́pọ̀",
+    "sources": "Àwọn orísun",
+    "sourcesNote": "A ń sopọ̀ mọ́ àwọn ẹgbẹ́ àti àwọn ìwádìí tí ojú-ìwé yìí gbára lé. A yẹ ọ̀kọ̀ọ̀kan wò nígbà tí a ṣe àtúnṣe ojú-ìwé náà.",
+    "tryTogether": "Ẹ jọ gbìyànjú",
+    "relatedGuides": "Àwọn ìtọ́sọ́nà tó jọ mọ́ ọn",
+    "related": "Tó jọ mọ́ ọn",
+    "startHere": "Ẹ bẹ̀rẹ̀ níbí"
+  },
+  "healthNotice": {
+    "aria": "Ìkéde ìmọ̀ ìlera",
+    "title": "Ìmọ̀ gbogbogbò, kì í ṣe ìmọ̀ràn ìṣègùn",
+    "textHtml": "Ojú-ìwé yìí ṣe àkópọ̀ ìwádìí tí a ti tẹ̀ jáde fún àwọn ẹbí. Kò lè sọ ohun tí ó tọ́ fún ẹnìkan. Ẹ bá dókítà sọ̀rọ̀ kí ẹ tó yí oúnjẹ, eré ìdárayá, oorun, oògùn tàbí àfikún oúnjẹ padà. Fún ìdàrúdàpọ̀ lójijì tàbí àwọn àyípadà lójijì mìíràn, ẹ wá ìrànlọ́wọ́ ìṣègùn lẹ́sẹ̀kẹsẹ̀. <a href=\"/medical-disclaimer/\">Ẹ ka ìkéde ìmọ̀ ìlera wa</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Ìgbòkègbodò Papọ̀, Kì í Ṣe Ìdánwò Ìrántí",
+      "seoTitle": "Nípa Golden Moments: Ọ̀nà Wa",
+      "description": "Ìdí tí àwọn eré Golden Moments kò fi ní aago, ààmì tàbí ìtẹ̀síwájú, ìdí tí àwọn àwòrán fi ń wà lójú, àti ohun tí a óò sọ àti èyí tí a kò ní sọ nípa dementia.",
+      "crumb": "Ọ̀nà wa",
+      "lede": "Golden Moments ń ṣe àwọn ìgbòkègbodò àwòrán parọ́rọ́ fún àgbàlagbà tí olùtọ́jú àti ẹni tí ó ń gbé pẹ̀lú dementia lè gbádùn ní ẹ̀gbẹ́ ara wọn.",
+      "bodyHtml": "<h2>Ohun tí a gbàgbọ́</h2><p>Ìdí ìgbòkègbodò ni àkókò náà fúnra rẹ̀: ìjíròrò, ẹ̀rín músẹ́, ìtẹ́lọ́rùn láti so àwọn àwòrán méjì pọ̀, tàbí jíjókòó ní ẹ̀gbẹ́ ara. Kì í ṣe láti wọn ẹnikẹ́ni, láti tì wọ́n jìnnà sí i tàbí láti fi ohunkóhun hàn.</p><p>Ọ̀pọ̀ àpù ìkọ́ ọpọlọ ni a ṣe yí ìyára, ààmì, ìtẹ̀síwájú àti àwọn ìpele ká. Fún ẹni tí ó ń gbé pẹ̀lú dementia, ó lè dà bí ìdánwò tí wọn kò lè kọjá. A ṣe ohun tí ó yàtọ̀ sí i, a sì fi àwọn òfin wọ̀nyí de ara wa:</p><ul><li><strong>Kò sí ohun tí a lè kùnà.</strong> Kò sí aago, ààmì, kíka ìgbésẹ̀, ẹ̀mí, ìtẹ̀síwájú, ìfọ́n ìwé ayẹyẹ tàbí kíka sẹ́yìn, lórí ojú-ìbòjú kankan.</li><li><strong>Dídá mọ̀ ju rírántí lọ.</strong> Àwọn àwòrán ń wà lójú ní àìyípadà. Àwọn ìbéèrè ń pe ìjíròrò, wọn kì í fi orúkọ tàbí ìrántí dá ẹni lóhùn.</li><li><strong>Ńlá, rírọrùn àti dúró ṣinṣin.</strong> Ọ̀rọ̀ àti àwòrán ńlá, ìyàtọ̀ àwọ̀ tí ó ga, àti àwọn ohun ìdarí tí ń wà ní ibi kan náà.</li><li><strong>Ọlá àgbàlagbà.</strong> Àwọn àwòrán ayé gidi àti àwọn ọ̀rọ̀ rírọrùn tí ó gbóná. Kò sí àwòrán ọmọdé, ìyìn bíi ti ọmọdé tàbí ẹ̀bùn emoji.</li><li><strong>Ọ̀nà àbájáde tí ó rọrùn.</strong> “Ó tó fún ìsinsìnyí” máa ń hàn nígbà gbogbo. Dídúró ní agbede méjì jẹ́ àbájáde rere.</li><li><strong>Àṣírí ní àìyípadà.</strong> Kò sí àkọọ́lẹ̀ tàbí ìpolówó. Àwọn fọ́tò tí ẹ yàn ń wà lórí ẹ̀rọ yín.</li></ul><h2>Ohun tí a kò sọ</h2><p>Àwọn eré wa wà fún ìgbádùn àti ìsopọ̀. Wọn kì í ṣe àyẹ̀wò, ìdánwò, ìwọ̀n, ìtọ́jú, ìdádúró tàbí ìdènà dementia tàbí àrùn Alzheimer, ẹnikẹ́ni kò sì gbọ́dọ̀ yàn wọ́n fún ìdí yẹn. Nígbà tí a bá kọ̀wé nípa ìwádìí lórí <a href=\"/brain-health/\">àwọn ojú-ìwé ìlera ọpọlọ</a> wa, a máa ń sọ ní kedere ibi tí ẹ̀rí ti jẹ́ aláìlágbára, a kì í sì í so ó mọ́ àwọn eré wa láéláé.</p><h2>Àwa ni</h2><p>Golden Moments jẹ́ ẹgbẹ́ kékeré tí kò sí lábẹ́ ẹnikẹ́ni. Àwa kì í ṣe oníṣègùn. A kọ àwọn ìtọ́sọ́nà wa láti inú ìtọ́sọ́nà tí a ti tẹ̀ jáde láti ọwọ́ àwọn ẹgbẹ́ bíi National Institute on Aging àti Alzheimer’s Association, ìtọ́sọ́nà kọ̀ọ̀kan sì ṣe àkójọ àwọn orísun rẹ̀. Ẹ ka <a href=\"/editorial-policy/\">bí a ṣe ń kọ̀wé àti yẹ àwọn ojú-ìwé wa wò</a>.</p><h2>Ẹ sọ ohun tí yóò ràn yín lọ́wọ́ fún wa</h2><p>A fẹ́ gbọ́ ohun tí ó ṣiṣẹ́ fún yín àti èyí tí kò ṣiṣẹ́, pàápàá láti ọ̀dọ̀ àwọn ènìyàn tí ń gbé pẹ̀lú dementia, àwọn olùtọ́jú ẹbí àti àwọn òṣìṣẹ́ ìgbòkègbodò. Ẹ fi ímeèlì ránṣẹ́ sí <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Bí A Ṣe Ń Kọ̀wé Àti Yẹ Àwọn Ojú-ìwé Wa Wò",
+      "seoTitle": "Ìlànà Àtúnṣe Àkóónú",
+      "description": "Bí Golden Moments ṣe ń ṣe ìwádìí, kọ̀wé, tọ́ka orísun àti ṣe àtúnṣe àwọn ojú-ìwé ìgbòkègbodò dementia àti ìlera ọpọlọ rẹ̀, àti ohun tí a kò ní tẹ̀ jáde láéláé.",
+      "crumb": "Ìlànà àtúnṣe",
+      "bodyHtml": "<h2>Àwọn orísun wa</h2><p>A gbé àwọn ìtọ́sọ́nà wa lé ìtọ́sọ́nà gbogbogbò láti ọwọ́ àwọn ẹgbẹ́ bíi National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance àti NHS, àti lórí ìwádìí tí àwọn ọ̀mọ̀wé ti yẹ̀ wò bíi àwọn àtúnyẹ̀wò Cochrane àti àwọn ìdánwò ìṣègùn ńlá. Ìtọ́sọ́nà kọ̀ọ̀kan ṣe àkójọ àwọn orísun tí ó gbára lé. A ṣí orísun kọ̀ọ̀kan kí a tó tọ́ka rẹ̀, a sì ròyìn ohun tí ó sọ nìkan.</p><h2>Bí a ṣe ń kọ̀wé</h2><ul><li>Ohun tí ó wúlò ní àkọ́kọ́: ohun tí a lè ṣe lónìí, ní èdè rírọrùn.</li><li>Òtítọ́ nípa ẹ̀rí: a máa ń sọ “tí ó jọ mọ́”, “lè” àti “ẹ̀rí jẹ́ àdàpọ̀” nígbà tí ó bá jẹ́ òtítọ́.</li><li>Pẹ̀lú ọ̀wọ̀: a ń kọ̀wé nípa àwọn ènìyàn tí ń gbé pẹ̀lú dementia gẹ́gẹ́ bí àgbàlagbà, a kì í sì í lo èdè ìbéèrè tàbí ìtìjú.</li><li>Kò sí àkóónú tí a dá: kò sí ìṣirò, ọ̀rọ̀ tí a fà yọ, ọ̀mọ̀wé, ìwádìí, àtúnyẹ̀wò tàbí ẹ̀rí tí a ṣẹ̀dá.</li></ul><h2>Ẹni tí ó ń yẹ àwọn ojú-ìwé wa wò</h2><p>Ẹgbẹ́ Golden Moments ni ó ń kọ àwọn ojú-ìwé tí ó sì ń yẹ̀ wọ́n wò, pẹ̀lú ìrànlọ́wọ́ àwọn irinṣẹ́ ìkọ̀wé AI fún ìwádìí àti kíkọ àkọ́kọ́. Ẹgbẹ́ náà ń yẹ ojú-ìwé kọ̀ọ̀kan wò ní ìfiwéra pẹ̀lú àwọn orísun rẹ̀. Dókítà tàbí oníṣègùn mìíràn <strong>kò</strong> tíì yẹ àwọn ojú-ìwé wa wò, a kò sì sọ ìdàkejì. Ìmọ̀ gbogbogbò ni wọ́n, kì í ṣe ìmọ̀ràn ìṣègùn.</p><h2>Ohun tí a kò ní tẹ̀ jáde láéláé</h2><ul><li>Àwọn ọ̀rọ̀ pé eré, oúnjẹ, àfikún oúnjẹ, ààwẹ̀ tàbí ìṣe kan ń dènà, ń tọ́jú, ń dín tàbí ń wo dementia sàn.</li><li>Àwọn ìdánwò, ìbéèrè tàbí ààmì tí ó fi hàn pé ẹnìkan ní, tàbí kò ní, dementia.</li><li>Ìmọ̀ràn láti bẹ̀rẹ̀, dáwọ́ dúró tàbí yí oògùn kankan padà.</li><li>Ìpolówó tàbí àkóónú tí a ṣe onígbọ̀wọ́ tí a pa mọ́ bí ìtọ́sọ́nà.</li></ul><h2>Àwọn àtúnṣe àti àtúnṣe àṣìṣe</h2><p>Ojú-ìwé kọ̀ọ̀kan ń fi ọjọ́ tí a ṣe àtúnṣe gbẹ̀yìn hàn. Bí ẹ bá rí àṣìṣe tàbí orísun tí ó ti dàgbà jù, ẹ jọ̀wọ́, ẹ fi ímeèlì ránṣẹ́ sí <a href=\"mailto:{email}\">{email}</a>, a ó sì yẹ̀ ẹ́ wò kíákíá.</p>"
+    },
+    "faq": {
+      "title": "Àwọn Ìbéèrè àti Ìdáhùn",
+      "seoTitle": "Eré àti Ìgbòkègbodò Dementia: Àwọn Ìbéèrè àti Ìdáhùn",
+      "description": "Àwọn ìdáhùn sí àwọn ìbéèrè nípa eré àti ìgbòkègbodò dementia: àwọn eré tí a lè gbìyànjú, bí ó ṣe yẹ kí a ṣeré pẹ́ tó, ìpele ìkẹyìn àti àṣírí.",
+      "crumb": "Àwọn ìbéèrè àti ìdáhùn",
+      "lede": "Àwọn ìdáhùn kúkúrú, rírọrùn sí àwọn ìbéèrè tí àwọn olùtọ́jú ń béèrè jù.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Nípa àwọn eré",
+          "items": [
+            {
+              "q": "Àwọn eré wo ni ó dára jù fún ẹni tí ó ní dementia?",
+              "a": "Àwọn eré tí ó dára jù ni èyí tí ó mọ̀ wọ́n, tí ó rọrùn, tí kò sì ní ìfúnpá, èyí tí ó tọ́ sì ni èyíkéyìí tí ẹni náà gbádùn lónìí. Ìbára-mu àwòrán pẹ̀lú àwọn àwòrán tí ó wà lójú, ìtòlẹ́sẹẹsẹ, àwọn jigsaw rírọrùn, ìparí àwọn òwe tí ó mọ̀ wọ́n, àwọ̀ kíkùn àti bíńgò àwòrán ń ṣiṣẹ́ dáadáa fún ọ̀pọ̀ ènìyàn. Ẹ yẹra fún aago, ààmì àti ohunkóhun tí ó dà bí ìdánwò."
+            },
+            {
+              "q": "Ṣé àwọn eré náà jẹ́ lọ́fẹ̀ẹ́ ní tòótọ́?",
+              "a": "Bẹ́ẹ̀ ni. Gbogbo àwọn eré àti àwọn ohun tí a lè tẹ̀ jáde jẹ́ lọ́fẹ̀ẹ́, láì sí àkọọ́lẹ̀, ìforúkọsílẹ̀, gbígbà sílẹ̀ tàbí ìpolówó."
+            },
+            {
+              "q": "Kí ló dé tí kò fi sí ààmì, ìpele tàbí aago?",
+              "a": "Ìyára àti ààmì ń sọ ìgbòkègbodò tí ó dùn di ìdánwò, èyí tí ó lè mú ìtìjú tàbí ìbànújẹ́ wá. A ń pa àfojúsùn mọ́ sórí ìgbádùn àti àkókò papọ̀, nítorí náà kò sí ohun tí a lè kùnà, ẹ sì lè dúró nígbàkúùgbà."
+            },
+            {
+              "q": "Àwọn ẹ̀rọ wo ni ó dára jù?",
+              "a": "Fóònù, tábìlẹ́ẹ̀tì tàbí kọ̀ǹpútà kankan tí ó ní ẹ̀rọ aṣàwákiri wẹ́ẹ̀bù òde òní. Tábìlẹ́ẹ̀tì lórí ìdúró ní orí tábìlì sábà máa ń jẹ́ ọ̀nà tí ó tù jù fún ènìyàn méjì láti ṣeré ní ẹ̀gbẹ́ ara wọn. Kọ̀ǹpútà alágbèéká tí a so mọ́ tẹlifíṣọ̀n ń ṣiṣẹ́ dáadáa fún àwọn ẹgbẹ́."
+            },
+            {
+              "q": "Ṣé a lè ṣeré pẹ̀lú àwọn fọ́tò ẹbí wa?",
+              "a": "Bẹ́ẹ̀ ni. Àwọn méjì-méjì fọ́tò sọ fọ́tò 2 sí 6 tí ẹ yàn di eré ìbára-mu. Àwọn fọ́tò náà ń wà nínú ẹ̀rọ aṣàwákiri yín, a kì í gbé wọn sórí íńtánẹ́ẹ̀tì tàbí fi wọ́n pamọ́."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Àwọn ìgbòkègbodò àti ìtọ́jú ẹni",
+          "items": [
+            {
+              "q": "Báwo ni ìgbòkègbodò kan ṣe yẹ kí ó pẹ́ tó?",
+              "a": "Nígbà púpọ̀ ìṣẹ́jú 10 sí 20 pọ̀ tó, nígbà míràn ìṣẹ́jú 2 jẹ́ àṣeyọrí. Ẹ ṣàkíyèsí àwọn àmì àárẹ̀ tàbí ìbínú, kí ẹ sì dúró nígbà tí ó bá ṣì ń dùn mọ́ni. Kò sí iye tí ó tọ́."
+            },
+            {
+              "q": "Kí ni bí wọn kò bá fẹ́ ṣe ìgbòkègbodò kan?",
+              "a": "Ẹ bọ̀wọ̀ fún rárá náà, kí ẹ sì tún gbìyànjú lẹ́yìn náà tàbí ní ọ̀nà mìíràn. Kíkọ̀ lè wá láti àárẹ̀, ìrora, àìdánilójú tàbí àìní ìfẹ́. Ẹ wo ìtọ́sọ́nà wa lórí ohun tí ó yẹ láti ṣe nígbà tí wọ́n bá sọ pé rárá."
+            },
+            {
+              "q": "Àwọn ìgbòkègbodò wo ni ó bá dementia ìpele ìkẹyìn mu?",
+              "a": "Ìtùnú àti àwọn ẹ̀yà ara ìmọ̀lára: gbígbọ́ orin tí wọ́n fẹ́ràn, fífi ọwọ́ pa ọwọ́ pẹ̀lú òróró, wíwo àwọn fọ́tò papọ̀, dídì ibora rírọ̀ mú, jíjókòó ní ìta, tàbí eré àwòrán rírọrùn pẹ̀lú ẹnìkan ní ẹ̀gbẹ́ wọn. Ìtọ́sọ́nà ìpele ìkẹyìn wa ní àwọn èrò púpọ̀ sí i."
+            },
+            {
+              "q": "Ṣé àwọn ìgbòkègbodò wà fún àwọn ẹgbẹ́ ní ilé ìtọ́jú?",
+              "a": "Bẹ́ẹ̀ ni. Bíńgò àwòrán ní àwọn káàdì tí a lè tẹ̀ jáde àti olùpè lórí ojú-ìbòjú, Parí òwe náà àti àwọn káàdì ìjíròrò sì ń ṣiṣẹ́ dáadáa nígbà tí a bá kà wọ́n sókè. Ìtọ́sọ́nà ẹgbẹ́ ilé ìtọ́jú wa bo iye ẹgbẹ́, ìjókòó àti mímú un bá onírúurú agbára mu."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Ìlera ọpọlọ",
+          "items": [
+            {
+              "q": "Ṣé àwọn eré lè dènà tàbí dín dementia kù?",
+              "a": "Rárá. A kò tíì fi hàn pé eré kankan ń dènà dementia, àwọn eré wa kò sì sọ bẹ́ẹ̀. Ìmúṣiṣẹ́ ìrònú ní àyíká àwùjọ ti fi àwọn àǹfààní kékeré hàn nínú ìwádìí fún àwọn ènìyàn tí ó ní dementia tí ó rọ̀ sí àárín, ṣùgbọ́n èyí yàtọ̀ sí eré tí ń dènà àìsàn. A ń fúnni ní àwọn eré fún ìgbádùn àti ìsopọ̀."
+            },
+            {
+              "q": "Ṣé a lè dènà dementia?",
+              "a": "Kì í ṣe pẹ̀lú ìdánilójú. Ìwádìí so àwọn ohun 14 tí ó níí ṣe pẹ̀lú ìlera àti ìgbé ayé mọ́ ewu dementia, bíi pípàdánù ìgbọ́ràn, ẹ̀jẹ̀ ríru, àìṣe eré ìdárayá àti àìní ẹlẹgbẹ́. Ṣíṣe àtúnṣe wọn lè dín ewu kù fún àwọn ènìyàn kan, ṣùgbọ́n ọ̀pọ̀ ènìyàn tí wọ́n ṣe gbogbo nǹkan dáadáa ṣì ń ní dementia. Kì í ṣe ẹ̀bi ẹnikẹ́ni láéláé."
+            },
+            {
+              "q": "Ṣé gbígbààwẹ̀ lẹ́ẹ̀kọ̀ọ̀kan dára fún ìlera ọpọlọ?",
+              "a": "Ẹ̀rí lórí ènìyàn kéré, ó sì wà ní ìbẹ̀rẹ̀, ọ̀pọ̀ ìwádìí sì wà lórí ẹranko. Gbígbààwẹ̀ lè léwu fún àwọn àgbàlagbà, pàápàá pẹ̀lú oògùn àtọ̀gbẹ tàbí dídín ìwọ̀n ara kù láìfẹ́, a kò sì dámọ̀ràn rẹ̀ fún àwọn ènìyàn tí ń gbé pẹ̀lú dementia. Ẹ bá dókítà sọ̀rọ̀ kí ẹ tó yí bí ẹ ṣe ń jẹun padà."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Àṣírí àti ààbò",
+          "items": [
+            {
+              "q": "Ṣé ẹ ń gba ìwífún kankan?",
+              "a": "Kò sí àkọọ́lẹ̀ tàbí ìpolówó. A lo Google Analytics láti ka àwọn ìbẹ̀wò àti láti rí àwọn ojú-ìwé tí ó ń ṣe ìrànlọ́wọ́, ẹ̀rọ aṣàwákiri yín sì ń rántí bóyá ẹ tan àwọn ìró rírọ̀. Àwọn fọ́tò tí ẹ yàn fún Àwọn méjì-méjì fọ́tò kì í lọ sórí íńtánẹ́ẹ̀tì láéláé. Ẹ wo ìkéde àṣírí fún àlàyé."
+            },
+            {
+              "q": "Ṣé ìmọ̀ràn ìṣègùn ni èyí?",
+              "a": "Rárá. Golden Moments wà fún ìgbádùn àti ìmọ̀ gbogbogbò. Fún àwọn ìbéèrè nípa ìlera, ẹ bá dókítà sọ̀rọ̀, àti fún pàjáwìrì ẹ pe nọ́ńbà pàjáwìrì ní agbègbè yín."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Àlàyé sí i: <a href=\"/caregiving/how-to-play-together/\">bí a ṣe lè jọ ṣeré</a>, <a href=\"/caregiving/when-they-say-no/\">nígbà tí wọ́n bá sọ pé rárá</a>, <a href=\"/activities/late-stage/\">àwọn ìgbòkègbodò ìpele ìkẹyìn</a> àti <a href=\"/brain-health/can-dementia-be-prevented/\">ṣé a lè dènà dementia?</a>"
+    },
+    "handout": {
+      "title": "Àwọn Eré Jẹ́ẹ́jẹ́ẹ́ Lọ́fẹ̀ẹ́ fún Àwọn Tí Ó Ní Dementia",
+      "seoTitle": "Ìwé Àlàyé Tí A Lè Tẹ̀: Àwọn Eré Dementia Lọ́fẹ̀ẹ́",
+      "description": "Ìwé àlàyé ojú-ìwé kan tí a lè tẹ̀ fún àwọn ẹbí àti olùtọ́jú nípa àwọn eré àwòrán jẹ́ẹ́jẹ́ẹ́ lọ́fẹ̀ẹ́ fún àwọn tí ó ní dementia, fún àwọn ẹgbẹ́ ìrànlọ́wọ́.",
+      "crumb": "Ìwé àlàyé tí a lè tẹ̀",
+      "lede": "Ẹ tẹ ojú-ìwé yìí fún ẹgbẹ́ ìrànlọ́wọ́, àpò ìtọ́jú tàbí ilẹ̀kùn friji. Ẹ lo àṣẹ Print ti ẹ̀rọ aṣàwákiri yín; a fi àwọn àtòjọ àti bọ́tìnì sílẹ̀ kúrò nínú ohun tí a tẹ̀.",
+      "introHtml": "<p>Àwọn àwòrán ńlá, àwọn ọ̀rọ̀ rírọrùn àti kò sí ohun tí a lè kùnà. Lọ́fẹ̀ẹ́ lórí fóònù, tábìlẹ́ẹ̀tì tàbí kọ̀ǹpútà, láì sí ìforúkọsílẹ̀, ìpolówó, aago tàbí ààmì. Ẹ jókòó ní ẹ̀gbẹ́ ara yín kí ẹ sì máa gba ìgbà.</p>",
+      "gamesTitle": "Àwọn eré láti jọ gbìyànjú",
+      "restHtml": "<h2>Àwọn ìmọ̀ràn díẹ̀</h2><ul><li>Ẹ yan àkókò ọjọ́ tí ẹni náà wà ní ipò rere jù.</li><li>Ẹ bẹ̀rẹ̀ pẹ̀lú ètò tí ó rọrùn jù. Káàdì mẹ́rin pọ̀ tó.</li><li>Ẹ sọ̀rọ̀ nípa àwọn àwòrán. Ìjíròrò sábà máa ń jẹ́ apá tí ó dára jù.</li><li>Ẹ dúró nígbà tí ó bá ṣì ń dùn mọ́ni. Parí ní kùtùkùtù jẹ́ àbájáde rere.</li></ul><h2>Lórí ojú-òpó náà pẹ̀lú</h2><ul><li>Àwọn ohun tí a lè tẹ̀ lọ́fẹ̀ẹ́: ìwádìí ọ̀rọ̀ ní ìtẹ̀ ńlá, àwọn ojú-ìwé àwọ̀ kíkùn, àwọn káàdì ìjíròrò àti bíńgò àwòrán.</li><li>Àwọn èrò ìgbòkègbodò fún gbogbo ìpele, àti àwọn ìtọ́sọ́nà lórí ṣíṣeré papọ̀ àti lórí ìtọ́jú ara yín.</li></ul><p class=\"muted\">Fún ìgbádùn àti àkókò papọ̀. Kì í ṣe ìmọ̀ràn ìṣègùn, ìdánwò tàbí ìtọ́jú. Cloudjet Solutions Pte. Ltd. ló tẹ̀ Golden Moments jáde.</p>"
+    },
+    "organizations": {
+      "title": "Fún Àwọn Ilé Ìtọ́jú, Ilé Ìkàwé àti Àwọn Ẹgbẹ́ Ìrànlọ́wọ́",
+      "seoTitle": "Àwọn Ìgbòkègbodò Dementia Lọ́fẹ̀ẹ́ fún Àwọn Ẹgbẹ́",
+      "description": "Bí àwọn ilé ìtọ́jú, ilé ìkàwé àti àwọn ẹgbẹ́ ìrànlọ́wọ́ ṣe ń lo àwọn eré dementia wa lọ́fẹ̀ẹ́, àti ọ̀rọ̀ láti fi wá kún àtòjọ orísun.",
+      "crumb": "Fún àwọn ẹgbẹ́ àti ilé iṣẹ́",
+      "lede": "Ohun gbogbo lórí ojú-òpó yìí wà fún lílò lọ́fẹ̀ẹ́ pẹ̀lú àwọn olùgbé, àwọn ọmọ ẹgbẹ́ àti àwọn oníbàárà, láì sí àkọọ́lẹ̀, ìwé àṣẹ tàbí owó. Ojú-ìwé yìí ṣàlàyé ohun tí ó wà níbí àti bí a ṣe lè pín in.",
+      "shortText": "{name}: àwọn eré àwòrán jẹ́ẹ́jẹ́ẹ́ lọ́fẹ̀ẹ́ àti àwọn ìtọ́sọ́nà ìgbòkègbodò fún àwọn ènìyàn tí ń gbé pẹ̀lú dementia àti àwọn olùtọ́jú wọn. Kò sí ìforúkọsílẹ̀, kò sí aago, kò sí ààmì.",
+      "longText": "{name} ({domain}) ń pèsè àwọn eré ẹ̀rọ aṣàwákiri {count} lọ́fẹ̀ẹ́ tí a ṣe fún àwọn ènìyàn tí ń gbé pẹ̀lú dementia, pẹ̀lú ìbára-mu àwọn méjì-méjì pẹ̀lú àwọn àwòrán tí ń wà lójú, jigsaw rírọrùn, ìtòlẹ́sẹẹsẹ, àwọn òwe tí ó mọ̀ wọ́n àti bíńgò àwòrán pẹ̀lú àwọn káàdì tí a lè tẹ̀. Kò sí àkọọ́lẹ̀, ìpolówó, aago tàbí ààmì. Ojú-òpó náà tún ní àwọn ìtọ́sọ́nà ìgbòkègbodò ní èdè rírọrùn fún ìpele kọ̀ọ̀kan ti dementia tí ó tọ́ka sí National Institute on Aging àti Alzheimer's Association.",
+      "useTitle": "Ohun tí àwọn ẹgbẹ́ lè lò",
+      "gamesItemHtml": "<strong>Àwọn eré ẹ̀rọ aṣàwákiri {count}</strong> tí ń ṣiṣẹ́ lórí kọ̀ǹpútà alágbèéká, tábìlẹ́ẹ̀tì tàbí tẹlifíṣọ̀n tí a so mọ́ kọ̀ǹpútà. Kò sí fífi sórí ẹ̀rọ, àkọọ́lẹ̀ tàbí gbígbà sílẹ̀. Ẹ wo <a href=\"/games/\">gbogbo àwọn eré</a>.",
+      "printablesLabel": "Àwọn ohun tí a lè tẹ̀ {count}:",
+      "printablesAfter": "Ẹ lo bọ́tìnì Print lórí ojú-ìwé kọ̀ọ̀kan.",
+      "moreItemsHtml": "<li><strong>Àwọn ọ̀nà ẹgbẹ́:</strong> <a href=\"/games/picture-bingo/\">Bíńgò àwòrán</a> ní àwọn káàdì tí a lè tẹ̀ àti olùpè lórí ojú-ìbòjú, <a href=\"/activities/trivia/\">àwọn ìbéèrè rírọrùn</a> sì ní ìbéèrè 50 pẹ̀lú àwọn àṣàyàn ìdáhùn àti àwọn kókó ọ̀rọ̀.</li><li><strong>Àwọn ìtọ́sọ́nà ìgbòkègbodò</strong> fún àwọn òṣìṣẹ́ àti ẹbí, ní ìbámu pẹ̀lú ìpele àti irú, tí a kọ ní èdè rírọrùn pẹ̀lú àwọn orísun. Ẹ bẹ̀rẹ̀ pẹ̀lú <a href=\"/activities/ideas/\">èrò ìgbòkègbodò 101</a> tàbí <a href=\"/activities/care-home-groups/\">àwọn ìgbòkègbodò ẹgbẹ́ fún àwọn ilé ìtọ́jú</a>.</li>",
+      "restHtml": "<h2>Bí àwọn ẹgbẹ́ ṣe ń lò ó</h2><ul><li><strong>Àwọn ilé ìtọ́jú àti ìtọ́jú ìrántí:</strong> bíńgò àwòrán tàbí ìparí òwe lórí tẹlifíṣọ̀n yàrá gbogbogbò, pẹ̀lú ẹnìkan tí ń tẹ̀ fún ẹgbẹ́.</li><li><strong>Àwọn ètò ọ̀sán fún àgbàlagbà:</strong> ibùdó tábìlẹ́ẹ̀tì pẹ̀lú Àwọn méjì-méjì àwòrán tí a ṣètò sí káàdì mẹ́rin, fún àwọn ìpàdé kúkúrú ọ̀kan-sí-ọ̀kan.</li><li><strong>Àwọn ilé ìkàwé gbogbogbò:</strong> àwọn ìwádìí ọ̀rọ̀ àti àwọn káàdì ìjíròrò tí a tẹ̀ nínú àwọn àpò ìrántí, àti ojú-òpó náà tí a fi sí àmì lórí àwọn tábìlẹ́ẹ̀tì ilé ìkàwé.</li><li><strong>Àwọn ẹgbẹ́ ìrànlọ́wọ́ olùtọ́jú àti àwọn ilé ìjókòó ìrántí:</strong> <a href=\"/handout/\">ìwé àlàyé ojú-ìwé kan tí a lè tẹ̀</a> fún àwọn ẹbí láti mú lọ sílé.</li><li><strong>Àwọn ilé ìwòsàn àti àwọn olùṣètò ìjáde:</strong> ìwé àlàyé náà nínú àwọn àpò olùtọ́jú, fún ohun parọ́rọ́ láti ṣe nílé tàbí ní ẹ̀gbẹ́ ibùsùn.</li></ul><h2>Ohun tí a kò ṣe</h2><p>Àwọn eré náà wà fún ìgbádùn àti àkókò papọ̀. Wọn kì í ṣe àyẹ̀wò, ìdánwò, ààmì, ìtọ́jú tàbí ìdádúró dementia, a sì bẹ àwọn ẹgbẹ́ kí wọ́n má ṣe ṣàpèjúwe wọn bẹ́ẹ̀. Kò sí ìpolówó, àwọn eré náà kì í sì í béèrè fún orúkọ, àlàyé ìlera tàbí gbígbé fọ́tò sórí íńtánẹ́ẹ̀tì. Ojú-òpó wẹ́ẹ̀bù náà ń lo Google Analytics láti ka àwọn ìbẹ̀wò; <a href=\"/privacy/\">ìkéde àṣírí</a> wa ṣàlàyé ohun tí ó ń gbà. Àwọn fọ́tò tí a lò nínú <a href=\"/games/photo-pairs/\">Àwọn méjì-méjì fọ́tò</a> ń wà nínú ẹ̀rọ aṣàwákiri.</p><h2>Ẹ fi wá kún àtòjọ orísun yín</h2><p>Bí ẹ bá ń pa àtòjọ àwọn orísun fún àwọn olùtọ́jú mọ́, ẹ káàbọ̀ láti sopọ̀ mọ́ <a href=\"/\">{domain}</a>. Ẹ lè daakọ èyíkéyìí nínú àwọn àpèjúwe méjèèjì.</p>",
+      "shortTitle": "Àpèjúwe kúkúrú",
+      "longTitle": "Àpèjúwe gígùn",
+      "linksHtml": "<p>Àwọn ojú-ìwé tí ó wúlò láti sopọ̀ mọ́ taara: <a href=\"/games/\">àwọn eré lọ́fẹ̀ẹ́</a>, <a href=\"/activities/printable/\">àwọn ohun tí a lè tẹ̀ lọ́fẹ̀ẹ́</a>, <a href=\"/activities/alzheimers/\">àwọn ìgbòkègbodò fún Alzheimer</a> àti <a href=\"/caregiving/how-to-play-together/\">bí a ṣe lè jọ ṣeré</a>.</p><h2>Àwọn ìbéèrè tàbí àtúnṣe</h2><p>Bí ohun kan lórí ojú-òpó náà bá jẹ́ àṣìṣe tàbí kò yé yín, tàbí ohun tí ó wà níbí kò pèsè àwọn àìní olùgbé kan, ẹ jọ̀wọ́, ẹ sọ fún wa ní <a href=\"mailto:{email}\">{email}</a>. Ẹ jọ̀wọ́, ẹ má fi ìwífún ti ara ẹni tàbí ìlera nípa àwọn olùgbé tàbí àwọn oníbàárà ránṣẹ́.</p>"
+    },
+    "app": {
+      "title": "Àpù Golden Moments",
+      "seoTitle": "Àpù Golden Moments fún iPhone àti Android",
+      "description": "Àpù ọ̀fẹ́ Golden Moments: ìbára-mu fọ́tò jẹ́ẹ́jẹ́ẹ́ pẹ̀lú káàdì ńlá mẹ́rin, àwọn fọ́tò ẹbí lórí ẹ̀rọ yín, àwọn àpò àwòrán láì sí íńtánẹ́ẹ̀tì.",
+      "crumb": "Àpù náà",
+      "lede": "Gbogbo ohun tí ẹ fẹ́ràn lórí ojú-òpó náà, nínú àpù tí ó ń ṣiṣẹ́ láì sí íńtánẹ́ẹ̀tì tí ó sì lè lo àwọn fọ́tò ẹbí tí ẹ yàn.",
+      "worksOn": "Ó ń ṣiṣẹ́ lórí {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Ẹ bẹ̀rẹ̀ pẹ̀lú nǹkan kékeré</h2><p>Ẹ bẹ̀rẹ̀ pẹ̀lú káàdì ńlá mẹ́rin àti àwọn àwòrán tí ó mọ̀ wọ́n. Ẹ jẹ́ kí àwọn àwòrán máa hàn, tàbí kí ẹ fi wọ́n pamọ́ nígbà tí ó bá tù yín lára. Ipò jẹ́ẹ́jẹ́ẹ́ kò ní aago, ààmì tàbí ìyà. Ẹ yan káàdì 4, 6, 8 tàbí 12.</p><h2>Ẹ ṣe é ní ti yín</h2><p>Ẹ yan àwọn fọ́tò ẹbí pẹ̀lú olùyan fọ́tò ẹ̀rọ yín. Àpù náà ń fi àwọn ẹ̀dà kékeré pamọ́ fún àwọn ìgbòkègbodò rẹ̀. Kì í wá àkójọ yín kiri tàbí kí ó yí àwọn fọ́tò àtilẹ̀wá yín padà, ó sì ń pa tó fọ́tò 24 mọ́ nínú àkójọ kan.</p><h2>Ẹ jọ wò ó nìkan</h2><p>Ẹ wo àwòrán kan ní ìgbà kan. Àwọn ìbéèrè tí kò pọn dandan ń pe ìjíròrò láì bẹ ẹnikẹ́ni láti ranti orúkọ tàbí láti fún ìdáhùn tí ó tọ́. Wíwò nìkan tó.</p><h2>Láì sí íńtánẹ́ẹ̀tì níbi tí ó ṣe pàtàkì</h2><p>Àwọn àwòrán ìbẹ̀rẹ̀ àti gbogbo àpò àwòrán mẹ́jọ wà pẹ̀lú àpù náà. Àwọn ẹ̀dà fọ́tò tí a mú wọlé ń ṣiṣẹ́ láì sí íńtánẹ́ẹ̀tì. Yíyan àwọn fọ́tò àtilẹ̀wá tí a fi pamọ́ sí iCloud nìkan lè nílò íńtánẹ́ẹ̀tì.</p><h2>Kò sí àkọọ́lẹ̀, kò sí olupin ìṣọ̀kan fọ́tò</h2><p>Àwọn ẹ̀dà fọ́tò ẹbí ń wà nínú àpù lórí ẹ̀rọ náà. Ẹ lè yọ àwọn ẹ̀dà náà kúrò láì pa àwọn fọ́tò àtilẹ̀wá rẹ́. Àwọn ẹ̀dà àfipamọ́ ẹ̀rọ lè ní dátà àpù. Ẹ ka <a href=\"/app-privacy/\">ìlànà àṣírí àpù</a>, <a href=\"/help/\">ìrànlọ́wọ́ àpù</a> sì ń ṣàlàyé ìgbésẹ̀ kọ̀ọ̀kan.</p>",
+      "disclaimer": "Golden Moments wà fún ìgbádùn àti ìjíròrò papọ̀. Kì í ṣe àyẹ̀wò, ìtọ́jú, ìdènà tàbí ìwọ̀n dementia tàbí àrùn Alzheimer.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Àwọn Eré Dementia àti Alzheimer Lọ́fẹ̀ẹ́ Lórí Íńtánẹ́ẹ̀tì",
+    "description": "Àwọn eré lọ́fẹ̀ẹ́ lórí íńtánẹ́ẹ̀tì fún àgbàlagbà tí ó ní dementia tàbí Alzheimer: ìbára-mu àwòrán, jigsaw, ìtòlẹ́sẹẹsẹ, òwe, bíńgò. Kò sí aago tàbí ààmì.",
+    "crumb": "Àwọn eré",
+    "h1": "Àwọn Eré Jẹ́ẹ́jẹ́ẹ́ fún Àwọn Ènìyàn tí Ń Gbé pẹ̀lú Dementia",
+    "lede": "Àwọn eré {count} lọ́fẹ̀ẹ́ láti jọ ṣe nínú ẹ̀rọ aṣàwákiri yín. Àwọn àwòrán ńlá, àwọn ọ̀rọ̀ rírọrùn, àti kò sí ohun tí a lè kùnà: kò sí aago, kò sí ààmì, kò sí ìforúkọsílẹ̀.",
+    "listName": "Àwọn eré jẹ́ẹ́jẹ́ẹ́ fún àwọn ènìyàn tí ń gbé pẹ̀lú dementia",
+    "byStageTitle": "Yíyan eré ní ìbámu pẹ̀lú ìpele",
+    "byStageLede": "Àwọn ìpele jẹ́ ìtọ́sọ́nà àpapọ̀ nìkan. Ẹ tẹ̀lé ohun tí ẹni náà gbádùn àti ohun tí ó tù ú lára lónìí.",
+    "stageCol": "Ìpele",
+    "gamesCol": "Àwọn eré tí ó sábà máa ń bá a mu",
+    "moreHtml": "Àwọn èrò sí i lẹ́yìn ojú-ìbòjú: <a href=\"/activities/ideas/\">àwọn ìgbòkègbodò 101 fún àwọn ènìyàn tí ó ní dementia</a>, <a href=\"/activities/alzheimers/\">àwọn ìgbòkègbodò àti eré fún Alzheimer</a>, <a href=\"/activities/memory-games/\">àwọn eré jẹ́ẹ́jẹ́ẹ́ tí ó níí ṣe pẹ̀lú rírántí</a> àti <a href=\"/activities/puzzles/\">àwọn àdììtú</a>.",
+    "faq": [
+      {
+        "q": "Eré wo ni kí a bẹ̀rẹ̀ pẹ̀lú?",
+        "a": "Àwọn méjì-méjì àwòrán pẹ̀lú káàdì mẹ́rin jẹ́ àṣàyàn àkọ́kọ́ tí ó parọ́rọ́. Bí yíyan láàrin àwọn àwòrán bá dà bí ohun tí ó pọ̀ jù, ẹ gbìyànjú Wá èyí tí ó jọra pẹ̀lú àwòrán méjì. Fún ẹgbẹ́, ẹ gbìyànjú Bíńgò àwòrán."
+      },
+      {
+        "q": "Ṣé àwọn eré náà ń ṣiṣẹ́ lórí iPad tàbí fóònù?",
+        "a": "Bẹ́ẹ̀ ni. Gbogbo eré ń ṣiṣẹ́ nínú ẹ̀rọ aṣàwákiri lórí fóònù, tábìlẹ́ẹ̀tì àti kọ̀ǹpútà, àwọn àwòrán sì ń tóbi láti kún ojú-ìbòjú. Tábìlẹ́ẹ̀tì lórí ìdúró sábà máa ń tù jù fún ènìyàn méjì."
+      },
+      {
+        "q": "Ṣé àwọn eré wọ̀nyí dára fún ẹni tí ó ní Alzheimer?",
+        "a": "Bẹ́ẹ̀ ni. A ṣe wọ́n fún àwọn ènìyàn tí ń gbé pẹ̀lú dementia, pẹ̀lú Alzheimer, ìdí tí ó wọ́pọ̀ jù. Àwọn àwòrán ń wà lójú, àṣàyàn díẹ̀ ni ó wà, kò sì sí ohun tí a fi àkókò tàbí ààmì dí, nítorí náà àwọn eré náà gbára lé dídá àwọn ohun tí ó mọ̀ wọ́n mọ̀ dípò rírántí àwọn tuntun."
+      },
+      {
+        "q": "Ṣé àwọn eré ìrántí fún àgbàlagbà ni àwọn wọ̀nyí?",
+        "a": "Wọ́n jẹ́ àwọn eré ìbára-mu àti àwòrán tí àgbàlagbà èyíkéyìí lè gbádùn, ṣùgbọ́n a kọ́ wọn kí wọ́n má dán ìrántí wò: nínú Àwọn méjì-méjì àwòrán, àwọn àwòrán ń wà lójú àyàfi tí ẹ bá yàn ìdàkejì. Ìtọ́sọ́nà wa lórí àwọn eré ìrántí fún àgbàlagbà tí ó ní dementia ṣàlàyé bí a ṣe lè jẹ́ kí eré ìrántí kankan jẹ́ jẹ́ẹ́jẹ́ẹ́."
+      },
+      {
+        "q": "Ṣé àwọn eré wà fún àwọn ẹgbẹ́ ní ilé ìtọ́jú?",
+        "a": "Bẹ́ẹ̀ ni. Bíńgò àwòrán ní àwọn káàdì tí a lè tẹ̀ jáde àti olùpè lórí ojú-ìbòjú, Parí òwe náà àti àwọn káàdì ìjíròrò sì ń ṣiṣẹ́ dáadáa nígbà tí a bá kà wọ́n sókè fún ẹgbẹ́."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad àti Android",
+    "requirements": "iOS 15 tàbí tó tún tuntun jù; Android 7.0 tàbí tó tún tuntun jù",
+    "summary": "Àpù ọ̀fẹ́ fún iPhone, iPad àti Android pẹ̀lú ìbára-mu àwòrán jẹ́ẹ́jẹ́ẹ́ lórí káàdì ńlá mẹ́rin sí méjìlá, ìbára-mu àti wíwò pẹ̀lú àwọn fọ́tò ẹbí tí ẹ yàn, àti àwọn àpò àwòrán mẹ́jọ tí ń ṣiṣẹ́ láì sí íńtánẹ́ẹ̀tì. Kò sí àkọọ́lẹ̀, ìpolówó, aago tàbí ààmì.",
+    "features": [
+      "Ìbára-mu àwòrán jẹ́ẹ́jẹ́ẹ́ pẹ̀lú káàdì ńlá 4, 6, 8 tàbí 12; àwọn àwòrán ń wà lójú àyàfi tí ẹ bá yàn láti fi wọ́n pamọ́",
+      "Àwọn fọ́tò ẹbí tí ẹ yàn ni a ń dà kọ sínú àpù fún ìbára-mu àti fún wíwò papọ̀",
+      "Ẹ jọ wò ó: àwòrán kan ní ìgbà kan pẹ̀lú àwọn ìbéèrè ìjíròrò tí kò pọn dandan",
+      "Àwọn àpò àwòrán mẹ́jọ wà pẹ̀lú àpù náà; wọ́n ń ṣiṣẹ́ láì sí íńtánẹ́ẹ̀tì",
+      "Kò sí àkọọ́lẹ̀, ìpolówó, ríra nínú àpù, aago, ààmì tàbí ìyà"
+    ],
+    "faq": [
+      {
+        "q": "Ṣé àpù ìgbòkègbodò dementia wà?",
+        "a": "Bẹ́ẹ̀ ni. Golden Moments (tí a kọ sílẹ̀ bí \"{storeName}\") jẹ́ lọ́fẹ̀ẹ́ lórí App Store àti Google Play. Ó ń pèsè ìbára-mu àwòrán jẹ́ẹ́jẹ́ẹ́ pẹ̀lú káàdì ńlá, àwọn eré pẹ̀lú àwọn fọ́tò ẹbí tí ẹ yàn, àti àwọn àpò àwòrán tí ń ṣiṣẹ́ láì sí íńtánẹ́ẹ̀tì."
+      },
+      {
+        "q": "Ṣé àpù Golden Moments jẹ́ lọ́fẹ̀ẹ́?",
+        "a": "Bẹ́ẹ̀ ni. Ó jẹ́ lọ́fẹ̀ẹ́ láti gbà, láì sí ìpolówó, àkọọ́lẹ̀ tàbí ríra nínú àpù."
+      },
+      {
+        "q": "Ṣé àpù náà ń ṣiṣẹ́ láì sí íńtánẹ́ẹ̀tì?",
+        "a": "Bẹ́ẹ̀ ni. Àwọn àwòrán ìbẹ̀rẹ̀ àti gbogbo àpò àwòrán mẹ́jọ wà pẹ̀lú àpù náà, àwọn fọ́tò ẹbí sì ń ṣiṣẹ́ láì sí íńtánẹ́ẹ̀tì lẹ́yìn tí a bá ti dà wọ́n kọ sínú àpù. Yíyan fọ́tò tí a fi pamọ́ sí iCloud nìkan lè nílò ìsopọ̀."
+      },
+      {
+        "q": "Ṣé mo lè lo àwọn fọ́tò ẹbí wa?",
+        "a": "Bẹ́ẹ̀ ni. Ẹ yan àwọn fọ́tò pẹ̀lú olùyan fọ́tò ẹ̀rọ yín. Àpù náà ń pa àwọn ẹ̀dà kékeré mọ́ sórí ẹ̀rọ fún àwọn ìgbòkègbodò rẹ̀, kì í gbé wọn sórí íńtánẹ́ẹ̀tì, kì í sì í yí àwọn fọ́tò àtilẹ̀wá padà láéláé. Ẹ lè yọ àwọn ẹ̀dà náà kúrò nígbàkúùgbà."
+      },
+      {
+        "q": "Ṣé àpù ìkọ́ ọpọlọ tàbí ìdánwò ìrántí ni?",
+        "a": "Rárá. Golden Moments wà fún ìgbádùn àti àkókò papọ̀. Kò ní ààmì tàbí ìdánwò, kì í sì í ṣe àyẹ̀wò, ìtọ́jú, ìdènà tàbí ìwọ̀n dementia tàbí àrùn Alzheimer."
+      },
+      {
+        "q": "Àwọn ẹ̀rọ wo ni ó ń ṣiṣẹ́ lórí?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Ṣé ẹ̀dà àpù wà fún eré yìí?",
+      "a": "Bẹ́ẹ̀ ni. Àpù ọ̀fẹ́ Golden Moments fún iPhone, iPad àti Android ní ìbára-mu àwòrán jẹ́ẹ́jẹ́ẹ́ kan náà, ó lè lo àwọn fọ́tò ẹbí tí ẹ yàn, ó sì ń ṣiṣẹ́ láì sí íńtánẹ́ẹ̀tì. Kò sí àkọọ́lẹ̀, ìpolówó tàbí ààmì."
+    },
+    "gameFaqNo": {
+      "q": "Ṣé ẹ̀dà àpù wà fún eré yìí?",
+      "a": "Kò sí fún eré yìí. Àpù ọ̀fẹ́ Golden Moments fún iPhone, iPad àti Android ní ìbára-mu àwòrán jẹ́ẹ́jẹ́ẹ́ pẹ̀lú káàdì ńlá àti àwọn fọ́tò ẹbí tí ẹ yàn, ó sì ń ṣiṣẹ́ láì sí íńtánẹ́ẹ̀tì. Eré yìí ṣì jẹ́ lọ́fẹ̀ẹ́ níbí nínú ẹ̀rọ aṣàwákiri yín."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: àwọn àwòrán ńlá tí ó rẹwà",
+    "noscript": "Eré yìí nílò JavaScript tí a tàn nínú ẹ̀rọ aṣàwákiri yín. Àwọn ìmọ̀ràn tí ó wà ní ìsàlẹ̀ ń ṣiṣẹ́ láìsí i.",
+    "about": "Nípa {name}",
+    "aboutAria": "Nípa eré yìí",
+    "noTimer": "Kò sí aago tàbí ààmì",
+    "printable": "A lè tẹ̀ ẹ́ jáde",
+    "howTo": "Bí a ṣe ń ṣe {name}",
+    "tips": "Àwọn ìmọ̀ràn fún ṣíṣeré papọ̀",
+    "newToPlayingHtml": "Ṣé ẹ jẹ́ tuntun sí ṣíṣeré pẹ̀lú ẹni tí ó ní dementia? Ẹ ka <a href=\"/caregiving/how-to-play-together/\">bí a ṣe lè jọ ṣe àwọn eré</a>, pẹ̀lú ohun tí ó yẹ láti ṣe bí wọ́n bá pàdánù ìfẹ́.",
+    "moreAria": "Púpọ̀ sí i láti ṣàwárí",
+    "helpfulGuides": "Àwọn ìtọ́sọ́nà tí ó wúlò",
+    "appTitle": "Ṣeré rẹ̀ nínú àpù",
+    "appText": "Àpù ọ̀fẹ́ Golden Moments ní ìbára-mu àwòrán jẹ́ẹ́jẹ́ẹ́ pẹ̀lú káàdì ńlá àti àwọn fọ́tò ẹbí yín, ó sì ń ṣiṣẹ́ láì sí Wi‑Fi. iPhone, iPad àti Android.",
+    "photoAppTitle": "Ẹ jẹ́ kí àwọn fọ́tò yín ṣetán",
+    "photoAppText": "Nínú àpù ọ̀fẹ́ Golden Moments, àwọn fọ́tò tí ẹ yàn ń wà lórí ẹ̀rọ yín fún ìgbà tí ó kàn, àwọn eré sì ń ṣiṣẹ́ láì sí Wi‑Fi. iPhone, iPad àti Android.",
+    "goodToKnow": "Ó dára láti mọ̀",
+    "goodToKnowText": "Eré yìí wà fún ìgbádùn àti àkókò papọ̀. Kì í dán nǹkan wò, wọn tàbí tọ́jú.",
+    "moreGames": "Àwọn eré jẹ́ẹ́jẹ́ẹ́ sí i",
+    "crumb": "Àwọn eré"
+  }
+}

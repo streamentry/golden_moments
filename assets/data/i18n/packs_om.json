@@ -1,0 +1,99 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Bineensota",
+      "description": "Bineensota hawwatoo fi garaa laafaa addunyaa guutuu irraa"
+    },
+    "nature": {
+      "name": "Uumama",
+      "description": "Lafa uumamaa bareedaa fi mul’ata uumamaa"
+    },
+    "food": {
+      "name": "Nyaata",
+      "description": "Nyaata mi’aawaa fi mi’aawwan"
+    },
+    "vintage": {
+      "name": "Konkolaataawwan",
+      "description": "Konkolaataawwan fi loorii ilaaluu fi waa’ee isaanii haasa’uuf"
+    },
+    "flowers": {
+      "name": "Daraaraawwan",
+      "description": "Daraaraawwan bareedoo fi mul’ata iddoo biqiltuu"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Horii manaa",
+      "description": "Horii hiriyummaa qabu, akka daawwannaa baadiyyaa irratti.",
+      "theme": "Jireenya baadiyyaa",
+      "images": {
+        "cow_1": "Saawwan",
+        "horse_1": "Farda bareedaa",
+        "goat_1": "Re’ee"
+      }
+    },
+    "nature_mountains": {
+      "title": "Mul’ata tulluwwanii",
+      "description": "Mul’ata tulluwwanii fi lafa bal’aa hawwatu",
+      "theme": "Bareedina uumamaa",
+      "images": {
+        "mountain_2": "Tulluu Fuji",
+        "mountain_4": "Fiixee dhagaa",
+        "mountain_5": "Gaarreen bosonaa"
+      }
+    },
+    "vintage_cars": {
+      "title": "Konkolaataawwan fi loorii",
+      "description": "Konkolaataawwan calaqqisoo fi loorii ilaaluu fi waa’ee isaanii haasa’uuf",
+      "theme": "Daandii irra"
+    },
+    "animals_safari": {
+      "title": "Bineensota safaarii",
+      "description": "Bineensota ulfina qaban safaarii Afrikaa irraa",
+      "theme": "Bineensota bosonaa",
+      "images": {
+        "lion_1": "Leenca ulfina qabu"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Mi’aawwan mi’aawoo",
+      "description": "Mi’aawwan mi’aawoo muraasa nyaata keessaniif.",
+      "theme": "Mi’aawwan mi’aa",
+      "images": {
+        "caramel_cake_6": "Keekii karaameelii"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Daraaraawwan naannoo ho’aa",
+      "description": "Bareedina calaqqisaa naannoo ho’aa paakeejii daraaraawwan addaa kanaan argadhaa.",
+      "theme": "Daraaraawwan naannoo ho’aa",
+      "images": {
+        "rose_5": "Roozii"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Nyaata daandii",
+      "description": "Addunyaa nyaata daandii bifa-bifaa paakeejii nyaata mi’aawaa addunyaa guutuu irraa kanaan qoraa.",
+      "theme": "Nyaata daandii",
+      "images": {
+        "taco_1": "Taakoo Meeksikoo",
+        "ramen_2": "Raamen Jaappaan",
+        "samosa_4": "Sambusaa Hindii",
+        "pizza_5": "Cirracha piizaa Xaaliyaanii",
+        "crepe_6": "Kireepii Faransaay",
+        "burger_8": "Burgeera Ameerikaa"
+      }
+    },
+    "nature_landscape": {
+      "title": "Mul’ata uumamaa",
+      "description": "Mul’ata uumamaa tasgabbaa’aa fi bareedaa suutaan ilaaluu fi waliin waa’ee isaa haasa’uuf.",
+      "theme": "Lafa uumamaa",
+      "images": {
+        "mountain_1": "Sarara tulluu",
+        "lake_3": "Haroo tulluu",
+        "river_7": "Laga yaa’aa",
+        "flowers_11": "Daraaraa bosonaa"
+      }
+    }
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
+  "common": {
+    "skipLink": "Gara qabiyyee ijoo darbaa",
+    "brandName": "Golden Moments",
+    "brandTag": "Hojiiwwan dementia",
+    "homeLabel": "Fuula jalqabaa Golden Moments",
+    "mainNav": "Ijoo",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: suuraawwan guguddaa fi garaa laafoo kubbaayyaa, daraaraa aduu fi saree",
+    "languages": "Afaan",
+    "englishOnly": "(Afaan Ingiliffaa)",
+    "machineTranslated": "Fuulli kun ofumaan hiikameera; namni Afaan Oromoo dubbatu amma hin ilaalle.",
+    "readOriginal": "Isa jalqabaa Afaan Ingiliffaan dubbisaa",
+    "nav": {
+      "games": "Taphoota",
+      "activities": "Hojiiwwan",
+      "caregiving": "Kunuunsa",
+      "brainHealth": "Fayyaa sammuu"
+    },
+    "faqTitle": "Gaaffiiwwan fi deebiiwwan",
+    "breadcrumb": "Karaa fuula",
+    "home": "Jalqaba",
+    "lastUpdated": "Yeroo dhumaa haaromfame",
+    "topics": "Mata-dureewwan"
+  },
+  "footer": {
+    "play": "Taphadhaa",
+    "picturePairs": "Lamaan suuraa",
+    "conversationCards": "Kaartii haasaa",
+    "pictureBingo": "Bingoo suuraa",
+    "allGames": "Taphoota hunda",
+    "activityIdeas": "Yaada hojii",
+    "ideas101": "Yaada hojii 101",
+    "lateStage": "Hojiiwwan sadarkaa boodaa",
+    "printable": "Hojiiwwan maxxanfaman",
+    "allActivities": "Hojiiwwan hunda",
+    "forCaregivers": "Kunuunsitootaaf",
+    "playTogether": "Akkamitti waliin taphatan",
+    "selfCare": "Of kunuunsuu",
+    "brainHealth": "Qorannoo fayyaa sammuu",
+    "faq": "Gaaffiiwwan fi deebiiwwan",
+    "about": "Waa’ee keenya",
+    "approach": "Haala hojii keenyaa",
+    "howWeWrite": "Akkamitti akka barreessinu",
+    "organizations": "Dhaabbilootaaf",
+    "app": "Appii Golden Moments",
+    "appHelp": "Gargaarsa appii",
+    "support": "Deeggarsa",
+    "legal": "Seera",
+    "sitePrivacy": "Iccitii marsariitii",
+    "appPrivacy": "Imaammata iccitii appii",
+    "privacyChoices": "Filannoowwan iccitii",
+    "terms": "Haalawwan fi hayyama appii",
+    "safety": "Nageenya fi fayyadama kaayyeffame",
+    "accessibility": "Ga’umsa argachuu",
+    "healthNotice": "Beeksisa odeeffannoo fayyaa",
+    "allLegal": "Odeeffannoo seeraa hundaa",
+    "note": "Golden Moments hojiiwwan salphaa waliin taasifaman gammachuuf dhiheessa. Gorsa fayyaa, qorannoo ykn yaalii miti; nama tokko illee hin adda baasu, hin safaru, qabxii hin kennu. Gaaffii fayyaa yoo qabaattan doktora haasofsiisaa. Yeroo hatattamaa lakkoofsa yeroo hatattamaa naannoo keessanii bilbilaa.",
+    "publisher": "Maxxansaa: Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Taphoota fi Hojiiwwan Dementia fi Alzheimer | Golden Moments",
+    "description": "Taphoota suuraa laafaa bilisaa onlaayinii fi yaada hojii nama dementia ykn Alzheimer wajjin jiraatuu fi kunuunsitootaaf. Galmaa’uu, sa’aatii fi qabxii male.",
+    "eyebrow": "Bilisaa · Beeksisa male · Galmaa’uu male · Sa’aatii fi qabxii male",
+    "h1": "Taphoota fi hojiiwwan laafaa nama dementia wajjin jiraatuuf",
+    "lede": "Taphoota suuraa salphaa, suuraawwan beekamoo fi hojiiwwan waliin itti gammadan, saffisa keessaniin.",
+    "playGame": "Taphaa tokko taphadhaa",
+    "findIdeas": "Yaada hojii barbaadaa",
+    "facts": [
+      "Bilbila, taabileetii fi kompiitara irratti hojjeta",
+      "Suuraawwan guguddaan ifatti turan",
+      "Yeroo kamiyyuu dhaabuu dandeessu; wanti ni dadhabamu hin jiru"
+    ],
+    "heroApp": "Akkasumas appii bilisaa iPhone, iPad fi Android irratti, suuraawwan maatii keessanii wajjin",
+    "albumNote": "“Suuraa kubbaayyaa lama, waliin.”",
+    "gamesEyebrow": "Biraawzara keessan keessatti taphadhaa",
+    "gamesTitle": "Taphoota amma taphachuu dandeessan",
+    "gamesLede": "Tokkoon tokkoon isaanii tasgabbaa’aa, kan guddaa taphatuuf ta’e, fi salphaatti jalqabamu. Tokko filadhaa, cinaa cinaa taa’aa, ergasii wal-simatanii tuqaa.",
+    "seeAllGames": "Taphoota {count} hunda ilaalaa",
+    "howTitle": "Akkamitti akka hojjetu",
+    "steps": [
+      {
+        "title": "Wanta beekamaa filadhaa",
+        "text": "Suuraawwan kubbaayyaa, iddoo biqiltuu, horii mana fi doonii. Dura dubbisuun ykn seera barachuun hin barbaachisu."
+      },
+      {
+        "title": "Cinaa cinaa taa’aa",
+        "text": "Isaan haa tuqan. Waa’ee suuraawwanii haasa’aa. Suuraan wal hin fakkaanne tuqaa itti aanutti eega."
+      },
+      {
+        "title": "Yeroo gaarii dha jedhamu dhaabaa",
+        "text": "Taphni tokko hojii guutuudha. ‘Ammaaf ga’eera’ yeroo hundumaa iskiriinii irra jira."
+      }
+    ],
+    "stageEyebrow": "Iskiriinii ala",
+    "stageTitle": "Yaada hojii sadarkaa hundaaf",
+    "stageLede": "Muuziqaa, hojiiwwan guyyaa guyyaa, yaadannoo fi yeroo calla’aa miiraa, wanta amma isin mijeessuun sirreeffame.",
+    "ideas101": "Yaada hojii 101",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Sadarkaa jalqabaa",
+        "text": "Wanta jaallatan gochuu itti fufaa, sirreeffama xiqqoo wajjin: hawwii, daawwannaa, taphoota jechaa fi waliin karoorfachuu.",
+        "label": "Yaada sadarkaa jalqabaa"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Sadarkaa giddugaleessaa",
+        "text": "Hojiiwwan salphaa fi beekamoo tarkaanfiidhaan qoodaman: maxxansuu, adda baasuu, muuziqaa, taphoota suuraa fi adeemsa gabaabaa.",
+        "label": "Yaada sadarkaa giddugaleessaa"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Sadarkaa boodaa",
+        "text": "Tuquu, sagalee fi ilaalchaan mijaa’uu fi walitti dhufuu: harka kunuunsuu, weedduu jaallatan, suuraawwan fi waliin ta’uu.",
+        "label": "Yaada sadarkaa boodaa"
+      }
+    ],
+    "specificHtml": "Wanta addaa barbaaddanii? Kana yaalaa: <a href=\"/activities/alzheimers/\">hojiiwwan fi taphoota Alzheimer</a>, <a href=\"/activities/memory-games/\">taphoota yaadannoo laafaa</a>, <a href=\"/activities/trivia/\">gaaffii salphaa</a> ykn <a href=\"/activities/puzzles/\">puzzle</a>.",
+    "approachEyebrow": "Haala hojii keenyaa",
+    "approachTitle": "Hojii waliin taasifamu, qorannoo yaadannoo miti",
+    "approachLede": "“Taphoonni sammuu” baay’een saffisa, qabxii fi walitti aansuu irratti ijaaraman. Nama dementia wajjin jiraatuuf kun qormaata fakkaachuu danda’a. Nuti kan faallaa isaa tolchine.",
+    "approachLink": "Maaliif akkasitti akka tolchinu",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Wanti dadhabamu hin jiru",
+        "text": "Sa’aatiin, qabxiin, jireenyi ykn mo’atamuun hin jiru. Suuraan adda ta’e boqonnaadha, dogoggora miti."
+      },
+      {
+        "icon": "eye",
+        "title": "Suuraawwan ifatti turu",
+        "text": "Beekuun yaadachuu caala. Wal-fakkeessuun ifatti jalqaba, kanaafuu wanti yaadatamu hin jiru."
+      },
+      {
+        "icon": "people",
+        "title": "Kan guddaa fi kabajamaa",
+        "text": "Jecha garaa laafaa fi salphaa, suuraawwan dhugaa. Kartuunii fi haasaa daa’imaa gonkumaa hin jiru."
+      },
+      {
+        "icon": "shield",
+        "title": "Iccitiidhaaf kan ijaarame",
+        "text": "Akkaawuntii ykn beeksisni hin jiru. Suuraawwan keessan meeshaa keessan hin dhiisan."
+      }
+    ],
+    "guidesEyebrow": "Kunuunsitootaaf",
+    "guidesTitle": "Qajeelfama hojii irra oolu kunuunsa guyyaa guyyaatiif",
+    "allCaregiving": "Qajeelfama kunuunsaa hunda",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Akkamitti waliin taphatan",
+        "text": "Qophii, saffisa, fi yeroo taphni gammachiisuu dhiisu wanta gochuu."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Yeroo hojii tokkoof ‘lakki’ jedhan",
+        "text": "Sababoota diduuf kennaman beekamoo, fi yeroo booda laafinaan irra deebi’uun yaaluu."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Taabileetii qopheessuu",
+        "text": "Barreeffama guddaa, hammeenya xiqqaa fi iskiriinii jalqabaa salphaa tokko."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Hojiiwwan maxxanfaman bilisaa",
+        "text": "Barbaacha jechaa barreeffama guddaa, fuulota halluu, bingoo fi kaartii haasaa."
+      }
+    ],
+    "researchTitle": "Fayyaa sammuu: qorannoon dhugumatti maal jedha",
+    "researchText": "Dementia ittisuun ni danda’amaa? Taphoonni sammuu ni gargaaru? Soomuu, nyaata, hirribaa fi dhaggeeffachuu hoo? Deebii salphaa, madda qabu, bakka ragaan laafu dabalatee.",
+    "researchLink": "Qajeelfama qorannoo dubbisaa",
+    "appEyebrow": "Akkasumas appii",
+    "appTitle": "Golden Moments iPhone, iPad fi Android irratti",
+    "appText": "Appiin bilisaa intarneetii male hojjeta; suuraawwan maatii isin filattan, koppii meeshaa keessan irratti eegamu, fayyadamuu danda’a. Qophiin tasgabbaa’aan tokkuma: kaartii guguddoo afur, sa’aatii male, qabxii male.",
+    "aboutApp": "Waa’ee appii",
+    "faq": [
+      {
+        "q": "Taphoonni nama dementia qabuuf gaarii kami?",
+        "a": "Taphoonni gaariin salphaa, beekamaa fi dhiibbaa male dha: suuraawwan guguddaa wal-fakkeessuu, adda baasuu, jigsaw salphaa, jechoota beekamoo xumuruu, halluu itti dabaluu, bingoo suuraa fi kaartii haasaa. Filannoon gaariin kan nama sanaa har’a gammachiisu dha. Sa’aatii, qabxii fi wanta qormaata fakkaatu irraa fagaadhaa."
+      },
+      {
+        "q": "Taphoonni dementia kun bilisaa dhaa?",
+        "a": "Eeyyee. Taphoonni fi maxxansaan Golden Moments hundi bilisaa dha; akkaawuntiin, galmaa’uun ykn buufachuun hin jiru. Taphoonni biraawzara marsariitii irratti bilbila, taabileetii ykn kompiitara irratti hojjetu."
+      },
+      {
+        "q": "Taphoonni sammuu dementia ni ittisuu?",
+        "a": "Taphni tokko illee dementia ittisuu isaa hin mul’isne, Golden Moments immoo wanta tokko yaaluu ykn ittisuu hin himatu. Taphoonni keenya gammachuu fi yeroo waliin dabarsuuf. Kutaan fayyaa sammuu keenya qorannoon wanta mul’isuu fi hin mul’isne ibsa."
+      },
+      {
+        "q": "Taphoonni kun nama Alzheimer qabuuf ni mijaa’uu?",
+        "a": "Eeyyee. Dhukkubni Alzheimer sababa dementia baay’ee beekamaa dha, taphoonnis isaaf tolfamaniiru: suuraawwan guguddaa ifatti turan, filannoo xiqqoo, fi wanti yaadatamu ykn dogoggorfamu hin jiru. Wal-fakkeessuun, adda baasuun fi jechoota beekamoo xumuruun beekumsa dheeraa irratti hirkata malee barachuu haaraa irratti miti."
+      },
+      {
+        "q": "Namni dementia sadarkaa boodaa qabu hojiiwwan kana fayyadamuu danda’aa?",
+        "a": "Yeroo baay’ee eeyyee, nama cinaa taa’u wajjin. Wal-fakkaatu argachuu suuraa lamaan, lamaan suuraa kaartii afuriin, fuula halluu ykn boqonnaa hafuura tasgabbaa’aatiin jalqabaa. Gabaabsaa, isaan hordofaa, yeroo gaheen dhaabaa."
+      },
+      {
+        "q": "Odeeffannoon koo iccitiidhaa?",
+        "a": "Marsariitiin kun akkaawuntii fi beeksisa hin qabu. Fuulonni eessa daawwatamu akka hubannuuf Google Analytics fayyadamna. Suuraawwan taphaa Lamaan suuraa maatii keessatti filattan biraawzara keessan keessatti qofa agarsiifamu, gonkumaa hin ol-fe’aman."
+      },
+      {
+        "q": "Golden Moments eenyutu hojjeta?",
+        "a": "Golden Moments gareen xiqqoo maatiiwwanii fi kunuunsitootaaf hojiiwwan suuraa tasgabbaa’aa fi kan guddaa webii irratti fi akka appii bilisaatti hojjetudha. Nuti ogeessa fayyaa miti; as keessatti wanti tokko illee gorsa fayyaa miti."
+      }
+    ]
+  },
+  "stage": {
+    "early": "jalqabaa",
+    "middle": "giddugaleessaa",
+    "late": "boodaa",
+    "hintOne": "Yeroo baay’ee sadarkaa {list} ni mijaa’a",
+    "hintMany": "Yeroo baay’ee sadarkaawwan {list} ni mijaa’u",
+    "labelEarly": "Sadarkaa jalqabaa",
+    "labelMiddle": "Sadarkaa giddugaleessaa",
+    "labelLate": "Sadarkaa boodaa"
+  },
+  "cards": {
+    "aboutGame": "Waa’ee taphaa kanaa",
+    "printable": "Maxxanfama",
+    "play": "{name} taphadhaa →",
+    "readGuide": "Qajeelfama dubbisaa"
+  },
+  "playCta": {
+    "title": "Taphaa laafaaf qophiidhaa?",
+    "text": "Suuraawwan guguddaa, sa’aatii male, qabxii male fi galmaa’uu male. Biraawzara keessan keessatti waliin taphadhaa.",
+    "play": "Taphaa tokko taphadhaa",
+    "all": "Taphoota hunda ilaalaa",
+    "aria": "Taphaa tokko taphadhaa"
+  },
+  "appCta": {
+    "title": "Taphoota kana isin wajjin fudhadhaa",
+    "text": "Appii Golden Moments bilisaa iPhone, iPad fi Android irratti: kaartii suuraa guguddoo, suuraawwan maatii keessanii wajjin taphoota, fi paakeejiiwwan suuraa Wi‑Fi male hojjetan. Akkaawuntii, beeksisa, sa’aatii ykn qabxii male.",
+    "appStore": "App Store irraa argadhaa",
+    "googlePlay": "Google Play irraa argadhaa",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Waa’ee appii",
+    "aria": "Appii argadhaa"
+  },
+  "sections": {
+    "activities": {
+      "label": "Hojiiwwan",
+      "title": "Hojiiwwan nama dementia wajjin jiraatuuf",
+      "seo": "Hojiiwwan nama dementia wajjin jiraatuuf: yaada sadarkaadhaan",
+      "description": "Yaada hojii nama dementia wajjin jiraatuuf sadarkaa hundaan: muuziqaa, yaadannoo, hojii guyyaa guyyaa, miira, hojii harkaa, alaa fi maxxansa bilisaa.",
+      "lede": "Hojiin ergama qabu wanta mijaa’uu, kaayyoo ykn yeroo walitti dhufeenyaa fidu hundaa dha. Wanta nama sun yeroo hunda jaallatu irraa jalqabaa, har’aaf sirreessaa."
+    },
+    "caregiving": {
+      "label": "Kunuunsa",
+      "title": "Qajeelfama kunuunsaa",
+      "seo": "Qajeelfama kunuunsa dementia: gargaarsa guyyaa guyyaa",
+      "description": "Qajeelfama salphaa kunuunsitoota dementiaaf: waliin taphachuu, wal-quunnamuu, diduu, jeequmsa galgalaa, taabileetii, appii filachuu fi of kunuunsuu.",
+      "lede": "Gargaarsa salphaa fi hojii irra oolu yeroo guyyaa guyyaa nama dementia wajjin jiraatu kunuunsuu, of kunuunsuu dabalatee."
+    },
+    "brain-health": {
+      "label": "Fayyaa sammuu",
+      "title": "Fayyaa sammuu: wanta qorannoon jedhu",
+      "seo": "Fayyaa sammuu fi balaa dementia: wanta qorannoon jedhu",
+      "description": "Dementia ittisuun ni danda’amaa? Qajeelfama dhugaa, madda qabu: wantoota balaa, taphoota sammuu, soomuu, nyaata, hirriba, dhaggeeffachuu fi mallattoo duraa.",
+      "lede": "Qorannoon bal’aan balaa dementia xiqqeessuu irratti dhugumatti maal akka mul’isu, salphaatti ibsame, bakka ragaan laafu ykn makaa ta’e dabalatee. Odeeffannoo waliigalaa, gorsa fayyaa miti."
+    }
+  },
+  "guide": {
+    "updated": "Haaromfame",
+    "minuteRead": "Daqiiqaa {n} dubbisuuf",
+    "byTeam": "Gareen Golden Moments barreesse",
+    "howWeWrite": "Akkamitti akka barreessinu",
+    "shortAnswer": "Deebii gabaabaa",
+    "onThisPage": "Fuula kana irratti (kutaa {n})",
+    "commonQuestions": "Gaaffiiwwan baay’ee gaafataman",
+    "sources": "Maddoota",
+    "sourcesNote": "Dhaabbilee fi qorannoowwan fuulli kun irratti hirkate liinkii kenneerra. Tokkoon tokkoon isaanii yeroo fuulli haaromfamu sakatta’ameera.",
+    "tryTogether": "Waliin yaalaa",
+    "relatedGuides": "Qajeelfama walitti dhiyaatan",
+    "related": "Walitti dhiyaatan",
+    "startHere": "Asii jalqabaa"
+  },
+  "healthNotice": {
+    "aria": "Beeksisa odeeffannoo fayyaa",
+    "title": "Odeeffannoo waliigalaa, gorsa fayyaa miti",
+    "textHtml": "Fuulli kun qorannoo maxxanfame maatiif cuunfa. Nama tokkoof wanti sirrii ta’e maal akka ta’e himuu hin danda’u. Nyaata, shaakala, hirriba, qoricha ykn dabalataa osoo hin jijjiiriin dura doktora haasofsiisaa. Yoo wal-hin-beekuun tasaa ykn jijjiirama tasaa biraa mudate, battaluma gargaarsa fayyaa barbaadaa. <a href=\"/medical-disclaimer/\">Beeksisa odeeffannoo fayyaa keenya dubbisaa</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Hojii waliin taasifamu, qorannoo yaadannoo miti",
+      "seoTitle": "Waa’ee Golden Moments: haala hojii keenyaa",
+      "description": "Maaliif taphoonni Golden Moments sa’aatii ykn qabxii hin qabne, maaliif suuraawwan ifatti turan, fi waa’ee dementia maal akka himnu fi hin himne.",
+      "crumb": "Haala hojii keenyaa",
+      "lede": "Golden Moments hojiiwwan suuraa tasgabbaa’aa fi kan guddaa kunuunsaa fi nama dementia wajjin jiraatu cinaa cinaa taa’anii itti gammadan tolcha.",
+      "bodyHtml": "<h2>Wanta amannu</h2><p>Hojiin kaayyoon isaa yeroo sana dha: haasaa, ililchaa, suuraa lama walitti fidanii gammachuu argachuu, ykn cinaa taa’uu qofa. Nama safaruu, caalaatti dhiibuu ykn wanta tokko mirkaneessuuf miti.</p><p>Appiiwwan sammuu leenjisuu baay’een saffisa, qabxii, walitti aansuu fi sadarkaa irratti ijaaraman. Nama dementia wajjin jiraatuuf kun qormaata darbuu hin dandeenye fakkaachuu danda’a. Nuti kan faallaa isaa tolchine, seerota kanaan of qabna:</p><ul><li><strong>Wanti dadhabamu hin jiru.</strong> Sa’aatiin, qabxiin, lakkoofsa sochii, jireenyi, walitti aansuun, confetti ykn lakkoofsi duubaa iskiriinii kamirrayyuu hin jiru.</li><li><strong>Beekuun yaadachuu caala.</strong> Suuraawwan durtii ifatti turu. Gaaffiin haasaa nama waamu malee maqaa ykn yaadannoo hin qoru.</li><li><strong>Guddaa, salphaa fi tasgabbaa’aa.</strong> Barreeffama fi suuraa guddaa, calaqqee cimaa, fi qabduun bakka tokko turu.</li><li><strong>Kabaja nama guddaa.</strong> Suuraawwan dhugaa fi jecha salphaa garaa laafaa. Kartuunii, galata sagalee-qabeessa ykn badhaasa emoji hin qabu.</li><li><strong>Karaa bahuuf salphaa.</strong> ‘Ammaaf ga’eera’ yeroo hundumaa mul’ata. Walakkaatti dhaabuun bu’aa gaarii dha.</li><li><strong>Iccitiidhaan.</strong> Akkaawuntii ykn beeksisa hin qabu. Suuraawwan isin filattan meeshaa keessan irra hafu.</li></ul><h2>Wanta hin himannee</h2><p>Taphoonni keenya gammachuu fi walitti dhufeenyaaf. Dementia ykn dhukkuba Alzheimer hin adda baasan, hin qoran, hin safaran, hin yaalan, hin suuta’isan, hin ittisan, namni tokko illee sababa kanaaf isaan filachuu hin qabu. Yeroo waa’ee qorannoo <a href=\"/brain-health/\">fuula fayyaa sammuu</a> keenya irratti barreessinu, bakka ragaan laafu ifatti himna, taphoota keenya wajjin illee hin walqabsiisnu.</p><h2>Nuti eenyu</h2><p>Golden Moments gareen of-danda’e xiqqoo dha. Nuti ogeessa fayyaa miti. Qajeelfamni keenya qajeelfama maxxanfame dhaabbilee akka National Institute on Aging fi Alzheimer’s Association irraa barreeffame, qajeelfamni hundi maddoota isaa tarreessa. <a href=\"/editorial-policy/\">Akkamitti fuula keenya akka barreessinu fi sakatta’inu</a> dubbisaa.</p><h2>Wanta isin gargaaru nutti himaa</h2><p>Wanti isin biratti hojjetu fi hin hojjenne, keessumaa nama dementia wajjin jiraatu, kunuunsitoota maatii fi hojjettoota hojii irraa, dhaga’uu jaallanna. Imeelii ergaa: <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Akkamitti fuula keenya barreessinee sakatta’aa",
+      "seoTitle": "Imaammata gulaaltummaa",
+      "description": "Akkamitti Golden Moments hojii dementia fi fuula fayyaa sammuu isaa qoratee, barreessee, madda kaa’ee haaromsu, fi wanta gonkumaa hin maxxansne.",
+      "crumb": "Imaammata gulaaltummaa",
+      "bodyHtml": "<h2>Maddoota keenya</h2><p>Qajeelfama keenya qajeelfama ifaa dhaabbilee akka National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance fi NHS irratti, akkasumas qorannoo gulaalame akka Cochrane reviews fi qorannoo kilinikaa bal’aa irratti hundeessina. Qajeelfamni hundi maddoota irratti hirkate tarreessa. Osoo hin caqasin madda hunda ni banna, wanta dhugumatti jedhu qofa ni gabaasna.</p><h2>Akkamitti akka barreessinu</h2><ul><li>Hojii irra oolu dursa: har’a wanta gochuu qabdan, afaan salphaadhaan.</li><li>Ragaa irratti amanamaa: yeroo dhugaa ta’e ‘wajjin wal-qabate’, ‘danda’a’ fi ‘ragaan makaa dha’ jenna.</li><li>Kabaja qabu: nama dementia wajjin jiraatu akka nama guddaa barreessina, afaan qoruu ykn salphisuu gonkumaa hin fayyadamnu.</li><li>Wanti tolfame hin jiru: lakkoofsa, jecha, ogeessa, qorannoo, yaada ykn ragaa tolfame hin qabu.</li></ul><h2>Eenyutu fuula keenya sakatta’a</h2><p>Fuulonni gareen Golden Moments barreessee sakatta’a, meeshaa barreeffamaa AI qorannoo fi tilmaamaaf fayyadamuun. Fuulli hundi maddoota isaa wajjin gareen keenya sakatta’ama. Fuulonni keenya doktora ykn ogeessa fayyaa biraan <strong>hin</strong> sakatta’amne, nuti kanaan ala hin himannu. Odeeffannoo waliigalaa dha, gorsa fayyaa miti.</p><h2>Wanta gonkumaa hin maxxansne</h2><ul><li>Taphni, nyaanni, dabalataan, soomni ykn adeemsi dementia ittisa, yaala, suuta’isa ykn fayyisa jedhu.</li><li>Qorannoo, kuusaa gaaffii ykn qabxii nama tokko dementia qaba ykn hin qabu jedhu.</li><li>Qoricha eegaluu, dhaabuu ykn jijjiiruuf gorsa.</li><li>Beeksisa ykn qabiyyee deeggarsa qabu akka qajeelfamaatti dhokate.</li></ul><h2>Haaromsaa fi sirreeffama</h2><p>Fuulli tokkoon tokkoon guyyaa yeroo dhumaa itti haaromfame agarsiisa. Yoo dogoggora ykn madda yeroon darbe argitan, maaloo <a href=\"mailto:{email}\">{email}</a> irratti nuuf barreessaa, nutis dafnee ni sakatta’na.</p>"
+    },
+    "faq": {
+      "title": "Gaaffiiwwan fi deebiiwwan",
+      "seoTitle": "Taphoota fi hojiiwwan dementia: gaaffii fi deebii",
+      "description": "Deebii gaaffiiwwan baay’ee gaafataman waa’ee taphoota fi hojiiwwan dementia: taphoota yaalamuu, yeroo hammam, yaada sadarkaa boodaa, fayyaa sammuu fi iccitii.",
+      "crumb": "Gaaffiiwwan fi deebiiwwan",
+      "lede": "Deebii gabaabaa fi salphaa gaaffiiwwan kunuunsitoonni baay’ee gaafatan.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Waa’ee taphootaa",
+          "items": [
+            {
+              "q": "Taphoonni nama dementia qabuuf isa gaarii kami?",
+              "a": "Taphoonni gaariin beekamoo, salphaa fi dhiibbaa male dha, isa sirrii immoo kan nama sanaa har’a gammachiisu dha. Suuraawwan ifatti turan wal-fakkeessuun, adda baasuun, jigsaw salphaan, jechoota beekamoo xumuruun, halluu itti dabaluun fi bingoo suuraan nama baay’eef gaariidha. Sa’aatii, qabxii fi wanta qormaata fakkaatu irraa fagaadhaa."
+            },
+            {
+              "q": "Taphoonni dhugumatti bilisaa dhaa?",
+              "a": "Eeyyee. Taphoonni fi maxxansni hundi bilisaa dha; akkaawuntii, galmaa’uu, buufachuu ykn beeksisa male."
+            },
+            {
+              "q": "Maaliif qabxiin, sadarkaan ykn sa’aatiin hin jiru?",
+              "a": "Saffisaa fi qabxiin hojii mi’aawaa qormaata godha, kunis qaaniisa ykn aarii fidu danda’a. Xiyyeeffannaa gammachuu fi yeroo waliin dabarsuu irratti kaa’na, kanaafuu wanti dadhabamu hin jiru, yeroo kamiyyuu dhaabuu dandeessu."
+            },
+            {
+              "q": "Meeshaan kami caalaa gaarii dha?",
+              "a": "Bilbila, taabileetii ykn kompiitara biraawzara ammayyaa qabu kamiyyuu. Taabileetii dhaabbataa gabatee irratti kaa’amee yeroo baay’ee nama lamaaf cinaa cinaa taphachuuf karaa mijataa dha. Laaptoppii TV wajjin walqabate garee tokkoof gaarii dha."
+            },
+            {
+              "q": "Suuraawwan maatii keenyaan taphachuu dandeenyaa?",
+              "a": "Eeyyee. Lamaan suuraa maatii suuraawwan 2 hanga 6 isin filattan taphaa wal-fakkeessuu godha. Suuraawwan biraawzara keessan keessa turu, hin ol-fe’aman ykn hin olkaa’aman."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Hojiiwwan fi kunuunsa",
+          "items": [
+            {
+              "q": "Hojiin hammam turuu qaba?",
+              "a": "Yeroo baay’ee daqiiqaa 10 hanga 20 ga’a, yeroo tokko tokko daqiiqaan 2 milkaa’ina dha. Mallattoo dadhabbii ykn aarii eegaa, yeroo gaarii dha jedhamu dhaabaa. Hammi sirriin hin jiru."
+            },
+            {
+              "q": "Yoo hojii hin barbaadne hoo?",
+              "a": "‘Lakki’ jedhu kabajaa, booda ykn karaa biraatiin irra deebi’aa yaalaa. Diduun dadhabbii, dhukkubbii, mirkaneeffachuu dhabuu ykn hin fedhii qabaachuu irraa dhufuu danda’a. Qajeelfama keenya yeroo ‘lakki’ jedhan ilaalaa."
+            },
+            {
+              "q": "Hojiiwwan dementia sadarkaa boodaaf mijatan kami?",
+              "a": "Mijaa’inaa fi miira: muuziqaa jaallatan dhaggeeffachuu, kirimii wajjin harka sukkaasuu, suuraawwan waliin ilaaluu, huccuu laafaa qabachuu, alaa taa’uu, ykn taphaa suuraa salphaa nama cinaa taa’u wajjin. Qajeelfamni sadarkaa boodaa keenya yaada hedduu qaba."
+            },
+            {
+              "q": "Garee manneen kunuunsaa keessatti hojiiwwan jiruu?",
+              "a": "Eeyyee. Bingoon suuraa kaartii maxxanfamu fi waamaa iskiriinii irra jiru qaba, ‘Jecha xumuruu’ fi kaartiin haasaa sagalee ol-kaasuun dubbisuuf gaarii dha. Qajeelfamni garee manneen kunuunsaa keenya baay’ina garee, teessuma fi bu’aa wal-hin-fakkaannee sirreessuu ibsa."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Fayyaa sammuu",
+          "items": [
+            {
+              "q": "Taphoonni dementia ni ittisuu ykn suuta’isuu?",
+              "a": "Taphni tokko illee dementia ittisuu isaa hin mul’isne, taphoonni keenyas akkasitti hin himatan. Kakaasuun yaadaa haala hawaasummaa keessatti nama dementia laafaa hanga giddugaleessaa qabuuf qorannoo keessatti bu’aa xiqqaa agarsiiseera, garuu kun taphni dhukkuba ittisuu irraa adda dha. Taphoota gammachuu fi walitti dhufeenyaaf dhiheessina."
+            },
+            {
+              "q": "Dementia ittisuun ni danda’amaa?",
+              "a": "Mirkaneessuu hin dandeenyu. Qorannoon wantoota fayyaa fi akkaataa jireenyaa 14 balaa dementia wajjin walqabsiisa, fakkeenyaaf dhaggeeffachuu dhabuu, dhiibbaa dhiigaa ol’aanaa, sochii dhabuu fi kophummaa hawaasaa. Isaan sirreessuun nama tokko tokkoof balaa xiqqeessuu danda’a, garuu namoonni baay’een hundumaa sirriitti hojjetan illee dementia qabaachuu danda’u. Dogoggora nama kamiiyyuu gonkumaa miti."
+            },
+            {
+              "q": "Soomuun yeroo yeroon fayyaa sammuuf gaarii dhaa?",
+              "a": "Ragaan namootaa muraasaa fi jalqabaa dha, qorannoon baay’een bineensota irratti. Soomuun nama jaarsaaf, keessumaa qoricha sukkaaraa wajjin ykn yeroo ulfaatinni fedhii male hir’atu, balaa qabaachuu danda’a, nama dementia wajjin jiraatuufis hin gorfamu. Akkaataa nyaattan osoo hin jijjiiriin dura doktora haasofsiisaa."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Iccitii fi nageenya",
+          "items": [
+            {
+              "q": "Odeeffannoo wal ittiin walitti qabdaa?",
+              "a": "Akkaawuntii ykn beeksisa hin qabnu. Daawwannaa lakkaa’uu fi fuulonni maal akka gargaaran argachuuf Google Analytics fayyadamna, biraawzarri keessanis sagalee laafaa akka banattan yaadata. Suuraawwan taphaa Lamaan suuraa maatii keessatti filattan gonkumaa hin ol-fe’aman. Odeeffannoo guutuuf beeksisa iccitii ilaalaa."
+            },
+            {
+              "q": "Kun gorsa fayyaadhaa?",
+              "a": "Lakki. Golden Moments gammachuu fi odeeffannoo waliigalaaf. Gaaffii fayyaaf doktora haasofsiisaa, yeroo hatattamaa immoo lakkoofsa yeroo hatattamaa naannoo keessanii bilbilaa."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Odeeffannoo dabalataa: <a href=\"/caregiving/how-to-play-together/\">akkamitti waliin taphatan</a>, <a href=\"/caregiving/when-they-say-no/\">yeroo ‘lakki’ jedhan</a>, <a href=\"/activities/late-stage/\">hojiiwwan sadarkaa boodaa</a> fi <a href=\"/brain-health/can-dementia-be-prevented/\">dementia ittisuun ni danda’amaa?</a>"
+    },
+    "handout": {
+      "title": "Taphoota laafaa bilisaa nama dementia wajjin jiraatuuf",
+      "seoTitle": "Maxxansa fuula tokko: taphoota dementia bilisaa onlaayinii",
+      "description": "Maxxansa fuula tokkoo maatii fi kunuunsitootaaf waa’ee taphoota suuraa laafaa bilisaa nama dementia wajjin jiraatuuf, garee deeggarsaa fi xaaxaa kunuunsaaf.",
+      "crumb": "Maxxansa fuula tokko",
+      "lede": "Fuula kana garee deeggarsaa, xaaxaa kunuunsaa ykn balbala qaboo irratti maxxansaa. Ajaja Print biraawzara keessanii fayyadamaa; menyuun fi qabduun maxxansa irraa ba’a.",
+      "introHtml": "<p>Suuraawwan guguddaa, jecha salphaa fi wanti dadhabamu hin jiru. Bilbila, taabileetii ykn kompiitara irratti bilisaa, galmaa’uu, beeksisa, sa’aatii fi qabxii male. Cinaa cinaa taa’aa, wal-simatanii taphadhaa.</p>",
+      "gamesTitle": "Waliin yaalaman taphoota",
+      "restHtml": "<h2>Gorsa muraasa</h2><ul><li>Yeroo guyyaa nama sun itti gaarii ta’u filadhaa.</li><li>Qindaa’ina salphaa irraa jalqabaa. Kaartii afur ga’a.</li><li>Waa’ee suuraawwanii haasa’aa. Haasaan yeroo baay’ee kutaa gaarii dha.</li><li>Yeroo gaarii dha jedhamu dhaabaa. Dafanii xumuruun bu’aa gaarii dha.</li></ul><h2>Akkasumas marsariitii irratti</h2><ul><li>Maxxansa bilisaa: barbaacha jechaa barreeffama guddaa, fuulota halluu, kaartii haasaa fi bingoo suuraa.</li><li>Yaada hojii sadarkaa hundaaf, fi qajeelfama waliin taphachuu fi of kunuunsuu irratti.</li></ul><p class=\"muted\">Gammachuu fi yeroo waliin dabarsuuf. Gorsa fayyaa, qorannoo ykn yaalii miti. Golden Moments Cloudjet Solutions Pte. Ltd. tiin maxxanfameera.</p>"
+    },
+    "organizations": {
+      "title": "Manneen kunuunsaa, mana kitaabaa fi garee deeggarsaaf",
+      "seoTitle": "Hojiiwwan dementia bilisaa manneen kunuunsaa fi gareeleef",
+      "description": "Akkamitti manneen kunuunsaa, mana kitaabaa fi garee deeggarsaa taphoota dementia bilisaa fayyadamu, fi barreeffama tarreeffama maddootaa keessatti nu dabaluuf.",
+      "crumb": "Dhaabbilootaaf",
+      "lede": "Wanti marsariitii kana irra jiru hundi jiraattota, miseensota fi maamiltoota wajjin fayyadamuuf bilisaa dha; akkaawuntii, hayyama ykn kaffaltii male. Fuulli kun wanta as jiru fi akkamitti akka qoodan ibsa.",
+      "shortText": "{name}: taphoota suuraa laafaa bilisaa fi qajeelfama hojii nama dementia wajjin jiraatuu fi kunuunsitootaaf. Galmaa’uu, sa’aatii fi qabxii male.",
+      "longText": "{name} ({domain}) taphoota biraawzara bilisaa {count} nama dementia wajjin jiraatuuf tolfaman dhiheessa, lamaan suuraa ifatti turan, jigsaw salphaa, adda baasuu, jechoota beekamoo fi bingoo suuraa kaartii maxxanfamu wajjin dabalatee. Akkaawuntii, beeksisa, sa’aatii ykn qabxii hin qabu. Marsariitiin kun akkasumas qajeelfama hojii afaan salphaa sadarkaa dementia hundaaf kan National Institute on Aging fi Alzheimer’s Association caqasu qaba.",
+      "useTitle": "Wanta dhaabbileen fayyadamuu danda’an",
+      "gamesItemHtml": "<strong>Taphoota biraawzara {count}</strong> laaptoppii, taabileetii ykn TV kompiitara wajjin walqabate irratti hojjetan. Galchuu, akkaawuntii ykn buufachuu male. <a href=\"/games/\">Taphoota hunda</a> ilaalaa.",
+      "printablesLabel": "Maxxansa {count}:",
+      "printablesAfter": "Fuula tokkoon tokkoon irratti batanii Print fayyadamaa.",
+      "moreItemsHtml": "<li><strong>Bifa garee:</strong> <a href=\"/games/picture-bingo/\">Bingoon suuraa</a> kaartii maxxanfamu fi waamaa iskiriinii irra jiru qaba, <a href=\"/activities/trivia/\">gaaffiin salphaan</a> immoo gaaffii 50 filannoo deebii fi wantoota haasa’amuu qaba.</li><li><strong>Qajeelfama hojii</strong> hojjettootaa fi maatiif, sadarkaa fi gosaan, afaan salphaadhaan madda wajjin barreeffame. <a href=\"/activities/ideas/\">Yaada hojii 101</a> ykn <a href=\"/activities/care-home-groups/\">hojiiwwan garee manneen kunuunsaa</a> irraa jalqabaa.</li>",
+      "restHtml": "<h2>Akkamitti gareen fayyadamu</h2><ul><li><strong>Manneen kunuunsaa:</strong> bingoo suuraa ykn jecha xumuruu TV kutaa waliinii irratti, nama tokko garee isaaf tuqu wajjin.</li><li><strong>Sagantaa guyyaa jaarsolii:</strong> iddoo taabileetii Lamaan suuraa kaartii afurin qindaa’e wajjin, yeroo gabaabaa nama tokkoo-nama tokkoo wajjin.</li><li><strong>Manneen kitaabaa:</strong> barbaacha jechaa fi kaartii haasaa maxxanfame kuusaa kunuunsaa keessatti, marsariitiin taabileetii mana kitaabaa irratti kaa’ame.</li><li><strong>Garee deeggarsa kunuunsitootaa:</strong> <a href=\"/handout/\">maxxansa fuula tokkoo</a> maatiin mana fudhatan.</li><li><strong>Hospitaalota:</strong> maxxansa xaaxaa kunuunsitootaa keessatti, mana ykn cinaa siree irratti wanta tasgabbaa’aa gochuuf.</li></ul><h2>Wanta hin goonu</h2><p>Taphoonni gammachuu fi yeroo waliin dabarsuuf. Dementia hin adda baasan, hin qoran, qabxii hin kennan, hin yaalan ykn suuta’isan, dhaabbileen akkasitti akka hin ibsine nu gaafanna. Beeksisni hin jiru, taphoonnis maqaa, ibsa fayyaa ykn suuraa ol-fe’uu hin gaafatan. Marsariitiin Google Analytics daawwannaa lakkaa’uuf fayyadama; <a href=\"/privacy/\">beeksisni iccitii keenya</a> wanta walitti qabu ibsa. Suuraawwan <a href=\"/games/photo-pairs/\">Lamaan suuraa maatii</a> keessatti fayyadaman biraawzara keessa turu.</p><h2>Tarreeffama maddoota keessanitti nu dabalaa</h2><p>Yoo tarreeffama maddoota kunuunsitootaaf qabaattan, <a href=\"/\">{domain}</a> wajjin liinkii godhuu ni dandeessu. Ibsa lamaan keessaa isa tokko koppii godhuu dandeessu.</p>",
+      "shortTitle": "Ibsa gabaabaa",
+      "longTitle": "Ibsa dheeraa",
+      "linksHtml": "<p>Fuulota kallattiin liinkii itti kennuun gaarii: <a href=\"/games/\">taphoota bilisaa</a>, <a href=\"/activities/printable/\">maxxansa bilisaa</a>, <a href=\"/activities/alzheimers/\">hojiiwwan Alzheimer</a> fi <a href=\"/caregiving/how-to-play-together/\">akkamitti waliin taphatan</a>.</p><h2>Gaaffii ykn sirreeffama</h2><p>Yoo wanti marsariitii irra jiru dogoggora ykn ifa hin taane, ykn fedhii jiraataa tokkoo as jiruun hin guutamne, <a href=\"mailto:{email}\">{email}</a> irratti nutti himaa. Maaloo odeeffannoo dhuunfaa ykn fayyaa jiraattotaa ykn maamiltootaa hin ergiinaa.</p>"
+    },
+    "app": {
+      "title": "Appii Golden Moments",
+      "seoTitle": "Appii Golden Moments iPhone fi Android irratti",
+      "description": "Appii Golden Moments bilisaa: suuraa wal-fakkeessuu laafaa kaartii guguddoo afuriin, suuraawwan maatii meeshaa irra turan, intarneetii male, akkaawuntii male.",
+      "crumb": "Appii",
+      "lede": "Wanta marsariitii irraa jaallattan hundi, appii intarneetii male hojjetu fi suuraawwan maatii isin filattan fayyadamuu danda’u keessatti.",
+      "worksOn": "{platforms} irratti hojjeta ({requirements}).",
+      "bodyHtml": "<h2>Xiqqaan jalqabaa</h2><p>Kaartii guguddoo afur fi suuraawwan beekamoo irraa jalqabaa. Suuraawwan ifatti turuu ni dandeessu, yoo mijaa’e immoo dhoksuu dandeessu. Haalli laafaan sa’aatii, qabxii ykn adabbii hin qabu. Kaartii 4, 6, 8 ykn 12 filadhaa.</p><h2>Dhuunfaa godhaa</h2><p>Filannoo suuraa meeshaa keessanii fayyadamuun suuraawwan maatii filadhaa. Appiin koppii xixiqqoo hojiiwwan isaatiif olkaa’a. Kuusaa suuraa keessanii hin sakatta’u, suuraawwan jalqabaa keessanis hin jijjiiru, walitti qabama tokko keessatti suuraa hanga 24 eega.</p><h2>Waliin ilaalaa qofa</h2><p>Suuraa tokko yeroo tokkotti ilaalaa. Gaaffiiwwan filannoo namni maqaa yaadatu ykn deebii sirrii kennu osoo hin gaafatin haasaa jalqabsiisu. Ilaaluu qofti ga’a.</p><h2>Bakka barbaachisaa jirutti intarneetii male</h2><p>Suuraawwan jalqabaa fi paakeejiiwwan suuraa saddeettan hundi appii wajjin dhufu. Koppiiwwan suuraa galchaman intarneetii male hojjetu. Suuraawwan jalqabaa iCloud qofa irratti jiran filachuuf walitti hidhamuun barbaachisuu danda’a.</p><h2>Akkaawuntii male, sarvarii suuraa male</h2><p>Koppiiwwan suuraa maatii meeshaa irratti appii keessa turu. Suuraawwan jalqabaa osoo hin haqin koppiiwwan baasuu dandeessu. Kuusaan dabalataa meeshaa daataa appii hammachuu danda’a. <a href=\"/app-privacy/\">Imaammata iccitii appii</a> dubbisaa, <a href=\"/help/\">gargaarsi appii</a> tarkaanfii hunda isin geessa.</p>",
+      "disclaimer": "Golden Moments gammachuu fi haasaa waliin taasifamuuf. Dhukkuba dementia ykn Alzheimer adda hin baasu, hin yaalu, hin ittisu, hin safaru.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Taphoota Dementia fi Alzheimer bilisaa onlaayinii",
+    "description": "Taphoota onlaayinii bilisaa jaarsolii dementia ykn Alzheimer wajjin jiraatuuf: suuraa wal-fakkeessuu, jigsaw, adda baasuu, halluu, bingoo. Sa’aatii male.",
+    "crumb": "Taphoota",
+    "h1": "Taphoota laafaa nama dementia wajjin jiraatuuf",
+    "lede": "Taphoota bilisaa {count} biraawzara keessan keessatti waliin taphachuuf. Suuraawwan guguddaa, jecha salphaa, fi wanti dadhabamu hin jiru: sa’aatii, qabxii, galmaa’uu male.",
+    "listName": "Taphoota laafaa nama dementia wajjin jiraatuuf",
+    "byStageTitle": "Sadarkaadhaan taphaa filachuu",
+    "byStageLede": "Sadarkaawwan qajeelfama ulfaataa qofa. Wanta nama sun jaallatu fi har’a isa mijeessu hordofaa.",
+    "stageCol": "Sadarkaa",
+    "gamesCol": "Taphoota yeroo baay’ee mijatan",
+    "moreHtml": "Yaada biraa iskiriinii ala: <a href=\"/activities/ideas/\">hojiiwwan 101 nama dementia wajjin jiraatuuf</a>, <a href=\"/activities/alzheimers/\">hojiiwwan fi taphoota Alzheimer</a>, <a href=\"/activities/memory-games/\">taphoota yaadannoo laafaa</a> fi <a href=\"/activities/puzzles/\">puzzle</a>.",
+    "faq": [
+      {
+        "q": "Taphaa kam irraa jalqabna?",
+        "a": "Lamaan suuraa kaartii afuriin filannoo tasgabbaa’aa jalqabaati. Yoo suuraawwan gidduu filachuun ulfaate, Wal-fakkaatu argachuu suuraa lamaan yaalaa. Garee tokkoof Bingoo suuraa yaalaa."
+      },
+      {
+        "q": "Taphoonni iPad ykn bilbila irratti hojjetuu?",
+        "a": "Eeyyee. Taphni hundi biraawzara keessatti bilbila, taabileetii fi kompiitara irratti hojjeta, suuraawwanis iskiriinii guutuuf guddatu. Taabileetii dhaabbataa yeroo baay’ee nama lamaaf mijataadha."
+      },
+      {
+        "q": "Taphoonni kun nama Alzheimer qabuuf gaarii dhaa?",
+        "a": "Eeyyee. Namoota dementia, Alzheimer, sababa baay’ee beekamaa dabalatee, wajjin jiraatan tolfamaniiru. Suuraawwan ifatti turu, filannoon muraasa qofa, wanti sa’aatiin ykn qabxiin hin jiru, kanaafuu taphoonni wanta beekamaa beekuu irratti malee wanta haaraa yaadachuu irratti hin hirkatan."
+      },
+      {
+        "q": "Kun taphoota yaadannoo jaarsolii dha?",
+        "a": "Taphoota wal-fakkeessuu fi suuraa nama guddaa kamiyyuu itti gammaduu danda’u, garuu yaadannoo hin qoru: Lamaan suuraa keessatti suuraawwan yoo kan biraa hin filatin ifatti turu. Qajeelfamni taphoota yaadannoo jaarsolii dementia qabaniif akkamitti taphoota yaadannoo kamiyyuu laafaa gochuu akka dandeessan ibsa."
+      },
+      {
+        "q": "Garee manneen kunuunsaa keessatti taphoonni jiruu?",
+        "a": "Eeyyee. Bingoon suuraa kaartii maxxanfamu fi waamaa iskiriinii irra jiru qaba, Jecha xumuruu fi Kaartiin haasaa garee tokkoof sagalee ol-kaasuun dubbisuuf gaarii dha."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad fi Android",
+    "requirements": "iOS 15 ykn isaa ol; Android 7.0 ykn isaa ol",
+    "summary": "Appii bilisaa iPhone, iPad fi Android irratti suuraa wal-fakkeessuu laafaa kaartii guguddoo afurii hanga kudha lamaa irratti, suuraawwan maatii isin filattan wajjin wal-fakkeessuu fi ilaaluu, fi paakeejiiwwan suuraa saddeet intarneetii male hojjetan. Akkaawuntii, beeksisa, sa’aatii ykn qabxii male.",
+    "features": [
+      "Suuraa wal-fakkeessuu laafaa kaartii guguddoo 4, 6, 8 ykn 12 wajjin; suuraawwan ifatti turu yoo dhoksuu hin filanne",
+      "Suuraawwan maatii isin filattan wal-fakkeessuu fi waliin ilaaluuf appii keessatti koppii ta’u",
+      "Waliin ilaalaa: suuraa tokko yeroo tokkotti gaaffii haasaa filannoo wajjin",
+      "Paakeejiiwwan suuraa saddeet appii wajjin dhufu; intarneetii male hojjetu",
+      "Akkaawuntii, beeksisa, bittaa appii keessaa, sa’aatii, qabxii ykn adabbii male"
+    ],
+    "faq": [
+      {
+        "q": "Appiin hojiiwwan dementia jiraa?",
+        "a": "Eeyyee. Golden Moments (\"{storeName}\" jedhamee tarreeffame) App Store fi Google Play irratti bilisaa dha. Suuraa wal-fakkeessuu laafaa kaartii guguddaa wajjin, suuraawwan maatii isin filattan wajjin taphoota, fi paakeejiiwwan suuraa intarneetii male hojjetan dhiheessa."
+      },
+      {
+        "q": "Appiin Golden Moments bilisaa dhaa?",
+        "a": "Eeyyee. Buufachuuf bilisaa dha; beeksisa, akkaawuntii ykn bittaa appii keessaa male."
+      },
+      {
+        "q": "Appiin intarneetii male hojjetaa?",
+        "a": "Eeyyee. Suuraawwan jalqabaa fi paakeejiiwwan suuraa saddeettan hundi appii wajjin dhufu, suuraawwan maatiis erga appii keessatti koppii ta’anii booda intarneetii male hojjetu. Suuraa iCloud qofa irra jiru filachuuf walitti hidhamuun barbaachisuu danda’a."
+      },
+      {
+        "q": "Suuraawwan maatii keenya fayyadamuu dandeenyaa?",
+        "a": "Eeyyee. Filannoo suuraa meeshaa keessanii fayyadamuun suuraawwan filadhaa. Appiin koppii xixiqqoo hojiiwwan isaatiif meeshaa irratti eega, hin ol-fe’u, suuraawwan jalqabaas gonkumaa hin jijjiiru. Yeroo kamiyyuu koppiiwwan baasuu dandeessu."
+      },
+      {
+        "q": "Appii sammuu leenjisuu ykn qorannoo yaadannoo dhaa?",
+        "a": "Lakki. Golden Moments gammachuu fi yeroo waliin dabarsuuf. Qabxii ykn qorannoo hin qabu, dhukkuba dementia ykn Alzheimer adda hin baasu, hin yaalu, hin ittisu, hin safaru."
+      },
+      {
+        "q": "Meeshaalee kam irratti hojjeta?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Taphni kun gosa appii qabaa?",
+      "a": "Eeyyee. Appiin Golden Moments bilisaa iPhone, iPad fi Android irratti suuraa wal-fakkeessuu laafaa tokkuma qaba, suuraawwan maatii isin filattan fayyadamuu danda’a, intarneetii male hojjeta. Akkaawuntii, beeksisa ykn qabxii male."
+    },
+    "gameFaqNo": {
+      "q": "Taphni kun gosa appii qabaa?",
+      "a": "Taphni kun hin qabu. Appiin Golden Moments bilisaa iPhone, iPad fi Android irratti suuraa wal-fakkeessuu laafaa kaartii guguddaa fi suuraawwan maatii isin filattan wajjin qaba, intarneetii male hojjeta. Taphni kun asitti biraawzara keessan keessatti bilisaa ta’ee jira."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: suuraawwan guguddaa fi garaa laafoo",
+    "noscript": "Taphni kun JavaScript biraawzara keessan keessatti banamuu barbaada. Gorsi gadii isa male hojjeta.",
+    "about": "Waa’ee {name}",
+    "aboutAria": "Waa’ee taphaa kanaa",
+    "noTimer": "Sa’aatii ykn qabxii male",
+    "printable": "Maxxanfama",
+    "howTo": "{name} akkamitti akka taphatan",
+    "tips": "Gorsa waliin taphachuuf",
+    "newToPlayingHtml": "Nama dementia qabu wajjin taphachuun haaraa isinii? <a href=\"/caregiving/how-to-play-together/\">akkamitti waliin taphatan</a> dubbisaa, yoo fedhii dhabe wanta gochuu dabalatee.",
+    "moreAria": "Dabalataan qorachuuf",
+    "helpfulGuides": "Qajeelfama gargaaran",
+    "appTitle": "Appii keessatti taphadhaa",
+    "appText": "Appiin Golden Moments bilisaa suuraa wal-fakkeessuu laafaa kaartii guguddaa fi suuraawwan maatii keessanii wajjin qaba, Wi‑Fi male hojjeta. iPhone, iPad fi Android.",
+    "photoAppTitle": "Suuraawwan keessan qophaa’aa godhaa",
+    "photoAppText": "Appii Golden Moments bilisaa keessatti suuraawwan isin filattan yeroo itti aanuuf meeshaa keessan irra turu, taphoonnis Wi‑Fi male hojjetu. iPhone, iPad fi Android.",
+    "goodToKnow": "Beekuun gaarii",
+    "goodToKnowText": "Taphni kun gammachuu fi yeroo waliin dabarsuuf. Wanta tokko illee hin qoru, hin safaru, hin yaalu.",
+    "moreGames": "Taphoota laafaa dabalataa",
+    "crumb": "Taphoota"
+  }
+}

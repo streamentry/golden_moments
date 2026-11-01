@@ -1,0 +1,534 @@
+{
+  "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
+  "common": {
+    "skipLink": "U gudub qaybta ugu muhiimsan",
+    "brandName": "Golden Moments",
+    "brandTag": "Waxqabadyo dementia",
+    "homeLabel": "Bogga hore ee Golden Moments",
+    "mainNav": "Hoggaamiyaha ugu muhiimsan",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: sawirro waaweyn oo saaxiibtinimo leh oo koob shaah, ubax qorrax iyo eey ah",
+    "languages": "Luqadda",
+    "englishOnly": "(Ingiriisi)",
+    "machineTranslated": "Boggan waxaa lagu tarjumay si otomaatig ah, weli qof afkan hooyo ku hadla ma hubin.",
+    "readOriginal": "Akhri qoraalka asalka ah ee Ingiriisiga",
+    "nav": {
+      "games": "Ciyaaro",
+      "activities": "Waxqabadyo",
+      "caregiving": "Daryeelka",
+      "brainHealth": "Caafimaadka maskaxda"
+    },
+    "faqTitle": "Su’aalo iyo jawaabo",
+    "breadcrumb": "Jidka bogga",
+    "home": "Bogga hore",
+    "lastUpdated": "Markii ugu dambeysay la cusboonaysiiyay",
+    "topics": "Mawduucyo"
+  },
+  "footer": {
+    "play": "Ciyaar",
+    "picturePairs": "Lammaanaha sawirrada",
+    "conversationCards": "Kaararka wadahadalka",
+    "pictureBingo": "Bingo sawir",
+    "allGames": "Dhammaan ciyaaraha",
+    "activityIdeas": "Fikrado waxqabad",
+    "ideas101": "101 fikrad oo waxqabad",
+    "lateStage": "Waxqabadyada marxaladda dambe",
+    "printable": "Waxqabadyo la daabaci karo",
+    "allActivities": "Dhammaan waxqabadyada",
+    "forCaregivers": "Daryeelayaasha",
+    "playTogether": "Sida loo wada ciyaaro",
+    "selfCare": "Naftaada daryeel",
+    "brainHealth": "Cilmi-baarista caafimaadka maskaxda",
+    "faq": "Su’aalo iyo jawaabo",
+    "about": "Ku saabsan",
+    "approach": "Hannaankeena",
+    "howWeWrite": "Sida aan u qorno",
+    "organizations": "Hay’adaha",
+    "app": "App-ka Golden Moments",
+    "appHelp": "Caawimaadda app-ka",
+    "support": "Caawimaad",
+    "legal": "Sharci",
+    "sitePrivacy": "Asturnaanta degelka",
+    "appPrivacy": "Siyaasadda asturnaanta ee app-ka",
+    "privacyChoices": "Doorashooyinka asturnaanta",
+    "terms": "Shuruudaha iyo shatiga app-ka",
+    "safety": "Badbaado iyo isticmaalka loogu talagalay",
+    "accessibility": "Fududaynta helitaanka",
+    "healthNotice": "Ogaysiiska macluumaadka caafimaadka",
+    "allLegal": "Dhammaan macluumaadka sharciga",
+    "note": "Golden Moments waxay bixisaa waxqabadyo fudud oo wada lagu raaxaysto. Ma aha talo caafimaad, imtixaan ama daaweyn, mana baarto, mana cabbirto, mana dhibco siiso qofna. Su’aalaha caafimaadka, la hadal dhakhtar. Xaalad degdeg ah, wac lambarka gurmadka degdegga ah ee gobolkaaga.",
+    "publisher": "Waxaa daabacay Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Ciyaaro & Waxqabadyo Dementia, Alzheimer | Golden Moments",
+    "description": "Ciyaaro sawir oo deggan oo bilaash ah iyo fikrado waxqabad loogu talagalay dadka ku nool dementia iyo daryeelayaashooda. Saacad iyo dhibco ma jiraan.",
+    "eyebrow": "Bilaash · Xayeysiis la’aan · Diiwaan gelin la’aan · Saacad ama dhibco la’aan",
+    "h1": "Ciyaaro iyo Waxqabadyo Deggan oo loogu talagalay Dadka ku nool Dementia",
+    "lede": "Ciyaaro sawir oo fudud, sawirro la yaqaan, iyo waxqabadyo wada lagu raaxaysto, xawaarahaaga.",
+    "playGame": "Bilow ciyaar",
+    "findIdeas": "Hel fikrado waxqabad",
+    "facts": [
+      "Wuxuu ka shaqeeyaa taleefan, taablad iyo kombuyuutar",
+      "Sawirro waaweyn oo ay wada muuqdaan",
+      "Joojiso mar kasta; wax lagu guuldaraysto ma jiro"
+    ],
+    "heroApp": "Sidoo kale app bilaash ah oo loogu talagalay iPhone, iPad iyo Android, oo leh sawirradaada qoys",
+    "albumNote": "“Laba sawir oo koob shaah ah, wada jira.”",
+    "gamesEyebrow": "Ku ciyaar biraawsarkaaga",
+    "gamesTitle": "Ciyaaro aad hadda ciyaari kartid",
+    "gamesLede": "Mid kasta waa deggan yahay, qof weyn ayuu u habboon yahay, wuuna fudud yahay in la bilaabo. Dooro mid, dhinac dhinac u fadhiiso, oo isu beddela taabashada.",
+    "seeAllGames": "Arag dhammaan {count} ciyaar",
+    "howTitle": "Sida ay u shaqeyso",
+    "steps": [
+      {
+        "title": "Dooro wax la yaqaan",
+        "text": "Sawirro koob shaah, beero, xayawaan guri iyo doonyo shiraac. Waxba lama akhriyo, sharciyo horey loogu barto ma jiraan."
+      },
+      {
+        "title": "Dhinac dhinac u fadhiiso",
+        "text": "Ha taabto. Ka wada hadla sawirrada. Sawir aan isku mid ahayn wuxuu sugayaa taabashada xigta."
+      },
+      {
+        "title": "Joogso inta ay wanaagsan tahay",
+        "text": "Hal ciyaar waa waxqabad dhammaystiran. “Hadda waan joojinayaa” had iyo jeer waa shaashadda."
+      }
+    ],
+    "stageEyebrow": "Shaashadda ka baxsan",
+    "stageTitle": "Fikrado waxqabad oo loogu talagalay marxalad kasta",
+    "stageLede": "Muusiko, hawlaha maalinlaha ah, xusuusta waayihii hore iyo daqiiqado deggan oo dareenka ah, oo la jaan qaadaya waxa hadda raaxada ah.",
+    "ideas101": "101 fikrad oo waxqabad",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Marxaladda hore",
+        "text": "Sii wad waxa ay jecel yihiin, oo wax yar ku hagaaji: hiwaayado, safarro, ciyaaro ereyo iyo qorshayn wadajir ah.",
+        "label": "Fikrado marxaladda hore"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Marxaladda dhexe",
+        "text": "Hawlo fudud oo la yaqaan oo qaybo loo kala jaray: laablaabid, kala-saarid, muusiko, ciyaaro sawir iyo socod gaaban.",
+        "label": "Fikrado marxaladda dhexe"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Marxaladda dambe",
+        "text": "Raaxo iyo xiriir iyada oo loo marayo taabasho, dhawaaq iyo aragti: daryeelka gacmaha, heesaha la jecel yahay, sawirro iyo la joogid.",
+        "label": "Fikrado marxaladda dambe"
+      }
+    ],
+    "specificHtml": "Ma raadinaysaa wax gaar ah? Isku day <a href=\"/activities/alzheimers/\">waxqabadyo iyo ciyaaro loogu talagalay Alzheimer</a>, <a href=\"/activities/memory-games/\">ciyaaro xusuuseed oo deggan</a>, <a href=\"/activities/trivia/\">su’aalo fudud</a> ama <a href=\"/activities/puzzles/\">halxiraalayaal</a>.",
+    "approachEyebrow": "Hannaankeena",
+    "approachTitle": "Waxqabad la wadaago, ma aha imtixaan xusuuseed",
+    "approachLede": "“Ciyaaraha maskaxda” badankood waxaa lagu dhisay xawaare, dhibco iyo isku-xigga guulo. Qof ku nool dementia waxay u dhawaan kartaa imtixaan. Annagu waxaan dhisnay waxa ka soo horjeeda.",
+    "approachLink": "Sababta aan sidan u naqshadayno",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Waxba lagu guuldaraysan maayo",
+        "text": "Saacad, dhibco, nolol ama lumis ma jiro. Sawir ka duwan waa nasasho, ma aha qalad."
+      },
+      {
+        "icon": "eye",
+        "title": "Sawirradu way muuqdaan",
+        "text": "Aqoonsiga ayaa ka horreeya xusuusta. Isku-mid-ka wuxuu ku bilaabmaa sawirro la fiiriyo, sidaas darteed waxba lama xusuusto."
+      },
+      {
+        "icon": "people",
+        "title": "Qof weyn iyo sharaf leh",
+        "text": "Erayo diirran oo fudud iyo sawirro dhab ah. Marnaba ma jiraan kartuun ama hadal ilmo."
+      },
+      {
+        "icon": "shield",
+        "title": "Gaar ahaan loo ilaaliyay",
+        "text": "Akoon ama xayeysiis ma jiro. Sawirradaadu qalabkaaga ma ka baxaan."
+      }
+    ],
+    "guidesEyebrow": "Daryeelayaasha",
+    "guidesTitle": "Hagayaal wax ku ool ah oo loogu talagalay daryeelka maalinlaha ah",
+    "allCaregiving": "Dhammaan hagayaasha daryeelka",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Sida loo wada ciyaaro ciyaaraha",
+        "text": "Diyaarinta, xawaaraha, iyo waxa la sameeyo marka ciyaar aysan sii xiiso lahayn."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Marka ay waxqabad ka diidaan",
+        "text": "Sababaha caadiga ah ee diidmada, iyo siyaabo jilicsan oo mar dambe loo isku dayo."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Habaynta taablad",
+        "text": "Qoraal weyn, kala-go’yaal yar iyo hal shaashad hore oo fudud."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Waxqabadyo la daabaci karo oo bilaash ah",
+        "text": "Raadinta ereyada daabacaad weyn, bogagga midabaynta, bingo iyo kaararka wadahadalka."
+      }
+    ],
+    "researchTitle": "Caafimaadka maskaxda: waxa cilmi-baarisu runtii sheegto",
+    "researchText": "Ma laga hortagi karaa dementia? Ma caawiyaan ciyaaraha maskaxda? Maxaa ku saabsan soonka, cuntada, hurdada iyo maqalka? Jawaabo fudud oo ilo leh, oo ay ku jiraan meesha caddaynta daciifka tahay.",
+    "researchLink": "Akhri hagayaasha cilmi-baarista",
+    "appEyebrow": "Sidoo kale app",
+    "appTitle": "Golden Moments oo ku yaal iPhone, iPad iyo Android",
+    "appText": "App-ka bilaashka ah wuxuu shaqeeyaa internet la’aan, wuxuuna isticmaali karaa sawirro qoys oo aad doorato, oo ah nuqulo qalabkaaga ku jira. Naqshad deggan oo isku mid ah: afar kaar oo waaweyn, saacad la’aan, dhibco la’aan.",
+    "aboutApp": "Ku saabsan app-ka",
+    "faq": [
+      {
+        "q": "Waa maxay ciyaaraha wanaagsan ee dadka ku nool dementia?",
+        "a": "Ciyaaraha wanaagsan waa kuwa fudud, la yaqaan oo cadaadis la’aan ah: sawirro waaweyn oo la isku mid dhigo, kala-saarid, jigsaw fudud, dhammaystirka hadallo la yaqaan, midabayn, bingo sawir iyo kaararka wadahadalka. Doorashada ugu fiican waa tan uu qofku maanta ku farxo. Iska ilaali saacado, dhibco iyo wax kasta oo u eg imtixaan."
+      },
+      {
+        "q": "Ma bilaash baa ciyaarahan dementia?",
+        "a": "Haa. Ciyaar kasta iyo waxa la daabaci karo ee Golden Moments waa bilaash, akoon, diiwaan gelin ama soo dejin looma baahna. Ciyaaruhu waxay ka shaqeeyaan biraawsarka taleefan, taablad ama kombuyuutar."
+      },
+      {
+        "q": "Ma ka hortagaan ciyaaraha maskaxdu dementia?",
+        "a": "Ciyaar lama muujin inay ka hortagto dementia, Golden Moments-na ma sheegto inay wax daaweyso ama ka hortagto. Ciyaaraheenna waxaa loogu talagalay raaxo iyo wakhti la wada qaato. Qaybteenna caafimaadka maskaxdu waxay sharraxaysaa waxa cilmi-baarisu muujiso iyo waxa aanay muujin."
+      },
+      {
+        "q": "Ma ku habboon yihiin ciyaarahan qof qaba Alzheimer?",
+        "a": "Haa. Cudurka Alzheimer waa sababta ugu badan ee dementia, ciyaaraha waxaa loo sameeyay: sawirro waaweyn oo muuqda, doorashooyin yar, iyo wax aan la xusuusan ama la khaldin. Isku-mid-ka, kala-saarista iyo dhammaystirka hadallada la yaqaan waxay ku tiirsan yihiin aqoon hore oo la haysto, ma aha barasho cusub."
+      },
+      {
+        "q": "Ma isticmaali karaa qof ku jira marxaladda dambe ee dementia waxqabadyadan?",
+        "a": "Inta badan, haa, haddii qof ag fadhiisto. Ka bilow Raadi kan isku mid ah oo laba sawir leh, Lammaanaha sawirrada oo afar kaar leh, bog midabayn ama nasasho neefsasho deggan. Ka dhig mid gaaban, raac hogaankooda oo joojii markay ku ekaadaan."
+      },
+      {
+        "q": "Ma gaar bay tahay macluumaadkeyga?",
+        "a": "Degelku akoon iyo xayeysiis ma laha. Waxaan isticmaalnaa Google Analytics si aan u fahanno bogagga la booqdo. Sawirrada aad u doorato Lammaanaha sawirrada qoyska waxay ka muuqdaan biraawsarkaaga oo keliya, mana la soo geliyo."
+      },
+      {
+        "q": "Yaa sameeya Golden Moments?",
+        "a": "Golden Moments waa koox yar oo sameysa waxqabadyo sawir oo deggan oo qof weyn u habboon oo loogu talagalay qoysaska iyo daryeelayaasha, shabakadda iyo sida app bilaash ah. Dhakhaatiir ma nihin, wax halkan ku jirana ma aha talo caafimaad."
+      }
+    ]
+  },
+  "stage": {
+    "early": "hore",
+    "middle": "dhexe",
+    "late": "dambe",
+    "hintOne": "Inta badan wuu ku habboon yahay marxaladda {list}",
+    "hintMany": "Inta badan wuu ku habboon yahay marxaladaha {list}",
+    "labelEarly": "Marxaladda hore",
+    "labelMiddle": "Marxaladda dhexe",
+    "labelLate": "Marxaladda dambe"
+  },
+  "cards": {
+    "aboutGame": "Ku saabsan ciyaartan",
+    "printable": "La daabaci karo",
+    "play": "Ciyaar {name} →",
+    "readGuide": "Akhri hagaha"
+  },
+  "playCta": {
+    "title": "Diyaar ma u tahay ciyaar deggan?",
+    "text": "Sawirro waaweyn, saacad la’aan, dhibco la’aan, waxna looma diiwaan gelin. Wada ciyaar biraawsarkaaga.",
+    "play": "Bilow ciyaar",
+    "all": "Arag dhammaan ciyaaraha",
+    "aria": "Bilow ciyaar"
+  },
+  "appCta": {
+    "title": "Ciyaarahan la qaado",
+    "text": "App-ka Golden Moments ee bilaashka ah ee loogu talagalay iPhone, iPad iyo Android: kaararka sawirrada waaweyn, ciyaaro leh sawirradaada qoys, iyo xirmooyin sawir oo ka shaqeeya Wi‑Fi la’aan. Akoon, xayeysiis, saacad ama dhibco ma jiraan.",
+    "appStore": "Ka hel App Store",
+    "googlePlay": "Ka hel Google Play",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Ku saabsan app-ka",
+    "aria": "Hel app-ka"
+  },
+  "sections": {
+    "activities": {
+      "label": "Waxqabadyo",
+      "title": "Waxqabadyo loogu talagalay Dadka ku nool Dementia",
+      "seo": "Waxqabadyo Dadka ku nool Dementia: Fikrado Marxalad Marxalad",
+      "description": "Fikrado waxqabad oo dadka ku nool dementia loogu talagalay marxalad kasta: muusiko, xusuus wadaag, hawlo maalinle ah, farshaxan iyo waxyaabo la daabaci karo.",
+      "lede": "Waxqabad macno leh waa wax kasta oo keena raaxo, ujeedo ama daqiiqad xiriir. Ka bilow waxa qofku weligii ku farxi jiray, oo ku hagaaji maanta."
+    },
+    "caregiving": {
+      "label": "Daryeelka",
+      "title": "Hagayaasha Daryeelka",
+      "seo": "Hagayaasha Daryeelka Dementia: Caawimaad Maalinle ah",
+      "description": "Hagayaal naxariis leh oo daryeelayaasha dementia loogu talagalay: ciyaarid wadajir ah, xiriirka, diidmada, degganaan la’aanta galabta iyo naftaada daryeelka.",
+      "lede": "Caawimaad fudud oo wax ku ool ah oo loogu talagalay daqiiqadaha maalinlaha ah ee daryeelka qof ku nool dementia, oo ay ku jirto naftaada daryeelka."
+    },
+    "brain-health": {
+      "label": "Caafimaadka maskaxda",
+      "title": "Caafimaadka Maskaxda: Waxa Cilmi-baarisu Sheegto",
+      "seo": "Caafimaadka Maskaxda iyo Khatarta Dementia: Cilmi-baaris",
+      "description": "Ma laga hortagi karaa dementia? Hagayaal daacad ah oo ilo leh oo ku saabsan khatarta dementia, ciyaaraha maskaxda, cuntada, hurdada iyo maqalka.",
+      "lede": "Waxa daraasaadka waaweyn runtii muujiyaan ee ku saabsan yaraynta khatarta dementia, oo si fudud loo sharraxay, oo ay ku jirto meesha caddaynta ay daciif ama isku dhex jirto. Macluumaad guud, ma aha talo caafimaad."
+    }
+  },
+  "guide": {
+    "updated": "La cusboonaysiiyay",
+    "minuteRead": "{n} daqiiqo oo akhris ah",
+    "byTeam": "Waxaa qoray kooxda Golden Moments",
+    "howWeWrite": "Sida aan u qorno",
+    "shortAnswer": "Jawaabta kooban",
+    "onThisPage": "Boggan ({n} qaybood)",
+    "commonQuestions": "Su’aalaha caadiga ah",
+    "sources": "Ilaha",
+    "sourcesNote": "Waxaan ku xirnaa hay’adaha iyo daraasaadka bogga ku tiirsan yahay. Mid kasta waa la hubiyay markii bogga la cusboonaysiiyay.",
+    "tryTogether": "Wada tijaabi",
+    "relatedGuides": "Hagayaal la xiriira",
+    "related": "La xiriira",
+    "startHere": "Halkan ka bilow"
+  },
+  "healthNotice": {
+    "aria": "Ogaysiiska macluumaadka caafimaadka",
+    "title": "Macluumaad guud, ma aha talo caafimaad",
+    "textHtml": "Boggan wuxuu soo koobayaa cilmi-baaris la daabacay oo loogu talagalay qoysaska. Ma sheegi karo waxa u fiican hal qof. La hadal dhakhtar ka hor intaanad beddelin cuntada, jimicsiga, hurdada, dawooyinka ama dheeriyayaasha cuntada. Marka ay jirto jahwareer kedis ah ama isbeddel kale oo kedis ah, isla markiiba hel caawimaad caafimaad. <a href=\"/medical-disclaimer/\">Akhri ogaysiiskeena macluumaadka caafimaadka</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Waxqabad la wadaago, ma aha imtixaan xusuuseed",
+      "seoTitle": "Ku saabsan Golden Moments: Hannaankeena",
+      "description": "Sababta ciyaaraha Golden Moments aysan saacado ama dhibco lahayn, sababta sawirradu u muuqdaan, iyo waxa aan sheegi doonno ee ku saabsan dementia.",
+      "crumb": "Hannaankeena",
+      "lede": "Golden Moments waxay sameysaa waxqabadyo sawir oo deggan oo qof weyn u habboon oo daryeele iyo qof ku nool dementia ay dhinac dhinac ugu raaxaysan karaan.",
+      "bodyHtml": "<h2>Waxa aan rumaysanahay</h2><p>Ujeedada waxqabadku waa daqiiqadda lafteeda: wadahadal, dhoola cadeyn, qanacsanaanta ay keento in laba sawir la isku geeyo, ama si fudud in la isku dhow fadhiisto. Ma aha in qof la cabbiro, la sii riixo ama wax la caddeeyo.</p><p>App-yo badan oo tababar maskaxeed waxaa loo naqshadeeyay xawaare, dhibco, isku-xigga guulo iyo heerar. Qof ku nool dementia taasi waxay u dhawaan kartaa imtixaan aanu soo gudbi karin. Annagu waxaan naqshadnay waxa ka soo horjeeda, oo waxaan nafteena ku xidhnay sharciyadan:</p><ul><li><strong>Waxba lagu guuldaraysan maayo.</strong> Saacad, dhibco, tiriyaha dhaqdhaqaaqa, nolol, isku-xigga guulo, confetti ama tiris dhimasho ma jiraan, shaashad kasta.</li><li><strong>Aqoonsiga ayaa ka horreeya xusuusta.</strong> Sawirradu waxay ku muuqdaan si caadi ah. Su’aalaha wadahadalku wadahadal ayay martiqaadaan, mana weydiiyaan magacyo ama xusuus.</li><li><strong>Weyn, fudud oo xasilloon.</strong> Qoraal iyo sawirro waaweyn, farqi weyn oo midab ah, iyo kontoroollo ku sii jira isla meel.</li><li><strong>Sharafta qof weyn.</strong> Sawirro dhab ah iyo erayo fudud oo diirran. Kartuun, ammaan sidii carruur loola hadlayo ama abaalmarin emoji ma jiraan.</li><li><strong>Hab fudud oo laga baxo.</strong> “Hadda waan joojinayaa” had iyo jeer waa muuqdaa. Badh joojintu waa natiijo wanaagsan.</li><li><strong>Gaar ahaan loo ilaaliyay.</strong> Akoon ama xayeysiis ma jiro. Sawirrada aad doorato waxay ku hadhaan qalabkaaga.</li></ul><h2>Waxa aanan sheegin</h2><p>Ciyaaraheenna waxaa loogu talagalay raaxo iyo xiriir. Ma baaraan, ma tijaabiyaan, ma cabbiraan, ma daaweeyaan, ma gaabiyaan, mana ka hortagaan dementia ama cudurka Alzheimer, qofna uma doorin inuu sababtaas u doorto. Marka aan ka qorno cilmi-baarista <a href=\"/brain-health/\">bogagga caafimaadka maskaxda</a>, si cad ayaan u sheegnaa meesha caddaynta ay daciifka tahay, marnabana kuma xirno ciyaaraheenna.</p><h2>Yaan nahay</h2><p>Golden Moments waa koox yar oo madax-bannaan. Dhakhaatiir ma nihin. Hagayaasheenna waxaa laga qoray hagitaan la daabacay oo ay bixiyaan hay’ado sida National Institute on Aging iyo Alzheimer’s Association, hage kasta wuxuu taxayaa ilihiisa. Akhri <a href=\"/editorial-policy/\">sida aan u qorno oo aan u hubinno bogagga</a>.</p><h2>Noo sheeg waxa caawin lahaa</h2><p>Waxaan jeclaan lahayn inaan maqalno waxa kuu shaqeeya iyo waxa aanay shaqeyn, gaar ahaan dadka ku nool dementia, daryeelayaasha qoyska iyo shaqaalaha waxqabadka. Iimayl u dir <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Sida aan u qorno oo aan u hubinno bogagga",
+      "seoTitle": "Siyaasadda tafatirka",
+      "description": "Sida Golden Moments u baarto, u qorto, ilo ugu tilmaanto oo u cusboonaysiiyo bogagga dementia iyo caafimaadka maskaxda, iyo waxa aanan marnaba daabicin.",
+      "crumb": "Siyaasadda tafatirka",
+      "bodyHtml": "<h2>Ilaheenna</h2><p>Hagayaasheenna waxaan ku salaynnaa hagitaan dadweyne oo ay bixiyaan hay’ado sida National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance iyo NHS, iyo cilmi-baaris ay dib u eegeen khubaro sida dib-u-eegisyada Cochrane iyo tijaabooyin waaweyn oo caafimaad. Hage kasta wuxuu taxayaa ilaha uu ku tiirsan yahay. Ilaha kasta waan furnaa ka hor intaanan tilmaamin, waxaan soo sheegnaa oo keliya waxa uu runtii leeyahay.</p><h2>Sida aan u qorno</h2><ul><li>Wax ku ool ah marka hore: waxa la sameeyo maanta, af fudud.</li><li>Daacad ku saabsan caddaynta: waxaan nidhaahnaa “la xiriira”, “laga yaabaa” iyo “caddaynta waa isku dhex jirtaa” marka taasi run tahay.</li><li>Ixtiraam leh: waxaan u qornaa dadka ku nool dementia sida dad waaweyn, marnabana ma isticmaalno luuqad imtixaan ama ceeb.</li><li>Wax la sameeyay ma jiraan: tirokoob, hadallo, khubaro, daraasaad, dib-u-eegisyo ama markhaatiyo la been abuuray ma jiraan.</li></ul><h2>Yaa dib u eega bogagga</h2><p>Bogagga waxaa qora oo hubiya kooxda Golden Moments, iyadoo la adeegsanayo qalab qoraal AI ah oo loogu talagalay cilmi-baaris iyo qabyo-qoris. Bog kasta waxaa ilihiisa ka hubiya kooxdu. Bogagganu <strong>ma ahan</strong> kuwo dhakhtar ama xirfadle caafimaad kale dib u eegay, mana sheegno wax kale. Waa macluumaad guud, ma aha talo caafimaad.</p><h2>Waxa aanan marnaba daabicin</h2><ul><li>Sheegashooyin ah in ciyaar, cunto, dheeriyaha cuntada, soon ama jadwal ay ka hortagto, daaweyso, gaabiso ama bogsiiso dementia.</li><li>Imtixaanno, su’aalo ama dhibco soo jeedinaya in qof uu qabo ama uusan qabin dementia.</li><li>Talo ku saabsan bilaabidda, joojinta ama beddelidda dawo kasta.</li><li>Xayeysiis ama waxyaabo kafaala ah oo loo qariyay sida hagitaan.</li></ul><h2>Cusboonaysiin iyo sixitaan</h2><p>Bog kasta wuxuu muujiyaa taariikhda la cusboonaysiiyay ugu dambeysay. Haddii aad hesho khalad ama il duugoobay, fadlan iimayl u dir <a href=\"mailto:{email}\">{email}</a>, anna si dhakhso ah ayaan u hubin doonaa.</p>"
+    },
+    "faq": {
+      "title": "Su’aalo iyo jawaabo",
+      "seoTitle": "Ciyaaro iyo Waxqabadyo Dementia: Su’aalo iyo Jawaabo",
+      "description": "Jawaabo su’aalaha caadiga ah ee ciyaaraha iyo waxqabadyada dementia: ciyaaraha la tijaabiyo, inta la ciyaaro, caafimaadka maskaxda iyo asturnaanta.",
+      "crumb": "Su’aalo iyo jawaabo",
+      "lede": "Jawaabo gaaban oo fudud oo ku saabsan su’aalaha daryeelayaashu ugu badan weydiiyaan.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Ku saabsan ciyaaraha",
+          "items": [
+            {
+              "q": "Waa maxay ciyaaraha ugu fiican ee qof ku nool dementia?",
+              "a": "Ciyaaraha ugu fiican waa kuwa la yaqaan, fudud oo cadaadis la’aan ah, kan sax ahna waa kan uu qofku maanta ku farxo. Isku-mid-ka sawirrada la muujiyay, kala-saarid, jigsaw fudud, dhammaystirka hadallo la yaqaan, midabayn iyo bingo sawir dad badan ayay u shaqeeyaan. Iska ilaali saacado, dhibco iyo wax kasta oo u eg imtixaan."
+            },
+            {
+              "q": "Ma runtii bilaash bay yihiin ciyaaruhu?",
+              "a": "Haa. Dhammaan ciyaaraha iyo waxa la daabaci karo waa bilaash, akoon, diiwaan gelin, soo dejin ama xayeysiis la’aan."
+            },
+            {
+              "q": "Maxay u jirin dhibco, heerar ama saacado?",
+              "a": "Xawaaraha iyo dhibcuhu waxay waxqabad wacan u beddelaan imtixaan, taas oo keeni karta ceeb ama niyad-jab. Waxaan diiradda saarnaa raaxo iyo wakhti la wada qaato, sidaas darteed waxba lagu guuldaraysan maayo, wakhti kasta ayaad joojin kartaa."
+            },
+            {
+              "q": "Qalabkee ayaa ugu fiican?",
+              "a": "Taleefan, taablad ama kombuyuutar kasta oo leh biraawsar casri ah. Taablad taagan miis dusiisa inta badan waa habka ugu raaxada badan ee laba qof dhinac dhinac ugu ciyaari karaan. Laptop ku xiran TV ayaa ku wanaagsan kooxaha."
+            },
+            {
+              "q": "Ma ku ciyaari karnaa sawirradeenna qoys?",
+              "a": "Haa. Lammaanaha sawirrada qoyska wuxuu 2 ilaa 6 sawir oo aad doorato u beddelaa ciyaar isku-mid ah. Sawirradu waxay ku hadhaan biraawsarkaaga, mana la soo geliyo ama la keydiyo."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Waxqabadyo iyo daryeel",
+          "items": [
+            {
+              "q": "Intee in le’eg waxqabadku waa inuu socdaa?",
+              "a": "Inta badan 10 ilaa 20 daqiiqo way ku filan tahay, mararka qaarkoodna 2 daqiiqo waa guul. Ka feejignow calaamadaha daalka ama niyad-jabka, oo joogso inta ay wanaagsan tahay. Inta saxda ah ma jirto."
+            },
+            {
+              "q": "Haddii ay doonayn inay waxqabad sameeyaan?",
+              "a": "Ixtiraam diidmada, oo mar dambe ama si kale isku day. Diidmadu waxay ka imaan kartaa daal, xanuun, shaki ama si fudud xiiso la’aan. Eeg hagheenna ku saabsan waxa la sameeyo marka ay dhahaan maya."
+            },
+            {
+              "q": "Waxqabadyo maxay ku habboon yihiin dementia marxaladda dambe?",
+              "a": "Raaxo iyo dareenka: dhegaysiga muusiko la jecel yahay, daawada gacmaha oo la shiiqiyo, sawirro la wada eego, go’ jilicsan oo la haysto, banaanka oo la fadhiisto, ama ciyaar sawir oo aad u fudud oo qof dhinac ku fadhiisto. Hagheenna marxaladda dambe wuxuu leeyahay fikrado badan oo kale."
+            },
+            {
+              "q": "Ma jiraan waxqabadyo kooxeed oo guri daryeel ah?",
+              "a": "Haa. Bingo sawirku wuxuu leeyahay kaararka la daabaci karo iyo qof ku dhawaaqa shaashadda, Dhammaystirka hadalka iyo Kaararka wadahadalku si wanaagsan ayay ugu shaqeeyaan marka kor loo akhriyo. Hagheenna kooxaha guriga daryeelku wuxuu ka hadlaa cabbirka kooxda, fadhiga iyo la jaan qaadidda awoodaha kala duwan."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Caafimaadka maskaxda",
+          "items": [
+            {
+              "q": "Ma ka hortagi ama gaabin karaan ciyaaruhu dementia?",
+              "a": "Ciyaar lama muujin inay ka hortagto dementia, ciyaaraheennuna sheegasho caynkaas ah ma sameeyaan. Kicinta garashada ee goob bulsheed waxay cilmi-baaris ku muujisay faa’iidooyin yar dadka qaba dementia fudud ilaa dhexdhexaad, laakiin taasi way ka duwan tahay ciyaar ka hortagta cudur. Waxaan bixinnaa ciyaaro loogu talagalay raaxo iyo xiriir."
+            },
+            {
+              "q": "Ma laga hortagi karaa dementia?",
+              "a": "Hubaal ma aha. Cilmi-baarisu waxay xiriirisaa 14 arrimood oo caafimaad iyo hab-nololeed khatarta dementia, sida maqal dhimis, cadaadis dhiig sare, dhaqdhaqaaq la’aan jireed iyo go’doomin bulsheed. Wax ka qabashadooda waxay yarayn kartaa khatarta dadka qaarkood, laakiin dad badan oo wax walba si sax ah sameeya ayaa weli qaba dementia. Marnaba ma aha cidna qalad."
+            },
+            {
+              "q": "Ma wanaagsan tahay soonka go’go’an ee caafimaadka maskaxda?",
+              "a": "Caddaynta dadka ku saabsan way xadidan tahay oo way hore tahay, cilmi-baaris badanna waxay ku jirtaa xayawaanka. Soonku wuxuu khatar u noqon karaa dadka waaweyn, gaar ahaan marka dawooyinka sonkorowga la isticmaalo ama miisaanka si aan loogu talagalin loo luuqo, lamana talinayo dadka ku nool dementia. La hadal dhakhtar ka hor intaanad beddelin sida aad u cuntid."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Asturnaan iyo badbaado",
+          "items": [
+            {
+              "q": "Ma ururisaan macluumaad kasta?",
+              "a": "Akoon ama xayeysiis ma jiraan. Waxaan isticmaalnaa Google Analytics si aan u tirinno booqashooyinka oo aan u aragno bogagga caawiya, biraawsarkaaguna wuu xasuustaa haddii aad daartay codadka jilicsan. Sawirrada aad u doorato Lammaanaha sawirrada qoyska marnaba lama soo geliyo. Eeg ogaysiiska asturnaanta faahfaahin dheeraad ah."
+            },
+            {
+              "q": "Ma talo caafimaad baa tani?",
+              "a": "Maya. Golden Moments waa madadaalo iyo macluumaad guud. Su’aalaha caafimaadka la hadal dhakhtar, xaalad degdeg ah na wac lambarka gurmadka degdegga ah ee gobolkaaga."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Faahfaahin dheeraad ah: <a href=\"/caregiving/how-to-play-together/\">sida loo wada ciyaaro</a>, <a href=\"/caregiving/when-they-say-no/\">marka ay dhahaan maya</a>, <a href=\"/activities/late-stage/\">waxqabadyada marxaladda dambe</a> iyo <a href=\"/brain-health/can-dementia-be-prevented/\">ma laga hortagi karaa dementia?</a>"
+    },
+    "handout": {
+      "title": "Ciyaaro Deggan oo Bilaash ah, Dadka ku nool Dementia",
+      "seoTitle": "Warqad la daabaco: Ciyaaro Dementia oo Bilaash ah",
+      "description": "Warqad hal bog ah oo la daabaci karo oo qoysaska iyo daryeelayaasha loogu talagalay, ku saabsan ciyaaro sawir oo deggan oo bilaash ah, kooxaha taageerada.",
+      "crumb": "Warqad la daabaco",
+      "lede": "Daabac boggan koox taageero, xirmo daryeel ama albaabka qaboojiyaha. Isticmaal amarka Daabac ee biraawsarkaaga; liisaska iyo badhamada waa laga tagayaa.",
+      "introHtml": "<p>Sawirro waaweyn, erayo fudud iyo waxba lagu guuldaraysan maayo. Bilaash ah taleefan, taablad ama kombuyuutar, diiwaan gelin, xayeysiis, saacad ama dhibco la’aan. Dhinac dhinac u fadhiiso oo isu beddela.</p>",
+      "gamesTitle": "Ciyaaro la wada tijaabiyo",
+      "restHtml": "<h2>Dhowr talo</h2><ul><li>Dooro wakhti maalinta ah oo qofku uu ugu fiican yahay.</li><li>Ka bilow habka ugu fudud. Afar kaar way ku filan yihiin.</li><li>Ka hadal sawirrada. Wadahadalku inta badan waa qaybta ugu fiican.</li><li>Joogso inta ay wali raaxo tahay. Hore u dhammaystirku waa natiijo wanaagsan.</li></ul><h2>Sidoo kale degelka</h2><ul><li>Waxyaabo la daabaci karo oo bilaash ah: raadinta ereyada daabacaad weyn, bogagga midabaynta, kaararka wadahadalka iyo bingo sawir.</li><li>Fikrado waxqabad oo loogu talagalay marxalad kasta, iyo hagayaal ku saabsan wada ciyaarka iyo naftaada daryeelka.</li></ul><p class=\"muted\">Loogu talagalay raaxo iyo wakhti la wada qaato. Ma aha talo caafimaad, imtixaan ama daaweyn. Golden Moments waxaa daabacay Cloudjet Solutions Pte. Ltd.</p>"
+    },
+    "organizations": {
+      "title": "Guryaha Daryeelka, Maktabadaha iyo Kooxaha Taageerada",
+      "seoTitle": "Waxqabadyo Dementia oo Bilaash ah: Guryaha Daryeelka",
+      "description": "Sida guryaha daryeelka, maktabadaha iyo kooxaha taageerada u isticmaalaan ciyaaraheenna dementia ee bilaashka ah, iyo qoraal lagu dari karo liis ilo ah.",
+      "crumb": "Hay’adaha",
+      "lede": "Wax kasta oo degelkan ku jira waa bilaash in lagu isticmaalo dadka deggan, xubnaha iyo macaamiisha, akoon, shati ama kharash la’aan. Boggan wuxuu sharraxayaa waxa halkan yaal iyo sida loo wadaago.",
+      "shortText": "{name}: ciyaaro sawir oo deggan oo bilaash ah iyo hagayaal waxqabad oo loogu talagalay dadka ku nool dementia iyo daryeelayaashooda. Diiwaan gelin, saacad ama dhibco ma jiraan.",
+      "longText": "{name} ({domain}) wuxuu bixiyaa {count} ciyaar biraawsar oo bilaash ah oo loogu talagalay dadka ku nool dementia, oo ay ku jiraan lammaane isku-mid ah oo sawirradu u muuqdaan, jigsaw fudud, kala-saarid, hadallo la yaqaan iyo bingo sawir oo leh kaararka la daabaci karo. Akoon, xayeysiis, saacad ama dhibco ma jiraan. Degelku wuxuu kaloo leeyahay hagayaal waxqabad oo af fudud ah oo loogu talagalay marxalad kasta oo dementia ah, kuwaas oo ku tilmaama National Institute on Aging iyo Alzheimer’s Association.",
+      "useTitle": "Waxa hay’aduhu isticmaali karaan",
+      "gamesItemHtml": "<strong>{count} ciyaar biraawsar</strong> oo ka shaqeeya laptop, taablad ama TV ku xiran kombuyuutar. Rakibaad, akoon ama soo dejin ma jiro. Eeg <a href=\"/games/\">dhammaan ciyaaraha</a>.",
+      "printablesLabel": "{count} waxyaabo la daabaci karo:",
+      "printablesAfter": "Isticmaal badhanka Daabac ee bog kasta.",
+      "moreItemsHtml": "<li><strong>Qaababka kooxda:</strong> <a href=\"/games/picture-bingo/\">Bingo sawirku</a> wuxuu leeyahay kaararka la daabaci karo iyo qof ku dhawaaqa shaashadda, <a href=\"/activities/trivia/\">su’aalaha fudud</a> na waxay leeyihiin 50 su’aalood oo leh doorashooyin jawaab iyo qodobbo wadahadal.</li><li><strong>Hagayaasha waxqabadka</strong> ee shaqaalaha iyo qoysaska, marxalad iyo nooc ahaan, oo af fudud ku qoran oo ilo leh. Ka bilow <a href=\"/activities/ideas/\">101 fikrad oo waxqabad</a> ama <a href=\"/activities/care-home-groups/\">waxqabadyo kooxeed oo guryaha daryeelka</a>.</li>",
+      "restHtml": "<h2>Sida kooxuhu u isticmaalaan</h2><ul><li><strong>Guryaha daryeelka iyo daryeelka xusuusta:</strong> bingo sawir ama dhammaystirka hadalka oo TV-ga qolka guud ah ku yaal, hal qof oo koox u taabanaya.</li><li><strong>Barnaamijyada maalinta ee dadka waaweyn:</strong> xarun taablad oo leh Lammaanaha sawirrada oo la dejiyay afar kaar, kulammo gaaban oo hal-qof-hal-qof ah.</li><li><strong>Maktabadaha dadweynaha:</strong> raadinta ereyada la daabacay iyo kaararka wadahadalka oo ku jira xirmooyinka xusuusta, iyo degelka oo lagu calaamadiyay taablad-yada maktabadda.</li><li><strong>Kooxaha taageerada daryeelayaasha iyo goobaha qaxwada xusuusta:</strong> <a href=\"/handout/\">warqad hal bog ah oo la daabaci karo</a> oo qoysaska guriga u qaadan karaan.</li><li><strong>Isbitaallada iyo qorsheeyaasha bixitaanka:</strong> warqadda oo la geliyo xirmooyinka daryeelayaasha, si wax deggan guriga ama sariirta agteeda looga sameeyo.</li></ul><h2>Waxa aanan samayn</h2><p>Ciyaaraha waxaa loogu talagalay raaxo iyo wakhti la wada qaato. Ma baaraan, ma tijaabiyaan, ma dhibcaan, ma daaweeyaan, mana gaabiyaan dementia, annaguna waxaan weydiisannaa hay’aduhu inayan sidaas u tilmaamin. Xayeysiis ma jiro, ciyaaruhuna ma weydiiyaan magacyo, faahfaahin caafimaad ama sawirro la soo geliyo. Degelku wuxuu isticmaalaa Google Analytics si uu u tiriyo booqashooyinka; <a href=\"/privacy/\">ogaysiiskeena asturnaanta</a> wuxuu sharraxayaa waxa uu ururiyo. Sawirrada loo isticmaalo <a href=\"/games/photo-pairs/\">Lammaanaha sawirrada qoyska</a> waxay ku hadhaan biraawsarka.</p><h2>Naga dar liiskaaga ilaha</h2><p>Haddii aad haysato liis ilo ah oo daryeelayaasha loogu talagalay, waad ku soo dhaweyn tahay inaad ku xirto <a href=\"/\">{domain}</a>. Waxaad koobiyeyn kartaa sharraxaad kasta.</p>",
+      "shortTitle": "Sharraxaad kooban",
+      "longTitle": "Sharraxaad dheer",
+      "linksHtml": "<p>Boggag waxtar leh oo si toos ah loogu xiri karo: <a href=\"/games/\">ciyaaro bilaash ah</a>, <a href=\"/activities/printable/\">waxyaabo la daabaci karo oo bilaash ah</a>, <a href=\"/activities/alzheimers/\">waxqabadyo loogu talagalay Alzheimer</a> iyo <a href=\"/caregiving/how-to-play-together/\">sida loo wada ciyaaro</a>.</p><h2>Su’aalo ama sixitaanno</h2><p>Haddii wax degelka ku jira ay khaldan yihiin ama aanay cadayn, ama haddii baahida qof deggan aanay halkan ku jirin, fadlan noogu sheeg <a href=\"mailto:{email}\">{email}</a>. Fadlanha u dirin macluumaad gaar ah ama caafimaad oo ku saabsan dadka deggan ama macaamiisha.</p>"
+    },
+    "app": {
+      "title": "App-ka Golden Moments",
+      "seoTitle": "App-ka Golden Moments ee iPhone iyo Android",
+      "description": "App-ka bilaashka ah ee Golden Moments: isku-mid sawir oo deggan, afar kaar oo waaweyn, sawirro qoys oo qalabkaaga ku jira, xirmooyin internet la’aan ah.",
+      "crumb": "App-ka",
+      "lede": "Wax kasta oo aad ka jeceshahay degelka, app ku jira oo internet la’aan ka shaqeeya oo isticmaali kara sawirro qoys oo aad doorato.",
+      "worksOn": "Wuxuu ka shaqeeyaa {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Ka bilow yar</h2><p>Ku bilow afar kaar oo waaweyn iyo sawirro la yaqaan. Ku hay sawirrada muuqda, ama qari marka ay raaxo tahay. Qaabka deggan wuxuu leeyahay saacad, dhibco ama ciqaab midna ma jiraan. Dooro 4, 6, 8 ama 12 kaar.</p><h2>Ka dhig mid adiga kuu gaar ah</h2><p>Dooro sawirro qoys adigoo isticmaalaya doorashada sawirrada ee qalabkaaga. App-ku wuxuu u kaydiyaa nuqulo yaryar waxqabadyadiisa. Ma baarto maktabaddaada, mana beddelo sawirradaada asalka ah, wuxuuna ku hayaa ilaa 24 sawir hal ururin.</p><h2>Si fudud u wada eeg</h2><p>Eeg hal sawir mar kasta. Su’aalaha ikhtiyaariga ah waxay martiqaadaan wadahadal iyadoo aan lagu weydiin qofna inuu xusuusto magacyo ama uu bixiyo jawaab sax ah. Eegis keliya waa ku filan tahay.</p><h2>Internet la’aan meesha ay muhiim tahay</h2><p>Sawirrada bilowga ah iyo dhammaan sideedda xirmo ee sawirrada waxay la socdaan app-ka. Nuqulada sawirrada la soo geliyay waxay shaqeeyaan internet la’aan. Doorashada sawirro asal ah oo ku kaydsan iCloud oo keliya waxay u baahan kartaa xiriir internet.</p><h2>Akoon ama serfar sawir-wadaag ma jiro</h2><p>Nuqulada sawirrada qoyska waxay ku hadhaan app-ka qalabka. Waxaad ka saari kartaa nuqulada adigoon tirtirin sawirrada asalka ah. Backup-yada qalabka waxaa laga yaabaa inay ku jiraan xogta app-ka. Akhri <a href=\"/app-privacy/\">siyaasadda asturnaanta ee app-ka</a>, <a href=\"/help/\">caawimaadda app-kuna</a> waxay kaa soo marisaa tallaabo kasta.</p>",
+      "disclaimer": "Golden Moments waxaa loogu talagalay madadaalo iyo wadahadal la wadaago. Ma baarto, ma daaweyso, ma ka hortagto, mana cabbirto dementia ama cudurka Alzheimer.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Ciyaaro Dementia & Alzheimer Bilaash ah oo Online ah",
+    "description": "Ciyaaro online ah oo bilaash ah oo waayeelka ku nool dementia loogu talagalay: isku-mid sawir, jigsaw fudud, kala-saarid, midabayn, bingo. Saacad ma jirto.",
+    "crumb": "Ciyaaro",
+    "h1": "Ciyaaro Deggan oo loogu talagalay Dadka ku nool Dementia",
+    "lede": "{count} ciyaar oo bilaash ah oo biraawsarkaaga lagu wada ciyaaro. Sawirro waaweyn, erayo fudud, iyo waxba lagu guuldaraysan maayo: saacad, dhibco ama diiwaan gelin ma jiraan.",
+    "listName": "Ciyaaro deggan oo loogu talagalay dadka ku nool dementia",
+    "byStageTitle": "Dooridda ciyaar marxalad ahaan",
+    "byStageLede": "Marxaladuhu waa hage qiyaas ah oo keliya. Raac waxa qofku ku farxo iyo waxa maanta raaxada ah.",
+    "stageCol": "Marxalad",
+    "gamesCol": "Ciyaaro inta badan ku habboon",
+    "moreHtml": "Fikrado dheeraad ah oo shaashadda ka baxsan: <a href=\"/activities/ideas/\">101 waxqabad oo loogu talagalay dadka ku nool dementia</a>, <a href=\"/activities/alzheimers/\">waxqabadyo iyo ciyaaro loogu talagalay Alzheimer</a>, <a href=\"/activities/memory-games/\">ciyaaro xusuuseed oo deggan</a> iyo <a href=\"/activities/puzzles/\">halxiraalayaal</a>.",
+    "faq": [
+      {
+        "q": "Ciyaartee ayaan ka bilaabaa?",
+        "a": "Lammaanaha sawirrada oo leh afar kaar waa doorasho koowaad oo deggan. Haddii doorashada sawirrada ay u muuqato mid aad u badan, isku day Raadi kan isku mid ah oo laba sawir leh. Koox ahaan, isku day Bingo sawir."
+      },
+      {
+        "q": "Ma ka shaqeeyaan ciyaaruhu iPad ama taleefan?",
+        "a": "Haa. Ciyaar kasta waxay ka shaqeysaa biraawsarka taleefannada, taabladaha iyo kombuyutarada, sawirraduna way weynaadaan si ay shaashadda u buuxiyaan. Taablad taagan inta badan waa mid ugu raaxo badan laba qof."
+      },
+      {
+        "q": "Ma wanaagsan yihiin ciyaarahan qof qaba Alzheimer?",
+        "a": "Haa. Waxaa loo sameeyay dadka ku nool dementia, oo ay ku jirto Alzheimer, sababta ugu badan. Sawirradu way muuqdaan, doorashooyin yar ayaa jira, waxbana lama waqtiyeeyo ama lama dhibceeyo, sidaas darteed ciyaaruhu waxay ku tiirsan yihiin aqoonsiga waxyaabaha la yaqaan halkii ay ka ahaan lahaayeen xusuusta waxyaabo cusub."
+      },
+      {
+        "q": "Ma ciyaaro xusuuseed baa waayeelka ah?",
+        "a": "Waa ciyaaro isku-mid ah iyo sawir oo qof weyn kasta ku raaxaysan karo, laakiin waxaa loo dhisay inaysan xusuusta tijaabin: Lammaanaha sawirrada, sawirradu way muuqdaan ilaa aad si kale u doorato. Hagheenna ciyaaraha xusuusta ee waayeelka ku nool dementia wuxuu sharraxayaa sida ciyaar xusuuseed kasta looga dhigi karo mid deggan."
+      },
+      {
+        "q": "Ma jiraan ciyaaro kooxeed oo guri daryeel ah?",
+        "a": "Haa. Bingo sawirku wuxuu leeyahay kaararka la daabaci karo iyo qof ku dhawaaqa shaashadda, Dhammaystirka hadalka iyo Kaararka wadahadalku si wanaagsan ayay ugu shaqeeyaan marka koox loo akhriyo."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad iyo Android",
+    "requirements": "iOS 15 ama ka dambeeya; Android 7.0 ama ka dambeeya",
+    "summary": "App bilaash ah oo loogu talagalay iPhone, iPad iyo Android oo leh isku-mid sawir oo deggan oo afar ilaa laba iyo toban kaar oo waaweyn ah, isku-mid iyo eegis ay la socdaan sawirro qoys oo aad doorato, iyo sideed xirmo oo sawir oo la socda oo internet la’aan ka shaqeeya. Akoon, xayeysiis, saacad ama dhibco ma jiraan.",
+    "features": [
+      "Isku-mid sawir oo deggan oo leh 4, 6, 8 ama 12 kaar oo waaweyn; sawirradu way muuqdaan ilaa aad dooratid inaad qarisid",
+      "Sawirrada qoyska ee aad doorato waxaa lagu nuqulaa app-ka si loogu isticmaalo isku-mid iyo wada eegid",
+      "Wada eeg: hal sawir mar kasta oo leh su’aalo wadahadal oo ikhtiyaari ah",
+      "Sideed xirmo oo sawir ah ayaa la socda app-ka; waxay shaqeeyaan internet la’aan",
+      "Akoon, xayeysiis, iibsi app-ka dhexdiisa ah, saacad, dhibco ama ciqaab ma jiraan"
+    ],
+    "faq": [
+      {
+        "q": "Ma jiraa app waxqabadyo dementia?",
+        "a": "Haa. Golden Moments (oo lagu taxay \"{storeName}\") waa bilaash App Store iyo Google Play. Waxay bixisaa isku-mid sawir oo deggan oo leh kaararka waaweyn, ciyaaro leh sawirro qoys oo aad doorato, iyo xirmooyin sawir oo internet la’aan ka shaqeeya."
+      },
+      {
+        "q": "Ma bilaash baa app-ka Golden Moments?",
+        "a": "Haa. Soo dejintiisu waa bilaash, xayeysiis, akoon ama iibsi app-ka dhexdiisa ah la’aan."
+      },
+      {
+        "q": "Ma ka shaqeeyaa app-ku internet la’aan?",
+        "a": "Haa. Sawirrada bilowga ah iyo dhammaan sideedda xirmo ee sawirrada waxay la socdaan app-ka, sawirrada qoysku na waxay internet la’aan ka shaqeeyaan marka lagu nuqulo app-ka. Doorashada sawir ku kaydsan iCloud oo keliya waxay u baahan kartaa xiriir."
+      },
+      {
+        "q": "Ma isticmaali karaa sawirradeenna qoys?",
+        "a": "Haa. Dooro sawirro adigoo isticmaalaya doorashada sawirrada ee qalabkaaga. App-ku wuxuu nuqulo yaryar ku hayaa qalabka waxqabadyadiisa, ma soo geliyo, mana beddelo sawirrada asalka ah. Waxaad ka saari kartaa nuqulada wakhti kasta."
+      },
+      {
+        "q": "Ma app tababar maskaxeed ama imtixaan xusuuseed baa?",
+        "a": "Maya. Golden Moments waxaa loogu talagalay raaxo iyo wakhti la wada qaato. Dhibco ama imtixaanno ma leh, mana baarto, ma daaweyso, ma ka hortagto, mana cabbirto dementia ama cudurka Alzheimer."
+      },
+      {
+        "q": "Qalabkee ayuu ka shaqeeyaa?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Ma jiraa nooca app ee ciyaartan?",
+      "a": "Haa. App-ka bilaashka ah ee Golden Moments ee iPhone, iPad iyo Android wuxuu leeyahay isku-mid sawir oo deggan oo isku mid ah, wuxuu isticmaali karaa sawirro qoys oo aad doorato, wuxuuna ka shaqeeyaa internet la’aan. Akoon, xayeysiis ama dhibco ma jiraan."
+    },
+    "gameFaqNo": {
+      "q": "Ma jiraa nooca app ee ciyaartan?",
+      "a": "Ciyaartan maya. App-ka bilaashka ah ee Golden Moments ee iPhone, iPad iyo Android wuxuu leeyahay isku-mid sawir oo deggan oo leh kaararka waaweyn iyo sawirro qoys oo aad doorato, wuxuuna ka shaqeeyaa internet la’aan. Ciyaartani halkan biraawsarkaaga ayay ku bilaash tahay."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: sawirro waaweyn oo saaxiibtinimo leh",
+    "noscript": "Ciyaartan waxay u baahan tahay JavaScript oo biraawsarkaaga laga daaray. Talooyinka hoose waxay ka shaqeeyaan la’aantiis.",
+    "about": "Ku saabsan {name}",
+    "aboutAria": "Ku saabsan ciyaartan",
+    "noTimer": "Saacad ama dhibco la’aan",
+    "printable": "La daabaci karo",
+    "howTo": "Sida loo ciyaaro {name}",
+    "tips": "Talooyin loogu talagalay wada ciyaarka",
+    "newToPlayingHtml": "Ma tahay cusub ciyaarista qof qaba dementia? Akhri <a href=\"/caregiving/how-to-play-together/\">sida loo wada ciyaaro</a>, oo ay ku jirto waxa la sameeyo haddii ay xiisaha lumiyaan.",
+    "moreAria": "Wax dheeraad ah oo la sahamiyo",
+    "helpfulGuides": "Hagayaal waxtar leh",
+    "appTitle": "Ku ciyaar app-ka",
+    "appText": "App-ka bilaashka ah ee Golden Moments wuxuu leeyahay isku-mid sawir oo deggan oo leh kaararka waaweyn iyo sawirradaada qoys, wuxuuna ka shaqeeyaa Wi‑Fi la’aan. iPhone, iPad iyo Android.",
+    "photoAppTitle": "Ku hay sawirradaada diyaar",
+    "photoAppText": "App-ka bilaashka ah ee Golden Moments, sawirrada aad doorato waxay ku hadhaan qalabkaaga marka xigta, ciyaaruhuna waxay ka shaqeeyaan Wi‑Fi la’aan. iPhone, iPad iyo Android.",
+    "goodToKnow": "Waxaa fiican in la ogaado",
+    "goodToKnowText": "Ciyaartan waxaa loogu talagalay raaxo iyo wakhti la wada qaato. Ma tijaabiso, ma cabbirto, mana daaweyso wax.",
+    "moreGames": "Ciyaaro deggan oo kale",
+    "crumb": "Ciyaaro"
+  }
+}

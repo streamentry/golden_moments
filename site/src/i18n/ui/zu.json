@@ -1,0 +1,534 @@
+{
+  "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
+  "common": {
+    "skipLink": "Dlulela kokuqukethwe okuyinhloko",
+    "brandName": "Golden Moments",
+    "brandTag": "Imisebenzi ye-dementia",
+    "homeLabel": "Ikhaya le-Golden Moments",
+    "mainNav": "Okuyinhloko",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: izithombe ezinkulu nezinobungane zenkomishi yetiye, imbali yelanga nenja",
+    "languages": "Ulimi",
+    "englishOnly": "(isiNgisi)",
+    "machineTranslated": "Leli khasi lihunyushwe ngokuzenzakalelayo futhi alikabuyekezwa umuntu okhuluma lolu limi ngokwemvelo.",
+    "readOriginal": "Funda okwangempela ngesiNgisi",
+    "nav": {
+      "games": "Imidlalo",
+      "activities": "Imisebenzi",
+      "caregiving": "Ukunakekela",
+      "brainHealth": "Impilo yobuchopho"
+    },
+    "faqTitle": "Imibuzo nezimpendulo",
+    "breadcrumb": "Umzila wamakhasi",
+    "home": "Ikhaya",
+    "lastUpdated": "Kubuyekezwe kokugcina",
+    "topics": "Izihloko"
+  },
+  "footer": {
+    "play": "Dlalani",
+    "picturePairs": "Amapheya ezithombe",
+    "conversationCards": "Amakhadi engxoxo",
+    "pictureBingo": "I-bingo yezithombe",
+    "allGames": "Yonke imidlalo",
+    "activityIdeas": "Imibono yemisebenzi",
+    "ideas101": "Imibono eyi-101 yemisebenzi",
+    "lateStage": "Imisebenzi yesigaba sokugcina",
+    "printable": "Imisebenzi ephrintekayo",
+    "allActivities": "Yonke imisebenzi",
+    "forCaregivers": "Kubanakekeli",
+    "playTogether": "Ukudlala ndawonye",
+    "selfCare": "Ukuzinakekela nani",
+    "brainHealth": "Ucwaningo ngempilo yobuchopho",
+    "faq": "Imibuzo nezimpendulo",
+    "about": "Mayelana nathi",
+    "approach": "Indlela esisebenza ngayo",
+    "howWeWrite": "Indlela esibhala ngayo",
+    "organizations": "Ezinhlanganweni",
+    "app": "I-app ye-Golden Moments",
+    "appHelp": "Usizo lwe-app",
+    "support": "Usizo",
+    "legal": "Okusemthethweni",
+    "sitePrivacy": "Ubumfihlo bewebhusayithi",
+    "appPrivacy": "Inqubomgomo yobumfihlo ye-app",
+    "privacyChoices": "Ukukhetha kobumfihlo",
+    "terms": "Imigomo nelayisense ye-app",
+    "safety": "Ukuphepha nokusetshenziswa okuhlosiwe",
+    "accessibility": "Ukufinyeleleka",
+    "healthNotice": "Isaziso solwazi lwezempilo",
+    "allLegal": "Lonke ulwazi lwezomthetho",
+    "note": "I-Golden Moments inikeza imisebenzi elula yokwabelana yokujabulela. Akuyona iseluleko sezokwelapha, ukuhlolwa noma ukwelashwa, futhi ayihloli isifo, ayilinganisi muntu noma imnike amaphuzu. Ngemibuzo yezempilo, khulumani nodokotela. Esimeni esiphuthumayo, shayelani inombolo yezimo eziphuthumayo yendawo yakini.",
+    "publisher": "Ishicilelwe yi-Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Imidlalo Nemisebenzi ye-Dementia | Golden Moments",
+    "description": "Imidlalo yezithombe ethambile yamahhala nemibono yemisebenzi yabantu abaphila ne-dementia noma i-Alzheimer's nabanakekeli babo. Akukho sibali sikhathi.",
+    "eyebrow": "Mahhala · Azikho izikhangiso · Akukho ukubhalisa · Akukho sibali sikhathi namaphuzu",
+    "h1": "Imidlalo Nemisebenzi Ethambile Yabantu Abaphila ne-Dementia",
+    "lede": "Imidlalo yezithombe elula, izithombe ezijwayelekile, nemisebenzi yokujabulela ndawonye, ngesivinini senu.",
+    "playGame": "Dlalani Umdlalo",
+    "findIdeas": "Thola imibono yemisebenzi",
+    "facts": [
+      "Isebenza efonini, kuthebhulethi nasekhompyutheni",
+      "Izithombe ezinkulu ezihlala ziyabonakala",
+      "Misa noma nini; akukho lutho oluhlulekayo"
+    ],
+    "heroApp": "Futhi i-app yamahhala ye-iPhone, i-iPad ne-Android, enezithombe zomndeni wenu",
+    "albumNote": "“Izithombe ezimbili zenkomishi yetiye, ndawonye.”",
+    "gamesEyebrow": "Dlalani ku-browser yenu",
+    "gamesTitle": "Imidlalo ongayidlala manje",
+    "gamesLede": "Ngayinye ithule, ifanele abadala futhi iyaqala ngokushesha. Khethani eyodwa, nihlale eceleni komunye nomunye, bese nithinta ngokushintshana.",
+    "seeAllGames": "Bona yonke imidlalo engu-{count}",
+    "howTitle": "Isebenza kanjani",
+    "steps": [
+      {
+        "title": "Khethani into ejwayelekile",
+        "text": "Izithombe zezinkomishi zetiye, izingadi, izilwane zasekhaya nezikebhe. Akudingeki ukufunda noma imithetho okufanele niyifunde kuqala."
+      },
+      {
+        "title": "Hlalani eceleni komunye nomunye",
+        "text": "Mvumeleni athinte. Khulumani ngezithombe. Isithombe esingafani siyalinda ukuthinta okulandelayo."
+      },
+      {
+        "title": "Mimani kusamnandi",
+        "text": "Umdlalo owodwa ungumsebenzi ophelele. “Sekwanele okwamanje” ihlale isesikrinini."
+      }
+    ],
+    "stageEyebrow": "Ngale kwesikrini",
+    "stageTitle": "Imibono yemisebenzi yesigaba ngasinye",
+    "stageLede": "Umculo, imisebenzi yansuku zonke, ukukhumbula izinto zangesikhathi esidlule nezikhathi ezithule zokuzwa, kuguqulelwe kulokho okunethezayo manje.",
+    "ideas101": "Imibono eyi-101 yemisebenzi",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Isigaba sokuqala",
+        "text": "Qhubekani nokwenza lokho abakuthandayo, ngezinguquko ezincane: izinto abazithandayo, uhambo, imidlalo yamagama nokuhlela ndawonye.",
+        "label": "Imibono yesigaba sokuqala"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Isigaba esiphakathi",
+        "text": "Imisebenzi elula nejwayelekile eyahlukaniswe ngezinyathelo: ukugoqa, ukuhlunga, umculo, imidlalo yezithombe nokuhamba kafushane.",
+        "label": "Imibono yesigaba esiphakathi"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Isigaba sokugcina",
+        "text": "Induduzo nokuxhumana ngokuthinta, umsindo nokubona: ukunakekela izandla, izingoma abazithandayo, izithombe nokuba ndawonye.",
+        "label": "Imibono yesigaba sokugcina"
+      }
+    ],
+    "specificHtml": "Nifuna okuthile okuthile? Zamani <a href=\"/activities/alzheimers/\">imisebenzi nemidlalo ye-Alzheimer's</a>, <a href=\"/activities/memory-games/\">imidlalo ethambile yenkumbulo</a>, <a href=\"/activities/trivia/\">imibuzo elula</a> noma <a href=\"/activities/puzzles/\">amaphazili</a>.",
+    "approachEyebrow": "Indlela esisebenza ngayo",
+    "approachTitle": "Umsebenzi wokwabelana, hhayi ukuhlolwa kwenkumbulo",
+    "approachLede": "Imidlalo eminingi “yobuchopho” yakhelwe isivinini, amaphuzu nokunqoba okulandelanayo. Kumuntu ophila ne-dementia lokho kungazwakala njengokuhlolwa. Thina sakhe okuphambene nalokho.",
+    "approachLink": "Kungani senza ngale ndlela",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Akukho lutho oluhlulekayo",
+        "text": "Akukho sibali sikhathi, amaphuzu, amathuba noma ukulahlekelwa. Isithombe esihlukile siwukuphumula, hhayi iphutha."
+      },
+      {
+        "icon": "eye",
+        "title": "Izithombe zihlala ziyabonakala",
+        "text": "Ukwazi kudlula ukukhumbula. Ukufanisa kuqala izithombe zibonakala, ngakho akukho lutho okufanele lukhunjulwe."
+      },
+      {
+        "icon": "people",
+        "title": "Kwabadala futhi kunesithunzi",
+        "text": "Amagama ashisayo nalula nezithombe zangempela. Akukho zinkathi zamakhathuni noma ukukhuluma okufana nokwengane."
+      },
+      {
+        "icon": "shield",
+        "title": "Ubumfihlo ngokwakhiwa",
+        "text": "Akukho ama-akhawunti noma izikhangiso. Izithombe zenu azishiyi idivayisi yenu."
+      }
+    ],
+    "guidesEyebrow": "Kubanakekeli",
+    "guidesTitle": "Imihlahlandlela esebenzayo yokunakekela kwansuku zonke",
+    "allCaregiving": "Yonke imihlahlandlela yokunakekela",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Indlela yokudlala imidlalo ndawonye",
+        "text": "Ukuyilungiselela, isivinini, nokwenza uma umdlalo ungasamnandi."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Uma bethi cha emsebenzini",
+        "text": "Izizathu ezivamile zokunqaba, nezindlela ezithambile zokuzama futhi kamuva."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Ukuhlela ithebhulethi",
+        "text": "Umbhalo omkhulu, ukuphazamiseka okuncane nesikrini sasekhaya esisodwa esilula."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Imisebenzi ephrintekayo yamahhala",
+        "text": "Ukusesha amagama ngokuphrinta okukhulu, amakhasi okufaka imibala, i-bingo namakhadi engxoxo."
+      }
+    ],
+    "researchTitle": "Impilo yobuchopho: lokho ucwaningo oluthi ngempela",
+    "researchText": "Ingabe i-dementia ingavinjwa? Ingabe imidlalo “yobuchopho” iyasiza? Kuthiwani ngokuzila ukudla, ukudla, ukulala nokuzwa? Izimpendulo ezilula, ezinezinkomba, kuhlanganise nalapho ubufakazi bubuthaka.",
+    "researchLink": "Funda imihlahlandlela yocwaningo",
+    "appEyebrow": "Futhi i-app",
+    "appTitle": "I-Golden Moments ku-iPhone, i-iPad ne-Android",
+    "appText": "I-app yamahhala isebenza ngaphandle kwe-inthanethi futhi ingasebenzisa izithombe zomndeni enizikhethayo, ezigcinwa njengamakhophi kudivayisi yenu. Idizayini efanayo ethule: amakhadi amane amakhulu, akukho sibali sikhathi, akukho maphuzu.",
+    "aboutApp": "Mayelana ne-app",
+    "faq": [
+      {
+        "q": "Yiyiphi imidlalo emihle yabantu abaphila ne-dementia?",
+        "a": "Imidlalo emihle ilula, ijwayelekile futhi ayinakucindezela: izithombe ezinkulu zokufanisa, ukuhlunga, amaphazili alula, ukuqeda izisho ezaziwayo, ukuthinta imibala, i-bingo yezithombe namakhadi engxoxo. Okukhethwayo okungcono yilokho umuntu akujabulelayo namuhla. Gwemani izibali sikhathi, amaphuzu nanoma yini ezwakala njengokuhlolwa."
+      },
+      {
+        "q": "Ingabe le midlalo ye-dementia ayinamali?",
+        "a": "Yebo. Yonke imidlalo nokuphrintekayo ku-Golden Moments kungamahhala, ngaphandle kwe-akhawunti, ukubhalisa noma ukulanda. Imidlalo isebenza ku-browser efonini, kuthebhulethi noma ekhompyutheni."
+      },
+      {
+        "q": "Ingabe imidlalo “yobuchopho” ivimbela i-dementia?",
+        "a": "Akukho mdlalo oboniswe ukuthi uvimbela i-dementia, futhi i-Golden Moments ayithi iyelapha noma ivimbe lutho. Imidlalo yethu iyokujabulela nokuba ndawonye. Isigaba sethu sempilo yobuchopho sichaza lokho ucwaningo olukubonisayo nolungakubonisi."
+      },
+      {
+        "q": "Ingabe le midlalo ifanele umuntu one-Alzheimer's?",
+        "a": "Yebo. Isifo i-Alzheimer's siyimbangela evame kakhulu ye-dementia, futhi imidlalo yenzelwe yona: izithombe ezinkulu ezihlala ziyabonakala, ukukhetha okuncane, futhi akukho lutho olufanele lukhunjulwe noma lwenziwe kabi. Ukufanisa, ukuhlunga nokuqeda izisho ezijwayelekile kuncike olwazini lwesikhathi eside kunokufunda okusha."
+      },
+      {
+        "q": "Ingabe umuntu one-dementia yesigaba sokugcina angasebenzisa le misebenzi?",
+        "a": "Kaningi, yebo, uma kukhona umuntu eceleni kwakhe. Qalani ngo-Thola okufanayo ngezithombe ezimbili, Amapheya ezithombe ngamakhadi amane, ikhasi lokufaka imibala noma ukuphumula ngokuphefumula okuthulile. Kugcineni kufushane, landelani akuthandayo bese nimisa uma esekwanele."
+      },
+      {
+        "q": "Ingabe ulwazi lwami luyimfihlo?",
+        "a": "Lesi sayithi asinawo ama-akhawunti futhi asinazo izikhangiso. Sisebenzisa i-Google Analytics ukuqonda ukuthi yimaphi amakhasi avakashelwa. Izithombe enizikhethela ku-Amapheya ezithombe zomndeni zikhonjiswa kuphela ku-browser yenu futhi azilayishwa neze."
+      },
+      {
+        "q": "Ngubani owenza i-Golden Moments?",
+        "a": "I-Golden Moments yithimba elincane elenza imisebenzi yezithombe ethule nefanele abadala yemindeni nabanakekeli, kuwebhu nanjenge-app yamahhala. Asizona odokotela, futhi akukho lutho lapha oluyiseluleko sezokwelapha."
+      }
+    ]
+  },
+  "stage": {
+    "early": "sokuqala",
+    "middle": "esiphakathi",
+    "late": "sokugcina",
+    "hintOne": "Ivame ukufanela isigaba {list}",
+    "hintMany": "Ivame ukufanela izigaba {list}",
+    "labelEarly": "Isigaba sokuqala",
+    "labelMiddle": "Isigaba esiphakathi",
+    "labelLate": "Isigaba sokugcina"
+  },
+  "cards": {
+    "aboutGame": "Mayelana nalo mdlalo",
+    "printable": "Iyaphrintwa",
+    "play": "Dlalani {name} →",
+    "readGuide": "Funda umhlahlandlela"
+  },
+  "playCta": {
+    "title": "Nikulungele umdlalo othambile?",
+    "text": "Izithombe ezinkulu, akukho sibali sikhathi, akukho maphuzu futhi akukho lutho lokubhalisela. Dlalani ndawonye ku-browser yenu.",
+    "play": "Dlalani Umdlalo",
+    "all": "Bona yonke imidlalo",
+    "aria": "Dlalani umdlalo"
+  },
+  "appCta": {
+    "title": "Hambani nale midlalo",
+    "text": "I-app yamahhala ye-Golden Moments ye-iPhone, i-iPad ne-Android: amakhadi amakhulu ezithombe, imidlalo enezithombe zomndeni wenu, namaphakethe ezithombe asebenza ngaphandle kwe-Wi‑Fi. Akukho akhawunti, izikhangiso, sibali sikhathi noma maphuzu.",
+    "appStore": "Yitholeni ku-App Store",
+    "googlePlay": "Yitholeni ku-Google Play",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Mayelana ne-app",
+    "aria": "Thola i-app"
+  },
+  "sections": {
+    "activities": {
+      "label": "Imisebenzi",
+      "title": "Imisebenzi Yabantu Abaphila ne-Dementia",
+      "seo": "Imisebenzi Yabantu Abaphila ne-Dementia: Imibono Ngesigaba",
+      "description": "Imibono yemisebenzi yabantu abaphila ne-dementia kuso sonke isigaba: umculo, ukukhumbula, imisebenzi yansuku zonke, ubuciko nokuphrintekayo kwamahhala.",
+      "lede": "Umsebenzi onenjongo yilokho okuletha induduzo, injongo noma isikhathi sokuxhumana. Qalani ngalokho umuntu ebelokhu ekujabulela, bese nikuguqulela kwanamuhla."
+    },
+    "caregiving": {
+      "label": "Ukunakekela",
+      "title": "Imihlahlandlela Yokunakekela",
+      "seo": "Imihlahlandlela Yokunakekela i-Dementia: Usizo Olusebenzayo",
+      "description": "Imihlahlandlela esebenzayo yabanakekeli be-dementia: ukudlala ndawonye, ukuxhumana, ukunqaba, ukungaphumuli ntambama, amathebhulethi nokuzinakekela.",
+      "lede": "Usizo olulula nolusebenzayo lwezikhathi zansuku zonke zokunakekela umuntu ophila ne-dementia, kuhlanganise nokuzinakekela nani."
+    },
+    "brain-health": {
+      "label": "Impilo yobuchopho",
+      "title": "Impilo Yobuchopho: Lokho Ucwaningo Oluthi",
+      "seo": "Impilo Yobuchopho Nobungozi be-Dementia: Ucwaningo",
+      "description": "Ingabe i-dementia ingavinjwa? Imihlahlandlela eqotho, enezinkomba yezinto ezibeka engozini, imidlalo, ukuzila, ukudla, ukuzivocavoca, ukulala nokuzwa.",
+      "lede": "Lokho izifundo ezinkulu ezikubonisa ngempela ngokunciphisa ubungozi be-dementia, kuchazwe kalula, kuhlanganise nalapho ubufakazi bubuthaka noma buxubile. Ulwazi olujwayelekile, hhayi iseluleko sezokwelapha."
+    }
+  },
+  "guide": {
+    "updated": "Kubuyekezwe",
+    "minuteRead": "Imizuzu emi-{n} yokufunda",
+    "byTeam": "Ngethimba le-Golden Moments",
+    "howWeWrite": "Indlela esibhala ngayo",
+    "shortAnswer": "Impendulo emfushane",
+    "onThisPage": "Kuleli khasi (izingxenye ezingu-{n})",
+    "commonQuestions": "Imibuzo evamile",
+    "sources": "Imithombo",
+    "sourcesNote": "Sixhumanisa nezinhlangano nezifundo leli khasi eliklanyelwe kuzo. Lunye lwahlolwa lapho leli khasi libuyekezwa.",
+    "tryTogether": "Zamani ndawonye",
+    "relatedGuides": "Imihlahlandlela ehlobene",
+    "related": "Okuhlobene",
+    "startHere": "Qalani lapha"
+  },
+  "healthNotice": {
+    "aria": "Isaziso solwazi lwezempilo",
+    "title": "Ulwazi olujwayelekile, hhayi iseluleko sezokwelapha",
+    "textHtml": "Leli khasi lifingqa ucwaningo olushicilelwe lwemindeni. Alikwazi ukunitshela ukuthi yini elungele umuntu oyedwa. Khulumani nodokotela ngaphambi kokushintsha ukudla, ukuzivocavoca, ukulala, imithi noma izithako ezengeziwe. Uma kunokudideka okuzumayo noma ezinye izinguquko ezizumayo, thola usizo lwezokwelapha ngokushesha. <a href=\"/medical-disclaimer/\">Funda isaziso sethu solwazi lwezempilo</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Umsebenzi Wokwabelana, Hhayi Ukuhlolwa Kwenkumbulo",
+      "seoTitle": "Mayelana ne-Golden Moments: Indlela Esisebenza Ngayo",
+      "description": "Kungani imidlalo ye-Golden Moments ingenazibali sikhathi noma maphuzu, nokuthi sizothi yini nokuthi ngeke sithi yini mayelana ne-dementia.",
+      "crumb": "Indlela esisebenza ngayo",
+      "lede": "I-Golden Moments yenza imisebenzi yezithombe ethule, efanele abadala, umnakekeli nomuntu ophila ne-dementia abangayijabulela behleli eceleni komunye nomunye.",
+      "bodyHtml": "<h2>Esikukholelwayo</h2><p>Inhloso yomsebenzi yisikhathi uqobo: ingxoxo, ukumomotheka, injabulo yokuhlanganisa izithombe ezimbili, noma ukuhlala eduze nje. Akukhona ukulinganisa muntu, ukumcindezela kude noma ukufakazela lutho.</p><p>Ama-app amaningi “okuqeqesha ubuchopho” enziwe ngokusekelwe esivinini, emaphuzwini, ekunqobeni okulandelanayo nasezigabeni. Kumuntu ophila ne-dementia lokho kungazwakala njengokuhlolwa angakwazi ukukudlula. Thina senza okuphambene nalokho, futhi sizibophezela kule mithetho:</p><ul><li><strong>Akukho lutho oluhlulekayo.</strong> Akukho sibali sikhathi, amaphuzu, isibali sezinyathelo, amathuba, ukunqoba okulandelanayo, ama-confetti noma ukubala emuva, kunoma yisiphi isikrini.</li><li><strong>Ukwazi kudlula ukukhumbula.</strong> Izithombe zihlala ziyabonakala ngokuzenzakalelayo. Iziqondiso zimema ingxoxo futhi azibuzi amagama noma izinkumbulo.</li><li><strong>Kukhulu, kulula futhi kuzinzile.</strong> Umbhalo nezithombe ezinkulu, umehluko ophakeme wemibala, nezilawuli ezihlala endaweni efanayo.</li><li><strong>Isithunzi sabadala.</strong> Izithombe zangempela namagama alula, ashisayo. Akukho makhathuni, ukudumisa okufana nengoma noma imivuzo ye-emoji.</li><li><strong>Indlela elula yokuphuma.</strong> “Sekwanele okwamanje” ihlale ibonakala. Ukuma phakathi nendlela kuyisiphetho esihle.</li><li><strong>Imfihlo ngokuzenzakalelayo.</strong> Akukho ama-akhawunti noma izikhangiso. Izithombe enizikhethayo ziyahlala kudivayisi yenu.</li></ul><h2>Esingathi</h2><p>Imidlalo yethu iyokujabulela nokuxhumana. Ayihloli isifo, ayiyona inhlolo, ayilinganisi, ayelapheli, ayiyehlisi futhi ayiyivimbi i-dementia noma isifo i-Alzheimer’s, futhi akekho okufanele ayikhethe ngalesi sizathu. Uma sibhala ngocwaningo ku-<a href=\"/brain-health/\">amakhasi ethu empilo yobuchopho</a>, sisho ngokusobala lapho ubufakazi bubuthaka, futhi asiyixhumanisi neze nemidlalo yethu.</p><h2>Singobani</h2><p>I-Golden Moments yithimba elincane elizimele. Asizona odokotela. Imihlahlandlela yethu ibhalwe ngokusekelwe esiqondisweni esishicilelwe yizinhlangano ezinjenge-National Institute on Aging ne-Alzheimer’s Association, futhi umhlahlandlela ngamunye ubala imithombo yawo. Funda <a href=\"/editorial-policy/\">indlela esibhala ngayo nesihlola ngayo amakhasi ethu</a>.</p><h2>Sitshelani ukuthi yini ebingasiza</h2><p>Sizothanda ukuzwa ukuthi yini esebenzayo kunina nokuthi yini engasebenzi, ikakhulukazi kubantu abaphila ne-dementia, abanakekeli bomndeni nabasebenzi bemisebenzi. Thumelani i-imeyili ku-<a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Indlela Esibhala Ngayo Nesihlola Ngayo Amakhasi Ethu",
+      "seoTitle": "Inqubomgomo Yokuhlela",
+      "description": "Ukuthi i-Golden Moments ihlola, ibhala futhi ibuyekeza kanjani amakhasi ayo emisebenzi ye-dementia nempilo yobuchopho, nalokho ingeke ikushicilele.",
+      "crumb": "Inqubomgomo yokuhlela",
+      "bodyHtml": "<h2>Imithombo yethu</h2><p>Siqhuba imihlahlandlela yethu ngokusekelwe esiqondisweni somphakathi sezinhlangano ezinjenge-National Institute on Aging, i-CDC, i-Alzheimer’s Association, i-Alzheimer’s Foundation of America, i-Family Caregiver Alliance ne-NHS, nasocwaningweni olubuyekezwe ontanga olufana nokubuyekezwa kwe-Cochrane nezivivinyo ezinkulu zomtholampilo. Umhlahlandlela ngamunye ubala imithombo awuklanyelwe kuyo. Sivula umthombo ngamunye ngaphambi kokuwucaphuna, futhi sibika kuphela lokho okushiwo ngempela.</p><h2>Indlela esibhala ngayo</h2><ul><li>Okusebenzayo kuqala: yini okufanele yenziwe namuhla, ngolimi olulula.</li><li>Siqotho ngobufakazi: sithi “kuhlobene no-”, “kungase” kanye “nobufakazi buxubile” lapho kuyiqiniso.</li><li>Ngenhlonipho: sibhala ngabantu abaphila ne-dementia njengabadala, futhi asisebenzisi neze ulimi lokubuza imibuzo noma lokuhlazisa.</li><li>Akukho okuqanjiwe: akukho zibalo, ucaphuno, ochwepheshe, izifundo, ukubuyekezwa noma ubufakazi obuqanjiwe.</li></ul><h2>Ngubani obuyekeza amakhasi ethu</h2><p>Amakhasi abhalwa futhi ahlolwa ithimba le-Golden Moments, ngosizo lwamathuluzi okubhala e-AI ocwaningweni nokwenza uhlaka. Ikhasi ngalinye lihlolwa ngokuqhathaniswa nemithombo yalo ithimba. Amakhasi ethu <strong>awakabuyekezwa</strong> udokotela noma omunye uchwepheshe wezempilo, futhi asikushiyi lokho. Ulwazi olujwayelekile, hhayi iseluleko sezokwelapha.</p><h2>Esingeke sikushicilele</h2><ul><li>Izimangalo zokuthi umdlalo, ukudla, isithako esengeziwe, ukuzila noma umkhuba uvimbela, welapha, wehlisa noma uphulukisa i-dementia.</li><li>Ukuhlolwa, imibuzo noma amaphuzu aphakamisa ukuthi umuntu une-dementia noma akanayo.</li><li>Iseluleko sokuqala, sokumisa noma sokushintsha noma yimuphi umuthi.</li><li>Isikhangiso noma okuqukethwe okuxhasiwe okufihlwe njengesiqondiso.</li></ul><h2>Izibuyekezo nezilungiso</h2><p>Ikhasi ngalinye libonisa usuku elibuyekezwe ngalo kokugcina. Uma nithola iphutha noma umthombo osudlulelwe isikhathi, sicela nithumele i-imeyili ku-<a href=\"mailto:{email}\">{email}</a> futhi sizoyihlola ngokushesha.</p>"
+    },
+    "faq": {
+      "title": "Imibuzo Nezimpendulo",
+      "seoTitle": "Imidlalo Nemisebenzi ye-Dementia: Imibuzo Nezimpendulo",
+      "description": "Izimpendulo zemibuzo evamile ngemidlalo nemisebenzi ye-dementia: imidlalo ongayizama, isikhathi sokudlala, isigaba sokugcina nobumfihlo.",
+      "crumb": "Imibuzo nezimpendulo",
+      "lede": "Izimpendulo ezimfushane, ezilula zemibuzo abanakekeli abayibuza kakhulu.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Mayelana nemidlalo",
+          "items": [
+            {
+              "q": "Yiyiphi imidlalo engcono kakhulu yomuntu one-dementia?",
+              "a": "Imidlalo engcono kakhulu ijwayelekile, ilula futhi ayinakucindezela, futhi emfanele yilokho umuntu akujabulelayo namuhla. Ukufanisa izithombe ezibonakalayo, ukuhlunga, amaphazili alula, ukuqeda izisho ezijwayelekile, ukuthinta imibala ne-bingo yezithombe konke kusebenza kahle kubantu abaningi. Gwemani izibali sikhathi, amaphuzu nanoma yini ezwakala njengokuhlolwa."
+            },
+            {
+              "q": "Ingabe imidlalo ngempela iyamahhala?",
+              "a": "Yebo. Yonke imidlalo nokuphrintekayo kungamahhala, ngaphandle kwe-akhawunti, ukubhalisa, ukulanda noma izikhangiso."
+            },
+            {
+              "q": "Kungani kungekho maphuzu, izigaba noma izibali sikhathi?",
+              "a": "Isivinini namaphuzu kuguqula umsebenzi omnandi ube ukuhlolwa, okungalethela ihlazo noma ukukhathazeka. Sigcina ukugxila ekujabuleleni nasekubeni ndawonye, ngakho akukho lutho oluhlulekayo futhi ningama noma kunini."
+            },
+            {
+              "q": "Yiziphi izinsiza ezisebenza kangcono?",
+              "a": "Noma yiliphi ifoni, ithebhulethi noma ikhompyutha ene-browser yewebhu yesimanje. Ithebhulethi esesihlalweni etafuleni kuvame ukuba yindlela enethezeka kakhulu yokuthi abantu ababili badlale beceleni komunye nomunye. Ilaptop exhunywe kuthelevishini isebenza kahle emaqenjini."
+            },
+            {
+              "q": "Ingabe singadlala ngezithombe zomndeni wethu?",
+              "a": "Yebo. Amapheya ezithombe zomndeni aguqula izithombe ezi-2 kuya kwezingu-6 enizikhethayo zibe umdlalo wokufanisa. Izithombe ziyahlala ku-browser yenu futhi azilayishwa noma zigcinwe."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Imisebenzi nokunakekela",
+          "items": [
+            {
+              "q": "Umsebenzi kufanele uthathe isikhathi esingakanani?",
+              "a": "Imizuzu eyi-10 kuya kwengu-20 ivame ukwanela, futhi kwesinye isikhathi imizuzu emi-2 iwukuphumelela. Qaphelani izimpawu zokukhathala noma zokukhathazeka bese nimisa kusamnandi. Akukho nani elifanele."
+            },
+            {
+              "q": "Kuthiwani uma bengafuni ukwenza umsebenzi?",
+              "a": "Hlonipheni ukuthi cha, bese nizama futhi kamuva noma ngenye indlela. Ukunqaba kungavela ekukhathaleni, ebuhlungwini, ekungaqiniseki noma ekungabi nentshisekelo nje. Bhekani umhlahlandlela wethu wokwenza uma bethi cha."
+            },
+            {
+              "q": "Yimiphi imisebenzi efanele i-dementia yesigaba sokugcina?",
+              "a": "Induduzo nezinzwa: ukulalela umculo abawuthandayo, ukuthinta izandla ngamafutha, ukubuka izithombe ndawonye, ukubamba ingubo ethambile, ukuhlala ngaphandle, noma umdlalo wezithombe olula kakhulu uma kukhona umuntu eceleni. Umhlahlandlela wethu wesigaba sokugcina unemibono eminingi."
+            },
+            {
+              "q": "Ingabe kukhona imisebenzi yamaqembu ekhaya lokunakekela?",
+              "a": "Yebo. I-bingo yezithombe inamakhadi aphrintekayo nomsakazi osesikrinini, futhi Qeda isisho namaKhadi engxoxo asebenza kahle efundwa ngokuzwakalayo. Umhlahlandlela wethu wamaqembu asemakhaya okunakekela ubhekelela usayizi weqembu, ukuhlala nokuguqula kuhambisane namakhono ahlukene."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Impilo yobuchopho",
+          "items": [
+            {
+              "q": "Ingabe imidlalo ingavimbela noma ihlise i-dementia?",
+              "a": "Akukho mdlalo oboniswe ukuthi uvimbela i-dementia, futhi imidlalo yethu ayithi lutho olufana nalokho. Ukukhuthaza ukuqonda esimweni sokuhlalisana kubonise izinzuzo ezincane ocwaningweni lwabantu abane-dementia ephansi kuya ephakathi, kodwa lokho kuhlukile ekutheni umdlalo uvimbele isifo. Sinikeza imidlalo yokujabulela nokuxhumana."
+            },
+            {
+              "q": "Ingabe i-dementia ingavinjwa?",
+              "a": "Hhayi ngokuqinisekile. Ucwaningo luhlobanisa izinto eziyi-14 zezempilo nokuphila nobungozi be-dementia, njengokulahlekelwa ukuzwa, ukucindezela kwegazi okuphezulu, ukungenzi umsebenzi womzimba nokuzihlukanisa nabantu. Ukubhekana nazo kungase kunciphise ubungozi kwabanye abantu, kodwa abantu abaningi abenza konke ngendlela efanele basathola i-dementia. Akuyona neze iphutha lomuntu."
+            },
+            {
+              "q": "Ingabe ukuzila ukudla ngezikhawu kuhle empilweni yobuchopho?",
+              "a": "Ubufakazi babantu bulinganiselwe futhi busesemncane, futhi okuningi kocwaningo kusezilwaneni. Ukuzila kungaba nobungozi kubantu abadala, ikakhulukazi nemithi yoshukela noma ukwehla kwesisindo okungahlosiwe, futhi akunconywa kubantu abaphila ne-dementia. Khulumani nodokotela ngaphambi kokushintsha indlela enidla ngayo."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Ubumfihlo nokuphepha",
+          "items": [
+            {
+              "q": "Ingabe nifaka noma yiluphi ulwazi?",
+              "a": "Akukho ama-akhawunti noma izikhangiso. Sisebenzisa i-Google Analytics ukubala ukuvakasha nokubona ukuthi yimaphi amakhasi asizayo, futhi i-browser yenu ikhumbula ukuthi ivule yini imisindo ethambile. Izithombe enizikhethela Amapheya ezithombe zomndeni azilayishwa neze. Bhekani isaziso sobumfihlo ukuze nithole imininingwane."
+            },
+            {
+              "q": "Ingabe lokhu kuyiseluleko sezokwelapha?",
+              "a": "Cha. I-Golden Moments iyokuzilibazisa nolwazi olujwayelekile. Ngemibuzo yezempilo, khulumani nodokotela, futhi ezimweni eziphuthumayo shayelani inombolo yezimo eziphuthumayo yendawo yakini."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Imininingwane eyengeziwe: <a href=\"/caregiving/how-to-play-together/\">indlela yokudlala ndawonye</a>, <a href=\"/caregiving/when-they-say-no/\">uma bethi cha</a>, <a href=\"/activities/late-stage/\">imisebenzi yesigaba sokugcina</a> kanye <a href=\"/brain-health/can-dementia-be-prevented/\">nokuthi i-dementia ingavinjwa yini?</a>"
+    },
+    "handout": {
+      "title": "Imidlalo Ethambile Yamahhala Yabantu Abaphila ne-Dementia",
+      "seoTitle": "Iphepha Eliphrintekayo: Imidlalo ye-Dementia Yamahhala",
+      "description": "Iphepha eliphrintekayo lemindeni nabanakekeli ngemidlalo yezithombe ethambile yamahhala yabantu abaphila ne-dementia, lamaqembu osizo.",
+      "crumb": "Iphepha eliphrintekayo",
+      "lede": "Phrintani leli khasi leqembu losizo, iphakethe lokunakekela noma umnyango wefriji. Sebenzisani umyalo we-Print we-browser yenu; amamenyu nezinkinobho ayashiywa ephrinthweni.",
+      "introHtml": "<p>Izithombe ezinkulu, amagama alula futhi akukho lutho oluhlulekayo. Mahhala efonini, kuthebhulethi noma ekhompyutheni, ngaphandle kokubhalisa, izikhangiso, izibali sikhathi namaphuzu. Hlalani eceleni komunye nomunye bese nithinta ngokushintshana.</p>",
+      "gamesTitle": "Imidlalo ongayizama ndawonye",
+      "restHtml": "<h2>Amathiphu ambalwa</h2><ul><li>Khethani isikhathi sosuku lapho umuntu ekahle kakhulu.</li><li>Qalani ngesilungiselelo esilula kakhulu. Amakhadi amane anele.</li><li>Khulumani ngezithombe. Ingxoxo ivame ukuba yingxenye engcono kakhulu.</li><li>Mimani kusamnandi. Ukuphela ngaphambi kwesikhathi kuyisiphetho esihle.</li></ul><h2>Futhi esayithini</h2><ul><li>Okuphrintekayo kwamahhala: ukusesha amagama ngokuphrinta okukhulu, amakhasi okufaka imibala, amakhadi engxoxo ne-bingo yezithombe.</li><li>Imibono yemisebenzi yesigaba ngasinye, nemihlahlandlela yokudlala ndawonye nokuzinakekela nani.</li></ul><p class=\"muted\">Ngokujabulela nokuba ndawonye. Akuyona iseluleko sezokwelapha, ukuhlolwa noma ukwelashwa. I-Golden Moments ishicilelwe yi-Cloudjet Solutions Pte. Ltd.</p>"
+    },
+    "organizations": {
+      "title": "Kumakhaya Okunakekela, Amalabhulali Namaqembu Osizo",
+      "seoTitle": "Imisebenzi ye-Dementia Yamahhala Yamakhaya Namaqembu",
+      "description": "Ukuthi amakhaya okunakekela, amalabhulali namaqembu osizo asebenzisa kanjani imidlalo yethu ye-dementia yamahhala, nombhalo wokusifaka ohlwini.",
+      "crumb": "Ezinhlanganweni",
+      "lede": "Konke kuleli sayithi kungamahhala ukukusebenzisa nabahlali, amalungu namakhasimende, ngaphandle kwe-akhawunti, ilayisense noma imali. Leli khasi lichaza lokho okukhona lapha nokuthi ungakwabelana kanjani.",
+      "shortText": "{name}: imidlalo yezithombe ethambile yamahhala nemihlahlandlela yemisebenzi yabantu abaphila ne-dementia nabanakekeli babo. Akukho kubhalisa, izibali sikhathi, amaphuzu.",
+      "longText": "{name} ({domain}) inikeza imidlalo engu-{count} yamahhala ye-browser eyenzelwe abantu abaphila ne-dementia, kuhlanganise nokufanisa amapheya ngezithombe ezishiywe zibonakala, iphazili elula, ukuhlunga, izisho ezijwayelekile ne-bingo yezithombe enamakhadi aphrintekayo. Akukho akhawunti, izikhangiso, sibali sikhathi noma maphuzu. Isayithi linemihlahlandlela yemisebenzi ngolimi olulula yesigaba ngasinye se-dementia ecaphuna i-National Institute on Aging ne-Alzheimer's Association.",
+      "useTitle": "Lokho izinhlangano ezingakusebenzisa",
+      "gamesItemHtml": "<strong>Imidlalo engu-{count} ye-browser</strong> esebenza kulaptop, kuthebhulethi noma kuthelevishini exhunywe ekhompyutheni. Akukho kufaka, akhawunti noma ukulanda. Bhekani <a href=\"/games/\">yonke imidlalo</a>.",
+      "printablesLabel": "Okuphrintekayo okungu-{count}:",
+      "printablesAfter": "Sebenzisani inkinobho ye-Print ekhasini ngalinye.",
+      "moreItemsHtml": "<li><strong>Izinhlobo zamaqembu:</strong> <a href=\"/games/picture-bingo/\">I-bingo yezithombe</a> inamakhadi aphrintekayo nomsakazi osesikrinini, futhi <a href=\"/activities/trivia/\">imibuzo elula</a> inemibuzo engama-50 enezinketho zezimpendulo namaphuzu okukhuluma.</li><li><strong>Imihlahlandlela yemisebenzi</strong> yabasebenzi nemindeni, ngesigaba nangohlobo, ibhalwe ngolimi olulula enemithombo. Qalani nge-<a href=\"/activities/ideas/\">imibono eyi-101 yemisebenzi</a> noma <a href=\"/activities/care-home-groups/\">imisebenzi yamaqembu emakhaya okunakekela</a>.</li>",
+      "restHtml": "<h2>Indlela amaqembu asebenzisa ngayo</h2><ul><li><strong>Amakhaya okunakekela nokunakekela inkumbulo:</strong> i-bingo yezithombe noma ukuqeda isisho kuthelevishini yasegumbini elivamile, umuntu oyedwa ethinta iqembu.</li><li><strong>Izinhlelo zasemini zabadala:</strong> isiteshi sethebhulethi esine-Amapheya ezithombe esisethwe ngamakhadi amane, ezikhathi ezimfushane zomuntu ngamunye.</li><li><strong>Amalabhulali omphakathi:</strong> ukusesha amagama okuphrintiwe namakhadi engxoxo emaphaketheni enkumbulo, nesayithi elikhonjiwe emathebhulethi elabhulali.</li><li><strong>Amaqembu osizo labanakekeli namakhefi enkumbulo:</strong> <a href=\"/handout/\">iphepha elilodwa eliphrintekayo</a> emindeni ukuze iliyise ekhaya.</li><li><strong>Izibhedlela nabahlela ukuphuma:</strong> iphepha emaphaketheni abanakekeli, ukuze kube nokuthile okuthulile okwenziwayo ekhaya noma eceleni kombhede.</li></ul><h2>Esingakwenzi</h2><p>Imidlalo iyokujabulela nokuba ndawonye. Ayihloli isifo, ayiyona inhlolo, ayinikezi maphuzu, ayelapheli noma ayiyehlisi i-dementia, futhi sicela izinhlangano zingayichazi ngaleyo ndlela. Azikho izikhangiso, futhi imidlalo ayibuzi amagama, imininingwane yezempilo noma ukulayisha izithombe. Iwebhusayithi isebenzisa i-Google Analytics ukubala ukuvakasha; <a href=\"/privacy/\">isaziso sethu sobumfihlo</a> sichaza lokho okuqoqwayo. Izithombe ezisetshenziswa ku-<a href=\"/games/photo-pairs/\">Amapheya ezithombe zomndeni</a> ziyahlala ku-browser.</p><h2>Sifakeni ohlwini lwenu lwezinsiza</h2><p>Uma ninohlu lwezinsiza zabanakekeli, namukelekile ukuxhumanisa ne-<a href=\"/\">{domain}</a>. Ningakopisha noma yiluphi incazelo.</p>",
+      "shortTitle": "Incazelo emfushane",
+      "longTitle": "Incazelo ende",
+      "linksHtml": "<p>Amakhasi awusizo ongaxhumanisa nawo ngqo: <a href=\"/games/\">imidlalo yamahhala</a>, <a href=\"/activities/printable/\">okuphrintekayo kwamahhala</a>, <a href=\"/activities/alzheimers/\">imisebenzi ye-Alzheimer's</a> kanye <a href=\"/caregiving/how-to-play-together/\">nendlela yokudlala ndawonye</a>.</p><h2>Imibuzo noma izilungiso</h2><p>Uma okuthile esayithini kungalungile noma kungacaci, noma izidingo zomuntu ohlalayo zingahlangatshezwa yilokho okukhona lapha, sicela nisitshele ku-<a href=\"mailto:{email}\">{email}</a>. Sicela ningathumeli ulwazi lomuntu siqu noma lwezempilo ngabahlali noma amakhasimende.</p>"
+    },
+    "app": {
+      "title": "I-App ye-Golden Moments",
+      "seoTitle": "I-App ye-Golden Moments ye-iPhone ne-Android",
+      "description": "I-app yamahhala ye-Golden Moments: ukufanisa izithombe okuthambile ngamakhadi amane amakhulu, izithombe zomndeni kudivayisi yenu, akukho akhawunti.",
+      "crumb": "I-app",
+      "lede": "Konke enikuthandayo ewebhusayithi, ku-app esebenza ngaphandle kwe-inthanethi futhi ingasebenzisa izithombe zomndeni enizikhethayo.",
+      "worksOn": "Isebenza ku-{platforms} ({requirements}).",
+      "bodyHtml": "<h2>Qalani kancane</h2><p>Qalani ngamakhadi amane amakhulu nezithombe ezijwayelekile. Gcinani izithombe ziyabonakala, noma nizifihle uma lokho kunethezeka. Imodi ethambile ayinasibali sikhathi, maphuzu noma sijeziso. Khethani amakhadi angu-4, 6, 8 noma 12.</p><h2>Yenzeni ibe yenu</h2><p>Khethani izithombe zomndeni ngesikhethi sezithombe sedivayisi yenu. I-app igcina amakhophi amancane emisebenzini yayo. Ayiskeni ilabhulali yenu noma ishintshe izithombe zenu zangempela, futhi igcina izithombe ezifinyelela kwezingu-24 eqoqweni elilodwa.</p><h2>Bukani ndawonye nje</h2><p>Bukani isithombe esisodwa ngesikhathi. Iziqondiso eziyikhetho zimema ingxoxo ngaphandle kokucela muntu ukuthi akhumbule amagama noma anikeze impendulo efanele. Ukubuka nje kwanele.</p><h2>Ngaphandle kwe-inthanethi lapho kubalulekile</h2><p>Izithombe zokuqala nawo wonke amaphakethe ayisishiyagalombili ezithombe afakiwe ku-app. Amakhophi ezithombe ezengeziwe asebenza ngaphandle kwe-inthanethi. Ukukhetha izithombe zangempela ezigcinwe ku-iCloud kuphela kungadinga ukuxhumeka ku-inthanethi.</p><h2>Akukho akhawunti, akukho seva yokuvumelanisa izithombe</h2><p>Amakhophi ezithombe zomndeni ahlala ku-app kudivayisi. Ningasusa amakhophi ngaphandle kokususa izithombe zangempela. Ama-backup edivayisi angafaka idatha ye-app. Funda <a href=\"/app-privacy/\">inqubomgomo yobumfihlo ye-app</a>, futhi <a href=\"/help/\">usizo lwe-app</a> luchaza isinyathelo ngasinye.</p>",
+      "disclaimer": "I-Golden Moments iyokuzilibazisa nengxoxo yokwabelana. Ayihloli isifo, ayelapheli, ayivimbi futhi ayilinganisi i-dementia noma isifo i-Alzheimer’s.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Imidlalo Yamahhala Ye-Dementia Ne-Alzheimer's Ku-inthanethi",
+    "description": "Imidlalo yamahhala ku-inthanethi yabadala abaphila ne-dementia: ukufanisa izithombe, amaphazili alula, ukuhlunga, izisho, imibala, i-bingo. Akukho sibali.",
+    "crumb": "Imidlalo",
+    "h1": "Imidlalo Ethambile Yabantu Abaphila ne-Dementia",
+    "lede": "Imidlalo engu-{count} yamahhala yokudlala ndawonye ku-browser yenu. Izithombe ezinkulu, amagama alula, futhi akukho lutho oluhlulekayo: akukho zibali sikhathi, amaphuzu, kubhalisa.",
+    "listName": "Imidlalo ethambile yabantu abaphila ne-dementia",
+    "byStageTitle": "Ukukhetha umdlalo ngesigaba",
+    "byStageLede": "Izigaba ziyisiqondiso nje esimaqondana. Landelani lokho umuntu akujabulelayo nalokho okunethezayo namuhla.",
+    "stageCol": "Isigaba",
+    "gamesCol": "Imidlalo evame ukufanela",
+    "moreHtml": "Eminye imibono ngaphandle kwesikrini: <a href=\"/activities/ideas/\">imisebenzi eyi-101 yabantu abaphila ne-dementia</a>, <a href=\"/activities/alzheimers/\">imisebenzi nemidlalo ye-Alzheimer's</a>, <a href=\"/activities/memory-games/\">imidlalo ethambile yenkumbulo</a> kanye <a href=\"/activities/puzzles/\">namaphazili</a>.",
+    "faq": [
+      {
+        "q": "Yimuphi umdlalo okufanele siqale ngawo?",
+        "a": "Amapheya ezithombe ngamakhadi amane ayinketho yokuqala ethulile. Uma ukukhetha phakathi kwezithombe kuzwakala kuningi kakhulu, zamani u-Thola okufanayo ngezithombe ezimbili. Eqenjini, zamani i-bingo yezithombe."
+      },
+      {
+        "q": "Ingabe imidlalo isebenza ku-iPad noma efonini?",
+        "a": "Yebo. Yonke imidlalo isebenza ku-browser efonini, kuthebhulethi nasekhompyutheni, futhi izithombe ziyakhula zigcwalise isikrini. Ithebhulethi esesihlalweni ivame ukuba nethezeka kakhulu kubantu ababili."
+      },
+      {
+        "q": "Ingabe le midlalo imihle kumuntu one-Alzheimer's?",
+        "a": "Yebo. Yenziwe abantu abaphila ne-dementia, kuhlanganise ne-Alzheimer's, imbangela evame kakhulu. Izithombe zihlala ziyabonakala, kunokukhetha okumbalwa kuphela, futhi akukho lutho olunesibali sikhathi noma amaphuzu, ngakho imidlalo incike ekwazini izinto ezijwayelekile kunokukhumbula ezintsha."
+      },
+      {
+        "q": "Ingabe le yimidlalo yenkumbulo yabadala?",
+        "a": "Imidlalo yokufanisa nezithombe angayijabulela noma ngubani omdala, kodwa yakhelwe ukuthi ingahloli inkumbulo: ku-Amapheya ezithombe izithombe zihlala zibonakala ngaphandle uma nikhetha ngenye indlela. Umhlahlandlela wethu wemidlalo yenkumbulo yabadala abane-dementia uchaza indlela yokugcina noma yimuphi umdlalo wenkumbulo uthambile."
+      },
+      {
+        "q": "Ingabe kukhona imidlalo yamaqembu ekhaya lokunakekela?",
+        "a": "Yebo. I-bingo yezithombe inamakhadi aphrintekayo nomsakazi osesikrinini, futhi Qeda isisho namaKhadi engxoxo asebenza kahle efundelwa iqembu ngokuzwakalayo."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "i-iPhone, i-iPad ne-Android",
+    "requirements": "i-iOS 15 noma kamuva; i-Android 7.0 noma kamuva",
+    "summary": "I-app yamahhala ye-iPhone, i-iPad ne-Android enokufanisa izithombe okuthambile ngamakhadi amakhulu angu-4 kuya ku-12, ukufanisa nokubuka ngezithombe zomndeni enizikhethayo, namaphakethe ayisishiyagalombili ezithombe afakiwe asebenza ngaphandle kwe-inthanethi. Akukho akhawunti, izikhangiso, sibali sikhathi noma maphuzu.",
+    "features": [
+      "Ukufanisa izithombe okuthambile ngamakhadi amakhulu angu-4, 6, 8 noma 12; izithombe zihlala ziyabonakala ngaphandle uma nikhetha ukuzifihla",
+      "Izithombe zomndeni enizikhethayo zikopishwa ku-app zokufanisa nokubuka ndawonye",
+      "Bhekani ndawonye: isithombe esisodwa ngesikhathi neziqondiso zengxoxo eziyikhetho",
+      "Amaphakethe ayisishiyagalombili ezithombe afakiwe ku-app; asebenza ngaphandle kwe-inthanethi",
+      "Akukho akhawunti, izikhangiso, ukuthenga ku-app, sibali sikhathi, maphuzu noma sijeziso"
+    ],
+    "faq": [
+      {
+        "q": "Ingabe kukhona i-app yemisebenzi ye-dementia?",
+        "a": "Yebo. I-Golden Moments (efakwe uhlwini ngokuthi \"{storeName}\") iyamahhala ku-App Store nase-Google Play. Inikeza ukufanisa izithombe okuthambile ngamakhadi amakhulu, imidlalo enezithombe zomndeni enizikhethayo, namaphakethe ezithombe asebenza ngaphandle kwe-inthanethi."
+      },
+      {
+        "q": "Ingabe i-app ye-Golden Moments iyamahhala?",
+        "a": "Yebo. Iyamahhala ukuyilanda, ngaphandle kwezikhangiso, i-akhawunti noma ukuthenga ku-app."
+      },
+      {
+        "q": "Ingabe i-app isebenza ngaphandle kwe-inthanethi?",
+        "a": "Yebo. Izithombe zokuqala nawo wonke amaphakethe ayisishiyagalombili ezithombe afakiwe ku-app, futhi izithombe zomndeni zisebenza ngaphandle kwe-inthanethi uma sezikopishwe ku-app. Ukukhetha isithombe esigcinwe ku-iCloud kuphela kungadinga uxhumo."
+      },
+      {
+        "q": "Ingabe ngingasebenzisa izithombe zomndeni wethu?",
+        "a": "Yebo. Khethani izithombe ngesikhethi sezithombe sedivayisi yenu. I-app igcina amakhophi amancane kudivayisi emisebenzini yayo, ayiwalayishi futhi ayishintshi neze izithombe zangempela. Ningasusa amakhophi noma inini."
+      },
+      {
+        "q": "Ingabe iyi-app yokuqeqesha ubuchopho noma yokuhlola inkumbulo?",
+        "a": "Cha. I-Golden Moments iyokujabulela nokuba ndawonye. Ayinamaphuzu noma izivivinyo, futhi ayihloli isifo, ayelapheli, ayivimbi noma ayilinganisi i-dementia noma isifo i-Alzheimer’s."
+      },
+      {
+        "q": "Isebenza kuzinsiza ziphi?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Ingabe kukhona inguqulo ye-app yalo mdlalo?",
+      "a": "Yebo. I-app yamahhala ye-Golden Moments ye-iPhone, i-iPad ne-Android inokufanisa izithombe okuthambile okufanayo, ingasebenzisa izithombe zomndeni enizikhethayo, futhi isebenza ngaphandle kwe-inthanethi. Akukho akhawunti, izikhangiso noma maphuzu."
+    },
+    "gameFaqNo": {
+      "q": "Ingabe kukhona inguqulo ye-app yalo mdlalo?",
+      "a": "Hhayi walo mdlalo. I-app yamahhala ye-Golden Moments ye-iPhone, i-iPad ne-Android inokufanisa izithombe okuthambile ngamakhadi amakhulu nezithombe zomndeni enizikhethayo, futhi isebenza ngaphandle kwe-inthanethi. Lo mdlalo uhlala uyamahhala lapha ku-browser yenu."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: izithombe ezinkulu nezinobungane",
+    "noscript": "Lo mdlalo udinga ukuthi i-JavaScript ivulwe ku-browser yenu. Amathiphu ngezansi asebenza ngaphandle kwayo.",
+    "about": "Mayelana ne-{name}",
+    "aboutAria": "Mayelana nalo mdlalo",
+    "noTimer": "Akukho sibali sikhathi noma maphuzu",
+    "printable": "Iyaphrintwa",
+    "howTo": "Indlela yokudlala i-{name}",
+    "tips": "Amathiphu okudlala ndawonye",
+    "newToPlayingHtml": "Ningakajwayele ukudlala nomuntu one-dementia? Fundani <a href=\"/caregiving/how-to-play-together/\">indlela yokudlala imidlalo ndawonye</a>, kuhlanganise nokwenza uma ephelelwa yinjabulo.",
+    "moreAria": "Okuningi ongakuhlola",
+    "helpfulGuides": "Imihlahlandlela eyusizo",
+    "appTitle": "Yidlaleni ku-app",
+    "appText": "I-app yamahhala ye-Golden Moments inokufanisa izithombe okuthambile ngamakhadi amakhulu nezithombe zomndeni wenu, futhi isebenza ngaphandle kwe-Wi‑Fi. I-iPhone, i-iPad ne-Android.",
+    "photoAppTitle": "Gcinani izithombe zenu zilungile",
+    "photoAppText": "Ku-app yamahhala ye-Golden Moments, izithombe enizikhethayo ziyahlala kudivayisi yenu ngokulandelayo, futhi imidlalo isebenza ngaphandle kwe-Wi‑Fi. I-iPhone, i-iPad ne-Android.",
+    "goodToKnow": "Kuhle ukwazi",
+    "goodToKnowText": "Lo mdlalo uyokujabulela nokuba ndawonye. Awuhloli, awulinganisi noma awuwelaphi lutho.",
+    "moreGames": "Eminye imidlalo ethambile",
+    "crumb": "Imidlalo"
+  }
+}

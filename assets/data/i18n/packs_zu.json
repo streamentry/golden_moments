@@ -1,0 +1,156 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Izilwane",
+      "description": "Izilwane ezihle nezinobungane ezivela emhlabeni wonke"
+    },
+    "nature": {
+      "name": "Imvelo",
+      "description": "Izindawo ezinhle nezigcawu zemvelo"
+    },
+    "food": {
+      "name": "Ukudla",
+      "description": "Ukudla okumnandi nezimnandi"
+    },
+    "vintage": {
+      "name": "Izimoto",
+      "description": "Izimoto namalori okubuka nokukhuluma ngawo"
+    },
+    "flowers": {
+      "name": "Izimbali",
+      "description": "Izimbali ezihle nezigcawu zasengadini"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Izilwane zasepulazini",
+      "description": "Izilwane zasepulazini ezinobungane, njengasekuvakasheni emaphandleni.",
+      "theme": "Impilo yasepulazini",
+      "images": {
+        "cow_1": "Inkomo enobungane",
+        "pig_1": "Ingulube ejabulile",
+        "chicken_1": "Ijongosi",
+        "buffalo_1": "Inyathi yamanzi",
+        "horse_1": "Ihhashi elihle",
+        "duck_1": "Umndeni wamadada",
+        "goat_1": "Imbuzi enelukuluku",
+        "rabbit_1": "Unogwaja omuhle"
+      }
+    },
+    "nature_mountains": {
+      "title": "Izigcawu zezintaba",
+      "description": "Izindawo zezintaba ezithatha umoya nezigcawu ezinhle",
+      "theme": "Ubuhle bemvelo",
+      "images": {
+        "mountain_1": "Izintaba ezimboziwe yiqhwa",
+        "mountain_2": "Intaba iFuji",
+        "mountain_3": "Isigodi sezintaba ze-Alps",
+        "mountain_4": "Isiqongo sentaba enamadwala",
+        "mountain_5": "Amagquma anehlathi",
+        "mountain_6": "Izintaba ezinenkungu"
+      }
+    },
+    "vintage_cars": {
+      "title": "Izimoto namalori",
+      "description": "Izimoto namalori acwebile okubuka nokukhuluma ngawo",
+      "theme": "Emgwaqweni",
+      "images": {
+        "vintage_car_1": "I-Audi ewolintshi ekushoneni kwelanga",
+        "vintage_car_2": "Imoto yezemidlalo eluhlaza okwesibhakabhaka ogwadule",
+        "vintage_car_3": "I-Bugatti esiliva",
+        "vintage_car_4": "I-Porsche emnyama emgwaqweni",
+        "vintage_car_5": "I-BMW ewolintshi emgwaqweni onezihlahla zamaphalmu",
+        "vintage_car_6": "Imoto eluhlaza okwesibhakabhaka eduze kwegaraji",
+        "vintage_car_7": "I-pickup eluhlaza",
+        "vintage_car_8": "I-SUV emhlophe phakathi kwamadwala abomvu",
+        "vintage_car_9": "I-Aston Martin",
+        "vintage_car_10": "Imoto eluhlaza okwesibhakabhaka enemidwa emhlophe"
+      }
+    },
+    "animals_safari": {
+      "title": "Izilwane zasesafari",
+      "description": "Izilwane ezinkulu zamasafari ase-Afrika",
+      "theme": "Izilwane zasendle",
+      "images": {
+        "lion_1": "Ibhubesi elinkulu",
+        "elephant_2": "Indlovu yase-Afrika",
+        "zebra_4": "Idube elinemidwa",
+        "rhino_5": "Ubhejane onamandla",
+        "bear_8": "Ibhere elimhlophe",
+        "turtle_9": "Ufudu olunsundu",
+        "tiger_12": "Ithayigha",
+        "crocodile_15": "Ingwenya",
+        "peacock_16": "Ipikoko elihle"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Izidlo ezimnandi zasemva kokudla",
+      "description": "Ezinye izidlo ezimnandi zasemva kokudla.",
+      "theme": "Izidlo ezimnandi",
+      "images": {
+        "pastries_1": "Amaphasti amane",
+        "oreo_cookie_sandwiches_2": "Amabhisikidi e-Oreo",
+        "crepe_3": "I-crepe",
+        "pancake_4": "I-pancake",
+        "macarons_5": "Ama-macaron",
+        "caramel_cake_6": "Ikhekhe le-caramel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Izimbali zasezindaweni ezishisayo",
+      "description": "Thola ubuhle obugqamile bezindawo ezishisayo ngeli phakethe lezimbali ezingavamile.",
+      "theme": "Izimbali zasezindaweni ezishisayo",
+      "images": {
+        "hibiscus_1": "I-hibiscus ebomvu",
+        "frangipani_2": "I-frangipani ebomvu nemhlophe",
+        "sunflower_3": "Imbali yelanga",
+        "hydrangea_4": "I-hydrangea emhlophe",
+        "rose_5": "Irozi",
+        "chrysanthemum_6": "I-chrysanthemum",
+        "anthurium_7": "I-anthurium",
+        "plumeria_8": "I-plumeria",
+        "delphinium_10": "I-delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Ukudla kwasemgwaqweni",
+      "description": "Hlolani izwe elinemibala lokudla kwasemgwaqweni ngeli phakethe lokudla okumnandi okuvela emhlabeni wonke.",
+      "theme": "Ukudla kwasemgwaqweni",
+      "images": {
+        "taco_1": "I-taco yaseMexico",
+        "ramen_2": "I-ramen yaseJapan",
+        "dumplings_3": "Amadumpling aseChina",
+        "samosa_4": "I-samosa yaseNdiya",
+        "pizza_5": "Ucezu lwe-pizza yase-Italy",
+        "crepe_6": "I-crepe yaseFrance",
+        "satay_7": "Izinti ze-satay yaseThailand",
+        "burger_8": "I-burger yaseMelika",
+        "bao_9": "Isinkwa se-bao esifakwe ngomphunga",
+        "takoyaki_10": "I-takoyaki yaseJapan"
+      }
+    },
+    "nature_landscape": {
+      "title": "Izindawo zemvelo",
+      "description": "Izindawo zemvelo ezithule nezinhle zokubuka kancane nokukhuluma ngazo ndawonye.",
+      "theme": "Izindawo zemvelo",
+      "images": {
+        "mountain_1": "Uchungechunge lwezintaba",
+        "forest_2": "Ihlathi elinenkungu",
+        "lake_3": "Ichibi lasentabeni",
+        "desert_4": "Amagquma esihlabathi egwadule",
+        "waterfall_5": "Amanzi awayo",
+        "beach_6": "Ibhishi lesihlabathi",
+        "river_7": "Umfula ogelezayo",
+        "canyon_8": "I-Grand Canyon",
+        "sunset_9": "Isibhakabhaka sokushona kwelanga",
+        "snow_mountain_10": "Intaba eneqhwa",
+        "flowers_11": "Izimbali zasendle",
+        "rainforest_12": "Ihlathi lemvula",
+        "volcano_14": "Intaba-mlilo",
+        "cliff_15": "Idwala elimi ngasolwandle",
+        "aurora_16": "I-Aurora Borealis",
+        "savannah_17": "I-savanna"
+      }
+    }
+  }
+}

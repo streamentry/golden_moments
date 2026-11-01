@@ -113,6 +113,11 @@
 		C6C0A2EB734189E11C354FE4 /* or */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = or; path = or.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		930DB5D64B079E78F2398F27 /* as */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = as; path = as.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		124103063954F59B07F20E95 /* ps */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = ps; path = ps.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		DA2B72256161CDCBFE0C208F /* yo */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = yo; path = yo.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CD14D1A0EB535D766857C4BD /* ig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = ig; path = ig.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1ED75C33E35B1623D7018307 /* zu */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = zu; path = zu.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		DD3BAD0253C49749620F278B /* so */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = so; path = so.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A38FFBD7A8BE65D6D6EB9493 /* om */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = om; path = om.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -333,6 +338,11 @@
 				or,
 				as,
 				ps,
+				yo,
+				ig,
+				zu,
+				so,
+				om,
 			);
 			mainGroup = 97C146E51CF9000F007C117D;
 			packageReferences = (
@@ -557,6 +567,11 @@
 				C6C0A2EB734189E11C354FE4 /* or */,
 				930DB5D64B079E78F2398F27 /* as */,
 				124103063954F59B07F20E95 /* ps */,
+				DA2B72256161CDCBFE0C208F /* yo */,
+				CD14D1A0EB535D766857C4BD /* ig */,
+				1ED75C33E35B1623D7018307 /* zu */,
+				DD3BAD0253C49749620F278B /* so */,
+				A38FFBD7A8BE65D6D6EB9493 /* om */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";

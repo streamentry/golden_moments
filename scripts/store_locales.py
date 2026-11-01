@@ -68,6 +68,11 @@ LANGUAGES: dict[str, tuple[tuple[str, ...], tuple[str, ...]]] = {
     'or': (('or-IN',), ()),
     'as': ((), ()),
     'ps': ((), ()),
+    'yo': ((), ()),
+    'ig': ((), ()),
+    'zu': ((), ('zu',)),
+    'so': ((), ()),
+    'om': ((), ()),
 }
 
 APP_STORE_LIMITS = {'name': 30, 'subtitle': 30, 'promotional_text': 170,

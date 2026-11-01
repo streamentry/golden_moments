@@ -1,0 +1,714 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Ciyaar",
+      "restart": "Mar kale bilow",
+      "soundOn": "Codad jilicsan way shaqeeyaan",
+      "soundOff": "Codad jilicsan waa la damiyay",
+      "done": "Hadda waan joojinayaa",
+      "feedbackQuestion": "Ma caawisay maanta?",
+      "feedbackYes": "Haa",
+      "feedbackNo": "Runtii maya",
+      "feedbackThanks": "Mahadsanid inaad noo sheegtay."
+    },
+    "tile": {
+      "named": "{name}, kaarka {n}",
+      "hidden": "Sawir qarsoon, kaarka {n}",
+      "withState": "{label}, {state}",
+      "matched": "Isku mid ah",
+      "selected": "La doortay",
+      "picture": "Sawir",
+      "photoNumber": "Sawirka {n}"
+    },
+    "pairs": {
+      "allTogether": "Dhammaan lammaanayaashu way wada jiraan. Mar kale ciyaar ama nasasho qaado.",
+      "photoPair": "Lammaane sawirro ah, wada jira.",
+      "picturePair": "Laba sawir: {name|lower}, wada jira.",
+      "selected": "{name}. Hadda raadi lammaanihiisa.",
+      "mismatch": "Waqti qaado. Taabo sawir si aad u sii wadato.",
+      "mismatchNamed": "{a} iyo {b}. Waqti qaado. Taabo sawir si aad u sii wadato."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Taabo sawir, kadibna taabo kan la mid ah.",
+      "guidanceHidden": "Taabo laba kaar si aad u rogto. Raadi laba isku mid ah.",
+      "restart": "Sawirro cusub",
+      "sizeLegend": "Imisa kaar",
+      "size": {
+        "one": "{n} kaar",
+        "other": "{n} kaar"
+      },
+      "viewLegend": "Sida loo ciyaaro",
+      "viewShowing": "Sawirrada oo muuqda",
+      "viewHidden": "Sawirrada oo qarsoon",
+      "playAgain": "Mar kale ciyaar sawirro cusub",
+      "talk": "Wada ka hadal sawirrada"
+    },
+    "choose": {
+      "countLegend": "Imisa sawir",
+      "count": "{n} oo laga dooranayo",
+      "thatOne": "Kaasi waa {name|lower}. Waqti qaado."
+    },
+    "findTheSame": {
+      "guidance": "Eeg sawirka kore. Taabo kan isku mid ah ee hoose.",
+      "yes": "Haa, {name|lower} isku mid ah.",
+      "next": "Sawirka xiga"
+    },
+    "shadowMatch": {
+      "guidance": "Eeg hooska kore. Taabo sawirka sameeya.",
+      "yes": "Haa, {name|lower} ayaa sameeya hooskaas.",
+      "next": "Hooska xiga",
+      "shadowAlt": "Hoos la isku mid dhigo",
+      "foundAlt": "Hooska {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Taabo sawir, kadibna taabo dambiisha uu ku habboon yahay.",
+      "restart": "Sawirro cusub",
+      "themeLegend": "Mawduuc",
+      "selected": "{name}. Hadda taabo dambiisha uu tegayo.",
+      "pickFirst": "Marka hore taabo sawir, kadibna taabo dambiil.",
+      "hint": "{name|lower} wuxuu tegi karaa “{basket}”. Taabo dambiishaas si aad ugu dhigto.",
+      "placed": "{name|lower} wuxuu ku jiraa “{basket}”.",
+      "sorted": "Wax walba waa la kala saaray. Wada eega dambiishaha, ama isku day mawduuc kale.",
+      "basket": {
+        "one": "Dambiisha {basket}, {count} sawir ayaa ku jira",
+        "other": "Dambiisha {basket}, {count} sawir ayaa ku jira"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Taabo hal qayb, kadibna taabo mid kale. Way is-beddelayaan.",
+      "restart": "Mar kale isku dhex qas",
+      "pictureLegend": "Sawir",
+      "pictures": {
+        "sailboat": "Doon shiraac",
+        "house": "Guri",
+        "balloon": "Buufin",
+        "sunflower": "Ubax qorrax",
+        "lighthouse": "Munaarad iftiin",
+        "cat": "Bisad"
+      },
+      "sizeLegend": "Qaybaha",
+      "size": {
+        "one": "{n} qayb",
+        "other": "{n} qayb"
+      },
+      "pickedUp": "Qayb ayaa la qaaday. Hadda taabo meesha ay tegayso.",
+      "whole": "{name|lower} mar kale waa dhammaystiran yahay. Dooro sawir kale mar kasta oo aad doonto.",
+      "swapped": {
+        "one": "Waa la beddelay. {correct} qayb oo {total} ka mid ah ayaa meesha saxda ah ku jirta.",
+        "other": "Waa la beddelay. {correct} qayb oo {total} ka mid ah ayaa meesha saxda ah ku jirta."
+      },
+      "guideAlt": "Sawirka oo dhan: {name}",
+      "guideText": "Sidan ayuu sawirku u eg yahay marka uu dhammaystiran yahay.",
+      "piece": "Qayb ku taal {place}",
+      "pieceInPlace": ", meesha saxda ah ku jirta",
+      "piecePickedUp": ", la qaaday",
+      "places4": [
+        "kore bidix",
+        "kore midig",
+        "hoose bidix",
+        "hoose midig"
+      ],
+      "places9": [
+        "kore bidix",
+        "kore dhexe",
+        "kore midig",
+        "dhexe bidix",
+        "dhexda",
+        "dhexe midig",
+        "hoose bidix",
+        "hoose dhexe",
+        "hoose midig"
+      ],
+      "done": "Sawirku mar kale waa dhammaystiran yahay. Mar kale ciyaar ama nasasho qaado.",
+      "playAgain": "Mar kale isku dhex qas"
+    },
+    "finishTheSaying": {
+      "guidance": "Wada akhri maahmaahda, kadibna taabo erayga dhammaystira.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Haa, “{start} {end}.”",
+      "otherEnding": "“{word}” sidoo kale way ku habboon tahay. Maahmaahda caadiga ahi waxay ku dhammaataa “{end}”.",
+      "revealed": "Maahmaahdu waa “{start} {end}.”",
+      "choicesLabel": "Dooro erayga u dambeeya",
+      "show": "Tus dhammaadka",
+      "talk": "Ka hadal: ",
+      "next": "Maahmaahda xigta"
+    },
+    "wordSearch": {
+      "guidance": "Erayadu waxay u socdaan dhinac ama hoos. Taabo xarafka koowaad ee erayga, kadibna xarafkiisa u dambeeya.",
+      "restart": "Halxiraale cusub",
+      "themeLegend": "Mawduuc",
+      "sizeLegend": "Cabbirka shabakadda",
+      "size": {
+        "one": "{n} × {n} ({words} erey)",
+        "other": "{n} × {n} ({words} erey)"
+      },
+      "print": "Daabac halxiraalahan",
+      "letterChosen": "Xarafka {letter} waa la doortay. Hadda taabo xarafka u dambeeya ee erayga.",
+      "found": "{word} waa la helay.",
+      "foundAll": "{word} waa la helay. Kuwaasi waa erayada oo dhan. Mar kale ciyaar ama nasasho qaado.",
+      "tryAgain": "Waqti qaado. Taabo xarafka koowaad ee erayga, kadibna xarafkiisa u dambeeya.",
+      "gridLabel": "Shabakadda xarfaha, {n} saf oo {n} xaraf ah. Isticmaal fallaadhaha si aad xarfaha ugu dhex dhaqaaqdo.",
+      "cell": "{letter}, safka {row}, tiirka {col}",
+      "cellFound": ", qayb ka mid ah eray la helay",
+      "wordsHeading": "Erayada la raadinayo",
+      "wordFound": " (la helay)",
+      "sheetTitle": "Raadinta ereyada: {theme}",
+      "sheetNote": "Erayadu waxay u socdaan dhinac ama hoos.",
+      "unavailable": "Shabakad xarfo ma ku habboona luuqaddan, sidaas darteed raadinta ereyada halkan lama bixiyo. Isku day ciyaaraha sawirrada."
+    },
+    "coloring": {
+      "guidance": "Taabo midab, kadibna taabo qayb ka mid ah sawirka.",
+      "restart": "Nadiifi midabbada",
+      "cleared": "Bogga mar kale waa madhan yahay.",
+      "pageLegend": "Bog",
+      "print": "Daabac bogga",
+      "colorsLabel": "Midabbada",
+      "paintChosen": "{paint} waa la doortay.",
+      "painted": "{part} hadda waa {paint|lower}.",
+      "artLabel": "{page}, {count} qayb oo la midabeeyo",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, lama midabayn",
+      "paints": {
+        "red": "Cas",
+        "orange": "Oranji",
+        "yellow": "Huruud",
+        "green": "Cagaar",
+        "blue": "Buluug",
+        "purple": "Guduud-buluug",
+        "pink": "Bink",
+        "brown": "Bunni",
+        "sky-blue": "Buluug cir",
+        "cream": "Caddaan-huruud",
+        "gray": "Madow jilicsan",
+        "white": "Caddaan"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Cod dheer u akhri kaarka. Jawaabo sax ah ma jiraan.",
+      "position": "Kaarka {n} ee {total}",
+      "themeLegend": "Mawduuc",
+      "next": "Kaarka xiga",
+      "previous": "Kaarka hore",
+      "print": "Daabac dhammaan kaararka",
+      "sheetTitle": "Kaararka wadahadalka"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Ka bilow doorashada sawirradaada.",
+      "guidance": "Taabo sawir, kadibna taabo kan la mid ah.",
+      "restart": "Mar kale isku dhex qas",
+      "intro": "**Dooro 2 ilaa 6 sawir** qalabkan. Waxay ka muuqdaan boggan oo keliya, marnabana lama soo geliyo ama lama keydiyo.",
+      "choose": "Dooro sawirro",
+      "chooseDifferent": "Dooro sawirro kale",
+      "clear": "Nadiifi sawirrada",
+      "cleared": "Sawirrada waa laga nadiifiyay boggan.",
+      "atLeastTwo": "Fadlan dooro ugu yaraan laba sawir.",
+      "usingFirst": "Waxaa la isticmaalayaa {max} sawir ee ugu horreeya.",
+      "skipped": {
+        "one": "{count} fayl ma ahayn sawir aan muuqin karno.",
+        "other": "{count} fayl ma ahayn sawir aan muuqin karno."
+      },
+      "playAgain": "Mar kale ciyaar sawirradan",
+      "empty": "Sawirradaada halkan ayay ka muuqan doonaan, mid kasta laba jeer."
+    },
+    "pictureBingo": {
+      "guidance": "Marka hore daabac kaararka. Kadibna tus ku dhawaaqahan shaashadda ugu weyn ee aad haysato.",
+      "called": {
+        "one": "{name}. {called} ka mid ah {total} sawir ayaa lagu dhawaaqay.",
+        "other": "{name}. {called} ka mid ah {total} sawir ayaa lagu dhawaaqay."
+      },
+      "start": "Taabo “Sawirka xiga” si aad ugu dhawaaqdo sawirka koowaad.",
+      "restart": "Bilow ciyaar cusub",
+      "squaresLegend": "Labajibbaaran kaar kasta",
+      "squares": "{n} labajibbaaran ({side} × {side})",
+      "cardsLegend": "Imisa kaar ayaa la daabacayaa",
+      "cards": {
+        "one": "{n} kaar",
+        "other": "{n} kaar"
+      },
+      "print": {
+        "one": "Daabac {n} kaar bingo",
+        "other": "Daabac {n} kaar bingo"
+      },
+      "ready": "Diyaar marka aad doonto",
+      "next": "Sawirka xiga",
+      "allCalled": "Sawir kasta waa lagu dhawaaqay",
+      "alreadyCalled": "Hore ayaa lagu dhawaaqay",
+      "sheetTitle": "Bingo sawir · kaarka {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Neefsasho gal marka wareeggu weynaado, oo ka bax marka uu yaraado. Wuxuu iskiis u joogsadaa lix neef kadib.",
+      "paceLegend": "Xawaare",
+      "paceSlow": "Gaabis (5 ilbiriqsi dhinac kasta)",
+      "paceGentle": "Jilicsan (4 ilbiriqsi dhinac kasta)",
+      "ready": "Diyaar marka aad doonto",
+      "in": "Neefsasho gal",
+      "hold": "Nasasho",
+      "out": "Neefsasho ka bax",
+      "start": "Bilow",
+      "stop": "Jooji",
+      "started": "Waa la bilaabay. Neefsasho gal marka wareeggu weynaado.",
+      "stopped": "Waa la joojiyay.",
+      "finished": "Kuwaasi waxay ahaayeen lix neef oo gaabis ah. Mar kale bilow mar kasta oo aad doonto."
+    }
+  },
+  "pictures": {
+    "teacup": "Koob shaah",
+    "kettle": "Weel shaah karin",
+    "bread": "Rooti",
+    "frying-pan": "Digsi shiil oo ukun leh",
+    "cake": "Keegga dhalashada",
+    "sunflower": "Ubax qorrax",
+    "tulip": "Tulip cas",
+    "watering-can": "Weel biyo-shub ah",
+    "potted-plant": "Dhir weel ku jira",
+    "tree": "Geed",
+    "bird": "Shimbir laan ku fadhida",
+    "butterfly": "Balanbaalis",
+    "dog": "Eey",
+    "cat": "Bisad",
+    "fish": "Kalluun dahab ah",
+    "apple": "Tufaax cas",
+    "pear": "Pear",
+    "strawberry": "Strawberry",
+    "cherries": "Cherries",
+    "umbrella": "Umbrella",
+    "banana": "Moos",
+    "lemon": "Liin",
+    "house": "Guri",
+    "lamp": "Nalka miiska",
+    "armchair": "Kursi raaxo",
+    "key": "Fure duug ah",
+    "sailboat": "Doon shiraac",
+    "car": "Baabuur",
+    "bicycle": "Baaskiil",
+    "balloon": "Buufin hawo kulul",
+    "lighthouse": "Munaarad iftiin",
+    "sun": "Qorrax",
+    "moon": "Dayax iyo xiddigo"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "Aqoon la’aani waa",
+        "end": "iftiin la’aan",
+        "others": [
+          "biyo la’aan",
+          "nabad la’aan"
+        ],
+        "prompt": "Maxaad jeceshahay inaad barato, ama aad qof ku barto?"
+      }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEGIKLMNORSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Miro iyo khudaar",
+          "words": [
+            "MOOS",
+            "TAMAR",
+            "TUFAAX",
+            "LIIN",
+            "CAMBE",
+            "BASAL",
+            "TOON",
+            "YAANYO",
+            "KAROOT"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Beer",
+          "words": [
+            "UBAX",
+            "GEED",
+            "CALEEN",
+            "INIIN",
+            "CARRO",
+            "BEER",
+            "DHIR"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Jikada",
+          "words": [
+            "KOOB",
+            "SAXAN",
+            "DIGSI",
+            "SHAAH",
+            "ROOTI",
+            "CAANO",
+            "BARIIS",
+            "SONKOR",
+            "BIYO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Cimilada",
+          "words": [
+            "QORRAX",
+            "ROOB",
+            "DABAYL",
+            "DARUUR",
+            "DHAXAN",
+            "KULAYL",
+            "CIR"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Xayawaan",
+          "words": [
+            "GEEL",
+            "IDO",
+            "BISAD",
+            "EEY",
+            "FARAS",
+            "DIGAAG",
+            "DAMEER",
+            "LIBAAX"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Guriga",
+          "words": [
+            "ALBAAB",
+            "KURSI",
+            "SARIIR",
+            "DAAQAD",
+            "MIIS",
+            "FURE",
+            "NAL",
+            "SAACAD"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Dhammaan kaararka",
+        "food": "Cunto",
+        "home": "Guriga",
+        "outdoors": "Banaanka",
+        "animals": "Xayawaan",
+        "travel": "Safarro",
+        "work": "Shaqo iyo hiwaayado",
+        "music": "Muusiko iyo madadaalo",
+        "seasons": "Xilliyada"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Canjeero ama rooti: iga sheeg cuntada aad jeceshahay quraacda."
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Keeg noocee ah ayaad u dooran lahayd dabaaldeg?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Iga sheeg miro ama macmacaan aad jeceshahay."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Sidee ayaad u jeceshahay shaahaaga ama qaxwahaaga?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Maxaa quraac aad u wanaagsan ka dhiga?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Macaan ama dhanaan: kee ayaad ka jeceshahay?"
+        },
+        {
+          "theme": "food",
+          "picture": "banana",
+          "prompt": "Miraha kee ayaad ugu jeceshahay inaad cuntid?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Iga sheeg guri aad ku faraxsanayd inaad ku nooshahay."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Xaggee ayaad ugu jeceshahay inaad fadhiisato oo aad ku nasato?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Maxaad jeceshahay inaad sameyso fiid deggan?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Waa maxay khasnad aad ku haysan lahayd sanduuq gaar ah?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Yaad ugu yeedhi lahayd koob shaah?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Ubaxyo noocee ah ayaad ku beeri lahayd beerta?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Iga sheeg geed ama beer aad jeceshahay."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Waa maxay qaybta ugu fiican ee beerta ku jirista?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Midabkee ubaxyo ayaad ugu jeceshahay?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Ma jeceshahay inaad dhir guriga ku haysato?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Waa maxay maalin qorrax leh oo kaamil ah ee aad jeceshahay?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Iga sheeg eey aad naqaan."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Bisado ama eeyo, ama midna? Maxaad ka jeceshahay?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Shimbiraha noocee ah ayaad ka arkaysaa ama ka maqashaa banaanka?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Weligaa kalluun ma soo qabatay?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Waa kee xayawaanka ugu qurxoon ee aad aragtay?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Iga sheeg baabuur aad jeclayd."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Ma doorbidaysaa inaad maalin ku qaadato xeebta mise buuraha?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Xaggee ayaad jeceshahay inaad baaskiil ku aado?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Haddii aad ka duuli lahayd meel kasta, meesha waa kee?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Waa maxay safar aad ku raaxaysatay?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Shaqo noocee ah ayaad ku raaxaysatay inaad qabato?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Waa maxay hiwaayad aad saacado badan ku qaadan lahayd?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Maxaad caan ku ahayd samayntiisa ama hagaajintiisa?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Waa maxay talo aad siin lahayd dhallinyaro shaqo bilaabaya?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Muusiko noocee ah ayaa kuu keenta rabitaanka inaad cagaha ku dhufato?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Maxaa ka dhiga xaflad aad u wanaagsan?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Waa kee fanaan aad jeceshahay inaad dhegaysato?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Waa kee filim ama barnaamij telefishan oo aad jeceshahay inaad mar kale daawato?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Maxaad ka jeceshahay xilliga Xagaaga?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Maxaad ka jeceshahay xilliga Deyrta?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Waa maxay wax raaxo leh oo la sameeyo fiid qabow?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Waa maxay calaamadaha ugu horreeya ee xilliga Gu’ kuu muuqda?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Roob mise qorrax: kee ayaad doorbidaysaa?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Ubax weel ku jira",
+          "regions": {
+            "sky": "Gadaasha",
+            "table": "Miis",
+            "stem": "Jirka ubaxa",
+            "leaf-left": "Caleenta bidix",
+            "leaf-right": "Caleenta midig",
+            "petal-1": "Caleenta ubaxa 1",
+            "petal-2": "Caleenta ubaxa 2",
+            "petal-3": "Caleenta ubaxa 3",
+            "petal-4": "Caleenta ubaxa 4",
+            "petal-5": "Caleenta ubaxa 5",
+            "petal-6": "Caleenta ubaxa 6",
+            "petal-7": "Caleenta ubaxa 7",
+            "petal-8": "Caleenta ubaxa 8",
+            "center": "Badhtamaha ubaxa",
+            "pot": "Weelka",
+            "pot-rim": "Afka weelka"
+          }
+        },
+        "house": {
+          "name": "Guri",
+          "regions": {
+            "sky": "Cir",
+            "sun": "Qorrax",
+            "grass": "Cawsha",
+            "chimney": "Dhuumaha qiiqa",
+            "walls": "Derbiyada",
+            "roof": "Saqafka",
+            "door": "Albaabka",
+            "window-left": "Daaqadda bidix",
+            "window-right": "Daaqadda midig",
+            "path": "Jidka yar"
+          }
+        },
+        "teacup": {
+          "name": "Koob shaah",
+          "regions": {
+            "background": "Gadaasha",
+            "saucer": "Saxanka koobka",
+            "handle": "Gacanta koobka",
+            "cup": "Koobka",
+            "band": "Xariijinta koobka",
+            "tea": "Shaaha"
+          }
+        },
+        "butterfly": {
+          "name": "Balanbaalis",
+          "regions": {
+            "background": "Gadaasha",
+            "wing-top-left": "Baalka sare ee bidix",
+            "wing-top-right": "Baalka sare ee midig",
+            "wing-bottom-left": "Baalka hoose ee bidix",
+            "wing-bottom-right": "Baalka hoose ee midig",
+            "spot-left": "Dhibicda baalka bidix",
+            "spot-right": "Dhibicda baalka midig",
+            "body": "Jirka"
+          }
+        },
+        "sailboat": {
+          "name": "Doon shiraac",
+          "regions": {
+            "sky": "Cir",
+            "sea": "Bad",
+            "sail-big": "Shiraaca weyn",
+            "sail-small": "Shiraaca yar",
+            "mast": "Tiirka shiraaca",
+            "hull": "Doonta",
+            "flag": "Calanka"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Jikada iyo beerta",
+          "baskets": [
+            "Jikada ku jira",
+            "Beerta ku jira"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Miro iyo xayawaan",
+          "baskets": [
+            "Miro",
+            "Xayawaan"
+          ]
+        },
+        "home-travel": {
+          "label": "Guriga iyo safarka",
+          "baskets": [
+            "Guriga",
+            "Banaanka"
+          ]
+        }
+      }
+    }
+  }
+}

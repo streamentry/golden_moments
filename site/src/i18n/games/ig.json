@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Onyonyo ndị dakọrọ",
+    "seoTitle": "Egwuregwu ịhụ ndị dakọrọ maka dementia",
+    "h1": "Onyonyo ndị dakọrọ: egwuregwu dị nwayọọ",
+    "description": "Egwuregwu dị nwayọọ n'efu maka ndị na-ebi ná dementia. Onyonyo buru ibu na-anọ ebe a na-ahụ ha, enweghị elekere ma ọ bụ akara, kaadị 4 ruo 12.",
+    "short": "Chọta onyonyo abụọ yiri onwe ha. Onyonyo nwere ike ịnọ ebe a na-ahụ ha.",
+    "players": "Otu ma ọ bụ mmadụ abụọ, n'akụkụ ibe ha",
+    "intro": "Pịa otu onyonyo, ma pịa nke dakọrọ ya. Onyonyo na-anọ ebe a na-ahụ ha site na ntọala, ya mere ọ dịghị ihe a ga-echeta. Mgbe onyonyo abụọ dakọrọ, ha na-enweta oke ọla edo na akara “ọ dị mma”.",
+    "howTo": [
+      "Họrọ ọnụọgụ kaadị ị ga-eji. Kaadị anọ bụ ebe dị jụụ ị ga-amalite.",
+      "Pịa onyonyo ọ bụla. Ọ na-enweta oke ọla edo.",
+      "Pịa onyonyo yiri ya. Ndị abụọ ahụ na-anọkọ ọnụ na akara “ọ dị mma”.",
+      "Ọ bụrụ na onyonyo abụọ ahụ dị iche, ọ dịghị ihe jọgburu onwe ya na-eme. Pịa ọzọ mgbe ọ bụla ị dị njikere.",
+      "Gbanye “Onyonyo e zoro ezo” naanị ma unu abụọ nwere obi ụtọ n'ụdị oge ochie ebe a na-atụgharị kaadị."
+    ],
+    "tips": [
+      "Kpọọ aha onyonyo ndị ahụ n'olu dara ụda ọnụ ma kparịta ha: “Iko tii uhie. Ị na-etinye mmiri ara ehi n'ime tii gị?”",
+      "Hapụ onye ị na-elekọta ka ọ na-apị, ọ bụrụgodị na ọ na-ewe oge. Gosi aka kama ịpị ya.",
+      "Nọgide na kaadị anọ ruo ogologo oge ọ bụla ọ dị mma. Kaadị ndị ọzọ bụ nhọrọ, ọ bụghị ọkwa ị ga-eru.",
+      "Kwụsị mgbe ọ ka na-atọ ụtọ. Otu egwuregwu bụ ọrụ zuru oke."
+    ],
+    "faq": [
+      {
+        "q": "Enwere elekere ma ọ bụ akara?",
+        "a": "Mba. Enweghị elekere, akara, ọnụọgụ nke ije ma ọ bụ ịtụfu. Ị nwere ike ịkwụsị n'oge ọ bụla, ịkwụsị n'etiti bụkwa ụzọ ziri ezi isi mechie."
+      },
+      {
+        "q": "Gịnị mere onyonyo ji na-anọ ebe a na-ahụ ha?",
+        "a": "Ịhapụ onyonyo ka a na-ahụ ha na-eme ka egwuregwu bụrụ ilele na ịhụ ndị dakọrọ kama icheta. Ọtụtụ mmadụ na-ahụ nke a dị jụụ karị. Ị nwere ike ịgbanwe gaa n'onyonyo e zoro ezo site n'otu ịpị ma ọ bụrụ na ọ masịrị gị."
+      },
+      {
+        "q": "Ọ bụ n'efu, ọ dịkwa mkpa ịdebanye aha?",
+        "a": "Ee, ọ bụ n'efu, enweghịkwa akaụntụ, ndebanye aha ma ọ bụ nbudata. Ọ na-arụ ọrụ n'ime browser n'ekwentị, tablet ma ọ bụ kọmputa."
+      },
+      {
+        "q": "Anyị nwere ike iji foto ezinụlọ anyị?",
+        "a": "Ee. Nwaa Foto ndị dakọrọ, nke na-ahapụ gị ịhọrọ foto site na ngwaọrụ gị. Foto ndị ahụ na-anọ n'ime browser gị, a naghịkwa ebuga ha."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Chọta nke yiri ya",
+    "seoTitle": "Chọta onyonyo yiri ya: egwuregwu dị mfe maka dementia",
+    "h1": "Chọta onyonyo yiri ya",
+    "description": "Otu onyonyo n'elu, abụọ ruo anọ n'okpuru. Pịa nke yiri ya. Egwuregwu onyonyo dị jụụ, n'efu maka ndị na-ebi ná dementia, na-enweghị elekere.",
+    "short": "Lee onyonyo dị n'elu ma pịa nke yiri ya n'okpuru.",
+    "players": "Otu ma ọ bụ mmadụ abụọ",
+    "intro": "Otu onyonyo na-anọ n'elu ihuenyo. N'okpuru ya bụ abụọ, atọ ma ọ bụ anọ. Pịa nke yiri ya. Ọ bụ otu nhọrọ dị mfe n'otu oge, ya na ohere zuru oke ikwu okwu.",
+    "howTo": [
+      "Họrọ onyonyo abụọ, atọ ma ọ bụ anọ ị ga-ahọrọ n'ime ha. Abụọ kacha mfe.",
+      "Lee onyonyo dị n'elu ọnụ.",
+      "Pịa onyonyo yiri ya n'okpuru. A na-akara ya akara “ọ dị mma” na okwu ole na ole dị ọkụ obi.",
+      "Ọ bụrụ na e pịa onyonyo dị iche, egwuregwu ahụ na-akpọ aha ya ma chere. Were oge gị.",
+      "Pịa “Onyonyo na-esote” mgbe ị dị njikere maka nke ọzọ."
+    ],
+    "tips": [
+      "Kparịta onyonyo ọ bụla tupu ịhọrọ: agba, ụdị, ebe ị nwere ike ịhụ ya.",
+      "Nhọrọ abụọ abụghị “dị mfe nke ukwuu”. Ebumnobi bụ oge dị mma, ọ bụghị ịma aka.",
+      "Ọ bụrụ na ịpị siri ike, onye ahụ nwere ike igosi aka, ị nwekwara ike ịpị maka ya."
+    ],
+    "faq": [
+      {
+        "q": "Enwere elekere ma ọ bụ akara?",
+        "a": "Mba. Enweghị elekere, akara, ọnụọgụ nke ije ma ọ bụ ịtụfu. Ị nwere ike ịkwụsị n'oge ọ bụla, ịkwụsị n'etiti bụkwa ụzọ ziri ezi isi mechie."
+      },
+      {
+        "q": "Gịnị na-eme ma ọ bụrụ na e pịa onyonyo na-ezighị ezi?",
+        "a": "Ọ dịghị ihe na-adịghị mma. Enweghị ụda ọjọọ, akara uhie ma ọ bụ mmegharị. Egwuregwu ahụ na-akpọ aha onyonyo e pịrị, ma na-echere ịpị na-esote."
+      },
+      {
+        "q": "Ọ bụ n'efu, ọ dịkwa mkpa ịdebanye aha?",
+        "a": "Ee, ọ bụ n'efu, enweghịkwa akaụntụ, ndebanye aha ma ọ bụ nbudata. Ọ na-arụ ọrụ n'ime browser n'ekwentị, tablet ma ọ bụ kọmputa."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Ịhụ onyinyo",
+    "seoTitle": "Egwuregwu onyinyo maka dementia: n'efu n'ịntanetị",
+    "h1": "Ịhụ onyinyo: egwuregwu onyonyo dị nwayọọ",
+    "description": "Onyinyo gbara ọchịchịrị n'elu, onyonyo abụọ ruo anọ n'okpuru. Pịa onyonyo na-eme onyinyo ahụ. Egwuregwu onyinyo n'efu, dị jụụ maka dementia, na-enweghị elekere.",
+    "short": "Lee onyinyo ahụ ma pịa onyonyo na-eme ya.",
+    "players": "Otu ma ọ bụ mmadụ abụọ",
+    "intro": "Ịhụ onyinyo bụ ọrụ a maara site na akwụkwọ ọrụ e bipụtara, ebe a ya na onyonyo buru ibu na ọ dịghị ihe a ga-ebipụta. Onyinyo dị nro na-anọ n'elu ihuenyo, onyonyo abụọ, atọ ma ọ bụ anọ na-echere n'okpuru. Pịa nke na-eme onyinyo ahụ. Ụdị dị ka ịnyịnya igwe, ụmbrela ma ọ bụ iko tii dịkwa mfe ikwu maka ha.",
+    "howTo": [
+      "Họrọ onyonyo abụọ, atọ ma ọ bụ anọ ị ga-ahọrọ n'ime ha. Abụọ kacha mfe.",
+      "Lee onyinyo ahụ ọnụ. Kedu ụdị ọ bụ? Ọ dị ogologo ka ọ gburugburu?",
+      "Pịa onyonyo na-eme onyinyo ahụ. Aha ya na-apụta n'okpuru onyinyo ahụ.",
+      "Ọ bụrụ na e pịa onyonyo dị iche, egwuregwu ahụ na-akpọ aha ya ma chere. Were oge gị.",
+      "Pịa “Onyinyo na-esote” mgbe ị dị njikere maka nke ọzọ."
+    ],
+    "tips": [
+      "Were mkpịsị aka soro ọnụ ọnụ onyinyo ahụ ma kparịta ụdị ya.",
+      "Ọ bụrụ na onyinyo dị ka ihe siri ike taa, gbanwee gaa na Chọta nke yiri ya, ebe onyonyo ndị yiri onwe ha.",
+      "Kparịta onyonyo ahụ ozugbo a chọtara ya: “Anyị nwere ụmbrela dị ka nke ahụ.”"
+    ],
+    "faq": [
+      {
+        "q": "Enwere elekere ma ọ bụ akara?",
+        "a": "Mba. Enweghị elekere, akara, ọnụọgụ nke ije ma ọ bụ ịtụfu. Ị nwere ike ịkwụsị n'oge ọ bụla, ịkwụsị n'etiti bụkwa ụzọ ziri ezi isi mechie."
+      },
+      {
+        "q": "Ịhụ onyinyo ọ dị mma maka ndị nwere dementia?",
+        "a": "Ọ nwere ike ịbụ ọrụ dị mma, dị mfe maka ụfọdụ mmadụ, karịsịa n'oge mbụ. Ụdị dị mfe ịmata karịa okwu. Ọ bụ maka obi ụtọ na mkparịta ụka, ọ bụghị ule, ọ naghịkwa agwọ ma ọ bụ belata dementia. Ọ bụrụ na ọ na-akpata iwe, nwaa Chọta nke yiri ya ma ọ bụ lekọọ onyonyo ọnụ naanị."
+      },
+      {
+        "q": "Gịnị na-eme ma ọ bụrụ na e pịa onyonyo na-ezighị ezi?",
+        "a": "Ọ dịghị ihe na-adịghị mma. Enweghị ụda ọjọọ, akara uhie ma ọ bụ mmegharị. Egwuregwu ahụ na-akpọ aha onyonyo e pịrị, ma na-echere ịpị na-esote."
+      },
+      {
+        "q": "Ọ bụ n'efu, ọ dịkwa mkpa ịdebanye aha?",
+        "a": "Ee, ọ bụ n'efu, enweghịkwa akaụntụ, ndebanye aha ma ọ bụ nbudata. Ọ na-arụ ọrụ n'ime browser n'ekwentị, tablet ma ọ bụ kọmputa."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Hazie ọnụ",
+    "seoTitle": "Egwuregwu ịhazi maka dementia: Hazie ọnụ",
+    "h1": "Hazie ọnụ: ọrụ ịhazi onyonyo",
+    "description": "Pịa onyonyo, ma pịa nkata o nwere ike ịbanye: ụlọ nri ma ọ bụ ubi, mkpụrụ osisi ma ọ bụ anụmanụ. Ọrụ ịhazi n'efu, dị jụụ maka ndị na-ebi ná dementia.",
+    "short": "Tinye onyonyo ọ bụla n'nkata ya: ụlọ nri ma ọ bụ ubi, na ndị ọzọ.",
+    "players": "Otu ma ọ bụ mmadụ abụọ",
+    "intro": "Ịhazi bụ ọrụ kwa ụbọchị a maara, nke na-atọ ụtọ, dị ka idebe ihe ndị a zụtara ma ọ bụ ijikọta sọks. Pịa onyonyo, ma pịa nkata ọ bụ nke ya. Enweghị ọsọ, enweghịkwa mmejọ.",
+    "howTo": [
+      "Họrọ isiokwu: ụlọ nri na ubi, mkpụrụ osisi na anụmanụ, ma ọ bụ ụlọ na njem.",
+      "Pịa onyonyo. Ọ na-enweta oke ọla edo.",
+      "Pịa nkata ọ bụ nke ya. Onyonyo ahụ na-agbada n'nkata ahụ.",
+      "Ọ bụrụ na ọ bụ nke nkata ọzọ, egwuregwu ahụ na-ekwu nke ahụ nwayọọ ma chere.",
+      "Mgbe e hazichara onyonyo niile, lekọọ nkata ndị ahụ ọnụ."
+    ],
+    "tips": [
+      "N'ezi ndụ, ọtụtụ mgbe enweghị azịza na-ezighị ezi. Ọ bụrụ na onye kwuru na ite mmiri ifuru bụ nke ụlọ nri, jụọ ya ihe mere. Ị nwere ike nweta akụkọ dị mma.",
+      "Jiri onyonyo ndị ahụ dị ka mmalite mkparịta ụka: “Gịnị ka ị kụrụ n'ubi gị?”",
+      "Ịhazi ihe n'ezie, dị ka bọtịnụ dịka agba si dị, bụ ọrụ ọzọ dị mma na mpụga ihuenyo."
+    ],
+    "faq": [
+      {
+        "q": "Enwere elekere ma ọ bụ akara?",
+        "a": "Mba. Enweghị elekere, akara, ọnụọgụ nke ije ma ọ bụ ịtụfu. Ị nwere ike ịkwụsị n'oge ọ bụla, ịkwụsị n'etiti bụkwa ụzọ ziri ezi isi mechie."
+      },
+      {
+        "q": "Gịnị mere ịhazi?",
+        "a": "Ọtụtụ mmadụ na-enwe obi ụtọ n'ịhazi n'ihi na ọ dị ka ọrụ bara uru, a maara. Ọ dịkwa mfe ikwu maka onyonyo ndị ahụ ka ị na-aga n'ihu."
+      },
+      {
+        "q": "Ọ bụ n'efu, ọ dịkwa mkpa ịdebanye aha?",
+        "a": "Ee, ọ bụ n'efu, enweghịkwa akaụntụ, ndebanye aha ma ọ bụ nbudata. Ọ na-arụ ọrụ n'ime browser n'ekwentị, tablet ma ọ bụ kọmputa."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Egwuregwu ijikọta onyonyo",
+    "seoTitle": "Egwuregwu ijikọta dị mfe maka dementia: mpempe 4 ma ọ bụ 9",
+    "h1": "Egwuregwu ijikọta onyonyo: dị mfe",
+    "description": "Egwuregwu ijikọta dị mfe maka ndị na-ebi ná dementia: mpempe buru ibu 4 ma ọ bụ 9, onyonyo niile a na-ahụ, pịa mpempe abụọ ka ha gbanwere ebe.",
+    "short": "Pịa mpempe abụọ ka ha gbanwere ebe ruo mgbe onyonyo zuru ezu.",
+    "players": "Otu ma ọ bụ mmadụ abụọ",
+    "intro": "A na-ebipụ onyonyo dị mma n'mpempe buru ibu anọ ma ọ bụ itoolu ma gwakọta ya. Onyonyo niile na-anọ ebe a na-ahụ ya dị ka nduzi. Pịa otu mpempe, ma pịa nke ọzọ, ha na-agbanwe ebe. Ọ dịghị mkpa ịdọrọ.",
+    "howTo": [
+      "Họrọ onyonyo na mpempe 4 ma ọ bụ 9. Anọ bụ mmalite dị nwayọọ.",
+      "Lee onyonyo niile dị n'elu.",
+      "Pịa mpempe, ma pịa ebe ọ ga-aga. Mpempe abụọ ahụ na-agbanwe ebe.",
+      "Mpempe dị n'ebe ziri ezi na-enweta obere akara “ọ dị mma”.",
+      "Mgbe onyonyo zuru ezu, nwee obi ụtọ ọnụ, wee họrọ nke ọzọ."
+    ],
+    "tips": [
+      "Ịpị mpempe abụọ ka ha gbanwere ebe dị mfe karịa ịdọrọ maka ọtụtụ mmadụ.",
+      "Kparịta onyonyo ka ọ na-ejikọta: “Lee ụlọ uhie ahụ.”",
+      "Egwuregwu ijikọta e ji osisi mee nwere mpempe buru ibu 12 ruo 24 bụkwa ọrụ tebụl mara mma."
+    ],
+    "faq": [
+      {
+        "q": "Enwere elekere ma ọ bụ akara?",
+        "a": "Mba. Enweghị elekere, akara, ọnụọgụ nke ije ma ọ bụ ịtụfu. Ị nwere ike ịkwụsị n'oge ọ bụla, ịkwụsị n'etiti bụkwa ụzọ ziri ezi isi mechie."
+      },
+      {
+        "q": "Ọ dị mkpa ịdọrọ mpempe ndị ahụ?",
+        "a": "Mba. Pịa otu mpempe, ma pịa nke ọzọ, ha na-agbanwe ebe. Nke a dị mfe karịa mgbe aka na-ama jijiji ma ọ bụ n'ihuenyo pere mpe."
+      },
+      {
+        "q": "Ọ bụ n'efu, ọ dịkwa mkpa ịdebanye aha?",
+        "a": "Ee, ọ bụ n'efu, enweghịkwa akaụntụ, ndebanye aha ma ọ bụ nbudata. Ọ na-arụ ọrụ n'ime browser n'ekwentị, tablet ma ọ bụ kọmputa."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Mechaa ilu",
+    "seoTitle": "Mechaa ilu: egwuregwu ilu maka ndị agadi",
+    "h1": "Mechaa ilu",
+    "description": "Ilu ndị a maara nke okwu ikpeazụ ya efuola. Pịa nhọrọ ma ọ bụ gosi njedebe, ma kparịta ya. Egwuregwu n'efu, dị nwayọọ maka ndị agadi na-ebi ná dementia.",
+    "short": "Mechaa ilu ndị a maara ọnụ, ma kparịta ha.",
+    "players": "Otu, mmadụ abụọ ma ọ bụ otu",
+    "intro": "Ilu ochie na-amakarị ndụ niile. Kaadị ọ bụla na-egosi ilu a maara nke okwu ikpeazụ ya efuola, nhọrọ atọ, na bọtịnụ “Gosi njedebe”. Mgbe njedebe ahụ gasịrị, ajụjụ dị nwayọọ na-akpọ mkparịta ụka.",
+    "howTo": [
+      "Gụọ ilu ahụ n'olu dara ụda ọnụ.",
+      "Pịa okwu na-emecha ya, ma ọ bụ pịa “Gosi njedebe”.",
+      "Gụọ ilu niile ọzọ ma kparịta ya site n'ajụjụ ahụ.",
+      "Pịa “Ilu na-esote” mgbe ị dị njikere."
+    ],
+    "tips": [
+      "Gụọ nwayọọ ma hapụ nkwụsị tupu okwu ikpeazụ. Ọtụtụ mgbe ndị mmadụ na-ekwu ya tupu ị mechaa.",
+      "Ọ bụrụ na onye nyere njedebe dị iche, nwee obi ụtọ na ya. Ụfọdụ ụdị ilu na-adịgasị iche site n'ezinụlọ ma ọ bụ mpaghara.",
+      "N'otu, otu onye na-agụ, onye ọ bụla na-esonyekwa na njedebe."
+    ],
+    "faq": [
+      {
+        "q": "Enwere elekere ma ọ bụ akara?",
+        "a": "Mba. Enweghị elekere, akara, ọnụọgụ nke ije ma ọ bụ ịtụfu. Ị nwere ike ịkwụsị n'oge ọ bụla, ịkwụsị n'etiti bụkwa ụzọ ziri ezi isi mechie."
+      },
+      {
+        "q": "Gịnị ma ọ bụrụ na anyị ahọrọ okwu dị iche?",
+        "a": "Egwuregwu ahụ na-egosi njedebe a na-ahụkarị wee gaa n'mkparịta ụka. Enweghị akara, azịza dị iche dịkwa mma."
+      },
+      {
+        "q": "Ọ bụ n'efu, ọ dịkwa mkpa ịdebanye aha?",
+        "a": "Ee, ọ bụ n'efu, enweghịkwa akaụntụ, ndebanye aha ma ọ bụ nbudata. Ọ na-arụ ọrụ n'ime browser n'ekwentị, tablet ma ọ bụ kọmputa."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Chọta okwu n'mkpụrụ edemede buru ibu",
+    "seoTitle": "Chọta okwu n'mkpụrụ edemede buru ibu maka dementia",
+    "h1": "Chọta okwu n'mkpụrụ edemede buru ibu",
+    "description": "Chọta okwu n'efu n'mkpụrụ edemede buru ibu maka ndị agadi na ndị na-ebi ná dementia. Okwu ole na ole, gafee ma ọ bụ gbada naanị. Kpọọ n'ịntanetị ma ọ bụ bipụta.",
+    "short": "Mkpụrụ edemede buru ibu, okwu ole na ole, gafee na gbada naanị. Bipụtakwa ya.",
+    "players": "Otu ma ọ bụ mmadụ abụọ",
+    "intro": "Obere ogige nwere mkpụrụ edemede buru ibu na naanị ole na ole nke okwu, niile na-agụ gafee ma ọ bụ gbada. Pịa mkpụrụ edemede mbụ nke okwu, wee pịa nke ikpeazụ ya. Ị masịrị akwụkwọ? Bipụta egwuregwu ọhụrụ n'otu ịpị.",
+    "howTo": [
+      "Họrọ isiokwu na nha ogige.",
+      "Lee ndepụta okwu. Okwu na-agụ gafee (site n'aka ekpe gaa n'aka nri) ma ọ bụ gbada (site n'elu gaa n'okpuru).",
+      "Pịa mkpụrụ edemede mbụ nke okwu, wee pịa nke ikpeazụ ya.",
+      "A na-egosipụta okwu a chọtara, wepụkwa ya n'ndepụta ahụ.",
+      "Pịa “Bipụta egwuregwu a” ka ị kpọọ n'akwụkwọ site na pensụl ma ọ bụ mak."
+    ],
+    "tips": [
+      "Gosi okwu dị n'ndepụta aka ma jiri anya chọọ mkpụrụ edemede mbụ ya ọnụ.",
+      "N'akwụkwọ, highlighter dị mfe ijide karịa pensụl.",
+      "Kparịta okwu isiokwu ahụ. Okwu mkpụrụ osisi bụ ụzọ okike isi banye n'ncheta nke ịkụ, ime achịcha ma ọ bụ ahịa."
+    ],
+    "faq": [
+      {
+        "q": "Enwere elekere ma ọ bụ akara?",
+        "a": "Mba. Enweghị elekere, akara, ọnụọgụ nke ije ma ọ bụ ịtụfu. Ị nwere ike ịkwụsị n'oge ọ bụla, ịkwụsị n'etiti bụkwa ụzọ ziri ezi isi mechie."
+      },
+      {
+        "q": "Enwere m ike ibipụta egwuregwu ịchọta okwu?",
+        "a": "Ee. Pịa “Bipụta egwuregwu a” ka ị bipụta ogige dị ugbu a n'mkpụrụ edemede buru ibu, ya na ndepụta okwu n'okpuru. Egwuregwu ọhụrụ ọ bụla dị iche."
+      },
+      {
+        "q": "Ọ bụ n'efu, ọ dịkwa mkpa ịdebanye aha?",
+        "a": "Ee, ọ bụ n'efu, enweghịkwa akaụntụ, ndebanye aha ma ọ bụ nbudata. Ọ na-arụ ọrụ n'ime browser n'ekwentị, tablet ma ọ bụ kọmputa."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Ibe ịtee agba",
+    "seoTitle": "Ibe ịtee agba maka ndị okenye nwere dementia (n'efu)",
+    "h1": "Ibe ịtee agba",
+    "description": "Ibe ịtee agba dị mfe maka ndị okenye nwere ebe buru ibu: pịa agba, wee pịa onyonyo. Enweghị agba na-ezighị ezi, ị nwekwara ike ibipụta ibe ọ bụla n'efu.",
+    "short": "Pịa agba, wee pịa akụkụ onyonyo. Bipụtakwa ibe.",
+    "players": "Otu ma ọ bụ mmadụ abụọ",
+    "intro": "Ibe nwere ụdị buru ibu, dị mfe: ifuru n'ite, ụlọ, iko tii, urukpuru na ụgbọ mmiri. Pịa agba, wee pịa akụkụ onyonyo ka ị jupụta ya. Enweghị agba na-ezighị ezi.",
+    "howTo": [
+      "Họrọ ibe.",
+      "Pịa agba. Agba ọ bụla nwere aha ya e dere na ya.",
+      "Pịa akụkụ onyonyo ka ị jupụta ya na agba ahụ.",
+      "Gbanwee obi gị n'oge ọ bụla site n'ijupụta ya ọzọ.",
+      "Pịa “Bipụta ibe a” maka ibe efu ka ị tee agba na pensụl ma ọ bụ mak."
+    ],
+    "tips": [
+      "Nye agba abụọ ka ịhọrọ kama nke niile ma ọ bụrụ na ịhọrọ dị ka ọ dị ukwuu.",
+      "Osisi na-acha odo odo ma ọ bụ anyanwụ na-acha anụnụ anụnụ ka a na-anabata. Ọ bụ maka ịnụ ụtọ agba, ọ bụghị izi ezi.",
+      "Ibe e bipụtara na-arụ ọrụ nke ọma na mak ma ọ bụ crayon buru ibu, nke dị mfe ijide."
+    ],
+    "faq": [
+      {
+        "q": "Enwere elekere ma ọ bụ akara?",
+        "a": "Mba. Enweghị elekere, akara, ọnụọgụ nke ije ma ọ bụ ịtụfu. Ị nwere ike ịkwụsị n'oge ọ bụla, ịkwụsị n'etiti bụkwa ụzọ ziri ezi isi mechie."
+      },
+      {
+        "q": "Ibe ndị a ha bụ nke ụmụaka nke ukwuu?",
+        "a": "Anyị sere ihe dị jụụ, dị mfe kama eserese ụmụaka, ya mere ibe ndị a dabara ndị okenye. Ụdị buru ibu na-eme ka ịtee agba dị mfe na-emeghị ka ọ bụrụ ihe ụmụaka."
+      },
+      {
+        "q": "Ọ bụ n'efu, ọ dịkwa mkpa ịdebanye aha?",
+        "a": "Ee, ọ bụ n'efu, enweghịkwa akaụntụ, ndebanye aha ma ọ bụ nbudata. Ọ na-arụ ọrụ n'ime browser n'ekwentị, tablet ma ọ bụ kọmputa."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Kaadị mkparịta ụka",
+    "seoTitle": "Mmalite mkparịta ụka maka dementia: kaadị onyonyo",
+    "h1": "Kaadị mkparịta ụka",
+    "description": "Kaadị onyonyo nwere mmalite mkparịta ụka dị nwayọọ maka ndị na-ebi ná dementia: enweghị ajụjụ ule, enweghị azịza ziri ezi. Jiri n'ihuenyo ma ọ bụ bipụta.",
+    "short": "Kaadị onyonyo nwere ajụjụ mepere emepe, dị nwayọọ. Enweghị ajụjụ ule.",
+    "players": "Mmadụ abụọ ma ọ bụ otu",
+    "intro": "Kaadị ọ bụla na-ejikọta onyonyo a maara na oku mepere emepe ikwu okwu, dị ka “Kedu ụdị ihu igwe masịrị gị kacha?” Enweghị azịza ziri ezi, ọ dịghịkwa ihe a ga-echeta. Họrọ isiokwu ma ọ bụ gwakọta ha niile.",
+    "howTo": [
+      "Họrọ isiokwu, ma ọ bụ debe “Kaadị niile”.",
+      "Gụọ ajụjụ ahụ n'olu dara ụda ma lekọọ onyonyo ahụ ọnụ.",
+      "Gee ntị, kesaa azịza nke gị, ma hapụ okwu ahụ ka ọ na-aga.",
+      "Pịa “Kaadị na-esote” mgbe ị dị njikere, ma ọ bụ nọgide na otu kaadị ruo ogologo oge ị chọrọ.",
+      "Pịa “Bipụta kaadị niile” ka ị bipụta ngwugwu akwụkwọ."
+    ],
+    "tips": [
+      "Zakwa ajụjụ ahụ n'onwe gị. Ọ na-adị ka mkparịta ụka, ọ bụghị ajụjụ ọnụ.",
+      "Soro akụkọ ahụ, ọ bụghị eziokwu. Ọ bụrụ na nkọwa na-agbanwe, ọ dị mma.",
+      "Ọ bụrụ na kaadị metụrụ ihe na-ewute, kwenye na mmetụta ahụ ma jiri nwayọọ gaa n'kaadị ọzọ."
+    ],
+    "faq": [
+      {
+        "q": "Gịnị mere enweghị ajụjụ “Ị na-echeta…?”",
+        "a": "Ajụjụ ndị na-anwale ncheta nwere ike ịdị ka ule ma kpatara ihere. Oku mepere emepe dị ka “Kọọrọ m banyere…” na-ahapụ onye ọ bụla isonye, ihe ọ bụla ọ na-echeta."
+      },
+      {
+        "q": "Enwere m ike ibipụta kaadị ndị ahụ?",
+        "a": "Ee. “Bipụta kaadị niile” na-ebipụta ngwugwu niile n'mkpụrụ edemede buru ibu, kaadị ole na ole n'ibe ọ bụla, dị njikere ịkpụ."
+      },
+      {
+        "q": "Ọ bụ n'efu, ọ dịkwa mkpa ịdebanye aha?",
+        "a": "Ee, ọ bụ n'efu, enweghịkwa akaụntụ, ndebanye aha ma ọ bụ nbudata. Ọ na-arụ ọrụ n'ime browser n'ekwentị, tablet ma ọ bụ kọmputa."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Foto ndị dakọrọ",
+    "seoTitle": "Mee egwuregwu ịhụ ndị dakọrọ site na foto ezinụlọ",
+    "h1": "Foto ndị dakọrọ: kọwaa foto nke gị",
+    "description": "Gbanwee foto ezinụlọ nke gị ka ọ bụrụ egwuregwu ịhụ ndị dakọrọ dị nwayọọ. Họrọ foto 2 ruo 6 na ngwaọrụ gị; ha na-anọ n'ime browser gị, a naghịkwa ebuga ha.",
+    "short": "Họrọ foto nke gị ma hụ ndị dakọrọ. A naghị ebuga ihe ọ bụla.",
+    "players": "Mmadụ abụọ, n'akụkụ ibe ha",
+    "intro": "Họrọ foto abụọ ruo isii site n'ekwentị, tablet ma ọ bụ kọmputa gị, ha ga-aghọkwa egwuregwu ịhụ ndị dakọrọ nwere onyonyo buru ibu, a na-ahụ anya. A na-egosi foto ndị ahụ naanị n'ime ibe a. A naghị ebuga, echekwa ma ọ bụ kesaa ha, ha na-apụkwa mgbe ị mechiri ibe ahụ.",
+    "howTo": [
+      "Pịa “Họrọ foto” ma họrọ foto abụọ ruo isii.",
+      "Foto ọ bụla na-apụta ugboro abụọ. Pịa otu, wee pịa nke ya dakọrọ.",
+      "Kparịta foto ọ bụla ka ị na-achọta ya.",
+      "Mgbe ị gwụchara, mechie ibe ahụ ma ọ bụ pịa “Hichapụ foto”. Ọ dịghị ihe a na-edebe."
+    ],
+    "tips": [
+      "Họrọ foto doro anya nke ihe dị mma, a maara: anụ ụlọ, ubi, ebe masịrị gị, ụbọchị agbamakwụkwọ.",
+      "Onyonyo ebe na ihe nwere ike ịdị mfe karịa ihu, ha na-ezekwa nrụgide ịkpọ aha mmadụ.",
+      "Hapụ foto ndị nwụrụ anwụ ma ọ bụrụ na ha nwere ike iweta iru újú na mberede, belụsọ ma ịmara na ha na-eweta ahụ iru ala."
+    ],
+    "faq": [
+      {
+        "q": "A na-ebuga foto m ebe ọ bụla?",
+        "a": "Mba. Ibe ahụ na-agụ foto ndị ị họọrọ ozugbo n'ime browser gị ma gosi ha n'ihuenyo gị. A naghị ezigara anyị ma ọ bụ onye ọ bụla ọzọ ha, ha na-apụkwa mgbe ị mechiri ma ọ bụ mepegharịa ibe ahụ."
+      },
+      {
+        "q": "Enwere elekere ma ọ bụ akara?",
+        "a": "Mba. Enweghị elekere, akara, ọnụọgụ nke ije ma ọ bụ ịtụfu. Ị nwere ike ịkwụsị n'oge ọ bụla, ịkwụsị n'etiti bụkwa ụzọ ziri ezi isi mechie."
+      },
+      {
+        "q": "Enwere m ike ichekwa egwuregwu maka oge ọzọ?",
+        "a": "Ọ bụghị n'ime browser, site na nhazi, ka ihe nzuzo ọ bụla ghara ịchekwa. App Golden Moments n'efu maka iPhone na iPad nwere ike idebe kọpị foto a họọrọ na ngwaọrụ gị."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bingo onyonyo",
+    "seoTitle": "Bingo onyonyo maka ndị agadi nwere dementia: a ga-ebipụta",
+    "h1": "Bingo onyonyo maka otu",
+    "description": "Bingo onyonyo n'efu a ga-ebipụta maka nlekọta ncheta na otu ndị agadi, ya na onye na-akpọ buru ibu n'ihuenyo. Onyonyo buru ibu nwere okwu, ebe 9 ma ọ bụ 16.",
+    "short": "Kaadị bingo onyonyo a ga-ebipụta na onye na-akpọ n'ihuenyo buru ibu maka otu.",
+    "players": "Otu nke mmadụ 2 ruo 30",
+    "intro": "Bingo ochie nwere onyonyo kama ọnụọgụ, ya mere ọ dịghị onye chọrọ ịgụ obere mkpụrụ edemede. Bipụta ngwugwu kaadị pụrụ iche, wee jiri onye na-akpọ n'ihuenyo gosi onyonyo ọ bụla buru ibu n'ihuenyo TV, laptọọpụ ma ọ bụ tablet.",
+    "howTo": [
+      "Họrọ ebe 9 ma ọ bụ 16 n'kaadị ọ bụla na ọnụọgụ ndị na-akpọ.",
+      "Pịa “Bipụta kaadị”. Kaadị ọ bụla dị iche.",
+      "Mepee onye na-akpọ n'ihuenyo buru ibu. Pịa “Onyonyo na-esote” ka ị gosi onyonyo ọ bụla na aha ya.",
+      "Ndị na-akpọ na-ekpuchi onyonyo dakọrọ n'kaadị ha site na mkpụrụ ego, bọtịnụ ma ọ bụ mak.",
+      "Onye ọ bụla jupụtara ahịrị, ma ọ bụ kaadị niile, na-enweta ọnụ ụtọ. Enweghị ndị tara ahụhụ n'ụdị a: gaa n'ihu ịkpọ ruo mgbe onye ọ bụla nwere ahịrị."
+    ],
+    "tips": [
+      "Jiri akara buru ibu dị ka checkers ma ọ bụ mkpuchi karama. Bọtịnụ pere mpe nwere ike isi ike iweta.",
+      "Kpọọ aha onyonyo ahụ ma kwuo ihe ọ bụla banyere ya: “Ụgbọ mmiri. Onye gara n'ụgbọ mmiri?”",
+      "Debe ndị na-esiri ike ịhụ ihe nso ihuenyo, ma jikọta ndị enyemaka na ndị na-achọ ha.",
+      "Ebe itoolu zuru oke maka ọtụtụ otu. Debe oge ahụ na nkeji 20 ruo 30."
+    ],
+    "faq": [
+      {
+        "q": "Kedu ka m ga-esi mee bingo onyonyo n'ụlọ nlekọta?",
+        "a": "Bipụta otu kaadị maka onye ọ bụla na-akpọ, tinye onye na-akpọ n'ihuenyo kacha ibu ị nwere, ma kpọọ onyonyo nwayọọ, na-akpọ aha nke ọ bụla. Kpọọ ruo mgbe onye ọ bụla nwere ahịrị, ka onye ọ bụla ghara ịhapụ n'azụ."
+      },
+      {
+        "q": "Ọ bụ n'efu ibipụta?",
+        "a": "Ee. Bipụta kaadị ole ị chọrọ, ugboro ole ị chọrọ, maka ojiji onwe onye ma ọ bụ otu."
+      },
+      {
+        "q": "Ndị mmadụ nwere ike ịkpọ na-agụghị ihe?",
+        "a": "Ee. Ebe ọ bụla bụ onyonyo buru ibu, nwere aha ya n'okpuru maka ndị masịrị okwu."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Iku ume nwayọọ",
+    "seoTitle": "Obere ezumike iku ume nwayọọ maka ndị agadi na ndị na-elekọta",
+    "h1": "Obere ezumike iku ume nwayọọ",
+    "description": "Obere ezumike iku ume nwayọọ, dị jụụ ị ga-eso ya: gburugburu dị nwayọọ na-eto ma na-ebelata ugboro isii. Ị na-amalite ya, ị nwekwara ike ịkwụsị n'oge ọ bụla.",
+    "short": "Gburugburu nwayọọ ka ị na-eku ume na ya. Malite ma kwụsị mgbe ịchọrọ.",
+    "players": "Otu ma ọ bụ mmadụ abụọ",
+    "intro": "Mgbe ụfọdụ ọrụ kacha mma bụ obere ezumike dị jụụ. Pịa “Malite”, wee kuo ume n'ime ka gburugburu na-eto, fụpụ ume ka ọ na-ebelata. Họrọ ọsọ nwayọọ ma ọ bụ ọsọ ọsọ. Ọ bụghị ọgwụgwọ, naanị oge udo e nwere ọnụ.",
+    "howTo": [
+      "Nọdụ ala ọnụ n'akụkụ ibe unu nke ọma.",
+      "Họrọ ọsọ: nwayọọ ma ọ bụ dị nro.",
+      "Pịa “Malite”. Kuo ume n'ime ka gburugburu na-eto, fụpụ ume ka ọ na-ebelata.",
+      "Ọ na-akwụsị n'onwe ya mgbe iku ume isii gasịrị, ma ọ bụ pịa “Kwụsị” mgbe ọ bụla ịchọrọ."
+    ],
+    "tips": [
+      "Jide aka ma ọ bụ tinye aka n'aka onye ahụ ma ọ bụrụ na ọ nabatara ya.",
+      "Ejila mkpa. Ọ bụrụ na ha masịrị ilele, ọ dị mma.",
+      "Ọ bụrụ na onye nwere nsogbu iku ume, kuo ume dịka ọ na-adị ma lee gburugburu ahụ naanị. Jụọ dọkịta banyere nchegbu iku ume ọ bụla."
+    ],
+    "faq": [
+      {
+        "q": "Nke a ọ bụ mmega iku ume ahụike?",
+        "a": "Mba. Ọ bụ obere ezumike dị mfe, nhọrọ maka udo na ịnọ ọnụ. Ọ bụghị ọgwụgwọ maka nchegbu ma ọ bụ ọnọdụ ọ bụla. Kparịta na dọkịta banyere nchegbu ahụike."
+      },
+      {
+        "q": "Gburugburu ahụ ọ na-ebugharị na-amaghị m malite ya?",
+        "a": "Mba. Ọ dịghị ihe na-ebugharị ruo mgbe ị pịrị Malite, ọ na-akwụsịkwa mgbe iku ume isii gasịrị ma ọ bụ mgbe ị pịrị Kwụsị. Ọ bụrụ na e debere ngwaọrụ gị ka ọ belata mmegharị, okwu ndị ahụ na-agbanwe na-enweghị gburugburu na-eto."
+      },
+      {
+        "q": "Ọ bụ n'efu, ọ dịkwa mkpa ịdebanye aha?",
+        "a": "Ee, ọ bụ n'efu, enweghịkwa akaụntụ, ndebanye aha ma ọ bụ nbudata. Ọ na-arụ ọrụ n'ime browser n'ekwentị, tablet ma ọ bụ kọmputa."
+      }
+    ]
+  }
+}

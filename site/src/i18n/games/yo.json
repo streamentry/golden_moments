@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Àwọn méjì-méjì àwòrán",
+    "seoTitle": "Eré Ìbára-mu fún Dementia: Àwọn Méjì-méjì Àwòrán",
+    "h1": "Àwọn Méjì-méjì Àwòrán: Eré Ìbára-mu Jẹ́ẹ́jẹ́ẹ́",
+    "description": "Eré ìbára-mu jẹ́ẹ́jẹ́ẹ́ lọ́fẹ̀ẹ́ fún àwọn tí ó ní dementia. Àwọn àwòrán ńlá ń wà lójú, kò sí aago tàbí ààmì, ẹ sì yan káàdì 4 sí 12.",
+    "short": "Ẹ wá àwọn àwòrán méjì tí ó jọra. Àwọn àwòrán lè máa wà lójú.",
+    "players": "Ènìyàn 1 tàbí 2, ní ẹ̀gbẹ́ ara wọn",
+    "intro": "Ẹ tẹ àwòrán kan, lẹ́yìn náà ẹ tẹ èyí tí ó bá a mu. Àwọn àwòrán ń wà lójú ní àìyípadà, nítorí náà kò sí ohun tí ó nílò láti ranti. Nígbà tí àwọn àwòrán méjì bá bára mu, wọ́n ń gba férémù wúrà àti àmì ìdánilójú.",
+    "howTo": [
+      "Ẹ yan iye káàdì tí ẹ fẹ́ lò. Káàdì mẹ́rin jẹ́ ibi parọ́rọ́ láti bẹ̀rẹ̀.",
+      "Ẹ tẹ àwòrán èyíkéyìí. Yóò gba férémù wúrà.",
+      "Ẹ tẹ àwòrán tí ó jọra. Àwọn méjèèjì yóò dúró papọ̀ pẹ̀lú àmì ìdánilójú.",
+      "Bí àwọn àwòrán méjèèjì bá yàtọ̀, kò sí ohun búburú tí ó ṣẹlẹ̀. Ẹ tún tẹ̀ nígbàkúùgbà tí ẹ bá ṣetán.",
+      "Ẹ tan \"Àwọn àwòrán tí a fi pamọ́\" nìkan bí ẹ bá jọ gbádùn ẹ̀dà àtijọ́ tí a dojú rẹ̀ bolẹ̀."
+    ],
+    "tips": [
+      "Ẹ jọ dárúkọ àwọn àwòrán sókè, kí ẹ sì sọ̀rọ̀ nípa wọn: \"Ife tíì pupa. Ṣé ẹ̀ ń fi wàrà sínú tíì yín?\"",
+      "Ẹ jẹ́ kí ẹni tí ẹ ń tọ́jú ni ó máa tẹ̀, bó ti wù kí ó pẹ́ tó. Ẹ tọ́ka dípò kí ẹ tẹ̀ fún wọn.",
+      "Ẹ dúró lórí káàdì mẹ́rin níwọ̀n ìgbà tí ó bá ń dùn mọ́ yín. Káàdì púpọ̀ jẹ́ àṣàyàn, kì í ṣe ìpele láti dé.",
+      "Ẹ parí nígbà tí ó bá ṣì ń dùn mọ́ni. Eré kan jẹ́ ìgbòkègbodò pípé."
+    ],
+    "faq": [
+      {
+        "q": "Ṣé aago tàbí ààmì wà?",
+        "a": "Rárá. Kò sí aago, ààmì, kíka ìgbésẹ̀ tàbí pípàdánù. Ẹ lè dúró nígbàkúùgbà, dídúró ní agbede méjì sì jẹ́ ọ̀nà tí ó dára pátápátá láti parí."
+      },
+      {
+        "q": "Kí ló dé tí àwọn àwòrán fi ń wà lójú?",
+        "a": "Mímú àwọn àwòrán wà lójú ń sọ eré náà di wíwò àti ìbára-mu dípò rírántí. Ọ̀pọ̀ ènìyàn rí i pé ó parọ́rọ́ jù. Ẹ lè yí padà sí àwọn àwòrán tí a fi pamọ́ pẹ̀lú ìtẹ̀ kan bí ẹ bá fẹ́."
+      },
+      {
+        "q": "Ṣé ọ̀fẹ́ ni, ṣé mo sì nílò láti forúkọ sílẹ̀?",
+        "a": "Bẹ́ẹ̀ ni, ọ̀fẹ́ ni, kò sì sí àkọọ́lẹ̀, ìforúkọsílẹ̀ tàbí gbígbà sílẹ̀. Ó ń ṣiṣẹ́ nínú ẹ̀rọ aṣàwákiri lórí fóònù, tábìlẹ́ẹ̀tì tàbí kọ̀ǹpútà."
+      },
+      {
+        "q": "Ṣé a lè lo àwọn fọ́tò ẹbí wa?",
+        "a": "Bẹ́ẹ̀ ni. Ẹ gbìyànjú Àwọn méjì-méjì fọ́tò, tí ó jẹ́ kí ẹ yan àwọn fọ́tò láti ẹ̀rọ yín. Àwọn fọ́tò náà ń wà nínú ẹ̀rọ aṣàwákiri yín, a kì í sì í gbé wọn sórí íńtánẹ́ẹ̀tì."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Wá èyí tí ó jọra",
+    "seoTitle": "Wá Àwòrán Tí Ó Jọra: Eré Rírọrùn fún Dementia",
+    "h1": "Wá Àwòrán Tí Ó Jọra",
+    "description": "Àwòrán kan lókè, méjì sí mẹ́rin nísàlẹ̀. Ẹ tẹ èyí tí ó jọra. Eré àwòrán parọ́rọ́, lọ́fẹ̀ẹ́ fún àwọn tí ó ní dementia, láì sí aago.",
+    "short": "Ẹ wo àwòrán tí ó wà lókè, kí ẹ sì tẹ èyí tí ó jọra nísàlẹ̀.",
+    "players": "Ènìyàn 1 tàbí 2",
+    "intro": "Àwòrán kan wà lókè ojú-ìbòjú. Nísàlẹ̀ rẹ̀ ni àwọn àwòrán méjì, mẹ́ta tàbí mẹ́rin wà. Ẹ tẹ èyí tí ó jọra. Ó jẹ́ àṣàyàn rírọrùn kan ní ìgbà kan, pẹ̀lú ààyè púpọ̀ láti sọ̀rọ̀.",
+    "howTo": [
+      "Ẹ yan àwòrán méjì, mẹ́ta tàbí mẹ́rin láti yàn láàrin wọn. Méjì ni ó rọrùn jù.",
+      "Ẹ jọ wo àwòrán tí ó wà lókè.",
+      "Ẹ tẹ àwòrán kan náà nísàlẹ̀. A fi àmì ìdánilójú àti ọ̀rọ̀ díẹ̀ tí ó gbóná sàmì sí i.",
+      "Bí a bá tẹ àwòrán tí ó yàtọ̀, eré náà kàn dárúkọ rẹ̀, ó sì dúró. Ẹ má kánjú.",
+      "Ẹ tẹ \"Àwòrán tí ó kàn\" nígbà tí ẹ bá ṣetán fún òmíràn."
+    ],
+    "tips": [
+      "Ẹ sọ̀rọ̀ nípa àwòrán kọ̀ọ̀kan kí ẹ tó yàn: àwọn àwọ̀, àwọn àwòrán, ibi tí ẹ lè rí i.",
+      "Àṣàyàn méjì kì í ṣe \"rírọrùn jù\". Èrèdí náà ni àkókò dídùn, kì í ṣe ìpèníjà.",
+      "Bí títẹ̀ bá ṣòro, ẹni náà lè tọ́ka, ẹ sì lè tẹ̀ fún wọn."
+    ],
+    "faq": [
+      {
+        "q": "Ṣé aago tàbí ààmì wà?",
+        "a": "Rárá. Kò sí aago, ààmì, kíka ìgbésẹ̀ tàbí pípàdánù. Ẹ lè dúró nígbàkúùgbà, dídúró ní agbede méjì sì jẹ́ ọ̀nà tí ó dára pátápátá láti parí."
+      },
+      {
+        "q": "Kí ni yóò ṣẹlẹ̀ bí a bá tẹ àwòrán tí kò tọ́?",
+        "a": "Kò sí ohun tí kò dùn. Kò sí ìró ìkìlọ̀, àmì àgbélébùú pupa tàbí ìgbọ̀n. Eré náà dárúkọ àwòrán tí a tẹ̀, ó sì dúró de ìtẹ̀ tí ó kàn."
+      },
+      {
+        "q": "Ṣé ọ̀fẹ́ ni, ṣé mo sì nílò láti forúkọ sílẹ̀?",
+        "a": "Bẹ́ẹ̀ ni, ọ̀fẹ́ ni, kò sì sí àkọọ́lẹ̀, ìforúkọsílẹ̀ tàbí gbígbà sílẹ̀. Ó ń ṣiṣẹ́ nínú ẹ̀rọ aṣàwákiri lórí fóònù, tábìlẹ́ẹ̀tì tàbí kọ̀ǹpútà."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Ìbára-mu òjìji",
+    "seoTitle": "Eré Ìbára-mu Òjìji fún Dementia: Lọ́fẹ̀ẹ́ Lórí Íńtánẹ́ẹ̀tì",
+    "h1": "Ìbára-mu Òjìji: Eré Àwòrán Jẹ́ẹ́jẹ́ẹ́",
+    "description": "Òjìji dúdú lókè, àwòrán méjì sí mẹ́rin nísàlẹ̀. Ẹ tẹ àwòrán tí ó ṣe òjìji náà. Eré ìbára-mu òjìji parọ́rọ́ fún dementia, láì sí aago.",
+    "short": "Ẹ wo òjìji náà kí ẹ sì tẹ àwòrán tí ó ṣe é.",
+    "players": "Ènìyàn 1 tàbí 2",
+    "intro": "Ìbára-mu òjìji jẹ́ ìgbòkègbodò tí a mọ̀ láti inú àwọn ìwé iṣẹ́ tí a tẹ̀, níbí pẹ̀lú àwọn àwòrán ńlá àti láì sí ohun tí a ó tẹ̀. Òjìji rírọ̀ wà lókè ojú-ìbòjú, àwọn àwòrán méjì, mẹ́ta tàbí mẹ́rin sì dúró nísàlẹ̀. Ẹ tẹ èyí tí ó ṣe òjìji náà. Àwọn àwòrán bíi kẹ̀kẹ́, agboòrùn tàbí ife tíì rọrùn láti sọ̀rọ̀ nípa rẹ̀ pẹ̀lú.",
+    "howTo": [
+      "Ẹ yan àwòrán méjì, mẹ́ta tàbí mẹ́rin láti yàn láàrin wọn. Méjì ni ó rọrùn jù.",
+      "Ẹ jọ wo òjìji náà. Àwòrán wo ni? Ṣé ó ga tàbí ó yípo?",
+      "Ẹ tẹ àwòrán tí ó ṣe òjìji náà. Orúkọ rẹ̀ hàn lábẹ́ òjìji náà.",
+      "Bí a bá tẹ àwòrán tí ó yàtọ̀, eré náà kàn dárúkọ rẹ̀, ó sì dúró. Ẹ má kánjú.",
+      "Ẹ tẹ \"Òjìji tí ó kàn\" nígbà tí ẹ bá ṣetán fún òmíràn."
+    ],
+    "tips": [
+      "Ẹ fi ìka tọpasẹ̀ ìgbàjá òjìji náà, kí ẹ sì sọ̀rọ̀ nípa àwòrán rẹ̀.",
+      "Bí àwọn òjìji bá dà bí ohun tí ó le lónìí, ẹ yípadà sí Wá èyí tí ó jọra, níbi tí àwọn àwòrán ti jọra.",
+      "Ẹ sọ̀rọ̀ nípa àwòrán náà lẹ́yìn tí a bá rí i: \"A ní agboòrùn bí èyí.\""
+    ],
+    "faq": [
+      {
+        "q": "Ṣé aago tàbí ààmì wà?",
+        "a": "Rárá. Kò sí aago, ààmì, kíka ìgbésẹ̀ tàbí pípàdánù. Ẹ lè dúró nígbàkúùgbà, dídúró ní agbede méjì sì jẹ́ ọ̀nà tí ó dára pátápátá láti parí."
+      },
+      {
+        "q": "Ṣé ìbára-mu òjìji dára fún àwọn ènìyàn tí ó ní dementia?",
+        "a": "Ó lè jẹ́ ìgbòkègbodò dídùn, rírọrùn fún àwọn ènìyàn kan, pàápàá ní àwọn ìpele ìbẹ̀rẹ̀. Àwọn àwòrán rọrùn láti dá mọ̀ ju àwọn ọ̀rọ̀ lọ. Ó wà fún ìgbádùn àti ìjíròrò, kì í ṣe ìdánwò, kì í sì í tọ́jú tàbí dín dementia kù. Bí ó bá fa ìbínú, ẹ gbìyànjú Wá èyí tí ó jọra tàbí kí ẹ kàn jọ wo àwọn àwòrán."
+      },
+      {
+        "q": "Kí ni yóò ṣẹlẹ̀ bí a bá tẹ àwòrán tí kò tọ́?",
+        "a": "Kò sí ohun tí kò dùn. Kò sí ìró ìkìlọ̀, àmì àgbélébùú pupa tàbí ìgbọ̀n. Eré náà dárúkọ àwòrán tí a tẹ̀, ó sì dúró de ìtẹ̀ tí ó kàn."
+      },
+      {
+        "q": "Ṣé ọ̀fẹ́ ni, ṣé mo sì nílò láti forúkọ sílẹ̀?",
+        "a": "Bẹ́ẹ̀ ni, ọ̀fẹ́ ni, kò sì sí àkọọ́lẹ̀, ìforúkọsílẹ̀ tàbí gbígbà sílẹ̀. Ó ń ṣiṣẹ́ nínú ẹ̀rọ aṣàwákiri lórí fóònù, tábìlẹ́ẹ̀tì tàbí kọ̀ǹpútà."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Ẹ jọ tòlẹ́sẹẹsẹ",
+    "seoTitle": "Eré Ìtòlẹ́sẹẹsẹ fún Dementia: Ẹ Jọ Tòlẹ́sẹẹsẹ",
+    "h1": "Ẹ Jọ Tòlẹ́sẹẹsẹ: Ìgbòkègbodò Ìtòlẹ́sẹẹsẹ Àwòrán",
+    "description": "Ẹ tẹ àwòrán kan, lẹ́yìn náà ẹ tẹ agbọ̀n tí ó wà nínú rẹ̀: ibi ìdáná tàbí ọgbà, èso tàbí ẹranko. Ìgbòkègbodò ìtòlẹ́sẹẹsẹ parọ́rọ́, lọ́fẹ̀ẹ́.",
+    "short": "Ẹ fi àwòrán kọ̀ọ̀kan sínú agbọ̀n rẹ̀: ibi ìdáná tàbí ọgbà, àti sí i.",
+    "players": "Ènìyàn 1 tàbí 2",
+    "intro": "Ìtòlẹ́sẹẹsẹ jẹ́ iṣẹ́ ojoojúmọ́ tí a mọ̀, tí ó sì ń tẹ́ni lọ́rùn, bíi kíkó ohun èlò ilé sílẹ̀ tàbí pípa ibọsẹ̀ pọ̀. Ẹ tẹ àwòrán kan, lẹ́yìn náà ẹ tẹ agbọ̀n tí ó wà nínú rẹ̀. Kò sí kíkánjú àti kò sí ìyípadà tí kò tọ́.",
+    "howTo": [
+      "Ẹ yan kókó ọ̀rọ̀ kan: ibi ìdáná àti ọgbà, èso àti ẹranko, tàbí ilé àti ìrìn àjò.",
+      "Ẹ tẹ àwòrán kan. Yóò gba férémù wúrà.",
+      "Ẹ tẹ agbọ̀n tí ó wà nínú rẹ̀. Àwòrán náà yóò lọ sínú agbọ̀n yẹn.",
+      "Bí ó bá wà nínú agbọ̀n kejì, eré náà sọ bẹ́ẹ̀ jẹ́ẹ́jẹ́ẹ́, ó sì dúró.",
+      "Nígbà tí a bá ti tòlẹ́sẹẹsẹ gbogbo àwòrán, ẹ jọ wo àwọn agbọ̀n náà."
+    ],
+    "tips": [
+      "Nígbà púpọ̀ kò sí ìdáhùn tí kò tọ́ ní ayé gidi. Bí ẹnìkan bá sọ pé ìgò ìbomirin wà ní ibi ìdáná, ẹ béèrè ìdí. Ẹ lè rí ìtàn rere gbà.",
+      "Ẹ lo àwọn àwòrán náà bí ìbéèrè ìjíròrò: \"Kí ni ẹ gbìn sínú ọgbà yín?\"",
+      "Títò àwọn ohun gidi lẹ́sẹẹsẹ, bíi ṣíbí àti fọ́ọ̀kì tàbí bọ́tìnì ní ìbámu pẹ̀lú àwọ̀, jẹ́ ìtẹ̀síwájú tí ó dára lẹ́yìn ojú-ìbòjú."
+    ],
+    "faq": [
+      {
+        "q": "Ṣé aago tàbí ààmì wà?",
+        "a": "Rárá. Kò sí aago, ààmì, kíka ìgbésẹ̀ tàbí pípàdánù. Ẹ lè dúró nígbàkúùgbà, dídúró ní agbede méjì sì jẹ́ ọ̀nà tí ó dára pátápátá láti parí."
+      },
+      {
+        "q": "Kí ló dé tí a fi ń tòlẹ́sẹẹsẹ?",
+        "a": "Ọ̀pọ̀ ènìyàn ń gbádùn ìtòlẹ́sẹẹsẹ nítorí ó dà bí iṣẹ́ tí ó wúlò, tí ó mọ̀ wọ́n. Ó tún rọrùn láti sọ̀rọ̀ nípa àwọn àwòrán bí a ti ń lọ."
+      },
+      {
+        "q": "Ṣé ọ̀fẹ́ ni, ṣé mo sì nílò láti forúkọ sílẹ̀?",
+        "a": "Bẹ́ẹ̀ ni, ọ̀fẹ́ ni, kò sì sí àkọọ́lẹ̀, ìforúkọsílẹ̀ tàbí gbígbà sílẹ̀. Ó ń ṣiṣẹ́ nínú ẹ̀rọ aṣàwákiri lórí fóònù, tábìlẹ́ẹ̀tì tàbí kọ̀ǹpútà."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Kó àwòrán jọ",
+    "seoTitle": "Jigsaw Rírọrùn fún Dementia: Ègé 4 tàbí 9",
+    "h1": "Kó Àwòrán Jọ: Jigsaw Rírọrùn",
+    "description": "Jigsaw rírọrùn lórí íńtánẹ́ẹ̀tì fún àwọn tí ó ní dementia: ègé ńlá 4 tàbí 9, gbogbo àwòrán ń wà lójú, ẹ sì tẹ ègé méjì láti pààrọ̀ wọn.",
+    "short": "Ẹ tẹ ègé méjì láti pààrọ̀ wọn títí àwòrán náà yóò fi kún.",
+    "players": "Ènìyàn 1 tàbí 2",
+    "intro": "A gé àwòrán rere kan sí ègé ńlá mẹ́rin tàbí mẹ́sàn-án, a sì dà wọ́n rú. Gbogbo àwòrán náà ń wà lójú gẹ́gẹ́ bí atọ́nà. Ẹ tẹ ègé kan, lẹ́yìn náà òmíràn, wọ́n sì pààrọ̀ ipò. Kò sí ìfà-ká.",
+    "howTo": [
+      "Ẹ yan àwòrán kan àti ègé 4 tàbí 9. Mẹ́rin jẹ́ ìbẹ̀rẹ̀ jẹ́ẹ́jẹ́ẹ́.",
+      "Ẹ wo gbogbo àwòrán náà lókè.",
+      "Ẹ tẹ ègé kan, lẹ́yìn náà ẹ tẹ ibi tí ó yẹ kí ó lọ. Àwọn ègé méjèèjì yóò pààrọ̀.",
+      "Àwọn ègé tí ó wà ní ibi tí ó tọ́ gba àmì ìdánilójú kékeré.",
+      "Nígbà tí àwòrán náà bá kún, ẹ jọ gbádùn rẹ̀, lẹ́yìn náà ẹ yan òmíràn."
+    ],
+    "tips": [
+      "Títẹ ègé méjì láti pààrọ̀ wọn rọrùn ju fífà wọ́n lọ fún ọ̀pọ̀ ènìyàn.",
+      "Ẹ sọ̀rọ̀ nípa àwòrán náà bí ó ti ń kún: \"Òrùlé pupa nìyẹn.\"",
+      "Jigsaw igi gidi pẹ̀lú ègé ńlá 12 sí 24 jẹ́ ìgbòkègbodò orí tábìlì tí ó dára pẹ̀lú."
+    ],
+    "faq": [
+      {
+        "q": "Ṣé aago tàbí ààmì wà?",
+        "a": "Rárá. Kò sí aago, ààmì, kíka ìgbésẹ̀ tàbí pípàdánù. Ẹ lè dúró nígbàkúùgbà, dídúró ní agbede méjì sì jẹ́ ọ̀nà tí ó dára pátápátá láti parí."
+      },
+      {
+        "q": "Ṣé mo nílò láti fa àwọn ègé?",
+        "a": "Rárá. Ẹ tẹ ègé kan, lẹ́yìn náà ẹ tẹ òmíràn, wọ́n sì pààrọ̀ ipò. Èyí rọrùn jù pẹ̀lú ọwọ́ tí ń wárìrì tàbí lórí ojú-ìbòjú kékeré."
+      },
+      {
+        "q": "Ṣé ọ̀fẹ́ ni, ṣé mo sì nílò láti forúkọ sílẹ̀?",
+        "a": "Bẹ́ẹ̀ ni, ọ̀fẹ́ ni, kò sì sí àkọọ́lẹ̀, ìforúkọsílẹ̀ tàbí gbígbà sílẹ̀. Ó ń ṣiṣẹ́ nínú ẹ̀rọ aṣàwákiri lórí fóònù, tábìlẹ́ẹ̀tì tàbí kọ̀ǹpútà."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Parí òwe náà",
+    "seoTitle": "Parí Òwe Náà: Eré Òwe fún Àgbàlagbà",
+    "h1": "Parí Òwe Náà",
+    "description": "Àwọn òwe Yorùbá tí a mọ̀ pẹ̀lú ọ̀rọ̀ ìkẹyìn tí ó sọnù. Ẹ tẹ àṣàyàn kan tàbí ẹ fi òpin hàn, lẹ́yìn náà ẹ sọ̀rọ̀ nípa rẹ̀.",
+    "short": "Ẹ jọ parí àwọn òwe tí a mọ̀, lẹ́yìn náà ẹ sọ̀rọ̀ nípa wọn.",
+    "players": "1, 2 tàbí ẹgbẹ́",
+    "intro": "Àwọn òwe àtijọ́ sábà máa ń wà lọ́kàn ní gbogbo ayé. Káàdì kọ̀ọ̀kan fi òwe tí a mọ̀ hàn pẹ̀lú ọ̀rọ̀ ìkẹyìn tí ó sọnù, àṣàyàn mẹ́ta, àti bọ́tìnì \"Fi òpin hàn\". Lẹ́yìn òpin náà, ìbéèrè jẹ́ẹ́jẹ́ẹ́ ń pe ìjíròrò.",
+    "howTo": [
+      "Ẹ jọ ka òwe náà sókè.",
+      "Ẹ tẹ ọ̀rọ̀ tí ó parí rẹ̀, tàbí ẹ tẹ \"Fi òpin hàn\".",
+      "Ẹ tún ka gbogbo òwe náà, kí ẹ sì sọ̀rọ̀ nípa rẹ̀ pẹ̀lú ìbéèrè náà.",
+      "Ẹ tẹ \"Òwe tí ó kàn\" nígbà tí ẹ bá ṣetán."
+    ],
+    "tips": [
+      "Ẹ ka díẹ̀díẹ̀, kí ẹ sì fi ìdúró sílẹ̀ ṣáájú ọ̀rọ̀ ìkẹyìn. Nígbà púpọ̀ àwọn ènìyàn máa ń sọ ọ́ kí ẹ tó parí.",
+      "Bí ẹnìkan bá fúnni ní òpin tí ó yàtọ̀, ẹ gbádùn rẹ̀. Àwọn ẹ̀dà òwe kan yàtọ̀ ní ìbámu pẹ̀lú ẹbí tàbí agbègbè.",
+      "Nínú ẹgbẹ́, ẹnìkan ń kà, gbogbo ènìyàn sì ń darapọ̀ ní òpin."
+    ],
+    "faq": [
+      {
+        "q": "Ṣé aago tàbí ààmì wà?",
+        "a": "Rárá. Kò sí aago, ààmì, kíka ìgbésẹ̀ tàbí pípàdánù. Ẹ lè dúró nígbàkúùgbà, dídúró ní agbede méjì sì jẹ́ ọ̀nà tí ó dára pátápátá láti parí."
+      },
+      {
+        "q": "Kí ni bí a bá yan ọ̀rọ̀ tí ó yàtọ̀?",
+        "a": "Eré náà fi òpin tí ó wọ́pọ̀ hàn, ó sì tẹ̀síwájú sí ìjíròrò. Kò sí ààmì, ìdáhùn tí ó yàtọ̀ sì dára."
+      },
+      {
+        "q": "Ṣé ọ̀fẹ́ ni, ṣé mo sì nílò láti forúkọ sílẹ̀?",
+        "a": "Bẹ́ẹ̀ ni, ọ̀fẹ́ ni, kò sì sí àkọọ́lẹ̀, ìforúkọsílẹ̀ tàbí gbígbà sílẹ̀. Ó ń ṣiṣẹ́ nínú ẹ̀rọ aṣàwákiri lórí fóònù, tábìlẹ́ẹ̀tì tàbí kọ̀ǹpútà."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Ìwádìí ọ̀rọ̀ ní ìtẹ̀ ńlá",
+    "seoTitle": "Ìwádìí Ọ̀rọ̀ Ìtẹ̀ Ńlá fún Dementia, Tí A Lè Tẹ̀",
+    "h1": "Ìwádìí Ọ̀rọ̀ Ní Ìtẹ̀ Ńlá",
+    "description": "Ìwádìí ọ̀rọ̀ ní ìtẹ̀ ńlá lọ́fẹ̀ẹ́ fún àgbàlagbà àti àwọn tí ó ní dementia. Ọ̀rọ̀ díẹ̀, lẹ́tà ńlá, ọ̀rọ̀ ní òòró àti ìbú nìkan. Ṣe lórí íńtánẹ́ẹ̀tì tàbí tẹ̀ ẹ́.",
+    "short": "Lẹ́tà ńlá, ọ̀rọ̀ díẹ̀, ní òòró àti ìbú nìkan. Ẹ tún lè tẹ̀ ẹ́.",
+    "players": "Ènìyàn 1 tàbí 2",
+    "intro": "Àwọn lẹ́tà ńlá nínú àpótí kékeré pẹ̀lú ọ̀rọ̀ díẹ̀ péré, gbogbo wọn ń kà ní ìbú tàbí ní òòró. Ẹ tẹ lẹ́tà àkọ́kọ́ ti ọ̀rọ̀ kan, lẹ́yìn náà lẹ́tà ìkẹyìn rẹ̀. Ẹ fẹ́ bébà? Ẹ tẹ ìwádìí tuntun pẹ̀lú ìtẹ̀ kan.",
+    "howTo": [
+      "Ẹ yan kókó ọ̀rọ̀ àti ìwọ̀n àpótí.",
+      "Ẹ wo àtòjọ ọ̀rọ̀. Àwọn ọ̀rọ̀ ń kà ní ìbú (láti òsì sí ọ̀tún) tàbí ní òòró (láti òkè sí ìsàlẹ̀).",
+      "Ẹ tẹ lẹ́tà àkọ́kọ́ ti ọ̀rọ̀ kan, lẹ́yìn náà ẹ tẹ lẹ́tà ìkẹyìn rẹ̀.",
+      "A ṣàfihàn ọ̀rọ̀ tí a rí, a sì fà á kúrò nínú àtòjọ.",
+      "Ẹ tẹ \"Tẹ ìwádìí yìí\" láti ṣe lórí bébà pẹ̀lú ọ̀pá ìkọ̀wé tàbí aláàmì."
+    ],
+    "tips": [
+      "Ẹ tọ́ka sí ọ̀rọ̀ kan nínú àtòjọ, kí ẹ sì jọ wá lẹ́tà àkọ́kọ́ rẹ̀.",
+      "Lórí bébà, aláàmì tí a fi ṣe àfihàn rọrùn láti dì mú ju ọ̀pá ìkọ̀wé lọ.",
+      "Ẹ sọ̀rọ̀ nípa àwọn ọ̀rọ̀ kókó náà. Àwọn ọ̀rọ̀ èso jẹ́ ọ̀nà àdánidá sí ìrántí ìkórè, ṣíṣe oúnjẹ tàbí ọjà."
+    ],
+    "faq": [
+      {
+        "q": "Ṣé aago tàbí ààmì wà?",
+        "a": "Rárá. Kò sí aago, ààmì, kíka ìgbésẹ̀ tàbí pípàdánù. Ẹ lè dúró nígbàkúùgbà, dídúró ní agbede méjì sì jẹ́ ọ̀nà tí ó dára pátápátá láti parí."
+      },
+      {
+        "q": "Ṣé mo lè tẹ ìwádìí ọ̀rọ̀ náà?",
+        "a": "Bẹ́ẹ̀ ni. Ẹ tẹ \"Tẹ ìwádìí yìí\" láti tẹ àpótí lọ́wọ́lọ́wọ́ ní ìtẹ̀ ńlá, pẹ̀lú àtòjọ ọ̀rọ̀ nísàlẹ̀. Gbogbo ìwádìí tuntun yàtọ̀."
+      },
+      {
+        "q": "Ṣé ọ̀fẹ́ ni, ṣé mo sì nílò láti forúkọ sílẹ̀?",
+        "a": "Bẹ́ẹ̀ ni, ọ̀fẹ́ ni, kò sì sí àkọọ́lẹ̀, ìforúkọsílẹ̀ tàbí gbígbà sílẹ̀. Ó ń ṣiṣẹ́ nínú ẹ̀rọ aṣàwákiri lórí fóònù, tábìlẹ́ẹ̀tì tàbí kọ̀ǹpútà."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Àwọn ojú-ìwé àwọ̀ kíkùn",
+    "seoTitle": "Àwọn Ojú-ìwé Àwọ̀ Kíkùn fún Àgbàlagbà Tí Ó Ní Dementia",
+    "h1": "Àwọn Ojú-ìwé Àwọ̀ Kíkùn",
+    "description": "Àwọn ojú-ìwé àwọ̀ kíkùn rírọrùn fún àgbàlagbà pẹ̀lú àwọn agbègbè ńlá: ẹ tẹ àwọ̀ kan, lẹ́yìn náà ẹ tẹ àwòrán náà. Kò sí ìdọ̀tí, kò sí àwọ̀ tí kò tọ́.",
+    "short": "Ẹ tẹ àwọ̀ kan, lẹ́yìn náà apá kan ti àwòrán náà. Ẹ tún lè tẹ àwọn ojú-ìwé.",
+    "players": "Ènìyàn 1 tàbí 2",
+    "intro": "Àwọn ojú-ìwé pẹ̀lú àwọn àwòrán ńlá, rírọrùn: òdòdó nínú ìkòkò, ilé kan, ife tíì, labalábá àti ọkọ̀ ojú omi. Ẹ tẹ àwọ̀ kan, lẹ́yìn náà ẹ tẹ apá kan ti àwòrán náà láti kùn ún. Kò sí àwọ̀ tí kò tọ́.",
+    "howTo": [
+      "Ẹ yan ojú-ìwé kan.",
+      "Ẹ tẹ àwọ̀ kan. Àwọ̀ kọ̀ọ̀kan ní orúkọ rẹ̀ tí a kọ sí i.",
+      "Ẹ tẹ apá kan ti àwòrán náà láti kùn ún pẹ̀lú àwọ̀ yẹn.",
+      "Ẹ yí èrò yín padà nígbàkúùgbà nípa kíkùn ún lẹ́ẹ̀kan sí i.",
+      "Ẹ tẹ \"Tẹ ojú-ìwé yìí\" fún ojú-ìwé òfo láti kùn pẹ̀lú ọ̀pá ìkọ̀wé tàbí aláàmì."
+    ],
+    "tips": [
+      "Ẹ fún wọn ní àwọ̀ méjì láti yàn dípò gbogbo àwọn àwọ̀ bí yíyàn bá dà bí ohun tí ó pọ̀ jù.",
+      "Àwọn igi aláwọ̀ àlùkò àti òòrùn aláwọ̀ búlúù kò burú. Èyí jẹ́ nípa gbígbádùn àwọ̀, kì í ṣe ìpéye.",
+      "Àwọn ojú-ìwé tí a tẹ̀ ń ṣiṣẹ́ dáadáa pẹ̀lú aláàmì tàbí kírẹ́yọ̀n tí ó nípọn, tí ó rọrùn láti dì mú."
+    ],
+    "faq": [
+      {
+        "q": "Ṣé aago tàbí ààmì wà?",
+        "a": "Rárá. Kò sí aago, ààmì, kíka ìgbésẹ̀ tàbí pípàdánù. Ẹ lè dúró nígbàkúùgbà, dídúró ní agbede méjì sì jẹ́ ọ̀nà tí ó dára pátápátá láti parí."
+      },
+      {
+        "q": "Ṣé àwọn ojú-ìwé wọ̀nyí jẹ́ ti ọmọdé jù?",
+        "a": "A yàwòrán àwọn nǹkan parọ́rọ́, rírọrùn dípò àwòrán ọmọdé, nítorí náà àwọn ojú-ìwé náà bá àgbàlagbà mu. Àwọn àwòrán ńlá jẹ́ kí àwọ̀ kíkùn rọrùn láì mú un dà bí ti ọmọdé."
+      },
+      {
+        "q": "Ṣé ọ̀fẹ́ ni, ṣé mo sì nílò láti forúkọ sílẹ̀?",
+        "a": "Bẹ́ẹ̀ ni, ọ̀fẹ́ ni, kò sì sí àkọọ́lẹ̀, ìforúkọsílẹ̀ tàbí gbígbà sílẹ̀. Ó ń ṣiṣẹ́ nínú ẹ̀rọ aṣàwákiri lórí fóònù, tábìlẹ́ẹ̀tì tàbí kọ̀ǹpútà."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Àwọn káàdì ìjíròrò",
+    "seoTitle": "Ìbẹ̀rẹ̀ Ìjíròrò fún Dementia: Àwọn Káàdì Àwòrán",
+    "h1": "Àwọn Káàdì Ìjíròrò",
+    "description": "Àwọn káàdì àwòrán pẹ̀lú ìbéèrè ìjíròrò jẹ́ẹ́jẹ́ẹ́ fún àwọn tí ó ní dementia: kò sí ìdánwò, kò sí ìdáhùn tí ó tọ́. Lò ó lórí ojú-ìbòjú tàbí tẹ̀ ẹ́.",
+    "short": "Àwọn káàdì àwòrán pẹ̀lú àwọn ìbéèrè ṣíṣí, jẹ́ẹ́jẹ́ẹ́. Kò sí ìdánwò.",
+    "players": "Ènìyàn 2 tàbí ẹgbẹ́",
+    "intro": "Káàdì kọ̀ọ̀kan so àwòrán tí a mọ̀ pọ̀ mọ́ ìpè ṣíṣí láti sọ̀rọ̀, bíi \"Irú ojú ọjọ́ wo ni ẹ fẹ́ràn jù?\" Kò sí ìdáhùn tí ó tọ́ àti kò sí ohun tí a nílò láti ranti. Ẹ yan kókó ọ̀rọ̀ kan tàbí kí ẹ dà gbogbo wọn pọ̀.",
+    "howTo": [
+      "Ẹ yan kókó ọ̀rọ̀ kan, tàbí ẹ fi \"Gbogbo àwọn káàdì\" sílẹ̀.",
+      "Ẹ ka ìbéèrè náà sókè, kí ẹ sì jọ wo àwòrán náà.",
+      "Ẹ gbọ́, ẹ pín ìdáhùn tiyín, kí ẹ sì jẹ́ kí ọ̀rọ̀ máa lọ.",
+      "Ẹ tẹ \"Káàdì tí ó kàn\" nígbà tí ẹ bá ṣetán, tàbí ẹ dúró pẹ̀lú káàdì kan fún ìgbà tí ẹ bá fẹ́.",
+      "Ẹ tẹ \"Tẹ gbogbo àwọn káàdì\" láti gé àkójọ bébà."
+    ],
+    "tips": [
+      "Ẹ dáhùn ìbéèrè náà fúnra yín pẹ̀lú. Ó dà bí ìjíròrò, kì í ṣe ìfọ̀rọ̀wánilẹ́nuwò.",
+      "Ẹ tẹ̀lé ìtàn náà, kì í ṣe àwọn òtítọ́. Bí àwọn àlàyé bá yí padà, kò burú.",
+      "Bí káàdì kan bá fọwọ́ kan ohun ìbànújẹ́, ẹ gba ìmọ̀lára náà, kí ẹ sì lọ sí káàdì mìíràn jẹ́ẹ́jẹ́ẹ́."
+    ],
+    "faq": [
+      {
+        "q": "Kí ló dé tí kò fi sí àwọn ìbéèrè \"Ṣé ẹ rántí…?\"",
+        "a": "Àwọn ìbéèrè tí ń dán ìrántí wò lè dà bí ìdánwò, kí ó sì fa ìtìjú. Àwọn ìpè ṣíṣí bíi \"Ẹ sọ fún mi nípa…\" jẹ́ kí ẹnikẹ́ni darapọ̀, ohunkóhun tí ó rántí."
+      },
+      {
+        "q": "Ṣé mo lè tẹ àwọn káàdì náà?",
+        "a": "Bẹ́ẹ̀ ni. \"Tẹ gbogbo àwọn káàdì\" ń tẹ gbogbo àkójọ ní ìtẹ̀ ńlá, káàdì púpọ̀ ní ojú-ìwé kan, tí ó ṣetán láti gé."
+      },
+      {
+        "q": "Ṣé ọ̀fẹ́ ni, ṣé mo sì nílò láti forúkọ sílẹ̀?",
+        "a": "Bẹ́ẹ̀ ni, ọ̀fẹ́ ni, kò sì sí àkọọ́lẹ̀, ìforúkọsílẹ̀ tàbí gbígbà sílẹ̀. Ó ń ṣiṣẹ́ nínú ẹ̀rọ aṣàwákiri lórí fóònù, tábìlẹ́ẹ̀tì tàbí kọ̀ǹpútà."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Àwọn méjì-méjì fọ́tò",
+    "seoTitle": "Ṣe Eré Ìbára-mu Láti Inú Àwọn Fọ́tò Ẹbí",
+    "h1": "Àwọn Méjì-méjì Fọ́tò: Ẹ Bára Àwọn Fọ́tò Yín Mu",
+    "description": "Ẹ sọ àwọn fọ́tò ẹbí yín di eré ìbára-mu jẹ́ẹ́jẹ́ẹ́. Ẹ yan fọ́tò 2 sí 6 lórí ẹ̀rọ yín; wọ́n ń wà nínú ẹ̀rọ aṣàwákiri yín, a kì í gbé wọn sókè.",
+    "short": "Ẹ yan àwọn fọ́tò tiyín kí ẹ sì bá wọn mu. A kò gbé nǹkan sókè.",
+    "players": "Ènìyàn 2, ní ẹ̀gbẹ́ ara wọn",
+    "intro": "Ẹ yan fọ́tò méjì sí mẹ́fà láti inú fóònù, tábìlẹ́ẹ̀tì tàbí kọ̀ǹpútà yín, wọ́n sì di eré ìbára-mu pẹ̀lú àwọn àwòrán ńlá, tí ń wà lójú. A fi àwọn fọ́tò náà hàn nínú ojú-ìwé yìí nìkan. A kì í gbé wọn sókè, fi wọ́n pamọ́ tàbí pín wọn, wọ́n sì ń sọnù nígbà tí ẹ bá ti ojú-ìwé náà.",
+    "howTo": [
+      "Ẹ tẹ \"Yan àwọn fọ́tò\" kí ẹ sì yan fọ́tò méjì sí mẹ́fà.",
+      "Fọ́tò kọ̀ọ̀kan ń hàn lẹ́ẹ̀mejì. Ẹ tẹ ọ̀kan, lẹ́yìn náà ẹ tẹ èyí tí ó bá a mu.",
+      "Ẹ sọ̀rọ̀ nípa fọ́tò kọ̀ọ̀kan bí ẹ ti ń rí i.",
+      "Nígbà tí ẹ bá ti parí, ẹ ti ojú-ìwé náà tàbí ẹ tẹ \"Pa àwọn fọ́tò rẹ́\". A kò pa nǹkan mọ́."
+    ],
+    "tips": [
+      "Ẹ yan àwọn fọ́tò tí ó mọ́ tónítóní ti àwọn ohun ayọ̀, tí ó mọ̀ wọ́n: ẹran ọ̀sìn, ọgbà, ibi tí wọ́n fẹ́ràn, ọjọ́ ìgbéyàwó.",
+      "Àwọn àwòrán ibi àti nǹkan lè rọrùn ju ojú ènìyàn lọ, wọ́n sì yẹra fún ìfúnpá láti dárúkọ ènìyàn.",
+      "Ẹ fi àwọn fọ́tò àwọn tí wọ́n ti kú sílẹ̀ bí wọ́n bá lè mú ìbànújẹ́ lójijì wá, àyàfi tí ẹ bá mọ̀ pé wọ́n ń mú ìtùnú wá."
+    ],
+    "faq": [
+      {
+        "q": "Ṣé a ń gbé àwọn fọ́tò mi sí ibikíbi?",
+        "a": "Rárá. Ojú-ìwé náà ń ka àwọn fọ́tò tí ẹ yàn tààrà nínú ẹ̀rọ aṣàwákiri yín, ó sì ń fi wọ́n hàn lórí ojú-ìbòjú yín. A kò fi wọ́n ránṣẹ́ sí wa tàbí sí ẹnikẹ́ni mìíràn, wọ́n sì ń lọ nígbà tí ẹ bá ti tàbí tún ojú-ìwé náà gbé wá."
+      },
+      {
+        "q": "Ṣé aago tàbí ààmì wà?",
+        "a": "Rárá. Kò sí aago, ààmì, kíka ìgbésẹ̀ tàbí pípàdánù. Ẹ lè dúró nígbàkúùgbà, dídúró ní agbede méjì sì jẹ́ ọ̀nà tí ó dára pátápátá láti parí."
+      },
+      {
+        "q": "Ṣé mo lè fi eré náà pamọ́ fún ìgbà tí ó kàn?",
+        "a": "Kì í ṣe nínú ẹ̀rọ aṣàwákiri, ní ìmọ̀ọ́mọ̀, kí a má baà pa ohun àṣírí mọ́. Àpù ọ̀fẹ́ Golden Moments fún iPhone àti iPad lè pa àwọn ẹ̀dà fọ́tò tí a yàn mọ́ sórí ẹ̀rọ yín."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bíńgò àwòrán",
+    "seoTitle": "Bíńgò Àwòrán fún Àgbàlagbà Tí Ó Ní Dementia: Tí A Lè Tẹ̀",
+    "h1": "Bíńgò Àwòrán fún Àwọn Ẹgbẹ́",
+    "description": "Bíńgò àwòrán lọ́fẹ̀ẹ́ tí a lè tẹ̀ fún àwọn ẹgbẹ́ ìtọ́jú àti àgbàlagbà, pẹ̀lú olùpè ńlá lórí ojú-ìbòjú. Àwọn àwòrán ńlá pẹ̀lú orúkọ, àpótí 9 tàbí 16.",
+    "short": "Àwọn káàdì bíńgò àwòrán tí a lè tẹ̀ àti olùpè ojú-ìbòjú ńlá fún àwọn ẹgbẹ́.",
+    "players": "Ẹgbẹ́ ènìyàn 2 sí 30",
+    "intro": "Bíńgò àtijọ́ pẹ̀lú àwọn àwòrán dípò iye, nítorí náà kò sí ẹni tí ó nílò láti ka ọ̀rọ̀ kékeré. Ẹ tẹ àkójọ káàdì tí kò jọra, lẹ́yìn náà ẹ lo olùpè ojú-ìbòjú láti fi àwòrán kọ̀ọ̀kan hàn ní ńlá lórí tẹlifíṣọ̀n, kọ̀ǹpútà alágbèéká tàbí tábìlẹ́ẹ̀tì.",
+    "howTo": [
+      "Ẹ yan àpótí 9 tàbí 16 lórí káàdì kọ̀ọ̀kan àti iye àwọn tí ń ṣeré.",
+      "Ẹ tẹ \"Tẹ àwọn káàdì\". Káàdì kọ̀ọ̀kan yàtọ̀.",
+      "Ẹ ṣí olùpè lórí ojú-ìbòjú ńlá. Ẹ tẹ \"Àwòrán tí ó kàn\" láti fi àwòrán kọ̀ọ̀kan hàn pẹ̀lú orúkọ rẹ̀.",
+      "Àwọn tí ń ṣeré ń bo àwòrán tí ó bára mu lórí káàdì wọn pẹ̀lú owó, bọ́tìnì tàbí aláàmì.",
+      "Gbogbo ẹni tí ó bá kún ìlà kan, tàbí gbogbo káàdì, gba ìyìn. Kò sí ẹni tí ó pàdánù nínú ẹ̀dà yìí: ẹ máa ṣeré títí gbogbo ènìyàn yóò fi ní ìlà kan."
+    ],
+    "tips": [
+      "Ẹ lo àwọn àmì ńlá bíi fìlà ìgò. Àwọn bọ́tìnì kékeré lè ṣòro láti gbé.",
+      "Ẹ dárúkọ àwòrán náà, kí ẹ sì sọ nǹkan kan nípa rẹ̀: \"Ọkọ̀ ojú omi. Ta ni ó ti ṣe ìrìn àjò lórí ọkọ̀?\"",
+      "Ẹ jókòó àwọn tí ó ní ìṣòro ríran ní ẹ̀gbẹ́ ojú-ìbòjú jù, kí ẹ sì so àwọn olùrànlọ́wọ́ pọ̀ mọ́ àwọn tí ń ṣeré tí wọ́n nílò wọn.",
+      "Àpótí mẹ́sàn-án pọ̀ tó fún ọ̀pọ̀ ẹgbẹ́. Ẹ jẹ́ kí ìpàdé jẹ́ ìṣẹ́jú 20 sí 30."
+    ],
+    "faq": [
+      {
+        "q": "Báwo ni mo ṣe lè ṣe bíńgò àwòrán ní ilé ìtọ́jú?",
+        "a": "Ẹ tẹ káàdì kan fún olùṣeré kọ̀ọ̀kan, ẹ fi olùpè sórí ojú-ìbòjú tí ó tóbi jù tí ẹ ní, kí ẹ sì pe àwọn àwòrán díẹ̀díẹ̀, ní dárúkọ ọ̀kọ̀ọ̀kan. Ẹ ṣeré títí gbogbo ènìyàn yóò fi ní ìlà kan, kí a má baà fi ẹnikẹ́ni sílẹ̀."
+      },
+      {
+        "q": "Ṣé ọ̀fẹ́ ni láti tẹ̀?",
+        "a": "Bẹ́ẹ̀ ni. Ẹ tẹ àwọn káàdì tí ẹ nílò, nígbà tí ẹ bá fẹ́, fún lílò ti ara ẹni tàbí ti ẹgbẹ́."
+      },
+      {
+        "q": "Ṣé àwọn ènìyàn lè ṣeré láì kàwé?",
+        "a": "Bẹ́ẹ̀ ni. Àpótí kọ̀ọ̀kan jẹ́ àwòrán ńlá, pẹ̀lú orúkọ rẹ̀ nísàlẹ̀ fún àwọn tí ó fẹ́ràn ọ̀rọ̀."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Ìdúró mímí parọ́rọ́",
+    "seoTitle": "Ìdúró Mímí Parọ́rọ́ fún Àgbàlagbà àti Àwọn Olùtọ́jú",
+    "h1": "Ìdúró Mímí Parọ́rọ́",
+    "description": "Ìdúró mímí díẹ̀díẹ̀, parọ́rọ́ láti pín: àyíká jẹ́ẹ́jẹ́ẹ́ ń tóbi, ó sì ń kéré fún ìmí mẹ́fà. Ẹ ni ó bẹ̀rẹ̀ rẹ̀, ẹ sì lè dúró nígbàkúùgbà.",
+    "short": "Àyíká díẹ̀díẹ̀ láti jọ mí pẹ̀lú rẹ̀. Ẹ bẹ̀rẹ̀ kí ẹ sì dúró nígbà tí ẹ bá fẹ́.",
+    "players": "Ènìyàn 1 tàbí 2",
+    "intro": "Nígbà míràn ìgbòkègbodò tí ó dára jù jẹ́ ìdúró parọ́rọ́. Ẹ tẹ \"Bẹ̀rẹ̀\", lẹ́yìn náà ẹ mí sínú bí àyíká ṣe ń tóbi, kí ẹ sì mí jáde bí ó ṣe ń kéré. Ẹ yan ìyára tí ó rọ̀ tàbí tí ó yára. Kì í ṣe ìtọ́jú, àkókò àlàáfíà ni láti pín.",
+    "howTo": [
+      "Ẹ jókòó ní ìtùnú ní ẹ̀gbẹ́ ara yín.",
+      "Ẹ yan ìyára: díẹ̀díẹ̀ tàbí jẹ́ẹ́jẹ́ẹ́.",
+      "Ẹ tẹ \"Bẹ̀rẹ̀\". Ẹ mí sínú nígbà tí àyíká ń tóbi, kí ẹ sì mí jáde nígbà tí ó ń kéré.",
+      "Ó ń dúró fúnra rẹ̀ lẹ́yìn ìmí mẹ́fà, tàbí ẹ tẹ \"Dúró\" nígbàkúùgbà tí ẹ bá fẹ́."
+    ],
+    "tips": [
+      "Ẹ di ọwọ́ mú tàbí ẹ gbé ọwọ́ lé apá ẹni náà bí ó bá dára fún wọn.",
+      "Ẹ má fipá mú wọn láéláé. Bí wọ́n bá fẹ́ wò, kò burú.",
+      "Bí ẹnìkan bá ní ìṣòro mímí, ẹ mí bí ó ṣe wà, kí ẹ sì kàn wo àyíká náà. Ẹ béèrè lọ́wọ́ dókítà nípa àníyàn mímí kankan."
+    ],
+    "faq": [
+      {
+        "q": "Ṣé eré ìdárayá mímí ìṣègùn ni èyí?",
+        "a": "Rárá. Ìdúró rírọrùn, tí kò pọn dandan ni fún àlàáfíà àti ẹgbẹ́. Kì í ṣe ìtọ́jú fún àníyàn tàbí àìsàn kankan. Ẹ bá dókítà sọ̀rọ̀ nípa àwọn àníyàn ìlera."
+      },
+      {
+        "q": "Ṣé àyíká náà ń lọ láì mo bẹ̀rẹ̀ rẹ̀?",
+        "a": "Rárá. Kò sí ohun tí ó ń lọ títí ẹ ó fi tẹ Bẹ̀rẹ̀, ó sì ń dúró lẹ́yìn ìmí mẹ́fà tàbí nígbà tí ẹ bá tẹ Dúró. Bí a bá ṣètò ẹ̀rọ yín láti dín ìmúrìn kù, àwọn ọ̀rọ̀ ń yí padà láì jẹ́ kí àyíká náà tóbi."
+      },
+      {
+        "q": "Ṣé ọ̀fẹ́ ni, ṣé mo sì nílò láti forúkọ sílẹ̀?",
+        "a": "Bẹ́ẹ̀ ni, ọ̀fẹ́ ni, kò sì sí àkọọ́lẹ̀, ìforúkọsílẹ̀ tàbí gbígbà sílẹ̀. Ó ń ṣiṣẹ́ nínú ẹ̀rọ aṣàwákiri lórí fóònù, tábìlẹ́ẹ̀tì tàbí kọ̀ǹpútà."
+      }
+    ]
+  }
+}
