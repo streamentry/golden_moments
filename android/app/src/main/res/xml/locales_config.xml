@@ -50,4 +50,7 @@
     <locale android:name="zu" />
     <locale android:name="so" />
     <locale android:name="om" />
+    <locale android:name="jv" />
+    <locale android:name="su" />
+    <locale android:name="sd" />
 </locale-config>

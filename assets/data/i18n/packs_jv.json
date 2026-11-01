@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Kewan",
+      "description": "Kewan-kewan ingkang lucu lan grapyak saking sakubengipun jagad"
+    },
+    "nature": {
+      "name": "Alam",
+      "description": "Pemandangan lan swasana alam ingkang endah"
+    },
+    "food": {
+      "name": "Panganan",
+      "description": "Dhaharan lan jajanan ingkang eca"
+    },
+    "vintage": {
+      "name": "Mobil",
+      "description": "Mobil lan truk kangge dipunmirsani lan dipunrembag"
+    },
+    "flowers": {
+      "name": "Kembang",
+      "description": "Kembang-kembang ingkang endah lan swasana taman"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Kewan Ternak",
+      "description": "Kewan ternak ingkang grapyak, kados nalika dolan dhateng padesan.",
+      "theme": "Gesang ing Padesan",
+      "images": {
+        "cow_1": "Sapi ingkang grapyak",
+        "pig_1": "Babi ingkang bungah",
+        "chicken_1": "Pitik jago",
+        "buffalo_1": "Kebo",
+        "horse_1": "Jaran ingkang endah",
+        "duck_1": "Kulawarga bebek",
+        "goat_1": "Wedhus ingkang kepengin ngertos",
+        "rabbit_1": "Terwelu ingkang lucu"
+      }
+    },
+    "nature_mountains": {
+      "title": "Pemandangan Gunung",
+      "description": "Pemandangan gunung ingkang nggumunaken lan panorama ingkang endah",
+      "theme": "Kaendahan Alam",
+      "images": {
+        "mountain_1": "Pucuk gunung ingkang kebak salju",
+        "mountain_2": "Gunung Fuji",
+        "mountain_3": "Lebak pagunungan Alpen",
+        "mountain_4": "Pucuk gunung watu",
+        "mountain_5": "Bukit alas",
+        "mountain_6": "Gunung ingkang kebak pedhut"
+      }
+    },
+    "vintage_cars": {
+      "title": "Mobil lan Truk",
+      "description": "Mobil lan truk ingkang mencorong kangge dipunmirsani lan dipunrembag",
+      "theme": "Wonten Dalan",
+      "images": {
+        "vintage_car_1": "Audi oranye nalika surup",
+        "vintage_car_2": "Mobil sport biru ing ara-ara samun",
+        "vintage_car_3": "Bugatti salaka",
+        "vintage_car_4": "Porsche cemeng ing dalan",
+        "vintage_car_5": "BMW oranye ing dalan ingkang pinggiripun wit palem",
+        "vintage_car_6": "Mobil coupe biru caket garasi",
+        "vintage_car_7": "Truk pickup ijem",
+        "vintage_car_8": "SUV putih ing antawisipun watu abrit",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Mobil biru kaliyan garis putih"
+      }
+    },
+    "animals_safari": {
+      "title": "Kewan Safari",
+      "description": "Kewan-kewan ingkang agung saking safari Afrika",
+      "theme": "Kewan Alas",
+      "images": {
+        "lion_1": "Singa ingkang agung",
+        "elephant_2": "Gajah Afrika",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Zebra lurik",
+        "rhino_5": "Badhak ingkang kiyat",
+        "cheetah_6": "Cheetah ingkang cepet",
+        "fox_7": "Rase coklat",
+        "bear_8": "Bruwang kutub",
+        "turtle_9": "Kura-kura coklat",
+        "squirrel_10": "Bajing coklat",
+        "macaw_11": "Macaw kuning lan biru",
+        "tiger_12": "Macan",
+        "raccoon_13": "Rakun",
+        "wolf_14": "Serigala abu-abu",
+        "crocodile_15": "Baya",
+        "peacock_16": "Merak ingkang endah"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Jajanan Manis ingkang Eca",
+      "description": "Sawetawis jajanan manis ingkang eca kangge dhahar panjenengan.",
+      "theme": "Jajanan manis",
+      "images": {
+        "pastries_1": "Pastry sekawan",
+        "oreo_cookie_sandwiches_2": "Biskuit sandwich Oreo",
+        "crepe_3": "Crepe",
+        "pancake_4": "Pancake",
+        "macarons_5": "Macaron",
+        "caramel_cake_6": "Kue karamel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Kembang Tropis",
+      "description": "Mirsani kaendahan tropis ingkang cemlorot kanthi paket kembang eksotis menika.",
+      "theme": "Kembang Tropis",
+      "images": {
+        "hibiscus_1": "Kembang sepatu abrit",
+        "frangipani_2": "Kamboja abrit putih",
+        "sunflower_3": "Kembang srengéngé",
+        "hydrangea_4": "Hortensia putih",
+        "rose_5": "Mawar",
+        "chrysanthemum_6": "Krisan",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Panganan Pinggir Dalan",
+      "description": "Mirsani donya panganan pinggir dalan ingkang warni-warni kanthi paket jajanan eca saking sakubengipun jagad.",
+      "theme": "Panganan Pinggir Dalan",
+      "images": {
+        "taco_1": "Taco Meksiko",
+        "ramen_2": "Ramen Jepang",
+        "dumplings_3": "Pangsit Cina",
+        "samosa_4": "Samosa India",
+        "pizza_5": "Sapotong pizza Italia",
+        "crepe_6": "Crepe Prancis",
+        "satay_7": "Sate Thailand",
+        "burger_8": "Burger Amerika",
+        "bao_9": "Bakpao kukus",
+        "takoyaki_10": "Takoyaki Jepang"
+      }
+    },
+    "nature_landscape": {
+      "title": "Pemandangan Alam",
+      "description": "Swasana alam ingkang tentrem lan endah, kangge dipunmirsani alon-alon lan dipunrembag sesarengan.",
+      "theme": "Pemandangan Alam",
+      "images": {
+        "mountain_1": "Rangkaian pagunungan",
+        "forest_2": "Alas ingkang kebak pedhut",
+        "lake_3": "Tlaga ing gunung",
+        "desert_4": "Gumuk pasir ing ara-ara samun",
+        "waterfall_5": "Grojogan",
+        "beach_6": "Pantai pasir",
+        "river_7": "Lepen ingkang mili",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Langit nalika surup",
+        "snow_mountain_10": "Gunung salju",
+        "flowers_11": "Kembang alas",
+        "rainforest_12": "Alas udan tropis",
+        "iceberg_13": "Gunung es",
+        "volcano_14": "Gunung geni",
+        "cliff_15": "Tebing pinggir segara",
+        "aurora_16": "Aurora borealis",
+        "savannah_17": "Sabana",
+        "coral_reef_18": "Terumbu karang"
+      }
+    }
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
+  "common": {
+    "skipLink": "Langsung dhateng isi utama",
+    "brandName": "Golden Moments",
+    "brandTag": "Kegiatan kangge demensia",
+    "homeLabel": "Kaca utama Golden Moments",
+    "mainNav": "Utama",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: gambar ageng ingkang grapyak saking cangkir teh, kembang srengéngé, lan asu",
+    "languages": "Basa",
+    "englishOnly": "(Inggris)",
+    "machineTranslated": "Kaca menika dipuntegesaken kanthi otomatis lan dereng dipunpriksa dening tiyang ingkang pitados basa Jawi.",
+    "readOriginal": "Waosen aslinipun ing basa Inggris",
+    "nav": {
+      "games": "Dolanan",
+      "activities": "Kegiatan",
+      "caregiving": "Ngrawat",
+      "brainHealth": "Kasarasan otak"
+    },
+    "faqTitle": "Pitakenan lan wangsulan",
+    "breadcrumb": "Jejak kaca",
+    "home": "Utama",
+    "lastUpdated": "Pungkasan dipunénggalaken",
+    "topics": "Topik"
+  },
+  "footer": {
+    "play": "Dolanan",
+    "picturePairs": "Pasangan gambar",
+    "conversationCards": "Kertu rembagan",
+    "pictureBingo": "Bingo gambar",
+    "allGames": "Sedaya dolanan",
+    "activityIdeas": "Gagasan kegiatan",
+    "ideas101": "101 gagasan kegiatan",
+    "lateStage": "Kegiatan tahap lanjut",
+    "printable": "Kegiatan ingkang saged dipuncithak",
+    "allActivities": "Sedaya kegiatan",
+    "forCaregivers": "Kangge ingkang ngrawat",
+    "playTogether": "Cara dolanan sesarengan",
+    "selfCare": "Ngrawat badan panjenengan piyambak",
+    "brainHealth": "Panaliten kasarasan otak",
+    "faq": "Pitakenan lan wangsulan",
+    "about": "Bab kawula",
+    "approach": "Pamawas kawula",
+    "howWeWrite": "Cara kawula nyerat",
+    "organizations": "Kangge lembaga",
+    "app": "Aplikasi Golden Moments",
+    "appHelp": "Pitulungan aplikasi",
+    "support": "Dhukungan",
+    "legal": "Hukum",
+    "sitePrivacy": "Privasi situs",
+    "appPrivacy": "Kabijakan privasi aplikasi",
+    "privacyChoices": "Pilihan privasi",
+    "terms": "Katemtuan lan lisensi aplikasi",
+    "safety": "Kaslametan lan tujuan panggunaan",
+    "accessibility": "Aksesibilitas",
+    "healthNotice": "Pawartos informasi kasarasan",
+    "allLegal": "Sedaya informasi hukum",
+    "note": "Golden Moments nyadhiyakaken kegiatan sesarengan ingkang prasaja kangge kasenengan. Menika sanes pamrayogi medis, tes, utawi pengobatan, lan boten ndiagnosis, ngukur, utawi maringi skor dhateng sinten kemawon. Kangge pitakenan bab kasarasan, rembagan kaliyan dokter. Manawi darurat, telpun nomer darurat ing wewengkon panjenengan.",
+    "publisher": "Katerbitaken dening Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Dolanan lan Kegiatan Demensia & Alzheimer | Golden Moments",
+    "description": "Dolanan gambar alus lan gratis online, saha gagasan kegiatan kangge tiyang ingkang gesang kaliyan demensia utawi Alzheimer. Tanpa daftar utawi skor.",
+    "eyebrow": "Gratis · Tanpa iklan · Tanpa daftar · Tanpa pangetung wekdal utawi skor",
+    "h1": "Dolanan lan Kegiatan Alus kangge Tiyang ingkang Gesang kaliyan Demensia",
+    "lede": "Dolanan gambar ingkang prasaja, foto ingkang sampun akrab, lan kegiatan ingkang dipunrenggani sesarengan, miturut kecepatan panjenengan piyambak.",
+    "playGame": "Dolanan",
+    "findIdeas": "Madosi gagasan kegiatan",
+    "facts": [
+      "Saged dipunginakaken wonten telepon, tablet, lan komputer",
+      "Gambar ageng ingkang tetep katingal",
+      "Saged mandheg kapan kemawon; boten wonten ingkang saged lepat"
+    ],
+    "heroApp": "Ugi aplikasi gratis kangge iPhone, iPad, lan Android, kaliyan foto kulawarga panjenengan piyambak",
+    "albumNote": "“Kalih gambar cangkir teh, sesarengan.”",
+    "gamesEyebrow": "Dolanan wonten browser panjenengan",
+    "gamesTitle": "Dolanan ingkang saged dipundolanani sapunika",
+    "gamesLede": "Saben dolanan tentrem, kangge tiyang diwasa, lan gampil dipunwiwiti. Pilih satunggal, lenggah sesandhingan, lan gentosan mencet.",
+    "seeAllGames": "Mirsani sedaya {count} dolanan",
+    "howTitle": "Cara kerjanipun",
+    "steps": [
+      {
+        "title": "Pilih ingkang sampun akrab",
+        "text": "Gambar cangkir teh, taman, kewan kesayangan, lan prahu layar. Boten kedah maos utawi sinau aturan rumiyin."
+      },
+      {
+        "title": "Lenggah sesandhingan",
+        "text": "Mangga piyambakipun ingkang mencet. Rembagan bab gambar-gambaripun. Gambar ingkang boten sami namung ngentosi pencetan candhakipun."
+      },
+      {
+        "title": "Mandheg nalika taksih raos sekeca",
+        "text": "Setunggal dolanan sampun cekap dados setunggal kegiatan. “Cekap rumiyin” tansah wonten ing layar."
+      }
+    ],
+    "stageEyebrow": "Wonten sanjawining layar",
+    "stageTitle": "Gagasan kegiatan kangge saben tahap",
+    "stageLede": "Musik, pakaryan padinten, nyariyosaken kenangan, lan wekdal alus kangge raos, dipunsesuaiaken kaliyan ingkang raosipun sekeca sapunika.",
+    "ideas101": "101 gagasan kegiatan",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Tahap awal",
+        "text": "Tetep nglampahi ingkang dipunremeni, kanthi panyesuaian alit: hobi, tindak-tindak, dolanan tembung, lan ngrencanakaken sesarengan.",
+        "label": "Gagasan tahap awal"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Tahap tengah",
+        "text": "Pakaryan prasaja ingkang sampun akrab, dipunpérang dados langkah: nlipet, milah-milah, musik, dolanan gambar, lan mlampah cekak.",
+        "label": "Gagasan tahap tengah"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Tahap lajeng",
+        "text": "Raos sekeca lan sesambetan lumantar pangrasa, swanten, lan pandulu: ngrawat tangan, lagu kesenengan, foto, lan sesarengan.",
+        "label": "Gagasan tahap lajeng"
+      }
+    ],
+    "specificHtml": "Madosi ingkang langkung mligi? Cobi <a href=\"/activities/alzheimers/\">kegiatan lan dolanan kangge Alzheimer</a>, <a href=\"/activities/memory-games/\">dolanan kenangan ingkang alus</a>, <a href=\"/activities/trivia/\">pitakenan gampil</a>, utawi <a href=\"/activities/puzzles/\">teka-teki</a>.",
+    "approachEyebrow": "Pamawas kawula",
+    "approachTitle": "Kegiatan sesarengan, sanes tes kenangan",
+    "approachLede": "Kathah “dolanan otak” dipundamel ngubengi kacepetan, skor, lan urut-urutan menang. Kangge tiyang ingkang gesang kaliyan demensia, menika saged karaos kados ujian. Kawula damel ingkang kosok wangsulipun.",
+    "approachLink": "Kenging punapa kawula damel makaten",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Boten wonten ingkang saged lepat",
+        "text": "Boten wonten jam, skor, nyawa, utawi kalah. Gambar ingkang benten namung dados ngaso, sanes kalepatan."
+      },
+      {
+        "icon": "eye",
+        "title": "Gambar tetep katingal",
+        "text": "Ngenali, sanes ngelingi. Nyocogaken dipunwiwiti kanthi gambar katingal, dados boten wonten ingkang kedah dipunenget."
+      },
+      {
+        "icon": "people",
+        "title": "Kangge tiyang diwasa lan kinurmatan",
+        "text": "Tembung ingkang kanthi hangat lan prasaja, lan gambar saking jagad nyata. Boten nate gambar kartun utawi wicantenan kados lare."
+      },
+      {
+        "icon": "shield",
+        "title": "Pribadi kanthi rancangan",
+        "text": "Boten wonten akun utawi iklan. Foto panjenengan boten nate medal saking piranti panjenengan."
+      }
+    ],
+    "guidesEyebrow": "Kangge ingkang ngrawat",
+    "guidesTitle": "Pandhuan praktis kangge ngrawat saben dinten",
+    "allCaregiving": "Sedaya pandhuan ngrawat",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Cara dolanan sesarengan",
+        "text": "Cara nata, kecepatan, lan punapa ingkang kedah dipuntindakaken manawi dolanan sampun boten nyenengaken."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Manawi piyambakipun boten purun",
+        "text": "Sabab-sabab ingkang limrah piyambakipun nolak, lan cara alus kangge nyobi malih mangké."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Nyiyapaken tablet",
+        "text": "Tulisan langkung ageng, kirang gangguan, lan satunggal layar utama ingkang prasaja."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Kegiatan gratis ingkang saged dipuncithak",
+        "text": "Teka-teki tembung cithakan ageng, kaca mewarnai, bingo, lan kertu rembagan."
+      }
+    ],
+    "researchTitle": "Kasarasan otak: punapa ingkang dipunandharaken panaliten",
+    "researchText": "Punapa demensia saged dipuncegah? Punapa dolanan otak migunani? Kados pundi puasa, dhaharan, tilem, lan pangrungu? Wangsulan ingkang prasaja lan wonten sumberipun, kalebet manawi buktinipun lemah.",
+    "researchLink": "Waosen pandhuan panaliten",
+    "appEyebrow": "Ugi aplikasi",
+    "appTitle": "Golden Moments wonten iPhone, iPad, lan Android",
+    "appText": "Aplikasi gratis menika saged dipunginakaken tanpa internet lan saged ngginakaken foto kulawarga ingkang panjenengan pilih, kasimpen minangka salinan wonten piranti panjenengan. Rancangan alus ingkang sami: kothak ageng sekawan, tanpa pangetung wekdal, tanpa skor.",
+    "aboutApp": "Bab aplikasi",
+    "faq": [
+      {
+        "q": "Dolanan punapa ingkang sae kangge tiyang ingkang gesang kaliyan demensia?",
+        "a": "Dolanan ingkang sae menika prasaja, sampun akrab, lan tanpa tekanan: gambar ageng kangge dipuncocogaken, milah-milah, teka-teki gambar ingkang gampil, nglengkapi paribasan ingkang kondhang, mewarnai, bingo gambar, lan kertu rembagan. Pilihan ingkang paling sae inggih menika ingkang dipunremeni tiyangipun dinten menika. Singkiri pangetung wekdal, skor, lan punapa kemawon ingkang karaos kados tes."
+      },
+      {
+        "q": "Punapa dolanan demensia menika gratis?",
+        "a": "Inggih. Saben dolanan lan cithakan wonten Golden Moments gratis, tanpa akun, daftar, utawi unduhan. Dolanan menika mlampah wonten browser web ing telepon, tablet, utawi komputer."
+      },
+      {
+        "q": "Punapa dolanan otak nyegah demensia?",
+        "a": "Boten wonten dolanan ingkang sampun dipunbuktèkaken nyegah demensia, lan Golden Moments boten ngaku ngobati utawi nyegah punapa kemawon. Dolanan kawula kangge kasenengan lan wekdal sesarengan. Bagian kasarasan otak kawula njelasaken punapa ingkang dipuntedahaken lan boten dipuntedahaken dening panaliten."
+      },
+      {
+        "q": "Punapa dolanan menika cocog kangge tiyang ingkang gadhah Alzheimer?",
+        "a": "Inggih. Penyakit Alzheimer menika sabab demensia ingkang paling limrah, lan dolanan menika dipundamel kangge menika: gambar ageng ingkang tetep katingal, pilihan sekedhik, lan boten wonten ingkang kedah dipunenget utawi dipunlepataken. Nyocogaken, milah-milah, lan nglengkapi paribasan ingkang akrab ngandelaken pangertosan ingkang sampun dangu, sanes sinau ingkang énggal."
+      },
+      {
+        "q": "Punapa tiyang ingkang demensia tahap lajeng saged ngginakaken kegiatan menika?",
+        "a": "Asring saged, kanthi wonten tiyang ingkang nyarengi. Wiwiti kaliyan Madosi ingkang sami kanthi kalih gambar, Pasangan gambar kanthi kothak sekawan, kaca mewarnai, utawi ngaso kanthi napas ingkang tentrem. Cekak kemawon, tumut kersanipun, lan mandheg manawi sampun cekap."
+      },
+      {
+        "q": "Punapa informasi kula pribadi?",
+        "a": "Situs menika boten gadhah akun lan boten gadhah iklan. Kawula ngginakaken Google Analytics supados mangertos kaca pundi ingkang dipunbikak. Foto ingkang panjenengan pilih kangge Pasangan foto namung katingal wonten browser panjenengan lan boten nate dipununggah."
+      },
+      {
+        "q": "Sinten ingkang damel Golden Moments?",
+        "a": "Golden Moments menika tim alit ingkang damel kegiatan gambar ingkang tentrem kangge tiyang diwasa, kangge kulawarga lan ingkang ngrawat, wonten web lan minangka aplikasi gratis. Kawula sanes tenaga medis, lan boten wonten ing mriki ingkang dados pamrayogi medis."
+      }
+    ]
+  },
+  "stage": {
+    "early": "awal",
+    "middle": "tengah",
+    "late": "lajeng",
+    "hintOne": "Asring cocog kangge tahap {list}",
+    "hintMany": "Asring cocog kangge tahap {list}",
+    "labelEarly": "Tahap awal",
+    "labelMiddle": "Tahap tengah",
+    "labelLate": "Tahap lajeng"
+  },
+  "cards": {
+    "aboutGame": "Bab dolanan menika",
+    "printable": "Saged dipuncithak",
+    "play": "Dolanan {name} →",
+    "readGuide": "Waosen pandhuanipun"
+  },
+  "playCta": {
+    "title": "Siyap kangge dolanan alus?",
+    "text": "Gambar ageng, tanpa pangetung wekdal, tanpa skor, lan boten kedah daftar. Dolanan sesarengan wonten browser panjenengan.",
+    "play": "Dolanan",
+    "all": "Mirsani sedaya dolanan",
+    "aria": "Dolanan"
+  },
+  "appCta": {
+    "title": "Beta dolanan menika dhateng pundi kemawon",
+    "text": "Aplikasi Golden Moments ingkang gratis kangge iPhone, iPad, lan Android: kothak gambar ageng, dolanan kaliyan foto kulawarga panjenengan piyambak, lan paket gambar ingkang saged dipunginakaken tanpa Wi‑Fi. Tanpa akun, iklan, pangetung wekdal, utawi skor.",
+    "appStore": "Undhuh wonten App Store",
+    "googlePlay": "Undhuh wonten Google Play",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Bab aplikasi",
+    "aria": "Undhuh aplikasi"
+  },
+  "sections": {
+    "activities": {
+      "label": "Kegiatan",
+      "title": "Kegiatan kangge Tiyang ingkang Gesang kaliyan Demensia",
+      "seo": "Kegiatan kangge Demensia: Gagasan miturut Tahap",
+      "description": "Gagasan kegiatan kangge tiyang ingkang gesang kaliyan demensia ing saben tahap: musik, kenangan, pakaryan padinten, pangrasa, kriya, lan cithakan gratis.",
+      "lede": "Kegiatan ingkang migunani inggih menika punapa kemawon ingkang maringi raos sekeca, tujuan, utawi sesambetan sakedhap. Wiwiti saking ingkang tansah dipunremeni tiyangipun, lajeng sesuaiaken kaliyan dinten menika."
+    },
+    "caregiving": {
+      "label": "Ngrawat",
+      "title": "Pandhuan Ngrawat",
+      "seo": "Pandhuan Ngrawat Demensia: Pitulungan Praktis Saben Dinten",
+      "description": "Pandhuan praktis kangge ingkang ngrawat tiyang demensia: dolanan sesarengan, rembagan, manawi boten purun, gelisah ing sonten, lan ngrawat badan piyambak.",
+      "lede": "Pitulungan prasaja lan praktis kangge wekdal-wekdal padinten nalika ngrawat tiyang ingkang gesang kaliyan demensia, kalebet ngrawat badan panjenengan piyambak."
+    },
+    "brain-health": {
+      "label": "Kasarasan otak",
+      "title": "Kasarasan Otak: Punapa ingkang Dipunandharaken Panaliten",
+      "seo": "Kasarasan Otak lan Resiko Demensia: Wonten Panaliten",
+      "description": "Punapa demensia saged dipuncegah? Pandhuan jujur lan wonten sumberipun bab resiko demensia, dolanan otak, puasa, dhaharan, tilem, lan pangrungu.",
+      "lede": "Punapa ingkang dipuntedahaken panaliten ageng bab nyuda resiko demensia, dipunandharaken kanthi prasaja, kalebet manawi buktinipun lemah utawi campur. Informasi umum, sanes pamrayogi medis."
+    }
+  },
+  "guide": {
+    "updated": "Dipunénggalaken",
+    "minuteRead": "Waosan {n} menit",
+    "byTeam": "Dening tim Golden Moments",
+    "howWeWrite": "Cara kawula nyerat",
+    "shortAnswer": "Wangsulan cekakipun",
+    "onThisPage": "Wonten kaca menika ({n} bagian)",
+    "commonQuestions": "Pitakenan ingkang limrah",
+    "sources": "Sumber",
+    "sourcesNote": "Kawula nyambungaken dhateng lembaga lan panaliten ingkang dipunginakaken kaca menika. Saben-saben sampun dipunpriksa nalika kaca menika dipunénggalaken.",
+    "tryTogether": "Cobi sesarengan",
+    "relatedGuides": "Pandhuan ingkang magepokan",
+    "related": "Ingkang magepokan",
+    "startHere": "Wiwiti saking mriki"
+  },
+  "healthNotice": {
+    "aria": "Pawartos informasi kasarasan",
+    "title": "Informasi umum, sanes pamrayogi medis",
+    "textHtml": "Kaca menika ngringkes panaliten ingkang sampun katerbitaken kangge kulawarga. Menika boten saged nyariyosaken punapa ingkang leres kangge satunggal tiyang. Rembagan rumiyin kaliyan dokter sakderengipun ngewahi dhaharan, olahraga, tilem, obat, utawi suplemen. Manawi wonten bingung dumadakan utawi owah-owahan dumadakan sanesipun, sageda mundhut pitulungan medis sanalika. <a href=\"/medical-disclaimer/\">Waosen pawartos informasi kasarasan kawula</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Kegiatan Sesarengan, Sanes Tes Kenangan",
+      "seoTitle": "Bab Golden Moments: Pamawas Kawula",
+      "description": "Kenging punapa dolanan Golden Moments boten gadhah pangetung wekdal lan skor, lan punapa ingkang kawula aku utawi boten bab demensia.",
+      "crumb": "Pamawas kawula",
+      "lede": "Golden Moments damel kegiatan gambar ingkang tentrem kangge tiyang diwasa, ingkang saged dipunremeni sesandhingan dening ingkang ngrawat lan tiyang ingkang gesang kaliyan demensia.",
+      "bodyHtml": "<h2>Punapa ingkang kawula pitados</h2><p>Gunanipun kegiatan inggih menika wekdal punika piyambak: rembagan, esem, raos marem nalika nyocogaken kalih gambar, utawi namung lenggah celak. Sanes kangge ngukur sinten kemawon, ndhorong langkung tebih, utawi mbuktèkaken punapa-punapa.</p><p>Kathah aplikasi latihan otak dipundamel ngubengi kacepetan, skor, urut-urutan menang, lan tingkat. Kangge tiyang ingkang gesang kaliyan demensia, menika saged karaos kados ujian ingkang boten saged dipunlampahi. Kawula damel ingkang kosok wangsulipun, lan kawula nyepeng aturan menika:</p><ul><li><strong>Boten wonten ingkang saged lepat.</strong> Boten wonten jam, skor, petung lampah, nyawa, urut-urutan menang, konfeti, utawi petung mundur, ing layar menapa kemawon.</li><li><strong>Ngenali, sanes ngelingi.</strong> Gambar tetep katingal kanthi baku. Ajakan ngajak rembagan lan boten nate nakokaken asma utawi kenangan.</li><li><strong>Ageng, prasaja, lan tetep.</strong> Tulisan lan gambar ageng, kontras inggil, lan tombol ingkang tansah wonten ing panggenan ingkang sami.</li><li><strong>Kamulyan tiyang diwasa.</strong> Gambar saking jagad nyata lan tembung ingkang prasaja lan hangat. Boten wonten kartun, pujian kanthi nada kados dhateng lare, utawi ganjaran emoji.</li><li><strong>Dalan metu ingkang gampil.</strong> “Cekap rumiyin” tansah katingal. Mandheg ing tengah menika asil ingkang sae.</li><li><strong>Pribadi kanthi baku.</strong> Boten wonten akun utawi iklan. Foto ingkang panjenengan pilih tetep wonten piranti panjenengan.</li></ul><h2>Punapa ingkang boten kawula aku</h2><p>Dolanan kawula kangge kasenengan lan sesambetan. Menika boten ndiagnosis, nglampahi tes, ngukur, ngobati, nglambataken, utawi nyegah demensia utawi penyakit Alzheimer, lan boten wonten ingkang kedah milih menika amargi sabab menika. Nalika kawula nyerat bab panaliten wonten <a href=\"/brain-health/\">kaca kasarasan otak</a> kawula, kawula nyariyosaken kanthi terang manawi buktinipun lemah, lan kawula boten nate nyambungaken kaliyan dolanan kawula piyambak.</p><h2>Sinten kawula</h2><p>Golden Moments menika tim alit ingkang mandiri. Kawula sanes tenaga medis. Pandhuan kawula dipunserat saking pandhuan ingkang sampun katerbitaken dening lembaga kadosta National Institute on Aging lan Alzheimer’s Association, lan saben pandhuan nyebataken sumberipun. Waosen <a href=\"/editorial-policy/\">cara kawula nyerat lan mriksa kaca-kaca kawula</a>.</p><h2>Wartosaken punapa ingkang badhe mbiyantu</h2><p>Kawula remen mireng punapa ingkang saged lan boten saged kangge panjenengan, mliginipun saking tiyang ingkang gesang kaliyan demensia, kulawarga ingkang ngrawat, lan petugas kegiatan. Kirim email dhateng <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Cara Kawula Nyerat lan Mriksa Kaca-kaca",
+      "seoTitle": "Kabijakan Editorial",
+      "description": "Cara Golden Moments nliti, nyerat, nyebataken sumber, lan ngénggalaken kaca kegiatan demensia lan kasarasan otak, lan ingkang boten kawula terbitaken.",
+      "crumb": "Kabijakan editorial",
+      "bodyHtml": "<h2>Sumber kawula</h2><p>Kawula ngedhasaraken pandhuan kawula wonten pandhuan umum saking lembaga kadosta National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance, lan NHS, lan wonten panaliten ingkang dipunpriksa para ahli kadosta tinjauan Cochrane lan uji klinis ageng. Saben pandhuan nyebataken sumber ingkang dipunginakaken. Kawula mbikak saben sumber sakderengipun ngutip, lan kawula namung nglaporaken punapa ingkang leres-leres dipunserat.</p><h2>Cara kawula nyerat</h2><ul><li>Praktis rumiyin: punapa ingkang kedah dipuntindakaken dinten menika, kanthi basa ingkang prasaja.</li><li>Jujur bab bukti: kawula ngginakaken “magepokan kaliyan”, “saged”, lan “buktinipun campur” manawi menika ingkang leres.</li><li>Ngajeni: kawula nyerat bab tiyang ingkang gesang kaliyan demensia minangka tiyang diwasa, lan boten nate ngginakaken tembung ingkang nakokaken utawi ngawonaken.</li><li>Boten wonten isi karangan: boten wonten statistik, kutipan, ahli, panaliten, ulasan, utawi paseksen ingkang dipundamel-damel.</li></ul><h2>Sinten ingkang mriksa kaca kawula</h2><p>Kaca-kaca dipunserat lan dipunpriksa dening tim Golden Moments, kanthi bantuan piranti panyerat AI kangge nliti lan nyusun konsep. Saben kaca dipunpriksa dening tim kaliyan sumberipun. Kaca kawula <strong>dereng</strong> dipuntinjau dening dokter utawi tenaga medis sanes, lan kawula boten ngaku sanesipun. Menika informasi umum, sanes pamrayogi medis.</p><h2>Punapa ingkang boten nate kawula terbitaken</h2><ul><li>Pratelan manawi dolanan, dhaharan, suplemen, puasa, utawi kebiasaan nyegah, ngobati, nglambataken, utawi nyarasaken demensia.</li><li>Tes, kuis, utawi skor ingkang nedahaken manawi wonten tiyang ingkang gadhah, utawi boten gadhah, demensia.</li><li>Pamrayogi kangge miwiti, mandhegaken, utawi ngewahi obat menapa kemawon.</li><li>Iklan utawi isi sponsor ingkang dipunsamarakaken minangka pandhuan.</li></ul><h2>Pangénggalan lan koreksi</h2><p>Saben kaca nedahaken tanggal pungkasan dipunénggalaken. Manawi panjenengan manggihaken kalepatan utawi sumber ingkang sampun lawas, mangga kirim email dhateng <a href=\"mailto:{email}\">{email}</a> lan kawula badhe mriksa kanthi énggal.</p>"
+    },
+    "faq": {
+      "title": "Pitakenan lan Wangsulan",
+      "seoTitle": "Dolanan lan Kegiatan Demensia: Pitakenan lan Wangsulan",
+      "description": "Wangsulan kangge pitakenan limrah bab dolanan lan kegiatan demensia: dolanan punapa, sepinten dangunipun, tahap lajeng, kasarasan otak, lan privasi.",
+      "crumb": "Pitakenan lan wangsulan",
+      "lede": "Wangsulan cekak lan prasaja kangge pitakenan ingkang paling kathah dipuntakenaken ingkang ngrawat.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Bab dolanan",
+          "items": [
+            {
+              "q": "Dolanan punapa ingkang paling sae kangge tiyang ingkang gadhah demensia?",
+              "a": "Dolanan ingkang paling sae menika ingkang sampun akrab, prasaja, lan tanpa tekanan, lan ingkang trep inggih menika punapa kemawon ingkang dipunremeni tiyangipun dinten menika. Nyocogaken gambar kanthi gambar katingal, milah-milah, teka-teki gampil, nglengkapi paribasan ingkang akrab, mewarnai, lan bingo gambar sedaya sae kangge kathah tiyang. Singkiri pangetung wekdal, skor, lan punapa kemawon ingkang karaos kados tes."
+            },
+            {
+              "q": "Punapa dolanan menika leres-leres gratis?",
+              "a": "Inggih. Sedaya dolanan lan cithakan gratis, tanpa akun, daftar, unduhan, utawi iklan."
+            },
+            {
+              "q": "Kenging punapa boten wonten skor, tingkat, utawi pangetung wekdal?",
+              "a": "Kacepetan lan skor ndadosaken kegiatan ingkang nyenengaken dados ujian, ingkang saged nuwuhaken isin utawi kuciwa. Kawula netepaken fokus wonten ing kasenengan lan wekdal sesarengan, dados boten wonten ingkang saged lepat lan panjenengan saged mandheg kapan kemawon."
+            },
+            {
+              "q": "Piranti pundi ingkang paling sae?",
+              "a": "Telepon, tablet, utawi komputer menapa kemawon ingkang gadhah browser web modern. Tablet wonten standhanipun ing meja asring dados cara ingkang paling sekeca kangge kalih tiyang dolanan sesandhingan. Laptop ingkang kasambung dhateng TV sae kangge kelompok."
+            },
+            {
+              "q": "Punapa kita saged dolanan nganggé foto kulawarga piyambak?",
+              "a": "Inggih. Pasangan foto ndadosaken 2 dumugi 6 foto ingkang panjenengan pilih dados dolanan nyocogaken. Foto-foto menika tetep wonten browser panjenengan lan boten dipununggah utawi dipunsimpen."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Kegiatan lan ngrawat",
+          "items": [
+            {
+              "q": "Sepinten dangunipun kegiatan?",
+              "a": "Asring 10 dumugi 20 menit sampun cekap, lan kadhang 2 menit sampun dados kasil. Mirsani tandha kesel utawi kuciwa lan mandheg nalika taksih raos sekeca. Boten wonten wekdal ingkang leres."
+            },
+            {
+              "q": "Kados pundi manawi piyambakipun boten purun nindakaken kegiatan?",
+              "a": "Mangga dipunajeni panolakanipun, lan cobi malih mangké utawi kanthi cara sanes. Panolakan saged saking kesel, nyeri, ragu-ragu, utawi namung boten remen. Waosen pandhuan kawula bab punapa ingkang kedah dipuntindakaken manawi piyambakipun boten purun."
+            },
+            {
+              "q": "Kegiatan punapa ingkang cocog kangge demensia tahap lajeng?",
+              "a": "Raos sekeca lan pangrasa: mirengaken musik kesenengan, mijeti tangan kaliyan lotion, mirsani foto sesarengan, nyepeng kemul ingkang alus, lenggah wonten njawi, utawi dolanan gambar ingkang prasaja sanget kaliyan wonten tiyang ingkang nyarengi. Pandhuan tahap lajeng kawula gadhah kathah gagasan malih."
+            },
+            {
+              "q": "Punapa wonten kegiatan kangge kelompok wonten panti?",
+              "a": "Wonten. Bingo gambar gadhah kertu ingkang saged dipuncithak lan juru panyeru wonten layar, lan Nglengkapi paribasan kaliyan Kertu rembagan sae manawi dipunwaos kanthi swanten. Pandhuan kelompok panti kawula ngrembag cacah anggota, panggenan lenggah, lan panyesuaian kangge kamampuan ingkang benten-benten."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Kasarasan otak",
+          "items": [
+            {
+              "q": "Punapa dolanan saged nyegah utawi nglambataken demensia?",
+              "a": "Boten wonten dolanan ingkang sampun dipunbuktèkaken nyegah demensia, lan dolanan kawula boten ngaku makaten. Stimulasi kognitif wonten pasrawungan sampun nedahaken paedah alit wonten panaliten kangge tiyang ingkang demensia ringan dumugi sedheng, nanging menika benten kaliyan dolanan ingkang nyegah penyakit. Kawula nyadhiyakaken dolanan kangge kasenengan lan sesambetan."
+            },
+            {
+              "q": "Punapa demensia saged dipuncegah?",
+              "a": "Boten kanthi pasti. Panaliten nyambungaken 14 faktor kasarasan lan gaya gesang kaliyan resiko demensia, kadosta pangrungu ingkang ical, tekanan getih inggil, kirang obah, lan kasepen. Ngatasi menika saged nyuda resiko kangge sawetawis tiyang, nanging kathah tiyang ingkang nindakaken sedaya kanthi leres taksih ngalami demensia. Menika boten nate kalepatanipun sinten kemawon."
+            },
+            {
+              "q": "Punapa puasa selang-seling sae kangge kasarasan otak?",
+              "a": "Bukti saking manungsa taksih winates lan awal, lan kathah panaliten wonten kewan. Puasa saged mbebayani kangge tiyang sepuh, mliginipun kaliyan obat diabetes utawi bobot awak mudhun ingkang boten dipunkajengaken, lan boten dipunsaranaken kangge tiyang ingkang gesang kaliyan demensia. Rembagan kaliyan dokter sakderengipun ngewahi pola dhahar."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Privasi lan kaslametan",
+          "items": [
+            {
+              "q": "Punapa panjenengan ngempalaken informasi?",
+              "a": "Boten wonten akun utawi iklan. Kawula ngginakaken Google Analytics kangge ngetang kunjungan lan mirsani kaca pundi ingkang mbiyantu, lan browser panjenengan ngéling-éling manawi panjenengan nguripaken swanten alus. Foto ingkang panjenengan pilih kangge Pasangan foto boten nate dipununggah. Waosen pawartos privasi kangge katrangan."
+            },
+            {
+              "q": "Punapa menika pamrayogi medis?",
+              "a": "Sanes. Golden Moments kangge rekreasi lan informasi umum. Kangge pitakenan bab kasarasan, rembagan kaliyan dokter, lan manawi darurat telpun nomer darurat ing wewengkon panjenengan."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Katrangan langkung: <a href=\"/caregiving/how-to-play-together/\">cara dolanan sesarengan</a>, <a href=\"/caregiving/when-they-say-no/\">manawi piyambakipun boten purun</a>, <a href=\"/activities/late-stage/\">kegiatan tahap lajeng</a>, lan <a href=\"/brain-health/can-dementia-be-prevented/\">punapa demensia saged dipuncegah?</a>"
+    },
+    "handout": {
+      "title": "Dolanan Alus lan Gratis kangge Tiyang ingkang Gesang kaliyan Demensia",
+      "seoTitle": "Selebaran Cithakan: Dolanan Demensia Gratis Online",
+      "description": "Selebaran setunggal kaca ingkang saged dipuncithak kangge kulawarga lan ingkang ngrawat bab dolanan gambar gratis kangge tiyang ingkang demensia.",
+      "crumb": "Selebaran cithakan",
+      "lede": "Cithaken kaca menika kangge kelompok dhukungan, paket perawatan, utawi lawang kulkas. Mangga ngginakaken prentah Print wonten browser panjenengan; menu lan tombolipun boten kalebet wonten cithakan.",
+      "introHtml": "<p>Gambar ageng, tembung prasaja, lan boten wonten ingkang saged lepat. Gratis wonten telepon, tablet, utawi komputer, tanpa daftar, iklan, pangetung wekdal, lan skor. Lenggah sesandhingan lan gentosan.</p>",
+      "gamesTitle": "Dolanan kangge dipuncoba sesarengan",
+      "restHtml": "<h2>Sawetawis tips</h2><ul><li>Pilih wekdal ing dinten nalika tiyangipun saweg paling sae.</li><li>Wiwiti kanthi setelan ingkang paling gampil. Kothak sekawan sampun cekap.</li><li>Rembagan bab gambar-gambaripun. Rembagan asring dados bagian ingkang paling sae.</li><li>Mandheg nalika taksih raos sekeca. Ngrampungaken langkung énggal menika asil ingkang sae.</li></ul><h2>Ugi wonten situs</h2><ul><li>Cithakan gratis: teka-teki tembung cithakan ageng, kaca mewarnai, kertu rembagan, lan bingo gambar.</li><li>Gagasan kegiatan kangge saben tahap, lan pandhuan bab dolanan sesarengan lan ngrawat badan panjenengan piyambak.</li></ul><p class=\"muted\">Kangge kasenengan lan wekdal sesarengan. Sanes pamrayogi medis, tes, utawi pengobatan. Golden Moments katerbitaken dening Cloudjet Solutions Pte. Ltd.</p>"
+    },
+    "organizations": {
+      "title": "Kangge Panti, Perpustakaan, lan Kelompok Dhukungan",
+      "seoTitle": "Kegiatan Demensia Gratis kangge Panti lan Kelompok",
+      "description": "Cara panti, perpustakaan, lan kelompok dhukungan ngginakaken dolanan demensia gratis kawula, kaliyan teks kangge nambahaken kawula wonten daftar sumber.",
+      "crumb": "Kangge lembaga",
+      "lede": "Sedaya wonten situs menika gratis dipunginakaken kaliyan warga, anggota, lan klien, tanpa akun, lisensi, utawi biaya. Kaca menika njelasaken punapa ingkang wonten lan cara nyebaraken.",
+      "shortText": "{name}: dolanan gambar alus lan gratis saha pandhuan kegiatan kangge tiyang ingkang gesang kaliyan demensia lan ingkang ngrawat. Tanpa daftar, pangetung wekdal, lan skor.",
+      "longText": "{name} ({domain}) nyadhiyakaken {count} dolanan browser gratis ingkang dipundamel kangge tiyang ingkang gesang kaliyan demensia, kalebet nyocogaken pasangan kaliyan gambar ingkang tetep katingal, teka-teki gampil, milah-milah, paribasan ingkang akrab, lan bingo gambar kaliyan kertu ingkang saged dipuncithak. Boten wonten akun, iklan, pangetung wekdal, utawi skor. Situs menika ugi gadhah pandhuan kegiatan kanthi basa prasaja kangge saben tahap demensia ingkang ngutip National Institute on Aging lan Alzheimer's Association.",
+      "useTitle": "Punapa ingkang saged dipunginakaken lembaga",
+      "gamesItemHtml": "<strong>{count} dolanan browser</strong> ingkang mlampah wonten laptop, tablet, utawi TV ingkang kasambung dhateng komputer. Tanpa pasang, akun, utawi unduhan. Pirsani <a href=\"/games/\">sedaya dolanan</a>.",
+      "printablesLabel": "{count} cithakan:",
+      "printablesAfter": "Mangga ngginakaken tombol Print wonten saben kaca.",
+      "moreItemsHtml": "<li><strong>Wujud kelompok:</strong> <a href=\"/games/picture-bingo/\">Bingo gambar</a> gadhah kertu ingkang saged dipuncithak lan juru panyeru wonten layar, lan <a href=\"/activities/trivia/\">pitakenan gampil</a> gadhah 50 pitakenan kaliyan pilihan wangsulan lan bahan rembagan.</li><li><strong>Pandhuan kegiatan</strong> kangge petugas lan kulawarga, miturut tahap lan jinis, dipunserat kanthi basa prasaja kaliyan sumber. Wiwiti saking <a href=\"/activities/ideas/\">101 gagasan kegiatan</a> utawi <a href=\"/activities/care-home-groups/\">kegiatan kelompok kangge panti</a>.</li>",
+      "restHtml": "<h2>Cara kelompok ngginakaken</h2><ul><li><strong>Panti lan perawatan ingatan:</strong> bingo gambar utawi nglengkapi paribasan wonten TV ruang umum, kaliyan satunggal tiyang mencet kangge kelompok.</li><li><strong>Program padinten kangge diwasa:</strong> panggenan tablet kaliyan Pasangan gambar dipunsetel kothak sekawan, kangge sesi cekak setunggal-setunggal.</li><li><strong>Perpustakaan umum:</strong> teka-teki tembung lan kertu rembagan ingkang dipuncithak wonten paket ingatan, lan situs menika dipuntandhani wonten tablet perpustakaan.</li><li><strong>Kelompok dhukungan lan kafe ingatan:</strong> <a href=\"/handout/\">selebaran setunggal kaca ingkang saged dipuncithak</a> kangge kulawarga dipunbeta wangsul.</li><li><strong>Rumah sakit lan ingkang ngrencanakaken wangsulipun pasien:</strong> selebaran wonten paket ingkang ngrawat, kangge kegiatan ingkang tentrem wonten griya utawi wonten pinggir ambèn.</li></ul><h2>Punapa ingkang boten kawula tindakaken</h2><p>Dolanan menika kangge kasenengan lan wekdal sesarengan. Menika boten ndiagnosis, nglampahi tes, maringi skor, ngobati, utawi nglambataken demensia, lan kawula nyuwun lembaga supados boten nggambaraken makaten. Boten wonten iklan, lan dolanan boten nyuwun asma, katrangan kasarasan, utawi foto ingkang dipununggah. Situs menika ngginakaken Google Analytics kangge ngetang kunjungan; <a href=\"/privacy/\">pawartos privasi</a> kawula njelasaken punapa ingkang dipunempalaken. Foto ingkang dipunginakaken wonten <a href=\"/games/photo-pairs/\">Pasangan foto</a> tetep wonten browser.</p><h2>Tambahaken kawula wonten daftar sumber panjenengan</h2><p>Manawi panjenengan gadhah daftar sumber kangge ingkang ngrawat, panjenengan kasuwunan nyambungaken dhateng <a href=\"/\">{domain}</a>. Panjenengan saged nyalin salah satunggal katrangan.</p>",
+      "shortTitle": "Katrangan cekak",
+      "longTitle": "Katrangan langkung dawa",
+      "linksHtml": "<p>Kaca ingkang migunani kangge dipunsambungaken langsung: <a href=\"/games/\">dolanan gratis</a>, <a href=\"/activities/printable/\">cithakan gratis</a>, <a href=\"/activities/alzheimers/\">kegiatan kangge Alzheimer</a>, lan <a href=\"/caregiving/how-to-play-together/\">cara dolanan sesarengan</a>.</p><h2>Pitakenan utawi koreksi</h2><p>Manawi wonten ingkang lepat utawi boten cetha wonten situs, utawi kabetahanipun warga boten kapenuhi dening ingkang wonten mriki, mangga wartosaken dhateng kawula wonten <a href=\"mailto:{email}\">{email}</a>. Mangga boten ngirim informasi pribadi utawi kasarasan bab warga utawi klien.</p>"
+    },
+    "app": {
+      "title": "Aplikasi Golden Moments",
+      "seoTitle": "Aplikasi Golden Moments kangge iPhone lan Android",
+      "description": "Aplikasi Golden Moments gratis: nyocogaken foto kanthi alus, foto kulawarga kasimpen wonten piranti, paket gambar tanpa internet, tanpa akun.",
+      "crumb": "Aplikasi",
+      "lede": "Sedaya ingkang panjenengan remeni saking situs, wonten aplikasi ingkang saged dipunginakaken tanpa internet lan saged ngginakaken foto kulawarga ingkang panjenengan pilih.",
+      "worksOn": "Saged dipunginakaken wonten {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Wiwiti saking ingkang alit</h2><p>Wiwiti kanthi kothak ageng sekawan lan gambar ingkang sampun akrab. Tetepaken gambar katingal, utawi dhelikaken manawi menika raosipun sekeca. Mode alus boten gadhah pangetung wekdal, skor, utawi paukuman. Pilih 4, 6, 8, utawi 12 kothak.</p><h2>Damel langkung pribadi</h2><p>Pilih foto kulawarga kaliyan pamilih foto wonten piranti panjenengan. Aplikasi nyimpen salinan ingkang langkung alit kangge kegiatanipun. Boten mriksa pustaka panjenengan lan boten ngewahi foto asli panjenengan, lan nyimpen dumugi 24 foto wonten setunggal koleksi.</p><h2>Namung mirsani sesarengan</h2><p>Mirsani satunggal gambar sakwanci. Ajakan ingkang boten wajib ngajak rembagan tanpa nyuwun sinten kemawon enget asma utawi maringi wangsulan ingkang leres. Namung mirsani sampun cekap.</p><h2>Tanpa internet ing panggenan ingkang wigatos</h2><p>Gambar wiwitan lan sedaya wolung paket gambar kalebet wonten aplikasi. Salinan foto ingkang dipunimpor saged dipunginakaken tanpa internet. Milih foto asli ingkang namung kasimpen wonten iCloud saged mbetahaken sambungan internet.</p><h2>Tanpa akun, tanpa server sinkronisasi foto</h2><p>Salinan foto kulawarga tetep wonten aplikasi ing piranti. Panjenengan saged mbusak salinan tanpa mbusak foto asli. Serep piranti saged kalebet data aplikasi. Waosen <a href=\"/app-privacy/\">kabijakan privasi aplikasi</a>, lan <a href=\"/help/\">pitulungan aplikasi</a> nuntun saben langkah.</p>",
+      "disclaimer": "Golden Moments kangge rekreasi lan rembagan sesarengan. Boten ndiagnosis, ngobati, nyegah, utawi ngukur demensia utawi penyakit Alzheimer.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Dolanan Demensia & Alzheimer Gratis Online",
+    "description": "Dolanan online gratis kangge tiyang sepuh ingkang demensia utawi Alzheimer: nyocogaken gambar, teka-teki, milah-milah, mewarnai, bingo. Tanpa daftar.",
+    "crumb": "Dolanan",
+    "h1": "Dolanan Alus kangge Tiyang ingkang Gesang kaliyan Demensia",
+    "lede": "{count} dolanan gratis kangge dipundolanani sesarengan wonten browser panjenengan. Gambar ageng, tembung prasaja, lan boten wonten ingkang saged lepat: tanpa pangetung wekdal, skor, utawi daftar.",
+    "listName": "Dolanan alus kangge tiyang ingkang gesang kaliyan demensia",
+    "byStageTitle": "Milih dolanan miturut tahap",
+    "byStageLede": "Tahap namung pandhuan kasar. Mangga tumut punapa ingkang dipunremeni tiyangipun lan ingkang raosipun sekeca dinten menika.",
+    "stageCol": "Tahap",
+    "gamesCol": "Dolanan ingkang asring cocog",
+    "moreHtml": "Gagasan sanesipun sanjawining layar: <a href=\"/activities/ideas/\">101 kegiatan kangge tiyang ingkang gesang kaliyan demensia</a>, <a href=\"/activities/alzheimers/\">kegiatan lan dolanan kangge Alzheimer</a>, <a href=\"/activities/memory-games/\">dolanan kenangan ingkang alus</a>, lan <a href=\"/activities/puzzles/\">teka-teki</a>.",
+    "faq": [
+      {
+        "q": "Dolanan pundi ingkang dipunwiwiti rumiyin?",
+        "a": "Pasangan gambar kanthi kothak sekawan menika pilihan pertama ingkang tentrem. Manawi milih antawisipun gambar karaos kathah sanget, cobi Madosi ingkang sami kanthi kalih gambar. Kangge kelompok, cobi Bingo gambar."
+      },
+      {
+        "q": "Punapa dolanan menika saged wonten iPad utawi telepon?",
+        "a": "Inggih. Saben dolanan mlampah wonten browser ing telepon, tablet, lan komputer, lan gambaripun ageng ngebaki layar. Tablet wonten standhanipun asring paling sekeca kangge kalih tiyang."
+      },
+      {
+        "q": "Punapa dolanan menika sae kangge tiyang ingkang gadhah Alzheimer?",
+        "a": "Inggih. Dipundamel kangge tiyang ingkang gesang kaliyan demensia, kalebet Alzheimer, sabab ingkang paling limrah. Gambar tetep katingal, pilihanipun namung sekedhik, lan boten wonten ingkang dipunwekdal utawi dipunskor, dados dolanan menika ngandelaken ngenali ingkang sampun akrab, sanes ngelingi ingkang énggal."
+      },
+      {
+        "q": "Punapa menika dolanan kenangan kangge tiyang sepuh?",
+        "a": "Menika dolanan nyocogaken lan gambar ingkang saged dipunremeni tiyang diwasa sepuh menapa kemawon, nanging dipundamel supados boten nyoba kenangan: wonten Pasangan gambar, gambar tetep madhep nginggil kajawi panjenengan milih sanes. Pandhuan kawula bab dolanan kenangan kangge tiyang sepuh ingkang demensia njelasaken cara njagi dolanan kenangan menapa kemawon tetep alus."
+      },
+      {
+        "q": "Punapa wonten dolanan kangge kelompok wonten panti?",
+        "a": "Wonten. Bingo gambar gadhah kertu ingkang saged dipuncithak lan juru panyeru wonten layar, lan Nglengkapi paribasan kaliyan Kertu rembagan sae manawi dipunwaos kanthi swanten dhateng kelompok."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad, lan Android",
+    "requirements": "iOS 15 utawi langkung énggal; Android 7.0 utawi langkung énggal",
+    "summary": "Aplikasi gratis kangge iPhone, iPad, lan Android kaliyan nyocogaken gambar kanthi alus wonten kothak ageng sekawan dumugi kalih welas, nyocogaken lan mirsani kaliyan foto kulawarga ingkang panjenengan pilih, lan wolung paket gambar ingkang kalebet tanpa internet. Tanpa akun, iklan, pangetung wekdal, utawi skor.",
+    "features": [
+      "Nyocogaken gambar kanthi alus kaliyan 4, 6, 8, utawi 12 kothak ageng; gambar tetep katingal kajawi panjenengan milih ndhelikaken",
+      "Foto kulawarga ingkang panjenengan pilih dipunsalin dhateng aplikasi kangge nyocogaken lan mirsani sesarengan",
+      "Mirsani sesarengan: satunggal gambar sakwanci kaliyan ajakan rembagan ingkang boten wajib",
+      "Wolung paket gambar kalebet wonten aplikasi; saged dipunginakaken tanpa internet",
+      "Tanpa akun, iklan, tumbas wonten aplikasi, pangetung wekdal, skor, utawi paukuman"
+    ],
+    "faq": [
+      {
+        "q": "Punapa wonten aplikasi kegiatan demensia?",
+        "a": "Wonten. Golden Moments (kadhaptar minangka \"{storeName}\") gratis wonten App Store lan Google Play. Nyadhiyakaken nyocogaken gambar kanthi alus kaliyan kothak ageng, dolanan kaliyan foto kulawarga ingkang panjenengan pilih, lan paket gambar ingkang saged dipunginakaken tanpa internet."
+      },
+      {
+        "q": "Punapa aplikasi Golden Moments gratis?",
+        "a": "Inggih. Gratis kangge dipununduh, tanpa iklan, akun, utawi tumbas wonten aplikasi."
+      },
+      {
+        "q": "Punapa aplikasi menika saged dipunginakaken tanpa internet?",
+        "a": "Inggih. Gambar wiwitan lan sedaya wolung paket gambar kalebet wonten aplikasi, lan foto kulawarga saged dipunginakaken tanpa internet sasampunipun dipunsalin dhateng aplikasi. Milih foto ingkang namung kasimpen wonten iCloud saged mbetahaken sambungan."
+      },
+      {
+        "q": "Punapa kula saged ngginakaken foto kulawarga piyambak?",
+        "a": "Inggih. Pilih foto kaliyan pamilih foto wonten piranti panjenengan. Aplikasi nyimpen salinan ingkang langkung alit wonten piranti kangge kegiatanipun, boten ngunggah, lan boten nate ngewahi foto asli. Panjenengan saged mbusak salinan menika kapan kemawon."
+      },
+      {
+        "q": "Punapa menika aplikasi latihan otak utawi tes kenangan?",
+        "a": "Sanes. Golden Moments kangge kasenengan lan wekdal sesarengan. Boten wonten skor utawi tes, lan boten ndiagnosis, ngobati, nyegah, utawi ngukur demensia utawi penyakit Alzheimer."
+      },
+      {
+        "q": "Piranti pundi ingkang saged ngginakaken?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Punapa wonten versi aplikasi saking dolanan menika?",
+      "a": "Wonten. Aplikasi Golden Moments gratis kangge iPhone, iPad, lan Android gadhah nyocogaken gambar kanthi alus ingkang sami, saged ngginakaken foto kulawarga ingkang panjenengan pilih, lan saged dipunginakaken tanpa internet. Tanpa akun, iklan, utawi skor."
+    },
+    "gameFaqNo": {
+      "q": "Punapa wonten versi aplikasi saking dolanan menika?",
+      "a": "Dereng kangge dolanan menika. Aplikasi Golden Moments gratis kangge iPhone, iPad, lan Android gadhah nyocogaken gambar kanthi alus kaliyan kothak ageng lan foto kulawarga ingkang panjenengan pilih, lan saged dipunginakaken tanpa internet. Dolanan menika tetep gratis wonten mriki wonten browser panjenengan."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: gambar ageng ingkang grapyak",
+    "noscript": "Dolanan menika mbetahaken JavaScript dipunuripaken wonten browser panjenengan. Tips ing ngandhap saged dipunginakaken tanpa menika.",
+    "about": "Bab {name}",
+    "aboutAria": "Bab dolanan menika",
+    "noTimer": "Tanpa pangetung wekdal utawi skor",
+    "printable": "Saged dipuncithak",
+    "howTo": "Cara dolanan {name}",
+    "tips": "Tips dolanan sesarengan",
+    "newToPlayingHtml": "Énggal dolanan kaliyan tiyang ingkang gadhah demensia? Waosen <a href=\"/caregiving/how-to-play-together/\">cara dolanan sesarengan</a>, kalebet punapa ingkang kedah dipuntindakaken manawi piyambakipun ical kawigatosanipun.",
+    "moreAria": "Langkung kathah kangge dipunjelajahi",
+    "helpfulGuides": "Pandhuan ingkang migunani",
+    "appTitle": "Dolanan wonten aplikasi",
+    "appText": "Aplikasi Golden Moments gratis gadhah nyocogaken gambar kanthi alus kaliyan kothak ageng lan foto kulawarga panjenengan piyambak, lan saged dipunginakaken tanpa Wi‑Fi. iPhone, iPad, lan Android.",
+    "photoAppTitle": "Tetepaken foto panjenengan siyap",
+    "photoAppText": "Wonten aplikasi Golden Moments gratis, foto ingkang panjenengan pilih tetep wonten piranti panjenengan kangge candhakipun, lan dolanan saged dipunginakaken tanpa Wi‑Fi. iPhone, iPad, lan Android.",
+    "goodToKnow": "Prayogi dipunmangertosi",
+    "goodToKnowText": "Dolanan menika kangge kasenengan lan wekdal sesarengan. Boten nyoba, ngukur, utawi ngobati punapa-punapa.",
+    "moreGames": "Dolanan alus sanesipun",
+    "crumb": "Dolanan"
+  }
+}

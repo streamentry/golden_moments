@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Pasangan gambar",
+    "seoTitle": "Kaulinan Nyocogkeun Demensia: Pasangan Gambar",
+    "h1": "Pasangan Gambar: Kaulinan Nyocogkeun nu Lemah-Lembut",
+    "description": "Kaulinan nyocogkeun gratis anu lemah-lembut kanggo jalma anu hirup kalayan demensia. Gambar ageung tetep kaciri, tanpa waktu atanapi skor, 4 nepi ka 12 kotak.",
+    "short": "Néangan dua gambar anu sarua. Gambar tiasa tetep kaciri.",
+    "players": "1 atanapi 2 urang, gigireun-gigireun",
+    "intro": "Pencét hiji gambar, terus pencét anu cocog sareng éta. Gambar tetep kaciri sacara baku, jadi teu aya anu kedah diinget. Nalika dua gambar ngagabung, éta meunang wates emas sareng tanda centang.",
+    "howTo": [
+      "Pilih sabaraha kotak anu dipaké. Opat kotak téh tempat mimiti anu tenang.",
+      "Pencét gambar mana waé. Éta meunang wates emas.",
+      "Pencét gambar anu sarua. Pasanganna tetep babarengan kalayan tanda centang.",
+      "Upami dua gambar éta béda, teu aya anu goréng. Pencét deui iraha waé anjeun siap.",
+      "Hurungkeun “Gambar disumputkeun” ngan upami anjeun duanana resep versi klasik anu dibalikkeun."
+    ],
+    "tips": [
+      "Sebutkeun ngaran gambar babarengan sarta ngobrol ngeunaanana: “Cangkir teh beureum. Anjeun resep teh ku susu?”",
+      "Antep jalma anu anjeun rawat anu mencét, sanajan lila. Nuding wae, ulah mencétkeun kanggo anjeunna.",
+      "Tetep dina opat kotak salami karasa pas. Langkung seueur kotak téh pilihan, lain tingkatan anu kedah dihontal.",
+      "Réngsé bari masih nikmat. Hiji kaulinan geus cekap jadi hiji kagiatan."
+    ],
+    "faq": [
+      {
+        "q": "Naha aya waktu atanapi skor?",
+        "a": "Henteu. Teu aya jam, skor, itungan léngkah atanapi eleh. Anjeun tiasa eureun iraha waé, sarta eureun satengah jalan téh cara anu saé pikeun réngsé."
+      },
+      {
+        "q": "Naha gambar tetep kaciri?",
+        "a": "Ngajaga gambar kaciri ngarobah kaulinan jadi ningali sareng nyocogkeun, lain nginget. Seueur jalma ngarasa ieu langkung tenang. Anjeun tiasa pindah ka gambar disumputkeun ku hiji pencétan upami langkung resep."
+      },
+      {
+        "q": "Naha gratis, sarta naha kedah daftar?",
+        "a": "Muhun, gratis, sarta teu aya akun, daptar atanapi undeuran. Jalan dina browser wéb dina telepon, tablét atanapi komputer."
+      },
+      {
+        "q": "Naha urang tiasa maké poto kulawarga urang sorangan?",
+        "a": "Tiasa. Cobian Pasangan poto, anu ngidinan anjeun milih poto tina alat anjeun. Potona tetep dina browser anjeun sarta teu diunggah."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Néangan anu sarua",
+    "seoTitle": "Néangan Gambar anu Sarua: Kaulinan Demensia Basajan",
+    "h1": "Néangan Gambar anu Sarua",
+    "description": "Hiji gambar di luhur, dua nepi ka opat di handap. Pencét anu sarua. Kaulinan gambar gratis anu tenang kanggo jalma anu hirup kalayan demensia, tanpa waktu.",
+    "short": "Tingali gambar di luhur terus pencét anu sarua di handap.",
+    "players": "1 atanapi 2 urang",
+    "intro": "Hiji gambar aya di luhur layar. Di handapna aya dua, tilu atanapi opat gambar. Pencét anu sarua. Ieu mangrupa hiji pilihan basajan sakali, kalayan seueur rohangan kanggo ngobrol.",
+    "howTo": [
+      "Pilih dua, tilu atanapi opat gambar kanggo dipilih. Dua téh anu paling basajan.",
+      "Tingali gambar di luhur babarengan.",
+      "Pencét gambar anu sarua di handap. Éta ditandaan ku centang sareng sababaraha kecap haneut.",
+      "Upami gambar anu béda dipencét, kaulinan ngan ukur nyebatkeun ngaranna sarta ngadagoan. Lalaunan wae.",
+      "Pencét “Gambar salajengna” upami anjeun siap kanggo anu sanés."
+    ],
+    "tips": [
+      "Obrolkeun unggal gambar sateuacan milih: warna, wangun, di mana anjeun bisa ningali éta.",
+      "Dua pilihan lain “gampang teuing”. Tujuanna téh waktos anu nyaman, lain tantangan.",
+      "Upami mencét hésé, jalma éta tiasa nuding sarta anjeun tiasa mencét kanggo anjeunna."
+    ],
+    "faq": [
+      {
+        "q": "Naha aya waktu atanapi skor?",
+        "a": "Henteu. Teu aya jam, skor, itungan léngkah atanapi eleh. Anjeun tiasa eureun iraha waé, sarta eureun satengah jalan téh cara anu saé pikeun réngsé."
+      },
+      {
+        "q": "Naon anu kajadian upami gambar anu salah dipencét?",
+        "a": "Teu aya anu teu pikaresepeun. Teu aya sora buzzer, tanda silang beureum atanapi geteran. Kaulinan nyebatkeun ngaran gambar anu dipencét sarta ngadagoan pencétan salajengna."
+      },
+      {
+        "q": "Naha gratis, sarta naha kedah daftar?",
+        "a": "Muhun, gratis, sarta teu aya akun, daptar atanapi undeuran. Jalan dina browser wéb dina telepon, tablét atanapi komputer."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Nyocogkeun kalangkang",
+    "seoTitle": "Kaulinan Nyocogkeun Kalangkang kanggo Demensia: Gratis",
+    "h1": "Nyocogkeun Kalangkang: Kaulinan Gambar nu Lemah-Lembut",
+    "description": "Kalangkang di luhur, dua nepi ka opat gambar di handap. Pencét gambar anu nyieun kalangkang. Kaulinan gratis anu tenang kanggo demensia, tanpa waktu.",
+    "short": "Tingali kalangkang terus pencét gambar anu nyieun éta.",
+    "players": "1 atanapi 2 urang",
+    "intro": "Nyocogkeun kalangkang mangrupa kagiatan anu wawuh tina lembar kerja citakan, di dieu kalayan gambar ageung sareng teu aya anu kedah dicitak. Kalangkang lemes aya di luhur layar sarta dua, tilu atanapi opat gambar ngadagoan di handap. Pencét anu nyieun kalangkang. Wangun saperti sapéda, payung atanapi cangkir teh gampang diobrolkeun ogé.",
+    "howTo": [
+      "Pilih dua, tilu atanapi opat gambar kanggo dipilih. Dua téh anu paling basajan.",
+      "Tingali kalangkang babarengan. Wangun naon éta? Jangkung atanapi buleud?",
+      "Pencét gambar anu nyieun kalangkang. Ngaranna muncul di handapeun kalangkang.",
+      "Upami gambar anu béda dipencét, kaulinan ngan ukur nyebatkeun ngaranna sarta ngadagoan. Lalaunan wae.",
+      "Pencét “Kalangkang salajengna” upami anjeun siap kanggo anu sanés."
+    ],
+    "tips": [
+      "Tulusuran kontur kalangkang ku ramo sarta obrolkeun wangunna.",
+      "Upami kalangkang karasa hésé ayeuna, pindah ka Néangan anu sarua, di mana gambarna sarupa.",
+      "Obrolkeun gambar sanggeus kapanggih: “Urang kantos gaduh payung siga kitu.”"
+    ],
+    "faq": [
+      {
+        "q": "Naha aya waktu atanapi skor?",
+        "a": "Henteu. Teu aya jam, skor, itungan léngkah atanapi eleh. Anjeun tiasa eureun iraha waé, sarta eureun satengah jalan téh cara anu saé pikeun réngsé."
+      },
+      {
+        "q": "Naha nyocogkeun kalangkang hadé kanggo jalma anu gaduh demensia?",
+        "a": "Éta bisa jadi kagiatan basajan anu nyaman kanggo sababaraha jalma, utamana dina tahap awal. Wangun leuwih gampang dikenal tibatan kecap. Éta kanggo kasenangan sareng obrolan, lain tés, sarta teu ngubaran atanapi ngalambatkeun demensia. Upami ieu nyababkeun kuciwa, cobian Néangan anu sarua atanapi ukur ningali gambar babarengan."
+      },
+      {
+        "q": "Naon anu kajadian upami gambar anu salah dipencét?",
+        "a": "Teu aya anu teu pikaresepeun. Teu aya sora buzzer, tanda silang beureum atanapi geteran. Kaulinan nyebatkeun ngaran gambar anu dipencét sarta ngadagoan pencétan salajengna."
+      },
+      {
+        "q": "Naha gratis, sarta naha kedah daftar?",
+        "a": "Muhun, gratis, sarta teu aya akun, daptar atanapi undeuran. Jalan dina browser wéb dina telepon, tablét atanapi komputer."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Ngagolongkeun babarengan",
+    "seoTitle": "Kaulinan Ngagolongkeun kanggo Demensia",
+    "h1": "Ngagolongkeun Babarengan: Kagiatan Ngagolongkeun Gambar",
+    "description": "Pencét gambar, terus pencét karanjang tempatna: dapur atanapi kebon, buah atanapi sato. Kagiatan ngagolongkeun gratis anu tenang kanggo demensia.",
+    "short": "Asupkeun unggal gambar kana karanjangna: dapur atanapi kebon, jeung anu séjén.",
+    "players": "1 atanapi 2 urang",
+    "intro": "Ngagolongkeun mangrupa pagawéan sapopoé anu wawuh sarta nyugemakeun, siga nyimpen belanjaan atanapi nyocogkeun kaos suku. Pencét gambar, terus pencét karanjang tempatna. Teu aya buru-buru sareng teu aya léngkah anu salah.",
+    "howTo": [
+      "Pilih téma: dapur sareng kebon, buah sareng sato, atanapi imah sareng iinditan.",
+      "Pencét gambar. Éta meunang wates emas.",
+      "Pencét karanjang tempatna. Gambarna pindah kana karanjang éta.",
+      "Upami éta kagungan karanjang anu séjén, kaulinan nyarios kitu kalayan lemah-lembut sarta ngadagoan.",
+      "Upami unggal gambar parantos digolongkeun, tingali karanjang-karanjangna babarengan."
+    ],
+    "tips": [
+      "Dina kahirupan nyata sering teu aya wangsulan anu salah. Upami aya anu nyarios kaléng nyiram cocog di dapur, tanyakeun naha. Meureun anjeun meunang carita anu saé.",
+      "Paké gambar salaku bahan obrolan: “Naon anu anjeun tandur di kebon?”",
+      "Ngagolongkeun barang nyata, siga sendok sareng garpu atanapi kancing dumasar warna, mangrupa lanjutan anu saé di luar layar."
+    ],
+    "faq": [
+      {
+        "q": "Naha aya waktu atanapi skor?",
+        "a": "Henteu. Teu aya jam, skor, itungan léngkah atanapi eleh. Anjeun tiasa eureun iraha waé, sarta eureun satengah jalan téh cara anu saé pikeun réngsé."
+      },
+      {
+        "q": "Naha ngagolongkeun?",
+        "a": "Seueur jalma resep ngagolongkeun sabab karasa siga pagawéan anu mangpaat sareng wawuh. Éta ogé gampang ngobrol ngeunaan gambar bari jalan."
+      },
+      {
+        "q": "Naha gratis, sarta naha kedah daftar?",
+        "a": "Muhun, gratis, sarta teu aya akun, daptar atanapi undeuran. Jalan dina browser wéb dina telepon, tablét atanapi komputer."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Teka-teki gambar",
+    "seoTitle": "Teka-teki Gambar Gampang kanggo Demensia: 4 atanapi 9",
+    "h1": "Teka-teki Gambar: Jigsaw Gampang",
+    "description": "Jigsaw online anu gampang kanggo jalma anu hirup kalayan demensia: 4 atanapi 9 potongan ageung, gambar sakabéhna kaciri, pencét dua potongan kanggo tukeran.",
+    "short": "Pencét dua potongan kanggo tukeran nepi ka gambarna lengkep.",
+    "players": "1 atanapi 2 urang",
+    "intro": "Gambar anu ramah dipotong jadi opat atanapi salapan potongan ageung sarta diacak. Gambar sakabéhna tetep kaciri salaku pituduh. Pencét hiji potongan, terus anu séjén, sarta aranjeunna tukeran tempat. Teu kedah nyérét.",
+    "howTo": [
+      "Pilih gambar sareng 4 atanapi 9 potongan. Opat téh awal anu lemah-lembut.",
+      "Tingali gambar sakabéhna di luhur.",
+      "Pencét hiji potongan, terus pencét tempat anu kedahna. Dua potongan tukeran.",
+      "Potongan anu aya di tempat anu bener meunang tanda centang leutik.",
+      "Upami gambarna lengkep, nikmatan babarengan, terus pilih anu sanés."
+    ],
+    "tips": [
+      "Mencét dua potongan kanggo tukeran leuwih gampang tibatan nyérét pikeun seueur jalma.",
+      "Obrolkeun gambar bari nyambung: “Éta hateup beureum.”",
+      "Jigsaw kayu nyata kalayan 12 nepi ka 24 potongan ageung ogé kagiatan méja anu éndah."
+    ],
+    "faq": [
+      {
+        "q": "Naha aya waktu atanapi skor?",
+        "a": "Henteu. Teu aya jam, skor, itungan léngkah atanapi eleh. Anjeun tiasa eureun iraha waé, sarta eureun satengah jalan téh cara anu saé pikeun réngsé."
+      },
+      {
+        "q": "Naha kedah nyérét potonganna?",
+        "a": "Henteu. Pencét hiji potongan, terus pencét anu séjén, sarta aranjeunna tukeran tempat. Ieu leuwih gampang kalayan leungeun gemeteran atanapi dina layar leutik."
+      },
+      {
+        "q": "Naha gratis, sarta naha kedah daftar?",
+        "a": "Muhun, gratis, sarta teu aya akun, daptar atanapi undeuran. Jalan dina browser wéb dina telepon, tablét atanapi komputer."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Tuntaskeun paribasa",
+    "seoTitle": "Tuntaskeun Paribasa: Kaulinan Paribasa kanggo Sepuh",
+    "h1": "Tuntaskeun Paribasa",
+    "description": "Paribasa anu wawuh kalayan kecap pamungkasna leungit. Pencét hiji pilihan atanapi témbongkeun tungtunganana, terus obrolkeun. Gratis, tanpa waktu atanapi skor.",
+    "short": "Tuntaskeun paribasa anu wawuh babarengan, terus obrolkeun.",
+    "players": "1, 2 atanapi hiji kelompok",
+    "intro": "Paribasa lami sering dikenal saumur hirup. Unggal kartu nunjukkeun paribasa anu wawuh kalayan kecap pamungkasna leungit, tilu pilihan, sareng tombol “Témbongkeun tungtunganana”. Sanggeus tungtunganana, patarosan lemah-lembut ngajak ngobrol.",
+    "howTo": [
+      "Baca paribasa kalayan sora babarengan.",
+      "Pencét kecap anu ngeusian, atanapi pencét “Témbongkeun tungtunganana”.",
+      "Baca paribasa lengkepna deui sarta obrolkeun ngagunakeun bahan obrolan.",
+      "Pencét “Paribasa salajengna” upami anjeun siap."
+    ],
+    "tips": [
+      "Baca lalaunan sarta antep kosong sakedap sateuacan kecap pamungkas. Sering jalma nyebatkeunana sateuacan anjeun réngsé.",
+      "Upami aya anu masihan tungtungan anu béda, nikmatan. Sababaraha versi paribasa béda-béda gumantung kulawarga atanapi wewengkon.",
+      "Dina kelompok, hiji jalma maca sarta sadayana ngiringan dina tungtunganana."
+    ],
+    "faq": [
+      {
+        "q": "Naha aya waktu atanapi skor?",
+        "a": "Henteu. Teu aya jam, skor, itungan léngkah atanapi eleh. Anjeun tiasa eureun iraha waé, sarta eureun satengah jalan téh cara anu saé pikeun réngsé."
+      },
+      {
+        "q": "Kumaha upami urang milih kecap anu béda?",
+        "a": "Kaulinan nunjukkeun tungtungan anu biasa sarta lanjut kana obrolan. Teu aya skor, sarta wangsulan anu béda téh teu nanaon."
+      },
+      {
+        "q": "Naha gratis, sarta naha kedah daftar?",
+        "a": "Muhun, gratis, sarta teu aya akun, daptar atanapi undeuran. Jalan dina browser wéb dina telepon, tablét atanapi komputer."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Néangan kecap citakan ageung",
+    "seoTitle": "Néangan Kecap Citakan Ageung kanggo Demensia",
+    "h1": "Néangan Kecap Citakan Ageung",
+    "description": "Néangan kecap citakan ageung gratis kanggo sepuh sareng jalma anu hirup kalayan demensia. Kecap saeutik, aksara ageung. Maén online atanapi citak.",
+    "short": "Aksara ageung, sababaraha kecap, ngan ka gigir sareng ka handap. Bisa dicitak ogé.",
+    "players": "1 atanapi 2 urang",
+    "intro": "Kotak leutik kalayan aksara ageung sareng ngan sakeupeul kecap, sadayana kabaca ka gigir atanapi ka handap. Pencét aksara kahiji tina kecap, terus aksara pamungkasna. Langkung resep kertas? Citak teka-teki énggal ku hiji pencétan.",
+    "howTo": [
+      "Pilih téma sareng ukuran kotak.",
+      "Tingali daptar kecap. Kecap dibaca ka gigir (kénca ka katuhu) atanapi ka handap (luhur ka handap).",
+      "Pencét aksara kahiji tina kecap, terus pencét aksara pamungkasna.",
+      "Kecap anu kapanggih disorot sarta dicoret tina daptar.",
+      "Pencét “Citak teka-teki ieu” kanggo maén dina kertas ku pinsil atanapi spidol."
+    ],
+    "tips": [
+      "Tuding hiji kecap dina daptar sarta néangan aksara kahijina babarengan.",
+      "Dina kertas, spidol sorot leuwih gampang dicekel tibatan pinsil.",
+      "Obrolkeun kecap-kecap téma. Kecap buah téh jalan alami pikeun nginget metik, ngagoréng atanapi pasar."
+    ],
+    "faq": [
+      {
+        "q": "Naha aya waktu atanapi skor?",
+        "a": "Henteu. Teu aya jam, skor, itungan léngkah atanapi eleh. Anjeun tiasa eureun iraha waé, sarta eureun satengah jalan téh cara anu saé pikeun réngsé."
+      },
+      {
+        "q": "Naha abdi tiasa nyitak néangan kecapna?",
+        "a": "Tiasa. Pencét “Citak teka-teki ieu” kanggo nyitak kotak ayeuna dina citakan ageung, kalayan daptar kecap di handapna. Unggal teka-teki énggal téh béda."
+      },
+      {
+        "q": "Naha gratis, sarta naha kedah daftar?",
+        "a": "Muhun, gratis, sarta teu aya akun, daptar atanapi undeuran. Jalan dina browser wéb dina telepon, tablét atanapi komputer."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Kaca pawarna",
+    "seoTitle": "Kaca Pawarna kanggo Déwasa anu Gaduh Demensia (Gratis)",
+    "h1": "Kaca Pawarna",
+    "description": "Kaca pawarna basajan pikeun déwasa kalayan wewengkon ageung: pencét warna, terus pencét gambar. Teu aya warna anu salah, sarta kacana tiasa dicitak gratis.",
+    "short": "Pencét warna, terus bagian gambar. Citak kacana ogé.",
+    "players": "1 atanapi 2 urang",
+    "intro": "Kaca kalayan wangun ageung sareng basajan: kembang dina pot, imah, cangkir teh, kukupu sareng parahu layar. Pencét warna, terus pencét bagian gambar kanggo ngeusian. Teu aya warna anu salah.",
+    "howTo": [
+      "Pilih kaca.",
+      "Pencét warna. Unggal warna aya ngaranna.",
+      "Pencét bagian gambar kanggo ngeusian ku warna éta.",
+      "Ganti pikiran iraha waé ku ngeusian deui.",
+      "Pencét “Citak kaca ieu” kanggo kaca kosong anu diwarnaan ku pinsil atanapi spidol."
+    ],
+    "tips": [
+      "Tawarkeun dua warna kanggo dipilih, lain sakabéh set, upami milih karasa seueur teuing.",
+      "Tangkal wungu sareng panonpoé biru wilujeng. Ieu ngeunaan nikmati warna, lain katepatan.",
+      "Kaca citakan jalan hadé kalayan spidol kandel atanapi krayon, anu leuwih gampang dicekel."
+    ],
+    "faq": [
+      {
+        "q": "Naha aya waktu atanapi skor?",
+        "a": "Henteu. Teu aya jam, skor, itungan léngkah atanapi eleh. Anjeun tiasa eureun iraha waé, sarta eureun satengah jalan téh cara anu saé pikeun réngsé."
+      },
+      {
+        "q": "Naha kaca ieu kakanak-kanakan teuing?",
+        "a": "Kami ngagambar barang anu tenang tur basajan, lain kartun, jadi kacana cocog kanggo déwasa. Wangun ageung ngajaga mewarnaan tetep gampang tanpa matak siga kanggo budak."
+      },
+      {
+        "q": "Naha gratis, sarta naha kedah daftar?",
+        "a": "Muhun, gratis, sarta teu aya akun, daptar atanapi undeuran. Jalan dina browser wéb dina telepon, tablét atanapi komputer."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Kartu obrolan",
+    "seoTitle": "Bahan Obrolan kanggo Demensia: Kartu Gambar",
+    "h1": "Kartu Obrolan",
+    "description": "Kartu gambar kalayan bahan obrolan lemah-lembut pikeun jalma anu hirup kalayan demensia: teu aya kuis atanapi wangsulan bener. Paké dina layar atanapi citak.",
+    "short": "Kartu gambar kalayan patarosan kabuka sareng lemah-lembut. Teu aya kuis.",
+    "players": "2 urang atanapi hiji kelompok",
+    "intro": "Unggal kartu ngajodokeun gambar anu wawuh sareng ajakan kabuka pikeun ngobrol, saperti “Cuaca naon anu anjeun resep?” Teu aya wangsulan anu bener sareng teu aya anu kedah diinget. Pilih téma atanapi acak sadayana.",
+    "howTo": [
+      "Pilih téma, atanapi tetep “Sadaya kartu”.",
+      "Baca patarosan kalayan sora sarta tingali gambarna babarengan.",
+      "Dangukeun, bagikeun wangsulan anjeun sorangan, sarta antep obrolan ngumbara.",
+      "Pencét “Kartu salajengna” upami anjeun siap, atanapi tetep dina hiji kartu sakumaha anjeun hoyong.",
+      "Pencét “Citak sadaya kartu” kanggo ngegunting set kertas."
+    ],
+    "tips": [
+      "Wangsulan patarosan éta sorangan ogé. Karasa siga obrolan, lain wawancara.",
+      "Turutan caritana, lain faktana. Upami rincian robah, teu nanaon.",
+      "Upami kartu nyabak hal anu hanjakal, akuan rasana sarta pindah ka kartu séjén kalayan lemah-lembut."
+    ],
+    "faq": [
+      {
+        "q": "Naha teu aya patarosan “Naha anjeun nginget…?”",
+        "a": "Patarosan anu nguji ingetan bisa karasa siga ujian sarta matak isin. Ajakan kabuka saperti “Caritakeun ka abdi ngeunaan…” ngidinan saha waé ilubiung, naon waé anu diinget."
+      },
+      {
+        "q": "Naha abdi tiasa nyitak kartuna?",
+        "a": "Tiasa. “Citak sadaya kartu” nyitak set lengkep dina citakan ageung, sababaraha kartu per kaca, siap digunting."
+      },
+      {
+        "q": "Naha gratis, sarta naha kedah daftar?",
+        "a": "Muhun, gratis, sarta teu aya akun, daptar atanapi undeuran. Jalan dina browser wéb dina telepon, tablét atanapi komputer."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Pasangan poto",
+    "seoTitle": "Jieun Kaulinan Nyocogkeun tina Poto Kulawarga",
+    "h1": "Pasangan Poto: Cocogkeun Poto Anjeun Sorangan",
+    "description": "Robah poto kulawarga anjeun jadi kaulinan nyocogkeun anu lemah-lembut. Pilih 2 nepi ka 6 poto dina alat anjeun; tetep dina browser sarta teu pernah diunggah.",
+    "short": "Pilih poto anjeun sorangan sarta cocogkeun. Teu aya anu diunggah.",
+    "players": "2 urang, gigireun-gigireun",
+    "intro": "Pilih dua nepi ka genep poto tina telepon, tablét atanapi komputer anjeun, sarta éta jadi kaulinan nyocogkeun kalayan gambar ageung sareng kaciri. Poto ditémbongkeun ngan dina kaca ieu. Teu diunggah, disimpen atanapi dibagikeun, sarta ilang nalika anjeun nutup kaca.",
+    "howTo": [
+      "Pencét “Pilih poto” sarta pilih dua nepi ka genep poto.",
+      "Unggal poto muncul dua kali. Pencét hiji, terus pencét pasanganana.",
+      "Obrolkeun unggal poto bari anjeun mendakanana.",
+      "Upami parantos réngsé, tutup kaca atanapi pencét “Bersihkeun poto”. Teu aya anu disimpen."
+    ],
+    "tips": [
+      "Pilih poto jelas ngeunaan hal anu bagja sareng wawuh: sato piaraan, kebon, tempat karesep, poé kawinan.",
+      "Gambar tempat sareng barang bisa leuwih gampang tibatan raray, sarta nyingkahan tekanan pikeun nyebatkeun ngaran jalma.",
+      "Tinggalkeun poto jalma anu parantos pupus upami éta bisa mawa kasedih ngadadak, kajaba anjeun terang éta mawa katengtreman."
+    ],
+    "faq": [
+      {
+        "q": "Naha poto abdi diunggah ka mana waé?",
+        "a": "Henteu. Kaca maca poto anu anjeun pilih langsung dina browser anjeun sarta nunjukkeunana dina layar anjeun. Éta teu dikirim ka kami atanapi ka saha waé, sarta ilang nalika anjeun nutup atanapi muat deui kaca."
+      },
+      {
+        "q": "Naha aya waktu atanapi skor?",
+        "a": "Henteu. Teu aya jam, skor, itungan léngkah atanapi eleh. Anjeun tiasa eureun iraha waé, sarta eureun satengah jalan téh cara anu saé pikeun réngsé."
+      },
+      {
+        "q": "Naha abdi tiasa nyimpen kaulinan kanggo waktos salajengna?",
+        "a": "Henteu dina browser, kalayan sengaja, supados teu aya anu pribadi disimpen. Aplikasi Golden Moments gratis kanggo iPhone sareng iPad tiasa nyimpen salinan poto anu dipilih dina alat anjeun."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bingo gambar",
+    "seoTitle": "Bingo Gambar kanggo Sepuh anu Gaduh Demensia: Cetak",
+    "h1": "Bingo Gambar kanggo Kelompok",
+    "description": "Bingo gambar gratis anu tiasa dicitak kanggo perawatan ingetan sareng kelompok sepuh, kalayan pamaca layar ageung. Gambar ageung, 9 atanapi 16 kotak.",
+    "short": "Kartu bingo gambar anu tiasa dicitak sareng pamaca layar ageung kanggo kelompok.",
+    "players": "Hiji kelompok 2 nepi ka 30",
+    "intro": "Bingo klasik kalayan gambar gaganti angka, jadi teu aya anu kedah maca citakan leutik. Citak set kartu anu unik, terus paké pamaca dina layar kanggo nunjukkeun unggal gambar ageung dina TV, laptop atanapi tablét.",
+    "howTo": [
+      "Pilih 9 atanapi 16 kotak per kartu sareng sabaraha pamaén.",
+      "Pencét “Citak kartu”. Unggal kartu béda.",
+      "Buka pamaca dina layar ageung. Pencét “Gambar salajengna” kanggo nunjukkeun unggal gambar sareng ngaranna.",
+      "Pamaén nutupan gambar anu cocog dina kartuna ku koin, kancing atanapi spidol.",
+      "Saha waé anu ngeusian hiji baris, atanapi sakabéh kartu, meunang tepuk tangan. Teu aya anu eleh dina versi ieu: lajengkeun maén nepi ka sadayana gaduh hiji baris."
+    ],
+    "tips": [
+      "Paké token ageung saperti tutup botol. Kancing leutik bisa hésé dicokot.",
+      "Sebutkeun ngaran gambar sarta carioskeun hiji hal ngeunaanana: “Parahu layar. Saha anu kantos angkat nganggo parahu?”",
+      "Diukkeun jalma anu hésé ningali pangdeukeutna ka layar, sarta pasangkeun pangbantu sareng pamaén anu peryogi.",
+      "Salapan kotak geus cekap kanggo seueur kelompok. Jaga sési sakitar 20 nepi ka 30 menit."
+    ],
+    "faq": [
+      {
+        "q": "Kumaha ngajalankeun bingo gambar di panti?",
+        "a": "Citak hiji kartu per pamaén, pasang pamaca dina layar panggedéna anu aya, sarta sebutkeun gambar lalaunan, nyebatkeun ngaran unggal gambar. Maén nepi ka sadayana gaduh hiji baris, supados teu aya anu katinggaleun."
+      },
+      {
+        "q": "Naha gratis dicitak?",
+        "a": "Muhun. Citak kartu sakumaha anu diperyogikeun, sakumaha sering anjeun hoyong, kanggo pamakéan pribadi atanapi kelompok."
+      },
+      {
+        "q": "Naha jalma tiasa maén tanpa maca?",
+        "a": "Tiasa. Unggal kotak téh gambar ageung, kalayan ngaranna di handapna kanggo anu resep kecap."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Napas tenang",
+    "seoTitle": "Réhat Napas Tenang kanggo Sepuh sareng Anu Ngarawat",
+    "h1": "Réhat Napas Tenang",
+    "description": "Réhat napas anu lalaunan sareng tenang pikeun dibagikeun: bunderan lemes ngagedé sareng ngaleutikan salami genep napas. Tiasa eureun iraha waé.",
+    "short": "Bunderan lalaunan kanggo napas babarengan. Mimitian sareng eureun nalika anjeun hoyong.",
+    "players": "1 atanapi 2 urang",
+    "intro": "Kadang kagiatan pangsaéna téh réhat anu sepi. Pencét “Mimitian”, terus ngarénghap nalika bunderan ngagedé sarta ngémbuskeun nalika ngaleutik. Pilih laju anu langkung laun atanapi langkung gancang. Éta lain perawatan, ukur waktos anu damai pikeun dibagikeun.",
+    "howTo": [
+      "Diuk kalayan nyaman gigireun-gigireun.",
+      "Pilih laju: laun atanapi lemah-lembut.",
+      "Pencét “Mimitian”. Ngarénghap bari bunderan ngagedé, sarta ngémbuskeun bari ngaleutik.",
+      "Eureun sorangan sanggeus genep napas, atanapi pencét “Eureun” iraha waé anjeun hoyong."
+    ],
+    "tips": [
+      "Cekelan leungeun atanapi simpen leungeun dina panangan jalma éta upami dipikaresep.",
+      "Ulah maksa. Upami anjeunna langkung resep ningali, teu nanaon.",
+      "Upami aya anu gaduh masalah napas, ngarénghap sacara normal sarta ukur nonton bunderan. Tanyakeun ka dokter ngeunaan kahariwangan napas naon waé."
+    ],
+    "faq": [
+      {
+        "q": "Naha ieu latihan napas médis?",
+        "a": "Lain. Éta réhat basajan, pilihan, kanggo katenangan sareng kabarengan. Éta lain perawatan pikeun kahariwang atanapi kaayaan naon waé. Rembugan sareng dokter ngeunaan kahariwangan kaséhatan."
+      },
+      {
+        "q": "Naha bunderan obah tanpa abdi mimitian?",
+        "a": "Henteu. Teu aya anu obah nepi ka anjeun mencét Mimitian, sarta eureun sanggeus genep napas atanapi nalika anjeun mencét Eureun. Upami alat anjeun disetél pikeun ngurangan gerak, kecap robah tanpa bunderan ngagedé."
+      },
+      {
+        "q": "Naha gratis, sarta naha kedah daftar?",
+        "a": "Muhun, gratis, sarta teu aya akun, daptar atanapi undeuran. Jalan dina browser wéb dina telepon, tablét atanapi komputer."
+      }
+    ]
+  }
+}

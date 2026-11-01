@@ -80,7 +80,7 @@ export const NO_LETTER_GRID: readonly string[] = ['zh-Hans', 'zh-Hant', 'ja', 'k
  * dementia, so the game is omitted instead (no page, card or hreflang) until a
  * native speaker adds real ones and removes the language from this list.
  */
-export const NO_SAYINGS_GAME: readonly string[] = ['ha', 'fil', 'pa', 'ne', 'az', 'kn', 'am', 'my', 'uz', 'or', 'as', 'ps', 'yo', 'ig', 'zu', 'so', 'om'];
+export const NO_SAYINGS_GAME: readonly string[] = ['ha', 'fil', 'pa', 'ne', 'az', 'kn', 'am', 'my', 'uz', 'or', 'as', 'ps', 'yo', 'ig', 'zu', 'so', 'om', 'su', 'sd'];
 
 /** `ui` sections every game uses (the frame and picture tiles). */
 export const SHARED_UI: readonly (keyof PlayUi)[] = ['frame', 'tile'];

@@ -1,0 +1,856 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Kaulinan",
+      "restart": "Mimitian deui",
+      "soundOn": "Sora lemes hurung",
+      "soundOff": "Sora lemes pareum",
+      "done": "Cekap heula",
+      "feedbackQuestion": "Naha ieu mantuan ayeuna?",
+      "feedbackYes": "Muhun",
+      "feedbackNo": "Teu pati",
+      "feedbackThanks": "Hatur nuhun parantos nyarioskeun."
+    },
+    "tile": {
+      "named": "{name}, kotak {n}",
+      "hidden": "Gambar disumputkeun, kotak {n}",
+      "withState": "{label}, {state}",
+      "matched": "Cocog",
+      "selected": "Dipilih",
+      "picture": "Gambar",
+      "photoNumber": "Poto {n}"
+    },
+    "pairs": {
+      "allTogether": "Sadaya pasangan parantos kumpul. Maén deui atanapi istirahat heula.",
+      "photoPair": "Sapasang poto, babarengan.",
+      "picturePair": "Dua gambar {name|lower}, babarengan.",
+      "selected": "{name}. Ayeuna néangan pasanganana.",
+      "mismatch": "Lalaunan wae. Pencét gambar kanggo neraskeun.",
+      "mismatchNamed": "{a} sareng {b}. Lalaunan wae. Pencét gambar kanggo neraskeun."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Pencét hiji gambar, terus pencét anu cocog sareng éta.",
+      "guidanceHidden": "Pencét dua kotak kanggo dibalikkeun. Néangan dua anu sarua.",
+      "restart": "Gambar anyar",
+      "sizeLegend": "Sabaraha kotak",
+      "size": {
+        "one": "{n} kotak",
+        "other": "{n} kotak"
+      },
+      "viewLegend": "Kumaha maénna",
+      "viewShowing": "Gambar kaciri",
+      "viewHidden": "Gambar disumputkeun",
+      "playAgain": "Maén deui ku gambar anyar",
+      "talk": "Obrolkeun gambar babarengan"
+    },
+    "choose": {
+      "countLegend": "Sabaraha gambar",
+      "count": "{n} kanggo dipilih",
+      "thatOne": "Éta {name|lower}. Lalaunan wae."
+    },
+    "findTheSame": {
+      "guidance": "Tingali gambar di luhur. Pencét anu sarua di handap.",
+      "yes": "Muhun, {name|lower} anu sarua.",
+      "next": "Gambar salajengna"
+    },
+    "shadowMatch": {
+      "guidance": "Tingali kalangkang di luhur. Pencét gambar anu nyieun éta.",
+      "yes": "Muhun, {name|lower} nyieun kalangkang éta.",
+      "next": "Kalangkang salajengna",
+      "shadowAlt": "Kalangkang kanggo dicocogkeun",
+      "foundAlt": "Kalangkang {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Pencét hiji gambar, terus pencét karanjang tempatna.",
+      "restart": "Gambar anyar",
+      "themeLegend": "Téma",
+      "selected": "{name}. Ayeuna pencét karanjang tempatna.",
+      "pickFirst": "Pencét hiji gambar heula, terus pencét karanjang.",
+      "hint": "{name|lower} bisa lebet kana \"{basket}\". Pencét karanjang éta kanggo nempatkeunana di dinya.",
+      "placed": "{name|lower} aya dina \"{basket}\".",
+      "sorted": "Sadayana parantos digolongkeun. Tingali karanjang-karanjangna babarengan, atanapi cobian téma séjén.",
+      "basket": {
+        "one": "Karanjang {basket}, {count} gambar di jerona",
+        "other": "Karanjang {basket}, {count} gambar di jerona"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Pencét hiji potongan, terus pencét anu séjén. Aranjeunna tukeran tempat.",
+      "restart": "Acak deui",
+      "pictureLegend": "Gambar",
+      "pictures": {
+        "sailboat": "Parahu layar",
+        "house": "Imah",
+        "balloon": "Balon",
+        "sunflower": "Kembang panonpoé",
+        "lighthouse": "Mercusuar",
+        "cat": "Ucing"
+      },
+      "sizeLegend": "Potongan",
+      "size": {
+        "one": "{n} potongan",
+        "other": "{n} potongan"
+      },
+      "pickedUp": "Potongan dicandak. Ayeuna pencét tempat anu dituju.",
+      "whole": "{name|lower} parantos lengkep deui. Pilih gambar séjén iraha waé anjeun hoyong.",
+      "swapped": {
+        "one": "Tukeran. {correct} ti {total} potongan aya di tempatna.",
+        "other": "Tukeran. {correct} ti {total} potongan aya di tempatna."
+      },
+      "guideAlt": "Gambar sakabéhna: {name}",
+      "guideText": "Ieu rupa gambar upami parantos lengkep.",
+      "piece": "Potongan di {place}",
+      "pieceInPlace": ", di tempat anu bener",
+      "piecePickedUp": ", dicandak",
+      "places4": [
+        "luhur kénca",
+        "luhur katuhu",
+        "handap kénca",
+        "handap katuhu"
+      ],
+      "places9": [
+        "luhur kénca",
+        "luhur tengah",
+        "luhur katuhu",
+        "tengah kénca",
+        "tengah",
+        "tengah katuhu",
+        "handap kénca",
+        "handap tengah",
+        "handap katuhu"
+      ],
+      "done": "Gambarna parantos lengkep deui. Maén deui atanapi istirahat heula.",
+      "playAgain": "Acak deui"
+    },
+    "finishTheSaying": {
+      "guidance": "Baca paribasa babarengan, terus pencét kecap anu ngalengkepanana.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Muhun, “{start} {end}.”",
+      "otherEnding": "“{word}” ogé tiasa. Paribasa anu biasa tungtungna “{end}”.",
+      "revealed": "Paribasana: “{start} {end}.”",
+      "choicesLabel": "Pilih kecap pamungkas",
+      "show": "Témbongkeun tungtunganana",
+      "talk": "Hayu ngobrol: ",
+      "next": "Paribasa salajengna"
+    },
+    "wordSearch": {
+      "guidance": "Kecap ngajajar ka gigir atanapi ka handap. Pencét aksara kahiji tina kecap, terus aksara pamungkasna.",
+      "restart": "Teka-teki anyar",
+      "themeLegend": "Téma",
+      "sizeLegend": "Ukuran kotak",
+      "size": {
+        "one": "{n} kali {n} ({words} kecap)",
+        "other": "{n} kali {n} ({words} kecap)"
+      },
+      "print": "Citak teka-teki ieu",
+      "letterChosen": "Aksara {letter} dipilih. Ayeuna pencét aksara pamungkas tina kecap.",
+      "found": "{word} kapanggih.",
+      "foundAll": "{word} kapanggih. Éta sadaya kecap. Maén deui atanapi istirahat heula.",
+      "tryAgain": "Lalaunan wae. Pencét aksara kahiji tina kecap, terus aksara pamungkasna.",
+      "gridLabel": "Kotak aksara, {n} baris {n} aksara. Paké kenop panah kanggo pindah antara aksara.",
+      "cell": "{letter}, baris {row}, kolom {col}",
+      "cellFound": ", bagian tina kecap anu kapanggih",
+      "wordsHeading": "Kecap anu kedah kapanggih",
+      "wordFound": " (kapanggih)",
+      "sheetTitle": "Néangan kecap: {theme}",
+      "sheetNote": "Kecap ngajajar ka gigir atanapi ka handap.",
+      "unavailable": "Kotak aksara teu cocog kanggo basa ieu, jadi néangan kecap teu ditawarkeun di dieu. Cobian kaulinan gambar."
+    },
+    "coloring": {
+      "guidance": "Pencét warna, terus pencét bagian gambar.",
+      "restart": "Bersihkeun warna",
+      "cleared": "Kacana kosong deui.",
+      "pageLegend": "Kaca",
+      "print": "Citak kaca ieu",
+      "colorsLabel": "Warna",
+      "paintChosen": "{paint} dipilih.",
+      "painted": "{part} ayeuna {paint|lower}.",
+      "artLabel": "{page}, {count} bagian kanggo diwarnaan",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, can diwarnaan",
+      "paints": {
+        "red": "Beureum",
+        "orange": "Jingga",
+        "yellow": "Konéng",
+        "green": "Héjo",
+        "blue": "Biru",
+        "purple": "Wungu",
+        "pink": "Pink",
+        "brown": "Coklat",
+        "sky-blue": "Biru langit",
+        "cream": "Krim",
+        "gray": "Kulawu",
+        "white": "Bodas"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Baca kartu kalayan sora. Teu aya wangsulan anu bener.",
+      "position": "Kartu {n} ti {total}",
+      "themeLegend": "Téma",
+      "next": "Kartu salajengna",
+      "previous": "Kartu samemehna",
+      "print": "Citak sadaya kartu",
+      "sheetTitle": "Kartu obrolan"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Mimitian ku milih poto anjeun.",
+      "guidance": "Pencét hiji poto, terus pencét anu cocog sareng éta.",
+      "restart": "Acak deui",
+      "intro": "**Pilih 2 nepi ka 6 poto** tina alat ieu. Éta ditémbongkeun ngan dina kaca ieu sarta teu pernah diunggah atanapi disimpen.",
+      "choose": "Pilih poto",
+      "chooseDifferent": "Pilih poto séjén",
+      "clear": "Bersihkeun poto",
+      "cleared": "Poto dibersihkeun tina kaca ieu.",
+      "atLeastTwo": "Mangga pilih sahanteuna dua poto.",
+      "usingFirst": "Maké {max} poto anu kahiji.",
+      "skipped": {
+        "one": "{count} file lain poto anu tiasa kami témbongkeun.",
+        "other": "{count} file lain poto anu tiasa kami témbongkeun."
+      },
+      "playAgain": "Maén deui ku poto ieu",
+      "empty": "Poto anjeun bakal muncul di dieu, unggal poto dua kali."
+    },
+    "pictureBingo": {
+      "guidance": "Citak kartu heula. Terus témbongkeun pamaca ieu dina layar panggedéna anu anjeun gaduh.",
+      "called": {
+        "one": "{name}. {called} ti {total} gambar parantos disebatkeun.",
+        "other": "{name}. {called} ti {total} gambar parantos disebatkeun."
+      },
+      "start": "Pencét \"Gambar salajengna\" kanggo nyebatkeun gambar kahiji.",
+      "restart": "Mimitian kaulinan anyar",
+      "squaresLegend": "Kotak dina unggal kartu",
+      "squares": "{n} kotak ({side} kali {side})",
+      "cardsLegend": "Sabaraha kartu anu dicitak",
+      "cards": {
+        "one": "{n} kartu",
+        "other": "{n} kartu"
+      },
+      "print": {
+        "one": "Citak {n} kartu bingo",
+        "other": "Citak {n} kartu bingo"
+      },
+      "ready": "Siap iraha waé anjeun siap",
+      "next": "Gambar salajengna",
+      "allCalled": "Unggal gambar parantos disebatkeun",
+      "alreadyCalled": "Parantos disebatkeun",
+      "sheetTitle": "Bingo gambar · kartu {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Ngarénghap nalika bunderan ngagedé, sarta ngémbuskeun nalika ngaleutik. Eureun sorangan sanggeus genep napas.",
+      "paceLegend": "Laju",
+      "paceSlow": "Laun (5 detik unggal arah)",
+      "paceGentle": "Lemah-lembut (4 detik unggal arah)",
+      "ready": "Siap iraha waé anjeun siap",
+      "in": "Ngarénghap",
+      "hold": "Réhat",
+      "out": "Ngémbuskeun",
+      "start": "Mimitian",
+      "stop": "Eureun",
+      "started": "Dimimitian. Ngarénghap bari bunderan ngagedé.",
+      "stopped": "Eureun.",
+      "finished": "Éta genep napas anu laun. Mimitian deui iraha waé anjeun hoyong."
+    }
+  },
+  "pictures": {
+    "teacup": "Cangkir teh",
+    "kettle": "Céret",
+    "bread": "Roti",
+    "frying-pan": "Wajan kalayan endog",
+    "cake": "Kuéh ulang taun",
+    "sunflower": "Kembang panonpoé",
+    "tulip": "Tulip beureum",
+    "watering-can": "Kaléng panyiram",
+    "potted-plant": "Tutuwuhan dina pot",
+    "tree": "Tangkal",
+    "bird": "Manuk dina dahan",
+    "butterfly": "Kukupu",
+    "dog": "Anjing",
+    "cat": "Ucing",
+    "fish": "Lauk mas",
+    "apple": "Apel beureum",
+    "pear": "Pir",
+    "strawberry": "Stroberi",
+    "banana": "Cau",
+    "lemon": "Lemon",
+    "cherries": "Céri",
+    "house": "Imah",
+    "lamp": "Lampu méja",
+    "armchair": "Korsi empuk",
+    "key": "Konci kuno",
+    "umbrella": "Payung",
+    "sailboat": "Parahu layar",
+    "car": "Mobil klasik",
+    "bicycle": "Sapéda",
+    "balloon": "Balon hawa panas",
+    "lighthouse": "Mercusuar",
+    "sun": "Panonpoé",
+    "moon": "Bulan jeung béntang"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "Ka cai jadi saleuwi, ka darat jadi",
+        "end": "salabuhan",
+        "others": [
+          "salembur",
+          "sakampung"
+        ],
+        "prompt": "Carioskeun hiji waktos nalika kulawarga atanapi tatangga ngariung babarengan."
+      },
+      {
+        "start": "Bengkung ngariung bongkok",
+        "end": "ngaronyok",
+        "others": [
+          "ngarumpul",
+          "ngadeukeut"
+        ],
+        "prompt": "Saha anu biasana ngariung babarengan sareng anjeun?"
+      },
+      {
+        "start": "Cikaracak ninggang batu, laun-laun jadi",
+        "end": "legok",
+        "others": [
+          "lemes",
+          "hérang"
+        ],
+        "prompt": "Naon hiji hal anu anjeun lakukeun sabar-sabar nepi ka hasil?"
+      },
+      {
+        "start": "Leuleus jeujeur",
+        "end": "liat tali",
+        "others": [
+          "panjang tali",
+          "kandel kulit"
+        ],
+        "prompt": "Naha anjeun resep mancing atanapi ngala lauk di walungan?"
+      },
+      {
+        "start": "Pondok jodo panjang",
+        "end": "baraya",
+        "others": [
+          "umur",
+          "lalakon"
+        ],
+        "prompt": "Carioskeun ngeunaan baraya anu anjeun resep ngariung sareng."
+      },
+      {
+        "start": "Manuk hiber ku jangjangna, jalma hirup ku",
+        "end": "akalna",
+        "others": [
+          "ramana",
+          "kanyaahna"
+        ],
+        "prompt": "Naon hiji kaparigelan anu anjeun resep?"
+      },
+      {
+        "start": "Silih asah, silih asih, silih",
+        "end": "asuh",
+        "others": [
+          "tulung",
+          "sayang"
+        ],
+        "prompt": "Saha anu kantos silih tulungan sareng anjeun?"
+      },
+      {
+        "start": "Gunung teu meunang dilebur, lebak teu meunang",
+        "end": "diruksak",
+        "others": [
+          "dipindahkeun",
+          "dijual"
+        ],
+        "prompt": "Tempat alam anu mana anu anjeun resep?"
+      },
+      {
+        "start": "Datang katingal tarang, undur katingal",
+        "end": "punduk",
+        "others": [
+          "tonggong",
+          "suku"
+        ],
+        "prompt": "Kumaha anjeun biasana nampi tamu anu datang ka imah?"
+      },
+      {
+        "start": "Jati kasilih ku",
+        "end": "junti",
+        "others": [
+          "kayu",
+          "batu"
+        ],
+        "prompt": "Naon barang tina kayu anu anjeun resep di imah?"
+      },
+      {
+        "start": "Hade gogog hade",
+        "end": "tagog",
+        "others": [
+          "rupa",
+          "laku"
+        ],
+        "prompt": "Naon anu anjeun resep tina cara jalma nyambut tamu?"
+      },
+      {
+        "start": "Hade ku omong goreng ku",
+        "end": "omong",
+        "others": [
+          "laku",
+          "pagawéan"
+        ],
+        "prompt": "Naon omongan anu pangnyamanna anu kantos anjeun tampi?"
+      },
+      {
+        "start": "Tungkul ka jukut, tanggah ka",
+        "end": "sadapan",
+        "others": [
+          "langit",
+          "gunung"
+        ],
+        "prompt": "Carioskeun ngeunaan hiji jalma anu andap asor anu anjeun kenal."
+      },
+      {
+        "start": "Sareundeuk saigel, sabobot sapihanéan, sabata",
+        "end": "sarimbagan",
+        "others": [
+          "sarimbitan",
+          "sabaraya"
+        ],
+        "prompt": "Pagawéan naon anu bungah dilakukeun babarengan?"
+      },
+      {
+        "start": "Pindah cai pindah",
+        "end": "tampian",
+        "others": [
+          "wawangi",
+          "lembur"
+        ],
+        "prompt": "Carioskeun hiji tempat anyar anu karasa betah keur anjeun."
+      }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEGHIKLMNOPRSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Buah",
+          "words": [
+            "CAU",
+            "GEDANG",
+            "MANGGA",
+            "NANGKA",
+            "JERUK",
+            "NANAS",
+            "JAMBU",
+            "SALAK",
+            "DUKU"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Kebon",
+          "words": [
+            "DAUN",
+            "TANAH",
+            "JUKUT",
+            "BALONG",
+            "BINIH",
+            "AKAR",
+            "CAI",
+            "PARE",
+            "MAWAR"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Dapur",
+          "words": [
+            "GELAS",
+            "PIRING",
+            "SENDOK",
+            "GARPU",
+            "WAJAN",
+            "SANGU",
+            "HAWU",
+            "TEH",
+            "BOBOKO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Cuaca",
+          "words": [
+            "HUJAN",
+            "ANGIN",
+            "PANAS",
+            "MEGA",
+            "TIIS",
+            "CAANG",
+            "KILAT",
+            "GUNTUR",
+            "SURUP"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Sato",
+          "words": [
+            "ANJING",
+            "UCING",
+            "MANUK",
+            "LAUK",
+            "KUDA",
+            "SAPI",
+            "MERI",
+            "EMBE",
+            "HAYAM"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Imah",
+          "words": [
+            "LAWANG",
+            "KORSI",
+            "LAMPU",
+            "KASUR",
+            "MEJA",
+            "KUNCI",
+            "JAM",
+            "TIKAR",
+            "LOMARI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kabéh kartu",
+        "food": "Dahareun",
+        "home": "Imah",
+        "outdoors": "Di luar",
+        "animals": "Sato",
+        "travel": "Iinditan",
+        "work": "Gawé jeung hobi",
+        "music": "Musik jeung kaulinan",
+        "seasons": "Mangsa"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Bau naon anu paling anjeun resep ti dapur?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Kuéh naon anu anjeun pilih kanggo acara syukuran?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Carioskeun ngeunaan buah atanapi jajanan amis karesep anjeun."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Kumaha anjeun resep teh atanapi kopi?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Naon anu ngajadikeun sarapan anu ngeunah?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Naha anjeun kantos metik buah langsung tina tangkalna?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Amis atanapi haseum: mana anu langkung anjeun resep?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Dahareun naon anu ngingetkeun anjeun kana waktos anu bagja?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Carioskeun ngeunaan imah anu anjeun resep cicing di dinya."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Di mana tempat karesep anjeun pikeun diuk sareng istirahat?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Naon anu anjeun resep dilakukeun dina peuting anu sepi?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Naon harta anu anjeun bakal simpen dina kotak husus?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Saha anu bakal anjeun uleman kanggo ngopi atanapi ngateh?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Naon anu anjeun resep dilakukeun dina poé hujan?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Kembang naon anu bakal anjeun tandur di kebon?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Carioskeun ngeunaan tangkal atanapi taman anu anjeun resep."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Naon bagian pangsaéna nalika aya di kebon?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Kembang warna naon anu paling anjeun resep?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Naha anjeun resep gaduh tutuwuhan di imah?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Kumaha poé caang anu sampurna dina pikiran anjeun?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Carioskeun ngeunaan anjing anu anjeun kenal."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Ucing atanapi anjing, atanapi sanés kadua-duana? Naon anu anjeun resep ngeunaan éta?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Manuk naon anu anjeun tingali atanapi déngé di luar?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Naha anjeun kantos mancing, atanapi miara lauk?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Sato naon anu pangéndahna anu kantos anjeun tingali?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Carioskeun ngeunaan mobil anu anjeun resep."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Anjeun langkung resep sapoé di pantai atanapi di gunung?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Ka mana anjeun hoyong angkat naék sapéda?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Upami anjeun tiasa hiber ngaliwatan tempat mana waé, di mana éta?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Perjalanan naon anu anjeun nikmati?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Pagawéan naon anu anjeun resep dilakukeun?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Hobi naon anu tiasa anjeun lakukeun nepi ka sababaraha jam?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Naon anu sering dipénta ka anjeun pikeun dijieun atanapi dilereskeun?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Naon pitutur anu anjeun bakal bikeun ka jalma ngora anu mimiti gawé?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Musik naon anu matak anjeun hoyong ngagoyangkeun suku?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Naon anu ngajadikeun pésta anu saé?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Saha panyanyi anu anjeun resep ngadéngékeunana?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Pilem atanapi acara TV naon anu anjeun resep ditonton deui?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Naon anu anjeun resep ngeunaan usum halodo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Naon anu anjeun resep ngeunaan usum hujan?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Naon anu nyaman dilakukeun dina peuting anu tiis?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Naon tanda kembang mimiti mekar keur anjeun?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Hujan atanapi panonpoé: mana anu langkung anjeun resep?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Kembang dina pot",
+          "regions": {
+            "sky": "Latar",
+            "table": "Méja",
+            "stem": "Tangkal",
+            "leaf-left": "Daun kénca",
+            "leaf-right": "Daun katuhu",
+            "center": "Tengah kembang",
+            "pot": "Pot",
+            "pot-rim": "Bibir pot",
+            "petal-1": "Kelopak 1",
+            "petal-2": "Kelopak 2",
+            "petal-3": "Kelopak 3",
+            "petal-4": "Kelopak 4",
+            "petal-5": "Kelopak 5",
+            "petal-6": "Kelopak 6",
+            "petal-7": "Kelopak 7",
+            "petal-8": "Kelopak 8"
+          }
+        },
+        "house": {
+          "name": "Imah",
+          "regions": {
+            "sky": "Langit",
+            "sun": "Panonpoé",
+            "grass": "Jukut",
+            "chimney": "Cerobong",
+            "walls": "Témbok",
+            "roof": "Hateup",
+            "door": "Lawang",
+            "window-left": "Jandéla kénca",
+            "window-right": "Jandéla katuhu",
+            "path": "Jalan satapak"
+          }
+        },
+        "teacup": {
+          "name": "Cangkir teh",
+          "regions": {
+            "background": "Latar",
+            "saucer": "Lepek",
+            "handle": "Gagang",
+            "cup": "Cangkir",
+            "band": "Garis dina cangkir",
+            "tea": "Teh"
+          }
+        },
+        "butterfly": {
+          "name": "Kukupu",
+          "regions": {
+            "background": "Latar",
+            "wing-top-left": "Jangjang luhur kénca",
+            "wing-top-right": "Jangjang luhur katuhu",
+            "wing-bottom-left": "Jangjang handap kénca",
+            "wing-bottom-right": "Jangjang handap katuhu",
+            "spot-left": "Bintik jangjang kénca",
+            "spot-right": "Bintik jangjang katuhu",
+            "body": "Awak"
+          }
+        },
+        "sailboat": {
+          "name": "Parahu layar",
+          "regions": {
+            "sky": "Langit",
+            "sea": "Sagara",
+            "sail-big": "Layar gedé",
+            "sail-small": "Layar leutik",
+            "mast": "Tihang",
+            "hull": "Parahu",
+            "flag": "Bandéra"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Dapur jeung kebon",
+          "baskets": [
+            "Di dapur",
+            "Di kebon"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Buah jeung sato",
+          "baskets": [
+            "Buah",
+            "Sato"
+          ]
+        },
+        "home-travel": {
+          "label": "Imah jeung iinditan",
+          "baskets": [
+            "Di imah",
+            "Di luar"
+          ]
+        }
+      }
+    }
+  }
+}

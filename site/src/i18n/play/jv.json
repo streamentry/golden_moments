@@ -1,0 +1,991 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Dolanan",
+      "restart": "Wiwiti malih",
+      "soundOn": "Swanten alus dipunuripaken",
+      "soundOff": "Swanten alus dipunpateni",
+      "done": "Cekap rumiyin",
+      "feedbackQuestion": "Punapa menika mbiyantu dinten menika?",
+      "feedbackYes": "Inggih",
+      "feedbackNo": "Boten sanget",
+      "feedbackThanks": "Matur nuwun sampun maringi pirsa."
+    },
+    "tile": {
+      "named": "{name}, kothak {n}",
+      "hidden": "Gambar dipunndhelikaken, kothak {n}",
+      "withState": "{label}, {state}",
+      "matched": "Sampun sami",
+      "selected": "Dipunpilih",
+      "picture": "Gambar",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Sedaya pasangan sampun sesarengan. Dolanan malih utawi ngaso rumiyin.",
+      "photoPair": "Sapasang foto, sesarengan.",
+      "picturePair": "Kalih gambar {name|lower}, sesarengan.",
+      "selected": "{name}. Sapunika padosi pasanganipun.",
+      "mismatch": "Mangga alon-alon. Pencet satunggal gambar kangge nglajengaken.",
+      "mismatchNamed": "{a} lan {b}. Mangga alon-alon. Pencet satunggal gambar kangge nglajengaken."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Pencet satunggal gambar, lajeng pencet ingkang sami.",
+      "guidanceHidden": "Pencet kalih kothak kangge dipunwuka. Pados kalih ingkang sami.",
+      "restart": "Gambar énggal",
+      "sizeLegend": "Pinten kothak",
+      "size": {
+        "other": "{n} kothak"
+      },
+      "viewLegend": "Cara dolanan",
+      "viewShowing": "Gambar katingal",
+      "viewHidden": "Gambar dipunndhelikaken",
+      "playAgain": "Dolanan malih kaliyan gambar énggal",
+      "talk": "Rembagan bab gambar sesarengan"
+    },
+    "choose": {
+      "countLegend": "Pinten gambar",
+      "count": "{n} kangge dipunpilih",
+      "thatOne": "Menika {name|lower}. Mangga alon-alon."
+    },
+    "findTheSame": {
+      "guidance": "Mirsani gambar ing nginggil. Pencet ingkang sami ing ngandhap.",
+      "yes": "Inggih, {name|lower} ingkang sami.",
+      "next": "Gambar candhakipun"
+    },
+    "shadowMatch": {
+      "guidance": "Mirsani kalangan ing nginggil. Pencet gambar ingkang damel kalangan menika.",
+      "yes": "Inggih, {name|lower} ingkang damel kalangan menika.",
+      "next": "Kalangan candhakipun",
+      "shadowAlt": "Kalangan kangge dipuncocogaken",
+      "foundAlt": "Kalangan saking {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Pencet satunggal gambar, lajeng pencet kranjang panggenanipun.",
+      "restart": "Gambar énggal",
+      "themeLegend": "Tema",
+      "selected": "{name}. Sapunika pencet kranjang panggenanipun.",
+      "pickFirst": "Pencet gambar rumiyin, lajeng pencet kranjang.",
+      "hint": "{name|lower} saged lebet wonten \"{basket}\". Pencet kranjang menika kangge nyelehaken wonten ngriku.",
+      "placed": "{name|lower} wonten \"{basket}\".",
+      "sorted": "Sedaya sampun kapilah. Mirsani kranjang-kranjang sesarengan, utawi cobi tema sanes.",
+      "basket": {
+        "other": "Kranjang {basket}, {count} gambar wonten salebetipun"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Pencet satunggal potongan, lajeng pencet sanes. Potongan menika gantos panggenan.",
+      "restart": "Campur malih",
+      "pictureLegend": "Gambar",
+      "pictures": {
+        "sailboat": "Prau layar",
+        "house": "Griya",
+        "balloon": "Balon",
+        "sunflower": "Kembang srengéngé",
+        "lighthouse": "Mercusuar",
+        "cat": "Kucing"
+      },
+      "sizeLegend": "Potongan",
+      "size": {
+        "other": "{n} potongan"
+      },
+      "pickedUp": "Potongan sampun dipunpilih. Sapunika pencet panggenanipun.",
+      "whole": "{name|lower} sampun jangkep malih. Pilih gambar sanes kapan kemawon.",
+      "swapped": {
+        "other": "Sampun gantos. {correct} saking {total} potongan sampun wonten panggenanipun."
+      },
+      "guideAlt": "Gambar jangkep: {name}",
+      "guideText": "Makaten gambaripun nalika sampun jangkep.",
+      "piece": "Potongan ing {place}",
+      "pieceInPlace": ", wonten panggenan ingkang leres",
+      "piecePickedUp": ", dipunpilih",
+      "places4": [
+        "nginggil kiwa",
+        "nginggil tengen",
+        "ngandhap kiwa",
+        "ngandhap tengen"
+      ],
+      "places9": [
+        "nginggil kiwa",
+        "nginggil tengah",
+        "nginggil tengen",
+        "tengah kiwa",
+        "tengah",
+        "tengah tengen",
+        "ngandhap kiwa",
+        "ngandhap tengah",
+        "ngandhap tengen"
+      ],
+      "done": "Gambaripun sampun jangkep malih. Dolanan malih utawi ngaso rumiyin.",
+      "playAgain": "Campur malih"
+    },
+    "finishTheSaying": {
+      "guidance": "Waosen paribasan sesarengan, lajeng pencet tembung ingkang ngrampungaken.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Inggih, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" inggih saged. Paribasan ingkang limrah dipungantosi \"{end}\".",
+      "revealed": "Paribasanipun \"{start} {end}.\"",
+      "choicesLabel": "Pilih tembung pungkasan",
+      "show": "Tuduhaken pungkasanipun",
+      "talk": "Rembagan bab menika: ",
+      "next": "Paribasan candhakipun"
+    },
+    "wordSearch": {
+      "guidance": "Tembung mlampah ngiwa-nengen utawi mudhun. Pencet aksara kapisan, lajeng aksara pungkasan.",
+      "restart": "Teka-teki énggal",
+      "themeLegend": "Tema",
+      "sizeLegend": "Ukuran kothak",
+      "size": {
+        "other": "{n} kaliyan {n} ({words} tembung)"
+      },
+      "print": "Cithak teka-teki menika",
+      "letterChosen": "Aksara {letter} dipunpilih. Sapunika pencet aksara pungkasan saking tembung menika.",
+      "found": "{word} kapanggih.",
+      "foundAll": "{word} kapanggih. Sedaya tembung sampun kapanggih. Dolanan malih utawi ngaso rumiyin.",
+      "tryAgain": "Mangga alon-alon. Pencet aksara kapisan saking satunggal tembung, lajeng aksara pungkasan.",
+      "gridLabel": "Kothak aksara, {n} baris saking {n} aksara. Mangga ngginakaken tombol panah kangge pindhah antawisipun aksara.",
+      "cell": "{letter}, baris {row}, kolom {col}",
+      "cellFound": ", bagian saking tembung ingkang kapanggih",
+      "wordsHeading": "Tembung ingkang kedah dipunpadosi",
+      "wordFound": " (kapanggih)",
+      "sheetTitle": "Teka-teki tembung: {theme}",
+      "sheetNote": "Tembung mlampah ngiwa-nengen utawi mudhun.",
+      "unavailable": "Kothak aksara boten cocog kangge basa menika, dados teka-teki tembung boten kasadhiyakaken mriki. Cobi dolanan gambar."
+    },
+    "coloring": {
+      "guidance": "Pencet satunggal warni, lajeng pencet satunggal bagian saking gambar.",
+      "restart": "Resiki warni",
+      "cleared": "Kacanipun sampun kosong malih.",
+      "pageLegend": "Kaca",
+      "print": "Cithak kaca menika",
+      "colorsLabel": "Warni",
+      "paintChosen": "{paint} dipunpilih.",
+      "painted": "{part} sapunika {paint|lower}.",
+      "artLabel": "{page}, {count} bagian kangge dipunwarnani",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, dereng dipunwarnani",
+      "paints": {
+        "red": "Abrit",
+        "orange": "Oranye",
+        "yellow": "Kuning",
+        "green": "Ijem",
+        "blue": "Biru",
+        "purple": "Wungu",
+        "pink": "Jambon",
+        "brown": "Coklat",
+        "sky-blue": "Biru langit",
+        "cream": "Krim",
+        "gray": "Kelabu",
+        "white": "Putih"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Waosen kertu menika kanthi swanten. Boten wonten wangsulan ingkang lepat.",
+      "position": "Kertu {n} saking {total}",
+      "themeLegend": "Tema",
+      "next": "Kertu candhakipun",
+      "previous": "Kertu sakderengipun",
+      "print": "Cithak sedaya kertu",
+      "sheetTitle": "Kertu rembagan"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Wiwiti kanthi milih foto panjenengan.",
+      "guidance": "Pencet satunggal foto, lajeng pencet ingkang sami.",
+      "restart": "Campur malih",
+      "intro": "**Pilih 2 dumugi 6 foto** saking piranti menika. Foto namung katingal wonten kaca menika lan boten nate dipununggah utawi dipunsimpen.",
+      "choose": "Pilih foto",
+      "chooseDifferent": "Pilih foto sanes",
+      "clear": "Busak foto",
+      "cleared": "Foto sampun dipunbusak saking kaca menika.",
+      "atLeastTwo": "Mangga pilih sekirangipun kalih foto.",
+      "usingFirst": "Ngginakaken {max} foto ingkang kapisan.",
+      "skipped": {
+        "other": "{count} berkas sanes foto ingkang saged dipuntuduhaken."
+      },
+      "playAgain": "Dolanan malih kaliyan foto menika",
+      "empty": "Foto panjenengan badhe katingal mriki, saben-saben kaping kalih."
+    },
+    "pictureBingo": {
+      "guidance": "Cithak kertu rumiyin. Lajeng tuduhaken juru panyeru menika wonten layar ingkang paling ageng.",
+      "called": {
+        "other": "{name}. {called} saking {total} gambar sampun dipunsebataken."
+      },
+      "start": "Pencet \"Gambar candhakipun\" kangge nyebataken gambar kapisan.",
+      "restart": "Wiwiti dolanan énggal",
+      "squaresLegend": "Kothak ing saben kertu",
+      "squares": "{n} kothak ({side} kaliyan {side})",
+      "cardsLegend": "Pinten kertu ingkang badhe dipuncithak",
+      "cards": {
+        "other": "{n} kertu"
+      },
+      "print": {
+        "other": "Cithak {n} kertu bingo"
+      },
+      "ready": "Siyap manawi panjenengan siyap",
+      "next": "Gambar candhakipun",
+      "allCalled": "Sedaya gambar sampun dipunsebataken",
+      "alreadyCalled": "Sampun dipunsebataken",
+      "sheetTitle": "Bingo gambar · kertu {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Tarik napas nalika bunderan ageng, lan ambegan metu nalika bunderan alit. Mandheg piyambak sasampunipun nem napas.",
+      "paceLegend": "Kacepetan",
+      "paceSlow": "Alon (5 detik saben arah)",
+      "paceGentle": "Alus (4 detik saben arah)",
+      "ready": "Siyap manawi panjenengan siyap",
+      "in": "Tarik napas",
+      "hold": "Ngaso",
+      "out": "Ambegan metu",
+      "start": "Wiwiti",
+      "stop": "Mandheg",
+      "started": "Sampun wiwit. Tarik napas nalika bunderan saya ageng.",
+      "stopped": "Sampun mandheg.",
+      "finished": "Menika nem napas ingkang alon. Wiwiti malih kapan kemawon."
+    }
+  },
+  "pictures": {
+    "teacup": "Cangkir teh",
+    "kettle": "Ceret",
+    "bread": "Roti",
+    "frying-pan": "Wajan kaliyan endhog",
+    "cake": "Kue ulang taun",
+    "sunflower": "Kembang srengéngé",
+    "tulip": "Tulip abrit",
+    "watering-can": "Gembor",
+    "potted-plant": "Tanduran ing pot",
+    "tree": "Wit",
+    "bird": "Manuk ing pang wit",
+    "butterfly": "Kupu",
+    "dog": "Asu",
+    "cat": "Kucing",
+    "fish": "Iwak mas",
+    "apple": "Apel abrit",
+    "pear": "Pir",
+    "strawberry": "Stroberi",
+    "banana": "Gedhang",
+    "lemon": "Jeruk lemon",
+    "cherries": "Ceri",
+    "house": "Griya",
+    "lamp": "Lampu meja",
+    "armchair": "Kursi empuk",
+    "key": "Kunci lawas",
+    "umbrella": "Payung",
+    "sailboat": "Prau layar",
+    "car": "Mobil klasik",
+    "bicycle": "Sepédha",
+    "balloon": "Balon hawa panas",
+    "lighthouse": "Mercusuar",
+    "sun": "Srengéngé",
+    "moon": "Rembulan lan lintang"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "Alon-alon waton",
+        "end": "kelakon",
+        "others": [
+          "rampung",
+          "lestari"
+        ],
+        "prompt": "Punapa ingkang panjenengan remeni dipuntindakaken kanthi alon-alon?"
+      },
+      {
+        "start": "Becik ketitik, ala",
+        "end": "ketara",
+        "others": [
+          "kelingan",
+          "kerungu"
+        ],
+        "prompt": "Sinten tiyang ingkang tansah sae dhateng panjenengan?"
+      },
+      {
+        "start": "Ana dina ana",
+        "end": "upa",
+        "others": [
+          "sega",
+          "kembang"
+        ],
+        "prompt": "Dhaharan punapa ingkang paling panjenengan remeni nalika enjing?"
+      },
+      {
+        "start": "Sapa sing nandur bakal",
+        "end": "ngunduh",
+        "others": [
+          "ngombe",
+          "ngrawat"
+        ],
+        "prompt": "Tanduran punapa ingkang panjenengan remeni?"
+      },
+      {
+        "start": "Kacang ora ninggal",
+        "end": "lanjaran",
+        "others": [
+          "kebon",
+          "pager"
+        ],
+        "prompt": "Wonten kabiasaan sae saking kulawarga ingkang panjenengan remeni?"
+      },
+      {
+        "start": "Tuna satak, bati",
+        "end": "sanak",
+        "others": [
+          "kewan",
+          "griya"
+        ],
+        "prompt": "Kulawarga panjenengan remen kempal nalika punapa?"
+      },
+      {
+        "start": "Rukun agawe santosa, crah agawe",
+        "end": "bubrah",
+        "others": [
+          "sepi",
+          "suwe"
+        ],
+        "prompt": "Punapa ingkang dipunlampahi sesarengan kaliyan tanggi?"
+      },
+      {
+        "start": "Ajining dhiri saka lathi, ajining raga saka",
+        "end": "busana",
+        "others": [
+          "dhaharan",
+          "griya"
+        ],
+        "prompt": "Busana punapa ingkang panjenengan remeni?"
+      },
+      {
+        "start": "Witing tresna jalaran saka",
+        "end": "kulina",
+        "others": [
+          "kembang",
+          "swanten"
+        ],
+        "prompt": "Punapa ingkang panjenengan remeni amargi sampun kulina?"
+      },
+      {
+        "start": "Desa mawa cara, negara mawa",
+        "end": "tata",
+        "others": [
+          "kutha",
+          "gunung"
+        ],
+        "prompt": "Panjenengan nate gesang wonten desa? Kados pundi swasananipun?"
+      },
+      {
+        "start": "Jer basuki mawa",
+        "end": "bea",
+        "others": [
+          "wekdal",
+          "kekarepan"
+        ],
+        "prompt": "Punapa ingkang panjenengan remeni dipundamel piyambak?"
+      },
+      {
+        "start": "Sepi ing pamrih, rame ing",
+        "end": "gawe",
+        "others": [
+          "swara",
+          "dalan"
+        ],
+        "prompt": "Pakaryan punapa ingkang panjenengan remeni?"
+      },
+      {
+        "start": "Nrima ing",
+        "end": "pandum",
+        "others": [
+          "griya",
+          "wekdal"
+        ],
+        "prompt": "Punapa ingkang damel panjenengan raos tentrem?"
+      },
+      {
+        "start": "Mangan ora mangan waton",
+        "end": "kumpul",
+        "others": [
+          "wareg",
+          "enak"
+        ],
+        "prompt": "Panjenengan remen kempal kaliyan sinten nalika dhahar?"
+      },
+      {
+        "start": "Mikul dhuwur mendhem",
+        "end": "jero",
+        "others": [
+          "adoh",
+          "dawa"
+        ],
+        "prompt": "Sinten tiyang ingkang panjenengan ajeni?"
+      },
+      {
+        "start": "Urip iku",
+        "end": "urup",
+        "others": [
+          "turu",
+          "mlaku"
+        ],
+        "prompt": "Punapa ingkang damel dinten panjenengan padhang?"
+      },
+      {
+        "start": "Ngunduh wohing",
+        "end": "pakarti",
+        "others": [
+          "kembang",
+          "taman"
+        ],
+        "prompt": "Woh punapa ingkang panjenengan remeni?"
+      },
+      {
+        "start": "Aja nggege",
+        "end": "mangsa",
+        "others": [
+          "wedhus",
+          "dalan"
+        ],
+        "prompt": "Mangsa punapa ingkang paling panjenengan remeni?"
+      },
+      {
+        "start": "Rawe-rawe rantas, malang-malang",
+        "end": "putung",
+        "others": [
+          "dawa",
+          "tukul"
+        ],
+        "prompt": "Punapa ingkang nate panjenengan tindakaken kanthi gigih?"
+      },
+      {
+        "start": "Sadumuk bathuk, sanyari",
+        "end": "bumi",
+        "others": [
+          "banyu",
+          "udan"
+        ],
+        "prompt": "Panggenan punapa ingkang panjenengan remeni?"
+      },
+      {
+        "start": "Wong Jawa nggone",
+        "end": "semu",
+        "others": [
+          "swara",
+          "kembang"
+        ],
+        "prompt": "Punapa ingkang panjenengan remeni saking adat Jawi?"
+      },
+      {
+        "start": "Gemah ripah loh",
+        "end": "jinawi",
+        "others": [
+          "cilik",
+          "dhuwur"
+        ],
+        "prompt": "Kados pundi gambaran panggenan ingkang subur lan sae miturut panjenengan?"
+      },
+      {
+        "start": "Wani ngalah dhuwur",
+        "end": "wekasane",
+        "others": [
+          "pangkate",
+          "adate"
+        ],
+        "prompt": "Kabecikan alit punapa ingkang nate dipunparingaken dhateng panjenengan?"
+      },
+      {
+        "start": "Sing temen bakal",
+        "end": "tinemu",
+        "others": [
+          "tuwuh",
+          "teka"
+        ],
+        "prompt": "Wonten barang ingkang nate panjenengan padosi lan pikantuk?"
+      },
+      {
+        "start": "Guru iku digugu lan",
+        "end": "ditiru",
+        "others": [
+          "disawang",
+          "dirungu"
+        ],
+        "prompt": "Sinten guru utawi tiyang ingkang nate maringi piwulang ingkang migunani?"
+      },
+      {
+        "start": "Ngeli nanging ora",
+        "end": "keli",
+        "others": [
+          "luwe",
+          "mlaku"
+        ],
+        "prompt": "Panjenengan remen wonten cedhak kali utawi segara?"
+      },
+      {
+        "start": "Gupak pulut ora mangan",
+        "end": "nangkane",
+        "others": [
+          "wohe",
+          "gulane"
+        ],
+        "prompt": "Panganan punapa ingkang paling panjenengan remeni saking pulut utawi nangka?"
+      },
+      {
+        "start": "Mburu uceng kelangan",
+        "end": "deleg",
+        "others": [
+          "kebo",
+          "pancing"
+        ],
+        "prompt": "Panjenengan nate mancing utawi nyekel iwak?"
+      },
+      {
+        "start": "Nglurug tanpa bala, menang tanpa",
+        "end": "ngasorake",
+        "others": [
+          "ngelih",
+          "ngluwihi"
+        ],
+        "prompt": "Punapa ingkang damel panjenengan marem?"
+      },
+      {
+        "start": "Kudu bisa rumangsa, aja rumangsa",
+        "end": "bisa",
+        "others": [
+          "seneng",
+          "kuwat"
+        ],
+        "prompt": "Punapa ingkang panjenengan remen sinau saking tiyang sanes?"
+      },
+      {
+        "start": "Pager mangkok luwih kuwat tinimbang pager",
+        "end": "tembok",
+        "others": [
+          "wesi",
+          "kayu"
+        ],
+        "prompt": "Tanggi panjenengan nate maringi punapa?"
+      }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEGHIKLMNOPRSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Woh-wohan",
+          "words": [
+            "PELEM",
+            "JERUK",
+            "NANAS",
+            "SALAK",
+            "APEL",
+            "JAMBU",
+            "DUREN",
+            "KLAPA",
+            "KATES"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Kebon",
+          "words": [
+            "KEBON",
+            "TAMAN",
+            "MAWAR",
+            "MELATI",
+            "SUKET",
+            "OYOD",
+            "WIJI",
+            "TANAH",
+            "PAGER"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Pawon",
+          "words": [
+            "PAWON",
+            "WAJAN",
+            "KUALI",
+            "PIRING",
+            "GELAS",
+            "IRUS",
+            "LADING",
+            "UYAH",
+            "GULA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Cuaca",
+          "words": [
+            "UDAN",
+            "ANGIN",
+            "AWAN",
+            "SURYA",
+            "KILAT",
+            "PEDHUT",
+            "PANAS",
+            "ADHEM",
+            "LANGIT"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Kewan",
+          "words": [
+            "SAPI",
+            "KEBO",
+            "JARAN",
+            "WEDHUS",
+            "PITIK",
+            "BEBEK",
+            "MANUK",
+            "IWAK",
+            "KUCING"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Omah",
+          "words": [
+            "OMAH",
+            "LAWANG",
+            "LEMARI",
+            "KURSI",
+            "MEJA",
+            "AMBEN",
+            "LAMPU",
+            "PAYON",
+            "TEMBOK"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Sedaya kertu",
+        "food": "Dhaharan",
+        "home": "Griya",
+        "outdoors": "Wonten njawi",
+        "animals": "Kewan",
+        "travel": "Tindak-tindak",
+        "work": "Pakaryan lan hobi",
+        "music": "Musik lan kasenengan",
+        "seasons": "Mangsa"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Ambu punapa ingkang paling panjenengan remeni saking pawon?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Jajanan punapa ingkang panjenengan pilih kangge pahargyan?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Cariosaken bab woh utawi jajanan manis ingkang panjenengan remeni."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Panjenengan remen teh utawi kopi kados pundi?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Punapa ingkang damel sarapan sae?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Panjenengan nate methik woh langsung saking wit?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Manis utawi asem: ingkang pundi langkung panjenengan remeni?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Woh punapa ingkang paling segar kangge panjenengan?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Cariosaken bab griya ingkang panjenengan remeni nalika manggen ing ngriku."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Wonten pundi panggenan lenggah ingkang paling panjenengan remeni kangge ngaso?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Punapa ingkang panjenengan remeni nalika ndalu ingkang sepi?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Punapa ingkang badhe panjenengan simpen wonten kothak khusus?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Sinten ingkang badhe panjenengan aturi dhateng griya kangge ngunjuk teh?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Punapa ingkang panjenengan remeni nalika udan?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Kembang punapa ingkang badhe panjenengan tanem wonten taman?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Cariosaken bab wit utawi taman ingkang panjenengan remeni."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Punapa bagian ingkang paling sae nalika wonten taman?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Kembang warni punapa ingkang paling panjenengan remeni?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Panjenengan remen wonten tanduran wonten griya?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Kados pundi dinten ingkang sumunar sampurna miturut panjenengan?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Cariosaken bab asu ingkang nate panjenengan kenal."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Kucing, asu, utawi boten kalih-kalihipun? Punapa ingkang panjenengan remeni saking kewan menika?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Manuk punapa ingkang panjenengan pirsani utawi mireng wonten njawi?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Panjenengan nate mancing utawi nggadhahi iwak wonten akuarium?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Kewan punapa ingkang paling endah ingkang nate panjenengan pirsani?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Cariosaken bab mobil ingkang panjenengan remeni."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Panjenengan langkung remen sedinten wonten pantai utawi wonten gunung?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Panjenengan kersa tindak sepédha dhateng pundi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Manawi panjenengan saged mabur ngungkuli panggenan menapa kemawon, wonten pundi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Lelampahan punapa ingkang nate panjenengan remeni?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Pakaryan punapa ingkang nate panjenengan remeni?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Hobi punapa ingkang saged panjenengan lampahi mawi jam-jaman?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Punapa ingkang panjenengan kondhang amargi damelipun utawi leresaken?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Pitutur punapa ingkang badhe panjenengan paringaken dhateng tiyang enem ingkang miwiti nyambut damel?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Musik punapa ingkang damel suku panjenengan kepengin ngetuk-ngetuk?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Punapa ingkang damel pahargyan sae?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Sinten penyanyi ingkang panjenengan remen dipunpireng?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Film utawi acara TV punapa ingkang panjenengan remen dipuntingali malih?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Punapa ingkang panjenengan remeni saking dinten ingkang panas?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Punapa ingkang panjenengan remeni saking mangsa panen?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Punapa ingkang nyenengaken dipuntindakaken nalika ndalu ingkang adhem?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Punapa tandha-tandha mangsa udan wiwit tumeka miturut panjenengan?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Udan, panas, utawi mendhung: ingkang pundi panjenengan remeni?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Kembang ing pot",
+          "regions": {
+            "sky": "Latar wingking",
+            "table": "Meja",
+            "stem": "Batang",
+            "leaf-left": "Godhong kiwa",
+            "leaf-right": "Godhong tengen",
+            "petal-1": "Kelopak 1",
+            "petal-2": "Kelopak 2",
+            "petal-3": "Kelopak 3",
+            "petal-4": "Kelopak 4",
+            "petal-5": "Kelopak 5",
+            "petal-6": "Kelopak 6",
+            "petal-7": "Kelopak 7",
+            "petal-8": "Kelopak 8",
+            "center": "Tengahing kembang",
+            "pot": "Pot",
+            "pot-rim": "Pinggiring pot"
+          }
+        },
+        "house": {
+          "name": "Griya",
+          "regions": {
+            "sky": "Langit",
+            "sun": "Srengéngé",
+            "grass": "Suket",
+            "chimney": "Cerobong",
+            "walls": "Tembok",
+            "roof": "Payon",
+            "door": "Lawang",
+            "window-left": "Cendhela kiwa",
+            "window-right": "Cendhela tengen",
+            "path": "Dalan"
+          }
+        },
+        "teacup": {
+          "name": "Cangkir teh",
+          "regions": {
+            "background": "Latar wingking",
+            "saucer": "Lepek",
+            "handle": "Kuping cangkir",
+            "cup": "Cangkir",
+            "band": "Garis ing cangkir",
+            "tea": "Teh"
+          }
+        },
+        "butterfly": {
+          "name": "Kupu",
+          "regions": {
+            "background": "Latar wingking",
+            "wing-top-left": "Swiwi nginggil kiwa",
+            "wing-top-right": "Swiwi nginggil tengen",
+            "wing-bottom-left": "Swiwi ngandhap kiwa",
+            "wing-bottom-right": "Swiwi ngandhap tengen",
+            "spot-left": "Bintik swiwi kiwa",
+            "spot-right": "Bintik swiwi tengen",
+            "body": "Awak"
+          }
+        },
+        "sailboat": {
+          "name": "Prau layar",
+          "regions": {
+            "sky": "Langit",
+            "sea": "Segara",
+            "sail-big": "Layar ageng",
+            "sail-small": "Layar alit",
+            "mast": "Cagak layar",
+            "hull": "Prau",
+            "flag": "Gendera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Pawon lan kebon",
+          "baskets": [
+            "Wonten pawon",
+            "Wonten kebon"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Woh-wohan lan kewan",
+          "baskets": [
+            "Woh-wohan",
+            "Kewan"
+          ]
+        },
+        "home-travel": {
+          "label": "Griya lan tindak-tindak",
+          "baskets": [
+            "Wonten griya",
+            "Wonten njawi"
+          ]
+        }
+      }
+    }
+  }
+}
