@@ -46,6 +46,11 @@
 		<string>ne</string>
 		<string>az</string>
 		<string>am</string>
+		<string>my</string>
+		<string>uz</string>
+		<string>or</string>
+		<string>as</string>
+		<string>ps</string>
 	</array>
 	<key>CFBundleDisplayName</key>
 	<string>Golden Moments</string>

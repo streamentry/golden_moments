@@ -1,0 +1,165 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Hayvonlar",
+      "description": "Dunyo boʻylab yoqimli va mehribon hayvonlar"
+    },
+    "nature": {
+      "name": "Tabiat",
+      "description": "Goʻzal manzaralar va tabiat koʻrinishlari"
+    },
+    "food": {
+      "name": "Taomlar",
+      "description": "Mazali taomlar va shirinliklar"
+    },
+    "vintage": {
+      "name": "Mashinalar",
+      "description": "Qarab, gaplashib oʻtirish uchun yengil va yuk mashinalari"
+    },
+    "flowers": {
+      "name": "Gullar",
+      "description": "Goʻzal gullar va bogʻ manzaralari"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Fermadagi hayvonlar",
+      "description": "Qishloqqa mehmonga borgandagi kabi mehribon uy hayvonlari.",
+      "theme": "Qishloq hayoti",
+      "images": {
+        "cow_1": "Mehribon sigir",
+        "pig_1": "Quvnoq choʻchqa",
+        "chicken_1": "Xoʻroz",
+        "buffalo_1": "Suv bufalosi",
+        "horse_1": "Chiroyli ot",
+        "duck_1": "Oʻrdaklar oilasi",
+        "goat_1": "Qiziquvchan echki",
+        "rabbit_1": "Yoqimtoy quyon"
+      }
+    },
+    "nature_mountains": {
+      "title": "Togʻ manzaralari",
+      "description": "Nafasni qaytaruvchi togʻ manzaralari va goʻzal koʻrinishlar",
+      "theme": "Tabiat goʻzalligi",
+      "images": {
+        "mountain_1": "Qor bosgan choʻqqilar",
+        "mountain_2": "Fudzi togʻi",
+        "mountain_3": "Alp vodiysi",
+        "mountain_4": "Toshloq choʻqqi",
+        "mountain_5": "Oʻrmonli tepaliklar",
+        "mountain_6": "Tumanli togʻlar"
+      }
+    },
+    "vintage_cars": {
+      "title": "Mashinalar va yuk mashinalari",
+      "description": "Qarab, gaplashib oʻtirish uchun yaltiroq mashinalar va yuk mashinalari",
+      "theme": "Yoʻlda",
+      "images": {
+        "vintage_car_1": "Quyosh botganda toʻq sariq Audi",
+        "vintage_car_2": "Choʻldagi koʻk sport mashinasi",
+        "vintage_car_3": "Kumush rang Bugatti",
+        "vintage_car_4": "Yoʻldagi qora Porsche",
+        "vintage_car_5": "Palma daraxtlari saf tortgan koʻchadagi toʻq sariq BMW",
+        "vintage_car_6": "Garaj yonidagi koʻk kupe",
+        "vintage_car_7": "Yashil pikap",
+        "vintage_car_8": "Qizil toshlar orasidagi oq SUV",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Oq yoʻlli koʻk mashina"
+      }
+    },
+    "animals_safari": {
+      "title": "Safaridagi hayvonlar",
+      "description": "Afrika safarilaridagi salobatli hayvonlar",
+      "theme": "Yovvoyi tabiat",
+      "images": {
+        "lion_1": "Salobatli sher",
+        "elephant_2": "Afrika fili",
+        "jaguar_3": "Yaguar",
+        "zebra_4": "Yoʻl-yoʻl zebra",
+        "rhino_5": "Kuchli karkidon",
+        "cheetah_6": "Tez yuguruvchi gepard",
+        "fox_7": "Qoʻngʻir tulki",
+        "bear_8": "Oq ayiq",
+        "turtle_9": "Qoʻngʻir toshbaqa",
+        "squirrel_10": "Qoʻngʻir olmaxon",
+        "macaw_11": "Sariq-koʻk ara toʻti",
+        "tiger_12": "Yoʻlbars",
+        "raccoon_13": "Yenot",
+        "wolf_14": "Kulrang boʻri",
+        "crocodile_15": "Timsoh",
+        "peacock_16": "Chiroyli tovus"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Mazali shirinliklar",
+      "description": "Dasturxoningiz uchun bir nechta mazali shirinlik.",
+      "theme": "Shirin shirinliklar",
+      "images": {
+        "pastries_1": "Toʻrtta pishiriq",
+        "oreo_cookie_sandwiches_2": "Oreo pechenye sendvichlari",
+        "crepe_3": "Krep",
+        "pancake_4": "Pankeyk",
+        "macarons_5": "Makaron",
+        "caramel_cake_6": "Karamelli tort"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropik gullar",
+      "description": "Bu toʻplamdagi ekzotik gullar bilan tropiklarning yorqin goʻzalligini kashf eting.",
+      "theme": "Tropik gullar",
+      "images": {
+        "hibiscus_1": "Qizil gibiskus",
+        "frangipani_2": "Qizil-oq plumeriya",
+        "sunflower_3": "Kungaboqar",
+        "hydrangea_4": "Oq gortenziya",
+        "rose_5": "Atirgul",
+        "chrysanthemum_6": "Xrizantema",
+        "anthurium_7": "Anturium",
+        "plumeria_8": "Plumeriya",
+        "delphinium_10": "Delfinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Koʻcha taomlari bayrami",
+      "description": "Dunyo boʻylab mazali yengil taomlar toʻplami bilan koʻcha taomlarining rang-barang olamini kashf eting.",
+      "theme": "Koʻcha taomlari",
+      "images": {
+        "taco_1": "Meksika tako",
+        "ramen_2": "Yapon ramen",
+        "dumplings_3": "Xitoy chuchvarasi",
+        "samosa_4": "Hind samosasi",
+        "pizza_5": "Italyancha pitsa boʻlagi",
+        "crepe_6": "Fransuzcha krep",
+        "satay_7": "Tailand satay sixlari",
+        "burger_8": "Amerika burgeri",
+        "bao_9": "Bugʻlangan bao nonchasi",
+        "takoyaki_10": "Yapon takoyakisi"
+      }
+    },
+    "nature_landscape": {
+      "title": "Tabiat manzaralari",
+      "description": "Sekin qarab, birga gaplashish uchun sokin, goʻzal tabiat manzaralari.",
+      "theme": "Tabiat manzaralari",
+      "images": {
+        "mountain_1": "Togʻ tizmasi",
+        "forest_2": "Tumanli oʻrmon",
+        "lake_3": "Togʻ koʻli",
+        "desert_4": "Choʻl qumtepalari",
+        "waterfall_5": "Sharshara",
+        "beach_6": "Qumli sohil",
+        "river_7": "Oqayotgan daryo",
+        "canyon_8": "Katta kanyon",
+        "sunset_9": "Quyosh botishi osmoni",
+        "snow_mountain_10": "Qorli togʻ",
+        "flowers_11": "Yovvoyi gullar",
+        "rainforest_12": "Tropik yomgʻir oʻrmoni",
+        "iceberg_13": "Aysberg",
+        "volcano_14": "Vulqon",
+        "cliff_15": "Dengiz qoyasi",
+        "aurora_16": "Shimoliy yorugʻlik",
+        "savannah_17": "Savanna",
+        "coral_reef_18": "Marjon rifi"
+      }
+    }
+  }
+}

@@ -40,4 +40,9 @@
     <locale android:name="ne" />
     <locale android:name="az" />
     <locale android:name="am" />
+    <locale android:name="my" />
+    <locale android:name="uz" />
+    <locale android:name="or" />
+    <locale android:name="as" />
+    <locale android:name="ps" />
 </locale-config>

@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Rasm juftliklari",
+    "seoTitle": "Demensiya uchun juftlash oʻyini: rasm juftliklari",
+    "h1": "Rasm juftliklari: sokin juftlash oʻyini",
+    "description": "Demensiya bilan yashayotganlar uchun bepul, sokin juftlash oʻyini. Katta rasmlar koʻrinib turadi, taymer va ball yoʻq, 4 tadan 12 tagacha katakni tanlaysiz.",
+    "short": "Bir xil ikkita rasmni toping. Rasmlar koʻrinib turishi mumkin.",
+    "players": "1 yoki 2 kishi, yonma-yon",
+    "intro": "Rasmni bosing, soʻng unga mos rasmni bosing. Rasmlar odatda koʻrinib turadi, shuning uchun hech narsani eslab qolish shart emas. Ikki rasm mos kelganda ular oltin hoshiya va belgi oladi.",
+    "howTo": [
+      "Nechta katak ishlatishni tanlang. Toʻrtta katak boshlash uchun sokin joy.",
+      "Istalgan rasmni bosing. U oltin hoshiya oladi.",
+      "Bir xil koʻrinadigan rasmni bosing. Juft belgi bilan birga qoladi.",
+      "Ikki rasm turlicha boʻlsa, hech narsa boʻlmaydi. Tayyor boʻlganda yana bosing.",
+      "«Yashirin rasmlar»ni faqat ikkalangiz ham klassik, yuzi pastga qaragan variantni yoqtirsangiz yoqing."
+    ],
+    "tips": [
+      "Rasmlarni birga ovoz chiqarib nomlang va ular haqida gaplashing: «Qizil piyola. Choyni qanday ichishni yoqtirasiz?»",
+      "Siz parvarish qilayotgan inson bossin, bu biroz vaqt olsa ham. Uning oʻrniga bosmasdan, koʻrsating.",
+      "Yaxshi tuyulguncha toʻrtta katakda qoling. Koʻproq katak — tanlov, erishiladigan daraja emas.",
+      "Hali yoqimli paytda tugating. Bitta oʻyinning oʻzi toʻliq mashgʻulot."
+    ],
+    "faq": [
+      {
+        "q": "Taymer yoki ball bormi?",
+        "a": "Yoʻq. Soat, ball, yurishlar hisoblagichi yoki yutqazish yoʻq. Istalgan paytda toʻxtashingiz mumkin, yarmida toʻxtash esa yaxshi yakun."
+      },
+      {
+        "q": "Nega rasmlar yuzi tepaga qaragan?",
+        "a": "Rasmlarni koʻrinib turgan holda saqlash oʻyinni eslab qolishdan koʻra qarash va juftlashga aylantiradi. Koʻpchilik buni sokinroq deb topadi. Xohlasangiz, bir bosish bilan yashirin rasmlarga oʻtishingiz mumkin."
+      },
+      {
+        "q": "Bepulmi va roʻyxatdan oʻtish kerakmi?",
+        "a": "Ha, bepul, akkaunt, roʻyxatdan oʻtish yoki yuklab olish yoʻq. U telefon, planshet yoki kompyuterdagi veb-brauzerda ishlaydi."
+      },
+      {
+        "q": "Oʻz oilaviy suratlarimizdan foydalana olamizmi?",
+        "a": "Ha. Qurilmangizdan suratlarni tanlash imkonini beradigan «Surat juftliklari»ni sinab koʻring. Suratlar brauzeringizda qoladi va yuklanmaydi."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Bir xilini toping",
+    "seoTitle": "Bir xil rasmni toping: oddiy demensiya oʻyini",
+    "h1": "Bir xil rasmni toping",
+    "description": "Tepada bitta rasm, pastda ikkitadan toʻrttagacha. Bir xilini bosing. Demensiya bilan yashayotganlar uchun sokin, bepul rasm oʻyini, taymersiz.",
+    "short": "Tepadagi rasmga qarang va pastdan xuddi shuni bosing.",
+    "players": "1 yoki 2 kishi",
+    "intro": "Ekran tepasida bitta rasm turadi. Uning ostida ikki, uch yoki toʻrtta rasm bor. Bir xilini bosing. Bir vaqtda bitta oddiy tanlov, gaplashish uchun joy yetarli.",
+    "howTo": [
+      "Tanlash uchun ikki, uch yoki toʻrtta rasmni tanlang. Ikkitasi eng oddiy.",
+      "Tepadagi rasmga birga qarang.",
+      "Pastdagi bir xil rasmni bosing. U belgi va bir necha iliq soʻz bilan belgilanadi.",
+      "Boshqa rasm bosilsa, oʻyin uni shunchaki nomlaydi va kutadi. Shoshilmang.",
+      "Yana bittasiga tayyor boʻlganda «Keyingi rasm»ni bosing."
+    ],
+    "tips": [
+      "Tanlashdan oldin har bir rasm haqida gaplashing: ranglar, shakllar, uni qayerda koʻrish mumkin.",
+      "Ikki tanlov «juda oson» emas. Maqsad — yoqimli lahza, sinov emas.",
+      "Bosish qiyin boʻlsa, inson koʻrsatishi, siz esa uning oʻrniga bosishingiz mumkin."
+    ],
+    "faq": [
+      {
+        "q": "Taymer yoki ball bormi?",
+        "a": "Yoʻq. Soat, ball, yurishlar hisoblagichi yoki yutqazish yoʻq. Istalgan paytda toʻxtashingiz mumkin, yarmida toʻxtash esa yaxshi yakun."
+      },
+      {
+        "q": "Notoʻgʻri rasm bosilsa nima boʻladi?",
+        "a": "Yoqimsiz hech narsa. Signal, qizil xoch yoki silkinish yoʻq. Oʻyin bosilgan rasmni nomlaydi va keyingi bosishni kutadi."
+      },
+      {
+        "q": "Bepulmi va roʻyxatdan oʻtish kerakmi?",
+        "a": "Ha, bepul, akkaunt, roʻyxatdan oʻtish yoki yuklab olish yoʻq. U telefon, planshet yoki kompyuterdagi veb-brauzerda ishlaydi."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Soyani topish",
+    "seoTitle": "Demensiya uchun soya juftlash oʻyini: bepul onlayn",
+    "h1": "Soyani topish: sokin rasm oʻyini",
+    "description": "Tepada toʻq soya, pastda ikkitadan toʻrttagacha rasm. Soyani hosil qiladigan rasmni bosing. Demensiya uchun bepul, sokin soya oʻyini, taymersiz.",
+    "short": "Soyaga qarang va uni hosil qiladigan rasmni bosing.",
+    "players": "1 yoki 2 kishi",
+    "intro": "Soya juftlash bosma varaqlardan tanish mashgʻulot, bu yerda katta rasmlar bilan va chop etish shart emas. Ekran tepasida yumshoq soya turadi, pastda ikki, uch yoki toʻrtta rasm kutadi. Soyani hosil qiladiganini bosing. Velosiped, soyabon yoki choy piyolasi kabi shakllar haqida gaplashish ham oson.",
+    "howTo": [
+      "Tanlash uchun ikki, uch yoki toʻrtta rasmni tanlang. Ikkitasi eng oddiy.",
+      "Soyaga birga qarang. U qanday shakl? Baland yoki yumaloqmi?",
+      "Soyani hosil qiladigan rasmni bosing. Uning nomi soya ostida koʻrinadi.",
+      "Boshqa rasm bosilsa, oʻyin uni shunchaki nomlaydi va kutadi. Shoshilmang.",
+      "Yana bittasiga tayyor boʻlganda «Keyingi soya»ni bosing."
+    ],
+    "tips": [
+      "Soyaning konturini barmoq bilan chizing va shakl haqida gaplashing.",
+      "Bugun soyalar qiyin tuyulsa, rasmlar bir-biriga oʻxshaydigan «Bir xilini toping»ga oʻting.",
+      "Rasm topilgach, u haqida gaplashing: «Bizda ham shunday soyabon bor edi.»"
+    ],
+    "faq": [
+      {
+        "q": "Taymer yoki ball bormi?",
+        "a": "Yoʻq. Soat, ball, yurishlar hisoblagichi yoki yutqazish yoʻq. Istalgan paytda toʻxtashingiz mumkin, yarmida toʻxtash esa yaxshi yakun."
+      },
+      {
+        "q": "Soya juftlash demensiyali odamlar uchun yaxshimi?",
+        "a": "Ayrim odamlar uchun, ayniqsa dastlabki bosqichlarda, yoqimli, oddiy mashgʻulot boʻlishi mumkin. Shakllarni soʻzlardan koʻra tanish osonroq. U zavq va suhbat uchun, sinov emas va demensiyani davolamaydi yoki sekinlashtirmaydi. Jizzakilik tugʻdirsa, «Bir xilini toping»ni sinang yoki shunchaki rasmlarga birga qarang."
+      },
+      {
+        "q": "Notoʻgʻri rasm bosilsa nima boʻladi?",
+        "a": "Yoqimsiz hech narsa. Signal, qizil xoch yoki silkinish yoʻq. Oʻyin bosilgan rasmni nomlaydi va keyingi bosishni kutadi."
+      },
+      {
+        "q": "Bepulmi va roʻyxatdan oʻtish kerakmi?",
+        "a": "Ha, bepul, akkaunt, roʻyxatdan oʻtish yoki yuklab olish yoʻq. U telefon, planshet yoki kompyuterdagi veb-brauzerda ishlaydi."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Birga saralash",
+    "seoTitle": "Demensiya uchun saralash oʻyini: birga saralash",
+    "h1": "Birga saralash: rasm saralash mashgʻuloti",
+    "description": "Rasmni bosing, soʻng u tegishli savatni bosing: oshxona yoki bogʻ, meva yoki hayvonlar. Demensiya bilan yashayotganlar uchun sokin, bepul saralash mashgʻuloti.",
+    "short": "Har bir rasmni oʻz savatiga joylang: oshxona yoki bogʻ va boshqalar.",
+    "players": "1 yoki 2 kishi",
+    "intro": "Saralash — oziq-ovqatni joylash yoki paypoqlarni juftlash kabi tanish, mamnuniyat beradigan kundalik ish. Rasmni bosing, soʻng u tegishli savatni bosing. Shoshilinch ish ham, notoʻgʻri burilish ham yoʻq.",
+    "howTo": [
+      "Mavzuni tanlang: oshxona va bogʻ, meva va hayvonlar yoki uy va sayohat.",
+      "Rasmni bosing. U oltin hoshiya oladi.",
+      "U tegishli savatni bosing. Rasm shu savatga oʻtadi.",
+      "Agar u boshqa savatga tegishli boʻlsa, oʻyin buni muloyimlik bilan aytadi va kutadi.",
+      "Har bir rasm saralangach, savatlarni birga koʻrib chiqing."
+    ],
+    "tips": [
+      "Hayotda koʻpincha notoʻgʻri javob boʻlmaydi. Kimdir leyka oshxonaga tegishli desa, nega deb soʻrang. Yaxshi hikoya eshitishingiz mumkin.",
+      "Rasmlardan suhbat boshlash uchun foydalaning: «Bogʻingizda nima oʻstirgansiz?»",
+      "Haqiqiy narsalarni saralash, masalan qoshiq va sanchqilarni yoki tugmalarni rang boʻyicha, ekrandan tashqarida ajoyib davomi."
+    ],
+    "faq": [
+      {
+        "q": "Taymer yoki ball bormi?",
+        "a": "Yoʻq. Soat, ball, yurishlar hisoblagichi yoki yutqazish yoʻq. Istalgan paytda toʻxtashingiz mumkin, yarmida toʻxtash esa yaxshi yakun."
+      },
+      {
+        "q": "Nega saralash?",
+        "a": "Koʻpchilik saralashni yoqtiradi, chunki u foydali, tanish ishdek tuyuladi. Shuningdek, borgan sari rasmlar haqida gaplashish oson."
+      },
+      {
+        "q": "Bepulmi va roʻyxatdan oʻtish kerakmi?",
+        "a": "Ha, bepul, akkaunt, roʻyxatdan oʻtish yoki yuklab olish yoʻq. U telefon, planshet yoki kompyuterdagi veb-brauzerda ishlaydi."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Rasm jumboqi",
+    "seoTitle": "Demensiya uchun oson jumboq: 4 yoki 9 boʻlak",
+    "h1": "Rasm jumboqi: oson jumboq",
+    "description": "Demensiya bilan yashayotganlar uchun oson onlayn jumboq: 4 yoki 9 ta katta boʻlak, butun rasm koʻrinib turadi, ikkita boʻlakni bosib oʻrnini almashtirasiz.",
+    "short": "Rasm butun boʻlguncha ikkita boʻlakni bosib oʻrnini almashtiring.",
+    "players": "1 yoki 2 kishi",
+    "intro": "Samimiy rasm toʻrt yoki toʻqqiz katta boʻlakka kesilib, aralashtiriladi. Butun rasm yoʻl-yoʻriq sifatida koʻrinib turadi. Bitta boʻlakni, soʻng boshqasini bosing, ular oʻrin almashadi. Sudrash shart emas.",
+    "howTo": [
+      "Rasm va 4 yoki 9 ta boʻlakni tanlang. Toʻrttasi muloyim boshlanish.",
+      "Tepadagi butun rasmga qarang.",
+      "Boʻlakni bosing, soʻng u qoʻyilishi kerak boʻlgan joyni bosing. Ikki boʻlak oʻrin almashadi.",
+      "Toʻgʻri joydagi boʻlaklar kichik belgi oladi.",
+      "Rasm butun boʻlganda, birga zavqlaning, soʻng boshqasini tanlang."
+    ],
+    "tips": [
+      "Ikki boʻlakni bosib almashtirish koʻpchilik uchun sudrashdan ancha oson.",
+      "Rasm yigʻilib borar ekan, u haqida gaplashing: «Mana qizil tom.»",
+      "12 dan 24 tagacha katta boʻlakli haqiqiy yogʻoch jumboq ham yoqimli stol mashgʻuloti."
+    ],
+    "faq": [
+      {
+        "q": "Taymer yoki ball bormi?",
+        "a": "Yoʻq. Soat, ball, yurishlar hisoblagichi yoki yutqazish yoʻq. Istalgan paytda toʻxtashingiz mumkin, yarmida toʻxtash esa yaxshi yakun."
+      },
+      {
+        "q": "Boʻlaklarni sudrashim kerakmi?",
+        "a": "Yoʻq. Bitta boʻlakni, soʻng boshqasini bosing, ular oʻrin almashadi. Qoʻli titroq yoki ekrani kichik boʻlsa, bu osonroq."
+      },
+      {
+        "q": "Bepulmi va roʻyxatdan oʻtish kerakmi?",
+        "a": "Ha, bepul, akkaunt, roʻyxatdan oʻtish yoki yuklab olish yoʻq. U telefon, planshet yoki kompyuterdagi veb-brauzerda ishlaydi."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Maqolni tugating",
+    "seoTitle": "Maqolni tugating: keksalar uchun maqollar oʻyini",
+    "h1": "Maqolni tugating",
+    "description": "Oxirgi soʻzi tushib qolgan tanish oʻzbek maqollari. Variantni bosing yoki oxirini koʻrsating, soʻng maqol haqida gaplashing.",
+    "short": "Tanish maqollarni birga tugating, soʻng ular haqida gaplashing.",
+    "players": "1, 2 kishi yoki guruh",
+    "intro": "Eski maqollar koʻpincha butun umr davomida yaxshi tanish boʻladi. Har bir kartada oxirgi soʻzi tushib qolgan tanish maqol, uchta variant va «Oxirini koʻrsatish» tugmasi bor. Oxiridan keyin muloyim savol suhbatga taklif qiladi.",
+    "howTo": [
+      "Maqolni birga ovoz chiqarib oʻqing.",
+      "Uni tugatadigan soʻzni bosing yoki «Oxirini koʻrsatish»ni bosing.",
+      "Butun maqolni yana oʻqing va savol yordamida u haqida gaplashing.",
+      "Tayyor boʻlganda «Keyingi maqol»ni bosing."
+    ],
+    "tips": [
+      "Sekin oʻqing va oxirgi soʻzdan oldin pauza qiling. Koʻpincha odamlar siz tugatmasingizdan oldin aytib yuboradi.",
+      "Kimdir boshqacha tugatsa, bundan zavqlaning. Ba’zi maqollarning variantlari oila yoki hududga qarab farq qiladi.",
+      "Guruhda bir kishi oʻqiydi va hamma oxirida qoʻshiladi."
+    ],
+    "faq": [
+      {
+        "q": "Taymer yoki ball bormi?",
+        "a": "Yoʻq. Soat, ball, yurishlar hisoblagichi yoki yutqazish yoʻq. Istalgan paytda toʻxtashingiz mumkin, yarmida toʻxtash esa yaxshi yakun."
+      },
+      {
+        "q": "Boshqa soʻzni tanlasak-chi?",
+        "a": "Oʻyin odatdagi oxirini koʻrsatadi va suhbatga oʻtadi. Ball yoʻq, boshqacha javob ham durust."
+      },
+      {
+        "q": "Bepulmi va roʻyxatdan oʻtish kerakmi?",
+        "a": "Ha, bepul, akkaunt, roʻyxatdan oʻtish yoki yuklab olish yoʻq. U telefon, planshet yoki kompyuterdagi veb-brauzerda ishlaydi."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Yirik harfli soʻz izlash",
+    "seoTitle": "Demensiya uchun yirik harfli soʻz izlash, chop etiladigan",
+    "h1": "Yirik harfli soʻz izlash",
+    "description": "Keksalar va demensiya bilan yashayotganlar uchun bepul yirik harfli soʻz izlash. Kam soʻz, katta harflar, yonma-yon va pastga. Onlayn oʻynang yoki chop eting.",
+    "short": "Katta harflar, bir necha soʻz, faqat yonma-yon va pastga. Chop ham eting.",
+    "players": "1 yoki 2 kishi",
+    "intro": "Katta harfli kichik katak va atigi bir necha soʻz, hammasi yonma-yon yoki pastga oʻqiladi. Soʻzning birinchi harfini, soʻng oxirgi harfini bosing. Qogʻozni afzal koʻrasizmi? Yangi jumboqni bir bosishda chop eting.",
+    "howTo": [
+      "Mavzu va katak oʻlchamini tanlang.",
+      "Soʻzlar roʻyxatiga qarang. Soʻzlar yonma-yon (chapdan oʻngga) yoki pastga (yuqoridan pastga) oʻqiladi.",
+      "Soʻzning birinchi harfini, soʻng oxirgi harfini bosing.",
+      "Topilgan soʻz belgilanadi va roʻyxatdan oʻchiriladi.",
+      "Qalam yoki flomaster bilan qogʻozda oʻynash uchun «Bu jumboqni chop etish»ni bosing."
+    ],
+    "tips": [
+      "Roʻyxatdagi soʻzga ishora qiling va uning birinchi harfini birga qidiring.",
+      "Qogʻozda marker qalamdan koʻra ushlash osonroq.",
+      "Mavzu soʻzlari haqida gaplashing. Meva soʻzlari terish, pishirish yoki bozorlar xotiralariga tabiiy yoʻl."
+    ],
+    "faq": [
+      {
+        "q": "Taymer yoki ball bormi?",
+        "a": "Yoʻq. Soat, ball, yurishlar hisoblagichi yoki yutqazish yoʻq. Istalgan paytda toʻxtashingiz mumkin, yarmida toʻxtash esa yaxshi yakun."
+      },
+      {
+        "q": "Soʻz izlashni chop eta olamanmi?",
+        "a": "Ha. Joriy katakni katta shriftda, ostida soʻzlar roʻyxati bilan chop etish uchun «Bu jumboqni chop etish»ni bosing. Har bir yangi jumboq boshqacha."
+      },
+      {
+        "q": "Bepulmi va roʻyxatdan oʻtish kerakmi?",
+        "a": "Ha, bepul, akkaunt, roʻyxatdan oʻtish yoki yuklab olish yoʻq. U telefon, planshet yoki kompyuterdagi veb-brauzerda ishlaydi."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Boʻyash sahifalari",
+    "seoTitle": "Demensiyali kattalar uchun boʻyash sahifalari (bepul)",
+    "h1": "Boʻyash sahifalari",
+    "description": "Katta joylari bor oddiy, kattalarga mos boʻyash sahifalari: rangni bosing, soʻng rasmni bosing. Notoʻgʻri rang yoʻq, har bir sahifani bepul chop etish mumkin.",
+    "short": "Rangni, soʻng rasmning bir qismini bosing. Sahifalarni chop ham eting.",
+    "players": "1 yoki 2 kishi",
+    "intro": "Katta, oddiy shakllar bilan sahifalar: tuvakdagi gul, uy, choy piyolasi, kapalak va yelkanli qayiq. Rangni, soʻng uni toʻldirish uchun rasmning bir qismini bosing. Notoʻgʻri rang yoʻq.",
+    "howTo": [
+      "Sahifani tanlang.",
+      "Rangni bosing. Har bir rangning nomi yozilgan.",
+      "Rasmning bir qismini shu rang bilan toʻldirish uchun bosing.",
+      "Istalgan paytda uni qayta toʻldirib fikringizni oʻzgartiring.",
+      "Qalam yoki flomaster bilan boʻyash uchun boʻsh sahifa kerak boʻlsa, «Bu sahifani chop etish»ni bosing."
+    ],
+    "tips": [
+      "Tanlash juda koʻp tuyulsa, butun toʻplam oʻrniga tanlash uchun ikki rangni taklif qiling.",
+      "Binafsha daraxtlar va koʻk quyoshlar xush kelibsiz. Bu aniqlik emas, rangdan zavqlanish haqida.",
+      "Chop etilgan sahifalar ushlash osonroq boʻlgan yoʻgʻon flomasterlar yoki rangli qalamlar bilan yaxshi ishlaydi."
+    ],
+    "faq": [
+      {
+        "q": "Taymer yoki ball bormi?",
+        "a": "Yoʻq. Soat, ball, yurishlar hisoblagichi yoki yutqazish yoʻq. Istalgan paytda toʻxtashingiz mumkin, yarmida toʻxtash esa yaxshi yakun."
+      },
+      {
+        "q": "Bu sahifalar juda bolalarchami?",
+        "a": "Biz multfilmlar emas, sokin, oddiy narsalarni chizdik, shuning uchun sahifalar kattalarga mos. Katta shakllar boʻyashni bolalarcha qilmasdan oson saqlaydi."
+      },
+      {
+        "q": "Bepulmi va roʻyxatdan oʻtish kerakmi?",
+        "a": "Ha, bepul, akkaunt, roʻyxatdan oʻtish yoki yuklab olish yoʻq. U telefon, planshet yoki kompyuterdagi veb-brauzerda ishlaydi."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Suhbat kartalari",
+    "seoTitle": "Demensiya uchun suhbat mavzulari: rasmli kartalar",
+    "h1": "Suhbat kartalari",
+    "description": "Demensiya bilan yashayotganlar uchun muloyim suhbat mavzulari bilan rasmli kartalar: soʻroq-sinov yoʻq, toʻgʻri javob yoʻq. Ekranda foydalaning yoki chop eting.",
+    "short": "Ochiq, muloyim savollar bilan rasmli kartalar. Soʻroq-sinov yoʻq.",
+    "players": "2 kishi yoki guruh",
+    "intro": "Har bir karta tanish rasmni gaplashishga ochiq taklif bilan juftlaydi, masalan «Sevimli ob-havoingiz qanday?» Toʻgʻri javob yoʻq va eslab qoladigan narsa yoʻq. Mavzuni tanlang yoki hammasini aralashtiring.",
+    "howTo": [
+      "Mavzuni tanlang yoki «Barcha kartalar»ni qoldiring.",
+      "Savolni ovoz chiqarib oʻqing va rasmga birga qarang.",
+      "Tinglang, oʻz javobingizni ulashing va suhbat oqib ketsin.",
+      "Tayyor boʻlganda «Keyingi karta»ni bosing yoki bitta kartada xohlaganingizcha qoling.",
+      "Qogʻoz toʻplamni kesib olish uchun «Barcha kartalarni chop etish»ni bosing."
+    ],
+    "tips": [
+      "Savolga oʻzingiz ham javob bering. Bu intervyu emas, suhbatdek tuyuladi.",
+      "Faktlarga emas, hikoyaga ergashing. Tafsilotlar oʻzgarsa, mayli.",
+      "Karta xafa qiladigan narsaga tegsa, tuygʻuni tan oling va muloyimlik bilan boshqa kartaga oʻting."
+    ],
+    "faq": [
+      {
+        "q": "Nega «Eslaysizmi…?» savollari yoʻq?",
+        "a": "Xotirani sinaydigan savollar imtihondek tuyulishi va xijolat keltirishi mumkin. «Menga ... haqida gapirib bering» kabi ochiq takliflar har kimga nimani eslashidan qat’i nazar qoʻshilish imkonini beradi."
+      },
+      {
+        "q": "Kartalarni chop eta olamanmi?",
+        "a": "Ha. «Barcha kartalarni chop etish» toʻliq toʻplamni katta shriftda, har sahifada bir nechta kartadan, kesishga tayyor holda chop etadi."
+      },
+      {
+        "q": "Bepulmi va roʻyxatdan oʻtish kerakmi?",
+        "a": "Ha, bepul, akkaunt, roʻyxatdan oʻtish yoki yuklab olish yoʻq. U telefon, planshet yoki kompyuterdagi veb-brauzerda ishlaydi."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Surat juftliklari",
+    "seoTitle": "Oilaviy suratlardan juftlash oʻyini yarating",
+    "h1": "Surat juftliklari: oʻz suratlaringizni juftlang",
+    "description": "Oʻz oilaviy suratlaringizni sokin juftlash oʻyiniga aylantiring. Qurilmangizdan 2 tadan 6 tagacha suratni tanlang; ular brauzeringizda qoladi va yuklanmaydi.",
+    "short": "Oʻz suratlaringizni tanlang va juftlang. Hech narsa yuklanmaydi.",
+    "players": "2 kishi, yonma-yon",
+    "intro": "Telefon, planshet yoki kompyuteringizdan ikkitadan oltitagacha suratni tanlang, ular katta, koʻrinib turadigan rasmli juftlash oʻyiniga aylanadi. Suratlar faqat shu sahifa ichida koʻrsatiladi. Ular yuklanmaydi, saqlanmaydi yoki ulashilmaydi va sahifani yopganingizda yoʻqoladi.",
+    "howTo": [
+      "«Suratlarni tanlash»ni bosing va ikkitadan oltitagacha suratni tanlang.",
+      "Har bir surat ikki marta chiqadi. Birini, soʻng uning juftini bosing.",
+      "Har birini topganingizda u haqida gaplashing.",
+      "Tugatganingizda sahifani yoping yoki «Suratlarni tozalash»ni bosing. Hech narsa saqlanmaydi."
+    ],
+    "tips": [
+      "Quvonchli, tanish narsalarning aniq suratlarini tanlang: uy hayvoni, bogʻ, sevimli joy, toʻy kuni.",
+      "Joylar va narsalar suratlari yuzlarga qaraganda osonroq boʻlishi mumkin va ular odamlarni nomlash bosimini yoʻqotadi.",
+      "Vafot etgan odamlarning suratlarini, agar ular birdan qaygʻu keltirishi mumkin boʻlsa, taskin berishini bilmasangiz, qoldiring."
+    ],
+    "faq": [
+      {
+        "q": "Suratlarim biror joyga yuklanadimi?",
+        "a": "Yoʻq. Sahifa siz tanlagan suratlarni bevosita brauzeringizda oʻqiydi va ekraningizda koʻrsatadi. Ular bizga yoki boshqa birovga yuborilmaydi va sahifani yopganingizda yoki yangilaganingizda yoʻqoladi."
+      },
+      {
+        "q": "Taymer yoki ball bormi?",
+        "a": "Yoʻq. Soat, ball, yurishlar hisoblagichi yoki yutqazish yoʻq. Istalgan paytda toʻxtashingiz mumkin, yarmida toʻxtash esa yaxshi yakun."
+      },
+      {
+        "q": "Oʻyinni keyingi safar uchun saqlay olamanmi?",
+        "a": "Brauzerda yoʻq, bu atayin shunday qilingan, shuning uchun hech qanday shaxsiy narsa saqlanmaydi. iPhone va iPad uchun bepul Golden Moments ilovasi tanlangan surat nusxalarini qurilmangizda saqlay oladi."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Rasmli bingo",
+    "seoTitle": "Demensiyali keksalar uchun rasmli bingo: chop etiladigan",
+    "h1": "Guruhlar uchun rasmli bingo",
+    "description": "Xotira parvarishi va keksalar guruhlari uchun bepul chop etiladigan rasmli bingo va katta ekranli e’lon qiluvchi. 9 yoki 16 katak, oʻqish shart emas.",
+    "short": "Guruhlar uchun chop etiladigan rasmli bingo kartalari va katta ekranli e’lon qiluvchi.",
+    "players": "2 dan 30 gacha guruh",
+    "intro": "Raqamlar oʻrniga rasmlar bilan klassik bingo, shuning uchun hech kim mayda yozuvni oʻqishi shart emas. Noyob kartalar toʻplamini chop eting, soʻng televizor, noutbuk yoki planshetda har bir rasmni katta koʻrsatish uchun ekrandagi e’lon qiluvchidan foydalaning.",
+    "howTo": [
+      "Har bir kartada 9 yoki 16 katakni va oʻyinchilar sonini tanlang.",
+      "«Kartalarni chop etish»ni bosing. Har bir karta boshqacha.",
+      "E’lon qiluvchini katta ekranda oching. Har bir rasmni nomi bilan koʻrsatish uchun «Keyingi rasm»ni bosing.",
+      "Oʻyinchilar kartasidagi mos rasmni tanga, tugma yoki marker bilan yopadi.",
+      "Qator yoki butun kartani toʻldirgan har kim olqish oladi. Bu versiyada yutqazganlar yoʻq: hamma qator toʻldirguncha oʻynashda davom eting."
+    ],
+    "tips": [
+      "Shashka toshlari yoki shisha qopqoqlari kabi katta jetonlardan foydalaning. Mayda tugmalarni olish qiyin boʻlishi mumkin.",
+      "Rasmni nomlang va u haqida biror narsa ayting: «Yelkanli qayiq. Kim qayiqda boʻlgan?»",
+      "Koʻrishda qiynalayotganlarni ekranga eng yaqin oʻtqazing va yordamchilarni ularga muhtoj oʻyinchilar bilan juftlang.",
+      "Toʻqqiz katak koʻp guruhlar uchun yetarli. Mashgʻulotni taxminan 20–30 daqiqa qiling."
+    ],
+    "faq": [
+      {
+        "q": "Parvarish uyida rasmli bingoni qanday oʻtkazaman?",
+        "a": "Har bir oʻyinchiga bittadan karta chop eting, e’lon qiluvchini eng katta ekraningizda qoʻying va rasmlarni sekin e’lon qiling, har birini nomlang. Hamma qator toʻldirguncha oʻynang, shunda hech kim chetda qolmaydi."
+      },
+      {
+        "q": "Chop etish bepulmi?",
+        "a": "Ha. Shaxsiy yoki guruh uchun kerakli qadar kartani, xohlagancha tez-tez chop eting."
+      },
+      {
+        "q": "Odamlar oʻqimasdan oʻynay oladimi?",
+        "a": "Ha. Har bir katak — katta rasm, soʻzni yoqtiradiganlar uchun nomi ostida."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Sokin nafas",
+    "seoTitle": "Keksalar va qarovchilar uchun sokin nafas pauzasi",
+    "h1": "Sokin nafas pauzasi",
+    "description": "Birga qilish uchun sekin, tinch nafas pauzasi: muloyim doira olti nafas davomida kattalashadi va kichrayadi. Uni oʻzingiz boshlaysiz va toʻxtatasiz.",
+    "short": "Birga nafas olish uchun sekin doira. Xohlagan paytingizda boshlang va toʻxtating.",
+    "players": "1 yoki 2 kishi",
+    "intro": "Ba’zan eng yaxshi mashgʻulot — tinch pauza. «Boshlash»ni bosing, soʻng doira kattalashganda nafas oling, kichrayganda nafas chiqaring. Sekinroq yoki tezroq sur’atni tanlang. Bu davolash emas, ulashish uchun shunchaki osoyishta lahza.",
+    "howTo": [
+      "Yonma-yon qulay oʻtiring.",
+      "Sur’atni tanlang: sekin yoki muloyim.",
+      "«Boshlash»ni bosing. Doira kattalashganda nafas oling, kichrayganda nafas chiqaring.",
+      "U olti nafasdan keyin oʻzi toʻxtaydi yoki xohlagan paytingizda «Toʻxtatish»ni bosing."
+    ],
+    "tips": [
+      "Agar ma’qul boʻlsa, qoʻl ushlang yoki qoʻlingizni insonning qoʻliga qoʻying.",
+      "Hech qachon turib olmang. Agar u shunchaki tomosha qilsa, mayli.",
+      "Kimdir nafas muammolariga ega boʻlsa, odatdagidek nafas oling va shunchaki doiraga qarang. Har qanday nafas bilan bogʻliq xavotir haqida shifokordan soʻrang."
+    ],
+    "faq": [
+      {
+        "q": "Bu tibbiy nafas mashqimi?",
+        "a": "Yoʻq. Bu osoyishtalik va hamrohlik uchun oddiy, ixtiyoriy pauza. U xavotir yoki biror holatni davolash emas. Sogʻliq xavotirlari haqida shifokor bilan gaplashing."
+      },
+      {
+        "q": "Doira men boshlamasdan harakatlanadimi?",
+        "a": "Yoʻq. Siz «Boshlash»ni bosmaguningizcha hech narsa harakatlanmaydi va u olti nafasdan keyin yoki «Toʻxtatish»ni bosganingizda toʻxtaydi. Qurilmangizda harakatni kamaytirish yoqilgan boʻlsa, doira kattalashmasdan soʻzlar oʻzgaradi."
+      },
+      {
+        "q": "Bepulmi va roʻyxatdan oʻtish kerakmi?",
+        "a": "Ha, bepul, akkaunt, roʻyxatdan oʻtish yoki yuklab olish yoʻq. U telefon, planshet yoki kompyuterdagi veb-brauzerda ishlaydi."
+      }
+    ]
+  }
+}

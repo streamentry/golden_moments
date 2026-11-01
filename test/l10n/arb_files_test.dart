@@ -28,6 +28,11 @@ const _appLocales = {
   'ne',
   'az',
   'am',
+  'my',
+  'uz',
+  'or',
+  'as',
+  'ps',
 };
 const _baseFallbacks = {'pt', 'zh'};
 
