@@ -230,6 +230,26 @@ textarea {
   --font-sans: 'Geeza Pro', 'Noto Naskh Arabic', 'Segoe UI', Tahoma, sans-serif;
   --font-display: var(--font-sans);
 }
+:root:lang(ur) {
+  --font-sans: 'Geeza Pro', 'Noto Naskh Arabic', 'Segoe UI', Tahoma, sans-serif;
+  --font-display: var(--font-sans);
+}
+:root:lang(mr) {
+  --font-sans: 'Kohinoor Devanagari', 'Noto Sans Devanagari', 'Nirmala UI', system-ui, sans-serif;
+  --font-display: var(--font-sans);
+}
+:root:lang(te) {
+  --font-sans: 'Kohinoor Telugu', 'Noto Sans Telugu', 'Nirmala UI', system-ui, sans-serif;
+  --font-display: var(--font-sans);
+}
+:root:lang(ta) {
+  --font-sans: 'Tamil Sangam MN', 'Noto Sans Tamil', 'Nirmala UI', system-ui, sans-serif;
+  --font-display: var(--font-sans);
+}
+:root:lang(gu) {
+  --font-sans: 'Kohinoor Gujarati', 'Noto Sans Gujarati', 'Nirmala UI', system-ui, sans-serif;
+  --font-display: var(--font-sans);
+}
 
 /* Arrows point the way the text reads. */
 [dir='rtl'] svg[data-icon='arrow'] {

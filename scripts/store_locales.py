@@ -48,6 +48,11 @@ LANGUAGES: dict[str, tuple[tuple[str, ...], tuple[str, ...]]] = {
     'bn': (('bn-BD',), ('bn-BD',)),
     'fa': ((), ('fa',)),
     'ha': ((), ()),
+    'ur': (('ur-PK',), ('ur',)),
+    'mr': (('mr-IN',), ('mr-IN',)),
+    'te': (('te-IN',), ('te-IN',)),
+    'ta': (('ta-IN',), ('ta-IN',)),
+    'gu': (('gu-IN',), ('gu',)),
 }
 
 APP_STORE_LIMITS = {'name': 30, 'subtitle': 30, 'promotional_text': 170,
