@@ -1,0 +1,906 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Oʻyin",
+      "restart": "Qaytadan boshlash",
+      "soundOn": "Yumshoq tovushlar yoqilgan",
+      "soundOff": "Yumshoq tovushlar oʻchirilgan",
+      "done": "Hozircha yetarli",
+      "feedbackQuestion": "Bugun bu yordam berdimi?",
+      "feedbackYes": "Ha",
+      "feedbackNo": "Unchalik emas",
+      "feedbackThanks": "Aytganingiz uchun rahmat."
+    },
+    "tile": {
+      "named": "{name}, {n}-katak",
+      "hidden": "Yashirin rasm, {n}-katak",
+      "withState": "{label}, {state}",
+      "matched": "Juftlangan",
+      "selected": "Tanlangan",
+      "picture": "Rasm",
+      "photoNumber": "{n}-surat"
+    },
+    "pairs": {
+      "allTogether": "Barcha juftlar birga. Yana oʻynang yoki dam oling.",
+      "photoPair": "Ikki surat, birga.",
+      "picturePair": "Ikkita rasm: {name|lower}, birga.",
+      "selected": "{name}. Endi uning juftini toping.",
+      "mismatch": "Shoshilmang. Davom etish uchun rasmni bosing.",
+      "mismatchNamed": "{a} va {b}. Shoshilmang. Davom etish uchun rasmni bosing."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Rasmni bosing, soʻng unga mos rasmni bosing.",
+      "guidanceHidden": "Ikkita katakni bosib, ularni oching. Bir xil ikkitasini qidiring.",
+      "restart": "Yangi rasmlar",
+      "sizeLegend": "Nechta katak",
+      "size": {
+        "one": "{n} ta katak",
+        "other": "{n} ta katak"
+      },
+      "viewLegend": "Qanday oʻynash",
+      "viewShowing": "Rasmlar koʻrinib turadi",
+      "viewHidden": "Yashirin rasmlar",
+      "playAgain": "Yangi rasmlar bilan yana oʻynash",
+      "talk": "Rasmlar haqida birga gaplashing"
+    },
+    "choose": {
+      "countLegend": "Nechta rasm",
+      "count": "{n} tadan tanlash",
+      "thatOne": "Bu — {name|lower}. Shoshilmang."
+    },
+    "findTheSame": {
+      "guidance": "Tepadagi rasmga qarang. Pastdan xuddi shuni bosing.",
+      "yes": "Ha, xuddi shu: {name|lower}.",
+      "next": "Keyingi rasm"
+    },
+    "shadowMatch": {
+      "guidance": "Tepadagi soyaga qarang. Uni hosil qiladigan rasmni bosing.",
+      "yes": "Ha, bu soya — {name|lower} soyasi.",
+      "next": "Keyingi soya",
+      "shadowAlt": "Mos keladigan soya",
+      "foundAlt": "{name|lower} soyasi"
+    },
+    "sortTogether": {
+      "guidance": "Rasmni bosing, soʻng u tegishli savatni bosing.",
+      "restart": "Yangi rasmlar",
+      "themeLegend": "Mavzu",
+      "selected": "{name}. Endi u tushadigan savatni bosing.",
+      "pickFirst": "Avval rasmni, soʻng savatni bosing.",
+      "hint": "{name|lower} uchun mos savat: «{basket}». Uni oʻsha savatga qoʻyish uchun bosing.",
+      "placed": "{name|lower} «{basket}» savatiga qoʻyildi.",
+      "sorted": "Hammasi saralandi. Savatlarni birga koʻrib chiqing yoki boshqa mavzuni sinab koʻring.",
+      "basket": {
+        "one": "{basket} savati, ichida {count} ta rasm",
+        "other": "{basket} savati, ichida {count} ta rasm"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Bitta boʻlakni, soʻng boshqasini bosing. Ular oʻrin almashadi.",
+      "restart": "Qayta aralashtirish",
+      "pictureLegend": "Rasm",
+      "pictures": {
+        "sailboat": "Yelkanli qayiq",
+        "house": "Uy",
+        "balloon": "Shar",
+        "sunflower": "Kungaboqar",
+        "lighthouse": "Mayoq",
+        "cat": "Mushuk"
+      },
+      "sizeLegend": "Boʻlaklar",
+      "size": {
+        "one": "{n} ta boʻlak",
+        "other": "{n} ta boʻlak"
+      },
+      "pickedUp": "Boʻlak olindi. Endi u qoʻyiladigan joyni bosing.",
+      "whole": "{name|lower} yana butun. Xohlagan paytingizda boshqa rasmni tanlang.",
+      "swapped": {
+        "one": "Almashtirildi. {total} ta boʻlakdan {correct} tasi oʻz joyida.",
+        "other": "Almashtirildi. {total} ta boʻlakdan {correct} tasi oʻz joyida."
+      },
+      "guideAlt": "Butun rasm: {name}",
+      "guideText": "Rasm butun boʻlganda shunday koʻrinadi.",
+      "piece": "Boʻlak: {place}",
+      "pieceInPlace": ", toʻgʻri joyda",
+      "piecePickedUp": ", olingan",
+      "places4": [
+        "yuqori chap",
+        "yuqori oʻng",
+        "pastki chap",
+        "pastki oʻng"
+      ],
+      "places9": [
+        "yuqori chap",
+        "yuqori oʻrta",
+        "yuqori oʻng",
+        "oʻrta chap",
+        "markaz",
+        "oʻrta oʻng",
+        "pastki chap",
+        "pastki oʻrta",
+        "pastki oʻng"
+      ],
+      "done": "Rasm yana butun. Yana oʻynang yoki dam oling.",
+      "playAgain": "Yana aralashtirish"
+    },
+    "finishTheSaying": {
+      "guidance": "Maqolni birga oʻqing, soʻng uni tugatadigan soʻzni bosing.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ha, «{start} {end}.»",
+      "otherEnding": "«{word}» ham mos keladi. Odatdagi maqol «{end}» bilan tugaydi.",
+      "revealed": "Maqol: «{start} {end}.»",
+      "choicesLabel": "Oxirgi soʻzni tanlang",
+      "show": "Oxirini koʻrsatish",
+      "talk": "Gaplashib koʻring: ",
+      "next": "Keyingi maqol"
+    },
+    "wordSearch": {
+      "guidance": "Soʻzlar yonma-yon yoki pastga yoziladi. Soʻzning birinchi harfini, soʻng oxirgi harfini bosing.",
+      "restart": "Yangi jumboq",
+      "themeLegend": "Mavzu",
+      "sizeLegend": "Katak oʻlchami",
+      "size": {
+        "one": "{n} × {n} ({words} ta soʻz)",
+        "other": "{n} × {n} ({words} ta soʻz)"
+      },
+      "print": "Bu jumboqni chop etish",
+      "letterChosen": "{letter} harfi tanlandi. Endi soʻzning oxirgi harfini bosing.",
+      "found": "{word} topildi.",
+      "foundAll": "{word} topildi. Hamma soʻz shu. Yana oʻynang yoki dam oling.",
+      "tryAgain": "Shoshilmang. Soʻzning birinchi harfini, soʻng oxirgi harfini bosing.",
+      "gridLabel": "Harflar katagi, {n} qator, har birida {n} ta harf. Harflar orasida yurish uchun strelka tugmalaridan foydalaning.",
+      "cell": "{letter}, {row}-qator, {col}-ustun",
+      "cellFound": ", topilgan soʻzning qismi",
+      "wordsHeading": "Topiladigan soʻzlar",
+      "wordFound": " (topildi)",
+      "sheetTitle": "Soʻz izlash: {theme}",
+      "sheetNote": "Soʻzlar yonma-yon yoki pastga yoziladi.",
+      "unavailable": "Bu tilga harflar katagi mos kelmaydi, shuning uchun soʻz izlash bu yerda taklif qilinmaydi. Oʻrniga rasm oʻyinlarini sinab koʻring."
+    },
+    "coloring": {
+      "guidance": "Rangni, soʻng rasmning bir qismini bosing.",
+      "restart": "Ranglarni tozalash",
+      "cleared": "Sahifa yana boʻsh.",
+      "pageLegend": "Sahifa",
+      "print": "Bu sahifani chop etish",
+      "colorsLabel": "Ranglar",
+      "paintChosen": "{paint} tanlandi.",
+      "painted": "{part} endi {paint|lower}.",
+      "artLabel": "{page}, boʻyaladigan {count} ta qism",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, boʻyalmagan",
+      "paints": {
+        "red": "Qizil",
+        "orange": "Toʻq sariq",
+        "yellow": "Sariq",
+        "green": "Yashil",
+        "blue": "Koʻk",
+        "purple": "Binafsha",
+        "pink": "Pushti",
+        "brown": "Qoʻngʻir",
+        "sky-blue": "Havorang",
+        "cream": "Krem",
+        "gray": "Kulrang",
+        "white": "Oq"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Kartani ovoz chiqarib oʻqing. Toʻgʻri javob yoʻq.",
+      "position": "{n}-karta, jami {total} ta",
+      "themeLegend": "Mavzu",
+      "next": "Keyingi karta",
+      "previous": "Oldingi karta",
+      "print": "Barcha kartalarni chop etish",
+      "sheetTitle": "Suhbat kartalari"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Avval suratlaringizni tanlang.",
+      "guidance": "Suratni bosing, soʻng unga mos suratni bosing.",
+      "restart": "Qayta aralashtirish",
+      "intro": "Shu qurilmadan **2 tadan 6 tagacha surat tanlang**. Ular faqat shu sahifada koʻrsatiladi va hech qachon yuklanmaydi yoki saqlanmaydi.",
+      "choose": "Suratlarni tanlash",
+      "chooseDifferent": "Boshqa suratlarni tanlash",
+      "clear": "Suratlarni tozalash",
+      "cleared": "Suratlar bu sahifadan tozalandi.",
+      "atLeastTwo": "Iltimos, kamida ikkita surat tanlang.",
+      "usingFirst": "Dastlabki {max} ta surat ishlatilmoqda.",
+      "skipped": {
+        "one": "{count} ta fayl biz koʻrsata oladigan surat emas edi.",
+        "other": "{count} ta fayl biz koʻrsata oladigan surat emas edi."
+      },
+      "playAgain": "Shu suratlar bilan yana oʻynash",
+      "empty": "Suratlaringiz shu yerda, har biri ikki martadan koʻrinadi."
+    },
+    "pictureBingo": {
+      "guidance": "Avval kartalarni chop eting. Soʻng bu e’lon qiluvchini eng katta ekraningizda koʻrsating.",
+      "called": {
+        "one": "{name}. {total} ta rasmdan {called} tasi e’lon qilindi.",
+        "other": "{name}. {total} ta rasmdan {called} tasi e’lon qilindi."
+      },
+      "start": "Birinchi rasmni e’lon qilish uchun «Keyingi rasm»ni bosing.",
+      "restart": "Yangi oʻyin boshlash",
+      "squaresLegend": "Har bir kartadagi kataklar",
+      "squares": "{n} ta katak ({side} × {side})",
+      "cardsLegend": "Nechta karta chop etiladi",
+      "cards": {
+        "one": "{n} ta karta",
+        "other": "{n} ta karta"
+      },
+      "print": {
+        "one": "{n} ta bingo kartasini chop etish",
+        "other": "{n} ta bingo kartasini chop etish"
+      },
+      "ready": "Tayyor boʻlganingizda",
+      "next": "Keyingi rasm",
+      "allCalled": "Barcha rasmlar e’lon qilindi",
+      "alreadyCalled": "Allaqachon e’lon qilingan",
+      "sheetTitle": "Rasmli bingo · {n}-karta"
+    },
+    "calmBreathing": {
+      "guidance": "Doira kattalashganda nafas oling, kichrayganda nafas chiqaring. U olti nafasdan keyin oʻzi toʻxtaydi.",
+      "paceLegend": "Sur’at",
+      "paceSlow": "Sekin (har tomonga 5 soniya)",
+      "paceGentle": "Muloyim (har tomonga 4 soniya)",
+      "ready": "Tayyor boʻlganingizda",
+      "in": "Nafas oling",
+      "hold": "Dam",
+      "out": "Nafas chiqaring",
+      "start": "Boshlash",
+      "stop": "Toʻxtatish",
+      "started": "Boshlandi. Doira kattalashganda nafas oling.",
+      "stopped": "Toʻxtatildi.",
+      "finished": "Bu olti sekin nafas edi. Xohlagan paytingizda yana boshlang."
+    }
+  },
+  "pictures": {
+    "teacup": "Choy piyolasi",
+    "kettle": "Choynak",
+    "bread": "Non",
+    "frying-pan": "Tuxumli tova",
+    "cake": "Tugʻilgan kun torti",
+    "sunflower": "Kungaboqar",
+    "tulip": "Qizil lola",
+    "watering-can": "Leyka",
+    "potted-plant": "Tuvakdagi oʻsimlik",
+    "tree": "Daraxt",
+    "bird": "Shoxdagi qushcha",
+    "butterfly": "Kapalak",
+    "dog": "It",
+    "cat": "Mushuk",
+    "fish": "Oltin baliqcha",
+    "apple": "Qizil olma",
+    "pear": "Nok",
+    "strawberry": "Qulupnay",
+    "banana": "Banan",
+    "lemon": "Limon",
+    "cherries": "Gilos",
+    "house": "Uy",
+    "lamp": "Stol chiroqi",
+    "armchair": "Kreslo",
+    "key": "Eski kalit",
+    "umbrella": "Soyabon",
+    "sailboat": "Yelkanli qayiq",
+    "car": "Klassik mashina",
+    "bicycle": "Velosiped",
+    "balloon": "Issiq havo shari",
+    "lighthouse": "Mayoq",
+    "sun": "Quyosh",
+    "moon": "Oy va yulduzlar"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "Birlashgan oʻzar, birlashmagan",
+        "end": "toʻzar",
+        "others": [
+          "qolar",
+          "yurar"
+        ],
+        "prompt": "Birgalikda qilgan qaysi ishingizdan zavqlangansiz?"
+      },
+      {
+        "start": "Mehnatning noni",
+        "end": "shirin",
+        "others": [
+          "issiq",
+          "mazali"
+        ],
+        "prompt": "Oʻz qoʻlingiz bilan qilgan qaysi ishdan mamnun boʻlgansiz?"
+      },
+      {
+        "start": "Mehnatning tagi —",
+        "end": "rohat",
+        "others": [
+          "shirin",
+          "baraka"
+        ],
+        "prompt": "Ishdan keyin dam olish sizga qanday yoqadi?"
+      },
+      {
+        "start": "Yaxshi soʻz —",
+        "end": "jon ozigʻi",
+        "others": [
+          "dil rohati",
+          "el ozigʻi"
+        ],
+        "prompt": "Koʻnglingizni koʻtargan biror yaxshi soʻz haqida gapirib bering."
+      },
+      {
+        "start": "Yaxshi soʻz bilan ilon",
+        "end": "inidan chiqar",
+        "others": [
+          "uyidan chiqar",
+          "qoʻlga kirar"
+        ],
+        "prompt": "Mehribon gap bilan hal boʻlgan biror voqea haqida gapirib bering."
+      },
+      {
+        "start": "Sabrning tagi —",
+        "end": "sariq oltin",
+        "others": [
+          "oq kumush",
+          "yashil bogʻ"
+        ],
+        "prompt": "Sabr bilan kutib, keyin xursand boʻlgan biror narsa haqida gapirib bering."
+      },
+      {
+        "start": "Sabr qilgan",
+        "end": "murodiga yetar",
+        "others": [
+          "xursand boʻlar",
+          "yoʻlini topar"
+        ],
+        "prompt": "Kutilgan quvonchli kun haqida gapirib bering."
+      },
+      {
+        "start": "Yetti oʻlchab,",
+        "end": "bir kes",
+        "others": [
+          "bir tik",
+          "bir yoz"
+        ],
+        "prompt": "Nimadir tikkan yoki yasagan paytingiz haqida gapirib bering."
+      },
+      {
+        "start": "Nima eksang,",
+        "end": "shuni oʻrasan",
+        "others": [
+          "shuni yersan",
+          "shuni olasan"
+        ],
+        "prompt": "Bogʻingizda yoki hovlingizda nima ekishni yoqtirgansiz?"
+      },
+      {
+        "start": "Ona yurt —",
+        "end": "oltin beshik",
+        "others": [
+          "kumush beshik",
+          "katta uy"
+        ],
+        "prompt": "Tugʻilib oʻsgan joyingiz haqida gapirib bering."
+      },
+      {
+        "start": "Mehmon —",
+        "end": "otangdan ulugʻ",
+        "others": [
+          "uyga fayz",
+          "dasturxon ziynati"
+        ],
+        "prompt": "Uyingizga mehmon kelganda dasturxonga nima qoʻyishni yoqtirasiz?"
+      },
+      {
+        "start": "Koʻrpangga qarab",
+        "end": "oyoq uzat",
+        "others": [
+          "qadam tashla",
+          "yoʻl yur"
+        ],
+        "prompt": "Uyingizdagi eng qulay joy qayer?"
+      },
+      {
+        "start": "Sutdan ogʻzi kuygan qatiqni ham",
+        "end": "puflab ichar",
+        "others": [
+          "sovitib ichar",
+          "oldin tatib koʻrar"
+        ],
+        "prompt": "Qatiqni nima bilan yeyishni yoqtirasiz?"
+      },
+      {
+        "start": "Yaxshilik qil, daryoga tashla, baliq bilmasa,",
+        "end": "Xoliq biladi",
+        "others": [
+          "daryo biladi",
+          "qush biladi"
+        ],
+        "prompt": "Kimgadir yordam berish sizga qanday tuyuladi?"
+      },
+      {
+        "start": "Bir bolaga yetti",
+        "end": "qoʻshni ota-ona",
+        "others": [
+          "qoʻshni doʻst",
+          "mahalla ota-ona"
+        ],
+        "prompt": "Qoʻshnilaringiz haqida yoqimli narsa aytib bering."
+      },
+      {
+        "start": "Qoʻshni haqi —",
+        "end": "Tangri haqi",
+        "others": [
+          "ota haqi",
+          "mehmon haqi"
+        ],
+        "prompt": "Mahallada bayramlar qanday oʻtishi sizga yoqadi?"
+      },
+      {
+        "start": "Qush uyasida",
+        "end": "koʻrganini qiladi",
+        "others": [
+          "koʻrganini yeydi",
+          "koʻrganini aytadi"
+        ],
+        "prompt": "Birovdan oʻrgangan biror ish haqida gapirib bering."
+      },
+      {
+        "start": "Til —",
+        "end": "dilning tarjimoni",
+        "others": [
+          "dilning kaliti",
+          "dilning koʻzgusi"
+        ],
+        "prompt": "Sevimli qoʻshiq yoki ashulangiz haqida gapirib bering."
+      },
+      {
+        "start": "Bilagi zoʻr birni yiqar, bilimi zoʻr",
+        "end": "mingni",
+        "others": [
+          "yuzni",
+          "ikkini"
+        ],
+        "prompt": "Qaysi hunar yoki mahoratni qadrlaysiz?"
+      },
+      {
+        "start": "Yaxshi niyat —",
+        "end": "yarim davlat",
+        "others": [
+          "yarim bayram",
+          "yarim non"
+        ],
+        "prompt": "Yaxshi niyat bilan qilingan biror sovgʻa haqida gapirib bering."
+      }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEGIKLMNORSTUY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Mevalar",
+          "words": [
+            "OLMA",
+            "ANOR",
+            "UZUM",
+            "NOK",
+            "BEHI",
+            "LIMON",
+            "ANJIR",
+            "GILOS",
+            "QOVUN"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Bogʻ",
+          "words": [
+            "GUL",
+            "DARAXT",
+            "BARG",
+            "NIHOL",
+            "ILDIZ",
+            "ARIQ",
+            "TOK",
+            "PIYOZ",
+            "SABZI"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Oshxona",
+          "words": [
+            "NON",
+            "QOZON",
+            "KOSA",
+            "LAGAN",
+            "PIYOLA",
+            "TOVA",
+            "TUZ",
+            "SUT",
+            "SUV"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Ob-havo",
+          "words": [
+            "BULUT",
+            "QOR",
+            "ISSIQ",
+            "SOVUQ",
+            "TUMAN",
+            "OSMON",
+            "HAVO",
+            "BAHOR",
+            "KUZ"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Hayvonlar",
+          "words": [
+            "SIGIR",
+            "TOVUQ",
+            "QUYON",
+            "TULKI",
+            "AYIQ",
+            "FIL",
+            "TUYA",
+            "ARSLON",
+            "BURGUT"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Uy",
+          "words": [
+            "DERAZA",
+            "DEVOR",
+            "STOL",
+            "LAMPA",
+            "SOAT",
+            "KALIT",
+            "GILAM",
+            "OYNA",
+            "PARDA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Barcha kartalar",
+        "food": "Taomlar",
+        "home": "Uy",
+        "outdoors": "Tabiat va bogʻ",
+        "animals": "Hayvonlar",
+        "travel": "Sayohat",
+        "work": "Ish va mashgʻulotlar",
+        "music": "Musiqa va maroq",
+        "seasons": "Fasllar"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Oshxonadagi sevimli hidingiz qaysi?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Bayramda qanday shirinlik tanlagan boʻlardingiz?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Sevimli meva yoki shirinlik haqida gapirib bering."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Koʻk choymi yoki qora choy? Qanday ichishni yoqtirasiz?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Yaxshi nonushta nimadan iborat boʻladi?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Meva yoki rezavorni toʻgʻridan-toʻgʻri oʻsimlikdan terib yeganmisiz?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Shirin yoki nordon: qaysi biri koʻproq yoqadi?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Qaysi taom yoz ta’mini beradi?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Yashashni yoqtirgan uyingiz haqida gapirib bering."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Oʻtirib dam olishni yoqtiradigan joyingiz qayerda?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Tinch kechqurun nima qilishni yoqtirasiz?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Maxsus qutida saqlaydigan qadrli narsangiz qanday boʻlardi?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Choy ichgani kimni mehmon qilardingiz?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Yomgʻirli kunda nima qilishni yoqtirasiz?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Bogʻingizga qanday gullar ekardingiz?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Sizga yoqqan daraxt yoki bogʻ haqida gapirib bering."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Bogʻda boʻlishning eng yaxshi tomoni nima?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Qaysi rangdagi gullarni yoqtirasiz?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Uyda oʻsimliklar boʻlishini yoqtirasizmi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Mukammal quyoshli kun sizningcha qanday?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Siz bilgan it haqida gapirib bering."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Mushuk yoki it, yoki ikkalasi ham emasmi? Ularning nimasi yoqadi?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Tashqarida qaysi qushlarni koʻrasiz yoki eshitasiz?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Baliq tutganmisiz yoki akvarium saqlaganmisiz?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Koʻrgan eng goʻzal hayvoningiz qaysi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Sizga yoqqan mashina haqida gapirib bering."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Kunni dengiz boʻyida yoki togʻda oʻtkazishni afzal koʻrasizmi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Qayerga sayr qilgani borishni xohlardingiz?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Istalgan joy ustidan uchsangiz, qayerda boʻlardi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Zavqlangan safaringiz haqida gapirib bering."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Qanday ishni qilishdan zavqlangansiz?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Soatlab shugʻullanishingiz mumkin boʻlgan mashgʻulotingiz qaysi?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Oʻzingiz tayyorlash yoki tuzatish bilan mashhur boʻlgan narsangiz nima?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Ishni endi boshlayotgan yoshga qanday maslahat berardingiz?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Qanday musiqada oyoqlaringiz oʻzi uriladi?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Yaxshi bazm nimadan iborat boʻladi?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Eshitishni yoqtiradigan xonanda yoki ashulachi kim?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Qayta tomosha qilishni yoqtiradigan film yoki koʻrsatuv qaysi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Yozning nimasi sizga eng koʻp yoqadi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Kuzning nimasidan zavqlanasiz?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Qish oqshomida nima qilish yoqimli?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Siz uchun bahorning birinchi belgilari qanday?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Qor, yomgʻir yoki quyosh: qaysi birini afzal koʻrasiz?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Bahor bayramlari, masalan Navroʻz, qanday oʻtishi sizga yoqadi?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Tuvakdagi gul",
+          "regions": {
+            "sky": "Fon",
+            "table": "Stol",
+            "stem": "Poya",
+            "leaf-left": "Chap barg",
+            "leaf-right": "Oʻng barg",
+            "petal-1": "1-gulbarg",
+            "petal-2": "2-gulbarg",
+            "petal-3": "3-gulbarg",
+            "petal-4": "4-gulbarg",
+            "petal-5": "5-gulbarg",
+            "petal-6": "6-gulbarg",
+            "petal-7": "7-gulbarg",
+            "petal-8": "8-gulbarg",
+            "center": "Gul markazi",
+            "pot": "Tuvak",
+            "pot-rim": "Tuvak labi"
+          }
+        },
+        "house": {
+          "name": "Uy",
+          "regions": {
+            "sky": "Osmon",
+            "sun": "Quyosh",
+            "grass": "Oʻt",
+            "chimney": "Moʻri",
+            "walls": "Devorlar",
+            "roof": "Tom",
+            "door": "Eshik",
+            "window-left": "Chap deraza",
+            "window-right": "Oʻng deraza",
+            "path": "Yoʻlak"
+          }
+        },
+        "teacup": {
+          "name": "Choy piyolasi",
+          "regions": {
+            "background": "Fon",
+            "saucer": "Likopcha",
+            "handle": "Dastasi",
+            "cup": "Piyola",
+            "band": "Piyoladagi chiziq",
+            "tea": "Choy"
+          }
+        },
+        "butterfly": {
+          "name": "Kapalak",
+          "regions": {
+            "background": "Fon",
+            "wing-top-left": "Yuqori chap qanot",
+            "wing-top-right": "Yuqori oʻng qanot",
+            "wing-bottom-left": "Pastki chap qanot",
+            "wing-bottom-right": "Pastki oʻng qanot",
+            "spot-left": "Chap qanotdagi dogʻ",
+            "spot-right": "Oʻng qanotdagi dogʻ",
+            "body": "Tana"
+          }
+        },
+        "sailboat": {
+          "name": "Yelkanli qayiq",
+          "regions": {
+            "sky": "Osmon",
+            "sea": "Dengiz",
+            "sail-big": "Katta yelkan",
+            "sail-small": "Kichik yelkan",
+            "mast": "Machta",
+            "hull": "Qayiq",
+            "flag": "Bayroqcha"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Oshxona va bogʻ",
+          "baskets": [
+            "Oshxona",
+            "Bogʻ"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Mevalar va hayvonlar",
+          "baskets": [
+            "Mevalar",
+            "Hayvonlar"
+          ]
+        },
+        "home-travel": {
+          "label": "Uy va sayohat",
+          "baskets": [
+            "Uy",
+            "Sayohat"
+          ]
+        }
+      }
+    }
+  }
+}

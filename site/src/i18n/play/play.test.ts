@@ -109,8 +109,11 @@ describe('playProps', () => {
 
   it('leaves Finish the saying out only where the sayings fall short', () => {
     expect(NO_SAYINGS_GAME.includes('en')).toBe(false);
+    // Count the language's own file: playProps fills a missing list from English.
+    const own = import.meta.glob<{ default: { content?: { sayings?: unknown[] } } }>('./*.json', { eager: true });
     for (const code of NO_SAYINGS_GAME) {
-      expect(playProps(code).content.sayings.length, `${code} has enough sayings, so the game should be on`).toBeLessThan(30);
+      const count = own[`./${code}.json`]?.default.content?.sayings?.length ?? 0;
+      expect(count, `${code} has enough sayings, so the game should be on`).toBeLessThan(30);
     }
   });
 

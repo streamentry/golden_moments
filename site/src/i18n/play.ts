@@ -71,7 +71,7 @@ const TRANSLATIONS = new Map(
  * Scripts where a letter-by-letter grid does not work well. A translation can
  * still turn the word search on by setting `content.wordSearch.available`.
  */
-export const NO_LETTER_GRID: readonly string[] = ['zh-Hans', 'zh-Hant', 'ja', 'ko', 'th'];
+export const NO_LETTER_GRID: readonly string[] = ['zh-Hans', 'zh-Hant', 'ja', 'ko', 'th', 'my'];
 
 /**
  * Languages that leave Finish the saying out because a translator could not
@@ -80,7 +80,7 @@ export const NO_LETTER_GRID: readonly string[] = ['zh-Hans', 'zh-Hant', 'ja', 'k
  * dementia, so the game is omitted instead (no page, card or hreflang) until a
  * native speaker adds real ones and removes the language from this list.
  */
-export const NO_SAYINGS_GAME: readonly string[] = ['ha', 'fil', 'pa', 'ne', 'az', 'kn', 'am'];
+export const NO_SAYINGS_GAME: readonly string[] = ['ha', 'fil', 'pa', 'ne', 'az', 'kn', 'am', 'my', 'uz', 'or', 'as', 'ps'];
 
 /** `ui` sections every game uses (the frame and picture tiles). */
 export const SHARED_UI: readonly (keyof PlayUi)[] = ['frame', 'tile'];

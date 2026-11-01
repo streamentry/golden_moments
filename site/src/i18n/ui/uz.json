@@ -1,0 +1,533 @@
+{
+  "common": {
+    "skipLink": "Asosiy mazmunga oʻtish",
+    "brandName": "Golden Moments",
+    "brandTag": "Demensiya mashgʻulotlari",
+    "homeLabel": "Golden Moments bosh sahifasi",
+    "mainNav": "Asosiy",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: choy piyolasi, kungaboqar va itning katta, samimiy rasmlari",
+    "languages": "Til",
+    "englishOnly": "(inglizcha)",
+    "machineTranslated": "Bu sahifa avtomatik tarjima qilingan va hali ona tilida soʻzlashuvchi tomonidan tekshirilmagan.",
+    "readOriginal": "Asl nusxasini inglizcha oʻqish",
+    "nav": {
+      "games": "Oʻyinlar",
+      "activities": "Mashgʻulotlar",
+      "caregiving": "Parvarish",
+      "brainHealth": "Miya salomatligi"
+    },
+    "faqTitle": "Savol va javoblar",
+    "breadcrumb": "Sahifa yoʻli",
+    "home": "Bosh sahifa",
+    "lastUpdated": "Oxirgi yangilanish",
+    "topics": "Mavzular"
+  },
+  "footer": {
+    "play": "Oʻynash",
+    "picturePairs": "Rasm juftliklari",
+    "conversationCards": "Suhbat kartalari",
+    "pictureBingo": "Rasmli bingo",
+    "allGames": "Barcha oʻyinlar",
+    "activityIdeas": "Mashgʻulot gʻoyalari",
+    "ideas101": "101 ta mashgʻulot gʻoyasi",
+    "lateStage": "Keyingi bosqich mashgʻulotlari",
+    "printable": "Chop etiladigan mashgʻulotlar",
+    "allActivities": "Barcha mashgʻulotlar",
+    "forCaregivers": "Qarovchilar uchun",
+    "playTogether": "Birga qanday oʻynash",
+    "selfCare": "Oʻzingizga gʻamxoʻrlik",
+    "brainHealth": "Miya salomatligi tadqiqotlari",
+    "faq": "Savol va javoblar",
+    "about": "Haqida",
+    "approach": "Yondashuvimiz",
+    "howWeWrite": "Qanday yozamiz",
+    "organizations": "Tashkilotlar uchun",
+    "app": "Golden Moments ilovasi",
+    "appHelp": "Ilova yordami",
+    "support": "Yordam",
+    "legal": "Huquqiy ma’lumot",
+    "sitePrivacy": "Veb-sayt maxfiyligi",
+    "appPrivacy": "Ilova maxfiylik siyosati",
+    "privacyChoices": "Maxfiylik tanlovlari",
+    "terms": "Shartlar va ilova litsenziyasi",
+    "safety": "Xavfsizlik va moʻljallangan foydalanish",
+    "accessibility": "Foydalanish imkoniyati",
+    "healthNotice": "Sogʻliq haqida ma’lumot ogohlantirishi",
+    "allLegal": "Barcha huquqiy ma’lumotlar",
+    "note": "Golden Moments zavqlanish uchun oddiy birgalikdagi mashgʻulotlarni taklif qiladi. Bu tibbiy maslahat, test yoki davolash emas va u hech kimni aniqlamaydi, oʻlchamaydi yoki baholamaydi. Sogʻliq haqidagi savollar boʻyicha shifokor bilan gaplashing. Favqulodda holatda hududingizdagi favqulodda raqamga qoʻngʻiroq qiling.",
+    "publisher": "Cloudjet Solutions Pte. Ltd. tomonidan nashr etilgan."
+  },
+  "home": {
+    "title": "Demensiya va Alsgeymer uchun oʻyinlar | Golden Moments",
+    "description": "Demensiya yoki Alsgeymer bilan yashayotganlar va qarovchilari uchun bepul sokin rasm oʻyinlari va mashgʻulot gʻoyalari. Roʻyxatsiz, taymersiz, ballsiz.",
+    "eyebrow": "Bepul · Reklamasiz · Roʻyxatdan oʻtishsiz · Taymer va ballsiz",
+    "h1": "Demensiya bilan yashayotganlar uchun sokin oʻyin va mashgʻulotlar",
+    "lede": "Oddiy rasm oʻyinlari, tanish suratlar va birga zavqlanish uchun mashgʻulotlar: oʻzingizga qulay sur’atda.",
+    "playGame": "Oʻyin oʻynash",
+    "findIdeas": "Mashgʻulot gʻoyalarini topish",
+    "facts": [
+      "Telefon, planshet va kompyuterda ishlaydi",
+      "Koʻrinib turadigan katta rasmlar",
+      "Istalgan paytda toʻxtang; yutqazadigan narsa yoʻq"
+    ],
+    "heroApp": "Shuningdek, iPhone, iPad va Android uchun oʻzingizning oilaviy suratlaringiz bilan bepul ilova",
+    "albumNote": "«Choy piyolasining ikki rasmi, birga.»",
+    "gamesEyebrow": "Brauzeringizda oʻynang",
+    "gamesTitle": "Hoziroq oʻynash mumkin boʻlgan oʻyinlar",
+    "gamesLede": "Har biri sokin, kattalarga mos va boshlash oson. Birini tanlang, yonma-yon oʻtiring va navbatma-navbat bosing.",
+    "seeAllGames": "Barcha {count} ta oʻyinni koʻrish",
+    "howTitle": "Bu qanday ishlaydi",
+    "steps": [
+      {
+        "title": "Tanish narsani tanlang",
+        "text": "Choy piyolalari, bogʻlar, uy hayvonlari va yelkanli qayiqlar rasmlari. Avval oʻqish yoki qoidalarni oʻrganish shart emas."
+      },
+      {
+        "title": "Yonma-yon oʻtiring",
+        "text": "Oʻzi bosishiga qoʻyib bering. Rasmlar haqida gaplashing. Mos kelmagan rasm keyingi bosishni kutib turadi."
+      },
+      {
+        "title": "Yaxshi paytda toʻxtang",
+        "text": "Bitta oʻyinning oʻzi toʻliq mashgʻulot. «Hozircha yetarli» tugmasi har doim ekranda."
+      }
+    ],
+    "stageEyebrow": "Ekrandan tashqari",
+    "stageTitle": "Har bir bosqich uchun mashgʻulot gʻoyalari",
+    "stageLede": "Musiqa, kundalik ishlar, xotiralar va sokin sezgi lahzalari, hozir qulay boʻlgan narsaga moslashtirilgan.",
+    "ideas101": "101 ta mashgʻulot gʻoyasi",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Dastlabki bosqich",
+        "text": "Sevgan ishingizni ozgina moslashtirib davom ettiring: mashgʻulotlar, sayrlar, soʻz oʻyinlari va birga rejalashtirish.",
+        "label": "Dastlabki bosqich gʻoyalari"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Oʻrta bosqich",
+        "text": "Qadamlarga boʻlingan oddiy, tanish ishlar: buklash, saralash, musiqa, rasm oʻyinlari va qisqa sayrlar.",
+        "label": "Oʻrta bosqich gʻoyalari"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Keyingi bosqich",
+        "text": "Teginish, tovush va koʻrish orqali qulaylik va yaqinlik: qoʻl parvarishi, sevimli qoʻshiqlar, suratlar va birga boʻlish.",
+        "label": "Keyingi bosqich gʻoyalari"
+      }
+    ],
+    "specificHtml": "Aniq narsa qidiryapsizmi? <a href=\"/activities/alzheimers/\">Alsgeymer uchun mashgʻulotlar va oʻyinlar</a>, <a href=\"/activities/memory-games/\">sokin xotira oʻyinlari</a>, <a href=\"/activities/trivia/\">oson viktorina</a> yoki <a href=\"/activities/puzzles/\">jumboqlarni</a> sinab koʻring.",
+    "approachEyebrow": "Yondashuvimiz",
+    "approachTitle": "Birgalikdagi mashgʻulot, xotira sinovi emas",
+    "approachLede": "Koʻp «miya oʻyinlari» tezlik, ball va ketma-ket gʻalabalar atrofida qurilgan. Demensiya bilan yashayotgan inson uchun bu imtihondek tuyulishi mumkin. Biz buning teskarisini yaratdik.",
+    "approachLink": "Nega bunday ishlab chiqamiz",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Yutqazadigan narsa yoʻq",
+        "text": "Soat, ball, jon yoki yutqazish yoʻq. Boshqacha rasm — bu pauza, xato emas."
+      },
+      {
+        "icon": "eye",
+        "title": "Rasmlar koʻrinib turadi",
+        "text": "Eslab qolishdan koʻra tanish. Juftlash yuzi tepaga qaragan holda boshlanadi, eslab qoladigan narsa yoʻq."
+      },
+      {
+        "icon": "people",
+        "title": "Kattalarga munosib",
+        "text": "Iliq, oddiy soʻzlar va hayotiy rasmlar. Hech qachon multfilmlar yoki bolalarcha gap yoʻq."
+      },
+      {
+        "icon": "shield",
+        "title": "Dastlab maxfiy",
+        "text": "Akkaunt ham, reklama ham yoʻq. Suratlaringiz qurilmangizdan chiqmaydi."
+      }
+    ],
+    "guidesEyebrow": "Qarovchilar uchun",
+    "guidesTitle": "Kundalik parvarish uchun amaliy qoʻllanmalar",
+    "allCaregiving": "Barcha parvarish qoʻllanmalari",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Oʻyinlarni birga qanday oʻynash",
+        "text": "Tayyorlash, sur’at va oʻyin zerikarli boʻlib qolganda nima qilish."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Mashgʻulotga «yoʻq» deyishganda",
+        "text": "Rad etishning keng tarqalgan sabablari va keyinroq yana urinib koʻrishning muloyim usullari."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Planshetni sozlash",
+        "text": "Kattaroq matn, kamroq uzilishlar va bitta oddiy bosh ekran."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Bepul chop etiladigan mashgʻulotlar",
+        "text": "Yirik harfli soʻz izlash, boʻyash sahifalari, bingo va suhbat kartalari."
+      }
+    ],
+    "researchTitle": "Miya salomatligi: tadqiqotlar aslida nima deydi",
+    "researchText": "Demensiyaning oldini olish mumkinmi? «Miya oʻyinlari» yordam beradimi? Roʻza, ovqatlanish, uyqu va eshitish-chi? Oddiy, manbali javoblar, dalillar zaif boʻlgan joylari bilan birga.",
+    "researchLink": "Tadqiqot qoʻllanmalarini oʻqish",
+    "appEyebrow": "Ilova ham bor",
+    "appTitle": "iPhone, iPad va Android uchun Golden Moments",
+    "appText": "Bepul ilova internetsiz ishlaydi va siz tanlagan oilaviy suratlardan foydalana oladi, ular qurilmangizda nusxa sifatida saqlanadi. Xuddi shu sokin dizayn: toʻrtta katta katak, taymer ham, ball ham yoʻq.",
+    "aboutApp": "Ilova haqida",
+    "faq": [
+      {
+        "q": "Demensiya bilan yashayotganlar uchun qanday oʻyinlar yaxshi?",
+        "a": "Yaxshi oʻyinlar oddiy, tanish va bosimsiz: juftlash uchun katta rasmlar, saralash, oson jumboqlar, mashhur maqollarni tugatish, boʻyash, rasmli bingo va suhbat kartalari. Eng yaxshi tanlov — inson bugun yoqtirgani. Taymer, ball va sinovga oʻxshagan narsalardan qoching."
+      },
+      {
+        "q": "Bu demensiya oʻyinlari bepulmi?",
+        "a": "Ha. Golden Momentsdagi har bir oʻyin va chop etiladigan material bepul: akkaunt, roʻyxatdan oʻtish yoki yuklab olish shart emas. Oʻyinlar telefon, planshet yoki kompyuterdagi veb-brauzerda ishlaydi."
+      },
+      {
+        "q": "«Miya oʻyinlari» demensiyaning oldini oladimi?",
+        "a": "Hech bir oʻyin demensiyaning oldini olishi isbotlanmagan va Golden Moments hech narsani davolash yoki oldini olishni da’vo qilmaydi. Oʻyinlarimiz zavq va birga vaqt oʻtkazish uchun. Miya salomatligi boʻlimimiz tadqiqotlar nimani koʻrsatishi va nimani koʻrsatmasligini tushuntiradi."
+      },
+      {
+        "q": "Bu oʻyinlar Alsgeymer bilan yashayotgan inson uchun mosmi?",
+        "a": "Ha. Alsgeymer kasalligi demensiyaning eng keng tarqalgan sababi va oʻyinlar shunga moʻljallangan: koʻrinib turadigan katta rasmlar, kam tanlov va eslab qolish yoki xato qilish uchun hech narsa yoʻq. Juftlash, saralash va tanish maqollarni tugatish yangi narsani oʻrganishga emas, uzoq yillik bilimlarga tayanadi."
+      },
+      {
+        "q": "Keyingi bosqich demensiyasi bilan yashayotgan inson bu mashgʻulotlardan foydalana oladimi?",
+        "a": "Koʻpincha ha, yonida kimdir boʻlsa. Ikkita rasmli «Bir xilini toping», toʻrtta katakli «Rasm juftliklari», boʻyash sahifasi yoki sokin nafas pauzasidan boshlang. Qisqa qiling, uning yetaklashiga ergashing va yetarli boʻlganda toʻxtang."
+      },
+      {
+        "q": "Ma’lumotlarim maxfiymi?",
+        "a": "Saytda akkaunt ham, reklama ham yoʻq. Qaysi sahifalar koʻrilganini tushunish uchun Google Analytics’dan foydalanamiz. «Surat juftliklari» uchun tanlagan suratlaringiz faqat brauzeringizda koʻrsatiladi va hech qachon yuklanmaydi."
+      },
+      {
+        "q": "Golden Momentsni kim yaratadi?",
+        "a": "Golden Moments — oilalar va qarovchilar uchun veb va bepul ilova koʻrinishida sokin, kattalarga mos rasm mashgʻulotlarini yaratadigan kichik jamoa. Biz shifokor emasmiz va bu yerdagi hech narsa tibbiy maslahat emas."
+      }
+    ]
+  },
+  "stage": {
+    "early": "dastlabki",
+    "middle": "oʻrta",
+    "late": "keyingi",
+    "hintOne": "Koʻpincha {list} bosqichga mos keladi",
+    "hintMany": "Koʻpincha {list} bosqichlarga mos keladi",
+    "labelEarly": "Dastlabki bosqich",
+    "labelMiddle": "Oʻrta bosqich",
+    "labelLate": "Keyingi bosqich"
+  },
+  "cards": {
+    "aboutGame": "Bu oʻyin haqida",
+    "printable": "Chop etiladigan",
+    "play": "{name} oʻynash →",
+    "readGuide": "Qoʻllanmani oʻqish"
+  },
+  "playCta": {
+    "title": "Sokin oʻyinga tayyormisiz?",
+    "text": "Katta rasmlar, taymer yoʻq, ball yoʻq va roʻyxatdan oʻtish shart emas. Brauzeringizda birga oʻynang.",
+    "play": "Oʻyin oʻynash",
+    "all": "Barcha oʻyinlarni koʻrish",
+    "aria": "Oʻyin oʻynash"
+  },
+  "appCta": {
+    "title": "Bu oʻyinlarni oʻzingiz bilan olib yuring",
+    "text": "iPhone, iPad va Android uchun bepul Golden Moments ilovasi: katta rasm kataklari, oʻzingizning oilaviy suratlaringiz bilan oʻyinlar va Wi‑Fi’siz ishlaydigan rasm toʻplamlari. Akkaunt, reklama, taymer yoki ball yoʻq.",
+    "appStore": "App Store’dan olish",
+    "googlePlay": "Google Play’dan olish",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Ilova haqida",
+    "aria": "Ilovani olish"
+  },
+  "sections": {
+    "activities": {
+      "label": "Mashgʻulotlar",
+      "title": "Demensiya bilan yashayotganlar uchun mashgʻulotlar",
+      "seo": "Demensiya uchun mashgʻulotlar: bosqichlar boʻyicha gʻoyalar",
+      "description": "Demensiya bilan yashayotganlar uchun har bir bosqichga mashgʻulot gʻoyalari: musiqa, xotiralar, kundalik ishlar, hunar va bepul chop etiladigan materiallar.",
+      "lede": "Mazmunli mashgʻulot — bu qulaylik, maqsad yoki yaqinlik lahzasini beradigan har qanday narsa. Insonning doim yoqtirgan narsasidan boshlang va uni bugungi kunga moslang."
+    },
+    "caregiving": {
+      "label": "Parvarish",
+      "title": "Parvarish qoʻllanmalari",
+      "seo": "Demensiya parvarishi qoʻllanmalari: kundalik amaliy yordam",
+      "description": "Demensiya qarovchilari uchun amaliy, mehribon qoʻllanmalar: birga oʻynash, muloqot, rad etish, kechki bezovtalik, planshetlar va oʻzingizga gʻamxoʻrlik.",
+      "lede": "Demensiya bilan yashayotgan insonni parvarish qilishning kundalik lahzalari uchun oddiy, amaliy yordam, shu jumladan oʻzingizga gʻamxoʻrlik."
+    },
+    "brain-health": {
+      "label": "Miya salomatligi",
+      "title": "Miya salomatligi: tadqiqotlar nima deydi",
+      "seo": "Miya salomatligi va demensiya xavfi: tadqiqotlar nima deydi",
+      "description": "Demensiyaning oldini olish mumkinmi? Xavf omillari, miya oʻyinlari, roʻza, ovqatlanish, uyqu va eshitish haqida halol, manbali qoʻllanmalar.",
+      "lede": "Demensiya xavfini kamaytirish haqida yirik tadqiqotlar aslida nimani koʻrsatadi, oddiy tushuntirilgan, dalillar zaif yoki aralash joylari bilan birga. Umumiy ma’lumot, tibbiy maslahat emas."
+    }
+  },
+  "guide": {
+    "updated": "Yangilangan",
+    "minuteRead": "{n} daqiqalik oʻqish",
+    "byTeam": "Golden Moments jamoasidan",
+    "howWeWrite": "Qanday yozamiz",
+    "shortAnswer": "Qisqa javob",
+    "onThisPage": "Shu sahifada ({n} boʻlim)",
+    "commonQuestions": "Tez-tez soʻraladigan savollar",
+    "sources": "Manbalar",
+    "sourcesNote": "Bu sahifa tayanadigan tashkilotlar va tadqiqotlarga havola beramiz. Har biri sahifa yangilanganda tekshirilgan.",
+    "tryTogether": "Birga sinab koʻring",
+    "relatedGuides": "Tegishli qoʻllanmalar",
+    "related": "Tegishli",
+    "startHere": "Shu yerdan boshlang"
+  },
+  "healthNotice": {
+    "aria": "Sogʻliq haqida ma’lumot ogohlantirishi",
+    "title": "Umumiy ma’lumot, tibbiy maslahat emas",
+    "textHtml": "Bu sahifa oilalar uchun e’lon qilingan tadqiqotlarni umumlashtiradi. U bitta inson uchun nima toʻgʻri ekanini ayta olmaydi. Ovqatlanish, mashqlar, uyqu, dorilar yoki qoʻshimchalarni oʻzgartirishdan oldin shifokor bilan gaplashing. Birdan chalkashlik yoki boshqa keskin oʻzgarishlarda darhol tibbiy yordam oling. <a href=\"/medical-disclaimer/\">Sogʻliq haqida ma’lumot ogohlantirishimizni oʻqing</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Birgalikdagi mashgʻulot, xotira sinovi emas",
+      "seoTitle": "Golden Moments haqida: yondashuvimiz",
+      "description": "Nega Golden Moments oʻyinlarida taymer, ball yoki ketma-ket gʻalaba yoʻq, nega rasmlar koʻrinib turadi va demensiya haqida nimani da’vo qilamiz va qilmaymiz.",
+      "crumb": "Yondashuvimiz",
+      "lede": "Golden Moments qarovchi va demensiya bilan yashayotgan inson yonma-yon zavqlanishi mumkin boʻlgan sokin, kattalarga mos rasm mashgʻulotlarini yaratadi.",
+      "bodyHtml": "<h2>Nimaga ishonamiz</h2><p>Mashgʻulotning mohiyati — shu lahzaning oʻzi: suhbat, tabassum, ikkita rasmni birlashtirishdan olinadigan mamnuniyat yoki shunchaki yonma-yon oʻtirish. Maqsad hech kimni oʻlchash, undan koʻproq narsa talab qilish yoki biror narsani isbotlash emas.</p><p>Koʻp miya mashqi ilovalari tezlik, ball, ketma-ket gʻalabalar va darajalar atrofida qurilgan. Demensiya bilan yashayotgan inson uchun bu oʻtib boʻlmaydigan imtihondek tuyulishi mumkin. Biz buning teskarisini yaratdik va oʻzimizga quyidagi qoidalarni qoʻyamiz:</p><ul><li><strong>Yutqazadigan narsa yoʻq.</strong> Hech bir ekranda soat, ball, yurishlar hisoblagichi, jonlar, ketma-ket gʻalabalar, konfetti yoki teskari sanoq yoʻq.</li><li><strong>Eslab qolishdan koʻra tanish.</strong> Rasmlar odatda koʻrinib turadi. Savollar suhbatga taklif qiladi va hech qachon ism yoki xotiralarni soʻramaydi.</li><li><strong>Katta, oddiy va barqaror.</strong> Katta matn va rasmlar, yuqori kontrast va doim bir joyda turadigan boshqaruv elementlari.</li><li><strong>Kattalarga munosib hurmat.</strong> Hayotiy rasmlar va oddiy, iliq soʻzlar. Multfilmlar, qoʻshiqdek maqtovlar yoki emoji mukofotlari yoʻq.</li><li><strong>Oson chiqish yoʻli.</strong> «Hozircha yetarli» har doim koʻrinib turadi. Yarmida toʻxtash — yaxshi natija.</li><li><strong>Dastlab maxfiy.</strong> Akkaunt ham, reklama ham yoʻq. Tanlagan suratlaringiz qurilmangizda qoladi.</li></ul><h2>Nimani da’vo qilmaymiz</h2><p>Oʻyinlarimiz zavq va yaqinlik uchun. Ular demensiya yoki Alsgeymer kasalligini aniqlamaydi, sinamaydi, oʻlchamaydi, davolamaydi, sekinlashtirmaydi yoki oldini olmaydi va hech kim ularni shu sababli tanlamasligi kerak. <a href=\"/brain-health/\">Miya salomatligi sahifalarimizda</a> tadqiqotlar haqida yozganimizda, dalillar zaif joyini ochiq aytamiz va uni hech qachon oʻz oʻyinlarimizga bogʻlamaymiz.</p><h2>Biz kimmiz</h2><p>Golden Moments — kichik mustaqil jamoa. Biz shifokor emasmiz. Qoʻllanmalarimiz Milliy qarilik instituti (National Institute on Aging) va Alsgeymer assotsiatsiyasi (Alzheimer’s Association) kabi tashkilotlarning e’lon qilingan tavsiyalaridan yozilgan va har bir qoʻllanma manbalarini koʻrsatadi. <a href=\"/editorial-policy/\">Sahifalarimizni qanday yozishimiz va tekshirishimiz</a> haqida oʻqing.</p><h2>Nima foydali boʻlishini ayting</h2><p>Sizga nima yordam berishi va nima bermasligini eshitishni istardik, ayniqsa demensiya bilan yashayotganlar, oila qarovchilari va mashgʻulot xodimlaridan. <a href=\"mailto:{email}\">{email}</a> manziliga yozing.</p>"
+    },
+    "editorial": {
+      "title": "Sahifalarimizni qanday yozamiz va tekshiramiz",
+      "seoTitle": "Tahririyat siyosati",
+      "description": "Golden Moments demensiya mashgʻulotlari va miya salomatligi sahifalarini qanday tadqiq qilishi, yozishi va yangilashi hamda nimani hech qachon e’lon qilmasligi.",
+      "crumb": "Tahririyat siyosati",
+      "bodyHtml": "<h2>Manbalarimiz</h2><p>Qoʻllanmalarimizni Milliy qarilik instituti, CDC, Alsgeymer assotsiatsiyasi, Amerika Alsgeymer jamgʻarmasi, Oila qarovchilari alyansi va NHS kabi tashkilotlarning ochiq tavsiyalariga hamda Cochrane sharhlari va yirik klinik sinovlar kabi ekspertlar tekshiruvidan oʻtgan tadqiqotlarga asoslaymiz. Har bir qoʻllanma tayanadigan manbalarni koʻrsatadi. Har bir manbani keltirishdan oldin ochib koʻramiz va faqat u aslida aytgan narsani yozamiz.</p><h2>Qanday yozamiz</h2><ul><li>Avvalo amaliylik: bugun nima qilish, oddiy tilda.</li><li>Dalillar haqida halollik: haqiqat shunday boʻlganda «bogʻliq», «mumkin» va «dalillar aralash» deymiz.</li><li>Hurmat: demensiya bilan yashayotganlar haqida kattalar sifatida yozamiz va hech qachon sinash yoki uyaltirish tilini ishlatmaymiz.</li><li>Oʻylab topilgan narsa yoʻq: toʻqib chiqarilgan statistika, iqtibos, mutaxassis, tadqiqot, sharh yoki guvohlik yoʻq.</li></ul><h2>Sahifalarni kim tekshiradi</h2><p>Sahifalarni Golden Moments jamoasi yozadi va tekshiradi, tadqiqot va qoralama uchun sun’iy intellekt yozuv vositalaridan yordam olinadi. Har bir sahifa jamoa tomonidan manbalariga qarab tekshiriladi. Sahifalarimizni shifokor yoki boshqa klinisist <strong>koʻrib chiqmagan</strong> va biz aksini da’vo qilmaymiz. Ular umumiy ma’lumot, tibbiy maslahat emas.</p><h2>Nimani hech qachon e’lon qilmaymiz</h2><ul><li>Oʻyin, ovqat, qoʻshimcha, roʻza yoki tartib demensiyaning oldini oladi, davolaydi, sekinlashtiradi yoki yoʻqotadi degan da’volar.</li><li>Kimdadir demensiya borligi yoki yoʻqligini anglatadigan testlar, viktorinalar yoki ballar.</li><li>Har qanday dorini boshlash, toʻxtatish yoki oʻzgartirish boʻyicha maslahat.</li><li>Yoʻl-yoʻriq niqobidagi reklama yoki homiylik kontenti.</li></ul><h2>Yangilanishlar va tuzatishlar</h2><p>Har bir sahifada oxirgi yangilanish sanasi koʻrsatiladi. Xato yoki eskirgan manbani topsangiz, iltimos, <a href=\"mailto:{email}\">{email}</a> manziliga yozing, biz uni tezda tekshiramiz.</p>"
+    },
+    "faq": {
+      "title": "Savol va javoblar",
+      "seoTitle": "Demensiya oʻyinlari va mashgʻulotlari: savol va javoblar",
+      "description": "Demensiya oʻyinlari va mashgʻulotlari haqida keng tarqalgan savollarga javoblar: qaysi oʻyinlarni sinash, qancha oʻynash, miya salomatligi va maxfiylik.",
+      "crumb": "Savol va javoblar",
+      "lede": "Qarovchilar eng koʻp soʻraydigan savollarga qisqa, oddiy javoblar.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Oʻyinlar haqida",
+          "items": [
+            {
+              "q": "Demensiya bilan yashayotgan inson uchun eng yaxshi oʻyinlar qaysilar?",
+              "a": "Eng yaxshi oʻyinlar tanish, oddiy va bosimsiz, toʻgʻri oʻyin esa inson bugun yoqtirgani. Rasmlari koʻrinib turadigan juftlash, saralash, oson jumboqlar, tanish maqollarni tugatish, boʻyash va rasmli bingo koʻpchilik uchun yaxshi ishlaydi. Taymer, ball va sinovga oʻxshagan narsalardan qoching."
+            },
+            {
+              "q": "Oʻyinlar rostdan ham bepulmi?",
+              "a": "Ha. Barcha oʻyinlar va chop etiladigan materiallar bepul, akkaunt, roʻyxatdan oʻtish, yuklab olish yoki reklama yoʻq."
+            },
+            {
+              "q": "Nega ball, daraja yoki taymer yoʻq?",
+              "a": "Tezlik va ball yoqimli mashgʻulotni imtihonga aylantiradi, bu esa xijolat yoki jizzakilik keltirishi mumkin. Biz e’tiborni zavq va birga vaqt oʻtkazishga qaratamiz, shuning uchun yutqazadigan narsa yoʻq va istalgan paytda toʻxtash mumkin."
+            },
+            {
+              "q": "Qaysi qurilmalar eng yaxshi ishlaydi?",
+              "a": "Zamonaviy veb-brauzeri bor har qanday telefon, planshet yoki kompyuter. Stol ustidagi tagligi bor planshet ikki kishi yonma-yon oʻynashi uchun koʻpincha eng qulay usul. Televizorga ulangan noutbuk guruhlar uchun yaxshi ishlaydi."
+            },
+            {
+              "q": "Oʻz oilaviy suratlarimiz bilan oʻynay olamizmi?",
+              "a": "Ha. «Surat juftliklari» siz tanlagan 2 tadan 6 tagacha suratni juftlash oʻyiniga aylantiradi. Suratlar brauzeringizda qoladi, yuklanmaydi va saqlanmaydi."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Mashgʻulotlar va parvarish",
+          "items": [
+            {
+              "q": "Mashgʻulot qancha davom etishi kerak?",
+              "a": "Koʻpincha 10 dan 20 daqiqagacha yetarli, ba’zan 2 daqiqaning oʻzi ham yutuq. Charchoq yoki jizzakilik belgilariga e’tibor bering va hali yoqimli paytda toʻxtang. Toʻgʻri miqdor yoʻq."
+            },
+            {
+              "q": "Agar u mashgʻulot qilishni xohlamasa-chi?",
+              "a": "Rad javobini hurmat qiling va keyinroq yoki boshqacha usulda urinib koʻring. Rad etish charchoq, ogʻriq, ishonchsizlik yoki shunchaki qiziqmaslikdan boʻlishi mumkin. «Yoʻq» deyishganda nima qilish haqidagi qoʻllanmamizga qarang."
+            },
+            {
+              "q": "Keyingi bosqich demensiyasiga qanday mashgʻulotlar mos keladi?",
+              "a": "Qulaylik va sezgilar: sevimli musiqani tinglash, krem bilan qoʻl massaji, suratlarga birga qarash, yumshoq koʻrpachani ushlab turish, tashqarida oʻtirish yoki yonida kimdir boʻlgan holda juda oddiy rasm oʻyini. Keyingi bosqich qoʻllanmamizda yana koʻp gʻoyalar bor."
+            },
+            {
+              "q": "Parvarish uyida guruhlar uchun mashgʻulotlar bormi?",
+              "a": "Ha. Rasmli bingoda chop etiladigan kartalar va ekrandagi e’lon qiluvchi bor, «Maqolni tugating» va «Suhbat kartalari» esa guruhga ovoz chiqarib oʻqilganda yaxshi ishlaydi. Parvarish uyi guruhlari qoʻllanmamiz guruh hajmi, oʻtirish tartibi va turli qobiliyatlarga moslashtirishni qamrab oladi."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Miya salomatligi",
+          "items": [
+            {
+              "q": "Oʻyinlar demensiyaning oldini olishi yoki sekinlashtirishi mumkinmi?",
+              "a": "Yoʻq. Hech bir oʻyin demensiyaning oldini olishi isbotlanmagan va oʻyinlarimiz bunday da’vo qilmaydi. Ijtimoiy muhitda fikrlashni ragʻbatlantirish yengil va oʻrtacha demensiyasi bor odamlar uchun tadqiqotlarda kichik foyda koʻrsatgan, lekin bu oʻyin kasallikning oldini olishidan boshqa narsa. Biz oʻyinlarni zavq va yaqinlik uchun taklif qilamiz."
+            },
+            {
+              "q": "Demensiyaning oldini olish mumkinmi?",
+              "a": "Aniq emas. Tadqiqotlar demensiya xavfini eshitish pasayishi, yuqori qon bosimi, jismoniy harakatsizlik va ijtimoiy yakkalanish kabi 14 ta sogʻliq va turmush tarzi omili bilan bogʻlaydi. Ularni hal qilish ayrim odamlar uchun xavfni kamaytirishi mumkin, lekin hamma narsani toʻgʻri qilgan koʻp odamlar baribir demensiyaga chalinadi. Bu hech kimning aybi emas."
+            },
+            {
+              "q": "Davriy roʻza miya salomatligi uchun yaxshimi?",
+              "a": "Odamlarda dalillar cheklangan va dastlabki, tadqiqotlarning koʻpi hayvonlarda. Roʻza keksa kattalar uchun xavfli boʻlishi mumkin, ayniqsa diabet dorilari yoki ixtiyorsiz vazn yoʻqotish bilan, va demensiya bilan yashayotganlarga tavsiya etilmaydi. Ovqatlanishingizni oʻzgartirishdan oldin shifokor bilan gaplashing."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Maxfiylik va xavfsizlik",
+          "items": [
+            {
+              "q": "Biror ma’lumot yigʻasizlarmi?",
+              "a": "Akkaunt ham, reklama ham yoʻq. Tashriflarni sanash va qaysi sahifalar foydali ekanini koʻrish uchun Google Analytics’dan foydalanamiz, brauzeringiz esa yumshoq tovushlarni yoqqaningizni eslab qoladi. «Surat juftliklari» uchun tanlagan suratlaringiz hech qachon yuklanmaydi. Tafsilotlar uchun maxfiylik bildirishnomasiga qarang."
+            },
+            {
+              "q": "Bu tibbiy maslahatmi?",
+              "a": "Yoʻq. Golden Moments dam olish va umumiy ma’lumot uchun. Sogʻliq savollari boʻyicha shifokor bilan gaplashing, favqulodda holatda esa hududingizdagi favqulodda raqamga qoʻngʻiroq qiling."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Batafsil: <a href=\"/caregiving/how-to-play-together/\">birga qanday oʻynash</a>, <a href=\"/caregiving/when-they-say-no/\">«yoʻq» deyishganda</a>, <a href=\"/activities/late-stage/\">keyingi bosqich mashgʻulotlari</a> va <a href=\"/brain-health/can-dementia-be-prevented/\">demensiyaning oldini olish mumkinmi?</a>"
+    },
+    "handout": {
+      "title": "Demensiya bilan yashayotganlar uchun bepul, sokin oʻyinlar",
+      "seoTitle": "Chop etiladigan varaqa: bepul demensiya oʻyinlari onlayn",
+      "description": "Oilalar va qarovchilar uchun demensiya bilan yashayotganlarga moʻljallangan bepul, sokin rasm oʻyinlari haqida bir sahifalik chop etiladigan varaqa.",
+      "crumb": "Chop etiladigan varaqa",
+      "lede": "Bu sahifani yordam guruhi, parvarish toʻplami yoki muzlatkich eshigi uchun chop eting. Brauzeringizning «Chop etish» buyrugʻidan foydalaning; menyular va tugmalar chop etilmaydi.",
+      "introHtml": "<p>Katta rasmlar, oddiy soʻzlar va yutqazadigan narsa yoʻq. Telefon, planshet yoki kompyuterda bepul: roʻyxatdan oʻtish, reklama, taymer va ball yoʻq. Yonma-yon oʻtiring va navbatma-navbat oʻynang.</p>",
+      "gamesTitle": "Birga sinab koʻrish uchun oʻyinlar",
+      "restHtml": "<h2>Bir necha maslahat</h2><ul><li>Inson eng yaxshi holatda boʻladigan kun vaqtini tanlang.</li><li>Eng oson sozlamadan boshlang. Toʻrtta katak yetarli.</li><li>Rasmlar haqida gaplashing. Suhbat koʻpincha eng yaxshi qismi.</li><li>Hali yoqimli paytda toʻxtang. Barvaqt tugatish — yaxshi natija.</li></ul><h2>Saytda yana</h2><ul><li>Bepul chop etiladigan materiallar: yirik harfli soʻz izlash, boʻyash sahifalari, suhbat kartalari va rasmli bingo.</li><li>Har bir bosqich uchun mashgʻulot gʻoyalari hamda birga oʻynash va oʻzingizga gʻamxoʻrlik haqida qoʻllanmalar.</li></ul><p class=\"muted\">Zavq va birga vaqt oʻtkazish uchun. Tibbiy maslahat, test yoki davolash emas. Golden Moments Cloudjet Solutions Pte. Ltd. tomonidan nashr etilgan.</p>"
+    },
+    "organizations": {
+      "title": "Parvarish uylari, kutubxonalar va yordam guruhlari uchun",
+      "seoTitle": "Parvarish uylari va guruhlar uchun bepul mashgʻulotlar",
+      "description": "Parvarish uylari, kutubxonalar va yordam guruhlari bepul demensiya oʻyinlarimizdan qanday foydalanishi hamda bizni resurslar roʻyxatiga qoʻshish matni.",
+      "crumb": "Tashkilotlar uchun",
+      "lede": "Bu saytdagi hamma narsadan yashovchilar, a’zolar va mijozlar bilan bepul foydalanish mumkin: akkaunt, litsenziya yoki toʻlov kerak emas. Bu sahifa bu yerda nima borligini va uni qanday ulashishni tushuntiradi.",
+      "shortText": "{name}: demensiya bilan yashayotganlar va qarovchilari uchun bepul, sokin rasm oʻyinlari va mashgʻulot qoʻllanmalari. Roʻyxatdan oʻtish, taymer va ball yoʻq.",
+      "longText": "{name} ({domain}) demensiya bilan yashayotganlar uchun moʻljallangan {count} ta bepul brauzer oʻyinini taklif qiladi: rasmlari koʻrinib turadigan juftlash, oson jumboq, saralash, tanish maqollar va chop etiladigan kartali rasmli bingo. Akkaunt, reklama, taymer yoki ball yoʻq. Saytda demensiyaning har bir bosqichi uchun Milliy qarilik instituti va Alsgeymer assotsiatsiyasiga tayanadigan oddiy tildagi mashgʻulot qoʻllanmalari ham bor.",
+      "useTitle": "Tashkilotlar nimadan foydalanishi mumkin",
+      "gamesItemHtml": "<strong>{count} ta brauzer oʻyini</strong> noutbuk, planshet yoki kompyuterga ulangan televizorda ishlaydi. Oʻrnatish, akkaunt yoki yuklab olish shart emas. <a href=\"/games/\">Barcha oʻyinlarni</a> koʻring.",
+      "printablesLabel": "{count} ta chop etiladigan material:",
+      "printablesAfter": "Har bir sahifadagi «Chop etish» tugmasidan foydalaning.",
+      "moreItemsHtml": "<li><strong>Guruh formatlari:</strong> <a href=\"/games/picture-bingo/\">Rasmli bingo</a>da chop etiladigan kartalar va ekrandagi e’lon qiluvchi bor, <a href=\"/activities/trivia/\">oson viktorina</a>da esa javob variantlari va suhbat mavzulari bilan 50 ta savol bor.</li><li><strong>Mashgʻulot qoʻllanmalari</strong> xodimlar va oilalar uchun, bosqich va tur boʻyicha, manbalari bilan oddiy tilda yozilgan. <a href=\"/activities/ideas/\">101 ta mashgʻulot gʻoyasi</a> yoki <a href=\"/activities/care-home-groups/\">parvarish uylari uchun guruh mashgʻulotlari</a>dan boshlang.</li>",
+      "restHtml": "<h2>Guruhlar bundan qanday foydalanadi</h2><ul><li><strong>Parvarish uylari va xotira parvarishi:</strong> umumiy xonadagi televizorda rasmli bingo yoki maqol tugatish, guruh uchun bir kishi bosadi.</li><li><strong>Kunduzgi dasturlar:</strong> toʻrtta katakka sozlangan «Rasm juftliklari» bilan planshet stansiyasi, qisqa yakkama-yakka mashgʻulotlar uchun.</li><li><strong>Ommaviy kutubxonalar:</strong> xotira toʻplamlarida chop etilgan soʻz izlash va suhbat kartalari, kutubxona planshetlarida saqlab qoʻyilgan sayt.</li><li><strong>Qarovchilar yordam guruhlari va xotira kafelari:</strong> oilalar uyga olib ketishi uchun <a href=\"/handout/\">bir sahifalik chop etiladigan varaqa</a>.</li><li><strong>Kasalxonalar va chiqarish rejalashtiruvchilari:</strong> uyda yoki bemor yonida qilinadigan sokin ish uchun qarovchilar toʻplamidagi varaqa.</li></ul><h2>Nimani qilmaymiz</h2><p>Oʻyinlar zavq va birga vaqt oʻtkazish uchun. Ular demensiyani aniqlamaydi, sinamaydi, baholamaydi, davolamaydi yoki sekinlashtirmaydi va tashkilotlardan ularni shunday tasvirlamaslikni soʻraymiz. Reklama yoʻq va oʻyinlar ism, sogʻliq ma’lumotlari yoki suratlarni yuklashni soʻramaydi. Veb-sayt tashriflarni sanash uchun Google Analytics’dan foydalanadi; <a href=\"/privacy/\">maxfiylik bildirishnomamiz</a> u nimani yigʻishini tushuntiradi. <a href=\"/games/photo-pairs/\">Surat juftliklari</a>da ishlatilgan suratlar brauzerda qoladi.</p><h2>Bizni resurslar roʻyxatingizga qoʻshing</h2><p>Qarovchilar uchun resurslar roʻyxatini yuritsangiz, <a href=\"/\">{domain}</a> manziliga havola qoʻyishingiz mumkin. Ikkala tavsifdan birini nusxalashingiz mumkin.</p>",
+      "shortTitle": "Qisqa tavsif",
+      "longTitle": "Batafsilroq tavsif",
+      "linksHtml": "<p>Toʻgʻridan-toʻgʻri havola berish uchun foydali sahifalar: <a href=\"/games/\">bepul oʻyinlar</a>, <a href=\"/activities/printable/\">bepul chop etiladigan materiallar</a>, <a href=\"/activities/alzheimers/\">Alsgeymer uchun mashgʻulotlar</a> va <a href=\"/caregiving/how-to-play-together/\">birga qanday oʻynash</a>.</p><h2>Savollar yoki tuzatishlar</h2><p>Saytdagi biror narsa notoʻgʻri yoki tushunarsiz boʻlsa yoxud yashovchining ehtiyojlari bu yerdagilar bilan qondirilmasa, iltimos, <a href=\"mailto:{email}\">{email}</a> manziliga yozing. Iltimos, yashovchilar yoki mijozlar haqida shaxsiy yoki sogʻliq ma’lumotlarini yubormang.</p>"
+    },
+    "app": {
+      "title": "Golden Moments ilovasi",
+      "seoTitle": "iPhone va Android uchun Golden Moments ilovasi",
+      "description": "Bepul Golden Moments ilovasi: toʻrtta katta katakli sokin surat juftlash, qurilmangizda saqlanadigan oilaviy suratlar, internetsiz rasm toʻplamlari.",
+      "crumb": "Ilova",
+      "lede": "Veb-saytda yoqqan hamma narsa internetsiz ishlaydigan va siz tanlagan oilaviy suratlardan foydalana oladigan ilovada.",
+      "worksOn": "{platforms} qurilmalarida ishlaydi ({requirements}).",
+      "bodyHtml": "<h2>Kichikdan boshlang</h2><p>Toʻrtta katta katak va tanish rasmlar bilan boshlang. Rasmlarni koʻrinib turadigan qoldiring yoki oʻzingizga qulay boʻlganda yashiring. Sokin rejimda taymer, ball yoki jarima yoʻq. 4, 6, 8 yoki 12 ta katakni tanlang.</p><h2>Oʻzingizga moslang</h2><p>Qurilmangizdagi surat tanlagich orqali oilaviy suratlarni tanlang. Ilova mashgʻulotlari uchun kichikroq nusxalarni saqlaydi. U kutubxonangizni skanerlamaydi va asl suratlaringizni oʻzgartirmaydi, bir toʻplamda 24 tagacha suratni saqlaydi.</p><h2>Shunchaki birga qarang</h2><p>Rasmlarni birma-bir koʻring. Ixtiyoriy savollar hech kimdan ism eslab qolishni yoki toʻgʻri javob berishni talab qilmasdan suhbatga taklif qiladi. Shunchaki qarashning oʻzi yetarli.</p><h2>Kerakli joyda internetsiz</h2><p>Boshlangʻich rasmlar va barcha sakkizta rasm toʻplami ilovaga kiritilgan. Import qilingan surat nusxalari internetsiz ishlaydi. Faqat iCloudda saqlangan asl suratlarni tanlash internet aloqasini talab qilishi mumkin.</p><h2>Akkaunt yoʻq, surat sinxronlash serveri yoʻq</h2><p>Oilaviy surat nusxalari ilovada qurilmada qoladi. Nusxalarni asl suratlarni oʻchirmasdan olib tashlashingiz mumkin. Qurilma zaxira nusxalari ilova ma’lumotlarini oʻz ichiga olishi mumkin. <a href=\"/app-privacy/\">Ilova maxfiylik siyosati</a>ni oʻqing, <a href=\"/help/\">ilova yordami</a> esa har bir qadamni koʻrsatadi.</p>",
+      "disclaimer": "Golden Moments dam olish va birgalikda suhbatlashish uchun moʻljallangan. U demensiya yoki Alsgeymer kasalligini aniqlamaydi, davolamaydi, oldini olmaydi va oʻlchamaydi.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Bepul demensiya va Alsgeymer oʻyinlari onlayn",
+    "description": "Demensiya yoki Alsgeymer bilan yashayotgan keksalar uchun bepul onlayn oʻyinlar: rasm juftlash, oson jumboq, saralash, maqollar, boʻyash, bingo.",
+    "crumb": "Oʻyinlar",
+    "h1": "Demensiya bilan yashayotganlar uchun sokin oʻyinlar",
+    "lede": "Brauzeringizda birga oʻynash uchun {count} ta bepul oʻyin. Katta rasmlar, oddiy soʻzlar va yutqazadigan narsa yoʻq: taymer, ball va roʻyxatdan oʻtish yoʻq.",
+    "listName": "Demensiya bilan yashayotganlar uchun sokin oʻyinlar",
+    "byStageTitle": "Oʻyinni bosqich boʻyicha tanlash",
+    "byStageLede": "Bosqichlar faqat taxminiy yoʻl-yoʻriq. Inson nimadan zavqlansa va bugun nima qulay tuyulsa, shunga ergashing.",
+    "stageCol": "Bosqich",
+    "gamesCol": "Koʻpincha mos keladigan oʻyinlar",
+    "moreHtml": "Ekrandan tashqari yana gʻoyalar: <a href=\"/activities/ideas/\">demensiya bilan yashayotganlar uchun 101 ta mashgʻulot</a>, <a href=\"/activities/alzheimers/\">Alsgeymer uchun mashgʻulotlar va oʻyinlar</a>, <a href=\"/activities/memory-games/\">sokin xotira oʻyinlari</a> va <a href=\"/activities/puzzles/\">jumboqlar</a>.",
+    "faq": [
+      {
+        "q": "Qaysi oʻyindan boshlaymiz?",
+        "a": "Toʻrtta katakli «Rasm juftliklari» sokin birinchi tanlov. Rasmlar orasidan tanlash juda koʻp tuyulsa, ikkita rasmli «Bir xilini toping»ni sinab koʻring. Guruh uchun «Rasmli bingo»ni sinang."
+      },
+      {
+        "q": "Oʻyinlar iPad yoki telefonda ishlaydimi?",
+        "a": "Ha. Har bir oʻyin telefon, planshet va kompyuterlardagi brauzerda ishlaydi, rasmlar esa ekranni toʻldirish uchun kattalashadi. Tagligi bor planshet ikki kishi uchun koʻpincha eng qulay."
+      },
+      {
+        "q": "Bu oʻyinlar Alsgeymer bilan yashayotgan inson uchun yaxshimi?",
+        "a": "Ha. Ular demensiya, shu jumladan eng keng tarqalgan sababi Alsgeymer bilan yashayotganlar uchun yaratilgan. Rasmlar koʻrinib turadi, tanlov kam va hech narsa vaqt yoki ball bilan oʻlchanmaydi, shuning uchun oʻyinlar yangi narsalarni eslab qolishga emas, tanish narsalarni tanishga tayanadi."
+      },
+      {
+        "q": "Bu keksalar uchun xotira oʻyinlarimi?",
+        "a": "Bular har qanday keksa kattalar zavqlanishi mumkin boʻlgan juftlash va rasm oʻyinlari, lekin xotirani sinamaslik uchun qurilgan: «Rasm juftliklari»da rasmlar boshqacha tanlamasangiz yuzi tepaga qaragan holda qoladi. Demensiyali keksalar uchun xotira oʻyinlari qoʻllanmamiz har qanday xotira oʻyinini qanday sokin saqlashni tushuntiradi."
+      },
+      {
+        "q": "Parvarish uyida guruhlar uchun oʻyinlar bormi?",
+        "a": "Ha. Rasmli bingoda chop etiladigan kartalar va ekrandagi e’lon qiluvchi bor, «Maqolni tugating» va «Suhbat kartalari» esa guruhga ovoz chiqarib oʻqilganda yaxshi ishlaydi."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad va Android",
+    "requirements": "iOS 15 yoki yangiroq; Android 7.0 yoki yangiroq",
+    "summary": "iPhone, iPad va Android uchun bepul ilova: toʻrttadan oʻn ikkitagacha katta katakda sokin rasm juftlash, siz tanlagan oilaviy suratlar bilan juftlash va koʻrish hamda internetsiz ishlaydigan sakkizta kiritilgan rasm toʻplami. Akkaunt, reklama, taymer yoki ball yoʻq.",
+    "features": [
+      "Toʻrt, olti, sakkiz yoki 12 ta katta katakli sokin rasm juftlash; yashirishni tanlamasangiz, rasmlar koʻrinib turadi",
+      "Siz tanlagan oilaviy suratlar juftlash va birga qarash uchun ilovaga nusxalanadi",
+      "Birga qarash: bir vaqtda bitta rasm, ixtiyoriy suhbat savollari bilan",
+      "Ilovaga kiritilgan sakkizta rasm toʻplami; ular internetsiz ishlaydi",
+      "Akkaunt, reklama, ilova ichidagi xaridlar, taymer, ball yoki jarima yoʻq"
+    ],
+    "faq": [
+      {
+        "q": "Demensiya mashgʻulotlari ilovasi bormi?",
+        "a": "Ha. Golden Moments (“{storeName}” nomi bilan) App Store va Google Playda bepul. U katta katakli sokin rasm juftlash, siz tanlagan oilaviy suratlar bilan oʻyinlar va internetsiz ishlaydigan rasm toʻplamlarini taklif qiladi."
+      },
+      {
+        "q": "Golden Moments ilovasi bepulmi?",
+        "a": "Ha. Yuklab olish bepul, reklama, akkaunt yoki ilova ichidagi xaridlar yoʻq."
+      },
+      {
+        "q": "Ilova internetsiz ishlaydimi?",
+        "a": "Ha. Boshlangʻich rasmlar va barcha sakkizta rasm toʻplami ilovaga kiritilgan, oilaviy suratlar esa ilovaga nusxalangandan keyin internetsiz ishlaydi. Faqat iCloudda saqlangan suratni tanlash aloqani talab qilishi mumkin."
+      },
+      {
+        "q": "Oʻz oilaviy suratlarimizdan foydalana olamanmi?",
+        "a": "Ha. Qurilmangizdagi surat tanlagich orqali suratlarni tanlang. Ilova mashgʻulotlari uchun qurilmada kichikroq nusxalarni saqlaydi, ularni yuklamaydi va asl suratlarni hech qachon oʻzgartirmaydi. Nusxalarni istalgan vaqtda olib tashlashingiz mumkin."
+      },
+      {
+        "q": "Bu miya mashqi yoki xotira testi ilovasimi?",
+        "a": "Yoʻq. Golden Moments zavq va birga vaqt oʻtkazish uchun. Unda ball yoki testlar yoʻq va u demensiya yoki Alsgeymer kasalligini aniqlamaydi, davolamaydi, oldini olmaydi va oʻlchamaydi."
+      },
+      {
+        "q": "U qaysi qurilmalarda ishlaydi?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Bu oʻyinning ilova versiyasi bormi?",
+      "a": "Ha. iPhone, iPad va Android uchun bepul Golden Moments ilovasida xuddi shunday sokin rasm juftlash bor, u siz tanlagan oilaviy suratlardan foydalana oladi va internetsiz ishlaydi. Akkaunt, reklama yoki ball yoʻq."
+    },
+    "gameFaqNo": {
+      "q": "Bu oʻyinning ilova versiyasi bormi?",
+      "a": "Bu oʻyinniki yoʻq. iPhone, iPad va Android uchun bepul Golden Moments ilovasida katta katakli sokin rasm juftlash va siz tanlagan oilaviy suratlar bor, u internetsiz ishlaydi. Bu oʻyin bu yerda brauzeringizda bepul qoladi."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: katta, samimiy rasmlar",
+    "noscript": "Bu oʻyin uchun brauzeringizda JavaScript yoqilgan boʻlishi kerak. Quyidagi maslahatlar usiz ham ishlaydi.",
+    "about": "{name} haqida",
+    "aboutAria": "Bu oʻyin haqida",
+    "noTimer": "Taymer va ball yoʻq",
+    "printable": "Chop etiladigan",
+    "howTo": "{name} qanday oʻynaladi",
+    "tips": "Birga oʻynash uchun maslahatlar",
+    "newToPlayingHtml": "Demensiyali inson bilan oʻynashni endi boshlayapsizmi? Qiziqishini yoʻqotsa nima qilish haqidagi <a href=\"/caregiving/how-to-play-together/\">oʻyinlarni birga qanday oʻynash</a> qoʻllanmasini oʻqing.",
+    "moreAria": "Koʻproq kashf qilish",
+    "helpfulGuides": "Foydali qoʻllanmalar",
+    "appTitle": "Ilovada oʻynang",
+    "appText": "Bepul Golden Moments ilovasida katta katakli sokin rasm juftlash va oʻzingizning oilaviy suratlaringiz bor, u Wi‑Fi’siz ishlaydi. iPhone, iPad va Android.",
+    "photoAppTitle": "Suratlaringizni tayyor saqlang",
+    "photoAppText": "Bepul Golden Moments ilovasida tanlagan suratlaringiz keyingi safar uchun qurilmangizda qoladi, oʻyinlar esa Wi‑Fi’siz ishlaydi. iPhone, iPad va Android.",
+    "goodToKnow": "Bilish foydali",
+    "goodToKnowText": "Bu oʻyin zavq va birga vaqt oʻtkazish uchun. U hech narsani sinamaydi, oʻlchamaydi yoki davolamaydi.",
+    "moreGames": "Yana sokin oʻyinlar",
+    "crumb": "Oʻyinlar"
+  }
+}

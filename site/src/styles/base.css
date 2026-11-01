@@ -270,6 +270,22 @@ textarea {
   --font-sans: 'Kefa', 'Noto Sans Ethiopic', 'Nyala', system-ui, sans-serif;
   --font-display: var(--font-sans);
 }
+:root:lang(my) {
+  --font-sans: 'Myanmar Sangam MN', 'Noto Sans Myanmar', 'Myanmar Text', system-ui, sans-serif;
+  --font-display: var(--font-sans);
+}
+:root:lang(or) {
+  --font-sans: 'Oriya Sangam MN', 'Noto Sans Oriya', 'Nirmala UI', system-ui, sans-serif;
+  --font-display: var(--font-sans);
+}
+:root:lang(as) {
+  --font-sans: 'Kohinoor Bangla', 'Noto Sans Bengali', 'Nirmala UI', system-ui, sans-serif;
+  --font-display: var(--font-sans);
+}
+:root:lang(ps) {
+  --font-sans: 'Geeza Pro', 'Noto Naskh Arabic', 'Segoe UI', Tahoma, sans-serif;
+  --font-display: var(--font-sans);
+}
 
 /* Arrows point the way the text reads. */
 [dir='rtl'] svg[data-icon='arrow'] {
