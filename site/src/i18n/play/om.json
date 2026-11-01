@@ -1,0 +1,587 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Taphaa",
+      "restart": "Irra deebi’aa jalqabaa",
+      "soundOn": "Sagaleen laafaan banameera",
+      "soundOff": "Sagaleen laafaan cufameera",
+      "done": "Ammaaf ga’eera",
+      "feedbackQuestion": "Har’a kun gargaareeraa?",
+      "feedbackYes": "Eeyyee",
+      "feedbackNo": "Baay’ee miti",
+      "feedbackThanks": "Nutti himtaniif galatoomaa."
+    },
+    "tile": {
+      "named": "{name}, kaartii {n}",
+      "hidden": "Suuraa dhokfame, kaartii {n}",
+      "withState": "{label}, {state}",
+      "matched": "Wal-fakkaateera",
+      "selected": "Filatameera",
+      "picture": "Suuraa",
+      "photoNumber": "Suuraa {n}"
+    },
+    "pairs": {
+      "allTogether": "Lamaan hundi walitti dhufeera. Irra deebi’aa taphadhaa ykn boqonnaa fudhadhaa.",
+      "photoPair": "Suuraa lama, walitti.",
+      "picturePair": "Suuraa lama {name|lower}, waliin.",
+      "selected": "{name}. Amma isa wal-fakkaatu barbaadaa.",
+      "mismatch": "Hin ariifatinaa. Itti fufuuf suuraa tuqaa.",
+      "mismatchNamed": "{a} fi {b}. Hin ariifatinaa. Itti fufuuf suuraa tuqaa."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Suuraa tokko tuqaa, ergasii isa wal-fakkaatu tuqaa.",
+      "guidanceHidden": "Kaartii lama tuqaa, garagalchuuf. Lama wal-fakkaatan barbaadaa.",
+      "restart": "Suuraawwan haaraa",
+      "sizeLegend": "Kaartii meeqa",
+      "size": {
+        "one": "kaartii {n}",
+        "other": "kaartii {n}"
+      },
+      "viewLegend": "Akkamitti taphatan",
+      "viewShowing": "Suuraawwan ifatti",
+      "viewHidden": "Suuraawwan dhokfaman",
+      "playAgain": "Suuraawwan haaraa wajjin irra deebi’aa taphadhaa",
+      "talk": "Waa’ee suuraawwanii waliin haasa’aa"
+    },
+    "choose": {
+      "countLegend": "Suuraa meeqa",
+      "count": "{n} keessaa filachuuf",
+      "thatOne": "Kun {name|lower} dha. Hin ariifatinaa."
+    },
+    "findTheSame": {
+      "guidance": "Suuraa gubbaa jiru ilaalaa. Isa wal-fakkaatu gadii tuqaa.",
+      "yes": "Eeyyee, {name|lower} wal-fakkaatu.",
+      "next": "Suuraa itti aanu"
+    },
+    "shadowMatch": {
+      "guidance": "Gaaddidduu gubbaa jiru ilaalaa. Suuraa isa uumu tuqaa.",
+      "yes": "Eeyyee, {name|lower} gaaddidduu sana uuma.",
+      "next": "Gaaddidduu itti aanu",
+      "shadowAlt": "Gaaddidduu wal-fakkeessuuf",
+      "foundAlt": "Gaaddidduu {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Suuraa tokko tuqaa, ergasii daceen itti galu tuqaa.",
+      "restart": "Suuraawwan haaraa",
+      "themeLegend": "Mata-duree",
+      "selected": "{name}. Amma daceen itti galu tuqaa.",
+      "pickFirst": "Dura suuraa tuqaa, ergasii dacee tuqaa.",
+      "hint": "{name|lower} “{basket}” keessa galuu danda’a. Dacee sana tuqaa, achi kaa’uuf.",
+      "placed": "{name|lower} “{basket}” keessa jira.",
+      "sorted": "Wanti hundi addaan baafameera. Dacee hunda waliin ilaalaa, ykn mata-duree biraa yaalaa.",
+      "basket": {
+        "one": "Dacee {basket}, suuraa {count} keessa jira",
+        "other": "Dacee {basket}, suuraawwan {count} keessa jiru"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Kutaa tokko tuqaa, ergasii kan biraa tuqaa. Bakka wal jijjiiru.",
+      "restart": "Irra deebi’aa walitti makaa",
+      "pictureLegend": "Suuraa",
+      "pictures": {
+        "sailboat": "Doonii",
+        "house": "Mana",
+        "balloon": "Balloon",
+        "sunflower": "Sunflower",
+        "lighthouse": "Lighthouse",
+        "cat": "Adurree"
+      },
+      "sizeLegend": "Kutaawwan",
+      "size": {
+        "one": "kutaa {n}",
+        "other": "kutaawwan {n}"
+      },
+      "pickedUp": "Kutaan ol-kaafameera. Amma bakka itti galu tuqaa.",
+      "whole": "{name|lower} deebi’ee guutuu ta’eera. Yeroo barbaaddan suuraa biraa filadhaa.",
+      "swapped": {
+        "one": "Wal jijjiirameera. Kutaa {total} keessaa {correct} bakka isaa jira.",
+        "other": "Wal jijjiirameera. Kutaawwan {total} keessaa {correct} bakka isaanii jiru."
+      },
+      "guideAlt": "Suuraa guutuu: {name}",
+      "guideText": "Suuraan guutuu yeroo ta’u akkana fakkaata.",
+      "piece": "Kutaa {place}",
+      "pieceInPlace": ", bakka sirrii jira",
+      "piecePickedUp": ", ol-kaafameera",
+      "places4": [
+        "gubbaa bitaa",
+        "gubbaa mirgaa",
+        "gadii bitaa",
+        "gadii mirgaa"
+      ],
+      "places9": [
+        "gubbaa bitaa",
+        "gubbaa giddu",
+        "gubbaa mirgaa",
+        "giddu bitaa",
+        "giddu",
+        "giddu mirgaa",
+        "gadii bitaa",
+        "gadii giddu",
+        "gadii mirgaa"
+      ],
+      "done": "Suuraan deebi’ee guutuu ta’eera. Irra deebi’aa taphadhaa ykn boqonnaa fudhadhaa.",
+      "playAgain": "Irra deebi’aa walitti makaa"
+    },
+    "finishTheSaying": {
+      "guidance": "Jecha beekamaa waliin dubbisaa, ergasii jecha isa xumuru tuqaa.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Eeyyee, “{start} {end}.”",
+      "otherEnding": "“{word}” illee ni ta’a. Jechi beekamaan “{end}” jedhee xumurama.",
+      "revealed": "Jechi “{start} {end}.” dha",
+      "choicesLabel": "Jecha dhumaa filadhaa",
+      "show": "Xumura agarsiisaa",
+      "talk": "Waa’ee isaa haasa’aa: ",
+      "next": "Jecha itti aanu"
+    },
+    "wordSearch": {
+      "guidance": "Jechoonni gara cinaatti ykn gadiitti deemu. Qubee jalqabaa jechaa tuqaa, ergasii qubee dhumaa tuqaa.",
+      "restart": "Puzzle haaraa",
+      "themeLegend": "Mata-duree",
+      "sizeLegend": "Bal’ina gabatee",
+      "size": {
+        "one": "{n} irra {n} (jecha {words})",
+        "other": "{n} irra {n} (jechoota {words})"
+      },
+      "print": "Puzzle kana maxxansaa",
+      "letterChosen": "Qubeen {letter} filatameera. Amma qubee dhumaa jechaa tuqaa.",
+      "found": "{word} argameera.",
+      "foundAll": "{word} argameera. Jechoonni hundi argamaniiru. Irra deebi’aa taphadhaa ykn boqonnaa fudhadhaa.",
+      "tryAgain": "Hin ariifatinaa. Qubee jalqabaa jechaa tuqaa, ergasii qubee dhumaa.",
+      "gridLabel": "Gabatee qubee, sarara {n} kan qubee {n}. Qubee gidduu deemuuf xiyyoota fayyadamaa.",
+      "cell": "{letter}, sarara {row}, tarree {col}",
+      "cellFound": ", kutaa jecha argamee",
+      "wordsHeading": "Jechoota barbaadamuu qaban",
+      "wordFound": " (argameera)",
+      "sheetTitle": "Barbaacha jechaa: {theme}",
+      "sheetNote": "Jechoonni gara cinaatti ykn gadiitti deemu.",
+      "unavailable": "Gabatee qubee afaan kanaaf hin mijatu, kanaaf barbaachi jechaa asitti hin dhiyaatu. Taphoota suuraa yaalaa."
+    },
+    "coloring": {
+      "guidance": "Halluu tokko tuqaa, ergasii kutaa suuraa tuqaa.",
+      "restart": "Halluuwwan qulqulleessaa",
+      "cleared": "Fuulli deebi’ee duwwaa ta’eera.",
+      "pageLegend": "Fuula",
+      "print": "Fuula kana maxxansaa",
+      "colorsLabel": "Halluuwwan",
+      "paintChosen": "{paint} filatameera.",
+      "painted": "{part} amma {paint|lower} dha.",
+      "artLabel": "{page}, kutaawwan {count} halluun guutaman",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, halluun hin guutamne",
+      "paints": {
+        "red": "Diimaa",
+        "orange": "Burtukaana",
+        "yellow": "Keelloo",
+        "green": "Magariisa",
+        "blue": "Cuquliisa",
+        "purple": "Diimaa-cuquliisa",
+        "pink": "Diimaa laafaa",
+        "brown": "Halluu bunaa",
+        "sky-blue": "Halluu samii",
+        "cream": "Halluu aannanii",
+        "gray": "Halluu daaraa",
+        "white": "Adii"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Kaartii sagalee ol-kaasuun dubbisaa. Deebiin sirrii hin jiru.",
+      "position": "Kaartii {n} kan {total}",
+      "themeLegend": "Mata-duree",
+      "next": "Kaartii itti aanu",
+      "previous": "Kaartii duraa",
+      "print": "Kaartiiwwan hunda maxxansaa",
+      "sheetTitle": "Kaartii haasaa"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Dura suuraawwan keessan filadhaa.",
+      "guidance": "Suuraa tokko tuqaa, ergasii isa wal-fakkaatu tuqaa.",
+      "restart": "Irra deebi’aa walitti makaa",
+      "intro": "**Suuraa 2 hanga 6 filadhaa** meeshaa kana irraa. Fuula kana irratti qofa agarsiifamu; gonkumaa hin ol-fe’aman ykn hin olkaa’aman.",
+      "choose": "Suuraawwan filadhaa",
+      "chooseDifferent": "Suuraawwan biroo filadhaa",
+      "clear": "Suuraawwan qulqulleessaa",
+      "cleared": "Suuraawwan fuula kana irraa qulqullaa’aniiru.",
+      "atLeastTwo": "Maaloo suuraa yoo xiqqaate lama filadhaa.",
+      "usingFirst": "Suuraawwan jalqabaa {max} fayyadamaa jira.",
+      "skipped": {
+        "one": "Faayiliin {count} suuraa agarsiisuu dandeenyu miti.",
+        "other": "Faayiliiwwan {count} suuraa agarsiisuu dandeenyu miti."
+      },
+      "playAgain": "Suuraawwan kana wajjin irra deebi’aa taphadhaa",
+      "empty": "Suuraawwan keessan as mul’atu, tokkoon tokkoon isaanii al lama."
+    },
+    "pictureBingo": {
+      "guidance": "Dura kaartiiwwan maxxansaa. Ergasii waamaa kana iskiriinii isa guddaa irratti agarsiisaa.",
+      "called": {
+        "one": "{name}. Suuraa {total} keessaa {called} waamameera.",
+        "other": "{name}. Suuraawwan {total} keessaa {called} waamamaniiru."
+      },
+      "start": "Suuraa jalqabaa waamuuf ‘Suuraa itti aanu’ tuqaa.",
+      "restart": "Taphaa haaraa jalqabaa",
+      "squaresLegend": "Iddoowwan kaartii tokko irratti",
+      "squares": "iddoo {n} ({side} irra {side})",
+      "cardsLegend": "Kaartii meeqa maxxansitu",
+      "cards": {
+        "one": "kaartii {n}",
+        "other": "kaartiiwwan {n}"
+      },
+      "print": {
+        "one": "Kaartii bingoo {n} maxxansaa",
+        "other": "Kaartiiwwan bingoo {n} maxxansaa"
+      },
+      "ready": "Yeroo isin barbaaddan qophiidha",
+      "next": "Suuraa itti aanu",
+      "allCalled": "Suuraan hundi waamameera",
+      "alreadyCalled": "Duraanuu waamameera",
+      "sheetTitle": "Bingoo suuraa · kaartii {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Yeroo geengoon guddatu afuura fudhadhaa, yeroo xiqqaatu baafadhaa. Afuura jaha booda ofumaan dhaabata.",
+      "paceLegend": "Saffisa",
+      "paceSlow": "Suuta (tokkoo tokkoon sekondii 5)",
+      "paceGentle": "Laafaa (tokkoo tokkoon sekondii 4)",
+      "ready": "Yeroo isin barbaaddan qophiidha",
+      "in": "Afuura fudhadhaa",
+      "hold": "Boqodhaa",
+      "out": "Afuura baafadhaa",
+      "start": "Jalqabaa",
+      "stop": "Dhaabaa",
+      "started": "Jalqabameera. Yeroo geengoon guddatu afuura fudhadhaa.",
+      "stopped": "Dhaabameera.",
+      "finished": "Afuura suuta jaha ture. Yeroo barbaaddan irra deebi’aa jalqabaa."
+    }
+  },
+  "pictures": {
+    "teacup": "Kubbaayyaa shaayii",
+    "kettle": "Kettle",
+    "bread": "Daabboo",
+    "frying-pan": "Frying pan with an egg",
+    "cake": "Keekii guyyaa dhalootaa",
+    "sunflower": "Sunflower",
+    "tulip": "Red tulip",
+    "watering-can": "Watering can",
+    "potted-plant": "Potted plant",
+    "tree": "Mukaa",
+    "bird": "Simbirroo damee irra",
+    "butterfly": "Butterfly",
+    "dog": "Saree",
+    "cat": "Adurree",
+    "fish": "Qurxummii warqee",
+    "apple": "Red apple",
+    "pear": "Pear",
+    "strawberry": "Strawberry",
+    "banana": "Muuzii",
+    "lemon": "Loomii",
+    "cherries": "Cherries",
+    "house": "Mana",
+    "lamp": "Table lamp",
+    "armchair": "Teessoo",
+    "key": "Furtuu durii",
+    "umbrella": "Umbrella",
+    "sailboat": "Doonii",
+    "car": "Konkolaataa durii",
+    "bicycle": "Biskiliitii",
+    "balloon": "Hot air balloon",
+    "lighthouse": "Lighthouse",
+    "sun": "Aduu",
+    "moon": "Ji’a fi urjiiwwan"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEFGIKLMNORSTUWY",
+      "themes": [
+        {
+          "value": "animals",
+          "label": "Bineensota",
+          "words": [
+            "SAREE",
+            "FARDA",
+            "LEENCA",
+            "GAALA",
+            "HARREE",
+            "HOOLAA",
+            "LUKKUU"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Uumama",
+          "words": [
+            "ADUU",
+            "URJII",
+            "LAGA",
+            "MUKAA",
+            "LAFA",
+            "BOKKAA",
+            "BUBBEE",
+            "GAARA",
+            "BURQAA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Mana",
+          "words": [
+            "MANA",
+            "SIREE",
+            "FURTUU",
+            "HUCCUU",
+            "IBIDDA",
+            "DALLAA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Nyaata",
+          "words": [
+            "BUNA",
+            "AANNAN",
+            "FOON",
+            "MUUZII",
+            "LOOMII",
+            "RAAFUU"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kaartiiwwan hunda",
+        "food": "Nyaata",
+        "home": "Mana",
+        "outdoors": "Alaa",
+        "animals": "Bineensota",
+        "travel": "Imala",
+        "work": "Hojii fi hawwii",
+        "music": "Muuziqaa fi gammachuu",
+        "seasons": "Yeroowwan"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Urgaan mana nyaataa keessaa isin jaallattan kami?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Ayyaana tokkoof keekii akkamii filattu?"
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Shaayii ykn buna akkamitti jaallattu?"
+        },
+        {
+          "theme": "food",
+          "picture": "banana",
+          "prompt": "Muduraa isin jaallattan kami?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Mana keessan duraan jiraattan tokko waa’ee isaa natti himaa."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Bakka taa’anii boqotan isin jaallattan eessa?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Galgala callisaa irratti maal gochuu jaallattu?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Wanta gatii qabu, bakka addaa tokkotti kuuftan maali?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Mukaa ykn iddoo bakka isin jaallattan waa’ee isaa natti himaa."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Guyyaan aduu mijaa’aan isin biratti akkam ta’a?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Daraaraan halluu kamii caalaa isin jaallatan?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Saree beektan tokko waa’ee isaa natti himaa."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Adurree moo saree? Maal isin gammachiisa?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Simbirroowwan alatti argitan ykn dhageessan kami?"
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Doonii irra deemtanii beektuu? Maal itti dhagaa’e?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Imala konkolaataan deemtan tokko waa’ee isaa natti himaa."
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Imala gaarii isin gammachiise tokko natti himaa."
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Hojii isin jaallattan tokko waa’ee isaa natti himaa."
+        },
+        {
+          "theme": "work",
+          "picture": "potted-plant",
+          "prompt": "Hojii harkaan hojjetamu isin gammachiisu kami?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Hawwiin isin jaallattan maali?"
+        },
+        {
+          "theme": "music",
+          "picture": "bird",
+          "prompt": "Weedduu isin jaallattan tokko natti himaa."
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Ayyaana tokko irratti wanti isin gammachiise maali?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Weedduu waliin dhaadannu jaallattuu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Yeroo bokkaa irratti maal gochuu jaallattu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Yeroo aduun ho’aa ta’e maal gochuu jaallattu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Galgala ji’i ibsu waliin maal gochuu jaallattu?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Daraaraa okkotee keessa",
+          "regions": {
+            "sky": "Duubaa",
+            "table": "Minjaala",
+            "leaf-left": "Baala bitaa",
+            "leaf-right": "Baala mirgaa",
+            "petal-1": "Baala daraaraa 1",
+            "petal-2": "Baala daraaraa 2",
+            "petal-3": "Baala daraaraa 3",
+            "petal-4": "Baala daraaraa 4",
+            "petal-5": "Baala daraaraa 5",
+            "petal-6": "Baala daraaraa 6",
+            "petal-7": "Baala daraaraa 7",
+            "petal-8": "Baala daraaraa 8",
+            "center": "Giddugala daraaraa",
+            "pot": "Okkotee",
+            "pot-rim": "Daangaa okkoteetii"
+          }
+        },
+        "house": {
+          "name": "Mana",
+          "regions": {
+            "sky": "Samii",
+            "sun": "Aduu",
+            "grass": "Marga",
+            "walls": "Dallaa",
+            "door": "Balbala",
+            "window-left": "Foddaa bitaa",
+            "window-right": "Foddaa mirgaa",
+            "path": "Daandii"
+          }
+        },
+        "teacup": {
+          "name": "Kubbaayyaa",
+          "regions": {
+            "background": "Duubaa",
+            "handle": "Qabduu",
+            "cup": "Kubbaayyaa",
+            "tea": "Shaayii"
+          }
+        },
+        "butterfly": {
+          "regions": {
+            "background": "Duubaa",
+            "wing-top-left": "Baallee gubbaa bitaa",
+            "wing-top-right": "Baallee gubbaa mirgaa",
+            "wing-bottom-left": "Baallee gadii bitaa",
+            "wing-bottom-right": "Baallee gadii mirgaa",
+            "spot-left": "Mallattoo baallee bitaa",
+            "spot-right": "Mallattoo baallee mirgaa",
+            "body": "Qaama"
+          }
+        },
+        "sailboat": {
+          "name": "Doonii",
+          "regions": {
+            "sky": "Samii",
+            "sea": "Galaana",
+            "hull": "Doonii",
+            "flag": "Faffaca"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Mana nyaataa fi iddoo biqiltuu",
+          "baskets": [
+            "Mana nyaataa keessa",
+            "Iddoo biqiltuu keessa"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Muduraa fi bineensota",
+          "baskets": [
+            "Muduraa",
+            "Bineensota"
+          ]
+        },
+        "home-travel": {
+          "label": "Mana fi imala",
+          "baskets": [
+            "Mana keessa",
+            "Imala irra"
+          ]
+        }
+      }
+    }
+  }
+}

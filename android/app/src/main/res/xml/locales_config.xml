@@ -45,4 +45,9 @@
     <locale android:name="or" />
     <locale android:name="as" />
     <locale android:name="ps" />
+    <locale android:name="yo" />
+    <locale android:name="ig" />
+    <locale android:name="zu" />
+    <locale android:name="so" />
+    <locale android:name="om" />
 </locale-config>

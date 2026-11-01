@@ -33,6 +33,11 @@ const _appLocales = {
   'or',
   'as',
   'ps',
+  'yo',
+  'ig',
+  'zu',
+  'so',
+  'om',
 };
 const _baseFallbacks = {'pt', 'zh'};
 

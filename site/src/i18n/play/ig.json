@@ -1,0 +1,741 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Egwuregwu",
+      "restart": "Malite ọzọ",
+      "soundOn": "Ụda dị nwayọọ na-arụ ọrụ",
+      "soundOff": "Ụda dị nwayọọ adịghị arụ ọrụ",
+      "done": "Kwụsị ugbu a",
+      "feedbackQuestion": "Nke a nyeere aka taa?",
+      "feedbackYes": "Ee",
+      "feedbackNo": "Ọ nyeghị aka n'ezie",
+      "feedbackThanks": "Daalụ maka ịgwa anyị."
+    },
+    "tile": {
+      "named": "{name}, kaadị {n}",
+      "hidden": "Onyonyo e zoro ezo, kaadị {n}",
+      "withState": "{label}, {state}",
+      "matched": "Dakọrọ",
+      "selected": "A họọrọ",
+      "picture": "Onyonyo",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Ha niile dakọrọ. Kpọọ ọzọ ma ọ bụ zuru ike.",
+      "photoPair": "Foto abụọ, dakọrọ.",
+      "picturePair": "Onyonyo abụọ: {name|lower}, dakọrọ.",
+      "selected": "{name}. Ugbu a chọta nke dakọrọ ya.",
+      "mismatch": "Were oge gị. Pịa onyonyo ka ị gaa n'ihu.",
+      "mismatchNamed": "{a} na {b}. Were oge gị. Pịa onyonyo ka ị gaa n'ihu."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Pịa onyonyo, wee pịa nke dakọrọ ya.",
+      "guidanceHidden": "Pịa kaadị abụọ ka ị tụgharịa ha. Chọọ abụọ yiri onwe ha.",
+      "restart": "Onyonyo ọhụrụ",
+      "sizeLegend": "Kaadị ole",
+      "size": {
+        "other": "kaadị {n}"
+      },
+      "viewLegend": "Otu esi akpọ",
+      "viewShowing": "Onyonyo na-egosi",
+      "viewHidden": "Onyonyo e zoro ezo",
+      "playAgain": "Kpọọ ọzọ na onyonyo ọhụrụ",
+      "talk": "Kparịta onyonyo ọnụ"
+    },
+    "choose": {
+      "countLegend": "Onyonyo ole",
+      "count": "{n} ị ga-ahọrọ n'ime ha",
+      "thatOne": "Nke ahụ bụ {name|lower}. Were oge gị."
+    },
+    "findTheSame": {
+      "guidance": "Lee onyonyo dị n'elu. Pịa nke yiri ya n'okpuru.",
+      "yes": "Ee, {name|lower} yiri ya.",
+      "next": "Onyonyo na-esote"
+    },
+    "shadowMatch": {
+      "guidance": "Lee onyinyo dị n'elu. Pịa onyonyo na-eme ya.",
+      "yes": "Ee, {name|lower} na-eme onyinyo ahụ.",
+      "next": "Onyinyo na-esote",
+      "shadowAlt": "Onyinyo a ga-ahụ ndị dakọrọ",
+      "foundAlt": "Onyinyo nke {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Pịa onyonyo, wee pịa nkata ọ bụ nke ya.",
+      "restart": "Onyonyo ọhụrụ",
+      "themeLegend": "Isiokwu",
+      "selected": "{name}. Ugbu a pịa nkata ọ ga-abanye.",
+      "pickFirst": "Buru ụzọ pịa onyonyo, wee pịa nkata.",
+      "hint": "{name|lower} nwere ike ịbanye n'\"{basket}\". Pịa nkata ahụ ka ị tinye ya ebe ahụ.",
+      "placed": "{name|lower} nọ n'\"{basket}\".",
+      "sorted": "Ihe niile ahazila. Lekọọ nkata ndị ahụ ọnụ, ma ọ bụ nwaa isiokwu ọzọ.",
+      "basket": {
+        "other": "Nkata {basket}, onyonyo {count} n'ime ya"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Pịa otu mpempe, wee pịa nke ọzọ. Ha na-agbanwe ebe.",
+      "restart": "Gwakọta ọzọ",
+      "pictureLegend": "Onyonyo",
+      "pictures": {
+        "sailboat": "Ụgbọ mmiri",
+        "house": "Ụlọ",
+        "balloon": "Balụụn",
+        "sunflower": "Ifuru anyanwụ",
+        "lighthouse": "Lighthouse",
+        "cat": "Nwamba"
+      },
+      "sizeLegend": "Mpempe",
+      "size": {
+        "other": "mpempe {n}"
+      },
+      "pickedUp": "E weere mpempe. Ugbu a pịa ebe ọ ga-aga.",
+      "whole": "{name|lower} zuru ezu ọzọ. Họrọ onyonyo ọzọ mgbe ọ bụla ịchọrọ.",
+      "swapped": {
+        "other": "E gbanwere. {correct} n'ime mpempe {total} nọ n'ebe ziri ezi."
+      },
+      "guideAlt": "Onyonyo niile: {name}",
+      "guideText": "Otu a ka onyonyo na-adị mgbe ọ zuru ezu.",
+      "piece": "Mpempe: {place}",
+      "pieceInPlace": ", n'ebe ziri ezi",
+      "piecePickedUp": ", e weere ya",
+      "places4": [
+        "elu n'aka ekpe",
+        "elu n'aka nri",
+        "okpuru n'aka ekpe",
+        "okpuru n'aka nri"
+      ],
+      "places9": [
+        "elu n'aka ekpe",
+        "elu n'etiti",
+        "elu n'aka nri",
+        "etiti n'aka ekpe",
+        "etiti",
+        "etiti n'aka nri",
+        "okpuru n'aka ekpe",
+        "okpuru n'etiti",
+        "okpuru n'aka nri"
+      ],
+      "done": "Onyonyo zuru ezu ọzọ. Kpọọ ọzọ ma ọ bụ zuru ike.",
+      "playAgain": "Gwakọta ya ọzọ"
+    },
+    "finishTheSaying": {
+      "guidance": "Gụọ ilu ahụ ọnụ, wee pịa okwu na-emecha ya.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ee, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" nwekwara ike ịdị. Ilu a na-ahụkarị na-ejedebe na \"{end}\".",
+      "revealed": "Ilu ahụ bụ \"{start} {end}.\"",
+      "choicesLabel": "Họrọ okwu ikpeazụ",
+      "show": "Gosi njedebe",
+      "talk": "Kparịta ya: ",
+      "next": "Ilu na-esote"
+    },
+    "wordSearch": {
+      "guidance": "Okwu na-agafe ma ọ bụ na-agbada. Pịa mkpụrụ edemede mbụ nke okwu, wee pịa nke ikpeazụ ya.",
+      "restart": "Egwuregwu ọhụrụ",
+      "themeLegend": "Isiokwu",
+      "sizeLegend": "Nha ogige",
+      "size": {
+        "other": "{n} site na {n} (okwu {words})"
+      },
+      "print": "Bipụta egwuregwu a",
+      "letterChosen": "A họọrọ mkpụrụ edemede {letter}. Ugbu a pịa mkpụrụ edemede ikpeazụ nke okwu ahụ.",
+      "found": "{word} achọtara.",
+      "foundAll": "{word} achọtara. Nke ahụ bụ okwu niile. Kpọọ ọzọ ma ọ bụ zuru ike.",
+      "tryAgain": "Were oge gị. Pịa mkpụrụ edemede mbụ nke okwu, wee pịa nke ikpeazụ ya.",
+      "gridLabel": "Ogige mkpụrụ edemede, ahịrị {n} nke mkpụrụ edemede {n}. Jiri bọtịnụ ube iji gaa n'etiti mkpụrụ edemede.",
+      "cell": "{letter}, ahịrị {row}, ogidi {col}",
+      "cellFound": ", akụkụ nke okwu achọtara",
+      "wordsHeading": "Okwu ị ga-achọta",
+      "wordFound": " (achọtara)",
+      "sheetTitle": "Chọta okwu: {theme}",
+      "sheetNote": "Okwu na-agafe ma ọ bụ na-agbada.",
+      "unavailable": "Ogige mkpụrụ edemede adabaghị n'asụsụ a, ya mere a naghị enye ọchịchọ okwu ebe a. Nwaa egwuregwu onyonyo kama."
+    },
+    "coloring": {
+      "guidance": "Pịa agba, wee pịa akụkụ onyonyo.",
+      "restart": "Hichapụ agba ndị ahụ",
+      "cleared": "Ibe ahụ enweghị agba ọzọ.",
+      "pageLegend": "Ibe",
+      "print": "Bipụta ibe a",
+      "colorsLabel": "Agba",
+      "paintChosen": "A họọrọ {paint}.",
+      "painted": "{part} bụ {paint|lower} ugbu a.",
+      "artLabel": "{page}, akụkụ {count} ị ga-atee agba",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, e tebeghị agba",
+      "paints": {
+        "red": "Uhie",
+        "orange": "Oroma",
+        "yellow": "Odo odo",
+        "green": "Akwụkwọ ndụ",
+        "blue": "Anụnụ anụnụ",
+        "purple": "Pọpụl",
+        "pink": "Pink",
+        "brown": "Aja aja",
+        "sky-blue": "Anụnụ igwe",
+        "cream": "Cream",
+        "gray": "Ntụ ntụ",
+        "white": "Ọcha"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Gụọ kaadị ahụ n'olu dara ụda. Enweghị azịza ziri ezi.",
+      "position": "Kaadị {n} n'ime {total}",
+      "themeLegend": "Isiokwu",
+      "next": "Kaadị na-esote",
+      "previous": "Kaadị gara aga",
+      "print": "Bipụta kaadị niile",
+      "sheetTitle": "Kaadị mkparịta ụka"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Malite site n'ịhọrọ foto gị.",
+      "guidance": "Pịa foto, wee pịa nke dakọrọ ya.",
+      "restart": "Gwakọta ha ọzọ",
+      "intro": "**Họrọ foto 2 ruo 6** site na ngwaọrụ a. A na-egosi ha naanị n'ibe a, a naghịkwa ebuga ma ọ bụ chekwaa ha.",
+      "choose": "Họrọ foto",
+      "chooseDifferent": "Họrọ foto ndị ọzọ",
+      "clear": "Hichapụ foto",
+      "cleared": "E hichapụrụ foto n'ibe a.",
+      "atLeastTwo": "Biko họrọ opekata mpe foto abụọ.",
+      "usingFirst": "Na-eji foto {max} mbụ.",
+      "skipped": {
+        "other": "Faịlụ {count} abụghị foto anyị nwere ike igosi."
+      },
+      "playAgain": "Kpọọ ọzọ na foto ndị a",
+      "empty": "Foto gị ga-apụta ebe a, nke ọ bụla ugboro abụọ."
+    },
+    "pictureBingo": {
+      "guidance": "Buru ụzọ bipụta kaadị ndị ahụ. Wee gosi onye na-akpọ a n'ihuenyo kacha ibu ị nwere.",
+      "called": {
+        "other": "{name}. A kpọrọ onyonyo {called} n'ime {total}."
+      },
+      "start": "Pịa “Onyonyo na-esote” ka ị kpọọ onyonyo mbụ.",
+      "restart": "Malite egwuregwu ọhụrụ",
+      "squaresLegend": "Ebe n'kaadị ọ bụla",
+      "squares": "Ebe {n} ({side} site na {side})",
+      "cardsLegend": "Kaadị ole a ga-ebipụta",
+      "cards": {
+        "other": "kaadị {n}"
+      },
+      "print": {
+        "other": "Bipụta kaadị bingo {n}"
+      },
+      "ready": "Dị njikere mgbe ị dị njikere",
+      "next": "Onyonyo na-esote",
+      "allCalled": "A kpọrọ onyonyo niile",
+      "alreadyCalled": "A kpọọla ya",
+      "sheetTitle": "Bingo onyonyo · kaadị {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Kuo ume n'ime ka gburugburu na-eto, fụpụ ume ka ọ na-ebelata. Ọ na-akwụsị n'onwe ya mgbe iku ume isii gasịrị.",
+      "paceLegend": "Ọsọ",
+      "paceSlow": "Nwayọọ (sekọnd 5 n'ụzọ ọ bụla)",
+      "paceGentle": "Dị nro (sekọnd 4 n'ụzọ ọ bụla)",
+      "ready": "Dị njikere mgbe ị dị njikere",
+      "in": "Kuo ume n'ime",
+      "hold": "Zuru ike",
+      "out": "Fụpụ ume",
+      "start": "Malite",
+      "stop": "Kwụsị",
+      "started": "Malitere. Kuo ume n'ime ka gburugburu na-eto.",
+      "stopped": "Kwụsịrị.",
+      "finished": "Nke ahụ bụ iku ume nwayọọ isii. Malite ọzọ mgbe ọ bụla ịchọrọ."
+    }
+  },
+  "pictures": {
+    "teacup": "Iko tii",
+    "kettle": "Ite mmiri ọkụ",
+    "bread": "Achịcha",
+    "frying-pan": "Ite eghe nwere akwa ọkụkọ",
+    "cake": "Achịcha ụbọchị ọmụmụ",
+    "sunflower": "Ifuru anyanwụ",
+    "tulip": "Tulip uhie",
+    "watering-can": "Ite mmiri maka ifuru",
+    "potted-plant": "Osisi dị n'ite",
+    "tree": "Osisi",
+    "bird": "Nnụnụ dị n'alaka osisi",
+    "butterfly": "Butterfly",
+    "dog": "Nkịta",
+    "cat": "Nwamba",
+    "fish": "Azụ",
+    "apple": "Apụl uhie",
+    "pear": "Pear",
+    "strawberry": "Strawberry",
+    "banana": "Unere",
+    "lemon": "Lemọn",
+    "cherries": "Cherị",
+    "house": "Ụlọ",
+    "lamp": "Lamp",
+    "armchair": "Oche dị nro",
+    "key": "Igodo ochie",
+    "umbrella": "Ụmbrela",
+    "sailboat": "Ụgbọ mmiri",
+    "car": "Ụgbọ ala ochie",
+    "bicycle": "Ịnyịnya igwe",
+    "balloon": "Balụụn",
+    "lighthouse": "Lighthouse",
+    "sun": "Anyanwụ",
+    "moon": "Onwa na kpakpando"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "Onye ajụjụ anaghị efu",
+        "end": "ụzọ",
+        "others": [
+          "ụlọ",
+          "ahịa"
+        ],
+        "prompt": "Kọọrọ m oge ị jụrụ onye ụzọ ma ọ bụ rịọ enyemaka."
+      },
+      {
+        "start": "Nwanne di na",
+        "end": "mba",
+        "others": [
+          "ụlọ",
+          "ubi"
+        ],
+        "prompt": "Kọọrọ m banyere ezinụlọ gị ma ọ bụ ndị agbata obi gị."
+      },
+      {
+        "start": "Eziokwu bụ",
+        "end": "ndụ",
+        "others": [
+          "ọkụ",
+          "ụzọ"
+        ],
+        "prompt": "Gịnị bụ ihe ị na-asọpụrụ n'ime mmadụ?"
+      },
+      {
+        "start": "Onye kwe, chi ya",
+        "end": "ekwe",
+        "others": [
+          "eme",
+          "eche"
+        ],
+        "prompt": "Kọọrọ m oge ị kwenyere n'ihe ma ọ gaa nke ọma."
+      },
+      {
+        "start": "Aka aja aja na-ebute ọnụ",
+        "end": "mmanụ mmanụ",
+        "others": [
+          "mmiri mmiri",
+          "nnu nnu"
+        ],
+        "prompt": "Gịnị bụ ọrụ ị hụrụ n'anya ịrụ n'aka gị?"
+      },
+      {
+        "start": "Nwata kwọọ aka, o soro okenye rie",
+        "end": "nri",
+        "others": [
+          "mmiri",
+          "ahịa"
+        ],
+        "prompt": "Kọọrọ m banyere okenye ị na-asọpụrụ."
+      },
+      {
+        "start": "Egbe bere, ugo",
+        "end": "bere",
+        "others": [
+          "fe",
+          "nọ"
+        ],
+        "prompt": "Gịnị bụ ihe ị chere na onye ọ bụla kwesịrị inweta?"
+      }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEHIKLMNORSTU",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Nri",
+          "words": [
+            "NRI",
+            "OSE",
+            "OJI",
+            "OFE",
+            "UBE",
+            "OROMA",
+            "UDALA",
+            "UNERE",
+            "EGUSI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Ubi",
+          "words": [
+            "UBI",
+            "OSISI",
+            "IFURU",
+            "ỌHỊA",
+            "ALA",
+            "AHỊHỊA",
+            "MMIRI"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Ụlọ nri",
+          "words": [
+            "ITE",
+            "EFERE",
+            "NGAJI",
+            "IKO",
+            "ỌKỤ",
+            "MMIRI",
+            "NRI"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Anụmanụ",
+          "words": [
+            "EWU",
+            "EHI",
+            "EZI",
+            "NKỊTA",
+            "ATỤRỤ",
+            "ỌKỤKỌ",
+            "ỌDỤM",
+            "MBE",
+            "AWỌ"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kaadị niile",
+        "food": "Nri",
+        "home": "Ụlọ",
+        "outdoors": "N'èzí",
+        "animals": "Anụmanụ",
+        "travel": "Njem",
+        "work": "Ọrụ na ihe ịchọ mmasị",
+        "music": "Egwu na ọṅụ",
+        "seasons": "Oge"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Kedu isi nri kacha masị gị site n'ụlọ nri?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Kedu ụdị achịcha ị ga-ahọrọ maka ememe?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Kọọrọ m banyere mkpụrụ osisi ma ọ bụ nri ụtọ ị hụrụ n'anya."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Kedu ka ị si masị tii ma ọ bụ kọfị gị?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Gịnị na-eme nri ụtụtụ ka mma?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ị nweela oge ị jiri aka gị nara mkpụrụ osisi site n'osisi?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Gịnị bụ mkpụrụ osisi ị hụrụ n'anya kacha?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Kedu nri ị na-eri n'oge ememe?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Kọọrọ m banyere ụlọ ị masịrị ibi n'ime ya."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ebee ka ị masịrị ịnọdụ ala zuru ike?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Gịnị ka ị na-amasị ime n'abalị dị jụụ?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Gịnị bụ akụ ị ga-edebe n'igbe pụrụ iche?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Onye ka ị ga-akpọ ka ọ bịa ṅụọ tii?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Gịnị ka ị na-amasị ime n'ụbọchị mmiri na-ezo?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Kedu ifuru ka ị ga-akụ n'ubi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Kọọrọ m banyere osisi ma ọ bụ ebe ị hụrụ n'anya."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Kedu akụkụ kacha mma nke ịnọ n'ubi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Kedu agba ifuru masịrị gị kacha?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Ị na-amasị inwe osisi n'ime ụlọ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Kedu ka ị chere na ụbọchị anyanwụ dị mma ga-adị?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Kọọrọ m banyere nkịta ị maara."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Nwamba ma ọ bụ nkịta, ma ọ bụ ọ dịghị nke ọ bụla? Gịnị masịrị gị n'ahụ ha?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Kedu nnụnụ ị na-ahụ ma ọ bụ nụ n'èzí?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ị gala ịgba azụ ma ọ bụ ị zụọla azụ n'ụlọ?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Kedu anụmanụ kacha mma ị hụla?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Kọọrọ m banyere ụgbọ ala ị hụrụ n'anya."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Ị ga-ahọrọ ịnọ otu ụbọchị n'akụkụ mmiri ka n'ugwu?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Ebee ka ị ga-amasị ịga njem?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Ọ bụrụ na ị nwere ike ife n'elu ebe ọ bụla, ebee ka ọ ga-abụ?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Gịnị bụ njem ị nwere obi ụtọ na ya?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Kedu ụdị ọrụ ị nwere obi ụtọ ime?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Gịnị bụ ihe ịchọ mmasị ị ga-etinye awa n'ime ya?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Gịnị ka a maara gị na ị na-eme ma ọ bụ na-edozi?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Kedu ndụmọdụ ị ga-enye onye na-eto eto na-amalite ọrụ?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Kedu ụdị egwu na-eme gị ka ị chọọ ịgba egwu?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Gịnị na-eme ememe ka mma?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Onye bụ onye na-agụ egwu ị masịrị ige ntị?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Gịnị bụ ihe nkiri ma ọ bụ ihe ngosi TV ị na-amasị ilegharị?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Gịnị masịrị gị kacha n'oge ọkọchị?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Gịnị masịrị gị n'oge udu mmiri?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Gịnị na-atọ ụtọ ime n'abalị oyi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Kedu ihe ị na-ahụ mgbe udu mmiri na-amalite?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Anyanwụ ma ọ bụ mmiri: kedu nke masịrị gị?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Ifuru n'ite",
+          "regions": {
+            "sky": "Azụ",
+            "table": "Tebụl",
+            "stem": "Ogwe ifuru",
+            "leaf-left": "Akwụkwọ aka ekpe",
+            "leaf-right": "Akwụkwọ aka nri",
+            "petal-1": "Mpempe ifuru 1",
+            "petal-2": "Mpempe ifuru 2",
+            "petal-3": "Mpempe ifuru 3",
+            "petal-4": "Mpempe ifuru 4",
+            "petal-5": "Mpempe ifuru 5",
+            "petal-6": "Mpempe ifuru 6",
+            "petal-7": "Mpempe ifuru 7",
+            "petal-8": "Mpempe ifuru 8",
+            "center": "Etiti ifuru",
+            "pot": "Ite",
+            "pot-rim": "Ọnụ ite"
+          }
+        },
+        "house": {
+          "name": "Ụlọ",
+          "regions": {
+            "sky": "Mbara igwe",
+            "sun": "Anyanwụ",
+            "grass": "Ahịhịa",
+            "chimney": "Chimney",
+            "walls": "Mgbidi",
+            "roof": "Elu ụlọ",
+            "door": "Ọnụ ụzọ",
+            "window-left": "Windo aka ekpe",
+            "window-right": "Windo aka nri",
+            "path": "Ụzọ"
+          }
+        },
+        "teacup": {
+          "name": "Iko tii",
+          "regions": {
+            "background": "Azụ",
+            "saucer": "Efere iko",
+            "handle": "Aka iko",
+            "cup": "Iko",
+            "band": "Eriri dị n'iko",
+            "tea": "Tii"
+          }
+        },
+        "butterfly": {
+          "name": "Butterfly",
+          "regions": {
+            "background": "Azụ",
+            "wing-top-left": "Nku elu aka ekpe",
+            "wing-top-right": "Nku elu aka nri",
+            "wing-bottom-left": "Nku okpuru aka ekpe",
+            "wing-bottom-right": "Nku okpuru aka nri",
+            "spot-left": "Ntụpọ nku aka ekpe",
+            "spot-right": "Ntụpọ nku aka nri",
+            "body": "Ahụ"
+          }
+        },
+        "sailboat": {
+          "name": "Ụgbọ mmiri",
+          "regions": {
+            "sky": "Mbara igwe",
+            "sea": "Mmiri",
+            "sail-big": "Nnukwu akwa ụgbọ",
+            "sail-small": "Obere akwa ụgbọ",
+            "mast": "Ogwe ụgbọ",
+            "hull": "Ụgbọ",
+            "flag": "Ọkọlọtọ"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Ụlọ nri na ubi",
+          "baskets": [
+            "N'ụlọ nri",
+            "N'ubi"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Mkpụrụ osisi na anụmanụ",
+          "baskets": [
+            "Mkpụrụ osisi",
+            "Anụmanụ"
+          ]
+        },
+        "home-travel": {
+          "label": "Ụlọ na njem",
+          "baskets": [
+            "N'ụlọ",
+            "N'èzí"
+          ]
+        }
+      }
+    }
+  }
+}

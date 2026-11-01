@@ -71,6 +71,11 @@ export const LOCALES: readonly LocaleInfo[] = [
   { code: 'or', prefix: 'or', bcp47: 'or', htmlLang: 'or', og: 'or_IN', name: 'ଓଡ଼ିଆ', englishName: 'Odia', dir: 'ltr' },
   { code: 'as', prefix: 'as', bcp47: 'as', htmlLang: 'as', og: 'as_IN', name: 'অসমীয়া', englishName: 'Assamese', dir: 'ltr' },
   { code: 'ps', prefix: 'ps', bcp47: 'ps', htmlLang: 'ps', og: 'ps_AF', name: 'پښتو', englishName: 'Pashto', dir: 'rtl' },
+  { code: 'yo', prefix: 'yo', bcp47: 'yo', htmlLang: 'yo', og: 'yo_NG', name: 'Yorùbá', englishName: 'Yoruba', dir: 'ltr' },
+  { code: 'ig', prefix: 'ig', bcp47: 'ig', htmlLang: 'ig', og: 'ig_NG', name: 'Igbo', englishName: 'Igbo', dir: 'ltr' },
+  { code: 'zu', prefix: 'zu', bcp47: 'zu', htmlLang: 'zu', og: 'zu_ZA', name: 'isiZulu', englishName: 'Zulu', dir: 'ltr' },
+  { code: 'so', prefix: 'so', bcp47: 'so', htmlLang: 'so', og: 'so_SO', name: 'Soomaali', englishName: 'Somali', dir: 'ltr' },
+  { code: 'om', prefix: 'om', bcp47: 'om', htmlLang: 'om', og: 'om_ET', name: 'Afaan Oromoo', englishName: 'Oromo', dir: 'ltr' },
 ];
 
 /**
@@ -86,7 +91,7 @@ export const LOCALES: readonly LocaleInfo[] = [
  * labelled, but are `noindex` and left out of the sitemaps, hreflang and
  * llms.txt until a native speaker has read them. Remove a code once reviewed.
  */
-export const HELD_FROM_INDEX: ReadonlySet<string> = new Set(['ha', 'am', 'my', 'ps']);
+export const HELD_FROM_INDEX: ReadonlySet<string> = new Set(['ha', 'am', 'my', 'ps', 'so', 'om']);
 
 export const INDEXED_LANGUAGES: ReadonlySet<string> = new Set(
   LOCALES.map((l) => l.code).filter((code) => !HELD_FROM_INDEX.has(code)),

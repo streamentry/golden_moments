@@ -1,0 +1,534 @@
+{
+  "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
+  "common": {
+    "skipLink": "Gafee gaa na isi ọdịnaya",
+    "brandName": "Golden Moments",
+    "brandTag": "Ọrụ maka dementia",
+    "homeLabel": "Ibe mbụ nke Golden Moments",
+    "mainNav": "Isi",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: onyonyo buru ibu, dị mma nke iko tii, ifuru anyanwụ na nkịta",
+    "languages": "Asụsụ",
+    "englishOnly": "(Bekee)",
+    "machineTranslated": "A sụgharịrị ibe a n'onwe ya, onye na-asụ asụsụ a elebeghịkwa ya anya.",
+    "readOriginal": "Gụọ nke izizi n'asụsụ Bekee",
+    "nav": {
+      "games": "Egwuregwu",
+      "activities": "Ọrụ",
+      "caregiving": "Nlekọta",
+      "brainHealth": "Ahụike ụbụrụ isi"
+    },
+    "faqTitle": "Ajụjụ na azịza",
+    "breadcrumb": "Ụzọ ibe",
+    "home": "Ibe mbụ",
+    "lastUpdated": "E melitere ikpeazụ",
+    "topics": "Isiokwu"
+  },
+  "footer": {
+    "play": "Kpọọ",
+    "picturePairs": "Onyonyo ndị dakọrọ",
+    "conversationCards": "Kaadị mkparịta ụka",
+    "pictureBingo": "Bingo onyonyo",
+    "allGames": "Egwuregwu niile",
+    "activityIdeas": "Echiche ọrụ",
+    "ideas101": "Echiche ọrụ 101",
+    "lateStage": "Ọrụ maka oge ikpeazụ",
+    "printable": "Ọrụ a ga-ebipụta",
+    "allActivities": "Ọrụ niile",
+    "forCaregivers": "Maka ndị na-elekọta",
+    "playTogether": "Otu esi akpọ ọnụ",
+    "selfCare": "Ilekọta onwe gị",
+    "brainHealth": "Nyocha banyere ahụike ụbụrụ isi",
+    "faq": "Ajụjụ na azịza",
+    "about": "Maka anyị",
+    "approach": "Ụzọ anyị si arụ ọrụ",
+    "howWeWrite": "Otu anyị si ede",
+    "organizations": "Maka ụlọ ọrụ",
+    "app": "App Golden Moments",
+    "appHelp": "Enyemaka app",
+    "support": "Nkwado",
+    "legal": "Iwu",
+    "sitePrivacy": "Nzuzo weebụsaịtị",
+    "appPrivacy": "Iwu nzuzo nke app",
+    "privacyChoices": "Nhọrọ nzuzo",
+    "terms": "Ụkpụrụ na ikike app",
+    "safety": "Nchekwa na ojiji e bu n'obi",
+    "accessibility": "Ịnweta ya maka onye ọ bụla",
+    "healthNotice": "Ọkwa ozi ahụike",
+    "allLegal": "Ozi iwu niile",
+    "note": "Golden Moments na-enye ọrụ dị mfe e nwere ọnụ maka obi ụtọ. Ọ bụghị ndụmọdụ ahụike, nnwale ma ọ bụ ọgwụgwọ, ọ naghịkwa achọpụta, tụọ ma ọ bụ nye onye ọ bụla akara. Maka ajụjụ ahụike, kparịta ya na dọkịta. N'oge mberede, kpọọ nọmba mberede nke mpaghara gị.",
+    "publisher": "Cloudjet Solutions Pte. Ltd. bipụtara ya."
+  },
+  "home": {
+    "title": "Egwuregwu na ọrụ maka dementia na Alzheimer | Golden Moments",
+    "description": "Egwuregwu onyonyo n'efu, dị nwayọọ n'ịntanetị na echiche ọrụ maka ndị na-ebi ná dementia ma ọ bụ Alzheimer na ndị na-elekọta ha. Enweghị ndebanye aha.",
+    "eyebrow": "N'efu · Enweghị mgbasa ozi ahịa · Enweghị ndebanye aha · Enweghị elekere ma ọ bụ akara",
+    "h1": "Egwuregwu na ọrụ dị nwayọọ maka ndị na-ebi ná dementia",
+    "lede": "Egwuregwu onyonyo dị mfe, foto ndị a maara, na ọrụ ndị unu ga-enwe obi ụtọ ime ọnụ, n'ọsọ unu.",
+    "playGame": "Kpọọ egwuregwu",
+    "findIdeas": "Chọta echiche ọrụ",
+    "facts": [
+      "Na-arụ ọrụ n'ekwentị, tablet na kọmputa",
+      "Onyonyo buru ibu na-anọ ebe a na-ahụ ha",
+      "Kwụsị n'oge ọ bụla; ọ dịghị ihe a ga-ata"
+    ],
+    "heroApp": "Ọ bụkwa app n'efu maka iPhone, iPad na Android, nke na-eji foto ezinụlọ gị",
+    "albumNote": "“Onyonyo abụọ nke iko tii, ọnụ.”",
+    "gamesEyebrow": "Kpọọ n'ime browser gị",
+    "gamesTitle": "Egwuregwu ị nwere ike ịkpọ ugbu a",
+    "gamesLede": "Nke ọ bụla dị jụụ, bụrụ nke ndị okenye, dịkwa mfe ịmalite. Họrọ otu, nọdụ n'akụkụ ibe unu, ma na-apị n'usoro.",
+    "seeAllGames": "Lee egwuregwu {count} niile",
+    "howTitle": "Otu o si arụ ọrụ",
+    "steps": [
+      {
+        "title": "Họrọ ihe a maara",
+        "text": "Onyonyo iko tii, ubi, anụ ụlọ na ụgbọ mmiri. Ọ dịghị mkpa ịgụ ihe ma ọ bụ ịmụ iwu mbụ."
+      },
+      {
+        "title": "Nọdụ n'akụkụ ibe unu",
+        "text": "Hapụ ha ka ha na-apị. Kparịta onyonyo ndị ahụ. Onyonyo na-adakọghị na-echere naanị ịpị ọzọ."
+      },
+      {
+        "title": "Kwụsị mgbe ọ ka dị mma",
+        "text": "Otu egwuregwu bụ ọrụ zuru oke. “Kwụsị ugbu a” na-adị n'ihuenyo mgbe niile."
+      }
+    ],
+    "stageEyebrow": "Na mpụga ihuenyo",
+    "stageTitle": "Echiche ọrụ maka oge ọ bụla",
+    "stageLede": "Egwu, ọrụ kwa ụbọchị, ncheta ihe gara aga na oge dị jụụ nke ihe mmetụta, ahaziri n'ihe dị mma ugbu a.",
+    "ideas101": "Echiche ọrụ 101",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Oge mbụ",
+        "text": "Gaa n'ihu ime ihe ha hụrụ n'anya, na obere mgbanwe: ihe ha na-eme maka mmasị, njem, egwuregwu okwu na ịhazi ihe ọnụ.",
+        "label": "Echiche maka oge mbụ"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Oge etiti",
+        "text": "Ọrụ dị mfe, ndị a maara, nke e kewara n'obere nzọụkwụ: ịpịkọ akwa, ịhazi ihe, egwu, egwuregwu onyonyo na njem mkpụmkpụ.",
+        "label": "Echiche maka oge etiti"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Oge ikpeazụ",
+        "text": "Ahụ iru ala na njikọ site n'imetụ aka, ụda na ịhụ ihe: nlekọta aka, abụ ha hụrụ n'anya, foto na ịnọ ọnụ.",
+        "label": "Echiche maka oge ikpeazụ"
+      }
+    ],
+    "specificHtml": "Ị na-achọ ihe kpọmkwem? Nwaa <a href=\"/activities/alzheimers/\">ọrụ na egwuregwu maka Alzheimer</a>, <a href=\"/activities/memory-games/\">egwuregwu ncheta dị nwayọọ</a>, <a href=\"/activities/trivia/\">ajụjụ dị mfe</a> ma ọ bụ <a href=\"/activities/puzzles/\">egwuregwu ijikọta ihe</a>.",
+    "approachEyebrow": "Ụzọ anyị si arụ ọrụ",
+    "approachTitle": "Ọrụ e nwere ọnụ, ọ bụghị nnwale ncheta",
+    "approachLede": "Ọtụtụ “egwuregwu ụbụrụ isi” e wuru gburugburu ọsọ, akara na usoro mmeri. Onye na-ebi ná dementia nwere ike ịhụ nke ahụ dị ka ule. Anyị wuru nke ọzọ.",
+    "approachLink": "Ihe mere anyị ji deziga ya otu a",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Ọ dịghị ihe a ga-ata",
+        "text": "Enweghị elekere, akara, ndụ ma ọ bụ ịtụfu. Onyonyo dị iche bụ ezumike, ọ bụghị njehie."
+      },
+      {
+        "icon": "eye",
+        "title": "Onyonyo na-anọ ebe a na-ahụ ha",
+        "text": "Ịmata karịa icheta. Ịhụ ndị dakọrọ na-amalite ha ka a na-ahụ ha, ya mere ọ dịghị ihe a ga-echeta."
+      },
+      {
+        "icon": "people",
+        "title": "Nke ndị okenye, na nsọpụrụ",
+        "text": "Okwu dị mfe, dị ọkụ obi, na onyonyo nke ezi ụwa. Ọ bụghị eserese ụmụaka ma ọ bụ okwu dịka nke ụmụaka."
+      },
+      {
+        "icon": "shield",
+        "title": "Nzuzo site na nhazi",
+        "text": "Enweghị akaụntụ ma ọ bụ mgbasa ozi ahịa. Foto gị anaghị ahapụ ngwaọrụ gị."
+      }
+    ],
+    "guidesEyebrow": "Maka ndị na-elekọta",
+    "guidesTitle": "Nduzi bara uru maka nlekọta kwa ụbọchị",
+    "allCaregiving": "Nduzi nlekọta niile",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Otu esi akpọ egwuregwu ọnụ",
+        "text": "Ịhazi, ọsọ, na ihe a ga-eme mgbe egwuregwu anaghịzi atọ ụtọ."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Mgbe ha sịrị mba n'ọrụ",
+        "text": "Ihe ndị na-eme ka ha jụ, na ụzọ dị nwayọọ iji nwaa ọzọ mgbe e mesịrị."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Ịtọlite tablet",
+        "text": "Ederede buru ibu, mkpọsa ole na ole, na otu ihuenyo mbụ dị mfe."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Ọrụ a ga-ebipụta n'efu",
+        "text": "Chọta okwu n'mkpụrụ edemede buru ibu, ibe ịtee agba, bingo na kaadị mkparịta ụka."
+      }
+    ],
+    "researchTitle": "Ahụike ụbụrụ isi: ihe nyocha na-ekwu n'ezie",
+    "researchText": "Enwere ike igbochi dementia? Egwuregwu ụbụrụ isi ọ na-enye aka? Gịnị banyere ibu ọnụ, nri, ụra na ịnụ ihe? Azịza dị mfe, nwere isi mmalite, tinyere ebe ihe ngosi adịghị ike.",
+    "researchLink": "Gụọ nduzi nyocha ndị a",
+    "appEyebrow": "Ọ bụkwa app",
+    "appTitle": "Golden Moments n'iPhone, iPad na Android",
+    "appText": "App n'efu ahụ na-arụ ọrụ na-enweghị ịntanetị, ọ nwekwara ike iji foto ezinụlọ ị họọrọ, nke a na-edebe dị ka kọpị na ngwaọrụ gị. Otu nhazi dị jụụ: kaadị anọ buru ibu, enweghị elekere, enweghị akara.",
+    "aboutApp": "Maka app ahụ",
+    "faq": [
+      {
+        "q": "Kedu egwuregwu ndị dị mma maka ndị na-ebi ná dementia?",
+        "a": "Egwuregwu ndị dị mma dị mfe, bụrụ ndị a maara, na-enweghịkwa ọgbaghara: onyonyo buru ibu a ga-ahụ ndị dakọrọ, ịhazi ihe, egwuregwu ijikọta onyonyo dị mfe, imecha ilu ndị a maara, ịtee agba, bingo onyonyo na kaadị mkparịta ụka. Nhọrọ kacha mma bụ nke onye ahụ nwere obi ụtọ ime taa. Zere elekere, akara na ihe ọ bụla dị ka ule."
+      },
+      {
+        "q": "Egwuregwu dementia ndị a ọ bụ n'efu?",
+        "a": "Ee. Egwuregwu ọ bụla na ihe a ga-ebipụta ọ bụla dị na Golden Moments bụ n'efu, na-enweghị akaụntụ, ndebanye aha ma ọ bụ nbudata. Egwuregwu ndị a na-arụ ọrụ n'ime browser na ekwentị, tablet ma ọ bụ kọmputa."
+      },
+      {
+        "q": "Egwuregwu ụbụrụ isi ha na-egbochi dementia?",
+        "a": "Mba. A gosipụtabeghị na egwuregwu ọ bụla na-egbochi dementia, Golden Moments anaghịkwa ekwu na ọ na-agwọ ma ọ bụ na-egbochi ihe ọ bụla. Egwuregwu anyị bụ maka obi ụtọ na ịnọ ọnụ. Ngalaba ahụike ụbụrụ isi anyị na-akọwa ihe nyocha na-egosi na ihe ọ na-egosighị."
+      },
+      {
+        "q": "Egwuregwu ndị a ha dabara maka onye nwere Alzheimer?",
+        "a": "Ee. Ọrịa Alzheimer bụ ihe kachasị akpata dementia, e mekwara egwuregwu ndị a maka ya: onyonyo buru ibu na-anọ ebe a na-ahụ ha, nhọrọ ole na ole, na ọ dịghị ihe a ga-echeta ma ọ bụ mejọọ. Ịhụ ndị dakọrọ, ịhazi ihe na imecha ilu ndị a maara na-adabere n'ihe a maara kemgbe karịa mmụta ọhụrụ."
+      },
+      {
+        "q": "Onye nwere dementia n'oge ikpeazụ ọ nwere ike iji ọrụ ndị a?",
+        "a": "Ọtụtụ mgbe, ee, ma otu onye nọ n'akụkụ ya. Malite na Chọta nke yiri ya na onyonyo abụọ, Onyonyo ndị dakọrọ na kaadị anọ, otu ibe ịtee agba ma ọ bụ obere ezumike iku ume dị jụụ. Mee ya mkpụmkpụ, soro ihe ha chọrọ, ma kwụsị mgbe ha zuru."
+      },
+      {
+        "q": "Ozi m ọ bụ nzuzo?",
+        "a": "Saịtị a enweghị akaụntụ ma ọ bụ mgbasa ozi ahịa. Anyị na-eji Google Analytics ghọta ibe ndị a na-eleta. Foto ndị ị họọrọ maka Foto ndị dakọrọ na-egosi naanị n'ime browser gị, a naghịkwa ebuga ha."
+      },
+      {
+        "q": "Onye na-eme Golden Moments?",
+        "a": "Golden Moments bụ obere otu na-eme ọrụ onyonyo dị jụụ, nke ndị okenye, maka ezinụlọ na ndị na-elekọta, n'ịntanetị na dị ka app n'efu. Anyị abụghị ndị dọkịta, ihe ọ bụla dị ebe a abụghịkwa ndụmọdụ ahụike."
+      }
+    ]
+  },
+  "stage": {
+    "early": "mbụ",
+    "middle": "etiti",
+    "late": "ikpeazụ",
+    "hintOne": "Na-adabakarị n'oge {list}",
+    "hintMany": "Na-adabakarị n'oge {list}",
+    "labelEarly": "Oge mbụ",
+    "labelMiddle": "Oge etiti",
+    "labelLate": "Oge ikpeazụ"
+  },
+  "cards": {
+    "aboutGame": "Maka egwuregwu a",
+    "printable": "A ga-ebipụta",
+    "play": "Kpọọ {name} →",
+    "readGuide": "Gụọ nduzi"
+  },
+  "playCta": {
+    "title": "Ị dị njikere maka egwuregwu dị nwayọọ?",
+    "text": "Onyonyo buru ibu, enweghị elekere, enweghị akara na ọ dịghị ihe a ga-edebanye aha maka ya. Kpọọ ọnụ n'ime browser gị.",
+    "play": "Kpọọ egwuregwu",
+    "all": "Lee egwuregwu niile",
+    "aria": "Kpọọ egwuregwu"
+  },
+  "appCta": {
+    "title": "Were egwuregwu ndị a soro gị",
+    "text": "App Golden Moments n'efu maka iPhone, iPad na Android: kaadị onyonyo buru ibu, egwuregwu na foto ezinụlọ gị, na ụyọkọ onyonyo na-arụ ọrụ na-enweghị Wi‑Fi. Enweghị akaụntụ, mgbasa ozi ahịa, elekere ma ọ bụ akara.",
+    "appStore": "Nweta ya na App Store",
+    "googlePlay": "Nweta ya na Google Play",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Maka app ahụ",
+    "aria": "Nweta app ahụ"
+  },
+  "sections": {
+    "activities": {
+      "label": "Ọrụ",
+      "title": "Ọrụ maka ndị na-ebi ná dementia",
+      "seo": "Ọrụ maka ndị na-ebi ná dementia: echiche dịka oge si dị",
+      "description": "Echiche ọrụ maka ndị na-ebi ná dementia n'oge ọ bụla: egwu, ncheta ihe gara aga, ọrụ kwa ụbọchị, ihe mmetụta, ọrụ aka, ezumike n'èzí na ihe a ga-ebipụta n'efu.",
+      "lede": "Ọrụ bara uru bụ ihe ọ bụla na-ewetara onye ahụ ahụ iru ala, ebumnobi ma ọ bụ oge njikọ. Malite n'ihe onye ahụ na-ahụ n'anya mgbe niile, ma dozie ya maka taa."
+    },
+    "caregiving": {
+      "label": "Nlekọta",
+      "title": "Nduzi nlekọta",
+      "seo": "Nduzi nlekọta dementia: enyemaka bara uru kwa ụbọchị",
+      "description": "Nduzi bara uru, nke obi ọma maka ndị na-elekọta ndị nwere dementia: ịkpọ egwuregwu ọnụ, mkparịta ụka, mgbe ha jụrụ, tablet na ilekọta onwe gị.",
+      "lede": "Enyemaka dị mfe, bara uru maka oge kwa ụbọchị nke ilekọta onye na-ebi ná dementia, gụnyere ilekọta onwe gị."
+    },
+    "brain-health": {
+      "label": "Ahụike ụbụrụ isi",
+      "title": "Ahụike ụbụrụ isi: ihe nyocha na-ekwu",
+      "seo": "Ahụike ụbụrụ isi na ihe egwu dementia: ihe nyocha na-ekwu",
+      "description": "Enwere ike igbochi dementia? Nduzi eziokwu, nwere isi mmalite, banyere ihe egwu dementia, egwuregwu ụbụrụ isi, nri, mmega ahụ, ụra na ịnụ ihe.",
+      "lede": "Ihe nnukwu nyocha na-egosi n'ezie banyere ibelata ihe egwu dementia, e kwuru ya nke ọma, gụnyere ebe ihe ngosi adịghị ike ma ọ bụ agwakọtara. Ozi izugbe, ọ bụghị ndụmọdụ ahụike."
+    }
+  },
+  "guide": {
+    "updated": "E melitere",
+    "minuteRead": "Nkeji {n} ịgụ",
+    "byTeam": "Site n'otu Golden Moments",
+    "howWeWrite": "Otu anyị si ede",
+    "shortAnswer": "Azịza mkpirikpi",
+    "onThisPage": "N'ibe a (akụkụ {n})",
+    "commonQuestions": "Ajụjụ a na-ajụkarị",
+    "sources": "Isi mmalite",
+    "sourcesNote": "Anyị na-ejikọ ndị otu na nyocha ndị ibe a tụkwasịrị obi. A lelere nke ọ bụla mgbe e melitere ibe a.",
+    "tryTogether": "Nwaa ọnụ",
+    "relatedGuides": "Nduzi ndị yiri ya",
+    "related": "Ndị yiri ya",
+    "startHere": "Malite ebe a"
+  },
+  "healthNotice": {
+    "aria": "Ọkwa ozi ahụike",
+    "title": "Ozi izugbe, ọ bụghị ndụmọdụ ahụike",
+    "textHtml": "Ibe a na-achịkọta nyocha e bipụtara maka ezinụlọ. Ọ pụghị ịgwa gị ihe ziri ezi maka otu onye. Kparịta na dọkịta tupu ịgbanwee nri, mmega ahụ, ụra, ọgwụ ma ọ bụ ihe mgbakwunye. Maka mgbagwoju anya na mberede ma ọ bụ mgbanwe ọ bụla na mberede, nweta enyemaka ahụike ozugbo. <a href=\"/medical-disclaimer/\">Gụọ ọkwa ozi ahụike anyị</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Ọrụ e nwere ọnụ, ọ bụghị nnwale ncheta",
+      "seoTitle": "Maka Golden Moments: ụzọ anyị si arụ ọrụ",
+      "description": "Ihe mere egwuregwu Golden Moments enweghị elekere ma ọ bụ akara, ihe mere onyonyo ji na-anọ ebe a na-ahụ ha, na ihe anyị ga-ekwu banyere dementia.",
+      "crumb": "Ụzọ anyị si arụ ọrụ",
+      "lede": "Golden Moments na-eme ọrụ onyonyo dị jụụ, nke ndị okenye, nke onye na-elekọta na onye na-ebi ná dementia nwere ike ịnwe obi ụtọ ime n'akụkụ ibe ha.",
+      "bodyHtml": "<h2>Ihe anyị kwenyere</h2><p>Ebumnuche ọrụ bụ oge ahụ n'onwe ya: mkparịta ụka, ọchị, obi ụtọ nke ijikọta onyonyo abụọ, ma ọ bụ naanị ịnọ nso. Ọ bụghị ịtụ onye ọ bụla, ịkwanye ya ka ọ gawa n'ihu ma ọ bụ igosi ihe ọ bụla.</p><p>Ọtụtụ app ọzụzụ ụbụrụ isi e deziri gburugburu ọsọ, akara, usoro mmeri na ọkwa. Maka onye na-ebi ná dementia, nke ahụ nwere ike ịdị ka ule ọ pụghị ịga nke ọma. Anyị mere nke ọzọ, anyị na-edebe onwe anyị n'iwu ndị a:</p><ul><li><strong>Ọ dịghị ihe a ga-ata.</strong> Enweghị elekere, akara, ọnụọgụ nke ije, ndụ, usoro mmeri, confetti ma ọ bụ ọnụọgụ na-ebelata, n'ihuenyo ọ bụla.</li><li><strong>Ịmata karịa icheta.</strong> Onyonyo na-anọ ebe a na-ahụ ha site na ntọala. Ajụjụ na-akpọ mkparịta ụka, anaghị ajụ aha ma ọ bụ ncheta.</li><li><strong>Buru ibu, dị mfe, kwụsiri ike.</strong> Ederede na onyonyo buru ibu, ọdịiche agba dị elu, na ihe nchịkwa na-anọ n'otu ebe.</li><li><strong>Nsọpụrụ nke ndị okenye.</strong> Onyonyo nke ezi ụwa na okwu dị mfe, dị ọkụ obi. Enweghị eserese ụmụaka, otuto dị ka ọbụ abụ ma ọ bụ emoji dị ka ụgwọ ọrụ.</li><li><strong>Ụzọ dị mfe ịpụ.</strong> “Kwụsị ugbu a” na-ahụ anya mgbe niile. Ịkwụsị n'etiti bụ nsonaazụ dị mma.</li><li><strong>Nzuzo site na ntọala.</strong> Enweghị akaụntụ ma ọ bụ mgbasa ozi ahịa. Foto ndị ị họọrọ na-anọ na ngwaọrụ gị.</li></ul><h2>Ihe anyị anaghị ekwu</h2><p>Egwuregwu anyị bụ maka obi ụtọ na njikọ. Ha anaghị achọpụta, nwale, tụọ, agwọ, belata ma ọ bụ gbochie dementia ma ọ bụ ọrịa Alzheimer, onye ọ bụla agaghịkwa ahọrọ ha n'ihi nke ahụ. Mgbe anyị na-ede banyere nyocha n'<a href=\"/brain-health/\">ibe ahụike ụbụrụ isi</a> anyị, anyị na-ekwu nke ọma ebe ihe ngosi adịghị ike, anyị anaghịkwa ejikọ ya na egwuregwu anyị.</p><h2>Ndị anyị bụ</h2><p>Golden Moments bụ obere otu nke onwe. Anyị abụghị ndị dọkịta. A na-ede nduzi anyị site na nduzi e bipụtara nke ndị otu dị ka National Institute on Aging na Alzheimer’s Association, nduzi ọ bụla na-depụtakwa isi mmalite ya. Gụọ <a href=\"/editorial-policy/\">otu anyị si ede ma lelee ibe anyị</a>.</p><h2>Gwa anyị ihe ga-enye aka</h2><p>Anyị ga-enwe mmasị ịnụ ihe na-arụ ọrụ maka gị na ihe na-adịghị arụ ọrụ, karịsịa site n'aka ndị na-ebi ná dementia, ndị ezinụlọ na-elekọta na ndị ọrụ ọrụ. Zipụ email na <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Otu anyị si ede ma lelee ibe anyị",
+      "seoTitle": "Iwu mmeputa",
+      "description": "Otu Golden Moments si enyocha, ede, kwuo isi mmalite na imelite ibe ọrụ dementia na ahụike ụbụrụ isi ya, na ihe anyị agaghị ebipụta.",
+      "crumb": "Iwu mmeputa",
+      "bodyHtml": "<h2>Isi mmalite anyị</h2><p>Anyị na-ewu nduzi anyị n'ihe nduzi ọha nke ndị otu dị ka National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance na NHS, na n'ihe nyocha ndị ọkachamara lere anya dị ka nyocha Cochrane na nnukwu nnwale ụlọ ọgwụ. Nduzi ọ bụla na-depụta isi mmalite ọ na-adabere na ha. Anyị na-emepe isi mmalite ọ bụla tupu anyị kwuo ya, anyị na-akọkwa naanị ihe o kwuru n'ezie.</p><h2>Otu anyị si ede</h2><ul><li>Ihe bara uru buru ụzọ: ihe a ga-eme taa, n'asụsụ dị mfe.</li><li>Eziokwu banyere ihe ngosi: anyị na-ekwu “jikọtara ya na”, “nwere ike” na “ihe ngosi agwakọtara” mgbe nke ahụ bụ eziokwu.</li><li>Nsọpụrụ: anyị na-ede banyere ndị na-ebi ná dementia dị ka ndị okenye, anyị anaghịkwa eji okwu ajụjụ ma ọ bụ ihere.</li><li>Enweghị ọdịnaya e chepụtara: enweghị ọnụ ọgụgụ, okwu, ndị ọkachamara, nyocha, nyocha ndị ahịa ma ọ bụ akaebe e chepụtara.</li></ul><h2>Onye na-elele ibe anyị</h2><p>Otu Golden Moments na-ede ma na-elele ibe, ya na enyemaka site na ngwa ide AI maka nyocha na ịkwado ede. Otu ahụ na-elele ibe ọ bụla megide isi mmalite ya. Dọkịta ma ọ bụ onye ọkachamara ọzọ <strong>elebeghị</strong> ibe anyị anya, anyị anaghịkwa ekwu ọzọ. Ha bụ ozi izugbe, ọ bụghị ndụmọdụ ahụike.</p><h2>Ihe anyị agaghị ebipụta</h2><ul><li>Nkwupụta na egwuregwu, nri, ihe mgbakwunye, ibu ọnụ ma ọ bụ usoro ọ bụla na-egbochi, agwọ, belata ma ọ bụ gwọọ dementia.</li><li>Nnwale, ajụjụ ma ọ bụ akara na-egosi na onye nwere, ma ọ bụ na o nweghị, dementia.</li><li>Ndụmọdụ ịmalite, kwụsị ma ọ bụ gbanwee ọgwụ ọ bụla.</li><li>Mgbasa ozi ahịa ma ọ bụ ọdịnaya e nyere ụgwọ nke e zoro ezo dị ka nduzi.</li></ul><h2>Mmelite na nhazi</h2><p>Ibe ọ bụla na-egosi ụbọchị e melitere ya ikpeazụ. Ọ bụrụ na ị chọta njehie ma ọ bụ isi mmalite ochie, biko zipụ email na <a href=\"mailto:{email}\">{email}</a>, anyị ga-elele ya ngwa ngwa.</p>"
+    },
+    "faq": {
+      "title": "Ajụjụ na azịza",
+      "seoTitle": "Egwuregwu na ọrụ dementia: ajụjụ na azịza",
+      "description": "Azịza maka ajụjụ a na-ajụkarị banyere egwuregwu na ọrụ dementia: egwuregwu a ga-anwale, ogologo oge a ga-akpọ, echiche oge ikpeazụ, ahụike ụbụrụ isi na nzuzo.",
+      "crumb": "Ajụjụ na azịza",
+      "lede": "Azịza mkpirikpi, dị mfe maka ajụjụ ndị na-elekọta kacha ajụ.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Maka egwuregwu ndị ahụ",
+          "items": [
+            {
+              "q": "Kedu egwuregwu ndị kacha mma maka onye nwere dementia?",
+              "a": "Egwuregwu ndị kacha mma bụ ndị a maara, dị mfe, na-enweghịkwa ọgbaghara, nke ziri ezi bụkwa ihe onye ahụ nwere obi ụtọ ime taa. Ịhụ onyonyo ndị dakọrọ ebe a na-ahụ onyonyo, ịhazi ihe, egwuregwu ijikọta onyonyo dị mfe, imecha ilu ndị a maara, ịtee agba na bingo onyonyo na-adịkwa mma maka ọtụtụ mmadụ. Zere elekere, akara na ihe ọ bụla dị ka ule."
+            },
+            {
+              "q": "Egwuregwu ndị ahụ ha bụ n'efu n'ezie?",
+              "a": "Ee. Egwuregwu niile na ihe a ga-ebipụta bụ n'efu, na-enweghị akaụntụ, ndebanye aha, nbudata ma ọ bụ mgbasa ozi ahịa."
+            },
+            {
+              "q": "Gịnị mere o nweghị akara, ọkwa ma ọ bụ elekere?",
+              "a": "Ọsọ na akara na-eme ka ọrụ na-atọ ụtọ ghọọ ule, nke nwere ike iweta ihere ma ọ bụ iwe. Anyị na-edebe uche n'obi ụtọ na ịnọ ọnụ, ya mere ọ dịghị ihe a ga-ata, ị nwekwara ike ịkwụsị n'oge ọ bụla."
+            },
+            {
+              "q": "Kedu ngwaọrụ na-arụ ọrụ nke ọma?",
+              "a": "Ekwentị, tablet ma ọ bụ kọmputa ọ bụla nwere browser ọgbara ọhụrụ. Tablet dị n'elu ihe e debere ya n'akụkụ tebụl bụ ụzọ kacha adị mma ka mmadụ abụọ kpọọ n'akụkụ ibe ha. Laptọọpụ jikọtara na TV na-arụ ọrụ nke ọma maka otu."
+            },
+            {
+              "q": "Anyị nwere ike ịkpọ egwuregwu na foto ezinụlọ anyị?",
+              "a": "Ee. Foto ndị dakọrọ na-eme ka foto 2 ruo 6 ị họọrọ ghọọ egwuregwu ịhụ ndị dakọrọ. Foto ndị ahụ na-anọ n'ime browser gị, a naghịkwa ebuga ha."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Ọrụ na nlekọta",
+          "items": [
+            {
+              "q": "Ogologo oge ole ka ọrụ kwesịrị ịdị?",
+              "a": "Ọtụtụ mgbe nkeji 10 ruo 20 zuru oke, mgbe ụfọdụ nkeji 2 bụ ihe ịga nke ọma. Lelee ihe ịrịba ama nke ike ọgwụgwụ ma ọ bụ iwe, ma kwụsị mgbe ọ ka dị mma. Ọ dịghị ọnụọgụ ziri ezi."
+            },
+            {
+              "q": "Gịnị ma ọ bụrụ na ha achọghị ime ọrụ?",
+              "a": "Sọpụrụ mba ahụ, ma nwaa ọzọ mgbe e mesịrị ma ọ bụ n'ụzọ ọzọ. Mgbe ha jụrụ nwere ike ịbụ n'ihi ike ọgwụgwụ, mgbu, ịdị n'obi abụọ ma ọ bụ naanị enweghị mmasị. Lee nduzi anyị banyere ihe a ga-eme mgbe ha sịrị mba."
+            },
+            {
+              "q": "Kedu ọrụ na-adaba maka dementia n'oge ikpeazụ?",
+              "a": "Ahụ iru ala na ihe mmetụta: ige ntị n'egwu ha hụrụ n'anya, ịhịa aka na mmanụ, ilekọ foto ọnụ, ijide akwa nkpuchi dị nro, ịnọdụ n'èzí, ma ọ bụ egwuregwu onyonyo dị mfe nke ọma na onye nọ n'akụkụ ya. Nduzi oge ikpeazụ anyị nwere ọtụtụ echiche ndị ọzọ."
+            },
+            {
+              "q": "Ọ nwere ọrụ maka otu n'ụlọ nlekọta?",
+              "a": "Ee. Bingo onyonyo nwere kaadị a ga-ebipụta na onye na-akpọ n'ihuenyo, Mechaa ilu na Kaadị mkparịta ụka na-arụkwa ọrụ nke ọma mgbe a na-agụ ha n'olu dara ụda. Nduzi otu ụlọ nlekọta anyị na-ekpuchi nha otu, ọnọdụ ịnọdụ na ịhazi maka ike dị iche."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Ahụike ụbụrụ isi",
+          "items": [
+            {
+              "q": "Egwuregwu nwere ike igbochi ma ọ bụ belata dementia?",
+              "a": "Mba. A gosipụtabeghị na egwuregwu ọ bụla na-egbochi dementia, egwuregwu anyị anaghịkwa ekwu nke ahụ. Mkpali uche n'ọnọdụ mmekọrịta egosiwo obere uru n'ime nyocha maka ndị nwere dementia dị nro ruo etiti, mana nke ahụ dị iche na egwuregwu na-egbochi ọrịa. Anyị na-enye egwuregwu maka obi ụtọ na njikọ."
+            },
+            {
+              "q": "Enwere ike igbochi dementia?",
+              "a": "Ọ bụghị n'ezie. Nyocha na-ejikọ ihe ahụike na ụzọ ndụ 14 na ihe egwu dementia, dị ka ịnụghị ihe nke ọma, ọbara mgbali elu, enweghị mmega ahụ na ịnọ naanị. Ịlebara ha anya nwere ike ibelata ihe egwu maka ụfọdụ mmadụ, mana ọtụtụ mmadụ na-eme ihe niile nke ọma ka na-enwe dementia. Ọ bụghị mmejọ nke onye ọ bụla."
+            },
+            {
+              "q": "Ibu ọnụ n'oge ụfọdụ ọ dị mma maka ahụike ụbụrụ isi?",
+              "a": "Ihe ngosi n'ebe mmadụ dị oke obere ma bụrụ nke mbụ, ọtụtụ nyocha dịkwa n'anụmanụ. Ibu ọnụ nwere ike ịbụ ihe egwu maka ndị okenye, karịsịa ya na ọgwụ shuga ma ọ bụ ọnwụ ibu na-ahaghị anya, a anaghịkwa atụ aro ya maka ndị na-ebi ná dementia. Kparịta na dọkịta tupu ịgbanwee otu ị si eri nri."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Nzuzo na nchekwa",
+          "items": [
+            {
+              "q": "Ị na-anakọta ozi ọ bụla?",
+              "a": "Enweghị akaụntụ ma ọ bụ mgbasa ozi ahịa. Anyị na-eji Google Analytics agụ nleta na ịhụ ibe na-enye aka, browser gị na-echetakwa ma ị gbanyere ụda dị nwayọọ. A naghị ebuga foto ndị ị họọrọ maka Foto ndị dakọrọ. Lee ọkwa nzuzo maka nkọwa."
+            },
+            {
+              "q": "Nke a ọ bụ ndụmọdụ ahụike?",
+              "a": "Mba. Golden Moments bụ maka ntụrụndụ na ozi izugbe. Maka ajụjụ ahụike, kparịta na dọkịta, maka mberede kpọọ nọmba mberede nke mpaghara gị."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Nkọwa ndị ọzọ: <a href=\"/caregiving/how-to-play-together/\">otu esi akpọ ọnụ</a>, <a href=\"/caregiving/when-they-say-no/\">mgbe ha sịrị mba</a>, <a href=\"/activities/late-stage/\">ọrụ oge ikpeazụ</a> na <a href=\"/brain-health/can-dementia-be-prevented/\">enwere ike igbochi dementia?</a>"
+    },
+    "handout": {
+      "title": "Egwuregwu n'efu, dị nwayọọ maka ndị na-ebi ná dementia",
+      "seoTitle": "Ibe a ga-ebipụta: egwuregwu dementia n'efu n'ịntanetị",
+      "description": "Otu ibe a ga-ebipụta maka ezinụlọ na ndị na-elekọta banyere egwuregwu onyonyo n'efu, dị nwayọọ maka ndị na-ebi ná dementia, maka otu nkwado na ngwugwu nlekọta.",
+      "crumb": "Ibe a ga-ebipụta",
+      "lede": "Bipụta ibe a maka otu nkwado, ngwugwu nlekọta ma ọ bụ ọnụ ụzọ friji. Jiri iwu Print nke browser gị; a hapụrụ menu na bọtịnụ na ibe e bipụtara.",
+      "introHtml": "<p>Onyonyo buru ibu, okwu dị mfe na ọ dịghị ihe a ga-ata. N'efu n'ekwentị, tablet ma ọ bụ kọmputa, na-enweghị ndebanye aha, mgbasa ozi ahịa, elekere ma ọ bụ akara. Nọdụ n'akụkụ ibe unu ma na-apị n'usoro.</p>",
+      "gamesTitle": "Egwuregwu a ga-anwale ọnụ",
+      "restHtml": "<h2>Ndụmọdụ ole na ole</h2><ul><li>Họrọ oge nke ụbọchị mgbe onye ahụ nọ n'ọnọdụ kacha mma.</li><li>Malite na nhazi kacha mfe. Kaadị anọ zuru oke.</li><li>Kparịta onyonyo ndị ahụ. Mkparịta ụka bụ akụkụ kacha mma mgbe ụfọdụ.</li><li>Kwụsị mgbe ọ ka dị mma. Ịkwụsị n'oge bụ nsonaazụ dị mma.</li></ul><h2>Ọ dịkwa na saịtị</h2><ul><li>Ihe a ga-ebipụta n'efu: chọta okwu n'mkpụrụ edemede buru ibu, ibe ịtee agba, kaadị mkparịta ụka na bingo onyonyo.</li><li>Echiche ọrụ maka oge ọ bụla, na nduzi banyere ịkpọ egwuregwu ọnụ na ilekọta onwe gị.</li></ul><p class=\"muted\">Maka obi ụtọ na ịnọ ọnụ. Ọ bụghị ndụmọdụ ahụike, nnwale ma ọ bụ ọgwụgwọ. Cloudjet Solutions Pte. Ltd. bipụtara Golden Moments.</p>"
+    },
+    "organizations": {
+      "title": "Maka ụlọ nlekọta, ọbá akwụkwọ na otu nkwado",
+      "seoTitle": "Ọrụ dementia n'efu maka ụlọ nlekọta na otu",
+      "description": "Otu ụlọ nlekọta, ọbá akwụkwọ na otu nkwado si eji egwuregwu dementia n'efu anyị, na ederede iji tinye anyị n'ndepụta isi mmalite gị.",
+      "crumb": "Maka ụlọ ọrụ",
+      "lede": "Ihe niile dị na saịtị a bụ n'efu iji ya na ndị bi, ndị otu na ndị ahịa, na-enweghị akaụntụ, ikike ma ọ bụ ụgwọ. Ibe a na-akọwa ihe dị ebe a na otu esi ekesa ya.",
+      "shortText": "{name}: egwuregwu onyonyo n'efu, dị nwayọọ na nduzi ọrụ maka ndị na-ebi ná dementia na ndị na-elekọta ha. Enweghị ndebanye aha, elekere ma ọ bụ akara.",
+      "longText": "{name} ({domain}) na-enye egwuregwu browser n'efu {count} e mere maka ndị na-ebi ná dementia, gụnyere ịhụ ndị dakọrọ na onyonyo a hapụrụ ka ha na-ahụ anya, egwuregwu ijikọta onyonyo dị mfe, ịhazi ihe, ilu ndị a maara na bingo onyonyo nwere kaadị a ga-ebipụta. Enweghị akaụntụ, mgbasa ozi ahịa, elekere ma ọ bụ akara. Saịtị ahụ nwekwara nduzi ọrụ n'asụsụ dị mfe maka oge ọ bụla nke dementia nke na-ekwu National Institute on Aging na Alzheimer's Association.",
+      "useTitle": "Ihe ụlọ ọrụ nwere ike iji",
+      "gamesItemHtml": "<strong>Egwuregwu browser {count}</strong> na-arụ ọrụ n'ime laptọọpụ, tablet ma ọ bụ TV jikọtara na kọmputa. Enweghị nwụnye, akaụntụ ma ọ bụ nbudata. Lee <a href=\"/games/\">egwuregwu niile</a>.",
+      "printablesLabel": "Ihe a ga-ebipụta {count}:",
+      "printablesAfter": "Jiri bọtịnụ Print dị n'ibe ọ bụla.",
+      "moreItemsHtml": "<li><strong>Nhazi maka otu:</strong> <a href=\"/games/picture-bingo/\">Bingo onyonyo</a> nwere kaadị a ga-ebipụta na onye na-akpọ n'ihuenyo, <a href=\"/activities/trivia/\">ajụjụ dị mfe</a> nwekwara ajụjụ 50 nwere nhọrọ azịza na isi okwu mkparịta ụka.</li><li><strong>Nduzi ọrụ</strong> maka ndị ọrụ na ezinụlọ, dịka oge si dị na dịka ụdị si dị, e dere n'asụsụ dị mfe na isi mmalite. Malite na <a href=\"/activities/ideas/\">echiche ọrụ 101</a> ma ọ bụ <a href=\"/activities/care-home-groups/\">ọrụ otu maka ụlọ nlekọta</a>.</li>",
+      "restHtml": "<h2>Otu otu si eji ya</h2><ul><li><strong>Ụlọ nlekọta na nlekọta ncheta:</strong> bingo onyonyo ma ọ bụ mechaa-ilu na TV ụlọ nzukọ, ya na otu onye na-apị maka otu ahụ.</li><li><strong>Mmemme ehihie ndị okenye:</strong> ebe tablet nwere Onyonyo ndị dakọrọ edobere na kaadị anọ, maka oge mkpụmkpụ otu n'otu.</li><li><strong>Ọbá akwụkwọ ọha:</strong> chọta okwu e bipụtara na kaadị mkparịta ụka n'ime ngwugwu ncheta, na saịtị ahụ e debere na tablet ọbá akwụkwọ.</li><li><strong>Otu nkwado ndị na-elekọta na ebe ndị mmadụ na-ezukọ:</strong> <a href=\"/handout/\">otu ibe a ga-ebipụta</a> ka ezinụlọ were laghachi.</li><li><strong>Ụlọ ọgwụ na ndị na-ahazi mwepụ:</strong> ibe ahụ n'ime ngwugwu ndị na-elekọta, maka ihe dị jụụ a ga-eme n'ụlọ ma ọ bụ n'akụkụ ihe ndina.</li></ul><h2>Ihe anyị anaghị eme</h2><p>Egwuregwu ndị a bụ maka obi ụtọ na ịnọ ọnụ. Ha anaghị achọpụta, nwale, nye akara, agwọ ma ọ bụ belata dementia, anyị na-arịọkwa ka ụlọ ọrụ ghara ịkọwa ha otu ahụ. Enweghị mgbasa ozi ahịa, egwuregwu ndị ahụ anaghịkwa arịọ ka e bubata aha, nkọwa ahụike ma ọ bụ foto. Weebụsaịtị na-eji Google Analytics agụ nleta; <a href=\"/privacy/\">ọkwa nzuzo</a> anyị na-akọwa ihe ọ na-anakọta. Foto ndị e ji mee <a href=\"/games/photo-pairs/\">Foto ndị dakọrọ</a> na-anọ n'ime browser.</p><h2>Tinye anyị n'ndepụta isi mmalite gị</h2><p>Ọ bụrụ na ị na-edebe ndepụta isi mmalite maka ndị na-elekọta, ị nwere nnabata ijikọ <a href=\"/\">{domain}</a>. Ị nwere ike ikọpị nkọwa ọ bụla.</p>",
+      "shortTitle": "Nkọwa mkpirikpi",
+      "longTitle": "Nkọwa ogologo",
+      "linksHtml": "<p>Ibe bara uru ị ga-ejikọ ozugbo: <a href=\"/games/\">egwuregwu n'efu</a>, <a href=\"/activities/printable/\">ihe a ga-ebipụta n'efu</a>, <a href=\"/activities/alzheimers/\">ọrụ maka Alzheimer</a> na <a href=\"/caregiving/how-to-play-together/\">otu esi akpọ ọnụ</a>.</p><h2>Ajụjụ ma ọ bụ nhazi</h2><p>Ọ bụrụ na ihe ọ bụla n'saịtị adịghị mma ma ọ bụ doro anya, ma ọ bụ ihe dị ebe a anaghị emezu mkpa onye bi, biko gwa anyị na <a href=\"mailto:{email}\">{email}</a>. Biko ezila ozi onwe onye ma ọ bụ ozi ahụike banyere ndị bi ma ọ bụ ndị ahịa.</p>"
+    },
+    "app": {
+      "title": "App Golden Moments",
+      "seoTitle": "App Golden Moments maka iPhone na Android",
+      "description": "App Golden Moments n'efu: ịhụ foto ndị dakọrọ dị nwayọọ nwere kaadị anọ buru ibu, foto ezinụlọ e debere na ngwaọrụ gị, ụyọkọ onyonyo na-enweghị ịntanetị.",
+      "crumb": "App ahụ",
+      "lede": "Ihe niile ị na-ahụ n'anya na weebụsaịtị, n'ime app na-arụ ọrụ na-enweghị ịntanetị ma nwee ike iji foto ezinụlọ ị họọrọ.",
+      "worksOn": "Na-arụ ọrụ n'ime {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Malite n'obere</h2><p>Malite na kaadị anọ buru ibu na onyonyo ndị a maara. Hapụ onyonyo ka ha na-ahụ anya, ma ọ bụ zoo ha mgbe ọ dị gị mma. Ụdị dị nwayọọ enweghị elekere, akara ma ọ bụ ntaramahụhụ. Họrọ kaadị 4, 6, 8 ma ọ bụ 12.</p><h2>Mee ya nke onwe unu</h2><p>Họrọ foto ezinụlọ site n'ihe ngwaọrụ gị na-ahọrọ foto. App ahụ na-echekwa kọpị ndị pere mpe maka ọrụ ya. Ọ naghị enyocha ọbá foto gị ma ọ bụ gbanwee foto izizi gị, ọ na-edebekwa foto ruo 24 n'otu nchịkọta.</p><h2>Lekọọ naanị ọnụ</h2><p>Lee otu onyonyo n'otu oge. Ajụjụ nhọrọ na-akpọ mkparịta ụka n'ajụghị onye ọ bụla ka ọ cheta aha ma ọ bụ nye azịza ziri ezi. Ilele naanị zuru oke.</p><h2>Na-enweghị ịntanetị ebe ọ dị mkpa</h2><p>Onyonyo mbụ na ụyọkọ onyonyo asatọ niile dị n'ime app ahụ. Kọpị foto e webatara na-arụ ọrụ na-enweghị ịntanetị. Ịhọrọ foto izizi e chekwara naanị na iCloud nwere ike ịchọ ịntanetị.</p><h2>Enweghị akaụntụ, enweghị sava ikesa foto</h2><p>Kọpị foto ezinụlọ na-anọ n'ime app ahụ na ngwaọrụ ahụ. Ị nwere ike iwepụ kọpị ndị ahụ na-ehichapụghị foto izizi. Backup ngwaọrụ nwere ike ịgụnye data app. Gụọ <a href=\"/app-privacy/\">iwu nzuzo nke app</a>, <a href=\"/help/\">enyemaka app</a> na-edu gị site n'nzọụkwụ ọ bụla.</p>",
+      "disclaimer": "Golden Moments bụ maka ntụrụndụ na mkparịta ụka e nwere ọnụ. Ọ naghị achọpụta, agwọ, gbochie ma ọ bụ tụọ dementia ma ọ bụ ọrịa Alzheimer.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Egwuregwu n'efu maka dementia na Alzheimer n'ịntanetị",
+    "description": "Egwuregwu n'efu maka ndị agadi na-ebi ná dementia ma ọ bụ Alzheimer: ịhụ onyonyo ndị dakọrọ, ijikọta onyonyo, ịhazi, bingo. Enweghị ndebanye aha ma ọ bụ akara.",
+    "crumb": "Egwuregwu",
+    "h1": "Egwuregwu dị nwayọọ maka ndị na-ebi ná dementia",
+    "lede": "Egwuregwu n'efu {count} ị ga-akpọ ọnụ n'ime browser gị. Onyonyo buru ibu, okwu dị mfe, na ọ dịghị ihe a ga-ata: enweghị elekere, enweghị akara, enweghị ndebanye aha.",
+    "listName": "Egwuregwu dị nwayọọ maka ndị na-ebi ná dementia",
+    "byStageTitle": "Ịhọrọ egwuregwu dịka oge si dị",
+    "byStageLede": "Oge bụ naanị ntụziaka nkịtị. Soro ihe onye ahụ na-ahụ n'anya na ihe dị mma taa.",
+    "stageCol": "Oge",
+    "gamesCol": "Egwuregwu na-adabakarị",
+    "moreHtml": "Echiche ndị ọzọ na mpụga ihuenyo: <a href=\"/activities/ideas/\">ọrụ 101 maka ndị na-ebi ná dementia</a>, <a href=\"/activities/alzheimers/\">ọrụ na egwuregwu maka Alzheimer</a>, <a href=\"/activities/memory-games/\">egwuregwu ncheta dị nwayọọ</a> na <a href=\"/activities/puzzles/\">egwuregwu ijikọta ihe</a>.",
+    "faq": [
+      {
+        "q": "Kedu egwuregwu anyị kwesịrị ịmalite na ya?",
+        "a": "Onyonyo ndị dakọrọ na kaadị anọ bụ nhọrọ mbụ dị jụụ. Ọ bụrụ na ịhọrọ n'etiti onyonyo dị ka ọ dị ukwuu, nwaa Chọta nke yiri ya na onyonyo abụọ. Maka otu, nwaa Bingo onyonyo."
+      },
+      {
+        "q": "Egwuregwu ndị ahụ ha na-arụ ọrụ n'iPad ma ọ bụ ekwentị?",
+        "a": "Ee. Egwuregwu ọ bụla na-arụ ọrụ n'ime browser n'ekwentị, tablet na kọmputa, onyonyo ndị ahụ na-agbakwa ka ha jupụta ihuenyo. Tablet dị n'elu ihe e debere ya bụ nke kacha adị mma maka mmadụ abụọ."
+      },
+      {
+        "q": "Egwuregwu ndị a ha dị mma maka onye nwere Alzheimer?",
+        "a": "Ee. E mere ha maka ndị na-ebi ná dementia, gụnyere Alzheimer, nke bụ ihe kachasị akpata ya. Onyonyo na-anọ ebe a na-ahụ ha, nhọrọ ole na ole dị, ọ dịghịkwa ihe e tụrụ oge ma ọ bụ nye akara, ya mere egwuregwu ndị a na-adabere n'ịmata ihe a maara karịa icheta ihe ọhụrụ."
+      },
+      {
+        "q": "Ndị a ha bụ egwuregwu ncheta maka ndị agadi?",
+        "a": "Ha bụ egwuregwu ịhụ ndị dakọrọ na egwuregwu onyonyo nke okenye ọ bụla nwere ike ịmasị, mana e wuru ha ka ha ghara ịnwale ncheta: n'Onyonyo ndị dakọrọ, onyonyo na-anọ ebe a na-ahụ ha belụsọ ma ị họrọ ihe ọzọ. Nduzi anyị banyere egwuregwu ncheta maka ndị agadi nwere dementia na-akọwa otu esi eme ka egwuregwu ncheta ọ bụla dị nwayọọ."
+      },
+      {
+        "q": "Ọ nwere egwuregwu maka otu n'ụlọ nlekọta?",
+        "a": "Ee. Bingo onyonyo nwere kaadị a ga-ebipụta na onye na-akpọ n'ihuenyo, Mechaa ilu na Kaadị mkparịta ụka na-arụkwa ọrụ nke ọma mgbe a na-agụ ha n'olu dara ụda nye otu."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad na Android",
+    "requirements": "iOS 15 ma ọ bụ nke ka ọhụrụ; Android 7.0 ma ọ bụ nke ka ọhụrụ",
+    "summary": "App n'efu maka iPhone, iPad na Android nwere ịhụ onyonyo ndị dakọrọ dị nwayọọ na kaadị buru ibu anọ ruo iri na abụọ, ịhụ ndị dakọrọ na ilele foto ezinụlọ ị họọrọ, na ụyọkọ onyonyo asatọ e tinyere nke na-arụ ọrụ na-enweghị ịntanetị. Enweghị akaụntụ, mgbasa ozi ahịa, elekere ma ọ bụ akara.",
+    "features": [
+      "Ịhụ onyonyo ndị dakọrọ dị nwayọọ na kaadị buru ibu 4, 6, 8 ma ọ bụ 12; onyonyo na-anọ ebe a na-ahụ ha belụsọ ma ị họrọ izo ha",
+      "Foto ezinụlọ ị họọrọ na-abanye n'ime app ka e kọpị ha maka ịhụ ndị dakọrọ na ilele ọnụ",
+      "Lekọọ ọnụ: otu onyonyo n'otu oge nwere ajụjụ mkparịta ụka nhọrọ",
+      "Ụyọkọ onyonyo asatọ dị n'ime app ahụ; ha na-arụ ọrụ na-enweghị ịntanetị",
+      "Enweghị akaụntụ, mgbasa ozi ahịa, ịzụrụ n'ime app, elekere, akara ma ọ bụ ntaramahụhụ"
+    ],
+    "faq": [
+      {
+        "q": "Ọ nwere app ọrụ dementia?",
+        "a": "Ee. Golden Moments (e depụtara ya dị ka \"{storeName}\") bụ n'efu na App Store na Google Play. Ọ na-enye ịhụ onyonyo ndị dakọrọ dị nwayọọ na kaadị buru ibu, egwuregwu na foto ezinụlọ ị họọrọ, na ụyọkọ onyonyo na-arụ ọrụ na-enweghị ịntanetị."
+      },
+      {
+        "q": "App Golden Moments ọ bụ n'efu?",
+        "a": "Ee. Ọ bụ n'efu ibudata, na-enweghị mgbasa ozi ahịa, akaụntụ ma ọ bụ ịzụrụ n'ime app."
+      },
+      {
+        "q": "App ahụ ọ na-arụ ọrụ na-enweghị ịntanetị?",
+        "a": "Ee. Onyonyo mbụ na ụyọkọ onyonyo asatọ niile dị n'ime app ahụ, foto ezinụlọ na-arụkwa ọrụ na-enweghị ịntanetị ozugbo e kọpịrị ha n'ime app ahụ. Ịhọrọ foto e chekwara naanị na iCloud nwere ike ịchọ njikọ."
+      },
+      {
+        "q": "Enwere m ike iji foto ezinụlọ anyị?",
+        "a": "Ee. Họrọ foto site n'ihe ngwaọrụ gị na-ahọrọ foto. App ahụ na-edebe kọpị ndị pere mpe na ngwaọrụ maka ọrụ ya, anaghị ebuga ha, anaghịkwa agbanwe foto izizi. Ị nwere ike iwepụ kọpị ndị ahụ n'oge ọ bụla."
+      },
+      {
+        "q": "Ọ bụ app ọzụzụ ụbụrụ isi ma ọ bụ nnwale ncheta?",
+        "a": "Mba. Golden Moments bụ maka obi ụtọ na ịnọ ọnụ. Enweghị akara ma ọ bụ nnwale, ọ naghịkwa achọpụta, agwọ, gbochie ma ọ bụ tụọ dementia ma ọ bụ ọrịa Alzheimer."
+      },
+      {
+        "q": "Kedu ngwaọrụ ọ na-arụ ọrụ na ha?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Ọ nwere ụdị app nke egwuregwu a?",
+      "a": "Ee. App Golden Moments n'efu maka iPhone, iPad na Android nwere otu ịhụ onyonyo ndị dakọrọ dị nwayọọ, nwere ike iji foto ezinụlọ ị họọrọ, ma na-arụ ọrụ na-enweghị ịntanetị. Enweghị akaụntụ, mgbasa ozi ahịa ma ọ bụ akara."
+    },
+    "gameFaqNo": {
+      "q": "Ọ nwere ụdị app nke egwuregwu a?",
+      "a": "Ọ bụghị nke egwuregwu a. App Golden Moments n'efu maka iPhone, iPad na Android nwere ịhụ onyonyo ndị dakọrọ dị nwayọọ na kaadị buru ibu na foto ezinụlọ ị họọrọ, ọ na-arụkwa ọrụ na-enweghị ịntanetị. Egwuregwu a na-anọgide n'efu ebe a n'ime browser gị."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: onyonyo buru ibu, dị mma",
+    "noscript": "Egwuregwu a chọrọ ka a gbanye JavaScript n'ime browser gị. Ndụmọdụ ndị dị n'okpuru na-arụ ọrụ na-enweghị ya.",
+    "about": "Maka {name}",
+    "aboutAria": "Maka egwuregwu a",
+    "noTimer": "Enweghị elekere ma ọ bụ akara",
+    "printable": "A ga-ebipụta",
+    "howTo": "Otu esi akpọ {name}",
+    "tips": "Ndụmọdụ maka ịkpọ ọnụ",
+    "newToPlayingHtml": "Ị bụ onye ọhụrụ n'ịkpọ egwuregwu na onye nwere dementia? Gụọ <a href=\"/caregiving/how-to-play-together/\">otu esi akpọ egwuregwu ọnụ</a>, gụnyere ihe a ga-eme ma ọ bụrụ na ha ahụghị mmasị ọzọ.",
+    "moreAria": "Ihe ndị ọzọ a ga-achọpụta",
+    "helpfulGuides": "Nduzi bara uru",
+    "appTitle": "Kpọọ ya n'ime app",
+    "appText": "App Golden Moments n'efu nwere ịhụ onyonyo ndị dakọrọ dị nwayọọ na kaadị buru ibu na foto ezinụlọ gị, ọ na-arụkwa ọrụ na-enweghị Wi‑Fi. iPhone, iPad na Android.",
+    "photoAppTitle": "Debe foto gị ka ha dị njikere",
+    "photoAppText": "N'ime app Golden Moments n'efu, foto ndị ị họọrọ na-anọ na ngwaọrụ gị maka oge ọzọ, egwuregwu na-arụkwa ọrụ na-enweghị Wi‑Fi. iPhone, iPad na Android.",
+    "goodToKnow": "Ọ dị mma ịmara",
+    "goodToKnowText": "Egwuregwu a bụ maka obi ụtọ na ịnọ ọnụ. Ọ naghị anwale, tụọ ma ọ bụ agwọ ihe ọ bụla.",
+    "moreGames": "Egwuregwu dị nwayọọ ndị ọzọ",
+    "crumb": "Egwuregwu"
+  }
+}

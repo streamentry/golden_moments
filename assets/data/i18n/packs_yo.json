@@ -1,0 +1,132 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Àwọn ẹranko",
+      "description": "Àwọn ẹranko tí ó rẹwà tí ó sì lọ́rẹ̀ẹ́ láti gbogbo àgbáyé"
+    },
+    "nature": {
+      "name": "Ẹwà ẹ̀dá",
+      "description": "Àwọn ilẹ̀ tí ó rẹwà àti àwọn ibi ẹ̀dá"
+    },
+    "food": {
+      "name": "Oúnjẹ",
+      "description": "Àwọn oúnjẹ aládùn àti àwọn ohun dídùn"
+    },
+    "vintage": {
+      "name": "Àwọn ọkọ̀",
+      "description": "Àwọn ọkọ̀ ayọ́kẹ́lẹ́ àti ọkọ̀ akẹ́rù láti wò àti láti sọ̀rọ̀ lé lórí"
+    },
+    "flowers": {
+      "name": "Àwọn òdòdó",
+      "description": "Àwọn òdòdó tí ó rẹwà àti àwọn ibi ọgbà"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Àwọn ẹran ọ̀sìn",
+      "description": "Àwọn ẹran ọ̀sìn tí ó lọ́rẹ̀ẹ́, bí ẹni pé ẹ ń bẹ̀wò oko.",
+      "theme": "Ìgbé ayé oko",
+      "images": {
+        "cow_1": "Màálù",
+        "pig_1": "Ẹlẹ́dẹ̀",
+        "chicken_1": "Àkùkọ",
+        "buffalo_1": "Ẹfọ̀n omi",
+        "horse_1": "Ẹṣin",
+        "duck_1": "Ẹbí pẹ́pẹ́yẹ",
+        "goat_1": "Ewúrẹ́",
+        "rabbit_1": "Ehoro"
+      }
+    },
+    "nature_mountains": {
+      "title": "Àwọn ojú òkè",
+      "description": "Àwọn ilẹ̀ òkè tí ó yani lẹ́nu àti àwọn ojú ìwòye tí ó lẹ́wà",
+      "theme": "Ẹwà ẹ̀dá",
+      "images": {
+        "mountain_1": "Àwọn téńté òkè tí yìnyín bò",
+        "mountain_2": "Òkè Fuji",
+        "mountain_3": "Àfonífojì láàrin àwọn òkè Alps",
+        "mountain_4": "Téńté òkè àpáta",
+        "mountain_5": "Àwọn òkè igbó",
+        "mountain_6": "Àwọn òkè tí ìkùukùu bò"
+      }
+    },
+    "vintage_cars": {
+      "title": "Àwọn ọkọ̀ ayọ́kẹ́lẹ́ àti ọkọ̀ akẹ́rù",
+      "description": "Àwọn ọkọ̀ ayọ́kẹ́lẹ́ àti ọkọ̀ akẹ́rù dídán láti wò àti láti sọ̀rọ̀ lé lórí",
+      "theme": "Lójú ọ̀nà",
+      "images": {
+        "vintage_car_1": "Audi àwọ̀ ọsàn ní ìwọ̀ oòrùn",
+        "vintage_car_2": "Ọkọ̀ eré àwọ̀ búlúù ní aginjù",
+        "vintage_car_3": "Bugatti fàdákà",
+        "vintage_car_4": "Porsche dúdú lójú ọ̀nà",
+        "vintage_car_5": "BMW àwọ̀ ọsàn ní òpópónà tí igi ọ̀pẹ wà",
+        "vintage_car_6": "Ọkọ̀ àwọ̀ búlúù ní ẹ̀bá gáréèjì",
+        "vintage_car_7": "Ọkọ̀ pickup aláwọ̀ ewé",
+        "vintage_car_8": "SUV funfun láàrin àpáta pupa",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Ọkọ̀ àwọ̀ búlúù tí ó ní ìlà funfun"
+      }
+    },
+    "animals_safari": {
+      "title": "Àwọn ẹranko ìgbẹ́",
+      "description": "Àwọn ẹranko ìgbẹ́ tí ó lọ́lá láti àwọn ìrìn àjò ìwòran ní Áfíríkà",
+      "theme": "Ẹranko ìgbẹ́",
+      "images": {
+        "lion_1": "Kìnnìún",
+        "elephant_2": "Erin",
+        "wolf_14": "Ìkookò aláwọ̀ eérú",
+        "crocodile_15": "Ọ̀nì",
+        "turtle_9": "Ìjàpá"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Àwọn oúnjẹ àjẹkẹ́yìn aládùn",
+      "description": "Àwọn oúnjẹ àjẹkẹ́yìn aládùn díẹ̀ fún oúnjẹ yín.",
+      "theme": "Àjẹkẹ́yìn dídùn",
+      "images": {
+        "caramel_cake_6": "Kéèkì caramel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Àwọn òdòdó ilẹ̀ olóoru",
+      "description": "Ẹ ṣàwárí ẹwà àwọn ilẹ̀ olóoru pẹ̀lú àpò àwọn òdòdó àjèjì yìí.",
+      "theme": "Òdòdó ilẹ̀ olóoru",
+      "images": {
+        "hibiscus_1": "Hibiscus pupa",
+        "sunflower_3": "Òdòdó òòrùn",
+        "rose_5": "Rósì"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Oúnjẹ òpópónà",
+      "description": "Ẹ ṣàwárí ayé oúnjẹ òpópónà aláwọ̀ mèremère pẹ̀lú àpò àwọn oúnjẹ aládùn láti gbogbo àgbáyé.",
+      "theme": "Oúnjẹ òpópónà",
+      "images": {
+        "taco_1": "Taco ti Mẹ́síkò",
+        "ramen_2": "Ramen ti Jàpánù",
+        "dumplings_3": "Dumplings ti Ṣáínà",
+        "samosa_4": "Samosa ti Íńdíà",
+        "crepe_6": "Crepe ti Faransé",
+        "burger_8": "Burger ti Amẹ́ríkà",
+        "takoyaki_10": "Takoyaki ti Jàpánù"
+      }
+    },
+    "nature_landscape": {
+      "title": "Ilẹ̀ ẹ̀dá",
+      "description": "Àwọn ibi ẹ̀dá tí ó parọ́rọ́, tí ó rẹwà láti wò díẹ̀díẹ̀ àti láti jọ sọ̀rọ̀ lé lórí",
+      "theme": "Àwọn ilẹ̀ ẹ̀dá",
+      "images": {
+        "mountain_1": "Ọ̀wọ́ òkè",
+        "forest_2": "Igbó tí ìkùukùu bò",
+        "lake_3": "Adágún omi lórí òkè",
+        "desert_4": "Òkìtì iyanrìn aginjù",
+        "beach_6": "Etíkun oníyanrìn",
+        "river_7": "Odò tí ń ṣàn",
+        "sunset_9": "Ojú ọ̀run ní ìwọ̀ oòrùn",
+        "snow_mountain_10": "Òkè tí yìnyín bò",
+        "flowers_11": "Òdòdó igbó",
+        "rainforest_12": "Igbó òjò"
+      }
+    }
+  }
+}

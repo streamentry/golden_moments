@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Anụmanụ",
+      "description": "Anụmanụ mara mma na ndị enyi si n'akụkụ ụwa niile"
+    },
+    "nature": {
+      "name": "Okike",
+      "description": "Ọdịdị ala mara mma na ihe e kere eke"
+    },
+    "food": {
+      "name": "Nri",
+      "description": "Nri ụtọ na ihe oriri dị ụtọ"
+    },
+    "vintage": {
+      "name": "Ụgbọ ala",
+      "description": "Ụgbọ ala na ụgbọ ibu ndị a ga-ele ma kwurịta"
+    },
+    "flowers": {
+      "name": "Ifuru",
+      "description": "Ifuru mara mma na ebe e kọrọ ubi"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Anụ ụlọ ugbo",
+      "description": "Anụ ụlọ ugbo dị mma, dị ka mgbe a gara leta n'ime obodo.",
+      "theme": "Ndụ ugbo",
+      "images": {
+        "cow_1": "Ehi",
+        "pig_1": "Ezi",
+        "chicken_1": "Oke ọkụkọ",
+        "horse_1": "Inyinya",
+        "duck_1": "Ọbọgwụ",
+        "goat_1": "Ewu"
+      }
+    },
+    "nature_mountains": {
+      "title": "Ihe a na-ahụ n'ugwu",
+      "description": "Ọdịdị ugwu mara mma na ọhụụ ebe dị mma",
+      "theme": "Ịma mma okike",
+      "images": {
+        "mountain_2": "Ugwu Fuji"
+      }
+    },
+    "vintage_cars": {
+      "title": "Ụgbọ ala na ụgbọ ibu",
+      "description": "Ụgbọ ala na ụgbọ ibu na-egbuke egbuke ndị a ga-ele ma kwurịta",
+      "theme": "N'okporo ụzọ"
+    },
+    "animals_safari": {
+      "title": "Anụ ọhịa",
+      "description": "Anụ ọhịa ndị dị ebube si na safari Afrịka",
+      "theme": "Anụ ọhịa",
+      "images": {
+        "lion_1": "Ọdụm dị ebube",
+        "elephant_2": "Enyi Afrịka"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Nri ụtọ ụtọ",
+      "description": "Ụfọdụ ihe ụtọ maka nri gị.",
+      "theme": "Nri ụtọ"
+    },
+    "flowers_tropical": {
+      "title": "Ifuru ala okpomọkụ",
+      "description": "Chọpụta ịma mma nke ala okpomọkụ site n'ụyọkọ ifuru ndị a.",
+      "theme": "Ifuru ala okpomọkụ",
+      "images": {
+        "sunflower_3": "Ifuru anyanwụ"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Nri n'okporo ụzọ",
+      "description": "Chọpụta ụwa nri a na-ere n'okporo ụzọ nwere ọtụtụ agba, site n'ụyọkọ nri dị ụtọ ndị a si n'ụwa niile.",
+      "theme": "Nri n'okporo ụzọ",
+      "images": {
+        "taco_1": "Taco Mexico",
+        "ramen_2": "Ramen Japan",
+        "dumplings_3": "Dumpling China",
+        "samosa_4": "Samosa India",
+        "pizza_5": "Pizza Italy",
+        "crepe_6": "Crepe France",
+        "satay_7": "Satay Thailand",
+        "burger_8": "Burger America",
+        "takoyaki_10": "Takoyaki Japan"
+      }
+    },
+    "nature_landscape": {
+      "title": "Ọdịdị ala",
+      "description": "Ọdịdị okike dị jụụ, mara mma, ka a na-ele nwayọọ ma kwurịta ọnụ.",
+      "theme": "Ọdịdị ala okike",
+      "images": {
+        "mountain_1": "Ọtụtụ ugwu",
+        "lake_3": "Ọdọ mmiri dị n'ugwu",
+        "river_7": "Osimiri na-asọ",
+        "flowers_11": "Ifuru ọhịa"
+      }
+    }
+  }
+}

@@ -1,0 +1,691 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Eré",
+      "restart": "Bẹ̀rẹ̀ lẹ́ẹ̀kan sí i",
+      "soundOn": "Àwọn ìró rírọ̀ wà ní títàn",
+      "soundOff": "Àwọn ìró rírọ̀ wà ní pípa",
+      "done": "Ó tó fún ìsinsìnyí",
+      "feedbackQuestion": "Ṣé èyí ràn yín lọ́wọ́ lónìí?",
+      "feedbackYes": "Bẹ́ẹ̀ ni",
+      "feedbackNo": "Kò ràn gan-an",
+      "feedbackThanks": "A dúpẹ́ fún sísọ fún wa."
+    },
+    "tile": {
+      "named": "{name}, káàdì {n}",
+      "hidden": "Àwòrán tí a fi pamọ́, káàdì {n}",
+      "withState": "{label}, {state}",
+      "matched": "Ó bára mu",
+      "selected": "A ti yàn án",
+      "picture": "Àwòrán",
+      "photoNumber": "Fọ́tò {n}"
+    },
+    "pairs": {
+      "allTogether": "Gbogbo àwọn méjì-méjì ti papọ̀. Ẹ tún ṣeré tàbí ẹ sinmi díẹ̀.",
+      "photoPair": "Fọ́tò méjì, papọ̀.",
+      "picturePair": "Àwọn àwòrán méjì ti {name|lower}, papọ̀.",
+      "selected": "{name}. Ẹ wá èyí tí ó bá a mu báyìí.",
+      "mismatch": "Ẹ má kánjú. Ẹ tẹ àwòrán kan láti tẹ̀síwájú.",
+      "mismatchNamed": "{a} àti {b}. Ẹ má kánjú. Ẹ tẹ àwòrán kan láti tẹ̀síwájú."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Ẹ tẹ àwòrán kan, lẹ́yìn náà ẹ tẹ èyí tí ó bá a mu.",
+      "guidanceHidden": "Ẹ tẹ káàdì méjì láti yí wọn padà. Ẹ wá méjì tí ó jọra.",
+      "restart": "Àwọn àwòrán tuntun",
+      "sizeLegend": "Iye káàdì",
+      "size": {
+        "other": "Káàdì {n}"
+      },
+      "viewLegend": "Bí a ṣe ń ṣeré",
+      "viewShowing": "Àwọn àwòrán ń wà lójú",
+      "viewHidden": "Àwọn àwòrán tí a fi pamọ́",
+      "playAgain": "Tún ṣeré pẹ̀lú àwọn àwòrán tuntun",
+      "talk": "Ẹ jọ sọ̀rọ̀ nípa àwọn àwòrán"
+    },
+    "choose": {
+      "countLegend": "Iye àwọn àwòrán",
+      "count": "{n} láti yàn láàrin wọn",
+      "thatOne": "Èyí ni {name|lower}. Ẹ má kánjú."
+    },
+    "findTheSame": {
+      "guidance": "Ẹ wo àwòrán tí ó wà lókè. Ẹ tẹ èyí tí ó jọra nísàlẹ̀.",
+      "yes": "Bẹ́ẹ̀ ni, {name|lower} kan náà.",
+      "next": "Àwòrán tí ó kàn"
+    },
+    "shadowMatch": {
+      "guidance": "Ẹ wo òjìji tí ó wà lókè. Ẹ tẹ àwòrán tí ó ṣe é.",
+      "yes": "Bẹ́ẹ̀ ni, {name|lower} ni ó ṣe òjìji yẹn.",
+      "next": "Òjìji tí ó kàn",
+      "shadowAlt": "Òjìji láti bá mu",
+      "foundAlt": "Òjìji ti {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Ẹ tẹ àwòrán kan, lẹ́yìn náà ẹ tẹ agbọ̀n tí ó wà nínú rẹ̀.",
+      "restart": "Àwọn àwòrán tuntun",
+      "themeLegend": "Kókó ọ̀rọ̀",
+      "selected": "{name}. Ẹ tẹ agbọ̀n tí ó ń lọ sínú rẹ̀ báyìí.",
+      "pickFirst": "Ẹ kọ́kọ́ tẹ àwòrán kan, lẹ́yìn náà ẹ tẹ agbọ̀n kan.",
+      "hint": "{name|lower} lè lọ sínú \"{basket}\". Ẹ tẹ agbọ̀n yẹn láti fi sibẹ.",
+      "placed": "{name|lower} wà nínú \"{basket}\".",
+      "sorted": "A ti tòlẹ́sẹẹsẹ ohun gbogbo. Ẹ jọ wo àwọn agbọ̀n náà, tàbí ẹ gbìyànjú kókó ọ̀rọ̀ mìíràn.",
+      "basket": {
+        "other": "Agbọ̀n {basket}, àwòrán {count} wà nínú rẹ̀"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Ẹ tẹ ègé kan, lẹ́yìn náà ẹ tẹ òmíràn. Wọ́n pààrọ̀ ipò.",
+      "restart": "Tún dà á rú",
+      "pictureLegend": "Àwòrán",
+      "pictures": {
+        "sailboat": "Ọkọ̀ ojú omi",
+        "house": "Ilé",
+        "balloon": "Bálúù",
+        "sunflower": "Òdòdó òòrùn",
+        "lighthouse": "Ilé ìmọ́lẹ̀",
+        "cat": "Ológbò"
+      },
+      "sizeLegend": "Àwọn ègé",
+      "size": {
+        "other": "Ègé {n}"
+      },
+      "pickedUp": "A ti gbé ègé náà. Ẹ tẹ ibi tí ó yẹ kí ó lọ báyìí.",
+      "whole": "{name|lower} ti kún lẹ́ẹ̀kan sí i. Ẹ yan àwòrán mìíràn nígbàkúùgbà tí ẹ bá fẹ́.",
+      "swapped": {
+        "other": "A ti pààrọ̀. {correct} nínú ègé {total} wà ní ipò."
+      },
+      "guideAlt": "Gbogbo àwòrán náà: {name}",
+      "guideText": "Bí àwòrán náà ṣe rí nígbà tí ó bá kún nìyí.",
+      "piece": "Ègé ní {place}",
+      "pieceInPlace": ", ní ipò tí ó tọ́",
+      "piecePickedUp": ", a ti gbé e",
+      "places4": [
+        "òkè ní òsì",
+        "òkè ní ọ̀tún",
+        "ìsàlẹ̀ ní òsì",
+        "ìsàlẹ̀ ní ọ̀tún"
+      ],
+      "places9": [
+        "òkè ní òsì",
+        "òkè ní àárín",
+        "òkè ní ọ̀tún",
+        "àárín ní òsì",
+        "àárín",
+        "àárín ní ọ̀tún",
+        "ìsàlẹ̀ ní òsì",
+        "ìsàlẹ̀ ní àárín",
+        "ìsàlẹ̀ ní ọ̀tún"
+      ],
+      "done": "Àwòrán náà ti kún lẹ́ẹ̀kan sí i. Ẹ tún ṣeré tàbí ẹ sinmi díẹ̀.",
+      "playAgain": "Tún dà á rú"
+    },
+    "finishTheSaying": {
+      "guidance": "Ẹ jọ ka òwe náà, lẹ́yìn náà ẹ tẹ ọ̀rọ̀ tí ó parí rẹ̀.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Bẹ́ẹ̀ ni, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" náà ṣiṣẹ́. Òwe tí ó wọ́pọ̀ parí pẹ̀lú \"{end}\".",
+      "revealed": "Òwe náà ni \"{start} {end}.\"",
+      "choicesLabel": "Ẹ yan ọ̀rọ̀ ìkẹyìn",
+      "show": "Fi òpin hàn",
+      "talk": "Ẹ sọ̀rọ̀ nípa rẹ̀: ",
+      "next": "Òwe tí ó kàn"
+    },
+    "wordSearch": {
+      "guidance": "Àwọn ọ̀rọ̀ ń lọ ní ìbú tàbí ní òòró. Ẹ tẹ lẹ́tà àkọ́kọ́ ti ọ̀rọ̀ kan, lẹ́yìn náà lẹ́tà ìkẹyìn rẹ̀.",
+      "restart": "Ìwádìí tuntun",
+      "themeLegend": "Kókó ọ̀rọ̀",
+      "sizeLegend": "Ìwọ̀n àpótí",
+      "size": {
+        "other": "{n} sí {n} (ọ̀rọ̀ {words})"
+      },
+      "print": "Tẹ ìwádìí yìí",
+      "letterChosen": "A ti yan lẹ́tà {letter}. Ẹ tẹ lẹ́tà ìkẹyìn ti ọ̀rọ̀ náà báyìí.",
+      "found": "A ti rí {word}.",
+      "foundAll": "A ti rí {word}. Ìyẹn ni gbogbo ọ̀rọ̀. Ẹ tún ṣeré tàbí ẹ sinmi díẹ̀.",
+      "tryAgain": "Ẹ má kánjú. Ẹ tẹ lẹ́tà àkọ́kọ́ ti ọ̀rọ̀ kan, lẹ́yìn náà lẹ́tà ìkẹyìn rẹ̀.",
+      "gridLabel": "Àpótí lẹ́tà, ìlà {n} ti lẹ́tà {n}. Ẹ lo àwọn kọ́kọ́rọ́ ọfà láti yí láàrin àwọn lẹ́tà.",
+      "cell": "{letter}, ìlà {row}, òpó {col}",
+      "cellFound": ", apá ọ̀rọ̀ tí a rí",
+      "wordsHeading": "Àwọn ọ̀rọ̀ láti wá",
+      "wordFound": " (a ti rí i)",
+      "sheetTitle": "Ìwádìí ọ̀rọ̀: {theme}",
+      "sheetNote": "Àwọn ọ̀rọ̀ ń lọ ní ìbú tàbí ní òòró.",
+      "unavailable": "Àpótí lẹ́tà kò bá èdè yìí mu, nítorí náà a kò pèsè ìwádìí ọ̀rọ̀ níbí. Ẹ gbìyànjú àwọn eré àwòrán dípò rẹ̀."
+    },
+    "coloring": {
+      "guidance": "Ẹ tẹ àwọ̀ kan, lẹ́yìn náà ẹ tẹ apá kan ti àwòrán náà.",
+      "restart": "Pa àwọn àwọ̀ rẹ́",
+      "cleared": "Ojú-ìwé náà ti di òfo lẹ́ẹ̀kan sí i.",
+      "pageLegend": "Ojú-ìwé",
+      "print": "Tẹ ojú-ìwé yìí",
+      "colorsLabel": "Àwọn àwọ̀",
+      "paintChosen": "A ti yan {paint}.",
+      "painted": "{part} ti di {paint|lower} báyìí.",
+      "artLabel": "{page}, apá {count} láti kùn",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, a kò tíì kùn ún",
+      "paints": {
+        "red": "Pupa",
+        "orange": "Ọsàn",
+        "yellow": "Ofeefee",
+        "green": "Ewé",
+        "blue": "Búlúù",
+        "purple": "Àlùkò",
+        "pink": "Pínkì",
+        "brown": "Àwọ̀ ilẹ̀",
+        "sky-blue": "Búlúù ojú ọ̀run",
+        "cream": "Kírímù",
+        "gray": "Eérú",
+        "white": "Funfun"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Ẹ ka káàdì náà sókè. Kò sí ìdáhùn tí ó tọ́.",
+      "position": "Káàdì {n} nínú {total}",
+      "themeLegend": "Kókó ọ̀rọ̀",
+      "next": "Káàdì tí ó kàn",
+      "previous": "Káàdì tí ó ṣáájú",
+      "print": "Tẹ gbogbo àwọn káàdì",
+      "sheetTitle": "Àwọn káàdì ìjíròrò"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Ẹ bẹ̀rẹ̀ nípa yíyan àwọn fọ́tò yín.",
+      "guidance": "Ẹ tẹ fọ́tò kan, lẹ́yìn náà ẹ tẹ èyí tí ó bá a mu.",
+      "restart": "Tún dà wọ́n rú",
+      "intro": "**Ẹ yan fọ́tò 2 sí 6** láti ẹ̀rọ yìí. A fi wọ́n hàn lórí ojú-ìwé yìí nìkan, a kì í sì í gbé wọn sókè tàbí fi wọ́n pamọ́.",
+      "choose": "Yan àwọn fọ́tò",
+      "chooseDifferent": "Yan àwọn fọ́tò mìíràn",
+      "clear": "Pa àwọn fọ́tò rẹ́",
+      "cleared": "A ti pa àwọn fọ́tò rẹ́ kúrò lórí ojú-ìwé yìí.",
+      "atLeastTwo": "Ẹ jọ̀wọ́, ẹ yan fọ́tò méjì tó kéré jù.",
+      "usingFirst": "À ń lo fọ́tò {max} àkọ́kọ́.",
+      "skipped": {
+        "other": "Fáìlì {count} kì í ṣe fọ́tò tí a lè fi hàn."
+      },
+      "playAgain": "Tún ṣeré pẹ̀lú àwọn fọ́tò wọ̀nyí",
+      "empty": "Àwọn fọ́tò yín yóò hàn níbí, ọ̀kọ̀ọ̀kan lẹ́ẹ̀mejì."
+    },
+    "pictureBingo": {
+      "guidance": "Ẹ tẹ àwọn káàdì ná. Lẹ́yìn náà ẹ fi olùpè yìí hàn lórí ojú-ìbòjú tí ó tóbi jù tí ẹ ní.",
+      "called": {
+        "other": "{name}. A ti pe àwòrán {called} nínú {total}."
+      },
+      "start": "Ẹ tẹ \"Àwòrán tí ó kàn\" láti pe àwòrán àkọ́kọ́.",
+      "restart": "Bẹ̀rẹ̀ eré tuntun",
+      "squaresLegend": "Àpótí lórí káàdì kọ̀ọ̀kan",
+      "squares": "Àpótí {n} ({side} sí {side})",
+      "cardsLegend": "Iye káàdì láti tẹ̀",
+      "cards": {
+        "other": "Káàdì {n}"
+      },
+      "print": {
+        "other": "Tẹ káàdì bíńgò {n}"
+      },
+      "ready": "Ó ṣetán nígbà tí ẹ bá ṣetán",
+      "next": "Àwòrán tí ó kàn",
+      "allCalled": "A ti pe gbogbo àwòrán",
+      "alreadyCalled": "A ti pè é",
+      "sheetTitle": "Bíńgò àwòrán · káàdì {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Ẹ mí sínú bí àyíká ṣe ń tóbi, kí ẹ sì mí jáde bí ó ṣe ń kéré. Ó ń dúró fúnra rẹ̀ lẹ́yìn ìmí mẹ́fà.",
+      "paceLegend": "Ìyára",
+      "paceSlow": "Díẹ̀díẹ̀ (ìṣẹ́jú àáyá 5 ní ọ̀nà kọ̀ọ̀kan)",
+      "paceGentle": "Jẹ́ẹ́jẹ́ẹ́ (ìṣẹ́jú àáyá 4 ní ọ̀nà kọ̀ọ̀kan)",
+      "ready": "Ó ṣetán nígbà tí ẹ bá ṣetán",
+      "in": "Ẹ mí sínú",
+      "hold": "Ẹ sinmi",
+      "out": "Ẹ mí jáde",
+      "start": "Bẹ̀rẹ̀",
+      "stop": "Dúró",
+      "started": "A ti bẹ̀rẹ̀. Ẹ mí sínú bí àyíká ṣe ń tóbi.",
+      "stopped": "A ti dúró.",
+      "finished": "Ìyẹn jẹ́ ìmí díẹ̀díẹ̀ mẹ́fà. Ẹ bẹ̀rẹ̀ lẹ́ẹ̀kan sí i nígbàkúùgbà tí ẹ bá fẹ́."
+    }
+  },
+  "pictures": {
+    "teacup": "Ife tíì",
+    "kettle": "Ìkòkò tíì",
+    "bread": "Búrẹ́dì",
+    "frying-pan": "Páànù dídín pẹ̀lú ẹyin",
+    "cake": "Kéèkì ọjọ́ ìbí",
+    "sunflower": "Òdòdó òòrùn",
+    "tulip": "Tulip pupa",
+    "watering-can": "Agolo ìbomirin",
+    "potted-plant": "Ewéko nínú ìkòkò",
+    "tree": "Igi",
+    "bird": "Ẹyẹ lórí ẹ̀ka igi",
+    "butterfly": "Labalábá",
+    "dog": "Ajá",
+    "cat": "Ológbò",
+    "fish": "Ẹja wúrà",
+    "apple": "Ápù pupa",
+    "pear": "Pía",
+    "strawberry": "Sítírọ́bẹ́rì",
+    "banana": "Ọ̀gẹ̀dẹ̀",
+    "lemon": "Lẹmọ́ọ̀nù",
+    "cherries": "Chẹ́rì",
+    "house": "Ilé",
+    "lamp": "Fìtílà orí tábìlì",
+    "armchair": "Àga ìjókòó rírọ̀",
+    "key": "Kọ́kọ́rọ́ àtijọ́",
+    "umbrella": "Agboòrùn",
+    "sailboat": "Ọkọ̀ ojú omi",
+    "car": "Ọkọ̀ ayọ́kẹ́lẹ́ àtijọ́",
+    "bicycle": "Kẹ̀kẹ́",
+    "balloon": "Bálúù afẹ́fẹ́ gbígbóná",
+    "lighthouse": "Ilé ìmọ́lẹ̀ etíkun",
+    "sun": "Òòrùn",
+    "moon": "Òṣùpá àti àwọn ìràwọ̀"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "Ìwà lẹ̀wà",
+        "end": "ọmọ ènìyàn",
+        "others": [
+          "ọmọ ọba",
+          "ọmọ ayé"
+        ],
+        "prompt": "Ẹ sọ fún mi nípa ẹnìkan tí ẹ mọ̀ pé ó ní inú rere."
+      },
+      {
+        "start": "Ọgbọ́n ju agbára",
+        "end": "lọ",
+        "others": [
+          "mọ́",
+          "bá"
+        ],
+        "prompt": "Ẹ sọ fún mi nípa ìgbà kan tí ẹ rí ẹnìkan tí ó lo ọgbọ́n láti yanjú nǹkan."
+      },
+      {
+        "start": "Ìyá ni wúrà, baba ni",
+        "end": "dígí",
+        "others": [
+          "fàdákà",
+          "ọ̀pá"
+        ],
+        "prompt": "Ẹ sọ fún mi nípa ohun tí ẹ fẹ́ràn nípa àwọn òbí yín."
+      },
+      {
+        "start": "Àgbà kì í wà lọ́jà, kí orí ọmọ tuntun",
+        "end": "wọ́",
+        "others": [
+          "ṣubú",
+          "bàjẹ́"
+        ],
+        "prompt": "Ẹ sọ fún mi nípa ọjà tí ẹ fẹ́ràn láti lọ."
+      },
+      {
+        "start": "Bí ọmọdé bá mọ ọwọ́ wẹ̀, á bá àgbà",
+        "end": "jẹun",
+        "others": [
+          "ṣeré",
+          "jókòó"
+        ],
+        "prompt": "Oúnjẹ wo ni ẹ fẹ́ràn láti jẹ pẹ̀lú ẹbí?"
+      },
+      {
+        "start": "Òwe lẹ́ṣin ọ̀rọ̀; bí ọ̀rọ̀ bá sọnù, òwe ni a fi ń",
+        "end": "wá a",
+        "others": [
+          "gbé e",
+          "sọ ọ́"
+        ],
+        "prompt": "Òwe wo ni ẹ fẹ́ràn láti gbọ́?"
+      },
+      {
+        "start": "Ọwọ́ ọmọdé kò tó pẹpẹ, ti àgbà kò wọ",
+        "end": "akèrègbè",
+        "others": [
+          "ilé",
+          "ààrò"
+        ],
+        "prompt": "Ẹ sọ fún mi nípa ohun kan tí ẹ fẹ́ràn nípa àwọn àgbà."
+      },
+      {
+        "start": "Sùúrù ni baba",
+        "end": "ìwà",
+        "others": [
+          "ayọ̀",
+          "ọgbọ́n"
+        ],
+        "prompt": "Kí ni ẹ fẹ́ràn láti ṣe pẹ̀lú sùúrù?"
+      }
+    ],
+    "wordSearch": {
+      "available": false
+    },
+    "conversation": {
+      "themes": {
+        "all": "Gbogbo àwọn káàdì",
+        "food": "Oúnjẹ",
+        "home": "Ilé",
+        "outdoors": "Ìta gbangba",
+        "animals": "Àwọn ẹranko",
+        "travel": "Lílọ sí àwọn ibi",
+        "work": "Iṣẹ́ àti eré ìgbádùn",
+        "music": "Orin àti ayọ̀",
+        "seasons": "Àwọn àsìkò"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Òórùn wo ni ẹ fẹ́ràn jù láti inú ibi ìdáná?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Irú kéèkì wo ni ẹ máa yàn fún àjọyọ̀?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Ẹ sọ fún mi nípa èso tàbí oúnjẹ aládùn tí ẹ fẹ́ràn."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Báwo ni ẹ ṣe fẹ́ràn tíì tàbí kọfí yín?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Kí ni ó ń ṣe oúnjẹ àárọ̀ tí ó dára gan-an?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ǹjẹ́ ẹ ti já èso láti orí igi rẹ̀ rí?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Dídùn tàbí ekan: èwo ni ẹ fẹ́ràn jù?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Kí ni oúnjẹ tí ó ń rán yín létí àwọn àkókò ayọ̀?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Ẹ sọ fún mi nípa ilé kan tí ẹ fẹ́ràn gbígbé."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Níbo ni ibi tí ẹ fẹ́ràn jù láti jókòó kí ẹ sinmi?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Kí ni ẹ fẹ́ràn láti ṣe ní alẹ́ parọ́rọ́?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Kí ni ìṣúra tí ẹ máa pamọ́ sínú àpótí pàtàkì?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ta ni ẹ máa pè wá sílé fún ife tíì?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Kí ni ẹ fẹ́ràn láti ṣe ní ọjọ́ òjò?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Àwọn òdòdó wo ni ẹ máa gbìn sínú ọgbà?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Ẹ sọ fún mi nípa igi tàbí ọgbà ìtura kan tí ẹ fẹ́ràn."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Kí ni apá tí ó dára jù ti wíwà nínú ọgbà?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Àwọ̀ òdòdó wo ni ẹ fẹ́ràn jù?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Ṣé ẹ fẹ́ràn níní ewéko nínú ilé?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Báwo ni ọjọ́ oòrùn pípé ṣe rí lójú yín?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Ẹ sọ fún mi nípa ajá kan tí ẹ ti mọ̀."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Ológbò tàbí ajá, tàbí kò sí èyíkéyìí? Kí ni ẹ fẹ́ràn nípa wọn?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Àwọn ẹyẹ wo ni ẹ ń rí tàbí gbọ́ ní ìta?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ǹjẹ́ ẹ ti lọ pa ẹja rí, tàbí ẹ ti sin ẹja nínú agbada rí?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Kí ni ẹranko tí ó rẹwà jù tí ẹ ti rí?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Ẹ sọ fún mi nípa ọkọ̀ kan tí ẹ fẹ́ràn."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Ṣé ẹ máa kúkú lo ọjọ́ kan ní etíkun tàbí lórí òkè?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Níbo ni ẹ fẹ́ lọ gun kẹ̀kẹ́?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Bí ẹ bá lè fò lórí ibikíbi, níbo ni yóò jẹ́?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Kí ni ìrìn àjò tí ẹ gbádùn?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Irú iṣẹ́ wo ni ẹ ti gbádùn láti ṣe?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Kí ni eré ìgbádùn tí ẹ lè lo wákàtí púpọ̀ lé lórí?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Kí ni ohun tí a mọ̀ yín fún ṣíṣe tàbí títún?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Ìmọ̀ràn wo ni ẹ máa fún ọ̀dọ́ tí ó bẹ̀rẹ̀ iṣẹ́?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Irú orin wo ni ó ń mú yín fẹ́ láti jó?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Kí ni ó ń ṣe àríyá tí ó dára gan-an?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ta ni akọrin tí ẹ fẹ́ràn láti gbọ́?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Kí ni fíìmù tàbí ètò orí tẹlifíṣọ̀n tí ẹ fẹ́ràn láti tún wò?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Kí ni ẹ fẹ́ràn jù nípa ìgbà ẹ̀rùn?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Kí ni ẹ gbádùn nípa ìgbà òjò?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Kí ni ó dùn láti ṣe ní alẹ́ tí ó tutù?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Kí ni àmì àkọ́kọ́ tí ẹ ń rí pé òjò ti fẹ́ bẹ̀rẹ̀?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Òjò, oòrùn tàbí ìkùukùu: èwo ni ẹ fẹ́ràn jù?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Òdòdó nínú ìkòkò",
+          "regions": {
+            "sky": "Ẹ̀yìn",
+            "table": "Tábìlì",
+            "stem": "Igi òdòdó",
+            "leaf-left": "Ewé òsì",
+            "leaf-right": "Ewé ọ̀tún",
+            "petal-1": "Ewé òdòdó 1",
+            "petal-2": "Ewé òdòdó 2",
+            "petal-3": "Ewé òdòdó 3",
+            "petal-4": "Ewé òdòdó 4",
+            "petal-5": "Ewé òdòdó 5",
+            "petal-6": "Ewé òdòdó 6",
+            "petal-7": "Ewé òdòdó 7",
+            "petal-8": "Ewé òdòdó 8",
+            "center": "Àárín òdòdó",
+            "pot": "Ìkòkò",
+            "pot-rim": "Etí ìkòkò"
+          }
+        },
+        "house": {
+          "name": "Ilé",
+          "regions": {
+            "sky": "Ojú ọ̀run",
+            "sun": "Òòrùn",
+            "grass": "Koríko",
+            "chimney": "Ọ̀pá èéfín",
+            "walls": "Ògiri",
+            "roof": "Òrùlé",
+            "door": "Ilẹ̀kùn",
+            "window-left": "Fèrèsé òsì",
+            "window-right": "Fèrèsé ọ̀tún",
+            "path": "Ọ̀nà"
+          }
+        },
+        "teacup": {
+          "name": "Ife tíì",
+          "regions": {
+            "background": "Ẹ̀yìn",
+            "saucer": "Àwo ìsàlẹ̀ ife",
+            "handle": "Ọwọ́ ife",
+            "cup": "Ife",
+            "band": "Ìlà lórí ife",
+            "tea": "Tíì"
+          }
+        },
+        "butterfly": {
+          "name": "Labalábá",
+          "regions": {
+            "background": "Ẹ̀yìn",
+            "wing-top-left": "Ìyẹ́ òkè ní òsì",
+            "wing-top-right": "Ìyẹ́ òkè ní ọ̀tún",
+            "wing-bottom-left": "Ìyẹ́ ìsàlẹ̀ ní òsì",
+            "wing-bottom-right": "Ìyẹ́ ìsàlẹ̀ ní ọ̀tún",
+            "spot-left": "Àmì ìyẹ́ òsì",
+            "spot-right": "Àmì ìyẹ́ ọ̀tún",
+            "body": "Ara"
+          }
+        },
+        "sailboat": {
+          "name": "Ọkọ̀ ojú omi",
+          "regions": {
+            "sky": "Ojú ọ̀run",
+            "sea": "Òkun",
+            "sail-big": "Aṣọ ọkọ̀ ńlá",
+            "sail-small": "Aṣọ ọkọ̀ kékeré",
+            "mast": "Òpó ọkọ̀",
+            "hull": "Ọkọ̀",
+            "flag": "Àsíá"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Ibi ìdáná àti ọgbà",
+          "baskets": [
+            "Nínú ibi ìdáná",
+            "Nínú ọgbà"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Èso àti àwọn ẹranko",
+          "baskets": [
+            "Èso",
+            "Àwọn ẹranko"
+          ]
+        },
+        "home-travel": {
+          "label": "Ilé àti ìrìn àjò",
+          "baskets": [
+            "Nílé",
+            "Lóde"
+          ]
+        }
+      }
+    }
+  }
+}

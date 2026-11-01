@@ -1,0 +1,131 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Xayawaanka",
+      "description": "Xayawaano wacan oo saaxiibtinimo leh oo ka kala yimid adduunka"
+    },
+    "nature": {
+      "name": "Dabiiciga",
+      "description": "Muuqaallo qurxoon iyo goobo dabiici ah"
+    },
+    "food": {
+      "name": "Cunto",
+      "description": "Cuntooyin iyo macmacaan macaan"
+    },
+    "vintage": {
+      "name": "Baabuurta",
+      "description": "Baabuur iyo gaadiid xamuul oo la eego oo laga wada hadlo"
+    },
+    "flowers": {
+      "name": "Ubaxyo",
+      "description": "Ubaxyo qurxoon iyo muuqaallo beereed"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Xayawaanka beerta",
+      "description": "Xayawaano saaxiibtinimo leh oo beerta ka mid ah, sida marka miyiga la booqdo.",
+      "theme": "Nolosha beerta",
+      "images": {
+        "cow_1": "Sac",
+        "pig_1": "Doofaar",
+        "chicken_1": "Diiq",
+        "buffalo_1": "Jaamuus",
+        "horse_1": "Faras qurxoon"
+      }
+    },
+    "nature_mountains": {
+      "title": "Muuqaallada buuraha",
+      "description": "Muuqaallo buuro oo qurxoon oo ay ku wada yaaqaan indhuhu",
+      "theme": "Quruxda dabiiciga",
+      "images": {
+        "mountain_1": "Buuro baraf leh",
+        "mountain_2": "Buur Fuji",
+        "mountain_3": "Dooxo buuro ku wareegsan",
+        "mountain_4": "Dusha buur dhagax ah",
+        "mountain_5": "Buuro yaryar oo kaymo leh",
+        "mountain_6": "Buuro ceeryaamo leh"
+      }
+    },
+    "vintage_cars": {
+      "title": "Baabuur iyo gaadiid xamuul",
+      "description": "Baabuur iyo gaadiid xamuul oo dhalaalaya oo la eego oo laga wada hadlo",
+      "theme": "Waddada",
+      "images": {
+        "vintage_car_1": "Audi oranji ah marka qorraxdu dhacayso",
+        "vintage_car_2": "Baabuur isboorti buluug ah oo lamadegaanka ku jira",
+        "vintage_car_3": "Bugatti midab lacag ah",
+        "vintage_car_4": "Porsche madow oo waddada ku jira",
+        "vintage_car_6": "Baabuur buluug ah oo garaash ag taal",
+        "vintage_car_7": "Baabuur xamuul cagaaran",
+        "vintage_car_8": "SUV cad oo dhagaxyo cas dhexdooda ah",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Baabuur buluug ah oo xariijimo cad leh"
+      }
+    },
+    "animals_safari": {
+      "title": "Xayawaanka duurka Afrika",
+      "description": "Xayawaano haybad leh oo ka yimid safaarida Afrika",
+      "theme": "Xayawaanka duurka",
+      "images": {
+        "lion_1": "Libaax",
+        "elephant_2": "Maroodi",
+        "jaguar_3": "Jaguar",
+        "rhino_5": "Wiyil",
+        "fox_7": "Dawaco bunni ah"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Macmacaan macaan",
+      "description": "Qaar ka mid ah macmacaanka macaan ee cuntooyinkaaga.",
+      "theme": "Macmacaan macaan",
+      "images": {
+        "pastries_1": "Afar macmacaan cajiin ah",
+        "caramel_cake_6": "Keegga karamelka"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Ubaxyada gobollada kulul",
+      "description": "Ka ogow quruxda midabbada badan ee gobollada kulul xirmadan ubaxyo ah.",
+      "theme": "Ubaxyada gobollada kulul",
+      "images": {
+        "hibiscus_1": "Hibiscus cas",
+        "sunflower_3": "Ubaxa qorraxda",
+        "rose_5": "Ward"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Cuntada waddooyinka",
+      "description": "Sahami adduunka midabbada badan ee cuntada waddooyinka, xirmadan cunto-dhaqsaha macaan oo ka kala yimid adduunka.",
+      "theme": "Cuntada waddooyinka",
+      "images": {
+        "taco_1": "Taco Mexico",
+        "ramen_2": "Ramen Jabaan",
+        "dumplings_3": "Dumplings Shiine",
+        "samosa_4": "Sambuusa Hindi",
+        "pizza_5": "Qaybta pizza Talyaani",
+        "crepe_6": "Crepe Faransiis",
+        "satay_7": "Satay Thai",
+        "burger_8": "Burger Maraykan",
+        "takoyaki_10": "Takoyaki Jabaan"
+      }
+    },
+    "nature_landscape": {
+      "title": "Muuqaallada dabiiciga",
+      "description": "Muuqaallo dabiici ah oo deggan oo qurxoon, oo si tartiib ah loo eego oo wada loo hadlo.",
+      "theme": "Muuqaallada dabiiciga",
+      "images": {
+        "mountain_1": "Silsilad buuro",
+        "forest_2": "Kayn ceeryaamo leh",
+        "lake_3": "Haro buuraha ku taal",
+        "beach_6": "Xeeb ciid leh",
+        "river_7": "Webi qulqulaya",
+        "canyon_8": "Grand Canyon",
+        "snow_mountain_10": "Buur baraf leh",
+        "flowers_11": "Ubaxyo duurka ah",
+        "rainforest_12": "Kayn roob badan",
+        "volcano_14": "Foolkaano"
+      }
+    }
+  }
+}

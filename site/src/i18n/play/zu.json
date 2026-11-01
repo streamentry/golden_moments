@@ -1,0 +1,739 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Umdlalo",
+      "restart": "Qala kabusha",
+      "soundOn": "Imisindo ethambile ivuliwe",
+      "soundOff": "Imisindo ethambile ivaliwe",
+      "done": "Sekwanele okwamanje",
+      "feedbackQuestion": "Ingabe lokhu kusizile namuhla?",
+      "feedbackYes": "Yebo",
+      "feedbackNo": "Hhayi neze",
+      "feedbackThanks": "Siyabonga ngokusitshela."
+    },
+    "tile": {
+      "named": "{name}, ikhadi {n}",
+      "hidden": "Isithombe esifihliwe, ikhadi {n}",
+      "withState": "{label}, {state}",
+      "matched": "Kufanisiwe",
+      "selected": "Kukhethiwe",
+      "picture": "Isithombe",
+      "photoNumber": "Isithombe {n}"
+    },
+    "pairs": {
+      "allTogether": "Wonke amapheya ahlangene. Dlalani futhi noma niphumule.",
+      "photoPair": "Ipheya lezithombe, ndawonye.",
+      "picturePair": "Izithombe ezimbili ndawonye: {name|lower}.",
+      "selected": "{name}. Manje thola ipheya laso.",
+      "mismatch": "Thathani isikhathi senu. Thintani isithombe ukuze niqhubeke.",
+      "mismatchNamed": "{a}, {b}. Thathani isikhathi senu. Thintani isithombe ukuze niqhubeke."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Thintani isithombe, bese nithinta esifana naso.",
+      "guidanceHidden": "Thintani amakhadi amabili ukuwajika. Funani amabili afanayo.",
+      "restart": "Izithombe ezintsha",
+      "sizeLegend": "Mangaki amakhadi",
+      "size": {
+        "one": "Amakhadi: {n}",
+        "other": "Amakhadi: {n}"
+      },
+      "viewLegend": "Indlela yokudlala",
+      "viewShowing": "Izithombe ziyabonakala",
+      "viewHidden": "Izithombe ezifihliwe",
+      "playAgain": "Dlalani futhi ngezithombe ezintsha",
+      "talk": "Khulumani ngezithombe ndawonye"
+    },
+    "choose": {
+      "countLegend": "Mangaki izithombe",
+      "count": "{n} zokukhetha kuzo",
+      "thatOne": "Lesi sithombe: {name|lower}. Thathani isikhathi senu."
+    },
+    "findTheSame": {
+      "guidance": "Bhekani isithombe esiphezulu. Thintani esifanayo ngezansi.",
+      "yes": "Yebo, kuyafana: {name|lower}.",
+      "next": "Isithombe esilandelayo"
+    },
+    "shadowMatch": {
+      "guidance": "Bhekani isithunzi esiphezulu. Thintani isithombe esisenzayo.",
+      "yes": "Yebo, isithunzi salesi sithombe: {name|lower}.",
+      "next": "Isithunzi esilandelayo",
+      "shadowAlt": "Isithunzi sokufanisa",
+      "foundAlt": "Isithunzi: {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Thintani isithombe, bese nithinta ibhasikidi eliyilo.",
+      "restart": "Izithombe ezintsha",
+      "themeLegend": "Indikimba",
+      "selected": "{name}. Manje thintani ibhasikidi eliyilo.",
+      "pickFirst": "Qalani nithinte isithombe, bese nithinta ibhasikidi.",
+      "hint": "Isithombe: {name|lower}. Singafaneleka ebhasikidini elithi “{basket}”. Thintani leli bhasikidi ukusibeka lapho.",
+      "placed": "Isithombe: {name|lower}, sisebhasikidini elithi “{basket}”.",
+      "sorted": "Konke kuhlunyiwe. Bhekani amabhasikidi ndawonye, noma nizame enye indikimba.",
+      "basket": {
+        "one": "Ibhasikidi elithi {basket}, izithombe ezingaphakathi: {count}",
+        "other": "Ibhasikidi elithi {basket}, izithombe ezingaphakathi: {count}"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Thintani ucezu olulodwa, bese nithinta olunye. Ziyashintshana izindawo.",
+      "restart": "Xubani futhi",
+      "pictureLegend": "Isithombe",
+      "pictures": {
+        "sailboat": "Isikebhe",
+        "house": "Indlu",
+        "balloon": "Ibhaluni",
+        "sunflower": "Imbali yelanga",
+        "lighthouse": "Indlu yesibani",
+        "cat": "Ikati"
+      },
+      "sizeLegend": "Izingcezu",
+      "size": {
+        "one": "Izingcezu: {n}",
+        "other": "Izingcezu: {n}"
+      },
+      "pickedUp": "Ucezu lukhethiwe. Manje thintani lapho olufanele ukuya khona.",
+      "whole": "Isithombe sihlangene futhi: {name|lower}. Khethani esinye noma nini.",
+      "swapped": {
+        "one": "Kushintshiwe. Izingcezu ezisendaweni efanele: {correct} kwezingu-{total}.",
+        "other": "Kushintshiwe. Izingcezu ezisendaweni efanele: {correct} kwezingu-{total}."
+      },
+      "guideAlt": "Isithombe sonke: {name}",
+      "guideText": "Nansi indlela isithombe esibukeka ngayo uma siphelele.",
+      "piece": "Ucezu: {place}",
+      "pieceInPlace": ", sisendaweni efanele",
+      "piecePickedUp": ", sikhethiwe",
+      "places4": [
+        "phezulu kwesobunxele",
+        "phezulu kwesokudla",
+        "phansi kwesobunxele",
+        "phansi kwesokudla"
+      ],
+      "places9": [
+        "phezulu kwesobunxele",
+        "phezulu maphakathi",
+        "phezulu kwesokudla",
+        "maphakathi kwesobunxele",
+        "maphakathi",
+        "maphakathi kwesokudla",
+        "phansi kwesobunxele",
+        "phansi maphakathi",
+        "phansi kwesokudla"
+      ],
+      "done": "Isithombe sesiphelele. Dlalani futhi noma niphumule.",
+      "playAgain": "Xubani futhi"
+    },
+    "finishTheSaying": {
+      "guidance": "Fundani isisho ndawonye, bese nithinta igama eliqeda.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Yebo, “{start} {end}.”",
+      "otherEnding": "“{word}” nakho kuyasebenza. Isisho esijwayelekile siphela ngokuthi “{end}”.",
+      "revealed": "Isisho siyathi “{start} {end}.”",
+      "choicesLabel": "Khethani igama lokugcina",
+      "show": "Khombisa isiphetho",
+      "talk": "Khulumani ngaso: ",
+      "next": "Isisho esilandelayo"
+    },
+    "wordSearch": {
+      "guidance": "Amagama aya nqamula noma phansi. Thintani uhlamvu lokuqala legama, bese uhlamvu lalo lokugcina.",
+      "restart": "Iphazili entsha",
+      "themeLegend": "Indikimba",
+      "sizeLegend": "Usayizi wegridi",
+      "size": {
+        "one": "{n} ngo-{n} (amagama: {words})",
+        "other": "{n} ngo-{n} (amagama: {words})"
+      },
+      "print": "Phrinta le phazili",
+      "letterChosen": "Uhlamvu {letter} lukhethiwe. Manje thintani uhlamvu lokugcina legama.",
+      "found": "{word} litholakele.",
+      "foundAll": "{word} litholakele. Wonke amagama atholakele. Dlalani futhi noma niphumule.",
+      "tryAgain": "Thathani isikhathi senu. Thintani uhlamvu lokuqala legama, bese uhlamvu lalo lokugcina.",
+      "gridLabel": "Igridi yezinhlamvu, imigqa engu-{n} enezinhlamvu ezingu-{n}. Sebenzisani amakhiye emicibisholo ukuhamba phakathi kwezinhlamvu.",
+      "cell": "{letter}, umugqa {row}, ikholomu {col}",
+      "cellFound": ", ingxenye yegama elitholakele",
+      "wordsHeading": "Amagama okuwathola",
+      "wordFound": " (litholakele)",
+      "sheetTitle": "Ukusesha amagama: {theme}",
+      "sheetNote": "Amagama aya nqamula noma phansi.",
+      "unavailable": "Igridi yezinhlamvu ayifanele lolu limi, ngakho ukusesha amagama akunikezwa lapha. Zamani imidlalo yezithombe esikhundleni."
+    },
+    "coloring": {
+      "guidance": "Thintani umbala, bese nithinta ingxenye yesithombe.",
+      "restart": "Sula imibala",
+      "cleared": "Ikhasi lingenalutho futhi.",
+      "pageLegend": "Ikhasi",
+      "print": "Phrinta leli khasi",
+      "colorsLabel": "Imibala",
+      "paintChosen": "{paint}: kukhethiwe.",
+      "painted": "{part}: manje {paint|lower}.",
+      "artLabel": "{page}, izingxenye ezingu-{count} zokufaka imibala",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, akufakiwe mbala",
+      "paints": {
+        "red": "Obomvu",
+        "orange": "Okwewolintshi",
+        "yellow": "Ophuzi",
+        "green": "Oluhlaza",
+        "blue": "Okwebhulu",
+        "purple": "Okunsomi",
+        "pink": "Okupinki",
+        "brown": "Onsundu",
+        "sky-blue": "Okwesibhakabhaka",
+        "cream": "Okhilimu",
+        "gray": "Ompunga",
+        "white": "Omhlophe"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Fundani ikhadi ngokuzwakalayo. Azikho izimpendulo ezifanele.",
+      "position": "Ikhadi {n} kwezingu-{total}",
+      "themeLegend": "Indikimba",
+      "next": "Ikhadi elilandelayo",
+      "previous": "Ikhadi langaphambilini",
+      "print": "Phrinta wonke amakhadi",
+      "sheetTitle": "Amakhadi engxoxo"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Qalani ngokukhetha izithombe zenu.",
+      "guidance": "Thintani isithombe, bese nithinta esifana naso.",
+      "restart": "Zixubeni futhi",
+      "intro": "**Khethani izithombe ezi-2 kuya kwezi-6** kule divayisi. Zikhonjiswa kuphela kuleli khasi futhi azilayishwa noma zigcinwe neze.",
+      "choose": "Khetha izithombe",
+      "chooseDifferent": "Khethani ezinye izithombe",
+      "clear": "Sula izithombe",
+      "cleared": "Izithombe zisuswe kuleli khasi.",
+      "atLeastTwo": "Sicela nikhethe okungenani izithombe ezimbili.",
+      "usingFirst": "Kusetshenziswa izithombe zokuqala ezingu-{max}.",
+      "skipped": {
+        "one": "Amafayela angenazithombe esingazikhombisa: {count}.",
+        "other": "Amafayela angenazithombe esingazikhombisa: {count}."
+      },
+      "playAgain": "Dlalani futhi ngalezi zithombe",
+      "empty": "Izithombe zenu ziyovela lapha, ngasinye kabili."
+    },
+    "pictureBingo": {
+      "guidance": "Phrintani amakhadi kuqala. Bese nikhombisa lo msakazi esikrinini esikhulu enaso.",
+      "called": {
+        "one": "{name}. Izithombe ezibiziwe: {called} kwezingu-{total}.",
+        "other": "{name}. Izithombe ezibiziwe: {called} kwezingu-{total}."
+      },
+      "start": "Thintani “Isithombe esilandelayo” ukubiza isithombe sokuqala.",
+      "restart": "Qala umdlalo omusha",
+      "squaresLegend": "Izikwele ekhadini ngalinye",
+      "squares": "Izikwele ezingu-{n} ({side} ngo-{side})",
+      "cardsLegend": "Mangaki amakhadi okuphrinta",
+      "cards": {
+        "one": "Amakhadi: {n}",
+        "other": "Amakhadi: {n}"
+      },
+      "print": {
+        "one": "Phrinta amakhadi e-bingo: {n}",
+        "other": "Phrinta amakhadi e-bingo: {n}"
+      },
+      "ready": "Silungile noma nini",
+      "next": "Isithombe esilandelayo",
+      "allCalled": "Zonke izithombe sezibiziwe",
+      "alreadyCalled": "Sesibiziwe",
+      "sheetTitle": "I-bingo yezithombe · ikhadi {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Phefumulani ngaphakathi njengoba isiyingi sikhula, nangaphandle njengoba sincipha. Siyama ngokwaso ngemva kokuphefumula kasithupha.",
+      "paceLegend": "Isivinini",
+      "paceSlow": "Kancane (imizuzwana emi-5 ngasinye)",
+      "paceGentle": "Kuthambile (imizuzwana emi-4 ngasinye)",
+      "ready": "Silungile noma nini",
+      "in": "Phefumulani ngaphakathi",
+      "hold": "Phumulani",
+      "out": "Phefumulani ngaphandle",
+      "start": "Qala",
+      "stop": "Misa",
+      "started": "Kuqalile. Phefumulani ngaphakathi njengoba isiyingi sikhula.",
+      "stopped": "Kumisiwe.",
+      "finished": "Lokho kwakungukuphefumula kasithupha kancane. Qalani futhi noma nini uthanda."
+    }
+  },
+  "pictures": {
+    "teacup": "Inkomishi yetiye",
+    "kettle": "Ikhetela",
+    "bread": "Isinkwa",
+    "frying-pan": "Ipani lokuthosa neqanda",
+    "cake": "Ikhekhe losuku lokuzalwa",
+    "sunflower": "Imbali yelanga",
+    "tulip": "I-tulip ebomvu",
+    "watering-can": "Ikani lokunisela",
+    "potted-plant": "Isitshalo esisebhodweni",
+    "tree": "Isihlahla",
+    "bird": "Inyoni egatsheni",
+    "butterfly": "Uvemvane",
+    "dog": "Inja",
+    "cat": "Ikati",
+    "fish": "Inhlanzi yegolide",
+    "apple": "Iapula elibomvu",
+    "pear": "Ipheya",
+    "strawberry": "I-strawberry",
+    "banana": "Ibhanana",
+    "lemon": "Ulamula",
+    "cherries": "Ama-cherry",
+    "house": "Indlu",
+    "lamp": "Isibani setafula",
+    "armchair": "Isihlalo esikhulu",
+    "key": "Isihluthulelo esidala",
+    "umbrella": "Isambulela",
+    "sailboat": "Isikebhe",
+    "car": "Imoto yakudala",
+    "bicycle": "Ibhayisikili",
+    "balloon": "Ibhaluni elishisayo",
+    "lighthouse": "Indlu yesibani sasolwandle",
+    "sun": "Ilanga",
+    "moon": "Inyanga nezinkanyezi"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "Umuntu ngumuntu",
+        "end": "ngabantu",
+        "others": [
+          "ngomusa",
+          "ngothando"
+        ],
+        "prompt": "Yini enithanda ngokuba nabantu abaningi eduze?"
+      },
+      {
+        "start": "Izandla",
+        "end": "ziyagezana",
+        "others": [
+          "ziyasebenza",
+          "ziyadlala"
+        ],
+        "prompt": "Ningitshele ngesikhathi enake nasebenza ndawonye nomunye umuntu."
+      },
+      {
+        "start": "Ukuhamba",
+        "end": "ukubona",
+        "others": [
+          "ukufunda",
+          "ukuphumula"
+        ],
+        "prompt": "Iyiphi indawo enayithanda ukuyivakashela?"
+      },
+      {
+        "start": "Inkunzi",
+        "end": "isematholeni",
+        "others": [
+          "isendlini",
+          "isesibayeni"
+        ],
+        "prompt": "Ningitshele ngesilwane enisithandayo."
+      },
+      {
+        "start": "Izintaba azihlangani, kodwa abantu",
+        "end": "bayahlangana",
+        "others": [
+          "bayahamba",
+          "bayadlala"
+        ],
+        "prompt": "Nithanda ukuhlangana nobani?"
+      },
+      {
+        "start": "Isisu somhambi",
+        "end": "singangezinyoni",
+        "others": [
+          "sikhulu",
+          "sincane"
+        ],
+        "prompt": "Yini enithanda ukuyidla uma senihambile?"
+      },
+      {
+        "start": "Ubuhle",
+        "end": "abudleki",
+        "others": [
+          "abuphelelwa",
+          "abubhekwa"
+        ],
+        "prompt": "Yini enibheka njengenhle kakhulu?"
+      }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEHIKLMNOSTUWYZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Ukudla",
+          "words": [
+            "UMBILA",
+            "UBISI",
+            "IQANDA",
+            "INYAMA",
+            "ITIYE",
+            "IKHOFI",
+            "IAPULA",
+            "IPHEYA",
+            "UPHIZI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Ingadi",
+          "words": [
+            "INGADI",
+            "IMBALI",
+            "UMUTHI",
+            "IMBEWU",
+            "INYONI",
+            "AMANZI",
+            "ILANGA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Ikhishi",
+          "words": [
+            "UKHEZO",
+            "IPANI",
+            "UMMESE",
+            "IFRIJI",
+            "IMBIZA",
+            "IGLASI"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Isimo sezulu",
+          "words": [
+            "ILANGA",
+            "IMVULA",
+            "UMOYA",
+            "IFU",
+            "IQHWA",
+            "IZULU",
+            "AMAFU"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Izilwane",
+          "words": [
+            "INJA",
+            "IKATI",
+            "INKOMO",
+            "IMBUZI",
+            "IMVU",
+            "INKAWU",
+            "IDUBE",
+            "INGWE"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Ikhaya",
+          "words": [
+            "INDLU",
+            "IKHAYA",
+            "IBHEDI",
+            "IWASHI",
+            "UCINGO",
+            "IBHUKU",
+            "UGESI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Wonke amakhadi",
+        "food": "Ukudla",
+        "home": "Ikhaya",
+        "outdoors": "Ngaphandle",
+        "animals": "Izilwane",
+        "travel": "Ukuya ezindaweni",
+        "work": "Umsebenzi nezinto enizithandayo",
+        "music": "Umculo nokuzijabulisa",
+        "seasons": "Izinkathi zonyaka"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Iyiphi iphunga enilithanda kakhulu ekhishini?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Yiluphi uhlobo lwekhekhe enganikhetha emcimbini?"
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Nithanda kanjani itiye noma ikhofi lenu?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Yini eyenza ukudla kwasekuseni okuhle ngempela?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Ningitshele ngesithelo enisithanda kakhulu."
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Okumnandi noma okumuncu: yikuphi enikuthanda kakhulu?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Ningitshele ngekhaya enaliphila kulo enalithandayo."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Iyiphi indawo enithanda ukuhlala kuyo niphumule?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Nithanda ukwenza ini ngobunye ubusuku obuthulile?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Nithanda ukwenza ini ngosuku olunemvula?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ubani enganimema ukuza ngenkomishi yetiye?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Yiziphi izimbali enganazitshala engadini?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Ningitshele ngesihlahla noma ipaki enikuthandayo."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Iyiphi ingxenye engcono kakhulu yokuba sengadini?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Yimuphi umbala wezimbali enimthanda kakhulu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Usuku olufudumele oluphelele lunjani kunina?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Ningitshele ngenja enake naba nayo."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Amakati noma izinja, noma kungekho? Nithanda ini ngazo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Yiziphi izinyoni eniziboneyo noma eniziqaphelayo ngaphandle?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Yisiphi isilwane esinhle kakhulu eniske nasibona?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Ningitshele ngemoto eniyithandile."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Beningathanda ukuchitha usuku olunjani: ogwini lolwandle noma entabeni?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Beningathanda ukuya kuphi uma niphuma ngebhayisikili?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Uma beningandiza phezu kwanoma iyiphi indawo, beyoba yiphi?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Yiluphi uhlobo lomsebenzi enalujabulela ukulwenza?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Yini enithanda ukuyenza kuze kudlule amahora?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Iluphi iseluleko enganinika umuntu osemncane oqala umsebenzi?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Yiluphi uhlobo lomculo olunenza nifune ukushaya izinyawo?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Yini eyenza umcimbi ube muhle ngempela?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Yiluphi uhlelo lwethelevishini noma ifilimu enithanda ukulibuka futhi?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ngubani umculi enithanda ukumlalela?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Yini enikuthanda kakhulu ngehlobo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Yini enijabulela ngekwindla?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Yini enethezeka ongayenza ngobusuku bobusika?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Yiziphi izimpawu zokuqala zentwasahlobo kunina?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Imvula noma ilanga: yikuphi enikuthandayo?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Imbali esebhodweni",
+          "regions": {
+            "sky": "Isizinda",
+            "table": "Itafula",
+            "stem": "Isiqu",
+            "leaf-left": "Iqabunga lasesobunxele",
+            "leaf-right": "Iqabunga lasesokudla",
+            "petal-1": "Iqabunga lembali 1",
+            "petal-2": "Iqabunga lembali 2",
+            "petal-3": "Iqabunga lembali 3",
+            "petal-4": "Iqabunga lembali 4",
+            "petal-5": "Iqabunga lembali 5",
+            "petal-6": "Iqabunga lembali 6",
+            "petal-7": "Iqabunga lembali 7",
+            "petal-8": "Iqabunga lembali 8",
+            "center": "Maphakathi nembali",
+            "pot": "Ibhodwe",
+            "pot-rim": "Umphetho webhodwe"
+          }
+        },
+        "house": {
+          "name": "Indlu",
+          "regions": {
+            "sky": "Isibhakabhaka",
+            "sun": "Ilanga",
+            "grass": "Utshani",
+            "chimney": "Isishimula",
+            "walls": "Izindonga",
+            "roof": "Uphahla",
+            "door": "Umnyango",
+            "window-left": "Ifasitela lasesobunxele",
+            "window-right": "Ifasitela lasesokudla",
+            "path": "Indlela"
+          }
+        },
+        "teacup": {
+          "name": "Inkomishi yetiye",
+          "regions": {
+            "background": "Isizinda",
+            "saucer": "Isosa",
+            "handle": "Isibambo",
+            "cup": "Inkomishi",
+            "band": "Umdwa enkomishini",
+            "tea": "Itiye"
+          }
+        },
+        "butterfly": {
+          "name": "Uvemvane",
+          "regions": {
+            "background": "Isizinda",
+            "wing-top-left": "Iphiko eliphezulu kwesobunxele",
+            "wing-top-right": "Iphiko eliphezulu kwesokudla",
+            "wing-bottom-left": "Iphiko eliphansi kwesobunxele",
+            "wing-bottom-right": "Iphiko eliphansi kwesokudla",
+            "spot-left": "Ichashaza ephikweni lasesobunxele",
+            "spot-right": "Ichashaza ephikweni lasesokudla",
+            "body": "Umzimba"
+          }
+        },
+        "sailboat": {
+          "name": "Isikebhe",
+          "regions": {
+            "sky": "Isibhakabhaka",
+            "sea": "Ulwandle",
+            "sail-big": "Isiyili esikhulu",
+            "sail-small": "Isiyili esincane",
+            "mast": "Isigxobo",
+            "hull": "Isikebhe",
+            "flag": "Ifulege"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Ikhishi nengadi",
+          "baskets": [
+            "Ekhishini",
+            "Engadini"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Izithelo nezilwane",
+          "baskets": [
+            "Izithelo",
+            "Izilwane"
+          ]
+        },
+        "home-travel": {
+          "label": "Ikhaya nohambo",
+          "baskets": [
+            "Ekhaya",
+            "Ngaphandle"
+          ]
+        }
+      }
+    }
+  }
+}
