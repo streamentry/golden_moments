@@ -266,9 +266,11 @@ textarea {
   --font-sans: 'Kohinoor Devanagari', 'Noto Sans Devanagari', 'Nirmala UI', system-ui, sans-serif;
   --font-display: var(--font-sans);
 }
+/* Amharic bundles its own Ethiopic faces: platform fonts (Kefa, Nyala) vary
+   too much between devices. Latin characters stay Roboto and Fraunces. */
 :root:lang(am) {
-  --font-sans: 'Kefa', 'Noto Sans Ethiopic', 'Nyala', system-ui, sans-serif;
-  --font-display: var(--font-sans);
+  --font-sans: 'Roboto', 'Noto Sans Ethiopic', 'Kefa', 'Nyala', system-ui, sans-serif;
+  --font-display: 'Fraunces', 'Noto Serif Ethiopic', 'Noto Sans Ethiopic', 'Kefa', serif;
 }
 :root:lang(my) {
   --font-sans: 'Myanmar Sangam MN', 'Noto Sans Myanmar', 'Myanmar Text', system-ui, sans-serif;
