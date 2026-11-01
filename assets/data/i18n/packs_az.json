@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Heyvanlar",
+      "description": "Dünyanın hər yerindən sevimli və mehriban heyvanlar"
+    },
+    "nature": {
+      "name": "Təbiət",
+      "description": "Gözəl mənzərələr və təbiət səhnələri"
+    },
+    "food": {
+      "name": "Yeməklər",
+      "description": "Dadlı yeməklər və şirniyyatlar"
+    },
+    "vintage": {
+      "name": "Avtomobillər",
+      "description": "Baxıb söhbət etmək üçün maşınlar və yük maşınları"
+    },
+    "flowers": {
+      "name": "Çiçəklər",
+      "description": "Gözəl çiçəklər və bağ mənzərələri"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Ferma heyvanları",
+      "description": "Kənd gəzintisindəki kimi mehriban ferma heyvanları.",
+      "theme": "Kənd həyatı",
+      "images": {
+        "cow_1": "Mehriban inək",
+        "pig_1": "Donuz",
+        "chicken_1": "Xoruz",
+        "buffalo_1": "Camış",
+        "horse_1": "Gözəl at",
+        "duck_1": "Ördək ailəsi",
+        "goat_1": "Maraqlı keçi",
+        "rabbit_1": "Sevimli dovşan"
+      }
+    },
+    "nature_mountains": {
+      "title": "Dağ mənzərələri",
+      "description": "Nəfəs kəsən dağ mənzərələri və geniş görüntülər",
+      "theme": "Təbiət gözəlliyi",
+      "images": {
+        "mountain_1": "Qarlı zirvələr",
+        "mountain_2": "Füci dağı",
+        "mountain_3": "Alp vadisi",
+        "mountain_4": "Qayalı zirvə",
+        "mountain_5": "Meşəli təpələr",
+        "mountain_6": "Dumanlı dağlar"
+      }
+    },
+    "vintage_cars": {
+      "title": "Maşınlar və yük maşınları",
+      "description": "Baxıb söhbət etmək üçün parlaq maşınlar və yük maşınları",
+      "theme": "Yolda",
+      "images": {
+        "vintage_car_1": "Gün batanda narıncı Audi",
+        "vintage_car_2": "Səhrada mavi idman maşını",
+        "vintage_car_3": "Gümüşü Bugatti",
+        "vintage_car_4": "Yolda qara Porsche",
+        "vintage_car_5": "Palma ağacları olan küçədə narıncı BMW",
+        "vintage_car_6": "Qarajın yanında mavi kupe",
+        "vintage_car_7": "Yaşıl pikap",
+        "vintage_car_8": "Qırmızı qayalar arasında ağ ofroder",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Ağ zolaqlı mavi maşın"
+      }
+    },
+    "animals_safari": {
+      "title": "Safari heyvanları",
+      "description": "Afrika safarilərindən əzəmətli heyvanlar",
+      "theme": "Vəhşi təbiət",
+      "images": {
+        "lion_1": "Əzəmətli aslan",
+        "elephant_2": "Afrika fili",
+        "jaguar_3": "Yaquar",
+        "zebra_4": "Zolaqlı zebr",
+        "rhino_5": "Güclü kərgədan",
+        "cheetah_6": "Cəld bəbir",
+        "fox_7": "Qonur tülkü",
+        "bear_8": "Ağ ayı",
+        "turtle_9": "Qonur tısbağa",
+        "squirrel_10": "Qonur dələ",
+        "macaw_11": "Sarı-mavi tutuquşu",
+        "tiger_12": "Pələng",
+        "raccoon_13": "Yenot",
+        "wolf_14": "Boz canavar",
+        "crocodile_15": "Timsah",
+        "peacock_16": "Gözəl tovuz quşu"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Dadlı şirniyyatlar",
+      "description": "Yeməklərinizin yanına bir neçə dadlı şirniyyat.",
+      "theme": "Şirin desertlər",
+      "images": {
+        "pastries_1": "Dörd xəmir məmulatı",
+        "oreo_cookie_sandwiches_2": "Oreo peçenyeləri",
+        "crepe_3": "Krep",
+        "pancake_4": "Bliny",
+        "macarons_5": "Makaron",
+        "caramel_cake_6": "Karamelli tort"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropik çiçəklər",
+      "description": "Bu ekzotik çiçək paketi ilə tropiklərin canlı gözəlliyini kəşf edin.",
+      "theme": "Tropik çiçəklər",
+      "images": {
+        "hibiscus_1": "Qırmızı hibiskus",
+        "frangipani_2": "Qırmızı-ağ frangipani",
+        "sunflower_3": "Günəbaxan",
+        "hydrangea_4": "Ağ ortenziya",
+        "rose_5": "Qızılgül",
+        "chrysanthemum_6": "Xrizantema",
+        "anthurium_7": "Antorium",
+        "plumeria_8": "Plumeriya",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delfinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Küçə yeməkləri",
+      "description": "Dünyanın hər yerindən dadlı qəlyanaltılarla küçə yeməklərinin rəngarəng dünyasını kəşf edin.",
+      "theme": "Küçə yeməkləri",
+      "images": {
+        "taco_1": "Meksika takosu",
+        "ramen_2": "Yapon rameni",
+        "dumplings_3": "Çin dumplinqi",
+        "samosa_4": "Hindistan samosası",
+        "pizza_5": "İtaliya pizzası dilimi",
+        "crepe_6": "Fransız krepi",
+        "satay_7": "Tailand satay şişləri",
+        "burger_8": "Amerika burgeri",
+        "bao_9": "Buxarda bişmiş bao çörəyi",
+        "takoyaki_10": "Yapon takoyakisi"
+      }
+    },
+    "nature_landscape": {
+      "title": "Təbiət mənzərələri",
+      "description": "Yavaş-yavaş baxıb birlikdə danışmaq üçün sakit, gözəl təbiət səhnələri.",
+      "theme": "Təbiət mənzərələri",
+      "images": {
+        "mountain_1": "Dağ silsiləsi",
+        "forest_2": "Dumanlı meşə",
+        "lake_3": "Dağ gölü",
+        "desert_4": "Səhra qumsalları",
+        "waterfall_5": "Şəlalə",
+        "beach_6": "Qumlu çimərlik",
+        "river_7": "Axan çay",
+        "canyon_8": "Böyük kanyon",
+        "sunset_9": "Qürub səması",
+        "snow_mountain_10": "Qarlı dağ",
+        "flowers_11": "Çöl çiçəkləri",
+        "rainforest_12": "Yağış meşəsi",
+        "iceberg_13": "Aysberq",
+        "volcano_14": "Vulkan",
+        "cliff_15": "Dəniz yarğanı",
+        "aurora_16": "Şimal şəfəqi",
+        "savannah_17": "Savanna",
+        "coral_reef_18": "Mərcan rifi"
+      }
+    }
+  }
+}

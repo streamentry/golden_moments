@@ -18,7 +18,7 @@ const prefixIn = (path) => {
   const found = path.match(/^\/?([a-z]{2,3}(?:-[a-z]{2,4})?)\//)?.[1];
   return found && LOCALE_PREFIXES.has(found) ? found : undefined;
 };
-const LOCALE_PREFIXES = new Set(['es', 'pt-br', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', 'ar', 'hi', 'ja', 'ko', 'zh-hans', 'zh-hant', 'vi', 'id', 'th', 'bn', 'fa', 'ha', 'ur', 'mr', 'te', 'ta', 'gu', 'pa', 'fil', 'ro', 'ms', 'sw']);
+const LOCALE_PREFIXES = new Set(['es', 'pt-br', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', 'ar', 'hi', 'ja', 'ko', 'zh-hans', 'zh-hant', 'vi', 'id', 'th', 'bn', 'fa', 'ha', 'ur', 'mr', 'te', 'ta', 'gu', 'pa', 'fil', 'ro', 'ms', 'sw', 'kn', 'ml', 'ne', 'az', 'am']);
 
 /** Phrases that would make a medical or performance claim. Matched case-insensitively. */
 const BANNED = [
