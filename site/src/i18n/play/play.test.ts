@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import en from './en.json';
 import { boldRuns, fill, plural, type PluralForms } from './format';
-import { GAME_TEXT, NO_LETTER_GRID, SHARED_UI, playProps, type PlayContent } from '../play';
+import { GAME_TEXT, NO_LETTER_GRID, NO_SAYINGS_GAME, SHARED_UI, playProps, type PlayContent } from '../play';
 import { LOCALES } from '../locales';
 import { deepMerge } from '../ui';
 import { COLORING_PAGES, PAINTS } from '../../data/coloring';
@@ -105,6 +105,13 @@ describe('playProps', () => {
     expect(playProps('en').content.wordSearch.available).toBe(true);
     for (const code of NO_LETTER_GRID) expect(playProps(code).content.wordSearch.available, code).toBe(false);
     expect(playProps('vi').content.wordSearch.available).toBe(true);
+  });
+
+  it('leaves Finish the saying out only where the sayings fall short', () => {
+    expect(NO_SAYINGS_GAME.includes('en')).toBe(false);
+    for (const code of NO_SAYINGS_GAME) {
+      expect(playProps(code).content.sayings.length, `${code} has enough sayings, so the game should be on`).toBeLessThan(30);
+    }
   });
 
   it('returns plain JSON, so Astro can pass it to the islands', () => {
@@ -217,7 +224,10 @@ describe('play files (English and every translation)', () => {
       });
 
       it('has enough familiar sayings, each with two other endings', () => {
-        expect(content.sayings.length).toBeGreaterThanOrEqual(30);
+        // A language whose translator could not supply 30 genuine sayings leaves
+        // the game out (NO_SAYINGS_GAME) instead of padding with invented ones;
+        // whatever sayings it does have must still be well formed.
+        if (!NO_SAYINGS_GAME.includes(code)) expect(content.sayings.length).toBeGreaterThanOrEqual(30);
         const starts = new Set<string>();
         for (const s of content.sayings) {
           expect(s.start && s.end && s.prompt, JSON.stringify(s)).toBeTruthy();

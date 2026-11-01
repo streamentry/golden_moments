@@ -12,7 +12,7 @@ spec = importlib.util.spec_from_file_location('register_language', ROOT / 'scrip
 module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
 
-SAMPLE = ['bn', 'fa', 'ha', 'my']  # a plain, a right-to-left, a no-store and a no-letter-grid language
+SAMPLE = ['bn', 'fa', 'ha', 'my']  # a plain, a right-to-left, a no-store/no-sayings and a no-letter-grid language
 
 
 def temp_repo() -> Path:
@@ -89,11 +89,21 @@ class RegisterLanguageTests(unittest.TestCase):
         self.assertIn(':root:lang(bn)', css)
         self.assertIn(':root:lang(fa)', css)
         self.assertNotIn(':root:lang(ha)', css)  # Latin script: the bundled font covers it
-        self.assertIn("'my'", self.read('site/src/i18n/play.ts'))  # no letter grid
+        held = re.search(r"HELD_FROM_INDEX: ReadonlySet<string> = new Set\(\[(.*?)\]\)", locales, re.S).group(1)
+        self.assertIn("'ha'", held)  # too weak to index unread
+        self.assertNotIn("'bn'", held)
+        play = self.read('site/src/i18n/play.ts')
+        self.assertRegex(play, r"NO_LETTER_GRID: readonly string\[\] = \[[^\]]*'my'")
+        self.assertRegex(play, r"NO_SAYINGS_GAME: readonly string\[\] = \[[^\]]*'ha'")
+        self.assertNotRegex(play, r"NO_SAYINGS_GAME: readonly string\[\] = \[[^\]]*'bn'")
         status = json.loads(self.read('docs/specs/release-status.json'))['localization']['languages']
         for code in SAMPLE:
             self.assertEqual(status[code]['status'], 'unreviewed')
-        self.assertIn("'bn'", self.read('site/scripts/check-site.mjs'))
+        checker = self.read('site/scripts/check-site.mjs')
+        self.assertIn("'bn'", checker)
+        rtl = re.search(r"const RTL_PREFIXES = new Set\(\[(.*?)\]\)", checker, re.S).group(1)
+        self.assertIn("'fa'", rtl)  # right to left
+        self.assertNotIn("'bn'", rtl)  # left to right
 
 
 if __name__ == '__main__':

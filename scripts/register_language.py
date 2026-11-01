@@ -59,6 +59,8 @@ class Language:
     apple: tuple[str, ...] = ()  # App Store locales; () = none
     play: tuple[str, ...] = ()  # Google Play locales; () = none
     letter_grid: bool = True  # False: word search is left out for this language
+    sayings: bool = True  # False: Finish the saying is left out (too few genuine sayings)
+    index: bool = True  # False: pages are noindex until a native speaker has read them
 
     @property
     def arb(self) -> str:
@@ -75,7 +77,7 @@ LANGUAGES = {l.code: l for l in (
     Language('mr', 'mr_IN', 'मराठी', 'Marathi', 'Deva', apple=('mr-IN',), play=('mr-IN',)),
     Language('te', 'te_IN', 'తెలుగు', 'Telugu', 'Telu', apple=('te-IN',), play=('te-IN',)),
     Language('sw', 'sw_KE', 'Kiswahili', 'Swahili', play=('sw',)),
-    Language('ha', 'ha_NG', 'Hausa', 'Hausa'),
+    Language('ha', 'ha_NG', 'Hausa', 'Hausa', sayings=False, index=False),
     Language('pa', 'pa_IN', 'ਪੰਜਾਬੀ', 'Punjabi (Gurmukhi)', 'Guru', apple=('pa-IN',), play=('pa',)),
     Language('fil', 'fil_PH', 'Filipino', 'Filipino', play=('fil',)),
     Language('ta', 'ta_IN', 'தமிழ்', 'Tamil', 'Taml', apple=('ta-IN',), play=('ta-IN',)),
@@ -184,14 +186,21 @@ def _fmt(values: tuple[str, ...]) -> str:
     return '(' + ', '.join(repr(v) for v in values) + (',' if len(values) == 1 else '') + ')'
 
 
+def _add_to_list(text: str, name: str, code: str) -> str:
+    match = re.search(rf"({name}: readonly string\[\] = \[)(.*?)(\];)", text, re.S)
+    assert match, f'{name} not found in site/src/i18n/play.ts'
+    if f"'{code}'" in match.group(2):
+        return text
+    sep = ', ' if match.group(2).strip() else ''
+    return text[:match.end(2)] + f"{sep}'{code}'" + text[match.end(2):]
+
+
 def edit_play_ts(text: str, lang: Language) -> str:
-    if lang.letter_grid:
-        return text
-    match = re.search(r"(NO_LETTER_GRID: readonly string\[\] = \[)(.*?)(\];)", text, re.S)
-    assert match, 'NO_LETTER_GRID not found in site/src/i18n/play.ts'
-    if f"'{lang.code}'" in match.group(2):
-        return text
-    return text[:match.end(2)] + f", '{lang.code}'" + text[match.end(2):]
+    if not lang.letter_grid:
+        text = _add_to_list(text, 'NO_LETTER_GRID', lang.code)
+    if not lang.sayings:
+        text = _add_to_list(text, 'NO_SAYINGS_GAME', lang.code)
+    return text
 
 
 def edit_arb_test(text: str, lang: Language) -> str:
@@ -213,6 +222,17 @@ def edit_locales_ts(text: str, lang: Language) -> str:
     return text[:end + 1] + entry + text[end + 1:]
 
 
+def edit_held_from_index(text: str, lang: Language) -> str:
+    if lang.index:
+        return text
+    match = re.search(r"(HELD_FROM_INDEX: ReadonlySet<string> = new Set\(\[)(.*?)(\]\);)", text, re.S)
+    assert match, 'HELD_FROM_INDEX not found in site/src/i18n/locales.ts'
+    if f"'{lang.code}'" in match.group(2):
+        return text
+    sep = ', ' if match.group(2).strip() else ''
+    return text[:match.end(2)] + f"{sep}'{lang.code}'" + text[match.end(2):]
+
+
 def edit_base_css(text: str, lang: Language) -> str:
     if lang.script not in FONTS or f':root:lang({lang.code})' in text:
         return text
@@ -222,12 +242,20 @@ def edit_base_css(text: str, lang: Language) -> str:
     return text.replace(marker, block + marker, 1)
 
 
-def edit_check_site(text: str, lang: Language) -> str:
-    match = re.search(r"(const LOCALE_PREFIXES = new Set\(\[)(.*?)(\]\);)", text, re.S)
-    assert match, 'LOCALE_PREFIXES not found in site/scripts/check-site.mjs'
-    if f"'{lang.prefix}'" in match.group(2):
+def _add_to_set(text: str, name: str, prefix: str) -> str:
+    match = re.search(rf"(const {name} = new Set\(\[)(.*?)(\]\);)", text, re.S)
+    assert match, f'{name} not found in site/scripts/check-site.mjs'
+    if f"'{prefix}'" in match.group(2):
         return text
-    return text[:match.end(2)] + f", '{lang.prefix}'" + text[match.end(2):]
+    sep = ', ' if match.group(2).strip() else ''
+    return text[:match.end(2)] + f"{sep}'{prefix}'" + text[match.end(2):]
+
+
+def edit_check_site(text: str, lang: Language) -> str:
+    text = _add_to_set(text, 'LOCALE_PREFIXES', lang.prefix)
+    if lang.rtl:
+        text = _add_to_set(text, 'RTL_PREFIXES', lang.prefix)
+    return text
 
 
 def edit_release_status(text: str, lang: Language) -> str:
@@ -249,6 +277,7 @@ EDITORS = (
     ('site/src/i18n/play.ts', edit_play_ts),
     ('test/l10n/arb_files_test.dart', edit_arb_test),
     ('site/src/i18n/locales.ts', edit_locales_ts),
+    ('site/src/i18n/locales.ts', edit_held_from_index),
     ('site/src/styles/base.css', edit_base_css),
     ('site/scripts/check-site.mjs', edit_check_site),
     ('docs/specs/release-status.json', edit_release_status),

@@ -30,7 +30,7 @@ ARB = ROOT / 'lib/l10n/arb'
 # ARBs exist only because the generator needs them; the app never selects them.
 LOCALES = (
     'en', 'es', 'pt_BR', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', 'ar',
-    'hi', 'ja', 'ko', 'zh_Hans', 'zh_Hant', 'vi', 'id', 'th',
+    'hi', 'ja', 'ko', 'zh_Hans', 'zh_Hant', 'vi', 'id', 'th', 'bn', 'fa', 'ha',
 )
 GENERATOR_ONLY_ARBS = ('pt', 'zh')
 CATEGORY_FIELDS = ('name', 'description')

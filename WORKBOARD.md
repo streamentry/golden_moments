@@ -81,6 +81,22 @@ Next, in order: merge the activity events; verify Google Search Console and Bing
 
 [docs/plan/README.md](docs/plan/README.md) now records: 1.6.0 (20 languages) submitted on both stores and **awaiting review, not approved**; the website live in 20 languages with 19 translations noindex until native review; all translations machine-made and unreviewed by maintainer decision, which overrode the plan's "measure first" order. New gate: 30 days after approval, compare first-time downloads by territory (assumption: 20% outside the US or in Spanish or Vietnamese). Highest-leverage next action is still the 20-household reuse pilot. Unreconciled: the iTunes API reports age 17+ and genre Games, our docs say 16+ and Puzzle; the tier in App Store Connect has not been read. Claims re-checked at primary sources are in [verification](docs/plan/verification.md) §5 and §6. Nothing here is approved.
 
+## Top-50 languages (2026-11-01, pilot done, proposal not status)
+
+Maintainer goal: the web and the app in the top 50 languages. The 20 already built (19 languages; Chinese counts once) are all in the top 50, which leaves **31 new ones**: Bengali, Urdu, Marathi, Telugu, Swahili, Hausa, Punjabi, Filipino, Tamil, Persian, Amharic, Javanese, Gujarati, Kannada, Yoruba, Pashto, Malay, Oromo, Burmese, Malayalam, Sindhi, Odia, Uzbek, Igbo, Sundanese, Zulu, Azerbaijani, Somali, Assamese, Romanian and Nepali. The list is the 50 most spoken *written* languages by total speakers, with spoken varieties merged into their written standard. Sources: Ethnologue's published ranks 1 to 20, Wikipedia's copy of the Ethnologue list for 21 to 38, and per-language infoboxes for the tail, so languages 32 to 50 are provisional (details and what could not be verified are in the research notes of this change). Nothing here is built for release, submitted, deployed or uploaded; the 20-language 1.6.0 is still awaiting store review.
+
+| Deliverable | Status |
+| --- | --- |
+| Pilot: Bengali, Persian, Hausa (app ARB 375 keys, pack overlay, iOS strings, store drafts, three site dictionaries each) | Written as machine translation, unreviewed. Per-file translator confidence: medium for Bengali and Persian, low to medium for Hausa. All checks pass: `check_arb`, `check-translation`, `store_locales`, `pack_text`, 101 Python tests, 79 Flutter l10n tests, 275 site tests, strict analysis, `astro build` (1,215 pages), `check-site` 0 errors |
+| App seen in the iOS 26.5 simulator in Persian (right to left, mirrored), Bengali (conjunct consonants) and Hausa (hooked letters, Material widgets) | Home, a game screen and the Material app bar render correctly; debug build; no device, no VoiceOver, no 200% text run, no Android |
+| `scripts/register_language.py` | One idempotent step registers a language in every registry (pack_text, Info.plist, Xcode, Android locales, store locales, site locales, font stacks, review status, checkers); table holds all 31 languages; tested on a copy of the real files |
+| Flutter has no Material or Cupertino text for Hausa, Yoruba, Igbo, Javanese, Sundanese, Oromo, Somali, Sindhi | Fallback delegates serve English widget text for those only; tested for all eight |
+| Low-resource languages cannot supply 30 genuine sayings | `NO_SAYINGS_GAME` leaves Finish the saying out (Hausa: 18 sayings the translator was sure of) instead of padding with invented ones |
+| Weakest translations should not be indexed unread | `HELD_FROM_INDEX` (Hausa): noindex, no hreflang, no sitemap, no `llms.txt`; reachable and labelled. A maintainer decision on 2026-11-01 indexes every other language |
+| Long-form guides | Not translated for the new languages; they fall back to English per guide (about 100,000 words per language, the largest cost) |
+
+Not done: the other 28 languages; native review of any language; Hausa safari captions (9 of 16 left in English because the translator did not know the animals' names); store listing names are kept in Latin letters, which gives no local search value; Hausa, Persian and some others have no App Store locale at all.
+
 ## Next in order
 
 0. Run the device and human scenarios in [docs/release/device-acceptance.md](docs/release/device-acceptance.md) and record evidence per its format.

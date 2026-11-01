@@ -42,6 +42,7 @@ rest.
 | 11 | Arabic | Needs the right-to-left layout check as well |
 | 12 | Russian | Searchable in the US store; payments are restricted |
 | 13 to 19 | Polish, Dutch, Turkish, Indonesian, Thai, Ukrainian, Hindi | Smaller or later markets |
+| 20 to 22 | Bengali, Persian, Hausa | Top-50 pilot (2026-11-01). Hausa is the weakest: the translator reported low confidence, there is no settled everyday word for dementia, Finish the saying is left out for lack of genuine sayings, and its pages are held from the search index until a reader has checked them |
 
 ## What to review, per language
 

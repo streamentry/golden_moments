@@ -10,7 +10,9 @@ const SITE = 'https://dementiaactivities.games';
     (Devanagari and Thai vowel signs, accents) count nothing, as in search results. */
 const width = (s) => [...s].reduce((n, ch) => n + (/\p{M}/u.test(ch) ? 0 : /[\u1100-\u115f\u2e80-\ua4cf\uac00-\ud7a3\uf900-\ufaff\ufe30-\ufe4f\uff00-\uff60\uffe0-\uffe6]/.test(ch) ? 2 : 1), 0);
 /** URL prefixes of translated languages; keep in step with src/i18n/locales.ts. */
-const LOCALE_PREFIXES = new Set(['es', 'pt-br', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', 'ar', 'hi', 'ja', 'ko', 'zh-hans', 'zh-hant', 'vi', 'id', 'th']);
+// Languages written right to left; the checker expects dir="rtl" on exactly these.
+const RTL_PREFIXES = new Set(['ar', 'fa']);
+const LOCALE_PREFIXES = new Set(['es', 'pt-br', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', 'ar', 'hi', 'ja', 'ko', 'zh-hans', 'zh-hant', 'vi', 'id', 'th', 'bn', 'fa', 'ha']);
 
 /** Phrases that would make a medical or performance claim. Matched case-insensitively. */
 const BANNED = [
@@ -161,7 +163,7 @@ for (const file of htmlFiles) {
   if (!htmlTag) err(rel, 'missing lang or dir attribute');
   else if (!translated && htmlTag[1] !== 'en-US') err(rel, `English page has lang="${htmlTag[1]}"`);
   else if (translated && htmlTag[1].toLowerCase() !== prefix) err(rel, `lang="${htmlTag[1]}" does not match /${prefix}/`);
-  else if ((htmlTag[2] === 'rtl') !== (prefix === 'ar')) err(rel, `dir="${htmlTag[2]}" is wrong for this language`);
+  else if ((htmlTag[2] === 'rtl') !== RTL_PREFIXES.has(prefix)) err(rel, `dir="${htmlTag[2]}" is wrong for this language`);
   // The CSP only allows hashed <style> blocks, so a style attribute would be blocked.
   if (/\sstyle="/.test(html)) err(rel, 'inline style attribute (blocked by the CSP); use a class');
 
@@ -226,7 +228,8 @@ for (const url of noindexed) {
   if ([...langSitemaps.values()].some((xml) => xml.includes(`<loc>${url}</loc>`))) err('sitemap', `lists a noindex page: ${url}`);
 }
 const sitemapIndex = readDist('sitemap.xml');
-for (const prefix of langSitemaps.keys()) {
+for (const [prefix, xml] of langSitemaps) {
+  if (!xml.includes('<loc>')) continue; // a language held from the index has an empty sitemap, not listed
   if (!sitemapIndex.includes(`<loc>${SITE}/${sitemapName(prefix)}</loc>`)) err('sitemap.xml', `index does not list ${sitemapName(prefix)}`);
 }
 if (!readDist('robots.txt').includes(`Sitemap: ${SITE}/sitemap.xml`)) err('robots.txt', 'does not list /sitemap.xml');

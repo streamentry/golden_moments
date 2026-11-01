@@ -44,8 +44,9 @@ const t = ui(lang);
 // Pages declare the languages they exist in; anything else is English only.
 const available = Astro.props.available ?? [DEFAULT_LOCALE];
 // Only indexed languages are advertised as alternates (see INDEXED_LANGUAGES).
-const alternates = PUBLISHED.filter((l) => available.includes(l.code) && isIndexable(l.code));
 const blockIndexing = noindex || !isIndexable(lang);
+// A noindex page advertises no alternates; neither does any page for a language held from the index.
+const alternates = blockIndexing ? [] : PUBLISHED.filter((l) => available.includes(l.code) && isIndexable(l.code));
 const fullTitle = rawTitle ? title : `${title}${t.common.titleSuffix}`;
 const canonical = absoluteUrl(Astro.url.pathname);
 const ogImage = absoluteUrl(image);

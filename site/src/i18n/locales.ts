@@ -48,6 +48,9 @@ export const LOCALES: readonly LocaleInfo[] = [
   { code: 'vi', prefix: 'vi', bcp47: 'vi', htmlLang: 'vi', og: 'vi_VN', name: 'Tiếng Việt', englishName: 'Vietnamese', dir: 'ltr' },
   { code: 'id', prefix: 'id', bcp47: 'id', htmlLang: 'id', og: 'id_ID', name: 'Bahasa Indonesia', englishName: 'Indonesian', dir: 'ltr' },
   { code: 'th', prefix: 'th', bcp47: 'th', htmlLang: 'th', og: 'th_TH', name: 'ไทย', englishName: 'Thai', dir: 'ltr' },
+  { code: 'bn', prefix: 'bn', bcp47: 'bn', htmlLang: 'bn', og: 'bn_BD', name: 'বাংলা', englishName: 'Bengali', dir: 'ltr' },
+  { code: 'fa', prefix: 'fa', bcp47: 'fa', htmlLang: 'fa', og: 'fa_IR', name: 'فارسی', englishName: 'Persian', dir: 'rtl' },
+  { code: 'ha', prefix: 'ha', bcp47: 'ha', htmlLang: 'ha', og: 'ha_NG', name: 'Hausa', englishName: 'Hausa', dir: 'ltr' },
 ];
 
 /**
@@ -56,8 +59,18 @@ export const LOCALES: readonly LocaleInfo[] = [
  * 2026-11-01), including the machine translations: those pages still say they
  * are unreviewed and link to the English original. Remove a code to make that
  * language `noindex` again; TRANSLATING.md tracks which are reviewed.
+ *
+ * The exception is `HELD_FROM_INDEX`: languages where machine translation is so
+ * weak that even the translator reported low confidence (Hausa, for example,
+ * has no settled everyday word for dementia). Their pages stay reachable and
+ * labelled, but are `noindex` and left out of the sitemaps, hreflang and
+ * llms.txt until a native speaker has read them. Remove a code once reviewed.
  */
-export const INDEXED_LANGUAGES: ReadonlySet<string> = new Set(LOCALES.map((l) => l.code));
+export const HELD_FROM_INDEX: ReadonlySet<string> = new Set(['ha']);
+
+export const INDEXED_LANGUAGES: ReadonlySet<string> = new Set(
+  LOCALES.map((l) => l.code).filter((code) => !HELD_FROM_INDEX.has(code)),
+);
 
 export function isIndexable(code: string): boolean {
   return INDEXED_LANGUAGES.has(code);

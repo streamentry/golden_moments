@@ -1,0 +1,534 @@
+{
+  "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
+  "common": {
+    "skipLink": "Tsallake zuwa babban abin da ke shafin",
+    "brandName": "Golden Moments",
+    "brandTag": "Ayyuka ga masu mantuwa",
+    "homeLabel": "Shafin farko na Golden Moments",
+    "mainNav": "Babban jerin shafuka",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: manyan hotuna masu daɗin gani na kofin shayi, furen rana da kare",
+    "languages": "Harshe",
+    "englishOnly": "(Turanci)",
+    "machineTranslated": "An fassara wannan shafi ta kwamfuta kuma mai magana da harshen bai duba shi ba tukuna.",
+    "readOriginal": "Karanta na asali da Turanci",
+    "nav": {
+      "games": "Wasanni",
+      "activities": "Ayyuka",
+      "caregiving": "Kulawa",
+      "brainHealth": "Lafiyar ƙwaƙwalwa"
+    },
+    "faqTitle": "Tambayoyi da amsoshi",
+    "breadcrumb": "Hanyar shafi",
+    "home": "Shafin farko",
+    "lastUpdated": "An sabunta ƙarshe",
+    "topics": "Batutuwa"
+  },
+  "footer": {
+    "play": "Wasa",
+    "picturePairs": "Haɗa hotuna biyu-biyu",
+    "conversationCards": "Katunan hira",
+    "pictureBingo": "Bingo na hotuna",
+    "allGames": "Dukan wasanni",
+    "activityIdeas": "Shawarwarin ayyuka",
+    "ideas101": "Shawarwarin ayyuka 101",
+    "lateStage": "Ayyukan mataki na ƙarshe",
+    "printable": "Ayyukan bugawa",
+    "allActivities": "Dukan ayyuka",
+    "forCaregivers": "Ga masu kulawa",
+    "playTogether": "Yadda ake wasa tare",
+    "selfCare": "Kula da kanku",
+    "brainHealth": "Binciken lafiyar ƙwaƙwalwa",
+    "faq": "Tambayoyi da amsoshi",
+    "about": "Game da mu",
+    "approach": "Tsarinmu",
+    "howWeWrite": "Yadda muke rubutu",
+    "organizations": "Ga ƙungiyoyi",
+    "app": "Manhajar Golden Moments",
+    "appHelp": "Taimakon manhaja",
+    "support": "Taimako",
+    "legal": "Doka",
+    "sitePrivacy": "Sirrin gidan yanar gizo",
+    "appPrivacy": "Manufar sirrin manhaja",
+    "privacyChoices": "Zaɓukan sirri",
+    "terms": "Sharuɗɗa da lasisin manhaja",
+    "safety": "Tsaro da manufar amfani",
+    "accessibility": "Saukin samu ga kowa",
+    "healthNotice": "Sanarwar bayanan lafiya",
+    "allLegal": "Dukan bayanan doka",
+    "note": "Golden Moments tana ba da ayyuka masu sauƙi da za a yi tare don jin daɗi. Ba shawarar likita ba ce, ba gwaji ko magani ba, kuma ba ta tantancewa, aunawa ko ba wa kowa maki. Don tambayoyin lafiya, ku yi magana da likita. A lokacin gaggawa, ku kira lambar gaggawa ta yankinku.",
+    "publisher": "Cloudjet Solutions Pte. Ltd. ne ya wallafa."
+  },
+  "home": {
+    "title": "Wasanni da Ayyuka ga masu Mantuwa da Alzheimer | Golden Moments",
+    "description": "Wasannin hotuna masu natsuwa na kyauta da ake yi ta intanet, da shawarwarin ayyuka ga masu mantuwa ko cutar Alzheimer da masu kula da su. Babu rajista, agogo ko maki.",
+    "eyebrow": "Kyauta · Babu talla · Babu rajista · Babu agogo ko maki",
+    "h1": "Wasanni da Ayyuka masu Natsuwa ga Masu Mantuwa (Dementia)",
+    "lede": "Wasannin hotuna masu sauƙi, sanannun hotuna, da ayyukan da za a ji daɗinsu tare, a saurinku.",
+    "playGame": "A yi wasa",
+    "findIdeas": "A nemi shawarwarin ayyuka",
+    "facts": [
+      "Yana aiki a waya, tablet da kwamfuta",
+      "Manyan hotuna da ke nan a bayyane",
+      "A tsaya a kowane lokaci; babu abin da za a fadi"
+    ],
+    "heroApp": "Akwai kuma manhaja ta kyauta don iPhone, iPad da Android, da hotunan iyalinku",
+    "albumNote": "“Hotuna biyu na kofin shayi, tare.”",
+    "gamesEyebrow": "A yi wasa a burauzarku",
+    "gamesTitle": "Wasannin da za ku iya yi yanzu",
+    "gamesLede": "Kowanne yana da natsuwa, na manya, kuma mai sauƙin farawa. Ku zaɓi ɗaya, ku zauna kusa da juna, ku riƙa taɓawa bi-da-bi.",
+    "seeAllGames": "A ga dukan wasanni {count}",
+    "howTitle": "Yadda yake aiki",
+    "steps": [
+      {
+        "title": "A zaɓi abu sananne",
+        "text": "Hotunan kofin shayi, lambu, dabbobin gida da jiragen ruwa. Babu karatu ko ƙa’idojin da za a koya da farko."
+      },
+      {
+        "title": "A zauna kusa da juna",
+        "text": "Ku bar shi ko ita ya taɓa. Ku yi magana a kan hotunan. Hoton da bai yi daidai ba yana jira taɓawa ta gaba kawai."
+      },
+      {
+        "title": "A tsaya yayin da yake da daɗi",
+        "text": "Wasa ɗaya cikakken aiki ne. “Ya isa a yanzu” yana nan a allo a koyaushe."
+      }
+    ],
+    "stageEyebrow": "Bayan allo",
+    "stageTitle": "Shawarwarin ayyuka ga kowane mataki",
+    "stageLede": "Kiɗa, ayyukan yau da kullum, tuna abubuwan da suka wuce da lokutan natsuwa na hankulan jiki, an daidaita su da abin da ke da daɗi a yanzu.",
+    "ideas101": "Shawarwarin ayyuka 101",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Mataki na farko",
+        "text": "A ci gaba da abin da suke so, da ƙananan gyare-gyare: sha’awa, fita yawo, wasannin kalmomi da shiri tare.",
+        "label": "Shawarwarin mataki na farko"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Mataki na tsakiya",
+        "text": "Ayyuka masu sauƙi da sanannu da aka raba zuwa matakai: naɗe kaya, rarrabewa, kiɗa, wasannin hotuna da gajerun yawo.",
+        "label": "Shawarwarin mataki na tsakiya"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Mataki na ƙarshe",
+        "text": "Jin daɗi da haɗin kai ta taɓawa, sauti da gani: kula da hannu, waƙoƙin da suke so, hotuna da kasancewa tare.",
+        "label": "Shawarwarin mataki na ƙarshe"
+      }
+    ],
+    "specificHtml": "Kuna neman wani abu na musamman? Ku gwada <a href=\"/activities/alzheimers/\">ayyuka da wasanni na Alzheimer</a>, <a href=\"/activities/memory-games/\">wasanni masu natsuwa na tunani</a>, <a href=\"/activities/trivia/\">tambayoyi masu sauƙi</a> ko <a href=\"/activities/puzzles/\">wasannin haɗawa</a>.",
+    "approachEyebrow": "Tsarinmu",
+    "approachTitle": "Aiki ne na tare, ba jarabawar tunani ba",
+    "approachLede": "Yawancin “wasannin ƙwaƙwalwa” an gina su ne a kan gudu, maki da jere-jere. Ga mai rayuwa da mantuwa, wannan na iya zama kamar jarabawa. Mun gina akasin haka.",
+    "approachLink": "Dalilin da muke tsara shi haka",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Babu abin da za a fadi",
+        "text": "Babu agogo, maki, rayuka ko rashin nasara. Hoto daban hutu ne, ba kuskure ba."
+      },
+      {
+        "icon": "eye",
+        "title": "Hotuna suna nan a bayyane",
+        "text": "Ganewa a gaban tunawa. Haɗa hotuna yana farawa da hotuna a bayyane, don haka babu abin da za a tuna."
+      },
+      {
+        "icon": "people",
+        "title": "Na manya kuma mai mutunci",
+        "text": "Kalmomi masu dumi da sauƙi da hotunan rayuwa ta gaske. Ba zane-zanen yara ko magana irin ta yara ba."
+      },
+      {
+        "icon": "shield",
+        "title": "Sirri a tsarinsa",
+        "text": "Babu asusu ko talla. Hotunanku ba sa barin na’urarku."
+      }
+    ],
+    "guidesEyebrow": "Ga masu kulawa",
+    "guidesTitle": "Jagorori masu amfani don kulawar yau da kullum",
+    "allCaregiving": "Dukan jagororin kulawa",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Yadda ake wasa tare",
+        "text": "Shiryawa, saurin tafiya, da abin da za a yi idan wasa ya daina da daɗi."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Idan sun ƙi wani aiki",
+        "text": "Dalilan da ake ƙi da su, da hanyoyin sake gwadawa a hankali daga baya."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Saita tablet",
+        "text": "Rubutu mafi girma, ƙarancin katsewa da allon farko guda mai sauƙi."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Ayyukan bugawa na kyauta",
+        "text": "Neman kalmomi da manyan haruffa, shafukan canza launi, bingo da katunan hira."
+      }
+    ],
+    "researchTitle": "Lafiyar ƙwaƙwalwa: abin da bincike yake faɗa da gaske",
+    "researchText": "Za a iya hana mantuwa? Shin wasannin ƙwaƙwalwa suna taimakawa? Me game da azumi, abinci, barci da ji? Amsoshi masu sauƙi da madogara, har da inda shaida take da rauni.",
+    "researchLink": "Karanta jagororin bincike",
+    "appEyebrow": "Akwai kuma manhaja",
+    "appTitle": "Golden Moments a iPhone, iPad da Android",
+    "appText": "Manhajar kyauta tana aiki ba tare da intanet ba, kuma tana iya amfani da hotunan iyali da kuka zaɓa, ana ajiye su a matsayin kwafi a na’urarku. Zane iri ɗaya mai natsuwa: manyan katuna huɗu, babu agogo, babu maki.",
+    "aboutApp": "Game da manhajar",
+    "faq": [
+      {
+        "q": "Waɗanne wasanni ne masu kyau ga masu mantuwa?",
+        "a": "Wasanni masu kyau suna da sauƙi, sananne kuma ba su da matsin lamba: manyan hotuna da za a haɗa, rarrabewa, wasannin haɗa guntaye masu sauƙi, kammala karin magana sananne, canza launi, bingo na hotuna da katunan hira. Mafi kyawun zaɓi shi ne wanda mutumin ya ji daɗinsa a yau. Ku guji agogo, maki da duk abin da yake kama da jarabawa."
+      },
+      {
+        "q": "Waɗannan wasannin mantuwa kyauta ne?",
+        "a": "Eh. Kowane wasa da abin bugawa a Golden Moments kyauta ne, ba tare da asusu, rajista ko saukewa ba. Wasannin suna aiki a burauzar yanar gizo a waya, tablet ko kwamfuta."
+      },
+      {
+        "q": "Wasannin ƙwaƙwalwa suna hana mantuwa?",
+        "a": "A’a. Ba a nuna cewa wani wasa yana hana mantuwa ba, kuma Golden Moments ba ta iƙirarin yin magani ko hana wani abu ba. Wasanninmu don jin daɗi ne da zama tare. Sashen lafiyar ƙwaƙwalwa namu yana bayyana abin da bincike yake nunawa da wanda ba ya nunawa."
+      },
+      {
+        "q": "Waɗannan wasannin sun dace da mai cutar Alzheimer?",
+        "a": "Eh. Cutar Alzheimer ita ce ta fi haddasa mantuwa, kuma an yi wasannin don ita: manyan hotuna da ke nan a bayyane, zaɓi kaɗan, kuma babu abin da za a tuna ko a yi kuskure a kai. Haɗawa, rarrabewa da kammala karin magana sananne suna dogara ne da ilimin da aka daɗe ana da shi, ba sabon koyo ba."
+      },
+      {
+        "q": "Mai mantuwa a mataki na ƙarshe zai iya amfani da waɗannan ayyuka?",
+        "a": "Sau da yawa eh, tare da wani kusa da shi. Ku fara da “Nemo iri ɗaya” da hotuna biyu, “Haɗa hotuna biyu-biyu” da katuna huɗu, shafin canza launi ko ɗan hutun numfashi mai natsuwa. Ku taƙaita, ku bi abin da suke so, ku tsaya idan sun isa."
+      },
+      {
+        "q": "Bayanina na sirri ne?",
+        "a": "Shafin ba shi da asusu ko talla. Muna amfani da Google Analytics don fahimtar shafukan da ake ziyarta. Hotunan da kuka zaɓa don Haɗa hotunan kanku ana nuna su a burauzarku kaɗai kuma ba a taɓa aika su ba."
+      },
+      {
+        "q": "Wa ke yin Golden Moments?",
+        "a": "Golden Moments ƙaramar ƙungiya ce da ke yin ayyukan hotuna masu natsuwa na manya ga iyalai da masu kulawa, a yanar gizo da kuma a matsayin manhaja ta kyauta. Ba likitoci ba ne mu, kuma babu abin da ke nan da shawarar likita ba ne."
+      }
+    ]
+  },
+  "stage": {
+    "early": "na farko",
+    "middle": "na tsakiya",
+    "late": "na ƙarshe",
+    "hintOne": "Yakan dace da mataki {list}",
+    "hintMany": "Yakan dace da matakai {list}",
+    "labelEarly": "Mataki na farko",
+    "labelMiddle": "Mataki na tsakiya",
+    "labelLate": "Mataki na ƙarshe"
+  },
+  "cards": {
+    "aboutGame": "Game da wannan wasa",
+    "printable": "Na bugawa",
+    "play": "A yi wasan {name} →",
+    "readGuide": "Karanta jagorar"
+  },
+  "playCta": {
+    "title": "Kuna shirye don wasa mai natsuwa?",
+    "text": "Manyan hotuna, babu agogo, babu maki kuma babu abin da za a yi rajista. Ku yi wasa tare a burauzarku.",
+    "play": "A yi wasa",
+    "all": "A ga dukan wasanni",
+    "aria": "A yi wasa"
+  },
+  "appCta": {
+    "title": "Ku tafi da waɗannan wasanni",
+    "text": "Manhajar Golden Moments ta kyauta don iPhone, iPad da Android: manyan katunan hoto, wasanni da hotunan iyalinku, da tarin hotuna da ke aiki ba tare da Wi‑Fi ba. Babu asusu, talla, agogo ko maki.",
+    "appStore": "A samu a App Store",
+    "googlePlay": "A samu a Google Play",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Game da manhajar",
+    "aria": "A samu manhajar"
+  },
+  "sections": {
+    "activities": {
+      "label": "Ayyuka",
+      "title": "Ayyuka ga masu Mantuwa",
+      "seo": "Ayyuka ga masu Mantuwa: Shawarwari bisa Mataki",
+      "description": "Shawarwarin ayyuka ga masu mantuwa a kowane mataki: kiɗa, tuna abubuwan da suka wuce, ayyukan yau da kullum, sana’o’i da abubuwan bugawa na kyauta.",
+      "lede": "Aiki mai ma’ana shi ne duk abin da ke kawo jin daɗi, manufa ko lokacin haɗin kai. Ku fara da abin da mutumin ya saba so, ku daidaita shi da yau."
+    },
+    "caregiving": {
+      "label": "Kulawa",
+      "title": "Jagororin Kulawa",
+      "seo": "Jagororin Kula da Masu Mantuwa: Taimako na Yau da Kullum",
+      "description": "Jagorori masu amfani da kirki ga masu kula da masu mantuwa: wasa tare, sadarwa, ƙin yin abu, rashin natsuwa da yamma, tablet, zaɓar manhajoji da kula da kai.",
+      "lede": "Taimako mai sauƙi da amfani ga lokutan yau da kullum na kula da mai rayuwa da mantuwa, har da kula da kanku."
+    },
+    "brain-health": {
+      "label": "Lafiyar ƙwaƙwalwa",
+      "title": "Lafiyar Ƙwaƙwalwa: Abin da Bincike yake Faɗa",
+      "seo": "Lafiyar Ƙwaƙwalwa da Haɗarin Mantuwa: Abin da Bincike yake Faɗa",
+      "description": "Za a iya hana mantuwa? Jagorori masu gaskiya da madogara game da abubuwan da ke ƙara haɗarin mantuwa, wasannin ƙwaƙwalwa, azumi, abinci, barci da ji.",
+      "lede": "Abin da manyan bincike suke nunawa game da rage haɗarin mantuwa, a bayyane, har da inda shaida take da rauni ko gauraye. Bayani na gabaɗaya ne, ba shawarar likita ba."
+    }
+  },
+  "guide": {
+    "updated": "An sabunta",
+    "minuteRead": "Karatun minti {n}",
+    "byTeam": "Daga ƙungiyar Golden Moments",
+    "howWeWrite": "Yadda muke rubutu",
+    "shortAnswer": "Taƙaitaccen amsa",
+    "onThisPage": "A wannan shafi (sassa {n})",
+    "commonQuestions": "Tambayoyin da ake yawan yi",
+    "sources": "Madogara",
+    "sourcesNote": "Mun haɗa mahaɗa zuwa ƙungiyoyi da binciken da wannan shafi ya dogara da su. An duba kowanne lokacin da aka sabunta shafin.",
+    "tryTogether": "Ku gwada tare",
+    "relatedGuides": "Jagorori masu alaƙa",
+    "related": "Masu alaƙa",
+    "startHere": "Ku fara a nan"
+  },
+  "healthNotice": {
+    "aria": "Sanarwar bayanan lafiya",
+    "title": "Bayani na gabaɗaya, ba shawarar likita ba",
+    "textHtml": "Wannan shafi yana taƙaita binciken da aka wallafa ga iyalai. Ba zai iya gaya muku abin da ya dace da mutum ɗaya ba. Ku yi magana da likita kafin canza abinci, motsa jiki, barci, magunguna ko kari. Idan akwai rikicewar tunani kwatsam ko wasu canje-canje kwatsam, ku nemi taimakon likita nan take. <a href=\"/medical-disclaimer/\">Ku karanta sanarwar bayanan lafiya namu</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Aiki na Tare, ba Jarabawar Tunani ba",
+      "seoTitle": "Game da Golden Moments: Tsarinmu",
+      "description": "Dalilin da wasannin Golden Moments ba su da agogo, maki ko jere-jere, dalilin da hotuna suke nan a bayyane, da abin da ba za mu iƙirari ba game da mantuwa.",
+      "crumb": "Tsarinmu",
+      "lede": "Golden Moments tana yin ayyukan hotuna masu natsuwa na manya da mai kulawa da mai rayuwa da mantuwa za su iya jin daɗinsu kusa da juna.",
+      "bodyHtml": "<h2>Abin da muka yi imani da shi</h2><p>Manufar aiki ita ce lokacin kansa: hira, murmushi, jin daɗin haɗa hotuna biyu, ko kawai zama kusa. Ba aunawa ba ne, ba tura wani gaba ba ne, ba kuma tabbatar da wani abu ba ne.</p><p>Yawancin manhajojin horar da ƙwaƙwalwa an tsara su ne a kan gudu, maki, jere-jere da matakai. Ga mai rayuwa da mantuwa, wannan na iya zama kamar jarabawar da ba zai iya cin nasara ba. Mun tsara akasin haka, kuma muna riƙe kanmu da waɗannan ƙa’idoji:</p><ul><li><strong>Babu abin da za a fadi.</strong> Babu agogo, maki, ƙidayar motsi, rayuka, jere-jere, confetti ko ƙirgen baya, a kowane allo.</li><li><strong>Ganewa a gaban tunawa.</strong> Hotuna suna nan a bayyane ta asali. Tambayoyi suna gayyatar hira ba tare da tambayar suna ko abubuwan da aka tuna ba.</li><li><strong>Babba, mai sauƙi kuma tsayayye.</strong> Rubutu da hotuna manya, bambancin launi mai ƙarfi, da maɓallai da ke zama a wuri ɗaya.</li><li><strong>Mutuncin manya.</strong> Hotunan rayuwa ta gaske da kalmomi masu dumi da sauƙi. Babu zane-zanen yara, yabo irin na waƙa ko lada da emoji.</li><li><strong>Hanyar fita mai sauƙi.</strong> “Ya isa a yanzu” yana nan a bayyane a koyaushe. Tsayawa rabin hanya sakamako ne mai kyau.</li><li><strong>Sirri ta asali.</strong> Babu asusu ko talla. Hotunan da kuka zaɓa suna zama a na’urarku.</li></ul><h2>Abin da ba mu iƙirari ba</h2><p>Wasanninmu don jin daɗi da haɗin kai ne. Ba sa tantancewa, gwadawa, aunawa, yin magani, rage ko hana mantuwa ko cutar Alzheimer, kuma kada kowa ya zaɓe su don wannan dalilin. Idan muna rubutu game da bincike a <a href=\"/brain-health/\">shafukan lafiyar ƙwaƙwalwa</a> namu, muna faɗin a sarari inda shaida take da rauni, kuma ba mu taɓa haɗa ta da wasanninmu ba.</p><h2>Su wane ne mu</h2><p>Golden Moments ƙaramar ƙungiya ce mai zaman kanta. Ba likitoci ba ne mu. Ana rubuta jagororinmu daga jagororin da aka wallafa na ƙungiyoyi irin su National Institute on Aging da Alzheimer’s Association, kuma kowane jagora yana lissafa madogararsa. Ku karanta <a href=\"/editorial-policy/\">yadda muke rubutu da duba shafukanmu</a>.</p><h2>Ku gaya mana abin da zai taimaka</h2><p>Za mu so jin abin da ke aiki a gare ku da wanda ba ya aiki, musamman daga masu rayuwa da mantuwa, masu kulawa a cikin iyali da ma’aikatan ayyuka. Ku aika imel zuwa <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Yadda Muke Rubutu da Duba Shafukanmu",
+      "seoTitle": "Manufar Rubutu",
+      "description": "Yadda Golden Moments take bincike, rubutu, bayar da madogara da sabunta shafukan ayyuka da lafiyar ƙwaƙwalwa, da abin da ba za mu taɓa wallafawa ba.",
+      "crumb": "Manufar rubutu",
+      "bodyHtml": "<h2>Madogararmu</h2><p>Muna gina jagororinmu a kan jagororin jama’a na ƙungiyoyi irin su National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance da NHS, da kuma binciken da aka duba tsakanin masana irin su nazarin Cochrane da manyan gwaje-gwajen asibiti. Kowane jagora yana lissafa madogarar da ya dogara da ita. Muna buɗe kowace madogara kafin mu ambace ta, kuma muna ba da rahoton abin da take faɗa ne kawai.</p><h2>Yadda muke rubutu</h2><ul><li>Amfani da farko: abin da za a yi a yau, da kalmomi masu sauƙi.</li><li>Gaskiya game da shaida: muna cewa “yana da alaƙa da”, “yana iya” da “shaida gauraye ce” idan wannan ne gaskiya.</li><li>Girmamawa: muna rubutu game da masu rayuwa da mantuwa a matsayin manya, kuma ba ma amfani da kalmomin tambaya ko kunya.</li><li>Babu ƙirƙirar abun ciki: babu ƙididdiga, maganganu, masana, bincike, bita ko shaidar da aka ƙirƙira.</li></ul><h2>Wa ke duba shafukanmu</h2><p>Ƙungiyar Golden Moments ce ke rubutawa da duba shafuka, tare da taimakon kayan rubutu na AI don bincike da rubuta daftari. Ƙungiyar tana duba kowane shafi da madogarar sa. Likita ko wani ma’aikacin lafiya <strong>bai</strong> duba shafukanmu ba, kuma ba ma iƙirarin akasin haka. Bayani ne na gabaɗaya, ba shawarar likita ba.</p><h2>Abin da ba za mu taɓa wallafawa ba</h2><ul><li>Iƙirarin cewa wasa, abinci, kari, azumi ko tsari yana hanawa, magance, rage ko warkar da mantuwa.</li><li>Gwaje-gwaje, tambayoyi ko maki da ke nuna cewa wani yana da mantuwa ko ba shi da ita.</li><li>Shawarar fara, daina ko canza kowane magani.</li><li>Talla ko abun ciki na tallafi da aka ɓoye a matsayin jagora.</li></ul><h2>Sabuntawa da gyare-gyare</h2><p>Kowane shafi yana nuna ranar da aka sabunta shi ƙarshe. Idan kun sami kuskure ko madogara da ta tsufa, don Allah ku aika imel zuwa <a href=\"mailto:{email}\">{email}</a> kuma za mu duba da sauri.</p>"
+    },
+    "faq": {
+      "title": "Tambayoyi da Amsoshi",
+      "seoTitle": "Wasanni da Ayyuka ga Masu Mantuwa: Tambayoyi da Amsoshi",
+      "description": "Amsoshin tambayoyin da ake yawan yi game da wasanni da ayyuka ga masu mantuwa: waɗanne wasanni a gwada, tsawon lokacin wasa, lafiyar ƙwaƙwalwa da sirri.",
+      "crumb": "Tambayoyi da amsoshi",
+      "lede": "Gajerun amsoshi masu sauƙi ga tambayoyin da masu kulawa suka fi yi.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Game da wasannin",
+          "items": [
+            {
+              "q": "Waɗanne wasanni ne suka fi dacewa ga mai mantuwa?",
+              "a": "Mafi kyawun wasanni sanannu ne, masu sauƙi kuma marasa matsin lamba, kuma wanda ya dace shi ne duk abin da mutumin ya ji daɗinsa a yau. Haɗa hotuna a bayyane, rarrabewa, wasannin haɗa guntaye masu sauƙi, kammala karin magana sananne, canza launi da bingo na hotuna duk suna dacewa da mutane da yawa. Ku guji agogo, maki da duk abin da yake kama da jarabawa."
+            },
+            {
+              "q": "Wasannin kyauta ne da gaske?",
+              "a": "Eh. Dukan wasanni da abubuwan bugawa kyauta ne, ba tare da asusu, rajista, saukewa ko talla ba."
+            },
+            {
+              "q": "Me ya sa babu maki, matakai ko agogo?",
+              "a": "Gudu da maki suna mai da aiki mai daɗi zuwa jarabawa, wanda zai iya kawo kunya ko takaici. Muna mai da hankali ne kan jin daɗi da zama tare, don haka babu abin da za a fadi kuma kuna iya tsayawa a kowane lokaci."
+            },
+            {
+              "q": "Waɗanne na’urori ne suka fi dacewa?",
+              "a": "Duk wata waya, tablet ko kwamfuta mai burauzar yanar gizo ta zamani. Tablet a kan stand a teburi sau da yawa ita ce hanya mafi daɗi ga mutum biyu su yi wasa kusa da juna. Laptop da aka haɗa da talabijin tana da kyau ga ƙungiya."
+            },
+            {
+              "q": "Za mu iya yin wasa da hotunan iyalinmu?",
+              "a": "Eh. “Haɗa hotunan kanku” yana mai da hotuna 2 zuwa 6 da kuka zaɓa wasan haɗawa. Hotunan suna zama a burauzarku kuma ba a aika ko ajiye su ba."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Ayyuka da kulawa",
+          "items": [
+            {
+              "q": "Tsawon wane lokaci ya kamata aiki ya ɗauka?",
+              "a": "Sau da yawa mintuna 10 zuwa 20 sun isa, kuma wani lokaci mintuna 2 nasara ne. Ku kula da alamun gajiya ko takaici ku tsaya yayin da yake da daɗi. Babu daidai adadi."
+            },
+            {
+              "q": "Idan ba sa son yin wani aiki fa?",
+              "a": "Ku mutunta ƙin, ku sake gwadawa daga baya ko ta wata hanya. Ƙin na iya fitowa daga gajiya, ciwo, rashin tabbas ko rashin sha’awa kawai. Ku duba jagorarmu kan abin da za a yi idan sun ƙi."
+            },
+            {
+              "q": "Waɗanne ayyuka ne suka dace da mai mantuwa a mataki na ƙarshe?",
+              "a": "Jin daɗi da hankulan jiki: sauraron kiɗan da suke so, tausa hannu da mai, kallon hotuna tare, riƙe bargo mai laushi, zama a waje, ko wasan hotuna mai sauƙi sosai tare da wani kusa da su. Jagorarmu ta mataki na ƙarshe tana da ƙarin shawarwari da yawa."
+            },
+            {
+              "q": "Akwai ayyuka ga ƙungiyoyi a gidan kula da tsofaffi?",
+              "a": "Eh. Bingo na hotuna yana da katunan bugawa da mai kira a allo, kuma “Kammala karin magana” da “Katunan hira” suna da kyau idan ana karanta su da murya. Jagorarmu ta ƙungiyoyin gidan kulawa tana magana kan girman ƙungiya, wurin zama da daidaita ga mabambantan iyawa."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Lafiyar ƙwaƙwalwa",
+          "items": [
+            {
+              "q": "Wasanni za su iya hana ko rage mantuwa?",
+              "a": "A’a. Ba a nuna cewa wani wasa yana hana mantuwa ba, kuma wasanninmu ba su yin irin wannan iƙirari. Ƙarfafa tunani a yanayin zamantakewa ya nuna ƙananan fa’idodi a bincike ga masu mantuwa mai sauƙi zuwa matsakaici, amma wannan ya bambanta da wasa yana hana cuta. Muna ba da wasanni don jin daɗi da haɗin kai."
+            },
+            {
+              "q": "Za a iya hana mantuwa?",
+              "a": "Ba da tabbaci ba. Bincike ya danganta abubuwan lafiya da salon rayuwa 14 da haɗarin mantuwa, kamar rashin ji, hawan jini, rashin motsa jiki da kaɗaici. Magance su na iya rage haɗari ga wasu mutane, amma mutane da yawa da suke yin komai daidai suna kamuwa da mantuwa. Ba laifin kowa ba ne."
+            },
+            {
+              "q": "Azumi na lokaci-lokaci yana da amfani ga lafiyar ƙwaƙwalwa?",
+              "a": "Shaida a kan mutane tana da ƙaranci kuma tana farko, kuma yawancin binciken a kan dabbobi ne. Azumi na iya zama mai haɗari ga tsofaffi, musamman tare da magungunan ciwon sukari ko rage nauyi ba da gangan ba, kuma ba a ba da shawarar sa ga masu mantuwa ba. Ku yi magana da likita kafin canza yadda kuke ci."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Sirri da tsaro",
+          "items": [
+            {
+              "q": "Kuna tattara wani bayani?",
+              "a": "Babu asusu ko talla. Muna amfani da Google Analytics don ƙirga ziyara da ganin shafukan da ke taimakawa, kuma burauzarku tana tunawa ko kun kunna sautuka masu taushi. Ba a taɓa aika hotunan da kuka zaɓa don Haɗa hotunan kanku ba. Ku duba sanarwar sirri don cikakkun bayanai."
+            },
+            {
+              "q": "Wannan shawarar likita ce?",
+              "a": "A’a. Golden Moments don nishaɗi da bayani na gabaɗaya ne. Don tambayoyin lafiya, ku yi magana da likita, kuma don gaggawa ku kira lambar gaggawa ta yankinku."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Ƙarin bayani: <a href=\"/caregiving/how-to-play-together/\">yadda ake wasa tare</a>, <a href=\"/caregiving/when-they-say-no/\">idan sun ƙi</a>, <a href=\"/activities/late-stage/\">ayyukan mataki na ƙarshe</a> da <a href=\"/brain-health/can-dementia-be-prevented/\">za a iya hana mantuwa?</a>"
+    },
+    "handout": {
+      "title": "Wasanni Masu Natsuwa na Kyauta ga Masu Rayuwa da Mantuwa",
+      "seoTitle": "Takardar Bugawa: Wasannin Mantuwa na Kyauta a Intanet",
+      "description": "Takarda ɗaya ta bugawa ga iyalai da masu kulawa game da wasannin hotuna masu natsuwa na kyauta ga masu rayuwa da mantuwa, don ƙungiyoyin tallafi da jakar kulawa.",
+      "crumb": "Takardar bugawa",
+      "lede": "Ku buga wannan shafi don ƙungiyar tallafi, jakar kulawa ko ƙofar firiji. Ku yi amfani da umarnin Print na burauzarku; ana bar jerin shafuka da maɓallai a bugun.",
+      "introHtml": "<p>Manyan hotuna, kalmomi masu sauƙi kuma babu abin da za a fadi. Kyauta a waya, tablet ko kwamfuta, babu rajista, babu talla, babu agogo kuma babu maki. Ku zauna kusa da juna ku riƙa yi bi-da-bi.</p>",
+      "gamesTitle": "Wasannin da za a gwada tare",
+      "restHtml": "<h2>Wasu shawarwari</h2><ul><li>Ku zaɓi lokacin rana da mutumin yake a mafi kyawun halinsa.</li><li>Ku fara da mafi sauƙin saiti. Katuna huɗu sun isa.</li><li>Ku yi magana game da hotunan. Hirar sau da yawa ita ce mafi kyau.</li><li>Ku tsaya yayin da yake da daɗi. Ƙarewa da wuri sakamako ne mai kyau.</li></ul><h2>Akwai kuma a shafin</h2><ul><li>Abubuwan bugawa na kyauta: neman kalmomi da manyan haruffa, shafukan canza launi, katunan hira da bingo na hotuna.</li><li>Shawarwarin ayyuka ga kowane mataki, da jagorori kan wasa tare da kula da kanku.</li></ul><p class=\"muted\">Don jin daɗi da zama tare. Ba shawarar likita, gwaji ko magani ba. Cloudjet Solutions Pte. Ltd. ne ya wallafa Golden Moments.</p>"
+    },
+    "organizations": {
+      "title": "Ga Gidajen Kulawa, Ɗakunan Karatu da Ƙungiyoyin Tallafi",
+      "seoTitle": "Ayyukan Mantuwa na Kyauta ga Gidajen Kulawa da Ƙungiyoyi",
+      "description": "Yadda gidajen kulawa, ɗakunan karatu da ƙungiyoyin tallafi suke amfani da wasannin mantuwa namu na kyauta, da rubutun da za a ƙara mu cikin jerin albarkatu.",
+      "crumb": "Ga ƙungiyoyi",
+      "lede": "Duk abin da ke wannan shafi kyauta ne don amfani da mazauna, mambobi da abokan ciniki, ba tare da asusu, lasisi ko kuɗi ba. Wannan shafi yana bayyana abin da ke nan da yadda za a raba shi.",
+      "shortText": "{name}: wasannin hotuna masu natsuwa na kyauta da jagororin ayyuka ga masu rayuwa da mantuwa da masu kula da su. Babu rajista, agogo ko maki.",
+      "longText": "{name} ({domain}) tana ba da wasannin burauza {count} na kyauta da aka yi don masu rayuwa da mantuwa, har da haɗa hotuna biyu-biyu da hotuna a bayyane, wasan haɗa guntaye mai sauƙi, rarrabewa, karin magana sananne da bingo na hotuna da katunan bugawa. Babu asusu, talla, agogo ko maki. Shafin yana da jagororin ayyuka masu sauƙin kalmomi ga kowane mataki na mantuwa waɗanda ke ambaton National Institute on Aging da Alzheimer’s Association.",
+      "useTitle": "Abin da ƙungiyoyi za su iya amfani da shi",
+      "gamesItemHtml": "<strong>Wasannin burauza {count}</strong> da ke aiki a laptop, tablet ko talabijin da aka haɗa da kwamfuta. Babu shigarwa, asusu ko saukewa. Ku duba <a href=\"/games/\">dukan wasanni</a>.",
+      "printablesLabel": "Abubuwan bugawa {count}:",
+      "printablesAfter": "Ku yi amfani da maɓallin Print a kowane shafi.",
+      "moreItemsHtml": "<li><strong>Tsarin ƙungiya:</strong> <a href=\"/games/picture-bingo/\">Bingo na hotuna</a> yana da katunan bugawa da mai kira a allo, kuma <a href=\"/activities/trivia/\">tambayoyi masu sauƙi</a> suna da tambayoyi 50 da zaɓuɓɓukan amsa da batutuwan hira.</li><li><strong>Jagororin ayyuka</strong> ga ma’aikata da iyalai, bisa mataki da nau’i, an rubuta su da kalmomi masu sauƙi tare da madogara. Ku fara da <a href=\"/activities/ideas/\">shawarwarin ayyuka 101</a> ko <a href=\"/activities/care-home-groups/\">ayyukan ƙungiya don gidajen kulawa</a>.</li>",
+      "restHtml": "<h2>Yadda ƙungiyoyi suke amfani da shi</h2><ul><li><strong>Gidajen kulawa da kulawar tunani:</strong> bingo na hotuna ko kammala karin magana a talabijin na ɗakin zama, tare da mutum ɗaya yana taɓawa don ƙungiyar.</li><li><strong>Shirye-shiryen rana na manya:</strong> tashar tablet da Haɗa hotuna biyu-biyu a katuna huɗu, don gajerun zama ɗaya-ɗaya.</li><li><strong>Ɗakunan karatu na jama’a:</strong> bugaggun neman kalmomi da katunan hira a cikin kayan tunani, da shafin a alamance a tablet ɗin ɗakin karatu.</li><li><strong>Ƙungiyoyin tallafin masu kulawa da wuraren haɗuwa:</strong> <a href=\"/handout/\">takarda ɗaya ta bugawa</a> da iyalai za su tafi da ita gida.</li><li><strong>Asibitoci da masu shirya sallama:</strong> takardar a cikin jakar masu kulawa, don wani abu mai natsuwa da za a yi a gida ko a gadon asibiti.</li></ul><h2>Abin da ba ma yi</h2><p>Wasannin don jin daɗi da zama tare ne. Ba sa tantancewa, gwadawa, ba da maki, magance ko rage mantuwa, kuma muna roƙon ƙungiyoyi kada su siffanta su haka. Babu talla, kuma wasannin ba sa tambayar sunaye, bayanan lafiya ko aika hotuna. Shafin yana amfani da Google Analytics don ƙirga ziyara; <a href=\"/privacy/\">sanarwar sirrinmu</a> tana bayyana abin da yake tattarawa. Hotunan da ake amfani da su a <a href=\"/games/photo-pairs/\">Haɗa hotunan kanku</a> suna zama a burauza.</p><h2>A ƙara mu cikin jerin albarkatunku</h2><p>Idan kuna da jerin albarkatu ga masu kulawa, kuna maraba ku haɗa zuwa <a href=\"/\">{domain}</a>. Kuna iya kwafar ɗaya daga cikin bayanan guda biyu.</p>",
+      "shortTitle": "Taƙaitaccen bayani",
+      "longTitle": "Cikakken bayani",
+      "linksHtml": "<p>Shafuka masu amfani da za a haɗa kai tsaye: <a href=\"/games/\">wasanni na kyauta</a>, <a href=\"/activities/printable/\">abubuwan bugawa na kyauta</a>, <a href=\"/activities/alzheimers/\">ayyuka ga masu Alzheimer</a> da <a href=\"/caregiving/how-to-play-together/\">yadda ake wasa tare</a>.</p><h2>Tambayoyi ko gyare-gyare</h2><p>Idan wani abu a shafin ba daidai ba ne ko bai fito fili ba, ko kuma bukatun wani mazaunin ba a biya su da abin da ke nan ba, don Allah ku gaya mana a <a href=\"mailto:{email}\">{email}</a>. Don Allah kada ku aika bayanan sirri ko na lafiya na mazauna ko abokan ciniki.</p>"
+    },
+    "app": {
+      "title": "Manhajar Golden Moments",
+      "seoTitle": "Manhajar Golden Moments don iPhone da Android",
+      "description": "Manhajar Golden Moments ta kyauta: haɗa hotuna a hankali da katuna huɗu manya, hotunan iyali da ake ajiyewa a na’urarku, tarin hotuna ba tare da intanet ba da babu asusu.",
+      "crumb": "Manhajar",
+      "lede": "Duk abin da kuke so a shafin yanar gizo, a cikin manhaja da ke aiki ba tare da intanet ba kuma tana iya amfani da hotunan iyali da kuka zaɓa.",
+      "worksOn": "Tana aiki a {platforms} ({requirements}).",
+      "bodyHtml": "<h2>A fara da ƙanƙane</h2><p>Ku fara da manyan katuna huɗu da sanannun hotuna. Ku bar hotuna a bayyane, ko ku ɓoye su idan hakan ya yi daɗi. Yanayin natsuwa ba shi da agogo, maki ko hukunci. Ku zaɓi katuna 4, 6, 8 ko 12.</p><h2>A sa shi ya zama na ku</h2><p>Ku zaɓi hotunan iyali da mai zaɓar hotuna na na’urarku. Manhajar tana ajiye ƙananan kwafi don ayyukanta. Ba ta bincika ɗakin hotunanku ko canza hotunanku na asali ba, kuma tana ajiye har hotuna 24 a tari ɗaya.</p><h2>A kalla tare kawai</h2><p>A duba hoto ɗaya a lokaci guda. Tambayoyi na zaɓi suna gayyatar hira ba tare da neman kowa ya tuna suna ko ya ba da amsa madaidaiciya ba. Kallo kawai ya isa.</p><h2>Ba tare da intanet ba, a inda ya fi muhimmanci</h2><p>Hotunan farko da dukan tarin hotuna takwas suna cikin manhajar. Kwafin hotunan da aka shigo da su suna aiki ba tare da intanet ba. Zaɓar hotunan asali da aka ajiye a iCloud kaɗai na iya buƙatar intanet.</p><h2>Babu asusu, babu sabar raba hoto</h2><p>Kwafin hotunan iyali suna zama a cikin manhajar a na’urar. Kuna iya cire kwafin ba tare da goge hotunan asali ba. Ajiyar bayanan na’ura na iya haɗawa da bayanan manhaja. Ku karanta <a href=\"/app-privacy/\">manufar sirrin manhaja</a>, kuma <a href=\"/help/\">taimakon manhaja</a> yana bi da ku mataki-mataki.</p>",
+      "disclaimer": "Golden Moments don nishaɗi da hira tare ne. Ba ta tantancewa, ba ta yin magani, ba ta hana, kuma ba ta auna cutar mantuwa ko cutar Alzheimer ba.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Wasannin Mantuwa da Alzheimer na Kyauta a Intanet",
+    "description": "Wasannin intanet na kyauta ga tsofaffi masu mantuwa ko Alzheimer: haɗa hotuna, wasan haɗa guntaye, rarrabewa, karin magana, bingo. Babu rajista, agogo ko maki.",
+    "crumb": "Wasanni",
+    "h1": "Wasanni Masu Natsuwa ga Masu Mantuwa",
+    "lede": "Wasanni {count} na kyauta da za a yi tare a burauzarku. Manyan hotuna, kalmomi masu sauƙi, kuma babu abin da za a fadi: babu agogo, babu maki, babu rajista.",
+    "listName": "Wasanni masu natsuwa ga masu mantuwa",
+    "byStageTitle": "Zaɓar wasa bisa mataki",
+    "byStageLede": "Matakai jagora ne kawai na kusantawa. Ku bi abin da mutumin yake so da abin da yake da daɗi a yau.",
+    "stageCol": "Mataki",
+    "gamesCol": "Wasannin da sukan dace",
+    "moreHtml": "Ƙarin shawarwari nesa da allo: <a href=\"/activities/ideas/\">ayyuka 101 ga masu mantuwa</a>, <a href=\"/activities/alzheimers/\">ayyuka da wasanni na Alzheimer</a>, <a href=\"/activities/memory-games/\">wasanni masu natsuwa na tunani</a> da <a href=\"/activities/puzzles/\">wasannin haɗawa</a>.",
+    "faq": [
+      {
+        "q": "Wane wasa ya kamata mu fara da shi?",
+        "a": "Haɗa hotuna biyu-biyu da katuna huɗu zaɓi ne mai natsuwa na farko. Idan zaɓar tsakanin hotuna ya yi yawa, ku gwada “Nemo iri ɗaya” da hotuna biyu. Ga ƙungiya, ku gwada Bingo na hotuna."
+      },
+      {
+        "q": "Wasannin suna aiki a iPad ko waya?",
+        "a": "Eh. Kowane wasa yana aiki a burauza a waya, tablet da kwamfuta, kuma hotuna suna girma su cika allo. Tablet a kan stand sau da yawa ita ce ta fi daɗi ga mutum biyu."
+      },
+      {
+        "q": "Waɗannan wasannin suna da kyau ga mai cutar Alzheimer?",
+        "a": "Eh. An yi su ne don masu rayuwa da mantuwa, har da Alzheimer, wacce ta fi haddasa ta. Hotuna suna nan a bayyane, zaɓi kaɗan ne, kuma babu abin da aka sa wa lokaci ko maki, don haka wasannin suna dogara ne da gane sanannun abubuwa, ba tuna sababbi ba."
+      },
+      {
+        "q": "Waɗannan wasannin tunani ne ga tsofaffi?",
+        "a": "Wasannin haɗawa da hotuna ne da kowane babba zai ji daɗinsu, amma an gina su ne ba don gwada tunani ba: a Haɗa hotuna biyu-biyu hotuna suna nan a bayyane sai dai idan kun zaɓi akasin haka. Jagorarmu ta wasannin tunani ga tsofaffi masu mantuwa tana bayyana yadda za a kiyaye kowane wasan tunani a natse."
+      },
+      {
+        "q": "Akwai wasanni ga ƙungiyoyi a gidan kulawa?",
+        "a": "Eh. Bingo na hotuna yana da katunan bugawa da mai kira a allo, kuma “Kammala karin magana” da “Katunan hira” suna da kyau idan aka karanta wa ƙungiya da murya."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad da Android",
+    "requirements": "iOS 15 ko sama; Android 7.0 ko sama",
+    "summary": "Manhaja ta kyauta don iPhone, iPad da Android da ke da haɗa hotuna a hankali a kan manyan katuna huɗu zuwa goma sha biyu, haɗawa da kallo da hotunan iyali da kuka zaɓa, da tarin hotuna takwas da ke aiki ba tare da intanet ba. Babu asusu, talla, agogo ko maki.",
+    "features": [
+      "Haɗa hotuna a hankali da manyan katuna 4, 6, 8 ko 12; hotuna suna nan a bayyane sai dai idan kun zaɓi ɓoye su",
+      "Hotunan iyali da kuka zaɓa ana kwafa su cikin manhajar don haɗawa da kallo tare",
+      "Kallo tare: hoto ɗaya a lokaci guda tare da tambayoyin hira na zaɓi",
+      "Tarin hotuna takwas suna cikin manhajar; suna aiki ba tare da intanet ba",
+      "Babu asusu, talla, sayayya a cikin manhaja, agogo, maki ko hukunci"
+    ],
+    "faq": [
+      {
+        "q": "Akwai manhajar ayyuka ga masu mantuwa?",
+        "a": "Eh. Golden Moments (an lissafa ta da “{storeName}”) kyauta ce a App Store da Google Play. Tana da haɗa hotuna a hankali da manyan katuna, wasanni da hotunan iyali da kuka zaɓa, da tarin hotuna da ke aiki ba tare da intanet ba."
+      },
+      {
+        "q": "Manhajar Golden Moments kyauta ce?",
+        "a": "Eh. Kyauta ne a sauke, babu talla, asusu ko sayayya a cikin manhaja."
+      },
+      {
+        "q": "Manhajar tana aiki ba tare da intanet ba?",
+        "a": "Eh. Hotunan farko da dukan tarin hotuna takwas suna cikin manhajar, kuma hotunan iyali suna aiki ba tare da intanet ba da zarar an kwafa su cikin manhajar. Zaɓar hoton da aka ajiye a iCloud kaɗai na iya buƙatar haɗin intanet."
+      },
+      {
+        "q": "Zan iya amfani da hotunan iyalinmu?",
+        "a": "Eh. Ku zaɓi hotuna da mai zaɓar hotuna na na’urarku. Manhajar tana ajiye ƙananan kwafi a na’urar don ayyukanta, ba ta aika su ba kuma ba ta taɓa canza na asali ba. Kuna iya cire kwafin a kowane lokaci."
+      },
+      {
+        "q": "Manhajar horar da ƙwaƙwalwa ce ko gwajin tunani?",
+        "a": "A’a. Golden Moments don jin daɗi da zama tare ne. Ba ta da maki ko gwaje-gwaje, kuma ba ta tantancewa, magance, hanawa ko auna cutar mantuwa ko cutar Alzheimer ba."
+      },
+      {
+        "q": "A waɗanne na’urori take aiki?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Akwai sigar manhaja ta wannan wasa?",
+      "a": "Eh. Manhajar Golden Moments ta kyauta don iPhone, iPad da Android tana da irin wannan haɗa hotuna a hankali, tana iya amfani da hotunan iyali da kuka zaɓa, kuma tana aiki ba tare da intanet ba. Babu asusu, talla ko maki."
+    },
+    "gameFaqNo": {
+      "q": "Akwai sigar manhaja ta wannan wasa?",
+      "a": "Ba ta wannan wasan ba. Manhajar Golden Moments ta kyauta don iPhone, iPad da Android tana da haɗa hotuna a hankali da manyan katuna da hotunan iyali da kuka zaɓa, kuma tana aiki ba tare da intanet ba. Wannan wasa yana nan kyauta a burauzarku a nan."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: manyan hotuna masu daɗin gani",
+    "noscript": "Wannan wasa yana buƙatar a kunna JavaScript a burauzarku. Shawarwarin da ke ƙasa suna aiki ba tare da shi ba.",
+    "about": "Game da {name}",
+    "aboutAria": "Game da wannan wasa",
+    "noTimer": "Babu agogo ko maki",
+    "printable": "Na bugawa",
+    "howTo": "Yadda ake wasan {name}",
+    "tips": "Shawarwari don wasa tare",
+    "newToPlayingHtml": "Kuna sabon wasa da mai mantuwa? Ku karanta <a href=\"/caregiving/how-to-play-together/\">yadda ake wasa tare</a>, har da abin da za a yi idan sun rasa sha’awa.",
+    "moreAria": "Ƙari don bincika",
+    "helpfulGuides": "Jagorori masu amfani",
+    "appTitle": "A yi wasa a manhajar",
+    "appText": "Manhajar Golden Moments ta kyauta tana da haɗa hotuna a hankali da manyan katuna da hotunan iyalinku, kuma tana aiki ba tare da Wi‑Fi ba. iPhone, iPad da Android.",
+    "photoAppTitle": "Ku ajiye hotunanku a shirye",
+    "photoAppText": "A manhajar Golden Moments ta kyauta, hotunan da kuka zaɓa suna zama a na’urarku don lokaci na gaba, kuma wasanni suna aiki ba tare da Wi‑Fi ba. iPhone, iPad da Android.",
+    "goodToKnow": "Abin da ya dace a sani",
+    "goodToKnowText": "Wannan wasa don jin daɗi da zama tare ne. Ba ya gwadawa, aunawa ko magance wani abu.",
+    "moreGames": "Ƙarin wasanni masu natsuwa",
+    "crumb": "Wasanni"
+  }
+}
