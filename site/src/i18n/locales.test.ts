@@ -6,10 +6,14 @@ describe('which languages search engines may index', () => {
     for (const code of ['en', 'es', 'ja', 'bn', 'fa']) expect(isIndexable(code), code).toBe(true);
   });
 
-  it('holds back the languages listed as too weak to publish unread', () => {
+  it('indexes even the weakest machine translations (maintainer decision, 2026-11-01)', () => {
+    for (const code of ['ha', 'am', 'my', 'ps', 'so', 'om', 'sd']) expect(isIndexable(code), code).toBe(true);
+    expect(HELD_FROM_INDEX.size).toBe(0);
+  });
+
+  it('keeps a held language out of the index', () => {
     expect(HELD_FROM_INDEX.has('en')).toBe(false);
     for (const code of HELD_FROM_INDEX) expect(isIndexable(code), code).toBe(false);
-    expect(isIndexable('ha')).toBe(false);
   });
 
   it('only holds back languages that exist, and every other language is indexed', () => {

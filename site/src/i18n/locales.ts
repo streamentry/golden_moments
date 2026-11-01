@@ -88,13 +88,14 @@ export const LOCALES: readonly LocaleInfo[] = [
  * are unreviewed and link to the English original. Remove a code to make that
  * language `noindex` again; TRANSLATING.md tracks which are reviewed.
  *
- * The exception is `HELD_FROM_INDEX`: languages where machine translation is so
- * weak that even the translator reported low confidence (Hausa, for example,
- * has no settled everyday word for dementia). Their pages stay reachable and
- * labelled, but are `noindex` and left out of the sitemaps, hreflang and
- * llms.txt until a native speaker has read them. Remove a code once reviewed.
+ * `HELD_FROM_INDEX` is the way to pull a language back out: its pages stay
+ * reachable and labelled but become `noindex` and drop out of the sitemaps,
+ * hreflang and llms.txt. It is empty: on 2026-11-01 the maintainer chose to
+ * index every language, including the weakest machine translations (Hausa,
+ * Amharic, Burmese, Pashto, Sindhi, Somali, Oromo), which native speakers
+ * should review first.
  */
-export const HELD_FROM_INDEX: ReadonlySet<string> = new Set(['ha', 'am', 'my', 'ps', 'so', 'om', 'sd']);
+export const HELD_FROM_INDEX: ReadonlySet<string> = new Set([]);
 
 export const INDEXED_LANGUAGES: ReadonlySet<string> = new Set(
   LOCALES.map((l) => l.code).filter((code) => !HELD_FROM_INDEX.has(code)),

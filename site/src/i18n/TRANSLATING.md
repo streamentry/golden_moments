@@ -5,11 +5,10 @@ is a machine translation published as **unreviewed**: each translated page says
 so and links to the English original. A native speaker can review a language
 later. Every published language is indexed: it has its own sitemap
 (`/<prefix>/sitemap.xml`, English at `/sitemap-en.xml`) with hreflang alternates,
-listed by the index at `/sitemap.xml`, and appears in `llms.txt`. To pull a language back out, add
-its code to `HELD_FROM_INDEX` in `src/i18n/locales.ts` (Hausa is there: a
-translation so weak that even its translator reported low confidence stays
-reachable but unindexed until a native speaker has read it); its pages become
-`noindex`, carry no hreflang, and its sitemap empties.
+listed by the index at `/sitemap.xml`, and appears in `llms.txt`. To pull a language back out, add its code to `HELD_FROM_INDEX` in
+`src/i18n/locales.ts` (it is empty: the maintainer chose on 2026-11-01 to index every
+language, including the weakest); its pages become `noindex`, carry no hreflang,
+and its sitemap empties.
 
 `python3 scripts/register_language.py <code>` registers a new language in every
 place that lists one (site and app). Where a translator cannot supply 30 genuine
