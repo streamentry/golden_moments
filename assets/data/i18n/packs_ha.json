@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Dabbobi",
+      "description": "Dabbobi masu daɗin gani da kirki daga ko’ina a duniya"
+    },
+    "nature": {
+      "name": "Halitta",
+      "description": "Kyawawan wurare da yanayin halitta"
+    },
+    "food": {
+      "name": "Abinci",
+      "description": "Abinci masu daɗi da kayan zaki"
+    },
+    "vintage": {
+      "name": "Motoci",
+      "description": "Motoci da manyan motoci don kallo da hira"
+    },
+    "flowers": {
+      "name": "Furanni",
+      "description": "Kyawawan furanni da yanayin lambu"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Dabbobin gida",
+      "description": "Dabbobin gida masu kirki, kamar a ziyarar ƙauye.",
+      "theme": "Rayuwar ƙauye",
+      "images": {
+        "cow_1": "Saniya mai kirki",
+        "pig_1": "Alade",
+        "chicken_1": "Zakara",
+        "buffalo_1": "Ɓauna",
+        "horse_1": "Doki mai kyau",
+        "duck_1": "Iyalin agwagwa",
+        "goat_1": "Akuya",
+        "rabbit_1": "Zomo mai kyau"
+      }
+    },
+    "nature_mountains": {
+      "title": "Kallon tsaunuka",
+      "description": "Kyawawan tsaunuka da wurare masu ban sha’awa",
+      "theme": "Kyawun halitta",
+      "images": {
+        "mountain_1": "Kololuwar tsauni mai dusar ƙanƙara",
+        "mountain_2": "Dutsen Fuji",
+        "mountain_3": "Kwarin tsaunukan Alps",
+        "mountain_4": "Kolon dutse",
+        "mountain_5": "Tuddan daji",
+        "mountain_6": "Tsaunuka cikin hazo"
+      }
+    },
+    "vintage_cars": {
+      "title": "Motoci da manyan motoci",
+      "description": "Motoci masu sheƙi da manyan motoci don kallo da hira",
+      "theme": "A kan hanya",
+      "images": {
+        "vintage_car_1": "Audi mai launin lemu a faɗuwar rana",
+        "vintage_car_2": "Motar tsere shuɗiya a hamada",
+        "vintage_car_3": "Bugatti mai launin azurfa",
+        "vintage_car_4": "Porsche baƙa a kan hanya",
+        "vintage_car_5": "BMW mai launin lemu a titi mai itatuwan dabino",
+        "vintage_car_6": "Mota shuɗiya kusa da gareji",
+        "vintage_car_7": "Motar ɗaukar kaya kore",
+        "vintage_car_8": "Farar SUV tsakanin duwatsu ja",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Mota shuɗiya mai layuka fari"
+      }
+    },
+    "animals_safari": {
+      "title": "Dabbobin daji",
+      "description": "Manyan dabbobin daji na Afirka",
+      "theme": "Dabbobin daji",
+      "images": {
+        "lion_1": "Zaki mai girma",
+        "elephant_2": "Giwar Afirka",
+        "zebra_4": "Zebra mai layuka",
+        "rhino_5": "Karkanda mai ƙarfi",
+        "turtle_9": "Kunkuru mai launin ruwan ƙasa",
+        "crocodile_15": "Kada",
+        "peacock_16": "Dawisu mai kyau"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Kayan zaki masu daɗi",
+      "description": "Wasu kayan zaki masu daɗi don abincinku.",
+      "theme": "Kayan zaki",
+      "images": {
+        "pastries_1": "Kayan gasa huɗu",
+        "oreo_cookie_sandwiches_2": "Biskit ɗin Oreo",
+        "crepe_3": "Crepe",
+        "pancake_4": "Pancake",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Kek na caramel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Furannin ƙasashen zafi",
+      "description": "Ku gano kyawun ƙasashen zafi da wannan tarin furanni na ban mamaki.",
+      "theme": "Furannin ƙasashen zafi",
+      "images": {
+        "hibiscus_1": "Hibiscus ja",
+        "frangipani_2": "Frangipani ja da fari",
+        "sunflower_3": "Furen rana",
+        "hydrangea_4": "Hydrangea fari",
+        "rose_5": "Wardi",
+        "chrysanthemum_6": "Chrysanthemum",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Abincin kan titi",
+      "description": "Ku bincika duniyar abincin kan titi mai launuka da wannan tarin abincin ciye-ciye masu daɗi daga ko’ina a duniya.",
+      "theme": "Abincin kan titi",
+      "images": {
+        "taco_1": "Taco na Mexico",
+        "ramen_2": "Ramen na Japan",
+        "dumplings_3": "Dumpling na China",
+        "samosa_4": "Sambusa ta Indiya",
+        "pizza_5": "Yankin pizza na Italiya",
+        "crepe_6": "Crepe na Faransa",
+        "satay_7": "Satay na Thailand",
+        "burger_8": "Burger na Amurka",
+        "bao_9": "Bao da aka dafa da tururi",
+        "takoyaki_10": "Takoyaki na Japan"
+      }
+    },
+    "nature_landscape": {
+      "title": "Wuraren halitta",
+      "description": "Natsattsun kyawawan wuraren halitta don a kalla a hankali a kuma yi hira a kansu tare.",
+      "theme": "Wuraren halitta",
+      "images": {
+        "mountain_1": "Jerin tsaunuka",
+        "forest_2": "Daji mai hazo",
+        "lake_3": "Tafkin tsauni",
+        "desert_4": "Tuddan yashi na hamada",
+        "waterfall_5": "Ruwa mai zubowa daga tsauni",
+        "beach_6": "Gaɓar teku mai yashi",
+        "river_7": "Kogi mai gudu",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Sama a faɗuwar rana",
+        "snow_mountain_10": "Tsauni mai dusar ƙanƙara",
+        "flowers_11": "Furannin daji",
+        "rainforest_12": "Dajin ruwan sama",
+        "iceberg_13": "Iceberg",
+        "volcano_14": "Dutsen mai aman wuta",
+        "cliff_15": "Gaɓar dutse a bakin teku",
+        "aurora_16": "Aurora Borealis",
+        "savannah_17": "Savannah",
+        "coral_reef_18": "Murjani a teku"
+      }
+    }
+  }
+}

@@ -28,6 +28,9 @@
 		<string>vi</string>
 		<string>id</string>
 		<string>th</string>
+		<string>bn</string>
+		<string>fa</string>
+		<string>ha</string>
 	</array>
 	<key>CFBundleDisplayName</key>
 	<string>Golden Moments</string>

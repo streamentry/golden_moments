@@ -1,8 +1,9 @@
 # Localization
 
-The app offers 20 languages. English is the source; every other language falls
-back to English for anything not yet translated. By maintainer decision
-(2026-10-31) the 19 translations are machine-made and ship before native
+The app offers 20 languages in the submitted 1.6.0, and 23 in this branch (the
+three pilot languages for the top-50 expansion). English is the source; every
+other language falls back to English for anything not yet translated. By
+maintainer decision (2026-10-31) the translations are machine-made and ship before native
 review; `docs/specs/release-status.json` records each language as unreviewed
 until a person who reads it has checked it (see `WORKBOARD.md`, GM-036, and
 [native review](native-review.md) for the order, checklist and sign-off steps).
@@ -31,6 +32,9 @@ check of keys, placeholders and plural structure, then `flutter gen-l10n`.
 | Vietnamese | `vi` | `vi` |
 | Indonesian | `id` | `id` |
 | Thai | `th` | `th` |
+| Bengali | `bn` | `bn` |
+| Persian (right to left) | `fa` | `fa` |
+| Hausa | `ha` | `ha` |
 
 `lib/l10n/arb/app_pt.arb` and `app_zh.arb` exist only because the Flutter
 generator needs a base file; the app never selects them, so leave them empty.
@@ -77,7 +81,10 @@ promises a health benefit.
 
 ## Adding or changing languages
 
-Change all of these together: the ARB files, `LOCALES` in
+Run `python3 scripts/register_language.py <code>` (see `--list` for the
+languages it knows). It makes every edit below in one step and is safe to run
+again; then run `dart format test/l10n/arb_files_test.dart`. It registers, it
+does not translate. By hand, change all of these together: the ARB files, `LOCALES` in
 `scripts/pack_text.py`, `CFBundleLocalizations` in `ios/Runner/Info.plist`, the
 `.lproj` folders and the Xcode variant group, `knownRegions`, and
 `locales_config.xml`. Then run `python3 scripts/pack_text.py` to add an empty
@@ -86,6 +93,17 @@ overlay for the new language.
 When the English catalog in `assets/data/packs_index.json` changes, run
 `python3 scripts/pack_text.py` to regenerate `packs_en.json`, then update the
 overlays that translated the changed text.
+
+## Languages Flutter has no widget text for
+
+Flutter's own Material and Cupertino widgets (back buttons, tooltips, dialog
+labels) have text for about 115 languages. Hausa, Yoruba, Igbo, Javanese,
+Sundanese, Oromo, Somali and Sindhi are not among them, and any Material widget
+fails to build under such a language. `lib/l10n/fallback_localizations.dart`
+supplies Flutter's English widget text for exactly those languages (the real
+delegates still win everywhere else); the app's own text stays in the chosen
+language. `test/l10n/fallback_localizations_test.dart` covers all eight. Checked
+in the iOS simulator with Hausa.
 
 ## Checks
 

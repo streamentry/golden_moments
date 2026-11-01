@@ -1,7 +1,7 @@
 import { GAMES, type GameInfo, type Stage } from '../data/games';
 import { DEFAULT_LOCALE, localeInfo } from './locales';
 import { PUBLISHED, deepMerge, fill, ui } from './ui';
-import { playProps } from './play';
+import { NO_SAYINGS_GAME, playProps } from './play';
 
 /** Translatable fields of a game; everything else (slug, pictures, stages) is shared. */
 export type GameText = Partial<
@@ -22,10 +22,13 @@ export function localizeGame(game: GameInfo, code: string): GameInfo {
 
 /**
  * Whether a game is offered in `code`. Word search needs a letter grid, which
- * Chinese, Japanese, Korean and Thai do not have, so those languages leave it
- * out entirely (no page, card or hreflang) rather than show an empty game.
+ * Chinese, Japanese, Korean and Thai do not have, and Finish the saying needs
+ * 30 genuine sayings, which a language with little translation support may not
+ * have. A language leaves such a game out entirely (no page, card or hreflang)
+ * rather than show an empty or invented one.
  */
 export function gameAvailable(slug: string, code: string): boolean {
+  if (slug === 'finish-the-saying') return !NO_SAYINGS_GAME.includes(code);
   if (slug !== 'word-search') return true;
   return playProps(code, slug).content.wordSearch.available;
 }

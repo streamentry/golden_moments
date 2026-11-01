@@ -45,6 +45,9 @@ LANGUAGES: dict[str, tuple[tuple[str, ...], tuple[str, ...]]] = {
     'vi': (('vi',), ('vi',)),
     'id': (('id',), ('id',)),
     'th': (('th',), ('th',)),
+    'bn': (('bn-BD',), ('bn-BD',)),
+    'fa': ((), ('fa',)),
+    'ha': ((), ()),
 }
 
 APP_STORE_LIMITS = {'name': 30, 'subtitle': 30, 'promotional_text': 170,

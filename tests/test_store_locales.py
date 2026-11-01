@@ -2,7 +2,7 @@
 import copy
 import unittest
 
-from scripts import store_locales
+from scripts import pack_text, store_locales
 
 GOOD = {
     'language': 'es',
@@ -42,7 +42,10 @@ class StoreLocaleTests(unittest.TestCase):
         self.assertEqual(store_locales.check(), [])
 
     def test_every_app_language_has_store_locales(self):
-        self.assertEqual(len(store_locales.LANGUAGES), 19)
+        # The store languages are exactly the app's languages except English,
+        # whose listing lives in metadata/app-store.en-US.json.
+        app_languages = {name.replace('_', '-') for name in pack_text.LOCALES}
+        self.assertEqual(set(store_locales.LANGUAGES), app_languages - {'en'})
         self.assertNotIn('en', store_locales.LANGUAGES)
 
     def test_a_good_listing_passes(self):

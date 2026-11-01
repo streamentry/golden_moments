@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Haɗa hotuna biyu-biyu",
+    "seoTitle": "Wasan Haɗa Hotuna ga Masu Mantuwa: Hotuna Biyu-Biyu",
+    "h1": "Haɗa Hotuna Biyu-Biyu: Wasa Mai Natsuwa",
+    "description": "Wasan haɗa hotuna mai natsuwa na kyauta ga masu rayuwa da mantuwa. Manyan hotuna suna nan a bayyane, babu agogo ko maki, kuma kuna zaɓar katuna 4 zuwa 12.",
+    "short": "Ku nemo hotuna biyu iri ɗaya. Hotuna na iya zama a bayyane.",
+    "players": "Mutum 1 ko 2, kusa da juna",
+    "intro": "Ku taɓa hoto, sannan ku taɓa wanda ya yi daidai da shi. Hotuna suna nan a bayyane ta asali, don haka babu abin da za a tuna. Idan hotuna biyu suka yi daidai, suna samun iyakar zinariya da alamar daidai.",
+    "howTo": [
+      "Ku zaɓi adadin katunan da za a yi amfani da su. Katuna huɗu wuri ne mai natsuwa na farawa.",
+      "Ku taɓa kowane hoto. Yana samun iyakar zinariya.",
+      "Ku taɓa hoton da yake iri ɗaya. Biyun suna zama tare da alamar daidai.",
+      "Idan hotunan biyu sun bambanta, babu wani abu mara daɗi da zai faru. Ku sake taɓawa a duk lokacin da kuka shirya.",
+      "Ku kunna “Hotuna a ɓoye” ne kawai idan ku biyu kuna jin daɗin tsohon salon da hotuna ke fuskantar ƙasa."
+    ],
+    "tips": [
+      "Ku kira sunayen hotunan da murya tare, kuma ku yi hira a kansu: “Kofin shayi ja. Kuna sa madara a shayinku?”",
+      "Ku bar mutumin da kuke kula da shi ya yi taɓawa, ko da zai ɗauki lokaci. Ku nuna da yatsa maimakon ku taɓa masa.",
+      "Ku zauna a katuna huɗu muddin yana da daɗi. Ƙarin katuna zaɓi ne, ba mataki da dole a kai ba.",
+      "Ku gama yayin da yake da daɗi. Wasa ɗaya cikakken aiki ne."
+    ],
+    "faq": [
+      {
+        "q": "Akwai agogo ko maki?",
+        "a": "A’a. Babu agogo, maki, ƙidayar motsi ko rashin nasara. Kuna iya tsayawa a kowane lokaci, kuma tsayawa rabin hanya hanya ce mai kyau ta ƙarewa."
+      },
+      {
+        "q": "Me ya sa hotuna suke a bayyane?",
+        "a": "Barin hotuna a bayyane yana mai da wasan kallo da haɗawa maimakon tunawa. Mutane da yawa suna ganin hakan ya fi natsuwa. Kuna iya komawa ga hotuna a ɓoye da taɓawa ɗaya idan kun fi so."
+      },
+      {
+        "q": "Kyauta ne, kuma ina bukatar rajista?",
+        "a": "Eh, kyauta ne, kuma babu asusu, rajista ko saukewa. Yana aiki a burauzar yanar gizo a waya, tablet ko kwamfuta."
+      },
+      {
+        "q": "Za mu iya amfani da hotunan iyalinmu?",
+        "a": "Eh. Ku gwada Haɗa hotunan kanku, wanda yake ba ku damar zaɓar hotuna daga na’urarku. Hotunan suna zama a burauzarku kuma ba a aika su ba."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Nemo iri ɗaya",
+    "seoTitle": "Nemo Hoto Iri Ɗaya: Wasa Mai Sauƙi ga Masu Mantuwa",
+    "h1": "Nemo Hoto Iri Ɗaya",
+    "description": "Hoto ɗaya a sama, biyu zuwa huɗu a ƙasa. Ku taɓa wanda yake iri ɗaya. Wasan hotuna mai natsuwa na kyauta ga masu rayuwa da mantuwa, ba tare da agogo ba.",
+    "short": "Ku kalli hoton da ke sama ku taɓa iri ɗaya a ƙasa.",
+    "players": "Mutum 1 ko 2",
+    "intro": "Hoto ɗaya yana a saman allo. A ƙasansa akwai hotuna biyu, uku ko huɗu. Ku taɓa wanda yake iri ɗaya. Zaɓi ɗaya ne mai sauƙi a lokaci guda, tare da isasshen wurin yin hira.",
+    "howTo": [
+      "Ku zaɓi hotuna biyu, uku ko huɗu da za a zaɓa daga ciki. Biyu ne mafi sauƙi.",
+      "Ku kalli hoton da ke sama tare.",
+      "Ku taɓa hoto iri ɗaya a ƙasa. Ana yi masa alama da daidai da ƴan kalmomi masu dumi.",
+      "Idan aka taɓa wani hoto daban, wasan kawai yana faɗin sunansa kuma yana jira. Ku ɗauki lokacinku.",
+      "Ku taɓa “Hoto na gaba” idan kun shirya don wani."
+    ],
+    "tips": [
+      "Ku yi magana game da kowane hoto kafin zaɓa: launuka, siffofi, inda za a iya ganinsa.",
+      "Zaɓi biyu ba “mai sauƙi da yawa” ba ne. Manufar lokaci ne mai daɗi, ba ƙalubale ba.",
+      "Idan taɓawa tana da wuya, mutumin zai iya nuna da yatsa ku kuma ku taɓa masa."
+    ],
+    "faq": [
+      {
+        "q": "Akwai agogo ko maki?",
+        "a": "A’a. Babu agogo, maki, ƙidayar motsi ko rashin nasara. Kuna iya tsayawa a kowane lokaci, kuma tsayawa rabin hanya hanya ce mai kyau ta ƙarewa."
+      },
+      {
+        "q": "Me zai faru idan aka taɓa hoton da bai dace ba?",
+        "a": "Babu abu mara daɗi. Babu ƙara, jan alama ko girgiza. Wasan yana faɗin sunan hoton da aka taɓa kuma yana jiran taɓawa ta gaba."
+      },
+      {
+        "q": "Kyauta ne, kuma ina bukatar rajista?",
+        "a": "Eh, kyauta ne, kuma babu asusu, rajista ko saukewa. Yana aiki a burauzar yanar gizo a waya, tablet ko kwamfuta."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Haɗa inuwa",
+    "seoTitle": "Wasan Haɗa Inuwa ga Masu Mantuwa: Kyauta a Intanet",
+    "h1": "Haɗa Inuwa: Wasan Hotuna Mai Natsuwa",
+    "description": "Inuwa mai duhu a sama, hotuna biyu zuwa huɗu a ƙasa. Ku taɓa hoton da ya yi inuwar. Wasan haɗa inuwa mai natsuwa na kyauta ga masu mantuwa, ba tare da agogo ba.",
+    "short": "Ku kalli inuwar ku taɓa hoton da ya yi ta.",
+    "players": "Mutum 1 ko 2",
+    "intro": "Haɗa inuwa aiki ne sananne daga takardun aiki da aka buga, a nan da manyan hotuna kuma babu abin da za a buga. Inuwa mai laushi tana a saman allo, kuma hotuna biyu, uku ko huɗu suna jira a ƙasa. Ku taɓa wanda ya yi inuwar. Siffofi kamar keke, laima ko kofin shayi suna da sauƙin yin magana a kansu.",
+    "howTo": [
+      "Ku zaɓi hotuna biyu, uku ko huɗu da za a zaɓa daga ciki. Biyu ne mafi sauƙi.",
+      "Ku kalli inuwar tare. Wace siffa ce? Doguwa ce ko zagaye?",
+      "Ku taɓa hoton da ya yi inuwar. Sunansa yana bayyana a ƙarƙashin inuwar.",
+      "Idan aka taɓa wani hoto daban, wasan kawai yana faɗin sunansa kuma yana jira. Ku ɗauki lokacinku.",
+      "Ku taɓa “Inuwa ta gaba” idan kun shirya don wata."
+    ],
+    "tips": [
+      "Ku bi bayanin inuwar da yatsa ku yi magana a kan siffar.",
+      "Idan inuwa tana da wuya a yau, ku koma “Nemo iri ɗaya”, inda hotuna suke kama da juna.",
+      "Ku yi magana game da hoton bayan an same shi: “Mun taɓa da laima irin wannan.”"
+    ],
+    "faq": [
+      {
+        "q": "Akwai agogo ko maki?",
+        "a": "A’a. Babu agogo, maki, ƙidayar motsi ko rashin nasara. Kuna iya tsayawa a kowane lokaci, kuma tsayawa rabin hanya hanya ce mai kyau ta ƙarewa."
+      },
+      {
+        "q": "Haɗa inuwa yana da kyau ga masu mantuwa?",
+        "a": "Yana iya zama aiki mai daɗi da sauƙi ga wasu mutane, musamman a matakan farko. Siffofi sun fi kalmomi sauƙin ganewa. Don jin daɗi da hira ne, ba gwaji ba, kuma ba ya magance ko rage mantuwa. Idan yana kawo takaici, ku gwada “Nemo iri ɗaya” ko ku kalli hotuna tare kawai."
+      },
+      {
+        "q": "Me zai faru idan aka taɓa hoton da bai dace ba?",
+        "a": "Babu abu mara daɗi. Babu ƙara, jan alama ko girgiza. Wasan yana faɗin sunan hoton da aka taɓa kuma yana jiran taɓawa ta gaba."
+      },
+      {
+        "q": "Kyauta ne, kuma ina bukatar rajista?",
+        "a": "Eh, kyauta ne, kuma babu asusu, rajista ko saukewa. Yana aiki a burauzar yanar gizo a waya, tablet ko kwamfuta."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Rarrabe tare",
+    "seoTitle": "Wasan Rarrabewa ga Masu Mantuwa: Rarrabe Tare",
+    "h1": "Rarrabe Tare: Aikin Rarraba Hotuna",
+    "description": "Ku taɓa hoto, sannan ku taɓa kwandon da yake ciki: kicin ko lambu, ’ya’yan itace ko dabbobi. Aikin rarrabewa mai natsuwa na kyauta ga masu rayuwa da mantuwa.",
+    "short": "A sa kowane hoto a kwandonsa: kicin ko lambu, da ƙari.",
+    "players": "Mutum 1 ko 2",
+    "intro": "Rarrabewa aiki ne sananne kuma mai gamsarwa na yau da kullum, kamar ajiye kayan abinci ko haɗa safa. Ku taɓa hoto, sannan ku taɓa kwandon da yake ciki. Babu gaggawa kuma babu karkacewa.",
+    "howTo": [
+      "Ku zaɓi jigo: kicin da lambu, ’ya’yan itace da dabbobi, ko gida da tafiya.",
+      "Ku taɓa hoto. Yana samun iyakar zinariya.",
+      "Ku taɓa kwandon da yake ciki. Hoton yana shiga wannan kwandon.",
+      "Idan yana cikin ɗayan kwandon, wasan yana faɗin haka a hankali kuma yana jira.",
+      "Idan an rarraba kowane hoto, ku duba cikin kwandunan tare."
+    ],
+    "tips": [
+      "A rayuwa ta gaske sau da yawa babu amsar kuskure. Idan wani ya ce tukunyar ban ruwa tana kicin, ku tambaye shi dalili. Kuna iya samun labari mai kyau.",
+      "Ku yi amfani da hotunan a matsayin tambaya: “Me kuka shuka a lambunku?”",
+      "Rarraba abubuwa na gaske, kamar cokula da wuƙaƙe ko maɓallai bisa launi, kyakkyawan ci gaba ne nesa da allo."
+    ],
+    "faq": [
+      {
+        "q": "Akwai agogo ko maki?",
+        "a": "A’a. Babu agogo, maki, ƙidayar motsi ko rashin nasara. Kuna iya tsayawa a kowane lokaci, kuma tsayawa rabin hanya hanya ce mai kyau ta ƙarewa."
+      },
+      {
+        "q": "Me ya sa rarrabewa?",
+        "a": "Mutane da yawa suna jin daɗin rarrabewa saboda yana kama da aiki mai amfani kuma sananne. Hakanan yana da sauƙin yin magana game da hotunan yayin yi."
+      },
+      {
+        "q": "Kyauta ne, kuma ina bukatar rajista?",
+        "a": "Eh, kyauta ne, kuma babu asusu, rajista ko saukewa. Yana aiki a burauzar yanar gizo a waya, tablet ko kwamfuta."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Wasan haɗa guntun hoto",
+    "seoTitle": "Wasan Haɗa Guntaye Mai Sauƙi ga Masu Mantuwa: Guntaye 4 ko 9",
+    "h1": "Wasan Haɗa Guntun Hoto: Mai Sauƙi",
+    "description": "Wasan haɗa guntaye mai sauƙi a intanet ga masu rayuwa da mantuwa: manyan guntaye 4 ko 9, cikakken hoton yana nan a bayyane, kuma kuna taɓa guntaye biyu don musanya su.",
+    "short": "Ku taɓa guntaye biyu don musanya su har hoton ya cika.",
+    "players": "Mutum 1 ko 2",
+    "intro": "Ana yanke hoto mai daɗin gani zuwa manyan guntaye huɗu ko tara a gauraya su. Cikakken hoton yana nan a bayyane a matsayin jagora. Ku taɓa guntu ɗaya, sannan wani, sai su musanya wurare. Babu buƙatar ja.",
+    "howTo": [
+      "Ku zaɓi hoto da guntaye 4 ko 9. Huɗu farawa ce mai natsuwa.",
+      "Ku kalli cikakken hoton da ke sama.",
+      "Ku taɓa guntu, sannan ku taɓa wurin da ya kamata ya tafi. Guntaye biyun suna musanya.",
+      "Guntayen da suke wurin da ya dace suna samun ƙaramar alamar daidai.",
+      "Idan hoton ya cika, ku ji daɗinsa tare, sannan ku zaɓi wani."
+    ],
+    "tips": [
+      "Taɓa guntaye biyu don musanya su ya fi ja sauƙi ga mutane da yawa.",
+      "Ku yi magana game da hoton yayin da yake haɗuwa: “Ga jan rufin.”",
+      "Wasan haɗa guntaye na katako na gaske mai manyan guntaye 12 zuwa 24 shi ma kyakkyawan aikin teburi ne."
+    ],
+    "faq": [
+      {
+        "q": "Akwai agogo ko maki?",
+        "a": "A’a. Babu agogo, maki, ƙidayar motsi ko rashin nasara. Kuna iya tsayawa a kowane lokaci, kuma tsayawa rabin hanya hanya ce mai kyau ta ƙarewa."
+      },
+      {
+        "q": "Ina bukatar in ja guntayen?",
+        "a": "A’a. Ku taɓa guntu ɗaya, sannan wani, sai su musanya wurare. Wannan ya fi sauƙi da hannu mai rawa ko a ƙaramin allo."
+      },
+      {
+        "q": "Kyauta ne, kuma ina bukatar rajista?",
+        "a": "Eh, kyauta ne, kuma babu asusu, rajista ko saukewa. Yana aiki a burauzar yanar gizo a waya, tablet ko kwamfuta."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Kammala karin magana",
+    "seoTitle": "Kammala Karin Magana: Wasan Karin Magana ga Tsofaffi",
+    "h1": "Kammala Karin Magana",
+    "description": "Sanannun karin maganar Hausa da kalmar ƙarshe ta ɓace, kamar “Mai haƙuri yana dafa dutse har ya sha ___”. Ku taɓa zaɓi ko ku nuna ƙarshen, sannan ku yi hira a kai.",
+    "short": "Ku kammala sanannun karin magana tare, sannan ku yi magana a kansu.",
+    "players": "Mutum 1, 2 ko ƙungiya",
+    "intro": "Tsoffin karin magana galibi ana sansu tsawon rayuwa. Kowane kati yana nuna sanannen karin magana da kalmar ƙarshe ta ɓace, zaɓuɓɓuka uku, da maɓallin “Nuna ƙarshen”. Bayan ƙarshen, wata tambaya mai laushi tana gayyatar hira.",
+    "howTo": [
+      "Ku karanta karin maganar da murya tare.",
+      "Ku taɓa kalmar da ta kammala shi, ko ku taɓa “Nuna ƙarshen”.",
+      "Ku sake karanta dukan karin maganar ku yi magana a kai ta amfani da tambayar.",
+      "Ku taɓa “Karin magana na gaba” idan kun shirya."
+    ],
+    "tips": [
+      "Ku karanta a hankali ku bar tazara kafin kalmar ƙarshe. Sau da yawa mutane suna faɗinta kafin ku gama.",
+      "Idan wani ya ba da wani ƙarshe daban, ku ji daɗinsa. Wasu nau’ikan karin magana suna bambanta bisa iyali ko yanki.",
+      "A ƙungiya, mutum ɗaya yana karantawa kuma kowa yana shiga a ƙarshen."
+    ],
+    "faq": [
+      {
+        "q": "Akwai agogo ko maki?",
+        "a": "A’a. Babu agogo, maki, ƙidayar motsi ko rashin nasara. Kuna iya tsayawa a kowane lokaci, kuma tsayawa rabin hanya hanya ce mai kyau ta ƙarewa."
+      },
+      {
+        "q": "Idan muka zaɓi wata kalma daban fa?",
+        "a": "Wasan yana nuna ƙarshen da aka saba kuma ya wuce zuwa hira. Babu maki, kuma amsa daban ba laifi ba ce."
+      },
+      {
+        "q": "Kyauta ne, kuma ina bukatar rajista?",
+        "a": "Eh, kyauta ne, kuma babu asusu, rajista ko saukewa. Yana aiki a burauzar yanar gizo a waya, tablet ko kwamfuta."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Neman kalmomi da manyan haruffa",
+    "seoTitle": "Neman Kalmomi da Manyan Haruffa ga Masu Mantuwa, na Bugawa",
+    "h1": "Neman Kalmomi da Manyan Haruffa",
+    "description": "Wasan neman kalmomi da manyan haruffa na kyauta ga tsofaffi da masu mantuwa. Kalmomi kaɗan, a kwance da a tsaye kawai. Ku yi wasa a intanet ko ku buga.",
+    "short": "Manyan haruffa, kalmomi kaɗan, a kwance da a tsaye kawai. Ana iya bugawa ma.",
+    "players": "Mutum 1 ko 2",
+    "intro": "Ƙaramin grid mai manyan haruffa da kalmomi kaɗan kawai, duka suna karantuwa a kwance ko a tsaye. Ku taɓa harafin farko na kalma, sannan harafinta na ƙarshe. Kun fi son takarda? Ku buga sabon wasa da taɓawa ɗaya.",
+    "howTo": [
+      "Ku zaɓi jigo da girman grid.",
+      "Ku kalli jerin kalmomin. Kalmomi suna karantuwa a kwance (daga hagu zuwa dama) ko a tsaye (daga sama zuwa ƙasa).",
+      "Ku taɓa harafin farko na kalma, sannan ku taɓa harafinta na ƙarshe.",
+      "Kalmar da aka samu ana haskaka ta kuma a goge ta daga jerin.",
+      "Ku taɓa “Buga wannan wasa” don yin wasa a takarda da fensir ko alƙalami."
+    ],
+    "tips": [
+      "Ku nuna kalma a cikin jerin ku nemo harafinta na farko tare.",
+      "A takarda, alƙalamin haskakawa ya fi fensir sauƙin riƙewa.",
+      "Ku yi magana game da kalmomin jigon. Kalmomin ’ya’yan itace hanya ce ta halitta zuwa tunawa da tsinkar su, gasa ko kasuwa."
+    ],
+    "faq": [
+      {
+        "q": "Akwai agogo ko maki?",
+        "a": "A’a. Babu agogo, maki, ƙidayar motsi ko rashin nasara. Kuna iya tsayawa a kowane lokaci, kuma tsayawa rabin hanya hanya ce mai kyau ta ƙarewa."
+      },
+      {
+        "q": "Zan iya buga wasan neman kalmomi?",
+        "a": "Eh. Ku taɓa “Buga wannan wasa” don buga grid ɗin da ake yi da manyan rubutu, tare da jerin kalmomi a ƙasa. Kowane sabon wasa daban ne."
+      },
+      {
+        "q": "Kyauta ne, kuma ina bukatar rajista?",
+        "a": "Eh, kyauta ne, kuma babu asusu, rajista ko saukewa. Yana aiki a burauzar yanar gizo a waya, tablet ko kwamfuta."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Shafukan canza launi",
+    "seoTitle": "Shafukan Canza Launi ga Manya Masu Mantuwa (Kyauta)",
+    "h1": "Shafukan Canza Launi",
+    "description": "Shafukan canza launi masu sauƙi na manya da manyan wurare: ku taɓa launi, sannan ku taɓa hoton. Babu datti, babu launin kuskure, kuma ana iya buga kowane shafi kyauta.",
+    "short": "Ku taɓa launi, sannan wani sashe na hoton. Ana iya buga shafuka ma.",
+    "players": "Mutum 1 ko 2",
+    "intro": "Shafuka masu manyan siffofi masu sauƙi: fure a tukunya, gida, kofin shayi, malam buɗe mini littafi da jirgin ruwa. Ku taɓa launi, sannan ku taɓa wani sashe na hoton don cika shi. Babu launin kuskure.",
+    "howTo": [
+      "Ku zaɓi shafi.",
+      "Ku taɓa launi. Kowane launi an rubuta sunansa a kai.",
+      "Ku taɓa wani sashe na hoton don cika shi da wannan launi.",
+      "Kuna iya canza ra’ayi a kowane lokaci ta sake cika shi.",
+      "Ku taɓa “Buga wannan shafi” don samun shafi mara launi da za a yi wa launi da fensir ko alƙalami."
+    ],
+    "tips": [
+      "Ku ba da launuka biyu da za a zaɓa maimakon duka idan zaɓa yana da yawa.",
+      "Itatuwa masu launin shunayya da rana mai launin shuɗi ba laifi ba ne. Wannan don jin daɗin launi ne, ba daidaito ba.",
+      "Shafukan da aka buga suna da kyau da manyan alƙalami ko crayon, waɗanda suka fi sauƙin riƙewa."
+    ],
+    "faq": [
+      {
+        "q": "Akwai agogo ko maki?",
+        "a": "A’a. Babu agogo, maki, ƙidayar motsi ko rashin nasara. Kuna iya tsayawa a kowane lokaci, kuma tsayawa rabin hanya hanya ce mai kyau ta ƙarewa."
+      },
+      {
+        "q": "Waɗannan shafukan na yara ne?",
+        "a": "Mun zana abubuwa masu natsuwa da sauƙi maimakon zane-zanen yara, don haka shafukan sun dace da manya. Manyan siffofi suna sa canza launi ya zama mai sauƙi ba tare da ya zama na yara ba."
+      },
+      {
+        "q": "Kyauta ne, kuma ina bukatar rajista?",
+        "a": "Eh, kyauta ne, kuma babu asusu, rajista ko saukewa. Yana aiki a burauzar yanar gizo a waya, tablet ko kwamfuta."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Katunan hira",
+    "seoTitle": "Masu Fara Hira ga Masu Mantuwa: Katunan Hotuna",
+    "h1": "Katunan Hira",
+    "description": "Katunan hotuna masu tambayoyin fara hira masu laushi ga masu rayuwa da mantuwa: babu jarrabawa, babu amsa madaidaiciya. Ku yi amfani da su a allo ko ku buga su.",
+    "short": "Katunan hotuna masu buɗaɗɗun tambayoyi masu laushi. Babu jarrabawa.",
+    "players": "Mutum 2 ko ƙungiya",
+    "intro": "Kowane kati yana haɗa sanannen hoto da gayyata buɗaɗɗiya zuwa hira, kamar “Wane irin yanayi kuka fi so?” Babu amsa madaidaiciya kuma babu abin da za a tuna. Ku zaɓi jigo ko ku gauraya duka.",
+    "howTo": [
+      "Ku zaɓi jigo, ko ku bar “Duk katunan”.",
+      "Ku karanta tambayar da murya ku kalli hoton tare.",
+      "Ku saurara, ku faɗi amsarku, ku bar hirar ta yi yawo.",
+      "Ku taɓa “Kati na gaba” idan kun shirya, ko ku zauna da kati ɗaya muddin kuna so.",
+      "Ku taɓa “Buga dukan katuna” don yanke saiti na takarda."
+    ],
+    "tips": [
+      "Ku amsa tambayar ku ma. Yana jin kamar hira, ba tambayoyin bincike ba.",
+      "Ku bi labarin, ba hujjojin ba. Idan cikakkun bayanai suka canza, ba laifi ba ne.",
+      "Idan kati ya taɓa wani abu mai bakin ciki, ku yarda da jin ɗin ku koma wani kati a hankali."
+    ],
+    "faq": [
+      {
+        "q": "Me ya sa babu tambayoyin “Kuna tuna…?”",
+        "a": "Tambayoyin da ke gwada tunani na iya zama kamar jarabawa su kawo kunya. Buɗaɗɗun gayyata kamar “Ku ba ni labarin…” suna sa kowa ya shiga, duk abin da ya tuna."
+      },
+      {
+        "q": "Zan iya buga katunan?",
+        "a": "Eh. “Buga dukan katuna” yana buga cikakken saitin da manyan rubutu, katuna da yawa a shafi, a shirye don yankewa."
+      },
+      {
+        "q": "Kyauta ne, kuma ina bukatar rajista?",
+        "a": "Eh, kyauta ne, kuma babu asusu, rajista ko saukewa. Yana aiki a burauzar yanar gizo a waya, tablet ko kwamfuta."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Haɗa hotunan kanku",
+    "seoTitle": "Yi Wasan Haɗawa daga Hotunan Iyali",
+    "h1": "Haɗa Hotunan Kanku: A Haɗa Hotunanku",
+    "description": "Ku mai da hotunan iyalinku wasan haɗawa mai natsuwa. Ku zaɓi hotuna 2 zuwa 6 a na’urarku; suna zama a burauzarku kuma ba a taɓa aika su ba.",
+    "short": "Ku zaɓi hotunanku ku haɗa su. Ba a aika komai ba.",
+    "players": "Mutum 2, kusa da juna",
+    "intro": "Ku zaɓi hotuna biyu zuwa shida daga wayarku, tablet ko kwamfutarku, kuma su zama wasan haɗawa da manyan hotuna a bayyane. Ana nuna hotunan ne kawai a cikin wannan shafi. Ba a aika, ajiye ko raba su ba, kuma suna ɓacewa idan kun rufe shafin.",
+    "howTo": [
+      "Ku taɓa “Zaɓi hotuna” ku ɗauki hotuna biyu zuwa shida.",
+      "Kowane hoto yana bayyana sau biyu. Ku taɓa ɗaya, sannan ku taɓa ɗan’uwansa.",
+      "Ku yi magana game da kowane hoto yayin da kuka same shi.",
+      "Idan kun gama, ku rufe shafin ko ku taɓa “Share hotuna”. Ba a ajiye komai ba."
+    ],
+    "tips": [
+      "Ku zaɓi hotuna bayyanannu na abubuwa masu daɗi da sananne: dabbar gida, lambu, wurin da kuke so, ranar aure.",
+      "Hotunan wurare da abubuwa na iya zama masu sauƙi fiye da fuskoki, kuma suna kauce wa matsin lambar faɗin sunan mutane.",
+      "Ku bar hotunan mutanen da suka rasu idan za su iya kawo baƙin ciki kwatsam, sai dai idan kun san suna kawo jin daɗi."
+    ],
+    "faq": [
+      {
+        "q": "Ana aika hotunana zuwa wani wuri?",
+        "a": "A’a. Shafin yana karanta hotunan da kuka zaɓa kai tsaye a burauzarku kuma yana nuna su a allonku. Ba a aika su zuwa gare mu ko wani ba, kuma suna ɓacewa idan kun rufe ko sake loda shafin."
+      },
+      {
+        "q": "Akwai agogo ko maki?",
+        "a": "A’a. Babu agogo, maki, ƙidayar motsi ko rashin nasara. Kuna iya tsayawa a kowane lokaci, kuma tsayawa rabin hanya hanya ce mai kyau ta ƙarewa."
+      },
+      {
+        "q": "Zan iya ajiye wasan don lokaci na gaba?",
+        "a": "Ba a burauza ba, da gangan, don kada a ajiye wani abu na sirri. Manhajar Golden Moments ta kyauta don iPhone da iPad tana iya ajiye kwafin hotuna da aka zaɓa a na’urarku."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bingo na hotuna",
+    "seoTitle": "Bingo na Hotuna ga Tsofaffi Masu Mantuwa: Na Bugawa",
+    "h1": "Bingo na Hotuna ga Ƙungiyoyi",
+    "description": "Bingo na hotuna na kyauta na bugawa ga gidajen kulawa da ƙungiyoyin tsofaffi, tare da babban mai kira a allo. Manyan hotuna da kalmomi, ba sai an karanta ba.",
+    "short": "Katunan bingo na hotuna na bugawa da mai kira a babban allo ga ƙungiyoyi.",
+    "players": "Ƙungiya ta mutum 2 zuwa 30",
+    "intro": "Bingo na gargajiya da hotuna maimakon lambobi, don haka babu wanda yake bukatar karanta ƙananan rubutu. Ku buga saiti na katunan daban-daban, sannan ku yi amfani da mai kira a allo don nuna kowane hoto babba a talabijin, laptop ko tablet.",
+    "howTo": [
+      "Ku zaɓi murabba’ai 9 ko 16 a kowane kati da adadin ’yan wasa.",
+      "Ku taɓa “Buga katuna”. Kowane kati daban ne.",
+      "Ku buɗe mai kira a babban allo. Ku taɓa “Hoto na gaba” don nuna kowane hoto da sunansa.",
+      "’Yan wasa suna rufe hoton da ya yi daidai a katinsu da tsabar kuɗi, maɓalli ko alama.",
+      "Duk wanda ya cika layi, ko dukan katin, yana samun murna. Babu masu faɗuwa a wannan sigar: ku ci gaba da wasa har kowa ya sami layi."
+    ],
+    "tips": [
+      "Ku yi amfani da manyan alamomi kamar murfin kwalba. Ƙananan maɓallai na iya yin wuyar ɗauka.",
+      "Ku faɗi sunan hoton ku faɗi wani abu a kansa: “Jirgin ruwa. Wa ya taɓa shiga jirgin ruwa?”",
+      "Ku zaunar da masu wahalar gani kusa da allo, ku haɗa masu taimako da ’yan wasan da suke bukata.",
+      "Murabba’ai tara sun isa ga yawancin ƙungiyoyi. Ku riƙe zaman a kusan mintuna 20 zuwa 30."
+    ],
+    "faq": [
+      {
+        "q": "Yaya zan gudanar da bingo na hotuna a gidan kulawa?",
+        "a": "Ku buga kati ɗaya ga kowane ɗan wasa, ku sa mai kira a babban allon da kuke da shi, kuma ku kira hotuna a hankali, kuna faɗin sunan kowanne. Ku yi wasa har kowa ya sami layi, don kada a bar kowa a baya."
+      },
+      {
+        "q": "Bugawa kyauta ne?",
+        "a": "Eh. Ku buga katuna masu yawa kamar yadda kuke bukata, sau da yawa yadda kuke so, don amfanin kai ko ƙungiya."
+      },
+      {
+        "q": "Mutane za su iya yin wasa ba tare da karatu ba?",
+        "a": "Eh. Kowane murabba’i babban hoto ne, da sunansa a ƙasa ga masu son kalmomi."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Numfashi cikin natsuwa",
+    "seoTitle": "Ɗan Hutun Numfashi cikin Natsuwa ga Tsofaffi da Masu Kulawa",
+    "h1": "Ɗan Hutun Numfashi cikin Natsuwa",
+    "description": "Ɗan hutun numfashi a hankali da za a raba: da’ira mai laushi tana girma tana ƙanƙancewa har numfashi shida. Kuna iya tsayawa a kowane lokaci.",
+    "short": "Da’ira a hankali da za a yi numfashi tare da ita. A fara a tsaya idan kuna so.",
+    "players": "Mutum 1 ko 2",
+    "intro": "Wani lokaci mafi kyawun aiki shi ne ɗan hutu cikin shiru. Ku taɓa “Fara”, sannan ku jawo numfashi yayin da da’irar take girma kuma ku fitar da shi yayin da take ƙanƙancewa. Ku zaɓi saurin da ya fi jinkiri ko sauri. Ba magani ba ne, lokaci ne kawai na natsuwa da za a raba.",
+    "howTo": [
+      "Ku zauna cikin kwanciyar hankali kusa da juna.",
+      "Ku zaɓi gudu: a hankali ko mai laushi.",
+      "Ku taɓa “Fara”. Ku jawo numfashi yayin da da’irar take girma, ku fitar da shi yayin da take ƙanƙancewa.",
+      "Yana tsayawa da kansa bayan numfashi shida, ko ku taɓa “Tsaya” a duk lokacin da kuke so."
+    ],
+    "tips": [
+      "Ku riƙe hannu ko ku ajiye hannu a kan hannun mutumin idan hakan abin maraba ne.",
+      "Kada ku tilasta. Idan sun fi son kallo, ba laifi ba ne.",
+      "Idan wani yana da matsalar numfashi, ya yi numfashi kamar yadda aka saba kuma ya kalli da’irar kawai. Ku tambayi likita game da duk wata damuwa ta numfashi."
+    ],
+    "faq": [
+      {
+        "q": "Wannan motsa jikin numfashi ne na likita?",
+        "a": "A’a. Ɗan hutu ne mai sauƙi kuma na zaɓi don natsuwa da zama tare. Ba magani ba ne ga damuwa ko wata cuta. Ku yi magana da likita game da damuwar lafiya."
+      },
+      {
+        "q": "Da’irar tana motsawa ba tare da na fara ta ba?",
+        "a": "A’a. Babu abin da yake motsawa har sai kun taɓa Fara, kuma yana tsayawa bayan numfashi shida ko lokacin da kuka taɓa Tsaya. Idan an saita na’urarku don rage motsi, kalmomi suna canzawa ba tare da da’irar ta yi girma ba."
+      },
+      {
+        "q": "Kyauta ne, kuma ina bukatar rajista?",
+        "a": "Eh, kyauta ne, kuma babu asusu, rajista ko saukewa. Yana aiki a burauzar yanar gizo a waya, tablet ko kwamfuta."
+      }
+    ]
+  }
+}

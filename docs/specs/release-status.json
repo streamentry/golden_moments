@@ -654,6 +654,24 @@
         "reviewer": null,
         "evidence": null,
         "date": null
+      },
+      "bn": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "fa": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
+      },
+      "ha": {
+        "status": "unreviewed",
+        "reviewer": null,
+        "evidence": null,
+        "date": null
       }
     }
   }

@@ -1,0 +1,883 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Wasa",
+      "restart": "A sake farawa",
+      "soundOn": "Sautuka masu taushi a kunne",
+      "soundOff": "Sautuka masu taushi a kashe",
+      "done": "Ya isa a yanzu",
+      "feedbackQuestion": "Wannan ya taimaka a yau?",
+      "feedbackYes": "Eh",
+      "feedbackNo": "Ba sosai ba",
+      "feedbackThanks": "Mun gode da gaya mana."
+    },
+    "tile": {
+      "named": "{name}, kati na {n}",
+      "hidden": "Hoto a ɓoye, kati na {n}",
+      "withState": "{label}, {state}",
+      "matched": "An haɗa",
+      "selected": "An zaɓa",
+      "picture": "Hoto",
+      "photoNumber": "Hoto na {n}"
+    },
+    "pairs": {
+      "allTogether": "Dukan biyun sun haɗu. A sake wasa ko a huta.",
+      "photoPair": "Hotuna biyu, tare.",
+      "picturePair": "Hotuna biyu na {name|lower}, tare.",
+      "selected": "{name}. Yanzu ku nemo ɗan’uwansa.",
+      "mismatch": "Ku ɗauki lokacinku. Ku taɓa hoto don ci gaba.",
+      "mismatchNamed": "{a} da {b}. Ku ɗauki lokacinku. Ku taɓa hoto don ci gaba."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Ku taɓa hoto, sannan ku taɓa wanda ya yi daidai da shi.",
+      "guidanceHidden": "Ku taɓa katuna biyu don juya su. Ku nemi biyu iri ɗaya.",
+      "restart": "Sababbin hotuna",
+      "sizeLegend": "Adadin katuna",
+      "size": {
+        "one": "kati {n}",
+        "other": "katuna {n}"
+      },
+      "viewLegend": "Yadda za a yi wasa",
+      "viewShowing": "Hotuna a bayyane",
+      "viewHidden": "Hotuna a ɓoye",
+      "playAgain": "A sake wasa da sababbin hotuna",
+      "talk": "Mu yi magana game da hotunan tare"
+    },
+    "choose": {
+      "countLegend": "Adadin hotuna",
+      "count": "{n} da za a zaɓa daga ciki",
+      "thatOne": "Wannan shi ne {name|lower}. Ku ɗauki lokacinku."
+    },
+    "findTheSame": {
+      "guidance": "Ku kalli hoton da ke sama. Ku taɓa iri ɗaya a ƙasa.",
+      "yes": "Eh, {name|lower} iri ɗaya ne.",
+      "next": "Hoto na gaba"
+    },
+    "shadowMatch": {
+      "guidance": "Ku kalli inuwar da ke sama. Ku taɓa hoton da ya yi ta.",
+      "yes": "Eh, {name|lower} ne ya yi wannan inuwa.",
+      "next": "Inuwa ta gaba",
+      "shadowAlt": "Inuwa da za a haɗa",
+      "foundAlt": "Inuwar {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Ku taɓa hoto, sannan ku taɓa kwandon da yake ciki.",
+      "restart": "Sababbin hotuna",
+      "themeLegend": "Jigo",
+      "selected": "{name}. Yanzu ku taɓa kwandon da zai shiga.",
+      "pickFirst": "Da farko ku taɓa hoto, sannan ku taɓa kwando.",
+      "hint": "{name|lower} na iya shiga “{basket}”. Ku taɓa wannan kwando don sa shi a ciki.",
+      "placed": "{name|lower} yana cikin “{basket}”.",
+      "sorted": "An rarraba komai. Ku duba cikin kwandunan tare, ko ku gwada wani jigo.",
+      "basket": {
+        "one": "Kwandon {basket}, hoto {count} a ciki",
+        "other": "Kwandon {basket}, hotuna {count} a ciki"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Ku taɓa guntu ɗaya, sannan ku taɓa wani. Suna musanya wurare.",
+      "restart": "A sake gauraya",
+      "pictureLegend": "Hoto",
+      "pictures": {
+        "sailboat": "Jirgin ruwa",
+        "house": "Gida",
+        "balloon": "Balan-balan",
+        "sunflower": "Furen rana",
+        "lighthouse": "Hasumiyar haske",
+        "cat": "Kyanwa"
+      },
+      "sizeLegend": "Guntaye",
+      "size": {
+        "one": "guntu {n}",
+        "other": "guntaye {n}"
+      },
+      "pickedUp": "An ɗauki guntu. Yanzu ku taɓa inda ya kamata ya tafi.",
+      "whole": "{name|lower} ya sake cika. Ku zaɓi wani hoto a duk lokacin da kuke so.",
+      "swapped": {
+        "one": "An musanya. Guntu {correct} cikin {total} yana wurinsa.",
+        "other": "An musanya. Guntaye {correct} cikin {total} suna wurarensu."
+      },
+      "guideAlt": "Cikakken hoton: {name}",
+      "guideText": "Haka hoton yake idan ya cika.",
+      "piece": "Guntu a {place}",
+      "pieceInPlace": ", a wurin da ya dace",
+      "piecePickedUp": ", an ɗauke shi",
+      "places4": [
+        "sama ta hagu",
+        "sama ta dama",
+        "ƙasa ta hagu",
+        "ƙasa ta dama"
+      ],
+      "places9": [
+        "sama ta hagu",
+        "sama a tsakiya",
+        "sama ta dama",
+        "tsakiya ta hagu",
+        "tsakiya",
+        "tsakiya ta dama",
+        "ƙasa ta hagu",
+        "ƙasa a tsakiya",
+        "ƙasa ta dama"
+      ],
+      "done": "Hoton ya sake cika. A sake wasa ko a huta.",
+      "playAgain": "A sake gauraya"
+    },
+    "finishTheSaying": {
+      "guidance": "Ku karanta karin maganar tare, sannan ku taɓa kalmar da ta kammala shi.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Eh, “{start} {end}.”",
+      "otherEnding": "“{word}” ma yana aiki. Karin maganar da aka saba tana ƙarewa da “{end}”.",
+      "revealed": "Karin maganar ita ce “{start} {end}.”",
+      "choicesLabel": "Ku zaɓi kalmar ƙarshe",
+      "show": "Nuna ƙarshen",
+      "talk": "Mu yi magana a kai: ",
+      "next": "Karin magana na gaba"
+    },
+    "wordSearch": {
+      "guidance": "Kalmomi suna tafiya a kwance ko a tsaye. Ku taɓa harafin farko na kalma, sannan harafinta na ƙarshe.",
+      "restart": "Sabon wasa",
+      "themeLegend": "Jigo",
+      "sizeLegend": "Girman grid",
+      "size": {
+        "one": "{n} da {n} (kalma {words})",
+        "other": "{n} da {n} (kalmomi {words})"
+      },
+      "print": "Buga wannan wasa",
+      "letterChosen": "An zaɓi harafi {letter}. Yanzu ku taɓa harafin ƙarshe na kalmar.",
+      "found": "An samo {word}.",
+      "foundAll": "An samo {word}. Wannan shi ne kowace kalma. A sake wasa ko a huta.",
+      "tryAgain": "Ku ɗauki lokacinku. Ku taɓa harafin farko na kalma, sannan harafinta na ƙarshe.",
+      "gridLabel": "Grid na haruffa, layuka {n} na haruffa {n}. Ku yi amfani da maɓallan kibiya don motsawa tsakanin haruffa.",
+      "cell": "{letter}, layi {row}, ginshiƙi {col}",
+      "cellFound": ", ɓangaren kalmar da aka samo",
+      "wordsHeading": "Kalmomin da za a nema",
+      "wordFound": " (an samo)",
+      "sheetTitle": "Neman kalmomi: {theme}",
+      "sheetNote": "Kalmomi suna tafiya a kwance ko a tsaye.",
+      "unavailable": "Grid na haruffa bai dace da wannan harshe ba, don haka ba a bayar da wasan neman kalmomi a nan. Ku gwada wasannin hotuna."
+    },
+    "coloring": {
+      "guidance": "Ku taɓa launi, sannan ku taɓa wani sashe na hoton.",
+      "restart": "A share launuka",
+      "cleared": "Shafin ya sake zama mara launi.",
+      "pageLegend": "Shafi",
+      "print": "Buga wannan shafi",
+      "colorsLabel": "Launuka",
+      "paintChosen": "An zaɓi {paint}.",
+      "painted": "{part} yanzu {paint|lower} ne.",
+      "artLabel": "{page}, sassa {count} da za a yi wa launi",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ba a yi masa launi ba",
+      "paints": {
+        "red": "Ja",
+        "orange": "Lemu",
+        "yellow": "Rawaya",
+        "green": "Kore",
+        "blue": "Shuɗi",
+        "purple": "Shunayya",
+        "pink": "Ruwan hoda",
+        "brown": "Ruwan ƙasa",
+        "sky-blue": "Shuɗin sama",
+        "cream": "Kirim",
+        "gray": "Toka",
+        "white": "Fari"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Ku karanta katin da murya. Babu amsa madaidaiciya.",
+      "position": "Kati na {n} cikin {total}",
+      "themeLegend": "Jigo",
+      "next": "Kati na gaba",
+      "previous": "Kati na baya",
+      "print": "Buga dukan katuna",
+      "sheetTitle": "Katunan hira"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Ku fara da zaɓar hotunanku.",
+      "guidance": "Ku taɓa hoto, sannan ku taɓa wanda ya yi daidai da shi.",
+      "restart": "A sake gauraya su",
+      "intro": "**Ku zaɓi hotuna 2 zuwa 6** daga wannan na’ura. Ana nuna su a wannan shafi kaɗai kuma ba a taɓa aika ko ajiye su ba.",
+      "choose": "Zaɓi hotuna",
+      "chooseDifferent": "Zaɓi wasu hotuna",
+      "clear": "Share hotuna",
+      "cleared": "An share hotuna daga wannan shafi.",
+      "atLeastTwo": "Don Allah ku zaɓi aƙalla hotuna biyu.",
+      "usingFirst": "Ana amfani da hotuna {max} na farko.",
+      "skipped": {
+        "one": "Fayil {count} ba hoto ba ne da za mu iya nunawa.",
+        "other": "Fayiloli {count} ba hotuna ba ne da za mu iya nunawa."
+      },
+      "playAgain": "A sake wasa da waɗannan hotuna",
+      "empty": "Hotunanku za su bayyana a nan, kowanne sau biyu."
+    },
+    "pictureBingo": {
+      "guidance": "Da farko ku buga katunan. Sannan ku nuna wannan mai kira a babban allon da kuke da shi.",
+      "called": {
+        "one": "{name}. An kira hoto {called} cikin {total}.",
+        "other": "{name}. An kira hotuna {called} cikin {total}."
+      },
+      "start": "Ku taɓa “Hoto na gaba” don kiran hoto na farko.",
+      "restart": "A fara sabon wasa",
+      "squaresLegend": "Murabba’ai a kowane kati",
+      "squares": "Murabba’ai {n} ({side} da {side})",
+      "cardsLegend": "Adadin katunan da za a buga",
+      "cards": {
+        "one": "kati {n}",
+        "other": "katuna {n}"
+      },
+      "print": {
+        "one": "A buga katin bingo {n}",
+        "other": "A buga katunan bingo {n}"
+      },
+      "ready": "A shirye a duk lokacin da kuka shirya",
+      "next": "Hoto na gaba",
+      "allCalled": "An kira kowane hoto",
+      "alreadyCalled": "An riga an kira",
+      "sheetTitle": "Bingo na hotuna · kati {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Ku jawo numfashi yayin da da’irar take girma, ku fitar da shi yayin da take ƙarami. Yana tsayawa da kansa bayan numfashi shida.",
+      "paceLegend": "Gudu",
+      "paceSlow": "A hankali (daƙiƙa 5 kowane gefe)",
+      "paceGentle": "Mai laushi (daƙiƙa 4 kowane gefe)",
+      "ready": "A shirye a duk lokacin da kuka shirya",
+      "in": "Ku jawo numfashi",
+      "hold": "Ku huta",
+      "out": "Ku fitar da numfashi",
+      "start": "Fara",
+      "stop": "Tsaya",
+      "started": "An fara. Ku jawo numfashi yayin da da’irar take girma.",
+      "stopped": "An tsaya.",
+      "finished": "Wannan numfashi shida ne a hankali. Ku sake farawa a duk lokacin da kuke so."
+    }
+  },
+  "pictures": {
+    "teacup": "Kofin shayi",
+    "kettle": "Tukunyar shayi",
+    "bread": "Burodi",
+    "frying-pan": "Kaskon suya da ƙwai",
+    "cake": "Kek ɗin ranar haihuwa",
+    "sunflower": "Furen rana",
+    "tulip": "Jan fure",
+    "watering-can": "Tukunyar ban ruwa",
+    "potted-plant": "Tsiro a tukunya",
+    "tree": "Itace",
+    "bird": "Tsuntsu a kan reshe",
+    "butterfly": "Malam buɗe mini littafi",
+    "dog": "Kare",
+    "cat": "Kyanwa",
+    "fish": "Kifin zinariya",
+    "apple": "Jar tuffa",
+    "pear": "Pear",
+    "strawberry": "Strawberry",
+    "banana": "Ayaba",
+    "lemon": "Lemo",
+    "cherries": "Cherry",
+    "house": "Gida",
+    "lamp": "Fitila",
+    "armchair": "Kujera mai daɗi",
+    "key": "Tsohon makulli",
+    "umbrella": "Laima",
+    "sailboat": "Jirgin ruwa",
+    "car": "Tsohuwar mota mai kyau",
+    "bicycle": "Keke",
+    "balloon": "Balan-balan",
+    "lighthouse": "Hasumiyar haske",
+    "sun": "Rana",
+    "moon": "Wata da taurari"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "Da zafi-zafi ake bugun",
+        "end": "ƙarfe",
+        "others": [
+          "gwal",
+          "itace"
+        ],
+        "prompt": "Wane aiki da hannu kuka sani ko kuka taɓa gani?"
+      },
+      {
+        "start": "Ruwa ba ya tsami",
+        "end": "banza",
+        "others": [
+          "kullum",
+          "da safe"
+        ],
+        "prompt": "Wane abin sha kuke so a lokacin zafi?"
+      },
+      {
+        "start": "Gani ya kori",
+        "end": "ji",
+        "others": [
+          "tafiya",
+          "magana"
+        ],
+        "prompt": "Wane hoto ko wuri kuke so ku riƙa kallo?"
+      },
+      {
+        "start": "Haƙuri maganin",
+        "end": "duniya",
+        "others": [
+          "gajiya",
+          "ɗaci"
+        ],
+        "prompt": "Me ke taimaka muku ku natsu?"
+      },
+      {
+        "start": "Mai haƙuri yana dafa dutse har ya sha",
+        "end": "romonsa",
+        "others": [
+          "ruwansa",
+          "shayinsa"
+        ],
+        "prompt": "Wane abinci aka fi so a gidanku?"
+      },
+      {
+        "start": "Sannu ba ta hana",
+        "end": "zuwa",
+        "others": [
+          "cin abinci",
+          "barci"
+        ],
+        "prompt": "Kuna son yin abubuwa a hankali? Wanne?"
+      },
+      {
+        "start": "Rashin sani ya fi dare",
+        "end": "duhu",
+        "others": [
+          "tsawo",
+          "sanyi"
+        ],
+        "prompt": "Wane abu kuka koya a rayuwa da kuke so ku koya wa wani?"
+      },
+      {
+        "start": "Hannu ɗaya ba ya ɗaukar",
+        "end": "jinka",
+        "others": [
+          "ruwa",
+          "dutse"
+        ],
+        "prompt": "Waɗanne ayyuka ne iyalinku suke yi tare a gida?"
+      },
+      {
+        "start": "Zaman lafiya ya fi zama",
+        "end": "ɗan sarki",
+        "others": [
+          "mai kuɗi",
+          "a gari"
+        ],
+        "prompt": "Me ke sa ku jin daɗin zama a wuri?"
+      },
+      {
+        "start": "Magana",
+        "end": "jari ce",
+        "others": [
+          "kyauta ce",
+          "waƙa ce"
+        ],
+        "prompt": "Wa kuke so ku yi hira da shi ko ita?"
+      },
+      {
+        "start": "Wanda bai ji bari ba, zai ji",
+        "end": "hoho",
+        "others": [
+          "kira",
+          "labari"
+        ],
+        "prompt": "Wace shawara mai kyau aka taɓa ba ku?"
+      },
+      {
+        "start": "Ilimi gishirin zaman",
+        "end": "duniya",
+        "others": [
+          "gari",
+          "gida"
+        ],
+        "prompt": "Me kuke so ku koya, ko ku koya wa wani?"
+      },
+      {
+        "start": "Aikin banza ya fi zaman",
+        "end": "banza",
+        "others": [
+          "gida",
+          "hira"
+        ],
+        "prompt": "Wane aiki kuka fi so a rayuwarku?"
+      },
+      {
+        "start": "Gaskiya ta fi",
+        "end": "kwabo",
+        "others": [
+          "gwal",
+          "kaya"
+        ],
+        "prompt": "Wanene mutum mai gaskiya da kuka sani?"
+      },
+      {
+        "start": "Tsintsiya ɗaya ba ta",
+        "end": "shara",
+        "others": [
+          "tsaya",
+          "bushe"
+        ],
+        "prompt": "Wa kuke so ku yi aiki tare da shi?"
+      },
+      {
+        "start": "Ba a san maci tuwo ba sai miya ta",
+        "end": "ƙare",
+        "others": [
+          "yi daɗi",
+          "yi zafi"
+        ],
+        "prompt": "Wane irin tuwo ko miya kuka fi so?"
+      },
+      {
+        "start": "Ƙarya fure take, ba ta",
+        "end": "’ya’ya",
+        "others": [
+          "ruwa",
+          "ganye"
+        ],
+        "prompt": "Wace fure ko itace kuke so?"
+      },
+      {
+        "start": "Allah ɗaya gari",
+        "end": "bamban-bamban",
+        "others": [
+          "babba-babba",
+          "kusa-kusa"
+        ],
+        "prompt": "Wane gari ko wuri ne kuke so ku ziyarta, ko kuka so ziyarta?"
+      }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEFGHIKLMNORSTUWYZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "’Ya’yan itace",
+          "words": [
+            "AYABA",
+            "LEMU",
+            "GWANDA",
+            "DABINO",
+            "INABI",
+            "TUFFA",
+            "ABARBA",
+            "KWAKWA",
+            "LEMO"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Lambu",
+          "words": [
+            "FURE",
+            "ITACE",
+            "RUWA",
+            "GONA",
+            "GANYE",
+            "IRI",
+            "WARDI",
+            "TSIRO",
+            "SHUKA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Girki",
+          "words": [
+            "KOFI",
+            "MIYA",
+            "TUWO",
+            "SHAYI",
+            "NONO",
+            "WUTA",
+            "KOSAI",
+            "TURMI",
+            "BURODI"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Yanayi",
+          "words": [
+            "RANA",
+            "DAMINA",
+            "ISKA",
+            "SANYI",
+            "ZAFI",
+            "HAZO",
+            "RANI",
+            "SAMA",
+            "DARE"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Dabbobi",
+          "words": [
+            "KARE",
+            "KAJI",
+            "SHANU",
+            "DOKI",
+            "RAKUMI",
+            "AKUYA",
+            "KAZA",
+            "KYANWA",
+            "KIFI"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Gida",
+          "words": [
+            "GIDA",
+            "KOFA",
+            "GADO",
+            "KUJERA",
+            "TEBUR",
+            "FITILA",
+            "RUFI",
+            "BANGO",
+            "AGOGO"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Duk katunan",
+        "food": "Abinci",
+        "home": "Gida",
+        "outdoors": "A waje",
+        "animals": "Dabbobi",
+        "travel": "Tafiye-tafiye",
+        "work": "Aiki da sha’awa",
+        "music": "Waƙa da nishaɗi",
+        "seasons": "Lokutan shekara"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Wane kamshi daga kicin ne kuka fi so?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Wane abinci za ku zaɓa don bikin murna?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Ku ba ni labarin ’ya’yan itacen da kuka fi so, ko wani abin zaki."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Yaya kuke son shayinku?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Wane abinci ne yake sa karin kumallo ya yi daɗi?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Kun taɓa tsinko ’ya’yan itace daga jikin bishiya ko shuka?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Mai daɗi ko mai tsami: wanne kuka fi so?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Wane abinci ne yake tuna muku wani lokaci na shekara?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Ku ba ni labarin gidan da kuka ji daɗin zama a ciki."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ina kuka fi son zama ku huta?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Me kuke so ku yi da yamma lokacin da ake natsuwa?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Wane abu mai daraja za ku ajiye a akwati na musamman?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Wa za ku gayyata gidanku a sha shayi tare?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Me kuke so ku yi a ranar da ake ruwan sama?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Waɗanne furanni za ku shuka a lambu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Ku ba ni labarin wata bishiya ko wurin inuwa da kuke so."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Mene ne mafi daɗi game da kasancewa a lambu ko gona?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Wane launin fure kuka fi so?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Kuna son samun tsirrai a gida?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Yaya kuke ganin kyakkyawar rana mai hasken rana?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Ku ba ni labarin wani kare da kuka sani."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Kyanwa ko kare, ko babu? Me kuke so game da su?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Waɗanne tsuntsaye kuke gani ko ji a waje?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Kun taɓa kamun kifi?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Wace dabba ce mafi kyau da kuka taɓa gani?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Ku ba ni labarin mota da kuka so."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Za ku fi son kwana ɗaya a bakin ruwa ko a kan tudu?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Ina za ku so ku yi yawon keke?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Idan za ku iya shawagi a kan wani wuri, ina ne?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Wace tafiya kuka ji daɗinta?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Wane irin aiki kuka ji daɗin yi?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Wace sha’awa ce za ku iya yi na awoyi?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Menene kuka shahara da yin shi ko gyara shi?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Wace shawara za ku ba matashi da yake fara aiki?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Wace irin waƙa ce take sa ku so ku motsa ƙafafunku?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Me ke sa biki ya yi daɗi?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Wane mawaƙi kuke son sauraro?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Wane fim ko shiri kuke son sake kallo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Me kuka fi so a lokacin rani?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Me kuke so a lokacin kaka, lokacin girbi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Me ake so a yi da dare a lokacin sanyi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Mene ne alamun farko na farkon damina a wurinku?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Ruwan sama, rana ko sanyi: wanne kuka fi so?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Fure a tukunya",
+          "regions": {
+            "sky": "Bangon baya",
+            "table": "Tebur",
+            "stem": "Kara",
+            "leaf-left": "Ganyen hagu",
+            "leaf-right": "Ganyen dama",
+            "petal-1": "Ganyen fure na 1",
+            "petal-2": "Ganyen fure na 2",
+            "petal-3": "Ganyen fure na 3",
+            "petal-4": "Ganyen fure na 4",
+            "petal-5": "Ganyen fure na 5",
+            "petal-6": "Ganyen fure na 6",
+            "petal-7": "Ganyen fure na 7",
+            "petal-8": "Ganyen fure na 8",
+            "center": "Tsakiyar fure",
+            "pot": "Tukunya",
+            "pot-rim": "Bakin tukunya"
+          }
+        },
+        "house": {
+          "name": "Gida",
+          "regions": {
+            "sky": "Sama",
+            "sun": "Rana",
+            "grass": "Ciyawa",
+            "chimney": "Bututun hayaƙi",
+            "walls": "Bango",
+            "roof": "Rufi",
+            "door": "Kofa",
+            "window-left": "Taga ta hagu",
+            "window-right": "Taga ta dama",
+            "path": "Hanya"
+          }
+        },
+        "teacup": {
+          "name": "Kofin shayi",
+          "regions": {
+            "background": "Bangon baya",
+            "saucer": "Faranti",
+            "handle": "Hannun kofi",
+            "cup": "Kofi",
+            "band": "Zane a jikin kofi",
+            "tea": "Shayi"
+          }
+        },
+        "butterfly": {
+          "name": "Malam buɗe mini littafi",
+          "regions": {
+            "background": "Bangon baya",
+            "wing-top-left": "Fiffike na sama ta hagu",
+            "wing-top-right": "Fiffike na sama ta dama",
+            "wing-bottom-left": "Fiffike na ƙasa ta hagu",
+            "wing-bottom-right": "Fiffike na ƙasa ta dama",
+            "spot-left": "Alama a fiffiken hagu",
+            "spot-right": "Alama a fiffiken dama",
+            "body": "Jiki"
+          }
+        },
+        "sailboat": {
+          "name": "Jirgin ruwa",
+          "regions": {
+            "sky": "Sama",
+            "sea": "Teku",
+            "sail-big": "Babban kyallen jirgi",
+            "sail-small": "Ƙaramin kyallen jirgi",
+            "mast": "Ginshiƙin jirgi",
+            "hull": "Jirgi",
+            "flag": "Tuta"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Girki da lambu",
+          "baskets": [
+            "A cikin kicin",
+            "A lambu"
+          ]
+        },
+        "fruit-animals": {
+          "label": "’Ya’yan itace da dabbobi",
+          "baskets": [
+            "’Ya’yan itace",
+            "Dabbobi"
+          ]
+        },
+        "home-travel": {
+          "label": "Gida da tafiya",
+          "baskets": [
+            "A gida",
+            "A waje, a kan hanya"
+          ]
+        }
+      }
+    }
+  }
+}

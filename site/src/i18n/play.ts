@@ -73,6 +73,15 @@ const TRANSLATIONS = new Map(
  */
 export const NO_LETTER_GRID: readonly string[] = ['zh-Hans', 'zh-Hant', 'ja', 'ko', 'th'];
 
+/**
+ * Languages that leave Finish the saying out because a translator could not
+ * supply 30 sayings they were sure are genuine. Padding the list with invented
+ * proverbs would put made-up "familiar" sayings in front of people with
+ * dementia, so the game is omitted instead (no page, card or hreflang) until a
+ * native speaker adds real ones and removes the language from this list.
+ */
+export const NO_SAYINGS_GAME: readonly string[] = ['ha'];
+
 /** `ui` sections every game uses (the frame and picture tiles). */
 export const SHARED_UI: readonly (keyof PlayUi)[] = ['frame', 'tile'];
 

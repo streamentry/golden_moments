@@ -90,6 +90,9 @@
 		D8E2BE1EA5253A0D1E7E4B1E /* Pods-Runner.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig"; sourceTree = "<group>"; };
 		F3602C49D22674B494512F2D /* pt-BR */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
 		FCF4F6545CDEA39DCA6CCC94 /* uk */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		00E802F1092C4CDBA6C66ECD /* bn */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = bn; path = bn.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		838A06A38BE23BED462CCEA5 /* fa */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = fa; path = fa.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1725D1F7527282438DE64FD7 /* ha */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = ha; path = ha.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -287,6 +290,9 @@
 				vi,
 				id,
 				th,
+				bn,
+				fa,
+				ha,
 			);
 			mainGroup = 97C146E51CF9000F007C117D;
 			packageReferences = (
@@ -488,6 +494,9 @@
 				C6A507080F88568A74AB5506 /* vi */,
 				CDDF1EEACF5C76CDEB4D1D56 /* id */,
 				41CC9A18DB6D3B091C0466D5 /* th */,
+				00E802F1092C4CDBA6C66ECD /* bn */,
+				838A06A38BE23BED462CCEA5 /* fa */,
+				1725D1F7527282438DE64FD7 /* ha */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";

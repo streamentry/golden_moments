@@ -10,6 +10,9 @@ import 'package:golden_moments/l10n/l10n.dart';
 const _appLocales = {
   'en', 'es', 'pt_BR', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', //
   'ar', 'hi', 'ja', 'ko', 'zh_Hans', 'zh_Hant', 'vi', 'id', 'th',
+  'bn',
+  'fa',
+  'ha',
 };
 const _baseFallbacks = {'pt', 'zh'};
 
