@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Sato",
+      "description": "Sato anu ramah ti sakuliah dunya"
+    },
+    "nature": {
+      "name": "Alam",
+      "description": "Pamandangan alam anu éndah"
+    },
+    "food": {
+      "name": "Dahareun",
+      "description": "Kadaharan sareng jajanan anu ngeunah"
+    },
+    "vintage": {
+      "name": "Mobil",
+      "description": "Mobil sareng treuk kanggo ditingali sareng diobrolkeun"
+    },
+    "flowers": {
+      "name": "Kembang",
+      "description": "Kembang anu mekar éndah sareng pamandangan kebon"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Sato Ternak",
+      "description": "Sato ternak anu ramah, siga nganjang ka lembur.",
+      "theme": "Kahirupan di lembur",
+      "images": {
+        "cow_1": "Sapi",
+        "pig_1": "Babi",
+        "chicken_1": "Jago",
+        "buffalo_1": "Munding",
+        "horse_1": "Kuda",
+        "duck_1": "Kulawarga meri",
+        "goat_1": "Embé",
+        "rabbit_1": "Kelenci"
+      }
+    },
+    "nature_mountains": {
+      "title": "Pamandangan Gunung",
+      "description": "Pamandangan gunung anu matak kagum",
+      "theme": "Kaéndahan alam",
+      "images": {
+        "mountain_1": "Puncak gunung katutup salju",
+        "mountain_2": "Gunung Fuji",
+        "mountain_3": "Lebak Pagunungan Alpen",
+        "mountain_4": "Puncak batu",
+        "mountain_5": "Pasir-pasir leuweung",
+        "mountain_6": "Gunung kasaput halimun"
+      }
+    },
+    "vintage_cars": {
+      "title": "Mobil jeung Treuk",
+      "description": "Mobil sareng treuk anu ngagurilap kanggo ditingali sareng diobrolkeun",
+      "theme": "Di jalan",
+      "images": {
+        "vintage_car_1": "Audi jingga nalika surup",
+        "vintage_car_2": "Mobil olahraga biru di gurun",
+        "vintage_car_3": "Bugatti pérak",
+        "vintage_car_4": "Porsche hideung di jalan",
+        "vintage_car_5": "BMW jingga di jalan anu dijajaran tangkal korma",
+        "vintage_car_6": "Mobil coupe biru deukeut bengkel",
+        "vintage_car_7": "Treuk pikap héjo",
+        "vintage_car_8": "SUV bodas di antara batu beureum",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Mobil biru kalayan juru bodas"
+      }
+    },
+    "animals_safari": {
+      "title": "Sato Safari",
+      "description": "Sato anu gagah ti safari Afrika",
+      "theme": "Sato liar",
+      "images": {
+        "lion_1": "Singa",
+        "elephant_2": "Gajah Afrika",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Zebra",
+        "rhino_5": "Badak",
+        "cheetah_6": "Citah",
+        "fox_7": "Rubah coklat",
+        "bear_8": "Biruang kutub",
+        "turtle_9": "Kuya coklat",
+        "squirrel_10": "Bajing coklat",
+        "macaw_11": "Macaw konéng jeung biru",
+        "tiger_12": "Macan",
+        "raccoon_13": "Rakun",
+        "wolf_14": "Serigala kulawu",
+        "crocodile_15": "Buaya",
+        "peacock_16": "Merak"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Kadaharan Amis",
+      "description": "Sababaraha kadaharan amis anu ngeunah kanggo dahar anjeun.",
+      "theme": "Kadaharan amis",
+      "images": {
+        "pastries_1": "Opat kuéh pastri",
+        "oreo_cookie_sandwiches_2": "Sandwich kuki Oreo",
+        "crepe_3": "Crepe",
+        "pancake_4": "Pancake",
+        "macarons_5": "Macaron",
+        "caramel_cake_6": "Kuéh karamél"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Kembang Tropis",
+      "description": "Titenan kaéndahan tropis ngaliwatan paket kembang éksotis ieu.",
+      "theme": "Kembang tropis",
+      "images": {
+        "hibiscus_1": "Kembang sepatu beureum",
+        "frangipani_2": "Kamboja beureum bodas",
+        "sunflower_3": "Kembang panonpoé",
+        "hydrangea_4": "Hortensia bodas",
+        "rose_5": "Mawar",
+        "chrysanthemum_6": "Seruni",
+        "anthurium_7": "Anturium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delphinium"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Kadaharan Pinggir Jalan",
+      "description": "Jajah dunya kadaharan pinggir jalan anu warna-warni ngaliwatan paket jajanan ngeunah ti sakuliah dunya.",
+      "theme": "Kadaharan pinggir jalan",
+      "images": {
+        "taco_1": "Taco Méksiko",
+        "ramen_2": "Ramen Jepang",
+        "dumplings_3": "Pangsit Cina",
+        "samosa_4": "Samosa India",
+        "pizza_5": "Sapotong pizza Italia",
+        "crepe_6": "Crepe Perancis",
+        "satay_7": "Saté Thailand",
+        "burger_8": "Burger Amérika",
+        "bao_9": "Bakpao kukus",
+        "takoyaki_10": "Takoyaki Jepang"
+      }
+    },
+    "nature_landscape": {
+      "title": "Pamandangan Alam",
+      "description": "Pamandangan alam anu tenang sareng éndah, kanggo ditingali lalaunan sarta diobrolkeun babarengan.",
+      "theme": "Pamandangan alam",
+      "images": {
+        "mountain_1": "Jajaran gunung",
+        "forest_2": "Leuweung halimun",
+        "lake_3": "Situ di gunung",
+        "desert_4": "Bukit keusik gurun",
+        "waterfall_5": "Curug",
+        "beach_6": "Pantai keusik",
+        "river_7": "Walungan ngalir",
+        "canyon_8": "Ngarai Grand Canyon",
+        "sunset_9": "Langit surup",
+        "snow_mountain_10": "Gunung salju",
+        "flowers_11": "Kembang liar",
+        "rainforest_12": "Leuweung hujan",
+        "iceberg_13": "Gunung és",
+        "volcano_14": "Gunung seuneu",
+        "cliff_15": "Gawir di sisi sagara",
+        "aurora_16": "Aurora borealis",
+        "savannah_17": "Sabana",
+        "coral_reef_18": "Karang sagara"
+      }
+    }
+  }
+}

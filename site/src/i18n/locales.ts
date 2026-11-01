@@ -76,6 +76,9 @@ export const LOCALES: readonly LocaleInfo[] = [
   { code: 'zu', prefix: 'zu', bcp47: 'zu', htmlLang: 'zu', og: 'zu_ZA', name: 'isiZulu', englishName: 'Zulu', dir: 'ltr' },
   { code: 'so', prefix: 'so', bcp47: 'so', htmlLang: 'so', og: 'so_SO', name: 'Soomaali', englishName: 'Somali', dir: 'ltr' },
   { code: 'om', prefix: 'om', bcp47: 'om', htmlLang: 'om', og: 'om_ET', name: 'Afaan Oromoo', englishName: 'Oromo', dir: 'ltr' },
+  { code: 'jv', prefix: 'jv', bcp47: 'jv', htmlLang: 'jv', og: 'jv_ID', name: 'Basa Jawa', englishName: 'Javanese', dir: 'ltr' },
+  { code: 'su', prefix: 'su', bcp47: 'su', htmlLang: 'su', og: 'su_ID', name: 'Basa Sunda', englishName: 'Sundanese', dir: 'ltr' },
+  { code: 'sd', prefix: 'sd', bcp47: 'sd', htmlLang: 'sd', og: 'sd_PK', name: 'سنڌي', englishName: 'Sindhi', dir: 'rtl' },
 ];
 
 /**
@@ -91,7 +94,7 @@ export const LOCALES: readonly LocaleInfo[] = [
  * labelled, but are `noindex` and left out of the sitemaps, hreflang and
  * llms.txt until a native speaker has read them. Remove a code once reviewed.
  */
-export const HELD_FROM_INDEX: ReadonlySet<string> = new Set(['ha', 'am', 'my', 'ps', 'so', 'om']);
+export const HELD_FROM_INDEX: ReadonlySet<string> = new Set(['ha', 'am', 'my', 'ps', 'so', 'om', 'sd']);
 
 export const INDEXED_LANGUAGES: ReadonlySet<string> = new Set(
   LOCALES.map((l) => l.code).filter((code) => !HELD_FROM_INDEX.has(code)),

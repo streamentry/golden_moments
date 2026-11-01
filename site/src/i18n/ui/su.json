@@ -1,0 +1,534 @@
+{
+  "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
+  "common": {
+    "skipLink": "Luncat ka eusi utama",
+    "brandName": "Golden Moments",
+    "brandTag": "Kagiatan demensia",
+    "homeLabel": "Beranda Golden Moments",
+    "mainNav": "Utama",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: gambar ageung sareng ramah ngeunaan cangkir teh, kembang panonpoé sareng anjing",
+    "languages": "Basa",
+    "englishOnly": "(Inggris)",
+    "machineTranslated": "Kaca ieu ditarjamahkeun sacara otomatis sarta can dipariksa ku panutur asli.",
+    "readOriginal": "Baca aslina dina basa Inggris",
+    "nav": {
+      "games": "Kaulinan",
+      "activities": "Kagiatan",
+      "caregiving": "Ngarawat",
+      "brainHealth": "Kaséhatan uteuk"
+    },
+    "faqTitle": "Patarosan sareng wangsulan",
+    "breadcrumb": "Jalur kaca",
+    "home": "Beranda",
+    "lastUpdated": "Terakhir dianyarkeun",
+    "topics": "Topik"
+  },
+  "footer": {
+    "play": "Maén",
+    "picturePairs": "Pasangan gambar",
+    "conversationCards": "Kartu obrolan",
+    "pictureBingo": "Bingo gambar",
+    "allGames": "Sadaya kaulinan",
+    "activityIdeas": "Gagasan kagiatan",
+    "ideas101": "101 gagasan kagiatan",
+    "lateStage": "Kagiatan tahap lanjut",
+    "printable": "Kagiatan anu tiasa dicitak",
+    "allActivities": "Sadaya kagiatan",
+    "forCaregivers": "Kanggo anu ngarawat",
+    "playTogether": "Kumaha maén babarengan",
+    "selfCare": "Ngarawat diri sorangan",
+    "brainHealth": "Panalungtikan kaséhatan uteuk",
+    "faq": "Patarosan sareng wangsulan",
+    "about": "Ngeunaan",
+    "approach": "Cara kami",
+    "howWeWrite": "Kumaha kami nulis",
+    "organizations": "Kanggo organisasi",
+    "app": "Aplikasi Golden Moments",
+    "appHelp": "Pitulung aplikasi",
+    "support": "Pitulung",
+    "legal": "Hukum",
+    "sitePrivacy": "Privasi situs wéb",
+    "appPrivacy": "Kawijakan privasi aplikasi",
+    "privacyChoices": "Pilihan privasi",
+    "terms": "Katangtuan sareng lisénsi aplikasi",
+    "safety": "Kaamanan sareng tujuan pamakéan",
+    "accessibility": "Aksésibilitas",
+    "healthNotice": "Béwara émbaran kaséhatan",
+    "allLegal": "Sadaya émbaran hukum",
+    "note": "Golden Moments nyayogikeun kagiatan babarengan anu basajan kanggo dinikmati. Éta lain nasihat médis, tés, atanapi perawatan, sarta teu ngadiagnosis, ngukur atanapi masihan skor ka saha waé. Kanggo patarosan kaséhatan, rembugan sareng dokter. Dina kaayaan darurat, hubungi nomer darurat di wewengkon anjeun.",
+    "publisher": "Diterbitkeun ku Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Kaulinan sareng Kagiatan Demensia | Golden Moments",
+    "description": "Kaulinan gambar gratis anu lemah-lembut sareng gagasan kagiatan kanggo jalma anu hirup kalayan demensia atanapi Alzheimer sareng anu ngarawatna. Tanpa daptar.",
+    "eyebrow": "Gratis · Tanpa iklan · Tanpa daptar · Tanpa waktu atanapi skor",
+    "h1": "Kaulinan sareng Kagiatan Lemah-Lembut kanggo Jalma anu Hirup kalayan Demensia",
+    "lede": "Kaulinan gambar anu basajan, poto anu wawuh, sareng kagiatan kanggo dinikmati babarengan, lalaunan wae.",
+    "playGame": "Maén Kaulinan",
+    "findIdeas": "Néangan gagasan kagiatan",
+    "facts": [
+      "Jalan dina telepon, tablét sareng komputer",
+      "Gambar ageung anu tetep kaciri",
+      "Eureun iraha waé; teu aya anu kudu gagal"
+    ],
+    "heroApp": "Aya ogé aplikasi gratis kanggo iPhone, iPad sareng Android, kalayan poto kulawarga anjeun sorangan",
+    "albumNote": "“Dua gambar cangkir teh, babarengan.”",
+    "gamesEyebrow": "Maén dina browser anjeun",
+    "gamesTitle": "Kaulinan anu tiasa dimaénkeun ayeuna",
+    "gamesLede": "Unggal kaulinan tenang, pantes pikeun déwasa sareng gancang dimimitian. Pilih hiji, diuk gigireun, sarta gentian mencét.",
+    "seeAllGames": "Tingali kabéh {count} kaulinan",
+    "howTitle": "Kumaha jalanna",
+    "steps": [
+      {
+        "title": "Pilih anu wawuh",
+        "text": "Gambar cangkir teh, kebon, sato piaraan sareng parahu layar. Teu kedah maca atanapi diajar aturan heula."
+      },
+      {
+        "title": "Diuk gigireun-gigireun",
+        "text": "Antep anjeunna mencét. Obrolkeun gambarna. Gambar anu béda ukur ngadagoan pencétan salajengna."
+      },
+      {
+        "title": "Eureun bari karasa nyaman",
+        "text": "Hiji kaulinan geus cekap jadi hiji kagiatan. “Cekap heula” salawasna aya dina layar."
+      }
+    ],
+    "stageEyebrow": "Saluareun layar",
+    "stageTitle": "Gagasan kagiatan kanggo unggal tahap",
+    "stageLede": "Musik, pagawéan sapopoé, ngenang jaman baheula sareng waktos sensori anu sepi, disaluyukeun jeung naon anu karasa genah ayeuna.",
+    "ideas101": "101 gagasan kagiatan",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Tahap awal",
+        "text": "Tetep ngalakukeun naon anu dipikaresep, kalayan panyesuaian leutik: hobi, jalan-jalan, kaulinan kecap sareng ngarencanakeun babarengan.",
+        "label": "Gagasan tahap awal"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Tahap tengah",
+        "text": "Pagawéan basajan anu wawuh, dibagi jadi léngkah: ngalipet, ngagolongkeun, musik, kaulinan gambar sareng leumpang sakeudeung.",
+        "label": "Gagasan tahap tengah"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Tahap lanjut",
+        "text": "Kanyamanan sareng kadeukeutan ngaliwatan rampa, sora sareng paningal: ngarawat leungeun, lagu karesep, poto sareng babarengan.",
+        "label": "Gagasan tahap lanjut"
+      }
+    ],
+    "specificHtml": "Néangan anu husus? Cobian <a href=\"/activities/alzheimers/\">kagiatan sareng kaulinan kanggo Alzheimer</a>, <a href=\"/activities/memory-games/\">kaulinan ingetan anu lemah-lembut</a>, <a href=\"/activities/trivia/\">kuis ringan</a> atanapi <a href=\"/activities/puzzles/\">teka-teki</a>.",
+    "approachEyebrow": "Cara kami",
+    "approachTitle": "Kagiatan babarengan, lain tés ingetan",
+    "approachLede": "Seueur “kaulinan uteuk” diwangun sabudeureun kagancangan, skor sareng rentetan. Pikeun jalma anu hirup kalayan demensia éta bisa karasa siga ujian. Kami nyieun anu sabalikna.",
+    "approachLink": "Naha kami ngarancang ku cara kieu",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Teu aya anu kudu gagal",
+        "text": "Euweuh jam, skor, nyawa atanapi eleh. Gambar anu béda téh réhat, lain kasalahan."
+      },
+      {
+        "icon": "eye",
+        "title": "Gambar tetep kaciri",
+        "text": "Ngenalan leuwih ti nginget. Nyocogkeun dimimitian kalayan gambar kabuka, jadi teu aya anu kedah diinget."
+      },
+      {
+        "icon": "people",
+        "title": "Déwasa sareng bermartabat",
+        "text": "Kecap haneut sareng basajan sareng gambar dunya nyata. Teu pernah kartun atanapi basa budak."
+      },
+      {
+        "icon": "shield",
+        "title": "Pribadi dumasar rarancang",
+        "text": "Teu aya akun atanapi iklan. Poto anjeun teu pernah ninggalkeun alat anjeun."
+      }
+    ],
+    "guidesEyebrow": "Kanggo anu ngarawat",
+    "guidesTitle": "Pituduh praktis kanggo perawatan sapopoé",
+    "allCaregiving": "Sadaya pituduh ngarawat",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Kumaha maén kaulinan babarengan",
+        "text": "Nyiapkeun, laju, sareng naon anu kedah dilakukeun nalika kaulinan lirén ngeunah."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Nalika anjeunna nolak hiji kagiatan",
+        "text": "Alesan umum panolakan, sareng cara lemah-lembut pikeun nyobian deui engké."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Nyetél tablét",
+        "text": "Tulisan langkung ageung, langkung saeutik gangguan sareng hiji layar utama anu basajan."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Kagiatan cetak gratis",
+        "text": "Pamilarian kecap citakan ageung, kaca pawarna, bingo sareng kartu obrolan."
+      }
+    ],
+    "researchTitle": "Kaséhatan uteuk: naon anu sabenerna dicaritakeun ku panalungtikan",
+    "researchText": "Naha demensia tiasa dicegah? Naha kaulinan uteuk mantuan? Kumaha jeung puasa, dahareun, sare sareng pangdéngé? Wangsulan basajan anu aya sumberna, kaasup di mana buktina lemah.",
+    "researchLink": "Baca pituduh panalungtikan",
+    "appEyebrow": "Aya ogé aplikasina",
+    "appTitle": "Golden Moments dina iPhone, iPad sareng Android",
+    "appText": "Aplikasi gratis jalan tanpa internét sarta tiasa maké poto kulawarga anu anjeun pilih, disimpen salaku salinan dina alat anjeun. Rarancang tenang anu sarua: opat kotak ageung, tanpa waktu, tanpa skor.",
+    "aboutApp": "Ngeunaan aplikasi",
+    "faq": [
+      {
+        "q": "Kaulinan naon anu hadé kanggo jalma anu hirup kalayan demensia?",
+        "a": "Kaulinan anu hadé téh basajan, wawuh sarta teu aya tekanan: gambar ageung pikeun dicocogkeun, ngagolongkeun, teka-teki gambar anu gampang, nuntaskeun paribasa anu dikenal, mewarnaan, bingo gambar sareng kartu obrolan. Pilihan pangsaéna nyaéta anu disenangan ku jalma éta ayeuna. Singkahan waktu, skor sareng naon waé anu karasa siga tés."
+      },
+      {
+        "q": "Naha kaulinan demensia ieu gratis?",
+        "a": "Muhun. Unggal kaulinan sareng bahan cetak dina Golden Moments gratis, tanpa akun, daptar atanapi undeuran. Kaulinan jalan dina browser dina telepon, tablét atanapi komputer."
+      },
+      {
+        "q": "Naha kaulinan uteuk nyegah demensia?",
+        "a": "Teu aya kaulinan anu geus ditémbongkeun nyegah demensia, sarta Golden Moments teu ngaku ngubaran atanapi nyegah nanaon. Kaulinan kami kanggo kasenangan sareng waktu babarengan. Bagian kaséhatan uteuk kami ngajelaskeun naon anu ditémbongkeun sareng teu ditémbongkeun ku panalungtikan."
+      },
+      {
+        "q": "Naha kaulinan ieu cocog kanggo jalma anu gaduh Alzheimer?",
+        "a": "Muhun. Panyakit Alzheimer mangrupa panyabab demensia anu paling umum, sarta kaulinan ieu dijieun kanggo éta: gambar ageung anu tetep kaciri, pilihan saeutik, sareng teu aya anu kedah diinget atanapi salah. Nyocogkeun, ngagolongkeun sareng nuntaskeun paribasa anu wawuh ngandelkeun pangaweruh anu geus lila, lain diajar anu énggal."
+      },
+      {
+        "q": "Naha jalma anu gaduh demensia tahap lanjut tiasa maké kagiatan ieu?",
+        "a": "Sering tiasa, kalayan batur gigireunna. Mimitian ku Néangan anu sarua kalayan dua gambar, Pasangan gambar kalayan opat kotak, kaca pawarna atanapi réhat napas anu tenang. Jieun pondok, turutan anjeunna sarta eureun nalika anjeunna parantos cekap."
+      },
+      {
+        "q": "Naha émbaran abdi pribadi?",
+        "a": "Situs teu gaduh akun sareng teu aya iklan. Kami maké Google Analytics kanggo ngartos kaca mana anu dikunjungan. Poto anu anjeun pilih kanggo Pasangan poto ngan ukur kaciri dina browser anjeun sarta teu pernah diunggah."
+      },
+      {
+        "q": "Saha anu nyieun Golden Moments?",
+        "a": "Golden Moments mangrupa tim leutik anu nyieun kagiatan gambar anu tenang sareng pantes pikeun déwasa kanggo kulawarga sareng anu ngarawat, dina wéb sareng salaku aplikasi gratis. Kami lain klinisi, sarta euweuh di dieu anu nasihat médis."
+      }
+    ]
+  },
+  "stage": {
+    "early": "awal",
+    "middle": "tengah",
+    "late": "lanjut",
+    "hintOne": "Sering cocog kanggo tahap {list}",
+    "hintMany": "Sering cocog kanggo tahap {list}",
+    "labelEarly": "Tahap awal",
+    "labelMiddle": "Tahap tengah",
+    "labelLate": "Tahap lanjut"
+  },
+  "cards": {
+    "aboutGame": "Ngeunaan kaulinan ieu",
+    "printable": "Tiasa dicitak",
+    "play": "Maén {name} →",
+    "readGuide": "Baca pitudunana"
+  },
+  "playCta": {
+    "title": "Siap kanggo kaulinan anu lemah-lembut?",
+    "text": "Gambar ageung, tanpa waktu, tanpa skor sareng teu kedah daptar. Maén babarengan dina browser anjeun.",
+    "play": "Maén Kaulinan",
+    "all": "Tingali sadaya kaulinan",
+    "aria": "Maén kaulinan"
+  },
+  "appCta": {
+    "title": "Bawa kaulinan ieu ka mana-mana",
+    "text": "Aplikasi Golden Moments gratis kanggo iPhone, iPad sareng Android: kotak gambar ageung, kaulinan ku poto kulawarga anjeun sorangan, sareng paket gambar anu jalan tanpa Wi-Fi. Tanpa akun, iklan, waktu atanapi skor.",
+    "appStore": "Pasang ti App Store",
+    "googlePlay": "Pasang ti Google Play",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Ngeunaan aplikasi",
+    "aria": "Pasang aplikasi"
+  },
+  "sections": {
+    "activities": {
+      "label": "Kagiatan",
+      "title": "Kagiatan kanggo Jalma anu Hirup kalayan Demensia",
+      "seo": "Kagiatan kanggo Demensia: Gagasan Dumasar Tahap",
+      "description": "Gagasan kagiatan kanggo jalma anu hirup kalayan demensia dina unggal tahap: musik, ngenang, pagawéan sapopoé, karajinan, di luar sareng bahan cetak gratis.",
+      "lede": "Kagiatan anu bermakna nyaéta naon waé anu mawa kanyamanan, tujuan atanapi sakedap kadeukeutan. Mimitian ti naon anu salawasna disenangan ku jalma éta, terus saluyukeun jeung kaayaan ayeuna."
+    },
+    "caregiving": {
+      "label": "Ngarawat",
+      "title": "Pituduh Ngarawat",
+      "seo": "Pituduh Ngarawat Demensia: Pitulung Praktis Sapopoé",
+      "description": "Pituduh praktis kanggo anu ngarawat demensia: maén babarengan, komunikasi, panolakan, kagelisahan soré, tablét, milih aplikasi sareng ngarawat diri sorangan.",
+      "lede": "Pitulung basajan sareng praktis kanggo waktos-waktos sapopoé ngarawat jalma anu hirup kalayan demensia, kaasup ngarawat diri anjeun sorangan."
+    },
+    "brain-health": {
+      "label": "Kaséhatan uteuk",
+      "title": "Kaséhatan Uteuk: Naon anu Dicaritakeun Panalungtikan",
+      "seo": "Kaséhatan Uteuk sareng Résiko Demensia: Cenah Panalungtikan",
+      "description": "Naha demensia tiasa dicegah? Pituduh jujur anu aya sumberna ngeunaan résiko demensia, kaulinan uteuk, puasa, dahareun, olahraga, sare sareng pangdéngé.",
+      "lede": "Naon anu sabenerna ditémbongkeun ku panalungtikan ageung ngeunaan nurunkeun résiko demensia, dijelaskeun sacara basajan, kaasup di mana buktina lemah atanapi campur. Émbaran umum, lain nasihat médis."
+    }
+  },
+  "guide": {
+    "updated": "Dianyarkeun",
+    "minuteRead": "Bacaan {n} menit",
+    "byTeam": "Ku tim Golden Moments",
+    "howWeWrite": "Kumaha kami nulis",
+    "shortAnswer": "Wangsulan singket",
+    "onThisPage": "Dina kaca ieu ({n} bagian)",
+    "commonQuestions": "Patarosan umum",
+    "sources": "Sumber",
+    "sourcesNote": "Kami nyambungkeun ka organisasi sareng panalungtikan anu jadi dasar kaca ieu. Unggal éta dipariksa nalika kaca dianyarkeun.",
+    "tryTogether": "Cobian babarengan",
+    "relatedGuides": "Pituduh patali",
+    "related": "Patali",
+    "startHere": "Mimitian ti dieu"
+  },
+  "healthNotice": {
+    "aria": "Béwara émbaran kaséhatan",
+    "title": "Émbaran umum, lain nasihat médis",
+    "textHtml": "Kaca ieu ngarangkum panalungtikan anu geus diterbitkeun kanggo kulawarga. Éta teu tiasa nyarioskeun naon anu pas kanggo hiji jalma. Rembugan sareng dokter sateuacan ngarobah dahareun, olahraga, sare, ubar atanapi suplemén. Kanggo kabingungan ngadadak atanapi parobahan ngadadak séjénna, menta pitulung médis langsung. <a href=\"/medical-disclaimer/\">Baca béwara émbaran kaséhatan kami</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Kagiatan Babarengan, Lain Tés Ingetan",
+      "seoTitle": "Ngeunaan Golden Moments: Cara Kami",
+      "description": "Naha kaulinan Golden Moments teu aya waktu, skor atanapi rentetan, naha gambar tetep kaciri, sareng naon anu bakal jeung moal kami klaim ngeunaan demensia.",
+      "crumb": "Cara kami",
+      "lede": "Golden Moments nyieun kagiatan gambar anu tenang sareng pantes pikeun déwasa, anu bisa dinikmati gigireun-gigireun ku anu ngarawat sareng jalma anu hirup kalayan demensia.",
+      "bodyHtml": "<h2>Naon anu kami percanten</h2><p>Tujuan kagiatan nyaéta waktosna sorangan: obrolan, seuri, rasa puas nalika nyocogkeun dua gambar, atanapi ukur diuk deukeut. Lain pikeun ngukur saha waé, nyorong anjeunna langkung jauh atanapi ngabuktikeun nanaon.</p><p>Seueur aplikasi latihan uteuk dirarancang sabudeureun kagancangan, skor, rentetan sareng tingkatan. Pikeun jalma anu hirup kalayan demensia éta bisa karasa siga ujian anu teu bisa dilewati. Kami ngarancang anu sabalikna, sarta kami nyekel diri kana aturan ieu:</p><ul><li><strong>Teu aya anu kudu gagal.</strong> Euweuh jam, skor, itungan léngkah, nyawa, rentetan, confetti atanapi itungan mundur, dina layar naon waé.</li><li><strong>Ngenalan, lain nginget.</strong> Gambar tetep kaciri sacara baku. Bahan obrolan ngajak ngobrol sarta teu pernah nanyakeun ngaran atanapi kenangan.</li><li><strong>Ageung, basajan sareng ajeg.</strong> Tulisan sareng gambar ageung, kontras tinggi, sarta kontrol anu tetep di tempat anu sarua.</li><li><strong>Martabat déwasa.</strong> Gambar dunya nyata sareng kecap anu basajan tur haneut. Teu aya kartun, pujian nyanyi-nyanyi atanapi ganjaran emoji.</li><li><strong>Jalan kaluar anu gampang.</strong> “Cekap heula” salawasna kaciri. Eureun satengah jalan téh hasil anu hadé.</li><li><strong>Pribadi sacara baku.</strong> Teu aya akun atanapi iklan. Poto anu anjeun pilih tetep dina alat anjeun.</li></ul><h2>Naon anu teu kami klaim</h2><p>Kaulinan kami kanggo kasenangan sareng kadeukeutan. Éta teu ngadiagnosis, nguji, ngukur, ngubaran, ngalambatkeun atanapi nyegah demensia atanapi panyakit Alzheimer, sarta teu aya saha waé anu kedah milih éta kusabab alesan éta. Nalika kami nulis ngeunaan panalungtikan dina <a href=\"/brain-health/\">kaca kaséhatan uteuk</a> kami, kami nyebatkeun sacara jelas di mana buktina lemah, sarta kami teu pernah ngahubungkeunana jeung kaulinan kami sorangan.</p><h2>Saha kami</h2><p>Golden Moments mangrupa tim leutik anu mandiri. Kami lain klinisi. Pituduh kami ditulis tina pituduh anu geus diterbitkeun ku organisasi saperti National Institute on Aging sareng Alzheimer’s Association, sarta unggal pituduh daptar sumberna. Baca <a href=\"/editorial-policy/\">kumaha kami nulis sareng mariksa kaca kami</a>.</p><h2>Béjaan kami naon anu mantuan</h2><p>Kami hoyong ngadéngé naon anu jalan kanggo anjeun sareng naon anu henteu, khususna ti jalma anu hirup kalayan demensia, kulawarga anu ngarawat sareng staf kagiatan. Kirim surélék ka <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Kumaha Kami Nulis sareng Mariksa Kaca Kami",
+      "seoTitle": "Kawijakan Éditorial",
+      "description": "Kumaha Golden Moments nalungtik, nulis, nyebatkeun sumber sareng nganyarkeun kaca kagiatan demensia sareng kaséhatan uteukna, sareng naon anu moal diterbitkeun.",
+      "crumb": "Kawijakan éditorial",
+      "bodyHtml": "<h2>Sumber kami</h2><p>Kami ngadasarkeun pituduh kami kana pituduh umum ti organisasi saperti National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance sareng NHS, sarta kana panalungtikan anu dipariksa ku para ahli saperti tinjauan Cochrane sareng uji klinis ageung. Unggal pituduh daptar sumber anu diandelkeunana. Kami muka unggal sumber sateuacan nyebatkeun, sarta kami ngan ukur nyaritakeun naon anu sabenerna dicaritakeun ku éta.</p><h2>Kumaha kami nulis</h2><ul><li>Praktis heula: naon anu kedah dilakukeun ayeuna, dina basa anu basajan.</li><li>Jujur ngeunaan bukti: kami nyebatkeun “patali sareng”, “meureun” sareng “buktina campur” upami éta anu bener.</li><li>Hormat: kami nulis ngeunaan jalma anu hirup kalayan demensia salaku déwasa, sarta kami teu pernah maké basa anu ngajajal atanapi ngerakeun.</li><li>Teu aya eusi karangan: teu aya statistik, kutipan, ahli, panalungtikan, ulasan atanapi kasaksian anu dijieun-jieun.</li></ul><h2>Saha anu mariksa kaca kami</h2><p>Kaca ditulis sarta dipariksa ku tim Golden Moments, kalayan bantuan alat nulis AI kanggo panalungtikan sareng draf. Unggal kaca dipariksa ngalawan sumberna ku tim. Kaca kami <strong>can</strong> ditinjau ku dokter atanapi klinisi séjén, sarta kami teu ngaku sabalikna. Éta émbaran umum, lain nasihat médis.</p><h2>Naon anu moal pernah kami terbitkeun</h2><ul><li>Klaim yén kaulinan, dahareun, suplemén, puasa atanapi rutinitas nyegah, ngubaran, ngalambatkeun atanapi nyageurkeun demensia.</li><li>Tés, kuis atanapi skor anu nyaranan saha waé gaduh, atanapi teu gaduh, demensia.</li><li>Pitutur pikeun ngamimitian, ngeureunkeun atanapi ngarobah ubar naon waé.</li><li>Iklan atanapi eusi anu disponsoran anu disamarkeun jadi pituduh.</li></ul><h2>Pamutahiran sareng koréksi</h2><p>Unggal kaca nunjukkeun tanggal terakhir dianyarkeun. Upami anjeun mendakan kasalahan atanapi sumber anu kadaluwarsa, mangga kirim surélék ka <a href=\"mailto:{email}\">{email}</a> sarta kami bakal mariksana gancang.</p>"
+    },
+    "faq": {
+      "title": "Patarosan sareng Wangsulan",
+      "seoTitle": "Kaulinan sareng Kagiatan Demensia: Patarosan",
+      "description": "Wangsulan kana patarosan umum ngeunaan kaulinan sareng kagiatan demensia: kaulinan naon anu dicoba, sabaraha lami maén, tahap lanjut sareng privasi.",
+      "crumb": "Patarosan sareng wangsulan",
+      "lede": "Wangsulan singket sareng basajan kana patarosan anu paling sering ditanyakeun ku anu ngarawat.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Ngeunaan kaulinan",
+          "items": [
+            {
+              "q": "Kaulinan naon anu pangsaéna kanggo jalma anu gaduh demensia?",
+              "a": "Kaulinan pangsaéna téh wawuh, basajan sarta teu aya tekanan, sarta anu pas nyaéta naon waé anu disenangan ku jalma éta ayeuna. Nyocogkeun gambar kalayan gambar anu kaciri, ngagolongkeun, teka-teki gambar anu gampang, nuntaskeun paribasa anu wawuh, mewarnaan sareng bingo gambar sadayana jalan hadé kanggo seueur jalma. Singkahan waktu, skor sareng naon waé anu karasa siga tés."
+            },
+            {
+              "q": "Naha kaulinanna bener-bener gratis?",
+              "a": "Muhun. Sadaya kaulinan sareng bahan cetak gratis, tanpa akun, daptar, undeuran atanapi iklan."
+            },
+            {
+              "q": "Naha teu aya skor, tingkatan atanapi waktu?",
+              "a": "Kagancangan sareng skor ngarobah kagiatan anu pikaresepeun jadi ujian, anu bisa mawa isin atanapi kuciwa. Kami ngajaga fokus kana kasenangan sareng waktu babarengan, jadi teu aya anu kudu gagal sarta anjeun tiasa eureun iraha waé."
+            },
+            {
+              "q": "Alat naon anu pangsaéna?",
+              "a": "Telepon, tablét atanapi komputer naon waé kalayan browser wéb modéren. Tablét dina standar di méja sering jadi cara anu paling nyaman kanggo dua jalma maén gigireun-gigireun. Laptop anu disambungkeun ka TV jalan hadé kanggo kelompok."
+            },
+            {
+              "q": "Naha urang tiasa maén ku poto kulawarga urang sorangan?",
+              "a": "Tiasa. Pasangan poto ngarobah 2 nepi ka 6 poto anu anjeun pilih jadi kaulinan nyocogkeun. Potona tetep dina browser anjeun sarta teu diunggah atanapi disimpen."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Kagiatan sareng ngarawat",
+          "items": [
+            {
+              "q": "Sabaraha lami hiji kagiatan kedah lumangsung?",
+              "a": "Sering 10 nepi ka 20 menit geus cekap, sarta kadang 2 menit ogé geus hasil. Titenan tanda capé atanapi kuciwa sarta eureun bari masih karasa nyaman. Teu aya jumlah anu pas."
+            },
+            {
+              "q": "Kumaha upami anjeunna teu hoyong ngalakukeun hiji kagiatan?",
+              "a": "Hormat kana panolakan éta, sarta cobian deui engké atanapi ku cara séjén. Panolakan bisa asalna tina capé, nyeri, ngarasa teu yakin atanapi ukur teu resep. Tingali pituduh kami ngeunaan naon anu kedah dilakukeun nalika anjeunna nolak."
+            },
+            {
+              "q": "Kagiatan naon anu cocog kanggo demensia tahap lanjut?",
+              "a": "Kanyamanan sareng rasa: ngadéngékeun musik karesep, mijit leungeun ku losion, ningali poto babarengan, nyepeng simbut lemes, diuk di luar, atanapi kaulinan gambar anu basajan pisan kalayan batur gigireunna. Pituduh tahap lanjut kami gaduh seueur deui gagasan."
+            },
+            {
+              "q": "Naha aya kagiatan kanggo kelompok di panti?",
+              "a": "Aya. Bingo gambar gaduh kartu anu tiasa dicitak sareng pamaca dina layar, sareng Tuntaskeun paribasa sareng Kartu obrolan jalan hadé upami dibacakeun. Pituduh kelompok panti kami ngabahas ukuran kelompok, tempat diuk sareng nyaluyukeun kanggo kamampuan anu béda."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Kaséhatan uteuk",
+          "items": [
+            {
+              "q": "Naha kaulinan tiasa nyegah atanapi ngalambatkeun demensia?",
+              "a": "Henteu. Teu aya kaulinan anu geus ditémbongkeun nyegah demensia, sarta kaulinan kami teu ngaklaim kitu. Stimulasi kognitif dina setélan sosial geus nunjukkeun mangpaat leutik dina panalungtikan kanggo jalma anu gaduh demensia ringan nepi ka sedeng, tapi éta béda ti kaulinan anu nyegah panyakit. Kami nawiskeun kaulinan kanggo kasenangan sareng kadeukeutan."
+            },
+            {
+              "q": "Naha demensia tiasa dicegah?",
+              "a": "Henteu sacara pasti. Panalungtikan ngahubungkeun 14 faktor kaséhatan sareng gaya hirup jeung résiko demensia, saperti leungitna pangdéngé, tekanan darah tinggi, kurang gerak sareng kaisolasi sosial. Ngarengsekeunana bisa nurunkeun résiko kanggo sababaraha jalma, tapi seueur jalma anu geus ngalakukeun sagalana kalayan bener tetep gaduh demensia. Éta teu pernah salah saha waé."
+            },
+            {
+              "q": "Naha puasa selang-seling hadé kanggo kaséhatan uteuk?",
+              "a": "Bukti dina manusa kawates sareng masih awal, sarta seueur panalungtikan dina sato. Puasa bisa gaduh résiko kanggo sepuh, utamana kalayan ubar diabétés atanapi turunna bobot awak anu teu dihaja, sarta teu disarankeun kanggo jalma anu hirup kalayan demensia. Rembugan sareng dokter sateuacan ngarobah cara dahar."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Privasi sareng kaamanan",
+          "items": [
+            {
+              "q": "Naha anjeun ngumpulkeun émbaran naon waé?",
+              "a": "Teu aya akun atanapi iklan. Kami maké Google Analytics kanggo ngitung kunjungan sareng ningali kaca mana anu mantuan, sarta browser anjeun nginget naha anjeun ngahurungkeun sora lemes. Poto anu anjeun pilih kanggo Pasangan poto teu pernah diunggah. Tingali béwara privasi kanggo rincianna."
+            },
+            {
+              "q": "Naha ieu nasihat médis?",
+              "a": "Lain. Golden Moments kanggo hiburan sareng émbaran umum. Kanggo patarosan kaséhatan, rembugan sareng dokter, sarta kanggo kaayaan darurat hubungi nomer darurat di wewengkon anjeun."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Langkung rinci: <a href=\"/caregiving/how-to-play-together/\">kumaha maén babarengan</a>, <a href=\"/caregiving/when-they-say-no/\">nalika anjeunna nolak</a>, <a href=\"/activities/late-stage/\">kagiatan tahap lanjut</a> sareng <a href=\"/brain-health/can-dementia-be-prevented/\">naha demensia tiasa dicegah?</a>"
+    },
+    "handout": {
+      "title": "Kaulinan Gratis kanggo Jalma anu Hirup kalayan Demensia",
+      "seoTitle": "Selebaran Cetak: Kaulinan Demensia Gratis Online",
+      "description": "Selebaran hiji kaca anu tiasa dicitak kanggo kulawarga sareng anu ngarawat ngeunaan kaulinan gambar gratis anu lemah-lembut kanggo jalma anu gaduh demensia.",
+      "crumb": "Selebaran cetak",
+      "lede": "Citak kaca ieu kanggo kelompok pangrojong, paket perawatan atanapi panto kulkas. Paké paréntah Citak dina browser anjeun; ménu sareng tombol henteu ikut dicitak.",
+      "introHtml": "<p>Gambar ageung, kecap basajan sareng teu aya anu kudu gagal. Gratis dina telepon, tablét atanapi komputer, tanpa daptar, tanpa iklan, tanpa waktu sareng tanpa skor. Diuk gigireun-gigireun sarta gentian maén.</p>",
+      "gamesTitle": "Kaulinan anu tiasa dicoba babarengan",
+      "restHtml": "<h2>Sababaraha tip</h2><ul><li>Pilih waktos dina sapoé nalika jalma éta keur dina kaayaan pangsaéna.</li><li>Mimitian ku setélan anu paling gampang. Opat kotak geus cekap.</li><li>Obrolkeun gambarna. Obrolanna sering jadi bagian anu pangsaéna.</li><li>Eureun bari masih karasa nyaman. Réngsé awal téh hasil anu hadé.</li></ul><h2>Aya ogé dina situs</h2><ul><li>Bahan cetak gratis: néangan kecap citakan ageung, kaca pawarna, kartu obrolan sareng bingo gambar.</li><li>Gagasan kagiatan kanggo unggal tahap, sareng pituduh ngeunaan maén babarengan sareng ngarawat diri sorangan.</li></ul><p class=\"muted\">Kanggo kasenangan sareng waktu babarengan. Lain nasihat médis, tés atanapi perawatan. Golden Moments diterbitkeun ku Cloudjet Solutions Pte. Ltd.</p>"
+    },
+    "organizations": {
+      "title": "Kanggo Panti Sepuh, Perpustakaan sareng Kelompok Pangrojong",
+      "seoTitle": "Kagiatan Demensia Gratis kanggo Panti sareng Kelompok",
+      "description": "Kumaha panti sepuh, program poéan, perpustakaan sareng kelompok pangrojong maké kaulinan demensia gratis kami, sareng téks pikeun nambahkeun kami kana daptar.",
+      "crumb": "Kanggo organisasi",
+      "lede": "Sadaya anu aya dina situs ieu gratis dipaké sareng warga, anggota sareng klién, tanpa akun, lisénsi atanapi biaya. Kaca ieu ngajelaskeun naon anu aya sareng kumaha ngabagikeunana.",
+      "shortText": "{name}: kaulinan gambar gratis anu lemah-lembut sareng pituduh kagiatan kanggo jalma anu hirup kalayan demensia sareng anu ngarawatna. Tanpa daptar, tanpa waktu, tanpa skor.",
+      "longText": "{name} ({domain}) nawiskeun {count} kaulinan browser gratis anu dijieun kanggo jalma anu hirup kalayan demensia, kaasup nyocogkeun pasangan kalayan gambar anu tetep kaciri, teka-teki gambar anu gampang, ngagolongkeun, paribasa anu wawuh sareng bingo gambar kalayan kartu anu tiasa dicitak. Teu aya akun, iklan, waktu atanapi skor. Situs ogé gaduh pituduh kagiatan dina basa basajan kanggo unggal tahap demensia anu nyebatkeun National Institute on Aging sareng Alzheimer's Association.",
+      "useTitle": "Naon anu tiasa dipaké ku organisasi",
+      "gamesItemHtml": "<strong>{count} kaulinan browser</strong> anu jalan dina laptop, tablét atanapi TV anu disambungkeun ka komputer. Teu kedah masang, akun atanapi undeuran. Tingali <a href=\"/games/\">sadaya kaulinan</a>.",
+      "printablesLabel": "{count} bahan cetak:",
+      "printablesAfter": "Paké tombol Citak dina unggal kaca.",
+      "moreItemsHtml": "<li><strong>Format kelompok:</strong> <a href=\"/games/picture-bingo/\">Bingo gambar</a> gaduh kartu anu tiasa dicitak sareng pamaca dina layar, sareng <a href=\"/activities/trivia/\">kuis ringan</a> gaduh 50 patarosan kalayan pilihan wangsulan sareng bahan obrolan.</li><li><strong>Pituduh kagiatan</strong> kanggo staf sareng kulawarga, dumasar tahap sareng jinis, ditulis dina basa basajan kalayan sumber. Mimitian ku <a href=\"/activities/ideas/\">101 gagasan kagiatan</a> atanapi <a href=\"/activities/care-home-groups/\">kagiatan kelompok kanggo panti</a>.</li>",
+      "restHtml": "<h2>Kumaha kelompok maké éta</h2><ul><li><strong>Panti sareng perawatan ingetan:</strong> bingo gambar atanapi nuntaskeun paribasa dina TV rohangan umum, kalayan hiji jalma mencét kanggo kelompok.</li><li><strong>Program poéan kanggo déwasa:</strong> stasiun tablét kalayan Pasangan gambar disetél ka opat kotak, kanggo sési pondok hiji-hiji.</li><li><strong>Perpustakaan umum:</strong> néangan kecap sareng kartu obrolan anu dicitak dina kit ingetan, sareng situs dijieun markah dina tablét perpustakaan.</li><li><strong>Kelompok pangrojong anu ngarawat sareng kafé ingetan:</strong> <a href=\"/handout/\">selebaran cetak hiji kaca</a> kanggo dibawa mulang ku kulawarga.</li><li><strong>Rumah sakit sareng perencana kaluar:</strong> selebaran dina paket anu ngarawat, kanggo hal anu tenang pikeun dilakukeun di bumi atanapi gigireun ranjang.</li></ul><h2>Naon anu teu kami lakukeun</h2><p>Kaulinan kanggo kasenangan sareng waktu babarengan. Éta teu ngadiagnosis, nguji, masihan skor, ngubaran atanapi ngalambatkeun demensia, sarta kami mundut organisasi pikeun teu ngajelaskeunana ku cara kitu. Teu aya iklan, sarta kaulinan teu menta ngaran, rinci kaséhatan atanapi poto diunggah. Situs wéb maké Google Analytics kanggo ngitung kunjungan; <a href=\"/privacy/\">béwara privasi</a> kami ngajelaskeun naon anu dikumpulkeunana. Poto anu dipaké dina <a href=\"/games/photo-pairs/\">Pasangan poto</a> tetep dina browser.</p><h2>Tambahkeun kami kana daptar sumber anjeun</h2><p>Upami anjeun ngajaga daptar sumber kanggo anu ngarawat, anjeun wilujeng nyambungkeun ka <a href=\"/\">{domain}</a>. Anjeun tiasa nyalin salah sahiji pedaranana.</p>",
+      "shortTitle": "Pedaran singket",
+      "longTitle": "Pedaran langkung panjang",
+      "linksHtml": "<p>Kaca mangpaat kanggo disambungkeun langsung: <a href=\"/games/\">kaulinan gratis</a>, <a href=\"/activities/printable/\">bahan cetak gratis</a>, <a href=\"/activities/alzheimers/\">kagiatan kanggo Alzheimer</a> sareng <a href=\"/caregiving/how-to-play-together/\">kumaha maén babarengan</a>.</p><h2>Patarosan atanapi koréksi</h2><p>Upami aya anu salah atanapi teu jelas dina situs, atanapi kabutuhan warga teu kacumponan ku naon anu aya di dieu, mangga béjaan kami di <a href=\"mailto:{email}\">{email}</a>. Mangga ulah ngirim émbaran pribadi atanapi kaséhatan ngeunaan warga atanapi klién.</p>"
+    },
+    "app": {
+      "title": "Aplikasi Golden Moments",
+      "seoTitle": "Aplikasi Golden Moments kanggo iPhone sareng Android",
+      "description": "Aplikasi Golden Moments gratis: nyocogkeun poto anu lemah-lembut kalayan opat kotak ageung, poto kulawarga dina alat anjeun, tanpa internét sareng tanpa akun.",
+      "crumb": "Aplikasi",
+      "lede": "Sadaya anu anjeun resep tina situs wéb, dina aplikasi anu jalan tanpa internét sarta tiasa maké poto kulawarga anu anjeun pilih.",
+      "worksOn": "Jalan dina {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Mimitian ti anu leutik</h2><p>Mimitian ku opat kotak ageung sareng gambar anu wawuh. Antep gambar tetep kaciri, atanapi sumputkeun upami éta karasa genah. Mode lemah-lembut teu aya waktu, skor atanapi hukuman. Pilih 4, 6, 8 atanapi 12 kotak.</p><h2>Jieun leuwih pribadi</h2><p>Pilih poto kulawarga nganggo pamilih poto alat anjeun. Aplikasi nyimpen salinan anu langkung alit kanggo kagiatanana. Éta teu mariksa pustaka anjeun atanapi ngarobah poto asli anjeun, sarta nyimpen nepi ka 24 poto dina hiji koléksi.</p><h2>Cukup tingali babarengan</h2><p>Tingali hiji gambar sakali. Bahan obrolan pilihan ngajak ngobrol tanpa menta saha waé apal ngaran atanapi masihan wangsulan anu bener. Ngan ukur ningali ogé cekap.</p><h2>Tanpa internét upami diperyogikeun</h2><p>Gambar awal sareng dalapan paket gambar kaasup dina aplikasi. Salinan poto anu diimpor jalan tanpa internét. Milih poto asli anu ukur disimpen dina iCloud meureun peryogi sambungan internét.</p><h2>Teu aya akun, teu aya server sinkronisasi poto</h2><p>Salinan poto kulawarga tetep dina aplikasi dina alat. Anjeun tiasa mupus salinan tanpa mupus poto asli. Cadangan alat meureun kaasup data aplikasi. Baca <a href=\"/app-privacy/\">kawijakan privasi aplikasi</a>, sarta <a href=\"/help/\">pitulung aplikasi</a> nuntun unggal léngkah.</p>",
+      "disclaimer": "Golden Moments kanggo hiburan sareng obrolan babarengan. Éta teu ngadiagnosis, ngubaran, nyegah atanapi ngukur demensia atanapi panyakit Alzheimer.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Kaulinan Demensia & Alzheimer Gratis Online",
+    "description": "Kaulinan online gratis kanggo sepuh anu hirup kalayan demensia atanapi Alzheimer: nyocogkeun gambar, teka-teki, ngagolongkeun, bingo. Tanpa daptar atanapi skor.",
+    "crumb": "Kaulinan",
+    "h1": "Kaulinan Lemah-Lembut kanggo Jalma anu Hirup kalayan Demensia",
+    "lede": "{count} kaulinan gratis kanggo dimaénkeun babarengan dina browser anjeun. Gambar ageung, kecap basajan, sareng teu aya anu kudu gagal: tanpa waktu, tanpa skor, tanpa daptar.",
+    "listName": "Kaulinan lemah-lembut kanggo jalma anu hirup kalayan demensia",
+    "byStageTitle": "Milih kaulinan dumasar tahap",
+    "byStageLede": "Tahap ukur pituduh kasar. Turutan naon anu disenangan ku jalma éta sareng naon anu karasa genah ayeuna.",
+    "stageCol": "Tahap",
+    "gamesCol": "Kaulinan anu sering cocog",
+    "moreHtml": "Langkung seueur gagasan di luar layar: <a href=\"/activities/ideas/\">101 kagiatan kanggo jalma anu hirup kalayan demensia</a>, <a href=\"/activities/alzheimers/\">kagiatan sareng kaulinan kanggo Alzheimer</a>, <a href=\"/activities/memory-games/\">kaulinan ingetan anu lemah-lembut</a> sareng <a href=\"/activities/puzzles/\">teka-teki</a>.",
+    "faq": [
+      {
+        "q": "Kaulinan mana anu kedah dimimitian heula?",
+        "a": "Pasangan gambar kalayan opat kotak mangrupa pilihan kahiji anu tenang. Upami milih antara gambar karasa seueur teuing, cobian Néangan anu sarua kalayan dua gambar. Kanggo kelompok, cobian Bingo gambar."
+      },
+      {
+        "q": "Naha kaulinan jalan dina iPad atanapi telepon?",
+        "a": "Jalan. Unggal kaulinan jalan dina browser dina telepon, tablét sareng komputer, sarta gambarna ngagedé pikeun ngeusian layar. Tablét dina standar sering jadi anu paling nyaman kanggo dua jalma."
+      },
+      {
+        "q": "Naha kaulinan ieu hadé kanggo jalma anu gaduh Alzheimer?",
+        "a": "Muhun. Éta dijieun kanggo jalma anu hirup kalayan demensia, kaasup Alzheimer, panyabab anu paling umum. Gambar tetep kaciri, ngan aya sababaraha pilihan, sarta teu aya anu diitung waktu atanapi skor, jadi kaulinan ngandelkeun ngenalan hal anu wawuh, lain nginget anu énggal."
+      },
+      {
+        "q": "Naha ieu kaulinan ingetan kanggo sepuh?",
+        "a": "Éta kaulinan nyocogkeun sareng gambar anu tiasa dinikmati ku sepuh mana waé, tapi dijieun supados teu nguji ingetan: dina Pasangan gambar, gambar tetep kabuka kajaba anjeun milih sanés. Pituduh kami ngeunaan kaulinan ingetan kanggo sepuh anu gaduh demensia ngajelaskeun kumaha ngajaga kaulinan ingetan naon waé tetep lemah-lembut."
+      },
+      {
+        "q": "Naha aya kaulinan kanggo kelompok di panti?",
+        "a": "Aya. Bingo gambar gaduh kartu anu tiasa dicitak sareng pamaca dina layar, sareng Tuntaskeun paribasa sareng Kartu obrolan jalan hadé upami dibacakeun ka kelompok."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad sareng Android",
+    "requirements": "iOS 15 atanapi langkung énggal; Android 7.0 atanapi langkung énggal",
+    "summary": "Aplikasi gratis kanggo iPhone, iPad sareng Android kalayan nyocogkeun gambar anu lemah-lembut dina opat nepi ka dua belas kotak ageung, nyocogkeun sareng ningali poto kulawarga anu anjeun pilih, sareng dalapan paket gambar anu jalan tanpa internét. Tanpa akun, iklan, waktu atanapi skor.",
+    "features": [
+      "Nyocogkeun gambar anu lemah-lembut kalayan 4, 6, 8 atanapi 12 kotak ageung; gambar tetep kaciri kajaba anjeun milih nyumputkeunana",
+      "Poto kulawarga anu anjeun pilih disalin kana aplikasi kanggo nyocogkeun sareng ningali babarengan",
+      "Tingali babarengan: hiji gambar sakali kalayan bahan obrolan pilihan",
+      "Dalapan paket gambar kaasup dina aplikasi; jalan tanpa internét",
+      "Tanpa akun, iklan, pameseran jero aplikasi, waktu, skor atanapi hukuman"
+    ],
+    "faq": [
+      {
+        "q": "Naha aya aplikasi kagiatan demensia?",
+        "a": "Aya. Golden Moments (kadaptar salaku \"{storeName}\") gratis di App Store sareng Google Play. Éta nawiskeun nyocogkeun gambar anu lemah-lembut kalayan kotak ageung, kaulinan ku poto kulawarga anu anjeun pilih, sareng paket gambar anu jalan tanpa internét."
+      },
+      {
+        "q": "Naha aplikasi Golden Moments gratis?",
+        "a": "Muhun. Gratis diundeur, tanpa iklan, akun atanapi pameseran jero aplikasi."
+      },
+      {
+        "q": "Naha aplikasi jalan tanpa internét?",
+        "a": "Jalan. Gambar awal sareng dalapan paket gambar kaasup dina aplikasi, sarta poto kulawarga jalan tanpa internét sakali disalin kana aplikasi. Milih poto anu ukur disimpen dina iCloud meureun peryogi sambungan."
+      },
+      {
+        "q": "Naha abdi tiasa maké poto kulawarga urang sorangan?",
+        "a": "Tiasa. Pilih poto nganggo pamilih poto alat anjeun. Aplikasi nyimpen salinan anu langkung alit dina alat kanggo kagiatanana, teu ngunggahna sarta teu pernah ngarobah anu aslina. Anjeun tiasa mupus salinan iraha waé."
+      },
+      {
+        "q": "Naha éta aplikasi latihan uteuk atanapi tés ingetan?",
+        "a": "Lain. Golden Moments kanggo kasenangan sareng waktu babarengan. Éta teu gaduh skor atanapi tés, sarta teu ngadiagnosis, ngubaran, nyegah atanapi ngukur demensia atanapi panyakit Alzheimer."
+      },
+      {
+        "q": "Dina alat naon éta jalan?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Naha aya versi aplikasi tina kaulinan ieu?",
+      "a": "Aya. Aplikasi Golden Moments gratis kanggo iPhone, iPad sareng Android gaduh nyocogkeun gambar anu lemah-lembut anu sarua, tiasa maké poto kulawarga anu anjeun pilih, sarta jalan tanpa internét. Tanpa akun, iklan atanapi skor."
+    },
+    "gameFaqNo": {
+      "q": "Naha aya versi aplikasi tina kaulinan ieu?",
+      "a": "Teu aya kanggo kaulinan ieu. Aplikasi Golden Moments gratis kanggo iPhone, iPad sareng Android gaduh nyocogkeun gambar anu lemah-lembut kalayan kotak ageung sareng poto kulawarga anu anjeun pilih, sarta jalan tanpa internét. Kaulinan ieu tetep gratis di dieu dina browser anjeun."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: gambar ageung sareng ramah",
+    "noscript": "Kaulinan ieu peryogi JavaScript dihurungkeun dina browser anjeun. Tip di handap jalan tanpa éta.",
+    "about": "Ngeunaan {name}",
+    "aboutAria": "Ngeunaan kaulinan ieu",
+    "noTimer": "Tanpa waktu atanapi skor",
+    "printable": "Tiasa dicitak",
+    "howTo": "Kumaha maén {name}",
+    "tips": "Tip kanggo maén babarengan",
+    "newToPlayingHtml": "Anyar maén sareng jalma anu gaduh demensia? Baca <a href=\"/caregiving/how-to-play-together/\">kumaha maén kaulinan babarengan</a>, kaasup naon anu kedah dilakukeun upami anjeunna leungit minat.",
+    "moreAria": "Langkung seueur pikeun dijajah",
+    "helpfulGuides": "Pituduh mangpaat",
+    "appTitle": "Maén dina aplikasi",
+    "appText": "Aplikasi Golden Moments gratis gaduh nyocogkeun gambar anu lemah-lembut kalayan kotak ageung sareng poto kulawarga anjeun sorangan, sarta jalan tanpa Wi-Fi. iPhone, iPad sareng Android.",
+    "photoAppTitle": "Jaga poto anjeun siap",
+    "photoAppText": "Dina aplikasi Golden Moments gratis, poto anu anjeun pilih tetep dina alat anjeun kanggo waktos salajengna, sarta kaulinan jalan tanpa Wi-Fi. iPhone, iPad sareng Android.",
+    "goodToKnow": "Hadé pikeun diaweruh",
+    "goodToKnowText": "Kaulinan ieu kanggo kasenangan sareng waktu babarengan. Éta teu nguji, ngukur atanapi ngubaran nanaon.",
+    "moreGames": "Langkung seueur kaulinan lemah-lembut",
+    "crumb": "Kaulinan"
+  }
+}

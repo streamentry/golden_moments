@@ -38,6 +38,9 @@ const _appLocales = {
   'zu',
   'so',
   'om',
+  'jv',
+  'su',
+  'sd',
 };
 const _baseFallbacks = {'pt', 'zh'};
 

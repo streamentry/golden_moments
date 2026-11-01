@@ -1,7 +1,7 @@
 # Localization
 
-The app offers 20 languages in the submitted 1.6.0, and 23 in this branch (the
-three pilot languages for the top-50 expansion). English is the source; every
+The app offers 20 languages in the submitted 1.6.0, and 51 in this branch (the
+31 added for the top-50 expansion, 2026-11-01: 50 languages, Chinese counting once). English is the source; every
 other language falls back to English for anything not yet translated. By
 maintainer decision (2026-10-31) the translations are machine-made and ship before native
 review; `docs/specs/release-status.json` records each language as unreviewed
@@ -35,6 +35,34 @@ check of keys, placeholders and plural structure, then `flutter gen-l10n`.
 | Bengali | `bn` | `bn` |
 | Persian (right to left) | `fa` | `fa` |
 | Hausa | `ha` | `ha` |
+| Urdu (right to left) | `ur` | `ur` |
+| Marathi | `mr` | `mr` |
+| Telugu | `te` | `te` |
+| Swahili | `sw` | `sw` |
+| Punjabi | `pa` | `pa` |
+| Filipino | `fil` | `fil` |
+| Tamil | `ta` | `ta` |
+| Amharic | `am` | `am` |
+| Javanese | `jv` | `jv` |
+| Gujarati | `gu` | `gu` |
+| Kannada | `kn` | `kn` |
+| Yoruba | `yo` | `yo` |
+| Pashto (right to left) | `ps` | `ps` |
+| Malay | `ms` | `ms` |
+| Oromo | `om` | `om` |
+| Burmese | `my` | `my` |
+| Malayalam | `ml` | `ml` |
+| Sindhi (right to left) | `sd` | `sd` |
+| Odia | `or` | `or` |
+| Uzbek | `uz` | `uz` |
+| Igbo | `ig` | `ig` |
+| Sundanese | `su` | `su` |
+| Zulu | `zu` | `zu` |
+| Azerbaijani | `az` | `az` |
+| Somali | `so` | `so` |
+| Assamese | `as` | `as` |
+| Romanian | `ro` | `ro` |
+| Nepali | `ne` | `ne` |
 
 `lib/l10n/arb/app_pt.arb` and `app_zh.arb` exist only because the Flutter
 generator needs a base file; the app never selects them, so leave them empty.

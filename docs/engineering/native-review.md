@@ -42,7 +42,7 @@ rest.
 | 11 | Arabic | Needs the right-to-left layout check as well |
 | 12 | Russian | Searchable in the US store; payments are restricted |
 | 13 to 19 | Polish, Dutch, Turkish, Indonesian, Thai, Ukrainian, Hindi | Smaller or later markets |
-| 20 to 22 | Bengali, Persian, Hausa | Top-50 pilot (2026-11-01). Hausa is the weakest: the translator reported low confidence, there is no settled everyday word for dementia, Finish the saying is left out for lack of genuine sayings, and its pages are held from the search index until a reader has checked them |
+| 20 to 50 | Bengali, Urdu, Marathi, Telugu, Swahili, Punjabi, Filipino, Tamil, Persian, Gujarati, Kannada, Malay, Malayalam, Odia, Uzbek, Azerbaijani, Assamese, Romanian, Nepali, Javanese, Sundanese, Igbo, Zulu, Yoruba, Amharic, Pashto, Burmese, Sindhi, Somali, Oromo, Hausa | Top-50 expansion (2026-11-01), roughly in descending order of translator confidence: review the later ones first if reviewers are scarce, since they carry the most risk. Weakest, held from the search index until a reader has checked them: Hausa, Amharic, Burmese, Pashto, Sindhi, Somali and Oromo (reports of low confidence; no settled everyday word for dementia in several). Finish the saying is left out for every language that could not supply 30 genuine sayings (all of these except Bengali, Urdu, Marathi, Telugu, Swahili, Tamil, Persian, Malay, Malayalam, Javanese, Romanian), and Burmese and Yoruba have no word search grid |
 
 ## What to review, per language
 
