@@ -36,7 +36,8 @@
       "size": {
         "one": "{n} dlaždica",
         "few": "{n} dlaždice",
-        "other": "{n} dlaždíc"
+        "other": "{n} dlaždíc",
+        "many": "{n} dlaždíc"
       },
       "viewLegend": "Ako hrať",
       "viewShowing": "Obrázky viditeľné",
@@ -73,7 +74,8 @@
       "basket": {
         "one": "Košík „{basket}“, vnútri {count} obrázok",
         "few": "Košík „{basket}“, vnútri {count} obrázky",
-        "other": "Košík „{basket}“, vnútri {count} obrázkov"
+        "other": "Košík „{basket}“, vnútri {count} obrázkov",
+        "many": "Košík „{basket}“, vnútri {count} obrázkov"
       }
     },
     "picturePuzzle": {
@@ -92,14 +94,16 @@
       "size": {
         "one": "{n} dielik",
         "few": "{n} dieliky",
-        "other": "{n} dielikov"
+        "other": "{n} dielikov",
+        "many": "{n} dielikov"
       },
       "pickedUp": "Dielik je vybraný. Teraz klepnite na miesto, kam patrí.",
       "whole": "Obrázok „{name|lower}“ je opäť celý. Kedykoľvek si môžete vybrať ďalší.",
       "swapped": {
         "one": "Vymenené. Na správnom mieste: {correct} z {total}.",
         "few": "Vymenené. Na správnom mieste: {correct} z {total}.",
-        "other": "Vymenené. Na správnom mieste: {correct} z {total}."
+        "other": "Vymenené. Na správnom mieste: {correct} z {total}.",
+        "many": "Vymenené. Na správnom mieste: {correct} z {total}."
       },
       "guideAlt": "Celý obrázok: {name}",
       "guideText": "Takto vyzerá obrázok, keď je celý.",
@@ -146,7 +150,8 @@
       "size": {
         "one": "{n} × {n} (slov: {words})",
         "few": "{n} × {n} (slov: {words})",
-        "other": "{n} × {n} (slov: {words})"
+        "other": "{n} × {n} (slov: {words})",
+        "many": "{n} × {n} (slov: {words})"
       },
       "print": "Vytlačiť túto hádanku",
       "letterChosen": "Vybrané písmeno {letter}. Teraz klepnite na posledné písmeno slova.",
@@ -212,7 +217,8 @@
       "skipped": {
         "one": "{count} súbor nie je fotografia, ktorú vieme zobraziť.",
         "few": "{count} súbory nie sú fotografie, ktoré vieme zobraziť.",
-        "other": "{count} súborov nie sú fotografie, ktoré vieme zobraziť."
+        "other": "{count} súborov nie sú fotografie, ktoré vieme zobraziť.",
+        "many": "{count} súborov nie sú fotografie, ktoré vieme zobraziť."
       },
       "playAgain": "Hrať znova s týmito fotografiami",
       "empty": "Vaše fotografie sa objavia tu, každá dvakrát."
@@ -222,7 +228,8 @@
       "called": {
         "one": "{name}. Vyťahované obrázky: {called} z {total}.",
         "few": "{name}. Vyťahované obrázky: {called} z {total}.",
-        "other": "{name}. Vyťahované obrázky: {called} z {total}."
+        "other": "{name}. Vyťahované obrázky: {called} z {total}.",
+        "many": "{name}. Vyťahované obrázky: {called} z {total}."
       },
       "start": "Klepnutím na „Ďalší obrázok“ vytiahnete prvý obrázok.",
       "restart": "Začať novú hru",
@@ -232,12 +239,14 @@
       "cards": {
         "one": "{n} kartička",
         "few": "{n} kartičky",
-        "other": "{n} kartičiek"
+        "other": "{n} kartičiek",
+        "many": "{n} kartičiek"
       },
       "print": {
         "one": "Vytlačiť {n} bingo kartičku",
         "few": "Vytlačiť {n} bingo kartičky",
-        "other": "Vytlačiť {n} bingo kartičiek"
+        "other": "Vytlačiť {n} bingo kartičiek",
+        "many": "Vytlačiť {n} bingo kartičiek"
       },
       "ready": "Môžeme začať, keď budete chcieť",
       "next": "Ďalší obrázok",
