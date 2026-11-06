@@ -61,13 +61,9 @@ void main() {
     testWidgets('three steps, then Done for now saves today on this phone', (
       tester,
     ) async {
-      final store = const MomentHistoryStore();
+      const store = MomentHistoryStore();
       await tester.pumpApp(
-        DailyMomentPage(
-          pictures: ActivityPicture.samples,
-          store: store,
-          clock: () => _today,
-        ),
+        DailyMomentPage(pictures: ActivityPicture.samples, clock: () => _today),
       );
       final l10n = _l10n(tester, DailyMomentPage);
 
@@ -96,13 +92,9 @@ void main() {
     testWidgets('Back goes to the previous picture and nothing is saved', (
       tester,
     ) async {
-      final store = const MomentHistoryStore();
+      const store = MomentHistoryStore();
       await tester.pumpApp(
-        DailyMomentPage(
-          pictures: ActivityPicture.samples,
-          store: store,
-          clock: () => _today,
-        ),
+        DailyMomentPage(pictures: ActivityPicture.samples, clock: () => _today),
       );
       final l10n = _l10n(tester, DailyMomentPage);
 
@@ -122,11 +114,9 @@ void main() {
       'an unreadable history is not overwritten; the person is told',
       (tester) async {
         SharedPreferences.setMockInitialValues({_key: 'broken'});
-        final store = const MomentHistoryStore();
         await tester.pumpApp(
           DailyMomentPage(
             pictures: ActivityPicture.samples,
-            store: store,
             clock: () => _today,
           ),
         );
