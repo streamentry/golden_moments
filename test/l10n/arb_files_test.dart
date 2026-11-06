@@ -193,12 +193,15 @@ void main() {
       expect(pick([const Locale('zh')]), hans);
     });
 
-    test('Portugal gets European Portuguese; other Portuguese is Brazilian', () {
-      expect(pick([const Locale('pt', 'PT')]), const Locale('pt', 'PT'));
-      expect(pick([const Locale('pt', 'BR')]), const Locale('pt', 'BR'));
-      expect(pick([const Locale('pt')]), const Locale('pt', 'BR'));
-      expect(pick([const Locale('pt', 'AO')]), const Locale('pt', 'BR'));
-    });
+    test(
+      'Portugal gets European Portuguese; other Portuguese is Brazilian',
+      () {
+        expect(pick([const Locale('pt', 'PT')]), const Locale('pt', 'PT'));
+        expect(pick([const Locale('pt', 'BR')]), const Locale('pt', 'BR'));
+        expect(pick([const Locale('pt')]), const Locale('pt', 'BR'));
+        expect(pick([const Locale('pt', 'AO')]), const Locale('pt', 'BR'));
+      },
+    );
 
     test('an unoffered language falls through, then to English', () {
       expect(
