@@ -103,7 +103,7 @@ For mer om musikk, se [musikkaktiviteter for demens](/activities/music/).
 | --- | --- | --- |
 | Hvilken høytid er på den fjerde torsdagen i november? | Arbeidernes dag, **Thanksgiving**, Minnedagen | Hva sto alltid på bordet hos dere? |
 | Jack-o'-lanterns lages til hvilken høytid? | **Halloween**, påske, jul | Fortell om Halloween der du vokste opp |
-| 4. juli feirer erklæringen av ... | rettigheter, **uavhengighet**, frihet | Hvor så du fyrverkeriet? |
+| Fjerde juli feirer erklæringen om ... | rettigheter, **uavhengighet**, frihet | Hvor så du fyrverkeriet? |
 | Morsdag er i hvilken måned? | April, **mai**, juni | Hvordan feiret familien din? |
 | Hvor mange stjerner er det på det amerikanske flagget? | 48, **50**, 52 | Flagget hadde 48 stjerner til 1959. Begge svarene er et godt minne |
 | Hvilket hav ligger på østkysten? | Stillehavet, **Atlanterhavet**, Polhavet | Har du noen gang vært på stranden? |

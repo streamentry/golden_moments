@@ -124,7 +124,7 @@ Sikkerhet kommer først, særlig på kjøkkenet. NIAs [tips om hjemmesikkerhet f
 - Oppbevar kniver, saks og elektriske verktøy i et låst område.
 - Sett sikkerhetsknotter og en automatisk avslagsbryter på komfyren.
 - Sett opp skilt med «Stopp» eller «Veldig varmt» ved ovnen, brødristeren og strykejernet, plassert slik at de ikke kan ta fyr.
-- Still varmtvannsberederen på 120°F (49 °C) for å redusere faren for skoldning.
+- Still varmtvannsberederen på 120°F for å redusere faren for skoldning.
 - Fjern kunstig frukt og matformede magneter, som kan se spiselige ut.
 
 Noen flere praktiske vaner hjelper:

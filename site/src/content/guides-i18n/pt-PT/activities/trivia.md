@@ -104,7 +104,7 @@ Para mais sobre música, veja [atividades com música para a demência](/activit
 | --- | --- | --- |
 | Que festa acontece na quarta quinta-feira de novembro? | Dia do Trabalho (Labor Day), **Dia de Ação de Graças**, Memorial Day | O que estava sempre na sua mesa? |
 | As abóboras iluminadas são feitas para que festa? | **Halloween**, Páscoa, Natal | Fale-me do Halloween onde cresceu |
-| O 4 de julho celebra a Declaração de... | Direitos, **Independência**, Liberdade | Onde viu os fogos de artifício? |
+| A festa da Independência dos EUA celebra a Declaração de... | Direitos, **Independência**, Liberdade | Onde viu os fogos de artifício? |
 | O Dia da Mãe é em que mês? | Abril, **maio**, junho | Como celebrava a sua família? |
 | Quantas estrelas tem a bandeira americana? | 48, **50**, 52 | A bandeira teve 48 estrelas até 1959. Qualquer das respostas é uma boa memória |
 | Que oceano banha a costa leste? | Pacífico, **Atlântico**, Ártico | Alguma vez foi à praia? |

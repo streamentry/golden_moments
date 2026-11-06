@@ -118,7 +118,7 @@ Kaldt vær har også betydning. Om vinteren, hold utetiden kort, og sørg for at
 
 ## Hvordan håndterer jeg å gå seg bort når vi er ute?
 
-Bli hos personen når de er utendørs. Alzheimer’s Association sier at [seks av ti personer som lever med demens](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) vil vandre rundt minst én gang, og mange gjør det mer enn én gang. Det kan skje i alle stadier.
+Bli hos personen når de er utendørs. Alzheimer’s Association sier at [6 av 10 personer som lever med demens](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) vil vandre rundt minst én gang, og mange gjør det mer enn én gang. Det kan skje i alle stadier.
 
 NIAs [tips om å vandre rundt og gå seg bort](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) inkluderer:
 
