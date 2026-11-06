@@ -72,7 +72,7 @@ Odpoveď je označená **tučne**. Prispôsobte to človeku: niekto, kto vyrást
 | Ktorý spevák mal prezývku Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Ktorá Sinatrova pieseň sa vám páči najviac? |
 | Bing Crosby snívał o bielych... | **Vianociach**, svadbách, domoch | Spievajte spolu jeden riadok |
 | Louis Armstrong spieval „What a Wonderful...“ | Deň, **Svet**, Život | Čo vám na svete pripadá úžasné? |
-| „Over the Rainbow“ spievala Judy Garland v ktorom filme? | **Čarodejník z krajiny Oz**, Vietor v ušiach, Spievať v daždi | Kde ste videli svoje obľúbené filmy? |
+| „Over the Rainbow“ spievala Judy Garland v ktorom filme? | **Čarodejník z krajiny Oz**, Unesení vetrom, Spievať v daždi | Kde ste videli svoje obľúbené filmy? |
 | Kto hral Lucy v seriáli „I Love Lucy“? | **Lucille Ball**, Doris Day, Betty White | Aké relácie spolu sledovala vaša rodina? |
 | Ktorý kovboj jazdil na koni menom Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Hrali ste sa ako dieťa na kovbojov? |
 | Kto moderoval „The Tonight Show“ 30 rokov? | Ed Sullivan, **Johnny Carson**, Bob Hope | Sedeli ste dlho do noci, aby ste sledovali televíziu? |
@@ -139,7 +139,7 @@ Dopĺňanie porekadla vychádza z jazyka naučeného dávno a často prichádza 
 | Nepočítaj kuriatka, kým sa... | **Vyliahnu**, vyspia, zaspievajú | Chovala vaša rodina sliepky? |
 | Ušetrený groš je groš... | **Zarobený**, stratený, minutý | Kto bol vo vašej rodine šetrivec? |
 | Domov je tam, kde je... | Záhrada, **srdce**, kuchyňa | Čo robí miesto domovom? |
-| Lepšie neskoro než... | Skoro, **nikdy**, nikdy | Kto vždy meškal? |
+| Lepšie neskoro než... | Skoro, **nikdy**, hneď | Kto vždy meškal? |
 | Každý mrak má strieborný... | **Lem**, lyžicu, mincu | Rozprávajte mi o šťastnej náhode |
 | Skutky hovoria hlasnejšie než... | **Slová**, hudba, hrom | Rozprávajte mi o niekom, kto to povedal |
 
