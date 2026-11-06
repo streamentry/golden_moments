@@ -86,7 +86,7 @@ Alzheimer’s Association foreslår også å se en favorittfilm samtidig fra hve
 
 ### Spill et mildt spill på en delt skjerm
 
-Mange videoappper lar deg dele skjermen. Du åpner spillet og trykker; personen forteller deg eller peker på hvilket bilde som skal velges. Eller hjelperen på stedet åpner det samme spillet på et nettbrett og trykker for dem mens du prater.
+Mange videoapper lar deg dele skjermen. Du åpner spillet og trykker; personen forteller deg eller peker på hvilket bilde som skal velges. Eller hjelperen på stedet åpner det samme spillet på et nettbrett og trykker for dem mens du prater.
 
 Spill som fungerer godt på denne måten:
 

@@ -88,7 +88,7 @@ Se não souber por onde começar, experimente uns minutos de cada um destes e ob
 10. **Toque um instrumento que ela conheça.** Um antigo pianista ou guitarrista pode gostar de tocar de forma simples. Mais tarde, tirar algumas notas em conjunto basta.
 11. **Música enquanto trabalha.** Toque as canções preferidas enquanto dobra roupa ou põe a mesa.
 12. **Canção da manhã.** Comece cada dia com a mesma canção alegre, como parte da rotina.
-13. **Cante hinos ou música sacra.** Toque música da tradição da sua fé e cantem juntos.
+13. **Cante hinos ou música sacra.** Toque música da tradição da sua fé e cante em conjunto.
 14. **Junte-se a um grupo de canto.** A NHS descreve os grupos de canto como bons para o humor e o bem-estar. Pergunte na sua zona por coros adaptados à demência.
 15. **Vá a música ao vivo.** Um pequeno concerto comunitário ou uma banda ao ar livre. Sente-se perto da saída e saia quando quiser.
 
