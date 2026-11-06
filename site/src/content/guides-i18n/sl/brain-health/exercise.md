@@ -63,7 +63,7 @@ starejšim odraslim in nežne načine gibanja z osebo, ki živi z demenco.
 Raziskave kažejo, da so telesno dejavni ljudje manj nagnjeni k demenci, vendar imajo
 dokazi meje. [Komisija Lancet o demenci iz leta 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)
 telesno nedejavnost uvršča med 14 dejavnikov tveganja, ki jih je mogoče spremeniti.
-Skupaj ti dejavniki po njenem modelu predstavljajo približno 45 % primerov demence na
+Skupaj ti 14 dejavnikov po njenem modelu predstavlja približno 45 % primerov demence na
 svetu.
 
 Dokazi izgledajo takole:
@@ -155,7 +155,7 @@ pozneje. Predčasen konec ali skupno sedenje zunaj je prav tako dober izid.
 Po gibanju vam lahko pri umiritvi pomaga kratek premor, na primer
 [Mirno dihanje](/games/calm-breathing/). Za sedečo dejavnost z nežnim gibanjem rok se za
 delo za mizo dobro obnesejo [Razvrščanje skupaj](/games/sort-together/) in
-[Slikovni bingo](/games/picture-bingo/).
+[Bingo s slikami](/games/picture-bingo/).
 
 ## Ravnotežje in varnost pred padci
 

@@ -113,10 +113,10 @@ Po [navodilih Googla za pripenjanje zaslonov](https://support.google.com/android
 2. Tapnite **Varnost** (ali **Varnost in lokacija**), nato **Napredno** in nato **Pripenjanje aplikacij** (App pinning). Če tega ne najdete, preverite pomoč proizvajalca naprave.
 3. Vklopite **Pripenjanje aplikacij**. Za odpenjanje boste potrebovali PIN, vzorec ali geslo.
 4. Odprite želeno aplikacijo. Povlecite navzgor do sredine zaslona in ga zadržite, da odprete pregled (Overview), ali tapnite pregled pri
-   tridelni navigaciji.
+   3-gumbni navigaciji.
 5. Na vrhu predogleda aplikacije tapnite ikono aplikacije, nato tapnite **Pin**.
 
-Za odpenjanje pri navigaciji s kretnjami povlecite navzgor in zadržite. Pri tridelni navigaciji zadržite gumb Nazaj in pregled. Pri dvodelni navigaciji
+Za odpenjanje pri navigaciji s kretnjami povlecite navzgor in zadržite. Pri 3-gumbni navigaciji zadržite gumb Nazaj in pregled. Pri 2-gumbni navigaciji
 zadržite gumba Nazaj in Home. Nato vnesite PIN, vzorec ali geslo.
 
 ## Ali obstaja enostavnejši način za celoten iPhone ali iPad?

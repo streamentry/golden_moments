@@ -14,7 +14,7 @@ summary: >-
   zmedenost zahteva nujno oskrbo.
 keyPoints:
   - "Občasna pozabljivost je pri starosti pogosta; spremembe, ki motijo vsakdanje življenje, je vredno preveriti."
-  - "Združenje Alzheimer opisuje 10 opozorilnih znakov, pri vsakem pa za primerjavo navaja tipično spremembo, povezano s starostjo."
+  - "Alzheimerjevo združenje opisuje 10 opozorilnih znakov, pri vsakem pa za primerjavo navaja tipično spremembo, povezano s starostjo."
   - "Težave s ščitnico, pomanjkanje vitamina B12, stranski učinki zdravil, depresija, okužbe in težave s spanjem lahko vplivajo na spomin, nekatere od njih pa so zdravljive."
   - "Demenco lahko diagnosticira le usposobljen strokovnjak; spletni kvizi in samopreizkusi tega ne morejo."
   - "Zmedenost, ki se pojavi nenadoma, v nekaj urah ali dneh, je lahko delirij in zahteva nujno zdravniško oskrbo."
@@ -62,7 +62,7 @@ kvize ali samopreizkuse.
 
 ## Kateri so zgodnji znaki demence?
 
-[Združenje Alzheimer](https://www.alz.org/alzheimers-dementia/10_signs) opisuje 10 zgodnjih znakov.
+[Alzheimerjevo združenje](https://www.alz.org/alzheimers-dementia/10_signs) opisuje 10 zgodnjih znakov.
 Pri vsakem navaja tipično spremembo, povezano s starostjo, za primerjavo. Z našimi besedami:
 
 | Znak, ki ga je vredno preveriti | Bolj značilno s starostjo |
@@ -116,7 +116,7 @@ Na spomin lahko vplivajo številne stvari, razen demence, nekatere pa se ob zdra
 - **velik stres ali žalovanje**, na primer ob upokojitvi ali izgubi partnerja.
 
 Težave s sluhom in vidom so lahko napačno razumljene kot zmedenost; glejte naš [vodnik o sluhu](/brain-health/hearing/).
-Zato je zdravniški pregled pomemben. Po navedbah [Združenja Alzheimer](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor)
+Zato je zdravniški pregled pomemben. Po navedbah [Alzheimerjevega združenja](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor)
 zdravniki pogosto naročijo krvne preiskave, da preverijo težave s ščitnico, pomanjkanje vitaminov in okužbe.
 Vredno je omeniti tudi dober [spanec](/brain-health/sleep/) in zdravljenje depresije.
 
@@ -139,7 +139,7 @@ vprašanj in zapišite, katera zdravila jemlje.
 
 ## Kako se pripravim na pregled pri zdravniku?
 
-Dober pregled se začne z dobrimi zapiski. [Združenje Alzheimer](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor)
+Dober pregled se začne z dobrimi zapiski. [Alzheimerjevo združenje](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor)
 svetuje, da prinesete:
 
 1. **Seznam sprememb** v spominu, razpoloženju in vedenju, s konkretnimi primeri in približno časom, ko so se začele;

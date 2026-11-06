@@ -105,7 +105,7 @@ mogoče spremeniti, in ocenilo, da so skupaj odgovorni za **skoraj polovico (pri
 *teoretično* lahko preprečili ali odložili, če bi odpravili tveganja
 ([poročilo komisije Lancet iz leta 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-Dejavniki, razvrščeni glede na življenjsko obdobje, v katerem so dokazi najmočnejši:
+14 dejavnikov, razvrščenih glede na življenjsko obdobje, v katerem so dokazi najmočnejši:
 
 - **Zgodnje življenje:** manj izobrazbe.
 - **Srednja leta (približno od 40 do 65 let):** izguba sluha, visok LDL
@@ -331,6 +331,6 @@ znak možganske kapi ali drugega nujnega stanja. Pokličite 911.
 
 Golden Moments ponuja preproste skupne dejavnosti, kot so
 [kartice za pogovor](/games/conversation-cards/),
-[slikovni bingo](/games/picture-bingo/) in
-[mirni premor za dihanje](/games/calm-breathing/). Namenjene so uživanju in skupnemu
+[bingo s slikami](/games/picture-bingo/) in
+[Mirno dihanje](/games/calm-breathing/). Namenjene so uživanju in skupnemu
 času. Niso zdravljenje in **ne** preprečujejo ali upočasnjujejo demence.

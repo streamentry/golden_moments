@@ -196,7 +196,7 @@ Povejte zdravniku, da ste skrbnik. NIA pojasnjuje, da lahko svetovalci in social
 stroške duševnega zdravja.
 
 Če se počutite v krizi ali imate misli, da bi si škodovali, pokličite ali pošljite sporočilo na 988, da dosežete
-[988 Suicide & Crisis Lifeline](https://988lifeline.org/), ki je brezplačna in na voljo 24 ur na dan. Če je kdo
+[988 Suicide & Crisis Lifeline](https://988lifeline.org/), ki je brezplačna in na voljo 24/7. Če je kdo
 v neposredni nevarnosti, pokličite 911.
 
 ## Ali mi lahko skupne dejavnosti dajo tudi predah?
@@ -204,5 +204,5 @@ v neposredni nevarnosti, pokličite 911.
 Včasih. Mirna dejavnost, v kateri oba uživata, je lahko nežnejši del dneva tako za vas kot za osebo, za katero
 skrbite: poslušanje starih pesmi, ogled fotografij ali igra, na primer [Kartice za pogovor](/games/conversation-cards/),
 ki ne zahteva pravilnih odgovorov. Če oseba uživa v družbi, vam lahko skupinsko srečanje z
-[Slikovnim bingom](/games/picture-bingo/) v središču za starejše ali dnevnem programu za odrasle da eno uro
+[Bingom s slikami](/games/picture-bingo/) v središču za starejše ali dnevnem programu za odrasle da eno uro
 predaha. Za zamisli glejte [dejavnosti za skupine v domovih za starejše](/activities/care-home-groups/).

@@ -209,7 +209,7 @@ Bodite previdni, kadar aplikacija ali oglas trdi, da:
 
 Golden Moments ponuja preproste skupne dejavnosti, ne testa spomina, terapije ali zdravniškega nasveta. Naše igre, kot so
 [Pari slik](/games/picture-pairs/), [Kartice za pogovor](/games/conversation-cards/), [Pari fotografij](/games/photo-pairs/),
-[Slikovni bingo](/games/picture-bingo/) in [Mirno dihanje](/games/calm-breathing/), so narejene za uživanje in pogovor. Ne
+[Bingo s slikami](/games/picture-bingo/) in [Mirno dihanje](/games/calm-breathing/), so narejene za uživanje in pogovor. Ne
 diagnosticirajo, ne zdravijo, ne preprečujejo in ne merijo demence, prav tako pa ne trdimo ničesar o spominu ali razmišljanju.
 
 Ponujamo tudi brezplačno aplikacijo [Golden Moments za iPhone, iPad in Android](/app/). Ima nežno ujemanje slik z velikimi

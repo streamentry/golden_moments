@@ -1,6 +1,6 @@
 ---
 title: "Nasveti za pogovor z osebo, ki ima demenco"
-seoTitle: "Nasveti za sporazumevanje pri demenci: kaj reči in česa se izogniti"
+seoTitle: "Sporazumevanje pri demenci: kaj reči in česa se izogniti"
 description: "Praktični načini pogovora z osebo, ki živi z demenco: kako začeti pogovor, kaj reči namesto izpraševanja ali popravljanja in kako dobro poslušati."
 section: caregiving
 order: 2

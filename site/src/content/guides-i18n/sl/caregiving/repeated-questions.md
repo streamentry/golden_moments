@@ -97,7 +97,7 @@ Dokler oseba še zna brati, ji pogosto bolj pomaga napisan odgovor, ki ga lahko 
 
 | Orodje | Kako ga uporabiti |
 | --- | --- |
-| Opomnik z velikimi črkami | „Zdravnik danes ob 14. uri. Mary bo peljala.“ Postavite ga tja, kjer oseba najpogosteje pogleda |
+| Opomnik z velikimi črkami | „Zdravnik danes ob 2. uri popoldne. Mary bo peljala.“ Postavite ga tja, kjer oseba najpogosteje pogleda |
 | Tabla | Današnji načrt v treh ali štirih vrsticah; vsako jutro zbrišite in napišite znova |
 | Velika ura z dnevom in datumom | Pomaga pri „Kateri dan je danes?“ in „Je že čas?“ |
 | Koledar | Vsak dan prečrtajte; obkrožite naslednji obisk |

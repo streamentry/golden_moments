@@ -171,7 +171,7 @@ NIA svetuje:
 
 Ti nasveti dobro delujejo skupaj z našimi [nasveti za sporazumevanje pri demenci](/caregiving/communication-tips/).
 Dejavnosti s slikami tudi zmanjšajo pritisk na poslušanje. [Pari slik](/games/picture-pairs/) in
-[kartice za pogovor](/games/conversation-cards/) temeljijo na tem, kar vidite, [dokončanje rekov](/games/finish-the-saying/)
+[kartice za pogovor](/games/conversation-cards/) temeljijo na tem, kar vidite, [dokončaj rek](/games/finish-the-saying/)
 pa omogoča, da pokažete konec namesto da ga izgovorite. Za klice glejte naš vodnik o
 [telefonskih in videoklicih](/activities/phone-and-video-calls/).
 

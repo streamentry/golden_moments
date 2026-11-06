@@ -142,7 +142,7 @@ Zamisli, ki dobro delujejo:
    ali točk, zato ni pritiska. Naš vodnik o [skupnem igranju](/caregiving/how-to-play-together/) ponuja nasvete.
 3. **Uporabite družinske fotografije.** [Pari fotografij](/games/photo-pairs/) spremeni fotografije, ki jih
    izberete, v igro ujemanja, fotografije pa ostanejo v vaši napravi.
-4. **Povežite ljudi.** [Slikovni bingo](/games/picture-bingo/) deluje na družinskih srečanjih in v
+4. **Povežite ljudi.** [Bingo s slikami](/games/picture-bingo/) deluje na družinskih srečanjih in v
    [skupinah v domovih za starejše](/activities/care-home-groups/).
 5. **Delite glasbo, opravila ali vrt.** Glejte [glasbene dejavnosti](/activities/music/),
    [gospodinjska opravila](/activities/household-tasks/) in naš celoten seznam

@@ -202,7 +202,7 @@ pomembni za osebe, ki živijo z demenco, da ohranijo uživanje in smisel
   omogočajo, da se počuti sposobno, ne preizkušano.
 - **Pogovor.** Slika ali znan pregovor lahko odpre zgodbo. Poskusite
   [kartice za pogovor](/games/conversation-cards/) ali
-  [dokončanje rekov](/games/finish-the-saying/).
+  [dokončaj rek](/games/finish-the-saying/).
 
 Česa se je treba izogibati: časovnikov, točk, nizov uspehov in vsega, kar je
 videti kot test spomina. Če se oseba razburi, nehajte. Predčasen konec ali

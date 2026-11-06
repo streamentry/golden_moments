@@ -119,7 +119,7 @@ predlogi vključujejo:
 - **Izogibajte se alkoholu,** tudi v majhnih količinah, svetuje NIA.
 - **Izogibajte se velikim obrokom v dveh do treh urah pred spanjem** in velikim pijačam pozno
   popoldne.
-- **Redno telovadite, vendar ne v treh urah pred spanjem.** Glejte naš [vodnik o vadbi](/brain-health/exercise/).
+- **Redno telovadite, vendar ne v 3 urah pred spanjem.** Glejte naš [vodnik o vadbi](/brain-health/exercise/).
 - **Zaslone držite izven spalnice.** NIA predlaga, da tam ne gledate televizije in ne uporabljate
   računalnika, telefona ali tablice.
 - **Če lahko, se izogibajte dremanju pozno popoldne ali zvečer.**

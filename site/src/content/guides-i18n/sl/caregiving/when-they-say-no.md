@@ -121,7 +121,7 @@ Zapišite:
 - kako sta spala, jedla in pila ter kdaj je bila nazadnje v kopalnici;
 - morebitna nova zdravila ali nedavno bolezen.
 
-Vzorci se pogosto hitro pokažejo: zavrnitve, ki se zgodijo samo po 16. uri, samo pri določeni igri ali samo ob vklopljenem televizorju. Vodnik
+Vzorci se pogosto hitro pokažejo: zavrnitve, ki se zgodijo samo po 4. uri popoldne, samo pri določeni igri ali samo ob vklopljenem televizorju. Vodnik
 [Family Caregiver Alliance o vedenju pri demenci](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) to pove preprosto: osebe
 ne moremo spremeniti, lahko pa spremenimo svoje vedenje in okolje.
 
