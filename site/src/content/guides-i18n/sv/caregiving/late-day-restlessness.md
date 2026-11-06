@@ -144,4 +144,4 @@ Alzheimer’s Association säger att icke-medicinska metoder i allmänhet föred
 
 ## Hur klarar jag kvällarna själv?
 
-Sena eftermiddagar kan vara den svåraste delen av en anhörigs dag. Om du kan, be en familjemedlem, vän eller betald hjälp att ta över den sena eftermiddagen några dagar i veckan, även bara en timme. Vår guide om [omsorg om dig själv](/caregiving/caregiver-self-care/) listar avlastningsalternativ och Alzheimer’s Associations kostnadsfria hjälplinje dygnet runt.
+Sena eftermiddagar kan vara den svåraste delen av en anhörigs dag. Om du kan, be en familjemedlem, vän eller betald hjälp att ta över den sena eftermiddagen några dagar i veckan, även bara en timme. Vår guide om [omsorg om dig själv](/caregiving/caregiver-self-care/) listar avlastningsalternativ och Alzheimer’s Associations kostnadsfria hjälplinje 24/7.

@@ -112,7 +112,7 @@ Anteckna:
 - hur de sov, åt och drack, och när de senast var på toaletten;
 - eventuella nya läkemedel eller nyligen sjukdom.
 
-Mönster syns ofta snabbt: nej som bara kommer efter klockan 16, bara vid ett visst spel, eller bara när TV:n är på. [Family Caregiver Alliance:s guide till beteenden vid demens](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sammanfattar det enkelt: vi kan inte ändra personen, men vi kan ändra vårt eget beteende och omgivningen.
+Mönster syns ofta snabbt: nej som bara kommer efter kl. 4 på eftermiddagen, bara vid ett visst spel, eller bara när TV:n är på. [Family Caregiver Alliance:s guide till beteenden vid demens](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sammanfattar det enkelt: vi kan inte ändra personen, men vi kan ändra vårt eget beteende och omgivningen.
 
 ## När ska jag tala med läkare om nej eller frustration?
 

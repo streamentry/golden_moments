@@ -74,7 +74,7 @@ Den ärliga slutsatsen är att röra sig för att det hjälper dig att må och f
 
 | Typ | Mängd per vecka | Exempel |
 | --- | --- | --- |
-| Uthållighet | Minst 150 minuters måttlig aktivitet, till exempel 30 minuter fem dagar | Rask promenad, dans, vattengymnastik |
+| Uthållighet | Minst 150 minuters måttlig aktivitet, till exempel 30 minuter 5 dagar | Rask promenad, dans, vattengymnastik |
 | Styrka för musklerna | Minst 2 dagar, med alla större muskelgrupper | Att lyfta lätta vikter eller konservburkar, träningsband |
 | Balans | Regelbundet | Att gå tå mot häl, resa sig från en stol |
 

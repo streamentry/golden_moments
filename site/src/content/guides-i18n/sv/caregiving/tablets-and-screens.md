@@ -102,10 +102,10 @@ Enligt [Googles hjälp för Android om fästning av skärmar](https://support.go
 1. Öppna appen **Inställningar**.
 2. Tryck på **Säkerhet** (eller **Säkerhet och plats**), sedan på **Avancerat** och sedan på **Appfästning**. Om du inte hittar den, kolla hjälpsidorna från din enhetstillverkare.
 3. Slå på **Appfästning**. Din PIN-kod, ditt mönster eller ditt lösenord behövs för att lösa fästningen.
-4. Öppna appen du vill använda. Svep upp till mitten av skärmen och håll kvar för att öppna Översikt (eller tryck på Översikt med navigering via tre knappar).
+4. Öppna appen du vill använda. Svep upp till mitten av skärmen och håll kvar för att öppna Översikt (eller tryck på Översikt med navigering med 3 knappar).
 5. Tryck på appens ikon överst i förhandsvisningen av appen och tryck sedan på **Fäst**.
 
-För att lösa fästningen med svepnavigering, svep upp och håll kvar. Med navigering via tre knappar, tryck och håll kvar på Tillbaka och Översikt. Med navigering via två knappar, tryck och håll kvar på Tillbaka och Start. Ange sedan din PIN-kod, ditt mönster eller ditt lösenord.
+För att lösa fästningen med svepnavigering, svep upp och håll kvar. Med navigering med 3 knappar, tryck och håll kvar på Tillbaka och Översikt. Med navigering med 2 knappar, tryck och håll kvar på Tillbaka och Start. Ange sedan din PIN-kod, ditt mönster eller ditt lösenord.
 
 ## Finns det ett enklare läge för hela iPhone eller iPad?
 

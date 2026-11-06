@@ -119,7 +119,7 @@ Avlastning är korttidsvård för personen du vårdar, så att du kan vila. NIA:
 
 Flera kostnadsfria tjänster i USA kan hänvisa dig till lokal hjälp.
 
-- **Alzheimer’s Associations hjälplinje dygnet runt: 1-800-272-3900.** [Hjälplinjen](https://www.alz.org/help-support/resources/helpline) är gratis och konfidentiell och bemannad dygnet runt, alla dagar om året, med hjälp på över 200 språk genom tvåspråkig personal eller tolkar. Ring 711 för en teleförmedlingstjänst. Du kan prata om beteendeförändringar, stress som anhörig, avlastningsalternativ, lokala program och mer, och be om ett längre samtal med en vårdkonsult. Personalen ger inte medicinska råd.
+- **Alzheimer’s Associations hjälplinje 24/7: 1-800-272-3900.** [Hjälplinjen](https://www.alz.org/help-support/resources/helpline) är gratis och konfidentiell och bemannad dygnet runt, alla dagar om året, med hjälp på över 200 språk genom tvåspråkig personal eller tolkar. Ring 711 för en teleförmedlingstjänst. Du kan prata om beteendeförändringar, stress som anhörig, avlastningsalternativ, lokala program och mer, och be om ett längre samtal med en vårdkonsult. Personalen ger inte medicinska råd.
 - **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), en offentlig tjänst från Administration for Community Living, kopplar dig till tjänster för äldre och deras familjer. Du kan ringa, skicka sms, chatta på nätet eller mejla utbildad personal, eller söka efter plats. Tjänsten kan hänvisa dig till din lokala Area Agency on Aging.
 - **ARCH National Respite Locator Service.** [ARCH:s avlastningssökning](https://archrespite.org/caregiver-resources/respitelocator/) hjälper dig att hitta avlastningsgivare per delstat och föreslår att du först kontaktar din delstats Respite Coalition eller ett Lifespan Respite-program, om din delstat har ett sådant. ARCH påpekar att de inte granskar givarna, så du bör själv kontrollera deras erfarenhet och bakgrund.
 
@@ -150,7 +150,7 @@ Gör en enkel reservplan nu. NIA föreslår att du bestämmer tillsammans med fa
 
 Prata med din läkare om stressymtomen är återkommande, om du känner dig deprimerad eller om du har svårt att klara av situationen. Berätta för din läkare att du är anhörig. NIA påpekar att kuratorer och socialarbetare kan hjälpa till med svåra känslor och planering, och att Medicare, Medicaid och vissa privata försäkringar kan täcka en del av kostnaderna för psykisk hälsovård.
 
-Om du känner dig i kris eller tänker skada dig själv, ring eller sms:a 988 till [988 Suicide & Crisis Lifeline](https://988lifeline.org/). Tjänsten är kostnadsfri och öppen dygnet runt. Om någon är i omedelbar fara, ring 911.
+Om du känner dig i kris eller tänker skada dig själv, ring eller sms:a 988 till [988 Suicide & Crisis Lifeline](https://988lifeline.org/). Tjänsten är kostnadsfri och öppen 24/7. Om någon är i omedelbar fara, ring 911.
 
 ## Kan gemensamma aktiviteter ge mig en paus också?
 
