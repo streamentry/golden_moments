@@ -80,7 +80,7 @@ Jedan ohrabrujući znak: Lancetova komisija iz 2024. izvijestila je da se u neki
 
 Lancetova komisija za sprječavanje, liječenje i skrb kod demencije skupina je od 27 istraživača demencije koji svakih nekoliko godina pregledavaju dokaze. Njihovo izvješće iz 2024. navelo je **14 čimbenika rizika** koji se potencijalno mogu promijeniti i procijenilo da oni zajedno čine **gotovo polovicu (oko 45 %) slučajeva demencije u svijetu**. Prema riječima autora, ti bi se slučajevi *teoretski* mogli spriječiti ili odgoditi kad bi se rizici uklonili ([izvješće Lancetove komisije iz 2024.](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-Četrnaest čimbenika, grupiranih prema životnoj fazi u kojoj su dokazi najjači:
+14 čimbenika, grupiranih prema životnoj fazi u kojoj su dokazi najjači:
 
 - **Rano u životu:** manje obrazovanja.
 - **Srednja dob (otprilike od 40 do 65 godina):** gubitak sluha, visok LDL („loš“) kolesterol, depresija, ozljeda glave, tjelesna neaktivnost, dijabetes, pušenje, visok krvni tlak, pretilost i pretjerano pijenje alkohola.

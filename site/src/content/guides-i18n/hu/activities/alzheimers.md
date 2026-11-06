@@ -95,7 +95,7 @@ Az Alzheimer's Association a középső szakaszt jellemzően a leghosszabbnak í
 
 1. **Hajtogassanak, rendezzenek és párosítsanak.** Törölközők, zoknik, evőeszközök, gombok színek szerint. Valódi munkák, egymás mellett végezve.
 2. **Énekeljenek és mozogjanak zenére.** Tapsoljanak, ringassák magukat vagy táncoljanak a konyhában. Kezdjen Ön is énekelni, és hagyja, hogy a személy csatlakozzon.
-3. **Nézzenek át fotóalbumokat.** Mondja el, amit lát, és hívja meg a történetekre: „Milyen szép autó. Mesélj róla!” Fogadja el azokat a neveket, amelyeket a személy használ.
+3. **Nézzenek át fotóalbumokat.** Mondja el, amit lát, és hívja meg a történetekre: „Milyen szép autó. Meséljen róla.” Fogadja el azokat a neveket, amelyeket a személy használ.
 4. **Játsszanak egyszerű képes játékokat.** [Képpárok](/games/picture-pairs/) négy-hat kártyával, a képek látható állapotban, vagy [Keresse az egyformát](/games/find-the-same/) két-három választási lehetőséggel.
 5. **Fejezzenek be ismerős mondásokat.** „Egy alma naponta…” A régen megtanult mondások gyakran könnyen eszébe jutnak. Próbálja ki a [Fejezze be a mondást](/games/finish-the-saying/) játékot, ahol egyetlen érintéssel bármelyik befejezést megmutathatja.
 6. **Öntözzenek és gondozzanak növényeket.** Beltéri cserepek vagy egy magas ágyás, kis öntözőkannával.

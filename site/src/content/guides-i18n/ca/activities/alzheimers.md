@@ -94,7 +94,7 @@ L’Alzheimer’s Association descriu la fase mitjana com la més llarga habitua
 
 1. **Doblegar, classificar i aparellar.** Tovalloles, mitjons, coberteria, botons per colors. Feines de veritat, fetes una al costat de l’altra.
 2. **Cantar i moure’s al ritme de la música.** Batre les mans, balancejar-se o ballar a la cuina. Comenci a cantar vostè i deixi que s’hi uneixin.
-3. **Mirar àlbums de fotos.** Descrigui el que veu i convidi a explicar històries: «Quin cotxe! Expliqui’m-ne alguna cosa.» Segueixi els noms que faci servir.
+3. **Mirar àlbums de fotos.** Descrigui el que veu i convidi a explicar històries: «Quin cotxe tan bonic és aquest. Expliqui’m-ne alguna cosa.» Segueixi els noms que faci servir.
 4. **Jugar a jocs d’imatges senzills.** [Parelles d’imatges](/games/picture-pairs/) amb quatre a sis fitxes i les imatges visibles, o [Trobar la mateixa](/games/find-the-same/) amb dues o tres opcions.
 5. **Acabar refranys coneguts.** «Una poma al dia fa fora el...» Els refranys après fa molt de temps sovint surten sense esforç. Proveu [Acabar el refrany](/games/finish-the-saying/), on pot mostrar qualsevol final amb un toc.
 6. **Regar i cuidar les plantes.** Test d’interior o un hort elevat, amb una regadora petita.

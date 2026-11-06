@@ -68,7 +68,7 @@ Intet hjernespil har vist sig at forhindre demens. Det amerikanske National Inst
 
 Det gør ikke spil ubrugelige. Deres værdi ligger i glæde, selskab og rutine, ikke i at beskytte nogen mod demens.
 
-## Hvad er "nærtransfer", og hvorfor betyder det noget?
+## Hvad er »nærtransfer«, og hvorfor betyder det noget?
 
 Når du øver en opgave, bliver du som regel bedre til netop den opgave. Forskerne kalder det en træningseffekt. Det svære spørgsmål er, om forbedringen **overføres** til andre ting: til lignende opgaver (nærtransfer) eller til hverdagen, som at huske aftaler eller styre økonomien (fjerntransfer).
 
