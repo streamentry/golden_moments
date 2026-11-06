@@ -126,13 +126,13 @@ Když jsou dobře vybrány, hry mohou nabídnout:
 - **Spojení.** Hraní vedle sebe dává něco snadného ke sdílení, když je rozhovor těžký. Viz [jak hrát společně](/caregiving/how-to-play-together/).
 - **Řád.** Známá aktivita každý den ve stejnou dobu může přinést útěchu.
 - **Sebedůvěru.** Aktivity přizpůsobené tomu, co člověk ještě zvládá dobře, mu dávají pocit schopnosti, a ne zkoušky.
-- **Rozhovor.** Obrázek nebo známé rčení může otevřít příběh. Zkuste [karty k rozhovoru](/games/conversation-cards/) nebo [dokonči rčení](/games/finish-the-saying/).
+- **Rozhovor.** Obrázek nebo známé rčení může otevřít příběh. Zkuste [karty k rozhovoru](/games/conversation-cards/) nebo [doplňte rčení](/games/finish-the-saying/).
 
 Čemu se vyhnout: časovačům, bodům, sériím a všemu, co připomíná test paměti. Pokud je člověk frustrovaný, přestaňte. Ukončit hru brzy nebo jen spolu sedět je dobrý výsledek. Náš návod [jak vybírat aplikace a hry](/caregiving/choosing-apps-and-games/) obsahuje kontrolní seznam.
 
 ## Kam se hodí Golden Moments
 
-Hry Golden Moments, například [dvojice obrázků](/games/picture-pairs/), [obrázková skládačka](/games/picture-puzzle/) a [slovní hledání s velkým písmem](/games/word-search/), jsou určené k potěšení a společnému času. Nemají časovač ani bodování. **Nejsou** léčbou a **nepředcházejí** demenci ani ji **nezpomalují**. Raději to řekneme přímo, než abychom slibovali něco, co žádná hra nemůže splnit.
+Hry Golden Moments, například [dvojice obrázků](/games/picture-pairs/), [skládačka z obrázku](/games/picture-puzzle/) a [osmisměrka velkým písmem](/games/word-search/), jsou určené k potěšení a společnému času. Nemají časovač ani bodování. **Nejsou** léčbou a **nepředcházejí** demenci ani ji **nezpomalují**. Raději to řekneme přímo, než abychom slibovali něco, co žádná hra nemůže splnit.
 
 ## Promluvte si s lékařem
 
