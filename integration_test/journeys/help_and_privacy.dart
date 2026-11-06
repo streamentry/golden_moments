@@ -14,7 +14,7 @@ Future<void> helpAndPrivacy(WidgetTester tester) async {
   await waitFor(tester, startGentleGame);
 
   // The guide on Home says what the app is, and what it is not.
-  await tapOn(tester, find.byTooltip('Guide and privacy'));
+  await tapHomeMenuItem(tester, 'Guide and privacy');
   await waitFor(tester, find.text('Enjoy it together'));
   expect(find.textContaining('It does not diagnose'), findsOneWidget);
   expectNoPressureCues(tester);
@@ -59,7 +59,7 @@ Future<void> helpAndPrivacy(WidgetTester tester) async {
   await waitFor(tester, startGentleGame);
 
   // Privacy, terms and support: every link is named and explained.
-  await tapOn(tester, find.byTooltip('Guide and privacy'));
+  await tapHomeMenuItem(tester, 'Guide and privacy');
   await tapOn(tester, find.text('Privacy, terms and support'));
   await waitFor(tester, find.text('Your pictures, your choice'));
   for (final link in [

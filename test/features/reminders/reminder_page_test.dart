@@ -187,9 +187,14 @@ void main() {
   testWidgets('Home offers the reminder on iOS only', (tester) async {
     await tester.binding.setSurfaceSize(const Size(480, 2000));
     addTearDown(() => tester.binding.setSurfaceSize(null));
+    // The reminder is offered from the Home menu, and only where supported.
     await tester.pumpWidget(_app(const GentleHomePage(native: _ios)));
     await tester.pumpAndSettle();
-    expect(find.text('Gentle reminder'), findsOneWidget);
+    await tester.tap(find.text('Menu'));
+    await tester.pumpAndSettle();
+    expect(find.widgetWithText(ListTile, 'Gentle reminder'), findsOneWidget);
+    // A fresh tree, so the menu opened above does not carry over.
+    await tester.pumpWidget(const SizedBox());
     await tester.pumpWidget(
       _app(
         const GentleHomePage(
@@ -199,6 +204,8 @@ void main() {
       ),
     );
     await tester.pumpAndSettle();
-    expect(find.text('Gentle reminder'), findsNothing);
+    await tester.tap(find.text('Menu'));
+    await tester.pumpAndSettle();
+    expect(find.widgetWithText(ListTile, 'Gentle reminder'), findsNothing);
   });
 }

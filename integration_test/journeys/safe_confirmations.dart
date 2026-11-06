@@ -54,7 +54,7 @@ Future<void> safeConfirmations(
   expect(found(), 0, reason: 'Start again, once chosen, clears the board');
 
   // Comfort settings: a chosen tile count survives a declined reset.
-  await tapOn(tester, comfortSettingsButton);
+  await tapHomeMenuItem(tester, 'Comfort settings');
   await tapOn(tester, find.text('6 tiles'));
   await tapOn(tester, find.text('Reset comfort settings'));
   final keepSettings = find.text('Keep my settings');

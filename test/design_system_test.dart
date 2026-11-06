@@ -13,6 +13,8 @@ import 'package:golden_moments/features/legal/presentation/legal_info_page.dart'
 import 'package:golden_moments/l10n/l10n.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import 'helpers/home_menu.dart';
+
 double _contrast(Color a, Color b) {
   final la = a.computeLuminance();
   final lb = b.computeLuminance();
@@ -311,7 +313,7 @@ void main() {
       final handle = tester.ensureSemantics();
       await tester.pumpWidget(_app(const GentleHomePage()));
       await tester.pumpAndSettle();
-      await tester.tap(find.byTooltip('Comfort settings'));
+      await tapHomeMenuItem(tester, 'Comfort settings');
       await tester.pumpAndSettle();
       await expectGuidelines(tester);
       handle.dispose();

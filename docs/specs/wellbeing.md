@@ -65,8 +65,8 @@ Key `wellbeing.momentDays.v1` in shared preferences. JSON:
 - `lib/features/wellbeing/data/moment_history.dart`: the day store.
 - `lib/features/wellbeing/data/routines.dart`: the routine table.
 - `lib/features/wellbeing/presentation/`: the three pages.
-- Entry points: three text buttons on the Home screen, under "Look together" and above
-  the caregiver's "Today" button (`gentle_home_page.dart`).
+- Entry points: the Home menu (`home_menu_page.dart`), in the "Each day" section, with
+  the caregiver's "What is hardest today?" page.
 
 ## Tests
 

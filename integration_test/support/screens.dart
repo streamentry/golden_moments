@@ -11,7 +11,6 @@ final Finder startFresh = find.text('Start fresh');
 /// A finished board names the moment where the instruction was.
 final Finder gentleAllTogether = find.text('All pairs together.');
 final Finder playAgain = find.text('Play again');
-final Finder comfortSettingsButton = find.byTooltip('Comfort settings');
 
 /// Saved-board key for the included starter pictures (GM-004).
 const String starterSessionKey = 'gm.gentle.session.starter';
@@ -27,3 +26,21 @@ Finder buttonWithLabel<T extends Widget>(Finder label) => find.ancestor(
 bool isEnabled(WidgetTester tester, Finder label) => tester
     .widget<ButtonStyleButton>(buttonWithLabel<ButtonStyleButton>(label).first)
     .enabled;
+
+/// Opens the Home menu from its title-bar button and chooses the labelled row,
+/// as a person does (the menu replaced the old icon buttons on Home).
+Future<void> tapHomeMenuItem(WidgetTester tester, String label) async {
+  await tester.tap(find.text('Menu'));
+  await tester.pumpAndSettle();
+  final row = find.widgetWithText(ListTile, label);
+  // Menu rows are built lazily in a list; bring the row on screen first.
+  await tester.scrollUntilVisible(
+    row,
+    200,
+    scrollable: find.byType(Scrollable).first,
+  );
+  // Fully on screen, so the tap lands on the row.
+  await tester.ensureVisible(row);
+  await tester.tap(row);
+  await tester.pumpAndSettle();
+}

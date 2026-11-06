@@ -6,6 +6,8 @@ import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/pack_card.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import 'helpers/home_menu.dart';
+
 void main() {
   // Every test starts from a fresh install. Tests share one isolate in CI
   // (very_good --optimization, random order), so a board or comfort choice
@@ -22,11 +24,7 @@ void main() {
         home: GentleHomePage(),
       ),
     );
-    final library = find.text('Explore the picture-pack library');
-    await tester.ensureVisible(library);
-    await tester.pumpAndSettle();
-    await tester.tap(library);
-    await tester.pumpAndSettle();
+    await tapHomeMenuItem(tester, 'Explore the picture-pack library');
     expect(find.byType(PackCard), findsWidgets);
     expect(find.text('Download'), findsNothing);
     expect(find.text('Download Pack'), findsNothing);

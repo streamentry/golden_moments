@@ -1920,6 +1920,26 @@
   "@wellbeingItemCallSomeone": {
     "description": "Plain suggestion with no action, in the day planner. Not a health claim."
   },
+  "menuTitle": "Menu",
+  "@menuTitle": {
+    "description": "Home app bar button and the menu page title. One word."
+  },
+  "menuSectionActivities": "More activities",
+  "@menuSectionActivities": {
+    "description": "Menu section heading above the picture library. Short, sentence case."
+  },
+  "menuSectionEachDay": "Each day",
+  "@menuSectionEachDay": {
+    "description": "Menu section heading above the daily routine pages. Short, sentence case."
+  },
+  "menuSectionHealth": "Health and reminders",
+  "@menuSectionHealth": {
+    "description": "Menu section heading above Healthy habits and the gentle reminder. Short."
+  },
+  "menuSectionSettings": "Settings and help",
+  "@menuSectionSettings": {
+    "description": "Menu section heading above language, comfort settings and the guide. Short."
+  },
   "comfortHighContrast": "Higher contrast",
   "@comfortHighContrast": {
     "description": "Switch in the comfort settings. Turns on black text on white with stronger edges, for easier reading. Short."
