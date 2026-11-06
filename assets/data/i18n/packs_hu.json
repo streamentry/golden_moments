@@ -1,4 +1,165 @@
 {
-  "categories": {},
-  "packs": {}
+  "categories": {
+    "animals": {
+      "name": "Állatok",
+      "description": "Aranyos, barátságos állatok a világ minden tájáról"
+    },
+    "nature": {
+      "name": "Természet",
+      "description": "Gyönyörű tájak és természeti képek"
+    },
+    "food": {
+      "name": "Ételek",
+      "description": "Finom ételek és édességek"
+    },
+    "vintage": {
+      "name": "Autók",
+      "description": "Autók és teherautók, amelyeket jó nézegetni és megbeszélni"
+    },
+    "flowers": {
+      "name": "Virágok",
+      "description": "Szép virágok és kerti képek"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Háztáji állatok",
+      "description": "Barátságos háztáji állatok, mint egy vidéki látogatáson.",
+      "theme": "Élet a farmon",
+      "images": {
+        "cow_1": "Szelíd tehén",
+        "pig_1": "Vidám malac",
+        "chicken_1": "Kakas",
+        "buffalo_1": "Vízibivaly",
+        "horse_1": "Szép ló",
+        "duck_1": "Kacsacsalád",
+        "goat_1": "Kíváncsi kecske",
+        "rabbit_1": "Aranyos nyuszi"
+      }
+    },
+    "nature_mountains": {
+      "title": "Hegyi tájak",
+      "description": "Lenyűgöző hegyi tájak és kilátások",
+      "theme": "A természet szépsége",
+      "images": {
+        "mountain_1": "Hófödte csúcsok",
+        "mountain_2": "A Fudzsi",
+        "mountain_3": "Alpesi völgy",
+        "mountain_4": "Sziklás csúcs",
+        "mountain_5": "Erdős dombok",
+        "mountain_6": "Ködös hegyek"
+      }
+    },
+    "vintage_cars": {
+      "title": "Autók és teherautók",
+      "description": "Fényes autók és teherautók, amelyeket jó nézegetni és megbeszélni",
+      "theme": "Az úton",
+      "images": {
+        "vintage_car_1": "Narancssárga Audi naplementében",
+        "vintage_car_2": "Kék sportautó a sivatagban",
+        "vintage_car_3": "Ezüst Bugatti",
+        "vintage_car_4": "Fekete Porsche az úton",
+        "vintage_car_5": "Narancssárga BMW pálmafás utcában",
+        "vintage_car_6": "Kék kupé a garázs mellett",
+        "vintage_car_7": "Zöld pickup",
+        "vintage_car_8": "Fehér terepjáró a vörös sziklák között",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Kék autó fehér csíkokkal"
+      }
+    },
+    "animals_safari": {
+      "title": "Szafari állatok",
+      "description": "Felséges állatok az afrikai szafarikról",
+      "theme": "Vadvilág",
+      "images": {
+        "lion_1": "Felséges oroszlán",
+        "elephant_2": "Afrikai elefánt",
+        "jaguar_3": "Jaguár",
+        "zebra_4": "Csíkos zebra",
+        "rhino_5": "Erős orrszarvú",
+        "cheetah_6": "Gyors gepárd",
+        "fox_7": "Barna róka",
+        "bear_8": "Jegesmedve",
+        "turtle_9": "Barna teknős",
+        "squirrel_10": "Barna mókus",
+        "macaw_11": "Sárga-kék ara",
+        "tiger_12": "Tigris",
+        "raccoon_13": "Mosómedve",
+        "wolf_14": "Szürke farkas",
+        "crocodile_15": "Krokodil",
+        "peacock_16": "Gyönyörű páva"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Finom desszertek",
+      "description": "Néhány finom desszert az étkezések mellé.",
+      "theme": "Édes desszertek",
+      "images": {
+        "pastries_1": "Négy péksütemény",
+        "oreo_cookie_sandwiches_2": "Oreo keksz szendvicsek",
+        "crepe_3": "Palacsinta (crêpe)",
+        "pancake_4": "Amerikai palacsinta",
+        "macarons_5": "Makaronok",
+        "caramel_cake_6": "Karamellás torta"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Trópusi virágok",
+      "description": "Fedezze fel a trópusok élénk szépségét egzotikus virágok csomagjával.",
+      "theme": "Trópusi virágok",
+      "images": {
+        "hibiscus_1": "Piros hibiszkusz",
+        "frangipani_2": "Piros-fehér frangipáni",
+        "sunflower_3": "Napraforgó",
+        "hydrangea_4": "Fehér hortenzia",
+        "rose_5": "Rózsa",
+        "chrysanthemum_6": "Krizantém",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "delphinium_10": "Szarkaláb"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Utcai ételek ünnepe",
+      "description": "Fedezze fel az utcai ételek színes világát finom falatokkal a világ minden tájáról.",
+      "theme": "Utcai ételek",
+      "images": {
+        "taco_1": "Mexikói taco",
+        "ramen_2": "Japán ramen",
+        "dumplings_3": "Kínai gombóc",
+        "samosa_4": "Indiai szamosza",
+        "pizza_5": "Olasz pizzaszelet",
+        "crepe_6": "Francia palacsinta",
+        "satay_7": "Thai szatényárs",
+        "burger_8": "Amerikai hamburger",
+        "bao_9": "Párolt bao kenyér",
+        "takoyaki_10": "Japán takojaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Természeti tájak",
+      "description": "Nyugodt, szép természeti képek, amelyeket lassan érdemes nézni és együtt megbeszélni.",
+      "theme": "Természeti tájak",
+      "images": {
+        "mountain_1": "Hegylánc",
+        "forest_2": "Ködös erdő",
+        "lake_3": "Hegyi tó",
+        "desert_4": "Sivatagi dűnék",
+        "waterfall_5": "Vízesés",
+        "beach_6": "Homokos tengerpart",
+        "river_7": "Hömpölygő folyó",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Naplementés ég",
+        "snow_mountain_10": "Havas hegy",
+        "flowers_11": "Vadvirágok",
+        "rainforest_12": "Esőerdő",
+        "iceberg_13": "Jéghegy",
+        "volcano_14": "Vulkán",
+        "cliff_15": "Tengerparti szikla",
+        "aurora_16": "Sarki fény",
+        "savannah_17": "Szavanna",
+        "coral_reef_18": "Korallzátony"
+      }
+    }
+  }
 }

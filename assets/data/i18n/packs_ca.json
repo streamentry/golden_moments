@@ -1,4 +1,166 @@
 {
-  "categories": {},
-  "packs": {}
+  "categories": {
+    "animals": {
+      "name": "Animals",
+      "description": "Animals simpàtics i amables d’arreu del món"
+    },
+    "nature": {
+      "name": "Natura",
+      "description": "Paisatges preciosos i escenes de la natura"
+    },
+    "food": {
+      "name": "Menjar",
+      "description": "Àpats i llaminadures deliciosos"
+    },
+    "vintage": {
+      "name": "Cotxes",
+      "description": "Cotxes i camions per mirar i comentar"
+    },
+    "flowers": {
+      "name": "Flors",
+      "description": "Flors precioses i escenes de jardí"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Animals de granja",
+      "description": "Animals de granja amables, com en una visita al camp.",
+      "theme": "La vida a pagès",
+      "images": {
+        "cow_1": "Vaca amable",
+        "pig_1": "Porc content",
+        "chicken_1": "Gall",
+        "buffalo_1": "Búfal d’aigua",
+        "horse_1": "Cavall preciós",
+        "duck_1": "Família d’ànecs",
+        "goat_1": "Cabra curiosa",
+        "rabbit_1": "Conill simpàtic"
+      }
+    },
+    "nature_mountains": {
+      "title": "Paisatges de muntanya",
+      "description": "Paisatges de muntanya i panoràmiques impressionants",
+      "theme": "La bellesa de la natura",
+      "images": {
+        "mountain_1": "Cims nevats",
+        "mountain_2": "Mont Fuji",
+        "mountain_3": "Vall alpina",
+        "mountain_4": "Cim rocós",
+        "mountain_5": "Turons amb bosc",
+        "mountain_6": "Muntanyes entre la boira"
+      }
+    },
+    "vintage_cars": {
+      "title": "Cotxes i camions",
+      "description": "Cotxes i camions lluents per mirar i comentar",
+      "theme": "Per la carretera",
+      "images": {
+        "vintage_car_1": "Audi taronja a la posta de sol",
+        "vintage_car_2": "Cotxe esportiu blau al desert",
+        "vintage_car_3": "Bugatti platejat",
+        "vintage_car_4": "Porsche negre a la carretera",
+        "vintage_car_5": "BMW taronja en un carrer amb palmeres",
+        "vintage_car_6": "Cupè blau al costat d’un garatge",
+        "vintage_car_7": "Camioneta verda",
+        "vintage_car_8": "Tot terreny blanc entre roques vermelles",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Cotxe blau amb ratlles blanques"
+      }
+    },
+    "animals_safari": {
+      "title": "Animals de safari",
+      "description": "Animals majestuosos dels safaris africans",
+      "theme": "Vida salvatge",
+      "images": {
+        "lion_1": "Lleó majestuós",
+        "elephant_2": "Elefant africà",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Zebra ratllada",
+        "rhino_5": "Rinoceront poderós",
+        "cheetah_6": "Guepard veloç",
+        "fox_7": "Guineu marró",
+        "bear_8": "Ós polar",
+        "turtle_9": "Tortuga marró",
+        "squirrel_10": "Esquirol marró",
+        "macaw_11": "Guacamai groc i blau",
+        "tiger_12": "Tigre",
+        "raccoon_13": "Os rentador",
+        "wolf_14": "Llop gris",
+        "crocodile_15": "Cocodril",
+        "peacock_16": "Paó preciós"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Postres deliciosos",
+      "description": "Unes postres deliciosos per als seus àpats.",
+      "theme": "Postres dolces",
+      "images": {
+        "pastries_1": "Quatre pastissets",
+        "oreo_cookie_sandwiches_2": "Galetes sandvitx d’Oreo",
+        "crepe_3": "Crep",
+        "pancake_4": "Pancake",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Pastís de caramel"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Flors tropicals",
+      "description": "Descobreixi la bellesa vibrant dels tròpics amb aquesta col·lecció de flors exòtiques.",
+      "theme": "Flors tropicals",
+      "images": {
+        "hibiscus_1": "Hibisc vermell",
+        "frangipani_2": "Frangipani vermell i blanc",
+        "sunflower_3": "Gira-sol",
+        "hydrangea_4": "Hortènsia blanca",
+        "rose_5": "Rosa",
+        "chrysanthemum_6": "Crisantem",
+        "anthurium_7": "Anturi",
+        "plumeria_8": "Plumèria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Delfini"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Festa de menjar de carrer",
+      "description": "Exploï el món acolorit del menjar de carrer amb aquesta col·lecció de tapes i queviures d’arreu del món.",
+      "theme": "Menjar de carrer",
+      "images": {
+        "taco_1": "Taco mexicà",
+        "ramen_2": "Ramen japonès",
+        "dumplings_3": "Raviolis xinesos",
+        "samosa_4": "Samosa índia",
+        "pizza_5": "Tros de pizza italiana",
+        "crepe_6": "Crep francès",
+        "satay_7": "Broquetes de satai tailandeses",
+        "burger_8": "Hamburguesa americana",
+        "bao_9": "Panet bao al vapor",
+        "takoyaki_10": "Takoyaki japonès"
+      }
+    },
+    "nature_landscape": {
+      "title": "Paisatges de natura",
+      "description": "Escenes de natura tranquil·les i precioses per mirar a poc a poc i comentar plegats.",
+      "theme": "Paisatges de natura",
+      "images": {
+        "mountain_1": "Serralada",
+        "forest_2": "Bosc amb boira",
+        "lake_3": "Llac de muntanya",
+        "desert_4": "Dunes del desert",
+        "waterfall_5": "Cascada",
+        "beach_6": "Platja de sorra",
+        "river_7": "Riu que corre",
+        "canyon_8": "Gran Canyó",
+        "sunset_9": "Cel de posta de sol",
+        "snow_mountain_10": "Muntanya nevada",
+        "flowers_11": "Flors silvestres",
+        "rainforest_12": "Selva tropical",
+        "iceberg_13": "Iceberg",
+        "volcano_14": "Volcà",
+        "cliff_15": "Penya-segat al mar",
+        "aurora_16": "Aurora boreal",
+        "savannah_17": "Sabana",
+        "coral_reef_18": "Escull de corall"
+      }
+    }
+  }
 }

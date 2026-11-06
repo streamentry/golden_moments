@@ -1,4 +1,166 @@
 {
-  "categories": {},
-  "packs": {}
+  "categories": {
+    "animals": {
+      "name": "Živali",
+      "description": "Ljubke in prijazne živali z vsega sveta"
+    },
+    "nature": {
+      "name": "Narava",
+      "description": "Čudovite pokrajine in naravni prizori"
+    },
+    "food": {
+      "name": "Hrana",
+      "description": "Okusne jedi in priboljški"
+    },
+    "vintage": {
+      "name": "Avtomobili",
+      "description": "Avtomobili in tovornjaki za ogled in pogovor"
+    },
+    "flowers": {
+      "name": "Rože",
+      "description": "Čudovito cvetje in vrtni prizori"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Živali na kmetiji",
+      "description": "Prijazne kmečke živali, kot na obisku na podeželju.",
+      "theme": "Življenje na kmetiji",
+      "images": {
+        "cow_1": "Prijazna krava",
+        "pig_1": "Vesela svinja",
+        "chicken_1": "Petelin",
+        "buffalo_1": "Vodni bivol",
+        "horse_1": "Lep konj",
+        "duck_1": "Račja družina",
+        "goat_1": "Radovedna koza",
+        "rabbit_1": "Ljubek zajec"
+      }
+    },
+    "nature_mountains": {
+      "title": "Pogledi na gore",
+      "description": "Veličastne gorske pokrajine in razgledi",
+      "theme": "Naravne lepote",
+      "images": {
+        "mountain_1": "Zasneženi vrhovi",
+        "mountain_2": "Gora Fudži",
+        "mountain_3": "Alpska dolina",
+        "mountain_4": "Skalnat vrh",
+        "mountain_5": "Gozdnata gričevja",
+        "mountain_6": "Megleno gorovje"
+      }
+    },
+    "vintage_cars": {
+      "title": "Avtomobili in tovornjaki",
+      "description": "Bleščeči avtomobili in tovornjaki za ogled in pogovor",
+      "theme": "Na cesti",
+      "images": {
+        "vintage_car_1": "Oranžni audi ob sončnem zahodu",
+        "vintage_car_2": "Modri športni avto v puščavi",
+        "vintage_car_3": "Srebrni bugatti",
+        "vintage_car_4": "Črni porsche na cesti",
+        "vintage_car_5": "Oranžni BMW na ulici s palmami",
+        "vintage_car_6": "Modri kupe ob garaži",
+        "vintage_car_7": "Zeleni poltovornjak",
+        "vintage_car_8": "Beli SUV med rdečimi skalami",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Modri avto z belimi progami"
+      }
+    },
+    "animals_safari": {
+      "title": "Živali savane",
+      "description": "Veličastne živali afriških safarijev",
+      "theme": "Divje živali",
+      "images": {
+        "lion_1": "Veličastni lev",
+        "elephant_2": "Afriški slon",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Progasta zebra",
+        "rhino_5": "Mogočni nosorog",
+        "cheetah_6": "Hitri gepard",
+        "fox_7": "Rjava lisica",
+        "bear_8": "Polarni medved",
+        "turtle_9": "Rjava želva",
+        "squirrel_10": "Rjava veverica",
+        "macaw_11": "Rumeno-modri ara",
+        "tiger_12": "Tiger",
+        "raccoon_13": "Rakun",
+        "wolf_14": "Sivi volk",
+        "crocodile_15": "Krokodil",
+        "peacock_16": "Čudovit pav"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Slastni deserti",
+      "description": "Nekaj slastnih sladic za vaše obroke.",
+      "theme": "Sladki deserti",
+      "images": {
+        "pastries_1": "Štiri pecivo",
+        "oreo_cookie_sandwiches_2": "Sendvič piškoti Oreo",
+        "crepe_3": "Palačinka crêpe",
+        "pancake_4": "Ameriška palačinka",
+        "macarons_5": "Makroni",
+        "caramel_cake_6": "Karamelna torta"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropsko cvetje",
+      "description": "Odkrijte živopisno lepoto tropov s tem paketom eksotičnih rož.",
+      "theme": "Tropske rože",
+      "images": {
+        "hibiscus_1": "Rdeči hibiskus",
+        "frangipani_2": "Rdeče-bela frangipani",
+        "sunflower_3": "Sončnica",
+        "hydrangea_4": "Bela hortenzija",
+        "rose_5": "Vrtnica",
+        "chrysanthemum_6": "Krizantema",
+        "anthurium_7": "Anturij",
+        "plumeria_8": "Plumerija",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Ostrožnik"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Ulična hrana",
+      "description": "Odkrijte pisan svet ulične hrane s tem paketom okusnih prigrizkov z vsega sveta.",
+      "theme": "Ulična hrana",
+      "images": {
+        "taco_1": "Mehiški taco",
+        "ramen_2": "Japonski ramen",
+        "dumplings_3": "Kitajski cmoki",
+        "samosa_4": "Indijska samosa",
+        "pizza_5": "Italijanski kos pice",
+        "crepe_6": "Francoska palačinka crêpe",
+        "satay_7": "Tajski ražnjiči satay",
+        "burger_8": "Ameriški burger",
+        "bao_9": "Bao žemljica na pari",
+        "takoyaki_10": "Japonski takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Naravne pokrajine",
+      "description": "Mirni, lepi prizori narave, ki si jih lahko ogledujete počasi in se o njih pogovarjate.",
+      "theme": "Naravne pokrajine",
+      "images": {
+        "mountain_1": "Gorska veriga",
+        "forest_2": "Megleni gozd",
+        "lake_3": "Gorsko jezero",
+        "desert_4": "Puščavske sipine",
+        "waterfall_5": "Slap",
+        "beach_6": "Peščena plaža",
+        "river_7": "Tekoča reka",
+        "canyon_8": "Veliki kanjon",
+        "sunset_9": "Nebo ob sončnem zahodu",
+        "snow_mountain_10": "Zasnežena gora",
+        "flowers_11": "Poljsko cvetje",
+        "rainforest_12": "Deževni gozd",
+        "iceberg_13": "Ledena gora",
+        "volcano_14": "Vulkan",
+        "cliff_15": "Morski klif",
+        "aurora_16": "Polarni sij",
+        "savannah_17": "Savana",
+        "coral_reef_18": "Koralni greben"
+      }
+    }
+  }
 }
