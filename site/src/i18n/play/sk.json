@@ -1,0 +1,1018 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Hra",
+      "restart": "Začať odznova",
+      "soundOn": "Jemné zvuky zapnuté",
+      "soundOff": "Jemné zvuky vypnuté",
+      "done": "Zatiaľ dosť",
+      "feedbackQuestion": "Pomohlo vám to dnes?",
+      "feedbackYes": "Áno",
+      "feedbackNo": "Nie celkom",
+      "feedbackThanks": "Ďakujeme, že ste nám to povedali."
+    },
+    "tile": {
+      "named": "{name}, dlaždica {n}",
+      "hidden": "Skrytý obrázok, dlaždica {n}",
+      "withState": "{label}, {state}",
+      "matched": "Nájdené",
+      "selected": "Vybrané",
+      "picture": "Obrázok",
+      "photoNumber": "Fotografia {n}"
+    },
+    "pairs": {
+      "allTogether": "Všetky dvojice sú pokope. Môžete hrať znova alebo si oddýchnuť.",
+      "photoPair": "Dvojica fotografií, spolu.",
+      "picturePair": "Dvojica obrázkov: {name|lower}.",
+      "selected": "{name}. Teraz nájdite jeho dvojicu.",
+      "mismatch": "Nikam sa neponáhľajte. Klepnite na obrázok a pokračujte.",
+      "mismatchNamed": "{a} a {b}. Nikam sa neponáhľajte. Klepnite na obrázok a pokračujte."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Klepnite na obrázok a potom na ten, ktorý k nemu patrí.",
+      "guidanceHidden": "Klepnutím obráťte dve dlaždice. Hľadajte dve rovnaké.",
+      "restart": "Nové obrázky",
+      "sizeLegend": "Počet dlaždíc",
+      "size": {
+        "one": "{n} dlaždica",
+        "few": "{n} dlaždice",
+        "other": "{n} dlaždíc"
+      },
+      "viewLegend": "Ako hrať",
+      "viewShowing": "Obrázky viditeľné",
+      "viewHidden": "Skryté obrázky",
+      "playAgain": "Hrať znova s novými obrázkami",
+      "talk": "Porozprávajte sa spolu o obrázkoch"
+    },
+    "choose": {
+      "countLegend": "Počet obrázkov",
+      "count": "na výber: {n}",
+      "thatOne": "Tento obrázok je: {name|lower}. Nikam sa neponáhľajte."
+    },
+    "findTheSame": {
+      "guidance": "Pozrite sa na obrázok hore. Klepnite na rovnaký dole.",
+      "yes": "Áno, rovnaký obrázok: {name|lower}.",
+      "next": "Ďalší obrázok"
+    },
+    "shadowMatch": {
+      "guidance": "Pozrite sa na tieň hore. Klepnite na obrázok, ktorý ho vytvára.",
+      "yes": "Áno, tento tieň patrí k obrázku: {name|lower}.",
+      "next": "Ďalší tieň",
+      "shadowAlt": "Tieň na priradenie",
+      "foundAlt": "Tieň obrázka: {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Klepnite na obrázok a potom na košík, do ktorého patrí.",
+      "restart": "Nové obrázky",
+      "themeLegend": "Téma",
+      "selected": "{name}. Teraz klepnite na košík, do ktorého patrí.",
+      "pickFirst": "Najprv klepnite na obrázok a potom na košík.",
+      "hint": "Obrázok „{name|lower}“ by mohol patriť do košíka „{basket}“. Klepnutím naň ho tam dáte.",
+      "placed": "Obrázok „{name|lower}“ je v košíku „{basket}“.",
+      "sorted": "Všetko je roztriedené. Prezrite si spolu košíky alebo skúste inú tému.",
+      "basket": {
+        "one": "Košík „{basket}“, vnútri {count} obrázok",
+        "few": "Košík „{basket}“, vnútri {count} obrázky",
+        "other": "Košík „{basket}“, vnútri {count} obrázkov"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Klepnite na jeden dielik a potom na iný. Vymenia si miesta.",
+      "restart": "Znova zamiešať",
+      "pictureLegend": "Obrázok",
+      "pictures": {
+        "sailboat": "Plachetnica",
+        "house": "Dom",
+        "balloon": "Balón",
+        "sunflower": "Slnečnica",
+        "lighthouse": "Maják",
+        "cat": "Mačka"
+      },
+      "sizeLegend": "Dieliky",
+      "size": {
+        "one": "{n} dielik",
+        "few": "{n} dieliky",
+        "other": "{n} dielikov"
+      },
+      "pickedUp": "Dielik je vybraný. Teraz klepnite na miesto, kam patrí.",
+      "whole": "Obrázok „{name|lower}“ je opäť celý. Kedykoľvek si môžete vybrať ďalší.",
+      "swapped": {
+        "one": "Vymenené. Na správnom mieste: {correct} z {total}.",
+        "few": "Vymenené. Na správnom mieste: {correct} z {total}.",
+        "other": "Vymenené. Na správnom mieste: {correct} z {total}."
+      },
+      "guideAlt": "Celý obrázok: {name}",
+      "guideText": "Takto vyzerá obrázok, keď je celý.",
+      "piece": "Dielik: {place}",
+      "pieceInPlace": ", na správnom mieste",
+      "piecePickedUp": ", vybraný",
+      "places4": [
+        "vľavo hore",
+        "vpravo hore",
+        "vľavo dole",
+        "vpravo dole"
+      ],
+      "places9": [
+        "vľavo hore",
+        "hore v strede",
+        "vpravo hore",
+        "vľavo uprostred",
+        "v strede",
+        "vpravo uprostred",
+        "vľavo dole",
+        "dole v strede",
+        "vpravo dole"
+      ],
+      "done": "Obrázok je opäť celý. Môžete hrať znova alebo si oddýchnuť.",
+      "playAgain": "Zamiešať znova"
+    },
+    "finishTheSaying": {
+      "guidance": "Prečítajte si spolu porekadlo a potom klepnite na slovo, ktoré ho dokončí.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Áno, „{start} {end}.“",
+      "otherEnding": "Aj „{word}“ pasuje. Obvyklé porekadlo sa končí slovom „{end}“.",
+      "revealed": "Porekadlo znie „{start} {end}.“",
+      "choicesLabel": "Vyberte posledné slovo",
+      "show": "Ukázať koniec",
+      "talk": "Porozprávajte sa o tom: ",
+      "next": "Ďalšie porekadlo"
+    },
+    "wordSearch": {
+      "guidance": "Slová idú vodorovne alebo zvisle. Klepnite na prvé písmeno slova a potom na jeho posledné písmeno.",
+      "restart": "Nová hádanka",
+      "themeLegend": "Téma",
+      "sizeLegend": "Veľkosť mriežky",
+      "size": {
+        "one": "{n} × {n} (slov: {words})",
+        "few": "{n} × {n} (slov: {words})",
+        "other": "{n} × {n} (slov: {words})"
+      },
+      "print": "Vytlačiť túto hádanku",
+      "letterChosen": "Vybrané písmeno {letter}. Teraz klepnite na posledné písmeno slova.",
+      "found": "Slovo {word} je nájdené.",
+      "foundAll": "Slovo {word} je nájdené. To sú všetky slová. Môžete hrať znova alebo si oddýchnuť.",
+      "tryAgain": "Nikam sa neponáhľajte. Klepnite na prvé písmeno slova a potom na jeho posledné písmeno.",
+      "gridLabel": "Mriežka písmen, {n} riadkov po {n} písmen. Medzi písmenami sa pohybujte šípkami.",
+      "cell": "{letter}, riadok {row}, stĺpec {col}",
+      "cellFound": ", súčasť nájdeného slova",
+      "wordsHeading": "Slová na nájdenie",
+      "wordFound": " (nájdené)",
+      "sheetTitle": "Osemsmerovka: {theme}",
+      "sheetNote": "Slová idú vodorovne alebo zvisle.",
+      "unavailable": "Mriežka písmen sa pre tento jazyk nehodí, preto tu osemsmerovku neponúkame. Skúste namiesto toho obrázkové hry."
+    },
+    "coloring": {
+      "guidance": "Klepnite na farbu a potom na časť obrázka.",
+      "restart": "Vymazať farby",
+      "cleared": "Stránka je opäť prázdna.",
+      "pageLegend": "Stránka",
+      "print": "Vytlačiť túto stránku",
+      "colorsLabel": "Farby",
+      "paintChosen": "Vybraná farba: {paint|lower}.",
+      "painted": "{part}: farba {paint|lower}.",
+      "artLabel": "{page}, častí na vyfarbenie: {count}",
+      "partPainted": "{part}, farba {paint|lower}",
+      "partBlank": "{part}, nevyfarbené",
+      "paints": {
+        "red": "Červená",
+        "orange": "Oranžová",
+        "yellow": "Žltá",
+        "green": "Zelená",
+        "blue": "Modrá",
+        "purple": "Fialová",
+        "pink": "Ružová",
+        "brown": "Hnedá",
+        "sky-blue": "Nebesky modrá",
+        "cream": "Krémová",
+        "gray": "Sivá",
+        "white": "Biela"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Prečítajte kartičku nahlas. Nie sú tu správne odpovede.",
+      "position": "Kartička {n} z {total}",
+      "themeLegend": "Téma",
+      "next": "Ďalšia kartička",
+      "previous": "Predchádzajúca kartička",
+      "print": "Vytlačiť všetky kartičky",
+      "sheetTitle": "Kartičky na rozhovor"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Začnite výberom fotografií.",
+      "guidance": "Klepnite na fotografiu a potom na tú, ktorá k nej patrí.",
+      "restart": "Zamiešať znova",
+      "intro": "**Vyberte 2 až 6 fotografií** z tohto zariadenia. Zobrazujú sa iba na tejto stránke a nikdy sa nenahrávajú ani neukladajú.",
+      "choose": "Vybrať fotografie",
+      "chooseDifferent": "Vybrať iné fotografie",
+      "clear": "Vymazať fotografie",
+      "cleared": "Fotografie boli z tejto stránky odstránené.",
+      "atLeastTwo": "Vyberte prosím aspoň dve fotografie.",
+      "usingFirst": "Použije sa prvých {max} fotografií.",
+      "skipped": {
+        "one": "{count} súbor nie je fotografia, ktorú vieme zobraziť.",
+        "few": "{count} súbory nie sú fotografie, ktoré vieme zobraziť.",
+        "other": "{count} súborov nie sú fotografie, ktoré vieme zobraziť."
+      },
+      "playAgain": "Hrať znova s týmito fotografiami",
+      "empty": "Vaše fotografie sa objavia tu, každá dvakrát."
+    },
+    "pictureBingo": {
+      "guidance": "Najprv vytlačte kartičky. Potom ukážte toto vyťahovanie na najväčšej obrazovke, akú máte.",
+      "called": {
+        "one": "{name}. Vyťahované obrázky: {called} z {total}.",
+        "few": "{name}. Vyťahované obrázky: {called} z {total}.",
+        "other": "{name}. Vyťahované obrázky: {called} z {total}."
+      },
+      "start": "Klepnutím na „Ďalší obrázok“ vytiahnete prvý obrázok.",
+      "restart": "Začať novú hru",
+      "squaresLegend": "Políčka na každej kartičke",
+      "squares": "políčok: {n} ({side} × {side})",
+      "cardsLegend": "Koľko kartičiek vytlačiť",
+      "cards": {
+        "one": "{n} kartička",
+        "few": "{n} kartičky",
+        "other": "{n} kartičiek"
+      },
+      "print": {
+        "one": "Vytlačiť {n} bingo kartičku",
+        "few": "Vytlačiť {n} bingo kartičky",
+        "other": "Vytlačiť {n} bingo kartičiek"
+      },
+      "ready": "Môžeme začať, keď budete chcieť",
+      "next": "Ďalší obrázok",
+      "allCalled": "Všetky obrázky boli vytiahnuté",
+      "alreadyCalled": "Už vytiahnuté",
+      "sheetTitle": "Obrázkové bingo · kartička {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Nadýchnite sa, keď sa kruh zväčšuje, a vydýchnite, keď sa zmenšuje. Po šiestich nádychoch sa zastaví sám.",
+      "paceLegend": "Tempo",
+      "paceSlow": "Pomalé (5 sekúnd každým smerom)",
+      "paceGentle": "Jemné (4 sekundy každým smerom)",
+      "ready": "Môžeme začať, keď budete chcieť",
+      "in": "Nadýchnite sa",
+      "hold": "Oddych",
+      "out": "Vydýchnite",
+      "start": "Začať",
+      "stop": "Zastaviť",
+      "started": "Začalo sa. Nadýchnite sa, keď sa kruh zväčšuje.",
+      "stopped": "Zastavené.",
+      "finished": "To bolo šesť pomalých nádychov. Môžete začať znova, kedykoľvek chcete."
+    }
+  },
+  "pictures": {
+    "teacup": "Šálka na čaj",
+    "kettle": "Kanvica",
+    "bread": "Bochník chleba",
+    "frying-pan": "Panvica s vajíčkom",
+    "cake": "Torta k narodeninám",
+    "sunflower": "Slnečnica",
+    "tulip": "Červený tulipán",
+    "watering-can": "Krhla",
+    "potted-plant": "Izbová rastlina v kvetináči",
+    "tree": "Strom",
+    "bird": "Červienka na konári",
+    "butterfly": "Motýľ",
+    "dog": "Pes",
+    "cat": "Mačka",
+    "fish": "Zlatá rybka",
+    "apple": "Červené jablko",
+    "pear": "Hruška",
+    "strawberry": "Jahoda",
+    "banana": "Banán",
+    "lemon": "Citrón",
+    "cherries": "Čerešne",
+    "house": "Dom",
+    "lamp": "Stolná lampa",
+    "armchair": "Kreslo",
+    "key": "Starý kľúč",
+    "umbrella": "Dáždnik",
+    "sailboat": "Plachetnica",
+    "car": "Klasické auto",
+    "bicycle": "Bicykel",
+    "balloon": "Teplovzdušný balón",
+    "lighthouse": "Maják",
+    "sun": "Slnko",
+    "moon": "Mesiac a hviezdy"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "Bez práce nie sú",
+        "end": "koláče",
+        "others": [
+          "šišky",
+          "buchty"
+        ],
+        "prompt": "Aký koláč alebo zákusok sa u vás doma piekol?"
+      },
+      {
+        "start": "Opakovanie je matka",
+        "end": "múdrosti",
+        "others": [
+          "radosti",
+          "dobroty"
+        ],
+        "prompt": "Čo ste sa radi učili robiť rukami?"
+      },
+      {
+        "start": "Dobrá rada nad",
+        "end": "zlato",
+        "others": [
+          "striebro",
+          "poklad"
+        ],
+        "prompt": "Aká dobrá rada vám kedysi pomohla?"
+      },
+      {
+        "start": "Jablko nepadne ďaleko od",
+        "end": "stromu",
+        "others": [
+          "jablone",
+          "záhrady"
+        ],
+        "prompt": "Rástli vo vašej záhrade jablká alebo iné ovocie?"
+      },
+      {
+        "start": "Kto skoro vstáva, tomu pán Boh",
+        "end": "dáva",
+        "others": [
+          "žehná",
+          "pomáha"
+        ],
+        "prompt": "Čo máte radi na ranných chvíľach pri káve alebo čaji?"
+      },
+      {
+        "start": "Aká matka, taká",
+        "end": "Katka",
+        "others": [
+          "dcéra",
+          "rodina"
+        ],
+        "prompt": "Čo máte radi na rodinných stretnutiach?"
+      },
+      {
+        "start": "Hlad je najlepší",
+        "end": "kuchár",
+        "others": [
+          "pomocník",
+          "učiteľ"
+        ],
+        "prompt": "Aké jedlo máte najradšej?"
+      },
+      {
+        "start": "Všade dobre, doma",
+        "end": "najlepšie",
+        "others": [
+          "pekne",
+          "krásne"
+        ],
+        "prompt": "Čo máte najradšej na domove?"
+      },
+      {
+        "start": "Kto druhému jamu kope, sám do nej",
+        "end": "padne",
+        "others": [
+          "spadne",
+          "skočí"
+        ],
+        "prompt": "Ktoré porekadlo sa vám páči?"
+      },
+      {
+        "start": "Reč je striebro, mlčanie",
+        "end": "zlato",
+        "others": [
+          "diamant",
+          "poklad"
+        ],
+        "prompt": "Kedy máte radi pokojné ticho?"
+      },
+      {
+        "start": "Dvakrát meraj, raz",
+        "end": "strihaj",
+        "others": [
+          "rezaj",
+          "ši"
+        ],
+        "prompt": "Šili ste alebo pletali niečo pre rodinu?"
+      },
+      {
+        "start": "Pes, ktorý šteká,",
+        "end": "nehryzie",
+        "others": [
+          "neuteká",
+          "nespí"
+        ],
+        "prompt": "Mali ste niekedy doma psa?"
+      },
+      {
+        "start": "Pomaly ďalej",
+        "end": "zájdeš",
+        "others": [
+          "dôjdeš",
+          "prídeš"
+        ],
+        "prompt": "Kam sa radi prechádzate pomalým krokom?"
+      },
+      {
+        "start": "Aký pán, taký",
+        "end": "krám",
+        "others": [
+          "dvor",
+          "dom"
+        ],
+        "prompt": "Akú prácu ste mali radi?"
+      },
+      {
+        "start": "Koľko ľudí, toľko",
+        "end": "chutí",
+        "others": [
+          "farieb",
+          "nápadov"
+        ],
+        "prompt": "Máte radšej sladké alebo kyslé?"
+      },
+      {
+        "start": "Stará láska",
+        "end": "nehrdzavie",
+        "others": [
+          "nezabúda",
+          "nevädne"
+        ],
+        "prompt": "Čo vás poteší, keď si pozriete starú fotografiu?"
+      },
+      {
+        "start": "Lepšie neskoro ako",
+        "end": "nikdy",
+        "others": [
+          "nič",
+          "vôbec"
+        ],
+        "prompt": "Čo radi robíte pomalým tempom?"
+      },
+      {
+        "start": "Čo môžeš urobiť dnes, neodkladaj na",
+        "end": "zajtra",
+        "others": [
+          "večer",
+          "potom"
+        ],
+        "prompt": "Čo máte radi robiť ráno?"
+      },
+      {
+        "start": "Trpezlivosť ruže",
+        "end": "prináša",
+        "others": [
+          "rozdáva",
+          "pestuje"
+        ],
+        "prompt": "Aké ruže alebo iné kvety ste mali radi?"
+      },
+      {
+        "start": "Mnoho rúk, ľahká",
+        "end": "práca",
+        "others": [
+          "cesta",
+          "hra"
+        ],
+        "prompt": "Pomáhali ste niekedy spolu s rodinou v kuchyni alebo v záhrade?"
+      },
+      {
+        "start": "Dobrý začiatok, polovica",
+        "end": "roboty",
+        "others": [
+          "cesty",
+          "dňa"
+        ],
+        "prompt": "Čo je pre vás dobrý začiatok dňa?"
+      },
+      {
+        "start": "Ako sa do lesa volá, tak sa z lesa",
+        "end": "ozýva",
+        "others": [
+          "vracia",
+          "smeje"
+        ],
+        "prompt": "Chodili ste radi do lesa na huby alebo na prechádzku?"
+      },
+      {
+        "start": "Kde je vôľa, tam je",
+        "end": "cesta",
+        "others": [
+          "pomoc",
+          "dvere"
+        ],
+        "prompt": "Kam by ste sa radi vybrali na výlet?"
+      },
+      {
+        "start": "Do tretice všetko",
+        "end": "dobré",
+        "others": [
+          "pekné",
+          "krásne"
+        ],
+        "prompt": "Aké je vaše obľúbené číslo?"
+      },
+      {
+        "start": "Lepší vrabec v hrsti ako holub na",
+        "end": "streche",
+        "others": [
+          "strome",
+          "plote"
+        ],
+        "prompt": "Aké vtáky vídate pred oknom?"
+      },
+      {
+        "start": "Rím nebol postavený za jeden",
+        "end": "deň",
+        "others": [
+          "rok",
+          "týždeň"
+        ],
+        "prompt": "Čo ste postupne vybudovali alebo vypestovali?"
+      },
+      {
+        "start": "Všetko zlé je na niečo",
+        "end": "dobré",
+        "others": [
+          "lepšie",
+          "užitočné"
+        ],
+        "prompt": "Čo vám dnes urobilo radosť?"
+      },
+      {
+        "start": "Jedna lastovička jar",
+        "end": "nerobí",
+        "others": [
+          "nepredá",
+          "neprináša"
+        ],
+        "prompt": "Ktorý znak jari máte najradšej?"
+      },
+      {
+        "start": "Žiadny majster z neba",
+        "end": "nespadol",
+        "others": [
+          "neprišiel",
+          "neletel"
+        ],
+        "prompt": "Čo ste sa radi naučili robiť?"
+      },
+      {
+        "start": "Viac hláv, viac",
+        "end": "rozumu",
+        "others": [
+          "nápadov",
+          "smiechu"
+        ],
+        "prompt": "S kým sa radi rozprávate pri stole?"
+      },
+      {
+        "start": "V jednote je",
+        "end": "sila",
+        "others": [
+          "radosť",
+          "pokoj"
+        ],
+        "prompt": "Čo radi robíte spolu s rodinou?"
+      },
+      {
+        "start": "Šťastie praje",
+        "end": "odvážnym",
+        "others": [
+          "trpezlivým",
+          "pokojným"
+        ],
+        "prompt": "Čo vám robí radosť?"
+      }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVYZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Ovocie",
+          "words": [
+            "JABLKO",
+            "HRUŠKA",
+            "SLIVKA",
+            "CITRÓN",
+            "HROZNO",
+            "MELÓN",
+            "MALINA",
+            "BANÁN",
+            "ČEREŇA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Záhrada",
+          "words": [
+            "RUŽA",
+            "SEMENO",
+            "ZEM",
+            "LIST",
+            "STROM",
+            "KVET",
+            "RYBNÍK",
+            "VČELA",
+            "TRÁVA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kuchyňa",
+          "words": [
+            "ŠÁLKA",
+            "LYŽICA",
+            "MISA",
+            "TANIER",
+            "ČAJ",
+            "RÚRA",
+            "HRNIEC",
+            "SPORÁK",
+            "SÓL"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Počasie",
+          "words": [
+            "SLNKO",
+            "DAŽĎ",
+            "SNEH",
+            "VIETOR",
+            "MRAK",
+            "BÚRKA",
+            "HMLA",
+            "TEPLO",
+            "MRAZ"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Zvieratá",
+          "words": [
+            "PES",
+            "MAČKA",
+            "VTÁK",
+            "RYBA",
+            "KÔŇ",
+            "KRAVA",
+            "KAČKA",
+            "KOZA",
+            "OVCA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Domov",
+          "words": [
+            "DVERE",
+            "STOL",
+            "LAMPA",
+            "POSTEĽ",
+            "GAUČ",
+            "HODINY",
+            "OKNO",
+            "KĽÚČ",
+            "SKRINA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Všetky kartičky",
+        "food": "Jedlo",
+        "home": "Domov",
+        "outdoors": "Vonku",
+        "animals": "Zvieratá",
+        "travel": "Cestovanie",
+        "work": "Práca a záľuby",
+        "music": "Hudba a zábava",
+        "seasons": "Ročné obdobia"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Akú vôňu z kuchyne máte najradšej?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Akú tortu by ste si vybrali na oslavu?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Povedzte mi o obľúbenom ovocnom koláči alebo zákusku."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Ako máte radi čaj alebo kávu?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Čo robí naozaj dobré raňajky?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Zbierali ste niekedy ovocie priamo z rastliny?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Sladké alebo kyslé: čo máte radšej?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Aké jedlo vám chutí ako leto?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Povedzte mi o dome, v ktorom sa vám dobre bývalo."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Kde sa najradšej usadíte a oddýchnete si?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Čo radi robíte v pokojný večer?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Aký poklad by ste uschovali v osobitnej škatuľke?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Koho by ste pozvali na šálku čaju?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Čo radi robíte v daždivý deň?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Aké kvety by ste zasadili do záhrady?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Povedzte mi o strome alebo parku, ktorý máte radi."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Čo je na pobyte v záhrade najlepšie?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Aké farby kvetov máte najradšej?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Máte radi izbové rastliny?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Aký je podľa vás dokonalý slnečný deň?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Povedzte mi o psovi, ktorého ste poznali."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Mačky alebo psy, alebo ani jedno? Čo sa vám na nich páči?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Aké vtáky vidíte alebo počujete vonku?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Chytali ste niekedy ryby alebo ste mali akvárium?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Aké je najkrajšie zviera, aké ste videli?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Povedzte mi o aute, ktoré ste mali radi."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Strávili by ste radšej deň pri vode alebo v horách?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Kam by ste sa radi vybrali na vyjazdku?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Keby ste mohli preletieť ponad akékoľvek miesto, aké by to bolo?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Povedzte mi o výlete, ktorý vás potešil."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Akú prácu ste robili radi?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Aká záľuba by vám mohla zabrať celé hodiny?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Čo ste robili alebo opravovali tak dobre, že to o vás vedeli?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Akú radu by ste dali mladému človeku, ktorý začína pracovať?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Aká hudba vás núti ťukať nohou?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Čo robí naozaj dobrú oslavu?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ktorého speváka alebo spevákov radi počúvate?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Aký obľúbený film alebo seriál si radi pozriete znova?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Čo sa vám najviac páči na lete?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Čo máte radi na jeseni?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Čo je príjemné robiť v zimný večer?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Aké sú pre vás prvé znaky jari?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Sneh, dážď alebo slnko: čo máte radšej?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Kvetina v kvetináči",
+          "regions": {
+            "sky": "Pozadie",
+            "table": "Stôl",
+            "stem": "Stonka",
+            "leaf-left": "Ľavý list",
+            "leaf-right": "Pravý list",
+            "petal-1": "Lupienok 1",
+            "petal-2": "Lupienok 2",
+            "petal-3": "Lupienok 3",
+            "petal-4": "Lupienok 4",
+            "petal-5": "Lupienok 5",
+            "petal-6": "Lupienok 6",
+            "petal-7": "Lupienok 7",
+            "petal-8": "Lupienok 8",
+            "center": "Stred kvetu",
+            "pot": "Kvetináč",
+            "pot-rim": "Okraj kvetináča"
+          }
+        },
+        "house": {
+          "name": "Dom",
+          "regions": {
+            "sky": "Obloha",
+            "sun": "Slnko",
+            "grass": "Tráva",
+            "chimney": "Komín",
+            "walls": "Steny",
+            "roof": "Strecha",
+            "door": "Dvere",
+            "window-left": "Ľavé okno",
+            "window-right": "Pravé okno",
+            "path": "Chodník"
+          }
+        },
+        "teacup": {
+          "name": "Šálka",
+          "regions": {
+            "background": "Pozadie",
+            "saucer": "Tanierik",
+            "handle": "Ucho",
+            "cup": "Šálka",
+            "band": "Pruh na šálke",
+            "tea": "Čaj"
+          }
+        },
+        "butterfly": {
+          "name": "Motýľ",
+          "regions": {
+            "background": "Pozadie",
+            "wing-top-left": "Ľavé horné krídlo",
+            "wing-top-right": "Pravé horné krídlo",
+            "wing-bottom-left": "Ľavé dolné krídlo",
+            "wing-bottom-right": "Pravé dolné krídlo",
+            "spot-left": "Škvrna na ľavom krídle",
+            "spot-right": "Škvrna na pravom krídle",
+            "body": "Telo"
+          }
+        },
+        "sailboat": {
+          "name": "Plachetnica",
+          "regions": {
+            "sky": "Obloha",
+            "sea": "More",
+            "sail-big": "Veľká plachta",
+            "sail-small": "Malá plachta",
+            "mast": "Stožiar",
+            "hull": "Loď",
+            "flag": "Vlajka"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kuchyňa a záhrada",
+          "baskets": [
+            "V kuchyni",
+            "V záhrade"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Ovocie a zvieratá",
+          "baskets": [
+            "Ovocie",
+            "Zvieratá"
+          ]
+        },
+        "home-travel": {
+          "label": "Domov a cestovanie",
+          "baskets": [
+            "Doma",
+            "Vonku"
+          ]
+        }
+      }
+    }
+  }
+}
