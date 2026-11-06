@@ -60,7 +60,7 @@
   },
   "home": {
     "title": "Hry a aktivity pri demencii a Alzheimerovej chorobe | Golden Moments",
-    "description": "Bezplatné pokojné obrázkové hry online a nápady na aktivity pre ľudí žijúcich s demenciou či Alzheimerovou chorobou a ich opatrovateľov. Bez registrácie, časovačov a bodov.",
+    "description": "Bezplatné pokojné obrázkové hry online a nápady na aktivity pre ľudí s demenciou či Alzheimerovou chorobou a opatrovateľov. Bez registrácie, časovačov a bodov.",
     "eyebrow": "Zadarmo · Bez reklám · Bez registrácie · Bez časovačov a bodov",
     "h1": "Pokojné hry a aktivity pre ľudí s demenciou",
     "lede": "Jednoduché obrázkové hry, známe fotografie a aktivity na spoločné chvíle, vlastným tempom.",
@@ -244,14 +244,14 @@
       "label": "Aktivity",
       "title": "Aktivity pre ľudí s demenciou",
       "seo": "Aktivity pre ľudí s demenciou: nápady podľa štádia",
-      "description": "Nápady na aktivity pre ľudí žijúcich s demenciou v každom štádiu: hudba, spomínanie, bežné činnosti, zmyslové chvíle, tvorenie, pobyt vonku a bezplatné materiály na vytlačenie.",
+      "description": "Nápady na aktivity pre ľudí s demenciou v každom štádiu: hudba, spomínanie, bežné činnosti, zmyslové chvíle, tvorenie, pobyt vonku a materiály na vytlačenie.",
       "lede": "Zmysluplná aktivita je všetko, čo prináša pohodu, zmysel alebo chvíľu blízkosti. Začnite tým, čo človek mal vždy rád, a prispôsobte to dnešku."
     },
     "caregiving": {
       "label": "Starostlivosť",
       "title": "Príručky pre opatrovateľov",
       "seo": "Príručky pre opatrovateľov pri demencii: praktická pomoc na každý deň",
-      "description": "Praktické, láskavé príručky pre opatrovateľov pri demencii: spoločné hranie, dorozumievanie, odmietanie, nepokoj k večeru, tablety, výber aplikácií a starostlivosť o seba.",
+      "description": "Praktické, láskavé príručky pre opatrovateľov pri demencii: spoločné hranie, dorozumievanie, odmietanie, nepokoj k večeru, tablety a starostlivosť o seba.",
       "lede": "Jasná, praktická pomoc pre bežné chvíle starostlivosti o človeka žijúceho s demenciou, vrátane starostlivosti o seba."
     },
     "brain-health": {
@@ -391,7 +391,7 @@
     "handout": {
       "title": "Bezplatné pokojné hry pre ľudí žijúcich s demenciou",
       "seoTitle": "Leták na vytlačenie: bezplatné hry pri demencii online",
-      "description": "Jednostranový leták na vytlačenie pre rodiny a opatrovateľov o bezplatných pokojných obrázkových hrách pre ľudí žijúcich s demenciou, pre podporné skupiny a balíčky pre opatrovateľov.",
+      "description": "Jednostranový leták na vytlačenie pre rodiny a opatrovateľov o bezplatných pokojných obrázkových hrách pre ľudí s demenciou, pre podporné skupiny.",
       "crumb": "Leták na vytlačenie",
       "lede": "Vytlačte si túto stránku pre podpornú skupinu, balíček pre opatrovateľov alebo na dvere chladničky. Použite príkaz Tlačiť vo svojom prehliadači. Ponuky a tlačidlá sa na výtlačok nedostanú.",
       "introHtml": "<p>Veľké obrázky, jasné slová a nič, v čom by sa dalo zlyhať. Zadarmo na telefóne, tablete či počítači, bez registrácie, reklám, časovačov a bodov. Sadnite si vedľa seba a striedajte sa.</p>",
@@ -401,7 +401,7 @@
     "organizations": {
       "title": "Pre domovy seniorov, knižnice a podporné skupiny",
       "seoTitle": "Bezplatné aktivity pri demencii pre domovy a skupiny",
-      "description": "Ako domovy seniorov, denné centrá, knižnice, úrady pre starších a podporné skupiny využívajú naše bezplatné hry pri demencii, aj s textom na zaradenie nášho webu do zoznamu zdrojov.",
+      "description": "Ako domovy seniorov, denné centrá, knižnice a podporné skupiny využívajú naše bezplatné hry pri demencii, aj s textom na zaradenie do zoznamu zdrojov.",
       "crumb": "Pre organizácie",
       "lede": "Všetko na tomto webe môžete bezplatne používať s obyvateľmi, členmi a klientmi, bez účtu, licencie či poplatku. Táto stránka vysvetľuje, čo tu nájdete a ako to zdieľať.",
       "shortText": "{name}: bezplatné pokojné obrázkové hry a príručky aktivít pre ľudí žijúcich s demenciou a ich opatrovateľov. Bez registrácie, časovačov a bodov.",
@@ -419,7 +419,7 @@
     "app": {
       "title": "Aplikácia Golden Moments",
       "seoTitle": "Aplikácia Golden Moments pre iPhone a Android",
-      "description": "Bezplatná aplikácia Golden Moments: pokojné hľadanie dvojíc vo fotografiách so štyrmi veľkými dlaždicami, rodinné fotografie uložené vo vašom zariadení, obrázkové balíčky offline a bez účtu.",
+      "description": "Bezplatná aplikácia Golden Moments: pokojné hľadanie dvojíc so štyrmi veľkými dlaždicami, rodinné fotografie vo vašom zariadení, balíčky offline, bez účtu.",
       "crumb": "Aplikácia",
       "lede": "Všetko, čo sa vám páči na webe, v aplikácii, ktorá funguje offline a môže používať rodinné fotografie, ktoré si vyberiete.",
       "worksOn": "Funguje na: {platforms} ({requirements}).",
@@ -430,7 +430,7 @@
   },
   "gamesIndex": {
     "title": "Bezplatné hry pri demencii a Alzheimerovej chorobe online",
-    "description": "Bezplatné online hry pre seniorov žijúcich s demenciou alebo Alzheimerovou chorobou: hľadanie dvojíc, ľahké puzzle, triedenie, porekadlá, omaľovánky, bingo. Bez registrácie, časovačov a bodov.",
+    "description": "Bezplatné online hry pre seniorov s demenciou či Alzheimerovou chorobou: dvojice, ľahké puzzle, triedenie, porekadlá, bingo. Bez registrácie a časovačov.",
     "crumb": "Hry",
     "h1": "Pokojné hry pre ľudí s demenciou",
     "lede": "{count} bezplatných hier na spoločné hranie vo vašom prehliadači. Veľké obrázky, jasné slová a nič, v čom by sa dalo zlyhať: žiadne časovače, body ani registrácia.",

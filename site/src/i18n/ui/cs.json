@@ -401,7 +401,7 @@
     "organizations": {
       "title": "Pro domovy pro seniory, knihovny a podpůrné skupiny",
       "seoTitle": "Bezplatné aktivity při demenci pro domovy a skupiny",
-      "description": "Jak domovy pro seniory, denní stacionáře, knihovny, úřady pro seniory a podpůrné skupiny používají naše bezplatné hry při demenci, a text, kterým nás přidáte do seznamu zdrojů.",
+      "description": "Jak domovy pro seniory, stacionáře, knihovny a podpůrné skupiny používají naše bezplatné hry při demenci, a text pro přidání do seznamu zdrojů.",
       "crumb": "Pro organizace",
       "lede": "Všechno na tomto webu můžete zdarma používat s obyvateli, členy a klienty, bez účtu, licence a poplatku. Tato stránka vysvětluje, co zde najdete a jak to sdílet.",
       "shortText": "{name}: bezplatné jemné hry s obrázky a návody k aktivitám pro lidi s demencí a jejich pečující. Bez registrace, časovačů a bodů.",
@@ -430,7 +430,7 @@
   },
   "gamesIndex": {
     "title": "Bezplatné hry při demenci a Alzheimerově chorobě online",
-    "description": "Bezplatné online hry pro seniory s demencí či Alzheimerovou chorobou: párování obrázků, snadné skládačky, třídění, rčení, omalovánky, bingo. Bez registrace, časovačů a bodů.",
+    "description": "Bezplatné online hry pro seniory s demencí: párování obrázků, snadné skládačky, třídění, rčení, omalovánky, bingo. Bez registrace, časovačů a bodů.",
     "crumb": "Hry",
     "h1": "Jemné hry pro lidi s demencí",
     "lede": "{count} bezplatných her k společnému hraní v prohlížeči. Velké obrázky, prostá slova a nic, co by šlo pokazit: žádné časovače, body ani registrace.",

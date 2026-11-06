@@ -61,7 +61,7 @@
   },
   "home": {
     "title": "Spill og aktiviteter for demens og Alzheimers | Golden Moments",
-    "description": "Gratis, rolige bildespill å spille på nett og aktivitetsideer for personer som lever med demens eller Alzheimers, og for pårørende. Uten registrering, tidtaking eller poeng.",
+    "description": "Gratis, rolige bildespill på nett og aktivitetsideer for personer med demens eller Alzheimers og pårørende. Uten registrering, tidtaking eller poeng.",
     "eyebrow": "Gratis · Ingen reklame · Ingen registrering · Ingen tidtaking eller poeng",
     "h1": "Rolige spill og aktiviteter for personer med demens",
     "lede": "Enkle bildespill, kjente bilder og aktiviteter å glede seg over sammen, i ditt eget tempo.",
@@ -402,7 +402,7 @@
     "organizations": {
       "title": "For sykehjem, bibliotek og støttegrupper",
       "seoTitle": "Gratis aktiviteter for demens til sykehjem og grupper",
-      "description": "Hvordan sykehjem, dagsentre, bibliotek, eldreorganisasjoner og støttegrupper bruker de gratis demensspillene våre, med tekst du kan bruke for å legge oss til i en ressursliste.",
+      "description": "Hvordan sykehjem, dagsentre, bibliotek og støttegrupper bruker de gratis demensspillene våre, med tekst du kan bruke for å legge oss til i en ressursliste.",
       "crumb": "For organisasjoner",
       "lede": "Alt på dette nettstedet er gratis å bruke sammen med beboere, medlemmer og brukere, uten konto, lisens eller avgift. Denne siden forklarer hva som finnes her og hvordan du kan dele det.",
       "shortText": "{name}: gratis, rolige bildespill og veiledninger om aktiviteter for personer som lever med demens, og for pårørende. Uten registrering, tidtaking eller poeng.",
@@ -431,7 +431,7 @@
   },
   "gamesIndex": {
     "title": "Gratis spill for demens og Alzheimers på nett",
-    "description": "Gratis nettspill for eldre som lever med demens eller Alzheimers: bildepar, enkle puslespill, sortering, ordtak, fargelegging og bingo. Uten registrering, tidtaking eller poeng.",
+    "description": "Gratis nettspill for eldre med demens eller Alzheimers: bildepar, enkle puslespill, sortering, ordtak, bingo. Uten registrering, tidtaking eller poeng.",
     "crumb": "Spill",
     "h1": "Rolige spill for personer med demens",
     "lede": "{count} gratis spill å spille sammen i nettleseren. Store bilder, enkle ord og ingenting å mislykkes med: ingen tidtaking, ingen poeng, ingen registrering.",

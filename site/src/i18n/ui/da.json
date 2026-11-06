@@ -60,7 +60,7 @@
   },
   "home": {
     "title": "Spil og aktiviteter ved demens og Alzheimers | Golden Moments",
-    "description": "Gratis, rolige billedspil at spille online og idéer til aktiviteter for mennesker, der lever med demens eller Alzheimers, og deres pårørende. Ingen tilmelding, ingen ur eller point.",
+    "description": "Gratis, rolige billedspil online og idéer til aktiviteter for mennesker med demens eller Alzheimers og deres pårørende. Ingen tilmelding, ur eller point.",
     "eyebrow": "Gratis · Ingen reklamer · Ingen tilmelding · Ingen ur eller point",
     "h1": "Rolige spil og aktiviteter for mennesker med demens",
     "lede": "Enkle billedspil, velkendte billeder og aktiviteter at nyde sammen i jeres eget tempo.",
@@ -301,7 +301,7 @@
     "faq": {
       "title": "Spørgsmål og svar",
       "seoTitle": "Spil og aktiviteter ved demens: Spørgsmål og svar",
-      "description": "Svar på almindelige spørgsmål om spil og aktiviteter ved demens: hvilke spil du kan prøve, hvor længe man skal spille, idéer til den sene fase, hjernesundhed og privatliv.",
+      "description": "Svar på almindelige spørgsmål om spil og aktiviteter ved demens: hvilke spil du kan prøve, spilletid, idéer til den sene fase, hjernesundhed og privatliv.",
       "crumb": "Spørgsmål og svar",
       "lede": "Korte, enkle svar på de spørgsmål, pårørende oftest stiller.",
       "groups": [
@@ -401,7 +401,7 @@
     "organizations": {
       "title": "Til plejehjem, biblioteker og støttegrupper",
       "seoTitle": "Gratis aktiviteter ved demens til plejehjem og grupper",
-      "description": "Hvordan plejehjem, dagtilbud, biblioteker, ældreorganisationer og støttegrupper bruger vores gratis demensspil, plus tekst, så du kan tilføje os til en liste over ressourcer.",
+      "description": "Hvordan plejehjem, dagtilbud, biblioteker og støttegrupper bruger vores gratis demensspil, plus tekst, så du kan føje os til en liste over ressourcer.",
       "crumb": "Til organisationer",
       "lede": "Alt på denne hjemmeside er gratis at bruge sammen med beboere, medlemmer og brugere, uden konto, licens eller gebyr. Denne side forklarer, hvad der findes, og hvordan du deler det.",
       "shortText": "{name}: gratis, rolige billedspil og vejledninger til aktiviteter for mennesker, der lever med demens, og deres pårørende. Ingen tilmelding, intet ur, ingen point.",
@@ -430,7 +430,7 @@
   },
   "gamesIndex": {
     "title": "Gratis spil online ved demens og Alzheimers",
-    "description": "Gratis onlinespil til seniorer, der lever med demens eller Alzheimers: parspil med billeder, nemme puslespil, sortering, talemåder, farvelægning og bingo. Ingen tilmelding, ingen ur eller point.",
+    "description": "Gratis onlinespil til seniorer med demens eller Alzheimers: parspil, nemme puslespil, sortering, talemåder, farvelægning og bingo. Ingen tilmelding eller point.",
     "crumb": "Spil",
     "h1": "Rolige spil for mennesker med demens",
     "lede": "{count} gratis spil at spille sammen i din browser. Store billeder, enkle ord og intet at fejle: intet ur, ingen point og ingen tilmelding.",

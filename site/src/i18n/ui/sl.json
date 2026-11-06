@@ -60,7 +60,7 @@
   },
   "home": {
     "title": "Igre in dejavnosti za demenco in Alzheimerjevo bolezen | Golden Moments",
-    "description": "Brezplačne, nežne igre s slikami za igranje na spletu in zamisli za dejavnosti za osebe z demenco ali Alzheimerjevo boleznijo in njihove skrbnike. Brez prijave, časovnikov in točk.",
+    "description": "Brezplačne, nežne igre s slikami na spletu in zamisli za dejavnosti za osebe z demenco ali Alzheimerjevo boleznijo in njihove skrbnike. Brez prijave in točk.",
     "eyebrow": "Brezplačno · Brez oglasov · Brez prijave · Brez časovnikov in točk",
     "h1": "Nežne igre in dejavnosti za osebe z demenco",
     "lede": "Preproste igre s slikami, znane fotografije in dejavnosti za skupno uživanje, v vašem tempu.",
@@ -244,7 +244,7 @@
       "label": "Dejavnosti",
       "title": "Dejavnosti za osebe z demenco",
       "seo": "Dejavnosti za osebe z demenco: zamisli po fazah",
-      "description": "Zamisli za dejavnosti za osebe z demenco v vsaki fazi: glasba, obujanje spominov, vsakdanja opravila, čutni trenutki, ustvarjanje, na prostem in brezplačna gradiva za tiskanje.",
+      "description": "Zamisli za dejavnosti za osebe z demenco v vsaki fazi: glasba, obujanje spominov, vsakdanja opravila, čutni trenutki, ustvarjanje in gradiva za tiskanje.",
       "lede": "Smiselna dejavnost je vse, kar prinese ugodje, namen ali trenutek povezanosti. Začnite pri tem, kar je oseba vedno rada počela, in to prilagodite današnjemu dnevu."
     },
     "caregiving": {
@@ -258,7 +258,7 @@
       "label": "Zdravje možganov",
       "title": "Zdravje možganov: kaj pravijo raziskave",
       "seo": "Zdravje možganov in tveganje za demenco: kaj pravijo raziskave",
-      "description": "Ali je demenco mogoče preprečiti? Iskreni vodniki z viri o dejavnikih tveganja za demenco, igrah za možgane, postu, prehrani, gibanju, spanju, sluhu in zgodnjih opozorilnih znakih.",
+      "description": "Ali je demenco mogoče preprečiti? Iskreni vodniki z viri o dejavnikih tveganja, igrah za možgane, postu, prehrani, gibanju, spanju in sluhu.",
       "lede": "Kaj velike študije dejansko kažejo o zmanjševanju tveganja za demenco, jasno razloženo, tudi tam, kjer so dokazi šibki ali mešani. Splošne informacije, ne zdravniški nasvet."
     }
   },
@@ -401,7 +401,7 @@
     "organizations": {
       "title": "Za domove starejših, knjižnice in podporne skupine",
       "seoTitle": "Brezplačne dejavnosti za demenco za domove in skupine",
-      "description": "Kako domovi starejših, dnevni centri, knjižnice, službe za starejše in podporne skupine uporabljajo naše brezplačne igre za demenco, z besedilom za dodajanje na seznam virov.",
+      "description": "Kako domovi starejših, dnevni centri, knjižnice in podporne skupine uporabljajo naše brezplačne igre za demenco, z besedilom za seznam virov.",
       "crumb": "Za organizacije",
       "lede": "Vse na tem spletnem mestu je brezplačno za uporabo s stanovalci, člani in uporabniki, brez računa, licence ali pristojbine. Ta stran pojasnjuje, kaj je tu in kako to deliti.",
       "shortText": "{name}: brezplačne, nežne igre s slikami in vodniki za dejavnosti za osebe z demenco in njihove skrbnike. Brez prijave, časovnikov in točk.",
@@ -419,7 +419,7 @@
     "app": {
       "title": "Aplikacija Golden Moments",
       "seoTitle": "Aplikacija Golden Moments za iPhone in Android",
-      "description": "Brezplačna aplikacija Golden Moments: nežno iskanje parov s fotografijami s štirimi velikimi ploščicami, družinske fotografije v vaši napravi, paketi slik brez povezave in brez računa.",
+      "description": "Brezplačna aplikacija Golden Moments: nežno iskanje parov s štirimi velikimi ploščicami, družinske fotografije v vaši napravi, paketi slik brez povezave.",
       "crumb": "Aplikacija",
       "lede": "Vse, kar vam je všeč na spletnem mestu, v aplikaciji, ki deluje brez povezave in lahko uporabi družinske fotografije, ki jih izberete.",
       "worksOn": "Deluje na {platforms} ({requirements}).",
@@ -430,7 +430,7 @@
   },
   "gamesIndex": {
     "title": "Brezplačne igre za demenco in Alzheimerjevo bolezen na spletu",
-    "description": "Brezplačne spletne igre za starejše z demenco ali Alzheimerjevo boleznijo: iskanje parov, lahke sestavljanke, razvrščanje, reki, barvanje, bingo. Brez prijave, časovnikov in točk.",
+    "description": "Brezplačne spletne igre za starejše z demenco ali Alzheimerjevo boleznijo: iskanje parov, sestavljanke, razvrščanje, barvanje, bingo. Brez prijave in točk.",
     "crumb": "Igre",
     "h1": "Nežne igre za osebe z demenco",
     "lede": "{count} brezplačnih iger za skupno igranje v brskalniku. Velike slike, preproste besede in nič, kar bi lahko spodletelo: brez časovnikov, točk in prijave.",

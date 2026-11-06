@@ -61,7 +61,7 @@
   },
   "home": {
     "title": "Spel och aktiviteter vid demens och Alzheimers | Golden Moments",
-    "description": "Gratis, lugna bildspel att spela online och aktivitetsidéer för personer som lever med demens eller Alzheimers och deras anhöriga. Ingen registrering, inga timers eller poäng.",
+    "description": "Gratis, lugna bildspel online och aktivitetsidéer för personer som lever med demens eller Alzheimers och deras anhöriga. Ingen registrering, timer eller poäng.",
     "eyebrow": "Gratis · Inga annonser · Ingen registrering · Inga timers eller poäng",
     "h1": "Lugna spel och aktiviteter för personer med demens",
     "lede": "Enkla bildspel, välkända foton och aktiviteter att njuta av tillsammans, i din egen takt.",
@@ -420,7 +420,7 @@
     "app": {
       "title": "Appen Golden Moments",
       "seoTitle": "Appen Golden Moments för iPhone och Android",
-      "description": "Den kostnadsfria appen Golden Moments: lugna bildpar med fyra stora brickor, familjefoton som stannar på din enhet, bildpaket som fungerar utan uppkoppling och inget konto.",
+      "description": "Den kostnadsfria appen Golden Moments: lugna bildpar med fyra stora brickor, familjefoton på din enhet, bildpaket utan uppkoppling och inget konto.",
       "crumb": "Appen",
       "lede": "Allt du gillar med webbplatsen, i en app som fungerar utan uppkoppling och kan använda familjefoton som du väljer.",
       "worksOn": "Fungerar på {platforms} ({requirements}).",
@@ -431,7 +431,7 @@
   },
   "gamesIndex": {
     "title": "Gratis spel vid demens och Alzheimers online",
-    "description": "Gratis onlinespel för äldre som lever med demens eller Alzheimers: bildpar, enkla pussel, sortering, ordspråk, målning, bingo. Ingen registrering, inga timers eller poäng.",
+    "description": "Gratis onlinespel för äldre som lever med demens eller Alzheimers: bildpar, enkla pussel, sortering, ordspråk, målning, bingo. Ingen registrering eller poäng.",
     "crumb": "Spel",
     "h1": "Lugna spel för personer med demens",
     "lede": "{count} gratis spel att spela tillsammans i webbläsaren. Stora bilder, enkla ord och inget som kan gå fel: inga timers, inga poäng, ingen registrering.",

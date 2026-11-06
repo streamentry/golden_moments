@@ -61,7 +61,7 @@
   },
   "home": {
     "title": "Jogos e atividades para a demência e a doença de Alzheimer | Golden Moments",
-    "description": "Jogos de imagens suaves e gratuitos para jogar online e ideias de atividades para pessoas que vivem com demência ou doença de Alzheimer e para os seus cuidadores. Sem registo, cronómetros nem pontuações.",
+    "description": "Jogos de imagens suaves e gratuitos e ideias de atividades para pessoas com demência ou doença de Alzheimer e para cuidadores. Sem registo, cronómetros nem pontuações.",
     "eyebrow": "Gratuito · Sem anúncios · Sem registo · Sem cronómetros nem pontuações",
     "h1": "Jogos e atividades suaves para pessoas com demência",
     "lede": "Jogos de imagens simples, fotografias familiares e atividades para desfrutar em conjunto, ao seu ritmo.",
@@ -245,21 +245,21 @@
       "label": "Atividades",
       "title": "Atividades para pessoas com demência",
       "seo": "Atividades para pessoas com demência: ideias por fase",
-      "description": "Ideias de atividades para pessoas que vivem com demência em todas as fases: música, recordações, tarefas do dia a dia, momentos sensoriais, trabalhos manuais, ar livre e materiais gratuitos para imprimir.",
+      "description": "Ideias de atividades para pessoas com demência em todas as fases: música, recordações, tarefas do dia a dia, momentos sensoriais, ar livre e materiais para imprimir.",
       "lede": "Uma atividade com significado é tudo o que traz conforto, propósito ou um momento de ligação. Comece pelo que a pessoa sempre gostou e adapte-o ao dia de hoje."
     },
     "caregiving": {
       "label": "Cuidar",
       "title": "Guias para cuidadores",
       "seo": "Guias para cuidadores de pessoas com demência: ajuda prática no dia a dia",
-      "description": "Guias práticos e atenciosos para cuidadores de pessoas com demência: jogar em conjunto, comunicação, recusas, agitação ao fim do dia, tablets, escolher aplicações e cuidar de si.",
+      "description": "Guias práticos e atenciosos para cuidadores: jogar em conjunto, comunicação, recusas, agitação ao fim do dia, tablets, escolher aplicações e cuidar de si.",
       "lede": "Ajuda simples e prática para os momentos do dia a dia de quem cuida de uma pessoa que vive com demência, incluindo cuidar de si."
     },
     "brain-health": {
       "label": "Saúde do cérebro",
       "title": "Saúde do cérebro: o que diz a investigação",
       "seo": "Saúde do cérebro e risco de demência: o que diz a investigação",
-      "description": "Pode prevenir-se a demência? Guias honestos e fundamentados sobre fatores de risco de demência, jogos para o cérebro, jejum, alimentação, exercício, sono, audição e sinais de alerta precoces.",
+      "description": "Pode prevenir-se a demência? Guias honestos e fundamentados sobre fatores de risco, jogos para o cérebro, jejum, alimentação, exercício, sono e audição.",
       "lede": "O que os grandes estudos realmente mostram sobre reduzir o risco de demência, explicado de forma simples, incluindo onde as provas são fracas ou mistas. Informação geral, não aconselhamento médico."
     }
   },
@@ -287,7 +287,7 @@
     "about": {
       "title": "Uma atividade partilhada, não um teste de memória",
       "seoTitle": "Sobre o Golden Moments: a nossa abordagem",
-      "description": "Porque é que os jogos do Golden Moments não têm cronómetros, pontuações nem sequências, porque é que as imagens ficam à vista e o que afirmamos e não afirmamos sobre a demência.",
+      "description": "Porque é que os nossos jogos não têm cronómetros, pontuações nem sequências, porque as imagens ficam à vista e o que afirmamos e não afirmamos sobre a demência.",
       "crumb": "A nossa abordagem",
       "lede": "O Golden Moments faz atividades de imagens calmas, para adultos, que um cuidador e uma pessoa que vive com demência podem desfrutar lado a lado.",
       "bodyHtml": "<h2>No que acreditamos</h2><p>O objetivo de uma atividade é o próprio momento: uma conversa, um sorriso, a satisfação de juntar duas imagens ou simplesmente estar perto. Não é medir ninguém, empurrar a pessoa mais além nem provar seja o que for.</p><p>Muitas aplicações de treino mental baseiam-se na velocidade, nas pontuações, nas sequências e nos níveis. Para uma pessoa que vive com demência, isso pode parecer um exame a que não consegue responder. Desenhámos o oposto e comprometemo-nos com estas regras:</p><ul><li><strong>Nada a falhar.</strong> Sem relógio, pontuação, contador de jogadas, vidas, sequências, confetes nem contagens decrescentes, em nenhum ecrã.</li><li><strong>Reconhecer em vez de recordar.</strong> As imagens ficam à vista por defeito. As sugestões convidam à conversa e nunca interrogam sobre nomes ou memórias.</li><li><strong>Grande, simples e estável.</strong> Texto e imagens grandes, contraste elevado e comandos que ficam sempre no mesmo sítio.</li><li><strong>Dignidade de adultos.</strong> Imagens do mundo real e palavras simples e calorosas. Sem desenhos animados, elogios em tom cantado nem recompensas com emojis.</li><li><strong>Uma saída fácil.</strong> «Por agora, chega» está sempre visível. Parar a meio é um bom resultado.</li><li><strong>Privado por defeito.</strong> Sem contas nem anúncios. As fotografias que escolher ficam no seu dispositivo.</li></ul><h2>O que não afirmamos</h2><p>Os nossos jogos servem para desfrutar e para criar ligação. Não diagnosticam, não testam, não medem, não tratam, não atrasam nem previnem a demência ou a doença de Alzheimer, e ninguém deve escolhê-los por esse motivo. Quando escrevemos sobre investigação nas nossas <a href=\"/brain-health/\">páginas sobre a saúde do cérebro</a>, dizemos com clareza onde as provas são fracas e nunca as associamos aos nossos jogos.</p><h2>Quem somos</h2><p>O Golden Moments é uma pequena equipa independente. Não somos profissionais de saúde. Os nossos guias baseiam-se em orientações publicadas por organizações como o National Institute on Aging e a Alzheimer’s Association, e cada guia indica as suas fontes. Leia <a href=\"/editorial-policy/\">como escrevemos e verificamos as nossas páginas</a>.</p><h2>Diga-nos o que ajudaria</h2><p>Gostaríamos de saber o que funciona e o que não funciona para si, em especial de pessoas que vivem com demência, de cuidadores familiares e de profissionais de atividades. Escreva para <a href=\"mailto:{email}\">{email}</a>.</p>"
@@ -302,7 +302,7 @@
     "faq": {
       "title": "Perguntas e respostas",
       "seoTitle": "Jogos e atividades para a demência: perguntas e respostas",
-      "description": "Respostas a perguntas comuns sobre jogos e atividades para a demência: que jogos experimentar, quanto tempo jogar, ideias para fases mais avançadas, saúde do cérebro e privacidade.",
+      "description": "Respostas a perguntas comuns sobre jogos e atividades para a demência: que jogos experimentar, quanto tempo jogar, fases avançadas, saúde do cérebro e privacidade.",
       "crumb": "Perguntas e respostas",
       "lede": "Respostas curtas e simples às perguntas que os cuidadores mais fazem.",
       "groups": [
@@ -392,7 +392,7 @@
     "handout": {
       "title": "Jogos gratuitos e suaves para pessoas que vivem com demência",
       "seoTitle": "Folheto para imprimir: jogos gratuitos para a demência online",
-      "description": "Um folheto de uma página, para imprimir, para famílias e cuidadores, sobre jogos de imagens gratuitos e suaves para pessoas que vivem com demência, para grupos de apoio e pastas de cuidados.",
+      "description": "Folheto de uma página para imprimir, para famílias e cuidadores, sobre jogos de imagens gratuitos e suaves para pessoas com demência, para grupos de apoio.",
       "crumb": "Folheto para imprimir",
       "lede": "Imprima esta página para um grupo de apoio, uma pasta de cuidados ou a porta do frigorífico. Use o comando Imprimir do navegador; os menus e os botões não saem na impressão.",
       "introHtml": "<p>Imagens grandes, palavras simples e nada a falhar. Gratuito no telemóvel, no tablet ou no computador, sem registo, sem anúncios, sem cronómetros e sem pontuações. Sentem-se lado a lado e joguem à vez.</p>",
@@ -402,7 +402,7 @@
     "organizations": {
       "title": "Para lares, bibliotecas e grupos de apoio",
       "seoTitle": "Atividades gratuitas para a demência para lares e grupos",
-      "description": "Como lares, centros de dia, bibliotecas, entidades de apoio a idosos e grupos de apoio usam os nossos jogos gratuitos para a demência, com texto para nos incluir numa lista de recursos.",
+      "description": "Como lares, centros de dia, bibliotecas e grupos de apoio usam os nossos jogos gratuitos para a demência, com texto para nos incluir numa lista de recursos.",
       "crumb": "Para organizações",
       "lede": "Tudo neste site é de utilização gratuita com residentes, membros e utentes, sem conta, licença nem custos. Esta página explica o que existe e como o partilhar.",
       "shortText": "{name}: jogos de imagens suaves e gratuitos e guias de atividades para pessoas que vivem com demência e para os seus cuidadores. Sem registo, sem cronómetros, sem pontuações.",
@@ -420,7 +420,7 @@
     "app": {
       "title": "A aplicação Golden Moments",
       "seoTitle": "A aplicação Golden Moments para iPhone e Android",
-      "description": "A aplicação gratuita Golden Moments: pares de fotografias suaves com quatro peças grandes, fotografias de família guardadas no seu dispositivo, coleções de imagens sem ligação e sem conta.",
+      "description": "A aplicação gratuita Golden Moments: pares de fotografias suaves com quatro peças grandes, fotografias de família no seu dispositivo, sem ligação e sem conta.",
       "crumb": "A aplicação",
       "lede": "Tudo o que aprecia no website, numa aplicação que funciona sem ligação e pode usar fotografias de família que escolher.",
       "worksOn": "Funciona em {platforms} ({requirements}).",
@@ -431,7 +431,7 @@
   },
   "gamesIndex": {
     "title": "Jogos gratuitos online para a demência e a doença de Alzheimer",
-    "description": "Jogos online gratuitos para seniores que vivem com demência ou doença de Alzheimer: pares de imagens, puzzles fáceis, separar, ditados, colorir, bingo. Sem registo, cronómetros nem pontuações.",
+    "description": "Jogos online gratuitos para seniores com demência ou doença de Alzheimer: pares de imagens, puzzles, separar, ditados, colorir, bingo. Sem registo nem pontuações.",
     "crumb": "Jogos",
     "h1": "Jogos suaves para pessoas com demência",
     "lede": "{count} jogos gratuitos para jogar em conjunto no navegador. Imagens grandes, palavras simples e nada a falhar: sem cronómetros, sem pontuações, sem registo.",

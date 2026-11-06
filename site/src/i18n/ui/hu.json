@@ -244,21 +244,21 @@
       "label": "Tevékenységek",
       "title": "Tevékenységek demenciával élőknek",
       "seo": "Tevékenységek demenciával élőknek: ötletek szakaszok szerint",
-      "description": "Tevékenységötletek demenciával élő embereknek a betegség minden szakaszára: zene, emlékek felidézése, mindennapi feladatok, érzékszervi pillanatok, kézművesség, szabadtéri programok és ingyenes nyomtatnivalók.",
+      "description": "Tevékenységötletek demenciával élőknek a betegség minden szakaszára: zene, emlékek, mindennapi feladatok, kézművesség és ingyenes nyomtatnivalók.",
       "lede": "Értelmes tevékenység minden, ami kényelmet, célt vagy egy kapcsolódási pillanatot ad. Induljon abból, amit a másik ember mindig is szeretett, és igazítsa a mai naphoz."
     },
     "caregiving": {
       "label": "Gondozás",
       "title": "Gondozási útmutatók",
       "seo": "Útmutatók demencia gondozóknak: gyakorlati segítség a mindennapokra",
-      "description": "Gyakorlati, kedves útmutatók demencia gondozóknak: közös játék, kommunikáció, visszautasítás, késő délutáni nyugtalanság, táblagépek, alkalmazásválasztás és önmagunkról való gondoskodás.",
+      "description": "Gyakorlati, kedves útmutatók demencia gondozóknak: közös játék, kommunikáció, visszautasítás, késő délutáni nyugtalanság és önmagunkról való gondoskodás.",
       "lede": "Egyszerű, gyakorlati segítség a demenciával élő ember gondozásának mindennapi pillanataihoz, az önmagáról való gondoskodást is beleértve."
     },
     "brain-health": {
       "label": "Agyi egészség",
       "title": "Agyi egészség: mit mond a kutatás",
       "seo": "Agyi egészség és demenciakockázat: mit mond a kutatás",
-      "description": "Megelőzhető a demencia? Őszinte, forrásokkal alátámasztott útmutatók a demencia kockázati tényezőiről, agytornákról, böjtölésről, étrendről, testmozgásról, alvásról, hallásról és a korai figyelmeztető jelekről.",
+      "description": "Megelőzhető a demencia? Őszinte, forrásokkal alátámasztott útmutatók a kockázati tényezőkről, böjtről, étrendről, mozgásról, alvásról és hallásról.",
       "lede": "Mit mutatnak valójában a nagy vizsgálatok a demenciakockázat csökkentéséről, érthetően elmagyarázva, azt is megmondva, hol gyengék vagy vegyesek a bizonyítékok. Általános tájékoztatás, nem orvosi tanács."
     }
   },
@@ -301,7 +301,7 @@
     "faq": {
       "title": "Kérdések és válaszok",
       "seoTitle": "Demencia-játékok és -tevékenységek: kérdések és válaszok",
-      "description": "Válaszok a demencia-játékokkal és -tevékenységekkel kapcsolatos gyakori kérdésekre: mit próbáljon ki, mennyi ideig játsszanak, ötletek a későbbi szakaszra, agyi egészség és adatvédelem.",
+      "description": "Válaszok a demencia-játékokkal és -tevékenységekkel kapcsolatos gyakori kérdésekre: mit próbáljon ki, meddig játsszanak, agyi egészség, adatvédelem.",
       "crumb": "Kérdések és válaszok",
       "lede": "Rövid, egyszerű válaszok a gondozók leggyakoribb kérdéseire.",
       "groups": [
@@ -391,7 +391,7 @@
     "handout": {
       "title": "Ingyenes, nyugodt játékok demenciával élőknek",
       "seoTitle": "Nyomtatható tájékoztató: ingyenes demencia-játékok online",
-      "description": "Egyoldalas nyomtatható tájékoztató családoknak és gondozóknak ingyenes, nyugodt képes játékokról demenciával élő embereknek, támogató csoportoknak és gondozási csomagokhoz.",
+      "description": "Egyoldalas nyomtatható tájékoztató családoknak és gondozóknak ingyenes, nyugodt képes játékokról demenciával élőknek, támogató csoportokhoz.",
       "crumb": "Nyomtatható tájékoztató",
       "lede": "Nyomtassa ki ezt az oldalt támogató csoportnak, gondozási csomagba vagy a hűtőajtóra. Használja a böngésző Nyomtatás parancsát; a menük és a gombok kimaradnak a nyomatból.",
       "introHtml": "<p>Nagy képek, egyszerű szavak, és nincs mit elrontani. Ingyenes telefonon, táblagépen vagy számítógépen, regisztráció, reklám, időzítő és pontszám nélkül. Üljenek egymás mellé, és érintsenek felváltva.</p>",
@@ -401,7 +401,7 @@
     "organizations": {
       "title": "Gondozóotthonoknak, könyvtáraknak és támogató csoportoknak",
       "seoTitle": "Ingyenes demencia-tevékenységek gondozóotthonoknak és csoportoknak",
-      "description": "Hogyan használják a gondozóotthonok, nappali programok, könyvtárak, idősügyi szervezetek és támogató csoportok ingyenes demencia-játékainkat, és szöveg, amellyel felvehet minket egy forráslistára.",
+      "description": "Hogyan használják a gondozóotthonok, könyvtárak és támogató csoportok ingyenes demencia-játékainkat, és szöveg a forráslistára való felvételhez.",
       "crumb": "Szervezeteknek",
       "lede": "Az oldalon minden ingyenesen használható a lakókkal, tagokkal és ügyfelekkel, fiók, licenc és díj nélkül. Ez az oldal elmagyarázza, mi található itt, és hogyan oszthatja meg.",
       "shortText": "{name}: ingyenes, nyugodt képes játékok és tevékenységi útmutatók demenciával élő embereknek és gondozóiknak. Regisztráció, időzítő és pontszám nélkül.",
@@ -430,7 +430,7 @@
   },
   "gamesIndex": {
     "title": "Ingyenes demencia- és Alzheimer-játékok online",
-    "description": "Ingyenes online játékok demenciával vagy Alzheimer-kórral élő időseknek: képpárosítás, könnyű kirakók, válogatás, mondások, színezés, bingó. Regisztráció, időzítő és pontszám nélkül.",
+    "description": "Ingyenes online játékok demenciával vagy Alzheimer-kórral élő időseknek: képpárosítás, kirakók, válogatás, bingó. Regisztráció és időzítő nélkül.",
     "crumb": "Játékok",
     "h1": "Nyugodt játékok demenciával élőknek",
     "lede": "{count} ingyenes játék, amelyet együtt játszhatnak a böngészőben. Nagy képek, egyszerű szavak, és nincs mit elrontani: nincs időzítő, pontszám és regisztráció.",
