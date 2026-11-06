@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Bunların hiçbiri bir doktorun tavsiyesinin yerini tutmaz. Hafızanız ya da demans konusunda endişeliyseniz bir doktorla konuşun.",
   "habitsSourcesTitle": "Bunlar nereden geliyor",
   "habitsSources": "Demans önleme, müdahale ve bakım konusundaki 2024 Lancet Komisyonu. Rakamları tüm toplumları anlatır, herhangi bir kişiyi değil. Kaynaklı rehber dementiaactivities.games adresinde (İngilizce).",
-  "wellbeingItemCallSomeone": "Konuşmaktan hoşlandığınız birini arayın veya ona mesaj atın"
+  "wellbeingItemCallSomeone": "Konuşmaktan hoşlandığınız birini arayın veya ona mesaj atın",
+  "comfortHighContrast": "Daha yüksek karşıtlık",
+  "comfortHighContrastHint": "Beyaz üzerine siyah yazı, daha belirgin kenarlarla. Loş ışıkta veya yorgun gözlerle okumak daha kolaydır."
 }

@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Semua ini tidak menggantikan saran dokter. Jika Anda khawatir tentang ingatan Anda atau tentang demensia, bicarakan dengan dokter.",
   "habitsSourcesTitle": "Dari mana ini berasal",
   "habitsSources": "Komisi Lancet 2024 tentang pencegahan, intervensi, dan perawatan demensia. Angka-angkanya menggambarkan seluruh populasi, bukan satu orang mana pun. Panduan bersumber tersedia di dementiaactivities.games (dalam bahasa Inggris).",
-  "wellbeingItemCallSomeone": "Telepon atau kirim pesan kepada seseorang yang senang Anda ajak bicara"
+  "wellbeingItemCallSomeone": "Telepon atau kirim pesan kepada seseorang yang senang Anda ajak bicara",
+  "comfortHighContrast": "Kontras lebih tinggi",
+  "comfortHighContrastHint": "Teks hitam di atas putih, dengan tepi yang lebih tegas. Lebih mudah dibaca saat cahaya redup atau mata lelah."
 }

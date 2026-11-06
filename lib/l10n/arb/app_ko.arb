@@ -427,5 +427,7 @@
   "habitsDoctorNote": "이 내용은 의사의 조언을 대신하지 않아요. 기억력이나 치매가 걱정된다면 의사와 이야기해 보세요.",
   "habitsSourcesTitle": "내용의 출처",
   "habitsSources": "2024년 랜싯 위원회의 치매 예방, 중재, 돌봄에 관한 보고서예요. 그 수치는 한 사람이 아니라 집단 전체를 나타내요. 출처가 있는 안내는 dementiaactivities.games 에 있어요(영어).",
-  "wellbeingItemCallSomeone": "이야기하면 즐거운 사람에게 전화하거나 메시지 보내기"
+  "wellbeingItemCallSomeone": "이야기하면 즐거운 사람에게 전화하거나 메시지 보내기",
+  "comfortHighContrast": "대비 높이기",
+  "comfortHighContrastHint": "흰 바탕에 검은 글씨로, 가장자리가 더 또렷하게 보입니다. 어두운 곳이나 눈이 피곤할 때 읽기 더 쉽습니다."
 }

@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Ništa od ovoga ne zamjenjuje savjet liječnika. Ako ste zabrinuti zbog pamćenja ili demencije, razgovarajte s liječnikom.",
   "habitsSourcesTitle": "Odakle ovo dolazi",
   "habitsSources": "Povjerenstvo Lancet iz 2024. o prevenciji, intervenciji i skrbi kod demencije. Njegovi podaci opisuju cijele populacije, a ne pojedinu osobu. Vodič s izvorima nalazi se na dementiaactivities.games (na engleskom).",
-  "wellbeingItemCallSomeone": "Nazovite ili pošaljite poruku nekome s kim rado razgovarate"
+  "wellbeingItemCallSomeone": "Nazovite ili pošaljite poruku nekome s kim rado razgovarate",
+  "comfortHighContrast": "Veći kontrast",
+  "comfortHighContrastHint": "Crni tekst na bijeloj podlozi, s izraženijim rubovima. Lakše se čita pri slabom svjetlu ili umornim očima."
 }

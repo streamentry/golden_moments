@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Nichts davon ersetzt den Rat einer Ärztin oder eines Arztes. Wenn Sie sich Sorgen um Ihr Gedächtnis oder um Demenz machen, sprechen Sie mit einer Ärztin oder einem Arzt.",
   "habitsSourcesTitle": "Woher das stammt",
   "habitsSources": "Die Lancet-Kommission 2024 zu Demenzprävention, -intervention und -versorgung. Ihre Zahlen beschreiben ganze Bevölkerungsgruppen, nicht einen einzelnen Menschen. Der Leitfaden mit Quellen steht unter dementiaactivities.games (auf Englisch).",
-  "wellbeingItemCallSomeone": "Jemanden anrufen oder ihm schreiben, mit dem Sie sich gern unterhalten"
+  "wellbeingItemCallSomeone": "Jemanden anrufen oder ihm schreiben, mit dem Sie sich gern unterhalten",
+  "comfortHighContrast": "Mehr Kontrast",
+  "comfortHighContrastHint": "Schwarze Schrift auf Weiß, mit kräftigeren Rändern. Bei schwachem Licht oder müden Augen leichter zu lesen."
 }

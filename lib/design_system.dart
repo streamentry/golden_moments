@@ -32,6 +32,9 @@ const gmSurf200 = Color(0xFFEADFCB); // surface-sunken: hidden-tile backs
 const gmCharcoal900 = Color(0xFF222222); // on-surface: ink, primary text
 const gmWalnut600 = Color(0xFF5C5346); // on-surface-variant: secondary text
 const gmDriftwood500 = Color(0xFF7D7366); // outline: resting borders (≥3:1)
+// High contrast (DESIGN.md › colors): used only when the person turns it on.
+const gmHighContrastSurface = Color(0xFFFFFFFF); // high-contrast-surface
+const gmHighContrastOnSurface = Color(0xFF111111); // high-contrast-on-surface
 const gmUmber900 = Color(0xFF3C2C0A); // shadow-ink: the tint of every shadow
 
 // Text on ink (the website footer and inverse surfaces).
@@ -146,12 +149,12 @@ const double gmMatInset = 6; // the print-white border around a mounted picture
 ///////////////////////////////////////////////////////////////////////////////
 /// 4. THEME BUILDER  (light only: the app has no dark mode)
 ///////////////////////////////////////////////////////////////////////////////
-ThemeData gmBuildTheme() {
-  const onSurface = gmCharcoal900;
-  const background = gmSurf50;
-  const surface = gmSurf100;
+ThemeData gmBuildTheme({bool highContrast = false}) {
+  final onSurface = highContrast ? gmHighContrastOnSurface : gmCharcoal900;
+  final background = highContrast ? gmHighContrastSurface : gmSurf50;
+  final surface = highContrast ? gmHighContrastSurface : gmSurf100;
 
-  const scheme = ColorScheme(
+  final scheme = ColorScheme(
     brightness: Brightness.light,
     primary: gmGold800,
     onPrimary: Colors.white,
@@ -165,13 +168,13 @@ ThemeData gmBuildTheme() {
     onError: Colors.white,
     surface: surface,
     onSurface: onSurface,
-    onSurfaceVariant: gmWalnut600,
+    onSurfaceVariant: highContrast ? gmHighContrastOnSurface : gmWalnut600,
     surfaceContainerLowest: background,
     surfaceContainerLow: background,
     surfaceContainer: surface,
     surfaceContainerHigh: background,
     surfaceContainerHighest: gmSurf200,
-    outline: gmDriftwood500,
+    outline: highContrast ? gmHighContrastOnSurface : gmDriftwood500,
     outlineVariant: gmSurf200,
     inverseSurface: onSurface,
     onInverseSurface: background,
@@ -193,7 +196,7 @@ ThemeData gmBuildTheme() {
     materialTapTargetSize: MaterialTapTargetSize.padded,
     scaffoldBackgroundColor: background,
     dividerColor: scheme.outlineVariant,
-    iconTheme: const IconThemeData(color: onSurface, size: 28),
+    iconTheme: IconThemeData(color: onSurface, size: 28),
     appBarTheme: AppBarTheme(
       // Content scrolled under the bar shows by tone, not a shadow: the bar
       // turns linen, like a card edge (DESIGN.md › Elevation).
@@ -205,8 +208,8 @@ ThemeData gmBuildTheme() {
       elevation: 0,
       scrolledUnderElevation: 0,
       toolbarHeight: gmTargetHero,
-      iconTheme: const IconThemeData(color: onSurface, size: 28),
-      actionsIconTheme: const IconThemeData(color: onSurface, size: 28),
+      iconTheme: IconThemeData(color: onSurface, size: 28),
+      actionsIconTheme: IconThemeData(color: onSurface, size: 28),
       titleTextStyle: text.titleLarge,
     ),
     filledButtonTheme: FilledButtonThemeData(
@@ -319,13 +322,13 @@ ThemeData gmBuildTheme() {
         borderRadius: BorderRadius.circular(gmRadiusXl),
       ),
     ),
-    bottomSheetTheme: const BottomSheetThemeData(
+    bottomSheetTheme: BottomSheetThemeData(
       backgroundColor: background,
       surfaceTintColor: Colors.transparent,
       shadowColor: gmUmber900,
       modalBackgroundColor: background,
       showDragHandle: true,
-      shape: RoundedRectangleBorder(
+      shape: const RoundedRectangleBorder(
         borderRadius: BorderRadius.vertical(top: Radius.circular(gmRadiusXl)),
       ),
     ),

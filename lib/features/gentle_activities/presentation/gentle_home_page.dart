@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/app/view/main_navigation.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/data/gentle_preferences.dart';
+import 'package:golden_moments/features/gentle_activities/data/high_contrast_setting.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_comfort_sheet.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
@@ -23,6 +24,7 @@ import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/native/gm_native.dart';
 import 'package:golden_moments/shared/rating/review_request.dart';
 import 'package:golden_moments/shared/sharing/share_invitation.dart';
+import 'package:provider/provider.dart';
 
 /// Local activities remain usable even when the optional pack service is down.
 class GentleHomePage extends StatefulWidget {
@@ -57,6 +59,8 @@ class _GentleHomePageState extends State<GentleHomePage> {
   /// anyone plays: the same choices as in the activity, saved the same way.
   Future<void> _showComfort() async {
     final store = widget.preferencesStore;
+    // Read before the first await, so the app-wide setting is updated safely.
+    final contrastSetting = context.read<HighContrastSetting?>();
     final initial = await store.load();
     if (!mounted) return;
     await showModalBottomSheet<void>(
@@ -66,7 +70,13 @@ class _GentleHomePageState extends State<GentleHomePage> {
         initial: initial,
         maxPairs: ActivityPicture.samples.length,
         closeLabel: context.l10n.commonDone,
-        onChanged: (next) async => (prefs: next, saved: await store.save(next)),
+        onChanged: (next) async {
+          final saved = await store.save(next);
+          if (mounted) {
+            contrastSetting?.set(enabled: next.highContrast);
+          }
+          return (prefs: next, saved: saved);
+        },
         onReset: () async {
           await store.reset();
           return const GentlePreferences();

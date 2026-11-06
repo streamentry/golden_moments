@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Ingenting av dette erstatter råd fra en lege. Hvis du er bekymret for hukommelsen eller for demens, snakk med en lege.",
   "habitsSourcesTitle": "Hvor dette kommer fra",
   "habitsSources": "Lancet-kommisjonen fra 2024 om forebygging, tiltak og omsorg ved demens. Tallene beskriver hele befolkninger, ikke den enkelte. Den kildebaserte veiledningen finnes på dementiaactivities.games (på engelsk).",
-  "wellbeingItemCallSomeone": "Ring eller send melding til noen du liker å snakke med"
+  "wellbeingItemCallSomeone": "Ring eller send melding til noen du liker å snakke med",
+  "comfortHighContrast": "Sterkere kontrast",
+  "comfortHighContrastHint": "Svart tekst på hvitt, med tydeligere kanter. Lettere å lese i svakt lys eller med slitne øyne."
 }

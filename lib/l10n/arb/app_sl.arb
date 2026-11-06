@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Nič od tega ne nadomesti nasveta zdravnika. Če vas skrbi spomin ali demenca, se pogovorite z zdravnikom.",
   "habitsSourcesTitle": "Od kod to izhaja",
   "habitsSources": "Komisija Lancet iz leta 2024 za preprečevanje, obravnavo in oskrbo demence. Njene številke opisujejo celotne populacije, ne posameznika. Vodnik z viri je na dementiaactivities.games (v angleščini).",
-  "wellbeingItemCallSomeone": "Pokličite ali pošljite sporočilo nekomu, s katerim se radi pogovarjate"
+  "wellbeingItemCallSomeone": "Pokličite ali pošljite sporočilo nekomu, s katerim se radi pogovarjate",
+  "comfortHighContrast": "Višji kontrast",
+  "comfortHighContrastHint": "Črno besedilo na belem ozadju, z močnejšimi robovi. Lažje berljivo ob slabi svetlobi ali z utrujenimi očmi."
 }

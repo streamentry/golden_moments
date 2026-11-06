@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Mindez nem helyettesíti az orvos tanácsát. Ha aggódik a memóriája vagy a demencia miatt, beszéljen orvossal.",
   "habitsSourcesTitle": "Honnan származik ez",
   "habitsSources": "A demencia megelőzéséről, beavatkozásairól és ellátásáról szóló 2024-es Lancet-bizottság. Az adatai egész populációkat írnak le, nem egyetlen személyt. A forrásokkal ellátott útmutató itt található: dementiaactivities.games (angolul).",
-  "wellbeingItemCallSomeone": "Hívjon vagy írjon valakinek, akivel szívesen beszélget"
+  "wellbeingItemCallSomeone": "Hívjon vagy írjon valakinek, akivel szívesen beszélget",
+  "comfortHighContrast": "Nagyobb kontraszt",
+  "comfortHighContrastHint": "Fekete szöveg fehér alapon, erősebb szegélyekkel. Könnyebben olvasható félhomályban vagy fáradt szemmel."
 }

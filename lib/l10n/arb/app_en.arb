@@ -1919,5 +1919,13 @@
   "wellbeingItemCallSomeone": "Call or message someone you enjoy talking with",
   "@wellbeingItemCallSomeone": {
     "description": "Plain suggestion with no action, in the day planner. Not a health claim."
+  },
+  "comfortHighContrast": "Higher contrast",
+  "@comfortHighContrast": {
+    "description": "Switch in the comfort settings. Turns on black text on white with stronger edges, for easier reading. Short."
+  },
+  "comfortHighContrastHint": "Black text on white, with stronger edges. Easier to read in dim light or with tired eyes.",
+  "@comfortHighContrastHint": {
+    "description": "Explains the higher-contrast switch. Plain, no claim about eyes or health."
   }
 }

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/app/view/platform_home.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/gentle_activities/data/high_contrast_setting.dart';
 import 'package:golden_moments/l10n/app_language.dart';
 import 'package:golden_moments/l10n/fallback_localizations.dart';
 import 'package:golden_moments/l10n/l10n.dart';
@@ -21,13 +22,14 @@ class _AppState extends State<App> {
     // The person's own choice in the language picker, or null to follow the
     // device (the default). Read here so every screen changes together.
     final language = context.watch<AppLanguage?>();
+    final contrast = context.watch<HighContrastSetting?>();
     return MaterialApp(
       locale: language?.locale,
       // The task-switcher name follows the app language.
       onGenerateTitle: (context) => context.l10n.appTitle,
       // Light only: older eyes read dark ink on warm paper best, and MIUI's
       // forced dark mode turned the app black (#18).
-      theme: gmBuildTheme(),
+      theme: gmBuildTheme(highContrast: contrast?.enabled ?? false),
       themeMode: ThemeMode.light,
       // Picture-pack names and captions follow the app language too.
       localizationsDelegates: const [
