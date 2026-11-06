@@ -51,7 +51,7 @@ Aktivní život patří k nejvíce studovaným návykům ve výzkumu zdraví moz
 
 ## Snižuje cvičení riziko demence?
 
-Výzkum naznačuje, že fyzicky aktivní lidé mají menší šanci na demenci, ale důkazy mají své limity. [Komise Lancet o demenci z roku 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) uvádí nedostatek pohybu jako jeden ze 14 rizikových faktorů, které lze změnit. Dohromady tyto faktory podle jejího modelu souvisejí s asi 45% případů demence na světě.
+Výzkum naznačuje, že fyzicky aktivní lidé mají menší šanci na demenci, ale důkazy mají své limity. [Komise Lancet o demenci z roku 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) uvádí nedostatek pohybu jako jeden ze 14 rizikových faktorů, které lze změnit. Těchto 14 faktorů dohromady podle jejího modelu souvisí s asi 45% případů demence na světě.
 
 Takto vypadají důkazy:
 
