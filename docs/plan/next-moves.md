@@ -48,7 +48,9 @@ judgment, not measured.
    competitor log warns against passwords for this group. Value: fewer accidental
    changes to photos and settings. Cost: a specification and a decision first.
    Blocker: maintainer decision on what it protects and how it is exited. Write a
-   spec before code.
+   spec before code. Status (2026-11-06): proposal written in
+   [helper-mode](helper-mode.md), recommending a press-and-hold gesture, not a PIN.
+   Not built.
 5. **Licensed picture packs (4 more, to reach 12).** Value: the largest content
    gap; rubric criterion 4 would go from 6.7 to 10. Cost: money or commissioned
    work, with model releases for any people shown. Blocker: image source and
