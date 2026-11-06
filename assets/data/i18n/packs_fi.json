@@ -1,4 +1,166 @@
 {
-  "categories": {},
-  "packs": {}
+  "categories": {
+    "animals": {
+      "name": "Eläimet",
+      "description": "Söpöjä ja ystävällisiä eläimiä ympäri maailmaa"
+    },
+    "nature": {
+      "name": "Luonto",
+      "description": "Kauniita maisemia ja luontokuvia"
+    },
+    "food": {
+      "name": "Ruoka",
+      "description": "Herkullisia aterioita ja makeita herkkuja"
+    },
+    "vintage": {
+      "name": "Autot",
+      "description": "Autoja ja kuorma-autoja katseltavaksi ja jutellaksenne niistä"
+    },
+    "flowers": {
+      "name": "Kukat",
+      "description": "Kauniita kukkia ja puutarhakuvia"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Maatilan eläimet",
+      "description": "Ystävällisiä maatilan eläimiä, kuin vierailulla maaseudulla.",
+      "theme": "Maalaiselämää",
+      "images": {
+        "cow_1": "Ystävällinen lehmä",
+        "pig_1": "Iloinen sika",
+        "chicken_1": "Kukko",
+        "buffalo_1": "Vesipuhveli",
+        "horse_1": "Kaunis hevonen",
+        "duck_1": "Ankkaperhe",
+        "goat_1": "Utelias vuohi",
+        "rabbit_1": "Söpö kani"
+      }
+    },
+    "nature_mountains": {
+      "title": "Vuoristomaisemia",
+      "description": "Henkeäsalpaavia vuoristomaisemia ja upeita näkymiä",
+      "theme": "Luonnon kauneus",
+      "images": {
+        "mountain_1": "Lumihuippuiset vuoret",
+        "mountain_2": "Fuji-vuori",
+        "mountain_3": "Alppilaakso",
+        "mountain_4": "Kivinen huippu",
+        "mountain_5": "Metsäiset kukkulat",
+        "mountain_6": "Usvaiset vuoret"
+      }
+    },
+    "vintage_cars": {
+      "title": "Autot ja kuorma-autot",
+      "description": "Kiiltäviä autoja ja kuorma-autoja katseltavaksi ja jutellaksenne niistä",
+      "theme": "Tiellä",
+      "images": {
+        "vintage_car_1": "Oranssi Audi auringonlaskussa",
+        "vintage_car_2": "Sininen urheiluauto autiomaassa",
+        "vintage_car_3": "Hopeinen Bugatti",
+        "vintage_car_4": "Musta Porsche tiellä",
+        "vintage_car_5": "Oranssi BMW palmujen reunustamalla kadulla",
+        "vintage_car_6": "Sininen coupé korjaamon vieressä",
+        "vintage_car_7": "Vihreä lava-auto",
+        "vintage_car_8": "Valkoinen maastoauto punaisten kallioiden keskellä",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Sininen auto valkoisin raidoin"
+      }
+    },
+    "animals_safari": {
+      "title": "Safarin eläimet",
+      "description": "Majesteetillisia eläimiä Afrikan safareilta",
+      "theme": "Luonnonvaraiset eläimet",
+      "images": {
+        "lion_1": "Majesteetillinen leijona",
+        "elephant_2": "Afrikannorsu",
+        "jaguar_3": "Jaguaari",
+        "zebra_4": "Raidallinen seepra",
+        "rhino_5": "Voimakas sarvikuono",
+        "cheetah_6": "Nopea gepardi",
+        "fox_7": "Ruskea kettu",
+        "bear_8": "Jääkarhu",
+        "turtle_9": "Ruskea kilpikonna",
+        "squirrel_10": "Ruskea orava",
+        "macaw_11": "Keltasininen ara",
+        "tiger_12": "Tiikeri",
+        "raccoon_13": "Pesukarhu",
+        "wolf_14": "Harmaa susi",
+        "crocodile_15": "Krokotiili",
+        "peacock_16": "Kaunis riikinkukko"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Herkullisia jälkiruokia",
+      "description": "Herkullisia jälkiruokia aterioidenne päätteeksi.",
+      "theme": "Makeat jälkiruoat",
+      "images": {
+        "pastries_1": "Neljä leivonnaista",
+        "oreo_cookie_sandwiches_2": "Oreo-keksit",
+        "crepe_3": "Ohut lettu",
+        "pancake_4": "Pannukakku",
+        "macarons_5": "Macaron-leivokset",
+        "caramel_cake_6": "Karamellikakku"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Trooppisia kukkia",
+      "description": "Tutustukaa tropiikin eloisaan kauneuteen tämän eksoottisten kukkien kuvasarjan avulla.",
+      "theme": "Trooppiset kukat",
+      "images": {
+        "hibiscus_1": "Punainen hibiskus",
+        "frangipani_2": "Punavalkoinen frangipani",
+        "sunflower_3": "Auringonkukka",
+        "hydrangea_4": "Valkoinen hortensia",
+        "rose_5": "Ruusu",
+        "chrysanthemum_6": "Krysanteemi",
+        "anthurium_7": "Flamingokukka",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Ritarinkannus"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Katuruokajuhla",
+      "description": "Tutustukaa katuruoan värikkääseen maailmaan tämän kuvasarjan herkullisten välipalojen kautta ympäri maailmaa.",
+      "theme": "Katuruoka",
+      "images": {
+        "taco_1": "Meksikolainen taco",
+        "ramen_2": "Japanilainen ramen",
+        "dumplings_3": "Kiinalaiset dumplingit",
+        "samosa_4": "Intialainen samosa",
+        "pizza_5": "Italialainen pizzaviipale",
+        "crepe_6": "Ranskalainen kreppi",
+        "satay_7": "Thaimaalaiset satay-vartaat",
+        "burger_8": "Amerikkalainen hampurilainen",
+        "bao_9": "Höyrytetty bao-sämpylä",
+        "takoyaki_10": "Japanilainen takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Luontomaisemia",
+      "description": "Rauhallisia, kauniita luontokuvia, joita voi katsella hitaasti ja joista voi jutella yhdessä.",
+      "theme": "Luontomaisemat",
+      "images": {
+        "mountain_1": "Vuoristo",
+        "forest_2": "Usvainen metsä",
+        "lake_3": "Vuoristojärvi",
+        "desert_4": "Autiomaan dyynit",
+        "waterfall_5": "Vesiputous",
+        "beach_6": "Hiekkaranta",
+        "river_7": "Virtaava joki",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Auringonlaskun taivas",
+        "snow_mountain_10": "Lumipeitteinen vuori",
+        "flowers_11": "Niittykukat",
+        "rainforest_12": "Sademetsä",
+        "iceberg_13": "Jäävuori",
+        "volcano_14": "Tulivuori",
+        "cliff_15": "Merenrantajyrkänne",
+        "aurora_16": "Revontulet",
+        "savannah_17": "Savanni",
+        "coral_reef_18": "Koralliriutta"
+      }
+    }
+  }
 }
