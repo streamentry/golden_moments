@@ -65,7 +65,8 @@ Key `wellbeing.momentDays.v1` in shared preferences. JSON:
 
 ## Maintainer decisions still open
 
-1. **Primary category.** `metadata/app-store.en-US.json` now recommends Health & Fitness
+1. **Decision (2026-11-06): hold the category change until version 1.8.0 is approved.** The primary category stays as it is in App Store Connect for 1.7.0. The change to Health & Fitness (primary) with Lifestyle (secondary) is made with the 1.8.0 listing, after the wellbeing screens are checked on a device and Apple's review of the health-related category is checked. Until then, the recommendation in the metadata is the only record.
+   **Primary category detail.** `metadata/app-store.en-US.json` now recommends Health & Fitness
    as primary and Lifestyle as secondary. This is a recommendation only. The category
    in App Store Connect has not been changed, and Apple's review of a health-related
    category has not been checked. Changing it needs that check and an explicit decision.
