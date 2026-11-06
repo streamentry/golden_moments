@@ -1,6 +1,6 @@
 ---
 title: "Tevékenységek demencia későbbi szakaszában, ágyban vagy székben is"
-seoTitle: "Demencia későbbi szakaszában: ágyban és székben végezhető ötletek"
+seoTitle: "Későbbi szakaszú demencia: ágyban és székben végezhető ötletek"
 description: "Gyengéd tevékenységek demencia későbbi szakaszában, ágyban vagy székben is: zene, érintés, felolvasás, hangok és a közös jelenlét, biztonsági tippekkel."
 section: activities
 order: 4
