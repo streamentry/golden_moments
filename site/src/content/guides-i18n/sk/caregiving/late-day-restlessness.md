@@ -111,7 +111,7 @@ Nápady, ktoré môžete vyskúšať:
 7. **Omaľovánky.** [Omaľovánky](/games/coloring/) na obrazovke alebo na vytlačenej stránke, bez cieľa dokončiť.
 8. **Pozeranie a rozhovor.** [Kartičky na rozhovor](/games/conversation-cards/) ponúkajú obrázok a otvorený podnet. Stačí sa len pozerať.
 9. **Pauza na dýchanie.** [Pokojné dýchanie](/games/calm-breathing/) je pomalá, tichá pauza, ktorú začínate a zastavujete sami.
-10. **Ručné činnosti.** Triedenie gombíkov alebo ponožiek, hladenie mäkkej deky alebo držanie známeho predmetu. Pozrite [zmyslové aktivity](/activities/sensory/).
+10. **Ručné činnosti.** Triedenie gombíkov alebo ponožiek, hladenie mäkkej deky alebo držanie známeho predmetu. Pozrite si [zmyslové aktivity](/activities/sensory/).
 
 Vyhnite sa novým hrám, rušným výletom a všetkému, čo neskoro popoludní vyžaduje veľa pamäti alebo sústredenia. Šetrite to na ráno.
 

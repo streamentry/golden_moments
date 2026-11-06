@@ -118,7 +118,7 @@ health: false
 
 ## Гадаа гарахад алга болохыг хэрхэн зохицуулах вэ?
 
-Тэд гадаа байх бүрт хүнтэй хамт байгаарай. Альцгеймерийн холбоо [дементиатай 10 хүнээс 6 нь](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) дор хаяж нэг удаа алга болдог, олон нь нэгээс илүү удаа гэж хэлдэг. Энэ нь аль ч шатанд тохиолдож болно.
+Тэд гадаа байх бүрт хүнтэй хамт байгаарай. Альцгеймерийн холбоо [дементиатай 10 хүнээс зургаа нь](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) дор хаяж нэг удаа алга болдог, олон нь нэгээс илүү удаа гэж хэлдэг. Энэ нь аль ч шатанд тохиолдож болно.
 
 NIA-гийн [алга болох, төөрөх талаарх зөвлөмж](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) дараахийг багтаадаг:
 
