@@ -1912,9 +1912,9 @@
   "@habitsSourcesTitle": {
     "description": "Heading above the source note."
   },
-  "habitsSources": "The 2024 Lancet Commission on dementia prevention, intervention and care. Its figures describe whole populations, not any one person. The sourced guide is at dementiaactivities.games/brain-health/can-dementia-be-prevented/ (in English).",
+  "habitsSources": "The 2024 Lancet Commission on dementia prevention, intervention and care. Its figures describe whole populations, not any one person. The sourced guide is on dementiaactivities.games (in English).",
   "@habitsSources": {
-    "description": "Names the source. Keep the web address exactly as written, with no change. Say that the figures describe whole populations, not one person."
+    "description": "Names the source. Keep the web address dementiaactivities.games exactly as written, with no change. Say that the figures describe whole populations, not one person, and that the guide is in English."
   },
   "wellbeingItemCallSomeone": "Call or message someone you enjoy talking with",
   "@wellbeingItemCallSomeone": {

@@ -35,7 +35,7 @@ Rules specific to this page:
 - Every habit line says "linked with". Nothing says a habit prevents, protects against, or lowers anyone's risk. The page states that these are not a promise for any one person and that no habit, game or diet has been proven to prevent dementia. A test checks both, and bans claim, brain, score, streak and timer wording (`test/features/habits/habits_page_test.dart`).
 - The app is not presented as a way to prevent dementia. Daily moment and the matching game stay recreational, as before; nothing here says they train or protect anything.
 - No age is asked and no one is addressed by age. There is nothing to tick off, count, score or track, and no data is stored.
-- The source is named as selectable text and the guide address is shown to copy. The app does not open it, which keeps the app's rule that nothing leaves the device from here.
+- The source is named as selectable text, with the site name `dementiaactivities.games` and a note that the guide is in English. The app does not open it, which keeps the app's rule that nothing leaves the device from here. The full guide path is not shown because it contains the word "brain", which the localization test keeps out of all app text.
 - The page ends with a doctor note and a button to **Plan my day**, which now includes a "call or message someone" suggestion for oneself in the afternoon.
 
 Not done, on purpose: the store listing and metadata are unchanged. Describing the app to people who want to prevent dementia would invite exactly the claim the product must not make, so any change to store copy needs the same no-claims review as all copy, and a maintainer decision.
