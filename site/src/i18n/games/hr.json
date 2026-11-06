@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Parovi slika",
+    "seoTitle": "Igra slaganja za demenciju: Parovi slika",
+    "h1": "Parovi slika: nježna igra slaganja",
+    "description": "Besplatna, nježna igra slaganja za osobe koje žive s demencijom. Velike slike ostaju vidljive, nema mjerenja vremena ni bodova, a Vi birate od 4 do 12 pločica.",
+    "short": "Pronađite dvije iste slike. Slike mogu ostati vidljive.",
+    "players": "1 ili 2 osobe, jedna uz drugu",
+    "intro": "Dodirnite sliku, zatim dodirnite onu koja joj odgovara. Slike su prema zadanim postavkama vidljive, pa ništa ne treba pamtiti. Kad se dvije slike podudaraju, dobivaju zlatni obrub i kvačicu.",
+    "howTo": [
+      "Odaberite koliko ćete pločica koristiti. Četiri pločice miran su početak.",
+      "Dodirnite bilo koju sliku. Dobit će zlatni obrub.",
+      "Dodirnite sliku koja izgleda isto. Par ostaje zajedno s kvačicom.",
+      "Ako su dvije slike različite, ne događa se ništa loše. Dodirnite ponovno kad budete spremni.",
+      "Uključite „Skrivene slike“ samo ako oboje uživate u klasičnoj verziji s okrenutim pločicama."
+    ],
+    "tips": [
+      "Zajedno naglas imenujte slike i razgovarajte o njima: „Crvena šalica za čaj. Pijete li čaj s mlijekom?“",
+      "Neka osoba o kojoj skrbite sama dodiruje, čak i ako traje dulje. Pokažite prstom umjesto da dodirujete umjesto nje.",
+      "Ostanite na četiri pločice koliko god Vam je ugodno. Više pločica je izbor, a nikada razina koju treba dosegnuti.",
+      "Prekinite dok je još ugodno. Jedna igra je cjelovita aktivnost."
+    ],
+    "faq": [
+      {
+        "q": "Postoji li mjerenje vremena ili bodovi?",
+        "a": "Ne. Nema sata, bodova, brojača poteza ni gubljenja. Možete prekinuti u bilo kojem trenutku, a prekid na pola puta posve je dobar način da završite."
+      },
+      {
+        "q": "Zašto slike ostaju okrenute prema gore?",
+        "a": "Zbog vidljivih slika igra postaje gledanje i slaganje, a ne pamćenje. Mnogi to smatraju mirnijim. Jednim dodirom možete prijeći na skrivene slike ako više volite."
+      },
+      {
+        "q": "Je li besplatna i moram li se prijaviti?",
+        "a": "Da, besplatna je i nema računa, prijave ni preuzimanja. Radi u web-pregledniku na telefonu, tabletu ili računalu."
+      },
+      {
+        "q": "Možemo li koristiti vlastite obiteljske fotografije?",
+        "a": "Da. Isprobajte Parove fotografija, koji Vam omogućuju da odaberete fotografije sa svog uređaja. Fotografije ostaju u Vašem pregledniku i ne prenose se na internet."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Pronađi isto",
+    "seoTitle": "Pronađite istu sliku: jednostavna igra za demenciju",
+    "h1": "Pronađite istu sliku",
+    "description": "Jedna slika gore, dvije do četiri dolje. Dodirnite onu koja je ista. Mirna, besplatna igra sa slikama za osobe koje žive s demencijom, bez mjerenja vremena.",
+    "short": "Pogledajte sliku gore i dodirnite istu dolje.",
+    "players": "1 ili 2 osobe",
+    "intro": "Jedna slika nalazi se na vrhu zaslona. Ispod nje su dvije, tri ili četiri slike. Dodirnite onu koja je ista. Svaki put je jedan jednostavan izbor, uz puno prostora za razgovor.",
+    "howTo": [
+      "Odaberite dvije, tri ili četiri slike za biranje. Dvije su najjednostavnije.",
+      "Zajedno pogledajte sliku gore.",
+      "Dodirnite istu sliku dolje. Označena je kvačicom i nekoliko toplih riječi.",
+      "Ako se dodirne druga slika, igra je jednostavno imenuje i čeka. Nemojte žuriti.",
+      "Dodirnite „Sljedeća slika“ kad budete spremni za novu."
+    ],
+    "tips": [
+      "Razgovarajte o svakoj slici prije odabira: boje, oblici, gdje biste je mogli vidjeti.",
+      "Dva izbora nisu „prelaka“. Cilj je ugodan trenutak, a ne izazov.",
+      "Ako je dodirivanje teško, osoba može pokazati prstom, a Vi možete dodirnuti umjesto nje."
+    ],
+    "faq": [
+      {
+        "q": "Postoji li mjerenje vremena ili bodovi?",
+        "a": "Ne. Nema sata, bodova, brojača poteza ni gubljenja. Možete prekinuti u bilo kojem trenutku, a prekid na pola puta posve je dobar način da završite."
+      },
+      {
+        "q": "Što se događa ako se dodirne druga slika?",
+        "a": "Ništa neugodno. Nema zujalice, crvenog križića ni podrhtavanja. Igra imenuje sliku koja je dodirnuta i čeka sljedeći dodir."
+      },
+      {
+        "q": "Je li besplatna i moram li se prijaviti?",
+        "a": "Da, besplatna je i nema računa, prijave ni preuzimanja. Radi u web-pregledniku na telefonu, tabletu ili računalu."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Pronađi sjenu",
+    "seoTitle": "Igra slaganja sjena za demenciju: besplatno na internetu",
+    "h1": "Pronađi sjenu: nježna igra sa slikama",
+    "description": "Tamna sjena gore, dvije do četiri slike dolje. Dodirnite sliku koja baca sjenu. Besplatna, mirna igra slaganja sjena za demenciju, bez mjerenja vremena.",
+    "short": "Pogledajte sjenu i dodirnite sliku koja je baca.",
+    "players": "1 ili 2 osobe",
+    "intro": "Slaganje sjena poznata je aktivnost s tiskanih listova, ovdje s velikim slikama i bez ičega za ispis. Meka sjena nalazi se na vrhu zaslona, a dolje čekaju dvije, tri ili četiri slike. Dodirnite onu koja baca sjenu. O oblicima poput bicikla, kišobrana ili šalice za čaj lako je i razgovarati.",
+    "howTo": [
+      "Odaberite dvije, tri ili četiri slike za biranje. Dvije su najjednostavnije.",
+      "Zajedno pogledajte sjenu. Kakav je to oblik? Je li visok ili okrugao?",
+      "Dodirnite sliku koja baca sjenu. Njezino se ime prikazuje ispod sjene.",
+      "Ako se dodirne druga slika, igra je jednostavno imenuje i čeka. Nemojte žuriti.",
+      "Dodirnite „Sljedeća sjena“ kad budete spremni za novu."
+    ],
+    "tips": [
+      "Prstom pratite obris sjene i razgovarajte o obliku.",
+      "Ako Vam se sjene danas čine teškima, prijeđite na igru Pronađi isto, u kojoj su slike slične.",
+      "Kad se slika pronađe, razgovarajte o njoj: „Imali smo takav kišobran.“"
+    ],
+    "faq": [
+      {
+        "q": "Postoji li mjerenje vremena ili bodovi?",
+        "a": "Ne. Nema sata, bodova, brojača poteza ni gubljenja. Možete prekinuti u bilo kojem trenutku, a prekid na pola puta posve je dobar način da završite."
+      },
+      {
+        "q": "Je li slaganje sjena dobro za osobe s demencijom?",
+        "a": "Nekima može biti ugodna, jednostavna aktivnost, osobito u ranijim fazama. Oblike je lakše prepoznati nego riječi. Namijenjena je uživanju i razgovoru, a ne testu, i ne liječi niti usporava demenciju. Ako izaziva frustraciju, isprobajte Pronađi isto ili jednostavno zajedno gledajte slike."
+      },
+      {
+        "q": "Što se događa ako se dodirne druga slika?",
+        "a": "Ništa neugodno. Nema zujalice, crvenog križića ni podrhtavanja. Igra imenuje sliku koja je dodirnuta i čeka sljedeći dodir."
+      },
+      {
+        "q": "Je li besplatna i moram li se prijaviti?",
+        "a": "Da, besplatna je i nema računa, prijave ni preuzimanja. Radi u web-pregledniku na telefonu, tabletu ili računalu."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Razvrstajmo zajedno",
+    "seoTitle": "Igra razvrstavanja za demenciju: razvrstajmo zajedno",
+    "h1": "Razvrstajmo zajedno: razvrstavanje slika",
+    "description": "Dodirnite sliku, zatim košaru u koju pripada: kuhinja ili vrt, voće ili životinje. Mirna, besplatna aktivnost razvrstavanja za osobe koje žive s demencijom.",
+    "short": "Stavite svaku sliku u njezinu košaru: kuhinja ili vrt i još mnogo toga.",
+    "players": "1 ili 2 osobe",
+    "intro": "Razvrstavanje je poznat, ugodan svakodnevni posao, kao spremanje namirnica ili slaganje čarapa u parove. Dodirnite sliku, zatim košaru u koju pripada. Nema žurbe ni krivog skretanja.",
+    "howTo": [
+      "Odaberite temu: kuhinja i vrt, voće i životinje ili dom i putovanja.",
+      "Dodirnite sliku. Dobit će zlatni obrub.",
+      "Dodirnite košaru u koju pripada. Slika se premješta u tu košaru.",
+      "Ako pripada u drugu košaru, igra to nježno kaže i čeka.",
+      "Kad je sve razvrstano, zajedno pregledajte košare."
+    ],
+    "tips": [
+      "U stvarnom životu često nema pogrešnih odgovora. Ako netko kaže da kanta za zalijevanje pripada u kuhinju, pitajte zašto. Možda čujete lijepu priču.",
+      "Iskoristite slike kao poticaj: „Što ste uzgajali u svom vrtu?“",
+      "Razvrstavanje pravih predmeta, poput žlica i vilica ili gumba po boji, odlično je nastavak izvan zaslona."
+    ],
+    "faq": [
+      {
+        "q": "Postoji li mjerenje vremena ili bodovi?",
+        "a": "Ne. Nema sata, bodova, brojača poteza ni gubljenja. Možete prekinuti u bilo kojem trenutku, a prekid na pola puta posve je dobar način da završite."
+      },
+      {
+        "q": "Zašto razvrstavanje?",
+        "a": "Mnogi uživaju u razvrstavanju jer djeluje kao koristan, poznat posao. Usto je lako razgovarati o slikama usput."
+      },
+      {
+        "q": "Je li besplatna i moram li se prijaviti?",
+        "a": "Da, besplatna je i nema računa, prijave ni preuzimanja. Radi u web-pregledniku na telefonu, tabletu ili računalu."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Slagalica sa slikom",
+    "seoTitle": "Laka slagalica za demenciju: 4 ili 9 dijelova",
+    "h1": "Slagalica sa slikom: laka slagalica",
+    "description": "Laka internetska slagalica za osobe koje žive s demencijom: 4 ili 9 velikih dijelova, cijela slika ostaje vidljiva, a dodirom dvaju dijelova mijenjate im mjesta.",
+    "short": "Dodirnite dva dijela da ih zamijenite dok slika ne bude cjelovita.",
+    "players": "1 ili 2 osobe",
+    "intro": "Prijateljska slika izrezana je na četiri ili devet velikih dijelova i izmiješana. Cijela slika ostaje vidljiva kao vodič. Dodirnite jedan dio, zatim drugi, i zamijenit će mjesta. Povlačenje nije potrebno.",
+    "howTo": [
+      "Odaberite sliku i 4 ili 9 dijelova. Četiri su nježan početak.",
+      "Pogledajte cijelu sliku gore.",
+      "Dodirnite dio, zatim mjesto na koje treba ići. Dva se dijela zamjenjuju.",
+      "Dijelovi na pravom mjestu dobivaju malu kvačicu.",
+      "Kad je slika cjelovita, zajedno uživajte u njoj, a zatim odaberite drugu."
+    ],
+    "tips": [
+      "Dodirivanje dvaju dijelova radi zamjene mnogima je puno lakše od povlačenja.",
+      "Razgovarajte o slici dok se slaže: „Evo crvenog krova.“",
+      "Prava drvena slagalica s 12 do 24 velika dijela također je lijepa aktivnost za stol."
+    ],
+    "faq": [
+      {
+        "q": "Postoji li mjerenje vremena ili bodovi?",
+        "a": "Ne. Nema sata, bodova, brojača poteza ni gubljenja. Možete prekinuti u bilo kojem trenutku, a prekid na pola puta posve je dobar način da završite."
+      },
+      {
+        "q": "Moram li povlačiti dijelove?",
+        "a": "Ne. Dodirnite jedan dio, zatim drugi, i zamijenit će mjesta. To je lakše uz drhtavu ruku ili na malom zaslonu."
+      },
+      {
+        "q": "Je li besplatna i moram li se prijaviti?",
+        "a": "Da, besplatna je i nema računa, prijave ni preuzimanja. Radi u web-pregledniku na telefonu, tabletu ili računalu."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Dovrši izreku",
+    "seoTitle": "Dovrši izreku: igra poslovicama za starije osobe",
+    "h1": "Dovrši izreku",
+    "description": "Poznate izreke kojima nedostaje posljednja riječ, poput „Tko rano rani, dvije sreće ___“. Dodirnite ponuđeni odgovor ili prikažite završetak, a zatim razgovarajte.",
+    "short": "Zajedno dovršite poznate izreke, a zatim razgovarajte o njima.",
+    "players": "1, 2 osobe ili grupa",
+    "intro": "Stare su izreke često poznate cijeli život. Svaka kartica prikazuje poznatu izreku kojoj nedostaje posljednja riječ, tri ponuđena odgovora i gumb „Prikaži završetak“. Nakon završetka nježno pitanje poziva na razgovor.",
+    "howTo": [
+      "Zajedno naglas pročitajte izreku.",
+      "Dodirnite riječ koja je dovršava ili dodirnite „Prikaži završetak“.",
+      "Ponovno pročitajte cijelu izreku i razgovarajte o njoj uz pomoć poticaja.",
+      "Dodirnite „Sljedeća izreka“ kad budete spremni."
+    ],
+    "tips": [
+      "Čitajte polako i ostavite stanku prije posljednje riječi. Često je ljudi izgovore prije nego dovršite.",
+      "Ako netko kaže drukčiji završetak, uživajte u tome. Neke se verzije izreka razlikuju po obitelji ili kraju.",
+      "U grupi jedna osoba čita, a svi se pridružuju na završetku."
+    ],
+    "faq": [
+      {
+        "q": "Postoji li mjerenje vremena ili bodovi?",
+        "a": "Ne. Nema sata, bodova, brojača poteza ni gubljenja. Možete prekinuti u bilo kojem trenutku, a prekid na pola puta posve je dobar način da završite."
+      },
+      {
+        "q": "Što ako odaberemo drugu riječ?",
+        "a": "Igra prikazuje uobičajeni završetak i prelazi na razgovor. Nema bodova, a drukčiji odgovor je u redu."
+      },
+      {
+        "q": "Je li besplatna i moram li se prijaviti?",
+        "a": "Da, besplatna je i nema računa, prijave ni preuzimanja. Radi u web-pregledniku na telefonu, tabletu ili računalu."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Osmosmjerka u velikom tisku",
+    "seoTitle": "Osmosmjerka u velikom tisku za demenciju, za ispis",
+    "h1": "Osmosmjerka u velikom tisku",
+    "description": "Besplatna osmosmjerka u velikom tisku za starije osobe i osobe koje žive s demencijom. Malo riječi, velika slova, riječi samo vodoravno i okomito. Igrajte na internetu ili ispišite.",
+    "short": "Velika slova, nekoliko riječi, samo vodoravno i okomito. Možete i ispisati.",
+    "players": "1 ili 2 osobe",
+    "intro": "Mala mreža s velikim slovima i samo šačicom riječi, sve se čitaju vodoravno ili okomito. Dodirnite prvo slovo riječi, zatim njezino posljednje slovo. Više volite papir? Jednim dodirom ispišite novu slagalicu.",
+    "howTo": [
+      "Odaberite temu i veličinu mreže.",
+      "Pogledajte popis riječi. Riječi se čitaju vodoravno (slijeva nadesno) ili okomito (odozgo prema dolje).",
+      "Dodirnite prvo slovo riječi, zatim dodirnite njezino posljednje slovo.",
+      "Pronađena riječ se označi i prekriži na popisu.",
+      "Dodirnite „Ispiši ovu slagalicu“ za igru na papiru olovkom ili flomasterom."
+    ],
+    "tips": [
+      "Pokažite riječ na popisu i zajedno potražite njezino prvo slovo.",
+      "Na papiru je marker lakše držati nego olovku.",
+      "Razgovarajte o riječima iz teme. Riječi o voću prirodan su put do sjećanja na branje, pečenje ili tržnice."
+    ],
+    "faq": [
+      {
+        "q": "Postoji li mjerenje vremena ili bodovi?",
+        "a": "Ne. Nema sata, bodova, brojača poteza ni gubljenja. Možete prekinuti u bilo kojem trenutku, a prekid na pola puta posve je dobar način da završite."
+      },
+      {
+        "q": "Mogu li ispisati osmosmjerku?",
+        "a": "Da. Dodirnite „Ispiši ovu slagalicu“ da biste ispisali trenutnu mrežu velikim slovima, s popisom riječi ispod. Svaka je nova slagalica drukčija."
+      },
+      {
+        "q": "Je li besplatna i moram li se prijaviti?",
+        "a": "Da, besplatna je i nema računa, prijave ni preuzimanja. Radi u web-pregledniku na telefonu, tabletu ili računalu."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Bojanke",
+    "seoTitle": "Bojanke za odrasle osobe s demencijom (besplatno)",
+    "h1": "Bojanke",
+    "description": "Jednostavne bojanke za odrasle s velikim površinama: dodirnite boju, zatim sliku. Bez prljanja, bez pogrešnih boja, a svaka se stranica može besplatno ispisati.",
+    "short": "Dodirnite boju, zatim dio slike. Možete i ispisati stranice.",
+    "players": "1 ili 2 osobe",
+    "intro": "Stranice s velikim, jednostavnim oblicima: cvijet u posudi, kuća, šalica za čaj, leptir i jedrilica. Dodirnite boju, zatim dio slike da ga ispunite. Nema pogrešnih boja.",
+    "howTo": [
+      "Odaberite stranicu.",
+      "Dodirnite boju. Na svakoj je napisan njezin naziv.",
+      "Dodirnite dio slike da ga ispunite tom bojom.",
+      "Možete se predomisliti u bilo kojem trenutku ponovnim ispunjavanjem.",
+      "Dodirnite „Ispiši ovu stranicu“ za praznu stranicu koju možete obojiti bojicama ili flomasterima."
+    ],
+    "tips": [
+      "Ponudite dvije boje za izbor umjesto cijelog kompleta ako Vam se čini da je biranje previše.",
+      "Ljubičasta stabla i plava sunca dobrodošli su. Radi se o uživanju u bojama, a ne o točnosti.",
+      "Ispisane stranice dobro idu s debelim flomasterima ili voštanim bojicama, koje je lakše držati."
+    ],
+    "faq": [
+      {
+        "q": "Postoji li mjerenje vremena ili bodovi?",
+        "a": "Ne. Nema sata, bodova, brojača poteza ni gubljenja. Možete prekinuti u bilo kojem trenutku, a prekid na pola puta posve je dobar način da završite."
+      },
+      {
+        "q": "Jesu li ove stranice previše dječje?",
+        "a": "Nacrtali smo mirne, jednostavne predmete, a ne crtiće, pa stranice odgovaraju odraslima. Veliki oblici olakšavaju bojanje, a da ne djeluje djetinjasto."
+      },
+      {
+        "q": "Je li besplatna i moram li se prijaviti?",
+        "a": "Da, besplatna je i nema računa, prijave ni preuzimanja. Radi u web-pregledniku na telefonu, tabletu ili računalu."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Kartice za razgovor",
+    "seoTitle": "Poticaji za razgovor s osobama s demencijom: kartice sa slikama",
+    "h1": "Kartice za razgovor",
+    "description": "Kartice sa slikama i nježnim poticajima za razgovor za osobe koje žive s demencijom: bez ispitivanja, bez točnih odgovora. Koristite na zaslonu ili ispišite cijeli komplet.",
+    "short": "Kartice sa slikama i otvorenim, nježnim pitanjima. Bez ispitivanja.",
+    "players": "2 osobe ili grupa",
+    "intro": "Svaka kartica spaja poznatu sliku s otvorenim pozivom na razgovor, poput „Kakvo vrijeme najviše volite?“ Nema točnih odgovora ni ičega što treba pamtiti. Odaberite temu ili promiješajte sve.",
+    "howTo": [
+      "Odaberite temu ili ostavite „Sve kartice“.",
+      "Pročitajte pitanje naglas i zajedno pogledajte sliku.",
+      "Slušajte, podijelite i vlastiti odgovor i pustite da razgovor luta.",
+      "Dodirnite „Sljedeća kartica“ kad budete spremni ili ostanite uz jednu karticu koliko god želite.",
+      "Dodirnite „Ispiši sve kartice“ da izrežete papirnati komplet."
+    ],
+    "tips": [
+      "I Vi odgovorite na pitanje. Tako je to razgovor, a ne intervju.",
+      "Pratite priču, a ne činjenice. Ako se pojedinosti mijenjaju, u redu je.",
+      "Ako kartica dotakne nešto tužno, priznajte osjećaj i nježno prijeđite na drugu karticu."
+    ],
+    "faq": [
+      {
+        "q": "Zašto nema pitanja „Sjećate li se…?“",
+        "a": "Pitanja koja testiraju pamćenje mogu djelovati kao ispit i izazvati nelagodu. Otvoreni pozivi poput „Ispričajte mi o…“ omogućuju svakome da se pridruži, bez obzira na to čega se sjeća."
+      },
+      {
+        "q": "Mogu li ispisati kartice?",
+        "a": "Da. „Ispiši sve kartice“ ispisuje cijeli komplet velikim slovima, nekoliko kartica po stranici, spreman za izrezivanje."
+      },
+      {
+        "q": "Je li besplatna i moram li se prijaviti?",
+        "a": "Da, besplatna je i nema računa, prijave ni preuzimanja. Radi u web-pregledniku na telefonu, tabletu ili računalu."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Parovi fotografija",
+    "seoTitle": "Napravite igru slaganja od obiteljskih fotografija",
+    "h1": "Parovi fotografija: slažite vlastite fotografije",
+    "description": "Pretvorite vlastite obiteljske fotografije u nježnu igru slaganja. Odaberite 2 do 6 fotografija na svom uređaju; ostaju u Vašem pregledniku i nikada se ne prenose na internet.",
+    "short": "Odaberite vlastite fotografije i složite ih u parove. Ništa se ne prenosi na internet.",
+    "players": "2 osobe, jedna uz drugu",
+    "intro": "Odaberite dvije do šest fotografija s telefona, tableta ili računala i one postaju igra slaganja s velikim, vidljivim slikama. Fotografije se prikazuju samo unutar ove stranice. Ne prenose se na internet, ne spremaju se i ne dijele, a nestaju kad zatvorite stranicu.",
+    "howTo": [
+      "Dodirnite „Odaberite fotografije“ i odaberite dvije do šest fotografija.",
+      "Svaka se fotografija pojavljuje dvaput. Dodirnite jednu, zatim njezin par.",
+      "Razgovarajte o svakoj fotografiji kad je pronađete.",
+      "Kad završite, zatvorite stranicu ili dodirnite „Očisti fotografije“. Ništa se ne čuva."
+    ],
+    "tips": [
+      "Odaberite jasne fotografije sretnih, poznatih stvari: ljubimac, vrt, omiljeno mjesto, dan vjenčanja.",
+      "Slike mjesta i predmeta mogu biti lakše od lica i izbjegavaju pritisak da se imenuju osobe.",
+      "Izostavite fotografije osoba koje su preminule ako bi mogle izazvati iznenadnu tugu, osim ako znate da donose utjehu."
+    ],
+    "faq": [
+      {
+        "q": "Prenose li se moje fotografije igdje?",
+        "a": "Ne. Stranica čita fotografije koje odaberete izravno u Vašem pregledniku i prikazuje ih na Vašem zaslonu. Ne šalju se nama niti ikome drugome, a nestaju kad zatvorite ili ponovno učitate stranicu."
+      },
+      {
+        "q": "Postoji li mjerenje vremena ili bodovi?",
+        "a": "Ne. Nema sata, bodova, brojača poteza ni gubljenja. Možete prekinuti u bilo kojem trenutku, a prekid na pola puta posve je dobar način da završite."
+      },
+      {
+        "q": "Mogu li spremiti igru za sljedeći put?",
+        "a": "Ne u pregledniku, namjerno, kako se ništa privatno ne bi pohranjivalo. Besplatna aplikacija Golden Moments za iPhone i iPad može čuvati kopije odabranih fotografija na Vašem uređaju."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bingo sa slikama",
+    "seoTitle": "Bingo sa slikama za starije osobe s demencijom: za ispis",
+    "h1": "Bingo sa slikama za grupe",
+    "description": "Besplatni bingo sa slikama za ispis za njegu osoba s demencijom i grupe starijih, s velikim pozivateljem na zaslonu. Velike slike s riječima, 9 ili 16 polja, čitanje nije potrebno.",
+    "short": "Kartice za bingo sa slikama za ispis i pozivatelj za veliki zaslon za grupe.",
+    "players": "Grupa od 2 do 30 osoba",
+    "intro": "Klasični bingo sa slikama umjesto brojeva, pa nitko ne mora čitati sitan tisak. Ispišite komplet jedinstvenih kartica, a zatim pomoću pozivatelja na zaslonu prikažite svaku sliku veliku na televizoru, prijenosnom računalu ili tabletu.",
+    "howTo": [
+      "Odaberite 9 ili 16 polja po kartici i broj igrača.",
+      "Dodirnite „Ispiši kartice“. Svaka je kartica drukčija.",
+      "Otvorite pozivatelja na velikom zaslonu. Dodirnite „Sljedeća slika“ da prikažete svaku sliku s njezinim imenom.",
+      "Igrači prekrivaju odgovarajuću sliku na svojoj kartici novčićem, gumbom ili markerom.",
+      "Svi koji popune red ili cijelu karticu dobivaju pljesak. U ovoj verziji nema gubitnika: igrajte dok svi ne dobiju red."
+    ],
+    "tips": [
+      "Koristite velike žetone, poput dama ili čepova od boca. Sitne gumbe može biti teško uhvatiti.",
+      "Imenujte sliku i recite nešto o njoj: „Jedrilica. Tko je bio na brodu?“",
+      "Osobe koje teško vide smjestite najbliže zaslonu, a pomagače uparite s igračima kojima trebaju.",
+      "Devet polja sasvim je dovoljno za većinu grupa. Neka susret traje oko 20 do 30 minuta."
+    ],
+    "faq": [
+      {
+        "q": "Kako provesti bingo sa slikama u domu za starije?",
+        "a": "Ispišite po jednu karticu za svakog igrača, postavite pozivatelja na najveći zaslon i polako prozivajte slike, imenujući svaku. Igrajte dok svi ne dobiju red, kako nitko ne bi ostao po strani."
+      },
+      {
+        "q": "Je li ispis besplatan?",
+        "a": "Da. Ispišite koliko god kartica trebate, koliko god često želite, za osobnu ili grupnu upotrebu."
+      },
+      {
+        "q": "Mogu li ljudi igrati bez čitanja?",
+        "a": "Da. Svako je polje velika slika, s imenom ispod za one koji vole riječi."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Mirno disanje",
+    "seoTitle": "Mirna stanka za disanje za starije osobe i njegovatelje",
+    "h1": "Mirna stanka za disanje",
+    "description": "Spora, tiha stanka za disanje koju možete podijeliti: nježan krug raste i smanjuje se tijekom šest udaha. Vi je pokrećete i možete je zaustaviti u bilo kojem trenutku.",
+    "short": "Spori krug uz koji možete disati. Pokrenite i zaustavite kad želite.",
+    "players": "1 ili 2 osobe",
+    "intro": "Ponekad je najbolja aktivnost tiha stanka. Dodirnite „Pokreni“, zatim udišite dok krug raste, a izdišite dok se smanjuje. Odaberite sporiji ili brži tempo. Nije liječenje, samo miran trenutak za dijeljenje.",
+    "howTo": [
+      "Udobno sjednite jedno uz drugo.",
+      "Odaberite tempo: spor ili nježan.",
+      "Dodirnite „Pokreni“. Udišite dok krug raste, a izdišite dok se smanjuje.",
+      "Zaustavlja se sam nakon šest udaha ili dodirnite „Zaustavi“ kad god želite."
+    ],
+    "tips": [
+      "Držite se za ruke ili stavite ruku na ruku osobe ako je to dobrodošlo.",
+      "Nikada ne inzistirajte. Ako osoba radije gleda, to je u redu.",
+      "Ako netko ima poteškoća s disanjem, neka diše uobičajeno i jednostavno gleda krug. Za bilo kakve tegobe s disanjem pitajte liječnika."
+    ],
+    "faq": [
+      {
+        "q": "Je li ovo medicinska vježba disanja?",
+        "a": "Ne. To je jednostavna, neobavezna stanka za mir i društvo. Nije liječenje tjeskobe ni bilo kojeg stanja. Za zdravstvene brige razgovarajte s liječnikom."
+      },
+      {
+        "q": "Pomiče li se krug bez da ga pokrenem?",
+        "a": "Ne. Ništa se ne pomiče dok ne dodirnete Pokreni, a zaustavlja se nakon šest udaha ili kad dodirnete Zaustavi. Ako je Vaš uređaj postavljen na smanjeno kretanje, riječi se mijenjaju bez rasta kruga."
+      },
+      {
+        "q": "Je li besplatna i moram li se prijaviti?",
+        "a": "Da, besplatna je i nema računa, prijave ni preuzimanja. Radi u web-pregledniku na telefonu, tabletu ili računalu."
+      }
+    ]
+  }
+}

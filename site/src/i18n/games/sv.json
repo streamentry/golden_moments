@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Bildpar",
+    "seoTitle": "Parspel vid demens: Bildpar",
+    "h1": "Bildpar: ett lugnt spel med par",
+    "description": "Ett gratis, lugnt parspel för personer som lever med demens. Stora bilder som syns hela tiden, ingen timer eller poäng, och du väljer mellan 4 och 12 brickor.",
+    "short": "Hitta de två bilder som är likadana. Bilderna kan ligga framme.",
+    "players": "1 eller 2 personer, sida vid sida",
+    "intro": "Tryck på en bild och sedan på den som hör ihop med den. Bilderna syns som standard, så ingenting behöver komma ihåg. När två bilder hör ihop får de en guldkant och en bockmarkering.",
+    "howTo": [
+      "Välj hur många brickor du vill ha. Fyra brickor är ett lugnt sätt att börja.",
+      "Tryck på en valfri bild. Den får en guldkant.",
+      "Tryck på bilden som ser likadan ut. Paret stannar tillsammans med en bockmarkering.",
+      "Om de två bilderna är olika händer ingenting dåligt. Tryck igen när du är redo.",
+      "Slå på ”Dolda bilder” bara om ni båda gillar den klassiska versionen med nedvända bilder."
+    ],
+    "tips": [
+      "Säg namnen på bilderna högt tillsammans och prata om dem: ”En röd tekopp. Tar du mjölk i teet?”",
+      "Låt personen du tar hand om trycka själv, även om det tar en stund. Peka hellre än att trycka åt personen.",
+      "Stanna kvar vid fyra brickor så länge det känns bra. Fler brickor är ett val, aldrig en nivå att nå.",
+      "Sluta medan det fortfarande är roligt. Ett spel är en hel aktivitet."
+    ],
+    "faq": [
+      {
+        "q": "Finns det en timer eller poäng?",
+        "a": "Nej. Det finns ingen klocka, inga poäng, ingen dragräknare och ingen förlust. Du kan sluta när som helst, och att sluta halvvägs är ett alldeles utmärkt sätt att avsluta."
+      },
+      {
+        "q": "Varför ligger bilderna uppvända?",
+        "a": "När bilderna syns blir spelet att titta och para ihop i stället för att komma ihåg. Många tycker att det är lugnare. Du kan byta till dolda bilder med ett tryck om du föredrar det."
+      },
+      {
+        "q": "Är det gratis, och måste jag registrera mig?",
+        "a": "Ja, det är gratis, och det finns inget konto, ingen registrering och ingen nedladdning. Det fungerar i webbläsaren på mobil, surfplatta eller dator."
+      },
+      {
+        "q": "Kan vi använda våra egna familjefoton?",
+        "a": "Ja. Prova Fotopar, där du kan välja foton från din enhet. Fotona stannar i din webbläsare och laddas inte upp."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Hitta samma",
+    "seoTitle": "Hitta samma bild: enkelt spel vid demens",
+    "h1": "Hitta samma bild",
+    "description": "En bild högst upp, två till fyra nedanför. Tryck på den som är likadan. Ett lugnt, gratis bildspel för personer som lever med demens, utan timer.",
+    "short": "Titta på bilden högst upp och tryck på den likadana nedanför.",
+    "players": "1 eller 2 personer",
+    "intro": "En enda bild finns högst upp på skärmen. Nedanför den finns två, tre eller fyra bilder. Tryck på den som är likadan. Det är ett enkelt val i taget, med gott om utrymme att prata.",
+    "howTo": [
+      "Välj två, tre eller fyra bilder att välja mellan. Två är enklast.",
+      "Titta på bilden högst upp tillsammans.",
+      "Tryck på den likadana bilden nedanför. Den markeras med en bock och några varma ord.",
+      "Om en annan bild trycks på nämner spelet bara vilken det är och väntar. Ta den tid du behöver.",
+      "Tryck på ”Nästa bild” när du är redo för en till."
+    ],
+    "tips": [
+      "Prata om varje bild innan ni väljer: färger, former, var ni kan se den.",
+      "Två val är inte ”för lätt”. Målet är en trevlig stund, inte en utmaning.",
+      "Om det är svårt att trycka kan personen peka, så trycker du åt personen."
+    ],
+    "faq": [
+      {
+        "q": "Finns det en timer eller poäng?",
+        "a": "Nej. Det finns ingen klocka, inga poäng, ingen dragräknare och ingen förlust. Du kan sluta när som helst, och att sluta halvvägs är ett alldeles utmärkt sätt att avsluta."
+      },
+      {
+        "q": "Vad händer om man trycker på en annan bild?",
+        "a": "Inget obehagligt. Det finns ingen summer, inget rött kryss och inget skakande. Spelet nämner bilden som trycktes på och väntar på nästa tryck."
+      },
+      {
+        "q": "Är det gratis, och måste jag registrera mig?",
+        "a": "Ja, det är gratis, och det finns inget konto, ingen registrering och ingen nedladdning. Det fungerar i webbläsaren på mobil, surfplatta eller dator."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Skuggpar",
+    "seoTitle": "Skuggspel vid demens: gratis online",
+    "h1": "Skuggpar: ett lugnt bildspel",
+    "description": "En mörk skugga högst upp, två till fyra bilder nedanför. Tryck på bilden som ger skuggan. Ett gratis, lugnt skuggspel vid demens, utan timer.",
+    "short": "Titta på skuggan och tryck på bilden som ger den.",
+    "players": "1 eller 2 personer",
+    "intro": "Att para ihop skuggor är en välkänd aktivitet från tryckta övningsblad, här med stora bilder och inget att skriva ut. En mjuk skugga finns högst upp på skärmen och två, tre eller fyra bilder väntar nedanför. Tryck på den som ger skuggan. Former som en cykel, ett paraply eller en tekopp är också lätta att prata om.",
+    "howTo": [
+      "Välj två, tre eller fyra bilder att välja mellan. Två är enklast.",
+      "Titta på skuggan tillsammans. Vilken form har den? Är den hög eller rund?",
+      "Tryck på bilden som ger skuggan. Dess namn visas under skuggan.",
+      "Om en annan bild trycks på nämner spelet bara vilken det är och väntar. Ta den tid du behöver.",
+      "Tryck på ”Nästa skugga” när du är redo för en till."
+    ],
+    "tips": [
+      "Följ skuggans kontur med ett finger och prata om formen.",
+      "Om skuggor känns svåra i dag, byt till Hitta samma, där bilderna ser likadana ut.",
+      "Prata om bilden när den är hittad: ”Vi hade ett sådant paraply.”"
+    ],
+    "faq": [
+      {
+        "q": "Finns det en timer eller poäng?",
+        "a": "Nej. Det finns ingen klocka, inga poäng, ingen dragräknare och ingen förlust. Du kan sluta när som helst, och att sluta halvvägs är ett alldeles utmärkt sätt att avsluta."
+      },
+      {
+        "q": "Är skuggspel bra för personer med demens?",
+        "a": "Det kan vara en trevlig, enkel aktivitet för vissa, särskilt i tidigare skeden. Former är lättare att känna igen än ord. Det är till för att ha trevligt och prata, inte ett test, och det behandlar eller bromsar inte demens. Om det skapar frustration, prova Hitta samma eller titta bara på bilder tillsammans."
+      },
+      {
+        "q": "Vad händer om man trycker på en annan bild?",
+        "a": "Inget obehagligt. Det finns ingen summer, inget rött kryss och inget skakande. Spelet nämner bilden som trycktes på och väntar på nästa tryck."
+      },
+      {
+        "q": "Är det gratis, och måste jag registrera mig?",
+        "a": "Ja, det är gratis, och det finns inget konto, ingen registrering och ingen nedladdning. Det fungerar i webbläsaren på mobil, surfplatta eller dator."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Sortera tillsammans",
+    "seoTitle": "Sorteringsspel vid demens: sortera tillsammans",
+    "h1": "Sortera tillsammans: en bildsorteringsaktivitet",
+    "description": "Tryck på en bild och sedan på korgen som den hör hemma i: kök eller trädgård, frukt eller djur. En lugn, gratis sorteringsaktivitet för personer som lever med demens.",
+    "short": "Lägg varje bild i sin korg: kök eller trädgård, med mera.",
+    "players": "1 eller 2 personer",
+    "intro": "Att sortera är en välbekant och tillfredsställande vardagssyssla, som att packa upp matkassar eller para ihop strumpor. Tryck på en bild och sedan på korgen där den hör hemma. Det finns ingen brådska och inget felsteg.",
+    "howTo": [
+      "Välj ett tema: kök och trädgård, frukt och djur, eller hem och resor.",
+      "Tryck på en bild. Den får en guldkant.",
+      "Tryck på korgen som den hör hemma i. Bilden flyttas till den korgen.",
+      "Om den hör hemma i den andra korgen säger spelet det varsamt och väntar.",
+      "När alla bilder är sorterade tittar ni igenom korgarna tillsammans."
+    ],
+    "tips": [
+      "I verkliga livet finns det ofta inga fel svar. Om någon säger att en vattenkanna hör hemma i köket, fråga varför. Du kanske får en bra berättelse.",
+      "Använd bilderna som utgångspunkt: ”Vad odlade du i din trädgård?”",
+      "Att sortera riktiga saker, som skedar och gafflar eller knappar efter färg, är en bra fortsättning bort från skärmen."
+    ],
+    "faq": [
+      {
+        "q": "Finns det en timer eller poäng?",
+        "a": "Nej. Det finns ingen klocka, inga poäng, ingen dragräknare och ingen förlust. Du kan sluta när som helst, och att sluta halvvägs är ett alldeles utmärkt sätt att avsluta."
+      },
+      {
+        "q": "Varför sortering?",
+        "a": "Många tycker om att sortera eftersom det känns som nyttigt, välbekant arbete. Det är också lätt att prata om bilderna medan ni håller på."
+      },
+      {
+        "q": "Är det gratis, och måste jag registrera mig?",
+        "a": "Ja, det är gratis, och det finns inget konto, ingen registrering och ingen nedladdning. Det fungerar i webbläsaren på mobil, surfplatta eller dator."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Bildpussel",
+    "seoTitle": "Enkelt pussel vid demens: 4 eller 9 bitar",
+    "h1": "Bildpussel: ett enkelt pussel",
+    "description": "Ett enkelt onlinepussel för personer som lever med demens: 4 eller 9 stora bitar, hela bilden syns hela tiden och du trycker på två bitar för att byta plats på dem.",
+    "short": "Tryck på två bitar för att byta plats tills bilden är hel.",
+    "players": "1 eller 2 personer",
+    "intro": "En vänlig bild är uppdelad i fyra eller nio stora bitar och blandad. Hela bilden syns hela tiden som hjälp. Tryck på en bit och sedan på en annan, så byter de plats. Det går inte att dra.",
+    "howTo": [
+      "Välj en bild och 4 eller 9 bitar. Fyra är en lugn början.",
+      "Titta på hela bilden högst upp.",
+      "Tryck på en bit och sedan på platsen där den ska ligga. De två bitarna byter plats.",
+      "Bitar på rätt plats får en liten bockmarkering.",
+      "När bilden är hel kan ni njuta av den tillsammans och sedan välja en till."
+    ],
+    "tips": [
+      "Att trycka på två bitar för att byta plats är mycket lättare än att dra för många.",
+      "Prata om bilden medan den växer fram: ”Där är det röda taket.”",
+      "Ett riktigt trämpussel med 12 till 24 stora bitar är också en fin bordsaktivitet."
+    ],
+    "faq": [
+      {
+        "q": "Finns det en timer eller poäng?",
+        "a": "Nej. Det finns ingen klocka, inga poäng, ingen dragräknare och ingen förlust. Du kan sluta när som helst, och att sluta halvvägs är ett alldeles utmärkt sätt att avsluta."
+      },
+      {
+        "q": "Måste jag dra i bitarna?",
+        "a": "Nej. Tryck på en bit och sedan på en annan, så byter de plats. Det är lättare med en darrande hand eller på en liten skärm."
+      },
+      {
+        "q": "Är det gratis, och måste jag registrera mig?",
+        "a": "Ja, det är gratis, och det finns inget konto, ingen registrering och ingen nedladdning. Det fungerar i webbläsaren på mobil, surfplatta eller dator."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Avsluta ordspråket",
+    "seoTitle": "Avsluta ordspråket: ordspråksspel för äldre",
+    "h1": "Avsluta ordspråket",
+    "description": "Välkända svenska ordspråk där sista ordet saknas, som ”Borta bra, men hemma ___”. Tryck på ett alternativ eller visa slutet och prata sedan om det.",
+    "short": "Avsluta välkända ordspråk tillsammans och prata sedan om dem.",
+    "players": "1, 2 eller en grupp",
+    "intro": "Gamla ordspråk är ofta kända ett helt liv. Varje kort visar ett välkänt ordspråk där sista ordet saknas, tre alternativ och en knapp ”Visa slutet”. Efter slutet bjuder en vänlig fråga in till samtal.",
+    "howTo": [
+      "Läs ordspråket högt tillsammans.",
+      "Tryck på ordet som avslutar det, eller tryck på ”Visa slutet”.",
+      "Läs hela ordspråket igen och prata om det med hjälp av frågan.",
+      "Tryck på ”Nästa ordspråk” när du är redo."
+    ],
+    "tips": [
+      "Läs långsamt och gör en paus före sista ordet. Ofta säger någon det innan du hunnit klart.",
+      "Om någon ger ett annat slut, njut av det. Vissa varianter av ordspråk skiljer sig mellan familjer eller trakter.",
+      "I en grupp läser en person och alla hänger på i slutet."
+    ],
+    "faq": [
+      {
+        "q": "Finns det en timer eller poäng?",
+        "a": "Nej. Det finns ingen klocka, inga poäng, ingen dragräknare och ingen förlust. Du kan sluta när som helst, och att sluta halvvägs är ett alldeles utmärkt sätt att avsluta."
+      },
+      {
+        "q": "Vad händer om vi väljer ett annat ord?",
+        "a": "Spelet visar det vanliga slutet och går vidare till samtal. Det finns inga poäng, och ett annat svar är helt okej."
+      },
+      {
+        "q": "Är det gratis, och måste jag registrera mig?",
+        "a": "Ja, det är gratis, och det finns inget konto, ingen registrering och ingen nedladdning. Det fungerar i webbläsaren på mobil, surfplatta eller dator."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Ordletare med stor stil",
+    "seoTitle": "Ordletare med stor stil vid demens, utskrivbar",
+    "h1": "Ordletare med stor stil",
+    "description": "En gratis ordletare med stor stil för äldre och personer som lever med demens. Få ord, stora bokstäver, ord bara i sidled och nedåt. Spela online eller skriv ut.",
+    "short": "Stora bokstäver, några få ord, bara i sidled och nedåt. Skriv ut den också.",
+    "players": "1 eller 2 personer",
+    "intro": "Ett litet rutnät med stora bokstäver och bara en handfull ord, alla läses i sidled eller nedåt. Tryck på ett ords första bokstav och sedan på dess sista. Föredrar du papper? Skriv ut ett nytt pussel med ett tryck.",
+    "howTo": [
+      "Välj ett tema och en rutnätsstorlek.",
+      "Titta på ordlistan. Orden läses i sidled (från vänster till höger) eller nedåt (uppifrån och ner).",
+      "Tryck på ett ords första bokstav och sedan på dess sista.",
+      "Ett hittat ord markeras och stryks i listan.",
+      "Tryck på ”Skriv ut det här pusslet” för att spela på papper med en penna eller tuschpenna."
+    ],
+    "tips": [
+      "Peka på ett ord i listan och leta efter dess första bokstav tillsammans.",
+      "På papper är en överstrykningspenna lättare att hålla i än en blyertspenna.",
+      "Prata om temaorden. Fruktord är ett naturligt sätt in i minnen av att plocka, baka eller gå på marknad."
+    ],
+    "faq": [
+      {
+        "q": "Finns det en timer eller poäng?",
+        "a": "Nej. Det finns ingen klocka, inga poäng, ingen dragräknare och ingen förlust. Du kan sluta när som helst, och att sluta halvvägs är ett alldeles utmärkt sätt att avsluta."
+      },
+      {
+        "q": "Kan jag skriva ut ordletaren?",
+        "a": "Ja. Tryck på ”Skriv ut det här pusslet” för att skriva ut det aktuella rutnätet med stor stil, med ordlistan under. Varje nytt pussel är olika."
+      },
+      {
+        "q": "Är det gratis, och måste jag registrera mig?",
+        "a": "Ja, det är gratis, och det finns inget konto, ingen registrering och ingen nedladdning. Det fungerar i webbläsaren på mobil, surfplatta eller dator."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Målarbilder",
+    "seoTitle": "Målarbilder för vuxna med demens (gratis)",
+    "h1": "Målarbilder",
+    "description": "Enkla målarbilder för vuxna med stora ytor: tryck på en färg och sedan på bilden. Inget kladd, inga felaktiga färger, och varje bild kan skrivas ut gratis.",
+    "short": "Tryck på en färg och sedan på en del av bilden. Skriv också ut bilderna.",
+    "players": "1 eller 2 personer",
+    "intro": "Bilder med stora, enkla former: en blomma i en kruka, ett hus, en tekopp, en fjäril och en segelbåt. Tryck på en färg och sedan på en del av bilden för att fylla den. Det finns inga felaktiga färger.",
+    "howTo": [
+      "Välj en bild.",
+      "Tryck på en färg. Varje färg har sitt namn skrivet på sig.",
+      "Tryck på en del av bilden för att fylla den med den färgen.",
+      "Ångra dig när som helst genom att fylla den igen.",
+      "Tryck på ”Skriv ut den här sidan” för en tom sida att färglägga med pennor eller tuschpennor."
+    ],
+    "tips": [
+      "Erbjud två färger att välja mellan i stället för hela urvalet om det känns för mycket att välja.",
+      "Lila träd och blå solar är välkomna. Det handlar om att njuta av färg, inte om att göra rätt.",
+      "Utskrivna bilder fungerar bra med tjocka tuschpennor eller kritor, som är lättare att greppa."
+    ],
+    "faq": [
+      {
+        "q": "Finns det en timer eller poäng?",
+        "a": "Nej. Det finns ingen klocka, inga poäng, ingen dragräknare och ingen förlust. Du kan sluta när som helst, och att sluta halvvägs är ett alldeles utmärkt sätt att avsluta."
+      },
+      {
+        "q": "Är de här bilderna för barnsliga?",
+        "a": "Vi har ritat lugna, enkla föremål i stället för tecknade figurer, så bilderna passar vuxna. Stora former gör det lätt att färglägga utan att det blir barnsligt."
+      },
+      {
+        "q": "Är det gratis, och måste jag registrera mig?",
+        "a": "Ja, det är gratis, och det finns inget konto, ingen registrering och ingen nedladdning. Det fungerar i webbläsaren på mobil, surfplatta eller dator."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Samtalskort",
+    "seoTitle": "Samtalsämnen vid demens: bildkort",
+    "h1": "Samtalskort",
+    "description": "Bildkort med vänliga samtalsförslag för personer som lever med demens: inga förhör och inga rätta svar. Använd på skärmen eller skriv ut hela satsen.",
+    "short": "Bildkort med öppna, vänliga frågor. Inga förhör.",
+    "players": "2 personer eller en grupp",
+    "intro": "Varje kort parar en välbekant bild med en öppen inbjudan att prata, som ”Vilket väder tycker du bäst om?” Det finns inga rätta svar och inget att komma ihåg. Välj ett tema eller blanda alla.",
+    "howTo": [
+      "Välj ett tema, eller behåll ”Alla kort”.",
+      "Läs frågan högt och titta på bilden tillsammans.",
+      "Lyssna, dela ditt eget svar och låt samtalet vandra.",
+      "Tryck på ”Nästa kort” när du är redo, eller stanna vid ett kort så länge du vill.",
+      "Tryck på ”Skriv ut alla kort” för att klippa ut en uppsättning på papper."
+    ],
+    "tips": [
+      "Svara på frågan själv också. Då känns det som ett samtal, inte en intervju.",
+      "Följ berättelsen, inte fakta. Om detaljer ändras är det okej.",
+      "Om ett kort väcker något sorgligt, bekräfta känslan och gå försiktigt över till ett annat kort."
+    ],
+    "faq": [
+      {
+        "q": "Varför finns det inga frågor av typen ”Kommer du ihåg…?”",
+        "a": "Frågor som prövar minnet kan kännas som ett prov och göra att man skäms. Öppna inbjudningar som ”Berätta om…” låter alla vara med, oavsett vad de minns."
+      },
+      {
+        "q": "Kan jag skriva ut korten?",
+        "a": "Ja. ”Skriv ut alla kort” skriver ut hela satsen med stor stil, flera kort per sida, färdiga att klippa ut."
+      },
+      {
+        "q": "Är det gratis, och måste jag registrera mig?",
+        "a": "Ja, det är gratis, och det finns inget konto, ingen registrering och ingen nedladdning. Det fungerar i webbläsaren på mobil, surfplatta eller dator."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Fotopar",
+    "seoTitle": "Gör ett parspel av familjefoton",
+    "h1": "Fotopar: para ihop dina egna foton",
+    "description": "Gör dina egna familjefoton till ett lugnt parspel. Välj 2 till 6 foton på din enhet. De stannar i din webbläsare och laddas aldrig upp.",
+    "short": "Välj dina egna foton och para ihop dem. Inget laddas upp.",
+    "players": "2 personer, sida vid sida",
+    "intro": "Välj två till sex foton från din mobil, surfplatta eller dator, så blir de ett parspel med stora, synliga bilder. Fotona visas bara på den här sidan. De laddas inte upp, sparas eller delas, och de försvinner när du stänger sidan.",
+    "howTo": [
+      "Tryck på ”Välj foton” och välj två till sex foton.",
+      "Varje foto visas två gånger. Tryck på ett och sedan på dess par.",
+      "Prata om varje foto när ni hittar det.",
+      "När ni är klara stänger du sidan eller trycker på ”Rensa foton”. Inget sparas."
+    ],
+    "tips": [
+      "Välj tydliga foton av glada, välbekanta saker: ett husdjur, en trädgård, en favoritplats, en bröllopsdag.",
+      "Bilder av platser och föremål kan vara lättare än ansikten, och då slipper ni pressen att säga namn.",
+      "Lämna bort foton av personer som har dött om de kan väcka plötslig sorg, om du inte vet att de ger trygghet."
+    ],
+    "faq": [
+      {
+        "q": "Laddas mina foton upp någonstans?",
+        "a": "Nej. Sidan läser fotona du väljer direkt i din webbläsare och visar dem på din skärm. De skickas inte till oss eller någon annan, och de är borta när du stänger eller laddar om sidan."
+      },
+      {
+        "q": "Finns det en timer eller poäng?",
+        "a": "Nej. Det finns ingen klocka, inga poäng, ingen dragräknare och ingen förlust. Du kan sluta när som helst, och att sluta halvvägs är ett alldeles utmärkt sätt att avsluta."
+      },
+      {
+        "q": "Kan jag spara spelet till nästa gång?",
+        "a": "Inte i webbläsaren, med avsikt, så att inget privat lagras. Den kostnadsfria appen Golden Moments för iPhone och iPad kan behålla kopior av valda foton på din enhet."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bildbingo",
+    "seoTitle": "Bildbingo för äldre med demens: utskrivbart",
+    "h1": "Bildbingo för grupper",
+    "description": "Gratis utskrivbart bildbingo för demensboenden och grupper av äldre, med en stor uppläsare på skärmen. Stora bilder med ord, 9 eller 16 rutor, ingen läsning behövs.",
+    "short": "Utskrivbara bingokort med bilder och en uppläsare för storbildsskärm, för grupper.",
+    "players": "En grupp på 2 till 30",
+    "intro": "Klassiskt bingo med bilder i stället för siffror, så ingen behöver läsa liten text. Skriv ut en uppsättning unika kort och använd sedan uppläsaren på skärmen för att visa varje bild stor på en tv, bärbar dator eller surfplatta.",
+    "howTo": [
+      "Välj 9 eller 16 rutor per kort och hur många spelare.",
+      "Tryck på ”Skriv ut korten”. Varje kort är olika.",
+      "Öppna uppläsaren på en stor skärm. Tryck på ”Nästa bild” för att visa varje bild med sitt namn.",
+      "Spelarna täcker den matchande bilden på sitt kort med ett mynt, en knapp eller en markör.",
+      "Alla som fyller en rad, eller hela kortet, får en applåd. I den här versionen finns inga förlorare: fortsätt spela tills alla har en rad."
+    ],
+    "tips": [
+      "Använd stora brickor som damspelsbrickor eller kapsyler. Små knappar kan vara svåra att ta upp.",
+      "Säg namnet på bilden och något om den: ”En segelbåt. Vem har varit ute i en båt?”",
+      "Placera personer som ser dåligt närmast skärmen, och para ihop hjälpare med spelare som behöver dem.",
+      "Nio rutor är gott och väl för de flesta grupper. Håll stunden på ungefär 20 till 30 minuter."
+    ],
+    "faq": [
+      {
+        "q": "Hur genomför jag bildbingo på ett äldreboende?",
+        "a": "Skriv ut ett kort per spelare, sätt uppläsaren på den största skärmen du har och läs upp bilderna långsamt, med namnet på varje. Spela tills alla har en rad, så att ingen lämnas utanför."
+      },
+      {
+        "q": "Är det gratis att skriva ut?",
+        "a": "Ja. Skriv ut så många kort du behöver, så ofta du vill, för personligt bruk eller gruppbruk."
+      },
+      {
+        "q": "Kan man spela utan att läsa?",
+        "a": "Ja. Varje ruta är en stor bild, med namnet under för dem som gillar ord."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Lugn andning",
+    "seoTitle": "En lugn andningspaus för äldre och anhöriga",
+    "h1": "En lugn andningspaus",
+    "description": "En långsam, stilla andningspaus att dela: en mjuk cirkel växer och krymper under sex andetag. Du startar den, och du kan sluta när som helst.",
+    "short": "En långsam cirkel att andas efter. Starta och sluta när du vill.",
+    "players": "1 eller 2 personer",
+    "intro": "Ibland är den bästa aktiviteten en stilla paus. Tryck på ”Starta”, andas sedan in när cirkeln växer och ut när den krymper. Välj ett långsammare eller snabbare tempo. Det är ingen behandling, bara en fridfull stund att dela.",
+    "howTo": [
+      "Sitt bekvämt sida vid sida.",
+      "Välj ett tempo: långsamt eller lugnt.",
+      "Tryck på ”Starta”. Andas in medan cirkeln växer och ut medan den krymper.",
+      "Den stannar av sig själv efter sex andetag, eller tryck på ”Stopp” när du vill."
+    ],
+    "tips": [
+      "Håll varandra i handen eller vila en hand på personens arm, om det är välkommet.",
+      "Tvinga aldrig. Om personen hellre vill titta är det okej.",
+      "Om någon har andningsproblem, andas som vanligt och titta bara på cirkeln. Fråga en läkare om du oroar dig för andningen."
+    ],
+    "faq": [
+      {
+        "q": "Är det här en medicinsk andningsövning?",
+        "a": "Nej. Det är en enkel, frivillig paus för lugn och sällskap. Det är ingen behandling mot ångest eller något annat tillstånd. Prata med en läkare om du oroar dig för din hälsa."
+      },
+      {
+        "q": "Rör sig cirkeln utan att jag startar den?",
+        "a": "Nej. Ingenting rör sig förrän du trycker på Starta, och det stannar efter sex andetag eller när du trycker på Stopp. Om din enhet är inställd på att minska rörelser ändras orden utan att cirkeln växer."
+      },
+      {
+        "q": "Är det gratis, och måste jag registrera mig?",
+        "a": "Ja, det är gratis, och det finns inget konto, ingen registrering och ingen nedladdning. Det fungerar i webbläsaren på mobil, surfplatta eller dator."
+      }
+    ]
+  }
+}

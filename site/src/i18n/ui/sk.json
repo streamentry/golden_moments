@@ -194,7 +194,7 @@
       },
       {
         "q": "Môže tieto aktivity používať človek v neskoršom štádiu demencie?",
-        "a": "Často áno, ak je niekto pri ňom. Začnite hrou Nájdi rovnaké s dvoma obrázkami, Obrázkovými dvojicami so štyrmi dlaždicami, omaľovánkou alebo pokojnou dychovou prestávkou. Nech je to krátke, nasledujte jeho tempo a skončite, keď má dosť."
+        "a": "Často áno, ak je niekto pri ňom. Začnite hrou Nájdite rovnaké s dvoma obrázkami, Obrázkovými dvojicami so štyrmi dlaždicami, omaľovánkou alebo pokojnou dychovou prestávkou. Nech je to krátke, nasledujte jeho tempo a skončite, keď má dosť."
       },
       {
         "q": "Sú moje informácie v súkromí?",
@@ -349,7 +349,7 @@
             },
             {
               "q": "Sú aktivity aj pre skupiny v domove pre seniorov?",
-              "a": "Áno. Obrázkové bingo má kartičky na vytlačenie a obrazovkové vyťahovanie obrázkov a hry Dokonči porekadlo a Kartičky na rozhovor sa dobre čítajú nahlas. Naša príručka pre skupiny v domovoch pre seniorov rieši veľkosť skupiny, sedenie a prispôsobenie rôznym schopnostiam."
+              "a": "Áno. Obrázkové bingo má kartičky na vytlačenie a obrazovkové vyťahovanie obrázkov a hry Dokončite porekadlo a Kartičky na rozhovor sa dobre čítajú nahlas. Naša príručka pre skupiny v domovoch pre seniorov rieši veľkosť skupiny, sedenie a prispôsobenie rôznym schopnostiam."
             }
           ]
         },
@@ -443,7 +443,7 @@
     "faq": [
       {
         "q": "Ktorou hrou by sme mali začať?",
-        "a": "Pokojnou prvou voľbou sú Obrázkové dvojice so štyrmi dlaždicami. Ak sa vám zdá výber z obrázkov priveľa, skúste Nájdi rovnaké s dvoma obrázkami. Pre skupinu skúste Obrázkové bingo."
+        "a": "Pokojnou prvou voľbou sú Obrázkové dvojice so štyrmi dlaždicami. Ak sa vám zdá výber z obrázkov priveľa, skúste Nájdite rovnaké s dvoma obrázkami. Pre skupinu skúste Obrázkové bingo."
       },
       {
         "q": "Fungujú hry na iPade alebo telefóne?",
@@ -459,7 +459,7 @@
       },
       {
         "q": "Sú tu hry aj pre skupiny v domove seniorov?",
-        "a": "Áno. Obrázkové bingo má kartičky na vytlačenie a obrazovkové vyťahovanie obrázkov a hry Dokonči porekadlo a Kartičky na rozhovor sa dobre čítajú nahlas skupine."
+        "a": "Áno. Obrázkové bingo má kartičky na vytlačenie a obrazovkové vyťahovanie obrázkov a hry Dokončite porekadlo a Kartičky na rozhovor sa dobre čítajú nahlas skupine."
       }
     ]
   },

@@ -1,5 +1,4 @@
 {
-  "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
     "skipLink": "Preskoči na glavni sadržaj",
     "brandName": "Golden Moments",

@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Obrázkové dvojice",
+    "seoTitle": "Hra na hľadanie dvojíc pri demencii: Obrázkové dvojice",
+    "h1": "Obrázkové dvojice: pokojná hra na hľadanie dvojíc",
+    "description": "Bezplatná pokojná hra na hľadanie dvojíc pre ľudí žijúcich s demenciou. Veľké obrázky zostávajú viditeľné, nie je tu časovač ani body a vyberáte 4 až 12 dlaždíc.",
+    "short": "Nájdite dva rovnaké obrázky. Obrázky môžu zostať odkryté.",
+    "players": "1 alebo 2 ľudia vedľa seba",
+    "intro": "Klepnite na obrázok a potom na ten, ktorý k nemu patrí. Obrázky predvolene zostávajú viditeľné, takže si nič netreba pamätať. Keď dva obrázky patria k sebe, dostanú zlatý rámik a značku zaškrtnutia.",
+    "howTo": [
+      "Vyberte, koľko dlaždíc použijete. Štyri dlaždice sú pokojný začiatok.",
+      "Klepnite na ľubovoľný obrázok. Dostane zlatý rámik.",
+      "Klepnite na obrázok, ktorý vyzerá rovnako. Dvojica zostane spolu so značkou zaškrtnutia.",
+      "Ak sú dva obrázky rôzne, nič zlé sa nestane. Klepnite znova, keď budete pripravení.",
+      "Zapnite „Skryté obrázky“ len vtedy, ak vás obaja baví klasická verzia s obrátenými kartami."
+    ],
+    "tips": [
+      "Pomenujte obrázky spolu nahlas a porozprávajte sa o nich: „Červená šálka. Pijete čaj s mliekom?“",
+      "Nechajte človeka, o ktorého sa staráte, klepať, aj keď to chvíľu potrvá. Radšej ukážte, než aby ste klepali za neho.",
+      "Zostaňte pri štyroch dlaždiciach, kým je to príjemné. Viac dlaždíc je voľba, nikdy úroveň, ktorú treba dosiahnuť.",
+      "Skončite, kým je to ešte príjemné. Jedna hra je úplná aktivita."
+    ],
+    "faq": [
+      {
+        "q": "Je tu časovač alebo body?",
+        "a": "Nie. Nie sú tu žiadne hodiny, body, počítadlo ťahov ani prehra. Skončiť môžete kedykoľvek a skončiť v polovici je úplne v poriadku."
+      },
+      {
+        "q": "Prečo obrázky zostávajú odkryté?",
+        "a": "Keď sú obrázky viditeľné, hra je o pozeraní a hľadaní dvojíc, nie o pamätaní. Mnohým ľuďom to príde pokojnejšie. Ak chcete, jedným klepnutím môžete prepnúť na skryté obrázky."
+      },
+      {
+        "q": "Je to zadarmo a treba sa registrovať?",
+        "a": "Áno, je to zadarmo a nie je potrebný účet, registrácia ani sťahovanie. Funguje vo webovom prehliadači na telefóne, tablete alebo počítači."
+      },
+      {
+        "q": "Môžeme použiť vlastné rodinné fotografie?",
+        "a": "Áno. Vyskúšajte Fotografické dvojice, kde si vyberiete fotografie zo svojho zariadenia. Fotografie zostávajú vo vašom prehliadači a nenahrávajú sa."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Nájdite rovnaké",
+    "seoTitle": "Nájdite rovnaký obrázok: jednoduchá hra pri demencii",
+    "h1": "Nájdite rovnaký obrázok",
+    "description": "Hore jeden obrázok, dole dva až štyri. Klepnite na ten, ktorý je rovnaký. Pokojná, bezplatná obrázková hra pre ľudí žijúcich s demenciou, bez časovača.",
+    "short": "Pozrite sa na obrázok hore a klepnite na rovnaký dole.",
+    "players": "1 alebo 2 ľudia",
+    "intro": "Hore na obrazovke je jeden obrázok. Pod ním sú dva, tri alebo štyri obrázky. Klepnite na ten, ktorý je rovnaký. Vždy je to jedna jednoduchá voľba a dosť priestoru na rozhovor.",
+    "howTo": [
+      "Vyberte, z koľkých obrázkov budete vyberať: dva, tri alebo štyri. Dva sú najjednoduchšie.",
+      "Pozrite sa spolu na obrázok hore.",
+      "Klepnite na rovnaký obrázok dole. Označí sa zaškrtnutím a niekoľkými vrelými slovami.",
+      "Ak sa klepne na iný obrázok, hra ho len pomenuje a počká. Nikam sa neponáhľajte.",
+      "Keď budete pripravení na ďalší, klepnite na „Ďalší obrázok“."
+    ],
+    "tips": [
+      "Pred výberom sa o každom obrázku porozprávajte: farby, tvary, kde by ste ho mohli vidieť.",
+      "Dve možnosti nie sú „príliš ľahké“. Cieľom je príjemná chvíľa, nie výzva.",
+      "Ak je klepanie ťažké, človek môže ukázať a vy môžete klepnúť za neho."
+    ],
+    "faq": [
+      {
+        "q": "Je tu časovač alebo body?",
+        "a": "Nie. Nie sú tu žiadne hodiny, body, počítadlo ťahov ani prehra. Skončiť môžete kedykoľvek a skončiť v polovici je úplne v poriadku."
+      },
+      {
+        "q": "Čo sa stane, ak klepnete na nesprávny obrázok?",
+        "a": "Nič nepríjemné. Nie je tu bzučiak, červený krížik ani trasenie. Hra pomenuje obrázok, na ktorý ste klepli, a počká na ďalšie klepnutie."
+      },
+      {
+        "q": "Je to zadarmo a treba sa registrovať?",
+        "a": "Áno, je to zadarmo a nie je potrebný účet, registrácia ani sťahovanie. Funguje vo webovom prehliadači na telefóne, tablete alebo počítači."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Priraďte tieň",
+    "seoTitle": "Hra s tieňmi pri demencii: bezplatne online",
+    "h1": "Priraďte tieň: pokojná obrázková hra",
+    "description": "Hore tmavý tieň, dole dva až štyri obrázky. Klepnite na obrázok, ktorý tieň vytvára. Bezplatná, pokojná hra s tieňmi pri demencii, bez časovača.",
+    "short": "Pozrite sa na tieň a klepnite na obrázok, ktorý ho vytvára.",
+    "players": "1 alebo 2 ľudia",
+    "intro": "Priraďovanie tieňov je známa aktivita z tlačených pracovných listov, tu s veľkými obrázkami a bez tlače. Hore na obrazovke je jemný tieň a dole čakajú dva, tri alebo štyri obrázky. Klepnite na ten, ktorý tieň vytvára. O tvaroch ako bicykel, dáždnik či šálka sa dá dobre rozprávať.",
+    "howTo": [
+      "Vyberte, z koľkých obrázkov budete vyberať: dva, tri alebo štyri. Dva sú najjednoduchšie.",
+      "Pozrite sa spolu na tieň. Aký má tvar? Je vysoký alebo okrúhly?",
+      "Klepnite na obrázok, ktorý tieň vytvára. Pod tieňom sa objaví jeho názov.",
+      "Ak sa klepne na iný obrázok, hra ho len pomenuje a počká. Nikam sa neponáhľajte.",
+      "Keď budete pripravení na ďalší, klepnite na „Ďalší tieň“."
+    ],
+    "tips": [
+      "Prstom obkreslite obrys tieňa a porozprávajte sa o tvare.",
+      "Ak sú dnes tiene ťažké, prepnite na Nájdite rovnaké, kde obrázky vyzerajú rovnako.",
+      "Keď obrázok nájdete, porozprávajte sa o ňom: „Taký dáždnik sme mali.“"
+    ],
+    "faq": [
+      {
+        "q": "Je tu časovač alebo body?",
+        "a": "Nie. Nie sú tu žiadne hodiny, body, počítadlo ťahov ani prehra. Skončiť môžete kedykoľvek a skončiť v polovici je úplne v poriadku."
+      },
+      {
+        "q": "Je hra s tieňmi vhodná pre ľudí s demenciou?",
+        "a": "Pre niektorých ľudí to môže byť príjemná, jednoduchá aktivita, najmä v skorších štádiách. Tvary sa spoznávajú ľahšie než slová. Je na potešenie a rozhovor, nie na testovanie, a demenciu nelieči ani nespomaľuje. Ak spôsobuje frustráciu, skúste Nájdite rovnaké alebo sa len spolu pozerajte na obrázky."
+      },
+      {
+        "q": "Čo sa stane, ak klepnete na nesprávny obrázok?",
+        "a": "Nič nepríjemné. Nie je tu bzučiak, červený krížik ani trasenie. Hra pomenuje obrázok, na ktorý ste klepli, a počká na ďalšie klepnutie."
+      },
+      {
+        "q": "Je to zadarmo a treba sa registrovať?",
+        "a": "Áno, je to zadarmo a nie je potrebný účet, registrácia ani sťahovanie. Funguje vo webovom prehliadači na telefóne, tablete alebo počítači."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Triedime spolu",
+    "seoTitle": "Hra na triedenie pri demencii: Triedime spolu",
+    "h1": "Triedime spolu: obrázkové triedenie",
+    "description": "Klepnite na obrázok a potom na košík, do ktorého patrí: kuchyňa alebo záhrada, ovocie alebo zvieratá. Pokojná, bezplatná aktivita na triedenie pre ľudí žijúcich s demenciou.",
+    "short": "Dajte každý obrázok do jeho košíka: kuchyňa alebo záhrada a ďalšie.",
+    "players": "1 alebo 2 ľudia",
+    "intro": "Triedenie je známa, uspokojujúca každodenná činnosť, ako odkladanie nákupu alebo párovanie ponožiek. Klepnite na obrázok a potom na košík, do ktorého patrí. Nie je tu žiadny zhon ani zlý ťah.",
+    "howTo": [
+      "Vyberte tému: kuchyňa a záhrada, ovocie a zvieratá alebo domov a cestovanie.",
+      "Klepnite na obrázok. Dostane zlatý rámik.",
+      "Klepnite na košík, do ktorého patrí. Obrázok sa presunie do tohto košíka.",
+      "Ak patrí do druhého košíka, hra to jemne povie a počká.",
+      "Keď je každý obrázok roztriedený, prezrite si spolu košíky."
+    ],
+    "tips": [
+      "V skutočnom živote často neexistujú zlé odpovede. Ak niekto povie, že krhla patrí do kuchyne, opýtajte sa prečo. Možno budete mať pekný príbeh.",
+      "Použite obrázky ako námet: „Čo ste pestovali vo svojej záhrade?“",
+      "Triedenie skutočných predmetov, napríklad lyžíc a vidličiek alebo gombíkov podľa farby, je skvelé pokračovanie mimo obrazovky."
+    ],
+    "faq": [
+      {
+        "q": "Je tu časovač alebo body?",
+        "a": "Nie. Nie sú tu žiadne hodiny, body, počítadlo ťahov ani prehra. Skončiť môžete kedykoľvek a skončiť v polovici je úplne v poriadku."
+      },
+      {
+        "q": "Prečo triedenie?",
+        "a": "Mnohých ľudí triedenie baví, lebo pripomína užitočnú, známu prácu. Pri tom sa tiež dobre rozpráva o obrázkoch."
+      },
+      {
+        "q": "Je to zadarmo a treba sa registrovať?",
+        "a": "Áno, je to zadarmo a nie je potrebný účet, registrácia ani sťahovanie. Funguje vo webovom prehliadači na telefóne, tablete alebo počítači."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Obrázkové puzzle",
+    "seoTitle": "Ľahké puzzle pri demencii: 4 alebo 9 dielikov",
+    "h1": "Obrázkové puzzle: ľahká skladačka",
+    "description": "Ľahké online puzzle pre ľudí žijúcich s demenciou: 4 alebo 9 veľkých dielikov, celý obrázok zostáva viditeľný a dva dieliky vymeníte klepnutím.",
+    "short": "Klepnite na dva dieliky a vymeňte ich, kým nie je obrázok celý.",
+    "players": "1 alebo 2 ľudia",
+    "intro": "Priateľský obrázok je rozrezaný na štyri alebo deväť veľkých dielikov a pomiešaný. Celý obrázok zostáva viditeľný ako vodidlo. Klepnite na jeden dielik a potom na iný a vymenia si miesta. Nič netreba presúvať ťahaním.",
+    "howTo": [
+      "Vyberte obrázok a 4 alebo 9 dielikov. Štyri sú pokojný začiatok.",
+      "Pozrite sa na celý obrázok hore.",
+      "Klepnite na dielik a potom na miesto, kam patrí. Oba dieliky sa vymenia.",
+      "Dieliky na správnom mieste dostanú malú značku zaškrtnutia.",
+      "Keď je obrázok celý, potešte sa z neho spolu a potom vyberte ďalší."
+    ],
+    "tips": [
+      "Klepnúť na dva dieliky a vymeniť ich je pre mnohých ľudí oveľa jednoduchšie než ťahanie.",
+      "Rozprávajte sa o obrázku, ako sa skladá: „Tu je tá červená strecha.“",
+      "Skutočné drevené puzzle s 12 až 24 veľkými dielikmi je tiež príjemná aktivita pri stole."
+    ],
+    "faq": [
+      {
+        "q": "Je tu časovač alebo body?",
+        "a": "Nie. Nie sú tu žiadne hodiny, body, počítadlo ťahov ani prehra. Skončiť môžete kedykoľvek a skončiť v polovici je úplne v poriadku."
+      },
+      {
+        "q": "Musím dieliky ťahať?",
+        "a": "Nie. Klepnite na jeden dielik a potom na iný a vymenia si miesta. Je to jednoduchšie pri trasúcej sa ruke alebo na malej obrazovke."
+      },
+      {
+        "q": "Je to zadarmo a treba sa registrovať?",
+        "a": "Áno, je to zadarmo a nie je potrebný účet, registrácia ani sťahovanie. Funguje vo webovom prehliadači na telefóne, tablete alebo počítači."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Dokončite porekadlo",
+    "seoTitle": "Dokončite porekadlo: hra s porekadlami pre seniorov",
+    "h1": "Dokončite porekadlo",
+    "description": "Známe slovenské porekadlá s chýbajúcim posledným slovom, napríklad „Bez práce nie sú ___“. Klepnite na možnosť alebo ukážte koniec a potom sa o tom porozprávajte.",
+    "short": "Spolu dokončite známe porekadlá a potom sa o nich porozprávajte.",
+    "players": "1, 2 alebo skupina",
+    "intro": "Staré porekadlá ľudia často poznajú celý život. Každá kartička ukazuje známe porekadlo s chýbajúcim posledným slovom, tri možnosti a tlačidlo „Ukázať koniec“. Po konci pozve jemná otázka k rozhovoru.",
+    "howTo": [
+      "Prečítajte si porekadlo spolu nahlas.",
+      "Klepnite na slovo, ktoré ho dokončí, alebo na „Ukázať koniec“.",
+      "Prečítajte si celé porekadlo ešte raz a porozprávajte sa o ňom podľa námetu.",
+      "Keď budete pripravení, klepnite na „Ďalšie porekadlo“."
+    ],
+    "tips": [
+      "Čítajte pomaly a pred posledným slovom urobte pauzu. Často ho ľudia povedia skôr, než dočítate.",
+      "Ak niekto povie iný koniec, potešte sa z neho. Niektoré podoby porekadiel sa líšia podľa rodiny alebo kraja.",
+      "V skupine jeden človek číta a všetci sa pridajú na konci."
+    ],
+    "faq": [
+      {
+        "q": "Je tu časovač alebo body?",
+        "a": "Nie. Nie sú tu žiadne hodiny, body, počítadlo ťahov ani prehra. Skončiť môžete kedykoľvek a skončiť v polovici je úplne v poriadku."
+      },
+      {
+        "q": "Čo ak zvolíme iné slovo?",
+        "a": "Hra ukáže obvyklý koniec a prejde na rozhovor. Nie sú tu body a iná odpoveď je v poriadku."
+      },
+      {
+        "q": "Je to zadarmo a treba sa registrovať?",
+        "a": "Áno, je to zadarmo a nie je potrebný účet, registrácia ani sťahovanie. Funguje vo webovom prehliadači na telefóne, tablete alebo počítači."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Osemsmerovka vo veľkej tlači",
+    "seoTitle": "Osemsmerovka vo veľkej tlači pri demencii, na vytlačenie",
+    "h1": "Osemsmerovka vo veľkej tlači",
+    "description": "Bezplatná osemsmerovka vo veľkej tlači pre seniorov a ľudí žijúcich s demenciou. Málo slov, veľké písmená, slová iba vodorovne a zvisle. Hrajte online alebo si ju vytlačte.",
+    "short": "Veľké písmená, pár slov, iba vodorovne a zvisle. Dá sa aj vytlačiť.",
+    "players": "1 alebo 2 ľudia",
+    "intro": "Malá mriežka s veľkými písmenami a len pár slovami, všetky sa čítajú vodorovne alebo zvisle. Klepnite na prvé písmeno slova a potom na jeho posledné písmeno. Máte radšej papier? Vytlačte si novú hádanku jedným klepnutím.",
+    "howTo": [
+      "Vyberte tému a veľkosť mriežky.",
+      "Pozrite sa na zoznam slov. Slová sa čítajú vodorovne (zľava doprava) alebo zvisle (zhora nadol).",
+      "Klepnite na prvé písmeno slova a potom na jeho posledné písmeno.",
+      "Nájdené slovo sa zvýrazní a prečiarkne v zozname.",
+      "Klepnutím na „Vytlačiť túto hádanku“ si ju zahráte na papieri s ceruzkou alebo fixkou."
+    ],
+    "tips": [
+      "Ukážte na slovo v zozname a spolu hľadajte jeho prvé písmeno.",
+      "Na papieri sa zvýrazňovač drží ľahšie než ceruzka.",
+      "Porozprávajte sa o slovách z témy. Slová o ovocí sú prirodzenou cestou k spomienkam na oberanie, pečenie či trhy."
+    ],
+    "faq": [
+      {
+        "q": "Je tu časovač alebo body?",
+        "a": "Nie. Nie sú tu žiadne hodiny, body, počítadlo ťahov ani prehra. Skončiť môžete kedykoľvek a skončiť v polovici je úplne v poriadku."
+      },
+      {
+        "q": "Môžem osemsmerovku vytlačiť?",
+        "a": "Áno. Klepnutím na „Vytlačiť túto hádanku“ vytlačíte aktuálnu mriežku veľkým písmom so zoznamom slov pod ňou. Každá nová hádanka je iná."
+      },
+      {
+        "q": "Je to zadarmo a treba sa registrovať?",
+        "a": "Áno, je to zadarmo a nie je potrebný účet, registrácia ani sťahovanie. Funguje vo webovom prehliadači na telefóne, tablete alebo počítači."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Omaľovánky",
+    "seoTitle": "Omaľovánky pre dospelých s demenciou (zadarmo)",
+    "h1": "Omaľovánky",
+    "description": "Jednoduché omaľovánky pre dospelých s veľkými plochami: klepnite na farbu a potom na obrázok. Bez špiny, bez zlých farieb a každú stránku si môžete zadarmo vytlačiť.",
+    "short": "Klepnite na farbu a potom na časť obrázka. Stránky sa dajú aj vytlačiť.",
+    "players": "1 alebo 2 ľudia",
+    "intro": "Stránky s veľkými, jednoduchými tvarmi: kvetina v kvetináči, dom, šálka, motýľ a plachetnica. Klepnite na farbu a potom na časť obrázka, aby sa vyplnila. Nie sú tu zlé farby.",
+    "howTo": [
+      "Vyberte stránku.",
+      "Klepnite na farbu. Každá farba má napísaný svoj názov.",
+      "Klepnutím na časť obrázka ju vyplníte touto farbou.",
+      "Kedykoľvek si to môžete rozmyslieť a vyplniť ju znova.",
+      "Klepnutím na „Vytlačiť túto stránku“ získate prázdnu stránku na vyfarbovanie ceruzkami alebo fixkami."
+    ],
+    "tips": [
+      "Ak sa výber zdá priveľa, ponúknite dve farby namiesto celej sady.",
+      "Fialové stromy a modré slnká sú vítané. Ide o radosť z farieb, nie o presnosť.",
+      "Vytlačené stránky sa dobre vyfarbujú hrubými fixkami alebo pastelkami, ktoré sa ľahšie držia."
+    ],
+    "faq": [
+      {
+        "q": "Je tu časovač alebo body?",
+        "a": "Nie. Nie sú tu žiadne hodiny, body, počítadlo ťahov ani prehra. Skončiť môžete kedykoľvek a skončiť v polovici je úplne v poriadku."
+      },
+      {
+        "q": "Nie sú tieto stránky príliš detské?",
+        "a": "Nakreslili sme pokojné, jednoduché predmety, nie kreslené postavičky, takže stránky vyhovujú dospelým. Veľké tvary držia vyfarbovanie jednoduché, bez toho, aby pôsobilo detinsky."
+      },
+      {
+        "q": "Je to zadarmo a treba sa registrovať?",
+        "a": "Áno, je to zadarmo a nie je potrebný účet, registrácia ani sťahovanie. Funguje vo webovom prehliadači na telefóne, tablete alebo počítači."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Kartičky na rozhovor",
+    "seoTitle": "Námety na rozhovor pri demencii: obrázkové kartičky",
+    "h1": "Kartičky na rozhovor",
+    "description": "Obrázkové kartičky s jemnými námetmi na rozhovor pre ľudí žijúcich s demenciou: bez vypytovania, bez správnych odpovedí. Používajte ich na obrazovke alebo si vytlačte celú sadu.",
+    "short": "Obrázkové kartičky s otvorenými, jemnými otázkami. Bez vypytovania.",
+    "players": "2 ľudia alebo skupina",
+    "intro": "Každá kartička spája známy obrázok s otvorenou pozvánkou k rozhovoru, napríklad „Aké počasie máte najradšej?“ Nie sú tu správne odpovede a nič si netreba pamätať. Vyberte tému alebo ich všetky zamiešajte.",
+    "howTo": [
+      "Vyberte tému alebo nechajte „Všetky kartičky“.",
+      "Prečítajte otázku nahlas a pozrite sa spolu na obrázok.",
+      "Počúvajte, povedzte svoju odpoveď a nechajte rozhovor plynúť.",
+      "Keď budete pripravení, klepnite na „Ďalšia kartička“, alebo ostaňte pri jednej, ako dlho chcete.",
+      "Klepnutím na „Vytlačiť všetky kartičky“ si vystrihnete papierovú sadu."
+    ],
+    "tips": [
+      "Odpovedzte na otázku aj vy. Bude to pôsobiť ako rozhovor, nie výsluch.",
+      "Sledujte príbeh, nie fakty. Ak sa podrobnosti menia, je to v poriadku.",
+      "Ak kartička zasiahne niečo smutné, uznajte ten pocit a jemne prejdite na inú kartičku."
+    ],
+    "faq": [
+      {
+        "q": "Prečo tu nie sú otázky „Pamätáte si…?“",
+        "a": "Otázky, ktoré skúšajú pamäť, môžu pôsobiť ako skúška a spôsobiť rozpaky. Otvorené pozvania, ako „Povedzte mi o…“, umožnia zapojiť sa každému, nech si pamätá čokoľvek."
+      },
+      {
+        "q": "Môžem kartičky vytlačiť?",
+        "a": "Áno. „Vytlačiť všetky kartičky“ vytlačí celú sadu veľkým písmom, niekoľko kartičiek na stranu, pripravených na vystrihnutie."
+      },
+      {
+        "q": "Je to zadarmo a treba sa registrovať?",
+        "a": "Áno, je to zadarmo a nie je potrebný účet, registrácia ani sťahovanie. Funguje vo webovom prehliadači na telefóne, tablete alebo počítači."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Fotografické dvojice",
+    "seoTitle": "Hra na hľadanie dvojíc z rodinných fotografií",
+    "h1": "Fotografické dvojice: dvojice z vašich fotografií",
+    "description": "Premeňte svoje rodinné fotografie na pokojnú hru na hľadanie dvojíc. Vyberte 2 až 6 fotografií vo svojom zariadení. Zostanú vo vašom prehliadači a nikdy sa nenahrajú.",
+    "short": "Vyberte si vlastné fotografie a hľadajte dvojice. Nič sa nenahráva.",
+    "players": "2 ľudia vedľa seba",
+    "intro": "Vyberte si dve až šesť fotografií z telefónu, tabletu alebo počítača a stanú sa hrou na hľadanie dvojíc s veľkými, viditeľnými obrázkami. Fotografie sa zobrazujú iba v rámci tejto stránky. Nenahrávajú sa, neukladajú ani nezdieľajú a po zatvorení stránky zmiznú.",
+    "howTo": [
+      "Klepnite na „Vybrať fotografie“ a vyberte dve až šesť fotografií.",
+      "Každá fotografia sa zobrazí dvakrát. Klepnite na jednu a potom na jej dvojicu.",
+      "Pri každej nájdenej fotografii sa o nej porozprávajte.",
+      "Keď skončíte, zatvorte stránku alebo klepnite na „Vymazať fotografie“. Nič sa neuchová."
+    ],
+    "tips": [
+      "Vyberte jasné fotografie veselých, známych vecí: domáce zviera, záhrada, obľúbené miesto, svadobný deň.",
+      "Fotografie miest a predmetov môžu byť jednoduchšie než tváre a nenútia nikoho pomenúvať ľudí.",
+      "Fotografie ľudí, ktorí zomreli, vynechajte, ak by mohli vyvolať náhly smútok, pokiaľ neviete, že prinášajú útechu."
+    ],
+    "faq": [
+      {
+        "q": "Nahrávajú sa moje fotografie niekam?",
+        "a": "Nie. Stránka číta fotografie, ktoré vyberiete, priamo vo vašom prehliadači a zobrazuje ich na vašej obrazovke. Neposielajú sa nám ani nikomu inému a po zatvorení alebo opätovnom načítaní stránky zmiznú."
+      },
+      {
+        "q": "Je tu časovač alebo body?",
+        "a": "Nie. Nie sú tu žiadne hodiny, body, počítadlo ťahov ani prehra. Skončiť môžete kedykoľvek a skončiť v polovici je úplne v poriadku."
+      },
+      {
+        "q": "Môžem hru uložiť na nabudúce?",
+        "a": "V prehliadači nie, zámerne, aby sa neukladalo nič súkromné. Bezplatná aplikácia Golden Moments pre iPhone a iPad môže uchovávať kópie vybraných fotografií vo vašom zariadení."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Obrázkové bingo",
+    "seoTitle": "Obrázkové bingo pre seniorov s demenciou: na vytlačenie",
+    "h1": "Obrázkové bingo pre skupiny",
+    "description": "Bezplatné obrázkové bingo na vytlačenie pre skupiny seniorov a pamäťovú starostlivosť, s veľkým obrazovkovým vyťahovaním. Veľké obrázky so slovami, 9 alebo 16 políčok, bez čítania.",
+    "short": "Obrázkové bingo kartičky na vytlačenie a vyťahovanie na veľkej obrazovke pre skupiny.",
+    "players": "Skupina 2 až 30 ľudí",
+    "intro": "Klasické bingo s obrázkami namiesto čísel, takže nikto nemusí čítať drobné písmo. Vytlačte si sadu jedinečných kartičiek a potom pomocou obrazovkového vyťahovania ukážte každý obrázok veľký na televízore, notebooku alebo tablete.",
+    "howTo": [
+      "Vyberte 9 alebo 16 políčok na kartičke a počet hráčov.",
+      "Klepnite na „Vytlačiť kartičky“. Každá kartička je iná.",
+      "Otvorte vyťahovanie na veľkej obrazovke. Klepnutím na „Ďalší obrázok“ zobrazíte každý obrázok s jeho názvom.",
+      "Hráči zakryjú zodpovedajúci obrázok na svojej kartičke mincou, gombíkom alebo fixkou.",
+      "Každý, kto zaplní riadok alebo celú kartičku, dostane potlesk. V tejto verzii nie sú porazení: hrajte, kým nemá každý riadok."
+    ],
+    "tips": [
+      "Používajte veľké žetóny, napríklad dámové kamene alebo uzávery fliaš. Malé gombíky sa môžu ťažko zdvíhať.",
+      "Pomenujte obrázok a povedzte k nemu niečo: „Plachetnica. Kto sa plavil na lodi?“",
+      "Ľudí, ktorí zle vidia, posaďte najbližšie k obrazovke a pomocníkov k hráčom, ktorí ich potrebujú.",
+      "Deväť políčok stačí pre väčšinu skupín. Stretnutie nech trvá okolo 20 až 30 minút."
+    ],
+    "faq": [
+      {
+        "q": "Ako viesť obrázkové bingo v domove seniorov?",
+        "a": "Vytlačte jednu kartičku pre každého hráča, dajte vyťahovanie na najväčšiu obrazovku, ktorú máte, a vyťahujte obrázky pomaly a každý pomenujte. Hrajte, kým nemá každý riadok, aby nikto nezostal bokom."
+      },
+      {
+        "q": "Je tlač zadarmo?",
+        "a": "Áno. Vytlačte si toľko kartičiek, koľko potrebujete, ako často chcete, na osobné alebo skupinové použitie."
+      },
+      {
+        "q": "Dá sa hrať bez čítania?",
+        "a": "Áno. Každé políčko je veľký obrázok, s názvom pod ním pre tých, ktorí majú radi slová."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Pokojné dýchanie",
+    "seoTitle": "Pokojná dychová prestávka pre seniorov a opatrovateľov",
+    "h1": "Pokojná dychová prestávka",
+    "description": "Pomalá, tichá dychová prestávka na spoločné zdieľanie: jemný kruh sa šesťkrát zväčší a zmenší. Spustíte ju vy a môžete ju kedykoľvek zastaviť.",
+    "short": "Pomalý kruh, s ktorým sa dá dýchať. Spustite a zastavte, keď chcete.",
+    "players": "1 alebo 2 ľudia",
+    "intro": "Niekedy je najlepšou aktivitou tichá prestávka. Klepnite na „Začať“ a potom sa nadýchnite, keď sa kruh zväčšuje, a vydýchnite, keď sa zmenšuje. Zvoľte pomalšie alebo rýchlejšie tempo. Nie je to liečba, len pokojná chvíľa na zdieľanie.",
+    "howTo": [
+      "Sadnite si pohodlne vedľa seba.",
+      "Vyberte tempo: pomalé alebo jemné.",
+      "Klepnite na „Začať“. Nadýchnite sa, kým sa kruh zväčšuje, a vydýchnite, kým sa zmenšuje.",
+      "Po šiestich nádychoch sa zastaví sama, alebo kedykoľvek klepnite na „Zastaviť“."
+    ],
+    "tips": [
+      "Držte sa za ruky alebo položte ruku na rameno človeka, ak je to vítané.",
+      "Nikdy netrvajte na tom. Ak sa radšej pozerá, je to v poriadku.",
+      "Ak má niekto problémy s dýchaním, nech dýcha normálne a len sleduje kruh. O akýchkoľvek ťažkostiach s dýchaním sa poraďte s lekárom."
+    ],
+    "faq": [
+      {
+        "q": "Je to lekárske dychové cvičenie?",
+        "a": "Nie. Je to jednoduchá, voliteľná prestávka na pokoj a spoločnosť. Nie je to liečba úzkosti ani žiadneho ochorenia. So zdravotnými obavami sa obráťte na lekára."
+      },
+      {
+        "q": "Hýbe sa kruh bez toho, aby som ho spustil?",
+        "a": "Nie. Nič sa nehýbe, kým neklepnete na Začať, a zastaví sa po šiestich nádychoch alebo keď klepnete na Zastaviť. Ak má vaše zariadenie nastavené obmedzenie pohybu, slová sa menia bez zväčšovania kruhu."
+      },
+      {
+        "q": "Je to zadarmo a treba sa registrovať?",
+        "a": "Áno, je to zadarmo a nie je potrebný účet, registrácia ani sťahovanie. Funguje vo webovom prehliadači na telefóne, tablete alebo počítači."
+      }
+    ]
+  }
+}

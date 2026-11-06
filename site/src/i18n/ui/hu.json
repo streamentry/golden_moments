@@ -194,7 +194,7 @@
       },
       {
         "q": "Használhatják ezeket a tevékenységeket a demencia későbbi szakaszában lévők?",
-        "a": "Gyakran igen, ha valaki mellettük van. Kezdjék a Keresd az egyformát játékkal két képpel, a Képpárok játékkal négy kártyával, egy színezővel vagy egy nyugodt légzőszünettel. Legyen rövid, kövesse a másik ember jelzéseit, és hagyják abba, ha elég volt."
+        "a": "Gyakran igen, ha valaki mellettük van. Kezdjék a Keresse az egyformát játékkal két képpel, a Képpárok játékkal négy kártyával, egy színezővel vagy egy nyugodt légzőszünettel. Legyen rövid, kövesse a másik ember jelzéseit, és hagyják abba, ha elég volt."
       },
       {
         "q": "Privát az adataim?",
@@ -349,7 +349,7 @@
             },
             {
               "q": "Vannak tevékenységek csoportoknak egy gondozóotthonban?",
-              "a": "Igen. A Képes bingóhoz nyomtatható kártyák és képernyős számhúzó tartozik, a Fejezd be a mondást és a Beszélgetőkártyák pedig jól működnek hangosan felolvasva. A gondozóotthoni csoportokról szóló útmutatónk a csoportméretről, az ülésrendről és a vegyes képességekhez igazításról szól."
+              "a": "Igen. A Képes bingóhoz nyomtatható kártyák és képernyős számhúzó tartozik, a Fejezze be a mondást és a Beszélgetőkártyák pedig jól működnek hangosan felolvasva. A gondozóotthoni csoportokról szóló útmutatónk a csoportméretről, az ülésrendről és a vegyes képességekhez igazításról szól."
             }
           ]
         },
@@ -443,7 +443,7 @@
     "faq": [
       {
         "q": "Melyik játékkal kezdjük?",
-        "a": "A négy kártyás Képpárok nyugodt első választás. Ha a képek közti választás is soknak tűnik, próbálják a Keresd az egyformát játékot két képpel. Csoportnak próbálják a Képes bingót."
+        "a": "A négy kártyás Képpárok nyugodt első választás. Ha a képek közti választás is soknak tűnik, próbálják a Keresse az egyformát játékot két képpel. Csoportnak próbálják a Képes bingót."
       },
       {
         "q": "Működnek a játékok iPaden vagy telefonon?",
@@ -459,7 +459,7 @@
       },
       {
         "q": "Vannak játékok csoportoknak egy gondozóotthonban?",
-        "a": "Igen. A Képes bingóhoz nyomtatható kártyák és képernyős számhúzó tartozik, a Fejezd be a mondást és a Beszélgetőkártyák pedig jól működnek hangosan felolvasva egy csoportnak."
+        "a": "Igen. A Képes bingóhoz nyomtatható kártyák és képernyős számhúzó tartozik, a Fejezze be a mondást és a Beszélgetőkártyák pedig jól működnek hangosan felolvasva egy csoportnak."
       }
     ]
   },
