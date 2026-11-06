@@ -18,7 +18,7 @@ Scores are 0 to 10 per criterion, weights equal, total out of 100.
 6. **Website guides.** Share of all site languages that have all 40 English guides, English counting as one. Languages without a guide folder count as zero, so the denominator is all 65 site languages. Currently 51 of 65, so 7.8.
 7. **Privacy.** 10 if no analytics, advertising, crash or cloud SDK appears in `pubspec.yaml`, otherwise 0.
 8. **Price.** 10 if no in-app purchase or subscription SDK appears in `pubspec.yaml`, otherwise 0.
-9. **Design consistency (ceiling 7).** Share of `DESIGN.md` colour tokens that have a matching Dart constant, times 7. This checks consistency, not taste: taste has no repository measure.
+9. **Design consistency (ceiling 7).** Share of `DESIGN.md` color tokens that have a matching Dart constant, times 7. This checks consistency, not taste: taste has no repository measure.
 10. **Evidence of effect (capped at 0 until a result file exists).** 0 if no usability or pilot results file exists under `docs/`, 5 if one exists. The 5 is the ceiling until measured use from real people is recorded, and a result file must still be reviewed by a person before the score is trusted.
 
 ## Current score
