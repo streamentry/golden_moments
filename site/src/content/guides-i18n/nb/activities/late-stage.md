@@ -7,7 +7,7 @@ order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  I sen fase av demens handler aktivitetene om sansene og om din selskap:
+  I sen fase av demens handler aktivitetene om sansene og om ditt selskap:
   favorittmusikk, å holde hender, en langsom håndmassasje, høyt lesing, å se på
   bilder, naturlyder, og å sitte ved et vindu eller ute. Dette fungerer i seng
   eller stol. Hold øktene korte, se på ansiktet og hendene for å avgjøre hva som

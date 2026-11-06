@@ -9,8 +9,8 @@ translatedFrom: 2026-10-25
 summary: >-
   A música é uma das atividades mais fáceis de partilhar com alguém que vive com
   demência. Crie uma lista pessoal com a música da juventude, da fé e da família,
-  toque-a sem anúncios nem ruído de fundo, e cante, bata palmas, baloiçe ou
-  simplesmente oiçam em conjunto. Escolha música calma ou animada conforme o
+  toque-a sem anúncios nem ruído de fundo, e cante, bata palmas, baloice ou
+  simplesmente ouça em conjunto. Escolha música calma ou animada conforme o
   momento, mantenha o volume suave e pare se alguma canção a perturbar.
 keyPoints:
   - "A música pessoal funciona melhor: os estilos que adorava na juventude, e a música da fé, da cultura e dos acontecimentos familiares."
@@ -26,7 +26,7 @@ faq:
   - q: "A música pode ajudar com a inquietação ou a perturbação?"
     a: "Música calma e familiar pode ajudar a criar um ambiente tranquilo, e a Alzheimer's Association sugere usar a música para criar a atmosfera que deseja. Nem sempre funciona. Se a pessoa estiver perturbada, verifique também se tem dor, fome, barulho ou cansaço."
   - q: "As pessoas em fase avançada da demência ainda conseguem apreciar música?"
-    a: "Muitas conseguem. A Alzheimer's Association refere que uma pessoa na fase avançada pode ainda bater o ritmo ou cantar uma canção da infância. Sente-se perto, toque a música baixinho e dê-lhe a mão ou baloiçem juntos."
+    a: "Muitas conseguem. A Alzheimer's Association refere que uma pessoa na fase avançada pode ainda bater o ritmo ou cantar uma canção da infância. Sente-se perto, toque a música baixinho e dê-lhe a mão ou baloice com ela."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -79,7 +79,7 @@ Se não souber por onde começar, experimente uns minutos de cada um destes e ob
 1. **Ouvir juntos.** Sente-se ao lado dela, sem mais nada a acontecer. Ouvir é uma atividade completa.
 2. **Cantar juntos.** Cante você primeiro. Cantarolar ou mexer os lábios com as palavras também conta.
 3. **Bata palmas ou o ritmo.** Dê palmadinhas nos joelhos, toque na mesa ou use um pequeno tambor de mão ou um chocalho.
-4. **Dança lenta.** Dê as mãos e baloiçem na cozinha, ou dancem sentados, mexendo os braços em conjunto.
+4. **Dança lenta.** Dê as mãos e baloice na cozinha, ou dance sentado, mexendo os braços em conjunto.
 5. **Dança com lenços.** Agite lenços leves ao ritmo da música, de pé ou sentado.
 6. **Fale da música.** Convide, não teste: «Isto soa a salão de dança. Fale-me das danças.» Nunca pergunte «Lembra-se desta canção?».
 7. **Toque um álbum inteiro.** Ponha um disco de que gostava, do início ao fim, com um café.
