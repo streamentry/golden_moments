@@ -1,7 +1,7 @@
 ---
 title: "Aktiviteter for menn med demens"
 seoTitle: "Aktiviteter for menn med demens: ideer fra virkeligheten"
-description: "Aktivitetsideer for menn som lever med demens, bygd på tidligere arbeid, hobbyer og rutiner i stedet for stereotypier, med tips om å tilpasse hver enn trygt."
+description: "Aktivitetsideer for menn som lever med demens, bygd på tidligere arbeid, hobbyer og rutiner i stedet for stereotypier, med tips om å tilpasse hver en trygt."
 section: activities
 order: 11
 updated: 2026-10-25
@@ -26,7 +26,7 @@ faq:
   - q: "Er det trygt å la ham bruke verktøy?"
     a: "Bare med oppsyn og trygt verktøy. Fjern elektriske verktøy, blader og alt skarpt, og tilby oppgaver som å pusse en trekloss, sortere rene beslag, eller stramme store bolter for hånd. Alzheimer’s Association foreslår å fjerne farlige gjenstander fra et verksted, slik at en oppgave som sliping fortsatt kan nytes trygt."
   - q: "Han var profesjonell. Vil enkle oppgaver føles fornærmende?"
-    a: "Det kan de gjøre hvis de presenteres som oppfyll-tid. Legg oppgaven fram som ekte hjelp, bruk voksne materialer, og velg noe nær hans gamle rolle, for eksempel å gå gjennom en liste, ordne en mappe eller hjelpe til med å sette sammen en utsending. Hvis han var svært dyktig på noe, kan en beslektet, men annerledes aktivitet føles mindre som en sammenligning."
+    a: "Det kan de gjøre hvis de presenteres som tidsfordriv. Legg oppgaven fram som ekte hjelp, bruk voksne materialer, og velg noe nær hans gamle rolle, for eksempel å gå gjennom en liste, ordne en mappe eller hjelpe til med å sette sammen en utsending. Hvis han var svært dyktig på noe, kan en beslektet, men annerledes aktivitet føles mindre som en sammenligning."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -107,7 +107,7 @@ Andre tips:
 
 Etter hvert som demensen utvikler seg, foreslår Alzheimer’s Association å introdusere enklere, mer repetitive oppgaver og være forberedt på at personen tar en mindre aktiv rolle. En mann som engang bygde om motorer, liker kanskje nå å holde en ren skiftenøkkel og snakke om biler, eller å se på at du jobber. Å se på er også å delta.
 
-Hvis han var svært dyktig på noe, kan en beslektet aktivitet føles bedre enn hans gamle håndverk. Foreningen påpeker at en profesjonell kunstner kan bli frustrert over endringer i arbeidet sitt, mens en amatør kan like en ny utløp. Det samme gjelder en mester-snekker.
+Hvis han var svært dyktig på noe, kan en beslektet aktivitet føles bedre enn hans gamle håndverk. Foreningen påpeker at en profesjonell kunstner kan bli frustrert over endringer i arbeidet sitt, mens en amatør kan like en ny måte å uttrykke seg på. Det samme gjelder en mesterlig snekker.
 
 ## Sikkerhet med arbeidsrelaterte oppgaver
 
