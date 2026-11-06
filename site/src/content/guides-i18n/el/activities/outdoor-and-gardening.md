@@ -119,7 +119,7 @@ health: false
 
 ## Πώς διαχειρίζομαι την περιπλάνηση όταν βγαίνουμε έξω;
 
-Μείνετε με το άτομο όποτε βρίσκεται σε εξωτερικό χώρο. Η Alzheimer's Association λέει ότι [έξι στους δέκα ανθρώπους που ζουν με άνοια](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) θα περιπλανηθούν τουλάχιστον μία φορά, και πολλοί το κάνουν περισσότερες από μία φορά. Μπορεί να συμβεί σε οποιοδήποτε στάδιο.
+Μείνετε με το άτομο όποτε βρίσκεται σε εξωτερικό χώρο. Η Alzheimer's Association λέει ότι [έξι στους 10 ανθρώπους που ζουν με άνοια](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) θα περιπλανηθούν τουλάχιστον μία φορά, και πολλοί το κάνουν περισσότερες από μία φορά. Μπορεί να συμβεί σε οποιοδήποτε στάδιο.
 
 Οι [συμβουλές του NIA για περιπλάνηση και απώλεια προσανατολισμού](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) περιλαμβάνουν:
 

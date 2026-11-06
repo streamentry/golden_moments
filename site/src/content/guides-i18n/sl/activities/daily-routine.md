@@ -16,7 +16,7 @@ keyPoints:
   - "Stalni časi za vstajanje, obroke, nego in spanje dajo dnevu znano obliko."
   - "Glavno dejavnost postavite v čas dneva, ko je oseba najbolj v formi, pogosto zjutraj."
   - "Ne zapolnite vsake minute. Počitek in tih čas sta del rutine."
-  - "Dnevna svetloba, vsakodnevno gibanje ter izogibanje dolgim poznim dremežem in pozni kofein lahko pomagajo pri nemiru pozno popoldne."
+  - "Dnevna svetloba, vsakodnevno gibanje in izogibanje dolgim dremežem ter kofeinu pozno popoldne lahko pomagajo pri nemiru pozno popoldne."
   - "Rutina je vodilo, ne pravilo. Na težjih dnevih kaj zamenjajte, skrajšajte ali izpustite."
 faq:
   - q: "Zakaj je rutina koristna za osebo z demenco?"
@@ -26,7 +26,7 @@ faq:
   - q: "Naj oseba z demenco podnevi spi?"
     a: "Kratek počitek lahko pomaga, zlasti po kosilu. Nacionalni inštitut za staranje predlaga, naj se odsvetujejo dolgi dremeži in zaspanje pozno popoldne, saj lahko utrujenost ali slab počitek prispevata k nemiru pozno popoldne. Če je spanje resna težava, se posvetujte z njihovim zdravnikom."
   - q: "Kaj, če nočejo slediti rutini?"
-    a: "Za zdaj popustite in poskusite znova pozneje ali na drug način. Zavračanje lahko pomeni, da so utrujeni, nezdravi, bolečini ali preprosto še niso pripravljeni. Rutina obstaja zato, da je dan lažji, zato jo raje upognite, kot da jo silite."
+    a: "Za zdaj popustite in poskusite znova pozneje ali na drug način. Zavračanje lahko pomeni, da so utrujeni, bolni, v bolečinah ali preprosto še niso pripravljeni. Rutina obstaja zato, da je dan lažji, zato jo raje upognite, kot da jo silite."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -115,6 +115,6 @@ Obroke, počitek in čas za spanje ohranjajte stalne, dejavnosti med njimi pa me
 
 ## Ko dan ne poteka po načrtu
 
-Nekateri dnevi ne bodo sledili nobenemu načrtu. Bolezen, slaba noč, obisk zdravnika ali sprememba vremena lahko vse zmotijo. Opustite načrt, ohranite osnove (hrano, pijačo, počitek, udobje) in poskusite jutri znova. Če oseba zavrne nekaj, glejte [ko reče ne](/caregiving/when-they-say-no/). Skupno počasno dihalno premor, na primer [mirno dihanje](/games/calm-breathing/), lahko pomaga obema, da se umirita.
+Nekateri dnevi ne bodo sledili nobenemu načrtu. Bolezen, slaba noč, obisk zdravnika ali sprememba vremena lahko vse zmotijo. Opustite načrt, ohranite osnove (hrano, pijačo, počitek, udobje) in poskusite jutri znova. Če oseba zavrne nekaj, glejte [ko reče ne](/caregiving/when-they-say-no/). Skupen počasen trenutek dihanja, na primer [mirno dihanje](/games/calm-breathing/), lahko pomaga obema, da se umirita.
 
-Tudi vaša rutina je pomembna. Vključite odmore zase in prosite družino ali službo za oddih, da za redni čas prostega krije. Glejte [skrb zase kot skrbnik](/caregiving/caregiver-self-care/).
+Tudi vaša rutina je pomembna. Vključite odmore zase in prosite družino ali službo za oddih, da prevzame varstvo ob rednih prostih urah. Glejte [skrb zase kot skrbnik](/caregiving/caregiver-self-care/).

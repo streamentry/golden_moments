@@ -117,4 +117,4 @@ Jedlá, odpočinok a večerný spánok držte stále a medzi nimi striedajte akt
 
 Niektoré dni sa nebudú riadiť žiadnym plánom. Choroba, zlá noc, návšteva lekára alebo zmena počasia môžu všetko prevrátiť. Plán odložte, zachovajte základy (jedlo, pitie, odpočinok, pohodu) a skúste to zajtra znova. Ak človek niečo odmieta, pozrite si [keď povie nie](/caregiving/when-they-say-no/). Spoločné pomalé dýchanie, ako [pokojné dýchanie](/games/calm-breathing/), môže pomôcť obom sa znova upokojiť.
 
-Záleží aj na vašom vlastnom režime. Dopraujte si prestávky a požiadajte rodinu alebo službu odľahčenia, aby pravidelne zabezpečila váš voľný čas. Pozrite si [starostlivosť o seba pre opatrovateľa](/caregiving/caregiver-self-care/).
+Záleží aj na vašom vlastnom režime. Dopriajte si prestávky a požiadajte rodinu alebo službu odľahčenia, aby pravidelne zabezpečila váš voľný čas. Pozrite si [starostlivosť o seba pre opatrovateľa](/caregiving/caregiver-self-care/).

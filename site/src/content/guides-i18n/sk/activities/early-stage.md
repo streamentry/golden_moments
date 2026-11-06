@@ -97,7 +97,7 @@ Hry tu slúžia na potešenie. Žiadna hra sa nepreukázala ako liečba alebo sp
 
 - **Krátke kultúrne výlety.** Múzeum, popoludňajšie predstavenie alebo výstava umenia, ideálne v tichšom čase.
 - **Plávanie.** NIA odporúča bazén v pomalšom čase dňa.
-- **Skupiny chôdze a tanečné kurzy.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) spomína tanec, tai či džin, jogu, plávanie a skupiny chôdze, ako aj sedenia prispôsobené demencii, kde sú dostupné.
+- **Skupiny chôdze a tanečné kurzy.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) spomína tanec, tai či, jogu, plávanie a skupiny chôdze, ako aj sedenia prispôsobené demencii, kde sú dostupné.
 - **Speváckne skupiny a pamäťové kaviarne.** Uvoľnené skupiny, kde sa ľudia žijúci s demenciou a ich partneri môžu stretnúť s inými v podobnej situácii.
 
 ## Malé zmeny, vďaka ktorým aktivity ostanú príjemné

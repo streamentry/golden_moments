@@ -15,7 +15,7 @@ summary: >-
   je najpomembneje, da dovolj jedo in pijejo.
 keyPoints:
   - "Nekatere, ne pa vse študije, ki spremljajo ljudi skozi čas, povezujejo mediteranske in MIND vzorce prehranjevanja z manjšim tveganjem za demenco."
-  - "V preskušanju iz leta 2023 s 604 odraslimi so ljudje na dieti MIND po treh letih dosegli boljše rezultate pri testih razmišljanja ali možganskih slikah kot ljudje na kontrolni dieti le v majhni meri, ne pa pomembno."
+  - "V preskušanju iz leta 2023 s 604 odraslimi ljudje na dieti MIND po treh letih niso dosegli boljših rezultatov pri testih razmišljanja ali možganskih slikah kot ljudje na kontrolni dieti."
   - "Nacionalni inštitut za staranje pravi, da ni dokazov, da lahko uživanje ali izogibanje določeni hrani preprečuje Alzheimerjevo bolezen, in da ni dokazano, da bi kateri koli vitamin ali dodatek to preprečeval."
   - "Prehrana, bogata z zelenjavo, sadjem, fižolom, polnozrnatimi žiti in ribami, podpira zdravje srca in lahko pomaga pri tveganjih, kot sta visok krvni tlak in sladkorna bolezen."
   - "Za osebe, ki živijo z demenco, so pogosto pomembnejši prstna hrana, kontrastni krožniki, mirni obroki in redno pitje kot katera koli posebna dieta."
