@@ -149,7 +149,7 @@ Lav en simpel reserveplan nu. NIA foreslår, at du med familie eller nære venne
 
 Tal med din læge, hvis stresstegnene er regelmæssige, hvis du føler dig deprimeret, eller hvis du har svært ved at klare det. Fortæl din læge, at du er pårørende. NIA oplyser, at rådgivere og socialrådgivere kan hjælpe med svære følelser og planlægning, og at Medicare, Medicaid og nogle private forsikringer kan dække nogle af udgifterne til psykisk behandling.
 
-Hvis du føler dig i krise eller har tanker om at skade dig selv, så ring eller skriv til 988 for at nå [988 Suicide & Crisis Lifeline](https://988lifeline.org/), der er gratis og tilgængelig døgnet rundt. Hvis nogen er i umiddelbar fare, så ring til 112.
+Hvis du føler dig i krise eller har tanker om at skade dig selv, så ring eller skriv til 988 for at nå [988 Suicide & Crisis Lifeline](https://988lifeline.org/), der er gratis og tilgængelig 24/7. Hvis nogen er i umiddelbar fare, så ring til 112.
 
 ## Kan fælles aktiviteter give mig en pause også?
 

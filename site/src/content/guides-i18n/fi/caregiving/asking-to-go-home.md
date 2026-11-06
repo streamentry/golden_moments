@@ -102,7 +102,7 @@ Lämmin sävy ja käsi käsivarrella, jos hän pitää kosketuksesta, voivat san
 
 - **Väittelyä tai selittämistä.** ”Asutte nyt täällä” tai ”Tämä on ollut kotinne 40 vuotta” pyytää hyväksymään asian,
   jonka dementia tekee vaikeaksi hyväksyä, ja se voi tuntua siltä, että hänelle sanotaan, että hän on väärässä.
-- **Kyselyä.** ”Etkö muista?” tai ”Mikä on osoite?” lisää painetta.
+- **Kyselyä.** ”Ettekö muista?” tai ”Mikä on osoite?” lisää painetta.
 - **Ovella vihaisena seisomista.** Jos hän lähtee liikkeelle, pysykää rauhallisena ja kävelkää hänen kanssaan. Yhdessä
   kävely auttaa usein rauhoittamaan halun lähteä.
 - **Kiirehtimistä.** Antakaa hänelle aikaa puhua kodista ennen kuin vaihdatte aihetta.

@@ -16,7 +16,7 @@ keyPoints:
   - "Valmistelkaa ensin: hiljainen huone, hyvä valo, silmälasit ja kuulokojeet päällä, televisio pois ja yksi peli valmiina."
   - "Älkää korjatko vaarattomia virheitä. Sanokaa ”Kokeillaan tätä tapaa” tai jatkakaa vain."
   - "Helpottakaa peliä ennen kuin turhautuminen kasvaa: vähemmän kuvia, vähemmän valintoja, kuvat pidetään näkyvillä."
-  - "Käyttäkää kuvia keskustelun lähtökohtana kysymyksellä ”Kerro minulle…” kysymyksen ”Muistatko…?” sijaan."
+  - "Käyttäkää kuvia keskustelun lähtökohtana kysymyksellä ”Kertokaa minulle…” kysymyksen ”Muistatteko…?” sijaan."
   - "Lopettakaa heti, kun näette väsymystä tai mielipahaa. Aikaisin lopettaminen on onnistuminen, ei epäonnistuminen."
 faq:
   - q: "Kuinka kauan meidän pitäisi pelata yhtä peliä?"
@@ -86,8 +86,8 @@ Muutama minuutti valmistelua estää suurimman osan turhautumisesta, jonka ihmis
 Tehkää kutsusta rento ja helppo kieltää. Muutamat lauseet toimivat yleensä hyvin:
 
 - ”Löysin puutarhakuvia. Katsotaanko niitä yhdessä?”
-- ”Voisitko auttaa minua tässä palapelissä? Olen jumissa.”
-- ”Haluatko tänään kukkia vai lintuja?” (kahden vaihtoehdon valinta on helpompi kuin avoin kysymys)
+- ”Voisitteko auttaa minua tässä palapelissä? Olen jumissa.”
+- ”Haluatteko tänään kukkia vai lintuja?” (kahden vaihtoehdon valinta on helpompi kuin avoin kysymys)
 - ”Teen korttia sisarellesi. Minkä värinen tämän pitäisi olla?”
 
 Alzheimer-yhdistyksen mukaan toiminnan tarkoituksen selittäminen, kuten kortin tekeminen ystävälle, antaa sille merkityksen. Myös apua pyytäminen toimii,
@@ -113,9 +113,9 @@ Ei. Lempeä korjaaminen yhä uudelleen kertoo ihmiselle, että hän epäonnistuu
 | --- | --- |
 | ”Ei, tuo on väärin.” | ”Kokeillaan tätä tapaa.” (NIA:n antama esimerkki) |
 | ”Nuo eivät ole pari. Katso uudelleen.” | Älkää sanoko mitään ja ottakaa seuraava vuoro, tai ”Voi, nuo ovat molemmat punaisia.” |
-| ”Muistatko, kuka tämä on?” | ”Kerro minulle tästä kuvasta.” |
-| ”Teit tuon jo.” | ”Hyvä. Tehdään se uudestaan.” |
-| ”Tule nyt, tiedät tämän.” | ”Haluatko, että näytän lopun?” |
+| ”Muistatteko, kuka tämä on?” | ”Kertokaa minulle tästä kuvasta.” |
+| ”Teitte tuon jo.” | ”Hyvä. Tehdään se uudestaan.” |
+| ”Tulkaa nyt, tiedätte tämän.” | ”Haluatteko, että näytän lopun?” |
 
 Jos virhe selvästi turhauttaa häntä, auttakaa hiljaa. Osoittakaa oikeaa kuvaa, ottakaa itse vuoro tai helpottakaa peliä seuraavalla kierroksella. Jos sanonta
 saa hauskan väärän lopun, nauraa mukana. Heidän lopputeksti voi olla parempi.
@@ -144,7 +144,7 @@ Merkit, että peli on liian vaikea: pitkät tauot, jotka näyttävät huolestune
 
 Käyttäkää jokaista kuvaa kutsuna puhua, ja pitäkää kaikkea, mitä hän sanoo, hyvänä vastauksena. Monille perheille tämä on pelaamisen paras osa.
 
-- **Kysykää avoimia kysymyksiä, joihin ei ole väärää vastausta.** ”Mitä huomaat?” ”Mikä niistä pidät eniten?” ”Kerro jostakin tämän kaltaisesta keittiöstä.”
+- **Kysykää avoimia kysymyksiä, joihin ei ole väärää vastausta.** ”Mitä huomaatte?” ”Mikä niistä on teidän mielestänne paras?” ”Kertokaa jostakin tämän kaltaisesta keittiöstä.”
 - **Kertokaa ensin itse.** ”Isoäidilläni oli tämän kaltainen koira.” Oma tarinanne helpottaa sitä, että hänkin kertoo omansa.
 - **Seuratkaa sivupolkua.** Jos auton kuva johtaa tarinaan matkasta, tarina on toiminta. Jättäkää peli tauolle.
 - **Älkää tarkistako tosiasioita.** Muistelussa miellyttävä keskustelu on tärkeämpi kuin tarkat yksityiskohdat. Jos tarina muuttuu edellisestä kerrasta, nauttikaa uudesta versiosta.

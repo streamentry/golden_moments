@@ -9,13 +9,13 @@ translatedFrom: 2026-10-31
 summary: >-
   Toistuvat kysymykset ovat dementiassa yleisiä: ihminen ei yleensä muista kysyneensä, ja kysymys
   kantaa usein huolta. Vastatkaa rauhallisesti ja lyhyesti ikään kuin ensimmäistä kertaa, vastatkaa
-  kysymyksen takana olevaan tunteeseen, äläkä koskaan sano ”kysyit jo”. Kirjoittakaa vastaus paikkaan,
+  kysymyksen takana olevaan tunteeseen, äläkä koskaan sano ”kysyitte jo”. Kirjoittakaa vastaus paikkaan,
   jonka hän näkee, maininnat tapahtumista vain vähän ennen niitä ja tarjoakaa mukavaa toimintaa.
   Äkillinen muutos vaatii lääkärin.
 keyPoints:
   - "Ihminen ei yleensä muista kysyneensä. Se ei ole tarkoituksellista."
   - "Kysymys piilottaa usein tunteen, kuten huolen tapaamisesta tai halun tuntea olonsa turvalliseksi."
-  - "Vastatkaa rauhallisesti, lyhyesti ja ystävällisesti ikään kuin ensimmäistä kertaa. Älkää koskaan sanoko ”kysyit jo”."
+  - "Vastatkaa rauhallisesti, lyhyesti ja ystävällisesti ikään kuin ensimmäistä kertaa. Älkää koskaan sanoko ”kysyitte jo”."
   - "Näkyvillä oleva muistilappu, valkotaulu, kello tai kalenteri voi vastata kysymykseen teidän puolestanne."
   - "Maininnat stressaavista tapahtumista vain vähän ennen niitä."
   - "Pitäkää lyhyt tauko, kun tarvitsette, ja soittakaa lääkärille kaikista äkillisistä muutoksista."
@@ -82,7 +82,7 @@ Vastatkaa rauhallisesti ja lyhyesti, ikään kuin ensimmäistä kertaa.
 
 ## Mitä kannattaa välttää?
 
-- **”Kysyit jo sen.”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) neuvoo olemaan huomauttamatta, että hän juuri kysyi. Se ei auta häntä muistamaan, ja se voi tuntua nuhteelta.
+- **”Kysyitte jo sen.”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) neuvoo olemaan huomauttamatta, että hän juuri kysyi. Se ei auta häntä muistamaan, ja se voi tuntua nuhteelta.
 - **Pitkiä selityksiä.** Enemmän sanoja tarkoittaa enemmän unohdettavaa.
 - **Huokailu, silmien pyörittely tai terävä sävy.** [Yhdysvaltain National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and)
   neuvoo olemaan kärsivällinen eikä näyttämään turhautumista. Se on vaikeaa; katso alla oleva osio tauoista.
@@ -100,7 +100,7 @@ Niin kauan kuin ihminen pystyy vielä lukemaan, hänelle näkyvä kirjallinen va
 | Tuttuja valokuvia | Kuva tulevasta vierailijasta voi vastata kysymykseen ”Kuka tulee käymään?” |
 
 Nämä ideat tulevat [Alzheimer-yhdistykseltä](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ja [Alzheimer's Los Angelesilta](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf).
-Osoittakaa muistilappua lempeästi (”Katsotaan yhdessä tauluakin”) sen sijaan, että sanoisitte ”Kirjoitin sen sinulle ylös”.
+Osoittakaa muistilappua lempeästi (”Katsotaan yhdessä tauluakin”) sen sijaan, että sanoisitte ”Kirjoitin sen teille ylös”.
 
 ## Kertokaa tapahtumista lähellä ajankohtaa
 

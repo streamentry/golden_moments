@@ -21,7 +21,7 @@ keyPoints:
   - "Kun sanat katoavat, viestikää kosketuksen, äänensävyn, ilmeiden ja yhteisten kuvien avulla."
 faq:
   - q: "Mitä dementiaa sairastavalle ei pitäisi sanoa?"
-    a: "Vältäkää kyselyä (”Muistatko…?”), korjaamista (”Tuo on väärin”), menetysten muistuttamista (”Kerroin jo”) ja puhumista hänestä ikään kuin hän ei olisi paikalla. Vältäkää myös lapsenomaista puhetta. Nämä yleensä aiheuttavat häpeää tai ahdistusta ilman hyötyä."
+    a: "Vältäkää kyselyä (”Muistatteko…?”), korjaamista (”Tuo on väärin”), menetysten muistuttamista (”Kerroin jo”) ja puhumista hänestä ikään kuin hän ei olisi paikalla. Vältäkää myös lapsenomaista puhetta. Nämä yleensä aiheuttavat häpeää tai ahdistusta ilman hyötyä."
   - q: "Pitäisikö minun korjata häntä, kun hän sekoittaa tosiasioita?"
     a: "Yleensä ei. Jos väärä tieto on vaaratonta, antakaa sen olla. Väittely harvoin muuttaa ihmisen mielipidettä, ja se usein suututtaa. Keskittykää siihen, miltä hänestä tuntuu ja mitä hän tarvitsee juuri nyt."
   - q: "Mitä teen, kun hän ei löydä sanaa?"
@@ -84,11 +84,11 @@ NIA ehdottaa yksinkertaisempia versioita tavallisista kysymyksistä. Tässä esi
 
 | Sen sijaan, että sanotte | Kokeilkaa |
 | --- | --- |
-| ”Mitä haluaisit päivälliseksi?” | ”Haluatko kalaa vai kanaa?” |
-| ”Miltä sinusta tuntuu?” | ”Oletko väsynyt?” |
-| ”Oletko nälkäinen?” | ”Päivällinen on valmis viiden minuutin kuluttua.” |
+| ”Mitä haluaisit päivälliseksi?” | ”Haluatteko kalaa vai kanaa?” |
+| ”Miltä teistä tuntuu?” | ”Oletteko väsynyt?” |
+| ”Oletteko nälkäinen?” | ”Päivällinen on valmis viiden minuutin kuluttua.” |
 | ”Ei se mene noin.” | ”Kokeillaan tätä tapaa.” |
-| ”Muistatko matkamme järvelle?” | ”Ajattelin matkaamme järvelle. Kerro, mistä pidit siinä.” |
+| ”Muistatteko matkamme järvelle?” | ”Ajattelin matkaamme järvelle. Kertokaa, mistä pidititte siinä.” |
 | ”Kerroin jo.” | Vastatkaa uudelleen ystävällisesti, ikään kuin kysymys olisi ensimmäinen kerta. |
 
 ## Miten kuuntelen hyvin?
@@ -108,7 +108,7 @@ Kuunnelkaa merkitystä ja tunnetta, ei pelkkiä sanoja.
 Family Caregiver Alliance ehdottaa, että tunnustatte tunteen ennen ohjaamista toisaalle. Esimerkiksi jos äitinne vaatii, että hänen pitää hakea lapset koulusta:
 
 - Älkää sanoko: ”Äiti, lapsesi ovat aikuisia. Se oli neljäkymmentä vuotta sitten.”
-- Sanokaa mieluummin: ”Olitte aina niin huolehtiva äiti. Kerro, millaista oli hakea heitä. Juodaanko ensin välipala?”
+- Sanokaa mieluummin: ”Olitte aina niin huolehtiva äiti. Kertokaa, millaista oli hakea heitä. Juodaanko ensin välipala?”
 
 Alzheimer-yhdistys neuvoo myös olemaan väittelemättä lausunnoista, joiden kanssa olette eri mieltä. Valitkaa hetkenne: jos väärä käsitys on vaaraton, antakaa sen olla.
 

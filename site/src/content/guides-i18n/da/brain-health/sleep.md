@@ -89,7 +89,7 @@ Disse fund forklarer, hvorfor forskere er interesserede i søvn. De viser ikke, 
 - **Begræns koffein sent på dagen.** Kaffe, te, sodavand og chokolade kan holde dig vågen.
 - **Undgå alkohol,** også små mængder, råder NIA til.
 - **Undgå store måltider inden for to til tre timer før sengetid,** og store drikke sent på dagen.
-- **Motionér regelmæssigt, men ikke inden for tre timer før sengetid.** Se vores [motionsvejledning](/brain-health/exercise/).
+- **Motionér regelmæssigt, men ikke inden for 3 timer før sengetid.** Se vores [motionsvejledning](/brain-health/exercise/).
 - **Hold skærme ude af soveværelset.** NIA foreslår, at man ikke ser tv eller bruger computer, telefon eller tablet der.
 - **Undgå dupper sent på eftermiddagen eller om aftenen,** hvis du kan.
 

@@ -75,8 +75,8 @@ Hyväksykää ei rauhallisesti ja muuttakaa sitten jotakin: aikaa, toimintaa, va
 1. **Antakaa asian olla nyt.** ”Ei se haittaa. Ehkä myöhemmin.” Siirtykää sitten johonkin muuhun ilman huokausta.
 2. **Yrittäkää myöhemmin uudelleen.** Alzheimer-yhdistys suosittelee yrittämään uudelleen myöhemmin tai eri aikaan päivästä.
 3. **Tehkää siitä pienempi.** Yksi pari koko pelin sijaan. Yksi pyyhe pyykkikorin sijaan. Vähemmän kuvia, vähemmän valintoja, kuvat näkyvillä.
-4. **Tarjotkaa kaksi vaihtoehtoa.** ”Haluatko katsoa lintukuvia vai kuunnella musiikkia?” Valinta antaa takaisin tunteen hallinnasta.
-5. **Pyytäkää apua suorituksen sijaan.** ”Voisitko auttaa minua lajittelemaan nämä?” tai ”Voitko kertoa, mikä väri näyttää parhaalta?” Tarpeelliseksi tuleminen tuntuu aivan erilaiselta kuin testatuksi tuleminen.
+4. **Tarjotkaa kaksi vaihtoehtoa.** ”Haluatteko katsoa lintukuvia vai kuunnella musiikkia?” Valinta antaa takaisin tunteen hallinnasta.
+5. **Pyytäkää apua suorituksen sijaan.** ”Voisitteko auttaa minua lajittelemaan nämä?” tai ”Voitteko kertoa, mikä väri näyttää parhaalta?” Tarpeelliseksi tuleminen tuntuu aivan erilaiselta kuin testatuksi tuleminen.
 6. **Aloittakaa itse.** Aloittakaa toiminta heidän vierellään kysymättä. Monet liittyvät mukaan, kun jokin on jo käynnissä, ja jos eivät liity, olette silti viettäneet aikaa yhdessä.
 7. **Vaihtakaa fyysiseen tai rauhoittavaan toimintaan.** Lyhyt kävely, musiikki, välipala, pyykin taittaminen tai yhteinen [rauhallinen hengitystauko](/games/calm-breathing/).
    NIA ehdottaa huomion ohjaamista musiikkiin, kirjaan tai kävelyyn.
@@ -98,8 +98,8 @@ Lopettakaa sen jälkeen toiminta ilman, että siitä tehdään suuri juttu. Oppa
 
 Jotkin luonnolliset reaktiot pahentavat tilannetta.
 
-- **Väittely tai vaatiminen.** ”Tule nyt, vielä yksi” tai ”Tämä on sinun lempiasiasi” auttavat harvoin.
-- **Kysely tai korjaaminen.** ”Tiedät, mikä tämä on” tai ”Ei, tuo on väärin” lisää painetta.
+- **Väittely tai vaatiminen.** ”Tulkaa nyt, vielä yksi” tai ”Tämä on teidän lempiasianne” auttavat harvoin.
+- **Kysely tai korjaaminen.** ”Tiedätte, mikä tämä on” tai ”Ei, tuo on väärin” lisää painetta.
 - **Asian ottaminen henkilökohtaisesti.** NIA muistuttaa omaishoitajia, että sairaus, ei ihminen, aiheuttaa nämä muutokset.
 - **Ahdistaminen tai kiirehtiminen.** Alzheimer-yhdistys neuvoo olemaan korottamatta ääntä, näyttämättä hälytystä, ahdistamatta, ahtautamatta, rajoittamatta, arvostelematta, sivuuttamatta tai väittelemättä ihmisen kanssa, ja välttämään äkkiliikkeitä hänen näkökenttänsä ulkopuolella.
 - **Syyllisyyden käyttäminen.** ”Järjestin kaiken tätä varten” saa teidät molemmat tuntemaan olonsa entistä huonommaksi.

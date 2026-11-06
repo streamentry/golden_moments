@@ -136,7 +136,7 @@ lisää, että Alzheimerin tautia sairastavien on tärkeä olla aktiivisia ja te
 Ideoita, jotka toimivat hyvin:
 
 1. **Katsokaa kuvia yhdessä.** [Keskustelukortit](/games/conversation-cards/) tarjoavat avoimia, ei-tenttimäisiä
-   kysymyksiä, kuten ”Kerro minulle…”. Katso [muisteluopas](/activities/reminiscence/).
+   kysymyksiä, kuten ”Kertokaa minulle…”. Katso [muisteluopas](/activities/reminiscence/).
 2. **Pelatkaa rinnakkain.** [Kuvaparit](/games/picture-pairs/) pitää kuvat näkyvissä eikä siinä ole ajastinta
    eikä pisteitä, joten paineita ei synny. Oppaamme [näin pelaatte yhdessä](/caregiving/how-to-play-together/)
    sisältää vinkkejä.
