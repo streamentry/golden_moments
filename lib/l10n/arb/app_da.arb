@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Ryd denne historik?",
   "wellbeingProgressClearBody": "De dage, der er vist her, fjernes fra denne telefon. Dine billeder og andre aktiviteter ændres ikke.",
   "wellbeingProgressCleared": "Historik ryddet.",
-  "wellbeingProgressUnreadable": "Den gemte historik kan ikke læses, så der vises intet. Intet blev ændret."
+  "wellbeingProgressUnreadable": "Den gemte historik kan ikke læses, så der vises intet. Intet blev ændret.",
+  "languageTitle": "Sprog",
+  "languageIntro": "Appen starter på denne enheds sprog. Vælg et andet sprog her, så husker appen det, indtil du vælger igen.",
+  "languageDevice": "Brug denne enheds sprog"
 }

@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Bu tarixçə silinsin?",
   "wellbeingProgressClearBody": "Burada göstərilən günlər bu telefondan silinir. Şəkilləriniz və digər fəaliyyətlər dəyişmir.",
   "wellbeingProgressCleared": "Tarixçə silindi.",
-  "wellbeingProgressUnreadable": "Saxlanmış tarixçə oxuna bilmir, ona görə heç nə göstərilmir. Heç nə dəyişdirilmədi."
+  "wellbeingProgressUnreadable": "Saxlanmış tarixçə oxuna bilmir, ona görə heç nə göstərilmir. Heç nə dəyişdirilmədi.",
+  "languageTitle": "Dil",
+  "languageIntro": "Tətbiq bu cihazın dilində açılır. Burada başqa dil seçin, siz yenidən seçənə qədər tətbiq onu saxlayacaq.",
+  "languageDevice": "Bu cihazın dilindən istifadə edin"
 }

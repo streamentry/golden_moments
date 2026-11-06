@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Vol esborrar aquest historial?",
   "wellbeingProgressClearBody": "Els dies que es mostren aquí s’eliminen d’aquest telèfon. Les seves imatges i les altres activitats no canvien.",
   "wellbeingProgressCleared": "Historial esborrat.",
-  "wellbeingProgressUnreadable": "L’historial desat no es pot llegir, per això no es mostra res. No s’ha canviat res."
+  "wellbeingProgressUnreadable": "L’historial desat no es pot llegir, per això no es mostra res. No s’ha canviat res.",
+  "languageTitle": "Idioma",
+  "languageIntro": "L’aplicació s’inicia en l’idioma d’aquest dispositiu. Triï aquí un altre idioma i l’aplicació el conservarà fins que en triï un altre.",
+  "languageDevice": "Usar l’idioma d’aquest dispositiu"
 }

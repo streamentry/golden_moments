@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "مسح هذا السجل؟",
   "wellbeingProgressClearBody": "تُزال الأيام المعروضة هنا من هذا الهاتف. صورك وأنشطتك الأخرى لا تتغير.",
   "wellbeingProgressCleared": "تم مسح السجل.",
-  "wellbeingProgressUnreadable": "تعذّرت قراءة السجل المحفوظ، لذا لا يظهر شيء. لم يتغيّر شيء."
+  "wellbeingProgressUnreadable": "تعذّرت قراءة السجل المحفوظ، لذا لا يظهر شيء. لم يتغيّر شيء.",
+  "languageTitle": "اللغة",
+  "languageIntro": "يبدأ التطبيق بلغة هذا الجهاز. اختر لغة أخرى هنا، وسيحتفظ التطبيق بها إلى أن تختار مرة أخرى.",
+  "languageDevice": "استخدام لغة هذا الجهاز"
 }

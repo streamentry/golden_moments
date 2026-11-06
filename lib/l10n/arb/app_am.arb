@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "ይህ ታሪክ ይጽዳ?",
   "wellbeingProgressClearBody": "እዚህ የተዘረዘሩት ቀናት ከዚህ ስልክ ይወገዳሉ። ሥዕሎችዎና ሌሎች እንቅስቃሴዎች አይለወጡም።",
   "wellbeingProgressCleared": "ታሪኩ ጸድቷል።",
-  "wellbeingProgressUnreadable": "የተቀመጠው ታሪክ ሊነበብ ስለማይችል ምንም አይታይም። ምንም አልተለወጠም።"
+  "wellbeingProgressUnreadable": "የተቀመጠው ታሪክ ሊነበብ ስለማይችል ምንም አይታይም። ምንም አልተለወጠም።",
+  "languageTitle": "ቋንቋ",
+  "languageIntro": "መተግበሪያው የሚጀምረው በዚህ መሣሪያ ቋንቋ ነው። ሌላ ቋንቋ እዚህ ይምረጡ፤ እንደገና እስኪመርጡ ድረስ መተግበሪያው ያቆየዋል።",
+  "languageDevice": "የዚህን መሣሪያ ቋንቋ ይጠቀሙ"
 }
