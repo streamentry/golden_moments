@@ -205,10 +205,10 @@ void main() {
 
     test('an unoffered language falls through, then to English', () {
       expect(
-        pick([const Locale('ca'), const Locale('es')]),
+        pick([const Locale('ga'), const Locale('es')]),
         const Locale('es'),
       );
-      expect(pick([const Locale('sv')]), const Locale('en'));
+      expect(pick([const Locale('eo')]), const Locale('en'));
       expect(pick([]), const Locale('en'));
     });
   });
