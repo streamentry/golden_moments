@@ -1,37 +1,38 @@
-# Scoring rubric: how close Golden Moments is to the best choice
+# Scoring rubric: repository scoring, no human check
 
-Status: self-assessment, 2026-11-06, after PR #145 merged (`0b38405`). Replace these scores with user-test results as they arrive.
+Status: version 2, 2026-11-06. Replaces the earlier self-assessment (71 of 100). Scored by `scripts/score_rubric.py`, which reads only files in the repository. No person, device, store or user data is used. Run it with `python3 scripts/score_rubric.py`.
 
-"#1 choice" cannot be measured from inside the repo. It depends on real people choosing the app and on store results. So this rubric scores the parts we can check: product, content, language, site and evidence. Each criterion is scored 0 to 10. A score needs evidence in the repo or a stated test. Where the evidence is missing, the score is capped.
+## What this rubric measures, and what it does not
 
-## The ten criteria
+It measures what the repository shows about each criterion. It does not measure whether the app is the best, whether people choose it, or whether it helps anyone. Two criteria have a ceiling because the repository cannot show their quality (translation quality, and visual taste). Criterion 10 is capped at 0 until a measured study exists in the repository. A high score here is not a claim of being "#1".
 
-| # | Criterion | Score now | Evidence | What raises it |
-| - | --- | --- | --- | --- |
-| 1 | No prevention or treatment claims | 8 | Help and home pages say the app does not diagnose, treat, prevent or measure dementia. Healthy habits says "linked with" and that nothing is proven to prevent dementia. Tests ban claim wording (`habits_page_test`, `arb_files_test`). | A native-speaker review of the health wording in every language. |
-| 2 | Gentle, no-pressure play | 8 | No clock, score, streak or countdown in play screens. Tests check forbidden words (`wellbeing_pages_test`, `picture_puzzle_test`). | A device run to confirm nothing reads as pressure. |
-| 3 | Accessible for older eyes and hands | 6 | Text floor 16 and 200% text tested. Tap targets 48 and up. High-contrast option in the comfort settings. No device or VoiceOver run. | VoiceOver and TalkBack runs, and a 200% check on a real device. |
-| 4 | Content breadth for the shared activity | 5 | Eight picture packs, six starter pictures, the matching game, look-together, word search, puzzle, conversation cards, bingo, coloring, sorting, and the wellbeing features. Competitors claim "thousands" (Memory Lane Games, vendor claim). | More packs, and family-photo features beyond look-together. The photo-frame gap is still open. |
-| 5 | Languages in the app | 7 | 64 language codes in the app, with translated text for all. Quality is machine-made and unreviewed. Competitors list 11 to 22 languages, so this is ahead on count. | Native review of each language, starting with the weakest. |
-| 6 | The website | 7 | About 3,400 pages built, sitemaps for all 65 languages, 651 site tests, 0 `check-site` errors. Guides: 40 in English, and 13 newer languages still fall back to English. | Translate the 40 guides for the 13 newer languages. |
-| 7 | Privacy and trust | 9 | No account, no ads, no analytics in the app, works offline. Store copy says so. Competitor complaints about ads, subscriptions and online dependence do not apply. | Keep it that way; check any new feature against this. |
-| 8 | Price and cost | 8 | Free, no subscription, no in-app purchase in the app. | None required; this is a fixed product choice. |
-| 9 | Good taste and clear UX | 6 | Design system with tokens, one main action per screen, tests for layout. Judgement of taste has no test. | Usability sessions with caregivers and with adults in their 40s and 50s. |
-| 10 | Evidence that it helps people | 2 | No usability study, no install data, no retention data. Category-level studies show low quality across dementia apps, and nothing shows Golden Moments is better. | A small, consented pilot with measured use, as the repo's validation plan describes. |
+Scores are 0 to 10 per criterion, weights equal, total out of 100.
 
-**Total: 71 of 100** (self-assessed).
+## The ten criteria and their formulas
 
-## Rules for changing a score
+1. **No prevention or treatment claims.** Scans the app's own UI copy (all ARB files) and the site UI dictionaries for a claim pattern ("prevents/cures/reverses/slows/lowers your risk ... dementia"). A match counts only if it asserts something: questions, sentences with a negation ("no game has been proven to..."), and text introduced by "claims that" are skipped. Score = 10 minus 2 per remaining match. Guide articles are not scored: they quote research, which a pattern cannot tell from a claim.
+2. **Gentle play.** English UI copy must not contain a score, streak, countdown, timer, points, a move counter, seconds, "hurry", "timed" or "faster" (negated sentences are skipped). Score = 10 minus 1 per match. The verb "move" is not a move counter and is not counted.
+3. **Accessibility (presence of checks).** Six checks, equal weight: a 200%-text test, a tap-target minimum, a semantics-label test, the high-contrast setting, its contrast test, and a hidden-tile test. This checks that the tests exist, not that they pass. Score = 10 times the share present.
+4. **Content breadth.** Picture packs in `assets/data/packs_index.json`. Score = min(10, 10 times packs / 12). Currently 8 packs, so 6.7.
+5. **Languages (ceiling 8).** Share of app languages whose ARB file has every English key, times 8. The ceiling is because translation quality is not measured.
+6. **Website guides.** Share of all site languages that have all 40 English guides, English counting as one. Languages without a guide folder count as zero, so the denominator is all 65 site languages. Currently 51 of 65, so 7.8.
+7. **Privacy.** 10 if no analytics, advertising, crash or cloud SDK appears in `pubspec.yaml`, otherwise 0.
+8. **Price.** 10 if no in-app purchase or subscription SDK appears in `pubspec.yaml`, otherwise 0.
+9. **Design consistency (ceiling 7).** Share of `DESIGN.md` colour tokens that have a matching Dart constant, times 7. This checks consistency, not taste: taste has no repository measure.
+10. **Evidence of effect (capped at 0 until a result file exists).** 0 if no usability or pilot results file exists under `docs/`, 5 if one exists. The 5 is the ceiling until measured use from real people is recorded, and a result file must still be reviewed by a person before the score is trusted.
 
-- A score rises only when a test, a file or a measured result shows it. Opinion does not raise a score.
-- Criterion 10 cannot go above 5 until there is measured use from real people.
-- Criteria 1, 2 and 7 are protected: no change may lower them, and any claim needs the same review as the rest of the copy.
-- No score is a claim that the app is the best. This rubric is a way to see the gaps, not a ranking.
+## Current score
 
-## Next steps, in order of value per effort
+**79.5 of 100** on 2026-11-06. Criteria 1, 2, 3, 7 and 8 are at 10. Criterion 4 is 6.7 (8 packs). Criterion 5 is 8 (ceiling). Criterion 6 is 7.8 (guides for 13 newer languages and Mongolian are missing). Criterion 9 is 7 (ceiling). Criterion 10 is 0 (no measured study).
 
-1. Native review of the new health wording in the languages flagged by the translators (criteria 1 and 5).
-2. A device run and a VoiceOver or TalkBack pass on the new screens (criteria 2 and 3).
-3. Translate the 40 guides for the 13 newer languages (criterion 6).
-4. Usability sessions with caregivers and with 40 to 60 year olds, using the validation protocol in `docs/specs/senior-first/validation.md` (criteria 9 and 10).
-5. Decide on the photo-frame gap with the maintainer (criterion 4).
+## Corrections made while building the scorer
+
+- The first claim scan counted FAQ questions and a list of prohibited claims as assertions. Both are now skipped, and the claim scope excludes guide articles.
+- The first pressure scan counted the verb "move". It now counts only move-counter wording.
+- The first guide-coverage denominator left out languages with no guide folder. It now uses all 65 site languages.
+
+These are scorer corrections, made because the first version measured the wrong thing. They were not made to raise the total.
+
+## Reaching 90
+
+The total would reach 90 only if criteria 4, 6, 9 and 10 rose substantially. Criterion 10 requires a measured study, criterion 9 needs a visual or usability check that the repository cannot do, and criterion 4 needs new content with clear picture rights. None of these is a code change, so a 90 from this scorer would need that work first.
