@@ -119,7 +119,7 @@ El fred també importa. A l’hivern, mantingui el temps a fora curt i asseguri�
 
 ## Com gestiono les sortides sense rumb quan sortim?
 
-Quedi’s amb la persona sempre que sigui a fora. L’Alzheimer’s Association diu que [6 de cada 10 persones que viuen amb demència](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) caminaran sense rumb almenys una vegada, i moltes ho fan més d’una. Pot passar en qualsevol fase.
+Quedi’s amb la persona sempre que sigui a fora. L’Alzheimer’s Association diu que [sis de cada 10 persones que viuen amb demència](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) caminaran sense rumb almenys una vegada, i moltes ho fan més d’una. Pot passar en qualsevol fase.
 
 Els [consells del NIA sobre caminar sense rumb i perdre’s](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) inclouen:
 

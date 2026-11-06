@@ -10,7 +10,7 @@ summary: >-
   Les bones activitats de grup en unitats de memòria i centres de dia són curtes,
   familiars i fàcils de seguir a qualsevol nivell: bingo d’imatges, cantades,
   cercles de reminiscència, moviment senzill i jocs de paraules compartits. Faci
-  grups petits quan pugui, seti la gent perquè tothom hi vegi i senti bé, doni un
+  grups petits quan pugui, assegui la gent perquè tothom hi vegi i senti bé, doni un
   pas clar cada vegada, i prepari un paper més fàcil i una sortida tranquil·la
   per a qui ho necessiti.
 keyPoints:

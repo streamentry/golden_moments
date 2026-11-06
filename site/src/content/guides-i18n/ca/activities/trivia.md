@@ -73,7 +73,7 @@ La resposta és en **negreta**. Adapti aquestes preguntes a la persona: algú qu
 | Quin cantant tenia el sobrenom d’Ol’ Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Quina cançó de Sinatra li agrada més? |
 | Bing Crosby somiava amb un «white...» | **Nadal**, casament, casa | Canti’n una línia plegats |
 | Louis Armstrong cantava «What a Wonderful...» | Dia, **Món**, Vida | Què fa que el món li sembli meravellós? |
-| «Over the Rainbow» la va cantar Judy Garland en quina pel·lícula? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | On veia les seves pel·lícules preferides? |
+| «Over the Rainbow» la va cantar Judy Garland en quina pel·lícula? | **The Wizard of Oz**, Gone with the Wind, Singin’ in the Rain | On veia les seves pel·lícules preferides? |
 | Qui feia de Lucy a «I Love Lucy»? | **Lucille Ball**, Doris Day, Betty White | Quins programes veien junts en família? |
 | Quin vaquer muntava un cavall anomenat Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Jugava a vaquers de petit? |
 | Qui va presentar «The Tonight Show» durant 30 anys? | Ed Sullivan, **Johnny Carson**, Bob Hope | Es quedava despert fins tard per veure la televisió? |
