@@ -75,7 +75,8 @@
       "id": "app-icons",
       "paths": [
         "assets/icons/app_icon.png",
-        "assets/icons/app_icon_padded.png"
+        "assets/icons/app_icon_padded.png",
+        "assets/icons/app_icon_bk.png"
       ],
       "rights_status": "unreviewed",
       "missing": [
@@ -105,6 +106,7 @@
       "id": "native-icon-and-splash-art",
       "paths": [
         "ios/Runner/Assets.xcassets/AppIcon.appiconset/",
+        "ios/Runner/Assets.xcassets/LaunchImage.imageset/",
         "android/app/src/main/res/",
         "android/app/src/main/ic_launcher-playstore.png",
         "android/app/src/development/",
