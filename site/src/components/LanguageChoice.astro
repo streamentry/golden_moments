@@ -1,0 +1,22 @@
+<script>
+  // Remembers the reader's language choice and, on the English home page only,
+  // starts a first visit in a language the reader's browser asks for.
+  // The logic lives in src/lib/language-choice.ts and is tested there.
+  import { choiceCookie, matchPreferred, readCookie, type Offer } from '../lib/language-choice';
+
+  const body = document.body;
+  const offers = JSON.parse(body.dataset.offers ?? '[]') as Offer[];
+
+  if (body.dataset.detect === 'true' && readCookie(document.cookie) === null) {
+    const preferred = navigator.languages?.length ? [...navigator.languages] : [navigator.language];
+    const match = matchPreferred(preferred, offers);
+    // replace(), not assign(): Back does not return to English and redirect again.
+    if (match) location.replace(`/${match.prefix}/`);
+  }
+
+  for (const link of document.querySelectorAll<HTMLAnchorElement>('.lang-menu a[hreflang]')) {
+    link.addEventListener('click', () => {
+      document.cookie = choiceCookie(link.getAttribute('hreflang') ?? 'en');
+    });
+  }
+</script>

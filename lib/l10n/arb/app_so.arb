@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Taariikhdan ma tirtirtaa?",
   "wellbeingProgressClearBody": "Maalmaha halkan ku qoran waxaa laga saarayaa taleefankan. Sawirradaada iyo waxqabadyada kale lama beddelayo.",
   "wellbeingProgressCleared": "Taariikhda waa la tirtiray.",
-  "wellbeingProgressUnreadable": "Taariikhda la kaydiyay lama akhrin karo, sidaas darteed waxba lama muujinayo. Wax isbeddel ah lama sameynin."
+  "wellbeingProgressUnreadable": "Taariikhda la kaydiyay lama akhrin karo, sidaas darteed waxba lama muujinayo. Wax isbeddel ah lama sameynin.",
+  "languageTitle": "Luqad",
+  "languageIntro": "Appku wuxuu ku bilaabmaa luqadda qalabkan. Halkan ka dooro luqad kale, appkuna wuu hayn doonaa ilaa aad mar kale doorato.",
+  "languageDevice": "Isticmaal luqadda qalabkan"
 }

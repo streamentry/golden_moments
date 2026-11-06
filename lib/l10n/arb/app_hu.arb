@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Törli ezeket az előzményeket?",
   "wellbeingProgressClearBody": "Az itt felsorolt napok törlődnek a telefonról. A képek és a többi tevékenység nem változik.",
   "wellbeingProgressCleared": "Az előzmények törölve.",
-  "wellbeingProgressUnreadable": "A mentett előzmények nem olvashatók, ezért semmi sem látható. Semmi sem változott."
+  "wellbeingProgressUnreadable": "A mentett előzmények nem olvashatók, ezért semmi sem látható. Semmi sem változott.",
+  "languageTitle": "Nyelv",
+  "languageIntro": "Az alkalmazás az eszköz nyelvén indul. Válasszon itt másik nyelvet, és az alkalmazás megtartja, amíg újra nem választ.",
+  "languageDevice": "Az eszköz nyelvének használata"
 }

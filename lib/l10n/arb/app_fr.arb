@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Effacer cet historique ?",
   "wellbeingProgressClearBody": "Les jours listés ici sont supprimés de ce téléphone. Vos images et autres activités ne changent pas.",
   "wellbeingProgressCleared": "Historique effacé.",
-  "wellbeingProgressUnreadable": "L’historique enregistré est illisible, donc rien n’est affiché. Rien n’a été modifié."
+  "wellbeingProgressUnreadable": "L’historique enregistré est illisible, donc rien n’est affiché. Rien n’a été modifié.",
+  "languageTitle": "Langue",
+  "languageIntro": "L’application démarre dans la langue de cet appareil. Choisissez ici une autre langue, et l’application la garde jusqu’à ce que vous choisissiez à nouveau.",
+  "languageDevice": "Utiliser la langue de cet appareil"
 }

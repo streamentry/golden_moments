@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Bu tarix tozalansinmi?",
   "wellbeingProgressClearBody": "Bu yerda koʻrsatilgan kunlar shu telefondan olib tashlanadi. Rasmlaringiz va boshqa mashgʻulotlar oʻzgarmaydi.",
   "wellbeingProgressCleared": "Tarix tozalandi.",
-  "wellbeingProgressUnreadable": "Saqlangan tarixni oʻqib boʻlmaydi, shuning uchun hech narsa koʻrsatilmayapti. Hech narsa oʻzgarmadi."
+  "wellbeingProgressUnreadable": "Saqlangan tarixni oʻqib boʻlmaydi, shuning uchun hech narsa koʻrsatilmayapti. Hech narsa oʻzgarmadi.",
+  "languageTitle": "Til",
+  "languageIntro": "Ilova shu qurilmaning tilida ochiladi. Bu yerda boshqa tilni tanlang, siz yana tanlamaguningizcha ilova uni eslab qoladi.",
+  "languageDevice": "Shu qurilmaning tilidan foydalanish"
 }

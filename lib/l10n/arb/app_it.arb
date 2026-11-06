@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Cancellare questa cronologia?",
   "wellbeingProgressClearBody": "I giorni elencati qui vengono rimossi da questo telefono. Le tue immagini e le altre attività non cambiano.",
   "wellbeingProgressCleared": "Cronologia cancellata.",
-  "wellbeingProgressUnreadable": "La cronologia salvata non si può leggere, quindi non viene mostrato nulla. Non è stato cambiato nulla."
+  "wellbeingProgressUnreadable": "La cronologia salvata non si può leggere, quindi non viene mostrato nulla. Non è stato cambiato nulla.",
+  "languageTitle": "Lingua",
+  "languageIntro": "L'app parte nella lingua di questo dispositivo. Scegli qui un'altra lingua e l'app la mantiene finché non scegli di nuovo.",
+  "languageDevice": "Usa la lingua di questo dispositivo"
 }

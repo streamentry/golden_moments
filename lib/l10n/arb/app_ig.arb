@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Hichapụ akụkọ a?",
   "wellbeingProgressClearBody": "A ga-ewepụ ụbọchị ndị edepụtara ebe a na ekwentị a. Foto gị na ihe ndị ọzọ ị na-eme agaghị agbanwe.",
   "wellbeingProgressCleared": "Ehichapụla akụkọ.",
-  "wellbeingProgressUnreadable": "Enweghị ike ịgụ akụkọ echekwara, ya mere egosighị ihe ọ bụla. Agbanweghị ihe ọ bụla."
+  "wellbeingProgressUnreadable": "Enweghị ike ịgụ akụkọ echekwara, ya mere egosighị ihe ọ bụla. Agbanweghị ihe ọ bụla.",
+  "languageTitle": "Asụsụ",
+  "languageIntro": "Ngwa a na-amalite n'asụsụ ngwaọrụ a. Họrọ asụsụ ọzọ ebe a, ngwa a ga-edebe ya ruo mgbe ị ga-ahọrọ ọzọ.",
+  "languageDevice": "Jiri asụsụ ngwaọrụ a"
 }

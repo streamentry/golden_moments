@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Bu geçmiş temizlensin mi?",
   "wellbeingProgressClearBody": "Burada listelenen günler bu telefondan kaldırılır. Resimleriniz ve diğer etkinlikler değişmez.",
   "wellbeingProgressCleared": "Geçmiş temizlendi.",
-  "wellbeingProgressUnreadable": "Kayıtlı geçmiş okunamadığı için hiçbir şey gösterilmiyor. Hiçbir şey değiştirilmedi."
+  "wellbeingProgressUnreadable": "Kayıtlı geçmiş okunamadığı için hiçbir şey gösterilmiyor. Hiçbir şey değiştirilmedi.",
+  "languageTitle": "Dil",
+  "languageIntro": "Uygulama bu cihazın diliyle başlar. Buradan başka bir dil seçebilirsiniz; siz yeniden seçene kadar uygulama bu seçimi korur.",
+  "languageDevice": "Bu cihazın dilini kullan"
 }

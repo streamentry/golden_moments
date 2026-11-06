@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Limpar este histórico?",
   "wellbeingProgressClearBody": "Os dias listados aqui serão removidos deste celular. Suas fotos e outras atividades não são alteradas.",
   "wellbeingProgressCleared": "Histórico limpo.",
-  "wellbeingProgressUnreadable": "Não foi possível ler o histórico salvo, por isso nada é mostrado. Nada foi alterado."
+  "wellbeingProgressUnreadable": "Não foi possível ler o histórico salvo, por isso nada é mostrado. Nada foi alterado.",
+  "languageTitle": "Idioma",
+  "languageIntro": "O app começa no idioma deste aparelho. Escolha outro idioma aqui e o app o mantém até você escolher novamente.",
+  "languageDevice": "Usar o idioma deste aparelho"
 }

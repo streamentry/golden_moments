@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "清除这些记录？",
   "wellbeingProgressClearBody": "这里列出的日子会从这部手机上删除。您的图片和其他活动不会改变。",
   "wellbeingProgressCleared": "记录已清除。",
-  "wellbeingProgressUnreadable": "已保存的记录无法读取，所以没有显示内容。没有任何内容被更改。"
+  "wellbeingProgressUnreadable": "已保存的记录无法读取，所以没有显示内容。没有任何内容被更改。",
+  "languageTitle": "语言",
+  "languageIntro": "应用会以本设备的语言启动。您可以在这里选择其他语言，应用会一直记住，直到您再次选择。",
+  "languageDevice": "使用本设备的语言"
 }

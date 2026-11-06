@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Ștergeți acest istoric?",
   "wellbeingProgressClearBody": "Zilele listate aici sunt eliminate de pe acest telefon. Imaginile dumneavoastră și celelalte activități nu sunt modificate.",
   "wellbeingProgressCleared": "Istoric șters.",
-  "wellbeingProgressUnreadable": "Istoricul salvat nu poate fi citit, deci nu se afișează nimic. Nu s-a modificat nimic."
+  "wellbeingProgressUnreadable": "Istoricul salvat nu poate fi citit, deci nu se afișează nimic. Nu s-a modificat nimic.",
+  "languageTitle": "Limbă",
+  "languageIntro": "Aplicația pornește în limba acestui dispozitiv. Alegeți aici altă limbă, iar aplicația o păstrează până când alegeți din nou.",
+  "languageDevice": "Folosiți limba acestui dispozitiv"
 }

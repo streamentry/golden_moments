@@ -11,6 +11,7 @@ import 'package:golden_moments/features/gentle_activities/presentation/gentle_ga
 import 'package:golden_moments/features/gentle_activities/presentation/help_privacy_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
+import 'package:golden_moments/features/language/presentation/language_page.dart';
 import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
 import 'package:golden_moments/features/reminders/presentation/reminder_page.dart';
 import 'package:golden_moments/features/today/presentation/today_page.dart';
@@ -200,6 +201,15 @@ class _GentleHomePageState extends State<GentleHomePage> {
         ),
       ),
       const SizedBox(height: gmSpaceLg),
+      // The app's language: the device's language at first, then the person's
+      // own choice (see docs/engineering/localization.md).
+      Center(
+        child: TextButton.icon(
+          onPressed: () => _open(const LanguagePage()),
+          icon: const Icon(Icons.translate),
+          label: Text(l10n.languageTitle, textAlign: TextAlign.center),
+        ),
+      ),
       // Daily wellbeing: a short optional moment, a suggested routine and a
       // gentle record of the days finished. Nothing is scored (Health & Fitness
       // and Lifestyle; see docs/specs/wellbeing.md).

@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Kufuta historia hii?",
   "wellbeingProgressClearBody": "Siku zilizoorodheshwa hapa zitaondolewa kwenye simu hii. Picha zako na shughuli nyingine hazibadilishwi.",
   "wellbeingProgressCleared": "Historia imefutwa.",
-  "wellbeingProgressUnreadable": "Historia iliyohifadhiwa haiwezi kusomwa, kwa hiyo hakuna kinachoonyeshwa. Hakuna kilichobadilishwa."
+  "wellbeingProgressUnreadable": "Historia iliyohifadhiwa haiwezi kusomwa, kwa hiyo hakuna kinachoonyeshwa. Hakuna kilichobadilishwa.",
+  "languageTitle": "Lugha",
+  "languageIntro": "Programu huanza kwa lugha ya kifaa hiki. Chagua lugha nyingine hapa, na programu itaitunza hadi utakapochagua tena.",
+  "languageDevice": "Tumia lugha ya kifaa hiki"
 }

@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Ṣé kí a pa ìtàn yìí rẹ́?",
   "wellbeingProgressClearBody": "A máa yọ àwọn ọjọ́ tí a kọ síbí kúrò lórí fóònù yìí. A kò yí àwọn àwòrán yín àti àwọn iṣẹ́ mìíràn padà.",
   "wellbeingProgressCleared": "A ti pa ìtàn rẹ́.",
-  "wellbeingProgressUnreadable": "A kò lè ka ìtàn tí a ti fi pamọ́, nítorí náà kò sí nǹkan tí a fi hàn. Kò sí nǹkan tí a yí padà."
+  "wellbeingProgressUnreadable": "A kò lè ka ìtàn tí a ti fi pamọ́, nítorí náà kò sí nǹkan tí a fi hàn. Kò sí nǹkan tí a yí padà.",
+  "languageTitle": "Èdè",
+  "languageIntro": "Ìṣàfilọ́lẹ̀ náà máa ń bẹ̀rẹ̀ ní èdè ẹ̀rọ yìí. Yan èdè mìíràn níbí, ìṣàfilọ́lẹ̀ náà yóò sì tọ́jú rẹ̀ títí ẹ ó fi yàn án padà.",
+  "languageDevice": "Lo èdè ẹ̀rọ yìí"
 }

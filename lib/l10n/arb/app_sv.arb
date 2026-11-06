@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Rensa historiken?",
   "wellbeingProgressClearBody": "Dagarna som listas här tas bort från den här telefonen. Dina bilder och andra aktiviteter påverkas inte.",
   "wellbeingProgressCleared": "Historiken har rensats.",
-  "wellbeingProgressUnreadable": "Den sparade historiken går inte att läsa, så inget visas. Ingenting har ändrats."
+  "wellbeingProgressUnreadable": "Den sparade historiken går inte att läsa, så inget visas. Ingenting har ändrats.",
+  "languageTitle": "Språk",
+  "languageIntro": "Appen startar på enhetens språk. Välj ett annat språk här, så behåller appen det tills du väljer igen.",
+  "languageDevice": "Använd enhetens språk"
 }

@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Hapus riwayat ieu?",
   "wellbeingProgressClearBody": "Poé-poé anu didaptarkeun di dieu bakal dihapus tina telepon ieu. Gambar sareng kagiatan sanés anjeun henteu robih.",
   "wellbeingProgressCleared": "Riwayat parantos dihapus.",
-  "wellbeingProgressUnreadable": "Riwayat anu disimpen teu tiasa dibaca, janten teu aya anu dipidangkeun. Teu aya anu robih."
+  "wellbeingProgressUnreadable": "Riwayat anu disimpen teu tiasa dibaca, janten teu aya anu dipidangkeun. Teu aya anu robih.",
+  "languageTitle": "Basa",
+  "languageIntro": "Aplikasi dimimitian migunakeun basa alat ieu. Pilih basa sanés di dieu, tuluy aplikasi bakal nyimpen pilihan éta nepi ka anjeun milih deui.",
+  "languageDevice": "Paké basa alat ieu"
 }

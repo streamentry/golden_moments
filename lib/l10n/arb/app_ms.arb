@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Kosongkan sejarah ini?",
   "wellbeingProgressClearBody": "Hari-hari yang disenaraikan di sini dibuang daripada telefon ini. Gambar dan aktiviti lain anda tidak berubah.",
   "wellbeingProgressCleared": "Sejarah dikosongkan.",
-  "wellbeingProgressUnreadable": "Sejarah tersimpan tidak dapat dibaca, jadi tiada apa-apa dipaparkan. Tiada apa-apa yang diubah."
+  "wellbeingProgressUnreadable": "Sejarah tersimpan tidak dapat dibaca, jadi tiada apa-apa dipaparkan. Tiada apa-apa yang diubah.",
+  "languageTitle": "Bahasa",
+  "languageIntro": "Aplikasi bermula dalam bahasa peranti ini. Pilih bahasa lain di sini, dan aplikasi akan mengekalkannya sehingga anda memilih lagi.",
+  "languageDevice": "Guna bahasa peranti ini"
 }

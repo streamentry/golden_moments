@@ -6,6 +6,8 @@ import 'package:flutter/widgets.dart';
 import 'package:golden_moments/app/view/platform_home.dart';
 import 'package:golden_moments/data/models/sound_setting.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
+import 'package:golden_moments/l10n/app_language.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 import 'package:provider/provider.dart';
 
 class AppBlocObserver extends BlocObserver {
@@ -41,9 +43,25 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
     }
   }
 
+  // The saved language choice, if any, is in effect from the first frame.
+  // A preference that cannot be read means following the device.
+  Locale? savedLanguage;
+  try {
+    savedLanguage = await const AppLanguageStore().load(
+      AppLocalizations.supportedLocales,
+    );
+  } on Object {
+    log('Using the device language.');
+  }
+
   runApp(
-    ChangeNotifierProvider(
-      create: (_) => soundSettings,
+    MultiProvider(
+      providers: [
+        ChangeNotifierProvider(create: (_) => soundSettings),
+        ChangeNotifierProvider(
+          create: (_) => AppLanguage(initial: savedLanguage),
+        ),
+      ],
       child: await builder(),
     ),
   );

@@ -1831,5 +1831,17 @@
   "wellbeingProgressUnreadable": "The saved history cannot be read, so nothing is shown. Nothing was changed.",
   "@wellbeingProgressUnreadable": {
     "description": "Shown on My progress when the saved history cannot be read."
+  },
+  "languageTitle": "Language",
+  "@languageTitle": {
+    "description": "Title of the language picker, and the Home button that opens it. One word."
+  },
+  "languageIntro": "The app starts in the language of this device. Choose another language here, and the app keeps it until you choose again.",
+  "@languageIntro": {
+    "description": "Shown at the top of the language picker. Say the device language is the starting point and that the choice stays."
+  },
+  "languageDevice": "Use this device's language",
+  "@languageDevice": {
+    "description": "First choice in the language picker: follow the phone or tablet's language."
   }
 }

@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "이 기록을 지울까요?",
   "wellbeingProgressClearBody": "여기 나온 날들이 이 휴대폰에서 지워져요. 사진과 다른 활동은 그대로예요.",
   "wellbeingProgressCleared": "기록을 지웠어요.",
-  "wellbeingProgressUnreadable": "저장된 기록을 읽을 수 없어서 아무것도 보여 드릴 수 없어요. 바뀐 것은 없어요."
+  "wellbeingProgressUnreadable": "저장된 기록을 읽을 수 없어서 아무것도 보여 드릴 수 없어요. 바뀐 것은 없어요.",
+  "languageTitle": "언어",
+  "languageIntro": "앱은 이 기기의 언어로 시작해요. 여기서 다른 언어를 고르면 다시 고를 때까지 그 언어로 유지돼요.",
+  "languageDevice": "이 기기의 언어 사용"
 }

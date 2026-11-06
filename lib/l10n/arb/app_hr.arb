@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Očistiti ovu povijest?",
   "wellbeingProgressClearBody": "Dani navedeni ovdje uklanjaju se s ovog telefona. Vaše slike i ostale aktivnosti ostaju nepromijenjene.",
   "wellbeingProgressCleared": "Povijest je očišćena.",
-  "wellbeingProgressUnreadable": "Spremljena povijest ne može se pročitati pa se ništa ne prikazuje. Ništa nije promijenjeno."
+  "wellbeingProgressUnreadable": "Spremljena povijest ne može se pročitati pa se ništa ne prikazuje. Ništa nije promijenjeno.",
+  "languageTitle": "Jezik",
+  "languageIntro": "Aplikacija se pokreće na jeziku ovog uređaja. Ovdje odaberite drugi jezik, a aplikacija će ga zadržati dok ponovno ne odaberete.",
+  "languageDevice": "Koristi jezik ovog uređaja"
 }

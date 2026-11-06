@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/app/view/platform_home.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/l10n/app_language.dart';
 import 'package:golden_moments/l10n/fallback_localizations.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/l10n/pack_text.dart';
 import 'package:golden_moments/l10n/script_typography.dart';
+import 'package:provider/provider.dart';
 
 class App extends StatefulWidget {
   const new({super.key});
@@ -16,8 +18,12 @@ class App extends StatefulWidget {
 class _AppState extends State<App> {
   @override
   Widget build(BuildContext context) {
+    // The person's own choice in the language picker, or null to follow the
+    // device (the default). Read here so every screen changes together.
+    final language = context.watch<AppLanguage?>();
     return MaterialApp(
-      // The task-switcher name follows the device language.
+      locale: language?.locale,
+      // The task-switcher name follows the app language.
       onGenerateTitle: (context) => context.l10n.appTitle,
       // Light only: older eyes read dark ink on warm paper best, and MIUI's
       // forced dark mode turned the app black (#18).

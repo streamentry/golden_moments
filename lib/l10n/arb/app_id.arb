@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Hapus riwayat ini?",
   "wellbeingProgressClearBody": "Hari-hari yang tercantum di sini dihapus dari ponsel ini. Gambar dan aktivitas lainnya tidak berubah.",
   "wellbeingProgressCleared": "Riwayat dihapus.",
-  "wellbeingProgressUnreadable": "Riwayat tersimpan tidak dapat dibaca, jadi tidak ada yang ditampilkan. Tidak ada yang diubah."
+  "wellbeingProgressUnreadable": "Riwayat tersimpan tidak dapat dibaca, jadi tidak ada yang ditampilkan. Tidak ada yang diubah.",
+  "languageTitle": "Bahasa",
+  "languageIntro": "Aplikasi dimulai dalam bahasa perangkat ini. Pilih bahasa lain di sini, dan aplikasi akan menyimpannya sampai Anda memilih lagi.",
+  "languageDevice": "Gunakan bahasa perangkat ini"
 }

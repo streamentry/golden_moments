@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Burahin ang kasaysayang ito?",
   "wellbeingProgressClearBody": "Aalisin sa telepono na ito ang mga araw na nakalista rito. Hindi mababago ang inyong mga larawan at iba pang aktibidad.",
   "wellbeingProgressCleared": "Nabura na ang kasaysayan.",
-  "wellbeingProgressUnreadable": "Hindi mabasa ang naka-save na kasaysayan, kaya walang ipinapakita. Walang binago."
+  "wellbeingProgressUnreadable": "Hindi mabasa ang naka-save na kasaysayan, kaya walang ipinapakita. Walang binago.",
+  "languageTitle": "Wika",
+  "languageIntro": "Magsisimula ang app sa wika ng device na ito. Pumili rito ng ibang wika, at itatago ito ng app hanggang pumili kayong muli.",
+  "languageDevice": "Gamitin ang wika ng device na ito"
 }

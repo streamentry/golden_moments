@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Tyhjennetäänkö tämä historia?",
   "wellbeingProgressClearBody": "Tässä luetellut päivät poistetaan tästä puhelimesta. Kuvat ja muut toiminnot pysyvät ennallaan.",
   "wellbeingProgressCleared": "Historia tyhjennetty.",
-  "wellbeingProgressUnreadable": "Tallennettua historiaa ei voi lukea, joten mitään ei näytetä. Mitään ei muutettu."
+  "wellbeingProgressUnreadable": "Tallennettua historiaa ei voi lukea, joten mitään ei näytetä. Mitään ei muutettu.",
+  "languageTitle": "Kieli",
+  "languageIntro": "Sovellus käynnistyy tämän laitteen kielellä. Valitse tästä toinen kieli, niin sovellus pitää sen, kunnes valitset uudelleen.",
+  "languageDevice": "Käytä tämän laitteen kieltä"
 }

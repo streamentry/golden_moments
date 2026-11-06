@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Izbrišem to zgodovino?",
   "wellbeingProgressClearBody": "Dnevi s seznama bodo odstranjeni iz tega telefona. Vaše slike in druge dejavnosti ostanejo nespremenjene.",
   "wellbeingProgressCleared": "Zgodovina je izbrisana.",
-  "wellbeingProgressUnreadable": "Shranjene zgodovine ni mogoče prebrati, zato se nič ne prikaže. Nič ni bilo spremenjeno."
+  "wellbeingProgressUnreadable": "Shranjene zgodovine ni mogoče prebrati, zato se nič ne prikaže. Nič ni bilo spremenjeno.",
+  "languageTitle": "Jezik",
+  "languageIntro": "Aplikacija se zažene v jeziku te naprave. Tukaj izberite drug jezik, aplikacija ga bo obdržala, dokler ne izberete znova.",
+  "languageDevice": "Uporabi jezik te naprave"
 }

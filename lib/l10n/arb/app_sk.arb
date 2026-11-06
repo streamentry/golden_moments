@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Vymazať túto históriu?",
   "wellbeingProgressClearBody": "Dni uvedené tu sa odstránia z tohto telefónu. Vaše obrázky a ostatné aktivity sa nezmenia.",
   "wellbeingProgressCleared": "História bola vymazaná.",
-  "wellbeingProgressUnreadable": "Uloženú históriu nemožno prečítať, preto sa nič nezobrazuje. Nič sa nezmenilo."
+  "wellbeingProgressUnreadable": "Uloženú históriu nemožno prečítať, preto sa nič nezobrazuje. Nič sa nezmenilo.",
+  "languageTitle": "Jazyk",
+  "languageIntro": "Aplikácia sa spúšťa v jazyku tohto zariadenia. Tu vyberte iný jazyk a aplikácia si ho zachová, kým si nevyberiete znova.",
+  "languageDevice": "Použiť jazyk tohto zariadenia"
 }

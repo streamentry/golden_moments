@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "この記録を消しますか？",
   "wellbeingProgressClearBody": "ここに表示されている日が、このスマートフォンから消えます。写真やほかの活動は変わりません。",
   "wellbeingProgressCleared": "記録を消しました。",
-  "wellbeingProgressUnreadable": "保存された記録が読み取れないため、何も表示できません。何も変更していません。"
+  "wellbeingProgressUnreadable": "保存された記録が読み取れないため、何も表示できません。何も変更していません。",
+  "languageTitle": "言語",
+  "languageIntro": "アプリは、この端末の言語で始まります。ここで別の言語を選ぶと、もう一度選び直すまでその言語のままです。",
+  "languageDevice": "この端末の言語を使う"
 }

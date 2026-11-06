@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Xóa lịch sử này?",
   "wellbeingProgressClearBody": "Các ngày được liệt kê ở đây sẽ bị xóa khỏi điện thoại này. Ảnh và các hoạt động khác của bạn không thay đổi.",
   "wellbeingProgressCleared": "Đã xóa lịch sử.",
-  "wellbeingProgressUnreadable": "Không đọc được lịch sử đã lưu nên không hiển thị gì. Không có gì bị thay đổi."
+  "wellbeingProgressUnreadable": "Không đọc được lịch sử đã lưu nên không hiển thị gì. Không có gì bị thay đổi.",
+  "languageTitle": "Ngôn ngữ",
+  "languageIntro": "Ứng dụng khởi động bằng ngôn ngữ của thiết bị này. Hãy chọn ngôn ngữ khác tại đây, và ứng dụng sẽ giữ lựa chọn đó cho đến khi bạn chọn lại.",
+  "languageDevice": "Dùng ngôn ngữ của thiết bị này"
 }

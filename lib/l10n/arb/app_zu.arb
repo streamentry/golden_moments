@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Sula lo mlando?",
   "wellbeingProgressClearBody": "Izinsuku ezibhalwe lapha zisuswa kule foni. Izithombe zenu nezinye izinto eniziyenzayo aziguquki.",
   "wellbeingProgressCleared": "Umlando ususiwe.",
-  "wellbeingProgressUnreadable": "Umlando ogciniwe awukwazi ukufundwa, ngakho akukho okuboniswayo. Akukho okushintshile."
+  "wellbeingProgressUnreadable": "Umlando ogciniwe awukwazi ukufundwa, ngakho akukho okuboniswayo. Akukho okushintshile.",
+  "languageTitle": "Ulimi",
+  "languageIntro": "Uhlelo lusebenza ngolimi lwale divayisi. Khethani olunye ulimi lapha, futhi uhlelo luzoluqaphela kuze kube yilapho nikhetha futhi.",
+  "languageDevice": "Sebenzisa ulimi lwale divayisi"
 }

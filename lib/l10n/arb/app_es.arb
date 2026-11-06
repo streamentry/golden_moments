@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "¿Borrar este historial?",
   "wellbeingProgressClearBody": "Los días de esta lista se quitan de este teléfono. Sus imágenes y otras actividades no cambian.",
   "wellbeingProgressCleared": "Historial borrado.",
-  "wellbeingProgressUnreadable": "No se puede leer el historial guardado, por eso no se muestra nada. No se cambió nada."
+  "wellbeingProgressUnreadable": "No se puede leer el historial guardado, por eso no se muestra nada. No se cambió nada.",
+  "languageTitle": "Idioma",
+  "languageIntro": "La aplicación se inicia en el idioma de este dispositivo. Elija aquí otro idioma y la aplicación lo mantiene hasta que elija de nuevo.",
+  "languageDevice": "Usar el idioma de este dispositivo"
 }

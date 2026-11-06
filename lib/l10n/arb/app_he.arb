@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "למחוק את ההיסטוריה הזאת?",
   "wellbeingProgressClearBody": "הימים שברשימה יימחקו מהטלפון הזה. התמונות והפעילויות האחרות לא ישתנו.",
   "wellbeingProgressCleared": "ההיסטוריה נמחקה.",
-  "wellbeingProgressUnreadable": "אי אפשר לקרוא את ההיסטוריה השמורה, ולכן לא מוצג דבר. שום דבר לא השתנה."
+  "wellbeingProgressUnreadable": "אי אפשר לקרוא את ההיסטוריה השמורה, ולכן לא מוצג דבר. שום דבר לא השתנה.",
+  "languageTitle": "שפה",
+  "languageIntro": "האפליקציה מתחילה בשפת המכשיר. אפשר לבחור כאן שפה אחרת, והאפליקציה תשמור אותה עד שתבחרו שוב.",
+  "languageDevice": "להשתמש בשפת המכשיר"
 }

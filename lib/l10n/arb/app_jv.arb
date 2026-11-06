@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Resiki riwayat menika?",
   "wellbeingProgressClearBody": "Dinten-dinten ingkang kadhaftar ing ngriki dipun busak saking telepon menika. Gambar lan kegiatan sanesipun boten kaowahan.",
   "wellbeingProgressCleared": "Riwayat sampun dipun resiki.",
-  "wellbeingProgressUnreadable": "Riwayat ingkang kasimpen boten saged diwaos, dados boten wonten ingkang katingal. Boten wonten ingkang dipun owahi."
+  "wellbeingProgressUnreadable": "Riwayat ingkang kasimpen boten saged diwaos, dados boten wonten ingkang katingal. Boten wonten ingkang dipun owahi.",
+  "languageTitle": "Basa",
+  "languageIntro": "Aplikasi menika wiwit migunakaken basa piranti panjenengan. Menawi panjenengan milih basa sanes ing ngriki, basa menika tetep dipun enggo ngantos panjenengan milih malih.",
+  "languageDevice": "Sarana basa piranti menika"
 }

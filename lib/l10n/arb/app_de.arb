@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Verlauf löschen?",
   "wellbeingProgressClearBody": "Die hier aufgelisteten Tage werden von diesem Telefon entfernt. Ihre Bilder und anderen Aktivitäten bleiben unverändert.",
   "wellbeingProgressCleared": "Verlauf gelöscht.",
-  "wellbeingProgressUnreadable": "Der gespeicherte Verlauf kann nicht gelesen werden, deshalb wird nichts angezeigt. Es wurde nichts geändert."
+  "wellbeingProgressUnreadable": "Der gespeicherte Verlauf kann nicht gelesen werden, deshalb wird nichts angezeigt. Es wurde nichts geändert.",
+  "languageTitle": "Sprache",
+  "languageIntro": "Die App startet in der Sprache dieses Geräts. Wählen Sie hier eine andere Sprache, und die App behält sie, bis Sie erneut wählen.",
+  "languageDevice": "Sprache dieses Geräts verwenden"
 }

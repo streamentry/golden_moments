@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Share wannan tarihi?",
   "wellbeingProgressClearBody": "Za a cire ranakun da aka lissafa a nan daga wannan wayar. Hotunanku da sauran ayyuka ba za su canza ba.",
   "wellbeingProgressCleared": "An share tarihin.",
-  "wellbeingProgressUnreadable": "Ba a iya karanta tarihin da aka adana ba, don haka ba a nuna komai. Ba a canza komai ba."
+  "wellbeingProgressUnreadable": "Ba a iya karanta tarihin da aka adana ba, don haka ba a nuna komai. Ba a canza komai ba.",
+  "languageTitle": "Harshe",
+  "languageIntro": "Manhajar na farawa da harshen wannan na'ura. Ku zaɓi wani harshe a nan, manhajar kuma za ta riƙe shi har sai kun sake zaɓa.",
+  "languageDevice": "Yi amfani da harshen wannan na'ura"
 }

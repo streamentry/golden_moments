@@ -144,6 +144,14 @@ When the English catalog in `assets/data/packs_index.json` changes, run
 `python3 scripts/pack_text.py` to regenerate `packs_en.json`, then update the
 overlays that translated the changed text.
 
+## How the language is chosen
+
+**App.** On first open the app follows the device's language list (`resolveAppLocale` in `lib/l10n/l10n.dart`). The person can choose another language on Home, under **Language** (`lib/features/language/`). That choice is saved on the phone under `app.language.v1` as a language tag and loads before the first frame (`lib/bootstrap.dart`). The first option in the picker, **Use this device's language**, clears the choice. A saved tag the app does not offer is ignored. The picker names each language in its own words from `lib/l10n/language_names.dart`, which is generated from the website's locale list.
+
+**Website.** The language menu in the footer always lets the reader choose. On a first visit to the English home page, `site/src/components/LanguageChoice.astro` sends the reader to the first language their browser asks for that the site offers (`site/src/lib/language-choice.ts`). Any choice from the menu, English included, is stored in the `gm_lang` cookie for a year, and a stored choice is never overridden. The redirect uses `location.replace`, so Back does not return to English and redirect again. Other pages are never redirected.
+
+**Sitemaps.** `/sitemap.xml` is the root index. It links to `/sitemap-en.xml` and to `/<prefix>/sitemap.xml` for every other published, indexable language (`site/src/lib/sitemap.ts`). A test fails if any indexable language is missing from the index (`site/src/lib/sitemap.test.ts`).
+
 ## Languages Flutter has no widget text for
 
 Flutter's own Material and Cupertino widgets (back buttons, tooltips, dialog

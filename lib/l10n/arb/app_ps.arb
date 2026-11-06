@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "دا تاریخچه پاکه کړئ؟",
   "wellbeingProgressClearBody": "دلته لیست شوې ورځې له دې تلیفون څخه لرې کېږي. ستاسو انځورونه او نورې فعالیتونه نه بدلېږي.",
   "wellbeingProgressCleared": "تاریخچه پاکه شوه.",
-  "wellbeingProgressUnreadable": "خوندي شوې تاریخچه نه لوستل کېږي، نو هېڅ نه ښودل کېږي. هېڅ نه دي بدل شوي."
+  "wellbeingProgressUnreadable": "خوندي شوې تاریخچه نه لوستل کېږي، نو هېڅ نه ښودل کېږي. هېڅ نه دي بدل شوي.",
+  "languageTitle": "ژبه",
+  "languageIntro": "اپ د دې وسیلې په ژبه پیلیږي. دلته بله ژبه وټاکئ، او اپ به یې تر هغه وخته وساتي چې بیا یې بدل کړئ.",
+  "languageDevice": "د دې وسیلې ژبه وکاروئ"
 }
