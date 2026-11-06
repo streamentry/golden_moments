@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Rien de tout cela ne remplace l’avis d’un médecin. Si votre mémoire ou la démence vous préoccupe, parlez-en à un médecin.",
   "habitsSourcesTitle": "D’où cela vient",
   "habitsSources": "La Commission Lancet 2024 sur la prévention, l’intervention et les soins en matière de démence. Ses chiffres décrivent des populations entières, pas une personne en particulier. Le guide sourcé se trouve à dementiaactivities.games (en anglais).",
-  "wellbeingItemCallSomeone": "Appelez ou écrivez à quelqu’un avec qui vous aimez discuter"
+  "wellbeingItemCallSomeone": "Appelez ou écrivez à quelqu’un avec qui vous aimez discuter",
+  "comfortHighContrast": "Contraste renforcé",
+  "comfortHighContrastHint": "Texte noir sur fond blanc, avec des contours plus marqués. Plus facile à lire sous une lumière faible ou avec les yeux fatigués."
 }

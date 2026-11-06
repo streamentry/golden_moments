@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Kò sí èyí tó rọ́pò ìmọ̀ràn dókítà. Bí ìrántí yín tàbí dementia bá ń kó yín lọ́kàn sókè, ẹ bá dókítà sọ̀rọ̀.",
   "habitsSourcesTitle": "Ibi tí èyí ti wá",
   "habitsSources": "Ìgbìmọ̀ Lancet ti ọdún 2024 lórí ìdènà, ìdásí àti ìtọ́jú dementia. Àwọn nọ́ńbà rẹ̀ ṣàpèjúwe gbogbo àwùjọ, kì í ṣe ẹnikẹ́ni ní àdáyọ. Ìtọ́sọ́nà tí ó ní orísun wà ní dementiaactivities.games (ní èdè Gẹ̀ẹ́sì).",
-  "wellbeingItemCallSomeone": "Ẹ pe tàbí ẹ fi ìfiránṣẹ́ ránṣẹ́ sí ẹnikan tí ẹ fẹ́ràn láti bá sọ̀rọ̀"
+  "wellbeingItemCallSomeone": "Ẹ pe tàbí ẹ fi ìfiránṣẹ́ ránṣẹ́ sí ẹnikan tí ẹ fẹ́ràn láti bá sọ̀rọ̀",
+  "comfortHighContrast": "Ìyàtọ̀ tó ga jù",
+  "comfortHighContrastHint": "Ọ̀rọ̀ dúdú lórí funfun, pẹ̀lú àwọn etí tó yàtọ̀ gbangba jù. Ó rọrùn láti kà nínú ìmọ́lẹ̀ àìlágbára tàbí pẹ̀lú ojú tó ti rẹ̀."
 }

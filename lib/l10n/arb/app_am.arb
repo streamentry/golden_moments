@@ -427,5 +427,7 @@
   "habitsDoctorNote": "ከዚህ ውስጥ ምንም የሐኪም ምክርን አይተካም። ስለ ትውስታዎ ወይም ስለ መርሳት በሽታ ከተጨነቁ ሐኪም ያነጋግሩ።",
   "habitsSourcesTitle": "ይህ ከየት የመጣ ነው",
   "habitsSources": "የ2024 የላንሴት ኮሚሽን ስለ የመርሳት በሽታ መከላከል፣ ጣልቃ ገብነትና እንክብካቤ። አኃዞቹ የሚገልጹት መላ ሕዝብን እንጂ አንድን ሰው አይደለም። ምንጭ ያለው መመሪያ dementiaactivities.games ላይ ይገኛል (በእንግሊዝኛ)።",
-  "wellbeingItemCallSomeone": "ማውራት የሚወዱትን ሰው ይደውሉለት ወይም መልእክት ይላኩለት"
+  "wellbeingItemCallSomeone": "ማውራት የሚወዱትን ሰው ይደውሉለት ወይም መልእክት ይላኩለት",
+  "comfortHighContrast": "ከፍተኛ ንፅፅር",
+  "comfortHighContrastHint": "ጥቁር ጽሑፍ በነጭ ላይ፣ ከጠንካራ ጠርዞች ጋር። በደብዛዛ ብርሃን ወይም በደከሙ ዓይኖች ለማንበብ ቀላል ነው።"
 }
