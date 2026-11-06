@@ -1,0 +1,1045 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Peli",
+      "restart": "Aloita alusta",
+      "soundOn": "Pehmeät äänet päällä",
+      "soundOff": "Pehmeät äänet pois",
+      "done": "Tältä erää riittää",
+      "feedbackQuestion": "Oliko tästä apua tänään?",
+      "feedbackYes": "Kyllä",
+      "feedbackNo": "Ei oikeastaan",
+      "feedbackThanks": "Kiitos, että kerroitte."
+    },
+    "tile": {
+      "named": "{name}, ruutu {n}",
+      "hidden": "Piilossa oleva kuva, ruutu {n}",
+      "withState": "{label}, {state}",
+      "matched": "Pari löytynyt",
+      "selected": "Valittu",
+      "picture": "Kuva",
+      "photoNumber": "Valokuva {n}"
+    },
+    "pairs": {
+      "allTogether": "Kaikki parit löytyneet. Pelatkaa uudelleen tai pitäkää tauko.",
+      "photoPair": "Valokuvapari, yhdessä.",
+      "picturePair": "Kaksi samaa kuvaa: {name|lower}, yhdessä.",
+      "selected": "{name}. Etsikää nyt sen pari.",
+      "mismatch": "Ottakaa rauhassa. Jatkakaa napauttamalla kuvaa.",
+      "mismatchNamed": "{a} ja {b}. Ottakaa rauhassa. Jatkakaa napauttamalla kuvaa."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Napauttakaa kuvaa ja sitten sitä, joka sopii sen pariksi.",
+      "guidanceHidden": "Napauttakaa kahta ruutua kääntääksenne ne. Etsikää kaksi samanlaista.",
+      "restart": "Uudet kuvat",
+      "sizeLegend": "Montako ruutua",
+      "size": {
+        "one": "{n} ruutu",
+        "other": "{n} ruutua"
+      },
+      "viewLegend": "Pelitapa",
+      "viewShowing": "Kuvat näkyvissä",
+      "viewHidden": "Piilotetut kuvat",
+      "playAgain": "Pelatkaa uudelleen uusilla kuvilla",
+      "talk": "Jutelkaa kuvista yhdessä"
+    },
+    "choose": {
+      "countLegend": "Montako kuvaa",
+      "count": "{n} vaihtoehtoa",
+      "thatOne": "Tuo on {name|lower}. Ottakaa rauhassa."
+    },
+    "findTheSame": {
+      "guidance": "Katsokaa ylhäällä olevaa kuvaa. Napauttakaa samanlaista alta.",
+      "yes": "Kyllä, sama: {name|lower}.",
+      "next": "Seuraava kuva"
+    },
+    "shadowMatch": {
+      "guidance": "Katsokaa ylhäällä olevaa varjoa. Napauttakaa kuvaa, joka sen tekee.",
+      "yes": "Kyllä, tämän varjon tekee: {name|lower}.",
+      "next": "Seuraava varjo",
+      "shadowAlt": "Varjo yhdistettäväksi",
+      "foundAlt": "Varjo: {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Napauttakaa kuvaa ja sitten koria, johon se kuuluu.",
+      "restart": "Uudet kuvat",
+      "themeLegend": "Teema",
+      "selected": "{name}. Napauttakaa nyt koria, johon se menee.",
+      "pickFirst": "Napauttakaa ensin kuvaa ja sitten koria.",
+      "hint": "Kuva ”{name|lower}” voisi mennä koriin ”{basket}”. Napauttakaa sitä koria, niin kuva siirtyy sinne.",
+      "placed": "Kuva ”{name|lower}” on korissa ”{basket}”.",
+      "sorted": "Kaikki on lajiteltu. Katselkaa koreja yhdessä tai kokeilkaa toista teemaa.",
+      "basket": {
+        "one": "Kori ”{basket}”, {count} kuva sisällä",
+        "other": "Kori ”{basket}”, {count} kuvaa sisällä"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Napauttakaa yhtä palaa ja sitten toista. Ne vaihtavat paikkaa.",
+      "restart": "Sekoita uudelleen",
+      "pictureLegend": "Kuva",
+      "pictures": {
+        "sailboat": "Purjevene",
+        "house": "Talo",
+        "balloon": "Ilmapallo",
+        "sunflower": "Auringonkukka",
+        "lighthouse": "Majakka",
+        "cat": "Kissa"
+      },
+      "sizeLegend": "Palat",
+      "size": {
+        "one": "{n} pala",
+        "other": "{n} palaa"
+      },
+      "pickedUp": "Pala valittu. Napauttakaa nyt paikkaa, johon se kuuluu.",
+      "whole": "Kuva ”{name|lower}” on taas kokonainen. Valitkaa toinen kuva, kun haluatte.",
+      "swapped": {
+        "one": "Vaihdettu. {correct} / {total} palasta on oikealla paikalla.",
+        "other": "Vaihdettu. {correct} / {total} palasta on oikealla paikalla."
+      },
+      "guideAlt": "Koko kuva: {name}",
+      "guideText": "Tältä kuva näyttää kokonaisena.",
+      "piece": "Pala: {place}",
+      "pieceInPlace": ", oikealla paikalla",
+      "piecePickedUp": ", valittu",
+      "places4": [
+        "ylärivi vasemmalla",
+        "ylärivi oikealla",
+        "alarivi vasemmalla",
+        "alarivi oikealla"
+      ],
+      "places9": [
+        "ylärivi vasemmalla",
+        "ylärivi keskellä",
+        "ylärivi oikealla",
+        "keskirivi vasemmalla",
+        "keskellä",
+        "keskirivi oikealla",
+        "alarivi vasemmalla",
+        "alarivi keskellä",
+        "alarivi oikealla"
+      ],
+      "done": "Kuva on taas kokonainen. Pelatkaa uudelleen tai pitäkää tauko.",
+      "playAgain": "Sekoita uudelleen"
+    },
+    "finishTheSaying": {
+      "guidance": "Lukekaa sanonta yhdessä ja napauttakaa sitten sanaa, joka sen päättää.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Kyllä, ”{start} {end}.”",
+      "otherEnding": "”{word}” sopii myös. Tavallinen sanonta päättyy sanaan ”{end}”.",
+      "revealed": "Sanonta on ”{start} {end}.”",
+      "choicesLabel": "Valitkaa viimeinen sana",
+      "show": "Näytä loppu",
+      "talk": "Jutelkaa siitä: ",
+      "next": "Seuraava sanonta"
+    },
+    "wordSearch": {
+      "guidance": "Sanat kulkevat vaaka- tai pystysuunnassa. Napauttakaa sanan ensimmäistä kirjainta ja sitten sen viimeistä kirjainta.",
+      "restart": "Uusi tehtävä",
+      "themeLegend": "Teema",
+      "sizeLegend": "Ruudukon koko",
+      "size": {
+        "one": "{n} × {n} ({words} sana)",
+        "other": "{n} × {n} ({words} sanaa)"
+      },
+      "print": "Tulosta tämä sanahaku",
+      "letterChosen": "Kirjain {letter} valittu. Napauttakaa nyt sanan viimeistä kirjainta.",
+      "found": "{word} löytyi.",
+      "foundAll": "{word} löytyi. Kaikki sanat on löydetty. Pelatkaa uudelleen tai pitäkää tauko.",
+      "tryAgain": "Ottakaa rauhassa. Napauttakaa sanan ensimmäistä kirjainta ja sitten sen viimeistä kirjainta.",
+      "gridLabel": "Kirjainruudukko, {n} riviä, joissa kussakin {n} kirjainta. Siirtykää kirjainten välillä nuolinäppäimillä.",
+      "cell": "{letter}, rivi {row}, sarake {col}",
+      "cellFound": ", osa löytynyttä sanaa",
+      "wordsHeading": "Löydettävät sanat",
+      "wordFound": " (löytynyt)",
+      "sheetTitle": "Sanahaku: {theme}",
+      "sheetNote": "Sanat kulkevat vaaka- tai pystysuunnassa.",
+      "unavailable": "Kirjainruudukko ei sovi tälle kielelle, joten sanahakua ei tarjota täällä. Kokeilkaa kuvapelejä."
+    },
+    "coloring": {
+      "guidance": "Napauttakaa väriä ja sitten kuvan osaa.",
+      "restart": "Tyhjennä värit",
+      "cleared": "Sivu on taas tyhjä.",
+      "pageLegend": "Sivu",
+      "print": "Tulosta tämä sivu",
+      "colorsLabel": "Värit",
+      "paintChosen": "{paint} valittu.",
+      "painted": "{part} on nyt {paint|lower}.",
+      "artLabel": "{page}, {count} väritettävää osaa",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ei väritetty",
+      "paints": {
+        "red": "Punainen",
+        "orange": "Oranssi",
+        "yellow": "Keltainen",
+        "green": "Vihreä",
+        "blue": "Sininen",
+        "purple": "Violetti",
+        "pink": "Vaaleanpunainen",
+        "brown": "Ruskea",
+        "sky-blue": "Taivaansininen",
+        "cream": "Kerma",
+        "gray": "Harmaa",
+        "white": "Valkoinen"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lukekaa kortti ääneen. Oikeita vastauksia ei ole.",
+      "position": "Kortti {n} / {total}",
+      "themeLegend": "Teema",
+      "next": "Seuraava kortti",
+      "previous": "Edellinen kortti",
+      "print": "Tulosta kaikki kortit",
+      "sheetTitle": "Keskustelukortit"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Aloittakaa valitsemalla valokuvanne.",
+      "guidance": "Napauttakaa valokuvaa ja sitten sitä, joka sopii sen pariksi.",
+      "restart": "Sekoita uudelleen",
+      "intro": "**Valitkaa 2–6 valokuvaa** tältä laitteelta. Ne näytetään vain tällä sivulla, eikä niitä koskaan lähetetä verkkoon tai tallenneta.",
+      "choose": "Valitse kuvat",
+      "chooseDifferent": "Valitse toiset kuvat",
+      "clear": "Tyhjennä kuvat",
+      "cleared": "Kuvat on tyhjennetty tältä sivulta.",
+      "atLeastTwo": "Valitkaa vähintään kaksi valokuvaa.",
+      "usingFirst": "Käytetään ensimmäisiä {max} valokuvaa.",
+      "skipped": {
+        "one": "{count} tiedosto ei ollut valokuva, jonka voimme näyttää.",
+        "other": "{count} tiedostoa ei ollut valokuvia, joita voimme näyttää."
+      },
+      "playAgain": "Pelatkaa uudelleen näillä valokuvilla",
+      "empty": "Valokuvanne ilmestyvät tähän, kukin kahdesti."
+    },
+    "pictureBingo": {
+      "guidance": "Tulostakaa ensin kortit. Näyttäkää sitten tämä kutsuja suurimmalla käytössänne olevalla näytöllä.",
+      "called": {
+        "one": "{name}. {called} / {total} kuva kutsuttu.",
+        "other": "{name}. {called} / {total} kuvaa kutsuttu."
+      },
+      "start": "Napauttakaa ”Seuraava kuva” kutsuaksenne ensimmäisen kuvan.",
+      "restart": "Aloita uusi peli",
+      "squaresLegend": "Ruutuja kussakin kortissa",
+      "squares": "{n} ruutua ({side} × {side})",
+      "cardsLegend": "Montako korttia tulostetaan",
+      "cards": {
+        "one": "{n} kortti",
+        "other": "{n} korttia"
+      },
+      "print": {
+        "one": "Tulosta {n} bingokortti",
+        "other": "Tulosta {n} bingokorttia"
+      },
+      "ready": "Valmiina, kun olette",
+      "next": "Seuraava kuva",
+      "allCalled": "Jokainen kuva on kutsuttu",
+      "alreadyCalled": "Jo kutsuttu",
+      "sheetTitle": "Kuvabingo · kortti {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Hengittäkää sisään, kun ympyrä kasvaa, ja ulos, kun se pienenee. Se pysähtyy itsestään kuuden hengityksen jälkeen.",
+      "paceLegend": "Tahti",
+      "paceSlow": "Hidas (5 sekuntia kumpaankin suuntaan)",
+      "paceGentle": "Lempeä (4 sekuntia kumpaankin suuntaan)",
+      "ready": "Valmiina, kun olette",
+      "in": "Hengittäkää sisään",
+      "hold": "Levätkää",
+      "out": "Hengittäkää ulos",
+      "start": "Aloita",
+      "stop": "Lopeta",
+      "started": "Aloitettu. Hengittäkää sisään, kun ympyrä kasvaa.",
+      "stopped": "Pysäytetty.",
+      "finished": "Siinä oli kuusi hidasta hengitystä. Aloittakaa uudelleen, kun haluatte."
+    }
+  },
+  "pictures": {
+    "teacup": "Teekuppi",
+    "kettle": "Vedenkeitin",
+    "bread": "Leipä",
+    "frying-pan": "Paistinpannu ja kananmuna",
+    "cake": "Syntymäpäiväkakku",
+    "sunflower": "Auringonkukka",
+    "tulip": "Punainen tulppaani",
+    "watering-can": "Kastelukannu",
+    "potted-plant": "Ruukkukasvi",
+    "tree": "Puu",
+    "bird": "Punarinta oksalla",
+    "butterfly": "Perhonen",
+    "dog": "Koira",
+    "cat": "Kissa",
+    "fish": "Kultakala",
+    "apple": "Punainen omena",
+    "pear": "Päärynä",
+    "strawberry": "Mansikka",
+    "banana": "Banaani",
+    "lemon": "Sitruuna",
+    "cherries": "Kirsikat",
+    "house": "Talo",
+    "lamp": "Pöytävalaisin",
+    "armchair": "Nojatuoli",
+    "key": "Vanha avain",
+    "umbrella": "Sateenvarjo",
+    "sailboat": "Purjevene",
+    "car": "Vanha auto",
+    "bicycle": "Polkupyörä",
+    "balloon": "Kuumailmapallo",
+    "lighthouse": "Majakka",
+    "sun": "Aurinko",
+    "moon": "Kuu ja tähdet"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "Hätä keinot",
+        "end": "keksii",
+        "others": [
+          "etsii",
+          "löytää"
+        ],
+        "prompt": "Kertokaa, milloin olette keksineet jotakin itse, kun valmista ei ollut."
+      },
+      {
+        "start": "Kolmas kerta",
+        "end": "toden sanoo",
+        "others": [
+          "paremmin tulee",
+          "hyvän tekee"
+        ],
+        "prompt": "Mitä olette kokeilleet useammin kuin kerran?"
+      },
+      {
+        "start": "Oma koti",
+        "end": "kullan kallis",
+        "others": [
+          "kaikkein paras",
+          "aina lämmin"
+        ],
+        "prompt": "Mikä teidän kodissanne oli parasta?"
+      },
+      {
+        "start": "Aamu on iltaa",
+        "end": "viisaampi",
+        "others": [
+          "kauniimpi",
+          "rauhallisempi"
+        ],
+        "prompt": "Oletteko aamuihminen vai iltaihminen?"
+      },
+      {
+        "start": "Ei omena kauas puusta",
+        "end": "putoa",
+        "others": [
+          "karkaa",
+          "vierii"
+        ],
+        "prompt": "Millaisista omenoista pidätte eniten?"
+      },
+      {
+        "start": "Työ tekijäänsä",
+        "end": "kiittää",
+        "others": [
+          "palkitsee",
+          "kunnioittaa"
+        ],
+        "prompt": "Millaisesta työstä olette nauttineet?"
+      },
+      {
+        "start": "Ei yksi pääsky kesää",
+        "end": "tee",
+        "others": [
+          "tuo",
+          "anna"
+        ],
+        "prompt": "Mistä tunnette, että kesä on tulossa?"
+      },
+      {
+        "start": "Ystävä tunnetaan",
+        "end": "hädässä",
+        "others": [
+          "juhlassa",
+          "kesällä"
+        ],
+        "prompt": "Kertokaa hyvästä ystävästä."
+      },
+      {
+        "start": "Katso ennen kuin",
+        "end": "hyppäät",
+        "others": [
+          "astut",
+          "menet"
+        ],
+        "prompt": "Oletteko koskaan hypänneet veteen laiturilta?"
+      },
+      {
+        "start": "Kaksi kärpästä",
+        "end": "yhdellä iskulla",
+        "others": [
+          "yhdellä kertaa",
+          "samalla tavalla"
+        ],
+        "prompt": "Mitä asioita on mukava hoitaa samalla reissulla?"
+      },
+      {
+        "start": "Niin metsä vastaa kuin sinne",
+        "end": "huudetaan",
+        "others": [
+          "lauletaan",
+          "kutsutaan"
+        ],
+        "prompt": "Oletteko käyneet marjassa tai sienessä metsässä?"
+      },
+      {
+        "start": "Vierivä kivi ei",
+        "end": "sammaloidu",
+        "others": [
+          "kasva",
+          "lämpene"
+        ],
+        "prompt": "Oletteko muuttaneet usein vai asuneet pitkään samassa paikassa?"
+      },
+      {
+        "start": "Harjoitus tekee",
+        "end": "mestarin",
+        "others": [
+          "taitajan",
+          "osaajan"
+        ],
+        "prompt": "Mikä taito on teille tuttu ja mukava?"
+      },
+      {
+        "start": "Pienet lahjat ylläpitävät",
+        "end": "ystävyyttä",
+        "others": [
+          "iloa",
+          "rauhaa"
+        ],
+        "prompt": "Mikä pieni lahja on ilahduttanut teitä?"
+      },
+      {
+        "start": "Hyvää kannattaa",
+        "end": "odottaa",
+        "others": [
+          "etsiä",
+          "vaalia"
+        ],
+        "prompt": "Mikä on ollut odottamisen arvoista?"
+      },
+      {
+        "start": "Koti on siellä, missä",
+        "end": "sydän on",
+        "others": [
+          "perhe on",
+          "rakkaat ovat"
+        ],
+        "prompt": "Mitkä paikat tuntuvat teistä kodilta?"
+      },
+      {
+        "start": "Jokainen on oman onnensa",
+        "end": "seppä",
+        "others": [
+          "tekijä",
+          "rakentaja"
+        ],
+        "prompt": "Mitä olette tehneet omin käsin?"
+      },
+      {
+        "start": "Veri on vettä",
+        "end": "sakeampaa",
+        "others": [
+          "kirkkaampaa",
+          "lämpimämpää"
+        ],
+        "prompt": "Kertokaa perheestänne tai sukunne kokoontumisista."
+      },
+      {
+        "start": "Rakkaus on",
+        "end": "sokea",
+        "others": [
+          "sanaton",
+          "suuri"
+        ],
+        "prompt": "Mikä on mieluisa rakkaustarina, jonka tiedätte?"
+      },
+      {
+        "start": "Kärsivällisyys ruusuja",
+        "end": "tuottaa",
+        "others": [
+          "kasvattaa",
+          "antaa"
+        ],
+        "prompt": "Minkä kukkien kasvattamisesta pidätte?"
+      },
+      {
+        "start": "Ei kannata ostaa sikaa",
+        "end": "säkissä",
+        "others": [
+          "markkinoilla",
+          "tarhassa"
+        ],
+        "prompt": "Oletteko käyneet torilla tai markkinoilla?"
+      },
+      {
+        "start": "Kun kissa on poissa, hiiret hyppivät",
+        "end": "pöydällä",
+        "others": [
+          "lattialla",
+          "penkillä"
+        ],
+        "prompt": "Onko teillä ollut kissa tai muu lemmikki?"
+      },
+      {
+        "start": "Sopu sijaa",
+        "end": "antaa",
+        "others": [
+          "tekee",
+          "löytää"
+        ],
+        "prompt": "Mikä tuo kotiin hyvän tunnelman?"
+      },
+      {
+        "start": "Hiljaa hyvä",
+        "end": "tulee",
+        "others": [
+          "syntyy",
+          "kasvaa"
+        ],
+        "prompt": "Mikä on rauhallinen hetki, josta pidätte?"
+      },
+      {
+        "start": "Totuus on tarua",
+        "end": "ihmeellisempi",
+        "others": [
+          "kauniimpi",
+          "hauskempi"
+        ],
+        "prompt": "Mikä on hauskin tarina, jonka olette kuulleet?"
+      },
+      {
+        "start": "Nälkä on paras",
+        "end": "kokki",
+        "others": [
+          "ystävä",
+          "opettaja"
+        ],
+        "prompt": "Mikä on lempiruokanne?"
+      },
+      {
+        "start": "Parempi pyy pivossa kuin kymmenen",
+        "end": "oksalla",
+        "others": [
+          "pellolla",
+          "metsässä"
+        ],
+        "prompt": "Mitä lintuja tiedätte?"
+      },
+      {
+        "start": "Lahjahevosen suuhun ei",
+        "end": "katsota",
+        "others": [
+          "puhuta",
+          "kurkisteta"
+        ],
+        "prompt": "Mikä on ollut mieluisa lahja?"
+      },
+      {
+        "start": "Hyvin suunniteltu on",
+        "end": "puoliksi tehty",
+        "others": [
+          "jo valmis",
+          "hyvin alkanut"
+        ],
+        "prompt": "Mitä olette joskus suunnitelleet innolla?"
+      },
+      {
+        "start": "Kysyvä ei tieltä",
+        "end": "eksy",
+        "others": [
+          "lähde",
+          "jää"
+        ],
+        "prompt": "Oletteko koskaan kysyneet tietä vieraassa paikassa?"
+      },
+      {
+        "start": "Ei sitä savua ilman",
+        "end": "tulta",
+        "others": [
+          "tuulta",
+          "puuta"
+        ],
+        "prompt": "Millainen on mieluisa nuotio-ilta?"
+      },
+      {
+        "start": "Joka ensin tulee, se ensin",
+        "end": "jauhaa",
+        "others": [
+          "syö",
+          "istuu"
+        ],
+        "prompt": "Millaisesta leivästä pidätte?"
+      },
+      {
+        "start": "Rakkaalla lapsella on monta",
+        "end": "nimeä",
+        "others": [
+          "ystävää",
+          "tapaa"
+        ],
+        "prompt": "Millä lempinimillä teitä on kutsuttu?"
+      },
+      {
+        "start": "Vanha rakkaus ei",
+        "end": "ruostu",
+        "others": [
+          "jäähdy",
+          "kalpene"
+        ],
+        "prompt": "Mitä vanhoja tavaroita pidätte kalliina?"
+      },
+      {
+        "start": "Ei kukaan ole seppä",
+        "end": "syntyessään",
+        "others": [
+          "lapsena",
+          "nuorena"
+        ],
+        "prompt": "Mitä olette oppineet tekemään itse?"
+      },
+      {
+        "start": "Maassa maan",
+        "end": "tavalla",
+        "others": [
+          "kanssa",
+          "mukaan"
+        ],
+        "prompt": "Mitä vanhoja tapoja pidätte hauskoina?"
+      }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ADEGHIJKLMNOPRSTUVY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Hedelmät",
+          "words": [
+            "OMENA",
+            "LUUMU",
+            "MELONI",
+            "LIME",
+            "MARJA",
+            "MANGO",
+            "KIIVI",
+            "SATO",
+            "MEHU"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Puutarha",
+          "words": [
+            "RUUSU",
+            "TULPPI",
+            "SIEMEN",
+            "MULTA",
+            "LEHTI",
+            "PUU",
+            "KUKKA",
+            "LAMPI",
+            "PENSAS"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Keittiö",
+          "words": [
+            "KUPPI",
+            "PANNU",
+            "KULHO",
+            "TEE",
+            "UUNI",
+            "VEITSI",
+            "LASI",
+            "KAHVI",
+            "PUURO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Sää",
+          "words": [
+            "SADE",
+            "LUMI",
+            "TUULI",
+            "PILVI",
+            "MYRSKY",
+            "SUMU",
+            "KELI",
+            "POUTA",
+            "SALAMA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Eläimet",
+          "words": [
+            "KOIRA",
+            "KISSA",
+            "LINTU",
+            "KALA",
+            "ANKKA",
+            "VUOHI",
+            "KANA",
+            "SIKA",
+            "KETTU"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Koti",
+          "words": [
+            "OVI",
+            "TUOLI",
+            "LAMPPU",
+            "MATTO",
+            "SOHVA",
+            "KELLO",
+            "AVAIN",
+            "IKKUNA",
+            "KATTO"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kaikki kortit",
+        "food": "Ruoka",
+        "home": "Koti",
+        "outdoors": "Ulkona",
+        "animals": "Eläimet",
+        "travel": "Matkoilla",
+        "work": "Työ ja harrastukset",
+        "music": "Musiikki ja ilo",
+        "seasons": "Vuodenajat"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Mikä on paras tuoksu keittiössä?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Minkä kakun valitsisitte juhlaan?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Kertokaa jostakin lempipiirakasta tai jälkiruoasta."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Miten juotte teenne tai kahvinne?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Mistä syntyy oikein hyvä aamiainen?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Oletteko koskaan syöneet marjoja suoraan pensaasta?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Makeaa vai hapanta: kumpi on parempaa?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Mikä ruoka maistuu teistä kesältä?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Kertokaa talosta, jossa asuitte mielellänne."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Missä on teidän lempipaikkanne istua ja rentoutua?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Mitä teette mielellänne hiljaisena iltana?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Minkä aarteen säilyttäisitte erityisessä rasiassa?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Kenet kutsuisitte käymään teelle?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Mitä teette mielellänne sadepäivänä?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Mitä kukkia istuttaisitte puutarhaan?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Kertokaa puusta tai puistosta, josta pidätte."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Mikä on parasta puutarhassa olemisessa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Minkä värisistä kukista pidätte eniten?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Pidättekö huonekasveista kotona?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Millainen on täydellinen aurinkoinen päivä?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Kertokaa koirasta, jonka olette tunteneet."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Kissat vai koirat, vai ei kumpikaan? Mistä pidätte niissä?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Mitä lintuja näette tai kuulette ulkona?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Oletteko koskaan käyneet kalassa tai pitäneet akvaariota?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Mikä on kaunein eläin, jonka olette nähneet?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Kertokaa autosta, josta piditte."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Viettäisittekö päivän mieluummin rannalla vai metsässä?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Minne haluaisitte lähteä pyöräretkelle?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Jos voisitte lentää minkä tahansa paikan yli, mikä se olisi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Mikä on matka, josta olette nauttineet?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Millaisesta työstä olette nauttineet?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Mikä harrastus voisi viedä tuntikausia?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Minkä tekemisestä tai korjaamisesta teidät tunnettiin?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Mitä neuvoisitte nuorta, joka aloittaa työelämän?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Millainen musiikki saa jalan vipattamaan?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Mistä syntyvät oikein hyvät juhlat?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Kuka laulaja on teidän mieleenne?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Mikä on lempielokuva tai -sarja, jonka katsoisitte uudestaan?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Mistä pidätte eniten kesässä?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Mistä nautitte syksyssä?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Mitä on mukava tehdä talvi-iltana?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Mistä tunnette kevään ensimmäiset merkit?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Lumi, sade vai aurinko: mikä on mieluisin?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Kukka ruukussa",
+          "regions": {
+            "sky": "Tausta",
+            "table": "Pöytä",
+            "stem": "Varsi",
+            "leaf-left": "Vasen lehti",
+            "leaf-right": "Oikea lehti",
+            "petal-1": "Terälehti 1",
+            "petal-2": "Terälehti 2",
+            "petal-3": "Terälehti 3",
+            "petal-4": "Terälehti 4",
+            "petal-5": "Terälehti 5",
+            "petal-6": "Terälehti 6",
+            "petal-7": "Terälehti 7",
+            "petal-8": "Terälehti 8",
+            "center": "Kukan keskusta",
+            "pot": "Ruukku",
+            "pot-rim": "Ruukun reuna"
+          }
+        },
+        "house": {
+          "name": "Talo",
+          "regions": {
+            "sky": "Taivas",
+            "sun": "Aurinko",
+            "grass": "Nurmikko",
+            "chimney": "Savupiippu",
+            "walls": "Seinät",
+            "roof": "Katto",
+            "door": "Ovi",
+            "window-left": "Vasen ikkuna",
+            "window-right": "Oikea ikkuna",
+            "path": "Polku"
+          }
+        },
+        "teacup": {
+          "name": "Teekuppi",
+          "regions": {
+            "background": "Tausta",
+            "saucer": "Aluslautanen",
+            "handle": "Korva",
+            "cup": "Kuppi",
+            "band": "Kupin raita",
+            "tea": "Tee"
+          }
+        },
+        "butterfly": {
+          "name": "Perhonen",
+          "regions": {
+            "background": "Tausta",
+            "wing-top-left": "Vasen yläsiipi",
+            "wing-top-right": "Oikea yläsiipi",
+            "wing-bottom-left": "Vasen alasiipi",
+            "wing-bottom-right": "Oikea alasiipi",
+            "spot-left": "Vasemman siiven pilkku",
+            "spot-right": "Oikean siiven pilkku",
+            "body": "Vartalo"
+          }
+        },
+        "sailboat": {
+          "name": "Purjevene",
+          "regions": {
+            "sky": "Taivas",
+            "sea": "Meri",
+            "sail-big": "Iso purje",
+            "sail-small": "Pieni purje",
+            "mast": "Masto",
+            "hull": "Vene",
+            "flag": "Lippu"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Keittiö ja puutarha",
+          "baskets": [
+            "Keittiössä",
+            "Puutarhassa"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Hedelmät ja eläimet",
+          "baskets": [
+            "Hedelmät",
+            "Eläimet"
+          ]
+        },
+        "home-travel": {
+          "label": "Koti ja matkailu",
+          "baskets": [
+            "Kotona",
+            "Matkalla"
+          ]
+        }
+      }
+    }
+  }
+}
