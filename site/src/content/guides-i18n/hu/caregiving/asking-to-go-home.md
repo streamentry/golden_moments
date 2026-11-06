@@ -144,7 +144,7 @@ A haza-kérés elvezethet a kóborláshoz. Az [Alzheimer's Association](https://
 - Egy friss, közeli fénykép, és lista azokról a helyekről, ahová mehetnek, például egy régi otthon vagy munkahely.
 - Szóljon megbízható szomszédoknak, és adja meg nekik a számát.
 
-**Ha eltűnik:** azonnal kezdjen keresni; az Alzheimer's Association szerint sokakat 1,5 mérföldön (nagyjából 2,4 kilométeren) belül találnak meg. Ha 15 percen belül nem találja meg, hívja a 911-et, és közölje, hogy a személy demenciával él. Azonnal hívja a 911-et, ha valaki veszélyben van.
+**Ha eltűnik:** azonnal kezdjen keresni; az Alzheimer's Association szerint sokakat 1,5 mérföldön belül találnak meg. Ha 15 percen belül nem találja meg, hívja a 911-et, és közölje, hogy a személy demenciával él. Azonnal hívja a 911-et, ha valaki veszélyben van.
 
 ## Mikor hívjam az orvost?
 

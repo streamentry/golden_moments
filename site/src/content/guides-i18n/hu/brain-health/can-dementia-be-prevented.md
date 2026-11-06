@@ -122,7 +122,7 @@ A US POINTER-vizsgálatba 60 és 79 év közötti, összesen 2111 felnőttet von
 
 ### SPRINT MIND (vérnyomás)
 
-A SPRINT MIND 9361, 50 éves vagy idősebb, magas vérnyomásban szenvedő amerikai felnőttet vizsgált. Őket alacsonyabb vérnyomáscélra (a felső érték 120 alatt) vagy a szokásos célra (140 alatt) osztották be. Az alacsonyabb cél jelentősen csökkentette az **enyhe kognitív zavart**, a memória- és gondolkodási problémák olyan szakaszát, amely megelőzheti a demenciát. A **valószínű demencia** esetében az alacsonyabb célú csoportban kevesebb eset volt, de a különbség nem volt statisztikailag szignifikáns. A vizsgálatot idő előtt leállították, és a vártnál kevesebb demenciaeset történt, ezért lehet, hogy túl kicsi volt ahhoz, hogy erre a kérdésre választ adjon ([SPRINT MIND a JAMA-ban](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+A SPRINT MIND összesen 9361, magas vérnyomásban szenvedő, 50 éves vagy idősebb amerikai felnőttet vizsgált. Őket alacsonyabb vérnyomáscélra (a felső érték 120 alatt) vagy a szokásos célra (140 alatt) osztották be. Az alacsonyabb cél jelentősen csökkentette az **enyhe kognitív zavart**, a memória- és gondolkodási problémák olyan szakaszát, amely megelőzheti a demenciát. A **valószínű demencia** esetében az alacsonyabb célú csoportban kevesebb eset volt, de a különbség nem volt statisztikailag szignifikáns. A vizsgálatot idő előtt leállították, és a vártnál kevesebb demenciaeset történt, ezért lehet, hogy túl kicsi volt ahhoz, hogy erre a kérdésre választ adjon ([SPRINT MIND a JAMA-ban](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
 ### Az áttekintések összegzése
 
