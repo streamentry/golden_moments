@@ -53,7 +53,7 @@ Saakaa hänen huomionsa, pitäkää asiat yksinkertaisina ja olkaa kärsivällis
 
 1. **Hiljentäkää huone ja kääntykää hänen puoleensa.** Sammuttakaa televisio, istukaa silmien tasalla ja käyttäkää hänen nimeään.
 2. **Sanokaa yksi asia kerrallaan.** Lyhyet lauseet, yksi ajatus, yksi kysymys.
-3. **Tarjotkaa valinta kahden vaihtoehdon välillä.** ”Teetä vai kahvia?” on helpompi kuin ”Mitä haluaisit?”
+3. **Tarjotkaa valinta kahden vaihtoehdon välillä.** ”Teetä vai kahvia?” on helpompi kuin ”Mitä haluaisitte?”
 4. **Odottakaa.** Antakaa enemmän aikaa vastata kuin tuntuu luonnolliselta, äkä keskeytä.
 5. **Älkää koskaan väitelkö tai kyselkö.** Vastatkaa siihen, miltä hänestä tuntuu, älkää siihen, ovatko tosiasiat oikein.
 
@@ -84,7 +84,7 @@ NIA ehdottaa yksinkertaisempia versioita tavallisista kysymyksistä. Tässä esi
 
 | Sen sijaan, että sanotte | Kokeilkaa |
 | --- | --- |
-| ”Mitä haluaisit päivälliseksi?” | ”Haluatteko kalaa vai kanaa?” |
+| ”Mitä haluaisitte päivälliseksi?” | ”Haluatteko kalaa vai kanaa?” |
 | ”Miltä teistä tuntuu?” | ”Oletteko väsynyt?” |
 | ”Oletteko nälkäinen?” | ”Päivällinen on valmis viiden minuutin kuluttua.” |
 | ”Ei se mene noin.” | ”Kokeillaan tätä tapaa.” |
