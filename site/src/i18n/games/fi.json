@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Kuvaparit",
+    "seoTitle": "Kuvaparipeli muistisairaille: Kuvaparit",
+    "h1": "Kuvaparit: rauhallinen parien etsintäpeli",
+    "description": "Ilmainen, rauhallinen parien etsintäpeli dementiaa sairastaville. Isot kuvat pysyvät näkyvissä, ajastinta tai pisteitä ei ole, ja valitsette 4–12 ruutua.",
+    "short": "Etsikää kaksi samanlaista kuvaa. Kuvat voivat pysyä näkyvissä.",
+    "players": "1 tai 2 henkilöä vierekkäin",
+    "intro": "Napauttakaa kuvaa ja sitten sitä, joka sopii sen pariksi. Kuvat pysyvät oletuksena näkyvissä, joten mitään ei tarvitse muistaa. Kun kaksi kuvaa kuuluu yhteen, ne saavat kultaisen kehyksen ja valintamerkin.",
+    "howTo": [
+      "Valitkaa, montako ruutua käytätte. Neljä ruutua on rauhallinen aloitus.",
+      "Napauttakaa mitä tahansa kuvaa. Se saa kultaisen kehyksen.",
+      "Napauttakaa kuvaa, joka näyttää samalta. Pari pysyy yhdessä valintamerkin kanssa.",
+      "Jos kaksi kuvaa on erilaista, mitään pahaa ei tapahdu. Napauttakaa uudelleen, kun olette valmiita.",
+      "Kytkekää päälle ”Piilotetut kuvat” vain, jos kumpikin pitää perinteisestä käännetyistä korteista."
+    ],
+    "tips": [
+      "Nimetkää kuvat ääneen yhdessä ja jutelkaa niistä: ”Punainen teekuppi. Otatko teehesi maitoa?”",
+      "Antakaa läheisenne napauttaa itse, vaikka siihen menisi aikaa. Osoittakaa mieluummin kuin napauttaisitte hänen puolestaan.",
+      "Pysykää neljässä ruudussa niin kauan kuin se tuntuu hyvältä. Lisää ruutuja on valinta, ei koskaan saavutettava taso.",
+      "Lopettakaa, kun vielä on mukavaa. Yksi peli on kokonainen toiminta."
+    ],
+    "faq": [
+      {
+        "q": "Onko ajastinta tai pisteitä?",
+        "a": "Ei. Kelloa, pisteitä, siirtolaskuria tai häviämistä ei ole. Voitte lopettaa milloin tahansa, ja puolivälissä lopettaminen on aivan hyvä tapa päättää."
+      },
+      {
+        "q": "Miksi kuvat pysyvät näkyvissä?",
+        "a": "Kuvien pitäminen näkyvissä tekee pelistä katselua ja parien etsintää muistamisen sijaan. Monet pitävät sitä rauhallisempana. Voitte vaihtaa piilotettuihin kuviin yhdellä napautuksella, jos niin haluatte."
+      },
+      {
+        "q": "Onko se ilmainen, ja pitääkö rekisteröityä?",
+        "a": "Kyllä, se on ilmainen, eikä tiliä, rekisteröitymistä tai lataamista tarvita. Se toimii verkkoselaimessa puhelimella, tabletilla tai tietokoneella."
+      },
+      {
+        "q": "Voimmeko käyttää omia perhekuviamme?",
+        "a": "Kyllä. Kokeilkaa Valokuvaparit-peliä, jossa voitte valita kuvia laitteeltanne. Kuvat pysyvät selaimessanne, eikä niitä lähetetä verkkoon."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Etsi samanlainen",
+    "seoTitle": "Etsi samanlainen kuva: yksinkertainen peli muistisairaille",
+    "h1": "Etsi samanlainen kuva",
+    "description": "Yksi kuva ylhäällä, kaksi–neljä alla. Napauttakaa samanlaista. Rauhallinen, ilmainen kuvapeli dementiaa sairastaville, ilman ajastinta.",
+    "short": "Katsokaa ylhäällä olevaa kuvaa ja napauttakaa samanlaista alta.",
+    "players": "1 tai 2 henkilöä",
+    "intro": "Näytön yläreunassa on yksi kuva. Sen alla on kaksi, kolme tai neljä kuvaa. Napauttakaa samanlaista. Kerrallaan on yksi yksinkertainen valinta ja runsaasti tilaa jutella.",
+    "howTo": [
+      "Valitkaa, kuinka monesta kuvasta valitaan: kahdesta, kolmesta vai neljästä. Kaksi on yksinkertaisin.",
+      "Katsokaa ylhäällä olevaa kuvaa yhdessä.",
+      "Napauttakaa alta samanlaista kuvaa. Se merkitään valintamerkillä ja muutamalla lämpimällä sanalla.",
+      "Jos napautetaan erilaista kuvaa, peli vain nimeää sen ja odottaa. Ottakaa rauhassa.",
+      "Napauttakaa ”Seuraava kuva”, kun olette valmiita seuraavaan."
+    ],
+    "tips": [
+      "Jutelkaa jokaisesta kuvasta ennen valintaa: väreistä, muodoista, siitä, missä sen voisi nähdä.",
+      "Kaksi vaihtoehtoa ei ole ”liian helppoa”. Tavoitteena on miellyttävä hetki, ei haaste.",
+      "Jos napauttaminen on vaikeaa, ihminen voi osoittaa ja te voitte napauttaa hänen puolestaan."
+    ],
+    "faq": [
+      {
+        "q": "Onko ajastinta tai pisteitä?",
+        "a": "Ei. Kelloa, pisteitä, siirtolaskuria tai häviämistä ei ole. Voitte lopettaa milloin tahansa, ja puolivälissä lopettaminen on aivan hyvä tapa päättää."
+      },
+      {
+        "q": "Mitä tapahtuu, jos napautetaan väärää kuvaa?",
+        "a": "Ei mitään epämiellyttävää. Summeria, punaista rastia tai tärinää ei ole. Peli nimeää napautetun kuvan ja odottaa seuraavaa napautusta."
+      },
+      {
+        "q": "Onko se ilmainen, ja pitääkö rekisteröityä?",
+        "a": "Kyllä, se on ilmainen, eikä tiliä, rekisteröitymistä tai lataamista tarvita. Se toimii verkkoselaimessa puhelimella, tabletilla tai tietokoneella."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Varjoparit",
+    "seoTitle": "Varjopeli muistisairaille: ilmainen verkossa",
+    "h1": "Varjoparit: rauhallinen kuvapeli",
+    "description": "Tumma varjo ylhäällä, kaksi–neljä kuvaa alla. Napauttakaa kuvaa, joka tekee varjon. Ilmainen, rauhallinen varjopeli dementiaa sairastaville, ilman ajastinta.",
+    "short": "Katsokaa varjoa ja napauttakaa kuvaa, joka sen tekee.",
+    "players": "1 tai 2 henkilöä",
+    "intro": "Varjojen yhdistäminen on tuttu toiminta tulostettavista tehtävistä, tässä isoilla kuvilla ja ilman tulostamista. Pehmeä varjo on näytön yläreunassa, ja kaksi, kolme tai neljä kuvaa odottaa alla. Napauttakaa sitä, joka tekee varjon. Muodoista, kuten polkupyörästä, sateenvarjosta tai teekupista, on helppo jutella.",
+    "howTo": [
+      "Valitkaa, kuinka monesta kuvasta valitaan: kahdesta, kolmesta vai neljästä. Kaksi on yksinkertaisin.",
+      "Katsokaa varjoa yhdessä. Minkä muotoinen se on? Onko se korkea vai pyöreä?",
+      "Napauttakaa kuvaa, joka tekee varjon. Sen nimi tulee näkyviin varjon alle.",
+      "Jos napautetaan erilaista kuvaa, peli vain nimeää sen ja odottaa. Ottakaa rauhassa.",
+      "Napauttakaa ”Seuraava varjo”, kun olette valmiita seuraavaan."
+    ],
+    "tips": [
+      "Seuratkaa varjon ääriviivaa sormella ja jutelkaa muodosta.",
+      "Jos varjot tuntuvat tänään vaikeilta, vaihtakaa peliin Etsi samanlainen, jossa kuvat näyttävät samoilta.",
+      "Jutelkaa kuvasta, kun se on löytynyt: ”Meillä oli tuollainen sateenvarjo.”"
+    ],
+    "faq": [
+      {
+        "q": "Onko ajastinta tai pisteitä?",
+        "a": "Ei. Kelloa, pisteitä, siirtolaskuria tai häviämistä ei ole. Voitte lopettaa milloin tahansa, ja puolivälissä lopettaminen on aivan hyvä tapa päättää."
+      },
+      {
+        "q": "Sopiiko varjojen yhdistäminen dementiaa sairastaville?",
+        "a": "Se voi olla joillekin miellyttävä, yksinkertainen toiminta, erityisesti aiemmissa vaiheissa. Muodot on helpompi tunnistaa kuin sanat. Se on tarkoitettu virkistykseen ja keskusteluun, ei testiksi, eikä se hoida tai hidasta dementiaa. Jos se aiheuttaa turhautumista, kokeilkaa Etsi samanlainen tai katselkaa kuvia vain yhdessä."
+      },
+      {
+        "q": "Mitä tapahtuu, jos napautetaan väärää kuvaa?",
+        "a": "Ei mitään epämiellyttävää. Summeria, punaista rastia tai tärinää ei ole. Peli nimeää napautetun kuvan ja odottaa seuraavaa napautusta."
+      },
+      {
+        "q": "Onko se ilmainen, ja pitääkö rekisteröityä?",
+        "a": "Kyllä, se on ilmainen, eikä tiliä, rekisteröitymistä tai lataamista tarvita. Se toimii verkkoselaimessa puhelimella, tabletilla tai tietokoneella."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Lajitelkaa yhdessä",
+    "seoTitle": "Lajittelupeli muistisairaille: Lajitelkaa yhdessä",
+    "h1": "Lajitelkaa yhdessä: kuvien lajittelutoiminta",
+    "description": "Napauttakaa kuvaa ja sitten koria, johon se kuuluu: keittiö vai puutarha, hedelmät vai eläimet. Rauhallinen, ilmainen lajittelutoiminta dementiaa sairastaville.",
+    "short": "Laittakaa jokainen kuva koriinsa: keittiö vai puutarha ja muuta.",
+    "players": "1 tai 2 henkilöä",
+    "intro": "Lajittelu on tuttu, tyydyttävä arkinen tehtävä, kuten ruokaostosten järjestäminen tai sukkien parittaminen. Napauttakaa kuvaa ja sitten koria, johon se kuuluu. Kiirettä ei ole, eikä väärää käännöstä.",
+    "howTo": [
+      "Valitkaa teema: keittiö ja puutarha, hedelmät ja eläimet tai koti ja matkailu.",
+      "Napauttakaa kuvaa. Se saa kultaisen kehyksen.",
+      "Napauttakaa koria, johon se kuuluu. Kuva siirtyy siihen koriin.",
+      "Jos se kuuluu toiseen koriin, peli kertoo siitä lempeästi ja odottaa.",
+      "Kun jokainen kuva on lajiteltu, katselkaa koreja yhdessä."
+    ],
+    "tips": [
+      "Oikeassa elämässä vääriä vastauksia ei useinkaan ole. Jos joku sanoo, että kastelukannu kuuluu keittiöön, kysykää miksi. Voitte saada hyvän tarinan.",
+      "Käyttäkää kuvia keskustelun aloituksena: ”Mitä kasvatit puutarhassasi?”",
+      "Oikeiden esineiden lajittelu, kuten lusikoiden ja haarukoiden tai nappien värin mukaan, on hyvä jatko ruudun ulkopuolella."
+    ],
+    "faq": [
+      {
+        "q": "Onko ajastinta tai pisteitä?",
+        "a": "Ei. Kelloa, pisteitä, siirtolaskuria tai häviämistä ei ole. Voitte lopettaa milloin tahansa, ja puolivälissä lopettaminen on aivan hyvä tapa päättää."
+      },
+      {
+        "q": "Miksi lajittelu?",
+        "a": "Monet pitävät lajittelusta, koska se tuntuu hyödylliseltä, tutulta työltä. Kuvista on myös helppo jutella samalla."
+      },
+      {
+        "q": "Onko se ilmainen, ja pitääkö rekisteröityä?",
+        "a": "Kyllä, se on ilmainen, eikä tiliä, rekisteröitymistä tai lataamista tarvita. Se toimii verkkoselaimessa puhelimella, tabletilla tai tietokoneella."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Kuvapalapeli",
+    "seoTitle": "Helppo palapeli muistisairaille: 4 tai 9 palaa",
+    "h1": "Kuvapalapeli: helppo palapeli",
+    "description": "Helppo verkkopalapeli dementiaa sairastaville: 4 tai 9 isoa palaa, koko kuva pysyy näkyvissä, ja napautatte kahta palaa vaihtaaksenne ne keskenään.",
+    "short": "Napauttakaa kahta palaa vaihtaaksenne ne, kunnes kuva on kokonainen.",
+    "players": "1 tai 2 henkilöä",
+    "intro": "Ystävällinen kuva on leikattu neljään tai yhdeksään isoon palaan ja sekoitettu. Koko kuva pysyy näkyvissä apuna. Napauttakaa yhtä palaa ja sitten toista, niin ne vaihtavat paikkaa. Vetämistä ei tarvita.",
+    "howTo": [
+      "Valitkaa kuva ja 4 tai 9 palaa. Neljä on lempeä aloitus.",
+      "Katsokaa koko kuvaa ylhäällä.",
+      "Napauttakaa palaa ja sitten paikkaa, johon sen pitäisi mennä. Kaksi palaa vaihtaa paikkaa.",
+      "Oikealla paikalla olevat palat saavat pienen valintamerkin.",
+      "Kun kuva on kokonainen, nauttikaa siitä yhdessä ja valitkaa sitten toinen."
+    ],
+    "tips": [
+      "Kahden palan napauttaminen vaihtoa varten on monelle paljon helpompaa kuin vetäminen.",
+      "Jutelkaa kuvasta, kun se alkaa muodostua: ”Tuossa on punainen katto.”",
+      "Oikea puinen palapeli, jossa on 12–24 isoa palaa, on myös ihana pöytätoiminta."
+    ],
+    "faq": [
+      {
+        "q": "Onko ajastinta tai pisteitä?",
+        "a": "Ei. Kelloa, pisteitä, siirtolaskuria tai häviämistä ei ole. Voitte lopettaa milloin tahansa, ja puolivälissä lopettaminen on aivan hyvä tapa päättää."
+      },
+      {
+        "q": "Pitääkö palat vetää?",
+        "a": "Ei. Napauttakaa yhtä palaa ja sitten toista, niin ne vaihtavat paikkaa. Se on helpompaa vapisevällä kädellä tai pienellä näytöllä."
+      },
+      {
+        "q": "Onko se ilmainen, ja pitääkö rekisteröityä?",
+        "a": "Kyllä, se on ilmainen, eikä tiliä, rekisteröitymistä tai lataamista tarvita. Se toimii verkkoselaimessa puhelimella, tabletilla tai tietokoneella."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Päätä sanonta",
+    "seoTitle": "Päätä sanonta: sananlaskupeli ikäihmisille",
+    "h1": "Päätä sanonta",
+    "description": "Tuttuja suomalaisia sanontoja, joista viimeinen sana puuttuu, kuten ”Hätä keinot ___”. Napauttakaa vaihtoehtoa tai näyttäkää loppu ja jutelkaa siitä.",
+    "short": "Päättäkää tuttuja sanontoja yhdessä ja jutelkaa niistä.",
+    "players": "1, 2 tai ryhmä",
+    "intro": "Vanhat sanonnat ovat usein tuttuja koko elämän ajan. Jokaisella kortilla on tuttu sanonta, josta viimeinen sana puuttuu, kolme vaihtoehtoa ja painike ”Näytä loppu”. Lopun jälkeen lempeä kysymys kutsuu juttelemaan.",
+    "howTo": [
+      "Lukekaa sanonta ääneen yhdessä.",
+      "Napauttakaa sanaa, joka päättää sen, tai napauttakaa ”Näytä loppu”.",
+      "Lukekaa koko sanonta uudelleen ja jutelkaa siitä kysymyksen avulla.",
+      "Napauttakaa ”Seuraava sanonta”, kun olette valmiita."
+    ],
+    "tips": [
+      "Lukekaa hitaasti ja jättäkää tauko ennen viimeistä sanaa. Usein ihmiset sanovat sen ennen kuin ehditte itse.",
+      "Jos joku antaa erilaisen lopun, nauttikaa siitä. Joidenkin sanontojen versiot vaihtelevat perheittäin tai seuduittain.",
+      "Ryhmässä yksi lukee ja kaikki liittyvät mukaan loppuun."
+    ],
+    "faq": [
+      {
+        "q": "Onko ajastinta tai pisteitä?",
+        "a": "Ei. Kelloa, pisteitä, siirtolaskuria tai häviämistä ei ole. Voitte lopettaa milloin tahansa, ja puolivälissä lopettaminen on aivan hyvä tapa päättää."
+      },
+      {
+        "q": "Entä jos valitsemme toisen sanan?",
+        "a": "Peli näyttää tavallisen lopun ja siirtyy keskusteluun. Pisteitä ei ole, ja toinen vastaus on aivan hyvä."
+      },
+      {
+        "q": "Onko se ilmainen, ja pitääkö rekisteröityä?",
+        "a": "Kyllä, se on ilmainen, eikä tiliä, rekisteröitymistä tai lataamista tarvita. Se toimii verkkoselaimessa puhelimella, tabletilla tai tietokoneella."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Isokokoinen sanahaku",
+    "seoTitle": "Isokokoinen sanahaku muistisairaille, tulostettava",
+    "h1": "Isokokoinen sanahaku",
+    "description": "Ilmainen isokokoinen sanahaku ikäihmisille ja dementiaa sairastaville. Vähän sanoja, isot kirjaimet, sanat vain vaaka- ja pystysuunnassa. Pelatkaa verkossa tai tulostakaa.",
+    "short": "Isot kirjaimet, muutama sana, vain vaaka- ja pystysuunnassa. Voitte myös tulostaa.",
+    "players": "1 tai 2 henkilöä",
+    "intro": "Pieni ruudukko isoilla kirjaimilla ja vain muutama sana, jotka kaikki luetaan vaaka- tai pystysuunnassa. Napauttakaa sanan ensimmäistä kirjainta ja sitten sen viimeistä kirjainta. Pidättekö paperista? Tulostakaa uusi tehtävä yhdellä napautuksella.",
+    "howTo": [
+      "Valitkaa teema ja ruudukon koko.",
+      "Katsokaa sanalistaa. Sanat luetaan vaakasuunnassa (vasemmalta oikealle) tai pystysuunnassa (ylhäältä alas).",
+      "Napauttakaa sanan ensimmäistä kirjainta ja sitten sen viimeistä kirjainta.",
+      "Löytynyt sana korostetaan ja yliviivataan listalta.",
+      "Napauttakaa ”Tulosta tämä sanahaku”, jos haluatte pelata paperilla kynällä tai tussilla."
+    ],
+    "tips": [
+      "Osoittakaa listalta sanaa ja etsikää sen ensimmäistä kirjainta yhdessä.",
+      "Paperilla korostuskynää on helpompi pitää kädessä kuin lyijykynää.",
+      "Jutelkaa teeman sanoista. Hedelmäsanat ovat luonteva tie muistoihin poimimisesta, leipomisesta tai toreista."
+    ],
+    "faq": [
+      {
+        "q": "Onko ajastinta tai pisteitä?",
+        "a": "Ei. Kelloa, pisteitä, siirtolaskuria tai häviämistä ei ole. Voitte lopettaa milloin tahansa, ja puolivälissä lopettaminen on aivan hyvä tapa päättää."
+      },
+      {
+        "q": "Voinko tulostaa sanahaun?",
+        "a": "Kyllä. Napauttakaa ”Tulosta tämä sanahaku”, niin nykyinen ruudukko tulostuu isolla tekstillä ja sanalista sen alle. Jokainen uusi tehtävä on erilainen."
+      },
+      {
+        "q": "Onko se ilmainen, ja pitääkö rekisteröityä?",
+        "a": "Kyllä, se on ilmainen, eikä tiliä, rekisteröitymistä tai lataamista tarvita. Se toimii verkkoselaimessa puhelimella, tabletilla tai tietokoneella."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Värityskuvat",
+    "seoTitle": "Värityskuvat dementiaa sairastaville aikuisille (ilmaiset)",
+    "h1": "Värityskuvat",
+    "description": "Yksinkertaisia, aikuisille sopivia värityskuvia isoilla alueilla: napauttakaa väriä ja sitten kuvaa. Ei sotkua, ei vääriä värejä, ja jokaisen sivun voi tulostaa ilmaiseksi.",
+    "short": "Napauttakaa väriä ja sitten kuvan osaa. Voitte myös tulostaa sivuja.",
+    "players": "1 tai 2 henkilöä",
+    "intro": "Sivuja isoilla, yksinkertaisilla muodoilla: kukka ruukussa, talo, teekuppi, perhonen ja purjevene. Napauttakaa väriä ja sitten kuvan osaa täyttääksenne sen. Vääriä värejä ei ole.",
+    "howTo": [
+      "Valitkaa sivu.",
+      "Napauttakaa väriä. Jokaisen värin nimi on kirjoitettu siihen.",
+      "Napauttakaa kuvan osaa täyttääksenne sen kyseisellä värillä.",
+      "Voitte muuttaa mieltänne milloin tahansa täyttämällä sen uudelleen.",
+      "Napauttakaa ”Tulosta tämä sivu” saadaksenne tyhjän sivun, jonka voitte värittää kynillä tai tusseilla."
+    ],
+    "tips": [
+      "Tarjotkaa kahta väriä koko valikoiman sijaan, jos valitseminen tuntuu liialta.",
+      "Violetit puut ja siniset auringot ovat tervetulleita. Kyse on värien iloon nauttimisesta, ei tarkkuudesta.",
+      "Tulostetut sivut sopivat hyvin paksuille tusseille tai vahaliiduille, joista on helpompi saada kiinni."
+    ],
+    "faq": [
+      {
+        "q": "Onko ajastinta tai pisteitä?",
+        "a": "Ei. Kelloa, pisteitä, siirtolaskuria tai häviämistä ei ole. Voitte lopettaa milloin tahansa, ja puolivälissä lopettaminen on aivan hyvä tapa päättää."
+      },
+      {
+        "q": "Ovatko nämä sivut liian lapsellisia?",
+        "a": "Piirsimme rauhallisia, yksinkertaisia esineitä sarjakuvahahmojen sijaan, joten sivut sopivat aikuisille. Isot muodot pitävät värittämisen helppona tekemättä siitä lapsellista."
+      },
+      {
+        "q": "Onko se ilmainen, ja pitääkö rekisteröityä?",
+        "a": "Kyllä, se on ilmainen, eikä tiliä, rekisteröitymistä tai lataamista tarvita. Se toimii verkkoselaimessa puhelimella, tabletilla tai tietokoneella."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Keskustelukortit",
+    "seoTitle": "Keskustelun aloituksia muistisairaille: kuvakortit",
+    "h1": "Keskustelukortit",
+    "description": "Kuvakortteja lempeine keskustelun aloituksineen dementiaa sairastaville: ei tenttaamista, ei oikeita vastauksia. Käyttäkää ruudulla tai tulostakaa koko sarja.",
+    "short": "Kuvakortteja avoimin, lempein kysymyksin. Ei tenttaamista.",
+    "players": "2 henkilöä tai ryhmä",
+    "intro": "Jokaisella kortilla on tuttu kuva ja avoin kutsu keskusteluun, kuten ”Millainen sää on lempisäänne?” Oikeita vastauksia ei ole, eikä mitään tarvitse muistaa. Valitkaa teema tai sekoittakaa kaikki.",
+    "howTo": [
+      "Valitkaa teema tai pitäkää ”Kaikki kortit”.",
+      "Lukekaa kysymys ääneen ja katsokaa kuvaa yhdessä.",
+      "Kuunnelkaa, kertokaa oma vastauksenne ja antakaa puheen kulkea.",
+      "Napauttakaa ”Seuraava kortti”, kun olette valmiita, tai pysykää yhdessä kortissa niin kauan kuin haluatte.",
+      "Napauttakaa ”Tulosta kaikki kortit” leikataksenne paperisen sarjan."
+    ],
+    "tips": [
+      "Vastatkaa kysymykseen myös itse. Silloin se tuntuu keskustelulta, ei haastattelulta.",
+      "Seuratkaa tarinaa, älkää tosiasioita. Jos yksityiskohdat muuttuvat, se on aivan hyvä.",
+      "Jos kortti koskettaa jotakin surullista, tunnustakaa tunne ja siirtykää lempeästi toiseen korttiin."
+    ],
+    "faq": [
+      {
+        "q": "Miksi ei ole ”Muistatko…?” -kysymyksiä?",
+        "a": "Muistia testaavat kysymykset voivat tuntua kokeelta ja aiheuttaa noloutta. Avoimet kutsut, kuten ”Kerro minulle…”, antavat kenen tahansa tulla mukaan sen mukaan, mitä hän muistaa."
+      },
+      {
+        "q": "Voinko tulostaa kortit?",
+        "a": "Kyllä. ”Tulosta kaikki kortit” tulostaa koko sarjan isolla tekstillä, useita kortteja sivulle, leikattavaksi valmiina."
+      },
+      {
+        "q": "Onko se ilmainen, ja pitääkö rekisteröityä?",
+        "a": "Kyllä, se on ilmainen, eikä tiliä, rekisteröitymistä tai lataamista tarvita. Se toimii verkkoselaimessa puhelimella, tabletilla tai tietokoneella."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Valokuvaparit",
+    "seoTitle": "Tehkää parien etsintäpeli perhekuvista",
+    "h1": "Valokuvaparit: yhdistäkää omia valokuviannekin",
+    "description": "Muuttakaa omat perhekuvanne rauhalliseksi parien etsintäpeliksi. Valitkaa laitteeltanne 2–6 valokuvaa; ne pysyvät selaimessanne, eikä niitä koskaan lähetetä verkkoon.",
+    "short": "Valitkaa omat valokuvanne ja yhdistäkää ne pareiksi. Mitään ei lähetetä verkkoon.",
+    "players": "2 henkilöä vierekkäin",
+    "intro": "Valitkaa puhelimeltanne, tabletiltanne tai tietokoneeltanne kaksi–kuusi valokuvaa, niin niistä tulee parien etsintäpeli isoilla, näkyvillä kuvilla. Valokuvat näytetään vain tällä sivulla. Niitä ei lähetetä verkkoon, tallenneta eikä jaeta, ja ne katoavat, kun suljette sivun.",
+    "howTo": [
+      "Napauttakaa ”Valitse kuvat” ja valitkaa kaksi–kuusi valokuvaa.",
+      "Jokainen valokuva näkyy kahdesti. Napauttakaa yhtä ja sitten sen paria.",
+      "Jutelkaa jokaisesta valokuvasta, kun löydätte sen.",
+      "Kun olette valmiita, sulkekaa sivu tai napauttakaa ”Tyhjennä kuvat”. Mitään ei säilytetä."
+    ],
+    "tips": [
+      "Valitkaa selkeitä valokuvia iloisista, tutuista asioista: lemmikistä, puutarhasta, lempipaikasta, hääpäivästä.",
+      "Paikkojen ja esineiden kuvat voivat olla helpompia kuin kasvot, ja niissä ei synny painetta nimetä ihmisiä.",
+      "Jättäkää pois kuolleiden ihmisten valokuvat, jos ne voivat tuoda äkillistä surua, ellette tiedä niiden tuovan lohtua."
+    ],
+    "faq": [
+      {
+        "q": "Lähetetäänkö valokuvani minnekään?",
+        "a": "Ei. Sivu lukee valitsemanne valokuvat suoraan selaimessanne ja näyttää ne ruudullanne. Niitä ei lähetetä meille eikä kenellekään muulle, ja ne ovat poissa, kun suljette tai lataatte sivun uudelleen."
+      },
+      {
+        "q": "Onko ajastinta tai pisteitä?",
+        "a": "Ei. Kelloa, pisteitä, siirtolaskuria tai häviämistä ei ole. Voitte lopettaa milloin tahansa, ja puolivälissä lopettaminen on aivan hyvä tapa päättää."
+      },
+      {
+        "q": "Voinko tallentaa pelin seuraavaa kertaa varten?",
+        "a": "Selaimessa ei, tarkoituksella, jotta mitään yksityistä ei tallenneta. Ilmainen Golden Moments -sovellus iPhonelle ja iPadille voi säilyttää valittujen valokuvien kopioita laitteellanne."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Kuvabingo",
+    "seoTitle": "Kuvabingo muistisairaille ikäihmisille: tulostettava",
+    "h1": "Kuvabingo ryhmille",
+    "description": "Ilmainen tulostettava kuvabingo muistisairaiden hoivaan ja ikäihmisten ryhmille, isolla ruudulla näkyvällä numeronkutsujalla. Isoja kuvia sanoineen, 9 tai 16 ruutua, lukemista ei tarvita.",
+    "short": "Tulostettavat kuvabingokortit ja isonäytön kutsuja ryhmille.",
+    "players": "2–30 hengen ryhmä",
+    "intro": "Perinteinen bingo kuvilla numeroiden sijaan, joten kenenkään ei tarvitse lukea pientä tekstiä. Tulostakaa sarja ainutlaatuisia kortteja ja näyttäkää kutsujalla jokainen kuva isosti televisiossa, kannettavalla tai tabletilla.",
+    "howTo": [
+      "Valitkaa 9 tai 16 ruutua korttia kohden ja pelaajien määrä.",
+      "Napauttakaa ”Tulosta kortit”. Jokainen kortti on erilainen.",
+      "Avatkaa kutsuja isolle näytölle. Napauttakaa ”Seuraava kuva” näyttääksenne jokaisen kuvan nimineen.",
+      "Pelaajat peittävät korttinsa vastaavan kuvan kolikolla, napilla tai tussilla.",
+      "Kaikille, jotka täyttävät rivin tai koko kortin, hurrataan. Tässä versiossa ei ole häviäjiä: jatkakaa pelaamista, kunnes jokaisella on rivi."
+    ],
+    "tips": [
+      "Käyttäkää isoja merkkejä, kuten tammenappuloita tai pullonkorkkeja. Pieniä nappeja voi olla vaikea poimia.",
+      "Nimetkää kuva ja sanokaa siitä jotakin: ”Purjevene. Kuka on ollut veneretkellä?”",
+      "Istuttakaa huonosti näkevät lähimmäs näyttöä ja yhdistäkää auttajat pelaajiin, jotka tarvitsevat heitä.",
+      "Yhdeksän ruutua riittää useimmille ryhmille. Pitäkää tapaaminen noin 20–30 minuutin mittaisena."
+    ],
+    "faq": [
+      {
+        "q": "Miten järjestän kuvabingon hoivakodissa?",
+        "a": "Tulostakaa yksi kortti pelaajaa kohden, laittakaa kutsuja suurimmalle käytössänne olevalle näytölle ja kutsukaa kuvat hitaasti nimeten jokainen. Pelatkaa, kunnes jokaisella on rivi, jotta kukaan ei jää ulkopuolelle."
+      },
+      {
+        "q": "Onko tulostaminen ilmaista?",
+        "a": "Kyllä. Tulostakaa niin monta korttia kuin tarvitsette, niin usein kuin haluatte, henkilökohtaiseen tai ryhmäkäyttöön."
+      },
+      {
+        "q": "Voiko pelata lukematta?",
+        "a": "Kyllä. Jokainen ruutu on iso kuva, jonka nimi on alla niille, jotka pitävät sanoista."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Rauhallinen hengitys",
+    "seoTitle": "Rauhallinen hengitystauko ikäihmisille ja läheisille",
+    "h1": "Rauhallinen hengitystauko",
+    "description": "Hidas, hiljainen hengitystauko jaettavaksi: lempeä ympyrä kasvaa ja pienenee kuuden hengityksen ajan. Te aloitatte sen, ja voitte lopettaa milloin tahansa.",
+    "short": "Hidas ympyrä, jonka mukana hengittää. Aloittakaa ja lopettakaa, kun haluatte.",
+    "players": "1 tai 2 henkilöä",
+    "intro": "Joskus paras toiminta on hiljainen tauko. Napauttakaa ”Aloita”, hengittäkää sisään, kun ympyrä kasvaa, ja ulos, kun se pienenee. Valitkaa hitaampi tai nopeampi tahti. Se ei ole hoito, vain rauhallinen hetki jaettavaksi.",
+    "howTo": [
+      "Istukaa mukavasti vierekkäin.",
+      "Valitkaa tahti: hidas tai lempeä.",
+      "Napauttakaa ”Aloita”. Hengittäkää sisään, kun ympyrä kasvaa, ja ulos, kun se pienenee.",
+      "Se pysähtyy itsestään kuuden hengityksen jälkeen, tai napauttakaa ”Lopeta”, milloin haluatte."
+    ],
+    "tips": [
+      "Pitäkää kädestä tai laittakaa käsi ihmisen käsivarrelle, jos se on tervetullutta.",
+      "Älkää koskaan vaatiko. Jos he haluavat mieluummin katsoa, se on aivan hyvä.",
+      "Jos jollakulla on hengitysvaikeuksia, hengittäkää normaalisti ja katsokaa vain ympyrää. Kysykää lääkäriltä kaikista hengitykseen liittyvistä huolista."
+    ],
+    "faq": [
+      {
+        "q": "Onko tämä lääketieteellinen hengitysharjoitus?",
+        "a": "Ei. Se on yksinkertainen, vapaaehtoinen tauko rauhaa ja seuraa varten. Se ei ole hoito ahdistukseen tai mihinkään sairauteen. Keskustelkaa lääkärin kanssa terveyteen liittyvistä huolista."
+      },
+      {
+        "q": "Liikkuuko ympyrä ilman, että aloitan sen?",
+        "a": "Ei. Mikään ei liiku, ennen kuin napautatte Aloita, ja se pysähtyy kuuden hengityksen jälkeen tai kun napautatte Lopeta. Jos laitteenne on asetettu vähentämään liikettä, sanat vaihtuvat ilman, että ympyrä kasvaa."
+      },
+      {
+        "q": "Onko se ilmainen, ja pitääkö rekisteröityä?",
+        "a": "Kyllä, se on ilmainen, eikä tiliä, rekisteröitymistä tai lataamista tarvita. Se toimii verkkoselaimessa puhelimella, tabletilla tai tietokoneella."
+      }
+    ]
+  }
+}
