@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Wyczyścić tę historię?",
   "wellbeingProgressClearBody": "Dni z tej listy zostaną usunięte z tego telefonu. Twoje zdjęcia i inne aktywności nie zostaną zmienione.",
   "wellbeingProgressCleared": "Historia wyczyszczona.",
-  "wellbeingProgressUnreadable": "Zapisanej historii nie można odczytać, więc nic nie jest pokazane. Nic nie zostało zmienione."
+  "wellbeingProgressUnreadable": "Zapisanej historii nie można odczytać, więc nic nie jest pokazane. Nic nie zostało zmienione.",
+  "languageTitle": "Język",
+  "languageIntro": "Aplikacja uruchamia się w języku tego urządzenia. Wybierz tutaj inny język, a aplikacja zachowa go, dopóki nie wybierzesz ponownie.",
+  "languageDevice": "Używaj języka tego urządzenia"
 }

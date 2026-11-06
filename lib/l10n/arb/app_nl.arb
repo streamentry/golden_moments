@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Deze geschiedenis wissen?",
   "wellbeingProgressClearBody": "De dagen in deze lijst worden van deze telefoon verwijderd. Je foto’s en andere activiteiten blijven zoals ze zijn.",
   "wellbeingProgressCleared": "Geschiedenis gewist.",
-  "wellbeingProgressUnreadable": "De bewaarde geschiedenis kan niet worden gelezen, dus er wordt niets getoond. Er is niets veranderd."
+  "wellbeingProgressUnreadable": "De bewaarde geschiedenis kan niet worden gelezen, dus er wordt niets getoond. Er is niets veranderd.",
+  "languageTitle": "Taal",
+  "languageIntro": "De app start in de taal van dit apparaat. Kies hier een andere taal, dan houdt de app die aan tot je opnieuw kiest.",
+  "languageDevice": "De taal van dit apparaat gebruiken"
 }

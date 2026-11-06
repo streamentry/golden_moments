@@ -100,10 +100,10 @@ void main() {
       await tester.pumpWidget(
         ChangeNotifierProvider.value(
           value: language,
-          child: MaterialApp(
+          child: const MaterialApp(
             localizationsDelegates: AppLocalizations.localizationsDelegates,
             supportedLocales: AppLocalizations.supportedLocales,
-            home: const LanguagePage(),
+            home: LanguagePage(),
           ),
         ),
       );
@@ -135,10 +135,10 @@ void main() {
       await tester.pumpWidget(
         ChangeNotifierProvider.value(
           value: language,
-          child: MaterialApp(
+          child: const MaterialApp(
             localizationsDelegates: AppLocalizations.localizationsDelegates,
             supportedLocales: AppLocalizations.supportedLocales,
-            home: const LanguagePage(),
+            home: LanguagePage(),
           ),
         ),
       );

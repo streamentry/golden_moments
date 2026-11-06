@@ -405,5 +405,8 @@
   "wellbeingProgressClearTitle": "Seenaan kun haqamu?",
   "wellbeingProgressClearBody": "Guyyoonni asitti tarreeffaman bilbila kana irraa ni haqamu. Suuraawwan keessanii fi sochiin biroon hin jijjiiramu.",
   "wellbeingProgressCleared": "Seenaan haqameera.",
-  "wellbeingProgressUnreadable": "Seenaan olkaa’ame dubbifamuu hin dandeenye, kanaaf homtuu hin mul’atu. Homtuu hin jijjiiramne."
+  "wellbeingProgressUnreadable": "Seenaan olkaa’ame dubbifamuu hin dandeenye, kanaaf homtuu hin mul’atu. Homtuu hin jijjiiramne.",
+  "languageTitle": "Afaan",
+  "languageIntro": "Appiin afaan meeshaa kanaatiin jalqaba. Asitti afaan biraa filadhaa, appiin hanga isin deebitanii filattanitti ni eega.",
+  "languageDevice": "Afaan meeshaa kanaa fayyadamaa"
 }
