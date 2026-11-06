@@ -61,7 +61,7 @@
   },
   "home": {
     "title": "Dementia- ja Alzheimer-pelit ja -toiminnat | Golden Moments",
-    "description": "Ilmaisia, rauhallisia kuvapelejä verkossa ja toimintaideoita dementiaa tai Alzheimerin tautia sairastaville ja läheisille. Ei rekisteröitymistä, ajastimia eikä pisteitä.",
+    "description": "Ilmaisia, rauhallisia kuvapelejä verkossa ja toimintaideoita dementiaa sairastaville ja läheisille. Ei rekisteröitymistä, ajastimia eikä pisteitä.",
     "eyebrow": "Ilmainen · Ei mainoksia · Ei rekisteröitymistä · Ei ajastimia eikä pisteitä",
     "h1": "Rauhallisia pelejä ja toimintaa muistisairaille",
     "lede": "Helppoja kuvapelejä, tuttuja valokuvia ja yhteistä tekemistä, omaan tahtiin.",
@@ -431,7 +431,7 @@
   },
   "gamesIndex": {
     "title": "Ilmaiset dementia- ja Alzheimer-pelit verkossa",
-    "description": "Ilmaisia verkkopelejä dementiaa tai Alzheimerin tautia sairastaville: kuvaparit, palapelit, lajittelu, sanonnat ja bingo. Ei rekisteröitymistä, ajastimia eikä pisteitä.",
+    "description": "Ilmaisia verkkopelejä dementiaa tai Alzheimerin tautia sairastaville: kuvaparit, palapelit, lajittelu, sanonnat ja bingo. Ei ajastimia eikä pisteitä.",
     "crumb": "Pelit",
     "h1": "Rauhallisia pelejä muistisairaille",
     "lede": "{count} ilmaista peliä, joita voitte pelata yhdessä selaimessa. Isoja kuvia, selkeitä sanoja ja mikään ei voi epäonnistua: ei ajastimia, ei pisteitä, ei rekisteröitymistä.",

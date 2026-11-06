@@ -60,7 +60,7 @@
   },
   "home": {
     "title": "Igre i aktivnosti za demenciju i Alzheimerovu bolest | Golden Moments",
-    "description": "Besplatne, nježne igre sa slikama za igranje na internetu i ideje za aktivnosti za osobe koje žive s demencijom ili Alzheimerovom bolešću i njihove njegovatelje. Bez prijave, mjerenja vremena i bodova.",
+    "description": "Besplatne, nježne igre sa slikama i ideje za aktivnosti za osobe koje žive s demencijom i njihove njegovatelje. Bez prijave, mjerenja vremena i bodova.",
     "eyebrow": "Besplatno · Bez oglasa · Bez prijave · Bez mjerenja vremena i bodova",
     "h1": "Nježne igre i aktivnosti za osobe s demencijom",
     "lede": "Jednostavne igre sa slikama, poznate fotografije i aktivnosti za zajedničko uživanje, Vašim tempom.",
@@ -244,7 +244,7 @@
       "label": "Aktivnosti",
       "title": "Aktivnosti za osobe s demencijom",
       "seo": "Aktivnosti za osobe s demencijom: ideje po fazama",
-      "description": "Ideje za aktivnosti za osobe koje žive s demencijom u svakoj fazi: glazba, prisjećanje, svakodnevni poslovi, trenuci za osjetila, rukotvorine, boravak vani i besplatni materijali za ispis.",
+      "description": "Ideje za aktivnosti za osobe s demencijom u svakoj fazi: glazba, prisjećanje, svakodnevni poslovi, osjetila, rukotvorine, boravak vani i materijali za ispis.",
       "lede": "Smislena aktivnost je sve što donosi ugodu, svrhu ili trenutak povezanosti. Krenite od onoga što je osoba oduvijek voljela i prilagodite to današnjem danu."
     },
     "caregiving": {
@@ -258,7 +258,7 @@
       "label": "Zdravlje mozga",
       "title": "Zdravlje mozga: što kažu istraživanja",
       "seo": "Zdravlje mozga i rizik od demencije: što kažu istraživanja",
-      "description": "Može li se demencija spriječiti? Iskreni vodiči s izvorima o čimbenicima rizika za demenciju, igrama za mozak, postu, prehrani, tjelovježbi, snu, sluhu i ranim znakovima upozorenja.",
+      "description": "Može li se demencija spriječiti? Iskreni vodiči s izvorima o čimbenicima rizika, igrama za mozak, prehrani, tjelovježbi, snu, sluhu i ranim znakovima.",
       "lede": "Što velike studije doista pokazuju o smanjenju rizika od demencije, jasno objašnjeno, uključujući i ondje gdje su dokazi slabi ili neujednačeni. Opće informacije, a ne medicinski savjet."
     }
   },
@@ -401,7 +401,7 @@
     "organizations": {
       "title": "Za domove za starije, knjižnice i grupe podrške",
       "seoTitle": "Besplatne aktivnosti za demenciju za domove i grupe",
-      "description": "Kako domovi za starije, programi dnevnog boravka, knjižnice, službe za starije i grupe podrške koriste naše besplatne igre za demenciju, uz tekst za dodavanje na popis izvora.",
+      "description": "Kako domovi za starije, dnevni boravci, knjižnice i grupe podrške koriste naše besplatne igre za demenciju, uz tekst za dodavanje na popis izvora.",
       "crumb": "Za organizacije",
       "lede": "Sve na ovom web-mjestu besplatno je za korištenje sa stanarima, članovima i korisnicima, bez računa, licence ili naknade. Ova stranica objašnjava što je ovdje i kako to podijeliti.",
       "shortText": "{name}: besplatne, nježne igre sa slikama i vodiči za aktivnosti za osobe koje žive s demencijom i njihove njegovatelje. Bez prijave, mjerenja vremena i bodova.",
@@ -419,7 +419,7 @@
     "app": {
       "title": "Aplikacija Golden Moments",
       "seoTitle": "Aplikacija Golden Moments za iPhone i Android",
-      "description": "Besplatna aplikacija Golden Moments: nježno slaganje fotografija s četiri velike pločice, obiteljske fotografije na Vašem uređaju, paketi slika bez interneta i bez računa.",
+      "description": "Besplatna aplikacija Golden Moments: nježno slaganje fotografija na četiri velike pločice, obiteljske fotografije na uređaju, paketi slika bez interneta.",
       "crumb": "Aplikacija",
       "lede": "Sve što volite na web-mjestu, u aplikaciji koja radi bez interneta i može koristiti obiteljske fotografije koje odaberete.",
       "worksOn": "Radi na: {platforms} ({requirements}).",
@@ -430,7 +430,7 @@
   },
   "gamesIndex": {
     "title": "Besplatne igre za demenciju i Alzheimerovu bolest na internetu",
-    "description": "Besplatne internetske igre za starije osobe koje žive s demencijom ili Alzheimerovom bolešću: slaganje parova slika, lagane slagalice, razvrstavanje, izreke, bojanje, bingo. Bez prijave, mjerenja vremena i bodova.",
+    "description": "Besplatne igre na internetu za osobe s demencijom: slaganje parova, lagane slagalice, razvrstavanje, izreke, bojanje, bingo. Bez prijave, vremena i bodova.",
     "crumb": "Igre",
     "h1": "Nježne igre za osobe s demencijom",
     "lede": "{count} besplatnih igara za zajedničko igranje u pregledniku. Velike slike, jednostavne riječi i ništa u čemu se može podbaciti: bez mjerenja vremena, bez bodova, bez prijave.",
