@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Nič z toho nenahrádza radu lekára. Ak sa obávate o svoju pamäť alebo demenciu, porozprávajte sa s lekárom.",
   "habitsSourcesTitle": "Odkiaľ to pochádza",
   "habitsSources": "Komisia Lancet z roku 2024 pre prevenciu, intervenciu a starostlivosť pri demencii. Jej čísla opisujú celé populácie, nie jedného konkrétneho človeka. Sprievodca so zdrojmi je na dementiaactivities.games (v angličtine).",
-  "wellbeingItemCallSomeone": "Zavolajte alebo napíšte niekomu, s kým sa radi rozprávate"
+  "wellbeingItemCallSomeone": "Zavolajte alebo napíšte niekomu, s kým sa radi rozprávate",
+  "comfortHighContrast": "Vyšší kontrast",
+  "comfortHighContrastHint": "Čierny text na bielom podklade, s výraznejšími okrajmi. Ľahšie sa číta pri slabom svetle alebo s unavenými očami."
 }

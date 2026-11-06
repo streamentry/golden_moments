@@ -6,6 +6,8 @@ import 'package:flutter/widgets.dart';
 import 'package:golden_moments/app/view/platform_home.dart';
 import 'package:golden_moments/data/models/sound_setting.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
+import 'package:golden_moments/features/gentle_activities/data/gentle_preferences.dart';
+import 'package:golden_moments/features/gentle_activities/data/high_contrast_setting.dart';
 import 'package:golden_moments/l10n/app_language.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 import 'package:provider/provider.dart';
@@ -54,12 +56,19 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
     log('Using the device language.');
   }
 
+  // The saved "Higher contrast" choice, from the comfort settings.
+  final savedContrast =
+      (await const GentlePreferencesStore().load()).highContrast;
+
   runApp(
     MultiProvider(
       providers: [
         ChangeNotifierProvider(create: (_) => soundSettings),
         ChangeNotifierProvider(
           create: (_) => AppLanguage(initial: savedLanguage),
+        ),
+        ChangeNotifierProvider(
+          create: (_) => HighContrastSetting(initial: savedContrast),
         ),
       ],
       child: await builder(),

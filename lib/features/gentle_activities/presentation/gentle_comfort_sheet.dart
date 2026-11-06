@@ -129,6 +129,14 @@ class _GentleComfortSheetState extends State<GentleComfortSheet> {
               onChanged: (value) =>
                   _change(_prefs.copyWith(keepVisible: value)),
             ),
+            SwitchListTile(
+              contentPadding: EdgeInsets.zero,
+              title: Text(l10n.comfortHighContrast),
+              subtitle: Text(l10n.comfortHighContrastHint),
+              value: _prefs.highContrast,
+              onChanged: (value) =>
+                  _change(_prefs.copyWith(highContrast: value)),
+            ),
             if (_saveFailed)
               Padding(
                 padding: const EdgeInsets.only(bottom: gmSpaceSm),

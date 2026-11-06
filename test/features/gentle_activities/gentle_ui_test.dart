@@ -108,7 +108,7 @@ void main() {
     await tester.pumpAndSettle();
     await tester.tap(find.text('8 tiles'));
     await tester.pumpAndSettle();
-    await tester.tap(find.byType(Switch));
+    await tester.tap(find.byType(Switch).first);
     await tester.pumpAndSettle();
     await tester.tap(find.text('Done'));
     await tester.pumpAndSettle();
@@ -250,7 +250,7 @@ void main() {
       await tester.pumpAndSettle();
       await tester.tap(find.text('8 tiles'));
       await tester.pumpAndSettle();
-      await tester.tap(find.byType(Switch));
+      await tester.tap(find.byType(Switch).first);
       await tester.pumpAndSettle();
       await tester.tap(find.text('Back to the pictures'));
       await tester.pumpAndSettle();
@@ -292,7 +292,7 @@ void main() {
     await tester.pumpAndSettle();
     // No frame between the two taps: the second must build on the first.
     await tester.tap(find.text('6 tiles'));
-    await tester.tap(find.byType(Switch));
+    await tester.tap(find.byType(Switch).first);
     await tester.pumpAndSettle();
     final saved = await const GentlePreferencesStore().load();
     expect(saved.pairs, 3);

@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Bularning hech biri shifokor maslahatining oʻrnini bosmaydi. Xotirangiz yoki demensiya haqida xavotirda boʻlsangiz, shifokor bilan gaplashing.",
   "habitsSourcesTitle": "Bu maʼlumot qayerdan olingan",
   "habitsSources": "Demensiyaning oldini olish, aralashuv va parvarish boʻyicha 2024-yilgi Lancet komissiyasi. Uning raqamlari butun aholini tasvirlaydi, alohida bir kishini emas. Manbali qoʻllanma shu manzilda: dementiaactivities.games (inglizcha).",
-  "wellbeingItemCallSomeone": "Suhbatlashish sizga yoqadigan kishiga qoʻngʻiroq qiling yoki xabar yozing"
+  "wellbeingItemCallSomeone": "Suhbatlashish sizga yoqadigan kishiga qoʻngʻiroq qiling yoki xabar yozing",
+  "comfortHighContrast": "Yuqoriroq kontrast",
+  "comfortHighContrastHint": "Oq fonda qora matn, chekkalari aniqroq. Xira yorugʻlikda yoki charchagan koʻzlar bilan oʻqish osonroq."
 }

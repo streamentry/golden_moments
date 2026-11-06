@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Hakuna kati ya haya kinachochukua nafasi ya ushauri wa daktari. Ikiwa una wasiwasi kuhusu kumbukumbu yako au kuhusu dementia, zungumza na daktari.",
   "habitsSourcesTitle": "Haya yanatoka wapi",
   "habitsSources": "Tume ya Lancet ya 2024 kuhusu kinga, afua na huduma ya dementia. Takwimu zake zinaeleza makundi mazima ya watu, si mtu mmoja. Mwongozo wenye vyanzo unapatikana kwenye dementiaactivities.games (kwa Kiingereza).",
-  "wellbeingItemCallSomeone": "Mpigie au mtumie ujumbe mtu unayefurahia kuzungumza naye"
+  "wellbeingItemCallSomeone": "Mpigie au mtumie ujumbe mtu unayefurahia kuzungumza naye",
+  "comfortHighContrast": "Utofautishaji wa juu",
+  "comfortHighContrastHint": "Maandishi meusi kwenye mandhari meupe, na kingo zilizo wazi zaidi. Ni rahisi kusoma kwenye mwanga hafifu au macho yakiwa yamechoka."
 }

@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Nic z tego nie zastępuje porady lekarza. Jeśli martwisz się o pamięć lub o demencję, porozmawiaj z lekarzem.",
   "habitsSourcesTitle": "Skąd to pochodzi",
   "habitsSources": "Komisja Lancet z 2024 roku do spraw profilaktyki, interwencji i opieki w demencji. Jej liczby opisują całe populacje, a nie pojedynczą osobę. Opracowany poradnik ze źródłami jest na dementiaactivities.games (po angielsku).",
-  "wellbeingItemCallSomeone": "Zadzwoń lub napisz do kogoś, z kim lubisz rozmawiać"
+  "wellbeingItemCallSomeone": "Zadzwoń lub napisz do kogoś, z kim lubisz rozmawiać",
+  "comfortHighContrast": "Wyższy kontrast",
+  "comfortHighContrastHint": "Czarny tekst na białym tle, z wyraźniejszymi krawędziami. Łatwiej czytać przy słabym świetle lub zmęczonymi oczami."
 }

@@ -27,6 +27,9 @@ colors:
   surface-sunken: "#EADFCB"
   on-surface: "#222222"
   on-surface-variant: "#5C5346"
+  # High contrast (Settings > Higher contrast): white paper and near-black ink.
+  high-contrast-surface: "#FFFFFF"
+  high-contrast-on-surface: "#111111"
   outline: "#7D7366"
   on-ink: "#F3EAD9"
   on-ink-variant: "#D9CFBD"
@@ -132,6 +135,10 @@ spacing:
   content-max: 720px
   wide-max: 1160px
 components:
+  screen-high-contrast:
+    backgroundColor: "{colors.high-contrast-surface}"
+    textColor: "{colors.high-contrast-on-surface}"
+    typography: "{typography.body-lg}"
   button-hero:
     backgroundColor: "{colors.primary}"
     textColor: "{colors.on-primary}"

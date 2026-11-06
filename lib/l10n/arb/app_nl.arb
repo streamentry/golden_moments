@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Niets hiervan vervangt het advies van een arts. Als je je zorgen maakt over je geheugen of over dementie, praat dan met een arts.",
   "habitsSourcesTitle": "Waar dit vandaan komt",
   "habitsSources": "De Lancet Commission van 2024 over preventie, behandeling en zorg bij dementie. De cijfers beschrijven hele bevolkingsgroepen, niet één persoon. De onderbouwde gids staat op dementiaactivities.games (in het Engels).",
-  "wellbeingItemCallSomeone": "Bel of stuur een bericht naar iemand met wie je graag praat"
+  "wellbeingItemCallSomeone": "Bel of stuur een bericht naar iemand met wie je graag praat",
+  "comfortHighContrast": "Sterker contrast",
+  "comfortHighContrastHint": "Zwarte tekst op wit, met scherpere randen. Makkelijker te lezen bij weinig licht of met vermoeide ogen."
 }

@@ -84,6 +84,8 @@ void main() {
         'on-surface': gmCharcoal900,
         'on-surface-variant': gmWalnut600,
         'outline': gmDriftwood500,
+        'high-contrast-surface': gmHighContrastSurface,
+        'high-contrast-on-surface': gmHighContrastOnSurface,
         'on-ink': gmOnInk,
         'on-ink-variant': gmOnInkVariant,
         'on-ink-link': gmOnInkLink,

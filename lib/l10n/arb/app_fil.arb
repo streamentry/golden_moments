@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Walang pumapalit dito sa payo ng doktor. Kung nag-aalala kayo tungkol sa inyong memorya o sa dementia, makipag-usap sa doktor.",
   "habitsSourcesTitle": "Saan ito nanggaling",
   "habitsSources": "Ang 2024 Lancet Commission tungkol sa pag-iwas, interbensyon at pangangalaga sa dementia. Ang mga bilang nito ay naglalarawan ng buong populasyon, hindi ng sinumang indibidwal. Ang gabay na may mga pinagmulan ay nasa dementiaactivities.games (sa Ingles).",
-  "wellbeingItemCallSomeone": "Tumawag o magmensahe sa taong gusto ninyong kausap"
+  "wellbeingItemCallSomeone": "Tumawag o magmensahe sa taong gusto ninyong kausap",
+  "comfortHighContrast": "Mas mataas na contrast",
+  "comfortHighContrastHint": "Itim na teksto sa puting background, na may mas matitingkad na gilid. Mas madaling basahin sa madilim na ilaw o kapag pagod ang mga mata."
 }

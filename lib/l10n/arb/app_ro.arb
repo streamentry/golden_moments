@@ -427,5 +427,7 @@
   "habitsDoctorNote": "Nimic din toate acestea nu înlocuiește sfatul unui medic. Dacă vă îngrijorează memoria sau demența, vorbiți cu un medic.",
   "habitsSourcesTitle": "De unde provin aceste informații",
   "habitsSources": "Comisia Lancet din 2024 privind prevenirea, intervenția și îngrijirea în demență. Cifrele ei descriu populații întregi, nu o persoană anume. Ghidul cu surse se află la dementiaactivities.games (în engleză).",
-  "wellbeingItemCallSomeone": "Sunați sau scrieți unei persoane cu care vă place să vorbiți"
+  "wellbeingItemCallSomeone": "Sunați sau scrieți unei persoane cu care vă place să vorbiți",
+  "comfortHighContrast": "Contrast mai mare",
+  "comfortHighContrastHint": "Text negru pe fundal alb, cu margini mai puternice. Mai ușor de citit în lumină slabă sau cu ochii obosiți."
 }

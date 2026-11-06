@@ -10,7 +10,11 @@ import 'package:shared_preferences/shared_preferences.dart';
 /// and resetting never touches family photos or packs.
 @immutable
 class GentlePreferences {
-  const new({this.pairs = defaultPairs, this.keepVisible = true});
+  const new({
+    this.pairs = defaultPairs,
+    this.keepVisible = true,
+    this.highContrast = false,
+  });
 
   /// Reads each field on its own so one invalid value never discards the rest.
   /// Unknown newer versions and malformed data fall back to defaults.
@@ -22,9 +26,12 @@ class GentlePreferences {
     }
     final pairs = json['pairs'];
     final keepVisible = json['keepVisible'];
+    // Older saved choices have no contrast field: they load with it off.
+    final highContrast = json['highContrast'];
     return GentlePreferences(
       pairs: pairs is int && pairChoices.contains(pairs) ? pairs : defaultPairs,
       keepVisible: keepVisible is! bool || keepVisible,
+      highContrast: highContrast is bool && highContrast,
     );
   }
 
@@ -37,26 +44,35 @@ class GentlePreferences {
   final int pairs;
   final bool keepVisible;
 
-  GentlePreferences copyWith({int? pairs, bool? keepVisible}) =>
-      GentlePreferences(
-        pairs: pairs ?? this.pairs,
-        keepVisible: keepVisible ?? this.keepVisible,
-      );
+  /// Stronger contrast for older eyes (see gmBuildTheme). Off by default.
+  final bool highContrast;
+
+  GentlePreferences copyWith({
+    int? pairs,
+    bool? keepVisible,
+    bool? highContrast,
+  }) => GentlePreferences(
+    pairs: pairs ?? this.pairs,
+    keepVisible: keepVisible ?? this.keepVisible,
+    highContrast: highContrast ?? this.highContrast,
+  );
 
   Map<String, Object> toJson() => {
     'v': schemaVersion,
     'pairs': pairs,
     'keepVisible': keepVisible,
+    'highContrast': highContrast,
   };
 
   @override
   bool operator ==(Object other) =>
       other is GentlePreferences &&
       other.pairs == pairs &&
-      other.keepVisible == keepVisible;
+      other.keepVisible == keepVisible &&
+      other.highContrast == highContrast;
 
   @override
-  int get hashCode => Object.hash(pairs, keepVisible);
+  int get hashCode => Object.hash(pairs, keepVisible, highContrast);
 }
 
 /// Local-only persistence for [GentlePreferences]. Failures fall back to the
