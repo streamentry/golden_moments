@@ -26,6 +26,20 @@ features fit it best.
   only. There is no count, score, streak, average or list of missed days. Clearing it
   asks first and leaves pictures and other activities alone.
 
+## Healthy habits (for adults looking after their health)
+
+A page, **Healthy habits** on Home, for any adult who wants to look after their health as they age, not only for older people or caregivers. It lists six habits taken from the changeable risk factors in the 2024 Lancet Commission report (hearing and vision, blood pressure and cholesterol, physical activity, social contact, smoking and alcohol, head injury). Source facts are the ones in the website guides `brain-health/can-dementia-be-prevented` and `brain-health/risk-factors`.
+
+Rules specific to this page:
+
+- Every habit line says "linked with". Nothing says a habit prevents, protects against, or lowers anyone's risk. The page states that these are not a promise for any one person and that no habit, game or diet has been proven to prevent dementia. A test checks both, and bans claim, brain, score, streak and timer wording (`test/features/habits/habits_page_test.dart`).
+- The app is not presented as a way to prevent dementia. Daily moment and the matching game stay recreational, as before; nothing here says they train or protect anything.
+- No age is asked and no one is addressed by age. There is nothing to tick off, count, score or track, and no data is stored.
+- The source is named as selectable text and the guide address is shown to copy. The app does not open it, which keeps the app's rule that nothing leaves the device from here.
+- The page ends with a doctor note and a button to **Plan my day**, which now includes a "call or message someone" suggestion for oneself in the afternoon.
+
+Not done, on purpose: the store listing and metadata are unchanged. Describing the app to people who want to prevent dementia would invite exactly the claim the product must not make, so any change to store copy needs the same no-claims review as all copy, and a maintainer decision.
+
 ## Boundaries (all apply)
 
 - No clock, timer, countdown, step count, move count, score, points, streak or
