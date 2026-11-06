@@ -12,6 +12,7 @@ import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/widgets/gm_bottom_bar.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import 'helpers/home_menu.dart';
 import 'helpers/shipped_fonts.dart';
 
 Widget _app(Widget home, {double textScale = 1}) => MaterialApp(
@@ -70,7 +71,7 @@ Future<void> _finishBoard(WidgetTester tester, {bool settleLast = true}) async {
 }
 
 Future<void> _openComfort(WidgetTester tester) async {
-  await tester.tap(find.byTooltip('Comfort settings'));
+  await tapHomeMenuItem(tester, 'Comfort settings');
   await tester.pumpAndSettle();
 }
 

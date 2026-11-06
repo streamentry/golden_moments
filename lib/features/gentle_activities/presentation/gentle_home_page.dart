@@ -9,6 +9,7 @@ import 'package:golden_moments/features/gentle_activities/models/activity_pictur
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_comfort_sheet.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_game_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/help_privacy_page.dart';
+import 'package:golden_moments/features/gentle_activities/presentation/home_menu_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
 import 'package:golden_moments/features/habits/presentation/habits_page.dart';
@@ -51,6 +52,39 @@ class _GentleHomePageState extends State<GentleHomePage> {
           // where the system rating prompt may appear (DESIGN.md › Ratings).
           .then((_) => mounted ? askForReviewOnReturnHome() : null),
     );
+  }
+
+  /// The menu closes with the person's choice; Home then opens that page, so
+  /// Back from it lands on Home rather than on the menu.
+  Future<void> _openMenu() async {
+    final action = await Navigator.of(context).push<HomeMenuAction>(
+      MaterialPageRoute(
+        builder: (_) => HomeMenuPage(showReminder: widget.native.isSupported),
+      ),
+    );
+    if (!mounted || action == null) return;
+    switch (action) {
+      case HomeMenuAction.exploreLibrary:
+        _open(const MainNavigation());
+      case HomeMenuAction.dailyMoment:
+        _open(const DailyMomentPage(pictures: ActivityPicture.samples));
+      case HomeMenuAction.planner:
+        _open(const ActivityPlannerPage());
+      case HomeMenuAction.progress:
+        _open(const ProgressPage());
+      case HomeMenuAction.caregiverToday:
+        _open(const TodayPage());
+      case HomeMenuAction.healthyHabits:
+        _open(const HabitsPage());
+      case HomeMenuAction.reminder:
+        _open(ReminderPage(native: widget.native));
+      case HomeMenuAction.language:
+        _open(const LanguagePage());
+      case HomeMenuAction.comfortSettings:
+        unawaited(_showComfort());
+      case HomeMenuAction.guide:
+        _showGuide();
+    }
   }
 
   /// A helper (or the person) can set tile count and picture view before
@@ -188,104 +222,24 @@ class _GentleHomePageState extends State<GentleHomePage> {
         ),
       ),
       const SizedBox(height: gmSpaceLg),
-      TextButton.icon(
-        onPressed: () => _open(const MainNavigation()),
-        icon: const Icon(Icons.collections_bookmark_outlined),
-        // Centred like the line under it when it wraps.
-        label: Text(l10n.homeExploreLibrary, textAlign: TextAlign.center),
-      ),
-      Text(
-        l10n.homeLibraryOfflineNote,
-        textAlign: TextAlign.center,
-        style: theme.textTheme.bodyMedium?.copyWith(
-          color: theme.colorScheme.onSurfaceVariant,
-        ),
-      ),
-      const SizedBox(height: gmSpaceLg),
-      // The app's language: the device's language at first, then the person's
-      // own choice (see docs/engineering/localization.md).
-      Center(
-        child: TextButton.icon(
-          onPressed: () => _open(const LanguagePage()),
-          icon: const Icon(Icons.translate),
-          label: Text(l10n.languageTitle, textAlign: TextAlign.center),
-        ),
-      ),
-      // Habits linked with lower dementia risk, in plain hedged words, for any
-      // adult looking after their health (docs/specs/wellbeing.md).
-      Center(
-        child: TextButton.icon(
-          onPressed: () => _open(const HabitsPage()),
-          icon: const Icon(Icons.health_and_safety_outlined),
-          label: Text(l10n.habitsHomeButton, textAlign: TextAlign.center),
-        ),
-      ),
-      // Daily wellbeing: a short optional moment, a suggested routine and a
-      // gentle record of the days finished. Nothing is scored (Health & Fitness
-      // and Lifestyle; see docs/specs/wellbeing.md).
-      Center(
-        child: TextButton.icon(
-          onPressed: () =>
-              _open(const DailyMomentPage(pictures: ActivityPicture.samples)),
-          icon: const Icon(Icons.today_outlined),
-          label: Text(
-            l10n.wellbeingHomeDailyMoment,
-            textAlign: TextAlign.center,
-          ),
-        ),
-      ),
-      Center(
-        child: TextButton.icon(
-          onPressed: () => _open(const ActivityPlannerPage()),
-          icon: const Icon(Icons.event_note_outlined),
-          label: Text(l10n.wellbeingHomePlanner, textAlign: TextAlign.center),
-        ),
-      ),
-      Center(
-        child: TextButton.icon(
-          onPressed: () => _open(const ProgressPage()),
-          icon: const Icon(Icons.timeline),
-          label: Text(l10n.wellbeingHomeProgress, textAlign: TextAlign.center),
-        ),
-      ),
-      // For the caregiver: one hard moment, what to try, private notes.
-      Center(
-        child: TextButton.icon(
-          onPressed: () => _open(const TodayPage()),
-          icon: const Icon(Icons.volunteer_activism_outlined),
-          label: Text(l10n.todayTitle, textAlign: TextAlign.center),
-        ),
-      ),
-      // Always available, never pushed (DESIGN.md › Sharing).
+      // Always available, never pushed (DESIGN.md › Sharing). Everything else
+      // lives in the menu.
       Center(
         child: ShareWithFamilyButton(
           onPressed: () => unawaited(shareAndRemember(context.l10n)),
         ),
       ),
-      // Optional and off until a helper turns it on (GM-038).
-      if (widget.native.isSupported)
-        Center(
-          child: TextButton.icon(
-            onPressed: () => _open(ReminderPage(native: widget.native)),
-            icon: const Icon(Icons.notifications_none),
-            label: Text(l10n.commonGentleReminder),
-          ),
-        ),
     ];
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: gmToolbarHeight(context),
         title: GmTitle(l10n.appTitle),
         actions: [
-          IconButton(
-            onPressed: _showComfort,
-            icon: const Icon(Icons.tune),
-            tooltip: l10n.commonComfortSettings,
-          ),
-          IconButton(
-            onPressed: _showGuide,
-            icon: const Icon(Icons.info_outline),
-            tooltip: l10n.homeGuideTooltip,
+          // A labelled button, not an icon: the menu holds everything else.
+          TextButton.icon(
+            onPressed: _openMenu,
+            icon: const Icon(Icons.menu),
+            label: Text(l10n.menuTitle),
           ),
         ],
       ),

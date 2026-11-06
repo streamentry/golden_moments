@@ -35,7 +35,7 @@ Future<void> _playWithHints(WidgetTester tester) async {
 /// to the end, play again and back out to Home.
 Future<void> picturePackLibrary(WidgetTester tester) async {
   await launchApp(tester);
-  await tapOn(tester, find.text('Explore the picture-pack library'));
+  await tapHomeMenuItem(tester, 'Explore the picture-pack library');
   await waitFor(tester, _suggested);
   await waitFor(
     tester,

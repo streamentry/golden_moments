@@ -7,6 +7,7 @@ import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/utils/support_info.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import '../../helpers/home_menu.dart';
 import '../../helpers/l10n_helpers.dart';
 
 class _Recorder {
@@ -36,7 +37,7 @@ void main() {
     await tester.binding.setSurfaceSize(const Size(480, 4000));
     addTearDown(() => tester.binding.setSurfaceSize(null));
     await tester.pumpWidget(_app(const GentleHomePage()));
-    await tester.tap(find.byTooltip('Guide and privacy'));
+    await tapHomeMenuItem(tester, 'Guide and privacy');
     await tester.pumpAndSettle();
     await tester.tap(find.text('More help and privacy'));
     await tester.pumpAndSettle();

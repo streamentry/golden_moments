@@ -20,7 +20,7 @@ Future<void> comfortSettingsFromHome(WidgetTester tester) async {
   }
 
   await launchApp(tester);
-  await tapOn(tester, comfortSettingsButton);
+  await tapHomeMenuItem(tester, 'Comfort settings');
   await waitFor(tester, find.text('Number of tiles'));
   await checkpoint(tester, 'j3-comfort-sheet');
   await tapOn(tester, find.text('8 tiles'));
@@ -64,7 +64,7 @@ Future<void> comfortSettingsFromHome(WidgetTester tester) async {
   await waitFor(tester, startGentleGame);
 
   // Reset from Home, with a confirmation.
-  await tapOn(tester, comfortSettingsButton);
+  await tapHomeMenuItem(tester, 'Comfort settings');
   await tapOn(tester, find.text('Reset comfort settings'));
   await waitFor(tester, find.text('Reset comfort settings?'));
   await tapOn(tester, find.text('Reset'));

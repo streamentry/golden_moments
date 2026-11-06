@@ -45,7 +45,7 @@ void main() {
       await _hostCapture(tester, '03');
 
       // 5. The comfort sheet over the activity.
-      await tapOn(tester, comfortSettingsButton);
+      await tapHomeMenuItem(tester, 'Comfort settings');
       await waitFor(tester, find.text('Back to the pictures'));
       await _hostCapture(tester, '05');
       await tapOn(tester, find.text('Back to the pictures'));
@@ -76,7 +76,7 @@ void main() {
       await tapOn(tester, find.byTooltip('Back'));
 
       // 6. The included picture library.
-      await tapOn(tester, find.text('Explore the picture-pack library'));
+      await tapHomeMenuItem(tester, 'Explore the picture-pack library');
       await waitFor(tester, find.text('Suggested packs'));
       await _hostCapture(tester, '06');
     } finally {

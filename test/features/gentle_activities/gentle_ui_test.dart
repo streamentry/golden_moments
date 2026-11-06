@@ -10,6 +10,8 @@ import 'package:golden_moments/features/gentle_activities/presentation/gentle_ho
 import 'package:golden_moments/l10n/l10n.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import '../../helpers/home_menu.dart';
+
 Widget _app({double textScale = 1, Widget? home}) => MaterialApp(
   localizationsDelegates: AppLocalizations.localizationsDelegates,
   theme: gmBuildTheme(),
@@ -102,7 +104,7 @@ void main() {
     await tester.pumpWidget(_app(home: const GentleHomePage()));
     await tester.pumpAndSettle();
     // The helper prepares the experience before anyone plays.
-    await tester.tap(find.byTooltip('Comfort settings'));
+    await tapHomeMenuItem(tester, 'Comfort settings');
     await tester.pumpAndSettle();
     await tester.tap(find.text('8 tiles'));
     await tester.pumpAndSettle();
@@ -122,7 +124,7 @@ void main() {
     // Reset from Home returns to the starting choices without confusion.
     await tester.tap(find.text('Done for now'));
     await tester.pumpAndSettle();
-    await tester.tap(find.byTooltip('Comfort settings'));
+    await tapHomeMenuItem(tester, 'Comfort settings');
     await tester.pumpAndSettle();
     await tester.tap(find.text('Reset comfort settings'));
     await tester.pumpAndSettle();
