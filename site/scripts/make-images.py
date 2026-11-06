@@ -125,7 +125,10 @@ def main() -> int:
 
     with tempfile.TemporaryDirectory() as tmp:
         tmpdir = Path(tmp)
-        mark = rasterize(PUBLIC / "favicon.svg", 512, tmpdir)
+        # Use the 1024px master app icon: favicon.svg wraps a small PNG and would
+        # upscale soft at 512px.
+        master = REPO / "assets" / "icons" / "app_icon.png"
+        mark = Image.open(master).convert("RGBA").resize((512, 512), Image.LANCZOS)
         for size, name in [(180, "apple-touch-icon.png"), (192, "icon-192.png"), (512, "icon-512.png")]:
             icon = Image.new("RGBA", (size, size), PARCHMENT + (255,))
             inner = mark.resize((int(size * 0.84), int(size * 0.84)), Image.LANCZOS)
