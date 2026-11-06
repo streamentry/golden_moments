@@ -118,7 +118,7 @@ Per a més informació sobre música, vegi [activitats amb música per a la dem�
 
 | Pregunta | Opcions | Parlin-ne |
 | --- | --- | --- |
-| Les panses són... assecades. | Pruna, **raïm**, cirera | Posaven panses a les farcellines del dinar? |
+| Les panses són... assecades. | Pruna, **raïm**, cirera | Posaven panses a l’entrepà? |
 | Les prunes seques són... | **Pruna**, figa, poma | Qui de la família estimava les prunes seques? |
 | La mantega de cacauet i... | **Melmelada**, formatge, pernil | Crocant o suau? |
 | El guacamole es fa sobretot amb... | Pèsols, **alvocats**, cogombres | Quines salses sortien a les festes? |
