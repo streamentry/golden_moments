@@ -139,4 +139,4 @@ Alzheimer's Association uvádí, že přístupy bez léků se u spánkových pot
 
 ## Jak to zvládnu večer sám?
 
-Pozdní odpoledne může být nejtěžší částí dne pečujícího. Pokud můžete, požádejte člena rodiny, přítele nebo placeného pomocníka, aby několik dní v týdnu pokryl pozdní odpoledne, i jen na hodinu. Náš návod [péče o sebe](/caregiving/caregiver-self-care/) uvádí možnosti odlehčení a bezplatnou nepřetržitou linku Alzheimer's Association.
+Pozdní odpoledne může být nejtěžší částí dne pečujícího. Pokud můžete, požádejte člena rodiny, přítele nebo placeného pomocníka, aby několik dní v týdnu pokryl pozdní odpoledne, i jen na hodinu. Náš návod [péče o sebe](/caregiving/caregiver-self-care/) uvádí možnosti odlehčení a bezplatnou linku Alzheimer's Association 24/7.

@@ -74,7 +74,7 @@ Jedno povzbudivé znamení: Komise Lancet z roku 2024 uvedla, že v některých 
 
 Komise Lancet pro prevenci, léčbu a péči o demenci je skupina 27 výzkumníků demence, kteří hodnotí důkazy každých několik let. Jejich zpráva z roku 2024 pojmenovala **14 rizikových faktorů**, které lze potenciálně změnit, a odhadla, že společně souvisejí s **zhruba polovinou (asi 45%) případů demence na světě**. Podle slov autorů by tyto případy *teoreticky* mohly být předcházeny nebo oddáleny, kdyby se rizika odstranila ([zpráva Komise Lancet z roku 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-Rizikové faktory, seskupené podle životní fáze, ve které jsou důkazy nejsilnější:
+Těchto 14 rizikových faktorů, seskupených podle životní fáze, ve které jsou důkazy nejsilnější:
 
 - **Raný věk:** méně vzdělání.
 - **Střední věk (zhruba 40 až 65 let):** ztráta sluchu, vysoký LDL („špatný“) cholesterol, deprese, poranění hlavy, nedostatek pohybu, cukrovka, kouření, vysoký krevní tlak, obezita a nadměrné pití alkoholu.
