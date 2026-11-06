@@ -130,7 +130,7 @@ NIA foreslår:
 6. **Én person om gangen.** I en gruppe, sørg for å inkludere personen.
 7. **Vær tålmodig, og spør hvordan du kan hjelpe.**
 
-Disse rådene fungerer godt sammen med våre [tips om kommunikasjon ved demens](/caregiving/communication-tips/). Bildebaserte aktiviteter tar også press av å måtte høre godt. [Fotopar](/games/picture-pairs/) og [Samtalekort](/games/conversation-cards/) fungerer gjennom det du ser, og [Fullfør ordtaket](/games/finish-the-saying/) lar deg vise slutten i stedet for å si den. For samtaler, se vår veiledning om [telefon- og videosamtaler](/activities/phone-and-video-calls/).
+Disse rådene fungerer godt sammen med våre [tips om kommunikasjon ved demens](/caregiving/communication-tips/). Bildebaserte aktiviteter tar også press av å måtte høre godt. [Bildepar](/games/picture-pairs/) og [Samtalekort](/games/conversation-cards/) fungerer gjennom det du ser, og [Fullfør ordtaket](/games/finish-the-saying/) lar deg vise slutten i stedet for å si den. For samtaler, se vår veiledning om [telefon- og videosamtaler](/activities/phone-and-video-calls/).
 
 ## Synet betyr også noe
 

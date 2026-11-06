@@ -136,7 +136,7 @@ Det du bør unngå: tidtaking, poeng, rekker og alt som føles som en hukommelse
 
 ## Hvor Golden Moments passer inn
 
-Golden Moments-spill, som [Fotopar](/games/picture-pairs/), [Bildepuslespill](/games/picture-puzzle/) og [Ordsøk i stor skrift](/games/word-search/), er laget for glede og felles tid. De har ingen klokke og ingen poeng. De er **ikke** en behandling, og de **forebygger ikke** demens og **bremser ikke** den. Vi vil heller si dette rett ut enn love noe ingen spill kan levere.
+Golden Moments-spill, som [Bildepar](/games/picture-pairs/), [Bildepuslespill](/games/picture-puzzle/) og [Ordsøk i stor skrift](/games/word-search/), er laget for glede og felles tid. De har ingen klokke og ingen poeng. De er **ikke** en behandling, og de **forebygger ikke** demens og **bremser ikke** den. Vi vil heller si dette rett ut enn love noe ingen spill kan levere.
 
 ## Snakk med en lege
 

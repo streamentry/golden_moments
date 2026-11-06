@@ -117,7 +117,7 @@ Stadiene overlapper hverandre, og gode og vanskelige dager er normale.
 | --- | --- | --- |
 | Tidlig | Kjente puslespill med færre brikker enn før, kryssord og ordsøk med stor skrift, nettpuslespill med 9 brikker | Partner: la dem velge, hjelp når du blir bedt om det |
 | Midtfase | Puslespill med et dusin store brikker, nettpuslespill med 4 brikker, ordsøk lest høyt sammen | Legg til rette, sorter brikker, gi fra deg én om gangen |
-| Sen fase | Se på et ferdig bilde sammen, Finn det samme med to bilder, håndtere noen få store brikker | Ta det til dem; din selskap er aktiviteten |
+| Sen fase | Se på et ferdig bilde sammen, Finn det samme med to bilder, håndtere noen få store brikker | Ta det til dem; ditt selskap er aktiviteten |
 
 ## Når bør du gjøre et puslespill enklere, eller stoppe?
 
