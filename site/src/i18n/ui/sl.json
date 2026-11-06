@@ -1,0 +1,533 @@
+{
+  "common": {
+    "skipLink": "Preskoči na glavno vsebino",
+    "brandName": "Golden Moments",
+    "brandTag": "Dejavnosti ob demenci",
+    "homeLabel": "Golden Moments, domača stran",
+    "mainNav": "Glavni meni",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: velike, prijazne slike skodelice za čaj, sončnice in psa",
+    "languages": "Jezik",
+    "englishOnly": "(angleško)",
+    "machineTranslated": "Ta stran je bila prevedena samodejno in je domači govorec še ni pregledal.",
+    "readOriginal": "Preberite izvirnik v angleščini",
+    "nav": {
+      "games": "Igre",
+      "activities": "Dejavnosti",
+      "caregiving": "Oskrba",
+      "brainHealth": "Zdravje možganov"
+    },
+    "faqTitle": "Vprašanja in odgovori",
+    "breadcrumb": "Drobtinice",
+    "home": "Domov",
+    "lastUpdated": "Nazadnje posodobljeno",
+    "topics": "Teme"
+  },
+  "footer": {
+    "play": "Igraj",
+    "picturePairs": "Pari slik",
+    "conversationCards": "Kartice za pogovor",
+    "pictureBingo": "Bingo s slikami",
+    "allGames": "Vse igre",
+    "activityIdeas": "Zamisli za dejavnosti",
+    "ideas101": "101 zamisel za dejavnosti",
+    "lateStage": "Dejavnosti v poznejši fazi",
+    "printable": "Dejavnosti za tiskanje",
+    "allActivities": "Vse dejavnosti",
+    "forCaregivers": "Za skrbnike",
+    "playTogether": "Kako igrati skupaj",
+    "selfCare": "Skrb zase",
+    "brainHealth": "Raziskave o zdravju možganov",
+    "faq": "Vprašanja in odgovori",
+    "about": "O nas",
+    "approach": "Naš pristop",
+    "howWeWrite": "Kako pišemo",
+    "organizations": "Za organizacije",
+    "app": "Aplikacija Golden Moments",
+    "appHelp": "Pomoč za aplikacijo",
+    "support": "Podpora",
+    "legal": "Pravno",
+    "sitePrivacy": "Zasebnost na spletnem mestu",
+    "appPrivacy": "Politika zasebnosti aplikacije",
+    "privacyChoices": "Izbire glede zasebnosti",
+    "terms": "Pogoji in licenca aplikacije",
+    "safety": "Varnost in predvidena uporaba",
+    "accessibility": "Dostopnost",
+    "healthNotice": "Obvestilo o zdravstvenih informacijah",
+    "allLegal": "Vse pravne informacije",
+    "note": "Golden Moments ponuja preproste skupne dejavnosti za veselje. Ni zdravniški nasvet, test ali zdravljenje in nikogar ne diagnosticira, meri ali ocenjuje. Za zdravstvena vprašanja se pogovorite z zdravnikom. V nujnem primeru pokličite 112.",
+    "publisher": "Izdajatelj: Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Igre in dejavnosti za demenco in Alzheimerjevo bolezen | Golden Moments",
+    "description": "Brezplačne, nežne igre s slikami na spletu in zamisli za dejavnosti za osebe z demenco ali Alzheimerjevo boleznijo in njihove skrbnike. Brez prijave in točk.",
+    "eyebrow": "Brezplačno · Brez oglasov · Brez prijave · Brez časovnikov in točk",
+    "h1": "Nežne igre in dejavnosti za osebe z demenco",
+    "lede": "Preproste igre s slikami, znane fotografije in dejavnosti za skupno uživanje, v vašem tempu.",
+    "playGame": "Igraj igro",
+    "findIdeas": "Poiščite zamisli za dejavnosti",
+    "facts": [
+      "Deluje na telefonu, tablici in računalniku",
+      "Velike slike, ki ostanejo vidne",
+      "Ustavite se kadar koli; ni ničesar, kar bi lahko spodletelo"
+    ],
+    "heroApp": "Tudi brezplačna aplikacija za iPhone, iPad in Android, z vašimi družinskimi fotografijami",
+    "albumNote": "„Dve sliki skodelice, skupaj.“",
+    "gamesEyebrow": "Igrajte v brskalniku",
+    "gamesTitle": "Igre, ki jih lahko igrate takoj",
+    "gamesLede": "Vsaka je mirna, primerna za odrasle in hitra za začetek. Izberite eno, sedite drug ob drugem in se izmenjujte pri tapanju.",
+    "seeAllGames": "Poglej vseh {count} iger",
+    "howTitle": "Kako deluje",
+    "steps": [
+      {
+        "title": "Izberite kaj znanega",
+        "text": "Slike skodelic, vrtov, hišnih ljubljenčkov in jadrnic. Ni treba brati ali se učiti pravil."
+      },
+      {
+        "title": "Sedite drug ob drugem",
+        "text": "Naj tapa oseba, ki ji pomagate. Pogovarjajte se o slikah. Slika, ki se ne ujema, preprosto počaka na naslednji tap."
+      },
+      {
+        "title": "Nehajte, ko je še lepo",
+        "text": "Ena igra je že popolna dejavnost. Gumb „Dovolj za zdaj“ je vedno na zaslonu."
+      }
+    ],
+    "stageEyebrow": "Onkraj zaslona",
+    "stageTitle": "Zamisli za dejavnosti v vsaki fazi",
+    "stageLede": "Glasba, vsakdanja opravila, obujanje spominov in tihi čutni trenutki, prilagojeni temu, kar je zdaj udobno.",
+    "ideas101": "101 zamisel za dejavnosti",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Zgodnja faza",
+        "text": "Počnite še naprej, kar imajo radi, z majhnimi prilagoditvami: konjički, izleti, besedne igre in skupno načrtovanje.",
+        "label": "Zamisli za zgodnjo fazo"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Srednja faza",
+        "text": "Preprosta, znana opravila, razdeljena na korake: zlaganje, razvrščanje, glasba, igre s slikami in kratki sprehodi.",
+        "label": "Zamisli za srednjo fazo"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Poznejša faza",
+        "text": "Ugodje in povezanost prek dotika, zvoka in pogleda: nega rok, priljubljene pesmi, fotografije in biti skupaj.",
+        "label": "Zamisli za poznejšo fazo"
+      }
+    ],
+    "specificHtml": "Iščete kaj posebnega? Poskusite <a href=\"/activities/alzheimers/\">dejavnosti in igre ob Alzheimerjevi bolezni</a>, <a href=\"/activities/memory-games/\">nežne igre za spomin</a>, <a href=\"/activities/trivia/\">preproste zanimivosti</a> ali <a href=\"/activities/puzzles/\">sestavljanke</a>.",
+    "approachEyebrow": "Naš pristop",
+    "approachTitle": "Skupna dejavnost, ne preizkus spomina",
+    "approachLede": "Mnoge „igre za možgane“ so zgrajene okoli hitrosti, točk in zaporedij zmag. Za osebo z demenco je to lahko kot izpit. Mi smo naredili nasprotno.",
+    "approachLink": "Zakaj tako oblikujemo",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Nič ne more spodletiti",
+        "text": "Brez ure, točk, življenj in izgubljanja. Drugačna slika je premor, ne napaka."
+      },
+      {
+        "icon": "eye",
+        "title": "Slike ostanejo vidne",
+        "text": "Prepoznavanje namesto priklica. Iskanje parov se začne z obrnjenimi slikami navzgor, zato si ni treba ničesar zapomniti."
+      },
+      {
+        "icon": "people",
+        "title": "Odraslo in dostojanstveno",
+        "text": "Tople, preproste besede in slike iz resničnega sveta. Nikoli risanke ali otročje govorjenje."
+      },
+      {
+        "icon": "shield",
+        "title": "Zasebno že po zasnovi",
+        "text": "Brez računov in oglasov. Vaše fotografije nikoli ne zapustijo vaše naprave."
+      }
+    ],
+    "guidesEyebrow": "Za skrbnike",
+    "guidesTitle": "Praktični vodniki za vsakdanjo oskrbo",
+    "allCaregiving": "Vsi vodniki za oskrbo",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Kako igrati igre skupaj",
+        "text": "Priprava, tempo in kaj storiti, ko igra ni več prijetna."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Kadar dejavnost zavrnejo",
+        "text": "Pogosti razlogi za zavrnitev in nežni načini, kako poskusiti znova pozneje."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Priprava tablice",
+        "text": "Večje besedilo, manj motenj in en sam preprost domači zaslon."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Brezplačne dejavnosti za tiskanje",
+        "text": "Iskanje besed v velikem tisku, pobarvanke, bingo in kartice za pogovor."
+      }
+    ],
+    "researchTitle": "Zdravje možganov: kaj pravijo raziskave",
+    "researchText": "Ali je demenco mogoče preprečiti? Ali pomagajo igre za možgane? Kaj pa post, prehrana, spanje in sluh? Jasni odgovori z viri, tudi o tem, kje so dokazi šibki.",
+    "researchLink": "Preberite vodnike o raziskavah",
+    "appEyebrow": "Tudi aplikacija",
+    "appTitle": "Golden Moments na iPhonu, iPadu in Androidu",
+    "appText": "Brezplačna aplikacija deluje brez povezave in lahko uporabi družinske fotografije, ki jih izberete, shranjene kot kopije v vaši napravi. Enaka mirna zasnova: štiri velike ploščice, brez časovnika, brez točk.",
+    "aboutApp": "O aplikaciji",
+    "faq": [
+      {
+        "q": "Katere igre so dobre za osebe z demenco?",
+        "a": "Dobre igre so preproste, znane in brez pritiska: velike slike za iskanje parov, razvrščanje, lahke sestavljanke, dokončanje znanih rekov, barvanje, bingo s slikami in kartice za pogovor. Najboljša je tista, ki jo oseba danes uživa. Izogibajte se časovnikom, točkam in vsemu, kar je podobno preizkusu."
+      },
+      {
+        "q": "So te igre za demenco brezplačne?",
+        "a": "Da. Vse igre in gradiva za tiskanje na Golden Moments so brezplačne, brez računa, prijave ali prenosa. Igre delujejo v spletnem brskalniku na telefonu, tablici ali računalniku."
+      },
+      {
+        "q": "Ali igre za možgane preprečujejo demenco?",
+        "a": "Za nobeno igro ni dokazano, da preprečuje demenco, in Golden Moments ne trdi, da karkoli zdravi ali preprečuje. Naše igre so za veselje in čas, preživet skupaj. Naš razdelek o zdravju možganov pojasnjuje, kaj raziskave kažejo in česa ne."
+      },
+      {
+        "q": "So te igre primerne za osebo z Alzheimerjevo boleznijo?",
+        "a": "Da. Alzheimerjeva bolezen je najpogostejši vzrok demence in igre so narejene zanjo: velike slike, ki ostanejo vidne, malo izbir in nič, česar bi si bilo treba zapomniti ali kar bi lahko storili narobe. Iskanje parov, razvrščanje in dokončanje znanih rekov se opirajo na dolgo znano, ne na novo učenje."
+      },
+      {
+        "q": "Ali lahko te dejavnosti uporablja oseba s poznejšo fazo demence?",
+        "a": "Pogosto da, ob družbi nekoga zraven. Začnite z igro Poišči enako z dvema slikama, Pari slik s štirimi ploščicami, pobarvanko ali mirnim dihalnim premorom. Naj bo kratko, sledite njihovemu tempu in nehajte, ko jim je dovolj."
+      },
+      {
+        "q": "So moji podatki zasebni?",
+        "a": "Spletno mesto nima računov in oglasov. Uporabljamo Google Analytics, da razumemo, katere strani so obiskane. Fotografije, ki jih izberete za Pare fotografij, so prikazane samo v vašem brskalniku in se nikoli ne naložijo."
+      },
+      {
+        "q": "Kdo ustvarja Golden Moments?",
+        "a": "Golden Moments je majhna ekipa, ki za družine in skrbnike ustvarja mirne dejavnosti s slikami za odrasle, na spletu in kot brezplačno aplikacijo. Nismo zdravniki in nič tukaj ni zdravniški nasvet."
+      }
+    ]
+  },
+  "stage": {
+    "early": "zgodnji",
+    "middle": "srednji",
+    "late": "poznejši",
+    "hintOne": "Pogosto ustreza fazi: {list}",
+    "hintMany": "Pogosto ustreza fazam: {list}",
+    "labelEarly": "Zgodnja faza",
+    "labelMiddle": "Srednja faza",
+    "labelLate": "Poznejša faza"
+  },
+  "cards": {
+    "aboutGame": "O tej igri",
+    "printable": "Za tiskanje",
+    "play": "Igraj {name} →",
+    "readGuide": "Preberi vodnik"
+  },
+  "playCta": {
+    "title": "Ste pripravljeni na nežno igro?",
+    "text": "Velike slike, brez časovnika, brez točk in brez prijave. Igrajte skupaj v brskalniku.",
+    "play": "Igraj igro",
+    "all": "Poglej vse igre",
+    "aria": "Igraj igro"
+  },
+  "appCta": {
+    "title": "Vzemite te igre s seboj",
+    "text": "Brezplačna aplikacija Golden Moments za iPhone, iPad in Android: velike ploščice s slikami, igre z vašimi družinskimi fotografijami in paketi slik, ki delujejo brez omrežja Wi‑Fi. Brez računa, oglasov, časovnika in točk.",
+    "appStore": "Prenesite v App Store",
+    "googlePlay": "Prenesite v Google Play",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "O aplikaciji",
+    "aria": "Pridobite aplikacijo"
+  },
+  "sections": {
+    "activities": {
+      "label": "Dejavnosti",
+      "title": "Dejavnosti za osebe z demenco",
+      "seo": "Dejavnosti za osebe z demenco: zamisli po fazah",
+      "description": "Zamisli za dejavnosti za osebe z demenco v vsaki fazi: glasba, obujanje spominov, vsakdanja opravila, čutni trenutki, ustvarjanje in gradiva za tiskanje.",
+      "lede": "Smiselna dejavnost je vse, kar prinese ugodje, namen ali trenutek povezanosti. Začnite pri tem, kar je oseba vedno rada počela, in to prilagodite današnjemu dnevu."
+    },
+    "caregiving": {
+      "label": "Oskrba",
+      "title": "Vodniki za oskrbo",
+      "seo": "Vodniki za oskrbo ob demenci: praktična vsakdanja pomoč",
+      "description": "Praktični, prijazni vodniki za skrbnike oseb z demenco: skupno igranje, pogovor, zavrnitve, nemir proti večeru, tablice, izbira aplikacij in skrb zase.",
+      "lede": "Preprosta, praktična pomoč za vsakdanje trenutke oskrbe osebe z demenco, vključno s skrbjo zase."
+    },
+    "brain-health": {
+      "label": "Zdravje možganov",
+      "title": "Zdravje možganov: kaj pravijo raziskave",
+      "seo": "Zdravje možganov in tveganje za demenco: kaj pravijo raziskave",
+      "description": "Ali je demenco mogoče preprečiti? Iskreni vodniki z viri o dejavnikih tveganja, igrah za možgane, postu, prehrani, gibanju, spanju in sluhu.",
+      "lede": "Kaj velike študije dejansko kažejo o zmanjševanju tveganja za demenco, jasno razloženo, tudi tam, kjer so dokazi šibki ali mešani. Splošne informacije, ne zdravniški nasvet."
+    }
+  },
+  "guide": {
+    "updated": "Posodobljeno",
+    "minuteRead": "{n} min branja",
+    "byTeam": "Ekipa Golden Moments",
+    "howWeWrite": "Kako pišemo",
+    "shortAnswer": "Kratek odgovor",
+    "onThisPage": "Na tej strani ({n} razdelkov)",
+    "commonQuestions": "Pogosta vprašanja",
+    "sources": "Viri",
+    "sourcesNote": "Povezujemo na organizacije in študije, na katere se ta stran opira. Vsak vir je bil preverjen ob posodobitvi strani.",
+    "tryTogether": "Poskusite skupaj",
+    "relatedGuides": "Sorodni vodniki",
+    "related": "Sorodno",
+    "startHere": "Začnite tukaj"
+  },
+  "healthNotice": {
+    "aria": "Obvestilo o zdravstvenih informacijah",
+    "title": "Splošne informacije, ne zdravniški nasvet",
+    "textHtml": "Ta stran povzema objavljene raziskave za družine. Ne more vam povedati, kaj je prav za posamezno osebo. Pred spremembo prehrane, gibanja, spanja, zdravil ali prehranskih dopolnil se posvetujte z zdravnikom. Ob nenadni zmedenosti ali drugih nenadnih spremembah takoj poiščite zdravniško pomoč. <a href=\"/medical-disclaimer/\">Preberite naše obvestilo o zdravstvenih informacijah</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Skupna dejavnost, ne preizkus spomina",
+      "seoTitle": "O Golden Moments: naš pristop",
+      "description": "Zakaj igre Golden Moments nimajo časovnikov, točk in zaporedij, zakaj slike ostanejo vidne ter kaj o demenci bomo in česa ne bomo trdili.",
+      "crumb": "Naš pristop",
+      "lede": "Golden Moments ustvarja mirne dejavnosti s slikami za odrasle, v katerih lahko skrbnik in oseba z demenco uživata drug ob drugem.",
+      "bodyHtml": "<h2>V kaj verjamemo</h2><p>Bistvo dejavnosti je sam trenutek: pogovor, nasmeh, zadovoljstvo ob združitvi dveh slik ali preprosto sedenje blizu. Ni namenjena merjenju koga, prigovarjanju, naj stori več, ali dokazovanju česar koli.</p><p>Mnoge aplikacije za urjenje možganov so zasnovane okoli hitrosti, točk, zaporedij in stopenj. Za osebo z demenco je to lahko kot izpit, ki ga ne more opraviti. Mi smo zasnovali nasprotno in se držimo teh pravil:</p><ul><li><strong>Nič ne more spodletiti.</strong> Brez ure, točk, števca potez, življenj, zaporedij, konfetov ali odštevanja, na nobenem zaslonu.</li><li><strong>Prepoznavanje namesto priklica.</strong> Slike so privzeto vidne. Namigi vabijo k pogovoru in nikoli ne sprašujejo po imenih ali spominih.</li><li><strong>Veliko, preprosto in stalno.</strong> Veliko besedilo in slike, visok kontrast ter kontrolniki, ki ostanejo na istem mestu.</li><li><strong>Dostojanstvo odraslih.</strong> Slike iz resničnega sveta in preproste, tople besede. Brez risank, pojočih pohval ali nagrad z emojiji.</li><li><strong>Lahek izhod.</strong> Gumb „Dovolj za zdaj“ je vedno viden. Ustaviti se na pol poti je dober izid.</li><li><strong>Zasebno privzeto.</strong> Brez računov in oglasov. Fotografije, ki jih izberete, ostanejo v vaši napravi.</li></ul><h2>Česa ne trdimo</h2><p>Naše igre so za veselje in povezanost. Ne diagnosticirajo, ne preverjajo, ne merijo, ne zdravijo, ne upočasnjujejo in ne preprečujejo demence ali Alzheimerjeve bolezni in nihče naj jih ne izbira iz tega razloga. Ko na svojih <a href=\"/brain-health/\">straneh o zdravju možganov</a> pišemo o raziskavah, jasno povemo, kje so dokazi šibki, in jih nikoli ne povezujemo z lastnimi igrami.</p><h2>Kdo smo</h2><p>Golden Moments je majhna neodvisna ekipa. Nismo zdravniki. Naši vodniki so napisani po objavljenih smernicah organizacij, kot sta National Institute on Aging in Alzheimer’s Association, in vsak vodnik navaja svoje vire. Preberite, <a href=\"/editorial-policy/\">kako pišemo in preverjamo svoje strani</a>.</p><h2>Povejte nam, kaj bi pomagalo</h2><p>Radi bi slišali, kaj vam deluje in kaj ne, zlasti od oseb z demenco, družinskih skrbnikov in osebja, ki izvaja dejavnosti. Pišite na <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Kako pišemo in preverjamo svoje strani",
+      "seoTitle": "Uredniška politika",
+      "description": "Kako Golden Moments raziskuje, piše, navaja vire in posodablja strani o dejavnostih ob demenci in zdravju možganov ter česa ne bomo nikoli objavili.",
+      "crumb": "Uredniška politika",
+      "bodyHtml": "<h2>Naši viri</h2><p>Svoje vodnike gradimo na javnih smernicah organizacij, kot so National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance in NHS, ter na recenziranih raziskavah, kot so pregledi Cochrane in velika klinična preskušanja. Vsak vodnik navaja vire, na katere se opira. Vsak vir odpremo, preden ga navedemo, in poročamo samo, kar res piše v njem.</p><h2>Kako pišemo</h2><ul><li>Najprej praktično: kaj storiti danes, v preprostem jeziku.</li><li>Iskreni o dokazih: rečemo „povezano z“, „lahko“ in „dokazi so mešani“, kadar je to resnica.</li><li>Spoštljivo: o osebah z demenco pišemo kot o odraslih in nikoli ne uporabljamo spraševalnega ali ponižujočega jezika.</li><li>Brez izmišljene vsebine: brez izmišljene statistike, navedkov, strokovnjakov, študij, ocen ali pričevanj.</li></ul><h2>Kdo pregleduje naše strani</h2><p>Strani piše in preverja ekipa Golden Moments, ob pomoči orodij umetne inteligence za raziskovanje in pisanje osnutkov. Ekipa vsako stran preveri glede na njene vire. Naših strani zdravnik ali drug zdravstveni strokovnjak <strong>ni</strong> pregledal in ne trdimo drugače. So splošne informacije, ne zdravniški nasvet.</p><h2>Česa ne bomo nikoli objavili</h2><ul><li>Trditev, da igra, hrana, dopolnilo, post ali rutina preprečuje, zdravi, upočasnjuje ali pozdravi demenco.</li><li>Testov, kvizov ali točk, ki nakazujejo, da ima nekdo demenco ali je nima.</li><li>Nasvetov o začetku, opustitvi ali spremembi katerega koli zdravila.</li><li>Oglaševanja ali sponzorirane vsebine, preoblečene v nasvete.</li></ul><h2>Posodobitve in popravki</h2><p>Vsaka stran prikazuje datum zadnje posodobitve. Če najdete napako ali zastarel vir, pišite na <a href=\"mailto:{email}\">{email}</a> in hitro bomo preverili.</p>"
+    },
+    "faq": {
+      "title": "Vprašanja in odgovori",
+      "seoTitle": "Igre in dejavnosti za demenco: vprašanja in odgovori",
+      "description": "Odgovori na pogosta vprašanja o igrah in dejavnostih za demenco: katere igre poskusiti, kako dolgo igrati, zamisli za poznejšo fazo, zdravje možganov in zasebnost.",
+      "crumb": "Vprašanja in odgovori",
+      "lede": "Kratki, jasni odgovori na vprašanja, ki jih skrbniki zastavljajo najpogosteje.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "O igrah",
+          "items": [
+            {
+              "q": "Katere so najboljše igre za osebo z demenco?",
+              "a": "Najboljše igre so znane, preproste in brez pritiska, prava pa je tista, ki jo oseba danes uživa. Iskanje parov z vidnimi slikami, razvrščanje, lahke sestavljanke, dokončanje znanih rekov, barvanje in bingo s slikami so za mnoge ljudi primerni. Izogibajte se časovnikom, točkam in vsemu, kar je podobno preizkusu."
+            },
+            {
+              "q": "So igre res brezplačne?",
+              "a": "Da. Vse igre in gradiva za tiskanje so brezplačna, brez računa, prijave, prenosa ali oglaševanja."
+            },
+            {
+              "q": "Zakaj ni točk, stopenj ali časovnikov?",
+              "a": "Hitrost in točke prijetno dejavnost spremenijo v izpit, kar lahko prinese zadrego ali razočaranje. Poudarek ostaja na veselju in skupnem času, zato ni ničesar, kar bi lahko spodletelo, in se lahko ustavite kadar koli."
+            },
+            {
+              "q": "Na katerih napravah deluje najbolje?",
+              "a": "Na vsakem telefonu, tablici ali računalniku s sodobnim spletnim brskalnikom. Tablica na stojalu na mizi je pogosto najudobnejši način, da dve osebi igrate drug ob drugem. Prenosnik, povezan s televizorjem, je dober za skupine."
+            },
+            {
+              "q": "Ali lahko igramo z lastnimi družinskimi fotografijami?",
+              "a": "Da. Pari fotografij iz 2 do 6 fotografij, ki jih izberete, naredijo igro iskanja parov. Fotografije ostanejo v vašem brskalniku in se ne naložijo ali shranijo."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Dejavnosti in oskrba",
+          "items": [
+            {
+              "q": "Kako dolgo naj traja dejavnost?",
+              "a": "Pogosto je 10 do 20 minut povsem dovolj, včasih pa so uspeh že 2 minuti. Pazite na znake utrujenosti ali razočaranja in nehajte, ko je še prijetno. Prave količine ni."
+            },
+            {
+              "q": "Kaj, če dejavnosti ne želijo početi?",
+              "a": "Spoštujte ne in poskusite pozneje ali na drug način. Zavrnitev lahko izvira iz utrujenosti, bolečine, negotovosti ali preprosto nezanimanja. Oglejte si naš vodnik o tem, kaj storiti, ko rečejo ne."
+            },
+            {
+              "q": "Katere dejavnosti ustrezajo poznejši fazi demence?",
+              "a": "Ugodje in čuti: poslušanje priljubljene glasbe, masaža rok z losjonom, skupno ogledovanje fotografij, držanje mehke odeje, sedenje zunaj ali zelo preprosta igra s slikami z nekom ob strani. Naš vodnik za poznejšo fazo vsebuje še veliko zamisli."
+            },
+            {
+              "q": "Ali obstajajo dejavnosti za skupine v domu starejših?",
+              "a": "Da. Bingo s slikami ima kartice za tiskanje in klicatelja na zaslonu, Dokončaj rek in Kartice za pogovor pa sta primerna za glasno branje. Naš vodnik za skupine v domovih obravnava velikost skupine, sedenje in prilagoditev za različne zmožnosti."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Zdravje možganov",
+          "items": [
+            {
+              "q": "Ali igre lahko preprečijo ali upočasnijo demenco?",
+              "a": "Za nobeno igro ni dokazano, da preprečuje demenco, in naše igre tega ne trdijo. Kognitivna stimulacija v družabnem okolju je v raziskavah pokazala majhne koristi za osebe z blago do zmerno demenco, a to ni isto kot igra, ki preprečuje bolezen. Igre ponujamo za veselje in povezanost."
+            },
+            {
+              "q": "Ali je demenco mogoče preprečiti?",
+              "a": "Ne z gotovostjo. Raziskave povezujejo 14 zdravstvenih dejavnikov in dejavnikov življenjskega sloga s tveganjem za demenco, na primer izgubo sluha, visok krvni tlak, telesno nedejavnost in družbeno izolacijo. Ukrepanje glede njih lahko pri nekaterih zmanjša tveganje, a mnogi, ki storijo vse prav, kljub temu zbolijo za demenco. Nikoli ni nikogar krivda."
+            },
+            {
+              "q": "Ali je občasni post dober za zdravje možganov?",
+              "a": "Dokazov pri ljudeh je malo in so zgodnji, velik del raziskav pa je na živalih. Post je lahko tvegan za starejše, zlasti ob zdravilih za sladkorno bolezen ali nenamernem hujšanju, in ni priporočen za osebe z demenco. Preden spremenite prehranjevanje, se posvetujte z zdravnikom."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Zasebnost in varnost",
+          "items": [
+            {
+              "q": "Ali zbirate kakršne koli podatke?",
+              "a": "Brez računov in oglasov. Uporabljamo Google Analytics za štetje obiskov in ugotavljanje, katere strani pomagajo, vaš brskalnik pa si zapomni, ali ste vklopili tihe zvoke. Fotografije, ki jih izberete za Pare fotografij, se nikoli ne naložijo. Podrobnosti so v obvestilu o zasebnosti."
+            },
+            {
+              "q": "Je to zdravniški nasvet?",
+              "a": "Ne. Golden Moments je namenjen prostemu času in splošnim informacijam. Za zdravstvena vprašanja se pogovorite z zdravnikom, v nujnih primerih pa pokličite 112."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Več podrobnosti: <a href=\"/caregiving/how-to-play-together/\">kako igrati skupaj</a>, <a href=\"/caregiving/when-they-say-no/\">kadar rečejo ne</a>, <a href=\"/activities/late-stage/\">dejavnosti v poznejši fazi</a> in <a href=\"/brain-health/can-dementia-be-prevented/\">ali je demenco mogoče preprečiti?</a>"
+    },
+    "handout": {
+      "title": "Brezplačne, nežne igre za osebe z demenco",
+      "seoTitle": "Letak za tiskanje: brezplačne igre za demenco na spletu",
+      "description": "Enostranski letak za tiskanje za družine in skrbnike o brezplačnih, nežnih igrah s slikami za osebe z demenco, za podporne skupine in informacijske mape.",
+      "crumb": "Letak za tiskanje",
+      "lede": "Natisnite to stran za podporno skupino, informacijsko mapo ali vrata hladilnika. Uporabite ukaz Natisni v brskalniku; menijev in gumbov na izpisu ni.",
+      "introHtml": "<p>Velike slike, preproste besede in nič, kar bi lahko spodletelo. Brezplačno na telefonu, tablici ali računalniku, brez prijave, oglasov, časovnikov in točk. Sedite drug ob drugem in se izmenjujte.</p>",
+      "gamesTitle": "Igre za skupno igranje",
+      "restHtml": "<h2>Nekaj nasvetov</h2><ul><li>Izberite del dneva, ko je oseba v najboljši formi.</li><li>Začnite z najlažjo nastavitvijo. Štiri ploščice povsem zadostujejo.</li><li>Pogovarjajte se o slikah. Pogovor je pogosto najlepši del.</li><li>Nehajte, dokler je še prijetno. Zgodnji konec je dober izid.</li></ul><h2>Tudi na spletnem mestu</h2><ul><li>Brezplačna gradiva za tiskanje: iskanje besed v velikem tisku, pobarvanke, kartice za pogovor in bingo s slikami.</li><li>Zamisli za dejavnosti v vsaki fazi ter vodniki o skupnem igranju in skrbi zase.</li></ul><p class=\"muted\">Za veselje in skupni čas. Ni zdravniški nasvet, test ali zdravljenje. Golden Moments izdaja Cloudjet Solutions Pte. Ltd.</p>"
+    },
+    "organizations": {
+      "title": "Za domove starejših, knjižnice in podporne skupine",
+      "seoTitle": "Brezplačne dejavnosti za demenco za domove in skupine",
+      "description": "Kako domovi starejših, dnevni centri, knjižnice in podporne skupine uporabljajo naše brezplačne igre za demenco, z besedilom za seznam virov.",
+      "crumb": "Za organizacije",
+      "lede": "Vse na tem spletnem mestu je brezplačno za uporabo s stanovalci, člani in uporabniki, brez računa, licence ali pristojbine. Ta stran pojasnjuje, kaj je tu in kako to deliti.",
+      "shortText": "{name}: brezplačne, nežne igre s slikami in vodniki za dejavnosti za osebe z demenco in njihove skrbnike. Brez prijave, časovnikov in točk.",
+      "longText": "{name} ({domain}) ponuja {count} brezplačnih iger v brskalniku, narejenih za osebe z demenco, med njimi iskanje parov z vidnimi slikami, lahko sestavljanko, razvrščanje, znane reke in bingo s slikami s karticami za tiskanje. Računa, oglasov, časovnika in točk ni. Spletno mesto ima tudi vodnike za dejavnosti v preprostem jeziku za vsako fazo demence, ki navajajo National Institute on Aging in Alzheimer's Association.",
+      "useTitle": "Kaj lahko organizacije uporabijo",
+      "gamesItemHtml": "<strong>{count} iger v brskalniku</strong>, ki delujejo na prenosniku, tablici ali televizorju, povezanem z računalnikom. Brez namestitve, računa ali prenosa. Oglejte si <a href=\"/games/\">vse igre</a>.",
+      "printablesLabel": "{count} gradiv za tiskanje:",
+      "printablesAfter": "Uporabite gumb Natisni na vsaki strani.",
+      "moreItemsHtml": "<li><strong>Oblike za skupine:</strong> <a href=\"/games/picture-bingo/\">Bingo s slikami</a> ima kartice za tiskanje in klicatelja na zaslonu, <a href=\"/activities/trivia/\">preproste zanimivosti</a> pa 50 vprašanj z možnimi odgovori in izhodišči za pogovor.</li><li><strong>Vodniki za dejavnosti</strong> za osebje in družine, po fazah in vrstah, napisani v preprostem jeziku z viri. Začnite pri <a href=\"/activities/ideas/\">101 zamisli za dejavnosti</a> ali <a href=\"/activities/care-home-groups/\">skupinskih dejavnostih za domove starejših</a>.</li>",
+      "restHtml": "<h2>Kako jo uporabljajo skupine</h2><ul><li><strong>Domovi starejših in oskrba ob spominskih težavah:</strong> bingo s slikami ali dokončanje rekov na televizorju v dnevnem prostoru, pri čemer ena oseba tapa za skupino.</li><li><strong>Dnevni centri za odrasle:</strong> postaja s tablico s Pari slik, nastavljenimi na štiri ploščice, za kratka srečanja ena na ena.</li><li><strong>Javne knjižnice:</strong> natisnjena iskanja besed in kartice za pogovor v zabojnikih za spomin ter spletno mesto med zaznamki na knjižničnih tablicah.</li><li><strong>Podporne skupine za skrbnike in spominske kavarne:</strong> <a href=\"/handout/\">enostranski letak za tiskanje</a>, ki ga družine odnesejo domov.</li><li><strong>Bolnišnice in načrtovalci odpusta:</strong> letak v mapah za skrbnike, za kaj mirnega doma ali ob postelji.</li></ul><h2>Česa ne počnemo</h2><p>Igre so za veselje in skupni čas. Ne diagnosticirajo, ne preverjajo, ne ocenjujejo, ne zdravijo in ne upočasnjujejo demence in prosimo organizacije, naj jih tako ne opisujejo. Oglasov ni in igre ne zahtevajo imen, zdravstvenih podatkov ali nalaganja fotografij. Spletno mesto uporablja Google Analytics za štetje obiskov; naše <a href=\"/privacy/\">obvestilo o zasebnosti</a> pojasnjuje, kaj to zbira. Fotografije, uporabljene v igri <a href=\"/games/photo-pairs/\">Pari fotografij</a>, ostanejo v brskalniku.</p><h2>Dodajte nas na svoj seznam virov</h2><p>Če vodite seznam virov za skrbnike, lahko povežete na <a href=\"/\">{domain}</a>. Kopirate lahko katerikoli opis.</p>",
+      "shortTitle": "Kratek opis",
+      "longTitle": "Daljši opis",
+      "linksHtml": "<p>Uporabne strani za neposredno povezavo: <a href=\"/games/\">brezplačne igre</a>, <a href=\"/activities/printable/\">brezplačna gradiva za tiskanje</a>, <a href=\"/activities/alzheimers/\">dejavnosti ob Alzheimerjevi bolezni</a> in <a href=\"/caregiving/how-to-play-together/\">kako igrati skupaj</a>.</p><h2>Vprašanja ali popravki</h2><p>Če je kaj na spletnem mestu napačno ali nejasno ali če potreb stanovalca to, kar je tu, ne zadovolji, nam to sporočite na <a href=\"mailto:{email}\">{email}</a>. Prosimo, ne pošiljajte osebnih ali zdravstvenih podatkov o stanovalcih ali uporabnikih.</p>"
+    },
+    "app": {
+      "title": "Aplikacija Golden Moments",
+      "seoTitle": "Aplikacija Golden Moments za iPhone in Android",
+      "description": "Brezplačna aplikacija Golden Moments: nežno iskanje parov s štirimi velikimi ploščicami, družinske fotografije v vaši napravi, paketi slik brez povezave.",
+      "crumb": "Aplikacija",
+      "lede": "Vse, kar vam je všeč na spletnem mestu, v aplikaciji, ki deluje brez povezave in lahko uporabi družinske fotografije, ki jih izberete.",
+      "worksOn": "Deluje na {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Začnite z malim</h2><p>Začnite s štirimi velikimi ploščicami in znanimi slikami. Slike lahko pustite vidne ali jih skrijete, če se vam zdi tako prijetneje. Nežni način nima časovnika, točk in kazni. Izberite 4, 6, 8 ali 12 ploščic.</p><h2>Naj bo osebno</h2><p>Družinske fotografije izberite z izbirnikom fotografij v vaši napravi. Aplikacija shrani manjše kopije za svoje dejavnosti. Ne pregleduje vaše knjižnice in ne spreminja vaših izvirnih fotografij, v eni zbirki pa hrani do 24 fotografij.</p><h2>Samo skupaj poglejte</h2><p>Oglejte si eno sliko naenkrat. Neobvezni namigi vabijo k pogovoru, ne da bi od koga zahtevali, naj se spomni imen ali poda pravilen odgovor. Dovolj je že, da samo gledate.</p><h2>Brez povezave, kjer je to pomembno</h2><p>Začetne slike in vseh osem paketov slik je priloženih aplikaciji. Kopije uvoženih fotografij delujejo brez povezave. Za izbiro izvirnikov, ki so shranjeni samo v iCloudu, bo morda potrebna internetna povezava.</p><h2>Brez računa in strežnika za sinhronizacijo fotografij</h2><p>Kopije družinskih fotografij ostanejo v aplikaciji v napravi. Kopije lahko odstranite, ne da bi izbrisali izvirnike. Varnostne kopije naprave lahko vključujejo podatke aplikacije. Preberite <a href=\"/app-privacy/\">politiko zasebnosti aplikacije</a>, <a href=\"/help/\">pomoč za aplikacijo</a> pa vas vodi skozi vsak korak.</p>",
+      "disclaimer": "Golden Moments je namenjen prostemu času in skupnemu pogovoru. Ne postavlja diagnoze, ne zdravi, ne preprečuje in ne meri demence ali Alzheimerjeve bolezni.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Brezplačne igre za demenco in Alzheimerjevo bolezen na spletu",
+    "description": "Brezplačne spletne igre za starejše z demenco ali Alzheimerjevo boleznijo: iskanje parov, sestavljanke, razvrščanje, barvanje, bingo. Brez prijave in točk.",
+    "crumb": "Igre",
+    "h1": "Nežne igre za osebe z demenco",
+    "lede": "{count} brezplačnih iger za skupno igranje v brskalniku. Velike slike, preproste besede in nič, kar bi lahko spodletelo: brez časovnikov, točk in prijave.",
+    "listName": "Nežne igre za osebe z demenco",
+    "byStageTitle": "Izbira igre po fazi",
+    "byStageLede": "Faze so le groba smernica. Sledite temu, kar oseba uživa in kar je danes udobno.",
+    "stageCol": "Faza",
+    "gamesCol": "Igre, ki pogosto ustrezajo",
+    "moreHtml": "Več zamisli stran od zaslona: <a href=\"/activities/ideas/\">101 dejavnosti za osebe z demenco</a>, <a href=\"/activities/alzheimers/\">dejavnosti in igre ob Alzheimerjevi bolezni</a>, <a href=\"/activities/memory-games/\">nežne igre za spomin</a> in <a href=\"/activities/puzzles/\">sestavljanke</a>.",
+    "faq": [
+      {
+        "q": "S katero igro naj začnemo?",
+        "a": "Pari slik s štirimi ploščicami so miren prvi izbor. Če se vam zdi izbiranje med slikami preveč, poskusite Poišči enako z dvema slikama. Za skupino poskusite Bingo s slikami."
+      },
+      {
+        "q": "Ali igre delujejo na iPadu ali telefonu?",
+        "a": "Da. Vsaka igra deluje v brskalniku na telefonih, tablicah in računalnikih, slike pa se povečajo, da zapolnijo zaslon. Tablica na stojalu je pogosto najudobnejša za dve osebi."
+      },
+      {
+        "q": "So te igre dobre za osebo z Alzheimerjevo boleznijo?",
+        "a": "Da. Narejene so za osebe z demenco, tudi z Alzheimerjevo boleznijo, ki je najpogostejši vzrok. Slike ostanejo vidne, izbir je malo in nič ni časovno omejeno ali točkovano, zato se igre opirajo na prepoznavanje znanih stvari, ne na pomnjenje novih."
+      },
+      {
+        "q": "Ali so to igre za spomin za starejše?",
+        "a": "So igre iskanja parov in slik, ki jih lahko uživa vsak starejši odrasel, a so zgrajene tako, da spomina ne preverjajo: pri Parih slik slike ostanejo obrnjene navzgor, razen če izberete drugače. Naš vodnik o igrah za spomin za starejše z demenco pojasnjuje, kako ohraniti vsako igro za spomin nežno."
+      },
+      {
+        "q": "Ali obstajajo igre za skupine v domu starejših?",
+        "a": "Da. Bingo s slikami ima kartice za tiskanje in klicatelja na zaslonu, Dokončaj rek in Kartice za pogovor pa sta primerna za glasno branje skupini."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad in Android",
+    "requirements": "iOS 15 ali novejši; Android 7.0 ali novejši",
+    "summary": "Brezplačna aplikacija za iPhone, iPad in Android z nežnim iskanjem parov na štirih do dvanajstih velikih ploščicah, iskanjem parov in ogledovanjem z družinskimi fotografijami, ki jih izberete, ter osmimi priloženimi paketi slik, ki delujejo brez interneta. Brez računa, oglasov, časovnika in točk.",
+    "features": [
+      "Nežno iskanje parov s 4, 6, 8 ali 12 velikimi ploščicami; slike ostanejo vidne, razen če jih izberete skriti",
+      "Družinske fotografije, ki jih izberete, se skopirajo v aplikacijo za iskanje parov in skupno ogledovanje",
+      "Skupaj poglejmo: ena slika naenkrat z neobveznimi namigi za pogovor",
+      "Osem paketov slik je priloženih aplikaciji; delujejo brez povezave",
+      "Brez računa, oglasov, nakupov v aplikaciji, časovnika, točk ali kazni"
+    ],
+    "faq": [
+      {
+        "q": "Ali obstaja aplikacija z dejavnostmi za demenco?",
+        "a": "Da. Golden Moments (v trgovini naveden kot „{storeName}“) je brezplačen v App Store in Google Play. Ponuja nežno iskanje parov z velikimi ploščicami, igre z družinskimi fotografijami, ki jih izberete, in pakete slik, ki delujejo brez povezave."
+      },
+      {
+        "q": "Je aplikacija Golden Moments brezplačna?",
+        "a": "Da. Prenos je brezplačen, brez oglasov, računa ali nakupov v aplikaciji."
+      },
+      {
+        "q": "Ali aplikacija deluje brez interneta?",
+        "a": "Da. Začetne slike in vseh osem paketov slik je priloženih aplikaciji, družinske fotografije pa delujejo brez povezave, ko so skopirane v aplikacijo. Za izbiro fotografije, shranjene samo v iCloudu, je morda potrebna povezava."
+      },
+      {
+        "q": "Ali lahko uporabim svoje družinske fotografije?",
+        "a": "Da. Fotografije izberite z izbirnikom fotografij v vaši napravi. Aplikacija hrani manjše kopije v napravi za svoje dejavnosti, jih ne nalaga in nikoli ne spreminja izvirnikov. Kopije lahko kadar koli odstranite."
+      },
+      {
+        "q": "Je to aplikacija za urjenje možganov ali preizkus spomina?",
+        "a": "Ne. Golden Moments je za veselje in skupni čas. Nima točk ali testov in ne postavlja diagnoze, ne zdravi, ne preprečuje in ne meri demence ali Alzheimerjeve bolezni."
+      },
+      {
+        "q": "Na katerih napravah deluje?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Ali obstaja različica te igre kot aplikacija?",
+      "a": "Da. Brezplačna aplikacija Golden Moments za iPhone, iPad in Android ima enako nežno iskanje parov, lahko uporabi družinske fotografije, ki jih izberete, in deluje brez povezave. Brez računa, oglasov in točk."
+    },
+    "gameFaqNo": {
+      "q": "Ali obstaja različica te igre kot aplikacija?",
+      "a": "Ne te igre. Brezplačna aplikacija Golden Moments za iPhone, iPad in Android ima nežno iskanje parov z velikimi ploščicami in družinskimi fotografijami, ki jih izberete, ter deluje brez povezave. Ta igra ostaja tukaj brezplačna v vašem brskalniku."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: velike, prijazne slike",
+    "noscript": "Ta igra potrebuje vklopljen JavaScript v brskalniku. Nasveti spodaj delujejo tudi brez njega.",
+    "about": "O igri {name}",
+    "aboutAria": "O tej igri",
+    "noTimer": "Brez časovnika in točk",
+    "printable": "Za tiskanje",
+    "howTo": "Kako igrati {name}",
+    "tips": "Nasveti za skupno igranje",
+    "newToPlayingHtml": "Ste novi pri igranju z osebo z demenco? Preberite <a href=\"/caregiving/how-to-play-together/\">kako igrati igre skupaj</a>, tudi kaj storiti, če izgubijo zanimanje.",
+    "moreAria": "Več za raziskovanje",
+    "helpfulGuides": "Koristni vodniki",
+    "appTitle": "Igrajte jo v aplikaciji",
+    "appText": "Brezplačna aplikacija Golden Moments ima nežno iskanje parov z velikimi ploščicami in vašimi družinskimi fotografijami ter deluje brez omrežja Wi‑Fi. iPhone, iPad in Android.",
+    "photoAppTitle": "Imejte svoje fotografije pripravljene",
+    "photoAppText": "V brezplačni aplikaciji Golden Moments fotografije, ki jih izberete, ostanejo v vaši napravi za naslednjič, igre pa delujejo brez omrežja Wi‑Fi. iPhone, iPad in Android.",
+    "goodToKnow": "Dobro je vedeti",
+    "goodToKnowText": "Ta igra je za veselje in skupni čas. Ničesar ne preverja, ne meri in ne zdravi.",
+    "moreGames": "Več nežnih iger",
+    "crumb": "Igre"
+  }
+}

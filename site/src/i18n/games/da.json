@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Billedpar",
+    "seoTitle": "Parspil ved demens: Billedpar",
+    "h1": "Billedpar: et roligt parspil",
+    "description": "Et gratis, roligt parspil for mennesker, der lever med demens. Store billeder bliver synlige, der er intet ur eller point, og du vælger 4 til 12 brikker.",
+    "short": "Find de to billeder, der er ens. Billederne kan blive synlige.",
+    "players": "1 eller 2 personer side om side",
+    "intro": "Tryk på et billede, og tryk derefter på det, der passer til. Billederne er som standard synlige, så der er intet at huske. Når to billeder hører sammen, får de en gylden ramme og et flueben.",
+    "howTo": [
+      "Vælg, hvor mange brikker du vil bruge. Fire brikker er et roligt sted at starte.",
+      "Tryk på et billede. Det får en gylden ramme.",
+      "Tryk på det billede, der ligner. Parret bliver samlet med et flueben.",
+      "Hvis de to billeder er forskellige, sker der ikke noget slemt. Tryk igen, når du er klar.",
+      "Slå »Skjulte billeder« til, kun hvis I begge godt kan lide den klassiske version med billederne vendt nedad."
+    ],
+    "tips": [
+      "Sig billedernes navne højt sammen, og snak om dem: »En rød tekop. Drikker du te eller kaffe?«",
+      "Lad personen, du drager omsorg for, trykke selv, også selvom det tager tid. Peg hellere end at trykke for personen.",
+      "Bliv ved fire brikker, så længe det føles godt. Flere brikker er et valg og aldrig et niveau, man skal nå.",
+      "Stop, mens det stadig er rart. Ét spil er en hel aktivitet."
+    ],
+    "faq": [
+      {
+        "q": "Er der et ur eller point?",
+        "a": "Nej. Der er intet ur, ingen point, ingen tæller af træk og ingen tab. Du kan stoppe når som helst, og at stoppe midtvejs er en helt god måde at slutte på."
+      },
+      {
+        "q": "Hvorfor er billederne vendt opad?",
+        "a": "Når billederne er synlige, bliver spillet til at kigge og parre frem for at huske. Mange synes, det er roligere. Du kan skifte til skjulte billeder med ét tryk, hvis du foretrækker det."
+      },
+      {
+        "q": "Er det gratis, og skal jeg tilmelde mig?",
+        "a": "Ja, det er gratis, og der er ingen konto, tilmelding eller download. Det virker i webbrowseren på en telefon, tablet eller computer."
+      },
+      {
+        "q": "Kan vi bruge vores egne familiebilleder?",
+        "a": "Ja. Prøv Fotopar, hvor du kan vælge billeder fra din enhed. Billederne bliver i din browser og bliver ikke uploadet."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Find det samme",
+    "seoTitle": "Find det samme billede: Enkelt spil ved demens",
+    "h1": "Find det samme billede",
+    "description": "Ét billede øverst, to til fire nedenunder. Tryk på det, der er det samme. Et roligt, gratis billedspil for mennesker, der lever med demens, uden ur.",
+    "short": "Se på billedet øverst, og tryk på det samme nedenunder.",
+    "players": "1 eller 2 personer",
+    "intro": "Ét billede står øverst på skærmen. Nedenunder er der to, tre eller fire billeder. Tryk på det, der er det samme. Det er ét enkelt valg ad gangen med god plads til at snakke.",
+    "howTo": [
+      "Vælg to, tre eller fire billeder at vælge imellem. To er det enkleste.",
+      "Se sammen på billedet øverst.",
+      "Tryk på det samme billede nedenunder. Det bliver markeret med et flueben og et par varme ord.",
+      "Hvis der trykkes på et andet billede, siger spillet bare, hvad det er, og venter. Tag dig god tid.",
+      "Tryk på »Næste billede«, når I er klar til et nyt."
+    ],
+    "tips": [
+      "Snak om hvert billede, før I vælger: farver, former og hvor man kunne se det.",
+      "To valg er ikke »for nemt«. Målet er et rart øjeblik og ikke en udfordring.",
+      "Hvis det er svært at trykke, kan personen pege, og du kan trykke for vedkommende."
+    ],
+    "faq": [
+      {
+        "q": "Er der et ur eller point?",
+        "a": "Nej. Der er intet ur, ingen point, ingen tæller af træk og ingen tab. Du kan stoppe når som helst, og at stoppe midtvejs er en helt god måde at slutte på."
+      },
+      {
+        "q": "Hvad sker der, hvis der trykkes på det forkerte billede?",
+        "a": "Intet ubehageligt. Der er ingen summer, intet rødt kryds og ingen rystende bevægelse. Spillet siger, hvilket billede der blev trykket på, og venter på næste tryk."
+      },
+      {
+        "q": "Er det gratis, og skal jeg tilmelde mig?",
+        "a": "Ja, det er gratis, og der er ingen konto, tilmelding eller download. Det virker i webbrowseren på en telefon, tablet eller computer."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Find skyggen",
+    "seoTitle": "Skyggespil ved demens: Gratis online",
+    "h1": "Find skyggen: et roligt billedspil",
+    "description": "En mørk skygge øverst, to til fire billeder nedenunder. Tryk på det billede, der giver skyggen. Et gratis, roligt skyggespil ved demens, uden ur.",
+    "short": "Se på skyggen, og tryk på det billede, der giver den.",
+    "players": "1 eller 2 personer",
+    "intro": "At finde skygger er en kendt aktivitet fra ark på papir, her med store billeder og uden noget at udskrive. En blød skygge står øverst på skærmen, og to, tre eller fire billeder venter nedenunder. Tryk på det, der giver skyggen. Former som en cykel, en paraply eller en tekop er også nemme at tale om.",
+    "howTo": [
+      "Vælg to, tre eller fire billeder at vælge imellem. To er det enkleste.",
+      "Se sammen på skyggen. Hvad er det for en form? Er den høj eller rund?",
+      "Tryk på det billede, der giver skyggen. Dets navn står under skyggen.",
+      "Hvis der trykkes på et andet billede, siger spillet bare, hvad det er, og venter. Tag dig god tid.",
+      "Tryk på »Næste skygge«, når I er klar til en ny."
+    ],
+    "tips": [
+      "Følg skyggens kontur med en finger, og tal om formen.",
+      "Hvis skygger føles svære i dag, så skift til Find det samme, hvor billederne ligner hinanden.",
+      "Tal om billedet, når det er fundet: »Vi havde en paraply som den.«"
+    ],
+    "faq": [
+      {
+        "q": "Er der et ur eller point?",
+        "a": "Nej. Der er intet ur, ingen point, ingen tæller af træk og ingen tab. Du kan stoppe når som helst, og at stoppe midtvejs er en helt god måde at slutte på."
+      },
+      {
+        "q": "Er skyggespil godt for mennesker med demens?",
+        "a": "Det kan være en rar, enkel aktivitet for nogle, især i de tidligere faser. Former er nemmere at genkende end ord. Det er til fornøjelse og samtale, ikke en prøve, og det behandler eller bremser ikke demens. Hvis det giver frustration, så prøv Find det samme, eller se bare på billeder sammen."
+      },
+      {
+        "q": "Hvad sker der, hvis der trykkes på det forkerte billede?",
+        "a": "Intet ubehageligt. Der er ingen summer, intet rødt kryds og ingen rystende bevægelse. Spillet siger, hvilket billede der blev trykket på, og venter på næste tryk."
+      },
+      {
+        "q": "Er det gratis, og skal jeg tilmelde mig?",
+        "a": "Ja, det er gratis, og der er ingen konto, tilmelding eller download. Det virker i webbrowseren på en telefon, tablet eller computer."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Sorter sammen",
+    "seoTitle": "Sorteringsspil ved demens: Sorter sammen",
+    "h1": "Sorter sammen: en aktivitet med sortering af billeder",
+    "description": "Tryk på et billede, og tryk på den kurv, det hører til i: køkken eller have, frugt eller dyr. En rolig, gratis sorteringsaktivitet ved demens.",
+    "short": "Læg hvert billede i sin kurv: køkken eller have og mere.",
+    "players": "1 eller 2 personer",
+    "intro": "At sortere er en velkendt, tilfredsstillende hverdagsopgave, som at lægge indkøb på plads eller finde par af sokker. Tryk på et billede, og tryk derefter på den kurv, det hører til i. Der er ingen hast og ingen forkerte skridt.",
+    "howTo": [
+      "Vælg et tema: køkken og have, frugt og dyr eller hjem og rejser.",
+      "Tryk på et billede. Det får en gylden ramme.",
+      "Tryk på den kurv, det hører til i. Billedet flytter ind i den kurv.",
+      "Hvis det hører til i den anden kurv, siger spillet det roligt og venter.",
+      "Når alle billeder er sorteret, så se kurvene igennem sammen."
+    ],
+    "tips": [
+      "I virkeligheden er der ofte ingen forkerte svar. Hvis nogen siger, at en vandkande hører til i køkkenet, så spørg hvorfor. Måske får du en god historie.",
+      "Brug billederne som en åbning til samtale: »Hvad dyrkede du i din have?«",
+      "At sortere rigtige ting, som skeer og gafler eller knapper efter farve, er en god fortsættelse væk fra skærmen."
+    ],
+    "faq": [
+      {
+        "q": "Er der et ur eller point?",
+        "a": "Nej. Der er intet ur, ingen point, ingen tæller af træk og ingen tab. Du kan stoppe når som helst, og at stoppe midtvejs er en helt god måde at slutte på."
+      },
+      {
+        "q": "Hvorfor sortering?",
+        "a": "Mange nyder at sortere, fordi det føles som nyttigt, velkendt arbejde. Det er også nemt at tale om billederne undervejs."
+      },
+      {
+        "q": "Er det gratis, og skal jeg tilmelde mig?",
+        "a": "Ja, det er gratis, og der er ingen konto, tilmelding eller download. Det virker i webbrowseren på en telefon, tablet eller computer."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Billedpuslespil",
+    "seoTitle": "Nemt puslespil ved demens: 4 eller 9 brikker",
+    "h1": "Billedpuslespil: et nemt puslespil",
+    "description": "Et nemt puslespil online for mennesker, der lever med demens: 4 eller 9 store brikker, hele billedet bliver synligt, og du trykker på to brikker for at bytte dem.",
+    "short": "Tryk på to brikker for at bytte dem, til billedet er helt.",
+    "players": "1 eller 2 personer",
+    "intro": "Et venligt billede er skåret i fire eller ni store brikker og blandet. Hele billedet bliver synligt som en hjælp. Tryk på én brik og derefter på en anden, og de bytter plads. Man behøver ikke trække.",
+    "howTo": [
+      "Vælg et billede og 4 eller 9 brikker. Fire er en rolig start.",
+      "Se på hele billedet øverst.",
+      "Tryk på en brik, og tryk derefter på det sted, den skal være. De to brikker bytter plads.",
+      "Brikker på det rigtige sted får et lille flueben.",
+      "Når billedet er helt, så nyd det sammen, og vælg så et nyt."
+    ],
+    "tips": [
+      "At trykke på to brikker for at bytte dem er meget nemmere end at trække for mange.",
+      "Tal om billedet, mens det bliver samlet: »Der er det røde tag.«",
+      "Et rigtigt træpuslespil med 12 til 24 store brikker er også en dejlig aktivitet ved bordet."
+    ],
+    "faq": [
+      {
+        "q": "Er der et ur eller point?",
+        "a": "Nej. Der er intet ur, ingen point, ingen tæller af træk og ingen tab. Du kan stoppe når som helst, og at stoppe midtvejs er en helt god måde at slutte på."
+      },
+      {
+        "q": "Skal jeg trække brikkerne?",
+        "a": "Nej. Tryk på én brik og derefter på en anden, og de bytter plads. Det er lettere med en rystende hånd eller på en lille skærm."
+      },
+      {
+        "q": "Er det gratis, og skal jeg tilmelde mig?",
+        "a": "Ja, det er gratis, og der er ingen konto, tilmelding eller download. Det virker i webbrowseren på en telefon, tablet eller computer."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Gør talemåden færdig",
+    "seoTitle": "Gør talemåden færdig: Ordsprogsspil for seniorer",
+    "h1": "Gør talemåden færdig",
+    "description": "Velkendte danske talemåder, hvor det sidste ord mangler, som »Det er ikke guld alt, hvad der ___«. Tryk på et valg, eller vis slutningen, og tal så om det.",
+    "short": "Gør velkendte talemåder færdige sammen, og tal så om dem.",
+    "players": "1, 2 eller en gruppe",
+    "intro": "Gamle talemåder er ofte kendt et helt liv. Hvert kort viser en velkendt talemåde, hvor det sidste ord mangler, tre valg og en knap, »Vis slutningen«. Efter slutningen lægger et roligt spørgsmål op til samtale.",
+    "howTo": [
+      "Læs talemåden højt sammen.",
+      "Tryk på det ord, der gør den færdig, eller tryk på »Vis slutningen«.",
+      "Læs hele talemåden igen, og tal om den ved hjælp af spørgsmålet.",
+      "Tryk på »Næste talemåde«, når I er klar."
+    ],
+    "tips": [
+      "Læs langsomt, og hold en pause før det sidste ord. Ofte siger personen det, før du er færdig.",
+      "Hvis nogen giver en anden slutning, så nyd den. Nogle talemåder varierer fra familie til familie eller fra egn til egn.",
+      "I en gruppe læser én person, og alle er med på slutningen."
+    ],
+    "faq": [
+      {
+        "q": "Er der et ur eller point?",
+        "a": "Nej. Der er intet ur, ingen point, ingen tæller af træk og ingen tab. Du kan stoppe når som helst, og at stoppe midtvejs er en helt god måde at slutte på."
+      },
+      {
+        "q": "Hvad hvis vi vælger et andet ord?",
+        "a": "Spillet viser den sædvanlige slutning og går videre til samtale. Der er ingen point, og et andet svar er helt i orden."
+      },
+      {
+        "q": "Er det gratis, og skal jeg tilmelde mig?",
+        "a": "Ja, det er gratis, og der er ingen konto, tilmelding eller download. Det virker i webbrowseren på en telefon, tablet eller computer."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Ordsøgning med stor skrift",
+    "seoTitle": "Ordsøgning med stor skrift ved demens, til udskrivning",
+    "h1": "Ordsøgning med stor skrift",
+    "description": "En gratis ordsøgning med stor skrift til seniorer og mennesker, der lever med demens. Få ord, store bogstaver, kun ord på tværs og nedad. Spil online eller print.",
+    "short": "Store bogstaver, få ord, kun på tværs og nedad. Du kan også printe den.",
+    "players": "1 eller 2 personer",
+    "intro": "Et lille gitter med store bogstaver og bare en håndfuld ord, der alle læses på tværs eller nedad. Tryk på ordets første bogstav og derefter på det sidste. Foretrækker du papir? Print en ny opgave med ét tryk.",
+    "howTo": [
+      "Vælg et tema og en gitterstørrelse.",
+      "Se på ordlisten. Ordene læses på tværs (fra venstre mod højre) eller nedad (oppefra og ned).",
+      "Tryk på ordets første bogstav, og tryk derefter på dets sidste bogstav.",
+      "Et fundet ord bliver fremhævet og streget over på listen.",
+      "Tryk på »Print denne opgave« for at spille på papir med blyant eller tusch."
+    ],
+    "tips": [
+      "Peg på et ord i listen, og led sammen efter dets første bogstav.",
+      "På papir er en overstregningspen nemmere at holde end en blyant.",
+      "Tal om temaets ord. Ord om frugt er en naturlig vej ind til minder om at plukke, bage eller gå på markedet."
+    ],
+    "faq": [
+      {
+        "q": "Er der et ur eller point?",
+        "a": "Nej. Der er intet ur, ingen point, ingen tæller af træk og ingen tab. Du kan stoppe når som helst, og at stoppe midtvejs er en helt god måde at slutte på."
+      },
+      {
+        "q": "Kan jeg printe ordsøgningen?",
+        "a": "Ja. Tryk på »Print denne opgave« for at printe det aktuelle gitter med stor skrift og ordlisten nedenunder. Hver ny opgave er forskellig."
+      },
+      {
+        "q": "Er det gratis, og skal jeg tilmelde mig?",
+        "a": "Ja, det er gratis, og der er ingen konto, tilmelding eller download. Det virker i webbrowseren på en telefon, tablet eller computer."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Farvelægningsark",
+    "seoTitle": "Farvelægningsark til voksne med demens (gratis)",
+    "h1": "Farvelægningsark",
+    "description": "Enkle farvelægningsark til voksne med store felter: tryk på en farve, og tryk så på billedet. Ingen sjask, ingen forkerte farver, og alle ark kan printes gratis.",
+    "short": "Tryk på en farve og derefter på en del af billedet. Du kan også printe ark.",
+    "players": "1 eller 2 personer",
+    "intro": "Ark med store, enkle former: en blomst i en urtepotte, et hus, en tekop, en sommerfugl og en sejlbåd. Tryk på en farve, og tryk så på en del af billedet for at fylde den. Der er ingen forkerte farver.",
+    "howTo": [
+      "Vælg et ark.",
+      "Tryk på en farve. Hver farve har sit navn skrevet på sig.",
+      "Tryk på en del af billedet for at fylde den med den farve.",
+      "Du kan altid ombestemme dig ved at fylde den igen.",
+      "Tryk på »Print dette ark« for et tomt ark, der kan farvelægges med farveblyanter eller tusser."
+    ],
+    "tips": [
+      "Tilbyd to farver at vælge imellem frem for hele sættet, hvis det er for meget at vælge.",
+      "Lilla træer og blå sole er velkomne. Det handler om at nyde farver og ikke om at ramme rigtigt.",
+      "Printede ark fungerer godt med tykke tusser eller farvekridt, som er nemmere at holde fast i."
+    ],
+    "faq": [
+      {
+        "q": "Er der et ur eller point?",
+        "a": "Nej. Der er intet ur, ingen point, ingen tæller af træk og ingen tab. Du kan stoppe når som helst, og at stoppe midtvejs er en helt god måde at slutte på."
+      },
+      {
+        "q": "Er disse ark for barnlige?",
+        "a": "Vi har tegnet rolige, enkle ting frem for tegneserier, så arkene passer til voksne. Store former gør det nemt at farvelægge uden at gøre det barnligt."
+      },
+      {
+        "q": "Er det gratis, og skal jeg tilmelde mig?",
+        "a": "Ja, det er gratis, og der er ingen konto, tilmelding eller download. Det virker i webbrowseren på en telefon, tablet eller computer."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Samtalekort",
+    "seoTitle": "Samtaleåbnere ved demens: Billedkort",
+    "h1": "Samtalekort",
+    "description": "Billedkort med rolige samtaleåbnere for mennesker, der lever med demens: ingen udspørgen, ingen rigtige svar. Brug dem på skærmen, eller print hele sættet.",
+    "short": "Billedkort med åbne, rolige spørgsmål. Ingen udspørgen.",
+    "players": "2 personer eller en gruppe",
+    "intro": "Hvert kort kobler et velkendt billede med en åben invitation til at tale, som »Hvad er dit yndlingsvejr?« Der er ingen rigtige svar og intet at huske. Vælg et tema, eller bland dem alle.",
+    "howTo": [
+      "Vælg et tema, eller behold »Alle kort«.",
+      "Læs spørgsmålet højt, og se sammen på billedet.",
+      "Lyt, del dit eget svar, og lad samtalen vandre.",
+      "Tryk på »Næste kort«, når I er klar, eller bliv ved ét kort, så længe I vil.",
+      "Tryk på »Print alle kort« for at klippe et sæt ud i papir."
+    ],
+    "tips": [
+      "Svar også selv på spørgsmålet. Så føles det som en samtale og ikke som et interview.",
+      "Følg historien og ikke fakta. Hvis detaljer ændrer sig, er det helt i orden.",
+      "Hvis et kort rører ved noget trist, så anerkend følelsen, og gå roligt videre til et andet kort."
+    ],
+    "faq": [
+      {
+        "q": "Hvorfor er der ingen spørgsmål som »Kan du huske …?«",
+        "a": "Spørgsmål, der prøver hukommelsen, kan føles som en eksamen og give flovhed. Åbne invitationer som »Fortæl mig om …« lader alle være med, uanset hvad de husker."
+      },
+      {
+        "q": "Kan jeg printe kortene?",
+        "a": "Ja. »Print alle kort« printer hele sættet med stor skrift, flere kort på hver side, klar til at klippe ud."
+      },
+      {
+        "q": "Er det gratis, og skal jeg tilmelde mig?",
+        "a": "Ja, det er gratis, og der er ingen konto, tilmelding eller download. Det virker i webbrowseren på en telefon, tablet eller computer."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Fotopar",
+    "seoTitle": "Lav et parspil af familiebilleder",
+    "h1": "Fotopar: Find par af dine egne billeder",
+    "description": "Gør dine egne familiebilleder til et roligt parspil. Vælg 2 til 6 billeder på din enhed. De bliver i din browser og bliver aldrig uploadet.",
+    "short": "Vælg dine egne billeder, og find par. Intet bliver uploadet.",
+    "players": "2 personer side om side",
+    "intro": "Vælg to til seks billeder fra din telefon, tablet eller computer, og de bliver til et parspil med store, synlige billeder. Billederne vises kun inde på denne side. De bliver ikke uploadet, gemt eller delt, og de forsvinder, når du lukker siden.",
+    "howTo": [
+      "Tryk på »Vælg billeder«, og vælg to til seks billeder.",
+      "Hvert billede vises to gange. Tryk på ét, og tryk derefter på dets par.",
+      "Tal om hvert billede, når I finder det.",
+      "Når I er færdige, så luk siden, eller tryk på »Ryd billeder«. Intet bliver gemt."
+    ],
+    "tips": [
+      "Vælg tydelige billeder af glade, velkendte ting: et kæledyr, en have, et yndlingssted, en bryllupsdag.",
+      "Billeder af steder og ting kan være lettere end ansigter, og så er der intet pres for at sige navne.",
+      "Lad være med billeder af mennesker, der er døde, hvis de kan give pludselig sorg, medmindre du ved, at de giver trøst."
+    ],
+    "faq": [
+      {
+        "q": "Bliver mine billeder uploadet et sted?",
+        "a": "Nej. Siden læser de billeder, du vælger, direkte i din browser og viser dem på din skærm. De bliver ikke sendt til os eller nogen anden, og de er væk, når du lukker eller genindlæser siden."
+      },
+      {
+        "q": "Er der et ur eller point?",
+        "a": "Nej. Der er intet ur, ingen point, ingen tæller af træk og ingen tab. Du kan stoppe når som helst, og at stoppe midtvejs er en helt god måde at slutte på."
+      },
+      {
+        "q": "Kan jeg gemme spillet til næste gang?",
+        "a": "Ikke i browseren, med vilje, så intet privat bliver gemt. Den gratis app Golden Moments til iPhone og iPad kan beholde kopier af valgte billeder på din enhed."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Billedbingo",
+    "seoTitle": "Billedbingo til seniorer med demens: Til udskrivning",
+    "h1": "Billedbingo til grupper",
+    "description": "Gratis billedbingo til udskrivning for demensafsnit og seniorgrupper med en stor oplæser på skærmen. Store billeder med ord, 9 eller 16 felter, ingen læsning nødvendig.",
+    "short": "Billedbingo-kort til udskrivning og en oplæser til stor skærm til grupper.",
+    "players": "En gruppe på 2 til 30",
+    "intro": "Klassisk bingo med billeder i stedet for tal, så ingen behøver at læse småt. Print et sæt unikke kort, og brug så oplæseren på skærmen til at vise hvert billede stort på et tv, en bærbar computer eller en tablet.",
+    "howTo": [
+      "Vælg 9 eller 16 felter på hvert kort og antal spillere.",
+      "Tryk på »Print kort«. Hvert kort er forskelligt.",
+      "Åbn oplæseren på en stor skærm. Tryk på »Næste billede« for at vise hvert billede med dets navn.",
+      "Spillerne dækker det matchende billede på deres kort med en mønt, en knap eller en tusch.",
+      "Alle, der fylder en række eller hele kortet, får et bifald. I denne version er der ingen tabere: Spil videre, til alle har en række."
+    ],
+    "tips": [
+      "Brug store brikker som dam-brikker eller flaskekapsler. Små knapper kan være svære at tage op.",
+      "Sig billedets navn, og sig noget om det: »En sejlbåd. Hvem har været ude at sejle?«",
+      "Placér personer, der har svært ved at se, tættest på skærmen, og sæt hjælpere sammen med spillere, der har brug for dem.",
+      "Ni felter er rigeligt til de fleste grupper. Hold seancen på omkring 20 til 30 minutter."
+    ],
+    "faq": [
+      {
+        "q": "Hvordan kører jeg billedbingo på et plejehjem?",
+        "a": "Print ét kort til hver spiller, sæt oplæseren på den største skærm, du har, og vis billederne langsomt, mens du siger hvert navn. Spil, til alle har en række, så ingen bliver udenfor."
+      },
+      {
+        "q": "Er det gratis at printe?",
+        "a": "Ja. Print så mange kort, du har brug for, så ofte du vil, til personlig brug eller brug i en gruppe."
+      },
+      {
+        "q": "Kan man spille uden at læse?",
+        "a": "Ja. Hvert felt er et stort billede med dets navn under til dem, der kan lide ord."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Rolig vejrtrækning",
+    "seoTitle": "En rolig pause med vejrtrækning til seniorer og pårørende",
+    "h1": "En rolig pause med vejrtrækning",
+    "description": "En langsom, stille pause med vejrtrækning at dele: En blid cirkel vokser og skrumper i seks åndedrag. Du starter den, og du kan stoppe når som helst.",
+    "short": "En langsom cirkel at trække vejret efter. Start og stop, når du vil.",
+    "players": "1 eller 2 personer",
+    "intro": "Nogle gange er den bedste aktivitet en stille pause. Tryk på »Start«, og træk vejret ind, mens cirklen vokser, og ud, mens den skrumper. Vælg et langsommere eller hurtigere tempo. Det er ikke en behandling, bare et fredfyldt øjeblik at dele.",
+    "howTo": [
+      "Sid behageligt side om side.",
+      "Vælg et tempo: langsomt eller roligt.",
+      "Tryk på »Start«. Træk vejret ind, mens cirklen vokser, og ud, mens den skrumper.",
+      "Den stopper af sig selv efter seks åndedrag, eller tryk på »Stop«, når du vil."
+    ],
+    "tips": [
+      "Hold hinanden i hånden, eller læg en hånd på personens arm, hvis det er velkomment.",
+      "Insistér aldrig. Hvis personen hellere vil se på, er det helt fint.",
+      "Hvis nogen har problemer med at trække vejret, så træk vejret normalt, og se bare på cirklen. Spørg en læge til råds, hvis du er bekymret for vejrtrækningen."
+    ],
+    "faq": [
+      {
+        "q": "Er det en medicinsk vejrtrækningsøvelse?",
+        "a": "Nej. Det er en enkel, valgfri pause til ro og selskab. Det er ikke en behandling af angst eller nogen tilstand. Tal med en læge, hvis du er bekymret for dit helbred."
+      },
+      {
+        "q": "Bevæger cirklen sig uden at jeg starter den?",
+        "a": "Nej. Intet bevæger sig, før du trykker på Start, og den stopper efter seks åndedrag eller når du trykker på Stop. Hvis din enhed er indstillet til at begrænse bevægelse, skifter ordene uden at cirklen vokser."
+      },
+      {
+        "q": "Er det gratis, og skal jeg tilmelde mig?",
+        "a": "Ja, det er gratis, og der er ingen konto, tilmelding eller download. Det virker i webbrowseren på en telefon, tablet eller computer."
+      }
+    ]
+  }
+}

@@ -4,6 +4,7 @@ import '../styles/base.css';
 import '../styles/components.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import LanguageChoice from '../components/LanguageChoice.astro';
 import JsonLd from '../components/JsonLd.astro';
 import Analytics from '../components/Analytics.astro';
 import { SITE, absoluteUrl } from '../lib/site';
@@ -52,6 +53,10 @@ const fullTitle = rawTitle ? title : `${title}${t.common.titleSuffix}`;
 const canonical = absoluteUrl(Astro.url.pathname);
 const ogImage = absoluteUrl(image);
 const altText = imageAlt ?? t.common.defaultImageAlt;
+// Languages a first visit may be sent to: indexed, translated, not English.
+const offers = PUBLISHED.filter((l) => l.prefix && isIndexable(l.code)).map((l) => ({ code: l.bcp47, prefix: l.prefix }));
+// Automatic choice only on the English home page (see LanguageChoice.astro).
+const detectLanguage = lang === DEFAULT_LOCALE && path === '/';
 ---
 <!doctype html>
 <html lang={locale.htmlLang} dir={locale.dir}>
@@ -102,7 +107,7 @@ const altText = imageAlt ?? t.common.defaultImageAlt;
     {jsonLd.length > 0 && <JsonLd data={jsonLd} />}
     <slot name="head" />
   </head>
-  <body>
+  <body data-offers={JSON.stringify(offers)} data-detect={detectLanguage ? 'true' : 'false'}>
     <a class="skip-link" href="#main">{t.common.skipLink}</a>
     <Header lang={lang} />
     {
@@ -116,5 +121,6 @@ const altText = imageAlt ?? t.common.defaultImageAlt;
       <slot />
     </main>
     <Footer lang={lang} available={available} path={path} />
+    <LanguageChoice />
   </body>
 </html>

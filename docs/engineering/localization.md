@@ -1,8 +1,14 @@
 # Localization
 
-The app offers 20 languages in the submitted 1.6.0, and 51 in this branch (the
-31 added for the top-50 expansion, 2026-11-01: 50 languages, Chinese counting once). English is the source; every
-other language falls back to English for anything not yet translated. By
+This branch has 63 language codes: the 50 in release 1.7.0 (the 20 of 1.6.0 plus the
+31 added for the top-50 expansion, 2026-11-01) and 13 added on 2026-11-06 so that every
+App Store localization Apple lists is covered (Catalan, Czech, Danish, Greek, Finnish,
+Hebrew, Croatian, Hungarian, Norwegian Bokmål, Portuguese (Portugal), Slovak, Slovenian
+and Swedish). Apple listed 50 App Store localizations on that date, counting English
+and its regional variants (en-AU, en-CA, en-GB). The three regional English variants are
+not added: they would copy the US English listing and have to be kept in step with it.
+English is the source; every other language falls back to English for anything not yet
+translated. By
 maintainer decision (2026-10-31) the translations are machine-made and ship before native
 review; `docs/specs/release-status.json` records each language as unreviewed
 until a person who reads it has checked it (see `WORKBOARD.md`, GM-036, and
@@ -63,6 +69,22 @@ check of keys, placeholders and plural structure, then `flutter gen-l10n`.
 | Assamese | `as` | `as` |
 | Romanian | `ro` | `ro` |
 | Nepali | `ne` | `ne` |
+| Catalan | `ca` | `ca` |
+| Czech | `cs` | `cs` |
+| Danish | `da` | `da` |
+| Greek | `el` | `el` |
+| Finnish | `fi` | `fi` |
+| Hebrew (right to left) | `he` | `he` |
+| Croatian | `hr` | `hr` |
+| Hungarian | `hu` | `hu` |
+| Norwegian Bokmål | `nb` | `no` (App Store only) |
+| Portuguese (Portugal) | `pt_PT` | `pt-PT` |
+| Slovak | `sk` | `sk` |
+| Slovenian | `sl` | `sl` |
+| Swedish | `sv` | `sv` |
+
+Portuguese: a device in Portugal gets `pt_PT`; every other Portuguese (with no region
+or any other region) gets `pt_BR` (`resolveAppLocale` in `lib/l10n/l10n.dart`).
 
 `lib/l10n/arb/app_pt.arb` and `app_zh.arb` exist only because the Flutter
 generator needs a base file; the app never selects them, so leave them empty.
@@ -121,6 +143,14 @@ overlay for the new language.
 When the English catalog in `assets/data/packs_index.json` changes, run
 `python3 scripts/pack_text.py` to regenerate `packs_en.json`, then update the
 overlays that translated the changed text.
+
+## How the language is chosen
+
+**App.** On first open the app follows the device's language list (`resolveAppLocale` in `lib/l10n/l10n.dart`). The person can choose another language on Home, under **Language** (`lib/features/language/`). That choice is saved on the phone under `app.language.v1` as a language tag and loads before the first frame (`lib/bootstrap.dart`). The first option in the picker, **Use this device's language**, clears the choice. A saved tag the app does not offer is ignored. The picker names each language in its own words from `lib/l10n/language_names.dart`, which is generated from the website's locale list.
+
+**Website.** The language menu in the footer always lets the reader choose. On a first visit to the English home page, `site/src/components/LanguageChoice.astro` sends the reader to the first language their browser asks for that the site offers (`site/src/lib/language-choice.ts`). Any choice from the menu, English included, is stored in the `gm_lang` cookie for a year, and a stored choice is never overridden. The redirect uses `location.replace`, so Back does not return to English and redirect again. Other pages are never redirected.
+
+**Sitemaps.** `/sitemap.xml` is the root index. It links to `/sitemap-en.xml` and to `/<prefix>/sitemap.xml` for every other published, indexable language (`site/src/lib/sitemap.ts`). A test fails if any indexable language is missing from the index (`site/src/lib/sitemap.test.ts`).
 
 ## Languages Flutter has no widget text for
 

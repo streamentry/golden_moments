@@ -1,0 +1,1010 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Játék",
+      "restart": "Kezdés elölről",
+      "soundOn": "Halk hangok bekapcsolva",
+      "soundOff": "Halk hangok kikapcsolva",
+      "done": "Mára elég",
+      "feedbackQuestion": "Segített ez ma?",
+      "feedbackYes": "Igen",
+      "feedbackNo": "Nem igazán",
+      "feedbackThanks": "Köszönjük, hogy megosztotta velünk."
+    },
+    "tile": {
+      "named": "{name}, {n}. kártya",
+      "hidden": "Rejtett kép, {n}. kártya",
+      "withState": "{label}, {state}",
+      "matched": "Párban",
+      "selected": "Kiválasztva",
+      "picture": "Kép",
+      "photoNumber": "{n}. fotó"
+    },
+    "pairs": {
+      "allTogether": "Minden pár együtt van. Játsszanak újra, vagy pihenjenek egyet.",
+      "photoPair": "Két fotó együtt.",
+      "picturePair": "Két kép együtt: {name|lower}.",
+      "selected": "{name}. Most keresse meg a párját.",
+      "mismatch": "Ráér. Érintsen meg egy képet a folytatáshoz.",
+      "mismatchNamed": "{a} és {b}. Ráér. Érintsen meg egy képet a folytatáshoz."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Érintsen meg egy képet, majd azt, amelyik egyezik vele.",
+      "guidanceHidden": "Érintsen meg két kártyát a megfordításhoz. Keresse a két egyformát.",
+      "restart": "Új képek",
+      "sizeLegend": "Hány kártya",
+      "size": {
+        "one": "{n} kártya",
+        "other": "{n} kártya"
+      },
+      "viewLegend": "Hogyan játsszunk",
+      "viewShowing": "Látható képek",
+      "viewHidden": "Rejtett képek",
+      "playAgain": "Új játék új képekkel",
+      "talk": "Beszélgessenek együtt a képekről"
+    },
+    "choose": {
+      "countLegend": "Hány kép",
+      "count": "{n} közül választhat",
+      "thatOne": "Ez itt: {name|lower}. Ráér."
+    },
+    "findTheSame": {
+      "guidance": "Nézze meg a felső képet. Érintse meg az egyformát alul.",
+      "yes": "Igen, ugyanaz: {name|lower}.",
+      "next": "Következő kép"
+    },
+    "shadowMatch": {
+      "guidance": "Nézze meg a felső árnyékot. Érintse meg a képet, amelyik veti.",
+      "yes": "Igen, az árnyékot ez veti: {name|lower}.",
+      "next": "Következő árnyék",
+      "shadowAlt": "Egy árnyék, amelyhez párt keresünk",
+      "foundAlt": "Az árnyék gazdája: {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Érintsen meg egy képet, majd a kosarat, amelybe tartozik.",
+      "restart": "Új képek",
+      "themeLegend": "Téma",
+      "selected": "{name}. Most érintse meg a kosarat, amelybe kerül.",
+      "pickFirst": "Előbb érintsen meg egy képet, aztán egy kosarat.",
+      "hint": "Kép: {name|lower}. Ide tehető: „{basket}”. Érintse meg azt a kosarat.",
+      "placed": "{name|lower}: ide került: „{basket}”.",
+      "sorted": "Minden a helyére került. Nézzék át együtt a kosarakat, vagy próbáljanak másik témát.",
+      "basket": {
+        "one": "{basket} kosár, benne {count} kép",
+        "other": "{basket} kosár, benne {count} kép"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Érintsen meg egy darabot, majd egy másikat. Helyet cserélnek.",
+      "restart": "Újra összekeverem",
+      "pictureLegend": "Kép",
+      "pictures": {
+        "sailboat": "Vitorlás",
+        "house": "Ház",
+        "balloon": "Hőlégballon",
+        "sunflower": "Napraforgó",
+        "lighthouse": "Világítótorony",
+        "cat": "Macska"
+      },
+      "sizeLegend": "Darabok",
+      "size": {
+        "one": "{n} darab",
+        "other": "{n} darab"
+      },
+      "pickedUp": "A darab fel van véve. Most érintse meg, hová kerüljön.",
+      "whole": "Újra egész: {name|lower}. Válasszon másik képet, amikor kedve tartja.",
+      "swapped": {
+        "one": "Kicserélve. {total} darabból {correct} a helyén van.",
+        "other": "Kicserélve. {total} darabból {correct} a helyén van."
+      },
+      "guideAlt": "A teljes kép: {name}",
+      "guideText": "Így néz ki a kép, ha egész.",
+      "piece": "Darab: {place}",
+      "pieceInPlace": ", a helyén van",
+      "piecePickedUp": ", felvéve",
+      "places4": [
+        "bal felső",
+        "jobb felső",
+        "bal alsó",
+        "jobb alsó"
+      ],
+      "places9": [
+        "bal felső",
+        "felső középső",
+        "jobb felső",
+        "bal középső",
+        "közép",
+        "jobb középső",
+        "bal alsó",
+        "alsó középső",
+        "jobb alsó"
+      ],
+      "done": "A kép újra egész. Játsszanak újra, vagy pihenjenek egyet.",
+      "playAgain": "Újra összekeverem"
+    },
+    "finishTheSaying": {
+      "guidance": "Olvassák fel együtt a mondást, aztán érintse meg a szót, amely befejezi.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Igen, „{start} {end}.”",
+      "otherEnding": "A(z) „{word}” is jó. A szokásos mondás vége: „{end}”.",
+      "revealed": "A mondás: „{start} {end}.”",
+      "choicesLabel": "Válassza ki az utolsó szót",
+      "show": "A befejezés mutatása",
+      "talk": "Beszélgessenek róla: ",
+      "next": "Következő mondás"
+    },
+    "wordSearch": {
+      "guidance": "A szavak vízszintesen vagy függőlegesen állnak. Érintse meg egy szó első betűjét, majd az utolsót.",
+      "restart": "Új feladvány",
+      "themeLegend": "Téma",
+      "sizeLegend": "Rácsméret",
+      "size": {
+        "one": "{n} × {n} ({words} szó)",
+        "other": "{n} × {n} ({words} szó)"
+      },
+      "print": "Feladvány nyomtatása",
+      "letterChosen": "Kiválasztott betű: {letter}. Most érintse meg a szó utolsó betűjét.",
+      "found": "{word} megtalálva.",
+      "foundAll": "{word} megtalálva. Ez volt minden szó. Játsszanak újra, vagy pihenjenek egyet.",
+      "tryAgain": "Ráér. Érintse meg egy szó első betűjét, majd az utolsót.",
+      "gridLabel": "Betűrács, {n} sor, soronként {n} betű. A nyílbillentyűkkel mozoghat a betűk között.",
+      "cell": "{letter}, {row}. sor, {col}. oszlop",
+      "cellFound": ", egy megtalált szó része",
+      "wordsHeading": "Megtalálandó szavak",
+      "wordFound": " (megtalálva)",
+      "sheetTitle": "Szókereső: {theme}",
+      "sheetNote": "A szavak vízszintesen vagy függőlegesen állnak.",
+      "unavailable": "Ehhez a nyelvhez nem illik a betűrács, ezért a szókereső itt nem érhető el. Próbálják ki helyette a képes játékokat."
+    },
+    "coloring": {
+      "guidance": "Érintsen meg egy színt, majd a kép egy részét.",
+      "restart": "Színek törlése",
+      "cleared": "Az oldal újra üres.",
+      "pageLegend": "Oldal",
+      "print": "Oldal nyomtatása",
+      "colorsLabel": "Színek",
+      "paintChosen": "Kiválasztva: {paint}.",
+      "painted": "{part} színe most: {paint|lower}.",
+      "artLabel": "{page}, {count} kiszínezhető rész",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, nincs kiszínezve",
+      "paints": {
+        "red": "Piros",
+        "orange": "Narancssárga",
+        "yellow": "Sárga",
+        "green": "Zöld",
+        "blue": "Kék",
+        "purple": "Lila",
+        "pink": "Rózsaszín",
+        "brown": "Barna",
+        "sky-blue": "Égkék",
+        "cream": "Krémszín",
+        "gray": "Szürke",
+        "white": "Fehér"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Olvassa fel hangosan a kártyát. Nincs helyes válasz.",
+      "position": "{n}. kártya, összesen {total}",
+      "themeLegend": "Téma",
+      "next": "Következő kártya",
+      "previous": "Előző kártya",
+      "print": "Összes kártya nyomtatása",
+      "sheetTitle": "Beszélgetőkártyák"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Kezdje a fotók kiválasztásával.",
+      "guidance": "Érintsen meg egy fotót, majd azt, amelyik egyezik vele.",
+      "restart": "Újra összekeverem",
+      "intro": "**Válasszon 2–6 fotót** erről az eszközről. Csak ezen az oldalon jelennek meg, és soha nem kerülnek feltöltésre vagy mentésre.",
+      "choose": "Fotók kiválasztása",
+      "chooseDifferent": "Másik fotók kiválasztása",
+      "clear": "Fotók törlése",
+      "cleared": "A fotók törölve lettek erről az oldalról.",
+      "atLeastTwo": "Kérjük, válasszon legalább két fotót.",
+      "usingFirst": "Az első {max} fotót használjuk.",
+      "skipped": {
+        "one": "{count} fájl nem megjeleníthető fotó.",
+        "other": "{count} fájl nem megjeleníthető fotó."
+      },
+      "playAgain": "Új játék ezekkel a fotókkal",
+      "empty": "A fotói itt jelennek meg, mindegyik kétszer."
+    },
+    "pictureBingo": {
+      "guidance": "Előbb nyomtassa ki a kártyákat. Aztán mutassa ezt a számhúzót a legnagyobb képernyőn.",
+      "called": {
+        "one": "{name}. {total} képből {called} lett kihúzva.",
+        "other": "{name}. {total} képből {called} lett kihúzva."
+      },
+      "start": "Érintse meg a „Következő kép” gombot az első kép kihúzásához.",
+      "restart": "Új játék indítása",
+      "squaresLegend": "Mezők kártyánként",
+      "squares": "{n} mező ({side} × {side})",
+      "cardsLegend": "Hány kártyát nyomtasson",
+      "cards": {
+        "one": "{n} kártya",
+        "other": "{n} kártya"
+      },
+      "print": {
+        "one": "{n} bingókártya nyomtatása",
+        "other": "{n} bingókártya nyomtatása"
+      },
+      "ready": "Amikor készen áll",
+      "next": "Következő kép",
+      "allCalled": "Minden kép ki lett húzva",
+      "alreadyCalled": "Már kihúzva",
+      "sheetTitle": "Képes bingó · {n}. kártya"
+    },
+    "calmBreathing": {
+      "guidance": "Lélegezzen be, amíg a kör nő, és ki, amíg kisebb lesz. Hat lélegzetvétel után magától megáll.",
+      "paceLegend": "Tempó",
+      "paceSlow": "Lassú (mindkét irányban 5 másodperc)",
+      "paceGentle": "Szelíd (mindkét irányban 4 másodperc)",
+      "ready": "Amikor készen áll",
+      "in": "Lélegezzen be",
+      "hold": "Pihenjen",
+      "out": "Lélegezzen ki",
+      "start": "Indítás",
+      "stop": "Megállítás",
+      "started": "Elindult. Lélegezzen be, amíg a kör nő.",
+      "stopped": "Megállt.",
+      "finished": "Hat lassú lélegzetvétel volt. Indítsa újra, amikor kedve tartja."
+    }
+  },
+  "pictures": {
+    "teacup": "Teáscsésze",
+    "kettle": "Vízforraló",
+    "bread": "Kenyér",
+    "frying-pan": "Serpenyő tojással",
+    "cake": "Születésnapi torta",
+    "sunflower": "Napraforgó",
+    "tulip": "Piros tulipán",
+    "watering-can": "Öntözőkanna",
+    "potted-plant": "Cserepes növény",
+    "tree": "Fa",
+    "bird": "Vörösbegy egy ágon",
+    "butterfly": "Pillangó",
+    "dog": "Kutya",
+    "cat": "Macska",
+    "fish": "Aranyhal",
+    "apple": "Piros alma",
+    "pear": "Körte",
+    "strawberry": "Eper",
+    "banana": "Banán",
+    "lemon": "Citrom",
+    "cherries": "Cseresznye",
+    "house": "Ház",
+    "lamp": "Asztali lámpa",
+    "armchair": "Fotel",
+    "key": "Régi kulcs",
+    "umbrella": "Esernyő",
+    "sailboat": "Vitorlás",
+    "car": "Veterán autó",
+    "bicycle": "Bicikli",
+    "balloon": "Hőlégballon",
+    "lighthouse": "Világítótorony",
+    "sun": "Nap",
+    "moon": "Hold és csillagok"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "Addig nyújtózkodj, amíg a takaród",
+        "end": "ér",
+        "others": [
+          "tart",
+          "elég"
+        ],
+        "prompt": "Milyen takaró vagy paplan volt a kedvence?"
+      },
+      {
+        "start": "Aki korán kel, aranyat",
+        "end": "lel",
+        "others": [
+          "ás",
+          "vesz"
+        ],
+        "prompt": "Reggeli vagy esti embernek tartja magát?"
+      },
+      {
+        "start": "Ki mint vet, úgy",
+        "end": "arat",
+        "others": [
+          "él",
+          "lát"
+        ],
+        "prompt": "Termesztett valaha valamit a kertben?"
+      },
+      {
+        "start": "Jobb ma egy veréb, mint holnap egy",
+        "end": "túzok",
+        "others": [
+          "gólya",
+          "fürj"
+        ],
+        "prompt": "Melyik madarakat szereti nézni?"
+      },
+      {
+        "start": "Nem esik messze az alma a",
+        "end": "fájától",
+        "others": [
+          "kertjétől",
+          "házától"
+        ],
+        "prompt": "Ki hasonlít Önre a családban?"
+      },
+      {
+        "start": "Lassan járj, tovább",
+        "end": "érsz",
+        "others": [
+          "jössz",
+          "látsz"
+        ],
+        "prompt": "Mit csinál szívesen lassan, nyugodtan?"
+      },
+      {
+        "start": "Ahány ház, annyi",
+        "end": "szokás",
+        "others": [
+          "kert",
+          "ajtó"
+        ],
+        "prompt": "Melyik családi szokást szerette a legjobban?"
+      },
+      {
+        "start": "Jó munkához",
+        "end": "idő kell",
+        "others": [
+          "kéz kell",
+          "kedv kell"
+        ],
+        "prompt": "Mit csinált nagy türelemmel, amire szívesen gondol?"
+      },
+      {
+        "start": "Aki mer, az",
+        "end": "nyer",
+        "others": [
+          "kér",
+          "vár"
+        ],
+        "prompt": "Mi a legkalandosabb dolog, amit csinált?"
+      },
+      {
+        "start": "Nincsen rózsa",
+        "end": "tövis nélkül",
+        "others": [
+          "illat nélkül",
+          "levél nélkül"
+        ],
+        "prompt": "Milyen rózsákat szeret?"
+      },
+      {
+        "start": "A beszéd ezüst, a hallgatás",
+        "end": "arany",
+        "others": [
+          "réz",
+          "vas"
+        ],
+        "prompt": "Szereti a csendes perceket? Mit csinál olyankor?"
+      },
+      {
+        "start": "Minden jó, ha jó a",
+        "end": "vége",
+        "others": [
+          "kedve",
+          "napja"
+        ],
+        "prompt": "Mesélne egy napról, amely nagyon jól végződött?"
+      },
+      {
+        "start": "Egy fecske nem csinál",
+        "end": "nyarat",
+        "others": [
+          "tavaszt",
+          "esőt"
+        ],
+        "prompt": "Szereti nézni a madarakat az égen?"
+      },
+      {
+        "start": "Aki keres, az",
+        "end": "talál",
+        "others": [
+          "kér",
+          "vár"
+        ],
+        "prompt": "Mit szeret keresgélni, például gombát vagy virágot?"
+      },
+      {
+        "start": "Minden kezdet",
+        "end": "nehéz",
+        "others": [
+          "szép",
+          "hosszú"
+        ],
+        "prompt": "Mit kezdett el később, és szerette meg?"
+      },
+      {
+        "start": "A gyakorlat teszi a",
+        "end": "mestert",
+        "others": [
+          "szakácsot",
+          "tanítót"
+        ],
+        "prompt": "Van olyan, amit sokat gyakorolt, például hangszert vagy sportot?"
+      },
+      {
+        "start": "Nem mind arany, ami",
+        "end": "fénylik",
+        "others": [
+          "szép",
+          "kerek"
+        ],
+        "prompt": "Mi az a csillogó dolog, amelyet szeret nézni?"
+      },
+      {
+        "start": "Rend a lelke",
+        "end": "mindennek",
+        "others": [
+          "a háznak",
+          "a konyhának"
+        ],
+        "prompt": "Mit szeret rendben tartani otthon?"
+      },
+      {
+        "start": "Mindenki a maga szerencséjének",
+        "end": "kovácsa",
+        "others": [
+          "gazdája",
+          "őre"
+        ],
+        "prompt": "Ismert valakit, aki ügyesen bánt a szerszámokkal?"
+      },
+      {
+        "start": "Mindennek megvan a maga",
+        "end": "ideje",
+        "others": [
+          "helye",
+          "színe"
+        ],
+        "prompt": "Melyik évszakot szereti a legjobban?"
+      },
+      {
+        "start": "Kicsi a bors, de",
+        "end": "erős",
+        "others": [
+          "drága",
+          "finom"
+        ],
+        "prompt": "Melyik fűszert szereti a legjobban?"
+      },
+      {
+        "start": "Mindenütt jó, de legjobb",
+        "end": "otthon",
+        "others": [
+          "nyáron",
+          "együtt"
+        ],
+        "prompt": "Melyik a kedvenc szobája egy házban, és miért?"
+      },
+      {
+        "start": "Hétszer mérj,",
+        "end": "egyszer vágj",
+        "others": [
+          "kétszer vágj",
+          "egyszer mérj"
+        ],
+        "prompt": "Varrt vagy barkácsolt valaha?"
+      },
+      {
+        "start": "Ki mint ágyaz, úgy",
+        "end": "alszik",
+        "others": [
+          "ébred",
+          "pihen"
+        ],
+        "prompt": "Milyen a legkényelmesebb ágy, amelyben aludt?"
+      },
+      {
+        "start": "Jó tett helyébe jót",
+        "end": "várj",
+        "others": [
+          "kérj",
+          "adj"
+        ],
+        "prompt": "Mi az a kedves dolog, amit valaki tett Önért?"
+      },
+      {
+        "start": "Madarat tolláról, embert",
+        "end": "barátjáról",
+        "others": [
+          "házáról",
+          "kertjéről"
+        ],
+        "prompt": "Mitől jó barát valaki?"
+      },
+      {
+        "start": "Nincs új a nap",
+        "end": "alatt",
+        "others": [
+          "felett",
+          "mögött"
+        ],
+        "prompt": "Mit szeret csinálni napsütéses napon?"
+      },
+      {
+        "start": "Eső után",
+        "end": "köpönyeg",
+        "others": [
+          "esernyő",
+          "kalap"
+        ],
+        "prompt": "Szereti az eső hangját?"
+      },
+      {
+        "start": "Kéz kezet",
+        "end": "mos",
+        "others": [
+          "fog",
+          "simogat"
+        ],
+        "prompt": "Kinek segít szívesen?"
+      },
+      {
+        "start": "Ami késik, nem",
+        "end": "múlik",
+        "others": [
+          "kopik",
+          "fárad"
+        ],
+        "prompt": "Minek örül most, ami hamarosan jön?"
+      },
+      {
+        "start": "Jobb adni, mint",
+        "end": "kapni",
+        "others": [
+          "venni",
+          "kérni"
+        ],
+        "prompt": "Mi volt a legkedvesebb ajándék, amelyet adott?"
+      },
+      {
+        "start": "Nincs füst",
+        "end": "tűz nélkül",
+        "others": [
+          "szél nélkül",
+          "kémény nélkül"
+        ],
+        "prompt": "Szereti a kandalló vagy a kályha melegét?"
+      },
+      {
+        "start": "Addig üsd a vasat, amíg",
+        "end": "meleg",
+        "others": [
+          "forró",
+          "kész"
+        ],
+        "prompt": "Tanult valaha szakmát, vagy dolgozott szerszámokkal?"
+      }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEGHIKLMNOPRSTUVZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Gyümölcsök",
+          "words": [
+            "ALMA",
+            "SZILVA",
+            "CITROM",
+            "MEGGY",
+            "DINNYE",
+            "BARACK",
+            "EPER"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Kert",
+          "words": [
+            "ROZSA",
+            "BOKOR",
+            "KERT",
+            "MAG",
+            "GYEP",
+            "KAPA",
+            "LOMB",
+            "CSERJE"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Konyha",
+          "words": [
+            "TEA",
+            "VILLA",
+            "TALCA",
+            "TEJ",
+            "CUKOR",
+            "LISZT",
+            "KEKSZ",
+            "SZITA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Időjárás",
+          "words": [
+            "NAP",
+            "VIHAR",
+            "MELEG",
+            "HIDEG",
+            "ENYHE",
+            "BORUS",
+            "FAGY",
+            "HARMAT"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Állatok",
+          "words": [
+            "KUTYA",
+            "MACSKA",
+            "KACSA",
+            "LIBA",
+            "KECSKE",
+            "BIKA",
+            "CICA",
+            "HAL"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Otthon",
+          "words": [
+            "ASZTAL",
+            "SZOBA",
+            "ABLAK",
+            "KULCS",
+            "LAKAT",
+            "FAL",
+            "DOBOZ"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Minden kártya",
+        "food": "Ételek",
+        "home": "Otthon",
+        "outdoors": "Szabadban",
+        "animals": "Állatok",
+        "travel": "Utazás",
+        "work": "Munka és hobbik",
+        "music": "Zene és szórakozás",
+        "seasons": "Évszakok"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Mi a kedvenc konyhai illata?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Milyen tortát választana egy ünnepre?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Mesélje el, melyik a kedvenc gyümölcsös süteménye, például az almás pite vagy a rétes."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Hogyan szereti a teát vagy a kávét?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Mitől lesz igazán jó egy reggeli?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Szedett már gyümölcsöt egyenesen a növényről?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Édes vagy savanyú: melyiket szereti jobban?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Melyik étel íze emlékezteti a nyárra?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Mesélje el egy házról, ahol szeretett lakni."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Hol szeret leülni és pihenni a legjobban?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Mit szeret csinálni egy csendes estén?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Mit őrizne meg egy különleges dobozban?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Kit hívna meg egy csésze teára?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Mit szeret csinálni esős napon?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Milyen virágokat ültetne egy kertbe?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Mesélje el egy fáról vagy parkról, amelyet szeret."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Mi a legjobb a kertben lenni?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Milyen színű virágokat szeret a legjobban?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Szereti, ha növények vannak a lakásban?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Milyen egy tökéletes napsütéses nap Ön szerint?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Mesélje el egy kutyáról, akit ismert."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Macska vagy kutya, vagy egyik sem? Mit szeret bennük?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Milyen madarakat lát vagy hall a háza körül?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Horgászott már, vagy tartott akváriumot?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Melyik a legszebb állat, amelyet látott?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Mesélje el egy autóról, amelyet szeretett."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Inkább a vízparton vagy a hegyekben töltene egy napot?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Hová menne szívesen biciklizni?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Ha bármely hely fölött átrepülhetne, melyik lenne az?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Melyik utazást élvezte?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Milyen munkát végzett szívesen?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Mi az a hobbi, amellyel órákat tölthetne?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Mit készített vagy javított olyan jól, hogy ismerték érte?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Milyen tanácsot adna egy fiatalnak, aki most kezd dolgozni?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Milyen zenére verné a lábával a ritmust?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Mitől lesz igazán jó egy mulatság?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Melyik énekest hallgatja szívesen?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Melyik a kedvenc filmje vagy tévéműsora, amelyet újra megnézne?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Mit szeret a legjobban a nyárban?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Mit élvez az őszben?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Mi a hangulatos tennivaló egy téli estén?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Melyek a tavasz első jelei Ön szerint?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Hó, eső vagy napsütés: melyiket szereti jobban?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Virág cserépben",
+          "regions": {
+            "sky": "Háttér",
+            "table": "Asztal",
+            "stem": "Szár",
+            "leaf-left": "Bal levél",
+            "leaf-right": "Jobb levél",
+            "petal-1": "1. szirom",
+            "petal-2": "2. szirom",
+            "petal-3": "3. szirom",
+            "petal-4": "4. szirom",
+            "petal-5": "5. szirom",
+            "petal-6": "6. szirom",
+            "petal-7": "7. szirom",
+            "petal-8": "8. szirom",
+            "center": "A virág közepe",
+            "pot": "Cserép",
+            "pot-rim": "A cserép pereme"
+          }
+        },
+        "house": {
+          "name": "Ház",
+          "regions": {
+            "sky": "Ég",
+            "sun": "Nap",
+            "grass": "Fű",
+            "chimney": "Kémény",
+            "walls": "Falak",
+            "roof": "Tető",
+            "door": "Ajtó",
+            "window-left": "Bal ablak",
+            "window-right": "Jobb ablak",
+            "path": "Ösvény"
+          }
+        },
+        "teacup": {
+          "name": "Teáscsésze",
+          "regions": {
+            "background": "Háttér",
+            "saucer": "Alj",
+            "handle": "Fül",
+            "cup": "Csésze",
+            "band": "Csík a csészén",
+            "tea": "Tea"
+          }
+        },
+        "butterfly": {
+          "name": "Pillangó",
+          "regions": {
+            "background": "Háttér",
+            "wing-top-left": "Bal felső szárny",
+            "wing-top-right": "Jobb felső szárny",
+            "wing-bottom-left": "Bal alsó szárny",
+            "wing-bottom-right": "Jobb alsó szárny",
+            "spot-left": "Folt a bal szárnyon",
+            "spot-right": "Folt a jobb szárnyon",
+            "body": "Test"
+          }
+        },
+        "sailboat": {
+          "name": "Vitorlás",
+          "regions": {
+            "sky": "Ég",
+            "sea": "Tenger",
+            "sail-big": "Nagy vitorla",
+            "sail-small": "Kis vitorla",
+            "mast": "Árboc",
+            "hull": "Hajótest",
+            "flag": "Zászló"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Konyha és kert",
+          "baskets": [
+            "A konyhában",
+            "A kertben"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Gyümölcsök és állatok",
+          "baskets": [
+            "Gyümölcsök",
+            "Állatok"
+          ]
+        },
+        "home-travel": {
+          "label": "Otthon és utazás",
+          "baskets": [
+            "Otthon",
+            "Úton"
+          ]
+        }
+      }
+    }
+  }
+}

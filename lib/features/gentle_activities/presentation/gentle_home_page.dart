@@ -11,9 +11,14 @@ import 'package:golden_moments/features/gentle_activities/presentation/gentle_ga
 import 'package:golden_moments/features/gentle_activities/presentation/help_privacy_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
+import 'package:golden_moments/features/habits/presentation/habits_page.dart';
+import 'package:golden_moments/features/language/presentation/language_page.dart';
 import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
 import 'package:golden_moments/features/reminders/presentation/reminder_page.dart';
 import 'package:golden_moments/features/today/presentation/today_page.dart';
+import 'package:golden_moments/features/wellbeing/presentation/activity_planner_page.dart';
+import 'package:golden_moments/features/wellbeing/presentation/daily_moment_page.dart';
+import 'package:golden_moments/features/wellbeing/presentation/progress_page.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/native/gm_native.dart';
 import 'package:golden_moments/shared/rating/review_request.dart';
@@ -197,6 +202,52 @@ class _GentleHomePageState extends State<GentleHomePage> {
         ),
       ),
       const SizedBox(height: gmSpaceLg),
+      // The app's language: the device's language at first, then the person's
+      // own choice (see docs/engineering/localization.md).
+      Center(
+        child: TextButton.icon(
+          onPressed: () => _open(const LanguagePage()),
+          icon: const Icon(Icons.translate),
+          label: Text(l10n.languageTitle, textAlign: TextAlign.center),
+        ),
+      ),
+      // Habits linked with lower dementia risk, in plain hedged words, for any
+      // adult looking after their health (docs/specs/wellbeing.md).
+      Center(
+        child: TextButton.icon(
+          onPressed: () => _open(const HabitsPage()),
+          icon: const Icon(Icons.health_and_safety_outlined),
+          label: Text(l10n.habitsHomeButton, textAlign: TextAlign.center),
+        ),
+      ),
+      // Daily wellbeing: a short optional moment, a suggested routine and a
+      // gentle record of the days finished. Nothing is scored (Health & Fitness
+      // and Lifestyle; see docs/specs/wellbeing.md).
+      Center(
+        child: TextButton.icon(
+          onPressed: () =>
+              _open(const DailyMomentPage(pictures: ActivityPicture.samples)),
+          icon: const Icon(Icons.today_outlined),
+          label: Text(
+            l10n.wellbeingHomeDailyMoment,
+            textAlign: TextAlign.center,
+          ),
+        ),
+      ),
+      Center(
+        child: TextButton.icon(
+          onPressed: () => _open(const ActivityPlannerPage()),
+          icon: const Icon(Icons.event_note_outlined),
+          label: Text(l10n.wellbeingHomePlanner, textAlign: TextAlign.center),
+        ),
+      ),
+      Center(
+        child: TextButton.icon(
+          onPressed: () => _open(const ProgressPage()),
+          icon: const Icon(Icons.timeline),
+          label: Text(l10n.wellbeingHomeProgress, textAlign: TextAlign.center),
+        ),
+      ),
       // For the caregiver: one hard moment, what to try, private notes.
       Center(
         child: TextButton.icon(

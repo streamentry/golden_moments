@@ -1,0 +1,534 @@
+{
+  "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
+  "common": {
+    "skipLink": "Siirry pääsisältöön",
+    "brandName": "Golden Moments",
+    "brandTag": "Dementiapuuhia",
+    "homeLabel": "Golden Momentsin etusivu",
+    "mainNav": "Päävalikko",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: isoja, ystävällisiä kuvia teekupista, auringonkukasta ja koirasta",
+    "languages": "Kieli",
+    "englishOnly": "(englanniksi)",
+    "machineTranslated": "Tämä sivu on käännetty automaattisesti, eikä äidinkielinen puhuja ole vielä tarkistanut sitä.",
+    "readOriginal": "Lukekaa alkuperäinen englanniksi",
+    "nav": {
+      "games": "Pelit",
+      "activities": "Toiminnat",
+      "caregiving": "Hoiva",
+      "brainHealth": "Aivoterveys"
+    },
+    "faqTitle": "Kysymykset ja vastaukset",
+    "breadcrumb": "Polku",
+    "home": "Etusivu",
+    "lastUpdated": "Päivitetty viimeksi",
+    "topics": "Aiheet"
+  },
+  "footer": {
+    "play": "Pelaa",
+    "picturePairs": "Kuvaparit",
+    "conversationCards": "Keskustelukortit",
+    "pictureBingo": "Kuvabingo",
+    "allGames": "Kaikki pelit",
+    "activityIdeas": "Toimintaideat",
+    "ideas101": "101 toimintaideaa",
+    "lateStage": "Toimintaa myöhäisvaiheeseen",
+    "printable": "Tulostettavat toiminnat",
+    "allActivities": "Kaikki toiminnat",
+    "forCaregivers": "Läheisille ja hoitajille",
+    "playTogether": "Näin pelaatte yhdessä",
+    "selfCare": "Huolenpito itsestä",
+    "brainHealth": "Aivoterveyden tutkimus",
+    "faq": "Kysymykset ja vastaukset",
+    "about": "Tietoa meistä",
+    "approach": "Lähestymistapamme",
+    "howWeWrite": "Näin kirjoitamme",
+    "organizations": "Organisaatioille",
+    "app": "Golden Moments -sovellus",
+    "appHelp": "Sovelluksen ohjeet",
+    "support": "Tuki",
+    "legal": "Oikeudelliset tiedot",
+    "sitePrivacy": "Verkkosivuston tietosuoja",
+    "appPrivacy": "Sovelluksen tietosuojaseloste",
+    "privacyChoices": "Tietosuojavalinnat",
+    "terms": "Ehdot ja sovelluslisenssi",
+    "safety": "Turvallisuus ja käyttötarkoitus",
+    "accessibility": "Saavutettavuus",
+    "healthNotice": "Terveystietoja koskeva huomautus",
+    "allLegal": "Kaikki oikeudelliset tiedot",
+    "note": "Golden Moments tarjoaa yksinkertaisia yhteisiä toimintoja virkistykseksi. Se ei ole lääketieteellistä neuvontaa, testi tai hoito, eikä se diagnosoi, mittaa tai pisteytä ketään. Terveyteen liittyvissä kysymyksissä kääntykää lääkärin puoleen. Hätätilanteessa soittakaa hätänumeroon 112.",
+    "publisher": "Julkaisija: Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Dementia- ja Alzheimer-pelit ja -toiminnat | Golden Moments",
+    "description": "Ilmaisia, rauhallisia kuvapelejä verkossa ja toimintaideoita dementiaa sairastaville ja läheisille. Ei rekisteröitymistä, ajastimia eikä pisteitä.",
+    "eyebrow": "Ilmainen · Ei mainoksia · Ei rekisteröitymistä · Ei ajastimia eikä pisteitä",
+    "h1": "Rauhallisia pelejä ja toimintaa muistisairaille",
+    "lede": "Helppoja kuvapelejä, tuttuja valokuvia ja yhteistä tekemistä, omaan tahtiin.",
+    "playGame": "Pelaa peliä",
+    "findIdeas": "Etsi toimintaideoita",
+    "facts": [
+      "Toimii puhelimella, tabletilla ja tietokoneella",
+      "Isot kuvat pysyvät näkyvissä",
+      "Voitte lopettaa milloin vain, eikä mikään voi epäonnistua"
+    ],
+    "heroApp": "Saatavana myös ilmaisena sovelluksena iPhonelle, iPadille ja Androidille, omilla perhekuvillanne",
+    "albumNote": "”Kaksi kuvaa teekupista, yhdessä.”",
+    "gamesEyebrow": "Pelaa selaimessa",
+    "gamesTitle": "Pelejä, joita voitte pelata heti",
+    "gamesLede": "Jokainen on rauhallinen, aikuisille sopiva ja nopea aloittaa. Valitkaa yksi, istukaa vierekkäin ja napauttakaa vuorotellen.",
+    "seeAllGames": "Näytä kaikki {count} peliä",
+    "howTitle": "Näin se toimii",
+    "steps": [
+      {
+        "title": "Valitkaa jotakin tuttua",
+        "text": "Kuvia teekupeista, puutarhoista, lemmikeistä ja purjeveneistä. Ei tarvitse lukea eikä opetella sääntöjä."
+      },
+      {
+        "title": "Istukaa vierekkäin",
+        "text": "Antakaa heidän napauttaa. Jutelkaa kuvista. Pari, joka ei sovi yhteen, odottaa vain seuraavaa napautusta."
+      },
+      {
+        "title": "Lopettakaa, kun on hyvä olla",
+        "text": "Yksi peli on kokonainen toiminta. Painike ”Tältä erää riittää” on aina näkyvissä."
+      }
+    ],
+    "stageEyebrow": "Ruudun ulkopuolella",
+    "stageTitle": "Toimintaideoita jokaiseen vaiheeseen",
+    "stageLede": "Musiikkia, arkisia askareita, muistelua ja hiljaisia aistihetkiä, sovitettuna siihen, mikä tuntuu nyt hyvältä.",
+    "ideas101": "101 toimintaideaa",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Alkuvaihe",
+        "text": "Jatkakaa sitä, mistä he pitävät, pienin muutoksin: harrastuksia, retkiä, sanapelejä ja yhteistä suunnittelua.",
+        "label": "Alkuvaiheen ideat"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Keskivaihe",
+        "text": "Yksinkertaisia, tuttuja tehtäviä vaiheisiin jaettuna: taittelua, lajittelua, musiikkia, kuvapelejä ja lyhyitä kävelyjä.",
+        "label": "Keskivaiheen ideat"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Myöhäisvaihe",
+        "text": "Turvaa ja yhteyttä kosketuksen, äänen ja näön kautta: käsien hoitoa, lempilauluja, valokuvia ja yhdessäoloa.",
+        "label": "Myöhäisvaiheen ideat"
+      }
+    ],
+    "specificHtml": "Etsittekö jotakin tiettyä? Kokeilkaa <a href=\"/activities/alzheimers/\">toimintoja ja pelejä Alzheimerin tautia sairastaville</a>, <a href=\"/activities/memory-games/\">rauhallisia muistipelejä</a>, <a href=\"/activities/trivia/\">helppoa tietovisaa</a> tai <a href=\"/activities/puzzles/\">palapelejä</a>.",
+    "approachEyebrow": "Lähestymistapamme",
+    "approachTitle": "Yhteinen toiminta, ei muistitesti",
+    "approachLede": "Monet ”aivopelit” on rakennettu nopeuden, pisteiden ja putkien ympärille. Dementiaa sairastavalle se voi tuntua kokeelta. Me teimme päinvastoin.",
+    "approachLink": "Miksi suunnittelemme näin",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Mikään ei voi epäonnistua",
+        "text": "Ei kelloa, pisteitä, henkiä eikä häviämistä. Erilainen kuva on tauko, ei virhe."
+      },
+      {
+        "icon": "eye",
+        "title": "Kuvat pysyvät näkyvissä",
+        "text": "Tunnistaminen on muistamista tärkeämpää. Parien etsintä alkaa kuvat näkyvissä, joten mitään ei tarvitse muistaa."
+      },
+      {
+        "icon": "people",
+        "title": "Aikuismainen ja arvokas",
+        "text": "Lämpimiä, selkeitä sanoja ja oikean maailman kuvia. Ei koskaan sarjakuvahahmoja eikä lässytystä."
+      },
+      {
+        "icon": "shield",
+        "title": "Yksityinen jo suunnittelussa",
+        "text": "Ei käyttäjätilejä eikä mainoksia. Kuvanne eivät koskaan poistu laitteeltanne."
+      }
+    ],
+    "guidesEyebrow": "Läheisille ja hoitajille",
+    "guidesTitle": "Käytännön oppaita arjen hoivaan",
+    "allCaregiving": "Kaikki hoivaoppaat",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Näin pelaatte pelejä yhdessä",
+        "text": "Valmistelu, tahti ja mitä tehdä, kun peli ei enää ole hauska."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Kun he sanovat ei toiminnalle",
+        "text": "Yleisiä syitä kieltäytymiseen ja lempeitä tapoja yrittää uudelleen myöhemmin."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Tabletin valmistelu",
+        "text": "Isompaa tekstiä, vähemmän keskeytyksiä ja yksi yksinkertainen aloitusnäyttö."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Ilmaisia tulostettavia toimintoja",
+        "text": "Isokokoisia sanahakuja, värityskuvia, bingoa ja keskustelukortteja."
+      }
+    ],
+    "researchTitle": "Aivoterveys: mitä tutkimus todella kertoo",
+    "researchText": "Voiko dementiaa ehkäistä? Auttavatko aivopelit? Entä paastoaminen, ruokavalio, uni ja kuulo? Selkeitä, lähteisiin perustuvia vastauksia, myös siitä, missä näyttö on heikkoa.",
+    "researchLink": "Lukekaa tutkimusoppaat",
+    "appEyebrow": "Myös sovellus",
+    "appTitle": "Golden Moments iPhonella, iPadilla ja Androidilla",
+    "appText": "Ilmainen sovellus toimii ilman verkkoa ja voi käyttää valitsemianne perhekuvia, jotka säilytetään kopioina laitteellanne. Sama rauhallinen ilme: neljä isoa ruutua, ei ajastinta, ei pisteitä.",
+    "aboutApp": "Tietoa sovelluksesta",
+    "faq": [
+      {
+        "q": "Mitkä ovat hyviä pelejä muistisairaille?",
+        "a": "Hyvät pelit ovat yksinkertaisia, tuttuja ja vailla painetta: isoja kuvia pareiksi, lajittelua, helppoja palapelejä, tuttujen sanontojen päättämistä, värittämistä, kuvabingoa ja keskustelukortteja. Paras valinta on se, josta ihminen nauttii tänään. Välttäkää ajastimia, pisteitä ja kaikkea, mikä tuntuu kokeelta."
+      },
+      {
+        "q": "Ovatko nämä dementiapelit ilmaisia?",
+        "a": "Kyllä. Jokainen Golden Momentsin peli ja tulostettava aineisto on ilmainen, eikä käyttäjätiliä, rekisteröitymistä tai lataamista tarvita. Pelit toimivat verkkoselaimessa puhelimella, tabletilla tai tietokoneella."
+      },
+      {
+        "q": "Ehkäisevätkö aivopelit dementiaa?",
+        "a": "Mitään peliä ei ole osoitettu ehkäiseväksi dementiaa vastaan, eikä Golden Moments väitä hoitavansa tai ehkäisevänsä mitään. Pelimme on tarkoitettu virkistykseksi ja yhdessäoloon. Aivoterveysosiomme kertoo, mitä tutkimus osoittaa ja mitä ei."
+      },
+      {
+        "q": "Sopivatko nämä pelit Alzheimerin tautia sairastavalle?",
+        "a": "Kyllä. Alzheimerin tauti on yleisin dementian syy, ja pelit on tehty sitä ajatellen: isoja kuvia, jotka pysyvät näkyvissä, vähän valittavaa ja ei mitään muistettavaa tai väärin tehtävää. Parien etsintä, lajittelu ja tuttujen sanontojen päättäminen nojaavat pitkään tuttuun tietoon, ei uuden oppimiseen."
+      },
+      {
+        "q": "Voiko myöhäisvaiheen muistisairas käyttää näitä toimintoja?",
+        "a": "Usein kyllä, kun joku on vierellä. Aloittakaa pelillä Etsi samanlainen kahdella kuvalla, Kuvapareilla neljällä ruudulla, värityskuvalla tai rauhallisella hengitystauolla. Pitäkää se lyhyenä, seuratkaa heidän aloitettaan ja lopettakaa, kun heillä on tarpeeksi."
+      },
+      {
+        "q": "Onko tietoni yksityisiä?",
+        "a": "Sivustolla ei ole käyttäjätilejä eikä mainontaa. Käytämme Google Analyticsia ymmärtääksemme, mitä sivuja käytetään. Kuvaparipeliin valitsemanne valokuvat näkyvät vain selaimessanne, eikä niitä koskaan lähetetä verkkoon."
+      },
+      {
+        "q": "Kuka Golden Momentsin tekee?",
+        "a": "Golden Moments on pieni tiimi, joka tekee rauhallisia, aikuisille sopivia kuvatoimintoja perheille ja läheisille verkossa ja ilmaisena sovelluksena. Emme ole kliinikkoja, eikä mikään täällä ole lääketieteellistä neuvontaa."
+      }
+    ]
+  },
+  "stage": {
+    "early": "alkuvaihe",
+    "middle": "keskivaihe",
+    "late": "myöhäisvaihe",
+    "hintOne": "Sopii usein: {list}",
+    "hintMany": "Sopii usein: {list}",
+    "labelEarly": "Alkuvaihe",
+    "labelMiddle": "Keskivaihe",
+    "labelLate": "Myöhäisvaihe"
+  },
+  "cards": {
+    "aboutGame": "Tietoa tästä pelistä",
+    "printable": "Tulostettava",
+    "play": "{name}: pelaa →",
+    "readGuide": "Lukekaa opas"
+  },
+  "playCta": {
+    "title": "Valmiina rauhalliseen peliin?",
+    "text": "Isoja kuvia, ei ajastinta, ei pisteitä eikä rekisteröitymistä. Pelatkaa yhdessä selaimessa.",
+    "play": "Pelaa peliä",
+    "all": "Näytä kaikki pelit",
+    "aria": "Pelaa peliä"
+  },
+  "appCta": {
+    "title": "Ottakaa nämä pelit mukaan",
+    "text": "Ilmainen Golden Moments -sovellus iPhonelle, iPadille ja Androidille: isoja kuvaruutuja, pelejä omilla perhekuvillanne ja kuvasarjoja, jotka toimivat ilman Wi‑Fi-yhteyttä. Ei tiliä, mainoksia, ajastinta eikä pisteitä.",
+    "appStore": "Lataa App Storesta",
+    "googlePlay": "Lataa Google Playsta",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Tietoa sovelluksesta",
+    "aria": "Hanki sovellus"
+  },
+  "sections": {
+    "activities": {
+      "label": "Toiminnat",
+      "title": "Toimintaa muistisairaille",
+      "seo": "Toimintaa muistisairaille: ideoita vaiheittain",
+      "description": "Toimintaideoita dementiaa sairastaville jokaiseen vaiheeseen: musiikkia, muistelua, arkisia askareita, aistihetkiä, askartelua, ulkoilua ja ilmaisia tulostettavia.",
+      "lede": "Merkityksellinen toiminta on kaikkea, mikä tuo turvaa, tarkoitusta tai hetken yhteyttä. Aloittakaa siitä, mistä ihminen on aina pitänyt, ja sovittakaa se tähän päivään."
+    },
+    "caregiving": {
+      "label": "Hoiva",
+      "title": "Hoivaoppaat",
+      "seo": "Dementiaa sairastavan läheisen oppaat: käytännön apua arkeen",
+      "description": "Käytännön oppaita dementiaa sairastavan läheisille: yhdessä pelaaminen, kommunikointi, kieltäytymiset, iltapäivän levottomuus, tabletit ja oma jaksaminen.",
+      "lede": "Selkeää, käytännöllistä apua dementiaa sairastavan ihmisen arjen hetkiin, myös omasta jaksamisestanne huolehtimiseen."
+    },
+    "brain-health": {
+      "label": "Aivoterveys",
+      "title": "Aivoterveys: mitä tutkimus kertoo",
+      "seo": "Aivoterveys ja dementian riski: mitä tutkimus kertoo",
+      "description": "Voiko dementiaa ehkäistä? Rehellisiä, lähteisiin perustuvia oppaita dementian riskitekijöistä, aivopeleistä, ruokavaliosta, liikunnasta, unesta ja kuulosta.",
+      "lede": "Mitä suuret tutkimukset todella osoittavat dementian riskin pienentämisestä, selitettynä selkeästi, myös siitä, missä näyttö on heikkoa tai ristiriitaista. Yleistä tietoa, ei lääketieteellistä neuvontaa."
+    }
+  },
+  "guide": {
+    "updated": "Päivitetty",
+    "minuteRead": "{n} minuutin lukuaika",
+    "byTeam": "Kirjoittanut Golden Moments -tiimi",
+    "howWeWrite": "Näin kirjoitamme",
+    "shortAnswer": "Lyhyt vastaus",
+    "onThisPage": "Tällä sivulla ({n} osiota)",
+    "commonQuestions": "Yleisiä kysymyksiä",
+    "sources": "Lähteet",
+    "sourcesNote": "Linkitämme järjestöihin ja tutkimuksiin, joihin tämä sivu perustuu. Jokainen niistä tarkistettiin sivun päivityksen yhteydessä.",
+    "tryTogether": "Kokeilkaa yhdessä",
+    "relatedGuides": "Aiheeseen liittyvät oppaat",
+    "related": "Aiheeseen liittyvää",
+    "startHere": "Aloittakaa tästä"
+  },
+  "healthNotice": {
+    "aria": "Terveystietoja koskeva huomautus",
+    "title": "Yleistä tietoa, ei lääketieteellistä neuvontaa",
+    "textHtml": "Tämä sivu tiivistää julkaistua tutkimusta perheille. Se ei voi kertoa, mikä sopii yhdelle ihmiselle. Keskustelkaa lääkärin kanssa ennen kuin muutatte ruokavaliota, liikuntaa, unta, lääkkeitä tai lisäravinteita. Äkillisen sekavuuden tai muun äkillisen muutoksen vuoksi hakeutukaa heti lääkärin hoitoon. <a href=\"/medical-disclaimer/\">Lukekaa terveystietoja koskeva huomautuksemme</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Yhteinen toiminta, ei muistitesti",
+      "seoTitle": "Tietoa Golden Momentsista: lähestymistapamme",
+      "description": "Miksi Golden Momentsin peleissä ei ole ajastimia, pisteitä tai putkia, miksi kuvat pysyvät näkyvissä ja mitä väitämme ja emme väitä dementiasta.",
+      "crumb": "Lähestymistapamme",
+      "lede": "Golden Moments tekee rauhallisia, aikuisille sopivia kuvatoimintoja, joista läheinen ja dementiaa sairastava ihminen voivat nauttia vierekkäin.",
+      "bodyHtml": "<h2>Mihin uskomme</h2><p>Toiminnan tarkoitus on itse hetki: keskustelu, hymy, tyydytys kahden kuvan yhdistämisestä tai pelkkä läheisyys. Tarkoitus ei ole mitata ketään, viedä heitä pidemmälle tai todistaa mitään.</p><p>Monet aivojumppasovellukset on suunniteltu nopeuden, pisteiden, putkien ja tasojen ympärille. Dementiaa sairastavalle se voi tuntua kokeelta, josta ei voi selvitä. Suunnittelimme päinvastoin ja noudatamme näitä sääntöjä:</p><ul><li><strong>Mikään ei voi epäonnistua.</strong> Ei kelloa, pisteitä, siirtolaskuria, henkiä, putkia, konfettia eikä lähtölaskentaa millään näytöllä.</li><li><strong>Tunnistaminen ennen muistamista.</strong> Kuvat pysyvät oletuksena näkyvissä. Keskustelun aloitukset kutsuvat juttelemaan, eivätkä koskaan tentti nimiä tai muistoja.</li><li><strong>Iso, selkeä ja tasainen.</strong> Iso teksti ja isot kuvat, korkea kontrasti ja painikkeet, jotka pysyvät samassa paikassa.</li><li><strong>Aikuisen arvokkuus.</strong> Oikean maailman kuvia sekä selkeitä ja lämpimiä sanoja. Ei sarjakuvahahmoja, lässytyskehuja eikä emojipalkkioita.</li><li><strong>Helppo tapa lopettaa.</strong> ”Tältä erää riittää” on aina näkyvissä. Puolivälissä lopettaminen on hyvä lopputulos.</li><li><strong>Yksityinen oletuksena.</strong> Ei käyttäjätilejä eikä mainoksia. Valitsemanne kuvat pysyvät laitteellanne.</li></ul><h2>Mitä emme väitä</h2><p>Pelimme on tarkoitettu virkistykseen ja yhteyteen. Ne eivät diagnosoi, testaa, mittaa, hoida, hidasta tai ehkäise dementiaa tai Alzheimerin tautia, eikä kenenkään pidä valita niitä sen vuoksi. Kun kirjoitamme tutkimuksista <a href=\"/brain-health/\">aivoterveyssivuillamme</a>, kerromme selvästi, missä näyttö on heikkoa, emmekä koskaan yhdistä sitä omiin peleihimme.</p><h2>Keitä olemme</h2><p>Golden Moments on pieni itsenäinen tiimi. Emme ole kliinikkoja. Oppaamme on kirjoitettu julkaistujen ohjeiden pohjalta, joita ovat antaneet muun muassa National Institute on Aging ja Alzheimer’s Association, ja jokainen opas luettelee lähteensä. Lukekaa, <a href=\"/editorial-policy/\">miten kirjoitamme ja tarkistamme sivumme</a>.</p><h2>Kertokaa, mikä auttaisi</h2><p>Kuulisimme mielellämme, mikä toimii teillä ja mikä ei, erityisesti dementiaa sairastavilta, läheisiltä ja toimintaa ohjaavilta työntekijöiltä. Kirjoittakaa osoitteeseen <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Näin kirjoitamme ja tarkistamme sivumme",
+      "seoTitle": "Toimituksellinen linjaus",
+      "description": "Miten Golden Moments tutkii, kirjoittaa, lähteistää ja päivittää dementiatoiminta- ja aivoterveyssivunsa ja mitä emme koskaan julkaise.",
+      "crumb": "Toimituksellinen linjaus",
+      "bodyHtml": "<h2>Lähteemme</h2><p>Oppaamme perustuvat julkisiin ohjeisiin, joita ovat antaneet esimerkiksi National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance ja NHS, sekä vertaisarvioituun tutkimukseen, kuten Cochrane-katsauksiin ja suuriin kliinisiin tutkimuksiin. Jokainen opas luettelee lähteensä. Avaamme jokaisen lähteen ennen siihen viittaamista, ja kerromme vain sen, mitä se todella sanoo.</p><h2>Näin kirjoitamme</h2><ul><li>Käytännöllisyys ensin: mitä tehdä tänään, selkeällä kielellä.</li><li>Rehellisyys näytöstä: sanomme ”liittyy”, ”voi” ja ”näyttö on ristiriitaista”, kun se on totta.</li><li>Kunnioitus: kirjoitamme dementiaa sairastavista aikuisina emmekä koskaan käytä tenttaavaa tai häpäisevää kieltä.</li><li>Ei keksittyä sisältöä: ei keksittyjä tilastoja, lainauksia, asiantuntijoita, tutkimuksia, arvosteluja tai suosituksia.</li></ul><h2>Kuka tarkistaa sivumme</h2><p>Sivut kirjoittaa ja tarkistaa Golden Moments -tiimi, ja apuna käytetään tekoälyn kirjoitustyökaluja tutkimukseen ja luonnosteluun. Tiimi tarkistaa jokaisen sivun sen lähteitä vasten. Sivujamme <strong>ei</strong> ole tarkistuttanut lääkäri tai muu kliinikko, emmekä väitä muuta. Ne ovat yleistä tietoa, eivät lääketieteellistä neuvontaa.</p><h2>Mitä emme koskaan julkaise</h2><ul><li>Väitteitä, että peli, ruoka, lisäravinne, paasto tai rutiini ehkäisee, hoitaa, hidastaa tai parantaa dementiaa.</li><li>Testejä, tietovisoja tai pisteitä, jotka antavat ymmärtää, että jollakulla on tai ei ole dementiaa.</li><li>Neuvoja aloittaa, lopettaa tai muuttaa mitään lääkitystä.</li><li>Mainontaa tai sponsoroitua sisältöä, joka on naamioitu ohjeiksi.</li></ul><h2>Päivitykset ja korjaukset</h2><p>Jokaisella sivulla näkyy sen viimeisin päivityspäivä. Jos löydätte virheen tai vanhentuneen lähteen, kirjoittakaa osoitteeseen <a href=\"mailto:{email}\">{email}</a>, niin tarkistamme asian pian.</p>"
+    },
+    "faq": {
+      "title": "Kysymykset ja vastaukset",
+      "seoTitle": "Dementiapelit ja -toiminnat: kysymykset ja vastaukset",
+      "description": "Vastauksia yleisiin kysymyksiin dementiapeleistä ja -toiminnoista: mitä pelejä kokeilla, kuinka kauan pelata, myöhäisvaiheen ideat, aivoterveys ja tietosuoja.",
+      "crumb": "Kysymykset ja vastaukset",
+      "lede": "Lyhyitä, selkeitä vastauksia kysymyksiin, joita läheiset kysyvät eniten.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "Peleistä",
+          "items": [
+            {
+              "q": "Mitkä ovat parhaita pelejä muistisairaalle?",
+              "a": "Parhaat pelit ovat tuttuja, yksinkertaisia ja vailla painetta, ja oikea peli on se, josta ihminen nauttii tänään. Kuvaparit näkyvissä olevilla kuvilla, lajittelu, helpot palapelit, tuttujen sanontojen päättäminen, värittäminen ja kuvabingo sopivat monille. Välttäkää ajastimia, pisteitä ja kaikkea, mikä tuntuu kokeelta."
+            },
+            {
+              "q": "Ovatko pelit todella ilmaisia?",
+              "a": "Kyllä. Kaikki pelit ja tulostettavat ovat ilmaisia, eikä käyttäjätiliä, rekisteröitymistä, lataamista tai mainontaa tarvita."
+            },
+            {
+              "q": "Miksi pisteitä, tasoja tai ajastimia ei ole?",
+              "a": "Nopeus ja pisteet muuttavat miellyttävän toiminnan kokeeksi, mikä voi tuoda nolouden tai turhautumisen tunteita. Pidämme painopisteen nautinnossa ja yhdessäolossa, joten mikään ei voi epäonnistua ja voitte lopettaa milloin tahansa."
+            },
+            {
+              "q": "Mitkä laitteet toimivat parhaiten?",
+              "a": "Mikä tahansa puhelin, tabletti tai tietokone, jossa on moderni verkkoselain. Pöydällä telineessä oleva tabletti on usein mukavin tapa pelata kahdestaan vierekkäin. Televisioon kytketty kannettava toimii hyvin ryhmille."
+            },
+            {
+              "q": "Voimmeko pelata omilla perhekuvillamme?",
+              "a": "Kyllä. Kuvaparit-peli muuttaa 2–6 valitsemaanne valokuvaa parien etsintäpeliksi. Kuvat pysyvät selaimessanne, eikä niitä lähetetä verkkoon eikä tallenneta."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Toiminnat ja hoiva",
+          "items": [
+            {
+              "q": "Kuinka kauan toiminnan pitäisi kestää?",
+              "a": "Usein 10–20 minuuttia on runsaasti, ja joskus 2 minuuttia on onnistuminen. Tarkkailkaa väsymyksen tai turhautumisen merkkejä ja lopettakaa, kun vielä on hyvä olla. Oikeaa määrää ei ole."
+            },
+            {
+              "q": "Entä jos he eivät halua tehdä toimintaa?",
+              "a": "Kunnioittakaa kieltäytymistä ja yrittäkää myöhemmin tai eri tavalla. Kieltäytyminen voi johtua väsymyksestä, kivusta, epävarmuudesta tai siitä, ettei asia kiinnosta. Lukekaa oppaamme siitä, mitä tehdä, kun he sanovat ei."
+            },
+            {
+              "q": "Mitkä toiminnat sopivat myöhäisvaiheen dementiaan?",
+              "a": "Turva ja aistit: lempimusiikin kuuntelu, käsien hieronta voiteella, valokuvien katselu yhdessä, pehmeän huovan pitäminen, ulkona istuminen tai hyvin yksinkertainen kuvapeli, kun joku on vierellä. Myöhäisvaiheen oppaassamme on paljon lisää ideoita."
+            },
+            {
+              "q": "Onko ryhmille toimintaa hoivakodissa?",
+              "a": "Kyllä. Kuvabingossa on tulostettavat kortit ja ruudulla näkyvä numeronkutsuja, ja Päätä sanonta sekä Keskustelukortit toimivat hyvin ääneen luettuina. Hoivakotiryhmien oppaassamme käsitellään ryhmän kokoa, istumajärjestystä ja eritasoisten osallistujien huomioimista."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Aivoterveys",
+          "items": [
+            {
+              "q": "Voivatko pelit ehkäistä tai hidastaa dementiaa?",
+              "a": "Mitään peliä ei ole osoitettu ehkäiseväksi dementiaa vastaan, eikä pelimme väitä sellaista. Sosiaalisessa ympäristössä tehty kognitiivinen stimulaatio on tutkimuksissa osoittanut pieniä hyötyjä lievää tai keskivaikeaa dementiaa sairastaville, mutta se on eri asia kuin se, että peli ehkäisisi sairautta. Tarjoamme pelejä virkistykseksi ja yhteyteen."
+            },
+            {
+              "q": "Voiko dementiaa ehkäistä?",
+              "a": "Ei varmuudella. Tutkimus yhdistää dementian riskiin 14 terveys- ja elämäntapatekijää, kuten kuulonmenetyksen, korkean verenpaineen, liikkumattomuuden ja sosiaalisen eristäytymisen. Niihin vaikuttaminen voi pienentää riskiä joillakin ihmisillä, mutta moni, joka tekee kaiken oikein, sairastuu silti dementiaan. Se ei ole koskaan kenenkään syytä."
+            },
+            {
+              "q": "Onko jaksottainen paastoaminen hyväksi aivoterveydelle?",
+              "a": "Ihmisillä tehty näyttö on vähäistä ja alustavaa, ja suuri osa tutkimuksesta on tehty eläimillä. Paastoaminen voi olla vaarallista iäkkäille, erityisesti diabeteslääkkeiden tai tahattoman painonlaskun yhteydessä, eikä sitä suositella dementiaa sairastaville. Keskustelkaa lääkärin kanssa ennen kuin muutatte ruokailutapojanne."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Tietosuoja ja turvallisuus",
+          "items": [
+            {
+              "q": "Keräättekö mitään tietoja?",
+              "a": "Ei käyttäjätilejä eikä mainoksia. Käytämme Google Analyticsia käyntien laskemiseen ja sen näkemiseen, mistä sivuista on apua, ja selaimenne muistaa, oletteko kytkeneet pehmeät äänet päälle. Kuvaparit-peliin valitsemianne valokuvia ei koskaan lähetetä verkkoon. Lisätietoja on tietosuojaselosteessa."
+            },
+            {
+              "q": "Onko tämä lääketieteellistä neuvontaa?",
+              "a": "Ei. Golden Moments on tarkoitettu virkistykseen ja yleiseen tiedonvälitykseen. Terveyteen liittyvissä kysymyksissä kääntykää lääkärin puoleen, ja hätätilanteessa soittakaa hätänumeroon 112."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Lisätietoa: <a href=\"/caregiving/how-to-play-together/\">näin pelaatte yhdessä</a>, <a href=\"/caregiving/when-they-say-no/\">kun he sanovat ei</a>, <a href=\"/activities/late-stage/\">myöhäisvaiheen toiminnat</a> ja <a href=\"/brain-health/can-dementia-be-prevented/\">voiko dementiaa ehkäistä?</a>"
+    },
+    "handout": {
+      "title": "Ilmaisia, rauhallisia pelejä dementiaa sairastaville",
+      "seoTitle": "Tulostettava tiedote: ilmaiset dementiapelit verkossa",
+      "description": "Yhden sivun tulostettava tiedote perheille ja läheisille ilmaisista, rauhallisista kuvapeleistä dementiaa sairastaville, tukiryhmiä ja hoitopaketteja varten.",
+      "crumb": "Tulostettava tiedote",
+      "lede": "Tulostakaa tämä sivu tukiryhmää, hoitopakettia tai jääkaapin ovea varten. Käyttäkää selaimenne tulostuskomentoa; valikot ja painikkeet jäävät pois tulosteesta.",
+      "introHtml": "<p>Isoja kuvia, selkeitä sanoja ja mikään ei voi epäonnistua. Ilmainen puhelimella, tabletilla tai tietokoneella, ilman rekisteröitymistä, mainoksia, ajastimia ja pisteitä. Istukaa vierekkäin ja napauttakaa vuorotellen.</p>",
+      "gamesTitle": "Pelejä kokeiltavaksi yhdessä",
+      "restHtml": "<h2>Muutama vinkki</h2><ul><li>Valitkaa vuorokaudenaika, jolloin ihminen voi parhaiten.</li><li>Aloittakaa helpoimmasta asetuksesta. Neljä ruutua riittää hyvin.</li><li>Jutelkaa kuvista. Keskustelu on usein parasta.</li><li>Lopettakaa, kun vielä on mukavaa. Aikainen lopettaminen on hyvä lopputulos.</li></ul><h2>Myös sivustolla</h2><ul><li>Ilmaisia tulostettavia: isokokoinen sanahaku, värityskuvia, keskustelukortteja ja kuvabingo.</li><li>Toimintaideoita jokaiseen vaiheeseen sekä oppaita yhdessä pelaamiseen ja omasta jaksamisesta huolehtimiseen.</li></ul><p class=\"muted\">Virkistykseen ja yhdessäoloon. Ei lääketieteellistä neuvontaa, testi tai hoito. Golden Momentsin julkaisija on Cloudjet Solutions Pte. Ltd.</p>"
+    },
+    "organizations": {
+      "title": "Hoivakodeille, kirjastoille ja tukiryhmille",
+      "seoTitle": "Ilmaisia dementiatoimintoja hoivakodeille ja ryhmille",
+      "description": "Miten hoivakodit, päivätoiminta, kirjastot ja tukiryhmät käyttävät ilmaisia dementiapelejämme, sekä teksti, jolla meidät voi lisätä resurssilistaan.",
+      "crumb": "Organisaatioille",
+      "lede": "Kaikki tämän sivuston sisältö on ilmaista käyttää asukkaiden, jäsenten ja asiakkaiden kanssa, ilman tiliä, lisenssiä tai maksua. Tällä sivulla kerrotaan, mitä täällä on ja miten sen voi jakaa.",
+      "shortText": "{name}: ilmaisia, rauhallisia kuvapelejä ja toimintaoppaita dementiaa sairastaville ja heidän läheisilleen. Ei rekisteröitymistä, ajastimia eikä pisteitä.",
+      "longText": "{name} ({domain}) tarjoaa {count} ilmaista selainpeliä dementiaa sairastaville, mukaan lukien kuvaparit näkyvissä olevilla kuvilla, helpon palapelin, lajittelun, tuttuja sanontoja ja kuvabingon tulostettavilla korteilla. Käyttäjätiliä, mainontaa, ajastinta tai pisteitä ei ole. Sivustolla on myös selkokielisiä toimintaoppaita dementian jokaiseen vaiheeseen, ja ne viittaavat National Institute on Agingiin ja Alzheimer’s Associationiin.",
+      "useTitle": "Mitä organisaatiot voivat käyttää",
+      "gamesItemHtml": "<strong>{count} selainpeliä</strong>, jotka toimivat kannettavalla, tabletilla tai tietokoneeseen kytketyllä televisiolla. Ei asennusta, tiliä eikä latausta. Katsokaa <a href=\"/games/\">kaikki pelit</a>.",
+      "printablesLabel": "{count} tulostettavaa:",
+      "printablesAfter": "Käyttäkää jokaisen sivun Tulosta-painiketta.",
+      "moreItemsHtml": "<li><strong>Ryhmämuodot:</strong> <a href=\"/games/picture-bingo/\">Kuvabingossa</a> on tulostettavat kortit ja ruudulla näkyvä numeronkutsuja, ja <a href=\"/activities/trivia/\">helpossa tietovisassa</a> on 50 kysymystä vastausvaihtoehtoineen ja keskustelunaiheineen.</li><li><strong>Toimintaoppaat</strong> henkilökunnalle ja perheille vaiheittain ja tyypeittäin, selkeällä kielellä ja lähteineen. Aloittakaa sivuilta <a href=\"/activities/ideas/\">101 toimintaideaa</a> tai <a href=\"/activities/care-home-groups/\">ryhmätoiminnat hoivakodeille</a>.</li>",
+      "restHtml": "<h2>Miten ryhmät käyttävät sitä</h2><ul><li><strong>Hoivakodit ja muistisairaiden hoiva:</strong> kuvabingo tai sanontojen päättäminen yhteisen oleskelutilan televisiossa, ja yksi henkilö napauttaa ryhmän puolesta.</li><li><strong>Päivätoimintaohjelmat:</strong> tablettipiste, jossa Kuvaparit on asetettu neljään ruutuun, lyhyisiin kahdenkeskisiin hetkiin.</li><li><strong>Yleiset kirjastot:</strong> tulostettuja sanahakuja ja keskustelukortteja muistilaukkuihin sekä sivusto kirjanmerkkinä kirjaston tableteissa.</li><li><strong>Läheisten tukiryhmät ja muistikahvilat:</strong> <a href=\"/handout/\">yhden sivun tulostettava tiedote</a> perheille kotiin vietäväksi.</li><li><strong>Sairaalat ja kotiutuksen suunnittelijat:</strong> tiedote läheisten pakkauksissa, rauhallista tekemistä kotiin tai vuoteen äärelle.</li></ul><h2>Mitä emme tee</h2><p>Pelit on tarkoitettu virkistykseen ja yhdessäoloon. Ne eivät diagnosoi, testaa, pisteytä, hoida tai hidasta dementiaa, ja pyydämme organisaatioita olemaan kuvaamatta niitä niin. Mainoksia ei ole, eivätkä pelit pyydä nimiä, terveystietoja tai valokuvien lähettämistä. Verkkosivusto käyttää Google Analyticsia käyntien laskemiseen; <a href=\"/privacy/\">tietosuojaselosteemme</a> kertoo, mitä se kerää. <a href=\"/games/photo-pairs/\">Kuvaparit-pelissä</a> käytetyt valokuvat pysyvät selaimessa.</p><h2>Lisätkää meidät resurssilistaanne</h2><p>Jos ylläpidätte listaa läheisille tarkoitetuista resursseista, voitte vapaasti linkittää sivustoon <a href=\"/\">{domain}</a>. Voitte kopioida kumman tahansa kuvauksen.</p>",
+      "shortTitle": "Lyhyt kuvaus",
+      "longTitle": "Pidempi kuvaus",
+      "linksHtml": "<p>Hyödyllisiä sivuja, joihin voi linkittää suoraan: <a href=\"/games/\">ilmaiset pelit</a>, <a href=\"/activities/printable/\">ilmaiset tulostettavat</a>, <a href=\"/activities/alzheimers/\">toimintaa Alzheimerin tautia sairastaville</a> ja <a href=\"/caregiving/how-to-play-together/\">näin pelaatte yhdessä</a>.</p><h2>Kysymykset tai korjaukset</h2><p>Jos jokin sivustolla on väärin tai epäselvää tai jos asukkaan tarpeita ei huomioida täällä olevalla sisällöllä, kertokaa meille osoitteessa <a href=\"mailto:{email}\">{email}</a>. Älkää lähettäkö asukkaiden tai asiakkaiden henkilö- tai terveystietoja.</p>"
+    },
+    "app": {
+      "title": "Golden Moments -sovellus",
+      "seoTitle": "Golden Moments -sovellus iPhonelle ja Androidille",
+      "description": "Ilmainen Golden Moments -sovellus: rauhallinen kuvaparien etsintä neljällä isolla ruudulla, perhekuvat laitteellanne, offline-kuvasarjat ja ei tiliä.",
+      "crumb": "Sovellus",
+      "lede": "Kaikki, mistä verkkosivustossa pidätte, sovelluksessa, joka toimii ilman verkkoa ja voi käyttää valitsemianne perhekuvia.",
+      "worksOn": "Toimii laitteilla {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Aloittakaa pienestä</h2><p>Aloittakaa neljällä isolla ruudulla ja tutuilla kuvilla. Pitäkää kuvat näkyvissä tai piilottakaa ne, kun se tuntuu sopivalta. Rauhallisessa tilassa ei ole ajastinta, pisteitä eikä rangaistusta. Valitkaa 4, 6, 8 tai 12 ruutua.</p><h2>Tehkää siitä henkilökohtaista</h2><p>Valitkaa perhekuvia laitteenne kuvanvalitsimella. Sovellus tallentaa pienempiä kopioita toimintojaan varten. Se ei selaa kuvakirjastoanne eikä muuta alkuperäisiä kuvianne, ja se säilyttää enintään 24 kuvaa yhdessä kokoelmassa.</p><h2>Katselkaa vain yhdessä</h2><p>Katsokaa yhtä kuvaa kerrallaan. Valinnaiset keskustelun aloitukset kutsuvat juttelemaan ilman, että kenenkään tarvitsee muistaa nimiä tai antaa oikeaa vastausta. Pelkkä katselu riittää.</p><h2>Offline-tilassa siellä, missä sillä on väliä</h2><p>Mukana tulevat kuvat ja kaikki kahdeksan kuvasarjaa tulevat sovelluksen mukana. Tuodut kuvakopiot toimivat ilman verkkoa. Pelkästään iCloudissa olevien alkuperäisten kuvien valinta voi vaatia internetyhteyden.</p><h2>Ei tiliä, ei kuvien synkronointipalvelinta</h2><p>Perhekuvien kopiot pysyvät sovelluksessa laitteella. Voitte poistaa kopiot poistamatta alkuperäisiä. Laitteen varmuuskopiot voivat sisältää sovelluksen tietoja. Lukekaa <a href=\"/app-privacy/\">sovelluksen tietosuojaseloste</a>, ja <a href=\"/help/\">sovelluksen ohjeet</a> opastavat jokaisen vaiheen läpi.</p>",
+      "disclaimer": "Golden Moments on tarkoitettu virkistykseen ja yhteiseen keskusteluun. Se ei diagnosoi, hoida, ehkäise tai mittaa dementiaa tai Alzheimerin tautia.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Ilmaiset dementia- ja Alzheimer-pelit verkossa",
+    "description": "Ilmaisia verkkopelejä dementiaa tai Alzheimerin tautia sairastaville: kuvaparit, palapelit, lajittelu, sanonnat ja bingo. Ei ajastimia eikä pisteitä.",
+    "crumb": "Pelit",
+    "h1": "Rauhallisia pelejä muistisairaille",
+    "lede": "{count} ilmaista peliä, joita voitte pelata yhdessä selaimessa. Isoja kuvia, selkeitä sanoja ja mikään ei voi epäonnistua: ei ajastimia, ei pisteitä, ei rekisteröitymistä.",
+    "listName": "Rauhallisia pelejä muistisairaille",
+    "byStageTitle": "Pelin valinta vaiheen mukaan",
+    "byStageLede": "Vaiheet ovat vain suuntaa antavia. Seuratkaa sitä, mistä ihminen pitää ja mikä tuntuu tänään hyvältä.",
+    "stageCol": "Vaihe",
+    "gamesCol": "Pelejä, jotka usein sopivat",
+    "moreHtml": "Lisää ideoita ruudun ulkopuolelle: <a href=\"/activities/ideas/\">101 toimintaa dementiaa sairastaville</a>, <a href=\"/activities/alzheimers/\">toimintaa ja pelejä Alzheimerin tautia sairastaville</a>, <a href=\"/activities/memory-games/\">rauhallisia muistipelejä</a> ja <a href=\"/activities/puzzles/\">palapelejä</a>.",
+    "faq": [
+      {
+        "q": "Mistä pelistä meidän kannattaa aloittaa?",
+        "a": "Kuvaparit neljällä ruudulla on rauhallinen ensimmäinen valinta. Jos kuvien välillä valitseminen tuntuu liialta, kokeilkaa Etsi samanlainen kahdella kuvalla. Ryhmälle sopii Kuvabingo."
+      },
+      {
+        "q": "Toimivatko pelit iPadilla tai puhelimella?",
+        "a": "Kyllä. Jokainen peli toimii selaimessa puhelimilla, tableteilla ja tietokoneilla, ja kuvat kasvavat täyttämään näytön. Telineessä oleva tabletti on usein mukavin kahdelle ihmiselle."
+      },
+      {
+        "q": "Sopivatko nämä pelit Alzheimerin tautia sairastavalle?",
+        "a": "Kyllä. Ne on tehty dementiaa sairastaville, myös Alzheimerin tautia sairastaville, joka on yleisin syy. Kuvat pysyvät näkyvissä, valittavia on vain muutama, eikä mitään ajasteta tai pisteytetä, joten pelit nojaavat tuttujen asioiden tunnistamiseen eikä uusien muistamiseen."
+      },
+      {
+        "q": "Ovatko nämä muistipelejä ikäihmisille?",
+        "a": "Ne ovat parien etsintä- ja kuvapelejä, joista jokainen ikääntynyt voi nauttia, mutta ne on tehty niin, etteivät ne testaa muistia: Kuvapareissa kuvat pysyvät näkyvissä, ellette valitse toisin. Muistipelejä dementiaa sairastaville ikäihmisille käsittelevä oppaamme selittää, miten mikä tahansa muistipeli pidetään rauhallisena."
+      },
+      {
+        "q": "Onko ryhmille pelejä hoivakodissa?",
+        "a": "Kyllä. Kuvabingossa on tulostettavat kortit ja ruudulla näkyvä numeronkutsuja, ja Päätä sanonta sekä Keskustelukortit toimivat hyvin ryhmälle ääneen luettuina."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad ja Android",
+    "requirements": "iOS 15 tai uudempi; Android 7.0 tai uudempi",
+    "summary": "Ilmainen sovellus iPhonelle, iPadille ja Androidille: rauhallinen kuvaparien etsintä neljällä–kahdellatoista isolla ruudulla, parien etsintä ja katselu valitsemillanne perhekuvilla sekä kahdeksan mukana tulevaa kuvasarjaa, jotka toimivat ilman internetiä. Ei tiliä, mainoksia, ajastinta eikä pisteitä.",
+    "features": [
+      "Rauhallinen kuvaparien etsintä 4, 6, 8 tai 12 isolla ruudulla; kuvat pysyvät näkyvissä, ellette halua piilottaa niitä",
+      "Valitsemanne perhekuvat kopioidaan sovellukseen parien etsintää ja yhteistä katselua varten",
+      "Katsellaan yhdessä: yksi kuva kerrallaan ja valinnaiset keskustelun aloitukset",
+      "Kahdeksan kuvasarjaa tulee sovelluksen mukana; ne toimivat ilman verkkoa",
+      "Ei tiliä, mainoksia, sovelluksensisäisiä ostoksia, ajastinta, pisteitä eikä rangaistusta"
+    ],
+    "faq": [
+      {
+        "q": "Onko olemassa dementiatoimintojen sovellusta?",
+        "a": "Kyllä. Golden Moments (listattuna nimellä \"{storeName}\") on ilmainen App Storessa ja Google Playssa. Se tarjoaa rauhallista kuvaparien etsintää isoilla ruuduilla, pelejä valitsemillanne perhekuvilla ja kuvasarjoja, jotka toimivat ilman verkkoa."
+      },
+      {
+        "q": "Onko Golden Moments -sovellus ilmainen?",
+        "a": "Kyllä. Sen lataaminen on ilmaista, eikä siinä ole mainoksia, tiliä tai sovelluksensisäisiä ostoksia."
+      },
+      {
+        "q": "Toimiiko sovellus ilman internetiä?",
+        "a": "Kyllä. Mukana tulevat kuvat ja kaikki kahdeksan kuvasarjaa tulevat sovelluksen mukana, ja perhekuvat toimivat ilman verkkoa, kun ne on kopioitu sovellukseen. Pelkästään iCloudissa olevan kuvan valinta voi vaatia yhteyden."
+      },
+      {
+        "q": "Voinko käyttää omia perhekuviamme?",
+        "a": "Kyllä. Valitkaa kuvat laitteenne kuvanvalitsimella. Sovellus säilyttää pienempiä kopioita laitteella toimintojaan varten, ei lähetä niitä verkkoon eikä koskaan muuta alkuperäisiä. Voitte poistaa kopiot milloin tahansa."
+      },
+      {
+        "q": "Onko se aivojumppa- tai muistitestisovellus?",
+        "a": "Ei. Golden Moments on tarkoitettu virkistykseen ja yhdessäoloon. Siinä ei ole pisteitä eikä testejä, eikä se diagnosoi, hoida, ehkäise tai mittaa dementiaa tai Alzheimerin tautia."
+      },
+      {
+        "q": "Millä laitteilla se toimii?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Onko tästä pelistä sovellusversio?",
+      "a": "Kyllä. Ilmaisessa Golden Moments -sovelluksessa iPhonelle, iPadille ja Androidille on sama rauhallinen kuvaparien etsintä, se voi käyttää valitsemianne perhekuvia ja toimii ilman verkkoa. Ei tiliä, mainoksia eikä pisteitä."
+    },
+    "gameFaqNo": {
+      "q": "Onko tästä pelistä sovellusversio?",
+      "a": "Ei tästä pelistä. Ilmaisessa Golden Moments -sovelluksessa iPhonelle, iPadille ja Androidille on rauhallinen kuvaparien etsintä isoilla ruuduilla ja valitsemillanne perhekuvilla, ja se toimii ilman verkkoa. Tämä peli pysyy täällä ilmaisena selaimessanne."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: isoja, ystävällisiä kuvia",
+    "noscript": "Tämä peli tarvitsee JavaScriptin käyttöön selaimessanne. Alla olevat vinkit toimivat ilman sitä.",
+    "about": "Tietoa pelistä {name}",
+    "aboutAria": "Tietoa tästä pelistä",
+    "noTimer": "Ei ajastinta eikä pisteitä",
+    "printable": "Tulostettava",
+    "howTo": "Näin pelaatte: {name}",
+    "tips": "Vinkkejä yhdessä pelaamiseen",
+    "newToPlayingHtml": "Onko dementiaa sairastavan kanssa pelaaminen uutta? Lukekaa <a href=\"/caregiving/how-to-play-together/\">näin pelaatte pelejä yhdessä</a>, myös siitä, mitä tehdä, jos kiinnostus loppuu.",
+    "moreAria": "Lisää tutustuttavaa",
+    "helpfulGuides": "Hyödyllisiä oppaita",
+    "appTitle": "Pelatkaa sovelluksessa",
+    "appText": "Ilmaisessa Golden Moments -sovelluksessa on rauhallinen kuvaparien etsintä isoilla ruuduilla ja omilla perhekuvillanne, ja se toimii ilman Wi‑Fi-yhteyttä. iPhonelle, iPadille ja Androidille.",
+    "photoAppTitle": "Pitäkää kuvanne valmiina",
+    "photoAppText": "Ilmaisessa Golden Moments -sovelluksessa valitsemanne kuvat pysyvät laitteellanne seuraavaa kertaa varten, ja pelit toimivat ilman Wi‑Fi-yhteyttä. iPhonelle, iPadille ja Androidille.",
+    "goodToKnow": "Hyvä tietää",
+    "goodToKnowText": "Tämä peli on tarkoitettu virkistykseen ja yhdessäoloon. Se ei testaa, mittaa tai hoida mitään.",
+    "moreGames": "Lisää rauhallisia pelejä",
+    "crumb": "Pelit"
+  }
+}

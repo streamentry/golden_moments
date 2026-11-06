@@ -45,6 +45,8 @@ FONTS = {
     'Orya': "'Oriya Sangam MN', 'Noto Sans Oriya', 'Nirmala UI', system-ui, sans-serif",
     'Ethi': "'Kefa', 'Noto Sans Ethiopic', 'Nyala', system-ui, sans-serif",
     'Mymr': "'Myanmar Sangam MN', 'Noto Sans Myanmar', 'Myanmar Text', system-ui, sans-serif",
+    'Hebr': "'Arial Hebrew', 'Noto Sans Hebrew', 'Segoe UI', Tahoma, sans-serif",
+    'Grek': "'Noto Sans Greek', 'Segoe UI', Roboto, system-ui, sans-serif",
 }
 
 
@@ -103,6 +105,25 @@ LANGUAGES = {l.code: l for l in (
     Language('as', 'as_IN', 'অসমীয়া', 'Assamese', 'Beng', sayings=False),
     Language('ro', 'ro_RO', 'Română', 'Romanian', apple=('ro',), play=('ro',)),
     Language('ne', 'ne_NP', 'नेपाली', 'Nepali', 'Deva', play=('ne-NP',), sayings=False),
+    # Apple's App Store localizations added after the 31 above (checked against
+    # developer.apple.com/help/app-store-connect/reference/app-store-localizations,
+    # 2026-11-06, 50 listed). Norwegian Bokmål is `nb` in the app and `no` in
+    # App Store Connect. Google Play codes were not verified, so none are listed.
+    Language('ca', 'ca_ES', 'Català', 'Catalan', apple=('ca',)),
+    Language('cs', 'cs_CZ', 'Čeština', 'Czech', apple=('cs',)),
+    Language('da', 'da_DK', 'Dansk', 'Danish', apple=('da',)),
+    Language('el', 'el_GR', 'Ελληνικά', 'Greek', 'Grek', apple=('el',)),
+    Language('fi', 'fi_FI', 'Suomi', 'Finnish', apple=('fi',)),
+    Language('he', 'he_IL', 'עברית', 'Hebrew', 'Hebr', True, ('he',)),
+    Language('hr', 'hr_HR', 'Hrvatski', 'Croatian', apple=('hr',)),
+    Language('hu', 'hu_HU', 'Magyar', 'Hungarian', apple=('hu',)),
+    Language('nb', 'nb_NO', 'Norsk bokmål', 'Norwegian Bokmål', apple=('no',)),
+    Language('pt-PT', 'pt_PT', 'Português (Portugal)', 'Portuguese (Portugal)', apple=('pt-PT',)),
+    Language('sk', 'sk_SK', 'Slovenčina', 'Slovak', apple=('sk',)),
+    Language('sl', 'sl_SI', 'Slovenščina', 'Slovenian', apple=('sl',)),
+    Language('sv', 'sv_SE', 'Svenska', 'Swedish', apple=('sv',)),
+    # Mongolian (Cyrillic). Apple's App Store localization list has no Mongolian (checked 2026-11-06), so no App Store locale; Google Play codes not verified.
+    Language('mn', 'mn_MN', 'Монгол хэл', 'Mongolian', 'Cyrl'),
 )}
 
 

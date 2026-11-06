@@ -1,0 +1,1081 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Spel",
+      "restart": "Börja om",
+      "soundOn": "Mjuka ljud på",
+      "soundOff": "Mjuka ljud av",
+      "done": "Klar för nu",
+      "feedbackQuestion": "Var det här till hjälp i dag?",
+      "feedbackYes": "Ja",
+      "feedbackNo": "Inte direkt",
+      "feedbackThanks": "Tack för att du berättade."
+    },
+    "tile": {
+      "named": "{name}, bricka {n}",
+      "hidden": "Dold bild, bricka {n}",
+      "withState": "{label}, {state}",
+      "matched": "Hittat par",
+      "selected": "Vald",
+      "picture": "Bild",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Alla par är samlade. Spela igen eller ta en paus.",
+      "photoPair": "Ett par foton, tillsammans.",
+      "picturePair": "Två bilder: {name|lower}, tillsammans.",
+      "selected": "{name}. Hitta nu dess par.",
+      "mismatch": "Ta den tid du behöver. Tryck på en bild för att fortsätta.",
+      "mismatchNamed": "{a} och {b}. Ta den tid du behöver. Tryck på en bild för att fortsätta."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tryck på en bild och sedan på den som hör ihop med den.",
+      "guidanceHidden": "Tryck på två brickor för att vända dem. Leta efter två likadana.",
+      "restart": "Nya bilder",
+      "sizeLegend": "Antal brickor",
+      "size": {
+        "one": "{n} bricka",
+        "other": "{n} brickor"
+      },
+      "viewLegend": "Så spelar du",
+      "viewShowing": "Bilderna syns",
+      "viewHidden": "Dolda bilder",
+      "playAgain": "Spela igen med nya bilder",
+      "talk": "Prata om bilderna tillsammans"
+    },
+    "choose": {
+      "countLegend": "Antal bilder",
+      "count": "{n} att välja mellan",
+      "thatOne": "Den där bilden visar: {name|lower}. Ta den tid du behöver."
+    },
+    "findTheSame": {
+      "guidance": "Titta på bilden högst upp. Tryck på den likadana nedanför.",
+      "yes": "Ja, samma: {name|lower}.",
+      "next": "Nästa bild"
+    },
+    "shadowMatch": {
+      "guidance": "Titta på skuggan högst upp. Tryck på bilden som ger den.",
+      "yes": "Ja, skuggan hör till: {name|lower}.",
+      "next": "Nästa skugga",
+      "shadowAlt": "En skugga att para ihop",
+      "foundAlt": "Skuggan till {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tryck på en bild och sedan på korgen som den hör hemma i.",
+      "restart": "Nya bilder",
+      "themeLegend": "Tema",
+      "selected": "{name}. Tryck nu på korgen som den ska i.",
+      "pickFirst": "Tryck först på en bild och sedan på en korg.",
+      "hint": "Bilden ”{name|lower}” kan hamna i ”{basket}”. Tryck på den korgen för att lägga den där.",
+      "placed": "Bilden ”{name|lower}” ligger i ”{basket}”.",
+      "sorted": "Allt är sorterat. Titta igenom korgarna tillsammans, eller prova ett annat tema.",
+      "basket": {
+        "one": "Korgen {basket}, {count} bild i",
+        "other": "Korgen {basket}, {count} bilder i"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tryck på en bit och sedan på en annan. De byter plats.",
+      "restart": "Blanda igen",
+      "pictureLegend": "Bild",
+      "pictures": {
+        "sailboat": "Segelbåt",
+        "house": "Hus",
+        "balloon": "Ballong",
+        "sunflower": "Solros",
+        "lighthouse": "Fyr",
+        "cat": "Katt"
+      },
+      "sizeLegend": "Bitar",
+      "size": {
+        "one": "{n} bit",
+        "other": "{n} bitar"
+      },
+      "pickedUp": "Biten är upplockad. Tryck nu på platsen där den ska ligga.",
+      "whole": "Bilden ”{name|lower}” är hel igen. Välj en annan bild när du vill.",
+      "swapped": {
+        "one": "Platsbyte gjort. {correct} av {total} bit ligger på rätt plats.",
+        "other": "Platsbyte gjort. {correct} av {total} bitar ligger på rätt plats."
+      },
+      "guideAlt": "Hela bilden: {name}",
+      "guideText": "Så här ser bilden ut när den är hel.",
+      "piece": "Bit {place}",
+      "pieceInPlace": ", på rätt plats",
+      "piecePickedUp": ", upplockad",
+      "places4": [
+        "uppe till vänster",
+        "uppe till höger",
+        "nere till vänster",
+        "nere till höger"
+      ],
+      "places9": [
+        "uppe till vänster",
+        "uppe i mitten",
+        "uppe till höger",
+        "i mitten till vänster",
+        "mitt i bilden",
+        "i mitten till höger",
+        "nere till vänster",
+        "nere i mitten",
+        "nere till höger"
+      ],
+      "done": "Bilden är hel igen. Spela igen eller ta en paus.",
+      "playAgain": "Blanda igen"
+    },
+    "finishTheSaying": {
+      "guidance": "Läs ordspråket tillsammans och tryck sedan på ordet som avslutar det.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ja, ”{start} {end}.”",
+      "otherEnding": "”{word}” går också bra. Det vanliga ordspråket slutar med ”{end}”.",
+      "revealed": "Ordspråket är ”{start} {end}.”",
+      "choicesLabel": "Välj sista ordet",
+      "show": "Visa slutet",
+      "talk": "Prata om det: ",
+      "next": "Nästa ordspråk"
+    },
+    "wordSearch": {
+      "guidance": "Orden går i sidled eller nedåt. Tryck på ett ords första bokstav och sedan på dess sista.",
+      "restart": "Nytt pussel",
+      "themeLegend": "Tema",
+      "sizeLegend": "Rutnätets storlek",
+      "size": {
+        "one": "{n} gånger {n} ({words} ord)",
+        "other": "{n} gånger {n} ({words} ord)"
+      },
+      "print": "Skriv ut det här pusslet",
+      "letterChosen": "Bokstaven {letter} är vald. Tryck nu på ordets sista bokstav.",
+      "found": "{word} hittat.",
+      "foundAll": "{word} hittat. Det var alla orden. Spela igen eller ta en paus.",
+      "tryAgain": "Ta den tid du behöver. Tryck på ett ords första bokstav och sedan på dess sista.",
+      "gridLabel": "Bokstavsrutnät, {n} rader med {n} bokstäver. Använd piltangenterna för att flytta mellan bokstäverna.",
+      "cell": "{letter}, rad {row}, kolumn {col}",
+      "cellFound": ", del av ett hittat ord",
+      "wordsHeading": "Ord att hitta",
+      "wordFound": " (hittat)",
+      "sheetTitle": "Ordletare: {theme}",
+      "sheetNote": "Orden går i sidled eller nedåt.",
+      "unavailable": "Ett bokstavsrutnät passar inte det här språket, så ordletaren erbjuds inte här. Prova bildspelen i stället."
+    },
+    "coloring": {
+      "guidance": "Tryck på en färg och sedan på en del av bilden.",
+      "restart": "Rensa färgerna",
+      "cleared": "Sidan är tom igen.",
+      "pageLegend": "Bild",
+      "print": "Skriv ut den här sidan",
+      "colorsLabel": "Färger",
+      "paintChosen": "{paint} vald.",
+      "painted": "{part}: nu {paint|lower}.",
+      "artLabel": "{page}, {count} delar att färglägga",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, inte färglagd",
+      "paints": {
+        "red": "Röd",
+        "orange": "Orange",
+        "yellow": "Gul",
+        "green": "Grön",
+        "blue": "Blå",
+        "purple": "Lila",
+        "pink": "Rosa",
+        "brown": "Brun",
+        "sky-blue": "Himmelsblå",
+        "cream": "Gräddvit",
+        "gray": "Grå",
+        "white": "Vit"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Läs kortet högt. Det finns inga rätta svar.",
+      "position": "Kort {n} av {total}",
+      "themeLegend": "Tema",
+      "next": "Nästa kort",
+      "previous": "Föregående kort",
+      "print": "Skriv ut alla kort",
+      "sheetTitle": "Samtalskort"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Börja med att välja dina foton.",
+      "guidance": "Tryck på ett foto och sedan på det som hör ihop med det.",
+      "restart": "Blanda igen",
+      "intro": "**Välj 2 till 6 foton** från den här enheten. De visas bara på den här sidan och laddas aldrig upp eller sparas.",
+      "choose": "Välj foton",
+      "chooseDifferent": "Välj andra foton",
+      "clear": "Rensa foton",
+      "cleared": "Fotona har rensats från den här sidan.",
+      "atLeastTwo": "Välj minst två foton.",
+      "usingFirst": "Använder de första {max} fotona.",
+      "skipped": {
+        "one": "{count} fil var inte ett foto som vi kan visa.",
+        "other": "{count} filer var inte foton som vi kan visa."
+      },
+      "playAgain": "Spela igen med de här fotona",
+      "empty": "Dina foton visas här, varje foto två gånger."
+    },
+    "pictureBingo": {
+      "guidance": "Skriv ut korten först. Visa sedan uppläsaren på den största skärmen du har.",
+      "called": {
+        "one": "{name}. {called} av {total} bild uppläst.",
+        "other": "{name}. {called} av {total} bilder upplästa."
+      },
+      "start": "Tryck på ”Nästa bild” för att läsa upp den första bilden.",
+      "restart": "Starta ett nytt spel",
+      "squaresLegend": "Rutor på varje kort",
+      "squares": "{n} rutor ({side} gånger {side})",
+      "cardsLegend": "Hur många kort som ska skrivas ut",
+      "cards": {
+        "one": "{n} kort",
+        "other": "{n} kort"
+      },
+      "print": {
+        "one": "Skriv ut {n} bingokort",
+        "other": "Skriv ut {n} bingokort"
+      },
+      "ready": "Redo när du är det",
+      "next": "Nästa bild",
+      "allCalled": "Alla bilder har lästs upp",
+      "alreadyCalled": "Redan uppläst",
+      "sheetTitle": "Bildbingo · kort {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Andas in när cirkeln växer och ut när den blir mindre. Den stannar av sig själv efter sex andetag.",
+      "paceLegend": "Tempo",
+      "paceSlow": "Långsamt (5 sekunder åt varje håll)",
+      "paceGentle": "Lugnt (4 sekunder åt varje håll)",
+      "ready": "Redo när du är det",
+      "in": "Andas in",
+      "hold": "Vila",
+      "out": "Andas ut",
+      "start": "Starta",
+      "stop": "Stopp",
+      "started": "Startad. Andas in när cirkeln växer.",
+      "stopped": "Stoppad.",
+      "finished": "Det var sex långsamma andetag. Starta igen när du vill."
+    }
+  },
+  "pictures": {
+    "teacup": "Tekopp",
+    "kettle": "Vattenkokare",
+    "bread": "Brödlimpa",
+    "frying-pan": "Stekpanna med ägg",
+    "cake": "Födelsedagstårta",
+    "sunflower": "Solros",
+    "tulip": "Röd tulpan",
+    "watering-can": "Vattenkanna",
+    "potted-plant": "Krukväxt",
+    "tree": "Träd",
+    "bird": "Rödhake på en gren",
+    "butterfly": "Fjäril",
+    "dog": "Hund",
+    "cat": "Katt",
+    "fish": "Guldfisk",
+    "apple": "Rött äpple",
+    "pear": "Päron",
+    "strawberry": "Jordgubbe",
+    "banana": "Banan",
+    "lemon": "Citron",
+    "cherries": "Körsbär",
+    "house": "Hus",
+    "lamp": "Bordslampa",
+    "armchair": "Fåtölj",
+    "key": "Gammal nyckel",
+    "umbrella": "Paraply",
+    "sailboat": "Segelbåt",
+    "car": "Veteranbil",
+    "bicycle": "Cykel",
+    "balloon": "Luftballong",
+    "lighthouse": "Fyr",
+    "sun": "Sol",
+    "moon": "Måne och stjärnor"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "Borta bra, men hemma",
+        "end": "bäst",
+        "others": [
+          "finast",
+          "tryggast"
+        ],
+        "prompt": "Vad gör att en plats känns som hemma för dig?"
+      },
+      {
+        "start": "Bättre sent än",
+        "end": "aldrig",
+        "others": [
+          "tidigt",
+          "sällan"
+        ],
+        "prompt": "Vad är något du började med senare i livet och trivdes med?"
+      },
+      {
+        "start": "Morgonstund har guld i",
+        "end": "mun",
+        "others": [
+          "hand",
+          "sol"
+        ],
+        "prompt": "Är du en morgonmänniska eller en kvällsmänniska?"
+      },
+      {
+        "start": "Lika barn leka",
+        "end": "bäst",
+        "others": [
+          "ofta",
+          "gärna"
+        ],
+        "prompt": "Vad tyckte du och dina närmaste vänner om att göra tillsammans?"
+      },
+      {
+        "start": "Man ska inte ropa hej förrän man är över",
+        "end": "bäcken",
+        "others": [
+          "backen",
+          "bron"
+        ],
+        "prompt": "Har du någon gång gått över en bäck på stenar eller en liten bro?"
+      },
+      {
+        "start": "Många bäckar små gör en stor",
+        "end": "å",
+        "others": [
+          "sjö",
+          "flod"
+        ],
+        "prompt": "Vad tycker du om att göra vid vatten?"
+      },
+      {
+        "start": "Rom byggdes inte på en",
+        "end": "dag",
+        "others": [
+          "vecka",
+          "natt"
+        ],
+        "prompt": "Vad är något som du arbetade länge med och blev nöjd med?"
+      },
+      {
+        "start": "Man ska inte döma hunden efter",
+        "end": "håren",
+        "others": [
+          "svansen",
+          "färgen"
+        ],
+        "prompt": "Har du känt en hund som var snällare än den såg ut?"
+      },
+      {
+        "start": "Ingen rök utan",
+        "end": "eld",
+        "others": [
+          "ved",
+          "spis"
+        ],
+        "prompt": "Vad tycker du om med en brasa eller en kamin?"
+      },
+      {
+        "start": "Tala är silver, tiga är",
+        "end": "guld",
+        "others": [
+          "brons",
+          "koppar"
+        ],
+        "prompt": "Vilka stunder tycker du om när det är alldeles tyst?"
+      },
+      {
+        "start": "Äpplet faller inte långt från",
+        "end": "trädet",
+        "others": [
+          "gården",
+          "backen"
+        ],
+        "prompt": "Vad har du ärvt eller lärt dig av din familj?"
+      },
+      {
+        "start": "Allt är inte guld som",
+        "end": "glimmar",
+        "others": [
+          "skiner",
+          "brinner"
+        ],
+        "prompt": "Vad är något vackert som du har hittat på ett oväntat ställe?"
+      },
+      {
+        "start": "Där det finns vilja finns det en",
+        "end": "väg",
+        "others": [
+          "dag",
+          "stig"
+        ],
+        "prompt": "Vad är något som du ansträngde dig för att få till?"
+      },
+      {
+        "start": "Som man bäddar får man",
+        "end": "ligga",
+        "others": [
+          "sova",
+          "vila"
+        ],
+        "prompt": "Hur gillar du att ha det i din säng, med många kuddar eller få?"
+      },
+      {
+        "start": "Kärt barn har många",
+        "end": "namn",
+        "others": [
+          "vänner",
+          "kramar"
+        ],
+        "prompt": "Har du något smeknamn, eller någon som har ett?"
+      },
+      {
+        "start": "Små grytor har också",
+        "end": "öron",
+        "others": [
+          "lock",
+          "handtag"
+        ],
+        "prompt": "Vilken gryta eller maträtt lagades oftast hemma hos dig?"
+      },
+      {
+        "start": "Bättre en fågel i handen än tio i",
+        "end": "skogen",
+        "others": [
+          "trädet",
+          "luften"
+        ],
+        "prompt": "Vilka fåglar tycker du om att se eller höra?"
+      },
+      {
+        "start": "Efter regn kommer",
+        "end": "solsken",
+        "others": [
+          "dimma",
+          "blåst"
+        ],
+        "prompt": "Vad tycker du om att göra när solen kommer fram efter regn?"
+      },
+      {
+        "start": "Hastverk är",
+        "end": "lastverk",
+        "others": [
+          "hantverk",
+          "konstverk"
+        ],
+        "prompt": "Vad är något som du gjorde med egna händer?"
+      },
+      {
+        "start": "Lagom är",
+        "end": "bäst",
+        "others": [
+          "störst",
+          "vackrast"
+        ],
+        "prompt": "Vad är lagom för dig, när det gäller kaffe, sötma eller värme?"
+      },
+      {
+        "start": "Den som bor i glashus ska inte kasta",
+        "end": "sten",
+        "others": [
+          "snö",
+          "bollar"
+        ],
+        "prompt": "Har du någon gång byggt något av glas, som ett växthus?"
+      },
+      {
+        "start": "Man får ta seden dit man",
+        "end": "kommer",
+        "others": [
+          "reser",
+          "går"
+        ],
+        "prompt": "Vilken sed eller tradition tycker du om att fira?"
+      },
+      {
+        "start": "Alla goda ting är",
+        "end": "tre",
+        "others": [
+          "två",
+          "fyra"
+        ],
+        "prompt": "Vilka tre saker tycker du bäst om en vanlig dag?"
+      },
+      {
+        "start": "Man lär så länge man",
+        "end": "lever",
+        "others": [
+          "vill",
+          "reser"
+        ],
+        "prompt": "Vad är något du har lärt dig av någon i din närhet?"
+      },
+      {
+        "start": "Ingen ros utan",
+        "end": "törnen",
+        "others": [
+          "doft",
+          "blad"
+        ],
+        "prompt": "Vilka blommor tycker du om att ha i en vas?"
+      },
+      {
+        "start": "Det som göms i snö kommer fram vid",
+        "end": "tö",
+        "others": [
+          "sol",
+          "regn"
+        ],
+        "prompt": "Vad tycker du om med våren när snön smälter?"
+      },
+      {
+        "start": "Alla vägar bär till",
+        "end": "Rom",
+        "others": [
+          "stan",
+          "havet"
+        ],
+        "prompt": "Vilken plats skulle du vilja resa till, eller tyckte du om att besöka?"
+      },
+      {
+        "start": "Den som väntar på något gott väntar aldrig för",
+        "end": "länge",
+        "others": [
+          "kort",
+          "mycket"
+        ],
+        "prompt": "Vad är något gott som du gärna väntar på?"
+      },
+      {
+        "start": "En svala gör ingen",
+        "end": "sommar",
+        "others": [
+          "vår",
+          "dag"
+        ],
+        "prompt": "Vilka är de första tecknen på sommar för dig?"
+      },
+      {
+        "start": "Man ska inte kasta ut barnet med",
+        "end": "badvattnet",
+        "others": [
+          "tvålen",
+          "handduken"
+        ],
+        "prompt": "Hur badade ni hemma när du var liten?"
+      },
+      {
+        "start": "Man kan slå två flugor i en",
+        "end": "smäll",
+        "others": [
+          "hand",
+          "burk"
+        ],
+        "prompt": "Vad är något som du fick gjort tillsammans med något annat?"
+      },
+      {
+        "start": "Den som skrattar sist skrattar",
+        "end": "bäst",
+        "others": [
+          "mest",
+          "högst"
+        ],
+        "prompt": "Vem får dig alltid att skratta?"
+      },
+      {
+        "start": "Många kockar förstör",
+        "end": "soppan",
+        "others": [
+          "köket",
+          "maten"
+        ],
+        "prompt": "Vilken soppa tycker du om att äta?"
+      },
+      {
+        "start": "Den som ger sig in i leken får leken",
+        "end": "tåla",
+        "others": [
+          "älska",
+          "lära"
+        ],
+        "prompt": "Vilken lek eller vilket spel tyckte du om som barn?"
+      },
+      {
+        "start": "Allt har sin",
+        "end": "tid",
+        "others": [
+          "plats",
+          "dag"
+        ],
+        "prompt": "Vad tycker du om att göra på en lugn söndag?"
+      },
+      {
+        "start": "Bakom molnen är himlen alltid",
+        "end": "blå",
+        "others": [
+          "ljus",
+          "stor"
+        ],
+        "prompt": "Vad är en liten sak som gör dig glad en grå dag?"
+      },
+      {
+        "start": "Man kan inte få både i pose och",
+        "end": "säck",
+        "others": [
+          "låda",
+          "korg"
+        ],
+        "prompt": "Vad tycker du om att ha i en korg, till exempel vid en utflykt?"
+      },
+      {
+        "start": "Det tjänar ingenting till att gråta över spilld",
+        "end": "mjölk",
+        "others": [
+          "soppa",
+          "saft"
+        ],
+        "prompt": "Vad dricker du helst till en god kaka?"
+      },
+      {
+        "start": "Gräset är alltid grönare på andra",
+        "end": "sidan",
+        "others": [
+          "kullen",
+          "kanten"
+        ],
+        "prompt": "Hur såg trädgården ut där du växte upp?"
+      },
+      {
+        "start": "Man ska smida medan järnet är",
+        "end": "varmt",
+        "others": [
+          "kallt",
+          "tungt"
+        ],
+        "prompt": "Har du sett en smed arbeta, eller gjort något med verktyg?"
+      }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVYÅÄÖ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Frukt",
+          "words": [
+            "ÄPPLE",
+            "PÄRON",
+            "CITRON",
+            "DRUVA",
+            "MELON",
+            "LIME",
+            "FIKON",
+            "BANAN",
+            "BÄR"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Trädgård",
+          "words": [
+            "ROS",
+            "TULPAN",
+            "FRÖ",
+            "JORD",
+            "BLAD",
+            "TRÄD",
+            "VIOL",
+            "DAMM",
+            "HUMLA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kök",
+          "words": [
+            "KOPP",
+            "SKED",
+            "BRÖD",
+            "PANNA",
+            "SKÅL",
+            "FAT",
+            "UGN",
+            "GAFFEL",
+            "KNIV"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Väder",
+          "words": [
+            "SOL",
+            "REGN",
+            "SNÖ",
+            "VIND",
+            "MOLN",
+            "STORM",
+            "DIMMA",
+            "MILD",
+            "VARM"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Djur",
+          "words": [
+            "HUND",
+            "KATT",
+            "FÅGEL",
+            "FISK",
+            "HÄST",
+            "GET",
+            "ANKA",
+            "HÖNA",
+            "GRIS"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Hem",
+          "words": [
+            "DÖRR",
+            "STOL",
+            "LAMPA",
+            "SÄNG",
+            "MATTA",
+            "SOFFA",
+            "KLOCKA",
+            "BORD",
+            "NYCKEL"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Alla kort",
+        "food": "Mat",
+        "home": "Hem",
+        "outdoors": "Ute",
+        "animals": "Djur",
+        "travel": "Resor",
+        "work": "Arbete och hobbyer",
+        "music": "Musik och nöje",
+        "seasons": "Årstider"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Vilken doft från ett kök tycker du bäst om?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Vilken sorts tårta skulle du välja till en högtid?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Berätta om en favorit bland fruktpajer eller efterrätter."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Hur tycker du om ditt te eller kaffe?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Vad gör en riktigt bra frukost?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Har du någon gång plockat bär direkt från växten?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Sött eller surt: vilket tycker du bäst om?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Vilken mat smakar sommar för dig?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Berätta om ett hus som du trivdes att bo i."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Var sitter du helst och vilar?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Vad tycker du om att göra en lugn kväll?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Vilken skatt skulle du förvara i en särskild ask?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Vem skulle du bjuda hem på en kopp te eller kaffe?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Vad tycker du om att göra en regnig dag?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Vilka blommor skulle du plantera i en trädgård?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Berätta om ett träd eller en park som du tycker om."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Vad är det bästa med att vara i en trädgård?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Vilken färg på blommor tycker du bäst om?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Tycker du om att ha växter i huset?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Hur ser en perfekt solig dag ut för dig?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Berätta om en hund som du har känt."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Katter eller hundar, eller ingetdera? Vad tycker du om med dem?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Vilka fåglar ser eller hör du utanför?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Har du någon gång fiskat, eller haft ett akvarium?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Vilket är det vackraste djuret du har sett?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Berätta om en bil som du tyckte om."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Skulle du hellre tillbringa en dag vid havet eller i fjällen?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Vart skulle du vilja åka på en cykeltur?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Om du kunde flyga över vilken plats som helst, vilken skulle det vara?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Berätta om en resa som du tyckte om."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Vilket slags arbete har du trivts med?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Vilken hobby skulle du kunna ägna timmar åt?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Vad var du känd för att laga eller fixa?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Vilket råd skulle du ge en ung person som börjar arbeta?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Vilken sorts musik får dig att vilja trampa takten?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Vad gör en riktigt bra fest?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Vilken sångare tycker du om att lyssna på?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Vilken film eller tv-serie ser du gärna om?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Vad tycker du mest om med sommaren?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Vad tycker du om med hösten?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Vad är mysigt att göra en vinterkväll?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Vilka är de första tecknen på vår för dig?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Snö, regn eller solsken: vilket föredrar du?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Blomma i kruka",
+          "regions": {
+            "sky": "Bakgrund",
+            "table": "Bord",
+            "stem": "Stjälk",
+            "leaf-left": "Vänster blad",
+            "leaf-right": "Höger blad",
+            "petal-1": "Kronblad 1",
+            "petal-2": "Kronblad 2",
+            "petal-3": "Kronblad 3",
+            "petal-4": "Kronblad 4",
+            "petal-5": "Kronblad 5",
+            "petal-6": "Kronblad 6",
+            "petal-7": "Kronblad 7",
+            "petal-8": "Kronblad 8",
+            "center": "Blommans mitt",
+            "pot": "Kruka",
+            "pot-rim": "Krukkant"
+          }
+        },
+        "house": {
+          "name": "Hus",
+          "regions": {
+            "sky": "Himmel",
+            "sun": "Sol",
+            "grass": "Gräs",
+            "chimney": "Skorsten",
+            "walls": "Väggar",
+            "roof": "Tak",
+            "door": "Dörr",
+            "window-left": "Vänster fönster",
+            "window-right": "Höger fönster",
+            "path": "Stig"
+          }
+        },
+        "teacup": {
+          "name": "Tekopp",
+          "regions": {
+            "background": "Bakgrund",
+            "saucer": "Assiett",
+            "handle": "Handtag",
+            "cup": "Kopp",
+            "band": "Rand på koppen",
+            "tea": "Te"
+          }
+        },
+        "butterfly": {
+          "name": "Fjäril",
+          "regions": {
+            "background": "Bakgrund",
+            "wing-top-left": "Övre vänster vinge",
+            "wing-top-right": "Övre höger vinge",
+            "wing-bottom-left": "Nedre vänster vinge",
+            "wing-bottom-right": "Nedre höger vinge",
+            "spot-left": "Fläck på vänster vinge",
+            "spot-right": "Fläck på höger vinge",
+            "body": "Kropp"
+          }
+        },
+        "sailboat": {
+          "name": "Segelbåt",
+          "regions": {
+            "sky": "Himmel",
+            "sea": "Hav",
+            "sail-big": "Stort segel",
+            "sail-small": "Litet segel",
+            "mast": "Mast",
+            "hull": "Båt",
+            "flag": "Flagga"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kök och trädgård",
+          "baskets": [
+            "I köket",
+            "I trädgården"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Frukt och djur",
+          "baskets": [
+            "Frukt",
+            "Djur"
+          ]
+        },
+        "home-travel": {
+          "label": "Hem och resor",
+          "baskets": [
+            "Hemma",
+            "På resa"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1707,5 +1707,217 @@
   "todayWornOutTry3": "Ask the Eldercare Locator, 1-800-677-1116, about respite care near you.",
   "@todayWornOutTry3": {
     "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 3 of 3 for 'I’m worn out'. Plain, kind, practical; no medical claims. Use local typographic quotes. Keep US phone numbers only in English; elsewhere name the national dementia helpline or say 'a dementia helpline in your country' without a number."
+  },
+  "wellbeingHomeDailyMoment": "Daily moment",
+  "@wellbeingHomeDailyMoment": {
+    "description": "Home button that opens a short guided activity of about 5 to 10 minutes. Keep it short."
+  },
+  "wellbeingHomePlanner": "Plan my day",
+  "@wellbeingHomePlanner": {
+    "description": "Home button that opens suggested routines for the day, for oneself or for someone one cares for."
+  },
+  "wellbeingHomeProgress": "My progress",
+  "@wellbeingHomeProgress": {
+    "description": "Home button that opens a gentle record of the days a Daily moment was finished. It never shows a score."
+  },
+  "wellbeingDailyMomentIntro": "A few minutes of looking and talking together. It takes about 5 to 10 minutes, and you can stop at any time.",
+  "@wellbeingDailyMomentIntro": {
+    "description": "Shown at the top of the Daily moment page. The length is a suggestion, not a timer. Keep the stop-at-any-time part."
+  },
+  "wellbeingDailyMomentSaved": "Saved on this phone. You can see the day in My progress.",
+  "@wellbeingDailyMomentSaved": {
+    "description": "Shown after Done for now. Plain and calm, with no praise."
+  },
+  "wellbeingDailyMomentSaveFailed": "This day could not be saved, because the saved history on this phone cannot be read. Nothing was changed.",
+  "@wellbeingDailyMomentSaveFailed": {
+    "description": "Shown when the saved history cannot be read, so nothing is overwritten."
+  },
+  "wellbeingPlannerIntro": "Suggestions only. Pick what fits today and skip the rest.",
+  "@wellbeingPlannerIntro": {
+    "description": "Shown at the top of Plan my day. Say plainly that these are suggestions."
+  },
+  "wellbeingPlannerTime": "Time of day",
+  "@wellbeingPlannerTime": {
+    "description": "Label above the choice of morning, afternoon or evening."
+  },
+  "wellbeingPlannerMorning": "Morning",
+  "@wellbeingPlannerMorning": {
+    "description": "Choice for the time of day. One word."
+  },
+  "wellbeingPlannerAfternoon": "Afternoon",
+  "@wellbeingPlannerAfternoon": {
+    "description": "Choice for the time of day. One word."
+  },
+  "wellbeingPlannerEvening": "Evening",
+  "@wellbeingPlannerEvening": {
+    "description": "Choice for the time of day. One word."
+  },
+  "wellbeingPlannerWhoLabel": "Who is it for",
+  "@wellbeingPlannerWhoLabel": {
+    "description": "Label above the choice between oneself and someone one cares for."
+  },
+  "wellbeingPlannerForMe": "Me",
+  "@wellbeingPlannerForMe": {
+    "description": "Choice: the routine is for the person using the app. One word."
+  },
+  "wellbeingPlannerForCared": "Someone I care for",
+  "@wellbeingPlannerForCared": {
+    "description": "Choice: the routine is for someone the caregiver looks after. Keep it short."
+  },
+  "wellbeingPlannerRoutine": "Suggested for today",
+  "@wellbeingPlannerRoutine": {
+    "description": "Heading above the three suggested steps."
+  },
+  "wellbeingItemDailyMoment": "Daily moment",
+  "@wellbeingItemDailyMoment": {
+    "description": "Routine step that opens the Daily moment. Same wording as the Home button."
+  },
+  "wellbeingItemMatchingGame": "A picture matching game",
+  "@wellbeingItemMatchingGame": {
+    "description": "Routine step that opens the picture matching game."
+  },
+  "wellbeingItemLookTogether": "Look at pictures together",
+  "@wellbeingItemLookTogether": {
+    "description": "Routine step that opens Look at pictures together."
+  },
+  "wellbeingItemDrinkWater": "Have a drink of water",
+  "@wellbeingItemDrinkWater": {
+    "description": "Plain suggestion with no action. Not a health claim."
+  },
+  "wellbeingItemStepOutside": "Step outside for a few minutes, if you can",
+  "@wellbeingItemStepOutside": {
+    "description": "Plain suggestion with no action. Not a health claim; the \"if you can\" must stay."
+  },
+  "wellbeingItemTeaTogether": "Share a cup of tea",
+  "@wellbeingItemTeaTogether": {
+    "description": "Plain suggestion with no action, for a caregiver and the person they look after."
+  },
+  "wellbeingItemDimLights": "Dim the lights and sit comfortably",
+  "@wellbeingItemDimLights": {
+    "description": "Plain suggestion with no action, for the evening."
+  },
+  "wellbeingItemPlanTogether": "Choose one small thing you both enjoy",
+  "@wellbeingItemPlanTogether": {
+    "description": "Plain suggestion with no action, for the morning."
+  },
+  "wellbeingItemKeepQuiet": "Keep the evening quiet and unhurried",
+  "@wellbeingItemKeepQuiet": {
+    "description": "Plain suggestion with no action, for a caregiver in the evening."
+  },
+  "wellbeingProgressIntro": "The days you finished a Daily moment, kept on this phone. Nothing here is graded, and missed days are not shown.",
+  "@wellbeingProgressIntro": {
+    "description": "Shown at the top of My progress. Say that nothing is graded and that missed days are not listed."
+  },
+  "wellbeingProgressEmpty": "No days yet. A day you finish a Daily moment will appear here.",
+  "@wellbeingProgressEmpty": {
+    "description": "Shown when no day has been recorded yet."
+  },
+  "wellbeingProgressClear": "Clear this history",
+  "@wellbeingProgressClear": {
+    "description": "Button that removes the days listed on My progress. Asks first."
+  },
+  "wellbeingProgressClearTitle": "Clear this history?",
+  "@wellbeingProgressClearTitle": {
+    "description": "Title of the confirmation before clearing the days on My progress."
+  },
+  "wellbeingProgressClearBody": "The days listed here are removed from this phone. Your pictures and other activities are not changed.",
+  "@wellbeingProgressClearBody": {
+    "description": "Explains what clearing does in the confirmation dialog."
+  },
+  "wellbeingProgressCleared": "History cleared.",
+  "@wellbeingProgressCleared": {
+    "description": "Shown after the days are cleared. Short."
+  },
+  "wellbeingProgressUnreadable": "The saved history cannot be read, so nothing is shown. Nothing was changed.",
+  "@wellbeingProgressUnreadable": {
+    "description": "Shown on My progress when the saved history cannot be read."
+  },
+  "languageTitle": "Language",
+  "@languageTitle": {
+    "description": "Title of the language picker, and the Home button that opens it. One word."
+  },
+  "languageIntro": "The app starts in the language of this device. Choose another language here, and the app keeps it until you choose again.",
+  "@languageIntro": {
+    "description": "Shown at the top of the language picker. Say the device language is the starting point and that the choice stays."
+  },
+  "languageDevice": "Use this device's language",
+  "@languageDevice": {
+    "description": "First choice in the language picker: follow the phone or tablet's language."
+  },
+  "habitsHomeButton": "Healthy habits",
+  "@habitsHomeButton": {
+    "description": "Home button that opens a page of habits linked with lower dementia risk. Short. Not a promise of any benefit."
+  },
+  "habitsTitle": "Habits worth talking about",
+  "@habitsTitle": {
+    "description": "Title of the healthy-habits page. Plain and calm. Not a claim."
+  },
+  "habitsIntro": "These habits are linked with a lower chance of dementia across large groups of people. They are not a promise for any one person, and no habit, game or diet has been proven to prevent dementia.",
+  "@habitsIntro": {
+    "description": "Shown at the top of the habits page. This is the honest frame for the whole page. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure. The last clause must stay a plain denial that anything is proven to prevent dementia."
+  },
+  "habitsHearingVisionTitle": "Hearing and vision checks",
+  "@habitsHearingVisionTitle": {
+    "description": "Habit heading. A plain checkup suggestion."
+  },
+  "habitsHearingVisionBody": "Untreated hearing loss and vision loss are both linked with higher dementia risk. A check is quick, and treating either can make daily life easier whatever the effect on dementia risk.",
+  "@habitsHearingVisionBody": {
+    "description": "Habit text. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure."
+  },
+  "habitsHeartTitle": "Blood pressure and cholesterol",
+  "@habitsHeartTitle": {
+    "description": "Habit heading about checks with a doctor."
+  },
+  "habitsHeartBody": "High blood pressure and high cholesterol in midlife are linked with higher dementia risk. A doctor can check both and talk over what suits you.",
+  "@habitsHeartBody": {
+    "description": "Habit text. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure."
+  },
+  "habitsMoveTitle": "Move your body",
+  "@habitsMoveTitle": {
+    "description": "Habit heading. Gentle, no exercise targets."
+  },
+  "habitsMoveBody": "Being physically active is linked with lower dementia risk and helps health in other ways. Choose something you enjoy and can keep doing, and ask a doctor first if you are unsure.",
+  "@habitsMoveBody": {
+    "description": "Habit text. No targets, distances or minutes. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure."
+  },
+  "habitsConnectTitle": "Stay in touch with people",
+  "@habitsConnectTitle": {
+    "description": "Habit heading about social contact."
+  },
+  "habitsConnectBody": "Social isolation is linked with higher dementia risk. Regular time with friends, family or a group is worth making room for.",
+  "@habitsConnectBody": {
+    "description": "Habit text. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure."
+  },
+  "habitsSmokeTitle": "Smoking and alcohol",
+  "@habitsSmokeTitle": {
+    "description": "Habit heading. Neutral, not judging."
+  },
+  "habitsSmokeBody": "Smoking and heavy drinking are linked with higher dementia risk. If you want to cut down or stop, a doctor or local service can help.",
+  "@habitsSmokeBody": {
+    "description": "Habit text. Not judging. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure."
+  },
+  "habitsHeadTitle": "Protect your head",
+  "@habitsHeadTitle": {
+    "description": "Habit heading about avoiding head injury."
+  },
+  "habitsHeadBody": "Head injuries are linked with higher dementia risk. A helmet for cycling and care on stairs and in the car are simple steps.",
+  "@habitsHeadBody": {
+    "description": "Habit text. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure."
+  },
+  "habitsDoctorNote": "None of this replaces advice from a doctor. If you are worried about your memory or about dementia, talk with a doctor.",
+  "@habitsDoctorNote": {
+    "description": "Shown near the end of the habits page. Do not diagnose or reassure."
+  },
+  "habitsSourcesTitle": "Where this comes from",
+  "@habitsSourcesTitle": {
+    "description": "Heading above the source note."
+  },
+  "habitsSources": "The 2024 Lancet Commission on dementia prevention, intervention and care. Its figures describe whole populations, not any one person. The sourced guide is on dementiaactivities.games (in English).",
+  "@habitsSources": {
+    "description": "Names the source. Keep the web address dementiaactivities.games exactly as written, with no change. Say that the figures describe whole populations, not one person, and that the guide is in English."
+  },
+  "wellbeingItemCallSomeone": "Call or message someone you enjoy talking with",
+  "@wellbeingItemCallSomeone": {
+    "description": "Plain suggestion with no action, in the day planner. Not a health claim."
   }
 }

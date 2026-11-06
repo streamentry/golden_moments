@@ -1,0 +1,1072 @@
+{
+  "ui": {
+    "frame": {
+      "region": "Joc",
+      "restart": "Començar de nou",
+      "soundOn": "Sons suaus activats",
+      "soundOff": "Sons suaus desactivats",
+      "done": "Per ara ja n’hi ha prou",
+      "feedbackQuestion": "Això ha ajudat avui?",
+      "feedbackYes": "Sí",
+      "feedbackNo": "No gaire",
+      "feedbackThanks": "Gràcies per dir-nos-ho."
+    },
+    "tile": {
+      "named": "{name}, fitxa {n}",
+      "hidden": "Imatge amagada, fitxa {n}",
+      "withState": "{label}, {state}",
+      "matched": "Aparellada",
+      "selected": "Seleccionada",
+      "picture": "Imatge",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Totes les parelles, juntes. Pot tornar a jugar o fer una pausa.",
+      "photoPair": "Una parella de fotos, juntes.",
+      "picturePair": "Dues imatges: {name|lower}, juntes.",
+      "selected": "{name}. Ara trobi la seva parella.",
+      "mismatch": "Es pot prendre el seu temps. Toqui una imatge per continuar.",
+      "mismatchNamed": "{a} i {b}. Es pot prendre el seu temps. Toqui una imatge per continuar."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Toqui una imatge i després la que li fa parella.",
+      "guidanceHidden": "Toqui dues fitxes per girar-les. Busqui’n dues d’iguals.",
+      "restart": "Imatges noves",
+      "sizeLegend": "Quantes fitxes",
+      "size": {
+        "one": "{n} fitxa",
+        "many": "{n} fitxes",
+        "other": "{n} fitxes"
+      },
+      "viewLegend": "Com jugar",
+      "viewShowing": "Imatges a la vista",
+      "viewHidden": "Imatges amagades",
+      "playAgain": "Tornar a jugar amb imatges noves",
+      "talk": "Parlar plegats de les imatges"
+    },
+    "choose": {
+      "countLegend": "Quantes imatges",
+      "count": "{n} per triar",
+      "thatOne": "Aquesta és: {name|lower}. Es pot prendre el seu temps."
+    },
+    "findTheSame": {
+      "guidance": "Miri la imatge de dalt. Toqui la mateixa de baix.",
+      "yes": "Sí, la mateixa: {name|lower}.",
+      "next": "Imatge següent"
+    },
+    "shadowMatch": {
+      "guidance": "Miri l’ombra de dalt. Toqui la imatge que la fa.",
+      "yes": "Sí, aquesta ombra és de: {name|lower}.",
+      "next": "Ombra següent",
+      "shadowAlt": "Una ombra per fer parella",
+      "foundAlt": "Ombra: {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Toqui una imatge i després la cistella on va.",
+      "restart": "Imatges noves",
+      "themeLegend": "Tema",
+      "selected": "{name}. Ara toqui la cistella on va.",
+      "pickFirst": "Primer toqui una imatge i després una cistella.",
+      "hint": "Aquesta imatge ({name|lower}) podria anar a «{basket}». Toqui aquesta cistella per posar-la-hi.",
+      "placed": "Imatge: {name|lower}, a «{basket}».",
+      "sorted": "Tot està classificat. Repassin les cistelles plegats o provin un altre tema.",
+      "basket": {
+        "one": "Cistella {basket}, {count} imatge a dins",
+        "many": "Cistella {basket}, {count} imatges a dins",
+        "other": "Cistella {basket}, {count} imatges a dins"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Toqui una peça i després una altra. Canvien de lloc.",
+      "restart": "Barrejar de nou",
+      "pictureLegend": "Imatge",
+      "pictures": {
+        "sailboat": "Veler",
+        "house": "Casa",
+        "balloon": "Globus",
+        "sunflower": "Gira-sol",
+        "lighthouse": "Far",
+        "cat": "Gat"
+      },
+      "sizeLegend": "Peces",
+      "size": {
+        "one": "{n} peça",
+        "many": "{n} peces",
+        "other": "{n} peces"
+      },
+      "pickedUp": "Peça agafada. Ara toqui on ha d’anar.",
+      "whole": "Imatge sencera de nou: {name|lower}. Triï’n una altra quan vulgui.",
+      "swapped": {
+        "one": "Canviades. {correct} de {total} peça és al seu lloc.",
+        "many": "Canviades. {correct} de {total} peces són al seu lloc.",
+        "other": "Canviades. {correct} de {total} peces són al seu lloc."
+      },
+      "guideAlt": "La imatge sencera: {name}",
+      "guideText": "Així es veu la imatge quan està sencera.",
+      "piece": "Peça: {place}",
+      "pieceInPlace": ", al lloc correcte",
+      "piecePickedUp": ", agafada",
+      "places4": [
+        "a dalt a l’esquerra",
+        "a dalt a la dreta",
+        "a baix a l’esquerra",
+        "a baix a la dreta"
+      ],
+      "places9": [
+        "a dalt a l’esquerra",
+        "a dalt al centre",
+        "a dalt a la dreta",
+        "al mig a l’esquerra",
+        "al centre",
+        "al mig a la dreta",
+        "a baix a l’esquerra",
+        "a baix al centre",
+        "a baix a la dreta"
+      ],
+      "done": "La imatge està sencera de nou. Pot tornar a jugar o fer una pausa.",
+      "playAgain": "Barrejar de nou"
+    },
+    "finishTheSaying": {
+      "guidance": "Llegeixin el refrany plegats i després toqui la paraula que l’acaba.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Sí, «{start} {end}.»",
+      "otherEnding": "«{word}» també va bé. El refrany habitual acaba amb «{end}».",
+      "revealed": "El refrany és «{start} {end}.»",
+      "choicesLabel": "Triï l’última paraula",
+      "show": "Mostrar el final",
+      "talk": "Parlem-ne: ",
+      "next": "Refrany següent"
+    },
+    "wordSearch": {
+      "guidance": "Les paraules van en horitzontal o en vertical. Toqui la primera lletra d’una paraula i després l’última.",
+      "restart": "Sopa nova",
+      "themeLegend": "Tema",
+      "sizeLegend": "Mida de la quadrícula",
+      "size": {
+        "one": "{n} per {n} ({words} paraula)",
+        "many": "{n} per {n} ({words} paraules)",
+        "other": "{n} per {n} ({words} paraules)"
+      },
+      "print": "Imprimir aquesta sopa",
+      "letterChosen": "Lletra {letter} triada. Ara toqui l’última lletra de la paraula.",
+      "found": "{word} trobada.",
+      "foundAll": "{word} trobada. Aquestes són totes les paraules. Pot tornar a jugar o fer una pausa.",
+      "tryAgain": "Es pot prendre el seu temps. Toqui la primera lletra d’una paraula i després l’última.",
+      "gridLabel": "Quadrícula de lletres, {n} files de {n} lletres. Faci servir les tecles de fletxa per moure’s entre lletres.",
+      "cell": "{letter}, fila {row}, columna {col}",
+      "cellFound": ", part d’una paraula trobada",
+      "wordsHeading": "Paraules per trobar",
+      "wordFound": " (trobada)",
+      "sheetTitle": "Sopa de lletres: {theme}",
+      "sheetNote": "Les paraules van en horitzontal o en vertical.",
+      "unavailable": "Una quadrícula de lletres no s’adapta a aquest idioma, així que aquí no s’ofereix la sopa de lletres. Provi els jocs d’imatges."
+    },
+    "coloring": {
+      "guidance": "Toqui un color i després una part de la imatge.",
+      "restart": "Esborrar els colors",
+      "cleared": "La pàgina torna a estar en blanc.",
+      "pageLegend": "Pàgina",
+      "print": "Imprimir aquesta pàgina",
+      "colorsLabel": "Colors",
+      "paintChosen": "{paint} triat.",
+      "painted": "{part}: ara en color {paint|lower}.",
+      "artLabel": "{page}, {count} parts per pintar",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, sense pintar",
+      "paints": {
+        "red": "Vermell",
+        "orange": "Taronja",
+        "yellow": "Groc",
+        "green": "Verd",
+        "blue": "Blau",
+        "purple": "Lila",
+        "pink": "Rosa",
+        "brown": "Marró",
+        "sky-blue": "Blau cel",
+        "cream": "Crema",
+        "gray": "Gris",
+        "white": "Blanc"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Llegeixi la targeta en veu alta. No hi ha respostes correctes.",
+      "position": "Targeta {n} de {total}",
+      "themeLegend": "Tema",
+      "next": "Targeta següent",
+      "previous": "Targeta anterior",
+      "print": "Imprimir totes les targetes",
+      "sheetTitle": "Targetes de conversa"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Comenci triant les seves fotos.",
+      "guidance": "Toqui una foto i després la que li fa parella.",
+      "restart": "Barrejar-les de nou",
+      "intro": "**Triï de 2 a 6 fotos** d’aquest dispositiu. Només es mostren en aquesta pàgina i no es pugen ni es desen mai.",
+      "choose": "Triar fotos",
+      "chooseDifferent": "Triar altres fotos",
+      "clear": "Esborrar fotos",
+      "cleared": "S’han esborrat les fotos d’aquesta pàgina.",
+      "atLeastTwo": "Triï almenys dues fotos.",
+      "usingFirst": "S’utilitzen les primeres {max} fotos.",
+      "skipped": {
+        "one": "{count} fitxer no era una foto que puguem mostrar.",
+        "many": "{count} fitxers no eren fotos que puguem mostrar.",
+        "other": "{count} fitxers no eren fotos que puguem mostrar."
+      },
+      "playAgain": "Tornar a jugar amb aquestes fotos",
+      "empty": "Les seves fotos apareixeran aquí, cadascuna dues vegades."
+    },
+    "pictureBingo": {
+      "guidance": "Primer imprimeixi els cartrons. Després mostri aquest cantador a la pantalla més gran que tingui.",
+      "called": {
+        "one": "{name}. {called} de {total} imatge cantada.",
+        "many": "{name}. {called} de {total} imatges cantades.",
+        "other": "{name}. {called} de {total} imatges cantades."
+      },
+      "start": "Toqui «Imatge següent» per cantar la primera imatge.",
+      "restart": "Començar un joc nou",
+      "squaresLegend": "Caselles de cada cartró",
+      "squares": "{n} caselles ({side} per {side})",
+      "cardsLegend": "Quants cartrons imprimir",
+      "cards": {
+        "one": "{n} cartró",
+        "many": "{n} cartrons",
+        "other": "{n} cartrons"
+      },
+      "print": {
+        "one": "Imprimir {n} cartró de bingo",
+        "many": "Imprimir {n} cartrons de bingo",
+        "other": "Imprimir {n} cartrons de bingo"
+      },
+      "ready": "A punt quan vulgui",
+      "next": "Imatge següent",
+      "allCalled": "S’han cantat totes les imatges",
+      "alreadyCalled": "Ja cantada",
+      "sheetTitle": "Bingo d’imatges · cartró {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Inspiri mentre el cercle creix i expiri mentre es fa petit. Para sol després de sis respiracions.",
+      "paceLegend": "Ritme",
+      "paceSlow": "Lent (5 segons cada vegada)",
+      "paceGentle": "Suau (4 segons cada vegada)",
+      "ready": "A punt quan vulgui",
+      "in": "Inspiri",
+      "hold": "Descansi",
+      "out": "Expiri",
+      "start": "Començar",
+      "stop": "Parar",
+      "started": "Començat. Inspiri mentre el cercle creix.",
+      "stopped": "Parat.",
+      "finished": "Han estat sis respiracions lentes. Pot tornar a començar quan vulgui."
+    }
+  },
+  "pictures": {
+    "teacup": "Tassa de te",
+    "kettle": "Bullidor",
+    "bread": "Barra de pa",
+    "frying-pan": "Paella amb un ou",
+    "cake": "Pastís d’aniversari",
+    "sunflower": "Gira-sol",
+    "tulip": "Tulipa vermella",
+    "watering-can": "Regadora",
+    "potted-plant": "Planta en un test",
+    "tree": "Arbre",
+    "bird": "Pit-roig en una branca",
+    "butterfly": "Papallona",
+    "dog": "Gos",
+    "cat": "Gat",
+    "fish": "Peix daurat",
+    "apple": "Poma vermella",
+    "pear": "Pera",
+    "strawberry": "Maduixa",
+    "banana": "Plàtan",
+    "lemon": "Llimona",
+    "cherries": "Cireres",
+    "house": "Casa",
+    "lamp": "Llum de taula",
+    "armchair": "Butaca",
+    "key": "Clau antiga",
+    "umbrella": "Paraigua",
+    "sailboat": "Veler",
+    "car": "Cotxe clàssic",
+    "bicycle": "Bicicleta",
+    "balloon": "Globus aerostàtic",
+    "lighthouse": "Far",
+    "sun": "Sol",
+    "moon": "Lluna i estrelles"
+  },
+  "content": {
+    "sayings": [
+      {
+        "start": "De mica en mica s’omple la",
+        "end": "pica",
+        "others": [
+          "bassa",
+          "olla"
+        ],
+        "prompt": "Quina és una feina que vostè feia a poc a poc?"
+      },
+      {
+        "start": "Qui bé fa, bé",
+        "end": "troba",
+        "others": [
+          "veu",
+          "dorm"
+        ],
+        "prompt": "Què és una cosa bona que algú va fer per vostè?"
+      },
+      {
+        "start": "A bon entenedor, poques",
+        "end": "paraules",
+        "others": [
+          "coses",
+          "preguntes"
+        ],
+        "prompt": "Qui és una persona amb qui s’entenia amb una mirada?"
+      },
+      {
+        "start": "Qui dia passa, any",
+        "end": "empeny",
+        "others": [
+          "guanya",
+          "comença"
+        ],
+        "prompt": "Quin dia de l’any li agrada més?"
+      },
+      {
+        "start": "Més val tard",
+        "end": "que mai",
+        "others": [
+          "que res",
+          "que cap"
+        ],
+        "prompt": "Què és una cosa que va fer tard però que va valer la pena?"
+      },
+      {
+        "start": "Qui no s’arrisca, no",
+        "end": "pisca",
+        "others": [
+          "menja",
+          "viu"
+        ],
+        "prompt": "Quina és una cosa que va provar per primera vegada?"
+      },
+      {
+        "start": "Cada ovella amb la seva",
+        "end": "parella",
+        "others": [
+          "manta",
+          "pastora"
+        ],
+        "prompt": "Com recorda una bona parella de ball o de festa?"
+      },
+      {
+        "start": "Les paraules se les emporta el",
+        "end": "vent",
+        "others": [
+          "temps",
+          "riu"
+        ],
+        "prompt": "Quin vent li agrada: el de la mar o el de la muntanya?"
+      },
+      {
+        "start": "Una oreneta no fa",
+        "end": "estiu",
+        "others": [
+          "niu",
+          "vol"
+        ],
+        "prompt": "Què és el que més li agrada de l’estiu?"
+      },
+      {
+        "start": "Pel maig, cada dia un",
+        "end": "raig",
+        "others": [
+          "núvol",
+          "sol"
+        ],
+        "prompt": "Què li agrada fer quan plou una mica?"
+      },
+      {
+        "start": "Abril,",
+        "end": "aigües mil",
+        "others": [
+          "flors mil",
+          "dies mil"
+        ],
+        "prompt": "Quines flors li agraden de la primavera?"
+      },
+      {
+        "start": "Qui matina fa",
+        "end": "farina",
+        "others": [
+          "camí",
+          "feina"
+        ],
+        "prompt": "A quina hora del dia li agrada més llevar-se?"
+      },
+      {
+        "start": "Tal faràs, tal",
+        "end": "trobaràs",
+        "others": [
+          "voldràs",
+          "veuràs"
+        ],
+        "prompt": "Quina és una cosa que vostè feia amb molta cura?"
+      },
+      {
+        "start": "Qui canta, els seus mals",
+        "end": "espanta",
+        "others": [
+          "calma",
+          "oblida"
+        ],
+        "prompt": "Quina cançó li agrada cantar?"
+      },
+      {
+        "start": "Del dit al fet hi ha molt de",
+        "end": "tros",
+        "others": [
+          "temps",
+          "camí"
+        ],
+        "prompt": "Què és una cosa que va dir que faria i després va fer?"
+      },
+      {
+        "start": "Cria fama i gita’t a",
+        "end": "dormir",
+        "others": [
+          "jugar",
+          "riure"
+        ],
+        "prompt": "Què li agrada fer abans d’anar a dormir?"
+      },
+      {
+        "start": "A la nit, tots els gats són",
+        "end": "pardos",
+        "others": [
+          "negres",
+          "grisos"
+        ],
+        "prompt": "Ha tingut mai un gat a casa?"
+      },
+      {
+        "start": "Fets són amors, que no bones",
+        "end": "raons",
+        "others": [
+          "paraules",
+          "coses"
+        ],
+        "prompt": "Quin és un detall que algú va tenir amb vostè?"
+      },
+      {
+        "start": "Qui no vol pols, que no vagi a",
+        "end": "l’era",
+        "others": [
+          "la fira",
+          "el camp"
+        ],
+        "prompt": "Ha viscut o ha passat temps en un poble?"
+      },
+      {
+        "start": "L’experiència és la mare de la",
+        "end": "ciència",
+        "others": [
+          "feina",
+          "vida"
+        ],
+        "prompt": "Què és una cosa que va aprendre fent-la?"
+      },
+      {
+        "start": "L’hàbit no fa el",
+        "end": "monjo",
+        "others": [
+          "savi",
+          "mestre"
+        ],
+        "prompt": "Quina és la roba que li agradava més posar-se?"
+      },
+      {
+        "start": "Cap mal que per bé no",
+        "end": "vingui",
+        "others": [
+          "passi",
+          "duri"
+        ],
+        "prompt": "Què és una cosa que al principi no semblava bona i després sí?"
+      },
+      {
+        "start": "Després de la tempesta ve la",
+        "end": "calma",
+        "others": [
+          "pluja",
+          "llum"
+        ],
+        "prompt": "Què li agrada fer en un dia tranquil?"
+      },
+      {
+        "start": "El sol surt per a",
+        "end": "tothom",
+        "others": [
+          "nosaltres",
+          "la mar"
+        ],
+        "prompt": "Quin és el seu lloc preferit per prendre el sol?"
+      },
+      {
+        "start": "Amb pa i vi es fa el",
+        "end": "camí",
+        "others": [
+          "dinar",
+          "viatge"
+        ],
+        "prompt": "Què li agradava portar quan feia una excursió?"
+      },
+      {
+        "start": "Poc a poc i bona",
+        "end": "lletra",
+        "others": [
+          "feina",
+          "sort"
+        ],
+        "prompt": "Quina és una cosa que va fer amb molta paciència?"
+      },
+      {
+        "start": "Boca closa no hi entren",
+        "end": "mosques",
+        "others": [
+          "paraules",
+          "cucs"
+        ],
+        "prompt": "Quina és una cosa que va guardar com un secret bonic?"
+      },
+      {
+        "start": "Aigua que no has de beure, deixa-la",
+        "end": "córrer",
+        "others": [
+          "anar",
+          "passar"
+        ],
+        "prompt": "Quina és l’aigua que més li agrada: el riu, la font o la mar?"
+      },
+      {
+        "start": "Qui fa un cove, fa un",
+        "end": "cistell",
+        "others": [
+          "cabàs",
+          "paner"
+        ],
+        "prompt": "Què és una cosa que sabia fer amb les mans?"
+      },
+      {
+        "start": "No hi ha dues sense",
+        "end": "tres",
+        "others": [
+          "quatre",
+          "cinc"
+        ],
+        "prompt": "Té algun número de la sort?"
+      },
+      {
+        "start": "Qui molt abraça, poc",
+        "end": "estreny",
+        "others": [
+          "guanya",
+          "porta"
+        ],
+        "prompt": "Quina és una abraçada que recorda amb alegria?"
+      },
+      {
+        "start": "Amb el temps i una palla maduren les",
+        "end": "nespres",
+        "others": [
+          "pomes",
+          "peres"
+        ],
+        "prompt": "Quina fruita li agradava collir?"
+      },
+      {
+        "start": "Una mà renta l’",
+        "end": "altra",
+        "others": [
+          "cara",
+          "roba"
+        ],
+        "prompt": "Qui l’ajudava a casa quan hi havia feina?"
+      },
+      {
+        "start": "Tal pare, tal",
+        "end": "fill",
+        "others": [
+          "amic",
+          "fruit"
+        ],
+        "prompt": "A qui de la família s’assembla més?"
+      },
+      {
+        "start": "No tot el que lluu és",
+        "end": "or",
+        "others": [
+          "plata",
+          "vidre"
+        ],
+        "prompt": "Quina és una joia o un objecte brillant que recorda?"
+      },
+      {
+        "start": "Per Nadal, cada ovella al seu",
+        "end": "corral",
+        "others": [
+          "lloc",
+          "estable"
+        ],
+        "prompt": "Com celebraven el Nadal a casa seva?"
+      },
+      {
+        "start": "Aigua passada no mou",
+        "end": "molí",
+        "others": [
+          "riu",
+          "pont"
+        ],
+        "prompt": "Hi havia algun molí o riu a prop d’on vivia?"
+      },
+      {
+        "start": "Qui té un amic, té un",
+        "end": "tresor",
+        "others": [
+          "regal",
+          "somriure"
+        ],
+        "prompt": "Quin és un bon amic o una bona amiga que recorda?"
+      }
+    ],
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHILMNOPRSTUV",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fruita",
+          "words": [
+            "PERA",
+            "POMA",
+            "PRUNA",
+            "FIGA",
+            "CIRERA",
+            "PRESEC",
+            "NESPLA",
+            "KIWI",
+            "DATIL"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Jardí",
+          "words": [
+            "ROSA",
+            "TULIPA",
+            "ARBRE",
+            "TERRA",
+            "FLOR",
+            "GESPA",
+            "HORT",
+            "PRAT",
+            "REG"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Cuina",
+          "words": [
+            "TASSA",
+            "CULLER",
+            "PLAT",
+            "FORN",
+            "GOT",
+            "SAL",
+            "SOPA",
+            "OUS",
+            "PASTA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Temps",
+          "words": [
+            "SOL",
+            "PLUJA",
+            "NEU",
+            "VENT",
+            "NUVOL",
+            "BOIRA",
+            "GEL",
+            "CALOR",
+            "FRED"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animals",
+          "words": [
+            "GOS",
+            "GAT",
+            "PEIX",
+            "VACA",
+            "PORC",
+            "ANEC",
+            "CABRA",
+            "OCA",
+            "ASE"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Casa",
+          "words": [
+            "PORTA",
+            "SOFA",
+            "CADIRA",
+            "TAULA",
+            "CLAU",
+            "ARMARI",
+            "CUINA",
+            "SALA",
+            "PIS"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Totes les targetes",
+        "food": "Menjar",
+        "home": "Casa",
+        "outdoors": "A l’aire lliure",
+        "animals": "Animals",
+        "travel": "Sortir i viatjar",
+        "work": "Feina i aficions",
+        "music": "Música i diversió",
+        "seasons": "Estacions"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Quina és la seva olor preferida d’una cuina?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Quin pastís triaria per a una celebració?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Parli’m d’una coca o d’unes postres de fruita que li agradin."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Com li agrada el te, el cafè o la xocolata?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Què fa que un esmorzar sigui realment bo?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ha collit alguna vegada fruita directament de la planta?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Dolç o àcid: què li agrada més?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Quin menjar li sap a estiu?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Parli’m d’una casa on va estar a gust."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "On és el seu lloc preferit per seure i descansar?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Què li agrada fer en un vespre tranquil?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Quin és un tresor que guardaria en una caixa especial?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "A qui convidaria a casa a prendre una tassa de te?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Què li agrada fer en un dia de pluja?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Quines flors plantaria en un jardí?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Parli’m d’un arbre o d’un parc que li agradi."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Què és el millor d’estar en un hort o en un jardí?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "De quin color són les flors que més li agraden?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Li agrada tenir plantes a casa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Com seria per a vostè un dia de sol perfecte?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Parli’m d’un gos que hagi conegut."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Gats o gossos, o cap dels dos? Què en troba bo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Quins ocells veu o sent a fora?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ha anat alguna vegada a pescar o ha tingut una peixera?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Quin és l’animal més bonic que ha vist?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Parli’m d’un cotxe que li agradava."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Prefereix passar un dia a la platja o a la muntanya?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "On li agradaria anar a fer una volta?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Si pogués volar per sobre de qualsevol lloc, quin seria?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Quin és un viatge que va gaudir?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Quin tipus de feina ha gaudit fent?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Quina afició li podria ocupar hores i hores?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Què és una cosa per la qual era conegut, de fer o d’arreglar?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Quin consell donaria a un jove que comença a treballar?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Quina mena de música li fa moure els peus?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Què fa que una festa sigui realment bona?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Quin cantant li agrada escoltar?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Quina pel·lícula o sèrie li agrada tornar a veure?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Què és el que més li agrada de l’estiu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Què gaudeix de la tardor?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Què és una cosa acollidora per fer en un vespre d’hivern?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Quins són per a vostè els primers senyals de la primavera?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Neu, pluja o sol: què prefereix?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flor en un test",
+          "regions": {
+            "sky": "Fons",
+            "table": "Taula",
+            "stem": "Tija",
+            "leaf-left": "Fulla de l’esquerra",
+            "leaf-right": "Fulla de la dreta",
+            "petal-1": "Pètal 1",
+            "petal-2": "Pètal 2",
+            "petal-3": "Pètal 3",
+            "petal-4": "Pètal 4",
+            "petal-5": "Pètal 5",
+            "petal-6": "Pètal 6",
+            "petal-7": "Pètal 7",
+            "petal-8": "Pètal 8",
+            "center": "Centre de la flor",
+            "pot": "Test",
+            "pot-rim": "Vora del test"
+          }
+        },
+        "house": {
+          "name": "Casa",
+          "regions": {
+            "sky": "Cel",
+            "sun": "Sol",
+            "grass": "Herba",
+            "chimney": "Xemeneia",
+            "walls": "Parets",
+            "roof": "Teulat",
+            "door": "Porta",
+            "window-left": "Finestra de l’esquerra",
+            "window-right": "Finestra de la dreta",
+            "path": "Camí"
+          }
+        },
+        "teacup": {
+          "name": "Tassa de te",
+          "regions": {
+            "background": "Fons",
+            "saucer": "Platet",
+            "handle": "Nansa",
+            "cup": "Tassa",
+            "band": "Franja de la tassa",
+            "tea": "Te"
+          }
+        },
+        "butterfly": {
+          "name": "Papallona",
+          "regions": {
+            "background": "Fons",
+            "wing-top-left": "Ala de dalt a l’esquerra",
+            "wing-top-right": "Ala de dalt a la dreta",
+            "wing-bottom-left": "Ala de baix a l’esquerra",
+            "wing-bottom-right": "Ala de baix a la dreta",
+            "spot-left": "Taca de l’ala esquerra",
+            "spot-right": "Taca de l’ala dreta",
+            "body": "Cos"
+          }
+        },
+        "sailboat": {
+          "name": "Veler",
+          "regions": {
+            "sky": "Cel",
+            "sea": "Mar",
+            "sail-big": "Vela gran",
+            "sail-small": "Vela petita",
+            "mast": "Pal",
+            "hull": "Vaixell",
+            "flag": "Bandera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Cuina i jardí",
+          "baskets": [
+            "A la cuina",
+            "Al jardí"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fruita i animals",
+          "baskets": [
+            "Fruita",
+            "Animals"
+          ]
+        },
+        "home-travel": {
+          "label": "Casa i viatges",
+          "baskets": [
+            "A casa",
+            "Fora de casa"
+          ]
+        }
+      }
+    }
+  }
+}

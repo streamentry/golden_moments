@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Zvířata",
+      "description": "Roztomilá a přátelská zvířata z celého světa"
+    },
+    "nature": {
+      "name": "Příroda",
+      "description": "Krásné krajiny a přírodní scenérie"
+    },
+    "food": {
+      "name": "Jídlo",
+      "description": "Chutná jídla a dobroty"
+    },
+    "vintage": {
+      "name": "Auta",
+      "description": "Auta a nákladní vozy k prohlížení a povídání"
+    },
+    "flowers": {
+      "name": "Květiny",
+      "description": "Krásné květy a zahradní scenérie"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Zvířata na farmě",
+      "description": "Přátelská zvířata na farmě, jako na návštěvě na venkově.",
+      "theme": "Život na farmě",
+      "images": {
+        "cow_1": "Přívětivá kráva",
+        "pig_1": "Spokojené prase",
+        "chicken_1": "Kohout",
+        "buffalo_1": "Vodní buvol",
+        "horse_1": "Krásný kůň",
+        "duck_1": "Kachní rodina",
+        "goat_1": "Zvědavá koza",
+        "rabbit_1": "Roztomilý králík"
+      }
+    },
+    "nature_mountains": {
+      "title": "Pohledy na hory",
+      "description": "Úchvatné horské krajiny a rozhledy",
+      "theme": "Přírodní krása",
+      "images": {
+        "mountain_1": "Zasněžené vrcholy",
+        "mountain_2": "Hora Fudži",
+        "mountain_3": "Alpské údolí",
+        "mountain_4": "Skalnatý vrchol",
+        "mountain_5": "Zalesněné kopce",
+        "mountain_6": "Hory v mlze"
+      }
+    },
+    "vintage_cars": {
+      "title": "Auta a nákladní vozy",
+      "description": "Lesklá auta a nákladní vozy k prohlížení a povídání",
+      "theme": "Na cestě",
+      "images": {
+        "vintage_car_1": "Oranžové Audi při západu slunce",
+        "vintage_car_2": "Modré sportovní auto v poušti",
+        "vintage_car_3": "Stříbrné Bugatti",
+        "vintage_car_4": "Černé Porsche na silnici",
+        "vintage_car_5": "Oranžové BMW v ulici s palmami",
+        "vintage_car_6": "Modré kupé u garáže",
+        "vintage_car_7": "Zelený pick-up",
+        "vintage_car_8": "Bílé SUV mezi červenými skalami",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Modré auto s bílými pruhy"
+      }
+    },
+    "animals_safari": {
+      "title": "Zvířata ze safari",
+      "description": "Majestátní zvířata z afrického safari",
+      "theme": "Divoká příroda",
+      "images": {
+        "lion_1": "Majestátní lev",
+        "elephant_2": "Africký slon",
+        "jaguar_3": "Jaguár",
+        "zebra_4": "Pruhovaná zebra",
+        "rhino_5": "Mohutný nosorožec",
+        "cheetah_6": "Rychlý gepard",
+        "fox_7": "Hnědá liška",
+        "bear_8": "Lední medvěd",
+        "turtle_9": "Hnědá želva",
+        "squirrel_10": "Hnědá veverka",
+        "macaw_11": "Žlutomodrý ara",
+        "tiger_12": "Tygr",
+        "raccoon_13": "Mýval",
+        "wolf_14": "Šedý vlk",
+        "crocodile_15": "Krokodýl",
+        "peacock_16": "Krásný páv"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Chutné zákusky",
+      "description": "Několik chutných zákusků k vašim jídlům.",
+      "theme": "Sladké zákusky",
+      "images": {
+        "pastries_1": "Čtyři koláčky",
+        "oreo_cookie_sandwiches_2": "Sendvičové sušenky Oreo",
+        "crepe_3": "Palačinka",
+        "pancake_4": "Lívanec",
+        "macarons_5": "Makronky",
+        "caramel_cake_6": "Karamelový dort"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropické květy",
+      "description": "Objevte živou krásu tropů v této sadě exotických květin.",
+      "theme": "Tropické květiny",
+      "images": {
+        "hibiscus_1": "Červený ibišek",
+        "frangipani_2": "Červenobílé frangipani",
+        "sunflower_3": "Slunečnice",
+        "hydrangea_4": "Bílá hortenzie",
+        "rose_5": "Růže",
+        "chrysanthemum_6": "Chryzantéma",
+        "anthurium_7": "Anturie",
+        "plumeria_8": "Plumérie",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Ostrožka"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Pouliční jídlo",
+      "description": "Poznejte pestrý svět pouličního jídla v této sadě chutných pochoutek z celého světa.",
+      "theme": "Pouliční jídlo",
+      "images": {
+        "taco_1": "Mexické taco",
+        "ramen_2": "Japonský ramen",
+        "dumplings_3": "Čínské knedlíčky",
+        "samosa_4": "Indická samosa",
+        "pizza_5": "Kousek italské pizzy",
+        "crepe_6": "Francouzská krepa",
+        "satay_7": "Thajské špízy satay",
+        "burger_8": "Americký burger",
+        "bao_9": "Pařený závitek bao",
+        "takoyaki_10": "Japonské takojaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Přírodní krajina",
+      "description": "Klidné, krásné přírodní scenérie k pomalému prohlížení a společnému povídání.",
+      "theme": "Přírodní krajiny",
+      "images": {
+        "mountain_1": "Pohoří",
+        "forest_2": "Les v mlze",
+        "lake_3": "Horské jezero",
+        "desert_4": "Pouštní duny",
+        "waterfall_5": "Vodopád",
+        "beach_6": "Písečná pláž",
+        "river_7": "Plynoucí řeka",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Nebe při západu slunce",
+        "snow_mountain_10": "Zasněžená hora",
+        "flowers_11": "Polní květiny",
+        "rainforest_12": "Deštný prales",
+        "iceberg_13": "Ledovec",
+        "volcano_14": "Sopka",
+        "cliff_15": "Mořský útes",
+        "aurora_16": "Polární záře",
+        "savannah_17": "Savana",
+        "coral_reef_18": "Korálový útes"
+      }
+    }
+  }
+}

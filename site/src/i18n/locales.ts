@@ -79,6 +79,20 @@ export const LOCALES: readonly LocaleInfo[] = [
   { code: 'jv', prefix: 'jv', bcp47: 'jv', htmlLang: 'jv', og: 'jv_ID', name: 'Basa Jawa', englishName: 'Javanese', dir: 'ltr' },
   { code: 'su', prefix: 'su', bcp47: 'su', htmlLang: 'su', og: 'su_ID', name: 'Basa Sunda', englishName: 'Sundanese', dir: 'ltr' },
   { code: 'sd', prefix: 'sd', bcp47: 'sd', htmlLang: 'sd', og: 'sd_PK', name: 'سنڌي', englishName: 'Sindhi', dir: 'rtl' },
+  { code: 'ca', prefix: 'ca', bcp47: 'ca', htmlLang: 'ca', og: 'ca_ES', name: 'Català', englishName: 'Catalan', dir: 'ltr' },
+  { code: 'cs', prefix: 'cs', bcp47: 'cs', htmlLang: 'cs', og: 'cs_CZ', name: 'Čeština', englishName: 'Czech', dir: 'ltr' },
+  { code: 'da', prefix: 'da', bcp47: 'da', htmlLang: 'da', og: 'da_DK', name: 'Dansk', englishName: 'Danish', dir: 'ltr' },
+  { code: 'el', prefix: 'el', bcp47: 'el', htmlLang: 'el', og: 'el_GR', name: 'Ελληνικά', englishName: 'Greek', dir: 'ltr' },
+  { code: 'fi', prefix: 'fi', bcp47: 'fi', htmlLang: 'fi', og: 'fi_FI', name: 'Suomi', englishName: 'Finnish', dir: 'ltr' },
+  { code: 'he', prefix: 'he', bcp47: 'he', htmlLang: 'he', og: 'he_IL', name: 'עברית', englishName: 'Hebrew', dir: 'rtl' },
+  { code: 'hr', prefix: 'hr', bcp47: 'hr', htmlLang: 'hr', og: 'hr_HR', name: 'Hrvatski', englishName: 'Croatian', dir: 'ltr' },
+  { code: 'hu', prefix: 'hu', bcp47: 'hu', htmlLang: 'hu', og: 'hu_HU', name: 'Magyar', englishName: 'Hungarian', dir: 'ltr' },
+  { code: 'nb', prefix: 'nb', bcp47: 'nb', htmlLang: 'nb', og: 'nb_NO', name: 'Norsk bokmål', englishName: 'Norwegian Bokmål', dir: 'ltr' },
+  { code: 'pt-PT', prefix: 'pt-pt', bcp47: 'pt-PT', htmlLang: 'pt-PT', og: 'pt_PT', name: 'Português (Portugal)', englishName: 'Portuguese (Portugal)', dir: 'ltr' },
+  { code: 'sk', prefix: 'sk', bcp47: 'sk', htmlLang: 'sk', og: 'sk_SK', name: 'Slovenčina', englishName: 'Slovak', dir: 'ltr' },
+  { code: 'sl', prefix: 'sl', bcp47: 'sl', htmlLang: 'sl', og: 'sl_SI', name: 'Slovenščina', englishName: 'Slovenian', dir: 'ltr' },
+  { code: 'sv', prefix: 'sv', bcp47: 'sv', htmlLang: 'sv', og: 'sv_SE', name: 'Svenska', englishName: 'Swedish', dir: 'ltr' },
+  { code: 'mn', prefix: 'mn', bcp47: 'mn', htmlLang: 'mn', og: 'mn_MN', name: 'Монгол хэл', englishName: 'Mongolian', dir: 'ltr' },
 ];
 
 /**

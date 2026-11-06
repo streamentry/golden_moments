@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Dyr",
+      "description": "Søde og venlige dyr fra hele verden"
+    },
+    "nature": {
+      "name": "Natur",
+      "description": "Smukke landskaber og naturbilleder"
+    },
+    "food": {
+      "name": "Mad",
+      "description": "God mad og søde sager"
+    },
+    "vintage": {
+      "name": "Biler",
+      "description": "Biler og lastbiler at se på og tale om"
+    },
+    "flowers": {
+      "name": "Blomster",
+      "description": "Smukke blomster og havebilleder"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Dyr på gården",
+      "description": "Venlige gårdens dyr, som på et besøg på landet.",
+      "theme": "Livet på gården",
+      "images": {
+        "cow_1": "Venlig ko",
+        "pig_1": "Glad gris",
+        "chicken_1": "Hane",
+        "buffalo_1": "Vandbøffel",
+        "horse_1": "Smuk hest",
+        "duck_1": "Andefamilie",
+        "goat_1": "Nysgerrig ged",
+        "rabbit_1": "Sød kanin"
+      }
+    },
+    "nature_mountains": {
+      "title": "Udsigt til bjerge",
+      "description": "Betagende bjerglandskaber og smuk udsigt",
+      "theme": "Naturens skønhed",
+      "images": {
+        "mountain_1": "Snedækkede tinder",
+        "mountain_2": "Fuji-bjerget",
+        "mountain_3": "Dal i alperne",
+        "mountain_4": "Klippetop",
+        "mountain_5": "Skovklædte bakker",
+        "mountain_6": "Bjerge i tåge"
+      }
+    },
+    "vintage_cars": {
+      "title": "Biler og lastbiler",
+      "description": "Blanke biler og lastbiler at se på og tale om",
+      "theme": "På vejen",
+      "images": {
+        "vintage_car_1": "Orange Audi ved solnedgang",
+        "vintage_car_2": "Blå sportsvogn i ørkenen",
+        "vintage_car_3": "Sølvfarvet Bugatti",
+        "vintage_car_4": "Sort Porsche på vejen",
+        "vintage_car_5": "Orange BMW på en vej med palmer",
+        "vintage_car_6": "Blå coupé ved en garage",
+        "vintage_car_7": "Grøn pickup",
+        "vintage_car_8": "Hvid SUV mellem røde klipper",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Blå bil med hvide striber"
+      }
+    },
+    "animals_safari": {
+      "title": "Dyr fra safari",
+      "description": "Majestætiske dyr fra safari i Afrika",
+      "theme": "Vilde dyr",
+      "images": {
+        "lion_1": "Majestætisk løve",
+        "elephant_2": "Afrikansk elefant",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Stribet zebra",
+        "rhino_5": "Kraftigt næsehorn",
+        "cheetah_6": "Hurtig gepard",
+        "fox_7": "Brun ræv",
+        "bear_8": "Isbjørn",
+        "turtle_9": "Brun skildpadde",
+        "squirrel_10": "Brun egern",
+        "macaw_11": "Gul og blå ara",
+        "tiger_12": "Tiger",
+        "raccoon_13": "Vaskebjørn",
+        "wolf_14": "Grå ulv",
+        "crocodile_15": "Krokodille",
+        "peacock_16": "Smuk påfugl"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Lækre desserter",
+      "description": "Nogle lækre desserter til måltiderne.",
+      "theme": "Søde desserter",
+      "images": {
+        "pastries_1": "Fire stykker wienerbrød",
+        "oreo_cookie_sandwiches_2": "Oreo-kiks med fyld",
+        "crepe_3": "Crêpe",
+        "pancake_4": "Pandekage",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Karamelkage"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropiske blomster",
+      "description": "Oplev tropernes farverige skønhed med denne pakke eksotiske blomster.",
+      "theme": "Tropiske blomster",
+      "images": {
+        "hibiscus_1": "Rød hibiscus",
+        "frangipani_2": "Rød og hvid frangipani",
+        "sunflower_3": "Solsikke",
+        "hydrangea_4": "Hvid hortensia",
+        "rose_5": "Rose",
+        "chrysanthemum_6": "Krysantemum",
+        "anthurium_7": "Flamingoblomst",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Ridderspore"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Gademad fra hele verden",
+      "description": "Oplev gademadens farverige verden med denne pakke lækre snacks fra hele verden.",
+      "theme": "Gademad",
+      "images": {
+        "taco_1": "Mexicansk taco",
+        "ramen_2": "Japansk ramen",
+        "dumplings_3": "Kinesiske dumplings",
+        "samosa_4": "Indisk samosa",
+        "pizza_5": "Italiensk pizzastykke",
+        "crepe_6": "Fransk crêpe",
+        "satay_7": "Thailandske satéspyd",
+        "burger_8": "Amerikansk burger",
+        "bao_9": "Dampet bao-bolle",
+        "takoyaki_10": "Japansk takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Naturlandskaber",
+      "description": "Rolige, smukke naturbilleder at se langsomt på og tale om sammen.",
+      "theme": "Naturlandskaber",
+      "images": {
+        "mountain_1": "Bjergkæde",
+        "forest_2": "Skov i tåge",
+        "lake_3": "Sø i bjergene",
+        "desert_4": "Klitter i ørkenen",
+        "waterfall_5": "Vandfald",
+        "beach_6": "Sandstrand",
+        "river_7": "Flydende flod",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Solnedgang på himlen",
+        "snow_mountain_10": "Snedækket bjerg",
+        "flowers_11": "Vilde blomster",
+        "rainforest_12": "Regnskov",
+        "iceberg_13": "Isbjerg",
+        "volcano_14": "Vulkan",
+        "cliff_15": "Klint ved havet",
+        "aurora_16": "Nordlys",
+        "savannah_17": "Savanne",
+        "coral_reef_18": "Koralrev"
+      }
+    }
+  }
+}

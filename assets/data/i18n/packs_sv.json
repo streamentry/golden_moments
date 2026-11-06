@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "animals": {
+      "name": "Djur",
+      "description": "Söta och vänliga djur från hela världen"
+    },
+    "nature": {
+      "name": "Natur",
+      "description": "Vackra landskap och naturscener"
+    },
+    "food": {
+      "name": "Mat",
+      "description": "Goda måltider och godsaker"
+    },
+    "vintage": {
+      "name": "Bilar",
+      "description": "Bilar och lastbilar att titta på och prata om"
+    },
+    "flowers": {
+      "name": "Blommor",
+      "description": "Vackra blommor och trädgårdsmotiv"
+    }
+  },
+  "packs": {
+    "animals_farm": {
+      "title": "Lantgårdsdjur",
+      "description": "Vänliga lantgårdsdjur, som vid ett besök på landet.",
+      "theme": "Livet på landet",
+      "images": {
+        "cow_1": "Vänlig ko",
+        "pig_1": "Glad gris",
+        "chicken_1": "Tupp",
+        "buffalo_1": "Vattenbuffel",
+        "horse_1": "Vacker häst",
+        "duck_1": "Andfamilj",
+        "goat_1": "Nyfiken get",
+        "rabbit_1": "Söt kanin"
+      }
+    },
+    "nature_mountains": {
+      "title": "Bergsvyer",
+      "description": "Hisnande berglandskap och vidsträckta utsikter",
+      "theme": "Naturens skönhet",
+      "images": {
+        "mountain_1": "Snötäckta toppar",
+        "mountain_2": "Fujiberget",
+        "mountain_3": "Alpdal",
+        "mountain_4": "Klippig bergstopp",
+        "mountain_5": "Skogsklädda kullar",
+        "mountain_6": "Dimmiga berg"
+      }
+    },
+    "vintage_cars": {
+      "title": "Bilar och lastbilar",
+      "description": "Blanka bilar och lastbilar att titta på och prata om",
+      "theme": "Ute på vägen",
+      "images": {
+        "vintage_car_1": "Orange Audi i solnedgången",
+        "vintage_car_2": "Blå sportbil i öknen",
+        "vintage_car_3": "Silverfärgad Bugatti",
+        "vintage_car_4": "Svart Porsche på vägen",
+        "vintage_car_5": "Orange BMW på en palmkantad gata",
+        "vintage_car_6": "Blå coupé vid ett garage",
+        "vintage_car_7": "Grön pickup",
+        "vintage_car_8": "Vit SUV bland röda klippor",
+        "vintage_car_9": "Aston Martin",
+        "vintage_car_10": "Blå bil med vita ränder"
+      }
+    },
+    "animals_safari": {
+      "title": "Safaridjur",
+      "description": "Majestätiska djur från afrikanska safarier",
+      "theme": "Vilda djur",
+      "images": {
+        "lion_1": "Majestätiskt lejon",
+        "elephant_2": "Afrikansk elefant",
+        "jaguar_3": "Jaguar",
+        "zebra_4": "Randig zebra",
+        "rhino_5": "Kraftfull noshörning",
+        "cheetah_6": "Snabb gepard",
+        "fox_7": "Brun räv",
+        "bear_8": "Isbjörn",
+        "turtle_9": "Brun sköldpadda",
+        "squirrel_10": "Brun ekorre",
+        "macaw_11": "Gul och blå ara",
+        "tiger_12": "Tiger",
+        "raccoon_13": "Tvättbjörn",
+        "wolf_14": "Grå varg",
+        "crocodile_15": "Krokodil",
+        "peacock_16": "Vacker påfågel"
+      }
+    },
+    "food_desserts_homemade": {
+      "title": "Goda desserter",
+      "description": "Några goda desserter till måltiden.",
+      "theme": "Söta desserter",
+      "images": {
+        "pastries_1": "Fyra bakverk",
+        "oreo_cookie_sandwiches_2": "Oreokexmackor",
+        "crepe_3": "Crêpe",
+        "pancake_4": "Pannkaka",
+        "macarons_5": "Macarons",
+        "caramel_cake_6": "Kolatårta"
+      }
+    },
+    "flowers_tropical": {
+      "title": "Tropiska blommor",
+      "description": "Upptäck tropikernas färgsprakande skönhet med det här paketet med exotiska blommor.",
+      "theme": "Tropiska blommor",
+      "images": {
+        "hibiscus_1": "Röd hibiskus",
+        "frangipani_2": "Röd och vit frangipani",
+        "sunflower_3": "Solros",
+        "hydrangea_4": "Vit hortensia",
+        "rose_5": "Ros",
+        "chrysanthemum_6": "Krysantemum",
+        "anthurium_7": "Anthurium",
+        "plumeria_8": "Plumeria",
+        "kodom_9": "Kodom",
+        "delphinium_10": "Riddarsporre"
+      }
+    },
+    "food_street_snacks": {
+      "title": "Gatumat",
+      "description": "Utforska gatumatens färgglada värld med det här paketet med goda snacks från hela världen.",
+      "theme": "Gatumat",
+      "images": {
+        "taco_1": "Mexikansk taco",
+        "ramen_2": "Japansk ramen",
+        "dumplings_3": "Kinesiska dumplings",
+        "samosa_4": "Indisk samosa",
+        "pizza_5": "Italiensk pizzaslice",
+        "crepe_6": "Fransk crêpe",
+        "satay_7": "Thailändska satéspett",
+        "burger_8": "Amerikansk hamburgare",
+        "bao_9": "Ångad baobulle",
+        "takoyaki_10": "Japansk takoyaki"
+      }
+    },
+    "nature_landscape": {
+      "title": "Naturlandskap",
+      "description": "Lugna, vackra naturscener att titta på i lugn och ro och prata om tillsammans.",
+      "theme": "Naturlandskap",
+      "images": {
+        "mountain_1": "Bergskedja",
+        "forest_2": "Dimmig skog",
+        "lake_3": "Fjällsjö",
+        "desert_4": "Sanddyner i öknen",
+        "waterfall_5": "Vattenfall",
+        "beach_6": "Sandstrand",
+        "river_7": "Strömmande flod",
+        "canyon_8": "Grand Canyon",
+        "sunset_9": "Himmel i solnedgång",
+        "snow_mountain_10": "Snöigt berg",
+        "flowers_11": "Vilda blommor",
+        "rainforest_12": "Regnskog",
+        "iceberg_13": "Isberg",
+        "volcano_14": "Vulkan",
+        "cliff_15": "Klippa vid havet",
+        "aurora_16": "Norrsken",
+        "savannah_17": "Savann",
+        "coral_reef_18": "Korallrev"
+      }
+    }
+  }
+}

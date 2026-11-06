@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Pari slik",
+    "seoTitle": "Igra iskanja parov za demenco: Pari slik",
+    "h1": "Pari slik: nežna igra iskanja parov",
+    "description": "Brezplačna, nežna igra iskanja parov za osebe z demenco. Velike slike ostanejo vidne, časovnika in točk ni, izberete pa od 4 do 12 ploščic.",
+    "short": "Poiščite dve enaki sliki. Slike lahko ostanejo vidne.",
+    "players": "1 ali 2 osebi, drug ob drugem",
+    "intro": "Tapnite sliko, nato tapnite tisto, ki se ji ujema. Slike so privzeto vidne, zato si ni treba ničesar zapomniti. Ko dve sliki spadata skupaj, dobita zlat okvir in kljukico.",
+    "howTo": [
+      "Izberite, koliko ploščic želite. Štiri ploščice so miren začetek.",
+      "Tapnite katero koli sliko. Dobi zlat okvir.",
+      "Tapnite sliko, ki je videti enaka. Par ostane skupaj s kljukico.",
+      "Če sta sliki različni, se ne zgodi nič slabega. Tapnite znova, ko boste pripravljeni.",
+      "Vklopite „Skrite slike“ samo, če vam je obema všeč klasična različica z obrnjenimi slikami."
+    ],
+    "tips": [
+      "Slike skupaj poimenujte na glas in se o njih pogovarjajte: „Rdeča skodelica. Ali pijete čaj z mlekom?“",
+      "Naj tapa oseba, ki ji pomagate, tudi če traja dlje. Raje pokažite, kot da tapnete namesto nje.",
+      "Ostanite pri štirih ploščicah, dokler je prijetno. Več ploščic je izbira, nikoli stopnja, ki jo je treba doseči.",
+      "Nehajte, dokler je še prijetno. Ena igra je že popolna dejavnost."
+    ],
+    "faq": [
+      {
+        "q": "Ali je časovnik ali točkovanje?",
+        "a": "Ne. Ure, točk, števca potez in izgubljanja ni. Ustavite se lahko kadar koli, ustavitev na pol poti pa je povsem dober konec."
+      },
+      {
+        "q": "Zakaj ostanejo slike obrnjene navzgor?",
+        "a": "Ko so slike vidne, igra postane gledanje in iskanje parov, ne pomnjenje. Mnogi to doživljajo kot bolj mirno. Če imate raje skrite slike, lahko preklopite z enim tapom."
+      },
+      {
+        "q": "Je brezplačno in se moram prijaviti?",
+        "a": "Da, brezplačno je in računa, prijave ali prenosa ni. Deluje v spletnem brskalniku na telefonu, tablici ali računalniku."
+      },
+      {
+        "q": "Ali lahko uporabimo lastne družinske fotografije?",
+        "a": "Da. Poskusite Pare fotografij, kjer izberete fotografije iz svoje naprave. Fotografije ostanejo v vašem brskalniku in se ne naložijo."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Poišči enako",
+    "seoTitle": "Poišči enako sliko: preprosta igra za demenco",
+    "h1": "Poišči enako sliko",
+    "description": "Ena slika zgoraj, dve do štiri spodaj. Tapnite tisto, ki je enaka. Mirna, brezplačna igra s slikami za osebe z demenco, brez časovnika.",
+    "short": "Poglejte sliko zgoraj in tapnite enako spodaj.",
+    "players": "1 ali 2 osebi",
+    "intro": "Na vrhu zaslona je ena slika. Pod njo so dve, tri ali štiri slike. Tapnite tisto, ki je enaka. Vsakič je ena preprosta izbira in veliko prostora za pogovor.",
+    "howTo": [
+      "Izberite, med koliko slikami boste izbirali: dve, tri ali štiri. Dve sta najpreprostejši.",
+      "Skupaj poglejte sliko zgoraj.",
+      "Tapnite enako sliko spodaj. Označena je s kljukico in nekaj toplimi besedami.",
+      "Če je tapnjena drugačna slika, jo igra preprosto poimenuje in počaka. Brez naglice.",
+      "Tapnite „Naslednja slika“, ko ste pripravljeni na novo."
+    ],
+    "tips": [
+      "Pred izbiro se pogovorite o vsaki sliki: barvah, oblikah, kje bi jo lahko videla.",
+      "Dve izbiri nista „prelahki“. Cilj je prijeten trenutek, ne izziv.",
+      "Če je tapanje težko, oseba lahko pokaže, vi pa tapnete namesto nje."
+    ],
+    "faq": [
+      {
+        "q": "Ali je časovnik ali točkovanje?",
+        "a": "Ne. Ure, točk, števca potez in izgubljanja ni. Ustavite se lahko kadar koli, ustavitev na pol poti pa je povsem dober konec."
+      },
+      {
+        "q": "Kaj se zgodi, če je tapnjena napačna slika?",
+        "a": "Nič neprijetnega. Brez zvočnega signala, rdečega križca ali tresenja. Igra poimenuje tapnjeno sliko in počaka na naslednji tap."
+      },
+      {
+        "q": "Je brezplačno in se moram prijaviti?",
+        "a": "Da, brezplačno je in računa, prijave ali prenosa ni. Deluje v spletnem brskalniku na telefonu, tablici ali računalniku."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Poišči senco",
+    "seoTitle": "Igra iskanja sence za demenco: brezplačno na spletu",
+    "h1": "Poišči senco: nežna igra s slikami",
+    "description": "Temna senca zgoraj, dve do štiri slike spodaj. Tapnite sliko, ki naredi senco. Brezplačna, mirna igra iskanja sence za demenco, brez časovnika.",
+    "short": "Poglejte senco in tapnite sliko, ki jo naredi.",
+    "players": "1 ali 2 osebi",
+    "intro": "Iskanje sence je znana dejavnost iz natisnjenih listov, tu z velikimi slikami in brez tiskanja. Mehka senca je na vrhu zaslona, dve, tri ali štiri slike pa čakajo spodaj. Tapnite tisto, ki naredi senco. O oblikah, kot so kolo, dežnik ali skodelica, se je lahko tudi pogovarjati.",
+    "howTo": [
+      "Izberite, med koliko slikami boste izbirali: dve, tri ali štiri. Dve sta najpreprostejši.",
+      "Skupaj poglejte senco. Kakšne oblike je? Je visoka ali okrogla?",
+      "Tapnite sliko, ki naredi senco. Njeno ime se prikaže pod senco.",
+      "Če je tapnjena drugačna slika, jo igra preprosto poimenuje in počaka. Brez naglice.",
+      "Tapnite „Naslednja senca“, ko ste pripravljeni na novo."
+    ],
+    "tips": [
+      "S prstom sledite obrisu sence in se pogovorite o obliki.",
+      "Če so sence danes težke, preklopite na Poišči enako, kjer sta si sliki podobni.",
+      "Ko je slika najdena, se o njej pogovorite: „Tak dežnik smo imeli tudi mi.“"
+    ],
+    "faq": [
+      {
+        "q": "Ali je časovnik ali točkovanje?",
+        "a": "Ne. Ure, točk, števca potez in izgubljanja ni. Ustavite se lahko kadar koli, ustavitev na pol poti pa je povsem dober konec."
+      },
+      {
+        "q": "Je iskanje sence dobro za osebe z demenco?",
+        "a": "Za nekatere je lahko prijetna, preprosta dejavnost, zlasti v zgodnejših fazah. Oblike je lažje prepoznati kot besede. Je za veselje in pogovor, ni test in demence ne zdravi ali upočasnjuje. Če povzroča razočaranje, poskusite Poišči enako ali pa samo skupaj gledajte slike."
+      },
+      {
+        "q": "Kaj se zgodi, če je tapnjena napačna slika?",
+        "a": "Nič neprijetnega. Brez zvočnega signala, rdečega križca ali tresenja. Igra poimenuje tapnjeno sliko in počaka na naslednji tap."
+      },
+      {
+        "q": "Je brezplačno in se moram prijaviti?",
+        "a": "Da, brezplačno je in računa, prijave ali prenosa ni. Deluje v spletnem brskalniku na telefonu, tablici ali računalniku."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Razvrščajmo skupaj",
+    "seoTitle": "Igra razvrščanja za demenco: razvrščajmo skupaj",
+    "h1": "Razvrščajmo skupaj: dejavnost razvrščanja slik",
+    "description": "Tapnite sliko, nato košaro, kamor spada: kuhinja ali vrt, sadje ali živali. Mirna, brezplačna dejavnost razvrščanja za osebe z demenco.",
+    "short": "Vsako sliko dajte v njeno košaro: kuhinja ali vrt in drugo.",
+    "players": "1 ali 2 osebi",
+    "intro": "Razvrščanje je znano, zadovoljivo vsakdanje opravilo, kot pospravljanje nakupov ali iskanje parov nogavic. Tapnite sliko, nato košaro, kamor spada. Naglice ni in ni napačnih potez.",
+    "howTo": [
+      "Izberite temo: kuhinja in vrt, sadje in živali ali dom in potovanje.",
+      "Tapnite sliko. Dobi zlat okvir.",
+      "Tapnite košaro, kamor spada. Slika se premakne v to košaro.",
+      "Če spada v drugo košaro, igra to nežno pove in počaka.",
+      "Ko je vsaka slika razvrščena, skupaj poglejte košare."
+    ],
+    "tips": [
+      "V resničnem življenju pogosto ni napačnih odgovorov. Če nekdo reče, da zalivalka spada v kuhinjo, vprašajte, zakaj. Morda dobite lepo zgodbo.",
+      "Slike uporabite kot izhodišče: „Kaj ste gojili na svojem vrtu?“",
+      "Razvrščanje pravih predmetov, kot so žlice in vilice ali gumbi po barvi, je odlično nadaljevanje stran od zaslona."
+    ],
+    "faq": [
+      {
+        "q": "Ali je časovnik ali točkovanje?",
+        "a": "Ne. Ure, točk, števca potez in izgubljanja ni. Ustavite se lahko kadar koli, ustavitev na pol poti pa je povsem dober konec."
+      },
+      {
+        "q": "Zakaj razvrščanje?",
+        "a": "Mnogi radi razvrščajo, ker je to videti kot koristno, znano delo. Ob tem se je tudi lahko pogovarjati o slikah."
+      },
+      {
+        "q": "Je brezplačno in se moram prijaviti?",
+        "a": "Da, brezplačno je in računa, prijave ali prenosa ni. Deluje v spletnem brskalniku na telefonu, tablici ali računalniku."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Sestavljanka iz slike",
+    "seoTitle": "Lahka sestavljanka za demenco: 4 ali 9 kosov",
+    "h1": "Sestavljanka iz slike: lahka sestavljanka",
+    "description": "Lahka spletna sestavljanka za osebe z demenco: 4 ali 9 velikih kosov, cela slika ostane vidna, dva kosa pa zamenjate s tapom.",
+    "short": "Tapnite dva kosa, da ju zamenjate, dokler ni slika cela.",
+    "players": "1 ali 2 osebi",
+    "intro": "Prijazna slika je razrezana na štiri ali devet velikih kosov in premešana. Cela slika ostane vidna kot vodilo. Tapnite en kos, nato drugega, pa zamenjata mesti. Vlečenje ni potrebno.",
+    "howTo": [
+      "Izberite sliko in 4 ali 9 kosov. Štiri so nežen začetek.",
+      "Skupaj poglejte celo sliko na vrhu.",
+      "Tapnite kos, nato tapnite mesto, kamor spada. Kosa zamenjata mesti.",
+      "Kosi na pravem mestu dobijo majhno kljukico.",
+      "Ko je slika cela, jo skupaj občudujte, nato izberite drugo."
+    ],
+    "tips": [
+      "Tapanje dveh kosov za zamenjavo je za mnoge precej lažje kot vlečenje.",
+      "Pogovarjajte se o sliki, ko se sestavlja: „Tu je rdeča streha.“",
+      "Prava lesena sestavljanka z 12 do 24 velikimi kosi je prav tako lepa dejavnost ob mizi."
+    ],
+    "faq": [
+      {
+        "q": "Ali je časovnik ali točkovanje?",
+        "a": "Ne. Ure, točk, števca potez in izgubljanja ni. Ustavite se lahko kadar koli, ustavitev na pol poti pa je povsem dober konec."
+      },
+      {
+        "q": "Ali moram vleči kose?",
+        "a": "Ne. Tapnite en kos, nato drugega, pa zamenjata mesti. To je lažje pri tresoči roki ali na majhnem zaslonu."
+      },
+      {
+        "q": "Je brezplačno in se moram prijaviti?",
+        "a": "Da, brezplačno je in računa, prijave ali prenosa ni. Deluje v spletnem brskalniku na telefonu, tablici ali računalniku."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Dokončaj rek",
+    "seoTitle": "Dokončaj rek: igra s pregovori za starejše",
+    "h1": "Dokončaj rek",
+    "description": "Znani slovenski reki z manjkajočo zadnjo besedo, na primer „Brez dela ni ___“. Tapnite izbiro ali pokažite konec, nato se pogovorite.",
+    "short": "Skupaj dokončajte znane reke, nato se o njih pogovorite.",
+    "players": "1, 2 ali skupina",
+    "intro": "Stari reki so pogosto znani vse življenje. Vsaka kartica prikaže znan rek z manjkajočo zadnjo besedo, tri izbire in gumb „Pokaži konec“. Po koncu nežno vprašanje vabi k pogovoru.",
+    "howTo": [
+      "Skupaj preberite rek na glas.",
+      "Tapnite besedo, ki ga dokonča, ali tapnite „Pokaži konec“.",
+      "Še enkrat preberite ves rek in se pogovorite z namigom.",
+      "Tapnite „Naslednji rek“, ko ste pripravljeni."
+    ],
+    "tips": [
+      "Berite počasi in pred zadnjo besedo naredite premor. Pogosto jo oseba izreče, še preden končate.",
+      "Če kdo poda drugačen konec, uživajte v njem. Nekatere različice rekov se razlikujejo po družinah ali krajih.",
+      "V skupini eden bere, vsi pa se pridružijo pri koncu."
+    ],
+    "faq": [
+      {
+        "q": "Ali je časovnik ali točkovanje?",
+        "a": "Ne. Ure, točk, števca potez in izgubljanja ni. Ustavite se lahko kadar koli, ustavitev na pol poti pa je povsem dober konec."
+      },
+      {
+        "q": "Kaj, če izberemo drugo besedo?",
+        "a": "Igra pokaže običajen konec in preide na pogovor. Točk ni in drugačen odgovor je v redu."
+      },
+      {
+        "q": "Je brezplačno in se moram prijaviti?",
+        "a": "Da, brezplačno je in računa, prijave ali prenosa ni. Deluje v spletnem brskalniku na telefonu, tablici ali računalniku."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Iskanje besed v velikem tisku",
+    "seoTitle": "Iskanje besed v velikem tisku za demenco, za tiskanje",
+    "h1": "Iskanje besed v velikem tisku",
+    "description": "Brezplačno iskanje besed v velikem tisku za starejše in osebe z demenco. Malo besed, velike črke, besede samo vodoravno in navpično. Igrajte na spletu ali natisnite.",
+    "short": "Velike črke, nekaj besed, samo vodoravno in navpično. Lahko tudi natisnete.",
+    "players": "1 ali 2 osebi",
+    "intro": "Majhna mreža z velikimi črkami in le peščico besed, vse se berejo vodoravno ali navpično. Tapnite prvo črko besede, nato njeno zadnjo črko. Imate raje papir? Svežo uganko natisnete z enim tapom.",
+    "howTo": [
+      "Izberite temo in velikost mreže.",
+      "Poglejte seznam besed. Besede se berejo vodoravno (z leve proti desni) ali navpično (od zgoraj navzdol).",
+      "Tapnite prvo črko besede, nato tapnite njeno zadnjo črko.",
+      "Najdena beseda je označena in prečrtana na seznamu.",
+      "Tapnite „Natisni to iskanje besed“ za igranje na papirju s svinčnikom ali flomastrom."
+    ],
+    "tips": [
+      "Pokažite besedo na seznamu in skupaj poiščite njeno prvo črko.",
+      "Na papirju je marker lažje držati kot svinčnik.",
+      "Pogovarjajte se o besedah teme. Besede o sadju so naraven vstop v spomine na obiranje, peko ali tržnice."
+    ],
+    "faq": [
+      {
+        "q": "Ali je časovnik ali točkovanje?",
+        "a": "Ne. Ure, točk, števca potez in izgubljanja ni. Ustavite se lahko kadar koli, ustavitev na pol poti pa je povsem dober konec."
+      },
+      {
+        "q": "Ali lahko natisnem iskanje besed?",
+        "a": "Da. Tapnite „Natisni to iskanje besed“, da natisnete trenutno mrežo v velikem tisku, s seznamom besed pod njo. Vsaka nova uganka je drugačna."
+      },
+      {
+        "q": "Je brezplačno in se moram prijaviti?",
+        "a": "Da, brezplačno je in računa, prijave ali prenosa ni. Deluje v spletnem brskalniku na telefonu, tablici ali računalniku."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Pobarvanke",
+    "seoTitle": "Pobarvanke za odrasle z demenco (brezplačno)",
+    "h1": "Pobarvanke",
+    "description": "Preproste pobarvanke za odrasle z velikimi površinami: tapnite barvo, nato sliko. Brez nereda, brez napačnih barv, vsako stran pa lahko brezplačno natisnete.",
+    "short": "Tapnite barvo, nato del slike. Strani lahko tudi natisnete.",
+    "players": "1 ali 2 osebi",
+    "intro": "Strani z velikimi, preprostimi oblikami: cvetlica v loncu, hiša, skodelica, metulj in jadrnica. Tapnite barvo, nato del slike, da ga zapolnite. Napačnih barv ni.",
+    "howTo": [
+      "Izberite stran.",
+      "Tapnite barvo. Vsaka barva ima napisano svoje ime.",
+      "Tapnite del slike, da ga zapolnite s to barvo.",
+      "Kadar koli si premislite tako, da ga znova zapolnite.",
+      "Tapnite „Natisni to stran“ za prazno stran za barvanje s svinčniki ali flomastri."
+    ],
+    "tips": [
+      "Ponudite dve barvi za izbiro namesto celotnega kompleta, če se vam zdi izbiranje preveč.",
+      "Vijolična drevesa in modra sonca so dobrodošla. Gre za uživanje v barvah, ne za natančnost.",
+      "Natisnjene strani so dobre z debelimi flomastri ali voščenkami, ki jih je lažje prijeti."
+    ],
+    "faq": [
+      {
+        "q": "Ali je časovnik ali točkovanje?",
+        "a": "Ne. Ure, točk, števca potez in izgubljanja ni. Ustavite se lahko kadar koli, ustavitev na pol poti pa je povsem dober konec."
+      },
+      {
+        "q": "So te strani preveč otročje?",
+        "a": "Narisali smo mirne, preproste predmete, ne risank, zato strani ustrezajo odraslim. Velike oblike ohranjajo barvanje lahko, ne da bi bilo otročje."
+      },
+      {
+        "q": "Je brezplačno in se moram prijaviti?",
+        "a": "Da, brezplačno je in računa, prijave ali prenosa ni. Deluje v spletnem brskalniku na telefonu, tablici ali računalniku."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Kartice za pogovor",
+    "seoTitle": "Izhodišča za pogovor ob demenci: kartice s slikami",
+    "h1": "Kartice za pogovor",
+    "description": "Kartice s slikami z nežnimi izhodišči za pogovor za osebe z demenco: brez spraševanja, brez pravilnih odgovorov. Uporabite na zaslonu ali natisnite celoten komplet.",
+    "short": "Kartice s slikami z odprtimi, nežnimi vprašanji. Brez spraševanja.",
+    "players": "2 osebi ali skupina",
+    "intro": "Vsaka kartica združuje znano sliko z odprtim vabilom k pogovoru, na primer „Kakšno vreme imate najraje?“ Pravilnih odgovorov ni in si ni treba ničesar zapomniti. Izberite temo ali premešajte vse.",
+    "howTo": [
+      "Izberite temo ali pustite „Vse kartice“.",
+      "Preberite vprašanje na glas in skupaj poglejte sliko.",
+      "Poslušajte, delite svoj odgovor in pustite, da pogovor zaide, kamor hoče.",
+      "Tapnite „Naslednja kartica“, ko ste pripravljeni, ali ostanite pri eni kartici, kolikor želite.",
+      "Tapnite „Natisni vse kartice“ za izrezovanje papirnatega kompleta."
+    ],
+    "tips": [
+      "Na vprašanje odgovorite tudi sami. Tako je bolj podobno pogovoru kot zaslišanju.",
+      "Sledite zgodbi, ne dejstvom. Če se podrobnosti spremenijo, je to v redu.",
+      "Če kartica sproži kaj žalostnega, priznajte občutek in nežno preidite na drugo kartico."
+    ],
+    "faq": [
+      {
+        "q": "Zakaj ni vprašanj „Se spomnite …?“",
+        "a": "Vprašanja, ki preverjajo spomin, so lahko kot izpit in povzročijo zadrego. Odprta vabila, kot je „Povejte mi o …“, omogočajo, da se pridruži vsak, ne glede na to, česa se spomni."
+      },
+      {
+        "q": "Ali lahko natisnem kartice?",
+        "a": "Da. „Natisni vse kartice“ natisne celoten komplet v velikem tisku, več kartic na stran, pripravljeno za izrezovanje."
+      },
+      {
+        "q": "Je brezplačno in se moram prijaviti?",
+        "a": "Da, brezplačno je in računa, prijave ali prenosa ni. Deluje v spletnem brskalniku na telefonu, tablici ali računalniku."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Pari fotografij",
+    "seoTitle": "Igra iskanja parov iz družinskih fotografij",
+    "h1": "Pari fotografij: poiščite pare svojih fotografij",
+    "description": "Svoje družinske fotografije spremenite v nežno igro iskanja parov. Izberite 2 do 6 fotografij v svoji napravi; ostanejo v vašem brskalniku in se nikoli ne naložijo.",
+    "short": "Izberite svoje fotografije in poiščite pare. Nič se ne naloži.",
+    "players": "2 osebi, drug ob drugem",
+    "intro": "Izberite dve do šest fotografij s telefona, tablice ali računalnika in postale bodo igra iskanja parov z velikimi, vidnimi slikami. Fotografije so prikazane samo znotraj te strani. Ne naložijo se, ne shranijo in ne delijo, ob zaprtju strani pa izginejo.",
+    "howTo": [
+      "Tapnite „Izberi fotografije“ in izberite dve do šest fotografij.",
+      "Vsaka fotografija se prikaže dvakrat. Tapnite eno, nato njen par.",
+      "Pogovarjajte se o vsaki fotografiji, ko jo najdete.",
+      "Ko končate, zaprite stran ali tapnite „Počisti fotografije“. Nič se ne ohrani."
+    ],
+    "tips": [
+      "Izberite jasne fotografije veselih, znanih stvari: hišnega ljubljenčka, vrta, najljubšega kraja, poročnega dne.",
+      "Slike krajev in predmetov so lahko lažje kot obrazi in ne vsiljujejo pritiska, da bi poimenovali ljudi.",
+      "Izpustite fotografije umrlih oseb, če bi lahko sprožile nenadno žalost, razen če veste, da prinašajo tolažbo."
+    ],
+    "faq": [
+      {
+        "q": "Ali so moje fotografije kam naložene?",
+        "a": "Ne. Stran prebere fotografije, ki jih izberete, neposredno v vašem brskalniku in jih prikaže na zaslonu. Ne pošljejo se nam ali komur koli drugemu in ob zaprtju ali ponovnem nalaganju strani izginejo."
+      },
+      {
+        "q": "Ali je časovnik ali točkovanje?",
+        "a": "Ne. Ure, točk, števca potez in izgubljanja ni. Ustavite se lahko kadar koli, ustavitev na pol poti pa je povsem dober konec."
+      },
+      {
+        "q": "Ali lahko igro shranim za naslednjič?",
+        "a": "V brskalniku ne, namenoma, da se nič zasebnega ne hrani. Brezplačna aplikacija Golden Moments za iPhone in iPad lahko hrani kopije izbranih fotografij v vaši napravi."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bingo s slikami",
+    "seoTitle": "Bingo s slikami za starejše z demenco: za tiskanje",
+    "h1": "Bingo s slikami za skupine",
+    "description": "Brezplačen bingo s slikami za tiskanje za skupine in starejše, z velikim klicateljem na zaslonu. Velike slike z besedami, 9 ali 16 polj, branje ni potrebno.",
+    "short": "Kartice bingo s slikami za tiskanje in klicatelj na velikem zaslonu za skupine.",
+    "players": "Skupina od 2 do 30",
+    "intro": "Klasični bingo s slikami namesto številk, tako da nihče ne rabi brati drobnega tiska. Natisnite komplet edinstvenih kartic, nato z klicateljem na zaslonu prikažite vsako sliko veliko na televizorju, prenosniku ali tablici.",
+    "howTo": [
+      "Izberite 9 ali 16 polj na kartici in število igralcev.",
+      "Tapnite „Natisni kartice“. Vsaka kartica je drugačna.",
+      "Odprite klicatelja na velikem zaslonu. Tapnite „Naslednja slika“, da prikažete vsako sliko z imenom.",
+      "Igralci s kovancem, gumbom ali markerjem pokrijejo ujemajočo se sliko na svoji kartici.",
+      "Vsak, ki zapolni vrstico ali celotno kartico, dobi vzklik odobravanja. V tej različici ni poražencev: igrajte, dokler vsi nimajo vrstice."
+    ],
+    "tips": [
+      "Uporabite velike žetone, na primer za damo ali zamaške. Majhne gumbe je lahko težko pobrati.",
+      "Poimenujte sliko in povejte kaj o njej: „Jadrnica. Kdo je že bil na čolnu?“",
+      "Ljudi, ki slabše vidijo, posedite najbližje zaslonu, pomočnike pa združite z igralci, ki jih potrebujejo.",
+      "Devet polj je za večino skupin povsem dovolj. Srečanje naj traja okoli 20 do 30 minut."
+    ],
+    "faq": [
+      {
+        "q": "Kako izvedem bingo s slikami v domu starejših?",
+        "a": "Natisnite eno kartico na igralca, klicatelja prikažite na največjem zaslonu, ki ga imate, in slike kličite počasi, vsako poimenujte. Igrajte, dokler vsi nimajo vrstice, da nihče ne ostane zunaj."
+      },
+      {
+        "q": "Je tiskanje brezplačno?",
+        "a": "Da. Natisnite toliko kartic, kolikor jih potrebujete, tako pogosto, kot želite, za osebno ali skupinsko uporabo."
+      },
+      {
+        "q": "Ali lahko ljudje igrajo, ne da bi brali?",
+        "a": "Da. Vsako polje je velika slika z imenom pod njo za tiste, ki imajo radi besede."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Mirno dihanje",
+    "seoTitle": "Premor za mirno dihanje za starejše in skrbnike",
+    "h1": "Premor za mirno dihanje",
+    "description": "Počasen, tih premor za dihanje, ki ga delite: nežen krog se šest vdihov veča in manjša. Vi ga začnete in lahko ga kadar koli ustavite.",
+    "short": "Počasen krog, ob katerem dihate. Začnite in ustavite, kadar želite.",
+    "players": "1 ali 2 osebi",
+    "intro": "Včasih je najboljša dejavnost tih premor. Tapnite „Začni“, nato vdihnite, ko se krog veča, in izdihnite, ko se manjša. Izberite počasnejši ali hitrejši tempo. Ni zdravljenje, le miren trenutek za skupno doživljanje.",
+    "howTo": [
+      "Udobno sedite drug ob drugem.",
+      "Izberite tempo: počasen ali nežen.",
+      "Tapnite „Začni“. Vdihnite, medtem ko se krog veča, in izdihnite, medtem ko se manjša.",
+      "Po šestih vdihih se ustavi samo ali pa tapnite „Ustavi“, kadar želite."
+    ],
+    "tips": [
+      "Primite se za roke ali položite roko na roko osebe, če je to dobrodošlo.",
+      "Nikoli ne vztrajajte. Če raje samo gleda, je to v redu.",
+      "Če ima kdo težave z dihanjem, naj diha običajno in samo gleda krog. Ob kakršnih koli skrbeh glede dihanja vprašajte zdravnika."
+    ],
+    "faq": [
+      {
+        "q": "Je to zdravstvena vaja dihanja?",
+        "a": "Ne. Je preprost, neobvezen premor za mir in družbo. Ni zdravljenje tesnobe ali katerega koli stanja. O zdravstvenih skrbeh se pogovorite z zdravnikom."
+      },
+      {
+        "q": "Ali se krog premika, ne da bi ga začel jaz?",
+        "a": "Ne. Nič se ne premika, dokler ne tapnete Začni, in ustavi se po šestih vdihih ali ko tapnete Ustavi. Če je vaša naprava nastavljena na zmanjšano gibanje, se besede spremenijo, ne da bi se krog večal."
+      },
+      {
+        "q": "Je brezplačno in se moram prijaviti?",
+        "a": "Da, brezplačno je in računa, prijave ali prenosa ni. Deluje v spletnem brskalniku na telefonu, tablici ali računalniku."
+      }
+    ]
+  }
+}

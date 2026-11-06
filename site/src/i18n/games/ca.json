@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Parelles d’imatges",
+    "seoTitle": "Joc de parelles per a la demència: Parelles d’imatges",
+    "h1": "Parelles d’imatges: un joc suau de parelles",
+    "description": "Un joc de parelles suau i gratuït per a persones que viuen amb demència. Imatges grans a la vista, sense cronòmetre ni puntuació, de 4 a 12 fitxes.",
+    "short": "Trobi les dues imatges iguals. Les imatges poden quedar a la vista.",
+    "players": "1 o 2 persones, una al costat de l’altra",
+    "intro": "Toqui una imatge i després la que li fa parella. Les imatges es queden a la vista per defecte, així que no cal recordar res. Quan dues imatges fan parella, reben una vora daurada i un signe de verificació.",
+    "howTo": [
+      "Triï quantes fitxes vol fer servir. Quatre fitxes són un bon començament tranquil.",
+      "Toqui qualsevol imatge. Rebrà una vora daurada.",
+      "Toqui la imatge que sembla igual. La parella es queda junta amb un signe de verificació.",
+      "Si les dues imatges són diferents, no passa res dolent. Torni a tocar quan vulgui.",
+      "Activi «Imatges amagades» només si als dos us agrada la versió clàssica amb les fitxes cap per avall."
+    ],
+    "tips": [
+      "Diguin els noms de les imatges en veu alta plegats i parlin-ne: «Una tassa vermella. Vostè pren llet amb el te?»",
+      "Deixi que la persona a qui cuida toqui ella mateixa, encara que trigui una mica. Assenyali en lloc de tocar per ella.",
+      "Es quedi amb quatre fitxes tant de temps com li sembli bé. Més fitxes són una opció, mai un nivell que s’hagi d’assolir.",
+      "Acabi mentre encara és agradable. Un joc ja és una activitat completa."
+    ],
+    "faq": [
+      {
+        "q": "Hi ha cronòmetre o puntuació?",
+        "a": "No. No hi ha rellotge, puntuació, comptador de moviments ni derrota. Pot parar en qualsevol moment, i parar a mitges és una manera perfectament bona d’acabar."
+      },
+      {
+        "q": "Per què les imatges es queden cap amunt?",
+        "a": "Mantenir les imatges visibles converteix el joc en mirar i fer parelles, no en recordar. Moltes persones el troben més tranquil. Pot canviar a imatges amagades amb un sol toc si ho prefereix."
+      },
+      {
+        "q": "És gratuït? Cal registrar-se?",
+        "a": "Sí, és gratuït i no hi ha compte, registre ni descàrrega. Funciona al navegador d’un mòbil, una tauleta o un ordinador."
+      },
+      {
+        "q": "Podem fer servir les nostres fotos de família?",
+        "a": "Sí. Provi les Parelles de fotos, que li permeten triar fotos del seu dispositiu. Les fotos es queden al seu navegador i no es pugen enlloc."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Trobar la mateixa",
+    "seoTitle": "Trobar la mateixa imatge: joc senzill per a la demència",
+    "h1": "Trobar la mateixa imatge",
+    "description": "Una imatge a dalt, de dues a quatre a baix. Toqui la que és igual. Un joc d’imatges tranquil i gratuït per a persones que viuen amb demència, sense cronòmetre.",
+    "short": "Miri la imatge de dalt i toqui la mateixa de baix.",
+    "players": "1 o 2 persones",
+    "intro": "Una sola imatge és a la part de dalt de la pantalla. A sota hi ha dues, tres o quatre imatges. Toqui la que és igual. És una sola tria senzilla cada vegada, amb molt d’espai per parlar.",
+    "howTo": [
+      "Triï entre dues, tres o quatre imatges per escollir. Dues és el més senzill.",
+      "Mirin plegats la imatge de dalt.",
+      "Toqui la mateixa imatge de baix. Es marca amb una verificació i unes paraules càlides.",
+      "Si es toca una imatge diferent, el joc simplement la nomena i espera. Es pot prendre el seu temps.",
+      "Toqui «Imatge següent» quan vulgui una altra."
+    ],
+    "tips": [
+      "Parlin de cada imatge abans de triar: colors, formes, on la podrien veure.",
+      "Dues opcions no són «massa fàcil». L’objectiu és un moment agradable, no un repte.",
+      "Si tocar costa, la persona pot assenyalar i vostè pot tocar per ella."
+    ],
+    "faq": [
+      {
+        "q": "Hi ha cronòmetre o puntuació?",
+        "a": "No. No hi ha rellotge, puntuació, comptador de moviments ni derrota. Pot parar en qualsevol moment, i parar a mitges és una manera perfectament bona d’acabar."
+      },
+      {
+        "q": "Què passa si es toca una imatge que no és?",
+        "a": "Res desagradable. No hi ha brunzit, creu vermella ni sacsejada. El joc nomena la imatge que s’ha tocat i espera el toc següent."
+      },
+      {
+        "q": "És gratuït? Cal registrar-se?",
+        "a": "Sí, és gratuït i no hi ha compte, registre ni descàrrega. Funciona al navegador d’un mòbil, una tauleta o un ordinador."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Parelles d’ombres",
+    "seoTitle": "Joc d’ombres per a la demència: gratuït en línia",
+    "h1": "Parelles d’ombres: un joc d’imatges suau",
+    "description": "Una ombra fosca a dalt, de dues a quatre imatges a baix. Toqui la imatge que fa l’ombra. Un joc d’ombres tranquil i gratuït per a la demència, sense cronòmetre.",
+    "short": "Miri l’ombra i toqui la imatge que la fa.",
+    "players": "1 o 2 persones",
+    "intro": "Fer parelles d’ombres és una activitat coneguda dels fulls impresos, aquí amb imatges grans i res per imprimir. Una ombra suau és a la part de dalt de la pantalla i dues, tres o quatre imatges esperen a baix. Toqui la que fa l’ombra. Formes com una bicicleta, un paraigua o una tassa de te també són fàcils de comentar.",
+    "howTo": [
+      "Triï entre dues, tres o quatre imatges per escollir. Dues és el més senzill.",
+      "Mirin plegats l’ombra. Quina forma té? És alta o rodona?",
+      "Toqui la imatge que fa l’ombra. El seu nom apareix sota l’ombra.",
+      "Si es toca una imatge diferent, el joc simplement la nomena i espera. Es pot prendre el seu temps.",
+      "Toqui «Ombra següent» quan vulgui una altra."
+    ],
+    "tips": [
+      "Recorri el contorn de l’ombra amb un dit i parlin de la forma.",
+      "Si avui les ombres costen, canviï a «Trobar la mateixa», on les imatges s’assemblen.",
+      "Parlin de la imatge quan la trobin: «Teníem un paraigua com aquest.»"
+    ],
+    "faq": [
+      {
+        "q": "Hi ha cronòmetre o puntuació?",
+        "a": "No. No hi ha rellotge, puntuació, comptador de moviments ni derrota. Pot parar en qualsevol moment, i parar a mitges és una manera perfectament bona d’acabar."
+      },
+      {
+        "q": "Les parelles d’ombres són bones per a persones amb demència?",
+        "a": "Poden ser una activitat agradable i senzilla per a algunes persones, sobretot en les primeres fases. Les formes són més fàcils de reconèixer que les paraules. És per gaudir i conversar, no una prova, i no tracta ni frena la demència. Si provoca frustració, provi «Trobar la mateixa» o simplement mirin imatges plegats."
+      },
+      {
+        "q": "Què passa si es toca una imatge que no és?",
+        "a": "Res desagradable. No hi ha brunzit, creu vermella ni sacsejada. El joc nomena la imatge que s’ha tocat i espera el toc següent."
+      },
+      {
+        "q": "És gratuït? Cal registrar-se?",
+        "a": "Sí, és gratuït i no hi ha compte, registre ni descàrrega. Funciona al navegador d’un mòbil, una tauleta o un ordinador."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Classificar plegats",
+    "seoTitle": "Joc de classificar per a la demència: classificar plegats",
+    "h1": "Classificar plegats: una activitat de classificar imatges",
+    "description": "Toqui una imatge i després la cistella on va: cuina o jardí, fruita o animals. Una activitat de classificar tranquil·la i gratuïta per a persones que viuen amb demència.",
+    "short": "Posi cada imatge a la seva cistella: cuina o jardí, i més.",
+    "players": "1 o 2 persones",
+    "intro": "Classificar és una tasca quotidiana coneguda i satisfactòria, com guardar la compra o aparellar mitjons. Toqui una imatge i després la cistella on va. No hi ha pressa ni cap pas en fals.",
+    "howTo": [
+      "Triï un tema: cuina i jardí, fruita i animals, o casa i viatges.",
+      "Toqui una imatge. Rebrà una vora daurada.",
+      "Toqui la cistella on va. La imatge passa a aquella cistella.",
+      "Si va a l’altra cistella, el joc ho diu amb suavitat i espera.",
+      "Quan totes les imatges estiguin classificades, repassin les cistelles plegats."
+    ],
+    "tips": [
+      "A la vida real sovint no hi ha respostes equivocades. Si algú diu que una regadora va a la cuina, pregunti per què. Potser rep una bona història.",
+      "Faci servir les imatges com a punt de partida: «Què cultivava al seu jardí?»",
+      "Classificar objectes reals, com cullerots i forquilles o botons per colors, és un bon complement fora de la pantalla."
+    ],
+    "faq": [
+      {
+        "q": "Hi ha cronòmetre o puntuació?",
+        "a": "No. No hi ha rellotge, puntuació, comptador de moviments ni derrota. Pot parar en qualsevol moment, i parar a mitges és una manera perfectament bona d’acabar."
+      },
+      {
+        "q": "Per què classificar?",
+        "a": "A moltes persones els agrada classificar perquè se sent com una feina útil i coneguda. També és fàcil parlar de les imatges mentre es fa."
+      },
+      {
+        "q": "És gratuït? Cal registrar-se?",
+        "a": "Sí, és gratuït i no hi ha compte, registre ni descàrrega. Funciona al navegador d’un mòbil, una tauleta o un ordinador."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Trencaclosques d’imatges",
+    "seoTitle": "Trencaclosques fàcil per a la demència: 4 o 9 peces",
+    "h1": "Trencaclosques d’imatges: un trencaclosques fàcil",
+    "description": "Un trencaclosques fàcil en línia per a persones que viuen amb demència: 4 o 9 peces grans, imatge sencera a la vista i es toquen dues peces per canviar-les.",
+    "short": "Toqui dues peces per intercanviar-les fins que la imatge estigui sencera.",
+    "players": "1 o 2 persones",
+    "intro": "Una imatge amable es talla en quatre o nou peces grans i es barreja. La imatge sencera es queda a la vista com a guia. Toqui una peça i després una altra, i canvien de lloc. No cal arrossegar.",
+    "howTo": [
+      "Triï una imatge i 4 o 9 peces. Quatre és un començament suau.",
+      "Miri la imatge sencera de dalt.",
+      "Toqui una peça i després el lloc on ha d’anar. Les dues peces s’intercanvien.",
+      "Les peces que són al lloc correcte reben un petit signe de verificació.",
+      "Quan la imatge estigui sencera, gaudeixin-ne plegats i després triïn’n una altra."
+    ],
+    "tips": [
+      "Tocar dues peces per intercanviar-les és molt més fàcil que arrossegar per a moltes persones.",
+      "Parlin de la imatge mentre es va formant: «Aquí hi ha el teulat vermell.»",
+      "Un trencaclosques de fusta de veritat amb 12 a 24 peces grans també és una activitat preciosa per a la taula."
+    ],
+    "faq": [
+      {
+        "q": "Hi ha cronòmetre o puntuació?",
+        "a": "No. No hi ha rellotge, puntuació, comptador de moviments ni derrota. Pot parar en qualsevol moment, i parar a mitges és una manera perfectament bona d’acabar."
+      },
+      {
+        "q": "Cal arrossegar les peces?",
+        "a": "No. Toqui una peça i després una altra, i canvien de lloc. Això és més fàcil amb una mà tremolosa o en una pantalla petita."
+      },
+      {
+        "q": "És gratuït? Cal registrar-se?",
+        "a": "Sí, és gratuït i no hi ha compte, registre ni descàrrega. Funciona al navegador d’un mòbil, una tauleta o un ordinador."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Acabar el refrany",
+    "seoTitle": "Acabar el refrany: joc de refranys per a persones grans",
+    "h1": "Acabar el refrany",
+    "description": "Refranys coneguts amb l’última paraula que falta, com «De mica en mica s’omple la ___». Toqui una opció o mostri el final, i després en parlin.",
+    "short": "Completin plegats refranys coneguts i després parlin-ne.",
+    "players": "1, 2 o un grup",
+    "intro": "Els refranys antics sovint es coneixen tota la vida. Cada targeta mostra un refrany conegut amb l’última paraula que falta, tres opcions i un botó «Mostrar el final». Després del final, una pregunta suau convida a conversar.",
+    "howTo": [
+      "Llegeixin el refrany en veu alta plegats.",
+      "Toqui la paraula que l’acaba, o toqui «Mostrar el final».",
+      "Tornin a llegir el refrany sencer i parlin-ne amb la pregunta.",
+      "Toqui «Refrany següent» quan vulgui."
+    ],
+    "tips": [
+      "Llegeixi a poc a poc i faci una pausa abans de l’última paraula. Sovint la gent la diu abans que vostè acabi.",
+      "Si algú dona un final diferent, en gaudeixi. Algunes versions dels refranys varien segons la família o la comarca.",
+      "En un grup, una persona llegeix i tothom s’afegeix al final."
+    ],
+    "faq": [
+      {
+        "q": "Hi ha cronòmetre o puntuació?",
+        "a": "No. No hi ha rellotge, puntuació, comptador de moviments ni derrota. Pot parar en qualsevol moment, i parar a mitges és una manera perfectament bona d’acabar."
+      },
+      {
+        "q": "Què passa si triem una altra paraula?",
+        "a": "El joc mostra el final habitual i passa a la conversa. No hi ha puntuació, i una resposta diferent està bé."
+      },
+      {
+        "q": "És gratuït? Cal registrar-se?",
+        "a": "Sí, és gratuït i no hi ha compte, registre ni descàrrega. Funciona al navegador d’un mòbil, una tauleta o un ordinador."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Sopa de lletres en lletra gran",
+    "seoTitle": "Sopa de lletres en lletra gran per a la demència, per imprimir",
+    "h1": "Sopa de lletres en lletra gran",
+    "description": "Una sopa de lletres gratuïta en lletra gran per a persones grans i amb demència. Poques paraules, lletres grans. Jugui en línia o imprimeixi.",
+    "short": "Lletres grans, unes poques paraules, només en horitzontal i en vertical. També per imprimir.",
+    "players": "1 o 2 persones",
+    "intro": "Una quadrícula petita amb lletres grans i només unes quantes paraules, totes en horitzontal o en vertical. Toqui la primera lletra d’una paraula i després l’última. Prefereix el paper? Imprimeixi una sopa nova amb un toc.",
+    "howTo": [
+      "Triï un tema i una mida de quadrícula.",
+      "Miri la llista de paraules. Les paraules es llegeixen en horitzontal (d’esquerra a dreta) o en vertical (de dalt a baix).",
+      "Toqui la primera lletra d’una paraula i després l’última.",
+      "Una paraula trobada es ressalta i es ratlla de la llista.",
+      "Toqui «Imprimir aquesta sopa» per jugar en paper amb un llapis o un retolador."
+    ],
+    "tips": [
+      "Assenyali una paraula de la llista i busquin plegats la seva primera lletra.",
+      "En paper, un marcador és més fàcil d’agafar que un llapis.",
+      "Parlin de les paraules del tema. Les paraules de fruita són una manera natural d’arribar a records de collir, de coure o de mercats."
+    ],
+    "faq": [
+      {
+        "q": "Hi ha cronòmetre o puntuació?",
+        "a": "No. No hi ha rellotge, puntuació, comptador de moviments ni derrota. Pot parar en qualsevol moment, i parar a mitges és una manera perfectament bona d’acabar."
+      },
+      {
+        "q": "Puc imprimir la sopa de lletres?",
+        "a": "Sí. Toqui «Imprimir aquesta sopa» per imprimir la quadrícula actual en lletra gran, amb la llista de paraules a sota. Cada sopa nova és diferent."
+      },
+      {
+        "q": "És gratuït? Cal registrar-se?",
+        "a": "Sí, és gratuït i no hi ha compte, registre ni descàrrega. Funciona al navegador d’un mòbil, una tauleta o un ordinador."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Pàgines per pintar",
+    "seoTitle": "Pàgines per pintar per a adults amb demència (gratuïtes)",
+    "h1": "Pàgines per pintar",
+    "description": "Pàgines per pintar senzilles i adultes amb àrees grans: toqui un color i després la imatge. Sense colors equivocats, i es poden imprimir gratuïtament.",
+    "short": "Toqui un color i després una part de la imatge. També es poden imprimir.",
+    "players": "1 o 2 persones",
+    "intro": "Pàgines amb formes grans i senzilles: una flor en un test, una casa, una tassa de te, una papallona i un veler. Toqui un color i després una part de la imatge per omplir-la. No hi ha colors equivocats.",
+    "howTo": [
+      "Triï una pàgina.",
+      "Toqui un color. Cada color té el seu nom escrit.",
+      "Toqui una part de la imatge per omplir-la amb aquell color.",
+      "Pot canviar d’idea quan vulgui tornant-la a omplir.",
+      "Toqui «Imprimir aquesta pàgina» per tenir una pàgina en blanc per pintar amb llapis o retoladors."
+    ],
+    "tips": [
+      "Ofereixi dos colors per triar en lloc de tota la caixa si triar sembla massa.",
+      "Els arbres liles i els sols blaus són benvinguts. Es tracta de gaudir del color, no de ser exactes.",
+      "Les pàgines impreses van bé amb retoladors gruixuts o ceres, que són més fàcils d’agafar."
+    ],
+    "faq": [
+      {
+        "q": "Hi ha cronòmetre o puntuació?",
+        "a": "No. No hi ha rellotge, puntuació, comptador de moviments ni derrota. Pot parar en qualsevol moment, i parar a mitges és una manera perfectament bona d’acabar."
+      },
+      {
+        "q": "Aquestes pàgines són massa infantils?",
+        "a": "Hem dibuixat objectes tranquils i senzills en lloc de dibuixos animats, així que les pàgines són adequades per a adults. Les formes grans mantenen fàcil el pintar sense fer-ho infantil."
+      },
+      {
+        "q": "És gratuït? Cal registrar-se?",
+        "a": "Sí, és gratuït i no hi ha compte, registre ni descàrrega. Funciona al navegador d’un mòbil, una tauleta o un ordinador."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Targetes de conversa",
+    "seoTitle": "Temes de conversa per a la demència: targetes amb imatges",
+    "h1": "Targetes de conversa",
+    "description": "Targetes amb imatges i temes de conversa suaus per a persones que viuen amb demència: sense interrogar ni respostes correctes. També per imprimir.",
+    "short": "Targetes amb imatges i preguntes obertes i suaus. Sense interrogar.",
+    "players": "2 persones o un grup",
+    "intro": "Cada targeta uneix una imatge coneguda amb una invitació oberta a parlar, com «Quin és el seu temps preferit?» No hi ha respostes correctes ni res per recordar. Triï un tema o barregi-les totes.",
+    "howTo": [
+      "Triï un tema, o es quedi amb «Totes les targetes».",
+      "Llegeixi la pregunta en veu alta i mirin plegats la imatge.",
+      "Escolti, comparteixi la seva pròpia resposta i deixi que la conversa vagi on vulgui.",
+      "Toqui «Targeta següent» quan vulgui, o es quedi amb una targeta tant de temps com li agradi.",
+      "Toqui «Imprimir totes les targetes» per retallar un joc en paper."
+    ],
+    "tips": [
+      "Respongui també vostè a la pregunta. Se sent com una conversa, no com una entrevista.",
+      "Segueixi la història, no els fets. Si els detalls canvien, no passa res.",
+      "Si una targeta toca alguna cosa trista, reconegui el sentiment i passi amb suavitat a una altra targeta."
+    ],
+    "faq": [
+      {
+        "q": "Per què no hi ha preguntes del tipus «Se’n recorda de…?»",
+        "a": "Les preguntes que posen a prova la memòria poden semblar un examen i causar vergonya. Les invitacions obertes com «Parli’m de…» permeten que qualsevol persona hi participi, sigui el que sigui el que recordi."
+      },
+      {
+        "q": "Puc imprimir les targetes?",
+        "a": "Sí. «Imprimir totes les targetes» imprimeix el joc complet en lletra gran, amb diverses targetes per pàgina, a punt per retallar."
+      },
+      {
+        "q": "És gratuït? Cal registrar-se?",
+        "a": "Sí, és gratuït i no hi ha compte, registre ni descàrrega. Funciona al navegador d’un mòbil, una tauleta o un ordinador."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Parelles de fotos",
+    "seoTitle": "Fer un joc de parelles amb fotos de família",
+    "h1": "Parelles de fotos: faci parelles amb les seves fotos",
+    "description": "Converteixi les seves fotos de família en un joc de parelles suau. Triï de 2 a 6 fotos del seu dispositiu; es queden al seu navegador i no es pugen mai.",
+    "short": "Triï les seves fotos i faci parelles. No es puja res.",
+    "players": "2 persones, una al costat de l’altra",
+    "intro": "Triï de dues a sis fotos del seu mòbil, tauleta o ordinador, i es converteixen en un joc de parelles amb imatges grans i visibles. Les fotos només es mostren dins d’aquesta pàgina. No es pugen, no es desen ni es comparteixen, i desapareixen quan tanca la pàgina.",
+    "howTo": [
+      "Toqui «Triar fotos» i esculli de dues a sis fotos.",
+      "Cada foto apareix dues vegades. Toqui’n una i després la seva parella.",
+      "Parlin de cada foto quan la trobin.",
+      "Quan hagin acabat, tanqui la pàgina o toqui «Esborrar fotos». No es conserva res."
+    ],
+    "tips": [
+      "Triï fotos clares de coses felices i conegudes: una mascota, un jardí, un lloc preferit, el dia d’un casament.",
+      "Les imatges de llocs i objectes poden ser més fàcils que les cares, i eviten la pressió de dir el nom de les persones.",
+      "Deixi fora les fotos de persones que han mort si poden provocar un dolor sobtat, tret que sàpiga que donen consol."
+    ],
+    "faq": [
+      {
+        "q": "Es pugen les meves fotos enlloc?",
+        "a": "No. La pàgina llegeix les fotos que tria directament al seu navegador i les mostra a la pantalla. No s’envien a nosaltres ni a ningú més, i desapareixen quan tanca o recarrega la pàgina."
+      },
+      {
+        "q": "Hi ha cronòmetre o puntuació?",
+        "a": "No. No hi ha rellotge, puntuació, comptador de moviments ni derrota. Pot parar en qualsevol moment, i parar a mitges és una manera perfectament bona d’acabar."
+      },
+      {
+        "q": "Puc desar el joc per a la propera vegada?",
+        "a": "Al navegador no, expressament, perquè no es guardi res de privat. L’aplicació gratuïta Golden Moments per a iPhone i iPad pot conservar al seu dispositiu còpies de les fotos seleccionades."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Bingo d’imatges",
+    "seoTitle": "Bingo d’imatges per a persones grans amb demència: per imprimir",
+    "h1": "Bingo d’imatges per a grups",
+    "description": "Bingo d’imatges gratuït per imprimir, per a unitats de memòria i grups de gent gran, amb cantador gran a la pantalla. 9 o 16 caselles, sense llegir.",
+    "short": "Cartrons de bingo d’imatges per imprimir i un cantador de pantalla gran per a grups.",
+    "players": "Un grup de 2 a 30",
+    "intro": "El bingo de tota la vida amb imatges en lloc de números, de manera que ningú no ha de llegir lletra petita. Imprimeixi un joc de cartrons diferents i després faci servir el cantador a la pantalla per mostrar cada imatge en gran en un televisor, un portàtil o una tauleta.",
+    "howTo": [
+      "Triï 9 o 16 caselles per cartró i quantes persones juguen.",
+      "Toqui «Imprimir cartrons». Cada cartró és diferent.",
+      "Obri el cantador en una pantalla gran. Toqui «Imatge següent» per mostrar cada imatge amb el seu nom.",
+      "Les persones que juguen tapen la imatge corresponent del seu cartró amb una moneda, un botó o un retolador.",
+      "Tothom que ompli una fila, o el cartró sencer, rep una felicitació. En aquesta versió no hi ha perdedors: continuïn jugant fins que tothom tingui una línia."
+    ],
+    "tips": [
+      "Faci servir fitxes grans, com peces de dames o taps d’ampolla. Els botons petits poden costar d’agafar.",
+      "Digui el nom de la imatge i comenti alguna cosa: «Un veler. Qui ha navegat alguna vegada?»",
+      "Posi les persones que hi veuen amb dificultat més a prop de la pantalla, i faci seure els ajudants amb qui els necessiti.",
+      "Nou caselles són suficients per a la majoria de grups. Mantingui la sessió entre 20 i 30 minuts."
+    ],
+    "faq": [
+      {
+        "q": "Com organitzo un bingo d’imatges en una residència?",
+        "a": "Imprimeixi un cartró per persona, posi el cantador a la pantalla més gran que tingui i canti les imatges a poc a poc, dient el nom de cadascuna. Juguin fins que tothom tingui una línia, perquè ningú no es quedi fora."
+      },
+      {
+        "q": "És gratuït d’imprimir?",
+        "a": "Sí. Imprimeixi tants cartrons com necessiti, tan sovint com vulgui, per a ús personal o de grup."
+      },
+      {
+        "q": "Es pot jugar sense llegir?",
+        "a": "Sí. Cada casella és una imatge gran, amb el seu nom a sota per a qui li agradin les paraules."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Respiració tranquil·la",
+    "seoTitle": "Una pausa de respiració tranquil·la per a persones grans i cuidadores",
+    "h1": "Una pausa de respiració tranquil·la",
+    "description": "Una pausa de respiració lenta i tranquil·la per compartir: un cercle suau creix i es fa petit durant sis respiracions. Pot parar quan vulgui.",
+    "short": "Un cercle lent per respirar-hi al ritme. Comenci i pari quan vulgui.",
+    "players": "1 o 2 persones",
+    "intro": "De vegades la millor activitat és una pausa tranquil·la. Toqui «Començar», i inspiri mentre el cercle creix i expiri mentre es fa petit. Triï un ritme més lent o més àgil. No és un tractament, només un moment de pau per compartir.",
+    "howTo": [
+      "Seguin còmodament un al costat de l’altre.",
+      "Triï un ritme: lent o suau.",
+      "Toqui «Començar». Inspiri mentre el cercle creix i expiri mentre es fa petit.",
+      "S’atura sol després de sis respiracions, o toqui «Parar» quan vulgui."
+    ],
+    "tips": [
+      "Doni’s la mà o posi una mà al braç de la persona si li ve bé.",
+      "No insisteixi mai. Si prefereix mirar, no passa res.",
+      "Si algú té problemes respiratoris, que respiri amb normalitat i simplement miri el cercle. Pregunti a un metge per qualsevol preocupació respiratòria."
+    ],
+    "faq": [
+      {
+        "q": "És un exercici de respiració mèdic?",
+        "a": "No. És una pausa senzilla i opcional per a la calma i la companyia. No és un tractament per a l’ansietat ni per a cap afecció. Parli amb un metge per a qualsevol preocupació de salut."
+      },
+      {
+        "q": "El cercle es mou sense que el comenci jo?",
+        "a": "No. Res es mou fins que toca Començar, i s’atura després de sis respiracions o quan toca Parar. Si el seu dispositiu està configurat per reduir el moviment, canvien les paraules sense que el cercle creixi."
+      },
+      {
+        "q": "És gratuït? Cal registrar-se?",
+        "a": "Sí, és gratuït i no hi ha compte, registre ni descàrrega. Funciona al navegador d’un mòbil, una tauleta o un ordinador."
+      }
+    ]
+  }
+}

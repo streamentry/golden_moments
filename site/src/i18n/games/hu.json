@@ -1,0 +1,429 @@
+{
+  "picture-pairs": {
+    "name": "Képpárok",
+    "seoTitle": "Párosító játék demenciával élőknek: Képpárok",
+    "h1": "Képpárok: nyugodt párosító játék",
+    "description": "Ingyenes, nyugodt párosító játék demenciával élő embereknek. A nagy képek látszanak, nincs időzítő és pontszám, és 4–12 kártyát választhat.",
+    "short": "Keresse meg a két egyforma képet. A képek látszhatnak végig.",
+    "players": "1 vagy 2 ember, egymás mellett",
+    "intro": "Érintsen meg egy képet, majd azt, amelyik illik hozzá. A képek alapból látszanak, így semmit sem kell megjegyezni. Ha két kép összetartozik, arany keretet és pipát kapnak.",
+    "howTo": [
+      "Válassza ki, hány kártyával játsszanak. Négy kártya nyugodt kezdés.",
+      "Érintsen meg egy tetszőleges képet. Arany keretet kap.",
+      "Érintse meg az egyformának tűnő képet. A pár együtt marad, pipával.",
+      "Ha a két kép különbözik, nem történik semmi rossz. Érintsen újra, amikor kedve tartja.",
+      "A „Rejtett képek” beállítást csak akkor kapcsolja be, ha mindketten szeretik a hagyományos, lefordított változatot."
+    ],
+    "tips": [
+      "Nevezzék meg együtt hangosan a képeket, és beszélgessenek róluk: „Egy piros teáscsésze. Tejjel issza a teát?”",
+      "Hagyja, hogy a gondozott ember érintsen, még ha sokáig tart is. Inkább mutasson rá, mintsem helyette érintsen.",
+      "Maradjanak négy kártyánál, amíg jólesik. A több kártya választási lehetőség, nem elérendő szint.",
+      "Hagyják abba, amíg még kellemes. Egy játék már teljes tevékenység."
+    ],
+    "faq": [
+      {
+        "q": "Van időzítő vagy pontszám?",
+        "a": "Nem. Nincs óra, pontszám, lépésszámláló vagy vesztés. Bármikor abbahagyhatják, és a félbehagyás is teljesen jó befejezés."
+      },
+      {
+        "q": "Miért maradnak a képek felfordítva?",
+        "a": "Ha a képek látszanak, a játék nézésről és párosításról szól, nem emlékezésről. Sokan nyugodtabbnak érzik. Ha inkább szeretné, egy érintéssel átkapcsolhat rejtett képekre."
+      },
+      {
+        "q": "Ingyenes, és regisztrálni kell?",
+        "a": "Igen, ingyenes, és nincs fiók, regisztráció vagy letöltés. A böngészőben működik telefonon, táblagépen vagy számítógépen."
+      },
+      {
+        "q": "Használhatjuk a saját családi fotóinkat?",
+        "a": "Igen. Próbálja ki a Fotópárok játékot, amelyben az eszközén lévő fotókat választhatja. A fotók a böngészőben maradnak, és nem kerülnek feltöltésre."
+      }
+    ]
+  },
+  "find-the-same": {
+    "name": "Keresse az egyformát",
+    "seoTitle": "Keresse az egyforma képet: egyszerű játék demenciával élőknek",
+    "h1": "Keresse az egyforma képet",
+    "description": "Egy kép fent, két–négy lent. Érintse meg az egyformát. Nyugodt, ingyenes képes játék demenciával élő embereknek, időzítő nélkül.",
+    "short": "Nézze meg a felső képet, és érintse meg az egyformát alul.",
+    "players": "1 vagy 2 ember",
+    "intro": "A képernyő tetején egyetlen kép áll. Alatta két, három vagy négy kép látszik. Érintse meg az egyformát. Egyszerre egy egyszerű választás, bőven hagyva időt a beszélgetésre.",
+    "howTo": [
+      "Válasszon két, három vagy négy képet, amelyek közül választani lehet. A kettő a legegyszerűbb.",
+      "Nézzék meg együtt a felső képet.",
+      "Érintse meg az egyforma képet alul. Pipa és néhány meleg szó jelzi.",
+      "Ha másik képet érintenek meg, a játék egyszerűen megnevezi, és vár. Ráérnek.",
+      "Érintse meg a „Következő kép” gombot, ha készen állnak egy másikra."
+    ],
+    "tips": [
+      "Választás előtt beszéljenek minden képről: színekről, formákról, arról, hol láthatnák.",
+      "A két lehetőség nem „túl könnyű”. A cél egy kellemes pillanat, nem kihívás.",
+      "Ha az érintés nehéz, a másik ember rámutathat, Ön pedig érinthet helyette."
+    ],
+    "faq": [
+      {
+        "q": "Van időzítő vagy pontszám?",
+        "a": "Nem. Nincs óra, pontszám, lépésszámláló vagy vesztés. Bármikor abbahagyhatják, és a félbehagyás is teljesen jó befejezés."
+      },
+      {
+        "q": "Mi történik, ha a rossz képet érintik meg?",
+        "a": "Semmi kellemetlen. Nincs búgás, piros kereszt vagy rázkódás. A játék megnevezi az érintett képet, és vár a következő érintésre."
+      },
+      {
+        "q": "Ingyenes, és regisztrálni kell?",
+        "a": "Igen, ingyenes, és nincs fiók, regisztráció vagy letöltés. A böngészőben működik telefonon, táblagépen vagy számítógépen."
+      }
+    ]
+  },
+  "shadow-match": {
+    "name": "Árnyékpárosítás",
+    "seoTitle": "Árnyékpárosító játék demenciával élőknek: ingyen online",
+    "h1": "Árnyékpárosítás: nyugodt képes játék",
+    "description": "Egy sötét árnyék fent, két–négy kép lent. Érintse meg azt a képet, amelyik az árnyékot veti. Ingyenes, nyugodt árnyékpárosító játék demenciával élőknek, időzítő nélkül.",
+    "short": "Nézze meg az árnyékot, és érintse meg a képet, amelyik veti.",
+    "players": "1 vagy 2 ember",
+    "intro": "Az árnyékpárosítás ismerős tevékenység a nyomtatott feladatlapokról, itt nagy képekkel, nyomtatás nélkül. A képernyő tetején egy halk árnyék áll, alatta két, három vagy négy kép vár. Érintse meg azt, amelyik az árnyékot veti. Az olyan formákról, mint a bicikli, az esernyő vagy a teáscsésze, könnyű beszélgetni is.",
+    "howTo": [
+      "Válasszon két, három vagy négy képet, amelyek közül választani lehet. A kettő a legegyszerűbb.",
+      "Nézzék meg együtt az árnyékot. Milyen alakja van? Magas vagy kerek?",
+      "Érintse meg azt a képet, amelyik az árnyékot veti. A neve megjelenik az árnyék alatt.",
+      "Ha másik képet érintenek meg, a játék egyszerűen megnevezi, és vár. Ráérnek.",
+      "Érintse meg a „Következő árnyék” gombot, ha készen állnak egy másikra."
+    ],
+    "tips": [
+      "Kövesse az ujjával az árnyék körvonalát, és beszéljenek az alakjáról.",
+      "Ha ma nehéznek tűnnek az árnyékok, váltsanak a Keresse az egyformát játékra, ahol a képek hasonlítanak egymásra.",
+      "Ha megtalálták a képet, beszéljenek róla: „Nekünk is volt ilyen esernyőnk.”"
+    ],
+    "faq": [
+      {
+        "q": "Van időzítő vagy pontszám?",
+        "a": "Nem. Nincs óra, pontszám, lépésszámláló vagy vesztés. Bármikor abbahagyhatják, és a félbehagyás is teljesen jó befejezés."
+      },
+      {
+        "q": "Jó az árnyékpárosítás demenciával élő embereknek?",
+        "a": "Egyeseknek kellemes, egyszerű tevékenység lehet, főleg a korábbi szakaszokban. Az alakzatokat könnyebb felismerni, mint a szavakat. Az élvezetre és a beszélgetésre való, nem teszt, és nem kezeli vagy lassítja a demenciát. Ha bosszúságot okoz, próbálják a Keresse az egyformát játékot, vagy egyszerűen nézzenek együtt képeket."
+      },
+      {
+        "q": "Mi történik, ha a rossz képet érintik meg?",
+        "a": "Semmi kellemetlen. Nincs búgás, piros kereszt vagy rázkódás. A játék megnevezi az érintett képet, és vár a következő érintésre."
+      },
+      {
+        "q": "Ingyenes, és regisztrálni kell?",
+        "a": "Igen, ingyenes, és nincs fiók, regisztráció vagy letöltés. A böngészőben működik telefonon, táblagépen vagy számítógépen."
+      }
+    ]
+  },
+  "sort-together": {
+    "name": "Közös válogatás",
+    "seoTitle": "Válogatójáték demenciával élőknek: közös válogatás",
+    "h1": "Közös válogatás: képes válogató tevékenység",
+    "description": "Érintsen meg egy képet, majd a kosarat, amelybe tartozik: konyha vagy kert, gyümölcs vagy állat. Nyugodt, ingyenes válogató tevékenység demenciával élő embereknek.",
+    "short": "Tegye minden képet a kosarába: konyha vagy kert, és más párok.",
+    "players": "1 vagy 2 ember",
+    "intro": "A válogatás ismerős, kielégítő hétköznapi feladat, mint a bevásárlás elpakolása vagy a zoknik párosítása. Érintsen meg egy képet, majd a kosarat, amelybe tartozik. Nincs sietség, és nincs rossz lépés.",
+    "howTo": [
+      "Válasszon témát: konyha és kert, gyümölcs és állatok, vagy otthon és utazás.",
+      "Érintsen meg egy képet. Arany keretet kap.",
+      "Érintse meg a kosarat, amelybe tartozik. A kép átkerül a kosárba.",
+      "Ha a másik kosárba tartozik, a játék finoman jelzi, és vár.",
+      "Ha minden kép a helyére került, nézzék át együtt a kosarakat."
+    ],
+    "tips": [
+      "A valós életben gyakran nincs rossz válasz. Ha valaki azt mondja, hogy az öntözőkanna a konyhába való, kérdezze meg, miért. Lehet, hogy jó történetet kap.",
+      "Használja a képeket beszélgetésindítónak: „Mit termesztett a kertjében?”",
+      "Igazi tárgyak válogatása, például kanalak és villák vagy színek szerinti gombok, remek folytatás a képernyőn kívül."
+    ],
+    "faq": [
+      {
+        "q": "Van időzítő vagy pontszám?",
+        "a": "Nem. Nincs óra, pontszám, lépésszámláló vagy vesztés. Bármikor abbahagyhatják, és a félbehagyás is teljesen jó befejezés."
+      },
+      {
+        "q": "Miért válogatás?",
+        "a": "Sokan szeretnek válogatni, mert hasznos, ismerős munkának érződik. Közben a képekről is könnyű beszélgetni."
+      },
+      {
+        "q": "Ingyenes, és regisztrálni kell?",
+        "a": "Igen, ingyenes, és nincs fiók, regisztráció vagy letöltés. A böngészőben működik telefonon, táblagépen vagy számítógépen."
+      }
+    ]
+  },
+  "picture-puzzle": {
+    "name": "Képkirakó",
+    "seoTitle": "Könnyű kirakó demenciával élőknek: 4 vagy 9 darab",
+    "h1": "Képkirakó: könnyű kirakó",
+    "description": "Könnyű online kirakó demenciával élő embereknek: 4 vagy 9 nagy darab, a teljes kép végig látszik, és két darab megérintésével cserélhetők.",
+    "short": "Érintsen meg két darabot a cseréhez, amíg a kép egész nem lesz.",
+    "players": "1 vagy 2 ember",
+    "intro": "Egy barátságos képet négy vagy kilenc nagy darabra vágunk, és összekeverünk. A teljes kép végig látszik útmutatóként. Érintsen meg egy darabot, majd egy másikat, és helyet cserélnek. Húzni nem kell.",
+    "howTo": [
+      "Válasszon egy képet és 4 vagy 9 darabot. A négy nyugodt kezdés.",
+      "Nézze meg a teljes képet fent.",
+      "Érintsen meg egy darabot, majd a helyet, ahová kerülnie kell. A két darab helyet cserél.",
+      "A jó helyen lévő darabok kis pipát kapnak.",
+      "Ha a kép egész, örüljenek neki együtt, aztán válasszanak másikat."
+    ],
+    "tips": [
+      "Sok embernek sokkal könnyebb két darab megérintésével cserélni, mint húzni.",
+      "Beszélgessenek a képről, ahogy összeáll: „Itt van a piros tető.”",
+      "Egy igazi fa kirakó 12–24 nagy darabbal is kedves asztali tevékenység."
+    ],
+    "faq": [
+      {
+        "q": "Van időzítő vagy pontszám?",
+        "a": "Nem. Nincs óra, pontszám, lépésszámláló vagy vesztés. Bármikor abbahagyhatják, és a félbehagyás is teljesen jó befejezés."
+      },
+      {
+        "q": "Húzni kell a darabokat?",
+        "a": "Nem. Érintsen meg egy darabot, majd egy másikat, és helyet cserélnek. Ez remegő kéz esetén vagy kis képernyőn könnyebb."
+      },
+      {
+        "q": "Ingyenes, és regisztrálni kell?",
+        "a": "Igen, ingyenes, és nincs fiók, regisztráció vagy letöltés. A böngészőben működik telefonon, táblagépen vagy számítógépen."
+      }
+    ]
+  },
+  "finish-the-saying": {
+    "name": "Fejezze be a mondást",
+    "seoTitle": "Fejezze be a mondást: közmondásjáték időseknek",
+    "h1": "Fejezze be a mondást",
+    "description": "Ismerős magyar közmondások az utolsó szó nélkül, például „Addig nyújtózkodj, amíg a takaród ___”. Válasszon, majd beszélgessenek róla.",
+    "short": "Fejezzenek be együtt ismerős mondásokat, aztán beszélgessenek róluk.",
+    "players": "1, 2 vagy egy csoport",
+    "intro": "A régi mondások gyakran egy életre ismertek. Minden kártyán egy ismerős mondás áll az utolsó szó nélkül, három lehetőséggel és egy „A befejezés mutatása” gombbal. A befejezés után egy finom kérdés beszélgetésre hív.",
+    "howTo": [
+      "Olvassák fel együtt hangosan a mondást.",
+      "Érintse meg a szót, amely befejezi, vagy a „A befejezés mutatása” gombot.",
+      "Olvassák fel újra az egész mondást, és beszélgessenek róla a kérdés segítségével.",
+      "Érintse meg a „Következő mondás” gombot, ha készen állnak."
+    ],
+    "tips": [
+      "Olvasson lassan, és tartson szünetet az utolsó szó előtt. Gyakran a másik ember kimondja, mielőtt Ön befejezné.",
+      "Ha valaki másik befejezést mond, örüljenek neki. A mondások egyes változatai családonként vagy vidékenként eltérnek.",
+      "Csoportban egy ember olvas, és mindenki bekapcsolódik a befejezésbe."
+    ],
+    "faq": [
+      {
+        "q": "Van időzítő vagy pontszám?",
+        "a": "Nem. Nincs óra, pontszám, lépésszámláló vagy vesztés. Bármikor abbahagyhatják, és a félbehagyás is teljesen jó befejezés."
+      },
+      {
+        "q": "Mi van, ha másik szót választunk?",
+        "a": "A játék megmutatja a szokásos befejezést, és a beszélgetéssel folytatódik. Nincs pontszám, és a más válasz is rendben van."
+      },
+      {
+        "q": "Ingyenes, és regisztrálni kell?",
+        "a": "Igen, ingyenes, és nincs fiók, regisztráció vagy letöltés. A böngészőben működik telefonon, táblagépen vagy számítógépen."
+      }
+    ]
+  },
+  "word-search": {
+    "name": "Nagybetűs szókereső",
+    "seoTitle": "Nagybetűs szókereső demenciával élőknek, nyomtatható",
+    "h1": "Nagybetűs szókereső",
+    "description": "Ingyenes, nagybetűs szókereső időseknek és demenciával élőknek. Kevés szó, nagy betűk, vízszintesen és függőlegesen. Online vagy nyomtatva.",
+    "short": "Nagy betűk, néhány szó, csak vízszintesen és függőlegesen. Ki is nyomtatható.",
+    "players": "1 vagy 2 ember",
+    "intro": "Egy kis rács nagy betűkkel és csak néhány szóval, mind vízszintesen vagy függőlegesen olvasható. Érintse meg egy szó első betűjét, majd az utolsót. Inkább papíron? Egy érintéssel nyomtathat új feladványt.",
+    "howTo": [
+      "Válasszon témát és rácsméretet.",
+      "Nézze meg a szólistát. A szavak vízszintesen (balról jobbra) vagy függőlegesen (fentről lefelé) olvashatók.",
+      "Érintse meg egy szó első betűjét, majd az utolsó betűjét.",
+      "A megtalált szó kiemelődik, és áthúzódik a listán.",
+      "Érintse meg a „Feladvány nyomtatása” gombot, ha papíron, ceruzával vagy filctollal játszanának."
+    ],
+    "tips": [
+      "Mutasson rá egy szóra a listán, és keressék együtt az első betűjét.",
+      "Papíron a szövegkiemelőt könnyebb fogni, mint a ceruzát.",
+      "Beszélgessenek a témához tartozó szavakról. A gyümölcsszavak természetes út a szüretről, sütésről vagy a piacról szóló emlékekhez."
+    ],
+    "faq": [
+      {
+        "q": "Van időzítő vagy pontszám?",
+        "a": "Nem. Nincs óra, pontszám, lépésszámláló vagy vesztés. Bármikor abbahagyhatják, és a félbehagyás is teljesen jó befejezés."
+      },
+      {
+        "q": "Kinyomtathatom a szókeresőt?",
+        "a": "Igen. Érintse meg a „Feladvány nyomtatása” gombot, hogy nagy betűkkel kinyomtassa az aktuális rácsot, alatta a szólistával. Minden új feladvány más."
+      },
+      {
+        "q": "Ingyenes, és regisztrálni kell?",
+        "a": "Igen, ingyenes, és nincs fiók, regisztráció vagy letöltés. A böngészőben működik telefonon, táblagépen vagy számítógépen."
+      }
+    ]
+  },
+  "coloring": {
+    "name": "Színezők",
+    "seoTitle": "Színezők demenciával élő felnőtteknek (ingyen)",
+    "h1": "Színezők",
+    "description": "Egyszerű, felnőtteknek való színezők nagy foltokkal: érintsen meg egy színt, majd a képet. Nincs maszatolás, nincs rossz szín, és minden oldal ingyen kinyomtatható.",
+    "short": "Érintsen meg egy színt, majd a kép egy részét. Az oldalak ki is nyomtathatók.",
+    "players": "1 vagy 2 ember",
+    "intro": "Nagy, egyszerű formájú oldalak: egy cserepes virág, egy ház, egy teáscsésze, egy pillangó és egy vitorlás. Érintsen meg egy színt, majd a kép egy részét a kitöltéshez. Nincsenek rossz színek.",
+    "howTo": [
+      "Válasszon egy oldalt.",
+      "Érintsen meg egy színt. Mindegyikre rá van írva a neve.",
+      "Érintse meg a kép egy részét, hogy kitöltse azzal a színnel.",
+      "Bármikor meggondolhatja magát: töltse ki újra.",
+      "Érintse meg az „Oldal nyomtatása” gombot egy üres oldalért, amelyet ceruzával vagy filctollal színezhet."
+    ],
+    "tips": [
+      "Ha a választás soknak tűnik, kínáljon két színt a teljes készlet helyett.",
+      "A lila fák és a kék napok is jók. A szín élvezetéről szól, nem a pontosságról.",
+      "A kinyomtatott oldalakhoz vastag filctollak vagy zsírkrétákat érdemes használni, amelyeket könnyebb megfogni."
+    ],
+    "faq": [
+      {
+        "q": "Van időzítő vagy pontszám?",
+        "a": "Nem. Nincs óra, pontszám, lépésszámláló vagy vesztés. Bármikor abbahagyhatják, és a félbehagyás is teljesen jó befejezés."
+      },
+      {
+        "q": "Nem túl gyerekesek ezek az oldalak?",
+        "a": "Nyugodt, egyszerű tárgyakat rajzoltunk rajzfilmfigurák helyett, így az oldalak felnőtteknek valók. A nagy formák könnyűvé teszik a színezést anélkül, hogy gyerekes lenne."
+      },
+      {
+        "q": "Ingyenes, és regisztrálni kell?",
+        "a": "Igen, ingyenes, és nincs fiók, regisztráció vagy letöltés. A böngészőben működik telefonon, táblagépen vagy számítógépen."
+      }
+    ]
+  },
+  "conversation-cards": {
+    "name": "Beszélgetőkártyák",
+    "seoTitle": "Beszélgetésindítók demenciával élőknek: képes kártyák",
+    "h1": "Beszélgetőkártyák",
+    "description": "Képes kártyák finom beszélgetésindítókkal demenciával élő embereknek: kikérdezés és helyes válasz nélkül. Használja a képernyőn, vagy nyomtassa ki a teljes készletet.",
+    "short": "Képes kártyák nyitott, finom kérdésekkel. Kikérdezés nélkül.",
+    "players": "2 ember vagy egy csoport",
+    "intro": "Minden kártyán egy ismerős kép és egy nyitott beszélgetésre hívás áll, például „Milyen az Ön kedvenc időjárása?”. Nincs helyes válasz, és semmit sem kell megjegyezni. Válasszon témát, vagy keverje össze az összeset.",
+    "howTo": [
+      "Válasszon témát, vagy maradjon a „Minden kártya” beállításnál.",
+      "Olvassa fel hangosan a kérdést, és nézzék meg együtt a képet.",
+      "Hallgassa meg a másikat, mondja el a saját válaszát, és hagyja, hogy a beszélgetés kalandozzon.",
+      "Érintse meg a „Következő kártya” gombot, ha készen áll, vagy maradjon egy kártyánál, ameddig szeretné.",
+      "Érintse meg az „Összes kártya nyomtatása” gombot, hogy papírkészletet vághasson ki."
+    ],
+    "tips": [
+      "Válaszoljon Ön is a kérdésre. Így beszélgetésnek érződik, nem interjúnak.",
+      "A történetet kövesse, ne a tényeket. Ha a részletek változnak, az rendben van.",
+      "Ha egy kártya valami szomorúhoz ér, ismerje el az érzést, és finoman váltson egy másik kártyára."
+    ],
+    "faq": [
+      {
+        "q": "Miért nincsenek „Emlékszik…?” kérdések?",
+        "a": "Az emlékezetet próbára tevő kérdések vizsgának tűnhetnek, és zavart okozhatnak. A nyitott felkérések, például a „Mesélje el…”, bárkit bekapcsolnak, függetlenül attól, mire emlékszik."
+      },
+      {
+        "q": "Kinyomtathatom a kártyákat?",
+        "a": "Igen. Az „Összes kártya nyomtatása” nagy betűkkel kinyomtatja a teljes készletet, oldalanként több kártyával, kivágásra készen."
+      },
+      {
+        "q": "Ingyenes, és regisztrálni kell?",
+        "a": "Igen, ingyenes, és nincs fiók, regisztráció vagy letöltés. A böngészőben működik telefonon, táblagépen vagy számítógépen."
+      }
+    ]
+  },
+  "photo-pairs": {
+    "name": "Fotópárok",
+    "seoTitle": "Párosító játék készítése családi fotókból",
+    "h1": "Fotópárok: párosítsa a saját fotóit",
+    "description": "Változtassa a saját családi fotóit nyugodt párosító játékká. Válasszon 2–6 fotót az eszközén; a böngészőben maradnak, és soha nem kerülnek feltöltésre.",
+    "short": "Válassza ki a saját fotóit, és párosítsa őket. Semmi sem kerül feltöltésre.",
+    "players": "2 ember, egymás mellett",
+    "intro": "Válasszon két–hat fotót a telefonjáról, táblagépéről vagy számítógépéről, és nagy, látható képekkel párosító játék lesz belőlük. A fotók csak ezen az oldalon jelennek meg. Nem kerülnek feltöltésre, mentésre vagy megosztásra, és az oldal bezárásakor eltűnnek.",
+    "howTo": [
+      "Érintse meg a „Fotók kiválasztása” gombot, és válasszon két–hat fotót.",
+      "Minden fotó kétszer jelenik meg. Érintse meg az egyiket, majd a párját.",
+      "Beszéljenek minden fotóról, ahogy megtalálják.",
+      "Ha végeztek, zárja be az oldalt, vagy érintse meg a „Fotók törlése” gombot. Semmi sem marad meg."
+    ],
+    "tips": [
+      "Válasszon éles fotókat vidám, ismerős dolgokról: egy házi kedvencről, egy kertről, egy kedves helyről, egy esküvő napjáról.",
+      "A helyekről és tárgyakról készült képek könnyebbek lehetnek, mint az arcok, és nem kell senkit megnevezni.",
+      "Hagyja ki az elhunytakról készült fotókat, ha hirtelen gyászt idézhetnek, hacsak nem tudja, hogy vigaszt nyújtanak."
+    ],
+    "faq": [
+      {
+        "q": "Feltöltődnek valahová a fotóim?",
+        "a": "Nem. Az oldal közvetlenül a böngészőben olvassa be a kiválasztott fotókat, és megjeleníti őket a képernyőn. Nem kerülnek elküldésre sem nekünk, sem másnak, és az oldal bezárásakor vagy újratöltésekor eltűnnek."
+      },
+      {
+        "q": "Van időzítő vagy pontszám?",
+        "a": "Nem. Nincs óra, pontszám, lépésszámláló vagy vesztés. Bármikor abbahagyhatják, és a félbehagyás is teljesen jó befejezés."
+      },
+      {
+        "q": "Elmenthetem a játékot a következő alkalomra?",
+        "a": "A böngészőben tervezetten nem, hogy semmi személyes ne kerüljön tárolásra. Az ingyenes Golden Moments alkalmazás iPhone-ra és iPadre az eszközén tarthatja a kiválasztott fotók másolatait."
+      }
+    ]
+  },
+  "picture-bingo": {
+    "name": "Képes bingó",
+    "seoTitle": "Képes bingó demenciával élő időseknek: nyomtatható",
+    "h1": "Képes bingó csoportoknak",
+    "description": "Ingyenes, nyomtatható képes bingó gondozóotthonoknak és idősek csoportjainak, nagy képernyős számhúzóval. Nagy képek szavakkal, 9 vagy 16 mező, olvasás nélkül.",
+    "short": "Nyomtatható képes bingókártyák és nagyképernyős számhúzó csoportoknak.",
+    "players": "2–30 fős csoport",
+    "intro": "Klasszikus bingó számok helyett képekkel, így senkinek sem kell apró betűt olvasnia. Nyomtasson egyedi kártyákat, majd a képernyős számhúzóval mutassa meg minden képet nagyban a tévén, laptopon vagy táblagépen.",
+    "howTo": [
+      "Válassza ki, hány mező legyen egy kártyán (9 vagy 16), és hány játékos lesz.",
+      "Érintse meg a „Kártyák nyomtatása” gombot. Minden kártya más.",
+      "Nyissa meg a számhúzót nagy képernyőn. Érintse meg a „Következő kép” gombot, hogy minden képet a nevével együtt mutasson.",
+      "A játékosok egy érmével, gombbal vagy jelölővel fedik le a kártyájukon az egyező képet.",
+      "Mindenkit megtapsolnak, aki kitölt egy sort vagy a teljes kártyát. Ebben a változatban nincsenek vesztesek: addig játszanak, amíg mindenkinek lesz sora."
+    ],
+    "tips": [
+      "Használjon nagy jelölőket, például dámakorongot vagy üvegkupakot. Az apró gombokat nehéz felvenni.",
+      "Nevezze meg a képet, és mondjon róla valamit: „Egy vitorlás. Ki járt már hajón?”",
+      "A rosszabbul látókat ültesse a képernyőhöz legközelebb, és a segítőket párosítsa azokkal, akiknek szükségük van rájuk.",
+      "Kilenc mező a legtöbb csoportnak bőven elég. Az alkalom tartson 20–30 percig."
+    ],
+    "faq": [
+      {
+        "q": "Hogyan vezessek képes bingót egy gondozóotthonban?",
+        "a": "Nyomtasson játékosonként egy kártyát, tegye a számhúzót a legnagyobb képernyőre, és lassan húzza a képeket, mindegyiket megnevezve. Addig játsszanak, amíg mindenkinek lesz sora, hogy senki se maradjon ki."
+      },
+      {
+        "q": "Ingyenes a nyomtatás?",
+        "a": "Igen. Annyi kártyát nyomtathat, amennyi kell, ahányszor csak akar, személyes vagy csoportos használatra."
+      },
+      {
+        "q": "Játszhatnak olvasás nélkül?",
+        "a": "Igen. Minden mező egy nagy kép, alatta a neve azoknak, akik szeretik a szavakat."
+      }
+    ]
+  },
+  "calm-breathing": {
+    "name": "Nyugodt légzés",
+    "seoTitle": "Nyugodt légzőszünet időseknek és gondozóknak",
+    "h1": "Nyugodt légzőszünet",
+    "description": "Lassú, csendes légzőszünet közösen: egy szelíd kör nő és zsugorodik hat lélegzetvételig. Ön indítja el, és bármikor megállíthatja.",
+    "short": "Egy lassú kör, amelyhez igazíthatja a légzését. Indítsa és állítsa meg, amikor akarja.",
+    "players": "1 vagy 2 ember",
+    "intro": "Néha a legjobb tevékenység egy csendes szünet. Érintse meg az „Indítás” gombot, majd lélegezzen be, amíg a kör nő, és ki, amíg zsugorodik. Választhat lassabb vagy gyorsabb tempót. Ez nem kezelés, csak egy békés, közös pillanat.",
+    "howTo": [
+      "Üljenek kényelmesen egymás mellé.",
+      "Válasszon tempót: lassú vagy szelíd.",
+      "Érintse meg az „Indítás” gombot. Lélegezzen be, amíg a kör nő, és ki, amíg zsugorodik.",
+      "Hat lélegzetvétel után magától megáll, vagy érintse meg a „Megállítás” gombot, amikor akarja."
+    ],
+    "tips": [
+      "Fogják egymás kezét, vagy tegye a kezét a másik karjára, ha ez jólesik.",
+      "Soha ne erőltesse. Ha a másik ember inkább nézi, az rendben van.",
+      "Ha valakinek légzési problémái vannak, lélegezzen normálisan, és csak nézze a kört. Légzéssel kapcsolatos aggály esetén kérdezze meg az orvost."
+    ],
+    "faq": [
+      {
+        "q": "Ez egy orvosi légzőgyakorlat?",
+        "a": "Nem. Egyszerű, választható szünet a nyugalomra és a társaságra. Nem kezelés szorongásra vagy bármilyen állapotra. Egészségügyi kérdéssel forduljon orvoshoz."
+      },
+      {
+        "q": "Elindul a kör magától is?",
+        "a": "Nem. Semmi sem mozdul, amíg nem érinti meg az Indítást, és hat lélegzetvétel után vagy a Megállítás megérintésekor leáll. Ha az eszköze a mozgás csökkentésére van állítva, a szavak változnak, a kör pedig nem nő."
+      },
+      {
+        "q": "Ingyenes, és regisztrálni kell?",
+        "a": "Igen, ingyenes, és nincs fiók, regisztráció vagy letöltés. A böngészőben működik telefonon, táblagépen vagy számítógépen."
+      }
+    ]
+  }
+}
