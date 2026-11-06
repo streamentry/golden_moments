@@ -1843,5 +1843,81 @@
   "languageDevice": "Use this device's language",
   "@languageDevice": {
     "description": "First choice in the language picker: follow the phone or tablet's language."
+  },
+  "habitsHomeButton": "Healthy habits",
+  "@habitsHomeButton": {
+    "description": "Home button that opens a page of habits linked with lower dementia risk. Short. Not a promise of any benefit."
+  },
+  "habitsTitle": "Habits worth talking about",
+  "@habitsTitle": {
+    "description": "Title of the healthy-habits page. Plain and calm. Not a claim."
+  },
+  "habitsIntro": "These habits are linked with a lower chance of dementia across large groups of people. They are not a promise for any one person, and no habit, game or diet has been proven to prevent dementia.",
+  "@habitsIntro": {
+    "description": "Shown at the top of the habits page. This is the honest frame for the whole page. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure. The last clause must stay a plain denial that anything is proven to prevent dementia."
+  },
+  "habitsHearingVisionTitle": "Hearing and vision checks",
+  "@habitsHearingVisionTitle": {
+    "description": "Habit heading. A plain checkup suggestion."
+  },
+  "habitsHearingVisionBody": "Untreated hearing loss and vision loss are both linked with higher dementia risk. A check is quick, and treating either can make daily life easier whatever the effect on dementia risk.",
+  "@habitsHearingVisionBody": {
+    "description": "Habit text. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure."
+  },
+  "habitsHeartTitle": "Blood pressure and cholesterol",
+  "@habitsHeartTitle": {
+    "description": "Habit heading about checks with a doctor."
+  },
+  "habitsHeartBody": "High blood pressure and high cholesterol in midlife are linked with higher dementia risk. A doctor can check both and talk over what suits you.",
+  "@habitsHeartBody": {
+    "description": "Habit text. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure."
+  },
+  "habitsMoveTitle": "Move your body",
+  "@habitsMoveTitle": {
+    "description": "Habit heading. Gentle, no exercise targets."
+  },
+  "habitsMoveBody": "Being physically active is linked with lower dementia risk and helps health in other ways. Choose something you enjoy and can keep doing, and ask a doctor first if you are unsure.",
+  "@habitsMoveBody": {
+    "description": "Habit text. No targets, distances or minutes. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure."
+  },
+  "habitsConnectTitle": "Stay in touch with people",
+  "@habitsConnectTitle": {
+    "description": "Habit heading about social contact."
+  },
+  "habitsConnectBody": "Social isolation is linked with higher dementia risk. Regular time with friends, family or a group is worth making room for.",
+  "@habitsConnectBody": {
+    "description": "Habit text. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure."
+  },
+  "habitsSmokeTitle": "Smoking and alcohol",
+  "@habitsSmokeTitle": {
+    "description": "Habit heading. Neutral, not judging."
+  },
+  "habitsSmokeBody": "Smoking and heavy drinking are linked with higher dementia risk. If you want to cut down or stop, a doctor or local service can help.",
+  "@habitsSmokeBody": {
+    "description": "Habit text. Not judging. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure."
+  },
+  "habitsHeadTitle": "Protect your head",
+  "@habitsHeadTitle": {
+    "description": "Habit heading about avoiding head injury."
+  },
+  "habitsHeadBody": "Head injuries are linked with higher dementia risk. A helmet for cycling and care on stairs and in the car are simple steps.",
+  "@habitsHeadBody": {
+    "description": "Habit text. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure."
+  },
+  "habitsDoctorNote": "None of this replaces advice from a doctor. If you are worried about your memory or about dementia, talk with a doctor.",
+  "@habitsDoctorNote": {
+    "description": "Shown near the end of the habits page. Do not diagnose or reassure."
+  },
+  "habitsSourcesTitle": "Where this comes from",
+  "@habitsSourcesTitle": {
+    "description": "Heading above the source note."
+  },
+  "habitsSources": "The 2024 Lancet Commission on dementia prevention, intervention and care. Its figures describe whole populations, not any one person. The sourced guide is at dementiaactivities.games/brain-health/can-dementia-be-prevented/ (in English).",
+  "@habitsSources": {
+    "description": "Names the source. Keep the web address exactly as written, with no change. Say that the figures describe whole populations, not one person."
+  },
+  "wellbeingItemCallSomeone": "Call or message someone you enjoy talking with",
+  "@wellbeingItemCallSomeone": {
+    "description": "Plain suggestion with no action, in the day planner. Not a health claim."
   }
 }

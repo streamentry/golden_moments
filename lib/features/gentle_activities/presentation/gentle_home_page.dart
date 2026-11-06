@@ -11,6 +11,7 @@ import 'package:golden_moments/features/gentle_activities/presentation/gentle_ga
 import 'package:golden_moments/features/gentle_activities/presentation/help_privacy_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
+import 'package:golden_moments/features/habits/presentation/habits_page.dart';
 import 'package:golden_moments/features/language/presentation/language_page.dart';
 import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
 import 'package:golden_moments/features/reminders/presentation/reminder_page.dart';
@@ -208,6 +209,15 @@ class _GentleHomePageState extends State<GentleHomePage> {
           onPressed: () => _open(const LanguagePage()),
           icon: const Icon(Icons.translate),
           label: Text(l10n.languageTitle, textAlign: TextAlign.center),
+        ),
+      ),
+      // Habits linked with lower dementia risk, in plain hedged words, for any
+      // adult looking after their health (docs/specs/wellbeing.md).
+      Center(
+        child: TextButton.icon(
+          onPressed: () => _open(const HabitsPage()),
+          icon: const Icon(Icons.health_and_safety_outlined),
+          label: Text(l10n.habitsHomeButton, textAlign: TextAlign.center),
         ),
       ),
       // Daily wellbeing: a short optional moment, a suggested routine and a

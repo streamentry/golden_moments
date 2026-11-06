@@ -135,6 +135,7 @@ class _StepTile extends StatelessWidget {
     RoutineItem.drinkWater => l10n.wellbeingItemDrinkWater,
     RoutineItem.stepOutside => l10n.wellbeingItemStepOutside,
     RoutineItem.teaTogether => l10n.wellbeingItemTeaTogether,
+    RoutineItem.callSomeone => l10n.wellbeingItemCallSomeone,
     RoutineItem.dimLights => l10n.wellbeingItemDimLights,
     RoutineItem.planTogether => l10n.wellbeingItemPlanTogether,
     RoutineItem.keepQuiet => l10n.wellbeingItemKeepQuiet,

@@ -21,6 +21,7 @@ enum RoutineItem {
   drinkWater,
   stepOutside,
   teaTogether,
+  callSomeone,
   dimLights,
   planTogether,
   keepQuiet;
@@ -47,8 +48,8 @@ List<RoutineItem> routineFor(PlanTime time, PlanFor who) {
     ],
     (PlanTime.afternoon, PlanFor.me) => const [
       RoutineItem.stepOutside,
+      RoutineItem.callSomeone,
       RoutineItem.lookTogether,
-      RoutineItem.matchingGame,
     ],
     (PlanTime.afternoon, PlanFor.someoneICare) => const [
       RoutineItem.teaTogether,
