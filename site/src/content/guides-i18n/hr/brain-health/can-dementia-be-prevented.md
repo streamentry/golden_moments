@@ -29,8 +29,8 @@ faq:
     a: "Starost, geni i mnogi čimbenici na koje nitko ne može utjecati igraju veliku ulogu u demenciji. Autori Lancetove komisije napominju da smanjenje rizika u populaciji ne jamči da će pojedinac izbjeći demenciju. Dijagnoza nije znak da je netko nešto propustio."
   - q: "Je li prekasno za smanjenje rizika od demencije nakon 65. godine?"
     a: "Lancetova komisija kaže da nikad nije prerano ili prekasno za smanjenje rizika, iako se većina dokaza odnosi na srednju dob. Liječenje problema sa sluhom i vidom, održavanje aktivnosti i kontakt s ljudima primjeri su koraka u kasnijoj dobi koji su proučavani. Razgovarajte s liječnikom o tome što odgovara Vašem zdravlju."
-  - q: "Sprječavaju li igre za mozak ili posebne dijete demenciju?"
-    a: "Nijedna igra, hrana, dodatak prehrani ili dijeta nije dokazano sredstvo za sprječavanje demencije. Trogodišnji pokus MIND dijete nije pokazao značajnu razliku u razmišljanju u odnosu na kontrolnu dijetu, a komercijalne aplikacije za trening mozga nisu pokazale učinke kakvi su viđeni u istraživačkim pokusima."
+  - q: "Sprječavaju li igre za mozak ili posebna prehrana demenciju?"
+    a: "Nijedna igra, namirnica, dodatak prehrani ni posebna prehrana nije dokazano sredstvo za sprječavanje demencije. Trogodišnji pokus MIND prehrane nije pokazao značajnu razliku u razmišljanju u odnosu na kontrolnu prehranu, a komercijalne aplikacije za trening mozga nisu pokazale učinke kakvi su viđeni u istraživačkim pokusima."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -123,7 +123,7 @@ US POINTER uključio je 2111 odraslih osoba od 60 do 79 godina koje su bile neak
 
 ### SPRINT MIND (krvni tlak)
 
-SPRINT MIND proučavao je 9361 odraslu osobu u SAD-u, starију od 50 godina, s visokim krvnim tlakom. Bili su raspoređeni ili na nižu ciljnu vrijednost krvnog tlaka (gornja vrijednost ispod 120) ili na standardnu (ispod 140). Niži cilj značajno je smanjio **blago kognitivno oštećenje**, stanje problema s pamćenjem i razmišljanjem koje može prethoditi demenciji. Kod **vjerojatne demencije** slučajeva je bilo manje u skupini s nižim ciljem, ali razlika nije bila statistički značajna. Pokus je prekinut ranije i imao je manje slučajeva demencije nego što se očekivalo, pa je možda bio premalen da odgovori na to pitanje ([SPRINT MIND u časopisu JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND proučavao je 9361 odraslu osobu u SAD-u, stariju od 50 godina, s visokim krvnim tlakom. Bili su raspoređeni ili na nižu ciljnu vrijednost krvnog tlaka (gornja vrijednost ispod 120) ili na standardnu (ispod 140). Niži cilj značajno je smanjio **blago kognitivno oštećenje**, stanje problema s pamćenjem i razmišljanjem koje može prethoditi demenciji. Kod **vjerojatne demencije** slučajeva je bilo manje u skupini s nižim ciljem, ali razlika nije bila statistički značajna. Pokus je prekinut ranije i imao je manje slučajeva demencije nego što se očekivalo, pa je možda bio premalen da odgovori na to pitanje ([SPRINT MIND u časopisu JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
 ### Što zbrajaju pregledi
 
@@ -149,7 +149,7 @@ Zato su preporuke Komisije usmjerene jednako vladama koliko i pojedincima: dobro
 - **Većina pokusa mjeri rezultate testova.** Malo poboljšanje na testu nužno ne znači manje ljudi koji će razviti demenciju ili lakši svakodnevni život.
 - **Dobrovoljci su često zdraviji** i obrazovaniji od opće populacije. Lancetova komisija napominje da većina dokaza i dalje dolazi iz zemalja visokog dohotka te da su manjinske skupine nedovoljno zastupljene.
 - **Neke veze vrijede u oba smjera.** Manje aktivnosti ili manje druženja može biti rani učinak demencije, a ne samo njezin uzrok.
-- **Pokusi s prehranom za sada su razočaravajući.** Trogodišnji pokus MIND dijete nije pokazao značajnu razliku u razmišljanju u odnosu na kontrolnu dijetu. Pogledajte naš [vodič o prehrani](/brain-health/diet/).
+- **Pokusi s prehranom za sada su razočaravajući.** Trogodišnji pokus MIND prehrane nije pokazao značajnu razliku u razmišljanju u odnosu na kontrolnu prehranu. Pogledajte naš [vodič o prehrani](/brain-health/diet/).
 - **Igre za mozak nisu dokazano sredstvo za sprječavanje demencije.** Pogledajte naš vodič o [igrama za mozak i demenciji](/brain-health/brain-games/).
 - **Postoji vrlo malo dokaza o postu kod ljudi, a za starije osobe može biti rizično.** Pogledajte naš [vodič o postu](/brain-health/fasting/).
 
