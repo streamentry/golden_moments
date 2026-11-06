@@ -1707,5 +1707,129 @@
   "todayWornOutTry3": "Ask the Eldercare Locator, 1-800-677-1116, about respite care near you.",
   "@todayWornOutTry3": {
     "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Suggestion 3 of 3 for 'I’m worn out'. Plain, kind, practical; no medical claims. Use local typographic quotes. Keep US phone numbers only in English; elsewhere name the national dementia helpline or say 'a dementia helpline in your country' without a number."
+  },
+  "wellbeingHomeDailyMoment": "Daily moment",
+  "@wellbeingHomeDailyMoment": {
+    "description": "Home button that opens a short guided activity of about 5 to 10 minutes. Keep it short."
+  },
+  "wellbeingHomePlanner": "Plan my day",
+  "@wellbeingHomePlanner": {
+    "description": "Home button that opens suggested routines for the day, for oneself or for someone one cares for."
+  },
+  "wellbeingHomeProgress": "My progress",
+  "@wellbeingHomeProgress": {
+    "description": "Home button that opens a gentle record of the days a Daily moment was finished. It never shows a score."
+  },
+  "wellbeingDailyMomentIntro": "A few minutes of looking and talking together. It takes about 5 to 10 minutes, and you can stop at any time.",
+  "@wellbeingDailyMomentIntro": {
+    "description": "Shown at the top of the Daily moment page. The length is a suggestion, not a timer. Keep the stop-at-any-time part."
+  },
+  "wellbeingDailyMomentSaved": "Saved on this phone. You can see the day in My progress.",
+  "@wellbeingDailyMomentSaved": {
+    "description": "Shown after Done for now. Plain and calm, with no praise."
+  },
+  "wellbeingDailyMomentSaveFailed": "This day could not be saved, because the saved history on this phone cannot be read. Nothing was changed.",
+  "@wellbeingDailyMomentSaveFailed": {
+    "description": "Shown when the saved history cannot be read, so nothing is overwritten."
+  },
+  "wellbeingPlannerIntro": "Suggestions only. Pick what fits today and skip the rest.",
+  "@wellbeingPlannerIntro": {
+    "description": "Shown at the top of Plan my day. Say plainly that these are suggestions."
+  },
+  "wellbeingPlannerTime": "Time of day",
+  "@wellbeingPlannerTime": {
+    "description": "Label above the choice of morning, afternoon or evening."
+  },
+  "wellbeingPlannerMorning": "Morning",
+  "@wellbeingPlannerMorning": {
+    "description": "Choice for the time of day. One word."
+  },
+  "wellbeingPlannerAfternoon": "Afternoon",
+  "@wellbeingPlannerAfternoon": {
+    "description": "Choice for the time of day. One word."
+  },
+  "wellbeingPlannerEvening": "Evening",
+  "@wellbeingPlannerEvening": {
+    "description": "Choice for the time of day. One word."
+  },
+  "wellbeingPlannerWhoLabel": "Who is it for",
+  "@wellbeingPlannerWhoLabel": {
+    "description": "Label above the choice between oneself and someone one cares for."
+  },
+  "wellbeingPlannerForMe": "Me",
+  "@wellbeingPlannerForMe": {
+    "description": "Choice: the routine is for the person using the app. One word."
+  },
+  "wellbeingPlannerForCared": "Someone I care for",
+  "@wellbeingPlannerForCared": {
+    "description": "Choice: the routine is for someone the caregiver looks after. Keep it short."
+  },
+  "wellbeingPlannerRoutine": "Suggested for today",
+  "@wellbeingPlannerRoutine": {
+    "description": "Heading above the three suggested steps."
+  },
+  "wellbeingItemDailyMoment": "Daily moment",
+  "@wellbeingItemDailyMoment": {
+    "description": "Routine step that opens the Daily moment. Same wording as the Home button."
+  },
+  "wellbeingItemMatchingGame": "A picture matching game",
+  "@wellbeingItemMatchingGame": {
+    "description": "Routine step that opens the picture matching game."
+  },
+  "wellbeingItemLookTogether": "Look at pictures together",
+  "@wellbeingItemLookTogether": {
+    "description": "Routine step that opens Look at pictures together."
+  },
+  "wellbeingItemDrinkWater": "Have a drink of water",
+  "@wellbeingItemDrinkWater": {
+    "description": "Plain suggestion with no action. Not a health claim."
+  },
+  "wellbeingItemStepOutside": "Step outside for a few minutes, if you can",
+  "@wellbeingItemStepOutside": {
+    "description": "Plain suggestion with no action. Not a health claim; the \"if you can\" must stay."
+  },
+  "wellbeingItemTeaTogether": "Share a cup of tea",
+  "@wellbeingItemTeaTogether": {
+    "description": "Plain suggestion with no action, for a caregiver and the person they look after."
+  },
+  "wellbeingItemDimLights": "Dim the lights and sit comfortably",
+  "@wellbeingItemDimLights": {
+    "description": "Plain suggestion with no action, for the evening."
+  },
+  "wellbeingItemPlanTogether": "Choose one small thing you both enjoy",
+  "@wellbeingItemPlanTogether": {
+    "description": "Plain suggestion with no action, for the morning."
+  },
+  "wellbeingItemKeepQuiet": "Keep the evening quiet and unhurried",
+  "@wellbeingItemKeepQuiet": {
+    "description": "Plain suggestion with no action, for a caregiver in the evening."
+  },
+  "wellbeingProgressIntro": "The days you finished a Daily moment, kept on this phone. Nothing here is graded, and missed days are not shown.",
+  "@wellbeingProgressIntro": {
+    "description": "Shown at the top of My progress. Say that nothing is graded and that missed days are not listed."
+  },
+  "wellbeingProgressEmpty": "No days yet. A day you finish a Daily moment will appear here.",
+  "@wellbeingProgressEmpty": {
+    "description": "Shown when no day has been recorded yet."
+  },
+  "wellbeingProgressClear": "Clear this history",
+  "@wellbeingProgressClear": {
+    "description": "Button that removes the days listed on My progress. Asks first."
+  },
+  "wellbeingProgressClearTitle": "Clear this history?",
+  "@wellbeingProgressClearTitle": {
+    "description": "Title of the confirmation before clearing the days on My progress."
+  },
+  "wellbeingProgressClearBody": "The days listed here are removed from this phone. Your pictures and other activities are not changed.",
+  "@wellbeingProgressClearBody": {
+    "description": "Explains what clearing does in the confirmation dialog."
+  },
+  "wellbeingProgressCleared": "History cleared.",
+  "@wellbeingProgressCleared": {
+    "description": "Shown after the days are cleared. Short."
+  },
+  "wellbeingProgressUnreadable": "The saved history cannot be read, so nothing is shown. Nothing was changed.",
+  "@wellbeingProgressUnreadable": {
+    "description": "Shown on My progress when the saved history cannot be read."
   }
 }

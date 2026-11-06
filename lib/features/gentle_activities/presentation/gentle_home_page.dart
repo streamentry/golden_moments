@@ -14,6 +14,9 @@ import 'package:golden_moments/features/gentle_activities/presentation/photo_tog
 import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
 import 'package:golden_moments/features/reminders/presentation/reminder_page.dart';
 import 'package:golden_moments/features/today/presentation/today_page.dart';
+import 'package:golden_moments/features/wellbeing/presentation/activity_planner_page.dart';
+import 'package:golden_moments/features/wellbeing/presentation/daily_moment_page.dart';
+import 'package:golden_moments/features/wellbeing/presentation/progress_page.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/native/gm_native.dart';
 import 'package:golden_moments/shared/rating/review_request.dart';
@@ -197,6 +200,34 @@ class _GentleHomePageState extends State<GentleHomePage> {
         ),
       ),
       const SizedBox(height: gmSpaceLg),
+      // Daily wellbeing: a short optional moment, a suggested routine and a
+      // gentle record of the days finished. Nothing is scored (Health & Fitness
+      // and Lifestyle; see docs/specs/wellbeing.md).
+      Center(
+        child: TextButton.icon(
+          onPressed: () =>
+              _open(const DailyMomentPage(pictures: ActivityPicture.samples)),
+          icon: const Icon(Icons.today_outlined),
+          label: Text(
+            l10n.wellbeingHomeDailyMoment,
+            textAlign: TextAlign.center,
+          ),
+        ),
+      ),
+      Center(
+        child: TextButton.icon(
+          onPressed: () => _open(const ActivityPlannerPage()),
+          icon: const Icon(Icons.event_note_outlined),
+          label: Text(l10n.wellbeingHomePlanner, textAlign: TextAlign.center),
+        ),
+      ),
+      Center(
+        child: TextButton.icon(
+          onPressed: () => _open(const ProgressPage()),
+          icon: const Icon(Icons.timeline),
+          label: Text(l10n.wellbeingHomeProgress, textAlign: TextAlign.center),
+        ),
+      ),
       // For the caregiver: one hard moment, what to try, private notes.
       Center(
         child: TextButton.icon(

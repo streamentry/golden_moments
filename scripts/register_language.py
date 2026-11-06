@@ -122,6 +122,8 @@ LANGUAGES = {l.code: l for l in (
     Language('sk', 'sk_SK', 'Slovenčina', 'Slovak', apple=('sk',)),
     Language('sl', 'sl_SI', 'Slovenščina', 'Slovenian', apple=('sl',)),
     Language('sv', 'sv_SE', 'Svenska', 'Swedish', apple=('sv',)),
+    # Mongolian (Cyrillic). Apple's App Store localization list has no Mongolian (checked 2026-11-06), so no App Store locale; Google Play codes not verified.
+    Language('mn', 'mn_MN', 'Монгол хэл', 'Mongolian', 'Cyrl'),
 )}
 
 

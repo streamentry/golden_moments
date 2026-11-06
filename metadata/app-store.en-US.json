@@ -15,7 +15,7 @@
     "offline_starter",
     "accessible_layout"
   ],
-  "category_recommendation": "Games / Puzzle; verify actual configuration in App Store Connect.",
+  "category_recommendation": "Health & Fitness as primary, Lifestyle as secondary (recommendation; maintainer decision in docs/specs/wellbeing.md, not yet applied in App Store Connect). Previously recorded: Games / Puzzle; verify actual configuration in App Store Connect.",
   "screenshots": [
     {
       "order": 1,

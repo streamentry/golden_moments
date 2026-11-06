@@ -92,6 +92,7 @@ export const LOCALES: readonly LocaleInfo[] = [
   { code: 'sk', prefix: 'sk', bcp47: 'sk', htmlLang: 'sk', og: 'sk_SK', name: 'Slovenčina', englishName: 'Slovak', dir: 'ltr' },
   { code: 'sl', prefix: 'sl', bcp47: 'sl', htmlLang: 'sl', og: 'sl_SI', name: 'Slovenščina', englishName: 'Slovenian', dir: 'ltr' },
   { code: 'sv', prefix: 'sv', bcp47: 'sv', htmlLang: 'sv', og: 'sv_SE', name: 'Svenska', englishName: 'Swedish', dir: 'ltr' },
+  { code: 'mn', prefix: 'mn', bcp47: 'mn', htmlLang: 'mn', og: 'mn_MN', name: 'Монгол хэл', englishName: 'Mongolian', dir: 'ltr' },
 ];
 
 /**

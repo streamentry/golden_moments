@@ -54,6 +54,7 @@ const _appLocales = {
   'sk',
   'sl',
   'sv',
+  'mn',
 };
 const _baseFallbacks = {'pt', 'zh'};
 
