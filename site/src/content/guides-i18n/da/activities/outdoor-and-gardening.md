@@ -118,7 +118,7 @@ Også koldt vejr betyder noget. Om vinteren skal udetiden holdes kort, og du ska
 
 ## Hvordan håndterer jeg det at gå væk, når vi er udenfor?
 
-Bliv hos personen, når de er udendørs. Alzheimer's Association siger, at [6 ud af 10](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) mennesker, der lever med demens, vil gå væk mindst én gang, og mange gør det mere end én gang. Det kan ske på ethvert stadie.
+Bliv hos personen, når de er udendørs. Alzheimer's Association siger, at [seks ud af 10](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) mennesker, der lever med demens, vil gå væk mindst én gang, og mange gør det mere end én gang. Det kan ske på ethvert stadie.
 
 NIA's [tips til at gå væk og fare vild](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) omfatter:
 

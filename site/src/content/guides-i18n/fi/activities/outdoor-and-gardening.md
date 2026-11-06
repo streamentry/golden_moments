@@ -119,7 +119,7 @@ Myös kylmä sää vaikuttaa. Talvella pitäkää ulkoilu lyhyenä ja varmistaka
 
 ## Miten hoidan harhailun, kun menemme ulos?
 
-Olkaa henkilön kanssa aina, kun hän on ulkona. Alzheimer’s Association sanoo, että [6 ihmistä 10:stä](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) dementiaa sairastavista harhailee ainakin kerran, ja monet tekevät sitä useammin kuin kerran. Sitä voi esiintyä missä tahansa vaiheessa.
+Olkaa henkilön kanssa aina, kun hän on ulkona. Alzheimer’s Association sanoo, että [kuusi ihmistä 10:stä](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) dementiaa sairastavista harhailee ainakin kerran, ja monet tekevät sitä useammin kuin kerran. Sitä voi esiintyä missä tahansa vaiheessa.
 
 NIA:n [vinkit harhailuun ja eksymiseen](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) sisältävät seuraavaa:
 

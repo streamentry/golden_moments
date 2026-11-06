@@ -109,7 +109,7 @@ Vaiheet ovat löyhiä nimityksiä. Katsokaa, mistä henkilö nauttii juuri tän�
 | --- | --- | --- |
 | Alkuvaihe | Kuvaparit, Valokuvaparit, Kuvapalapeli 9 palalla, tutut korttipelit | Antakaa hänen valita. Palat voi kääntää, jos hän siitä nauttii; luopukaa pisteistä, jos ne ahdistavat |
 | Keskivaihe | Kuvaparit 4–6 palalla kuvat näkyvillä, Etsi samanlainen, Lajitelkaa yhdessä | Kuvat näkyvissä aina. Istukaa vierellä ja vuorotelkaa auttamisessa |
-| Myöhäisvaihe | Etsi samanlainen kahdella vaihtoehdolla, yhden ison kuvan katselu yhdessä | Hyvin lyhyesti. Te pidätte tablettia; hän osoittaa tai vain katselee ja kuuntelee |
+| Myöhäisvaihe | Etsi samanlainen 2 vaihtoehdolla, yhden ison kuvan katselu yhdessä | Hyvin lyhyesti. Te pidätte tablettia; hän osoittaa tai vain katselee ja kuuntelee |
 
 ## Auttavatko muistipelit dementiaan?
 

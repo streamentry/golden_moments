@@ -64,13 +64,13 @@ Ajat ovat vain esimerkkejä. Siirtäkää koko päivää aiemmin tai myöhemmin 
 | klo 10:30 | Hiljainen aika | Musiikki, valokuva-albumi tai istuminen ikkunan ääressä | Lepoa lempituolissa |
 | klo 11:00 | Lounaan valmistelun apu | Vihannesten pesu, pöydän kattaminen | Te kokkaatte; hän pitää teille seuraa |
 | klo 12:00 | Lounas ja siivous | Pöydän pyyhkiminen, muutama astia kuivaksi | Jätetään askareet pois |
-| klo 13:00 | Lyhyt lepo | Jalat ylhäällä, pehmeä musiikki | Sama |
-| klo 14:00 | Ulkona tai liikkeessä | Kävely, terassilla oleminen, kasvien kastelu, ilmapallon heittely | Istuminen aurinkoisen ikkunan äärellä |
-| klo 15:00 | Sosiaalinen tai luova toiminta | Vierailu, puhelu, [kuvaparit](/games/picture-pairs/), värittäminen, kortit | Juoma ja välipala yhdessä |
-| klo 16:30 | Rauhoittumisen aika | Verhot kiinni, valot päälle, rauhoittava askare kuten pesulappujen taittaminen | Tuttu musiikki, vähän melua |
-| klo 17:30 | Päivällinen | Auttaminen sekoittamisessa tai pöydän kattamisessa | Yksinkertainen, tuttu ruoka |
-| klo 18:30 | Ilta yhdessä | Muisteleminen jälkiruoan äärellä, kortit, lempiohjelma, käsihieronta | Hiljainen seura |
-| klo 20:00 | Nukkumaanmenon rutiini | Kylpy tai peseytyminen, pyjama, pehmeä musiikki, himmeät valot | Lyhentäkää kaikkea; mukavuus ensin |
+| klo 1:00 iltapäivällä | Lyhyt lepo | Jalat ylhäällä, pehmeä musiikki | Sama |
+| klo 2:00 iltapäivällä | Ulkona tai liikkeessä | Kävely, terassilla oleminen, kasvien kastelu, ilmapallon heittely | Istuminen aurinkoisen ikkunan äärellä |
+| klo 3:00 iltapäivällä | Sosiaalinen tai luova toiminta | Vierailu, puhelu, [kuvaparit](/games/picture-pairs/), värittäminen, kortit | Juoma ja välipala yhdessä |
+| klo 4:30 iltapäivällä | Rauhoittumisen aika | Verhot kiinni, valot päälle, rauhoittava askare kuten pesulappujen taittaminen | Tuttu musiikki, vähän melua |
+| klo 5:30 illalla | Päivällinen | Auttaminen sekoittamisessa tai pöydän kattamisessa | Yksinkertainen, tuttu ruoka |
+| klo 6:30 illalla | Ilta yhdessä | Muisteleminen jälkiruoan äärellä, kortit, lempiohjelma, käsihieronta | Hiljainen seura |
+| klo 8:00 illalla | Nukkumaanmenon rutiini | Kylpy tai peseytyminen, pyjama, pehmeä musiikki, himmeät valot | Lyhentäkää kaikkea; mukavuus ensin |
 
 Tämä esimerkki noudattaa Alzheimer’s Associationin omaa esimerkkisuunnitelmaa alku- ja keskivaiheelle, joka etenee henkilökohtaisesta hoidosta ja aamiaisesta askareiden, kävelyjen, musiikin, levon ja vierailujen kautta päivälliseen, muisteluun ja nukkumaanmenoon.
 
