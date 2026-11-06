@@ -217,7 +217,7 @@
         "one": "{name}. {called} af {total} billede er råbt op.",
         "other": "{name}. {called} af {total} billeder er råbt op."
       },
-      "start": "Tryk på “Næste billede” for at vise det første billede.",
+      "start": "Tryk på »Næste billede« for at vise det første billede.",
       "restart": "Start et nyt spil",
       "squaresLegend": "Felter på hvert kort",
       "squares": "{n} felter ({side} gange {side})",
@@ -341,7 +341,7 @@
           "set",
           "fanget"
         ],
-        "prompt": "Har du set en bjørn, eller en anden stor skovens dyr?"
+        "prompt": "Har du set en bjørn i virkeligheden eller på billeder?"
       },
       {
         "start": "En fugl i hånden er bedre end ti på",
@@ -635,8 +635,8 @@
         "start": "Den, der leger med ilden, brænder",
         "end": "sig",
         "others": [
-          "hænder",
-          "fingre"
+          "godt",
+          "stille"
         ],
         "prompt": "Har du nogensinde tændt et stearinlys eller et bål?"
       }
