@@ -122,7 +122,7 @@ Az emlékező csoport egy téma köré gyűlik, például iskolai évek, az els�
 **Így játsszák:**
 
 1. Válasszon egy témát, és hozzon néhány tárgyat, amelyet az emberek megfoghatnak: egy kézi habverőt, egy baseballkesztyűt, egy kalapot, egy magkatalógust.
-2. Egyszerre egy tárgyat adjon körbe. Tegyen fel nyitott kérdéseket: „Meséljen erről!”, „Mit vesz észre?”, „Ki használt ehhez hasonlót?”
+2. Egyszerre egy tárgyat adjon körbe. Tegyen fel nyitott kérdéseket: „Meséljen erről.”, „Mit vesz észre?”, „Ki használt ehhez hasonlót?”
 3. Fogadjon el minden választ. Soha ne javítson ki dátumot vagy tényt.
 4. Terelje a beszélgetést meleg emlékek felé. Az ajánlások szerint a gondozóknak az emlékezést pozitív emlékek felé kell terelniük, nem olyanok felé, amelyek szorongást okozhatnak.
 

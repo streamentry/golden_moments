@@ -120,7 +120,7 @@ A hideg időjárás is számít. Télen tartsák rövidre a szabadban töltött 
 
 ## Hogyan kezeljem a bolyongást, amikor kimegyünk?
 
-Maradjon a személy mellett, valahányszor a szabadban vannak. Az Alzheimer's Association szerint [a demenciával élő emberek tízből hatának](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) legalább egyszer elbolyong, és sokan többször is. Ez bármelyik szakaszban megtörténhet.
+Maradjon a személy mellett, valahányszor a szabadban vannak. Az Alzheimer's Association szerint [a demenciával élő emberek 10-ből hatának](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) legalább egyszer elbolyong, és sokan többször is. Ez bármelyik szakaszban megtörténhet.
 
 A NIA [tippjei a bolyongásról és az eltévedésről](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) a következőket tartalmazzák:
 

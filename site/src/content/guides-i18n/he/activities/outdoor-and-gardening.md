@@ -117,7 +117,7 @@ health: false
 
 ## איך מתמודדים עם שיטוט כשיוצאים החוצה?
 
-הישארו עם האדם בכל פעם שהוא בחוץ. האגודה לאלצהיימר מציינת ש[6 מתוך כל 10 אנשים החיים עם דמנציה](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ישוטטו לפחות פעם אחת, ורבים עושים זאת יותר מפעם אחת. זה יכול לקרות בכל שלב.
+הישארו עם האדם בכל פעם שהוא בחוץ. האגודה לאלצהיימר מציינת ש[שישה מתוך כל 10 אנשים החיים עם דמנציה](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ישוטטו לפחות פעם אחת, ורבים עושים זאת יותר מפעם אחת. זה יכול לקרות בכל שלב.
 
 ה-NIA מציע [טיפים לשיטוט ולהליכה לאיבוד](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) שכוללים:
 
