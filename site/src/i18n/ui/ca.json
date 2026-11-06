@@ -61,7 +61,7 @@
   },
   "home": {
     "title": "Jocs i activitats per a la demència i l’Alzheimer | Golden Moments",
-    "description": "Jocs d’imatges suaus i gratuïts per jugar en línia, i idees d’activitats per a persones que viuen amb demència o Alzheimer i per a qui les cuida. Sense registre, cronòmetres ni puntuacions.",
+    "description": "Jocs d’imatges suaus i gratuïts en línia i idees d’activitats per a persones amb demència o Alzheimer i per a qui les cuida. Sense registre ni puntuacions.",
     "eyebrow": "Gratuït · Sense anuncis · Sense registre · Sense cronòmetres ni puntuacions",
     "h1": "Jocs i activitats suaus per a persones amb demència",
     "lede": "Jocs d’imatges senzills, fotos conegudes i activitats per gaudir plegats, al seu ritme.",
@@ -245,21 +245,21 @@
       "label": "Activitats",
       "title": "Activitats per a persones amb demència",
       "seo": "Activitats per a persones amb demència: idees per fase",
-      "description": "Idees d’activitats per a persones que viuen amb demència en qualsevol fase: música, records, tasques quotidianes, moments sensorials, manualitats, a l’aire lliure i materials gratuïts per imprimir.",
+      "description": "Idees d’activitats per a persones que viuen amb demència en qualsevol fase: música, records, tasques quotidianes, manualitats i materials per imprimir.",
       "lede": "Una activitat amb sentit és tot allò que aporta confort, propòsit o un moment de connexió. Comenci pel que a la persona sempre li ha agradat i adapti-ho a avui."
     },
     "caregiving": {
       "label": "Cures",
       "title": "Guies de cures",
       "seo": "Guies de cures per a la demència: ajuda pràctica diària",
-      "description": "Guies pràctiques i amables per a persones que cuiden algú amb demència: jugar plegats, comunicació, negatives, neguit a la tarda, tauletes, triar aplicacions i cuidar-se un mateix.",
+      "description": "Guies pràctiques i amables per a qui cuida una persona amb demència: jugar plegats, comunicació, negatives, tauletes i cuidar-se un mateix.",
       "lede": "Ajuda clara i pràctica per als moments de cada dia de cuidar una persona que viu amb demència, inclosa la cura d’un mateix."
     },
     "brain-health": {
       "label": "Salut cerebral",
       "title": "Salut cerebral: què diu la recerca",
       "seo": "Salut cerebral i risc de demència: què diu la recerca",
-      "description": "Es pot prevenir la demència? Guies honestes i amb fonts sobre els factors de risc de la demència, els jocs per al cervell, el dejuni, l’alimentació, l’exercici, el son, l’oïda i els primers senyals d’alerta.",
+      "description": "Es pot prevenir la demència? Guies honestes i amb fonts sobre factors de risc, jocs, dejuni, alimentació, exercici, son i oïda.",
       "lede": "Què mostren realment els estudis grans sobre reduir el risc de demència, explicat amb claredat, també on l’evidència és feble o contradictòria. Informació general, no un consell mèdic."
     }
   },
@@ -302,7 +302,7 @@
     "faq": {
       "title": "Preguntes i respostes",
       "seoTitle": "Jocs i activitats per a la demència: preguntes i respostes",
-      "description": "Respostes a preguntes habituals sobre jocs i activitats per a la demència: quins jocs provar, quant de temps jugar, idees per a la fase avançada, salut cerebral i privadesa.",
+      "description": "Respostes a preguntes habituals sobre jocs i activitats per a la demència: quins jocs provar, quant de temps jugar, salut cerebral i privadesa.",
       "crumb": "Preguntes i respostes",
       "lede": "Respostes breus i clares a les preguntes que més fan les persones cuidadores.",
       "groups": [
@@ -392,7 +392,7 @@
     "handout": {
       "title": "Jocs suaus i gratuïts per a persones que viuen amb demència",
       "seoTitle": "Fulletó per imprimir: jocs gratuïts per a la demència en línia",
-      "description": "Un fulletó d’una pàgina per imprimir, per a famílies i persones cuidadores, sobre jocs d’imatges suaus i gratuïts per a persones que viuen amb demència, per a grups de suport i carpetes d’informació.",
+      "description": "Un fulletó d’una pàgina per imprimir sobre jocs d’imatges suaus i gratuïts per a persones que viuen amb demència, per a grups de suport i famílies.",
       "crumb": "Fulletó per imprimir",
       "lede": "Imprimeixi aquesta pàgina per a un grup de suport, una carpeta d’informació o la porta de la nevera. Faci servir l’ordre Imprimir del navegador; els menús i els botons no surten a la còpia impresa.",
       "introHtml": "<p>Imatges grans, paraules clares i res per suspendre. Gratuït al mòbil, a la tauleta o a l’ordinador, sense registre, sense anuncis, sense cronòmetres i sense puntuacions. Seguin un al costat de l’altre i toquin per torns.</p>",
@@ -402,7 +402,7 @@
     "organizations": {
       "title": "Per a residències, biblioteques i grups de suport",
       "seoTitle": "Activitats gratuïtes per a la demència per a residències i grups",
-      "description": "Com fan servir els nostres jocs gratuïts per a la demència residències, centres de dia, biblioteques, agències d’atenció a la gent gran i grups de suport, i un text per afegir-nos a una llista de recursos.",
+      "description": "Com fan servir els nostres jocs gratuïts per a la demència residències, centres de dia, biblioteques i grups de suport, i un text per afegir-nos a una llista.",
       "crumb": "Per a organitzacions",
       "lede": "Tot el que hi ha en aquest web es pot fer servir gratuïtament amb residents, persones sòcies i usuàries, sense compte, llicència ni tarifa. Aquesta pàgina explica què hi ha i com compartir-ho.",
       "shortText": "{name}: jocs d’imatges suaus i gratuïts i guies d’activitats per a persones que viuen amb demència i per a qui les cuida. Sense registre, sense cronòmetres, sense puntuacions.",
@@ -420,7 +420,7 @@
     "app": {
       "title": "L’aplicació Golden Moments",
       "seoTitle": "L’aplicació Golden Moments per a iPhone i Android",
-      "description": "L’aplicació gratuïta Golden Moments: parelles de fotos suaus amb quatre fitxes grans, fotos de família desades al seu dispositiu, col·leccions d’imatges sense connexió i sense compte.",
+      "description": "L’aplicació gratuïta Golden Moments: parelles de fotos suaus amb fitxes grans, fotos de família al dispositiu, sense connexió i sense compte.",
       "crumb": "L’aplicació",
       "lede": "Tot el que li agrada del web, en una aplicació que funciona sense connexió i pot fer servir fotos de família que vostè triï.",
       "worksOn": "Funciona a {platforms} ({requirements}).",
@@ -431,7 +431,7 @@
   },
   "gamesIndex": {
     "title": "Jocs gratuïts en línia per a la demència i l’Alzheimer",
-    "description": "Jocs gratuïts en línia per a persones grans que viuen amb demència o Alzheimer: parelles d’imatges, trencaclosques fàcils, classificar, refranys, pintar, bingo. Sense registre, cronòmetres ni puntuacions.",
+    "description": "Jocs gratuïts en línia per a persones grans amb demència o Alzheimer: parelles d’imatges, trencaclosques, refranys, bingo. Sense registre ni puntuacions.",
     "crumb": "Jocs",
     "h1": "Jocs suaus per a persones amb demència",
     "lede": "{count} jocs gratuïts per jugar plegats al navegador. Imatges grans, paraules clares i res per suspendre: sense cronòmetres, sense puntuacions, sense registre.",
