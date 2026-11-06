@@ -145,7 +145,7 @@ Připravte si teď jednoduchý záložní plán. NIA doporučuje rozhodnout se s
 
 Mluvte s lékařem, pokud se signály stresu objevují pravidelně, pokud se cítíte depresivně nebo se s tím těžko vyrovnáváte. Řekněte lékaři, že jste pečující. NIA uvádí, že poradci a sociální pracovníci mohou pomoci s těžkými pocity a plánováním a že Medicare, Medicaid a některé soukromé pojistky mohou hradit část nákladů na péči o duševní zdraví.
 
-Pokud se cítíte v krizi nebo máte myšlenky ubližovat si, zavolejte nebo napište na 988 na [linku 988 Suicide & Crisis Lifeline](https://988lifeline.org/), která je bezplatná a dostupná nepřetržitě. Pokud je někdo v bezprostředním ohrožení, volejte 112.
+Pokud se cítíte v krizi nebo máte myšlenky ubližovat si, zavolejte nebo napište na 988 na [linku 988 Suicide & Crisis Lifeline](https://988lifeline.org/), která je bezplatná a dostupná 24/7. Pokud je někdo v bezprostředním ohrožení, volejte 112.
 
 ## Mohou mi sdílené aktivity přinést také odpočinek?
 
