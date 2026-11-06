@@ -99,7 +99,7 @@ En varm ton och en hand på armen, om hen gillar beröring, kan säga mer än or
 
 När du har bekräftat känslan kan en lugn, bekant aktivitet flytta uppmärksamheten utan att avfärda den.
 
-1. **Titta på bilder av hemmet och familjen.** Bläddra och kommentera (”Titta på den trädgården”) i stället för att ställa frågor. På en telefon eller surfplatta gör [Bildpar](/games/photo-pairs/) av era egna familjefoton ett lugnt memoryspel, och fotona stannar på din enhet.
+1. **Titta på bilder av hemmet och familjen.** Bläddra och kommentera (”Titta på den trädgården”) i stället för att ställa frågor. På en telefon eller surfplatta gör [Fotopar](/games/photo-pairs/) av era egna familjefoton ett lugnt memoryspel, och fotona stannar på din enhet.
 2. **Prata om hemmet.** [Samtalskort](/games/conversation-cards/) ger öppna frågor om hus, kök, grannar och högtider, utan några rätt eller fel svar.
 3. **Spela musik hen gillar.** National Institute on Aging nämner lugnande musik bland sätten att lugna oro. Se våra [musikaktiviteter](/activities/music/).
 4. **Ät något eller ta en dryck.** Hunger och törst kan se ut som rastlöshet. En kopp te eller en favoritgodis är också en liten ritual av att vara hemma.
