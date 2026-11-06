@@ -1,6 +1,6 @@
 name: golden_moments
 description: Gentle shared photo activities with offline starter games and selected family photos.
-version: 1.7.0+11
+version: 1.8.0+12
 publish_to: none
 
 environment:
