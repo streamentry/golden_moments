@@ -12,7 +12,7 @@ void main() {
   });
 
   test('an older saved choice with no contrast field loads with it off', () {
-    final old = GentlePreferences.fromJson({
+    final old = GentlePreferences.fromJson(const {
       'v': 1,
       'pairs': 4,
       'keepVisible': true,
@@ -22,17 +22,21 @@ void main() {
   });
 
   test('a damaged contrast value is treated as off, not as on', () {
-    final bad = GentlePreferences.fromJson({'v': 1, 'highContrast': 'yes'});
+    final bad = GentlePreferences.fromJson(const {
+      'v': 1,
+      'highContrast': 'yes',
+    });
     expect(bad.highContrast, isFalse);
   });
 
   test('the app-wide setting notifies only on a real change', () {
     final setting = HighContrastSetting();
     var calls = 0;
-    setting.addListener(() => calls++);
-    setting.set(enabled: true);
-    setting.set(enabled: true);
-    setting.set(enabled: false);
+    setting
+      ..addListener(() => calls++)
+      ..set(enabled: true)
+      ..set(enabled: true)
+      ..set(enabled: false);
     expect(calls, 2);
     expect(setting.enabled, isFalse);
   });
