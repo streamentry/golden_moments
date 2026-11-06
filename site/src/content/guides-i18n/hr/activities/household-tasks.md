@@ -24,7 +24,7 @@ faq:
     a: "Mnogi ljudi još mogu slagati rublje, sparivati čarape, razvrstavati pribor za jelo, postavljati stol, brisati pult, prašinati, pomesti, zalijevati biljke ili miješati zdjelu tijesta. Odaberite poslove koje je osoba radila u prošlosti i uskladite ih s onim što može sada. U kasnijim fazama dovoljan može biti jedan ponavljajući pokret, poput glačanja salveta."
   - q: "Je li sigurno da osoba s demencijom pomaže u kuhinji?"
     a: "Može biti, uz pažljiv nadzor i pravo postavljanje. Noževe, sredstva za čišćenje i sve što je vruće držite izvan dosega, koristite zaštitne poklopce na gumbima štednjaka ili automatsko isključivanje te osobi dajte siguran posao, poput pranja povrća, miješanja ili slaganja tanjura. Nikada je ne ostavljajte samu uz upaljen štednjak."
-  - q: "Što ako nešto loše slože ili napravе nered?"
+  - q: "Što ako nešto loše slože ili naprave nered?"
     a: "Pustite neka bude. Cilj je zajedničko vrijeme i osjećaj da je korisna, a ne savršen rezultat. Ako nešto stvarno treba ponoviti, pričekajte do kasnije i to napravite kad osoba ne gleda, kako se ne bi osjećala ispravljeno."
   - q: "Što ako odbiju pomoći?"
     a: "Ne mora značiti ništa više od toga da je posao trenutno pretežak, zbunjujuć ili zamoran. Ne forsirajte. Isprobajte jednostavniju verziju, zamolite je da Vam pravi društvo ili pitajte ponovno u boljem dobu dana."
@@ -124,7 +124,7 @@ Sigurnost dolazi na prvo mjesto, osobito u kuhinji. [Savjeti NIA-e za kućnu sig
 - Zaključajte ili uklonite sredstva za čišćenje, uključujući kapsule deterdženta za rublje, koje mogu izgledati kao bombone.
 - Noževe, makaze i električne alate spremite u zaključano područje.
 - Dodajte sigurnosne gumbe i automatsko isključivanje na štednjak.
-- Postavite natpise „Stop“ ili „Vrlo vruće“ blizu pećnice, tostera i peglе, tako da ne mogu zapaliti.
+- Postavite natpise „Stop“ ili „Vrlo vruće“ blizu pećnice, tostera i pegle, tako da ne mogu zapaliti.
 - Postavite grijač vode na 120°F kako biste smanjili rizik od opeklina.
 - Uklonite umjetno voće i magnete u obliku hrane, koji mogu izgledati jestivo.
 

@@ -86,7 +86,7 @@ A megfigyelő vizsgálatok nem tudják bizonyítani az ok-okozati összefüggés
 
 A legerősebb eddigi vizsgálat egy véletlenszerű vizsgálat volt, amelyet 2023-ban közöltek a New England Journal of Medicine folyóiratban ([MIND-étrend-vizsgálat](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Kik:** 604, 65 éves vagy idősebb felnőtt a chicagói és a bostoni térségből, akiknek nem voltak gondolkodási problémáik, akiknek közeli rokonuk volt demenciával, túlsúlyosak voltak, és kezdetben kevésbé egészséges étrendet ettek.
+- **Kik:** 604 felnőtt, akik 65 évesek vagy idősebbek a chicagói és a bostoni térségből, akiknek nem voltak gondolkodási problémáik, akiknek közeli rokonuk volt demenciával, túlsúlyosak voltak, és kezdetben kevésbé egészséges étrendet ettek.
 - **Mi történt:** három éven át a résztvevők fele a MIND-étrendet, fele a szokásos étrendjét követte. Mindkét csoportot arra kérték, hogy naponta mintegy 250 kalóriával kevesebbet egyen, és rendszeres coachingot kaptak okleveles dietetikusoktól.
 - **Eredmény:** a gondolkodási tesztek eredménye **mindkét** csoportban kissé javult. A csoportok közötti különbség kicsi volt, és **nem volt statisztikailag szignifikáns**. Az agyi vizsgálatok is hasonló változásokat mutattak mindkét csoportban.
 - **Testsúly:** mindkét csoport mintegy 5 kilogrammot (nagyjából 11 fontot) fogyott.

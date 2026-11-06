@@ -96,7 +96,7 @@ Kotityöt ovat tuttuja ja hyödyllisiä, mikä tekee niistä luonnollisen läht�
 1. **Taittakaa lämpimät pyyhkeet.** Kaataa kuivausrummusta kori pöydälle ja taittakaa rinnakkain. Myöhemmin tasoittaminen ja pinoaminen on yhtä hyödyllistä.
 2. **Pariinlajitelkaa sukat.** Aloittakaa hyvin erilaisilla väreillä. Myöhemmin riittää vaalean ja tumman erottelu.
 3. **Kattakaa pöytä.** Ojentakaa yksi tavaralaji kerrallaan. Kattakaa yksi paikka itse mallina.
-4. **Pesette tai kuivatkaa astiat.** Lämmin saippuavesi ja särkymättömät astiat. Kuivaaminen istuen on jaloille helpompaa.
+4. **Pestkää tai kuivatkaa astiat.** Lämmin saippuavesi ja särkymättömät astiat. Kuivaaminen istuen on jaloille helpompaa.
 5. **Pyyhkikää pöytä.** Ojentakaa kostea liina aterian jälkeen. Se on todellista työtä levottomille käsille.
 6. **Lajitelkaa posti.** Luettelot ja mainospostit kasoihin ”säilytä” ja ”kierrätä”. Oikeat laskut pois.
 7. **Leikatkaa kuponkeja.** Pyöreäkärkiset sakset ja kauppojen mainoslehdet. Myöhemmin lempiruokien ympyröiminen käy myös.

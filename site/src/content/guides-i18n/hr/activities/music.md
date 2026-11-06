@@ -57,7 +57,7 @@ Najkorisnije što možete napraviti jest popis glazbe koja nešto znači ovoj os
 
 ### Krenite od njihova života
 
-- **Njihove tinejdžerske godine i dvadesete.** Razmislite što se svirало na radiju, na plesovima i u filmovima kad su bili mladi.
+- **Njihove tinejdžerske godine i dvadesete.** Razmislite što se sviralo na radiju, na plesovima i u filmovima kad su bili mladi.
 - **Velike trenutke.** Glazba na vjenčanju, prvi ples, omiljeni album s obiteljskog putovanja automobilom.
 - **Vjera i kultura.** Crkvene pjesme, gospel, sakralna glazba ili pjesme na njihovu prvom jeziku.
 - **Posao i služba.** Vojni orkestri, pjesme s posla ili glazba vezana uz razdoblje u vojsci.

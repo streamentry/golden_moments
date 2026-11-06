@@ -52,7 +52,7 @@ health: true
 
 El dejuni intermitent, com menjar només dins d’una finestra de vuit hores o reduir molt les calories dos dies per setmana, rep molta atenció, i alguns articles suggereixen que podria protegir el cervell. Si és una persona gran, o si cuida algú que viu amb demència, aquí tot seguit el que mostra realment la recerca i per què cal tenir precaució.
 
-Aquesta és informació general, no un consell mèdic. No comenci cap dejuni, ni canviï la manera de menjar de la persona que cuida, sense parlar-ne amb un metge o amb un dietista-nutricionista. Vegi el nostre [avís d’informació sobre salut](/medical-disclaimer/).
+Aquesta és informació general, no un consell mèdic. No comenci cap dejuni, ni canviï la manera de menjar de la persona a qui cuida, sense parlar-ne amb un metge o amb un dietista-nutricionista. Vegi el nostre [avís d’informació sobre salut](/medical-disclaimer/).
 
 ## El dejuni intermitent previn la demència?
 

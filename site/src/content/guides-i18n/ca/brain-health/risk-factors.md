@@ -114,4 +114,4 @@ Una revisió anual és un bon moment per tractar aquests temes. Pot portar aques
 - L’activitat que faig és segura i suficient per a mi?
 - Algun dels meus medicaments podria afectar la memòria o el pensament?
 
-Abans de canviar medicaments, dieta, dejuni, exercici o suplements, parli primer amb un metge. Si vostè o la persona que cuida té confusió sobtada, debilitat en un costat o dificultats per parlar, truqui al 112 (a Europa) o al 911 (als Estats Units).
+Abans de canviar medicaments, dieta, dejuni, exercici o suplements, parli primer amb un metge. Si vostè o la persona a qui cuida té confusió sobtada, debilitat en un costat o dificultats per parlar, truqui al 112 (a Europa) o al 911 (als Estats Units).

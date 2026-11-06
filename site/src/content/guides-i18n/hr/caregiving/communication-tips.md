@@ -1,6 +1,6 @@
 ---
 title: "Savjeti za razgovor s osobom koja ima demenciju"
-seoTitle: "Savjeti za komunikaciju kod demencije: što reći i čega se kloniti"
+seoTitle: "Savjeti za komunikaciju kod demencije: što reći, a što ne"
 description: "Praktični načini razgovora s osobom koja živi s demencijom: kako započeti razgovor, što reći umjesto ispitivanja ili ispravljanja te kako slušati."
 section: caregiving
 order: 2

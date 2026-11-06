@@ -84,7 +84,7 @@ A Cochrane-áttekintések, amelyek a legjobb elérhető vizsgálatokat összegzi
 
 ## Mit találtak az ACTIVE-vizsgálatban?
 
-Az ACTIVE egy nagy amerikai vizsgálat, amely 1998-ban indult 2802, 65 éves vagy idősebb felnőttel, akik önállóan éltek, és nem volt jelentős emlékezeti vagy gondolkodási problémájuk. A résztvevőket véletlenszerűen osztották be három típusú kiscsoportos edzés egyikébe (feldolgozási sebesség, memória vagy gondolkodás), vagy a nem edzett kontrollcsoportba. Az edzés legfeljebb tíz alkalom volt, öt-hat hét alatt. Akik a legtöbb alkalmon részt vettek, közülük sokan véletlenszerűen meghívást kaptak **felfrissítő alkalmakra**, körülbelül egy és három évvel később.
+Az Az ACTIVE egy nagy amerikai vizsgálat, amely 1998-ban indult, 2802 felnőttel, akik 65 évesek vagy idősebbek voltak, önállóan éltek, és nem volt jelentős emlékezeti vagy gondolkodási problémájuk. A résztvevőket véletlenszerűen osztották be három típusú kiscsoportos edzés egyikébe (feldolgozási sebesség, memória vagy gondolkodás), vagy a nem edzett kontrollcsoportba. Az edzés legfeljebb tíz alkalom volt, öt-hat hét alatt. Akik a legtöbb alkalmon részt vettek, közülük sokan véletlenszerűen meghívást kaptak **felfrissítő alkalmakra**, körülbelül egy és három évvel később.
 
 A sebességedzés során vizuális információt kellett felismerni és feldolgozni egyre rövidebb villanások alatt, a nehézségi szint pedig a javulással együtt nőtt.
 

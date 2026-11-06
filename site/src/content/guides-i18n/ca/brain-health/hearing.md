@@ -81,7 +81,7 @@ La conclusió és que els audífons no són una manera demostrada de prevenir la
 
 ## Com sé si cal revisar l’audició?
 
-El NIA aconsella consultar un metge si vostè o la persona que cuida:
+El NIA aconsella consultar un metge si vostè o la persona a qui cuida:
 
 - Té dificultats per entendre la gent al telèfon
 - Li costa seguir les converses quan parlen dues o més persones

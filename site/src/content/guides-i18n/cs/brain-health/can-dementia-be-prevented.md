@@ -151,7 +151,7 @@ Proto jsou doporučení Komise zaměřena spíše na vlády než jen na jednotli
 
 Protože demence nevzniká jen jako výsledek volby. NIA uvádí, že [věk je největším známým rizikovým faktorem Alzheimerovy choroby](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), a nikdo ho nemůže změnit. Hrají roli i geny. A vědci zatím v většině případů plně nechápou, co Alzheimerovu chorobu způsobuje. I kdyby se odstranilo všech 14 rizikových faktorů, podle vlastního odhadu Komise Lancet by zůstala více než polovina případů nevysvětlena.
 
-Pokud pečujete o člověka, který cvičil, zdravě jedl, nikdy nekouřil a přesto dostal demenci, nic špatného neudělal ani on, ani vy. Pokud sami žijete s demencí, nejste za ni vinni. Pocit viny je mezi rodinami běžný, ale není zasloužený. Teď jde o pohodlí, spojení a dobré dny. Dobrým místem k začátku jsou naše [nápady na aktivity](/activities/ideas/) a [návod péče o sebe pro pečující](/caregiving/caregiver-self-care/).
+Pokud pečujete o člověka, který cvičil, zdravě jedl, nikdy nekouřil a přesto dostal demenci, nic špatného neudělal ani on, ani vy. Pokud sami žijete s demencí, nejste za ni vinni. Pocit viny je mezi rodinami běžný, ale není zasloužený. Teď jde o pohodlí, spojení a dobré dny. Dobrým místem k začátku jsou naše [nápady na aktivity](/activities/ideas/) a návod [péče o sebe](/caregiving/caregiver-self-care/).
 
 ## Které kroky můžete probrat s lékařem?
 

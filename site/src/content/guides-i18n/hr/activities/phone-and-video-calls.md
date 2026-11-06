@@ -67,7 +67,7 @@ Donesite svoj svijet njima. Polako pomičite kameru po vrtu, predstavite psa, po
 
 ### Gledajte fotografije zajedno
 
-Pokažite staru fotografiju u kameru ili podijelite zaslon da prikažete nekoliko velikih fotografija jednu po jednu. Razgovarajte o onome što primjećujete: „Gle Deddin šešir.“ Izbjegavajte „Tko je ovo?“ ili „Sjećaš li se?“ Ako osoba nekoga pogrešno imenuje, složite se s tim. Naš vodič o [aktivnostima prisjećanja](/activities/reminiscence/) ima nježne poticaje.
+Pokažite staru fotografiju u kameru ili podijelite zaslon da prikažete nekoliko velikih fotografija jednu po jednu. Razgovarajte o onome što primjećujete: „Gle, dedin šešir.“ Izbjegavajte „Tko je ovo?“ ili „Sjećaš li se?“ Ako osoba nekoga pogrešno imenuje, složite se s tim. Naš vodič o [aktivnostima prisjećanja](/activities/reminiscence/) ima nježne poticaje.
 
 ### Čitajte naglas
 

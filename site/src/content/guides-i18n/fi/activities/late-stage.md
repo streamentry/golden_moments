@@ -18,7 +18,7 @@ keyPoints:
   - "Musiikki, lempeä kosketus, tutut äänet ja pehmeät esineet pidettävinä tavoittavat usein ihmisen silloin, kun sanat eivät enää riitä."
   - "Lähes jokainen tässä esitetty idea sopii ihmiselle, joka on sängyssä tai tuolissa."
   - "Seuratkaa mukavuuden ja epämukavuuden merkkejä kasvoista, käsistä ja hengityksestä ja lopettakaa heti, jos havaitsette hätää."
-  - "Vältä pieniä esineitä ja tarjoa ruokaa tai juomaa vain hoitotiimin neuvon mukaan, koska nieleminen voi muuttua turvattomaksi."
+  - "Välttäkää pieniä esineitä ja tarjotkaa ruokaa tai juomaa vain hoitotiimin neuvon mukaan, koska nieleminen voi muuttua turvattomaksi."
 faq:
   - q: "Mitä toimintoja voi tehdä myöhäisvaiheen dementiaa sairastavan kanssa, joka on sängyssä?"
     a: "Soittakaa hänen lempimusiikkiaan, pitäkää kädestä, antakaa hidas käsihieronta voiteella, lukekaa ääneen kirjasta tai rukouksesta, jota hän rakastaa, näyttäkää valokuvia tai soittakaa lempeitä luonnon ääniä. Avatkaa verhot, jotta hän näkee ulos. Lyhyet, rauhalliset hetket, joissa on yksi asia kerrallaan, toimivat yleensä parhaiten."
@@ -74,7 +74,7 @@ Yksinkertaiset aistitoiminnat ja hiljainen seura auttavat eniten myöhäisvaihee
 13. **Tehkää vapaamuotoista taidetta.** Levittäkää myrkytöntä maalia suurelle paperille sienellä tai kädellä, teidän ohjaamanne mukaan. Oikeaa lopputulosta ei ole.
 14. **Toivottakaa eläinvierailut tervetulleiksi.** Rauhallinen lemmikki sängyllä tai sylissä, jos henkilö piti eläimistä ja tilanne sen sallii.
 15. **Hengittäkää hitaasti yhdessä.** Istukaa lähellä ja hengittäkää hitaasti ja äänekkäästi. [Rauhallinen hengitys](/games/calm-breathing/) voi rytmittää teidät molemmat, ja te aloitatte ja lopetatte sen.
-16. **Olkaa vain siinä.** Istukaa lähellä ja hyräilkää, neuloketeko tai lukekaa hiljaa. Läsnäolo riittää.
+16. **Olkaa vain siinä.** Istukaa lähellä, hyräilkää, neulokaa tai lukekaa hiljaa. Läsnäolo riittää.
 
 ## Miten jaan toiminnan tässä vaiheessa
 

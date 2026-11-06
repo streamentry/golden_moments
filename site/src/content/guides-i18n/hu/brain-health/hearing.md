@@ -71,7 +71,7 @@ A halláscsökkenés gyakori. A [National Institute on Aging (NIA)](https://www.
 
 Az ACHIEVE volt az első véletlenszerű vizsgálat hallókészülékekről és a kognitív hanyatlásról. Eredményeit gyakran félreértelmezik, ezért itt vannak a részletek a [közzétett vizsgálati jelentésből](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/):
 
-- **Kik vettek részt:** 977, 70 és 84 év közötti felnőtt, kezeletlen halláscsökkenéssel és jelentős gondolkodási problémák nélkül, négy amerikai közösségi helyszínen.
+- **Kik vettek részt:** 70 és 84 év közötti felnőttek, kezeletlen halláscsökkenéssel és jelentős gondolkodási problémák nélkül, négy amerikai közösségi helyszínen; összesen 977 fő.
 - **Mit hasonlítottak össze:** A résztvevők fele hallókészüléket kapott, plusz tanácsadó üléseket audiológussal. A másik fele az egészséges öregedésről szóló egészségnevelő programot kapta.
 - **Fő eredmény:** Három év után **nem volt különbség** a két csoport kognitív hanyatlásában összességében.
 - **Részcsoportos eredmény:** A vizsgálat két forrásból toborzott. 238 személy egy régi szívegészségügyi vizsgálatból (ARIC) érkezett, és csoportként magasabb kockázattal éltek a kognitív hanyatlásra. Ebben a csoportban a hanyatlás **48%-kal lassabb** volt hallókészülékkel. A 739 egészséges közösségi önkéntes között nem volt egyértelmű hatás.

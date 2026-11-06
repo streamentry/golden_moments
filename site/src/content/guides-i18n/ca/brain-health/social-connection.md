@@ -115,6 +115,6 @@ El NIA inclou cuidar un ser estimat com a factor de risc d’aïllament. Reservi
 
 ## Parli amb un metge
 
-Si vostè o la persona que cuida se sent sola o aïllada gran part del temps, digui-ho a un metge. El NIA anima les persones a explicar els grans canvis de la vida, com una mort a la família, perquè el metge entengui el quadre complet. Sentir-se decaigut durant setmanes seguides pot ser depressió, i té tractament. Si una persona gran s’ha allunyat fa poc dels amics o de les activitats que li agradaven, aquest canvi també val la pena comentar-lo amb un metge. Llegeixi [senyals precoços i quan cal consultar un metge](/brain-health/warning-signs/).
+Si vostè o la persona a qui cuida se sent sola o aïllada gran part del temps, digui-ho a un metge. El NIA anima les persones a explicar els grans canvis de la vida, com una mort a la família, perquè el metge entengui el quadre complet. Sentir-se decaigut durant setmanes seguides pot ser depressió, i té tractament. Si una persona gran s’ha allunyat fa poc dels amics o de les activitats que li agradaven, aquest canvi també val la pena comentar-lo amb un metge. Llegeixi [senyals precoços i quan cal consultar un metge](/brain-health/warning-signs/).
 
 Aquesta pàgina és informació general, no un consell mèdic. Vegi el nostre [avís d’informació sobre salut](/medical-disclaimer/).

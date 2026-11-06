@@ -112,7 +112,7 @@ El son interromput també desgasta les persones cuidadores. La nostra [guia d’
 
 L’apnea del son provoca pauses breus en la respiració durant el son, sovint moltes vegades cada nit. El NIA diu que, si no es tracta, pot portar problemes com la hipertensió, l’ictus o la pèrdua de memòria. Els signes inclouen roncs forts i somnolència durant el dia, i molta gent no sap que la té. La Comissió del Lancet descriu una revisió de 11 estudis en què les persones amb apnea del son tenien un risc de demència aproximadament un 43 % més alt. Tanmateix, pocs d’aquests estudis van tenir en compte el pes corporal, així que l’associació és incerta.
 
-L’apnea del son es pot diagnosticar i tractar. El NIA assenyala que un aparell CPAP gairebé sempre ajuda. Si vostè o la persona que cuida rona fort, deixa de respirar durant el son o té molta son durant el dia, digui-ho a un metge.
+L’apnea del son es pot diagnosticar i tractar. El NIA assenyala que un aparell CPAP gairebé sempre ajuda. Si vostè o la persona a qui cuida rona fort, deixa de respirar durant el son o té molta son durant el dia, digui-ho a un metge.
 
 ## Una nota sobre els medicaments per dormir
 
@@ -120,6 +120,6 @@ No donem consells sobre medicaments per dormir ni suplements. El NIA assenyala q
 
 ## Parli amb un metge
 
-Consulti un metge si vostè o la persona que cuida està sempre cansada, té dificultats per dormir la majoria de nits, ronca fort o té pauses en la respiració durant la nit. Si els problemes de son en la demència continuen, el [NIA aconsella](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) demanar consell mèdic. Una revisió mèdica pot trobar causes com el dolor, un altre trastorn del son, una malaltia o un efecte secundari d’un medicament. Una confusió de cop, o un canvi sobtat del son juntament amb confusió, necessita atenció urgent. Llegeixi [quan cal consultar un metge](/brain-health/warning-signs/).
+Consulti un metge si vostè o la persona a qui cuida està sempre cansada, té dificultats per dormir la majoria de nits, ronca fort o té pauses en la respiració durant la nit. Si els problemes de son en la demència continuen, el [NIA aconsella](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) demanar consell mèdic. Una revisió mèdica pot trobar causes com el dolor, un altre trastorn del son, una malaltia o un efecte secundari d’un medicament. Una confusió de cop, o un canvi sobtat del son juntament amb confusió, necessita atenció urgent. Llegeixi [quan cal consultar un metge](/brain-health/warning-signs/).
 
 Aquesta pàgina és informació general, no un consell mèdic. Vegi el nostre [avís d’informació sobre salut](/medical-disclaimer/).
