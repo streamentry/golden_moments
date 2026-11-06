@@ -27,7 +27,7 @@ faq:
   - q: "Com faig el bingo d’imatges sense que sigui competitiu?"
     a: "Canti cada imatge fins que totes les targetes estiguin plenes, perquè ningú no es quedi fora. Parli de cada imatge quan surti, i no doni premis als guanyadors, o doni a tothom el mateix petit obsequi. L’important és l’atenció compartida i la conversa, no qui acaba primer."
   - q: "Puc fer servir els seus jocs en una pantalla gran en un grup?"
-    a: "Sí. Els nostres jocs funcionen en un navegador web, així que els pot obrir en un portàtil o una tauleta connectats a un televisor o a un projector. El bingo d’imatges inclou targetes per imprimir i un locutor a la pantalla. Acabar el refrany i les parelles d’imatges també funcionen molt bé en una pantalla gran, amb una persona que toca per al grup."
+    a: "Sí. Els nostres jocs funcionen en un navegador web, així que els pot obrir en un portàtil o una tauleta connectats a un televisor o a un projector. El bingo d’imatges inclou targetes per imprimir i un cantador a la pantalla. Acabar el refrany i les parelles d’imatges també funcionen molt bé en una pantalla gran, amb una persona que toca per al grup."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -94,11 +94,11 @@ El bingo d’imatges substitueix els números per imatges clares, com una tetera
 
 1. Imprimeixi una targeta per persona des de la nostra pàgina del [Bingo d’imatges](/games/picture-bingo/) amb el botó d’imprimir. El paper gruixut és més fàcil de manejar. Plastifiqui-les per reutilitzar-les.
 2. Doni marcadors grans i fàcils d’agafar, com fitxes de pòquer, taps d’ampolla o quadrats de cartró.
-3. Faci servir el locutor de la pantalla en un televisor o un projector perquè tothom vegi la imatge mentre vostè diu com es diu.
+3. Faci servir el cantador de la pantalla en un televisor o un projector perquè tothom vegi la imatge mentre vostè diu com es diu.
 4. Faci una pausa després de cada imatge i convidi a fer un comentari breu: «Algú ens vol explicar un gos que hagi conegut?» o «Què hi veu, en aquesta?».
 5. Continuï cridant fins que totes les targetes estiguin plenes. Tothom acaba.
 
-**Adaptació:** faci servir menys caselles per a les persones a qui una targeta plena els sembla massa carregada. Un ajudant pot assenyalar la imatge corresponent per a algú que ho necessiti. Algunes persones prefereixen sostenir la targeta de la imatge que cantarà el locutor i ensenyar-la al grup.
+**Adaptació:** faci servir menys caselles per a les persones a qui una targeta plena els sembla massa carregada. Un ajudant pot assenyalar la imatge corresponent per a algú que ho necessiti. Algunes persones prefereixen sostenir la targeta de la imatge que cantarà el cantador i ensenyar-la al grup.
 
 ### Cantades
 

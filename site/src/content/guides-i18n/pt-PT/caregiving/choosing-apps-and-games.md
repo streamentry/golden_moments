@@ -1,6 +1,6 @@
 ---
 title: "Como escolher aplicações e jogos para demência"
-seoTitle: "Como escolher aplicações e jogos para demência: lista de verificação"
+seoTitle: "Escolher aplicações e jogos para demência: lista de verificação"
 description: "Lista de verificação para cuidadores: defina o objetivo, evite cronómetros e anúncios, confira a privacidade e leia as alegações sobre provas com cuidado."
 section: caregiving
 order: 6

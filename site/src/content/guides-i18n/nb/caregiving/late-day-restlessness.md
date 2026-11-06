@@ -122,7 +122,7 @@ Unngå nye spill, travle turer og alt som krever mye hukommelse eller konsentras
 
 Vær rolig, betryggende, og led forsiktig over til noe annet. NIA foreslår å snakke rolig, lytte til personens bekymringer, unngå krangel, forsikre dem om at de er trygge, og bruke forsiktig berøring hvis det hjelper. Prøv deretter en avledning: en matbit, en drikke, musikk eller en tur.
 
-Alzheimer's Association foreslår fraser som «Du er trygg her» og «Jeg beklager at du er opprørt», og råder til å legge til lys, senke tempoet og begrense stimulering. Ikke klem inn, trang eller hold personen fast, og ikke krangle med dem.
+Alzheimer's Association foreslår fraser som «Du er trygg her» og «Jeg beklager at du er opprørt», og råder til å legge til lys, senke tempoet og begrense stimulering. Ikke sett personen i et hjørne, ikke trykk dem inntil veggen, ikke hold dem fast, og ikke krangle med dem.
 
 Hvis personen blir aggressiv, råder NIA til å holde en trygg avstand til atferden stopper. I en nødsituasjon, ring 911 og forklar at personen har demens.
 
