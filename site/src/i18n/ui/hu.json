@@ -1,0 +1,533 @@
+{
+  "common": {
+    "skipLink": "Ugrás a fő tartalomra",
+    "brandName": "Golden Moments",
+    "brandTag": "Demencia-tevékenységek",
+    "homeLabel": "Golden Moments kezdőlap",
+    "mainNav": "Főmenü",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: nagy, barátságos képek egy teáscsészéről, egy napraforgóról és egy kutyáról",
+    "languages": "Nyelv",
+    "englishOnly": "(angolul)",
+    "machineTranslated": "Ezt az oldalt automatikusan fordítottuk, anyanyelvi olvasó még nem ellenőrizte.",
+    "readOriginal": "Az eredeti angol változat elolvasása",
+    "nav": {
+      "games": "Játékok",
+      "activities": "Tevékenységek",
+      "caregiving": "Gondozás",
+      "brainHealth": "Agyi egészség"
+    },
+    "faqTitle": "Kérdések és válaszok",
+    "breadcrumb": "Navigációs útvonal",
+    "home": "Kezdőlap",
+    "lastUpdated": "Utolsó frissítés",
+    "topics": "Témák"
+  },
+  "footer": {
+    "play": "Játék",
+    "picturePairs": "Képpárok",
+    "conversationCards": "Beszélgetőkártyák",
+    "pictureBingo": "Képes bingó",
+    "allGames": "Minden játék",
+    "activityIdeas": "Tevékenységötletek",
+    "ideas101": "101 tevékenységötlet",
+    "lateStage": "Tevékenységek a későbbi szakaszra",
+    "printable": "Nyomtatható tevékenységek",
+    "allActivities": "Minden tevékenység",
+    "forCaregivers": "Gondozóknak",
+    "playTogether": "Hogyan játsszunk együtt",
+    "selfCare": "Gondoskodás önmagunkról",
+    "brainHealth": "Kutatások az agyi egészségről",
+    "faq": "Kérdések és válaszok",
+    "about": "Rólunk",
+    "approach": "Szemléletünk",
+    "howWeWrite": "Hogyan írunk",
+    "organizations": "Szervezeteknek",
+    "app": "A Golden Moments alkalmazás",
+    "appHelp": "Alkalmazássúgó",
+    "support": "Ügyfélszolgálat",
+    "legal": "Jogi tudnivalók",
+    "sitePrivacy": "A weboldal adatvédelme",
+    "appPrivacy": "Az alkalmazás adatvédelmi irányelvei",
+    "privacyChoices": "Adatvédelmi lehetőségek",
+    "terms": "Feltételek és alkalmazáslicenc",
+    "safety": "Biztonság és rendeltetés",
+    "accessibility": "Akadálymentesség",
+    "healthNotice": "Egészségügyi tájékoztató",
+    "allLegal": "Minden jogi tudnivaló",
+    "note": "A Golden Moments egyszerű, közös, kikapcsolódásra szánt tevékenységeket kínál. Nem orvosi tanács, nem teszt és nem kezelés, és nem diagnosztizál, mér vagy pontoz senkit. Egészségügyi kérdéssel forduljon orvoshoz. Vészhelyzetben hívja a 112-es segélyhívószámot.",
+    "publisher": "Kiadó: Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Demencia és Alzheimer-kór: játékok és tevékenységek | Golden Moments",
+    "description": "Ingyenes, nyugodt képes játékok online, és tevékenységötletek demenciával vagy Alzheimer-kórral élő embereknek és gondozóiknak. Regisztráció, időzítő és pontszám nélkül.",
+    "eyebrow": "Ingyenes · Reklámmentes · Regisztráció nélkül · Időzítő és pontszám nélkül",
+    "h1": "Nyugodt játékok és tevékenységek demenciával élőknek",
+    "lede": "Egyszerű képes játékok, ismerős fotók és közös tevékenységek, saját tempóban.",
+    "playGame": "Játék indítása",
+    "findIdeas": "Tevékenységötletek",
+    "facts": [
+      "Telefonon, táblagépen és számítógépen is működik",
+      "Nagy képek, amelyek végig látszanak",
+      "Bármikor abbahagyható, nincs mit elrontani"
+    ],
+    "heroApp": "Ingyenes alkalmazás is van iPhone-ra, iPadre és Androidra, saját családi fotókkal",
+    "albumNote": "„Két kép a teáscsészéről, együtt.”",
+    "gamesEyebrow": "Játék a böngészőben",
+    "gamesTitle": "Játékok, amelyeket most azonnal kipróbálhat",
+    "gamesLede": "Mindegyik nyugodt, felnőtteknek való és gyorsan indul. Válasszon egyet, üljenek egymás mellé, és érintsenek felváltva.",
+    "seeAllGames": "Mind a(z) {count} játék",
+    "howTitle": "Hogyan működik",
+    "steps": [
+      {
+        "title": "Válasszon valami ismerőst",
+        "text": "Képek teáscsészékről, kertekről, házi kedvencekről és vitorlásokról. Nem kell olvasni, és előbb szabályokat sem kell megtanulni."
+      },
+      {
+        "title": "Üljenek egymás mellé",
+        "text": "Hagyja, hogy ő érintsen. Beszélgessenek a képekről. Ha két kép nem egyezik, a játék egyszerűen vár a következő érintésig."
+      },
+      {
+        "title": "Hagyják abba, amíg jó",
+        "text": "Egy játék már teljes tevékenység. A „Mára elég” mindig ott van a képernyőn."
+      }
+    ],
+    "stageEyebrow": "A képernyőn túl",
+    "stageTitle": "Tevékenységötletek minden szakaszra",
+    "stageLede": "Zene, mindennapi feladatok, régi emlékek felidézése és csendes érzékszervi pillanatok, ahhoz igazítva, ami most kényelmes.",
+    "ideas101": "101 tevékenységötlet",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Korai szakasz",
+        "text": "Folytassák, amit szeretnek, apró módosításokkal: hobbik, kirándulások, szójátékok és közös tervezés.",
+        "label": "Ötletek a korai szakaszra"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Középső szakasz",
+        "text": "Egyszerű, ismerős feladatok lépésekre bontva: hajtogatás, válogatás, zene, képes játékok és rövid séták.",
+        "label": "Ötletek a középső szakaszra"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Későbbi szakasz",
+        "text": "Kényelem és kapcsolat érintéssel, hanggal és látvánnyal: kézápolás, kedvenc dalok, fotók és az együttlét.",
+        "label": "Ötletek a későbbi szakaszra"
+      }
+    ],
+    "specificHtml": "Valami konkrétat keres? Próbálja ki az <a href=\"/activities/alzheimers/\">Alzheimer-kórral kapcsolatos tevékenységeket és játékokat</a>, a <a href=\"/activities/memory-games/\">nyugodt emlékezős játékokat</a>, az <a href=\"/activities/trivia/\">könnyű találós kérdéseket</a> vagy a <a href=\"/activities/puzzles/\">kirakókat</a>.",
+    "approachEyebrow": "Szemléletünk",
+    "approachTitle": "Közös tevékenység, nem emlékezetpróba",
+    "approachLede": "Sok „agytorna” a gyorsaságra, a pontszámra és a sorozatokra épül. Demenciával élő embernek ez vizsgának tűnhet. Mi az ellenkezőjét készítettük.",
+    "approachLink": "Miért így tervezzük",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "Nincs mit elrontani",
+        "text": "Nincs óra, pontszám, élet vagy vesztés. Ha egy kép más, az szünet, nem hiba."
+      },
+      {
+        "icon": "eye",
+        "title": "A képek végig látszanak",
+        "text": "Felismerés az emlékezés helyett. A párosítás felfordított képekkel indul, így semmit sem kell megjegyezni."
+      },
+      {
+        "icon": "people",
+        "title": "Felnőttekhez illő, méltóságteljes",
+        "text": "Meleg, egyszerű szavak és valódi képek. Soha nem rajzfilmszerű vagy gyerekes."
+      },
+      {
+        "icon": "shield",
+        "title": "Alapból privát",
+        "text": "Nincs fiók és nincs reklám. A fotói sosem hagyják el az eszközét."
+      }
+    ],
+    "guidesEyebrow": "Gondozóknak",
+    "guidesTitle": "Gyakorlati útmutatók a mindennapokhoz",
+    "allCaregiving": "Minden gondozási útmutató",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Hogyan játsszunk együtt",
+        "text": "Előkészítés, tempó, és mit tegyen, ha a játék már nem jó."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Ha nemet mond egy tevékenységre",
+        "text": "A visszautasítás gyakori okai, és finom módok a későbbi újrapróbálásra."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "A táblagép beállítása",
+        "text": "Nagyobb szöveg, kevesebb megszakítás és egyetlen egyszerű kezdőképernyő."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Ingyenes nyomtatható tevékenységek",
+        "text": "Nagybetűs szókeresők, színezők, bingó és beszélgetőkártyák."
+      }
+    ],
+    "researchTitle": "Agyi egészség: mit mond valójában a kutatás",
+    "researchText": "Megelőzhető a demencia? Segítenek az agytornák? Mi a helyzet a böjtöléssel, az étrenddel, az alvással és a hallással? Egyszerű, forrásokkal alátámasztott válaszok, azt is megmondva, hol gyengék a bizonyítékok.",
+    "researchLink": "A kutatási útmutatók elolvasása",
+    "appEyebrow": "Alkalmazásként is",
+    "appTitle": "Golden Moments iPhone-on, iPaden és Androidon",
+    "appText": "Az ingyenes alkalmazás internet nélkül is működik, és használhatja az Ön által választott családi fotókat, amelyek másolatként az eszközén maradnak. Ugyanaz a nyugodt kialakítás: négy nagy kártya, időzítő és pontszám nélkül.",
+    "aboutApp": "Az alkalmazásról",
+    "faq": [
+      {
+        "q": "Mik a jó játékok demenciával élő embereknek?",
+        "a": "A jó játékok egyszerűek, ismerősek és nyomásmentesek: nagy képek párosítása, válogatás, könnyű kirakók, ismert mondások befejezése, színezés, képes bingó és beszélgetőkártyák. A legjobb választás az, amit a másik ember ma szívesen csinál. Kerülje az időzítőt, a pontszámot és mindent, ami tesztre emlékeztet."
+      },
+      {
+        "q": "Ingyenesek ezek a demencia-játékok?",
+        "a": "Igen. A Golden Moments minden játéka és nyomtatnivalója ingyenes, fiók, regisztráció és letöltés nélkül. A játékok a böngészőben futnak telefonon, táblagépen vagy számítógépen."
+      },
+      {
+        "q": "Megelőzik a demenciát az agytornák?",
+        "a": "Egyetlen játékról sem bizonyították, hogy megelőzi a demenciát, és a Golden Moments sem állítja, hogy bármit kezelne vagy megelőzne. Játékaink az élvezetre és az együtt töltött időre valók. Az agyi egészségről szóló részünk elmagyarázza, mit mutat és mit nem mutat a kutatás."
+      },
+      {
+        "q": "Alkalmasak ezek a játékok Alzheimer-kórral élő embernek?",
+        "a": "Igen. Az Alzheimer-kór a demencia leggyakoribb oka, és a játékokat ennek figyelembevételével készítettük: nagy képek, amelyek végig látszanak, kevés választási lehetőség, és semmit sem kell megjegyezni vagy elrontani. A párosítás, a válogatás és az ismert mondások befejezése a régóta ismert dolgokra épít, nem új tanulásra."
+      },
+      {
+        "q": "Használhatják ezeket a tevékenységeket a demencia későbbi szakaszában lévők?",
+        "a": "Gyakran igen, ha valaki mellettük van. Kezdjék a Keresd az egyformát játékkal két képpel, a Képpárok játékkal négy kártyával, egy színezővel vagy egy nyugodt légzőszünettel. Legyen rövid, kövesse a másik ember jelzéseit, és hagyják abba, ha elég volt."
+      },
+      {
+        "q": "Privát az adataim?",
+        "a": "A webhelyen nincs fiók és nincs reklám. A Google Analytics szolgáltatással azt nézzük, mely oldalakat látogatják. A Fotópárok játékhoz választott fotók csak a böngészőjében jelennek meg, és soha nem kerülnek feltöltésre."
+      },
+      {
+        "q": "Ki készíti a Golden Moments-et?",
+        "a": "A Golden Moments egy kis csapat, amely nyugodt, felnőtteknek szóló képes tevékenységeket készít családoknak és gondozóknak, a weben és ingyenes alkalmazásként. Nem vagyunk klinikai szakemberek, és semmi itt nem orvosi tanács."
+      }
+    ]
+  },
+  "stage": {
+    "early": "korai",
+    "middle": "középső",
+    "late": "későbbi",
+    "hintOne": "Gyakran illik a(z) {list} szakaszhoz",
+    "hintMany": "Gyakran illik a(z) {list} szakaszokhoz",
+    "labelEarly": "Korai szakasz",
+    "labelMiddle": "Középső szakasz",
+    "labelLate": "Későbbi szakasz"
+  },
+  "cards": {
+    "aboutGame": "A játékról",
+    "printable": "Nyomtatható",
+    "play": "Játék: {name} →",
+    "readGuide": "Az útmutató elolvasása"
+  },
+  "playCta": {
+    "title": "Készen áll egy nyugodt játékra?",
+    "text": "Nagy képek, időzítő és pontszám nélkül, regisztráció nélkül. Játsszanak együtt a böngészőben.",
+    "play": "Játék indítása",
+    "all": "Minden játék",
+    "aria": "Játék indítása"
+  },
+  "appCta": {
+    "title": "Vigye magával ezeket a játékokat",
+    "text": "Az ingyenes Golden Moments alkalmazás iPhone-ra, iPadre és Androidra: nagy képkártyák, játékok saját családi fotókkal, és képcsomagok, amelyek Wi‑Fi nélkül is működnek. Nincs fiók, reklám, időzítő vagy pontszám.",
+    "appStore": "Letöltés az App Store-ból",
+    "googlePlay": "Letöltés a Google Playről",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "Az alkalmazásról",
+    "aria": "Az alkalmazás letöltése"
+  },
+  "sections": {
+    "activities": {
+      "label": "Tevékenységek",
+      "title": "Tevékenységek demenciával élőknek",
+      "seo": "Tevékenységek demenciával élőknek: ötletek szakaszok szerint",
+      "description": "Tevékenységötletek demenciával élő embereknek a betegség minden szakaszára: zene, emlékek felidézése, mindennapi feladatok, érzékszervi pillanatok, kézművesség, szabadtéri programok és ingyenes nyomtatnivalók.",
+      "lede": "Értelmes tevékenység minden, ami kényelmet, célt vagy egy kapcsolódási pillanatot ad. Induljon abból, amit a másik ember mindig is szeretett, és igazítsa a mai naphoz."
+    },
+    "caregiving": {
+      "label": "Gondozás",
+      "title": "Gondozási útmutatók",
+      "seo": "Útmutatók demencia gondozóknak: gyakorlati segítség a mindennapokra",
+      "description": "Gyakorlati, kedves útmutatók demencia gondozóknak: közös játék, kommunikáció, visszautasítás, késő délutáni nyugtalanság, táblagépek, alkalmazásválasztás és önmagunkról való gondoskodás.",
+      "lede": "Egyszerű, gyakorlati segítség a demenciával élő ember gondozásának mindennapi pillanataihoz, az önmagáról való gondoskodást is beleértve."
+    },
+    "brain-health": {
+      "label": "Agyi egészség",
+      "title": "Agyi egészség: mit mond a kutatás",
+      "seo": "Agyi egészség és demenciakockázat: mit mond a kutatás",
+      "description": "Megelőzhető a demencia? Őszinte, forrásokkal alátámasztott útmutatók a demencia kockázati tényezőiről, agytornákról, böjtölésről, étrendről, testmozgásról, alvásról, hallásról és a korai figyelmeztető jelekről.",
+      "lede": "Mit mutatnak valójában a nagy vizsgálatok a demenciakockázat csökkentéséről, érthetően elmagyarázva, azt is megmondva, hol gyengék vagy vegyesek a bizonyítékok. Általános tájékoztatás, nem orvosi tanács."
+    }
+  },
+  "guide": {
+    "updated": "Frissítve",
+    "minuteRead": "{n} perc olvasás",
+    "byTeam": "A Golden Moments csapatától",
+    "howWeWrite": "Hogyan írunk",
+    "shortAnswer": "A rövid válasz",
+    "onThisPage": "Ezen az oldalon ({n} szakasz)",
+    "commonQuestions": "Gyakori kérdések",
+    "sources": "Források",
+    "sourcesNote": "Azokra a szervezetekre és vizsgálatokra hivatkozunk, amelyekre az oldal épít. Mindegyiket az oldal frissítésekor ellenőriztük.",
+    "tryTogether": "Próbálják ki együtt",
+    "relatedGuides": "Kapcsolódó útmutatók",
+    "related": "Kapcsolódó",
+    "startHere": "Kezdje itt"
+  },
+  "healthNotice": {
+    "aria": "Egészségügyi tájékoztató",
+    "title": "Általános tájékoztatás, nem orvosi tanács",
+    "textHtml": "Ez az oldal közzétett kutatásokat foglal össze családoknak. Nem tudja megmondani, mi helyes egy adott embernek. Beszéljen orvossal, mielőtt változtat az étrenden, a testmozgáson, az alváson, a gyógyszereken vagy a táplálékkiegészítőkön. Hirtelen zavartság vagy más hirtelen változás esetén azonnal kérjen orvosi segítséget. <a href=\"/medical-disclaimer/\">Olvassa el egészségügyi tájékoztatónkat</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Közös tevékenység, nem emlékezetpróba",
+      "seoTitle": "A Golden Moments: szemléletünk",
+      "description": "Miért nincs időzítő, pontszám és sorozat a Golden Moments játékaiban, miért látszanak végig a képek, és mit állítunk, illetve nem állítunk a demenciáról.",
+      "crumb": "Szemléletünk",
+      "lede": "A Golden Moments nyugodt, felnőtteknek szóló képes tevékenységeket készít, amelyeket egy gondozó és egy demenciával élő ember egymás mellett élvezhet.",
+      "bodyHtml": "<h2>Miben hiszünk</h2><p>A tevékenység lényege maga a pillanat: egy beszélgetés, egy mosoly, két kép összeillesztésének öröme, vagy egyszerűen a közel ülés. Nem az a célja, hogy bárkit megmérjen, tovább lökjön vagy bármit bizonyítson.</p><p>Sok agytréning-alkalmazás a gyorsaságra, a pontszámra, a sorozatokra és a szintekre épül. Demenciával élő embernek ez olyan vizsgának tűnhet, amelyet nem tud letenni. Mi az ellenkezőjét terveztük, és ezeket a szabályokat tartjuk be:</p><ul><li><strong>Nincs mit elrontani.</strong> Egyetlen képernyőn sincs óra, pontszám, lépésszámláló, élet, sorozat, konfetti vagy visszaszámlálás.</li><li><strong>Felismerés az emlékezés helyett.</strong> A képek alapból végig látszanak. A beszélgetésindítók beszélgetésre hívnak, és soha nem kérdeznek nevekre vagy emlékekre.</li><li><strong>Nagy, egyszerű és állandó.</strong> Nagy szöveg és képek, erős kontraszt, és a vezérlők mindig ugyanazon a helyen maradnak.</li><li><strong>Felnőttekhez illő méltóság.</strong> Valódi képek, egyszerű, meleg szavak. Nincs rajzfilm, negédes dicséret vagy emojis jutalom.</li><li><strong>Könnyű kiszállás.</strong> A „Mára elég” mindig látható. A félbehagyás jó kimenetel.</li><li><strong>Alapból privát.</strong> Nincs fiók és nincs reklám. Az Ön által választott fotók az eszközén maradnak.</li></ul><h2>Amit nem állítunk</h2><p>Játékaink az élvezetre és a kapcsolódásra valók. Nem diagnosztizálják, nem tesztelik, nem mérik, nem kezelik, nem lassítják és nem előzik meg a demenciát vagy az Alzheimer-kórt, és senki se emiatt válassza őket. Amikor az <a href=\"/brain-health/\">agyi egészségről szóló oldalainkon</a> kutatásokról írunk, őszintén megmondjuk, hol gyengék a bizonyítékok, és soha nem kapcsoljuk össze őket a saját játékainkkal.</p><h2>Kik vagyunk</h2><p>A Golden Moments egy kis, független csapat. Nem vagyunk klinikai szakemberek. Útmutatóink olyan szervezetek közzétett ajánlásaira épülnek, mint az amerikai National Institute on Aging és az Alzheimer’s Association, és minden útmutató felsorolja a forrásait. Olvassa el, <a href=\"/editorial-policy/\">hogyan írjuk és ellenőrizzük oldalainkat</a>.</p><h2>Mondja el, mi segítene</h2><p>Szívesen megtudnánk, mi működik Önnél és mi nem, különösen demenciával élőktől, családi gondozóktól és foglalkoztatási munkatársaktól. Írjon a <a href=\"mailto:{email}\">{email}</a> címre.</p>"
+    },
+    "editorial": {
+      "title": "Hogyan írjuk és ellenőrizzük oldalainkat",
+      "seoTitle": "Szerkesztési irányelvek",
+      "description": "Hogyan kutatja, írja, forrásolja és frissíti a Golden Moments a demencia-tevékenységekről és az agyi egészségről szóló oldalait, és mit nem teszünk közzé soha.",
+      "crumb": "Szerkesztési irányelvek",
+      "bodyHtml": "<h2>Forrásaink</h2><p>Útmutatóinkat olyan szervezetek nyilvános ajánlásaira építjük, mint az amerikai National Institute on Aging, a CDC, az Alzheimer’s Association, az Alzheimer’s Foundation of America, a Family Caregiver Alliance és az NHS, valamint lektorált kutatásokra, például Cochrane-áttekintésekre és nagy klinikai vizsgálatokra. Minden útmutató felsorolja a forrásait. Minden forrást megnyitunk, mielőtt hivatkozunk rá, és csak azt közöljük, amit valóban állít.</p><h2>Hogyan írunk</h2><ul><li>Először a gyakorlat: mit tegyen ma, egyszerű nyelven.</li><li>Őszinték vagyunk a bizonyítékokról: „összefüggésben áll”, „lehet” és „a bizonyítékok vegyesek” szavakat használunk, ha ez az igazság.</li><li>Tiszteletteljesek vagyunk: a demenciával élő emberekről felnőttként írunk, és soha nem használunk kikérdező vagy megszégyenítő nyelvet.</li><li>Semmi kitalált tartalom: nincsenek kitalált statisztikák, idézetek, szakértők, vizsgálatok, vélemények vagy ajánlások.</li></ul><h2>Ki nézi át oldalainkat</h2><p>Az oldalakat a Golden Moments csapata írja és ellenőrzi, a kutatáshoz és a megfogalmazáshoz mesterséges intelligenciás írószerszámok segítenek. Minden oldalt a csapat egyeztet a forrásaival. Oldalainkat orvos vagy más klinikai szakember <strong>nem</strong> nézte át, és ennek ellenkezőjét nem állítjuk. Általános tájékoztatást adnak, nem orvosi tanácsot.</p><h2>Amit soha nem teszünk közzé</h2><ul><li>Olyan állítást, hogy egy játék, étel, táplálékkiegészítő, böjt vagy napirend megelőzi, kezeli, lassítja vagy gyógyítja a demenciát.</li><li>Olyan teszteket, kvízeket vagy pontszámokat, amelyek azt sugallják, hogy valakinek van vagy nincs demenciája.</li><li>Tanácsot gyógyszer elkezdésére, abbahagyására vagy megváltoztatására.</li><li>Útmutatónak álcázott reklámot vagy szponzorált tartalmat.</li></ul><h2>Frissítések és javítások</h2><p>Minden oldalon látszik az utolsó frissítés dátuma. Ha hibát vagy elavult forrást talál, kérjük, írjon a <a href=\"mailto:{email}\">{email}</a> címre, és gyorsan utánanézünk.</p>"
+    },
+    "faq": {
+      "title": "Kérdések és válaszok",
+      "seoTitle": "Demencia-játékok és -tevékenységek: kérdések és válaszok",
+      "description": "Válaszok a demencia-játékokkal és -tevékenységekkel kapcsolatos gyakori kérdésekre: mit próbáljon ki, mennyi ideig játsszanak, ötletek a későbbi szakaszra, agyi egészség és adatvédelem.",
+      "crumb": "Kérdések és válaszok",
+      "lede": "Rövid, egyszerű válaszok a gondozók leggyakoribb kérdéseire.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "A játékokról",
+          "items": [
+            {
+              "q": "Melyek a legjobb játékok demenciával élő embernek?",
+              "a": "A legjobb játékok ismerősek, egyszerűek és nyomásmentesek, és a megfelelő az, amit a másik ember ma szívesen csinál. Sok embernek jól működik a képpárosítás látható képekkel, a válogatás, a könnyű kirakó, az ismert mondások befejezése, a színezés és a képes bingó. Kerülje az időzítőt, a pontszámot és mindent, ami tesztre emlékeztet."
+            },
+            {
+              "q": "Tényleg ingyenesek a játékok?",
+              "a": "Igen. Minden játék és nyomtatnivaló ingyenes, fiók, regisztráció, letöltés és reklám nélkül."
+            },
+            {
+              "q": "Miért nincs pontszám, szint és időzítő?",
+              "a": "A gyorsaság és a pontszám a kellemes tevékenységet vizsgává változtatja, ami zavart vagy bosszúságot okozhat. Az élvezetre és az együtt töltött időre helyezzük a hangsúlyt, így nincs mit elrontani, és bármikor abbahagyhatják."
+            },
+            {
+              "q": "Melyik eszközön működik a legjobban?",
+              "a": "Bármelyik telefonon, táblagépen vagy számítógépen, amelyen modern böngésző van. A kitámasztott táblagép az asztalon gyakran a legkényelmesebb módja annak, hogy ketten egymás mellett játsszanak. A tévére kötött laptop jól működik csoportoknak."
+            },
+            {
+              "q": "Játszhatunk saját családi fotókkal?",
+              "a": "Igen. A Fotópárok játék 2–6 Ön által választott fotóból párosítójátékot készít. A fotók a böngészőben maradnak, nem kerülnek feltöltésre vagy mentésre."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Tevékenységek és gondozás",
+          "items": [
+            {
+              "q": "Meddig tartson egy tevékenység?",
+              "a": "Gyakran 10–20 perc bőven elég, és néha a 2 perc is siker. Figyeljen a fáradtság vagy a bosszúság jeleire, és hagyják abba, amíg még jó. Nincs helyes mennyiség."
+            },
+            {
+              "q": "Mit tegyek, ha nem akar tevékenykedni?",
+              "a": "Tartsa tiszteletben a nemet, és próbálja újra később vagy másképp. A visszautasítás oka lehet fáradtság, fájdalom, bizonytalanság vagy egyszerűen az érdektelenség. Olvassa el az útmutatónkat arról, mit tegyen, ha nemet mond."
+            },
+            {
+              "q": "Milyen tevékenységek illenek a demencia későbbi szakaszához?",
+              "a": "Kényelem és az érzékszervek: kedvenc zene hallgatása, kézmasszázs krémmel, fotók közös nézése, puha takaró fogása, kint ülés, vagy egy nagyon egyszerű képes játék, ha valaki mellette van. A későbbi szakaszról szóló útmutatónkban sok további ötlet van."
+            },
+            {
+              "q": "Vannak tevékenységek csoportoknak egy gondozóotthonban?",
+              "a": "Igen. A Képes bingóhoz nyomtatható kártyák és képernyős számhúzó tartozik, a Fejezd be a mondást és a Beszélgetőkártyák pedig jól működnek hangosan felolvasva. A gondozóotthoni csoportokról szóló útmutatónk a csoportméretről, az ülésrendről és a vegyes képességekhez igazításról szól."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Agyi egészség",
+          "items": [
+            {
+              "q": "Megelőzhetik vagy lassíthatják a játékok a demenciát?",
+              "a": "Egyetlen játékról sem bizonyították, hogy megelőzi a demenciát, és játékaink nem is állítanak ilyet. Társas környezetben végzett kognitív stimuláció a kutatásokban kis előnyöket mutatott enyhe vagy közepes demenciával élőknél, de ez más, mint hogy egy játék megelőzne egy betegséget. A játékokat az élvezetre és a kapcsolódásra kínáljuk."
+            },
+            {
+              "q": "Megelőzhető a demencia?",
+              "a": "Biztosan nem. A kutatások 14 egészségi és életmódbeli tényezőt hoznak összefüggésbe a demenciakockázattal, például a halláscsökkenést, a magas vérnyomást, a mozgásszegény életmódot és a társas elszigetelődést. Ezek kezelése egyeseknél csökkentheti a kockázatot, de sokan, akik mindent jól csinálnak, mégis demenciát kapnak. Soha nem valaki hibája."
+            },
+            {
+              "q": "Jó az agyi egészségnek az időszakos böjt?",
+              "a": "Az emberi bizonyítékok korlátozottak és korai állapotúak, és a kutatás nagy része állatokon folyik. A böjt kockázatos lehet idősebb felnőtteknek, különösen cukorbetegség elleni gyógyszerek mellett vagy akaratlan fogyásnál, és demenciával élőknek nem ajánlott. Mielőtt változtat az étkezésén, beszéljen orvossal."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Adatvédelem és biztonság",
+          "items": [
+            {
+              "q": "Gyűjtenek információt?",
+              "a": "Nincs fiók és nincs reklám. A Google Analytics szolgáltatással számoljuk a látogatásokat, és nézzük, mely oldalak segítenek, a böngészője pedig megjegyzi, bekapcsolta-e a halk hangokat. A Fotópárok játékhoz választott fotók soha nem kerülnek feltöltésre. A részleteket lásd az adatvédelmi tájékoztatóban."
+            },
+            {
+              "q": "Ez orvosi tanács?",
+              "a": "Nem. A Golden Moments kikapcsolódásra és általános tájékoztatásra való. Egészségügyi kérdéssel forduljon orvoshoz, vészhelyzetben pedig hívja a 112-es segélyhívószámot."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "További részletek: <a href=\"/caregiving/how-to-play-together/\">hogyan játsszunk együtt</a>, <a href=\"/caregiving/when-they-say-no/\">ha nemet mond</a>, <a href=\"/activities/late-stage/\">tevékenységek a későbbi szakaszra</a> és <a href=\"/brain-health/can-dementia-be-prevented/\">megelőzhető-e a demencia?</a>"
+    },
+    "handout": {
+      "title": "Ingyenes, nyugodt játékok demenciával élőknek",
+      "seoTitle": "Nyomtatható tájékoztató: ingyenes demencia-játékok online",
+      "description": "Egyoldalas nyomtatható tájékoztató családoknak és gondozóknak ingyenes, nyugodt képes játékokról demenciával élő embereknek, támogató csoportoknak és gondozási csomagokhoz.",
+      "crumb": "Nyomtatható tájékoztató",
+      "lede": "Nyomtassa ki ezt az oldalt támogató csoportnak, gondozási csomagba vagy a hűtőajtóra. Használja a böngésző Nyomtatás parancsát; a menük és a gombok kimaradnak a nyomatból.",
+      "introHtml": "<p>Nagy képek, egyszerű szavak, és nincs mit elrontani. Ingyenes telefonon, táblagépen vagy számítógépen, regisztráció, reklám, időzítő és pontszám nélkül. Üljenek egymás mellé, és érintsenek felváltva.</p>",
+      "gamesTitle": "Játékok, amelyeket együtt kipróbálhatnak",
+      "restHtml": "<h2>Néhány tipp</h2><ul><li>Válasszon olyan napszakot, amikor a másik ember a legjobb formájában van.</li><li>Kezdje a legkönnyebb beállítással. Négy kártya bőven elég.</li><li>Beszélgessenek a képekről. A beszélgetés gyakran a legjobb rész.</li><li>Hagyják abba, amíg még kellemes. A korai befejezés jó kimenetel.</li></ul><h2>Az oldalon még</h2><ul><li>Ingyenes nyomtatnivalók: nagybetűs szókereső, színezők, beszélgetőkártyák és képes bingó.</li><li>Tevékenységötletek minden szakaszra, valamint útmutatók a közös játékról és az önmagunkról való gondoskodásról.</li></ul><p class=\"muted\">Az élvezetre és az együtt töltött időre való. Nem orvosi tanács, teszt vagy kezelés. A Golden Moments kiadója a Cloudjet Solutions Pte. Ltd.</p>"
+    },
+    "organizations": {
+      "title": "Gondozóotthonoknak, könyvtáraknak és támogató csoportoknak",
+      "seoTitle": "Ingyenes demencia-tevékenységek gondozóotthonoknak és csoportoknak",
+      "description": "Hogyan használják a gondozóotthonok, nappali programok, könyvtárak, idősügyi szervezetek és támogató csoportok ingyenes demencia-játékainkat, és szöveg, amellyel felvehet minket egy forráslistára.",
+      "crumb": "Szervezeteknek",
+      "lede": "Az oldalon minden ingyenesen használható a lakókkal, tagokkal és ügyfelekkel, fiók, licenc és díj nélkül. Ez az oldal elmagyarázza, mi található itt, és hogyan oszthatja meg.",
+      "shortText": "{name}: ingyenes, nyugodt képes játékok és tevékenységi útmutatók demenciával élő embereknek és gondozóiknak. Regisztráció, időzítő és pontszám nélkül.",
+      "longText": "A(z) {name} ({domain}) {count} ingyenes böngészős játékot kínál demenciával élő embereknek, köztük látható képekkel párosítót, könnyű kirakót, válogatót, ismert mondásokat és képes bingót nyomtatható kártyákkal. Nincs fiók, reklám, időzítő vagy pontszám. Az oldalon a demencia minden szakaszához egyszerű nyelvű tevékenységi útmutatók is vannak, amelyek a National Institute on Agingre és az Alzheimer’s Associationre hivatkoznak.",
+      "useTitle": "Mit használhatnak a szervezetek",
+      "gamesItemHtml": "<strong>{count} böngészős játék</strong>, amely laptopon, táblagépen vagy számítógéphez kötött tévén fut. Telepítés, fiók és letöltés nélkül. Lásd az <a href=\"/games/\">összes játékot</a>.",
+      "printablesLabel": "{count} nyomtatnivaló:",
+      "printablesAfter": "Használja az egyes oldalakon a Nyomtatás gombot.",
+      "moreItemsHtml": "<li><strong>Csoportos formák:</strong> a <a href=\"/games/picture-bingo/\">Képes bingóhoz</a> nyomtatható kártyák és képernyős számhúzó tartozik, a <a href=\"/activities/trivia/\">könnyű találós kérdésekben</a> pedig 50 kérdés van válaszlehetőségekkel és beszélgetési szempontokkal.</li><li><strong>Tevékenységi útmutatók</strong> munkatársaknak és családoknak, szakaszok és típusok szerint, egyszerű nyelven, forrásokkal. Kezdje a <a href=\"/activities/ideas/\">101 tevékenységötlettel</a> vagy a <a href=\"/activities/care-home-groups/\">gondozóotthoni csoportos tevékenységekkel</a>.</li>",
+      "restHtml": "<h2>Hogyan használják a csoportok</h2><ul><li><strong>Gondozóotthonok és memóriagondozás:</strong> képes bingó vagy mondásbefejező a társalgó tévéjén, egy ember érint a csoport nevében.</li><li><strong>Nappali programok:</strong> egy táblagépes állomás négy kártyára állított Képpárokkal, rövid, egyéni alkalmakhoz.</li><li><strong>Közkönyvtárak:</strong> kinyomtatott szókeresők és beszélgetőkártyák az emlékezős készletekben, és a könyvtári táblagépeken könyvjelzőzött oldal.</li><li><strong>Gondozói támogató csoportok és emlékkávézók:</strong> egy <a href=\"/handout/\">egyoldalas nyomtatható tájékoztató</a>, amelyet a családok hazavihetnek.</li><li><strong>Kórházak és hazabocsátást tervezők:</strong> a tájékoztató a gondozói csomagokban, hogy legyen valami nyugodt tennivaló otthon vagy az ágy mellett.</li></ul><h2>Amit nem teszünk</h2><p>A játékok az élvezetre és az együtt töltött időre valók. Nem diagnosztizálják, nem tesztelik, nem pontozzák, nem kezelik és nem lassítják a demenciát, és kérjük a szervezeteket, hogy ne így mutassák be őket. Nincs reklám, és a játékok nem kérnek nevet, egészségügyi adatot vagy feltöltendő fotót. A weboldal a Google Analytics szolgáltatással számolja a látogatásokat; az <a href=\"/privacy/\">adatvédelmi tájékoztatónk</a> elmagyarázza, mit gyűjt ez. A <a href=\"/games/photo-pairs/\">Fotópárok</a> játékban használt fotók a böngészőben maradnak.</p><h2>Vegyen fel minket a forráslistájára</h2><p>Ha gondozóknak szóló forráslistát vezet, szívesen látjuk, ha a <a href=\"/\">{domain}</a> oldalra hivatkozik. Bármelyik leírást kimásolhatja.</p>",
+      "shortTitle": "Rövid leírás",
+      "longTitle": "Hosszabb leírás",
+      "linksHtml": "<p>Hasznos oldalak, amelyekre közvetlenül hivatkozhat: <a href=\"/games/\">ingyenes játékok</a>, <a href=\"/activities/printable/\">ingyenes nyomtatnivalók</a>, <a href=\"/activities/alzheimers/\">tevékenységek Alzheimer-kór esetén</a> és <a href=\"/caregiving/how-to-play-together/\">hogyan játsszunk együtt</a>.</p><h2>Kérdések vagy javítások</h2><p>Ha valami hibás vagy nem érthető az oldalon, vagy egy lakó szükségleteit nem fedi le az itt található tartalom, kérjük, írjon nekünk a <a href=\"mailto:{email}\">{email}</a> címre. Kérjük, ne küldjön lakókról vagy ügyfelekről személyes vagy egészségügyi adatokat.</p>"
+    },
+    "app": {
+      "title": "A Golden Moments alkalmazás",
+      "seoTitle": "A Golden Moments alkalmazás iPhone-ra és Androidra",
+      "description": "Az ingyenes Golden Moments alkalmazás: nyugodt fotópárosítás négy nagy kártyával, az eszközön tartott családi fotók, internet nélküli képcsomagok, fiók nélkül.",
+      "crumb": "Az alkalmazás",
+      "lede": "Minden, amit szeret a weboldalban, egy olyan alkalmazásban, amely internet nélkül is működik, és használhatja az Ön által választott családi fotókat.",
+      "worksOn": "Működik: {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Kezdje kicsiben</h2><p>Négy nagy kártyával és ismerős képekkel indul. A képek maradhatnak láthatók, vagy elrejthetők, ha ez kényelmesebb. A nyugodt módban nincs időzítő, pontszám vagy büntetés. Választhat 4, 6, 8 vagy 12 kártyát.</p><h2>Tegye személyessé</h2><p>Válasszon családi fotókat az eszköz fotóválasztójával. Az alkalmazás kisebb másolatokat ment a tevékenységekhez. Nem vizsgálja át a fotótárat, és nem módosítja az eredeti fotókat, egy gyűjteményben legfeljebb 24 fotót tart.</p><h2>Egyszerűen nézzék együtt</h2><p>Egyszerre egy képet mutat. A választható beszélgetésindítók beszélgetésre hívnak, anélkül hogy bárkinek nevekre kellene emlékeznie, vagy helyes választ kellene adnia. Az is elég, ha csak nézik a képeket.</p><h2>Internet nélkül, ahol számít</h2><p>A kezdő képek és mind a nyolc képcsomag az alkalmazással érkezik. A hozzáadott fotók másolatai internet nélkül is működnek. Ha csak az iCloudban tárolt eredetit választ ki, szükség lehet internetkapcsolatra.</p><h2>Nincs fiók, nincs fotószinkronizáló szerver</h2><p>A családi fotók másolatai az alkalmazásban, az eszközön maradnak. A másolatokat az eredetik törlése nélkül eltávolíthatja. Az eszközmentések tartalmazhatnak alkalmazásadatokat. Olvassa el az <a href=\"/app-privacy/\">alkalmazás adatvédelmi irányelveit</a>, az <a href=\"/help/\">alkalmazássúgó</a> pedig lépésről lépésre végigvezeti.</p>",
+      "disclaimer": "A Golden Moments kikapcsolódásra és közös beszélgetésre való. Nem diagnosztizálja, nem kezeli, nem előzi meg és nem méri a demenciát vagy az Alzheimer-kórt.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Ingyenes demencia- és Alzheimer-játékok online",
+    "description": "Ingyenes online játékok demenciával vagy Alzheimer-kórral élő időseknek: képpárosítás, könnyű kirakók, válogatás, mondások, színezés, bingó. Regisztráció, időzítő és pontszám nélkül.",
+    "crumb": "Játékok",
+    "h1": "Nyugodt játékok demenciával élőknek",
+    "lede": "{count} ingyenes játék, amelyet együtt játszhatnak a böngészőben. Nagy képek, egyszerű szavak, és nincs mit elrontani: nincs időzítő, pontszám és regisztráció.",
+    "listName": "Nyugodt játékok demenciával élőknek",
+    "byStageTitle": "Játék választása szakasz szerint",
+    "byStageLede": "A szakaszok csak nagyjából tájékoztatnak. Kövesse, mit élvez a másik ember, és mi kényelmes ma.",
+    "stageCol": "Szakasz",
+    "gamesCol": "Gyakran illő játékok",
+    "moreHtml": "További ötletek a képernyőn kívül: <a href=\"/activities/ideas/\">101 tevékenység demenciával élőknek</a>, <a href=\"/activities/alzheimers/\">tevékenységek és játékok Alzheimer-kór esetén</a>, <a href=\"/activities/memory-games/\">nyugodt emlékezős játékok</a> és <a href=\"/activities/puzzles/\">kirakók</a>.",
+    "faq": [
+      {
+        "q": "Melyik játékkal kezdjük?",
+        "a": "A négy kártyás Képpárok nyugodt első választás. Ha a képek közti választás is soknak tűnik, próbálják a Keresd az egyformát játékot két képpel. Csoportnak próbálják a Képes bingót."
+      },
+      {
+        "q": "Működnek a játékok iPaden vagy telefonon?",
+        "a": "Igen. Minden játék működik a böngészőben telefonon, táblagépen és számítógépen, és a képek kitöltik a képernyőt. A kitámasztott táblagép gyakran a legkényelmesebb két embernek."
+      },
+      {
+        "q": "Jók ezek a játékok Alzheimer-kórral élő embernek?",
+        "a": "Igen. Demenciával élő embereknek készültek, az Alzheimer-kórral élőknek is, amely a leggyakoribb ok. A képek végig látszanak, kevés a választási lehetőség, és semmi sem időzített vagy pontozott, így a játékok az ismerős dolgok felismerésére épülnek, nem újak megjegyzésére."
+      },
+      {
+        "q": "Ezek emlékezős játékok időseknek?",
+        "a": "Párosító- és képes játékok, amelyeket bármelyik idősebb felnőtt élvezhet, de úgy készültek, hogy ne az emlékezetet tesztelják: a Képpárokban a képek felfordítva maradnak, hacsak másképp nem dönt. A demenciával élő időseknek szóló emlékezős játékokról szóló útmutatónk elmagyarázza, hogyan tartható nyugodtan bármelyik ilyen játék."
+      },
+      {
+        "q": "Vannak játékok csoportoknak egy gondozóotthonban?",
+        "a": "Igen. A Képes bingóhoz nyomtatható kártyák és képernyős számhúzó tartozik, a Fejezd be a mondást és a Beszélgetőkártyák pedig jól működnek hangosan felolvasva egy csoportnak."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad és Android",
+    "requirements": "iOS 15 vagy újabb; Android 7.0 vagy újabb",
+    "summary": "Ingyenes alkalmazás iPhone-ra, iPadre és Androidra: nyugodt képpárosítás négy–tizenkét nagy kártyával, párosítás és nézegetés az Ön által választott családi fotókkal, és nyolc mellékelt képcsomag, amely internet nélkül is működik. Nincs fiók, reklám, időzítő vagy pontszám.",
+    "features": [
+      "Nyugodt képpárosítás 4, 6, 8 vagy 12 nagy kártyával; a képek látszanak, hacsak nem dönt az elrejtésük mellett",
+      "Az Ön által kiválasztott családi fotók másolatként az alkalmazásba kerülnek párosításhoz és közös nézéshez",
+      "Nézzük együtt: egyszerre egy kép, választható beszélgetésindítókkal",
+      "Nyolc képcsomag érkezik az alkalmazással; internet nélkül is működnek",
+      "Nincs fiók, reklám, alkalmazáson belüli vásárlás, időzítő, pontszám vagy büntetés"
+    ],
+    "faq": [
+      {
+        "q": "Van demencia-tevékenységeket kínáló alkalmazás?",
+        "a": "Igen. A Golden Moments (az áruházban „{storeName}” néven szerepel) ingyenes az App Store-ban és a Google Playen. Nyugodt képpárosítást kínál nagy kártyákkal, játékokat az Ön által választott családi fotókkal, és internet nélkül is működő képcsomagokat."
+      },
+      {
+        "q": "Ingyenes a Golden Moments alkalmazás?",
+        "a": "Igen. Ingyen letölthető, reklám, fiók és alkalmazáson belüli vásárlás nélkül."
+      },
+      {
+        "q": "Működik az alkalmazás internet nélkül?",
+        "a": "Igen. A kezdő képek és mind a nyolc képcsomag az alkalmazással érkezik, a családi fotók pedig az alkalmazásba másolás után internet nélkül is működnek. Ha csak az iCloudban tárolt fotót választ, szükség lehet kapcsolatra."
+      },
+      {
+        "q": "Használhatom a saját családi fotóinkat?",
+        "a": "Igen. Válasszon fotókat az eszköz fotóválasztójával. Az alkalmazás kisebb másolatokat tart az eszközön a tevékenységekhez, nem tölti fel őket, és soha nem módosítja az eredetiket. A másolatokat bármikor eltávolíthatja."
+      },
+      {
+        "q": "Ez agytréning- vagy emlékezetteszt-alkalmazás?",
+        "a": "Nem. A Golden Moments az élvezetre és az együtt töltött időre való. Nincs benne pontszám vagy teszt, és nem diagnosztizálja, nem kezeli, nem előzi meg és nem méri a demenciát vagy az Alzheimer-kórt."
+      },
+      {
+        "q": "Milyen eszközökön működik?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Van ennek a játéknak alkalmazásváltozata?",
+      "a": "Igen. Az ingyenes Golden Moments alkalmazás iPhone-ra, iPadre és Androidra ugyanazt a nyugodt képpárosítást kínálja, használhatja az Ön által választott családi fotókat, és internet nélkül is működik. Nincs fiók, reklám vagy pontszám."
+    },
+    "gameFaqNo": {
+      "q": "Van ennek a játéknak alkalmazásváltozata?",
+      "a": "Ennek a játéknak nincs. Az ingyenes Golden Moments alkalmazás iPhone-ra, iPadre és Androidra nyugodt képpárosítást kínál nagy kártyákkal és az Ön által választott családi fotókkal, és internet nélkül is működik. Ez a játék itt, a böngészőben marad ingyenes."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: nagy, barátságos képek",
+    "noscript": "Ehhez a játékhoz be kell kapcsolni a JavaScriptet a böngészőben. Az alábbi tippek enélkül is működnek.",
+    "about": "A(z) {name} játékról",
+    "aboutAria": "A játékról",
+    "noTimer": "Nincs időzítő és pontszám",
+    "printable": "Nyomtatható",
+    "howTo": "Hogyan játsszuk: {name}",
+    "tips": "Tippek a közös játékhoz",
+    "newToPlayingHtml": "Új Önnek a demenciával élő emberrel való játék? Olvassa el, <a href=\"/caregiving/how-to-play-together/\">hogyan játsszunk együtt</a>, többek között azt is, mit tegyen, ha elveszti az érdeklődését.",
+    "moreAria": "További felfedezni valók",
+    "helpfulGuides": "Hasznos útmutatók",
+    "appTitle": "Játsszon az alkalmazásban",
+    "appText": "Az ingyenes Golden Moments alkalmazás nyugodt képpárosítást kínál nagy kártyákkal és saját családi fotókkal, és Wi‑Fi nélkül is működik. iPhone, iPad és Android.",
+    "photoAppTitle": "Tartsa készenlétben a fotóit",
+    "photoAppText": "Az ingyenes Golden Moments alkalmazásban az Ön által választott fotók a következő alkalomra is az eszközön maradnak, és a játékok Wi‑Fi nélkül is működnek. iPhone, iPad és Android.",
+    "goodToKnow": "Jó tudni",
+    "goodToKnowText": "Ez a játék az élvezetre és az együtt töltött időre való. Nem tesztel, nem mér és nem kezel semmit.",
+    "moreGames": "További nyugodt játékok",
+    "crumb": "Játékok"
+  }
+}

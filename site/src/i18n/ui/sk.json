@@ -1,0 +1,533 @@
+{
+  "common": {
+    "skipLink": "Prejsť na hlavný obsah",
+    "brandName": "Golden Moments",
+    "brandTag": "Aktivity pri demencii",
+    "homeLabel": "Golden Moments, domovská stránka",
+    "mainNav": "Hlavná navigácia",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Golden Moments: veľké, priateľské obrázky šálky čaju, slnečnice a psa",
+    "languages": "Jazyk",
+    "englishOnly": "(po anglicky)",
+    "machineTranslated": "Táto stránka bola preložená automaticky a rodený hovoriaci ju zatiaľ nekontroloval.",
+    "readOriginal": "Prečítať si originál po anglicky",
+    "nav": {
+      "games": "Hry",
+      "activities": "Aktivity",
+      "caregiving": "Starostlivosť",
+      "brainHealth": "Zdravie mozgu"
+    },
+    "faqTitle": "Otázky a odpovede",
+    "breadcrumb": "Cesta na stránke",
+    "home": "Domov",
+    "lastUpdated": "Naposledy aktualizované",
+    "topics": "Témy"
+  },
+  "footer": {
+    "play": "Hrať",
+    "picturePairs": "Obrázkové dvojice",
+    "conversationCards": "Kartičky na rozhovor",
+    "pictureBingo": "Obrázkové bingo",
+    "allGames": "Všetky hry",
+    "activityIdeas": "Nápady na aktivity",
+    "ideas101": "101 nápadov na aktivity",
+    "lateStage": "Aktivity pre neskoršie štádium",
+    "printable": "Aktivity na vytlačenie",
+    "allActivities": "Všetky aktivity",
+    "forCaregivers": "Pre opatrovateľov",
+    "playTogether": "Ako hrať spolu",
+    "selfCare": "Starostlivosť o seba",
+    "brainHealth": "Výskum zdravia mozgu",
+    "faq": "Otázky a odpovede",
+    "about": "O nás",
+    "approach": "Náš prístup",
+    "howWeWrite": "Ako píšeme",
+    "organizations": "Pre organizácie",
+    "app": "Aplikácia Golden Moments",
+    "appHelp": "Pomoc k aplikácii",
+    "support": "Podpora",
+    "legal": "Právne informácie",
+    "sitePrivacy": "Súkromie na webe",
+    "appPrivacy": "Zásady ochrany súkromia aplikácie",
+    "privacyChoices": "Voľby súkromia",
+    "terms": "Podmienky a licencia aplikácie",
+    "safety": "Bezpečnosť a určené použitie",
+    "accessibility": "Prístupnosť",
+    "healthNotice": "Upozornenie k zdravotným informáciám",
+    "allLegal": "Všetky právne informácie",
+    "note": "Golden Moments ponúka jednoduché spoločné aktivity na potešenie. Nie je to lekárska rada, test ani liečba a nikoho nediagnostikuje, nemeria ani nehodnotí. S otázkami o zdraví sa obráťte na lekára. V núdzovej situácii volajte 112.",
+    "publisher": "Vydavateľ: Cloudjet Solutions Pte. Ltd."
+  },
+  "home": {
+    "title": "Hry a aktivity pri demencii a Alzheimerovej chorobe | Golden Moments",
+    "description": "Bezplatné pokojné obrázkové hry online a nápady na aktivity pre ľudí žijúcich s demenciou či Alzheimerovou chorobou a ich opatrovateľov. Bez registrácie, časovačov a bodov.",
+    "eyebrow": "Zadarmo · Bez reklám · Bez registrácie · Bez časovačov a bodov",
+    "h1": "Pokojné hry a aktivity pre ľudí s demenciou",
+    "lede": "Jednoduché obrázkové hry, známe fotografie a aktivity na spoločné chvíle, vlastným tempom.",
+    "playGame": "Zahrať si hru",
+    "findIdeas": "Nájsť nápady na aktivity",
+    "facts": [
+      "Funguje na telefóne, tablete aj počítači",
+      "Veľké obrázky, ktoré zostávajú viditeľné",
+      "Skončiť môžete kedykoľvek, nie je v čom zlyhať"
+    ],
+    "heroApp": "Aj ako bezplatná aplikácia pre iPhone, iPad a Android, s vašimi vlastnými rodinnými fotografiami",
+    "albumNote": "„Dva obrázky šálky čaju, spolu.“",
+    "gamesEyebrow": "Hrajte vo svojom prehliadači",
+    "gamesTitle": "Hry, ktoré si môžete zahrať hneď",
+    "gamesLede": "Každá je pokojná, dôstojná a rýchlo sa začína. Vyberte si jednu, sadnite si vedľa seba a striedajte sa v klepaní.",
+    "seeAllGames": "Zobraziť všetkých {count} hier",
+    "howTitle": "Ako to funguje",
+    "steps": [
+      {
+        "title": "Vyberte si niečo známe",
+        "text": "Obrázky šálok čaju, záhrad, domácich zvierat a plachetníc. Netreba čítať ani učiť sa pravidlá."
+      },
+      {
+        "title": "Sadnite si vedľa seba",
+        "text": "Nechajte druhého klepať. Rozprávajte sa o obrázkoch. Dvojica, ktorá nesedí, jednoducho počká na ďalšie klepnutie."
+      },
+      {
+        "title": "Skončite, kým je to príjemné",
+        "text": "Jedna hra je úplná aktivita. Tlačidlo „Zatiaľ dosť“ je na obrazovke vždy."
+      }
+    ],
+    "stageEyebrow": "Mimo obrazovky",
+    "stageTitle": "Nápady na aktivity pre každé štádium",
+    "stageLede": "Hudba, bežné činnosti, spomínanie a tiché zmyslové chvíle, prispôsobené tomu, čo je teraz príjemné.",
+    "ideas101": "101 nápadov na aktivity",
+    "stages": [
+      {
+        "href": "/activities/early-stage/",
+        "title": "Skoré štádium",
+        "text": "Pokračujte v tom, čo má človek rád, s malými úpravami: záľuby, výlety, slovné hry a spoločné plánovanie.",
+        "label": "Nápady pre skoré štádium"
+      },
+      {
+        "href": "/activities/middle-stage/",
+        "title": "Stredné štádium",
+        "text": "Jednoduché, známe činnosti rozdelené na kroky: skladanie, triedenie, hudba, obrázkové hry a krátke prechádzky.",
+        "label": "Nápady pre stredné štádium"
+      },
+      {
+        "href": "/activities/late-stage/",
+        "title": "Neskoršie štádium",
+        "text": "Pohoda a blízkosť cez dotyk, zvuk a zrak: starostlivosť o ruky, obľúbené piesne, fotografie a spoločné chvíle.",
+        "label": "Nápady pre neskoršie štádium"
+      }
+    ],
+    "specificHtml": "Hľadáte niečo konkrétne? Skúste <a href=\"/activities/alzheimers/\">aktivity a hry pri Alzheimerovej chorobe</a>, <a href=\"/activities/memory-games/\">pokojné hry na pamäť</a>, <a href=\"/activities/trivia/\">jednoduché otázky na rozhovor</a> alebo <a href=\"/activities/puzzles/\">puzzle</a>.",
+    "approachEyebrow": "Náš prístup",
+    "approachTitle": "Spoločná aktivita, nie skúška pamäte",
+    "approachLede": "Mnohé „hry na tréning mozgu“ stoja na rýchlosti, bodoch a sériách. Pre človeka žijúceho s demenciou to môže pôsobiť ako skúška. My sme urobili pravý opak.",
+    "approachLink": "Prečo to robíme takto",
+    "principles": [
+      {
+        "icon": "heart",
+        "title": "V ničom nemožno zlyhať",
+        "text": "Žiadne hodiny, body, životy ani prehra. Iný obrázok je pauza, nie chyba."
+      },
+      {
+        "icon": "eye",
+        "title": "Obrázky zostávajú viditeľné",
+        "text": "Spoznávanie namiesto vybavovania. Hra sa začína s odkrytými obrázkami, takže si nie je čo pamätať."
+      },
+      {
+        "icon": "people",
+        "title": "Dospelé a dôstojné",
+        "text": "Vrelé, jednoduché slová a obrázky zo skutočného sveta. Nikdy kreslené postavičky ani detinské reči."
+      },
+      {
+        "icon": "shield",
+        "title": "Súkromie od základu",
+        "text": "Bez účtov a reklám. Vaše fotografie nikdy neopustia vaše zariadenie."
+      }
+    ],
+    "guidesEyebrow": "Pre opatrovateľov",
+    "guidesTitle": "Praktické príručky pre každodennú starostlivosť",
+    "allCaregiving": "Všetky príručky pre opatrovateľov",
+    "guides": [
+      {
+        "href": "/caregiving/how-to-play-together/",
+        "title": "Ako hrať hry spolu",
+        "text": "Príprava, tempo a čo robiť, keď hra prestane baviť."
+      },
+      {
+        "href": "/caregiving/when-they-say-no/",
+        "title": "Keď povedia nie aktivite",
+        "text": "Časté dôvody odmietnutia a pokojné spôsoby, ako to skúsiť neskôr."
+      },
+      {
+        "href": "/caregiving/tablets-and-screens/",
+        "title": "Nastavenie tabletu",
+        "text": "Väčší text, menej vyrušení a jedna jednoduchá domovská obrazovka."
+      },
+      {
+        "href": "/activities/printable/",
+        "title": "Bezplatné aktivity na vytlačenie",
+        "text": "Osemsmerovky, omaľovánky, bingo a kartičky na rozhovor vo veľkej tlači."
+      }
+    ],
+    "researchTitle": "Zdravie mozgu: čo hovorí výskum naozaj",
+    "researchText": "Dá sa demencii predchádzať? Pomáhajú hry? A čo pôst, strava, spánok a sluch? Jasné odpovede s uvedenými zdrojmi, aj tam, kde sú dôkazy slabé.",
+    "researchLink": "Prečítať si príručky o výskume",
+    "appEyebrow": "Aj aplikácia",
+    "appTitle": "Golden Moments na iPhone, iPade a Androide",
+    "appText": "Bezplatná aplikácia funguje offline a môže používať rodinné fotografie, ktoré si vyberiete, uložené ako kópie vo vašom zariadení. Rovnaký pokojný dizajn: štyri veľké dlaždice, žiadny časovač, žiadne body.",
+    "aboutApp": "O aplikácii",
+    "faq": [
+      {
+        "q": "Aké hry sú vhodné pre ľudí s demenciou?",
+        "a": "Dobré hry sú jednoduché, známe a bez tlaku: veľké obrázky na hľadanie dvojíc, triedenie, ľahké puzzle, dopĺňanie známych porekadiel, omaľovánky, obrázkové bingo a kartičky na rozhovor. Najlepšia je tá, ktorú má človek rád práve dnes. Vyhnite sa časovačom, bodom a všetkému, čo pripomína test."
+      },
+      {
+        "q": "Sú tieto hry pri demencii zadarmo?",
+        "a": "Áno. Každá hra a každá tlačivá aktivita na Golden Moments je zadarmo, bez účtu, registrácie či sťahovania. Hry bežia vo webovom prehliadači na telefóne, tablete alebo počítači."
+      },
+      {
+        "q": "Predchádzajú hry demencii?",
+        "a": "Nepreukázalo sa, že by nejaká hra demencii predchádzala, a Golden Moments netvrdí, že niečo lieči alebo že niečomu predchádza. Naše hry sú na potešenie a spoločný čas. Časť o zdraví mozgu vysvetľuje, čo výskum ukazuje a čo nie."
+      },
+      {
+        "q": "Sú tieto hry vhodné pre človeka s Alzheimerovou chorobou?",
+        "a": "Áno. Alzheimerova choroba je najčastejšou príčinou demencie a hry sú pre ňu vytvorené: veľké obrázky, ktoré zostávajú viditeľné, málo možností a nič, čo si treba pamätať alebo v čom sa dá pomýliť. Hľadanie dvojíc, triedenie a dopĺňanie známych porekadiel vychádzajú z dlho známych vecí, nie z učenia sa nových."
+      },
+      {
+        "q": "Môže tieto aktivity používať človek v neskoršom štádiu demencie?",
+        "a": "Často áno, ak je niekto pri ňom. Začnite hrou Nájdi rovnaké s dvoma obrázkami, Obrázkovými dvojicami so štyrmi dlaždicami, omaľovánkou alebo pokojnou dychovou prestávkou. Nech je to krátke, nasledujte jeho tempo a skončite, keď má dosť."
+      },
+      {
+        "q": "Sú moje informácie v súkromí?",
+        "a": "Web nemá účty ani reklamy. Používame Google Analytics, aby sme zistili, ktoré stránky sa navštevujú. Fotografie, ktoré vyberiete do hry Fotografické dvojice, sa zobrazujú iba vo vašom prehliadači a nikdy sa nenahrávajú."
+      },
+      {
+        "q": "Kto vytvára Golden Moments?",
+        "a": "Golden Moments je malý tím, ktorý vytvára pokojné, dôstojné obrázkové aktivity pre rodiny a opatrovateľov, na webe aj ako bezplatnú aplikáciu. Nie sme klinickí odborníci a nič tu nie je lekárskou radou."
+      }
+    ]
+  },
+  "stage": {
+    "early": "skoré",
+    "middle": "stredné",
+    "late": "neskoršie",
+    "hintOne": "Často vyhovuje: {list} štádium",
+    "hintMany": "Často vyhovuje: {list} štádiá",
+    "labelEarly": "Skoré štádium",
+    "labelMiddle": "Stredné štádium",
+    "labelLate": "Neskoršie štádium"
+  },
+  "cards": {
+    "aboutGame": "O tejto hre",
+    "printable": "Na vytlačenie",
+    "play": "Hrať: {name} →",
+    "readGuide": "Prečítať si príručku"
+  },
+  "playCta": {
+    "title": "Máte chuť na pokojnú hru?",
+    "text": "Veľké obrázky, žiadny časovač, žiadne body a nič, na čo by ste sa museli registrovať. Hrajte spolu vo svojom prehliadači.",
+    "play": "Zahrať si hru",
+    "all": "Zobraziť všetky hry",
+    "aria": "Zahrať si hru"
+  },
+  "appCta": {
+    "title": "Vezmite si tieto hry so sebou",
+    "text": "Bezplatná aplikácia Golden Moments pre iPhone, iPad a Android: veľké obrázkové dlaždice, hry s vašimi rodinnými fotografiami a obrázkové balíčky, ktoré fungujú bez Wi‑Fi. Bez účtu, reklám, časovača a bodov.",
+    "appStore": "Stiahnuť v App Store",
+    "googlePlay": "Stiahnuť v Google Play",
+    "appStoreShort": "App Store",
+    "googlePlayShort": "Google Play",
+    "about": "O aplikácii",
+    "aria": "Získať aplikáciu"
+  },
+  "sections": {
+    "activities": {
+      "label": "Aktivity",
+      "title": "Aktivity pre ľudí s demenciou",
+      "seo": "Aktivity pre ľudí s demenciou: nápady podľa štádia",
+      "description": "Nápady na aktivity pre ľudí žijúcich s demenciou v každom štádiu: hudba, spomínanie, bežné činnosti, zmyslové chvíle, tvorenie, pobyt vonku a bezplatné materiály na vytlačenie.",
+      "lede": "Zmysluplná aktivita je všetko, čo prináša pohodu, zmysel alebo chvíľu blízkosti. Začnite tým, čo človek mal vždy rád, a prispôsobte to dnešku."
+    },
+    "caregiving": {
+      "label": "Starostlivosť",
+      "title": "Príručky pre opatrovateľov",
+      "seo": "Príručky pre opatrovateľov pri demencii: praktická pomoc na každý deň",
+      "description": "Praktické, láskavé príručky pre opatrovateľov pri demencii: spoločné hranie, dorozumievanie, odmietanie, nepokoj k večeru, tablety, výber aplikácií a starostlivosť o seba.",
+      "lede": "Jasná, praktická pomoc pre bežné chvíle starostlivosti o človeka žijúceho s demenciou, vrátane starostlivosti o seba."
+    },
+    "brain-health": {
+      "label": "Zdravie mozgu",
+      "title": "Zdravie mozgu: čo hovorí výskum",
+      "seo": "Zdravie mozgu a riziko demencie: čo hovorí výskum",
+      "description": "Dá sa demencii predchádzať? Úprimné príručky s uvedenými zdrojmi o rizikových faktoroch demencie, hrách, pôste, strave, pohybe, spánku, sluchu a včasných príznakoch.",
+      "lede": "Čo veľké štúdie naozaj ukazujú o znižovaní rizika demencie, jasne vysvetlené, aj tam, kde sú dôkazy slabé alebo nejednotné. Všeobecné informácie, nie lekárska rada."
+    }
+  },
+  "guide": {
+    "updated": "Aktualizované",
+    "minuteRead": "Čítanie na {n} min.",
+    "byTeam": "Od tímu Golden Moments",
+    "howWeWrite": "Ako píšeme",
+    "shortAnswer": "Stručná odpoveď",
+    "onThisPage": "Na tejto stránke (sekcií: {n})",
+    "commonQuestions": "Časté otázky",
+    "sources": "Zdroje",
+    "sourcesNote": "Odkazujeme na organizácie a štúdie, o ktoré sa táto stránka opiera. Každý zdroj sme skontrolovali pri aktualizácii stránky.",
+    "tryTogether": "Vyskúšajte spolu",
+    "relatedGuides": "Súvisiace príručky",
+    "related": "Súvisiace",
+    "startHere": "Začnite tu"
+  },
+  "healthNotice": {
+    "aria": "Upozornenie k zdravotným informáciám",
+    "title": "Všeobecné informácie, nie lekárska rada",
+    "textHtml": "Táto stránka zhŕňa zverejnený výskum pre rodiny. Nemôže vám povedať, čo je správne pre jedného konkrétneho človeka. Pred zmenou stravy, pohybu, spánku, liekov alebo doplnkov sa poraďte s lekárom. Pri náhlej zmätenosti alebo iných náhlych zmenách ihneď vyhľadajte lekársku pomoc. <a href=\"/medical-disclaimer/\">Prečítajte si naše upozornenie k zdravotným informáciám</a>."
+  },
+  "pages": {
+    "about": {
+      "title": "Spoločná aktivita, nie skúška pamäte",
+      "seoTitle": "O Golden Moments: náš prístup",
+      "description": "Prečo hry Golden Moments nemajú časovače, body ani série, prečo obrázky zostávajú viditeľné a čo o demencii tvrdiť budeme a čo nie.",
+      "crumb": "Náš prístup",
+      "lede": "Golden Moments vytvára pokojné, dôstojné obrázkové aktivity, ktoré si môžu vedľa seba užiť opatrovateľ a človek žijúci s demenciou.",
+      "bodyHtml": "<h2>V čo veríme</h2><p>Zmyslom aktivity je samotná chvíľa: rozhovor, úsmev, radosť z toho, že dva obrázky k sebe pasujú, alebo jednoducho sedieť blízko seba. Nie je to na to, aby sme niekoho merali, tlačili ďalej alebo niečo dokazovali.</p><p>Mnohé aplikácie na tréning mozgu stoja na rýchlosti, bodoch, sériách a úrovniach. Pre človeka žijúceho s demenciou to môže pôsobiť ako skúška, ktorú nemôže zvládnuť. Navrhli sme pravý opak a držíme sa týchto pravidiel:</p><ul><li><strong>V ničom nemožno zlyhať.</strong> Žiadne hodiny, body, počítadlo ťahov, životy, série, konfety ani odpočítavanie, na žiadnej obrazovke.</li><li><strong>Spoznávanie namiesto vybavovania.</strong> Obrázky zostávajú predvolene viditeľné. Námety pozývajú k rozhovoru a nikdy sa nepýtajú na mená ani spomienky.</li><li><strong>Veľké, jasné a stále.</strong> Veľký text a obrázky, vysoký kontrast a ovládacie prvky, ktoré zostávajú na rovnakom mieste.</li><li><strong>Dôstojnosť dospelého.</strong> Obrázky zo skutočného sveta a jasné, vrelé slová. Žiadne kreslené postavičky, spevavá pochvala ani odmeny v podobe emotikonov.</li><li><strong>Ľahký odchod.</strong> „Zatiaľ dosť“ je vždy viditeľné. Skončiť v polovici je dobrý výsledok.</li><li><strong>Súkromie predvolene.</strong> Bez účtov a reklám. Fotografie, ktoré vyberiete, zostávajú vo vašom zariadení.</li></ul><h2>Čo netvrdíme</h2><p>Naše hry sú na potešenie a blízkosť. Nestanovujú diagnózu, netestujú, nemerajú, neliečia, nespomaľujú ani nezabraňujú demencii či Alzheimerovej chorobe a nikto by si ich nemal vyberať z tohto dôvodu. Keď na našich <a href=\"/brain-health/\">stránkach o zdraví mozgu</a> píšeme o výskume, jasne uvádzame, kde sú dôkazy slabé, a nikdy ho nespájame s našimi hrami.</p><h2>Kto sme</h2><p>Golden Moments je malý nezávislý tím. Nie sme klinickí odborníci. Naše príručky vychádzajú zo zverejnených odporúčaní organizácií, ako sú National Institute on Aging a Alzheimer’s Association, a každá príručka uvádza svoje zdroje. Prečítajte si, <a href=\"/editorial-policy/\">ako píšeme a kontrolujeme naše stránky</a>.</p><h2>Povedzte nám, čo by pomohlo</h2><p>Radi si vypočujeme, čo vám funguje a čo nie, najmä od ľudí žijúcich s demenciou, rodinných opatrovateľov a pracovníkov aktivít. Napíšte na <a href=\"mailto:{email}\">{email}</a>.</p>"
+    },
+    "editorial": {
+      "title": "Ako píšeme a kontrolujeme naše stránky",
+      "seoTitle": "Redakčné zásady",
+      "description": "Ako Golden Moments skúma, píše, dokladá a aktualizuje svoje stránky o aktivitách pri demencii a zdraví mozgu a čo nikdy nezverejníme.",
+      "crumb": "Redakčné zásady",
+      "bodyHtml": "<h2>Naše zdroje</h2><p>Naše príručky vychádzajú z verejných odporúčaní organizácií, ako sú National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance a NHS, a z recenzovaného výskumu, ako sú prehľady Cochrane a veľké klinické štúdie. Každá príručka uvádza zdroje, o ktoré sa opiera. Každý zdroj otvoríme, skôr než ho citujeme, a uvádzame iba to, čo naozaj hovorí.</p><h2>Ako píšeme</h2><ul><li>Najprv praktické: čo robiť dnes, jasným jazykom.</li><li>Úprimní k dôkazom: píšeme „súvisí s“, „môže“ a „dôkazy sú nejednotné“, keď je to pravda.</li><li>S rešpektom: o ľuďoch žijúcich s demenciou píšeme ako o dospelých a nikdy nepoužívame vypytovanie ani zahanbovanie.</li><li>Nič vymyslené: žiadne vymyslené štatistiky, citáty, odborníci, štúdie, recenzie ani svedectvá.</li></ul><h2>Kto naše stránky kontroluje</h2><p>Stránky píše a kontroluje tím Golden Moments, s pomocou nástrojov umelej inteligencie na výskum a prípravu textu. Každú stránku tím porovná s jej zdrojmi. Naše stránky <strong>neprešli</strong> kontrolou lekára ani iného klinického odborníka a nič také netvrdíme. Sú to všeobecné informácie, nie lekárska rada.</p><h2>Čo nikdy nezverejníme</h2><ul><li>Tvrdenia, že hra, jedlo, doplnok, pôst alebo rutina predchádza demencii, lieči ju, spomaľuje ju alebo ju vylieči.</li><li>Testy, kvízy alebo body, ktoré naznačujú, že niekto demenciu má alebo nemá.</li><li>Rady začať, prestať alebo zmeniť akýkoľvek liek.</li><li>Reklamu alebo sponzorovaný obsah vydávaný za radu.</li></ul><h2>Aktualizácie a opravy</h2><p>Každá stránka uvádza dátum poslednej aktualizácie. Ak nájdete chybu alebo zastaraný zdroj, napíšte na <a href=\"mailto:{email}\">{email}</a> a my to rýchlo skontrolujeme.</p>"
+    },
+    "faq": {
+      "title": "Otázky a odpovede",
+      "seoTitle": "Hry a aktivity pri demencii: otázky a odpovede",
+      "description": "Odpovede na časté otázky o hrách a aktivitách pri demencii: ktoré hry vyskúšať, ako dlho hrať, nápady pre neskoršie štádium, zdravie mozgu a súkromie.",
+      "crumb": "Otázky a odpovede",
+      "lede": "Krátke, jasné odpovede na otázky, ktoré opatrovatelia kladú najčastejšie.",
+      "groups": [
+        {
+          "id": "games",
+          "title": "O hrách",
+          "items": [
+            {
+              "q": "Aké hry sú najlepšie pre človeka s demenciou?",
+              "a": "Najlepšie sú hry známe, jednoduché a bez tlaku a tá pravá je tá, ktorú má človek rád práve dnes. Hľadanie dvojíc s viditeľnými obrázkami, triedenie, ľahké puzzle, dopĺňanie známych porekadiel, omaľovánky a obrázkové bingo vyhovujú mnohým ľuďom. Vyhnite sa časovačom, bodom a všetkému, čo pripomína test."
+            },
+            {
+              "q": "Sú hry naozaj zadarmo?",
+              "a": "Áno. Všetky hry a materiály na vytlačenie sú zadarmo, bez účtu, registrácie, sťahovania či reklám."
+            },
+            {
+              "q": "Prečo tu nie sú body, úrovne ani časovače?",
+              "a": "Rýchlosť a body menia príjemnú aktivitu na skúšku, ktorá môže priniesť rozpaky či frustráciu. My sa sústredíme na potešenie a spoločný čas, takže nie je v čom zlyhať a môžete skončiť kedykoľvek."
+            },
+            {
+              "q": "Na ktorých zariadeniach to funguje najlepšie?",
+              "a": "Na každom telefóne, tablete alebo počítači s moderným webovým prehliadačom. Tablet na stojane pri stole je často najpohodlnejší spôsob, ako hrať dvaja vedľa seba. Pre skupiny sa hodí notebook pripojený k televízoru."
+            },
+            {
+              "q": "Môžeme hrať s vlastnými rodinnými fotografiami?",
+              "a": "Áno. Fotografické dvojice premenia 2 až 6 fotografií, ktoré vyberiete, na hru na hľadanie dvojíc. Fotografie zostávajú vo vašom prehliadači a nenahrávajú sa ani neukladajú."
+            }
+          ]
+        },
+        {
+          "id": "activities",
+          "title": "Aktivity a starostlivosť",
+          "items": [
+            {
+              "q": "Ako dlho má aktivita trvať?",
+              "a": "Často stačí 10 až 20 minút a niekedy je úspechom aj 2 minúty. Všímajte si známky únavy alebo frustrácie a skončite, kým je to ešte príjemné. Správne množstvo neexistuje."
+            },
+            {
+              "q": "Čo ak sa človeku do aktivity nechce?",
+              "a": "Rešpektujte jeho nie a skúste to neskôr alebo iným spôsobom. Odmietnutie môže vychádzať z únavy, bolesti, neistoty alebo jednoducho zo záujmu o niečo iné. Pozrite si našu príručku o tom, čo robiť, keď povie nie."
+            },
+            {
+              "q": "Aké aktivity sú vhodné pre neskoršie štádium demencie?",
+              "a": "Pohoda a zmysly: počúvanie obľúbenej hudby, masáž rúk s krémom, spoločné pozeranie fotografií, držanie mäkkej deky, sedenie vonku alebo veľmi jednoduchá obrázková hra, pri ktorej je niekto vedľa. Naša príručka pre neskoršie štádium obsahuje oveľa viac nápadov."
+            },
+            {
+              "q": "Sú aktivity aj pre skupiny v domove pre seniorov?",
+              "a": "Áno. Obrázkové bingo má kartičky na vytlačenie a obrazovkové vyťahovanie obrázkov a hry Dokonči porekadlo a Kartičky na rozhovor sa dobre čítajú nahlas. Naša príručka pre skupiny v domovoch pre seniorov rieši veľkosť skupiny, sedenie a prispôsobenie rôznym schopnostiam."
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Zdravie mozgu",
+          "items": [
+            {
+              "q": "Môžu hry demencii predchádzať alebo ju spomaliť?",
+              "a": "Nepreukázalo sa, že by nejaká hra demencii predchádzala, a naše hry také tvrdenie nemajú. Kognitívna stimulácia v spoločenskej skupine v štúdiách preukázala malé prínosy u ľudí s miernou až stredne ťažkou demenciou, ale to je niečo iné než hra, ktorá predchádza chorobe. Hry ponúkame na potešenie a blízkosť."
+            },
+            {
+              "q": "Dá sa demencii predchádzať?",
+              "a": "Nie s istotou. Výskum dáva do súvislosti s rizikom demencie 14 zdravotných faktorov a faktorov životného štýlu, napríklad stratu sluchu, vysoký krvný tlak, nedostatok pohybu a sociálnu izoláciu. Ak sa im venujeme, u niektorých ľudí to môže riziko znížiť, no mnohí, ktorí robia všetko správne, demenciu napriek tomu dostanú. Nikdy to nie je ničia vina."
+            },
+            {
+              "q": "Je prerušovaný pôst dobrý pre zdravie mozgu?",
+              "a": "Dôkazy u ľudí sú obmedzené a predbežné a veľká časť výskumu je na zvieratách. Pôst môže byť pre starších dospelých rizikový, najmä pri liekoch na cukrovku alebo pri nechcenom chudnutí, a ľuďom žijúcim s demenciou sa neodporúča. Pred zmenou stravovania sa poraďte s lekárom."
+            }
+          ]
+        },
+        {
+          "id": "privacy",
+          "title": "Súkromie a bezpečnosť",
+          "items": [
+            {
+              "q": "Zbierate nejaké informácie?",
+              "a": "Bez účtov a reklám. Používame Google Analytics na počítanie návštev a na zistenie, ktoré stránky pomáhajú, a váš prehliadač si pamätá, či ste zapli jemné zvuky. Fotografie, ktoré vyberiete do hry Fotografické dvojice, sa nikdy nenahrávajú. Podrobnosti nájdete v oznámení o súkromí."
+            },
+            {
+              "q": "Je to lekárska rada?",
+              "a": "Nie. Golden Moments je určený na voľný čas a všeobecné informácie. S otázkami o zdraví sa obráťte na lekára a v núdzi volajte 112."
+            }
+          ]
+        }
+      ],
+      "moreHtml": "Viac podrobností: <a href=\"/caregiving/how-to-play-together/\">ako hrať spolu</a>, <a href=\"/caregiving/when-they-say-no/\">keď povedia nie</a>, <a href=\"/activities/late-stage/\">aktivity pre neskoršie štádium</a> a <a href=\"/brain-health/can-dementia-be-prevented/\">dá sa demencii predchádzať?</a>"
+    },
+    "handout": {
+      "title": "Bezplatné pokojné hry pre ľudí žijúcich s demenciou",
+      "seoTitle": "Leták na vytlačenie: bezplatné hry pri demencii online",
+      "description": "Jednostranový leták na vytlačenie pre rodiny a opatrovateľov o bezplatných pokojných obrázkových hrách pre ľudí žijúcich s demenciou, pre podporné skupiny a balíčky pre opatrovateľov.",
+      "crumb": "Leták na vytlačenie",
+      "lede": "Vytlačte si túto stránku pre podpornú skupinu, balíček pre opatrovateľov alebo na dvere chladničky. Použite príkaz Tlačiť vo svojom prehliadači. Ponuky a tlačidlá sa na výtlačok nedostanú.",
+      "introHtml": "<p>Veľké obrázky, jasné slová a nič, v čom by sa dalo zlyhať. Zadarmo na telefóne, tablete či počítači, bez registrácie, reklám, časovačov a bodov. Sadnite si vedľa seba a striedajte sa.</p>",
+      "gamesTitle": "Hry na vyskúšanie spolu",
+      "restHtml": "<h2>Niekoľko tipov</h2><ul><li>Vyberte si čas dňa, keď je človek vo svojej najlepšej forme.</li><li>Začnite najľahším nastavením. Štyri dlaždice úplne stačia.</li><li>Rozprávajte sa o obrázkoch. Rozhovor je často to najlepšie.</li><li>Skončite, kým je to ešte príjemné. Skorý koniec je dobrý výsledok.</li></ul><h2>Aj na tomto webe</h2><ul><li>Bezplatné materiály na vytlačenie: osemsmerovky vo veľkej tlači, omaľovánky, kartičky na rozhovor a obrázkové bingo.</li><li>Nápady na aktivity pre každé štádium a príručky o spoločnom hraní a o starostlivosti o seba.</li></ul><p class=\"muted\">Na potešenie a spoločný čas. Nie je to lekárska rada, test ani liečba. Golden Moments vydáva Cloudjet Solutions Pte. Ltd.</p>"
+    },
+    "organizations": {
+      "title": "Pre domovy seniorov, knižnice a podporné skupiny",
+      "seoTitle": "Bezplatné aktivity pri demencii pre domovy a skupiny",
+      "description": "Ako domovy seniorov, denné centrá, knižnice, úrady pre starších a podporné skupiny využívajú naše bezplatné hry pri demencii, aj s textom na zaradenie nášho webu do zoznamu zdrojov.",
+      "crumb": "Pre organizácie",
+      "lede": "Všetko na tomto webe môžete bezplatne používať s obyvateľmi, členmi a klientmi, bez účtu, licencie či poplatku. Táto stránka vysvetľuje, čo tu nájdete a ako to zdieľať.",
+      "shortText": "{name}: bezplatné pokojné obrázkové hry a príručky aktivít pre ľudí žijúcich s demenciou a ich opatrovateľov. Bez registrácie, časovačov a bodov.",
+      "longText": "{name} ({domain}) ponúka {count} bezplatných hier v prehliadači pre ľudí žijúcich s demenciou, vrátane hľadania dvojíc s ponechanými viditeľnými obrázkami, ľahkých puzzle, triedenia, známych porekadiel a obrázkového binga s kartičkami na vytlačenie. Nie je tu žiadny účet, reklama, časovač ani body. Web obsahuje aj jasné príručky aktivít pre každé štádium demencie, ktoré odkazujú na National Institute on Aging a Alzheimer’s Association.",
+      "useTitle": "Čo môžu organizácie používať",
+      "gamesItemHtml": "<strong>Hry v prehliadači ({count})</strong>, ktoré bežia na notebooku, tablete alebo na televízore pripojenom k počítaču. Bez inštalácie, účtu a sťahovania. Pozrite si <a href=\"/games/\">všetky hry</a>.",
+      "printablesLabel": "Materiály na vytlačenie ({count}):",
+      "printablesAfter": "Použite tlačidlo Tlačiť na každej stránke.",
+      "moreItemsHtml": "<li><strong>Skupinové formy:</strong> <a href=\"/games/picture-bingo/\">Obrázkové bingo</a> má kartičky na vytlačenie a obrazovkové vyťahovanie obrázkov a <a href=\"/activities/trivia/\">jednoduché otázky na rozhovor</a> obsahujú 50 otázok s možnosťami odpovedí a námetmi na rozhovor.</li><li><strong>Príručky aktivít</strong> pre personál a rodiny, podľa štádia a druhu, napísané jasným jazykom a so zdrojmi. Začnite so <a href=\"/activities/ideas/\">101 nápadmi na aktivity</a> alebo <a href=\"/activities/care-home-groups/\">skupinovými aktivitami pre domovy seniorov</a>.</li>",
+      "restHtml": "<h2>Ako to skupiny využívajú</h2><ul><li><strong>Domovy seniorov a zariadenia s pamäťovou starostlivosťou:</strong> obrázkové bingo alebo dopĺňanie porekadiel na televízore v spoločenskej miestnosti, pričom za skupinu klepe jeden človek.</li><li><strong>Denné centrá pre dospelých:</strong> tabletová stanica s Obrázkovými dvojicami nastavenými na štyri dlaždice pre krátke stretnutia jeden na jedného.</li><li><strong>Verejné knižnice:</strong> vytlačené osemsmerovky a kartičky na rozhovor v pamäťových súpravách a web v záložkách na knižničných tabletoch.</li><li><strong>Podporné skupiny pre opatrovateľov a pamäťové kaviarne:</strong> <a href=\"/handout/\">jednostranový leták na vytlačenie</a>, ktorý si rodiny odnesú domov.</li><li><strong>Nemocnice a plánovači prepustenia:</strong> leták v balíčkoch pre opatrovateľov, ako námet na pokojnú činnosť doma alebo pri lôžku.</li></ul><h2>Čo nerobíme</h2><p>Hry sú na potešenie a spoločný čas. Nestanovujú diagnózu, netestujú, nehodnotia, neliečia ani nespomaľujú demenciu a žiadame organizácie, aby ich tak neopisovali. Nie sú tu reklamy a hry nežiadajú mená, zdravotné údaje ani nahrávanie fotografií. Web používa Google Analytics na počítanie návštev. Naše <a href=\"/privacy/\">oznámenie o súkromí</a> vysvetľuje, čo sa tým zbiera. Fotografie použité v hre <a href=\"/games/photo-pairs/\">Fotografické dvojice</a> zostávajú v prehliadači.</p><h2>Pridajte nás do zoznamu zdrojov</h2><p>Ak vediete zoznam zdrojov pre opatrovateľov, môžete odkazovať na <a href=\"/\">{domain}</a>. Môžete skopírovať ktorýkoľvek z opisov.</p>",
+      "shortTitle": "Krátky opis",
+      "longTitle": "Dlhší opis",
+      "linksHtml": "<p>Užitočné stránky, na ktoré môžete odkazovať priamo: <a href=\"/games/\">bezplatné hry</a>, <a href=\"/activities/printable/\">bezplatné materiály na vytlačenie</a>, <a href=\"/activities/alzheimers/\">aktivity pri Alzheimerovej chorobe</a> a <a href=\"/caregiving/how-to-play-together/\">ako hrať spolu</a>.</p><h2>Otázky alebo opravy</h2><p>Ak je niečo na webe nesprávne alebo nejasné, alebo ak potreby niektorého obyvateľa nepokrýva to, čo tu je, napíšte nám na <a href=\"mailto:{email}\">{email}</a>. Neposielajte prosím osobné ani zdravotné údaje o obyvateľoch či klientoch.</p>"
+    },
+    "app": {
+      "title": "Aplikácia Golden Moments",
+      "seoTitle": "Aplikácia Golden Moments pre iPhone a Android",
+      "description": "Bezplatná aplikácia Golden Moments: pokojné hľadanie dvojíc vo fotografiách so štyrmi veľkými dlaždicami, rodinné fotografie uložené vo vašom zariadení, obrázkové balíčky offline a bez účtu.",
+      "crumb": "Aplikácia",
+      "lede": "Všetko, čo sa vám páči na webe, v aplikácii, ktorá funguje offline a môže používať rodinné fotografie, ktoré si vyberiete.",
+      "worksOn": "Funguje na: {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Začnite v malom</h2><p>Začnite so štyrmi veľkými dlaždicami a známymi obrázkami. Obrázky nechajte viditeľné, alebo ich skryte, ak je to príjemnejšie. Pokojný režim nemá časovač, body ani trest. Zvoľte 4, 6, 8 alebo 12 dlaždíc.</p><h2>Urobte to osobné</h2><p>Rodinné fotografie vyberte pomocou výberu fotografií vo svojom zariadení. Aplikácia ukladá menšie kópie pre svoje aktivity. Neprehľadáva vašu knižnicu ani nemení vaše originálne fotografie a v jednej zbierke uchová až 24 fotografií.</p><h2>Stačí sa spolu pozerať</h2><p>Zobrazujte jeden obrázok naraz. Voliteľné námety pozývajú k rozhovoru bez toho, aby sa od niekoho žiadalo pamätať si mená alebo dať správnu odpoveď. Stačí sa jednoducho pozerať.</p><h2>Offline tam, kde na tom záleží</h2><p>Úvodné obrázky a všetkých osem obrázkových balíčkov je súčasťou aplikácie. Kópie pridaných fotografií fungujú offline. Pri výbere originálov uložených iba v iCloude môže byť potrebné pripojenie k internetu.</p><h2>Bez účtu a bez servera na synchronizáciu fotografií</h2><p>Kópie rodinných fotografií zostávajú v aplikácii v zariadení. Kópie môžete odstrániť bez vymazania originálov. Zálohy zariadenia môžu obsahovať údaje aplikácie. Prečítajte si <a href=\"/app-privacy/\">zásady ochrany súkromia aplikácie</a> a <a href=\"/help/\">pomoc k aplikácii</a> vás prevedie každým krokom.</p>",
+      "disclaimer": "Golden Moments je určený na voľný čas a spoločný rozhovor. Nestanovuje diagnózu, nelieči, nepredchádza ani nemeria demenciu či Alzheimerovu chorobu.",
+      "appLanguageNote": ""
+    }
+  },
+  "gamesIndex": {
+    "title": "Bezplatné hry pri demencii a Alzheimerovej chorobe online",
+    "description": "Bezplatné online hry pre seniorov žijúcich s demenciou alebo Alzheimerovou chorobou: hľadanie dvojíc, ľahké puzzle, triedenie, porekadlá, omaľovánky, bingo. Bez registrácie, časovačov a bodov.",
+    "crumb": "Hry",
+    "h1": "Pokojné hry pre ľudí s demenciou",
+    "lede": "{count} bezplatných hier na spoločné hranie vo vašom prehliadači. Veľké obrázky, jasné slová a nič, v čom by sa dalo zlyhať: žiadne časovače, body ani registrácia.",
+    "listName": "Pokojné hry pre ľudí s demenciou",
+    "byStageTitle": "Výber hry podľa štádia",
+    "byStageLede": "Štádiá sú len hrubým vodidlom. Riaďte sa tým, čo človek rád robí a čo je príjemné práve dnes.",
+    "stageCol": "Štádium",
+    "gamesCol": "Hry, ktoré často vyhovujú",
+    "moreHtml": "Ďalšie nápady mimo obrazovky: <a href=\"/activities/ideas/\">101 aktivít pre ľudí s demenciou</a>, <a href=\"/activities/alzheimers/\">aktivity a hry pri Alzheimerovej chorobe</a>, <a href=\"/activities/memory-games/\">pokojné hry na pamäť</a> a <a href=\"/activities/puzzles/\">puzzle</a>.",
+    "faq": [
+      {
+        "q": "Ktorou hrou by sme mali začať?",
+        "a": "Pokojnou prvou voľbou sú Obrázkové dvojice so štyrmi dlaždicami. Ak sa vám zdá výber z obrázkov priveľa, skúste Nájdi rovnaké s dvoma obrázkami. Pre skupinu skúste Obrázkové bingo."
+      },
+      {
+        "q": "Fungujú hry na iPade alebo telefóne?",
+        "a": "Áno. Každá hra funguje v prehliadači na telefónoch, tabletoch a počítačoch a obrázky sa zväčšia podľa obrazovky. Tablet na stojane je často najpohodlnejší pre dvoch ľudí."
+      },
+      {
+        "q": "Sú tieto hry dobré pre človeka s Alzheimerovou chorobou?",
+        "a": "Áno. Vznikli pre ľudí žijúcich s demenciou, vrátane Alzheimerovej choroby, jej najčastejšej príčiny. Obrázky zostávajú viditeľné, možností je málo a nič sa nemeria časom ani bodmi, takže hry vychádzajú zo spoznávania známych vecí, nie z pamätania si nových."
+      },
+      {
+        "q": "Sú to hry na pamäť pre seniorov?",
+        "a": "Sú to hry na hľadanie dvojíc a s obrázkami, ktoré môže baviť každého staršieho dospelého, no sú urobené tak, aby pamäť neskúšali: v Obrázkových dvojiciach zostávajú obrázky odkryté, kým sa nerozhodnete inak. Naša príručka o hrách na pamäť pre seniorov s demenciou vysvetľuje, ako udržať akúkoľvek hru pokojnú."
+      },
+      {
+        "q": "Sú tu hry aj pre skupiny v domove seniorov?",
+        "a": "Áno. Obrázkové bingo má kartičky na vytlačenie a obrazovkové vyťahovanie obrázkov a hry Dokonči porekadlo a Kartičky na rozhovor sa dobre čítajú nahlas skupine."
+      }
+    ]
+  },
+  "appFacts": {
+    "platforms": "iPhone, iPad a Android",
+    "requirements": "iOS 15 alebo novší; Android 7.0 alebo novší",
+    "summary": "Bezplatná aplikácia pre iPhone, iPad a Android s pokojným hľadaním dvojíc na štyroch až dvanástich veľkých dlaždiciach, s hrou a prezeraním rodinných fotografií, ktoré si vyberiete, a s ôsmimi obrázkovými balíčkami v aplikácii, ktoré fungujú bez internetu. Bez účtu, reklám, časovača a bodov.",
+    "features": [
+      "Pokojné hľadanie dvojíc so 4, 6, 8 alebo 12 veľkými dlaždicami; obrázky zostávajú viditeľné, kým sa nerozhodnete ich skryť",
+      "Rodinné fotografie, ktoré vyberiete, sa skopírujú do aplikácie na hľadanie dvojíc a na spoločné prezeranie",
+      "Pozrieť si spolu: jeden obrázok naraz s voliteľnými námetmi na rozhovor",
+      "Osem obrázkových balíčkov je súčasťou aplikácie a fungujú offline",
+      "Bez účtu, reklám, nákupov v aplikácii, časovača, bodov a trestu"
+    ],
+    "faq": [
+      {
+        "q": "Existuje aplikácia s aktivitami pri demencii?",
+        "a": "Áno. Golden Moments (v obchodoch uvedený ako „{storeName}“) je zadarmo v App Store a Google Play. Ponúka pokojné hľadanie dvojíc s veľkými dlaždicami, hry s rodinnými fotografiami, ktoré si vyberiete, a obrázkové balíčky, ktoré fungujú offline."
+      },
+      {
+        "q": "Je aplikácia Golden Moments zadarmo?",
+        "a": "Áno. Sťahuje sa zadarmo, bez reklám, účtu a nákupov v aplikácii."
+      },
+      {
+        "q": "Funguje aplikácia bez internetu?",
+        "a": "Áno. Úvodné obrázky a všetkých osem obrázkových balíčkov je súčasťou aplikácie a rodinné fotografie fungujú offline, keď sa skopírujú do aplikácie. Pri výbere fotografie uloženej iba v iCloude môže byť potrebné pripojenie."
+      },
+      {
+        "q": "Môžem používať naše vlastné rodinné fotografie?",
+        "a": "Áno. Fotografie vyberte pomocou výberu fotografií vo svojom zariadení. Aplikácia pre svoje aktivity uchováva menšie kópie v zariadení, nenahráva ich a originály nikdy nemení. Kópie môžete kedykoľvek odstrániť."
+      },
+      {
+        "q": "Je to aplikácia na tréning mozgu alebo test pamäte?",
+        "a": "Nie. Golden Moments je určený na potešenie a spoločný čas. Nemá body ani testy a nestanovuje diagnózu, nelieči, nepredchádza ani nemeria demenciu či Alzheimerovu chorobu."
+      },
+      {
+        "q": "Na ktorých zariadeniach funguje?",
+        "a": "{platforms}: {requirements}."
+      }
+    ],
+    "gameFaqYes": {
+      "q": "Existuje aplikačná verzia tejto hry?",
+      "a": "Áno. Bezplatná aplikácia Golden Moments pre iPhone, iPad a Android má rovnaké pokojné hľadanie dvojíc, môže používať rodinné fotografie, ktoré si vyberiete, a funguje offline. Bez účtu, reklám a bodov."
+    },
+    "gameFaqNo": {
+      "q": "Existuje aplikačná verzia tejto hry?",
+      "a": "Táto hra v aplikácii nie je. Bezplatná aplikácia Golden Moments pre iPhone, iPad a Android má pokojné hľadanie dvojíc s veľkými dlaždicami a rodinnými fotografiami, ktoré si vyberiete, a funguje offline. Táto hra zostáva zadarmo tu, vo vašom prehliadači."
+    }
+  },
+  "gamePage": {
+    "imageAlt": "{name}: veľké, priateľské obrázky",
+    "noscript": "Táto hra potrebuje zapnutý JavaScript vo vašom prehliadači. Tipy nižšie fungujú aj bez neho.",
+    "about": "O hre {name}",
+    "aboutAria": "O tejto hre",
+    "noTimer": "Bez časovača a bodov",
+    "printable": "Na vytlačenie",
+    "howTo": "Ako hrať: {name}",
+    "tips": "Tipy na spoločné hranie",
+    "newToPlayingHtml": "Hráte prvýkrát s človekom, ktorý má demenciu? Prečítajte si <a href=\"/caregiving/how-to-play-together/\">ako hrať hry spolu</a>, aj o tom, čo robiť, ak záujem opadne.",
+    "moreAria": "Ďalšie na preskúmanie",
+    "helpfulGuides": "Užitočné príručky",
+    "appTitle": "Hrajte v aplikácii",
+    "appText": "Bezplatná aplikácia Golden Moments má pokojné hľadanie dvojíc s veľkými dlaždicami a vašimi vlastnými rodinnými fotografiami a funguje bez Wi‑Fi. iPhone, iPad a Android.",
+    "photoAppTitle": "Majte svoje fotografie po ruke",
+    "photoAppText": "V bezplatnej aplikácii Golden Moments zostávajú fotografie, ktoré vyberiete, vo vašom zariadení aj nabudúce a hry fungujú bez Wi‑Fi. iPhone, iPad a Android.",
+    "goodToKnow": "Dobré vedieť",
+    "goodToKnowText": "Táto hra je na potešenie a spoločný čas. Nič netestuje, nemeria ani nelieči.",
+    "moreGames": "Ďalšie pokojné hry",
+    "crumb": "Hry"
+  }
+}
