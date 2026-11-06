@@ -43,6 +43,10 @@ Locale? _match(Locale locale, Iterable<Locale> supported) {
       );
       return offers(chosen) ? chosen : null;
     case 'pt':
+      // European Portuguese only for a Portugal region; every other Portuguese
+      // (including no region) keeps the Brazilian translation.
+      const portugal = Locale('pt', 'PT');
+      if (locale.countryCode == 'PT' && offers(portugal)) return portugal;
       const brazil = Locale('pt', 'BR');
       return offers(brazil) ? brazil : null;
   }

@@ -41,6 +41,19 @@ const _appLocales = {
   'jv',
   'su',
   'sd',
+  'ca',
+  'cs',
+  'da',
+  'el',
+  'fi',
+  'he',
+  'hr',
+  'hu',
+  'nb',
+  'pt_PT',
+  'sk',
+  'sl',
+  'sv',
 };
 const _baseFallbacks = {'pt', 'zh'};
 
@@ -180,9 +193,11 @@ void main() {
       expect(pick([const Locale('zh')]), hans);
     });
 
-    test('all Portuguese uses the Brazilian translation', () {
-      expect(pick([const Locale('pt', 'PT')]), const Locale('pt', 'BR'));
+    test('Portugal gets European Portuguese; other Portuguese is Brazilian', () {
+      expect(pick([const Locale('pt', 'PT')]), const Locale('pt', 'PT'));
+      expect(pick([const Locale('pt', 'BR')]), const Locale('pt', 'BR'));
       expect(pick([const Locale('pt')]), const Locale('pt', 'BR'));
+      expect(pick([const Locale('pt', 'AO')]), const Locale('pt', 'BR'));
     });
 
     test('an unoffered language falls through, then to English', () {
