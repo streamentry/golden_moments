@@ -96,9 +96,9 @@ Domáce práce sú známe a užitočné, čo z nich robí prirodzené miesto na 
 3. **Prestrite stôl.** Podávajte jeden druh predmetu naraz. Jedno miesto prestrite sami ako vzor.
 4. **Umývajte alebo utierajte riad.** Teplá mydlová voda a nerozbitný riad. Utieranie v sede je pre nohy ľahšie.
 5. **Utrite stôl.** Po jedle podajte vlhkú handričku. Je to skutočná práca pre nepokojné ruky.
-6. **Triedťe poštu.** Katalógy a reklamnú poštu na „nechať“ a „recyklovať“. Skutočné účty odložte bokom.
+6. **Triedte poštu.** Katalógy a reklamnú poštu na „nechať“ a „recyklovať“. Skutočné účty odložte bokom.
 7. **Strihajte kupóny.** Nožnice s tupou špičkou a letáky z obchodu. Neskôr stačí zakrúžkovať obľúbené jedlá.
-8. **Triedťe mince.** Roztrieďte drobné do pohárov alebo ich zabaľte do obalov. Vynechajte malé predmety, ak si človek dáva veci do úst.
+8. **Triedte mince.** Roztrieďte drobné do pohárov alebo ich zabaľte do obalov. Vynechajte malé predmety, ak si človek dáva veci do úst.
 9. **Zametajte alebo odprašujte.** Ľahká metla na verande alebo dlhá prachovka používaná zo stoličky.
 10. **Pomôžte pripraviť jedlo.** Umývanie zeleniny, trhanie šalátu, miešanie. Nože a teplo nechajte na seba.
 11. **Upečte rodinný recept.** Použite kartičku s ich rukopisom, ak ju máte. Neskôr môžu byť ochutnávačmi.
@@ -168,7 +168,7 @@ Dotyk, vôňa, chuť, zvuk a zrak sú dôležitejšie, ako demencia postupuje. [
 50. **Vôňajte bylinky a kávu.** Rozotrite čerstvú mätu alebo rozmarín medzi prstami. Pri problémoch s dýchaním vynechajte silné vône.
 51. **Češte mu vlasy.** Pomaly a jemne, ak to má rád.
 52. **Podajte teplú utierku.** Na ruky a tvár v chladný deň. Najprv vyskúšajte teplotu.
-53. **Preskúmajte aktivitnú zástěru.** Veľké gombíky a zipsy pevne prišité. Skontrolujte, že sa nič nemôže uvoľniť.
+53. **Preskúmajte aktivitnú zásteru.** Veľké gombíky a zipsy pevne prišité. Skontrolujte, že sa nič nemôže uvoľniť.
 54. **Ochutnajte obľúbenú pochúťku.** Malú lyžičku v konzistencii, ktorú zvládne bezpečne.
 55. **Pustite zvuky prírody.** Dážď, vlny alebo spev vtákov nízkou hlasitosťou.
 56. **Pozerajte niečo pomalé.** Akvárium, video z prírody alebo padajúci sneh.
@@ -179,7 +179,7 @@ Hry fungujú, keď nie sú časovač, body ani tlak. Ak niektorá začne pôsobi
 
 57. **Párujte obrázky.** [Obrázkové dvojice](/games/picture-pairs/) nechávajú obrázky obrazom nahor, takže ide o všímanie si, nie o pamätanie.
 58. **Nájdite rovnaký obrázok.** [Nájdite rovnaké](/games/find-the-same/) ponúka dve až štyri možnosti. Rozprávajte sa o každom obrázku.
-59. **Triedťe do košov.** [Triedenie spolu](/games/sort-together/) je ako triedenie ponožiek na obrazovke.
+59. **Triedte do košov.** [Triedenie spolu](/games/sort-together/) je ako triedenie ponožiek na obrazovke.
 60. **Skladajte veľkodielnu skladačku.** Obrázky s dospelými motívmi, ľahký počet dielikov. [Obrázkové puzzle](/games/picture-puzzle/) drží celý obrázok viditeľný. Viac v článku [puzzle pre ľudí s demenciou](/activities/puzzles/).
 61. **Zahrajte si staršiu kartovú hru.** Čokoľvek hrali roky. Neskôr je triedenie balíčka podľa farby samo osebe hrou.
 62. **Hrajte domino.** Spárujte konce. Neskôr stačí len radiť kamienky.
@@ -250,6 +250,6 @@ Zachovajte tradície, ale jednoduchšie. NIA odporúča byť realistickí a mať
 
 ## Čo ak aktivita nefunguje?
 
-Zastavte a skúste inokedy niečo iné. NIA odporúča sledovať frustráciu a nechať človeka jednoducho pozerať, ak to uprednostní. Nie často znamená, že úloha je príliš ťažká, čas je zlý alebo ho niečo iné trápi, napríklad bolesť, hlad alebo hluk. Urobte ju menšou, skúste ju skôr počas dňa alebo ju začnite sami a sledujte, či sa pridá. Pozrite si [keď povie nie](/caregiving/when-they-say-no/) a [nepokoj neskoro popoludní](/caregiving/late-day-restlessness/).
+Zastavte a skúste inokedy niečo iné. NIA odporúča sledovať frustráciu a nechať človeka jednoducho pozerať, ak to uprednostní. Odmietnutie často znamená, že úloha je príliš ťažká, čas je zlý alebo ho niečo iné trápi, napríklad bolesť, hlad alebo hluk. Urobte ju menšou, skúste ju skôr počas dňa alebo ju začnite sami a sledujte, či sa pridá. Pozrite si [keď povie nie](/caregiving/when-they-say-no/) a [nepokoj neskoro popoludní](/caregiving/late-day-restlessness/).
 
-Ak chcete aktivity zapadnúť medzi jedlá a odpočinok, pozrite si [jemný denný režim](/activities/daily-routine/). Na veci, ktoré máte pripravené, pozrite [aktivity na vytlačenie](/activities/printable/), a ak vediete skupinu, [skupinové aktivity v domovoch so starostlivosťou](/activities/care-home-groups/). Záleží aj na vašom odpočinku; pozrite si [starostlivosť o seba pre opatrovateľa](/caregiving/caregiver-self-care/).
+Ak chcete aktivity zapadnúť medzi jedlá a odpočinok, pozrite si [jemný denný režim](/activities/daily-routine/). Na veci, ktoré máte pripravené, si pozrite [aktivity na vytlačenie](/activities/printable/), a ak vediete skupinu, [skupinové aktivity v domovoch so starostlivosťou](/activities/care-home-groups/). Záleží aj na vašom odpočinku; pozrite si [starostlivosť o seba pre opatrovateľa](/caregiving/caregiver-self-care/).

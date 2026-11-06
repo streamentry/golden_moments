@@ -74,7 +74,7 @@ Jeden nádejný signál: Komisia Lancet z roku 2024 uviedla, že v niektorých k
 
 Komisia Lancet pre prevenciu, liečbu a starostlivosť o demenciu je skupina 27 výskumníkov demencie, ktorí pravidelne, každých pár rokov, hodnotia dôkazy. Ich správa z roku 2024 pomenovala **14 rizikových faktorov**, ktoré sa môžu potenciálne zmeniť, a odhadla, že spolu súvisia s **takmer polovicou (asi 45 %) prípadov demencie na svete**. Autori uviedli, že tieto prípady by sa *teoreticky* dali predísť alebo oddialiť, ak by sa riziká odstránili ([správa Komisie Lancet z roku 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-Štrnásť faktorov, zoskupených podľa životného obdobia, v ktorom sú dôkazy najsilnejšie:
+14 faktorov, zoskupených podľa životného obdobia, v ktorom sú dôkazy najsilnejšie:
 
 - **Raný život:** menej vzdelania.
 - **Stredný vek (asi 40 až 65 rokov):** strata sluchu, vysoký LDL („zlý“) cholesterol, depresia, poranenie hlavy, nedostatok pohybu, cukrovka, fajčenie, vysoký krvný tlak, obezita a nadmerné pitie alkoholu.

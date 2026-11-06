@@ -51,7 +51,7 @@ Aktivita patrí medzi najviac skúmané návyky vo výskume zdravia mozgu. Štú
 
 ## Znižuje cvičenie riziko demencie?
 
-Výskum naznačuje, že fyzicky aktívni ľudia majú menšiu pravdepodobnosť, že dostanú demenciu, no dôkazy majú svoje obmedzenia. [Komisia Lancet o demencii z roku 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) uvádza nedostatok pohybu ako jeden zo 14 rizikových faktorov, ktoré sa dajú zmeniť. Spolu tieto faktory podľa jej modelu súvisia s asi 45 % prípadov demencie na svete.
+Výskum naznačuje, že fyzicky aktívni ľudia majú menšiu pravdepodobnosť, že dostanú demenciu, no dôkazy majú svoje obmedzenia. [Komisia Lancet o demencii z roku 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) uvádza nedostatok pohybu ako jeden zo 14 rizikových faktorov, ktoré sa dajú zmeniť. Spolu tieto 14 faktorov podľa jej modelu súvisia s asi 45 % prípadov demencie na svete.
 
 Takto vyzerajú dôkazy:
 
@@ -69,7 +69,7 @@ Takto vyzerajú dôkazy:
 
 | Typ | Týždenné množstvo | Príklady |
 | --- | --- | --- |
-| Aeróbna | Aspoň 150 minút miernej aktivity, napríklad 30 minút päťkrát týždenne | Svižná chôdza, tanec, vodné aeróbne cvičenie |
+| Aeróbna | Aspoň 150 minút miernej aktivity, napríklad 30 minút počas 5 dní | Svižná chôdza, tanec, vodné aeróbne cvičenie |
 | Posilňovanie svalov | Aspoň 2 dni, zapojením všetkých hlavných svalových skupín | Zdvíhanie ľahkých váh alebo konzerv s polievkou, cvičenie s gumou |
 | Rovnováha | Pravidelne | Chôdza päta k špičke, vstávanie zo stoličky |
 
