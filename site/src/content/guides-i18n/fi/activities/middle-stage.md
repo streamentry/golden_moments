@@ -75,7 +75,7 @@ Useimmat toiminnat onnistuvat tai epäonnistuvat valmistelussa. Nämä tavat, jo
 
 - **Taittakaa pyyhkeitä ja pesulappuja.** Pienet, litteät esineet ovat helpoimpia. Kori lämpimiä pesulappuja voi taittaa, tasoittaa ja taittaa uudelleen.
 - **Pariinlajitelkaa sukat.** Aloittakaa muutamalla hyvin erilaisella parilla. Pelkkä värin mukaan lajittelu käy myös.
-- **Pesette tai kuivatte särkymättömiä astioita.** Lämmin saippuavesi on kädelle miellyttävää. Kuivaaminen istuen on jaloille helpompaa.
+- **Pestkää tai kuivatkaa särkymättömiä astioita.** Lämmin saippuavesi on kädelle miellyttävää. Kuivaaminen istuen on jaloille helpompaa.
 - **Kattakaa pöytä.** Ojentakaa yksi esinetyyppi kerrallaan ja kattakaa yksi paikka itse mallina.
 - **Auttakaa illallisen valmistuksessa.** Perunoiden pesu, salaatin repiminen tai kulhon sekoittaminen. Te hoidatte veitset ja lämmön.
 - **Lakaiskaa, pölyttäkää tai pyyhkikää.** Liina pöydälle, kevyt luuta terassille.

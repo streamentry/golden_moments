@@ -159,7 +159,7 @@ Raikas ilma ja päivänvalo ovat hyvää seuraa. Katso [ulkoilu- ja puutarhatoim
 44. **Kävelkää tuttua reittiä.** Korttelin ympäri tai postilaatikolle. Lyhyempi käy.
 45. **Istukaa ulkona yhdessä.** Terassituoli lauhkealla säällä. Katsokaa pilviä tai ohikulkijoita.
 46. **Ruokkikaa linnut.** Täyttäkää ruokinta yhdessä ja katsokaa ikkunan penkiltä.
-47. **Pesette auto.** Ämpäri, sieni ja lämmin iltapäivä. Vanteiden huuhteleminen on hyvä yhden askeleen tehtävä.
+47. **Pestkää auto.** Ämpäri, sieni ja lämmin iltapäivä. Vanteiden huuhteleminen on hyvä yhden askeleen tehtävä.
 
 ## Aistitoiminnat
 
