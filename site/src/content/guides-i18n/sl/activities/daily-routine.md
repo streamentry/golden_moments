@@ -78,7 +78,7 @@ Ta vzorec sledi obliki lastnega vzorca načrta Alzheimer's Association za zgodnj
 Začnite pri tem, kako je oseba vedno živela, ne pri shemi. Alzheimer's Association predlaga, da pred načrtovanjem premislite o teh stvareh:
 
 - **Njihovi všečki, nevšečki, moči in zanimanja.**
-- **Kako so nekoč preživljali dan.** Zgodnji vstajalec, ki je vedno sprehajal psa, naj še vedno hodi zgodaj. Nočna ptica morda nikoli ne bo uživala ob začetku zjutraj.
+- **Kako so nekoč preživljali dan.** Zgodnji vstajalec, ki je vedno sprehajal psa, naj še vedno hodi zgodaj. Nočna ptica morda nikoli ne bo uživala v začetku ob 8. uri zjutraj.
 - **Njihov najboljši čas dneva.** Kopel, izlete in glavno dejavnost postavite tja.
 - **Dovolj časa** za obroke, umivanje in oblačenje, da nič ni pohiteno.
 - **Redne čase za vstajanje in spanje.**

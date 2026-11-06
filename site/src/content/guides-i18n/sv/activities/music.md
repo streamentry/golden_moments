@@ -55,9 +55,7 @@ Att lyssna, sjunga, klappa, gunga och prata om musik fungerar alla bra. [Nationa
 
 Det mest användbara du kan göra är en spellista med musik som betyder något för just den här personen. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) lyfter också fram musik med personlig betydelse. Här är ett enkelt sätt att bygga en.
 
-### Börja med hans eller hennes liv
-
-Här används ”personen” i stället för hans eller hennes i det följande.
+### Börja med personens liv
 
 - **Tonåren och tjugoårsåldern.** Tänk på vad som spelades i radion, på dansbanorna och i filmerna när personen var ung.
 - **Stora ögonblick.** Musiken på bröllopet, en första dans, ett favoritalbum från familjens bilsemester.
