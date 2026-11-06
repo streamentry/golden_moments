@@ -69,7 +69,7 @@ opisuje, da je večkratno postavljanje vprašanj običajno in pričakovano.
 
 Vprašanje pogosto nosi tudi občutek. [Alzheimerjevo združenje](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition)
 pojasnjuje, da lahko ponovljeno vprašanje izraža skrb, prošnjo za pomoč ali tesnobo in negotovost, oseba pa pogosto išče tolažbo in
-znanost. „Kdaj gremo?“ lahko v resnici pomeni „Živčna sem zaradi odhoda.“ Dolgčas, strah, hrup in spremembe rutine lahko vse to sprožijo,
+nekaj znanega. „Kdaj gremo?“ lahko v resnici pomeni „Živčna sem zaradi odhoda.“ Dolgčas, strah, hrup in spremembe rutine lahko vse to sprožijo,
 ponovljeno vprašanje pa lahko kaže tudi na potrebo, na primer po stranišču ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
 ## Kaj naj rečem?

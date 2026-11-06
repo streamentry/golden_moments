@@ -16,7 +16,7 @@ keyPoints:
   - "Stále časy budenia, jedál, starostlivosti a spánku dávajú dňu známy tvar."
   - "Hlavnú aktivitu dajte na najlepšiu dennú dobu človeka, často ráno."
   - "Nevyplňujte každú minútu. Odpočinok a tichý čas sú súčasťou režimu."
-  - "Denné svetlo, každodenný pohyb a vyhýbanie sa dlhým neskorým popoludňajším spánkom a neskorej kofeíne môžu pomôcť proti nepokoju večer."
+  - "Denné svetlo, každodenný pohyb a vyhýbanie sa dlhým neskorým popoludňajším spánkom a neskorej kofeíne môžu pomôcť pri nepokoji večer."
   - "Režim je sprievodca, nie pravidlo. Na ťažších dňoch niečo vymeňte, skráťte alebo vynechajte."
 faq:
   - q: "Prečo je režim pre človeka s demenciou užitočný?"
