@@ -72,7 +72,7 @@ void main() {
     expect(find.text(l10n.habitsIntro), findsOneWidget);
     expect(
       l10n.habitsIntro,
-      contains('no habit, game or diet has been proven to prevent dementia'),
+      contains('No habit, game or diet has been proven to prevent dementia'),
     );
     expect(l10n.habitsIntro, contains('not a promise for any one person'));
     expect(find.text(l10n.habitsDoctorNote), findsOneWidget);

@@ -175,7 +175,7 @@
   "@photosRecoverTitle": {
     "description": "Dialog title on Your family photos before recovering a damaged photo list."
   },
-  "photosRecoverMessage": "Golden Moments will look through the photo copies on this device and show every one that is intact, with its caption and choices. The order may change. The list that could not be read is kept on this device. A copy that is damaged cannot be shown and is removed later; you can add that photo again from your photo library, where your originals are unchanged.",
+  "photosRecoverMessage": "Golden Moments will look through the photo copies on this device. It will show every copy that is intact, with its caption and choices. The order may change. The list that could not be read is kept on this device. A copy that is damaged cannot be shown and is removed later. You can add that photo again from your photo library, where your originals are unchanged.",
   "@photosRecoverMessage": {
     "description": "Dialog message on Your family photos explaining exactly what recovery does. 'Golden Moments' is the app name. The dialog scrolls, so length is not critical."
   },
@@ -568,7 +568,7 @@
   "@gentleGameHelpHowToPlay": {
     "description": "Gentle matching game, help sheet: how to play."
   },
-  "gentleGameHelpNoWrongAnswer": "There is no time limit and no wrong answer. It is fine to just look at the pictures, talk about them, change the number of tiles, or stop with Done for now.",
+  "gentleGameHelpNoWrongAnswer": "There is no time limit and no wrong answer. You can just look at the pictures. You can talk about them, change the number of tiles, or stop with Done for now.",
   "@gentleGameHelpNoWrongAnswer": {
     "description": "Gentle matching game, help sheet: reassurance. 'Done for now' names the button; use the same words as commonDoneForNow."
   },
@@ -758,7 +758,7 @@
   "@helpReachHeading": {
     "description": "Help and privacy page: section heading for contacting support."
   },
-  "helpReachEmail": "You can email {email} (copy it; the app does not open your mail), or send a note or a problem report below. You review exactly what will be sent. Nothing is sent automatically.",
+  "helpReachEmail": "You can email {email}. Copy the address, because the app does not open your mail. Or send a note or a problem report below. You review exactly what will be sent. Nothing is sent automatically.",
   "@helpReachEmail": {
     "description": "Help and privacy page: paragraph about contacting support. {email} is the support address and must stay unchanged.",
     "placeholders": {
@@ -1508,7 +1508,7 @@
   "@todayGetHelp": {
     "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Heading above when to call a doctor or helpline."
   },
-  "todayHelpDoctor": "Call their doctor the same day if this starts suddenly or gets much worse over hours or days, or comes with a fever, pain or a new medicine. In an emergency, call 911.",
+  "todayHelpDoctor": "Call their doctor the same day if this starts suddenly or gets much worse over hours or days. Do the same if there is a fever, pain or a new medicine. In an emergency, call 911.",
   "@todayHelpDoctor": {
     "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. When to get help, for most situations. '911' is the US emergency number: use the local emergency number or the words 'emergency services'."
   },
@@ -1856,7 +1856,7 @@
   "@habitsTitle": {
     "description": "Title of the healthy-habits page. Plain and calm. Not a claim."
   },
-  "habitsIntro": "These habits are linked with a lower chance of dementia across large groups of people. They are not a promise for any one person, and no habit, game or diet has been proven to prevent dementia.",
+  "habitsIntro": "These habits are linked with a lower chance of dementia across large groups of people. They are not a promise for any one person. No habit, game or diet has been proven to prevent dementia.",
   "@habitsIntro": {
     "description": "Shown at the top of the habits page. This is the honest frame for the whole page. Keep every hedge: say 'linked with', never that it prevents, protects or lowers anyone's risk for sure. The last clause must stay a plain denial that anything is proven to prevent dementia."
   },
