@@ -271,3 +271,14 @@ How to read DAU/WAU/MAU, D1/D7/D28 retention and the limits of each figure:
 | Today's activity card on Home (`lib/features/todays_activity/`): one existing activity per calendar day (Daily moment or Look together), "Something else" remembered for the day only, no counts or streaks, outlined Begin so Home keeps one filled button; off with `--dart-define=GM_TODAYS_ACTIVITY=false` | Implemented; unit and widget tests (rotation, persistence, damaged value, 200% text, Home navigation); simulator check pending at time of writing; new strings English only (other languages fall back to English) |
 | Optional reminders (GM-038) | Already implemented 2026-10-30; reviewed, unchanged: opt-in, weekday + time, previous requests cancelled before rescheduling, calendar triggers follow the device time zone |
 | Measurement guide and first experiment (baseline 4 weeks on 1.8.0, primary D7) | Documented; no data observed yet |
+
+## Shared picture library for app and website (2026-11-07)
+
+| Deliverable | Status |
+| --- | --- |
+| One drawing library for both: 83 hand-coded drawings (33 originals given shade, shine and contact shadows; 50 new across kitchen, fruit, garden, animals, home, travel and sky) | Implemented; site tests check well-formed SVG, unique ids and the app copies' hashes |
+| App starter activities (gentle game, Look together, Daily moment, Home preview) show the drawings instead of six Material icons | Implemented; 664 Flutter tests; iOS simulator checked Home and the gentle board |
+| Names: English for all 83; the 33 originals keep their existing translations; the 50 new names fall back to English in other languages | Translation of the new names is not done |
+| Boards saved by earlier builds with icon ids (flower, cup, home, pet) still resume | Covered by the installed-data upgrade test |
+| Website `/pictures/` gallery (English), linked from the footer | Implemented; production build and `check-site` pass with 0 errors |
+| Rights | Drawn for this project in code; recorded as `shared-drawings` in `docs/specs/asset-provenance.json`, unreviewed by a person |

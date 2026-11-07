@@ -5,94 +5,77 @@
  * Files are emitted at /pictures/<id>.svg by src/pages/pictures/[id].svg.ts.
  */
 
-export type PictureCategory =
-  | 'kitchen'
-  | 'garden'
-  | 'animals'
-  | 'fruit'
-  | 'home'
-  | 'travel'
-  | 'sky';
+import { BG, INK, S, SHADE, SHINE, type Picture, type PictureCategory } from './picture-art/kit.ts';
+import { MORE_PICTURES } from './picture-art/more.ts';
 
-export interface Picture {
-  id: string;
-  /**
-   * English name, used in the SVG title. The games show the name from
-   * `src/i18n/play/<code>.json` (`pictures`); `en.json` must match this exactly.
-   */
-  name: string;
-  category: PictureCategory;
-  bg: string;
-  body: string;
-}
+export type { Picture, PictureCategory };
 
-const INK = '#2b2b2b';
-// Stroke width defaults to 3 through the wrapping <g> in pictureSvg, so a
-// shape can override it without a duplicate attribute.
-const S = `stroke="${INK}" stroke-linejoin="round" stroke-linecap="round"`;
-
-const BG = {
-  cream: '#F9E7C3',
-  sky: '#DCEBF2',
-  sage: '#E3EDD5',
-  blush: '#F6DCD3',
-  night: '#34506F',
-} as const;
-
-export const PICTURES: readonly Picture[] = [
+const FIRST_PICTURES: readonly Picture[] = [
   {
     id: 'teacup',
     name: 'Teacup',
     category: 'kitchen',
     bg: BG.cream,
+    ground: 100,
     body: `
       <path d="M50 38c-6-6 6-10 0-18M66 38c-6-6 6-10 0-18" fill="none" stroke="#8C8C8C" stroke-width="3" stroke-linecap="round"/>
       <ellipse cx="58" cy="90" rx="44" ry="9" fill="#FFFDF7" ${S}/>
       <path d="M84 56c14 0 14 20 0 20" fill="none" ${S} stroke-width="6"/>
       <path d="M28 48h60v6c0 22-13 34-30 34S28 76 28 54z" fill="#C8473A" ${S}/>
       <path d="M31 62h54" stroke="#FFFDF7" stroke-width="4"/>
-      <ellipse cx="58" cy="48" rx="30" ry="6" fill="#8A5A2B" ${S}/>`,
+      <ellipse cx="58" cy="48" rx="30" ry="6" fill="#8A5A2B" ${S}/>
+      <path d="M76 54h12c0 18-10 30-24 33 8-6 12-18 12-33z" ${SHADE}/>
+      <path d="M34 58c0 8 3 14 7 18" ${SHINE}/>`,
   },
   {
     id: 'kettle',
     name: 'Kettle',
     category: 'kitchen',
     bg: BG.sage,
+    ground: 102,
     body: `
       <path d="M42 50Q60 22 78 50" fill="none" ${S} stroke-width="6"/>
       <path d="M36 66 14 50l5-5 19 12z" fill="#2F6F9E" ${S}/>
       <path d="M32 94 38 56q22-14 44 0l6 38z" fill="#2F6F9E" ${S}/>
       <circle cx="60" cy="47" r="5" fill="${INK}"/>
       <rect x="26" y="92" width="68" height="8" rx="4" fill="${INK}"/>
-      <path d="M44 70h32" stroke="#FFFDF7" stroke-width="4" stroke-linecap="round"/>`,
+      <path d="M44 70h32" stroke="#FFFDF7" stroke-width="4" stroke-linecap="round"/>
+      <path d="M72 50c4 1 7 3 10 6l6 38H76z" ${SHADE}/>
+      <path d="M42 62l-3 22" ${SHINE}/>`,
   },
   {
     id: 'bread',
     name: 'Loaf of bread',
     category: 'kitchen',
     bg: BG.blush,
+    ground: 98,
     body: `
       <rect x="12" y="84" width="96" height="12" rx="5" fill="#8A5A2B" ${S}/>
       <path d="M20 84V62c0-18 14-22 24-18 6-10 26-10 32 0 10-4 24 0 24 18v22z" fill="#D9A15B" ${S}/>
-      <path d="M40 54l8 16M58 51l8 16M76 54l8 16" stroke="#8A5A2B" stroke-width="4" stroke-linecap="round"/>`,
+      <path d="M40 54l8 16M58 51l8 16M76 54l8 16" stroke="#8A5A2B" stroke-width="4" stroke-linecap="round"/>
+      <path d="M84 46c10 2 16 8 16 16v22H86c2-14 0-28-2-38z" ${SHADE}/>
+      <path d="M28 64c0-8 4-14 10-16" ${SHINE}/>`,
   },
   {
     id: 'frying-pan',
     name: 'Frying pan with an egg',
     category: 'kitchen',
     bg: BG.cream,
+    ground: 100,
     body: `
       <path d="M80 56 112 46l3 9-32 12z" fill="#8A5A2B" ${S}/>
       <circle cx="50" cy="62" r="34" fill="${INK}"/>
       <circle cx="50" cy="62" r="27" fill="#555"/>
       <path d="M32 60c-2-12 10-18 18-12 8-8 22 0 18 12 6 8-4 18-14 14-10 6-26-2-22-14z" fill="#FFFDF7" ${S}/>
-      <circle cx="51" cy="62" r="8" fill="#E0A526" ${S}/>`,
+      <circle cx="51" cy="62" r="8" fill="#E0A526" ${S}/>
+      <path d="M28 50c4-8 10-12 18-14" ${SHINE}/>`,
   },
   {
     id: 'cake',
     name: 'Birthday cake',
     category: 'kitchen',
     bg: BG.sky,
+    ground: 104,
     body: `
       <ellipse cx="60" cy="96" rx="46" ry="8" fill="#FFFDF7" ${S}/>
       <rect x="24" y="58" width="72" height="36" rx="4" fill="#E58FA0" ${S}/>
@@ -101,7 +84,9 @@ export const PICTURES: readonly Picture[] = [
       <rect x="40" y="38" width="6" height="20" fill="#2F6F9E" ${S}/>
       <rect x="57" y="38" width="6" height="20" fill="#2F6F9E" ${S}/>
       <rect x="74" y="38" width="6" height="20" fill="#2F6F9E" ${S}/>
-      <path d="M43 26q5 6 0 10-5-4 0-10zM60 26q5 6 0 10-5-4 0-10zM77 26q5 6 0 10-5-4 0-10z" fill="#E0A526" ${S} stroke-width="2"/>`,
+      <path d="M43 26q5 6 0 10-5-4 0-10zM60 26q5 6 0 10-5-4 0-10zM77 26q5 6 0 10-5-4 0-10z" fill="#E0A526" ${S} stroke-width="2"/>
+      <path d="M84 64h12v30H84z" ${SHADE}/>
+      <path d="M30 68v8" ${SHINE}/>`,
   },
   {
     id: 'sunflower',
@@ -115,7 +100,9 @@ export const PICTURES: readonly Picture[] = [
         ${Array.from({ length: 12 }, (_, i) => `<ellipse cx="60" cy="22" rx="8" ry="16" transform="rotate(${i * 30} 60 44)"/>`).join('')}
       </g>
       <circle cx="60" cy="44" r="15" fill="#8A5A2B" ${S}/>
-      <g fill="${INK}"><circle cx="55" cy="40" r="2"/><circle cx="64" cy="41" r="2"/><circle cx="58" cy="49" r="2"/><circle cx="66" cy="48" r="2"/></g>`,
+      <g fill="${INK}"><circle cx="55" cy="40" r="2"/><circle cx="64" cy="41" r="2"/><circle cx="58" cy="49" r="2"/><circle cx="66" cy="48" r="2"/></g>
+      <path d="M66 34c6 6 6 16 0 22 4-8 4-16 0-22z" ${SHADE}/>
+      <path d="M52 38c2-4 5-6 8-7" ${SHINE} stroke-width="2.5"/>`,
   },
   {
     id: 'tulip',
@@ -125,31 +112,38 @@ export const PICTURES: readonly Picture[] = [
     body: `
       <path d="M60 64v50" stroke="#3E7A30" stroke-width="7" stroke-linecap="round"/>
       <path d="M58 110C40 104 30 86 32 70c14 6 24 20 26 40zM62 110c18-6 28-24 26-40-14 6-24 20-26 40z" fill="#4E8A3E" ${S}/>
-      <path d="M40 30v26q20 22 40 0V30l-10 12-10-18-10 18z" fill="#C8473A" ${S}/>`,
+      <path d="M40 30v26q20 22 40 0V30l-10 12-10-18-10 18z" fill="#C8473A" ${S}/>
+      <path d="M70 42 80 30v26q-6 7-12 10c4-8 4-16 2-24z" ${SHADE}/>
+      <path d="M45 38v14" ${SHINE}/>`,
   },
   {
     id: 'watering-can',
     name: 'Watering can',
     category: 'garden',
     bg: BG.cream,
+    ground: 102,
     body: `
       <path d="M44 52Q54 28 72 52" fill="none" ${S} stroke-width="6"/>
       <path d="M78 74 102 48" ${S} stroke-width="7"/>
       <path d="M98 40l12 12-6 4-12-12z" fill="#4E8A3E" ${S}/>
       <rect x="26" y="50" width="56" height="44" rx="8" fill="#4E8A3E" ${S}/>
       <path d="M34 62h40" stroke="#FFFDF7" stroke-width="4" stroke-linecap="round"/>
-      <g fill="#2F6F9E"><circle cx="110" cy="66" r="3"/><circle cx="104" cy="74" r="3"/><circle cx="112" cy="80" r="3"/></g>`,
+      <g fill="#2F6F9E"><circle cx="110" cy="66" r="3"/><circle cx="104" cy="74" r="3"/><circle cx="112" cy="80" r="3"/></g>
+      <path d="M70 50h4q8 0 8 8v28q0 8-8 8h-6c4-12 4-30 2-44z" ${SHADE}/>
+      <path d="M32 70v14" ${SHINE}/>`,
   },
   {
     id: 'potted-plant',
     name: 'Potted plant',
     category: 'garden',
     bg: BG.sky,
+    ground: 110,
     body: `
       <path d="M60 70V38" stroke="#3E7A30" stroke-width="5" stroke-linecap="round"/>
       <path d="M60 50C46 30 26 34 22 40c10 12 28 16 38 10zM60 44c14-22 34-20 38-14-8 12-26 18-38 14zM60 64C48 52 34 56 30 62c8 8 22 8 30 2zM60 62c12-12 26-8 30-2-8 8-22 8-30 2z" fill="#4E8A3E" ${S}/>
       <path d="M34 70h52l-7 38H41z" fill="#C9673A" ${S}/>
-      <rect x="30" y="66" width="60" height="12" rx="3" fill="#B0552B" ${S}/>`,
+      <rect x="30" y="66" width="60" height="12" rx="3" fill="#B0552B" ${S}/>
+      <path d="M72 78h11l-4 30h-9c2-10 2-20 2-30z" ${SHADE}/>`,
   },
   {
     id: 'tree',
@@ -160,7 +154,10 @@ export const PICTURES: readonly Picture[] = [
       <rect x="0" y="98" width="120" height="22" fill="#9BBF6A"/>
       <path d="M52 104V66h16v38z" fill="#8A5A2B" ${S}/>
       <g fill="#4E8A3E" ${S}><circle cx="42" cy="56" r="20"/><circle cx="78" cy="56" r="20"/><circle cx="60" cy="36" r="24"/></g>
-      <g fill="#C8473A"><circle cx="48" cy="40" r="4"/><circle cx="72" cy="30" r="4"/><circle cx="82" cy="58" r="4"/><circle cx="40" cy="62" r="4"/></g>`,
+      <g fill="#C8473A"><circle cx="48" cy="40" r="4"/><circle cx="72" cy="30" r="4"/><circle cx="82" cy="58" r="4"/><circle cx="40" cy="62" r="4"/></g>
+      <path d="M78 38c14 4 22 20 14 32-6 6-14 8-20 6 10-10 12-26 6-38z" ${SHADE}/>
+      <path d="M62 76h6v28h-6z" ${SHADE}/>
+      <path d="M46 24c4-6 10-9 16-9" ${SHINE}/>`,
   },
   {
     id: 'bird',
@@ -175,7 +172,9 @@ export const PICTURES: readonly Picture[] = [
       <path d="M36 70c4-14 18-18 28-12 0 12-10 24-28 12z" fill="#E07B28" ${S}/>
       <circle cx="40" cy="42" r="16" fill="#8A5A2B" ${S}/>
       <path d="M26 42 14 46l12 4z" fill="#E0A526" ${S}/>
-      <circle cx="36" cy="38" r="3" fill="${INK}"/>`,
+      <circle cx="36" cy="38" r="3" fill="${INK}"/>
+      <path d="M78 50c10 8 14 22 2 32-6 2-14 2-20 0 14-8 20-20 18-32z" ${SHADE}/>
+      <path d="M32 32c2-3 5-5 8-5" ${SHINE} stroke-width="2.5"/>`,
   },
   {
     id: 'butterfly',
@@ -189,7 +188,8 @@ export const PICTURES: readonly Picture[] = [
         <path d="M58 62C40 64 26 78 30 92s24 6 28-30zM62 62c18 2 32 16 28 30s-24 6-28-30z"/>
       </g>
       <g fill="#FFFDF7"><circle cx="30" cy="38" r="5"/><circle cx="90" cy="38" r="5"/><circle cx="40" cy="82" r="4"/><circle cx="80" cy="82" r="4"/></g>
-      <ellipse cx="60" cy="60" rx="5" ry="26" fill="${INK}"/>`,
+      <ellipse cx="60" cy="60" rx="5" ry="26" fill="${INK}"/>
+      <path d="M20 32c2-4 6-6 10-6" ${SHINE} stroke-width="2.5"/>`,
   },
   {
     id: 'dog',
@@ -204,7 +204,9 @@ export const PICTURES: readonly Picture[] = [
       <ellipse cx="60" cy="68" rx="14" ry="10" fill="#E8C9A0"/>
       <circle cx="49" cy="52" r="4" fill="${INK}"/><circle cx="71" cy="52" r="4" fill="${INK}"/>
       <ellipse cx="60" cy="64" rx="6" ry="4.5" fill="${INK}"/>
-      <path d="M60 68v5m-7 2q7 5 14 0" fill="none" ${S}/>`,
+      <path d="M60 68v5m-7 2q7 5 14 0" fill="none" ${S}/>
+      <path d="M80 40c10 14 8 34-8 42 10-12 12-28 8-42z" ${SHADE}/>
+      <path d="M44 34c4-4 8-6 12-7" ${SHINE}/>`,
   },
   {
     id: 'cat',
@@ -219,7 +221,9 @@ export const PICTURES: readonly Picture[] = [
       <ellipse cx="46" cy="60" rx="6" ry="7" fill="#9BBF3E" ${S}/><ellipse cx="74" cy="60" rx="6" ry="7" fill="#9BBF3E" ${S}/>
       <ellipse cx="46" cy="60" rx="2" ry="5" fill="${INK}"/><ellipse cx="74" cy="60" rx="2" ry="5" fill="${INK}"/>
       <path d="M56 72h8l-4 5z" fill="#E58FA0" ${S} stroke-width="2"/>
-      <path d="M60 77q-4 6-9 4m9-4q4 6 9 4M20 70l22 2M20 80l22-4M100 70l-22 2M100 80l-22-4" fill="none" ${S} stroke-width="2"/>`,
+      <path d="M60 77q-4 6-9 4m9-4q4 6 9 4M20 70l22 2M20 80l22-4M100 70l-22 2M100 80l-22-4" fill="none" ${S} stroke-width="2"/>
+      <path d="M84 46c12 14 10 34-6 44 8-14 10-30 6-44z" ${SHADE}/>
+      <path d="M30 52c1-5 3-8 6-10" ${SHINE}/>`,
   },
   {
     id: 'fish',
@@ -233,18 +237,22 @@ export const PICTURES: readonly Picture[] = [
       <ellipse cx="60" cy="60" rx="36" ry="24" fill="#E07B28" ${S}/>
       <path d="M50 46q8 14 0 28" fill="none" stroke="#B0552B" stroke-width="3"/>
       <circle cx="80" cy="54" r="5" fill="#FFFDF7" ${S} stroke-width="2"/><circle cx="81" cy="54" r="2.5" fill="${INK}"/>
-      <path d="M90 66q4 2 6-2" fill="none" ${S} stroke-width="2"/>`,
+      <path d="M90 66q4 2 6-2" fill="none" ${S} stroke-width="2"/>
+      <path d="M72 40c16 6 24 16 24 20s-8 14-24 20c8-12 8-28 0-40z" ${SHADE}/>
+      <path d="M42 44c6-4 12-6 18-6" ${SHINE}/>`,
   },
   {
     id: 'apple',
     name: 'Red apple',
     category: 'fruit',
     bg: BG.sage,
+    ground: 104,
     body: `
       <path d="M60 36c-6-12-40-14-40 24 0 30 22 50 40 40 18 10 40-10 40-40 0-38-34-36-40-24z" fill="#C8473A" ${S}/>
       <path d="M60 36c0-8 2-16 8-22" fill="none" stroke="#8A5A2B" stroke-width="5" stroke-linecap="round"/>
       <path d="M64 28c6-12 22-14 28-8-6 10-18 12-28 8z" fill="#4E8A3E" ${S}/>
-      <path d="M36 52q2-10 10-12" fill="none" stroke="#FFFDF7" stroke-width="4" stroke-linecap="round"/>`,
+      <path d="M36 52q2-10 10-12" fill="none" stroke="#FFFDF7" stroke-width="4" stroke-linecap="round"/>
+      <path d="M80 40c16 10 18 40-2 56-6 4-12 5-16 4 20-12 26-38 18-60z" ${SHADE}/>`,
   },
   {
     id: 'pear',
@@ -255,7 +263,8 @@ export const PICTURES: readonly Picture[] = [
       <path d="M60 22c-12 0-14 16-16 26-4 14-22 18-22 38 0 18 16 26 38 26s38-8 38-26c0-20-18-24-22-38-2-10-4-26-16-26z" fill="#B5C944" ${S}/>
       <path d="M60 22V8" stroke="#8A5A2B" stroke-width="5" stroke-linecap="round"/>
       <path d="M62 16c8-10 20-8 24-2-8 8-16 6-24 2z" fill="#4E8A3E" ${S}/>
-      <path d="M38 80q0-10 8-14" fill="none" stroke="#FFFDF7" stroke-width="4" stroke-linecap="round"/>`,
+      <path d="M38 80q0-10 8-14" fill="none" stroke="#FFFDF7" stroke-width="4" stroke-linecap="round"/>
+      <path d="M72 56c10 10 24 14 24 30 0 14-10 22-28 24 14-8 18-20 16-32-2-10-8-16-12-22z" ${SHADE}/>`,
   },
   {
     id: 'strawberry',
@@ -270,7 +279,9 @@ export const PICTURES: readonly Picture[] = [
         <ellipse cx="40" cy="56" rx="2" ry="3"/><ellipse cx="56" cy="54" rx="2" ry="3"/><ellipse cx="72" cy="56" rx="2" ry="3"/><ellipse cx="86" cy="54" rx="2" ry="3"/>
         <ellipse cx="46" cy="70" rx="2" ry="3"/><ellipse cx="62" cy="70" rx="2" ry="3"/><ellipse cx="78" cy="70" rx="2" ry="3"/>
         <ellipse cx="54" cy="86" rx="2" ry="3"/><ellipse cx="68" cy="86" rx="2" ry="3"/>
-      </g>`,
+      </g>
+      <path d="M88 46c2 26-10 48-26 58 18-2 34-28 34-58z" ${SHADE}/>
+      <path d="M30 50c1 8 4 16 8 22" ${SHINE}/>`,
   },
   {
     id: 'banana',
@@ -281,17 +292,20 @@ export const PICTURES: readonly Picture[] = [
       <path d="M22 34c-6 34 18 66 62 62 10-1 16-6 14-10-40 4-60-20-62-52z" fill="#F2CC3D" ${S}/>
       <path d="M30 38c4 24 22 44 56 46" fill="none" stroke="#C99200" stroke-width="3"/>
       <path d="M22 34l-4-12 10 2 8 10z" fill="#8A5A2B" ${S}/>
-      <path d="M98 86l4 4" stroke="${INK}" stroke-width="6" stroke-linecap="round"/>`,
+      <path d="M98 86l4 4" stroke="${INK}" stroke-width="6" stroke-linecap="round"/>
+      <path d="M28 42c3 14 10 26 22 34" ${SHINE}/>`,
   },
   {
     id: 'lemon',
     name: 'Lemon',
     category: 'fruit',
     bg: BG.sage,
+    ground: 100,
     body: `
       <path d="M14 66c4-2 6-4 8-8 8-20 30-30 52-24 14 4 22 14 26 24 2 4 4 6 8 8-4 2-6 4-8 8-8 18-30 28-52 22-14-4-22-14-26-22-2-4-4-6-8-8z" fill="#F2D03B" ${S}/>
       <path d="M40 54q8-10 22-10" fill="none" stroke="#FFFDF7" stroke-width="4" stroke-linecap="round"/>
-      <path d="M78 34c4-14 20-20 28-16-4 12-16 18-28 16z" fill="#4E8A3E" ${S}/>`,
+      <path d="M78 34c4-14 20-20 28-16-4 12-16 18-28 16z" fill="#4E8A3E" ${S}/>
+      <path d="M84 42c10 8 16 18 16 24-4 6-10 14-18 20 6-14 8-30 2-44z" ${SHADE}/>`,
   },
   {
     id: 'cherries',
@@ -303,7 +317,9 @@ export const PICTURES: readonly Picture[] = [
       <path d="M74 16c10-8 26-6 30 2-10 8-22 8-30-2z" fill="#4E8A3E" ${S}/>
       <circle cx="40" cy="86" r="20" fill="#B3262E" ${S}/>
       <circle cx="82" cy="88" r="20" fill="#B3262E" ${S}/>
-      <path d="M30 80q2-6 8-8M72 82q2-6 8-8" fill="none" stroke="#FFFDF7" stroke-width="4" stroke-linecap="round"/>`,
+      <path d="M30 80q2-6 8-8M72 82q2-6 8-8" fill="none" stroke="#FFFDF7" stroke-width="4" stroke-linecap="round"/>
+      <path d="M50 74c8 10 6 26-8 31 10-8 12-20 8-31z" ${SHADE}/>
+      <path d="M92 76c8 10 6 26-8 31 10-8 12-20 8-31z" ${SHADE}/>`,
   },
   {
     id: 'house',
@@ -317,30 +333,38 @@ export const PICTURES: readonly Picture[] = [
       <path d="M14 60 60 22l46 38z" fill="#C8473A" ${S}/>
       <rect x="52" y="76" width="18" height="28" rx="2" fill="#2F6F9E" ${S}/>
       <rect x="30" y="66" width="16" height="16" fill="#FFFDF7" ${S}/><path d="M38 66v16M30 74h16" stroke="${INK}" stroke-width="2"/>
-      <rect x="76" y="66" width="14" height="16" fill="#FFFDF7" ${S}/><path d="M83 66v16M76 74h14" stroke="${INK}" stroke-width="2"/>`,
+      <rect x="76" y="66" width="14" height="16" fill="#FFFDF7" ${S}/><path d="M83 66v16M76 74h14" stroke="${INK}" stroke-width="2"/>
+      <path d="M84 58h12v46H84z" ${SHADE}/>
+      <path d="M60 22 106 60H84z" ${SHADE}/>`,
   },
   {
     id: 'lamp',
     name: 'Table lamp',
     category: 'home',
     bg: BG.blush,
+    ground: 106,
     body: `
       <path d="M14 34l-8-4M106 34l8-4M60 10V2" stroke="#C99200" stroke-width="3" stroke-linecap="round"/>
       <path d="M38 18h44l14 40H24z" fill="#E0A526" ${S}/>
       <path d="M60 58v34" stroke="${INK}" stroke-width="6"/>
-      <path d="M36 104q0-14 24-14t24 14z" fill="#8A5A2B" ${S}/>`,
+      <path d="M36 104q0-14 24-14t24 14z" fill="#8A5A2B" ${S}/>
+      <path d="M70 18h12l14 40H82z" ${SHADE}/>
+      <path d="M36 26l-6 22" ${SHINE}/>`,
   },
   {
     id: 'armchair',
     name: 'Armchair',
     category: 'home',
     bg: BG.sage,
+    ground: 110,
     body: `
       <path d="M30 96v12M90 96v12" stroke="#8A5A2B" stroke-width="6" stroke-linecap="round"/>
       <path d="M30 70V34q0-14 14-14h32q14 0 14 14v36z" fill="#C8473A" ${S}/>
       <rect x="30" y="68" width="60" height="16" rx="5" fill="#E58FA0" ${S}/>
       <path d="M14 62q0-8 8-8h8v44H18q-4 0-4-4zM106 62q0-8-8-8h-8v44h12q4 0 4-4z" fill="#C8473A" ${S}/>
-      <rect x="30" y="84" width="60" height="14" fill="#B03127" ${S}/>`,
+      <rect x="30" y="84" width="60" height="14" fill="#B03127" ${S}/>
+      <path d="M78 21c8 1 12 6 12 13v34H80z" ${SHADE}/>
+      <path d="M38 30v30" ${SHINE}/>`,
   },
   {
     id: 'key',
@@ -351,7 +375,9 @@ export const PICTURES: readonly Picture[] = [
       <circle cx="34" cy="60" r="22" fill="#C99200" ${S}/>
       <circle cx="34" cy="60" r="10" fill="${BG.cream}" ${S}/>
       <path d="M56 54h50v12H56z" fill="#C99200" ${S}/>
-      <path d="M84 66v14h8V66M98 66v10h8V66" fill="#C99200" ${S}/>`,
+      <path d="M84 66v14h8V66M98 66v10h8V66" fill="#C99200" ${S}/>
+      <path d="M56 62h50v4H56z" ${SHADE}/>
+      <path d="M20 52c2-6 6-10 12-12" ${SHINE}/>`,
   },
   {
     id: 'umbrella',
@@ -362,7 +388,8 @@ export const PICTURES: readonly Picture[] = [
       <path d="M60 22v70q0 12-10 12t-10-10" fill="none" ${S} stroke-width="5"/>
       <path d="M12 62C12 34 34 18 60 18s48 16 48 44q-8-8-16 0-8-8-16 0-8-8-16 0-8-8-16 0-8-8-16 0-8-8-16 0z" fill="#2F6F9E" ${S}/>
       <path d="M60 18q-14 18-14 44M60 18q14 18 14 44" fill="none" stroke="#FFFDF7" stroke-width="3"/>
-      <circle cx="60" cy="16" r="4" fill="${INK}"/>`,
+      <circle cx="60" cy="16" r="4" fill="${INK}"/>
+      <path d="M24 48c4-12 14-20 26-24" ${SHINE}/>`,
   },
   {
     id: 'sailboat',
@@ -374,7 +401,9 @@ export const PICTURES: readonly Picture[] = [
       <path d="M62 14v68" stroke="${INK}" stroke-width="4"/>
       <path d="M58 20 24 76h34z" fill="#FFFDF7" ${S}/>
       <path d="M66 26l30 50H66z" fill="#C8473A" ${S}/>
-      <path d="M16 82h90l-14 18H30z" fill="#8A5A2B" ${S}/>`,
+      <path d="M16 82h90l-14 18H30z" fill="#8A5A2B" ${S}/>
+      <path d="M80 82h26l-14 18H72z" ${SHADE}/>
+      <path d="M52 32 36 60" ${SHINE}/>`,
   },
   {
     id: 'car',
@@ -387,7 +416,9 @@ export const PICTURES: readonly Picture[] = [
       <path d="M50 46h14v14H40zM70 46h12l8 14H70z" fill="#DCEBF2" ${S}/>
       <circle cx="34" cy="84" r="12" fill="${INK}"/><circle cx="34" cy="84" r="5" fill="#C8C8C8"/>
       <circle cx="88" cy="84" r="12" fill="${INK}"/><circle cx="88" cy="84" r="5" fill="#C8C8C8"/>
-      <rect x="100" y="68" width="8" height="6" rx="2" fill="#F2D03B"/>`,
+      <rect x="100" y="68" width="8" height="6" rx="2" fill="#F2D03B"/>
+      <path d="M98 64q10 2 10 10v8H98z" ${SHADE}/>
+      <path d="M20 68h14" ${SHINE}/>`,
   },
   {
     id: 'bicycle',
@@ -411,7 +442,9 @@ export const PICTURES: readonly Picture[] = [
       <path d="M60 8C34 8 20 26 20 44c0 20 18 30 24 32h32c6-2 24-12 24-32 0-18-14-36-40-36z" fill="#E0A526" ${S}/>
       <path d="M60 8C48 18 44 34 46 50s4 24 4 26h20c0-2 2-10 4-26S72 18 60 8z" fill="#C8473A" ${S}/>
       <path d="M22 40h76" stroke="#FFFDF7" stroke-width="3"/>
-      <rect x="48" y="92" width="24" height="18" rx="2" fill="#8A5A2B" ${S}/>`,
+      <rect x="48" y="92" width="24" height="18" rx="2" fill="#8A5A2B" ${S}/>
+      <path d="M86 22c10 8 14 16 14 22 0 16-12 26-20 30 6-14 8-36 6-52z" ${SHADE}/>
+      <path d="M30 32c4-10 12-16 22-18" ${SHINE}/>`,
   },
   {
     id: 'lighthouse',
@@ -425,7 +458,8 @@ export const PICTURES: readonly Picture[] = [
       <path d="M48 58l26-1 1.5 14-29 1zM45.5 84l29-1 1.2 12H44.4z" fill="#C8473A"/>
       <rect x="48" y="20" width="24" height="16" fill="#F2D03B" ${S}/>
       <path d="M44 20h32L60 6z" fill="#C8473A" ${S}/>
-      <path d="M44 36h32" ${S}/>`,
+      <path d="M44 36h32" ${S}/>
+      <path d="M64 38h6l6 58h-8z" ${SHADE}/>`,
   },
   {
     id: 'sun',
@@ -436,7 +470,9 @@ export const PICTURES: readonly Picture[] = [
       <g stroke="#C99200" stroke-width="6" stroke-linecap="round">
         ${Array.from({ length: 12 }, (_, i) => `<path d="M60 10v12" transform="rotate(${i * 30} 60 60)"/>`).join('')}
       </g>
-      <circle cx="60" cy="60" r="28" fill="#F2CC3D" ${S}/>`,
+      <circle cx="60" cy="60" r="28" fill="#F2CC3D" ${S}/>
+      <path d="M76 40c10 12 8 30-6 38 10-10 12-26 6-38z" ${SHADE}/>
+      <path d="M44 50c2-6 8-10 14-12" ${SHINE}/>`,
   },
   {
     id: 'moon',
@@ -453,10 +489,46 @@ export const PICTURES: readonly Picture[] = [
   },
 ];
 
+export const PICTURES: readonly Picture[] = [...FIRST_PICTURES, ...MORE_PICTURES];
+
 export const PICTURE_BY_ID: ReadonlyMap<string, Picture> = new Map(PICTURES.map((p) => [p.id, p]));
 
+/**
+ * The mounted-print look shared by the website and the app (the app bundles
+ * PNGs rendered from this exact markup; `scripts/export-pictures.mjs`).
+ * Under every subject: the flat ground colour, a soft disc of light a little
+ * above centre, and a faint warm vignette at the corners, so each picture
+ * reads like a printed card rather than a flat icon. Night pictures get a
+ * dimmer disc so the sky stays dark.
+ */
+export function pictureFrame(picture: Picture): string {
+  const id = `gm-${picture.id}`;
+  const dark = picture.bg === BG.night;
+  const disc = dark ? '#FFFFFF' : '#FFFDF7';
+  const discOpacity = dark ? 0.1 : 0.55;
+  return (
+    `<defs>` +
+    `<radialGradient id="${id}-l" cx="60" cy="54" r="58" gradientUnits="userSpaceOnUse">` +
+    `<stop offset="0" stop-color="${disc}" stop-opacity="${discOpacity}"/>` +
+    `<stop offset="0.72" stop-color="${disc}" stop-opacity="${discOpacity * 0.55}"/>` +
+    `<stop offset="0.74" stop-color="${disc}" stop-opacity="0"/>` +
+    `</radialGradient>` +
+    `<radialGradient id="${id}-v" cx="60" cy="60" r="86" gradientUnits="userSpaceOnUse">` +
+    `<stop offset="0.6" stop-color="#7A4E1E" stop-opacity="0"/>` +
+    `<stop offset="1" stop-color="#7A4E1E" stop-opacity="${dark ? 0.25 : 0.14}"/>` +
+    `</radialGradient>` +
+    `</defs>` +
+    `<rect width="120" height="120" fill="${picture.bg}"/>` +
+    `<rect width="120" height="120" fill="url(#${id}-l)"/>` +
+    `<rect width="120" height="120" fill="url(#${id}-v)"/>` +
+    (picture.ground === undefined
+      ? ''
+      : `<ellipse cx="60" cy="${picture.ground}" rx="40" ry="5" fill="#5A3A16" fill-opacity=".16"/>`)
+  );
+}
+
 export function pictureSvg(picture: Picture): string {
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="240" height="240" role="img" aria-label="${picture.name}"><title>${picture.name}</title><rect width="120" height="120" fill="${picture.bg}"/><g stroke-width="3">${picture.body.replace(/\s*\n\s*/g, '')}</g></svg>`;
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="240" height="240" role="img" aria-label="${picture.name}"><title>${picture.name}</title>${pictureFrame(picture)}<g stroke-width="3">${picture.body.replace(/\s*\n\s*/g, '')}</g></svg>`;
 }
 
 export function pictureUrl(id: string): string {

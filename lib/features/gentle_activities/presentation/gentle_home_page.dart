@@ -13,6 +13,7 @@ import 'package:golden_moments/features/gentle_activities/presentation/help_priv
 import 'package:golden_moments/features/gentle_activities/presentation/home_menu_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_collection_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
+import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
 import 'package:golden_moments/features/habits/presentation/habits_page.dart';
 import 'package:golden_moments/features/language/presentation/language_page.dart';
 import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
@@ -298,21 +299,21 @@ class _GentleHomePageState extends State<GentleHomePage> {
   }
 }
 
-/// A small, decorative picture of the activity: two matching pairs on large
-/// tiles, so a first visit shows what a game looks like before anyone taps.
-/// Screen readers skip it; the button and sentence beside it say the same.
+/// A small, decorative picture of the activity: two matching pairs of the
+/// shared drawings on large tiles, so a first visit shows what a game looks
+/// like before anyone taps. Screen readers skip it; the button and sentence
+/// beside it say the same.
 class _StarterPreview extends StatelessWidget {
   const new();
 
   @override
   Widget build(BuildContext context) {
     final scheme = Theme.of(context).colorScheme;
-    final pictures = [
-      ActivityPicture.samples[0],
-      ActivityPicture.samples[1],
-      ActivityPicture.samples[1],
-      ActivityPicture.samples[0],
-    ];
+    final shape = gmTileShape(scheme);
+    final byId = {for (final p in ActivityPicture.samples) p.id: p};
+    final first = byId['teacup'] ?? ActivityPicture.samples[0];
+    final second = byId['sunflower'] ?? ActivityPicture.samples[1];
+    final pictures = [first, second, second, first];
     return ExcludeSemantics(
       child: Center(
         child: ConstrainedBox(
@@ -324,17 +325,13 @@ class _StarterPreview extends StatelessWidget {
                 Expanded(
                   child: AspectRatio(
                     aspectRatio: 1,
-                    child: DecoratedBox(
-                      decoration: ShapeDecoration(
-                        color: scheme.surface,
-                        shape: gmTileShape(scheme),
-                      ),
-                      child: LayoutBuilder(
-                        builder: (context, box) => Icon(
-                          pictures[i].icon,
-                          size: box.maxWidth * 0.5,
-                          color: scheme.primary,
-                        ),
+                    child: Material(
+                      color: scheme.surface,
+                      shape: shape,
+                      clipBehavior: Clip.antiAlias,
+                      child: PictureView(
+                        picture: pictures[i],
+                        fit: BoxFit.cover,
                       ),
                     ),
                   ),

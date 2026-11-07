@@ -317,7 +317,9 @@
     "xcarchive",
     "xcprivacy",
     "xcrun",
-    "Zinnia"
+    "Zinnia",
+    "resvg",
+    "webp"
   ],
   "ignorePaths": [
     "**/docs/store-description/**",

@@ -1,0 +1,143 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { PICTURES, pictureUrl, type PictureCategory } from '../../data/pictures';
+
+// English only for now; the games show these names in every language.
+const GROUPS: { category: PictureCategory; title: string }[] = [
+  { category: 'kitchen', title: 'Kitchen and table' },
+  { category: 'fruit', title: 'Fruit' },
+  { category: 'garden', title: 'In the garden' },
+  { category: 'animals', title: 'Animals' },
+  { category: 'home', title: 'Around the house' },
+  { category: 'travel', title: 'Getting about' },
+  { category: 'sky', title: 'Weather and sky' },
+];
+const groups = GROUPS.map((g) => ({ ...g, pictures: PICTURES.filter((p) => p.category === g.category) }));
+const count = PICTURES.length;
+---
+<PageLayout
+  title="Pictures to look at together"
+  seoTitle="Printable pictures for dementia: 80+ simple drawings"
+  description={`${count} clear, friendly drawings of everyday things to look at, talk about or print. The same pictures appear in the free games here and in the Golden Moments app.`}
+  path="/pictures/"
+  crumb="Pictures"
+  lede={`${count} friendly drawings of everyday things: a teapot, a sleepy owl, a red bus. Look at one together, talk about it, or print a few for the table.`}
+>
+  <p>Every picture is drawn for Golden Moments, in one hand and one set of colours, on a calm background. They are the pictures in our <a href="/games/">games</a> and in the app. Open one to see it large or to print it. There is nothing to get right: a picture is just a place to start a conversation.</p>
+  <nav class="pic-jump" aria-label="Picture groups">
+    <ul>
+      {groups.map((g) => <li><a href={`#${g.category}`}>{g.title}</a></li>)}
+    </ul>
+  </nav>
+
+  <Fragment slot="after">
+    <div class="pic-groups">
+      {groups.map((g) => (
+        <section aria-labelledby={g.category} class="pic-group">
+          <h2 id={g.category}>{g.title}</h2>
+          <ul class="pic-grid">
+            {g.pictures.map((p, i) => (
+              <li>
+                <a class={`pic-print pic-print--${i % 4}`} href={pictureUrl(p.id)}>
+                  <img src={pictureUrl(p.id)} alt="" width="240" height="240" loading="lazy" decoding="async" />
+                  <span class="pic-name">{p.name}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </div>
+  </Fragment>
+</PageLayout>
+
+<style>
+  .pic-jump ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+    list-style: none;
+    padding: 0;
+    margin: var(--space-lg) 0 0;
+  }
+  .pic-jump a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 48px;
+    padding: 0 var(--space-md);
+    border: 2px solid var(--gm-outline);
+    border-radius: var(--radius-full);
+    background: var(--gm-surface-raised);
+    color: var(--gm-on-surface);
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .pic-jump a:hover {
+    border-color: var(--gm-primary);
+    color: var(--gm-primary);
+  }
+  .pic-groups {
+    padding-block: var(--space-xl) var(--space-2xl);
+  }
+  .pic-group + .pic-group {
+    margin-top: var(--space-2xl);
+  }
+  .pic-group h2 {
+    scroll-margin-top: var(--space-xl);
+    margin-bottom: var(--space-lg);
+  }
+  .pic-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: var(--space-xl) var(--space-lg);
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .pic-print {
+    display: block;
+    padding: 10px 10px 0;
+    background: var(--gm-surface-raised);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-print);
+    color: var(--gm-on-surface);
+    text-decoration: none;
+  }
+  .pic-print img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius-sm);
+  }
+  .pic-name {
+    display: block;
+    padding: var(--space-sm) 2px var(--space-md);
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: var(--text-md);
+    line-height: 1.25;
+    text-align: center;
+  }
+  .pic-print--0 { transform: rotate(-1.5deg); }
+  .pic-print--1 { transform: rotate(1deg); }
+  .pic-print--2 { transform: rotate(-0.5deg); }
+  .pic-print--3 { transform: rotate(1.5deg); }
+  .pic-print:focus-visible {
+    outline: 3px solid var(--gm-primary);
+    outline-offset: 4px;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .pic-print {
+      transition: transform var(--duration-normal) var(--ease-out), box-shadow var(--duration-normal) var(--ease-out);
+    }
+    .pic-print:hover {
+      transform: rotate(0deg) translateY(-4px);
+      box-shadow: var(--shadow-raised);
+    }
+  }
+  @media print {
+    .pic-jump { display: none; }
+    .pic-grid { grid-template-columns: repeat(3, 1fr); }
+    .pic-print { box-shadow: none; border: 1px solid var(--gm-outline); transform: none; break-inside: avoid; }
+  }
+</style>

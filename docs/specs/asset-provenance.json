@@ -22,6 +22,20 @@
       ]
     },
     {
+      "id": "shared-drawings",
+      "paths": [
+        "assets/images/pictures/"
+      ],
+      "source": "site/src/data/pictures.ts and site/src/data/picture-art/*.ts: SVG drawn for this project in code (no third-party artwork, no generated images)",
+      "derivation": "site/scripts/export-pictures.mjs renders each SVG with resvg 2.6.2 at 720px and stores it as lossless WebP (Pillow); manifest.json records the SVG hash of every file",
+      "used_by": "app starter activities (gentle game, Look together, Daily moment) and the website's picture games",
+      "rights_status": "unreviewed",
+      "missing": [
+        "a person's review date",
+        "human check for tile-size recognizability, near-duplicates and anything distressing"
+      ]
+    },
+    {
       "id": "font-roboto",
       "paths": [
         "assets/fonts/Roboto-Regular.ttf",

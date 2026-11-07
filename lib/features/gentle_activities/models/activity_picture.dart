@@ -1,12 +1,19 @@
 import 'package:flutter/material.dart';
+import 'package:golden_moments/features/gentle_activities/data/picture_library.g.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 
-/// A bundled illustration or a normalized, local family-photo copy.
+/// A bundled drawing ([asset]), a normalized local family-photo copy
+/// ([path]), or, in tests, a plain [icon].
+///
+/// The drawings are the website's picture library, exported by
+/// `site/scripts/export-pictures.mjs`, so the app and the site show the same
+/// pictures under the same names.
 class ActivityPicture {
   const new({
     required this.id,
     required this.label,
     this.icon,
+    this.asset,
     this.path,
     this.caption = '',
     this.description = '',
@@ -16,6 +23,11 @@ class ActivityPicture {
   /// Plain name for assistive technology: the caption when there is one.
   final String label;
   final IconData? icon;
+
+  /// A drawing bundled with the app (see [pictureLibrary]).
+  final String? asset;
+
+  /// A family photo's local copy.
   final String? path;
 
   /// Optional text the person wrote; shown only where viewing asks for it.
@@ -25,28 +37,27 @@ class ActivityPicture {
   /// visible. Never used for hidden tiles.
   final String description;
 
-  /// [label] in the reader's language. Starter illustrations (no [path])
-  /// have translated names; a family photo keeps its own caption or the
-  /// numbered name its page gave it.
+  /// [label] in the reader's language. A drawing takes its name from the
+  /// shared picture names (falling back to the base language, then to
+  /// English); a family photo keeps its own caption or the numbered name its
+  /// page gave it.
   String localizedLabel(AppLocalizations l10n) {
-    if (path != null) return label;
-    return switch (id) {
-      'flower' => l10n.samplePictureFlower,
-      'cup' => l10n.samplePictureCup,
-      'sun' => l10n.samplePictureSun,
-      'home' => l10n.samplePictureHome,
-      'tree' => l10n.samplePictureTree,
-      'pet' => l10n.samplePicturePawPrint,
-      _ => label,
-    };
+    if (path != null || asset == null) return label;
+    final locale = l10n.localeName;
+    final base = locale.split('_').first;
+    return pictureNames[locale]?[id] ?? pictureNames[base]?[id] ?? label;
   }
 
-  static const samples = [
-    ActivityPicture(id: 'flower', label: 'Flower', icon: Icons.local_florist),
-    ActivityPicture(id: 'cup', label: 'Cup', icon: Icons.local_cafe),
-    ActivityPicture(id: 'sun', label: 'Sun', icon: Icons.wb_sunny),
-    ActivityPicture(id: 'home', label: 'Home', icon: Icons.home),
-    ActivityPicture(id: 'tree', label: 'Tree', icon: Icons.park),
-    ActivityPicture(id: 'pet', label: 'Paw print', icon: Icons.pets),
-  ];
+  /// Every bundled drawing, shared with the website.
+  static const List<ActivityPicture> samples = pictureLibrary;
+
+  /// Ids of the six icons that came before the drawings, mapped to the
+  /// drawing that replaced each, so a board saved by an earlier version
+  /// still resumes.
+  static const Map<String, String> legacyIds = {
+    'flower': 'sunflower',
+    'cup': 'teacup',
+    'home': 'house',
+    'pet': 'dog',
+  };
 }

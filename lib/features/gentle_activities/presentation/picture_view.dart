@@ -41,8 +41,26 @@ class PictureView extends StatelessWidget {
         ),
       );
     }
-    // Starter illustrations grow with the tile so they stay easy to see on
-    // tablets as well as phones.
+    final asset = picture.asset;
+    if (asset != null) {
+      // A drawing fills its space like a printed card: the background is
+      // part of the picture, so cropping a little to a tile's shape is fine.
+      return Image.asset(
+        asset,
+        fit: fit == BoxFit.contain ? BoxFit.contain : BoxFit.cover,
+        width: double.infinity,
+        height: double.infinity,
+        excludeFromSemantics: true,
+        errorBuilder: (_, _, _) => _iconView(context),
+      );
+    }
+    return _iconView(context);
+  }
+
+  /// A plain icon, for test pictures and as the drawing's safe fallback.
+  Widget _iconView(BuildContext context) {
+    // Icons grow with the tile so they stay easy to see on tablets as well
+    // as phones.
     return LayoutBuilder(
       builder: (context, constraints) {
         final side = constraints.biggest.shortestSide;

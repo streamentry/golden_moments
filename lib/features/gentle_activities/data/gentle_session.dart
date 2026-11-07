@@ -60,11 +60,16 @@ class GentleSession {
   };
 
   /// The board, only if every picture is still available and the saved
-  /// arrangement is one this activity could actually have reached.
-  GentleBoard? toBoard({required Set<String> availablePictureIds}) {
-    if (!cards.every(availablePictureIds.contains)) return null;
+  /// arrangement is one this activity could actually have reached. [renamed]
+  /// maps ids saved by an earlier version to the pictures that replaced them.
+  GentleBoard? toBoard({
+    required Set<String> availablePictureIds,
+    Map<String, String> renamed = const {},
+  }) {
+    final current = [for (final id in cards) renamed[id] ?? id];
+    if (!current.every(availablePictureIds.contains)) return null;
     return GentleBoard.tryRestore(
-      cards: cards,
+      cards: current,
       matched: matched,
       selected: selected,
     );

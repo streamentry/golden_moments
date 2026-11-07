@@ -80,12 +80,15 @@ void main() {
       family!.toBoard(availablePictureIds: installedIds.toSet()),
       isNotNull,
     );
+    // The installed build saved the starter board with the icon-era ids;
+    // the game maps them to the drawings that replaced them, as here.
     final starter = await sessions.load('starter');
     expect(
       starter!.toBoard(
         availablePictureIds: {
           for (final picture in ActivityPicture.samples) picture.id,
         },
+        renamed: ActivityPicture.legacyIds,
       ),
       isNotNull,
     );
