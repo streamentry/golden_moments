@@ -19,13 +19,13 @@ physical device is listed under "Not verified" and is not scored, not a blocker.
 
 Overall = sum of weight x score.
 
-## Score after Round 4 touch & tremor resilience pass (2026-11-08; earlier 9.87, 9.86, 9.79, 9.59)
+## Score after Round 5 dementia print architecture pass (2026-11-08; earlier 9.87, 9.86, 9.79, 9.59)
 
 | # | Dimension | Measured | Score |
 | --- | --- | --- | --- |
 | 1 | Plain language | app 441 of 441 strings conform after the six fixes; site play copy 0 long sentences | 10.0 |
 | 2 | Type and contrast | floor and 200% tests pass 10; body 15.1:1 gives 10; secondary 8.1:1 gives 10; primary 6.33:1 gives 9.0 | 9.75 |
-| 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions carry a word = 10; shape-conforming focus rings on tiles, puzzle pieces and baskets = 10; touch & tremor resilience (Musa 2023: touch-action manipulation, user-select none, callout none, drag none) = 10 | 10.0 |
+| 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions carry a word = 10; shape-conforming focus rings on tiles, puzzle pieces and baskets = 10; touch & tremor resilience = 10; print action button on handout = 10 | 10.0 |
 | 4 | Structure and semantics | axe on all 3,921 built pages clean (0 violations); heading skips 0; landmarks fixed; app semantics tests pass | 10.0 |
 | 5 | Reflow and large text | site 1,512 of 1,512 runs clean = 10; app 200% tests pass = 10 | 10.0 |
 | 6 | Localization completeness | app keys 100%; site ui keys 100% (64 of 64 languages have footer.pictures); games keys 100%; guides 100%; picture names 68.8% (44 of 64) | 9.38 |
@@ -46,6 +46,8 @@ Lowest dimension: localization at 9.38 (floor is 7.0). **The bar (above 8.6, non
 
 1. Localization (9.38): picture names for the 20 languages left in English (needs a translator; machine output there is unreliable).
 2. Type and contrast (9.75): primary gold text at 6.33:1 (brand decision, kept).
+
+History (round 5): Dementia-Friendly Print Architecture & Dedicated Handout Action. Print activities (word search, coloring, picture bingo, conversation cards) and caregiver guides are frequently printed onto paper by family members, memory care coordinators, and support groups. Upgraded print sheets with high-contrast `#000`/`#222`/`#333` borders replacing faint `#999`/`#777` borders that wash out for older adults with cataract/contrast loss; upgraded bingo text to 16pt large print. Added print-break protection (`break-after: avoid` on headings, `break-inside: avoid` on cards/answers/tables, `orphans: 3`, `widows: 3`). Stripped digital clutter and app promotion banners (`.cta-band`, `.article-aside`, `.app-cta`, `.play-cta`, `.toc`) from printed output and expanded articles to full paper width. Added a dedicated `.no-print` print action button to `/handout/` across all 64 languages so caregivers can print with one tap without digging through browser menus.
 
 History (round 4): Touch and Tremor Resilience for Digital Dementia Activities. Older adults with dementia and tremors often struggle on touchscreens due to resting-hand contact, accidental drags, unintentional text selection, or trembling double-taps. Added `touch-action: manipulation` across interactive game elements (`.btn`, `.chip`, `.board`, `.tile`, `.basket`, `.puzzle`, `.piece`, `.ws`, `.ws__cell`, `.swatch`, `.color-page`) to eliminate double-tap delay (300ms) and disorienting viewport zoom jumps while preserving smooth single-finger scrolling. Added `-webkit-touch-callout: none`, `-webkit-user-drag: none`, and `pointer-events: none` on inner images to prevent accidental iOS/Android context menus ("Save Image") or ghost drag outlines. Added `user-select: none`, `-webkit-user-select: none`, and `-webkit-tap-highlight-color: transparent` to eliminate distracting blue selection boxes and grey tap flashes.
 

@@ -755,9 +755,14 @@
   .sheet h2 {
     font-size: 22pt;
     margin: 0 0 8mm;
+    color: #000;
+    break-after: avoid;
+    page-break-after: avoid;
   }
   .sheet__page {
     break-after: page;
+    break-inside: avoid;
+    page-break-inside: avoid;
   }
   .sheet__page:last-child {
     break-after: auto;
@@ -765,7 +770,7 @@
   .sheet-ws {
     display: grid;
     grid-template-columns: repeat(var(--size), 1fr);
-    border: 2px solid #222;
+    border: 2px solid #000;
     max-width: 170mm;
   }
   .sheet-ws span {
@@ -774,7 +779,8 @@
     place-items: center;
     font-size: 26pt;
     font-weight: 700;
-    border: 1px solid #999;
+    border: 1.5px solid #222;
+    color: #000;
   }
   .sheet-words {
     display: flex;
@@ -785,19 +791,21 @@
     margin-top: 8mm;
     font-size: 20pt;
     font-weight: 700;
+    color: #000;
   }
   .sheet-bingo {
     display: grid;
     grid-template-columns: repeat(var(--cols), 1fr);
-    border: 3px solid #222;
+    border: 3px solid #000;
     max-width: 175mm;
   }
   .sheet-bingo div {
-    border: 1.5px solid #222;
+    border: 2px solid #222;
     padding: 2.5mm;
     text-align: center;
-    font-size: 14pt;
+    font-size: 16pt;
     font-weight: 700;
+    color: #000;
   }
   .sheet-bingo img {
     width: 100%;
@@ -809,16 +817,18 @@
     gap: 0;
   }
   .sheet-cards article {
-    border: 1.5px dashed #777;
+    border: 2px dashed #333;
     padding: 6mm;
     min-height: 62mm;
     break-inside: avoid;
+    page-break-inside: avoid;
     display: grid;
     grid-template-columns: 30mm 1fr;
     gap: 5mm;
     align-items: center;
     font-size: 16pt;
     font-weight: 700;
+    color: #000;
   }
   .sheet-cards img {
     width: 30mm;
