@@ -787,14 +787,16 @@ class GmMemoryTile extends StatelessWidget {
               switchInCurve: Curves.easeOut,
               transitionBuilder: (c, a) =>
                   RotationYTransition(turns: a, child: c),
+              // The picture fills the tile to its border (no mat), clipped
+              // by the tile's rounded shape; the selected and matched
+              // outline is painted over its edge (DESIGN.md › Mounted print).
               child: revealed
-                  ? Padding(
+                  ? Image(
                       key: const ValueKey('front'),
-                      padding: const EdgeInsets.all(gmSpaceSm),
-                      child: ClipRRect(
-                        borderRadius: BorderRadius.circular(gmRadiusMd),
-                        child: Image(image: image, fit: BoxFit.cover),
-                      ),
+                      image: image,
+                      fit: BoxFit.cover,
+                      width: double.infinity,
+                      height: double.infinity,
                     )
                   : const GmTileBack(key: ValueKey('back')),
             ),

@@ -471,44 +471,88 @@ class _GentleGamePageState extends State<GentleGamePage> {
                         // A finished board says so calmly where the
                         // instruction was: a check and a plain sentence, no
                         // confetti, score or praise (DESIGN.md › Celebration).
-                        final instruction = board.complete
-                            ? Semantics(
-                                key: _headingKey,
-                                liveRegion: true,
-                                header: true,
-                                child: Row(
-                                  children: [
-                                    Icon(
-                                      Icons.check_circle_outline,
-                                      color: theme.colorScheme.primary,
-                                      size: 32,
-                                    ),
-                                    const SizedBox(width: gmSpaceSm),
-                                    Expanded(
-                                      child: Text(
-                                        l10n.gentleGameAllPairsTogether,
-                                        style: theme.textTheme.headlineSmall,
-                                      ),
-                                    ),
-                                  ],
-                                ),
-                              )
-                            : Text(
-                                l10n.gentleGameInstruction,
-                                style: theme.textTheme.bodyLarge,
-                              );
-                        final status = Semantics(
-                          key: _finishKey,
-                          liveRegion: true,
-                          child: Text(
-                            board.complete
-                                ? l10n.gentleGameFinishedStatus
-                                : board.waitingForNextTurn
-                                ? l10n.gentleGameWaitingStatus
-                                : instructionBelow
-                                ? l10n.gentleGameInstructionNoTimeLimit
-                                : l10n.commonNoTimeLimit,
-                            style: theme.textTheme.bodyLarge,
+                        final finishedRow = Row(
+                          children: [
+                            Icon(
+                              Icons.check_circle_outline,
+                              color: theme.colorScheme.primary,
+                              size: 32,
+                            ),
+                            const SizedBox(width: gmSpaceSm),
+                            Expanded(
+                              child: Text(
+                                l10n.gentleGameAllPairsTogether,
+                                style: theme.textTheme.headlineSmall,
+                              ),
+                            ),
+                          ],
+                        );
+                        final plainInstruction = Text(
+                          l10n.gentleGameInstruction,
+                          style: theme.textTheme.bodyLarge,
+                        );
+                        // Both are laid out, one shown, so the board does
+                        // not move when the heading changes at the end.
+                        // Room for the longer of the two headings, so the
+                        // board does not move when the heading changes at
+                        // the end. Measured, not duplicated: no hidden copy
+                        // of the words sits in the tree.
+                        final instruction = _SteadyHeight(
+                          reserve: [
+                            (
+                              text: l10n.gentleGameAllPairsTogether,
+                              style: theme.textTheme.headlineSmall,
+                              leading: 32 + gmSpaceSm,
+                              minHeight: 32,
+                            ),
+                            (
+                              text: l10n.gentleGameInstruction,
+                              style: theme.textTheme.bodyLarge,
+                              leading: 0,
+                              minHeight: 0,
+                            ),
+                          ],
+                          child: board.complete
+                              ? Semantics(
+                                  key: _headingKey,
+                                  liveRegion: true,
+                                  header: true,
+                                  child: finishedRow,
+                                )
+                              : plainInstruction,
+                        );
+                        final statusStyle = theme.textTheme.bodyLarge;
+                        final idleStatus = instructionBelow
+                            ? l10n.gentleGameInstructionNoTimeLimit
+                            : l10n.commonNoTimeLimit;
+                        // The line keeps the height of the longest message it
+                        // can show, so a change of message never pushes the
+                        // board. No text is clamped.
+                        final status = _SteadyHeight(
+                          reserve: [
+                            for (final text in [
+                              idleStatus,
+                              l10n.gentleGameWaitingStatus,
+                              l10n.gentleGameFinishedStatus,
+                            ])
+                              (
+                                text: text,
+                                style: statusStyle,
+                                leading: 0,
+                                minHeight: 0,
+                              ),
+                          ],
+                          child: Semantics(
+                            key: _finishKey,
+                            liveRegion: true,
+                            child: Text(
+                              board.complete
+                                  ? l10n.gentleGameFinishedStatus
+                                  : board.waitingForNextTurn
+                                  ? l10n.gentleGameWaitingStatus
+                                  : idleStatus,
+                              style: statusStyle,
+                            ),
                           ),
                         );
                         const padding = EdgeInsets.symmetric(
@@ -731,4 +775,47 @@ class _GentleGamePageState extends State<GentleGamePage> {
       ),
     );
   }
+}
+
+/// One message [_SteadyHeight] keeps room for: its `text` in `style`, set
+/// beside a `leading` width (an icon and gap), at least `minHeight` tall.
+typedef _Reserved = ({
+  String text,
+  TextStyle? style,
+  double leading,
+  double minHeight,
+});
+
+/// Shows [child] in a box as tall as the tallest of [reserve] would be at
+/// this width and text size, so swapping between those messages never moves
+/// what sits above or below. The heights are measured; nothing extra is
+/// built, so screen readers and finders see only [child].
+class _SteadyHeight extends StatelessWidget {
+  const new({required this.reserve, required this.child});
+
+  final List<_Reserved> reserve;
+  final Widget child;
+
+  @override
+  Widget build(BuildContext context) => LayoutBuilder(
+    builder: (context, constraints) {
+      final base = DefaultTextStyle.of(context).style;
+      final scaler = MediaQuery.textScalerOf(context);
+      final direction = Directionality.of(context);
+      var tallest = 0.0;
+      for (final r in reserve) {
+        final painter = TextPainter(
+          text: TextSpan(text: r.text, style: base.merge(r.style)),
+          textDirection: direction,
+          textScaler: scaler,
+        )..layout(maxWidth: max(0, constraints.maxWidth - r.leading));
+        tallest = max(tallest, max(painter.height, r.minHeight));
+        painter.dispose();
+      }
+      return ConstrainedBox(
+        constraints: BoxConstraints(minHeight: tallest),
+        child: Align(alignment: AlignmentDirectional.topStart, child: child),
+      );
+    },
+  );
 }
