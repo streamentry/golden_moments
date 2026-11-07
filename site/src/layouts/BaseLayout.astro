@@ -112,9 +112,11 @@ const detectLanguage = lang === DEFAULT_LOCALE && path === '/';
     <Header lang={lang} />
     {
       lang !== DEFAULT_LOCALE && (
-        <p class="mt-notice container">
-          {t.common.machineTranslated} <a href={path} hreflang="en" lang="en">{t.common.readOriginal}</a>
-        </p>
+        <aside aria-label={t.common.languages}>
+          <p class="mt-notice container">
+            {t.common.machineTranslated} <a href={path} hreflang="en" lang="en">{t.common.readOriginal}</a>
+          </p>
+        </aside>
       )
     }
     <main id="main" tabindex="-1">
