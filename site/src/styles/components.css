@@ -17,6 +17,10 @@
   text-align: center;
   text-decoration: none;
   cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
   transition:
     background-color var(--duration-fast) ease,
     color var(--duration-fast) ease,

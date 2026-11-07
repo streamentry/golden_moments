@@ -88,6 +88,10 @@
 .chip {
   position: relative;
   display: flex;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
 }
 .chip input {
   position: absolute;
@@ -137,6 +141,9 @@
   grid-template-columns: repeat(var(--cols, 2), minmax(var(--tile-min), 1fr));
   max-width: min(100%, var(--board-max, 560px));
   margin-inline: auto;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
 }
 .tile {
   position: relative;
@@ -150,6 +157,11 @@
   border-radius: var(--radius-lg);
   background: var(--gm-surface);
   cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
   transition:
     transform var(--duration-fast) var(--ease-out),
     border-color var(--duration-fast) ease,
@@ -162,6 +174,9 @@
   object-fit: cover;
   border-radius: calc(var(--radius-lg) - 1px);
   pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
 }
 .tile:hover {
   border-color: var(--gm-primary);
@@ -238,6 +253,10 @@
 .target__print img {
   border-radius: 6px;
   width: 100%;
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
 }
 .target__name {
   font-size: var(--text-title-lg);
@@ -280,6 +299,11 @@
   background: var(--gm-background);
   text-align: start;
   cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
 }
 .basket:hover,
 .basket--ready {
@@ -307,6 +331,10 @@
   width: 48px;
   height: 48px;
   border-radius: 6px;
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
 }
 
 /* Puzzle */
@@ -322,6 +350,10 @@
   border-radius: var(--radius-md);
   border: 6px solid var(--gm-print-white);
   box-shadow: var(--shadow-raised);
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
 }
 .puzzle {
   /* Pieces are slices of a picture, so the board keeps the picture's own left and right in every language. */
@@ -335,6 +367,9 @@
   background: var(--gm-print-white);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-print);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
 }
 .piece {
   position: relative;
@@ -344,6 +379,11 @@
   background-repeat: no-repeat;
   cursor: pointer;
   padding: 0;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
 }
 .piece:focus-visible {
   outline: 3px solid var(--gm-primary);
@@ -424,6 +464,10 @@
   border: 8px solid var(--gm-print-white);
   box-shadow: var(--shadow-raised);
   margin-inline: auto;
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
 }
 .talk-card__theme {
   font-size: var(--text-md);
@@ -445,6 +489,8 @@
   max-width: 560px;
   margin-inline: auto;
   user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
 }
 .ws__cell {
   aspect-ratio: 1;
@@ -458,6 +504,11 @@
   font-size: clamp(1.25rem, 0.8rem + 2.4vw, 2rem);
   font-weight: 700;
   cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
 }
 .ws__cell--start {
   border: 4px solid var(--gm-primary);
@@ -501,6 +552,8 @@
   grid-template-columns: repeat(auto-fit, minmax(6.5rem, 1fr));
   gap: var(--space-sm);
   margin-bottom: var(--space-md);
+  user-select: none;
+  -webkit-user-select: none;
 }
 .swatch {
   overflow-wrap: anywhere;
@@ -516,6 +569,11 @@
   font-size: var(--text-sm);
   cursor: pointer;
   text-align: start;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
 }
 .swatch__dot {
   width: 26px;
@@ -536,6 +594,11 @@
   border-radius: var(--radius-lg);
   border: 1px solid var(--gm-outline);
   padding: 12px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
 }
 .color-page svg {
   width: 100%;
@@ -543,6 +606,8 @@
 }
 .color-page [data-region] {
   cursor: pointer;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
 }
 .color-page [data-region]:focus {
   outline: none;
@@ -598,6 +663,10 @@
 .caller__print img {
   width: 100%;
   border-radius: 6px;
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
 }
 .caller__name {
   font-size: clamp(2rem, 1.4rem + 3vw, 3.5rem);
@@ -618,6 +687,10 @@
   height: 52px;
   border-radius: 6px;
   border: 1px solid var(--gm-outline);
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
 }
 
 /* Breathing */
