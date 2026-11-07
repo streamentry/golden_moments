@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Baca dengan keras",
+      "stopReading": "Hentikan membaca",
       "region": "Permainan",
       "restart": "Mulai lagi",
       "soundOn": "Suara lembut menyala",

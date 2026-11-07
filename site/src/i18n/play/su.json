@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Baca sora",
+      "stopReading": "Eureun maca",
       "region": "Kaulinan",
       "restart": "Mimitian deui",
       "soundOn": "Sora lemes hurung",

@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "ډیر غږ سره ولولئ",
+      "stopReading": "لوستل ودروئ",
       "region": "لوبه",
       "restart": "بیا پیل کړئ",
       "soundOn": "نرم غږونه چالان",

@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "জোরে পড়ুন",
+      "stopReading": "পড়া বন্ধ করুন",
       "region": "খেলা",
       "restart": "আবার শুরু",
       "soundOn": "নরম শব্দ চালু",

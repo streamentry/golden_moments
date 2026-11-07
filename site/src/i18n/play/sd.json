@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "وڏي آواز ۾ پڙهو",
+      "stopReading": "پڙهڻ بند ڪريو",
       "region": "راند",
       "restart": "ٻيهر شروع ڪريو",
       "soundOn": "نرم آواز آن",

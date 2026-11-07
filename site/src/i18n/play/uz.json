@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Ovoz chiqarib o‘qish",
+      "stopReading": "O‘qishni to‘xtatish",
       "region": "Oʻyin",
       "restart": "Qaytadan boshlash",
       "soundOn": "Yumshoq tovushlar yoqilgan",
