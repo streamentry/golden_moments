@@ -108,6 +108,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
     if (session == null || !mounted || !_untouched) return;
     final restored = session.toBoard(
       availablePictureIds: {for (final p in widget.pictures) p.id},
+      renamed: ActivityPicture.legacyIds,
     );
     if (restored == null) {
       // Deleted photos or an unusable record: start fresh, change nothing else.

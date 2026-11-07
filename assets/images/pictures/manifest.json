@@ -1,0 +1,420 @@
+{
+  "size": 720,
+  "pictures": [
+    {
+      "id": "teacup",
+      "category": "kitchen",
+      "svg": "b845328f9e60d0bf"
+    },
+    {
+      "id": "kettle",
+      "category": "kitchen",
+      "svg": "ead6448acbee611b"
+    },
+    {
+      "id": "bread",
+      "category": "kitchen",
+      "svg": "dfe21f3b9d87cd7d"
+    },
+    {
+      "id": "frying-pan",
+      "category": "kitchen",
+      "svg": "7ddce0c2c2938d15"
+    },
+    {
+      "id": "cake",
+      "category": "kitchen",
+      "svg": "c1591bb69957acf8"
+    },
+    {
+      "id": "sunflower",
+      "category": "garden",
+      "svg": "871decb792754836"
+    },
+    {
+      "id": "tulip",
+      "category": "garden",
+      "svg": "e00c3758fd418196"
+    },
+    {
+      "id": "watering-can",
+      "category": "garden",
+      "svg": "9d41bb9c8ae7896f"
+    },
+    {
+      "id": "potted-plant",
+      "category": "garden",
+      "svg": "80746aed689f33b7"
+    },
+    {
+      "id": "tree",
+      "category": "garden",
+      "svg": "6026248913bafa9b"
+    },
+    {
+      "id": "bird",
+      "category": "animals",
+      "svg": "6d61a228d200df85"
+    },
+    {
+      "id": "butterfly",
+      "category": "animals",
+      "svg": "ebda7acde26f3416"
+    },
+    {
+      "id": "dog",
+      "category": "animals",
+      "svg": "3a697f6c1bd60055"
+    },
+    {
+      "id": "cat",
+      "category": "animals",
+      "svg": "659b3f45cd90b005"
+    },
+    {
+      "id": "fish",
+      "category": "animals",
+      "svg": "22e324aaaa4f4a7f"
+    },
+    {
+      "id": "apple",
+      "category": "fruit",
+      "svg": "283f7d2977afb743"
+    },
+    {
+      "id": "pear",
+      "category": "fruit",
+      "svg": "e269f480ea934d20"
+    },
+    {
+      "id": "strawberry",
+      "category": "fruit",
+      "svg": "70435b14e8a7da62"
+    },
+    {
+      "id": "banana",
+      "category": "fruit",
+      "svg": "370a9589183136b9"
+    },
+    {
+      "id": "lemon",
+      "category": "fruit",
+      "svg": "c2349611db5e79d5"
+    },
+    {
+      "id": "cherries",
+      "category": "fruit",
+      "svg": "a41fbe3253716552"
+    },
+    {
+      "id": "house",
+      "category": "home",
+      "svg": "7a4f3418897d735a"
+    },
+    {
+      "id": "lamp",
+      "category": "home",
+      "svg": "b447b29ebca2124b"
+    },
+    {
+      "id": "armchair",
+      "category": "home",
+      "svg": "db94ead3438f0d09"
+    },
+    {
+      "id": "key",
+      "category": "home",
+      "svg": "5964a6020aa26bcc"
+    },
+    {
+      "id": "umbrella",
+      "category": "home",
+      "svg": "22e9344674fbdf45"
+    },
+    {
+      "id": "sailboat",
+      "category": "travel",
+      "svg": "3554f952ab72f933"
+    },
+    {
+      "id": "car",
+      "category": "travel",
+      "svg": "037852366a729884"
+    },
+    {
+      "id": "bicycle",
+      "category": "travel",
+      "svg": "026233eeb27c997b"
+    },
+    {
+      "id": "balloon",
+      "category": "travel",
+      "svg": "8fc7788f7f64fe5d"
+    },
+    {
+      "id": "lighthouse",
+      "category": "travel",
+      "svg": "e195ca9de65005e1"
+    },
+    {
+      "id": "sun",
+      "category": "sky",
+      "svg": "687550c946caeb1b"
+    },
+    {
+      "id": "moon",
+      "category": "sky",
+      "svg": "d661089af1a82d31"
+    },
+    {
+      "id": "teapot",
+      "category": "kitchen",
+      "svg": "bfdd02ecfee427d4"
+    },
+    {
+      "id": "apple-pie",
+      "category": "kitchen",
+      "svg": "ee2bebfc21bb9569"
+    },
+    {
+      "id": "honey-jar",
+      "category": "kitchen",
+      "svg": "9759e7408d6b34d7"
+    },
+    {
+      "id": "boiled-egg",
+      "category": "kitchen",
+      "svg": "94ec729dd02b67c8"
+    },
+    {
+      "id": "toaster",
+      "category": "kitchen",
+      "svg": "102f7d8e03e0fe97"
+    },
+    {
+      "id": "cheese",
+      "category": "kitchen",
+      "svg": "8ef82227ccbb3bbd"
+    },
+    {
+      "id": "milk-jug",
+      "category": "kitchen",
+      "svg": "a41a663849845d31"
+    },
+    {
+      "id": "cupcake",
+      "category": "kitchen",
+      "svg": "16b719162599dc13"
+    },
+    {
+      "id": "orange",
+      "category": "fruit",
+      "svg": "bdaf42045ee7b764"
+    },
+    {
+      "id": "grapes",
+      "category": "fruit",
+      "svg": "1c7f80070488838a"
+    },
+    {
+      "id": "watermelon",
+      "category": "fruit",
+      "svg": "3f1174253ff8f7a6"
+    },
+    {
+      "id": "pineapple",
+      "category": "fruit",
+      "svg": "739bb3067069007e"
+    },
+    {
+      "id": "peach",
+      "category": "fruit",
+      "svg": "06b1cdf76e32c8d5"
+    },
+    {
+      "id": "rose",
+      "category": "garden",
+      "svg": "650ac6df5f26b414"
+    },
+    {
+      "id": "daisies",
+      "category": "garden",
+      "svg": "0512470b59c9f262"
+    },
+    {
+      "id": "mushroom",
+      "category": "garden",
+      "svg": "0c556903d372a536"
+    },
+    {
+      "id": "wheelbarrow",
+      "category": "garden",
+      "svg": "cd762778e3e55d24"
+    },
+    {
+      "id": "birdhouse",
+      "category": "garden",
+      "svg": "ec428354644ed929"
+    },
+    {
+      "id": "cactus",
+      "category": "garden",
+      "svg": "33d2ee16744b244e"
+    },
+    {
+      "id": "acorn",
+      "category": "garden",
+      "svg": "d9ad95d3effe59ce"
+    },
+    {
+      "id": "autumn-leaf",
+      "category": "garden",
+      "svg": "9ee04f672ada893d"
+    },
+    {
+      "id": "rabbit",
+      "category": "animals",
+      "svg": "38a1592b3c9ccd90"
+    },
+    {
+      "id": "duck",
+      "category": "animals",
+      "svg": "c2d8c66edcf6f6ff"
+    },
+    {
+      "id": "hen",
+      "category": "animals",
+      "svg": "043435b7d7b00a9f"
+    },
+    {
+      "id": "sheep",
+      "category": "animals",
+      "svg": "8c9a74cf3e4c53dc"
+    },
+    {
+      "id": "owl",
+      "category": "animals",
+      "svg": "c73b8923b18b8582"
+    },
+    {
+      "id": "ladybird",
+      "category": "animals",
+      "svg": "19c0de20bc1f0a62"
+    },
+    {
+      "id": "snail",
+      "category": "animals",
+      "svg": "bbe225b7cc8e692e"
+    },
+    {
+      "id": "frog",
+      "category": "animals",
+      "svg": "167958f5962361f4"
+    },
+    {
+      "id": "bee",
+      "category": "animals",
+      "svg": "d69ce8e42e70668b"
+    },
+    {
+      "id": "clock",
+      "category": "home",
+      "svg": "6f8245b3a61169a8"
+    },
+    {
+      "id": "vase-of-flowers",
+      "category": "home",
+      "svg": "004c72330b49e046"
+    },
+    {
+      "id": "radio",
+      "category": "home",
+      "svg": "8c485fc8c42993b9"
+    },
+    {
+      "id": "books",
+      "category": "home",
+      "svg": "143875fc4f111078"
+    },
+    {
+      "id": "candle",
+      "category": "home",
+      "svg": "d69d792e18ff4149"
+    },
+    {
+      "id": "glasses",
+      "category": "home",
+      "svg": "253ccfc1a4f20bcf"
+    },
+    {
+      "id": "telephone",
+      "category": "home",
+      "svg": "905fd310de347be5"
+    },
+    {
+      "id": "ball-of-wool",
+      "category": "home",
+      "svg": "de4d50f2c5ce256b"
+    },
+    {
+      "id": "straw-hat",
+      "category": "home",
+      "svg": "39a7cec97032fbdc"
+    },
+    {
+      "id": "train",
+      "category": "travel",
+      "svg": "3ea3cd12bb905acb"
+    },
+    {
+      "id": "bus",
+      "category": "travel",
+      "svg": "a84dcc24536fffcd"
+    },
+    {
+      "id": "airplane",
+      "category": "travel",
+      "svg": "df3301200225d9e1"
+    },
+    {
+      "id": "suitcase",
+      "category": "travel",
+      "svg": "2a103373b7ceb15a"
+    },
+    {
+      "id": "tractor",
+      "category": "travel",
+      "svg": "cefef0c2ed6f3a87"
+    },
+    {
+      "id": "rowing-boat",
+      "category": "travel",
+      "svg": "703929fb034364a9"
+    },
+    {
+      "id": "rainbow",
+      "category": "sky",
+      "svg": "ac4f488ca540ba60"
+    },
+    {
+      "id": "rain-cloud",
+      "category": "sky",
+      "svg": "ffcdb2f72ab64987"
+    },
+    {
+      "id": "snowflake",
+      "category": "sky",
+      "svg": "e461c7bda26335bd"
+    },
+    {
+      "id": "kite",
+      "category": "sky",
+      "svg": "36c6057069878a49"
+    },
+    {
+      "id": "sunrise",
+      "category": "sky",
+      "svg": "6cf750f9f5e2841f"
+    }
+  ]
+}
