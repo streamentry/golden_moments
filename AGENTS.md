@@ -105,6 +105,25 @@ For multi-session work, leave a compact handoff in the existing workboard or PR:
 completed change, evidence, unresolved risk, and next executable action. Do not
 create parallel task ledgers or claim an unperformed independent review.
 
+## Improvement loops: scored rubric
+
+For any "improve until done" or evaluation task, do not stop on a feeling and do
+not wait for a person or a real device. Use the scored rubric in
+[docs/improvements/rubric.md](docs/improvements/rubric.md):
+
+1. Score every dimension 0 to 10 with the formula and the **automated** evidence
+   listed there (tests, analyzer, axe, measured layouts, coverage counts). Save
+   the commands and numbers in the log; a score without evidence does not count.
+2. The loop is **done** when the weighted overall score is **above 8.6** and no
+   dimension is below **7.0**. Until then, take the lowest-scoring dimension,
+   fix its cause, re-measure, and rescore. When the bar is met, stop and say so.
+3. Things that need a person or a physical device (VoiceOver on hardware, native
+   translation review, store review) are not blockers and are not scored. List
+   them as "not verified" in the log. The rubric never claims device or reviewer
+   verification, and a high score is not release approval (see below).
+4. Add a dimension, or tighten a formula, when a new class of defect is found;
+   never loosen one to reach the bar.
+
 ## Validation contract
 
 Use the Flutter SDK pinned by `.fvmrc` and compatible `pubspec.yaml` constraints.
