@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Si cod ah u akhri",
+      "stopReading": "Jooji akhriska",
       "region": "Ciyaar",
       "restart": "Mar kale bilow",
       "soundOn": "Codad jilicsan way shaqeeyaan",

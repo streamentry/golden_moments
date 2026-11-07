@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Soma kwa sauti",
+      "stopReading": "Acha kusoma",
       "region": "Mchezo",
       "restart": "Anza upya",
       "soundOn": "Sauti laini zimewashwa",

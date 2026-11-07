@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "በድምጽ አንብብ",
+      "stopReading": "ማንበብ አቁም",
       "region": "ጨዋታ",
       "restart": "እንደገና ይጀምሩ",
       "soundOn": "ለስላሳ ድምጾች በርተዋል",

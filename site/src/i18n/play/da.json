@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Læs højt",
+      "stopReading": "Stop oplæsning",
       "region": "Spil",
       "restart": "Start forfra",
       "soundOn": "Bløde lyde slået til",

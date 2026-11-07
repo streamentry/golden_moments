@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Ka sóde",
+      "stopReading": "Dá kíka dúró",
       "region": "Eré",
       "restart": "Bẹ̀rẹ̀ lẹ́ẹ̀kan sí i",
       "soundOn": "Àwọn ìró rírọ̀ wà ní títàn",

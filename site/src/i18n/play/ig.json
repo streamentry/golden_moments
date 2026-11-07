@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Gụọ n’olu",
+      "stopReading": "Kwụsị ịgụ",
       "region": "Egwuregwu",
       "restart": "Malite ọzọ",
       "soundOn": "Ụda dị nwayọọ na-arụ ọrụ",
