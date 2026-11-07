@@ -44,6 +44,6 @@ Lowest dimension: targets and navigation at 8.0 (floor is 7.0). **The bar (above
 
 ## Next improvements, by lowest score (for the next loop)
 
-1. Targets and navigation (8.0): label the remaining icon-only actions (`home_page.dart` settings; `game_page.dart` hint and options).
+1. Targets and navigation (8.0): label the remaining icon-only actions (`home_page.dart` settings; `game_page.dart` hint and options). **Tried 2026-11-07 and reverted:** a labelled "Settings" button in the library home app bar fails three existing tests at 200% text on a 320x568 phone (`library_home_text_scale_test`, `pack_favorites_ui_test` x2). It needs a redesign that moves the actions into the body, as was done on the gentle board.
 2. Localization (9.34): picture names and the footer link for the 20 languages left in English.
 3. Type and contrast (9.75): primary gold text at 6.33:1 (brand decision).
