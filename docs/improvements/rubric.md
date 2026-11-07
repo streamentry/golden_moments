@@ -26,7 +26,7 @@ Overall = sum of weight x score.
 | 1 | Plain language | app 441 of 441 strings conform after the six fixes; site play copy 0 long sentences | 10.0 |
 | 2 | Type and contrast | floor and 200% tests pass 10; body 15.1:1 gives 10; secondary 8.1:1 gives 10; primary 6.33:1 gives 9.0 | 9.75 |
 | 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions 8 of 8 now carry a word (gentle board help and comfort; library Settings; game Hint and Options; download Pause, Try again and Cancel) = 10 | 10.0 |
-| 4 | Structure and semantics | axe on all 3,920 built pages: one issue class found (`scrollable-region-focusable`, 402 pages with a scrolling table), fixed, rescanned 1,834 table pages = 0 violations and 0 unfocusable tables; heading skips 0; landmarks fixed; app semantics tests pass | 10.0 |
+| 4 | Structure and semantics | axe on all 3,920 built pages: one issue class found (`scrollable-region-focusable`, 402 pages with a scrolling table), fixed, scanned again 1,834 table pages = 0 violations and 0 not focusable tables; heading skips 0; landmarks fixed; app semantics tests pass | 10.0 |
 | 5 | Reflow and large text | site 1,512 of 1,512 runs clean = 10; app 200% tests pass = 10 | 10.0 |
 | 6 | Localization completeness | app keys 100%; site ui keys 98.4% (footer link missing in 20 of 64); games keys 100%; guides 100%; picture names 68.8% (44 of 64) | 9.34 |
 | 7 | Product integrity | gentle-mode and claims guard tests all pass | 10.0 |
