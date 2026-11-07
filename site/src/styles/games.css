@@ -166,6 +166,11 @@
 .tile:hover {
   border-color: var(--gm-primary);
 }
+.tile:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 3px;
+  border-radius: var(--radius-lg);
+}
 .tile:active {
   transform: scale(0.98);
 }
@@ -281,6 +286,11 @@
   border: 3px solid var(--gm-primary);
   background: var(--gm-primary-container);
 }
+.basket:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 3px;
+  border-radius: var(--radius-lg);
+}
 .basket__title {
   display: flex;
   align-items: center;
@@ -334,6 +344,11 @@
   background-repeat: no-repeat;
   cursor: pointer;
   padding: 0;
+}
+.piece:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 3px;
+  border-radius: 8px;
 }
 .piece--selected {
   outline: 5px solid var(--gm-primary);

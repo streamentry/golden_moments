@@ -78,6 +78,7 @@ export default function SortTogether(props: PlayProps) {
 
   const choices = THEMES.map((t) => ({ value: t.value, label: text(t).label }));
   const waiting = state.items.filter((i) => state.placed[i.id] === undefined);
+  const done = state.items.length > 0 && waiting.length === 0;
   return (
     <GameFrame
       ui={ui}
@@ -87,6 +88,18 @@ export default function SortTogether(props: PlayProps) {
       onRestart={() => setRound((r) => r + 1)}
       restartLabel={ui.sortTogether.restart}
       options={<ChoiceChips legend={ui.sortTogether.themeLegend} choices={choices} value={themeKey} onChange={setThemeKey} />}
+      footer={
+        done ? (
+          <div className="game__done">
+            <p>{ui.sortTogether.sorted}</p>
+            <div className="btn-row btn-row--center">
+              <button type="button" className="btn btn--primary" onClick={() => setRound((r) => r + 1)}>
+                {ui.sortTogether.restart}
+              </button>
+            </div>
+          </div>
+        ) : null
+      }
     >
       {waiting.length > 0 ? (
         <div className="board" data-cols={3} data-width="medium">
