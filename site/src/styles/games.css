@@ -251,11 +251,20 @@
 /* Sorting baskets */
 .baskets {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  /* minmax(0, ...) lets a column shrink below its longest word. */
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: var(--space-md);
   margin-top: var(--space-lg);
 }
+/* At larger text on a phone, one basket per row keeps long names whole. */
+@media (max-width: 479px) {
+  html[data-text-size='large'] .baskets {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
 .basket {
+  min-width: 0;
+  overflow-wrap: anywhere;
   display: flex;
   flex-direction: column;
   gap: var(--space-sm);
@@ -479,6 +488,7 @@
   margin-bottom: var(--space-md);
 }
 .swatch {
+  overflow-wrap: anywhere;
   display: flex;
   align-items: center;
   gap: 8px;
@@ -553,6 +563,7 @@
 
 /* Bingo caller */
 .caller {
+  overflow-wrap: anywhere;
   display: grid;
   gap: var(--space-lg);
   justify-items: center;

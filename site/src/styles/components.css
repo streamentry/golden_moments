@@ -1,5 +1,6 @@
 /* ---------- Buttons: pill shape so a button never looks like a picture ---------- */
 .btn {
+  overflow-wrap: anywhere;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -175,13 +176,20 @@
 }
 @media (max-width: 479px) {
   .site-nav ul {
-    grid-template-columns: 1fr 1fr;
+    /* minmax(0, ...) lets a column shrink below its longest word. */
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: var(--space-xs);
   }
   .site-nav a {
     justify-content: center;
     width: 100%;
     background: var(--gm-surface);
+    overflow-wrap: anywhere;
+    text-align: center;
+  }
+  /* At larger text a column is too narrow for words like "Gehirngesundheit". */
+  html[data-text-size='large'] .site-nav ul {
+    grid-template-columns: minmax(0, 1fr);
   }
 }
 
@@ -427,6 +435,10 @@
   background: var(--gm-secondary-container);
   font-size: var(--text-md);
   margin-block: var(--space-lg);
+}
+.notice > div {
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
 .notice svg {
   flex: none;
@@ -793,4 +805,9 @@ a.small-print {
 }
 .btn-row--spaced {
   margin-bottom: var(--space-xl);
+}
+
+/* A long question word at larger text must not push the page wider. */
+summary {
+  overflow-wrap: anywhere;
 }
