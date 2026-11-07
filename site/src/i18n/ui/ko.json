@@ -21,7 +21,12 @@
     "breadcrumb": "현재 위치",
     "home": "홈",
     "lastUpdated": "최종 수정일",
-    "topics": "주제"
+    "topics": "주제",
+    "textSize": {
+      "label": "글자 크기",
+      "smaller": "기본 글자",
+      "larger": "큰 글자"
+    }
   },
   "footer": {
     "play": "게임하기",
@@ -56,7 +61,8 @@
     "healthNotice": "건강 정보 안내",
     "allLegal": "모든 법적 고지",
     "note": "Golden Moments는 함께 즐기는 간단한 활동을 제공해요. 의학적 조언이나 검사, 치료가 아니며, 누구도 진단하거나 측정하거나 점수를 매기지 않아요. 건강에 관한 궁금한 점은 의사와 상담하세요. 응급 상황에서는 119에 전화하세요.",
-    "publisher": "발행: Cloudjet Solutions Pte. Ltd."
+    "publisher": "발행: Cloudjet Solutions Pte. Ltd.",
+    "pictures": "인쇄용 그림"
   },
   "home": {
     "title": "치매·알츠하이머 어르신 게임과 활동 | Golden Moments",

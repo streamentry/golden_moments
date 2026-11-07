@@ -22,7 +22,12 @@
     "breadcrumb": "Jejak laluan",
     "home": "Laman utama",
     "lastUpdated": "Dikemas kini kali terakhir",
-    "topics": "Topik"
+    "topics": "Topik",
+    "textSize": {
+      "label": "Saiz teks",
+      "smaller": "Teks biasa",
+      "larger": "Teks lebih besar"
+    }
   },
   "footer": {
     "play": "Main",
@@ -57,7 +62,8 @@
     "healthNotice": "Notis maklumat kesihatan",
     "allLegal": "Semua maklumat perundangan",
     "note": "Golden Moments menawarkan aktiviti bersama yang mudah untuk dinikmati. Ia bukan nasihat perubatan, ujian atau rawatan, dan tidak mendiagnosis, mengukur atau memberi markah kepada sesiapa. Untuk soalan kesihatan, berbincanglah dengan doktor. Dalam kecemasan, hubungi nombor kecemasan tempatan.",
-    "publisher": "Diterbitkan oleh Cloudjet Solutions Pte. Ltd."
+    "publisher": "Diterbitkan oleh Cloudjet Solutions Pte. Ltd.",
+    "pictures": "Gambar untuk dicetak"
   },
   "home": {
     "title": "Permainan dan Aktiviti Demensia & Alzheimer | Golden Moments",

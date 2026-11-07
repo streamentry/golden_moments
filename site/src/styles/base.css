@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+/* Larger text: every size is in rem, so one root size scales the page. */
+html[data-text-size='large'] {
+  font-size: 125%;
+}
+
 html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
@@ -31,6 +36,10 @@ svg {
 /* Headlines and large titles are Fraunces; everything that is read stays
    Roboto (DESIGN.md › Typography). Tracking stays open: Fraunces may
    tighten only at hero size. */
+/* A word longer than the line (a long German or Russian compound at large
+   text on a 320 px phone) breaks as a last resort instead of pushing the
+   page wider than the screen (WCAG 1.4.10 reflow). Words that fit are never
+   broken, and nothing is hyphenated. */
 h1,
 h2,
 h3 {
@@ -40,8 +49,10 @@ h3 {
   letter-spacing: 0;
   margin: 0 0 var(--space-md);
   text-wrap: balance;
+  overflow-wrap: anywhere;
 }
 h4 {
+  overflow-wrap: anywhere;
   font-weight: 700;
   line-height: var(--leading-heading);
   margin: 0 0 var(--space-md);
@@ -153,6 +164,7 @@ textarea {
 }
 
 .eyebrow {
+  overflow-wrap: anywhere;
   display: inline-flex;
   align-items: center;
   gap: var(--space-sm);

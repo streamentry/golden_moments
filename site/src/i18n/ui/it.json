@@ -21,7 +21,12 @@
     "breadcrumb": "Percorso di navigazione",
     "home": "Home",
     "lastUpdated": "Ultimo aggiornamento",
-    "topics": "Argomenti"
+    "topics": "Argomenti",
+    "textSize": {
+      "label": "Dimensione del testo",
+      "smaller": "Testo standard",
+      "larger": "Testo più grande"
+    }
   },
   "footer": {
     "play": "Giocare",
@@ -56,7 +61,8 @@
     "healthNotice": "Avviso sulle informazioni sanitarie",
     "allLegal": "Tutte le informazioni legali",
     "note": "Golden Moments propone semplici attività da condividere, per il piacere di stare insieme. Non è un consiglio medico, un test o una terapia: non fa diagnosi, non misura nessuno e non assegna punteggi. Per domande sulla salute, si rivolga a un medico. In caso di emergenza, chiami il 112.",
-    "publisher": "Pubblicato da Cloudjet Solutions Pte. Ltd."
+    "publisher": "Pubblicato da Cloudjet Solutions Pte. Ltd.",
+    "pictures": "Immagini da stampare"
   },
   "home": {
     "title": "Giochi e attività per demenza e Alzheimer | Golden Moments",

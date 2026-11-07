@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:golden_moments/data/models/download_progress.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/l10n/l10n.dart';
 
 /// Card widget displaying download progress for a pack
 class DownloadProgressCard extends StatelessWidget {
@@ -75,11 +76,14 @@ class DownloadProgressCard extends StatelessWidget {
                     ],
                   ),
                 ),
-
-                // Controls
-                if (showControls) _buildControls(theme),
               ],
             ),
+            // Controls are named in words, in their own row (DESIGN.md: every
+            // icon has a word), so they wrap at large text.
+            if (showControls) ...[
+              const SizedBox(height: gmSpaceSm),
+              _buildControls(context),
+            ],
 
             const SizedBox(height: gmSpaceMd),
 
@@ -178,31 +182,28 @@ class DownloadProgressCard extends StatelessWidget {
     );
   }
 
-  Widget _buildControls(ThemeData theme) {
-    return Row(
-      mainAxisSize: MainAxisSize.min,
+  Widget _buildControls(BuildContext context) {
+    final l10n = context.l10n;
+    return Wrap(
+      spacing: gmSpaceSm,
+      runSpacing: gmSpaceSm,
       children: [
-        if (progress.isActive) ...[
-          // Pause button
-          IconButton(
+        if (progress.isActive)
+          OutlinedButton.icon(
             onPressed: onPause,
             icon: const Icon(Icons.pause),
-            tooltip: 'Pause download',
-          ),
-        ] else if (progress.status == DownloadProgressStatus.failed) ...[
-          // Retry button
-          IconButton(
+            label: Text(l10n.commonPause),
+          )
+        else if (progress.status == DownloadProgressStatus.failed)
+          OutlinedButton.icon(
             onPressed: onResume,
             icon: const Icon(Icons.refresh),
-            tooltip: 'Try again',
+            label: Text(l10n.commonTryAgain),
           ),
-        ],
-
-        // Cancel button
-        IconButton(
+        OutlinedButton.icon(
           onPressed: onCancel,
           icon: const Icon(Icons.close),
-          tooltip: 'Cancel download',
+          label: Text(l10n.commonCancel),
         ),
       ],
     );

@@ -150,7 +150,8 @@ async function eventually(read, expected) {
     await page.getByRole('button', { name: /^Animals Cute/ }).click();
     await page.getByRole('button', { name: /^Farm Animals.*Play$/ }).click();
     await page.getByRole('button', { name: HIDDEN }).first().waitFor();
-    const tiles = page.getByRole('group').getByRole('button');
+    // The board's tiles only: Hint and Options sit under the board as labelled buttons.
+    const tiles = page.getByRole('group').getByRole('button', { name: /^(?!(?:Show a matching pair|Sound and options)$)/ });
     const count = await tiles.count();
     const known = new Map();
     const matched = new Set();

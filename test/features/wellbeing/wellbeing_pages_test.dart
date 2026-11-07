@@ -75,9 +75,13 @@ void main() {
       );
       expect(find.textContaining('stop at any time'), findsOneWidget);
 
-      await tester.tap(find.widgetWithText(FilledButton, l10n.commonContinue));
+      await tester.tap(
+        find.widgetWithText(FilledButton, l10n.dailyMomentShowNextStep),
+      );
       await tester.pump();
-      await tester.tap(find.widgetWithText(FilledButton, l10n.commonContinue));
+      await tester.tap(
+        find.widgetWithText(FilledButton, l10n.dailyMomentShowNextStep),
+      );
       await tester.pump();
       await tester.tap(
         find.widgetWithText(FilledButton, l10n.commonDoneForNow),
@@ -98,13 +102,15 @@ void main() {
       );
       final l10n = _l10n(tester, DailyMomentPage);
 
-      await tester.tap(find.widgetWithText(FilledButton, l10n.commonContinue));
+      await tester.tap(
+        find.widgetWithText(FilledButton, l10n.dailyMomentShowNextStep),
+      );
       await tester.pump();
       await tester.tap(find.widgetWithText(TextButton, l10n.commonBack));
       await tester.pump();
 
       expect(
-        find.widgetWithText(FilledButton, l10n.commonContinue),
+        find.widgetWithText(FilledButton, l10n.dailyMomentShowNextStep),
         findsOneWidget,
       );
       expect((await store.load()).days, isEmpty);
@@ -124,7 +130,7 @@ void main() {
 
         for (var i = 0; i < DailyMomentPage.steps - 1; i++) {
           await tester.tap(
-            find.widgetWithText(FilledButton, l10n.commonContinue),
+            find.widgetWithText(FilledButton, l10n.dailyMomentShowNextStep),
           );
           await tester.pump();
         }

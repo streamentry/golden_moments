@@ -21,7 +21,12 @@
     "breadcrumb": "Cale de navigare",
     "home": "Acasă",
     "lastUpdated": "Ultima actualizare",
-    "topics": "Subiecte"
+    "topics": "Subiecte",
+    "textSize": {
+      "label": "Dimensiunea textului",
+      "smaller": "Text standard",
+      "larger": "Text mai mare"
+    }
   },
   "footer": {
     "play": "Jucați",
@@ -56,7 +61,8 @@
     "healthNotice": "Notă de informare medicală",
     "allLegal": "Toate informațiile juridice",
     "note": "Golden Moments oferă activități simple, de făcut împreună, pentru plăcere. Nu este sfat medical, test sau tratament și nu diagnostichează, nu măsoară și nu evaluează pe nimeni. Pentru întrebări despre sănătate, discutați cu un medic. În caz de urgență, sunați la numărul local de urgență.",
-    "publisher": "Publicat de Cloudjet Solutions Pte. Ltd."
+    "publisher": "Publicat de Cloudjet Solutions Pte. Ltd.",
+    "pictures": "Imagini de tipărit"
   },
   "home": {
     "title": "Jocuri pentru demență și Alzheimer | Golden Moments",

@@ -21,7 +21,12 @@
     "breadcrumb": "Ipa ọ̀nà ojú-ìwé",
     "home": "Ilé",
     "lastUpdated": "Ìgbà tí a ṣe àtúnṣe gbẹ̀yìn",
-    "topics": "Àwọn kókó ọ̀rọ̀"
+    "topics": "Àwọn kókó ọ̀rọ̀",
+    "textSize": {
+      "label": "Iwọn ọrọ",
+      "smaller": "Ọrọ deede",
+      "larger": "Ọrọ tobi jù"
+    }
   },
   "footer": {
     "play": "Ṣeré",

@@ -21,7 +21,12 @@
     "breadcrumb": "Njia ya kurasa",
     "home": "Mwanzo",
     "lastUpdated": "Imesasishwa mwisho",
-    "topics": "Mada"
+    "topics": "Mada",
+    "textSize": {
+      "label": "Ukubwa wa maandishi",
+      "smaller": "Maandishi ya kawaida",
+      "larger": "Maandishi makubwa zaidi"
+    }
   },
   "footer": {
     "play": "Cheza",

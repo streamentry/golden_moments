@@ -17,9 +17,13 @@ import 'package:golden_moments/features/game/presentation/widgets/game_header.da
 /// tallest message seen at this width and text size, so tiles do not resize
 /// or move between turns when a longer message appears.
 class GamePlayView extends StatefulWidget {
-  const new({required this.state, super.key});
+  const new({required this.state, this.tools, super.key});
 
   final GameState state;
+
+  /// Labelled actions that sit under the board and scroll with it, so they
+  /// never take the board's first place on screen.
+  final Widget? tools;
 
   @override
   State<GamePlayView> createState() => _GamePlayViewState();
@@ -108,6 +112,10 @@ class _GamePlayViewState extends State<GamePlayView> {
                     if (guidanceBelow) ...[
                       const SizedBox(height: gmSpaceMd),
                       header,
+                    ],
+                    if (widget.tools != null) ...[
+                      const SizedBox(height: gmSpaceMd),
+                      widget.tools!,
                     ],
                   ],
                 ),

@@ -22,7 +22,12 @@
     "breadcrumb": "Camí de navegació",
     "home": "Inici",
     "lastUpdated": "Darrera actualització",
-    "topics": "Temes"
+    "topics": "Temes",
+    "textSize": {
+      "label": "Mida del text",
+      "smaller": "Text estàndard",
+      "larger": "Text més gran"
+    }
   },
   "footer": {
     "play": "Jugar",
@@ -57,7 +62,8 @@
     "healthNotice": "Avís d’informació sobre salut",
     "allLegal": "Tota la informació legal",
     "note": "Golden Moments ofereix activitats compartides senzilles per gaudir-ne. No és un consell mèdic, ni una prova, ni un tractament, i no diagnostica, mesura ni puntua ningú. Per a qualsevol dubte de salut, parli amb un metge. En una emergència, truqui al 112.",
-    "publisher": "Publicat per Cloudjet Solutions Pte. Ltd."
+    "publisher": "Publicat per Cloudjet Solutions Pte. Ltd.",
+    "pictures": "Imatges per imprimir"
   },
   "home": {
     "title": "Jocs i activitats per a la demència i l’Alzheimer | Golden Moments",

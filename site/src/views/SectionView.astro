@@ -55,7 +55,7 @@ const itemList = {
       )
     }
     <ul class="card-grid">
-      {rest.map((g) => <li><GuideCard href={href(g)} title={g.entry.data.title} text={g.entry.data.description} lang={lang} /></li>)}
+      {rest.map((g) => <li><GuideCard href={href(g)} title={g.entry.data.title} text={g.entry.data.description} headingLevel="h2" lang={lang} /></li>)}
     </ul>
     <PlayCta lang={lang} />
     <AppCta placement="section" lang={lang} />
@@ -68,6 +68,7 @@ const itemList = {
     margin-bottom: var(--space-lg);
   }
   .lead-guide {
+    overflow-wrap: anywhere;
     display: grid;
     gap: var(--space-sm);
     padding: clamp(1.5rem, 1rem + 2vw, 2.5rem);

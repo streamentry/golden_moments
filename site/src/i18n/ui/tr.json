@@ -21,7 +21,12 @@
     "breadcrumb": "Sayfa yolu",
     "home": "Ana sayfa",
     "lastUpdated": "Son güncelleme",
-    "topics": "Konular"
+    "topics": "Konular",
+    "textSize": {
+      "label": "Yazı boyutu",
+      "smaller": "Standart yazı",
+      "larger": "Daha büyük yazı"
+    }
   },
   "footer": {
     "play": "Oyna",
@@ -56,7 +61,8 @@
     "healthNotice": "Sağlık bilgisi notu",
     "allLegal": "Tüm yasal bilgiler",
     "note": "Golden Moments, keyifli vakit geçirmek için basit, birlikte yapılan etkinlikler sunar. Tıbbi tavsiye, test ya da tedavi değildir; kimseye tanı koymaz, kimseyi ölçmez veya puanlamaz. Sağlıkla ilgili sorularınız için bir doktorla konuşun. Acil durumda 112'yi arayın.",
-    "publisher": "Yayıncı: Cloudjet Solutions Pte. Ltd."
+    "publisher": "Yayıncı: Cloudjet Solutions Pte. Ltd.",
+    "pictures": "Yazdırılacak resimler"
   },
   "home": {
     "title": "Demans ve Alzheimer Oyunları, Etkinlikleri | Golden Moments",

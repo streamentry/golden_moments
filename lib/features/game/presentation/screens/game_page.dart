@@ -95,26 +95,6 @@ class _GamePageState extends State<GamePage> {
                       ? context.packText.packTitle(state.currentPack)
                       : context.l10n.gameTitleFallback,
                 ),
-                actions: playing
-                    ? [
-                        IconButton(
-                          icon: const Icon(Icons.lightbulb_outline),
-                          onPressed: () {
-                            unawaited(SoundService().playTap());
-                            context.read<GameCubit>().showHint();
-                          },
-                          tooltip: context.l10n.gameHintTooltip,
-                        ),
-                        IconButton(
-                          icon: const Icon(Icons.tune),
-                          onPressed: () {
-                            unawaited(SoundService().playTap());
-                            unawaited(_showOptions(context));
-                          },
-                          tooltip: context.l10n.gameOptionsTooltip,
-                        ),
-                      ]
-                    : null,
               ),
               body: switch (state.status) {
                 GameStatus.initial ||
@@ -122,7 +102,41 @@ class _GamePageState extends State<GamePage> {
                 GameStatus.playing ||
                 GameStatus.paused ||
                 GameStatus.completed => _moreBelow.watch(
-                  GamePlayView(state: state),
+                  GamePlayView(
+                    state: state,
+                    // Hint and options are named in words under the board
+                    // (DESIGN.md: every icon has a word). Tooltips stay.
+                    tools: playing
+                        ? Wrap(
+                            spacing: gmSpaceSm,
+                            runSpacing: gmSpaceSm,
+                            children: [
+                              Tooltip(
+                                message: context.l10n.gameHintTooltip,
+                                child: OutlinedButton.icon(
+                                  icon: const Icon(Icons.lightbulb_outline),
+                                  label: Text(context.l10n.gameHintTooltip),
+                                  onPressed: () {
+                                    unawaited(SoundService().playTap());
+                                    context.read<GameCubit>().showHint();
+                                  },
+                                ),
+                              ),
+                              Tooltip(
+                                message: context.l10n.gameOptionsTooltip,
+                                child: OutlinedButton.icon(
+                                  icon: const Icon(Icons.tune),
+                                  label: Text(context.l10n.gameOptionsTooltip),
+                                  onPressed: () {
+                                    unawaited(SoundService().playTap());
+                                    unawaited(_showOptions(context));
+                                  },
+                                ),
+                              ),
+                            ],
+                          )
+                        : null,
+                  ),
                 ),
                 GameStatus.failed ||
                 GameStatus.requiresDownload => const _ErrorView(),

@@ -64,16 +64,6 @@ class HomeView extends StatelessWidget {
                   ? context.l10n.libraryTitlePicturePacks
                   : context.l10n.appTitle,
             ),
-            actions: [
-              IconButton(
-                icon: const Icon(Icons.settings),
-                onPressed: () {
-                  unawaited(SoundService().playTap());
-                  unawaited(showSettingModal(context: parentContext));
-                },
-                tooltip: context.l10n.commonSettings,
-              ),
-            ],
           ),
           body: body,
         );
@@ -263,6 +253,24 @@ class _LoadedView extends StatelessWidget {
                   onShowAgain: (pack) => unawaited(cubit.showPack(pack.id)),
                 ),
               ],
+              // Settings are named in words at the end of the page, not by an
+              // icon in the app bar (DESIGN.md: every icon has a word). A
+              // button in the page wraps and scrolls at large text.
+              const SizedBox(height: gmSpaceXl),
+              Center(
+                child: Tooltip(
+                  message: parentContext.l10n.commonSettings,
+                  child: OutlinedButton.icon(
+                    icon: const Icon(Icons.settings),
+                    label: Text(parentContext.l10n.commonSettings),
+                    onPressed: () {
+                      unawaited(SoundService().playTap());
+                      unawaited(showSettingModal(context: parentContext));
+                    },
+                  ),
+                ),
+              ),
+              const SizedBox(height: gmSpaceLg),
             ],
           ),
         ),

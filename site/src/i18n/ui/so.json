@@ -22,7 +22,12 @@
     "breadcrumb": "Jidka bogga",
     "home": "Bogga hore",
     "lastUpdated": "Markii ugu dambeysay la cusboonaysiiyay",
-    "topics": "Mawduucyo"
+    "topics": "Mawduucyo",
+    "textSize": {
+      "label": "Cabbirka qoraalka",
+      "smaller": "Qoraal caadi ah",
+      "larger": "Qoraal weyn"
+    }
   },
   "footer": {
     "play": "Ciyaar",

@@ -30,7 +30,7 @@ const gmSurf50 = Color(0xFFFDF9F0); // background: parchment page
 const gmSurf100 = Color(0xFFF5EDE0); // surface: linen tiles and cards
 const gmSurf200 = Color(0xFFEADFCB); // surface-sunken: hidden-tile backs
 const gmCharcoal900 = Color(0xFF222222); // on-surface: ink, primary text
-const gmWalnut600 = Color(0xFF5C5346); // on-surface-variant: secondary text
+const gmWalnut600 = Color(0xFF4F4539); // on-surface-variant: secondary text
 const gmDriftwood500 = Color(0xFF7D7366); // outline: resting borders (≥3:1)
 // High contrast (DESIGN.md › colors): used only when the person turns it on.
 const gmHighContrastSurface = Color(0xFFFFFFFF); // high-contrast-surface

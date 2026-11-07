@@ -21,7 +21,12 @@
     "breadcrumb": "Đường dẫn trang",
     "home": "Trang chủ",
     "lastUpdated": "Cập nhật lần cuối",
-    "topics": "Chủ đề"
+    "topics": "Chủ đề",
+    "textSize": {
+      "label": "Cỡ chữ",
+      "smaller": "Chữ thường",
+      "larger": "Chữ lớn hơn"
+    }
   },
   "footer": {
     "play": "Chơi",
@@ -56,7 +61,8 @@
     "healthNotice": "Lưu ý về thông tin sức khỏe",
     "allLegal": "Tất cả thông tin pháp lý",
     "note": "Golden Moments mang đến những hoạt động đơn giản để cùng nhau vui vẻ. Đây không phải lời khuyên y tế, bài kiểm tra hay cách điều trị, và không chẩn đoán, đo lường hay chấm điểm bất kỳ ai. Nếu có thắc mắc về sức khỏe, hãy hỏi ý kiến bác sĩ. Trong trường hợp khẩn cấp, hãy gọi 115.",
-    "publisher": "Phát hành bởi Cloudjet Solutions Pte. Ltd."
+    "publisher": "Phát hành bởi Cloudjet Solutions Pte. Ltd.",
+    "pictures": "Hình ảnh để in"
   },
   "home": {
     "title": "Trò chơi, hoạt động cho người sa sút trí tuệ | Golden Moments",

@@ -22,7 +22,12 @@
     "breadcrumb": "Polku",
     "home": "Etusivu",
     "lastUpdated": "Päivitetty viimeksi",
-    "topics": "Aiheet"
+    "topics": "Aiheet",
+    "textSize": {
+      "label": "Tekstin koko",
+      "smaller": "Normaali teksti",
+      "larger": "Suurempi teksti"
+    }
   },
   "footer": {
     "play": "Pelaa",
@@ -57,7 +62,8 @@
     "healthNotice": "Terveystietoja koskeva huomautus",
     "allLegal": "Kaikki oikeudelliset tiedot",
     "note": "Golden Moments tarjoaa yksinkertaisia yhteisiä toimintoja virkistykseksi. Se ei ole lääketieteellistä neuvontaa, testi tai hoito, eikä se diagnosoi, mittaa tai pisteytä ketään. Terveyteen liittyvissä kysymyksissä kääntykää lääkärin puoleen. Hätätilanteessa soittakaa hätänumeroon 112.",
-    "publisher": "Julkaisija: Cloudjet Solutions Pte. Ltd."
+    "publisher": "Julkaisija: Cloudjet Solutions Pte. Ltd.",
+    "pictures": "Tulostettavat kuvat"
   },
   "home": {
     "title": "Dementia- ja Alzheimer-pelit ja -toiminnat | Golden Moments",

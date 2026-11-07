@@ -22,7 +22,12 @@
     "breadcrumb": "د پاڼې لاره",
     "home": "کور",
     "lastUpdated": "وروستی ځل تازه شوی",
-    "topics": "موضوعګانې"
+    "topics": "موضوعګانې",
+    "textSize": {
+      "label": "د متن اندازه",
+      "smaller": "عادي متن",
+      "larger": "لوی متن"
+    }
   },
   "footer": {
     "play": "لوبه",

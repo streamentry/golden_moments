@@ -355,7 +355,10 @@ void main() {
     final bar = tester.getRect(find.byType(GmBottomBar));
     expect(words.bottom, lessThanOrEqualTo(bar.top + 0.5));
     expect(find.text('All pairs together.').hitTestable(), findsOneWidget);
-    // At the very end, so nothing is left under the bar and no line shows.
+    // Scroll to the labelled help and comfort row, which sits last, so
+    // nothing is left under the bar and no line shows.
+    await tester.ensureVisible(find.byTooltip('Comfort settings'));
+    await tester.pumpAndSettle();
     final line = tester.widget<DecoratedBox>(
       find
           .descendant(

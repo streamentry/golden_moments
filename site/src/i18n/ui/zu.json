@@ -22,7 +22,12 @@
     "breadcrumb": "Umzila wamakhasi",
     "home": "Ikhaya",
     "lastUpdated": "Kubuyekezwe kokugcina",
-    "topics": "Izihloko"
+    "topics": "Izihloko",
+    "textSize": {
+      "label": "Usayizi wombhalo",
+      "smaller": "Umbhalo ojwayelekile",
+      "larger": "Umbhalo omkhulu"
+    }
   },
   "footer": {
     "play": "Dlalani",

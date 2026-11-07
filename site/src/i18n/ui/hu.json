@@ -21,7 +21,12 @@
     "breadcrumb": "Navigációs útvonal",
     "home": "Kezdőlap",
     "lastUpdated": "Utolsó frissítés",
-    "topics": "Témák"
+    "topics": "Témák",
+    "textSize": {
+      "label": "Szövegméret",
+      "smaller": "Normál szöveg",
+      "larger": "Nagyobb szöveg"
+    }
   },
   "footer": {
     "play": "Játék",
@@ -56,7 +61,8 @@
     "healthNotice": "Egészségügyi tájékoztató",
     "allLegal": "Minden jogi tudnivaló",
     "note": "A Golden Moments egyszerű, közös, kikapcsolódásra szánt tevékenységeket kínál. Nem orvosi tanács, nem teszt és nem kezelés, és nem diagnosztizál, mér vagy pontoz senkit. Egészségügyi kérdéssel forduljon orvoshoz. Vészhelyzetben hívja a 112-es segélyhívószámot.",
-    "publisher": "Kiadó: Cloudjet Solutions Pte. Ltd."
+    "publisher": "Kiadó: Cloudjet Solutions Pte. Ltd.",
+    "pictures": "Nyomtatható képek"
   },
   "home": {
     "title": "Demencia és Alzheimer-kór: játékok és tevékenységek | Golden Moments",

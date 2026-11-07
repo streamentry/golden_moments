@@ -6,13 +6,16 @@ interface Props {
   title: string;
   text: string;
   label?: string;
+  /** h3 under a section heading (home page); h2 when the cards follow the page's h1. */
+  headingLevel?: 'h2' | 'h3';
   lang?: string;
 }
-const { href, title, text, lang = 'en' } = Astro.props;
+const { href, title, text, headingLevel = 'h3', lang = 'en' } = Astro.props;
+const H = headingLevel;
 const label = Astro.props.label ?? ui(lang).cards.readGuide;
 ---
 <article class="card">
-  <h3><a class="card__link" href={href}>{title}</a></h3>
+  <H><a class="card__link" href={href}>{title}</a></H>
   <p>{text}</p>
   <span class="card__more" aria-hidden="true">{label} →</span>
 </article>

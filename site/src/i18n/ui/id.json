@@ -21,7 +21,12 @@
     "breadcrumb": "Jejak navigasi",
     "home": "Beranda",
     "lastUpdated": "Terakhir diperbarui",
-    "topics": "Topik"
+    "topics": "Topik",
+    "textSize": {
+      "label": "Ukuran teks",
+      "smaller": "Teks standar",
+      "larger": "Teks lebih besar"
+    }
   },
   "footer": {
     "play": "Main",
@@ -56,7 +61,8 @@
     "healthNotice": "Pemberitahuan informasi kesehatan",
     "allLegal": "Semua informasi hukum",
     "note": "Golden Moments menawarkan kegiatan bersama yang sederhana untuk dinikmati. Ini bukan nasihat medis, tes, atau pengobatan, dan tidak mendiagnosis, mengukur, atau menilai siapa pun. Untuk pertanyaan kesehatan, bicarakan dengan dokter. Dalam keadaan darurat, hubungi 112 (atau 119 untuk kegawatdaruratan medis).",
-    "publisher": "Diterbitkan oleh Cloudjet Solutions Pte. Ltd."
+    "publisher": "Diterbitkan oleh Cloudjet Solutions Pte. Ltd.",
+    "pictures": "Gambar untuk dicetak"
   },
   "home": {
     "title": "Permainan Lansia Demensia & Alzheimer | Golden Moments",

@@ -21,7 +21,12 @@
     "breadcrumb": "Drobtinice",
     "home": "Domov",
     "lastUpdated": "Nazadnje posodobljeno",
-    "topics": "Teme"
+    "topics": "Teme",
+    "textSize": {
+      "label": "Velikost besedila",
+      "smaller": "Standardno besedilo",
+      "larger": "Večje besedilo"
+    }
   },
   "footer": {
     "play": "Igraj",
@@ -56,7 +61,8 @@
     "healthNotice": "Obvestilo o zdravstvenih informacijah",
     "allLegal": "Vse pravne informacije",
     "note": "Golden Moments ponuja preproste skupne dejavnosti za veselje. Ni zdravniški nasvet, test ali zdravljenje in nikogar ne diagnosticira, meri ali ocenjuje. Za zdravstvena vprašanja se pogovorite z zdravnikom. V nujnem primeru pokličite 112.",
-    "publisher": "Izdajatelj: Cloudjet Solutions Pte. Ltd."
+    "publisher": "Izdajatelj: Cloudjet Solutions Pte. Ltd.",
+    "pictures": "Slike za tiskanje"
   },
   "home": {
     "title": "Igre in dejavnosti za demenco in Alzheimerjevo bolezen | Golden Moments",

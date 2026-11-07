@@ -21,7 +21,12 @@
     "breadcrumb": "የገጽ መንገድ",
     "home": "መነሻ",
     "lastUpdated": "መጨረሻ የዘመነው",
-    "topics": "ርዕሶች"
+    "topics": "ርዕሶች",
+    "textSize": {
+      "label": "የጽሑፍ መጠን",
+      "smaller": "መደበኛ ጽሑፍ",
+      "larger": "ትልቅ ጽሑፍ"
+    }
   },
   "footer": {
     "play": "ይጫወቱ",

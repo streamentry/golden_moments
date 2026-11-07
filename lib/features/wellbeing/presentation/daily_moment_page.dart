@@ -138,7 +138,9 @@ class _DailyMomentPageState extends State<DailyMomentPage> {
                               }
                             },
                       child: Text(
-                        lastStep ? l10n.commonDoneForNow : l10n.commonContinue,
+                        lastStep
+                            ? l10n.commonDoneForNow
+                            : l10n.dailyMomentShowNextStep,
                       ),
                     ),
                   ],

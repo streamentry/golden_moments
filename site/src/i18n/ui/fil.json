@@ -22,7 +22,12 @@
     "breadcrumb": "Breadcrumb",
     "home": "Home",
     "lastUpdated": "Huling na-update",
-    "topics": "Mga paksa"
+    "topics": "Mga paksa",
+    "textSize": {
+      "label": "Laki ng teksto",
+      "smaller": "Karaniwang teksto",
+      "larger": "Mas malaking teksto"
+    }
   },
   "footer": {
     "play": "Maglaro",
@@ -57,7 +62,8 @@
     "healthNotice": "Paunawa sa impormasyong pangkalusugan",
     "allLegal": "Lahat ng legal na impormasyon",
     "note": "Nag-aalok ang Golden Moments ng mga simpleng aktibidad na masayang gawin nang magkasama. Hindi ito medikal na payo, pagsusuri o panggagamot, at hindi ito nagda-diagnose, nagsusukat o nagbibigay ng puntos kaninuman. Para sa mga tanong sa kalusugan, kumonsulta sa doktor. Sa emergency, tumawag sa lokal na emergency number.",
-    "publisher": "Inilathala ng Cloudjet Solutions Pte. Ltd."
+    "publisher": "Inilathala ng Cloudjet Solutions Pte. Ltd.",
+    "pictures": "Mga larawang ipi-print"
   },
   "home": {
     "title": "Mga Laro sa Dementia at Alzheimer's | Golden Moments",

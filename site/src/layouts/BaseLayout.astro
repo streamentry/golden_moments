@@ -5,6 +5,7 @@ import '../styles/components.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import LanguageChoice from '../components/LanguageChoice.astro';
+import FocusableTables from '../components/FocusableTables.astro';
 import JsonLd from '../components/JsonLd.astro';
 import Analytics from '../components/Analytics.astro';
 import { SITE, absoluteUrl } from '../lib/site';
@@ -112,9 +113,11 @@ const detectLanguage = lang === DEFAULT_LOCALE && path === '/';
     <Header lang={lang} />
     {
       lang !== DEFAULT_LOCALE && (
-        <p class="mt-notice container">
-          {t.common.machineTranslated} <a href={path} hreflang="en" lang="en">{t.common.readOriginal}</a>
-        </p>
+        <aside aria-label={t.common.languages}>
+          <p class="mt-notice container">
+            {t.common.machineTranslated} <a href={path} hreflang="en" lang="en">{t.common.readOriginal}</a>
+          </p>
+        </aside>
       )
     }
     <main id="main" tabindex="-1">
@@ -122,5 +125,6 @@ const detectLanguage = lang === DEFAULT_LOCALE && path === '/';
     </main>
     <Footer lang={lang} available={available} path={path} />
     <LanguageChoice />
+    <FocusableTables />
   </body>
 </html>

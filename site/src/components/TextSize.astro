@@ -1,0 +1,80 @@
+---
+import { ui } from '../i18n/ui';
+
+interface Props {
+  lang?: string;
+}
+const { lang = 'en' } = Astro.props;
+const t = ui(lang);
+---
+<div class="text-size" role="group" aria-label={t.common.textSize.label} data-text-size>
+  <button type="button" class="text-size__btn" data-size="standard" aria-pressed="true">{t.common.textSize.smaller}</button>
+  <button type="button" class="text-size__btn" data-size="large" aria-pressed="false">{t.common.textSize.larger}</button>
+</div>
+
+<script>
+  // Per-viewer convenience only: the choice lives in this browser. Every read
+  // and write is guarded, so the site works with storage blocked.
+  const KEY = 'gm-text-size';
+  const root = document.documentElement;
+
+  function apply(size: 'standard' | 'large') {
+    if (size === 'large') root.dataset.textSize = 'large';
+    else delete root.dataset.textSize;
+    document.querySelectorAll<HTMLButtonElement>('[data-text-size] [data-size]').forEach((b) => {
+      b.setAttribute('aria-pressed', String(b.dataset.size === size));
+    });
+  }
+
+  function saved(): 'standard' | 'large' {
+    try {
+      return localStorage.getItem(KEY) === 'large' ? 'large' : 'standard';
+    } catch {
+      return 'standard';
+    }
+  }
+
+  function remember(size: string) {
+    try {
+      localStorage.setItem(KEY, size);
+    } catch {
+      /* storage blocked: the choice lasts for this page only */
+    }
+  }
+
+  apply(saved());
+  document.querySelectorAll<HTMLButtonElement>('[data-text-size] [data-size]').forEach((b) => {
+    b.addEventListener('click', () => {
+      const size = b.dataset.size === 'large' ? 'large' : 'standard';
+      remember(size);
+      apply(size);
+    });
+  });
+</script>
+
+<style>
+  .text-size {
+    display: flex;
+    gap: var(--space-xs);
+    flex-wrap: wrap;
+  }
+  .text-size__btn {
+    min-height: 48px;
+    padding: 0 var(--space-sm);
+    border: 2px solid var(--gm-outline);
+    border-radius: var(--radius-full);
+    background: var(--gm-surface-raised);
+    color: var(--gm-on-surface);
+    font: inherit;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  .text-size__btn[aria-pressed='true'] {
+    border-color: var(--gm-on-surface);
+    font-weight: 700;
+  }
+  .text-size__btn:focus-visible {
+    outline: 3px solid var(--gm-primary);
+    outline-offset: 2px;
+  }
+</style>

@@ -21,7 +21,12 @@
     "breadcrumb": "পৃষ্ঠাৰ পথ",
     "home": "মূল পৃষ্ঠা",
     "lastUpdated": "অন্তিম আপডেট",
-    "topics": "বিষয়"
+    "topics": "বিষয়",
+    "textSize": {
+      "label": "আখৰৰ আকাৰ",
+      "smaller": "সাধাৰণ আখৰ",
+      "larger": "ডাঙৰ আখৰ"
+    }
   },
   "footer": {
     "play": "খেলক",

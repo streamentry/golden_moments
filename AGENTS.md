@@ -99,7 +99,7 @@ implements them through `gm…` constants and `gmBuildTheme`.
 4. Run applicable checks below, inspect the actual UI when changed, and review
    the diff against the three review rules. Fix causes rather than hiding errors.
 5. Record the tested commit, commands, results, and remaining gates. Recheck
-   upstream before writing; a concurrent merge requires fresh integration checks.
+   upstream before writing; a concurrent merge requires fresh integration checks. Improve-until-done loops score with docs/improvements/rubric.md (automated evidence; above 8.6 overall, none below 7.0; person- or device-only checks are listed as not verified, never as blockers).
 
 For multi-session work, leave a compact handoff in the existing workboard or PR:
 completed change, evidence, unresolved risk, and next executable action. Do not

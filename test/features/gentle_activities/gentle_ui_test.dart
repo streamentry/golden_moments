@@ -264,7 +264,9 @@ void main() {
       expect(_tiles, findsNWidgets(8));
       expect(find.bySemanticsLabel(RegExp('Hidden picture')), findsWidgets);
 
-      // Reset needs a yes and touches comfort choices only.
+      // Reset needs a yes and touches comfort choices only. The row sits under
+      // the board on a short screen, so bring it into view first.
+      await tester.ensureVisible(find.byTooltip('Comfort settings'));
       await tester.tap(find.byTooltip('Comfort settings'));
       await tester.pumpAndSettle();
       await tester.tap(find.text('Reset comfort settings'));

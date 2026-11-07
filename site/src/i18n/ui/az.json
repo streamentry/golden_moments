@@ -22,7 +22,12 @@
     "breadcrumb": "Naviqasiya yolu",
     "home": "Ana səhifə",
     "lastUpdated": "Son yenilənmə",
-    "topics": "Mövzular"
+    "topics": "Mövzular",
+    "textSize": {
+      "label": "Mətnin ölçüsü",
+      "smaller": "Standart mətn",
+      "larger": "Böyük mətn"
+    }
   },
   "footer": {
     "play": "Oynayın",

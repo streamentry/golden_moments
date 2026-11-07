@@ -21,7 +21,12 @@
     "breadcrumb": "Navigationspfad",
     "home": "Startseite",
     "lastUpdated": "Zuletzt aktualisiert",
-    "topics": "Themen"
+    "topics": "Themen",
+    "textSize": {
+      "label": "Textgröße",
+      "smaller": "Standardtext",
+      "larger": "Größerer Text"
+    }
   },
   "footer": {
     "play": "Spielen",
@@ -56,7 +61,8 @@
     "healthNotice": "Hinweis zu Gesundheitsinformationen",
     "allLegal": "Alle rechtlichen Informationen",
     "note": "Golden Moments bietet einfache gemeinsame Beschäftigung zur Freude. Es ist kein medizinischer Rat, kein Test und keine Behandlung und dient nicht dazu, jemanden zu diagnostizieren, zu messen oder zu bewerten. Bei Fragen zur Gesundheit wenden Sie sich an Ihre Ärztin oder Ihren Arzt. Im Notfall wählen Sie die 112.",
-    "publisher": "Herausgegeben von Cloudjet Solutions Pte. Ltd."
+    "publisher": "Herausgegeben von Cloudjet Solutions Pte. Ltd.",
+    "pictures": "Bilder zum Ausdrucken"
   },
   "home": {
     "title": "Spiele & Beschäftigung bei Demenz | Golden Moments",

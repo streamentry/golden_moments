@@ -22,7 +22,12 @@
     "breadcrumb": "Jejak kaca",
     "home": "Utama",
     "lastUpdated": "Pungkasan dipunénggalaken",
-    "topics": "Topik"
+    "topics": "Topik",
+    "textSize": {
+      "label": "Ukuran teks",
+      "smaller": "Teks standar",
+      "larger": "Teks luwih gedhe"
+    }
   },
   "footer": {
     "play": "Dolanan",

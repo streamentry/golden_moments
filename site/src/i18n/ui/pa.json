@@ -22,7 +22,12 @@
     "breadcrumb": "ਰਸਤਾ",
     "home": "ਮੁੱਖ ਪੰਨਾ",
     "lastUpdated": "ਆਖ਼ਰੀ ਵਾਰ ਅੱਪਡੇਟ ਕੀਤਾ",
-    "topics": "ਵਿਸ਼ੇ"
+    "topics": "ਵਿਸ਼ੇ",
+    "textSize": {
+      "label": "ਲਿਖਤ ਦਾ ਆਕਾਰ",
+      "smaller": "ਆਮ ਲਿਖਤ",
+      "larger": "ਵੱਡੀ ਲਿਖਤ"
+    }
   },
   "footer": {
     "play": "ਖੇਡੋ",
