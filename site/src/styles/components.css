@@ -778,6 +778,13 @@
   font-size: var(--text-md);
   margin: 0;
 }
+/* A link on its own line is a tap target, not a word in a sentence: 48px
+   high, like every other control (DESIGN.md). */
+a.small-print {
+  display: inline-flex;
+  align-items: center;
+  min-height: 48px;
+}
 .narrow {
   max-width: var(--content-max);
 }
