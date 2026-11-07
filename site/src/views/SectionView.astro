@@ -55,7 +55,7 @@ const itemList = {
       )
     }
     <ul class="card-grid">
-      {rest.map((g) => <li><GuideCard href={href(g)} title={g.entry.data.title} text={g.entry.data.description} lang={lang} /></li>)}
+      {rest.map((g) => <li><GuideCard href={href(g)} title={g.entry.data.title} text={g.entry.data.description} headingLevel="h2" lang={lang} /></li>)}
     </ul>
     <PlayCta lang={lang} />
     <AppCta placement="section" lang={lang} />

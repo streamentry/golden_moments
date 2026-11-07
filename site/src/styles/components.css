@@ -325,6 +325,7 @@
   box-shadow: var(--shadow-raised);
   border-color: var(--gm-primary);
 }
+.card h2,
 .card h3 {
   font-size: var(--text-title-lg);
   margin: 0;
