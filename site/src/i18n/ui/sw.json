@@ -25,7 +25,8 @@
     "textSize": {
       "label": "Ukubwa wa maandishi",
       "smaller": "Maandishi ya kawaida",
-      "larger": "Maandishi makubwa zaidi"
+      "larger": "Maandishi makubwa zaidi",
+      "contrast": "Utofautishaji wa juu zaidi"
     }
   },
   "footer": {

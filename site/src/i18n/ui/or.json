@@ -25,7 +25,8 @@
     "textSize": {
       "label": "ଲେଖାର ଆକାର",
       "smaller": "ସାଧାରଣ ଲେଖା",
-      "larger": "ବଡ଼ ଲେଖା"
+      "larger": "ବଡ଼ ଲେଖା",
+      "contrast": "ଅଧିକ କଣ୍ଟ୍ରାଷ୍ଟ"
     }
   },
   "footer": {

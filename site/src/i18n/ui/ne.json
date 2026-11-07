@@ -26,7 +26,8 @@
     "textSize": {
       "label": "पाठको आकार",
       "smaller": "सामान्य पाठ",
-      "larger": "ठूलो पाठ"
+      "larger": "ठूलो पाठ",
+      "contrast": "उच्च कन्ट्रास्ट"
     }
   },
   "footer": {

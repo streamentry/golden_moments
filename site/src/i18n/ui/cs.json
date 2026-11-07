@@ -25,7 +25,8 @@
     "textSize": {
       "label": "Velikost textu",
       "smaller": "Standardní text",
-      "larger": "Větší text"
+      "larger": "Větší text",
+      "contrast": "Vyšší kontrast"
     }
   },
   "footer": {

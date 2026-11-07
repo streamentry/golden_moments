@@ -25,7 +25,8 @@
     "textSize": {
       "label": "文字大小",
       "smaller": "標準文字",
-      "larger": "更大文字"
+      "larger": "更大文字",
+      "contrast": "更高對比度"
     }
   },
   "footer": {

@@ -228,6 +228,12 @@
   --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
 }
 
+/* Higher contrast (the site's control): the gold used for text and links
+   becomes Deep Antique, 8.7:1 on the page instead of 6.3:1. */
+html[data-contrast='high'] {
+  --gm-primary: #5f4300;
+}
+
 @media (min-width: 600px) {
   :root {
     --gutter: 24px;

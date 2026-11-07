@@ -25,7 +25,8 @@
     "textSize": {
       "label": "文字の大きさ",
       "smaller": "標準の文字",
-      "larger": "大きい文字"
+      "larger": "大きい文字",
+      "contrast": "コントラストを強く"
     }
   },
   "footer": {

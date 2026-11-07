@@ -25,7 +25,8 @@
     "textSize": {
       "label": "Matn hajmi",
       "smaller": "Oddiy matn",
-      "larger": "Kattaroq matn"
+      "larger": "Kattaroq matn",
+      "contrast": "Kontrast yuqoriroq"
     }
   },
   "footer": {

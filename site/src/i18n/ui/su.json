@@ -26,7 +26,8 @@
     "textSize": {
       "label": "Ukuran téks",
       "smaller": "Téks standar",
-      "larger": "Téks leuwih ageung"
+      "larger": "Téks leuwih ageung",
+      "contrast": "Kontras nu leuwih luhur"
     }
   },
   "footer": {

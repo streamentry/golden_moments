@@ -25,7 +25,8 @@
     "textSize": {
       "label": "글자 크기",
       "smaller": "기본 글자",
-      "larger": "큰 글자"
+      "larger": "큰 글자",
+      "contrast": "대비 높이기"
     }
   },
   "footer": {

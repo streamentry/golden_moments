@@ -26,7 +26,8 @@
     "textSize": {
       "label": "உரையின் அளவு",
       "smaller": "சாதாரண உரை",
-      "larger": "பெரிய உரை"
+      "larger": "பெரிய உரை",
+      "contrast": "அதிக மாறுபாடு"
     }
   },
   "footer": {

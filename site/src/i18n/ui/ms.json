@@ -26,7 +26,8 @@
     "textSize": {
       "label": "Saiz teks",
       "smaller": "Teks biasa",
-      "larger": "Teks lebih besar"
+      "larger": "Teks lebih besar",
+      "contrast": "Kontras lebih tinggi"
     }
   },
   "footer": {

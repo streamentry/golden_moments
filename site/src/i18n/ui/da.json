@@ -25,7 +25,8 @@
     "textSize": {
       "label": "Tekststørrelse",
       "smaller": "Standardtekst",
-      "larger": "Større tekst"
+      "larger": "Større tekst",
+      "contrast": "Højere kontrast"
     }
   },
   "footer": {

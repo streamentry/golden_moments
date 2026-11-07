@@ -26,7 +26,8 @@
     "textSize": {
       "label": "Laki ng teksto",
       "smaller": "Karaniwang teksto",
-      "larger": "Mas malaking teksto"
+      "larger": "Mas malaking teksto",
+      "contrast": "Mas mataas na kontrast"
     }
   },
   "footer": {
