@@ -536,6 +536,10 @@
   display: block;
   overflow-x: auto;
 }
+.prose table:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 2px;
+}
 .prose th,
 .prose td {
   text-align: start;

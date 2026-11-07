@@ -1,0 +1,10 @@
+---
+---
+<script>
+  // A wide table scrolls sideways inside the column (see `.prose table`), and a
+  // keyboard user can only scroll it if it can take focus. `.prose
+  // table:focus-visible` draws the focus ring.
+  document.querySelectorAll<HTMLTableElement>('.prose table').forEach((table) => {
+    if (!table.hasAttribute('tabindex')) table.tabIndex = 0;
+  });
+</script>
