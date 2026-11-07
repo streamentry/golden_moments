@@ -83,3 +83,9 @@ Acceptance if separately approved:
 - Notifications use neutral text without diagnosis, names, family photos or guilt. No streaks, urgency, missed-day badges or repeated prompts after refusal.
 - Schedule locally; support quiet hours, time-zone changes and one-action disable. No push server, silent health monitoring, or claim to prevent sundowning.
 - Test disabled notifications, daylight-saving changes, duplicate scheduling and uninstall/reinstall. Permission review remains a release gate.
+
+Implemented (approved 2026-10-30; reworked 2026-11-07, `lib/features/reminders/`):
+- Dated one-off reminders, planned afresh every time the app opens (`planReminders`): the chosen weekdays and time for 14 days, then at most one a week, none after 42 days. A family that stops opening the app hears less, then nothing; opening it plans again. No reminder on a day the app was already opened.
+- Each reminder names that day's activity (the same one the Home card suggests), framed for morning, afternoon or evening. A Daily moment day lists the three drawings it will show; family photos and their captions are never used.
+- Words come from the app's language at planning time, so they follow a language change on the next open. Times are local wall-clock times, so daylight saving and time-zone moves keep the hour.
+- Tapping a reminder opens that day's activity from Home (never on top of another screen).

@@ -282,3 +282,12 @@ How to read DAU/WAU/MAU, D1/D7/D28 retention and the limits of each figure:
 | Boards saved by earlier builds with icon ids (flower, cup, home, pet) still resume | Covered by the installed-data upgrade test |
 | Website `/pictures/` gallery (English), linked from the footer | Implemented; production build and `check-site` pass with 0 errors |
 | Rights | Drawn for this project in code; recorded as `shared-drawings` in `docs/specs/asset-provenance.json`, unreviewed by a person |
+
+## Reminders that mean something (2026-11-07)
+
+| Deliverable | Status |
+| --- | --- |
+| Reminders name the day's activity, framed for the time of day; Daily moment days list the three drawings it shows | Implemented; `test/features/reminders/reminder_plan_test.dart` |
+| Planned afresh on every app open: none today, daily for 14 days, then weekly, nothing after 42 days | Implemented; planner and Home tests |
+| Tapping a reminder opens the day's activity | Implemented (iOS delegate + channel); Home tests simulate the tap; not yet tried on a device |
+| Reminder, Today's activity and menu strings in all 66 app languages | Machine translated, unreviewed (as with every other language) |

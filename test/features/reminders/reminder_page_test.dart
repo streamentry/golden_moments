@@ -3,8 +3,10 @@ import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_home_page.dart';
+import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
 import 'package:golden_moments/features/reminders/data/reminder_settings.dart';
 import 'package:golden_moments/features/reminders/presentation/reminder_page.dart';
+import 'package:golden_moments/features/wellbeing/presentation/daily_moment_page.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/native/gm_native.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -19,6 +21,7 @@ class _FakeIos {
   String permission = 'notDetermined';
   String answer = 'granted';
   bool scheduleWorks = true;
+  bool tapped = false;
   final calls = <MethodCall>[];
 
   Future<Object?> handle(MethodCall call) async {
@@ -26,13 +29,29 @@ class _FakeIos {
     return switch (call.method) {
       'reminderPermission' => permission,
       'requestReminderPermission' => permission = answer,
-      'scheduleReminders' => scheduleWorks,
+      'scheduleDatedReminders' => scheduleWorks,
+      'takeReminderTap' => _take(),
       _ => null,
     };
   }
 
+  bool _take() {
+    final was = tapped;
+    tapped = false;
+    return was;
+  }
+
   List<String> get methods => calls.map((c) => c.method).toList();
+
+  /// The reminders in the last scheduling call.
+  List<Map<Object?, Object?>> get lastReminders =>
+      ((calls.last.arguments as Map<Object?, Object?>)['reminders']!
+              as List<Object?>)
+          .cast<Map<Object?, Object?>>();
 }
+
+/// Saturday 7 November 2026, 9 am: reminders are planned from here.
+DateTime _now() => DateTime(2026, 11, 7, 9);
 
 Widget _app(Widget home, {double textScale = 1}) => MaterialApp(
   localizationsDelegates: AppLocalizations.localizationsDelegates,
@@ -64,7 +83,10 @@ void main() {
     await tester.binding.setSurfaceSize(const Size(480, 1600));
     addTearDown(() => tester.binding.setSurfaceSize(null));
     await tester.pumpWidget(
-      _app(const ReminderPage(native: _ios), textScale: textScale),
+      _app(
+        const ReminderPage(native: _ios, clock: _now),
+        textScale: textScale,
+      ),
     );
     await tester.pumpAndSettle();
   }
@@ -80,13 +102,16 @@ void main() {
     expect(ios.methods, [
       'reminderPermission',
       'requestReminderPermission',
-      'scheduleReminders',
+      'scheduleDatedReminders',
     ]);
-    final args = ios.calls.last.arguments as Map<Object?, Object?>;
-    expect(args['weekdays'], [1, 2, 3, 4, 5, 6, 7]);
-    expect(args['hour'], 10);
-    expect(args['title'], englishL10n.reminderNotificationTitle);
-    expect(args['body'], englishL10n.reminderNotificationBody);
+    // Dated reminders from tomorrow, at the chosen time, each with its words.
+    final reminders = ios.lastReminders;
+    expect(reminders.first, containsPair('day', 8));
+    expect(reminders.first, containsPair('month', 11));
+    expect(reminders.every((r) => r['hour'] == 10 && r['minute'] == 0), isTrue);
+    expect(reminders.first['title'], startsWith('This morning: '));
+    expect(reminders.map((r) => r['body']).toSet().length, greaterThan(1));
+    expect(find.text(englishL10n.reminderHowItWorks), findsOneWidget);
     expect(find.textContaining('Reminder is on: Every day'), findsOneWidget);
     expect((await const ReminderSettingsStore().load()).enabled, isTrue);
   });
@@ -98,7 +123,7 @@ void main() {
     await show(tester);
     await tester.tap(find.text('Turn on reminder'));
     await tester.pumpAndSettle();
-    expect(ios.methods, isNot(contains('scheduleReminders')));
+    expect(ios.methods, isNot(contains('scheduleDatedReminders')));
     expect(find.textContaining('Settings app'), findsOneWidget);
     expect((await const ReminderSettingsStore().load()).enabled, isFalse);
   });
@@ -127,8 +152,16 @@ void main() {
     await show(tester);
     await tester.tap(find.bySemanticsLabel('Monday'));
     await tester.pumpAndSettle();
-    final args = ios.calls.last.arguments as Map<Object?, Object?>;
-    expect(args['weekdays'], [3]);
+    // Only Wednesdays now (11 November 2026 is the first).
+    expect(ios.lastReminders.first, containsPair('day', 11));
+    for (final r in ios.lastReminders) {
+      final at = DateTime(
+        r['year']! as int,
+        r['month']! as int,
+        r['day']! as int,
+      );
+      expect(at.weekday, DateTime.wednesday);
+    }
     ios.calls.clear();
     await tester.tap(find.bySemanticsLabel('Wednesday'));
     await tester.pumpAndSettle();
@@ -207,5 +240,87 @@ void main() {
     await tester.tap(find.text('Menu'));
     await tester.pumpAndSettle();
     expect(find.widgetWithText(ListTile, 'Gentle reminder'), findsNothing);
+  });
+
+  group('when the app opens', () {
+    Future<void> home(WidgetTester tester) async {
+      tester.view.physicalSize = const Size(1170, 2532);
+      tester.view.devicePixelRatio = 3;
+      addTearDown(tester.view.reset);
+      await tester.pumpWidget(_app(const GentleHomePage(native: _ios)));
+      await tester.pumpAndSettle();
+    }
+
+    testWidgets('plans reminders afresh, none for today', (tester) async {
+      ios.permission = 'granted';
+      await const ReminderSettingsStore().save(
+        const ReminderSettings(enabled: true),
+      );
+      await home(tester);
+      expect(ios.methods, contains('scheduleDatedReminders'));
+      final now = DateTime.now();
+      final today = DateTime(now.year, now.month, now.day);
+      for (final r in ios.lastReminders) {
+        final day = DateTime(
+          r['year']! as int,
+          r['month']! as int,
+          r['day']! as int,
+        );
+        expect(day.isAfter(today), isTrue, reason: '$day');
+      }
+    });
+
+    testWidgets('never asks for permission or schedules while off', (
+      tester,
+    ) async {
+      await home(tester);
+      expect(ios.methods, isNot(contains('requestReminderPermission')));
+      expect(ios.methods, isNot(contains('scheduleDatedReminders')));
+    });
+
+    testWidgets("a reminder that opened the app opens today's activity", (
+      tester,
+    ) async {
+      ios.tapped = true;
+      await home(tester);
+      expect(
+        find.byWidgetPredicate(
+          (w) => w is DailyMomentPage || w is PhotoTogetherPage,
+        ),
+        findsOneWidget,
+      );
+      // Back to Home, and the tap is not replayed.
+      await tester.pageBack();
+      await tester.pumpAndSettle();
+      expect(find.byType(GentleHomePage), findsOneWidget);
+      expect(find.byType(DailyMomentPage), findsNothing);
+    });
+
+    testWidgets('a reminder tapped while the app runs opens it once, and '
+        'never on top of something else', (tester) async {
+      await home(tester);
+      Future<void> tapEvent() async {
+        await TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger
+            .handlePlatformMessage(
+              _channel.name,
+              _channel.codec.encodeMethodCall(
+                const MethodCall('reminderTapped'),
+              ),
+              (_) {},
+            );
+        await tester.pumpAndSettle();
+      }
+
+      ios.tapped = true;
+      await tapEvent();
+      final activity = find.byWidgetPredicate(
+        (w) => w is DailyMomentPage || w is PhotoTogetherPage,
+      );
+      expect(activity, findsOneWidget);
+      // Already in an activity: a second tap opens nothing more.
+      ios.tapped = true;
+      await tapEvent();
+      expect(activity, findsOneWidget);
+    });
   });
 }
