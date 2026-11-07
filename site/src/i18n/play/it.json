@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Leggi ad alta voce",
+      "stopReading": "Interrompi la lettura",
       "region": "Gioco",
       "restart": "Ricomincia",
       "soundOn": "Suoni delicati attivi",

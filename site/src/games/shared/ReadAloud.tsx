@@ -1,0 +1,52 @@
+import { useEffect, useState } from 'react';
+import { readAloud, speechOf, stopReading, type SpeechLike } from '../../lib/games/readAloud';
+import type { PlayUi } from '../../i18n/play';
+
+interface ReadAloudProps {
+  ui: PlayUi;
+  lang: string;
+  text: string;
+}
+
+/**
+ * A button that reads the game's guidance aloud. Off until pressed, and not
+ * shown at all where the browser has no speech. The label changes to "Stop
+ * reading" while it speaks, so the state is shown in words.
+ */
+export function ReadAloud({ ui, lang, text }: ReadAloudProps) {
+  const [synth, setSynth] = useState<SpeechLike | null>(null);
+  const [speaking, setSpeaking] = useState(false);
+
+  useEffect(() => {
+    setSynth(speechOf());
+    return () => {
+      const s = speechOf();
+      if (s) stopReading(s);
+    };
+  }, []);
+
+  useEffect(() => {
+    if (!synth || !speaking) return;
+    const timer = window.setInterval(() => {
+      if (!synth.speaking) setSpeaking(false);
+    }, 400);
+    return () => window.clearInterval(timer);
+  }, [synth, speaking]);
+
+  if (!synth) return null;
+
+  const toggle = () => {
+    if (speaking) {
+      stopReading(synth);
+      setSpeaking(false);
+      return;
+    }
+    setSpeaking(readAloud(synth, text, lang));
+  };
+
+  return (
+    <button type="button" className="btn btn--quiet read-aloud" aria-pressed={speaking} onClick={toggle}>
+      {speaking ? ui.frame.stopReading : ui.frame.readAloud}
+    </button>
+  );
+}

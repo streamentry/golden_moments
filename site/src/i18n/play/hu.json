@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Felolvasás",
+      "stopReading": "Felolvasás leállítása",
       "region": "Játék",
       "restart": "Kezdés elölről",
       "soundOn": "Halk hangok bekapcsolva",

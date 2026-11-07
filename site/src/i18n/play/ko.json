@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "소리 내어 읽기",
+      "stopReading": "읽기 중지",
       "region": "게임",
       "restart": "처음부터 다시",
       "soundOn": "부드러운 소리 켜짐",

@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Přečíst nahlas",
+      "stopReading": "Zastavit čtení",
       "region": "Hra",
       "restart": "Začít znovu",
       "soundOn": "Tiché zvuky zapnuty",

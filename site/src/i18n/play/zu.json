@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Funda ngokuphakama",
+      "stopReading": "Misa ukufunda",
       "region": "Umdlalo",
       "restart": "Qala kabusha",
       "soundOn": "Imisindo ethambile ivuliwe",

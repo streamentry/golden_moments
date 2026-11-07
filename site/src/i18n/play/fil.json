@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Basahin nang malakas",
+      "stopReading": "Itigil ang pagbasa",
       "region": "Laro",
       "restart": "Magsimulang muli",
       "soundOn": "Naka-on ang mahihinang tunog",
