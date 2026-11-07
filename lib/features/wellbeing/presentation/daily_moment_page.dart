@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/picture_view.dart';
+import 'package:golden_moments/features/wellbeing/data/daily_moment_pictures.dart';
 import 'package:golden_moments/features/wellbeing/data/moment_history.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 
@@ -37,11 +38,9 @@ class _DailyMomentPageState extends State<DailyMomentPage> {
   bool _saved = false;
   bool _saveFailed = false;
 
-  /// Picks the picture and prompt for the current step. The day of the
-  /// year moves the starting point, so the same moment does not come up
-  /// every day.
-  int _offset(DateTime now) =>
-      now.difference(DateTime(now.year)).inDays + _step;
+  /// Picks the picture and prompt for the current step (shared with the
+  /// reminders, which name the day's pictures).
+  int _offset(DateTime now) => dailyMomentOffset(now, _step);
 
   Future<void> _finish() async {
     setState(() => _saving = true);

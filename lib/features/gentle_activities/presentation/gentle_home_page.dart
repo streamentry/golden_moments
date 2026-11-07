@@ -17,6 +17,7 @@ import 'package:golden_moments/features/gentle_activities/presentation/picture_v
 import 'package:golden_moments/features/habits/presentation/habits_page.dart';
 import 'package:golden_moments/features/language/presentation/language_page.dart';
 import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
+import 'package:golden_moments/features/reminders/data/reminder_scheduler.dart';
 import 'package:golden_moments/features/reminders/presentation/reminder_page.dart';
 import 'package:golden_moments/features/today/presentation/today_page.dart';
 import 'package:golden_moments/features/todays_activity/data/todays_activity.dart';
@@ -48,7 +49,58 @@ class GentleHomePage extends StatefulWidget {
   State<GentleHomePage> createState() => _GentleHomePageState();
 }
 
-class _GentleHomePageState extends State<GentleHomePage> {
+class _GentleHomePageState extends State<GentleHomePage>
+    with WidgetsBindingObserver {
+  /// True while a tapped reminder is opening the day's activity, so a tap
+  /// reported twice (event and launch flag) opens it once.
+  bool _openingFromReminder = false;
+
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addObserver(this);
+    widget.native.listenForReminderTaps(() => unawaited(_openFromReminder()));
+    WidgetsBinding.instance.addPostFrameCallback(
+      (_) => unawaited(_onAppOpened()),
+    );
+  }
+
+  @override
+  void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
+    super.dispose();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.resumed) unawaited(_onAppOpened());
+  }
+
+  /// Each time the app is opened: plan the reminders afresh (none today,
+  /// in the current language), and open the day's activity if a reminder
+  /// was tapped to get here.
+  Future<void> _onAppOpened() async {
+    if (!mounted) return;
+    unawaited(ReminderScheduler(native: widget.native).refresh(context.l10n));
+    if (await widget.native.takeReminderTap()) await _openFromReminder();
+  }
+
+  /// A tapped reminder named today's activity; open it, but only from Home,
+  /// never on top of something the person is already doing.
+  Future<void> _openFromReminder() async {
+    if (_openingFromReminder || !mounted) return;
+    _openingFromReminder = true;
+    try {
+      unawaited(widget.native.takeReminderTap());
+      final onHome = ModalRoute.of(context)?.isCurrent ?? false;
+      if (!onHome || !todaysActivityEnabled) return;
+      final activity = await const TodaysActivityStore().load(DateTime.now());
+      if (mounted) _openTodaysActivity(activity);
+    } finally {
+      _openingFromReminder = false;
+    }
+  }
+
   void _open(Widget page) {
     unawaited(
       Navigator.of(context)
@@ -256,38 +308,52 @@ class _GentleHomePageState extends State<GentleHomePage> {
         ),
       ),
     ];
-    return Scaffold(
-      appBar: AppBar(
-        toolbarHeight: gmToolbarHeight(context),
-        title: GmTitle(l10n.appTitle),
-        actions: [
-          // A labelled button, not an icon: the menu holds everything else.
-          TextButton.icon(
-            onPressed: _openMenu,
-            icon: const Icon(Icons.menu),
-            label: Text(l10n.menuTitle),
-          ),
-        ],
-      ),
-      body: SafeArea(
-        child: Center(
-          child: ConstrainedBox(
-            constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
-            // On tall screens (iPad) the content sits in the middle rather
-            // than clinging to the top; on small ones it simply scrolls.
-            child: LayoutBuilder(
-              builder: (context, viewport) => SingleChildScrollView(
-                padding: const EdgeInsets.all(gmSpaceLg),
-                child: ConstrainedBox(
-                  // Never negative: a keyboard over the page (Home stays laid
-                  // out under the photo pages) can leave less than the padding.
-                  constraints: BoxConstraints(
-                    minHeight: max(0, viewport.maxHeight - gmSpaceLg * 2),
-                  ),
-                  child: Column(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    crossAxisAlignment: CrossAxisAlignment.stretch,
-                    children: children,
+    return LayoutBuilder(
+      builder: (context, page) => Scaffold(
+        appBar: AppBar(
+          toolbarHeight: gmToolbarHeight(context),
+          title: GmTitle(l10n.appTitle),
+          actions: [
+            // A labelled button, not an icon: the menu holds everything else.
+            // Capped in width so a long word at large text (Arabic at 200%)
+            // wraps inside the taller app bar instead of overflowing it.
+            ConstrainedBox(
+              constraints: BoxConstraints(maxWidth: page.maxWidth * 0.45),
+              child: TextButton(
+                onPressed: _openMenu,
+                child: Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    const Icon(Icons.menu),
+                    const SizedBox(width: gmSpaceSm),
+                    Flexible(child: Text(l10n.menuTitle, softWrap: true)),
+                  ],
+                ),
+              ),
+            ),
+          ],
+        ),
+        body: SafeArea(
+          child: Center(
+            child: ConstrainedBox(
+              constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
+              // On tall screens (iPad) the content sits in the middle rather
+              // than clinging to the top; on small ones it simply scrolls.
+              child: LayoutBuilder(
+                builder: (context, viewport) => SingleChildScrollView(
+                  padding: const EdgeInsets.all(gmSpaceLg),
+                  child: ConstrainedBox(
+                    // Never negative: a keyboard over the page (Home stays
+                    // laid out under the photo pages) can leave less than
+                    // the padding.
+                    constraints: BoxConstraints(
+                      minHeight: max(0, viewport.maxHeight - gmSpaceLg * 2),
+                    ),
+                    child: Column(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      crossAxisAlignment: CrossAxisAlignment.stretch,
+                      children: children,
+                    ),
                   ),
                 ),
               ),
