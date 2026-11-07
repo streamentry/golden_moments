@@ -1,5 +1,6 @@
 {
   "@@locale": "hu",
+  "commonPause": "Szünet",
   "menuTitle": "Menü",
   "menuSectionActivities": "További tevékenységek",
   "menuSectionEachDay": "Minden nap",

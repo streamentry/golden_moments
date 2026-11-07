@@ -1,5 +1,6 @@
 {
   "@@locale": "ko",
+  "commonPause": "일시정지",
   "menuTitle": "메뉴",
   "menuSectionActivities": "다른 활동",
   "menuSectionEachDay": "매일",

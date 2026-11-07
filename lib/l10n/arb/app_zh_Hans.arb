@@ -1,5 +1,6 @@
 {
   "@@locale": "zh_Hans",
+  "commonPause": "暂停",
   "menuTitle": "菜单",
   "menuSectionActivities": "更多活动",
   "menuSectionEachDay": "每一天",

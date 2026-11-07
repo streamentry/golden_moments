@@ -1,5 +1,6 @@
 {
   "@@locale": "ja",
+  "commonPause": "一時停止",
   "menuTitle": "メニュー",
   "menuSectionActivities": "ほかのアクティビティ",
   "menuSectionEachDay": "毎日",

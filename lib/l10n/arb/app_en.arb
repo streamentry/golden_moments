@@ -40,6 +40,10 @@
   "@commonClose": {
     "description": "Button that closes a sheet or dialog. Very short."
   },
+  "commonPause": "Pause",
+  "@commonPause": {
+    "description": "Button that pauses a download. One word; the person can resume later."
+  },
   "commonCancel": "Cancel",
   "@commonCancel": {
     "description": "Button that backs out of a dialog without changing anything. Very short."

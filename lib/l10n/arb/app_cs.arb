@@ -1,5 +1,6 @@
 {
   "@@locale": "cs",
+  "commonPause": "Pozastavit",
   "menuTitle": "Nabídka",
   "menuSectionActivities": "Další aktivity",
   "menuSectionEachDay": "Každý den",

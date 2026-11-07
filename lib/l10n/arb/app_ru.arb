@@ -1,5 +1,6 @@
 {
   "@@locale": "ru",
+  "commonPause": "Пауза",
   "menuTitle": "Меню",
   "menuSectionActivities": "Другие занятия",
   "menuSectionEachDay": "Каждый день",

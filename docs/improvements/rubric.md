@@ -19,21 +19,21 @@ physical device is listed under "Not verified" and is not scored, not a blocker.
 
 Overall = sum of weight x score.
 
-## Score at commit `89b2280` (2026-11-07)
+## Score after the labelled-actions pass (2026-11-07; earlier 9.59 at `89b2280`)
 
 | # | Dimension | Measured | Score |
 | --- | --- | --- | --- |
 | 1 | Plain language | app 441 of 441 strings conform after the six fixes; site play copy 0 long sentences | 10.0 |
 | 2 | Type and contrast | floor and 200% tests pass 10; body 15.1:1 gives 10; secondary 8.1:1 gives 10; primary 6.33:1 gives 9.0 | 9.75 |
-| 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions fixed 2 of 5, so 4.0 | 8.0 |
+| 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions 8 of 8 now carry a word (gentle board help and comfort; library Settings; game Hint and Options; download Pause, Try again and Cancel) = 10 | 10.0 |
 | 4 | Structure and semantics | axe 0 violations (118 runs); heading skips 0 of 3,921; landmarks fixed; app semantics tests pass; minus 0.5 for sampling | 9.5 |
 | 5 | Reflow and large text | site 1,512 of 1,512 runs clean = 10; app 200% tests pass = 10 | 10.0 |
 | 6 | Localization completeness | app keys 100%; site ui keys 98.4% (footer link missing in 20 of 64); games keys 100%; guides 100%; picture names 68.8% (44 of 64) | 9.34 |
 | 7 | Product integrity | gentle-mode and claims guard tests all pass | 10.0 |
 | 8 | Verification health | Flutter 668 pass; analysis clean; site 675 pass; build and check-site 0 errors | 10.0 |
 
-Weighted overall: 1.000 + 1.4625 + 0.800 + 1.425 + 1.500 + 1.401 + 1.000 + 1.000 = **9.59**.
-Lowest dimension: targets and navigation at 8.0 (floor is 7.0). **The bar (above 8.6, none below 7.0) is met.**
+Weighted overall: 1.000 + 1.4625 + 1.000 + 1.425 + 1.500 + 1.401 + 1.000 + 1.000 = **9.79**.
+Lowest dimension: localization at 9.34 (floor is 7.0). **The bar (above 8.6, none below 7.0) is met.**
 
 ## Not verified (not scored, not blockers)
 
@@ -44,6 +44,8 @@ Lowest dimension: targets and navigation at 8.0 (floor is 7.0). **The bar (above
 
 ## Next improvements, by lowest score (for the next loop)
 
-1. Targets and navigation (8.0): label the remaining icon-only actions (`home_page.dart` settings; `game_page.dart` hint and options). **Tried 2026-11-07 and reverted:** a labelled "Settings" button in the library home app bar fails three existing tests at 200% text on a 320x568 phone (`library_home_text_scale_test`, `pack_favorites_ui_test` x2). It needs a redesign that moves the actions into the body, as was done on the gentle board.
-2. Localization (9.34): picture names and the footer link for the 20 languages left in English.
-3. Type and contrast (9.75): primary gold text at 6.33:1 (brand decision).
+1. Localization (9.34): picture names and the footer link for the 20 languages left in English (needs a translator; machine output there is unreliable).
+2. Structure and semantics (9.5): run axe on every built page, not a sample (removes the 0.5 sampling deduction).
+3. Type and contrast (9.75): primary gold text at 6.33:1 (brand decision, kept).
+
+History: the library Settings action first failed three 200% tests when put in the app bar; it passes as a body-level button at the end of the page. Hint and Options now sit under the board and scroll with it; the download controls moved into their own wrapping row. The new `commonPause` word is machine-translated in 64 languages (unreviewed). Loading and error states of the library home no longer show Settings.

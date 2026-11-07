@@ -7,7 +7,7 @@ Goal (2026-11-07): search the dementia and Alzheimer's sites, learn from them, a
 
 ## Status
 
-**Rubric result (2026-11-07):** weighted overall **9.59 of 10**, lowest dimension 8.0, against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. The bar is met on automated evidence; items needing a person or device are listed there as not verified and are not blockers.
+**Rubric result (2026-11-07):** weighted overall **9.79 of 10**, lowest dimension 9.34 (localization), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. The bar is met on automated evidence; items needing a person or device are listed there as not verified and are not blockers.
 
 | Item | Status |
 | --- | --- |

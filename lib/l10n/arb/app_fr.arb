@@ -1,5 +1,6 @@
 {
   "@@locale": "fr",
+  "commonPause": "Pause",
   "menuTitle": "Menu",
   "menuSectionActivities": "Plus d’activités",
   "menuSectionEachDay": "Chaque jour",

@@ -1,5 +1,6 @@
 {
   "@@locale": "fi",
+  "commonPause": "Tauko",
   "menuTitle": "Valikko",
   "menuSectionActivities": "Lisää tekemistä",
   "menuSectionEachDay": "Joka päivä",

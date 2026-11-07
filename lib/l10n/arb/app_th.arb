@@ -1,5 +1,6 @@
 {
   "@@locale": "th",
+  "commonPause": "หยุดชั่วคราว",
   "menuTitle": "เมนู",
   "menuSectionActivities": "กิจกรรมเพิ่มเติม",
   "menuSectionEachDay": "ทุกวัน",

@@ -1,5 +1,6 @@
 {
   "@@locale": "ar",
+  "commonPause": "إيقاف مؤقت",
   "menuTitle": "قائمة",
   "menuSectionActivities": "أنشطة أخرى",
   "menuSectionEachDay": "كل يوم",
