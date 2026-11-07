@@ -18,6 +18,8 @@ import 'package:golden_moments/features/language/presentation/language_page.dart
 import 'package:golden_moments/features/legal/presentation/legal_info_page.dart';
 import 'package:golden_moments/features/reminders/presentation/reminder_page.dart';
 import 'package:golden_moments/features/today/presentation/today_page.dart';
+import 'package:golden_moments/features/todays_activity/data/todays_activity.dart';
+import 'package:golden_moments/features/todays_activity/presentation/todays_activity_card.dart';
 import 'package:golden_moments/features/wellbeing/presentation/activity_planner_page.dart';
 import 'package:golden_moments/features/wellbeing/presentation/daily_moment_page.dart';
 import 'package:golden_moments/features/wellbeing/presentation/progress_page.dart';
@@ -55,6 +57,15 @@ class _GentleHomePageState extends State<GentleHomePage> {
           .then((_) => mounted ? askForReviewOnReturnHome() : null),
     );
   }
+
+  void _openTodaysActivity(TodaysActivity activity) => _open(switch (activity) {
+    TodaysActivity.dailyMoment => const DailyMomentPage(
+      pictures: ActivityPicture.samples,
+    ),
+    TodaysActivity.lookTogether => const PhotoTogetherPage(
+      pictures: ActivityPicture.samples,
+    ),
+  });
 
   /// The menu closes with the person's choice; Home then opens that page, so
   /// Back from it lands on Home rather than on the menu.
@@ -208,6 +219,10 @@ class _GentleHomePageState extends State<GentleHomePage> {
       const SizedBox(height: gmSpaceSm),
       Text(l10n.homeStartGentleGameHint, style: theme.textTheme.bodyLarge),
       if (largeText) ...[const SizedBox(height: gmSpaceLg), heading],
+      if (todaysActivityEnabled) ...[
+        const SizedBox(height: gmSpaceXl),
+        TodaysActivityCard(onBegin: _openTodaysActivity),
+      ],
       const SizedBox(height: gmSpaceXl),
       OutlinedButton.icon(
         style: OutlinedButton.styleFrom(minimumSize: heroSize),

@@ -11,6 +11,16 @@ GROUPS = REGISTER['groups']
 STATUSES = {'unreviewed', 'reviewed', 'license_text_bundled', 'not_shipped'}
 
 
+# Files the operating system adds to folders. Git ignores them and they are
+# not shipped, so the register does not list them.
+OS_METADATA = {'.DS_Store', 'Thumbs.db', 'desktop.ini'}
+
+
+def real_files(folder: Path):
+    return [p for p in folder.rglob('*')
+            if p.is_file() and p.name not in OS_METADATA]
+
+
 def shipped_paths() -> set[str]:
     pubspec = (ROOT / 'pubspec.yaml').read_text(encoding='utf-8')
     paths = set(re.findall(r'^\s+- (assets/\S+)\s*$', pubspec, re.M))
@@ -36,7 +46,7 @@ class AssetProvenanceTests(unittest.TestCase):
         for path in sorted(paths):
             target = ROOT / path
             members = ([p.relative_to(ROOT).as_posix()
-                        for p in target.rglob('*') if p.is_file()]
+                        for p in real_files(target)]
                        if target.is_dir() else [path])
             self.assertTrue(members, f'{path} declares no files')
             uncovered += [m for m in members if not covered(m)]
@@ -44,13 +54,13 @@ class AssetProvenanceTests(unittest.TestCase):
 
     def test_every_file_on_disk_is_covered(self):
         files = [p.relative_to(ROOT).as_posix()
-                 for p in (ROOT / 'assets').rglob('*') if p.is_file()]
+                 for p in real_files(ROOT / 'assets')]
         # Native launcher and splash art checked into the platform projects.
         for base in ('ios/Runner/Assets.xcassets', 'android/app/src'):
             files += [
                 p.relative_to(ROOT).as_posix()
-                for p in (ROOT / base).rglob('*')
-                if p.is_file() and p.suffix in ('.png', '.jpg', '.webp')
+                for p in real_files(ROOT / base)
+                if p.suffix in ('.png', '.jpg', '.webp')
             ]
         self.assertEqual([p for p in files if not covered(p)], [])
 

@@ -257,3 +257,17 @@ a fresh page and explicit resave confirm No. Managed publishing is on.
 The [Android release record](docs/release/android-1.4.0-api36-build8.md)
 records the validation contradiction, delivery size and device-support warnings;
 neither upload acceptance nor a saved rollout is a review submission or release.
+
+## Today's activity and measurement without app analytics (2026-11-07)
+
+Maintainer decision (2026-11-07): the app stays free of analytics SDKs. A request
+to re-add Firebase Analytics was declined in favour of App Store Connect
+Analytics and consented pilot diaries; the 2026-10-18 Firebase removal stands.
+How to read DAU/WAU/MAU, D1/D7/D28 retention and the limits of each figure:
+[measurement](docs/plan/measurement.md).
+
+| Deliverable | Status |
+| --- | --- |
+| Today's activity card on Home (`lib/features/todays_activity/`): one existing activity per calendar day (Daily moment or Look together), "Something else" remembered for the day only, no counts or streaks, outlined Begin so Home keeps one filled button; off with `--dart-define=GM_TODAYS_ACTIVITY=false` | Implemented; unit and widget tests (rotation, persistence, damaged value, 200% text, Home navigation); simulator check pending at time of writing; new strings English only (other languages fall back to English) |
+| Optional reminders (GM-038) | Already implemented 2026-10-30; reviewed, unchanged: opt-in, weekday + time, previous requests cancelled before rescheduling, calendar triggers follow the device time zone |
+| Measurement guide and first experiment (baseline 4 weeks on 1.8.0, primary D7) | Documented; no data observed yet |
