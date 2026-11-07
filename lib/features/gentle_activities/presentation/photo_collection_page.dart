@@ -545,6 +545,18 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                   ..._problem(theme),
                   const SizedBox(height: gmSpaceLg),
                 ],
+                // A calm outline icon marks the empty state (DESIGN.md), so the
+                // first view is not just text and a button.
+                if (_ids.isEmpty) ...[
+                  ExcludeSemantics(
+                    child: Icon(
+                      Icons.photo_album_outlined,
+                      size: 56,
+                      color: scheme.onSurfaceVariant,
+                    ),
+                  ),
+                  const SizedBox(height: gmSpaceMd),
+                ],
                 Text(l10n.photosIntro, style: theme.textTheme.headlineSmall),
                 const SizedBox(height: gmSpaceMd),
                 Text(
