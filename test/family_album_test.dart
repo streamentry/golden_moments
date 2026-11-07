@@ -145,7 +145,20 @@ void main() {
     final tiles = find.byType(PictureView);
     expect(tiles, findsWidgets);
     for (var i = 0; i < tiles.evaluate().length; i++) {
-      _expectMountedCrop(tester, tiles.at(i));
+      // No mat on the board: the photo fills the tile to its border and is
+      // clipped by the tile's own rounded shape (DESIGN.md › Mounted print).
+      final tile = tiles.at(i);
+      expect(tester.widget<PictureView>(tile).fit, BoxFit.cover);
+      final material = tester.widget<Material>(
+        find.ancestor(of: tile, matching: find.byType(Material)).first,
+      );
+      expect(material.clipBehavior, Clip.antiAlias);
+      expect(
+        (material.shape! as RoundedRectangleBorder).borderRadius,
+        BorderRadius.circular(gmRadiusLg),
+      );
+      // Same size as the tile: nothing sits between border and photo.
+      expect(tester.getSize(tile), tester.getSize(find.byWidget(material)));
     }
   });
 
