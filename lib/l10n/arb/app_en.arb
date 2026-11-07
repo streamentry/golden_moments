@@ -1967,5 +1967,69 @@
   "todaysActivityLookTogetherHint": "One picture at a time, to talk about together. There is nothing to get right.",
   "@todaysActivityLookTogetherHint": {
     "description": "One-line description under 'Look together' on the Today's activity card. Calm, no test or score."
+  },
+  "reminderTitleMorning": "This morning: {activity}",
+  "@reminderTitleMorning": {
+    "description": "Reminder notification title before noon. {activity} is today's activity name (Daily moment or Look together). Calm; no question pressure.",
+    "placeholders": {
+      "activity": {
+        "type": "String"
+      }
+    }
+  },
+  "reminderTitleAfternoon": "This afternoon: {activity}",
+  "@reminderTitleAfternoon": {
+    "description": "Reminder notification title from noon to 5 pm. {activity} is today's activity name.",
+    "placeholders": {
+      "activity": {
+        "type": "String"
+      }
+    }
+  },
+  "reminderTitleEvening": "This evening: {activity}",
+  "@reminderTitleEvening": {
+    "description": "Reminder notification title after 5 pm. {activity} is today's activity name.",
+    "placeholders": {
+      "activity": {
+        "type": "String"
+      }
+    }
+  },
+  "reminderBodyDailyMoment": "Three pictures are ready: {pictures}. A few minutes together, and you can stop at any time.",
+  "@reminderBodyDailyMoment": {
+    "description": "Reminder text on a Daily moment day. {pictures} is the list of that day's three picture names, joined with reminderDayListSeparator. No promise of benefit, no count of days.",
+    "placeholders": {
+      "pictures": {
+        "type": "String"
+      }
+    }
+  },
+  "reminderBodyMorning1": "Start the day with a few pictures, one at a time. There is nothing to get right.",
+  "@reminderBodyMorning1": {
+    "description": "Reminder text on a Look together morning. Calm, no test or score."
+  },
+  "reminderBodyMorning2": "A cup of tea and some pictures to talk about, whenever it suits you.",
+  "@reminderBodyMorning2": {
+    "description": "Reminder text on a Look together morning. Warm, no pressure."
+  },
+  "reminderBodyAfternoon1": "A few quiet minutes with some pictures make a nice pause in the afternoon.",
+  "@reminderBodyAfternoon1": {
+    "description": "Reminder text on a Look together afternoon. No health claim."
+  },
+  "reminderBodyAfternoon2": "Pick a picture you both like and see where the talk goes.",
+  "@reminderBodyAfternoon2": {
+    "description": "Reminder text on a Look together afternoon. For a caregiver and the person together."
+  },
+  "reminderBodyEvening1": "A calm look at a few pictures before the evening settles in.",
+  "@reminderBodyEvening1": {
+    "description": "Reminder text on a Look together evening. Calm."
+  },
+  "reminderBodyEvening2": "Some pictures to share, at your own pace. Stop whenever you like.",
+  "@reminderBodyEvening2": {
+    "description": "Reminder text on a Look together evening. Easy to stop."
+  },
+  "reminderHowItWorks": "Each reminder names that day's activity. There is none on a day the app has already been opened. If the app is not opened for two weeks, reminders slow to once a week and stop after six weeks. Opening the app starts them again.",
+  "@reminderHowItWorks": {
+    "description": "Explains on the reminder screen how reminders adapt, so they never feel like spam. Plain, no guilt."
   }
 }

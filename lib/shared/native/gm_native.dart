@@ -58,29 +58,51 @@ class GmNative {
     }
   }
 
-  /// Replaces every scheduled reminder with one per weekday at [hour] and
-  /// [minute]. Weekdays use [DateTime.monday]..[DateTime.sunday]. Returns
-  /// false when nothing could be scheduled.
-  Future<bool> scheduleReminders({
-    required Set<int> weekdays,
-    required int hour,
-    required int minute,
-    required String title,
-    required String body,
-  }) async {
+  /// Replaces every scheduled reminder with one-off reminders at these local
+  /// wall-clock times, each with its own words. Returns false when they
+  /// could not all be scheduled.
+  Future<bool> scheduleDatedReminders(
+    List<({DateTime at, String title, String body})> reminders,
+  ) async {
     if (!isSupported) return false;
     try {
-      return await channel.invokeMethod<bool>('scheduleReminders', {
-            'weekdays': weekdays.toList()..sort(),
-            'hour': hour,
-            'minute': minute,
-            'title': title,
-            'body': body,
+      return await channel.invokeMethod<bool>('scheduleDatedReminders', {
+            'reminders': [
+              for (final r in reminders)
+                {
+                  'year': r.at.year,
+                  'month': r.at.month,
+                  'day': r.at.day,
+                  'hour': r.at.hour,
+                  'minute': r.at.minute,
+                  'title': r.title,
+                  'body': r.body,
+                },
+            ],
           }) ??
           false;
     } on Object {
       return false;
     }
+  }
+
+  /// True once after a reminder was tapped (also when the tap started the
+  /// app), so the app can open that day's activity.
+  Future<bool> takeReminderTap() async {
+    if (!isSupported) return false;
+    try {
+      return await channel.invokeMethod<bool>('takeReminderTap') ?? false;
+    } on Object {
+      return false;
+    }
+  }
+
+  /// Calls [onTap] when a reminder is tapped while the app is running.
+  void listenForReminderTaps(VoidCallback onTap) {
+    if (!isSupported) return;
+    channel.setMethodCallHandler((call) async {
+      if (call.method == 'reminderTapped') onTap();
+    });
   }
 
   Future<void> cancelReminders() async {

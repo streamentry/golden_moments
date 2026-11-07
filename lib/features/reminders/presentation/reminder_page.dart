@@ -2,6 +2,8 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/reminders/data/reminder_plan.dart';
+import 'package:golden_moments/features/reminders/data/reminder_scheduler.dart';
 import 'package:golden_moments/features/reminders/data/reminder_settings.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/native/gm_native.dart';
@@ -11,17 +13,23 @@ import 'package:golden_moments/shared/native/gm_native.dart';
 /// reminder" is tapped. Reminders are scheduled on this device and never
 /// count days, streaks or missed sessions.
 ///
-/// The notification text is taken from the app's language when the reminder
-/// is scheduled, so it stays in that language until it is next changed here.
+/// Each reminder names that day's activity and is planned afresh, in the app's
+/// language, whenever the app is opened ([ReminderScheduler]); there is none
+/// on a day the app was already opened, and they slow down and stop if it
+/// goes unused ([planReminders]).
 class ReminderPage extends StatefulWidget {
   const new({
     this.native = const GmNative(),
     this.store = const ReminderSettingsStore(),
+    this.clock = DateTime.now,
     super.key,
   });
 
   final GmNative native;
   final ReminderSettingsStore store;
+
+  /// The time reminders are planned from; replaceable in tests.
+  final DateTime Function() clock;
 
   @override
   State<ReminderPage> createState() => _ReminderPageState();
@@ -68,14 +76,9 @@ class _ReminderPageState extends State<ReminderPage> {
     if (mounted) setState(() => _settings = loaded);
   }
 
-  Future<bool> _schedule(ReminderSettings s, AppLocalizations l10n) =>
-      widget.native.scheduleReminders(
-        weekdays: s.weekdays,
-        hour: s.hour,
-        minute: s.minute,
-        title: l10n.reminderNotificationTitle,
-        body: l10n.reminderNotificationBody,
-      );
+  Future<bool> _schedule(ReminderSettings s, AppLocalizations l10n) => widget
+      .native
+      .scheduleDatedReminders(planReminders(s, widget.clock(), l10n));
 
   /// Saves [next]; when the reminder is on, reschedules it first so the
   /// saved choice always matches what the device will show.
@@ -265,6 +268,13 @@ class _ReminderPageState extends State<ReminderPage> {
                           ),
                         ),
                       ],
+                      const SizedBox(height: gmSpaceLg),
+                      Text(
+                        l10n.reminderHowItWorks,
+                        style: theme.textTheme.bodyLarge?.copyWith(
+                          color: theme.colorScheme.onSurfaceVariant,
+                        ),
+                      ),
                       const SizedBox(height: gmSpaceMd),
                       TextButton(
                         onPressed: () => Navigator.of(context).pop(),
