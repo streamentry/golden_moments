@@ -25,7 +25,8 @@
     "textSize": {
       "label": "Yazı boyutu",
       "smaller": "Standart yazı",
-      "larger": "Daha büyük yazı"
+      "larger": "Daha büyük yazı",
+      "contrast": "Daha yüksek kontrast"
     }
   },
   "footer": {

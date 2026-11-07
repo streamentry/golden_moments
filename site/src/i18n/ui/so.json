@@ -26,7 +26,8 @@
     "textSize": {
       "label": "Cabbirka qoraalka",
       "smaller": "Qoraal caadi ah",
-      "larger": "Qoraal weyn"
+      "larger": "Qoraal weyn",
+      "contrast": "Isbarbardhigga oo sareeya"
     }
   },
   "footer": {

@@ -25,7 +25,8 @@
     "textSize": {
       "label": "حجم النص",
       "smaller": "نص عادي",
-      "larger": "نص أكبر"
+      "larger": "نص أكبر",
+      "contrast": "تباين أعلى"
     }
   },
   "footer": {

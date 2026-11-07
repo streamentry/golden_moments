@@ -25,7 +25,8 @@
     "textSize": {
       "label": "Cỡ chữ",
       "smaller": "Chữ thường",
-      "larger": "Chữ lớn hơn"
+      "larger": "Chữ lớn hơn",
+      "contrast": "Độ tương phản cao hơn"
     }
   },
   "footer": {

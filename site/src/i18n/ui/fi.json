@@ -26,7 +26,8 @@
     "textSize": {
       "label": "Tekstin koko",
       "smaller": "Normaali teksti",
-      "larger": "Suurempi teksti"
+      "larger": "Suurempi teksti",
+      "contrast": "Suurempi kontrasti"
     }
   },
   "footer": {

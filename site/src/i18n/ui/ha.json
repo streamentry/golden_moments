@@ -26,7 +26,8 @@
     "textSize": {
       "label": "Girman rubutu",
       "smaller": "Rubutun al'ada",
-      "larger": "Rubutu mafi girma"
+      "larger": "Rubutu mafi girma",
+      "contrast": "Ƙarin bambanci"
     }
   },
   "footer": {

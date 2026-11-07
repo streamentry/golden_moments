@@ -26,7 +26,8 @@
     "textSize": {
       "label": "ਲਿਖਤ ਦਾ ਆਕਾਰ",
       "smaller": "ਆਮ ਲਿਖਤ",
-      "larger": "ਵੱਡੀ ਲਿਖਤ"
+      "larger": "ਵੱਡੀ ਲਿਖਤ",
+      "contrast": "ਵਧੇਰੇ ਕੰਟਰਾਸਟ"
     }
   },
   "footer": {

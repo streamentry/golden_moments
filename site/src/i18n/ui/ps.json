@@ -26,7 +26,8 @@
     "textSize": {
       "label": "د متن اندازه",
       "smaller": "عادي متن",
-      "larger": "لوی متن"
+      "larger": "لوی متن",
+      "contrast": "لوړ تضاد"
     }
   },
   "footer": {
