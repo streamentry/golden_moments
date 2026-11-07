@@ -1947,5 +1947,25 @@
   "comfortHighContrastHint": "Black text on white, with stronger edges. Easier to read in dim light or with tired eyes.",
   "@comfortHighContrastHint": {
     "description": "Explains the higher-contrast switch. Plain, no claim about eyes or health."
+  },
+  "todaysActivityHeading": "Today's activity",
+  "@todaysActivityHeading": {
+    "description": "Heading of the Home card that suggests one existing activity for the day. Same suggestion for everyone; not personalised. Short."
+  },
+  "todaysActivityBegin": "Begin",
+  "@todaysActivityBegin": {
+    "description": "Button on the Today's activity card that opens the suggested activity. Very short."
+  },
+  "todaysActivityAnother": "Something else",
+  "@todaysActivityAnother": {
+    "description": "Text button on the Today's activity card that shows the other activity instead, for the rest of the day. No judgment. Short."
+  },
+  "todaysActivityDailyMomentHint": "Three pictures to look at and talk about, one at a time. Stop whenever you like.",
+  "@todaysActivityDailyMomentHint": {
+    "description": "One-line description under 'Daily moment' on the Today's activity card. Calm, no promise of benefit."
+  },
+  "todaysActivityLookTogetherHint": "One picture at a time, to talk about together. There is nothing to get right.",
+  "@todaysActivityLookTogetherHint": {
+    "description": "One-line description under 'Look together' on the Today's activity card. Calm, no test or score."
   }
 }

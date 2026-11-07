@@ -6,7 +6,8 @@ updated 2026-11-01. Status lives in [WORKBOARD.md](../../WORKBOARD.md). Appendic
 [verification](verification.md) (facts checked, corrections, could not verify),
 [detail](detail.md) (use cases, features, languages),
 [competitors](competitors.md), [evidence](evidence.md),
-[language markets](language-markets.md). Labels: **proven** (observed or a
+[language markets](language-markets.md),
+[measurement](measurement.md) (reading use and return without app analytics). Labels: **proven** (observed or a
 primary source), **hypothesis** (plausible, untested), **assumption** (a chosen
 number).
 
