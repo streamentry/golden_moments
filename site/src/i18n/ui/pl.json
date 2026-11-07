@@ -21,7 +21,12 @@
     "breadcrumb": "Ścieżka nawigacji",
     "home": "Strona główna",
     "lastUpdated": "Ostatnia aktualizacja",
-    "topics": "Tematy"
+    "topics": "Tematy",
+    "textSize": {
+      "label": "Rozmiar tekstu",
+      "smaller": "Standardowy tekst",
+      "larger": "Większy tekst"
+    }
   },
   "footer": {
     "play": "Graj",

@@ -21,7 +21,12 @@
     "breadcrumb": "Хуудасны зам",
     "home": "Нүүр",
     "lastUpdated": "Сүүлд шинэчилсэн",
-    "topics": "Сэдвүүд"
+    "topics": "Сэдвүүд",
+    "textSize": {
+      "label": "Текстийн хэмжээ",
+      "smaller": "Энгийн текст",
+      "larger": "Том текст"
+    }
   },
   "footer": {
     "play": "Тоглох",

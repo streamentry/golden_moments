@@ -52,6 +52,10 @@
   "@commonReset": {
     "description": "Button that returns settings to their defaults. Very short."
   },
+  "dailyMomentShowNextStep": "Show the next step",
+  "@dailyMomentShowNextStep": {
+    "description": "Button in the Daily moment that shows the next short step. A verb and an object, as DESIGN.md asks; keep under about 24 characters."
+  },
   "commonContinue": "Continue",
   "@commonContinue": {
     "description": "Button that carries on with the current activity. Very short."

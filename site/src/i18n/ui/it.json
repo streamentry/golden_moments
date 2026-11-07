@@ -21,7 +21,12 @@
     "breadcrumb": "Percorso di navigazione",
     "home": "Home",
     "lastUpdated": "Ultimo aggiornamento",
-    "topics": "Argomenti"
+    "topics": "Argomenti",
+    "textSize": {
+      "label": "Dimensione del testo",
+      "smaller": "Testo standard",
+      "larger": "Testo più grande"
+    }
   },
   "footer": {
     "play": "Giocare",

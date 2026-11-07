@@ -22,7 +22,12 @@
     "breadcrumb": "બ્રેડક્રમ્બ",
     "home": "મુખ્ય પાનું",
     "lastUpdated": "છેલ્લે અપડેટ કર્યું",
-    "topics": "વિષયો"
+    "topics": "વિષયો",
+    "textSize": {
+      "label": "લખાણનું કદ",
+      "smaller": "સામાન્ય લખાણ",
+      "larger": "મોટું લખાણ"
+    }
   },
   "footer": {
     "play": "રમો",

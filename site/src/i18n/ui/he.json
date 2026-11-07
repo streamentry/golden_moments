@@ -22,7 +22,12 @@
     "breadcrumb": "נתיב ניווט",
     "home": "דף הבית",
     "lastUpdated": "עודכן לאחרונה",
-    "topics": "נושאים"
+    "topics": "נושאים",
+    "textSize": {
+      "label": "גודל טקסט",
+      "smaller": "טקסט רגיל",
+      "larger": "טקסט גדול יותר"
+    }
   },
   "footer": {
     "play": "משחקים",

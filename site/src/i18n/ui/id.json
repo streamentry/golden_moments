@@ -21,7 +21,12 @@
     "breadcrumb": "Jejak navigasi",
     "home": "Beranda",
     "lastUpdated": "Terakhir diperbarui",
-    "topics": "Topik"
+    "topics": "Topik",
+    "textSize": {
+      "label": "Ukuran teks",
+      "smaller": "Teks standar",
+      "larger": "Teks lebih besar"
+    }
   },
   "footer": {
     "play": "Main",

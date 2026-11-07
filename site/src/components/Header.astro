@@ -3,6 +3,7 @@ import BrandMark from './BrandMark.astro';
 import { NAV } from '../lib/site';
 import { localePath, splitLocale } from '../i18n/locales';
 import { ui } from '../i18n/ui';
+import TextSize from './TextSize.astro';
 
 interface Props {
   lang?: string;
@@ -28,14 +29,17 @@ const path = splitLocale(Astro.url.pathname).path;
               <a
                 href={localePath(lang, item.href)}
                 aria-current={path === item.href ? 'page' : undefined}
-                data-active={path.startsWith(item.href) ? 'true' : undefined}
+                data-active={
+                  item.href === '/' ? (path === '/' ? 'true' : undefined) : path.startsWith(item.href) ? 'true' : undefined
+                }
               >
-                {t.common.nav[item.key]}
+                {item.key === 'home' ? t.common.home : t.common.nav[item.key]}
               </a>
             </li>
           ))
         }
       </ul>
     </nav>
+    <TextSize lang={lang} />
   </div>
 </header>

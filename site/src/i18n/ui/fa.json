@@ -21,7 +21,12 @@
     "breadcrumb": "مسیر صفحه",
     "home": "صفحهٔ اصلی",
     "lastUpdated": "آخرین به‌روزرسانی",
-    "topics": "موضوع‌ها"
+    "topics": "موضوع‌ها",
+    "textSize": {
+      "label": "اندازه متن",
+      "smaller": "متن معمولی",
+      "larger": "متن بزرگ‌تر"
+    }
   },
   "footer": {
     "play": "بازی",

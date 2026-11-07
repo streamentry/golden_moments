@@ -21,7 +21,12 @@
     "breadcrumb": "Cesta na stránke",
     "home": "Domov",
     "lastUpdated": "Naposledy aktualizované",
-    "topics": "Témy"
+    "topics": "Témy",
+    "textSize": {
+      "label": "Veľkosť textu",
+      "smaller": "Štandardný text",
+      "larger": "Väčší text"
+    }
   },
   "footer": {
     "play": "Hrať",

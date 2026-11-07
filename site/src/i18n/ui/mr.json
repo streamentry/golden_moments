@@ -21,7 +21,12 @@
     "breadcrumb": "मार्ग",
     "home": "मुख्य पान",
     "lastUpdated": "शेवटचा बदल",
-    "topics": "विषय"
+    "topics": "विषय",
+    "textSize": {
+      "label": "मजकुराचा आकार",
+      "smaller": "सामान्य मजकूर",
+      "larger": "मोठा मजकूर"
+    }
   },
   "footer": {
     "play": "खेळा",

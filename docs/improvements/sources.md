@@ -1,0 +1,46 @@
+# Sources learned from (accessed 2026-11-07)
+
+Purpose: the dementia, Alzheimer's and caregiver material this project learns from. Each entry says what was **read** (fetched and checked) and what was only **seen in search results**, because a search snippet is not evidence. Where a source could not be opened, that is stated.
+
+Confidence: **A** = primary source read in full for the relevant point; **B** = secondary or partial, consistent with others; **C** = search snippet or vendor claim, unverified.
+
+## Guidance on activities
+
+| Source | Read? | What it says that matters here | Confidence |
+| --- | --- | --- | --- |
+| [Alzheimer's Association: Activities](https://www.alz.org/help-support/caregiving/daily-care/activities) | Read | Keep to activities the person has always enjoyed and adjust them to current skills. Focus on enjoyment, not achievement. Build on remaining skills. Tie activities to past work and routines. Schedule for the time of day that works. Break tasks into single steps and help with the hard parts. Do not force participation, criticise, or give several directions at once. Signs to end or change an activity: shrinking attention, rising irritability or anxiety, distraction, refusal. | A |
+| [Penn State Extension: meaningful engagement](https://extension.psu.edu/meaningful-engagement-for-people-with-dementia) | Search snippet only | Consider former occupation and what made the person happy; keep activities short and simple. | C |
+| [Healthline: activities at home](https://www.healthline.com/health/dementia/activities-for-dementia-patients-at-home) | Search snippet only | Group activity can improve engagement and mood (cites a 2018 study). | C |
+| [BrightFocus: activities](https://www.brightfocus.org/alzheimers/article/activities-get-alzheimers-and-dementia-patient-engaged) | Fetch failed (not checked) | Not verified. | — |
+
+Our existing guide [How to Play Games with Someone Who Has Dementia](../../site/src/content/guides/caregiving/how-to-play-together.md) already cites the Alzheimer's Association page and states the same principles. Keep this table in sync with that guide rather than duplicating it.
+
+## Digital and interface design for people with dementia
+
+| Source | Read? | What it says that matters here | Confidence |
+| --- | --- | --- | --- |
+| [Smart Interface Design Patterns: Designing for Dementia](https://smart-interface-design-patterns.com/articles/designing-for-dementia/) | Read | No auto-moving carousels. Keep instructions visible across screens. Leave a trace of past actions. Avoid overlays that hide needed information. Left-align text, line height 1.5 or more. Verb-based button labels ("Finish and Send", not "Submit"). Pair icons with text labels, especially abstract ones. Give buttons and inputs visible borders; white buttons with faint shadows on white are hard to see. Avoid memory tests, image-recognition tests, puzzles and CAPTCHAs as sign-in or entry barriers. Accept varied input. | A (single author, but specific and consistent with the others) |
+| [Alzheimer's Society: Why digital design matters for someone with dementia](https://www.alzheimers.org.uk/blog/how-design-website-someone-affected-dementia) | Fetch returned 404 | Could not read. Search snippets say the Society publishes Dementia Digital Design Guidelines as a Google Sheets analysis framework (clear Home button; do not rely on a logo alone to go home; plain, respectful language). | C |
+| [Alzheimer's Society: website accessibility](https://www.alzheimers.org.uk/about-us/accessibility) | Search snippet only | Confirms the guidelines and framework exist. The spreadsheet itself was not opened, so its contents are not used here. | C |
+| [AbilityNet factsheet: designing for dementia (Feb 2025)](https://abilitynet.org.uk/factsheets/designing-dementia) | Search snippet only | Co-design with people living with dementia. Break screens into smaller chunks. Font 12 pt or more and user-adjustable. Contrast 4.5:1 for normal text and 3:1 for large text (WCAG). | B |
+| [INDUCT: best practice guidance on design](https://www.dementiainduct.eu/guidance/themes/design/) | Read | Polished, adult-appropriate visual tone rather than childish. Clear signposting and simple navigation. Ask end users whether an app or website suits them; apps suit longer use. Make privacy text short and plain. Cognitive accessibility: simple, consistent, clear, error-tolerant. Does not give colour, size or audio figures. | A |
+| [Touch-screen design guidelines for older adults with dementia (Vo, 2023, University of Twente thesis)](https://essay.utwente.nl/essays/95898) | Search snippet only | Validated by expert interviews. Not read in full. | C |
+| [JMIR Aging 2024: GoodTimes photo album usability](https://aging.jmir.org/2024/1/e49415) | Search snippet only | Usability was mixed even in cognitively intact older adults: 4 of 13 needed technical support. Important reminder that setup friction matters. | B |
+| Journal of Medical Internet Research 2021 review of 83 tablet apps for people with Alzheimer's | Search snippet only (citation from a secondary summary; the article itself was not located) | Most apps offered games, passive viewing, music, memory training and social prompts. Descriptive, not a rating. | C |
+
+Not used: Alzheimer's Society font and contrast figures reported by a blog ("sans-serif recommended") could not be confirmed on the Society's own page. Treat as unverified until the spreadsheet is opened.
+
+## Competitor and market apps (for learning, not copying)
+
+| App | Source | What it does | Notes for us |
+| --- | --- | --- | --- |
+| Memory Lane Games | [memorylanegames.com](https://www.memorylanegames.com/) (read) | Topic-based games (Classic Cars, Music, Animals), no time limits or scoring, offline play, expert video tips. $9.99/month after a 14-day trial. | Subscription model; we are free with no account. Their claim of clinical proof is vendor-made and unverified. We should not copy any efficacy claim. |
+| MindMate, Greymatters, Memory Box, Talking Photo Albums, BBC RemArc | App-store and list-site snippets (C) | Photo "my story" books, digital scrapbooks, archive-based reminiscence. | Photo-based reminiscence is a known category; our family-photo import is in it. |
+| Dementia-related "best apps" roundups | Search snippets only | Low-quality list sites, no stated method. | Not used as evidence. |
+
+## What I could not verify
+
+- The Alzheimer's Society Dementia Digital Design Guidelines spreadsheet (not opened).
+- Dementia UK guidance (search returned nothing).
+- Alzheimer's Association guidance beyond the page read.
+- Any 2025 usability trial of a dementia photo app (none found).

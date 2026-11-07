@@ -1,5 +1,6 @@
 {
   "@@locale": "ca",
+  "dailyMomentShowNextStep": "Mostra el següent pas",
   "appTitle": "Golden Moments",
   "commonDoneForNow": "Per ara ja n’hi ha prou",
   "commonTryAgain": "Tornar-ho a provar",

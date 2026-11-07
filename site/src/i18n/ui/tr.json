@@ -21,7 +21,12 @@
     "breadcrumb": "Sayfa yolu",
     "home": "Ana sayfa",
     "lastUpdated": "Son güncelleme",
-    "topics": "Konular"
+    "topics": "Konular",
+    "textSize": {
+      "label": "Yazı boyutu",
+      "smaller": "Standart yazı",
+      "larger": "Daha büyük yazı"
+    }
   },
   "footer": {
     "play": "Oyna",

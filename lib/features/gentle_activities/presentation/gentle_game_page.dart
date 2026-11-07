@@ -437,22 +437,37 @@ class _GentleGamePageState extends State<GentleGamePage> {
     final theme = Theme.of(context);
     final scale = MediaQuery.textScalerOf(context).scale(16) / 16;
     final l10n = context.l10n;
+    // Help and comfort, named in words (DESIGN.md: every icon has a word).
+    // The row sits under the board and scrolls with it when the screen is
+    // short or text is large; it never takes room from the board's first
+    // place on screen. Tooltips stay for pointer users.
+    final toolRow = Wrap(
+      spacing: gmSpaceSm,
+      runSpacing: gmSpaceSm,
+      alignment: WrapAlignment.center,
+      children: [
+        Tooltip(
+          message: l10n.gentleGameHowThisWorks,
+          child: OutlinedButton.icon(
+            onPressed: _showHelp,
+            icon: const Icon(Icons.help_outline),
+            label: Text(l10n.gentleGameHowThisWorks),
+          ),
+        ),
+        Tooltip(
+          message: l10n.commonComfortSettings,
+          child: OutlinedButton.icon(
+            onPressed: _showSettings,
+            icon: const Icon(Icons.tune),
+            label: Text(l10n.commonComfortSettings),
+          ),
+        ),
+      ],
+    );
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: gmToolbarHeight(context),
         title: GmTitle(l10n.gentleGameTitle),
-        actions: [
-          IconButton(
-            onPressed: _showHelp,
-            icon: const Icon(Icons.help_outline),
-            tooltip: l10n.gentleGameHowThisWorks,
-          ),
-          IconButton(
-            onPressed: _showSettings,
-            icon: const Icon(Icons.tune),
-            tooltip: l10n.commonComfortSettings,
-          ),
-        ],
       ),
       body: board == null
           ? Center(child: Text(l10n.gentleGameNeedTwoPhotos))
@@ -589,6 +604,8 @@ class _GentleGamePageState extends State<GentleGamePage> {
                                   const SizedBox(height: gmSpaceSm),
                                 ],
                                 status,
+                                const SizedBox(height: gmSpaceMd),
+                                toolRow,
                               ],
                             ),
                           );
@@ -625,6 +642,8 @@ class _GentleGamePageState extends State<GentleGamePage> {
                                 const SizedBox(height: gmSpaceSm),
                               ],
                               status,
+                              const SizedBox(height: gmSpaceMd),
+                              toolRow,
                             ],
                           ),
                         );

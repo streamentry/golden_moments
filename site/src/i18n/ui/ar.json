@@ -21,7 +21,12 @@
     "breadcrumb": "مسار التنقل",
     "home": "الرئيسية",
     "lastUpdated": "آخر تحديث",
-    "topics": "الموضوعات"
+    "topics": "الموضوعات",
+    "textSize": {
+      "label": "حجم النص",
+      "smaller": "نص عادي",
+      "larger": "نص أكبر"
+    }
   },
   "footer": {
     "play": "العب",

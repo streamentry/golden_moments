@@ -21,7 +21,12 @@
     "breadcrumb": "Navigációs útvonal",
     "home": "Kezdőlap",
     "lastUpdated": "Utolsó frissítés",
-    "topics": "Témák"
+    "topics": "Témák",
+    "textSize": {
+      "label": "Szövegméret",
+      "smaller": "Normál szöveg",
+      "larger": "Nagyobb szöveg"
+    }
   },
   "footer": {
     "play": "Játék",

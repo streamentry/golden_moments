@@ -21,7 +21,12 @@
     "breadcrumb": "Drobtinice",
     "home": "Domov",
     "lastUpdated": "Nazadnje posodobljeno",
-    "topics": "Teme"
+    "topics": "Teme",
+    "textSize": {
+      "label": "Velikost besedila",
+      "smaller": "Standardno besedilo",
+      "larger": "Večje besedilo"
+    }
   },
   "footer": {
     "play": "Igraj",

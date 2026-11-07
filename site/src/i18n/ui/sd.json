@@ -22,7 +22,12 @@
     "breadcrumb": "رستي جو نشان",
     "home": "هوم",
     "lastUpdated": "آخري دفعو تازو ڪيل",
-    "topics": "موضوع"
+    "topics": "موضوع",
+    "textSize": {
+      "label": "متن جي ماپ",
+      "smaller": "معياري متن",
+      "larger": "وڏو متن"
+    }
   },
   "footer": {
     "play": "کيڏو",

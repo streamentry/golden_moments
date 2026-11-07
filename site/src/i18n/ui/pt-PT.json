@@ -22,7 +22,12 @@
     "breadcrumb": "Caminho de navegação",
     "home": "Início",
     "lastUpdated": "Última atualização",
-    "topics": "Temas"
+    "topics": "Temas",
+    "textSize": {
+      "label": "Tamanho do texto",
+      "smaller": "Texto normal",
+      "larger": "Texto maior"
+    }
   },
   "footer": {
     "play": "Jogar",

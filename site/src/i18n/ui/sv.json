@@ -22,7 +22,12 @@
     "breadcrumb": "Sökväg",
     "home": "Startsida",
     "lastUpdated": "Senast uppdaterad",
-    "topics": "Ämnen"
+    "topics": "Ämnen",
+    "textSize": {
+      "label": "Textstorlek",
+      "smaller": "Standardtext",
+      "larger": "Större text"
+    }
   },
   "footer": {
     "play": "Spela",

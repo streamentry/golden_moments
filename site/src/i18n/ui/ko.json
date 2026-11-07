@@ -21,7 +21,12 @@
     "breadcrumb": "현재 위치",
     "home": "홈",
     "lastUpdated": "최종 수정일",
-    "topics": "주제"
+    "topics": "주제",
+    "textSize": {
+      "label": "글자 크기",
+      "smaller": "기본 글자",
+      "larger": "큰 글자"
+    }
   },
   "footer": {
     "play": "게임하기",

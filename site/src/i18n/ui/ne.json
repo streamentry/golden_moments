@@ -22,7 +22,12 @@
     "breadcrumb": "ब्रेडक्रम",
     "home": "गृहपृष्ठ",
     "lastUpdated": "पछिल्लो अपडेट",
-    "topics": "विषय"
+    "topics": "विषय",
+    "textSize": {
+      "label": "पाठको आकार",
+      "smaller": "सामान्य पाठ",
+      "larger": "ठूलो पाठ"
+    }
   },
   "footer": {
     "play": "खेल्नुहोस्",

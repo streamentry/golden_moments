@@ -22,7 +22,12 @@
     "breadcrumb": "Ụzọ ibe",
     "home": "Ibe mbụ",
     "lastUpdated": "E melitere ikpeazụ",
-    "topics": "Isiokwu"
+    "topics": "Isiokwu",
+    "textSize": {
+      "label": "Nha ederede ihe edere",
+      "smaller": "Ederede nkịtị",
+      "larger": "Ederede ka ukwu"
+    }
   },
   "footer": {
     "play": "Kpọọ",

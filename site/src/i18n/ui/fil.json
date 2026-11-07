@@ -22,7 +22,12 @@
     "breadcrumb": "Breadcrumb",
     "home": "Home",
     "lastUpdated": "Huling na-update",
-    "topics": "Mga paksa"
+    "topics": "Mga paksa",
+    "textSize": {
+      "label": "Laki ng teksto",
+      "smaller": "Karaniwang teksto",
+      "larger": "Mas malaking teksto"
+    }
   },
   "footer": {
     "play": "Maglaro",

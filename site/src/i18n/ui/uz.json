@@ -21,7 +21,12 @@
     "breadcrumb": "Sahifa yoʻli",
     "home": "Bosh sahifa",
     "lastUpdated": "Oxirgi yangilanish",
-    "topics": "Mavzular"
+    "topics": "Mavzular",
+    "textSize": {
+      "label": "Matn hajmi",
+      "smaller": "Oddiy matn",
+      "larger": "Kattaroq matn"
+    }
   },
   "footer": {
     "play": "Oʻynash",

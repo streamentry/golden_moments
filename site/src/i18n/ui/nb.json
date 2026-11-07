@@ -22,7 +22,12 @@
     "breadcrumb": "Brødsmulesti",
     "home": "Forsiden",
     "lastUpdated": "Sist oppdatert",
-    "topics": "Temaer"
+    "topics": "Temaer",
+    "textSize": {
+      "label": "Tekststørrelse",
+      "smaller": "Standardtekst",
+      "larger": "Større tekst"
+    }
   },
   "footer": {
     "play": "Spill",

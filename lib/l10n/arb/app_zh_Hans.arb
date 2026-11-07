@@ -1,5 +1,6 @@
 {
   "@@locale": "zh_Hans",
+  "dailyMomentShowNextStep": "显示下一步",
   "appTitle": "Golden Moments",
   "commonDoneForNow": "先到这里",
   "commonTryAgain": "再试一次",

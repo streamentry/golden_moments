@@ -21,7 +21,12 @@
     "breadcrumb": "Brødkrumme",
     "home": "Forside",
     "lastUpdated": "Senest opdateret",
-    "topics": "Emner"
+    "topics": "Emner",
+    "textSize": {
+      "label": "Tekststørrelse",
+      "smaller": "Standardtekst",
+      "larger": "Større tekst"
+    }
   },
   "footer": {
     "play": "Spil",

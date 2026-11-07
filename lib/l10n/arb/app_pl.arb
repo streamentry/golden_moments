@@ -1,5 +1,6 @@
 {
   "@@locale": "pl",
+  "dailyMomentShowNextStep": "Pokaż następny krok",
   "appTitle": "Golden Moments",
   "commonDoneForNow": "Na razie wystarczy",
   "commonTryAgain": "Spróbuj ponownie",

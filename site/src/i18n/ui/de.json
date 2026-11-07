@@ -21,7 +21,12 @@
     "breadcrumb": "Navigationspfad",
     "home": "Startseite",
     "lastUpdated": "Zuletzt aktualisiert",
-    "topics": "Themen"
+    "topics": "Themen",
+    "textSize": {
+      "label": "Textgröße",
+      "smaller": "Standardtext",
+      "larger": "Größerer Text"
+    }
   },
   "footer": {
     "play": "Spielen",

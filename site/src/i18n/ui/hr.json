@@ -21,7 +21,12 @@
     "breadcrumb": "Putanja stranice",
     "home": "Početna",
     "lastUpdated": "Posljednje ažuriranje",
-    "topics": "Teme"
+    "topics": "Teme",
+    "textSize": {
+      "label": "Veličina teksta",
+      "smaller": "Standardni tekst",
+      "larger": "Veći tekst"
+    }
   },
   "footer": {
     "play": "Igraj",

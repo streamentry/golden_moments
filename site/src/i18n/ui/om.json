@@ -22,7 +22,12 @@
     "breadcrumb": "Karaa fuula",
     "home": "Jalqaba",
     "lastUpdated": "Yeroo dhumaa haaromfame",
-    "topics": "Mata-dureewwan"
+    "topics": "Mata-dureewwan",
+    "textSize": {
+      "label": "Guddina barreeffamaa",
+      "smaller": "Barreeffama idil-bu'aa",
+      "larger": "Barreeffama guddaa"
+    }
   },
   "footer": {
     "play": "Taphadhaa",

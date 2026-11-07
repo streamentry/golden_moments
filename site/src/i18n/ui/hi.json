@@ -21,7 +21,12 @@
     "breadcrumb": "पेज का रास्ता",
     "home": "होम",
     "lastUpdated": "आखिरी अपडेट",
-    "topics": "विषय"
+    "topics": "विषय",
+    "textSize": {
+      "label": "पाठ का आकार",
+      "smaller": "सामान्य पाठ",
+      "larger": "बड़ा पाठ"
+    }
   },
   "footer": {
     "play": "खेलें",

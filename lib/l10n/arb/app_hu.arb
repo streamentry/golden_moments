@@ -1,5 +1,6 @@
 {
   "@@locale": "hu",
+  "dailyMomentShowNextStep": "A következő lépés megjelenítése",
   "appTitle": "Golden Moments",
   "commonDoneForNow": "Mára elég",
   "commonTryAgain": "Újra",

@@ -26,7 +26,7 @@ colors:
   surface-raised: "#FFFDF7"
   surface-sunken: "#EADFCB"
   on-surface: "#222222"
-  on-surface-variant: "#5C5346"
+  on-surface-variant: "#4F4539"
   # High contrast (Settings > Higher contrast): white paper and near-black ink.
   high-contrast-surface: "#FFFFFF"
   high-contrast-on-surface: "#111111"
@@ -373,7 +373,7 @@ The palette is "Golden Hour": warm parchment surfaces, near-black ink and one an
 | `surface-raised` | Print White | `#FFFDF7` | The mat of a mounted print; the answer box and the step numeral disc on the web | Ink: 15.6:1; `primary`: 6.5:1; `outline`: 4.6:1 |
 | `surface-sunken` | Oat | `#EADFCB` | Hidden-tile backs, pressed wells, hairlines and picture placeholders | Ink on it: 12.1:1 |
 | `on-surface` | Ink | `#222222` | All primary text and icons. Also the one dark surface: the website footer, snackbars and tooltips | 15:1 on background |
-| `on-surface-variant` | Walnut | `#5C5346` | Secondary text, captions, helper text and calm empty-state icons | 6.5:1 on surface; 7.4:1 on print white |
+| `on-surface-variant` | Walnut | `#4F4539` | Secondary text, captions, helper text and calm empty-state icons | 8.1:1 on surface; 7.1:1 on surface-sunken; 9.4:1 on print white |
 | `outline` | Driftwood | `#7D7366` | Resting tile and card borders, and dividers that identify a control | 4.0:1 on surface (≥3:1 non-text) |
 | `on-ink` | Parchment on Ink | `#F3EAD9` | Reading text on an ink surface | 13.3:1 on ink |
 | `on-ink-variant` | Oat on Ink | `#D9CFBD` | Fine print and dividers on an ink surface | 10.3:1 on ink |

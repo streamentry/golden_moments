@@ -22,7 +22,12 @@
     "breadcrumb": "Jalur kaca",
     "home": "Beranda",
     "lastUpdated": "Terakhir dianyarkeun",
-    "topics": "Topik"
+    "topics": "Topik",
+    "textSize": {
+      "label": "Ukuran téks",
+      "smaller": "Téks standar",
+      "larger": "Téks leuwih ageung"
+    }
   },
   "footer": {
     "play": "Maén",

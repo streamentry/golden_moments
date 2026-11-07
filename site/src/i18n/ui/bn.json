@@ -22,7 +22,12 @@
     "breadcrumb": "ব্রেডক্রাম্ব",
     "home": "হোম",
     "lastUpdated": "সর্বশেষ হালনাগাদ",
-    "topics": "বিষয়"
+    "topics": "বিষয়",
+    "textSize": {
+      "label": "লেখার আকার",
+      "smaller": "সাধারণ লেখা",
+      "larger": "বড় লেখা"
+    }
   },
   "footer": {
     "play": "খেলুন",

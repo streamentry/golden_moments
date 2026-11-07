@@ -21,7 +21,12 @@
     "breadcrumb": "Ruta de navegación",
     "home": "Inicio",
     "lastUpdated": "Última actualización",
-    "topics": "Temas"
+    "topics": "Temas",
+    "textSize": {
+      "label": "Tamaño del texto",
+      "smaller": "Texto estándar",
+      "larger": "Texto más grande"
+    }
   },
   "footer": {
     "play": "Jugar",

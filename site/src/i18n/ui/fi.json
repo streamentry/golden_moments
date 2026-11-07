@@ -22,7 +22,12 @@
     "breadcrumb": "Polku",
     "home": "Etusivu",
     "lastUpdated": "Päivitetty viimeksi",
-    "topics": "Aiheet"
+    "topics": "Aiheet",
+    "textSize": {
+      "label": "Tekstin koko",
+      "smaller": "Normaali teksti",
+      "larger": "Suurempi teksti"
+    }
   },
   "footer": {
     "play": "Pelaa",

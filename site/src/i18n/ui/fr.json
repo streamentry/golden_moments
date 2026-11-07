@@ -21,7 +21,12 @@
     "breadcrumb": "Fil d’Ariane",
     "home": "Accueil",
     "lastUpdated": "Dernière mise à jour",
-    "topics": "Thèmes"
+    "topics": "Thèmes",
+    "textSize": {
+      "label": "Taille du texte",
+      "smaller": "Texte standard",
+      "larger": "Texte plus grand"
+    }
   },
   "footer": {
     "play": "Jouer",

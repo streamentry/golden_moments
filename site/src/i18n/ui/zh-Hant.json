@@ -21,7 +21,12 @@
     "breadcrumb": "目前位置",
     "home": "首頁",
     "lastUpdated": "最後更新",
-    "topics": "主題"
+    "topics": "主題",
+    "textSize": {
+      "label": "文字大小",
+      "smaller": "標準文字",
+      "larger": "更大文字"
+    }
   },
   "footer": {
     "play": "玩遊戲",

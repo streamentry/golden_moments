@@ -22,7 +22,12 @@
     "breadcrumb": "Jejak laluan",
     "home": "Laman utama",
     "lastUpdated": "Dikemas kini kali terakhir",
-    "topics": "Topik"
+    "topics": "Topik",
+    "textSize": {
+      "label": "Saiz teks",
+      "smaller": "Teks biasa",
+      "larger": "Teks lebih besar"
+    }
   },
   "footer": {
     "play": "Main",

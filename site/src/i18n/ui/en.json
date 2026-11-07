@@ -22,7 +22,12 @@
     "breadcrumb": "Breadcrumb",
     "home": "Home",
     "lastUpdated": "Last updated",
-    "topics": "Topics"
+    "topics": "Topics",
+    "textSize": {
+      "label": "Text size",
+      "smaller": "Standard text",
+      "larger": "Larger text"
+    }
   },
   "footer": {
     "play": "Play",

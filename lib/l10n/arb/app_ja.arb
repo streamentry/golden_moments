@@ -1,5 +1,6 @@
 {
   "@@locale": "ja",
+  "dailyMomentShowNextStep": "次のステップを表示",
   "appTitle": "Golden Moments",
   "commonDoneForNow": "今日はここまで",
   "commonTryAgain": "もう一度試す",

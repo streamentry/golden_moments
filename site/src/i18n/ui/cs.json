@@ -21,7 +21,12 @@
     "breadcrumb": "Drobečková navigace",
     "home": "Úvod",
     "lastUpdated": "Naposledy aktualizováno",
-    "topics": "Témata"
+    "topics": "Témata",
+    "textSize": {
+      "label": "Velikost textu",
+      "smaller": "Standardní text",
+      "larger": "Větší text"
+    }
   },
   "footer": {
     "play": "Hrát",

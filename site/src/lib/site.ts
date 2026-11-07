@@ -22,10 +22,12 @@ export const SITE = {
 export interface NavItem {
   href: string;
   /** Key in the `common.nav` dictionary. */
-  key: 'games' | 'activities' | 'caregiving' | 'brainHealth';
+  key: 'home' | 'games' | 'activities' | 'caregiving' | 'brainHealth';
 }
 
 export const NAV: readonly NavItem[] = [
+  // A word, not only the logo, leads home (Alzheimer's Society checklist 2.3).
+  { href: '/', key: 'home' },
   { href: '/games/', key: 'games' },
   { href: '/activities/', key: 'activities' },
   { href: '/caregiving/', key: 'caregiving' },

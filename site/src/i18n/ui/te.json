@@ -22,7 +22,12 @@
     "breadcrumb": "మార్గం",
     "home": "హోమ్",
     "lastUpdated": "చివరిగా నవీకరించినది",
-    "topics": "అంశాలు"
+    "topics": "అంశాలు",
+    "textSize": {
+      "label": "వచన పరిమాణం",
+      "smaller": "సాధారణ వచనం",
+      "larger": "పెద్ద వచనం"
+    }
   },
   "footer": {
     "play": "ఆడండి",

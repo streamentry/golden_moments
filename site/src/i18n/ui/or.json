@@ -21,7 +21,12 @@
     "breadcrumb": "ପଥ ସୂଚକ",
     "home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
     "lastUpdated": "ଶେଷ ଥର ଅପଡେଟ୍",
-    "topics": "ବିଷୟ"
+    "topics": "ବିଷୟ",
+    "textSize": {
+      "label": "ଲେଖାର ଆକାର",
+      "smaller": "ସାଧାରଣ ଲେଖା",
+      "larger": "ବଡ଼ ଲେଖା"
+    }
   },
   "footer": {
     "play": "ଖେଳନ୍ତୁ",

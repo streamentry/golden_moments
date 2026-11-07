@@ -21,7 +21,12 @@
     "breadcrumb": "Đường dẫn trang",
     "home": "Trang chủ",
     "lastUpdated": "Cập nhật lần cuối",
-    "topics": "Chủ đề"
+    "topics": "Chủ đề",
+    "textSize": {
+      "label": "Cỡ chữ",
+      "smaller": "Chữ thường",
+      "larger": "Chữ lớn hơn"
+    }
   },
   "footer": {
     "play": "Chơi",

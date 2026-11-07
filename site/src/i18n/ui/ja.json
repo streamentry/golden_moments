@@ -21,7 +21,12 @@
     "breadcrumb": "パンくずリスト",
     "home": "ホーム",
     "lastUpdated": "最終更新日",
-    "topics": "トピック"
+    "topics": "トピック",
+    "textSize": {
+      "label": "文字の大きさ",
+      "smaller": "標準の文字",
+      "larger": "大きい文字"
+    }
   },
   "footer": {
     "play": "遊ぶ",

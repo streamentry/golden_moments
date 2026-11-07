@@ -21,7 +21,12 @@
     "breadcrumb": "Cale de navigare",
     "home": "Acasă",
     "lastUpdated": "Ultima actualizare",
-    "topics": "Subiecte"
+    "topics": "Subiecte",
+    "textSize": {
+      "label": "Dimensiunea textului",
+      "smaller": "Text standard",
+      "larger": "Text mai mare"
+    }
   },
   "footer": {
     "play": "Jucați",

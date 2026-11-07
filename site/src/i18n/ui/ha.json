@@ -22,7 +22,12 @@
     "breadcrumb": "Hanyar shafi",
     "home": "Shafin farko",
     "lastUpdated": "An sabunta ƙarshe",
-    "topics": "Batutuwa"
+    "topics": "Batutuwa",
+    "textSize": {
+      "label": "Girman rubutu",
+      "smaller": "Rubutun al'ada",
+      "larger": "Rubutu mafi girma"
+    }
   },
   "footer": {
     "play": "Wasa",

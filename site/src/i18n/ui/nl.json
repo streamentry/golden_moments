@@ -21,7 +21,12 @@
     "breadcrumb": "Kruimelpad",
     "home": "Start",
     "lastUpdated": "Laatst bijgewerkt",
-    "topics": "Onderwerpen"
+    "topics": "Onderwerpen",
+    "textSize": {
+      "label": "Tekstgrootte",
+      "smaller": "Standaardtekst",
+      "larger": "Grotere tekst"
+    }
   },
   "footer": {
     "play": "Spelen",

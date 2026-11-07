@@ -1,5 +1,6 @@
 {
   "@@locale": "fr",
+  "dailyMomentShowNextStep": "Afficher l’étape suivante",
   "appTitle": "Golden Moments",
   "commonDoneForNow": "Fini pour l’instant",
   "commonTryAgain": "Réessayer",
