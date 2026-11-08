@@ -17,6 +17,16 @@ const picks = ['picture-pairs', 'find-the-same', 'finish-the-saying', 'picture-p
   .map((g) => localizeGame(g, lang));
 ---
 <PageLayout title={p.title} seoTitle={p.seoTitle} description={p.description} path="/handout/" crumb={p.crumb} lede={p.lede} lang={lang} available={PUBLISHED.map((l) => l.code)}>
+  <div class="handout-actions no-print">
+    <button type="button" class="btn btn--primary" id="print-handout">
+      <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="6 9 6 2 18 2 18 9"></polyline>
+        <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path>
+        <rect x="6" y="14" width="12" height="8"></rect>
+      </svg>
+      {p.crumb}
+    </button>
+  </div>
   <p class="handout-url">{SITE.domain}</p>
   <Fragment set:html={localizeHtml(lang, p.introHtml)} />
   <h2>{p.gamesTitle}</h2>
@@ -26,7 +36,14 @@ const picks = ['picture-pairs', 'find-the-same', 'finish-the-saying', 'picture-p
   <Fragment set:html={localizeHtml(lang, p.restHtml)} />
 </PageLayout>
 
+<script>
+  document.getElementById('print-handout')?.addEventListener('click', () => window.print());
+</script>
+
 <style>
+  .handout-actions {
+    margin-bottom: var(--space-md);
+  }
   .handout-url {
     margin-block: var(--space-md);
     font-size: var(--text-h2);
