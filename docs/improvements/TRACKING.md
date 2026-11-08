@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 26 / 100 completed**
+**Progress: 27 / 100 completed**
 
 ---
 
@@ -36,6 +36,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 24 | 2026-11-08 | `cd22988` | Universal Spoken Guidance (12/12 Activities), Saying Prompt Framing & Footer Contrast Architecture | Cannings et al. (2024, JMIR Aging), W3C COGA Obj 1, 3 & 4, Alzheimer's Society UK Contrast Guidelines: Achieved 100% verbal assistance coverage across all 12 web activities by integrating dynamic `readAloudText` into Word Search (speaks guidance and remaining words to find, or `foundAll` on completion), Photo Pairs (speaks custom photo guidance or status updates), and Calm Breathing (speaks guidance or paced breathing phases: in, hold, out); eliminated silent action on Conversation Cards print action with `sounds.tap()`; reinforced saying fill-in-the-blank line (`.say-card__blank`), conversation prompt (`.say-prompt`), and card theme (`.talk-card__theme`) under high-contrast (`4px solid #000000`) and forced colors (`CanvasText` / `Highlight`); reinforced site footer separation boundary (`.site-footer`) with high-contrast `#FFFFFF` (replacing gold ornament on dark ink) and system `CanvasText` / `LinkText` in Windows Forced Colors. | Web Games & Layout (`WordSearch.tsx`, `PhotoPairs.tsx`, `CalmBreathing.tsx`, `ConversationCards.tsx`, `games.css`, `components.css`) | Done |
 | 25 | 2026-11-08 | `869ce46` | Gallery Vestibular Tilt Suppression, Picture Card Contrast Framing & FAQ Accordion Focus Architecture | Musa et al. (2023) Touchscreen Guidelines, AbilityNet (2025), WCAG 2.3.3 & WCAG 2.4.7: Neutralized playful rotation tilts (`rotate(-1.5deg)`, etc.) under `prefers-reduced-motion: reduce` (`transform: none !important;`) on `/pictures/` to protect users with vestibular sensitivity; reinforced `.pic-print` drawing cards with 2px solid `#000000` / system `CanvasText` and hover focus outlines; framed `.pic-jump a` category pills with `ButtonText` and `Highlight` focus outlines in Windows Forced Colors; added dedicated `:focus-visible` ring (3px primary, 4px offset) to FAQ accordion toggle (`.faq summary`); reinforced the `+` / `−` expansion state circle (`.faq summary::after`) with 3px solid black in high-contrast mode and system `CanvasText` in forced-colors mode. | Web Pages & Components (`pictures/index.astro`, `components.css`) | Done |
 | 26 | 2026-11-08 | `193dc28` | Translation Notice Architecture, English Preference Persistence & Brand Mark High-Contrast Framing | Alzheimer's Australia Vic (2015), ISO 21801-1, W3C COGA Obj 1 & 4: Established dedicated responsive architecture for the machine-translation notice (`.mt-notice`) with clean typographic scale (`var(--text-sm)`), accessible link styling, and high-contrast / forced-colors adaptations; attached preference persistence hook in `LanguageChoice.astro` to `.mt-notice a[hreflang]` so tapping "Read the original in English" saves the reader's English cookie and avoids repeated redirects; added print suppression (`display: none !important;` on `.mt-notice`) preventing digital translation notices from cluttering paper printouts; reinforced brand emblem (`.brand__mark`) in forced colors (`forced-color-adjust: none; border: 1px solid CanvasText;`) and high contrast (2px black) with tailored `:focus-visible` ring. | Web Architecture & Header (`LanguageChoice.astro`, `components.css`) | Done |
+| 27 | 2026-11-08 | `889ef53` | Interactive Card Focus Architecture, Quotable Answer Bar Contrast & Small Print Touch Target Guidance | W3C COGA Obj 1 & 4, ISO 21801-1, WCAG 2.4.7: Added `.card:has(.card__link:focus-visible)` with 3px primary outline and 4px offset (4px solid black in high contrast; 3px Highlight in forced colors) while suppressing redundant inner heading outlines, framing entire interactive card surfaces in `GameCard` and `GuideCard`; reinforced `.card__more` action link text in high-contrast (`#000000`, font-weight 800) and forced colors (`LinkText`); elevated `.answer::before` quotation accent bar to solid black (`#000000`) and system `Highlight` (with `forced-color-adjust: none;`) to prevent accent washout; elevated `.answer__label` to `#000000` font-weight 800; added shape-conforming `:focus-visible` ring on standalone `a.small-print` links; suppressed background radial gradients on `.cta-band` in high contrast mode with solid `#FFFFFF` for glare-free readability. | Web Cards & Prose (`components.css`) | Done |
 
 ---
 
@@ -43,5 +44,5 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 27 | *Next in queue* | Pending |
-| 28–100 | Planned one by one | Pending |
+| 28 | *Next in queue* | Pending |
+| 29–100 | Planned one by one | Pending |
