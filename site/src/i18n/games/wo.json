@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Nataal yu yem",
+    "seoTitle": "Po miy boole nataal yi ñeel nit ñiy dund ak wàññeeku xel: Nataal yu yem",
+    "h1": "Nataal yu yem: po mu dal miy boole nataal yi",
+    "description": "Po mu dal te amul fay ngir nit ñiy dund ak wàññeeku xel, ngir boole nataal yi. Nataal yu mag yi dañuy feeñ di wéy, amul waxtu wala lu ngay natt, te mën nga tànn diggante 4 ba 12 nataal.",
+    "short": "Gisal ñaari nataal yi yem. Nataal yi mën nañoo feeñ di wéy.",
+    "players": "1 wala 2 nit, toogandoo wet ak wet",
+    "intro": "Bësal benn nataal, daleen bës biko mel. Nataal yi dañuy des di feeñ bu baax, kon lenn du luñuy fàttaliku. Su ñaari nataal yemee, dañuy am wetu wurus ak màndarga bu wone ne baax na.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Tànnal ñata nataal ngay jëfandikoo. Ñeenti nataal tambali gu dal la.",
+      "Bësal benn nataal. Da nay am wetu wurus.",
+      "Bësal nataal biko mel. Ñaari nataal yi dañuy desandoo ak màndarga bu wone ne baax na.",
+      "Su ñaari nataal yi wutee, lenn lu bon du am. Bësaatal bu la neexee.",
+      "Ubbi \"Nataal yu nëbbu\" su fekkee rek dafa neex ci yeen ñaar ngir po mi nataal yi tëdd."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Tuddal-leen nataal yi ci seen biir te waxtaan ci: \"Kópp bu xonq. Ndax danga koy def meew?\"",
+      "Bàyyil nit ki ngay toppatoo mu bës ci nataal bi, waxantuma loolu yàgg. Joxeñ ci loxo ëpp na baax bësal ko ko.",
+      "Toogal ci ñeenti nataal lu la neex. Yokk nataal yi dëggu la rek, du palaas boo wara jot.",
+      "Dakkalal feek bég nañu ci ba tey. Benn po rekk doyna seuk."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ndax am na waxtu buñuy xool wala luñuy natt?",
+        "a": "Déedéet. Amul waxtu, amul lim, amul limub loxo, amul it ku ñàkk. Mën nga taxaw bu la neexee, te yem ci digg bi pexe mu baax la ngir jéxal."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Lu tax nataal yi di des di feeñ?",
+        "a": "Bàyyi nataal yi di feeñ dafay def po mi mu doon xool ak boole rekk, waaye du fàttaliku. Nit yu bari dañu koy gën a dalee. Mën nga soppi ko ci nataal yu nëbbu ci benn bës su la neexee."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ndax amul fay, te ndax dafa laaj ma bindu?",
+        "a": "Waaw, amul fay, te amul benn kont, bindu wala yeb. Dafay dox ci dalu web bi ci telefon, tablet wala ordinateer."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Ndax mën nanu jëfandikoo suñuy nataalu njaboot?",
+        "a": "Waaw. Jéemil Nataal yu yem, mën nga tànn nataal yi nekk ci sa loxo. Nataal yi dañuy des ci sa masin te duñu leen yeb mukk ci internet."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Gisal biko mel",
+    "seoTitle": "Gisal Nataal biko Mel: Po Mu Dal ngir Nit ñiy Dund ak Wàññeeku Xel",
+    "h1": "Gisal Nataal biko Mel",
+    "description": "Benn nataal ci kow, ñaar ba ñeent ci suuf. Bësal bi ko mel. Po mu dal te amul fay ngir nit ñiy dund ak wàññeeku xel, te amul waxtu.",
+    "short": "Xoolal nataal bi ci kow te bës biko mel ci suuf.",
+    "players": "1 wala 2 nit",
+    "intro": "Benn nataal moo nekk ci kow seetukaay bi. Ci suufam am na ñaar, ñett wala ñeenti nataal. Bësal bi ko mel. Benn tànneef bu yomb la ci genn yoon, te am na waxtu bu doy ngir waxtaan.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Tànnal ñaar, ñett wala ñeenti nataal ngir tànn ci. Ñaar mooy li gën a yomb.",
+      "Xool-leen nataal bi ci kow àndandoo.",
+      "Bësal nataal biko mel ci suuf. Da nay am màndarga bu wone ne baax na ak kàddu yu rafet.",
+      "Su fekkee bës nga beneen nataal, po mi dina ko tudd rekk te xaar. Xaaral ba nga pare.",
+      "Bësal \"Beneen nataal\" su ngeen paree ngir yeneen."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Waxtaan-leen ci nataal bu nekk laata ngeen di tànn: melo yi, melokaan yi, ak fan ngeen ko mën a gise.",
+      "Ñaari tànneef du \"lu yomb lool\". Liñuy sàkku mooy waxtu bu neex, du xéy-xéyi.",
+      "Su bës bi jafée, nit ki mën na joxeñ ci loxoom nga bësal ko ko."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ndax am na waxtu buñuy xool wala luñuy natt?",
+        "a": "Déedéet. Amul waxtu, amul lim, amul limub loxo, amul it ku ñàkk. Mën nga taxaw bu la neexee, te yem ci digg bi pexe mu baax la ngir jéxal."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Lu xew suñu bësee nataal bi ca dul?",
+        "a": "Lenn lu méti du am. Amul rëk-rëk, amul kurwa bu xonq, wala yëngu-yëngu. Po mi da fay tudd nataal biñu bës rekk te xaar beneen bës."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ndax amul fay, te ndax dafa laaj ma bindu?",
+        "a": "Waaw, amul fay, te amul benn kont, bindu wala yeb. Dafay dox ci dalu web bi ci telefon, tablet wala ordinateer."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Nataal ak këram",
+    "seoTitle": "Po miy Boole Nataal ak Këram ngir Nit ñiy Dund ak Wàññeeku Xel: Amul Fay ci Internet",
+    "h1": "Nataal ak këram: po mu dal ci nataal yi",
+    "description": "Kër gu ñuul ci kow, ñaar ba ñeenti nataal ci suuf. Bësal nataal biy jur kër gi. Po mu dal te amul fay ngir nit ñiy dund ak wàññeeku xel, te amul waxtu.",
+    "short": "Xoolal kër gi te bës nataal biy jur kër gi.",
+    "players": "1 wala 2 nit",
+    "intro": "Boole nataal ak këram po la bu ñu miin ci kayit yi ñuy móol, fii nag nataal yi dañoo mag te amul luñuy móol. Kër gu dal moo nekk ci kow seetukaay bi, te ñaar, ñett ba ñeenti nataal nek ci suuf. Bësal nataal bi jur kër gi. Melokaan yu mel ni velo, parasol wala kópp yomb nañoo waxtaane itam.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Tànnal ñaar, ñett wala ñeenti nataal ngir tànn ci. Ñaar mooy li gën a yomb.",
+      "Xool-leen kër gi àndandoo. Ban melo la am? Ndax dafa njool wala dafa wër?",
+      "Bësal nataal biy jur kër gi. Turam dina feeñ ci suufu kër gi.",
+      "Su fekkee bës nga beneen nataal, po mi dina ko tudd rekk te xaar. Xaaral ba nga pare.",
+      "Bësal \"Beneen kër\" su ngeen paree ngir yeneen."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Toggantalal weti kër gi ak sa baaraam te waxtaan ci melokaanam.",
+      "Su kër gi jafée tay, mën ngeen a dem ci Gisal biko mel, fa nataal yi da ñuy melandoo.",
+      "Waxtaan-leen ci nataal bi suñu ko gisee ba noppi: \"Amoon nanu parasol bu mel nii.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ndax am na waxtu buñuy xool wala luñuy natt?",
+        "a": "Déedéet. Amul waxtu, amul lim, amul limub loxo, amul it ku ñàkk. Mën nga taxaw bu la neexee, te yem ci digg bi pexe mu baax la ngir jéxal."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Ndax lëkkale nataal ak takkandeer baax na ci nit ñiy dundu ak jafe-jafey fàtte?",
+        "a": "Mën na doon po mu neex te yomb ci yenn nit ñi, rawatina ci jëm-kanam bu jëkk bi. Melokaan yi ñoo gëna yomb a ràññee baat yi. Dafay doon ngir bànneexu ak waxtaan, du nattu, te du faj walla dëppal jafe-jafey fàtte. Su fekkee dafay jur tiis walla mer, jéemal « Gis liy niróo » walla ngeen séenandoo rekk nataal yi."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Lu koy dal su bësee ci nataal bu baaxul?",
+        "a": "Lenn lu méti du ci am. Amul coow mu mag, kurwaa bu xonq, mbaa yëngatu. Po mi dafay tuddu nataal bi ñu bës rekk, te xaar bës bi ci topp."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ndax amul pay, te ndax dama wara bindu?",
+        "a": "Waaw, amul pay, te laajul am kont, bindu walla wàcce lenn. Dafa lay doxe rekk ci navigatëru internet ci telefon, taableet walla ordinateer."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Berandoo",
+    "seoTitle": "Poy Ber Nataal ngir Jafe-jafey Fàtte: Berandoo",
+    "h1": "Berandoo: Pon Ber Nataal",
+    "description": "Bësal ci nataal bi, door a bës ci pañe bi mu wara nekk: waañ walla tool, meññeef walla rab. Po mu dal te amul pay ngir nit ñiy dundu ak jafe-jafey fàtte.",
+    "short": "Defal nataal bu nekk ci pañe bi mu bokk: waañ walla tool, ak yeneen.",
+    "players": "1 walla 2 nit",
+    "intro": "Ber dafa doon liggéey bu ñu tam, te di seddal xol ci bés bu nekk, ni denc paj walla boole kawas yi niróo. Bësal ci nataal bi, door a bës ci pañe bi mu wara dem. Kenn du gaawantoo te amul lenn luy réer.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Tànnal benn mbir: waañ ak tool, meññeef ak rab, walla kër ak tukki.",
+      "Bësal ci benn nataal. Dafay am peeg bu mboq.",
+      "Bësal ci pañe bi mu bokk. Nataal bi dafay duggu ci pañe boobu.",
+      "Su fekkee ca geneen pañe la wara dem, po mi dafay wax loolu ci dal te xaar.",
+      "Bu nataal yépp beree ba noppi, xoolandooleen li nekk ci pañe yi."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Ci dundin gu dëgg, léeg-léeg amul tontu bu baaxul. Su nit ki waxee ne roosoor ci waañ bi la wara nekk, laaj ko lu tax. Mën nga ci am nettali bu neex.",
+      "Jëfandikool nataal yi ngir sos waxtaan: « Lan nga daan ji ci sa tool? »",
+      "Ber jëfkaay yu dëgg, ni kuddu ak fursyet walla butoŋ yu wuute melo, doon na luy gën a teey bu ngeen gënee ca seetluukaay ba."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ndax am na waxtu walla poñ?",
+        "a": "Déedéet. Amul montor, poñ, nattul yoon yi nga bës, te kenn du ci ñàkk. Mën nga dakkal saa yu la neexe, te yem ci digg bi it doon na fason bu baax ngir noppi."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Lu tax ber dafa baax?",
+        "a": "Nit yu bare dañuy kontaan ci ber ndax dafay mel ni liggéey bu am njariñ te yomb a xàmme. Yomb na it ngir waxtaane nataal yi fi ngeen di jëme kanam."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ndax amul pay, te ndax dama wara bindu?",
+        "a": "Waaw, amul pay, te laajul am kont, bindu walla wàcce lenn. Dafa lay doxe rekk ci navigatëru internet ci telefon, taableet walla ordinateer."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Póoselu nataal",
+    "seoTitle": "Póoselu Nataal bu Yomb ngir Jafe-jafey Fàtte: 4 walla 9 Dog",
+    "h1": "Póoselu Nataal: Poy Tàccalante bu Yomb",
+    "description": "Póoselu nataal bu yomb ci internet ngir nit ñiy dundu ak jafe-jafey fàtte: 4 walla 9 dog yu mag, nataal bépp dafay féex fi kaw, te dangay bës ñaari dog ngir ñu wéccalante.",
+    "short": "Bësal ñaari dog ngir wéccalante leen ba nataal bi mat sékk.",
+    "players": "1 walla 2 nit",
+    "intro": "Nataal bu rafet lañu dagg ci ñent walla juroom-ñent dog yu mag te jaxase leen. Nataal bi yépp dafay féex ngir won leen yoon wi. Bësal ci benn dog, door a bës ci beneen, ñu wéccoo barab. Laajul xëcc mbaa dëddal lenn.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Tànnal benn nataal ak 4 walla 9 dog. Ñent dafa baax ngir tambalee ci dal.",
+      "Xoolal nataal bi yépp ci kaw.",
+      "Bësal ci benn dog, door a bës ci barab bi mu wara dem. Ñaari dog yi dañuy wéccoo.",
+      "Dog yi nekk ci barab bu baax dañuy am màrk bu ndaw.",
+      "Bu nataal bi matee, xoolandooleen ko ak bànneex, door a tànn beneen."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Bës ñaari dog ngir wéccalante leen gëna yomb xëcc ci nit yu bare.",
+      "Waxtaaneleen nataal bi bu muy tàccaloo: « Kër ga a ngi ni ak tët bu xonq bi. »",
+      "Póoselu bant bu dëgg bu am 12 ba 24 dog yu mag it po mu rafet la ci taabal ji."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ndax am na waxtu walla poñ?",
+        "a": "Déedéet. Amul montor, poñ, nattul yoon yi nga bës, te kenn du ci ñàkk. Mën nga dakkal saa yu la neexe, te yem ci digg bi it doon na fason bu baax ngir noppi."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Ndax dama wara xëcc dog yi?",
+        "a": "Déedéet. Bësal ci benn dog, door a bës ci beneen, dañuy wéccoo barab. Loolu gëna yomb su loxo biy yëngatu walla ci seetluukaay bu tuuti."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ndax amul pay, te ndax dama wara bindu?",
+        "a": "Waaw, amul pay, te laajul am kont, bindu walla wàcce lenn. Dafa lay doxe rekk ci navigatëru internet ci telefon, taableet walla ordinateer."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Mottali léebu bi",
+    "seoTitle": "Mottali Léebu bi: Pon Léebu ngir Mag ñi",
+    "h1": "Mottali Léebu bi",
+    "description": "Léebuy réewum Amerik yu siw yu baat bu mujj bi des, ni « Dëram bu ñu denc mooy dëram bu ñu ___ ». Bësal ci benn tontu walla wonel mujjantal gi, door cee waxtaan.",
+    "short": "Mottali-andooleen léebu yu siw yi, door cee waxtaan.",
+    "players": "1, 2 nit walla mbooloo",
+    "intro": "Léebu yu yàgg yii dañu leen xam lu bare ci dundu gi yépp. Kaart bu nekk dafay won léebu bu siw bu baat bu mujj bi des, ñetti tontu, ak butoŋ buñu bind « Wonel mujjantal gi ». Bu mujjantal gi gënee, laaj bu dal dafay sàkku waxtaan.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Jàngandooleen léebu bi ci kaw.",
+      "Bësal ci baat biy mottali, walla bës ci « Wonel mujjantal gi ».",
+      "Jàngaatal léebu bi ba mu mat te waxtaane ko ak laaj bi.",
+      "Bësal ci « Léebu bi ci topp » bu ngeen paree."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Jàngal ci ndànk te bàyyi ab diir laata baat bu mujj bi. Léeg-léeg nit ki da koy wax laata ngay noppi.",
+      "Su kenn waxee beneen mujjantal, bànneexuleen ci. Yenn léebu yi dañuy wuute aande ak njaboot gi walla gox bi.",
+      "Su ngeen nekkee ci mbooloo, nit kenn kiy jàng te ñépp bokk wax mujjantal gi."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ndax am na waxtu walla poñ?",
+        "a": "Déedéet. Amul waxtu buy daw, poñ, konteer, te amul ku ci mën a ñàkk. Mën nga ko taxawal saa su la neexee, te yemale ko ci digg bi itam yoon la."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Lu ciy xew su nu tànnee baat bu wute?",
+        "a": "Poo mi dafay wone li ci bare nit ñi di wax, daal di jàll ci waxtaan wi. Amul poñ, te benn tontu bu wute itam baax na lool."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ndax amu fi fay, te ndax laaj na ma bindu ci?",
+        "a": "Waaw, kenn du ci fay dara, te amul kont, bindu walla yeb lenn ci sa masin. Mën nga ci dugg ci navigatèeru telefon, taableet mbaa ordinatèer."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Seet baat yu araf yu mag",
+    "seoTitle": "Seet baat yu araf yu mag ñeel ñiy dund ak jafe-jafey fatte, mën a móol",
+    "h1": "Seet Baat Yu Araf Yu Mag",
+    "description": "Seet baat yu amul fay te araf yi mag, ñeel mag ñi ak ñiy dund ak jafe-jafey fatte. Baat yi néew nañu, araf yi rëy nañu, te dafa jëm ci wet mbaa ci suuf rekk. Mën nga ko pooye ci internet walla nga móol ko.",
+    "short": "Araf yu mag, baat yu néew, ci wet mbaa ci suuf rekk. Mën nga ko móol itam.",
+    "players": "1 walla 2 nit",
+    "intro": "Tabloo bu ndaw bu am araf yu mag ak yenn baat yu néew, yu jëm ci wet walla ci suuf rekk. Cuqal ci araf bu jëkk bi ci baat bi, daal di cuq ci bu mujj bi. Ndax kaŋkat yi nga gën a bëgg? Móolal poo bu bees ci benn cuq rekk.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Tànnal tem bi ak rëyaayu tabloo bi.",
+      "Xoolal limu baat yi. Baat yi dañuy jëm ci wet (cammooñ ba ndeyjoor) walla ci suuf (kow ba suuf).",
+      "Cuqal ci araf bu jëkk bi ci baat bi, daal di cuq ci araf bu mujj bi.",
+      "Soo gisee baat bi, dafay leer te ràccu ci lim bi.",
+      "Cuqal ci \"Móolal poo mii\" ngir pooye ko ci kayit ak xalima walla feetr."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Tànnal benn baat ci lim bi, ngeen séeddoon a seet araf bu jëkk bi.",
+      "Ci kayit, feetr bu rëy bi dafa gën a yomb a teye xalima bi.",
+      "Waxtaaneel baat yu tem bi. Baat yu meññeef dañuy ubbil nit yoon ci fatteeku góob, toog mbaa ja yi."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ndax am na waxtu buy daw mbaa poñ?",
+        "a": "Déedéet. Amul waxtu buy daw, poñ, konteer, te amul ku ci mën a ñàkk. Mën nga ko taxawal saa su la neexee, te yemale ko ci digg bi itam yoon la."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Ndax mën naa móol seet baat bi?",
+        "a": "Waaw. Cuqal ci \"Móolal poo mii\" ngir móol tabloo bi ak araf yu mag, te limu baat yi nekk ci suuf. Poo bu bees bu nekk dafa wute."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ndax amu fi fay, te ndax laaj na ma bindu ci?",
+        "a": "Waaw, kenn du ci fay dara, te amul kont, bindu walla yeb lenn ci sa masin. Mën nga ci dugg ci navigatèeru telefon, taableet mbaa ordinatèer."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Xëti ñaal",
+    "seoTitle": "Xëti ñaal ñeel mag ñiy dund ak jafe-jafey fatte (Amul fay)",
+    "h1": "Xëti Ñaal",
+    "description": "Xëti ñaal yu yomb te jëm ci mag ñi, am barab yu yaa: cuqal ci benn kulëer, daal di cuq ci nataal bi. Tilimul, amul kulëer gu baaxul, te xët bu nekk mën nga ko móol te doo fay dara.",
+    "short": "Cuqal ci benn kulëer, daal di cuq ci wàllu nataal bi. Mën nga móol xët yi itam.",
+    "players": "1 walla 2 nit",
+    "intro": "Xët yu am mbind yu mag te yomb: tóor-tóor ci mboos, kër, kaasub àttaya, lëpp-lëpp ak gaal bu am wëñ. Cuqal ci benn kulëer, daal di cuq ci wàllu nataal bi ngir tër ko. Amul mukk kulëer gu baaxul.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Tànnal benn xët.",
+      "Cuqal ci benn kulëer. Kulëer bu nekk turam bindu na ci.",
+      "Cuqal ci wàllu nataal bi ngir fessal ko ak kulëer gogu.",
+      "Mën nga soppi sa xalaat saa su la neexee soo ko fessalee beneen yoon.",
+      "Cuqal ci \"Móolal xët wii\" ngir am xët wu weex woo mën a ñaale ak xalima mbaa feetr."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Jox ko ñaari kulëer rekk ci li ngay joxe yépp, su dee tànn gi dafa metti ci moom.",
+      "Garab yu wiyole ak jant bu bloo ñëw leen ak jàmm. Li am solo mooy bég ci kulëer yi, waaye du wax dëgg-dëggi melokaan bi.",
+      "Xët yi ñu móol dañuy baax lool ak feetr mbaa xalima yu rëy, yu gën a yomb a teye."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ndax am na waxtu buy daw mbaa poñ?",
+        "a": "Déedéet. Amul waxtu buy daw, poñ, konteer, te amul ku ci mën a ñàkk. Mën nga ko taxawal saa su la neexee, te yemale ko ci digg bi itam yoon la."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Ndax xët yii dañuy yor melokaanu xale torop?",
+        "a": "Danoo nataal yëf yu dal te yomb, waaye du desëñu xale, ngir xët yi yem ci mag ñi. Mbind yu mag yi dañuy tax ñaal gi yomb te du mel ni lu ñeel xale yu ndaw."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ndax amu fi fay, te ndax laaj na ma bindu ci?",
+        "a": "Waaw, kenn du ci fay dara, te amul kont, bindu walla yeb lenn ci sa masin. Mën nga ci dugg ci navigatèeru telefon, taableet mbaa ordinatèer."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kàrti waxtaan",
+    "seoTitle": "Ubbikaayu waxtaan ngir ñiy dund ak jafe-jafey fatte: Kàrt yu am nataal",
+    "h1": "Kàrti Waxtaan",
+    "description": "Kàrt yu am nataal yu yor ubbikaayu waxtaan yu lewet ñeel ñiy dund ak jafe-jafey fatte: amul laaj ak tontu, amul tontu bu baax. Jëfandikoo ko ci ekran bi walla nga móol mbooleem kàrt yi.",
+    "short": "Kàrt yu am nataal ak laaj yu yaa te lewet. Amul laaj ak tontu.",
+    "players": "2 nit mbaa mbooloo",
+    "intro": "Kàrt bu nekk dafa boole nataal bu ñu xam ak laaj bu ubbiku ngir waxtaan, ni \"Ban jamono ci at mi nga gën a bëgg?\" Amul tontu bu baax te amul lenn loo war a fatteeku. Tànnal benn tem mbaa nga jaxase leen yépp.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Tànnal benn tem, mbaa nga bàyyi ko ci \"Mbooleem kàrt yi\".",
+      "Jàngal laaj bi ci kow te ngeen xoolandoo nataal bi.",
+      "Déglul, wax sa tontu itam, te ngeen bàyyi waxtaan wi dox na mu ko neexe.",
+      "Cuqal ci \"Kàrt bi ci tegu\" soo paree, mbaa nga toog ci benn kàrt lu la neex.",
+      "Cuqal ci \"Móolal kàrt yépp\" ngir dagg kàrt yu kayit."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Tontul ci laaj bi sa bopp itam. Loolu dafay tax mu mel ni waxtaan, waaye du mel ni sontuwaan.",
+      "Toppal netti bi, waaye bu topp li xewoon ci dëgg. Su yenn mbir yi soppikoo itam baax na.",
+      "Su kàrt bi yéegee yëg-yëg bu metti, nangu ko ci xol te daal di jàll ci beneen kàrt ci lewaat."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Lu tax amul laaj yu mel ni \"Ndax fàtteeliku nga…?\"?",
+        "a": "Laaj yiy seet xel ak fàtteeliku mën nañu mel ni ekzame te mën na indi gàcce. Laaj yu ubbiku yu mel ni \"Nettali ma ci…\" dañuy may ñépp ñu bokk ci waxtaan wi, lu ñu ci mën a fàtteeliku rekk."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Ndax mën naa móol kàrt yi?",
+        "a": "Waaw. \"Móolal kàrt yépp\" dafay móol mbooleem kàrt yi ak araf yu mag, ay kàrt yu bare ci benn xët, yu pare ngir ñu dagg leen."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ndax amu fi fay, te ndax laaj na ma bindu ci?",
+        "a": "Waaw, amul benn fay, te laajul am konte, bindu mbaa yeb. Ci jataayu web bi lay dox ci telefon, tablet mbaa ordinateer."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Ñaari nataal yu bokk",
+    "seoTitle": "Defar poom boole ay nataali njaboot gi",
+    "h1": "Ñaari nataal yu bokk: Boole sa nataal yu bopp",
+    "description": "Defal sa nataali njaboot po mu dal ci xel ngir boole leen. Tànnal 2 ba 6 nataal ci sa masin; dañuy des ci sa jataay te duñu leen yeb mukk.",
+    "short": "Tànnal sa nataal yu bopp te nga boole leen. Dara du yéeg.",
+    "players": "2 nit, ñu toog wet-ak-wet",
+    "intro": "Tànnal ñaar ba juroom-benn nataal ci sa telefon, tablet mbaa ordinateer, ñu nekk po mu leeral te yaatu ngir boole leen. Nataal yi ci biir xët wii rekk lañuy feeñ. Duñu leen yeb ci internet, denc leen mbaa séddoo leen, te dañuy dëddu bu ngeen tëjee xët wi.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Bëssal « Tànn ay nataal » te nga tànn ñaar ba juroom-benn nataal.",
+      "Nataal bu nekk ñaari yoon lay feeñ. Bëssal benn, ba noppi nga bëss moroom ma.",
+      "Waxtaanleen ci nataal bu nekk bu ngeen ko gisee.",
+      "Bu ngeen noppee, tëjleen xët wi mbaa bëss « Dindi nataal yi ». Dara du fi des."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Tànnleen nataal yu leer yu am mbégte te nit ki xam leen: mala mu bokk ci kër gi, tool, barab bu mu bëgg, mbaa bésub séy.",
+      "Nataali barab ak yëf mën nañu gëna yomb xam kanam, te du metti ci nit ki ngir lim tur yi.",
+      "Bàyyileen nataali ñi fi bàyyikoo bu dee mën na indi naqar, lu dul ni yéena xam ne dëfal na xol."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Ndax samay nataal dañuy yéeg ci benn barab?",
+        "a": "Déedéet. Xët wi ci sa jataayu web rekk lay jànge nataal yi nga tànn te wone leen ci sa seetlu. Duñu leen yónnee ci nun mbaa keneen, te dañuy dindi bu ngeen tëjee mbaa feddali xët wi."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ndax am na xibaarub waxtu mbaa am ay poñ?",
+        "a": "Déedéet. Amul waxtu, poñ, waññ ay yëngu mbaa pert. Mën ngeen dakkal saa yu leen neexee, te yem ci digg bi itam yoon la ngir noppi."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Ndax mën naa denc po mi ngir yeneen yoon?",
+        "a": "Déedéet ci jataay bi, noonu lañu ko tërële ngir dara lu sutura du fi des. Loxokaay bu amul fay bii di Golden Moments ngir iPhone ak iPad mën na denc ay koppar yu nataal yi ci sa masin."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ak nataal",
+    "seoTitle": "Bingo ak nataal ngir mag ñiy dund ak jàqle ci xel: Mën ngeen ko móol",
+    "h1": "Bingo ak nataal ngir mbooloo",
+    "description": "Bingo ak nataal bu amul fay buñu mën a móol ngir toppatoo mag ñi ak mbooloo yi, ak seetlukat bu mag ci seetlu. Nataal yu mag ak baat, 9 mbaa 16 kaare, laajul jàng.",
+    "short": "Karti bingo yu am nataal yuy móol ak seetlukat bu mag ngir mbooloo.",
+    "players": "Mbooloo mu tollu ci 2 ba 30 nit",
+    "intro": "Bingo yu màggat ak nataal ci barabu lim yi, ngir kenn du soxla jàng mbind yu tuut. Móolleen ay kart yu wuute, ba noppi jëfandikoolen seetlukat bi ci seetlu ngir wone nataal bu mag ci tele, ordinateer mbaa tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Tànnleen 9 mbaa 16 kaare ci kart bu nekk ak ñata pootikat ñooy am.",
+      "Bëssal « Móol kart yi ». Kart bu nekk dafa wuute.",
+      "Ubbi seetlukat bi ci seetlu bu mag. Bëssal « Nataal bi tegu » ngir wone nataal bu nekk ak turam.",
+      "Poowulkat yi dañuy muur nataal bi ci seen kart ak koppar, butoŋ mbaa màrkëër.",
+      "Képp ku feesal ab rëdd mbaa kart gépp am na tàccu. Amul ñu perte ci maniyeer bii: wéyleen di po ba keroog ñépp di am ab rëdd."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Jëfandikoolen jumtukaay yu mag ni dame mbaa teegalub buteel. Butoŋ yu ndaw mën nañu jafe tëye.",
+      "Limleen turu nataal bi te wax ci lenn: « Gaalug ngelaw. Kan moo mas a dem ci biir gaal? »",
+      "Toogalleen ñi am jafe-jafey gis ci wetu seetlu bi, te ngeen boole ndimbal ak ñi ko soxla.",
+      "Juroom-ñeenti kaare doy na ci mbooloo yu bari. Teeyleen po mi ci 20 ba 30 simili."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Naka lañuy doxale bingo ak nataal ci kër mag ñi?",
+        "a": "Móollal benn kart ci poowulkat bu nekk, teg seetlukat bi ci seetlu bi gëna mag bu ngeen am, te woo nataal yi ndànk-ndànk di lim tur bu nekk. Poleen ba keroog ñépp di am ab rëdd ngir kenn du des gannaaw."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Ndax móol gi amul fay?",
+        "a": "Waaw. Móolleen limu kart yi ngeen soxla, saa yu leen neexee, ngir yeen rekk mbaa ngir mbooloo."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Ndax nit ñi mën nañu po te duñu jàng?",
+        "a": "Waaw. Kaare bu nekk nataal bu mag la, ak turam ci suuf ngir ñi bëgg baat."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Noo gu dal",
+    "seoTitle": "Noytalug noo gu dal ngir mag ñi ak toppatookat yi",
+    "h1": "Noytalug noo gu dal",
+    "description": "Noytalug noo gu ndànk te dal ngir bokk ko: kurwel bu dal day réy di tuuti ci juroom-benni noo. Yaa koy tambali, te mën nga ko taxawal saa yu la neexee.",
+    "short": "Kurwel bu ndànk ngir noo ak moom. Tambalil te nga dakkal bu la neexee.",
+    "players": "1 mbaa 2 nit",
+    "intro": "Yenn saa yi defaraat bu gën mooy noytalu gu dal. Bëssal « Tambali », ba noppi ngeen noo ci biir bi kurwel bi di réy te génne nooyi bi muy tuuti. Tànnleen kaada bu gëna ndànk mbaa bu gëna gaaw. Du fajum dara, waaye jamono jàmm la ngir bokk ko.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Toogleen ci dal wet-ak-wet.",
+      "Tànnleen kaada: bu ndànk mbaa bu nooy.",
+      "Bëssal « Tambali ». Nooleen ci biir bi kurwel bi di réy, génne nooyi bi muy tuuti.",
+      "Dafay taxaw ci boppam gannaaw juroom-benni noo, mbaa nga bëss « Taxawal » saa yu la neexee."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Jàppleen loxo mbaa ngeen teg loxo ci loxoom bu dee nangu na ko.",
+      "Buleen gaañ-gaañle mukk. Bu gënaloo seet rekk, loolu it baax na.",
+      "Bu nit ki amee jafe-jafey noo, nooleen ni ngeen baaxoowee te seet rekk kurwel bi. Laajleen doktoor ci lépp luy jafe-jafey noo."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Ndax lii poom noo gu faj la?",
+        "a": "Déedéet. Noytalu gu yomb te baax ngir dalal xol ak ànd la rekk. Du faju jaaxle mbaa benn wopp. Waxtaanleen ak doktoor bu ngeen amee jafe-jafey wér-gu-yaram."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Ndax kurwel bi day yëngu te tambaliwu ma ko?",
+        "a": "Déedéet. Dara du yëngu ba keroog ngay cuq ci Start, te day taxaw gannaaw juróom-benni nooyi walla soo cuqee ci Stop. Su fekkee ni sa aparey dañu ko tëral ngir wàññi yëngu-yëngu yi, baat yi dañuy soppiku te wërngal bi du màgg."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ndax amul fay, te ndax laaj na ma bindu?",
+        "a": "Waaw, amul fay, te amul benn kont, mbindu walla yeb. Day dox ci biir navigateur web ci telefon, taableet walla ordinatëer."
       }
     ]
   }
