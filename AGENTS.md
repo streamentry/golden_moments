@@ -16,8 +16,8 @@ and dignity matter more than completion, engagement, or a score.
 - Store candidate: **Dementia Games: Golden Moments**.
 - Subtitle: **Alzheimer's Photo Activities**. Device label: **Golden Moments**.
 - First screenshot: **Simple Dementia Activities**.
-- Target: 10,000 cumulative first-time US installs in 12 months, not MAU or
-  payers. This is a goal, not a forecast. Google volume is not App Store demand.
+- Target: 10,000 cumulative first-time installs worldwide in 12 months (was
+  US only; maintainer decision 2026-11-08), not MAU or payers. This is a goal, not a forecast. Google volume is not App Store demand.
 - Prioritize reliable offline start, easy shared play, selected family photos,
   and measured usability. Do not add infrastructure to compensate for weak use.
 - AI-assisted development is welcome; AI processing in the shipped app is not

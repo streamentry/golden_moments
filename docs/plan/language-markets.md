@@ -153,8 +153,67 @@ Chinese and Arabic; and under-indexed in French, Spanish and Portuguese, where
 searchers type *Alzheimer*. Keep *Golden Moments* as the device label and lead
 the local subtitle and keywords with the local Alzheimer or activities phrase.
 
+## 6. Website search: where to compete (decided 2026-11-08)
+
+The goal counts first-time installs in every country (maintainer decision
+2026-11-08), so the site competes where demand is high and search results are
+weak, not where it is used to working. Links to any page build authority for the
+whole domain; local links help rankings in that country.
+
+**Measurement (2026-11-08, one session, not repeated).** 31 queries in 14 language
+markets on Bing with market parameters, 6 cross-checked on Google. Each top-10
+result was graded by hand from domain and title: A = government, national
+association, Wikipedia, major hospital or national media; B = care chains, clinics,
+established publishers; C = small blogs, forums, listicles. Google `site:` counts
+are approximate; Bing would not return real `site:` counts in an automated session.
+Demand is the section 1 count of people living with dementia; search volumes are
+still unmeasured, so this ranks effort, it does not forecast installs.
+
+| Market | Demand (section 1) | Competition measured | Google `site:` pages | Verdict |
+| --- | --- | --- | --- | --- |
+| Japanese | 4.71M | No A in either query; care-staff job media hold "レクリエーション"; most results sell prevention | ~77 | **Focus** |
+| Spanish (ES, MX, LatAm) | MX 1.3M, ES 984k, plus LatAm and US | No A on Bing; Sanitas, psicologia-online, alzheimeruniversal; Mexico is served Spanish pages from Spain, none Mexican | ~38 | **Focus** |
+| Portuguese (BR) | 1.8-2.7M | At most one A; clinics and care services | **9** | **Focus**, after fixing indexing |
+| Italian | 1.48M | 8 of 10 small blogs on the games query; one A | ~36 | **Focus** |
+| English long tail (problems, devices) | US 7.4M, UK 982k, CA, AU | "ipad games for dementia": 7 C, no A; visiting-a-parent query mostly B | ~1,880 (whole domain) | **Focus** |
+| Polish | 618k | No A on the games query; our machine-translated page already ranks #5 on Bing | ~34 | Quick win: native-review the ranking pages |
+| Indonesian, Vietnamese | VN est. 540k; ID not counted | Little native content: Google fills 5 of 8 (ID) and 8 of 10 (VI) slots with English pages | ~41, ~76 | Cheap opportunity: no outreach, review a few pages |
+| Korean | about 1M | Bing nearly empty (7 and 4 results), but Naver dominates and was not measured | ~76 | Hold until Naver is checked |
+| Chinese (Traditional) | Taiwan 270k+ | Major news sites; a free hobbyist tool already ranks #5 | **10** | Hold; fix indexing |
+| German | 1.8M | One A per query plus pflege.de; an Austrian site already has playable games | ~46 | Later |
+| French | 1.0-1.4M | France Alzheimer, sante.fr, research foundation | ~76 | Later |
+| Dutch | 313k | Alzheimer Nederland, dementie.nl, Vilans hold 5 A slots | ~38 | Skip |
+| English head terms | as above | Alzheimer's Association, NHS, care chains; 4 A of 8 on Google | as above | Skip for now |
+
+Almost nothing in any top 10 can be played in the browser right away: six
+playable results in 31 Bing result sets. Every focus page should lead with the
+playable activity, not a list about activities.
+
+Rules:
+
+- **Focus markets get native review first.** Review the pages that can rank (the
+  home page, the games and activities hubs, and the guides matching section 5
+  phrases) rather than all 40 guides; a native speaker also checks that no page
+  implies prevention, which local results in Japanese, Korean and Indonesian
+  often sell and we do not claim.
+- **Links per focus market.** The national association in section 4, then two or
+  three established local care publishers. Pitch only after review, because the
+  link sends people to that page. English links still lift every language.
+- **English.** Write for the long tail (one problem or one device per page);
+  do not chase head terms until the domain has earned links.
+- **Indexing.** Find out why Google lists only 9 Portuguese and 10 Traditional
+  Chinese pages while other languages list 34 to 77 (sitemap, hreflang,
+  canonical), and fix it before any outreach there.
+- **Re-measure with real data.** After Search Console and Bing are verified, wait
+  6 to 8 weeks and re-rank by impressions per market; data overrides this table.
+- **Unreviewed languages.** About 3 months after verification, set `noindex` on
+  any language with no indexed pages or no impressions, to protect the rest of the
+  domain from looking like machine-made content at scale.
+- **Outside the US,** localized store listings bring installs more directly than
+  the website; treat non-English pages as support for those listings.
+
 <!-- cspell:enable -->
-## 6. Not verified
+## 7. Not verified
 
 Per-country App Store revenue ranks beyond the US and China; Alzheimer Europe
 2025 country rows (aggregator); Russia, Türkiye, Vietnam, Indonesia and Egypt
