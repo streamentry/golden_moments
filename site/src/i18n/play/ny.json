@@ -450,217 +450,217 @@
       },
       "cards": [
         {
-          "theme": "chakudya",
+          "theme": "food",
           "picture": "bread",
           "prompt": "Ndi fungo liti la kukhitchini lomwe mumakonda kwambiri?"
         },
         {
-          "theme": "chakudya",
+          "theme": "food",
           "picture": "cake",
           "prompt": "Mungasankhe keke yamtundu wanji pa phwando?"
         },
         {
-          "theme": "chakudya",
+          "theme": "food",
           "picture": "apple",
           "prompt": "Mundiuze za pai ya zipatso kapena chakudya chotsekemera chimene mumakonda."
         },
         {
-          "theme": "chakudya",
+          "theme": "food",
           "picture": "teacup",
           "prompt": "Mumakonda tiyi kapena khofi bwanji?"
         },
         {
-          "theme": "chakudya",
+          "theme": "food",
           "picture": "frying-pan",
           "prompt": "Nchiyani chimapangitsa chakudya cham'mawa kukhala chabwino?"
         },
         {
-          "theme": "chakudya",
+          "theme": "food",
           "picture": "strawberry",
           "prompt": "Kodi munayamba mwathyola zipatso mwachindunji pamtengo?"
         },
         {
-          "theme": "chakudya",
+          "theme": "food",
           "picture": "lemon",
           "prompt": "Chotsekemera kapena chowawasa: chiti chimene mumakonda kwambiri?"
         },
         {
-          "theme": "chakudya",
+          "theme": "food",
           "picture": "cherries",
           "prompt": "Ndi chakudya chiti chomwe chimakukumbutsani chilimwe?"
         },
         {
-          "theme": "kunyumba",
+          "theme": "home",
           "picture": "house",
           "prompt": "Mundiuze za nyumba yomwe munkakonda kukhalamo."
         },
         {
-          "theme": "kunyumba",
+          "theme": "home",
           "picture": "armchair",
           "prompt": "Ndi malo ati omwe mumakonda kukhalapo kuti mupumule?"
         },
         {
-          "theme": "kunyumba",
+          "theme": "home",
           "picture": "lamp",
           "prompt": "Mumakonda kuchita chiyani madzulo abata?"
         },
         {
-          "theme": "kunyumba",
+          "theme": "home",
           "picture": "key",
           "prompt": "Ndi chuma chiti chimene mungasunge m'bokosi lapadera?"
         },
         {
-          "theme": "kunyumba",
+          "theme": "home",
           "picture": "kettle",
           "prompt": "Mungaitane ndani kudzamwa tiyi?"
         },
         {
-          "theme": "kunyumba",
+          "theme": "home",
           "picture": "umbrella",
           "prompt": "Mumakonda kuchita chiyani pa tsiku lamvula?"
         },
         {
-          "theme": "kunja",
+          "theme": "outdoors",
           "picture": "sunflower",
           "prompt": "Mungadzale maluwa otani m'munda?"
         },
         {
-          "theme": "kunja",
+          "theme": "outdoors",
           "picture": "tree",
           "prompt": "Mundiuze za mtengo kapena paki yomwe mumakonda."
         },
         {
-          "theme": "kunja",
+          "theme": "outdoors",
           "picture": "watering-can",
           "prompt": "Ndi mbali iti yabwino kwambiri yokhala m'munda?"
         },
         {
-          "theme": "kunja",
+          "theme": "outdoors",
           "picture": "tulip",
           "prompt": "Maluwa amtundu wanji omwe mumakonda kwambiri?"
         },
         {
-          "theme": "kunja",
+          "theme": "outdoors",
           "picture": "potted-plant",
           "prompt": "Kodi mumakonda kukhala ndi zomera m'nyumba?"
         },
         {
-          "theme": "kunja",
+          "theme": "outdoors",
           "picture": "sun",
           "prompt": "Mukuganiza kuti tsiku ladzuwa labwino ndi lotani?"
         },
         {
-          "theme": "zinyama",
+          "theme": "animals",
           "picture": "dog",
           "prompt": "Mundiuze za galu yemwe mudamudziwapo."
         },
         {
-          "theme": "zinyama",
+          "theme": "animals",
           "picture": "cat",
           "prompt": "Amphaka kapena agalu, kapena palibe? Mumakonda chiyani mwa iwo?"
         },
         {
-          "theme": "zinyama",
+          "theme": "animals",
           "picture": "bird",
           "prompt": "Ndi mbalame ziti zomwe mumaona kapena kumva kunja?"
         },
         {
-          "theme": "zinyama",
+          "theme": "animals",
           "picture": "fish",
           "prompt": "Kodi munayamba mwapita kukasodza nsomba, kapena kusunga thanki ya nsomba?"
         },
         {
-          "theme": "zinyama",
+          "theme": "animals",
           "picture": "butterfly",
           "prompt": "Ndi nyama iti yokongola kwambiri yomwe mudayiwonapo?"
         },
         {
-          "theme": "kuyenda",
+          "theme": "travel",
           "picture": "car",
           "prompt": "Mundiuze za galimoto yomwe mumakonda."
         },
         {
-          "theme": "kuyenda",
+          "theme": "travel",
           "picture": "sailboat",
           "prompt": "Mungakonde kukhala tsiku limodzi kugombe kapena kumapiri?"
         },
         {
-          "theme": "kuyenda",
+          "theme": "travel",
           "picture": "bicycle",
           "prompt": "Mungakonde kupita kuti mukayende?"
         },
         {
-          "theme": "kuyenda",
+          "theme": "travel",
           "picture": "balloon",
           "prompt": "Mukanatha kuwuluka pa malo aliwonse, ndi kuti kumene mukanapita?"
         },
         {
-          "theme": "kuyenda",
+          "theme": "travel",
           "picture": "lighthouse",
           "prompt": "Ndi ulendo uti womwe munasangalala nawo?"
         },
         {
-          "theme": "ntchito",
+          "theme": "work",
           "picture": "key",
           "prompt": "Ndi ntchito yamtundu wanji yomwe munasangalala kuchita?"
         },
         {
-          "theme": "ntchito",
+          "theme": "work",
           "picture": "watering-can",
           "prompt": "Ndi chosangalatsa chiti chomwe mungathe kuchitapo maola ambiri?"
         },
         {
-          "theme": "ntchito",
+          "theme": "work",
           "picture": "bread",
           "prompt": "Ndi chinthu chiti chimene anthu ankakudziwani nacho chifukwa chopanga kapena kukonza?"
         },
         {
-          "theme": "ntchito",
+          "theme": "work",
           "picture": "house",
           "prompt": "Mungapatse malangizo ati munthu wachichepere yemwe akuyamba ntchito?"
         },
         {
-          "theme": "nyimbo",
+          "theme": "music",
           "picture": "balloon",
           "prompt": "Nyimbo zamtundu wanji zimakupangitsani kufuna kuponda phazi?"
         },
         {
-          "theme": "nyimbo",
+          "theme": "music",
           "picture": "cake",
           "prompt": "Nchiyani chimapangitsa phwando kukhala labwino?"
         },
         {
-          "theme": "nyimbo",
+          "theme": "music",
           "picture": "lamp",
           "prompt": "Ndi woimba uti yemwe mumakonda kumvetsera?"
         },
         {
-          "theme": "nyimbo",
+          "theme": "music",
           "picture": "armchair",
           "prompt": "Ndi kanema kapena pulogalamu ya pa TV iti yomwe mumakonda kuonanso?"
         },
         {
-          "theme": "nyengo",
+          "theme": "seasons",
           "picture": "sun",
           "prompt": "Mumakonda kwambiri chiyani pa chilimwe?"
         },
         {
-          "theme": "nyengo",
+          "theme": "seasons",
           "picture": "tree",
           "prompt": "Mumakondwera ndi chiyani pa nthawi yamasamba akugwa?"
         },
         {
-          "theme": "nyengo",
+          "theme": "seasons",
           "picture": "moon",
           "prompt": "Ndi chinthu chiti chosangalatsa kuchita madzulo a nthawi yozizira?"
         },
         {
-          "theme": "nyengo",
+          "theme": "seasons",
           "picture": "tulip",
           "prompt": "Kodi zizindikiro zoyamba za masika kwa inu ndi ziti?"
         },
         {
-          "theme": "nyengo",
+          "theme": "seasons",
           "picture": "umbrella",
           "prompt": "Chipale chofewa, mvula kapena dzuwa: chiti chimene mumakonda kwambiri?"
         }
