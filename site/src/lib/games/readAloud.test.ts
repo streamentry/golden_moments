@@ -1,9 +1,9 @@
 import { describe, expect, it, vi } from 'vitest';
-import { readAloud, speechOf, stopReading, type SpeechLike } from './readAloud';
+import { createUtterance, readAloud, speechOf, stopReading, type SpeechLike, type UtteranceLike } from './readAloud';
 
-function fakeSynth(): SpeechLike & { spoken: unknown[]; cancelled: number } {
+function fakeSynth(): SpeechLike & { spoken: UtteranceLike[]; cancelled: number } {
   return {
-    spoken: [] as unknown[],
+    spoken: [] as UtteranceLike[],
     cancelled: 0,
     speaking: false,
     speak(u) {
@@ -36,12 +36,58 @@ describe('speechOf', () => {
   });
 });
 
+describe('createUtterance', () => {
+  it('returns fallback object when SpeechSynthesisUtterance is not globally defined', () => {
+    const u = createUtterance('Test fallback', 'en', 0.85);
+    expect(u.text).toBe('Test fallback');
+    expect(u.lang).toBe('en');
+    expect(u.rate).toBe(0.85);
+  });
+
+  it('instantiates SpeechSynthesisUtterance when available', () => {
+    class MockUtterance {
+      text: string;
+      lang = '';
+      rate = 1;
+      constructor(text: string) {
+        this.text = text;
+      }
+    }
+    vi.stubGlobal('SpeechSynthesisUtterance', MockUtterance);
+    try {
+      const u = createUtterance('Native utterance', 'fr', 0.85);
+      expect(u).toBeInstanceOf(MockUtterance);
+      expect(u.text).toBe('Native utterance');
+      expect(u.lang).toBe('fr');
+      expect(u.rate).toBe(0.85);
+    } finally {
+      vi.unstubAllGlobals();
+    }
+  });
+});
+
 describe('readAloud', () => {
   it('cancels any earlier speech, then speaks slowly in the page language', () => {
     const synth = fakeSynth();
     expect(readAloud(synth, 'Find the same picture.', 'de')).toBe(true);
     expect(synth.cancelled).toBe(1);
     expect(synth.spoken).toEqual([{ text: 'Find the same picture.', lang: 'de', rate: 0.85 }]);
+  });
+
+  it('attaches onEnd handler to onend and onerror events', () => {
+    const synth = fakeSynth();
+    const onEnd = vi.fn();
+    expect(readAloud(synth, 'Guidance text', 'en', onEnd)).toBe(true);
+    expect(synth.spoken.length).toBe(1);
+    const utterance = synth.spoken[0];
+    expect(typeof utterance.onend).toBe('function');
+    expect(typeof utterance.onerror).toBe('function');
+
+    utterance.onend!();
+    expect(onEnd).toHaveBeenCalledTimes(1);
+
+    utterance.onerror!();
+    expect(onEnd).toHaveBeenCalledTimes(2);
   });
 
   it('reports failure instead of throwing', () => {

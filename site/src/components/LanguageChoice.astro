@@ -14,7 +14,7 @@
     if (match) location.replace(`/${match.prefix}/`);
   }
 
-  for (const link of document.querySelectorAll<HTMLAnchorElement>('.lang-menu a[hreflang]')) {
+  for (const link of document.querySelectorAll<HTMLAnchorElement>('.lang-menu a[hreflang], .mt-notice a[hreflang]')) {
     link.addEventListener('click', () => {
       document.cookie = choiceCookie(link.getAttribute('hreflang') ?? 'en');
     });

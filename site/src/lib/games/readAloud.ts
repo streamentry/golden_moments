@@ -5,8 +5,16 @@
  * button.
  */
 
+export interface UtteranceLike {
+  text: string;
+  lang: string;
+  rate?: number;
+  onend?: (() => void) | null;
+  onerror?: (() => void) | null;
+}
+
 export interface SpeechLike {
-  speak(utterance: { text: string; lang: string; rate?: number }): void;
+  speak(utterance: UtteranceLike): void;
   cancel(): void;
   speaking: boolean;
 }
@@ -21,11 +29,32 @@ export function speechOf(win: unknown = typeof window === 'undefined' ? undefine
   }
 }
 
+/** Creates a speech utterance using native SpeechSynthesisUtterance if available in the environment. */
+export function createUtterance(text: string, lang: string, rate: number = 0.85): UtteranceLike {
+  if (typeof SpeechSynthesisUtterance !== 'undefined') {
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = lang;
+    u.rate = rate;
+    return u as unknown as UtteranceLike;
+  }
+  return { text, lang, rate };
+}
+
 /** Speak `text` in `lang` at a slow, gentle pace. Returns false if it could not. */
-export function readAloud(synth: SpeechLike, text: string, lang: string): boolean {
+export function readAloud(
+  synth: SpeechLike,
+  text: string,
+  lang: string,
+  onEnd?: () => void,
+): boolean {
   try {
     synth.cancel();
-    synth.speak({ text, lang, rate: 0.85 });
+    const utterance = createUtterance(text, lang, 0.85);
+    if (onEnd) {
+      utterance.onend = onEnd;
+      utterance.onerror = onEnd;
+    }
+    synth.speak(utterance);
     return true;
   } catch {
     return false;

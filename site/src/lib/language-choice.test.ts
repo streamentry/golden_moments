@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { choiceCookie, matchPreferred, readCookie, type Offer } from './language-choice';
+import { choiceCookie, detectPathLocale, matchPreferred, readCookie, type Offer } from './language-choice';
 
 const offers: Offer[] = [
   { code: 'es', prefix: 'es' },
@@ -58,5 +58,21 @@ describe('cookie', () => {
     expect(written).toContain('Path=/');
     expect(written).toContain('Max-Age=31536000');
     expect(readCookie(written)).toBe('pt-PT');
+  });
+});
+
+describe('detectPathLocale', () => {
+  const locales = ['es', 'de', 'fr', 'pt-BR', 'zh-Hans'];
+
+  it('detects a known locale prefix at the start of a pathname', () => {
+    expect(detectPathLocale('/es/activities/gardening', locales)).toBe('es');
+    expect(detectPathLocale('/de/games/', locales)).toBe('de');
+    expect(detectPathLocale('/pt-br/help', locales)).toBe('pt-BR');
+  });
+
+  it('returns null for un-prefixed English or unknown routes', () => {
+    expect(detectPathLocale('/activities/gardening', locales)).toBeNull();
+    expect(detectPathLocale('/', locales)).toBeNull();
+    expect(detectPathLocale('/unknown/route', locales)).toBeNull();
   });
 });

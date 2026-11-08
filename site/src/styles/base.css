@@ -132,6 +132,11 @@ textarea {
   top: var(--space-md);
   color: var(--gm-background);
 }
+.skip-link:focus-visible {
+  outline: 3px solid var(--gm-background);
+  outline-offset: 3px;
+  box-shadow: 0 0 0 5px var(--gm-on-surface);
+}
 
 .visually-hidden {
   position: absolute !important;

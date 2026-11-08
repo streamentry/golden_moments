@@ -34,6 +34,13 @@ export function ReadAloud({ ui, lang, text }: ReadAloudProps) {
     return () => window.clearInterval(timer);
   }, [synth, speaking]);
 
+  useEffect(() => {
+    if (speaking && synth) {
+      stopReading(synth);
+      setSpeaking(false);
+    }
+  }, [text]);
+
   if (!synth) return null;
 
   const toggle = () => {
@@ -42,7 +49,8 @@ export function ReadAloud({ ui, lang, text }: ReadAloudProps) {
       setSpeaking(false);
       return;
     }
-    setSpeaking(readAloud(synth, text, lang));
+    const started = readAloud(synth, text, lang, () => setSpeaking(false));
+    setSpeaking(started);
   };
 
   return (

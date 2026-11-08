@@ -4,6 +4,7 @@ import { localePath } from '../../i18n/locales';
 import { analyticsAvailable, once, track, trackPrint, type FeedbackAnswer } from '../../lib/track';
 import { Icon } from './Icon';
 import { ReadAloud } from './ReadAloud';
+import { speechOf, stopReading } from '../../lib/games/readAloud';
 import { hydrateSettings, settingsStore, useSound } from './settings';
 import { sounds } from './sound';
 
@@ -19,9 +20,11 @@ interface GameFrameProps {
   footer?: ReactNode;
   onRestart?: () => void;
   restartLabel?: string;
+  /** Optional spoken text for ReadAloud, defaulting to guidance. */
+  readAloudText?: string;
 }
 
-export function GameFrame({ ui, lang, guidance, message, options, children, footer, onRestart, restartLabel }: GameFrameProps) {
+export function GameFrame({ ui, lang, guidance, message, options, children, footer, onRestart, restartLabel, readAloudText }: GameFrameProps) {
   const sound = useSound();
   const [started, setStarted] = useState(false);
   const [answer, setAnswer] = useState<FeedbackAnswer | null>(null);
@@ -56,7 +59,7 @@ export function GameFrame({ ui, lang, guidance, message, options, children, foot
     <section className="game" aria-label={ui.frame.region}>
       {options ? <div className="game__options">{options}</div> : null}
       <p className="game__guidance">{guidance}</p>
-      <ReadAloud ui={ui} lang={lang} text={guidance} />
+      <ReadAloud ui={ui} lang={lang} text={readAloudText ?? guidance} />
       <div className="game__board" onClickCapture={markStarted}>
         {children}
       </div>
@@ -71,6 +74,8 @@ export function GameFrame({ ui, lang, guidance, message, options, children, foot
             className="btn"
             onClick={() => {
               track('activity_restart');
+              const s = speechOf();
+              if (s) stopReading(s);
               onRestart();
             }}
           >
@@ -93,7 +98,15 @@ export function GameFrame({ ui, lang, guidance, message, options, children, foot
           <Icon name={sound ? 'sound' : 'soundOff'} />
           {sound ? ui.frame.soundOn : ui.frame.soundOff}
         </button>
-        <a className="btn btn--quiet" href={localePath(lang, '/games/')} onClick={() => track('activity_done')}>
+        <a
+          className="btn btn--quiet"
+          href={localePath(lang, '/games/')}
+          onClick={() => {
+            track('activity_done');
+            const s = speechOf();
+            if (s) stopReading(s);
+          }}
+        >
           <Icon name="door" />
           {ui.frame.done}
         </a>

@@ -51,6 +51,7 @@ export default function PicturePuzzle(props: PlayProps) {
       sounds.tap();
       setMessage(ui.picturePuzzle.pickedUp);
     } else if (before === slot) {
+      sounds.tap();
       setMessage('');
     } else if (isSolved(store.state)) {
       sounds.done();
@@ -71,8 +72,12 @@ export default function PicturePuzzle(props: PlayProps) {
       ui={ui}
       lang={lang}
       guidance={ui.picturePuzzle.guidance}
+      readAloudText={solved ? fill(ui.picturePuzzle.whole, { name: pictureName(picture) }, lang) : `${ui.picturePuzzle.guidance}: ${pictureName(picture)}.`}
       message={message}
-      onRestart={() => setRound((r) => r + 1)}
+      onRestart={() => {
+        sounds.tap();
+        setRound((r) => r + 1);
+      }}
       restartLabel={ui.picturePuzzle.restart}
       options={
         <>
@@ -84,7 +89,14 @@ export default function PicturePuzzle(props: PlayProps) {
         solved ? (
           <div className="game__done">
             <p>{ui.picturePuzzle.done}</p>
-            <button type="button" className="btn btn--primary" onClick={() => setRound((r) => r + 1)}>
+            <button
+              type="button"
+              className="btn btn--primary"
+              onClick={() => {
+                sounds.tap();
+                setRound((r) => r + 1);
+              }}
+            >
               {ui.picturePuzzle.playAgain}
             </button>
           </div>
@@ -95,7 +107,7 @@ export default function PicturePuzzle(props: PlayProps) {
         <img src={url} alt={fill(ui.picturePuzzle.guideAlt, { name: pictureName(picture) })} width={96} height={96} />
         <p className="m-0">{ui.picturePuzzle.guideText}</p>
       </div>
-      <div className="puzzle" data-size={state.size}>
+      <div className="puzzle" data-size={state.size} data-has-selected={state.selected !== null ? 'true' : undefined}>
         {state.order.map((piece, slot) => {
           const row = Math.floor(piece / state.size);
           const col = piece % state.size;

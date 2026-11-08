@@ -8,6 +8,7 @@ import { ChoiceChips } from './shared/ChoiceChips';
 import { GameFrame } from './shared/GameFrame';
 import { Icon } from './shared/Icon';
 import { pictureNamer } from './shared/PictureTile';
+import { sounds } from './shared/sound';
 
 export default function ConversationCards(props: PlayProps) {
   const { ui, lang, content } = props;
@@ -35,19 +36,41 @@ export default function ConversationCards(props: PlayProps) {
         ui={ui}
         lang={lang}
         guidance={ui.conversationCards.guidance}
+        readAloudText={card.prompt}
         message={fill(ui.conversationCards.position, { n: (index % deck.length) + 1, total: deck.length })}
         options={<ChoiceChips legend={ui.conversationCards.themeLegend} choices={themeChoices} value={theme} onChange={setTheme} />}
         footer={
           <div className="btn-row">
-            <button type="button" className="btn btn--primary btn--hero" onClick={() => setIndex((i) => i + 1)}>
+            <button
+              type="button"
+              className="btn btn--primary btn--hero"
+              onClick={() => {
+                sounds.tap();
+                setIndex((i) => i + 1);
+              }}
+            >
               {ui.conversationCards.next}
               <Icon name="arrow" />
             </button>
-            <button type="button" className="btn" onClick={() => setIndex((i) => (i - 1 + deck.length) % deck.length)}>
+            <button
+              type="button"
+              className="btn"
+              onClick={() => {
+                sounds.tap();
+                setIndex((i) => (i - 1 + deck.length) % deck.length);
+              }}
+            >
               <Icon name="back" />
               {ui.conversationCards.previous}
             </button>
-            <button type="button" className="btn" onClick={() => window.print()}>
+            <button
+              type="button"
+              className="btn"
+              onClick={() => {
+                sounds.tap();
+                window.print();
+              }}
+            >
               <Icon name="print" />
               {ui.conversationCards.print}
             </button>

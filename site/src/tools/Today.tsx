@@ -137,7 +137,12 @@ export function Today() {
       ) : null}
 
       <p className="today__status no-print" role="status" aria-live="polite">
-        {status}
+        {status ? (
+          <>
+            <span aria-hidden="true">✓ </span>
+            <span>{status}</span>
+          </>
+        ) : null}
       </p>
 
       <section className="today__notes" aria-labelledby="today-notes">

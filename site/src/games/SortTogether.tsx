@@ -84,8 +84,12 @@ export default function SortTogether(props: PlayProps) {
       ui={ui}
       lang={lang}
       guidance={ui.sortTogether.guidance}
+      readAloudText={done ? ui.sortTogether.sorted : `${ui.sortTogether.guidance}: ${baskets[0]}, ${baskets[1]}.`}
       message={message}
-      onRestart={() => setRound((r) => r + 1)}
+      onRestart={() => {
+        sounds.tap();
+        setRound((r) => r + 1);
+      }}
       restartLabel={ui.sortTogether.restart}
       options={<ChoiceChips legend={ui.sortTogether.themeLegend} choices={choices} value={themeKey} onChange={setThemeKey} />}
       footer={
@@ -93,7 +97,14 @@ export default function SortTogether(props: PlayProps) {
           <div className="game__done">
             <p>{ui.sortTogether.sorted}</p>
             <div className="btn-row btn-row--center">
-              <button type="button" className="btn btn--primary" onClick={() => setRound((r) => r + 1)}>
+              <button
+                type="button"
+                className="btn btn--primary"
+                onClick={() => {
+                  sounds.tap();
+                  setRound((r) => r + 1);
+                }}
+              >
                 {ui.sortTogether.restart}
               </button>
             </div>
@@ -129,9 +140,10 @@ export default function SortTogether(props: PlayProps) {
             >
               <span className="basket__title">{name}</span>
               <span className="basket__items">
-                {inside.map((i) => (
-                  <img key={i.id} src={pictureUrl(i.id)} alt="" width={48} height={48} />
-                ))}
+                {inside.map((i) => {
+                  const label = pictureName(i.id);
+                  return <img key={i.id} src={pictureUrl(i.id)} alt={label} title={label} width={48} height={48} />;
+                })}
               </span>
             </button>
           );

@@ -51,13 +51,17 @@ export default function FinishTheSaying(props: PlayProps) {
     setMessage(fill(ui.finishTheSaying.revealed, parts, lang));
   };
 
-  const next = () => setIndex((i) => (i + 1) % deck.length);
+  const next = () => {
+    sounds.tap();
+    setIndex((i) => (i + 1) % deck.length);
+  };
 
   return (
     <GameFrame
       ui={ui}
       lang={lang}
       guidance={ui.finishTheSaying.guidance}
+      readAloudText={revealed ? `${saying.start} ${saying.end}. ${saying.prompt}` : `${saying.start}...`}
       message={message}
       footer={
         <div className="btn-row btn-row--center">

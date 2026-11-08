@@ -30,6 +30,7 @@ export default function ShadowMatch(props: PlayProps) {
   }, [count]);
 
   const next = () => {
+    sounds.tap();
     setRound((r) => newRound(count, r?.target));
     setFound(false);
     setTapped(null);
@@ -58,6 +59,7 @@ export default function ShadowMatch(props: PlayProps) {
       ui={ui}
       lang={lang}
       guidance={ui.shadowMatch.guidance}
+      readAloudText={found ? targetName : ui.shadowMatch.guidance}
       message={message}
       options={<ChoiceChips legend={ui.choose.countLegend} choices={counts} value={count} onChange={setCount} />}
       footer={

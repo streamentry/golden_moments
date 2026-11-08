@@ -70,6 +70,7 @@ function WordSearchGame(props: PlayProps) {
       return;
     }
     if (start[0] === r && start[1] === c) {
+      sounds.tap();
       setStart(null);
       setMessage('');
       return;
@@ -87,6 +88,7 @@ function WordSearchGame(props: PlayProps) {
         setMessage(fill(ui.wordSearch.found, { word: w.word }));
       }
     } else {
+      sounds.tap();
       setMessage(ui.wordSearch.tryAgain);
     }
   };
@@ -116,8 +118,17 @@ function WordSearchGame(props: PlayProps) {
         ui={ui}
         lang={lang}
         guidance={ui.wordSearch.guidance}
+        readAloudText={
+          message ||
+          (allFound
+            ? fill(ui.wordSearch.foundAll, { word: '' })
+            : `${ui.wordSearch.guidance}. ${grid.words.filter((w) => !found.includes(w)).join(', ')}.`)
+        }
         message={message}
-        onRestart={() => setRound((n) => n + 1)}
+        onRestart={() => {
+          sounds.tap();
+          setRound((n) => n + 1);
+        }}
         restartLabel={ui.wordSearch.restart}
         options={
           <>
@@ -128,7 +139,14 @@ function WordSearchGame(props: PlayProps) {
         footer={
           <div className="btn-row">
             {allFound ? (
-              <button type="button" className="btn btn--primary" onClick={() => setRound((n) => n + 1)}>
+              <button
+                type="button"
+                className="btn btn--primary"
+                onClick={() => {
+                  sounds.tap();
+                  setRound((n) => n + 1);
+                }}
+              >
                 {ui.wordSearch.restart}
               </button>
             ) : null}
