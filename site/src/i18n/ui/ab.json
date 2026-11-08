@@ -1,540 +1,540 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Аҵакы хада ахь аиасра",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
-    "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Аҧсуа бызшәа",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "brandTag": "Адеменциа аусмҩаԥгатәқәа",
+    "homeLabel": "Ахьтәы ҭагылазаашьақәа аҩны",
+    "mainNav": "Ихадоу",
+    "titleSuffix": " | Ахьтәы ҭагылазаашьақәа",
+    "defaultImageAlt": "Ахьтәы ҭагылазаашьақәа: ачаиԥҳал, амраҭашәҭ, агәы рсахьа дуқәа",
+    "languages": "Абызшәа",
+    "englishOnly": "(Англыз бызшәа)",
+    "machineTranslated": "Ари адаҟьа автоматикала еиҭагоуп, ахатәы бызшәала ицәажәо макьана игәеиҭаӡом.",
+    "readOriginal": "Аоригинал англыз бызшәала шәаԥхьа",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Ахәмаррақәа",
+      "activities": "Аусмҩаԥгатәқәа",
+      "caregiving": "Ахылаԥшра",
+      "brainHealth": "Ахшыбаҩ агәабзиара"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Азҵаарақәеи аҭакқәеи",
+    "breadcrumb": "Ача ԥҽыха",
+    "home": "Аҩны",
+    "lastUpdated": "Аҵыхәтәантәи аҿыцра",
+    "topics": "Атемақәа",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Атекст ашәагаа",
+      "smaller": "Истандарту атекст",
+      "larger": "Еиҳау атекст"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Ахәмарра",
+    "picturePairs": "Асахьа ҩыџьа",
+    "conversationCards": "Аицәажәаратә карточкақәа",
+    "pictureBingo": "Асахьатә бинго",
+    "allGames": "Ахәмаррақәа зегьы",
+    "pictures": "Акьыԥхьразы асахьақәа",
+    "activityIdeas": "Аусуратә хәыцрақәа",
+    "ideas101": "101 аусуратә хәыцрақәа",
+    "lateStage": "Аҵыхәтәантәи астадиа аусмҩаԥгатәқәа",
+    "printable": "Акьыԥхьра зылшо аусмҩаԥгатәқәа",
+    "allActivities": "Аусмҩаԥгатәқәа зегьы",
+    "forCaregivers": "Ахылаԥшцәа рзы",
+    "playTogether": "Аицыхәмаршьа",
+    "selfCare": "Ухы ахылаԥшра",
+    "brainHealth": "Ахшыбаҩ агәабзиара аҭҵаара",
+    "faq": "Азҵаарақәеи аҭакқәеи",
+    "about": "Атәы",
+    "approach": "Ҳара ҳзнеишьа",
+    "howWeWrite": "Ҳара ишҳаҩуа",
+    "organizations": "Аиҿкаарақәа рзы",
+    "app": "Ахьтәы ҭагылазаашьақәа рыпрограмма",
+    "appHelp": "Апрограмма ацхыраара",
+    "support": "Адгылара",
+    "legal": "Азакәантә",
+    "sitePrivacy": "Асаит амаӡара",
+    "appPrivacy": "Апрограмма амаӡаратә политика",
+    "privacyChoices": "Амаӡаратә алхрақәа",
+    "terms": "Аԥҟарақәеи апрограмма алицензиеи",
+    "safety": "Ашәарҭадареи ахархәареи",
+    "accessibility": "Анеирҭа",
+    "healthNotice": "Агәабзиара иазку адырраҭара",
+    "allLegal": "Азакәантә дыррақәа зегьы",
+    "note": "Ахьтәы ҭагылазаашьақәа агәахәара аиуразы имариоу еицырзеиԥшу аусмҩаԥгатәқәа рыднагалоит. Уи аҳақьымтә лабжьара, агәаҭара, ма ахәышәтәра ракәӡам, насгьы аӡәгьы диагноз шьақәнаргылом, ишәаӡом, мамзаргьы ахәшьара инаҭом. Агәабзиара иазку азҵаарақәа рзы аҳақьым шәиацәажәа. Аҭагылазаашьа хьанҭаҿы 911 ахь шәаԥхьа.",
+    "publisher": "Иҭнажьит Клаудџет Солушнс Пте. ООО"
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Адеменциеи Альцгеимер ичымазареи рыхәмаррақәеи аусмҩаԥгатәқәеи | Ахьтәы ҭагылазаашьақәа",
+    "description": "Ҳәарада, иҟәымшәышәу асахьатә хәмаррақәа онлаин ахәмарразы, насгьы адеменциа ма Альцгеимер змоу ауааи урҭ рхылаԥшцәеи рзы аусуратә гәаанагара.",
+    "eyebrow": "Ҳәарада · Аӡыргақәа ыҟам · Аҽҭаҩра ыҟам · Аамҭаныҩцәеи ахәшьарақәеи ыҟам",
+    "h1": "Адеменциа змоу ауаа рзы ахәмаррақәеи аусмҩаԥгатәқәеи",
+    "lede": "Имариоу асахьатә хәмаррақәа, еицырдыруа афотосахьақәа, насгьы шәеицгәырӷьалартә еиԥш аусқәа — шәхатә амҩала.",
+    "playGame": "Ахәмарра ахәмарра",
+    "findIdeas": "Аусуратә хәыцрақәа рыԥшаара",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Аҭел, апланшет, акомпиутер рҿы аус ауеит",
+      "Иаанхо асахьа дуқәа",
+      "Ианакәызаалакгьы шәааҭгыл; акгьы ҟамлоит"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Иара убас iPhone, iPad, Android рзы ихәыҷу апрограмма, шәҭаацәаратә фотосахьақәа зну",
+    "albumNote": "“Ачаиԥҳал асахьақәа ҩба, еицны.”",
+    "gamesEyebrow": "Убраузер аҿы ахәмарра",
+    "gamesTitle": "Уажәыҵәҟьа узыхәмаруа ахәмаррақәа",
+    "gamesLede": "Зегьы ҭынчуп, иқәыԥшуп, насгьы ирласны иалагоит. Иалышәх акы, шәтәаны шәеиҭныԥсахла.",
+    "seeAllGames": "Зегьы рбара {count} ахәмаррақәа",
+    "howTitle": "Уи шыҟоу",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Еицырдыруа акы алхтәуп",
+        "text": "Ачаиԥҳалқәа, абаҳчақәа, аҩнтәи аԥстәқәа, аӷбақәа рсахьа. Раԥхьа иҵатәу аԥхьареи аԥҟарақәеи ыҟам."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Еидгыланы шәтәа",
+        "text": "Иқәыӷәӷәааит. Асахьақәа рылацәажәара. Аиқәымшәара анаҩстәи ақәыӷәӷәара иазыԥшуп."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Уааҭгыл бзианы иубо",
+        "text": "Хәмаррак уснагӡатәуп. «Уажәазы ​​иҟаҵоуп» ҳәа еснагь аекран аҿы иҟоуп."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Аекран анҭыҵ",
+    "stageTitle": "Аусуратә гәаанагара зегьы рзы",
+    "stageLede": "Амузыка, есыҽнытәи аусқәа, агәалашәарақәа, иҭынчу ацәанырратә ҭагылазаашьақәа, уажәы еиҳа иманшәалоу аҭагылазаашьа иақәшәо.",
+    "ideas101": "101 аусуратә хәыцрақәа",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Аԥхьатәи астадиа",
+        "text": "Урҭ бзиа ирбо ҟашәҵала, ԥсахра маҷқәак ҟаҵаны: ахәмаррақәа, адәахьы ацара, ажәала ахәмаррақәа, насгьы апланқәа рыҟаҵара.",
+        "label": "Аԥхьатәи астадиа ахәыцрақәа"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Абжьаратәи астадиа",
+        "text": "Имариоу, еицырдыруа аусқәа шьаҿа-шьаҿала еиҟәшоуп: аиқәыршәара, аилыхра, амузыка, асахьатә хәмаррақәа, аныҟәара кьаҿқәа.",
+        "label": "Абжьаратәи астадиа ахәыцрақәа"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Анаҩстәи астадиа",
+        "text": "Агәырҭынчреи аидҳәалареи акьысра, абжьы, аблақәа рыла: анапы ахылаԥшра, бзиа иубо ашәақьқәа, афотосахьақәа, аицҟазаара.",
+        "label": "Анаҩстәи астадиа ахәыцрақәа"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Иалкаау акы шәыԥшаауама? Иԥышәа <a href=\"/activities/alzheimers/\">Альцгеимер ичымазаразы аусмҩаԥгатәқәеи ахәмаррақәеи</a>, <a href=\"/activities/memory-games/\">ҟәымшәышәла агәынкыларатә хәмаррақәа</a>, <a href=\"/activities/trivia/\">имариоу атривиа</a> мамзаргьы <a href=\"/activities/puzzles/\">аԥышәарақәа</a>.",
+    "approachEyebrow": "Ҳара ҳзнеишьа",
+    "approachTitle": "Агәынкылара аԥышәара акәымкәа, еицырзеиԥшу аусура",
+    "approachLede": "Аӡәырҩы “ахшыбаҩтә хәмаррақәа” аццакыра, ахәшьарақәа, ацәаҳәақәа ирыкәшоуп. Адеменциа змоу аӡәы изы, уи аԥышәара еиԥш ихы ибоит. Ҳара иаҿагыло ҳаргылеит.",
+    "approachLink": "Избан абри аҩызала изыҟаҳҵо",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Акгьы ҟамлоит",
+        "text": "Асааҭ, ахәшьара, аԥсҭазаара ма ацәыӡ ыҟам. Даҽа сахьак ааҭгылара ауп, гхаӡам."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Асахьақәа аарԥшуа иаанхоит",
+        "text": "Агәалашәара аасҭа аидырра. Аиқәшәара алагоит хыхь, убри аҟынтә иугәалашәо акгьы ыҟам."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Иқәыԥшу, ҳаҭыр зқәу",
+        "text": "Иԥхоу, еилкаау ажәақәеи адунеи аҿы иҟоу асахьақәеи. Ахаангьы амультфильмқәа ма ахәыҷы ицәажәара."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Хаҭала дизайнла",
+        "text": "Аконтқәеи аӡыргақәеи ыҟам. Уфотосахьақәа ухы иаурхәо амаҭәахә аанрыжьӡом."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Ахылаԥшцәа рзы",
+    "guidesTitle": "Есыҽнытәи ахылаԥшразы апрактикатә бжьгарақәа",
+    "allCaregiving": "Зегьы ахылаԥшразы амҩақәҵагақәа",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Ахәмаррақәа шеицхәмаруа",
+        "text": "Аиқәыршәара, амҩа, насгьы ахәмарра агәырӷьара анаҟәыҵлак иҟаҵатәу."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Аусура мап анырҳәо",
+        "text": "Мап ацәкразы еицырдыруа амзызқәа, насгьы нас даҽазнык аҽазышәаразы амҩа ҟәымшәышәқәа."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Апланшет ашьақәыргылара",
+        "text": "Атекст ду, аԥырҟәҟәаарақәа маҷны, насгьы ахатә екран заҵәык."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Хәыда-ԥсада икьыԥхьуа аусмҩаԥгатәқәа",
+        "text": "Ашәҟәы дуқәа рыла иҩу ажәақәа рыԥшаара, ашәыгатә даҟьақәа, абинго, аицәажәаратә карточкақәа."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Ахшыбаҩ агәабзиара: аҵарадырра ииашаҵәҟьаны иаҳәо",
+    "researchText": "Иалшома адеменциа аԥырҟәҟәаара? Ицхраауама ахшыбаҩтә хәмаррақәа? Иҟоузеи ачгара, адиета, ацәеи аҳареи рзы? Иаабац, ахыҵхырҭа змоу аҭакқәа, ашьақәырӷәӷәарақәа ахьԥсыҽугьы уахь иналаҵаны.",
+    "researchLink": "Аҭҵааратә бжьгарақәа шәрыԥхьа",
+    "appEyebrow": "Убасгьы апрограма",
+    "appTitle": "Ахьтәы ҭагылазаашьақәа iPhone, iPad, Android рҿы",
+    "appText": "Ҳәарада, апрограмма офлаин аус ауеит, насгьы иалышәхыз аҭаацәаратә фотосахьақәа шәхы иашәырхәар шәылшоит, урҭ шәхы иашәырхәоит шәхы иашәырхәо. Аҭынч дизайн еиԥш: ԥшь-кафель дуӡӡак, атаимер ыҟам, ахәшьара ыҟам.",
+    "aboutApp": "Апрограмма атәы",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Иарбан хәмарра бзиақәоу адеменциа змоу ауаа рзы?",
+        "a": "Ахәмарра бзиақәа мариоуп, еицырдыруеит, ақәыӷәӷәара рымам: асахьа дуқәа реиқәшәара, аилыԥшаара, амариоу ажигсоуқәа, еицырдыруа ажәақәа рҵыхәтәа, ашәра, асахьатә бинго, аицәажәаратә картақәа. Иреиӷьу алхра ауаҩы иахьа игәаԥхо алхроуп. Аамҭаныҩгақәа, ахәшьарақәа, насгьы аԥышәара еиԥш иҟоу зегьы шәҽырцәышәыхьчала."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Ари адеменциатә хәмаррақәа хәыда-ԥсадоуп?",
+        "a": "Ааи. Иарбанзаалак ахәмарра, насгьы акьыԥхьра зылшо Ахьтәы ҭагылазаашьақәа рҿы хәыда-ԥсадоуп, акаунт, аҽҭаҩра, мамзаргьы ачагара ҟамҵакәа. Ахәмаррақәа аус руеит ауеб-браузер аҿы аҭел, апланшет, ма акомпиутер аҿы."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Ахшыбаҩтә хәмаррақәа адеменциа аԥырҟәҟәаауама?",
+        "a": "Адеменциа аԥырҟәҟәааразы хәмаррак аарԥшымызт, насгьы Golden Moments акы ахәышәтәра ма аԥырҟәҟәаара атәы ҳәаӡом. Ҳара ҳхәмаррақәа агәырӷьареи аамҭа аицхгареи рзы ауп. Ҳхшыбаҩ агәабзиара аҟәшаҿы иҳаилнаркаауеит аҭҵаарақәа иаадырԥшуеи иаадырԥшӡоми."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Ианаалома арҭ ахәмаррақәа Альцгеимер ичымазара змоу аӡәы?",
+        "a": "Ааи. Альцгеимер ичымазара еиҳарак адеменциа ахылҿиаауеит, ахәмаррақәагьы уи азы иҟаҵоуп: асахьа дуқәа, алхрақәа маҷны, насгьы иугәалашәо, мамзаргьы ииашам акгьы ыҟам. Еицырдыруа ажәақәа реиқәшәара, реилыԥшаара, рҵыхәтәа ԥҵәара еиҳа ихадоуп акыр зхыҵуа адыррақәа, аҵара ҿыцқәа раасҭа."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Илшома анаҩстәи астадиаҿы иҟоу адеменциа змоу аӡәы арҭ аусқәа ихы иаирхәар?",
+        "a": "Лассы-лассы, ааи, рывараҿы аӡәы дрыцны. Иалагатәуп ҩ-сахьак рыла еиԥшу аԥшаара, Асахьа ҩыџьа ԥшь-кафельк рыла, ашәыгатә даҟьа ма ҭынч аԥсыԥ агаратә пауза. Икьаҿны иҟашәҵа, рнапхгара шәықәныҟәа, насгьы рызхара анырфо шәааҭгыл."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Сара сдыррақәа маӡоума?",
+        "a": "Асаит аккаунтқәа амам, насгьы аӡыргара ыҟам. Ҳара Google Analytics ҳхы иаҳархәоит, иарбан даҟьақәоу ҳаҭаауа аилкааразы. Апатреҭқәа ҩыџьа рзы иалышәхыз афотосахьақәа шәбраузер аҿы мацара ауп ианыԥшуа, насгьы ахаангьы иҭагалаӡом."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Иҟазҵода Ахьтәы ҭагылазаашьақәа?",
+        "a": "Ахьтәы ҭагылазаашьақәа – аҭаацәеи ахылаԥшыҩцәеи рзы иҭынчу, зықәра наӡоу рзы асахьатә усмҩаԥгатәқәа ҟазҵо гуп хәыҷуп, аинтернеҭ аҿы, насгьы хәыда-ԥсада апрограмма еиԥш. Ҳара ҳҳақьымцәаӡам, насгьы араҟа амедицинатә лабжьара ҳәа акгьы ыҟам."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "заанаҵ",
+    "middle": "абжьаратәи",
+    "late": "нас",
+    "hintOne": "Лассы-лассы иақәшәоит {list} асцена",
+    "hintMany": "Лассы-лассы иақәшәоит {list} астадиақәа",
+    "labelEarly": "Аԥхьатәи астадиа",
+    "labelMiddle": "Абжьаратәи астадиа",
+    "labelLate": "Анаҩстәи астадиа"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Ари ахәмарра иазкны",
+    "printable": "Акьыԥхьра зылшо",
+    "play": "Ахәмарра {name} →",
+    "readGuide": "Аԥхьара амҩақәҵага"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Ахәмарра ҟәымшәышә шәазыхиоума?",
+    "text": "Асахьа дуқәа, атаимер ыҟам, ахәшьара ыҟам, насгьы аҽҭаҩразы акгьы ыҟам. Шәбраузер аҟны шәеицхәмаруеит.",
+    "play": "Ахәмарра ахәмарра",
+    "all": "Ахәмаррақәа зегьы рбара",
+    "aria": "Ахәмарра ахәмарра"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
-    "appStoreShort": "App Store",
+    "title": "Абарҭ ахәмаррақәа уцны иуга",
+    "text": "iPhone, iPad, Android рзы ихәыҷу Golden Moments апрограмма: асахьа дуқәа, шәҭаацәаратә фотосахьақәа зну ахәмаррақәа, насгьы Wi‐Fi ада аус зуа асахьатә пакетқәа. Аконт, аӡыргақәа, атаимер ма ахәшьара ыҟам.",
+    "appStore": "App Store аҟны иуоур улшоит",
+    "googlePlay": "Google Play аҟны аиура",
+    "appStoreShort": "Апрограммақәа рыҭирҭа",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Апрограмма атәы",
+    "aria": "Апрограмма ааҳхәап"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Аусмҩаԥгатәқәа",
+      "title": "Адеменциа змоу ауаа рзы аусмҩаԥгатәқәа",
+      "seo": "Адеменциа змоу ауаа рзы аусмҩаԥгатәқәа: Агәаанагарақәа етапла",
+      "description": "Адеменциа змоу ауаа рзы еиуеиԥшым аамҭақәа рзы аусуратә хәыцрақәа: амузыка, агәалашәарақәа, есыҽнытәи аусқәа, ацәанырратә ҭагылазаашьақәа, анапҟазара, адәахьтәи.",
+      "lede": "Аҵакы змоу аусура ҳәа изышьҭоу агәҭынчра, ахықәкы, мамзаргьы аидҳәалара аамҭа узҭо зегьы ауп. Ауаҩы еснагь игәаԥхоз ала шәалага, насгьы иахьатәи аамҭа иақәшәо ​​иҟашәҵа."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Ахылаԥшра",
+      "title": "Ахылаԥшразы амҩақәҵагақәа",
+      "seo": "Адеменциа ахылаԥшразы амҩақәҵагақәа: есыҽнытәи апрактикатә цхыраара",
+      "description": "Адеменциа змоу ауаа рзы апрактикатә, ақьиара зҵоу амҩақәҵарақәа: ахәмаррақәа реицхәмарра, аицәажәара, мап ацәкра, амш анҵәамҭазы аҭынчра ацәыӡра, апланшетқәа.",
+      "lede": "Адеменциа змоу аӡәы ихылаԥшра есыҽнытәи аамҭақәа рзы иаабац, апрактикатә цхыраара, ухы ахылаԥшрагьы уахь иналаҵаны."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Ахшыбаҩ агәабзиара",
+      "title": "Ахшыбаҩ агәабзиара: Аҭҵаара иаҳәо",
+      "seo": "Ахшыбаҩ агәабзиареи адеменциа ашәарҭареи: аҵарақәа ирҳәо",
+      "description": "Иалшома адеменциа аԥырҟәҟәаара? Адеменциа ашәарҭаратә факторқәа, ахшыбаҩтә хәмаррақәа, ачгара, адиета, абаҩрҵәыра, ацәа, аҳара, раԥхьатәи агәҽанҵаратә дыргақәа рзы.",
+      "lede": "Адеменциа ашәарҭара армаҷра иазкны аҵара дуқәа иаадырԥшуа, еилыкка иҳәоуп, ашьақәырӷәӷәарақәа ахьԥсыҽу ма еилаԥсоугьы уахь иналаҵаны."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Ирҿыцуп",
+    "minuteRead": "{n} минуҭк аԥхьара",
+    "byTeam": "Ахьтәы ҭагылазаашьақәа ргәыԥ ала",
+    "howWeWrite": "Ҳара ишҳаҩуа",
+    "shortAnswer": "Аҭак кьаҿ",
+    "onThisPage": "Ари адаҟьаҿы ({n} аҟәшақәа)",
+    "commonQuestions": "Еицырзеиԥшу азҵаарақәа",
+    "sources": "Ахыҵхырҭақәа",
+    "sourcesNote": "Ҳара ари адаҟьа зықәгәыӷуа аиҿкаарақәеи аҭҵаарақәеи рахь ҳрыдҳәалоит. Адаҟьа анырҿыцыз зегьы гәаҭан.",
+    "tryTogether": "Еицаҳҽазышәшәа",
+    "relatedGuides": "Иадҳәалоу амҩақәҵагақәа",
+    "related": "Иадҳәалоу",
+    "startHere": "Абра алагара"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Агәабзиара иазку адырраҭара",
+    "title": "Азеиԥш информациа, аҳақьымтә лабжьара акәымкәа",
+    "textHtml": "Ари адаҟьаҿы аҭаацәарақәа рзы икьыԥхьу аҭҵаарақәа ахҳәаа ҟаҵоуп. Уи аӡәы изы ииашоу уеилнаркаауам. Адиета, абаҩрҵәыра, ацәара, ахәшәқәа ма ахәҭаҷқәа рыԥсахра аан аҳақьым шәиацәажәа. Иаалырҟьаны еилаҩашьазар, мамзаргьы иаалырҟьаны даҽа ԥсахрақәак ҟалар, иаразнак аҳақьымцәа рыцхыраара шәҳәа. <a href=\"/medical-disclaimer/\">Ҳагәабзиара иазку адырраҭара шәаԥхьа</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Еицырзеиԥшу аусура, агәынкыларатә тест акәымкәа",
+      "seoTitle": "Ахьтәы ҭагылазаашьақәа рзы: Ҳара ҳзнеишьа",
+      "description": "Избан Golden Moments ахәмаррақәа атаимерқәа, ахәшьарақәа ма ацәаҳәақәа зрымам, асахьақәа зырбо, насгьы адеменциа иазкны иаҳҳәо, иаҳҳәо.",
+      "crumb": "Ҳара ҳзнеишьа",
+      "lede": "Ахьтәы ҭагылазаашьақәа иҟанаҵоит иҭынчу, зықәра наӡоу рсахьатә усмҩаԥгатәқәа, ахылаԥшҩи адеменциа змоу ауаҩыи еидгыланы ргәы иахәоит.",
+      "bodyHtml": "<h2>Ҳара ҳазхаҵо</h2><p>Аусура ҵакыс иамоу аамҭа ахаҭа ауп: аицәажәара, аԥышәарччара, ҩ-сахьак реидкылара агәахәара, мамзаргьы еизааигәаны атәара. Аӡәы ишәара, еиҳа дҭарцалара, мамзаргьы акы ашьақәырӷәӷәара акәӡам.</p><p>Ахшыбаҩ азыҟаҵаратә апрограммақәа рацәаны иҟаҵоуп аццакыра, ахәшьарақәа, ацәаҳәақәа, аҩаӡарақәа ирызкны. Адеменциа змоу ауаҩы изы, уи аԥышәара еиԥш ихы ибоит, дызхыҵуам. Ҳара еиқәҳаршәеит аиқәымшәара, насгьы ҳара абарҭ аԥҟарақәа ҳхы рықәныҟәоит:</p><ul><li><strong>Иҟамло акгьы ыҟам.</strong> Асааҭ, ахәшьара, аԥхьаӡага аныҟәара, аԥсҭазаара, ацәаҳәақәа, аконфетти ма ашьҭахьҟа аԥхьаӡарақәа ыҟам, иарбанзаалак аекран аҿы.</li><li><strong>Агәалашәара аасҭа аидырра.</strong> Асахьақәа стандартла иаарԥшхоит. Аҳәарақәа ацәажәара ааԥхьара рнаҭоит, ахаангьы ахьӡқәеи агәалашәарақәеи рҿы аквиз ҟашәымҵан.</li><li><strong>Идуу, иаабац, иҭышәынтәалоу.</strong> Атекст дуқәеи асахьақәеи, аконтраст ду, насгьы ҭыԥк аҿы иаанхо аконтрольқәа.</li><li><strong>Адуцәа раҳаҭыр.</strong> Иҟаҵәҟьоу асахьақәеи иаарту, иԥхоу ажәақәеи. Амультфильмқәа, ашәаҳәара-ашәаҳәара ма аемоџи аҳамҭақәа ыҟам.</li><li><strong>Имариоу амҩа.</strong> «Уажәазы ​​иҟаҵоуп» ҳәа еснагь иубарҭоуп. Амҩабжараҿы аанкылара алҵшәа бзиоуп.</li><li><strong>Хатәы стандартла.</strong> Аконтқәеи аӡыргақәеи ыҟам. Иалшәхыз афотосахьақәа шәхыхәҭаҿы иаанхоит.</li></ul><h2>Ҳара иаҳзымҳәо</h2><p>Ҳара ҳхәмаррақәа агәахәареи аидҳәалареи рзы ауп. Урҭ адеменциа, ма Альцгеимер ичымазарақәа рыԥшаара, ргәаҭара, ршәара, рыхәшәтәра, рыԥсыҽра, мамзаргьы рыԥырҟәҟәааразы, насгьы уи азы аӡәгьы урҭ далихыр ҟалом. Ҳара ҳҭҵаарақәа ртәы анаҳҩуа <a href=\"/brain-health/\">ахшыбаҩ агәабзиара адаҟьақәа</a>, ҳара еилыкка иаҳҳәоит ашьақәырӷәӷәарақәа ахьԥсыҽу, насгьы уи ҳхатә хәмаррақәа ирыдҳәалаӡом.</p><h2>Ҳара ҳазусҭцәоу</h2><p>Ахьтәы ҭагылазаашьақәа зхы иақәиҭу команда хәыҷуп. Ҳара ҳклиникцәаӡам. Ҳара ҳгаидқәа ҩуп Ажәра иазку Амилаҭтә Институти Альцгеймер ичымазара Ассоциациеи реиԥш иҟоу аиҿкаарақәа иҭрыжьыз амҩақәҵарақәа рыла, насгьы амҩақәҵагақәа зегьы рхыҵхырҭақәа рсиа ҟаҵоуп. Аԥхьара <a href=\"/editorial-policy/\">ҳдаҟьақәа шҳаҩуа, ишҳагәаҭо</a>.</p><h2>Иҳаҳәа иҳацхраауа</h2><p>Ҳара ҳгәы иахәоит шәара ишәзы ихәарҭоуи ишәзеиӷьыми, ҷыдала адеменциа змоу ауаа, аҭаацәара ахылаԥшыҩцәеи аусуратә усзуҩцәа рҟынтәи. Ае-маил <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Ҳара ҳдаҟьақәа шҳаҩуа, ишгәаҭатәу",
+      "seoTitle": "Аредакциатә политика",
+      "description": "Golden Moments адеменциатә усура, ахшыбаҩ агәабзиара адаҟьақәа шыҭнаҵаауа, ишыҩуа, ишыҟанаҵо, ишырҿыцуа, насгьы ахаангьы иаҳзымҭыжьуа.",
+      "crumb": "Аредакциатә политика",
+      "bodyHtml": "<h2>Ҳхыҵхырҭақәа</h2><p>Ҳара ҳгаидқәа шьаҭас ирымоуп Ажәра азы Амилаҭтә Институт, CDC, Альцгеимер Ассоциациа, Америкатәи Альцгеимер Афонд, Аҭаацәаратә хылаԥшҩы Альянс, NHS, иара убас Кохран ахҳәаақәеи аклиникатә ԥышәара дуқәеи реиԥш иҟоу аҩызцәа рыхәаԥшратә ҭҵаарақәа. Агаидқәа зегьы зықәгәыӷуа ахыҵхырҭақәа рсиа ҟаҵоуп. Ҳара ахыҵхырҭа зегьы ҳрылацәажәаанӡа иаҳзааҳартуеит, насгьы иаҳәо мацара ауп иаҳҳәо.</p><h2>Ҳара ишҳаҩуа</h2><ul><li>Актәи апрактикатә: иахьа иҟаҵатәу, бызшәа ҟәыӷала.</li><li>Ашьақәырӷәӷәарақәа рзы ииашаны: ҳара иаҳҳәоит “иадҳәалоуп”, “иҟалап” насгьы “ашьақәырӷәӷәарақәа еилаԥсоуп” ҳәа, уи аҵабырг аныҟоу.</li><li>Ҳаҭырла: ҳара ҳазҳахьоу аамҭазы адеменциа змоу ауаа ртәы ҳаҩуеит, насгьы ахаангьы ҳхы иаҳархәаӡом аквизқәеи аԥхашьаратә бызшәақәеи.</li><li>Иаԥҵоу аҵакы ыҟам: иҟаҵоу астатистика, ацитатақәа, аекспертцәа, аҭҵаарақәа, ахҳәаақәа ма ашаҳаҭрақәа ыҟам.</li></ul><h2>Ҳадаҟьақәа ирыхәаԥшуа</h2><p>Адаҟьақәа рыҩра иагьгәарҭоит Ахьтәы ҭагылазаашьақәа ргәыԥ, АИ аҩратә мчылақәа рыцхыраарала аҭҵаареи апроект аҟаҵареи рзы. Даҟьацыԥхьаӡа ахыҵхырҭақәа рыла агәыԥ игәарҭоит. Ҳадаҟьақәа рҿы иҟоуп <strong>ҳәа</strong> аҳақьым ма даҽа ҳәынҭқарк дрыхәаԥшит, насгьы ҳара даҽакала ҳҳәаӡом. Урҭ зеиԥш информациоуп, аҳақьымцәа рылабжьарақәа ракәӡам.</p><h2>Ҳара ахаангьы иаҳзымкьыԥхьуа</h2><ul><li>Ахәмарра, ачыс, ацҵа, ачгара ма рутина адеменциа аԥырхагахоит, иахәышәтәуеит, иамырццакуеит ма ихәышәтәуеит ҳәа аҳәарақәа.</li><li>Аӡәы адеменциа шимоу, мамзаргьы имам ҳәа аазырԥшуа атестқәа, аквизқәа, мамзаргьы ахәшьарақәа.</li><li>Иарбанзаалак ахәшә алагара, аанкылара, мамзаргьы аԥсахразы абжьгара.</li><li>Аӡыргара ма аспонсортә контент амҩақәҵара еиԥш аҽыҵәахны.</li></ul><h2>Арҿыцрақәеи ариашарақәеи</h2><p>Даҟьацыԥхьаӡа иаанарԥшуеит аҵыхәтәантәи аҿыцра аныҟалаз арыцхә. Агха ма ажәытә хыҵхырҭа шәыԥшаазар, е-маил шәышьҭы <a href=\"mailto:{email}\">{email}</a> насгьы ҳара уи иаразнак игәаҳҭоит.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Азҵаарақәеи аҭакқәеи",
+      "seoTitle": "Адеменциа Ахәмаррақәеи аусмҩаԥгатәқәеи: Азҵаарақәеи аҭакқәеи",
+      "description": "Адеменциа ахәмаррақәеи аусмҩаԥгатәқәеи ирызку еицырзеиԥшу азҵаарақәа рҭакқәа: иарбан хәмаррақәоу иԥышәатәу, шаҟаамҭа ихәмартәу, анаҩстәи астадиаҿы иҟоу ахәыцрақәа.",
+      "crumb": "Азҵаарақәеи аҭакқәеи",
+      "lede": "Ахылаԥшцәа еиҳарак ирҭо азҵаарақәа рҭак кьаҿқәа, еилыкка.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Ахәмаррақәа ирызкны",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Иарбан хәмаррақәоу еиҳа иеиӷьу адеменциа змоу ауаҩы изы?",
+              "a": "Иреиӷьу ахәмаррақәа еицырдыруа, имариоу, ақәыӷәӷәара злам, ииашоу ахәмарра иахьа ауаҩы игәаԥхо ауп. Асахьа иубаратәы иҟоу асахьа аиқәшәара, аилыԥшаара, имариоу ажигсоуқәа, еицырдыруа ажәақәа рҵыхәтәа, ашәра, асахьатә бинго зегьы ауаа рацәа рзы ибзианы аус руеит. Аамҭаныҩгақәа, ахәшьарақәа, насгьы аԥышәара еиԥш иҟоу зегьы шәҽырцәышәыхьчала."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Ииашаҵәҟьаны ахәмаррақәа хәыда-ԥсадоуп?",
+              "a": "Ааи. Ахәмаррақәеи акьыԥхьрақәеи зегьы хәыда-ԥсадоуп, акаунт, аҽҭаҩра, ачагара ма аӡыргара ҟамҵакәа."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Избан ахәшьарақәа, аҩаӡарақәа, атаимерқәа зыҟам?",
+              "a": "Аццакреи ахәшьарақәеи угәы иахәо аус аԥышәарахь ииаргоит, уи аԥхашьара ма агәкаҳара узаанагар алшоит. Ҳара ҳхы ақәҳаршәоит агәахәареи аамҭеи еицаҳхызго, убри аҟынтә ҳзықәымҿио акгьы ыҟам, насгьы ианакәызаалакгьы уааҭгылар улшоит."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Иарбан мчыбжьқәоу еиҳа еиӷьны аус зуа?",
+              "a": "Иарбанзаалак аҭел, апланшет, ма акомпиутер, иахьатәи аамҭа иақәшәо ​​ауеб-браузер змоу. Астол аҿы иқәгылоу апланшет ҩыџьа ауаа рзы еиҳа иманшәалоуп. Ателевизор иацҵоу алаптоуп агәыԥқәа рзы ибзианы аус ауеит."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Ҳҭаацәаратә фотосахьақәа рыла ҳахәмаруама?",
+              "a": "Ааи. Афотосахьақәа ҩыџьара иалышәхыз афотосахьақәа 2 инаркны 6 рҟынӡа еиқәшәо ​​хәмарраны иҟарҵоит. Апатреҭқәа убраузер аҿы иаанхоит, насгьы иҭагалахом, мамзаргьы иҵәаххом."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Аусқәеи ахылаԥшреи",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Шаҟаамҭа имҩаԥыслар акәзеи аус?",
+              "a": "Лассы-лассы 10-20 минуҭ рацәоуп, зны-зынла 2 минуҭгьы еихьӡарахоит. Ааԥсара ма агәкаҳара адыргақәа урыцклаԥшла, насгьы угәы ҭынчны ианыҟоу уаҟәыҵ. Ииашоу аԥара ыҟаӡам."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Иҟаҵатәузеи уск анагӡара рҭахымзар?",
+              "a": "Мап ҳаҭыр ақәҵа, насгьы нас ма даҽакала уҽазышәа. Мап ацәкра ааԥсара, ахьаа, агәрагарадара, мамзаргьы аинтерес амамзаара ирыхҟьар алшоит. Мап анырҳәо иҟаҵатәу азы ҳгаид шәахәаԥш."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Иарбан усқәоу анаҩстәи астадиаҿы адеменциа ианаало?",
+              "a": "Агәҭынчреи ацәаныррақәеи: бзиа ирбо амузыка аӡырҩра, анапы амассаж аҟаҵара, афотосахьақәа еицрыхәаԥшра, ауарҳал ԥшқа акра, адәахьы атәара, ма рывараҿы аӡәы дрыцны даараӡа имариоу асахьатә хәмарра. Ҳара ҳнаҩстәи астадиа агаид иҵегьы ахәыцрақәа рацәаны имоуп."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Иҟоума ахылаԥшратә ҩны аҿы агәыԥқәа рзы аусмҩаԥгатәқәа?",
+              "a": "Ааи. Асахьатә бинго иамоуп акьыԥхьра зылшо акарточкақәеи аекран аҿы ааԥхьаҩи, насгьы Finish the saying and Conversation акарточкақәа рыбжьы рдуны рыԥхьара ибзианы аус ауеит. Ҳара ҳхылаԥшратә ҩны агәыԥқәа рзы амҩақәҵага иаҵанакуеит агәыԥқәа рхыԥхьаӡара, атәарҭақәа, еиуеиԥшым алшарақәа рҽыршьцылара."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Ахшыбаҩ агәабзиара",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Ирылшома ахәмаррақәа адеменциа аԥырҟәҟәаара ма армаҷра?",
+              "a": "Иарбанзаалак хәмаррак адеменциа аԥырҟәҟәааразы иаарԥшӡамызт, ҳхәмаррақәагьы уи аҩыза аҳәара ҟарҵаӡом. Асоциалтә ҭагылазаашьаҿы акогнитивтә стимуляциа адеменциа змоу ауаа рзы имҩаԥгаз аҵарақәа рҿы ахәарҭа маҷны иаанарԥшит, аха уи ачымазара аԥырҟәҟәааразы ахәмарра еиԥшым. Ҳара ахәмаррақәа ҳрыдгалоит агәахәареи аимадареи рзы."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Иалшома адеменциа аԥырҟәҟәаара?",
+              "a": "Ҳәарада акәым. Аҵарақәа иаадырԥшуеит агәабзиареи аԥсҭазаашьеи ирызку 14-тәи факторқәа адеменциа ашәарҭара рызцәырҵра, иаҳҳәап, аҳара ацәыӡра, ашьа ақәыӷәӷәара, амаха-шьахатә усқәа рыҟамзаара, асоциалтә еиҟәыҭхара. Урҭ рыӡбара шьоукы рзы ашәарҭара амаҷра алшоит, аха зегь ииашаны ҟазҵо аӡәырҩы ауаа уеизгьы адеменциа рызцәырҵуеит. Уи ахаангьы аӡәгьы ихарам."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Ибзиоума зны-зынла ачгара ахшыбаҩ агәабзиаразы?",
+              "a": "Ауаҩытәыҩсатә шьақәырӷәӷәарақәа ԥкуп, насгьы рацәак хара имгакәа иҟоуп, насгьы аҭҵаарақәа рӷьырак аԥстәқәа рҿы имҩаԥысуеит. Ачгара зықәрахь инеихьоу ауаа рзы ашәарҭара аҵоуп, еиҳарак ашьақарчымазаразы ахәшәқәа мамзаргьы ргәы иҭамкәа ахьанҭара ацәыӡра, насгьы уи адеменциа змоу ауаа рзы ибзиам. Уфашьа уԥсахаанӡа, аҳақьым уиацәажәа."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Амаӡареи ашәарҭадареи",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Аинформациа еизышәгома?",
+              "a": "Аконтқәеи аӡыргақәеи ыҟам. Ҳара Google Analytics ҳхы иаҳархәоит аҭаарақәа рыԥхьаӡаразы, насгьы иарбан даҟьақәоу ацхыраара ҟазҵо аилкааразы, насгьы шәбраузер игәаланаршәоит абжьы ԥшқақәа аашәыркызма. Апатреҭқәа ҩыџьа рзы иалышәхуа афотосахьақәа ахаангьы иҭагалаӡом. Еиҳаны адыррақәа рзы ахәаԥш амаӡаратә рдырраҭара."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Ари аҳақьымтә лабжьароума?",
+              "a": "Мап. Ахьтәы ҭагылазаашьақәа агәырҿыхагақәеи азеиԥш информациеи рзы ауп. Агәабзиара иазку азҵаарақәа рзы аҳақьым шәиацәажәа, ҭакԥхықәралатәи аҭагылазаашьақәа рзы 911 шәаԥхьа."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Еиҳаны аинформациа: <a href=\"/caregiving/how-to-play-together/\">еицыхәмаршьа</a>, <a href=\"/caregiving/when-they-say-no/\">мап анырҳәо</a>, <a href=\"/activities/late-stage/\">анаҩстәи астадиаҿы имҩаԥысуа аусмҩаԥгатәқәа</a> иара убас <a href=\"/brain-health/can-dementia-be-prevented/\">адеменциа аԥырҟәҟәаара алшома?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Адеменциа змоу ауаа рзы хәыда-ԥсада, ҟәымшәышәла ахәмаррақәа",
+      "seoTitle": "Акьыԥхьра зылшо ашәҟәы: Хәыда-ԥсада Адеменциа Ахәмаррақәа Онлаин",
+      "description": "Адеменциа змоу ауаа рзы, ацхырааратә гәыԥқәеи ахылаԥшратә пакетқәеи рзы, аҭаацәеи ахылаԥшыҩцәеи рзы даҟьак зҵазкуа акьыԥхьра зылшо ашәҟәы.",
+      "crumb": "Акьыԥхьра зылшо ашәҟәы",
+      "lede": "Икьыԥхьтәуп ари адаҟьа ацхырааратә гәыԥ азы, ахылаԥшратә пакет азы ма аҵааршәыга ашә азы.",
+      "introHtml": "<p>Асахьа дуқәа, ажәа ҟәымшәышәқәа, насгьы иузеилымкаауа акгьы ыҟам. Аҭел, апланшет, акомпиутер аҿы хәыда-ԥсада, аҽҭаҩра, аӡыргақәа, атаимерқәа, ахәшьарақәа рыда. Наҟ-ааҟ шәтәа, шәеиҭныԥсахла.</p>",
+      "gamesTitle": "Ахәмаррақәа еицԥышәатәуп",
+      "restHtml": "<h2>Абжьгарақәак</h2><ul><li>Иалышәх ауаҩы зегь раасҭа ианеиӷьу аамҭа.</li><li>Иаҳа имариоу архиара ала шәалага. Ԥшь-кафельк рацәоуп.</li><li>Асахьақәа рылацәажәара. Лассы-лассы аицәажәара ауп зегь раасҭа иеиӷьу.</li><li>Уаҟәыҵ, уажәгьы угәы иахәо аамҭазы. Заанаҵ анҵәамҭа алҵшәа бзиоуп.</li></ul><h2>Убасгьы асаит аҿы</h2><ul><li>Хәыда-ԥсада икьыԥхьуа: ажәа дуқәа рыԥшаара, ашәыгатә даҟьақәа, аицәажәаратә картақәа, асахьатә бинго.</li><li>Аусуратә хәыцрақәа зегьы рзы, насгьы аицхәмарреи ухы ахылаԥшреи рзы амҩақәҵарақәа.</li></ul><p class=\"muted\">Агәырӷьареи аамҭеи еицаҳхаҳгарц азы. Аҳақьымцәа рылабжьара, агәаҭара, ма ахәышәтәра акәӡам. Ахьтәы ҭагылазаашьақәа ҭнажьуеит Cloudjet Solutions Pte. ООО</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Ахылаԥшратә ҩнқәа, ашәҟәҭыԥқәа, ацхырааратә гәыԥқәа рзы",
+      "seoTitle": "Ахылаԥшратә ҩнқәеи агәыԥқәеи рзы хәыда-ԥсада адеменциа аусмҩаԥгатәқәа",
+      "description": "Ахылаԥшратә ҩнқәа, зықәра наӡоу рымш апрограммақәа, ашәҟәҭыԥқәа, зықәрахь инеихьоу рзы аусбарҭақәа, ацхырааратә гәыԥқәа ҳдеменциатә хәмаррақәа рхы ишадырхәо, насгьы.",
+      "crumb": "Аиҿкаарақәа рзы",
+      "lede": "Ари асаит аҿы иҟоу зегьы анхацәа, алахәылацәа, аклиентцәа рзы ахархәара хәыда-ԥсадоуп, ҳәа акгьы ыҟамкәа, алицензиа, мамзаргьы ахә ҳәа акгьы ыҟамкәа.",
+      "shortText": "{name}: хәыда-ԥсада, ҟәымшәышәла асахьатә хәмаррақәеи аусуратә мҩақәҵагақәеи адеменциа змоу ауааи урҭ рхылаԥшцәеи рзы. Аҽҭаҩра ыҟам, атаимерқәа ыҟам, ахәшьарақәа ыҟам.",
+      "longText": "{name} ({domain}) аҳәарақәа {count} ҳәарада, адеменциа змоу ауаа рзы иҟаҵоу браузертә хәмаррақәа, урҭ рҟны иҟоуп асахьақәа рыла еиқәшәо ​​ҩыџьа, имариоу ажигсоу, аилыԥшаара, еицырдыруа ажәақәа, насгьы акьыԥхьра зылшо акарточкақәа рыла асахьатә бинго. Иҟам акаунт, аӡыргара, атаимер ма ахәшьара. Иара убас асаит аҿы иҟоуп адеменциа астадиа зегьы рзы еиҿкаау бызшәала иҟоу амҩақәҵагақәа, урҭ рҿы иаагоуп Ажәра иазку Амилаҭтә Институти Альцгеимер ичымазара Ассоциациеи.",
+      "useTitle": "Иарбан еиҿкаарақәоу рхы иадырхәар рылшо",
+      "gamesItemHtml": "<strong>{count} браузер ахәмаррақәа</strong> лаптоп, планшет, ма акомпиутер иацҵоу ателевизор аҿы аус зуа. Ашьақәыргылара, акаунт ма ачагара ҟалаӡом. Абара <a href=\"/games/\">ахәмаррақәа зегьы</a>.",
+      "printablesLabel": "{count} акьыԥхьра зылшо:",
+      "printablesAfter": "Даҟьацыԥхьаӡа иҟоу аҟәардә Акьыԥхьра ахархәара.",
+      "moreItemsHtml": "<li><strong>Агәыԥқәа рформатқәа:</strong> <a href=\"/games/picture-bingo/\">Асахьатә бинго</a> имоуп икьыԥхьуа акарточкақәеи аекран аҿы ааԥхьаҩи, насгьы <a href=\"/activities/trivia/\">имариоу атривиа</a> 50-тәи азҵаарақәа рымоуп, рҭакқәеи рылацәажәаратә пунктқәеи рыла.</li><li><strong>Аусуратә мҩақәҵагақәа</strong> аусзуҩцәеи аҭаацәеи рзы, етапла, хкыла, еилкаау бызшәала иҩуп, ахыҵхырҭақәа рыла. Алагара <a href=\"/activities/ideas/\">101 аусуратә хәыцрақәа</a> мамзаргьы <a href=\"/activities/care-home-groups/\">ахылаԥшратә ҩнқәа рзы агәыԥтә усмҩаԥгатәқәа</a>.</li>",
+      "restHtml": "<h2>Агәыԥқәа рхы ишадырхәо</h2><ul><li><strong>Ахылаԥшратә ҩнқәеи агәалашәаратә хылаԥшреи:</strong> асахьатә бинго ма ажәа алгара зегьы еицырзеиԥшу ауадаҿы телевизорла, аӡәы агәыԥ азы ақәыӷәӷәара.</li><li><strong>Адуцәа рымш апрограммақәа:</strong> планшеттә станциа Асахьа ҩыџьа ԥшь-кафельк рыла еиқәыршәоу, кьаҿк-хазы сеансқәа рзы.</li><li><strong>Ажәлартә библиотекақәа:</strong> ажәақәа рыԥшаарақәеи аицәажәаратә карточкақәеи агәынкыларатә комплектқәа рҿы, насгьы абиблиотекатә планшетқәа рҿы асаит ҭыԥдыргас иҟоу.</li><li><strong>Ахылаԥшцәа рыцхырааратә гәыԥқәеи агәалашәаратә кафеқәеи:</strong> а <a href=\"/handout/\">даҟьак змоу акьыԥхьра зылшо ашәҟәы</a> аҭаацәарақәа аҩныҟа иргарц азы.</li><li><strong>Ахәышәтәырҭақәеи адәықәҵара апланҟаҵаҩцәеи:</strong> ахылаԥшҩы ипакетқәа рҿы иҟоу ашәҟәы, аҩны ма ацәарҭа аганахь ҭынч ҟаҵатәыс иҟоу акы азы.</li></ul><h2>Ҳара иҟаҳамҵо</h2><p>Ахәмаррақәа агәырӷьареи аамҭа аицхгареи рзы ауп. Урҭ адеменциа адиагноз шьақәдыргылом, иԥыршәом, ахәшьара рырҭом, ихәышәтәӡом, мамзаргьы ирмыццакуеит, убри аҟынтә ҳара аиҿкаарақәа ҳрыҳәоит урҭ ус рыӡбахә рҳәарц. Аӡыргақәа ыҟаӡам, ахәмаррақәа рҿы ахьӡқәа, агәабзиара иазку адыррақәа, мамзаргьы афотосахьақәа рҭагалара иаҳәом. Асаит Google Analytics ахархәоит аҭаарақәа рыԥхьаӡаразы; ҳ <a href=\"/privacy/\">амаӡаратә рдырраҭара</a> еизнаго еилнаркаауеит. Ахархәара змоу афотосахьақәа <a href=\"/games/photo-pairs/\">Афото ҩыџьа</a> браузер аҿы шәаангыл.</p><h2>Уресурсқәа рсиа ҳацҵа</h2><p>Ахылаԥшцәа рзы аресурсқәа рсиа шәыхьчозар, шәара шәзы ааԥхьара ҟашәҵар шәылшоит <a href=\"/\">{domain}</a>. Уара иулшоит ахҳәаа ақәҭыхра.</p>",
+      "shortTitle": "Ахҳәаа кьаҿ",
+      "longTitle": "Еиҳау ахҳәаа",
+      "linksHtml": "<p>Ихәарҭоу адаҟьақәа ишиашоу рызхьарԥшразы: <a href=\"/games/\">ԥарадатәи ахәмаррақәа</a>, <a href=\"/activities/printable/\">ԥарада икьыԥхьтәу</a>, <a href=\"/activities/alzheimers/\">Альцгеимер ичымазара азы аусмҩаԥгатәқәа</a> иара убас <a href=\"/caregiving/how-to-play-together/\">еицыхәмаршьа</a>.</p><h2>Азҵаарақәа ма ариашарақәа</h2><p>Асаит аҿы акы ииашамзар, мамзаргьы еилкаамзар, мамзаргьы анхаҩы иҭахрақәа абра иҟоу ала ирзымҭәуазар, иҳаҳәа <a href=\"mailto:{email}\">{email}</a>. Ҳаҳәоит, анхацәеи аклиентцәеи ирызку ахатәы ма агәабзиаратә дыррақәа шәымшьҭын.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Ахьтәы ҭагылазаашьақәа Апрограмма",
+      "seoTitle": "Ахьтәы ҭагылазаашьақәа рпрограмма iPhone азы, Android азы",
+      "description": "Ҳәарада, Golden Moments апрограма: ԥшь-кафель дуқәак рыла еиқәшәо ​​афотосахьа ҟәымшәышәқәа, уиқәыршәараҿы иҵәаху аҭаацәаратә фотосахьақәа, офлайнтәи асахьақәа.",
+      "crumb": "Апрограмма",
+      "lede": "Асаит аҿы иугәаԥхо зегьы, офлаин аус зуа апрограммаҿы, насгьы иалухыз аҭаацәаратә фотосахьақәа ухы иаурхәар улшоит.",
+      "worksOn": "Аус ауеит {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Ихәыҷны алагара</h2><p>Аԥшь-каҵкәыр дуқәеи еицырдыруа асахьақәеи рыла шәалага. Асахьақәа убартә иҟашәҵа, мамзаргьы шәанзыманшәалоу иҵәах. Аҟәымшәышә режим атаимер, ахәшьара ма ашьауӷа амаӡам. Иалышәх 4, 6, 8 мамзаргьы 12 каҵкәыр.</p><h2>Иҟашәҵа хаҭала</h2><p>Иалшәх аҭаацәаратә фотосахьақәа шәхыхәҭаҿы иҟоу афотосахьа алхга ала. Апрограмма аусқәа рзы еиҵоу акопиақәа еиқәнархоит. Уи убиблиотека асканер азыҟанаҵом, мамзаргьы уоригиналтә фотосахьақәа аԥсахӡом, насгьы коллекциак аҿы 24 фотосахьа ҵәахуеит.</p><h2>Еицԥшызар ауп</h2><p>Знык ала асахьа шәахәаԥш. Иалхтәым аҳәарақәа аӡәгьы ахьӡқәа игәалаиршәарц ма аҭак иаша ҟаимҵарц имҳәакәа ацәажәара ааԥхьара рнаҭоит. Аԥшра мацара азхоит.</p><h2>Аофлайн ахьыҟоу</h2><p>Аԥхьатәи асахьақәеи аа-сахьатә пакетқәеи зегьы апрограмма иаҵанакуеит. Иимпорту афотокопиақәа офлаин аус руеит. ICloud мацара аҿы иҵәаху аоригиналқәа ралхразы интернет аимадара аҭаххар ауеит.</p><h2>Аконт ыҟам, афото-синхронизациа асервер ыҟам</h2><p>Аҭаацәаратә фотоҭыхымҭақәа аҭел аҿы иҟоу апрограммаҿы иаанхоит. Уара иулшоит акопиақәа раԥыхра, оригиналқәа умыԥыхӡакәа. Ақәыргыламҭа аҵәахрақәа рҿы апрограмма адыррақәа ыҟазар ауеит. Аԥхьара <a href=\"/app-privacy/\">апрограмма амаӡаратә политика</a>, и <a href=\"/help/\">апрограмма ацхыраара</a> шьаҿацыԥхьаӡа дныҟәоит.</p>",
+      "disclaimer": "Ахьтәы ҭагылазаашьақәа агәырҿыхагақәеи аицәажәареи рзы ауп. Уи адеменциа ма Альцгеимер ичымазара аилкаара, ахәышәтәра, аԥырҟәҟәаара, мамзаргьы ашәара ҟанаҵом.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Ҳәарада, Адеменциеи Альцгеймери рыхәмаррақәа Онлаин",
+    "description": "Адеменциа ма Альцгеимер зыхьуа аиҳабацәа рзы хәыда-ԥсада онлаин хәмаррақәа: асахьақәа реиқәшәара, имариоу ажигсоуқәа, аилыхра, ажәақәа, ашәыга, бинго.",
+    "crumb": "Ахәмаррақәа",
+    "h1": "Адеменциа змоу ауаа рзы ахәмарра ҟәымшәышәқәа",
+    "lede": "{count} шәбраузер аҿы шәеицхәмаруа хәыда-ԥсада ахәмаррақәа. Асахьа дуқәа, ажәа ҟәымшәышәқәа, насгьы акгьы ҟамло: атаимерқәа ыҟам, ахәшьарақәа ыҟам, аҽҭаҩра ыҟам.",
+    "listName": "Адеменциа змоу ауаа рзы ахәмарра ҟәымшәышәқәа",
+    "byStageTitle": "Ахәмарра етапла алхра",
+    "byStageLede": "Аетапқәа мҩақәҵагоуп. Ауаҩы иахьа игәаԥхо, насгьы изыманшәалоу шәацныҟәала.",
+    "stageCol": "Асцена",
+    "gamesCol": "Лассы-лассы ианаало ахәмаррақәа",
+    "moreHtml": "Аекран аҟынтәи егьырҭ ахәыцрақәа: <a href=\"/activities/ideas/\">101 усмҩаԥгатәқәа адеменциа змоу ауаа рзы</a>, <a href=\"/activities/alzheimers/\">Альцгеимер ичымазаразы аусмҩаԥгатәқәеи ахәмаррақәеи</a>, <a href=\"/activities/memory-games/\">ҟәымшәышәла агәынкыларатә хәмаррақәа</a> иара убас <a href=\"/activities/puzzles/\">аԥышәарақәа</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Иарбан хәмарроу ҳалагар акәу?",
+        "a": "Асахьа ҩыџьа ԥшь-каҵкәырк рыла иҭынчу раԥхьатәи алхроуп. Асахьақәа рыбжьара алхра рацәоуп ҳәа угәы иаанагозар, иԥышәшәа Ҩ-сахьак рыла еиԥшу аԥшаара. Агәыԥ азы, иԥышәа Асахьатә бинго."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Ахәмаррақәа аипад ма аҭел аҿы аус руама?",
+        "a": "Ааи. Ахәмаррақәа зегьы браузерла аҭелқәеи, апланшетқәеи, акомпиутерқәеи рҿы аус руеит, насгьы асахьақәа аекран дырҭәуеит. Астенд аҿы иҟоу апланшет ҩыџьа рзы еиҳа иманшәалоуп."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Ибзиоума арҭ ахәмаррақәа Альцгеимер ичымазара змоу аӡәы изы?",
+        "a": "Ааи. Урҭ ҟаҵан адеменциа змоу ауаа рзы, Альцгеимер ичымазарагьы уахь иналаҵаны. Асахьақәа аарԥшуп, алхрақәа маҷуп, насгьы акгьы аамҭеи ахәшьара амаӡам, убри аҟынтә ахәмаррақәа ҿыцқәа ргәалашәара аасҭа еицырдыруа акы аидырра иақәыршәоуп."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Абарҭ агәалашәаратә хәмаррақәа аиҳабацәа рзы акәу?",
+        "a": "Урҭ аиқәшәаратәи асахьатәи хәмаррақәа роуп, зегьы зықәрахь инеихьоу ауаа ргәы иахәо, аха урҭ еиқәыршәоуп агәынкылара ԥышәаразы акәымкәа: Асахьақәа ҩыџьа-ҩыџьала асахьақәа рҿаԥшылара иаанхоит, даҽакала иалухымзар. Адеменциа змоу аиҳабацәа рзы агәынкыларатә хәмаррақәа рзы ҳгаид иҳаилнаркаауеит иарбанзаалак агәынкыларатә хәмарра ҟәымшәышәны ишыҟаҵатәу."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Ахылаԥшратә ҩны аҿы агәыԥқәа рзы ахәмаррақәа ыҟоума?",
+        "a": "Ааи. Асахьатә бинго иамоуп акьыԥхьра зылшо акарточкақәеи аекран аҿы ааԥхьаҩи, насгьы Finish the saying and Conversation акарточкақәа ибзианы аус руеит рыбжьы рдуны агәыԥ иаԥхьо."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "Аифон, аипад, андроид",
+    "requirements": "iOS 15 ма уи ашьҭахьтәи; Андроид 7.0 ма уи ашьҭахьтәи",
+    "summary": "iPhone, iPad, Android рзы ихәыҷым апрограмма, ԥшьба-жәаҩа кафель дуқәа рҿы асахьа ҟәымшәышәқәа реиқәшәара, иалышәхыз аҭаацәаратә фотосахьақәа рыла реиқәшәара, рыхәаԥшра, насгьы ааба интернет ада аус зуа асахьатә пакетқәа рыла. Аконт, аӡыргақәа, атаимер ма ахәшьара ыҟам.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "4, 6, 8 мамзаргьы 12 каҵкәыр дуқәа ирықәшәо ​​асахьа ҟәымшәышә; асахьа убаратәы иаанхоит, урҭ уҵәахырц уҭахымзар",
+      "Иалшәхыз аҭаацәаратә фотосахьақәа апрограммаҿы иқәҭыххоит, еиқәшәарц, еицрыхәаԥшырц азы",
+      "Еицрыхәаԥш: асахьа знык ала, иаҭахым ацәажәаратә ҳәарақәа рыла",
+      "Апрограмма иацуп асахьатә пакетқәа ааба; урҭ офлайнла аус руеит",
+      "Аконт, аӡыргақәа, апликациаҿы аахәарақәа, атаимер, ахәшьара ма ашьауӷа ыҟам"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Иҟоума адеменциа аусмҩаԥгатәқәа рзы апрограмма?",
+        "a": "Ааи. Ахьтәы ҭагылазаашьақәа (\"{storeName}\" ҳәа иарбоуп) App Store-и Google Play-и рҿы хәыда-ԥсадоуп. Иара иаҳнаҭоит асахьа ҟәымшәышәқәа реиқәшәара акаҵкәыр дуқәа рыла, иалышәхыз аҭаацәаратә фотосахьақәа змоу ахәмаррақәа, насгьы офлайнла аус зуа асахьақәа рпакетқәа."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Ахьтәы ҭагылазаашьақәа рыпрограмма хәыда-ԥсадоуп?",
+        "a": "Ааи. Ахгара хәыда-ԥсадоуп, ҳәа акгьы ыҟамкәа, акаунт, мамзаргьы апликациаҿы аахәарақәа ҟамҵакәа."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Апрограмма интернетда аус ауама?",
+        "a": "Ааи. Алагамҭатә сахьақәеи аа-сахьатә пакетқәеи зегьы апрограмма иаҵанакуеит, насгьы аҭаацәаратә фотосахьақәа апрограммаҿы ианқәҭыхлак ашьҭахь офлайнла аус руеит. iCloud аҿы мацара иҵәаху афотосахьа алхразы аимадара аҭаххар ауеит."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Исылшома ҳҭаацәаратә фотосахьақәа схы иасырхәар?",
+        "a": "Ааи. Иалышәх афотосахьақәа шәхыхәҭаҿы иҟоу афотосахьа алхга ала. Апрограмма иҟанаҵо аусқәа рзы еиҵоу акопиақәа аиқәыршәагаҿы иааннакылоит, урҭ ҭанагаӡом, насгьы оригиналқәа зынӡа иԥсахӡом. Уара ианаҭаху аамҭазы акопиақәа раԥыхра улшоит."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Ахшыбаҩ азыҟаҵаратә ма агәынкылара аԥышәаратә апрограмма акәу?",
+        "a": "Мап. Ахьтәы ҭагылазаашьақәа агәырӷьареи аамҭа аицхгареи рзы ауп. Уи ахәшьарақәеи атестқәеи амам, насгьы адеменциа ма Альцгеимер ичымазара аилкаара, ахәышәтәра, аԥырҟәҟәаара, ашәара ҟанаҵом."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Иарбан мчыбжьқәоу аус зуа?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Иҟоума ари ахәмарра апрограмматә версиа?",
+      "a": "Ааи. iPhone, iPad, Android рзы ихәыҷу Golden Moments апрограмма еиԥшу асахьақәа реиқәшәара амоуп, иалышәхыз аҭаацәаратә фотосахьақәа шәхы иашәырхәар шәылшоит, насгьы офлайнла аус ауеит. Аконт, аӡыргақәа ма ахәшьара ыҟам."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Иҟоума ари ахәмарра апрограмматә версиа?",
+      "a": "Ари ахәмарра акәӡам. iPhone, iPad, Android рзы ихәыҷу Golden Moments апрограмма иалышәхыз акаҵкәыр дуқәеи аҭаацәаратә фотосахьақәеи ирықәшәо ​​асахьа ҟәымшәышәқәа амоуп, насгьы уи офлайнла аус ауеит. Ари ахәмарра убраузер аҟны ихәыда-ԥсада иаанхоит."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: асахьа дуқәа, ҩызаратә",
+    "noscript": "Ари ахәмарра убраузер аҟны JavaScript аҿактәуп. Ҵаҟа иаагоу алабжьарақәа уи адагьы аус руеит.",
+    "about": "Атәы {name}",
+    "aboutAria": "Ари ахәмарра иазкны",
+    "noTimer": "Аамҭаныҩцәеи ахәшьарақәеи ыҟам",
+    "printable": "Акьыԥхьра зылшо",
+    "howTo": "Ишԥахәмартәу {name}",
+    "tips": "Аицхәмарразы абжьгарақәа",
+    "newToPlayingHtml": "Адеменциа змоу аӡәы ицхәмаруа уалагама? Аԥхьара <a href=\"/caregiving/how-to-play-together/\">ахәмаррақәа шеицхәмаруа</a>, аинтерес рцәыӡыр иҟарҵашагьы уахь иналаҵаны.",
+    "moreAria": "Еиҳаны иҭҵаатәуп",
+    "helpfulGuides": "Ихәарҭоу амҩақәҵагақәа",
+    "appTitle": "Апрограммаҿы ирҳәа",
+    "appText": "Ҳәарада, Golden Moments апрограма акаҵкәыр дуқәеи шәҭаацәаратә фотосахьақәеи ирықәшәо ​​асахьа ҟәымшәышәқәа амоуп, насгьы Wi‐Fi ада аус ауеит. Аифон, Аипад, Андроид.",
+    "photoAppTitle": "Шәфотосахьақәа шәхианы ишәымаз",
+    "photoAppText": "Ҳәарада, Golden Moments апрограммаҿы иалышәхыз афотосахьақәа даҽазны шәхы иашәырхәоит, насгьы ахәмаррақәа Wi‐Fi ада аус руеит. Аифон, Аипад, Андроид.",
+    "goodToKnow": "Ибзиоуп адырра",
+    "goodToKnowText": "Ари ахәмарра агәахәареи аамҭа аицхгареи рзы ауп. Уи акгьы ԥнашәом, ишәаӡом, иахәышәтәӡом.",
+    "moreGames": "Еиҳа ахәмарра ҟәымшәышәқәа",
+    "crumb": "Ахәмаррақәа"
   }
 }

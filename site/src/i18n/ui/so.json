@@ -267,7 +267,7 @@
       "title": "Caafimaadka Maskaxda: Waxa Cilmi-baarisu Sheegto",
       "seo": "Caafimaadka Maskaxda iyo Khatarta Dementia: Cilmi-baaris",
       "description": "Ma laga hortagi karaa dementia? Hagayaal daacad ah oo ilo leh oo ku saabsan khatarta dementia, ciyaaraha maskaxda, cuntada, hurdada iyo maqalka.",
-      "lede": "Waxa daraasaadka waaweyn runtii muujiyaan ee ku saabsan yaraynta khatarta dementia, oo si fudud loo sharraxay, oo ay ku jirto meesha caddaynta ay daciif ama isku dhex jirto. Macluumaad guud, ma aha talo caafimaad."
+      "lede": "Waxa daraasaadka waaweyn runtii muujiyaan ee ku saabsan yaraynta khatarta dementia, oo si fudud loo sharraxay, oo ay ku jirto meesha caddaynta ay daciif ama isku."
     }
   },
   "guide": {
@@ -411,7 +411,7 @@
       "seoTitle": "Waxqabadyo Dementia oo Bilaash ah: Guryaha Daryeelka",
       "description": "Sida guryaha daryeelka, maktabadaha iyo kooxaha taageerada u isticmaalaan ciyaaraheenna dementia ee bilaashka ah, iyo qoraal lagu dari karo liis ilo ah.",
       "crumb": "Hay’adaha",
-      "lede": "Wax kasta oo degelkan ku jira waa bilaash in lagu isticmaalo dadka deggan, xubnaha iyo macaamiisha, akoon, shati ama kharash la’aan. Boggan wuxuu sharraxayaa waxa halkan yaal iyo sida loo wadaago.",
+      "lede": "Wax kasta oo degelkan ku jira waa bilaash in lagu isticmaalo dadka deggan, xubnaha iyo macaamiisha, akoon, shati ama kharash la’aan.",
       "shortText": "{name}: ciyaaro sawir oo deggan oo bilaash ah iyo hagayaal waxqabad oo loogu talagalay dadka ku nool dementia iyo daryeelayaashooda. Diiwaan gelin, saacad ama dhibco ma jiraan.",
       "longText": "{name} ({domain}) wuxuu bixiyaa {count} ciyaar biraawsar oo bilaash ah oo loogu talagalay dadka ku nool dementia, oo ay ku jiraan lammaane isku-mid ah oo sawirradu u muuqdaan, jigsaw fudud, kala-saarid, hadallo la yaqaan iyo bingo sawir oo leh kaararka la daabaci karo. Akoon, xayeysiis, saacad ama dhibco ma jiraan. Degelku wuxuu kaloo leeyahay hagayaal waxqabad oo af fudud ah oo loogu talagalay marxalad kasta oo dementia ah, kuwaas oo ku tilmaama National Institute on Aging iyo Alzheimer’s Association.",
       "useTitle": "Waxa hay’aduhu isticmaali karaan",
@@ -441,7 +441,7 @@
     "description": "Ciyaaro online ah oo bilaash ah oo waayeelka ku nool dementia loogu talagalay: isku-mid sawir, jigsaw fudud, kala-saarid, midabayn, bingo. Saacad ma jirto.",
     "crumb": "Ciyaaro",
     "h1": "Ciyaaro Deggan oo loogu talagalay Dadka ku nool Dementia",
-    "lede": "{count} ciyaar oo bilaash ah oo biraawsarkaaga lagu wada ciyaaro. Sawirro waaweyn, erayo fudud, iyo waxba lagu guuldaraysan maayo: saacad, dhibco ama diiwaan gelin ma jiraan.",
+    "lede": "{count} ciyaar oo bilaash ah oo biraawsarkaaga lagu wada ciyaaro. Sawirro waaweyn, erayo fudud, iyo waxba lagu guuldaraysan maayo: saacad, dhibco ama diiwaan gelin.",
     "listName": "Ciyaaro deggan oo loogu talagalay dadka ku nool dementia",
     "byStageTitle": "Dooridda ciyaar marxalad ahaan",
     "byStageLede": "Marxaladuhu waa hage qiyaas ah oo keliya. Raac waxa qofku ku farxo iyo waxa maanta raaxada ah.",

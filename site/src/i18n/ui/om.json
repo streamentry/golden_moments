@@ -267,7 +267,7 @@
       "title": "Fayyaa sammuu: wanta qorannoon jedhu",
       "seo": "Fayyaa sammuu fi balaa dementia: wanta qorannoon jedhu",
       "description": "Dementia ittisuun ni danda’amaa? Qajeelfama dhugaa, madda qabu: wantoota balaa, taphoota sammuu, soomuu, nyaata, hirriba, dhaggeeffachuu fi mallattoo duraa.",
-      "lede": "Qorannoon bal’aan balaa dementia xiqqeessuu irratti dhugumatti maal akka mul’isu, salphaatti ibsame, bakka ragaan laafu ykn makaa ta’e dabalatee. Odeeffannoo waliigalaa, gorsa fayyaa miti."
+      "lede": "Qorannoon bal’aan balaa dementia xiqqeessuu irratti dhugumatti maal akka mul’isu, salphaatti ibsame, bakka ragaan laafu ykn makaa ta’e dabalatee."
     }
   },
   "guide": {
@@ -411,7 +411,7 @@
       "seoTitle": "Hojiiwwan dementia bilisaa manneen kunuunsaa fi gareeleef",
       "description": "Akkamitti manneen kunuunsaa, mana kitaabaa fi garee deeggarsaa taphoota dementia bilisaa fayyadamu, fi barreeffama tarreeffama maddootaa keessatti nu dabaluuf.",
       "crumb": "Dhaabbilootaaf",
-      "lede": "Wanti marsariitii kana irra jiru hundi jiraattota, miseensota fi maamiltoota wajjin fayyadamuuf bilisaa dha; akkaawuntii, hayyama ykn kaffaltii male. Fuulli kun wanta as jiru fi akkamitti akka qoodan ibsa.",
+      "lede": "Wanti marsariitii kana irra jiru hundi jiraattota, miseensota fi maamiltoota wajjin fayyadamuuf bilisaa dha; akkaawuntii, hayyama ykn kaffaltii male.",
       "shortText": "{name}: taphoota suuraa laafaa bilisaa fi qajeelfama hojii nama dementia wajjin jiraatuu fi kunuunsitootaaf. Galmaa’uu, sa’aatii fi qabxii male.",
       "longText": "{name} ({domain}) taphoota biraawzara bilisaa {count} nama dementia wajjin jiraatuuf tolfaman dhiheessa, lamaan suuraa ifatti turan, jigsaw salphaa, adda baasuu, jechoota beekamoo fi bingoo suuraa kaartii maxxanfamu wajjin dabalatee. Akkaawuntii, beeksisa, sa’aatii ykn qabxii hin qabu. Marsariitiin kun akkasumas qajeelfama hojii afaan salphaa sadarkaa dementia hundaaf kan National Institute on Aging fi Alzheimer’s Association caqasu qaba.",
       "useTitle": "Wanta dhaabbileen fayyadamuu danda’an",
@@ -441,7 +441,7 @@
     "description": "Taphoota onlaayinii bilisaa jaarsolii dementia ykn Alzheimer wajjin jiraatuuf: suuraa wal-fakkeessuu, jigsaw, adda baasuu, halluu, bingoo. Sa’aatii male.",
     "crumb": "Taphoota",
     "h1": "Taphoota laafaa nama dementia wajjin jiraatuuf",
-    "lede": "Taphoota bilisaa {count} biraawzara keessan keessatti waliin taphachuuf. Suuraawwan guguddaa, jecha salphaa, fi wanti dadhabamu hin jiru: sa’aatii, qabxii, galmaa’uu male.",
+    "lede": "Taphoota bilisaa {count} biraawzara keessan keessatti waliin taphachuuf.",
     "listName": "Taphoota laafaa nama dementia wajjin jiraatuuf",
     "byStageTitle": "Sadarkaadhaan taphaa filachuu",
     "byStageLede": "Sadarkaawwan qajeelfama ulfaataa qofa. Wanta nama sun jaallatu fi har’a isa mijeessu hordofaa.",

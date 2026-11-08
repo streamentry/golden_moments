@@ -767,6 +767,29 @@
   color: var(--gm-on-surface-variant);
   margin-top: var(--space-md);
 }
+.meta-line a {
+  color: var(--gm-primary);
+}
+.meta-line a:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
+
+/* ---------- Copyable text block for organizations and resource lists ---------- */
+.copy-text {
+  background: var(--gm-surface-sunken);
+  border: 1px solid var(--gm-outline-variant);
+  border-inline-start: 4px solid var(--gm-primary);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  padding: var(--space-md) var(--space-lg);
+  margin-block: var(--space-md) var(--space-lg);
+  font-size: var(--text-md);
+  line-height: var(--leading-body);
+}
+.copy-text p {
+  margin: 0;
+}
 
 /* ---------- Two column article on wide screens ---------- */
 .article-layout {
@@ -903,6 +926,7 @@
   .aside-box,
   .sources,
   .sources li,
+  .copy-text,
   tr,
   blockquote,
   .faq details,
@@ -1112,6 +1136,27 @@ summary {
   .sources a:focus-visible {
     outline: 3px solid #000000;
     outline-offset: 2px;
+  }
+  .meta-line {
+    color: #000000;
+  }
+  .meta-line a {
+    color: #000000;
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+  }
+  .meta-line a:hover {
+    text-decoration-thickness: 3px;
+  }
+  .meta-line a:focus-visible {
+    outline: 3px solid #000000;
+    outline-offset: 2px;
+  }
+  .copy-text {
+    border: 2px solid #000000;
+    border-inline-start: 6px solid #000000;
+    background: #FFFFFF;
+    color: #000000;
   }
   .prose blockquote {
     border-inline-start: 4px solid #000000;
@@ -1353,6 +1398,21 @@ summary {
   .sources a:focus-visible {
     outline: 3px solid Highlight;
     outline-offset: 2px;
+  }
+  .meta-line {
+    color: CanvasText;
+  }
+  .meta-line a {
+    color: LinkText;
+  }
+  .meta-line a:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 2px;
+  }
+  .copy-text {
+    border: 1px solid CanvasText;
+    border-inline-start: 4px solid Highlight;
+    color: CanvasText;
   }
   .prose blockquote {
     border-inline-start: 4px solid Highlight;

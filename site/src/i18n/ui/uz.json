@@ -266,7 +266,7 @@
       "title": "Miya salomatligi: tadqiqotlar nima deydi",
       "seo": "Miya salomatligi va demensiya xavfi: tadqiqotlar nima deydi",
       "description": "Demensiyaning oldini olish mumkinmi? Xavf omillari, miya oʻyinlari, roʻza, ovqatlanish, uyqu va eshitish haqida halol, manbali qoʻllanmalar.",
-      "lede": "Demensiya xavfini kamaytirish haqida yirik tadqiqotlar aslida nimani koʻrsatadi, oddiy tushuntirilgan, dalillar zaif yoki aralash joylari bilan birga. Umumiy ma’lumot, tibbiy maslahat emas."
+      "lede": "Demensiya xavfini kamaytirish haqida yirik tadqiqotlar aslida nimani koʻrsatadi, oddiy tushuntirilgan, dalillar zaif yoki aralash joylari bilan birga."
     }
   },
   "guide": {
@@ -400,7 +400,7 @@
       "seoTitle": "Chop etiladigan varaqa: bepul demensiya oʻyinlari onlayn",
       "description": "Oilalar va qarovchilar uchun demensiya bilan yashayotganlarga moʻljallangan bepul, sokin rasm oʻyinlari haqida bir sahifalik chop etiladigan varaqa.",
       "crumb": "Chop etiladigan varaqa",
-      "lede": "Bu sahifani yordam guruhi, parvarish toʻplami yoki muzlatkich eshigi uchun chop eting. Brauzeringizning «Chop etish» buyrugʻidan foydalaning; menyular va tugmalar chop etilmaydi.",
+      "lede": "Bu sahifani yordam guruhi, parvarish toʻplami yoki muzlatkich eshigi uchun chop eting.",
       "introHtml": "<p>Katta rasmlar, oddiy soʻzlar va yutqazadigan narsa yoʻq. Telefon, planshet yoki kompyuterda bepul: roʻyxatdan oʻtish, reklama, taymer va ball yoʻq. Yonma-yon oʻtiring va navbatma-navbat oʻynang.</p>",
       "gamesTitle": "Birga sinab koʻrish uchun oʻyinlar",
       "restHtml": "<h2>Bir necha maslahat</h2><ul><li>Inson eng yaxshi holatda boʻladigan kun vaqtini tanlang.</li><li>Eng oson sozlamadan boshlang. Toʻrtta katak yetarli.</li><li>Rasmlar haqida gaplashing. Suhbat koʻpincha eng yaxshi qismi.</li><li>Hali yoqimli paytda toʻxtang. Barvaqt tugatish — yaxshi natija.</li></ul><h2>Saytda yana</h2><ul><li>Bepul chop etiladigan materiallar: yirik harfli soʻz izlash, boʻyash sahifalari, suhbat kartalari va rasmli bingo.</li><li>Har bir bosqich uchun mashgʻulot gʻoyalari hamda birga oʻynash va oʻzingizga gʻamxoʻrlik haqida qoʻllanmalar.</li></ul><p class=\"muted\">Zavq va birga vaqt oʻtkazish uchun. Tibbiy maslahat, test yoki davolash emas. Golden Moments Cloudjet Solutions Pte. Ltd. tomonidan nashr etilgan.</p>"
@@ -410,7 +410,7 @@
       "seoTitle": "Parvarish uylari va guruhlar uchun bepul mashgʻulotlar",
       "description": "Parvarish uylari, kutubxonalar va yordam guruhlari bepul demensiya oʻyinlarimizdan qanday foydalanishi hamda bizni resurslar roʻyxatiga qoʻshish matni.",
       "crumb": "Tashkilotlar uchun",
-      "lede": "Bu saytdagi hamma narsadan yashovchilar, a’zolar va mijozlar bilan bepul foydalanish mumkin: akkaunt, litsenziya yoki toʻlov kerak emas. Bu sahifa bu yerda nima borligini va uni qanday ulashishni tushuntiradi.",
+      "lede": "Bu saytdagi hamma narsadan yashovchilar, a’zolar va mijozlar bilan bepul foydalanish mumkin: akkaunt, litsenziya yoki toʻlov kerak emas.",
       "shortText": "{name}: demensiya bilan yashayotganlar va qarovchilari uchun bepul, sokin rasm oʻyinlari va mashgʻulot qoʻllanmalari. Roʻyxatdan oʻtish, taymer va ball yoʻq.",
       "longText": "{name} ({domain}) demensiya bilan yashayotganlar uchun moʻljallangan {count} ta bepul brauzer oʻyinini taklif qiladi: rasmlari koʻrinib turadigan juftlash, oson jumboq, saralash, tanish maqollar va chop etiladigan kartali rasmli bingo. Akkaunt, reklama, taymer yoki ball yoʻq. Saytda demensiyaning har bir bosqichi uchun Milliy qarilik instituti va Alsgeymer assotsiatsiyasiga tayanadigan oddiy tildagi mashgʻulot qoʻllanmalari ham bor.",
       "useTitle": "Tashkilotlar nimadan foydalanishi mumkin",

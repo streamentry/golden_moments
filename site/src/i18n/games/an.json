@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Pares de imágenes",
+    "seoTitle": "Juego de correspondencias para la demencia: pares de imágenes",
+    "h1": "Parejas de imágenes: un suave juego de combinación",
+    "description": "Un juego de parejas gratuito y suave para personas que viven con demencia.",
+    "short": "Encuentra las dos imágenes que son iguales. Las imágenes pueden seguir mostrándose.",
+    "players": "1 o 2 personas, una al lado de la otra",
+    "intro": "Toca una imagen y luego toca la que coincida. Las imágenes siguen mostrándose de forma predeterminada, por lo que no es necesario recordar nada. Cuando dos imágenes van juntas, obtienen un borde dorado y una marca de verificación.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Elige cuántas fichas usar. Cuatro fichas es un lugar tranquilo para empezar.",
+      "Toca cualquier imagen. Obtiene un borde dorado.",
+      "Toca la imagen que se ve igual. La pareja permanece unida con una marca de verificación.",
+      "Si las dos imágenes son diferentes, no pasa nada malo. Toque nuevamente cuando esté listo.",
+      "Active \"Imágenes ocultas\" solo si ambos disfrutan de la versión clásica boca abajo."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Mencionen las imágenes en voz alta y charlen sobre ellas: \"Una taza de té roja. ¿Tomas leche en tu té?\"",
+      "Deje que la persona que usted cuida haga tapping, incluso si lleva un tiempo. Señale en lugar de tocarlos.",
+      "Quédate con cuatro fichas mientras te sientas bien. Más fichas son una elección, nunca un nivel que alcanzar.",
+      "Termine mientras aún se pueda disfrutar. Un juego es una actividad completa."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Hay un cronómetro o una puntuación?",
+        "a": "No. No hay cronómetro, puntuación, contador de movimientos ni pérdida. Puedes detenerte en cualquier momento y detenerte a mitad del camino es una excelente manera de terminar."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "¿Por qué las imágenes permanecen boca arriba?",
+        "a": "Mantener las imágenes visibles hace que el juego consista en buscar y combinar en lugar de recordar. Mucha gente lo encuentra más tranquilo. Puedes cambiar a imágenes ocultas con un solo toque si lo prefieres."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Es gratis y necesito registrarme?",
+        "a": "Sí, es gratis y no requiere cuenta, registro ni descarga. Funciona en el navegador web de un teléfono, tableta o computadora."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "¿Podemos usar nuestras propias fotos familiares?",
+        "a": "Sí. Pruebe Pares de fotos, que le permite elegir fotos de su dispositivo. Las fotos permanecen en su navegador y no se cargan."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Encuentra lo mismo",
+    "seoTitle": "Encuentra la misma imagen: Juego simple sobre la demencia",
+    "h1": "Encuentra la misma imagen",
+    "description": "Una imagen arriba, dos o cuatro abajo. Toca el que sea igual. Un juego de imágenes tranquilo y gratuito para personas que viven con demencia, sin cronómetro.",
+    "short": "Mire la imagen en la parte superior y toque la misma a continuación.",
+    "players": "1 o 2 personas",
+    "intro": "Una sola imagen se encuentra en la parte superior de la pantalla. Debajo hay dos, tres o cuatro imágenes. Toca el que sea igual. Es una elección sencilla a la vez, con mucho espacio para hablar.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Elija dos, tres o cuatro imágenes para elegir. Dos es el más simple.",
+      "Miren juntos la imagen de arriba.",
+      "Toca la misma imagen a continuación. Está marcado con un cheque y algunas palabras cálidas.",
+      "Si se toca una imagen diferente, el juego simplemente la nombra y espera. Tome su tiempo.",
+      "Toca \"Siguiente imagen\" cuando estés listo para otra."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Habla sobre cada imagen antes de elegir: colores, formas, dónde podrías verla.",
+      "Dos opciones no son \"demasiado fáciles\". El objetivo es un momento agradable, no un desafío.",
+      "Si hacer tapping es difícil, la persona puede señalar y usted puede hacer tapping por ella."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Hay un cronómetro o una puntuación?",
+        "a": "No. No hay cronómetro, puntuación, contador de movimientos ni pérdida. Puedes detenerte en cualquier momento y detenerte a mitad del camino es una excelente manera de terminar."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "¿Qué sucede si se toca la imagen equivocada?",
+        "a": "Nada desagradable. No hay timbre, cruz roja ni temblores. El juego nombra la imagen que fue tocada y espera el siguiente toque."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Es gratis y necesito registrarme?",
+        "a": "Sí, es gratis y no requiere cuenta, registro ni descarga. Funciona en el navegador web de un teléfono, tableta o computadora."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Partido de sombras",
+    "seoTitle": "Juego de combinación de sombras para la demencia: gratis en línea",
+    "h1": "Shadow Match: un suave juego de imágenes",
+    "description": "Una sombra oscura en la parte superior, de dos a cuatro imágenes debajo. Toca la imagen que forma la sombra.",
+    "short": "Mira la sombra y toca la imagen que la representa.",
+    "players": "1 o 2 personas",
+    "intro": "La combinación de sombras es una actividad familiar de las hojas de trabajo impresas, aquí con imágenes grandes y nada que imprimir. Una suave sombra se sitúa en la parte superior de la pantalla y dos, tres o cuatro imágenes esperan debajo. Toca el que hace la sombra. También es fácil hablar de formas como una bicicleta, un paraguas o una taza de té.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Elija dos, tres o cuatro imágenes para elegir. Dos es el más simple.",
+      "Miren juntos la sombra. ¿Qué forma tiene? ¿Es alto o redondo?",
+      "Toca la imagen que forma la sombra. Su nombre aparece bajo la sombra.",
+      "Si se toca una imagen diferente, el juego simplemente la nombra y espera. Tome su tiempo.",
+      "Toca \"Siguiente sombra\" cuando estés listo para otra."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Traza el contorno de la sombra con un dedo y habla sobre la forma.",
+      "Si las sombras te resultan difíciles hoy, cambia a Buscar lo mismo, donde las imágenes se parecen.",
+      "Hable sobre la imagen una vez que la encuentre: \"Teníamos un paraguas así\"."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Hay un cronómetro o una puntuación?",
+        "a": "No. No hay cronómetro, puntuación, contador de movimientos ni pérdida. Puedes detenerte en cualquier momento y detenerte a mitad del camino es una excelente manera de terminar."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "¿La combinación de sombras es buena para las personas con demencia?",
+        "a": "Puede ser una actividad agradable y sencilla para algunas personas, especialmente en las primeras etapas. Las formas son más fáciles de reconocer que las palabras. Es para disfrutar y conversar, no para una prueba, y no trata ni retarda la demencia. Si le causa frustración, intente encontrar lo mismo o simplemente miren fotos juntos."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "¿Qué sucede si se toca la imagen equivocada?",
+        "a": "Nada desagradable. No hay timbre, cruz roja ni temblores. El juego nombra la imagen que fue tocada y espera el siguiente toque."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Es gratis y necesito registrarme?",
+        "a": "Sí, es gratis y no requiere cuenta, registro ni descarga. Funciona en el navegador web de un teléfono, tableta o computadora."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Ordenar juntos",
+    "seoTitle": "Juego de clasificación para la demencia: ordenar juntos",
+    "h1": "Clasificar juntos: una actividad de clasificación de imágenes",
+    "description": "Toca una imagen y luego toca la cesta a la que pertenece: cocina o jardín, frutas o animales.",
+    "short": "Pon cada cuadro en su cesta: cocina o jardín, y más.",
+    "players": "1 o 2 personas",
+    "intro": "Clasificar es una tarea cotidiana familiar y satisfactoria, como guardar la compra o emparejar calcetines. Toca una imagen y luego toca la cesta a la que pertenece. No hay prisas ni giros equivocados.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Elija un tema: cocina y jardín, frutas y animales, o hogar y viajes.",
+      "Toca una imagen. Obtiene un borde dorado.",
+      "Toca la cesta a la que pertenece. La imagen pasa a esa cesta.",
+      "Si pertenece a la otra canasta, el juego lo dice suavemente y espera.",
+      "Cuando todos los dibujos estén ordenados, miren juntos las cestas."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "A menudo no hay respuestas incorrectas en la vida real. Si alguien dice que una regadera debe estar en la cocina, pregúntele por qué. Quizás obtengas una buena historia.",
+      "Utilice las imágenes como mensaje: \"¿Qué cultivaste en tu jardín?\"",
+      "Clasificar objetos reales, como cucharas, tenedores o botones por color, es un excelente seguimiento fuera de la pantalla."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Hay un cronómetro o una puntuación?",
+        "a": "No. No hay cronómetro, puntuación, contador de movimientos ni pérdida. Puedes detenerte en cualquier momento y detenerte a mitad del camino es una excelente manera de terminar."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "¿Por qué clasificar?",
+        "a": "Muchas personas disfrutan clasificar porque les parece un trabajo útil y familiar. También es fácil hablar de las imágenes sobre la marcha."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Es gratis y necesito registrarme?",
+        "a": "Sí, es gratis y no requiere cuenta, registro ni descarga. Funciona en el navegador web de un teléfono, tableta o computadora."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Rompecabezas de imágenes",
+    "seoTitle": "Rompecabezas fácil para la demencia: 4 o 9 piezas",
+    "h1": "Rompecabezas con imágenes: un rompecabezas fácil",
+    "description": "Un sencillo rompecabezas en línea para personas que viven con demencia: 4 o 9 piezas grandes, la imagen completa permanece visible y tocas dos piezas para.",
+    "short": "Toca dos piezas para intercambiarlas hasta que la imagen esté completa.",
+    "players": "1 o 2 personas",
+    "intro": "Una imagen amigable se corta en cuatro o nueve pedazos grandes y se mezclan. La imagen completa permanece visible como guía. Toca una pieza, luego otra e intercambian lugares. No es necesario arrastrar.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Elige una imagen y 4 o 9 piezas. Cuatro es un comienzo suave.",
+      "Mira la imagen completa en la parte superior.",
+      "Toca una pieza y luego toca el lugar donde debería ir. Las dos piezas se intercambian.",
+      "Las piezas en el lugar correcto reciben una pequeña marca de verificación.",
+      "Cuando la imagen esté completa, disfrútenla juntos y luego elijan otra."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Tocar dos piezas para intercambiarlas es mucho más fácil que arrastrar para muchas personas.",
+      "Hable sobre la imagen a medida que se va armando: \"Ahí está el techo rojo\".",
+      "Un rompecabezas de madera auténtica con entre 12 y 24 piezas grandes también es una actividad de mesa encantadora."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Hay un cronómetro o una puntuación?",
+        "a": "No. No hay cronómetro, puntuación, contador de movimientos ni pérdida. Puedes detenerte en cualquier momento y detenerte a mitad del camino es una excelente manera de terminar."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "¿Necesito arrastrar las piezas?",
+        "a": "No. Toca una pieza, luego toca otra e intercambian lugares. Esto es más fácil con una mano temblorosa o en una pantalla pequeña."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Es gratis y necesito registrarme?",
+        "a": "Sí, es gratis y no requiere cuenta, registro ni descarga. Funciona en el navegador web de un teléfono, tableta o computadora."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Termina el dicho",
+    "seoTitle": "Termina el dicho: Juego de proverbios para personas mayores",
+    "h1": "Termina el dicho",
+    "description": "Refranes americanos familiares a los que les falta la última palabra, como \"Un centavo ahorrado es un centavo ___\".",
+    "short": "Completen juntos dichos familiares y luego hablen sobre ellos.",
+    "players": "1, 2 o un grupo",
+    "intro": "Los viejos dichos suelen ser bien conocidos durante toda la vida. Cada tarjeta muestra un dicho familiar al que le falta la última palabra, tres opciones y un botón \"Mostrar el final\". Tras el final, una suave pregunta invita a la conversación.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Lean juntos el dicho en voz alta.",
+      "Toca la palabra que la termina o toca \"Mostrar el final\".",
+      "Lea el dicho completo nuevamente y hable sobre ello usando el mensaje.",
+      "Toca \"Siguiente dicho\" cuando estés listo."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Lee despacio y deja una pausa antes de la última palabra. A menudo la gente lo dice antes de terminar.",
+      "Si alguien da un final diferente, que lo disfruten. Algunas versiones de dichos varían según la familia o la región.",
+      "En grupo, una persona lee y todos participan en el final."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Hay un cronómetro o una puntuación?",
+        "a": "No. No hay cronómetro, puntuación, contador de movimientos ni pérdida. Puedes detenerte en cualquier momento y detenerte a mitad del camino es una excelente manera de terminar."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "¿Qué pasa si elegimos una palabra diferente?",
+        "a": "El juego muestra el final habitual y pasa a la conversación. No hay puntuación y una respuesta diferente está bien."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Es gratis y necesito registrarme?",
+        "a": "Sí, es gratis y no requiere cuenta, registro ni descarga. Funciona en el navegador web de un teléfono, tableta o computadora."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Búsqueda de palabras en letra grande",
+    "seoTitle": "Búsqueda de palabras en letra grande para demencia, imprimible",
+    "h1": "Búsqueda de palabras en letra grande",
+    "description": "Una búsqueda gratuita de palabras en letra grande para personas mayores y personas que viven con demencia.",
+    "short": "Letras grandes, unas pocas palabras, solo de lado a lado. Imprímelo también.",
+    "players": "1 o 2 personas",
+    "intro": "Una pequeña cuadrícula con letras grandes y solo un puñado de palabras, todas leídas hacia arriba o hacia abajo. Toca la primera letra de una palabra y luego la última letra. ¿Prefieres papel? Imprime un nuevo rompecabezas con un solo toque.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Elija un tema y un tamaño de cuadrícula.",
+      "Mira la lista de palabras. Las palabras se leen transversalmente (de izquierda a derecha) o hacia abajo (de arriba a abajo).",
+      "Toca la primera letra de una palabra y luego toca su última letra.",
+      "Una palabra encontrada se resalta y se tacha de la lista.",
+      "Toca \"Imprimir este rompecabezas\" para jugar en papel con un lápiz o marcador."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Señale una palabra de la lista y busquen juntos su primera letra.",
+      "Sobre el papel, es más fácil sujetar un resaltador que un lápiz.",
+      "Hable sobre las palabras del tema. Las palabras sobre frutas son una forma natural de recordar la recolección, la cocción o los mercados."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Hay un cronómetro o una puntuación?",
+        "a": "No. No hay cronómetro, puntuación, contador de movimientos ni pérdida. Puedes detenerte en cualquier momento y detenerte a mitad del camino es una excelente manera de terminar."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "¿Puedo imprimir la búsqueda de palabras?",
+        "a": "Sí. Toca \"Imprimir este rompecabezas\" para imprimir la cuadrícula actual en letra grande, con la lista de palabras debajo. Cada nuevo rompecabezas es diferente."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Es gratis y necesito registrarme?",
+        "a": "Sí, es gratis y no requiere cuenta, registro ni descarga. Funciona en el navegador web de un teléfono, tableta o computadora."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Dibujos para colorear",
+    "seoTitle": "Páginas para colorear para adultos con demencia (gratis)",
+    "h1": "Dibujos para colorear",
+    "description": "Páginas para colorear sencillas para adultos con áreas grandes: toca un color y luego toca la imagen.",
+    "short": "Toca un color y luego una parte de la imagen. Imprime páginas también.",
+    "players": "1 o 2 personas",
+    "intro": "Páginas con formas grandes y sencillas: una flor en una maceta, una casa, una taza de té, una mariposa y un velero. Toca un color y luego toca una parte de la imagen para rellenarla. No hay colores incorrectos.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Elige una página.",
+      "Toca un color. Cada color tiene su nombre escrito.",
+      "Toca una parte de la imagen para rellenarla con ese color.",
+      "Cambie de opinión en cualquier momento llenándolo nuevamente.",
+      "Toque \"Imprimir esta página\" para obtener una página en blanco para colorear con lápices o marcadores."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Ofrezca dos colores para elegir en lugar del conjunto completo si elegir le parece demasiado.",
+      "Los árboles morados y los soles azules son bienvenidos. Se trata de disfrutar del color, no de la precisión.",
+      "Las páginas impresas funcionan bien con marcadores gruesos o crayones, que son más fáciles de agarrar."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Hay un cronómetro o una puntuación?",
+        "a": "No. No hay cronómetro, puntuación, contador de movimientos ni pérdida. Puedes detenerte en cualquier momento y detenerte a mitad del camino es una excelente manera de terminar."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "¿Son estas páginas demasiado infantiles?",
+        "a": "Dibujamos objetos simples y tranquilos en lugar de dibujos animados, por lo que las páginas son adecuadas para los adultos. Las formas grandes hacen que colorear sea fácil sin que resulte infantil."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Es gratis y necesito registrarme?",
+        "a": "Sí, es gratis y no requiere cuenta, registro ni descarga. Funciona en el navegador web de un teléfono, tableta o computadora."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Tarjetas de conversación",
+    "seoTitle": "Iniciadores de conversación sobre la demencia: tarjetas ilustradas",
+    "h1": "Tarjetas de conversación",
+    "description": "Tarjetas ilustradas con temas de conversación suaves para personas que viven con demencia: sin preguntas, sin respuestas correctas.",
+    "short": "Tarjetas ilustradas con preguntas abiertas y amables. Sin preguntas.",
+    "players": "2 personas o un grupo",
+    "intro": "Cada tarjeta combina una imagen familiar con una invitación abierta a hablar, como \"¿Cuál es tu clima favorito?\" No hay respuestas correctas ni nada que recordar. Elija un tema o mezcle todos.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Elija un tema o conserve \"Todas las tarjetas\".",
+      "Lean la pregunta en voz alta y miren juntos la imagen.",
+      "Escuche, comparta su propia respuesta y deje que la conversación divague.",
+      "Toca \"Siguiente tarjeta\" cuando estés listo o quédate con una tarjeta todo el tiempo que quieras.",
+      "Toca \"Imprimir todas las tarjetas\" para recortar un juego de papel."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Responde la pregunta tú mismo también. Parece una conversación, no una entrevista.",
+      "Siga la historia, no los hechos. Si los detalles cambian, está bien.",
+      "Si una carta toca algo triste, reconoce el sentimiento y pasa suavemente a otra carta."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "¿Por qué no aparece el \"¿Te acuerdas...?\" ¿preguntas?",
+        "a": "Las preguntas que ponen a prueba la memoria pueden parecer un examen y causar vergüenza. Las invitaciones abiertas como \"Cuénteme sobre...\" permiten que cualquiera se una, independientemente de lo que recuerde."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "¿Puedo imprimir las tarjetas?",
+        "a": "Sí. \"Imprimir todas las tarjetas\" imprime el juego completo en letra grande, varias tarjetas por página, listas para recortar."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Es gratis y necesito registrarme?",
+        "a": "Sí, es gratis y no requiere cuenta, registro ni descarga. Funciona en el navegador web de un teléfono, tableta o computadora."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Pares de fotos",
+    "seoTitle": "Crea un juego de correspondencias a partir de fotos familiares",
+    "h1": "Pares de fotos: combine sus propias fotos",
+    "description": "Convierte tus propias fotos familiares en un suave juego de combinación. Elija de 2 a 6 fotos en su dispositivo; permanecen en su navegador y nunca se cargan.",
+    "short": "Elige tus propias fotos y combínalas. No se carga nada.",
+    "players": "2 personas, una al lado de la otra",
+    "intro": "Elija de dos a seis fotos desde su teléfono, tableta o computadora y se convertirán en un juego de combinación con imágenes grandes y visibles. Las fotos se muestran únicamente dentro de esta página. No se cargan, guardan ni comparten y desaparecen cuando cierras la página.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Toca \"Elegir fotos\" y elige de dos a seis fotos.",
+      "Cada foto aparece dos veces. Toca uno y luego toca su par.",
+      "Habla sobre cada foto a medida que la encuentres.",
+      "Cuando haya terminado, cierre la página o toque \"Borrar fotos\". No se guarda nada."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Elija fotografías claras de cosas felices y familiares: una mascota, un jardín, un lugar favorito, el día de una boda.",
+      "Las imágenes de lugares y objetos pueden ser más fáciles que las caras y evitan cualquier presión para nombrar personas.",
+      "Omita fotografías de personas que han muerto si pueden causarle un dolor repentino, a menos que sepa que le brindan consuelo."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "¿Mis fotos están subidas a algún lugar?",
+        "a": "No. La página lee las fotos que eliges directamente en tu navegador y las muestra en tu pantalla. No se envían a nosotros ni a nadie más, y desaparecen cuando cierras o recargas la página."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Hay un cronómetro o una puntuación?",
+        "a": "No. No hay cronómetro, puntuación, contador de movimientos ni pérdida. Puedes detenerte en cualquier momento y detenerte a mitad del camino es una excelente manera de terminar."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "¿Puedo guardar el juego para la próxima vez?",
+        "a": "No en el navegador, por diseño, por lo que no se almacena nada privado. La aplicación gratuita Golden Moments para iPhone y iPad puede conservar copias de fotografías seleccionadas en su dispositivo."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo de imágenes",
+    "seoTitle": "Bingo de imágenes para personas mayores con demencia: imprimible",
+    "h1": "Bingo de imágenes para grupos",
+    "description": "Bingo de imágenes imprimible gratuito para el cuidado de la memoria y grupos de personas mayores, con un gran llamador en pantalla.",
+    "short": "Cartones de bingo con imágenes imprimibles y un llamador en pantalla grande para grupos.",
+    "players": "Un grupo de 2 a 30",
+    "intro": "Bingo clásico con imágenes en lugar de números, para que nadie tenga que leer la letra pequeña. Imprima un conjunto de tarjetas únicas y luego use el llamador en pantalla para mostrar cada imagen en tamaño grande en un televisor, computadora portátil o tableta.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Elige 9 o 16 casillas por carta y cuántos jugadores.",
+      "Toca \"Imprimir tarjetas\". Cada tarjeta es diferente.",
+      "Abra la persona que llama en una pantalla grande. Toca \"Siguiente imagen\" para mostrar cada imagen con su nombre.",
+      "Los jugadores cubren la imagen correspondiente en su tarjeta con una moneda, un botón o un marcador.",
+      "Todos los que llenan una fila o toda la tarjeta reciben una ovación. En esta versión no hay perdedores: sigue jugando hasta que todos tengan una línea."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Utilice fichas grandes como damas o tapas de botellas. Los botones pequeños pueden resultar difíciles de captar.",
+      "Nombra la imagen y di algo sobre ella: \"Un velero. ¿Quién ha estado en un barco?\"",
+      "Sienta a las personas con dificultad para ver lo más cerca de la pantalla y empareja ayudantes con jugadores que los necesiten.",
+      "Nueve cuadrados son suficientes para la mayoría de los grupos. Mantenga la sesión entre 20 y 30 minutos."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "¿Cómo hago bingo de imágenes en una residencia de ancianos?",
+        "a": "Imprime una tarjeta por jugador, coloca a la persona que llama en la pantalla más grande que tengas y llama imágenes lentamente, nombrando cada una. Juega hasta que todos tengan una fila, para que nadie se quede fuera."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "¿Es gratis imprimir?",
+        "a": "Sí. Imprima tantas tarjetas como necesite, con la frecuencia que desee, para uso personal o grupal."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "¿Se puede jugar sin leer?",
+        "a": "Sí. Cada cuadrado es una imagen grande, con su nombre debajo para aquellos a los que les gustan las palabras."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Respiración tranquila",
+    "seoTitle": "Una pausa tranquila para respirar para personas mayores y cuidadores",
+    "h1": "Una pausa tranquila para respirar",
+    "description": "Una pausa de respiración lenta y tranquila para compartir: un círculo suave crece y se contrae durante seis respiraciones.",
+    "short": "Un círculo lento con el que respirar. Empieza y para cuando quieras.",
+    "players": "1 o 2 personas",
+    "intro": "A veces la mejor actividad es una pausa tranquila. Toca \"Iniciar\", luego inhala a medida que el círculo crece y exhala a medida que se reduce. Elija un ritmo más lento o más rápido. No es un tratamiento, sólo un momento de paz para compartir.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Siéntate cómodamente uno al lado del otro.",
+      "Elige un ritmo: lento o suave.",
+      "Toca \"Iniciar\". Inhale mientras el círculo crece y exhale mientras se reduce.",
+      "Se detiene por sí solo después de seis respiraciones o toca \"Detener\" cuando lo desees."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Tome las manos o apoye una mano en el brazo de la persona si eso es bienvenido.",
+      "Nunca insistas. Si prefieren mirar, está bien.",
+      "Si alguien tiene problemas respiratorios, respire normalmente y simplemente observe el círculo. Pregúntele a un médico acerca de cualquier problema respiratorio."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "¿Es este un ejercicio de respiración médica?",
+        "a": "No. Es una pausa sencilla y opcional para la calma y la compañía. No es un tratamiento para la ansiedad ni ninguna condición. Hable con un médico sobre problemas de salud."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "¿El círculo se mueve sin que yo lo inicie?",
+        "a": "No. Nada se mueve hasta que tocas Iniciar y se detiene después de seis respiraciones o cuando tocas Detener. Si su dispositivo está configurado para reducir el movimiento, las palabras cambian sin que el círculo crezca."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Es gratis y necesito registrarme?",
+        "a": "Sí, es gratis y no requiere cuenta, registro ni descarga. Funciona en el navegador web de un teléfono, tableta o computadora."
       }
     ]
   }

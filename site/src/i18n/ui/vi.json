@@ -252,7 +252,7 @@
       "title": "Hoạt động cho người sa sút trí tuệ",
       "seo": "Hoạt động cho người sa sút trí tuệ theo từng giai đoạn",
       "description": "Ý tưởng hoạt động cho người sống chung với sa sút trí tuệ ở mọi giai đoạn: âm nhạc, ôn kỷ niệm, việc nhà, giác quan, thủ công, ngoài trời và tài liệu in miễn phí.",
-      "lede": "Một hoạt động ý nghĩa là bất cứ điều gì mang lại sự dễ chịu, cảm giác có ích hay một khoảnh khắc gắn kết. Hãy bắt đầu từ những gì người thân vẫn luôn yêu thích, rồi điều chỉnh cho phù hợp với hôm nay."
+      "lede": "Một hoạt động ý nghĩa là bất cứ điều gì mang lại sự dễ chịu, cảm giác có ích hay một khoảnh khắc gắn kết."
     },
     "caregiving": {
       "label": "Chăm sóc",
@@ -266,7 +266,7 @@
       "title": "Sức khỏe não bộ: nghiên cứu nói gì",
       "seo": "Sức khỏe não bộ và nguy cơ sa sút trí tuệ: nghiên cứu nói gì",
       "description": "Có thể phòng ngừa sa sút trí tuệ không? Bài viết có dẫn nguồn về yếu tố nguy cơ, trò chơi trí não, nhịn ăn, ăn uống, vận động, giấc ngủ, thính lực và dấu hiệu sớm.",
-      "lede": "Những nghiên cứu lớn thực sự cho thấy gì về việc giảm nguy cơ sa sút trí tuệ, được giải thích dễ hiểu, kể cả những chỗ bằng chứng còn yếu hoặc chưa thống nhất. Thông tin chung, không phải lời khuyên y tế."
+      "lede": "Những nghiên cứu lớn thực sự cho thấy gì về việc giảm nguy cơ sa sút trí tuệ, được giải thích dễ hiểu, kể cả những chỗ bằng chứng còn yếu hoặc chưa thống nhất."
     }
   },
   "guide": {
@@ -410,7 +410,7 @@
       "seoTitle": "Hoạt động miễn phí cho người sa sút trí tuệ ở viện dưỡng lão",
       "description": "Cách viện dưỡng lão, trung tâm chăm sóc ban ngày, thư viện và nhóm hỗ trợ dùng trò chơi miễn phí cho người sa sút trí tuệ, kèm mô tả để thêm vào danh sách.",
       "crumb": "Dành cho tổ chức",
-      "lede": "Mọi thứ trên trang web này đều được dùng miễn phí với người cao tuổi, hội viên và khách hàng của bạn, không cần tài khoản, giấy phép hay phí. Trang này giải thích có những gì và cách chia sẻ.",
+      "lede": "Mọi thứ trên trang web này đều được dùng miễn phí với người cao tuổi, hội viên và khách hàng của bạn, không cần tài khoản, giấy phép hay phí.",
       "shortText": "{name}: trò chơi hình ảnh miễn phí, nhẹ nhàng và hướng dẫn hoạt động cho người sống chung với sa sút trí tuệ và người chăm sóc. Không cần đăng ký, không hẹn giờ, không điểm số.",
       "longText": "{name} ({domain}) có {count} trò chơi miễn phí trên trình duyệt, làm riêng cho người sống chung với sa sút trí tuệ, gồm ghép đôi với hình luôn hiện rõ, ghép tranh dễ, phân loại, nói tiếp câu tục ngữ quen thuộc và lô tô hình ảnh có phiếu in ra. Không có tài khoản, quảng cáo, hẹn giờ hay điểm số. Trang web còn có các hướng dẫn hoạt động bằng lời lẽ dễ hiểu cho từng giai đoạn của sa sút trí tuệ, có trích dẫn National Institute on Aging và Alzheimer's Association.",
       "useTitle": "Các tổ chức có thể dùng những gì",

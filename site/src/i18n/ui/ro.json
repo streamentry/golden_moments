@@ -266,7 +266,7 @@
       "title": "Sănătatea creierului: ce spune cercetarea",
       "seo": "Sănătatea creierului și riscul de demență",
       "description": "Poate fi prevenită demența? Ghiduri cinstite, cu surse, despre factorii de risc, jocurile pentru minte, post, dietă, mișcare, somn, auz și semnele timpurii.",
-      "lede": "Ce arată de fapt studiile mari despre reducerea riscului de demență, explicat simplu, inclusiv acolo unde dovezile sunt slabe sau contradictorii. Informații generale, nu sfat medical."
+      "lede": "Ce arată de fapt studiile mari despre reducerea riscului de demență, explicat simplu, inclusiv acolo unde dovezile sunt slabe sau contradictorii."
     }
   },
   "guide": {
@@ -400,7 +400,7 @@
       "seoTitle": "Fișă de tipărit: jocuri gratuite pentru demență",
       "description": "O fișă de o pagină, de tipărit, despre jocuri blânde și gratuite cu imagini pentru persoane cu demență, pentru familii, îngrijitori și grupuri de sprijin.",
       "crumb": "Fișă de tipărit",
-      "lede": "Tipăriți această pagină pentru un grup de sprijin, un pachet pentru îngrijitori sau ușa frigiderului. Folosiți comanda Tipărire a browserului; meniurile și butoanele nu apar pe hârtie.",
+      "lede": "Tipăriți această pagină pentru un grup de sprijin, un pachet pentru îngrijitori sau ușa frigiderului.",
       "introHtml": "<p>Imagini mari, cuvinte simple și nimic de greșit. Gratuit pe telefon, tabletă sau computer, fără înregistrare, reclame, cronometre sau scoruri. Stați unul lângă altul și atingeți pe rând.</p>",
       "gamesTitle": "Jocuri de încercat împreună",
       "restHtml": "<h2>Câteva sfaturi</h2><ul><li>Alegeți un moment al zilei în care persoana se simte cel mai bine.</li><li>Începeți cu cea mai ușoară setare. Patru plăcuțe sunt suficiente.</li><li>Vorbiți despre imagini. Conversația este adesea cea mai frumoasă parte.</li><li>Opriți-vă cât încă vă face plăcere. A termina mai devreme este un rezultat bun.</li></ul><h2>De asemenea, pe site</h2><ul><li>Materiale gratuite de tipărit: căutări de cuvinte cu litere mari, pagini de colorat, cartonașe de conversație și bingo cu imagini.</li><li>Idei de activități pentru fiecare stadiu și ghiduri despre jocul împreună și despre grija față de dumneavoastră.</li></ul><p class=\"muted\">Pentru plăcere și timp petrecut împreună. Nu este sfat medical, test sau tratament. Golden Moments este publicat de Cloudjet Solutions Pte. Ltd.</p>"
@@ -410,7 +410,7 @@
       "seoTitle": "Activități gratuite pentru demență, pentru cămine și grupuri",
       "description": "Cum folosesc căminele, centrele de zi, bibliotecile și grupurile de sprijin jocurile noastre gratuite pentru demență, plus text pentru o listă de resurse.",
       "crumb": "Pentru organizații",
-      "lede": "Tot ce se află pe acest site este gratuit pentru a fi folosit cu rezidenți, membri și clienți, fără cont, licență sau taxă. Această pagină explică ce găsiți aici și cum puteți trimite mai departe.",
+      "lede": "Tot ce se află pe acest site este gratuit pentru a fi folosit cu rezidenți, membri și clienți, fără cont, licență sau taxă.",
       "shortText": "{name}: jocuri blânde gratuite cu imagini și ghiduri de activități pentru persoane care trăiesc cu demență și pentru îngrijitorii lor. Fără cont, cronometre sau scoruri.",
       "longText": "{name} ({domain}) oferă {count} jocuri gratuite în browser, create pentru persoane care trăiesc cu demență, printre care perechi de potrivit cu imagini lăsate la vedere, un puzzle ușor, sortare, proverbe cunoscute și bingo cu imagini, cu cartonașe de tipărit. Nu există cont, reclame, cronometru sau scor. Site-ul conține și ghiduri de activități în limbaj simplu pentru fiecare stadiu al demenței, care citează National Institute on Aging și Alzheimer's Association.",
       "useTitle": "Ce pot folosi organizațiile",

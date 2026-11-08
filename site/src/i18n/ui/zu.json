@@ -267,7 +267,7 @@
       "title": "Impilo Yobuchopho: Lokho Ucwaningo Oluthi",
       "seo": "Impilo Yobuchopho Nobungozi be-Dementia: Ucwaningo",
       "description": "Ingabe i-dementia ingavinjwa? Imihlahlandlela eqotho, enezinkomba yezinto ezibeka engozini, imidlalo, ukuzila, ukudla, ukuzivocavoca, ukulala nokuzwa.",
-      "lede": "Lokho izifundo ezinkulu ezikubonisa ngempela ngokunciphisa ubungozi be-dementia, kuchazwe kalula, kuhlanganise nalapho ubufakazi bubuthaka noma buxubile. Ulwazi olujwayelekile, hhayi iseluleko sezokwelapha."
+      "lede": "Lokho izifundo ezinkulu ezikubonisa ngempela ngokunciphisa ubungozi be-dementia, kuchazwe kalula, kuhlanganise nalapho ubufakazi bubuthaka noma buxubile."
     }
   },
   "guide": {
@@ -401,7 +401,7 @@
       "seoTitle": "Iphepha Eliphrintekayo: Imidlalo ye-Dementia Yamahhala",
       "description": "Iphepha eliphrintekayo lemindeni nabanakekeli ngemidlalo yezithombe ethambile yamahhala yabantu abaphila ne-dementia, lamaqembu osizo.",
       "crumb": "Iphepha eliphrintekayo",
-      "lede": "Phrintani leli khasi leqembu losizo, iphakethe lokunakekela noma umnyango wefriji. Sebenzisani umyalo we-Print we-browser yenu; amamenyu nezinkinobho ayashiywa ephrinthweni.",
+      "lede": "Phrintani leli khasi leqembu losizo, iphakethe lokunakekela noma umnyango wefriji.",
       "introHtml": "<p>Izithombe ezinkulu, amagama alula futhi akukho lutho oluhlulekayo. Mahhala efonini, kuthebhulethi noma ekhompyutheni, ngaphandle kokubhalisa, izikhangiso, izibali sikhathi namaphuzu. Hlalani eceleni komunye nomunye bese nithinta ngokushintshana.</p>",
       "gamesTitle": "Imidlalo ongayizama ndawonye",
       "restHtml": "<h2>Amathiphu ambalwa</h2><ul><li>Khethani isikhathi sosuku lapho umuntu ekahle kakhulu.</li><li>Qalani ngesilungiselelo esilula kakhulu. Amakhadi amane anele.</li><li>Khulumani ngezithombe. Ingxoxo ivame ukuba yingxenye engcono kakhulu.</li><li>Mimani kusamnandi. Ukuphela ngaphambi kwesikhathi kuyisiphetho esihle.</li></ul><h2>Futhi esayithini</h2><ul><li>Okuphrintekayo kwamahhala: ukusesha amagama ngokuphrinta okukhulu, amakhasi okufaka imibala, amakhadi engxoxo ne-bingo yezithombe.</li><li>Imibono yemisebenzi yesigaba ngasinye, nemihlahlandlela yokudlala ndawonye nokuzinakekela nani.</li></ul><p class=\"muted\">Ngokujabulela nokuba ndawonye. Akuyona iseluleko sezokwelapha, ukuhlolwa noma ukwelashwa. I-Golden Moments ishicilelwe yi-Cloudjet Solutions Pte. Ltd.</p>"
@@ -411,7 +411,7 @@
       "seoTitle": "Imisebenzi ye-Dementia Yamahhala Yamakhaya Namaqembu",
       "description": "Ukuthi amakhaya okunakekela, amalabhulali namaqembu osizo asebenzisa kanjani imidlalo yethu ye-dementia yamahhala, nombhalo wokusifaka ohlwini.",
       "crumb": "Ezinhlanganweni",
-      "lede": "Konke kuleli sayithi kungamahhala ukukusebenzisa nabahlali, amalungu namakhasimende, ngaphandle kwe-akhawunti, ilayisense noma imali. Leli khasi lichaza lokho okukhona lapha nokuthi ungakwabelana kanjani.",
+      "lede": "Konke kuleli sayithi kungamahhala ukukusebenzisa nabahlali, amalungu namakhasimende, ngaphandle kwe-akhawunti, ilayisense noma imali.",
       "shortText": "{name}: imidlalo yezithombe ethambile yamahhala nemihlahlandlela yemisebenzi yabantu abaphila ne-dementia nabanakekeli babo. Akukho kubhalisa, izibali sikhathi, amaphuzu.",
       "longText": "{name} ({domain}) inikeza imidlalo engu-{count} yamahhala ye-browser eyenzelwe abantu abaphila ne-dementia, kuhlanganise nokufanisa amapheya ngezithombe ezishiywe zibonakala, iphazili elula, ukuhlunga, izisho ezijwayelekile ne-bingo yezithombe enamakhadi aphrintekayo. Akukho akhawunti, izikhangiso, sibali sikhathi noma maphuzu. Isayithi linemihlahlandlela yemisebenzi ngolimi olulula yesigaba ngasinye se-dementia ecaphuna i-National Institute on Aging ne-Alzheimer's Association.",
       "useTitle": "Lokho izinhlangano ezingakusebenzisa",
@@ -441,7 +441,7 @@
     "description": "Imidlalo yamahhala ku-inthanethi yabadala abaphila ne-dementia: ukufanisa izithombe, amaphazili alula, ukuhlunga, izisho, imibala, i-bingo. Akukho sibali.",
     "crumb": "Imidlalo",
     "h1": "Imidlalo Ethambile Yabantu Abaphila ne-Dementia",
-    "lede": "Imidlalo engu-{count} yamahhala yokudlala ndawonye ku-browser yenu. Izithombe ezinkulu, amagama alula, futhi akukho lutho oluhlulekayo: akukho zibali sikhathi, amaphuzu, kubhalisa.",
+    "lede": "Imidlalo engu-{count} yamahhala yokudlala ndawonye ku-browser yenu. Izithombe ezinkulu, amagama alula, futhi akukho lutho oluhlulekayo: akukho zibali sikhathi.",
     "listName": "Imidlalo ethambile yabantu abaphila ne-dementia",
     "byStageTitle": "Ukukhetha umdlalo ngesigaba",
     "byStageLede": "Izigaba ziyisiqondiso nje esimaqondana. Landelani lokho umuntu akujabulelayo nalokho okunethezayo namuhla.",

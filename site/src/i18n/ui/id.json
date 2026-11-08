@@ -252,7 +252,7 @@
       "title": "Kegiatan untuk Orang dengan Demensia",
       "seo": "Kegiatan untuk Orang dengan Demensia: Ide per Tahap",
       "description": "Ide kegiatan untuk orang dengan demensia atau Alzheimer di tiap tahap: musik, mengenang masa lalu, pekerjaan rumah, kerajinan, luar ruang, bahan cetak gratis.",
-      "lede": "Kegiatan yang bermakna adalah apa pun yang membawa kenyamanan, rasa berguna, atau momen kedekatan. Mulailah dari hal yang sejak dulu disukai orang tersebut, lalu sesuaikan dengan keadaannya hari ini."
+      "lede": "Kegiatan yang bermakna adalah apa pun yang membawa kenyamanan, rasa berguna, atau momen kedekatan."
     },
     "caregiving": {
       "label": "Pendampingan",
@@ -266,7 +266,7 @@
       "title": "Kesehatan Otak: Apa Kata Penelitian",
       "seo": "Kesehatan Otak dan Risiko Demensia: Kata Penelitian",
       "description": "Bisakah demensia dicegah? Panduan jujur dan bersumber tentang faktor risiko, permainan otak, puasa, pola makan, olahraga, tidur, pendengaran, dan tanda awal.",
-      "lede": "Apa yang sebenarnya ditunjukkan oleh studi besar tentang menurunkan risiko demensia, dijelaskan dengan sederhana, termasuk ketika buktinya lemah atau beragam. Informasi umum, bukan nasihat medis."
+      "lede": "Apa yang sebenarnya ditunjukkan oleh studi besar tentang menurunkan risiko demensia, dijelaskan dengan sederhana, termasuk ketika buktinya lemah atau beragam."
     }
   },
   "guide": {
@@ -400,7 +400,7 @@
       "seoTitle": "Lembar Cetak: Permainan Demensia Gratis Online",
       "description": "Lembar cetak satu halaman tentang permainan gambar gratis untuk orang dengan demensia, bagi keluarga, pendamping, kelompok dukungan, dan paket perawatan.",
       "crumb": "Lembar cetak",
-      "lede": "Cetak halaman ini untuk kelompok dukungan, paket perawatan, atau untuk ditempel di pintu kulkas. Gunakan perintah Cetak di peramban Anda; menu dan tombol tidak ikut tercetak.",
+      "lede": "Cetak halaman ini untuk kelompok dukungan, paket perawatan, atau untuk ditempel di pintu kulkas.",
       "introHtml": "<p>Gambar besar, kata-kata sederhana, dan tidak ada yang gagal. Gratis di ponsel, tablet, atau komputer, tanpa pendaftaran, tanpa iklan, tanpa pengatur waktu, dan tanpa skor. Duduk berdampingan dan bergantianlah.</p>",
       "gamesTitle": "Permainan untuk dicoba bersama",
       "restHtml": "<h2>Beberapa tips</h2><ul><li>Pilih waktu ketika orang tersebut sedang dalam kondisi terbaiknya.</li><li>Mulailah dari pengaturan yang paling mudah. Empat kotak sudah cukup.</li><li>Bicarakan gambarnya. Obrolannya sering kali menjadi bagian terbaik.</li><li>Berhentilah selagi masih menyenangkan. Selesai lebih awal adalah hasil yang baik.</li></ul><h2>Juga di situs ini</h2><ul><li>Bahan cetak gratis: cari kata cetak besar, halaman mewarnai, kartu obrolan, dan bingo gambar.</li><li>Ide kegiatan untuk setiap tahap, serta panduan bermain bersama dan merawat diri sendiri.</li></ul><p class=\"muted\">Untuk kesenangan dan kebersamaan. Bukan nasihat medis, tes, atau pengobatan. Golden Moments diterbitkan oleh Cloudjet Solutions Pte. Ltd.</p>"
@@ -410,7 +410,7 @@
       "seoTitle": "Kegiatan Demensia Gratis untuk Panti Werdha dan Kelompok",
       "description": "Cara panti werdha, program harian, perpustakaan, lembaga lansia, dan kelompok dukungan memakai permainan demensia gratis kami, plus teks untuk dibagikan.",
       "crumb": "Untuk lembaga",
-      "lede": "Semua yang ada di situs ini gratis dipakai bersama penghuni, anggota, dan klien, tanpa akun, lisensi, atau biaya. Halaman ini menjelaskan apa saja yang tersedia dan cara membagikannya.",
+      "lede": "Semua yang ada di situs ini gratis dipakai bersama penghuni, anggota, dan klien, tanpa akun, lisensi, atau biaya.",
       "shortText": "{name}: permainan gambar gratis yang lembut dan panduan kegiatan untuk orang dengan demensia dan pendampingnya. Tanpa pendaftaran, tanpa pengatur waktu, tanpa skor.",
       "longText": "{name} ({domain}) menyediakan {count} permainan gratis di peramban yang dibuat untuk orang dengan demensia, termasuk mencocokkan pasangan dengan gambar yang tetap terlihat, puzzle mudah, memilah, peribahasa yang akrab, dan bingo gambar dengan kartu yang bisa dicetak. Tanpa akun, iklan, pengatur waktu, atau skor. Situs ini juga memiliki panduan kegiatan berbahasa sederhana untuk setiap tahap demensia yang merujuk pada National Institute on Aging dan Alzheimer's Association.",
       "useTitle": "Apa yang bisa dipakai lembaga",
@@ -440,7 +440,7 @@
     "description": "Permainan online gratis untuk lansia dengan demensia atau Alzheimer: cocokkan gambar, puzzle, memilah, peribahasa, mewarnai, bingo. Tanpa daftar, waktu, skor.",
     "crumb": "Permainan",
     "h1": "Permainan yang Lembut untuk Orang dengan Demensia",
-    "lede": "{count} permainan gratis untuk dimainkan bersama di peramban Anda. Gambar besar, kata-kata sederhana, dan tidak ada yang gagal: tanpa pengatur waktu, tanpa skor, tanpa pendaftaran.",
+    "lede": "{count} permainan gratis untuk dimainkan bersama di peramban Anda. Gambar besar, kata-kata sederhana, dan tidak ada yang gagal: tanpa pengatur waktu, tanpa skor.",
     "listName": "Permainan yang lembut untuk orang dengan demensia",
     "byStageTitle": "Memilih permainan menurut tahap",
     "byStageLede": "Tahap hanyalah panduan kasar. Ikuti apa yang dinikmati orang tersebut dan apa yang terasa nyaman hari ini.",

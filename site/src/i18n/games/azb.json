@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Şəkil cütləri",
+    "seoTitle": "Demans üçün uyğun oyun: Şəkil cütləri",
+    "h1": "Şəkil Cütləri: Zərif Uyğunluq Oyunu",
+    "description": "Demansla yaşayan insanlar üçün pulsuz, yumşaq uyğunluq oyunu. Böyük şəkillər görünən qalır, taymer və ya hesab yoxdur və siz 4-dən 12-yə qədər plitə seçirsiniz.",
+    "short": "Eyni olan iki şəkli tapın. Şəkillər görünməyə davam edə bilər.",
+    "players": "1 və ya 2 nəfər, yan-yana",
+    "intro": "Şəkilə toxunun, sonra ona uyğun gələnə toxunun. Şəkillər defolt olaraq göstərilir, ona görə də heç nə yadda saxlamaq lazım deyil. İki şəkil bir araya gəldikdə, qızıl haşiyə və onay işarəsi əldə edirlər.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Neçə plitədən istifadə edəcəyinizi seçin. Dörd plitələr başlamaq üçün sakit bir yerdir.",
+      "İstənilən şəkilə toxunun. Qızıl bir haşiyə alır.",
+      "Eyni görünən şəkilə toxunun. Cütlük bir onay işareti ilə birlikdə qalır.",
+      "İki şəkil fərqlidirsə, pis bir şey olmaz. Hazır olduğunuz zaman yenidən toxunun.",
+      "\"Gizli şəkillər\"i yalnız klassik üzü aşağı versiyadan zövq aldığınız halda yandırın."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Şəkilləri birlikdə yüksək səslə adlandırın və onlar haqqında söhbət edin: \"Qırmızı çay fincanı. Çayınıza süd qəbul edirsiniz?\"",
+      "Bir müddət çəksə belə, qayğı göstərdiyiniz adamın tıqqıltı ilə məşğul olmasına icazə verin. Onlara toxunmaq əvəzinə işarələyin.",
+      "Yaxşı hiss etdiyi müddətcə dörd plitə ilə qalın. Daha çox plitələr bir seçimdir, heç vaxt çatmaq üçün səviyyə deyil.",
+      "Hələ zövqlü olarkən bitirin. Bir oyun tam fəaliyyətdir."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Taymer və ya hesab varmı?",
+        "a": "Xeyr. Saat, hesab, hərəkət sayğacı və ya məğlubiyyət yoxdur. İstənilən an dayana bilərsiniz və yarıda dayanmaq bitirmək üçün mükəmməl bir yoldur."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Şəkillər niyə üzü yuxarı qalır?",
+        "a": "Şəkillərin görünən saxlanması oyunu xatırlamaqdansa, baxmağa və uyğunlaşdırmağa çevirir. Bir çox insan bunu daha sakit hesab edir. İstəyirsinizsə, bir toxunuşla gizli şəkillərə keçə bilərsiniz."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Pulsuzdur və mən qeydiyyatdan keçməliyəmmi?",
+        "a": "Bəli, pulsuzdur və heç bir hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Öz ailə şəkillərimizdən istifadə edə bilərikmi?",
+        "a": "Bəli. Cihazınızdan fotoşəkilləri seçməyə imkan verən Foto cütlərini sınayın. Şəkillər brauzerinizdə qalır və yüklənmir."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Eyni",
+    "seoTitle": "tapın Eyni şəkli tapın: Sadə Demans Oyunu",
+    "h1": "Eyni Şəkli Tap",
+    "description": "Bir şəkil yuxarıda, ikidən dördə qədər aşağıda. Eyni olana toxunun. Demensiya ilə yaşayan insanlar üçün taymer olmadan sakit, pulsuz şəkil oyunu.",
+    "short": "Yuxarıdakı şəklə baxın və aşağıda eyni şəklə toxunun.",
+    "players": "1 və ya 2 nəfər",
+    "intro": "Tək şəkil ekranın yuxarı hissəsində yerləşir. Aşağıda iki, üç və ya dörd şəkil var. Eyni olana toxunun. Danışmaq üçün çox yer olan bir anda sadə seçimdir.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Seçmək üçün iki, üç və ya dörd şəkil seçin. Two is the simplest.",
+      "Birlikdə yuxarıdakı şəklə baxın.",
+      "Aşağıdakı eyni şəkilə toxunun. Çek və bir neçə isti sözlə qeyd olunur.",
+      "Fərqli şəkil vurularsa, oyun sadəcə onu adlandırır və gözləyir. Vaxtınızı ayırın.",
+      "Başqasına hazır olduqda \"Növbəti şəkil\" üzərinə klikləyin."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Seçməzdən əvvəl hər bir şəkil haqqında danışın: rənglər, formalar, harada görə biləcəyiniz.",
+      "İki seçim \"çox asan\" deyil. Məqsəd çətin deyil, xoş bir andır.",
+      "Əgər vurmaq çətin olarsa, şəxs işarə edə bilər və siz onun üçün toxuna bilərsiniz."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Taymer və ya hesab varmı?",
+        "a": "Xeyr. Saat, hesab, hərəkət sayğacı və ya məğlubiyyət yoxdur. İstənilən an dayana bilərsiniz və yarıda dayanmaq bitirmək üçün mükəmməl bir yoldur."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Səhv şəkilə toxunsa nə olar?",
+        "a": "Xoşagəlməz heç nə yoxdur. Siqnal, qırmızı xaç və ya titrəmə yoxdur. Oyun vurulmuş şəklin adını çəkir və növbəti toxunuşu gözləyir."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Pulsuzdur və mən qeydiyyatdan keçməliyəmmi?",
+        "a": "Bəli, pulsuzdur və heç bir hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Kölgə uyğunluğu",
+    "seoTitle": "Demans üçün Shadow Matching Game: Pulsuz Onlayn",
+    "h1": "Kölgə Uyğunluğu: Zərif Şəkil Oyunu",
+    "description": "Üstdə qaranlıq kölgə, aşağıda iki-dörd şəkil. Kölgə yaradan şəkilə toxunun. Demans üçün pulsuz, sakit kölgə uyğunluğu oyunu, heç bir taymer yoxdur.",
+    "short": "Kölgəyə baxın və onu yaradan şəkilə vurun.",
+    "players": "1 və ya 2 nəfər",
+    "intro": "Kölgə uyğunluğu çap olunmuş iş vərəqlərindən tanış fəaliyyətdir, burada böyük şəkillər və çap etmək üçün heç bir şey yoxdur. Yumşaq kölgə ekranın yuxarı hissəsində oturur və aşağıda iki, üç və ya dörd şəkil gözləyir. Kölgə yaradan birinə toxunun. Velosiped, çətir və ya çay fincanı kimi formalar haqqında da danışmaq asandır.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Seçmək üçün iki, üç və ya dörd şəkil seçin. Two is the simplest.",
+      "Birlikdə kölgəyə baxın. What shape is it? Hündürdür yoxsa yuvarlaq?",
+      "Kölgə yaradan şəkilə toxunun. Onun adı kölgə altında görünür.",
+      "Fərqli şəkil vurularsa, oyun sadəcə onu adlandırır və gözləyir. Vaxtınızı ayırın.",
+      "Başqasına hazır olduğunuzda \"Növbəti kölgə\" üzərinə klikləyin."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Barmağınızla kölgənin konturunu çəkin və forma haqqında danışın.",
+      "Bu gün kölgələr çətinləşirsə, şəkillərin bir-birinə bənzədiyi \"Eynini tap\" seçiminə keçin.",
+      "Şəkil tapıldıqdan sonra onun haqqında danışın: “Bizim belə çətirimiz var idi”."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Taymer və ya hesab varmı?",
+        "a": "Xeyr. Saat, hesab, hərəkət sayğacı və ya məğlubiyyət yoxdur. İstənilən an dayana bilərsiniz və yarıda dayanmaq bitirmək üçün mükəmməl bir yoldur."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Kölgə uyğunluğu demanslı insanlar üçün yaxşıdır?",
+        "a": "Bu, bəzi insanlar üçün, xüsusən də erkən mərhələlərdə xoş, sadə bir fəaliyyət ola bilər. Formaları tanımaq sözlərdən daha asandır. Bu, sınaq deyil, həzz almaq və söhbət etmək üçündür və demensiyanı müalicə etmir və ya yavaşlatmır. Əgər məyusluğa səbəb olarsa, eyni şeyi tapmağa çalışın və ya sadəcə şəkillərə birlikdə baxın."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Səhv şəkilə toxunsa nə olar?",
+        "a": "Xoşagəlməz heç nə yoxdur. Siqnal, qırmızı xaç və ya titrəmə yoxdur. Oyun vurulmuş şəklin adını çəkir və növbəti toxunuşu gözləyir."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Pulsuzdur və mən qeydiyyatdan keçməliyəmmi?",
+        "a": "Bəli, pulsuzdur və heç bir hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
       }
     ]
   },
   "sort-together": {
     "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "seoTitle": "Demans üçün Çeşidləmə Oyunu: Birlikdə Sırala",
+    "h1": "Birlikdə çeşidləyin: Şəkil Çeşidləmə Fəaliyyəti",
+    "description": "Şəkilə toxunun, sonra onun aid olduğu səbətə toxunun: mətbəx və ya bağ, meyvə və ya heyvanlar. Demansla yaşayan insanlar üçün sakit, sərbəst çeşidləmə fəaliyyəti.",
+    "short": "Hər şəkli öz səbətinə qoyun: mətbəx və ya bağça və s.",
+    "players": "1 və ya 2 nəfər",
+    "intro": "Çeşidləmə baqqalları kənara qoymaq və ya corabları cütləşdirmək kimi tanış, məmnunedici gündəlik işdir. Şəkilə toxunun, sonra onun aid olduğu səbətə toxunun. Tələsmək və yanlış dönüş yoxdur.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Bir mövzu seçin: mətbəx və bağ, meyvə və heyvanlar və ya ev və səyahət.",
+      "Şəkilə toxunun. Qızıl bir haşiyə alır.",
+      "Onun aid olduğu səbətə toxunun. Şəkil həmin səbətə keçir.",
+      "Digər səbətə aiddirsə, oyun bunu yumşaq bir şəkildə söyləyir və gözləyir.",
+      "Hər şəkil çeşidləndikdə səbətləri birlikdə nəzərdən keçirin."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Real həyatda çox vaxt səhv cavablar olmur. Kimsə suvarma qabının mətbəxə aid olduğunu deyirsə, bunun səbəbini soruşun. Yaxşı bir hekayə ala bilərsiniz.",
+      "Şəkillərdən təklif olaraq istifadə edin: \"Bağçanızda nə yetişdirdiniz?\"",
+      "Qaşıqlar, çəngəllər və ya düymələr kimi real obyektləri rəngə görə çeşidləmək ekrandan uzaqda əla bir təqibdir."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Taymer və ya hesab varmı?",
+        "a": "Xeyr. Saat, hesab, hərəkət sayğacı və ya məğlubiyyət yoxdur. İstənilən an dayana bilərsiniz və yarıda dayanmaq bitirmək üçün mükəmməl bir yoldur."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Niyə çeşidləmə?",
+        "a": "Bir çox insan çeşidləmədən zövq alır, çünki bu, faydalı, tanış iş kimi hiss olunur. Getdikcə şəkillər haqqında danışmaq da asandır."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Pulsuzdur və mən qeydiyyatdan keçməliyəmmi?",
+        "a": "Bəli, pulsuzdur və heç bir hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Şəkil tapmacası",
+    "seoTitle": "Demans üçün asan Yapboz Puzzle: 4 və ya 9 Parça",
+    "h1": "Şəkil Tapmacası: Asan Yapboz",
+    "description": "Demensiya ilə yaşayan insanlar üçün asan onlayn Yapboz: 4 və ya 9 böyük parça, bütün şəkil görünən qalır və siz onları dəyişdirmək üçün iki hissəyə toxunursunuz.",
+    "short": "Şəkil bütöv olana qədər onları dəyişdirmək üçün iki hissəyə toxunun.",
+    "players": "1 və ya 2 nəfər",
+    "intro": "Dost bir şəkil dörd və ya doqquz böyük hissəyə kəsilir və qarışdırılır. Bütün şəkil bələdçi kimi görünür. Bir parçaya, sonra digərinə toxunun və onlar yerləri dəyişdirirlər. Heç bir sürükləməyə ehtiyac yoxdur.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Şəkil və 4 və ya 9 ədəd seçin. Dörd zərif başlanğıcdır.",
+      "Yuxarıdakı bütün şəkilə baxın.",
+      "Parçaya toxunun, sonra onun getməli olduğu yerə toxunun. İki ədəd dəyişdirilir.",
+      "Doğru yerdə olan parçalar kiçik bir onay işarəsi alır.",
+      "Şəkil bütöv olduqda, birlikdə zövq alın, sonra başqa birini seçin."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Onları dəyişdirmək üçün iki parçaya toxunmaq bir çox insan üçün sürükləməkdən daha asandır.",
+      "Birləşən kimi şəkil haqqında danışın: \"Qırmızı dam var.\"",
+      "12-dən 24-ə qədər böyük hissədən ibarət əsl taxta Yapboz da sevimli masa fəaliyyətidir."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Taymer və ya hesab varmı?",
+        "a": "Xeyr. Saat, hesab, hərəkət sayğacı və ya məğlubiyyət yoxdur. İstənilən an dayana bilərsiniz və yarıda dayanmaq bitirmək üçün mükəmməl bir yoldur."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Parçaları sürükləməliyəm?",
+        "a": "Xeyr. Bir parçaya, sonra digərinə toxunun və onlar yerləri dəyişdirirlər. Bu, titrəyən əllə və ya kiçik ekranda daha asandır."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Pulsuzdur və mən qeydiyyatdan keçməliyəmmi?",
+        "a": "Bəli, pulsuzdur və heç bir hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "",
+    "seoTitle": "deyimini tamamlayın Sözü bitirin: Yaşlılar üçün atalar sözləri oyunu",
+    "h1": "Sözü bitir",
+    "description": "Son sözü çatmayan tanış Amerika deyimləri, \"Qənaət edilən qəpik bir qəpikdir ___\" kimi. Seçimə toxunun və ya sonluğu göstərin, sonra bu barədə danışın.",
+    "short": "Tanış kəlamları birlikdə tamamlayın, sonra onlar haqqında danışın.",
+    "players": "1, 2 və ya qrup",
+    "intro": "Köhnə deyimlər çox vaxt bir ömür boyu tanınır. Hər bir kartda itkin düşən son söz, üç seçim və \"Sonunu göstər\" düyməsi olan tanış deyim göstərilir. Bitirdikdən sonra yumşaq bir sual söhbətə dəvət edir.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Sözləri birlikdə yüksək səslə oxuyun.",
+      "Onu tamamlayan sözə toxunun və ya \"Sonunu göstər\" üzərinə toxunun.",
+      "Bütün kəlamı yenidən oxuyun və göstərişdən istifadə edərək bu barədə danışın.",
+      "Hazır olduğunuzda \"Növbəti söz\" üzərinə klikləyin."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Yavaş-yavaş oxuyun və son sözdən əvvəl bir fasilə buraxın. Çox vaxt insanlar bunu bitirməmişdən əvvəl deyirlər.",
+      "Kimsə fərqli bir son verirsə, ondan həzz alın. Deyimlərin bəzi versiyaları ailə və ya bölgəyə görə dəyişir.",
+      "Qrupda bir nəfər oxuyur və hamı sonuna qoşulur."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Taymer və ya hesab varmı?",
+        "a": "Xeyr. Saat, hesab, hərəkət sayğacı və ya məğlubiyyət yoxdur. İstənilən an dayana bilərsiniz və yarıda dayanmaq bitirmək üçün mükəmməl bir yoldur."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Fərqli söz seçsək necə olar?",
+        "a": "Oyun adi sonluğu göstərir və söhbətə keçir. Hesab yoxdur və fərqli cavab yaxşıdır."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Pulsuzdur və mən qeydiyyatdan keçməliyəmmi?",
+        "a": "Bəli, pulsuzdur və heç bir hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Böyük çaplı söz axtarışı",
+    "seoTitle": "Demans üçün böyük çap söz axtarışı, çap edilə bilən",
+    "h1": "Böyük çaplı söz axtarışı",
+    "description": "Yaşlılar və demensiya ilə yaşayan insanlar üçün pulsuz böyük çaplı söz axtarışı. Bir neçə söz, böyük hərflər, yalnız aşağı və yuxarı sözlər.",
+    "short": "Böyük hərflər, bir neçə söz, yalnız eni və aşağı. Onu da çap edin.",
+    "players": "1 və ya 2 nəfər",
+    "intro": "Böyük hərflər və bir neçə sözdən ibarət kiçik bir şəbəkə, hamısı aşağı və ya aşağı oxunur. Sözün ilk hərfinə, sonra isə sonuncu hərfinə toxunun. Kağıza üstünlük verirsiniz? Bir kliklə təzə tapmaca çap edin.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Mövzu və şəbəkə ölçüsü seçin.",
+      "Söz siyahısına baxın. Sözlər (soldan sağa) və ya aşağıdan (yuxarıdan aşağıya) oxunur.",
+      "Sözün ilk hərfinə, sonra onun son hərfinə toxunun.",
+      "Tapılan söz vurğulanır və siyahıdan kəsilir.",
+      "Qələm və ya markerlə kağız üzərində oynamaq üçün \"Bu tapmacanı çap et\" üzərinə klikləyin."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Siyahıda sözün üzərinə işarə edin və onun ilk hərfini birlikdə axtarın.",
+      "Kağız üzərində işıqlandırıcı qələmdən daha asandır.",
+      "Mövzu sözləri haqqında danışın. Meyvə sözləri seçmək, çörək bişirmək və ya bazarlar haqqında xatirələrə təbii bir yoldur."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Taymer və ya hesab varmı?",
+        "a": "Xeyr. Saat, hesab, hərəkət sayğacı və ya məğlubiyyət yoxdur. İstənilən an dayana bilərsiniz və yarıda dayanmaq bitirmək üçün mükəmməl bir yoldur."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Söz axtarışını çap edə bilərəmmi?",
+        "a": "Bəli. Cari şəbəkəni altında söz siyahısı olmaqla böyük şriftlə çap etmək üçün \"Bu tapmacanı çap et\" seçiminə toxunun. Hər yeni tapmaca fərqlidir."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Pulsuzdur və mən qeydiyyatdan keçməliyəmmi?",
+        "a": "Bəli, pulsuzdur və heç bir hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Boyama səhifələri",
+    "seoTitle": "Demanslı Yetkinlər üçün Boyama Səhifələri (Pulsuz)",
+    "h1": "Boyama Səhifələr",
+    "description": "Böyük sahələri olan sadə, böyüklər üçün rəngləmə səhifələri: rəngə toxunun, sonra şəklə toxunun.",
+    "short": "Rəngə, sonra şəklin bir hissəsinə toxunun. Səhifələri də çap edin.",
+    "players": "1 və ya 2 nəfər",
+    "intro": "Böyük, sadə formalı səhifələr: qabda çiçək, ev, çay fincanı, kəpənək və yelkənli qayıq. Rəngə toxunun, sonra onu doldurmaq üçün şəklin bir hissəsinə toxunun. Səhv rənglər yoxdur.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Səhifə seçin.",
+      "Rəngə toxunun. Hər rəngin üzərində öz adı yazılıb.",
+      "Həmin rənglə doldurmaq üçün şəklin bir hissəsinə toxunun.",
+      "Yenidən doldurmaqla fikrinizi istənilən vaxt dəyişdirin.",
+      "Boş səhifəni qələm və ya markerlərlə rəngləmək üçün \"Bu səhifəni çap et\" üzərinə klikləyin."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Seçim çox görünürsə, bütün dəsti deyil, seçmək üçün iki rəng təklif edin.",
+      "Bənövşəyi ağaclar və mavi günəşlər xoş gəlmisiniz. Bu, dəqiqlikdən deyil, rəngdən həzz almaqdır.",
+      "Çap edilmiş səhifələr qalın markerlər və ya karandaşlarla yaxşı işləyir, onları tutmaq daha asandır."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Taymer və ya hesab varmı?",
+        "a": "Xeyr. Saat, hesab, hərəkət sayğacı və ya məğlubiyyət yoxdur. İstənilən an dayana bilərsiniz və yarıda dayanmaq bitirmək üçün mükəmməl bir yoldur."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Bu səhifələr çox uşaqdır?",
+        "a": "Biz cizgi filmlərindən çox sakit, sadə obyektlər çəkdik, ona görə də səhifələr böyüklərə uyğun gəlir. Böyük formalar uşaqlıqdan rəngləməni asanlaşdırır."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Pulsuzdur və mən qeydiyyatdan keçməliyəmmi?",
+        "a": "Bəli, pulsuzdur və heç bir hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Danışıq kartları",
+    "seoTitle": "Demans üçün Söhbət Başlayanlar: Şəkil Kartları",
+    "h1": "Danışıq Kartları",
+    "description": "Demensiya ilə yaşayan insanlar üçün incə söhbət başlanğıcı olan şəkil kartları: sorğu-sual, düzgün cavab yoxdur. Ekranda istifadə edin və ya tam dəsti çap edin.",
+    "short": "Açıq, incə suallarla şəkilli kartlar. Sorğu yoxdur.",
+    "players": "2 nəfər və ya qrup",
+    "intro": "Hər bir kart tanış şəkili söhbətə açıq dəvətlə birləşdirir, məsələn, \"Sevdiyiniz hava növü nədir?\" Düzgün cavablar və xatırlanacaq heç nə yoxdur. Bir mövzu seçin və ya hamısını qarışdırın.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Mövzu seçin və ya \"Bütün kartları\" saxlayın.",
+      "Sualı yüksək səslə oxuyun və birlikdə şəkilə baxın.",
+      "Qulaq asın, öz cavabınızı paylaşın və söhbətin getməsinə icazə verin.",
+      "Hazır olduğunuzda \"Növbəti kart\"a toxunun və ya istədiyiniz qədər bir kartla qalın.",
+      "Kağız dəstini kəsmək üçün \"Bütün kartları çap et\" üzərinə klikləyin."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Suala özünüz də cavab verin. Müsahibə yox, söhbət kimi hiss olunur.",
+      "Faktlara deyil, hekayəyə əməl edin. Detallar dəyişirsə, yaxşıdır.",
+      "Kart kədərli bir şeyə toxunarsa, hissi etiraf edin və yumşaq bir şəkildə başqa karta keçin."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Niyə \"xatırlayırsan ...?\" suallar?",
+        "a": "Yaddaşı yoxlayan suallar imtahan kimi hiss oluna və xəcalət çəkə bilər. \"Mənə danışın...\" kimi açıq dəvətlər, yadına düşən hər kəsin qoşulmasına icazə verin."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Kartları çap edə bilərəmmi?",
+        "a": "Bəli. \"Bütün kartları çap et\" tam dəsti böyük şriftlə çap edir, hər səhifədə bir neçə kart, kəsilməyə hazırdır."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Pulsuzdur və mən qeydiyyatdan keçməliyəmmi?",
+        "a": "Bəli, pulsuzdur və heç bir hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "-də istifadə olunan fotolar Foto cütləri",
+    "seoTitle": "Ailə Fotolarından Uyğun Oyun Yaradın",
+    "h1": "Foto Cütlükləri: Öz Fotolarınızla Uyğunlaşın",
+    "description": "Öz ailə şəkillərinizi incə uyğunlaşma oyununa çevirin. Cihazınızda 2-6 fotoşəkil seçin; onlar brauzerinizdə qalır və heç vaxt yüklənmir.",
+    "short": "Öz şəkillərinizi seçin və onlara uyğunlaşdırın. Heç nə yüklənmir.",
+    "players": "2 nəfər, yan-yana",
+    "intro": "Telefonunuzdan, planşetinizdən və ya kompüterinizdən iki-altı fotoşəkil seçin və onlar böyük, görünən şəkillərlə uyğun bir oyuna çevrilirlər. Şəkillər yalnız bu səhifənin içərisində göstərilir. Onlar yüklənmir, saxlanmır və paylaşılmır və səhifəni bağladığınız zaman yox olur.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "\"Şəkilləri seçin\" üzərinə klikləyin və iki-altı fotoşəkil seçin.",
+      "Hər şəkil iki dəfə görünür. Birinə, sonra onun cütlüyünə toxunun.",
+      "Tapdığınız hər bir fotoşəkil haqqında danışın.",
+      "Bitirdikdən sonra səhifəni bağlayın və ya \"Şəkilləri sil\" üzərinə klikləyin. Heç nə saxlanmır."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Xoşbəxt, tanış şeylərin aydın fotoşəkillərini seçin: ev heyvanı, bağça, sevimli yer, toy günü.",
+      "Yerlərin və obyektlərin şəkilləri üzlərdən daha asan ola bilər və insanların adlarını çəkmək üçün hər hansı təzyiqdən yayınırlar.",
+      "Təsəlli gətirdiklərini bilmirsinizsə, qəfil kədər gətirə biləcəkləri təqdirdə ölən insanların fotoşəkillərini buraxın."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Şəkillərim hər hansı yerə yüklənib?",
+        "a": "Xeyr. Səhifə birbaşa brauzerinizdə seçdiyiniz şəkilləri oxuyur və onları ekranınızda göstərir. Onlar bizə və ya başqasına göndərilmir və siz səhifəni bağladığınız zaman və ya yenidən yüklədiyiniz zaman yox olurlar."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Taymer və ya hesab varmı?",
+        "a": "Xeyr. Saat, hesab, hərəkət sayğacı və ya məğlubiyyət yoxdur. İstənilən an dayana bilərsiniz və yarıda dayanmaq bitirmək üçün mükəmməl bir yoldur."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Oyunu növbəti dəfə saxlaya bilərəm?",
+        "a": "Brauzerdə deyil, dizaynla, buna görə də şəxsi heç bir şey saxlanmır. iPhone və iPad üçün pulsuz Golden Moments proqramı seçilmiş foto nüsxələrini cihazınızda saxlaya bilər."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Şəkil bingo",
+    "seoTitle": "Demanslı Yaşlılar üçün Şəkil Bingo: Çap edilə bilən",
+    "h1": "Qruplar üçün Şəkil Bingo",
+    "description": "Yaddaş baxımı və yaşlı qruplar üçün pulsuz çap edilə bilən şəkil bingo, böyük ekranda zəng edən. Sözləri olan böyük şəkillər, 9 və ya 16 kvadrat, oxumağa ehtiyac yoxdur.",
+    "short": "Çap edilə bilən şəkil binqo kartları və qruplar üçün böyük ekranlı zəng edən.",
+    "players": "2-dən 30-a qədər olan qrup",
+    "intro": "Rəqəmlər əvəzinə şəkillərlə klassik bingo, buna görə heç kimin kiçik çapı oxumağa ehtiyacı yoxdur. Unikal kartlar dəstini çap edin, sonra televizorda, noutbukda və ya planşetdə hər şəkli böyük göstərmək üçün ekrandakı zəng edəndən istifadə edin.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Kart başına 9 və ya 16 kvadrat və neçə oyunçu seçin.",
+      "\"Kartları çap et\" üzərinə toxunun. Hər bir kart fərqlidir.",
+      "Zəng edəni böyük ekranda açın. Hər şəkli öz adı ilə göstərmək üçün \"Növbəti şəkil\" üzərinə klikləyin.",
+      "Oyunçular kartlarındakı uyğun şəkli sikkə, düymə və ya markerlə örtürlər.",
+      "Bir sıra və ya bütün kartı dolduran hər kəs şənlənir. Bu versiyada uduzan yoxdur: hamının xətti olana qədər oynamağa davam edin."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Dama və ya şüşə qapaqları kimi böyük nişanlardan istifadə edin. Kiçik düymələri götürmək çətin ola bilər.",
+      "Şəklin adını verin və onun haqqında nəsə deyin: \"Yelkənli qayıq. Kim qayıqda olub?\"",
+      "Ekrana ən yaxın görməkdə çətinlik çəkən insanları oturun və köməkçiləri onlara ehtiyacı olan oyunçularla cütləşdirin.",
+      "Doqquz kvadrat əksər qruplar üçün kifayətdir. Sessiyanı təxminən 20-30 dəqiqə saxlayın."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Baxım evində şəkil bingo necə işlədirəm?",
+        "a": "Hər oyunçuya bir kart çap edin, zəng edəni ən böyük ekrana qoyun və hər birinə ad verərək yavaş-yavaş şəkillərə zəng edin. Hər kəsin xətti olana qədər oynayın ki, heç kim kənarda qalmasın."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Çap etmək pulsuzdur?",
+        "a": "Bəli. Şəxsi və ya qrup istifadəsi üçün istədiyiniz qədər, istədiyiniz qədər kart çap edin."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "İnsanlar oxumadan oynaya bilərmi?",
+        "a": "Bəli. Hər kvadrat sözləri sevənlər üçün altında adı olan böyük bir şəkildir."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Sakit nəfəs",
+    "seoTitle": "Yaşlılar və Baxıcılar üçün Sakit Nəfəs Alma Pauzası",
+    "h1": "Sakit Nəfəs Fasiləsi",
+    "description": "Paylaşmaq üçün yavaş, sakit nəfəs fasiləsi: yumşaq bir dairə altı nəfəs üçün böyüyür və daralır. Siz başlaya bilərsiniz və istənilən vaxt dayandıra bilərsiniz.",
+    "short": "İlə birlikdə nəfəs almaq üçün yavaş bir dairə. İstədiyiniz zaman başlayın və dayandırın.",
+    "players": "1 və ya 2 nəfər",
+    "intro": "Bəzən ən yaxşı fəaliyyət sakit bir fasilədir. \"Başla\" üzərinə klikləyin, sonra dairə böyüdükcə nəfəs alın və azaldıqca nəfəs alın. Daha yavaş və ya daha sürətli tempi seçin. Bu müalicə deyil, sadəcə paylaşmaq üçün dinc bir andır.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Rahatlıqla yan-yana oturun.",
+      "Bir temp seçin: yavaş və ya yumşaq.",
+      "\"Başlat\" düyməsini vurun. Dairə böyüdükcə nəfəs alın, daraldıqda nəfəs alın.",
+      "O, altı nəfəsdən sonra öz-özünə dayanır və ya istədiyiniz zaman \"Dayan\" düyməsini basın."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Əllər tutun və ya xoş qarşılanırsa, əlinizi şəxsin qoluna qoyun.",
+      "Heç vaxt təkid etmə. Baxmaq istəsələr, yaxşı olar.",
+      "Əgər kiminsə tənəffüs problemi varsa, normal nəfəs alın və sadəcə dairəyə baxın. Hər hansı bir tənəffüs narahatlığı barədə həkimdən soruşun."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Bu tibbi nəfəs məşqləridir?",
+        "a": "Xeyr. Bu, sakitlik və şirkət üçün sadə, isteğe bağlı fasilədir. Bu, narahatlıq və ya hər hansı bir vəziyyətin müalicəsi deyil. Sağlamlıq problemləri ilə bağlı həkimlə danışın."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Mən başlamadan çevrə hərəkət edir?",
+        "a": "Xeyr. Siz Start düyməsinə toxunana qədər heç nə hərəkət etmir və altı nəfəsdən sonra və ya Dayandır kliklədiyiniz zaman dayanır. Cihazınız hərəkəti azaltmaq üçün qurulubsa, sözlər dairə böyümədən dəyişir."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Pulsuzdur və mən qeydiyyatdan keçməliyəmmi?",
+        "a": "Bəli, pulsuzdur və heç bir hesab, qeydiyyat və ya yükləmə yoxdur. Telefonda, planşetdə və ya kompüterdə veb brauzerdə işləyir."
       }
     ]
   }

@@ -266,7 +266,7 @@
       "title": "Zdravlje mozga: što kažu istraživanja",
       "seo": "Zdravlje mozga i rizik od demencije: što kažu istraživanja",
       "description": "Može li se demencija spriječiti? Iskreni vodiči s izvorima o čimbenicima rizika, igrama za mozak, prehrani, tjelovježbi, snu, sluhu i ranim znakovima.",
-      "lede": "Što velike studije doista pokazuju o smanjenju rizika od demencije, jasno objašnjeno, uključujući i ondje gdje su dokazi slabi ili neujednačeni. Opće informacije, a ne medicinski savjet."
+      "lede": "Što velike studije doista pokazuju o smanjenju rizika od demencije, jasno objašnjeno, uključujući i ondje gdje su dokazi slabi ili neujednačeni."
     }
   },
   "guide": {
@@ -410,7 +410,7 @@
       "seoTitle": "Besplatne aktivnosti za demenciju za domove i grupe",
       "description": "Kako domovi za starije, dnevni boravci, knjižnice i grupe podrške koriste naše besplatne igre za demenciju, uz tekst za dodavanje na popis izvora.",
       "crumb": "Za organizacije",
-      "lede": "Sve na ovom web-mjestu besplatno je za korištenje sa stanarima, članovima i korisnicima, bez računa, licence ili naknade. Ova stranica objašnjava što je ovdje i kako to podijeliti.",
+      "lede": "Sve na ovom web-mjestu besplatno je za korištenje sa stanarima, članovima i korisnicima, bez računa, licence ili naknade.",
       "shortText": "{name}: besplatne, nježne igre sa slikama i vodiči za aktivnosti za osobe koje žive s demencijom i njihove njegovatelje. Bez prijave, mjerenja vremena i bodova.",
       "longText": "{name} ({domain}) nudi {count} besplatnih igara za preglednik namijenjenih osobama koje žive s demencijom, uključujući traženje parova s vidljivim slikama, laganu slagalicu, razvrstavanje, poznate izreke i bingo sa slikama s karticama za ispis. Nema računa, oglašavanja, mjerenja vremena ni bodova. Web-mjesto ima i vodiče za aktivnosti jednostavnim jezikom za svaku fazu demencije, koji navode National Institute on Aging i Alzheimer's Association.",
       "useTitle": "Što organizacije mogu koristiti",
@@ -440,7 +440,7 @@
     "description": "Besplatne igre na internetu za osobe s demencijom: slaganje parova, lagane slagalice, razvrstavanje, izreke, bojanje, bingo. Bez prijave, vremena i bodova.",
     "crumb": "Igre",
     "h1": "Nježne igre za osobe s demencijom",
-    "lede": "{count} besplatnih igara za zajedničko igranje u pregledniku. Velike slike, jednostavne riječi i ništa u čemu se može podbaciti: bez mjerenja vremena, bez bodova, bez prijave.",
+    "lede": "{count} besplatnih igara za zajedničko igranje u pregledniku. Velike slike, jednostavne riječi i ništa u čemu se može podbaciti: bez mjerenja vremena, bez bodova.",
     "listName": "Nježne igre za osobe s demencijom",
     "byStageTitle": "Odabir igre po fazama",
     "byStageLede": "Faze su samo okvirna smjernica. Slijedite ono u čemu osoba uživa i što je ugodno danas.",

@@ -267,7 +267,7 @@
       "title": "Kalusugan ng Utak: Ano ang Sinasabi ng Pananaliksik",
       "seo": "Kalusugan ng Utak at Panganib sa Dementia",
       "description": "Maiiwasan ba ang dementia? Tapat na gabay na may pinagmulan sa mga salik ng panganib, laro para sa utak, pagkain, ehersisyo, tulog at pandinig.",
-      "lede": "Ang talagang ipinapakita ng malalaking pag-aaral tungkol sa pagbabawas ng panganib sa dementia, ipinaliwanag nang payak, kasama kung saan mahina o halo-halo ang ebidensya. Pangkalahatang impormasyon ito, hindi medikal na payo."
+      "lede": "Ang talagang ipinapakita ng malalaking pag-aaral tungkol sa pagbabawas ng panganib sa dementia, ipinaliwanag nang payak, kasama kung saan mahina o halo-halo ang."
     }
   },
   "guide": {
@@ -401,7 +401,7 @@
       "seoTitle": "Handout na Ipi-print: Libreng Laro sa Dementia Online",
       "description": "Isang pahinang handout para sa pamilya at tagapag-alaga tungkol sa libre at banayad na laro ng larawan para sa may dementia, para sa support group.",
       "crumb": "Handout na ipi-print",
-      "lede": "I-print ang pahinang ito para sa support group, care packet o pinto ng ref. Gamitin ang Print command ng browser ninyo; hindi isinasama sa printout ang mga menu at button.",
+      "lede": "I-print ang pahinang ito para sa support group, care packet o pinto ng ref.",
       "introHtml": "<p>Malalaking larawan, payak na salita at walang babagsakan. Libre sa telepono, tablet o computer, walang sign-up, walang ad, walang timer at walang puntos. Maupong magkatabi at magsalitan.</p>",
       "gamesTitle": "Mga larong susubukan nang magkasama",
       "restHtml": "<h2>Ilang tip</h2><ul><li>Pumili ng oras ng araw na pinakamaayos ang pakiramdam ng tao.</li><li>Magsimula sa pinakamadaling setting. Sapat na ang apat na tile.</li><li>Pag-usapan ang mga larawan. Madalas na ang usapan ang pinakamagandang bahagi.</li><li>Huminto habang masarap pa sa pakiramdam. Magandang kinalabasan ang maagang paghinto.</li></ul><h2>Nasa site din</h2><ul><li>Mga libreng printable: word search na malalaki ang letra, pangkulay, mga kard ng usapan at bingo ng larawan.</li><li>Mga ideya sa aktibidad para sa bawat yugto, at mga gabay sa paglalaro nang magkasama at sa pag-aalaga sa sarili.</li></ul><p class=\"muted\">Para sa kasiyahan at pagsasama. Hindi medikal na payo, pagsusuri o panggagamot. Inilathala ang Golden Moments ng Cloudjet Solutions Pte. Ltd.</p>"
@@ -411,7 +411,7 @@
       "seoTitle": "Libreng Aktibidad sa Dementia para sa Care Home at Grupo",
       "description": "Paano ginagamit ng mga care home, day program, aklatan at support group ang aming libreng laro sa dementia, at teksto para maidagdag kami sa resource list.",
       "crumb": "Para sa mga organisasyon",
-      "lede": "Libreng gamitin ang lahat ng nasa site na ito kasama ang mga residente, miyembro at kliyente, walang account, lisensya o bayad. Ipinaliliwanag ng pahinang ito kung ano ang narito at paano ito ibahagi.",
+      "lede": "Libreng gamitin ang lahat ng nasa site na ito kasama ang mga residente, miyembro at kliyente, walang account, lisensya o bayad.",
       "shortText": "{name}: libre at banayad na mga laro ng larawan at gabay sa aktibidad para sa mga taong may dementia at sa mga tagapag-alaga nila. Walang sign-up, walang timer, walang puntos.",
       "longText": "Nag-aalok ang {name} ({domain}) ng {count} libreng laro sa browser na ginawa para sa mga taong may dementia, kabilang ang magkapares na larawang iniiwang nakikita, madaling jigsaw, pag-aayos ayon sa uri, pamilyar na kasabihan at bingo ng larawan na may mga kard na ipi-print. Walang account, advertising, timer o puntos. May mga gabay din ang site sa payak na wika para sa bawat yugto ng dementia na sumisipi sa National Institute on Aging at sa Alzheimer's Association.",
       "useTitle": "Ang magagamit ng mga organisasyon",
@@ -441,7 +441,7 @@
     "description": "Libreng online na laro para sa nakatatandang may dementia o Alzheimer's: pagtutugma ng larawan, jigsaw, kasabihan, pangkulay, bingo. Walang timer o puntos.",
     "crumb": "Mga laro",
     "h1": "Mga Banayad na Laro para sa mga Taong may Dementia",
-    "lede": "{count} libreng laro na masayang laruin nang magkasama sa browser ninyo. Malalaking larawan, payak na salita, at walang babagsakan: walang timer, walang puntos, walang sign-up.",
+    "lede": "{count} libreng laro na masayang laruin nang magkasama sa browser ninyo.",
     "listName": "Mga banayad na laro para sa mga taong may dementia",
     "byStageTitle": "Pagpili ng laro ayon sa yugto",
     "byStageLede": "Magaspang na gabay lang ang mga yugto. Sundan ang kinagigiliwan ng tao at kung ano ang komportable ngayon.",

@@ -252,7 +252,7 @@
       "title": "Shughuli kwa Watu Wanaoishi na Dementia",
       "seo": "Shughuli kwa Watu Wenye Dementia: Mawazo kwa Hatua",
       "description": "Mawazo ya shughuli kwa watu wanaoishi na dementia katika kila hatua: muziki, kukumbushana, kazi za kila siku, hisia, ufundi, nje na vya kuchapisha.",
-      "lede": "Shughuli yenye maana ni chochote kinacholeta faraja, kusudi au wakati wa ukaribu. Anza na kile ambacho mtu huyo amekuwa akipenda siku zote, na kirekebishe kulingana na leo."
+      "lede": "Shughuli yenye maana ni chochote kinacholeta faraja, kusudi au wakati wa ukaribu."
     },
     "caregiving": {
       "label": "Ulezi",
@@ -266,7 +266,7 @@
       "title": "Afya ya Ubongo: Utafiti Unasema Nini",
       "seo": "Afya ya Ubongo na Hatari ya Dementia: Utafiti Unasema Nini",
       "description": "Je, dementia inaweza kuzuiwa? Miongozo ya kweli yenye vyanzo kuhusu vihatarishi vya dementia, michezo ya ubongo, kufunga, lishe, mazoezi, usingizi na kusikia.",
-      "lede": "Kile ambacho tafiti kubwa zinaonyesha kuhusu kupunguza hatari ya dementia, kimeelezwa kwa urahisi, ikiwemo mahali ambapo ushahidi ni dhaifu au mchanganyiko. Taarifa za jumla, si ushauri wa kitabibu."
+      "lede": "Kile ambacho tafiti kubwa zinaonyesha kuhusu kupunguza hatari ya dementia, kimeelezwa kwa urahisi, ikiwemo mahali ambapo ushahidi ni dhaifu au mchanganyiko."
     }
   },
   "guide": {
@@ -400,7 +400,7 @@
       "seoTitle": "Karatasi ya Kuchapisha: Michezo ya Bure ya Dementia Mtandaoni",
       "description": "Karatasi ya ukurasa mmoja ya kuchapisha kwa familia na walezi kuhusu michezo ya bure na ya taratibu ya picha kwa watu wanaoishi na dementia.",
       "crumb": "Karatasi ya kuchapisha",
-      "lede": "Chapisha ukurasa huu kwa kikundi cha msaada, mfuko wa huduma au mlango wa jokofu. Tumia amri ya Chapisha ya kivinjari chako; menyu na vitufe havitaonekana kwenye karatasi.",
+      "lede": "Chapisha ukurasa huu kwa kikundi cha msaada, mfuko wa huduma au mlango wa jokofu.",
       "introHtml": "<p>Picha kubwa, maneno rahisi na hakuna cha kushindwa. Bure kwenye simu, kompyuta kibao au kompyuta, bila usajili, matangazo, saa wala alama. Kaeni kando kwa kando na mgusane kwa zamu.</p>",
       "gamesTitle": "Michezo ya kujaribu pamoja",
       "restHtml": "<h2>Vidokezo vichache</h2><ul><li>Chagua wakati wa siku ambapo mtu huyo yuko katika hali yake nzuri zaidi.</li><li>Anza na mpangilio rahisi zaidi. Kadi nne zinatosha.</li><li>Zungumzieni picha. Mazungumzo mara nyingi ndiyo sehemu bora zaidi.</li><li>Simameni ikiwa bado inapendeza. Kumaliza mapema ni matokeo mazuri.</li></ul><h2>Pia kwenye tovuti</h2><ul><li>Vitu vya bure vya kuchapisha: fumbo la maneno la herufi kubwa, kurasa za kupaka rangi, kadi za mazungumzo na bingo ya picha.</li><li>Mawazo ya shughuli kwa kila hatua, na miongozo ya kucheza pamoja na ya kujitunza.</li></ul><p class=\"muted\">Kwa burudani na kuwa pamoja. Si ushauri wa kitabibu, kipimo wala matibabu. Golden Moments imechapishwa na Cloudjet Solutions Pte. Ltd.</p>"

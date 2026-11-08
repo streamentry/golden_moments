@@ -252,7 +252,7 @@
       "title": "Activités pour personnes atteintes de démence",
       "seo": "Activités pour personnes atteintes de démence, par stade",
       "description": "Idées d’activités pour personnes âgées atteintes de démence, à chaque stade : musique, souvenirs, gestes du quotidien, sens, loisirs créatifs, fiches à imprimer.",
-      "lede": "Une activité qui a du sens, c’est tout ce qui apporte du réconfort, un but ou un moment de lien. Partez de ce que la personne a toujours aimé, et adaptez-le à aujourd’hui."
+      "lede": "Une activité qui a du sens, c’est tout ce qui apporte du réconfort, un but ou un moment de lien."
     },
     "caregiving": {
       "label": "Aidants",
@@ -266,7 +266,7 @@
       "title": "Santé du cerveau : ce que dit la recherche",
       "seo": "Santé du cerveau et démence : ce que dit la recherche",
       "description": "Peut-on prévenir la démence ? Guides honnêtes et sourcés : facteurs de risque, jeux pour le cerveau, jeûne, alimentation, sport, sommeil, audition, premiers signes.",
-      "lede": "Ce que les grandes études montrent réellement sur la réduction du risque de démence, expliqué simplement, y compris quand les preuves sont faibles ou contrastées. Information générale, pas un avis médical."
+      "lede": "Ce que les grandes études montrent réellement sur la réduction du risque de démence, expliqué simplement, y compris quand les preuves sont faibles ou contrastées."
     }
   },
   "guide": {
@@ -400,7 +400,7 @@
       "seoTitle": "Fiche à imprimer : jeux Alzheimer gratuits en ligne",
       "description": "Une fiche d’une page à imprimer pour les familles et les aidants, qui présente des jeux d’images gratuits et doux pour les personnes atteintes de démence.",
       "crumb": "Fiche à imprimer",
-      "lede": "Imprimez cette page pour un groupe de parole, un dossier pour les familles ou la porte du frigo. Utilisez la commande Imprimer de votre navigateur ; les menus et les boutons n’apparaissent pas sur la version imprimée.",
+      "lede": "Imprimez cette page pour un groupe de parole, un dossier pour les familles ou la porte du frigo.",
       "introHtml": "<p>De grandes images, des mots simples et rien à rater. Gratuit sur téléphone, tablette ou ordinateur, sans inscription, sans publicité, sans chrono et sans score. Asseyez-vous côte à côte et jouez chacun votre tour.</p>",
       "gamesTitle": "Des jeux à essayer ensemble",
       "restHtml": "<h2>Quelques conseils</h2><ul><li>Choisissez un moment de la journée où la personne est en forme.</li><li>Commencez par le réglage le plus simple. Quatre cartes, c’est bien assez.</li><li>Parlez des images. La conversation est souvent le meilleur moment.</li><li>Arrêtez tant que c’est encore agréable. Finir tôt est une bonne façon de finir.</li></ul><h2>Également sur le site</h2><ul><li>Documents gratuits à imprimer : mots mêlés en gros caractères, coloriages, cartes de conversation et loto en images.</li><li>Des idées d’activités pour chaque stade, et des guides pour jouer ensemble et prendre soin de soi.</li></ul><p class=\"muted\">Pour le plaisir et les moments partagés. Ni avis médical, ni test, ni traitement. Golden Moments est publié par Cloudjet Solutions Pte. Ltd.</p>"
@@ -410,7 +410,7 @@
       "seoTitle": "Activités Alzheimer gratuites pour EHPAD et groupes",
       "description": "Comment EHPAD, accueils de jour, médiathèques et associations d’aidants utilisent nos jeux gratuits pour la démence, et un texte pour nous citer dans vos ressources.",
       "crumb": "Pour les établissements",
-      "lede": "Tout ce qui se trouve sur ce site peut être utilisé gratuitement avec vos résidents, adhérents et bénéficiaires, sans compte, licence ni frais. Cette page présente ce que vous y trouverez et comment le partager.",
+      "lede": "Tout ce qui se trouve sur ce site peut être utilisé gratuitement avec vos résidents, adhérents et bénéficiaires, sans compte, licence ni frais.",
       "shortText": "{name} : jeux d’images gratuits et tout en douceur, et guides d’activités pour les personnes atteintes de démence et leurs aidants. Sans inscription, sans chrono, sans score.",
       "longText": "{name} ({domain}) propose {count} jeux gratuits dans le navigateur, conçus pour les personnes atteintes de démence, dont un jeu de paires aux images visibles, un puzzle facile, un jeu de tri, des proverbes familiers et un loto en images avec cartons à imprimer. Il n’y a ni compte, ni publicité, ni chrono, ni score. Le site propose aussi, pour chaque stade de la maladie, des guides d’activités en langage simple qui citent le National Institute on Aging et l’Alzheimer’s Association.",
       "useTitle": "Ce que les établissements peuvent utiliser",

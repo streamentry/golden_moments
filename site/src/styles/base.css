@@ -195,6 +195,36 @@ textarea {
   max-width: 38em;
 }
 
+@media (prefers-contrast: more) {
+  .eyebrow {
+    color: #000000;
+    font-weight: 800;
+  }
+  .eyebrow::before {
+    background: #000000;
+    box-shadow: none;
+    border: 2px solid #000000;
+  }
+  .lede {
+    color: #000000;
+  }
+}
+
+@media (forced-colors: active) {
+  .eyebrow {
+    color: CanvasText;
+  }
+  .eyebrow::before {
+    forced-color-adjust: none;
+    background: Highlight;
+    border: 2px solid Highlight;
+    box-shadow: none;
+  }
+  .lede {
+    color: CanvasText;
+  }
+}
+
 .muted {
   color: var(--gm-on-surface-variant);
 }

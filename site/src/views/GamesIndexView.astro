@@ -83,6 +83,11 @@ const itemList = {
     border-collapse: collapse;
     font-size: var(--text-md);
   }
+  table:focus-visible {
+    outline: 3px solid var(--gm-primary);
+    outline-offset: 2px;
+    border-radius: var(--radius-sm);
+  }
   th,
   td {
     text-align: start;
@@ -96,5 +101,82 @@ const itemList = {
   }
   tbody th {
     white-space: nowrap;
+  }
+  td a {
+    color: var(--gm-primary);
+  }
+  td a:focus-visible {
+    outline: 3px solid var(--gm-primary);
+    outline-offset: 2px;
+    border-radius: var(--radius-sm);
+  }
+  @media (prefers-contrast: more) {
+    table {
+      border: 2px solid #000000;
+    }
+    table:focus-visible {
+      outline: 3px solid #000000;
+    }
+    thead th {
+      background: #000000;
+      color: #FFFFFF;
+      border-bottom: 2px solid #000000;
+    }
+    th,
+    td {
+      border-bottom: 1.5px solid #000000;
+      color: #000000;
+    }
+    tbody th {
+      font-weight: 800;
+      color: #000000;
+    }
+    td a {
+      color: #000000;
+      text-decoration: underline;
+      text-decoration-thickness: 1.5px;
+    }
+    td a:hover {
+      text-decoration-thickness: 3px;
+    }
+    td a:focus-visible {
+      outline: 3px solid #000000;
+      outline-offset: 2px;
+    }
+  }
+  @media (forced-colors: active) {
+    table {
+      border: 2px solid CanvasText;
+    }
+    table:focus-visible {
+      outline: 3px solid Highlight;
+    }
+    thead th {
+      border-bottom: 2px solid CanvasText;
+    }
+    th,
+    td {
+      border-bottom: 1px solid CanvasText;
+    }
+    td a {
+      color: LinkText;
+    }
+    td a:focus-visible {
+      outline: 3px solid Highlight;
+      outline-offset: 2px;
+    }
+  }
+  @media print {
+    .stage-table {
+      overflow: visible;
+    }
+    tr,
+    thead,
+    tbody,
+    th,
+    td {
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
   }
 </style>

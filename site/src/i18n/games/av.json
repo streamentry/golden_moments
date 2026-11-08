@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Суратазул парал",
+    "seoTitle": "Деменциялъе данде кколеб хӀай: суратазул парал",
+    "h1": "Суратазул парал: хӀеренаб дандеккунгутӀиялъул хӀай",
+    "description": "Деменция бугел гӀадамазе чӀобогояб, хӀеренаб дандеккунгутӀиялъул хӀай. ЧӀахӀиял суратал рихьулел хутӀула, таймер яги балл гьечӀо, нужеца тӀаса бищула 4-12 плитка.",
+    "short": "Цого бугеб кӀиябго сурат бате. Суратазда рихьизарун хутӀизе бегьула.",
+    "players": "1 яги 2 чи, аскӀор",
+    "intro": "Сураталда квер хъвазе, хадуб гьелда данде кколеб сураталда квер хъвазе. Суратазда рихьулел хутӀула по умолчанию, гьединлъидал щибго ракӀалда чӀезабизе кколаро. КӀиго сурат цадахъ унеб мехалъ гьезие щола меседил гӀорхъи ва галка.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Чан плит хӀалтӀизабизе кколебали тӀаса бище. Ункъо плитка ккола байбихьизе гӀодобе биччараб бакӀ.",
+      "Бокьараб сураталда квер хъвазе. Гьелъие щола меседил гӀорхъи.",
+      "Цогояб сураталда квер хъвазе. КӀиялго цадахъ хутӀула галкаги лъун.",
+      "Гьеб кӀиябго сурат батӀияб бугони, квешаб жо лъугьунаро. ХӀадурлъараб мехалъ цӀидасан кьабизе ккола.",
+      "Включите \"Скрытые картинки\" только если вам обоим нравится классическая версия с лицом вниз."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Цадахъ ахӀун суратазда цӀарал лъе ва гьезул хӀакъалъулъ гара-чӀвари гьабе: \"БагӀараб чайник. Дуца дурго чайалда жаниб рахь босулищ?\"",
+      "Дур ургъел гьабулев чиясда биччанте кьаби щвезабизе, заман унеб букӀаниги. Гьезие гӀоло кьабиялдаса бихьизе.",
+      "ЛъикӀаб хӀал бихьулебгӀан мехалъ ункъо плитгун чӀа. ЦӀикӀкӀун плитаби ккола тӀаса бищи, киданиги щвезе даража.",
+      "Жеги рохел бугеб мехалъ лъугӀизабе. Цо хӀай ккола тӀубараб хӀалтӀи."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер бугищ яги балл бугищ?",
+        "a": "Йохъ, сагӀат, очко, хьвадиялъул счетчик яги къей гьечӀо. Бокьараб лахӀзаталда чӀезе бегьула, бащдаб нухалда чӀей ккола лъугӀизабизе камилго лъикӀаб къагӀида."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Щай суратал гьумер борхун чӀолел?",
+        "a": "Суратазда бихьулеб хӀалалда цӀуниялъ хӀай ракӀалда чӀезабиялъул гуреб, балагьиялде ва данде ккеялде сверизабула. ГӀемерисезда гьеб гӀодобе биччараблъун бихьула. Цо кьабиялдалъун бахчараб сураталде руссине бегьула, бокьани."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ЧӀобогойищ гьеб, хъвай-хъвагӀай гьабизе кколищ?",
+        "a": "Да, это бесплатно, и нет аккаунта, регистрации или скачивания. Гьеб хӀалтӀула телефоналда, планшеталда яги компьютералда бугеб веб-браузералда."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Нилъерго хъизаналъул суратал хӀалтӀизаризе бегьулищ?",
+        "a": "У. ХӀалбихье Photo pairs, гьелъ рес кьола дурго аппараталдаса суратал тӀаса рищизе. Суратазда дур браузералда хутӀула ва росун гьечӀо."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Цого батизе",
+    "seoTitle": "Цо сурат батизе: ГӀадатияб деменциялъул хӀай",
+    "h1": "Цого сурат бате",
+    "description": "Цо сурат тӀадехун, кӀиго-ункъо гъоркьехун. Гьебго жоялда тӀад квер хъвазе. Деменция бугел гӀадамазе гӀодобе биччараб, чӀобогояб суратазул хӀай, таймер гьечӀого.",
+    "short": "ТӀадехун бугеб сураталъухъ балагье ва гъоркь бугебго сураталда квер хъвазе.",
+    "players": "1 яги 2 чи",
+    "intro": "Экраналъул тӀохда гӀодоб чӀола цо сурат. Гьелда гъоркь буго кӀиго, лъабго, ункъо сурат. Гьебго жоялда тӀад квер хъвазе. Гьеб ккола цо-цо гӀадатияб тӀаса бищи, кӀалъазе гӀемераб бакӀги бугеб.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "КӀиго, лъабго, ункъо сурат тӀаса бищизе. КӀиго бищунго гӀадатияб жо ккола.",
+      "ТӀадехун бугеб сураталъухъ цадахъ балагье.",
+      "Гьоркьоб бугеб гьебго сураталда квер хъвазе. Гьелда хъван букӀуна чекги, цо-кӀиго хинаб рагӀиги.",
+      "БатӀияб сураталда квер хъвани, хӀаялъ гӀицӀго гьелда цӀар лъола ва балагьун чӀола. Дурго заман бахъе.",
+      "Цогидаб сураталъе хӀадурлъараб мехалъ, кьабизе ккола \"Хадусеб сурат\"."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Щибаб сурат тӀаса бищилалде цебе бицине ккола: кьерал, формаби, киб гьеб бихьизе бегьулебали.",
+      "КӀиго тӀаса бищи \"цӀакъ бигьаяб\" жо гуро. Мурад - ракӀалъе гӀолеб лахӀзат, къварилъи гуреб.",
+      "Нагагьлъун кьабизе захӀматаб батани, чияс бихьизабизе бегьула ва дуца гьезие кьабизе бегьула."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер бугищ яги балл бугищ?",
+        "a": "Йохъ, сагӀат, очко, хьвадиялъул счетчик яги къей гьечӀо. Бокьараб лахӀзаталда чӀезе бегьула, бащдаб нухалда чӀей ккола лъугӀизабизе камилго лъикӀаб къагӀида."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Мекъаб сураталда квер хъвани щиб ккезе бугеб?",
+        "a": "РакӀалъе гӀолареб жо гьечӀо. Гьениб гьечӀо гудок, багӀараб хъанч яги лъалхъи. ХӀаялъ кьабураб сураталда цӀар лъола ва иргадулаб кьабиялъухъ балагьун чӀола."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ЧӀобогойищ гьеб, хъвай-хъвагӀай гьабизе кколищ?",
+        "a": "Да, это бесплатно, и нет аккаунта, регистрации или скачивания. Гьеб хӀалтӀула телефоналда, планшеталда яги компьютералда бугеб веб-браузералда."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Сипаталъул матч",
+    "seoTitle": "Деменциялъе данде кколеб сипаталъул хӀай: Эркенаб онлайн",
+    "h1": "Сипатазул матч: хӀеренаб сураталъул хӀай",
+    "description": "ТӀохда бецӀаб сипат, гъоркь кӀиго-ункъо сурат. Сипат гьабулеб сураталда квер хъвазе. Эркенаб, парахатаб сипат данде кколеб хӀай деменциялъе, таймер гьечӀого.",
+    "short": "Сипаталъухъ балагье ва гьеб гьабулеб сураталда квер хъвазе.",
+    "players": "1 яги 2 чи",
+    "intro": "Сипатазул дандекквей ккола басмаялда рахъарал хӀалтӀул тӀанчаздасан лъалеб хӀалтӀи, гьаниб кӀудиял сураталги лъун, басмаялда бахъизе жоги гьечӀого. Экраналъул тӀохда гӀодоб чӀола тӀеренаб сипат ва гъоркьехун балагьун чӀола кӀиго, лъабго-ункъо сурат. Сипат гьабулеб жоялда квер хъвазе. Велосипед, зонтик яги чайник гӀадал формабазулги бицине бигьаяб жо ккола.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "КӀиго, лъабго, ункъо сурат тӀаса бищизе. КӀиго бищунго гӀадатияб жо ккола.",
+      "Цадахъ балагье гьумералде. Кинаб формаялъул гьеб бугеб? Гьеб борхатабищ яги гургинабищ?",
+      "Сипат гьабулеб сураталда квер хъвазе. Гьелъул цӀар загьирлъула сипаталда гъоркь.",
+      "БатӀияб сураталда квер хъвани, хӀаялъ гӀицӀго гьелда цӀар лъола ва балагьун чӀола. Дурго заман бахъе.",
+      "Цогидаб хӀадурлъараб мехалъ \"Хадусеб сипат\" кьабизе."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Килица сипаталъул контур хъвазе ва формаялъул бицине.",
+      "Жакъа сипатал къваридго рихьулел ругони, русса «Цогояб батизе» абураб бакӀалде, суратал цоцада релълъарал бакӀазде.",
+      "Сурат батарабго бицине: «Нилъер букӀана гьединаб зонтик»."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер бугищ яги балл бугищ?",
+        "a": "Йохъ, сагӀат, очко, хьвадиялъул счетчик яги къей гьечӀо. Бокьараб лахӀзаталда чӀезе бегьула, бащдаб нухалда чӀей ккола лъугӀизабизе камилго лъикӀаб къагӀида."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Деменция бугел гӀадамазе лъикӀищ сипат данде ккезаби?",
+        "a": "Гьеб букӀине бегьула цо-цо гӀадамазе ракӀалъе гӀолеб, гӀадатияб хӀалтӀи, хасго цебесеб иргаялда. РагӀабаздаса формаби лъазе бигьаял руго. Гьеб ккола рохел-талихӀалъе ва гара-чӀвариялъе, тесталъе гуреб, гьелъ сах гьабуларо яги хӀалуцинабуларо ракӀ унти. Гьелъ ракӀ буссинабизе ккани, хӀалбихье Цогояб батизе яги гӀицӀго цадахъ суратазухъ балагьизе."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Мекъаб сураталда квер хъвани щиб ккезе бугеб?",
+        "a": "РакӀалъе гӀолареб жо гьечӀо. Гьениб гьечӀо гудок, багӀараб хъанч яги лъалхъи. ХӀаялъ кьабураб сураталда цӀар лъола ва иргадулаб кьабиялъухъ балагьун чӀола."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ЧӀобогойищ гьеб, хъвай-хъвагӀай гьабизе кколищ?",
+        "a": "Да, это бесплатно, и нет аккаунта, регистрации или скачивания. Гьеб хӀалтӀула телефоналда, планшеталда яги компьютералда бугеб веб-браузералда."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Цадахъ сортируе",
+    "seoTitle": "Сортировкаялъул хӀай деменциялъе: Сортировка цадахъ",
+    "h1": "Цадахъ сортирулеб: суратазул сортирулеб хӀалтӀи",
+    "description": "Сураталда квер хъвазе, хадуб гьеб гъорлъе унеб гъамасалда квер хъвазе: кухняялда яги ахикь, пихъалда яги хӀайваназда.",
+    "short": "Щибаб сурат жиндирго гъамасалда жаниб лъезе: кухня яги ах ва цогидалги.",
+    "players": "1 яги 2 чи",
+    "intro": "Сортировка ккола лъалеб, разилъи кьолеб щибаб къойил гьабулеб хӀалтӀи, нигӀматал рикӀкӀад лъей яги носкиял жубай гӀадаб жо. Сураталда квер хъвазе, цинги гьеб букӀине кколеб бакӀалда бугеб гъамасалда квер хъвазе. ГӀедегӀиги гьечӀо, мекъаб иргаги гьечӀо.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Тема тӀаса бище: кухня ва ах, пихъ ва хӀайванал, яги рокъоб ва сапаразда.",
+      "Сураталда квер хъвазе. Гьелъие щола меседил гӀорхъи.",
+      "Гьеб жаниб бугеб гъамасалда квер хъвазе ккола, сурат доб гъамасалде жаниб хьвадула.",
+      "Цогидаб гъамасалда гъорлъе унеб батани, хӀаялъ гьедин хӀеренго абула ва балагьун чӀола.",
+      "Щибаб сурат батӀа-батӀа гьабураб мехалъ, цадахъ балагье гъамасаздасан."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "ХӀакъикъияб гӀумруялда гӀемерисеб мехалда мекъал жавабал рукӀунаро. Лъицаниги лъим чвахулеб гъамас кухняялда бугин абуни, щай абун гьикъе. ЛъикӀаб хабар щвезе бегьула.",
+      "Суратаздасан лъазаби хӀисабалда хӀалтӀизабе: «Щиб нужеца нужерго ахикь бижараб?»",
+      "ХӀакъикъиял предметал, масала, къачӀал ва вилкаби яги кнопкаби кьеразда рекъон ратӀа гьари ккола экраналдаса рикӀкӀад бугеб кӀудияб хадуб хал кквей."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер бугищ яги балл бугищ?",
+        "a": "Йохъ, сагӀат, очко, хьвадиялъул счетчик яги къей гьечӀо. Бокьараб лахӀзаталда чӀезе бегьула, бащдаб нухалда чӀей ккола лъугӀизабизе камилго лъикӀаб къагӀида."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Щай сортировка гьабулеб?",
+        "a": "ГӀемерисезе бокьула сортировка гьабизе, щай гурелъул гьеб ккола пайдаяб, лъалеб хӀалтӀи гӀадин. Гьединго бигьаго букӀуна унеб мехалъ суратазул бицине."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ЧӀобогойищ гьеб, хъвай-хъвагӀай гьабизе кколищ?",
+        "a": "Да, это бесплатно, и нет аккаунта, регистрации или скачивания. Гьеб хӀалтӀула телефоналда, планшеталда яги компьютералда бугеб веб-браузералда."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Суратазул ребус",
+    "seoTitle": "Легкая пазл для деменции: 4 или 9 штук",
+    "h1": "Суратазул пазл: бигьаяб лобзик",
+    "description": "Деменция бугел гӀадамазе бигьаяб онлайн-лобзик: 4 яги 9 кӀудияб кескал, тӀолабго сурат бихьулеблъун хутӀула, гьел хисизаризе кӀиго кесекалда квер хъвала.",
+    "short": "Сурат тӀубанго лъугьинегӀан гьел хисизаризе кӀиго бутӀаялда квер хъвазе ккола.",
+    "players": "1 яги 2 чи",
+    "intro": "Гьудуллъиялъулаб сурат ункъо-ичӀго кӀудияб кесекалде къотӀун, гьоркьоб жубалеб букӀуна. ТӀолабго сурат бихьулеблъун хутӀула нух бихьизе. Цояб кесекалда, хадуб цогидаб кескалда кьабун, гьез бакӀал хисизарула. Цониги цӀайи къваригӀун гьечӀо.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Сурат тӀаса бищизе ва 4 яги 9 бутӀа. Ункъо – хӀеренаб байбихьун.",
+      "ТӀадехун бугеб тӀубараб сураталъухъ балагье.",
+      "Цо кесекалда квер хъвазе, цинги гьеб ине кколеб бакӀалда квер хъвазе. КӀиябго бутӀа хисун уна.",
+      "БитӀараб бакӀалда ругел кескал лъола гьитӀинабго галка.",
+      "Сурат тӀубараб мехалъ, цадахъ рохел гьабе, хадуб цогидаб тӀаса бище."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "КӀиго кесекалда квер хъвазе гьел хисизаризе гӀемерго бигьаяб жо ккола гӀемерал гӀадамазе цӀаялдаса.",
+      "Сураталъул хӀакъалъулъ бицине, гьеб цоцалъ жубалеб мехалъ: «Гьениб багӀараб тӀохги бугин».",
+      "12-24 кӀудияб бутӀа бугеб унго-унгояб цӀулал лобзикги ккола рокьукъаб столалъул хӀалтӀи."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер бугищ яги балл бугищ?",
+        "a": "Йохъ, сагӀат, очко, хьвадиялъул счетчик яги къей гьечӀо. Бокьараб лахӀзаталда чӀезе бегьула, бащдаб нухалда чӀей ккола лъугӀизабизе камилго лъикӀаб къагӀида."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Дие къваригӀунищ кескал цӀазе?",
+        "a": "Йохъ, цояб кескалда кьабизе, цинги цогидаб кьабизе, гьез бакӀал хисизарула. Гьеб бигьаяб букӀуна лъалхъараб квералъ яги гьитӀинаб экраналда."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ЧӀобогойищ гьеб, хъвай-хъвагӀай гьабизе кколищ?",
+        "a": "Да, это бесплатно, и нет аккаунта, регистрации или скачивания. Гьеб хӀалтӀула телефоналда, планшеталда яги компьютералда бугеб веб-браузералда."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "ЛъугӀизабе аби",
+    "seoTitle": "ЛъугӀизабе аби: КӀудиязе кицаби хӀай",
+    "h1": "ЛъугӀизабе аби",
+    "description": "Ахирисеб рагӀи камун ругел лъалел америкаялъул абиял, масала, «Хвасар гьабураб пенни ккола ___ пенни».",
+    "short": "Цадахъ лъалел абиял тӀуразе, хадуб гьезул бицине.",
+    "players": "1, 2 яги цо къокъа",
+    "intro": "ГӀемерисеб мехалъ басриял абиял лъикӀ лъала гӀумруялъго. Щибаб карточкаялда бихьула лъалеб аби, ахирисеб рагӀи камун, лъабго тӀаса бищи, «Ахир бихьизе» абураб кнопка. Ахиралдаса хадуб хӀеренаб суалалъ ахӀула гара-чӀвариялде.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Цадахъ рагӀун цӀале аби.",
+      "Гьеб лъугӀизабулеб рагӀуда квер хъвазе, яги \"Ахир бихьизе\" кьабизе.",
+      "ТӀубараб аби цӀидасан цӀале ва лъазабиялдаса пайдаги босун, гьелъул бицине.",
+      "ХӀадурлъараб мехалъ кьабизе ккола \"Хадусеб аби\"."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "ХӀалихъего цӀализе ва ахирисеб рагӀуда цебе лъалхъи гьабизе. ГӀемерисеб мехалда гӀадамаз гьеб абула мун лъугӀилалдего.",
+      "Цояс батӀияб ахир кьуни, рохел гьабе. Абиязул цо-цо вариантал батӀи-батӀиял руго хъизамалда яги регионалда рекъон.",
+      "Группаялда цо чияс цӀалула ва киналго гъорлъе лъугьуна ахиралда."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер бугищ яги балл бугищ?",
+        "a": "Йохъ, сагӀат, очко, хьвадиялъул счетчик яги къей гьечӀо. Бокьараб лахӀзаталда чӀезе бегьула, бащдаб нухалда чӀей ккола лъугӀизабизе камилго лъикӀаб къагӀида."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "БатӀияб рагӀи тӀаса бищун батани щиб ккезе бугеб?",
+        "a": "ХӀаялда бихьула гӀадатияб ахир ва уна гара-чӀвариялде. Балл гьечӀо, батӀияб жавабги лъикӀаб букӀуна."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ЧӀобогойищ гьеб, хъвай-хъвагӀай гьабизе кколищ?",
+        "a": "Да, это бесплатно, и нет аккаунта, регистрации или скачивания. Гьеб хӀалтӀула телефоналда, планшеталда яги компьютералда бугеб веб-браузералда."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "КӀудияб хӀарпалъул рагӀаби ралагьизе",
+    "seoTitle": "КӀудияб шрифталъул рагӀаби ралагьизе Деменция, басмаялда бахъизе",
+    "h1": "КӀудияб хӀарпалъул рагӀаби ралагьизе",
+    "description": "ЧӀобогояб кӀудияб хӀарпалъул рагӀабазул цӀех-рех херал гӀадамазе ва бетӀер сверизабулел гӀадамазе.",
+    "short": "ЧӀахӀиял хӀарпал, цо-кӀиго рагӀи, къотӀун ва гъоркьехун гурони. Гьебги басмаялда бахъе.",
+    "players": "1 яги 2 чи",
+    "intro": "ГьитӀинабго сетка, чӀахӀиял хӀарпалги ругеб, гӀицӀго цо къокъа рагӀабиги ругеб, киналго гъоркьехун яги гъоркьехун цӀалулел. РагӀул тӀоцебесеб хӀарпалда, хадуб гьелъул ахирисеб хӀарпалда квер хъвазе. Кагъат бокьулищ? Цо краналдалъун цӀияб ребус басмаялда бахъе.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Тема ва сеталъул кӀодолъи тӀаса бищи.",
+      "РагӀабазул сияхӀалде балагье. КъотӀун (квегӀидасан кваранаб рахъалдехун) яги гъоркьехун (тӀаса гъоркьехун) цӀалулел рагӀаби.",
+      "РагӀул тӀоцебесеб хӀарпалда квер хъвазе, хадуб гьелъул ахирисеб хӀарпалда квер хъвазе.",
+      "Батараб рагӀи бихьизабула ва сияхӀалдаса хъвала.",
+      "Нажмите на \"Печать этой пазлы\", чтобы играть на бумаге карандашом или маркером."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "СияхӀалда бугеб рагӀи бихьизабизе ва цадахъ гьелъул тӀоцебесеб хӀарп балагьизе.",
+      "Кагътида хайлайтер кквезе бигьаяб букӀуна карандаса.",
+      "Темаялъул рагӀабазда тӀасан бицине. Пихъил рагӀаби ккола тӀабигӀияб нух ракӀалдещвеязде, бежиялъул яги базаразул."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер бугищ яги балл бугищ?",
+        "a": "Йохъ, сагӀат, очко, хьвадиялъул счетчик яги къей гьечӀо. Бокьараб лахӀзаталда чӀезе бегьула, бащдаб нухалда чӀей ккола лъугӀизабизе камилго лъикӀаб къагӀида."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "ЦӀех-рех абураб рагӀи басмаялда бахъизе бегьулищ?",
+        "a": "У. Нажмите \"Печать этой пазлы\", чтобы распечатать текущую сетку в большом шрифте, с списком слов под ним. Щибаб цӀияб ребус батӀи-батӀияб букӀуна."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ЧӀобогойищ гьеб, хъвай-хъвагӀай гьабизе кколищ?",
+        "a": "Да, это бесплатно, и нет аккаунта, регистрации или скачивания. Гьеб хӀалтӀула телефоналда, планшеталда яги компьютералда бугеб веб-браузералда."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Раскраски",
+    "seoTitle": "Раскраски для взрослых с деменцией (Бесплатно)",
+    "h1": "Раскраски",
+    "description": "ГӀадатал, чӀахӀиязе кӀудиял бакӀал ругел раскраскаби: цо кьералда квер хъвазе, хадуб сураталда квер хъвазе.",
+    "short": "Цо кьералда, хадуб сураталъул цо бутӀаялда квер хъвазе. Басмаялда рахъизе гьурмалги.",
+    "players": "1 яги 2 чи",
+    "intro": "ЧӀахӀиял, гӀадатал формаби ругел гьурмал: гъадриниб бугеб тӀегь, рукъ, чайник, тӀутӀ ва парусник. Цо кьералда квер хъвазе, цинги сураталъул цо бутӀаялда квер хъвазе, гьеб цӀезабизе. Мекъал кьерал гьечӀо.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Цо гьумер тӀаса бищи.",
+      "Цо кьералда квер хъвазе. Щибаб кьералда жиндирго цӀар хъван букӀуна.",
+      "Сураталъул цо бутӀаялда квер хъвазе ккола, гьеб кьералъ цӀезабизе.",
+      "Бокьараб мехалъ дурго пикру хисизабизе, гьеб цӀидасан цӀезабун.",
+      "Нажмите на \"Печать этой страницы\" для пустой страницы, чтобы раскрасить карандашами или маркерами."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "ТӀаса бищи цӀакъго гӀемерлъун бихьулеб батани, тӀубараб наборалъул гуреб, кӀиго кьер тӀаса бищизе кьезе ккола.",
+      "БагӀарал гъутӀби ва хъахӀилал бакъал рохун руго. Гьеб ккола мухӀканлъиялдаса гуреб, кьералдаса рохел босиялъул хӀакъалъулъ.",
+      "Басмаялда рахъарал гьурмал лъикӀ хӀалтӀула хъахӀал маркераздалъун яги карандалъун, гьел кквезе бигьаго рукӀуна."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер бугищ яги балл бугищ?",
+        "a": "Йохъ, сагӀат, очко, хьвадиялъул счетчик яги къей гьечӀо. Бокьараб лахӀзаталда чӀезе бегьула, бащдаб нухалда чӀей ккола лъугӀизабизе камилго лъикӀаб къагӀида."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "ЦӀакъ лъималазулищ гьел гьурмал?",
+        "a": "Нижеца мультфильмаздаса гӀодоре риччарал, гӀадатал предметал рахъулаан, гьединлъидал гьурмал чӀахӀиязе данде ккола. ЧӀахӀиял формабаз кьер гьабизе бигьаго цӀунула, лъимер гӀадин гьабичӀого."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ЧӀобогойищ гьеб, хъвай-хъвагӀай гьабизе кколищ?",
+        "a": "Да, это бесплатно, и нет аккаунта, регистрации или скачивания. Гьеб хӀалтӀула телефоналда, планшеталда яги компьютералда бугеб веб-браузералда."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Гара-чӀвариялъул карточкаби",
+    "seoTitle": "Деменциялъе гара-чӀвари байбихьизе: Суратазул карточкаби",
+    "h1": "КӀалъаялъул карточкаби",
+    "description": "Деменция бугел гӀадамазе хӀеренго гара-чӀвари байбихьизе рес кьолел суратазул карточкаби: викторинаби гьечӀого, битӀарал жавабал гьечӀого.",
+    "short": "Рагьарал, хӀеренал суалал ругел суратазул карточкаби. Викторина гьечӀо.",
+    "players": "2 чи яги къокъа",
+    "intro": "Щибаб карточкаялда жаниб лъалеб сурат жубалеб букӀуна, кӀалъазе рагьараб ахӀигун, масала, «Кинаб гьава-бакъ дуе бищунго бокьулеб?» БитӀарал жавабалги гьечӀо, ракӀалда чӀезабизе жоги гьечӀо. Тема тӀаса бищизе яги гьел киналго гьоркьор ккезаризе.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "ТӀаса бище тема, яги цӀуне \"Киналго карточкаби\".",
+      "Суал гьаракь борхун цӀализе ва цадахъ сураталъухъ балагьизе.",
+      "ГӀенекке, нужецаго жаваб бикье, хабар хьвадизе биччай.",
+      "ХӀадурлъараб мехалъ кьабизе ккола \"Хадусеб карта\" - ян, яги бокьарабгӀан мехалъ цо картаялда чӀа.",
+      "Кагътил набор къотӀизе ккани, кьабизе ккола \"Печать всех карточек\"."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Суалалъе нужецагоги жаваб кье. Гьеб ккола интервью гуреб, гара-чӀвари гӀадин.",
+      "ХӀужабазда гуреб, хабаралда хадуб хьваде. Деталал хисани, гьеб лъикӀаб жо ккола.",
+      "Цо карточкаялъ пашманаб жоялда квер хъвани, гьеб рекӀел асаралъе мукӀурлъе ва хӀеренго цогидаб карточкаялде русса."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Щай гьечӀел \"РакӀалда бугищ...?\" суалал?",
+        "a": "РакӀалда чӀеялъул хал гьабулел суалал экзамен гӀадин рихьизе бегьула ва нечезе бегьула. \"Бице дида...\" гӀадал рагьарал ахӀиязда гъорлъе лъугьине биччанте бокьарав чи, щиб ракӀалде щвезабуниги."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Карточкаби рахъизе бегьилищ?",
+        "a": "У. \"Печать всех карточек\" печатает полный набор в большом шрифте, несколько карточек на странице, готовы к вырезанию."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ЧӀобогойищ гьеб, хъвай-хъвагӀай гьабизе кколищ?",
+        "a": "Да, это бесплатно, и нет аккаунта, регистрации или скачивания. Гьеб хӀалтӀула телефоналда, планшеталда яги компьютералда бугеб веб-браузералда."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Суратазул парал",
+    "seoTitle": "Хъизаналъул суратаздасан данде кколеб хӀай гьабе",
+    "h1": "Суратазул парал: Нужерго суратал данде ккезаре",
+    "description": "Нужерго хъизаналъул суратал хӀеренаб дандеккунгутӀиялъул хӀаялде сверизаре. Дурго аппараталда 2-6 сурат тӀаса бищизе; гьел дур браузералда хутӀула ва киданиги росуларо.",
+    "short": "Нужецаго тӀаса рищизе ккола суратал ва гьел данде ккезаризе. Щибго жо лъун гьечӀо.",
+    "players": "2 чи, аскӀор",
+    "intro": "Телефоналдаса, планшеталдаса яги компьютералдаса кӀиго-анлъго сурат тӀаса бище, гьел лъугьуна чӀахӀиял, рихьулел суратал ругеб данде кколеб хӀайлъун. Суратазда рихьулел руго гӀицӀго гьаб гьумералда жанир. Гьел росуларо, хвасар гьаруларо яги цоцазе кьоларо, гьумер къараб мехалъ гьел тӀагӀуна.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "\"Выбрать фотографии\" абураб бутӀаялда тӀад кӀутӀун, кӀигоялдаса анлъгоялде щвезегӀан сурат тӀаса бище.",
+      "Щибаб сурат кӀиго нухалъ бахъула. Цоялда квер хъвазе, хадуб гьелъул паралда квер хъвазе.",
+      "Щибаб сураталъул батараб куцалда бицине.",
+      "ЛъугӀараб мехалъ, гьумер къазе ккола яги «Очистить фотографии» абураб бутӀаялда тӀад кӀутӀизе ккола. Щибго жо цӀунун гьечӀо."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "ТалихӀал, лъалел жалазул якъинал суратал тӀаса рищизе: рукъалъул хӀайван, ахикь, бокьулеб бакӀ, бертадул къо.",
+      "БакӀазул ва предметазул суратал гьурмаздаса бигьаго рахъизе бегьула, гьез гӀадамазул цӀарал абизе кинаб букӀаниги тӀадецуй гьабиялдаса цӀунула.",
+      "Хварал гӀадамазул суратал къватӀире те, гьез циндаго къварилъи ккезабизе бегьулел ругони, гьез рахӀат хвезабулеблъи лъалеб гьечӀони."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Дир суратал кибго лъун ругищ?",
+        "a": "Йохъ, гьумералъ цӀалула нужеца тӀаса рищарал суратал битӀахъего нужерго браузералда ва гьел нужерго экраналда рихьизарула. Гьел нижехъе яги цогидазухъе ритӀуларо, гьумер къараб мехалъ яги цӀидасан загрузка гьабураб мехалъ гьел лъугӀула."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер бугищ яги балл бугищ?",
+        "a": "Йохъ, сагӀат, очко, хьвадиялъул счетчик яги къей гьечӀо. Бокьараб лахӀзаталда чӀезе бегьула, бащдаб нухалда чӀей ккола лъугӀизабизе камилго лъикӀаб къагӀида."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Хадусеб нухалъ хӀай хвасар гьабизе бегьилищ?",
+        "a": "Не в браузере, по дизайну, так что ничего частного не хранится. iPhone ва iPad-алъе чӀобогояб «Меседил лахӀзатал» абураб приложениялъ нужерго аппараталда цӀунизе бегьула тӀаса рищарал суратазул копияби."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Суратазул бинго",
+    "seoTitle": "Суратазул бинго для пожилых людей с деменцией: Печать",
+    "h1": "Суратазул бинго къокъабазе",
+    "description": "ЧӀобогояб басмаялда бахъизе бегьулеб сураталъул бинго ракӀалде щвеялъул рахъалъ ва кӀудиял къокъабазе, кӀудияб экраналда ахӀулев чигун.",
+    "short": "Печать гьабизе бегьулел суратазул бингоялъул картаби ва къокъабазе кӀудияб экраналъул ахӀулев чи.",
+    "players": "2-30 чиясдасан гӀуцӀараб къокъа",
+    "intro": "Классикияб бинго, рикӀкӀеназул бакӀалда суратал ругеб, гьединлъидал лъиениги къваригӀунаро гьитӀинаб шрифт цӀализе. Цогидал гурел карточкабазул набор басмаялда бахъе, хадуб экраналда бугеб ахӀулеб алат хӀалтӀизабун щибаб сурат кӀудияб къагӀидаялъ бихьизе ккола телевизоралда, ноутбукалда яги планшеталда.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Цо карточкаялда жаниб 9 яги 16 квадрат тӀаса бищила ва чан хӀалев чи вугевали.",
+      "Нажмите \"Печать карточек\". Щибаб карточка батӀи-батӀияб букӀуна.",
+      "КӀудияб экраналда ахӀулев чи рагьизе. Щибаб сурат жиндирго цӀаргун бихьизе \"Хадусеб сурат\" хъвазе.",
+      "ХӀалез жидерго карточкаялда бугеб данде кколеб сурат гъурщидалъун, кнопкаялдалъун яги маркералдалъун къан букӀуна.",
+      "Цо кьер, яги тӀубараб карточка цӀуравщинав чиясе щола ахӀи. Гьеб версиялда къезарурал гьечӀо: щивасул мухъ букӀинегӀан хӀазе лъугьа."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "ХӀалтӀизаре чӀахӀиял жетонал, масала, шашкаби яги шишаялъул тӀагърал. ГьитӀинал кнопкаби росизе захӀмат букӀине бегьула.",
+      "Сураталда цӀар лъе ва гьелъул хӀакъалъулъ цо жо абе: \"Парусник. Щив къватӀиве вахъарав лодкаялда?\"",
+      "Экраналде бищунго гӀагарда рихьизе захӀматал гӀадамал гӀодор чӀезаре, кумекчагӀи къваригӀарал футболисталгун цадахъ жубазе.",
+      "ГӀемерисел къокъабазе къого квадрат гӀемер букӀуна. Сессия 20-30 минуталда жаниб букӀине ккола."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Как провести картинный бинго в доме ухода?",
+        "a": "Цо хӀалев чиясе цо карточка басмаялда бахъе, ахӀулев чи нужехъ бугеб бищунго кӀудияб экраналда лъе ва щибаб сураталда цӀарги лъун, хӀалихъего ахӀе суратал. ХӀазе ккола щивасул мухъ букӀинегӀан, гьединлъидал лъиданиги къватӀив хутӀуларо."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Басмаялда бахъизе чӀобогойищ?",
+        "a": "У. ХӀажатаб къадаралда карточкаби рахъе, бокьараб къадаралда, жалго бетӀергьанал яги къокъабазул хӀалтӀизаризе."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "ЦӀаличӀого гӀадамал хӀазе бегьулищ?",
+        "a": "У. Щибаб майдан ккола кӀудияб сурат, рагӀаби рокьулезе гъоркь гьелъул цӀарги хъван."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "ГӀодобе биччараб хӀухьел",
+    "seoTitle": "КӀудиял гӀадамазе ва гьезул хъулухъ гьабулезе гӀодобе биччараб хӀухьел цӀаялъул пауза",
+    "h1": "ГӀодобе биччараб хӀухьел цӀаялъул лъалхъи",
+    "description": "ХӀалихъего, гӀодобе биччараб хӀухьел цӀаялъул лъалхъи бикьизе: анлъго хӀухьелалъ хӀеренаб гургинлъи бижула ва гьитӀинлъула.",
+    "short": "Цадахъго хӀухьел цӀазе гьоркьоб къотӀараб гургинлъи. Бокьараб мехалъ байбихье ва чӀезабе.",
+    "players": "1 яги 2 чи",
+    "intro": "Цо-цо мехалъ бищунго лъикӀаб хӀалтӀи ккола гӀодобе биччараб лъалхъи. Нажмите на «Пуск», затем вдохните, как круг растет и выходите, как он сокращается. ТӀаса бище хӀалихьатаб яги хехаб темп. Гьеб дару гуро, гӀицӀго гӀахьаллъизе ракълилаб лахӀзат.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Рахатго гӀодор чӀа цоцада аскӀор.",
+      "ТӀаса бище темп: хӀалихъего яги хӀеренго.",
+      "Нажмите \"Пуск\". Гуржи кӀодолъулеб мехалъ жаниб хӀухьел цӀазе, гьеб гьитӀинлъулеб мехалъ къватӀибе бахъизе.",
+      "Анлъго хӀухьел цӀан хадуб гьеб жибго чӀола, яги бокьараб мехалъ «ЧӀа» абураб бакӀалда кьабизе ккола."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Кверал кквезе яги гьесул квералда квер лъезе, гьеб лъикӀаблъун бихьулеб батани.",
+      "Киданиги тӀадчӀей гьабуге. Гьезие балагьизе бокьани, гьеб лъикӀаб жо ккола.",
+      "Цо чиясул хӀухьел цӀаялъул масъалаби ругони, гӀадатияб къагӀидаялъ хӀухьел цӀазе ккола ва гӀицӀго кружокалъухъ балагьизе ккола. ХӀухьел цӀаялъул кинаб букӀаниги рахӀатхвей тохтурасда гьикъе."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Гьеб медицинаялъул хӀухьел цӀаялъул упражнениейищ?",
+        "a": "Йохъ, гьеб ккола гӀадатияб, ихтияралъулаб пауза гӀодобе биччаялъе ва компаниялъе. Гьеб ургъел-пикруялъе яги кинаб букӀаниги хӀалалъе дару гуро. Сахлъиялъул масъалабазул хӀакъалъулъ тохтурасулгун гара-чӀвари гьабе."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Дица байбихьичӀого гургинлъи бакӀ-бакӀалде хьвадулебищ?",
+        "a": "Йохъ, «Пуск» кнопкаялда квер хъвазегӀан щибго бакӀ бахъуларо, анлъго хӀухьел цӀан хадуб яги «Стоп» кнопкаялда квер хъвазегӀан гьеб чӀола. Дур аппараталда багъа-бачари дагьлъизабизе лъун батани, рагӀаби хисулел руго, гургинлъи кӀодолъичӀого."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ЧӀобогойищ гьеб, хъвай-хъвагӀай гьабизе кколищ?",
+        "a": "Да, это бесплатно, и нет аккаунта, регистрации или скачивания. Гьеб хӀалтӀула телефоналда, планшеталда яги компьютералда бугеб веб-браузералда."
       }
     ]
   }

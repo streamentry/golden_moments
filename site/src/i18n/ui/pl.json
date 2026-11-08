@@ -252,7 +252,7 @@
       "title": "Zajęcia dla osób z demencją",
       "seo": "Zajęcia dla osób z demencją: pomysły na każde stadium",
       "description": "Pomysły na zajęcia dla osób z demencją w każdym stadium: muzyka, wspomnienia, codzienne czynności, chwile dla zmysłów, prace ręczne, spacery i karty do wydruku.",
-      "lede": "Wartościowe zajęcie to wszystko, co daje poczucie komfortu, celu albo chwilę bliskości. Zacznij od tego, co bliska osoba zawsze lubiła, i dopasuj to do dzisiejszych możliwości."
+      "lede": "Wartościowe zajęcie to wszystko, co daje poczucie komfortu, celu albo chwilę bliskości."
     },
     "caregiving": {
       "label": "Opieka",
@@ -266,7 +266,7 @@
       "title": "Zdrowie mózgu: co mówią badania",
       "seo": "Zdrowie mózgu i ryzyko demencji: co mówią badania",
       "description": "Czy można zapobiec demencji? Rzetelne poradniki ze źródłami o czynnikach ryzyka, grach na mózg, poście, diecie, ruchu, śnie, słuchu i pierwszych objawach.",
-      "lede": "Co naprawdę pokazują duże badania na temat zmniejszania ryzyka demencji – prostym językiem, także tam, gdzie dowody są słabe lub niejednoznaczne. Informacje ogólne, a nie porada medyczna."
+      "lede": "Co naprawdę pokazują duże badania na temat zmniejszania ryzyka demencji – prostym językiem, także tam, gdzie dowody są słabe lub niejednoznaczne."
     }
   },
   "guide": {
@@ -410,7 +410,7 @@
       "seoTitle": "Zajęcia dla osób z demencją: domy opieki i grupy",
       "description": "Jak domy opieki, dzienne domy pobytu, biblioteki i grupy wsparcia korzystają z naszych bezpłatnych gier dla osób z demencją, plus gotowy opis do listy zasobów.",
       "crumb": "Dla instytucji",
-      "lede": "Wszystko w tym serwisie można bezpłatnie wykorzystywać w pracy z mieszkańcami, uczestnikami i podopiecznymi – bez konta, licencji i opłat. Ta strona wyjaśnia, co tu jest i jak się tym dzielić.",
+      "lede": "Wszystko w tym serwisie można bezpłatnie wykorzystywać w pracy z mieszkańcami, uczestnikami i podopiecznymi – bez konta, licencji i opłat.",
       "shortText": "{name}: bezpłatne, łagodne gry obrazkowe i poradniki z pomysłami na zajęcia dla osób z demencją i ich opiekunów. Bez rejestracji, odliczania czasu i punktów.",
       "longText": "{name} ({domain}) oferuje bezpłatne gry w przeglądarce (liczba gier: {count}) stworzone dla osób z demencją, m.in. dopasowywanie par z widocznymi obrazkami, łatwą układankę, sortowanie, znane przysłowia i bingo obrazkowe z kartami do wydruku. Nie ma kont, reklam, odliczania czasu ani punktów. Serwis zawiera też napisane prostym językiem poradniki z pomysłami na zajęcia w każdym stadium demencji, powołujące się na National Institute on Aging i Alzheimer's Association.",
       "useTitle": "Z czego mogą korzystać instytucje",
@@ -440,7 +440,7 @@
     "description": "Bezpłatne gry online dla seniorów z demencją lub Alzheimerem: obrazki, układanki, sortowanie, przysłowia, kolorowanki, bingo. Bez rejestracji, czasu i punktów.",
     "crumb": "Gry",
     "h1": "Łagodne gry dla osób z demencją",
-    "lede": "Bezpłatne gry do wspólnej zabawy w przeglądarce (liczba gier: {count}). Duże obrazki, proste słowa i nic, w czym można przegrać: bez odliczania czasu, punktów i rejestracji.",
+    "lede": "Bezpłatne gry do wspólnej zabawy w przeglądarce (liczba gier: {count}).",
     "listName": "Łagodne gry dla osób z demencją",
     "byStageTitle": "Jak wybrać grę według stadium",
     "byStageLede": "Stadia to tylko ogólna wskazówka. Kieruj się tym, co sprawia bliskiej osobie przyjemność i co jest dla niej dziś wygodne.",

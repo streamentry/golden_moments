@@ -266,7 +266,7 @@
       "title": "Agyi egészség: mit mond a kutatás",
       "seo": "Agyi egészség és demenciakockázat: mit mond a kutatás",
       "description": "Megelőzhető a demencia? Őszinte, forrásokkal alátámasztott útmutatók a kockázati tényezőkről, böjtről, étrendről, mozgásról, alvásról és hallásról.",
-      "lede": "Mit mutatnak valójában a nagy vizsgálatok a demenciakockázat csökkentéséről, érthetően elmagyarázva, azt is megmondva, hol gyengék vagy vegyesek a bizonyítékok. Általános tájékoztatás, nem orvosi tanács."
+      "lede": "Mit mutatnak valójában a nagy vizsgálatok a demenciakockázat csökkentéséről, érthetően elmagyarázva, azt is megmondva, hol gyengék vagy vegyesek a bizonyítékok."
     }
   },
   "guide": {
@@ -400,7 +400,7 @@
       "seoTitle": "Nyomtatható tájékoztató: ingyenes demencia-játékok online",
       "description": "Egyoldalas nyomtatható tájékoztató családoknak és gondozóknak ingyenes, nyugodt képes játékokról demenciával élőknek, támogató csoportokhoz.",
       "crumb": "Nyomtatható tájékoztató",
-      "lede": "Nyomtassa ki ezt az oldalt támogató csoportnak, gondozási csomagba vagy a hűtőajtóra. Használja a böngésző Nyomtatás parancsát; a menük és a gombok kimaradnak a nyomatból.",
+      "lede": "Nyomtassa ki ezt az oldalt támogató csoportnak, gondozási csomagba vagy a hűtőajtóra.",
       "introHtml": "<p>Nagy képek, egyszerű szavak, és nincs mit elrontani. Ingyenes telefonon, táblagépen vagy számítógépen, regisztráció, reklám, időzítő és pontszám nélkül. Üljenek egymás mellé, és érintsenek felváltva.</p>",
       "gamesTitle": "Játékok, amelyeket együtt kipróbálhatnak",
       "restHtml": "<h2>Néhány tipp</h2><ul><li>Válasszon olyan napszakot, amikor a másik ember a legjobb formájában van.</li><li>Kezdje a legkönnyebb beállítással. Négy kártya bőven elég.</li><li>Beszélgessenek a képekről. A beszélgetés gyakran a legjobb rész.</li><li>Hagyják abba, amíg még kellemes. A korai befejezés jó kimenetel.</li></ul><h2>Az oldalon még</h2><ul><li>Ingyenes nyomtatnivalók: nagybetűs szókereső, színezők, beszélgetőkártyák és képes bingó.</li><li>Tevékenységötletek minden szakaszra, valamint útmutatók a közös játékról és az önmagunkról való gondoskodásról.</li></ul><p class=\"muted\">Az élvezetre és az együtt töltött időre való. Nem orvosi tanács, teszt vagy kezelés. A Golden Moments kiadója a Cloudjet Solutions Pte. Ltd.</p>"
@@ -410,7 +410,7 @@
       "seoTitle": "Ingyenes demencia-tevékenységek gondozóotthonoknak és csoportoknak",
       "description": "Hogyan használják a gondozóotthonok, könyvtárak és támogató csoportok ingyenes demencia-játékainkat, és szöveg a forráslistára való felvételhez.",
       "crumb": "Szervezeteknek",
-      "lede": "Az oldalon minden ingyenesen használható a lakókkal, tagokkal és ügyfelekkel, fiók, licenc és díj nélkül. Ez az oldal elmagyarázza, mi található itt, és hogyan oszthatja meg.",
+      "lede": "Az oldalon minden ingyenesen használható a lakókkal, tagokkal és ügyfelekkel, fiók, licenc és díj nélkül.",
       "shortText": "{name}: ingyenes, nyugodt képes játékok és tevékenységi útmutatók demenciával élő embereknek és gondozóiknak. Regisztráció, időzítő és pontszám nélkül.",
       "longText": "A(z) {name} ({domain}) {count} ingyenes böngészős játékot kínál demenciával élő embereknek, köztük látható képekkel párosítót, könnyű kirakót, válogatót, ismert mondásokat és képes bingót nyomtatható kártyákkal. Nincs fiók, reklám, időzítő vagy pontszám. Az oldalon a demencia minden szakaszához egyszerű nyelvű tevékenységi útmutatók is vannak, amelyek a National Institute on Agingre és az Alzheimer’s Associationre hivatkoznak.",
       "useTitle": "Mit használhatnak a szervezetek",

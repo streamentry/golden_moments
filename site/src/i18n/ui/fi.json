@@ -267,7 +267,7 @@
       "title": "Aivoterveys: mitä tutkimus kertoo",
       "seo": "Aivoterveys ja dementian riski: mitä tutkimus kertoo",
       "description": "Voiko dementiaa ehkäistä? Rehellisiä, lähteisiin perustuvia oppaita dementian riskitekijöistä, aivopeleistä, ruokavaliosta, liikunnasta, unesta ja kuulosta.",
-      "lede": "Mitä suuret tutkimukset todella osoittavat dementian riskin pienentämisestä, selitettynä selkeästi, myös siitä, missä näyttö on heikkoa tai ristiriitaista. Yleistä tietoa, ei lääketieteellistä neuvontaa."
+      "lede": "Mitä suuret tutkimukset todella osoittavat dementian riskin pienentämisestä, selitettynä selkeästi, myös siitä, missä näyttö on heikkoa tai ristiriitaista."
     }
   },
   "guide": {
@@ -411,7 +411,7 @@
       "seoTitle": "Ilmaisia dementiatoimintoja hoivakodeille ja ryhmille",
       "description": "Miten hoivakodit, päivätoiminta, kirjastot ja tukiryhmät käyttävät ilmaisia dementiapelejämme, sekä teksti, jolla meidät voi lisätä resurssilistaan.",
       "crumb": "Organisaatioille",
-      "lede": "Kaikki tämän sivuston sisältö on ilmaista käyttää asukkaiden, jäsenten ja asiakkaiden kanssa, ilman tiliä, lisenssiä tai maksua. Tällä sivulla kerrotaan, mitä täällä on ja miten sen voi jakaa.",
+      "lede": "Kaikki tämän sivuston sisältö on ilmaista käyttää asukkaiden, jäsenten ja asiakkaiden kanssa, ilman tiliä, lisenssiä tai maksua.",
       "shortText": "{name}: ilmaisia, rauhallisia kuvapelejä ja toimintaoppaita dementiaa sairastaville ja heidän läheisilleen. Ei rekisteröitymistä, ajastimia eikä pisteitä.",
       "longText": "{name} ({domain}) tarjoaa {count} ilmaista selainpeliä dementiaa sairastaville, mukaan lukien kuvaparit näkyvissä olevilla kuvilla, helpon palapelin, lajittelun, tuttuja sanontoja ja kuvabingon tulostettavilla korteilla. Käyttäjätiliä, mainontaa, ajastinta tai pisteitä ei ole. Sivustolla on myös selkokielisiä toimintaoppaita dementian jokaiseen vaiheeseen, ja ne viittaavat National Institute on Agingiin ja Alzheimer’s Associationiin.",
       "useTitle": "Mitä organisaatiot voivat käyttää",
@@ -441,7 +441,7 @@
     "description": "Ilmaisia verkkopelejä dementiaa tai Alzheimerin tautia sairastaville: kuvaparit, palapelit, lajittelu, sanonnat ja bingo. Ei ajastimia eikä pisteitä.",
     "crumb": "Pelit",
     "h1": "Rauhallisia pelejä muistisairaille",
-    "lede": "{count} ilmaista peliä, joita voitte pelata yhdessä selaimessa. Isoja kuvia, selkeitä sanoja ja mikään ei voi epäonnistua: ei ajastimia, ei pisteitä, ei rekisteröitymistä.",
+    "lede": "{count} ilmaista peliä, joita voitte pelata yhdessä selaimessa. Isoja kuvia, selkeitä sanoja ja mikään ei voi epäonnistua: ei ajastimia, ei pisteitä, ei.",
     "listName": "Rauhallisia pelejä muistisairaille",
     "byStageTitle": "Pelin valinta vaiheen mukaan",
     "byStageLede": "Vaiheet ovat vain suuntaa antavia. Seuratkaa sitä, mistä ihminen pitää ja mikä tuntuu tänään hyvältä.",

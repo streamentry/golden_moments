@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "muuci nammaytakkoh",
+    "seoTitle": "Dementiyah ramaddos digir: muuci nammaytakkoh",
+    "h1": "muuci nammaytakkoh: sahlin ramaddos digir",
+    "description": "currik tan, sahlik tan ramaddos digir ummattah manol dementiya. kaxxa muucitte tanbulleem, wakti hinnay ximmo matana, kee atu doortam 4 ilaa 12 balaatitte.",
+    "short": "Inkibisle namma muucitte gonnis. muucitte taybulleem duuddah.",
+    "players": "1 akkek 2 num, tattab tattab",
+    "intro": "muuci xag, tokkeek teetit celta tiyat xag. muucitte sugteh tanbulleem, tonnal tu kassittam mafaxximta. namma muuci itta luk gexa wak oson dahab cuduuud kee cubbus asta geelon.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "door maakina fidittet xoqoysimtam. Affara balaaqitte qimbisoonuh sabhalal le araca.",
+      "Faxe muuci xag. dahab cuduuud geele.",
+      "Inkibislem ceela taswiir xag. nammay takkoh cubbus asta luk itta luk sugaanah.",
+      "namma taswiir baxsa yeellek, tu umam matakka. Atu gulguluh gacta way qagitak xag.",
+      "fak \" qeltut tan muucitte\" dubuk isin nammayak ruffa intek qaadah fooca-adah bicsa."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Taswiir ittat lih muggaaqisak, ken caagidih walal: \"Qasa shaahi. Atu isi shaahih addat can beyta?\"",
+      "Atu hanaawissah tan num, dagoo uddur beyta way, xagar dig abay. ximmo keenih xagtaamak muxxi.",
+      "meqe cuso koh tammullem fan affara fiddima lih idiy. mango balaaqitte dooriti, qigdu caddo guftuh.",
+      "Uxih ruffa hayta way gaba kal. Inki digir dudda le abnisso."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "wakti lowsiise akkek ximmo tanii?",
+        "a": "bale. saaqat matan, ximmo, looweyna angoyya akkek gacti. Atu faxe uddur soolissam duddah, kee garab gita soolissam meqe gitay gaba kalti."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "macaay muucitte foocak dagah kah sugtam?",
+        "a": "muucitte tanbulleem dacrisaanam digir kassitak muxxi wagitaanam kee ramaddos fan korsa. mango mari tah sabhalal le. Atu faxxek qeltut tan muucitte inki xagnit kortam duuddah."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "currik tanii, kee anu aysarraaqem faxximta?",
+        "a": "yeey, toh currik tan, kee akkaawonti mayan, asta akkek oobis. is taamittam qarok qari birowseril silkil, tableet akkek kompiiteril."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Nanu ninni buxah marih muucit xoqoysimnam dudnaa?",
+        "a": "Yeey. muuci nammay gibbat, isi yahaazak muucitte doortam koh xiqsissa. muucitte ku birowseril raaqeleeh matakka."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Inkibislem gorrisa",
+    "seoTitle": "Inkibisle muucitte gonnis: sahlin dementiyah digir",
+    "h1": "Inkibisle muucitte gonnis",
+    "description": "Inki muuci dagal, nammayaak fereey fan gubal. Inkibisle tiyat xag. sabhalal le, currik yan muucih abal ummattah manol dementia, wakti sinnim.",
+    "short": "Dagal yan taswiir wagitaay gubal tan taswiir xag.",
+    "players": "1 akkek 2 numu",
+    "intro": "Inki taswiir alaalaqak amogginal daffeya. Gubal nammay, sidoc akkek fereey takke muucitte tan. Inkibisle tiyat xag. tah inki sahlin dooriti waktit, mango goli luk yaabanam.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "nammay, sidoc akkek fereey takke muucitte doorit kak ugussuh. nammay sahlinih.",
+      "Dagal yan muuci sittalih wagita.",
+      "Gubal yan taswiir xag. cubbusso kee dagoo laqin qangor asta heen.",
+      "baxsa le taswiir xageh yenek, digir uxxuuk muggaaqisam kee qammaala. Isi wakti bey.",
+      "\"Ciggilta muuci\" xag atu gersiimih gulguluh gacta wak."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Kulli muucit yab doortak naharal: bisitteey, goolitteey, ankel tablem duddam.",
+      "namma doorit \"kaxxam masahlini\". Hadaf rufto le udduru, gexkalit hinna.",
+      "xagtam gibdih tenek, num ximmo lem kee atu keenih xagtam duddah."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "wakti lowsiise akkek ximmo tanii?",
+        "a": "bale. saaqat matan, ximmo, looweyna angoyya akkek gacti. Atu faxe uddur soolissam duddah, kee garab gita soolissam meqe gitay gaba kalti."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Hoxat yan muuci xagek maca akkeleeh?",
+        "a": "Rufto sinnim matan. xongolo mali, qasa koros akkek axaxo. digir migaq taswiir too xagnimtem kee ciggiila xagni qammaala."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "currik tanii, kee anu aysarraaqem faxximta?",
+        "a": "yeey, toh currik tan, kee akkaawonti mayan, asta akkek oobis. is taamittam qarok qari birowseril silkil, tableet akkek kompiiteril."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "silal qalayli",
+    "seoTitle": "silal ramaddos digir dementiyah: currik yan waqinal",
+    "h1": "silal qalayli: sahlin muucih digir",
+    "description": "Dagal data silaal, gubal nammayak ilaa fereey takke muucitte. silal bicsa muuci xag. currik, sabhalal le silaal ramaddos digir dementiyah, wakti lowsiise sinnim.",
+    "short": "silal wagitaay tet bicsa taswiir xag.",
+    "players": "1 akkek 2 numu",
+    "intro": "silal ramaddos buxa marih abnisso yatbiqen taamah warkatak, akkel kaxxa muucitte luk kee tuy yatbiqeenim mali. Sahlin silaal dagal yan alaalaqak daffeyam kee nammay, sidoc akkek ferey taswiir gubal qammaala. silal bicsa tiyat xag. baskiliiy, dibaab akkek shaahi kobbaayat ceela weeloola edde yaabanam sahlinih.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "nammay, sidoc akkek fereey takke muucitte doorit kak ugussuh. nammay sahlinih.",
+      "silal ittalih wagita. Ma weelo leeh? is xeeri inna maroyta?",
+      "silal bicsa muuci xag. tet migaq silaalak gubat yanbulle.",
+      "baxsa le taswiir xageh yenek, digir uxxuuk muggaaqisam kee qammaala. Isi wakti bey.",
+      "\"Ciggiila silaal\" xag atu gersiimih gulguluh gacta wak."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "silaalak rorsa feerat gorrisaay weelo wagittaamal yab.",
+      "silal gibdih asaaku, alif sitta ceela gorris, muucitte elle celtannal.",
+      "muuci wagittaamal yab inki adda geytimeh: \"nanu tannah tan dibaab luk sugne.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "wakti lowsiise akkek ximmo tanii?",
+        "a": "bale. saaqat matan, ximmo, looweyna angoyya akkek gacti. Atu faxe uddur soolissam duddah, kee garab gita soolissam meqe gitay gaba kalti."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "silal ramaddos mesenkaca le marah meqeh inna?",
+        "a": "toh rufto le, sahlin abnisso inki inki marah, baxsa luk naharsi caddoodal. weeloola qangor yaaxigoonuh sahlinih. tah ruftoo kee walal, aqayyaare hinna, kee toh dayla hinnay salacissa dementiya. toh bakcarra bahtek, gabbat sitta ceela hinnay uxxuuk muucitte itta luk wagit."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Hoxat yan muuci xagek maca akkeleeh?",
+        "a": "Rufto sinnim matan. xongolo mali, qasa koros akkek axaxo. digir migaq taswiir too xagnimtem kee ciggiila xagni qammaala."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "currik tanii, kee anu aysarraaqem faxximta?",
+        "a": "yeey, toh currik tan, kee akkaawonti mayan, asta akkek oobis. is taamittam qarok qari birowseril silkil, tableet akkek kompiiteril."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "itta luk uxuxxoosa",
+    "seoTitle": "Dimentiyah uxuxxos: itta luk uxuxxos",
+    "h1": "itta luk uxuxxos: muuci uxuxxos abnisso",
+    "description": "taswiir xag, tokkeek edde tan girib xag: maaqoh alaysoh qari akkek caxaaxuwi arac, caxâ baxa akkek saqa. sabhalal le, currik tan uxuxxos abnisso ummattah manol dementiya.",
+    "short": "kulli taswiir isi giribil daffes: maaqoh alaysoh qari akkek caxaaxuwi arac kee mangoomu.",
+    "players": "1 akkek 2 numu",
+    "intro": "uxuxxos buxa mariinoh, rufto le kulli ayroh taama, iroh daffes giroositte hinnay sirrab nammay takkoh. muuci xag, tokkeek elle faxximta aracal xag. Qataatako matan kee hoxat tan maynaqu matan.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "ximmo door: maaqo buxa kee caxaaxuwi arac, caxâ baxa kee saqa, hinnay buxa kee safar.",
+      "muuci xag. dahab cuduuud geele.",
+      "xag girib addat kak yanim. muuci too girib fan yangayye.",
+      "gersi basket addat tenek, digir caatih iyyam kee qammaala.",
+      "kulli taswiir kurruumak, girib sittalih wagita."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "numma manol mango uddur hoxat tan gacsitte matan. inki num lee alaysoh qarih addat tan iyyek, macah kinnim esser. Atu meqe aydaadu geytam duuddah.",
+      "muucit duqaysimak sissikaane: \" macaay atu isi caxaaxuwih addat dadalteeh?\"",
+      "numma le duyye uxuxxos, malkaqa kee malkaqa hinnay gubitte bisitte, kaxxa kattat alaalaqal iroh."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "wakti lowsiise akkek ximmo tanii?",
+        "a": "bale. saaqat matan, ximmo, looweyna angoyya akkek gacti. Atu faxe uddur soolissam duddah, kee garab gita soolissam meqe gitay gaba kalti."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Macaay uxuxxoosam?",
+        "a": "mango mari uxxuk ruffa iyya kah kinnim toh tuxxiq lem celta, buxa marih taama. Atu gexxa wak muucittel yabtam kaadu sahlinih."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "currik tanii, kee anu aysarraaqem faxximta?",
+        "a": "yeey, toh currik tan, kee akkaawonti mayan, asta akkek oobis. is taamittam qarok qari birowseril silkil, tableet akkek kompiiteril."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "muuci hayyeyyeeno",
+    "seoTitle": "sahlin Jigsaw hayyeyyeeno Dementiyah: 4 akkek 9 exxaaxi",
+    "h1": "muuci hayyeyyeeno: sahlin Jigsaw",
+    "description": "Dementia luk yan marah sahlin online jigsaw: 4 hinnay 9 kaxxa qaynat, inkih tan taswiir elle yanbulle innal, namma qaynat tablem faxximta.",
+    "short": "namma exxa xag ken milaaguh muuci inkitanuuk yakkem fan.",
+    "players": "1 akkek 2 numu",
+    "intro": "Kataysiini muuci fereeyi akkek sagaalal kaxxa exxaaxil yiggiriqqeh yengeggele. Inkih yan muuci miracsenta innal yanbulle. inki exxa xag, tokkeek gersi, kee oson arooca milaagen. Giitiyyi mafaxxiima.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "muuci dooraay 4 akkek 9 exxaaxi. Fereeyi sahlin qimbo.",
+      "Dagal yan muuci inkih wagit.",
+      "Inki exxa xag, tokkeek gexxam faxximta arac xag. namma exxa milaagimteh.",
+      "Gitah yan aracal tan exxaaxi qunxa cubbussoh asta geyte.",
+      "muuci inkitanuuk yakke wak, ittalih ruffa inxic, tokkeek gersittu doorita."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "namma exxa xagaanam ken milaagoonuh mango marah giitoonuuk sahlinih.",
+      "muuci ittat yamaate wak yab: \"qasa tarmaan yan.\"",
+      "nummaak caxxi jigsaw 12 ilaa 24 kaxxa exxaaxi kacni tarbeezah abnisso kaxxam."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "wakti lowsiise akkek ximmo tanii?",
+        "a": "bale. saaqat matan, ximmo, looweyna angoyya akkek gacti. Atu faxe uddur soolissam duddah, kee garab gita soolissam meqe gitay gaba kalti."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Anu exxaaxi giitaanam faxxintaa?",
+        "a": "bale. inki exxa xag, tokkeek gersi xag, kee oson arooca milaagan. tah sahlinih gaba axaxo akkek qunxa alaalaqal."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "currik tanii, kee anu aysarraaqem faxximta?",
+        "a": "yeey, toh currik tan, kee akkaawonti mayan, asta akkek oobis. is taamittam qarok qari birowseril silkil, tableet akkek kompiiteril."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Yab gaba kalay",
+    "seoTitle": "gaba kal maxca: ceelalloh digir furraynuh",
+    "h1": "Yab Seba",
+    "description": "Ameerikah af ellecaboh qangara raqteh tan, \"A penny saved is penny ___\". Dooro xag hinnay ellecabo uybulluy, tokkeek edde yab.",
+    "short": "Buxâ marih maxcooca ittalih kib, tokkeek keenit yab.",
+    "players": "1, 2 akkek inki butta",
+    "intro": "raagte maxcooca mano bagul nagay tamixxige. Kulli kardi ellecabo qangara raqteeh, sidiica doorit kee \"Ellecabo uybulluy\" axcuk tamixxigeh tan qangara taybulle. illacabok lakal, sahlin essero walal arcibissa.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "maxco xongolo fayya hayteh ittalih kawisa.",
+      "gaba kalta qangara xag, akkek \" ellecabo uybulluy\" xag.",
+      "Inkih yan maxco qagitak ikriyaay sissikaanet xoqoysimak edde yab.",
+      "Atu gulguluh gacta way \"Ciggilta iyyaanam\" xag."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "caatih ikriyaay ellecabo qangarak naharal soolo cab. Mango way sinam atu gaba kaltaamak afal inta.",
+      "inki num baxsale ellecabo yeceek, ruffa edde inxic. Inki inki maxcooca buxâ mara akkek rakaakayal baxsa le.",
+      "buttah addal, inki num kawsaah kulli num ellecabol yangale."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "wakti lowsiise akkek ximmo tanii?",
+        "a": "bale. saaqat matan, ximmo, looweyna angoyya akkek gacti. Atu faxe uddur soolissam duddah, kee garab gita soolissam meqe gitay gaba kalti."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Nanu baxsale qangara doornek macaay?",
+        "a": "digir dumaak ellecabo yaybulleem kee walal fan gexa. Xali mayan, kee baxsale gacsi meqeh."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "currik tanii, kee anu aysarraaqem faxximta?",
+        "a": "yeey, toh currik tan, kee akkaawonti mayan, asta akkek oobis. is taamittam qarok qari birowseril silkil, tableet akkek kompiiteril."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "kaxxa-matbaqah qangor goranah",
+    "seoTitle": "kaxxa matbaqah qangara goranto dementiya, matbaqah",
+    "h1": "Kaxxa-Matbaqatih Qangor Goranto",
+    "description": "currik tan kaxxa matbaqatih qangara goranah idoola kee ummattah dementia luk tan. Dago qangor, kaxxa wara, qangor tabaanam kee addah dubuk. Suuquntal digir akkek matbaqa.",
+    "short": "kaxxa wara, dago qangor, tabaatabsa kee addah dubuk. Itbiq tet kaadu.",
+    "players": "1 akkek 2 numu",
+    "intro": "qunxa firqanfiir kaxxa waroori kee dubuk gabah agle qangor, inkih takriyeemi hinnay gubal. qangarak naharsi wara xag, tokkeek ellecabo wara. Warkat doorita? qusba hayyeyyeeno inki xagar addat itbiqa.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "ximmo kee firqanfiir caddo door.",
+      "Qangor rorta wagit. Qangor tabaatabta kawsa (guraak migda fan) akkek gubal (dagaak guba fan).",
+      "qangarak naharsi wara xag, tokkeek ellecabo wara xag.",
+      "geytimte qangara ammunta kee rortak taturte.",
+      "xag \" ta hayyeyyeeno itbiqa\" warkatal kalam rusas akkek bedu luk digirtuh."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Rortal tan qangara escessa hayteh naharsi wara ittalih wagita.",
+      "Warkatal, ammunta kalam rusas yabbixeenim sahlinih.",
+      "Qangor ammuntal yab. caxâ baxi qangor ginoh gitay mesenkacat ugsaanam, alaysaanam akkek qadaagoogi."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "wakti lowsiise akkek ximmo tanii?",
+        "a": "bale. saaqat matan, ximmo, looweyna angoyya akkek gacti. Atu faxe uddur soolissam duddah, kee garab gita soolissam meqe gitay gaba kalti."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Anu goranah qangara atbiqem duudaa?",
+        "a": "Yeey. \"Ta hayyeyyeeno itbiqa\" xag away tan firqanfiir kaxxa qaynatal itbiquh, qangor rorta gubal luk. Kulli qusba hayyeyyeeno baxsale."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "currik tanii, kee anu aysarraaqem faxximta?",
+        "a": "yeey, toh currik tan, kee akkaawonti mayan, asta akkek oobis. is taamittam qarok qari birowseril silkil, tableet akkek kompiiteril."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Galitte kalam haanam",
+    "seoTitle": "Dementiya leh tan idoola galitteh bisitte ( currik)",
+    "h1": "Galitte kalam haanam",
+    "description": "sahlin, naba marih bisih galitte kaxxa arooca luk: bisi xag, tokkeek taswiir xag. Badiino mali, hoxat yan bisu mali, kee kulli gali foyyah yatbiqimem duudah.",
+    "short": "Bisu xag, tokkeek muucik exxak teyna. Galitte matbaqa.",
+    "players": "1 akkek 2 numu",
+    "intro": "Galitte kaxxa, sahlin weeloola: qobor addat le, qari, shaahi kobbaayat, laahinti kee huuri. Bisu xag, tokkeek muucik exxat xag kibtuh. Hoxat tan bisitte matan.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Gali doorita.",
+      "Inki bisi xag. Kulli bisi isi migaq amol yunkuttube.",
+      "muucik exxat xag woo bisit kibtuh.",
+      "isi misinkaca milaag faxe uddur qagitak kibtaama.",
+      "xag \" ta gali itbiqa\" foyyah yan galih kalam rusas akkek astootit bisu hayuh."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "namma bisitte xayyos dooroonuh inkih tan koboxuk muxxi dooro mangom cussutta koo tekkek.",
+      "Burraacin coox kee kuclin ayroyta unkaq muquk temeetem. tah kalam tassa iyyaama, gitiino hinna.",
+      "matbaqatak galitte meqennah taamitta gabulle astooti akkek kirayoonitte, too sahlinuk yabbixeenimi."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "wakti lowsiise akkek ximmo tanii?",
+        "a": "bale. saaqat matan, ximmo, looweyna angoyya akkek gacti. Atu faxe uddur soolissam duddah, kee garab gita soolissam meqe gitay gaba kalti."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Tama galitte kaxxam urriino innaa?",
+        "a": "nanu muucusneh sabhalal le, sahlin duyye kartoon hinnay, tonnal galitte kasle marah takke. kaxxa weeloola alqi bicse kalah kalam sahlinih."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "currik tanii, kee anu aysarraaqem faxximta?",
+        "a": "yeey, toh currik tan, kee akkaawonti mayan, asta akkek oobis. is taamittam qarok qari birowseril silkil, tableet akkek kompiiteril."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "walal karxitte",
+    "seoTitle": "walal qimbise Dementia: muuci gatbaroori",
+    "h1": "walal karxitte",
+    "description": "taswiir gatbaroori lih sahlik yan walal qimmiseh yan marah dementia luk yan marah: essero mali, gitah yan gacsitte mali. Alaalaqal doqaysim akkek inkih tan kobox itbiqa.",
+    "short": "muuci gatbaroori fakut tan, sahlin esseroora luk. essero mali.",
+    "players": "2 num hinnay inki butta",
+    "intro": "Kulli kardi nammay takkoh buxa marih taswiir luk fakkiimeh yan arciba, axcih \"Macaay atu faxxah tan hawa?\" Massat tan gacsitte matan kee kassitam faxximtaamak tu matan. ximmo door akkek inkih ken esgegey.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "ximmo door, akkek dacris \" inkih tan gatbaroori\".",
+      "Essero xongolo fayya hayteh ikriyaay muuci ittalih wagita.",
+      "Ankacis, isi gacsa tabis, kee yab wes.",
+      "\"Ciggilta gatbara\" xag atu gulguluh gacta wak, hinnay inki gatbarat sug atu faxxa haytam fan.",
+      "Warkat arac targiqoonuh \"inkih yan gatbaroori itbiq\" xag."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Essero isih gacis. walal celta, mablâ garay hinna.",
+      "aydaadu kataya, numma hinna. Addatino milaagimtek, woh meqeh.",
+      "gatbara tukteena rooka xagtek, cuso oggoltam kee caatih gersi gatbara fan gex."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "macaay wokkel ane waytam \" atu kassitta...?\" esseroora?",
+        "a": "Kassit gibbatta esseroora aqayyaareh innal cussuttaah, wacarriy bahta. Fakut tan arciba axcih \" yoh warisey wagittam...\" faxe num edde yangale, faxem takkay oson kassitan."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Anu karxitte itbiqem duudaa?",
+        "a": "Yeey. \"Print all cards\" inkih tan qaynat kaxxa qaynatal, mango karditte inki galil, garuq akah yakkennah abaanam."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "currik tanii, kee anu aysarraaqem faxximta?",
+        "a": "yeey, toh currik tan, kee akkaawonti mayan, asta akkek oobis. is taamittam qarok qari birowseril silkil, tableet akkek kompiiteril."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "muuci nammaytakkoh",
+    "seoTitle": "Buxâ marih muucittek ramaddos digir bicis",
+    "h1": "muuci nammaytakkoh: isi muucittel ramaddos",
+    "description": "isi buxah marih muucitte sahlin ramaddos digir fan kor. door 2 ilaa 6 muucitte isi yahaazal; oson ku birowseril yaadeenim kee qigdu matakka.",
+    "short": "isi muucitte doortam kee ken ramaddos. Tu matakarna.",
+    "players": "2 Num Tattab Tattab",
+    "intro": "Namma ilaa laca taswiir doorit isi telfoon, tablet hinnay kompiiter, kee oson kaxxa, yanbulle taswiir luk ittat axawah tan digir yakke. muucitte dubuk ta galih addat tammulleeh tan. oson matakrinnon, daanisen hinnay tabisen, kee oson bayeenih atu gali alifta wak.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "\"Tasaawir doorit\" xagtam kee nammayaak leceey takke taswiiritte ugus.",
+      "Kulli muuci nammadda yanbulle. tiya xag, tokkeek nammay xag.",
+      "Kulli muucit elle gorrisan innal yab.",
+      "atu gaba kalta wak, gali alif hinnay \"foto qaddos\" xag. Tu madacriminna."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "doorit qado muucitte rufto, buxa marih duyye: buxah saqa, caxaaxuwi arac, kicnon arac, digib ayro.",
+      "Arooca kee duyyeeyah muucitte foocak sahlinih, kee oson sinam migaq haanam faxe qaynatih gutqo soolisan.",
+      "Rabe marih foto cab oson garciik rooka bahtam duuddah tenek, atu raacat bahtam taaxige waytek."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Yi muucitte faxekkel takkuqee?",
+        "a": "bale. gali atu doorteh tan muucitte saanih ku birowseril takriyeeh, ku alaalaqal ken taybulle. oson neh maruuban hinnay gersi numuh, kee oson gexeenih atu alifta wak hinnay gali qagitak xukkuta wak."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "wakti lowsiise akkek ximmo tanii?",
+        "a": "bale. saaqat matan, ximmo, looweyna angoyya akkek gacti. Atu faxe uddur soolissam duddah, kee garab gita soolissam meqe gitay gaba kalti."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Anu digir ciggiila waktih daagisam duudaa?",
+        "a": "Biraawseril hinna, margaqak, tonnal cankah tu kobxisimteh matan. currik tan dahab uddur app ayfoon kee aypadil meexen taswiir korraq isi yahaazal dacrisam duudah."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "muuci bingo",
+    "seoTitle": "muuci Bingo idoola lih Dementia: matbaqah",
+    "h1": "muuci bingo buttah",
+    "description": "currik tan muucitte bingo mesenkaca hanaawi kee fayyale buttaati, kaxxa alaalaqah seeco luk. kaxxa muucitte qangor luk, 9 akkek 16 affara amo, kawsi mafaxxiima.",
+    "short": "matbaqah taswiir bingoh gatbaroori kee buttaati kaxxa alaalaqah seeco.",
+    "players": "ilaa 30 fan tan butta",
+    "intro": "kilaasiik bingo muucitte luk casri aftok, tonnal num mafaxa qunxa matbaqat kawsam. Baxsale karditte bicsaanam, tohuk lakal kulli taswiir TV, laptoppii kee tablet addal kaxxa doori digirtaamih taagah, on-screen caller akah aban innah abaanam faxximta.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "akkek 16 affara amoh gatbara doortam kee magideh digir abeynit taniih.",
+      "\"Karditte matbaqa\" xag. Kulli gatbara baxsale.",
+      "yab abe kaxxa alaalaqal fak. \"Ciggilta taswiir\" xag kulli taswiir isi migaq luk taybulleemih.",
+      "Digir abeynit ramad le taswiir sinni gatbaral qastiyaay, gubi akkek bedut reebisan.",
+      "faxe numuy rorta kibe, hinnay inkih tan gatbara, aydukumusa. ta bicsih addat gacti mayana: kulli num firta geyam fan digirit bisoh ixxic."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "kaxxa astootit doqaysima axcih cubbuseenit akkek karaarat koofiyat. Qunxa adranto ugusaanam gibdih.",
+      "Taswiir muggaaqisaay, woo caagid wagsiisak tukteena inxic: \"Sailboat. Iyyaay doonik addat sugtem?\"",
+      "Daffey ummatta gibdih yableenim xayuk alaalaqal, kee nammay takkoh cato digir aba luk ken faxa.",
+      "Sagla affaraamo mango buttah mangoh. wakti 20 ilaa 30 minit fan dacrisa."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Anu muuci bingo hanaawih buxal mannal ardem duudaah?",
+        "a": "Inki kardi inki digirih print abak, silki hayta num kaxxa screenil hayya hayteh, taswiir caatih hayya hayteh, kulli numih migaq hay. kulli num firta lem fanah digir, tonnal num maraaqinna."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "matbaqah currik tanii?",
+        "a": "Yeey. atu elle faxxannal mango gatbaroori itbiq, mango uddur elle faxxannal, cankah akkek buttah xoqoyso."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Sinam kawse kalah digirtam duuddaa?",
+        "a": "Yeey. Kulli affaraamo kaxxa muuci, qangor kicna marah gubal tet migaq le."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Sabhalal le ufuyrubiyya",
+    "seoTitle": "Sabhalal le ufuyrubtih soolo idoola kee hanaawiseenit",
+    "h1": "Sabhalal le ufuyrubtih soolo",
+    "description": "caatih, tibba le ufuyrubtih soolo tabaatabsaanam: sahlin maroyta dadaltaah lica ufuyrubtih shrink. Atu qimbissaah, faxe uddur soolissam duddah.",
+    "short": "ufuy rubtuh caatih tan maroyta. Atu faxxa wak qimbisaay soolis.",
+    "players": "1 akkek 2 numu",
+    "intro": "Inki inki way tayse abnisso tibba le soolo. \"Qimmis\" xag, tokkeek maroyta elle dadaltaamal ufuy rubtaah, iroh ufuy ruuba. Taciilah akkek sissik tulsika doorita. tah dayla hinna, dubuk salaam le uddur tabaatabsaanam.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "raacat luk daffeya tattab tattab.",
+      "Silka door: caatih akkek caatih.",
+      "\"Qimmis\" xag. maroyta dadaltah tan uddur ufuy rub, kee irol ufuy rubta wak.",
+      "laca ufuyrubtik lakal isih soolissa, hinnay faxxa wak \"solis\" xag."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "gaba ibbix hinnay gaba numtin mogoyul daffes toh unkaq muquk temeetek.",
+      "Qigdu ma digga. oson yableenim dooriteenik, woh meqeh.",
+      "inki num ufuy rubti taqabi le kaa tekkek, qaadik ufuy ruubaay uxxuuk maroyta wagita. Esser daylaabe wagittam faxe ufuyrubtih bohoy."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "tah qaafiyat ufuyrubtih gabbatu innaa?",
+        "a": "bale. tah sahlinih, doorit soolo sabhalal kee kampaani. tah dayla hinna bohoy akkek faxe caalatal. Qaafiyat bohoyut daylaabe lih yab."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "maroyta anu qimbise kal tangayyee?",
+        "a": "bale. tu tangayyem atu qimbis xagtam fan, kee toh soolele laca ufuyrubtik lakal hinnay atu soolis xagta wak. ku yahaaz angoyya salcisuh gulgulume kaa tekkek, qangor maroyta dadale kal milaagimtah."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "currik tanii, kee anu aysarraaqem faxximta?",
+        "a": "yeey, toh currik tan, kee akkaawonti mayan, asta akkek oobis. is taamittam qarok qari birowseril silkil, tableet akkek kompiiteril."
       }
     ]
   }

@@ -253,7 +253,7 @@
       "title": "Aktiviti untuk Orang yang Hidup dengan Demensia",
       "seo": "Aktiviti untuk Demensia: Idea Mengikut Peringkat",
       "description": "Idea aktiviti untuk orang yang hidup dengan demensia pada setiap peringkat: muzik, mengenang kembali, tugasan harian, deria, kraf dan bahan boleh cetak percuma.",
-      "lede": "Aktiviti yang bermakna ialah apa-apa yang membawa keselesaan, tujuan atau detik hubungan. Mulakan dengan apa yang sentiasa disukai orang itu, dan sesuaikan dengan keadaan hari ini."
+      "lede": "Aktiviti yang bermakna ialah apa-apa yang membawa keselesaan, tujuan atau detik hubungan."
     },
     "caregiving": {
       "label": "Penjagaan",
@@ -267,7 +267,7 @@
       "title": "Kesihatan Otak: Apa Kata Kajian",
       "seo": "Kesihatan Otak dan Risiko Demensia: Apa Kata Kajian",
       "description": "Bolehkah demensia dicegah? Panduan jujur dan bersumber tentang faktor risiko, permainan otak, puasa, pemakanan, senaman, tidur, pendengaran dan tanda awal.",
-      "lede": "Apa yang sebenarnya ditunjukkan oleh kajian besar tentang mengurangkan risiko demensia, diterangkan dengan mudah, termasuk di mana buktinya lemah atau bercampur. Maklumat am, bukan nasihat perubatan."
+      "lede": "Apa yang sebenarnya ditunjukkan oleh kajian besar tentang mengurangkan risiko demensia, diterangkan dengan mudah, termasuk di mana buktinya lemah atau bercampur."
     }
   },
   "guide": {
@@ -296,7 +296,7 @@
       "seoTitle": "Tentang Golden Moments: Pendekatan Kami",
       "description": "Mengapa permainan Golden Moments tiada pemasa, markah atau rentetan, mengapa gambar sentiasa kelihatan, dan apa yang kami dakwa dan tidak dakwa tentang demensia.",
       "crumb": "Pendekatan kami",
-      "lede": "Golden Moments membuat aktiviti gambar yang tenang dan sesuai untuk orang dewasa, yang boleh dinikmati oleh penjaga dan orang yang hidup dengan demensia secara bersebelahan.",
+      "lede": "Golden Moments membuat aktiviti gambar yang tenang dan sesuai untuk orang dewasa, yang boleh dinikmati oleh penjaga dan orang yang hidup dengan demensia secara.",
       "bodyHtml": "<h2>Apa yang kami percayai</h2><p>Tujuan sesuatu aktiviti ialah detik itu sendiri: perbualan, senyuman, kepuasan menyatukan dua gambar, atau sekadar duduk rapat. Ia bukan untuk mengukur sesiapa, menolak mereka lebih jauh atau membuktikan sesuatu.</p><p>Banyak aplikasi latihan otak direka berdasarkan kelajuan, markah, rentetan dan tahap. Bagi orang yang hidup dengan demensia, itu boleh terasa seperti peperiksaan yang tidak dapat dilepasi. Kami mereka bentuk sebaliknya, dan kami mematuhi peraturan ini:</p><ul><li><strong>Tiada apa-apa untuk gagal.</strong> Tiada jam, markah, pengira langkah, nyawa, rentetan, konfeti atau kira detik, pada mana-mana skrin.</li><li><strong>Mengenali, bukan mengingat.</strong> Gambar sentiasa kelihatan secara lalai. Cadangan menjemput perbualan dan tidak pernah menyoal nama atau kenangan.</li><li><strong>Besar, mudah dan tetap.</strong> Teks dan gambar besar, kontras tinggi, dan kawalan yang kekal di tempat yang sama.</li><li><strong>Maruah orang dewasa.</strong> Gambar dunia sebenar dan kata-kata yang mudah dan mesra. Tiada kartun, pujian mendayu-dayu atau ganjaran emoji.</li><li><strong>Jalan keluar yang mudah.</strong> “Cukup buat masa ini” sentiasa kelihatan. Berhenti di tengah jalan ialah hasil yang baik.</li><li><strong>Peribadi secara lalai.</strong> Tiada akaun atau iklan. Foto yang anda pilih kekal pada peranti anda.</li></ul><h2>Apa yang kami tidak dakwa</h2><p>Permainan kami adalah untuk keseronokan dan hubungan. Ia tidak mendiagnosis, menguji, mengukur, merawat, melambatkan atau mencegah demensia atau penyakit Alzheimer, dan tiada sesiapa patut memilihnya atas sebab itu. Apabila kami menulis tentang kajian di <a href=\"/brain-health/\">halaman kesihatan otak</a> kami, kami menyatakan dengan jelas di mana buktinya lemah, dan kami tidak pernah mengaitkannya dengan permainan kami sendiri.</p><h2>Siapa kami</h2><p>Golden Moments ialah pasukan kecil yang bebas. Kami bukan doktor atau pakar klinikal. Panduan kami ditulis berdasarkan garis panduan yang diterbitkan oleh organisasi seperti National Institute on Aging dan Alzheimer’s Association, dan setiap panduan menyenaraikan sumbernya. Baca <a href=\"/editorial-policy/\">cara kami menulis dan menyemak halaman kami</a>.</p><h2>Beritahu kami apa yang akan membantu</h2><p>Kami ingin mendengar apa yang berkesan untuk anda dan apa yang tidak, terutamanya daripada orang yang hidup dengan demensia, penjaga keluarga dan kakitangan aktiviti. Hantar e-mel ke <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
@@ -411,7 +411,7 @@
       "seoTitle": "Aktiviti Demensia Percuma untuk Rumah Jagaan dan Kumpulan",
       "description": "Cara rumah jagaan, perpustakaan, agensi warga emas dan kumpulan sokongan menggunakan permainan demensia percuma kami, serta teks untuk senarai sumber anda.",
       "crumb": "Untuk organisasi",
-      "lede": "Segala-galanya di laman ini percuma untuk digunakan bersama penghuni, ahli dan klien, tanpa akaun, lesen atau bayaran. Halaman ini menerangkan apa yang ada di sini dan cara berkongsinya.",
+      "lede": "Segala-galanya di laman ini percuma untuk digunakan bersama penghuni, ahli dan klien, tanpa akaun, lesen atau bayaran.",
       "shortText": "{name}: permainan gambar yang lembut dan percuma serta panduan aktiviti untuk orang yang hidup dengan demensia dan penjaga mereka. Tanpa pendaftaran, tiada pemasa, tiada markah.",
       "longText": "{name} ({domain}) menawarkan {count} permainan pelayar percuma yang dibuat untuk orang yang hidup dengan demensia, termasuk memadankan pasangan dengan gambar yang dibiarkan kelihatan, jigsaw mudah, mengasingkan, peribahasa yang biasa dan bingo gambar dengan kad boleh cetak. Tiada akaun, iklan, pemasa atau markah. Laman ini juga mempunyai panduan aktiviti dalam bahasa mudah untuk setiap peringkat demensia yang merujuk National Institute on Aging dan Alzheimer's Association.",
       "useTitle": "Apa yang boleh digunakan oleh organisasi",
@@ -441,7 +441,7 @@
     "description": "Permainan dalam talian percuma untuk warga emas dengan demensia atau Alzheimer: padanan gambar, jigsaw mudah, mengasingkan, peribahasa, mewarna, bingo.",
     "crumb": "Permainan",
     "h1": "Permainan Lembut untuk Orang yang Hidup dengan Demensia",
-    "lede": "{count} permainan percuma untuk dimainkan bersama dalam pelayar anda. Gambar besar, kata-kata yang mudah, dan tiada apa-apa untuk gagal: tiada pemasa, tiada markah, tanpa pendaftaran.",
+    "lede": "{count} permainan percuma untuk dimainkan bersama dalam pelayar anda. Gambar besar, kata-kata yang mudah, dan tiada apa-apa untuk gagal: tiada pemasa, tiada markah.",
     "listName": "Permainan lembut untuk orang yang hidup dengan demensia",
     "byStageTitle": "Memilih permainan mengikut peringkat",
     "byStageLede": "Peringkat hanyalah panduan kasar. Ikut apa yang disukai orang itu dan apa yang terasa selesa hari ini.",

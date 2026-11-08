@@ -252,7 +252,7 @@
       "title": "Beschäftigung für Menschen mit Demenz",
       "seo": "Beschäftigung bei Demenz: Ideen für jedes Stadium",
       "description": "Ideen zur Beschäftigung für Menschen mit Demenz in jedem Stadium: Musik, Erinnerungen, Alltagstätigkeiten, Sinnesmomente, Basteln, draußen sein und Vorlagen.",
-      "lede": "Sinnvolle Beschäftigung ist alles, was Wohlbefinden, ein Gefühl von Nützlichkeit oder einen Moment der Verbundenheit schenkt. Beginnen Sie mit dem, was die Person schon immer gern getan hat, und passen Sie es an den heutigen Tag an."
+      "lede": "Sinnvolle Beschäftigung ist alles, was Wohlbefinden, ein Gefühl von Nützlichkeit oder einen Moment der Verbundenheit schenkt."
     },
     "caregiving": {
       "label": "Für Angehörige",
@@ -266,7 +266,7 @@
       "title": "Gehirngesundheit: Was die Forschung sagt",
       "seo": "Demenz vorbeugen? Was die Forschung wirklich sagt",
       "description": "Kann man Demenz vorbeugen? Ehrliche Ratgeber mit Quellen zu Risikofaktoren, Gehirnjogging, Fasten, Ernährung, Bewegung, Schlaf, Hören und frühen Warnzeichen.",
-      "lede": "Was große Studien tatsächlich über ein geringeres Demenzrisiko zeigen – verständlich erklärt, auch dort, wo die Belege schwach oder widersprüchlich sind. Allgemeine Informationen, kein medizinischer Rat."
+      "lede": "Was große Studien tatsächlich über ein geringeres Demenzrisiko zeigen – verständlich erklärt, auch dort, wo die Belege schwach oder widersprüchlich sind."
     }
   },
   "guide": {
@@ -400,7 +400,7 @@
       "seoTitle": "Infoblatt zum Ausdrucken: Kostenlose Demenz-Spiele",
       "description": "Ein Infoblatt zum Ausdrucken für Familien und Angehörige über kostenlose, sanfte Bilderspiele für Menschen mit Demenz – für Selbsthilfegruppen und Infomappen.",
       "crumb": "Infoblatt zum Ausdrucken",
-      "lede": "Drucken Sie diese Seite für eine Selbsthilfegruppe, eine Infomappe oder die Kühlschranktür aus. Nutzen Sie dazu die Druckfunktion Ihres Browsers; Menüs und Schaltflächen werden nicht mitgedruckt.",
+      "lede": "Drucken Sie diese Seite für eine Selbsthilfegruppe, eine Infomappe oder die Kühlschranktür aus.",
       "introHtml": "<p>Große Bilder, einfache Worte und nichts, was schiefgehen kann. Kostenlos auf Handy, Tablet oder Computer – ohne Anmeldung, ohne Werbung, ohne Zeitlimit und ohne Punkte. Setzen Sie sich nebeneinander und wechseln Sie sich ab.</p>",
       "gamesTitle": "Spiele zum gemeinsamen Ausprobieren",
       "restHtml": "<h2>Ein paar Tipps</h2><ul><li>Wählen Sie eine Tageszeit, zu der die Person sich am wohlsten fühlt.</li><li>Beginnen Sie mit der leichtesten Einstellung. Vier Karten sind völlig genug.</li><li>Sprechen Sie über die Bilder. Das Gespräch ist oft das Schönste daran.</li><li>Hören Sie auf, solange es noch angenehm ist. Früh aufzuhören ist ein gutes Ende.</li></ul><h2>Außerdem auf der Website</h2><ul><li>Kostenlose Vorlagen zum Ausdrucken: Wortsuchrätsel in großer Schrift, Ausmalbilder, Gesprächskarten und Bilder-Bingo.</li><li>Ideen zur Beschäftigung für jedes Stadium sowie Ratgeber zum gemeinsamen Spielen und dazu, wie Sie gut für sich selbst sorgen.</li></ul><p class=\"muted\">Für Freude und gemeinsame Zeit. Kein medizinischer Rat, kein Test und keine Behandlung. Golden Moments wird herausgegeben von Cloudjet Solutions Pte. Ltd.</p>"
@@ -410,7 +410,7 @@
       "seoTitle": "Kostenlose Beschäftigung bei Demenz für Pflegeheime",
       "description": "Wie Pflegeheime, Tagespflege, Bibliotheken, Seniorenberatung und Selbsthilfegruppen unsere kostenlosen Demenz-Spiele nutzen – plus Text für Ihre Linkliste.",
       "crumb": "Für Einrichtungen",
-      "lede": "Alles auf dieser Website dürfen Sie kostenlos mit Bewohnerinnen und Bewohnern, Gästen und Klienten nutzen – ohne Konto, Lizenz oder Gebühr. Diese Seite erklärt, was es hier gibt und wie Sie es weitergeben können.",
+      "lede": "Alles auf dieser Website dürfen Sie kostenlos mit Bewohnerinnen und Bewohnern, Gästen und Klienten nutzen – ohne Konto, Lizenz oder Gebühr.",
       "shortText": "{name}: kostenlose, sanfte Bilderspiele und Ratgeber zur Beschäftigung für Menschen mit Demenz und ihre Angehörigen. Ohne Anmeldung, ohne Zeitlimit, ohne Punkte.",
       "longText": "{name} ({domain}) bietet {count} kostenlose Browserspiele für Menschen mit Demenz, darunter Bilderpaare mit offen liegenden Bildern, ein leichtes Puzzle, Sortieren, bekannte Sprichwörter und Bilder-Bingo mit Karten zum Ausdrucken. Es gibt kein Konto, keine Werbung, kein Zeitlimit und keine Punkte. Die Website bietet außerdem leicht verständliche Ratgeber zur Beschäftigung für jedes Stadium der Demenz, die sich auf das National Institute on Aging und die Alzheimer's Association stützen.",
       "useTitle": "Was Einrichtungen nutzen können",
@@ -440,7 +440,7 @@
     "description": "Kostenlose Online-Spiele für Senioren mit Demenz oder Alzheimer: Bilderpaare, Puzzles, Sortieren, Sprichwörter, Ausmalen, Bingo. Ohne Anmeldung und Punkte.",
     "crumb": "Spiele",
     "h1": "Sanfte Spiele für Menschen mit Demenz",
-    "lede": "{count} kostenlose Spiele zum gemeinsamen Spielen im Browser. Große Bilder, einfache Worte und nichts, was schiefgehen kann: kein Zeitlimit, keine Punkte, keine Anmeldung.",
+    "lede": "{count} kostenlose Spiele zum gemeinsamen Spielen im Browser. Große Bilder, einfache Worte und nichts, was schiefgehen kann: kein Zeitlimit, keine Punkte, keine.",
     "listName": "Sanfte Spiele für Menschen mit Demenz",
     "byStageTitle": "Ein Spiel nach Stadium wählen",
     "byStageLede": "Die Stadien sind nur ein grober Anhaltspunkt. Richten Sie sich danach, was der Person Freude macht und was sich heute gut anfühlt.",

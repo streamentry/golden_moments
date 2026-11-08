@@ -266,7 +266,7 @@
       "title": "Salute del cervello: cosa dice la ricerca",
       "seo": "Salute del cervello e rischio di demenza: la ricerca",
       "description": "La demenza si può prevenire? Guide oneste e con fonti su fattori di rischio, giochi per la mente, digiuno, dieta, movimento, sonno, udito e primi segnali.",
-      "lede": "Cosa mostrano davvero i grandi studi sulla riduzione del rischio di demenza, spiegato in modo semplice, anche dove le prove sono deboli o contrastanti. Informazioni generali, non consigli medici."
+      "lede": "Cosa mostrano davvero i grandi studi sulla riduzione del rischio di demenza, spiegato in modo semplice, anche dove le prove sono deboli o contrastanti."
     }
   },
   "guide": {
@@ -400,7 +400,7 @@
       "seoTitle": "Volantino da stampare: giochi gratis online per la demenza",
       "description": "Volantino di una pagina da stampare per famiglie e caregiver: giochi gratuiti con immagini per persone con demenza, per gruppi di sostegno e cartelle.",
       "crumb": "Volantino da stampare",
-      "lede": "Stampi questa pagina per un gruppo di sostegno, una cartella informativa o la porta del frigorifero. Usi il comando Stampa del browser: menu e pulsanti non compaiono nella stampa.",
+      "lede": "Stampi questa pagina per un gruppo di sostegno, una cartella informativa o la porta del frigorifero.",
       "introHtml": "<p>Immagini grandi, parole semplici e niente da sbagliare. Gratis su telefono, tablet o computer, senza registrazione, senza pubblicità, senza timer e senza punteggi. Sedetevi vicini e giocate a turno.</p>",
       "gamesTitle": "Giochi da provare insieme",
       "restHtml": "<h2>Qualche consiglio</h2><ul><li>Scelga un momento della giornata in cui la persona sta meglio.</li><li>Cominci con l’impostazione più facile. Quattro riquadri bastano.</li><li>Parlate delle immagini. Spesso la conversazione è la parte più bella.</li><li>Smettete finché è ancora piacevole. Finire presto è un buon risultato.</li></ul><h2>Sul sito trova anche</h2><ul><li>Schede gratuite da stampare: cerca parole a caratteri grandi, disegni da colorare, carte per conversare e tombola con immagini.</li><li>Idee di attività per ogni fase e guide su come giocare insieme e su come prendersi cura di sé.</li></ul><p class=\"muted\">Per il piacere e il tempo passato insieme. Non è un consiglio medico, un test o una terapia. Golden Moments è pubblicato da Cloudjet Solutions Pte. Ltd.</p>"
@@ -410,7 +410,7 @@
       "seoTitle": "Attività gratuite per la demenza per RSA e gruppi",
       "description": "Come RSA, centri diurni, biblioteche, servizi per anziani e gruppi di sostegno usano i nostri giochi gratuiti per la demenza, più un testo per segnalarci.",
       "crumb": "Per le organizzazioni",
-      "lede": "Tutto ciò che trova su questo sito si può usare gratuitamente con ospiti, soci e utenti, senza account, licenze o costi. Questa pagina spiega cosa c’è e come condividerlo.",
+      "lede": "Tutto ciò che trova su questo sito si può usare gratuitamente con ospiti, soci e utenti, senza account, licenze o costi.",
       "shortText": "{name}: giochi con immagini, gratuiti e tranquilli, e guide alle attività per persone con demenza e per chi le assiste. Senza registrazione, senza timer, senza punteggi.",
       "longText": "{name} ({domain}) offre {count} giochi gratuiti nel browser pensati per persone che vivono con la demenza, tra cui coppie da abbinare con le immagini lasciate visibili, un puzzle facile, giochi per riordinare, proverbi conosciuti e una tombola con immagini con cartelle da stampare. Non ci sono account, pubblicità, timer o punteggi. Il sito offre anche guide alle attività in linguaggio semplice per ogni fase della demenza, che citano il National Institute on Aging e l’Alzheimer’s Association.",
       "useTitle": "Cosa possono usare le organizzazioni",

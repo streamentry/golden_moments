@@ -267,7 +267,7 @@
       "title": "Salut cerebral: què diu la recerca",
       "seo": "Salut cerebral i risc de demència: què diu la recerca",
       "description": "Es pot prevenir la demència? Guies honestes i amb fonts sobre factors de risc, jocs, dejuni, alimentació, exercici, son i oïda.",
-      "lede": "Què mostren realment els estudis grans sobre reduir el risc de demència, explicat amb claredat, també on l’evidència és feble o contradictòria. Informació general, no un consell mèdic."
+      "lede": "Què mostren realment els estudis grans sobre reduir el risc de demència, explicat amb claredat, també on l’evidència és feble o contradictòria."
     }
   },
   "guide": {
@@ -401,7 +401,7 @@
       "seoTitle": "Fulletó per imprimir: jocs gratuïts per a la demència en línia",
       "description": "Un fulletó d’una pàgina per imprimir sobre jocs d’imatges suaus i gratuïts per a persones que viuen amb demència, per a grups de suport i famílies.",
       "crumb": "Fulletó per imprimir",
-      "lede": "Imprimeixi aquesta pàgina per a un grup de suport, una carpeta d’informació o la porta de la nevera. Faci servir l’ordre Imprimir del navegador; els menús i els botons no surten a la còpia impresa.",
+      "lede": "Imprimeixi aquesta pàgina per a un grup de suport, una carpeta d’informació o la porta de la nevera.",
       "introHtml": "<p>Imatges grans, paraules clares i res per suspendre. Gratuït al mòbil, a la tauleta o a l’ordinador, sense registre, sense anuncis, sense cronòmetres i sense puntuacions. Seguin un al costat de l’altre i toquin per torns.</p>",
       "gamesTitle": "Jocs per provar plegats",
       "restHtml": "<h2>Alguns consells</h2><ul><li>Triï una hora del dia en què la persona estigui en el seu millor moment.</li><li>Comenci amb l’opció més fàcil. Quatre fitxes ja són moltes.</li><li>Parlin de les imatges. La conversa sovint és la millor part.</li><li>Pari mentre encara resulti agradable. Acabar aviat és un bon resultat.</li></ul><h2>També al web</h2><ul><li>Materials gratuïts per imprimir: sopa de lletres en lletra gran, pàgines per pintar, targetes de conversa i bingo d’imatges.</li><li>Idees d’activitats per a cada fase, i guies per jugar plegats i per cuidar-se un mateix.</li></ul><p class=\"muted\">Per gaudir i passar temps plegats. No és un consell mèdic, ni una prova, ni un tractament. Golden Moments és publicat per Cloudjet Solutions Pte. Ltd.</p>"
@@ -411,7 +411,7 @@
       "seoTitle": "Activitats gratuïtes per a la demència per a residències i grups",
       "description": "Com fan servir els nostres jocs gratuïts per a la demència residències, centres de dia, biblioteques i grups de suport, i un text per afegir-nos a una llista.",
       "crumb": "Per a organitzacions",
-      "lede": "Tot el que hi ha en aquest web es pot fer servir gratuïtament amb residents, persones sòcies i usuàries, sense compte, llicència ni tarifa. Aquesta pàgina explica què hi ha i com compartir-ho.",
+      "lede": "Tot el que hi ha en aquest web es pot fer servir gratuïtament amb residents, persones sòcies i usuàries, sense compte, llicència ni tarifa.",
       "shortText": "{name}: jocs d’imatges suaus i gratuïts i guies d’activitats per a persones que viuen amb demència i per a qui les cuida. Sense registre, sense cronòmetres, sense puntuacions.",
       "longText": "{name} ({domain}) ofereix {count} jocs gratuïts de navegador fets per a persones que viuen amb demència, entre ells parelles d’imatges amb les imatges a la vista, un trencaclosques fàcil, classificar, refranys coneguts i bingo d’imatges amb cartrons per imprimir. No hi ha compte, publicitat, cronòmetre ni puntuació. El web també té guies d’activitats en llenguatge clar per a cada fase de la demència que citen el National Institute on Aging i l’Alzheimer's Association.",
       "useTitle": "Què poden fer servir les organitzacions",

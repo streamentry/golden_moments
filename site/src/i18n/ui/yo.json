@@ -266,7 +266,7 @@
       "title": "Ìlera Ọpọlọ: Ohun tí Ìwádìí Sọ",
       "seo": "Ìlera Ọpọlọ àti Ewu Dementia: Ohun tí Ìwádìí Sọ",
       "description": "Ṣé a lè dènà dementia? Àwọn ìtọ́sọ́nà olóòótọ́ lórí ewu dementia, àwọn eré ọpọlọ, oúnjẹ, eré ìdárayá, oorun, ìgbọ́ràn àti àwọn àmì ìkìlọ̀ ìbẹ̀rẹ̀.",
-      "lede": "Ohun tí àwọn ìwádìí ńlá fihàn nípa dídín ewu dementia kù, tí a ṣàlàyé ní rírọrùn, pẹ̀lú ibi tí ẹ̀rí ti jẹ́ aláìlágbára tàbí àdàpọ̀. Ìmọ̀ gbogbogbò, kì í ṣe ìmọ̀ràn ìṣègùn."
+      "lede": "Ohun tí àwọn ìwádìí ńlá fihàn nípa dídín ewu dementia kù, tí a ṣàlàyé ní rírọrùn, pẹ̀lú ibi tí ẹ̀rí ti jẹ́ aláìlágbára tàbí àdàpọ̀."
     }
   },
   "guide": {
@@ -410,7 +410,7 @@
       "seoTitle": "Àwọn Ìgbòkègbodò Dementia Lọ́fẹ̀ẹ́ fún Àwọn Ẹgbẹ́",
       "description": "Bí àwọn ilé ìtọ́jú, ilé ìkàwé àti àwọn ẹgbẹ́ ìrànlọ́wọ́ ṣe ń lo àwọn eré dementia wa lọ́fẹ̀ẹ́, àti ọ̀rọ̀ láti fi wá kún àtòjọ orísun.",
       "crumb": "Fún àwọn ẹgbẹ́ àti ilé iṣẹ́",
-      "lede": "Ohun gbogbo lórí ojú-òpó yìí wà fún lílò lọ́fẹ̀ẹ́ pẹ̀lú àwọn olùgbé, àwọn ọmọ ẹgbẹ́ àti àwọn oníbàárà, láì sí àkọọ́lẹ̀, ìwé àṣẹ tàbí owó. Ojú-ìwé yìí ṣàlàyé ohun tí ó wà níbí àti bí a ṣe lè pín in.",
+      "lede": "Ohun gbogbo lórí ojú-òpó yìí wà fún lílò lọ́fẹ̀ẹ́ pẹ̀lú àwọn olùgbé, àwọn ọmọ ẹgbẹ́ àti àwọn oníbàárà, láì sí àkọọ́lẹ̀, ìwé àṣẹ tàbí owó.",
       "shortText": "{name}: àwọn eré àwòrán jẹ́ẹ́jẹ́ẹ́ lọ́fẹ̀ẹ́ àti àwọn ìtọ́sọ́nà ìgbòkègbodò fún àwọn ènìyàn tí ń gbé pẹ̀lú dementia àti àwọn olùtọ́jú wọn. Kò sí ìforúkọsílẹ̀, kò sí aago, kò sí ààmì.",
       "longText": "{name} ({domain}) ń pèsè àwọn eré ẹ̀rọ aṣàwákiri {count} lọ́fẹ̀ẹ́ tí a ṣe fún àwọn ènìyàn tí ń gbé pẹ̀lú dementia, pẹ̀lú ìbára-mu àwọn méjì-méjì pẹ̀lú àwọn àwòrán tí ń wà lójú, jigsaw rírọrùn, ìtòlẹ́sẹẹsẹ, àwọn òwe tí ó mọ̀ wọ́n àti bíńgò àwòrán pẹ̀lú àwọn káàdì tí a lè tẹ̀. Kò sí àkọọ́lẹ̀, ìpolówó, aago tàbí ààmì. Ojú-òpó náà tún ní àwọn ìtọ́sọ́nà ìgbòkègbodò ní èdè rírọrùn fún ìpele kọ̀ọ̀kan ti dementia tí ó tọ́ka sí National Institute on Aging àti Alzheimer's Association.",
       "useTitle": "Ohun tí àwọn ẹgbẹ́ lè lò",
@@ -440,7 +440,7 @@
     "description": "Àwọn eré lọ́fẹ̀ẹ́ lórí íńtánẹ́ẹ̀tì fún àgbàlagbà tí ó ní dementia tàbí Alzheimer: ìbára-mu àwòrán, jigsaw, ìtòlẹ́sẹẹsẹ, òwe, bíńgò. Kò sí aago tàbí ààmì.",
     "crumb": "Àwọn eré",
     "h1": "Àwọn Eré Jẹ́ẹ́jẹ́ẹ́ fún Àwọn Ènìyàn tí Ń Gbé pẹ̀lú Dementia",
-    "lede": "Àwọn eré {count} lọ́fẹ̀ẹ́ láti jọ ṣe nínú ẹ̀rọ aṣàwákiri yín. Àwọn àwòrán ńlá, àwọn ọ̀rọ̀ rírọrùn, àti kò sí ohun tí a lè kùnà: kò sí aago, kò sí ààmì, kò sí ìforúkọsílẹ̀.",
+    "lede": "Àwọn eré {count} lọ́fẹ̀ẹ́ láti jọ ṣe nínú ẹ̀rọ aṣàwákiri yín. Àwọn àwòrán ńlá, àwọn ọ̀rọ̀ rírọrùn, àti kò sí ohun tí a lè kùnà: kò sí aago, kò sí ààmì, kò sí.",
     "listName": "Àwọn eré jẹ́ẹ́jẹ́ẹ́ fún àwọn ènìyàn tí ń gbé pẹ̀lú dementia",
     "byStageTitle": "Yíyan eré ní ìbámu pẹ̀lú ìpele",
     "byStageLede": "Àwọn ìpele jẹ́ ìtọ́sọ́nà àpapọ̀ nìkan. Ẹ tẹ̀lé ohun tí ẹni náà gbádùn àti ohun tí ó tù ú lára lónìí.",

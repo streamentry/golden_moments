@@ -1,540 +1,540 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Төп йөкмәткегә күсеү",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
-    "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Башҡорт теле",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "brandTag": "Деменция эшмәкәрлеге",
+    "homeLabel": "Алтын мәлдәр өйҙә",
+    "mainNav": "Төп",
+    "titleSuffix": " | Алтын мәлдәр",
+    "defaultImageAlt": "Алтын мәлдәр: сәй ҡалағы, көнбағыш һәм эттең ҙур, дуҫ һүрәттәре",
+    "languages": "Тел",
+    "englishOnly": "(Инглиз теле)",
+    "machineTranslated": "Был бит автоматик рәүештә тәржемә ителгән һәм әлегә туған телдә һөйләшеүсе тарафынан тикшерелмәгән.",
+    "readOriginal": "Төп нөсхәһен инглиз телендә уҡырға",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Уйындар",
+      "activities": "Эшмәкәрлек",
+      "caregiving": "Ҡайғыртыу",
+      "brainHealth": "Мейе һаулығы"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Һорауҙар һәм яуаптар",
+    "breadcrumb": "Икмәк һынығы",
+    "home": "Төп",
+    "lastUpdated": "Һуңғы яңыртыу",
+    "topics": "Темалар",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Текст күләме",
+      "smaller": "Стандарт текст",
+      "larger": "Ҙурыраҡ текст"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Уйна",
+    "picturePairs": "Һүрәт парҙары",
+    "conversationCards": "Әңгәмә карточкалары",
+    "pictureBingo": "Һүрәтле бинго",
+    "allGames": "Бөтә уйындар",
+    "pictures": "Һүрәттәрҙе баҫтырырға",
+    "activityIdeas": "Эшмәкәрлек идеялары",
+    "ideas101": "101 эшмәкәрлек идеяһы",
+    "lateStage": "Һуңғы этаптағы эшмәкәрлек",
+    "printable": "Баҫма эштәр",
+    "allActivities": "Бөтә эшмәкәрлек",
+    "forCaregivers": "Ҡараусылар өсөн",
+    "playTogether": "Нисек бергә уйнарға .",
+    "selfCare": "Үҙеңде ҡайғыртыу",
+    "brainHealth": "Мейе һаулығын тикшергән",
+    "faq": "Һорауҙар һәм яуаптар",
+    "about": "Тураһында",
+    "approach": "Беҙҙең алым",
+    "howWeWrite": "Нисек яҙабыҙ",
+    "organizations": "Ойошмалар өсөн",
+    "app": "Алтын мәлдәр ҡушымтаһы",
+    "appHelp": "Ҡушымта ярҙамы",
+    "support": "Ярҙам",
+    "legal": "Юридик",
+    "sitePrivacy": "Сайттың хосусилығы",
+    "appPrivacy": "Ҡушымтаның хосуси сәйәсәте",
+    "privacyChoices": "Шәхси һайлау",
+    "terms": "Шарттар һәм ҡушымта лицензияһы",
+    "safety": "Хәүефһеҙлек һәм тәғәйенләнгән ҡулланыу",
+    "accessibility": "Ҡулланыу мөмкинлеге",
+    "healthNotice": "Һаулыҡ һаҡлау тураһында белдереү",
+    "allLegal": "Бөтә хоҡуҡи мәғлүмәт",
+    "note": "«Алтын мәлдәр» рәхәтләнеп ял итеү өсөн ябай уртаҡ эштәр тәҡдим итә. Ул медицина кәңәше, анализ йәки дауалау түгел, һәм ул бер кемгә лә диагноз ҡуймай, үлсәп, балл ҡуймай. Һаулыҡҡа бәйле һорауҙар өсөн табип менән һөйләшегеҙ. Ғәҙәттән тыш хәлдә 911 номерына шылтыратығыҙ.",
+    "publisher": "1990 йылда был ойошма нәшер ителә. ООО"
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Деменция һәм Альцгеймер уйындары һәм эшмәкәрлеге | Алтын мәлдәр",
+    "description": "Бушлай, нәзәкәтле һүрәтле уйындар уйнау өсөн онлайн һәм эшмәкәрлек идеялары өсөн кешеләр йәшәй деменция йәки альцгеймер һәм уларҙы ҡараусылар.",
+    "eyebrow": "Бушлай · Иғландар юҡ · Яҙылыу юҡ · Таймерҙар йәки балл юҡ",
+    "h1": "Йәмле уйындар һәм эшмәкәрлек өсөн кешеләр менән деменция",
+    "lede": "Ябай һүрәтле уйындар, таныш фотоһүрәттәр һәм бергә рәхәтләнеп уйнау өсөн эштәр — үҙ темпыңда.",
+    "playGame": "Уйын уйна",
+    "findIdeas": "Эшмәкәрлек идеяларын табыу",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Телефон, планшет һәм компьютерҙа эшләй",
+      "Ҙур һүрәттәр, улар күрһәтеп ҡала",
+      "Теләһә ниндәй ваҡытта туҡтағыҙ; бер нәмә лә етешмәй"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Шулай уҡ бушлай ҡушымта өсөн iPhone, iPad һәм Android, үҙ ғаилә фотоһүрәттәре менән",
+    "albumNote": "“Сәй ҡалағының ике һүрәте, бергә.”",
+    "gamesEyebrow": "Браузерҙа уйна",
+    "gamesTitle": "Хәҙер үк уйнай алырлыҡ уйындар",
+    "gamesLede": "Һәр береһе тыныс, оло, тиҙ башлай. Берен һайлап, йәнәш ултырып, сиратлап ҡағып ебәрегеҙ.",
+    "seeAllGames": "Барыһын да ҡарау {count} уйындар",
+    "howTitle": "Нисек эшләй",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Таныш нәмә һайлап ал",
+        "text": "Сәй ҡалаҡтары, баҡсалар, йорт хайуандары һәм елкәнле кәмәләр һүрәттәре. Тәүҙә өйрәнергә уҡыу йәки ҡағиҙәләр юҡ."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Ян-яҡтан ултырыу",
+        "text": "Әйҙә, ҡаҡһындар. Һүрәттәр буйынса һөйләү. Тап килмәү сираттағы кранды ғына көтә."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Туҡта, ә үҙеңде яҡшы тоя",
+        "text": "Бер уйын – тулы эшмәкәрлек. “Әлегә эшләнде” тигән һүҙҙәр һәр ваҡыт экранда."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Экран аръяғында",
+    "stageTitle": "Һәр этап өсөн эшмәкәрлек идеялары",
+    "stageLede": "Музыка, көндәлек эштәр, хәтирәләр һәм тыныс тойғо мәлдәре, хәҙер үҙен уңайлы тойғанға яраҡлаштырылған.",
+    "ideas101": "101 эшмәкәрлек идеяһы",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Иртә этап",
+        "text": "Улар яратҡан эште дауам итегеҙ, бәләкәй генә үҙгәрештәр менән: мауығыуҙар, сәйәхәттәр, һүҙ уйындары һәм бергә планлаштырыу.",
+        "label": "Иртә стадиялағы идеялар"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Урта этап",
+        "text": "Ябай, таныш эштәр аҙымдарға бүленгән: йыйыу, сорттарға бүлергә, музыка, һүрәтле уйындар һәм ҡыҫҡа ғына йөрөүҙәр.",
+        "label": "Урта баҫҡыс идеялары"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Һуңыраҡ этап",
+        "text": "Уңайлыҡтар һәм ҡағылыу, тауыш һәм күренеш аша бәйләнеш: ҡулдарҙы ҡарау, яратҡан йырҙар, фотоһүрәттәр һәм бергә булыу.",
+        "label": "Һуңыраҡ идеялар"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Конкрет нәмә эҙләйһегеҙме? Һынап ҡарағыҙ <a href=\"/activities/alzheimers/\">Альцгеймер ауырыуы өсөн саралар һәм уйындар</a>, <a href=\"/activities/memory-games/\">йомшаҡ хәтер уйындары</a>, <a href=\"/activities/trivia/\">еңел ваҡ-төйәк</a> йәки <a href=\"/activities/puzzles/\">пазлдар</a>.",
+    "approachEyebrow": "Беҙҙең алым",
+    "approachTitle": "Хәтер һынауы түгел, ә уртаҡ эшмәкәрлек",
+    "approachLede": "Күп кенә “мейе уйындары” тиҙлек, иҫәптәр һәм һыҙаттар тирәләй төҙөлә. Кемдер өсөн йәшәгән деменция, тип тойорға мөмкин имтихан кеүек. Беҙ киреһенсә төҙөнөк.",
+    "approachLink": "Ни өсөн беҙ уны шулай проектлайбыҙ",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Бер нәмә лә һынатмай",
+        "text": "Сәғәт юҡ, иҫәп, йәшәй йәки юғалтыу. Икенсе картина – пауза, хата түгел."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Һүрәттәр күрһәтеп ҡала",
+        "text": "Иҫкә төшөрөү өҫтөндә таныу. Матчинг йөҙө менән башлана, шуға күрә иҫкә төшөрөргә бер нәмә лә юҡ."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Өлкән һәм лайыҡлы",
+        "text": "Йылы, ябай һүҙҙәр һәм ысынбарлыҡтағы картиналар. Бер ҡасан да йәнһүрәттәр йәки бәпес һөйләшеүҙәре."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Дизайн буйынса шәхси",
+        "text": "Иҫәп яҙмалары ла, иғландар ҙа юҡ. Фотоһүрәттәрегеҙ бер ҡасан да ҡоролмағыҙҙан китмәй."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Ҡараусылар өсөн",
+    "guidesTitle": "Көндәлек тәрбиә өсөн практик ҡулланмалар",
+    "allCaregiving": "Бөтә ҡарау етәкселәре",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Нисек бергә уйындар уйнарға",
+        "text": "Ҡороу, темп, һәм нимә эшләргә, ҡасан уйын күңелле булыуҙан туҡтай."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Берәй эшмәкәрлеккә юҡ тигәндә",
+        "text": "Баш тартыу өсөн дөйөм сәбәптәр, һәм йомшаҡ ысулдар менән ҡабаттан тырышып ҡарау өсөн һуңыраҡ."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Планшет ҡуйыу",
+        "text": "Ҙурыраҡ текст, өҙөклөктәр аҙыраҡ һәм бер ябай төп экран."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Бушлай баҫтырыу өсөн эштәр",
+        "text": "Ҙур хәрефтәр менән яҙылған һүҙҙәр эҙләү, буяу биттәре, бинго һәм әңгәмә карточкалары."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Мейе һаулығы: тикшеренеүҙең ысынында нимә тураһында һөйләй",
+    "researchText": "Деменцияны иҫкәртергә мөмкинме? Мейе уйындары ярҙам итәме? Ә ураҙа, диета, йоҡо һәм ишетеү һәләте? Ябай, сығанаҡлы яуаптар, шул иҫәптән ҡайҙа дәлилдәр көсһөҙ.",
+    "researchLink": "Тикшеренеүҙең ҡулланмаларын уҡығыҙ",
+    "appEyebrow": "Шулай уҡ ҡушымта",
+    "appTitle": "Айфон, айпад һәм андроидта алтын мәлдәр",
+    "appText": "Бушлай ҡушымта офлайн эшләй һәм ғаилә фотоһүрәттәрен ҡуллана ала һеҙ һайлаған, һеҙҙең ҡоролма күсермәһе булараҡ һаҡлана. Шул уҡ тыныс дизайн: дүрт ҙур плитка, таймер юҡ, иҫәп юҡ.",
+    "aboutApp": "Ҡушымта тураһында",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Аҡылдан яҙған кешеләр өсөн ниндәй уйындар яҡшы?",
+        "a": "Яҡшы уйындар ябай, таныш һәм баҫымдан азат: ҙур һүрәттәрҙе тап килтерергә, сорттарға айырыу, еңел пазлдар, билдәле әйтемдәрҙе тамамлау, буяу, һүрәтле бинго һәм әңгәмә карточкалары. Иң яҡшы һайлау – кеше бөгөн рәхәтләнеп һайлаған һайлау. Таймерҙарҙан, баллдарҙан һәм һынау кеүек тойолған нәмәләрҙән ҡотолоғоҙ."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Был деменция уйындары бушлаймы?",
+        "a": "Эйе. Һәр уйын һәм баҫма алтын мәлдәр бушлай, иҫәп яҙмаһы менән, теркәлергә йәки скачать. Уйындар веб-браузерҙа телефон, планшет йәки компьютерҙа эшләй."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Мейе уйындары аңһыҙлыҡҡа юл ҡуймаймы?",
+        "a": "Деменцияны иҫкәртергә бер ниндәй ҙә уйын күрһәтелмәгән, ә «Алтын мәлдәр» бер нәмәне лә дауаларға йәки иҫкәртергә дәғүә итмәй. Беҙҙең уйындар рәхәтләнеп, бергә ваҡыт үткәреү өсөн. Беҙҙең мейе һаулығы бүлегендә тикшеренеүҙең нимә эшләүе һәм күрһәтмәүе аңлатыла."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Был уйындар Альцгеймер ауырыуы менән ауырыған кешегә яраймы?",
+        "a": "Эйе. Альцгеймер ауырыуы иң таралған сәбәбе булып тора, һәм уйындар уның өсөн эшләнгән: ҙур һүрәттәр, күрһәтеп ҡала, һайлау аҙ, һәм бер нәмә лә иҫтә ҡалдырырға йәки яңылышырға. Таныш әйтемдәрҙе тап килтереп, сорттарға бүлеп, тамамлау яңы белемгә түгел, ә күптән һаҡланған белемгә таяна."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Һуңғы стадияла деменция менән ауырыған кеше был эштәрҙе ҡуллана аламы?",
+        "a": "Йыш ҡына, эйе, эргәһендә кемдер булғанда. Башланғыс менән Тап шул уҡ ике һүрәт менән, Һүрәт парҙары менән дүрт плитка, буяу бит йәки тыныс тын алыу паузаһы. Ҡыҫҡа ғына әйтегеҙ, улар етәкселегенә эйәреп, етерлек ашағандан һуң туҡтағыҙ."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Минең мәғлүмәттәрем шәхсиме?",
+        "a": "Сайттың иҫәп яҙмалары ла, рекламаһы ла юҡ. Беҙ Google Analytics ҡулланып, ниндәй биттәргә инеүҙәрен аңлайбыҙ. Фотоһүрәттәр һеҙ һайлаған өсөн Фото парҙары һеҙҙең браузерҙа ғына күрһәтелә һәм бер ҡасан да тейәлмәй."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Кем «Алтын мәлдәр»ҙе эшләй?",
+        "a": "Алтын мәлдәр-был бәләкәй команда тыныс, оло һүрәт эшмәкәрлеге өсөн ғаиләләр һәм ҡараусылар, интернетта һәм бушлай ҡушымта булараҡ. Беҙ клиник түгел, бында бер нәмә лә медицина кәңәштәре түгел."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "иртә",
+    "middle": "урта",
+    "late": "һуңыраҡ",
+    "hintOne": "Йыш ҡына костюмдар {list} этап",
+    "hintMany": "Йыш ҡына костюмдар {list} этаптары",
+    "labelEarly": "Иртә этап",
+    "labelMiddle": "Урта этап",
+    "labelLate": "Һуңыраҡ этап"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Был уйын тураһында",
+    "printable": "Баҫтырырға мөмкин",
+    "play": "Уйна {name} →",
+    "readGuide": "Ҡулланманы уҡығыҙ"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Йәмле уйынға әҙерһегеҙме?",
+    "text": "Ҙур һүрәттәр, таймер юҡ, иҫәп юҡ һәм яҙылырға бер нәмә лә юҡ. Браузерҙа бергә уйнағыҙ.",
+    "play": "Уйын уйна",
+    "all": "Бөтә уйындарҙы ҡарау",
+    "aria": "Уйын уйна"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
-    "appStoreShort": "App Store",
+    "title": "Ошо уйындарҙы үҙегеҙ менән алығыҙ",
+    "text": "iPhone, iPad һәм Android өсөн бушлай «Алтын мәлдәр» ҡушымтаһы: ҙур һүрәтле плиталар, үҙ ғаиләгеҙҙең фотоһүрәттәре менән уйындар һәм Wi‐Fiһыҙ эшләгән һүрәттәр пакеттары. Иҫәп яҙмаһы, иғландар, таймер йәки иҫәп юҡ.",
+    "appStore": "App Store-ҙан алырға",
+    "googlePlay": "Google Play аша алырға",
+    "appStoreShort": "Ҡушымталар магазины",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Ҡушымта тураһында",
+    "aria": "Ҡушымтаны алырға"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Эшмәкәрлек",
+      "title": "Деменция менән ауырығандар өсөн саралар",
+      "seo": "Деменция менән ауырығандар өсөн эшмәкәрлек: этаптар буйынса идеялар",
+      "description": "Эшмәкәрлек идеялары өсөн кешеләр менән йәшәй деменция һәр этапта: музыка, хәтирәләр, көндәлек бурыстар, сенсор мәлдәр, ҡул эштәре, асыҡ һауала һәм бушлай баҫма.",
+      "lede": "Мәғәнәле эшмәкәрлек - йыуаныс, маҡсат йәки бәйләнеш мәле килтергән теләһә ниндәй нәмә. Кешегә электән ләззәтләнгән нәмәнән башлағыҙ ҙа, уны бөгөнгө көнгә яраҡлаштырығыҙ."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Ҡайғыртыу",
+      "title": "Ҡайғыртыу буйынса етәкселәр",
+      "seo": "Деменция ҡарау етәкселәре: практик көндәлек ярҙам",
+      "description": "Практик, изгелекле етәкселек өсөн деменция ҡараусылар: бергә уйындар уйнау, аралашыу, баш тартыу, һуңғы көндөң тынғыһыҙлығы, планшеттар, ҡушымталар һайлау һәм.",
+      "lede": "Ябай, көндәлек мәлдәр өсөн практик ярҙам ҡайғыртыу өсөн кемдер йәшәй деменция, шул иҫәптән үҙеңде ҡайғыртыу."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Мейе һаулығы",
+      "title": "Мейе һаулығы: тикшеренеүҙәр нимә ти",
+      "seo": "Мейе һаулығы һәм деменция хәүефе: тикшеренеүҙәр нимә ти",
+      "description": "Деменцияны иҫкәртергә мөмкинме? Намыҫлы, сығанаҡлы етәкселәр деменция хәүеф факторҙары, мейе уйындары, ураҙа, диета, күнекмәләр, йоҡо, ишетеү һәм алдан иҫкәрткән.",
+      "lede": "Ниндәй ҙур тикшеренеүҙәр ысынында күрһәтә тураһында түбәнәйтергә деменция хәүефе, асыҡ аңлатты, шул иҫәптән ҡайҙа дәлилдәр көсһөҙ йәки ҡатнаш."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Яңыртылды",
+    "minuteRead": "{n} минут уҡыны",
+    "byTeam": "Алтын мәлдәр командаһы тарафынан",
+    "howWeWrite": "Нисек яҙабыҙ",
+    "shortAnswer": "Ҡыҫҡа яуап",
+    "onThisPage": "Был биттә ({n} бүлектәр)",
+    "commonQuestions": "Дөйөм һорауҙар",
+    "sources": "Сығанаҡтар",
+    "sourcesNote": "Беҙ был биттә таянған ойошмаларға һәм тикшеренеүҙәргә һылтанма яһайбыҙ. Һәр береһе бит яңыртылғанда тикшерелде.",
+    "tryTogether": "Бергә тырышып ҡарағыҙ",
+    "relatedGuides": "Бәйләнешле етәкселәр",
+    "related": "Бәйләнешле",
+    "startHere": "Бынан башлағыҙ"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Һаулыҡ һаҡлау тураһында белдереү",
+    "title": "Медицина кәңәштәре түгел, ә дөйөм мәғлүмәт",
+    "textHtml": "Был биттә ғаиләләр өсөн баҫылған тикшеренеүҙәр дөйөмләштерелә. Ул һиңә бер кешегә нимә дөрөҫ икәнен әйтә алмай. Рационды, физик күнекмәләрҙе, йоҡоно, дарыуҙарҙы йәки өҫтәмәләрҙе үҙгәртер алдынан табип менән һөйләшегеҙ. Ҡапыл буталсыҡлыҡ йәки башҡа ҡапыл үҙгәрештәр булһа, шунда уҡ табип ярҙамына мөрәжәғәт итегеҙ. <a href=\"/medical-disclaimer/\">Беҙҙең һаулыҡ һаҡлау тураһында мәғлүмәт белдереүҙе уҡығыҙ</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Хәтер һынауы түгел, ә уртаҡ эшмәкәрлек",
+      "seoTitle": "Алтын мәлдәр тураһында: Беҙҙең алым",
+      "description": "Ни өсөн Алтын мәлдәр уйындарында таймерҙар юҡ, иҫәптәр йәки һыҙаттар, ни өсөн һүрәттәр күрһәтеп ҡала, һәм беҙ нимә тураһында дәғүә итәбеҙ һәм деменция тураһында.",
+      "crumb": "Беҙҙең алым",
+      "lede": "Алтын мәлдәр тыныс, ололар өсөн һүрәт эшмәкәрлеген эшләй, уларҙы ҡараусы һәм кемдер йәшәгән деменция менән бергә рәхәтләнеп ала.",
+      "bodyHtml": "<h2>Беҙ нимәгә ышанабыҙ</h2><p>Эшмәкәрлектең мәғәнәһе – ул мәлдең үҙе: әңгәмә, йылмайыу, ике һүрәтте бергә ҡуйыу йәки ябай ғына яҡын ултырыу ҡәнәғәтлеге. Ул бер кемде лә үлсәп, артабан этәрергә йәки берәй нәмәне иҫбатларға түгел.</p><p>Күп мейе-тренинг ҡушымталар тиҙлек тирәләй эшләнгән, иҫәп, һыҙат һәм кимәлдәре. Кеше өсөн йәшәгән деменция, тип тойорға мөмкин имтихан кеүек улар үтә алмай. Беҙ киреһенсә уйлап сығарҙыҡ, үҙебеҙҙе ошо ҡағиҙәләргә тотабыҙ:</p><ul><li><strong>Бер нәмә лә етешһеҙлектәргә дусар булмай.</strong> Сәғәт юҡ, иҫәп, күсеп иҫәпләүсе, йәшәй, һыҙаттар, конфетти йәки кире иҫәп, теләһә ниндәй экранда.</li><li><strong>Иҫкә төшөрөү өҫтөндә таныу.</strong> Һүрәттәр ғәҙәттәгесә күрһәтелә. Подсказкалар әңгәмәгә саҡыра һәм бер ҡасан да викторина исемдәре йәки хәтирәләр.</li><li><strong>Ҙур, ябай һәм тотороҡло.</strong> Ҙур текст һәм һүрәттәр, юғары контраст, һәм контроль, улар бер урында ҡала.</li><li><strong>Өлкәндәр ҡәҙере.</strong> Ысынбарлыҡтағы картиналар һәм ябай, йылы һүҙҙәр. Йәнһүрәттәр, йыр-йыр маҡтау йәки эмодзи бүләктәре юҡ.</li><li><strong>Еңел сығыу юлы.</strong> “Әлегә эшләнде” тигән һүҙҙәр һәр саҡ күренә. Ярты юлда туҡтау – яҡшы һөҙөмтә.</li><li><strong>Шәхси по умолчанию.</strong> Иҫәп яҙмалары ла, иғландар ҙа юҡ. Һеҙ һайлаған фотоһүрәттәр һеҙҙең ҡоролма ҡала.</li></ul><h2>Беҙ нимәгә дәғүә итмәйбеҙ</h2><p>Беҙҙең уйындар рәхәтләнеп, бәйләнеш өсөн. Улар диагноз ҡуймай, тикшермәй, үлсәй, дауалай, яйлатып йәки иҫкәртергә деменция йәки Альцгеймер ауырыуы, һәм бер кем дә уларҙы һайларға тейеш түгел, был сәбәптән. Беҙҙең <a href=\"/brain-health/\">мейе һаулығы биттәре</a>, дәлилдәр ҡайҙа көсһөҙ икәнен асыҡтан-асыҡ әйтәбеҙ, уны бер ҡасан да үҙебеҙҙең уйындарға бәйләмәйбеҙ.</p><h2>Беҙ кем</h2><p>«Алтын мәлдәр» – бәләкәй генә үҙаллы команда. Беҙ клиник түгел. Беҙҙең етәкселәр ойошмалар тарафынан баҫылған етәкселектән яҙылған, мәҫәлән, Милли ҡартайыу институты һәм Альцгеймер ассоциацияһы, һәм һәр ҡулланма уның сығанаҡтарын исемлеккә индерә. Уҡыу <a href=\"/editorial-policy/\">нисек яҙабыҙ һәм биттәребеҙҙе тикшерәбеҙ</a>.</p><h2>Нимә ярҙам итер ине, әйтегеҙ әле</h2><p>Беҙ һеҙҙең өсөн нимә эшләй һәм нимә эшләмәй, бигерәк тә деменция менән йәшәгән кешеләрҙән, ғаилә ҡараусыларҙан һәм эшмәкәрлек хеҙмәткәрҙәренән ишетергә теләйбеҙ. Электрон почта <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Нисек яҙабыҙ һәм биттәребеҙҙе тикшерәбеҙ",
+      "seoTitle": "Редакция сәйәсәте",
+      "description": "Нисек алтын мәлдәр тикшерә, яҙа, сығанаҡтар һәм яңыртыу уның деменция эшмәкәрлеге һәм мейе һаулығы биттәре, һәм нимә беҙ бер ҡасан да баҫтырып сығармаясаҡ.",
+      "crumb": "Редакция сәйәсәте",
+      "bodyHtml": "<h2>Беҙҙең сығанаҡтар</h2><p>Ҡартайыу буйынса милли институт, CDC, Альцгеймер ассоциацияһы, Американың Альцгеймер фонды, Ғаилә ҡараусылар альянсы һәм NHS кеүек ойошмалар йәмәғәтселек етәкселегенә нигеҙләнәбеҙ. Һәр ҡулланмала үҙе таянған сығанаҡтар һанала. Беҙ һәр сығанаҡты һылтанма килтерер алдынан асабыҙ, ысынында нимә тураһында яҙылғанын ғына хәбәр итәбеҙ.</p><h2>Нисек яҙабыҙ</h2><ul><li>Практик беренсе: бөгөн нимә эшләргә, ябай телдә.</li><li>Дәлилдәр тураһында намыҫлы: беҙ әйтәбеҙ “бәйләнгән”, “мөмкин” һәм “дәлилдәр ҡатнаш” ҡасан был дөрөҫлөк.</li><li>Хөрмәтле: беҙ ололар кеүек деменция менән йәшәгән кешеләр тураһында яҙабыҙ, бер ҡасан да викторина йәки оятҡа ҡалдырған тел ҡулланмайбыҙ.</li><li>Уйлап сығарылған йөкмәтке юҡ: уйлап сығарылған статистика, цитаталар, эксперттар, тикшеренеүҙәр, фекерҙәр йәки отзывтар юҡ.</li></ul><h2>Кем беҙҙең биттәрҙе тикшерә</h2><p>Биттәрҙе «Алтын мәлдәр» командаһы яҙа һәм тикшерә, тикшеренеүҙе һәм төҙөүҙе ойоштороу өсөн ЯИ яҙыу ҡоралдары ярҙамында. Һәр битте команда сығанаҡтарына ҡарап тикшерә. Беҙҙең биттәрҙә бар <strong>түгел</strong> табип йәки башҡа клиник тикшерелгән, һәм беҙ башҡаса дәғүә итмәйбеҙ. Улар медицина кәңәштәре түгел, ә дөйөм мәғлүмәт.</p><h2>Нимәне бер ҡасан да баҫтырмаясаҡбыҙ</h2><ul><li>Дәғүә итә, тип уйын, аҙыҡ-түлек, өҫтәмә, тиҙ йәки рутина ҡамасаулай, дауалай, яйлатып йәки дауалай деменция.</li><li>Тестар, викторина йәки балл, тип тәҡдим итә, кемдер бар, йәки юҡ, деменция.</li><li>Кәңәштәр башлау, туҡтатыу йәки ниндәй ҙә булһа дарыуҙы алмаштырыу.</li><li>Реклама йәки бағыусылыҡ йөкмәткеһе етәкселек рәүешендә йәшеренгән.</li></ul><h2>Яңыртыуҙар һәм төҙәтмәләр</h2><p>Һәр биттә һуңғы тапҡыр яңыртылған көнө күрһәтелгән. Әгәр ҙә хата йәки иҫке сығанаҡ тапһағыҙ, электрон почтаға яҙығыҙ <a href=\"mailto:{email}\">{email}</a> һәм беҙ уны тиҙ арала тикшерәсәкбеҙ.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Һорауҙар һәм яуаптар",
+      "seoTitle": "Деменция уйындары һәм эшмәкәрлеге: һорауҙар һәм яуаптар",
+      "description": "Деменция тураһында дөйөм һорауҙарға яуаптар уйындар һәм эшмәкәрлек: ниндәй уйындарҙы һынап ҡарарға, күпме уйнау, һуңыраҡ этаптағы идеялар, мейе һаулығы һәм шәхси.",
+      "crumb": "Һорауҙар һәм яуаптар",
+      "lede": "Ҡараусылар иң күп биргән һорауҙарға ҡыҫҡа, ябай яуаптар.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Уйындар тураһында .",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Деменция менән ауырыған кеше өсөн ниндәй уйындар иң яҡшыһы?",
+              "a": "Иң яҡшы уйындар таныш, ябай һәм баҫымдан азат, ә дөрөҫ уйындар нимә кеше бөгөн рәхәтләнеп. Һүрәтте күренгән һүрәттәр менән тап килтереп, сорттарға бүлергә, еңел пазлдар, таныш әйтемдәрҙе тамамлау, буяу һәм һүрәт бинго барыһы ла күп кешеләр өсөн яҡшы эшләй. Таймерҙарҙан, баллдарҙан һәм һынау кеүек тойолған нәмәләрҙән ҡотолоғоҙ."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Уйындар ысынлап та бушлаймы?",
+              "a": "Эйе. Бөтә уйындар һәм принтабель бушлай, иҫәп яҙмаһы юҡ, теркәлеү, скачать йәки реклама."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Ни өсөн баллдар, кимәлдәр, таймерҙар юҡ?",
+              "a": "Тиҙлек һәм балл рәхәт эшмәкәрлекте имтиханға әйләндерә, был оялыу йәки ҡәнәғәтһеҙлек килтерергә мөмкин. Беҙ рәхәтләнеп һәм бергә ваҡыт үткәреүгә иғтибарҙы йүнәлтәбеҙ, шуға күрә етешһеҙлектәр юҡ һәм теләһә ниндәй нөктәлә туҡтарға мөмкин."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Ниндәй ҡоролма яҡшыраҡ эшләй?",
+              "a": "Теләһә ниндәй телефон, планшет йәки компьютер менән заманса веб-браузер. Өҫтәл янындағы стендтағы планшет йыш ҡына ике кешенең йәнәш уйнауы өсөн иң уңайлы ысул булып тора. Телевизорға тоташтырылған ноутбук төркөмдәр өсөн яҡшы эшләй."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Үҙебеҙҙең ғаилә фотолары менән уйнай алабыҙмы?",
+              "a": "Эйе. Фото парҙары әйләндерә 2 6 фотоһүрәттәр һеҙ һайлаған тап килгән уйын. Фотоһүрәттәр браузерҙа ҡала һәм тейәлмәй һәм һаҡланмай."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Эшмәкәрлек һәм хәстәрлек",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Эшмәкәрлек күпме дауам итергә тейеш?",
+              "a": "Йыш ҡына 10-20 минут етерлек, ә ҡайһы саҡта 2 минут уңышлы. Арыу йәки ҡәнәғәтһеҙлек билдәләрен күҙәтегеҙ һәм туҡтағыҙ, ә ул үҙен яҡшы тоя. Дөрөҫ сумма юҡ."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Әгәр улар ниндәйҙер эш менән шөғөлләнергә теләмәһә?",
+              "a": "Юҡ тигәнде хөрмәт итегеҙ, һуңыраҡ йәки башҡаса тағы ла тырышығыҙ. Баш тартыу арыуҙан, ауыртыуҙан, ышанысһыҙлыҡтан йәки ябай ғына ҡыҙыҡһыныуҙан килеп сығыуы мөмкин. Беҙҙең етәкселек ҡарағыҙ, улар юҡ тигәндә нимә эшләргә."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Һуңғы стадиялағы деменцияға ниндәй эшмәкәрлек ярай?",
+              "a": "Уңайлыҡтар һәм тойғолар: яратҡан музыка тыңлау, лосьон менән ҡул массажы, бергә фотолар ҡарау, йомшаҡ юрған тотоу, тышҡа сығып ултырыу йәки эргәһендә кемдер менән бик ябай һүрәтле уйын. Беҙҙең һуңғы этаптағы етәксенең тағы ла күп идеялары бар."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Ҡарау йортонда төркөмдәр өсөн саралар бармы?",
+              "a": "Эйе. Һүрәтле бинго баҫма карталар һәм экранда шылтыратыусы бар, һәм Тамамлау әйтем һәм Һөйләшеү карталары эшләй яҡшы ҡысҡырып уҡып. Беҙҙең ҡарау йорто төркөмдәре етәксеһе төркөм күләмен ҡаплай, ултырыу һәм ҡатнаш мөмкинлектәре өсөн яраҡлаштырыу."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Мейе һаулығы",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Уйындар аҡылдан яҙыуҙы иҫкәртергә йәки яйлатып буламы?",
+              "a": "Бер ниндәй ҙә уйын деменцияны иҫкәртергә күрһәтелмәгән, беҙҙең уйындар ҙа бындай дәғүә белдермәй. Социаль мөхиттә когнитив стимуляция тикшеренеүҙәрҙә еңел һәм уртаса деменция менән ауырыған кешеләр өсөн бәләкәй генә файҙа күрһәтте, әммә был сирҙәрҙе иҫкәрткән уйындан айырыла. Беҙ рәхәтләнеп һәм бәйләнеш өсөн уйындар тәҡдим итәбеҙ."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Деменцияны иҫкәртергә мөмкинме?",
+              "a": "Ысынлап та түгел. Тикшеренеүҙәр 14 һаулыҡ һәм йәшәү рәүеше факторҙарын деменция хәүефе менән бәйләй, мәҫәлән, ишетеү һәләтен юғалтыуы, ҡан баҫымы юғары булыу, физик эшмәкәрлекһеҙлек һәм социаль изоляция. Уларға мөрәжәғәт итеү ҡайһы бер кешеләр өсөн хәүефте кәметергә мөмкин, әммә барыһын да дөрөҫ эшләгән күптәрҙә һаман да деменция үҫешә. Был бер ҡасан да бер кемдең дә ғәйебе түгел."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Өҙөк-өҙөк ураҙа тотоу мейе һаулығы өсөн файҙалымы?",
+              "a": "Кеше дәлилдәре сикләнгән һәм иртә, тикшеренеүҙең күп өлөшө хайуандарҙа. Ураҙа тотоу оло йәштәгеләр өсөн хәүефле булыуы мөмкин, бигерәк тә шәкәр диабеты дарыуҙары йәки уйламағанда ябығыу менән, һәм был кешеләргә кәңәш ителмәй, йәшәгән деменция. Туҡланыу ысулын үҙгәртер алдынан табип менән һөйләшегеҙ."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Йәшеренлек һәм хәүефһеҙлек",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Һеҙ ниндәйҙер мәғлүмәт йыяһығыҙмы?",
+              "a": "Иҫәп яҙмалары ла, иғландар ҙа юҡ. Беҙ Google Analytics ҡулланып, килгәндәрҙе иҫәпләйбеҙ һәм ниндәй биттәр ярҙам итә, ә браузерығыҙ йомшаҡ тауыштарҙы ҡабыҙғанығыҙҙы иҫләй. Фотоһүрәттәр һеҙ һайлаған өсөн Фото парҙары бер ҡасан да тейәлмәй. Тулыраҡ мәғлүмәт өсөн хосуси иҫкәртмәне ҡарағыҙ."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Был медицина кәңәшеме?",
+              "a": "Юҡ, «Алтын мәлдәр» ял итеү һәм дөйөм мәғлүмәт өсөн. Һаулыҡҡа бәйле һорауҙар буйынса табип менән һөйләшегеҙ, ә ғәҙәттән тыш хәлдәр өсөн 911 номерына шылтыратығыҙ."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Тулыраҡ: <a href=\"/caregiving/how-to-play-together/\">нисек бергә уйнарға</a>, <a href=\"/caregiving/when-they-say-no/\">юҡ тигәндә</a>, <a href=\"/activities/late-stage/\">һуңғы этаптағы эшмәкәрлек</a> һәм <a href=\"/brain-health/can-dementia-be-prevented/\">деменцияны иҫкәртергә мөмкинме?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Деменция менән йәшәгән кешеләр өсөн бушлай, нәзәкәтле уйындар",
+      "seoTitle": "Баҫма таратыу: Бушлай деменция уйындары онлайн",
+      "description": "Ғаиләләр һәм ҡараусылар өсөн бер битлек баҫма таратыу тураһында бушлай, йомшаҡ һүрәтле уйындар өсөн кешеләр өсөн йәшәгән деменция, ярҙам төркөмдәре һәм ҡарау пакеттары.",
+      "crumb": "Баҫтырырға мөмкин булған таратыу материалы",
+      "lede": "Был битте ярҙам төркөмө, ҡайғыртыу пакеты йәки һыуытҡыс ишеге өсөн баҫтырып сығарығыҙ.",
+      "introHtml": "<p>Ҙур һүрәттәр, ябай һүҙҙәр һәм бер нәмә лә етешһеҙлектәргә дусар булмай. Бушлай телефон, планшет йәки компьютер, теркәлеү юҡ, иғландар юҡ, таймерҙар һәм балл юҡ. Ян-яҡтан ултырып, сиратлап ултырығыҙ.</p>",
+      "gamesTitle": "Бергәләп һынап ҡарарға уйындар",
+      "restHtml": "<h2>Бер нисә кәңәш</h2><ul><li>Кешенең иң яҡшы хәлендә булған ваҡытын һайлағыҙ.</li><li>Иң еңел параметрҙан башлағыҙ. Дүрт плитка етерлек.</li><li>Һүрәттәр буйынса һөйләү. Йыш ҡына әңгәмә иң яҡшы өлөшө булып тора.</li><li>Әле лә рәхәт тойолғансы туҡтағыҙ. Иртә тамамлау – яҡшы һөҙөмтә.</li></ul><h2>Шулай уҡ сайтта</h2><ul><li>Бушлай баҫма: ҙур хәрефле һүҙҙәр эҙләү, буяу биттәре, әңгәмә карточкалары һәм һүрәтле бинго.</li><li>Һәр этап өсөн эшмәкәрлек идеялары, һәм бергә уйнау һәм үҙеңде ҡарау буйынса етәкселек.</li></ul><p class=\"muted\">Рәхәтләнеп, бергә ваҡыт үткәреү өсөн. Табип кәңәше, анализ йәки дауалау түгел. «Алтын мәлдәр» нәшриәте «Cloudjet Solutions Pte» компанияһы тарафынан баҫыла. ООО</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Ҡарау йорттары, китапханалар һәм ярҙам төркөмдәре өсөн",
+      "seoTitle": "Ҡарау йорттары һәм төркөмдәре өсөн бушлай деменция эшмәкәрлеге",
+      "description": "Нисек ҡарау йорттары, ололар өсөн көн программалары, китапханалар, ҡартайыу агентлыҡтары һәм ярҙам төркөмдәре беҙҙең бушлай деменция уйындар ҡулланыу, плюс текст.",
+      "crumb": "Ойошмалар өсөн",
+      "lede": "Был сайтта барыһы ла бушлай ҡулланыу өсөн резиденттар, ағзалары һәм клиенттар, иҫәп яҙмаһы юҡ, лицензия йәки түләү.",
+      "shortText": "{name}: бушлай, нәзәкәтле һүрәтле уйындар һәм деменция менән йәшәгән кешеләр һәм уларҙы ҡараусылар өсөн эшмәкәрлек ҡулланмалары. Яҙылыу юҡ, таймерҙар юҡ, балл юҡ.",
+      "longText": "{name} ({domain}) тәҡдимдәр {count} бушлай браузер уйындары кешеләр өсөн эшләнгән йәшәгән деменция, шул иҫәптән тап килгән парҙар менән һүрәттәр күрһәтеү ҡалды, еңел лобзик, сорттарға, таныш әйтемдәр һәм һүрәт бинго менән баҫма карталар. Иҫәп яҙмаһы, реклама, таймер йәки иҫәп юҡ. Сайтта шулай уҡ ябай телдәге эшмәкәрлек буйынса ҡулланмалар бар, улар деменцияның һәр этабы өсөн ҡартайыу буйынса милли институт һәм Альцгеймер ассоциацияһына һылтанма яһай.",
+      "useTitle": "Ниндәй ойошмалар ҡуллана ала",
+      "gamesItemHtml": "<strong>{count} браузер уйындары</strong> ноутбукта, планшетта йәки компьютерға тоташтырылған телевизорҙа эшләгән. Юҡ ҡуйырға, иҫәп яҙмаһы йәки скачать. Ҡарағыҙ <a href=\"/games/\">бөтә уйындар</a>.",
+      "printablesLabel": "{count} баҫмалар:",
+      "printablesAfter": "Һәр биттәге «Печать» төймәһен ҡулланығыҙ.",
+      "moreItemsHtml": "<li><strong>Төркөм форматтары:</strong> <a href=\"/games/picture-bingo/\">Һүрәтле бинго</a> баҫтырыла торған карточкалар һәм экранда шылтыратыусы бар, ә <a href=\"/activities/trivia/\">еңел ваҡ-төйәк</a> яуап һайлау һәм һөйләшеү урындары менән 50 һорау бар.</li><li><strong>Эшмәкәрлек буйынса етәкселәр</strong> хеҙмәткәрҙәре һәм ғаиләләре өсөн, этаптар һәм төрҙәр буйынса, сығанаҡтар менән ябай телдә яҙылған. Башларға <a href=\"/activities/ideas/\">101 эшмәкәрлек идеяһы</a> йәки <a href=\"/activities/care-home-groups/\">ҡарау йорттары өсөн төркөм эшмәкәрлеге</a>.</li>",
+      "restHtml": "<h2>Төркөмдәр уны нисек ҡуллана</h2><ul><li><strong>Ҡарау йорттары һәм хәтерҙе ҡарау:</strong> һүрәт бинго йәки тамамлау-әйткән дөйөм бүлмәлә телевизор, бер кеше менән төркөм өсөн ҡағып.</li><li><strong>Өлкәндәр өсөн көн программалары:</strong> планшет станцияһы менән Picture парҙары дүрт плиткә ҡуйылған, ҡыҫҡа бер-бер сеанстар өсөн.</li><li><strong>Йәмәғәт китапханалары:</strong> хәтер комплекттарында баҫылған һүҙҙәр эҙләү һәм әңгәмә карточкалары, ә сайт китапхана планшеттарында закладкаға ҡуйылған.</li><li><strong>Ҡараусыларға ярҙам төркөмдәре һәм хәтер кафелары:</strong> а <a href=\"/handout/\">бер битлек баҫтырып сығарырлыҡ таратыу материалы</a> ғаиләләргә өйҙәренә алып ҡайтыу өсөн.</li><li><strong>Дауаханалар һәм диспансерлаштырыуҙы планлаштырыусылар:</strong> ҡараусы пакеттарҙа таратыу ҡағыҙы, өйҙә йәки карауат янында тыныс ҡына эшләү өсөн.</li></ul><h2>Беҙ нимә эшләмәйбеҙ</h2><p>Уйындар рәхәтләнеп, бергә ваҡыт үткәреү өсөн. Улар диагноз ҡуймай, тикшермәй, балл ҡуймай, дауаламай йәки яйлатмай деменцияны, һәм беҙ ойошмаларҙан уларҙы шулай һүрәтләмәүҙе һорайбыҙ. Иғландар юҡ, уйындарҙа исемдәр, һаулыҡ тураһында мәғлүмәт йәки фотоһүрәттәр тейәргә кәрәкмәй. Сайт Google Analytics ҡулланып, килгәндәрҙе иҫәпләй; беҙҙең <a href=\"/privacy/\">хосуси иҫкәртмә</a> аңлата, тип йыя. Ҡулланылған фотолар <a href=\"/games/photo-pairs/\">Фото парҙары</a> браузерҙа ҡалырға.</p><h2>Беҙҙе ресурстар исемлегенә өҫтәгеҙ</h2><p>Әгәр һеҙ ҡараусылар өсөн ресурстар исемлеген тотаһығыҙ икән, һеҙгә һылтанма <a href=\"/\">{domain}</a>. Һеҙ тасуирламаның береһен дә күсереп ала алаһығыҙ.</p>",
+      "shortTitle": "Ҡыҫҡаса тасуирлама",
+      "longTitle": "Оҙонораҡ тасуирлама",
+      "linksHtml": "<p>Тура һылтанма өсөн файҙалы биттәр: <a href=\"/games/\">бушлай уйындар</a>, <a href=\"/activities/printable/\">бушлай баҫмалар</a>, <a href=\"/activities/alzheimers/\">Альцгеймер ауырыуы өсөн саралар</a> һәм <a href=\"/caregiving/how-to-play-together/\">нисек бергә уйнарға</a>.</p><h2>Һорауҙар йәки төҙәтмәләр</h2><p>Әгәр ҙә сайтта нимәлер дөрөҫ түгел йәки аңлашылмаған, йәки йәшәүсе ихтыяждарын ҡәнәғәтләндермәй, нимә бында, рәхим итеп, беҙгә хәбәр итегеҙ <a href=\"mailto:{email}\">{email}</a>. Зинһар, йәшәүселәр йәки клиенттар тураһында шәхси йәки һаулыҡ мәғлүмәттәрен ебәрмәгеҙ.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Алтын мәлдәр ҡушымтаһы",
+      "seoTitle": "Айфон һәм Android өсөн алтын мәлдәр ҡушымтаһы",
+      "description": "Бушлай алтын мәлдәр ҡушымта: дүрт ҙур плиталар менән нәзәкәтле фото тап килтереп, ғаилә фотоһүрәттәре һеҙҙең ҡоролма һаҡлана, офлайн һүрәт пакеттары һәм иҫәп яҙмаһы юҡ.",
+      "crumb": "Ҡушымта",
+      "lede": "Барыһы ла һеҙгә оҡшай тураһында сайты, ҡушымтала, офлайн эшләй һәм ғаилә фотоһүрәттәрен ҡуллана ала һеҙ һайлаған.",
+      "worksOn": "өҫтөндә эштәр {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Бәләкәйҙән башлағыҙ</h2><p>Дүрт ҙур плитка һәм таныш һүрәттәрҙән башлағыҙ. Һүрәттәрҙе күренеп торорға йәки үҙегеҙгә уңайлы булғанда йәшерергә. Йәмле режимда таймер, иҫәп йәки штраф юҡ. 4, 6, 8 йәки 12 плиткә һайлағыҙ.</p><h2>Шәхси итегеҙ</h2><p>Ғаилә фотоһүрәттәрен һайлау менән һеҙҙең ҡоролма’фото йыйыусы. Ҡушымта үҙ эшмәкәрлеге өсөн бәләкәйерәк күсермәләр һаҡлай. Ул китапханағыҙҙы сканерламай, төп фотоһүрәттәрегеҙҙе үҙгәртмәй, бер йыйынтыҡта 24 фотоға тиклем һаҡлай.</p><h2>Бергә генә ҡарағыҙ</h2><p>Бер-бер артлы һүрәтте ҡарау. Факультатив өндәүҙәр бер кемдән дә исемдәрҙе иҫкә төшөрөүҙе йәки дөрөҫ яуап биреүҙе һорамайынса әңгәмәгә саҡыра. Ябай ғына ҡарау ҙа етә.</p><h2>Офлайн ҡайҙа мөһим</h2><p>Стартер һүрәттәре һәм бөтә һигеҙ һүрәт пакеттары ҡушымта менән бергә инә. Импортланған фотокүсермәләр офлайн эшләй. Һайлау төп нөсхәләре һаҡлана тик iCloud интернетҡа тоташыу кәрәк булыуы мөмкин.</p><h2>Иҫәп яҙмаһы юҡ, фотосинхронизация серверы юҡ</h2><p>Ғаилә-фото күсермәләре ҡоролмала ҡушымтала ҡала. Күсермәләрҙе төп нөсхәләрҙе юймайынса ла юйырға мөмкин. Ҡоролма резерв көйҙәре ҡушымта мәғлүмәттәрен үҙ эсенә алырға мөмкин. Уҡыу <a href=\"/app-privacy/\">ҡушымта хосуси сәйәсәт</a>, һәм <a href=\"/help/\">ҡушымта ярҙамы</a> һәр аҙым аша атлай.</p>",
+      "disclaimer": "«Алтын мәлдәр» ял итеү һәм уртаҡ әңгәмә өсөн. Ул диагноз ҡуймай, дауалай, иҫкәртергә йәки үлсәү деменция йәки Альцгеймер ауырыуы.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Бушлай деменция һәм Альцгеймер уйындары онлайн",
+    "description": "Бушлай онлайн уйындар өсөн өлкәндәр йәшәй деменция йәки Альцгеймер: һүрәт тап килтереп, еңел пазлдар, сорттарға бүлергә, әйтемдәр, буяу, бинго.",
+    "crumb": "Уйындар",
+    "h1": "Деменция менән ауырыған кешеләр өсөн нәзәкәтле уйындар",
+    "lede": "{count} бушлай уйындар бергә уйнау өсөн һеҙҙең браузер. Ҙур һүрәттәр, ябай һүҙҙәр, һәм бер нәмә лә етешһеҙлектәр: таймерҙар юҡ, балл юҡ, яҙылыу юҡ.",
+    "listName": "Аҡылдан яҙған кешеләр өсөн йомшаҡ уйындар",
+    "byStageTitle": "Этап буйынса уйын һайлау",
+    "byStageLede": "Этаптар - ҡырыҫ етәксе генә. Кешегә нимә оҡшай, бөгөн үҙен уңайлы тойғанын эҙләгеҙ.",
+    "stageCol": "Сәхнә",
+    "gamesCol": "Йыш ҡына килешкән уйындар",
+    "moreHtml": "Экрандан ситтә тағы ла фекерҙәр: <a href=\"/activities/ideas/\">Деменция менән ауырығандар өсөн 101 сара</a>, <a href=\"/activities/alzheimers/\">Альцгеймер ауырыуы өсөн саралар һәм уйындар</a>, <a href=\"/activities/memory-games/\">йомшаҡ хәтер уйындары</a> һәм <a href=\"/activities/puzzles/\">пазлдар</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Ниндәй уйындан башларға?",
+        "a": "Дүрт плиткә менән һүрәт парҙары тыныс тәүге һайлау. Әгәр һүрәттәр араһында һайлау артыҡ кеүек тойола икән, тырышып ҡарағыҙ Ике һүрәт менән бер үк нәмәне табығыҙ. Төркөм өсөн, һынап ҡарағыҙ Һүрәт бинго."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Уйындар айпадта йәки телефонда эшләйме?",
+        "a": "Эйе. Һәр уйын телефондарҙа, планшеттарҙа һәм компьютерҙарҙа браузерҙа эшләй, ә һүрәттәр экранды тултырырлыҡ үҫә. Стендтағы планшет йыш ҡына ике кеше өсөн иң уңайлыһы."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Альцгеймер ауырыуы менән ауырыған кешегә был уйындар файҙалымы?",
+        "a": "Эйе. Улар деменция менән йәшәгән кешеләр өсөн эшләнгән, шул иҫәптән Альцгеймер ауырыуы, иң таралған сәбәп. Һүрәттәр күрһәтеп ҡала, һайлау мөмкинлеге бер нисә генә, бер нәмә лә ваҡытында йәки иҫәпкә ҡуйылмай, шуға күрә уйындар яңыларын иҫкә төшөрөүгә түгел, ә таныш нәмәләрҙе таныуға таяна."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Был хәтер уйындары өлкәндәр өсөнме?",
+        "a": "Улар тап килтереп һәм һүрәтле уйындар, уларҙы теләһә ниндәй оло йәштәгеләр рәхәтләнеп уйнай ала, әммә улар хәтерҙе һынау өсөн төҙөлмәгән: Һүрәт парҙарында һүрәттәр йөҙө менән ҡарап ҡала, әгәр һеҙ башҡаса һайламаһағыҙ. Беҙҙең етәкселек хәтер уйындары өсөн ололар менән деменция аңлата, нисек тоторға теләһә ниндәй хәтер уйын нәзәкәтле."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Ҡарау йортонда төркөмдәр өсөн уйындар бармы?",
+        "a": "Эйе. Һүрәтле бинго баҫма карталар һәм экранда шылтыратыусы бар, һәм Тамамлау әйтем һәм Һөйләшеү карталары эшләй яҡшы ҡысҡырып уҡып, төркөмгә."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "Айфон, айпад һәм андроид",
+    "requirements": "iOS 15 йәки һуңыраҡ; Android 7.0 йәки унан һуңғы версияһы",
+    "summary": "Бушлай ҡушымта өсөн iPhone, iPad һәм Android менән нәзәкәтле һүрәт тап килтереп дүрт-ун ике ҙур плиталар, тап килтереп һәм ғаилә фотоһүрәттәре менән ҡарау һеҙ һайлайһығыҙ, һәм һигеҙ индерелгән һүрәт пакеттары, интернетһыҙ эшләй. Иҫәп яҙмаһы, иғландар, таймер йәки иҫәп юҡ.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "4, 6, 8 йәки 12 ҙур плитка менән нәзәкәтле һүрәт тап килтереп; һүрәттәр күренеп ҡала, әгәр һеҙ уларҙы йәшерергә һайламаһағыҙ",
+      "Һеҙ һайлаған ғаилә фотоһүрәттәре ҡушымтаға тап килтереп, бергә ҡарау өсөн күсерелә",
+      "Бергә ҡарағыҙ: бер һүрәтте бер юлы өҫтәмә әңгәмә өндәүҙәре менән",
+      "Һигеҙ һүрәт пакеттары ҡушымта менән бергә инә; улар офлайн эшләй",
+      "Иҫәп яҙмаһы юҡ, иғландар, ҡушымтала һатып алыуҙар, таймер, иҫәп йәки штраф"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Деменция эшмәкәрлеге ҡушымтаһы бармы?",
+        "a": "Эйе. «Алтын мәлдәр» («{storeName}» тип күрһәтелгән) App Store һәм Google Play-ҙа бушлай һатыла. Ул ҙур плиталар менән нәзәкәтле һүрәт тап килтереп тәҡдим итә, ғаилә фотоһүрәттәре менән уйындар һеҙ һайлаған, һәм һүрәт пакеттары, офлайн эшләй."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "«Алтын мәлдәр» ҡушымтаһы бушлаймы?",
+        "a": "Эйе. Ул бушлай скачать, иғландар менән, иҫәп яҙмаһы йәки ҡушымта һатып алыу."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Ҡушымта интернетһыҙ эшләйме?",
+        "a": "Эйе. Стартер һүрәттәре һәм бөтә һигеҙ һүрәт пакеттары ҡушымта менән бергә инә, һәм ғаилә фотоһүрәттәре офлайн эшләй, уларҙы ҡушымтаға күсергәндән һуң. Һайлау фотоһүрәт һаҡлана тик iCloud кәрәк булыуы мөмкин тоташыу."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Үҙебеҙҙең ғаилә фотоларын ҡулланырға мөмкинме?",
+        "a": "Эйе. Һайлау фотоһүрәттәр менән һеҙҙең ҡоролма’фото йыйыусы. Ҡушымта үҙ эшмәкәрлеге өсөн ҡоролмала бәләкәйерәк күсермәләр һаҡлай, уларҙы тейәмәй һәм бер ҡасан да төп нөсхәләрен үҙгәртмәй. Күсермәләрҙе теләһә ниндәй ваҡытта алып ташларға мөмкин."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Был мейене өйрәтеү йәки хәтерҙе тикшергән ҡушымтамы?",
+        "a": "Юҡ, Алтын мәлдәр - рәхәтләнеп, бергә ваҡыт үткәреү өсөн. Ул балл йәки анализдар юҡ, һәм ул диагноз ҡуймай, дауалай, иҫкәртергә йәки үлсәү деменция йәки Альцгеймер ауырыуы."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Ниндәй ҡоролмаларҙа эшләй?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Был уйындың ҡушымта версияһы бармы?",
+      "a": "Эйе. Бушлай алтын мәлдәр ҡушымта өсөн iPhone, iPad һәм Android шул уҡ нәзәкәтле һүрәт тап килтереп, ғаилә фотоһүрәттәрен ҡуллана ала һеҙ һайлаған, һәм офлайн эшләй. Иҫәп яҙмаһы, иғландар йәки иҫәп юҡ."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Был уйындың ҡушымта версияһы бармы?",
+      "a": "Был уйындың түгел. Бушлай алтын мәлдәр ҡушымтаһы өсөн iPhone, iPad һәм Android ҙур плиталар һәм ғаилә фотоһүрәттәре менән тап килгән нәзәкәтле һүрәт һеҙ һайлаған, һәм ул офлайн эшләй. Был уйын бында һеҙҙең браузерҙа бушлай ҡала."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: ҙур, дуҫ һүрәттәр",
+    "noscript": "Был уйынға браузерҙа JavaScript ҡабыҙылған булырға тейеш. Түбәндәге кәңәштәр унан башҡа ла эшләй.",
+    "about": "Тураһында {name}",
+    "aboutAria": "Был уйын тураһында",
+    "noTimer": "Таймер ҙа, иҫәп тә юҡ",
+    "printable": "Баҫтырырға мөмкин",
+    "howTo": "Нисек уйнарға {name}",
+    "tips": "Бергә уйнау өсөн кәңәштәр .",
+    "newToPlayingHtml": "Яңы уйнау өсөн, кем менән деменция? Уҡыу <a href=\"/caregiving/how-to-play-together/\">нисек бергә уйындар уйнарға</a>, шул иҫәптән ҡыҙыҡһыныуын юғалтһа, нимә эшләргә.",
+    "moreAria": "Тағы ла өйрәнергә",
+    "helpfulGuides": "Файҙалы етәкселәр",
+    "appTitle": "Ҡушымтала уйнағыҙ",
+    "appText": "Бушлай Golden Moments ҡушымтаһы ҙур плиткалар һәм үҙ ғаилә фотоһүрәттәре менән нәзәкәтле һүрәттәрҙе тап килтерә, һәм Wi‐Fiһыҙ эшләй. Айфон, айпад һәм андроид.",
+    "photoAppTitle": "Фотоларығыҙҙы әҙер тотоғоҙ",
+    "photoAppText": "Бушлай Golden Moments ҡушымтаһында һеҙ һайлаған фотоһүрәттәр киләһе тапҡыр ҡоролмағыҙҙа ҡала, ә уйындар Wi‐Fiһыҙ эшләй. Айфон, айпад һәм андроид.",
+    "goodToKnow": "Белеү яҡшы",
+    "goodToKnowText": "Был уйын рәхәтләнеп, бергә ваҡыт үткәреү өсөн. Ул бер нәмәне лә тикшермәй, үлсәмәй, дауаламай.",
+    "moreGames": "Тағы ла нәзәкәтле уйындар",
+    "crumb": "Уйындар"
   }
 }

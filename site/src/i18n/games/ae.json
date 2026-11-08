@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "جفت عکس",
+    "seoTitle": "بازی تطبیق برای زوال عقل: جفت تصویر",
+    "h1": "جفت تصویر: یک بازی تطبیق ملایم",
+    "description": "یک بازی تطبیق رایگان و ملایم برای افراد مبتلا به زوال عقل. تصاویر بزرگ قابل مشاهده هستند، هیچ تایمر یا امتیازی وجود ندارد و شما 4 تا 12 کاشی را انتخاب می کنید.",
+    "short": "دو تصویر مشابه را پیدا کنید. تصاویر می توانند همچنان نمایش داده شوند.",
+    "players": "1 یا 2 نفر کنار هم",
+    "intro": "روی یک عکس ضربه بزنید، سپس روی عکسی که با آن مطابقت دارد ضربه بزنید. تصاویر به‌طور پیش‌فرض نمایش داده می‌شوند، بنابراین چیزی نباید به خاطر بسپارید. وقتی دو عکس با هم می آیند، یک حاشیه طلایی و یک علامت چک می گیرند.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "انتخاب کنید چه تعداد کاشی استفاده کنید. چهار کاشی مکانی آرام برای شروع است.",
+      "روی هر تصویری ضربه بزنید. حاشیه طلایی می شود.",
+      "روی عکسی که یکسان است ضربه بزنید. این جفت با علامت تیک کنار هم می ماند.",
+      "اگر دو عکس متفاوت باشند، اتفاق بدی نمی افتد. هر زمان که آماده بودید دوباره ضربه بزنید.",
+      "تنها در صورتی که هر دو از نسخه کلاسیک رو به پایین لذت می برید، «تصاویر پنهان» را روشن کنید."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "تصاویر را با صدای بلند با هم نام ببرید و در مورد آنها چت کنید: \"یک فنجان چای قرمز. آیا در چای خود شیر می خورید؟\"",
+      "اجازه دهید شخصی که از او مراقبت می کنید ضربه زدن را انجام دهد، حتی اگر کمی طول بکشد. به جای ضربه زدن به آنها اشاره کنید.",
+      "تا زمانی که احساس خوبی دارید با چهار کاشی بمانید. کاشی های بیشتر یک انتخاب است، هرگز سطحی برای رسیدن به آن.",
+      "در حالی که هنوز لذت بخش است تمام کنید. یک بازی یک فعالیت کامل است."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "آیا تایمر یا نمره وجود دارد؟",
+        "a": "نه. ساعت، امتیاز، شمارنده حرکت یا باخت وجود ندارد. هر لحظه می توانید توقف کنید و توقف در نیمه راه راهی کاملاً خوب برای پایان دادن به آن است."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "چرا تصاویر رو به بالا می مانند؟",
+        "a": "قابل مشاهده نگه داشتن تصاویر، بازی را به جای به یاد آوردن، به نگاه کردن و تطبیق تبدیل می کند. بسیاری از مردم این را آرام تر می دانند. در صورت تمایل می توانید با یک ضربه به تصاویر مخفی تغییر دهید."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "آیا رایگان است و آیا باید ثبت نام کنم؟",
+        "a": "بله، رایگان است و هیچ حساب کاربری، ثبت نام یا دانلودی وجود ندارد. در مرورگر وب روی تلفن، تبلت یا رایانه کار می کند."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "آیا می توانیم از عکس های خانوادگی خودمان استفاده کنیم؟",
+        "a": "بله. جفت‌های عکس را امتحان کنید، که به شما امکان می‌دهد عکس‌ها را از دستگاه خود انتخاب کنید. عکس ها در مرورگر شما می مانند و آپلود نمی شوند."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "همان را پیدا کنید",
+    "seoTitle": "همان عکس را پیدا کنید: بازی ساده زوال عقل",
+    "h1": "همان عکس را پیدا کنید",
+    "description": "یک عکس در بالا، دو تا چهار در زیر. روی یکی که همان است ضربه بزنید. یک بازی تصویری آرام و رایگان برای افراد مبتلا به زوال عقل، بدون تایمر.",
+    "short": "به تصویر بالا نگاه کنید و روی همان تصویر زیر ضربه بزنید.",
+    "players": "1 یا 2 نفر",
+    "intro": "یک تصویر واحد در بالای صفحه نمایش قرار می گیرد. زیر آن دو، سه یا چهار عکس است. روی یکی که همان است ضربه بزنید. این یک انتخاب ساده در هر زمان است، با فضای زیادی برای صحبت.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "دو، سه یا چهار عکس را برای انتخاب انتخاب کنید. دو ساده ترین است.",
+      "به تصویر بالا با هم نگاه کنید.",
+      "روی همان عکس زیر ضربه بزنید. با چک و چند کلمه گرم مشخص شده است.",
+      "اگر عکس دیگری ضربه زده شود، بازی به سادگی آن را نامگذاری می کند و منتظر می ماند. راحت باش.",
+      "هنگامی که برای عکس دیگری آماده شدید، روی «تصویر بعدی» ضربه بزنید."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "قبل از انتخاب در مورد هر تصویر صحبت کنید: رنگ ها، شکل ها، جایی که ممکن است آن را ببینید.",
+      "دو انتخاب \"خیلی آسان\" نیستند. هدف یک لحظه خوشایند است، نه یک چالش.",
+      "اگر ضربه زدن سخت باشد، شخص می تواند اشاره کند و شما می توانید برای او ضربه بزنید."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "آیا تایمر یا نمره وجود دارد؟",
+        "a": "نه. ساعت، امتیاز، شمارنده حرکت یا باخت وجود ندارد. هر لحظه می توانید توقف کنید و توقف در نیمه راه راهی کاملاً خوب برای پایان دادن به آن است."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "در صورت ضربه زدن به تصویر اشتباه چه اتفاقی می افتد؟",
+        "a": "هیچ چیز ناخوشایندی نیست. زنگ، ضربدر قرمز یا لرزش وجود ندارد. بازی تصویری را که ضربه زده شده نامگذاری می کند و منتظر ضربه بعدی است."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "آیا رایگان است و آیا باید ثبت نام کنم؟",
+        "a": "بله، رایگان است و هیچ حساب کاربری، ثبت نام یا دانلودی وجود ندارد. در مرورگر وب روی تلفن، تبلت یا رایانه کار می کند."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "کبریت سایه",
+    "seoTitle": "بازی تطبیق سایه برای زوال عقل: رایگان آنلاین",
+    "h1": "بازی Shadow Match: a Gentle Picture Game",
+    "description": "یک سایه تیره در بالا، دو تا چهار عکس زیر. روی عکسی که سایه ایجاد می کند ضربه بزنید. یک بازی تطبیق سایه آرام و رایگان برای زوال عقل، بدون تایمر.",
+    "short": "به سایه نگاه کنید و روی عکسی که آن را ایجاد می کند ضربه بزنید.",
+    "players": "1 یا 2 نفر",
+    "intro": "تطبیق سایه یک فعالیت آشنا از کاربرگ های چاپ شده است، در اینجا با تصاویر بزرگ و چیزی برای چاپ. یک سایه ملایم در بالای صفحه قرار دارد و دو، سه یا چهار عکس در زیر منتظر می مانند. روی موردی که سایه ایجاد می کند ضربه بزنید. در مورد اشکالی مانند دوچرخه، چتر یا فنجان چای نیز می توان به راحتی صحبت کرد.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "دو، سه یا چهار عکس را برای انتخاب انتخاب کنید. دو ساده ترین است.",
+      "با هم به سایه نگاه کنید. چه شکلی است؟ قدش بلنده یا گرد؟",
+      "روی عکسی که سایه ایجاد می کند ضربه بزنید. نام آن در زیر سایه ظاهر می شود.",
+      "اگر عکس دیگری ضربه زده شود، بازی به سادگی آن را نامگذاری می کند و منتظر می ماند. راحت باش.",
+      "وقتی برای سایه دیگری آماده شدید، روی \"Next shadow\" ضربه بزنید."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "طرح سایه را با انگشت ترسیم کنید و در مورد شکل صحبت کنید.",
+      "اگر سایه‌ها امروز سخت هستند، به «پیدا کردن یکسان» بروید، جایی که تصاویر شبیه به هم هستند.",
+      "پس از یافتن تصویر در مورد آن صحبت کنید: \"ما همچین چتری داشتیم.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "آیا تایمر یا نمره وجود دارد؟",
+        "a": "نه. ساعت، امتیاز، شمارنده حرکت یا باخت وجود ندارد. هر لحظه می توانید توقف کنید و توقف در نیمه راه راهی کاملاً خوب برای پایان دادن به آن است."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "آیا تطبیق سایه برای افراد مبتلا به زوال عقل خوب است؟",
+        "a": "این می تواند برای برخی افراد یک فعالیت ساده و دلپذیر باشد، به خصوص در مراحل اولیه. تشخیص اشکال آسان تر از کلمات است. این برای لذت بردن و گفتگو است، نه آزمایش، و زوال عقل را درمان یا کند نمی کند. اگر باعث ناامیدی شد، سعی کنید همان را پیدا کنید یا به سادگی به تصاویر با هم نگاه کنید."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "در صورت ضربه زدن به تصویر اشتباه چه اتفاقی می افتد؟",
+        "a": "هیچ چیز ناخوشایندی نیست. زنگ، ضربدر قرمز یا لرزش وجود ندارد. بازی تصویری را که ضربه زده شده نامگذاری می کند و منتظر ضربه بعدی است."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "آیا رایگان است و آیا باید ثبت نام کنم؟",
+        "a": "بله، رایگان است و هیچ حساب کاربری، ثبت نام یا دانلودی وجود ندارد. در مرورگر وب روی تلفن، تبلت یا رایانه کار می کند."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "مرتب سازی با هم",
+    "seoTitle": "مرتب سازی بازی برای زوال عقل: مرتب سازی با هم",
+    "h1": "مرتب سازی با هم: یک فعالیت مرتب سازی عکس",
+    "description": "روی یک عکس ضربه بزنید، سپس روی سبدی که در آن تعلق دارد ضربه بزنید: آشپزخانه یا باغ، میوه یا حیوانات. یک فعالیت مرتب سازی آرام و رایگان برای افراد مبتلا به زوال عقل.",
+    "short": "هر تصویر را در سبد خود قرار دهید: آشپزخانه یا باغ و موارد دیگر.",
+    "players": "1 یا 2 نفر",
+    "intro": "مرتب سازی یک کار روزمره آشنا و رضایت بخش است، مانند کنار گذاشتن مواد غذایی یا جفت کردن جوراب. روی یک عکس ضربه بزنید، سپس روی سبد جایی که به آن تعلق دارد ضربه بزنید. هیچ عجله ای وجود ندارد و هیچ چرخشی اشتباه وجود ندارد.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "موضوعی را انتخاب کنید: آشپزخانه و باغ، میوه و حیوانات، یا خانه و سفر.",
+      "روی یک عکس ضربه بزنید. حاشیه طلایی می شود.",
+      "روی سبدی که به آن تعلق دارد ضربه بزنید. تصویر در آن سبد حرکت می‌کند.",
+      "اگر در سبد دیگر باشد، بازی به آرامی می گوید و منتظر می ماند.",
+      "وقتی هر تصویر مرتب شد، با هم سبدها را نگاه کنید."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "اغلب در زندگی واقعی هیچ پاسخ اشتباهی وجود ندارد. اگر کسی می‌گوید که یک قوطی آبخوری متعلق به آشپزخانه است، دلیل آن را بپرسید. ممکن است داستان خوبی دریافت کنید.",
+      "از تصاویر به عنوان یک پیام استفاده کنید: \"در باغ خود چه چیزی رشد کردید؟\"",
+      "مرتب کردن اشیاء واقعی، مانند قاشق و چنگال یا دکمه ها بر اساس رنگ، یک پیگیری عالی به دور از صفحه نمایش است."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "آیا تایمر یا نمره وجود دارد؟",
+        "a": "نه. ساعت، امتیاز، شمارنده حرکت یا باخت وجود ندارد. هر لحظه می توانید توقف کنید و توقف در نیمه راه راهی کاملاً خوب برای پایان دادن به آن است."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "چرا مرتب سازی؟",
+        "a": "بسیاری از مردم از مرتب‌سازی لذت می‌برند زیرا به نظر کار مفید و آشنا می‌آید. همچنین صحبت کردن در مورد تصاویر در حین حرکت آسان است."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "آیا رایگان است و آیا باید ثبت نام کنم؟",
+        "a": "بله، رایگان است و هیچ حساب کاربری، ثبت نام یا دانلودی وجود ندارد. در مرورگر وب روی تلفن، تبلت یا رایانه کار می کند."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "پازل عکس",
+    "seoTitle": "پازل اره منبت کاری اره مویی آسان برای زوال عقل: 4 یا 9 تکه",
+    "h1": "پازل تصویر: یک اره منبت کاری اره مویی آسان",
+    "description": "یک اره منبت کاری اره مویی آنلاین آسان برای افرادی که مبتلا به زوال عقل هستند: 4 یا 9 قطعه بزرگ، کل تصویر قابل مشاهده می ماند، و برای تعویض آنها روی دو قطعه ضربه می زنید.",
+    "short": "روی دو قطعه ضربه بزنید تا آنها را عوض کنید تا تصویر کامل شود.",
+    "players": "1 یا 2 نفر",
+    "intro": "یک تصویر دوستانه به چهار یا نه قطعه بزرگ بریده شده و مخلوط می شود. کل تصویر به عنوان یک راهنما قابل مشاهده است. روی یک قطعه ضربه بزنید، سپس روی قطعه دیگر، و آنها جای خود را عوض می کنند. نیازی به کشیدن نیست.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "یک عکس و 4 یا 9 قطعه را انتخاب کنید. چهار یک شروع آرام است.",
+      "به کل تصویر در بالا نگاه کنید.",
+      "روی یک قطعه ضربه بزنید، سپس روی جایی که باید برود ضربه بزنید. دو قطعه با هم عوض می شوند.",
+      "قطعاتی که در جای مناسب قرار دارند یک علامت تیک کوچک می گیرند.",
+      "وقتی تصویر کامل شد، با هم از آن لذت ببرید، سپس دیگری را انتخاب کنید."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "ضربه زدن به دو قطعه برای تعویض آنها برای بسیاری از افراد بسیار ساده تر از کشیدن آنها است.",
+      "در مورد تصویر همانطور که جمع می شود صحبت کنید: \"اونجا سقف قرمز هست.\"",
+      "یک اره منبت کاری اره مویی واقعی با 12 تا 24 قطعه بزرگ نیز یک فعالیت روی میز دوست داشتنی است."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "آیا تایمر یا نمره وجود دارد؟",
+        "a": "نه. ساعت، امتیاز، شمارنده حرکت یا باخت وجود ندارد. هر لحظه می توانید توقف کنید و توقف در نیمه راه راهی کاملاً خوب برای پایان دادن به آن است."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "آیا باید قطعات را بکشم؟",
+        "a": "نه. روی یک قطعه ضربه بزنید، سپس روی دیگری ضربه بزنید، و آنها جای خود را عوض می کنند. این کار با دست لرزان یا روی یک صفحه نمایش کوچک آسان تر است."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "آیا رایگان است و آیا باید ثبت نام کنم؟",
+        "a": "بله، رایگان است و هیچ حساب کاربری، ثبت نام یا دانلودی وجود ندارد. در مرورگر وب روی تلفن، تبلت یا رایانه کار می کند."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
+    "name": "جمله را تمام کن",
     "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "h1": "حرف را تمام کن",
+    "description": "جملات آشنای آمریکایی که آخرین کلمه را از دست داده اند، مانند \"یک پنی ذخیره شده یک پنی است ___\". روی یک انتخاب ضربه بزنید یا پایان را نشان دهید، سپس در مورد آن صحبت کنید.",
+    "short": "جملات آشنا را با هم کامل کنید، سپس در مورد آنها صحبت کنید.",
+    "players": "1، 2 یا یک گروه",
+    "intro": "گفته های قدیمی اغلب برای یک عمر شناخته شده هستند. هر کارت یک ضرب المثل آشنا با آخرین کلمه از دست رفته، سه گزینه و دکمه \"نمایش پایان\" را نشان می دهد. پس از پایان، یک سوال ملایم دعوت به گفتگو می کند.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "این جمله را با صدای بلند بخوانید.",
+      "روی کلمه ای که آن را تمام می کند ضربه بزنید یا روی «نمایش پایان» ضربه بزنید.",
+      "کل جمله را دوباره بخوانید و با استفاده از دستور در مورد آن صحبت کنید.",
+      "وقتی آماده شدید روی «گفتن بعدی» ضربه بزنید."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "آهسته بخوانید و قبل از آخرین کلمه مکث کنید. اغلب مردم آن را قبل از اینکه شما تمام کنید می گویند.",
+      "اگر کسی پایان متفاوتی می دهد، از آن لذت ببرید. برخی از نسخه های گفته ها بر اساس خانواده یا منطقه متفاوت است.",
+      "در یک گروه، یک نفر می خواند و در پایان همه به آن می پیوندند."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "آیا تایمر یا نمره وجود دارد؟",
+        "a": "نه. ساعت، امتیاز، شمارنده حرکت یا باخت وجود ندارد. هر لحظه می توانید توقف کنید و توقف در نیمه راه راهی کاملاً خوب برای پایان دادن به آن است."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "اگر کلمه دیگری انتخاب کنیم چه؟",
+        "a": "بازی پایان معمول را نشان می دهد و به گفتگو می رود. هیچ نمره ای وجود ندارد و پاسخ متفاوت خوب است."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "آیا رایگان است و آیا باید ثبت نام کنم؟",
+        "a": "بله، رایگان است و هیچ حساب کاربری، ثبت نام یا دانلودی وجود ندارد. در مرورگر وب روی تلفن، تبلت یا رایانه کار می کند."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "جستجوی کلمات با چاپ بزرگ",
+    "seoTitle": "جستجوی کلمات چاپی بزرگ برای دمانس، قابل چاپ",
+    "h1": "جستجوی کلمات با چاپ بزرگ",
+    "description": "جستجوی رایگان کلمات با چاپ بزرگ برای سالمندان و افرادی که مبتلا به زوال عقل هستند. چند کلمه، حروف بزرگ، کلمات فقط رو به پایین. آنلاین بازی کنید یا چاپ کنید.",
+    "short": "حروف بزرگ، چند کلمه، فقط رو به رو و پایین. آن را هم چاپ کنید.",
+    "players": "1 یا 2 نفر",
+    "intro": "یک شبکه کوچک با حروف بزرگ و فقط تعداد انگشت شماری از کلمات، که همه به صورت روبه‌رو یا پایین خوانده می‌شوند. روی حرف اول یک کلمه و سپس حرف آخر آن ضربه بزنید. کاغذ را ترجیح می دهید؟ یک پازل تازه را با یک ضربه چاپ کنید.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "یک موضوع و اندازه شبکه را انتخاب کنید.",
+      "به لیست کلمات نگاه کنید. کلمات خوانده می شوند (از چپ به راست) یا پایین (بالا به پایین).",
+      "روی حرف اول یک کلمه و سپس آخرین حرف آن ضربه بزنید.",
+      "یک کلمه یافت شده برجسته شده و از لیست خط زده می شود.",
+      "برای پخش روی کاغذ با مداد یا نشانگر روی «Print this puzzle» ضربه بزنید."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "به یک کلمه در لیست اشاره کنید و با هم به دنبال حرف اول آن بگردید.",
+      "روی کاغذ، نگه داشتن هایلایتر راحت تر از مداد است.",
+      "در مورد کلمات موضوعی صحبت کنید. کلمات میوه راهی طبیعی به خاطرات چیدن، پخت و پز یا بازار هستند."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "آیا تایمر یا نمره وجود دارد؟",
+        "a": "نه. ساعت، امتیاز، شمارنده حرکت یا باخت وجود ندارد. هر لحظه می توانید توقف کنید و توقف در نیمه راه راهی کاملاً خوب برای پایان دادن به آن است."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "آیا می توانم کلمه جستجو را چاپ کنم؟",
+        "a": "بله. روی «Print this puzzle» ضربه بزنید تا شبکه فعلی با حروف بزرگ چاپ شود و لیست کلمات زیر آن قرار گیرد. هر پازل جدید متفاوت است."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "آیا رایگان است و آیا باید ثبت نام کنم؟",
+        "a": "بله، رایگان است و هیچ حساب کاربری، ثبت نام یا دانلودی وجود ندارد. در مرورگر وب روی تلفن، تبلت یا رایانه کار می کند."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "صفحات رنگ آمیزی",
+    "seoTitle": "صفحات رنگ آمیزی برای بزرگسالان مبتلا به زوال عقل (رایگان)",
+    "h1": "صفحات رنگ آمیزی",
+    "description": "صفحات رنگ آمیزی ساده و بزرگسالان با مناطق بزرگ: روی یک رنگ ضربه بزنید، سپس روی عکس ضربه بزنید. بدون آشفتگی، بدون رنگ اشتباه، و هر صفحه را می توان به صورت رایگان چاپ کرد.",
+    "short": "روی یک رنگ و سپس قسمتی از تصویر ضربه بزنید. صفحات را نیز چاپ کنید.",
+    "players": "1 یا 2 نفر",
+    "intro": "صفحاتی با اشکال بزرگ و ساده: یک گل در گلدان، یک خانه، یک فنجان چای، یک پروانه و یک قایق بادبانی. روی یک رنگ ضربه بزنید، سپس روی قسمتی از تصویر ضربه بزنید تا پر شود. هیچ رنگ اشتباهی وجود ندارد.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "یک صفحه را انتخاب کنید.",
+      "روی یک رنگ ضربه بزنید. هر رنگی نام خود را روی آن نوشته شده است.",
+      "روی قسمتی از تصویر ضربه بزنید تا با آن رنگ پر شود.",
+      "با پر کردن دوباره آن نظر خود را تغییر دهید.",
+      "برای رنگ‌آمیزی با مداد یا نشانگر، روی «Print this page» ضربه بزنید."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "اگر انتخاب بیش از حد به نظر می رسد، به جای کل مجموعه، دو رنگ را برای انتخاب پیشنهاد دهید.",
+      "درختان بنفش و خورشیدهای آبی خوش آمدید. این در مورد لذت بردن از رنگ است، نه دقت.",
+      "صفحات چاپ شده به خوبی با نشانگرهای ضخیم یا مداد رنگی کار می کنند که گرفتن آنها راحت تر است."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "آیا تایمر یا نمره وجود دارد؟",
+        "a": "نه. ساعت، امتیاز، شمارنده حرکت یا باخت وجود ندارد. هر لحظه می توانید توقف کنید و توقف در نیمه راه راهی کاملاً خوب برای پایان دادن به آن است."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "آیا این صفحات خیلی کودکانه هستند؟",
+        "a": "ما به جای کارتون، اشیای آرام و ساده می کشیدیم، بنابراین صفحات برای بزرگسالان مناسب است. شکل‌های بزرگ رنگ‌آمیزی را آسان می‌کنند، بدون اینکه بچه‌دار شوند."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "آیا رایگان است و آیا باید ثبت نام کنم؟",
+        "a": "بله، رایگان است و هیچ حساب کاربری، ثبت نام یا دانلودی وجود ندارد. در مرورگر وب روی تلفن، تبلت یا رایانه کار می کند."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "کارت های مکالمه",
+    "seoTitle": "شروع مکالمه برای زوال عقل: کارت های تصویری",
+    "h1": "کارت های مکالمه",
+    "description": "کارت های تصویری با شروع کننده مکالمه ملایم برای افراد مبتلا به زوال عقل: بدون آزمون، بدون پاسخ درست. روی صفحه استفاده کنید یا مجموعه کامل را چاپ کنید.",
+    "short": "کارت های تصویری با سوالات باز و ملایم. بدون آزمون.",
+    "players": "2 نفر یا گروه",
+    "intro": "هر کارت یک تصویر آشنا را با یک دعوت نامه باز برای صحبت جفت می کند، مانند \"آب و هوای مورد علاقه شما چیست؟\" هیچ پاسخ درستی وجود ندارد و چیزی برای یادآوری وجود ندارد. یک موضوع را انتخاب کنید یا همه آنها را به هم بزنید.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "موضوعی را انتخاب کنید یا «همه کارت‌ها» را نگه دارید.",
+      "سوال را با صدای بلند بخوانید و با هم به تصویر نگاه کنید.",
+      "گوش کنید، پاسخ خود را به اشتراک بگذارید و اجازه دهید بحث سرگردان شود.",
+      "وقتی آماده شدید روی «کارت بعدی» ضربه بزنید یا تا زمانی که دوست دارید با یک کارت بمانید.",
+      "روی «چاپ همه کارت‌ها» ضربه بزنید تا یک مجموعه کاغذ را جدا کنید."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "خودت هم جواب سوال رو بده این یک مکالمه است، نه یک مصاحبه.",
+      "داستان را دنبال کنید نه واقعیت ها را. اگر جزئیات تغییر کند، خوب است.",
+      "اگر کارت چیزی غم انگیز را لمس کرد، آن احساس را بپذیرید و به آرامی به کارت دیگری بروید."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "چرا \"یادت می آید...؟\" وجود ندارد. سوالات؟",
+        "a": "سوالاتی که حافظه را آزمایش می کنند، می توانند مانند یک امتحان احساس شوند و باعث خجالت شوند. دعوت‌نامه‌های باز مانند «به من در مورد… بگو» اجازه دهید هر کسی، هر چه به یاد دارد، به آن ملحق شود."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "آیا می توانم کارت ها را چاپ کنم؟",
+        "a": "بله. \"Print all cards\" مجموعه کامل را با حروف بزرگ چاپ می کند، چندین کارت در هر صفحه، آماده برش."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "آیا رایگان است و آیا باید ثبت نام کنم؟",
+        "a": "بله، رایگان است و هیچ حساب کاربری، ثبت نام یا دانلودی وجود ندارد. در مرورگر وب روی تلفن، تبلت یا رایانه کار می کند."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "جفت عکس",
+    "seoTitle": "ساخت بازی منطبق از Family Photos",
+    "h1": "جفت عکس: عکس های خود را مطابقت دهید",
+    "description": "عکس های خانوادگی خود را به یک بازی تطبیق ملایم تبدیل کنید. 2 تا 6 عکس را در دستگاه خود انتخاب کنید. آنها در مرورگر شما می مانند و هرگز آپلود نمی شوند.",
+    "short": "عکس های خود را انتخاب کنید و آنها را مطابقت دهید. چیزی آپلود نمیشه",
+    "players": "2 نفر کنار هم",
+    "intro": "دو تا شش عکس را از تلفن، تبلت یا رایانه خود انتخاب کنید تا به یک بازی منطبق با تصاویر بزرگ و قابل مشاهده تبدیل شوند. عکس ها فقط در داخل این صفحه نمایش داده می شوند. آنها آپلود، ذخیره یا به اشتراک گذاشته نمی شوند و با بستن صفحه ناپدید می شوند.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "روی «انتخاب عکس‌ها» ضربه بزنید و دو تا شش عکس را انتخاب کنید.",
+      "هر عکس دو بار ظاهر می شود. روی یکی ضربه بزنید، سپس روی جفت آن ضربه بزنید.",
+      "هر عکسی را که پیدا کردید در مورد آن صحبت کنید.",
+      "وقتی کارتان تمام شد، صفحه را ببندید یا روی «پاک کردن عکس‌ها» ضربه بزنید. چیزی نگهداری نمی شود."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "عکس های واضحی از چیزهای شاد و آشنا انتخاب کنید: حیوان خانگی، باغ، مکان مورد علاقه، روز عروسی.",
+      "تصاویر مکان ها و اشیاء می توانند آسان تر از چهره ها باشند و از هرگونه فشار برای نام بردن از افراد جلوگیری می کنند.",
+      "عکس‌های افرادی که مرده‌اند را کنار بگذارید، اگر ممکن است غم و اندوه ناگهانی را به همراه داشته باشند، مگر اینکه بدانید که باعث آرامش می‌شوند."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "آیا عکس های من در جایی آپلود می شود؟",
+        "a": "خیر. صفحه عکس هایی را که انتخاب می کنید مستقیماً در مرورگر شما می خواند و آنها را روی صفحه نمایش شما نشان می دهد. آنها برای ما یا شخص دیگری ارسال نمی شوند و وقتی صفحه را می بندید یا بارگذاری مجدد می کنید از بین می روند."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "آیا تایمر یا نمره وجود دارد؟",
+        "a": "نه. ساعت، امتیاز، شمارنده حرکت یا باخت وجود ندارد. هر لحظه می توانید توقف کنید و توقف در نیمه راه راهی کاملاً خوب برای پایان دادن به آن است."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "آیا می توانم بازی را برای دفعه بعد ذخیره کنم؟",
+        "a": "نه در مرورگر، با طراحی، بنابراین هیچ چیز خصوصی ذخیره نمی شود. برنامه رایگان Golden Moments برای iPhone و iPad می‌تواند کپی‌های عکس انتخابی را در دستگاه شما نگه دارد."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "تصویر یکنوع بازی شبیه لوتو",
+    "seoTitle": "تصویر یکنوع بازی شبیه لوتو برای سالمندان مبتلا به زوال عقل: قابل چاپ",
+    "h1": "تصویر یکنوع بازی شبیه لوتو برای گروه ها",
+    "description": "یکنوع بازی شبیه لوتو عکس قابل چاپ رایگان برای مراقبت از حافظه و گروه های سالمند، با تماس گیرنده بزرگ روی صفحه. تصاویر بزرگ با کلمات، 9 یا 16 مربع، بدون نیاز به خواندن.",
+    "short": "کارت‌های بینگو تصویری قابل چاپ و تماس‌گیرنده با صفحه بزرگ برای گروه‌ها.",
+    "players": "یک گروه 2 تا 30 نفره",
+    "intro": "یکنوع بازی شبیه لوتو کلاسیک با تصاویر به جای اعداد، بنابراین هیچ کس نیازی به خواندن چاپ کوچک ندارد. مجموعه‌ای از کارت‌های منحصربه‌فرد را چاپ کنید، سپس از تماس‌گیرنده روی صفحه برای نمایش بزرگ هر تصویر در تلویزیون، لپ‌تاپ یا تبلت استفاده کنید.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "9 یا 16 مربع در هر کارت و تعداد بازیکنان را انتخاب کنید.",
+      "روی «چاپ کارت‌ها» ضربه بزنید. هر کارت متفاوت است.",
+      "تماس گیرنده را روی یک صفحه بزرگ باز کنید. روی \"تصویر بعدی\" ضربه بزنید تا هر تصویر با نام خود نشان داده شود.",
+      "بازیکنان تصویر مطابق روی کارت خود را با یک سکه، دکمه یا نشانگر می پوشانند.",
+      "هر کسی که یک ردیف یا کل کارت را پر می کند، تشویق می شود. هیچ بازنده ای در این نسخه وجود ندارد: به بازی ادامه دهید تا همه یک خط داشته باشند."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "از ژتون های بزرگ مانند چکرز یا درب بطری استفاده کنید. برداشتن دکمه های کوچک ممکن است سخت باشد.",
+      "تصویر را نام ببرید و چیزی در مورد آن بگویید: \"یک قایق بادبانی. چه کسی با قایق بیرون رفته است؟\"",
+      "افرادی را که به سختی می توانند نزدیک به صفحه نمایش را ببینند، بنشینید و کمک کنندگان را با بازیکنانی که به آنها نیاز دارند جفت کنید.",
+      "نه مربع برای اکثر گروه ها کافی است. جلسه را حدود 20 تا 30 دقیقه نگه دارید."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "چگونه می توانم یکنوع بازی شبیه لوتو را در خانه مراقبت اجرا کنم؟",
+        "a": "برای هر بازیکن یک کارت چاپ کنید، تماس‌گیرنده را روی بزرگ‌ترین صفحه‌ای که دارید قرار دهید و به آرامی عکس‌ها را صدا بزنید و هر کدام را نام ببرید. بازی کنید تا زمانی که همه یک خط داشته باشند، بنابراین هیچ کس از قلم نیفتد."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "آیا چاپ رایگان است؟",
+        "a": "بله. برای استفاده شخصی یا گروهی هر تعداد کارت را که نیاز دارید چاپ کنید."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "آیا مردم می توانند بدون خواندن بازی کنند؟",
+        "a": "بله. هر مربع یک تصویر بزرگ است که نام آن در زیر برای کسانی که کلمات را دوست دارند، است."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "تنفس آرام",
+    "seoTitle": "مکث تنفس آرام برای سالمندان و مراقبان",
+    "h1": "مکث تنفس آرام",
+    "description": "مکث تنفسی آرام و آرام برای به اشتراک گذاشتن: یک دایره ملایم رشد می کند و برای شش نفس کوچک می شود. شما آن را شروع می کنید، و می توانید هر زمان که بخواهید متوقف شوید.",
+    "short": "یک دایره آهسته برای نفس کشیدن همراه با. شروع کنید و زمانی که دوست دارید متوقف شوید.",
+    "players": "1 یا 2 نفر",
+    "intro": "گاهی اوقات بهترین فعالیت یک مکث آرام است. روی «شروع» ضربه بزنید، سپس با بزرگ شدن دایره نفس بکشید و با کوچک شدن آن بیرون بیاورید. سرعت آهسته تر یا سریعتر را انتخاب کنید. این یک درمان نیست، فقط یک لحظه صلح آمیز برای به اشتراک گذاشتن است.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "راحت کنار هم بنشینید.",
+      "یک سرعت را انتخاب کنید: آهسته یا ملایم.",
+      "روی \"شروع\" ضربه بزنید. در حالی که دایره رشد می کند نفس بکشید و در حالی که کوچک می شود بیرون دهید.",
+      "پس از شش نفس به خودی خود متوقف می شود یا هر زمان که دوست داشتید روی \"توقف\" ضربه بزنید."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "در صورت استقبال، دستان خود را بگیرید یا دستی را روی بازوی فرد قرار دهید.",
+      "هرگز اصرار نکنید. اگر آنها ترجیح می دهند تماشا کنند، خوب است.",
+      "اگر کسی مشکلات تنفسی دارد، به طور طبیعی نفس بکشید و به سادگی دایره را تماشا کنید. در مورد هر گونه نگرانی تنفسی از پزشک بپرسید."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "آیا این یک تمرین تنفسی پزشکی است؟",
+        "a": "نه. این یک مکث ساده و اختیاری برای آرامش و همراهی است. این یک درمان برای اضطراب یا هر بیماری نیست. در مورد نگرانی های سلامتی با یک پزشک صحبت کنید."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "آیا دایره بدون اینکه من آن را شروع کنم حرکت می کند؟",
+        "a": "خیر. تا زمانی که روی Start ضربه بزنید، هیچ چیز حرکت نمی‌کند، و پس از شش نفس یا با ضربه زدن به Stop متوقف می‌شود. اگر دستگاه شما برای کاهش حرکت تنظیم شده باشد، کلمات بدون بزرگ شدن دایره تغییر می کنند."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "آیا رایگان است و آیا باید ثبت نام کنم؟",
+        "a": "بله، رایگان است و هیچ حساب کاربری، ثبت نام یا دانلودی وجود ندارد. در مرورگر وب روی تلفن، تبلت یا رایانه کار می کند."
       }
     ]
   }

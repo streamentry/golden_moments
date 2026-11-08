@@ -401,7 +401,7 @@
       "seoTitle": "Utskrift: gratis demensspill på nett",
       "description": "Et utskriftsvennlig ark på én side for familier og pårørende om gratis, rolige bildespill for personer som lever med demens, til støttegrupper og informasjonsmapper.",
       "crumb": "Ark du kan skrive ut",
-      "lede": "Skriv ut denne siden til en støttegruppe, en informasjonsmappe eller kjøleskapsdøren. Bruk utskriftskommandoen i nettleseren. Menyer og knapper kommer ikke med på utskriften.",
+      "lede": "Skriv ut denne siden til en støttegruppe, en informasjonsmappe eller kjøleskapsdøren. Bruk utskriftskommandoen i nettleseren.",
       "introHtml": "<p>Store bilder, enkle ord og ingenting å mislykkes med. Gratis på mobil, nettbrett eller datamaskin, uten registrering, reklame, tidtaking eller poeng. Sitt side om side og bytt på.</p>",
       "gamesTitle": "Spill å prøve sammen",
       "restHtml": "<h2>Noen tips</h2><ul><li>Velg et tidspunkt på dagen da personen er på sitt beste.</li><li>Begynn med den enkleste innstillingen. Fire brikker er mer enn nok.</li><li>Snakk om bildene. Samtalen er ofte den beste delen.</li><li>Stopp mens det fortsatt føles hyggelig. Å avslutte tidlig er et godt resultat.</li></ul><h2>Også på nettstedet</h2><ul><li>Gratis utskrifter: ordsøk i stor skrift, fargeleggingsark, samtalekort og bildebingo.</li><li>Aktivitetsideer for hver fase, og veiledninger om å spille sammen og om å ta vare på deg selv.</li></ul><p class=\"muted\">Til glede og tid sammen. Ikke medisinsk råd, en test eller en behandling. Golden Moments er utgitt av Cloudjet Solutions Pte. Ltd.</p>"
@@ -411,7 +411,7 @@
       "seoTitle": "Gratis aktiviteter for demens til sykehjem og grupper",
       "description": "Hvordan sykehjem, dagsentre, bibliotek og støttegrupper bruker de gratis demensspillene våre, med tekst du kan bruke for å legge oss til i en ressursliste.",
       "crumb": "For organisasjoner",
-      "lede": "Alt på dette nettstedet er gratis å bruke sammen med beboere, medlemmer og brukere, uten konto, lisens eller avgift. Denne siden forklarer hva som finnes her og hvordan du kan dele det.",
+      "lede": "Alt på dette nettstedet er gratis å bruke sammen med beboere, medlemmer og brukere, uten konto, lisens eller avgift.",
       "shortText": "{name}: gratis, rolige bildespill og veiledninger om aktiviteter for personer som lever med demens, og for pårørende. Uten registrering, tidtaking eller poeng.",
       "longText": "{name} ({domain}) tilbyr {count} gratis nettleserspill laget for personer som lever med demens, blant annet bildepar der bildene blir stående synlige, et enkelt puslespill, sortering, kjente ordtak og bildebingo med kort du kan skrive ut. Det finnes ingen konto, reklame, tidtaking eller poeng. Nettstedet har også veiledninger på enkelt språk om aktiviteter for hver fase av demens, som viser til National Institute on Aging og Alzheimer's Association.",
       "useTitle": "Hva organisasjoner kan bruke",

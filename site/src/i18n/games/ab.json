@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Асахьа ҩыџьа",
+    "seoTitle": "Адеменциазы аиқәшәаратә хәмарра: Асахьа ҩыџьа",
+    "h1": "Асахьа ҩыџьа: ҟәымшәышәла аиқәшәаратә хәмарра",
+    "description": "Адеменциа змоу ауаа рзы ихәыҷу, иҟәымшәышәу аиқәшәаратә хәмарра. Асахьа дуқәа убарҭоуп, атаимер ма ахәшьара ыҟаӡам, насгьы 4-12 каҵкәырк алхтәуп.",
+    "short": "Иԥшаатәуп еиԥшу асахьақәа ҩба. Асахьақәа аарԥшра иаанхар рылшоит.",
+    "players": "1 мамзаргьы 2 уаҩы, еидгыланы",
+    "intro": "Асахьа иақәыӷәӷәа, нас уи иақәшәо ​​асахьа иақәыӷәӷәа. Асахьақәа стандартла иаарԥшхоит, убри аҟнытә акгьы угәалашәом. Ҩ-сахьак еицныҟәо урҭ ахьтәы ҳәааи агәаҭаратә дыргаи роуеит.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Иалышәх шаҟа каҵкәыр шәхы иашәырхәаша. Аԥшь-кафельк ҭынч ҭыԥуп уалагарц азы.",
+      "Иарбанзаалак асахьа иақәыӷәӷәа. Ахьтәы ҳәаа аиуеит.",
+      "Еиԥшу асахьа иақәыӷәӷәа. Ҩыџьа еицынхоит агәаҭаратә дырга рыҭаны.",
+      "Аҩ-сахьак еиԥшымзар, цәгьарак ҟалаӡом. Уаныхиоу даҽазнык уақәыӷәӷәа.",
+      "\"Иҵәаху асахьа\" аашәырк, шәҩыџьагьы аклассикатә версиа шәгәаԥхозар мацара."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Асахьақәа рыхьӡқәа рыбжьы рдуны шәеицәажәа: \"Ачаи ҟаԥшь. Шәчаи аҿы аӡы шәжәуама?\"",
+      "Узыхылаԥшуа ауаҩы ақәыӷәӷәара ҟаиҵартә иҟаиҵа, уи аамҭа аҭаххаргьы. Урҭ рзы ақәыӷәӷәара аасҭа аарԥшра.",
+      "Ԥшь-кафельк рыла уҟазааит, ибзианы иубонаҵы. Еиҳаны акаҵкәырқәа алхроуп, ахаангьы ҩаӡарак ахьынӡанаӡо.",
+      "Агәахәара аныҟоу алгара. Хәмаррак уснагӡатәуп."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Иҟоума атаимер ма ахәшьара?",
+        "a": "Мап. Иҟам асааҭ, ахәшьара, аԥхьаӡага аныҟәара ма ацәыӡра. Уара ианакәызаалакгьы уааҭгылар улшоит, насгьы амҩабжараҿы уаангылар зегь рыла ибзиоу мҩоуп."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Избан асахьақәа лабҿаба изыҟоу?",
+        "a": "Асахьақәа убарҭаны рыҟазаара ахәмарра агәалашәара аасҭа аԥшреи аиқәшәареи рахь иианагоит. Аӡәырҩы ауаа уи еиҳа иҭынчуп. Уара иуҭахызар, зныктәи ақәыӷәӷәарала иҵәаху асахьақәа рахь уиасыр улшоит."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ихәыда-ԥсадоуп, насгьы схы ҭасыҩыр акәу?",
+        "a": "Ааи, уи хәыда-ԥсадоуп, насгьы аккаунт, аҽҭаҩра ма ачҳара ыҟаӡам. Уи аус ауеит ауеб-браузер аҿы аҭел, апланшет, ма акомпиутер аҿы."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Иҳалшома ҳҭаацәаратә фотосахьақәа ҳхы иаҳархәар?",
+        "a": "Ааи. Иԥышәа Апатреҭқәа ҩыџьа, уи шәхыхәҭа аҟынтәи афотосахьақәа ралхра алшара шәнаҭоит. Апатреҭқәа убраузер аҿы иаанхоит, насгьы иҭагалаӡом."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Иԥшаатәуп еиԥшу",
+    "seoTitle": "Асахьа еиԥшу аԥшаара: Имариоу адеменциатә хәмарра",
+    "h1": "Асахьа еиԥшу аԥшаара",
+    "description": "Сахьак хыхь, ҩба-ԥшьба ҵаҟа. Иеиԥшу ақәыӷәӷәара. Адеменциа змоу ауаа рзы иҭынчу, ихәыҷу асахьатә хәмарра, атаимер змам.",
+    "short": "Хыхь иҟоу асахьа уахәаԥшны ҵаҟа иаагоу асахьа уақәыӷәӷәа.",
+    "players": "1 мамзаргьы 2 уаҩы",
+    "intro": "Аекран ахыхь асахьа заҵәык ыҟоуп. Уи аҵаҟа ҩба, хԥа, ԥшьба сахьа ҭыхуп. Иеиԥшу ақәыӷәӷәара. Уи знык ала имариоу алхроуп, ацәажәаразы аҭыԥ рацәаны иҟоуп.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Иалышәх ҩба, хԥа, ԥшь-сахьак рҟынтә иалышәхырц. Ҩба зегь реиҳа имариоуп.",
+      "Хыхь иаагоу асахьа шәеицны шәахәаԥш.",
+      "Ҵаҟа иаагоу асахьа иақәыӷәӷәа. Уи агәаҭарала иарбоуп, насгьы ажәа ҟәандақәак рыла.",
+      "Даҽа ҭыхымҭак ақәыӷәӷәара ҟалазар, ахәмарра уи ахьӡ анаҭоит, насгьы иазыԥшуеит. Уаамҭа алх.",
+      "Даҽакы азы уаназыхиоу \"Анаҩстәи асахьа\" ақәыӷәӷәара."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Асахьақәа зегьы шәрылацәажәа, иалышәхаанӡа: апшьықәа, аформақәа, иахьыжәбо.",
+      "Ҩ-хәҭак \"имариам\". Ахықәкы уадаҩраӡам, аха угәы иахәо аамҭоуп.",
+      "Ақәыӷәӷәара уадаҩзар, ауаҩы иааирԥшыр илшоит, уара урҭ рзы уқәыӷәӷәар улшоит."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Иҟоума атаимер ма ахәшьара?",
+        "a": "Мап. Иҟам асааҭ, ахәшьара, аԥхьаӡага аныҟәара ма ацәыӡра. Уара ианакәызаалакгьы уааҭгылар улшоит, насгьы амҩабжараҿы уаангылар зегь рыла ибзиоу мҩоуп."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Иҟалозеи ииашам асахьа ақәыӷәӷәара?",
+        "a": "Игәамԥхо акгьы ыҟам. Иҟам абжьы, аџьар ҟаԥшь, мамзаргьы аҵысра. Ахәмарра иақәыӷәӷәаз асахьа ахьӡ анаҭоит, насгьы анаҩстәи ақәыӷәӷәара иазыԥшуп."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ихәыда-ԥсадоуп, насгьы схы ҭасыҩыр акәу?",
+        "a": "Ааи, уи хәыда-ԥсадоуп, насгьы аккаунт, аҽҭаҩра ма ачҳара ыҟаӡам. Уи аус ауеит ауеб-браузер аҿы аҭел, апланшет, ма акомпиутер аҿы."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Агәылшьап аиқәшәара",
+    "seoTitle": "Адеменциазы агәылшьап аиқәшәаратә хәмарра: Ҳәарада Онлаин",
+    "h1": "Агәылшьап аиқәшәара: асахьатә хәмарра ҟәымшәышә",
+    "description": "Ахыхь агәылшьап еиқәаҵәа, ҵаҟа ҩба-ԥшьба асахьа. Агәылшьап ҟазҵо асахьа иақәыӷәӷәа. Адеменциазы иҟәымшәышәу, иҭынчу агәылшьап аиқәшәаратә хәмарра, атаимер змам.",
+    "short": "Агәлыбзиа уахәаԥшны уи ҟазҵо асахьа уақәыӷәӷәа.",
+    "players": "1 мамзаргьы 2 уаҩы",
+    "intro": "Агәылшьапқәа реиқәшәара еицырдыруа усуп икьыԥхьу аусуратә бӷьыцқәа рҟынтә, ара асахьа дуқәа рыла икьыԥхьтәу акгьы ыҟам. Аекран ахыхь агәылшьап ԥшқа ыҟоуп, ҩба, хԥа, ԥшь-сахьак ҵаҟа иазыԥшуп. Агәылшьап ҟазҵо иақәыӷәӷәа. Авелосипед, аамҭацәгьа, ачаиҿаҳәага реиԥш иҟоу аформақәа рылацәажәара мариоуп.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Иалышәх ҩба, хԥа, ԥшь-сахьак рҟынтә иалышәхырц. Ҩба зегь реиҳа имариоуп.",
+      "Шәеицны агага шәахәаԥш. Иарбан формау? Иҳаракума, игьежьума?",
+      "Агәылшьап ҟазҵо асахьа иақәыӷәӷәа. Уи ахьӡ ааԥшуеит ашәшьыра ҵаҟа.",
+      "Даҽа ҭыхымҭак ақәыӷәӷәара ҟалазар, ахәмарра уи ахьӡ анаҭоит, насгьы иазыԥшуеит. Уаамҭа алх.",
+      "Еиқәыӷәӷәа \"Анаҩстәи агәлыбзиа\" даҽакы уаназыхиоу."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Агәылшьап аконтур нацәала ианышәҵа, насгьы ашәагаа шәалацәажәа.",
+      "Иахьа агәылшьапқәа ӷәӷәаны иубозар, асахьақәа ахьеиԥшу еиԥшу аԥшаара ахь ииастәуп.",
+      "Асахьа анышәыԥшаалак шәалацәажәа: \"Ҳара ус еиԥш иҟоу аамҭацәгьа ҳаман.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Иҟоума атаимер ма ахәшьара?",
+        "a": "Мап. Иҟам асааҭ, ахәшьара, аԥхьаӡага аныҟәара ма ацәыӡра. Уара ианакәызаалакгьы уааҭгылар улшоит, насгьы амҩабжараҿы уаангылар зегь рыла ибзиоу мҩоуп."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Агәлыбзиа аиқәшәара бзиоума адеменциа змоу ауаа рзы?",
+        "a": "Уи џьоукы рзы ихәарҭоу, имариоу усуп, еиҳарак раԥхьатәи астадиақәа рҿы. Ажәақәа раасҭа аформақәа реилкаара мариоуп. Уи аԥышәара акәымкәа, агәырӷьареи аицәажәареи рзы ауп, насгьы адеменциа ахәышәтәӡом, мамзаргьы иамырццакуеит. Уи шәгәы канажьуазар, шәҽазышәшәа Аԥшаара, мамзаргьы асахьақәа шәеицрыхәаԥш."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Иҟалозеи ииашам асахьа ақәыӷәӷәара?",
+        "a": "Игәамԥхо акгьы ыҟам. Иҟам абжьы, аџьар ҟаԥшь, мамзаргьы аҵысра. Ахәмарра иақәыӷәӷәаз асахьа ахьӡ анаҭоит, насгьы анаҩстәи ақәыӷәӷәара иазыԥшуп."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ихәыда-ԥсадоуп, насгьы схы ҭасыҩыр акәу?",
+        "a": "Ааи, уи хәыда-ԥсадоуп, насгьы аккаунт, аҽҭаҩра ма ачҳара ыҟаӡам. Уи аус ауеит ауеб-браузер аҿы аҭел, апланшет, ма акомпиутер аҿы."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Еицеилыԥшаатәуп",
+    "seoTitle": "Адеменциазы аилыԥшааратә хәмарра: Аилыԥшаара еицны",
+    "h1": "Еицырԥшаатәуп: асахьақәа реилыԥшааратә усура",
+    "description": "Асахьа иақәыӷәӷәа, нас иаҵанакуа акәалаԥ иақәыӷәӷәа: ачысмаҭәа ма абаҳча, ашәыр ма аԥстәқәа. Адеменциа змоу ауаа рзы иҭынчу, ихәыҷу аилыхратә усура.",
+    "short": "Асахьақәа зегьы ркәалаԥ иҭажәгал: ачысмаҭәа ма абаҳча, уҳәа убас иҵегьы.",
+    "players": "1 мамзаргьы 2 уаҩы",
+    "intro": "Аилыԥшаара еицырдыруа, угәы ҟазҵо есыҽнытәи усуп, ачысмаҭәақәа рышьҭаҵара ма ашьапылампылқәа реиқәыршәара реиԥш. Асахьа иақәыӷәӷәа, нас иахьахәҭоу акәалаԥ иақәыӷәӷәа. Иҟам аццакра, насгьы ииашам амҩа.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Иалышәх атема: ачысмаҭәеи абаҳчеи, ашәырқәеи аԥстәқәеи, мамзаргьы аҩни аныҟәарақәеи.",
+      "Асахьа иақәыӷәӷәа. Ахьтәы ҳәаа аиуеит.",
+      "Иаҵанакуа акәалаԥ иақәыӷәӷәа. Асахьа уи акәалаԥ ахь инеиуеит.",
+      "Аҩбатәи акәалаԥ иаҵанакуазар, ахәмарра ҟәымшәышәла иҳәоит, иагьазыԥшуеит.",
+      "Асахьақәа зегьы еилыхны ианыҟалалак, шәеицны акәалаԥқәа шәрыхәаԥш."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Аԥсҭазаараҿы лассы-лассы ииашам аҭакқәа ыҟаӡам. Аӡәы аӡыҭра ачысмаҭәаҿы иҟоуп иҳәозар, избан ҳәа уиазҵаа. Уара ажәабжь бзиа уоуеит.",
+      "Асахьақәа шәхы иашәырхәа: \"Ишәааӡазеи шәбаҳчаҿы?\"",
+      "Иҵабыргу аобиектқәа реилыԥшаара, агаӡақәеи авилкақәеи реиԥш, мамзаргьы агәыҵәҟьақәа ԥштәыла, аекран аҟынтәи ашьҭаҵара бзиоуп."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Иҟоума атаимер ма ахәшьара?",
+        "a": "Мап. Иҟам асааҭ, ахәшьара, аԥхьаӡага аныҟәара ма ацәыӡра. Уара ианакәызаалакгьы уааҭгылар улшоит, насгьы амҩабжараҿы уаангылар зегь рыла ибзиоу мҩоуп."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Избан аилыԥшаара?",
+        "a": "Аӡәырҩы ауаа аилыԥшаара ргәаԥхоит, избанзар уи ахәарҭа злоу, еицырдыруа усуп ҳәа ргәы иаанагоит. Уахьцалакгьы асахьақәа рылацәажәара мариоуп."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ихәыда-ԥсадоуп, насгьы схы ҭасыҩыр акәу?",
+        "a": "Ааи, уи хәыда-ԥсадоуп, насгьы аккаунт, аҽҭаҩра ма ачҳара ыҟаӡам. Уи аус ауеит ауеб-браузер аҿы аҭел, апланшет, ма акомпиутер аҿы."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Асахьатә пазл",
+    "seoTitle": "Адеменциазы имариоу аԥышәа: 4 мамзаргьы 9 ҟәаҟәа",
+    "h1": "Асахьатә пазл: имариоу аџьигса",
+    "description": "Адеменциа змоу ауаа рзы имариоу онлаин jigsaw: 4 мамзаргьы 9 ҟәаҟәа дуқәа, асахьа зегьы убаратәы иаанхоит, насгьы ҩ-ҟәаҟәак уақәыӷәӷәоит урҭ рыԥсахразы.",
+    "short": "Ҩ-ҟәыршак еиқәыӷәӷәа, асахьа зегьы ҟалаанӡа урҭ рыԥсахразы.",
+    "players": "1 мамзаргьы 2 уаҩы",
+    "intro": "Аҩызаратә сахьа ԥшьба-жәба ҟәаҟәа дуқәаны иԥҟаны еиладырҩашьоит. Асахьа зегьы мҩақәҵагас иубарҭоуп. Акы иақәыӷәӷәа, нас даҽакы, нас рҭыԥқәа рыԥсахуеит. Аҭагалара аҭахӡам.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Иалышәх асахьа 4 мамзаргьы 9 ҟәша. Аԥшьбатәи алагамҭа ҟәымшәышәуп.",
+      "Хыхь иаагоу асахьа зегьы шәахәаԥш.",
+      "Аҟәырҷахак шәақәыӷәӷәа, нас иахьцаша аҭыԥ шәақәыӷәӷәа. Аҩ-ҟәырҷахак еиҭныԥсахуеит.",
+      "Иахәҭоу аҭыԥ аҿы иҟоу аҟәырҷахқәа аҵәаӷәа хәыҷы роуеит.",
+      "Асахьа зегьы аныҟалалак, шәеицгәырӷьала, нас даҽакы алышәх."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Ҩ-ҟәыршак рықәыӷәӷәара урҭ рыԥсахразы еиҳа имариоуп, аӡәырҩы рзы аҳәазара аасҭа.",
+      "Асахьа еизакны ианааилак шәалацәажәа: \"Уаҟа ахыбра ҟаԥшь ыҟоуп.\"",
+      "12-24 ҟәаҟәа дуқәа змоу амҿтәы jigsaw ҵабыргыҵәҟьа аишәа аусура бзиоуп."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Иҟоума атаимер ма ахәшьара?",
+        "a": "Мап. Иҟам асааҭ, ахәшьара, аԥхьаӡага аныҟәара ма ацәыӡра. Уара ианакәызаалакгьы уааҭгылар улшоит, насгьы амҩабжараҿы уаангылар зегь рыла ибзиоу мҩоуп."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Аҟәырҷахқәа сҳәазар акәу?",
+        "a": "Мап. Акы иақәыӷәӷәа, нас даҽакы иақәыӷәӷәа, насгьы рҭыԥқәа рыԥсахуеит. Уи еиҳа имариоуп анапы ҵысуа ма аекран хәыҷ аҿы."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ихәыда-ԥсадоуп, насгьы схы ҭасыҩыр акәу?",
+        "a": "Ааи, уи хәыда-ԥсадоуп, насгьы аккаунт, аҽҭаҩра ма ачҳара ыҟаӡам. Уи аус ауеит ауеб-браузер аҿы аҭел, апланшет, ма акомпиутер аҿы."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Ажәаԥҟа алгара",
+    "seoTitle": "Ажәаԥҟа алгара: Аԥааимбаражәақәа рыхәмарра аиҳабацәа рзы",
+    "h1": "Ажәа алгара",
+    "description": "Еицырдыруа америкатәи ажәақәа, аҵыхәтәантәи ажәа зцәыӡыз, иаҳҳәап \"Капеик еиқәырханы иҟоуп ___\". Алхра шәақәыӷәӷәа, ма аҵыхәтәа аарԥш, нас уи шәалацәажәа.",
+    "short": "Еицырдыруа ажәақәа шәеицырҭәы, нас урҭ шәрылацәажәа.",
+    "players": "1, 2 мамзаргьы агәыԥ",
+    "intro": "Ажәытә ажәақәа лассы-лассы рыԥсы ҭанаҵы еицырдыруеит. Карточкацыԥхьаӡа иаанарԥшуеит еицырдыруа ажәаԥҟа, аҵыхәтәантәи ажәа ыҟам, х-хәҭак, насгьы \"Аҵыхәтәа аарԥшра\" ҳәа агәыҵха. Ажәабжь анҵәамҭазы, ҟәымшәышәла азҵаара ацәажәара угәазҭанаҵоит.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Шәыбжьы рдуны шәеицаԥхьа ажәаԥҟа.",
+      "Ианҵәо ажәа иақәыӷәӷәа, мамзаргьы \"Аҵыхәтәа аарԥшра\" иақәыӷәӷәа.",
+      "Ажәа зегьы даҽазнык шәаԥхьа, насгьы аҳәара шәхы иархәаны шәалацәажәа.",
+      "Уаныхиоу \"Анаҩстәи ажәа\" еиқәыӷәӷәа."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Ҳәаа змамкәа шәаԥхьа, насгьы аҵыхәтәантәи ажәа аԥхьа ааҭгылара ҟашәҵа. Лассы-лассы ауаа уажәа алгаанӡа ирҳәоит.",
+      "Аӡәы даҽа ҵыхәтәак ииҭозар, уи гәахәара дула ижәба. Ажәаԥҟақәа рверсиақәа ҭаацәарала, ма регионла еиԥшым.",
+      "Гәыԥк аҿы аӡәы даԥхьоит, зегьы анҵәамҭаҿы еицлабуеит."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Иҟоума атаимер ма ахәшьара?",
+        "a": "Мап. Иҟам асааҭ, ахәшьара, аԥхьаӡага аныҟәара ма ацәыӡра. Уара ианакәызаалакгьы уааҭгылар улшоит, насгьы амҩабжараҿы уаангылар зегь рыла ибзиоу мҩоуп."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Иҟалозеи даҽа жәак алҳхыр?",
+        "a": "Ахәмарра иаабац аҵыхәтәа аанарԥшуеит, насгьы аицәажәарахь ииасуеит. Ахәшьара ыҟаӡам, даҽа ҭаккгьы ҟалоит."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ихәыда-ԥсадоуп, насгьы схы ҭасыҩыр акәу?",
+        "a": "Ааи, уи хәыда-ԥсадоуп, насгьы аккаунт, аҽҭаҩра ма ачҳара ыҟаӡам. Уи аус ауеит ауеб-браузер аҿы аҭел, апланшет, ма акомпиутер аҿы."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Ажәа дуқәа рыԥшаара",
+    "seoTitle": "Акьыԥхьра ду Ажәа Аԥшаара Адеменциа, Акьыԥхьра",
+    "h1": "Ажәа дуқәа рыԥшаара",
+    "description": "Иқәыԥшу ауааи адеменциа змоу ауааи рзы ҳәарада ажәа дуқәа рыԥшаара. Ажәақәа маҷуп, анбан дуқәа, ажәақәа ҵаҟа-ҵаҟа мацара. Онлаин ахәмарра ма акьыԥхьра.",
+    "short": "Аҩыра дуқәа, ажәақәак, еихданы, ҵаҟа мацара. Икьыԥхьтәуп уигьы.",
+    "players": "1 мамзаргьы 2 уаҩы",
+    "intro": "Аҭаӡҩыра хәыҷы, ҩыра дуқәала, ажәақәак рыла, зегьы еихданы ма ҵаҟа иаԥхьо. Ажәа актәи анбан, нас аҵыхәтәантәи анбан иақәыӷәӷәа. Ақьаад еиҳа иуҭахума? Апазл ҿыц кьыԥхьтәуп зныктәи ақәыӷәӷәарала.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Иалышәх атемеи аҭаӡҩыра ашәагааи.",
+      "Ажәақәа рсиа шәахәаԥш. Ажәақәа рыԥхьара (арӷьарахьтә арыӷьарахь) мамзаргьы ҵаҟа (хыхьынтә ҵаҟа).",
+      "Ажәа актәи анбан иақәыӷәӷәа, нас аҵыхәтәантәи анбан иақәыӷәӷәа.",
+      "Иԥшаау ажәа алкаахоит, насгьы ахьӡынҵа иахҩоуп.",
+      "Еиқәыӷәӷәа \"Принт этого пазла\" ақьаад аҿы акалам ма маркерла ахәмарразы."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Ахьӡынҵаҿы иҟоу ажәа аарԥшны, уи актәи анбан еицыԥшаа.",
+      "Ақьаад аҿы, ацәыргақәҵа акра еиҳа имариоуп, акалам аасҭа.",
+      "Атематә ажәақәа рылацәажәара. Ашәыр ажәақәа ԥсабаратә мҩоуп аҭагалара, ачашьа, мамзаргьы аџьармыкьақәа ргәалашәарақәа рахь."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Иҟоума атаимер ма ахәшьара?",
+        "a": "Мап. Иҟам асааҭ, ахәшьара, аԥхьаӡага аныҟәара ма ацәыӡра. Уара ианакәызаалакгьы уааҭгылар улшоит, насгьы амҩабжараҿы уаангылар зегь рыла ибзиоу мҩоуп."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Исылшома ажәа аԥшаара акьыԥхьра?",
+        "a": "Ааи. Еиқәыӷәӷәа \"Принт этого пазла\" уажәтәи аҭаӡҩыра дула акьыԥхьразы, ҵаҟа ажәақәа рсиа аманы. Аԥышәа ҿыцқәа зегьы еиԥшым."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ихәыда-ԥсадоуп, насгьы схы ҭасыҩыр акәу?",
+        "a": "Ааи, уи хәыда-ԥсадоуп, насгьы аккаунт, аҽҭаҩра ма ачҳара ыҟаӡам. Уи аус ауеит ауеб-браузер аҿы аҭел, апланшет, ма акомпиутер аҿы."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Адаҟьақәа рышәра",
+    "seoTitle": "Адеменциа змоу аиҳабацәа рзы ашәыгатә даҟьақәа (Хәыда-ԥсада)",
+    "h1": "Адаҟьақәа рышәра",
+    "description": "Имариоу, зықәрахь инеихьоу рзы ашәыгатә даҟьақәа, аҭыԥ дуқәа змоу: ԥштәык иақәыӷәӷәа, нас асахьа иақәыӷәӷәа.",
+    "short": "Иақәыӷәӷәа ԥштәык, нас асахьа ахәҭак. Адаҟьақәагьы кьыԥхьтәуп.",
+    "players": "1 мамзаргьы 2 уаҩы",
+    "intro": "Идуу, имариоу аформақәа змоу адаҟьақәа: ачысмаҭәа иҭоу ашәҭ, аҩны, ачаиԥҳал, аԥырԥиаԥ, аӷба. Аԥштәы шәақәыӷәӷәа, нас асахьа ахәҭак шәақәыӷәӷәа, уи шәҭәырц азы. Иҟам ииашам аԥштәқәа.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Иалышәх адаҟьа.",
+      "Аԥштәы иақәыӷәӷәа. Пшәыцыԥхьаӡа рыхьӡқәа ануп.",
+      "Асахьа ахәҭак уақәыӷәӷәа, уи аԥштәы ала иҭәырц азы.",
+      "Угәы ианакәызаалакгьы иԥсахтәуп, даҽазнык иҭәны.",
+      "Иақәыӷәӷәа \"Ари адаҟьа акьыԥхьра\" ҭацәу адаҟьа азы, акаламқәа ма маркерқәа рыла ашәра азы."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Алхра рацәаны иҟазар, зегьы раасҭа ҩ-ԥштәык рыла иалхтәуп.",
+      "Аҵла ҟаԥшьқәеи амра шьацԥшшәқәеи ҳрыдыркылоит. Ари ԥштәыла агәахәара аиура ауп, аиашара акәӡам.",
+      "Икьыԥхьу адаҟьақәа рҿы еиҳа имариоу акраионқәа ма акраионқәа рыла ибзианы аус руеит."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Иҟоума атаимер ма ахәшьара?",
+        "a": "Мап. Иҟам асааҭ, ахәшьара, аԥхьаӡага аныҟәара ма ацәыӡра. Уара ианакәызаалакгьы уааҭгылар улшоит, насгьы амҩабжараҿы уаангылар зегь рыла ибзиоу мҩоуп."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Абарҭ адаҟьақәа рацәак ихәыҷума?",
+        "a": "Ҳара амультфильмқәа раасҭа иҭынчу, имариоу амаҭәарқәа ҳҭыхуан, убри аҟынтә адаҟьақәа зықәрахь инеихьоу ирзыманшәалоуп. Аформа дуқәа ашәыга рзымарианы иааныркылоит, ахәыҷы иеиԥшны иҟамҵакәа."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ихәыда-ԥсадоуп, насгьы схы ҭасыҩыр акәу?",
+        "a": "Ааи, уи хәыда-ԥсадоуп, насгьы аккаунт, аҽҭаҩра ма ачҳара ыҟаӡам. Уи аус ауеит ауеб-браузер аҿы аҭел, апланшет, ма акомпиутер аҿы."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Аицәажәаратә карточкақәа",
+    "seoTitle": "Адеменциа азы аицәажәара алагагақәа: Асахьатә карточкақәа",
+    "h1": "Аицәажәаратә карточкақәа",
+    "description": "Адеменциа змоу ауаа рзы ацәажәара ҟәымшәышә алагара зну асахьатә карточкақәа: аквизқәа ыҟам, аҭак иашақәа ыҟам. Аекран аҿы ахархәара ма акомплект зегьы акьыԥхьра.",
+    "short": "Иаарту, ҟәымшәышәла азҵаарақәа зну асахьатә карточкақәа. Авизинг ҟалаӡом.",
+    "players": "2 уаҩы мамзаргьы гәыԥк",
+    "intro": "Акарточкацыԥхьаӡа еицырдыруа асахьа ацәажәаразы иаарту ааԥхьара ацуп, иаҳҳәап, \"Иарбан ҳауатә ҭагылазаашьоу зегь реиҳа бзиа иубо?\" Ииашоу аҭакқәа ыҟам, насгьы иугәалашәо акгьы ыҟам. Иалышәх атема ма зегьы еилажәжәа.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Иалышәх атема, мамзаргьы ишәыхьча \"Акартақәа зегьы\".",
+      "Шәыбжьы рдуны азҵаара шәаԥхьаны асахьа шәеицахәаԥш.",
+      "Уазыӡырҩла, ухатә ҭак еиҭаҳәа, насгьы ажәахә еиҭаҳәа.",
+      "Уаныхиоу \"Анаҩстәи акарта\" ақәыӷәӷәара, ма угәы иаанаго акартак аҿы уаангыл.",
+      "Ақьаад еизгоу аԥҟаразы \"Акарточкақәа зегьы рыкьыԥхьра\" иақәыӷәӷәа."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Уаргьы азҵаара аҭак ҟаҵа. Уи аинтервью акәымкәа, ацәажәара еиԥш ухы убоит.",
+      "Ажәабжь шәацныҟәала, афактқәа ракәымкәа. Адетальқәа рҽырыԥсахыр, уи бзиоуп.",
+      "Акарточка лахьеиқәҵагоу акы ианыруазар, уи ацәанырра еилкааны, ҟәымшәышәла даҽа карточкак ахь уиас."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Избан \"Иугәалашәома...?\" азҵаарақәа?",
+        "a": "Агәынкылара ԥызшәо азҵаарақәа аԥышәара еиԥш ухы рбоит, насгьы уԥхашьоит. Иаарту ааԥхьарақәа иаҳҳәап \"Исаҳәа...\" зегьы рхы аладырхәыртә еиԥш, игәалашәо."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Акарточкақәа рыкьыԥхьра сылшома?",
+        "a": "Ааи. \"Акарточкақәа зегьы рыкьыԥхьра\" акомплект зегьы ҩыра дула икьыԥхьуеит, даҟьак аҟны акарточкақәа ԥыҭк, рыԥҟара иазыхианы."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ихәыда-ԥсадоуп, насгьы схы ҭасыҩыр акәу?",
+        "a": "Ааи, уи хәыда-ԥсадоуп, насгьы аккаунт, аҽҭаҩра ма ачҳара ыҟаӡам. Уи аус ауеит ауеб-браузер аҿы аҭел, апланшет, ма акомпиутер аҿы."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Афото ҩыџьа",
+    "seoTitle": "Аҭаацәаратә фотосахьақәа рҟынтәи еиқәшәо ​​ахәмарра ҟашәҵа",
+    "h1": "Афотосахьақәа ҩыџьа: Шәхатә фотосахьақәа еиқәшәыршәа",
+    "description": "Шәҭаацәаратә фотосахьақәа ҟәымшәышәла еиқәшәо ​​хәмаррак еиԥш иҟашәҵа. Иалышәх 2-6 ​​фотосахьа шәхыхәҭаҿы; урҭ убраузер аҿы иаанхоит, насгьы ахаангьы иҭагалаӡом.",
+    "short": "Шәхатә фотосахьақәа алхны еиқәшәыршәа. Акгьы шьҭыхӡам.",
+    "players": "2 уаҩы, еидгыланы",
+    "intro": "Уҭел, утаблет, ма укомпиутер аҟынтә ҩба-фба фотосахьа алх, урҭ еиқәшәо ​​хәмаррак еиԥшхоит, иубарҭоу асахьа дуқәа рыла. Апатреҭқәа ари адаҟьа аҩнуҵҟа мацара ауп иаарԥшу. Урҭ ҭагалаӡом, иҵәахӡом, еицаҳзеиҭарҳәаӡом, насгьы адаҟьа анааркуа иӡуеит.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Еиқәыӷәӷәа \"Афотосахьақәа алхтәуп\" насгьы ҩба-фба фотосахьак алхтәуп.",
+      "Фотосахьацыԥхьаӡа ҩынтә иаабоит. Акы еиқәыӷәӷәа, нас уи ҩыџьа еиқәыӷәӷәа.",
+      "Фотосахьак-фотосахьак ишаԥшаауа иалацәажәа.",
+      "Уус анҵәамҭазы, адаҟьа аарк ма \"Афотосахьақәа рыцқьара\" иақәыӷәӷәа. Акгьы ҵәахӡам."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Иалышәх агәырӷьара зҵоу, еицырдыруа амаҭәахәқәа рфотосахьақәа: аҩнытә ԥстәы, абаҳча, бзиа ижәбо аҭыԥ, ачара амш.",
+      "Аҭыԥқәеи амаҭәарқәеи рсахьа ҭыхра еиҳа имариоуп, ахаҿқәа раасҭа, насгьы ауаа рыхьӡқәа рыҳәара ақәыӷәӷәара рҽацәырыхьчоит.",
+      "Иԥсыз ауаа рфотосахьақәа ааншәыжь, иаалырҟьаны ргәырҩа рзааргар алшозар, урҭ ргәы шьҭырхуеит ҳәа шәзымдыруазар."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Сара сфотосахьақәа џьарак иҭарҵома?",
+        "a": "Мап. Адаҟьа убраузер аҿы иалухыз афотосахьақәа ирыԥхьоит, насгьы уекран аҿы иаанарԥшуеит. Урҭ ҳара ҳахь, мамзаргьы даҽаӡәы иахь идәықәҵаӡом, насгьы урҭ ыӡуеит адаҟьа ануаркуа ма даҽазнык ианҭауҵо."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Иҟоума атаимер ма ахәшьара?",
+        "a": "Мап. Иҟам асааҭ, ахәшьара, аԥхьаӡага аныҟәара ма ацәыӡра. Уара ианакәызаалакгьы уааҭгылар улшоит, насгьы амҩабжараҿы уаангылар зегь рыла ибзиоу мҩоуп."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Исылшома ахәмарра даҽазнык азы еиқәсырхар?",
+        "a": "Абраузер аҿы акәым, дизайнла, убри аҟнытә хатәы акгьы ҵәахӡам. iPhone азы ихәыҷу Golden Moments апрограмма иалху афотокопиақәа уиқәыршәагаҿы иаанхар алшоит."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Асахьатә бинго",
+    "seoTitle": "Адеменциа змоу аиҳабацәа рзы асахьатә бинго: Акьыԥхьра",
+    "h1": "Агәыԥқәа рзы асахьатә Бинго",
+    "description": "Агәынкылара ахьчареи аиҳабыратә гәыԥқәеи рзы ихәыҷымкәа икьыԥхьуа асахьатә бинго, аекран аҿы ааԥхьаҩ ду змоу.",
+    "short": "Акьыԥхьра зылшо асахьатә бинго картақәеи агәыԥқәа рзы аекран ду змоу ааԥхьаҩи.",
+    "players": "2-30 рҟынӡа агәыԥ",
+    "intro": "Аклассикатә бинго аԥхьаӡацқәа рҭыԥан асахьақәа рыла, убри аҟынтә аӡәгьы ашәҟәы хәыҷқәа рыԥхьара аҭахӡам. Иҷыдоу акартақәа ргәыԥ ԥхьажәга, нас аекран аҿы иҟоу ааԥхьаҩ шәхы иархәаны, асахьа зегьы дуны телевизорла, лаптопла, ма планшетла иаажәга.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Иалышәх 9 мамзаргьы 16 квадрат картак аҟны, насгьы шаҟаҩы ахәмарҩцәа ыҟоу.",
+      "Еиқәыӷәӷәа \"Акартақәа рыкьыԥхьра\". Акарточкақәа зегьы еиԥшым.",
+      "Аекран ду аҿы ааԥхьаҩ аарттәуп. Еиқәыӷәӷәа \"Анаҩстәи асахьа\" асахьа зегьы рыхьӡқәа рыла аарԥшразы.",
+      "Ахәмарцәа ркартаҿы иану асахьа амонета, агәыҵәҟьа ма маркерла ирҵәахуеит.",
+      "Ацәаҳәа, мамзаргьы акарта зегьы зҭәуа зегьы ргәы шьҭырхуеит. Ари версиаҿы ацәыӡқәа ыҟаӡам: зегьы ацәаҳәа рымазаанӡа ахәмарра шәаҟәымҵын."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Ажетон дуқәа рхархәара, иаҳҳәап, ачекерқәа ма аԥаҭлыкақәа рхықәқәа. Агәыҵәҟьа хәыҷқәа рыԥшаара уадаҩхар алшоит.",
+      "Асахьа ахьӡ ҳәаны, уи иазкны акы ҳәа: \"Аӷба. Иҟада ӷбала?\"",
+      "Аекран азааигәара абла зцәыцәгьоу ауаа ртәара, насгьы ацхырааҩцәеи урҭ зҭаху ахәмарҩцәеи еицыртәа.",
+      "Жә-квадратк агәыԥқәа реиҳарак рзы иазхоит. Асеанс 20-30 минуҭ рҟынӡа имҩаԥысла."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Ишԥасылшо ахылаԥшратә ҩны аҿы асахьатә бинго амҩаԥгара?",
+        "a": "Ахәмарҩы зегьы рзы карточкак ԥхьажәга, ааԥхьара ҟазҵо иреиҳау аекран аҿы дҭажәгал, насгьы асахьа ҳәаа змамкәа ааԥхьара ҟашәҵа, зегьы рыхьӡқәа рыҭаны. Зегьы ацәаҳәа рымазаанӡа шәхәмарла, аӡәгьы дҭамхарц азы."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Акьыԥхьра хәыда-ԥсадоуп?",
+        "a": "Ааи. Ишәҭаху акарточкақәа рацәаны ишәкьыԥхь, шәхатә ма гәыԥла шәхы иашәырхәарц азы."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Ауаа ԥхьамкәа ихәмаруама?",
+        "a": "Ааи. Аквадрат зегьы асахьа дууп, ажәақәа бзиа избо рзы ҵаҟа ахьӡ ануп."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Ҭынч аԥсыԥ агара",
+    "seoTitle": "Аиҳабацәеи ахылаԥшыҩцәеи рзы ҭынч аԥсыԥ агара",
+    "h1": "Ҭынч аԥсыԥ лагаратә пауза",
+    "description": "Ҭынч, ҭынч аԥсыԥ агаратә пауза еицаҳзеиҩшаразы: агьежь ҟәымшәышә еизҳауеит, насгьы еиҵахоит ф-ԥсыԥк рыла. Уара уалагоит, насгьы ианаҭаху уаҟәыҵыр улшоит.",
+    "short": "Аԥсыԥ агара азы ихәыҷу агьежь. Иануҭаху уалаганы уаҟәыҵ.",
+    "players": "1 мамзаргьы 2 уаҩы",
+    "intro": "Зны-зынла зегь раасҭа еиӷьу усуп ҭынч аҭакра. Еиқәыӷәӷәа \"Алагара\", нас агьежь еизҳацыԥхьаӡа аԥсыԥ ҭагаланы, еиҵахо ианалагалак аԥсыԥ ҭагала. Иалышәх еиҳа иҵаӷоу ма иццаку амҩа. Уи хәышәтәышьаӡам, аха ҭынчратә ҭагылазаашьоуп.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Иманшәаланы шәтәа.",
+      "Иалышәх амҩа: ихәыҷу ма иҟәымшәышәу.",
+      "Еиқәыӷәӷәа \"Алагара\". Агьежь еизҳацыԥхьаӡа аԥсыԥ ҭажәгала, насгьы иҭышәгала еиҵахо ианалагалак.",
+      "Фынтә аԥсыԥ анҭалалак ашьҭахь иара ахала иаангылоит, мамзаргьы иануҭаху \"Ааҭгылара\" ақәыӷәӷәара."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Ауаҩы инапқәа укыла, ма инапы иқәуҵа, уи угәы иахәозар.",
+      "Ахаангьы уақәымӷәӷәан. Урҭ рыхәаԥшра еиӷьыршьозар, уи бзиоуп.",
+      "Аӡәы аԥсыԥлагаратә уадаҩрақәа имазар, ишахәҭоу еиԥш аԥсыԥ лагара, насгьы агьежь уахәаԥшла. Аԥсыԥлагара иадҳәалоу ауадаҩрақәа рзы аҳақьым шәиазҵаа."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Ари амедицинатә ԥсыԥлагаратә мчыбжьума?",
+        "a": "Мап. Уи аҭынчреи аҩызареи рзы имариоу, иаҭахым аҭакра ауп. Уи агәҭынчымреи иарбанзаалак аҭагылазаашьа азы хәышәтәышьаӡам. Агәабзиара иадҳәалоу азҵаарақәа рзы аҳақьым шәиацәажәа."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Сара саламгакәа агьежь еиҭаҵуама?",
+        "a": "Мап. Акгьы ҵысӡом Алагара уақәыӷәӷәаанӡа, насгьы ф-ԥсык ашьҭахь ма Ааҭгылара уақәыӷәӷәаны иаангылоит. Ухы иаурхәо аҵысра армаҷразы иҟаҵазар, ажәақәа рҽырыԥсахуеит, агьежь еизҳаӡом."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ихәыда-ԥсадоуп, насгьы схы ҭасыҩыр акәу?",
+        "a": "Ааи, уи хәыда-ԥсадоуп, насгьы аккаунт, аҽҭаҩра ма ачҳара ыҟаӡам. Уи аус ауеит ауеб-браузер аҿы аҭел, апланшет, ма акомпиутер аҿы."
       }
     ]
   }
