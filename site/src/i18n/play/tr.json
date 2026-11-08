@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Sesli oku",
+      "stopReading": "Okumayı durdur",
       "region": "Oyun",
       "restart": "Yeniden başla",
       "soundOn": "Yumuşak sesler açık",

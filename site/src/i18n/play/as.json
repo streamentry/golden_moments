@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "উচ্চস্বৰে পঢ়ক",
+      "stopReading": "পঢ়া বন্ধ কৰক",
       "region": "খেল",
       "restart": "আকৌ আৰম্ভ কৰক",
       "soundOn": "মৃদু শব্দ চালু",

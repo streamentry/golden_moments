@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Lue ääneen",
+      "stopReading": "Lopeta lukeminen",
       "region": "Peli",
       "restart": "Aloita alusta",
       "soundOn": "Pehmeät äänet päällä",

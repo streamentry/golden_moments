@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "ਉੱਚੀ ਪੜ੍ਹੋ",
+      "stopReading": "ਪੜ੍ਹਨਾ ਬੰਦ ਕਰੋ",
       "region": "ਖੇਡ",
       "restart": "ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰੋ",
       "soundOn": "ਨਰਮ ਆਵਾਜ਼ਾਂ ਚਾਲੂ",

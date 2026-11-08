@@ -3,6 +3,7 @@ import type { PlayUi } from '../../i18n/play';
 import { localePath } from '../../i18n/locales';
 import { analyticsAvailable, once, track, trackPrint, type FeedbackAnswer } from '../../lib/track';
 import { Icon } from './Icon';
+import { ReadAloud } from './ReadAloud';
 import { hydrateSettings, settingsStore, useSound } from './settings';
 
 interface GameFrameProps {
@@ -54,6 +55,7 @@ export function GameFrame({ ui, lang, guidance, message, options, children, foot
     <section className="game" aria-label={ui.frame.region}>
       {options ? <div className="game__options">{options}</div> : null}
       <p className="game__guidance">{guidance}</p>
+      <ReadAloud ui={ui} lang={lang} text={guidance} />
       <div className="game__board" onClickCapture={markStarted}>
         {children}
       </div>
