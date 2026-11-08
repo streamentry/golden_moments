@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { SITUATIONS, SITUATION_BY_ID, type SituationId } from '../lib/today/situations';
-import { addNote, byDay, loadNotes, localDay, removeNote, removeNoteAriaLabel, saveNotes, type Note, type Outcome } from '../lib/today/notes';
+import { addNote, byDay, loadNotes, localDay, removeNote, removeNoteAriaLabel, saveNotes, toggleSituation, type Note, type Outcome } from '../lib/today/notes';
 import { sounds } from '../games/shared/sound';
 
 const OUTCOME_LABEL: Record<Outcome, string> = {
@@ -82,7 +82,7 @@ export function Today() {
                 aria-pressed={chosen === s.id}
                 onClick={() => {
                   sounds.tap();
-                  setChosen(s.id);
+                  setChosen((prev) => toggleSituation(prev, s.id));
                   setStatus('');
                 }}
               >
@@ -115,6 +115,17 @@ export function Today() {
             <a className="btn btn--quiet" href={situation.guide.href}>
               Read more: {situation.guide.label}
             </a>
+            <button
+              type="button"
+              className="btn btn--quiet"
+              onClick={() => {
+                sounds.tap();
+                setChosen(null);
+                setStatus('');
+              }}
+            >
+              Done reading
+            </button>
           </div>
 
           <h3 id="today-how">Later: how did it go?</h3>
@@ -128,6 +139,7 @@ export function Today() {
             maxLength={280}
             value={text}
             onChange={(e) => setText(e.target.value)}
+            placeholder="e.g., Playing music in the kitchen calmed things down"
           />
           <div className="btn-row" role="group" aria-labelledby="today-how">
             {(Object.keys(OUTCOME_LABEL) as Outcome[]).map((o) => (

@@ -32,7 +32,7 @@ const BANNED = [
   /\bdementia sufferers?\b/i,
 ];
 /** Context that makes a banned phrase acceptable (it is being denied or quoted as a question). */
-const ALLOWED_CONTEXT = /\b(no|none|unproven|not|never|nor|don[’']t|doesn[’']t|does not|cannot|can[’']t|without|claim|claims|claimed|claiming|unsupported|deceptive|whether|if|ftc|lumosity|marketing|be wary|be cautious|beware|watch out|promise|promises|promising)\b|\?/i;
+const ALLOWED_CONTEXT = /\b(no|none|nothing|unproven|not|never|nor|don[’']t|doesn[’']t|does not|cannot|can[’']t|without|claim|claims|claimed|claiming|unsupported|deceptive|whether|if|ftc|lumosity|marketing|be wary|be cautious|beware|watch out|promise|promises|promising)\b|\?/i;
 
 const errors = [];
 const warnings = [];

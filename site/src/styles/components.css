@@ -471,6 +471,13 @@
   color: var(--gm-primary);
   font-size: var(--text-md);
 }
+.card:hover .card__more,
+.card:focus-within .card__more,
+.lead-guide:hover .card__more,
+.lead-guide:focus-visible .card__more {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
 
 /* A game card shows its picture mounted like a print in an album. */
 .game-card {
@@ -672,6 +679,12 @@
   background: var(--gm-surface);
   padding: var(--space-md) var(--space-lg);
   margin-block: var(--space-lg);
+}
+.toc__title {
+  font-weight: 700;
+  font-size: var(--text-title-sm);
+  color: var(--gm-on-surface);
+  margin: 0 0 var(--space-xs);
 }
 .toc summary {
   min-height: var(--target-min);
@@ -960,6 +973,16 @@
     break-inside: avoid;
     page-break-inside: avoid;
   }
+  .faq details > div {
+    display: block !important;
+  }
+  .faq details summary::after {
+    display: none !important;
+  }
+  .faq summary {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
   a {
     color: inherit;
     text-decoration: none;
@@ -1102,6 +1125,13 @@ summary {
     color: #000000;
     font-weight: 800;
   }
+  .card:hover .card__more,
+  .card:focus-within .card__more,
+  .lead-guide:hover .card__more,
+  .lead-guide:focus-visible .card__more {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+  }
   .answer::before {
     background: #000000;
   }
@@ -1164,6 +1194,10 @@ summary {
   }
   .toc {
     border: 2px solid #000000;
+  }
+  .toc__title {
+    color: #000000;
+    font-weight: 800;
   }
   .toc summary:hover {
     color: #000000;
@@ -1425,6 +1459,13 @@ summary {
   .card__more {
     color: LinkText;
   }
+  .card:hover .card__more,
+  .card:focus-within .card__more,
+  .lead-guide:hover .card__more,
+  .lead-guide:focus-visible .card__more {
+    color: Highlight;
+    text-decoration: underline;
+  }
   .answer::before {
     forced-color-adjust: none;
     background: Highlight;
@@ -1477,6 +1518,10 @@ summary {
   }
   .toc {
     border: 2px solid CanvasText;
+  }
+  .toc__title {
+    color: CanvasText;
+    font-weight: 700;
   }
   .toc summary:hover {
     color: Highlight;
