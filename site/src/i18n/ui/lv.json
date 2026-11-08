@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Pāriet uz galveno saturu",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Nodarbes cilvēkiem ar demenci",
+    "homeLabel": "Golden Moments sākumlapa",
+    "mainNav": "Galvenā izvēlne",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Latviešu",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: lieli, sirsnīgi tējas tasītes, saulespuķes un suņa attēli",
+    "languages": "Valoda",
+    "englishOnly": "(angļu valodā)",
+    "machineTranslated": "Šī lapa ir tulkota automātiski, un dzimtās valodas runātājs to vēl nav pārbaudījis.",
+    "readOriginal": "Lasīt oriģinālu angļu valodā",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Spēles",
+      "activities": "Nodarbes",
+      "caregiving": "Aprūpe",
+      "brainHealth": "Smadzeņu veselība"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Jautājumi un atbildes",
+    "breadcrumb": "Navigācijas ceļš",
+    "home": "Sākums",
+    "lastUpdated": "Pēdējo reizi atjaunināts",
+    "topics": "Tēmas",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Teksta izmērs",
+      "smaller": "Parasts teksts",
+      "larger": "Lielāks teksts",
+      "contrast": "Lielāks kontrasts"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Spēlēt",
+    "picturePairs": "Attēlu pāri",
+    "conversationCards": "Sarunu kartītes",
+    "pictureBingo": "Attēlu bingo",
+    "allGames": "Visas spēles",
+    "pictures": "Drukājami attēli",
+    "activityIdeas": "Idejas nodarbēm",
+    "ideas101": "101 ideja nodarbēm",
+    "lateStage": "Nodarbes vēlīnajam posmam",
+    "printable": "Drukājamas nodarbes",
+    "allActivities": "Visas nodarbes",
+    "forCaregivers": "Aprūpētājiem",
+    "playTogether": "Kā spēlēt kopā",
+    "selfCare": "Rūpes par sevi",
+    "brainHealth": "Pētījumi par smadzeņu veselību",
+    "faq": "Jautājumi un atbildes",
+    "about": "Par mums",
+    "approach": "Mūsu pieeja",
+    "howWeWrite": "Kā mēs rakstām",
+    "organizations": "Organizācijām",
+    "app": "Lietotne Golden Moments",
+    "appHelp": "Palīdzība par lietotni",
+    "support": "Atbalsts",
+    "legal": "Juridiskā informācija",
+    "sitePrivacy": "Vietnes privātums",
+    "appPrivacy": "Lietotnes privātuma politika",
+    "privacyChoices": "Privātuma izvēles",
+    "terms": "Lietošanas noteikumi un lietotnes licence",
+    "safety": "Drošība un paredzētais lietojums",
+    "accessibility": "Piekļūstamība",
+    "healthNotice": "Paziņojums par veselības informāciju",
+    "allLegal": "Visa juridiskā informācija",
+    "note": "Golden Moments piedāvā vienkāršas kopīgas nodarbes priekam. Tas nav medicīnisks padoms, pārbaude vai ārstēšana, un tas nenosaka diagnozi, neko nemēra un nevērtē ar punktiem. Ja jums ir jautājumi par veselību, konsultējieties ar ārstu. Ārkārtas gadījumā zvaniet 112.",
+    "publisher": "Izdevējs: Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Spēles un nodarbes cilvēkiem ar demenci un Alcheimera slimību | Golden Moments",
+    "description": "Bezmaksas, mierīgas attēlu spēles tiešsaistē un nodarbju idejas cilvēkiem ar demenci vai Alcheimera slimību un viņu aprūpētājiem. Bez reģistrēšanās, laika skaitīšanas un punktiem.",
+    "eyebrow": "Bezmaksas · Bez reklāmām · Bez reģistrēšanās · Bez laika ierobežojumiem vai punktiem",
+    "h1": "Mierīgas spēles un nodarbes cilvēkiem ar demenci",
+    "lede": "Vienkāršas attēlu spēles, pazīstamas fotogrāfijas un nodarbes kopīgam priekam – savā ritmā.",
+    "playGame": "Spēlēt spēli",
+    "findIdeas": "Atrast idejas nodarbēm",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Darbojas tālrunī, planšetdatorā un datorā",
+      "Lieli attēli, kas paliek redzami",
+      "Pārtrauciet jebkurā brīdī – šeit nav iespējams kļūdīties"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Pieejama arī bezmaksas lietotne iPhone, iPad un Android ar jūsu ģimenes fotogrāfijām",
+    "albumNote": "„Divi tējas tasītes attēli kopā.”",
+    "gamesEyebrow": "Spēlējiet pārlūkprogrammā",
+    "gamesTitle": "Spēles, ko varat spēlēt tūlīt pat",
+    "gamesLede": "Katra no tām ir mierīga, cieņpilna pieaugušajiem un viegli uzsākama. Izvēlieties kādu, apsēdieties blakus un pēc kārtas pieskarieties ekrānam.",
+    "seeAllGames": "Skatīt visas {count} spēles",
+    "howTitle": "Kā tas darbojas",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Izvēlieties kaut ko pazīstamu",
+        "text": "Tējas tasīšu, dārzu, mājdzīvnieku un burulaivu attēli. Nav iepriekš jālasa vai jāmācās noteikumi."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Apsēdieties blakus",
+        "text": "Ļaujiet viņiem pieskarties ekrānam. Pārrunājiet attēlus. Ja attēli nesakrīt, spēle vienkārši gaida nākamo pieskārienu."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Pabeidziet, kamēr tas sagādā prieku",
+        "text": "Viena spēle ir pilnvērtīga nodarbe. Poga „Šim brīdim pietiek” vienmēr ir redzama ekrānā."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Ārpus ekrāna",
+    "stageTitle": "Idejas nodarbēm katram posmam",
+    "stageLede": "Mūzika, ikdienas darbiņi, atmiņu stāsti un mierīgi sajūtu mirkļi, pielāgoti tam, kas šobrīd šķiet patīkami.",
+    "ideas101": "101 ideja nodarbēm",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Sākotnējais posms",
+        "text": "Turpiniet darīt to, kas sagādā prieku, ieviešot nelielus pielāgojumus: vaļasprieki, pastaigas, vārdu spēles un kopīga plānošana.",
+        "label": "Idejas sākotnējam posmam"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Vidējais posms",
+        "text": "Vienkārši, pazīstami darbiņi, sadalīti pa soļiem: locīšana, šķirošana, mūzika, attēlu spēles un īsas pastaigas.",
+        "label": "Idejas vidējam posmam"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Vēlīnais posms",
+        "text": "Miers un tuvība caur pieskārieniem, skaņām un redzi: roku kopšana, mīļākās dziesmas, fotogrāfijas un būšana kopā.",
+        "label": "Idejas vēlīnajam posmam"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Meklējat kaut ko konkrētu? Izmēģiniet <a href=\"/activities/alzheimers/\">nodarbes un spēles Alcheimera slimības gadījumā</a>, <a href=\"/activities/memory-games/\">mierīgas atmiņas spēles</a>, <a href=\"/activities/trivia/\">vienkāršas viktorīnas</a> vai <a href=\"/activities/puzzles/\">puzles</a>.",
+    "approachEyebrow": "Mūsu pieeja",
+    "approachTitle": "Kopīga nodarbe, nevis atmiņas pārbaude",
+    "approachLede": "Daudzas „prāta spēles” balstās uz ātrumu, punktiem un uzvaru sērijām. Cilvēkam ar demenci tas var šķist kā eksāmens. Mēs radījām tieši pretējo.",
+    "approachLink": "Kāpēc mēs to veidojam tieši tā",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Šeit nav iespējams kļūdīties",
+        "text": "Nav pulksteņa, punktu, dzīvību vai zaudēšanas. Cits attēls ir vienkārši pauze, nevis kļūda."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Attēli paliek redzami",
+        "text": "Atpazīšana, nevis atcerēšanās. Meklēšana sākas ar atvērtiem attēliem, tāpēc nekas nav jāpatur prātā."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Cieņpilni un piemēroti pieaugušajiem",
+        "text": "Sirsnīgi, vienkārši vārdi un reālās pasaules fotogrāfijas. Nekādu multeņu vai bērnu valodas."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Privātums jau pašos pamatos",
+        "text": "Nav profilu un reklāmu. Jūsu fotoattēli nekad nepamet jūsu ierīci."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Aprūpētājiem",
+    "guidesTitle": "Praktiski ceļveži ikdienas rūpēm",
+    "allCaregiving": "Visi ceļveži aprūpētājiem",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Kā spēlēt spēles kopā",
+        "text": "Sagatavošanās, temps un ko darīt, ja spēle vairs nesagādā prieku."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Kad atsakās no nodarbes",
+        "text": "Biežākie atteikšanās iemesli un iejūtīgi veidi, kā mēģināt vēlreiz vēlāk."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Planšetdatora sagatavošana",
+        "text": "Lielāks teksts, mazāk traucēkļu un viens vienkāršs sākuma ekrāns."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Bezmaksas drukājamas nodarbes",
+        "text": "Vārdu meklēšanas mīklas ar lieliem burtiem, krāsojamās lapas, bingo un sarunu kartītes."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Smadzeņu veselība: ko patiesībā saka pētījumi",
+    "researchText": "Vai demenci var novērst? Vai prāta spēles palīdz? Kā ir ar gavēšanu, uzturu, miegu un dzirdi? Vienkāršas atbildes ar avotiem, tostarp par jautājumiem, kur pierādījumi ir nepārliecinoši.",
+    "researchLink": "Lasīt pētījumu ceļvežus",
+    "appEyebrow": "Pieejama arī lietotne",
+    "appTitle": "Golden Moments ierīcēs iPhone, iPad un Android",
+    "appText": "Bezmaksas lietotne darbojas bezsaistē un tajā var izmantot jūsu izvēlētās ģimenes fotogrāfijas, kas tiek saglabātas kā kopijas jūsu ierīcē. Tas pats mierīgais dizains: četras lielas kartītes, bez laika skaitīšanas un punktiem.",
+    "aboutApp": "Par lietotni",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Kādas ir piemērotas spēles cilvēkiem ar demenci?",
+        "a": "Labas spēles ir vienkāršas, pazīstamas un bez lieka satraukuma: lielu attēlu savienošana pārī, šķirošana, vieglas puzles, zināmu teicienu pabeigšana, krāsošana, attēlu bingo un sarunu kartītes. Labākā izvēle ir tā, kas cilvēkam sagādā prieku šodien. Izvairieties no taimeriem, punktu skaitīšanas un visa, kas atgādina pārbaudi."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Vai šīs spēles cilvēkiem ar demenci ir bez maksas?",
+        "a": "Jā. Visas spēles un izdrukājamie materiāli vietnē Golden Moments ir bez maksas – bez lietotāja konta, reģistrēšanās vai lejupielādes. Spēles darbojas tīmekļa pārlūkprogrammā tālrunī, planšetdatorā vai datorā."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Vai prāta spēles novērš demenci?",
+        "a": "Nav pierādīts, ka kāda spēle spētu novērst demenci, un Golden Moments neapgalvo, ka mūsu nodarbes kaut ko ārstē vai novērš. Mūsu spēles ir paredzētas priekam un kopā būšanai. Mūsu smadzeņu veselības sadaļā ir paskaidrots, ko pētījumi patiesībā parāda un ko neparāda."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Vai šīs spēles ir piemērotas cilvēkam ar Alcheimera slimību?",
+        "a": "Jā. Alcheimera slimība ir visbiežākais demences cēlonis, un spēles ir veidotas tieši tam: lieli attēli, kas nepazūd no ekrāna, neliels izvēļu skaits un nekā tāda, kas būtu jāpatur prātā vai kur varētu kļūdīties. Pāru meklēšana, šķirošana un pazīstamu teicienu pabeigšana balstās uz sen apgūtām zināšanām, nevis jaunu mācīšanos."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Vai šīs nodarbes var izmantot cilvēks vēlīnā demences stadijā?",
+        "a": "Bieži vien jā, ja kāds ir līdzās. Sāciet ar spēli „Atrodi vienādos” ar diviem attēliem, „Attēlu pāri” ar četriem lauciņiem, krāsojamo lapu vai mierīgu elpošanas pauzi. Nodarbojieties īsu brīdi, sekojiet cilvēka noskaņojumam un pabeidziet, kad viņam pietiek."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Vai mana informācija ir privāta?",
+        "a": "Vietnē nav lietotāju kontu un nav reklāmu. Mēs izmantojam Google Analytics, lai saprastu, kuras lapas tiek apmeklētas. Fotogrāfijas, kuras izvēlaties spēlei „Foto pāri”, tiek rādītas tikai jūsu pārlūkprogrammā un nekad netiek augšupielādētas."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Kas veido Golden Moments?",
+        "a": "Golden Moments ir neliela komanda, kas rada mierīgas, pieaugušajiem piemērotas attēlu nodarbes ģimenēm un aprūpētājiem – gan tīmeklī, gan bezmaksas lietotnē. Mēs neesam ārsti, un nekas šeit nav uzskatāms par medicīnisku padomu."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "agrīnā",
+    "middle": "vidējā",
+    "late": "vēlīnā",
+    "hintOne": "Bieži piemērots {list} stadijai",
+    "hintMany": "Bieži piemērots {list} stadijām",
+    "labelEarly": "Agrīnā stadija",
+    "labelMiddle": "Vidējā stadija",
+    "labelLate": "Vēlīnā stadija"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Par šo spēli",
+    "printable": "Izdrukājams",
+    "play": "Spēlēt {name} →",
+    "readGuide": "Lasīt ceļvedi"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Vai vēlaties uzspēlēt mierīgu spēli?",
+    "text": "Lieli attēli, bez taimera, bez punktu skaitīšanas un bez reģistrēšanās. Spēlējiet kopā savā pārlūkprogrammā.",
+    "play": "Spēlēt spēli",
+    "all": "Skatīt visas spēles",
+    "aria": "Spēlēt spēli"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Ņemiet šīs spēles līdzi",
+    "text": "Bezmaksas lietotne Golden Moments ierīcēm iPhone, iPad un Android: lielas attēlu kartītes, spēles ar jūsu ģimenes fotogrāfijām un attēlu komplekti, kas darbojas bez interneta savienojuma. Bez konta, reklāmām, taimera vai punktu skaitīšanas.",
+    "appStore": "Lejupielādēt no App Store",
+    "googlePlay": "Saņemt vietnē Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Par lietotni",
+    "aria": "Iegūt lietotni"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Nodarbes",
+      "title": "Nodarbes cilvēkiem ar demenci",
+      "seo": "Nodarbes cilvēkiem ar demenci: idejas pa stadijām",
+      "description": "Idejas nodarbēm cilvēkiem ar demenci jebkurā stadijā: mūzika, atmiņu kavēšana, ikdienas darbiņi, sajūtu mirkļi, rokdarbi, laiks ārā un bezmaksas izdrukājamie materiāli.",
+      "lede": "Jēgpilna nodarbe ir viss, kas sniedz mieru, jēgas sajūtu vai tuvības mirkli. Sāciet ar to, kas cilvēkam vienmēr ir paticis, un pielāgojiet to šodienai."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Aprūpe",
+      "title": "Aprūpes ceļveži",
+      "seo": "Demences aprūpes ceļveži: praktiska ikdienas palīdzība",
+      "description": "Praktiski un iejūtīgi ceļveži cilvēku ar demenci aprūpētājiem: spēļu spēlēšana kopā, saziņa, atteikumi, nemiers vakara stundās, planšetdatori, lietotņu izvēle un parūpēšanās par sevi.",
+      "lede": "Vienkāršs, praktisks atbalsts ikdienas brīžos, rūpējoties par cilvēku ar demenci, kā arī par sevi pašu."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Smadzeņu veselība",
+      "title": "Smadzeņu veselība: ko liecina pētījumi",
+      "seo": "Smadzeņu veselība un demences risks: ko liecina pētījumi",
+      "description": "Vai demenci var novērst? Atklāti, uz avotiem balstīti ceļveži par demences riska faktoriem, prāta spēlēm, gavēšanu, uzturu, fiziskajām aktivitātēm, miegu, dzirdi un agrīnām brīdinājuma pazīmēm.",
+      "lede": "Ko plaši pētījumi patiesībā liecina par demences riska mazināšanu – izskaidrots vienkārši, tostarp par jomām, kur pierādījumi ir vāji vai neviennozīmīgi. Vispārīga informācija, nevis medicīnisks padoms."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Atjaunināts",
+    "minuteRead": "{n} minūšu lasījums",
+    "byTeam": "Autors: Golden Moments komanda",
+    "howWeWrite": "Kā mēs rakstām",
+    "shortAnswer": "Īsā atbilde",
+    "onThisPage": "Šajā lapā ({n} sadaļas)",
+    "commonQuestions": "Biežākie jautājumi",
+    "sources": "Avoti",
+    "sourcesNote": "Mēs ievietojam saites uz organizācijām un pētījumiem, uz kuriem šī lapa balstās. Katrs avots tika pārbaudīts, atjauninot lapu.",
+    "tryTogether": "Izmēģiniet kopā",
+    "relatedGuides": "Saistītie ceļveži",
+    "related": "Saistītie raksti",
+    "startHere": "Sāciet šeit"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Paziņojums par veselības informāciju",
+    "title": "Vispārīga informācija, nevis medicīnisks padoms",
+    "textHtml": "Šajā lapā ir apkopoti publicētie pētījumi ģimenēm. Tā nevar noteikt, kas ir piemērots konkrētam cilvēkam. Pirms uztura, fizisko aktivitāšu, miega paradumu, zāļu vai uztura bagātinātāju maiņas konsultējieties ar ārstu. Pēkšņa apjukuma vai citu pēkšņu izmaiņu gadījumā nekavējoties meklējiet medicīnisko palīdzību. <a href=\"/medical-disclaimer/\">Izlasiet mūsu paziņojumu par veselības informāciju</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Kopīga nodarbe, nevis atmiņas pārbaude",
+      "seoTitle": "Par Golden Moments: mūsu pieeja",
+      "description": "Kāpēc Golden Moments spēlēs nav taimeru, punktu skaitīšanas vai sēriju uzskaites, kāpēc attēli nepazūd no ekrāna, un ko mēs apgalvojam un neapgalvojam par demenci.",
+      "crumb": "Mūsu pieeja",
+      "lede": "Golden Moments rada mierīgas, pieaugušajiem piemērotas attēlu nodarbes, ko aprūpētājs un cilvēks ar demenci var baudīt līdzās viens otram.",
+      "bodyHtml": "<h2>Mūsu pārliecība</h2><p>Kopīgas nodarbes jēga ir pats mirklis: saruna, smaids, prieks par divu attēlu salikšanu kopā vai vienkārši būšana līdzās. Tās mērķis nav kādu vērtēt, mudināt uz sasniegumiem vai kaut ko pierādīt.</p><p>Daudzas prāta treniņu lietotnes ir veidotas, balstoties uz ātrumu, punktiem, sērijām un līmeņiem. Cilvēkam, kurš sadzīvo ar demenci, tas var šķist kā nenoliekams eksāmens. Mēs radījām tieši pretējo un paši ievērojam šos noteikumus:</p><ul><li><strong>Šeit nevar kļūdīties.</strong> Nevienā ekrānā nav pulksteņa, punktu skaita, gājienu skaitītāja, dzīvību, sēriju, konfeti vai laika atskaites.</li><li><strong>Atpazīšana, nevis atcerēšanās.</strong> Attēli pēc noklusējuma paliek redzami. Ieteikumi rosina sarunu un nekad nepārbauda vārdus vai atmiņu.</li><li><strong>Liels, skaidrs un mierīgs.</strong> Lieli burti un attēli, labs kontrasts un vadības pogas, kas vienmēr atrodas vienā un tajā pašā vietā.</li><li><strong>Cieņa pret pieaugušo.</strong> Īstas fotogrāfijas un vienkārši, sirsnīgi vārdi. Nekādu multfilmu, bērnišķīgu uzslavu vai emocijzīmju balvu.</li><li><strong>Viegli pabeigt jebkurā brīdī.</strong> Poga „Šodienai pietiks“ ir redzama vienmēr. Pārtraukt nodarbi pusceļā ir labs iznākums.</li><li><strong>Privātums pēc noklusējuma.</strong> Nav kontu un nav reklāmu. Jūsu izvēlētās fotogrāfijas paliek tikai jūsu ierīcē.</li></ul><h2>Ko mēs neapgalvojam</h2><p>Mūsu spēles ir radītas priekam un sirsnīgai kopā būšanai. Tās nediagnosticē, nepārbauda, nemēra, neārstē, nepalēnina un nenovērš demenci vai Alcheimera slimību, un nevienam nevajadzētu tās izvēlēties šādam nolūkam. Rakstot par pētījumiem mūsu <a href=\"/brain-health/\">smadzeņu veselības lapās</a>, mēs atklāti pasakām, kur pierādījumi ir nepārliecinoši, un nekad nesaistām tos ar mūsu spēlēm.</p><h2>Kas mēs esam</h2><p>Golden Moments ir neliela neatkarīga komanda. Mēs neesam mediķi. Mūsu ceļveži ir veidoti, balstoties uz tādām organizācijām kā National Institute on Aging un Alzheimer’s Association publicētajām vadlīnijām, un katrā ceļvedī ir norādīti izmantotie avoti. Uzziniet, <a href=\"/editorial-policy/\">kā mēs rakstām un pārbaudām savu saturu</a>.</p><h2>Dalieties, kas jums noderētu</h2><p>Mēs labprāt uzzinātu, kas jums der un kas ne, jo īpaši no cilvēkiem, kuri sadzīvo ar demenci, ģimenes aprūpētājiem un nodarbību vadītājiem. Rakstiet uz e-pastu <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Kā mēs rakstām un pārbaudām savu saturu",
+      "seoTitle": "Redakcionālā politika",
+      "description": "Kā Golden Moments pēta, raksta, pamato ar avotiem un atjaunina lapas par demences nodarbēm un smadzeņu veselību, un ko mēs nekad nepublicēsim.",
+      "crumb": "Redakcionālā politika",
+      "bodyHtml": "<h2>Mūsu avoti</h2><p>Mūsu ceļveži balstās uz publiski pieejamām vadlīnijām no tādām organizācijām kā National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance un NHS, kā arī uz recenzētiem pētījumiem, piemēram, Cochrane apskatiem un plašiem klīniskajiem pētījumiem. Katrā ceļvedī ir uzskaitīti visi izmantotie avoti. Mēs iepazīstamies ar katru avotu pirms tā citēšanas un atspoguļojam tikai to, kas tajā patiešām teikts.</p><h2>Kā mēs rakstām</h2><ul><li>Pirmajā vietā praktiskums: ko darīt šodien, vienkāršā valodā.</li><li>Godīgums par pierādījumiem: ja tā ir patiesība, mēs lietojam tādus vārdus kā „saistīts ar“, „var“ un „pierādījumi ir pretrunīgi“.</li><li>Cieņa: mēs rakstām par cilvēkiem, kuri sadzīvo ar demenci, kā par pieaugušajiem un nekad neizmantojam pārbaudošu vai nosodošu valodu.</li><li>Nekāda izdomāta satura: nekādu izdomātu statistikas datu, citātu, ekspertu, pētījumu, atsauksmju vai ieteikumu.</li></ul><h2>Kas pārbauda mūsu lapas</h2><p>Lapas raksta un pārbauda Golden Moments komanda, izpētei un melnrakstiem izmantojot MI rīkus. Komanda katru lapu rūpīgi salīdzina ar tās avotiem. Mūsu saturu <strong>nav</strong> pārskatījis ārsts vai cits medicīnas speciālists, un mēs to arī neapgalvojam. Tā ir vispārīga informācija, nevis medicīnisks padoms.</p><h2>Ko mēs nekad nepublicēsim</h2><ul><li>Apgalvojumus, ka kāda spēle, ēdiens, uztura bagātinātājs, gavēnis vai ikdienas ieradums novērš, ārstē, palēnina vai dziedē demenci.</li><li>Testus, aptaujas vai vērtējumus, kas liek domāt, ka kādam ir vai nav demence.</li><li>Ieteikumus sākt, pārtraukt vai mainīt zāļu lietošanu.</li><li>Reklāmu vai sponsorētu saturu, kas pasniegts kā ceļvedis vai padoms.</li></ul><h2>Atjauninājumi un labojumi</h2><p>Katrai lapai ir norādīts datums, kad tā pēdējo reizi atjaunināta. Ja pamanāt kļūdu vai novecojušu avotu, lūdzu, rakstiet uz e-pastu <a href=\"mailto:{email}\">{email}</a>, un mēs to tūlīt pārbaudīsim.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Jautājumi un atbildes",
+      "seoTitle": "Spēles un nodarbes cilvēkiem ar demenci: jautājumi un atbildes",
+      "description": "Atbildes uz biežāk uzdotajiem jautājumiem par spēlēm un nodarbēm cilvēkiem ar demenci: kādas spēles izmēģināt, cik ilgi spēlēt, idejas vēlākām stadijām, smadzeņu veselība un privātums.",
+      "crumb": "Jautājumi un atbildes",
+      "lede": "Īsas, skaidras atbildes uz jautājumiem, ko aprūpētāji uzdod visbiežāk.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Par spēlēm",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Kādas ir piemērotākās spēles cilvēkam ar demenci?",
+              "a": "Vislabākās spēles ir pazīstamas, vienkāršas un bez lieka satraukuma, un īstā ir tā, kas cilvēkam šodien sagādā prieku. Daudziem labi noder attēlu saskaņošana ar atvērtiem attēliem, šķirošana, vienkāršas puzles, zināmu teicienu pabeigšana, krāsošana un attēlu bingo. Izvairieties no taimeriem, punktu skaitīšanas un visa, kas atgādina pārbaudi."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Vai spēles patiešām ir bez maksas?",
+              "a": "Jā. Visas spēles un izdrukājamie materiāli ir bez maksas — bez konta izveides, reģistrācijas, lejupielādes vai reklāmām."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Kāpēc šeit nav punktu skaitīšanas, līmeņu vai taimeru?",
+              "a": "Ātrums un punktu skaitīšana patīkamu nodarbi var pārvērst eksāmenā, radot neveiklības sajūtu vai sarūgtinājumu. Mūsu uzmanības centrā ir prieks un kopā pavadītais laiks, tāpēc šeit nav iespējams kļūdīties vai zaudēt, un spēli var pārtraukt jebkurā brīdī."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Kādas ierīces ir vispiemērotākās?",
+              "a": "Jebkurš tālrunis, planšetdators vai dators ar mūsdienīgu tīmekļa pārlūkprogrammu. Planšetdators uz statīva pie galda bieži vien ir ērtākais veids, kā spēlēt divatā, sēžot līdzās. Savukārt grupām labi noder klēpjdators, kas savienots ar televizoru."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Vai varam spēlēt ar savām ģimenes fotogrāfijām?",
+              "a": "Jā. Spēle „Foto pāri“ pārvērš 2 līdz 6 jūsu izvēlētas fotogrāfijas par pāru meklēšanas spēli. Fotogrāfijas paliek jūsu pārlūkprogrammā un netiek ne augšupielādētas, ne saglabātas."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Nodarbības un aprūpe",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Cik ilgi vajadzētu ilgt nodarbei?",
+              "a": "Bieži vien pilnīgi pietiek ar 10 līdz 20 minūtēm, un reizēm pat 2 minūtes jau ir lielisks iznākums. Pievērsiet uzmanību noguruma vai aizkaitinājuma pazīmēm un pabeidziet nodarbi, kamēr tā vēl sagādā prieku. Šeit nav viena pareizā ilguma."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Ko darīt, ja cilvēks nevēlas iesaistīties nodarbē?",
+              "a": "Cieniet atteikumu un mēģiniet vēlreiz vēlāk vai citā veidā. Atteikuma iemesls var būt nogurums, sāpes, nedrošība vai vienkārši intereses trūkums. Ielūkojieties mūsu ceļvedī par to, ko darīt, ja saņemat atteikumu."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Kādas nodarbes ir piemērotas vēlīnās demences posmā?",
+              "a": "Mājīgums un sajūtas: mīļākās mūzikas klausīšanās, roku masāža ar krēmu, kopīga fotogrāfiju skatīšanās, mīksta pleda turēšana rokās, pasēdēšana ārā vai ļoti vienkārša attēlu spēle kopā ar kādu līdzās. Mūsu vēlīnā posma ceļvedī atradīsiet vēl daudzas citas ieceres."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Vai ir pieejamas nodarbes grupām aprūpes namos?",
+              "a": "Jā. Spēlei „Attēlu bingo“ ir izdrukājamas kartītes un attēlu rādītājs ekrānā, savukārt spēles „Pabeidz teicienu“ un „Sarunu kartītes“ labi noder, ja tās lasa skaļi. Mūsu ceļvedī par nodarbībām aprūpes namos ir apskatīts grupas lielums, vietu izkārtojums un nodarbju pielāgošana dažādām spējām."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Smadzeņu veselība",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Vai spēles var novērst vai palēnināt demenci?",
+              "a": "Nav pierādīts, ka kāda spēle spētu novērst demenci, un mūsu spēlēs nekas tāds netiek apgalvots. Pētījumos ir novēroti nelieli kognitīvās stimulācijas ieguvumi sociālā vidē cilvēkiem ar vieglu līdz mērenu demenci, taču tas nenozīmē, ka spēle var pasargāt no slimības. Mēs piedāvājam spēles priekam un sirsnīgai kopā būšanai."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Vai demenci var novērst?",
+              "a": "Ne ar pilnīgu pārliecību. Pētījumos demences risks tiek saistīts ar 14 veselības un dzīvesveida faktoriem, piemēram, dzirdes pasliktināšanos, augstu asinsspiedienu, mazkustīgumu un sociālo izolētību. To novēršana vai ārstēšana dažiem cilvēkiem var samazināt risku, tomēr daudziem, kuri dara visu pareizi, demence vienalga attīstās. Neviens tajā nekad nav vainīgs."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Vai periodiskā gavēšana nāk par labu smadzeņu veselībai?",
+              "a": "Pētījumu ar cilvēkiem ir maz un tie ir agrīnā posmā, jo lielākā daļa pētījumu veikti ar dzīvniekiem. Gavēšana senioriem var radīt risku, it īpaši, ja tiek lietotas zāles pret diabētu vai ir nevēlams svara zudums, un tā nav ieteicama cilvēkiem ar demenci. Pirms uztura paradumu maiņas konsultējieties ar ārstu."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Privātums un drošība",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Vai jūs vācat kādu informāciju?",
+              "a": "Nekādu kontu vai reklāmu. Mēs izmantojam „Google Analytics“, lai saskaitītu apmeklējumus un redzētu, kuras lapas ir noderīgas, un jūsu pārlūkprogramma atceras, vai esat ieslēguši maigas skaņas. Fotogrāfijas, kuras izvēlaties spēlei „Foto pāri“, nekad netiek augšupielādētas. Plašāku informāciju skatiet privātuma paziņojumā."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Vai šie ir medicīniski ieteikumi?",
+              "a": "Nē. Golden Moments ir paredzēta atpūtai un vispārīgai informācijai. Par veselības jautājumiem konsultējieties ar ārstu, bet ārkārtas gadījumā zvaniet 112."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Sīkāka informācija: <a href=\"/caregiving/how-to-play-together/\">kā spēlēt kopā</a>, <a href=\"/caregiving/when-they-say-no/\">ko darīt, ja saņemat atteikumu</a>, <a href=\"/activities/late-stage/\">nodarbes vēlīnā posmā</a> un <a href=\"/brain-health/can-dementia-be-prevented/\">vai demenci var novērst?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Bezmaksas mierpilnas spēles cilvēkiem ar demenci",
+      "seoTitle": "Izdrukājama lapa: bezmaksas tiešsaistes spēles cilvēkiem ar demenci",
+      "description": "Vienas lappuses izdrukājams materiāls ģimenēm un aprūpētājiem par bezmaksas mierpilnām attēlu spēlēm cilvēkiem ar demenci — atbalsta grupām un aprūpes komplektiem.",
+      "crumb": "Izdrukājams materiāls",
+      "lede": "Izdrukājiet šo lapu atbalsta grupai, aprūpes komplektam vai novietošanai uz ledusskapja. Izmantojiet pārlūkprogrammas drukāšanas komandu; izvēlnes un pogas izdrukā netiks iekļautas.",
+      "introHtml": "<p>Lieli attēli, vienkārši vārdi un nekādu neveiksmju. Bez maksas tālrunī, planšetdatorā vai datorā — bez reģistrācijas, bez reklāmām, bez taimeriem un bez punktu skaitīšanas. Sēdiet līdzās un darbojieties pārmaiņus.</p>",
+      "gamesTitle": "Spēles, ko izmēģināt kopā",
+      "restHtml": "<h2>Daži ieteikumi</h2><ul><li>Izvēlieties dienas laiku, kad cilvēks jūtas vislabāk.</li><li>Sāciet ar visvieglāko iestatījumu. Četri lauciņi ir pilnīgi pietiekami.</li><li>Pārrunājiet attēlus. Saruna bieži vien ir jaukākā daļa.</li><li>Pabeidziet, kamēr nodarbe vēl sagādā prieku. Pārtraukt agrāk ir labs iznākums.</li></ul><h2>Vietnē pieejams arī</h2><ul><li>Bezmaksas izdrukājami materiāli: vārdu meklēšana ar lieliem burtiem, krāsojamās lapas, sarunu kartītes un attēlu bingo.</li><li>Nodarbju ieceres katram posmam, kā arī ceļveži par kopīgu spēlēšanu un parūpēšanos par sevi.</li></ul><p class=\"muted\">Priekam un kopā būšanai. Tie nav medicīniski ieteikumi, pārbaude vai ārstēšana. Golden Moments izdod Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Aprūpes namiem, bibliotēkām un atbalsta grupām",
+      "seoTitle": "Bezmaksas nodarbes cilvēkiem ar demenci aprūpes centriem un grupām",
+      "description": "Kā sociālās aprūpes centri, dienas centri pieaugušajiem, bibliotēkas, senioru atbalsta dienesti un atbalsta grupas izmanto mūsu bezmaksas spēles cilvēkiem ar demenci, kā arī teksts iekļaušanai resursu sarakstā.",
+      "crumb": "Organizācijām",
+      "lede": "Visu šajā vietnē pieejamo saturu var brīvi izmantot darbā ar iemītniekiem, dalībniekiem un klientiem bez maksas, bez konta un bez licences. Šajā lapā ir paskaidrots, kas šeit atrodams un kā ar to dalīties.",
+      "shortText": "{name}: bezmaksas, mierīgas bilžu spēles un nodarbju ceļveži cilvēkiem ar demenci un viņu aprūpētājiem. Bez reģistrācijas, laika skaitīšanas un punktiem.",
+      "longText": "{name} ({domain}) piedāvā {count} bezmaksas pārlūkprogrammas spēles, kas veidotas cilvēkiem ar demenci, tostarp attēlu pāru meklēšanu ar atvērtām bildēm, vienkāršu puzli, šķirošanu, labi zināmus teicienus un bilžu bingo ar izdrukājamām kartītēm. Te nav nepieciešams konts, nav reklāmu, laika limita un punktu skaitīšanas. Vietnē ir arī vienkāršā valodā sarakstīti nodarbju ceļveži katram demences posmam, kuros izmantotas atsauces uz National Institute on Aging un Alzheimer's Association.",
+      "useTitle": "Ko organizācijas var izmantot",
+      "gamesItemHtml": "<strong>{count} pārlūkprogrammas spēles</strong>, kas darbojas datorā, planšetdatorā vai pie datora pieslēgtā televizorā. Nav nepieciešams neko instalēt, lejupielādēt vai reģistrēties. Skatīt <a href=\"/games/\">visas spēles</a>.",
+      "printablesLabel": "{count} izdrukājami materiāli:",
+      "printablesAfter": "Izmantojiet pogu „Drukāt” katrā lapā.",
+      "moreItemsHtml": "<li><strong>Nodarbēm grupās:</strong> <a href=\"/games/picture-bingo/\">bilžu bingo</a> piedāvā izdrukājamas kartītes un saucēju ekrānā, savukārt <a href=\"/activities/trivia/\">vieglajā viktorīnā</a> ir 50 jautājumi ar atbilžu variantiem un sarunu tematiem.</li><li><strong>Nodarbju ceļveži</strong> darbiniekiem un ģimenēm pēc posma un veida, sarakstīti vienkāršā valodā ar norādītiem avotiem. Sāciet ar <a href=\"/activities/ideas/\">101 nodarbes ideju</a> vai <a href=\"/activities/care-home-groups/\">grupu nodarbēm aprūpes centros</a>.</li>",
+      "restHtml": "<h2>Kā to izmanto grupās</h2><ul><li><strong>Aprūpes centros un atmiņas aprūpes nodaļās:</strong> bilžu bingo vai teicienu pabeigšana koptelpas televizorā, kur viens cilvēks veic darbības ekrānā visas grupas vārdā.</li><li><strong>Dienas centros pieaugušajiem:</strong> planšetdators ar bilžu pāru spēli, kas iestatīta uz četriem lauciņiem, īsām individuālām nodarbēm.</li><li><strong>Publiskajās bibliotēkās:</strong> izdrukātas vārdu meklēšanas mīklas un sarunu kartītes atmiņas tematiskajos komplektos, kā arī saglabāta saite bibliotēkas planšetdatoros.</li><li><strong>Aprūpētāju atbalsta grupās un atmiņas kafejnīcās:</strong> <a href=\"/handout/\">vienas lappuses izdrukājama lapa</a>, ko ģimenes var paņemt līdzi uz mājām.</li><li><strong>Slimnīcās un aprūpes plānošanā pēc izrakstīšanas:</strong> informatīvā lapa aprūpētājiem paredzētajos materiālos mierīgai laika pavadīšanai mājās vai pie gultas.</li></ul><h2>Ko mēs nedarām</h2><p>Šīs spēles ir paredzētas priekam un kopā būšanai. Tās nenosaka diagnozi, nepārbauda, nevērtē, neārstē un nepalēnina demenci, un mēs aicinām organizācijas tās tā neaprakstīt. Šeit nav reklāmu, un spēlēs netiek lūgts ievadīt vārdus, veselības datus vai augšupielādēt fotogrāfijas. Vietne izmanto Google Analytics, lai uzskaitītu apmeklējumus; mūsu <a href=\"/privacy/\">privātuma atruna</a> skaidro, kādi dati tiek apkopoti. Fotogrāfijas, kas tiek izmantotas spēlē <a href=\"/games/photo-pairs/\">Foto pāri</a>, paliek tikai pārlūkprogrammā.</p><h2>Pievienojiet mūs resursu sarakstam</h2><p>Ja veidojat resursu sarakstu aprūpētājiem, aicinām ievietot saiti uz <a href=\"/\">{domain}</a>. Varat nokopēt jebkuru no šiem aprakstiem.</p>",
+      "shortTitle": "Īss apraksts",
+      "longTitle": "Plašāks apraksts",
+      "linksHtml": "<p>Noderīgas lapas tiešajām saitēm: <a href=\"/games/\">bezmaksas spēles</a>, <a href=\"/activities/printable/\">bezmaksas izdrukājami materiāli</a>, <a href=\"/activities/alzheimers/\">nodarbes Alcheimera slimības gadījumā</a> un <a href=\"/caregiving/how-to-play-together/\">kā spēlēt kopā</a>.</p><h2>Jautājumi vai labojumi</h2><p>Ja kaut kas vietnē ir neprecīzs vai neskaidrs, vai arī piedāvātais saturs neatbilst kāda iemītnieka vajadzībām, lūdzu, dariet mums to zināmu, rakstot uz <a href=\"mailto:{email}\">{email}</a>. Lūdzu, nesūtiet personīgu informāciju vai veselības datus par iemītniekiem vai klientiem.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Lietotne Golden Moments",
+      "seoTitle": "Lietotne Golden Moments ierīcēm iPhone un Android",
+      "description": "Bezmaksas lietotne Golden Moments: mierīga foto pāru meklēšana ar četriem lieliem lauciņiem, ģimenes fotogrāfijas glabājas jūsu ierīcē, bezsaistes bilžu komplekti un bez lietotāja konta.",
+      "crumb": "Lietotne",
+      "lede": "Viss, kas jums patīk šajā vietnē, ir pieejams lietotnē, kas darbojas bezsaistē un ļauj izmantot jūsu izvēlētās ģimenes fotogrāfijas.",
+      "worksOn": "Darbojas ierīcēs {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Sāciet pamazām</h2><p>Sāciet ar četriem lieliem lauciņiem un pazīstamiem attēliem. Atstājiet attēlus redzamus vai paslēpiet tos, kad tas šķiet ērti. Mierīgajā režīmā nav laika skaitītāja, punktu vai kļūdu sodu. Izvēlieties 4, 6, 8 vai 12 lauciņus.</p><h2>Pielāgojiet savām vēlmēm</h2><p>Izvēlieties ģimenes fotoattēlus ar savas ierīces attēlu atlasītāju. Lietotne saglabā mazākas kopijas savām nodarbēm. Tā nepārlūko jūsu fotoattēlu krātuvi un nemaina oriģinālos fotoattēlus, turklāt vienā kolekcijā var saglabāt līdz 24 fotoattēliem.</p><h2>Vienkārši skatieties kopā</h2><p>Aplūkojiet pa vienam attēlam. Papildu sarunu rosinātāji aicina uz sarunu, neprasot atcerēties vārdus vai sniegt pareizo atbildi. Pietiek ar vienkāršu kopā skatīšanos.</p><h2>Pieejams arī bez interneta</h2><p>Sākuma attēli un visas astoņas attēlu kopas ir iekļautas lietotnē. Pievienotās fotoattēlu kopijas darbojas bezsaistē. Izvēloties oriģinālus, kas glabājas tikai iCloud, var būt nepieciešams interneta pieslēgums.</p><h2>Bez reģistrācijas un fotoattēlu sinhronizācijas servera</h2><p>Ģimenes fotoattēlu kopijas paliek lietotnē jūsu ierīcē. Jūs varat dzēst šīs kopijas, neskarot oriģinālus. Ierīces dublējumos var tikt iekļauti lietotnes dati. Izlasiet <a href=\"/app-privacy/\">lietotnes privātuma politiku</a>, un <a href=\"/help/\">lietotnes palīdzības sadaļā</a> ir izskaidrots katrs solis.</p>",
+      "disclaimer": "Golden Moments ir paredzēta atpūtai un kopīgām sarunām. Tā nediagnosticē, neārstē, nenovērš un nemēra demenci vai Alcheimera slimību.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Bezmaksas tiešsaistes spēles cilvēkiem ar demenci un Alcheimera slimību",
+    "description": "Bezmaksas tiešsaistes spēles senioriem ar demenci vai Alcheimera slimību: attēlu salīdzināšana, vienkāršas puzles, šķirošana, parunas, krāsošana, bingo. Bez reģistrēšanās, laika skaitītājiem un punktiem.",
+    "crumb": "Spēles",
+    "h1": "Mierīgas spēles cilvēkiem ar demenci",
+    "lede": "{count} bezmaksas spēles kopīgai laika pavadīšanai pārlūkprogrammā. Lieli attēli, vienkārši vārdi un nekādu kļūdu: nav laika skaitītāju, punktu vai reģistrācijas.",
+    "listName": "Mierīgas spēles cilvēkiem ar demenci",
+    "byStageTitle": "Spēles izvēle pēc posma",
+    "byStageLede": "Posmi ir tikai aptuvens ceļvedis. Pielāgojieties tam, kas cilvēkam sagādā prieku un šodien šķiet ērti.",
+    "stageCol": "Posms",
+    "gamesCol": "Spēles, kas bieži vien ir piemērotas",
+    "moreHtml": "Citas idejas ārpus ekrāna: <a href=\"/activities/ideas/\">101 nodarbe cilvēkiem ar demenci</a>, <a href=\"/activities/alzheimers/\">nodarbes un spēles Alcheimera slimības gadījumā</a>, <a href=\"/activities/memory-games/\">mierīgas atmiņas spēles</a> un <a href=\"/activities/puzzles/\">puzles</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Ar kuru spēli mums vajadzētu sākt?",
+        "a": "„Attēlu pāri” ar četriem lauciņiem ir mierīga pirmā izvēle. Ja izvēlēties starp vairākiem attēliem šķiet par grūtu, izmēģiniet spēli „Atrodi vienādos” ar diviem attēliem. Grupām labi noder „Attēlu bingo”."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Vai spēles darbojas iPad planšetdatorā vai tālrunī?",
+        "a": "Jā. Katra spēle darbojas pārlūkprogrammā tālruņos, planšetdatoros un datoros, un attēli pielāgojas ekrānam. Diviem cilvēkiem bieži vien ērtākais risinājums ir planšetdators uz statīva."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Vai šīs spēles ir piemērotas cilvēkam ar Alcheimera slimību?",
+        "a": "Jā. Tās ir veidotas cilvēkiem ar demenci, tostarp Alcheimera slimību, kas ir tās biežākais cēlonis. Attēli paliek redzami, izvēļu skaits ir neliels, un nekas netiek vērtēts laikā vai punktos, tāpēc spēles balstās uz pazīstamu lietu atpazīšanu, nevis jaunas informācijas atcerēšanos."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Vai šīs ir atmiņas spēles senioriem?",
+        "a": "Tās ir attēlu un sakritību spēles, ko var baudīt ikviens gados vecāks cilvēks, taču tās nav paredzētas atmiņas pārbaudei: spēlē „Attēlu pāri” attēli paliek atvērti, ja vien neizvēlaties citādi. Mūsu ceļvedis par atmiņas spēlēm senioriem ar demenci izskaidro, kā jebkuru atmiņas spēli padarīt mierīgu."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Vai ir pieejamas spēles grupām aprūpes namā?",
+        "a": "Jā. Spēlei „Attēlu bingo” ir izdrukājamas kartītes un attēlu saucējs ekrānā, savukārt spēles „Pabeidz teicienu” un „Sarunu kartītes” lieliski noder, lasot tās priekšā visai grupai."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad un Android",
+    "requirements": "iOS 15 vai jaunāka versija; Android 7.0 vai jaunāka versija",
+    "summary": "Bezmaksas lietotne ierīcēm iPhone, iPad un Android ar mierīgu attēlu savienošanu no četriem līdz divpadsmit lieliem lauciņiem, spēlēm un skatīšanos ar jūsu izvēlētiem ģimenes fotoattēliem, kā arī astoņām iekļautām attēlu kopām, kas darbojas bez interneta. Bez lietotāja konta, reklāmām, laika skaitītāja un punktiem.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Mierīga attēlu savienošana ar 4, 6, 8 vai 12 lieliem lauciņiem; attēli paliek redzami, ja vien neizvēlaties tos paslēpt",
+      "Jūsu izvēlētie ģimenes fotoattēli tiek iekopēti lietotnē pāru meklēšanai un kopīgai aplūkošanai",
+      "Kopīga skatīšanās: pa vienam attēlam ar iespēju izmantot sarunu rosinātājus",
+      "Lietotnē iekļautas astoņas attēlu kopas, kas darbojas bezsaistē",
+      "Nav nepieciešams konts, nav reklāmu, pirkumu lietotnē, laika skaitītāja, punktu vai kļūdu sodu"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Vai ir pieejama nodarbju lietotne cilvēkiem ar demenci?",
+        "a": "Jā. Golden Moments (veikalos atrodama ar nosaukumu „{storeName}”) ir bez maksas pieejama App Store un Google Play. Tā piedāvā mierīgu attēlu savienošanu ar lieliem lauciņiem, spēles ar jūsu izvēlētiem ģimenes fotoattēliem un attēlu kopas, kas darbojas bezsaistē."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Vai lietotne Golden Moments ir bez maksas?",
+        "a": "Jā. Tā ir lejupielādējama bez maksas, bez reklāmām, bez nepieciešamības reģistrēties un bez pirkumiem lietotnē."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Vai lietotne darbojas bez interneta?",
+        "a": "Jā. Sākuma attēli un visas astoņas attēlu kopas ir iekļautas lietotnē, un ģimenes fotoattēli darbojas bezsaistē, tiklīdz tie ir nokopēti lietotnē. Izvēloties fotoattēlu, kas glabājas tikai iCloud, var būt nepieciešams interneta savienojums."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Vai var izmantot mūsu pašu ģimenes fotoattēlus?",
+        "a": "Jā. Izvēlieties fotogrāfijas ar savas ierīces attēlu atlasītāju. Lietotne saglabā ierīcē mazākas kopijas nodarbēm, neaugšupielādē tās un nekad nemaina oriģinālus. Šīs kopijas varat noņemt jebkurā laikā."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Vai šī ir smadzeņu trenēšanas vai atmiņas pārbaudes lietotne?",
+        "a": "Nē. Golden Moments ir paredzēta priekam un kopā būšanai. Tajā nav punktu skaitīšanas vai testu, un tā nediagnosticē, neārstē, nenovērš un nemēra demenci vai Alcheimera slimību."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Kādās ierīcēs tā darbojas?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Vai šai spēlei ir pieejama lietotne?",
+      "a": "Jā. Bezmaksas lietotnē Golden Moments ierīcēm iPhone, iPad un Android ir pieejama tā pati mierīgā attēlu saskaņošana, tajā var izmantot jūsu izvēlētās ģimenes fotogrāfijas, un tā darbojas bezsaistē. Bez konta, reklāmām un punktiem."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Vai šai spēlei ir pieejama lietotne?",
+      "a": "Šai spēlei nav. Bezmaksas lietotne Golden Moments ierīcēm iPhone, iPad un Android piedāvā mierīgu attēlu saskaņošanu ar lielām kartītēm un jūsu izvēlētām ģimenes fotogrāfijām, un tā darbojas bezsaistē. Šī spēle joprojām ir pieejama bez maksas tepat jūsu pārlūkprogrammā."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: lieli, patīkami attēli",
+    "noscript": "Lai spēlētu šo spēli, pārlūkprogrammā ir jābūt ieslēgtam JavaScript. Tālāk sniegtie ieteikumi darbojas arī bez tā.",
+    "about": "Par {name}",
+    "aboutAria": "Par šo spēli",
+    "noTimer": "Bez laika ierobežojuma un punktiem",
+    "printable": "Izdrukājams",
+    "howTo": "Kā spēlēt {name}",
+    "tips": "Ieteikumi kopīgai spēlēšanai",
+    "newToPlayingHtml": "Pirmoreiz spēlējat kopā ar cilvēku, kuram ir demence? Izlasiet, <a href=\"/caregiving/how-to-play-together/\">kā spēlēt spēles kopā</a>, tostarp to, kā rīkoties, ja zūd interese.",
+    "moreAria": "Vairāk iespēju",
+    "helpfulGuides": "Noderīgi ceļveži",
+    "appTitle": "Spēlējiet lietotnē",
+    "appText": "Bezmaksas lietotnē Golden Moments ir pieejama mierīga attēlu saskaņošana ar lielām kartītēm un jūsu ģimenes fotogrāfijām, un tā darbojas bez Wi‑Fi. iPhone, iPad un Android.",
+    "photoAppTitle": "Fotogrāfijas vienmēr pa rokai",
+    "photoAppText": "Bezmaksas lietotnē Golden Moments jūsu izvēlētās fotogrāfijas paliek ierīcē nākamajai reizei, un spēles darbojas bez Wi‑Fi. iPhone, iPad un Android.",
+    "goodToKnow": "Vērts zināt",
+    "goodToKnowText": "Šī spēle ir paredzēta priekam un kopā būšanai. Tā neko nepārbauda, nemēra un neārstē.",
+    "moreGames": "Citas mierīgas spēles",
+    "crumb": "Spēles"
   }
 }
