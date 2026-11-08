@@ -19,13 +19,13 @@ physical device is listed under "Not verified" and is not scored, not a blocker.
 
 Overall = sum of weight x score.
 
-## Score after Round 17 Word Search & Paced Breathing visuomotor targeting & vestibular stability pass (2026-11-08; earlier 9.87, 9.86, 9.79, 9.59)
+## Score after Round 18 Spoken in-activity verbal assistance pass (2026-11-08; earlier 9.87, 9.86, 9.79, 9.59)
 
 | # | Dimension | Measured | Score |
 | --- | --- | --- | --- |
 | 1 | Plain language | app 441 of 441 strings conform after the six fixes; site play copy 0 long sentences; 404 sentence case confirmed | 10.0 |
 | 2 | Type and contrast | floor and 200% tests pass 10; body 15.1:1 gives 10; secondary 8.1:1 gives 10; primary 6.33:1 gives 9.0; high contrast mode & forced colors reinforced = 10; breadcrumb active state 15.1:1 bold & border-bottom = 10; site-nav active high contrast borders = 10; skip link non-text contrast 15.1:1 dual ring = 10; puzzle piece completion check forced-color-adjust preserved = 10; text-size switcher active outline = 10; lang-menu active outline = 10; coloring region focus 8px primary & swatch focus ring = 10; word search cell focus 3px & dashed start distinction in forced colors = 10; tile badge framed in forced colors = 10; breathe circle high contrast border = 10 | 9.75 |
-| 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions carry a word = 10; every action pairs icon and label (including ReadAloud) = 10; shape-conforming focus rings on tiles, puzzle pieces, baskets, breadcrumb links, chips, swatches and word search cells = 10; touch & tremor resilience = 10; print action button on handout = 10; zero dead-ends in all games with completion cards (including coloring restart action) = 10; uniform layout order across all 12 games = 10; tactile puzzle elevation & swap destination candidate affordance = 10; language-aware 404 error recovery = 10; visuomotor hover region targeting & word search cell hover = 10; instant deterministic ReadAloud button state recovery = 10; vestibular stability in calm breathing under reduced motion = 10 | 10.0 |
+| 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions carry a word = 10; every action pairs icon and label (including ReadAloud) = 10; shape-conforming focus rings on tiles, puzzle pieces, baskets, breadcrumb links, chips, swatches and word search cells = 10; touch & tremor resilience = 10; print action button on handout = 10; zero dead-ends in all games with completion cards (including coloring restart action) = 10; uniform layout order across all 12 games = 10; tactile puzzle elevation & swap destination candidate affordance = 10; language-aware 404 error recovery = 10; visuomotor hover region targeting & word search cell hover = 10; instant deterministic ReadAloud button state recovery = 10; vestibular stability in calm breathing under reduced motion = 10; spoken in-activity prompts & automatic speech cancellation on navigation = 10 | 10.0 |
 | 4 | Structure and semantics | axe on all 3,921 built pages clean (0 violations); heading skips 0; landmarks fixed; app semantics tests pass | 10.0 |
 | 5 | Reflow and large text | site 1,512 of 1,512 runs clean = 10; app 200% tests pass = 10 | 10.0 |
 | 6 | Localization completeness | app keys 100%; site ui keys 100% (64 of 64 languages have footer.pictures); games keys 100%; guides 100%; picture names 68.8% (44 of 64) | 9.38 |
@@ -46,6 +46,8 @@ Lowest dimension: localization at 9.38 (floor is 7.0). **The bar (above 8.6, non
 
 1. Localization (9.38): picture names for the 20 languages left in English (needs a translator; machine output there is unreliable).
 2. Type and contrast (9.75): primary gold text at 6.33:1 (brand decision, kept).
+
+History (round 18): Spoken In-Activity Verbal Assistance Architecture. Added `readAloudText?: string` to `GameFrame.tsx` and speech cancellation on `text` prop change in `ReadAloud.tsx`. Integrated dynamic spoken prompts: Conversation Cards speaks `card.prompt`; Finish the Saying speaks `saying.start` and post-reveal conversation prompt; Picture Bingo speaks called picture name; Find the Same and Shadow Match speak target item names.
 
 History (round 17): Word Search & Paced Breathing Visuomotor Targeting, Focus & Vestibular Stability Architecture. Added hover guidance and 3px focus-visible outline on `.ws__cell`; differentiated `.ws__cell--start` from completed words with dashed borders in forced colors and high contrast; stabilized `.breathe__circle` under `prefers-reduced-motion` to eliminate jarring jumps; framed `.tile__badge` in Windows Contrast Themes; added auditory tap confirmation to Word Search restart and Calm Breathing toggle.
 

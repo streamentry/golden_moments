@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 16 / 100 completed**
+**Progress: 17 / 100 completed**
 
 ---
 
@@ -26,6 +26,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 14 | 2026-11-08 | `7a2f96c` | Accessible Coloring Visuomotor Guidance, Region Targeting & Focus Architecture | Musa et al. (2023), AbilityNet (2025) & W3C COGA Obj 1 & 4: Added pre-contact hover targeting to SVG coloring regions; upgraded focus stroke from invisible walnut to 8px primary (and 10px in high contrast mode; system Highlight in forced-colors mode); added missing focus ring on palette swatches; dynamically surfaced primary restart button upon picture completion eliminating dead ends. | Web Games (`Coloring.tsx`, `games.css`) | Done |
 | 15 | 2026-11-08 | `b6ffeea` | Web Speech API Utterance Architecture & Deterministic End State | W3C Web Speech API & Cannings et al. (2024, JMIR Aging): Passing plain JS objects to `synth.speak()` caused silent failure on real browsers requiring `SpeechSynthesisUtterance`. Added native `createUtterance` with fallback, attached deterministic `onend`/`onerror` hooks to restore button state instantly upon speech completion, and added full test coverage. | Web Speech Synthesis (`readAloud.ts`, `ReadAloud.tsx`, `readAloud.test.ts`) | Done |
 | 16 | 2026-11-08 | `6424cfa` | Word Search & Paced Breathing Visuomotor Targeting, Focus & Vestibular Stability Architecture | Musa et al. (2023), AbilityNet (2025), WCAG 2.3.3 & W3C COGA: Added hover boundary guidance and 3px focus-visible outline on Word Search cells; differentiated start selection from solved words in high contrast and forced-colors; stabilized Calm Breathing under `prefers-reduced-motion` to eliminate jarring 0.01ms jumps while maintaining pacing; framed matched tile badges with `Highlight` in forced-colors; added auditory confirmation on Word Search restart and Calm Breathing toggle. | Web Games (`games.css`, `WordSearch.tsx`, `CalmBreathing.tsx`) | Done |
+| 17 | 2026-11-08 | `ac12eb5` | Spoken Card Prompt & In-Activity Verbal Assistance Architecture (Read Aloud) | Cannings et al. (2024, JMIR Aging), Alzheimer's Australia Vic (2015), and W3C COGA Objectives 1, 3 & 4: Upgraded `GameFrame.tsx` to support `readAloudText?: string` and added automatic speech cancellation on text changes in `ReadAloud.tsx`. Integrated dynamic spoken prompts: Conversation Cards speaks `card.prompt`; Finish the Saying speaks `saying.start` before reveal and full saying plus conversation prompt after reveal; Picture Bingo speaks called picture name; Find the Same and Shadow Match speak target item names. | Web Games (`GameFrame.tsx`, `ReadAloud.tsx`, `ConversationCards.tsx`, `FinishTheSaying.tsx`, `PictureBingo.tsx`, `FindTheSame.tsx`, `ShadowMatch.tsx`) | Done |
 
 ---
 
@@ -33,5 +34,5 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 17 | *Next in queue* | Pending |
-| 18–100 | Planned one by one | Pending |
+| 18 | *Next in queue* | Pending |
+| 19–100 | Planned one by one | Pending |
