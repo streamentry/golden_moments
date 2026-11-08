@@ -450,217 +450,217 @@
       },
       "cards": [
         {
-          "theme": "ризык",
+          "theme": "food",
           "picture": "bread",
           "prompt": "Кухняда сезгә иң ошаган ис кайсы?"
         },
         {
-          "theme": "ризык",
+          "theme": "food",
           "picture": "cake",
           "prompt": "Бәйрәм өчен нинди торт сайлар идегез?"
         },
         {
-          "theme": "ризык",
+          "theme": "food",
           "picture": "apple",
           "prompt": "Сөйләгез, иң яраткан емешле пирог яки десерт турында."
         },
         {
-          "theme": "ризык",
+          "theme": "food",
           "picture": "teacup",
           "prompt": "Чәйне яки кофены ничек яратасыз?"
         },
         {
-          "theme": "ризык",
+          "theme": "food",
           "picture": "frying-pan",
           "prompt": "Сезнеңчә, нинди иртәнге аш аеруча яхшы?"
         },
         {
-          "theme": "ризык",
+          "theme": "food",
           "picture": "strawberry",
           "prompt": "Җимешне туп-туры үсемлектән өзеп ашаган чаклар булдымы?"
         },
         {
-          "theme": "ризык",
+          "theme": "food",
           "picture": "lemon",
           "prompt": "Тәмле яки ачы: сезгә нәрсә яхшырак ошый?"
         },
         {
-          "theme": "ризык",
+          "theme": "food",
           "picture": "cherries",
           "prompt": "Сезгә җәйне искә төшерә торган ризык нинди?"
         },
         {
-          "theme": "өй",
+          "theme": "home",
           "picture": "house",
           "prompt": "Сөйләгез, яшәргә ошаган йортыгыз турында."
         },
         {
-          "theme": "өй",
+          "theme": "home",
           "picture": "armchair",
           "prompt": "Ял итәргә һәм утырырга иң яраткан урыгыз кайда?"
         },
         {
-          "theme": "өй",
+          "theme": "home",
           "picture": "lamp",
           "prompt": "Тын кичтә нәрсә эшләргә яратасыз?"
         },
         {
-          "theme": "өй",
+          "theme": "home",
           "picture": "key",
           "prompt": "Махсус тартмада саклыйсы килгән хәзинә нинди?"
         },
         {
-          "theme": "өй",
+          "theme": "home",
           "picture": "kettle",
           "prompt": "Кемне чәй эчәргә чакырыр идегез?"
         },
         {
-          "theme": "өй",
+          "theme": "home",
           "picture": "umbrella",
           "prompt": "Яңгырлы көндә нәрсә эшләргә яратасыз?"
         },
         {
-          "theme": "ачык һава",
+          "theme": "outdoors",
           "picture": "sunflower",
           "prompt": "Бакчага нинди чәчәкләр утырткан булыр идегез?"
         },
         {
-          "theme": "ачык һава",
+          "theme": "outdoors",
           "picture": "tree",
           "prompt": "Ошаган агач яки парк турында сөйләгез."
         },
         {
-          "theme": "ачык һава",
+          "theme": "outdoors",
           "picture": "watering-can",
           "prompt": "Бакчада булуның иң яхшы ягы нәрсә?"
         },
         {
-          "theme": "ачык һава",
+          "theme": "outdoors",
           "picture": "tulip",
           "prompt": "Иң яраткан чәчәкләрегез нинди төстә?"
         },
         {
-          "theme": "ачык һава",
+          "theme": "outdoors",
           "picture": "potted-plant",
           "prompt": "Өйдә үсемлекләр булуны яратасызмы?"
         },
         {
-          "theme": "ачык һава",
+          "theme": "outdoors",
           "picture": "sun",
           "prompt": "Сезнең уңайлы кояшлы көн нинди була?"
         },
         {
-          "theme": "хайваннар",
+          "theme": "animals",
           "picture": "dog",
           "prompt": "Белгән эт турында сөйләп бирегез."
         },
         {
-          "theme": "хайваннар",
+          "theme": "animals",
           "picture": "cat",
           "prompt": "Песиләр яки этләр, яисә берсе дә түгелме? Сезгә нәрсә ошый?"
         },
         {
-          "theme": "хайваннар",
+          "theme": "animals",
           "picture": "bird",
           "prompt": "Тышта нинди кошлар күрәсез яки ишетәсез?"
         },
         {
-          "theme": "хайваннар",
+          "theme": "animals",
           "picture": "fish",
           "prompt": "Балык тоткан яки балык савыты тоткан чаклар булганмы?"
         },
         {
-          "theme": "хайваннар",
+          "theme": "animals",
           "picture": "butterfly",
           "prompt": "Күргән иң матур хайван нинди?"
         },
         {
-          "theme": "сәяхәт",
+          "theme": "travel",
           "picture": "car",
           "prompt": "Ошаган машина турында сөйләгез."
         },
         {
-          "theme": "сәяхәт",
+          "theme": "travel",
           "picture": "sailboat",
           "prompt": "Пляжда бер көн үткәрергә яки тауларда бер көн үткәрергә теләр идегезме?"
         },
         {
-          "theme": "сәяхәт",
+          "theme": "travel",
           "picture": "bicycle",
           "prompt": "Кайда велосипедта йөрергә теләр идегез?"
         },
         {
-          "theme": "сәяхәт",
+          "theme": "travel",
           "picture": "balloon",
           "prompt": "Теләсә кайсы җиргә очарга мөмкин булса, кая очар идегез?"
         },
         {
-          "theme": "сәяхәт",
+          "theme": "travel",
           "picture": "lighthouse",
           "prompt": "Ошаган сәяхәтегез турында сөйләгез."
         },
         {
-          "theme": "эш",
+          "theme": "work",
           "picture": "key",
           "prompt": "Нинди эш башкарырга ошатканыгыз булды?"
         },
         {
-          "theme": "эш",
+          "theme": "work",
           "picture": "watering-can",
           "prompt": "Сәгатьләр буе шөгыльләнә алган хобби нинди?"
         },
         {
-          "theme": "эш",
+          "theme": "work",
           "picture": "bread",
           "prompt": "Нәрсә ясау яки төзәтүдә танылган идегез?"
         },
         {
-          "theme": "эш",
+          "theme": "work",
           "picture": "house",
           "prompt": "Эшкә яңа керүче яшьләргә нинди киңәш бирер идегез?"
         },
         {
-          "theme": "музыка",
+          "theme": "music",
           "picture": "balloon",
           "prompt": "Сезне аякны тибәртә торган музыка нинди?"
         },
         {
-          "theme": "музыка",
+          "theme": "music",
           "picture": "cake",
           "prompt": "Нәрсә яхшы бәйрәмне гаҗәеп итә?"
         },
         {
-          "theme": "музыка",
+          "theme": "music",
           "picture": "lamp",
           "prompt": "Сез тыңлап ярата торган җырчы кем?"
         },
         {
-          "theme": "музыка",
+          "theme": "music",
           "picture": "armchair",
           "prompt": "Кабат карарга яратасыз торган фильм яки телевизор программасы нинди?"
         },
         {
-          "theme": "фасыллар",
+          "theme": "seasons",
           "picture": "sun",
           "prompt": "Җәйдә иң яраткан нәрсәгез нинди?"
         },
         {
-          "theme": "фасыллар",
+          "theme": "seasons",
           "picture": "tree",
           "prompt": "Көздә нәрсә ошый?"
         },
         {
-          "theme": "фасыллар",
+          "theme": "seasons",
           "picture": "moon",
           "prompt": "Кышкы кич өчен рәхәт нәрсә нинди?"
         },
         {
-          "theme": "фасыллар",
+          "theme": "seasons",
           "picture": "tulip",
           "prompt": "Сез өчен язның беренче билгеләре нинди?"
         },
         {
-          "theme": "фасыллар",
+          "theme": "seasons",
           "picture": "umbrella",
           "prompt": "Кар, яңгыр яки кояш: нәрсәне яратасыз?"
         }
