@@ -5,6 +5,7 @@ import { analyticsAvailable, once, track, trackPrint, type FeedbackAnswer } from
 import { Icon } from './Icon';
 import { ReadAloud } from './ReadAloud';
 import { hydrateSettings, settingsStore, useSound } from './settings';
+import { sounds } from './sound';
 
 interface GameFrameProps {
   ui: PlayUi;
@@ -81,7 +82,13 @@ export function GameFrame({ ui, lang, guidance, message, options, children, foot
           type="button"
           className="btn btn--quiet"
           aria-pressed={sound}
-          onClick={() => settingsStore.actions.toggleSound()}
+          onClick={() => {
+            const turningOn = !sound;
+            settingsStore.actions.toggleSound();
+            if (turningOn) {
+              sounds.tap();
+            }
+          }}
         >
           <Icon name={sound ? 'sound' : 'soundOff'} />
           {sound ? ui.frame.soundOn : ui.frame.soundOff}

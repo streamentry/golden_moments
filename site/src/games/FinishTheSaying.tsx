@@ -46,6 +46,7 @@ export default function FinishTheSaying(props: PlayProps) {
 
   const reveal = () => {
     setRevealed(true);
+    sounds.tap();
     nextButton.current?.focus();
     setMessage(fill(ui.finishTheSaying.revealed, parts, lang));
   };
@@ -53,7 +54,19 @@ export default function FinishTheSaying(props: PlayProps) {
   const next = () => setIndex((i) => (i + 1) % deck.length);
 
   return (
-    <GameFrame ui={ui} lang={lang} guidance={ui.finishTheSaying.guidance} message={message}>
+    <GameFrame
+      ui={ui}
+      lang={lang}
+      guidance={ui.finishTheSaying.guidance}
+      message={message}
+      footer={
+        <div className="btn-row btn-row--center">
+          <button ref={nextButton} type="button" className={revealed ? 'btn btn--primary btn--hero' : 'btn'} onClick={next}>
+            {ui.finishTheSaying.next}
+          </button>
+        </div>
+      }
+    >
       <div className="say-card">
         <p className="say-card__text">
           {saying.start}
@@ -79,11 +92,6 @@ export default function FinishTheSaying(props: PlayProps) {
             {saying.prompt}
           </p>
         )}
-      </div>
-      <div className="btn-row btn-row--center">
-        <button ref={nextButton} type="button" className={revealed ? 'btn btn--primary btn--hero' : 'btn'} onClick={next}>
-          {ui.finishTheSaying.next}
-        </button>
       </div>
     </GameFrame>
   );
