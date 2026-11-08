@@ -855,3 +855,49 @@ a.small-print {
 summary {
   overflow-wrap: anywhere;
 }
+
+/* High contrast preferences: support for users with cataract, macular or cognitive contrast loss */
+@media (prefers-contrast: more) {
+  :root {
+    --gm-outline: #222222;
+  }
+  .btn {
+    border-width: 3px;
+    border-color: #000000;
+    color: #000000;
+    font-weight: 800;
+  }
+  .btn--primary {
+    background: #000000;
+    color: #FFFFFF;
+    border-color: #000000;
+  }
+  .card,
+  .guide-card,
+  .aside-box,
+  .faq details,
+  .answer {
+    border: 2px solid #222222 !important;
+  }
+  :focus-visible {
+    outline-width: 4px !important;
+    outline-offset: 2px !important;
+  }
+}
+
+@media (forced-colors: active) {
+  .btn {
+    border: 2px solid ButtonText;
+  }
+  .btn--primary {
+    border: 3px solid Highlight;
+    outline: 2px solid Highlight;
+  }
+  .card,
+  .guide-card,
+  .aside-box,
+  .faq details,
+  .answer {
+    border: 2px solid CanvasText;
+  }
+}

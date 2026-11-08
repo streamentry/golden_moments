@@ -941,3 +941,86 @@
 :where([dir='rtl']) .game svg[data-icon='back'] {
   transform: scaleX(-1);
 }
+
+/* High contrast & forced-colors adaptations for dementia gameplay */
+@media (prefers-contrast: more) {
+  .tile {
+    border: 2px solid #000000;
+  }
+  .tile--selected::after,
+  .tile--matched::after {
+    border-width: 6px;
+    border-color: #000000;
+  }
+  .basket {
+    border: 3px dashed #000000;
+  }
+  .basket--ready,
+  .basket:hover {
+    border: 4px solid #000000;
+  }
+  .piece {
+    border: 2px solid #000000;
+  }
+  .piece--selected {
+    outline: 6px solid #000000;
+  }
+  .chip input + span {
+    border: 2px solid #000000;
+  }
+  .chip input:checked + span {
+    border: 4px solid #000000;
+    background: #FFFFFF;
+  }
+  .swatch {
+    border: 2px solid #000000;
+  }
+  .swatch[aria-pressed='true'] {
+    border: 4px solid #000000;
+  }
+  .ws__cell {
+    border: 2px solid #000000;
+  }
+  .ws__cell--start,
+  .ws__cell--found {
+    border: 4px solid #000000;
+  }
+  .color-page {
+    border: 3px solid #000000;
+  }
+}
+
+@media (forced-colors: active) {
+  /* Crucial: preserve color swatches and user coloring in Windows High Contrast Mode */
+  .swatch__dot {
+    forced-color-adjust: none;
+  }
+  .color-page [data-region] {
+    forced-color-adjust: none;
+  }
+  .tile--selected::after,
+  .tile--matched::after {
+    border-color: Highlight;
+  }
+  .piece--selected {
+    outline-color: Highlight;
+  }
+  .basket--ready,
+  .basket:hover {
+    border-color: Highlight;
+  }
+  .chip input:checked + span {
+    border-color: Highlight;
+    outline: 2px solid Highlight;
+  }
+  .swatch[aria-pressed='true'] {
+    border-color: Highlight;
+    outline: 3px solid Highlight;
+    outline-offset: 2px;
+  }
+  .ws__cell--start,
+  .ws__cell--found {
+    border-color: Highlight;
+    outline: 2px solid Highlight;
+  }
+}
