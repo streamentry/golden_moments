@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Ler en voz alta",
+      "stopReading": "Deter a lectura",
+      "region": "Xogo",
+      "restart": "Comezar de novo",
+      "soundOn": "Sons suaves activados",
+      "soundOff": "Sons suaves desactivados",
+      "done": "Listo por agora",
+      "feedbackQuestion": "Axudou isto hoxe?",
+      "feedbackYes": "Si",
+      "feedbackNo": "Non moito",
+      "feedbackThanks": "Moitas grazas por nolo dicir."
+    },
+    "tile": {
+      "named": "{name}, ficha {n}",
+      "hidden": "Imaxe oculta, ficha {n}",
+      "withState": "{label}, {state}",
+      "matched": "Emparellada",
+      "selected": "Seleccionada",
+      "picture": "Imaxe",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Todas as parellas xuntas. Xogue de novo ou faga un descanso.",
+      "photoPair": "Dúas fotos que fan parella, xuntas.",
+      "picturePair": "Dúas imaxes de {name|lower}, xuntas.",
+      "selected": "{name}. Agora busque a súa parella.",
+      "mismatch": "Tómese o seu tempo. Toque nunha imaxe para continuar.",
+      "mismatchNamed": "{a} e {b}. Tómese o seu tempo. Toque nunha imaxe para continuar."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Toque nunha imaxe e despois na que é igual.",
+      "guidanceHidden": "Toque en dúas fichas para darlle a volta. Busque dúas iguais.",
+      "restart": "Novas imaxes",
+      "sizeLegend": "Cantas fichas",
+      "size": {
+        "one": "{n} ficha",
+        "other": "{n} fichas"
+      },
+      "viewLegend": "Como xogar",
+      "viewShowing": "Imaxes á vista",
+      "viewHidden": "Imaxes ocultas",
+      "playAgain": "Xogar de novo con novas imaxes",
+      "talk": "Falar xuntos sobre as imaxes"
+    },
+    "choose": {
+      "countLegend": "Cantas imaxes",
+      "count": "{n} para escoller",
+      "thatOne": "Esa imaxe é {name|lower}. Tómese o seu tempo."
+    },
+    "findTheSame": {
+      "guidance": "Mire a imaxe de arriba. Toque na que sexa igual abaixo.",
+      "yes": "Si, a mesma imaxe: {name|lower}.",
+      "next": "Seguinte imaxe"
+    },
+    "shadowMatch": {
+      "guidance": "Mire a sombra de arriba. Toque na imaxe que fai esa sombra.",
+      "yes": "Si, {name|lower} fai esa sombra.",
+      "next": "Seguinte sombra",
+      "shadowAlt": "Unha sombra para emparellar",
+      "foundAlt": "A sombra de {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Toque nunha imaxe e despois no cesto que lle corresponde.",
+      "restart": "Novas imaxes",
+      "themeLegend": "Tema",
+      "selected": "{name}. Agora toque no cesto onde vai.",
+      "pickFirst": "Primeiro toque nunha imaxe e despois nun cesto.",
+      "hint": "{name|lower} pode ir en «{basket}». Toque nese cesto para poñela alí.",
+      "placed": "{name|lower} xa está en «{basket}».",
+      "sorted": "Xa está todo clasificado. Revisen os cestos xuntos ou proben con outro tema.",
+      "basket": {
+        "one": "Cesto «{basket}», con {count} imaxe dentro",
+        "other": "Cesto «{basket}», con {count} imaxes dentro"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Toque nunha peza e despois noutra para cambiarlles a posición.",
+      "restart": "Mesturar de novo",
+      "pictureLegend": "Imaxe",
+      "pictures": {
+        "sailboat": "Veleiro",
+        "house": "Casa",
+        "balloon": "Globo",
+        "sunflower": "Xirasol",
+        "lighthouse": "Faro",
+        "cat": "Gato"
+      },
+      "sizeLegend": "Pezas",
+      "size": {
+        "one": "{n} peza",
+        "other": "{n} pezas"
+      },
+      "pickedUp": "Peza seleccionada. Agora toque no lugar onde debería ir.",
+      "whole": "A imaxe de {name|lower} volve estar completa. Escolla outra imaxe cando queira.",
+      "swapped": {
+        "one": "Cambiadas. {correct} de {total} peza está no seu sitio.",
+        "other": "Cambiadas. {correct} de {total} pezas están no seu sitio."
+      },
+      "guideAlt": "A imaxe completa: {name}",
+      "guideText": "Así é como se ve a imaxe cando está completa.",
+      "piece": "Peza {place}",
+      "pieceInPlace": ", no seu sitio",
+      "piecePickedUp": ", seleccionada",
+      "places4": [
+        "arriba á esquerda",
+        "arriba á dereita",
+        "abaixo á esquerda",
+        "abaixo á dereita"
+      ],
+      "places9": [
+        "arriba á esquerda",
+        "arriba no centro",
+        "arriba á dereita",
+        "no medio á esquerda",
+        "no centro",
+        "no medio á dereita",
+        "abaixo á esquerda",
+        "abaixo no centro",
+        "abaixo á dereita"
+      ],
+      "done": "A imaxe volve estar completa. Xogue de novo ou faga un descanso.",
+      "playAgain": "Mesturalas de novo"
+    },
+    "finishTheSaying": {
+      "guidance": "Lean o dito xuntos e despois toquen na palabra que o remata.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Si, «{start} {end}».",
+      "otherEnding": "«{word}» tamén serve. O dito habitual remata con «{end}».",
+      "revealed": "O dito é «{start} {end}».",
+      "choicesLabel": "Escolla a última palabra",
+      "show": "Mostrar o final",
+      "talk": "Falar sobre isto: ",
+      "next": "Seguinte dito"
+    },
+    "wordSearch": {
+      "guidance": "As palabras van en horizontal ou en vertical. Toque na primeira letra da palabra e logo na última.",
+      "restart": "Nova sopa de letras",
+      "themeLegend": "Tema",
+      "sizeLegend": "Tamaño da grella",
+      "size": {
+        "one": "{n} por {n} ({words} palabra)",
+        "other": "{n} por {n} ({words} palabras)"
+      },
+      "print": "Imprimir esta sopa de letras",
+      "letterChosen": "Escolleuse a letra {letter}. Agora toque na última letra da palabra.",
+      "found": "Atopouse {word}.",
+      "foundAll": "Atopouse {word}. Xa están todas as palabras atopadas. Xogue de novo ou faga un descanso.",
+      "tryAgain": "Tómese o seu tempo. Toque na primeira letra da palabra e logo na última.",
+      "gridLabel": "Grella de letras, con {n} filas de {n} letras. Use as frechas do teclado para moverse polas letras.",
+      "cell": "{letter}, fila {row}, columna {col}",
+      "cellFound": ", forma parte dunha palabra atopada",
+      "wordsHeading": "Palabras que buscar",
+      "wordFound": " (atopada)",
+      "sheetTitle": "Sopa de letras: {theme}",
+      "sheetNote": "As palabras van en horizontal ou en vertical.",
+      "unavailable": "Unha grella de letras non é axeitada para este idioma, polo que a sopa de letras non está dispoñible aquí. Probe cos xogos de imaxes."
+    },
+    "coloring": {
+      "guidance": "Toque nunha cor e despois toque nunha parte do debuxo.",
+      "restart": "Borrar as cores",
+      "cleared": "A páxina volve estar en branco.",
+      "pageLegend": "Páxina",
+      "print": "Imprimir esta páxina",
+      "colorsLabel": "Cores",
+      "paintChosen": "Escolleuse a cor {paint}.",
+      "painted": "{part} agora ten cor {paint|lower}.",
+      "artLabel": "{page}, {count} partes para colorear",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, sen colorear",
+      "paints": {
+        "red": "Vermello",
+        "orange": "Laranxa",
+        "yellow": "Amarelo",
+        "green": "Verde",
+        "blue": "Azul",
+        "purple": "Morado",
+        "pink": "Rosa",
+        "brown": "Marrón",
+        "sky-blue": "Azul celeste",
+        "cream": "Crema",
+        "gray": "Gris",
+        "white": "Branco"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lean a tarxeta en voz alta. Non hai respostas correctas nin incorrectas.",
+      "position": "Tarxeta {n} de {total}",
+      "themeLegend": "Tema",
+      "next": "Seguinte tarxeta",
+      "previous": "Tarxeta anterior",
+      "print": "Imprimir todas as tarxetas",
+      "sheetTitle": "Tarxetas de conversa"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Comece escollendo as súas fotos.",
+      "guidance": "Toque nunha foto e despois toque na que é igual.",
+      "restart": "Mesturalas de novo",
+      "intro": "**Escolla de 2 a 6 fotos** deste dispositivo. Amósanse unicamente nesta páxina e nunca se gardan nin se soben a internet.",
+      "choose": "Escoller fotos",
+      "chooseDifferent": "Escoller outras fotos",
+      "clear": "Retirar as fotos",
+      "cleared": "Retiráronse as fotos desta páxina.",
+      "atLeastTwo": "Por favor, escolla polo menos dúas fotos.",
+      "usingFirst": "Empregaranse as primeiras {max} fotos.",
+      "skipped": {
+        "one": "{count} ficheiro non era unha foto que poidamos amosar.",
+        "other": "{count} ficheiros non eran fotos que poidamos amosar."
+      },
+      "playAgain": "Xogar de novo con estas fotos",
+      "empty": "As súas fotos aparecerán aquí, dúas veces cada unha."
+    },
+    "pictureBingo": {
+      "guidance": "Imprima primeiro os cartóns. Despois amose este taboleiro na pantalla máis grande que teña.",
+      "called": {
+        "one": "{name}. Cantouse {called} de {total} imaxe.",
+        "other": "{name}. Cantáronse {called} de {total} imaxes."
+      },
+      "start": "Toque en «Seguinte imaxe» para cantar a primeira.",
+      "restart": "Comezar unha nova partida",
+      "squaresLegend": "Casiñas en cada cartón",
+      "squares": "{n} casiñas ({side} por {side})",
+      "cardsLegend": "Cantos cartóns imprimir",
+      "cards": {
+        "one": "{n} cartón",
+        "other": "{n} cartóns"
+      },
+      "print": {
+        "one": "Imprimir {n} cartón de bingo",
+        "other": "Imprimir {n} cartóns de bingo"
+      },
+      "ready": "Todo listo para cando queira",
+      "next": "Seguinte imaxe",
+      "allCalled": "Xa se cantaron todas as imaxes",
+      "alreadyCalled": "Xa cantada",
+      "sheetTitle": "Bingo de imaxes · cartón {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Inspire mentres o círculo medra e expire cando se faga pequeno. Detense por si só despois de seis respiracións.",
+      "paceLegend": "Ritmo",
+      "paceSlow": "Lento (5 segundos en cada movemento)",
+      "paceGentle": "Suave (4 segundos en cada movemento)",
+      "ready": "Preparado cando queira",
+      "in": "Inspire",
+      "hold": "Descanse",
+      "out": "Expire",
+      "start": "Comezar",
+      "stop": "Deter",
+      "started": "Comezou. Inspire mentres o círculo medra.",
+      "stopped": "Detido.",
+      "finished": "Foron seis respiracións lentas. Pode comezar de novo cando queira."
+    }
+  },
+  "pictures": {
+    "teacup": "Cunca de té",
+    "kettle": "Chaleira",
+    "bread": "Bola de pan",
+    "frying-pan": "Tixola cun ovo",
+    "cake": "Torta de aniversario",
+    "sunflower": "Xirasol",
+    "tulip": "Tulipán vermello",
+    "watering-can": "Regadeira",
+    "potted-plant": "Planta nun testo",
+    "tree": "Árbore",
+    "bird": "Paporroibo nunha rama",
+    "butterfly": "Bolboreta",
+    "dog": "Can",
+    "cat": "Gato",
+    "fish": "Peixe dourado",
+    "apple": "Mazá vermella",
+    "pear": "Pera",
+    "strawberry": "Amorodo",
+    "banana": "Plátano",
+    "lemon": "Limón",
+    "cherries": "Cereixas",
+    "house": "Casa",
+    "lamp": "Lámpada de mesa",
+    "armchair": "Butaca",
+    "key": "Chave antiga",
+    "umbrella": "Paraugas",
+    "sailboat": "Veleiro",
+    "car": "Coche clásico",
+    "bicycle": "Bicicleta",
+    "balloon": "Globo aerostático",
+    "lighthouse": "Faro",
+    "sun": "Sol",
+    "moon": "Lúa e estrelas",
+    "teapot": "Tetera",
+    "apple-pie": "Torta de mazá",
+    "honey-jar": "Tarro de mel",
+    "boiled-egg": "Ovo cocido nun soporte",
+    "toaster": "Torradora",
+    "cheese": "Cuña de queixo",
+    "milk-jug": "Xerra de leite",
+    "cupcake": "Madalena",
+    "orange": "Laranxa",
+    "grapes": "Racio de uvas",
+    "watermelon": "Tallada de sandía",
+    "pineapple": "Piña",
+    "peach": "Pexego",
+    "rose": "Rosa",
+    "daisies": "Margaridas",
+    "mushroom": "Cogomelo",
+    "wheelbarrow": "Carretilla",
+    "birdhouse": "Casiña para paxaros",
+    "cactus": "Cacto nun testo",
+    "acorn": "Landra",
+    "autumn-leaf": "Folla de outono",
+    "rabbit": "Coello",
+    "duck": "Pato",
+    "hen": "Galiña",
+    "sheep": "Ovella",
+    "owl": "Moucho",
+    "ladybird": "Maruxiña",
+    "snail": "Caracol",
+    "frog": "Ra",
+    "bee": "Abella",
+    "clock": "Reloxo de mesa",
+    "vase-of-flowers": "Xerro con flores",
+    "radio": "Radio antiga",
+    "books": "Pila de libros",
+    "candle": "Vela",
+    "glasses": "Gafas de ler",
+    "telephone": "Teléfono",
+    "ball-of-wool": "Nobelo de la",
+    "straw-hat": "Sombreiro de palla",
+    "train": "Tren de vapor",
+    "bus": "Autobús",
+    "airplane": "Avión",
+    "suitcase": "Maleta",
+    "tractor": "Tractor",
+    "rowing-boat": "Barca de remos",
+    "rainbow": "Arco da vella",
+    "rain-cloud": "Nube de choiva",
+    "snowflake": "Foco de neve",
+    "kite": "Papaventos",
+    "sunrise": "Amencer entre os montes"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGLMNOPRSTUVXZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Froita",
+          "words": [
+            "MAZÁ",
+            "PERA",
+            "UVA",
+            "FIGO",
+            "MELÓN",
+            "LIMÓN",
+            "AMEIXA",
+            "MORA",
+            "PEXEGO"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Xardín",
+          "words": [
+            "ROSA",
+            "FLOR",
+            "TERRA",
+            "FOLLA",
+            "RAMA",
+            "HERBA",
+            "ABELLA",
+            "PLANTA",
+            "LAGO"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Cociña",
+          "words": [
+            "TAZA",
+            "CULLER",
+            "PAN",
+            "TIXOLA",
+            "PRATO",
+            "GARFO",
+            "FORNO",
+            "XARRA",
+            "VASO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Tempo",
+          "words": [
+            "SOL",
+            "CHUVIA",
+            "NEVE",
+            "VENTO",
+            "NUBE",
+            "NÉBOA",
+            "CALOR",
+            "FRÍO",
+            "XEO"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animais",
+          "words": [
+            "CAN",
+            "GATO",
+            "AVE",
+            "PEIXE",
+            "CABALO",
+            "VACA",
+            "PATO",
+            "CABRA",
+            "GALIÑA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Fogar",
+          "words": [
+            "PORTA",
+            "CAMA",
+            "MESA",
+            "CHAVE",
+            "SOFÁ",
+            "RELOXO",
+            "BUTACA",
+            "TAPETE",
+            "SALA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Todas as tarxetas",
+        "food": "Comida",
+        "home": "Fogar",
+        "outdoors": "Ao aire libre",
+        "animals": "Animais",
+        "travel": "Viaxes",
+        "work": "Traballo e afeccións",
+        "music": "Música e diversión",
+        "seasons": "Estacións"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Cal é o recendo da cociña que máis lle gusta?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Que clase de torta elixiría para unha festa?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Fáleme dalgunha sobremesa ou torta de froita que lle guste moito."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Como lle gusta tomar o café ou o té?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Que ten que ter un almorzo para ser especial?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Chegou a recoller froita directamente da árbore ou da horta?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Doce ou acedo: que prefire vostede?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Que comida lle sabe a verán?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Fáleme dalgunha casa na que lle gustase vivir."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Onde lle gusta sentar para descansar e estar a gusto?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Que lle gusta facer nun serán tranquilo?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Que lembranza ou obxecto querido gardaría nunha caixiña especial?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "A quen lle gustaría convidar a tomar un café ou un té?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Que lle gusta facer nun día de choiva?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Que flores plantaría nun xardín?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Fáleme dalgunha árbore ou parque que recorde con agarimo."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Que é o que máis se goza de estar nun xardín?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "De que cor lle gustan máis as flores?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Gústalle ter plantas na casa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Como sería para vostede un día soleado perfecto?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Fáleme dalgún can que coñecese."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Gatos ou cans, ou ningún dos dous? Que é o que máis lle chama a atención deles?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Que paxaros adoita ver ou escoitar fóra?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Foi algunha vez pescar, ou tivo peixes na casa?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Cal é o animal máis fermoso que viu?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Fáleme dalgún coche que lle gustase."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Prefire pasar un día na praia ou no monte?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "A onde lle gustaría ir dar un paseo?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Se puidese sobrevoar calquera lugar, cal elixiría?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Conte algunha viaxe da que garde un bo recordo."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Que tipo de traballo lle gustou facer ao longo da vida?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Con que afección podería pasar horas enteiras?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Había algo que a vostede se lle dese especialmente ben facer ou arranxar?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Que consello lle daría a unha persoa nova que comeza a traballar?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Que música lle dá ganas de mover os pés ou bailar?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Que fai que unha festa sexa inesquecible?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Que cantante lle gusta escoitar?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Que película ou programa de televisión lle gusta volver ver?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Que é o que máis lle gusta do verán?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Que cousas boas lle atopa ao outono?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Que lle resulta acolledor facer nunha tarde de inverno?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Cales son para vostede os primeiros sinais de que chega a primavera?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Neve, choiva ou sol: que prefire vostede?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flor nun testo",
+          "regions": {
+            "sky": "Fondo",
+            "table": "Mesa",
+            "stem": "Talo",
+            "leaf-left": "Folla esquerda",
+            "leaf-right": "Folla dereita",
+            "petal-1": "Pétalo 1",
+            "petal-2": "Pétalo 2",
+            "petal-3": "Pétalo 3",
+            "petal-4": "Pétalo 4",
+            "petal-5": "Pétalo 5",
+            "petal-6": "Pétalo 6",
+            "petal-7": "Pétalo 7",
+            "petal-8": "Pétalo 8",
+            "center": "Centro da flor",
+            "pot": "Testo",
+            "pot-rim": "Bordo do testo"
+          }
+        },
+        "house": {
+          "name": "Casa",
+          "regions": {
+            "sky": "Ceo",
+            "sun": "Sol",
+            "grass": "Herba",
+            "chimney": "Cheminea",
+            "walls": "Paredes",
+            "roof": "Tellado",
+            "door": "Porta",
+            "window-left": "Ventá esquerda",
+            "window-right": "Ventá dereita",
+            "path": "Camiño"
+          }
+        },
+        "teacup": {
+          "name": "Cunca de té",
+          "regions": {
+            "background": "Fondo",
+            "saucer": "Pratiño",
+            "handle": "Asa",
+            "cup": "Cunca",
+            "band": "Raia da cunca",
+            "tea": "Té"
+          }
+        },
+        "butterfly": {
+          "name": "Bolboreta",
+          "regions": {
+            "background": "Fondo",
+            "wing-top-left": "Á superior esquerda",
+            "wing-top-right": "Á superior dereita",
+            "wing-bottom-left": "Á inferior esquerda",
+            "wing-bottom-right": "Á inferior dereita",
+            "spot-left": "Motiña da á esquerda",
+            "spot-right": "Motiña da á dereita",
+            "body": "Corpo"
+          }
+        },
+        "sailboat": {
+          "name": "Veleiro",
+          "regions": {
+            "sky": "Ceo",
+            "sea": "Mar",
+            "sail-big": "Vela grande",
+            "sail-small": "Vela pequena",
+            "mast": "Mastro",
+            "hull": "Casco",
+            "flag": "Bandeira"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Cociña e horta",
+          "baskets": [
+            "Na cociña",
+            "No xardín"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Froita e animais",
+          "baskets": [
+            "Froita",
+            "Animais"
+          ]
+        },
+        "home-travel": {
+          "label": "Casa e viaxes",
+          "baskets": [
+            "Na casa",
+            "Fóra da casa"
+          ]
+        }
+      }
+    }
+  }
+}

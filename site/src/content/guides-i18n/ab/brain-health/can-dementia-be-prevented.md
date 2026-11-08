@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Адеменциа аԥырхагахара аума? Иҳәозеи аҭҵаарақәа"
+seoTitle: "Адеменциа аԥырхагахара аума? Иҳәозеи аҭҵаара"
+description: "2024 ш. Lancet акомиссиеи аҭҵаара дуқәеи адеменциа ашәарҭара армаҷра иазкны идырбаз, ирмамбаз, насгьы аҳақьым иажәа ацҵара иахәҭоу уснагӡарақәа."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Аӡәгьы адеменциа аԥырхагахара азы ҳәаақәҵара ҟаиҵар ҟамлоит. 2024 шықәсазтәи
+  Lancet акомиссиа ишазгәанаҭаз ала, адунеи аҿы адеменциа ахҭысқәа реиҳарак агәҭаны
+  14 шәарҭарак ирыдҳәалоуп, урҭ ирыԥсахыр ҟалоит: ашьақәгылара ҳаракы, аҳаракыра
+  аԥсыҽхара, аиҭаҵра маҷра. Аҭҵаарақәа ахшыҩзыжьра атестқәа рҿы маҷк аҿиара
+  дырбоит, аха адеменциа ахҭысқәа реиҵахара ҵаҵӷәыс иамам. «Ииашоу» зегь ҟазҵо
+  рацәаҩны ауаагьы адеменциа роуеит, уи аӡәгьы ихараӡам.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 шықәсазтәи Lancet акомиссиа адунеи аҿы адеменциа ахҭысқәа 45%-ҟа 14 шәарҭарак ирыдҳәалеит, урҭ ирыԥсахыр ҟалоит. Уи ауааԥсыра рзеиԥш ҳәаақәҵароуп, хаҭалатәи гарантиаӡам."
+  - "Ашәарҭара армаҷра иаанаго ауааԥсыра рҿы зеиԥш алшара армаҷроуп. Уи акәӡам даҽаӡәи хаҭала адеменциа ацәцара илшоит ҳәа."
+  - "FINGER, US POINTER, SPRINT MIND реиԥш иҟоу аҭҵаара дуқәа ахшыҩзыжьра атестқәеи ахшыҩ маҷк аԥсыҽхареи рҿы маҷк аихьӡарақәа дырбеит, аха аӡәгьы ишьақәирӷәӷәаӡомыз аԥсҭазаашьа апрограмма адеменциа аԥырхагахоит ҳәа."
+  - "Ақәра — Альцгеимер ичымазаразы еицырдыруа зегь раасҭа дуу шәарҭароуп, уи аԥсахра ауам. Агәабзиара ахьчара зҵаскны измоу рацәаҩны ауаагьы адеменциа роуеит."
+  - "Еиҳарак изҵааҵәахьоу ауснагӡарақәа — ашьақәгылара ахәышәтәра, адыргақәа рыҭара, ауранагӡара — аҳақьым иажәа ацҵара иахәҭоуп, избанзар урҭ даҽа ганкгьы агәабзиара иацхыраауеит."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Адеменциа аԥырхагахара аума?"
+    a: "Ахаҭалатәи ауаҩы изы адеменциа аԥырхагахаразы ишьақәырӷәӷәоу амҩа ыҟаӡам. Аҭҵаарақәа ишаҳарбо ала, шәарҭарақәак армаҷра, иаҳҳәап, ашьақәгылара ҳаракы, аҳаракыра аԥсыҽхара, аҭамбакы абжьыҭра, ауааԥсыра зегь рҿы адеменциа аҟалара алшара маҷхар ма уи ахылҵшьҭра аамҭа иахаҵәар ҟалоит. Урҭ алшарақәоуп, ҳәаақәҵарақәаӡам."
+  - q: "Иаанагозеи Lancet акомиссиа иаанагаз 45% ахыԥхьаӡара?"
+    a: "2024 шықәсазтәи Lancet акомиссиа ишазгәанаҭаз ала, адунеи аҿы адеменциа ахҭысқәа 45%-ҟа 14 шәарҭарак ирыдҳәалоуп, урҭ теориак ала ирыԥсахыр ҟалоит. Уи аҳәаақәҵара арҭ афакторқәа адеменциа иахҟьоит ҳәа агәрагон, аавторцәагьы иазгәарҭоит урҭ адҳәаларақәа шьҭахьк иахҟьо акәзар шалшо. Уи ауааԥсыра зегь ирызкуп, хаҭалатәи ауаҩы ишәарҭара аҳәара ауам."
+  - q: "Саб ма сан ииашоу аԥсҭазаашьа рымазар, избан адеменциа зауз?"
+    a: "Ақәра, агенетика, аӡәгьы ихылаԥшра иаҵамыз афакторқәа рацәа адеменциаҿы роль ду нарыгӡоит. Lancet акомиссиа аавторцәа иазгәарҭоит ауааԥсыра зегь рҿы ашәарҭара армаҷра хаҭала ауаҩы адеменциа дицәцап ҳәа гарантиа шанамҭо. Адиагноз аӡәгьы игха шакәым азышаҳатәроуп."
+  - q: "65 шықәса ашьҭахь адеменциа ашәарҭара армаҷра ихьашәазар аума?"
+    a: "Lancet акомиссиа иҳәоит ашәарҭара армаҷра макьана ихьашәаӡам, насгьы иеиҳагьы ииашам ҳәа ахаангьы иҟаӡам, ашаҳатәрақәа реиҳарак абжьаратә ақәра иаҵанакуазаргьы. Аҳаракыреи абалаҵреи рахәышәтәра, ауранагӡара, ауаа реилазаараҿы аҟазара — арҭ иахьатәи аԥсҭазаашьа аҿы изҵааҵәахьоу уснагӡароуп. Шәара шәгәабзиара иашьашәалоу аҳақьым иажәа ацышәҵа."
+  - q: "Ахшыҩ ахәмаррақәа ма ҷыдалатәи афатә адеменциа аԥырхагахазар аума?"
+    a: "Ахәмаррагьы, афатәгьы, абадгьы, адиетагьы адеменциа аԥырхагахоит ҳәа ишьақәырӷәӷәаӡам. MIND адиета хышықәсатәи аҭҵаара ахшыҩ атестқәа рҿы ҷыдалатәи еиԥшымзаара амаӡамыз, акоммерциатә апликациақәагьы аҭҵаарақәа рҿы ирбаз ахҭысқәа шамоу ишьақәырӷәӷәаӡам."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Адеменциа змау ауаҩы ихьчара шәҿазар, ма шәаб, шәан уи агәаҟра дызҭагылаз шәбар, шәазхәыцхьазар ҟалоит уи аԥырхагахара алшармаз ҳәа, насгьы шәара шәхаҭа уи ацәцара шәылшома ҳәа. Ари адаҟьаҿы аҭҵаарақәа ииашаҵәҟьаны ирҳәо еиҭаҳәоуп, имариоу бызшәала. Икьаҿу аҭак: аӡәгьы адеменциа аԥырхагахаразы ҳәаақәҵара ҟаиҵар ҟамлоит, аха аҭҵаарақәа иаҳдырбоит шәарҭарақәак армаҷра шалшо, насгьы урҭ ауааԥсыра зегь рҿы армаҷра ала ауаа адеменциа рацәаӡамкәа ироуар ма еиҳа ихьашәаны ироуар шалшо.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Ари зеиԥш информациоуп, аҳақьым исоветӡам. Табу шәауа, ҳара ҳ-[аҳақьымтә еиқәшаҳаҭра](/medical-disclaimer/) шәаԥхьа, шәхаҭа шәгәабзиара азы аҳақьым иажәа ацышәҵа.
 
-## Can dementia be prevented?
+## Адеменциа аԥырхагахара аума?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Хаҭала ауаҩы изы адеменциа аԥырхагахаразы ишьақәырӷәӷәоу амҩа ыҟаӡам. Ақәра аҭҵааразы Амилаҭтә институт (NIA) ишазгәанаҭо ала, [макьана Альцгеимер ачымазара аԥырхагахоит ҳәа аӡәгьы ишьақәирӷәӷәаӡомызт](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), аҭҵааҩцәа алшара бзиақәа зцу амҩақәа рыԥшааит, насгьы иацхыраауа, имцхыраауа иҭырҵаауеит.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Аҭҵаарақәа *ииашаҵәҟьаны* идырбо агәабзиареи аҵасқәеи ҩ-хкык адеменциа аҟалара ашәарҭара ишадҳәалоу ауп. Арҭ ашәарҭарақәа ауааԥсыра зегь рҿы ирмаҷзар, еиҳа имаҷны ауаа адеменциа роуар ҟалоит, ма еиҳа ақәра хаҵазарстәи аамҭазы ироуеит. Уи гарантиак аасҭа даҽакала иҟоуп.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Агәыӷра зҵоу дыргак: 2024 шықәсазтәи Lancet акомиссиа ишазгәанаҭаз ала, ахашәала ҳаракы змоу атәылақәак рҿы, АЕШ-и Британиа Дуи уахь иналаҵаны, адеменциа змау ақәрахьӡеи рхыԥхьаӡара еиҵахеит. Аавторцәа ирҳәоит уи еиҳа ибзиоу аҵара, агәабзиарахьчара, насгьы аԥсҭазаара аҩнуҵҟа ашьаҭыԥқәа рыԥхасҭара амаҷра иабзоуроуп ҳәа, [Лондонтәи Ауниверситеттә коллеџь аҳасабрба ахҳәаа](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) инақәыршәаны.
 
-## What did the 2024 Lancet Commission find?
+## Идырбеи 2024 шықәсазтәи Lancet акомиссиа?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Адеменциа аԥырхагахара, алагалара, ахылаԥшра рзы Lancet акомиссиа — ашаҳатәрақәа шықәсқәак рыҩнуҵҟа зҭҵаауа 27-ҩык адеменциа аҭҵааҩцәа реилазаароуп. Р-2024 шықәсатәи аҳасабрбаҿы ирыԥсахыр ҟало **14 шәарҭарак** рхьыӡ ҳәан, насгьы урҭ еицҵаны **адунеи аҿы адеменциа ахҭысқәа реиҳарак агәҭаны (45%-ҟа)** ирыдҳәалоуп ҳәа иазгәаҭан. Аавторцәа рҳәажьала, арҭ ахҭысқәа *теориак ала* аԥырхагахар ма рыхылҵшьҭра аамҭа иахаҵәар ҟалон, ашәарҭарақәа маҷхазар ([2024 шықәсазтәи Lancet акомиссиа аҳасабрба](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Аԥсҭазаара аетапқәа рыла еикамыршәоу 14 шәарҭарак, ашаҳатәрақәа еиҳа иӷәӷәоу аамҭақәа рахь:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Аԥсҭазаара алагамҭазы:** аҵарамаҷра.
+- **Абжьаратә қәра (40 инаркны 65 шықәса рҟынӡа):** аҳаракыра аԥсыҽхара, LDL («ицәгьоу») ахолестерин ҳаракы, адепрессиа, ахы ахәра, аиҭаҵра амаҷра, адиабет, аҭамбакы абжьыҭра, ашьақәгылара ҳаракы, аҵаулара, насгьы арыжәтә рацәаны ахархәара.
+- **Ақәрахьӡеиразы:** асоциалтә халара, аҳауа ацәгьахара, насгьы ихәышәтәым абалаҵра аԥсыҽхара.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 шықәсазы ҿыц иацырҵаз ҩба аколестерин LDL ҳараки ихәышәтәым абалаҵра аԥсыҽхареи ракәын. Зегь раасҭа ахҭысқәа рацәа зыдҳәалоу факторқәас иҟан аҳаракыра аԥсыҽхареи ахолестерин LDL ҳараки (7%-ҟа ҳәа хыԥхьаӡарацыԥхьаӡа), насгьы аҵарамаҷреи асоциалтә халареи (5%-ҟа ҳәа хыԥхьаӡарацыԥхьаӡа).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Ҳара ҳ-[ашәарҭарақәа рзы агәаларшәага](/brain-health/risk-factors/) 14 факторк таблицала иарбоит, аҭҵаарақәа ирыдҳәалои шәара иҟашәҵар шәылшои нагӡаны иануп.
 
-### What the 45% figure does not mean
+### Иаанагомыз 45% ахыԥхьаӡара
 
-It is easy to misread this number, so it helps to be precise:
+Ари ахыԥхьаӡара еилкаара мариоуп, убри азы ииашаны аҵара иацхыраауеит:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Уи ауааԥсыра зегь рҳәаақәҵароуп.** Уи адунеи зегь аҿы адеменциа ахҭысқәа ирызкуп, шәара ма шәаб-шәан рылшарақәа акәӡам.
+- **Уи ахыҵхырҭеи ахылҵи агәрагона.** Аавторцәа ирҳәоит агәрагора зцу ашаҳатәрақәа змау шәарҭарақәа мацара шналаргалаз, аха адҳәаларақәак шьҭахьк иахҟьо акәзар шалшо. Иаҳҳәап, ақәрахьӡеираҿы адепрессиа адеменциа ахҟьага акәымкәа, уи раԥхьатәи адыргахар ҟалоит.
+- **Уи хаҭала аӡәгьы гарантиа инамҭоит.** UCL аҳасабрба ахҳәааҿы ишазгәаҭоу ала, ашәарҭара армаҷра ауааԥсыра рзеиԥш ҩаӡараҿы аус ауеит, хаҭалатәи ауаҩы адеменциа дицәцап ҳәа аӡәгьы гарантиа инамҭоит.
+- **Даҽа бжак арҭ афакторқәа рыла еилкааӡам.** Ақәра, агенетика, аҵарауаа макьана изламырҵаау ахҭысқәа уи ахәҭа еиқәыршәоит.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Изеиԥшымзеи «ашәарҭара армаҷреи» «аԥырхагахареи»?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Ашәарҭара армаҷра** иаанаго алшарақәа реиҵахароуп. Ауаа гәыԥ дук ршьақәгылара армаҷзар, шықәс рацәа рыҩнуҵҟа урҭ рҟынтә еиҳа имаҷны ауаа адеменциа роуар ҟалоит. Аха убри агәыԥ аҟынтә ауаа шьоукы уесгьы адеменциа роуеит.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Аԥырхагахара** акәзар, акгьы ахаангьы аҟамлара аанагоит. Адеменциазы, иахьа аҭҵаарақәа уи аӡәгьы ҳәаақәҵара изыҟарҵар рылшомызт.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Аҭҵааҩцәа гәыԥк **аамҭа ахаҵәарагьы** иацәажәоит. Lancet акомиссиа иҿыцу ашаҳатәрақәа ирызкны иҳәоит ашәарҭара армаҷра адеменциа алагамҭа аамҭа иахаҵәар шалшо, насгьы ауаҩы ачымазара дигәаҟуа аамҭа кьаҿхар шалшо. Шықәсқәак рыла ахаҵәарагьы ауаҩи иҭаацәеи рзы акыр ихадароуп.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Ари асаит аҿы ҳара гәҭакыла «ашәарҭара армаҷра» насгьы «идҳәалоуп» ҳәа ҳхырхәоит. «Альцгеимер ачымазара аԥырхагахара» ҳәа ҳәаақәҵара зҵоу амаҭәар, абад, ма апрограмма шәбар, гәҽанҵарала шәазыҟазар иахәҭоуп. NIA аҳақьым иажәа ацышәҵаларц шәаҳәоит Альцгеимер аԥырхагахоит зҳәо ахәышәқәа ма атерапиақәа шәхамҵарԥшыӡцыԥхьаӡа, избанзар урҭ шәарҭахар ҟалоит, аԥара ахаҵәарахар ҟалоит, ма еицҵаны ҩ-хкыкгьы акәхар ҟалоит.
 
-## What have large trials found?
+## Идырбеи аҭҵаара дуқәа?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Ахылаԥшратә ҭҵаарақәа (аамҭа иалагӡаны ауаа изҭагыло хылаԥшра ззу) адҳәаларақәа дырбар алшоит. Арандомизациа зцу аҭҵаарақәа — ауаа апрограмма ма аҿырԥштә гәыԥ шьаҭада ианрыланархо — еиҳа иӷәӷәоу ԥышәароуп. Абар зегь раасҭа еицырдыруа аҭҵаарақәак идырбаз.
 
-### FINGER (Finland)
+### FINGER (Финлиандиа)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER аҭҵаара адеменциа ашәарҭара ҳаракы змаз 60 инаркны 77 шықәса рҟынӡа зқәрахьӡаз 1,260-ҩык ауаа наланаргалеит. Агәҭаны ҩ-шықәсатәи апрограмма роуит: афатә азы абжьгарақәа, ауранагӡара, акомпьютертә хшыҩ ҽазышәарақәа, агәи ашьаҭыԥқәеи ргәаҭара; егьи абжа зеиԥш гәабзиаратә бжьгарақәа роуит. Апрограмма змаз агәыԥ ахшыҩ атестқәа рҿы маҷк еиӷьны иҟалеит, уи маҷзаргьы статистикала ихадароу еиԥшымзааран ([FINGER аҭҵаара The Lancet аҿы](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Аҭҵаара атестқәа рылҵшәақәа акәын изхылаԥшуаз, адеменциа адиагнозқәа акәӡамызт.
 
-### US POINTER (United States)
+### US POINTER (Америка Еиду Аштатқәа)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER 60 инаркны 79 шықәса рҟынӡа зқәрахьӡаз, аиҭаҵра маҷыз, афатә бзиа змамкәа егьырҭ ашәарҭарақәа змаз 2,111-ҩык ауаа наланаргалеит. Ҩ-гәыԥк физикалагьы хшыҩлагьы еиҳа иактивны иҟазарц, еиӷьны афатә рфарц, ауаа реилазаараҿы иҟазарц, агәы агәабзиара хылаԥшра азырҵарц ргәазҭаҵан. Актәи агәыԥ иструктуратәу, аинструкторцәа зцу программа роуит; аҩбатәи хаҭала аԥсҭазаашьа иахылаԥшуан. Ҩ-шықәса рыҩнуҵҟа ахшыҩ атестқәа рылҵшәақәа **ҩ-гәыԥк** рҿы еиӷьхеит, насгьы иструктуратәу агәыԥ аҿы маҷк еиҳа ([US POINTER аҭҵаара JAMA аҿы](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Аавторцәа ирҳәоит ари аиԥшымзаара есымшатәи аԥсҭазаараҿы ихадароузар азы макьана ахылаԥшра шаҭаху. «Акгьы ҟамҵара» зцу агәыԥ шамыз аҟынтә, аҭҵаара апрограммақәа акгьы аԥсахра аҵкыс шаҟа иацхыраада ҳәа аҭак аҟаҵара ауам.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (ашьақәгылара)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND ашьақәгылара ҳаракы змаз 50 шықәса инаркны иреиҳауз АЕШ инхо 9,361-ҩык ауаа ҭнаҵааит. Урҭ еиҳа илаҟоу ашьақәгылара ахықәкы (ахыхьтәи ахыԥхьаӡара 120 аҵаҟа) ма астандарттә хықәкы (140 аҵаҟа) ирыдҳәалан. Еиҳа илаҟоу ахықәкы **ахшыҩ маҷк аԥсыҽхара** акыр иармаҷит — ари адеменциа аԥхьа иҟалар зылшо агәалашәареи ахшыҩи рыпроблемақәа рстадиоуп. **Иҟалар шалшо адеменциазы**, еиҳа илаҟоу ахықәкы змаз агәыԥ аҿы ахҭысқәа маҷын, аха аиԥшымзаара статистикала ихадарамызт. Аҭҵаара иааигәаны иаҟәыҵит, насгьы адеменциа ахҭысқәа игәыӷуаз аасҭа еиҳа имаҷын, убри азы ари азҵаара аҭак аҭаразы маҷк хәыҷхар ҟалон ([SPRINT MIND JAMA аҿы](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Иаанагозеи аҳасабрбақәа реицҵара
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 шықәсазтәи Cochrane аҳасабрба шәарҭарақәак еицызҵаауаз апрограммақәа рҟынтә 18,000-ҩык иреиҳау ауаа злахәыз жәаба ҭҵаара дук еиднакылеит. Уи ахшыҩ атестқәа рҿы маҷк аихьӡара дырбеит, аха уи зхылаԥшуаз ҩ-ҭҵаарак рҿы **шаҟа ауаа адеменциа роуыз аҿы ииашоу еиԥшымзаара ԥшааӡамызт** ([Cochrane аҳасабрба еилаҵоу интервенциақәа рзы](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Аҭҵаарадыррақәа, аинженериа, амедицина рмилаҭтә академиақәа 2017 шықәсазтәи рҳасабрба, NIA икьаҿу ахҳәаа ззыҟанаҵаз, х-амҩак рзы «агәыӷра зҵоу, аха макьана ииашаӡам» ашаҳатәрақәа ԥшааит: ашьақәгылара ҳаракы ахылаԥшра, афизикатә уранагӡара ардура, насгьы ахшыҩтә тренинг.
 
-## Does it matter when you start?
+## Ихадароума шәандалац?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet акомиссиа абжьгара ауп ашәарҭарақәа шеилшо еиҳа ираԥхьа армаҷреи шеилшо еиҳа ирацәаны лаҟаны рыхьчареи: «шеилшо еиҳа ииашазар, еиӷьуп» насгьы «шеилшо еиҳа ирацәазар, еиӷьуп». Иара убас иҳәоит ашәарҭара армаҷра ахаангьы еиҳа ираԥхьаӡам ма еиҳа ихьашәаӡам ҳәа. Ашаҳатәрақәа реиҳарак абжьаратә қәра иаҵанакуеит, 40 инаркны 65 шықәса рҟынӡа, аха абалаҵра аԥсыҽхареи асоциалтә халареи реиԥш иҟоу шәарҭарақәак ақәрахьӡеираҿы ауснагӡара аҵакы амоуп.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Аҳасабрба иҳәоит ашәарҭара иаамҭа рацәаны аҟазара еиҳа дуу ԥсахра шырҿио ашаҳатәрақәа еиҳа иӷәӷәахеит ҳәа. Иаҳҳәап, абжьаратә қәраҿы иалаго адиабет еиҳа ихьашәаны иалаго адиабет аасҭа еиҳа ихадароушәа ҟоуп.
 
-## Is dementia risk the same for everyone?
+## Адеменциа ашәарҭара ауаа зегь рзы еиԥшума?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Мап. Акомиссиа ишазгәанаҭаз ала, ахашәала лаҟәи абжьаратәи змоу атәылақәа рҿы инхо, амиллеҭ маҷқәа ирыҵанакуа, насгьы аԥара маҷ змоу ауаа арҭ ашәарҭарақәа еиҳа ирацәаны ирымоуп, убри азы адеменциа еиҳа иқәыԥшу ақәраҿы аҿиара алашароуп. Шәарҭара рацәа ауаа хаҭала иалырхым аҭагылазаашьақәа ирыдҳәалоуп: ахәыҷраан ирымаз ашколтә ҵара ахәшьара, инхо аҳауа, насгьы агәабзиаратә фатә ааигәа аԥшаара алшареи уи ахәи.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Убри азы акомиссиа абжьгарақәа ауаа хаҭала реиԥш аҳәынҭқаррақәагьы рзы иҳәоуп: ахәыҷқәа зегь рзы аҵара бзиа, еиҳа ицқьоу аҳауа, аҭамбакы абжьыҭра армаҷразы ауснагӡарақәа, атуканқәеи аресторанқәеи рҿы иҭиуа афатә аҿы ашеқәари аџьыки армаҷра, насгьы зҭаху зегь рзы аҳаракыратә дыргақәа рыҭара. Хаҭалатәи аџьабаа ихадароуп, аха ауаа зынхо адунеигьы хадароуп. Уи даҽа мзызк ауп адиагноз азы аӡәгьы хара идымҵаразы.
 
-## What are the honest limits of this research?
+## Иарбанқәоу ари аҭҵаара ииашоу аҳәаақәа?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Адеменциа аҿиара шықәс жәпа иаҭахуп**, аха аҭҵаарақәа реиҳарак ҩ-шықәса инаркны хә-шықәса рҟынӡа имҩаԥысуеит. Атестқәа рылҵшәақәа мацара акәымкәа, адеменциа ахаҭа аҭҵаара акыр идуум, акыр идуу ҭҵаарақәа иаҭахуп.
+- **Аҭҵаарақәа реиҳарак ахшыҩ атестқәа рхылаԥшуеит.** Атест аҿы маҷк аеиӷьхара уи ауаа адеменциа маҷны ироуеит ма есымшатәи аԥсҭазаара мариоухар ҳәа ҳәаақәҵараӡам.
+- **Агәаҳәара зҵоу ауаа еиҳа гәабзиоуп** насгьы егьырҭ ауаа аасҭа еиҳа аҵара рымоуп. Lancet акомиссиа иазгәанаҭоит ашаҳатәрақәа реиҳарак макьана ахашәала ҳаракы змоу атәылақәа рҟынтә ишхылҵуа, амиллеҭ маҷқәагьы маҷны ишрыланархо.
+- **Адҳәаларақәак ҩ-ганки ицоит.** Аиҭаҵра амаҷреи ауаа реилазаара аҟамзаареи адеменциа ахҟьага мацара акәымкәа, уи раԥхьатәи алҵшәахар ҟалоит.
+- **Афатә азы аҭҵаарақәа макьана агәырҭыӡбара ду аҳнамыҭаӡеит.** MIND адиета хышықәсатәи аҭҵаара ахшыҩ атестқәа рҿы аконтрольтә диета аасҭа ҷыдалатәи еиԥшымзаара амаӡамызт. Ҳара ҳ-[афатә азы агәаларшәага](/brain-health/diet/) шәахәаԥш.
+- **Ахшыҩ ахәмаррақәа адеменциа аԥырхагахоит ҳәа ишьақәырӷәӷәаӡам.** Ҳара ҳ-[ахшыҩ ахәмаррақәеи адеменциеи рзы агәаларшәага](/brain-health/brain-games/) шәахәаԥш.
+- **Афатә аҟәыҵра (ачгара) ауаа рҿы ашаҳатәрақәа маҷ амоуп**, насгьы ақәрахьӡеи рзы шәарҭахар ҟалоит. Ҳара ҳ-[афатә аҟәыҵразы агәаларшәага](/brain-health/fasting/) шәахәаԥш.
 
-## If someone did everything "right", why did they still get dementia?
+## Аӡәы зегь «ииашаны» иҟаиҵазар, избан уесгьы адеменциа зауз?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Избанзар адеменциа алхрақәа рылҵшәа мацара акәӡам. NIA иҳәоит [ақәра — Альцгеимер ачымазаразы еицырдыруа зегь раасҭа дуу шәарҭароуп](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) ҳәа, уи аӡәгьы иԥсахыр ауам. Агенетикагьы роль ду амоуп. Насгьы аҵарауаа ауаа реиҳарак рҿы Альцгеимер зыхҟьо макьана инагӡаны ирызеилкаауам. 14 шәарҭарак зегь аԥырхагахаргьы, Lancet акомиссиа хаҭалатәи аҳәаақәҵарала ахҭысқәа реиҳарак бжак инареиҳаны макьана еилкааӡам.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Убри азы шәара ауранагӡара зҭаху, бзианы зфоз, аҭамбакы ахаангьы змыбжьыз, аха уесгьы адеменциа зауз ауаҩы шәзыхшыҩзышьҭуазар, урҭ ргәаналагьы шәара шәгәаналагьы агха акгьы ыҟаӡам. Шәара шәхаҭа адеменциа змоу шәакәзар, уи шәара шәхараӡам. Ахара гәаӷьра аҭаацәа рҿы лассы-лассы ицәырҵуеит, аха уи иахәҭам. Уажәы ихадароу — агәҭынчра, аимадара, бзиала амшқәа рархьӡароуп, ҳара ҳ-[уснагӡатә идеақәа](/activities/ideas/) насгьы [ахылаԥшҩы ихы ахьчаразы агәаларшәага](/caregiving/caregiver-self-care/) алагамҭа бзиоуп.
 
-## What steps can you talk over with a doctor?
+## Иарбан уснагӡарақәоу аҳақьым шәиацәажәар шәылшо?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Арҭ аганахьала еиҳарак аҭҵаарақәа мҩаԥыргон. Урҭ агәаҭараан рылацәажәара иахәҭоуп, избанзар урҭ реиҳарак агәы агәабзиара, агәаҳәара, ахақәиҭра рҿы иацхыраауеит, адеменциа иахьахылҵуа алҵшәа иарбанзаалакгьы.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Ашьақәгылара.** Шәазҵаа шәара шәхыԥхьаӡарақәа шәаҳәарц, шәара шәгәабзиара иашьашәалоу ахықәкы иарбану. Lancet акомиссиа 40 шықәса рҟынтә инаркны ахыхьтәи ахыԥхьаӡара 130 ма еиҳа илаҟоу ахықәкы ашьҭазаара абжьгара ҟанаҵоит, аха еиҳа ихәыҷу/изқәрахьӡаз ауаҩы изы ииашоу ахықәкы зеиԥш гәабзиара иадҳәалоуп.
+2. **Аҳаракыра.** Аҳаракыра агәаҭара шәазҵаа, насгьы аҳаракыратә дыргақәа ишәцхыраару. Ҳара ҳ-[аҳаракыразы агәаларшәага](/brain-health/hearing/) аҭҵаарақәа еиҭанаҳәоит.
+3. **Абалаҵра.** Есымша аблақәа ргәаҭара шәацәымцан, катаракта реиԥш иҟоу ауадаҩрақәа рыхәышәтәра шәазҵаа.
+4. **Ахолестерин.** Шәара шә-LDL ахолестерин агәаҭара аҭахума, акгьы аԥсахра аҭахума шәазҵаа.
+5. **Ашьа аҿы ашеқәар.** Адиабет шәмазар, шәарҭада уи ахылаԥшра шәазҵаа.
+6. **Агәаҳәара.** Адепрессиа лассы-лассы иҟалоит, насгьы ихәышәтәуеит. Ҩ-мчыбжь иреиҳаны агәыкаҳара шәмазар ма акгьы шәгәы иақәымшәозар, шәҳақьым иажәа иацҵа.
+7. **Аҭамбакы абжьыҭреи арыжәтәи.** Аҭамбакы абжьыҭра аҟәыҵразы ацхыраареи арыжәтә ахархәара шәарҭада аҳәаақәеи шәазҵаа.
+8. **Аиҭаҵра.** Шәара шәзы шәарҭада иҟоу ауранагӡара иарбану шәазҵаа. Ҳара ҳ-[ауранагӡаразы агәаларшәага](/brain-health/exercise/) идеақәа амоуп.
+9. **Ахы ахьчара.** Авелосипед ақәшәараани аконтакттә спорт аани ашлем шәшәыршәала, насгьы акаҳарахьчара шәазҵаа.
+10. **Аимадара ахьчара.** Егьырҭ ауаа рыҟны аамҭа алхра агәабзиаратә ԥсҭазаара ахәҭоуп. Ҳара ҳ-[социалтә еимадаразы агәаларшәага](/brain-health/social-connection/) насгьы [ацәаразы](/brain-health/sleep/) шәахәаԥш.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Ахәшәқәа, афатә, абадқәа, ачгара, ма ауранагӡара шәаԥсахыр шәхацырцыԥхьаӡа, раԥхьа шәҳақьым иажәа ацышәҵа, хаҭала агәы чымазара, адиабет, акаҳарақәа шәмаззар, ма шәара шәхаҭа адеменциа змау шәакәзар.
 
-## Talk with a doctor
+## Аҳақьым шәиацәажәа
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Шәара шәхаҭа ма даҽаӡәы иҿы шәгәы зырҿио агәалашәареи ахшыҩи рыԥсахрақәа шәбар, аҳақьым дызхьашәҵа. NIA ишазгәанаҭо ала, [агәалашәара апроблемақәа даҽа мзызқәак рымазар ҟалоит](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), иаҳҳәап, ахәшәқәа ралҵшәа, аҭыӡы хылаԥшратә чымазара, адепрессиа, ма авитамин B12 амаҷра, насгьы арҭ апроблемақәа шьоукы амзыз анхәышәтәу хыҵуеит. Ҳара ҳ-[ашәарҭаратә дыргақәа рзы агәаларшәага](/brain-health/warning-signs/) шәахәаԥшыр шәылшоит изхьаԥштәу еилкааразы.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+Ихахарҭәаау аԥсахрақәа рзы **иццаку ацхыраара шәаԥшаа**: ихахарҭәаау ахшыҩ аилаҩра, ганк ала аԥсыҽхара ма акгьы амырҵара, ацәажәара ацәгьахара, ма ахы хьбара ӷәӷәа инсульт ма даҽа ҭагылазаашьа ӷәӷәак адыргахар ҟалоит. 112 ахь шәазвоқәа.
 
-## Where Golden Moments fits
+## Иарбан ҭыԥу Golden Moments зку
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments имариоу еицызхәмаруа уснагӡарақәа ҟанаҵоит: [аиҿцәажәаратә карточкақәа](/games/conversation-cards/), [асахьақәа рбинго](/games/picture-bingo/), насгьы [аҭынч аԥсыԥ лаҵара](/games/calm-breathing/). Урҭ агәырӷьаразеи еицырхьӡаратә аамҭазеи иҟаҵоуп. Урҭ ахәышәтәра акәӡам, насгьы адеменциа аԥырхагахаӡом, амҽхаӡом.

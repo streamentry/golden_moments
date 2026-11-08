@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Bilaashih Tabciisiyyi Kas-Maysih Abtoota"
+seoTitle: "Bilaashih Tabciisiyyi Kas-Maysih Abtoota: Kaxxa Qaraf"
+description: "Kas maysu luk yan marak bilaashih tabciisiyyi abtoota: kaxxa qarafih kelmoomat gurrus, koora, walal kaardoot kee bingo, kaadu meqe tabciisiyyi faroota."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments kas maysu luk yan marak bilaashih tabciisiyyi abtoota duma
+  yeqeqe: kaxxa qarafih kelmoomat gurrus, koora dacayuk waraakit, suwarrat walalih
+  kaardoot kee suwar bingo. Yiysimik tan ay gameh qadarat fakka haxaw Tabciis
+  (Print) buttan digib. Kaxxa, xabbaco le qarafat kee cissuk yan waraakat
+  tabciisa, kullu waraakat tiyatak taama akkek qula, kaadu qilsuk gacton waraakit
+  plastikih sarruma. Buxah addat aban waraakit, numtin manoh daabur waraakat
+  hinnay ayroh qilsiyyi tiyya innah tan, kaadu qokol le.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Nek tabciisiyyi abtoota bilaasha: Kelmoomat Gurrus, Koora, Walal Kaardoot kee Suwar Bingo. Kullu gameh qadarat Tabciis (Print) buttan le."
+  - "Kaxxa, xabbaco le qarafat kee baxaabaxsal yan kootit tabciisa, kullu waraakat tiyatak taama akkek qula."
+  - "Cissuk yan waraakat hinnay kaxxa waraakat ibbidih xabbaco, kaadu maffursuma. Waraakit gacticisaanam faxxaamak qilsuk yan qafaluk plastik sarruma."
+  - "Buxal aban waraakit, numtin manoh daabur waraakat, ayroh mixig hinnay daqaarih suwar sumaqoota innah tanim, xabbaco kaadu qokol leemik catooy."
+  - "Tabciise waraakat gurrusih xaguk yani kayko tiyya kinnih, doorkih taama hinna. Gexsoh abaanam hinnay maliinot abaanam meqe."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Sin tabciisiyyi kas-maysih abtoota bilaashay?"
+    a: "Yeey. Ta saytih addal tan Kelmoomat Gurrus, Koora, Walal Kaardoot kee Suwar Bingo qadara bilaashak loowitak tabciisoonu xiqtan. Gameh qadarat fakka heek Tabciis (Print) buttan digiba."
+  - q: "Kas maysu luk yan marak yayse tabciisiyyi abtoota maayiy?"
+    a: "Yayse tabciisiyyi waraakit xabbaco, qadaadah yan kaadu kaxxa marak taamak yani: kaxxa qarafih kelmoomat gurrus kelmoomat gub kee madal fan gexxa, koora dacayuk caddok baxxaqqa le kootit, walal yayseeqe suwar kaardoot, kaadu kobox marak suwar bingo. Taama numtin fayxoota kee kay maysoh caddot meysan, kullu waraakat kaadu inki abto akkek qula."
+  - q: "Tabciise waraakit yablinno kee loowituh xabbaco akkek mannal abnaa?"
+    a: "Kaxxa, xabbaco le qaraf, daatih qeeda qado hinnay burtawuk yan waraakat heela, kaadu daffiisa le baxok elle cila. Waraakat cissuk yan qilsit tabciisa tokke waraakat caxxiitak raaqo waytamkeh, naba diifeeyak raaqo waytuh matta waraakat doora, kaadu waraakat xaliitak raaqtuh waraakat ibbixiyyi taabula duma heelay. Plastik sarrumaanam waraakit gacticiseenimih qokol le."
+  - q: "Ta abtoota dacrisoh buxa hinnay ayroh prograamih tabciisoonu xiqnaa?"
+    a: "Yeey. Taamih shaqaalah nek waraakit buxah marak kee buttat tabciisoonu kaxxa xinto lon. Suwar Bingo butta marak digibeh yan kaadu TV hinnay projector elle yabloonuh aracal kobox le num yan."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Tohuk gaba kal, yayse abto kusiin gabat tan waraakat kee qalamti kaxxa cato le. Tabciisiyyi waraakit shaarij mafaxa, passwood mafaxa, screen mafaxa, kaadu dacrisoh gexiyyi hinnay butta fan bayoonuh xabbaco. Ta qadara nek saytih addal tan bilaashih tabciisiyyi abtoota baxxaqisa, yablinnoo kee ibbidih xabbaco akkek mannal tabciisaanam, kaadu buxah addat aban xabbaciyyi waraakit maaqan dacrisak yan marih kee taamih shaqaalah cato leemik warrayta.
 
-## What free printable activities do you offer?
+## Ma bilaashih tabciisiyyi abtoota duma tayseeqen?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Affara bilaashih tabciisiyyi waraakit duma neeqee. Yiysimik tan ay gameh qadarat fakka heek **Print** buttan elle loowita tokke tabciisuh cato le waraakat geytoonu xiqtan.
 
-| Printable | What it is | Good for |
+| Tabciisiyyi | Tiyya maayiy | Elle meqeem |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Kaxxa-qarafih kelmoomat gurrus kelmoomat gub kee madal fan gexxa | Qalamluk xasob le wakti; kobox abtoota kaxxam kicnih yan num |
+| [Coloring](/games/coloring/) | Koora dacayuk waraakit tabciisuh, hinnay screen-il koora dacoonuh | Daggo-le, gabih taamih wakti; qokoluk kullu caddot |
+| [Conversation Cards](/games/conversation-cards/) | Suwar kaardoot doorkih essero maleh addat yan tematih walal yayseeqe | Dacriso, telefoolih walal, buxah maaqo, koboxih kas-dabbiq buttah |
+| [Picture Bingo](/games/picture-bingo/) | Bingo kaardoot lakqooma koboxih aracal suwarrat digibte, screen-il kobox le | Dacrisoh buxaaxi, ayroh prograam, buxah marak kobox |
 
-### Large-print word search
+### Kaxxa-qarafih kelmoomat gurrus
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) kaxxa harfoofi luk kelmoomat dagalal gub kee madal fan gexxa, garbok hinnay wadir fan gexxa kelmoomat mali. Inkit taamita: inki num kitoobak qangara yabala, gersi num kaadu gurrusah. Kelmoomat gurrus qilsuk yekkek, kullu kelmooh naharsi harfi inkit liiloomu xiqtan, hinnay qangara kitooba kaxxa xongolot yaballuk kullu kelmoot walalaanam xiqtan.
 
-### Coloring pages
+### Koora dacayuk waraakit
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Coloring](/games/coloring/) waraakit marker hinnay koorih qalamluk tabciisoonu xiqtan, hinnay tablet-il koora digibak qaraarat koora dacoonu xiqtan. Tabciise waraakitik, kaxxa marker kee duma duma dagoo kooroot koboxa. Nek [arts and crafts guide](/activities/arts-and-crafts/) lih yangal koora kaxxa marak kaadu xasob le caddot ayseemih gitoota wagita.
 
-### Conversation cards
+### Walalih kaardoot
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) baxxaqqa le suwar kee walalih gita inkit heela, koboxuh "Yoh waris..." hinnay "Maha tublee?" innah tan. Oggolih xintot kitoobinte, doorkih essero hinna. Set tabciisa, baxaaxisa, kaadu dacrisoh hinnay telefoolih yabak bagih addat koboxa. [reminiscence](/activities/reminiscence/) buttat kaadu cato le.
 
-### Picture bingo cards
+### Suwar bingo kaardoot
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Picture Bingo](/games/picture-bingo/) kaardoot lakqooma koboxih aracal suwar luk gexxa. Kullu numtih inki kaardi tabciisa, laptop, TV hinnay projector addat tan screen koboxuh cato heela. Kullu numtih kaardi cilli haanam fan qidnoonuh kas necee, tokke num kal raaqe kal. [group activities for care homes](/activities/care-home-groups/) lih yangal buttat mannal taamisaanam wagita.
 
-## How do I print activities so they are easy to use?
+## Abtoota loowituh xabbaco akkek mannal tabciisiyya?
 
-Small changes in how you print make a big difference.
+Tabciisiyyat aban qiddaamih baxaabaxsa kaxxa cato le.
 
-### Make it easy to see
+### Yablinnooh xabbaco heela
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Kaxxa, xabbaco le qaraf.** Waraakat fan yangadde kaxxa print doora. Xusne le hinnay caddod le qarafootak ixxica.
+- **Baxaabaxsal yan kootit.** Daatih qeeda qado hinnay burtawuk yan waraakat heela. Qado-burtawi hinnay kooral yan waraakitak ixxica.
+- **Matta waraakat** naba diifeeyak gubal raaqo waytuh cato le.
+- **Miyak maysano kee diifeeyat wagita.** Alzheimer's Association yablinno kee aabbinno kas maysu luk yan marak walal qilsisaanam kassisa, kaadu duma duma wagitoonuh kas necee. Xabbaco le lamp kaadu cato le.
 
-### Make it easy to hold
+### Ibbidih xabbaco heela
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Cissuk yan waraakat hinnay kaxxa waraakat** sissikuk caxxiita, ibbidih xabbaco, kaadu koboxih taamat raaqa.
+- **Clipboard** hinnay xaliitaasinnaan waraakat baxo waraakat gexsiitaamak catta.
+- **Cissuk yan marker hinnay kaxxa pencils** ibbidih xabbaco, lafa le pens-ik.
 
-### Make it reusable
+### Gactonuh taamitaanam xiqiyya heela
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Waraakit plastik sarruma** hinnay qadaadah yan waraakat qafalut heela. Kelmoomat gurrus kee bingo kaardootat sissikuk burtuquk yan marker taamisa, tokke duma kallaasa.
+- **Matta plastik doora** diifeeya yablinno qilsissek, kaadu kaardootih dafaara magassat **kuluula heela** ibbidih meqe caddot raaqamkeh.
+- **Folder** addat kaxxam kicnih yan waraakit koboxa, kullu alhad inki waraakat tabciisaanamak raaqtamkeh.
 
-### Keep it simple
+### Xabbaco heelay
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Kullu waraakat inki taama.** Inki kelmoomat gurrus hinnay inki suwar, maggo abtoota inki aracal gaddi kal.
+- **Qado baxo koboxa.** Maggo kootit luk yan waraakat kaxxa qilsi leh yamballe.
+- **Kitooba yabalo kal, xiqtek.** Numtin abtaamih gita usuk yable caddot daaqa.
+- **Waraakit baxaaxisa.** Kullu waraakat nabak yekkek, cado heela hinnay kurub heela tokke cado dagal yamballe.
 
-## Other useful printables you can make at home
+## Buxal aboonu xiqtan gersi cato le tabciisiyyi waraakit
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Kullu cato le waraakat game hinna. Ta waraakit computer kee printer luk aboonuh xabbaco.
 
-### A life-story page
+### Manoh daaburih waraakat
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Inki-waraakat "yoo wagitak" suwar luk, numti migaq usuk kicnih yan, elle kaxxawwe arac, kay taama, buxa, kicnih yan maaqo, muuzika kee kay rooqise hinnay kassisise baaxooxa luk. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) numtih manoh daabur, kay kicna kee kaxxa marat warrayta waraakat heelaanam dacrisak yan marak kee yamaate marak walalih cato leemih warrayta.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Hospitaal kee qusbuk yan dacrisoh aracal kaxxa cato le. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) numtih ayroh mixig, kicnih yan migaq, kicna kee misooba, qiddaamih sababoofi, kaadu qidim elle yabalan sumaqoota warraytamkeh.
 
-### A daily schedule
+### Ayroh qilsiyyi mixig
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Kaxxa, xabbaco le mixig ayroh saaqoota luk, dagoo kelmoomat kee kullu aracal suwarrat: qubba, gexso, kusiina, xasob, muuzika, gira. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) numtih yayse ayroh waktiitat taama mixig heelaanam kas necee, ugut kee xinto saaqat meqe xakku kaadu taama kee xasob inkit heela. Inti caddot heela, firijil koboxa, kaadu lafa le mixig heela. Nek [daily routine guide](/activities/daily-routine/) lih yangal koboxa.
 
-### Picture labels for rooms and drawers
+### Dariifoota kee kursootah suwar sumaqoota
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Kursi kee baaxot kaadu gexxa: kaalsih suwar kaalsih kursiil, finkaanih suwar finkaanih aracal. Tabciisa, plastik sarruma, kaadu gilaasa.
 
-### A sorting set
+### Baxsaasoh taama
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Lamma baxaabaxsal yan kategoorik suwar tabciisa, pom kee ubbooti hinnay taamih meqoota kee kusiina meqoota, cissuk yan waraakatil. Baxaaxisa tokke lamma kursootat inkit baxsa. Screen-il tan tiyya [Sort Together](/games/sort-together/) kinni.
 
-### Song lyric sheets
+### Qangara kitoobah waraakit
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Kicnih yan heloyta kaxxa qarafat tabciisa inkit helisonuh. Qangara maggo yabalaanam xiqe waytam yakkooy, waraakat ibbiduh xinto le.
 
-### A family photo page
+### Buxah marak suwar waraakat
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Inki waraakat afar hinnay lica kaxxa buxah suwar luk, kullu suwarih gubal migaq luk. Gabat heelaanam kee kullu num koboxak walalaanam xiqta. Sumaqoota yamaate marak kee shaqaalah walal fan catta, kaadu "A num miyyay?" axcelem maleh gexxa.
 
-### A recipe card
+### Gabih maaqoh kaard
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Kicnih yan buxah maaqo kaxxa qarafat tabciisa. Inkit maaqo aboonuh taamisa, hinnay dumi maaqot walaloonuh duma heela.
 
-## How do I offer a printable without it feeling like homework?
+## Waraakat doorkih taamah kobox akkek mannal duma eeqaa?
 
-Present it as something to share, not a test.
+Inkit aban tiyyah duma heela, doorkih taama hinna.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Dafeyak atu naharat faka.** "Anu ta kelmoomat gurrus abak aniyo. 'Garden' gurrusuh yoo cate waytaa?"
+- **Inkit taamita.** Tiyya tiyyak gexa, hinnay inki num gursa gersi num kaadu liilisa.
+- **Gari hinnay garo malih maheelin.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) abtootah taamiyat wagitaanam kas necee, gaba-kalot hinna, kaadu waraahisat wagitaanam gaba-kalo caddok.
+- **Waraakit duma cila.** Inki gita scrapbooks, suwar album hinnay dumi majalloot sissikuk geytan aracal koboxaaxise. Tabciise kaardoot kee suwar waraakit ta caddot dafiisih gabal dafaaru xiqta.
+- **Kicnih yan wakti daffiisa.** Cado le koora meqe carra kinni. Waraakat aracal heelek shaahi aqbaanam kaadu inki gita.
 
-## Where to find more
+## Osotinna elle geytan arac
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Kullu nek [games and printables](/games/) wagitay, hinnay [activities for every stage](/activities/ideas/) lih yangal maggo xintoota wagitay, waraakat luk hinnay waraakat maleh.

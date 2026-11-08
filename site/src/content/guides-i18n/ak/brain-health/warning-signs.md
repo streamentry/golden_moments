@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Dementia Nsɛnkyerɛnne a Ɛdi Kan ne Berɛ a Ɛsɛ sɛ Wohu Dɔkota"
+seoTitle: "Dementia Nsɛnkyerɛnne a Ɛdi Kan ne Berɛ a Ɛsɛ sɛ Wohu Dɔkota"
+description: "Dementia ho nsɛnkyerɛnne a edi kan, sɛnea ɛsonono ne nyin kɛkɛ, aduru a ɛsa adwene haw bi, ne sɛnea wobɛsiesie wo ho akɔhu dɔkota."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Werɛfi a ɛsɛe da biara asetra, haw a ɛba nneyɛe a obi nim ho, bere anaa baabi a obi wɔ ho
+  adwenetu, ne nsakrae a ɛba suban anaa gyinaesi mu betumi ayɛ dementia ho nsɛnkyerɛnne a edi
+  kan. Yare afoforo pii nso, te sɛ thyroid haw, vitamin B12 a adɔɔso, nnuru ho nsunsuanso,
+  awerɛhow kɛse ne nna ho haw, betumi de nsakrae a ɛte saa ara aba. Dɔkota a ne ho akokwaw nko
+  ara na obetumi akyerɛ yare pɔtee a ɛwɔ hɔ. Adwenetu a ɛba prɛko pɛ no hia ayaresabea ntɛm ara.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Nyin mu no, werɛfi a ɛba mpofirim no taa ba; nanso nsakrae a ɛka da biara asetra no de, ɛsɛ sɛ wɔhwehwɛ mu."
+  - "Alzheimer's Association kyerɛkyerɛ kɔkɔbɔ nsɛnkyerɛnne 10 mu, na wɔde biara toto nyin mu nsakrae a ɛtaa ba no ho."
+  - "Thyroid haw, vitamin B12 a ennu, nnuru ho nsunsuanso, awerɛhow, yare mmoawa ne nna ho haw betumi aka adwene, na ebi wɔ hɔ a wobetumi asa."
+  - "Dɔkota a ne ho akokwaw nko ara na obetumi akyerɛ sɛ obi wɔ dementia; intanɛt so nsɛmmisa ne sɔhwɛ rentumi nyɛ saa."
+  - "Adwenetu a ɛba mpofirim wɔ dɔnhwerew anaa nna kakraa bi mu no betumi ayɛ delirium na ɛhia ayaresabea ntɛm ara."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "So werɛfi yɛ obi nyin mu ade a ɛfata anaa?"
+    a: "Ebi de, ɛte saa. National Institute on Aging ka sɛ baabi a obi de biribi sii a ne werɛ afi kakra anaa ka a ne werɛ afi sɛ obetua no yɛ nyin mu werɛfi a ɛnyɛ hu kɛse. Dementia de, ɛnyɛ obi nyin mu ade a ɛfata kɛkɛ. Adwene ho haw a ɛma da biara nneyɛe te sɛ kar ka, fon so nkɔmmɔbɔ anaa fie kwan hwehwɛ yɛ den no de, ɛsɛ sɛ wɔde kɔhu dɔkota."
+  - q: "So ade foforo bi betumi de werɛfi aba a ɛnyɛ dementia?"
+    a: "Aane. National Institute on Aging bobɔ thyroid, asaabo anaa brɛbo haw, nnuru ho nsunsuanso, awerɛhow ne dadwen, vitamin B12 kakraa, nsa boro so, nna ho haw, yare mmoawa ne ti opira din. Ebi wɔ hɔ a sɛ wɔsa a ɛkɔ yie, enti na ɛho hia kɛse sɛ dɔkota hwehwɛ onipa no mu."
+  - q: "So metumi asɔ obi ahwɛ wɔ fie sɛ ɔwɔ dementia anaa?"
+    a: "Dabi. Dɔkota a ne ho akokwaw nko ara na obetumi akyerɛ sɛ obi wɔ dementia, denam n'apɔmuden abakɔsɛm, nipadua mu nhwehwɛmu, adwene ne nsusuwii ho nsɔhwɛ, mogyaborɔ nhwehwɛmu ne amiti a wɔde twa ti mu mfonini so. Dɔkotafo nsɔhwɛ tiawa mpo nso nko ara nnu sɛ wɔde bɛka sɛ obi wɔ dementia."
+  - q: "Dɛn na ɛsɛ sɛ meyɛ sɛ obi adwene tu prɛko pɛ a?"
+    a: "Hwehwɛ ayaresabea mmoa ntɛm ara. Adwenetu a ɛba mpofirim betumi ayɛ delirium, a VA kyerɛ sɛ ɛyɛ ayaresa ahometew ade. Frɛ onipa no ayaresabea dɔkota ntɛm ara anaa frɛ 112, tena ne nkyɛn, na hyɛ nnuru a ɔnom no nso nso."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Nsakrae a wubehu wɔ wo werɛ anaa wo dɔfo bi werɛ mu no betumi ayɛ ehu kɛse. Kratafa yi betumi aboa wo ma woahu berɛ a ɛsɛ sɛ wohyia dɔkota ne sɛnea wubesiesie wo ho ama no. Ɛrentumi nkyerɛ wo sɛ obi wɔ dementia anaa dabi. **Dɔkota a ne ho akokwaw nko ara na obetumi akyerɛ sɛ obi wɔ dementia**, na nneɛma pii a ɛde werɛfi ba no nso mpo nnyɛ dementia koraa. Yɛsrɛ wo, mfa wo ho nto intanɛt so nsɛmmisa anaa nsɔhwɛ a obi yɛ ma ne ho so.
 
-## What are the early signs of dementia?
+## Dɛn ne dementia ho nsɛnkyerɛnne a edi kan?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) kyerɛkyerɛ nsɛnkyerɛnne a edi kan 10 mu. Wɔde biara toto nyin mu nsakrae a ɛfata ho sɛnea ɛbɛyɛ a wubetumi ahu nsonsonoe no. Wɔ yɛn ankasa nsɛm mu no:
 
-| Sign worth checking | More typical with age |
+| Nsɛnkyerɛnne a ɛsɛ sɛ wɔhwehwɛ mu | Ade a ɛtaa ba wɔ nyin mu |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Werɛfi a ɛsɛe da biara asetra, te sɛ nneɛma a esisii nnansa yi a obi werɛ fi anaa asɛm koro no ara a ɔbisa bio ne bio | Ɛtɔ da a obi werɛ fi din bi anaa ahyiae bi nanso akyiri yi n'adwene ba so |
+| Nhyehyɛe anaa haw siesie a ɛyɛ den, te sɛ aduannoa kwan a obi nim a odi akyi anaa ka a ɔhwɛ so | Mfomso kakra a obi bɛyɛ wɔ fie ka ho berɛ bi |
+| Nnwuma a obi nim yɛ wɔ fie, adwumam anaa abɔnten a ne yɛ yɛ den ma no | Berɛ bi a obi behia mmoa wɔ microwave anaa TV dwumadi foforo so |
+| Da, berɛ anaa baabi a obi wɔ a n'adwene fi so | Dapaa a ɛyɛ a obi adwene tu ho, nanso akyiri yi ohu |
+| Nsakrae foforo wɔ kwan a ɛware susuw, akenkan anaa ahosuo nsonsonoe mu | Ani so nsakrae a ɛnam cataracts nti ba |
+| Nsɛmfua ho haw foforo, te sɛ nkɔmmɔbɔ a egyina mpofirim anaa nneɛma din a wɔfrɛ no basabasa | Ɛtɔ da a ɛyɛ den sɛ obi benya asɛmfua a ɛfata pɔtee |
+| Nneɛma a wɔde gu mmeae a ɛnfata a wontumi nhwehwɛ kwan a wɔfa so bio | Nneɛma a obi werɛ fi baabi a ɔde guo berɛ bi na akyiri yi ohu |
+| Gyinaesi a enye, titiriw wɔ sika anaa ahosiesie ho | Gyinaesi bɔne bi a obi yɛ berɛ bi kɛkɛ |
+| Ahosanhwehwɛ a obi twe ne ho fi n'ani gye ho nneyɛe, adwuma anaa fekubɔ ho | Ɛtɔ da a obi nte nka sɛ ɔbɛkɔ abusua anaa nnamfo nhyiam bi ase |
+| Suban anaa nneyɛe mu nsakrae, te sɛ adwenetu, akyinnyegye, ehu anaa dadwen a ɛba | Kwan pɔtee a obi fa so yɛ ne nneɛma a sɛ obi sɛe no a ne bo fuw kakra |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Sɛ wuhu nsɛnkyerɛnne baako kɛkɛ a, ɛnkyerɛ sɛ onipa no wɔ dementia. Asɛm titiriw no ne **nsakrae a aba wɔ sɛnea onipa no te kan no ho**, titiriw nea ɛma da biara asetra yɛ den ma no.
 
-## How is normal aging different from dementia?
+## Ɛhe na nyin kɛkɛ ne dementia gu guam?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) kyerɛ sɛ mpanyimfo pii hu sɛ wɔn adwene nka nneɛma ntɛm te sɛ kan no, anaa berɛ bi wɔn werɛ fi baabi a wɔde biribi sii anaa ka bi. Eyinom taa yɛ nyin mu werɛfi ketewaa kɛkɛ. **Dementia de, ɛnyɛ nyin mu ade a ɛfata kɛkɛ.** Adwene ho haw a emu yɛ den ma da biara asetra yɛ den, te sɛ kar ka, fon so nkɔmmɔbɔ anaa fie kwan a obi bɛhwehwɛ.
 
-The NIA suggests talking with a doctor if someone:
+NIA kamfo kyerɛ sɛ wɔne dɔkota nkasa sɛ onipa no:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Bisa nsɛmmisa koro no ara bio ne bio
+- Yera wɔ mmeae a kan no onim hɔ yiye
+- Antumi anni aduannoa anaa akwankyerɛ akyi yiye
+- N'adwene kɔ so tu kɛse wɔ berɛ, nnipa ne mmeae ho
+- Gyae n'apɔmuden ho hwɛ, te sɛ aduandidi a enye, akyiri guare a onguare anaa ahobammɔ a onni
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Nnipa binom wɔ **mild cognitive impairment (MCI)**. Eyi kyerɛ sɛ wɔn werɛ fi anaa wɔn adwenemu haw dɔɔso sen afoforo a wɔn mfe yɛ pɛ, nanso wɔda so tumi di da biara asetra ho dwuma. NIA ka sɛ MCI betumi ayɛ Alzheimer's ho nsɛnkyerɛnne a edi kan, nanso ɛnyɛ obiara a ɔwɔ MCI na ɔbɛnya.
 
-## What else can cause memory problems?
+## Dɛn foforo na ebetumi ama obi werɛ afi?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Nneɛma pii a ɛnyɛ dementia betumi aka adwene, na ebi wɔ hɔ a sɛ wɔsa a ɛyɛ yiye. NIA bobɔ eyinom din:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Thyroid, asaabo anaa brɛbo mu haw**
+- **Nnuru a obi nom ho nsunsuanso**
+- **Awerɛhow kɛse ne dadwen**
+- **Vitamin B12 a edidi so** anaa aduane a apɔmuden wom a wonni
+- **Nna ho haw**
+- **Nsa anaa nnubɔne a wɔnom ma ɛboro so**
+- **Yare mmoawa, mogya a atɔ anaa atutupepem** wɔ ti mu
+- **Ti mu pira**, te sɛ awosow a ɛba ti mu
+- **Dadwen kɛse anaa awerɛhosɛm**, te sɛ pɛnhyen kɔ anaa kunu anaa yere wuo
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Aso ne ani ho haw nso betumi ama obi asusuw sɛ adwene na atu; hwɛ yɛn [aso fam akwankyerɛ](/brain-health/hearing/). Eyi nti na ɛho hia sɛ dɔkota hwehwɛ mu yiye. Sɛnea [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) kyerɛ no, dɔkotafo taa hwehwɛ mogya mu na wɔahu sɛ thyroid haw, vitamin kakraa anaa yare mmoawa bi wɔ hɔ anaa. [Nna pa](/brain-health/sleep/) ne awerɛhow kɛse ho ayaresa nso yɛ ade a ɛfata sɛ wɔka ho asɛm.
 
-## Sudden confusion is an emergency
+## Adwenetu a ɛba mpofirim yɛ asiane a ɛhia ntɛm
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Adwenetu a ɛba mpofirim wɔ dɔnhwerew kakraa bi anaa nna kakraa bi mu no hia ayaresabea ntɛm ara.** Ebetumi ayɛ delirium. [VA kyerɛ sɛ delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) yɛ ayaresa mu ahometew kɛse na ɛkamfo kyerɛ sɛ wɔmfrɛ onipa no dɔkota ntɛm ara anaa wɔmfrɛ 112. Nsɛnkyerɛnne no bi ne:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Adwene mu ntease a ɛkɔ soro na ɛba fam
+- Adwene a obi rentumi mfa nsi biribi so yiye
+- Nsusuwii a asɛe a kwan nni mu
+- Nna a ɛboro so, anaa ahotɔ a enni hɔ koraa ne ahowosow
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Eyi betumi ato obiara, a nnipa a wɔwɔ dementia dedaw no nso ka ho. Sɛnea [NHS](https://www.nhs.uk/symptoms/confusion/) kyerɛ no, nneɛma a ɛtaa de ba no bi ne yare mmoawa (dwoaso yare taa ba mpanyimfo ne nnipa a wɔwɔ dementia mu), asikreyare a ɛkɔ fam kɛse, stroke, ti pira ne nnuru bi. Berɛ a motwɛn mmoa no, tena onipa no nkyɛn na fa nsɛmfua tiawa a ɛdwo ma ne koma ntɔ ne yam. Mmisa no nsɛmmisa pii, na fa nnuru biara a ɔnom no toto hɔ.
 
-## How do I prepare for the doctor's appointment?
+## Sɛnea mɛsiesie me ho akɔ dɔkota nkyɛn
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Dɔkotahu pa fi nneɛma a wɔakyerɛw pɛpɛɛpɛ so. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) kamfo kyerɛ sɛ moanso eyinom:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Nsakrae a moahu** wɔ adwene, su ne nneyɛe mu, a nhwɛso pɔtee ne berɛ a efii ase ka ho
+2. **Apɔmuden haw a atwam ne nea ɛwɔ hɔ seesei**, a abusua abakɔsɛm wɔ adwene haw ho ka ho
+3. **Nnuru a dɔkota akyerɛw ne nea wɔtɔ kɛkɛ nyinaa**
+4. **Vitamin anaa apɔmuden nnuru biara**
+5. **Wo nsɛmmisa**, te sɛ nsɔhwɛ bɛn na wɔbɛyɛ, berɛ a ɛbɛfa ne berɛ a mmuae no bɛba
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Ɛboa nso sɛ wobɛfa abusuani anaa adamfo bi a onim onipa no yiye aka wo ho. [NIA kyerɛkyerɛ mu](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) sɛ dɔkotafo betumi abisa onipa no ne abusuani no nyinaa nsɛm fa apɔmuden, nnuru, da biara nneyɛe ne suban mu nsakrae ho. Dɔkotafo betumi nso:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Ayɛ adwene, haw siesie, ahwɛyiye, nkontabuo ne kasa ho nsɔhwɛ
+- Ahwehwɛ mogya, dwonsɔ ne nsɔhwɛ afoforo mu de ahwehwɛ nneɛma afoforo a ebetumi de aba
+- Ahwɛ sɛ awerɛhow anaa adwenemyare foforo bi wɔ hɔ anaa
+- Atwa ti mu mfonini te sɛ CT anaa MRI
+- Amaneɛ wɔn akɔ dɔkota pɔtee bi nkyɛn, te sɛ mpanyimfo dɔkota, adwene ne ntini dɔkota, anaa adwene mu nhwehwɛmu dɔkota
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA hyɛ no nsow sɛ adwene nhwehwɛmu yɛ ade titiriw a ɛka afe biara Medicare apɔmuden nhwehwɛmu ho, na ɛyɛ berɛ pa a wobetumi aka haw a moahu no ho asɛm. Dɔkotafo nsɔhwɛ tiawa no mpo nnu sɛ wɔde bɛka pɔtee sɛ obi wɔ dementia. Ɛyɛ anammɔn a edi kan pɛ kɔ nhwehwɛmu a emu dɔ mu, na yare no hwehwɛ betumi afa nsrahwɛ boro baako. NIA tu fo sɛ nnipa a wɔwɔ adwene mu haw no nsan nkɔ dɔkota nkyɛn asram 6 kosi 12 biara.
 
-## Raising the subject kindly
+## Asɛm no a wɔbɛma so wɔ ayamhyehye mu
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Sɛ worewenwen obi ho a, pɛ berɛ a asomdwoe wɔ hɔ na obiara nni hɔ. Ka nneɛma pɔtee a woahu no ho asɛm sɛ w'adwene kyere wo wɔ n'apɔmuden ho, na ɛnyɛ sɛ worebɔ no soboɔ. Sɛ wukasa fa nipadua nhwehwɛmu kɛkɛ ho a, ɛmma ehu mma kɛse. Fa onipa no ka gyinaesi nyinaa ho na kasa kyerɛ no te sɛ panin a ɔte saa ankasa. Yɛn [nkɔmmɔbɔ ho afotu](/caregiving/communication-tips/) betumi aboa wo.
 
-## Talk with a doctor
+## Kɔhu dɔkota
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Sɛ wuhu nsakrae wɔ werɛ, nsusuwii, su anaa da biara tumi mu a ɛyɛ foforo na ɛkɔ so ba a, yɛ nhyehyɛe kɔhu wo dɔkota a ɔhwɛ wo daa no. Sɛ adwenetu a ɛba mpofirim na ɛba a, frɛ 112 anaa onipa no dɔkota ntɛm ara. Sɛ wɔhwehwɛ mu ntɛm a, wobetumi ahu nneɛma a wobetumi asa, na sɛ ɛyɛ dementia mpo a, mobɛnya berɛ pii asiesie mo ho na moahwehwɛ mmoa. Hwɛ wo ho so yiye wɔ saa berɛ yi nso mu; hwɛ yɛn [ahohwɛfo ho afotu kratafa](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Kratafa yi yɛ nsɛm a wɔde ma nyinaa kɛkɛ, na ɛnyɛ dɔkota afotu pɔtee. Hwɛ yɛn [dɔkota ho kɔkɔbɔ](/medical-disclaimer/).

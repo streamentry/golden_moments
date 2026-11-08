@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Buxah Taamoomi Kas Bayti Le Marah Abnookah"
+seoTitle: "Kas Bayti Le Marah Buxah Taamoomi: Kulli Saaku Taama"
+description: "Saraaciyya, baxsaabaxsaleh celta, maadiddah xiso kee alcaanissiyya kas bayti le marah meqe abnookah takke. Taamoomik xiso, madaaqissa kee aamin abtu duydam."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Kulli saaku buxah taamoomi, fooxoota saraaciyya, kalsiita baxsaabaxsaleh
+  xiso, maadidda massoysiyya, meysar taagookiyya, daroorta baxaagissiyya kee
+  xabuuqih qokol abiyya kas bayti le numuh duma meqe qokolih gide yeceeh. Ason
+  yaaxigen taamoomi doora, kulli gide inki gersiitil keenit baxsa, sayfiita
+  kee kalaluk tan heeloora kalala, taama "cakkik" abak gacaanamik gaba elle
+  heenooxa meqe qaxut oggola.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Yaaxigen taama abiyya num buxah miroocah yanik yabaah meqe num kinnim aagarak qokla, tamaam taama elle temceh tan qaxuk mangoh tayse."
+  - "Kulli taama inki gersiitil baxsa, yaabenik gaba essakisa, gigibik yenen gersiita qaxumuk sinam gaba kalala."
+  - "Sayfiita, saytuntiyyah dawoom kee saabuun alifa baaxol heya, garcil xabuuguk duma girah butuunitte cuggaasa kee isik tibbideh tan kalalo heya."
+  - "Saraaciseenih yan fooxoota numuk fofit gariik saraacoonam mafaxximta. Tu gariik massoysoonu faxximtek, sarrah kee inti elle matabel aba."
+  - "Taama gituk yabek hinnay daabisa tekkeh tektek, xabuuqih gersiital madaara, wadirih waktil gariik abtaanam korsa, hinnay inki garcil gaca."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Kas bayti le num annah yan buxah taamoomil qokol abuw duuda?"
+    a: "Mangi mari sartan saraaciyya, kalsiita celtaanam, shawkoota kee maqlagoota baxsaabaxsaleh xiso, maadidda massoysiyya, meysar taagookiyya, buxa daamiyya, fikissiyya, daroorta baxaagissiyya hinnay buuruk korsiisa abuw duudan. Num duma abak yen taamoomi dooraah a saaku abuw duudam yallih gexsit massoysa. Wadirih kaddoomil, inki gersiitil takke taama, fooxoota qallacissiyyak gacaanam, xiqtah gide takku dudda."
+  - q: "Kas bayti le num buxah alcaanissiyyal qokol abam aamin kinnii?"
+    a: "Aamin takku dudda, cuggaasaleh aagarak kee meqe xisoh sabatah. Sayfiita, saytuntiyyah dawoom kee kalaluk tan xayi heeloora intiik kalala, girah butuunitte alifa hinnay isik tibbide kalalo heya, numuh aamin taama yeceya, daroorik qaxuk dacrisiyya, korsiisa hinnay seexoota maasaysiyya innaanih tan taama. Girah buxal kalalih gide num dibuk maqaatina."
+  - q: "Hinnay heeloora gituk saraaceenik hinnay fokkaaqu heenik manna abnaa?"
+    a: "Elle caba. Fayxi inki garcil wakti dacrisiyya kee qokol abaanam aagarak gacaanam kinni, kacanle taama hantiseh gacaanam hinna. Tu cakkik gariik massoysoonu faxximtek, wadirih waddah dacrisaah num sin wayuk tabel aba, sinam tiddifeenim maagaran kal."
+  - q: "Qokol abaanam qeedenik manna abnaa?"
+    a: "Maanqo yaanam tama saaku taama ceyteh, daabiseyteh hinnay daacteh tanim kassiissuh takku dudda. Num matambina. Xabuuqih gersiitil xisa, keenik inki garcil gacanay ixxa, hinnay saakuk meqe waktil gariik essera."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Kas bayti le marak mangi mari buxah maaqisso xisiyya, mara dadalisiyya hinnay taamoh araca massoysiyyal tabanih sanatitte gexsen. Cakkik buxah taamal qokol aba iyyu keenih eceenim "isin amolladih a buxah num kinniiton" yaanam qasbi gital keenih tascasse. A kaskasso meqe taamoomi tiya, elle xisaanih tan qaxu, korsa tekkeh tektek elle madaaqissan gita, kee alcaanissiyya akah saytisaanih tan buxa aaminik heyaanih tan gita warsah.
 
-## Why do everyday chores work well as activities?
+## Buxah kulli saaku taamoomi macah meqe abnookah takkee?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Taamoomi meqem yaaxigeenim kee baxsaleh tan meqe fayxi akah leemih sabatah kinni. National Institute on Aging seexoota xaacissiyya, maadidda massoysiyya, buxa daamiyya, fikissiyya, warakitte baxsaabaxsaleh xiso, sara saraaciyya kee qaxba baxsaabaxsaleh celtaanam a [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) elle warsen. Alzheimer's Association tascasseh maadidda massoysiyya innaanih tan taamoomi num [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities) akah abtu duuddam kassiissa.
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Taama akah qimbisan baxsale sabat elle leeh yamaate. "A fooxootal yo qokoltu duddan?" yaanam "Abnooka abnu faxxaana?" yaanamik gaba elle oggolaanam xabbicowtah.
 
-## Which household tasks are good to try?
+## Buxah taamoomik korsa takkuh meqem tiya?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Num duma abak yen taamoomik qimbisaah, a saaku abuw duudan gidal madaaqisa.
 
-### Laundry and linens
+### Sartan kee saara
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Fooxoota kee saytuntiyyah sara saraaciyya.** Qaxiqaxaleh tan heeloora le sabata keenih yeceya. Fooxoota meqem: gituk saraacen wayek tu matakka.
+- **Kalsiita baxsaabaxsaleh celtaanam.** Walalluk tan kalsiita meysaral heya. Lammaay celta heeloora tabel gituk ceytek, namma hinnay sidoocah baxsaleh tan kulla doora.
+- **Massoysiyya kee gariik xiso.** Maadidda fooxoota, firashih kalloita hinnay seexootah fooxoota massoysak dalwaluk xisaanih. Tamaam sarrah saraaciyya ceyteh gide tekkeh meqe qokol takke.
 
-### Table and kitchen
+### Maadidda kee alcaanissiyyah araca
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Maadidda massoysiyya.** Inki araca elle massooweh tan inna tascasseh num akah kalalu heya. Tamaam ceytek, inki heelo gersiitil yeceya: "Kulli seexoh inki shawkata tiya."
+- **Maqlagoota kee shawkoota baxsaabaxsaleh xiso.** Saytun shawkoota, maqlagoota kee zibtih sayfiita dhabayallal walallisaah baxsaabaxsaleh tan sanduuqal heya. Qariileh tan sayfiita kalala.
+- **Seexoota alcaanissiyya.** Plastik hinnay mawaqa seexoota kee qaxu-le fooxa a taama aamin abah.
+- **Maadidda hinnay meysar taagookiyya.** Qabaxle fooxa kee saytun araca. Alzheimer's Association num maadidda gaba elle taagookak yenek fooxa keenih yeceenim, tama daacti le gaba meqe taamal korsaah akah qoklaanam kassiissa.
 
-### Around the house
+### Buxah aracal
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Fikissiyya.** Qaxu-le duster kee qaxiqaxale meysara, shaahi meysara hinnay kitaabitteh araca innaanih tanim.
+- **Warakitte baxsaabaxsaleh xiso.** Buxah faxxi hayte wayta warakitte yeceyaah dalwaluk xisa: cina, qaxba aba, sarrah faka. Cakkik biil kee lakqo warakitte kalaluk tan aracal heya.
+- **Qaxba baxsaabaxsaleh xiso.** Saytun qaabatte, kurraat kee warakitte baxsaleh tan sanduuqitteh addal heya.
+- **Buxa daamiyya.** Qaxiqaxale buxah daamiyya alcaanissiyyah baaxol hinnay buxah fofit, gabataabit daaba tektek.
+- **Daroorta baxaagissiyya.** Qaxiqaxale lee korsiishiyya kee gaba elle guftah tan daroorta.
 
-### Simple cooking with supervision
+### Cuggaasale aagarak xabuuqih alcaanissiyya
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Xabuuqi alcaanissiyya meqe kassiis kee kacanle aagartoota gacissuh takku dudda. NIA num alcaanissiyyah heeloora gaaboysuh, miizaanaah, walallisuh kee korsiisuh, hinnay cakkik is yaaxige alcaanissiyya garih warisuh meqem kassiissa. Meqe taamoomi aak gacta:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- daroorta hinnay caxah caxmiixota xaacissiyya
+- buuruk korsiisa hinnay salad korsiissiyya
+- salaatah ayfaafi gabaaxawisiyya
+- qariile wayta sayfiyil gaqombot zibti heyaanam
+- kaqkih buuruk sinil heyaanam
+- biitsah amol heeloora heyaanam
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Miizaana ceytek, Alzheimer's Association isin miizaana duudusaah sarrah korsiissiyya innaanih tan baxsale gersiita keenih yeceenim kassiissa.
 
-## How do I set up a chore so it goes well?
+## Taama akah meqentah manna elle xisaa?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Meqe saaku doora.** Num daacik kalaluuh daaba le saaku doora. Mangi marah tamaam saaku-saaku takke.
+2. **Araca saytisa.** Inki taama, inki meysara, maadidda amol tu kalen wayya.
+3. **Seeca, amri maxcina.** "Aheek yo qokoltu duddan?" yaanam "Sartan saraaciyyah saaku gufe" yaanamik mangoh tayse.
+4. **Ayyuntiisa essakisa.** Inki fooxa qaxumuk saraaca, sarrah teetit celta keenih yeceya. Gaba essakisaanam yaabenik mangoh baxsaleh tascasse.
+5. **Inki gersiita inki waktil yeceya.** Inki gide mangi amriite yeceenim num daabissa. Inki gersiita duudeemik wadir sarrah tiya warsa.
+6. **Inki aracal gariik taamita.** Inki taama inki garcil abiyya kacanle kasceena kinni, cuggaasale qebsa hinna.
+7. **Taamah yab, hantisiyyah mayabin.** "Toh mangoh qaxu-le" hinnay "Saran sanduuq akah xisaanaah yenen qaxu yo warisa" yaanam num mabbaxiyak yaaba fakta.
 
-## How do I adapt chores as abilities change?
+## Dudda korak gexxaamat taamoomi manna elle madaaqisaa?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Dudda waktik waktil kee saakuk saakul korak gexxa. Alzheimer's Association biyaakik gexsiyya elle korak gexxa innaah xabuuqih tan, gariik takke taamoomit madaaranim kassiissa.
 
-| If this has become hard | Try this instead |
+| Ahe ceytek | Tohuk wadir ahe korsa |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Kaxxa firashih saara saraaciyya | Fooxoota saraaciyya hinnay maadidda saran massoysiyya |
+| Maadidda inkih massoysiyya | Kulli daful inki fooxa heyaanam |
+| Warakitte baxsaabaxsaleh xiso | Bahititte inki dalwaluk xiso |
+| Alcaanissiyyah amri katayaanam | Korsiisa, hinnay alcaanissiyyal wagitaah kacanle madaaqa aagaro |
+| Buxah baaxo inkih daamiyya | Qaxiqaxale meysara taagookiyya |
+| Taama inkih abiyya ceytek | Sin garcil dafaak sin qoklaanam |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Wagitaanam meqe taama. NIA gariik mari wagitaanamik kacanle aagarto geyaanim tascasse, toh meqe gital abnookah tan.
 
-## How do I keep household tasks safe?
+## Buxah taamoomi aaminik manna akah heeyaa?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Aaminino duma tamaate, cakkik alcaanissiyyah aracal. NIA-h [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) elle tascassem:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Saytuntiyyah dawoom alifa baaxol heya hinnay kalala, saabuun karamaalla celah yanim kalala.
+- Sayfiita, maqaassittee kee kaxxa qidiiti alifak tan aracal heya.
+- Girah butuunitte kalalo leem heya kee isik tibbideh tan switch heya.
+- "Soli" hinnay "Mangoh kalala" yaa asta oven, mookoo kee girah cuggaasal heya, gira elle buulata wayta aracal.
+- Leeh kalalisaanama 49°C heya lee kalalo num mabiyaakissak gaca.
+- Caxah caxmiixot celta heeloora kee maaqok celta maagneetitte kalala, maaqoh celuh takkemih sabatah.
 
-A few more practical habits help:
+Gariik meqe abnookah tan qaxu qokla:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Gira, oven hinnay qariile qidiiti taamitak yaniinimik, tama aracal mara.
+- Mawaqa seexoota alcaanissiyya kee maadidda massoysiyyal xisa.
+- Buxah baaxo daamak hinnay taagookak yenen saaku alcaanissiyya kee saytuntiyal heya.
+- Num duma qidiiti taamitak yenek, Alzheimer's Association biyaakissa qidiiti kalalaanam kassiissa, caxah xabaaba innaanih tan aamin taamal abnooka abuw duudan.
 
-## What if they do it "wrong"?
+## "Gituk" abeenik manna abnaa?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Elle caba. Fooxa nammah gidek gariik sidoocah saraaceenik, fooxa saraaceenim kinni. Alzheimer's Association baxaaxaguk tascasseh: meqem inki garcil wakti dacrisiyya kee num qokol abaanam aagarak gacaanam kinni, fooxoota gituk saraaceenim hinna. Tu cakkik gariik massoysoonu faxximtek, wadirih waddah dacrisaah num sin wayuk tabel aba.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Tama saaku cakkissiyya kacanle taama bayteh tan kas kassissiyyal korsa. "Gaxsa, meqe kaxxa qokol kinni" yaanam kulli saaku meqe yab kinni.
 
-## When should we stop?
+## Manna elle solnaa?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Daabisa, daacti hinnay fayxih bayti tekkem tableenik sola hinnay korsa. Cuggaasal solisaanam meqe hantisi kinni, bayti hinna. Isin:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- xabuuqih gersiital korsa
+- daaba le heelooral korsa, muuziqaa hinnay bunah fingaan innaanih tanim
+- wadirih waktil hinnay gariik saaku gariik aba
+- inki aracal dibuk dafa
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Num qeedek, matambina. Xabuuqih gital elle gacanah [what to do when they say no](/caregiving/when-they-say-no/) wagita.
 
-## Low-effort extras for a quieter moment
+## Daaba le waktih xabuuqih abnooka
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Baaxo taama abiyya ceytek, baxsaabaxsaleh xiso kee celtaanam dafaak abaanam duudan. [Sort Together](/games/sort-together/) alcaanissiyya hinnay daroortah sabatal suwarta korsiisaanam siinih cabta, [Picture Pairs](/games/picture-pairs/) kaxxa suwartale celta gaami kinni, saakule timer aalle kal. [Conversation Cards](/games/conversation-cards/) buxa kee garcah meqe yaaba le, taama duudak wadir buna dafaak aquban saaku kacanle yab yacee.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Taamoomi saakul elle xisaanih gital, [calm daily routine](/activities/daily-routine/) wagita. Kaddoomih gitak gariik abnookah, [middle-stage activities](/activities/middle-stage/) wagita.

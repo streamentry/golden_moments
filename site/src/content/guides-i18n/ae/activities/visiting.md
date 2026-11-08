@@ -1,34 +1,34 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Haraiti-nmāne Bīšazyehe vā Narəm Jasaiti"
+seoTitle: "Narəm Jasaiti: Čit̰ Barōi Yezica Kərənvōi"
+description: "Yezica narəm haraiti-nmāne bīšazyāi vā jasāhi: čit̰ barāhi, yā kərəši, kaspō darəsō, uta vaŋhau vaši."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Yada narəm yim harahi haraiti-nmāne bīšazyehe vā jasāhi, kaspəmča rāməmča
+  kərənu: nāmanąm ahmāi mrūhi yada āsnaoši, bara ahmāi čit̰ paiti-bərəte yaθa
+  fradafšnō, sraošyā vā xᵛarəθō, uta aēvaŋhā frasparəta kərənvata. Kaspō uta
+  aipi-aipi darəsō vaŋho aŋhaiti yazača dərəγō anā-gamatō. Rāməm haməmča
+  framruyā paiti-gamatīm, aēvaŋhā hurāma dōiθrāi duvā-aipi bavāθa.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Nāmanąm ahmāi frāmruyā uta kah ahmī, aēvaŋhā nōit̰ xšayeiti manō-bərəte: 'Vandāmahi mātə, ahmī Susan, duɣda tayē.'"
+  - "Bara aēva vā dō vā ahmāi: fradafšnō-putha, hu-sraošyā, nəmavahi vasna, aiyəŋha xᵛarəθəm yim haratāro paiti-vərəzyən."
+  - "Kaspō, aipi-aipi darəsō vaŋhatarō dərəγāt̰ anā-gamatāt̰. Tava paiti-aŋhiti mazyeiti yazača vāčō mrūhi."
+  - "Bīšazyehe nmāne, bīšazānąm aēva-pərəna paiti-framruyā narəm paiti, uta yezica aŋhuš taršnō aipi-vərəzyeiti, bīšaze tūirīm mrūhi."
+  - "Fraša-gamatīm handāraya: framruyā yaθa aŋhāhi, haməm vāčim paiti-mrūhi yada vaši, uta rāməm frāyāhi."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Čit̰ barāni yada narəm yim harāmi jasāmi?"
+    a: "Bara čit̰ paiti-bərəte, nōit̰ čit̰ pərəsayeiti. Kasō fradafšnō-puthō, sraošyā tayō vāurāite, vasnəm nəmahu, zasta-ravanəm, paθa-putha yā parō vāurāite, aiyəŋha xᵛarəθəm yim haratāro paiti-vərəzyən vaŋhau aŋhənti. Haraiti-nmāne, nmānyā fradafšnō uta xᵛaēpaithyā čišča kərənvanti maēθanəm yaθa nmānam."
+  - q: "Yaθa darəγō darəsō aŋhaiti?"
+    a: "Nōit̰ asti aēva nəmō. Paoiryehe vaēdāiti kaspōča aipi-aipi darəsō vaŋho asti yazača dərəγō anā-gamatō, aēvaŋhā ahmāi manō spaθyeiti uta nōit̰ manō-paiti yaθa darəγō aŋhuhi. Dīδi arəθəm ahmāi, uta frāyāhi yada darəsō eti vaŋhau."
+  - q: "Čit̰ mrūyē yada mrvaite 'Vašemi nmānəm šyeiti'?"
+    a: "Paiti-mrūhi mainyōi, nōit̰ vāčāi. 'Vašemi nmānəm šyeiti' aipi mruite 'Nōit̰ rāməm ahmī'. Mrūhi: 'Frāmruyā mē nmānahē tayē', dīδita fradafšnō, aiyəŋha carata paiti aiyəŋha xᵛarəta. Paiti-ərənāiti aiyəŋha paiti-mravaite yaθa nōit̰ šyete paiti-dāreiti duš-manō."
+  - q: "Yezica nōit̰ zānaiti mąm?"
+    a: "Duš-zərəda bavaiti, aēvaŋhā ma pərəsōhi 'Nōit̰ zānāhi kah ahmī?' Frāmruyā hu-xšnaoθra tava nāmanąm uta rāməm bujāθa haməm. Paoiryehe narō vāurayənte paiti-aŋhitīm uta xšnaoθrəm darəsahē yadača nōit̰ manō-paiti zānaiti kah hyā."
+  - q: "Yaθa upa-kərənavāne bīšazyehe nmāne?"
+    a: "Aŋhuhi paiti ahmāi yada xšayāhi, upa-xᵛarəna uta upa-hurāma, bara xᵛaēpaithyā čišča yaθa fradafšnō. Daδāhi bīšazānąm pərənąm haca yā vərəzyeiti, nāmanąm yim vāurāite, uta arəθəm tižyehe. Bīšazyehe tūirīm mrūhi yezica taršnō aŋhuš vərəzyeiti, aēvaŋhā taršnō daθa mruite bīšazānąm arəθa."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +53,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Jasaiti narəm yim friyō haraiti-nmāne, daθyō-nmāne aiyəŋha bīšazyehe nmāne fravaxšyeiti pouru manō. Manāhi čit̰ framruyā, čit̰ barāhi, aiyəŋha yezica darəsō vazdra asti yada ahmāi nōit̰ manō-dārayeiti. Vazdra asti. National Institute on Aging framruite yaθa narō yōi Alzheimer ahmī [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yadača nōit̰ manō-paiti kah jasaiti. Aēva pərəna daδāiti kərəsvąn parō, aipi, uta pasca darəsam, uta handarzəm bīšazyehe nmāne.
 
-## How do I get ready for a visit?
+## Yaθa handārayāne darəsam paiti?
 
-A little planning makes the visit easier for both of you.
+Kaspəm handāiti rāməm kərənaoiti duvā-aipi.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Vara vaŋhə̄uš zrvānəm.** Dementia Australia handārayeiti jasaiti yada ahmāi uš-dāto asti, yaθa ušahe aiyəŋha arəm-piθwāi. Family Caregiver Alliance framruite zānāhi haraiti-nmānahē zrvānəm uta jasāhi [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Pərəsa haratārō.** Pərəsa yaθa narəm asti ahmī ayan, uta pərəsa dātəm haca xᵛarəθāi, pasuš-haraiti aiyəŋha šyeiti.
+- **Bara kaspəm draonō.** Aēva vā dō vā čišča paiti-bərəte arəm asti (dīδi ni-paθa).
+- **Handāraya vāčō.** Narəm nōit̰ vaēda frayō vāčō, bara xᵛaēpaithya: taoxmahe vāčō, vātəm, aspa-kərvəm, aiyəŋha carana-vāčim.
+- **Dāra xᵛaēpaithyō manō.** Aipi darəsō aŋhaiti hu-manah uta čašti. Aipi aŋhaiti tušnī aiyəŋha hardəm. Duvā-aipi aŋhənti nəmō.
 
-## What should I bring?
+## Čit̰ barāne?
 
-Bring things to share, not things that test. Good choices include:
+Bara čit̰ paiti-bərəte, nōit̰ čit̰ pərəsayān. Vaŋhavō aŋhənti:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Kasō fradafšnō-puthō** mazō-ciθrābiš. Paiti-nipata cīm asti haratārəbyō.
+- **Sraošyā tayō vāurāite** paiti kašu-sraošyā aiyəŋha sravana-gaoša.
+- **Nəmahu čit̰ draxtəm,** yaθa xᵛaēpaithyō vasnəm, karana aiyəŋha vastrəm.
+- **Zasta-ravanəm** sravanahe zastā-spasne, yezica narəm ahmāi vāurāite.
+- **Paθa-putha aiyəŋha ciθra-putha** parō-yōštōit̰, yaθa zaranya-kərəiti, vāša, vīš, aiyəŋha xᵛarəθō-kərəiti.
+- **Xᵛarəθəm yim vāurāite**, yezica haratārō framruvən rāməm asti.
+- **Xᵛaēpaithyā čišča maēθanāi.** Family Caregiver Alliance framruite urvarā, vərəzō, taoxmahe fradafšnō uta ciθra, aiyəŋha maziš fradafšnō haca parō zrvānē.
+- **Tablet**, ciθranąm dīδāiti aiyəŋha rāma-krīδanəm haməm.
 
-## What can we do together during a visit?
+## Čit̰ haməm kərənavāma darəse?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Kərənvō haməm apanayeiti duš-və̄rəzīm haca vāčə̄urīm. Dementia Australia framruite dīδiti fradafšnō, kaspō vərəzō, urvaranąm ni-dāna, hu-sraošyā, xᵛarəθō-bərəti, aiyəŋha carana nmānahe pairi. Frayō kərəsvąn:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Dīδita fradafšnō.** Mrūhi yā vaēnahi: "Dīδi aom maonəm." "Aēva zraya vaŋhuš vaēneiti." Dāra narəm frā-yāhi. Ma mrūhi: "Kah asti aēm?"
+2. **Sraošyā uta srāvaya.** Hu-sraošyā sravo-bərəti kərənaoiti uta haməm aŋhitīm daδāiti yada vācō hardō asti.
+3. **Kaspəm carata.** Family Caregiver Alliance framruite carata pairi nmānəm, uz-vərəze yezica asti. Wheelchair-caranača asti carana.
+4. **Daδāhi zastā-ravanəm.** Kaspō ravanəm uta sravō zastanąm spasnəm rāma daδāiti.
+5. **Upa-kərənu vastrāi uta varəsāi.** Dementia Australia framruite varəsanąm fraspara, ašnā-parəna, aiyəŋha vaŋhaiti hu-vastrahē.
+6. **Krīδa kaspəm krīδanəm.** Family Caregiver Alliance framruite kārta, domino, aiyəŋha čit̰ narəm parō krīδaiti. Paiti tablet, [Picture Pairs](/games/picture-pairs/) krīδyeiti ciθrābiš dīδitābiš uta nōit̰ zrvānō-paiti. [Photo Pairs](/games/photo-pairs/) xᵛaēpaithyā fradafšnō kərənaoiti paiti krīδanəm, uta fradafšnō aŋhənti paiti tava browser.
+7. **Dīδita čit̰ haməm.** Family Caregiver Alliance framruite sraštəm uta parō-sinemā. Yadača narəm nōit̰ vaēda sravəm, aŋhāθa nazdyō uta haməm bujāθa zrvānəm.
+8. **Frasrāvaya ahmāi.** Kasō yaštō, vāuraitīm pərənąm, aiyəŋha nāma haca taoxmāt̰.
+9. **Tušnī haməm aŋhāθa.** Zastanąm dārayeiti aiyəŋha tušnī aŋhiti asti vazdrō darəsō. Alzheimer's Association paiti-framruite yaθa rāməm asti nōit̰ zānaiti čit̰ mrūhi, uta tava aŋhiti mazyeiti.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) upa-kərənaoiti yada vāčō apanasyāiti. Aēva kārtō dārayeiti ciθrəm uta pərəsam.
 
-## How should I talk during the visit?
+## Yaθa vāčim mrūyē darəse?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Frāmruyā tava nāmanąm hamayā.** "Vandāmahi pita, ahmī Mark, puθra tayē." NIA framruite darəsa-bərəte kaspəm nāmanąm mrūhi paoiryehe.
+- **Ā-yāhi haca parō** uta aŋhuhi dōiθranąm aipi.
+- **Ma paiti-ərəna ma paiti-mrava.** NIA handārayeiti darəsa-bərəte ma paiti-ərəna yezica narəm daθa vərəzyeiti aiyəŋha manō-harazi.
+- **Dāra zərəda-dārəm** yada vācō hardō asti. Daδāhi darəγəm zrvānəm.
+- **Paiti-mrūhi mainyōi.** Yezica narəm duš-manō aiyəŋha paiti-tāpō vaēneiti, mrūhi rāməm parō yazača vāčim vərəzyāhi.
+- **Ma pərəsōhi pərəsā-krīδanəm** yaθa "Manō-paiti zānāhi mąm?" aiyəŋha "Čit̰ xᵛarō piθwāi?"
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Dīδi ahmākam [communication tips](/caregiving/communication-tips/) frayō arəθāi.
 
-## What do I do when they say "I want to go home"?
+## Čit̰ kərənavāne yada mrvaite "Vašemi nmānəm šyeiti"?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Paiti-mrūhi mainyōi pasca vāčə̄urīm (ahmākam handarzəm paiti [when someone keeps asking to go home](/caregiving/asking-to-go-home/) frayō framruite). Family Caregiver Alliance framruite yaθa "Vašemi nmānəm šyeiti" aipi mruite "Nōit̰ rāməm ahmī," uta handārayeiti paiti-mrūhi: "Frāmruyā mē nmānahē tayē" aiyəŋha "Čit̰ frayō vāurāite nmāne?" Dementia Australia aipi-framruite yaθa "nmāna" xšayeiti zrvānəm aiyəŋha maēθanəm yada narəm rāməm aŋhaiti, yaθa aparənāyu zrvānē.
 
-Try:
+Vərəzya:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- paiti-zānāhi mainyūm: "Vaēneiti yaθa manō tayē nmānāi eti."
+- daδāhi rāməm zastā-spasnāt̰, yezica vāurāite
+- dīδita fradafšnō aiyəŋha framruyā taoxmahe nmānəm
+- daδāhi caranəm, xšnūtəm aiyəŋha xᵛarəθəm
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Ma paiti-ərəna ma framruyā čim nōit̰ xšayente šyeiti. Nōit̰ upa-kərənaoiti uta frayō duš-manō kərənaoiti.
 
-## How long should a visit be?
+## Yaθa darəγō darəsō aŋhaiti?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Kaspō uta aipi-aipi frayō vaŋhatarō asti. Family Caregiver Alliance framruite yaθa narəm nōit̰ manō-paiti yezica panca rapiθwā vā panca ayan aŋhuhi, uta framruite yaθa θrī kaspō darəsō aēva-sāste vaŋhatarō aēvāt̰ dərəγāt̰. Dementia Australia framruite nōit̰ asti aēva nəmō darəsahē aiyəŋha zrvānō.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Paoiryāhu sāstahu pasca haraiti-nmāne šyātīm, Family Caregiver Alliance handārayeiti jasaiti aipi-aipi, pasca aēvaŋhā rāməm vərəzya. Pərəsa haratārō čit̰ vaēnən.
 
-## How do I leave without upsetting them?
+## Yaθa frāyāne anā-duš-manō?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Frā-gamaiti xšayeiti aŋhaiti hardišta. Dementia Australia handārayeiti:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Framruyā yaθa aŋhāhi yada āsnaoši.** "Aŋhāmi aēva rapiθwā, pasca parō-yāmi vərəzīm."
+- **Kərənu vərəzəm naturaləm handāitīm.** "Yada aēvąm sraošyąm nipayāma, frāyāmi."
+- **Handāraya piθwāi vā vərəzāi,** aiyəŋha pərəsa haratārō upa-dāna narəm anyāi kərəsvāi.
+- **Dāra paiti-vāčim kaspəm uta haməm hamayā.** Dərəγō dārayeiti, paiti-xšnūtem aiyəŋha "kaspəm frayō" kərənaoiti aipi frā-gamatīm harditarəm.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Pasca frāyāhi, nəmō asti duš-manō aŋhiti. Rāməm dāra tanūm. Yezica narəm duš-manō bavaiti, haratārō tūirīm upa-dərəzyən rāməm ahmāi.
 
-## Visiting someone with dementia in the hospital
+## Bīšazyehe nmāne narəm jasaiti
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Bīšazyehe nmāne asti xrafstra-xšnūtō, an-āsnātō uta an-āšnō pouru narō, yā hardō bavaiti narāi yō manō-bərəte aŋhaiti. NIA handarzəm paiti [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) handārayeiti:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Dāra aēvaŋhā paiti ahmāi** yada xšayāhi: taoxmahe narəm, hu-friyo aiyəŋha haratārəm.
+- **Daδāhi haratārəbyō xᵛaēpaithyąm pərənąm** ahmāi vərəzō, vāuraitīm nāmanąm, yā vāurāite uta yā nōit̰ vāurāite, uta an-uzvānō tižyehe arəθəm. Dāra pərənąm maēθane uta bīšazānąm dāštre.
+- **Upa-kərənu xᵛarəθāi uta hurāmāi.** Zarəθō narō bīšazyehe nmāne xšayən duš-piθwa bavaiti. Jasa paiti čišča, upa-xᵛara, haməm xᵛarata, daδāhi xšnūtəm.
+- **Bara rāma-draonō** yaθa fradafšnō aiyəŋha spənta čišča.
+- **Kaspəm kərənu xrafstrəm.** Tušnī kərənu TV uta kaspəm kərənu sravanahe ravanəm.
+- **Vərəzya rāməm kərəsvąn,** yaθa hu-sraošyā, paθa, āfrīnāiti, sravana aiyəŋha parō fradafšnō dīδiti.
+- **Paiti-vərəzya caranəm** yada rāməm asti, haratāranąm dātāt̰.
+- **Bīšaze tūirīm mrūhi yezica narəm taršnō tarə bavaiti.** NIA framruite yaθa taršnō maziš duš-manō, yazača delirium mruite, bavaiti haca duš-tanūtāt̰, garəmō, an-āpa aiyəŋha bīšazyehe vərəzāt̰, uta bīšazyehe upa-dānam ahmāi vasyeiti.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Kaspō, rāmō darəsō haca āsnāte dōiθrāt̰ uta hu-sraošyāt̰ aŋhaiti rāmišta arəθō bīšazyehe ayanē.
 
-## Bringing children on a visit
+## Aparənāyukā jasaiti darəse
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Aparənāyukā barənti pouru xšnaoθrəm. Handāraya e ahmāi parō kaspə̄urīš uta arš-vāčābiš vāčābiš, dāra darəsam kaspəm, uta daδāhi aēvaŋhā vərəzəm, yaθa fradafšnō dīδiti aiyəŋha ciθra dāiti. NIA framruite yaθa aparənāyukā uta narō Alzheimer ahmī haməm vāurayənte kaspəm vərəzəm, yaθa fradafšnō-putha dīδiti aiyəŋha hu-sraošyā sravayeiti. Dementia Australia handārayeiti baraiti kaspəm draonō aiyəŋha tušnī čišča aēvaŋhā aparənāyukā rāməm aŋhənti.
 
-## Take care of yourself too
+## Harahi xᵛaēpaithyąm tanūm aipi
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Darəsō xšayeiti dərəzō uta manō-vərəzō bavaiti, yada narəm pouru taršnō bavaiti. Nəmō asti kaspō jasaiti yezica vasyeiti, barāhi friyəm upa-dāne, aiyəŋha frāyāhi tūirīm hardē ayanē. Handāiti tava tanōhe haraiti, dīδi [caregiver self-care](/caregiving/caregiver-self-care/). Yezica dūre maēθayehi, dīδi ahmākam handarzəm paiti [phone and video calls](/activities/phone-and-video-calls/).

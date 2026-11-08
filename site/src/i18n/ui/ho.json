@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Hereva badana dekenai lao",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Lalohadai boio noho taudia edia kara namodia",
+    "homeLabel": "Golden Moments ruma gabuna",
+    "mainNav": "Gabu badana",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Hiri Motu",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: ti kapu, flaoa bada bona sisia edia laulau namodia",
+    "languages": "Gado",
+    "englishOnly": "(English gado ai)",
+    "machineTranslated": "Inai rau be masini ese e gwauraia, bona gado diba tauna ta do se itaia namonamo.",
+    "readOriginal": "Hereva ginigunana English ai duahia",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Gadara",
+      "activities": "Kara namodia",
+      "caregiving": "Naria karana",
+      "brainHealth": "Kwarana ena noho namo"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Henanadai bona haere",
+    "breadcrumb": "Dala lalonai",
+    "home": "Ruma",
+    "lastUpdated": "Hagirogoro negana ginigunana",
+    "topics": "Hereva badadia",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Revareva bada o maragi",
+      "smaller": "Revareva hegeregere",
+      "larger": "Revareva bada",
+      "contrast": "Kala bada itaia namonamo"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Gadara",
+    "picturePairs": "Laulau rua hegeregere",
+    "conversationCards": "Herevahereva kadidia",
+    "pictureBingo": "Laulau bingo",
+    "allGames": "Gadara iboudiai",
+    "pictures": "Laulau pepa ai print totona",
+    "activityIdeas": "Kara lalo-hadai",
+    "ideas101": "Kara lalo-hadai 101",
+    "lateStage": "Nega manoka karadia",
+    "printable": "Pepa ai print karadia",
+    "allActivities": "Kara iboudiai",
+    "forCaregivers": "Naria taudia totona",
+    "playTogether": "Hebou ai gadara dalana",
+    "selfCare": "Sibomu naria karana",
+    "brainHealth": "Kwarana noho namo ena tahua hereva",
+    "faq": "Henanadai bona haere",
+    "about": "Ai dekenai",
+    "approach": "Emai dala",
+    "howWeWrite": "Emai toretore dalana",
+    "organizations": "Orea totona",
+    "app": "Golden Moments ap",
+    "appHelp": "Ap ena durua",
+    "support": "Durua",
+    "legal": "Taravatu karadia",
+    "sitePrivacy": "Websait hehuni daladia",
+    "appPrivacy": "Ap ena hehuni taravatu",
+    "privacyChoices": "Hehuni abia hidi daladia",
+    "terms": "Taravatu bona ap abia gwaumaoro",
+    "safety": "Naria namonamo bona gaukara dalana",
+    "accessibility": "Itaia bona duahia haniua dalana",
+    "healthNotice": "Taurihunina noho namo sivaraina",
+    "allLegal": "Taravatu herevadia iboudiai",
+    "note": "Golden Moments ese moale bona hebou karadia maraidia e havaramu. Ina be dia doketa ena sisiba, hetoho o heau dalana, bona ta se rohoa o makinaia. Gorere henanadaidia totona, doketa ida herevahereva. Bema dika bada e vara neganai, 111 dekenai rring.",
+    "publisher": "Cloudjet Solutions Pte. Ltd. ese e torea bona halasia."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Lalohadai Boio Bona Alzheimer's Gadara Bona Kara Namodia | Golden Moments",
+    "description": "Dava lasi, manoka laulau gadaradia intanet ai bona kara lalo-hadai lalohadai boio eiava Alzheimer's danu noho taudia bona idia naria taudia totona. Ladana torea lasi, taima lasi, bona namba davana lasi.",
+    "eyebrow": "Dava lasi · Maketi hereva lasi · Ladana torea lasi · Taima o namba davana lasi",
+    "h1": "Manoka Gadara Bona Kara Namodia Lalohadai Boio Noho Taudia Totona",
+    "lede": "Laulau gadara maraidia, diba laulaudia, bona hebou ai moalelaia karadia—emu nega hegeregere ai.",
+    "playGame": "Gadara Ta Karaia",
+    "findIdeas": "Kara lalo-hadai tahua",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Fon, tablet bona kompiuta ai e karaiamu",
+      "Laulau badadia e hetoho noho",
+      "Nega iboudiai hadokoa diba; dika ta lasi"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Dava lasi ap danu iPhone, iPad bona Android totona, emu ruma bese laulaudia ida",
+    "albumNote": "“Ti kapu laulaudia rua, hebou.”",
+    "gamesEyebrow": "Emu brausa lalonai gadara",
+    "gamesTitle": "Harihari gadara diba gadaradia",
+    "gamesLede": "Ibouidiai na manoka, bada taudia hegeregere, bona matamaia haraga. Ta abia hidi, badinai helai hebou, bona gima gadoi hegeregere.",
+    "seeAllGames": "Gadara iboudiai {count} itaia",
+    "howTitle": "Ena gaukara dalana",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Diba gauna ta abia hidi",
+        "text": "Ti kapu, uma, siriho bona bouti edia laulau. Duahiduahi o taravatu dibaia guna na lasi."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Badinai helai hebou",
+        "text": "Idia na gima a gadoi. Laulau herevalaia. Bema idau, na naria noho bona lou gadoi."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Hataoa lalonai hegeregere",
+        "text": "Gadara tamona na hegeregere. “Harihari dokona” be nega iboudiai skrin ai noho."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Skrin murimurinai",
+    "stageTitle": "Kara lalo-hadai nega idauidau iboudiai totona",
+    "stageLede": "Ane, dina ta ta gaukaradia, nega gunana laloa bona manoka lalo-hadai, harihari namo dalana hegeregere.",
+    "ideas101": "Kara lalo-hadai 101",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Nega ginigunana",
+        "text": "Idia ura karadia do karaia, haida sisina haidaua: lalo-moale gaukara, loaloa, hereva gadara bona hebou laloa.",
+        "label": "Nega ginigunana lalo-hadaidia"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Nega bogaragosi",
+        "text": "Diba gaukaradia maraidia hariga karaia: dabua kubua, laulau heau, ane, laulau gadara bona loaloa kukukuku.",
+        "label": "Nega bogaragosi lalo-hadaidia"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Nega doria lalonai",
+        "text": "Manoka bona turana henia dogoatao, kamonai bona itaia amo: gima naria, ane uradia, laulau bona noho hebou.",
+        "label": "Nega doria lalonai lalo-hadaidia"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Gau ta tahua hegeregere? <a href=\"/activities/alzheimers/\">Alzheimer's totona kara bona gadara</a>, <a href=\"/activities/memory-games/\">manoka laloa gadaradia</a>, <a href=\"/activities/trivia/\">henanadai maragidia</a> eiava <a href=\"/activities/puzzles/\">pasil</a> itaia.",
+    "approachEyebrow": "Emai dala",
+    "approachTitle": "Hebou ai karaia karana, dia laloa hetoho gauna",
+    "approachLede": "“Laloa gadara” momo na heau haraga, makina bona hetoho latanai e heau. Lalohadai boio noho tauna totona unai na hegeregere sikuli hetoho. Emai na idau herea.",
+    "approachLink": "Dahaka dainai ina dala a karaia",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Madiho lasi",
+        "text": "Klok lasi, makina lasi, mauri davana lasi, o madiho lasi. Laulau idau ta be naria sisina, dia kerere."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Laulau e hetoho noho",
+        "text": "Itaia diba, dia laloa lou. Gadara matamaia ai laulau na hetoho vaitani, unai dainai laloatao auka na lasi."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Bada taudia hegeregere bona matauraia",
+        "text": "Hereva manokadia bona momokani laulaudia. Katoon o mero hegeregere hereva na lasi."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Hehuni dalana ginigunana",
+        "text": "Akaun o maketi hereva na lasi. Emu piksa be emu masini lalonai mo noho."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Naria taudia totona",
+    "guidesTitle": "Dina ta ta naria karana totona hakaua daladia",
+    "allCaregiving": "Naria hakaua daladia iboudiai",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Hebou ai gadara dalana",
+        "text": "Haginia, nega hegeregere, bona gadara bema manoka neganai dahaka karaia."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Bema idia gwau lasi kara ta dekenai",
+        "text": "Gwau lasi badadia, bona dala manokadia nega murinai do hetoho lou totona."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Tablet hegaegaelaia",
+        "text": "Revareva badadia, hekaha maragidia, bona skrin maragina tamona."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Dava lasi pepa ai print karadia",
+        "text": "Revareva bada hereva tahua, kala penia pepa, bingo bona herevahereva kadidia."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Kwarana noho namo: tahua hereva momokani be dahaka",
+    "researchText": "Lalohadai boio koua diba a? Laloa gadara ese e duruamu a? Aniani, mahuta bona kamonai be edeheto? Hereva momokani, idia badinaia gwauraidia ida.",
+    "researchLink": "Tahua sivarai bukadia duahia",
+    "appEyebrow": "Ap danu noho",
+    "appTitle": "Golden Moments iPhone, iPad bona Android latanai",
+    "appText": "Dava lasi ap na intanet lasi ai e gaukaramu bona ruma bese laulaudia abia hidi diba, emu fon ai e nohomu. Manoka dalana tamona: hetoho bada hani, taima lasi, namba makina lasi.",
+    "aboutApp": "Ap ena sivarai",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Lalohadai boio noho taudia totona gadara namodia be dahaka?",
+        "a": "Gadara namodia be auka lasi, diba guna bona lalo-hekwarahi lasi: laulau badadia hakaua hebou, gogoa bona maoromaoro atoa, puzel haraheidia, hereva mai dibana haorea, kala torea, laulau bingo bona herevahereva kadidia. Abia hidi namona be oi naria tauna ese hari dina ia moalelaia gauna. Taima atoa, skoa, bona hahetoho hegeregere gaudia be dadaraia."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Inai dementia totona gadara be davana lasi, a?",
+        "a": "Oibe. Golden Moments lalonai gadara bona pepa heprint gaudia iboudiai be davana lasi, akaunt, sain-ap eiava daunlod lasi. Gadara be web brausa lalonai ia heau foun, tablet eiava kompiuta ai."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Darana gadara ese dementia idia koua diba, a?",
+        "a": "Gadara ta ese dementia ia koua diba hedinarai lasi, bona Golden Moments ese gau ta hanamoa eiava koua totona gwauhamata lasi. Emai gadara be moale bona hebou negana totona sibona. Emai darana ena namo kahana ese tahua karadia ese dahaka idia hedinarai bona dahaka idia hedinarai lasi ia haerelaia."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Inai gadara be Alzheimer's gorere ia abia tauna totona idia hegeregere, a?",
+        "a": "Oibe. Alzheimer's gorere be dementia ia vara gauna badana ta, bona gadara be unai totona idia karaia: laulau badadia idia hedinarai noho, abiahidi momo lasi, bona gau ta laloatao eiava kerere totona lasi. Laulau hakaua hebou, gogoa bona hereva diba henia haorea ese aonega guna idia badinaia, a gau matamata dibaia totona lasi."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Dementia ena nega gabena ia abia tauna ese inai karadia ia karaia diba, a?",
+        "a": "Nega momo, oibe, bema tau ta ia badinai ia noho. Matamaia Find the same laulau rua ida, Picture pairs kakarana hani ida, kala torea pepana, eiava lalo-namo laga-ani totona. Karaia sisina sibona, idia ura karana badinaia, bona nega idia hesiku idia abia neganai hadokoa."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Egu sivarai be hehuni, a?",
+        "a": "Inai websait lalonai akaunt lasi bona edvetaising lasi. Ai ese Google Analytics ai gaukaralaia be peisi dahaka taunimanima idia vadivadi dibaia totona. Photo pairs totona oi abia hidi fotodia be omu brausa lalonai sibona idia hedinarai bona ataiai aploud karadia lasi."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Daika ese Golden Moments ia karaia?",
+        "a": "Golden Moments be tim maragina ta, ruma bese bona naria taudia totona lalo-namo taunimanima badadia laulau karadia ia karaia, web ai bona fri ap hegeregere. Ai be dokta taudia lasi, bona inai lalonai gaudia iboudiai be dokta ena sisiba lasi."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "matamana",
+    "middle": "huanai",
+    "late": "gabena",
+    "hintOne": "Nega momo {list} negana totona ia hegeregere",
+    "hintMany": "Nega momo {list} negadia totona ia hegeregere",
+    "labelEarly": "Nega matamana",
+    "labelMiddle": "Nega huanai",
+    "labelLate": "Nega gabena"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Inai gadara ena sivarai",
+    "printable": "Pepa heprint gauna",
+    "play": "{name} gadaraia →",
+    "readGuide": "Hakaua sivaraina duahia"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Gadara manoka totona oi hegaegae?",
+    "text": "Laulau badadia, taima lasi, skoa lasi bona sain-ap totona gau ta lasi. Omu brausa lalonai hebou gadaraia.",
+    "play": "Gadara ta Gadaraia",
+    "all": "Gadara iboudiai itaia",
+    "aria": "Gadara ta gadaraia"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Inai gadara oi ida abia lao",
+    "text": "Fri Golden Moments ap be iPhone, iPad bona Android totona: laulau badadia, emui ruma bese fotodia ida gadara, bona Wi‑Fi lasi neganai laulau paketa idia gaukara. Akaunt lasi, edvetaising lasi, taima lasi eiava skoa lasi.",
+    "appStore": "App Store lalonai abia",
+    "googlePlay": "Google Play lalonai abia",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Ap ena sivarai",
+    "aria": "Ap abia"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Karadia",
+      "title": "Dementia Idia Abia Taunimanima Totona Karadia",
+      "seo": "Dementia Idia Abia Taunimanima Totona Karadia: Negadia Totona Lalo-hadai",
+      "description": "Nega iboudiai lalonai dementia ida idia noho taunimanima totona kara lalohadaidia: miusik, guna negana laloatao, dina iboudiai gaukaradia, mamina negana, lima gaukaradia, murimuri ai bona fri pepa heprint gaudia.",
+      "lede": "Kara namona be hahemaoro, lalo-goada eiava tura henia ia havaraia gauna iboudiai. Oi naria tauna ese nega daudau ia moalelaia gauna ida matamaia, bona hari dina totona haidaua."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Naria karana",
+      "title": "Naria Karana Totona Hakaua Sivaraidia",
+      "seo": "Dementia Naria Karana Hakaua Sivaraidia: Dina Iboudiai Durua Namona",
+      "description": "Dementia naria taudia totona hekaha bona manoka hakaua sivaraidia: hebou gadaraia, herevahereva, dadaraia, adorahi lalo-paga, tablet gaukaralaia, ap abiahidi bona sibona naria karana.",
+      "lede": "Dementia ida ia noho tauna naria neganai dina iboudiai durua harahei bona mai anina, bona sibona naria karana danu."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Darana ena namo",
+      "title": "Darana Ena Namo: Tahua Gaukarana Ese Dahaka Ia Gwauraia",
+      "seo": "Darana Ena Namo bona Dementia Dika: Tahua Gaukarana Ese Dahaka Ia Gwauraia",
+      "description": "Dementia koua diba, a? Dementia dika badina, darana gadaradia, aniani dabu, aniani maoromaoro, tauanina hahegoada, mahuta, kamonai bona matamana toana totona hakaua sivarai momokanidia.",
+      "lede": "Dementia dika hamaragia totona tahua badadia ese dahaka momokani idia hedinarai, gwauraia harahei, hetoa hamomokania dabu eiava boga-rua kahadia danu. Sivarai kava sibona, dokta ena sisiba lasi."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Hamatamataia",
+    "minuteRead": "Miniti {n} lalonai duahia",
+    "byTeam": "Golden Moments tim ese ia torea",
+    "howWeWrite": "Ai torea dalana",
+    "shortAnswer": "Haere kwadogina",
+    "onThisPage": "Inai peisi ai ({n} kahadia)",
+    "commonQuestions": "Henaidai momodia",
+    "sources": "Badina sivarai",
+    "sourcesNote": "Inai peisi ese ia badinaia oganaisesen bona tahua sivarai ai haheboua. Inai peisi hamatamataia neganai iboudiai ai itaia maoromaoro.",
+    "tryTogether": "Hebou tohoa",
+    "relatedGuides": "Hakaua sivarai ma haida",
+    "related": "Hehegeregere",
+    "startHere": "Iniseni ai matamaia"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Mauri namo sivarai notisi",
+    "title": "Sivarai kava, dokta ena sisiba lasi",
+    "textHtml": "Inai peisi ese ruma bese totona tahua sivarai ia hakwadogia. Tau ta totona dahaka ia maoro ia gwauraia diba lasi. Dokta ida herevahereva dohere aniani, tauanina hahegoada, mahuta, muramura eiava saplimen do dohore idia haidaua. Bema lalo-boio karana haraga ia vara eiava haidaua haraga idia vara, nega tamona dokta ena durua tahua. <a href=\"/medical-disclaimer/\">Emai mauri namo sivarai notisi duahia</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Hebou Karaia Gauna, Laloatao Hahetoho Lasi",
+      "seoTitle": "Golden Moments Ena Sivarai: Emai Dala",
+      "description": "Dahaka dainai Golden Moments gadara lalonai taima, skoa eiava strik lasi, dahaka dainai laulau idia hedinarai noho, bona dahaka dementia totona ai gwauraia diba bona gwauraia lasi diba.",
+      "crumb": "Emai dala",
+      "lede": "Golden Moments ese naria tauna bona dementia ida ia noho tauna ese badibadinai moalelaia diba lalo-namo taunimanima badadia laulau karadia ia karaia.",
+      "bodyHtml": "<h2>Ai dahaka a abidadama henimu</h2><p>Gaukara ta ena badina korikori be unai nega sibona: herevahereva, hekirikirisi, laulau rua hakapudia moalena, eiava dekenai helai kava sibona. Dia taunimanima hahetohodia, doridia lao, eiava dahaka ta hahedinaraia totona.</p><p>Kwara habadaia totona app momo be heau haraḡa, makisi, lousi bona hetoho badadia dekenai e karadia. Taunimanima laloaboio gorere e davamu tauna dekenai, ina be hegeregere hetoho ta ia diba lasi henia totona. Ai ese idau bamona a karaia, bona inai taravatu a badinamu:</p><ul><li><strong>Kwalimu lasi dalana lasi.</strong> Kloche lasi, makisi lasi, heitutu namba lasi, mauri lasi, heau loulou lasi, hanamoa kankoli lasi, eiava namba hekokoroku lasi, skrin iboudiai ai.</li><li><strong>Itaia mai diba, dia laloa heitutu.</strong> Laulau na nega iboudiai e hedinaramu. Nega iboudiai herevahereva e gwauraia, dia ladadia eiava laloatao heitutu.</li><li><strong>Badadia, manoka bona noho namo.</strong> Toretore bona laulau badadia, vali dika lasi, bona pusi taodia be gabu tamona ai e nohomu.</li><li><strong>Taunimanima badadia edia hemami heitutu.</strong> Tanobada momokani laulaudia bona hereva manokadia, mai hemami namo. Katuni lasi, ane bamona hanamoa lasi eiava emoji davana lasi.</li><li><strong>Doko dalana haraḡa.</strong> “Harihari vadaeni” na nega iboudiai e hedinaramu. Kahana mo doko be kara namona.</li><li><strong>Huni karana nega iboudiai.</strong> Akaun lasi, maketi siahu lasi. Oi abia laulau be oiemu masini lalonai e nohomu.</li></ul><h2>Ai dahaka asie gwauraia</h2><p>Emai gadara be moale bona heidavari totona. Idia be laloaboio eiava Alzheimer gorere asie hanamoa, asie tohoa, asie hetohoa, asie muramura henia, asie hakaukaua eiava asie koua, bona taunimanima na unai dainai basie abidia hidi. Emai <a href=\"/brain-health/\">kwara mauri rau</a> lalonai moni heitutu sivarai a toreamu neganai, dava lasi dalana a gwauraia hedinaraimu, bona emai gadara dekenai asie hakapumu.</p><h2>Ai be daidia</h2><p>Golden Moments be heitutu orea maragina ta. Ai be doketa lasi. Emai heitutu buka be National Institute on Aging bona Alzheimer’s Association bamona oreadia edia toretore amo a abidia, bona heitutu iboudiai be edia gabu e gwauraia. Laua <a href=\"/editorial-policy/\">ede a torea bona a itadia toma emai rau</a>.</p><h2>Hamaoroma dahaka baine durua</h2><p>Ai na a uramu ba kamonai dahaka be gaukara namo bona dahaka be lasi, momokani laloaboio gorere e davamu taudia, famili naria taudia bona gadara biagudia edia amo. Imeli <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Ede Emai Rau A Torea Bona A Itadia Toma",
+      "seoTitle": "Toretore Taravatuna",
+      "description": "Ede Golden Moments ese laloaboio gadara bona kwara mauri rau e tahudiamu, e torediamu, heitutu e abidiamu bona e matamatadiaz toma, bona dahaka asie tore hedinaraiamu.",
+      "crumb": "Toretore taravatuna",
+      "bodyHtml": "<h2>Emai heitutu gabudia</h2><p>Ai emai heitutu be National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance bona NHS edia heduru sivarai amo a abidiamu, bona Cochrane reviews bona kliniki hetoho badadia bamona heitutu amo. Buka ta ta ese edia heitutu gabuna e gwauraia. Emai heitutu gabuna a kehoa guna do a gwauraia lasi, bona ia lalonai e torea ḡaudia sibona a torediamu.</p><h2>Ede a toredia toma</h2><ul><li>Gaukara dalana guna: harihari ba karaia ḡaudia, gado manoka ai.</li><li>Momokani sivarai heitutu: ai a gwaumu “sedira hakapu mai”, “sedira”, bona “sivarai be idauidau” negana momokani ai.</li><li>Mataurai: laloaboio gorere e davamu taudia be taunimanima badadia bamona a torediamu, bona asie hetohodia eiava hahemamidia dika gadodia a ḡaukaralaia.</li><li>Kava sivarai lasi: laloa kava namba, hereva, aonega taudia, heitutu, reviews eiava heitutu gwauraidia lasi.</li></ul><h2>Daidia emai rau e itadia lou</h2><p>Rau iboudiai be Golden Moments oreana ese e toredia bona e itadia lou, mai AI toretore duruna tahua bona torea totona. Rau iboudiai be emai orea ese edia heitutu gabudia dekenai e itadia loulou. Emai rau be doketa eiava heitutu tauna ta ese <strong>asie</strong> itaia, bona ai asie gwaumu unai bamona. Idia be sivarai sibona, dia doketa ena sisiba.</p><h2>Dahaka do asie tore hedinaraiamu</h2><ul><li>Hereva ta gadara, aniani, muramura, aniani lasi eiava kara ta ese laloaboio gorere e kouamu, e muramura heniamu, e hakaukauamu eiava e hanamoa vaitanimu.</li><li>Hetoho, henanadai eiava makisi e hahedinaraiamu ta be laloaboio gorere mai ena, eiava lasi.</li><li>Muramura ba hamatamaia, ba hadokoa eiava ba haidaua sisibana.</li><li>Maketi hehedinarai eiava moni e henia ḡaudia, haheduru sivarai heto e karaia.</li></ul><h2>Matamata karadia bona hanamoa</h2><p>Rau ta ta ese matamata negana e hahedinaraiamu. Bema kerere ta eiava sivarai gunana ta o davari, mani imeli <a href=\"mailto:{email}\">{email}</a> bona ai do a itaia haraḡa.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Henanadai bona Haere",
+      "seoTitle": "Laloaboio Gadara bona Karadia: Henanadai bona Haere",
+      "description": "Laloaboio gadara bona karadia henanadai haeredia: ede gadara ba toho, vaira negana, dohore karadia, kwara mauri bona huni karadia.",
+      "crumb": "Henanadai bona haere",
+      "lede": "Haere kwadogidia bona hekwarahi lasi, naria taudia e nanadaimu henanadaidia badadia totona.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Gadara sivaraidia",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Laloaboio gorere e davamu tauna totona gadara namodia be dahaka?",
+              "a": "Gadara namodia be diba guna ḡaudia, manokadia bona hekwarahi lasi, bona namona be harihari una tauna e moalelaimu ḡauna. Laulau hakapudia mai hedinarai laulaudia, haparara, heitutu puzle manokadia, gado herevadia haoradia, kala henia bona laulau bingo be taunimanima momo dekenai e namomu. Kloche, makisi bona hetoho heto ḡaudia ba dadaraia."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Gadara be momokani dava lasi?",
+              "a": "Oibe. Gadara bona pepa iboudiai be moni lasi, akaun ta torea lasi, ladana torea lasi, daunlodu lasi, bona e siaimu oi-oiga revaredia ta lasi."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Dahaka dainai namba, levol, eiava taima ta lasi?",
+              "a": "Karu haraga bona namba badidia ese gadara namona be hetoa eiava henanadai bamona e haeramu, bona una ese hemarai o hemami dika baine havaraia diba. Ita be moale bona mai hebou negana mo ta lalomu, unai dainai diba lasi hemaraina ta lasi bona nega iboudiai gadara do bame hadokoa diba."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Gaukarai ededia be namo herea?",
+              "a": "Fon, tablet, eiava kompiuta idau-idau mai edia web brausa matamatadia be namo. Tablet ta pata latanai atoa be nega momo taunimanima rarua badibadinai ai gari henia totona namo herea. Laptop ta TV dekenai kavaia be orea taudia totona namo bada."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Iseda ruma bese laulaudia aiosi a gadara diba?",
+              "a": "Oibe. Laulau hegeregere gadarana ese oi abia laulaudia 2 ela 6 be hahegeregere gadarana ai e haeramu. Laulau na emu brausa lalonai e miamu, asie daumu eiava haboumu."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Kara bona naria gaukaradia",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Kara ta be miniti hida baine daudau?",
+              "a": "Nega momo miniti 10 ela 20 be hegeregere bada, bona nega haida miniti 2 mo be hahemaoro namona. Ba itadia bema e hekwarahimu eiava lalodia e hisihisimu, bona hemami namona e nohomu lalonai hadokoa. Taima korikorina ta lasi."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Bema kara ta karaia asie uramu, be ede bamona?",
+              "a": "Edia ura lasi na matauraia, bona gabeai eiava dala idau ta ai lou lou tohoa. Ura lasi na hekwarahi, hisihisi, daradara, eiava lalo-parara lasi dainai baine mai diba. Edia gwau-edeede neganai karaia daladia revarevana aitaia."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Darana manoka bada gabunai, karadia ededia be maoro?",
+              "a": "Lalo-hanamo bona darana hemamina: anedia uradia kamonai, dagedage lasi imadia miriko ai dehoraia, laulau hebou itaia, dabua manokana abia tao, murimuri ai helai, eiava laulau gadarana huanai taunimanima ta badinai helai. Iseda gabu badana revarevana lalonai lalo-hadai momo e mimu."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Naria rumadiai orea taudia totona karadia e miamu?",
+              "a": "Oibe. Laulau bingo na mai ena pepa kakaradia bona skrin latanai boiboi tauna, bona Hereva ha-ore bona Herevahereva kakaradia be boirakaia totona namo. Naria ruma oreana totona gavamani bukana ese orea bada-maragina, helai dalana bona goada idau-idau daladia e herevalaimu."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Dara namona",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Gadara ese lalo-manoka e kouamu eiava e hametauamu diba?",
+              "a": "Gadara ta asike itaia lalo-manoka e kouamu, bona iseda gadara na unai bamona basie gwaumu. Taunimanima huanai lalo-hadai hahediba ese lalo-manoka maragidia e abimu taudia dekenai namo maragina haida e hahedinaraiamu henanadai lalonai, to una be dika koua gadarana ida dia hegeregere. Ita ese moale bona hebou hemamina totona gadara a henimu."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Lalo-manoka be koua diba?",
+              "a": "Momo diba momokani lasi. Henanadai ese mauri dalana bona tauanina gabudia 14 be lalo-manoka dika ida e hahegeregeremu, hegeregere taia kudima, rara badana, tauanina heau-gadara lasi bona sibona noho dika. Idia hanamoa karana ese reke baine hamaragia diba haida dekenai, to taunimanima momo kara maorodia iboudiai e karamu taudia danu lalo-manoka e abimu. Una be tau ta ena kerere lasi."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Aniani asike ania nega be dara namona totona namo?",
+              "a": "Taunimanima edia gwaurai be maraigi bona matamata, bona henanadai momo na manu bona boroma latanai. Aniani lasi noho be taunimanima buruka totona dika baine havaraia diba, hegeregere suka gorere muramurana e inumu taudia eiava metau e boio haragamu taudia, bona lalo-manoka e davarimu taudia totona basie ura henia. Emu aniani dala do so haidaua neganai, doketa ta ida aherevahereva."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Hunudia bona naria namona",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Informatio ta o haboumu?",
+              "a": "Akaun eiava oi-oiga revaredia ta lasi. Google Analytics a gaukaraiamu vadivadi taudia a duahidia bona rau ededia ese e durumu a itaia totona, bona emu brausa ese regerege manokadia o hamatamaia na e laloatamu. Laulau hegeregere totona o abia laulaudia na basie siaidia gavamani gabunai. Hunu ginigunana duahia dounu lalo-parara totona."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Ina be doketa ena sisiba?",
+              "a": "Lasi. Golden Moments na moale bona diba gaudia totona mo. Gorere henanadaidia totona, doketa ta aherevahereva henia, bona dika bada neganai 111 ba boiria."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Hereva momo: <a href=\"/caregiving/how-to-play-together/\">hebou gadara daladia</a>, <a href=\"/caregiving/when-they-say-no/\">ura lasi neganai</a>, <a href=\"/activities/late-stage/\">gabuna badana karadia</a> bona <a href=\"/brain-health/can-dementia-be-prevented/\">lalo-manoka be koua diba?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Lalo-Manoka e Davarimu Taudia Totona Gadara Manokadia Bona Moni Lasi",
+      "seoTitle": "Pepa Print Totona: Intanet Latanai Lalo-Manoka Gadaradia Moni Lasi",
+      "description": "Ruma bese bona naria taudia totona pepa tamona print revarevana, lalo-manoka e davarimu taudia edia piksa gadara manokadia bona moni lasi totona, durua oreana bona naria koroaidia totona.",
+      "crumb": "Print pepana",
+      "lede": "Ina rau printia durua orea, naria kohudia, eiava aisi-bokisi iduarana latanai atoa totona. Emu brausa ena Print karaia; meniu bona batono na pepa latanai basie daumu.",
+      "introHtml": "<p>Laulau badadia, hereva haragadia bona kwalimu lasi hemamina ta lasi. Moni lasi fon, tablet eiava kompiuta latanai, akaun torea lasi, taraia revaredia lasi, taima lasi bona namba lasi. Badibadinai ahelai bona hekaha-hekaha a gadara.</p>",
+      "gamesTitle": "Hebou gadara tohoa gaudia",
+      "restHtml": "<h2>Hahealo sisibadia haida</h2><ul><li>Dina ena hora maorona abia hidi, tau unai ena hemami namo neganai.</li><li>Dala manoka-hereana amo hamatamaia. Piksa kakaradia hani be hegeregere bada.</li><li>Laulau herevalaidia. Herevahereva negana be nega momo moale badana.</li><li>Hemami namona do e nohomu lalonai hadokoa. Haraga hadokoa be hemaoro namona.</li></ul><h2>Websait latanai danu e miamu</h2><ul><li>Print kava revaredia: hereva tahua leta badadia, kalaia pepadia, herevahereva kakaradia bona laulau bingo.</li><li>Karu daladia nega idau-idau iboudiai totona, bona hebou gadara bona oi sibomu naria daladia bukana.</li></ul><p class=\"muted\">Moale bona hebou negana totona. Dia doketa ena sisiba, hetoho eiava gorere hanamoa dalana. Golden Moments na Cloudjet Solutions Pte. Ltd. ese e halasiamu.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Naria Rumadia, Buka Rumadia Bona Durua Oreadia Totona",
+      "seoTitle": "Kavamu Moale Gaukara Dara Lalo-boio Taudia Naria Rumadia bona Orea Toona",
+      "description": "Naria rumadia, buruka edia dina program, buka rumadia, buruka heitatao oreadia bona durua oreadia ese emai kavamu dara lalo-boio gadaradia edena bamona e gaukaralaimu, bona emai sivarai durua lisi ai ba atoa revarevana.",
+      "crumb": "Orea toona",
+      "lede": "Inai websait ai gau iboudiai be kavamu ruma taudia, memba bona oi naria taudia ida ba gaukaralaia toona, akaunt, laisens eiava davana ta lasi. Inai lauha ese dahaka e miamu bona edena bamona ba harilaia e haerelaimu.",
+      "shortText": "{name}: kavamu bona manada piksa gadaradia bona gaukara heitatao herevadia, dara lalo-boio taudia bona idia naria taudia toona. Ladana itore, nega heitatao bona mak ta lasi.",
+      "longText": "{name} ({domain}) ese brausa gadaradia kavamu namba {count} e henimumu, dara lalo-boio taudia toona e kara, inai lalonai piksa hekokorokoro negana piksa e hahedinarai miamu, jikso haragana, piksa henegeregere, hedua hereva hanaihanai bona piksa bingo pepa heprintina ida. Akaunt, ekspousa, nega heitatao eiava mak ta lasi. Websait ai danu hereva manada gaukara heitatao herevadia e miamu dara lalo-boio negadia idau-idau toona, National Institute on Aging bona Alzheimer's Association edia sivarai amo e mailai.",
+      "useTitle": "Orea ese bae gaukaralaia gaudia",
+      "gamesItemHtml": "<strong>Brausa gadaradia {count}</strong> laptap, tablet eiava komyuta ida e koudia ti-vi ai e heau. Instol, akaunt eiava daunlod ta lasi. <a href=\"/games/\">Gadara iboudiai</a> ba ita.",
+      "printablesLabel": "Pepa heprintidia {count}:",
+      "printablesAfter": "Lauha ta ta ai Print batoni ba henidai.",
+      "moreItemsHtml": "<li><strong>Orea gadaradia:</strong> <a href=\"/games/picture-bingo/\">Piksa bingo</a> be mai ena pepa heprintidia bona skrin ai e boiboi tauna, bona <a href=\"/activities/trivia/\">henaula haragana</a> be mai ena henanadai 50 bona haere abia hidi bona hereva haida.</li><li><strong>Gaukara heitatao herevadia</strong> gaukara taudia bona ruma bese toona, negadia bona daladia hegeregeredia, hereva manada ai e tore mai idia heabidia gabudia ida. <a href=\"/activities/ideas/\">Gaukara lalo-hadai 101</a> eiava <a href=\"/activities/care-home-groups/\">naria rumadia oreadia edia gaukara</a> amo ba matamaia.</li>",
+      "restHtml": "<h2>Orea ese edena bamona e gaukaralaimu</h2><ul><li><strong>Naria rumadia bona laloa heitatao gabudia:</strong> ruma badana ena ti-vi ai piksa bingo eiava hereva ha-ore gadaradia e kara, bona tau eiava hahine tamona ese orea toona e gidiamu.</li><li><strong>Buruka edia dina program:</strong> tablet gabuna ai Piksa hekokorokoro be taiolo hani ai e atoa, ta ta ida nega sisina gadara toona.</li><li><strong>Buka rumadia:</strong> pepa e printia hereva tahua bona herevahereva kadidia laloa kiti lalonai, bona websait be laibrari tablet ai e atoa toona.</li><li><strong>Naria taudia edia durua oreadia bona laloa hebou gabudia:</strong> <a href=\"/handout/\">lauha tamona pepana heprintina</a> ruma bese ese ruma bae laohaia toona.</li><li><strong>Gorere rumadia bona ruma lou heitatao taudia:</strong> inai pepa be naria taudia edia beke lalonai, ruma ai eiava mahuta gabunai lalo-manau gadarana ta bae kara toona.</li></ul><h2>Ai ese asina karamu gaudia</h2><p>Inai gadara be moale bona hebou negana toona. Idia ese dara lalo-boio asie tahuamu, asie tovomu, mak asie henimumu, asie hanamoamu eiava asie ha-metauamu, bona orea a noidiamu unubamona basie herevalai. Ekspousa ta lasi, bona gadara ese lada, gorere sivaraidia eiava piksa asie noimu bae abia dae. Websait ese Google Analytics e gaukaralaimu mai taudia i-duahina; emai <a href=\"/privacy/\">hunia herevana</a> ese dahaka e haboumu e haerelaimu. Piksa e gaukaralaimu <a href=\"/games/photo-pairs/\">Photo pairs</a> lalonai be brausa ai mo e miamu.</p><h2>Emai ladana emui durua lisi ai ba atoa</h2><p>Bema durua gaudia edia lisi naria taudia toona o dogoataomu, oi be mai goadamu <a href=\"/\">{domain}</a> ba linkia. Inai sivarai ta ba kopi diba.</p>",
+      "shortTitle": "Sivarai kwadogina",
+      "longTitle": "Sivarai ladana",
+      "linksHtml": "<p>Lauha namodia korokoro ba linkia toona: <a href=\"/games/\">kavamu gadaradia</a>, <a href=\"/activities/printable/\">kavamu pepa heprintidia</a>, <a href=\"/activities/alzheimers/\">Alzheimer's toona gaukara</a> bona <a href=\"/caregiving/how-to-play-together/\">edena bamona hebou ba gadara</a>.</p><h2>Henanadai eiava hairoiro</h2><p>Bema websait ai gau ta e kereremu eiava dia hegeregere, eiava noho tauna ena ura inai gabu ai asie ha-orea, mani emu kara a hamaoromai inai gabunai <a href=\"mailto:{email}\">{email}</a>. Mani emu kara noho taudia eiava oi naria taudia edia tauanina eiava gorere sivaraidia basio siai.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Golden Moments Epina",
+      "seoTitle": "iPhone bona Android toona Golden Moments Epina",
+      "description": "Kavamu Golden Moments epina: manada piksa hekokorokoro mai taiolo badadia hani, ruma bese piksadia emu aonega masini lalonai e miamu, intanet lasi piksa bagedia bona akaunt ta lasi.",
+      "crumb": "Epina",
+      "lede": "Websait ai o uramu gaudia iboudiai, intanet lasi negai e gaukaramu bona emu ura ruma bese piksadia e gaukaralaimu epina lalonai.",
+      "worksOn": "{platforms} ({requirements}) ai e gaukaramu.",
+      "bodyHtml": "<h2>Maragi amo hamatamaia</h2><p>Kasi bada foa (4) bona diba namonamo laulaudia amo do umui matamaia. Laulau do idia hedinarai noho, eiava umui ura neganai do umui hunia. Inai dala hekwarahi lasi lalonai nega naria taima lasi, poin lasi bona panisimani lasi. Kasi 4, 6, 8 eiava 12 do umui abia hidi.</p><h2>Emui famili piksana atoa</h2><p>Emui masini amo famili edia laulau abia hidi. App ese laulau maragidia do ia kopea inai gadara totona. Ia ese emui laulau ibounai do ia sekeim lasi eiava laulau korikoridia do ia hamakohia lasi, bona laulau 24 mo do ia dogoatao orea ta lalonai.</p><h2>Itaia hebou sibona</h2><p>Laulau tamona tamona do umui itaia. Herevahereva hamatamaia henanadaidia haida idia noho, to idia ese ladana laloatao eiava haere maorona henia totona taunimanima idia doria lasi. Itaia hebou sibona be hegeregere.</p><h2>Intanet lasi neganai do ia bamoa</h2><p>Hamatamaia laulaudia bona laulau pakeji ibounai eit (8) be app lalonai idia noho vaitani. Famili edia laulau kopeidia do umui gadaralaia diba intanet lasi neganai danu. To iCloud lalonai mo idia noho laulau korikoridia abia totona, intanet do ia noho be namo.</p><h2>Akaun lasi, seva lasi</h2><p>Famili edia laulau kopeidia be inai app bona emui masini lalonai mo do idia noho. Inai kope do umui kokia diba, to emui laulau korikoridia do idia noho noho. Masini ena bekap ese app data danu do ia abia diba. <a href=\"/app-privacy/\">App ena sefetii taravatu</a> do umui duahia, bona <a href=\"/help/\">app heduru daladia</a> ese dala ibounai do ia hadibaia.</p>",
+      "disclaimer": "Golden Moments be taunimanima edia moale bona herevahereva hebou totona mo. Ia ese lalo-boio gorere eiava Alzheimer’s gorere do ia gwauraia, hanamoa, koua, eiava haeroa diba lasi.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Lalo-boio bona Alzheimer’s Totona Davana Lasi Intanet Gadaradia",
+    "description": "Lalo-boio eiava Alzheimer’s gorere idia abia burukadia totona davana lasi intanet gadaradia: laulau hakapua, puzol hani-hani, hekabi hegeregere atoa, ane bona gado, kala henia, bona bingo. Rejisita lasi, taima lasi, bona poin lasi.",
+    "crumb": "Gadara",
+    "h1": "Lalo-boio Gorere Idia Abia Taudia Totona Gadara Hani-hanidia",
+    "lede": "Brausa lalonai gadara hebou totona davana lasi gadaradia {count}. Laulau badadia, hereva manokadia, bona dika ta lasi: taima lasi, poin lasi, bona rejisita lasi.",
+    "listName": "Lalo-boio gorere idia abia taudia totona gadara hani-hanidia",
+    "byStageTitle": "Gorere ena laga hegeregere gadara abia hidi",
+    "byStageLede": "Inai laga be dala hakaua sisivana mo. Oi naria tauna ese ia moalelaia bona hari dina lalonai ia lalo-namolaia gauna do umui badinaia.",
+    "stageCol": "Laga",
+    "gamesCol": "Dala namona gadaradia",
+    "moreHtml": "Sikrin murimurinai karaia gavamana haida: <a href=\"/activities/ideas/\">lalo-boio gorere idia abia taudia totona gaukara 101</a>, <a href=\"/activities/alzheimers/\">Alzheimer’s totona kara bona gadara</a>, <a href=\"/activities/memory-games/\">laloatao gadara hani-hanidia</a> bona <a href=\"/activities/puzzles/\">puzol</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Ede gadara amo do ita matamaia?",
+        "a": "Kasi foa (4) laulau hakapua gadarana be matamaia dalana namona bona lalo-manoka. Bema laulau momo lalonai abia hidi be auka sisina, laulau rua hegeregere tahua gadarana do umui tohotohoa. Orea taunimanima totona, Picture bingo do umui tohotohoa."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Inai gadaradia be iPad eiava foun lalonai do idia gaukara diba, a?",
+        "a": "Oibe. Gadara ibounai be foun, teblet bona kompiuta edia brausa lalonai idia gaukara diba, bona laulau be sikrin do idia hahonua. Teblet na stend latanai atoa neganai, taunimanima rua totona ia namo herea."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Inai gadaradia be Alzheimer’s gorere ia abia tauna totona idia namo, a?",
+        "a": "Oibe. Idia be lalo-boio gorere idia abia taudia totona idia karaia, Alzheimer’s (gorere badana herea) danu. Laulau do idia hedinarai noho, abia hidi be momo lasi, bona nega naria taima eiava poin lasi dainai, inai gadaradia ese gau matamatadia laloatao lasi to diba namonamo gaudia itaia diba dalana idia durua."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Inai be burukadia edia laloatao totona gadaradia, a?",
+        "a": "Idia be laulau hakapua bona laulau gadaradia, buruka taudia ibounai ese idia moalelaia diba, to laloatao tohoa totona idia karaia lasi: Picture pairs lalonai laulau idia hedinarai noho, ela bona oi ura idia hunia. Amai lalo-boio abia burukadia totona laloatao gadara bukana ese gadara ibounai hani-hani naria dalana ia hadibaia."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Naria rumana lalonai orea totona gadara idia noho, a?",
+        "a": "Oibe. Picture bingo be mai ena pepa kadi printia diba bona sikrin latanai boiboi tauna, bona Finish the saying danu mai Conversation cards be orea lalonai regena bada amo duahia neganai idia namo herea."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad bona Android",
+    "requirements": "iOS 15 eiava gabeai gaudia; Android 7.0 eiava gabeai gaudia",
+    "summary": "iPhone, iPad bona Android totona davana lasi app: kasi badadia foa (4) ela tuwelo (12) latanai laulau hakapua hani-hanina, emui famili laulaudia abia hidi amo hakapua bona itaia hebou, bona intanet lasi neganai gaukara laulau pakeji eit (8) ia lalonai idia noho. Akaun lasi, edvetasimen lasi, taima lasi bona poin lasi.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Kasi badadia 4, 6, 8 eiava 12 latanai laulau hakapua hani-hanina; laulau do idia hedinarai noho ela bona oi ura idia hunia",
+      "Oi abia hidi famili laulaudia be app lalonai idia kopea, hakapua bona itaia hebou totona",
+      "Itaia hebou: laulau tamona tamona itaia mai herevahereva hamatamaia henanadaidia haida ida",
+      "Laulau pakeji eit (8) be app lalonai idia noho; intanet lasi neganai do idia gaukara",
+      "Akaun lasi, edvetasimen lasi, moni henia gavamana lasi, taima lasi, poin lasi bona panisimani lasi"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Lalo-boio kara totona app ta ia noho, a?",
+        "a": "Oibe. Golden Moments (ladana e torea \"{storeName}\") be App Store bona Google Play lalonai davana lasi. Ia ese kasi badadia latanai laulau hakapua hani-hanina, famili laulaudia amo gadara, bona intanet lasi neganai gaukara laulau pakejia ia henia."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Golden Moments app be davana lasi, a?",
+        "a": "Oibe. Dounlodia be davana lasi, bona edvetasimen lasi, akaun lasi, eiava moni henia gavamana lasi."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Inai app be intanet lasi neganai do ia gaukara diba, a?",
+        "a": "Oibe. Hamatamaia laulaudia bona laulau pakeji ibounai eit (8) be app lalonai idia noho vaitani, bona famili laulaudia app lalonai idia kopea murinai, intanet lasi neganai do idia gaukara. To iCloud lalonai mo idia noho laulaudia abia totona, intanet do ia noho be namo."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Amai famili laulaudia korikoridia do lau gaukaralaia diba, a?",
+        "a": "Obe. Oiemu masini ena laulau abia gabuna amo laulau oi abia hidi diba. Inai app ese laulau maragidia masini lalonai ia katanidia inai gadara totona, ia siaia lao lasi bona laulau korikoridia ia haidaua lasi momokani. Nega ibounai inai kopi laulaudia oi kokia diba."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Inai be darana hadibaia eiava laloa hetohoa app ta, a?",
+        "a": "Lasi. Golden Moments be moale bona nega hebou totona. Skore eiava hetoho ta lasi, bona ia ese lalona boio gorere eiava Alzheimer's gorere ia haeroa lasi, ia hanamoa lasi, ia koua lasi eiava ia tohoa lasi."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Masini ededia ai ia gaukara diba?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Inai gadara ena app ta ia noho, a?",
+      "a": "Obe. Free Golden Moments app inai iPhone, iPad bona Android totona ese laulau hegeregere hekwarahi lasi hakapua karana ia abia, ruma bese edia laulau oi abia hididia ia gaukaralaia diba, bona intanet lasi neganai ia gaukara. Akaun, maketi laulaudia eiava skore lasi."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Inai gadara ena app ta ia noho, a?",
+      "a": "Inai gadara ena be lasi. Free Golden Moments app inai iPhone, iPad bona Android totona ese laulau badadia hekwarahi lasi hakapua karana bona ruma bese laulaudia oi abia hididia ia abia, bona intanet lasi neganai ia gaukara. Inai gadara be oiemu browser lalonai ia free noho."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: laulau badadia bona namodia",
+    "noscript": "Inai gadara be oiemu browser lalonai JavaScript ia ura karaia. Henunai sisiba be JavaScript lasi danu oi duahia diba.",
+    "about": "{name} ena sivarai",
+    "aboutAria": "Inai gadara ena sivarai",
+    "noTimer": "Nega naria gauna eiava skore lasi",
+    "printable": "Pepa ai print diba",
+    "howTo": "{name} gadara dalana",
+    "tips": "Gadara hebou totona sisiba namodia",
+    "newToPlayingHtml": "Oi ese lalona ia boio gorerena ia abia tauna ida gadara matamata, a? <a href=\"/caregiving/how-to-play-together/\">gadara hebou daladia</a> ba duahia, bona bema ia ura heveni lasi dahaka ba karaia sisibana danu.",
+    "moreAria": "Gau haida itadia totona",
+    "helpfulGuides": "Durua sisiba buka maragidia",
+    "appTitle": "App lalonai gadara",
+    "appText": "Free Golden Moments app lalonai laulau badadia hekwarahi lasi hakapua karana bona ruma bese laulaudia ia noho, bona Wi‑Fi lasi neganai ia gaukara. iPhone, iPad bona Android.",
+    "photoAppTitle": "Oiemu laulau hegaegae katanidia",
+    "photoAppText": "Free Golden Moments app lalonai, oi abia hidi laulaudia be oiemu masini ai bae noho nega gabena totona, bona gadara be Wi‑Fi lasi danu ia gaukara. iPhone, iPad bona Android.",
+    "goodToKnow": "Diba totona namo",
+    "goodToKnowText": "Inai gadara be moale bona nega hebou totona sibona. Ia ese gau ta ia tohoa lasi, ia haeroa lasi eiava ia hanamoa lasi.",
+    "moreGames": "Hekwarahi lasi gadara haida",
+    "crumb": "Gadara"
   }
 }

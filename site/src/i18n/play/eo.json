@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Legu laŭte",
+      "stopReading": "Ĉesu legi",
+      "region": "Ludo",
+      "restart": "Rekomenci",
+      "soundOn": "Mildaj sonoj ŝaltitaj",
+      "soundOff": "Mildaj sonoj malŝaltitaj",
+      "done": "Preta por nun",
+      "feedbackQuestion": "Ĉu tio helpis hodiaŭ?",
+      "feedbackYes": "Jes",
+      "feedbackNo": "Ne vere",
+      "feedbackThanks": "Dankon pro via respondo."
+    },
+    "tile": {
+      "named": "{name}, kahelo {n}",
+      "hidden": "Kaŝita bildo, kahelo {n}",
+      "withState": "{label}, {state}",
+      "matched": "Parigita",
+      "selected": "Elektita",
+      "picture": "Bildo",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Ĉiuj paroj kune. Ludu denove aŭ ripozu iomete.",
+      "photoPair": "Paro de fotoj, kune.",
+      "picturePair": "Du bildoj de la {name|lower}, kune.",
+      "selected": "{name}. Nun trovu ĝian paron.",
+      "mismatch": "Prenu vian tempon. Tuŝu bildon por daŭrigi.",
+      "mismatchNamed": "{a} kaj {b}. Prenu vian tempon. Tuŝu bildon por daŭrigi."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tuŝu bildon, poste tuŝu tiun, kiu kongruas kun ĝi.",
+      "guidanceHidden": "Tuŝu du kahelojn por renversi ilin. Serĉu du samajn.",
+      "restart": "Novaj bildoj",
+      "sizeLegend": "Kiom da kaheloj",
+      "size": {
+        "one": "{n} kahelo",
+        "other": "{n} kaheloj"
+      },
+      "viewLegend": "Kiel ludi",
+      "viewShowing": "Montrataj bildoj",
+      "viewHidden": "Kaŝitaj bildoj",
+      "playAgain": "Ludu denove kun novaj bildoj",
+      "talk": "Babilu pri bildoj kune"
+    },
+    "choose": {
+      "countLegend": "Kiom da bildoj",
+      "count": "{n} elekteblaj",
+      "thatOne": "Tiu estas la {name|lower}. Prenu vian tempon."
+    },
+    "findTheSame": {
+      "guidance": "Rigardu la bildon supre. Tuŝu la saman sube.",
+      "yes": "Jes, la sama {name|lower}.",
+      "next": "Sekva bildo"
+    },
+    "shadowMatch": {
+      "guidance": "Rigardu la ombron supre. Tuŝu la bildon, kiu faras ĝin.",
+      "yes": "Jes, la {name|lower} faras tiun ombron.",
+      "next": "Sekva ombro",
+      "shadowAlt": "Ombro por kongrui",
+      "foundAlt": "La ombro de la {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tuŝu bildon, poste tuŝu la korbon, al kiu ĝi apartenas.",
+      "restart": "Novaj bildoj",
+      "themeLegend": "Temo",
+      "selected": "{name}. Nun tuŝu la korbon, kien ĝi apartenas.",
+      "pickFirst": "Unue tuŝu bildon, poste tuŝu korbon.",
+      "hint": "La {name|lower} povus iri en \"{basket}\". Tuŝu tiun korbon por meti ĝin tien.",
+      "placed": "La {name|lower} estas en \"{basket}\".",
+      "sorted": "Ĉio estas ordigita. Trarigardu la korbojn kune, aŭ provu alian temon.",
+      "basket": {
+        "one": "Korbo {basket}, {count} bildo interne",
+        "other": "Korbo {basket}, {count} bildoj interne"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tuŝu unu pecon, poste tuŝu alian. Ili interŝanĝas lokojn.",
+      "restart": "Miksi denove",
+      "pictureLegend": "Bildo",
+      "pictures": {
+        "sailboat": "Velŝipo",
+        "house": "Domo",
+        "balloon": "Balono",
+        "sunflower": "Sunfloro",
+        "lighthouse": "Lumturo",
+        "cat": "Kato"
+      },
+      "sizeLegend": "Pecoj",
+      "size": {
+        "one": "{n} peco",
+        "other": "{n} pecoj"
+      },
+      "pickedUp": "Peco elektita. Nun tuŝu tien, kien ĝi devus iri.",
+      "whole": "La {name|lower} estas kompleta denove. Elektu alian bildon kiam ajn vi volas.",
+      "swapped": {
+        "one": "Interŝanĝita. {correct} el {total} peco estas en sia loko.",
+        "other": "Interŝanĝita. {correct} el {total} pecoj estas en sia loko."
+      },
+      "guideAlt": "La tuta bildo: {name}",
+      "guideText": "Jen kiel la bildo aspektas kiam ĝi estas kompleta.",
+      "piece": "Peco en la {place}",
+      "pieceInPlace": ", en la ĝusta loko",
+      "piecePickedUp": ", elektita",
+      "places4": [
+        "supre maldekstre",
+        "supre dekstre",
+        "sube maldekstre",
+        "sube dekstre"
+      ],
+      "places9": [
+        "supre maldekstre",
+        "supre meze",
+        "supre dekstre",
+        "meze maldekstre",
+        "centre",
+        "meze dekstre",
+        "sube maldekstre",
+        "sube meze",
+        "sube dekstre"
+      ],
+      "done": "La bildo estas kompleta denove. Ludu denove aŭ ripozu iomete.",
+      "playAgain": "Miksi denove"
+    },
+    "finishTheSaying": {
+      "guidance": "Legu la diron kune, poste tuŝu la vorton, kiu finas ĝin.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Jes, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" ankaŭ taŭgas. La kutima diro finiĝas per \"{end}\".",
+      "revealed": "La diro estas \"{start} {end}.\"",
+      "choicesLabel": "Elektu la lastan vorton",
+      "show": "Montri la finon",
+      "talk": "Babilu pri tio: ",
+      "next": "Sekva diro"
+    },
+    "wordSearch": {
+      "guidance": "Vortoj iras transverse aŭ malsupren. Tuŝu la unuan literon de vorto, poste ĝian lastan literon.",
+      "restart": "Nova vortserĉo",
+      "themeLegend": "Temo",
+      "sizeLegend": "Grandeco de krado",
+      "size": {
+        "one": "{n} oble {n} ({words} vorto)",
+        "other": "{n} oble {n} ({words} vortoj)"
+      },
+      "print": "Presi ĉi tiun enigmon",
+      "letterChosen": "Litero {letter} elektita. Nun tuŝu la lastan literon de la vorto.",
+      "found": "{word} trovita.",
+      "foundAll": "{word} trovita. Tio estas ĉiu vorto. Ludu denove aŭ ripozu iomete.",
+      "tryAgain": "Prenu vian tempon. Tuŝu la unuan literon de vorto, poste ĝian lastan literon.",
+      "gridLabel": "Literkrado, {n} vicoj de {n} literoj. Uzu la sagoklavojn por moviĝi inter literoj.",
+      "cell": "{letter}, vico {row}, kolumno {col}",
+      "cellFound": ", parto de trovita vorto",
+      "wordsHeading": "Trovendaj vortoj",
+      "wordFound": " (trovita)",
+      "sheetTitle": "Vortserĉo: {theme}",
+      "sheetNote": "Vortoj iras transverse aŭ malsupren.",
+      "unavailable": "Literkrado ne taŭgas por ĉi tiu lingvo, do la vortserĉo ne estas ofertata ĉi tie. Provu la bildludojn anstataŭe."
+    },
+    "coloring": {
+      "guidance": "Tuŝu koloron, poste tuŝu parton de la bildo.",
+      "restart": "Forigi la kolorojn",
+      "cleared": "La paĝo estas denove malplena.",
+      "pageLegend": "Paĝo",
+      "print": "Presi ĉi tiun paĝon",
+      "colorsLabel": "Koloroj",
+      "paintChosen": "{paint} elektita.",
+      "painted": "{part} nun estas {paint|lower}.",
+      "artLabel": "{page}, {count} partoj por kolorigi",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ne kolorita",
+      "paints": {
+        "red": "Ruĝa",
+        "orange": "Oranĝkolora",
+        "yellow": "Flava",
+        "green": "Verda",
+        "blue": "Blua",
+        "purple": "Purpura",
+        "pink": "Rozkolora",
+        "brown": "Bruna",
+        "sky-blue": "Ĉielblua",
+        "cream": "Kremkolora",
+        "gray": "Griza",
+        "white": "Blanka"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Legu la karton laŭte. Ne estas ĝustaj respondoj.",
+      "position": "Karto {n} el {total}",
+      "themeLegend": "Temo",
+      "next": "Sekva karto",
+      "previous": "Antaŭa karto",
+      "print": "Presi ĉiujn kartojn",
+      "sheetTitle": "Babilkartoj"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Komencu elektante viajn fotojn.",
+      "guidance": "Tuŝu foton, poste tuŝu tiun, kiu kongruas kun ĝi.",
+      "restart": "Miksi ilin denove",
+      "intro": "**Elektu 2 ĝis 6 fotojn** el ĉi tiu aparato. Ili estas montrataj nur en ĉi tiu paĝo kaj neniam estas alŝutitaj aŭ konservitaj.",
+      "choose": "Elekti fotojn",
+      "chooseDifferent": "Elekti aliajn fotojn",
+      "clear": "Forigi fotojn",
+      "cleared": "Fotoj forigitaj de ĉi tiu paĝo.",
+      "atLeastTwo": "Bonvolu elekti almenaŭ du fotojn.",
+      "usingFirst": "Uzante la unuajn {max} fotojn.",
+      "skipped": {
+        "one": "{count} dosiero ne estis foto, kiun ni povas montri.",
+        "other": "{count} dosieroj ne estis fotoj, kiujn ni povas montri."
+      },
+      "playAgain": "Ludu denove kun ĉi tiuj fotoj",
+      "empty": "Viaj fotoj aperos ĉi tie, ĉiu dufoje."
+    },
+    "pictureBingo": {
+      "guidance": "Presu la kartojn unue. Poste montru ĉi tiun vokilon sur la plej granda ekrano, kiun vi havas.",
+      "called": {
+        "one": "{name}. {called} el {total} bildo anoncita.",
+        "other": "{name}. {called} el {total} bildoj anoncitaj."
+      },
+      "start": "Tuŝu \"Sekva bildo\" por anonci la unuan bildon.",
+      "restart": "Komenci novan ludon",
+      "squaresLegend": "Kvadratoj sur ĉiu karto",
+      "squares": "{n} kvadratoj ({side} oble {side})",
+      "cardsLegend": "Kiom da kartoj por presi",
+      "cards": {
+        "one": "{n} karto",
+        "other": "{n} kartoj"
+      },
+      "print": {
+        "one": "Presi {n} bingokarton",
+        "other": "Presi {n} bingokartojn"
+      },
+      "ready": "Preta kiam vi estas preta",
+      "next": "Sekva bildo",
+      "allCalled": "Ĉiu bildo estas anoncita",
+      "alreadyCalled": "Jam anoncita",
+      "sheetTitle": "Bildobingo · karto {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Enspiru kiam la cirklo grandiĝas, kaj elspiru kiam ĝi malgrandiĝas. Ĝi mem haltas post ses spiroj.",
+      "paceLegend": "Ritmo",
+      "paceSlow": "Malrapida (po 5 sekundoj)",
+      "paceGentle": "Milda (po 4 sekundoj)",
+      "ready": "Preta kiam vi pretas",
+      "in": "Enspiru",
+      "hold": "Ripozu",
+      "out": "Elspiru",
+      "start": "Komenci",
+      "stop": "Halti",
+      "started": "Komencita. Enspiru kiam la cirklo grandiĝas.",
+      "stopped": "Haltigita.",
+      "finished": "Tio estis ses malrapidaj spiroj. Rekomencu kiam ajn vi volas."
+    }
+  },
+  "pictures": {
+    "teacup": "Tetaso",
+    "kettle": "Boligilo",
+    "bread": "Pano",
+    "frying-pan": "Pato kun ovo",
+    "cake": "Kuko naskiĝtaga",
+    "sunflower": "Sunfloro",
+    "tulip": "Tulipo ruĝa",
+    "watering-can": "Akvumilo",
+    "potted-plant": "Planto en poto",
+    "tree": "Arbo",
+    "bird": "Birdo sur branĉo",
+    "butterfly": "Papilio",
+    "dog": "Hundo",
+    "cat": "Kato",
+    "fish": "Orfiŝo",
+    "apple": "Pomo ruĝa",
+    "pear": "Piro",
+    "strawberry": "Frago",
+    "banana": "Banano",
+    "lemon": "Citrono",
+    "cherries": "Ĉerizoj",
+    "house": "Domo",
+    "lamp": "Lampo tabla",
+    "armchair": "Fotelo",
+    "key": "Ŝlosilo malnova",
+    "umbrella": "Pluvombrelo",
+    "sailboat": "Velboato",
+    "car": "Aŭto klasika",
+    "bicycle": "Biciklo",
+    "balloon": "Balono varmaera",
+    "lighthouse": "Lumturo",
+    "sun": "Suno",
+    "moon": "Luno kaj steloj",
+    "teapot": "Tekruĉo",
+    "apple-pie": "Kuko poma",
+    "honey-jar": "Vazo da mielo",
+    "boiled-egg": "Ovo en ovotaso",
+    "toaster": "Panrostilo",
+    "cheese": "Fromaĝo, peco",
+    "milk-jug": "Laktokruĉo",
+    "cupcake": "Kuketo",
+    "orange": "Oranĝo",
+    "grapes": "Vinberoj",
+    "watermelon": "Akvomelono, tranĉaĵo",
+    "pineapple": "Ananaso",
+    "peach": "Persiko",
+    "rose": "Rozo",
+    "daisies": "Lekantoj",
+    "mushroom": "Fungo",
+    "wheelbarrow": "Ĉarumo",
+    "birdhouse": "Birddometo",
+    "cactus": "Kakto en poto",
+    "acorn": "Glano",
+    "autumn-leaf": "Folio aŭtuna",
+    "rabbit": "Kuniklo",
+    "duck": "Anaso",
+    "hen": "Kokino",
+    "sheep": "Ŝafo",
+    "owl": "Strigo",
+    "ladybird": "Kokcinelo",
+    "snail": "Heliko",
+    "frog": "Rano",
+    "bee": "Abelo",
+    "clock": "Horloĝo kamena",
+    "vase-of-flowers": "Vazo kun floroj",
+    "radio": "Radioaparato malnova",
+    "books": "Libroj, stako",
+    "candle": "Kandelo",
+    "glasses": "Okulvitroj por legado",
+    "telephone": "Telefono",
+    "ball-of-wool": "Bulo de lano",
+    "straw-hat": "Ĉapelo kontraŭsuna",
+    "train": "Trajno vapora",
+    "bus": "Buso",
+    "airplane": "Aviadilo",
+    "suitcase": "Valizo",
+    "tractor": "Traktoro",
+    "rowing-boat": "Remboato",
+    "rainbow": "Ĉielarko",
+    "rain-cloud": "Pluvnubo",
+    "snowflake": "Neĝero",
+    "kite": "Kajto",
+    "sunrise": "Sunleviĝo super montetoj"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGIKLMNOPRSTUVZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fruktoj",
+          "words": [
+            "POMO",
+            "PIRO",
+            "PRUNO",
+            "BANANO",
+            "MELONO",
+            "FIGO",
+            "MANGO",
+            "KIVO",
+            "DATO"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Ĝardeno",
+          "words": [
+            "ROZO",
+            "TULIPO",
+            "SEMO",
+            "TERO",
+            "FOLIO",
+            "ARBO",
+            "FLORO",
+            "HERBO",
+            "ABELO"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kuirejo",
+          "words": [
+            "TASO",
+            "KULERO",
+            "PANO",
+            "PATO",
+            "BOVLO",
+            "TELERO",
+            "TEO",
+            "FORNO",
+            "FORKO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Vetero",
+          "words": [
+            "SUNO",
+            "PLUVO",
+            "NEĜO",
+            "VENTO",
+            "NUBO",
+            "ŜTORMO",
+            "NEBULO",
+            "FULMO",
+            "GLACIO"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Bestoj",
+          "words": [
+            "HUNDO",
+            "KATO",
+            "BIRDO",
+            "FIŜO",
+            "ĈEVALO",
+            "BOVO",
+            "ANASO",
+            "KAPRO",
+            "ŜAFO"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Hejmo",
+          "words": [
+            "PORDO",
+            "SEĜO",
+            "LAMPO",
+            "LITO",
+            "TAPIŜO",
+            "SOFO",
+            "TABLO",
+            "MURO",
+            "ĈAMBRO"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Ĉiuj kartoj",
+        "food": "Manĝaĵoj",
+        "home": "Hejmo",
+        "outdoors": "En la naturo",
+        "animals": "Bestoj",
+        "travel": "Vojaĝoj",
+        "work": "Laboro kaj ŝatokupoj",
+        "music": "Muziko kaj amuzo",
+        "seasons": "Sezonoj"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Kiu kuireja odoro plej plaĉas al vi?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Kian kukon vi elektus por festo?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Rakontu al mi pri frukta kuko aŭ deserto, kiun vi ŝatas."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Kiel vi plej ŝatas trinki vian teon aŭ kafon?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Kio laŭ vi faras matenmanĝon vere bona?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ĉu vi iam rikoltis fruktojn rekte de la planto aŭ arbo?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Dolĉa aŭ acida: kio pli plaĉas al vi?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Kiu manĝaĵo memorigas al vi la guston de la somero?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Rakontu pri domo, en kiu vi ŝatis loĝi."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Kie estas via plej ŝatata loko por sidi kaj ripozi?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Kion vi ŝatas fari dum trankvila vespero?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Kian trezoron vi konservus en speciala skatolo?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Kiun vi volonte invitus por taso da teo?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Kion vi ŝatas fari en pluva tago?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Kiajn florojn vi plantus en ĝardeno?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Rakontu pri arbo aŭ parko, kiun vi ŝatas."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Kio estas la plej agrabla parto de estado en ĝardeno?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Kiajn kolorojn de floroj vi plej ŝatas?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Ĉu plaĉas al vi havi plantojn hejme?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Kiel aspektas laŭ vi perfekta suna tago?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Rakontu pri hundo, kiun vi iam konis."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Katoj aŭ hundoj, aŭ neniu el ili? Kio plaĉas al vi ĉe ili?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Kiajn birdojn vi vidas aŭ aŭdas ekstere?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ĉu vi iam fiŝkaptis, aŭ havis akvarion?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Kiu estas la plej bela besto, kiun vi iam vidis?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Rakontu pri aŭto, kiun vi ŝatis."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Ĉu vi preferus pasigi tagon ĉe la marbordo aŭ en la montaro?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Kien vi ŝatus fari promenon aŭ veturon?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Se vi povus flugi super iu ajn loko, kien vi flugus?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Rakontu pri vojaĝo, kiu plaĉis al vi."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Kian laboron vi faris kun plezuro?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Pri kiu ŝatokupo vi povus pasigi horojn?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Pri kio oni konis vin, kion vi lerte faris aŭ riparis?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Kian konsilon vi donus al juna homo, kiu komencas labori?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Kia muziko donas al vi emon ritme movi la piedojn?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Kio faras feston vere agrabla kaj gaja?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Kiu estas kantisto, kiun vi ŝatas aŭskulti?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Kiu estas filmo aŭ televida programo, kiun vi ŝatas revidi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Kio plej plaĉas al vi pri la somero?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Kio plaĉas al vi pri la aŭtuno?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Kio estas agrable farebla dum kvieta vintra vespero?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Kiuj estas por vi la unuaj signoj de printempo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Neĝo, pluvo aŭ sunbrilo: kion vi preferas?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Floro en poto",
+          "regions": {
+            "sky": "Fono",
+            "table": "Tablo",
+            "stem": "Tigo",
+            "leaf-left": "Maldekstra folio",
+            "leaf-right": "Dekstra folio",
+            "petal-1": "Petalo 1",
+            "petal-2": "Petalo 2",
+            "petal-3": "Petalo 3",
+            "petal-4": "Petalo 4",
+            "petal-5": "Petalo 5",
+            "petal-6": "Petalo 6",
+            "petal-7": "Petalo 7",
+            "petal-8": "Petalo 8",
+            "center": "Mezo de la floro",
+            "pot": "Poto",
+            "pot-rim": "Rando de la poto"
+          }
+        },
+        "house": {
+          "name": "Domo",
+          "regions": {
+            "sky": "Ĉielo",
+            "sun": "Suno",
+            "grass": "Herbo",
+            "chimney": "Kameno",
+            "walls": "Muroj",
+            "roof": "Tegmento",
+            "door": "Pordo",
+            "window-left": "Maldekstra fenestro",
+            "window-right": "Dekstra fenestro",
+            "path": "Pado"
+          }
+        },
+        "teacup": {
+          "name": "Tetaso",
+          "regions": {
+            "background": "Fono",
+            "saucer": "Subtaso",
+            "handle": "Tenilo",
+            "cup": "Taso",
+            "band": "Strio sur la taso",
+            "tea": "Teo"
+          }
+        },
+        "butterfly": {
+          "name": "Papilio",
+          "regions": {
+            "background": "Fono",
+            "wing-top-left": "Supra maldekstra flugilo",
+            "wing-top-right": "Supra dekstra flugilo",
+            "wing-bottom-left": "Malsupra maldekstra flugilo",
+            "wing-bottom-right": "Malsupra dekstra flugilo",
+            "spot-left": "Punkto sur la maldekstra flugilo",
+            "spot-right": "Punkto sur la dekstra flugilo",
+            "body": "Korpo"
+          }
+        },
+        "sailboat": {
+          "name": "Velboato",
+          "regions": {
+            "sky": "Ĉielo",
+            "sea": "Maro",
+            "sail-big": "Granda velo",
+            "sail-small": "Malgranda velo",
+            "mast": "Masto",
+            "hull": "Boato",
+            "flag": "Flago"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kuirejo kaj ĝardeno",
+          "baskets": [
+            "En la kuirejo",
+            "En la ĝardeno"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fruktoj kaj bestoj",
+          "baskets": [
+            "Fruktoj",
+            "Bestoj"
+          ]
+        },
+        "home-travel": {
+          "label": "Hejmo kaj vojaĝoj",
+          "baskets": [
+            "Hejme",
+            "Eksterhejme"
+          ]
+        }
+      }
+    }
+  }
+}

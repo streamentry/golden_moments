@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Ehasa tembiapoite peve",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Tembiapokuéra demencia rehegua",
+    "homeLabel": "Golden Moments ñepyrũha",
+    "mainNav": "Tenondegua",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Avañe'ẽ",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: ta'anga tuicháva ha iporãva tása, girasol ha jagua rehegua",
+    "languages": "Ñe'ẽ",
+    "englishOnly": "(Inglés)",
+    "machineTranslated": "Ko togue oñembohasa ijeheguiete ha peteĩ avañe'ẽhára gueteri ndohechajeyiva'ekue.",
+    "readOriginal": "Emoñe'ẽ iñepyrũháicha inglés-pe",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Ñembosarái",
+      "activities": "Tembiapokuéra",
+      "caregiving": "Ñangareko",
+      "brainHealth": "Apytu'ũ tesãi"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Porandu ha mbohóvai",
+    "breadcrumb": "Guata rape",
+    "home": "Ñepyrũha",
+    "lastUpdated": "Oñembopyahu paha",
+    "topics": "Mba'e reheguáva",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Jehaipy tuichakue",
+      "smaller": "Jehaipy jepiveguáva",
+      "larger": "Jehaipy tuichavéva",
+      "contrast": "Hesakãveva"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Eñembosarái",
+    "picturePairs": "Ta'anga jojáva",
+    "conversationCards": "Kuatia ñomongetarã",
+    "pictureBingo": "Bingo ta'angandi",
+    "allGames": "Opavave ñembosarái",
+    "pictures": "Ta'anga embokuatia hag̃ua",
+    "activityIdeas": "Tembiapo apytu'ũ",
+    "ideas101": "101 tembiapo apytu'ũ",
+    "lateStage": "Tembiapokuéra pehẽngue pahapeguápe g̃uarã",
+    "printable": "Tembiapo ikatuva embokuatia",
+    "allActivities": "Opavave tembiapo",
+    "forCaregivers": "Ñangarekohárape g̃uarã",
+    "playTogether": "Mba'éichapa oñeñembosaráita oñondive",
+    "selfCare": "Reñangareko ndejehe",
+    "brainHealth": "Apytu'ũ tesãi jeporeka",
+    "faq": "Porandu ha mbohóvai",
+    "about": "Ore rehegua",
+    "approach": "Ore rape",
+    "howWeWrite": "Mba'éichapa rohai",
+    "organizations": "Atyguápe g̃uarã",
+    "app": "Golden Moments mba'epuru",
+    "appHelp": "Pytyvõ mba'epururã",
+    "support": "Pytyvõ",
+    "legal": "Léi rehegua",
+    "sitePrivacy": "Ñanduti renda mba'eñemi",
+    "appPrivacy": "Mba'epuru mba'eñemi léi",
+    "privacyChoices": "Mba'eñemi jeporavorã",
+    "terms": "Léi jerure ha mba'epuru jeporu",
+    "safety": "Py'aguapy ha jeporu añetegua",
+    "accessibility": "Jeikekuaa",
+    "healthNotice": "Tesãi marandu mombe'u",
+    "allLegal": "Opavave léi marandu",
+    "note": "Golden Moments ome'ẽ tembiapo ndahasýiva oñondive oñevy'a hag̃ua. Ndaipóri pohanohára ñe'ẽ, ñeha'ã térã pohãno, ha ndohechaukái mba'asy, nombojojái térã nome'ẽi puntuación avavépe. Tesãi rehegua porandúpe g̃uarã, eñe'ẽ peteĩ pohanohárandi. Apysẽme, ehenói 911-pe.",
+    "publisher": "Ombokuatiava'ekue Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Ñembosarái ha Tembiapokuéra Demencia ha Alzheimer rehegua | Golden Moments",
+    "description": "Ñembosarái ta'angandi reiete ha py'aguapýpe oñeha'ã hag̃ua ñandutípe, ha tembiaporã apytu'ũ tapicha oikóva demencia térã Alzheimer ndive ha iñangarekohárape g̃uarã. Ndaipóri jehai ñepyrũ, aravópe térã puntuación.",
+    "eyebrow": "Reiete · Marandundive'ỹre · Jehaindere'ỹre · Aravovere'ỹre ha puntuación-re'ỹre",
+    "h1": "Ñembosarái ha Tembiapo Py'aguapýpe Tapicha Oikóvape g̃uarã Demencia Ndive",
+    "lede": "Ñembosarái ta'angandi ndahasýiva, ta'anga ojekuaáva ha tembiapo oñevy'a hag̃ua oñondive—nde voi reipotaháicha.",
+    "playGame": "Eñembosarái",
+    "findIdeas": "Ejuhu tembiapo apytu'ũ",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Oiko pumbyry, tablet ha mohendahápe",
+      "Ta'anga tuicháva ndojeíriva",
+      "Epytu'u reipotahávo; ndaipóri oñehundíva"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Oĩ avei peteĩ mba'epuru reiete iPhone, iPad ha Android-pe g̃uarã, ne rogaygua ta'angakuéra ndive",
+    "albumNote": "“Mokõi tása ta'anga, oñondive.”",
+    "gamesEyebrow": "Eñembosarái ne kundahápe",
+    "gamesTitle": "Ñembosarái ikatúva eha'ã ko'ág̃ante",
+    "gamesLede": "Peteĩteĩ ipy'aguapy, kakuaávape g̃uarã ha pya'e oñepyrũ. Eiporavo peteĩ, eguapy ijykére, ha eipoko hendive katuete.",
+    "seeAllGames": "Ehecha opavave {count} ñembosarái",
+    "howTitle": "Mba'éichapa oiko",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Eiporavo mba'e ojekuaáva",
+        "text": "Ta'anga tása, yvotyty, mymba rógapeguáva ha ygarata rehegua. Ndaikuaái remoñe'ẽ térã reaprende va'erã léi tenondeve."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Peguapy oñondive ijykére",
+        "text": "Eheja toipoko. Peñemongeta ta'anga rehegua. Ndojojáirõ katu, oha'arõnte ambue jepoko."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Epytu'u iporã aja gueteri",
+        "text": "Peteĩ ñembosarái ha'e peteĩ tembiapo hekopete. “Oĩma ko'ág̃arã” oĩ meme mba'erechahápe."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Mba'erechahágui mombyryve",
+    "stageTitle": "Tembiapo apytu'ũ opaite pehẽnguépe g̃uarã",
+    "stageLede": "Purahéi, ára ha ára tembiapo, mandu'a ha temiandu py'aguapýpe, oñemboguapýva pe iporãvévape ko'ág̃a.",
+    "ideas101": "101 tembiapo apytu'ũ",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Pehẽngue ñepyrũha",
+        "text": "Pesegi pejapo pe ogustáva chupe, mbovymi ñemoambue ndive: tembiapo jepokuaa, ñesẽ okápe, ñe'ẽ ñembosarái ha ñembosako'i oñondive.",
+        "label": "Pehẽngue ñepyrũha rehegua apytu'ũ"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Pehẽngue mbytepegua",
+        "text": "Tembiapo ndahasýiva ha ojekuaáva oñemboja'óva pehẽnguépe: ao jepoka, ñemohenda, purahéi, ta'anga ñembosarái ha guata mbykymi.",
+        "label": "Pehẽngue mbytepegua rehegua apytu'ũ"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Pehẽngue paha",
+        "text": "Py'aguapy ha jokupyty po jepoko, tyapu ha jehecha rupive: po ñeñangareko, purahéi ojehayhuvéva, ta'anga ha oiko oñondive.",
+        "label": "Pehẽngue paha rehegua apytu'ũ"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Rehekápa peteĩ mba'e tee? Ehecha <a href=\"/activities/alzheimers/\">tembiapo ha ñembosarái Alzheimer-pe g̃uarã</a>, <a href=\"/activities/memory-games/\">mandu'a ñembosarái py'aguapýpe</a>, <a href=\"/activities/trivia/\">porandu mbykymi ndahasýiva</a> térã <a href=\"/activities/puzzles/\">puzzle-kuéra</a>.",
+    "approachEyebrow": "Ore rape",
+    "approachTitle": "Peteĩ tembiapo oñondivegua, ndaha'éi mandu'a ñeha'ã",
+    "approachLede": "Heta “apytu'ũ ñembosarái” ojejapo pya'ekue, puntuación ha jepytaso rehe. Peteĩ tapicha oikóvape demencia ndive ikatu oñandu peteĩ examen ramo. Ore rojapo mba'e ambueitéva.",
+    "approachLink": "Mba'érepa rombosako'i péicha",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Ndaipóri oñehundíva",
+        "text": "Ndaipóri aravo, puntuación, tekove térã kañy. Peteĩ ta'anga iñambuéva ha'e pytu'u, ndaha'éi jejavy."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Ta'angakuéra ndojeíriva",
+        "text": "Kuaajey heñói mandu'a ári. Mbojoja oñepyrũ ojehechapaitévo, upévare ndaipóri mba'eve nemandu'ava'erã."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Kakuaávape g̃uarã ha tekoporãme",
+        "text": "Ñe'ẽ mborayhu ha hekopetegua, ha ta'anga yvypóra rekopegua. Ndaipóri ta'anga'i térã mitã ñe'ẽ."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Mba'eñemi iñepyrũmby guive",
+        "text": "Ndaipóri kuatia jehai térã marandu. Ne ta'angakuéra araka'eve ndosẽi ne tembipurúgui."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Ñangarekohárape g̃uarã",
+    "guidesTitle": "Mba'ekuaa rape ára ha ára ñangarekópe g̃uarã",
+    "allCaregiving": "Opavave ñangareko rapekuéra",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Mba'éichapa oñeñembosaráita oñondive",
+        "text": "Mbosako'i, pya'ekue, ha mba'épa ojejapóta peteĩ ñembosarái ndovy'avéirõ."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "He'i jave nahániri peteĩ tembiapópe",
+        "text": "Mba'érepa py'ỹinte oñembotove, ha tapereko py'aguapy rehegua oñeha'ãjey hag̃ua upéi."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Mba'éichapa oñembosako'i peteĩ tablet",
+        "text": "Ta'anga'i tuichavéva, mboyve joko ha peteĩ mba'erechaha ñepyrũha ndahasýiva."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Tembiapo reiete ikatuva embokuatia",
+        "text": "Ñe'ẽ jeporeka tuicháva, togue oñembosa'y hag̃ua, bingo ha kuatia ñomongetarã."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Apytu'ũ tesãi: mba'épa añetehápe he'i umi jeporeka",
+    "researchText": "Ikatúpa ojejoko demencia? Oipytyvõpa apytu'ũ ñembosarái? Mba'épa oiko karu'ỹ, tembi'u, ke ha hendu rehegua? Mbohóvai hesakãva ha ohechaukáva moõguipa osẽ, oje'ehápe avei moõpa ikangy pe marandu.",
+    "researchLink": "Emoñe'ẽ jeporeka rapekuéra",
+    "appEyebrow": "Oĩ avei peteĩ mba'epuru",
+    "appTitle": "Golden Moments iPhone, iPad ha Android-pe",
+    "appText": "Ko mba'epuru reiete oiko ñanduti'ỹre ha ikatu oiporu ne rogaygua ta'angakuéra reiporavóva, opytáva copia ramo ne tembipurúpente. Upéichaite ipy'aguapy: irundy ta'anga tuicháva, aravovere'ỹre ha puntuación-re'ỹre.",
+    "aboutApp": "Mba'epuru rehegua",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Mba'e ñembosaráipa iporã tapicha oikóvape g̃uarã demencia ndive?",
+        "a": "Umi ñembosarái porã niko ndahasýi, ojekuaaporã ha ndorekói jejopy: ta'anga tuicháva oñembojoaju hag̃ua, ñemohenda, rompecabezas ndahasýiva, ñe'ẽnga ojekuaáva mboapypa, mbosa'y, ta'anga bingo ha tarjeta ñomongetahápe g̃uarã. Pe iporãvéva niko pe tapicha ombovy'áva ko árape. Ani reiporu aravo rechauka, punto térã mba'eve ojoguáva examen-pe."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Ko'ã ñembosarái demencia rehegua niko reiete piko?",
+        "a": "Hẽe. Opavave ñembosarái ha kuatia oñenohẽkuaáva Golden Moments-pe niko reiete, natekotevẽi cuenta, réra mboja'o térã mba'eve ñemboguejy. Umi ñembosarái omba'apo navegador web-pe teléfono, tablet térã computadora-pe."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Umi ñembosarái apytu'ũ rehegua ojoko piko pe demencia?",
+        "a": "Ndojehechaukái gueteri mba'eveichagua ñembosarái ikatúva ojoko pe demencia, ha Golden Moments nde'íri omonguera térã ojokoha mba'eve. Ore ñembosarái niko oñembosaraise ha ojeiko porã hag̃ua oñondivepa. Ore vore tesãi apytu'ũ rehegua omyesakã mba'épa ohechauka ha mba'épa ndohechaukái umi tembikuaa."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Ko'ã ñembosarái iporã piko peteĩ tapicha orekóvape g̃uarã Alzheimer?",
+        "a": "Hẽe. Pe mba'asy Alzheimer ha'e pe omoheñóiva demencia hetave jave, ha ko'ã ñembosarái oñembosako'i hese: ta'anga tuicháva opytáva ojehecha, sa'i mba'e ojeporavo hag̃ua, ha mba'eve natekotevẽi oñemomandu'a térã ojejavy. Ñembojoaju, ñemohenda ha ñe'ẽnga ojekuaáva mboapypa oiporu umi mba'e ojekuaamava'ekue yma guive, ndaha'éi tembikuaa pyahu oñeaprende va'erãva."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Peteĩ tapicha oikóva demencia hi'arevéva ndive ikatu piko ojapo ko'ã tembiapo?",
+        "a": "Heta jave ikatu, oĩramo peteĩ tapicha ijykére. Eñepyrũ Ejuhu peteĩchagua mokõi ta'anga ndive, Ta'anga mbojopara irundy vore reheve, peteĩ kuatia mbosa'yrã térã pytuhẽ py'aguapýpe. Emoĩ mbykymi, eho heseve ha epytu'u ndojaposéima jave."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Oñeñangareko piko che marandúre ñemiháme?",
+        "a": "Ko tenda ndorekói cuenta ha marandu ñemurã. Roiporu Google Analytics roikuaa hag̃ua mavaitépa umi kuatia rogue ojehechavéva. Umi ta'anga reiporavóva Ta'anga mbojoparãme g̃uarã ojehecha nde navegador-pente ha araka'eve ndoñemboguapýi ambue hendápe."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Máva piko ojapo Golden Moments?",
+        "a": "Golden Moments niko peteĩ aty michĩva ojapóva tembiapo ta'anga rehegua py'aguapýpe kakuaavakuérape g̃uarã, ogaygua ha oñangarekóvape g̃uarã, web-pe ha peteĩ tembiporu reiete ramo. Ndaha'éi pohãnohára, ha mba'eve ko'ápe oĩva ndaha'éi pohãnohára ñe'ẽporã."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "ñepyrũha",
+    "middle": "mbytepegua",
+    "late": "hi'arevéva",
+    "hintOne": "Iporã jepi etapa {list}-pe",
+    "hintMany": "Iporã jepi umi etapa {list}-pe",
+    "labelEarly": "Etapa ñepyrũha",
+    "labelMiddle": "Etapa mbytepegua",
+    "labelLate": "Etapa hi'arevéva"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Ko ñembosarái rehegua",
+    "printable": "Oñenohẽkuaáva kuatiápe",
+    "play": "Ñembosarái {name} →",
+    "readGuide": "Emoñe'ẽ pe kuatia rape"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Reime piko peteĩ ñembosarái py'aguapýpe g̃uarã?",
+    "text": "Ta'anga tuicháva, ndorekói aravo rechauka, ndorekói punto ha natekotevẽi emombe'u nde réra. Eñembosarái oñondivepa nde navegador-pe.",
+    "play": "Ñembosarái",
+    "all": "Ehecha opavave ñembosarái",
+    "aria": "Eñembosarái peteĩ ñembosaráipe"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Gueraha ko'ã ñembosarái nendive",
+    "text": "Pe tembiporu reigua Golden Moments iPhone, iPad ha Android-pe g̃uarã: ta'anga tuicháva, ñembosarái ne rogaygua ta'angakuéra ndive, ha ta'anga aty omba'apóva Wi‑Fi rehe'ỹ. Ndorekói cuenta, marandu ñemurã, aravo rechauka térã punto.",
+    "appStore": "Ejuhu App Store-pe",
+    "googlePlay": "Ejuhu Google Play-pe",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Pe tembiporu rehegua",
+    "aria": "Ehupyty pe tembiporu"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Tembiapokuéra",
+      "title": "Tembiapokuéra tapicha oikóva demencia ndive g̃uarã",
+      "seo": "Tembiapokuéra tapicha oikóva demencia ndive g̃uarã: Apytu'ũrokái etapa rupi",
+      "description": "Tembiaporã apytu'ũrokái tapicha oikóva demencia ndive opaite etapa-pe: purahéi, mandu'a, tembiapo ára ha árapegua, mba'e oñeñandúva, tembiapo popegua, okára ha kuatia reigua oñenohẽva.",
+      "lede": "Peteĩ tembiapo hekopeguáva ha'e oimeraẽ mba'e ome'ẽva py'aguapy, mba'erãpa térã peteĩ jekupyty. Eñepyrũ pe tapicha ovy'aha jepi reheve, ha emohenda ko ára rehe."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Ñangareko",
+      "title": "Kuatia rape ñangareko rehegua",
+      "seo": "Kuatia rape ñangareko demencia rehegua: Pytyvõ ára ha árape",
+      "description": "Kuatia rape iporãva ha mborayhúpe oñangarekóvape g̃uarã demencia rehe: ñembosarái oñondivepa, ñomongeta, ndojaposéiramo, py'atarova ka'arukue, tablet, mba'éichapa ojeiporavóta tembiporu ha jehechakuaa ijehe.",
+      "lede": "Pytyvõ hesakãva ha oipytyvõva umi ára ha ára rembiapópe oñeñangareko jave tapicha oikóva demencia ndive, ha avei ndejehe reñangareko hag̃ua."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Apytu'ũ tesãi",
+      "title": "Apytu'ũ tesãi: Mba'épa he'i tembikuaaty",
+      "seo": "Apytu'ũ tesãi ha demencia mba'asy: Mba'épa he'i tembikuaaty",
+      "description": "Ojejokua piko pe demencia? Kuatia rape añeteguáva ha hekopeguáva oñe'ẽva mba'épa ikatu ogueru demencia, ñembosarái apytu'ũmegua, karu'ỹ, tembi'u, tetekuaa, ke, hendu ha techaukaha ñepyrũha.",
+      "lede": "Mba'épa ohechauka añete umi tembiporandu guasu demencia jejoko rehegua, oñemyesakã hesakãhápe, avei oĩvehápe tembikuaa ikangy térã ojoavyha. Marandu opavavépe g̃uarã, ndaha'éi pohãnohára ñe'ẽporã."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Oñembopyahu",
+    "minuteRead": "{n} aravo'i moñe'ẽrã",
+    "byTeam": "Golden Moments aty rembiapokue",
+    "howWeWrite": "Mba'éichapa rohai",
+    "shortAnswer": "Mbohovái mbykymi",
+    "onThisPage": "Ko kuatiápe ({n} vore)",
+    "commonQuestions": "Porandu jepiguáva",
+    "sources": "Mba'ekuaa rape",
+    "sourcesNote": "Romoĩ enlace umi aty ha tembikuaareka ko kuatia oiporúva rehe. Peteĩteĩ oñehesa'ỹijo ko kuatia oñembopyahu jave.",
+    "tryTogether": "Eñeha'ã oñondivepa",
+    "relatedGuides": "Kuatia rape oñembojoajúva",
+    "related": "Oñembojoajúva",
+    "startHere": "Eñepyrũ ko'ápe"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Marandu tesãi rehegua",
+    "title": "Marandu opavavépe g̃uarã, ndaha'éi pohãnohára ñe'ẽporã",
+    "textHtml": "Ko kuatia rogue ombyaty umi tembikuaareka oñemboherakuapyréva ogayguakuérape g̃uarã. Ndikatúi he'i mba'épa oĩ porã peteĩ tapichápe g̃uarãnte. Eñe'ẽ peteĩ pohãnohára ndive remoambue mboyve tembi'u, ejercisio, ke, pohã térã suplemento. Oĩramo sarambi sapy'agua apytu'ũme térã ambue ñemoambue sapy'agua, eheka pytyvõ pohãno rehegua pya'ete. <a href=\"/medical-disclaimer/\">Emoñe'ẽ ore marandu tesãi rehegua</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Peteĩ tembiapo oñondivepa, ndaha'éi mandu'a examen",
+      "seoTitle": "Golden Moments rehegua: Ore rape",
+      "description": "Mba'érepa Golden Moments ñembosarái ndorekói aravo rechauka, punto térã jepapa, mba'érepa umi ta'anga opyta ojehecha, ha mba'épa ro'éta ha ndoro'emo'ãi demencia rehe.",
+      "crumb": "Ore rape",
+      "lede": "Golden Moments ojapo tembiapo ta'anga rehegua py'aguapýpe kakuaavakuérape g̃uarã, peteĩ oñangarekóva ha tapicha oikóva demencia ndive ikatuhápe ovy'a oñondivepa.",
+      "bodyHtml": "<h2>Mba'épepa rojerovia</h2><p>Ko tembiapo rembipota ha'e pe sapy'aite voi: peteĩ ñomongeta, peteĩ pukavy, pe vy'a ñambojoajúvo mokõi ta'anga, térã ñaguapy sapy'ami oñondivepa. Ndaha'éi oñeha'ã hag̃ua avavépe, oñeapytu'ũroka hag̃ua chupekuéra térã oñehechauka hag̃ua mba'eve.</p><p>Heta tembipuru'i apytu'ũ ñembokatupyryrã oñembosako'i pya'ekue, punto, jehasa ha yvateve jeho reheve. Peteĩ tapicha oikóva demencia ndive g̃uarã, ko'ã mba'e ikatúma oñeñandu peteĩ examen ndaikatúiva ohasa ramo. Ore rojapókatu pe ambue hendaichaite, ha rojepytaso ko'ã mbojojaha rehe:</p><ul><li><strong>Ndaipóri mba'eve oñehundi hag̃ua.</strong> Ndaipóri aravóte, punto, papaha, tekove, jepysokue, confetti térã papaha oikéva tatýpe, mba'eveichagua ta'angambyry ape rehe.</li><li><strong>Jehechakuaa mandu'a renondépe.</strong> Ta'angakuéra opyta ojehecha tapiaite. Ñehenói oipytyvõ ñomongetápe ha araka'eve nomba'eporandúi téra térã mandu'a rehegua.</li><li><strong>Tuicha, hesakã ha opytáva peteĩ hendápe.</strong> Jehaipyre ha ta'anga tuicháva, sa'y hesaite opu'ãva, ha mbotaha opytáva peteĩ tendápente.</li><li><strong>Kakuaa tekorãngatu.</strong> Ta'anga añeteguáva ha ñe'ẽ ndahasýiva ha mborayhúpe oñeñe'ẽva. Ndaipóri ta'anga ñembosarái, jehero mitãicha térã emoji jopóiramo.</li><li><strong>Ñesẽ pya'e ha hasy'ỹva.</strong> “Oĩma ko'ág̃arã” ojehecha meme. Opáramo mbyte rupi, upéva iporãiterei avei.</li><li><strong>Ñemiguápe iñepyrũmby guive.</strong> Ndaipóri cuenta térã marandu ñemu rehegua. Upe ta'anga reiporavóva opyta nde mba'eapopýpe voi.</li></ul><h2>Mba'épa ndoro'éi</h2><p>Ore ñembosarái niko vy'arã ha jejuhu oñondivepa g̃uarãnte. Ndoikuaaukái mba'asy, nomba'eha'ãi, nomonguerái, nombovaimbeguevéi ha ndojokói demencia térã Alzheimer mba'asy, ha avave ndoiporavói va'erã ko'ãva upe mba'ére. Rohai jave tembiapokue rehegua ore <a href=\"/brain-health/\">kuatiarogue apytu'ũ tesãi reheguápe</a>, romohesakã hekopete moõpa pe techaukaha ikangy, ha araka'eve nombojoajúi ko'ãva ore ñembosarái rehe.</p><h2>Mávapa ore</h2><p>Golden Moments ha'e peteĩ aty michĩva ha ijeheguietéva. Ndaha'éi ore pohanohára. Ore mbo'ehaipyre ojehái marandu oikuaaukava'ekue atyguasu ramo techapyrãrã National Institute on Aging ha Alzheimer’s Association rupive, ha peteĩteĩva ohechauka moõguipa oñeguenohẽ. Emoñe'ẽ <a href=\"/editorial-policy/\">mba'éichapa rohai ha rohechajey ore kuatiaroguekuéra</a>.</p><h2>Emombe'u oréve mba'épa oipytyvõta</h2><p>Rovy'aitéta rohendúramo mba'épa oiko porã ndéve ha mba'épa nahániri, ko'ýte tapichakuéra oikóva demencia ndive, hogayguakuéra oñangarekóva hesekuéra ha tembiapo myasãihára apytégui. Ehai ko ñe'ẽvevépe: <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Mba'éichapa rohai ha rohechajey ore kuatiaroguekuéra",
+      "seoTitle": "Jehai Tekorã",
+      "description": "Mba'éichapa Golden Moments oheka, ohai, omohenda hendaite ha ombopyahu ikuatiarogue demencia rembiapo ha apytu'ũ tesãi rehegua, ha mba'épa araka'eve nomyasãimo'ãi.",
+      "crumb": "Jehai tekorã",
+      "bodyHtml": "<h2>Moõguipa roguenohẽ marandu</h2><p>Ore roipyhy ore mbo'ehaipyrã marandu opaite g̃uarãva oúva atyguasu National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance ha NHS rehegua, ha tembiapokue oñehesa'ỹijova'ekue ambue tembikuaahára rupive techapyrãrã Cochrane jehechajey ha tesãi ñeha'ã guasukuéra. Opaite mbo'ehaipyre ohechauka moõguipa oñeguenohẽ. Roguerape'a peteĩteĩva marandu ykua romoĩ mboyve, ha roikuaauka añoite upe he'íva voi añetehápe.</p><h2>Mba'éichapa rohai</h2><ul><li>Oñemomba'apo pya'e: mba'épa ojejapo ko árape, ñe'ẽ ndahasýivape.</li><li>Añete techaukahakuéra reheve: ro'e “oñembojoaju”, “ikatu” ha “techaukaha ndaha'éi peteĩchapa” upe añetegua ramo.</li><li>Tekorãngatu reheve: rohai tapicha oikóva demencia ndive rehe tapicha kakuaa ramo, ha araka'eve nañambosako'íri ñe'ẽ oporomongangýva térã oporomotĩva.</li><li>Ndaipóri mba'e oñemoheñóiva: ndaipóri papapy añetegua'ỹva, ñe'ẽ oñembotujáva, arandukuéra japu, tembiapokue térã testimonio gua'u.</li></ul><h2>Mávapa ohechajey ore kuatiaroguekuéra</h2><p>Kuatiaroguekuéra ohai ha ohechajey Golden Moments aty, tembipuru'i AI pytyvõ reheve ojeheka ha ojehai ñepyrũ hag̃ua. Opaite kuatiarogue oñembojoja imarandu ykua rehe ko aty rupive. Ore kuatiaroguekuéra <strong>ndaha'éi</strong> ohechajeyva'ekue peteĩ pohanohára térã tesãi rembiapohára, ha noro'éi mba'eve ambue hendáicha. Ko'ãva ha'e marandu opavavépe g̃uarã, ndaha'éi pohanohára ñe'ẽngatu.</p><h2>Mba'épa araka'eve noromyasãimo'ãi</h2><ul><li>Ñe'ẽ he'íva peteĩ ñembosarái, tembi'u, suplemento, karu'ỹ térã jejapo jepi ojoko, omonguera, ombovaimbegueve térã oipohanoha demencia.</li><li>Mba'eha'ã, porandu térã punto he'íva peteĩ tapicha oguerekoha, térã ndoguerekoiha, demencia.</li><li>Ñe'ẽñomi oñepyrũ, ojejoko térã oñemoambue hag̃ua pohã.</li><li>Marandu ñemu térã jejopyrã oñemoñemíva mbo'ehaipyre ramo.</li></ul><h2>Ñembopyahu ha myatyrõ</h2><p>Peteĩteĩ kuatiarogue ohechauka araka'épa oñembopyahu paha. Ejuhúramo jejavy térã marandu ykua ymaguarémava, ikatúpa rehai ko ñe'ẽvevépe: <a href=\"mailto:{email}\">{email}</a> ha rohechajey pya'éta.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Porandu ha Mbohovái",
+      "seoTitle": "Demencia Ñembosarái ha Tembiapokuéra: Porandu ha Mbohovái",
+      "description": "Mbohovái porandu py'ỹi ojejapóvape demencia ñembosarái ha tembiapo rehegua: mba'e ñembosaráipa ikatu ojehecha, mboy arávo oñeñembosarái va'erã, tembiapokue peveguaite g̃uarã, apytu'ũ tesãi ha ñemigua.",
+      "crumb": "Porandu ha mbohovái",
+      "lede": "Mbohovái mbykymi ha hesakãva umi porandu ñangarekohára oporanduvévape.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Ñembosarái rehegua",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Mba'e ñembosaráipa iporãve peteĩ tapicha oikóva demencia ndive g̃uarã?",
+              "a": "Umi ñembosarái iporãvéva ha'e umi ojekuaamáva, ndahasýiva ha ndojopýiva avavépe, ha pe hendaitépe oĩva ha'e pe tapicha ovy'aha ko árape. Ta'anga oñomoirũva ojehecháva meme, ñemohenda, ta'angamora'ã ndahasýiva, ñe'ẽnga ojekuaáva mbojoapy, sa'y mbohasa ha ta'anga bingo niko oiko porã heta tapichápe. Ejehekýi aravótegui, puntokuéragui ha opaite mba'e ojoguaséva peteĩ mba'eha'ãme."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Añetehápepa ko'ã ñembosarái reiete?",
+              "a": "Hẽe. Opa ñembosarái ha kuatia oñenohẽkuaáva reiete voi, natekotevẽi emoheñói cuenta, eñemboguapy, emboguejy mba'eve térã ehecha marandu ñemu rehegua."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Mba'ére ndaipóri puntuación, nivel térã aravo rechauka?",
+              "a": "Pya'ekue ha puntuación ikatu omoambue peteĩ vy'arã peteĩ examen-pe, ha upéva ikatúva omotĩ térã ombopy'arasy pe tapichápe. Ore romoĩ pe tembiapo vy'apavẽ ha oñondivepa jepokuaa rehe, upévare ndaipóri mba'eve ojejavyva'erã, ha ikatu embopa oimeraẽva jave."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Mba'e tembipuru piko oiko porãve?",
+              "a": "Oimeraẽva pumbyry, tablet térã mohendaha orekóva ñanduti kundahára pyahu. Peteĩ tablet mesa ári peteĩ pytyvõhára ndive ha'ehína pe hendaitépe mokõive oñembosarái haguã yke mboypýri. Peteĩ laptop oñembojoajúva ta'angambyry ndive oiko porãiterei aty guasúpe g̃uarã."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Ikatúpa roñembosarái ore rogapypegua ta'anga teete reheve?",
+              "a": "Hẽe. Photo pairs omoambue 2 guive 6 peve ta'anga eiporavóva peteĩ ñembosarái jopararápe. Umi ta'anga opyta nde kundahárape ha ndojehupíi ni ndoñeñongatúi mba'eveichagua hendápe."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Tembiapokuéra ha ñangareko",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Mboy minuto piko ipukúva'erã peteĩ tembiapo?",
+              "a": "Py'ỹinte 10 guive 20 minuto peve iporãitereíma, ha sapy'ánte 2 minuto jepe iporãma avei. Ejesareko katu ikane'õ térã ipochy ramo, ha embopa oĩ aja gueteri porã. Ndaipóri peteĩ aravo hekopetéva."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Mba'épa jajapóta ndojaposéirõ pe tembiapo?",
+              "a": "Emomba'e he'i jave nahániri, ha eha'ã jey upe rire térã ambue hendáicha. Ikatu ndojaposéi ikane'õgui, hasy rupi chupe, ndojeroviáigui térã ndoguerohorýi rupi upéva. Ehecha ore mbo'eha rehegua mba'épa rejapokuaa he'i jave nahániri."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Mba'e tembiapo piko iporã demencia oñemotenondeitereíma jave?",
+              "a": "Py'aguapy ha mba'e oñeñandúva: purahéi ohecharamóva ohendu, po ñemopirĩ crema reheve, ta'anga oñondivepa jehecha, ao hu'ũ japyhy, okápe oguapy, térã peteĩ ñembosarái mbykymi ta'anga rehegua oĩvo hendive peteĩ tapicha. Ore mbo'eha demencia ipukuvémavape g̃uarã oreko hetave mba'ekuaarã."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Oĩpa tembiapokuéra aty guasúpe g̃uarã peteĩ óga ñangarekohápe?",
+              "a": "Hẽe. Ta'anga bingo oreko kuatiañembokuatia oñenohẽkuaáva ha peteĩ mohendaha omoherakuãva ta'anga, ha Finish the saying ha Conversation cards oiko porã oñemoñe'ẽvo hatã. Ore mbo'eha óga ñangarekohápe g̃uarã ohechauka aty tuichakue, tenda ñeguapy ha mba'éichapa oñembohekokuaa opaichagua katupyrykuérape."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Apytu'ũ resãi",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Ñembosarái piko ikatu ojoko térã ombovevúi demencia?",
+              "a": "Ndaipóri ñembosarái ohechaukáva ikatúha ojoko demencia, ha ore ñembosarái katu ndo'éiri upéva. Apytu'ũ ñemomýi hapichakuéra apytépe ohechauka jepe tembipuru porã'imi tembikuaarekápe tapichakuéra oikóva demencia michĩmi térã mbytegua ndive, ha katu upéva idiferente peteĩ mba'asy jejokógui. Ore rome'ẽ ñembosarái vy'a ha joaju rehehápe."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Ikatúpa ojejoko demencia?",
+              "a": "Ndaikatúi ja'e añetehápe. Tembikuaareka ombojoaju 14 tesãi ha tekove rekoha demencia rehe, taha'e apysa kãngy, tuguy jupi, tete ñembomýi'ỹ ha tapichakuéragui ñemomombyry. Ko'ã mba'e ñangareko ikatu ombovevúi pe jehasa ambue tapichápe, ha katu heta tapicha ojapóva opa mba'e hekopete jepe oreko demencia. Ndaipóri avave mba'e rembiapo vaikue."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Iporãpa pe ayuno intermitente apytu'ũ resãime g̃uarã?",
+              "a": "Mba'ekuaa yvyporakuéra rehegua sa'i gueteri ha ipyahurasa, ha heta tembikuaareka ojejapo tymbakuéra rehe. Pe karu'ỹ ikatu ivai tapicha kakuaávape g̃uarã, ko'ýte oiporúramo pohã diabetes rehegua térã imboguevi pya'éramo ikyra, ha ndojejeruréi tapichakuéra oikóva demencia ndive g̃uarã. Eñemongeta peteĩ pohanohára ndive remoambue mboyve nde rembi'u."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Ñemigua ha tekorãngatu",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Pembyatýpa marandukuéra?",
+              "a": "Ndaipóri cuenta ni marandu ñemuha. Roiporu Google Analytics roikuaa haguã mboy tapichápa oike ha mba'e kuatiápa oipytyvõve, ha nde kundahára imandu'a emyandýpa pe tyapu mbegue. Ta'angakuéra eiporavóva Photo pairs-pe ndojehupíi araka'eve. Ehecha marandu ñemigua rehegua eikuaave haguã."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Kóva piko peteĩ pohanohára ñe'ẽ?",
+              "a": "Nahániri. Golden Moments niko vy'arã ha marandu opavavepe g̃uarãnte. Reikuaasérõ tesãi rehegua, eñemongeta peteĩ pohanohára ndive, ha oĩramo mba'e vai pya'eite ojehúva, ehenói 911-pe."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Maranduve: <a href=\"/caregiving/how-to-play-together/\">mba'éichapa ñañembosaráita oñondive</a>, <a href=\"/caregiving/when-they-say-no/\">he'i jave nahániri</a>, <a href=\"/activities/late-stage/\">tembiapokuéra demencia ipukuve jave</a> ha <a href=\"/brain-health/can-dementia-be-prevented/\">ikatúpa ojejoko demencia?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Ñembosarái Vevúi ha Rei Tapichakuéra Oikóva Demencia Ndive g̃uarã",
+      "seoTitle": "Kuatia Oñenohẽkuaáva: Ñembosarái Rei Ñandutípe Demencia rehegua",
+      "description": "Peteĩ kuatia rogue oñenohẽkuaáva ogayguakuéra ha ñangarekohárape g̃uarã, ohechaukáva ñembosarái vevúi ta'anga rehegua tapichakuéra oikóva demencia ndive g̃uarã, oñeme'ẽkuaáva pytyvõhára aty ha ñangareko ryru apytépe.",
+      "crumb": "Kuatia oñenohẽkuaáva",
+      "lede": "Enohẽ ko kuatia rogue peteĩ pytyvõhára aty, ñangareko ryru térã ne rembi'u ryru rokẽme g̃uarã. Eiporu ne kundahára rembiapo Enohẽ kuatia; umi poravorã ha votõnguéra ndosẽmo'ãi kuatiápe.",
+      "introHtml": "<p>Ta'anga tuicháva, ñe'ẽ hesakãva ha mba'eve rejavýva. Reiete peteĩ pumbyry, tablet térã mohendahápe, natekotevẽi eñemboguapy, ndaipóri marandu ñemuha, aravo ni puntuación. Eguapy yke mboypýri ha pejapo peteĩteĩ.</p>",
+      "gamesTitle": "Ñembosarái ikatu peha'ã oñondive",
+      "restHtml": "<h2>Mba'e porã eikuaava'erã</h2><ul><li>Eiporavo pe aravo pe tapicha oĩ porãvehápe.</li><li>Eñepyrũ pe hekovevúiveva reheve. Irundy ta'angami hetaitereíma.</li><li>Peñemongeta ta'angakuéra rehe. Pe ñomongeta py'ỹinte ha'e pe mba'e iporãvéva.</li><li>Embopa oĩ aja gueteri vy'apavẽ. Pembopáramo mboyve niko iporãiterei avei.</li></ul><h2>Oĩva avei ko tendápe</h2><ul><li>Kuatia rei oñenohẽkuaáva: ñe'ẽ jeheka ta'anga tuicháva reheve, ta'anga mbosa'y, ñomongeta kuatiami ha ta'anga bingo.</li><li>Tembiaporã opaite javeguápe, ha mbo'eha mba'éichapa peñembosaráita oñondive ha mba'éichapa reñangarekóta ndejehe.</li></ul><p class=\"muted\">Vy'apavẽ ha oñondivepa jeiko rehehápe. Ndaha'éi pohanohára ñe'ẽ, ñeha'ã térã pohãno. Golden Moments omoherakuã Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Óga Ñangarekohápe, Aranduka Rendápe ha Pytyvõhára Atykuérape g̃uarã",
+      "seoTitle": "Tembiapo reiete demencia rehegua oñeñangarekohápe ha atykuérape g̃uarã",
+      "description": "Mba'éichapa hogakuéra oñeñangarekohápe, aravore kakuaávape g̃uarã, arandukarendakuéra, ñangarekoha mburuvichakuéra ha pytyvõhára atykuéra oipuru ñane ñembosarái reiete demencia rehegua, ha jehaipyre ñanemoĩ hag̃ua ne mohendapyre rysýipe.",
+      "crumb": "Atykuérape g̃uarã",
+      "lede": "Opavave mba'e ko tendápe oĩva reiete ojepuru hag̃ua umi oikóva ndive, atygua ha oñeñangarekóva ndive, ndoikotevẽi kuatiañe'ẽ, viru térã kuatia momorãmbyre. Ko kuatiarogue ohechauka mba'épa oĩ ko'ápe ha mba'éichapa ikatu emoherakuã.",
+      "shortText": "{name}: ñembosarái ta'anga rehegua imbeguéva ha reiete, ha tembiapo mbohekoha tapichakuéra oikóva demencia ndive ha iñangarekohárape g̃uarã. Ndaha'éi oñemboguapytéva, ndoguerekói aravo'i, ndoguerekói papapy.",
+      "longText": "{name} ({domain}) ome'ẽ {count} ñembosarái kundahárape g̃uarã reiete ojejapóva tapichakuéra oikóva demencia ndive g̃uarã, umíva apytépe ta'anga jopara ohechaukáva javeve, rompecabezas ndahasýiva, ñembyaty, ñe'ẽnga ojekuaáva ha ta'anga víngo ikatu va'erã oñembokuatia. Ndojeruréi kuatiañe'ẽ moñepyrũ, ndoguerekói marandu ñemu rehegua, aravo'i térã papapy. Ko tenda oguereko avei tembiapo mbohekoha ñe'ẽ hesakãvape káda pehẽngue demencia reheguápe g̃uarã, omombe'úva National Institute on Aging ha Alzheimer's Association he'íva.",
+      "useTitle": "Mba'épa atykuéra ikatu oipuru",
+      "gamesItemHtml": "<strong>{count} ñembosarái kundahárape g̃uarã</strong> omba'apóva pumbyry guasúpe, tablet térã ta'angambyry oñembojapýva mohendaháre. Ndoikotevẽi ñemoĩ, kuatiañe'ẽ térã ñemboguejy. Ehecha <a href=\"/games/\">opaite ñembosarái</a>.",
+      "printablesLabel": "{count} ikatu oñembokuatia:",
+      "printablesAfter": "Eipuru pe votõ Embokuatia káda kuatiaroguépe.",
+      "moreItemsHtml": "<li><strong>Aty rehegua:</strong> <a href=\"/games/picture-bingo/\">Ta'anga víngo</a> oguereko tarjeta oñembokuatia hag̃ua ha ohenóiva ta'angambyrýpe, ha <a href=\"/activities/trivia/\">porandu ndahasýiva</a> oguereko 50 porandu mbohovái poravopyre ha temiandu oñeñemongeta hag̃ua.</li><li><strong>Tembiapo mbohekoha</strong> mba'apohára ha hogayguakuérape g̃uarã, pehẽngue ha hekopegua rupive, ojehaíva ñe'ẽ hesakãvape ha hekopete moñepyrũmby ndive. Eñepyrũ <a href=\"/activities/ideas/\">101 tembiapo apytu'ũroky</a> ndive térã <a href=\"/activities/care-home-groups/\">aty tembiapo hogakuéra oñeñangarekohápe g̃uarã</a> ndive.</li>",
+      "restHtml": "<h2>Mba'éichapa atykuéra oipuru</h2><ul><li><strong>Hogakuéra oñeñangarekohápe ha mandu'a ñangareko:</strong> ta'anga víngo térã ñe'ẽnga mbohypy'ũ kotyguasu ta'angambyrýpe, peteĩ tapicha ombopúva opaite g̃uarã.</li><li><strong>Aravore kakuaávape g̃uarã:</strong> tenda tablet rehegua Ta'anga jopara irundy vorekue ndive, ñomongeta mbykymi mokõinte va'erãme.</li><li><strong>Arandukarenda tavayguáva:</strong> ñe'ẽ reheka kuatiápe ha tarjeta ñomongetarã mandu'a ryru apytépe, ha tenda oñemohendáva arandukarenda tablet-kuérape.</li><li><strong>Ñangarekohára pytyvõhára aty ha mandu'a koty:</strong> peteĩ <a href=\"/handout/\">kuatia peteĩ kuatiarogue oñembokuatiáva</a> hogayguakuéra ogueraha hag̃ua hógapype.</li><li><strong>Tasyo ha osẽva mbohekohára:</strong> pe kuatia ñangarekohára ryru apytépe, peteĩ mba'e py'aguapýpe ojejapo hag̃ua ógape térã tupa yképe.</li></ul><h2>Mba'épa ndorojapói</h2><p>Ko'ã ñembosarái oĩ vy'arã ha ojehasa hag̃ua aravore oñondivepa. Ndohechaukái mba'asy, ndoikuaara'ãi, ndome'ẽi papapy, nomonguerái ha nombovégui demencia, ha rojerure atykuérape anítei omombe'u upéicha. Ndaipóri marandu ñemu rehegua, ha ñembosarái ndojeruréi téra, tesãi rehegua térã ta'anga oñemboguejy hag̃ua. Ko tenda oipuru Google Analytics oipapa hag̃ua oikéva; ore <a href=\"/privacy/\">marandu ñemigua rehegua</a> omyesakã mba'épa ombyaty. Ta'anga ojepurúva <a href=\"/games/photo-pairs/\">Ta'anga jopara</a> apytépe opyta kundahárpe.</p><h2>Eñemoĩ ore rehe ne mohendapyre rysýipe</h2><p>Reguerekóramo mohendapyre rysýi ñangarekohárape g̃uarã, eju porãite ejoaju hag̃ua <a href=\"/\">{domain}</a> ndive. Ikatu emohendajey oimeraẽva ko'ã ñemombe'u.</p>",
+      "shortTitle": "Ñemombe'u mbykymi",
+      "longTitle": "Ñemombe'u pukuvéva",
+      "linksHtml": "<p>Kuatiarogue iporãva ojoaju hag̃ua derechoite: <a href=\"/games/\">ñembosarái reiete</a>, <a href=\"/activities/printable/\">kuatia reiete oñembokuatiáva</a>, <a href=\"/activities/alzheimers/\">tembiapo Alzheimer-pe g̃uarã</a> ha <a href=\"/caregiving/how-to-play-together/\">mba'éichapa oñeñembosarái oñondive</a>.</p><h2>Porandu térã myatyrõ</h2><p>Oĩramo mba'e ojavýva térã nohesakãiva ko tendápe, térã oikóva rembipoteĩ ndojuhúiramo ko'ápe oikotevẽva, oréve emombe'u ko'ápe: <a href=\"mailto:{email}\">{email}</a>. Anína emondo marandu mba'etéva térã tesãi rehegua umi oikóva térã oñeñangarekóva rehe.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "App Golden Moments",
+      "seoTitle": "App Golden Moments iPhone ha Android-pe g̃uarã",
+      "description": "Pe app Golden Moments reiete: ta'anga jopara mbegue irundy vore guasu ndive, ne rembiapo rogaygua ta'anga opytáva ne mba'epurúpe, ta'anga aty internet'ỹre ha mba'eveichagua kuatiañe'ẽ'ỹre.",
+      "crumb": "Pe app",
+      "lede": "Opa mba'e reguerohorýva ko tenda rehegua, peteĩ app omba'apóva internet'ỹre ha ikatu oipuru ne rogaygua ta'anga eiporavóva.",
+      "worksOn": "Omba'apo {platforms}-pe ({requirements}).",
+      "bodyHtml": "<h2>Eñepyrũ michĩmíme</h2><p>Eñepyrũ irundy ta'anga vore guasu ndive ha ta'anga ojekuaaporãva. Eheja ta'angakuéra tojehecha, térã emoñemi oñeñeñandu porãve jave upéicha. Pe tembiapo py'aguapýpe ndorekói aravo'i, punto térã castigo. Eiporavo 4, 6, 8 térã 12 ta'anga vore.</p><h2>Ejapo ne mba'erãite</h2><p>Eiporavo ne rogaygua ta'angakuéra nde mba'e'oka ta'anga poravoha rupive. Pe tembiporu'i oñongatu ta'anga ra'anga michĩvéva hembiaporã. Ndohechái opaite ne ta'angakuéra ha nomoambuéi umi ta'anga ypykue, ha ikatu oguereko 24 ta'anga peve peteĩ atýpe.</p><h2>Ema'ẽnte oñondive</h2><p>Ehecha peteĩ ta'anga peteĩteĩ. Umi marandu ikatu oipytyvõ oñomongeta hag̃ua, oñeporandu'ỹre téra térã peteĩ mbohovái hekopetéva. Ema'ẽnte hese iporãma.</p><h2>Oiko internet rehe'ỹ tekotevẽhápe</h2><p>Umi ta'anga oñepyrũ hag̃ua ha opa umi poapy ta'anga aty oike pe tembiporu'ípe. Umi ta'anga oñemoingéva oiko internet rehe'ỹ. Eiporavórõ ta'anga oĩva iCloud-pente, ikatu oikotevẽ internet rehe.</p><h2>Mba'eveichagua cuenta térã servidor ta'anga mbojoajuha</h2><p>Umi rogaygua ta'anga ra'anga opyta pe tembiporu'i ryepýpe nde mba'e'okápe. Ikatu embogue umi ta'anga ra'anga embogue'ỹre umi ypykue. Pe mba'e'oka copia de seguridad ikatu oguereko tembiporu'i rembiapokue. Emoñe'ẽ pe <a href=\"/app-privacy/\">tembiporu'i rembiapo ñemigua</a>, ha <a href=\"/help/\">tembiporu'i pytyvõha</a> ohechauka káda paso.</p>",
+      "disclaimer": "Golden Moments ha'e vy'arã ha oñomongeta hag̃ua oñondive. Ndohechakuaái, nomonguerái, ndojokói ha nomedi demencia térã mba'asy Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Ñembosarái Rei Internet-pe Demencia ha Alzheimer-pe g̃uarã",
+    "description": "Ñembosarái rei internet-pe tapicha ijedáva oikóva demencia térã Alzheimer ndive: ta'anga mbojoaju, rompecabezas hasy'ỹva, mohenda, ñe'ẽnga, mbohyvy, víngo. Natekotevẽi reñemboheraguapy, ndorekói aravo'i ni punto.",
+    "crumb": "Ñembosarái",
+    "h1": "Ñembosarái Py'aguapy Tapicha Demencia Ndive Oikóvape g̃uarã",
+    "lede": "{count} ñembosarái rei reñembosarái hag̃ua oñondive ne navegador-pe. Ta'anga guasukuéra, ñe'ẽ hesakãva, ha mba'eve ikatúva oiko vai: ndorekói aravo'i, punto ni ñemboheraguapy.",
+    "listName": "Ñembosarái py'aguapy tapicha demencia ndive oikóvape g̃uarã",
+    "byStageTitle": "Mba'éichapa reiporavóta peteĩ ñembosarái etapa rupive",
+    "byStageLede": "Umi etapa ha'énte peteĩ ñehekombo'e mbyky. Eho pe tapicha ovy'aha rupi ha pe oñeñandu porãveháicha ko árape.",
+    "stageCol": "Etapa",
+    "gamesCol": "Ñembosarái oikoporãva py'ỹi",
+    "moreHtml": "Hetave tembiaporã pantálla mboypýri: <a href=\"/activities/ideas/\">101 tembiapo tapicha oikóva demencia ndive g̃uarã</a>, <a href=\"/activities/alzheimers/\">tembiapo ha ñembosarái Alzheimer-pe g̃uarã</a>, <a href=\"/activities/memory-games/\">ñembosarái py'aguapy mandu'arã</a> ha <a href=\"/activities/puzzles/\">rompecabezas-kuéra</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Mba'e ñembosarái ndive piko ñanepyrũta?",
+        "a": "Ta'anga mbojojaha irundy vore ndive ha'e peteĩ jeporavo py'aguapy eñepyrũ hag̃ua. Eiporavo heta ta'anga apytégui hasyterĩramo, eñeha'ã Ejuhu peteĩchagua mokõi ta'anga ndive. Peteĩ atýpe g̃uarã, eñeha'ã Ta'anga víngo."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Umi ñembosarái piko oiko iPad térã teléfono-pe?",
+        "a": "Héẽ. Opaite ñembosarái oiko pe navegador ryepýpe teléfono, távlet ha komputadóra-pe, ha umi ta'anga oñembotuicha henyhẽ meve pe pantálla. Peteĩ távlet soporte ári py'ỹinte oñeñandu porãve mokõi tapichápe g̃uarã."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Ko'ã ñembosarái piko iporã peteĩ tapicha oguerekóva Alzheimer-pe g̃uarã?",
+        "a": "Héẽ. Ojejapo va'ekue tapicha oikóva demencia ndive g̃uarã, umíva apytépe Alzheimer, ha'éva pe ojehuvéva. Ta'angakuéra ojehecha meme, sa'i jeporavorãnte oĩ, ha mba'eve ndorekói aravo'i ni punto, upéicha rupi ko'ã ñembosarái oñemopyenda mba'e ojekuaamíva jekuaápe, mba'e pyahu rehe mandu'a rangue."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Ko'ãva piko ñembosarái mandu'arã tapicha ijedávape g̃uarã?",
+        "a": "Ha'e ñembosarái ta'anga mbojoajuháva oimeraẽ tapicha kakuaáva ikatúva ovy'a hese, hákatu ojejapo ani hag̃ua oha'ã mandu'a: Ta'anga mbojojahápe ta'angakuéra ojehecha meme ndereiporavóiramo ambue hendáicha. Ore mbo'eha ñembosarái mandu'arã rehegua tapicha ijedáva oikóva demencia ndive omombe'u mba'éichapa oñemantene va'erã oimeraẽ ñembosarái py'aguapýpe."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Oĩ piko ñembosarái atýpe g̃uarã óga oñeñangarekohápe tapicha ijedávare?",
+        "a": "Héẽ. Ta'anga víngo oguereko kuatia ikatuva oñembokuatia ha peteĩ ohenóiva pantállape, ha Emohu'ã ñe'ẽnga ha Ñomongetarã kuatiakuéra oiko porã oñemoñe'ẽvo hatã peteĩ atýpe."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad ha Android",
+    "requirements": "iOS 15 térã pyahuvéva; Android 7.0 térã pyahuvéva",
+    "summary": "Peteĩ tembiporu'i rei iPhone, iPad ha Android-pe g̃uarã oguerekóva ta'anga mbojoaju py'aguapy irundy guive doce ta'anga vore guasu peve, mbojoaju ha jema'ẽ rogaygua ta'angakuéra nde reiporavóva ndive, ha poapy ta'anga aty oúva ipype oikóva internet rehe'ỹ. Ndorekói cuenta, marandu ñemurã, aravo'i ni punto.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Ta'anga mbojoaju py'aguapy 4, 6, 8 térã 12 ta'anga vore guasu ndive; ta'angakuéra ojehecha meme ndereiporavóiramo emoñemi",
+      "Umi rogaygua ta'anga nde reiporavóva oñekopia pe tembiporu'ípe oñembojoaju ha ojehecha hag̃ua oñondive",
+      "Ema'ẽ oñondive: peteĩ ta'anga peteĩteĩ ha marandu ikatúva oipuru oñomongeta hag̃ua",
+      "Poapy ta'anga aty oike pe tembiporu'ípe; ko'ãva oiko internet rehe'ỹ",
+      "Ndorekói cuenta, marandu ñemurã, jogua tembiporu'i ryepýpe, aravo'i, punto ni castigo"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Oĩ piko tembiporu'i tembiaporã rehegua tapicha demencia ndive oikóvape g̃uarã?",
+        "a": "Héẽ. Golden Moments (oñemoĩva \"{storeName}\" rérape) ha'e rei App Store ha Google Play-pe. Ome'ẽ ta'anga mbojoaju py'aguapy ta'anga vore guasu ndive, ñembosarái rogaygua ta'angakuéra nde reiporavóva ndive, ha ta'anga aty oikóva internet rehe'ỹ."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Pe tembiporu'i Golden Moments piko ha'e rei?",
+        "a": "Héẽ. Emboguejy hag̃ua ha'e rei, ndorekói marandu ñemurã, cuenta ni jogua tembiporu'i ryepýpe."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Pe tembiporu'i piko oiko internet rehe'ỹ?",
+        "a": "Héẽ. Umi ta'anga oñepyrũ hag̃ua ha opa umi poapy ta'anga aty oĩma pe tembiporu'ípe, ha umi rogaygua ta'anga oiko internet rehe'ỹ oñekopia rire pe tembiporu'ípe. Eiporavóramo peteĩ ta'anga oñeñongatúva iCloud-pente, ikatu oikotevẽ conexión rehe."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Ikatúpa aipuru ore rogaygua ta'angakuéraite?",
+        "a": "Héẽ. Eiporavo ta'angakuéra nde tembipuru ta'anga poravoha rupive. Ko app oñongatu ta'anga michĩvéva nde tembipurúpente ko'ã tembiaporã, ndohupíi internet-pe ha araka'eve nomoambuéi umi ta'anga ypykue. Ikatu embogue ko'ã ta'anga oimeraẽ ára."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Ko app piko ombokatupyry akã térã oha'ã mandu'a?",
+        "a": "Nahániri. Golden Moments oĩ vy'arã ha ojehasa porã hag̃ua oñondive. Ndaipóri ipype punto térã ñeha'ã, ha ndaha'éi ohechakuaa, omonguera, ojoko térã oha'ãva demencia térã Alzheimer mba'asy."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Mba'e tembipurúpepa omba'apo?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Oĩpa ko ñembosarái app-pe?",
+      "a": "Héẽ. Pe app Golden Moments reiete iPhone, iPad ha Android-pe g̃uarã oguereko avei ko ta'anga mbojoja py'aguapýpe, ikatu oiporu ta'anga nde rogayguakuéra rehegua eiporavóva, ha omba'apo internet ỹre. Ndaipóri cuenta, marandu ñemurã térã punto."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Oĩpa ko ñembosarái app-pe?",
+      "a": "Ko ñembosarái ndaha'éi app-pegua. Pe app Golden Moments reiete iPhone, iPad ha Android-pe g̃uarã oguereko ta'anga mbojoja py'aguapýpe ta'anga guasu ndive ha ta'anga nde rogayguakuéra rehegua eiporavóva, ha omba'apo internet ỹre. Ko ñembosarái opyta reiete ápe nde kundahárape."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: ta'anga guasu ha porã",
+    "noscript": "Ko ñembosarái oikotevẽ JavaScript hendy nde kundahárape. Umi ñemoñe'ẽ iguýpe oĩva omba'apo hese'ỹ avei.",
+    "about": "{name} rehegua",
+    "aboutAria": "Ko ñembosarái rehegua",
+    "noTimer": "Ndaipóri aravo ha punto",
+    "printable": "Ikatu oñembokuatia",
+    "howTo": "Mba'éichapa oñeñembosarái {name}",
+    "tips": "Ñemoñe'ẽ eñembosarái hag̃ua oñondive",
+    "newToPlayingHtml": "Ne'ĩra gueteri reñembosarái peteĩ tapicha oikóva demencia ndive? Emoñe'ẽ <a href=\"/caregiving/how-to-play-together/\">mba'éichapa oñeñembosarái oñondive</a>, avei mba'épa ikatu rejapo ndoipotavéiramo oñembosarái.",
+    "moreAria": "Hetave mba'e rehecha hag̃ua",
+    "helpfulGuides": "Kuatiapyre nepytyvõva",
+    "appTitle": "Eñembosarái app-pe",
+    "appText": "Pe app Golden Moments reiete oguereko ta'anga mbojoja py'aguapýpe ta'anga guasu ndive ha nde rogaygua ta'angakuéra, ha omba'apo Wi‑Fi ỹre. iPhone, iPad ha Android.",
+    "photoAppTitle": "Eguereko nde ta'angakuéra oĩmbáma",
+    "photoAppText": "Pe app Golden Moments reietépe, umi ta'anga eiporavóva opyta nde tembipurúpe ambue jevýpe g̃uarã, ha umi ñembosarái omba'apo Wi‑Fi ỹre. iPhone, iPad ha Android.",
+    "goodToKnow": "Iporã reikuaa",
+    "goodToKnowText": "Ko ñembosarái oĩ vy'arã ha ojehasa porã hag̃ua oñondive. Ndojapói ñeha'ã, ndoha'ãi ha ndomonguerái mba'eve.",
+    "moreGames": "Hetave ñembosarái py'aguapýpe",
+    "crumb": "Ñembosaráikuéra"
   }
 }

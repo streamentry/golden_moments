@@ -1,0 +1,762 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "A kalan kan bɔ",
+      "stopReading": "Kalan dabila",
+      "region": "Tulon",
+      "restart": "A daminɛ kura ye",
+      "soundOn": "Mankan suma don",
+      "soundOff": "Mankan dabila",
+      "done": "A wasara fɔlɔ",
+      "feedbackQuestion": "Nin ye dɛmɛ don bi wa?",
+      "feedbackYes": "Ɔwɔ",
+      "feedbackNo": "A ma gɛlɛya kosɛbɛ",
+      "feedbackThanks": "I ni ce k'a fɔ an ye."
+    },
+    "tile": {
+      "named": "{name}, kare {n}",
+      "hidden": "Ja dogolen, kare {n}",
+      "withState": "{label}, {state}",
+      "matched": "A ɲɔgɔn sɔrɔla",
+      "selected": "Sugandira",
+      "picture": "Ja",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Ja-fura bɛɛ bɛnna ɲɔgɔn ma. Aw bɛ se k'a daminɛ tugun walima k'aw lafiya dɔɔnin.",
+      "photoPair": "Foto fila bɛnna ɲɔgɔn ma.",
+      "picturePair": "{name|lower} ja fila bɛnna ɲɔgɔn ma.",
+      "selected": "{name}. Sisan a tɔkelen ɲini.",
+      "mismatch": "Aw k'aw dusu sumaya. Ja dɔ digi walasa ka taa ɲɛ.",
+      "mismatchNamed": "{a} ni {b}. Aw k'aw dusu sumaya. Ja dɔ digi walasa ka taa ɲɛ."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Ja dɔ digi, o kɔ a bɛnɲɔgɔn digi.",
+      "guidanceHidden": "Kare fila digi k'u yɛlɛma. U bɛnnen fila ɲini.",
+      "restart": "Ja kura nunu",
+      "sizeLegend": "Kare hakɛ",
+      "size": {
+        "other": "Kare {n}"
+      },
+      "viewLegend": "Tulonkɛcogo",
+      "viewShowing": "Ja bɛ ye",
+      "viewHidden": "Ja dogolenw",
+      "playAgain": "Tulon kɛ tugun ni ja kuraw ye",
+      "talk": "Aw bɛ kuma ja nunu kan ɲɔgɔn fɛ"
+    },
+    "choose": {
+      "countLegend": "Ja hakɛ",
+      "count": "{n} bɛ se ka sugandi",
+      "thatOne": "O ye {name|lower} ye. Aw k'aw dusu sumaya."
+    },
+    "findTheSame": {
+      "guidance": "Sanfɛja lajɛ. A ɲɔgɔn kelen digi duguma.",
+      "yes": "Ɔwɔ, {name|lower} kelenpe don.",
+      "next": "Ja nata"
+    },
+    "shadowMatch": {
+      "guidance": "Sanfɛ suma lajɛ. Ja min b'o bila, o digi.",
+      "yes": "Ɔwɔ, {name|lower} de bɛ suma nin bila.",
+      "next": "Suma nata",
+      "shadowAlt": "Suma min bɛna bɛn",
+      "foundAlt": "{name|lower} suma"
+    },
+    "sortTogether": {
+      "guidance": "Ja dɔ digi, o kɔ a sɛgɛ digi.",
+      "restart": "Ja kura nunu",
+      "themeLegend": "Barokun",
+      "selected": "{name}. Sisan a bɛ don sɛgɛ min na, o digi.",
+      "pickFirst": "Fɔlɔ ja digi, o kɔ sɛgɛ digi.",
+      "hint": "{name|lower} bɛ se ka don \"{basket}\" kɔnɔ. O sɛgɛ digi k'a bila yen.",
+      "placed": "{name|lower} donnen bɛ \"{basket}\" kɔnɔ.",
+      "sorted": "Fɛn bɛɛ sigilen don. Aw bɛ se ka sɛgɛw lajɛ ɲɔgɔn fɛ, walima ka barokun wɛrɛ kɛ.",
+      "basket": {
+        "other": "Sɛgɛ \"{basket}\", ja {count} b'a kɔnɔ"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Ja kurun kelen digi, o kɔ a tɔɔ kelen digi. U bɛ ɲɔgɔn bila.",
+      "restart": "U ɲagami tugun",
+      "pictureLegend": "Ja",
+      "pictures": {
+        "sailboat": "Kulunkun",
+        "house": "So",
+        "balloon": "Balon",
+        "sunflower": "Tile-furu",
+        "lighthouse": "Kulu-kɔlɔsi-so",
+        "cat": "Jakuma"
+      },
+      "sizeLegend": "Kurun hakɛ",
+      "size": {
+        "other": "Kurun {n}"
+      },
+      "pickedUp": "Kurun minɛna. Sisan a bɛ taa yɔrɔ min na, o digi.",
+      "whole": "{name|lower} dafara tugun. Aw bɛ se ka ja wɛrɛ sugandi tuma o tuma.",
+      "swapped": {
+        "other": "A falenna. Kurun {correct} sigilen bɛ a yɔrɔ sɔbɛ la, kurun {total} cɛma."
+      },
+      "guideAlt": "Ja bɛɛ ladankolen: {name}",
+      "guideText": "Ja bɛ kɛ tan de n'a dafara.",
+      "piece": "Kurun min bɛ {place}",
+      "pieceInPlace": ", a yɔrɔ sɔbɛ la",
+      "piecePickedUp": ", minɛnen don",
+      "places4": [
+        "sanfɛ numan fɛ",
+        "sanfɛ kinin fɛ",
+        "duguma numan fɛ",
+        "duguma kinin fɛ"
+      ],
+      "places9": [
+        "sanfɛ numan fɛ",
+        "sanfɛ cɛmancɛ la",
+        "sanfɛ kinin fɛ",
+        "cɛmancɛ numan fɛ",
+        "cɛmancɛ",
+        "cɛmancɛ kinin fɛ",
+        "duguma numan fɛ",
+        "duguma cɛmancɛ la",
+        "duguma kinin fɛ"
+      ],
+      "done": "Ja dafara tugun. Aw bɛ se k'a kɛ tugun walima k'aw lafiya dɔɔnin.",
+      "playAgain": "A ɲagami tugun"
+    },
+    "finishTheSaying": {
+      "guidance": "Aw bɛ nsiirin kalan ɲɔgɔn fɛ, o kɔ daɲɛ min b'a laban, o digi.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ɔwɔ, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" fana bɛ bɛn. Nka nsiirin cogo dɔnnen bɛ laban ni \"{end}\" ye.",
+      "revealed": "Nsiirin tɔɔrɔ ye ko \"{start} {end}.\"",
+      "choicesLabel": "Daɲɛ laban sugandi",
+      "show": "A labancogo yira",
+      "talk": "Kuma a kan: ",
+      "next": "Nsiirin nata"
+    },
+    "wordSearch": {
+      "guidance": "Daɲɛw bɛ taa kɛrɛ fɛ walima k'a jigin duguma. Daɲɛ sɛbɛnden fɔlɔ digi, o kɔ a laban digi.",
+      "restart": "Daɲɛ-ɲinilan kura",
+      "themeLegend": "Barokun",
+      "sizeLegend": "Tabulo hakɛ",
+      "size": {
+        "other": "{n} ni {n} (daɲɛ {words})"
+      },
+      "print": "Nin tabulo bɔ papiye kan",
+      "letterChosen": "Sɛbɛnden {letter} sugandira. Sisan daɲɛ sɛbɛnden laban digi.",
+      "found": "{word} sɔrɔla.",
+      "foundAll": "{word} sɔrɔla. Daɲɛ bɛɛ sɔrɔla. Aw bɛ se k'a daminɛ tugun walima k'aw lafiya dɔɔnin.",
+      "tryAgain": "Aw k'aw dusu sumaya. Daɲɛ sɛbɛnden fɔlɔ digi, o kɔ a laban digi.",
+      "gridLabel": "Sɛbɛnden tabulo, sɛbɛnden cogo {n} ni yɔrɔ {n}. Nɔrɔ-kɔlɔsilanw labaara ka tɛmɛ sɛbɛndenw cɛ.",
+      "cell": "{letter}, cogo {row}, kalanso {col}",
+      "cellFound": ", daɲɛ sɔrɔlen dɔ yɔrɔ don",
+      "wordsHeading": "Daɲɛ minnu bɛ ɲini",
+      "wordFound": " (sɔrɔla)",
+      "sheetTitle": "Daɲɛ-ɲinini: {theme}",
+      "sheetNote": "Daɲɛw bɛ taa kɛrɛ fɛ walima k'a jigin duguma.",
+      "unavailable": "Sɛbɛnden tabulo tɛ bɛn nin kan in ma, o de kosɔn daɲɛ-ɲinini tɛ yen. Ja-tulonw kɛ nɔɔrɔ la."
+    },
+    "coloring": {
+      "guidance": "Kuleli dɔ digi, o kɔ ja yɔrɔ dɔ digi.",
+      "restart": "Kuleliw bɔ a la",
+      "cleared": "Gafe-ɲɛ jɛra tugun.",
+      "pageLegend": "Gafe-ɲɛ",
+      "print": "Nin gafe-ɲɛ bɔ papiye kan",
+      "colorsLabel": "Kuleliw",
+      "paintChosen": "{paint} sugandira.",
+      "painted": "{part} kɛra {paint|lower} ye sisan.",
+      "artLabel": "{page}, yɔrɔ {count} bɛ kuleli la",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, kuleli ma don a la",
+      "paints": {
+        "red": "Bilenman",
+        "orange": "Wɔrɔnjiman",
+        "yellow": "Nɛrɛmuguman",
+        "green": "Jiribuloman",
+        "blue": "Bulaman",
+        "purple": "Violetiman",
+        "pink": "Bilen-jɛman",
+        "brown": "Bɔgɔman",
+        "sky-blue": "Sankolo-bulaman",
+        "cream": "Nɔnɔman",
+        "gray": "Buguriman",
+        "white": "Jɛman"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Karta kalan n'aw da ye. Jaabi tilennen tɛ foyi ye.",
+      "position": "Karta {n}, karta {total} cɛma",
+      "themeLegend": "Barokun",
+      "next": "Karta nata",
+      "previous": "Karta tɛmɛnen",
+      "print": "Karta bɛɛ bɔ papiye kan",
+      "sheetTitle": "Baro kartaw"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Aw k'a daminɛ n'aw ka fotow sugandili ye.",
+      "guidance": "Foto dɔ digi, o kɔ a ɲɔgɔn digi.",
+      "restart": "U ɲagami tugun",
+      "intro": "**Aw bɛ foto 2 fo 6 sugandi** nin masini in kɔnɔ. U bɛ jira nin gafe-ɲɛ kelen kan, wa u tɛ bila marayɔrɔ si la abada.",
+      "choose": "Fotow sugandi",
+      "chooseDifferent": "Foto wɛrɛw sugandi",
+      "clear": "Fotow josi",
+      "cleared": "Fotow josira nin gafe-ɲɛ kan.",
+      "atLeastTwo": "Aw k'aw jija ka foto fila dɔɔnin sugandi.",
+      "usingFirst": "Foto fɔlɔ {max} bɛ labaara.",
+      "skipped": {
+        "other": "Dosiyeli {count} tun tɛ foto ye an bɛ se ka min jira."
+      },
+      "playAgain": "Tulon kɛ tugun ni nin fotow ye",
+      "empty": "Aw ka fotow bɛna kɛ nin dula la, kelen kelen bɛɛ siɲɛ fila."
+    },
+    "pictureBingo": {
+      "guidance": "Karta bɔ papiye kan fɔlɔ. O kɔ nin welebagalan jira galama belebele kan min b'aw bolo.",
+      "called": {
+        "other": "{name}. Ja {called} welela ja {total} cɛma."
+      },
+      "start": "\"Ja nata\" digi walasa ka ja fɔlɔ wele.",
+      "restart": "Tulon kura daminɛ",
+      "squaresLegend": "Karew karta kelen kelen kan",
+      "squares": "Kare {n} ({side} ni {side})",
+      "cardsLegend": "Karta hakɛ min bɛ bɔ papiye kan",
+      "cards": {
+        "other": "Karta {n}"
+      },
+      "print": {
+        "other": "Binko karta {n} bɔ papiye kan"
+      },
+      "ready": "An labɛnnen don tuma min ka di aw ye",
+      "next": "Ja nata",
+      "allCalled": "Ja bɛɛ welela",
+      "alreadyCalled": "Welela kaban",
+      "sheetTitle": "Ja binko · karta {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Ni sama kulu bɛ bonya tuma min, k'a bila a bɛ dɔgɔya tuma min. A bɛ jɔ a yɛrɛ ma ninakili wɔɔrɔ kɔ.",
+      "paceLegend": "Teliya",
+      "paceSlow": "Dɔɔnin-dɔɔnin (sekɔndi 5 kɛrɛ bɛɛ la)",
+      "paceGentle": "Hɛrɛ la (sekɔndi 4 kɛrɛ bɛɛ la)",
+      "ready": "Ni aw labɛnna, an bɛ se k'a daminɛ",
+      "in": "Ni sama",
+      "hold": "Lafiya",
+      "out": "Ni bila",
+      "start": "A daminɛ",
+      "stop": "A jɔ",
+      "started": "A daminɛna. Ni sama kulu bɛ bonya tuma min.",
+      "stopped": "A jɔra.",
+      "finished": "Ninakili dɔɔnin-dɔɔnin wɔɔrɔ kɛra. Aw bɛ se k'a daminɛ tugun tuma o tuma."
+    }
+  },
+  "pictures": {
+    "teacup": "Kɔpu",
+    "kettle": "Satala",
+    "bread": "Buru",
+    "frying-pan": "Tɛgɛlama ni sisefan ye",
+    "cake": "Gato",
+    "sunflower": "Firi tilenbila",
+    "tulip": "Firi wulen",
+    "watering-can": "Arowazwari",
+    "potted-plant": "Fura daga kɔnɔ",
+    "tree": "Jiri",
+    "bird": "Kɔnɔnin bolokelen kan",
+    "butterfly": "Nfifire",
+    "dog": "Wulu",
+    "cat": "Jakuma",
+    "fish": "Jɛgɛ sanuman",
+    "apple": "Pɔmu wulen",
+    "pear": "Pɛri",
+    "strawberry": "Fɛrɛzi",
+    "banana": "Namasa",
+    "lemon": "Lemurukumun",
+    "cherries": "Serisiw",
+    "house": "So",
+    "lamp": "Lanpu tabali kan",
+    "armchair": "Fotɛyi",
+    "key": "Kule kɔrɔlen",
+    "umbrella": "Kankirantali",
+    "sailboat": "Kulun faniyelenma",
+    "car": "Mobili kɔrɔlen",
+    "bicycle": "Negeso",
+    "balloon": "Balɔnba fiyenma",
+    "lighthouse": "Taso jikuru kan",
+    "sun": "Tile",
+    "moon": "Kalo ni dolow",
+    "teapot": "Barada",
+    "apple-pie": "Pɔmu tari",
+    "honey-jar": "Daga ni li ye",
+    "boiled-egg": "Kilisɛ kɔpunin kɔnɔ",
+    "toaster": "Buru-janman-minan",
+    "cheese": "Foromaji",
+    "milk-jug": "Nɔnɔ-minan",
+    "cupcake": "Gatonin",
+    "orange": "Lemuruba",
+    "grapes": "Rezenw",
+    "watermelon": "Berebere",
+    "pineapple": "Mankɔrɔ",
+    "peach": "Pɛsi",
+    "rose": "Rɔzi",
+    "daisies": "Pakɛrɛtiw",
+    "mushroom": "Dabili",
+    "wheelbarrow": "Bawurɛti",
+    "birdhouse": "Kɔnɔso",
+    "cactus": "Kakitusi daga kɔnɔ",
+    "acorn": "Jirisun dege",
+    "autumn-leaf": "Fura jalen",
+    "rabbit": "Nsɔnsɔn",
+    "duck": "Buruburu",
+    "hen": "Sisemuso",
+    "sheep": "Saga",
+    "owl": "Kilikiyo",
+    "ladybird": "Kokisinɛli",
+    "snail": "Kɔti",
+    "frog": "Ntori",
+    "bee": "Dɔnki",
+    "clock": "Montoro tabali kan",
+    "vase-of-flowers": "Vazi ni firiw ye",
+    "radio": "Radiyo kɔrɔlen",
+    "books": "Gafew kurun",
+    "candle": "Buji",
+    "glasses": "Luntikiw",
+    "telephone": "Telefoni",
+    "ball-of-wool": "Lɛni kulunin",
+    "straw-hat": "Bin-fula",
+    "train": "Teren sisima",
+    "bus": "Bisi",
+    "airplane": "Sanpankurun",
+    "suitcase": "Valisi",
+    "tractor": "Tirakitɛri",
+    "rowing-boat": "Kulun berelenma",
+    "rainbow": "Sankalo",
+    "rain-cloud": "Kabakulu sanjima",
+    "snowflake": "Nɛnɛ kurun",
+    "kite": "Fiyen-kulunin",
+    "sunrise": "Tilebɔ kuluw kan"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEGJKLMNORSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Yiridenw",
+          "words": [
+            "MANGO",
+            "POMU",
+            "PERI",
+            "LEMU",
+            "REZEN",
+            "ZABA",
+            "TORO",
+            "SIRA",
+            "NERE"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Nakɔ",
+          "words": [
+            "FIRI",
+            "FURA",
+            "JIRI",
+            "NAKO",
+            "DUGU",
+            "KOLO",
+            "DAGA",
+            "BULU",
+            "DONKI"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Gwa",
+          "words": [
+            "KOPU",
+            "DUTE",
+            "BURU",
+            "DAGA",
+            "GALAMA",
+            "GWA",
+            "BOTE",
+            "TASI",
+            "NONO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Wati",
+          "words": [
+            "TILE",
+            "SANJI",
+            "FIYEN",
+            "KALO",
+            "DOLO",
+            "NENE",
+            "KABA",
+            "FUNTE",
+            "KENE"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Baganw",
+          "words": [
+            "WULU",
+            "JEGE",
+            "KONO",
+            "SAGA",
+            "MISI",
+            "NTORI",
+            "BATI",
+            "SISE",
+            "JAKUMA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "So kɔnɔ",
+          "words": [
+            "KULE",
+            "LANPU",
+            "TABALI",
+            "KURUN",
+            "BASAN",
+            "FANI",
+            "RIDO",
+            "DAGA",
+            "KOKO"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Karatew bɛɛ",
+        "food": "Dumuni",
+        "home": "So",
+        "outdoors": "Kɛnɛma",
+        "animals": "Baganw",
+        "travel": "Taa yɔrɔw",
+        "work": "Baara ni nasyiri",
+        "music": "Dɔnkili ni ɲɛnajɛ",
+        "seasons": "Watiw"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Dumuni kasa jumɛn ka di aw ye kosɛbɛ gwa kɔnɔ?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Sali don na, aw b'a fɛ ka gato sugu jumɛn dumu?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Aw ka dumu-dumunin duman dɔ fɔ an ye."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Aw bɛ dutɛ walima kafe min cogo jumɛn na?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Sɔgɔmadumuni duman bɛ kɛ ni mun ye aw fɛ?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Aw danna ka yiriden kari a sun yɛrɛ la wa?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Timiman ni kumunman: jumɛn ka di aw ye kosɛbɛ?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Dumuni jumɛn bɛ tilenjati hakili bila aw la?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Aw ka so dɔ fɔ an ye, min sigikɛyɔrɔ diyara aw ye."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Aw bɛ lafiya sigiyɔrɔ jumɛn na kosɛbɛ?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Wula lafiyalen na, aw b'a fɛ ka mun kɛ?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Nafolonin jumɛn bɛ se ka kɛ aw bolo k'a mara kɛsɛ kɔnɔ?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Aw b'a fɛ ka jɔn weele k'a bisimila dutɛkɔpu dɔ la?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Sanji bɛ na don min na, aw b'a fɛ ka mun kɛ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Ni firiw bɛ sɔrɔ, aw bɛ sugu jumɛn turu nakɔ kɔnɔ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Jiri walima nakɔ dɔ fɔ an ye, min ka di aw ye."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Mun de ka di aw ye kosɛbɛ nakɔ kɔnɔ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Firi kulɛri jumɛn ka di aw ye kosɛbɛ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Fura kɛli so kɔnɔ ka di aw ye wa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Tile duman bɛ kɛ cogo jumɛn na aw bolo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Wulu dɔ maana fɔ an ye, aw bɛ min dɔn."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Jakuma walima wulu: jumɛn ka di aw ye, wa mun na?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Kɔnɔ sugu jumɛn kan bɛ mɛn walima ka ye kɛnɛma?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Aw danna ka taa jɛgɛ minɛ, walima ka jɛgɛw mara so kɔnɔ wa?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Bagan cɛɲiman jumɛn yera aw ɲɛ na k'a dabila?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Mobili dɔ fɔ an ye, min ka di aw ye."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Baji da la walima kulu kan: aw b'a fɛ ka don kɛ jumɛn na?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Aw b'a fɛ ka taama kɛ yɔrɔ jumɛn na?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Ni aw tun bɛ se ka pan san fɛ, aw tun bɛ yɔrɔ jumɛn laminɛ?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Taa yɔrɔ dɔ maana fɔ an ye, min diyara aw ye kosɛbɛ."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Baara sugu jumɛn kɛli diyara aw ye kosɛbɛ?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Tulonkɛ walima nasyiri jumɛn na, aw bɛ se ka leri caman kɛ o la?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Fɛn jumɛn dilanni walima a ladebonni dɔnnen don aw la kosɛbɛ?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Ladilikan jumɛn bɛ bɔ aw da denmisɛn ye min bɛ baara daminɛ?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Dɔnkili jumɛn bɛ aw senw mabilabila ka dɔn kɛ?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Sali walima ɲɛnajɛba duman bɛ kɛ cogo jumɛn na?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Dɔnkilidala jumɛn lamɛnni ka di aw ye kosɛbɛ?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Siniman walima tele fɛn jumɛn filɛli ka di aw ye tugun?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Mun de ka di aw ye kosɛbɛ samiya walima tilenjati la?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Kawula wati na, mun de bɛ dikan di aw ma?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Nɛnɛ wati wula la, lafiyako jumɛn ka di aw ye kosɛbɛ so kɔnɔ?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Fɔlɔ-fɔlɔ taamasiyɛnw jumɛn bɛ fɔ aw ye ko foroko yɛlɛmana?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Nɛnɛkuru, sanji walima tile: jumɛn ka di aw ye kosɛbɛ?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Firi daganin kɔnɔ",
+          "regions": {
+            "sky": "Kɔfɛla",
+            "table": "Tabali",
+            "stem": "Kala",
+            "leaf-left": "Fura numanfan fɛ",
+            "leaf-right": "Fura kininfan fɛ",
+            "petal-1": "Firibulunin 1",
+            "petal-2": "Firibulunin 2",
+            "petal-3": "Firibulunin 3",
+            "petal-4": "Firibulunin 4",
+            "petal-5": "Firibulunin 5",
+            "petal-6": "Firibulunin 6",
+            "petal-7": "Firibulunin 7",
+            "petal-8": "Firibulunin 8",
+            "center": "Firi cɛmancɛ",
+            "pot": "Daga",
+            "pot-rim": "Daga da"
+          }
+        },
+        "house": {
+          "name": "So",
+          "regions": {
+            "sky": "Sankolo",
+            "sun": "Tile",
+            "grass": "Bin",
+            "chimney": "Sisimina",
+            "walls": "Kogow",
+            "roof": "Sankun",
+            "door": "Da",
+            "window-left": "Fɛnɛtiri numanfan fɛ",
+            "window-right": "Fɛnɛtiri kininfan fɛ",
+            "path": "Sira"
+          }
+        },
+        "teacup": {
+          "name": "Dutɛkɔpu",
+          "regions": {
+            "background": "Kɔfɛla",
+            "saucer": "Kɔpulasigilan",
+            "handle": "Bolo",
+            "cup": "Kɔpu",
+            "band": "Ciden kɔpu kan",
+            "tea": "Dutɛ"
+          }
+        },
+        "butterfly": {
+          "name": "Nfifire",
+          "regions": {
+            "background": "Kɔfɛla",
+            "wing-top-left": "Kamankun sanfɛla numanfan fɛ",
+            "wing-top-right": "Kamankun sanfɛla kininfan fɛ",
+            "wing-bottom-left": "Kamankun dugumala numanfan fɛ",
+            "wing-bottom-right": "Kamankun dugumala kininfan fɛ",
+            "spot-left": "Tɔgɔtɔgɔ numanfan fɛ",
+            "spot-right": "Tɔgɔtɔgɔ kininfan fɛ",
+            "body": "Farikolo"
+          }
+        },
+        "sailboat": {
+          "name": "Kulun faniyelenma",
+          "regions": {
+            "sky": "Sankolo",
+            "sea": "Baji",
+            "sail-big": "Fani belebele",
+            "sail-small": "Fani dɔɔnin",
+            "mast": "Jiri lɔnen",
+            "hull": "Kulun",
+            "flag": "Jɔnjɔn"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Gwa ni nakɔ",
+          "baskets": [
+            "Gwa kɔnɔ",
+            "Nakɔ kɔnɔ"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Yiridenw ni baganw",
+          "baskets": [
+            "Yiridenw",
+            "Baganw"
+          ]
+        },
+        "home-travel": {
+          "label": "So ni taama",
+          "baskets": [
+            "So kɔnɔ",
+            "Taama la"
+          ]
+        }
+      }
+    }
+  }
+}

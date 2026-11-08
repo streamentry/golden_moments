@@ -1,0 +1,807 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Darllen yn uchel",
+      "stopReading": "Stopio darllen",
+      "region": "Gêm",
+      "restart": "Dechrau eto",
+      "soundOn": "Synau ysgafn ymlaen",
+      "soundOff": "Synau ysgafn i ffwrdd",
+      "done": "Gorffen am y tro",
+      "feedbackQuestion": "Oedd hyn o gymorth heddiw?",
+      "feedbackYes": "Ie",
+      "feedbackNo": "Ddim wir",
+      "feedbackThanks": "Diolch am ddweud wrthym."
+    },
+    "tile": {
+      "named": "{name}, teilsen {n}",
+      "hidden": "Llun cudd, teilsen {n}",
+      "withState": "{label}, {state}",
+      "matched": "Wedi paru",
+      "selected": "Wedi dewis",
+      "picture": "Llun",
+      "photoNumber": "Ffoto {n}"
+    },
+    "pairs": {
+      "allTogether": "Pob pâr gyda'i gilydd. Chwarae eto neu gymryd seibiant.",
+      "photoPair": "Pâr o ffotograffau, gyda'i gilydd.",
+      "picturePair": "Dau lun o'r {name|lower}, gyda'i gilydd.",
+      "selected": "{name}. Nawr dewch o hyd i'w bâr.",
+      "mismatch": "Cymerwch eich amser. Tapiwch lun i barhau.",
+      "mismatchNamed": "{a} a {b}. Cymerwch eich amser. Tapiwch lun i barhau."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tapiwch lun, ac yna tapiwch yr un sy'n cyfateb iddo.",
+      "guidanceHidden": "Tapiwch ddwy deilsen i'w troi drosodd. Chwiliwch am ddau sy'r un fath.",
+      "restart": "Lluniau newydd",
+      "sizeLegend": "Faint o deiliau",
+      "size": {
+        "zero": "{n} teilsen",
+        "one": "{n} deilsen",
+        "two": "{n} deilsen",
+        "few": "{n} theilsen",
+        "many": "{n} theilsen",
+        "other": "{n} teilsen"
+      },
+      "viewLegend": "Sut i chwarae",
+      "viewShowing": "Lluniau i'w gweld",
+      "viewHidden": "Lluniau cudd",
+      "playAgain": "Chwarae eto gyda lluniau newydd",
+      "talk": "Siarad am luniau gyda'ch gilydd"
+    },
+    "choose": {
+      "countLegend": "Faint o luniau",
+      "count": "{n} i ddewis ohonynt",
+      "thatOne": "Dyna'r {name|lower}. Cymerwch eich amser."
+    },
+    "findTheSame": {
+      "guidance": "Edrychwch ar y llun ar y brig. Tapiwch yr un fath isod.",
+      "yes": "Ie, yr un {name|lower}.",
+      "next": "Llun nesaf"
+    },
+    "shadowMatch": {
+      "guidance": "Edrychwch ar y cysgod ar y brig. Tapiwch y llun sy'n ei wneud.",
+      "yes": "Ie, y {name|lower} sy'n gwneud y cysgod yna.",
+      "next": "Cysgod nesaf",
+      "shadowAlt": "Cysgod i'w baru",
+      "foundAlt": "Cysgod y {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tapiwch lun, ac yna tapiwch y fasged y mae'n perthyn iddi.",
+      "restart": "Lluniau newydd",
+      "themeLegend": "Thema",
+      "selected": "{name}. Nawr tapiwch y fasged y mae'n mynd iddi.",
+      "pickFirst": "Yn gyntaf tapiwch lun, ac yna tapiwch fasged.",
+      "hint": "Gallai'r {name|lower} fynd i \"{basket}\". Tapiwch y fasged honno i'w roi yno.",
+      "placed": "Mae'r {name|lower} yn \"{basket}\".",
+      "sorted": "Mae popeth wedi'i drefnu. Edrychwch drwy'r basgedi gyda'ch gilydd, neu rhowch gynnig ar thema arall.",
+      "basket": {
+        "zero": "Basged {basket}, {count} o luniau y tu mewn",
+        "one": "Basged {basket}, {count} llun y tu mewn",
+        "two": "Basged {basket}, {count} lun y tu mewn",
+        "few": "Basged {basket}, {count} llun y tu mewn",
+        "many": "Basged {basket}, {count} llun y tu mewn",
+        "other": "Basged {basket}, {count} llun y tu mewn"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tapiwch un darn, ac yna tapiwch un arall. Maen nhw'n newid lle.",
+      "restart": "Cymysgu eto",
+      "pictureLegend": "Llun",
+      "pictures": {
+        "sailboat": "Cwch hwylio",
+        "house": "Tŷ",
+        "balloon": "Balŵn",
+        "sunflower": "Blodyn haul",
+        "lighthouse": "Goleudy",
+        "cat": "Cath"
+      },
+      "sizeLegend": "Darnau",
+      "size": {
+        "zero": "{n} darn",
+        "one": "{n} darn",
+        "two": "{n} ddarn",
+        "few": "{n} darn",
+        "many": "{n} darn",
+        "other": "{n} darn"
+      },
+      "pickedUp": "Darn wedi'i godi. Nawr tapiwch lle dylai fynd.",
+      "whole": "Mae'r {name|lower} yn gyfan eto. Dewiswch lun arall pryd bynnag y dymunwch.",
+      "swapped": {
+        "zero": "Wedi newid. Mae {correct} o {total} darn yn eu lle.",
+        "one": "Wedi newid. Mae {correct} o {total} darn yn ei le.",
+        "two": "Wedi newid. Mae {correct} o {total} ddarn yn eu lle.",
+        "few": "Wedi newid. Mae {correct} o {total} darn yn eu lle.",
+        "many": "Wedi newid. Mae {correct} o {total} darn yn eu lle.",
+        "other": "Wedi newid. Mae {correct} o {total} darn yn eu lle."
+      },
+      "guideAlt": "Y llun cyfan: {name}",
+      "guideText": "Dyma sut mae'r llun yn edrych pan fydd yn gyfan.",
+      "piece": "Darn yn y {place}",
+      "pieceInPlace": ", yn y lle iawn",
+      "piecePickedUp": ", wedi'i godi",
+      "places4": [
+        "chwith uchaf",
+        "dde uchaf",
+        "chwith isaf",
+        "dde isaf"
+      ],
+      "places9": [
+        "chwith uchaf",
+        "canol uchaf",
+        "dde uchaf",
+        "canol chwith",
+        "canol",
+        "canol dde",
+        "chwith isaf",
+        "canol isaf",
+        "dde isaf"
+      ],
+      "done": "Mae'r llun yn gyfan eto. Chwarae eto neu gymryd seibiant.",
+      "playAgain": "Cymysgu eto"
+    },
+    "finishTheSaying": {
+      "guidance": "Darllenwch y dywediad gyda'ch gilydd, ac yna tapiwch y gair sy'n ei orffen.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ie, \"{start} {end}.\"",
+      "otherEnding": "Mae \"{word}\" yn gweithio hefyd. Mae'r dywediad arferol yn gorffen gyda \"{end}\".",
+      "revealed": "Y dywediad yw \"{start} {end}.\"",
+      "choicesLabel": "Dewiswch y gair olaf",
+      "show": "Dangos y diwedd",
+      "talk": "Siarad amdano: ",
+      "next": "Dywediad nesaf"
+    },
+    "wordSearch": {
+      "guidance": "Mae geiriau'n mynd ar draws neu i lawr. Tapiwch lythyren gyntaf y gair, ac yna ei lythyren olaf.",
+      "restart": "Pos newydd",
+      "themeLegend": "Thema",
+      "sizeLegend": "Maint y grid",
+      "size": {
+        "zero": "{n} wrth {n} ({words} gair)",
+        "one": "{n} wrth {n} ({words} gair)",
+        "two": "{n} wrth {n} ({words} air)",
+        "few": "{n} wrth {n} ({words} gair)",
+        "many": "{n} wrth {n} ({words} gair)",
+        "other": "{n} wrth {n} ({words} gair)"
+      },
+      "print": "Argraffu'r pos hwn",
+      "letterChosen": "Llythyren {letter} wedi'i dewis. Nawr tapiwch lythyren olaf y gair.",
+      "found": "{word} wedi'i ganfod.",
+      "foundAll": "{word} wedi'i ganfod. Dyna bob gair. Chwarae eto neu gymryd seibiant.",
+      "tryAgain": "Cymerwch eich amser. Tapiwch lythyren gyntaf gair, ac yna ei lythyren olaf.",
+      "gridLabel": "Grid llythrennau, {n} rhes o {n} llythyren. Defnyddiwch y bysellau saeth i symud rhwng llythrennau.",
+      "cell": "{letter}, rhes {row}, colofn {col}",
+      "cellFound": ", rhan o air a ddarganfuwyd",
+      "wordsHeading": "Geiriau i'w canfod",
+      "wordFound": " (wedi'i ganfod)",
+      "sheetTitle": "Chwilio am eiriau: {theme}",
+      "sheetNote": "Mae geiriau'n mynd ar draws neu i lawr.",
+      "unavailable": "Nid yw grid llythrennau'n addas ar gyfer yr iaith hon, felly ni chynigir y pos chwilio am eiriau yma. Rhowch gynnig ar y gemau lluniau yn lle hynny."
+    },
+    "coloring": {
+      "guidance": "Tapiwch liw, ac yna tapiwch ran o'r llun.",
+      "restart": "Clirio'r lliwiau",
+      "cleared": "Mae'r dudalen yn wag eto.",
+      "pageLegend": "Tudalen",
+      "print": "Argraffu'r dudalen hon",
+      "colorsLabel": "Lliwiau",
+      "paintChosen": "{paint} wedi'i ddewis.",
+      "painted": "Mae {part} nawr yn {paint|lower}.",
+      "artLabel": "{page}, {count} rhan i'w lliwio",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, heb ei liwio",
+      "paints": {
+        "red": "Coch",
+        "orange": "Oren",
+        "yellow": "Melyn",
+        "green": "Gwyrdd",
+        "blue": "Glas",
+        "purple": "Porffor",
+        "pink": "Pinc",
+        "brown": "Brown",
+        "sky-blue": "Glas awyr",
+        "cream": "Hufen",
+        "gray": "Llwyd",
+        "white": "Gwyn"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Darllenwch y cerdyn yn uchel. Nid oes atebion cywir.",
+      "position": "Cerdyn {n} o {total}",
+      "themeLegend": "Thema",
+      "next": "Cerdyn nesaf",
+      "previous": "Cerdyn blaenorol",
+      "print": "Argraffu pob cerdyn",
+      "sheetTitle": "Cardiau sgwrsio"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Dechreuwch drwy ddewis eich ffotograffau.",
+      "guidance": "Tapiwch ffotograff, ac yna tapiwch yr un sy'n cyfateb iddo.",
+      "restart": "Eu cymysgu eto",
+      "intro": "**Dewiswch 2 i 6 ffotograff** o'r ddyfais hon. Dim ond ar y dudalen hon y maen nhw'n cael eu dangos ac nid ydyn nhw byth yn cael eu llwytho i fyny na'u cadw.",
+      "choose": "Dewis ffotograffau",
+      "chooseDifferent": "Dewis ffotograffau gwahanol",
+      "clear": "Clirio ffotograffau",
+      "cleared": "Ffotograffau wedi'u clirio o'r dudalen hon.",
+      "atLeastTwo": "Dewiswch o leiaf ddau ffotograff, os gwelwch yn dda.",
+      "usingFirst": "Defnyddio'r {max} ffotograff cyntaf.",
+      "skipped": {
+        "zero": "Doedd {count} ffeil ddim yn ffotograffau y gallwn eu dangos.",
+        "one": "Doedd {count} ffeil ddim yn ffotograff y gallwn ei ddangos.",
+        "two": "Doedd {count} ffeil ddim yn ffotograffau y gallwn eu dangos.",
+        "few": "Doedd {count} ffeil ddim yn ffotograffau y gallwn eu dangos.",
+        "many": "Doedd {count} ffeil ddim yn ffotograffau y gallwn eu dangos.",
+        "other": "Doedd {count} ffeil ddim yn ffotograffau y gallwn eu dangos."
+      },
+      "playAgain": "Chwarae eto gyda'r ffotograffau hyn",
+      "empty": "Bydd eich ffotograffau'n ymddangos yma, pob un ddwywaith."
+    },
+    "pictureBingo": {
+      "guidance": "Argraffwch y cardiau'n gyntaf. Yna dangoswch y galwr hwn ar y sgrin fwyaf sydd gennych.",
+      "called": {
+        "zero": "{name}. {called} o {total} llun wedi'u galw.",
+        "one": "{name}. {called} o {total} llun wedi'i alw.",
+        "two": "{name}. {called} o {total} lun wedi'u galw.",
+        "few": "{name}. {called} o {total} llun wedi'u galw.",
+        "many": "{name}. {called} o {total} llun wedi'u galw.",
+        "other": "{name}. {called} o {total} llun wedi'u galw."
+      },
+      "start": "Tapiwch \"Llun nesaf\" i alw'r llun cyntaf.",
+      "restart": "Dechrau gêm newydd",
+      "squaresLegend": "Sgwariau ar bob cerdyn",
+      "squares": "{n} sgwâr ({side} wrth {side})",
+      "cardsLegend": "Faint o gardiau i'w hargraffu",
+      "cards": {
+        "zero": "{n} cerdyn",
+        "one": "{n} cerdyn",
+        "two": "{n} gerdyn",
+        "few": "{n} cherdyn",
+        "many": "{n} cherdyn",
+        "other": "{n} cerdyn"
+      },
+      "print": {
+        "zero": "Argraffu {n} cerdyn bingo",
+        "one": "Argraffu {n} cerdyn bingo",
+        "two": "Argraffu {n} gerdyn bingo",
+        "few": "Argraffu {n} cherdyn bingo",
+        "many": "Argraffu {n} cherdyn bingo",
+        "other": "Argraffu {n} cerdyn bingo"
+      },
+      "ready": "Yn barod pan fyddwch chi",
+      "next": "Llun nesaf",
+      "allCalled": "Mae pob llun wedi'i alw",
+      "alreadyCalled": "Wedi'i alw eisoes",
+      "sheetTitle": "Bingo lluniau · cerdyn {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Anadlwch i mewn wrth i'r cylch fynd yn fwy, ac allan wrth iddo fynd yn llai. Bydd yn gorffen ar ei ben ei hun ar ôl chwe anadl.",
+      "paceLegend": "Cyflymder",
+      "paceSlow": "Araf (5 eiliad bob ffordd)",
+      "paceGentle": "Ysgafn (4 eiliad bob ffordd)",
+      "ready": "Yn barod pan fyddwch chi",
+      "in": "Anadlu i mewn",
+      "hold": "Gorffwys",
+      "out": "Anadlu allan",
+      "start": "Dechrau",
+      "stop": "Stopio",
+      "started": "Wedi dechrau. Anadlwch i mewn wrth i'r cylch fynd yn fwy.",
+      "stopped": "Wedi stopio.",
+      "finished": "Dyna chwe anadl araf. Gallwch ddechrau eto pryd bynnag y dymunwch."
+    }
+  },
+  "pictures": {
+    "teacup": "Cwpan te",
+    "kettle": "Tegell",
+    "bread": "Torth o fara",
+    "frying-pan": "Padell ffrio gydag wy",
+    "cake": "Cacen ben-blwydd",
+    "sunflower": "Blodyn haul",
+    "tulip": "Tiwlip coch",
+    "watering-can": "Can dŵr",
+    "potted-plant": "Planhigyn mewn pot",
+    "tree": "Coeden",
+    "bird": "Robin goch ar gangen",
+    "butterfly": "Glöyn byw",
+    "dog": "Ci",
+    "cat": "Cath",
+    "fish": "Pysgodyn aur",
+    "apple": "Afal coch",
+    "pear": "Peren",
+    "strawberry": "Mefusen",
+    "banana": "Banana",
+    "lemon": "Llemwn",
+    "cherries": "Ceirios",
+    "house": "Tŷ",
+    "lamp": "Lamp fwrdd",
+    "armchair": "Cadair freichiau",
+    "key": "Allwedd hen ffasiwn",
+    "umbrella": "Ymbarél",
+    "sailboat": "Cwch hwylio",
+    "car": "Car clasurol",
+    "bicycle": "Beic",
+    "balloon": "Balŵn awyr boeth",
+    "lighthouse": "Goleudy",
+    "sun": "Haul",
+    "moon": "Lleuad a sêr",
+    "teapot": "Tebot",
+    "apple-pie": "Pastai afal",
+    "honey-jar": "Jâr o fêl",
+    "boiled-egg": "Wy mewn cwpan wy",
+    "toaster": "Tostiwr",
+    "cheese": "Darn o gaws",
+    "milk-jug": "Jwg laeth",
+    "cupcake": "Cacen fach",
+    "orange": "Oren",
+    "grapes": "Swp o rawnwin",
+    "watermelon": "Sleisen o felwn dŵr",
+    "pineapple": "Pinafal",
+    "peach": "Eirinen wlanog",
+    "rose": "Rhosyn",
+    "daisies": "Llygad y dydd",
+    "mushroom": "Madarchen",
+    "wheelbarrow": "Berfa",
+    "birdhouse": "Blwch nythu",
+    "cactus": "Cactws mewn pot",
+    "acorn": "Mesen",
+    "autumn-leaf": "Deilen hydref",
+    "rabbit": "Cwningen",
+    "duck": "Hwyaden",
+    "hen": "Iâr",
+    "sheep": "Dafad",
+    "owl": "Tylluan",
+    "ladybird": "Buwch goch gota",
+    "snail": "Malwen",
+    "frog": "Llyffant",
+    "bee": "Gwenynen",
+    "clock": "Cloc silff",
+    "vase-of-flowers": "Fâs o flodau",
+    "radio": "Radio hen ffasiwn",
+    "books": "Pentwr o lyfrau",
+    "candle": "Cannwyll",
+    "glasses": "Sbectol ddarllen",
+    "telephone": "Ffôn",
+    "ball-of-wool": "Pelen o wlân",
+    "straw-hat": "Het haul",
+    "train": "Trên stêm",
+    "bus": "Bws",
+    "airplane": "Awyren",
+    "suitcase": "Cês dillad",
+    "tractor": "Tractor",
+    "rowing-boat": "Cwch rhwyfo",
+    "rainbow": "Enfys",
+    "rain-cloud": "Cwmwl glaw",
+    "snowflake": "Pluen eira",
+    "kite": "Barcud",
+    "sunrise": "Codiad haul dros y bryniau"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHILMNOPRSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Ffrwythau",
+          "words": [
+            "AFAL",
+            "PEREN",
+            "EIRIN",
+            "OREN",
+            "LEMWN",
+            "MEFON",
+            "MELWN",
+            "BANANA",
+            "FIGYS"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Gardd",
+          "words": [
+            "RHOSYN",
+            "HEDYN",
+            "PRIDD",
+            "DEILEN",
+            "COEDEN",
+            "BLODYN",
+            "LILI",
+            "PWLL",
+            "GWENYN"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Cegin",
+          "words": [
+            "CWPAN",
+            "LLWY",
+            "BARA",
+            "PADELL",
+            "POWLEN",
+            "FFORC",
+            "FFWRN",
+            "DYSGL",
+            "MWG"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Tywydd",
+          "words": [
+            "HAUL",
+            "GLAW",
+            "EIRA",
+            "GWYNT",
+            "CWMWL",
+            "STOROM",
+            "NIWL",
+            "RHEW",
+            "GWRES"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Anifeiliaid",
+          "words": [
+            "CATH",
+            "ADERYN",
+            "CEFFYL",
+            "BUWCH",
+            "HWYAD",
+            "GAFR",
+            "DAFAD",
+            "PYSGOD",
+            "IAR"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Cartref",
+          "words": [
+            "DRWS",
+            "CADAIR",
+            "GWELY",
+            "SOFFA",
+            "CLOC",
+            "BWRDD",
+            "CARPED",
+            "LLEN",
+            "MAT"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Pob cerdyn",
+        "food": "Bwyd",
+        "home": "Cartref",
+        "outdoors": "Yr awyr agored",
+        "animals": "Anifeiliaid",
+        "travel": "Teithio",
+        "work": "Gwaith a hobïau",
+        "music": "Cerddoriaeth a hwyl",
+        "seasons": "Tymhorau"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Pa arogl o'r gegin rydych chi'n ei hoffi fwyaf?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Pa fath o gacen fyddech chi'n ei dewis ar gyfer dathliad?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Dywedwch wrthyf am bwdin neu bastai ffrwythau rydych chi'n ei mwynhau."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Sut rydych chi'n hoffi eich te neu goffi?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Beth sy'n gwneud brecwast da iawn i chi?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ydych chi erioed wedi pigo ffrwythau yn syth o'r llwyn neu'r goeden?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Melys neu sur: pa un sydd orau gennych chi?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Pa fwyd sy'n dod ag atgofion o'r haf i chi?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Dywedwch wrthyf am gartref roeddech chi'n hoffi byw ynddo."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ble rydych chi'n hoffi eistedd ac ymlacio fwyaf?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Beth rydych chi'n hoffi ei wneud ar noson dawel?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Pa drysor fyddech chi'n ei gadw mewn blwch arbennig?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Pwy fyddech chi'n hoffi ei wahodd draw am baned o de?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Beth rydych chi'n hoffi ei wneud ar ddiwrnod glawog?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Pa flodau fyddech chi'n eu plannu mewn gardd?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Dywedwch wrthyf am goeden neu barc rydych chi'n ei hoffi."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Beth yw'r rhan orau o fod allan yn yr ardd?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Pa liw o flodau sydd orau gennych chi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "A ydych chi'n hoffi cael planhigion yn y tŷ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Sut ddiwrnod fyddai diwrnod heulog perffaith i chi?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Dywedwch wrthyf am gi roeddech chi'n ei adnabod."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Cathod neu gŵn, neu'r un o'r ddau? Beth rydych chi'n ei hoffi amdanyn nhw?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Pa adar rydych chi'n eu gweld neu'n eu clywed y tu allan?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ydych chi erioed wedi bod yn pysgota, neu wedi cadw tanc pysgod?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Beth yw'r anifail mwyaf hardd rydych chi wedi'i weld?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Dywedwch wrthyf am gar roeddech chi'n ei hoffi."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "A fyddai'n well gennych chi dreulio diwrnod ar lan y môr neu yn y mynyddoedd?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "I ble fyddech chi'n hoffi mynd am daith?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Pe baech chi'n gallu hedfan dros unrhyw le, ble fyddai hynny?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Dywedwch wrthyf am daith rydych chi wedi'i mwynhau."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Pa fath o waith rydych chi wedi mwynhau ei wneud?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Pa hobi fyddech chi'n gallu treulio oriau yn ei fwynhau?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Beth roeddech chi'n adnabyddus am ei wneud neu ei drwsio?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Pa gyngor fyddech chi'n ei roi i berson ifanc sy'n dechrau ar ei yrfa?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Pa fath o gerddoriaeth sy'n gwneud i chi fod eisiau curo'ch traed?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Beth sy'n gwneud parti da iawn?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Pwy yw canwr neu gantores rydych chi'n hoffi gwrando arno neu arni?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Pa ffilm neu raglen deledu fyddech chi'n hoffi ei gwylio eto?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Beth rydych chi'n ei hoffi fwyaf am yr haf?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Beth rydych chi'n ei fwynhau am yr hydref?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Beth yw peth cysurus i'w wneud ar noson o aeaf?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Beth yw arwyddion cyntaf y gwanwyn i chi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Eira, glaw neu heulwen: pa un sydd orau gennych chi?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Blodyn mewn pot",
+          "regions": {
+            "sky": "Cefndir",
+            "table": "Bwrdd",
+            "stem": "Coesyn",
+            "leaf-left": "Deilen chwith",
+            "leaf-right": "Deilen dde",
+            "petal-1": "Petal 1",
+            "petal-2": "Petal 2",
+            "petal-3": "Petal 3",
+            "petal-4": "Petal 4",
+            "petal-5": "Petal 5",
+            "petal-6": "Petal 6",
+            "petal-7": "Petal 7",
+            "petal-8": "Petal 8",
+            "center": "Canol y blodyn",
+            "pot": "Pot",
+            "pot-rim": "Ymyl y pot"
+          }
+        },
+        "house": {
+          "name": "Tŷ",
+          "regions": {
+            "sky": "Awyr",
+            "sun": "Haul",
+            "grass": "Gwellt",
+            "chimney": "Simnai",
+            "walls": "Waliau",
+            "roof": "To",
+            "door": "Drws",
+            "window-left": "Ffenestr chwith",
+            "window-right": "Ffenestr dde",
+            "path": "Llwybr"
+          }
+        },
+        "teacup": {
+          "name": "Cwpan te",
+          "regions": {
+            "background": "Cefndir",
+            "saucer": "Soser",
+            "handle": "Dolen",
+            "cup": "Cwpan",
+            "band": "Rhesen ar y cwpan",
+            "tea": "Te"
+          }
+        },
+        "butterfly": {
+          "name": "Glöyn byw",
+          "regions": {
+            "background": "Cefndir",
+            "wing-top-left": "Adain chwith uchaf",
+            "wing-top-right": "Adain dde uchaf",
+            "wing-bottom-left": "Adain chwith isaf",
+            "wing-bottom-right": "Adain dde isaf",
+            "spot-left": "Dot yr adain chwith",
+            "spot-right": "Dot yr adain dde",
+            "body": "Corff"
+          }
+        },
+        "sailboat": {
+          "name": "Cwch hwylio",
+          "regions": {
+            "sky": "Awyr",
+            "sea": "Môr",
+            "sail-big": "Hwyl fawr",
+            "sail-small": "Hwyl fach",
+            "mast": "Mast",
+            "hull": "Cwch",
+            "flag": "Baner"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Cegin a gardd",
+          "baskets": [
+            "Yn y gegin",
+            "Yn yr ardd"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Ffrwythau ac anifeiliaid",
+          "baskets": [
+            "Ffrwythau",
+            "Anifeiliaid"
+          ]
+        },
+        "home-travel": {
+          "label": "Cartref a theithio",
+          "baskets": [
+            "Gartref",
+            "Allan ac o gwmpas"
+          ]
+        }
+      }
+    }
+  }
+}

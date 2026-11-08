@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Адеменциа змоу ахацәа рзы аусмҩаԥгатәқәа"
+seoTitle: "Адеменциа змоу ахацәа рзы аусмҩаԥгатәқәа: аидеақәа"
+description: "Астереотипқәа ракәымкәа, рџьабаа, рҳауасқәа, ртрадициақәа ирықәыршәаны адеменциа змоу ахацәа рзы аусмҩаԥгатәқәа, урҭ шәарҭада рымҩаԥгаразы абжьагарақәа."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Адеменциа змоу ахаҵа изы зегь реиҳа еиӷьу аусмҩаԥгатәқәа иара ихаҭа иԥсҭазаара
+  иалҵуеит: иара иуахьаз аус, бзиа иибоз иҳауасқәа, есымша иҟаиҵоз аусқәа. Аофистә
+  усзуҩыс иҟаз ақаӷьқәа реидкылара гәахәара изаанаргар алшоит, автомеханик —
+  ицқьоу амаругаақәа рыҭаацәара, аспортив гәахәаԥшыҩ — ажәытә хәмарра акәзар.
+  Ахацәа ргәаҳәарақәа еиԥшым, убри аҟынтә ауаҩы ихаҭа дырҿиа, ихаҵара мацара
+  акәымкәа.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Убри ахаҵа ихаҭа иҭоурых шәалага: иусура, бзиа иибоз иусқәа, есымша иҟаиҵоз, мчыла дахьазҳәоз ахҭысқәа."
+  - "Иҵабыргу хықәкы змоу аусқәа, иаҳҳәап, амаҭәарқәа реидкылара, амашьына аӡәӡәра ма амҿы аԥсабара, ашколтә уроки еиԥшу аусмҩаԥгатәқәа раасҭа еиҳа гәахәара рзаанагоит."
+  - "Ахацәа зегьы амаругаақәеи аспорти бзиа ирбаӡом. Рацәаҩны бзиа ирбоит афатә ҟаҵара, амузыка, абаҳча аҭаацәара, аҟазара ма егьырҭ рыхшылара. Шәазҵаа, шәахәаԥш, иара дшәырнаргала."
+  - "Аусуратә ҟазшьа змоу аусқәа шәарҭада ишәҵа, иԥсуа амаругаақәа шәахырх, шәахылаԥшла, иара убас ауаҩы илшарақәа рԥсахрақәа ирықәыршәаны урҭ шәырмариала."
+  - "Мап акра ауеит. Ауалс акәымкәа, хаҭара змоу ароль изаанага, уадаҩны ишәыԥхьаӡозар, даҽа мшык шәҽазышәшәа."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Адеменциа змоу ахацәа зегь реиҳа бзиа ирбозеи?"
+    a: "Зегьы рзы иакәу сиак ыҟаӡом, избанзар ахацәа ргәаҳәарақәа дарбанзаалак ауаҩы иеиԥш еиԥшым. Ибзиоу хацыркрас иҟоуп иара иуахьаз аус иадҳәалоу аусқәа, иаҳҳәап, ақаӷьқәа реиқәыршәара ма аболтқәеи агаикақәеи реидкылара, иара убас бзиа иибоз иҳауасқәа: аԥсыӡкра, амашьынақәа, амузыка, афатә ҟаҵара ма аспорт. Иара ихала иҟаиҵо шәахәаԥшла, убригьы шәаԥышәала."
+  - q: "Саб агәыԥтә усмҩаԥгатәқәа мап рыцәикуеит. Иҟасҵар сылшозеи?"
+    a: "Ауаа рацәа, ахацәа ракәзаари аҳәса ракәзаари, ашколтә уроки еиԥшу ма ахәыҷтәқәа ишәоу аусмҩаԥгатәқәа мап рыцәыркуеит. Ус еиԥш иҟоу аҭыԥан аус изаанага: «Убри реидкылара сыцхраауама?» Хәыҷык агәыԥқәа ма шәҩыџьак рыҩныҵҟа аамҭа амҩаԥгара, азал ду аасҭа еиҳа гәыԥжәара аманы иҟалар алшоит."
+  - q: "Ишәарҭадаума амаругаақәа риҭара?"
+    a: "Ахылаԥшреи ишәарҭадоу амаругаақәеи рыла мацара. Афымца маругаақәа, аҵәҵәақәа, иԥсуа зегьы шәахырх, амҿы аԥсабара, ицқьоу амаҭәарқәа реидкылара, ма анапала аболт дуқәа ракәкра еиԥш иҟоу аусқәа шәрықәыршәа. Аальцгеимер иассоциациа иабжьанагоит аусҭырҭа аҟынтә ишәарҭоу амаҭәарқәа рахыхра, убасҟан амҿы аԥсабара шәарҭада гәахәара азаанагоит."
+  - q: "Иара хаҭара ду змоу специалистс дыҟан. Имариоу аусқәа дгәамбылҩашьома?"
+    a: "Дгәамбылҩашьыр алшоит, урҭ аамҭа ахьырԥаразы мацара иҟаҵоу аусқәоушәа изаанаргар. Аус ҵабыргу цхыраарас изаанага, адуцәа рзы амаҭәарқәа рхархәара шәаҭ, иара убас иара иажәытә усура иазааигәоу акы шәалышәх, иаҳҳәап, асиа ахәаԥшра, апапка аҿы ақаӷьқәа реиқәыршәара ма асаламшәҟәқәа реизгара. Акы аҟны дҟәыӷаӡа дахьыҟаз азы, убри иаднаҳәало, аха даҽа усмҩаԥгатәк аиҿкаара еиҳа еиӷьхоит, уажәтәи илшарақәеи иажәытәқәеи аҿурԥшуа дымгәаҟырц азы."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Ауаа лассы «адеменциа змоу ахацәа рзы аусмҩаԥгатәқәа» ирышьҭалоит, избанзар истандарту абжьагарақәа рҭаацәара иалоу ахаҵа изы ишыргәахьалым еиԥш ирбоит. Убри ииашоу гәҭынчымроуп. Аха аҭак «хаҵатә» усқәоуп ҳәа иҟоу асиа аҟны акәӡом ишыҟоу. Зегьы убри ахаҵа ихаҭа шәалагароуп: иара аус шауаз, амшмбзиақәа шааихуаз, харада иҽзибоз аусқәа зеиԥшрамыз. Агәаҳәарақәа дарбанзаалак ауаҩы изы еиԥшым. Ахацәа рацәа афатә ҟаҵара, абаҳча аҭаацәара, асахьаҭыхра ма ашәаҳәара бзиа ирбоит, аҳәса рацәагьы амашьынақәеи абеисболи бзиа ирбоит.
 
-## How do I find activities he will actually enjoy?
+## Ишԥа сылшо зегь реиҳа бзиа иибо аусмҩаԥгатәқәа ралкаара?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Иара иԥсҭазааратә ҭоурых шәалага. Аальцгеимер иассоциациа иабжьанагоит [есымшатә план](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) аҟаҵара ауаҩы бзиа иибо, бзиа имбо, имчқәеи игәаҳәарақәеи, иара убас иара иԥсҭазаара шааихуаз иақәыршәаны. Шәхы шәазҵаа:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Иус зеиԥшрамыз?** Офис, ферма, фабрика, уснагӡара, арратә маҵзура, аҭира, аҵарадырра, амашьына аныҟәцара, аҩны?
+- **Иаамҭа даҽакала шааихуаз?** Аԥсыӡкра, акартхәмарра, амҿы аус адулара, аспорт, ауахәама, амузыка, афатә ҟаҵара, агараж аҿы амашьына?
+- **Есымша иҟаиҵоз зеиԥшрамыз?** Есышьыжь акофеи агазеҭи? Аамҭа аҭагылазаашьа ахәаԥшра? Асабша есымша амашьына аӡәӡәра?
+- **Уажәгьы ихала ихацыриркуазеи?** Ассоциациа иазнеиуеит ауаҩы акыр ихала далалагар, иаҳҳәап аҵаҟа ашьхарыхра, урҭ аусқәа есымшатә графикс иҟалар ҟалоит.
+- **Иара ицәахьаҷозеи?** Шьоукы аспорт ахәаԥшра бзиа ирбоит; егьырҭ ауадаҩреи ашара-гәаҟреи рзаанагоит. Иара дгәырӷьо, даргәамҵо, ма дгәаауа анакәу шәахәаԥшла.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Аҭаацәеи иажәытә ҩызцәеи шәрацәажәа. Урҭ есымшатә ԥсҭазаара аҟынтә иӡыз аҳауасқәа шәгәаланаршәар алшоит.
 
-## Activity ideas based on past work
+## Аусура аҟынтә иаагоу аусмҩаԥгатәқәа рзы аидеақәа
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Аальцгеимер иассоциациа ииашоу ҿырԥштәык аанагоит: аофис аусзуҩыс иҟаз ақаӷьқәа реиқәыршәара, аԥара аҭыԥаҿы ақәыргылара, асаламшәҟәқәа реизгара ма аплан аҟаҵара бзиа иибар ҟалоит, афермер ма абаҳчаҩ — аҩны бжара аусура. Убри еиԥш иҟоу аидеа даҽа усурақәа рацәагьы ирхыцны иҟоуп.
 
-| Past work | Activity ideas | Simpler version |
+| Ажәытә усура | Аусмҩаԥгатәқәа рзы аидеақәа | Еиҳа имариоу авариант |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Аофис ма абизнес | Апапкақәа рахь ақаӷьқәа реидкылара, аконвертқәа рҿы аштамп ақәҵара, асиа ахәаԥшра, астол аҭаӡра реиқәыршәара | Аконвертқәа еиқәыршәаны рықәыргылара; аклипсақәа ақьаб ахь рҭаҵара |
+| Аремеслоқәа ма амеханика | Ицқьоу агаикақәа, аболтқәа, ашаибақәа реидкылара; анапала аболт дуқәа ракәкра; амаругаақәа ркаталог ахәаԥшра | Ашәагаақәа рыла ҩ-кьасәк рахь реидкылара |
+| Ақыҭанхамҩа ма абаҳчаҭаацәара | Аӡы аҭаҭәара, аҵиаақәа раҵаҵара, абӷьы еизгара, абаҳча аҭагылазаашьа ахәаԥшра | Шәара аус шәауа анҭыҵ датәаны аԥшыра; аҵла хылҵшьҭрақәа рыхәшақәа рымкыра |
+| Арратә усура | Амаҵәақәа рырцқьара, аҭаӡра аиқәыршәара, бзиа иибозар арратә фотосахьақәа рахәаԥшра | Убри аамҭазтәи амузыка азыӡырҩра |
+| Аҭира ма ауаа рымаҵзура | Асасцәа раԥхьагылара, афатә хәыҷқәа рыҭара, акупонқәа реидкылара | Абзиабара аҳәаразы абнажәла аҟны аҭатәара |
+| Аҵарадырра | Бжьыҭины аԥхьара, ашәҟәқәа реиқәыршәара, атемақәа рыла асахьақәа реидкылара | Сахьала иҭәу ашәҟәы шәацны ахәаԥшра |
+| Аныҟәцара ма атранспорт | Акартақәа ма аавтомобилтә журналқәа рахәаԥшра, амашьына аӡәӡәра | Аҩны бжара аҟынтә амашьынақәа ишцо ахәаԥшра |
+| Аҩнеи аҭаацәеи | Амаҭәақәа реиҵарҳәара, астол ашәаҭара, ахәылбзиатә фатә аҟаҵара ацхраара | Асалфеткақәа рырҵәцара; афатә аҵаара |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Шьоукы рзы, иаҳҳәап арратә маҵзура еиԥш иҟоу агәалашәарақәа, угәы хьшәашәа ирҵар алшоит. Иара инапхгара шәаҵагыл, аԥхьатәи аамҭазы ахцәажәара бзиахоит ииашоу, ипозитивтәу шәаҳасабразар, даргәамҵуа ишәбозар, еиҳа имариоу атема шәахыс.
 
-## Activity ideas based on hobbies
+## Аҳауасқәа ирықәыршәаны аусмҩаԥгатәқәа рзы аидеақәа
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Амҿы аус адулара.** Амҿы аԥсабара ма аԥсаатә хәыҷқәа рҩны аҭыхра. Аальцгеимер иассоциациа иабжьанагоит аусҭырҭа аҟынтә ишәарҭоу амаҭәарқәеи амаругаақәеи рахыхра, убасҟан амҿы аԥсабара еиԥш иҟоу аус гәахәара азаанагоит, ишәарҭадахоит.
+2. **Аԥсыӡкра.** Аԥсыӡкыга кьаша аҟны акармақәа ахыхны амаҭәарқәа реидкылара, аԥсыӡкразы ажурналқәа рахәаԥшра, ма аӡиа аҟны еицытәаны аԥшыра.
+3. **Амашьынақәа.** Амашьына аӡәӡәра, ахром ахьыршәра, аклассикатә машьынақәа рфотосахьақәа рахәаԥшра, ма пассажьирс амашьынала аныҟәара.
+4. **Аспорт.** Аклассикатә хәмарра ма амомент бзиақәа рахәаԥшра, ихьаау ампыл аҭагалара, ахалқәа рҿы ампылхәыҷқәа рыкәкра, ма аспортив картқәа реидкылара.
+5. **Акартқәеи ахәмаррақәеи.** Еицырдыруа акартхәмарра, адомино, ма еиԥшу асахьақәа рыԥшааразы акартқәа рыҭаацәара. Агәыԥжәара шәацәахьаҷ, ахыԥхьаӡара аҟаҵара аҵабырг шәамыхәаԥшын.
+6. **Амузыка.** Иара иқәра хәыҷыз аамҭазтәи ашәақәа, бзиа иибоз агәыԥ ма ауахәаматә шәа. Шәахәаԥш ҳәа [амузикатә усмҩаԥгатәқәа рзы абжьагара](/activities/music/).
+7. **Афатә ҟаҵареи агрили.** Аусҭацәқәа рыӡәӡәра, асоус аҵаара, котлетқәа рҟаҵара, ма шәара афатә шәаҟаҵацыԥхьаӡа бзиа иибоз афатә шыҟаиҵоз иҳәара.
+8. **Агазеҭ.** Аальцгеимер иассоциациа иазнеиуеит есымша агазеҭ аԥхьара бзиа избоз ауаҩы уажәгьы убри аҟнытә гәахәара иоур алшоит, атекст зегьы ихшыл аилкаара имчызаргьы. Акофеи агазеҭи ашьыжьтә аамҭа ахәҭас иаанрыжьыр ҟалоит.
+9. **Аиқәыршәара.** Адуцәа рзы еиҳа идуу акәацқәа змоу амоделқәа ма конструктор имариоу. Анапала рымкыра имариоу ахәҭақәа шәалышәх.
+10. **Акы ахшылара азыҟаҵара.** Аҩнытә ԥстәы афатә аҭара, аԥсаатәқәа рфатәқәа рыҭара, ма аҵиаақәа аӡы рҭаҭәара. NIA [аҩнытә ԥстәы афатә аҭара, ахылаԥшра ма аныҟәцара](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ауаа гәахәара рзаанаго аусқәа рахь иаҵанакуеит.
 
-## How do I offer an activity without it feeling like busywork?
+## Ишԥа сылшо аусмҩаԥгатә адыргалара, аамҭа ахьырԥара мацара акәымкәа?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Ҵабыргу цхыраарас изаанага. Аальцгеимер иассоциациа иабжьанагоит «Убри сыцхраауама?» ҳәа аҳәара, аус ахықәкы иадҳәалоуп ҳәа аарԥшра. Шәеиҿырԥш:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Ари аболтқәа реидкылара уҭахума?» (аԥышәара иеиԥшуп)
+- «Сара амаҭәарқәа еимырдоу саахәеит, аполка сзырҽеидала урҭ реидкылара саҭахуп. Унапа сыцхраауама?» (чындара иеиԥшуп)
 
-Other tips:
+Егьырҭ абжьагарақәа:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Адуцәа рзы амаҭәарқәа шәархәа.** Иԥсуа ахәҭақәа зыхыху иҵабыргу амаругаақәа, иҵабыргу акаталогқәа, иҵабыргу аконвертқәа.
+- **Авараҿы аус шәаура.** Ҩыџьа аус еицыруазар — аҩызцәара ауп. Аӡәы даҽаӡәы диахәаԥшуазар — ахылаԥшра ауп.
+- **Шәымзырҽеилан.** Аболтқәа егьырҭ акьасқәа рахь иҭахаргьы, убри убас иаанрыжь. Зегь реиҳа ихадоу — еицымҩаԥыжәго аамҭеи аус шылшо агәрагареи роуп.
+- **Алагара дшәыцхраа.** Аальцгеимер иассоциациа иазнеиуеит ауаа рацәа агәаҳәара рымоуп акы ҟарҵарц, аха аиҿкаареи алагареи рцәауадаҩуеит. Актәи шәацны шәыҟаҵа.
 
-## How do I adapt as things change?
+## Аҭагылазаашьа анаԥсахуа ишԥа сзыҟало?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Адеменциа шаԥсахуа ала, Аальцгеимер иассоциациа иабжьанагоит еиҳа имариоу, еиҭаҳәашьа змоу аусқәа рдыргалара, иара убас ауаҩы еиҳа имаҷу ароль анагӡара дшазыхиоу аилкаара. Зны амоторқәа зырҽеиоз ахаҵа уажәы ицқьоу амаруга амкыреи амашьынақәа рзы ахцәажәареи, ма шәара шәус шаура диахәаԥшра гәахәара изаанагоит. Ахәаԥшрагьы — алахәра ауп.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Иара акы аҿы хаҭара ду змаз специалистс дыҟазҭгьы, убри иаднаҳәало аха даҽа аусмҩаԥгатәк иажәытә усура аасҭа еиҳа гәахәара изаанаргар алшоит. Ассоциациа иазнеиуеит апрофессионал сахьаҭыхҩы иусура аҿы иҟало аԥсахрақәа дырргәамҵыр ҟалоит, аха аҳауас змоу ауаҩы ҿыц акы бзиа иибар ҟалоит. Убри еиԥш иҟоуп аҟазара ду змаз амҿы аус адулаҩы изыгьы.
 
-## Safety with work-style tasks
+## Аусуратә ҟазшьа змоу аусқәа раан ашәарҭадара
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Афымца маругаақәа, аҵәҵәақәа, аԥсуа хы змоу амаҵәқәеи авинтқәеи шәахырх.
+- Акраска ԥсыҽырӷәӷәагақәа, абензин, ахимикатқәа шәаркы.
+- Амашьына дымныҟәцозар, амашьына ацаԥхақәа шәаҵәах.
+- Аусураҭырҭаҿи абаҳчаҿи иҟоу аусқәа зегьы шәахылаԥшла.
+- Аҵакра зымшо, еиҳа идуу амаҭәарқәа шәалышәх.
 
-## What if he says no?
+## Мап аникра иҟаҵатәузеи?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Пату шәақәшәа. «Мап» аҳәара иаанагар алшоит аус даара иуадаҩуп, хәыҷтәуп, ма иахьа убри аамҭа акәӡом ҳәа. Аальцгеимер иассоциациа иабжьанагоит мчыла акы аҟаҵара аҵабырг шәамыхәаԥшын. Даҽа уск, даҽа аамҭак шәаԥышәала, ма еицытәаны шәааигәала. Шәахәаԥш [мап анрыкроу иҟаҵатәу](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Ирықәшәо ахәмаррақәеи ахцәажәарақәеи
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) еицырдыруа ажәаԥҵақәа рхархәара аҭоит, ахцәажәарақәагьы ирыцхраауеит. [Conversation Cards](/games/conversation-cards/) атемақәа рыла аԥышәарада иҟоу аилкаарақәа амоуп, урҭ аусуреи аҳауасқәеи рзы ахҭысқәа шәгәаланаршәар алшоит. [Picture Puzzle](/games/picture-puzzle/) ахәҭақәа ҽеиҩшәҵацыԥхьаӡа асахьа зегьы убарц алшара аҭоит, идуны икьыԥхьу [Word Search](/games/word-search/) акьыԥхьра ҟалоит, астол аҿы аручкала ахәмарра алшоит. Ауаҩы иԥышәара шәымҭакәа иажәытә аамҭа шәызлалацәажәаша анеирақәа рзы, шәахәаԥш ҳәа [агәалашәарақәа рзы абжьагара](/activities/reminiscence/).

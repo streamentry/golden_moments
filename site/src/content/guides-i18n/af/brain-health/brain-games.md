@@ -1,33 +1,33 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Voorkom breinspeletjies demensie? Wat die bewyse toon"
+seoTitle: "Voorkom breinspeletjies demensie? Die bewyse"
+description: "Wat navorsing sê oor breinspeletjies en demensie: kognitiewe stimulasie, breinopleiding, die ACTIVE-studie en FTC Lumosity-saak, eenvoudig verduidelik."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Geen breinspeletjie het nog bewys dat dit demensie voorkom nie. Rekenaargebaseerde
+  breinopleiding verbeter meestal net die take wat mense oefen. Een studie uit
+  die ACTIVE-proef het 'n spesifieke spoedopleiding met opvolgsessies gekoppel aan
+  minder demensiediagnoses oor 20 jaar, maar dit is 'n baie eng bevinding. Vir mense
+  wat reeds met demensie leef, toon kognitiewe groepstimulasie klein, korttermynvoordele.
+  Speletjies word die beste geniet vir plesier en samesyn.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Studies oor breinopleiding toon dat mense beter vaar met die spesifieke take wat hulle oefen, met baie min bewyse dat dit na die alledaagse lewe oorspoel."
+  - "In die ACTIVE-proef het slegs mense wat 'n spesifieke spoedoefening én opvolgsessies gedoen het, oor 20 jaar minder demensiediagnoses gehad. Spoedoefening sonder opvolgsessies, asook geheue- en redenasie-opleiding, het dit nie getoon nie."
+  - "In 2016 het Lumosity se maker $2 miljoen betaal om aanklagte van die FTC te skik dat daar nie wetenskaplike bewyse was vir hul aansprake oor die vertraging van demensie nie."
+  - "Vir mense met ligte tot matige demensie toon kognitiewe stimulasiegroepe klein, korttermynvoordele vir denke en duideliker verbeteringe in kommunikasie en sosiale interaksie."
+  - "Golden Moments-speletjies is bedoel vir genot en tyd saam. Hulle is nie 'n behandeling nie en voorkom of vertraag nie demensie nie."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Voorkom breinspeletjies Alzheimer se siekte?"
+    a: "Geen breinspeletjie is nog bewys om Alzheimer se siekte of ander demensie te voorkom nie. Die National Institute on Aging sê daar is nie genoeg bewyse dat kommersiële breinopleidingsprogramme dieselfde uitwerking het as die opleiding wat in kliniese proewe getoets is nie. Speletjies kan steeds 'n aangename manier wees om tyd deur te bring."
+  - q: "Wat het die ACTIVE-proef bevind oor spoedopleiding en demensie?"
+    a: "'n Ontleding in 2026 het ACTIVE-deelnemers oor 20 jaar aan hul Medicare-rekords gekoppel. Mense wat inligtingsverwerkingspoed geoefen het en minstens een opvolgsessie bygewoon het, het 'n laer koers van gediagnoseerde demensie gehad as die groep sonder opleiding. Spoedopleiding sonder opvolgsessies, en geheue- of redenasie-opleiding, het geen beduidende verskil getoon nie."
+  - q: "Is legkaarte en speletjies goed vir iemand wat reeds demensie het?"
+    a: "Dit kan wees, as die persoon dit geniet. Kognitiewe groepstimulasie, wat woordspeletjies, legkaarte, musiek en gesels insluit, toon klein korttermynvoordele vir denke en duideliker voordele vir kommunikasie en sosiale interaksie. Genot, nie 'n toetsuitslag nie, is die regte doelwit."
+  - q: "Waarom is Lumosity deur die FTC beboet?"
+    a: "In 2016 het die Federal Trade Commission aangevoer dat Lumos Labs aansprake oor sy speletjies gemaak het, insluitend die vertraging van ouderdomsverwante agteruitgang en demensie, sonder dat die wetenskap dit ondersteun het. Die maatskappy het ingestem om $2 miljoen te betaal en om betroubare wetenskaplike bewyse te hê voordat hulle in die toekoms sulke bewerings maak."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +58,98 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Breinspeletjies is oral, en baie beloof om jou brein jonk te hou. As jy omsien na iemand wat met demensie leef, of bekommerd is oor jou eie geheue, is dit heeltemal natuurlik om te wonder of dit sal help om hierdie speletjies te speel. Hier is wat die navorsing werklik wys, insluitend die bemoedigende dele en die dele wat dit nie is nie.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Hierdie is algemene inligting, nie mediese raad nie. Sien ons
+[mediese vrywaring](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Voorkom breinspeletjies demensie?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Geen breinspeletjie is al bewys om demensie te voorkom nie. Die National Institute on Aging (NIA) raai mense aan om versigtig te wees vir aansprake dat rekenaar- en aanlynspeletjies geheue kan verbeter. Hulle sê daar is nie genoeg bewyse dat enige kommersiële breinoefentoepassing dieselfde uitwerking het as die opleiding wat in kliniese proewe getoets is nie ([NIA oor die voorkoming van Alzheimer se siekte](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Dit beteken nie dat speletjies nutteloos is nie. Dit beteken bloot dat hul waarde lê in plesier, geselskap en roetine, nie daarin om iemand teen demensie te beskerm nie.
 
-## What is "near transfer", and why does it matter?
+## Wat is „nabye oordrag”, en waarom maak dit saak?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Wanneer jy 'n taak oefen, raak jy gewoonlik beter in daardie spesifieke taak. Navorsers noem dit 'n opleidingseffek. Die moeiliker vraag is of die verbetering **oordra** na ander dinge: na soortgelyke take (nabye oordrag) of na die alledaagse lewe, soos om afsprake te onthou of geld te bestuur (verre oordrag).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+'n Belangrike oorsigstudie in 2016 het die navorsing ondersoek wat breinopleidingsmaatskappye as hul beste bewyse voorgehou het. Dit het baie bewyse gevind dat mense verbeter in die take wat hulle geoefen het, minder bewyse dat hulle verbeter in take wat nou daarmee verband hou, en min bewyse dat die opleiding alledaagse denkvaardighede verbeter. Baie van die studies het ook ontwerpfoute gehad wat dit onmoontlik gemaak het om vaste gevolgtrekkings te maak ([Simons en kollegas, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Wat sê oorsigstudies oor rekenaargebaseerde breinopleiding?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane-oorsigte, wat die beste beskikbare kliniese proewe saamvoeg, het gekyk na rekenaargebaseerde opleiding wat minstens 12 weke duur:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Gesonde volwassenes van 65 en ouer:** agt proewe met 1 183 mense. Die gehalte van die bewyse was laag of baie laag. Daar is dalk 'n klein voordeel net ná die opleiding, maar geen duidelike bewyse dat dit blywend is nie ([Cochrane-oorsig, gesonde ouer volwassenes](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Mense met ligte kognitiewe inkorting:** agt proewe met 660 mense. Geen proef het gerapporteer of deelnemers later demensie ontwikkel het nie, en die bewyse was te swak om gevolgtrekkings te maak ([Cochrane-oorsig, ligte kognitiewe inkorting](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Wat het die ACTIVE-proef bevind?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE is 'n groot Amerikaanse studie wat in 1998 begin het met 2 802 volwassenes van 65 en ouer wat onafhanklik gewoon het en nie noemenswaardige geheue- of denkprobleme gehad het nie. Deelnemers is ewekansig toegewys aan een van drie soorte kleingroepopleiding (verwerkingspoed, geheue of redenasie) of aan 'n kontrolegroep sonder kontak. Die opleiding het bestaan uit tot tien sessies oor vyf tot ses weke. Sommige mense wat die meeste sessies voltooi het, is ook ewekansig **opvolgsessies** aangebied sowat een en drie jaar later.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Die spoedopleiding het behels om visuele inligting in al korter oogwinke raak te sien en te verwerk, op 'n vlak wat aangepas het soos mense verbeter het.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+In 2026 het navorsers 2 021 deelnemers oor 'n tydperk van 20 jaar aan hul Medicare-rekords gekoppel ([ACTIVE 20-jaarontleding](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Hier is presies wat hulle bevind het:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Spoedopleiding plus minstens een opvolgsessie:** 'n laer koers van gediagnoseerde demensie as die kontrolegroep (met 'n gevaarratio van 0,75, wat rofweg 'n 25%-laer koers beteken).
+- **Spoedopleiding sonder opvolgsessies:** geen laer koers nie.
+- **Geheue- of redenasie-opleiding:** geen beduidende uitwerking op demensiediagnoses nie.
+- **Elke opleidingsgroep as geheel vergeleke met die kontrolegroep:** 'n neiging na laer koerse, maar nie statisties beduidend nie.
 
-### The limits of this finding
+### Die beperkings van hierdie bevinding
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Dit is van toepassing op **een spesifieke soort begeleide spoedoefening met opvolgsessies**, nie op breinspeletjies oor die algemeen nie.
+- Die beduidende resultaat kom van 'n **subgroep** (mense wat die meeste van die aanvanklike sessies voltooi het en opvolgsessies aangebied is), nie van die hele spoedgroep nie.
+- Demensie is gemeet aan die hand van **diagnosekodes in Medicare-eise**, nie deur elke persoon medies te ondersoek nie. Sowat 'n kwart van die oorspronklike deelnemers is uitgelaat omdat hulle by Medicare Advantage ingeskryf was, wat nie volledige eiserekords het nie.
+- Deelnemers het aan die begin geen beduidende denkprobleme gehad nie. Die resultate sê niks oor speletjies vir mense wat **reeds met demensie leef** nie.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Dit is 'n interessante resultaat wat verdere navorsing verdien. Dit is egter nie 'n bewys dat enige toepassing demensie voorkom nie.
 
-## What did the FTC say about Lumosity?
+## Wat het die FTC oor Lumosity gesê?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+In Januarie 2016 het Lumos Labs, die maker van Lumosity, ingestem om $2 miljoen te betaal om aanklagte van misleidende reklame van die Federal Trade Commission te skik. Die FTC het gesê die maatskappy het sonder voldoende wetenskaplike bewyse beweer dat sy speletjies prestasie by die werk en skool kan verbeter, en ouderdomsverwante agteruitgang, ligte kognitiewe inkorting, demensie en Alzheimer se siekte kan vertraag. Die bevel vereis dat die maatskappy bevoegde en betroubare wetenskaplike bewyse moet hê voordat hulle in die toekoms sulke bewerings maak ([FTC-persverklaring](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Die les vir gesinne: wees skepties oor enige speletjie, toepassing of program wat beloof om die geheue te beskerm of demensie te voorkom.
 
-## Can games help someone who already has dementia?
+## Kan speletjies iemand help wat reeds met demensie leef?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Hulle kan bydra tot 'n goeie dag, en dit maak baie saak. Die benadering wat die beste nagevors is, is **kognitiewe stimulasie**: genotvolle groepaktiwiteite soos besprekings, herinneringe ophaal, woordspeletjies, legkaarte en musiek, gewoonlik in 'n klein groepie onder leiding van 'n fasiliteerder.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+'n Cochrane-oorsig in 2023 van 37 proewe met 2 766 mense met ligte tot matige demensie het bevind ([Cochrane-oorsig van kognitiewe stimulasie](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- 'n **klein, korttermynvoordeel** op denktoetse (bewyse van matige gehalte);
+- **klinies relevante verbeteringe in kommunikasie en sosiale interaksie** (bewyse van hoë gehalte, uit 'n kleiner aantal studies);
+- **effense voordele** vir lewensgehalte, gemoedstoestand en gedrag.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Voordele is meestal gemeet net ná programme van sowat tien weke, en min studies het gekyk of dit blywend was. Kognitiewe stimulasie is 'n gestruktureerde groepsprogram, so hierdie resultate is nie vanselfsprekend van toepassing op iemand wat 'n speletjie stoksielalleen op 'n tablet speel nie.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Die 2024 Lancet-kommissie sê ook aktiwiteitsprogramme is belangrik vir mense wat met demensie leef, om genot en doelgerigtheid te behou ([Lancet-kommissie](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Waarvoor is speletjies werklik goed?
 
-When chosen well, games can offer:
+Wanneer dit goed gekies word, kan speletjies die volgende bied:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Genot.** 'n Aangename halfuur is op sigself die moeite werd.
+- **Verbondenheid.** Om sy aan sy te speel, gee julle iets makliks om te deel wanneer gesels moeilik raak. Sien [hoe om saam te speel](/caregiving/how-to-play-together/).
+- **Roetine.** 'n Bekende aktiwiteit op dieselfde tyd elke dag kan geborgenheid bring.
+- **Selfvertroue.** Aktiwiteite wat pas by wat iemand steeds goed kan doen, laat hulle bekwaam voel, nie getoets nie.
+- **Geselskap.** 'n Prentjie of 'n bekende sêding kan die deur oopmaak vir 'n storie. Probeer [gesprekskaarte](/games/conversation-cards/) of [voltooi die spreekwoord](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Wat om te vermy: aftellers, tellings, wenreekse en enigiets wat soos 'n geheuetoets voel. As die persoon gefrustreerd raak, stop liewer. Om vroeër op te hou, of bloot net stil saam te sit, is 'n goeie uitkoms. Ons gids oor [hoe om toepassings en speletjies te kies](/caregiving/choosing-apps-and-games/) het 'n handige kontrolelys.
 
-## Where Golden Moments fits
+## Waar Golden Moments inpas
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments-speletjies, soos [prentjiepare](/games/picture-pairs/),
+[prentlegkaarte](/games/picture-puzzle/) en
+[grootdruk-woordsoek](/games/word-search/), is gemaak vir genot en
+tyd saam. Hulle het geen horlosie en geen puntetelling nie. Hulle is **nie** 'n behandeling nie, en
+hulle voorkom of vertraag **nie** demensie nie. Ons vertel jou
+dit liewer reguit as om dinge te beloof wat geen speletjie kan waarborg nie.
 
-## Talk with a doctor
+## Praat met 'n dokter
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+As jy bekommerd is oor geheueveranderinge by jouself of iemand na wie jy omsien,
+raadpleeg liewer 'n dokter as om op 'n toepassing staat te maak. 'n Dokter kan soek na behandelbare
+oorsake en die stappe met die beste bewyse bespreek, soos om bloeddruk te beheer
+en gehoor te laat toets. Sien
+[Kan demensie voorkom word?](/brain-health/can-dementia-be-prevented/) vir meer inligting.
+Kry dringende mediese hulp vir skielike verwarring of ander skielike veranderinge.

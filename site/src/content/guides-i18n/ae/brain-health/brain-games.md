@@ -1,33 +1,33 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Manō-ramana vī-manō-stīm apanayeinti? Yaθa cistiš didāiti"
+seoTitle: "Manō-ramana vī-manō-stīm apanayeinti? Cistiš"
+description: "Yaθa cistiš manas-ramana uta vī-manō-stīm paitišmaraiti: ACTIVE uta FTC Lumosity fravaoca, rāzarə vaocat."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Nōit kascit manō-ramano vī-manō-stīm apanayeiti yāvarəta. Kašn-paiti varəzāiti
+  fraēšta aēibyō varəzāiš aojō dadāiti yāiš mašyāka yaona-varəzayante.
+  Aēva cistiš hacā ACTIVE varəza-paitištiyā āsus-varəza aēvacina uta aipi-haxədra
+  haurvaiti ahmāt yat kamnam vī-manō-stīm vi-zāreiti visaiti sarədanąm.
+  Mašyākāibyō yōi vī-manō-stīm dārayeinti, han-jamananąm manō-fravaoxša
+  kasu kam-yāra urvaθaiti dadāiti. Ramana vahišta bavaiti rāmanē uta haca-stīm.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Manas-varəzā-paitišta didāiti mašyāka vahišta bavaiti aēibyō yāiš varəzayante, bā nōit paiti vispō-ayara jīva-stīm."
+  - "Paiti ACTIVE varəza-paitišti, aēva martiyāka yōi āsus-varəzā uta aipi-haxədra karənawan kamnam vī-manō-stīm dārayan visaiti sarədanąm. Āsus-varəzā an-aipi-haxədra uta marən-varəzā nōit aom vīda."
+  - "Sarəda 2016, Lumosity dāiti 2 miliyona dōlara dāitəm arəja-dāvan FTC paiti a-framənō fravaocanąm vī-manō-stīm haurvana-mana."
+  - "Mašyākāibyō yōi kasu yaθa vī-manō-stīm dārayeinti, han-jamanō manō-fravaocana kasum hāta-varəzəm manahē uta dravō-framərəitim haxədra dadāiti."
+  - "Golden Moments ramana asti rāzarē uta haθra-stīm. Nōit asti bišaziya uta nōit apanayeiti ayapō tarəca vī-manō-stīm."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Manō-ramana Alzheimer apanayeinti?"
+    a: "Nōit kascit manō-ramano daθaiti apanayata Alzheimer ayapō anyam vī-manō-stīm. National Institute on Aging vaocaiti nōit gāθwya cistiš asti yat vācarana ramana paiti-bavaiti yaθa cistiš-varəza. Ramana aipi rāmya jīvati-zaman dārayeinti."
+  - q: "Čiš ACTIVE varəza-paitišti vīda paiti āsus-varəzā uta vī-manō-stīm?"
+    a: "2026 cistiš-paitišmarana ACTIVE haca-stīm haθra Medicare sahkā visaiti sarədanąm pascat. Martiyāka yōi āsus-cistiš-varəza uta aēva aipi-haxədra dārayan kamnam vī-manō-stīm dārayan yaθa an-varəza haxədra. Āsus-varəza an-aipi-haxədra uta marən-varəzā nōit vi-ciθram dadāt."
+  - q: "Asti paθana uta ramana vahišta ahmāi yōi vī-manō-stīm dārayeinti?"
+    a: "Bavaiti, yaθa aom narō xšnūtam dārayeiti. Han-jamanō manō-fravaoxša, yōi vacah-ramana, paθana, sraošyā uta fravaocana dārayeiti, kasu kam-yāra urvaθaiti dadāiti manahē uta vahišta haxədra. Xšnūitiš, nōit paitišta-arəja, asti rasta arəθa."
+  - q: "Cim-vat FTC Lumosity arəja-dāvan dāsta?"
+    a: "Sarəda 2016 Federal Trade Commission framaoxta Lumos Labs adāitīm fravaocanam paiti hō ramana karənava, yat aipi tarəca aojō-kahvəm uta vī-manō-stīm apanayeiti an-cistiš-hacā. Ha-stis paiti-avaza 2 miliyona dōlara dāitəm uta rasta cisti-dāitīm dāraya ahmāt parō aipi fravaocanāt."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +58,160 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Manō-ramana vispa-tāra santi, uta pouru mruyeinti aipi yuvanəm manah dārayan.
+Yeze tū aom yōi vī-manō-stīm dārayeiti pairicarahi, ayapō hvahe marəntīm paiti-parsahi,
+xvarəza bavaiti frahinaštiš yezē yaona-varəzayā aojō dāite. Aēva cistiš yaθa asti
+didāiti, haθra aēibyō yāiš spəntō bavaiti uta aēibyō yāiš nōit.
 
-This is general information, not medical advice. See our
+Aēte asti hāmō-cistiš, nōit bišaziya saŋha. Dīda ahmākəm
 [medical disclaimer](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Manō-ramana vī-manō-stīm apanayeinti?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Nōit kascit manō-ramano didāiti apanayata vī-manō-stīm. National Institute on
+Aging (NIA) vaocaiti mašyāka tarō-zbayanta paiti a-framənō fravaocana yat kašn-varəza
+uta daŋranąm ramana marən-aojō dadāiti, uta vaocaiti nōit gāθwya cistiš asti
+yat vācarana ramana aipi aom aojō dadāiti yaθa cistiš-varəza paiti-sāhva
+([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Aētam nōit ramana an-arəθa dadāiti. Arəθa hō asti rāzarē,
+haxədra uta dāityō-jīva, nōit haurvana hacā vī-manō-stīm.
 
-## What is "near transfer", and why does it matter?
+## Čiš asti "nazd-vaza", uta cim aētam mazišta?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Yat tū varəzəm varəzayehi, tū aētam varəzəm vahišta karənōhi. Cistiš-kartārō
+aētam varəza-aojō saŋhənti. Mazista pərəsu asti yezē aēte vahištō **vazaiti**
+anyāiš: nazd-varəzāiš (nazd-vaza) ayapō vispō-ayara jīvayā, yaθa zaman-paitišmarana
+ayapō šaēiti-dāiti (dūr-vaza).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
+Mazišta 2016 paiti-cistiš dīda tā cistaya yā vācaranā ramana-kartārō
+fraēšta cisti-dāitinąm vaocan. Hō vīda pouru cisti-dāitīm yat mašyāka vahišta bavaiti
+paiti aom varəzəm yōi varəzayeinti, kamnam paiti nazd-varəza, uta kamna-cina paiti
+vispō-ayara manō-vīspəm. Pouru aēibyō cistīm aipi a-rasta paitištim dārayan
 ([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Čiš Cochrane paiti-cistiš vaocaiti paiti kašn manō-varəzā?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane paiti-cistiš, yā vahišta cistiš-varəza han-jaideiti, dīda
+kašn-varəza yā 12 yāva dwadasa haptaiθiš yasan:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
+- **Dravō vazra-martiyāka 65 sarədanąm uta frataram:** ašta cistaya haθra 1,183 mašyāka. Cisti-dāiti
+  aska ayapō nītama kata bavat. Kasu aojō bavaiti pascat
+  varəzā, bā nōit paitišta cistiš yat aētam dūr-zaman dārayeiti
   ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
+- **Martiyāka yōi kasu vī-manō-stīm dārayeinti:** ašta cistaya haθra 660 mašyāka. Nōit
+  cistiš framaoxta yezē aēte parō vī-manō-stīm vīdan, uta cisti-dāiti
+  kasu kata bavat cīcim paitištu
   ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Čiš ACTIVE cistiš-varəza vīda?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE asti mazišta US cistiš-varəza yā haca sarəda 1998 haθra 2,802 dravō
+vazra-martiyāka 65 sarədanąm uta frataram yōi hvatō jīvayan uta nōit mazišta
+marən-ayapō-manō pərəsu dārayan. Martiyāka baxta bāvan aēva haca θrayąm
+kasu-han-jamanō varəzā (āsus-cistiš, marəntīm, ayapō xratu-vīcis) ayapō
+an-varəza haxədrāi. Varəza dasa zaman bavat paiti panča ayapō xšvaš haptaiθiš. Kascit
+yōi vispa varəza karənawan aipi hvatō baxta bāvan **aipi-haxədra**
+sarəda aēva uta θri pascat.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Āsus-varəza dārayat dōiθra-cistiš paiti kamna uta kamna zaman,
+paiti arəja yā vahišta bavat yaθa martiyāka varəzayante.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Sarəda 2026, cistiš-kartārō 2,021 mašyāka paiti-haxtan Medicare sahkā visaiti
+sarədanąm ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Aētam asti rāzarə yat aēte vīdan:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Āsus-varəza haθra aēva aipi-haxədra:** kamnam vī-manō-stīm
+  paitišmaran yaθa an-varəza haxədra (hazard ratio 0.75, yat
+  25% kamnam aojō vaocaiti).
+- **Āsus-varəza an-aipi-haxədra:** nōit kamnam aojō.
+- **Marən- ayapō xratu-varəza:** nōit vi-ciθram aojō paiti vī-manō-stīm.
+- **Vispa varəza-haxədra haθra an-varəza haxədra:** kamna
+  vī-stīm dāraya, bā nōit cisti-dāiti vi-ciθra.
 
-### The limits of this finding
+### Aēte cistiš-kāra marəza
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Aētam paiti-bavaiti **aēva dāityō āsus-varəza haθra aipi-haxədra**,
+  nōit vispa manō-ramana.
+- Aētam vi-ciθram vīda haca **kasu-baxta** (martiyāka yōi vispa paoirya
+  varəza karənawan uta aipi-haxədra vīdan), nōit haca vispa āsus-haxədra.
+- Vī-manō-stīm paitišmarta bavaiti **Medicare dāiti-sahkā**, nōit haca
+  hvahe mašyāka didāna. Caθruš-baxta martiyāka nōit paitišmarta bāvan yā
+  Medicare Advantage dārayan, yā an-haurva sahkā dārayeiti.
+- Martiyāka nōit mazišta manō-pərəsu dārayan yaθa paoirya haca-stīm. Aētam
+  nōit fravaocaiti paiti ramana ahmāi **yōi vī-manō-stīm dārayeinti**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Asti vahišta cistiš yā parō paiti-cistīm gərəzaiti. Nōit asti daθāna
+yat kascit kašn-varəza vī-manō-stīm apanayeiti.
 
-## What did the FTC say about Lumosity?
+## Čiš FTC vaocaiti paiti Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Sarəda 2016 Januarius, Lumos Labs, yō Lumosity karənaoiti, paiti-avaza 2 miliyona
+dōlara dāitəm arəja-dāvan FTC paiti adāiti fravaocanąm. FTC framaoxta yat
+hō karənawa vaocaiti, an-cistiš-dāiti, yat ramana vahišta karənōiti
+vərəzē uta dītiyā uta aipi tarəca aojō-kahvəm, kasu vī-manō-stīm, uta Alzheimer.
+Dāta ahmāi dārayeiti rasta cisti-dāitīm paiti parō anya fravaocanāt
+([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Sāhna nmānāibyō: paiti-xšnūte vispa ramana ayapō kašn-varəza yā mruyeiti
+marəntīm haurvaiti ayapō vī-manō-stīm apanayeiti.
 
-## Can games help someone who already has dementia?
+## Ramana aojō dadāiti ahmāi yōi vī-manō-stīm dārayeinti?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Aēte vahištam ayara dārayeinti, yat mazišta arəθa asti. Vahišta-cistiš
+haxədra asti **manō-fravaoxša**: rāmya han-jamanō varəzā yaθa
+fravaocana, parō-ayara paitišmarana, vacah-ramana, paθana uta sraošyā, paiti
+kasu han-jamanō haθra fravaocānē.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
+2023 Cochrane paiti-cistiš haca 37 cistaya haθra 2,766 martiyāka yōi kasu yaθa vī-manō-stīm dārayeinti vīda
 ([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **kasu, kam-zaman vahišta-aojō** paiti manō-paitišta (madəma cisti-dāiti);
+- **cisti-arəθa vahištō-stīm paiti fravaocana uta haxədra-varəza**
+  (bərəjya cisti-dāiti, haca kamna cistaya);
+- **kasu aojō** paiti dravō-jīva, manah-xšnūitiš uta yaona.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Vahišta-aojō paitišmarta bāvan aēva pascat daśa haptaiθiš, uta kamna
+cistaya dīdan yezē aētam dūr-zaman dārayeiti. Manō-fravaoxša asti han-jamanō
+varəza, nōit aēva narō paiti kašn-yantu.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
+2024 Lancet Commission aipi vaocaiti yat varəza asti spənta martiyākāibyō
+yōi vī-manō-stīm dārayeinti, xšnūitīm uta arəθam dārayeiti
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Cim ramana dāityō spənta bavaiti?
 
-When chosen well, games can offer:
+Yat rāstəm vyāsa bāvan, ramana dadāiti:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
+- **Xšnūitiš.** Rāmya nīm-zaman asti spənta hvahe dāitiyā.
+- **Haxədra.** Haθra-varəza aojō dadāiti yat tū rāzarē dārayahi yat
+  fravaocana kahrpa bavaiti. Dīda [how to play together](/caregiving/how-to-play-together/).
+- **Dāityō-jīva.** Hāmō-varəza paiti hāmō zaman vispa ayara rāzarē dadāiti.
+- **Aojō-haza.** Varəza yā aom martiyāka daθāiti yat karənōiti dadāiti
+  aojō, nōit paitišta-pərəsu.
+- **Fravaocana.** Kəhrpa ayapō fraoxta rāzarē vacah fravaocana dadāiti. Karəna
+  [conversation cards](/games/conversation-cards/) ayapō
   [finish the saying](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Cim apanayata: zaman-drājo, arəja, paiti-drājo uta vispa yat marən-paitišta bavaiti.
+Yeze aom narō xšudra bavaiti, aipi-sta. Kamnam yāra, ayapō aēva haθra aštiš,
+vahišta bavaiti. Ahmākəm saŋha paiti
+[choosing apps and games](/caregiving/choosing-apps-and-games/) dārayeiti paiti-zastīm.
 
-## Where Golden Moments fits
+## Yaθa Golden Moments ahmāt haurvaiti
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments ramana, yaθa [picture pairs](/games/picture-pairs/),
+[picture puzzle](/games/picture-puzzle/) uta
+[large-print word search](/games/word-search/), bāvan rāmanē uta
+haθra-zamanē. Nōit zaman uta nōit arəja dārayeinti. Aēte **nōit** asti
+bišaziya, uta aēte **nōit** apanayeinti ayapō tarəca vī-manō-stīm. Vaēm rāstəm
+vaocāma yaθa a-framəna dāitīm fravaoca yā nōit kascit ramano dadāiti.
 
-## Talk with a doctor
+## Fravaoca haθra bišazē
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Yeze tū xšudrəm dārayahi paiti marən-vīcis ahmāi ayapō aom yōi tū pairicarahi,
+dīda bišazəm nōit paiti kašn-ramana dāraya. Bišaz daθāiti
+dravō arəθa uta fravaocaiti haθra cisti-dāitīm vahišta-hacā, yaθa vohu vohuni-stīm
+uta sraoma-dīdīm. Dīda
+[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) fraēšta.
+Yat āsus manō-vīcisa ayapō anya āsus vī-stīm, dāraya āsus bišaziya aojō.

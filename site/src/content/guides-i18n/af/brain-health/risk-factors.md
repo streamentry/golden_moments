@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Demensie-risikofaktore: Die 14 wat die Lancet noem"
+seoTitle: "Demensie-risikofaktore: Die 14 Lancet-faktore"
+description: "Die 14 veranderbare demensie-risikofaktore van die 2024 Lancet-kommissie, per lewensfase, wat navorsing toon en wat jy met ’n dokter kan bespreek."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Die 2024 Lancet-kommissie het 14 moontlik veranderbare demensie-risikofaktore
+  uitgewys: minder skoolopleiding, gehoorverlies, hoë LDL-cholesterol,
+  depressie, kopbeserings, onaktiwiteit, diabetes, rook, hoë bloeddruk,
+  vetsug, oormatige drankgebruik, sosiale isolasie, lugbesoedeling en
+  onbehandelde sigverlies. Saam hou dit verband met sowat 45% van gevalle
+  wêreldwyd, al bied dit geen waarborg vir enige individuele persoon nie.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Die 14 faktore strek oor ’n hele lewe: een in die vroeë lewe, tien op middelleeftyd en drie op latere leeftyd."
+  - "Gehoorverlies en hoë LDL-cholesterol op middelleeftyd hou elk verband met sowat 7% van demensiegevalle wêreldwyd, die grootste aandeel van enige enkele faktor."
+  - "Hierdie persentasies is bevolkingskattings wat oorsaak en gevolg aanneem. Sommige skakels is dalk net deels oorsaaklik."
+  - "Ouderdom en gene, wat niemand kan verander nie, is ook groot risikofaktore. Die verlaging van die 14 risiko’s waarborg nie dat iemand demensie sal vryspring nie."
+  - "Die meeste van die stappe, soos om bloeddruk, gehoor en oë te laat toets, is op ander maniere ook goed vir jou gesondheid en die moeite werd om met ’n dokter te bespreek."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Wat is die 14 veranderbare risikofaktore vir demensie?"
+    a: "Die 2024 Lancet-kommissie het minder skoolopleiding, gehoorverlies, hoë LDL-cholesterol, depressie, traumatiese breinbeserings, fisieke onaktiwiteit, diabetes, rook, hoë bloeddruk, vetsug, oormatige drankgebruik, sosiale isolasie, lugbesoedeling en onbehandelde sigverlies benoem. Saam hou hulle verband met byna die helfte van alle demensiegevalle wêreldwyd."
+  - q: "Watter demensie-risikofaktor maak die meeste saak?"
+    a: "Oor die wêreldbevolking heen skat die Kommissie dat gehoorverlies en hoë LDL-cholesterol op middelleeftyd elk met sowat 7% van die gevalle verband hou, gevolg deur minder skoolopleiding en sosiale isolasie teen sowat 5% elk. Watter faktore vir ’n enkele persoon die belangrikste is, hang van hul eie gesondheid af; ’n dokter is dus die beste gids."
+  - q: "Is daar twee nuwe risikofaktore in 2024 bygevoeg?"
+    a: "Ja. Die 2024-verslag het hoë LDL-cholesterol („slegte” cholesterol) op middelleeftyd en onbehandelde sigverlies op latere leeftyd by die 12 faktore uit 2020 gevoeg. Die Kommissie bring hulle met onderskeidelik sowat 7% en 2% van gevalle in verband."
+  - q: "Is ouderdom ’n veranderbare risikofaktor?"
+    a: "Nee. Ouderdom is die grootste bekende risikofaktor vir Alzheimersiekte, en dit kan nie verander word nie. Gene speel ook ’n rol. Die 14 faktore op hierdie blad is dié wat navorsing aandui moontlik verander kan word."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,126 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+’n Risikofaktor is iets wat verband hou met ’n groter kans om ’n toestand te
+ontwikkel. Dit is nie in elke geval ’n oorsaak nie, en as jy een het, beteken
+dit nie dat jy demensie sal ontwikkel nie. Hierdie blad lys die 14
+demensie-risikofaktore wat volgens die 2024 Lancet-kommissie moontlik verander
+kan word, waarmee navorsing dit verbind, en wat jy met ’n dokter kan bespreek.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Vir die breër prentjie, insluitend wat groot kliniese toetse bevind het, begin
+by [Kan demensie voorkom word? Wat die navorsing sê](/brain-health/can-dementia-be-prevented/).
+Hierdie is algemene inligting en nie mediese advies nie; sien ons
+[mediese vrywaring](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Wat is die 14 risikofaktore vir demensie?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+Die [2024 Lancet-kommissie](https://doi.org/10.1016/S0140-6736(24)01296-0),
+saamgestel deur 27 demensienavorsers, het beraam dat 14 moontlik veranderbare
+risikofaktore saam verantwoordelik is vir sowat 45% van demensiegevalle
+wêreldwyd. Die persentasie vir elke faktor hieronder is die Kommissie se
+skatting van die aandeel van wêreldwye gevalle wat daarmee verband hou, afgerond
+tot heelgetalle. Die syfers oorvleuel omdat baie mense verskeie risiko’s
+gelyktydig het, en daarom tel dit op na 45% en nie meer nie.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Risikofaktor | Lewensfase | Aandeel van gevalle | Wat navorsing toon | Wat jy kan doen |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Minder skoolopleiding | Vroeë lewe | 5% | Minder jare van formele skoolopleiding hou verband met ’n hoër risiko. Om op middelleeftyd verstandelik aktief te bly, blyk ook beskermend te wees, selfs vir mense met min skoolopleiding. | Hou aan leer en bly op enige ouderdom verstandelik besig: lees, stokperdjies, kursusse, en speletjies saam met ander mense. |
+| Gehoorverlies | Middelleeftyd | 7% | Onbehandelde gehoorverlies hou verband met ’n hoër risiko. Studies wat mense oor tyd volg, verbind die gebruik van gehoorapparate met ’n laer risiko. | Laat toets jou gehoor. Vra of gehoorapparate kan help, en dra hulle as dit aanbeveel word. Beskerm jou ore teen harde geraas. |
+| Hoë LDL-cholesterol | Middelleeftyd (vanaf sowat 40) | 7% | Hoë LDL-cholesterol („slegte” cholesterol) op middelleeftyd hou verband met ’n hoër risiko. Waarnemingstudies verbind die gebruik van statiene met ’n laer risiko, maar toetse op latere leeftyd het dit nie getoon nie. | Vra jou dokter of jou cholesterol getoets moet word en wat, indien enigiets, daaraan gedoen moet word. |
+| Depressie | Middelleeftyd | 3% | Depressie hou verband met ’n hoër risiko. Op latere leeftyd kan depressie ook ’n vroeë teken van demensie wees. | Vertel vir ’n dokter as ’n neerslagtige bui of verlies aan belangstelling langer as twee weke aanhou. Depressie is behandelbaar. |
+| Traumatiese breinbesering | Middelleeftyd | 3% | ’n Kopbesering op enige ouderdom en van enige aard, insluitend kontaksport, hou verband met ’n hoër risiko. | Dra ’n valhelm vir fietsry en kontaksport. Vra oor hoe om val te voorkom. Rus en laat ondersoek jou ná ’n kopbesering. |
+| Fisieke onaktiwiteit | Middelleeftyd | 2% | Mense wat oefen en sport beoefen, is minder geneig om demensie te ontwikkel. Bewyse uit kliniese toetse is steeds beperk. | Vra watter aktiwiteite veilig is vir jou, en vind iets wat jy geniet. Sien ons [oefengids](/brain-health/exercise/). |
+| Diabetes | Middelleeftyd | 2% | Diabetes, veral wanneer dit op middelleeftyd begin of langer duur, hou verband met ’n hoër risiko. | Laat toets jou bloedsuiker. As jy diabetes het, werk saam met jou gesondheidspan om dit veilig te bestuur. |
+| Rook | Middelleeftyd | 2% | Rook hou verband met ’n hoër risiko. Studies bevind dat oud-rokers nie dieselfde verhoogde risiko dra as mense wat aanhou rook nie. | Vra oor ondersteuning om op te hou. Dit is die moeite werd om op enige ouderdom op te hou. |
+| Hoë bloeddruk | Middelleeftyd | 2% | Hoë bloeddruk op middelleeftyd hou verband met ’n hoër risiko. Toetse met bloeddrukmedikasie dui op ’n effens laer risiko vir demensie of kognitiewe inkorting. | Ken jou syfers. Die Kommissie stel voor dat die boonste getal vanaf ongeveer 40-jarige ouderdom 130 of laer moet wees; vra watter teiken die beste by jou pas. |
+| Vetsug | Middelleeftyd | 1% | Vetsug op middelleeftyd hou verband met ’n hoër risiko, en dit verhoog ook die risiko vir diabetes. | Vra jou dokter oor ’n gesonde gewig vir jou. Ouer volwassenes moenie sonder mediese advies op ’n dieet gaan om gewig te verloor nie. |
+| Oormatige drankgebruik | Middelleeftyd | 1% | Swaar drinkery hou verband met ’n hoër risiko. Om minder te drink as jy baie gedrink het, hou verband met ’n laer risiko. | Vra wat ’n veilige perk vir jou is, veral saam met jou medisyne. |
+| Sosiale isolasie | Latere leeftyd | 5% | Min sosiale kontak hou verband met ’n hoër risiko. | Bly in aanraking met mense op maniere wat jy geniet. Sien ons [gids oor sosiale kontak](/brain-health/social-connection/). |
+| Lugbesoedeling | Latere leeftyd | 3% | Om in gebiede met meer lugbesoedeling te woon, hou verband met ’n hoër risiko. Studies verbind skoner lug met ’n laer risiko. | Dit is meestal ’n saak van openbare beleid. Hou plaaslike luggehalte-waarskuwings dop en beperk tyd buite op baie besoedelde dae. |
+| Onbehandelde sigverlies | Latere leeftyd | 2% | Ongekorrigeerde sigprobleme hou verband met ’n hoër risiko. Een groot Amerikaanse studie het katarakoperasies met ’n laer risiko verbind. | Laat toets jou oë gereeld. Vra of probleme soos katarakte behandel kan word. |
 
-## How should I read these percentages?
+## Hoe moet ek hierdie persentasies verstaan?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Sorgvuldig. Die Kommissie se eie verslag beklemtoon ’n paar punte wat belangrik
+is om in gedagte te hou:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Hulle beskryf bevolkings, nie individue nie.** University College London se
+  [opsomming van die verslag](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  wys daarop dat die vermindering van risiko oor ’n hele bevolking werk en nie
+  waarborg dat enige individuele persoon demensie sal vryspring nie.
+- **Hulle neem oorsaak en gevolg aan.** Die skrywers het slegs faktore met
+  oortuigende bewyse ingesluit, maar sê sommige skakels is dalk net deels
+  oorsaaklik.
+- **Dit is wêreldwye syfers.** Die meeste data kom van hoë-inkomstelande, en die
+  werklike aandeel vir enige spesifieke land of gemeenskap sal verskil.
+- **Klein persentasies kan steeds baie saak maak.** ’n Faktor wat met 2% van
+  gevalle wêreldwyd verband hou, raak steeds ’n baie groot getal mense.
 
-## Which risk factors were added in 2024?
+## Watter risikofaktore is in 2024 bygevoeg?
 
-The 2024 report added two factors to the 12 named in 2020:
+Die 2024-verslag het twee faktore by die 12 wat in 2020 benoem is, gevoeg:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Hoë LDL-cholesterol op middelleeftyd**, wat met sowat 7% van gevalle verband hou.
+- **Onbehandelde sigverlies op latere leeftyd**, wat met sowat 2% van gevalle verband hou.
 
-## What risk factors cannot be changed?
+## Watter risikofaktore kan nie verander word nie?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Die National Institute on Aging sê
+[ouderdom is die grootste bekende risikofaktor vir Alzheimer se siekte](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+en niemand kan dit verander nie. Gene speel ook ’n rol; een bekende geen wat die
+risiko vir Alzheimer se siekte beïnvloed, word APOE genoem. Die NIA voeg by dat
+wetenskaplikes nog nie ten volle verstaan wat Alzheimer se siekte by die meeste
+mense veroorsaak nie. Die Lancet-kommissie merk op dat die moontlik veranderbare
+risiko’s verlaag kan word ongeag iemand se genetiese risiko.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Omdat ouderdom en gene so ’n groot rol speel, ontwikkel baie mense wat nie een
+van die 14 risikofaktore het nie, steeds demensie. Dit is niemand se skuld nie.
 
-## What does the trial evidence say about changing these risks?
+## Wat sê die navorsingstoetse oor die verandering van hierdie risiko’s?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Om ’n risikofaktor met demensie te verbind, is nie dieselfde as om te bewys dat
+die verandering daarvan die risiko vir demensie verlaag nie. ’n Paar voorbeelde
+van waar die bewyse uit toetse tans staan:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Bloeddruk.** In die SPRINT MIND-toets het ’n laer bloeddrukteiken ligte
+  kognitiewe inkorting beduidend verminder. Dit het waarskynlike demensie nie
+  beduidend verminder nie, hoewel die toets dalk te klein was om dit te wys
+  ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Gehoorapparate.** Die Lancet-kommissie beskryf ’n driejaartoets met
+  gehoorapparate wat geen algehele uitwerking op denkvermoë gevind het nie, maar
+  wel ’n voordeel getoon het in ’n subgroep mense met ’n hoër risiko. Studies
+  wat mense oor tyd volg, verbind die gebruik van gehoorapparate met ’n laer
+  risiko. Ons [gehoorgids](/brain-health/hearing/) bevat meer inligting.
+- **Fisieke aktiwiteit.** Die National Institute on Aging sê daar is nog nie
+  genoeg bewyse uit kliniese toetse om tot die slotsom te kom dat oefening
+  ligte kognitiewe inkorting of Alzheimer se siekte kan voorkom of vertraag
+  nie, hoewel sommige studies daarop dui dat dit kan help met
+  ouderdomsverwante agteruitgang
+  ([NIA oor die voorkoming van Alzheimer se siekte](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Lang toetse wat wag tot demensie ontwikkel, neem baie tyd en is duur. Vir baie
+faktore sal die beste bewyse dus steeds kom van studies wat mense oor baie jare
+volg. Daardie bewyse is nuttig, maar dit is swakker as dié van ’n kliniese toets.
 
-## What about sleep and diet?
+## Wat van slaap en dieet?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Die Kommissie het slaap en dieet ondersoek, maar dit nie by die lys gevoeg nie
+omdat die bewyse nie sterk of konsekwent genoeg was nie. Ons gidse oor
+[slaap](/brain-health/sleep/) en [dieet](/brain-health/diet/) verduidelik wat
+bekend is.
 
-## Talk with a doctor
+## Gesels met ’n dokter
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+’n Jaarlikse ondersoek is ’n goeie geleentheid om hierdie onderwerpe aan te
+roer. Jy kan hierdie lys saamneem en vra:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Wat is my bloeddruk-, bloedsuiker- en cholesterolwaardes, en het enige daarvan
+  aandag nodig?
+- Behoort ek my gehoor en oë te laat toets?
+- Is die aktiwiteite wat ek doen veilig en voldoende vir my?
+- Kan enige van my medisyne my geheue of denke beïnvloed?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Voordat jy jou medisyne, dieet, vasroetine, oefening of aanvullings verander,
+praat eers met ’n dokter. As jy of iemand vir wie jy sorg skielik verward raak,
+swakheid aan die een kant van die liggaam ervaar, of sukkel om te praat, skakel
+dadelik 112.

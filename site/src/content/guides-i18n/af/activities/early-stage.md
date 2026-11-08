@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Aktiwiteite vir vroeëstadium-demensie"
+seoTitle: "Vroeëstadium-demensie aktiwiteite: Idees wat pas"
+description: "Idees vir vroeëstadium-demensie: stokperdjies, speletjies, uitstappies en saam beplan, met klein aanpassings wat dinge lekker en selfstandig hou."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  In die vroeë stadium van demensie kan die meeste mense steeds doen wat hulle
+  geniet: stokperdjies, kaart- en bordspeletjies, kook, tuinmaak, stap, klubs,
+  geloofslewe en vrywilligerswerk. Die belangrikste veranderinge is kleiner
+  groepe, korter uitstappies, eenvoudige geskrewe planne en 'n maat naby. Vra
+  die persoon watter hulp hulle wil hê, en laat hulle die leiding neem.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Die meeste mense in die vroeë stadium leef redelik onafhanklik. Aktiwiteite moet gewoonlik net aangepas word, nie vervang word nie."
+  - "Vra die persoon watter ondersteuning hulle verkies, en spreek 'n eenvoudige teken af vir wanneer hulp welkom is."
+  - "Kleiner groepe, stiller tye en korter uitstappies maak dikwels 'n groot verskil."
+  - "Dit is 'n goeie tyd vir die persoon om projekte oor hul eie lewe te lei, soos 'n dagboek of lewensverhaalboek."
+  - "Kies speletjies vir genot. Los enigiets wat soos 'n toets begin voel."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Watter aktiwiteite is goed vir vroeëstadium-demensie?"
+    a: "Gewoonlik dieselfde dinge wat die persoon reeds geniet: kaarte, bordspeletjies, kook, tuinmaak, stap, musiek, godsdiensaktiwiteite, klubs en vrywilligerswerk. Jy sal dit dalk korter, stiller of eenvoudiger moet maak. 'n Dagboek hou, briewe skryf en 'n lewensverhaalboek maak pas ook baie goed by hierdie stadium."
+  - q: "Hoe kan ek help sonder om oor te neem?"
+    a: "Vra watter soort hulp die persoon wil hê, en hoor gereeld hoe dit gaan. Spreek 'n frase of 'n kopknik af wat beteken dit is reg om in te tree, byvoorbeeld wanneer 'n woord of naam nie wil kom nie. As daar geen veiligheidsrisiko is nie, laat hulle dit op hul eie manier doen, selfs al vat dit langer."
+  - q: "Behoort iemand met vroeë demensie nuwe aktiwiteite te probeer?"
+    a: "Ja, as hulle wil. Bekende stokperdjies is gewoonlik die maklikste, maar baie mense geniet iets nuuts, soos 'n demensievriendelike stapgroep, 'n kunsklas of 'n sanggroep. Probeer dit een keer sonder druk en kyk hoe dit voel."
+  - q: "Is breinoefening-toepassings die moeite werd in die vroeë stadium?"
+    a: "Sommige mense geniet raaisels en woordspeletjies, en daardie genot is rede genoeg. Daar is nog nie bewys dat enige toepassing of speletjie demensie behandel, vertraag of stop nie. As 'n speletjie stres veroorsaak of die persoon laat voel hulle misluk, bêre dit liewer."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+In die vroeë stadium van demensie leef baie mense nog baie soos vantevore. Hulle werk dalk nog, doen vrywilligerswerk, kuier by vriende en behartig self die grootste deel van hul dag. Aktiwiteite hoef gewoonlik nie vervang te word nie; hulle benodig net 'n paar aanpassings sodat dit lekker bly. Jou rol is nader aan dié van 'n maat as 'n versorger: iemand wat ondersteun, saam beplan en slegs intree wanneer gevra word.
 
-## What activities are good in early-stage dementia?
+## Watter aktiwiteite is goed in vroeëstadium-demensie?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Die beste aktiwiteite in die vroeë stadium is gewoonlik dié waarvoor die persoon reeds lief is, net 'n bietjie makliker gemaak. Die [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) noem idees soos kaart- en bordspeletjies, woordsoekers, stap, dans, tuinmaak, blommerangskikking, stories vertel, verf, musiek, 'n dagboek hou, briewe skryf, plakboeke maak, kook en vakansietradisies.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Wat verander, is dikwels die omgewing en nie die aktiwiteit self nie. Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) merk op dat mense in die vroeë stadium dalk begin terugtrek van dinge wat hulle vroeër geniet het, en gee die voorbeeld van iemand wat oorweldig voel by 'n groot byeenkoms maar baie beter vaar in 'n klein groepie. Praat openlik oor wat moeiliker voel, en pas dinge saam aan.
 
-## Ask first, and agree on how to help
+## Vra eers, en spreek af hoe om te help
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+Die [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) stel 'n paar gewoontes voor wat ook op aktiwiteite van toepassing is:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Vra reguit.** "Wat sal die boekklub vir jou makliker maak?" lewer 'n beter antwoord op as om te raai.
+- **Glo dat hulle kan.** As daar geen veiligheidsrisiko is nie, laat die persoon probeer, en gee aanmoediging eerder as om oor te neem.
+- **Spreek 'n teken af.** Kies 'n frase of 'n kopknik wat beteken "jy mag maar help," byvoorbeeld wanneer 'n naam nie dadelik wil kom tydens 'n kaartspeletjie nie.
+- **Hoor gereeld hoe dit gaan.** Vra of die hoeveelheid hulp reg voel, te veel is of te min.
 
-## Activity ideas for the early stage
+## Aktiwiteitsidees vir die vroeë stadium
 
-### Keep up roles and hobbies
+### Behou rolle en stokperdjies
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Behou 'n gereelde verbintenis.** 'n Weeklikse vrywilligerbeurt, koor of klub gee vorm aan die week. As dit stres veroorsaak, pas 'n korter of rustiger rol dalk beter.
+- **Beplan maaltye saam.** As kruideniersinkopies frustrerend geword het, stel die Alzheimer's Association voor om die persoon eerder te vra om te help om die week se spyskaart te beplan en die lysie te skryf.
+- **Kook en bak.** Volg saam 'n gunstelingresep. Pak die bestanddele in volgorde uit voor julle begin, sodat die stappe duidelik sigbaar is.
+- **Werk in die tuin.** Beplan 'n bedding, kies saadjies of plante en doen die werk saam. 'n Geskrewe lysie van die week se tuintake help baie.
+- **Hou aan met handwerk.** Houtwerk, naaldwerk, breiwerk of modelbou kan voortgaan met eenvoudiger patrone en goeie beligting.
 
-### Games for enjoyment
+### Speletjies vir genot
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Speel kaart- en bordspeletjies.** Bekende speletjies is die maklikste. Speel in spanne sodat niemand vasgevra voel nie, en hou die telling losweg of glad nie by nie.
+- **Probeer 'n grootdruk-woordsoeker.** Ons [word search](/games/word-search/) kan op die skerm gespeel word of uitgedruk word vir 'n stil oomblik.
+- **Bou legkaarte.** Kies 'n aantal stukke wat ontspannend voel, nie uitdagend nie. [Picture puzzle](/games/picture-puzzle/) is 'n kort weergawe op die skerm, en ons gids oor [puzzles for dementia](/activities/puzzles/) verduidelik hoe om een te kies.
+- **Doen vasvrae vir die pret.** Sommige mense geniet 'n span-vasvra-aand terdeë. As dit soos 'n toets begin voel, kies liewer iets anders, of probeer ons [easy trivia questions](/activities/trivia/), wat met antwoordkeuses en sonder telling kom.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Speletjies is hier net vir die plesier. Daar is nog nie bewys dat enige speletjie demensie behandel of vertraag nie; lees meer in [brain games: what the research says](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Skryf, dink na en bewaar herinneringe
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Hou 'n dagboek.** Die Alzheimer's Association beveel die hou van 'n dagboek aan as een manier om gevoelens ná 'n diagnose te verwerk. 'n Paar reëls per dag is heeltemal genoeg.
+- **Lei 'n lewensverhaalboek.** Die vroeë stadium is 'n goeie tyd vir die persoon om hul eie foto's te kies en self die stories daaragter neer te skryf of te dikteer. Kyk na [reminiscence activities](/activities/reminiscence/).
+- **Skryf briewe.** 'n Brief aan 'n kleinkind, 'n ou vriend of 'n voormalige kollega kan vir albei kante baie betekenisvol wees.
+- **Gesels oor foto's.** [Photo pairs](/games/photo-pairs/) verander gesinsfoto's in 'n rustige pasmaakspeletjie, en [conversation cards](/games/conversation-cards/) bied maklike wegspringplekke vir 'n geselsie.
 
-### Go out and move
+### Gaan uit en beweeg
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) stel voor om met bekende uitstappies voort te gaan so lank as wat julle albei gemaklik daarmee is. Beplan dit vir die persoon se beste tyd van die dag en keer dat dit te lank aanhou.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Kort kulturele uitstappies.** 'n Museum, 'n middagvertoning of 'n kunsuitstalling, verkieslik op 'n stiller tyd.
+- **Swem.** Die NIA stel voor om 'n swembad gedurende 'n stil tyd van die dag te besoek.
+- **Stapgroepe en dansklasse.** Die [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) noem dans, tai chi, joga, swem en stapgroepe, en demensievriendelike sessies waar dit beskikbaar is.
+- **Sanggroepe en geheuekafees.** Rustige groepe waar mense wat met demensie leef en hul maats ander in dieselfde situasie kan ontmoet.
 
-## Small changes that keep activities enjoyable
+## Klein veranderings wat aktiwiteite lekker hou
 
-| If this is getting harder | Try this |
+| As dit moeiliker word | Probeer dit |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Besige of lawaaierige plekke | Gaan op stil tye, kies kleiner groepe, sit aan die kant van die vertrek |
+| Om nuwe name te onthou | Stel mense elke keer op hul naam voor; vra groepe om naambordjies te dra |
+| Om meerstap-planne te volg | Skryf die stappe neer, of pak alles eers in volgorde uit |
+| Moeg word | Korter uitstappies, 'n ruspose daarna, niks anders vir daardie dag beplan nie |
+| Om by te hou in 'n speletjie | Speel in spanne, vereenvoudig die reëls, of moenie telling hou nie |
+| Om woorde te vind | Gee tyd; bied slegs 'n woord aan as julle afgesproke teken dit aandui |
 
-## When to slow down
+## Wanneer om dinge stadiger te vat
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Hou op met 'n aktiwiteit of verander dit wanneer dit meer stres as plesier bring. Herhaalde frustrasie, die vermyding van 'n stokperdjie of om te sê "ek kan net nie meer nie" verdien 'n sagte gesprek, nie druk nie. Dikwels is die oplossing 'n kleiner weergawe van dieselfde ding. Wanneer die persoon meer hulp nodig het om te begin en stappe te volg, pas die idees in [middle-stage activities](/activities/middle-stage/) dalk beter. Vir meer oor ondersteunende gesprekke, kyk na [communication tips](/caregiving/communication-tips/), en vir nog baie idees, kyk na [101 activities](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Maats het ook ondersteuning nodig. Die vroeë stadium is 'n goeie tyd om jou eie ondersteuningsnetwerk op te bou; kyk na [caregiver self-care](/caregiving/caregiver-self-care/).

@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Piyryn jalloo",
+    "seoTitle": "Gamman Co-reggyrtys son Dementia: Piyryn Jalloo",
+    "h1": "Piyryn Jalloo: Gamman Co-reggyrtys Mial",
+    "description": "Gamman co-reggyrtys mial as nastee son sleih ta beaghey lesh dementia. Ta jallooyn mooarey tannaghtyn ry-akin, cha nel oorydderey ny skoor ayn, as ta shiu reih eddyr 4 as 12 leac.",
+    "short": "Fow y daa yalloo ta gollrish y cheilley. Foddee ny jallooyn tannaghtyn ry-akin.",
+    "players": "1 ny 2 phersoon, lhiattee ry-lhiattee",
+    "intro": "Broo er jalloo, as eisht broo er y fer ta gollrish. Ta ny jallooyn tannaghtyn ry-akin dy cadjin, myr shen cha nel feme erbee ayn dy chooinaghtyn nhee erbee. Tra ta daa yalloo goll ry-cheilley, t'ad geddyn oirr airh as cowrey kiart.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Reih cre whilleen leac lhisagh y ve ayn. Ta kiare leacyn nyn ynnyd kiune dy hoshee.",
+      "Broo er jalloo erbee. T'eh geddyn oirr airh.",
+      "Broo er y jalloo ta gollrish. Ta'n piyr tannaghtyn ry-cheilley marish cowrey kiart.",
+      "My ta'n daa yalloo anchasley, cha nel nhee erbee olk taghyrt. Broo reesht tra ta shiu aarloo.",
+      "Lhig da \"Jallooyn follit\" ve er tra ta shiu nyn ndeees carrey lesh y chummey cadjin er nyn oaieyn sheese."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Enmys-jee ny jallooyn magh dy ard ry-cheilley as coloayrt my nyn gione: \"Cappan tey jiarg. Vel shiu goaill bainney ayns nyn dey?\"",
+      "Lhig da'n peiagh ta shiu cur kiarail da broo er ny jallooyn, eer my t'eh goaill tammylt. Pointeil ayns ynnyd jeh broo er nyn son.",
+      "Tannee marish kiare leacyn choud's t'eh maynrey. She reih t'ayn dy ghoaill tooilley leacyn, cha nel eh rieau ny cheim dy roshtyn.",
+      "Cur jerrey er choud's t'eh foast taitnyssagh. Ta un ghamman ny ymmyrch slane hene."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vel oorydderey ny skoor ayn?",
+        "a": "Cha nel. Cha nel clag, skoor, earrooder scughey ny cailjyn ayn. Foddee shiu scuirr ec traa erbee, as ta scuirr lieh-vollagh ny aght feer vie dy chur jerrey er."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Cre'n fa ta ny jallooyn tannaghtyn er nyn oaieyn seose?",
+        "a": "Lesh freayll ny jallooyn ry-akin, ta'n gamman bentyn rish jeeaghyn as co-reggyrt ayns ynnyd jeh cooinaghtyn. S'kiuney lesh ram sleih eh shoh. Foddee shiu caghlaa dys jallooyn follit lesh un vroo my sailliu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vel eh nastee, as vel feme aym er recortys?",
+        "a": "Ta, t'eh nastee, as cha nel coontys, recortys ny laadey neose ry-laccal. T'eh obbraghey ayns y vrowser eddyr-vwaill er chellvane, claare-screeuee ny co-earrooder."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Vod mayd jannoo ymmyd jeh caslyssyn-shoilshey y lught-thie ain hene?",
+        "a": "Foddee. Jean prowaltys lesh Photo pairs, ta lhiggey diu reih caslyssyn-shoilshey voish y ghreie eu. Ta ny caslyssyn-shoilshey tannaghtyn ayns y vrowser eu as cha nel ad goll er laadey seose."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Fow y fer cheddin",
+    "seoTitle": "Fow y Jalloo Cheddin: Gamman Aashagh son Dementia",
+    "h1": "Fow y Jalloo Cheddin",
+    "description": "Un yalloo ec y vullagh, daa dys kiare heese. Broo er y fer ta gollrish. Gamman jalloo kiune as nastee son sleih ta beaghey lesh dementia, gyn oorydderey.",
+    "short": "Jeeagh er y jalloo ec y vullagh as broo er y fer cheddin heese.",
+    "players": "1 ny 2 phersoon",
+    "intro": "Ta un yalloo ny hoie ec mullagh y scaailan. Fo, ta daa, tree ny kiare jallooyn. Broo er y fer ta gollrish. She un reih aashagh ec un traa t'ayn, marish ram traa dy choloayrt.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Reih daa, tree ny kiare jallooyn dy reih voue. She daa y fer s'aashagh.",
+      "Jeeagh-jee er y jalloo ec y vullagh ry-cheilley.",
+      "Broo er y jalloo cheddin heese. T'eh er ny chowraghey lesh cowrey kiart as kuse dy ocklyn caarjoil.",
+      "My vees brooit er jalloo elley, cha nel y gamman agh cur ennym er as fuirraghtyn. Gow-jee nyn draa.",
+      "Broo er \"Y nah yalloo\" tra ta shiu aarloo son fer elley."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Coloayrt-jee mychione dagh jalloo roish reih: daaghyn, cummaghyn, raad dy vodbar fakin eh.",
+      "Cha nel daa reih \"ro aashagh\". She taitnys y dean, cha nel doilleeid.",
+      "My ta broo doillee, foddee y peiagh pointeil as foddee shiuish broo er nyn son."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vel oorydderey ny skoor ayn?",
+        "a": "Cha nel. Cha nel clag, skoor, earrooder scughey ny cailjyn ayn. Foddee shiu scuirr ec traa erbee, as ta scuirr lieh-vollagh ny aght feer vie dy chur jerrey er."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Cre ta taghyrt my vees brooit er y jalloo neuchiart?",
+        "a": "Cha nel nhee erbee neuhaitnyssagh taghyrt. Cha nel tharmane, crosh yiarg ny craa ayn. Ta'n gamman cur ennym er y jalloo va brooit as fuirraghtyn rish y nah vroo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vel eh nastee, as vel feme aym er recortys?",
+        "a": "Ta, t'eh nastee, as cha nel coontys, recortys ny laadey neose ry-laccal. T'eh obbraghey ayns y vrowser eddyr-vwaill er chellvane, claare-screeuee ny co-earrooder."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Co-reggyrt scaadoo",
+    "seoTitle": "Gamman Co-reggyrt Scaadoo son Dementia: Nastee er-voggyl",
+    "h1": "Co-reggyrt Scaadoo: Gamman Jalloo Mial",
+    "description": "Scaadoo doo ec y vullagh, daa dys kiare jallooyn heese. Broo er y jalloo ta jannoo y scaadoo. Gamman co-reggyrt scaadoo kiune as nastee son dementia, gyn oorydderey.",
+    "short": "Jeeagh er y scaadoo as broo er y jalloo ta jannoo eh.",
+    "players": "1 ny 2 phersoon",
+    "intro": "Ta co-reggyrt scaadoo ny obbyr chadjin voish duillagyn obbyr clouit, agh ayns shoh marish jallooyn mooarey as veg dy chlou. Ta scaadoo bog ny hoie ec mullagh y scaailan as daa, tree ny kiare jallooyn fuirraghtyn heese. Broo er y fer ta jannoo y scaadoo. T'eh aashagh dy choloayrt mychione cummaghyn myr roar, scaath-fliaghee ny cappan tey chammah.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Reih daa, tree ny kiare jallooyn dy reih voue. She daa y fer s'aashagh.",
+      "Jeeagh-jee er y scaadoo ry-cheilley. Cre'n cummey t'er? Vel eh ard ny cruinn?",
+      "Broo er y jalloo ta jannoo y scaadoo. Ta'n ennym echey ry-akin fo'n scaadoo.",
+      "My vees brooit er jalloo elley, cha nel y gamman agh cur ennym er as fuirraghtyn. Gow-jee nyn draa.",
+      "Broo er \"Y nah scaadoo\" tra ta shiu aarloo son fer elley."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Lhiant-jee rish oirr y scaadoo lesh mair as coloayrt-jee mychione y chummey.",
+      "My ta ny scaadooghyn doillee jiu, caghlaa dys Fow y fer cheddin, raad ta ny jallooyn cosoylagh.",
+      "Coloayrt-jee mychione y jalloo lurg da v'er ny feddyn: \"Va scaath-fliaghee gollrish shen ain hene.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vel oorydderey ny skoor ayn?",
+        "a": "Cha nel. Cha nel clag, skoor, earrooder scughey ny cailjyn ayn. Foddee shiu scuirr ec traa erbee, as ta scuirr lieh-vollagh ny aght feer vie dy chur jerrey er."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Vel cormaghey scaaghyn mie da sleih ta beaghey lesh dementia?",
+        "a": "Foddee eh ve ny obbyr haitnyssagh, aashagh da kuse dy leih, ayns ny chied cheimyn er lheh. Ta cummaghyn ny sassey dy enn na focklyn. T'eh son taitnys as coloayrtys, cha nel eh ny phrowaltys, as cha nel eh lheeys ny moallaghey dementia. My t'eh cur corree erbee er peiagh erbee, prow Fow y fer cheddin ny jeeagh er jallooyn ry-cheilley dy aashagh."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Cre ta taghyrt my vees crig er y drogh yalloo?",
+        "a": "Veg neuhaitnyssagh. Cha nel sheeaner, crosh ruy ny craa erbee ayn. Ta'n cloie cur ennym er y jalloo va criggit er as fuirraghtyn rish y nah chrig."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vel eh nastee, as vel feme aym er fo-screeu?",
+        "a": "Ta, t'eh nastee, as cha nel coontys, fo-screeu ny laadey neose erbee ayn. T'eh gobbraghey ayns y jeeagheyder-moghey er çhellvane, claare-screeuee ny co-earrooder."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Sortey ry-cheilley",
+    "seoTitle": "Cloie Sortey son Dementia: Sortey Ry-cheilley",
+    "h1": "Sortey Ry-cheilley: Obbyr Sortey Jallooyn",
+    "description": "Crig er jalloo, eisht crig er y vlastag t'eh bentyn rish: coagyrey ny garey, messyn ny beiyn. Obbyr hortey chiune, nastee son sleih ta beaghey lesh dementia.",
+    "short": "Cur dagh jalloo 'sy vlastag echey: coagyrey ny garey, as ny smoo.",
+    "players": "1 ny 2 phersoon",
+    "intro": "Ta sortey ny obbyr chadjin, liauyr-chliaghtit gagh laa, gollrish cur stoo-shappee ersooyl ny kiangley oashyryn ayns piyryn. Crig er jalloo, eisht crig er y vlastag raad t'eh bentyn rish. Cha nel siyr erbee ayn as cha nel cassan aggairagh ayn.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Reih cooish: coagyrey as garey, messyn as beiyn, ny thie as marrinys.",
+      "Crig er jalloo. Hig oirr airhey er.",
+      "Crig er y vlastag t'eh bentyn rish. Ta'n jalloo gleashaghey stiagh 'sy vlastag shen.",
+      "My t'eh bentyn rish y vlastag elley, ta'n cloie gra shen dy meen as fuirraghtyn.",
+      "Tra vees dagh jalloo sortit, jeeagh trooid ny bastagyn ry-cheilley."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Dy mennick cha nel answoryn aggairagh 'sy vea chiart. My t'ad gra dy vel canneen-ushtee bentyn rish y choagyrey, fow magh cre'n fa. Foddee dy gou skeeal vie.",
+      "Jean ymmyd jeh ny jallooyn son coloayrtys: «Cre v'ou gaase 'sy gharey ayds?»",
+      "Ta sortey reddyn firrinagh, lheid as speeinjyn as aayryn ny crammanyn rere daah, ny obbyr ard-yindyssagh jeant magh voish y fasteyr."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vel oorydd ny poyntyn ayn?",
+        "a": "Cha nel. Cha nel clag, poyntyn, coonteyder-gleashaght ny cailjey erbee ayn. Foddys oo scuirr ec traa erbee, as ta scuirr lieh-vollagh ny aght feer vie dy chur kione er."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Cre'n fa sortey?",
+        "a": "Ta ram sleih goaill taitnys ayns sortey er-yn-oyr dy vel eh goaill er lheid as obbyr ymmydoil, chliaghtit. T'eh aashagh myrgeddin dy loayrt mychione ny jallooyn tra t'ou goll er oaie."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vel eh nastee, as vel feme aym er fo-screeu?",
+        "a": "Ta, t'eh nastee, as cha nel coontys, fo-screeu ny laadey neose erbee ayn. T'eh gobbraghey ayns y jeeagheyder-moghey er çhellvane, claare-screeuee ny co-earrooder."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Feysht jalloo",
+    "seoTitle": "Meeley Jalloo Aashagh son Dementia: 4 ny 9 Meeryn",
+    "h1": "Feysht Jalloo: Meeley Aashagh",
+    "description": "Meeley jalloo eddyrvhoggyl aashagh son sleih ta beaghey lesh dementia: 4 ny 9 meeryn mooarey, ta'n slane jalloo tannaghtyn ry-akin, as t'ou criggagh er daa veer dy chaghlaa ad.",
+    "short": "Crig er daa veer dy chaghlaa ad derrey vees y jalloo slane.",
+    "players": "1 ny 2 phersoon",
+    "intro": "Ta jalloo caarjoil giarit ayns kiare ny nuy meeryn mooarey as laadit ry-cheilley. Ta'n slane jalloo tannaghtyn ry-akin myr leeideilys. Crig er un veer, eisht er fer elley, as t'ad caghlaa ynnydyn. Cha nel feme er tayrn erbee.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Reih jalloo as 4 ny 9 meeryn. Ta kiare ny hoshiaght veen.",
+      "Jeeagh er y slane jalloo ec y vullagh.",
+      "Crig er meer, eisht crig er yn ynnyd raad lhisagh eh goll. Ta'n daa veer caghlaa.",
+      "Ta meeryn 'syn ynnyd chiart geddyn cowrey kiart beg.",
+      "Tra vees y jalloo slane, gow-jee taitnys ass ry-cheilley, eisht reih fer elley."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Ta criggagh er daa veer dy chaghlaa ad ny sassey dy vooar na tayrn da ram sleih.",
+      "Loayr mychione y jalloo tra t'eh çheet ry-cheilley: «Shen y kione-thie jiarg.»",
+      "Ta meeley maidjey firrinagh lesh 12 dys 24 meeryn mooarey ny obbyr voandey er y voayrd myrgeddin."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vel oorydd ny poyntyn ayn?",
+        "a": "Cha nel. Cha nel clag, poyntyn, coonteyder-gleashaght ny cailjey erbee ayn. Foddys oo scuirr ec traa erbee, as ta scuirr lieh-vollagh ny aght feer vie dy chur kione er."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Vel feme aym er tayrn ny meeryn?",
+        "a": "Cha nel. Crig er un veer, eisht crig er fer elley, as t'ad caghlaa ynnydyn. T'eh shoh ny sassey lesh laue chraaee ny er fasteyr beg."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vel eh nastee, as vel feme aym er fo-screeu?",
+        "a": "Ta, t'eh nastee, as cha nel coontys, fo-screeu ny laadey neose erbee ayn. T'eh gobbraghey ayns y jeeagheyder-moghey er çhellvane, claare-screeuee ny co-earrooder."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Cur kione er y raa",
+    "seoTitle": "Cur Kione er y Raa: Cloie Shenn-Raaghyn son Shenn-Sleih",
+    "h1": "Cur Kione er y Raa",
+    "description": "Shenn-raaghyn cadjin as yn fockle s'jerree er faagail magh, lheid as «Ta ping sauilt ny ping ___». Crig er reih ny taishbyn y jerrey, eisht loayr mychione.",
+    "short": "Cur-jee kione er shenn-raaghyn cadjin ry-cheilley, eisht loayr-jee my nyn gione.",
+    "players": "1, 2 ny possan",
+    "intro": "Dy mennick ta shenn-raaghyn er enney mie feie nyn mea. Ta dagh caart taishbyney shenn-raa cadjin as yn fockle s'jerree er faagail magh, tree reihyn, as cramman «Taishbyn y jerrey». Lurg y jerrey, ta feysht veen cur cuirrey da coloayrtys.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Lhaih-jee yn raa magh ard ry-cheilley.",
+      "Crig er y vockle ta cur kione er, ny crig er «Taishbyn y jerrey».",
+      "Lhaih-jee yn slane raa reesht as loayr-jee mychione lesh cooney y cheisht.",
+      "Crig er «Y nah raa» tra vees shiu aarloo."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Lhaih dy moal as lhig da aash roish y vockle s'jerree. Dy mennick ta sleih gra eh roish my vel oo er chur kione er.",
+      "My vees fer ennagh cur jerrey elley er, gow taitnys ass. Ta cummaghyn er lheh ec kuse dy raaghyn rere lught-thie ny ard.",
+      "Ayns possan, ta un pheersoon lhaih as ta dagh peiagh goaill ayrn 'sy jerrey."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vel oorydd ny poyntyn ayn?",
+        "a": "Cha nel. Cha nel clag, skor, coonteyder bioyraghey ny cailltys erbee ayn. Foddys oo scuirr ec traa erbee, as she aght feer vie eh dy chur jerrey lesh lieh-raad."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Cre my reihys mayd fockle elley?",
+        "a": "Ta'n cloie taishbyney yn kione cadjin as goll er oaie dys coloayrtys. Cha nel skor erbee ayn, as s'mie yn red eh freggyrt elley."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vel eh nastee, as vel feme aym er recortys y yannoo?",
+        "a": "Ta, t'eh nastee, as cha nel coontey, recortys ny laadey neose erbee ry yannoo. T'eh gobbraghey 'sy jeeagheyder eddyr-vleeantyn er giare-çhellvane, taiblit ny co-earrooder."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Ronsee fockle clou mooar",
+    "seoTitle": "Ronsee Fockle Clou Mooar ry hoi Mee-Chuimhne, So-Chlou",
+    "h1": "Ronsee Fockle Clou Mooar",
+    "description": "Ronsee fockle nastee ayns clou mooar ry hoi shenn sleih as sleih ta beaghey lesh mee-chuimhne. Beggan focklyn, lettyryn mooarey, focklyn tessen as sheese ny lomarcan. Cloie er-linney ny clou eh.",
+    "short": "Lettyryn mooarey, beggan focklyn, tessen as sheese ny lomarcan. Clou eh neesht.",
+    "players": "1 ny 2 phersoon",
+    "intro": "Grillee beg lesh lettyryn mooarey as cha nel agh lane laue dy 'ocklyn, dagh fer jeu ry lhaih tessen ny sheese. Crig er kied lettyr y 'ockle, eisht er yn eiyrtysagh echey. Bare lhiat pabyr? Clou keintys noa lesh un chriggey.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Reih kione-fockle as mooadys y ghagrane.",
+      "Jeeagh er rolley ny focklyn. Ta focklyn ry lhaih tessen (veih'n chiare dys y yesh) ny sheese (veih'n vullagh dys y bun).",
+      "Crig er kied lettyr fockle, eisht crig er y lettyr s'jerree echey.",
+      "Tra t'ou feddyn fockle, t'eh goll er soilshey as tayrn lhiattee jeh'n rolley.",
+      "Crig er \"Clou yn puzzyl shoh\" dy chloie er pabyr lesh penn-leoie ny penn-markee."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Cur dty vair er fockle 'sy rolley as lhaih-jee son y chied lettyr echey ry-cheilley.",
+      "Er pabyr, s'aashagh eh dy reayll soilsheyder na penn-leoie.",
+      "Loayr-jee mychione focklyn y chione-chooid. Ta focklyn measagh nyn saase najooragh dys cooinaghtyn er spiyrt, fuinney ny margey."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vel ooryssag ny skor ayn?",
+        "a": "Cha nel. Cha nel clag, skor, coonteyder bioyraghey ny cailltys erbee ayn. Foddys oo scuirr ec traa erbee, as she aght feer vie eh dy chur jerrey lesh lieh-raad."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Noddym clou y ronsee fockle?",
+        "a": "Noddys. Crig er \"Clou yn puzzyl shoh\" dy chlou yn grillee roie ayns clou mooar, lesh rolley ny focklyn fo. Ta dagh puzzyl noa anchasley."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vel eh nastee, as vel feme aym er recortys y yannoo?",
+        "a": "Ta, t'eh nastee, as cha nel coontey, recortys ny laadey neose erbee ry yannoo. T'eh gobbraghey 'sy jeeagheyder eddyr-vleeantyn er giare-çhellvane, taiblit ny co-earrooder."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Duillagyn daah",
+    "seoTitle": "Duillagyn Daah ry hoi Sleih Aasit lesh Mee-Chuimhne (Nastee)",
+    "h1": "Duillagyn Daah",
+    "description": "Duillagyn daah aashagh ry hoi sleih aasit lesh cryssyn mooarey: crig er daah, eisht crig er y chochaslys. Gyn ribbey, gyn daah carragh, as foddear dagh duillag y chlou nastee.",
+    "short": "Crig er daah, eisht er ayrn jeh'n chochaslys. Clou duillagyn neesht.",
+    "players": "1 ny 2 phersoon",
+    "intro": "Duillagyn lesh cummaghyn mooarey, aashagh: blaa ayns pash, thie, cappan tee, follican as baatey-shiaull. Crig er daah, eisht crig er ayrn jeh'n chochaslys dy lioney eh. Cha nel daah carragh erbee ayn.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Reih duillag.",
+      "Crig er daah. Ta ennym dagh daah screeuit er.",
+      "Crig er ayrn jeh'n chochaslys dy lioney eh lesh y daah shen.",
+      "Ceaghil dty aigney ec traa erbee liorish lioney eh reesht.",
+      "Crig er \"Clou yn duillag shoh\" son duillag vane dy ghaaghey lesh pennyn-leoie daah ny pennyn-markee."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Cur daa ghaah dy reih jeh ayns ynnyd y çhymsaght slane my vees eh ro-yientagh.",
+      "Ta croieyn gorrym-jiarg as greinyn gorrym feer failt. T'eh shoh mychione goaill soylley jeh daah, cha nel kiartys.",
+      "Ta duillagyn clouit gobbraghey dy mie lesh pennyn-markee çhiu ny crayonyryn, as t'ad ny s'aashagh dy ghlackey."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vel ooryssag ny skor ayn?",
+        "a": "Cha nel. Cha nel clag, skor, coonteyder bioyraghey ny cailltys erbee ayn. Foddys oo scuirr ec traa erbee, as she aght feer vie eh dy chur jerrey lesh lieh-raad."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Vel ny duillagyn shoh ro lhiannooagh?",
+        "a": "Ren shin tayrn reddyn sheeoil, aashagh ayns ynnyd cochaslyssyn aitt, myr shen t'ad cooie da sleih aasit. Ta cummaghyn mooarey freayll daaghey aashagh gyn cur er dy ve myr cloie paitçhey."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vel eh nastee, as vel feme aym er recortys y yannoo?",
+        "a": "Ta, t'eh nastee, as cha nel coontey, recortys ny laadey neose erbee ry yannoo. T'eh gobbraghey 'sy jeeagheyder eddyr-vleeantyn er giare-çhellvane, taiblit ny co-earrooder."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kaartyn coloayrtys",
+    "seoTitle": "Fosley Coloayrtys ry hoi Mee-Chuimhne: Kaartyn Cochaslys",
+    "h1": "Kaartyn Coloayrtys",
+    "description": "Kaartyn cochaslys lesh toshiaghtyn aashagh da coloayrtys ry hoi sleih ta beaghey lesh mee-chuimhne: gyn feyshtey, gyn freggyrt kiart erbee. Ymmyd er scaailan ny clou yn slane çhymsaght.",
+    "short": "Kaartyn cochaslys lesh feyshtyn foshlit, meeley. Gyn feyshtey.",
+    "players": "2 phersoon ny possan",
+    "intro": "Ta dagh kaart cur cochaslys cadjin marish cuirrey foshlit dy loayrt, myr \"Cre'n sort emshir s'reaie lhiat?\" Cha nel freggyrt kiart erbee ayn as cha nel red erbee dy chooinaghtyn er. Reih kione-chooid ny mest ad ooilley ry-cheilley.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Reih kione-chooid, ny freill \"Dagh kaart\".",
+      "Lhaih yn feysht magh as jeeagh-jee er y chochaslys ry-cheilley.",
+      "Eisht, rheynn dty 'reggyrt hene, as lhig da'n chooish goll er oaie.",
+      "Crig er \"Y chied chaart elley\" tra t'ou aarloo, ny tannys lesh un chaart choud's saillt.",
+      "Crig er \"Clou dagh kaart\" dy yannoo çhymsaght phabyr lesh giarrey."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Freggyr yn feysht oo hene neesht. T'eh gollrish coloayrtys, cha nel feyshtey.",
+      "Eiyr er y skeeal, cha nel ny feer-oyryn. My vees recortysyn ceaghlit, s'mie shen.",
+      "My vees kaart bwoalley er red trimshagh, cur enney er y ventyr as immee dy meigh dys kaart elley."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Cre'n fa nagh vel feyshtyn \"Vel cooinaghtyn ayd er…?\" ayn?",
+        "a": "Foddys feyshtyn ta prowail cooinaghtyn gollrish scrutaght as cur nearey er peiagh. Ta cuirraghyn foshlit myr \"Insh dou mychione…\" lhiggey da peiagh erbee çheet stiagh, cre erbee ta ayns nyn gooinaghtyn."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Noddym clou ny kaartyn?",
+        "a": "Noddys. Ta \"Clou dagh kaart\" clou yn slane çhymsaght ayns clou mooar, shiartanse dy chaartyn er dagh duillag, aarloo dy ghiarey magh."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vel eh nastee, as vel feme aym er recortys y yannoo?",
+        "a": "She, t'eh nastee, as cha nel coontys, recortaghey ny laadey neose erbee ry-laccal. T'eh gobbraghey 'sy vrowser-wib er çhellvane, claare-screeuee ny co-earrooder."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Piyryn jalloo",
+    "seoTitle": "Jean Cloie Co-reggyrtys ass Caslyssyn-Soilshey y Lught-Thie",
+    "h1": "Piyryn Jalloo: Jean Co-reggyrtys lesh ny Caslyssyn-Soilshey Eu Hene",
+    "description": "Chymmlidys ny caslyssyn-soilshey lught-thie eu hene gys cloie co-reggyrtys meein. Reih 2 gys 6 caslyssyn-soilshey er yn saase eu; t'ad tannaghtyn 'sy vrowser eu as cha nel ad rieau laadit seose.",
+    "short": "Reih ny caslyssyn-soilshey eu hene as jean co-reggyrtys orroo. Cha nel nhee erbee laadit seose.",
+    "players": "2 phersoon, lhiattee ry lhiattee",
+    "intro": "Reih eddyr daa as shey caslyssyn-soilshey voish y çhellvane, claare-screeuee ny co-earrooder eu, as t'ad çheet dy ve nyn gloie co-reggyrtys lesh jallooyn mooarey, so-akin. Cha nel ny caslyssyn-soilshey ry-akin agh çheusthie jeh'n duillag shoh. Cha nel ad laadit seose, sauailt ny rheynnit, as t'ad goll ass traa ta shiu dooney yn duillag.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Crig er \"Reih caslyssyn-soilshey\" as reih eddyr daa as shey caslyssyn-soilshey.",
+      "Ta dagh caslys-soilshey ry-akin daa cheayrt. Crig er fer, as eisht crig er e phiyr.",
+      "Loow mychione dagh caslys-soilshey traa ta shiu feddyn eh.",
+      "Traa ta shiu jeant, doon y duillag ny crig er \"Glen caslyssyn-soilshey\". Cha nel nhee erbee freilt."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Reih caslyssyn-soilshey baghtal jeh reddyn maynrey, cadjin: peata, garey, boayl s'dooie, laa poosee.",
+      "Foddee dy vel jallooyn jeh buill as reddyn ny s'aashagh na eddynyn, as t'ad shaghney broo erbee dy enmys sleih.",
+      "Faag magh caslyssyn-soilshey jeh sleih ta marroo my foddee ad cur sneih doolaneagh, mannagh vel fys eu dy vel ad cur gerjagh."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Vel ny caslyssyn-soilshey aym laadit seose boayl erbee?",
+        "a": "Cha nel. Ta'n duillag lhaih ny caslyssyn-soilshey ta shiu reih dy jeeragh 'sy vrowser eu as ta'n duillag taishbyney ad er y scaailan eu. Cha nel ad currit dooin ny da peiagh erbee elley, as t'ad ersooyl traa ta shiu dooney ny aalaadey yn duillag."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vel traa-reilleyder ny skoor ayn?",
+        "a": "Cha nel. Cha nel clag, skoor, coontaghey caghlaa-ynnyd ny cailltys erbee ayn. Foddee shiu scuirr ec traa erbee, as ta scuirr lieh-vollagh ny aght feer vie dy chur kione er."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Noddym sauail y cloie da'n nah cheayrt?",
+        "a": "Cha nod 'sy vrowser, er currym, liorish shen cha nel nhee preevaadjagh erbee stoyrit. Foddee yn app nastee Golden Moments son iPhone as iPad freill coipyn jeh ny caslyssyn-soilshey reiht er yn saase eu."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo jallooyn",
+    "seoTitle": "Bingo Jallooyn son Shenn-Sleih lesh Dementia: So-chlou",
+    "h1": "Bingo Jallooyn son Possanyn",
+    "description": "Bingo jallooyn so-chlou nastee son kiarail cooinaghtyn as possanyn shenn-sleih, lesh eamerey mooar er y scaailan. Jallooyn mooarey lesh focklyn, 9 ny 16 kerrinyn, gyn femblaght er lhaih.",
+    "short": "Kaartyn bingo jallooyn so-chlou as eamerey er scaailan mooar son possanyn.",
+    "players": "Possan jeh 2 gys 30",
+    "intro": "Bingo cadjin lesh jallooyn ayns ynnyd earrooyn, myr shen cha nel feme er peiagh erbee dy lhaih clou beg. Clou possan jeh kaartyn er-lheh, eisht jean ymmyd jeh'n eamerey er y scaailan dy haishbyney dagh jalloo dy mooar er çhellveeish, co-earrooder glioon ny claare-screeuee.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Reih 9 ny 16 kerrinyn er dagh kaart as cre cho mooar as ta'n earroo dy chloiederyn.",
+      "Crig er \"Clou kaartyn\". Ta dagh kaart anchasley.",
+      "Foshil yn eamerey er scaailan mooar. Crig er \"Nah yalloo\" dy haishbyney dagh jalloo marish e ennym.",
+      "Ta cloiederyn coodaghey yn jalloo co-reggyrtagh er y chaart oc lesh peesh-argid, cramman ny cowreyder.",
+      "Ta dagh fer ta lhieeney straih, ny yn kaart er-fey-ny-hoie, cosney ard-yindys. Cha nel caillee erbee 'sy lhieggan shoh: caghlaa cloie derrey ta linnagh ec dagh peiagh."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Jean ymmyd jeh cowraghyn mooarey lheid as peeshyn dammey ny bayrnyn boteil. Foddee dy vel crammanyn beggey doillee dy hroggal.",
+      "Enmys y jalloo as loow red ennagh mychione: \"Baatey-shiaull. Quoi t'er ve magh er baatey?\"",
+      "Cur sleih ta doilleeid fakin oc ny s'faggys da'n scaailan, as jean piyryn jeh cooneydee marish cloiederyn ta feme oc orroo.",
+      "Ta nuy kerrinyn dy liooar son y chooid smoo jeh possanyn. Freill y çhymsaght mysh 20 gys 30 minnidyn."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Kys ta mee stiurey bingo jallooyn ayns thie kiarail?",
+        "a": "Clou un chaart son dagh cloieder, cur yn eamerey er y scaailan smoo t'eu, as eam ny jallooyn dy moal, enmys dagh fer. Cloie derrey ta linnagh ec dagh peiagh, myr shen cha nel peiagh erbee faagit mooie."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Vel eh nastee dy chlou?",
+        "a": "She. Clou whilleen kaartyn as ta feme eu orroo, cha mennick as sailliu, son ymmyd persoonagh ny possan."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Nod sleih cloie gyn lhaih?",
+        "a": "She. Ta dagh kerrin ny yalloo mooar, marish e ennym fo son adsyn s'taitnys lioroo focklyn."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Ennalaghey kiune",
+    "seoTitle": "Fastee Ennalagh Kiune son Shenn-Sleih as Kiarailtyssee",
+    "h1": "Fastee Ennalagh Kiune",
+    "description": "Fastee ennalagh moal, kiune dy rheynn: ta kiarkyl meein gaase as leodaghey son shey tayrtyn ennal. Ta shiu goaill toshiaght er, as foddee shiu scuirr ec traa erbee.",
+    "short": "Kiarkyl moal dy ghoaill ennal marish. Gow toshiaght as scuirr traa sailliu.",
+    "players": "1 ny 2 phersoon",
+    "intro": "Ny keayrtyn she fastee kiune yn obbyr share. Crig er \"Gow toshiaght\", eisht tayrn stiagh nyn n-ennal traa ta'n kiarkyl gaase as lhig magh nyn n-ennal traa t'eh leodaghey. Reih bieauid ny s'melley ny ny s'tappee. Cha nel eh ny lheeys, agh traa sheeoil dy rheynn.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Soie dy soccaragh lhiattee ry lhiattee.",
+      "Reih bieauid: moal ny meein.",
+      "Crig er \"Gow toshiaght\". Tayrn stiagh nyn n-ennal traa ta'n kiarkyl gaase, as lhig magh nyn n-ennal traa t'eh leodaghey.",
+      "T'eh scuirr liorish hene lurg shey tayrtyn ennal, ny crig er \"Scuirr\" traa erbee sailliu."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Glack laueyn ny cur laue er roih yn dooinney my vel shen so-oltallagh.",
+      "Ny jean eginaghey rieau. My sailliu ny smoo fakin, ta shen mie dy liooar.",
+      "My ta doilleeidyn ennal ec peiagh erbee, gow ennal dy cadjin as jeeagh er y chiarkyl ynrican. Loow rish fer-lhee mychione imnea ennal erbee."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Vel shoh cliaghtey ennalagh lheeysagh?",
+        "a": "Cha nel. She fastee aashagh, reihyssagh t'ayn son kiuney as sheshaght. Cha nel eh ny lheeys son imnea ny stayd erbee. Loow rish fer-lhee mychione imneaghyn slaynt."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Vel y kiarkyl gleashaghey gyn mee dy ghoaill toshiaght er?",
+        "a": "Cha nel. Cha nel veg gleashaghey derrey nee oo broo er Toshiaght, as t'eh scuirr lurg shey ennalyn ny tra nee oo broo er Scuirr. My ta dty ghreie soiit dy leodaghey gleashaght, ta ny focklyn caghlaa gyn y kiarkyl gaase."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vel eh nastee, as vel feme aym er recortey?",
+        "a": "Ta, t'eh nastee, as cha nel coontys, recortys, ny laadey neose erbee ayn. T'eh gobbraghey ayns y ronseyder eddyr-voggyl er çhellvane, tablet ny co-earrooder."
       }
     ]
   }

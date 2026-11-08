@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Kassit Taqbi Le Num Dacayrih Dabqal Hinnay Isbitaalal Gubna"
+seoTitle: "Kassit Taqbi Le Num Gubna: Macah Abnaanam kee Baahanay"
+description: "Kassit taqbi le num dacayrih aracal hinnay isbitaalal gubtan waqdi aban waam: baahanay, xabbaciino le daabisa, ubbacino le gubna kee meqe gurral yawqeeni."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Dacayrih dabqal hinnay isbitaalal kassit taqbi le num gubtan waqdi, xaagu
+  xabbacoysa: culusu abtan waqdi migaq xayyoysa, kullumuk gacisittaanim baaha
+  (wongoloota, meqe muuziqaa hinnay kaxxa maqaane le maaqo), garcinuk sissik
+  tiya abtaanam duma. Dagoo kee kulli waqdi aban gubna, xer kee waasot aban
+  gubnak kaxxa maqaane le. Kassit le gactiyya meqemik seeca, usuk sin lakat
+  yayse gurral yewqeeh yamurruqe kassi baaha.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Num migaqal salaamisa kaadow iyyi kinniton warisa, usuk ginaamih taqbi aalle waah: 'Kusalama Inaay, anu Susan kinio, ku say-num.'"
+  - "Kullumuk taalen inki hinnay namma tiya baaha, sidiica wongolootah kitaaba, kaxxa maqaane le muuziqa, liciino le xaylo hinnay dacayrih mara idini yeceen maaqo."
+  - "Dagoo kee kulli waqdi aban gubna, xer kee deedal gubnak kaxxa yayse. Isin lakat taniinim isin yaabtaanamik tayse."
+  - "Isbitaalal, taamoytiitil numih xaaguh inki warqata yeceey, tekkek sissik garayut doktoruh sissikuk ixxica."
+  - "Yawqeenim meqemik seeca: manna sugtaanam duma ixxica, kulli waqdi inki salamata gaca, daafay aalle kal ewqa."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Kassit taqbi le num gubiyya fanah macah baahu waa?"
+    a: "Yaabaanamik kullumuk taalenim baaha. Qunxixxiix le wongolootah kitaaba, usuk kaxxam kicnih yan heewat geytimta muuziqa, liciino le xaylo, gaba dacrisan kareema, dumi faxaabuh maxalla, hinnay dacayrih mara idini yeceen maaqo inkih meqem takke. Dacayrih dabqal, buxah maray kee yaaxigeen tiyooti kaxxa gurral daqaylit buxah caalat bahte."
+  - q: "Kassit taqbi le num gubtan waqdi manna sugtaanama?"
+    a: "Inki timixxige sugte aneewayta. Mango buxaaxi dagoo kee kulli waqdi aban gubna, xer kee waasot aban gubnak yayseemik table, usuk sissikuk qaffoowe kalay manna sugtan kassi aalle waamih sabbatah. Qaffoowiyyi asmata wacyisaay, gubna bica le waqdi ewqa."
+  - q: "Usuk 'buxah gaca' iyya waqdi macah axcu waa?"
+    a: "Qangarat hinnaay, kassi le fayxih gaca. 'Buxah gaca' iyyi kaxxa gurral 'kalkal hinnay salaamat mayanna' iyyaanam kinnuk. 'Buxah xaagak yoh waris' iyya, wongoloota ittal wacyisa, hinnay daacuyto kee maaqo xayyoysa. Taalam hinnay macah mawqaanam yayse gurral warisaanam taqbi yasmaguh duma."
+  - q: "Usuk yo aaxige wek macah aba?"
+    a: "Rabi kassi aalle waah tekkek, massoysam hinnay 'yo maaxiggitu?' axce kalis. Xabbacoysa le gurral isin migaq warisaay ittal taniin waqdi cisaabisa. Mango maray iyyi kinnitoonum aaxige weenik kaxxa maray mara wacyisaanam kee salaamata geyan."
+  - q: "Isbitaalal sugte waqdi mannal qokol abuu waa?"
+    a: "Duddaan waqdi usuk luk suga, yabuuruy kee yaaqubi qokol, wongolootah innaah yan tiyooti baaha. Taamoytiitil kulli saaku caalat, usuk faxa migaq, kicin kee kicih kalu, dambiyya asmata le warqata yeceey. Usuk sissik garayut caalat bayiseeh tekkek doktoruh sissikuk ixxica, sissik garayut kassi bayee tiya fayyah taqbi kinnuk."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Dacayrih dabqal, buxah dacayrit hinnay isbitaalal kicin le num gubnaan mango fayxa bahta. Macah yaabani, macah baahani, hinnay usuk kassi aalle waak gubna meqem kinnim mayannama axcuk cisaabittan takke. Usuk kaxxam tu cula. National Institute on Aging iyyah innah, Alzheimer le mari gubeyti iyyi kinnim kassi aalle waanih tekkek [kaxxa gurral mara luk sugeenim kicina](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Ta warqata gubnak duma, gubnah waqdi kee lakal aban qokol xayyoysa, kaadu isbitaalal sugan waqdih meqe kassi xayyoysa.
 
-## How do I get ready for a visit?
+## Gubnah mannal massowtaa?
 
-A little planning makes the visit easier for both of you.
+Qunxixxiik meqemik seecaanam gubna nammayh xabbacoysa.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Meqe waqdi doora.** Dementia Australia iyyah innah num kaxxa gurral ixxiga le waqdi guban, mango marak saaku hinnay carra. Family Caregiver Alliance aracal taamah saaqata aaxagoonuuy [taamah waqdik gaxe kobox le waqdi](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) guban kassi yaceen.
+- **Taamoytiitil essaara.** Num asaaku mannal yani esseraay, maaqo, uyuktiiti hinnay cawwal yawqoonumih amri wacyisa.
+- **Qunxixxiik le gubnah sakbaassa baaha.** Ittal aalleenih inki hinnay namma tiya gita (gubal yan listil wacyisa).
+- **Dagoo yaaba meqemik seeca.** Num warisiyyah cusub xaagu aalle waah takke, sin gannih xaagu baaha: buxah xaagu, ayroti, kuraah kubba, walloo le warari.
+- **Sin garci cisaaba amri bica leeya.** Gar gubna xabbacoysa leeh yaab leem takke. Gari kal daafan leeh taqbi lem takke. Nammaytu koboxuk geytima.
 
-## What should I bring?
+## Macah baahu waa?
 
-Bring things to share, not things that test. Good choices include:
+Kullumuk taalenim baaha, num tantanaani hinna. Meqe doortiitil geytimtam:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Kaxxaay baxxaq le wongolootah kitaaba.** Taamoytiitih derrel migooti caxxaasa.
+- **Meqe muuziqootah playlist** mobaayilil, xabbacoysa le samaacata hinnay qunxixxiik le spiker luk.
+- **Liciino le tiya gabaanisaanama,** yaaxigeen fooxa, shaashi hinnay jaaket innaah yan tiya.
+- **Gaba dacrisan kareema,** num gaba xabbacoysaanam kicnaah tekkey.
+- **Maxalla hinnay wongolootah kitaaba,** dumi kicnaaniyyeh baxay, coox abaara, koota, kimbir hinnay maaqo bicisan gurra.
+- **Kaxxa maqaane le maaqo,** taamoytiiti idini yeceenih tekkey.
+- **Daqaylih yaaxigeen tiyooti.** Family Caregiver Alliance cooxa, buxah wongoloota kee fanni, hinnay dumi buxah kaxxa poster baahu danna iyya.
+- **Tablet**, buxah wongoloota wacyisaanam hinnay xabbaciino le daabisa ittal gacan way.
 
-## What can we do together during a visit?
+## Gubnah waqdi ittal macah abnu danna?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Ittal taamitaanam yaabah gibda cabta. Dementia Australia wongoloota wacyisaanam, xabbacoysa le gaba-taama, coox kaabaanam, muuziqa, maaqo kullumuk taalenim, hinnay aracal daacuyan kassi yaceen. Dagoo meqe kassi:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Wongoloota wacyisa.** Tubleeniimil gaba caxxaasa: "Woh koofiyata wacyis." "Ta bad maqaane le." Num garci gurra caba. "Ta num iyyi?" iyyaanamik kalisa.
+2. **Muuziqa fakaay heewa.** Yaaxigeen heewat rooci fayya haytaah kobox bahta, yaabi gibdi yekkeh tekkek.
+3. **Qunxixxiik le daacuysa aba.** Family Caregiver Alliance araca gubal daacuytaanam, kaxxam coox le araca tekkek, kassi yaceen. Kursi luk daacuytaanam koboxuk geytima.
+4. **Gaba xabbacoysa.** Qunxixxiik kareema hayya heenih zaytul gaba duugan kaxxa sabri baaha.
+5. **Bilqa meqemik qokol.** Dementia Australia sagar fifisaanam, kuliina maysissaaraanam hinnay kaxxa maqaane le sara sarisaanam kassi yaceen, usuk kicnaah tekkey.
+6. **Xabbaciino le daabisa daabisa.** Family Caregiver Alliance kaarta, domino, hinnay usuk dumi gaca daabisa kassi yaceen. Tabletil, [Picture Pairs](/games/picture-pairs/) wongolooti tambulleek saaqatah gactiyya kal daabisoonu danna. [Photo Pairs](/games/photo-pairs/) isin doortan wongoloota ittal gacan daabisat gaca, kaadu wongolooti sin browser gubal suga.
+7. **Ittal tiya wacyisa.** Family Caregiver Alliance wallo le fiilmiit kee dumi filmiiti kassi yaceen. Num taariki kassi aalle waah tekkek, xannal daafayan waqdi koboxuk geytima.
+8. **Fayya le yabti akriya.** Qunxixxiik le qanfura, kaxxa kicin le aayata, hinnay buxah num yacee warqata.
+9. **Kalaay ittal daafaya.** Gaba haysitaanam hinnay daafiyan kaxxa gubna kinnuk. Alzheimer's Association yaaban waam aaxige waanam tu maleey, sin lakat taniinim kaxxam tu cula iyya.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) yaabu waan waqdi sin qoklu danna. Kulli kaarta wongolo kee fakkon essero le.
 
-## How should I talk during the visit?
+## Gubnah waqdi mannal yaabu waa?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Kulli saaku sin migaq xayyoysa.** "Hi Dad, it's Mark, your son." NIA gubeytiiti yaab qimbisaanamah migaq xayyoysoonu kassi yaceen.
+- **Foocal gacaay** inti intil dambaraay daafaya.
+- **Massoysa heeway taalam heewa.** NIA num habalooma heek hinnay tu habeek massooyse waanam kassi yaceen.
+- **Sabri leeya** qangara geyaanam gibdi tekkek. Mango waqdi yeceey.
+- **Fayxaafah gacsa yeceey.** Num kassi bayeey hinnay gibda aalleek, yabti badalaanamak duma wacyisa.
+- **Esseroh tantanaanak kalisa** sidiica "Yo kassi litoo?" hinnay "Asaaku carrah macah tatte?" innaah yan tiya.
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Mango xaaguh nannih [communication tips](/caregiving/communication-tips/) wacyisa.
 
-## What do I do when they say "I want to go home"?
+## Usuk "buxah gaca" iyya waqdi macah aba?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Qangarat wadir yan fayxaafah gacsa yeceey (nannih kataysi [when someone keeps asking to go home](/caregiving/asking-to-go-home/) mango xaagu le). Family Caregiver Alliance "buxah gaca" iyyaanam kaxxa gurral "ani meqe caalat mayanna" iyyaanam kinnim wacyisa, kaadu "Buxah xaagak yoh waris" hinnay "Buxal kaxxam kicninto tiya macah?" innaah yan gactiyya kassi yaceen. Dementia Australia "buxi" num salaamata leeh suge waqdi hinnay araca kinnim, sidiica qunxaaneyna kassi yaceen.
 
-Try:
+Ta tiyooti cisaabisa:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- fayxa wacyisaanam: "Buxa kaxxam kicnih tanik geytimta."
+- gabaanuk sabri yaceenim, usuk kicnaah tekkey
+- wongoloota wacyisaanam hinnay buxah xaagut yaabaanam
+- daacuyto, maaqo hinnay aqub xayyoysaanam
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Taalam hinnay macah mawqaanam yayse gurral warisaanamik kalisa. Kaxxam tu ma-abtaay gibda yasmaguh duma.
 
-## How long should a visit be?
+## Gubna manna yekkeem meqee?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Dagoo kee mango waqdi aban gubna yayseemik table. Family Caregiver Alliance num koona daqiqa sugtaniiy hinnay koona saaqata sugtan kassi aalle waam wacyisa, kaadu aytiimil sidiica qunxixxiik le gubna, inki xer gubnak yayseem kassi yaceen. Dementia Australia inki timixxige gubnah lafa hinnay xer aneewaytam iyya.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Dacayrih dabqah gactiyyak lakal dumi aytiimootal, Family Caregiver Alliance mango waqdi gubanaay, lakal kobox le gurral daafayaan kassi yaceen. Taamoytiitil tubleenim essera.
 
-## How do I leave without upsetting them?
+## Num yayfaaxe kal mannal yawqoonu danna?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Yawqeenim kaxxam gibdi gaba kinnuk. Dementia Australia kassi yaceem:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Culusu abtan waqdi manna sugtaanam ixxica.** "Inki saaqatah sugam duuda, lakal gabaah gaca."
+- **Taama xabbacoysa le gaba-cabiinoh heya.** "Ta heewat gaba haysannak, anu yawqu kiyo."
+- **Maaqot saaqata hinnay taamat luk xayiisa,** hinnay taamoytiiti num aka tiyat culsaanamah qokol essera.
+- **Yawqeenih salaamata dagooysaay kulli saaku inki gurral aba.** Daafayaanama, xalaafata esseraanama hinnay "dagoo suga" iyyaanam sarrah yawqeenimik kaxxam gibdi hayta.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Ewqeenik lakal, kassi bayam koboxuk geytimta tiya. Isin fannaah sabri leeya. Num yayfaaxeeh tekkek, taamoytiiti sissikuk qokol yaceenih duudan.
 
-## Visiting someone with dementia in the hospital
+## Isbitaalal kassit taqbi le num gubna
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Isbitaal cakkara, yaaxigeewaynaan kee agabiiti mara leeh, kassit taqbi le numuh kaxxam gibdi takke. NIA guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) kassi yaceem:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Num luk sugoonum duudan innaah meqe:** buxah num, yaaxige kataysa hinnay dacarsiyyi num.
+- **Taamoytiitih numih xaaguh warqata yeceey,** kulli saaku caalat, kicna migaq, kicin kee kicih kalu, dambiyya asmata luk. Kopi daqaylit kee nursiiti aracal caxxaasa.
+- **Maaqo kee aqub qokola.** Kaxxa mari isbitaalal maaqoh taqbi geyoonu duudan. Saanooti faka, maaqol qokola, ittal maaqo aca, aqub xayyoysa.
+- **Sabri le tiyooti baaha,** sidiica wongoloota hinnay diinih tiyooti.
+- **Cakkara caxxaasa.** TV gacaay mobaayil kee yaabah daaqa caxxaasa.
+- **Xabbacoysa le meqe gurri cisaabisa,** sabri le muuziqa, akriyo, duca, heewa hinnay dumi wongoloota wacyisaanam.
+- **Daacuyan kassi yeceey** meqe gurral, taamoytiiti idini yeceen waqdi.
+- **Usuk sissik garayut bayseeniih tekkek doktoruh sissikuk ixxica.** NIA sissik kassi bayeey (delirium) cawwal biyak, buxaaxo, leet waas hinnay daawwah sabbatah yakkem dudda, kaadu doktoor qokol faxam wacyisa.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Yaaxigeen fooca kee kaxxa kicin le heewat luk aban dagoo gubna, isbitaal ayroti mango sabri le gaba kinnuk.
 
-## Bringing children on a visit
+## Gubnah fanah xaylo baahaanam
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Xaylo kaxxa maqaane bahtu duddam. Xabbaciino leeh qaduuli qangarat duma massoysa, gubna dagooysaay, taama yeceey, sidiica fannih suurat caxxaasaanama hinnay wongolo yaceenim. NIA xaylo kee Alzheimer le mari ittal xabbacoysa le taama kiciinaanam duudan iyya, sidiica wongolootah kitaaba wacyisaanam hinnay muuziqa ankacisaanam. Dementia Australia qunxisiyyah qunxixxiik le sakbaassa baahaanam kassi yaceen.
 
-## Take care of yourself too
+## Isin fannaa dacarsita
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Gubna qaffoowe kee kassi bayteem takke, kaxxam num badaleeh tekkek. Faxxaaneeh tekkek dagoo waqdi gubanaam meqem takke, qokoluh kataysa baahaanam, hinnay gibdi ayró sissikuk yawqoonum meqe. Sin fannaa dacarsitaanamah, [caregiver self-care](/caregiving/caregiver-self-care/) wacyisa. Xer aracal daafittaanih tekkek, nannih kataysi [phone and video calls](/activities/phone-and-video-calls/) wacyisa.

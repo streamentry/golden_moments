@@ -1,31 +1,31 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Xᵛafnō uta Manaŋhō Drvatāt̰: Čiš Čistaya Vaočaiti"
+seoTitle: "Xᵛafnō uta Manaŋhō Yāskō: Čiš Čistaya Vaočaiti"
+description: "Čiš čistaya vaočaiti paiti xᵛafnəm uta manaŋhō yāskəm, aipi-ca upa-yānā xᵛafnahya daēnā zaurva-bərətanąm uta thrātoranąm."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Kā-cit paiti-sistaya paurvō-dārayan kasu-xᵛafnəm maidyo-zuyāi paiti manaŋhō yāskō daxštəm,
+  uta handātā paurva-mravan xᵛafnō thrayoite mastraŋhəm paiti druxtim. Aēva čistiš nūram nava
+  asti, uta 2024 Lancet Commission nōit xᵛafnəm paiti vərəzya-daxšta aojišta. Rāzanaya xᵛafna-daēnā
+  zavō dadāiti ayarə-dāida. Xᵛafnahya anādrūtaya yāskō-manastva pauru-bavaiti uta vaēdya paiti-pərəsa.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "UK paiti-sistiš 8,000 narō paiti 25 sarədā dārašta, kasu-xᵛafnəm xšvaš ātrə-gātu vā kasu maidyo-zuyāi paiti masiyå manaŋhō yāskahya paiti-dāiti."
+  - "Xᵛafnahya vaēnāčit aipiča paurva-daxštəm manaŋhō yāskahya aŋhaiti, vīčidrō asti yuxtiš vā daxštəm."
+  - "Paiti-sistiš paiti xᵛafnahya druxti-snāiti mastraŋhō asti aipi nava, masištəm paiti mūrō."
+  - "Xᵛafnahya urva-staratō pauru-asti, baēšazya, uta paiti manaŋhō yāskō yuxta; stūra-xšnōiti uta ayarə-xᵛafnatāt̰ baēšaza paiti-čah."
+  - "Mā nava xᵛafna-baēšazəm haca bərəjya, paiti-starə vā vi-daēzaya an-ādāiti baēšazahe."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Kasu-xᵛafnō Alzheimer yāskəm kərənaoiti?"
+    a: "Aēva nōit vi-vaēda. Kā-cit paiti-sistaya kasu-xᵛafnəm paiti masiyå yāskō handārayan, aŋheča yāskō xvatō xᵛafnəm vi-marəzaiti, paurva sarədatō. 2024 Lancet Commission aēvam čīmim nōit vīspā-drūto dārayat."
+  - q: "Čvat̰ xᵛafnəm zaurva-bərəta narō apaiti?"
+    a: "National Institute on Aging mraoti zaurva-bərəta narō aipi ahmāt̰ haxšaiti yatha anyō narō, 7 haca 9 ātrə-gātunąm xšapō. Pauru zaurva-bərəta frathra šyavanti gātum uta frathra us-hištanti."
+  - q: "Ahmāt̰ nar- yō manaŋhō yāskō dārayaiti xšapō us-hišta uta ayarə xšufseiti?"
+    a: "Manaŋhō yāskō tanu-čaxrəm vi-marəzaiti, ada xᵛafnō uta ayarə vi-tarə-mərəzaiti. Bīš, āsītō, xšud- vā baēšazahya an-uxti aipi paiti-yeiti. Ayarə-raoča, ayarə-vərəz uta ramna xšafna-daēnā spayōiti. Baēšaza yāskəm paiti-vaēnaiti."
+  - q: "Dāne xᵛafna-baēšazəm ahmāi nare yim azəm paiti-harāmi?"
+    a: "Fra-mrava ahyā baēšazāi paurvō, aipi-ca yō vī-krīta an-ādātō. National Institute on Aging daxšteiti kā-cit xᵛafna-baēšazanąm aipiča rēxtō, stərəti uta manō-vīšāpa paitiš dāraya narāi manaŋhō yāskō dārayanta."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +56,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Xᵛafnō uta manaŋhō drvatāt̰ vīspā yuxta henti, aŋheča kada yuxta henti nūram cistaya paiti-yaiti. Kā-cit paiti-sistaya kasu-xᵛafnəm paiti masiyå manaŋhō yāskō dārayan. Yāskō aipiča xᵛafnəm vi-marəzaiti. Aēva pərəsu daxšteiti čiš čistaya vaēnaiti uta nōit vaēnaiti, dadāiti upa-yānā xᵛafna-daēnā, uta paiti-mravaiti xᵛafnahya anādrūtīm yā pauru asti yāskō-manaŋhō. Nōit aēva vaočaiti paiti baēšaza; aēte pərəsnå baēšazāi aŋhən.
 
-## Is poor sleep linked with dementia?
+## Kasu-xᵛafnō paiti manaŋhō yāskō yuxta asti?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Kā-cit darəgha paiti-sistaya kasu-xᵛafnəm paiti masiyå manaŋhō yāskahya daxštəm handārayan, aŋheča čistiš nōit vī-spā-vi-vidārayata.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **25-sarəda UK paiti-sistiš.** Paiti-sastārō haxšan 8,000 narō ahmya [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). Narō yaēšąm xšvaš ātrə-gātu vā kasu xšapō xᵛafsən paiti 50 vā 60 sarədanąm masiyå manaŋhō yāskahya daxštəm dārayan yatha yaēšąm hapta ātrə-gātunąm. Narō yōi xšvaš vā kasu paiti 50, 60 uta 70 sarədā xšufsan upa 30% masiyå daxštəm dārayan. Aēva vi-daēnā-sistiš ās, āat yuxtim daxšteiti, nōit dātəm.
+- **The Lancet Commission daēnā.** Aēte [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) nōit xᵛafnəm fradaθan ahmya 14 vərəzya-daxštanąm. Čistiš nōit aēva-dātō ahmāi daēzyata. Aēva čīmiš asti "paitī-dātiš": mastraŋhō vī-varətiš haca manaŋhō yāskō pauru sarədanam fravačite uta xᵛafnəm vi-marəzaiti. Ahmya masita paiti-sistayā, yuxtiš darəghō-xᵛafnahya uta yāskahya vī-nasyata yasnā paurvō panča sarədā aparam kərənōit.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Āat kasu xšap nū nū nōit asti thrahya čīmiš. Rāzana uta vohu xᵛafnō dārayan asti vouru ahmāt̰ ahyā ayarə manaŋhe, us-dāite uta drvatāte daθaiti.
 
-## What is the "brain-clearing" sleep research?
+## Čiš asti mastraŋhō-drūiti xᵛafnahya čistiš?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Paiti-pəratō aŋhe yatha xᵛafnō mastraŋhəm snayeiti. Aēva arəthra haca haithya paiti-sistayā aiti, aŋheča aēva nava asti.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Paiti mūrō.** 2013 paiti-sistiš [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) vaēda yatha antaro-gātu mastraŋhō hantura 60% masiyå bavaiti yadi mūrō xšufsan. Āpō vī-tara mastraŋha rāθyā fra-šyavata, yim paiti-sastārō glymphatic aojyan. Beta-amyloid, druxtiš yuxta Alzheimer yāskō, asya fra-snayata haca mastraŋha xšufsantąm mūranąm.
+- **Paiti narō.** Kasu [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) vi-daēzaya 20 drva narō aipi 22 haca 72 sarədanąm pasča haithya xšafnəm uta pasča xšafnəm an-xᵛafnəm. Pasča an-xᵛafna xšap, beta-amyloid daxšta upa 5% us-baoda ahmya hippocampus, gātva vouru manaŋhe. Paiti-sastārō aēvam nava-daxštəm aojyan. Nōit vaēdan yadi aēva aipi-asne vi-nasyati, vā paiti-šuyaiti asya vā masiyå kərənvaite.
+- **Dva-karanem šyavaiti.** Lancet Commission mraoti amyloid handātō xvatō zaurva-bərətanąm xᵛafnəm vi-marəzaiti.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Aēte daxšta fravāčayeiti ahmāt̰ paiti-sastārō xᵛafnəm paurvo-dārayan. Nōit daxšteiti yatha vohu xᵛafnō Alzheimer yāskəm a-bavayeiti.
 
-## What sleep habits may help?
+## Yā xᵛafna-daēnā spayōiti?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Zaurva-bərəta narō apaiti 7 haca 9 ātrə-gātu xᵛafnahya xšapō, haxta yatha anyō narō, paiti [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Ahyā aoi-dāiti aŋhən:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Dāraya rāzanəm gātūm.** Šyava gātum uta us-hišta aēva-gātva ayarə vīspəm, aipi-ca haptahya raočasva.
+- **Kərənu ramna-parštātim.** Pərəsa, sruye ramna-srūtəm, vā garəma āp-snāti kərənu paurva gātūm.
+- **Dāraya xᵛafna-gātūm hvanvantəm,** nōit tafna, nōit sarta.
+- **Kasu caffeine ayarə-apara.** Coffee, tea, soda uta chocolate thwąm us-dārayanti.
+- **Mā xšvid-hurąm haca,** aipi kasu, NIA paiti-časteiti.
+- **Mā masita xᵛarətha dva vā thrayō ātrə-gātu paurva xᵛafnəm,** uta masita huranąm apara ayarə.
+- **Vərəzya rāzanam, aŋheča mā 3 ātrə-gātu paurva gātūm.** Vaēna ahmākam [exercise guide](/brain-health/exercise/).
+- **Dāraya vaēna-čaxra haca xᵛafna-gātva dūra.** NIA paiti-mravaiti mā TV, computer, phone vā tablet ahmya dāraya.
+- **Mā ayarə-apara vā xšafna-napa xšufsa** yadi tū thrayahi.
 
-## Sleep problems in dementia
+## Xᵛafnahya anādrūtaya yāskō-manaŋhō
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Xᵛafnahya vī-varətiš pauru asti ahmya yāskō-manaŋhe. Aēte [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) pauru-xᵛafnəm vā kasu-xᵛafnəm, pauru-paiti-us-hištīm xšapō, uta ayarə-napa. Aipiča paiti-mraoti hvare-nimaθaiti: arəm-baoda, daojiš vā manō-vīšāpa yadi raočō ni-syeiti.
 
-Caregiver tips from the NIA include:
+Thrātoranąm paiti-čāstaya haca NIA henti:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Gərəza ayarə-raoča uta šyātīm frathra.** Šyava bərəza vā āsna vaēnā-pərətu ayarə, uta narem aipi vərəzya kərənu. Raošna raočō tanu-čaxrəm fradaθaiti.
+2. **Kərənu aojišta šyāocna uši-bāmya.** Paurva-snāti kərənu usra, vā masita xᵛarəθa maidyo-ayāra.
+3. **Dāraya kasu napa uta frathra.** Kasu doze apara-ayarə.
+4. **Kərənu ramna xšafnəm.** Kasu raočanąm, kasu xšnūtri uta sruye ramna-srūtim yadi nar- ahmya ramaiti. Ahmākam upa-mraoti paiti [late-day restlessness](/caregiving/late-day-restlessness/) anyā daēnā dārayaiti.
+5. **Dāraya haithya xᵛafna-daēnām.** Pərəsa sru-dāti aēva-gātva xšapō asti NIA paiti-dāiti. Aēva [steady daily routine](/activities/daily-routine/) aipiča spayōiti.
+6. **Kasu caffeine uta xšvid-hurąm.**
+7. **Dāraya xšafna-raoča** ahmya xᵛafna-gara, pantayehe uta snāti-gara.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Paiti xšafna-us-hištīm, NIA [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) dārayanti xšafna-raoča vā haθra-raočana, dāraya-dāru ahmya snāti-gara, roxšna-rangahya bandō paiti pərətu, uta baēšazanąm ahmya yuxš-dātu gātu.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Kasu, ramna daēnā apara-ayarə thwąm uta narem spayeiti hantō-dāti. Vərəzya ramna [Calm Breathing](/games/calm-breathing/) vā kasu [Conversation Cards](/games/conversation-cards/). Mā čiš vī-spāreiti paurva gātūm, uta paiti-mru yadi nar- an-abhyo bavaiti.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Vī-mərəta xᵛafnō thrātōrəm aipiča frasaositi. Ahmākam [caregiver self-care guide](/caregiving/caregiver-self-care/) daxšteiti pantanąm asne uta paiti-harəti.
 
-## What about sleep apnea?
+## Čiš paiti xᵛafnahya urva-staratō?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Xᵛafnahya urva-staratō kərənaoiti kasu paiti-stāna urvānō paiti xᵛafnəm, pauru-gātu xšapō. NIA mraoti yadi nōit baēšazya, aēva daxšiti yāskō yatha bərəza vohuni-čaxra, asti-starəti vā manō-nāsa. Daxšta dārayanti stūra xšnōiti uta ayarə-xᵛafnatāt̰, uta pauru narō nōit vaēdan ahmāt̰ dārayan. Lancet Commission daxšteiti paiti-vaēnā haca 11 paiti-sistayā yaēšva narō yōi urva-staratō dārayan 43% masiyå manaŋhō yāskahya daxštəm dārayan. Kasu aētanąm paiti drafšo-tanu haxšan, āat yuxtiš an-vī-vidāra.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Xᵛafnahya urva-staratō baēšazya uta vī-vaēdya asti. NIA mraoti CPAP aojya vīspā-gātu spayōiti. Yadi tū vā nar- yim paiti-harahi stūra xšnōiti, urva starəti paiti xᵛafnəm, vā ayarə pauru xšufseiti, fra-mrava baēšazāi.
 
-## A note about sleep medicines
+## Paiti xᵛafna-baēšazahe dāiti
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Vaēm nōit aoi-dāiti dadāma paiti xᵛafna-baēšaza vā dātō. NIA mraoti xᵛafna-baēšazanąm aipiča kasu gātūm spayōiti aŋheča nōit aēva vī-spā-baēšaza asti insomnia yāskahya. Aipiča mraoti kā-cit baēšaza dātō ahmāi nare yō Alzheimer dārayaiti xᵛafnāi aipiča rēxtō, stərəti uta manō-vīšāpa paitiš dāraya. Mā nava, paiti-starə vā vi-varəto paiti baēšaza, aipiča an-ādāta vī-krīta, an-ādāiti baēšazahe vā baēšazō-krīd.
 
-## Talk with a doctor
+## Fra-mrava baēšazāi
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Vaēna baēšazəm yadi tū vā nar- yim paiti-harahi vīspā-ayarə taršnō asti, xᵛafnahya arətha dārayaiti, stūra xšnōiti, vā urvāna paiti-stāna dārayaiti. Yadi xᵛafnahya anādrūtīm yāskō-manaŋhe paiti-dārayaiti, aēte [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) pərəsa baēšazō-daēnām. Vi-čistiš vaēnaiti čīmīm yatha bīš, anya xᵛafna-yāskō, an-drvatāt- vā baēšazahya an-uxti. Yāsa manō-vīšāpa vā a-paurva vī-varətiš xᵛafnahya yuxta manō-vīšāpa apaiti asu baēšazya. Pərəsa [when to see a doctor](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Aēva pərəsu asti vīspō-čistiš, nōit baēšazya daēnā. Vaēna ahmākam [medical disclaimer](/medical-disclaimer/).

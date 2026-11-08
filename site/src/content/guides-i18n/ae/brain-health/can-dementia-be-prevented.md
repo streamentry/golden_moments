@@ -1,35 +1,34 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Mā ciš manō-vīmarəzā paitišmaraiti? Čit̰ parštō"
+seoTitle: "Mā manō-vīmarəzā paitišmaraiti? Čit̰ parštō"
+description: "Čit̰ 2024 Lancet Commission parō-vaēdahe paitišmaranahe manō-vīmarəzayā aojaiti, uta čit̰ bīšazā paitišmaraite."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Kascit̰ nōit̰ manō-vīmarəząm apanayeiti. Hā 2024 Lancet Commission vaēdaiti
+  yaϑa nazdya hāva-bāgō aŋhō manō-vīmarəzayā vispəm ahmāi aŋhe yūxta asti 14
+  āraϑrahe caitōibiš yaēibyo vərəzyete, yaϑa vərəz-vohunīm, uši-draosem uta
+  an-arəϑanąm. Parštatahe vaēda dāiti mašyāka yōi vispəm aγā vərəzyāire aipī
+  manō-vīmarəząm vindənti, uta aēša nōit̰ kašcit̰ aēnaŋha.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Hā 2024 Lancet Commission aojaiti yaϑa 45% manō-vīmarəzayā yūxta asti 14 āraϑrahe caitōibiš yaēibyo vərəzyete. Aēša aŋho-marəcā asti, nōit̰ yevaēca tōi kašcit̰ paity-āiti."
+  - "Āraϑrahe nītyā aojaiti nītyąm vīspāi damai. Nōit̰ aojaiti yaϑa aēva-martiyō ahmāt̰ vīvaēdaiti."
+  - "Mazā-parštata yaϑa FINGER, US POINTER uta SPRINT MIND mašānąm vīciϑrahe sūnąm vindən, aẟa nōit̰ paitišmarənti manō-vīmarəząm."
+  - "Zaurva asti mazištō āraϑrō Alzheimerhe, yō nōit̰ vərəzyāte. Pouru martiyā drvatō aipī manō-vīmarəząm vindənti."
+  - "Paitīšmaraϑra yaϑa bīšaz-vohunīm, uši-dāθra uta tanu-draosem ahmāi bīšazā pərəsatā, yaϑa haca paiti pouru sūnō aŋhənti."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Mā manō-vīmarəzā paitišmaraiti?"
+    a: "Nōit̰ asti vaēdā yaϑa aēva-martiyāi apanayeiti. Parštatō aojaiti yaϑa nītya vərəz-vohunīm, sarəda uši-draosem uta cigārahe nītyąm kərənavaiti manō-vīmarəzayā cašmaini vīspāi damai."
+  - q: "Čit̰ aojaiti hā 45% Lancet Commission bāgō?"
+    a: "Hā 2024 Lancet Commission aojaiti yaϑa 45% manō-vīmarəzayā yūxta asti 14 āraϑrahe caitōibiš yaēibyo vərəzyete. Aēša vispahe aŋhō asti, nōit̰ aēvahe tōi āraϑrō."
+  - q: "Yezi ma-pitarō vohu drvatātā jvanti, čišta he manō-vīmarəząm vindi?"
+    a: "Zaurva uta zāta-daēna mazištō bāgō darin. Nōit̰ aēnaŋha martiyāhe asti yezi manō-vīmarəzā paitištaiti."
+  - q: "Mā zaurvāi pasča 65 sarəda aŋha parō-draosem zīzanat?"
+    a: "Lancet Commission aojaiti yaϑa nōit̰ yevaēca kasu nōit̰ darəγa asti āraϑrahe nītyāi. Pərəsatā bīšazəm cōit̰ tōi drvatāte vaŋhau."
+  - q: "Mā manahi urvan-bāzīš ayā xᵛarəθa manō-vīmarəząm apanayeiti?"
+    a: "Nōit̰ kašcit̰ bāziš ayā xᵛarəθō paity-aiti yaϑa manō-vīmarəząm apanayeiti. MIND xᵛarəθō uta caitō-bāzaye nōit̰ bīšaz-dāiti vaēdən."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +62,242 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Yezi tūm martiyəm yō manō-vīmarəzayā jvaiti pāhi, ayā pitarəm ahmāi daēsahe
+vaēnayasi, tūm pərəsahe yezi aēša paitišmarta aŋhat, uta yezi tūm ahmāt̰
+tōi tanuyē vīnaϑayehi. Aēša sravah aojaiti čit̰ parštatahe dāiti gaozaiti,
+frārāϑye vaca. Kasu-paiti: nōit̰ kašcit̰ apanayeiti manō-vīmarəząm, aẟa parštata
+aojaiti yaϑa kēcina āraϑra nīkərənvaiti, uta aēša nītyā vīspāi damai
+fradaϑaiti yaϑa kam-ciš martiyā vīmarəząm vindənti ayā pasča vindənti.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Aēša asti hām-vaēdā, nōit̰ bīšaz-haxšāiti. Paitišmarata ahmākam
+[medical disclaimer](/medical-disclaimer/) uta pərəsatā tōm aipī bīšazəm tōi
+tanu-drvatāte.
 
-## Can dementia be prevented?
+## Mā manō-vīmarəzā paitišmaraiti?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
+Nōit̰ asti vaēdā yaϑa aēva-martiyāi apanayeiti. Hā National Institute on Aging
+(NIA) aojaiti yaϑa cōit̰
 [nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+parštāra vaēdən vərəz-paϑanąm uta āxsnuvanti čit̰ vərəzyeiti ayā nōit̰ vərəzyeiti.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Čit̰ parštata *dāiti* aojaiti yaϑa kēcina tanu-dāiti uta dāmrō-vərəza yūxta asti
+mazištāi āraϑrāi manō-vīmarəzayā. Yezi tōi āraϑra nīzyāire vīspāi damai, kam-ciš
+martiyā vīmarəząm vindənti, ayā zaurve vindənti. Aēša nōit̰ asti paity-āiti.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
+Aēva vərəzō: hā 2024 Lancet Commission gaozaiti yaϑa aipī misvānahe vaŋhuš-dāiti
+dax́yunąm, ahmāi US uta UK, bāgō zaurvanąm yōi manō-vīmarəzayā jvanti nītyō asti.
+Parštāra manayente aēša asti haca vaŋhau paity-āiti, vaŋhau bīšaz-dāiti uta kam
+vohunī-raϑō aēnaŋha zrvāne, yaϑa aojaiti
 [University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Čit̰ hā 2024 Lancet Commission vaēda?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
+Hā Lancet Commission paiti manō-vīmarəzahe paitišmaranahe, paiti-dāθrahe uta
+pāθrahe asti hām-dāiti 27 parštāranąm yōi paitišmarənti vaēdąm sarədahe. Hāva
+2024 parō-vaēda namnaiti **14 āraϑrahe caitō** yaēibyo vərəzyete, uta vaēdaiti
+yaϑa hām hē darin **nazdya hāva-bāgō (45%) manō-vīmarəzayā vispəm ahmāi aŋhe**.
+Parštāranąm vaca, aēša cašmaini *paϑā-vaēditi* paitišmarāire ayā pasča aŋhənti yezi
+tōi āraϑra apanasyənti
 ([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Tōi 14 caitaya, zrvānəm paiti daēsayente:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Auru-jvati:** kam paity-āiti.
+- **Midyāna-jvati (40 haca 65 sarəda):** uši-draosa, bərəz LDL cholesterol,
+  bərəz-mana, sarō-hurva, an-arəϑanąm tanvō, madu-vohunī, cigāra, bərəz-vohunī,
+  maz-tanutā, uta bərəz hurā.
+- **Zaurva-jvati:** aēva-dāiti, vāto-druxti, uta an-bīšaz cašman-draosa.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Dva nau caitō 2024 aŋhat bərəz LDL cholesterol uta an-bīšaz cašman-draosa. Tōi
+caitaya yūxta mazištāi bāgāi aŋhat uši-draosa uta bərəz LDL cholesterol (7%
+haca aēvahe), pasča kam paity-āiti uta aēva-dāiti (5% haca aēvahe).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Ahmākam [risk factors guide](/brain-health/risk-factors/) vispəm 14 dāθra
+paiti-daēsa, čit̰ parštata yūjeiti uta čit̰ tūm vərəzyehi.
 
-### What the 45% figure does not mean
+### Čit̰ hā 45% marəcā nōit̰ aojaiti
 
-It is easy to misread this number, so it helps to be precise:
+Hu-dāiti aēša marəcā duš-vaēditi, aẟa hu-caitō dārō:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Aēša asti aŋho-marəcā.** Hā dāiti gaozaiti manō-vīmarəząm ahmāi damai, nōit̰
+  tōi aēvahe ayā tōi pitaro āraϑrəm.
+- **Hā dāiti caitō uta aipī-vərəz.** Parštāra aojaiti yaϑa tōi aēva caitaya
+  yūxta aŋhənti vaŋhuš vaēdaiti, aẟa kēcina yūxta kam-ciš caitō aŋhənti. Yaϑa,
+  bərəz-mana zaurve aipī auru-dāsa aŋhat manō-vīmarəzayā, nōit̰ caitō.
+- **Nōit̰ aēva-martiyāi paity-āiti.** UCL aojaiti yaϑa nītya āraϑrahe vərəzyeiti
+  vīspāi damai, uta nōit̰ paitišmaraiti aēvahe martiyāhe manō-vīmarəząm.
+- **Anyō hāva-bāgō nōit̰ haca aēibyo caitōibiš.** Zaurva, zāta-daēna uta
+  an-vaēdita caitaya zrvānəm dārayanti.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Čit̰ asti vīciϑra ahmāi "āraϑrahe nītyā" uta "paitišmaranahe"?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Āraϑrahe nītyā** aojaiti nītyąm cašmanahe. Yezi mazō hām-dāiti martiyānąm
+nīkərənvaiti hāva vohunīm, kam-ciš haca aēibyo manō-vīmarəząm vindənti sarədābiš.
+Aẟa kēcina martiyā ahmāt̰ aipī vīmarəząm vindənti.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Paitišmarana** aojaiti apanayahe aipī-vərəzahe vispəm. Manō-vīmarəzāi, nōit̰
+asti ciš parštata tōi paity-aiti nūram.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Parštāra aipī aojaiti **pasča-dāθra**. Hā Lancet Commission gaozaiti nau
+vaēdąm yaϑa nītyā āraϑrahe pasča dārō zrvānəm manō-vīmarəzayā uta kam kərənavaiti
+zrvānəm martiyō draoso jvaiti. Pasča-dāθra sarədābiš asti mazištō sūnō ahmāi
+martiyāi uta nmānahe.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Ahmāi sravi, vərəzyāma "āraϑrahe nītyā" uta "yūxta asti" frā-manahi. Yezi tūm
+vaēnayasi bāziš, daraoš ayā paϑąm paity-aite "Alzheimerhe apanayana", hu-zraθra
+daēsa. Hā NIA pərəsatā bīšazəm parō parštanahe ciš daraoš ayā bīšazatahe, yaϑa
+aēša an-drvatō ayā zrayō vərəzyeiti.
 
-## What have large trials found?
+## Čit̰ mazišta parštata vaēdən?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Dāmrō-vaēda (yōi vaēnənti martiyā sarədābiš) yūxta dārayanti. Parštata
+vī-dāiti, yaϑa martiyā dāte ahmāi paϑai ayā anyōi, mazištō parštatō asti.
+Aēša asti čit̰ mazišta parštata vaēdən.
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER parštatō 1,260 martiyā sarəda 60 haca 77 yōi mazištāi āraϑrāi
+dārayan. Hāva bāgō 2 sarədahe paϑąm vindən xᵛarəθahe, tanvō, manahi caitō uta
+vohunī-raϑō paitišmarahe; anyō bāgō hām-drvatātā vaēdąm vindən. Paϑahe
+hām-dāiti kam-ciš vaŋhau vərəzyən manahi parštatābiš, kasu vīciϑrahe
+([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)).
+Parštatō vaēda parštatahe sūnəm, nōit̰ manō-vīmarəzayā vaēda.
 
 ### US POINTER (United States)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER 2,111 martiyā sarəda 60 haca 79 yōi an-arəϑan, an-drvatō xᵛarəθan
+uta anya āraϑra dārayan. Vispa hām-dāiti fradaϑan tanu-draosem, manahi
+arəϑanąm, vaŋhu xᵛarəθa, aipī-martiyātā uta vohunī-raϑəm. Aēva bāgō vaŋhu
+paoirya paϑąm vindən; anyō hāva-tanuyē paϑąm vindən. 2 sarəda paiti, manahi
+parštata vaŋhau aŋhat ahmāi **dva-bāgāi**, uta kam-ciš ahmāi paoirya
+([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)).
+Parštāra aojaiti pasča-vaēda arəϑe aŋhati yezi aēša vīciϑra jvatāte
+vərəzyeiti. Nōit̰ aŋhat "an-vərəz" bāgō, aẟa parštatō nōit̰ aojaiti ciš
+vīciϑra aŋhat an-vərəzahe.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (vohunī-bərəzi)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
+SPRINT MIND 9,361 US martiyā sarəda 50 uta mazišta yōi bərəz-vohunī dārayan.
+Hē dātan nītyā vohunī-bərəzi (auru 120) ayā daēsa-bərəzi (auru 140). Nītya
+bərəzi vaŋhau nīkərənvaiti **kasu manahi-draosem**, auru-dāsa parō
+manō-vīmarəząm. Ahmāi **paϑā-manō-vīmarəzā**, kam-ciš martiyā aŋhənti nītyāi
+bāgāi, aẟa vīciϑra nōit̰ bīšaz-maz aŋhat. Parštatō auru frā-dāiti uta kam
+manō-vīmarəzayā vindən, aẟa aipī kasu aŋhat
 ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Čit̰ vispa vaēdā aojaiti
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
+2021 Cochrane vaēdā hām-daēsayən 9 mazišta parštata yōi vərəzyən pouru
+āraϑra zrvāne, ahmāi 18,000 martiyānąm. Aēša kasu sūnəm manahi parštatahe
+vindən, aẟa **nōit̰ spašta vīciϑra čva-ciš martiyā manō-vīmarəząm vindən**
+ahmāi 2 parštatō yōi aēša vaēdən
 ([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+2017 vaēdā haca National Academies of Sciences, Engineering, and Medicine,
+yaϑa NIA gaozaiti, vindən "drvatō aẟa an-spašta" vaēdąm 3 paϑanąm: bərəz-vohunī
+pāθra, bərəz tanu-draosem, uta manahi caitō-bāzaye.
 
-## Does it matter when you start?
+## Mā zrvānō arəϑe yezi tūm paoirya vərəzyehi?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet Commission aojaiti āraϑra nīkərənuta yaϑa auru vaŋhau uta darəγa
+zrvānəm dārata: "yaϑa auru, aẟa vaŋhau" uta "yaϑa darəγa, aẟa vaŋhau." Hā aipī
+aojaiti yaϑa nōit̰ yevaēca kasu nōit̰ darəγa asti āraϑrahe nītyāi. Pouru vaēdā
+midyāna-jvati gaozaiti, 40 haca 65 sarəda, aẟa kēcina caitaya, yaϑa
+cašman-draosa uta aēva-dāiti, zaurve arəϑa darin.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Hā parō-vaēda gaozaiti yaϑa darəγa zrvāne āraϑra mazištəm aēnaŋha kərənavaiti.
+Yaϑa, madu-vohunī midyāna-jvatāte mazištō aŋhat ahmāt̰ yaϑa madu-vohunī zaurve.
 
-## Is dementia risk the same for everyone?
+## Mā manō-vīmarəzahe āraϑrō vīspāi martiyāi hām asti?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Nōit̰. Hā Commission vaēda yaϑa martiyā ahmāi kasu uta midyāna vaŋhu-dāiti
+dax́yunąm, an-mazištāi damai uta kam-išti martiyā darin mazišta āraϑra,
+aẟa manō-vīmarəzā kasu-sarədābiš paitištaiti. Pouru āraϑra aipī jvatāte
+yaēibyo martiyā nōit̰ hām-vərəzyən, yaϑa paity-āiti kəhrpahe, vāto yā jvanti,
+uta vaŋhu xᵛarəθō dūrāi uta mazištahe arəϑahe.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Ahmāi-zātō Commission fradaϑaiti dax́yunąm aipī-dāiti yaϑa martiyānąm: vaŋhu
+paity-āiti apərənāyunąm, vāto-dāθra, cigārahe nītyā, kam šakara uta namaka
+xᵛarəθahe ahmāi vāstryābiš, uta uši-dāθra vispāi yōi dāra. Martiyāhe arəϑa
+arəϑaiti, aẟa aŋhō aipī arəϑaiti. Aēša asti paϑā nōit̰ kašcit̰ aēnaŋha
+dāiti yezi manō-vīmarəzā paitištaiti.
 
-## What are the honest limits of this research?
+## Čit̰ asti an-druxta sravō ahmāi parštatahe?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
+- **Manō-vīmarəzā darəγa zrvāne paitištaiti**, aẟa pouru parštata 2 haca 5
+  sarəda jvanti. Manō-vīmarəzayā vaēdahe mazišta uta darəγa parštata darin.
+- **Pouru parštata manahi parštata vaēnənti.** Kasu vaŋhu parštatahe nōit̰
+  aojaiti yaϑa kam martiyā vīmarəząm vindənti ayā jvati hu-dāiti aŋhati.
+- **Martiyā yōi vərəzyən drvatō aŋhənti** uta vaŋhu paity-āiti dārayanti
+  ahmāt̰ vīspa damā. Lancet Commission aojaiti vaēdā misvānahe dax́yunąm
+  aojaiti uta an-mazištō damā kam aŋhat.
+- **Kēcina āraϑra dva-paϑa jvanti.** Kam-tanu ayā aēva-dāiti auru-dāsa aŋhat
+  manō-vīmarəzayā, nōit̰ aēva caitō.
+- **Xᵛarəθahe parštata nōit̰ mazištō vaēda.** 3 sarəda MIND xᵛarəθō nōit̰
+  vīciϑra manahi vaēda. Vaēnayata ahmākam [diet guide](/brain-health/diet/).
+- **Manahi bāzaye nōit̰ vaēdən apanayanahe.** Vaēnayata ahmākam
   [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **An-xᵛarəθa kam vaēda darin martiyāi**, uta draoso aŋhat zaurve.
+  Vaēnayata ahmākam [fasting guide](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Yezi kašcit̰ vispəm "frārāϑye" vərəzyāt, čišta he manō-vīmarəząm vindi?
 
-Because dementia is not simply the result of choices. The NIA says
+Yaϑa manō-vīmarəzā nōit̰ aēva haca vərəzāhe paitištaiti. Hā NIA aojaiti
 [age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+uta nōit̰ kašcit̰ aēša vərəzyeiti. Zāta-daēna darin. Uta parštāra nōit̰ vispəm
+āxsnuvanti čit̰ Alzheimerhe paiti pouru martiyā. Yezi vispa 14 āraϑra
+apanasyən, Lancet Commission aojaiti yaϑa mazištō bāgō nōit̰ vaēda.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Yezi tūm martiyəm pāhi yō tanu-draosem dāra, vaŋhu xᵛāra, nōit̰ cigāra xᵛāra
+uta aipī manō-vīmarəząm vindi, nōit̰ ciš aēnaŋha ahmāi, nōit̰ tōi. Yezi tūm
+manō-vīmarəzayā jvasi, nōit̰ tōi aēnaŋha. Guilt pouru nmānābiš asti, aẟa nōit̰
+arəϑa. Čit̰ nūram arəϑaiti asti rāma, haxman uta vaŋhu ayara, uta ahmākam
+[activity ideas](/activities/ideas/) uta
+[caregiver self-care guide](/caregiving/caregiver-self-care/) asti vaŋhu paϑā.
 
-## What steps can you talk over with a doctor?
+## Čit̰ tūm bīšazā pərəsahe?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Aēša asti paϑā mazišta parštata. Drvatō aŋhat ahmāi pərəsatā, yaϑa haētum
+zərədō drvatāte, manahi uta hāva-dāθrahe darin, čit̰ paiti manō-vīmarəzayā.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Vohunī-bərəzi.** Pərəsatā čit̰ tōi marəcā uta čit̰ tōi paϑā. Lancet
+   Commission fradaϑaiti 130 ayā nītya haca 40 sarəda, aẟa zaurve pərəsatā
+   vispa drvatāte.
+2. **Uši-draosa.** Pərəsatā uši-parštanahe, uta yezi uši-dāθra sūnəm dāiti.
+   Ahmākam [hearing guide](/brain-health/hearing/) gaozaiti.
+3. **Cašman-draosa.** Cašman-parštana dārō uta pərəsatā yezi draosa bīšazāte.
+4. **Cholesterol.** Pərəsatā yezi tōi LDL cholesterol paršyāte.
+5. **Madu-vohunī.** Yezi tūm diabetes dāsi, pərəsatā yaϑa hu-pāhi.
+6. **Manahi drvatātā.** Bərəz-mana bīšazāte. Pərəsatā yezi tūm kasu-mana
+   dāsi darəγa zrvāne.
+7. **Cigāra uta hurā.** Pərəsatā paϑąm cigārahe nītyā uta drvatō hurā.
+8. **Tanu-draosem.** Pərəsatā čit̰ tanu-arəϑanąm drvatō asti. Ahmākam
+   [exercise guide](/brain-health/exercise/) sūnō dāiti.
+9. **Sarō-pāθra.** Sarō-kəhrpəm dāraya ahmāi bāzaye, uta pərəsatā fall
+   paitišmarahe.
+10. **Aipī-martiyātā.** Zrvānō anyōi martiyābiš asti drvatāte. Vaēnayata
+    ahmākam [social connection](/brain-health/social-connection/), uta
+    [sleep](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Parō vərəzahe daroi, xᵛarəθahe, an-xᵛarəθahe ayā tanu-draosehe, pərəsatā
+tōm bīšazəm paoirya, mazištāi yezi zərədō, diabetes, ayā manō-vīmarəzayā jvasi.
 
-## Talk with a doctor
+## Bīšazā pərəsatā
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
+Yezi tūm vaēnayasi manahi ayā parštatahe vīciϑra tōi ayā anyōi, bīšazəm pərəsatā.
+NIA aojaiti yaϑa
 [memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+yaϑa daro-draosa, thyroid, bərəz-mana ayā kam vitamin B12, uta aēša
+apanasyənti yezi bīšazənti. Ahmākam
+[warning signs guide](/brain-health/warning-signs/) gaozaiti čit̰ vaēnayahe.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Tūiri bīšaz-dāiti dārō** zru-vīciϑrāi: zru kasu-mana, nī-tanutā aēva
+kəhrpāi, duš-sravah, ayā mazišta sarō-hurva. Bīšazəm pərəsatā 112.
 
 ## Where Golden Moments fits
 
-Golden Moments makes simple shared activities, such as
+Golden Moments vərəzyeiti hu-caitō hām-bāzaye, yaϑa
 [conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+[picture bingo](/games/picture-bingo/) uta
+[calm breathing pause](/games/calm-breathing/). Aēša asti rāmahe uta zrvāne
+hām. Nōit̰ asti bīšaz-dāiti, uta nōit̰ manō-vīmarəząm apanayeiti ayā nīkərənvaiti.

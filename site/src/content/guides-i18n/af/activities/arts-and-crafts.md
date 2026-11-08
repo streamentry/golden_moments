@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Kuns en handwerk vir volwassenes met demensie"
+seoTitle: "Kuns en handwerk vir demensie: Volwasse, nie kinderagtig"
+description: "Volwasse kuns en handwerk vir mense wat met demensie leef, van waterverf tot blommerangskikking, met wenke oor voorbereiding en proses bo produk."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Goeie kuns en handwerk vir volwassenes wat met demensie leef, voel en lyk
+  volwasse: waterverf, collage uit tydskrifte, blommerangskikking, klei,
+  eenvoudige kaartjies of inkleurprente vir volwassenes. Sit 'n paar materiale
+  neer, help met die eerste verfstreep indien nodig, gesels terwyl julle besig
+  is, en beskou die tyd saam as die eintlike doel. 'n Voltooide kunswerk is
+  opsioneel.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Kies materiale en temas wat volwasse lyk, soos waterverfpapier, regte blomme en tydskrifprente, eerder as glinsterstof, plakkers of spotprentblaaie."
+  - "Fokus op die proses: die kleure, die gevoel van die klei, die geselskap. 'n Voltooide kunswerk is 'n bonus, nie die doel nie."
+  - "Gee waar moontlik 'n doel daaraan, soos 'n kaartjie vir 'n kleinkind of 'n versiering vir die tafel."
+  - "Help die persoon om te begin en gee dan spasie. Om saam aan die eerste verfstreep te werk, is dikwels genoeg."
+  - "Projekte hoef nie in een sessie voltooi te word nie, en dit is altyd heeltemal reg om vroeg op te hou."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Hoe keer ek dat handwerk kinderagtig voel?"
+    a: "Gebruik regte kunsbenodigdhede, volwasse temas en 'n respekvolle toon. Ruil glinsterstof en spotprentprente vir waterverfpapier, lap, blomme, tydskriffoto's en gedetailleerde inkleurprente. Moet nooit die werk prys soos wat jy 'n kind se tekening sou prys nie; gesels daaroor soos wat jy met enige volwasse vriend sou gesels."
+  - q: "Watter kunsaktiwiteite werk in latere stadiums van demensie?"
+    a: "Eenvoudige, sensoriese projekte werk later die beste: breë verfstrepe met 'n groot kwas, die druk van sagte klei, 'n paar blomme in 'n vaas sit, of lapmonsters op gevoel sorteer. Julle sal dalk die beweging saam moet begin. Om te kyk hoe jy verf en oor die kleure te gesels, is ook 'n manier om deel te neem."
+  - q: "Wat as die persoon sê hulle kan nie teken nie?"
+    a: "Haal die druk af. Probeer projekte waar daar geen regte of verkeerde manier is nie, soos 'n waterverfwas, 'n collage, of om blomme te rangskik. Jy kan ook vra vir hulp met iets spesifiek, soos om kleure vir 'n kaartjie te kies, sodat dit soos 'n guns voel eerder as 'n toets."
+  - q: "Is inkleurprente te kinderagtig vir volwassenes?"
+    a: "Nie wanneer hulle vir volwassenes ontwerp is nie. Kies prente met volwasse temas soos tuine, kwilte, motors of landskappe, en bied dit aan as ontspanning eerder as 'n les. Ons inkleurprente kan uitgedruk word of op 'n tablet ingekleur word."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Kuns en handwerk gee mense wat met demensie leef 'n manier om hulself uit te druk sonder om die regte woorde te hoef vind. Die Alzheimer's Association wys daarop dat kunsprojekte 'n [sin van prestasie en doelgerigtheid](https://www.alz.org/help-support/caregiving/daily-care/art-music) kan bring, asook 'n geleentheid vir selfuitdrukking – vir sowel die versorger as die persoon met demensie. Die geheim is om dinge volwasse, eenvoudig en sonder druk te hou. Hierdie bladsy bied spesifieke projekte, hoe om dit voor te berei en hoe om dit aan te pas soos dinge verander.
 
-## What makes an art activity adult and not childish?
+## Wat maak 'n kunsaktiwiteit volwasse en nie kinderagtig nie?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+'n Volwasse kunsaktiwiteit gebruik regte materiale, volwasse temas en 'n respekvolle toon. Die Alzheimer's Association raai aan om projekte op 'n volwasse vlak te hou en enigiets te vermy wat neerhalend of kinderlik kan voel.
 
-| Feels childish | Feels adult |
+| Voel kinderagtig | Voel volwasse |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Glinsterstof, skuimplakkers, wiegelogies | Waterverfpapier, lap, geparste blomme |
+| Spotprent-inkleurblaaie | Inkleurprente van tuine, kwilte, motors of landskappe |
+| Oordrewe lof soos „Mooi so!” vir elke streep | Regte gesprek: „Daardie blou lyk pragtig langs die groen” |
+| Handwerk sonder enige nut | 'n Kaartjie vir 'n vriend, 'n tafelversiering, 'n geskenk |
+| Instruksies wat soos 'n les klink | 'n Uitnodiging: „Sal jy my hiermee help?” |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Dink aan die persoon se eie voorkeure en belangstellings. Iemand wat van naaldwerk gehou het, sal dit dalk geniet om met lap te werk. 'n Afgetrede ingenieur sal dalk 'n modelstel met groot stukke verkies, of om ysterware vir 'n projek te sorteer. 'n Voormalige onderwyser sal dit dalk geniet om kaartjies te maak.
 
-## Why focus on the process, not the product?
+## Waarom fokus op die proses en nie die produk nie?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Omdat die tyd saam die eintlike doel is. Die Alzheimer's Association se gids oor [aktiwiteite by die huis](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) sê om op die proses te konsentreer, nie op die resultaat nie. 'n Skildery wat „net blou” is, is steeds 'n skildery. 'n Collage met drie prentjies is steeds 'n collage.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Die vereniging wys ook daarop dat 'n professionele kunstenaar dalk gefrustreerd kan raak deur veranderinge in hul werk, terwyl 'n amateur dalk 'n nuwe geleentheid geniet om hulself uit te druk. As die persoon 'n vaardige kunstenaar was, probeer gerus 'n ander medium as dié wat hulle bemeester het, sodat dit soos ontspanning voel eerder as 'n vergelyking met vroeër.
 
-## Arts and crafts ideas to try
+## Idees vir kuns en handwerk om te probeer
 
-Each idea includes how to make it simpler if it becomes hard.
+Elke idee sluit in hoe om dit eenvoudiger te maak as dit te moeilik raak.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Waterverfwasse.** Maak 'n vel dik waterverfpapier klam en laat die persoon kleur daarop drup met 'n groot kwas. Die kleure versprei vanself, so daar is geen verkeerde resultaat nie. *Eenvoudiger:* bied net twee kleure aan, of verf met water op donker papier wat die nat merke wys.
+2. **Tydskrif-collage.** Knip vooraf prente uit tydskrifte oor tuinmaak, kookkuns, motors, reis of die persoon se vroeëre stokperdjies. Laat hulle prente kies en op stewige karton plak. *Eenvoudiger:* bied vier vooraf geknipte prente en 'n gomstiffie aan, en doen die plakwerk saam.
+3. **Blommerangskikking.** Die Alzheimer's Foundation of America stel voor om [snyblomme en lower te rangskik](https://alzfdn.org/dementia-activity-gardening/) in eenvoudige seisoenale uitstallings. Gebruik 'n swaar, stewige vaas en stingels wat reeds geknip is. *Eenvoudiger:* sit 'n paar stingels een vir een in 'n klein beker of koppie.
+4. **Kaartjies met geparste blomme.** Pars blomme uit 'n ruiker vir 'n week tussen boekbladsye, en plak hulle dan op gevoude karton. *Eenvoudiger:* jy sit die gom aan en die persoon druk die blom vas.
+5. **Inkleurprente vir volwassenes.** Kies prente met duidelike buitelyne en herkenbare onderwerpe. Ons drukbare [inkleurprente](/games/coloring/) kan ook op 'n skerm ingekleur word deur op 'n kleur te tik en dan op 'n deel van die prent. *Eenvoudiger:* groter dele, minder kleure, dik viltpenne.
+6. **Klei of sagte deeg.** Rol, druk en vorm lugdroë klei of sagte modelleerdeeg. Deur 'n blaar in die klei te druk, maak jy 'n eenvoudige afdruk-teël. *Eenvoudiger:* om net te knie en te rol, is reeds 'n volwaardige aktiwiteit. Let op dat die persoon nie klei in hul mond sit nie.
+7. **Kaartjies maak.** Die Alzheimer's Association stel voor om dit as 'n werklike taak in te klee: „Ons stuur 'n beterskapkaartjie vir 'n vriend. Sal jy help?” Vooraf geknipte karton en 'n paar blomplakkers of posseëls werk baie goed.
+8. **Plakboek maak.** Sit afskrifte van ou foto's, poskaarte of kaartjiestompies saam op albumblaaie. Gesels oor elkeen terwyl julle besig is. Sien ons [gids oor herinnerings](/activities/reminiscence/) vir sagte maniere om oor die verlede te gesels.
+9. **Lap- en tekstuurborde.** Plak stukkies ferweel, fluweel, goiing en sy op stywe karton. Om dit te maak is die een aktiwiteit; om later daaraan te voel is 'n ander. Meer idees is in ons [gids oor sensoriese aktiwiteite](/activities/sensory/).
+10. **Eenvoudige houtwerk.** Vir iemand wat van houtwerk gehou het, kan die skuur van 'n gladde houtblok of die verf van 'n voëlhuisie bekend en natuurlik voel. Verwyder skerp gereedskap en hou toesig.
+11. **Verf op maat van musiek.** Sit 'n gunstelingplaat of -snit op en verf vorms of kleure wat by die stemming pas. Dit kombineer twee aktiwiteite wat baie mense geniet. Sien [musiekaktiwiteite](/activities/music/).
 
-## How do I set up an art session?
+## Hoe berei ek 'n kunssessie voor?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Berei vooraf voor.** Knip, sny en pak alles reg voordat jy die persoon nooi. As hulle moet wag terwyl jy na 'n skêr soek, kan die oomblik verlore gaan.
+2. **Hou dit eenvoudig en klein.** Twee of drie kleure, een kwas, een vel papier. Te veel keuses kan oorweldigend wees.
+3. **Beskerm die tafel.** 'n Plastiektafeldoek of 'n ou laken beteken dat mors nie 'n bekommernis is nie.
+4. **Sit langs mekaar.** Werk aan jou eie stuk langs hulle s'n. Dit voel soos iets wat julle deel, nie soos toesig nie.
+5. **Help hulle om te begin.** Die Alzheimer's Association noem dat jy dalk die kwashale saam met die persoon moet begin. Sodra hulle begin het, gaan baie mense vanself voort.
+6. **Gesels terwyl julle besig is.** Lewer kommentaar oor kleure en teksture, of laat die kuns lei na stories. Vermy vasvra-tipe vrae soos „Wat is dit?”
+7. **Laat oorgenoeg tyd toe.** 'n Projek hoef nie in een sessie voltooi te word nie.
 
-## How do I adapt art as dementia changes?
+## Hoe pas ek kuns aan soos wat demensie verander?
 
-| Stage | What tends to work | What to adjust |
+| Stadium | Wat gewoonlik werk | Wat om aan te pas |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Vroeë stadium | Klasse, gedetailleerde inkleurwerk, plakboeke, kaartjies maak, verf vanaf 'n foto | Bied 'n keuse van projekte aan; hou dit sosiaal |
+| Middelstadium | Vooraf geknipte collage, waterverfwasse, blommerangskikking, inkleur met groot areas | Een stap op 'n slag; hanteer self die knip- en plakwerk |
+| Laat stadium | Breë kwashale, druk van klei, voel aan lap, kyk hoe jy verf | Fokus op die sintuie; lei die hand saggies indien welkom |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+Die NHS stel voor dat aktiwiteite in latere stadiums dikwels vereenvoudig word en op die sintuie fokus. Om te kyk hoe iemand anders verf, en oor die kleure te gesels, is 'n werklike manier om deel te neem. Vir meer idees volgens stadium, sien [aktiwiteite vir elke stadium](/activities/ideas/).
 
-## Safety with art supplies
+## Veiligheid met kunsbenodigdhede
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Kies nie-giftige verf, viltpenne en gomstiffies.
+- Hou skêre, handwerkmesse en warm gompistole buite bereik. Doen alle knipwerk self, vooraf.
+- Let op dat die persoon nie klei, verf of klein voorwerpe in hul mond sit nie.
+- Gebruik stewige, swaar houers vir water en blomme.
 
-## When should we stop?
+## Wanneer moet ons ophou?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Hou op wanneer aandag begin dwaal of frustrasie wys. Die Alzheimer's Association stel voor om 'n aktiwiteit te beëindig of te verander wanneer die konsentrasie afneem of frustrasie toeneem. Bêre die projek op 'n veilige plek en bied iets rustigs aan. Julle kan môre daarna terugkeer, of nooit weer nie. Albei is heeltemal reg.
 
-## Display the work, if the person wants
+## Stal die werk uit as die persoon wil
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Om 'n skildery op die yskas vas te steek of 'n collage te raam, kan 'n stil manier wees om respek te betoon. Vra eers. Sommige mense is mal daaroor om hul werk teen die muur te sien; ander verkies om dit nie te doen nie.
 
-## Pair art with our games
+## Kombineer kuns met ons speletjies
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Op dae wanneer dit te veel moeite is om verf uit te haal, werk [Inkleur](/games/coloring/) sonder enige morsery op 'n tablet. [Prentlegkaart](/games/picture-puzzle/) hou die hele prent sigbaar as 'n gids terwyl jy stukke omruil. [Gesprekkaarte](/games/conversation-cards/) bied oop vrae wat van 'n prent na 'n storie kan lei. Nie een van hulle het 'n tydhouer of 'n telling nie. Jy kan ook blaaie uit ons versameling van [drukbare aktiwiteite](/activities/printable/) uitdruk.

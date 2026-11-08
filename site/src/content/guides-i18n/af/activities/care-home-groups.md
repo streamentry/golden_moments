@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Groepaktiwiteite vir demensie: Gids vir versorgingsoorde"
+seoTitle: "Groepaktiwiteite vir demensie: Bingo, sang, stories"
+description: "Groepaktiwiteite vir geheuesorg en dagsorg: prentjiebingo, samesang, herinneringskringe, plus raad oor sitplekke en groepgrootte."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Goeie groepaktiwiteite in geheuesorg en dagsorgprogramme is kort, bekend en
+  maklik om op enige vlak aan deel te neem: prentjiebingo, samesang,
+  herinneringskringe, eenvoudige beweging en gedeelde woordspeletjies. Hou
+  groepe klein waar moontlik, sit mense sodat almal kan sien en hoor, gee een
+  duidelike stap op ’n slag, en beplan ’n makliker rol en ’n stil uitgang vir
+  enigeen wat dit nodig het.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Kleiner groepe werk dikwels beter as een groot byeenkoms, en dit gee meer mense die kans om aktief deel te neem eerder as om net te sit en kyk."
+  - "Laat mense in ’n kring of hoefyster sit, naby aan die leier, met gehoor- en sigbehoeftes in gedagte en agtergrondgeraas afgeskakel."
+  - "Beplan elke aktiwiteit op twee of drie vlakke sodat mense met verskillende vermoëns almal kan meedoen."
+  - "Vermy vasvrae, puntetellings en wenners. Prentjiebingo kan gespeel word sodat almal uiteindelik ’n vol kaart het."
+  - "Om vroeg te loop, net te kyk of in te sluimer is heeltemal reg. Hou ’n personeellid gereed om enigeen te ondersteun wat ’n stiller plek verkies."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Wat is ’n goeie groepgrootte vir aktiwiteite vir mense met demensie?"
+    a: "Daar is nie een enkele regte getal nie, en dit hang af van die inwoners, die vertrek en hoeveel personeellede beskikbaar is. Baie spanne vind dat klein groepe almal laat sien, hoor en deelneem, terwyl byeenkomste in groot vertrekke dikwels veroorsaak dat meer mense net toeskouers bly. As jy ’n groot byeenkoms reël, kry ekstra personeellede of vrywilligers by wat tussen die inwoners kan sit en elkeen een of twee mense kan bystaan."
+  - q: "Hoe hanteer ek ’n groep met uiteenlopende vermoëns?"
+    a: "Beplan meer as een manier om aan elke aktiwiteit deel te neem. By samesang sing sommige mense elke woord, sommige klap hande of neurie, en sommige hou ’n skudinstrument vas. By prentjiebingo vind sommige mense hul eie prentjies terwyl ’n helper vir ander daarna wys. Laat mense wat meer hulp nodig het langs ’n personeellid of vrywilliger sit."
+  - q: "Hoe speel ek prentjiebingo sonder dat dit mededingend raak?"
+    a: "Roep elke prentjie uit totdat elkeen se kaart vol is, sodat niemand uitgelaat voel nie. Gesels oor elke prentjie soos dit verskyn, en moenie pryse vir wenners uitdeel nie, of gee vir almal dieselfde klein bederfie. Die doel is gedeelde aandag en geselskap, nie wie eerste klaarmaak nie."
+  - q: "Kan ek julle speletjies op ’n groot skerm in ’n groep gebruik?"
+    a: "Ja. Ons speletjies werk in ’n webblaaier, so jy kan dit oopmaak op ’n skootrekenaar of tablet wat aan ’n TV of projektor gekoppel is. Picture Bingo bevat drukbare kaarte en ’n uitroeper op die skerm. Finish the Saying en Picture Pairs werk ook baie goed op ’n groot skerm waar een persoon namens die groep op die skerm tik."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Hierdie gids is bedoel vir aktiwiteitskoördineerders, geheuesorgspanne en leiers van dagsorgprogramme. Dit dek groepformate wat werk, hoe om die vertrek in te rig, hoe om een aktiwiteit vir uiteenlopende vermoëns aan te pas, en hoe om ons drukbare bingokaarte en grootskermspeletjies te gebruik. Alles hier is gerig op gerief, verbintenis en keusevryheid. Niks hiervan is ’n toets nie.
 
-## What makes a group activity work in memory care?
+## Wat laat ’n groepaktiwiteit in geheuesorg werk?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+’n Goeie groepaktiwiteit is bekend, kort, maklik om op enige vlak by aan te sluit en vry van druk. Die Alzheimer's Association se [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) beskryf betekenisvolle betrokkenheid as iets wat ’n persoon se belangstellings en voorkeure ondersteun en ruimte bied vir keuses en sukses, selfs wanneer demensie reeds baie gevorderd is. Dieselfde dokument merk op dat tradisionele programme dikwels staatmaak op een of twee groot groepbyeenkomste per dag waarin inwoners dikwels net passief betrokke is.
 
-That points to a few practical rules:
+Dit wys op ’n paar praktiese reëls:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Bekend is beter as nuut.** Liedjies, gesegdes, prente en voorwerpe uit inwoners se vroeëre jare maak dit makliker om saam te doen.
+- **Kort is beter as lank.** Beplan vir ongeveer die aandagspan wat jou groep gewoonlik het, met ’n natuurlike breekpunt halfpad deur.
+- **Doen is beter as kyk.** Gee vir elke persoon iets om vas te hou, te tik, te kies of te sê.
+- **Veelvuldige vlakke, een aktiwiteit.** Bou makliker en meer uitdagende maniere in om deel te neem.
+- **Geen wenners, geen tellings.** Mededingende formate laat sommige mense voel asof hulle misluk het.
 
-## How big should the group be?
+## Hoe groot moet die groep wees?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Kleiner is gewoonlik makliker. Die Alzheimer's Association merk op dat iemand wat ’n groot byeenkoms oorweldigend vind, dalk meer suksesvol in ’n kleiner groepie kan verkeer. Daar is nie een enkele regte getal nie. Dit hang af van die inwoners, die vertrek en hoeveel personeellede en vrywilligers beskikbaar is.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+’n Handige toets: kan elke persoon die leier se gesig sien, duidelik hoor en binne ’n paar sekondes deur ’n helper bereik word? Indien nie, verdeel die groep, kry meer helpers by, of skuif na ’n kleiner vertrek toe.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Vir ’n groot byeenkoms, soos ’n feeskonsert, laat personeel en vrywilligers tussen die inwoners sit, nie langs die mure nie.
 
-## How should I set up the room and seating?
+## Hoe moet ek die vertrek en sitplekke inrig?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Kring of hoefyster.** Die praktykaanbevelings beskryf ’n deelkring as die beste opsie in ’n ruimte wat groot genoeg is sodat almal in ’n kring kan sit, sonder enige agtergrondgeraas.
+- **Leier naby en op ooghoogte.** Sit liewer as om te staan waar moontlik.
+- **Gehoor en sig eerste.** Laat mense met gehoorverlies die naaste aan die leier sit, aan die kant waar hulle die beste hoor. Maak seker dat brille op is en gehoorapparate aan is. Die Alzheimer's Association merk op dat sig- en gehoorprobleme kommunikasie kan bemoeilik.
+- **Lig van agter die inwoners, nie van agter jou nie.** Moenie iemand reg voor ’n helder venster laat sit nie.
+- **Skakel die TV en radio af.** Die Alzheimer's Association raai aan om steurende agtergrondgeraas tydens musiekaktiwiteite uit te skakel.
+- **Een gesprek op ’n slag.** Deurmekaarpraat is moeilik vir mense wat met demensie leef en mense met gehoorverlies, soos die Alzheimer's Association in hul [vakansie-riglyne](https://www.alz.org/help-support/caregiving/holidays) uitwys.
+- **Oop uitgange en ’n stil hoekie.** Enigeen wat wil loop, behoort dit maklik te kan doen, met ’n personeellid wat saam met hulle stap.
 
-## Group activity ideas
+## Idees vir groepaktiwiteite
 
-### Picture bingo
+### Prentjiebingo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Prentjiebingo vervang syfers met duidelike prente, soos ’n teepot, ’n hond of ’n roos, sodat niemand ’n lang syfer hoef te volg of fynskrif hoef te lees nie.
 
-**How to run it:**
+**Hoe om dit aan te bied:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Druk een kaart per persoon vanaf ons [Picture Bingo](/games/picture-bingo/)-bladsy met die Druk-knoppie. Swaarder papier is makliker om te hanteer. Lamineer dit vir hergebruik.
+2. Deel groot merkers uit wat maklik opgetel kan word, soos pokerskyfies, botteldoppies of geknipte kartonblokkies.
+3. Gebruik die uitroeper op die skerm op ’n TV of projektor sodat almal die prentjie sien soos jy die naam daarvan sê.
+4. Pouseer na elke prentjie en nooi ’n kort opmerking uit: “Wil iemand ons vertel van ’n hond wat jy geken het?” of “Wat merk julle op van hierdie een?”
+5. Hou aan uitroep totdat elke kaart vol is. Almal maak klaar.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Aanpassings:** Gebruik minder blokkies vir mense wat ’n vol kaart te besig vind. ’n Helper kan na die passende prentjie wys vir iemand wat dit nodig het. Sommige mense verkies dalk om die uitroeper se prentkaart vas te hou en dit vir die groep te wys.
 
-### Sing-alongs
+### Samesang
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Musiek is een van die groepaktiwiteite wat die meeste geniet word. Die Alzheimer's Association merk op dat selfs in gevorderde stadiums, ’n persoon dalk steeds in staat kan wees om [’n ritme te tik of ’n kinderliedjie te sing](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Hoe om dit aan te bied:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Kies liedjies waarmee inwoners grootgeword het, nie die leier se gunstelinge nie. Vra families waarvan elke persoon gehou het.
+- Gebruik musiek sonder advertensies, wat volgens die vereniging verwarrend kan wees.
+- Druk lirieke in groot skrif vir diegene wat kan lees, maar moenie dit verwag nie.
+- Bied skudinstrumente, handtromme of serpies aan om mee te waai.
+- Moedig handeklap en beweging aan, en hou die klankvolume gemaklik.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Aanpassings:** Sommige mense sal elke woord saamsing, sommige sal neurie, sommige sal ’n voet tik, en sommige sal bloot net luister. Al hierdie dinge tel. Sien ons [gids vir musiekaktiwiteite](/activities/music/) vir meer.
 
-### Reminiscence groups
+### Herinneringsgroepe
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+’n Herinneringsgroep kom byeen rondom ’n tema, soos skooldae, eerste motors, kombuise of somer, met behulp van foto's, voorwerpe en musiek. Die doel is ’n aangename gesprek, nie akkurate feitekennis nie.
 
-**How to run it:**
+**Hoe om dit aan te bied:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Kies een tema en bring ’n paar voorwerpe wat mense kan vashou: ’n handklitser, ’n krieketbal, ’n hoed, ’n saadkatalogus.
+2. Gee een voorwerp op ’n slag aan. Vra oop vrae: “Vertel my hiervan,” “Wat merk jy op?” “Wie het al so iets gebruik?”
+3. Verwelkom elke antwoord. Moet nooit ’n datum of feit korrigeer nie.
+4. Stuur die gesprek in die rigting van warm herinneringe. Die praktykaanbevelings meld dat versorgers herinneringe na positiewe gedagtes moet stuur eerder as herinneringe wat ontsteltenis kan veroorsaak.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) bied drukbare prentkaarte met oop vrae volgens tema wat uitstekend werk om gesprekke aan die gang te kry. Meer idees is beskikbaar in ons [herinneringsgids](/activities/reminiscence/).
 
-### Finish the saying
+### Voltooi die gesegde
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Bekende gesegdes (“A penny saved is a penny...”) moedig almal aan om die einde saam uit te roep. Vertoon [Finish the Saying](/games/finish-the-saying/) op ’n groot skerm en laat die groep soos uit een mond antwoord. Daar is ’n gesprekstemastoot na elke gesegde. As niemand die einde sê nie, wys dit en gaan aan. Daar is geen reg of verkeerd nie.
 
-### Large-print word search, together
+### Grootdruk-woordsoek, saam
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Projekteer die grootdruk-[Word Search](/games/word-search/) op ’n skerm en soek saam as ’n groep na woorde, of druk afskrifte vir diegene wat dit geniet om op hul eie by die tafel te werk. Woorde loop slegs dwars en af.
 
-### Gentle movement
+### Ligte beweging
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Sittende strekoefeninge, die aangee van ’n sagte bal of ballon, of stoeldans op bekende musiek. Demonstreer elke beweging eerder as om dit net te beskryf.
 
-### Sorting and matching at the table
+### Sorteer en pasmaak by die tafel
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Klein tafeltjies van drie tot vier mense kan prente, lapstrokies of eetgerei saam sorteer. Op die skerm kan [Picture Pairs](/games/picture-pairs/) gespeel word met die prente wat sigbaar bly, terwyl een persoon tik en die tafel oor elke prent gesels.
 
-## How do I use your games on a big screen?
+## Hoe gebruik ek julle speletjies op ’n groot skerm?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Ons speletjies werk in ’n webblaaier, so jy kan dit op ’n TV of projektor gebruik sonder om enigiets te installeer.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Maak die speletjie oop op ’n skootrekenaar of tablet wat met ’n kabel of deur stroming aan die skerm gekoppel is.
+2. Maak die blaaier volskerm en stel die klank op ’n gemaklike vlak.
+3. Laat een leier op die skerm tik terwyl die groep keuses uitroep. Of gee ’n tablet aan vir ’n inwoner wat ’n beurt wil kry.
+4. Stop wanneer die groep gereed is. Die speletjies het geen tydhouer, telling of gedwonge einde nie.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) en [Conversation Cards](/games/conversation-cards/) pas gewoonlik die beste by groepe. Sien alle opsies op ons [speletjiesbladsy](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Hoe pas ek een aktiwiteit aan vir uiteenlopende vermoëns?
 
-Plan at least three ways to join every activity.
+Beplan ten minste drie maniere om aan elke aktiwiteit deel te neem.
 
-| Activity | More independent | Some support | Most support |
+| Aktiwiteit | Meer onafhanklik | Enige ondersteuning | Meeste ondersteuning |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Prentjiebingo | Vind en bedek eie prente | Helper wys; persoon bedek | Hou ’n prentkaart vas; luister en kyk |
+| Samesang | Sing saam, kies volgende liedjie | Neurie, klap hande, gebruik ’n skudinstrument | Luister, hou ’n serpie vas, tik met ’n hand |
+| Herinneringe | Vertel stories | Antwoord ja-of-nee of wys | Hou die voorwerp vas en voel daaraan |
+| Woordsoek | Werk op eie gedrukte kopie | Soek woorde op die groot skerm saam met ’n helper | Luister soos woorde hardop gelees word |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Vir inwoners in latere stadiums merk die NHS op dat aktiwiteite gewoonlik eenvoudiger moet wees en meer op die sintuie moet fokus, soos musiek, tasbare voorwerpe en handmassering. ’n Een-tot-een oomblik tydens of na die groep pas hulle dalk beter as die groep self. Sien [aktiwiteite vir latere stadiums](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Hoe behoort leiers tydens ’n groep te praat?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Stel jouself elke keer voor, en gebruik elke persoon se voorkeurnaam.
+- Praat stadig, gee een stap op ’n slag, en wys voor jy verduidelik.
+- Vra oop uitnodigings (“Vertel my van...”) of eenvoudige keuses, nooit vasvravrae nie (“Onthou jy...?”).
+- Moenie korrigeer nie. Bedank mense vir elke bydrae.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Meer hieroor is te vinde in ons [kommunikasiewenke](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Goed afsluit, en mense toelaat om te loop
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Om op te hou is ’n goeie uitkoms. Wees op die uitkyk vir tekens dat iemand moeg, rusteloos of ontsteld is, en laat ’n helper aanbied om te gaan stap of ’n stil sitplek elders te kry. Iemand wat tydens samesang insluimer, voel dalk bloot net gemaklik.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Sluit elke groep op dieselfde manier af, met ’n bekende liedjie of ’n eenvoudige dankie, sodat die einde kalm en voorspelbaar voel. Maak daarna vinnig ’n paar notas van wat gewerk het en wie wat geniet het. Daardie notas help om die volgende sessie nog beter te maak.

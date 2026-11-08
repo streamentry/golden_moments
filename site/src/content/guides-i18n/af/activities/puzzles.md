@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Legkaarte vir mense met demensie: Bou- en woordraaisels"
+seoTitle: "Legkaarte vir demensie: Bou- en woordraaisels"
+description: "Hoe om legkaarte, woord- en aanlyn raaisels vir iemand met demensie te kies: stukgrootte, prente, groot druk, saam bou en wanneer om dit te vereenvoudig."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Die beste legkaart vir iemand met demensie is een wat hulle met 'n bietjie
+  hulp kan voltooi en terwyl hulle dit geniet. Kies legkaarte met minder, groter
+  stukke en 'n duidelike prent vir volwassenes, hou die boksdeksel se prent in
+  sig, en pak die randstukke eerste uit. Woordsoekers en blokkiesraaisels werk die
+  beste in groot druk. Maklike aanlyn legkaarte met vier stukke pas goed by die
+  middelstadium. Hou op terwyl dit nog lekker is.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Kies volgens hoe dit gaan, nie volgens 'n stadiumetiket nie: as 'n legkaart soos harde werk voel, probeer een met minder stukke."
+  - "Groot, stewige stukke en 'n duidelike prent met duidelike kleurdele is makliker as klein stukkies en groot oop lug."
+  - "Prente vir volwassenes maak saak. Tuine, kombuise, motors en diere, nie tekenprente nie."
+  - "Om dit saam te doen, is die belangrikste. Gee stukke aan, sorteer rande, en hou die boksdeksel in sig."
+  - "Grootdruk-woordsoekers en maklike aanlyn legkaarte met 4 of 9 stukke is gratis op hierdie webwerf."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Hoeveel legkaartstukke is die beste vir iemand met demensie?"
+    a: "Daar is nie net een regte getal nie. Iemand wat vroeër legkaarte van 1 000 stukke gebou het, kan vroeg in die verloop dalk nog 'n paar honderd stukke geniet, terwyl ander die beste vaar met omtrent 'n dosyn groot stukke. As 'n legkaart soos werk voel of frustrasie veroorsaak, kies minder stukke. Ons aanlyn Prentlegkaart het 4 of 9 stukke."
+  - q: "Is legkaarte goed vir mense met demensie?"
+    a: "Baie mense geniet dit, veral as hulle vroeër van legkaarte gehou het. 'n Legkaart gee die hande iets om te doen, 'n duidelike doelwit en 'n prent om oor te gesels. Geen legkaart het al gewys dat dit demensie behandel of vertraag nie, so kies dit bloot vir pret en geselskap."
+  - q: "Wat kan ek doen as iemand nie meer 'n legkaart kan bou nie?"
+    a: "Maak dit kleiner en doen self meer daarvan: gee een stuk op 'n slag aan, of los net die laaste paar stukke vir hulle. Probeer 'n aanlyn legkaart met 4 stukke, sorteer stukke volgens kleur, of kyk eenvoudig saam na die voltooide prent."
+  - q: "Is blokkiesraaisels en woordsoekers geskik vir demensie?"
+    a: "Dit kan wees in die vroeë stadium, veral in groot druk. Woordsoekers met woorde wat net van links na regs en afwaarts loop, is makliker as dié met diagonale of agterstevoor woorde. Lees die leidrade of die woordelys hardop en werk saam daaraan."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+'n Legkaart wat op die eettafel uitgesprei lê, is een van die maklikste aktiwiteite om saam te geniet. Julle kan rustig langs mekaar sit sonder om te praat, die prent gee iets om oor te gesels, en dit voel goed om daardie laaste stukkie in te pas. Legkaarte moet egter aanpas soos wat demensie verander. 'n Legkaart wat te moeilik is, kan 'n rustige middag in 'n frustrerende een verander. Hierdie bladsy verduidelik hoe om legkaarte, woordraaisels en maklike aanlyn legkaarte te kies en reg te sit, en wat om te doen wanneer dit moeilik raak.
 
-## Are puzzles good for people with dementia?
+## Is legkaarte goed vir mense met demensie?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Baie mense geniet dit, veral diegene wat vroeër van legkaarte en raaisels gehou het. Die [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lys woordsoekers, kaartspeletjies en bordspeletjies onder aktiwiteite vir die vroeë stadium, en die [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) noem aanlyn speletjies en legkaarte op tablette as een manier om besig te bly.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Legkaarte is nie 'n behandeling nie. Geen legkaart het al getoon dat dit demensie kan vertraag of stopsit nie; ons gids oor [breinspeletjies en demensie](/brain-health/brain-games/) verduidelik die navorsing. Die rede om 'n legkaart te bou, is dat dit 'n aangename, rustige uurtjie saam kan bied. Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) som dit goed op: fokus op die genot, nie op prestasie nie.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Hoe kies jy 'n legkaart vir iemand met demensie?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Kyk na wat die persoon geniet en hoe die vorige legkaart afgeloop het, nie na 'n stadiumetiket nie.
 
-### Number of pieces
+### Aantal stukke
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Daar is nie 'n vaste getal wat reg is nie. Iemand wat sy lewe lank legkaarte gebou het, kan vroeg in die verloop dalk nog 'n paar honderd stukke geniet, terwyl iemand anders die gelukkigste is met 'n dosyn. 'n Praktiese riglyn: as die vorige legkaart soos harde werk gevoel het, kies een met omtrent die helfte minder stukke. As dit vinnig voltooi is en die persoon wou nog bou, kan jy die aantal stukke effens verhoog.
 
-### Piece size and feel
+### Grootte en gevoel van die stukke
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Groter stukke** is makliker om te sien, op te tel en te draai.
+- **Dik, stewige stukke** skuif nie maklik rond nie en breek nie as hulle val nie.
+- **'n Mat afwerking** verminder weerkaatsing onder lampe en vensters.
+- **Vermy baie klein stukkies** as die persoon dalk dinge in die mond steek, wat later met demensie kan gebeur.
 
-### The picture
+### Die prent
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Onderwerpe vir volwassenes.** Tuine, kombuise, ou motors, plaasdiere, 'n kusdorpie of 'n gunsteling sportsoort. Nie tekenprente of enigiets wat soos kinderspeelgoed lyk nie.
+- **Duidelike kleurdele.** 'n Rooi skuur, 'n blou boot en 'n groen veld is makliker as 'n blou lug wat die helfte van die legkaart beslaan.
+- **Bekend en persoonlik.** 'n Prent van 'n plek waar hulle gewoon het of 'n stokperdjie waarvan hulle gehou het, gee baie om oor te gesels. Party drukwinkels kan selfs 'n gesinsfoto in 'n legkaart omskep.
 
-## How do you do a puzzle together?
+## Hoe bou julle 'n legkaart saam?
 
-Set it up so the person can get straight to the enjoyable part.
+Rig dit so in dat die persoon dadelik by die lekker deel kan uitkom.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Kies 'n goeie plek.** Goeie lig, 'n stoel met armleunings, en 'n tafel of skinkbord waar die legkaart kan bly lê.
+2. **Stut die boksdeksel orent** waar julle albei dit maklik kan sien.
+3. **Draai die stukke met die prentkant na bo** voor julle begin.
+4. **Sorteer die randstukke** self uit, of bou eers die raam en los die binnekant vir hulle.
+5. **Groepeer stukke volgens kleur** in 'n paar plat bakkies of borde.
+6. **Gee een stuk op 'n slag aan** as die hoop te veel raak. "Ek dink hierdie stukkie pas by die skuur."
+7. **Gesels oor die prent,** nie oor die vordering nie. "Dit lyk net soos die boot wat my pa gehad het."
+8. **Los dit oop.** Kom oor 'n paar dae daarna terug. Daar is geen haas nie.
+9. **Eindig op 'n goeie noot,** net nadat 'n stukkie ingepas is, terwyl dit nog aangenaam voel.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) beveel aan om die persoon te help begin, op te let vir tekens van frustrasie en hulle bloot te laat kyk as hulle dit meer geniet. Om te kyk hoe jy stukke inpas en te wys waar een dalk hoort, is steeds volwaardige deelname.
 
-## Easy online puzzles
+## Maklike aanlyn legkaarte
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+'n Legkaart op 'n tablet het groot voordele: geen verlore stukkies nie, groot prente wat die skerm vul, en geen tafel wat afgepak hoef te word nie.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Ons gratis [Prentlegkaart](/games/picture-puzzle/) verdeel 'n prent in 4 of 9 stukke. Tik op twee stukke om hulle om te ruil totdat die prent heel is. Die voltooide prent bly op die skerm as 'n gids, daar is geen tydhouer nie, en julle kan enige tyd ophou. Vier stukke pas goed by baie mense in die middelstadium wanneer iemand langs hulle sit.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Vir nog eenvoudiger prentaktiwiteite, probeer [Soek dieselfde](/games/find-the-same/), waar jy op die prent tik wat ooreenstem met die een boaan, of [Sorteer saam](/games/sort-together/), waar prente in mandjies soos die kombuis of die tuin geplaas word.
 
-## Word puzzles: word searches and crosswords
+## Woordraaisels: woordsoekers en blokkiesraaisels
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Woordraaisels pas by mense wat nog altyd daarvan gehou het, gewoonlik vroeër in die verloop van demensie.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Grootdruk-woordsoeker.** Ons gratis [Woordsoeker](/games/word-search/) gebruik groot letters en slegs 'n paar woorde, wat net dwars en af loop, nooit diagonaal of agterstevoor nie. Speel dit op die skerm of druk dit uit.
+- **Lees die lys hardop.** Een persoon lees 'n woord, en die ander een soek daarna. Om net die eerste letter te omkring, is heeltemal goed.
+- **Grootdruk-blokkiesraaisels** uit raaiselboeke kan vroeg in die verloop goed werk. Lees die leidrade hardop, deel die pen en vul die antwoorde saam in. Maklike blokkiesraaisels met 'n tema werk beter as kriptiese raaisels.
+- **Gesels oor die woorde.** "Tuin" kan lei tot tien minute se gesels oor tamaties.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Vir meer papieraktiwiteite en hoe om hulle uit te druk sodat hulle maklik is om te sien en vas te hou, sien [gratis drukbare demensie-aktiwiteite](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Watter legkaarte pas by elke stadium?
 
-Stages overlap, and good and hard days are normal.
+Stadiums oorvleuel, en goeie en moeilike dae is heeltemal normaal.
 
-| Stage | Puzzles that often fit | Your role |
+| Stadium | Legkaarte wat dikwels pas | Jou rol |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Vroeg | Bekende legkaarte met minder stukke as voorheen, grootdruk-blokkiesraaisels en -woordsoekers, aanlyn legkaarte met 9 stukke | Maat: laat hulle self kies, help wanneer gevra word |
+| Middel | Legkaarte met sowat 'n dosyn groot stukke, aanlyn legkaarte met 4 stukke, woordsoekers wat saam hardop gelees word | Sit dit reg, sorteer stukke, gee een op 'n slag aan |
+| Laat | Kyk saam na 'n voltooide prent, Soek dieselfde met twee prente, vat aan 'n paar groot stukke | Bring dit na hulle toe; jou geselskap is die aktiwiteit |
 
-## When should you make a puzzle easier, or stop?
+## Wanneer moet jy 'n legkaart makliker maak, of ophou?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Let op vir sugte, stukke wat weggestoot word, herhaalde "Ek kan nie" of bekommerde kyke. Dit is tekens om iets te verander, nie om aan te hou druk nie.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Maak dit kleiner.** Minder stukke, of los net die laaste paar vir hulle.
+- **Doen self meer daarvan** en nooi hulle om met die maklike dele te help.
+- **Skakel oor na iets soortgelyks:** sorteer stukke volgens kleur, 'n aanlyn legkaart met 4 stukke, of [inkleur](/games/coloring/).
+- **Hou op.** Sit dit eenkant en geniet 'n koppie tee. Julle kan 'n ander dag daarna terugkom, of glad nie.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+As legkaarte begin voel soos 'n herinnering aan dinge wat moeilik is, is dit heeltemal reg om dit te laat vaar. Daar is baie ander maniere om goeie tyd saam deur te bring; ons [101 aktiwiteitsidees](/activities/ideas/) is 'n goeie plek om te begin kyk.

@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Kan demensie voorkom word? Wat navorsing sê"
+seoTitle: "Kan demensie voorkom word? Wat navorsing sê"
+description: "Wat die 2024 Lancet-kommissie en proewe bevind het oor demensierisiko verlaag, wat hulle nie bevind het nie, en stappe om met 'n dokter te bespreek."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Niemand kan waarborg om demensie te voorkom nie. Die 2024 Lancet-kommissie het
+  beraam dat byna die helfte van demensiegevalle wêreldwyd verband hou met 14
+  risikofaktore wat moontlik verander kan word, soos hoë bloeddruk,
+  gehoorverlies en min fisieke aktiwiteit. Navorsingsproewe toon klein
+  uitwerkings op denktoetse, nie bewyse van minder demensiegevalle nie. Baie
+  mense wat alles reg doen, ontwikkel steeds demensie, en dit is niemand se
+  skuld nie.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Die 2024 Lancet-kommissie het sowat 45% van demensiegevalle wêreldwyd verbind met 14 potensieel veranderbare risikofaktore. Dit is 'n bevolkingskatting, nie 'n persoonlike waarborg nie."
+  - "Risikovermindering beteken om die waarskynlikheid oor 'n hele bevolking te verlaag. Dit beteken nie dat enige enkele persoon demensie kan vermy nie."
+  - "Groot proewe soos FINGER, US POINTER en SPRINT MIND het klein voordele op denktoetse of ligte kognitiewe inkorting gevind, maar nie een het bewys dat 'n leefstylprogram demensie voorkom nie."
+  - "Ouderdom is die grootste bekende risikofaktor vir Alzheimer se siekte, en dit kan nie verander word nie. Baie mense met gesonde gewoontes ontwikkel steeds demensie."
+  - "Die stappe wat die meeste nagevors is, soos die behandeling van hoë bloeddruk, die gebruik van gehoorapparate en om aktief te bly, is die moeite werd om met 'n dokter te bespreek omdat dit gesondheid ook op ander maniere bevoordeel."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Kan demensie voorkom word?"
+    a: "Daar is geen bewese manier om demensie vir enige individuele persoon te voorkom nie. Navorsing dui daarop dat die verlaging van sekere risiko's, soos hoë bloeddruk, onbehandelde gehoorverlies en rook, die kans op demensie oor 'n bevolking kan verlaag of die aanvang daarvan kan uitstel. Dit is kanse, nie beloftes nie."
+  - q: "Wat beteken die syfer van 45% van die Lancet-kommissie?"
+    a: "Die 2024 Lancet-kommissie het beraam dat sowat 45% van demensiegevalle wêreldwyd verband hou met 14 risikofaktore wat teoreties verander kan word. Die skatting neem aan dat daardie faktore demensie veroorsaak, en die skrywers merk op dat sommige skakels dalk net deels oorsaaklik is. Dit beskryf hele bevolkings en sê niks oor enige indiwidu se persoonlike risiko nie."
+  - q: "As my ouer 'n gesonde leefstyl gehad het, waarom het hulle demensie gekry?"
+    a: "Ouderdom, gene en baie faktore waaroor niemand beheer het nie, speel 'n groot rol in demensie. Die skrywers van die Lancet-kommissie merk op dat die verlaging van risiko oor 'n bevolking nie waarborg dat enige indiwidu demensie sal vermy nie. 'n Diagnose is nie 'n teken dat enigiemand gefaal het nie."
+  - q: "Is dit te laat om demensierisiko ná die ouderdom van 65 te verlaag?"
+    a: "Die Lancet-kommissie sê dit is nooit te vroeg of te laat om risiko te verminder nie, hoewel baie van die bewyse oor die middeljare handel. Die behandeling van gehoor- en sigprobleme, aktief bly en kontak met mense behou, is voorbeelde van stappe op latere leeftyd wat nagevors is. Praat met 'n dokter oor wat by u gesondheid pas."
+  - q: "Voorkom breinspeletjies of spesiale diëte demensie?"
+    a: "Geen speletjie, kos, aanvulling of dieet is al bewys om demensie te voorkom nie. 'n Driejarige proef met die MIND-dieet het geen beduidende verskil in denkvermoë getoon in vergelyking met 'n kontroledieet nie, en kommersiële breinoefentoepassings het nie die uitwerking getoon wat in wetenskaplike proewe gesien word nie."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,283 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+As u omsien na iemand wat met demensie leef, of gesien het hoe 'n ouer daarmee
+saamleef, het u waarskynlik al gewonder of dit gekeer kon gewees het, en of u kan
+keer dat dit met uself gebeur. Hierdie bladsy verduidelik wat die navorsing
+werklik sê, in duidelike en eenvoudige taal. Die kort antwoord: niemand kan
+waarborg om demensie te voorkom nie, maar navorsing dui daarop dat sommige
+risiko's verlaag kan word, en dat die verlaging daarvan oor 'n bevolking kan
+beteken dat minder mense demensie ontwikkel of dit eers later ontwikkel.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Hierdie is algemene inligting, nie mediese raad nie. Lees asseblief ons
+[mediese vrywaring](/medical-disclaimer/) en gesels met 'n dokter oor u eie
+gesondheid.
 
-## Can dementia be prevented?
+## Kan demensie voorkom word?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Daar is geen bewese manier om demensie vir enige individuele persoon te voorkom
+nie. Die National Institute on Aging (NIA) meld dat hoewel
+[daar nog niks bewys is wat Alzheimer se siekte voorkom nie](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+navorsers belowende strategieë gevind het en besig is om te leer wat dalk kan
+werk en wat nie.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Wat navorsing *wel* wys, is dat sekere gesondheidstoestande en gewoontes
+verband hou met 'n hoër kans op demensie. Wanneer daardie risiko's oor 'n hele
+bevolking laer is, kan minder mense demensie ontwikkel, of hulle kan dit dalk
+later in hul lewe ontwikkel. Dit is baie anders as 'n waarborg.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Een hoopvolle teken: die 2024 Lancet-kommissie het berig dat die aandeel ouer
+mense met demensie in sommige hoë-inkomstelande, waaronder die VSA en die VK,
+gedaal het. Die skrywers meen dit is waarskynlik deels te danke aan beter
+onderwys, beter gesondheidsorg en minder skade aan bloedvate oor 'n leeftyd,
+volgens
+[University College London se opsomming van die verslag](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Wat het die 2024 Lancet-kommissie bevind?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Die Lancet-kommissie oor demensievoorkoming, -intervensie en -sorg is 'n groep
+van 27 demensienavorsers wat die bewyse elke paar jaar hersien. Hulle verslag
+van 2024 het **14 risikofaktore** uitgewys wat moontlik verander kan word, en
+beraam dat hulle saam verantwoordelik is vir **byna die helfte (sowat 45%) van
+demensiegevalle wêreldwyd**. In die woorde van die skrywers sou hierdie gevalle
+*teoreties* voorkom of uitgestel kon word as die risiko's verwyder sou word
+([2024 Lancet-kommissieverslag](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Die 14 faktore, gegroepeer volgens die lewensfase waar die bewyse die sterkste is:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Vroeë lewe:** minder onderwys.
+- **Middeljare (ongeveer 40 tot 65 jaar):** gehoorverlies, hoë LDL-cholesterol
+  („slegte” cholesterol), depressie, kopbesering, min fisieke aktiwiteit,
+  diabetes, rook, hoë bloeddruk, vetsug en oormatige drankverbruik.
+- **Latere lewe:** sosiale isolasie, lugbesoedeling en onbehandelde sigverlies.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Die twee nuutste toevoegings in 2024 was hoë LDL-cholesterol en onbehandelde
+sigverlies. Die faktore wat met die grootste aandeel gevalle verbind is, was
+gehoorverlies en hoë LDL-cholesterol (ongeveer 7% elk), gevolg deur minder
+onderwys en sosiale isolasie (ongeveer 5% elk).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Ons [gids oor risikofaktore](/brain-health/risk-factors/) sit al 14 in 'n tabel
+uiteen, met wat die navorsing daaraan koppel en wat u kan doen.
 
-### What the 45% figure does not mean
+### Wat die 45%-syfer nie beteken nie
 
-It is easy to misread this number, so it helps to be precise:
+Dit is maklik om hierdie syfer verkeerd te verstaan, daarom help dit om presies
+te wees:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Dit is 'n bevolkingskatting.** Dit beskryf demensiegevalle oor die hele
+  wêreld, nie u kanse of u ouer se kanse nie.
+- **Dit neem oorsaak en gevolg aan.** Die skrywers verduidelik dat hulle slegs
+  risikofaktore met oortuigende bewyse ingesluit het, maar dat sommige skakels
+  dalk net deels oorsaaklik is. Depressie op 'n latere leeftyd kan byvoorbeeld
+  soms 'n vroeë simptoom van demensie wees eerder as die oorsaak daarvan.
+- **Dit waarborg niks vir enige enkele mens nie.** Die UCL-opsomming merk op dat
+  die vermindering van risiko op die vlak van 'n bevolking werk en nie waarborg
+  dat enige indiwidu demensie sal vryspring nie.
+- **Die ander helfte word nie deur hierdie faktore verklaar nie.** Ouderdom,
+  gene en oorsake wat wetenskaplikes nog nie verstaan nie, maak die res uit.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Wat is die verskil tussen „risikovermindering” en „voorkoming”?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Risikovermindering** beteken om die waarskynlikheid te verlaag. As 'n groot
+groep mense hul bloeddruk verlaag, kan minder van hulle oor baie jare heen
+demensie ontwikkel as wat andersins die geval sou wees. Sommige individue in
+daardie groep sal dit egter steeds ontwikkel.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Voorkoming** beteken om te keer dat iets enigsins gebeur. Vir demensie is dit
+nie iets wat navorsing vandag aan enigiemand kan beloof nie.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Navorsers praat ook oor **uitstel**. Die Lancet-kommissie rapporteer nuwe
+bewyse dat die verlaging van risiko die aanvang van demensie kan uitstel en die
+tyd wat 'n persoon met swak gesondheid leef, kan verkort. Selfs 'n uitstel van 'n
+paar jaar kan vir 'n mens en hul gesin baie beteken.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Op hierdie webwerf gebruik ons doelbewus terme soos „laer risiko” en „verband
+hou met”. Wanneer u 'n produk, aanvulling of program sien wat beloof om
+„Alzheimer se siekte te voorkom”, wees baie versigtig. Die NIA raai aan om eers
+met 'n dokter te praat voordat u enige pil of behandeling probeer wat beloof om
+Alzheimer se siekte te voorkom, aangesien sulke produkte onveilig kan wees, 'n
+vermorsing van geld kan wees, of albei.
 
-## What have large trials found?
+## Wat het groot proewe bevind?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Waarnemingstudies (wat kyk wat oor tyd met mense gebeur) kan verbande toon.
+Ewekansige proewe, waar mense lukraak aan 'n program of 'n vergelykingsgroep
+toegewys word, bied 'n sterker toets. Hier is wat van die bekendste proewe
+bevind het.
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Die FINGER-proef het 1 260 volwassenes tussen 60 en 77 jaar ingesluit wat 'n
+hoër risiko vir demensie gehad het. Die helfte het 'n tweejarige program ontvang
+met dieetadvies, oefening, rekenaargebaseerde breinoefeninge en kontroles van
+hart- en bloedvatgesondheid; die ander helfte het algemene gesondheidsadvies
+ontvang. Die programgroep het effens beter gevaar op 'n reeks denktoetse, 'n
+klein maar statisties beduidende verskil
+([FINGER-proef in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Die
+proef het toetsresultate gemeet, nie demensiediagnoses nie.
 
-### US POINTER (United States)
+### US POINTER (Verenigde State)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER het 2 111 volwassenes tussen 60 en 79 jaar ingesluit wat onaktief
+was, 'n minder gesonde dieet gehad het en ander risikofaktore gehad het. Albei
+groepe is aangemoedig om meer fisiek en verstandelik aktief te wees, beter te
+eet, sosiaal betrokke te bly en hul hartgesondheid dop te hou. Een groep het 'n
+gestruktureerde program met afrigting ontvang; die ander groep het hulself
+begelei. Oor twee jaar het denktoetsresultate in **albei** groepe verbeter, en
+effens meer in die gestruktureerde groep
+([US POINTER-proef in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Die
+skrywers sê verdere opvolgwerk is nodig om te weet of die verskil in die daaglikse
+lewe saak maak. Omdat daar geen groep was wat „niks gedoen het nie”, kan die
+proef nie sê hoeveel enige van die programme gehelp het in vergelyking met geen
+verandering nie.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (bloeddruk)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
+SPRINT MIND het 9 361 Amerikaanse volwassenes van 50 jaar en ouer met hoë
+bloeddruk bestudeer. Hulle is toegewys aan 'n laer bloeddrukteiken (boonste
+getal onder 120) of die standaardteiken (onder 140). Die laer teiken het
+**ligte kognitiewe inkorting** beduidend verminder — 'n stadium van geheue- en
+denkprobleme wat demensie kan voorafgaan. Wat **waarskynlike demensie** betref,
+was daar minder gevalle in die groep met die laer teiken, maar die verskil was
+nie statisties beduidend nie. Die proef is vroeër beëindig en het minder
+demensiegevalle gehad as wat verwag is, so dit was moontlik te klein om daardie
+vraag finaal te beantwoord
 ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Waarop die oorsigte neerkom
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+'n Cochrane-oorsig van 2021 het nege groot proewe saamgevoeg van programme wat
+verskeie risiko's gelyktydig aanpak, met meer as 18 000 mense. Dit het 'n klein
+voordeel op denktoetse gevind, maar **geen duidelike verskil in hoeveel mense
+demensie ontwikkel het** in die twee proewe wat dit gemeet het nie
+([Cochrane-oorsig van multidomein-intervensies](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+'n Oorsig van 2017 deur die National Academies of Sciences, Engineering, and
+Medicine, opgesom deur die NIA, het „bemoedigende maar nie-deurslaggewende”
+bewyse gevind vir drie benaderings: die beheer van hoë bloeddruk, meer fisieke
+aktiwiteit, en kognitiewe oefening.
 
-## Does it matter when you start?
+## Maak dit saak wanneer 'n mens begin?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Die raad van die Lancet-kommissie is om risiko's so vroeg as moontlik te verlaag
+en dit so lank as moontlik laag te hou: „hoe vroeër, hoe beter” en „hoe langer,
+hoe beter.” Dit sê ook dit is nooit te vroeg of te laat om risiko te verminder
+nie. Baie van die bewyse handel oor die middeljare, min of meer tussen 40 en 65
+jaar, maar sommige faktore, soos sigverlies en sosiale isolasie, is risiko's op
+'n latere leeftyd waar optrede steeds sinvol kan wees.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Die verslag meld dat daar nou sterker bewyse is dat langer blootstelling aan 'n
+risiko 'n groter impak het. Diabetes wat byvoorbeeld in die middeljare begin,
+lyk of dit meer saak maak as diabetes wat later begin.
 
-## Is dementia risk the same for everyone?
+## Is demensierisiko vir almal dieselfde?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Nee. Die kommissie het bevind dat mense in lae- en middelinkomstelande, mense uit
+minderheidsgroepe en mense met minder geld dikwels meer van hierdie risiko's dra,
+sodat demensie geneig is om op 'n jonger ouderdom te ontwikkel. Baie risiko's
+hou verband met omstandighede wat mense nie self gekies het nie, soos die gehalte
+van skoolonderrig wat hulle as kinders gehad het, die lug waar hulle woon, en of
+gesonde kos bekostigbaar en naby beskikbaar is.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Daarom is die kommissie se aanbevelings net soveel op regerings gemik as op
+individue: goeie onderwys vir alle kinders, skoner lug, maatreëls om rook te
+verminder, minder suiker en sout in voedsel wat in winkels en restaurante
+verkoop word, en gehoorapparate vir almal wat dit nodig het. Individuele moeite
+maak saak, maar so ook die wêreld waarin mense leef. Dit is nog 'n rede om
+niemand die skuld te gee vir 'n diagnose nie.
 
-## What are the honest limits of this research?
+## Wat is die eerlike beperkings van hierdie navorsing?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Demensie neem dekades om te ontwikkel**, maar die meeste proewe duur twee
+  tot vyf jaar. Om demensie self te meet, en nie net toetsuitslae nie, vereis
+  baie lang en baie groot studies.
+- **Die meeste proewe meet denktoetse.** 'n Klein verbetering op 'n toets beteken
+  nie noodwendig dat minder mense demensie sal ontwikkel of dat die daaglikse
+  lewe makliker sal wees nie.
+- **Vrywilligers is dikwels gesonder** en beter opgelei as die algemene
+  publiek. Die Lancet-kommissie merk op dat die meeste bewyse steeds uit
+  hoë-inkomstelande kom en dat minderheidsgroepe onderverteenwoordig is.
+- **Sommige skakels loop in albei rigtings.** Om minder aktief of minder sosiaal
+  te wees, kan 'n vroeë gevolg van demensie wees, nie net 'n oorsaak nie.
+- **Dieetproewe was tot dusver teleurstellend.** 'n Driejarige proef met die
+  MIND-dieet het geen beduidende verskil in denkvermoë gevind in vergelyking met
+  'n kontroledieet nie. Sien ons [dieetgids](/brain-health/diet/).
+- **Breinspeletjies is nie bewys om demensie te voorkom nie.** Sien ons gids oor
+  [breinspeletjies en demensie](/brain-health/brain-games/).
+- **Vas het baie beperkte bewyse by mense**, en dit kan riskant wees vir ouer
+  volwassenes. Sien ons [vasgids](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## As iemand alles „reg” gedoen het, waarom het hulle steeds demensie gekry?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Omdat demensie nie bloot die gevolg van keuses is nie. Die NIA meld dat
+[ouderdom die grootste bekende risikofaktor vir Alzheimer se siekte is](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+en niemand kan dit verander nie. Gene speel 'n rol. En wetenskaplikes verstaan
+steeds nie ten volle wat Alzheimer se siekte by die meeste mense veroorsaak nie.
+Selfs al sou elkeen van die 14 risikofaktore uit die weg geruim word, laat die
+Lancet-kommissie se eie skatting meer as die helfte van die gevalle onverklaar.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+As u dus omsien na iemand wat geoefen het, gesond geëet het, nooit gerook het
+nie en steeds demensie ontwikkel het, het niks aan hulle kant, of aan u kant,
+verkeerd geloop nie. As u self met demensie leef, is dit nie u skuld nie.
+Skuidgevoelens kom algemeen voor onder families, maar dit is nie geregverdig
+nie. Wat nou saak maak, is gemak, verbintenis en goeie dae, en ons
+[aktiwiteitsidees](/activities/ideas/) en
+[selfsorg-gids vir versorgers](/caregiving/caregiver-self-care/) is 'n goeie plek
+om te begin.
 
-## What steps can you talk over with a doctor?
+## Watter stappe kan u met 'n dokter bespreek?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Hierdie is die areas wat die meeste bestudeer is. Dit is die moeite werd om dit
+tydens 'n ondersoek te noem, want die meeste daarvan help ook vir hartgesondheid,
+gemoedstoestand en onafhanklikheid, wat die uitwerking daarvan op demensie ook al
+mag wees.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Bloeddruk.** Vra wat u syfers is en watter mikpunt by u pas. Die
+   Lancet-kommissie stel voor om vanaf sowat 40-jarige ouderdom na 'n boonste
+   getal van 130 of laer te mik, maar die regte teiken vir 'n ouer volwassene
+   hang af van hul algehele gesondheid.
+2. **Gehoor.** Vra vir 'n gehoortoets, en of gehoorapparate sal help. Ons
+   [gehoorgids](/brain-health/hearing/) verduidelik die navorsing.
+3. **Sig.** Gaan vir gereelde oogtoetse en vra of probleme soos katarakte
+   behandel kan word.
+4. **Cholesterol.** Vra of u LDL-cholesterol getoets moet word en of enige
+   aanpassings nodig is.
+5. **Bloedsuiker.** As u diabetes het, vra hoe om dit veilig te bestuur.
+6. **Gemoed.** Depressie is algemeen en behandelbaar. Sê vir u dokter as u vir
+   langer as 'n paar weke neerslagtig voel of belangstelling in dinge verloor het.
+7. **Rook en alkohol.** Vra oor ondersteuning om op te hou rook en oor veilige
+   perke vir alkohol.
+8. **Beweging.** Vra watter soort aktiwiteit vir u veilig is. Ons
+   [oefengids](/brain-health/exercise/) bevat idees.
+9. **Kopbeskerming.** Dra 'n valhelm vir fietsry en kontaksport, en vra oor die
+   voorkoming van valongelukke.
+10. **Bly in verbinding.** Tyd saam met ander mense is deel van 'n gesonde lewe.
+    Sien ons gids oor [sosiale kontak](/brain-health/social-connection/), en ook
+    oor [slaap](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Voordat u medikasie, dieet, aanvullings, vas of oefening verander, praat eers met
+u dokter, veral as u hartsiektes of diabetes het, 'n geskiedenis van val het, of
+reeds met demensie leef.
 
-## Talk with a doctor
+## Praat met 'n dokter
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+As u veranderinge in geheue of denke opmerk wat u bekommer, by uself of by iemand
+anders, maak 'n afspraak. Die NIA merk op dat
+[geheueprobleme ander oorsake kan hê](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+soos newe-effekte van medikasie, skildklierprobleme, depressie of 'n lae
+vitamien B12-vlak, en dat sommige van hierdie probleme verdwyn sodra die oorsaak
+behandel word. Ons [gids oor waarskuwingstekens](/brain-health/warning-signs/)
+verduidelik waarna om op te let.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Kry dringende hulp** vir skielike veranderinge: skielike verwarring, swakheid
+of gevoelloosheid aan die een kant van die liggaam, sukkel om te praat, of 'n
+hewige hoofpyn kan tekens wees van 'n beroerte of 'n ander noodtoestand. Bel 112.
 
-## Where Golden Moments fits
+## Waar Golden Moments inpas
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments maak eenvoudige gesamentlike aktiwiteite, soos
+[gesprekkaarte](/games/conversation-cards/),
+[prentjiesbingo](/games/picture-bingo/) en 'n
+[rustige asemhalingspouse](/games/calm-breathing/). Hulle is bedoel vir genot en
+tyd saam. Hulle is nie 'n behandeling nie, en hulle voorkom of vertraag nie
+demensie nie.

@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Адеменциа змоу ауаҩы иахь ателефон, авидео ҵәахәрақәа"
+seoTitle: "Адеменциа змоу рзы авидеоҵәахәрақәа"
+description: "Адеменциа змоу дицәыхароу рҭаацәа рзы ателефон, авидео ҵәахәрақәа: аарԥшреи ахҳәареи, аԥхьара, ашәаҳәара, аекран аҿы ахәмарра, ацхырааҩ инотақәа."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Адеменциа змоу ауаҩы иахь аҵәахәрақәа зегь раасҭа бзианы имҩасуеит урҭ кьаҿны,
+  еснагьтәины, иара убас еицыҟаҵатәу мариаку ахәмарра, асахьақәа рахәаԥшра,
+  бжьаҟазаала аԥхьара, бзиа ирбо ашәа аҳәара, мамзаргьы еицырбо аекран аҟны
+  ахәмарра шьаҭас ианамоу. Шәылшозар, есымша акәзар еиԥшу аамҭазы шәаҵәахәла,
+  быжьык ала шәацәажәала, иара убас иҿоу аҭыԥ аҟны дызцхырааша ауаҩы диҳәала.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Аусқәа аҵәахәра аформа анаҭоит, ацәажәараҿы иҟоу агәҭынчымра амч азымхоит. Еицыжәбо мариаку акы иаԥхьаӡана шәазхәыц."
+  - "Есымша ииашоу аамҭазы имҩаԥысуа аҵәахәра кьаҿқәа, лассы-лассы имҩаԥымсуа аҵәахәра дуқәа раасҭа еиӷьуп."
+  - "Аамҭак ала уаҩ заҵәык ауп ицәажәо. Агәыԥтәи аҵәахәрақәа раан еиҿагыланы ацәажәара аилкаара уадаҩуп, еилаҳарак ахаҵара зламырхо рзы."
+  - "Иҿоу ацхырааҩ амыруга аиҿкаара, ауаҩы иварцә адтәалара, ахәмаррақәеи асахьақәеи раан «напыс» аҟаҵара илшоит."
+  - "Иахьа аҵәахәра бзианы имҩасымзар, гәапхашәала ихыркәшатәуп. Уацәы ҿыц аҽалагара бзиаӡоуп."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Иарбан усқәоу адеменциа змоу ауаҩы иахь авидеоҵәахәраан исҟаҵар сылшо?"
+    a: "Мариаку уск аԥхьаӡана шәазхәыц: шәбахча, аҩнытә ԥстәы, мамзаргьы абаҳча шәырба; ажәытә фотосахьақәа шәахәаԥш; ажәеинраала кьаҿык мамзаргьы асаламшәҟәы бжьаҟазаала шәаԥхьа; бзиа ирбо ашәа еицышәҳәа; акәац еиԥшу арецепт ала еицыжәжәа; мамзаргьы еицырбо аекран аҿы сахьала ихәмарла. Абас еиԥш иҟоу аусқәа аҵәахәра хықәкы анаҭоит, ауаҩы ацәажәара дахьымхьаауа."
+  - q: "Шаҟа аамҭа имҩаԥысра акәзеи авидеоҵәахәра?"
+    a: "Шәара шәгәы ишәаанаго аасҭа кьаҿуп. Гәапхашәала имҩаԥысуа мыцхәык минуҭ даара азыхоит, еилаҳарак ауаҩы иласны даныргәаҭо. Есымша акәзар еиԥшу аамҭазы аҵәахәра, аҵәахәра шаҟа аамҭа цо аасҭа хадара амоуп."
+  - q: "Авидеоҵәахәрақәа раан дара ргәы каҳазар мамзаргьы ргәы ԥжәазар иҟаҵатәузеи?"
+    a: "Шьоукы рзы аекран аҿы ахаҿы аԥхьара аилкаара уадаҩуп. Имариоу ателефонла аҵәахәра, ацхырааҩ ҭынчра аамҭазы иирбар зылшо аҭаҩу авидеосалам, мамзаргьы апочтала акәартқәеи асахьақәеи шәырҭа. Аҵәахәра бзианы имҩасымзар, гәапхашәала ихыркәшаны, даҽа мшык азы мамзаргьы даҽа сааҭк азы шәалага."
+  - q: "Сан ателефон хархәара лылымшозар, авидеоҵәахәра шәара дшашәцхраауазеи?"
+    a: "Аҭаацәа рахьтә уаҩык, аҩнытә цхырааҩ, мамзаргьы аусзуҩ диҳәала аҵәахәра далагеишьҭа амыруга димадартә. Аиԥкаарақәа рацәа аҭаацәа авидеоҵәахәрақәа раан ирыцхраауеит, убри аҟынтә шәазҵаа. Идуу аекран зцымхарҭаҿы иҟоу атаблет, зегьы ирылаҵа бзиахарц азы абжьы дуны, зегь ирзеиԥшу ацхыраара шаҭоит."
+  - q: "Авидеола еицыхәмарра ҳалшома?"
+    a: "Ааи. Зегь раасҭа имариоу амҩа — уаҩ заҵәык авидеоҵәахәра аҟны иекран еицырбо иҟаиҵар, даҽаӡәи иарбан сахьоу дызкьысраны иҟоу иеиҳәоит. Мамзаргьы иҿоу ацхырааҩ атаблет аҿы убри ахәмарра аартны, шәара шәахьацәажәо, ауаҩы изы дикьысуеит. Аамҭеи ахыԥхьаӡареи змам ахәмаррақәа шәалых."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Адеменциа змоу ауаҩы дицәыхараны анхара уадаҩуп. Ателефонла аҵәахәреи авидеоҵәахәрақәеи агәыхь аҵакра ҭырҭхәаӡом, аха бзианы иацышәҵар еимадара бзиа аадырԥшыр рылшоит. Зегь раасҭа хадоу — иканонхоу аиҿцәажәара аҟаҵара аҽацәцара ауп, уи аҭыԥан еицыжәбо мариаку акы иаԥхьаӡана шәазхәыц. Ари адаҟьаҿы авидеолаи ателефонлаи аус зуа ахәмаррақәа, аҵәахәра шаиҿкаатәу, иара убас иҿоу ацхырааҩ дшәыцхраар зылшо ықәыргылоуп.
 
-## Why plan an activity for a call?
+## Избан аҵәахәраан аусқәа раԥхьаӡана разхәыцра заҭаху?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Аусқәа аҵәахәра аформа анаҭоит. «Ушԥаҟоу? Иахьа уиҟаҵазеи?» ҳәа азҵаара ауаҩы игәалашәара даҳәоит, уи аамҭаказы уадаҩуп, иара убас агәҭынчымра азнархиар алшоит. «Уахәаԥш, помидорқәа ҟаԥшьхеит» ҳәа аҳәара ауаҩы акгьы диҳәомызт.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association иаҳәоит агәыԥ дуқәа раан авидеола аиҿцәажәара уадаҩхар шылшо, убри аҟынтә [аҵәахәра аструктура анаҭара](https://www.alz.org/help-support/caregiving/holidays) шәрыдгаллоит, ашәаҳәареи асахьақәа рарԥшреи реиԥш иҟоу аусқәа рыла.
 
-## What activities work on a video call?
+## Иарбан усқәоу авидеоҵәахәраан аус зуа?
 
-### Show and tell
+### Аарԥшреи ахҳәареи
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Шәара шәдунеи дара ирзааигәашәырца. Акамера шәбахчаҿы ԥсыжәла инашәгьы, ала шәырба, шәзыжәуа арба, ахәыҷы исахьа ирба, мамзаргьы аԥенџьыр аҟынтә ателефон асы еиқәнаго шәырба. Ижәбо мариоу ажәақәа рыла еиҭашәҳәа, ҭак ҟарҵарц азы аамҭа шәырҭа. Азҵаарақәа рыҭара аҭахым.
 
-### Look at photos together
+### Еицы афотосахьақәа рахәаԥшра
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Ажәытә сахьа акамера иазааигәашәырца, мамзаргьы шәекран аартны мариаку сахьа дуқәа шәырба. Ижәбо азы шәацәажәа: «Абаба иҵыхәа шәахәаԥш». «Ари дызусҭада?» мамзаргьы «Угәалашәома?» ҳәа ашәмырҳәан. Ауаҩы уаҩык ихьӡ ииашамкәа иҳәазар, гәапхашәала уи шәақәшаҳаҭха. Агәалашәарақәа рзы гәапхашәала иҟоу аԥшьгарақәа рзы ҳ-[реминисценциа ахҳәаа](/activities/reminiscence/) шәахәаԥш.
 
-### Read aloud
+### Бжьаҟазаала аԥхьара
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Ажәеинраала кьаҿык, аԥсалом, ари аҵәахәраҿы иҟоу ахәыҷы изы ибзиоу шәҟәык, аҭаацәа рҟынтә асаламшәҟәы, мамзаргьы бзиа ирбо шәҟәык адаҟьа бжьаҟазаала шәаԥхьа. Бжьаҟазаала аԥхьара ауаҩы ҭынчрала азыӡырҩра анаҭоит, ҭак ҟаиҵар акәӡам.
 
-### Sing or listen to music together
+### Еицы ашәаҳәареи амузыка азыӡырҩреи
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Бзиа ирбо ашәа еицышәҳәа, мамзаргьы шәахьыҟоу амузыка бзиа шәарга. Аӡәырҩы рзы ашәаҳәара ацәажәара аасҭа имариоуп. Ҳ-[музыкатә усурақәа рхҳәаа](/activities/music/) шәахәаԥш.
 
-### Cook or bake at the same time
+### Еицы афатә ҟаҵара
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association иаҳәоит авидеоҵәахәра аан еицы фатә ҷыда ҟаҵара. Аҵәахәра аҩнаҭақәа ҩба рҟны иалагалатәуп. Иҿоу ауаҩы ахәы адиҵар мамзаргьы агәа диҭар илшоит, шәара ажәытә рецепт шәахьықәныҟәо.
 
-### Watch something together
+### Еицы ак акәшара
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Асоциациа убас иаҳәоит еиԥмырҵуа аҩны инхо аҭаацәа еицы кино бзиак рахәаԥшра, ателефонла мамзаргьы авидеола еицәажәо. Адеменциа змоу ауаҩы изы, афильм ду аасҭа авидео кьаҿқәа, ажәытә сериал, мамзаргьы аспорт хәмарра еиҳа ибзиоуп.
 
-### Play a gentle game on a shared screen
+### Еицырбо аекран аҟны имариоу ахәмарра
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Авидеоҵәахәра апрограммақәа рацәа рҿы шәекран арбара шәылшоит. Шәара ахәмарра шәаартуеит, ауаҩы иарбан сахьоу шәнапы адыркраны иҟоу шәеиҳәоит. Мамзаргьы иҿоу ацхырааҩ атаблет аҿы убри ахәмарра аартны, шәара шәахьацәажәо, ауаҩы изы дикьысуеит.
 
-Games that work well this way:
+Абас еиԥш бзианы аус зуа ахәмаррақәа:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** шәара еицырдыруа ажәаԥҵа шәаԥхьоит, дара аҵыхәа рҳәоит, уи ашьҭахь аиҿцәажәара хықәкыс иҟалоит.
+- **[Picture Pairs](/games/picture-pairs/):** сахьа дуқәа зцу, аамҭеи ахыԥхьаӡареи змам, еиқәшәо асахьақәа рыԥшаара.
+- **[Conversation Cards](/games/conversation-cards/):** асахьеи аиҿцәажәаразы аиҿкаара зцу аԥшьгареи.
+- **[Photo Pairs](/games/photo-pairs/):** шәара шәмыруга аҟынтә иалышәхыз афотосахьақәа рыла иҟаҵоу аиқәшәара хәмарра. Афотоқәа шәбраузер аҿы иаанхоит, ауаҩы еицырбо аекран аҟны ирбоит.
 
-### Recorded messages
+### Иҭаҩу авидеосаламқәа
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Аҵәахәрақәа уадаҩханы иҟазар, авидеосалам кьаҿ иҭажәҩа: асалам, ашәа, шәбахча аҟны аҩашара. Ацхырааҩ ауаҩы дызхәаԥшырц игәы ианаҭаху аамҭазы иирбар илшоит. Alzheimer's Association иҳәоит ҷыдалатәи ахҭысқәа, ахәыҷқәа аҳамҭақәа шаартуа, ҭаҩны ашьҭра.
 
-## What about plain phone calls?
+## Имариоу ателефон ҵәахәрақәа рзы уҳәар шԥаҟоу?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Ателефонла аҵәахәра уамашәа аҵакы амоуп. Dementia Australia иаҳәоит [есымша акәзар еиԥшу аамҭазы аҵәахәра](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) шәахәаԥшла ҳәа, адеменциа змоу аамҭа рыҭаххар шалшо азы. Ателефонла:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Шәхьӡи аҭаацәаратә еимадареи анаҩсангьы шәҳәала: «Салам дада, Џьенни лоуп, уԥҳа».
+- Маҷ-маҷла, ажәаҳәа кьаҿқәа рыла, хәыцрак ала шәацәажәа.
+- Азҵаарақәа раасҭа ажәабжьқәа шәырҳәала: «Иацы урецепт ала акәац ҟасҵеит».
+- Ажәеинраала кьаҿык шәаԥхьа, мамзаргьы бзиа ирбо ашәа акәаԥ еицышәҳәа.
+- Кьаҿны шәацәажәа, гәапхашәала шәхыркәшала.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia иара убас иҳәоит ацәажәара уадаҩханы иҟазар авидеоҵәахәра ацхыраара шаҭо, ауаҩы шәхаҿы иахьирбо азы. Ателефонла ацәажәара уадаҩхар, авидео шәалага, мамзаргьы еиԥмырҵуа шәаԥсабла.
 
-## How do I set up a video call that works?
+## Иҭышәнтәалоу авидеоҵәахәра шԥаиҿкаатәу?
 
-**Before the call:**
+**Аҵәахәра аԥхьа:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Еснагьтәи аамҭа шәалышәх,** ауаҩы ԥсы дибо аамҭазы, убри аамҭагьы шәаԥмырхан. Арежим ацхыраароуп.
+2. **Иҿоу ацхырааҩ шәиацәажәа.** Уацәы иҟалаша азы асаламшәҟәы аплан аҭара ацхраауеит.
+3. **Амыруга шәахәаԥш.** Ацымхарҭаҿы иҟоу атаблет анапаҿы иааникыло ателефон аасҭа еиӷьуп. Ирҭәузааит, аекран илашазааит, абжьы бзианы игозааит. Ауаҩы бзианы дԥхьозар, атитрқәа шәарки.
+4. **Уск аԥхьаӡана шәазхәыц** зегь шәҽазышәхи.
 
-**During the call:**
+**Аҵәахәраан:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Акамера шәазааигәаны шәтәала,** аԥенџьыр шәшьҭахь ианымхакәа, лашара бзиала.
+- **Есымша шәхы шәырдырла,** шәхьӡи шәеимадареи шәҳәа.
+- **Быжьык ала шәацәажәала.** Alzheimer's Association иаҳәоит еиҿагыланы ацәажәара адеменциа змоуи ахаҵара зламырхои рзы даара уадаҩуп. Аҭаацәа рацәаны шәахьыҟоу, шәааиԥмырҵуа шәацәажәа, мамзаргьы ҩыџьа-ҩыџьалатәи шәацәажәа.
+- **Зҵаарак ала шәазҵаала.** Family Caregiver Alliance иаҳәоит [«ааи» мамзаргьы «мап» ҳәа ҭак змоу имариоу азҵаарақәа рыҭара](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), шәылшозар алхрақәа шәырбала.
+- **Аамҭа ду шәырҭа.** Аҭак шәазыԥшла. Ажәа рыԥшаауазар, ацхыраара бзиоуп.
+- **Шәхаҿи шәбжьи шәхырхәа.** Шәгәыкаҵала, шәхы шәырҵыс, шәбжьы гәапхашәала иҟалааит.
+- **Аҵыхәа шәмыргәаҭан.** Ауаҩы ииашам ак иҳәазар, убри ала иаанрыжь.
 
-**Ending the call:**
+**Аҵәахәра ахыркәшара:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Ауаҩы дыргәаҭаанӡа, гәырӷьарала шәхыркәша.
+- Есымша еиԥшу асаламшәҟәы шәхырхәала: «Уацәы ашәыр аамҭазы сышәзаҵәахәуеит. Бзиа шәызбоит».
+- Аамҭа шәамырҵәахын.
 
-## Tips for the helper on site
+## Иҿоу ацхырааҩ изы анотақәа
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Шәара ҭаацәарас, цхырааҩыс, аиашьас мамзаргьы аусзуҩыс шәахьыҟоу, ари аҵәахәра шәара шәабзоуралоуп.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **ҭынч ҭыԥк шәаиҿкаа.** Ателевизор шәамырх, абна шәарки.
+- **Шәара шәхаҭа аҵәахәра шәалага,** анаҩс атаблет ацымхарҭаҿы ауаҩы илаԥш аҟынӡа ихадыргыла.
+- **Рԥхьа акәымкәа, рварцә шәтәала.** Шәара шәҟазаара ҭынчра азнархиоит: «Уахәаԥш, Џьенни лоуп».
+- **«Напыс» шәҟала.** Асахьақәа шәааникыла, ахәмарра шәаҿакы, акомната арбаразы атаблет шәырҵыс.
+- **Аргәаҭареи агәҭынчымреи шәазхәаԥшла,** аҵәахәҩы иаамҭа шагыз еибарҳәала.
+- **Ибзиаз шәеиҳәала.** «Ала даара бзиа илбеит» ҳәа аҳәара анаҩстәи аплан аҭара ацхраауеит.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA ишаҳәо ала, дицәыхараны инхо аҭаацәа ауаҩы ибырг даргәацар алшоит [ителефон аҟазарақәа реилкаара](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), иаҳҳәап авидеоҵәахәрақәа. Ашьҭахьтәи аетапқәа рҿы ацхырааҩ амыруга ихаҭа дахылаԥшуеит. Уи бзиаӡоуп.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Ауаҩы ахылԥшыратә ҩнаҿы дынхозар, Alzheimer's Foundation of America иаҳәоит аҭаацәа авидеоҵәахәрақәа раан рцхыраара ыҟоума ҳәа азҵаара. AFA убас иҳәоит аҭаацәа афотоқәа реимырдеира, бзиа ирбо афатәқәа рышьҭра, аҭыԥ аҟны изинҵоу шеилкааха ашьҭахь.
 
-## What if the call doesn't go well?
+## Аҵәахәра бзианы имҩасымзар иҟаҵатәузеи?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Шьоукы рзы аҵәахәрақәа уадаҩханы, ҭынчымкәа имҩасыр алшоит. Уи шәара шәхара акәӡам, аҵәахәрақәа рҵакы ӡӡаамызт ҳәа иаанагом.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Ауаҩы аекран даргәамзар, ателефонла аҵәахәра мамзаргьы иҭаҩу авидео шәалага.
+- Ргәы каҳазар, агәынкылара шәаадырԥш, ҭынчра шәырҭа, гәапхашәала шәхыркәша.
+- Аҵәахәра есымша акәзар аамҭа ҷыдала бзианы имҩасымзар, даҽа аамҭак шәаԥшаа.
+- Даҽаӡәы шәоуп ҳәа ргәы иаанагозар, гәапхашәала шәрықәшаҳаҭха.
 
-It is fine to end early. A short, warm call is a good outcome.
+Иаԥхьаӡана ахыркәшара ииашоуп. Кьаҿу, гәапхашәа иҟоу аҵәахәра алҵшәа бзиоуп.
 
-## Between calls
+## Аҵәахәрақәа рыбжьара
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Даҽа амҩақәа рыла шәҟазаара шәаадырԥшла. Dementia Australia иаҳәоит а открыткақәа, афотоқәа, аелектронтә шәҟәқәа мамзаргьы аҳамҭа хәыҷқәа рышьҭра. Есымчыбжьтәи открытка ду сахьа кьаҿк ацылоу еснагьтәи аԥхьара ацхраауеит. Ацхырааҩ иахь идәықәҵоу акьыԥхьра зылшо [аиҿцәажәаратә карточкақәа](/games/conversation-cards/) анаҩстәи аҵәахәразы хықәкыс иҟалоит.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Атаблет алхразыи аиҿкааразыи анотақәа рзы, шәахәаԥш [апланшетқәеи аекранқәеи](/caregiving/tablets-and-screens/). Хаҭала аҭааразы, шәахәаԥш ҳ-[аҭаара ахҳәаа](/activities/visiting/).

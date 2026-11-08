@@ -1,32 +1,32 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Musiekaktiwiteite vir mense met demensie"
+seoTitle: "Musiek vir mense met demensie: Snitlyste en idees"
+description: "Hoe om musiek te deel met iemand met demensie: persoonlike snitlyste, 15 eenvoudige musiekaktiwiteite en wenke vir elke stadium."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Musiek is een van die maklikste aktiwiteite om te deel met iemand wat met
+  demensie leef. Bou ’n persoonlike snitlys met musiek uit hul jeug, geloof en
+  familie, speel dit sonder advertensies of agtergrondgeraas, en sing, klap, wieg of
+  luister net saam. Kies rustige of lewendige musiek na gelang van die oomblik, hou
+  die volume sag, en stop as ’n liedjie hulle ontstel.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Persoonlike musiek werk die beste: die genres waarvan hulle as jong volwassene gehou het, plus musiek uit hul geloof, kultuur en familiegeleenthede."
+  - "Speel een ding op ’n slag, sonder advertensies en met die TV af."
+  - "Om saam te sing, te klap, te wieg of bloot te luister is alles maniere om deel te neem."
+  - "Gebruik rustiger musiek om te kalmeer en vroliker musiek om die gemoed op te hef, en let op hoe die persoon reageer."
+  - "Navorsing oor gestruktureerde musieksessies is beperk; ons stel musiek voor as iets aangenaams om te deel, nie as ’n behandeling nie."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Watter soort musiek is die beste vir iemand met demensie?"
+    a: "Musiek wat die persoon al lank ken en liefhet, dikwels uit hul tienerjare en twintigs, saam met musiek uit hul geloof, kultuur en familievieringe. Laat hulle self kies as dit moontlik is. Let op hul gesig en lyftaal om te sien wat hulle geniet, en laat vaar enigiets wat hulle ontstel."
+  - q: "Moet ek oorfone gebruik?"
+    a: "Party mense geniet oorfone omdat dit agtergrondgeraas uitsluit, terwyl ander dit ongemaklik of verwarrend vind. Probeer eers ’n luidspreker sodat julle saam kan luister. As jy oorfone gebruik, hou die volume sag en bly naby."
+  - q: "Kan musiek help met rusteloosheid of ontsteltenis?"
+    a: "Rustige, bekende musiek kan help om ’n kalm atmosfeer te skep, en die Alzheimer's Association stel voor om musiek te gebruik om die stemming te bepaal wat jy verlang. Dit werk nie elke keer nie. As die persoon ontsteld is, kyk ook of pyn, honger, geraas of moegheid dalk ’n rol speel."
+  - q: "Kan mense in die laat stadium van demensie steeds musiek geniet?"
+    a: "Baie kan. Die Alzheimer's Association merk op dat iemand in die laat stadium steeds die maat kan tik of saam met ’n kinderliedjie kan sing. Sit naby, speel die musiek sag en hou hul hand vas of wieg saam."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +45,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Musiek is een van die eenvoudigste dinge wat jy kan deel met iemand wat met demensie leef. Dit vra niks: geen regte antwoorde nie, geen stappe om te volg nie. ’n Bekende liedjie kan ’n glimlag bring, ’n voet wat saamtik of ’n paar woorde wat saamgesing word, selfs op ’n dag wanneer gesels moeilik is. Al wat jy nodig het, is die regte musiek vir hierdie spesifieke persoon en ’n rustige oomblik om dit te speel.
 
-## What music activities work for people with dementia?
+## Watter musiekaktiwiteite werk vir mense met demensie?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Om te luister, saam te sing, hande te klap, te wieg en oor musiek te gesels, werk alles goed. Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) stel voor om musiek te speel, oor die musiek en die kunstenaar te gesels, op bekende liedjies te sing of dans, en na konserte of musiekprogramme in die gemeenskap te gaan. Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) voeg by dat beweging soos handeklap of dans die genot kan vergroot, en dat musiek ’n manier kan wees om kontak te maak wanneer woorde moeilik raak.
 
-## How do you build a personal playlist?
+## Hoe bou jy ’n persoonlike snitlys?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Die nuttigste ding wat jy kan saamstel, is ’n snitlys met musiek wat vir hierdie persoon betekenis het. Die [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) beklemtoon ook musiek met persoonlike betekenis. Hier is ’n eenvoudige manier om een te bou.
 
-### Start with their life
+### Begin by hul lewe
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Hul tienerjare en twintigs.** Dink aan wat op die radio, by danse en in die flieks gespeel het toe hulle jonk was.
+- **Groot oomblikke.** Die musiek by hul troue, ’n eerste dans, of ’n gunstelingalbum van gesinsvakansies op die pad.
+- **Geloof en kultuur.** Gesange, gospelliedere, gewyde musiek, of liedjies in hul moedertaal.
+- **Werk en diens.** Blaasorkeste, werksliedjies, of musiek wat gekoppel is aan hul tyd in die weermag.
+- **Wat familie onthou.** Vra broers en susters, kinders en ou vriende wat hulle altyd gespeel of gesing het.
 
-### Think in genres, not just songs
+### Dink aan genres, nie net individuele liedjies nie
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+As jy nie seker is waar om te begin nie, probeer ’n paar minute van elk van hierdie genres en let op die reaksie: big band en swing, doo-wop, Motown en soul, vroeë rock-’n-roll, country en western, bluegrass, gospel en gewyde liedere, Broadway-treffers, jazz-standaarde, Latyns-Amerikaanse musiek soos boleros of mariachi, polka, volksmusiek en klassieke musiek. Behou dit wat ’n glimlag of ’n voet wat tik bring; laat vaar dit wat ’n frons veroorsaak.
 
-### Make it easy to play
+### Maak dit maklik om te speel
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Geen advertensies nie.** Die Alzheimer's Association waarsku dat advertensies verwarring kan veroorsaak. Gebruik afgelaaide musiek, CD’s, plate of ’n advertensievrye diens.
+- **Een eenvoudige toestel.** ’n Luidspreker met een groot knoppie, of ’n snitlys wat gestoor en gereed is, sodat enigiemand dit kan aanskakel.
+- **Twee kort lyste.** ’n Rustige lys om te ontspan en ’n vrolike lys om die gemoed op te hef.
+- **Merk dit duidelik.** Skryf die persoon se naam en „gunstelingmusiek” op die toestel sodat familie wat kom kuier en versorgers dit ook kan gebruik.
 
-## 15 music activities to try
+## 15 musiekaktiwiteite om te probeer
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Luister saam.** Sit langs mekaar terwyl niks anders aan die gang is nie. Om te luister is ’n volwaardige aktiwiteit.
+2. **Sing saam.** Begin self sing. Om te neurie of bloot die woorde met die mond te vorm, tel ook.
+3. **Klap hande of tik die maat.** Klop op die knieë, tik op die tafel, of gebruik ’n klein handtrom of skudder.
+4. **Dans rustig saam.** Hou hande vas en wieg in die kombuis, of dans terwyl julle sit deur julle arms saam te beweeg.
+5. **Serpdans.** Swaai ligte serpe op die maat van die musiek, hetsy staande of terwyl julle sit.
+6. **Gesels oor die musiek.** Nooi uit, moenie toets nie: „Dit klink soos ’n danssaal. Vertel my van daardie danse.” Moet nooit vra: „Onthou jy hierdie liedjie?” nie.
+7. **Speel ’n hele album.** Sit ’n plaat op waarvan hulle gehou het, van begin tot einde, saam met ’n koppie koffie.
+8. **Kyk na plaatomslae.** Ou plaatomslae is wonderlik om oor modes, motors en gesigte te gesels.
+9. **Kyk na ’n musiekblyspel.** ’n Musiekrolprent of konsertopname uit hul tyd maak ’n lekker aandaktiwiteit. Pouseer gereeld vir breuke.
+10. **Speel ’n bekende musiekinstrument.** Iemand wat voorheen klavier of kitaar gespeel het, kan dit dalk geniet om eenvoudig te speel. Later is dit oorgenoeg om net saam ’n paar note uit te soek.
+11. **Musiek tydens take.** Speel gunstelingliedjies terwyl julle wasgoed opvou of tafel dek.
+12. **’n Oggendliedjie.** Begin elke dag met dieselfde vrolike liedjie as deel van die roetine.
+13. **Sing gesange of gewyde musiek.** Speel musiek uit hul geloofstradisie en sing saam.
+14. **Sluit aan by ’n sanggroep.** Die NHS beskryf sanggroepe as goed vir die gemoed en welstand. Vra plaaslik uit oor kore wat vriendelik is teenoor mense met demensie.
+15. **Gaan na lewendige musiek.** ’n Kort gemeenskapskonsert of opelugorkes. Sit naby die uitgang en vertrek wanneer julle wil.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Vir ’n ligter woordspeletjie met bekende frases, probeer [finish the saying](/games/finish-the-saying/), waar jy altyd die einde kan wys.
 
-## Matching music to the moment
+## Pas musiek by die oomblik aan
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Die Alzheimer's Association stel voor om musiek te gebruik om die stemming te skep wat jy verlang: rustige musiek vir ’n vreedsame atmosfeer, en ’n vrolike liedjie uit iemand se jeug om die gemoed op te hef.
 
-| Moment | Try | Tip |
+| Oomblik | Probeer | Wenk |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Opstaan | ’n Bekende, vrolike liedjie | Dieselfde liedjie elke oggend word ’n sagte roetineteken |
+| Huiswerkies | Lewendige gunstelinge | Musiek kan take soos goeie geselskap laat voel |
+| Maaltye | Sagte instrumentele musiek | Hou dit sag sodat dit nie met die eet meeding nie |
+| Laatmiddag | Rustige, bekende musiek in goeie lig | Sien [laatmiddag-rusteloosheid](/caregiving/late-day-restlessness/) |
+| Slaaptyd | Stadige, sagte musiek | Draai die volume en die ligte saam laer |
+| Laat stadium | Hul geliefdste liedjies, baie sag | Sit naby en hou ’n hand vas |
 
-## Tips for a good experience
+## Wenke vir ’n goeie ervaring
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Skakel ander geraas af.** Die Alzheimer's Association stel voor om vensters en deure toe te maak en die TV af te skakel sodat musiek die enigste klank is.
+- **Hou die volume sag.** Musiek moet gemaklik wees, nie hard nie. As die persoon gehoorapparate gebruik, maak seker dat hulle in is en behoorlik werk; sien [gehoor](/brain-health/hearing/).
+- **Wees bedag op hartseer herinneringe.** Sommige liedjies bring rou, oorlog of verlies na vore. As ’n liedjie hulle ontstel, troos hulle en speel iets anders.
+- **Laat hulle die leiding neem.** Laat die persoon self die musiek kies as dit moontlik is, en aanvaar ’n nee.
+- **Stop enige tyd.** Vyf minute se musiek is ’n volkome goeie aktiwiteit. Dit is net so goed om dit af te skakel en rustig stil te sit.
 
-## What does the research say about music and dementia?
+## Wat sê die navorsing oor musiek en demensie?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Die bewyse is beperk. ’n [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) het na 30 studies oor gestruktureerde musieksessies gekyk, meestal met groepe in versorgingsoorde. Dit het bevind dat hierdie sessies depressiewe simptome waarskynlik effens verlig het vergeleke met gewone sorg, maar geen duidelike uitwerking op agitasie, welstand of denke en geheue getoon het nie, en geen uitwerking wat voortgeduur het nadat die sessies geëindig het nie.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Ons deel musiek omdat dit ’n aangename manier sonder enige druk is om tyd saam deur te bring, nie as ’n behandeling nie. Vir groepsopsette, sien [sorgsentrum-groepaktiwiteite](/activities/care-home-groups/); vir die gebruik van musiek saam met foto’s en stories, sien [herinneringsaktiwiteite](/activities/reminiscence/).

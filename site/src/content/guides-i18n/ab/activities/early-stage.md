@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Адеменциа алагамҭаҿы ауснагӡарақәа"
+seoTitle: "Адеменциа алагамҭа: иахәҭоу ауснагӡарақәа"
+description: "Адеменциа алагамҭаҿы ауснагӡарақәа: ахәмаррақәа, аурахара, аҩра, ауаҩы игәы иахәоз ихы дахагыланы дыҟазарц азы маҷк аԥсахрақәа."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Адеменциа алагамҭатә етап аҿы ауаа реиҳарак ргәы иахәо аусқәа нарыгӡоит:
+  рҿыцрақәа, акартқәа, астолтә хәмаррақәа, афатә ҟаҵара, абаҳча усура, аурахара,
+  аклубқәа, адинтә усқәа, ахатәгәаԥхаратә усура. Ихадоу аԥсахрақәоуп — еиҳа ихәыҷу
+  агәыԥқәа, еиҳа ихьацәу амҩахысрақәа, имариоу иҩу апланқәа, ацхырааҩгьы азааигәара.
+  Иазҵаа ауаҩы ихьароу ацхыраара, иара ихы дахагыланы дыҟазарц азин иҭа.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Адеменциа алагамҭаҿы еиҳарак ауаа рхала инхоит. Ауснагӡарақәа рԥсахра акәымкәа, маҷк раԥсахра ауп изҭаху."
+  - "Иазҵаа ауаҩы иҭаху ацхыраара, ацхыраара анахәҭоу иалкаау амаҷбжьы ма адырга шәақәшаҳаҭха."
+  - "Еиҳа ихәыҷу агәыԥқәа, иҭынчу аамҭа, еиҳа ихьацәу амҩахысрақәа рацәала ацхыраара ҟанаҵоит."
+  - "Ари аамҭа бзиоуп ауаҩы ихы иазкыу аусқәа ихы дахагыланы наигӡарц азы, иаҳҳәап, адәныҟатә шәҟәы ма аԥсҭазааратә шәҟәы."
+  - "Ахәмаррақәа гәырӷьаразы иалх. Ус ҟамызла, аԥышәара иеиԥшу амазаарақәа шәриаша."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Иарбан усқәоу адеменциа алагамҭаҿы ибзиоу?"
+    a: "Еиҳарак ауаҩы раԥхьагьы игәы иахәоз аусқәа: акартқәа, астолтә хәмаррақәа, афатә ҟаҵара, абаҳча усура, аурахара, амузика, адинтә усқәа, аклубқәа, ахатәгәаԥхаратә усура. Урҭ еиҳа ихьацәу, еиҳа иҭынчу, ма еиҳа имариоу ҟаҵатәуп. Адәныҟатә шәҟәы аҩра, асаламшәҟәқәа рыҩра, аԥсҭазааратә шәҟәы аҟаҵарагьы ари аамҭа иахьӡоит."
+  - q: "Ишԥасылшо ауаҩы ихы сдамхыцыркәа исцхыраари?"
+    a: "Иазҵаа ауаҩы иҭаху ацхыраара, лассы-лассы шәаицәажәала. Ажәа ма ахаҿы рҵысра шәақәшаҳаҭха, иаҳҳәап, ажәа ма ахьӡ ихы иаламгаландаз уахәҭоуп ҳәа адырга ҟаларц. Ашәарҭара ыҟамзар, иара игәаԥхарала аус наигӡаат, аамҭа рацәа аҭаххаргьы."
+  - q: "Адеменциа алагамҭа змоу ауаҩы ҿыцу аусқәа дрыҿкаашама?"
+    a: "Ааи, игәаԥхара ыҟазар. Иеицырдыруа аҿыцрақәа еиҳа имариоуп, аха уаа рацәа ҿыцу амаҵура агәырӷьара рзаанагоит, иаҳҳәап, адеменциа змоу ауаа рзы амҩахысратә гәыԥ, асахьаҭыхратә класс, ма ашәаҳәаратә гәыԥ. Аҳәарада зны шәҽазышәшәа, шәрылацәажәа ишԥаҟоу."
+  - q: "Адеменциа алагамҭаҿы ахшыл арӷәӷәаратә аԥпликациақәа рхархәара ахәҭоума?"
+    a: "Шьоукы аурокқәеи ажәатә хәмаррақәеи ргәы иахәоит, убри агәырӷьара хьӡас ухароуп. Акагьы аԥпликациа ма ахәмарра адеменциа ахәышәтәра, аҿиара арԥсыҽра, ма аанкылара шалшо ашьақәырӷәӷәаӡам. Ахәмарра агәҭынчымра аазнагозар ма агхақәа шәнанагозар, шәаԥхьа шәықәнаҵа."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Адеменциа алагамҭатә етап аҿы ауаа рацәа уаанӡа ишныҟәоз еиԥш инхоит. Дара аус руар алшоит, ахатәгәаԥхаратә усура нарыгӡоит, аҩызцәа рбоит, рыбжьара рхала рҽазырҟаҵоит. Ауснагӡарақәа рԥсахра акәымкәа, урҭ агәырӷьара рызцәымӡырц азы маҷк раԥсахра ауп изҭаху. Уара уроль ахылаԥшыҩ иакәымкәа, еиҳа аҩыза, апартниор ироль иаҵанакуеит: дицхыраауа, ицеиҿкаауа, дшыргәаԥхо мацара далало.
 
-## What activities are good in early-stage dementia?
+## Иарбан усқәоу адеменциа алагамҭаҿы ибзиоу?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Адеменциа алагамҭаҿы зегь реиҳа ибзиоу ауснагӡарақәоуп ауаҩы уаанӡа бзиа ирбоз, маҷк еиҳа имариахарц иҟаҵоу. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) абас еиԥш иҟоу аидеақәа рхьӡуеит: акартқәеи астолтә хәмаррақәеи, ажәаԥшаара, аурахара, акәашара, абаҳча усура, ашәҭқәа реиҿкаара, ажәабжьқәа рыхҳәара, асахьаҭыхра, амузика, адәныҟатә шәҟәқәа рыҩра, асаламшәҟәқәа, афотоальбомқәа раԥҵара, афатә ҟаҵара, аныхатә традициақәа.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Зны-зны иԥсахуа аус акәӡам, аҭагылазаашьоуп. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) иазгәанаҭоит адеменциа алагамҭаҿы иҟоу ауаа ргәы иахәоз аусқәа маҷ-маҷ ирцәыхарахар алшоит ҳәа. Иаҳҳәап, дуу апати аҿы ихьанҭахо ауаҩы хәыҷу агәыԥ аҿы еиҳа дгәыԥжәозар алшоит. Иуцәгьоу аганахьала ҭынч шәаицәажәа, насгьы еицышәриаша.
 
-## Ask first, and agree on how to help
+## Раԥхьа иазҵаа, насгьы ишԥашәацхыраауа шәақәшаҳаҭха
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) ауснагӡарақәагьы ирызкны иаҳҳәар ҳалшоит ацынхо аҟазшьақәа:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Ииашаны иазҵаа.** «Ишԥауамариохари ашәҟәыԥхьаратә клуб?» ҳәа азҵаара, ауаҩы игәаанагара аԥшаара аасҭа еиҳа ибзиоуп.
+- **Дылшоит ҳәа узықәгәыӷ.** Ашәарҭара ыҟамзар, ауаҩы ихы дазышәшәаат, ихы уамхыцыркәа игәы шьҭых.
+- **Адырга шәақәшаҳаҭха.** Ажәа ма ахаҿы рҵысра шәақәшаҳаҭха, иаҳҳәап, «уалага, улала» ҳәа аҵакы змоу, акарт хәмарраан ахьӡ агәалашәара ануцәгьоу еиԥш.
+- **Лассы-лассы иазҵаала.** Ацхыраара иахәҭоума, еиҳауума, ма имаҷума ҳәа шәаицәажәала.
 
-## Activity ideas for the early stage
+## Алагамҭатә етап азы ауснагӡарақәа ргәаанагарақәа
 
-### Keep up roles and hobbies
+### Аролқәеи аҿыцрақәеи рыхьчара
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Аамҭа иашьашәалоу ауснагӡарақәа шәыхьча.** Есымчыбжьтәи ахатәгәаԥхаратә усура, ахор ма аклуб амчыбжь инаҵакыртә ҟанаҵоит. Агәҭынчымра узаанагозар, еиҳа ихьацәу ма еиҳа иҭынчу ароль еиҳа иахьӡоит.
+- **Афатә ҟаҵара еицеиҿкаа.** Афатә аахәара ихьанҭахар, Alzheimer's Association иаҳәоит ауаҩы амчыбжьтәи афатә асиа аҩреи аплан аҟаҵареи дицхыраарц.
+- **Афатә ҟашәҵа, ача шәжь.** Бзиа ишәбо афатә ҟаҵашьа еицышәнагӡа. Шәалагаанӡа акомпонентқәа ҿакы-ҿакыла ишәырԥшы, еиҵаргыла, амҩақәа зегь убарц еиԥш.
+- **Абаҳча шәаԥхьаӡа.** Аҵахҳәақәа шәырпланла, аҵиаақәеи арыцҳарақәеи шәалх, аусгьы еицыжәу. Абаҳчатә усурақәа ирызку иҩу асиа ацхыраара ду ҟанаҵоит.
+- **Анапыла ҟаҵарақәа шәыхьча.** Аҵла усура, ахыҵра, адҳәалара ма амодельқәа реиҿкаара еиҳа имариоу асахьақәеи ибзиоу алашареи рыла инагӡазар алшоит.
 
-### Games for enjoyment
+### Агәырӷьаразы ахәмаррақәа
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Акартқәеи астолтә хәмаррақәеи шәхәмар.** Иеицырдыруа ахәмаррақәа еиҳа имариоуп. Агәыԥқәала шәхәмар, аӡәгьы дхала данымхаргьы, ахыԥхьаӡарагьы шәымҵар ма шәиашамҵар ауеит.
+- **Шьҭахь ду змоу ажәаԥшаара шәаԥхьа.** Ҳара ҳажәаԥшаара [word search](/games/word-search/) аекран аҿы уахәмаршалоит, ма иҭынчу аамҭазы шәҭыжьны уара унапаҿы иумазар алшоит.
+- **Апазлқәа шәеизга.** Еиҳа иҭынчу, ихьанҭам ахәҭақәа рацәара шәалх. [Picture puzzle](/games/picture-puzzle/) екрантә версиоуп, ҳара ҳабжьгарақәа [puzzles for dementia](/activities/puzzles/) рҿы иалху аӡәы иарбан иахьӡо убоит.
+- **Агәырӷьаразы авикторинақәа шәрылала.** Шьоукы агәыԥтә викторинақәа бзиа ирбоит. Аԥышәара иеиԥшхар, даҽа кагьы шәалх, ма ҳара ҳ-[easy trivia questions](/activities/trivia/) шәаԥшы, урҭ аҭакқәа рыла еиқәыршәоуп, ахыԥхьаӡарагьы рымаӡам.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Абра ахәмаррақәа гәырӷьара мацаразы иҟоуп. Акагьы ахәмарра адеменциа ахәышәтәра ма аҿиара арԥсыҽра шалшо ашьақәырӷәӷәаӡам; еиҳаны шәаԥхьа [brain games: what the research says](/brain-health/brain-games/) аҿы.
 
-### Write, reflect and record
+### Аҩра, ахәыцра, анҵара
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Адәныҟатә шәҟәы шәыхьча.** Alzheimer's Association адиагноз анашьҭоу ашьҭахь агәазыҳәарақәа рыхҳәаразы адәныҟатә шәҟәы аҩра абжьыгара ҟанаҵоит. Есымша ҩ-цәаҳәакгьы ихарҭәаауп.
+- **Аԥсҭазааратә шәҟәы шәаԥҵа.** Адеменциа алагамҭа аамҭа бзиоуп ауаҩы ихаҭа афотосахьақәа иалхырц, урҭ ирызку ажәабжьқәа иҩырц ма диҳәарц азы. Шәаԥхьа [reminiscence activities](/activities/reminiscence/).
+- **Асаламшәҟәқәа шәҩы.** Амоҭа, ажәытә ҩыза, ма уаанӡатәи аусцхырааҩ изы асаламшәҟәы аҩра ҩ-ганкгьы рзы хаҭара ду амоуп.
+- **Афотосахьақәа шәрылацәажәа.** [Photo pairs](/games/photo-pairs/) аҭаацәаратә фотосахьақәа ҭынч еиԥш хәмарраны иҟанаҵоит, акартқәа [conversation cards](/games/conversation-cards/) аицәажәара марианы алагаразы ацхыраара ҟарҵоит.
 
-### Go out and move
+### Адәылҵреи аҵысреи
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ишәабжьанагоит шәҩыџьагьы ишәзеиӷьу аамҭазы иеицырдыруа амҩахысрақәа шәацырҵырц. Урҭ ауаҩы игәы зегь реиҳа иҭынчу амш аамҭазы ипланжәла, еиҳагьы шәымҵахралан.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Ихьацәу акультуратә мҩахысрақәа.** Амузеи, атеатр, ма асахьақәа рыргәыԥжәара, еиҳа иҭынчу аамҭазы.
+- **Аӡсара.** NIA абжьыгара ҟанаҵоит аӡсырҭахь ауаа маҷу аамҭазы ацара.
+- **Аурахаратә гәыԥқәеи акәашаратә классқәеи.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) иаҳәоит акәашара, таи чи, иога, аӡсара, аурахаратә гәыԥқәа, иара убас адеменциа змоу ауаа рзы иаԥҵоу ауснагӡарақәа.
+- **Ашәаҳәаратә гәыԥқәеи агәалашәаратә кафеқәеи.** Адеменциа змоу ауааи рҩызцәеи ирыбжьыз уаа рҿы деибабарц азы иҭынчу агәыԥқәа.
 
-## Small changes that keep activities enjoyable
+## Ауснагӡарақәа агәырӷьара рызцәымӡырц азы амаҷбзиарақәа
 
-| If this is getting harder | Try this |
+| Ари ихьанҭахар | Ари шәҽазышәшәа |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Ауаа рацәа ахьыҟоу, абжьы ду ахьыҟоу аҭыԥқәа | Иҭынчу аамҭазы шәцала, еиҳа ихәыҷу агәыԥқәа шәалх, аҩны аҵыхәаҿы шәтәала |
+| Ахьӡ ҿыцқәа рыргәалашәара | Ауаа есымша рыхьӡқәа рыла шәырдыррала; агәыԥқәа рыҿы ахьӡ-шәҟәқәа рхархәара шәраҳәа |
+| Рацәа-етаптә планқәа рынагӡара | Аетапқәа шәнырҵа, ма раԥхьа зегь ҿакы-ҿакыла шәырԥшы |
+| Аурала аԥсшьара аҭахра | Еиҳа ихьацәу амҩахысрақәа, уи ашьҭахь аԥсшьара, убри амш азы даҽа план шәамҵалан |
+| Ахәмарраан ашьҭахь аус аилкаара | Агәыԥқәала шәхәмар, аԥҟарақәа шәырриаша, ма ахыԥхьаӡара шәымҵар |
+| Ажәақәа рыԥшаара | Аамҭа шәыҭ; шәақәшаҳаҭыз адырга шьҭахь мацара ажәа шәҳәа |
 
-## When to slow down
+## Ианаамҭоу маҷк аангылара
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Ауснагӡара агәырӷьара аасҭа агәҭынчымра еиҳаны иаазнагозар, аанкылатәуп ма аԥсахтәуп. Лассы-лассы агәҭынчымра, аҿыцрақәа рҿыцәцара, ма «сара слымшоит» ҳәа аҳәара аҵабырг бзиала шәрылацәажәатәуп, шәырҿиаӡом. Еиҳарак аҭак убри аус еиҳа ихәыҷу версиоуп. Ауаҩы аус алагареи аетапқәа рынагӡареи еиҳа ацхыраара аниҭаху, [middle-stage activities](/activities/middle-stage/) аидеақәа еиҳа иахьӡоит. Еиҳа ацхырааратә аицәажәаразы шәаԥхьа [communication tips](/caregiving/communication-tips/), даҽа идеақәа рацәазы шәаԥхьа [101 activities](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Апартниорцәагьы ацхыраара рыҭахуп. Алагамҭатә етап аамҭа бзиоуп шәхатә ацхырааратә мҩақәа реиҿкааразы; шәаԥхьа [caregiver self-care](/caregiving/caregiver-self-care/).

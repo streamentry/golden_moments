@@ -1,34 +1,30 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Zaurvano Manō-Rāmaya: Nemra Vīdōitiyå Yå Nōit Āzādayeinti"
+seoTitle: "Zaurvano Manō-Rāmaya Manō-Zyānō"
+description: "Kəhrpō-rāmaya zaurvalōibyo manō-zyānāiš: kəhrpā paiti-dāta, kamna yumā, a-sāhva, haca haxaya rāmō. Vīspā paiticaxšete."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Zaurvano marəti-rāmaya manō-harəte mashyākāibyō vahehī vahishtā vərəzyeinti yadā nōit marətim ə̄nərəzaiti. Kəhrpō-rāma vərəzyōid kəhrpāiš paiti-dātehīsh, caϑwārah vā xšvaš vā kərəta, haxaya rāmayanta uta sāhvąm taršna. Vīspa kəhrp paiticaxšte, yezī marəta dūra nōit apōyeiti. Urvāsman vahišta asti, nōit arəϑa.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Pouruyā marəti-rāmaya kəhrpā nibərədara bavaiti, yā manō-zyānāi a-hušta asti. Kəhrpā paiti-dātehīsh haca raocaiti."
+  - "Kamna kərəta, masāna kəhrpā, aēva vi-citi rāmam dārayeinti."
+  - "Haxaya rāmayanta, ayaptam dārayanta, sāhvąm a-sraya. Mā cišca ərəžucam paiti-jaidyāt."
+  - "Nōit aēva rāma manō-zyānim bēšazyati vā drānayeiti. Rāmata yaza haxa rāma vahišta asti."
+  - "Rāmišta han-dāraya yavata urvāsaiti. Kəhrpāiš paiti-mruye vahehī phala asti."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Ciš asti vahišta marəti-rāma mashyākāi manō-harətōi?"
+    a: "Kəhrpō-yuma yā masā kəhrpā caϑwārah vā xšvaš vā kərəta paiti-dātehīsh dārayeiti, yaϑā Picture pairs. Yuma kəhrpə̄m vindaiti nōit marətim āzādayeiti. Find the same haca a-bravaiti, yim aēva kəhrpa caϑwārah paiti-vicināiti."
+  - q: "Marəti-rāmaya manō-zyānim upakarayeinti?"
+    a: "Nōit aēva rāma bēšazya vā drānahyā manō-zyānim cašmne vīdāiti; Cochrane āyaxshti paiti computer cognitive training a-paiti-asti vaŋhō mraoti. Rāmaya haxaya urvāsman dārayanta."
+  - q: "Concentration rāma mashyākāi manō-zyānōi aipyeiti?"
+    a: "Paouruye aŋhuyā, yōi urvāsayante kamna kərətaiš. Yezī marəti harəzah vərəzyeiti, kəhrpā paiti-dātā vīspā yuma vindanta. Avesta marəti-āzāda a-bavaiti."
+  - q: "Katarā rāmaya haxədrāi zaurvano vahištā hanti?"
+    a: "Picture bingo mashyāka-vācim paiti, paourva saxvan framrūite, uta pahti-mravana kərəta vīspə̄m upakarayeinti. Vīspā kərəta hanta dāta, mā yō a-ēva fravācayeite."
+  - q: "Hanti-kə̄ fravāra rāmaya zaurvanam gāϑwō-vaedya?"
+    a: "Bavaiti. Vīspa rāmaya gāϑwō-vaedye, Picture pairs, Find the same, Photo pairs, uta Picture puzzle, fravāra hanti, an-aipi-yāsta, nōit sāhva vā ayaptam zbayente."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +46,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Yezī yāsahe "marəti-rāmaya zaurvalōibyo", pouru vərəzyata mashyāka-uši-vərəzya: kəhrpā nīuzdāta, zrvān-āxšti, sāhva uta arəϑa. Mashyākāi yō manō-zyānayā jvaiti, ima kərəta rāmam āzādəm vərəzyeiti yim aipyeiti duž-karəm. Aēte rāmaya nemra gātu vərəzyante. Aēva pəpərəte aδvāna āhista, uta rāmaya vīspāi aŋhuye paiti-dāte.
 
-## Why do classic memory games frustrate people with dementia?
+## Cəm paouruyā marəti-rāmaya mashyāka manō-zyānōi duž-manō kerenaoiti?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Yezī haca nava sūram manahi dārayeiti ə̄nərəzaiti, yā paouruyā Alzheimer a-dāiti vaēditi. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) mraoti paouruyā laksanəm asti nava frapravaiti a-marəti. Concentration rāmayā, duye kərəte paiti-tācayehi, vīdāiti marahi, pasca aēva zrvāna paiti-yāsahe. Avesta nava haca manō dārayeiti.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Yezī zrvānem, sāhva vā duž-vacim aipi-dadaiti, mashyāka xšnūta nōit bavaiti paiti yō friyō asti. Pouru mashyāka tūšnā a-rāmayeinti.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Cašmane paiti-vaēdaya vahišta uta kərətu asti. Duye kərəte aēva cašmane paiti-cinahi vahišta hanti. Haxayā yuma dāraya, marəti-āzāda apōyeiti.
 
-## How do you make a memory game gentle?
+## Caϑru nemra marəti-rāmam vərəzyehi?
 
-These adjustments work for card games, board games and games on a screen.
+Aēte paϑa vərəzyeinti kərətāiš, myazdāiš uta cašman-paiti:
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Kəhrpā paiti-dātā dāraya.** Kəhrpā paiticaxšte haš-rāma asti uta rāma dadaiti.
+2. **Kamna kərəta vərəzya.** Duye vā ϑrayō yuma paiti-bara. Pouru dāraya yezī yāsayente.
+3. **Masantəm, xšnūtem, mashyāka-kəhrpəm vicina.** Teacup, varəša, nāvayehe. Mā cartoons, mā pouru-raoca.
+4. **Haxaya rāmaya.** "Zū, spāna vindāma" mā "tava arəϑa." Ayaptam paiti-dāraya.
+5. **Sāhva apabarayehi.** Nōit cišca vanayeiti. "Vā haxaya vərəzyāma" dāraya.
+6. **Mā zrvāna zbayata.** Nōit zrvān-āxšti, nōit tācaiti.
+7. **Kəhrpāiš paiti-mrava.** "Vīna aom nāvim. Kə̄ nāvayehe aipyeiti?" Saxvan vahišta rāma asti.
+8. **Vohu rāmāi han-dāraya.** Paiti yuma vinditi, rāmata han-dāraya.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ima saŋhaiti: rāmam mashyāka-aodra paiti-dadaiti, mā duž-manah, vahišta vaēditi dāraya.
 
-## Gentle memory and matching games to try
+## Nemra marəti uta kəhrpō-yuma rāmaya
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (kəhrpō-yuma paiti-dātehīsh)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) asti yuma-rāma masāiš kəhrpāiš 4 haca 12 kərətaiš. Kəhrpā paiti-dātehīsh hanti, nōit marəti dūra, yuma vindaiti. Caϑwārah kərətaiš fravərəzya. Yezī paouruye aŋhuyā yāsayente, **Hidden pictures** vərəzyata, aŋha bāš paiti-dāte yezī a-urvāsaiti.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) aēva kəhrpa stūna dāštē, duye vā caϑwārah adā dāiti. Aom yuma tap-karana. Vahišta nemra rāma asti, mashyākāi yō pouru-kərəte a-urvāsaiti, aŋhuyā pasca haxayā upa-nišadaiti.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (nmāna-kəhrpō marəti-rāma)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) twayā kəhrpā yuma-rāmam kərənaoiti: spā, varəza, nmāna. Friyā kəhrpā saxvan fraorəiti fravadaiti. Kəhrpā tava browser dārayeinti uta nōit aipi-yāsta.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) kəhrpəm gātu dadaiti, yaϑā gātu-xarathe vā varəze. Ima paiti dūra-uši vərəzyeiti, nōit nava marəti.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) kəhrpəm 4 vā 9 kərəta bavaiti. Duye kərəta vicina yavata kəhrpa hax-dāta bavaiti. Kəhrpa paiticaxšte dārayeiti.
 
-### Real cards on the table
+### Myazda kərəta paiti gātuye
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Nōit screen dāraya. Duye kərətā-bərətiyå yuma kərəta vicina. Paiti-dātā duye haxtya dāta uta haxaya yuma vindata. Pasca rangəm vā kəhrpəm vərəzyata. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) kərətā-rāmaya paouruye aŋhuyā sasta.
 
-## Which memory games suit each stage?
+## Katarā rāmaya aipyeinti aŋhvō?
 
-Stages are loose labels. Go by what the person enjoys today.
+Aŋhvō nemra nāman hanti. Paiti mashyāka raoca dāraya.
 
-| Stage | Games that often fit | How to set them up |
+| Aŋhu | Rāmaya | Gātu dāta |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Paourvya | Picture pairs, Photo pairs, Picture puzzle 9 kərəta, friyā kərəta | Yāsa vicinayanta. Kəhrpā paiti-tācayeinti yezī urvāsaiti; sāhva apabarayehi |
+| Maidyāna | Picture pairs 4 haca 6 kərəta paiti-dāte, Find the same, Sort together | Kəhrpā vīspā paiticaxšte. Upa-nišada uta ayaptam dāraya |
+| Pasca | Find the same 2 kərəta, aēva masan kəhrpa cašmane | Kamna zrvāna. Tablet dāraya; vāeidyente vā paiticaxšete |
 
-## Do memory games help with dementia?
+## Marəti-rāmaya manō-zyānim bēšazyanti?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Nōit aēva marəti-rāma bēšazya, drānahyā vā a-dāiti paiti manō-zyānim vaēdayeiti. [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) paiti computer cognitive training mashyākāibyō kamna-uši mraoti vaēditi kamna asti. Nā [brain games and dementia](/brain-health/brain-games/) paiti-vadaiti ciš sasta hanti.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Avesta nōit rāmam apabaraiti. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) mraoti urvāsman dāraya, nōit arəϑa. Dasəm zrvān-draŋga kəhrpā paiticaxšte uta paiti-mruye vahišta raoca bavaiti.
 
-## What about memory games for seniors without dementia?
+## Yaϑā zaurvalōibyo an-aipi manō-zyāna?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Yezī zaurva a-marəti-zyāna zrvān-rāmam, sāhva uta masan aodra rāmayeiti, vahišta asti. Mā manaya aom bēšazya; nōit aēva rāma paiti-vaēda. Nemra rāmaya haxaya vīspā zaurvano uta apanōtəra kərənaoiti: nyāka uta frazainti haxaya kəhrpā yuma vindanti, a-āzāda.
 
-## When should you stop or change the game?
+## Yavata rāmam han-dāraya vā paϑa vicina?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Vāš-saxvan, tablet apabarayeiti, mraoti "nōit vərəzyemi" vā duž-manah vīda, vahišta kamna kərəta dāraya vā han-dāraya. Kamna kərəta dāraya, kəhrpā paiti-dāta, [Find the same](/games/find-the-same/) vərəzya, vā kəhrpā cašmane paiti-mrava. Yezī nōit rāmaya yāsaiti, vahišta asti. Nā paϑa [how to play together](/caregiving/how-to-play-together/) zrvān-draŋga uta ayapta paiti-sāhva dārayeiti.

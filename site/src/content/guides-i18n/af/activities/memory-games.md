@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Geheuespeletjies vir seniors met demensie: sagte weergawes"
+seoTitle: "Geheuespeletjies vir seniors met demensie"
+description: "Pasmaak-, prent- en kaartspeletjies vir seniors met demensie: prente oop, minder pare, geen telkaart en speel saam sodat niemand getoets voel nie."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Geheuespeletjies vir seniors wat met demensie leef, werk die beste wanneer
+  hulle nie op die geheue staatmaak nie. Speel pasmaakspeletjies met die prente
+  oop na bo, gebruik vier tot ses blokkies, speel as 'n span en los die punte.
+  Om 'n prent te herken is makliker as om een te onthou; kies dus speletjies
+  waar alles sigbaar bly. Genot, nie 'n uitslag nie, is die doel.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Klassieke geheuespeletjies steek die kaarte weg, wat presies dit toets wat demensie moeilik maak. Los die prente liewer oop na bo."
+  - "Minder stukke, groter prente en een keuse op 'n slag hou die speletjie aangenaam."
+  - "Speel as 'n span, maak beurte om te help en vergeet van punte. Niemand behoort in die verleentheid gestel te word nie."
+  - "Daar is geen bewys dat enige geheuespeletjie demensie behandel, vertraag of stop nie. Speel omdat dit lekker tyd saam is."
+  - "Hou op terwyl dit nog pret is. Om oor die prente te gesels, is al 'n mooi uitkoms."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Wat is 'n goeie geheuespeletjie vir iemand met demensie?"
+    a: "'n Pasmaakspeletjie met groot, bekende prente wat oop na bo kan bly, soos Picture pairs wat op vier of ses blokkies gestel is. Om die tweelingmaat te vind van 'n prent wat jy kan sien, verskaf genot sonder om die korttermyngeheue te toets. Find the same is selfs nog eenvoudiger, met een prent wat uit twee tot vier keuses gepas moet word."
+  - q: "Help geheuespeletjies vir demensie?"
+    a: "Daar is geen bewys dat enige geheuespeletjie demensie behandel, vertraag of stop nie; 'n Cochrane-oorsig het bevind dat die bewyse oor breinoefening op rekenaars te beperk is om te sê of dit demensie voorkom. Speletjies kan steeds 'n warm manier wees om tyd saam deur te bring. Kies hulle vir plesier en samesyn."
+  - q: "Behoort ek klassieke Concentration saam met iemand met demensie te speel?"
+    a: "In die vroeë stadium geniet sommige mense dit nog, veral met 'n klein aantal kaarte. As dit frustrasie begin veroorsaak om te onthou waar die kaarte lê, draai die kaarte oop na bo en soek bloot die pare saam. Dit behou die pasmaak en laat vaar die geheuetoets."
+  - q: "Watter geheuespeletjies is goed vir seniors in 'n groep?"
+    a: "Picture bingo met 'n omroeper op die skerm, die hardop voltooiing van bekende spreekwoorde, en gesprekkaarte werk almal vir groepe. Speel totdat elke kaart vol is en vermy om uit te roep wie 'n antwoord reg het, sodat niemand uitgesonder voel nie."
+  - q: "Is daar gratis aanlyn geheuespeletjies vir seniors?"
+    a: "Ja. Die speletjies op hierdie webwerf, insluitend Picture pairs, Find the same, Photo pairs en Picture puzzle, is gratis, vereis geen registrasie nie en werk op fone, tablette en rekenaars. Geen van hulle het 'n tydhouer of puntetelling nie."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Soek jy na „geheuespeletjies vir seniors”, sal die meeste van wat jy vind bedoel wees vir mense wat 'n verstandelike oefensessie soek: versteekte kaarte, aftelhorlosies, vlakke en punte. Vir iemand wat met demensie leef, verander daardie dinge 'n speletjie in 'n toets van presies dít wat moeilik geword het. Dieselfde speletjies kan egter op 'n sagter manier gespeel word. Hierdie bladsy wys hoe, en bevat speletjies wat goed werk in elke stadium.
 
-## Why do classic memory games frustrate people with dementia?
+## Waarom frustreer klassieke geheuespeletjies mense met demensie?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Omdat hulle daarvan afhang om nuwe inligting in die geheue te hou – en dit is gewoonlik die eerste ding wat deur Alzheimer se siekte, die mees algemene oorsaak van demensie, geraak word. Die [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) noem dat die mees algemene vroeë simptoom van Alzheimer se siekte die moeite is om nuut geleerde inligting te onthou. In die klassieke spel Concentration draai jy twee kaarte om, onthou waar hulle was, en gebruik daardie inligting 'n minuut later. Dit is nuwe inligting wat onthou en herroep moet word.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Voeg daarby 'n tydhouer, 'n puntetelling of 'n gonser vir verkeerde antwoorde, en die persoon word herinner aan wat nie meer regkry nie, reg voor iemand vir wie hulle lief is. Baie mense verloor dan stilletjies alle lus om te speel.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Om iets te herken wat jy kan sien, is 'n heel ander en gewoonlik makliker taak. Om na die tweede teekoppie te wys wanneer albei sigbaar is, voel goed. Die kuns is dus om die pasmaak te behou en die geheuetoets te laat vaar.
 
-## How do you make a memory game gentle?
+## Hoe maak jy 'n geheuespeletjie sagter?
 
-These adjustments work for card games, board games and games on a screen.
+Hierdie aanpassings werk vir kaartspeletjies, bordspeletjies en speletjies op 'n skerm.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Los die prente oop na bo.** Om prente wat jy kan sien te pas, is steeds 'n regte speletjie, en dikwels 'n baie bevredigende een.
+2. **Gebruik minder stukke.** Begin met twee of drie pare. Voeg slegs meer by as dit te maklik voel en die persoon meer wil hê.
+3. **Kies groot, bekende prente vir volwassenes.** 'n Teekoppie, 'n sonneblom, 'n seilboot. Geen tekenprente nie, en nie besige tonele nie.
+4. **Speel as 'n span.** „Kom ons soek die honde” in plaas van „jou beurt”. Maak beurte om te wys en te help.
+5. **Vergeet van punte.** Niemand hoef te wen nie. As iemand vra, is 'n eenvoudige „ons het dit reggekry” genoeg.
+6. **Moet nooit teen die klok speel nie.** Geen tydhouers nie, en geen gejaag tussen beurte nie.
+7. **Gesels oor die prente.** „Kyk na daardie boot. Het jy al ooit gaan seil?” Die gesprek is dikwels die beste deel.
+8. **Eindig op 'n goeie noot.** Hou op ná 'n suksesvolle pasmaat, terwyl dit nog lekker voel.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gee dieselfde beginsel as algemene raad: pas die aktiwiteit aan by wat die persoon kan doen, wees op die uitkyk vir frustrasie, en sorg dat hulle voel hulle behaal sukses.
 
-## Gentle memory and matching games to try
+## Sagte geheue- en pasmaakspeletjies om te probeer
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (pasmaak met prente wat oop lê)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) is 'n pasmaakspeletjie met groot prente en 4 tot 12 blokkies. Die prente kan sigbaar bly, so dit gaan daaroor om die maats te vind, nie om te onthou waar hulle was nie. Begin met vier blokkies. Vir iemand in die vroeë stadium wat 'n bietjie meer uitdaging geniet, kan jy oorskakel na **Hidden pictures**, maar gaan terug na sigbare prente sodra dit nie meer pret is nie.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) wys een prent bo en twee tot vier keuses onder. Tik op die een wat pas. Dit is die eenvoudigste pasmaakspeletjie op die webwerf en pas by mense wat 'n volle rooster te besig vind, insluitend baie mense in die latere stadiums wanneer iemand langs hulle sit.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (geheuespeletjie met gesinsfoto's)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) verander foto's wat jy kies in 'n pasmaakspeletjie: die hond, die tuin, die vakansiehuis. Bekende gesigte en plekke ontlok dikwels meer gesprek as enige gewone voorraadfoto. Die foto's bly in jou webblaaier en word nooit opgelaai nie.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) vra dat jy elke prent in die mandjie plaas waar dit hoort, soos die kombuis of die tuin. Sortering steun op jarelange kennis van hoe die wêreld werk, nie op die korttermyngeheue nie.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) verdeel 'n prent in 4 of 9 stukke. Tik op twee stukke om hulle om te ruil totdat die prent weer heel is. Die voltooide prent bly op die skerm as 'n gids.
 
-### Real cards on the table
+### Regte kaarte op die tafel
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Jy het nie 'n skerm nodig nie. Haal ooreenstemmende pare uit twee pakke kaarte of uit 'n stel prentkaarte. Pak hulle oop na bo in twee rye uit en soek die pare saam. Sorteer dit later liewer volgens kleur of kaartsoort. Die [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lys kaartspeletjies en bordspeletjies onder aktiwiteite vir die vroeë stadium.
 
-## Which memory games suit each stage?
+## Watter geheuespeletjies pas by elke stadium?
 
-Stages are loose labels. Go by what the person enjoys today.
+Stadiums is slegs riglyne. Gaan volgens wat die persoon vandag geniet.
 
-| Stage | Games that often fit | How to set them up |
+| Stadium | Speletjies wat dikwels pas | Hoe om dit op te stel |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Vroeg | Picture pairs, Photo pairs, Picture puzzle met 9 stukke, bekende kaartspeletjies | Laat hulle kies. Blokkies kan omgedraai word as hulle dit geniet; vergeet van die punte as dit hulle pla |
+| Middel | Picture pairs met 4 tot 6 blokkies oop na bo, Find the same, Sort together | Prente altyd sigbaar. Sit langs hulle en maak beurte om te help |
+| Laat | Find the same met 2 keuses, kyk saam na een groot prent | Baie kort. Jy hou die tablet vas; hulle wys, of kyk en luister net |
 
-## Do memory games help with dementia?
+## Help geheuespeletjies met demensie?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Daar is geen bewys dat enige geheuespeletjie demensie behandel, vertraag of stop nie. 'n [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) oor rekenaargesteunde kognitiewe opleiding vir mense met ligte kognitiewe inkorting het bevind dat die bewyse te beperk is om te sê of dit demensie voorkom. Ons gids oor [breinspeletjies en demensie](/brain-health/brain-games/) verduidelik wat studies wel en nie toon nie.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Dit is nie 'n rede om speletjies oor te slaan nie. Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) beveel aan om op genot te fokus, nie op prestasie nie. Tien minute van prente pas en daaroor gesels kan 'n werklik goeie deel van die dag wees.
 
-## What about memory games for seniors without dementia?
+## Wat van geheuespeletjies vir seniors sonder demensie?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+As 'n ouer volwassene sonder geheueprobleme tydraaisels, puntetellings en moeiliker vlakke geniet, is daar niks daarmee verkeerd nie. Moet net nie daarop reken dat dit teen demensie beskerm nie; daar is vir geen speletjie bewys dat dit so werk nie. Die sagte weergawes hierbo werk ook goed wanneer geslagte saam speel: 'n grootouer met demensie en 'n jong kleinkind kan prente as 'n span pas, sonder dat enigeen van hulle getoets word.
 
-## When should you stop or change the game?
+## Wanneer moet 'n mens ophou of die speletjie verander?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+'n Gesug, om die tablet weg te stoot, om te sê „ek kan dit nie doen nie” of om angstig te lyk, is alles tekens om dit makliker te maak of op te hou. Probeer minder blokkies, draai die prente oop na bo, skakel oor na [Find the same](/games/find-the-same/), of kyk net na die prente en gesels. As die persoon glad nie wil speel nie, is dit ook heeltemal reg. Ons gids oor [hoe om saam te speel](/caregiving/how-to-play-together/) bevat meer inligting oor pas en ondersteuning.

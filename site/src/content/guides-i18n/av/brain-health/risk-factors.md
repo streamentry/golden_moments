@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Деменциялъул хӀинкъиялъул 14 фактор: Lancet"
+seoTitle: "Деменциялъул хӀинкъиялъул 14 фактор"
+description: "2024 соналъ Lancet комиссиялъ бихьизабураб хисизабизе кӀолеб 14 фактор, гӀумруялъул мухъал ва тохтургун гара-чӀвари гьабизе бегьулебщинаб."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 соналъ Lancet комиссиялъ бихьизабуна деменция рагӀалде баккигун хурхараб,
+  хисизабизе кӀолеб 14 фактор: лъай-хъвай дагьлъи, гӀинтӀами загӀиплъи, борхатаб
+  LDL холестерин, депрессия, бетӀералъул ругънал, багъа-бачари камлъи, диабет,
+  тӀамах цӀай, борхатаб давление, цӀикӀкӀараб цӀай, гьекъолъи цӀикӀкӀин,
+  жамагӀаталдаса батӀалъи, гьава чӀунти ва дару гьабичӀеб берал загӀиплъи.
+  ТӀолго дунялалда ругел хӀужабазул гӀага-шагарго 45% гьезда хурхараблъун рикӀкӀуна,
+  амма щивав чиясе гьелъ кинабгwork мухӀканлъи кьоларо.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Гьеб 14 фактор кинабниги гӀумруялъул мухъазда тӀибитӀун буго: цояб бачӀуна гӀолохъанго, анцӀгояб гӀумруялъул бакьулъ, лъабгояб херав заманалда."
+  - "ГӀумруялъул бакьулъ гӀинтӀами загӀиплъи ва борхатаб LDL холестерин дунялалда деменциялъул щибаб 7% хӀужагун хурхун буго — гьел руго бищун чӀахӀиял бутӀаби."
+  - "Гьел процентал ккола тӀолго халкъалъул къиматал, гьезул гӀилла-хӀасил бугин абураб пикруялда рекъон. Цо-цо хурхенал батизе бегьула бутӀадулаб гурони гьечӀел."
+  - "Ригь ва генал хисизаризе кӀоларо, гьелги ккола аслиял факторлъун. 14 хӀинкъи дагь гьабиялъ киназего деменция ккечӀого хутӀизе мухӀканлъи кьоларо."
+  - "ТӀалаб гьарулел аслиял ишал — давление, гӀин ва берал хал гьаби — киналго рахъазул сахлъиялъе пайдаял руго, гьел тохтургун дандразизе лъикӀ буго."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Кинал кколел деменциялъул хисизабизе кӀолеб 14 хӀинкъиялъул фактор?"
+    a: "2024 соналъул Lancet комиссиялъ бихьизабуна: лъай-хъвай дагьлъи, гӀинтӀами загӀиплъи, борхатаб LDL холестерин, депрессия, бетӀералъул ругънал, багъа-бачари камлъи, диабет, тӀамах цӀай, борхатаб давление, цӀикӀкӀараб цӀай, гьекъолъи цӀикӀкӀин, жамагӀаталдаса батӀалъи, гьава чӀунти ва дару гьабичӀеб берал загӀиплъи. ТӀолго дунялалда деменция рагӀалде баккиялъул бащдаб къадаралда гьел хурхун руго."
+  - q: "Деменциялъул бищунго кӀвар бугеб фактор кинаб кколеб?"
+    a: "Дунялалъул халкъалда гьоркьоб комиссиялъ къимат кьуна, гӀумруялъул бакьулъ гӀинтӀами загӀиплъи ва борхатаб LDL холестерин щибаб 7% хӀужагун хурхараб букӀиналда. Гьелда хадур рачӀуна лъай-хъвай дагьлъи ва жамагӀаталдаса батӀалъи — щибаб 5%. Хасав чиясе бищунго кӀвар бугеб жо жиндирго сахлъиялда бараблъидал, тохтурасул маслигьат бищун лъикӀаб нухмалъи ккола."
+  - q: "2024 соналъ кӀиго цӀияб фактор тӀаде жубан бугищ?"
+    a: "У, жубан буго. 2024 соналъул докладалъ 2020 соналъ бихьизабураб 12 факторалда тӀаде жубана гӀумруялъул бакьулъ борхатаб LDL (заралаб) холестерин ва херав заманалда дару гьабичӀеб берал загӀиплъи. Комиссиялъ гьел хурхинаруна гӀага-шагарго 7% ва 2% хӀужабазгун."
+  - q: "Ригь кколищ хисизабизе кӀолеб факторлъун?"
+    a: "Гуро, кколаро. Ригь ккола Альцгеймерил унти рагӀалде баккиялъул бищунго кӀудияб машгьураб фактор, гьеб хисизабизе кӀоларо. Геназулги кӀудияб бутӀа буго. Гьаб гьумералда ругел 14 фактор ккола цӀех-рехазда рекъон хисизабизе рес бугел жал."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,82 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+ХӀинкъиялъул фактор ккола цо унти баккиялъул рес цӀикӀкӀинабулеб жо. Гьеб кибго гӀиллалъун кколаро, ва гьеб батиялъ нужеда деменция ккезе бугин абураб рагӀи гуро. Гьаб гьумералда бихьизабун буго 2024 соналъул Lancet комиссиялъ хисизабизе кӀолин рикӀкӀараб 14 фактор, цӀех-рехаз гьел щибгун хурхинарулел ва тохтургун щиб дандразизе бегьулеб.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+ГӀатӀидаб сурат лъазе, гьездаго гьоркьоб чӀахӀиял сина-гьавиязул хӀасилал, байбихьизе бегьула гьаб макъалаялдасан:
+[Деменция ккечӀого букӀине гьабизе бегьулищ? ЦӀех-рехаз щиб бицунеб](/brain-health/can-dementia-be-prevented/).
+Гьаб ккола гӀаммаб баян, тохтурасул маслигьат гуро; ралагье нижер
+[медицинаялъул жавабчилъиялдаса инкар гьаби](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Кинал кколел деменциялъул 14 хӀинкъиялъул фактор?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+Деменциялъул 27 цӀех-рехчияс хъвараб [2024 соналъул Lancet комиссиялъ](https://doi.org/10.1016/S0140-6736(24)01296-0) къимат кьуна, хисизабизе кӀолеб 14 хӀинкъиялъул фактор тӀолго дунялалда деменциялъул гӀага-шагарго 45% хӀужагун хурхараб букӀиналда. ГьоркьегӀан бихьизабураб щибаб факторалъул процент ккола комиссиялъул къимат, гӀадатиял рикӀкӀеназда къотӀ-хьвачӀ гьабураб. Гьел процентал цоцада тӀаде ккола, щай гурелъул гӀемерисел гӀадамазухъ цадахъго чанго фактор дандечӀвала, гьединлъидал гьел цоцада жубан 45% гурони цӀикӀкӀунаро.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| ХӀинкъиялъул фактор | ГӀумруялъул мухъ | ХӀужабазул бутӀа | ЦӀех-рехаз щиб хурхинарулеб | Нужеца щиб гьабизе кӀолеб |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Лъай-хъвай дагьлъи | ГӀолохъанаб заман | 5% | Макаталда дагьал сонал рарав чиясул хӀинкъи цӀикӀкӀун букӀине бегьула. ГӀумруялъул бакьулъ пикруялъул ишал гьарулев чиясда унти дагьго бачӀин бихьула, мактаб лъугӀичӀезухъцин. | ГӀумруялъул щибаб ригьалда лъай босе, пикру хӀалтӀизабулел ишал гьаре: цӀализе, гьунарал камил гьаризе, дарс босизе, цогидазулгун гӀахьаллъун хӀай гьабизе. |
+| ГӀинтӀами загӀиплъи | ГӀумруялъул бакьулъ | 7% | Дару гьабичӀеб гӀинтӀами загӀиплъи хурхун буго цӀикӀкӀараб хӀинкъиялда. ГӀадамазухъ хадур халатаб заманалъ халккурал цӀех-рехаз бихьизабула, гӀинтӀамиялъул алатал хӀалтӀизариялъ хӀинкъи дагь гьабизе бегьулеблъи. | ГӀинтӀами хал гьабизе кье. ГӀинтӀамиялъул алатаз кумек гьабизе бегьулищ абун гьикъе, тохтурас тӀалаб гьабуни, гьел ретӀе. ЧӀахӀиял гьаркьаздаса гӀундул цӀуне. |
+| Борхатаб LDL холестерин | ГӀумруялъул бакьулъ (гӀага-шагарго 40 соналдаса) | 7% | ГӀумруялъул бакьулъ борхатаб LDL («квешаб») холестерин цӀикӀкӀараб хӀинкъиялда хурхун буго. Халккурал цӀех-рехаз статинал хӀалтӀизари хӀинкъи дагьлъигун хурхинарула, амма херав заманалда гьарурал сина-гьавияз гьеб бихьизабичӀо. | Тохтурасда гьикъе холестерин хал гьабизе кколиш ва гьелъие щиб дару-гӀамал бугеб. |
+| Депрессия | ГӀумруялъул бакьулъ | 3% | Депрессия хурхун буго цӀикӀкӀараб хӀинкъиялда. Херав заманалда депрессия деменциялъул цебесеб ишараги букӀине бегьула. | КӀиго анкьидаса цӀикӀкӀун рокьи гьечӀолъи яги рокьукълъи халат бахъани, тохтурасда бице. Депрессия сах гьабизе бегьулеб унти буго. |
+| БетӀералъул ругъун | ГӀумруялъул бакьулъ | 3% | Щибаб ригьалда ва киса-бон ккараб бетӀералъул ругъун, гьездаго гьоркьоб спорталъул къеркьей, цӀикӀкӀараб хӀинкъиялда хурхун буго. | Велосипед рачилаго ва къеркьеялъул спорталда каска ретӀе. РечӀчӀиналдаса цӀунизе маслигьат гьикъе. БетӀералда ругъун ккани, рахӀат босе ва тохтурасда бихьизабе. |
+| Багъа-бачари камлъи | ГӀумруялъул бакьулъ | 2% | Черх багъа-бачизабулел ва спорт гьабулел гӀадамазда деменция ккезе рес дагьаб буго. Сина-гьавиязул хӀасилал жеги дагьал руго. | Нужее кинаб багъа-бачари хӀинкъи гьечӀеблъун кколеб ва кинаб бокьулеб абун гьикъе. Ралагье нижер [багъа-бачариялъул нухмалъиялде](/brain-health/exercise/). |
+| Диабет | ГӀумруялъул бакьулъ | 2% | Диабет, хасго гӀумруялъул бакьулъ байбихьараб яги халат бахъараб, цӀикӀкӀараб хӀинкъиялда хурхун буго. | Бидалъул шагьар хал гьабизе кье. Диабет батани, сахлъиялъул хӀалтӀухъабазулгун цадахъ хӀинкъи гьечӀого гьеб кверде босе. |
+| ТӀамах цӀай | ГӀумруялъул бакьулъ | 2% | ТӀамах цӀай цӀикӀкӀараб хӀинкъиялда хурхун буго. ЦӀех-рехаз бихьизабуна тӀамах цӀай тарал чагӀазухъ цӀалел гӀадамазухъ гӀадинаб цӀикӀкӀараб хӀинкъи хутӀулареблъи. | ТӀамах чӀезабизе кумек гьикъе. Щибаб ригьалда тӀамах цӀай тезе бегьула ва пайдаяб буго. |
+| Борхатаб давление | ГӀумруялъул бакьулъ | 2% | ГӀумруялъул бакьулъ борхатаб давление цӀикӀкӀараб хӀинкъиялда хурхун буго. Давлениялъул дарабазул сина-гьавияз бихьизабула деменциялъул яги пикру загӀиплъиялъул хӀинкъи дагьаб гӀодобе ккезе бегьулеблъи. | Нужерго давлениялъул рикӀкӀенал лъай. Комиссиялъ маслигьат гьабула 40 соналдаса хадуб тӀоцебесеб рикӀкӀен 130 яги гьелдаса гӀодобе букӀине; нужее кинаб даража данде кколеб гьикъе. |
+| ЦӀикӀкӀараб цӀай | ГӀумруялъул бакьулъ | 1% | ГӀумруялъул бакьулъ черхалъул цӀай цӀикӀкӀин хурхун буго кӀудияб хӀинкъиялда, гьелъ диабет баккиги цебе бачуна. | Тохтурасда нужее кинаб черхалъул бакӀлъи данде кколеб гьикъе. Херал гӀадамаз тохтурасул маслигьат гьечӀого квен дагь гьабизе бегьуларо. |
+| Гьекъолъи цӀикӀкӀин | ГӀумруялъул бакьулъ | 1% | Спиртлияб гьекъолъи цӀикӀкӀин цӀикӀкӀараб хӀинкъиялда хурхун буго. ГӀодове виччан гьекъолъи дагь гьабиялъ хӀинкъи гӀодобе ккезабизе бегьула. | Нужее хӀинкъи гьечӀеб гӀурхъи кинаб бугеб гьикъе, хасго дарабигун цадахъ. |
+| ЖамагӀаталдаса батӀалъи | Херав заман | 5% | ГӀадамалгун дагьал бухьанал рукӀин цӀикӀкӀараб хӀинкъиялда хурхун буго. | Нужее бокьулеб нухда гӀадамалгун гьоркьорлъи цӀуне. Ралагье нижер [гӀадамалгун бухьанал цӀуниялъул нухмалъиялде](/brain-health/social-connection/). |
+| Гьава чӀунти | Херав заман | 3% | ЧӀунтараб гьаваялда жаниб гӀумру гьаби цӀикӀкӀараб хӀинкъиялда хурхун буго. ЦӀех-рехаз бацӀцӀадаб гьава дагьараб хӀинкъиялда хурхинарула. | Гьаб ккола жамагӀаталъул ва пачалихъалъул иш. Гьаваялъул хӀал лъай ва чӀунтарал къоязда къватӀиб заман дагь гьабе. |
+| Дару гьабичӀеб берал загӀиплъи | Херав заман | 2% | Сах гьабичӀеб берзул унти цӀикӀкӀараб хӀинкъиялда хурхун буго. АЦШ-ялда гьабураб кӀудияб цӀех-рехалъ катарактаялъул операция хурхинабуна дагьараб хӀинкъиялда. | Берал мухӀканго хал гьарулел рукӀине ккола. Катаракта гӀадинал унтабазе дару гьабизе бегьулищ гьикъе. |
 
-## How should I read these percentages?
+## Гьал процентазда кин божизе кколеб?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+МухӀканго. Комиссиялъул жиндирго докладалда кӀвар кьезе кколел чанго пикру буго:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Гьел хурхун руго тӀолго халкъалда, хасав чиясда гуро.** Лондон университеталъул колледжалъул
+  [докладалъул къокъаб баяналда](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  бихьизабун буго, хӀинкъи дагь гьаби тӀолабго халкъалъе кумеклъун кколин, амма щивав чиясе деменция ккечӀого хутӀизе мухӀканлъи кьоларин.
+- **Гьезда жаниб гӀилла ва хӀасил букӀин гӀаммго рикӀкӀуна.** Автораз гьоркье рачун руго мухӀканал мухӀканлъаби ругел жал гурони, амма бицунеб буго цо-цо хурхенал бутӀадулал гурони гьечӀин.
+- **Гьел руго тӀолго дунялалъул рикӀкӀенал.** ГӀемерисел баянал босун руго бечедал пачалихъаздаса, щибаб улкаялъул яги жамагӀаталъул хӀакъикъияб бутӀа батӀияб букӀине бегьула.
+- **ГьитӀинал процентазулги кӀвар буго.** ТӀолго дунялалда 2% хӀужагун хурхараб факторалъ гӀемер гӀадамазе асар гьабула.
 
-## Which risk factors were added in 2024?
+## Кинал хӀинкъиялъул фактор жубан ругел 2024 соналъ?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 соналъул докладалъ 2020 соналъул 12 факторалда тӀаде кӀиго фактор жубана:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **ГӀумруялъул бакьулъ борхатаб LDL холестерин**, хурхун буго гӀага-шагарго 7% хӀужагун.
+- **Херав заманалда дару гьабичӀеб берал загӀиплъи**, хурхун буго гӀага-шагарго 2% хӀужагун.
 
-## What risk factors cannot be changed?
+## Кинал хӀинкъиялъул фактор хисизабизе кӀоларел?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Херал гӀадамазул сахлъиялъул миллияб институталъ (NIA) бицухъе,
+[ригь ккола Альцгеймерил бищун кӀудияб лъалеб хӀинкъиялъул фактор](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+гьеб щив чиясдаги хисизабизе кӀоларо. Геназги кӀвар бугеб бутӀа ккола; Альцгеймерил хӀинкъигун хурхараб цо машгьураб ген буго APOE. NIA-ялъ тӀаде жубалеб буго, гӀалимзабазда жеги тӀолабго бичӀчӀулеб гьечӀин гӀемерисел гӀадамазда Альцгеймер щай баккулеб. Lancet комиссиялъ бихьизабулеб буго, хисизабизе кӀолел хӀинкъиял дагь гьабизе бегьулин чиясул генетикияб хӀинкъи кинаб бугониги.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Ригь ва генал кӀудияб гӀиллалъун букӀиналъ, гьаб 14 фактор гьечӀел чанги гӀадамаздацин деменция рагӀалде баккула. Гьелда жаниб лъилниги гӀайиб гьечӀо.
 
-## What does the trial evidence say about changing these risks?
+## Сина-гьавиязул хӀасилаз щиб бицунеб гьал хӀинкъиял хисизариялъул?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+ХӀинкъиялъул фактор деменциягун хурхинаби ва гьеб хисизабиялъ деменциялъул хӀинкъи дагь гьабулин субутӀ гьаби цожо гуро. Сина-гьавиязул хӀасилал кин ругел чанго мисал:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Давление.** SPRINT MIND сина-гьавиялда бихьана, давлениялъул даража гӀодобе ккезабиялъ загьирго дагь гьабуна пикру загӀиплъи. Гьелъ мухӀканго дагь гьабичӀо деменция, амма гьеб бихьизабизе сина-гьави гьитӀинаб букӀинеги рес буго ([SPRINT MIND JAMA-ялда](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **ГӀинтӀамиялъул алатал.** Lancet комиссиялъ бицуна лъабго соналъ гьабураб гӀинтӀамиялъул алатазул сина-гьавиялъ тӀолабго пикруялде кӀудияб асар гьабичӀин, амма кӀудияб хӀинкъи бугел гӀадамазул къокъаялъе пайда кьунин. ГӀадамазухъ хадур халатаб заманалъ халккурал цӀех-рехаз бихьизабула гӀинтӀамиялъул алатал хӀалтӀизариялъ хӀинкъи дагь гьабизе бегьулеблъи. Нижер [гӀинтӀамиялъул нухмалъиялда](/brain-health/hearing/) цӀикӀкӀун баянал руго.
+- **Черх багъа-бачизаби.** Херал гӀадамазул сахлъиялъул миллияб институталъ бицухъе, багъа-бачариялъ пикру загӀиплъи яги Альцгеймер ккечӀого толин яги лъодозабулин абизе гӀураб клиникияб сина-гьавиязул хӀасилал гьечӀо, амма цо-цо цӀех-рехаз бихьизабула гьелъ ригьалда хурхараб загӀиплъиялде кумек гьабизе бегьулеблъи
+  ([NIA-ялъ Альцгеймер ккечӀого букӀиналъул бицунеб](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Деменция баккизегӀан халат бахъунел сина-гьавиял заманалъул рахъалъ халатал ва цӀакъ хираял руго, гьединлъидал чанги факторазе бищун лъикӀал баянал хадур халатаб заманалъ халккурал цӀех-рехаздасан щвезе руго. Гьеб баян пайдаяб буго, амма сина-гьавиялдаса загӀипаб буго.
 
-## What about sleep and diet?
+## Кьижи ва квен кин кколеб?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Комиссиялъ кьижи ва кванил низам хал гьабуна, амма гьел сияхӀалда тӀаде жубачӀо, щай гурелъул чӀахӀиял ва мухӀканал мухӀканлъаби гӀураб къадаралда рукӀинчӀо. Нижер [кьижулъиялъул](/brain-health/sleep/) ва [кванил низамалъул](/brain-health/diet/) нухмалъиязда лъалебщиналъул бицун буго.
 
-## Talk with a doctor
+## Тохтургун гара-чӀвари гьабизе
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Щибаб соналъ тохтурасда сахлъи хал гьабизе кьеялъул заман лъикӀаб буго гьал темаби дандразизе. Нужеца гьаб сияхӀ босун гьикъизе бегьула:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Дир давление, бидулъ шагьар ва холестерин кин бугеб, ва гьездаса цоялъе кӀвар кьезе кколищ?
+- Дир гӀундул ва берал хал гьабизе кколищ?
+- Дица гьабулеб багъа-бачари дие хӀинкъи гьечӀеб ва гӀураб бугищ?
+- Дица ритӀулел дарабаз ракӀалде щвеялде яги пикруялде квешаб асар гьабизе бегьулищ?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Дараби, квен, сордо-къоялъ квен тей, багъа-бачари яги витаминал хисизарилелде цебе, тохтурасулгун гара-чӀвари гьабе. Нужеда яги нужеца кӀвар кьолев чиясда цевеккун лъачӀого пикру мекъи ккани, черхалъул цо рахъ загӀиплъани яги кӀалъазе захӀматлъани, ахӀе 112 номерде.

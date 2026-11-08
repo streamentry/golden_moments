@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Li a vwa wo",
+      "stopReading": "Sispann li",
+      "region": "Jwèt",
+      "restart": "Kòmanse ankò",
+      "soundOn": "Ti son limen",
+      "soundOff": "Ti son etenn",
+      "done": "Fini pou kounye a",
+      "feedbackQuestion": "Èske sa te itil jodi a?",
+      "feedbackYes": "Wi",
+      "feedbackNo": "Pa twòp",
+      "feedbackThanks": "Mèsi dèske ou fè nou konnen."
+    },
+    "tile": {
+      "named": "{name}, kat {n}",
+      "hidden": "Imaj kache, kat {n}",
+      "withState": "{label}, {state}",
+      "matched": "Pè jwenn",
+      "selected": "Chwazi",
+      "picture": "Imaj",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Tout pè yo ansanm. Jwe ankò oswa pran yon ti repo.",
+      "photoPair": "Yon pè foto, yo ansanm.",
+      "picturePair": "De imaj {name|lower}, yo ansanm.",
+      "selected": "{name}. Kounye a jwenn pè li.",
+      "mismatch": "Pran tout tan ou. Touche yon imaj pou kontinye.",
+      "mismatchNamed": "{a} ak {b}. Pran tout tan ou. Touche yon imaj pou kontinye."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Touche yon imaj, apre sa touche sa ki menm jan avè l la.",
+      "guidanceHidden": "Touche de kat pou vire yo. Chèche de ki menm jan.",
+      "restart": "Nouvo imaj",
+      "sizeLegend": "Konbyen kat",
+      "size": {
+        "one": "{n} kat",
+        "other": "{n} kat"
+      },
+      "viewLegend": "Kijan pou jwe",
+      "viewShowing": "Imaj yo parèt",
+      "viewHidden": "Imaj kache",
+      "playAgain": "Jwe ankò ak nouvo imaj",
+      "talk": "Pale sou imaj yo ansanm"
+    },
+    "choose": {
+      "countLegend": "Konbyen imaj",
+      "count": "{n} pou chwazi ladan yo",
+      "thatOne": "Sa a se {name|lower}. Pran tout tan ou."
+    },
+    "findTheSame": {
+      "guidance": "Gade imaj ki anwo a. Touche menm imaj la anba a.",
+      "yes": "Wi, menm {name|lower} a.",
+      "next": "Imaj swivan"
+    },
+    "shadowMatch": {
+      "guidance": "Gade lonbray ki anwo a. Touche imaj ki fè l la.",
+      "yes": "Wi, se {name|lower} a ki fè lonbray sa a.",
+      "next": "Lonbray swivan",
+      "shadowAlt": "Yon lonbray pou jwenn pè li",
+      "foundAlt": "Lonbray {name|lower} a"
+    },
+    "sortTogether": {
+      "guidance": "Touche yon imaj, apre sa touche panyen kote li prale a.",
+      "restart": "Nouvo imaj",
+      "themeLegend": "Tèm",
+      "selected": "{name}. Kounye a touche panyen kote li prale a.",
+      "pickFirst": "Touche yon imaj dabò, apre sa touche yon panyen.",
+      "hint": "{name|lower} a ka ale nan \"{basket}\". Touche panyen sa a pou mete l ladan l.",
+      "placed": "{name|lower} a nan \"{basket}\".",
+      "sorted": "Tout bagay klase. Gade sa ki nan panyen yo ansanm, oswa eseye yon lòt tèm.",
+      "basket": {
+        "one": "Panyen {basket}, {count} imaj ladan l",
+        "other": "Panyen {basket}, {count} imaj ladan l"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Touche yon moso, apre sa touche yon lòt. Y ap chanje plas.",
+      "restart": "Melanje ankò",
+      "pictureLegend": "Imaj",
+      "pictures": {
+        "sailboat": "Bato a vwal",
+        "house": "Kay",
+        "balloon": "Balon",
+        "sunflower": "Flè solèy",
+        "lighthouse": "Far",
+        "cat": "Chat"
+      },
+      "sizeLegend": "Moso",
+      "size": {
+        "one": "{n} moso",
+        "other": "{n} moso"
+      },
+      "pickedUp": "Moso a chwazi. Kounye a touche kote li dwe ale a.",
+      "whole": "{name|lower} a refè nèt. Chwazi yon lòt imaj nenpòt lè ou vle.",
+      "swapped": {
+        "one": "Chanje. {correct} sou {total} moso nan bon plas li.",
+        "other": "Chanje. {correct} sou {total} moso nan bon plas yo."
+      },
+      "guideAlt": "Imaj la konplè: {name}",
+      "guideText": "Men kijan imaj la ye lè li fin refè nèt.",
+      "piece": "Moso nan {place}",
+      "pieceInPlace": ", nan bon plas li",
+      "piecePickedUp": ", chwazi",
+      "places4": [
+        "anwo agoch",
+        "anwo adwat",
+        "anba agoch",
+        "anba adwat"
+      ],
+      "places9": [
+        "anwo agoch",
+        "anwo nan mitan",
+        "anwo adwat",
+        "nan mitan agoch",
+        "nan mitan nèt",
+        "nan mitan adwat",
+        "anba agoch",
+        "anba nan mitan",
+        "anba adwat"
+      ],
+      "done": "Imaj la refè nèt. Jwe ankò oswa pran yon ti repo.",
+      "playAgain": "Melanje l ankò"
+    },
+    "finishTheSaying": {
+      "guidance": "Li pawòl la ansanm, apre sa touche mo ki fini l la.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Wi, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" bon tou. Pawòl abityèl la fini ak \"{end}\".",
+      "revealed": "Pawòl la se \"{start} {end}.\"",
+      "choicesLabel": "Chwazi dènye mo a",
+      "show": "Montre kijan li fini",
+      "talk": "Pale sou sa: ",
+      "next": "Pawòl swivan"
+    },
+    "wordSearch": {
+      "guidance": "Mo yo ale orizontal oswa vètikal. Touche premye lèt yon mo, apre sa dènye lèt li.",
+      "restart": "Nouvo jwèt",
+      "themeLegend": "Tèm",
+      "sizeLegend": "Gwosè griy la",
+      "size": {
+        "one": "{n} pa {n} ({words} mo)",
+        "other": "{n} pa {n} ({words} mo)"
+      },
+      "print": "Enprime jwèt sa a",
+      "letterChosen": "Lèt {letter} chwazi. Kounye a touche dènye lèt mo a.",
+      "found": "{word} jwenn.",
+      "foundAll": "{word} jwenn. Tout mo yo fin jwenn. Jwe ankò oswa pran yon ti repo.",
+      "tryAgain": "Pran tout tan ou. Touche premye lèt yon mo, apre sa dènye lèt li.",
+      "gridLabel": "Griy lèt, {n} liy sou {n} lèt. Sèvi ak flèch yo pou deplase ant lèt yo.",
+      "cell": "{letter}, liy {row}, kolòn {col}",
+      "cellFound": ", fè pati yon mo yo jwenn",
+      "wordsHeading": "Mo pou jwenn",
+      "wordFound": " (jwenn)",
+      "sheetTitle": "Chèche mo: {theme}",
+      "sheetNote": "Mo yo ale orizontal oswa vètikal.",
+      "unavailable": "Yon griy lèt pa twò adapte pou lang sa a, donk nou pa ofri jwèt chèche mo a la a. Eseye jwèt imaj yo pito."
+    },
+    "coloring": {
+      "guidance": "Touche yon koulè, apre sa touche yon pati nan imaj la.",
+      "restart": "Efase koulè yo",
+      "cleared": "Paj la vid ankò.",
+      "pageLegend": "Paj",
+      "print": "Enprime paj sa a",
+      "colorsLabel": "Koulè",
+      "paintChosen": "{paint} chwazi.",
+      "painted": "{part} vin {paint|lower} kounye a.",
+      "artLabel": "{page}, {count} pati pou kolorye",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, san koulè",
+      "paints": {
+        "red": "Wouj",
+        "orange": "Zoranj",
+        "yellow": "Jòn",
+        "green": "Vèt",
+        "blue": "Ble",
+        "purple": "Mòv",
+        "pink": "Woz",
+        "brown": "Mawon",
+        "sky-blue": "Ble syèl",
+        "cream": "Krèm",
+        "gray": "Gri",
+        "white": "Blan"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Li kat la a vwa wo. Pa gen move repons.",
+      "position": "Kat {n} sou {total}",
+      "themeLegend": "Tèm",
+      "next": "Kat swivan",
+      "previous": "Kat anvan",
+      "print": "Enprime tout kat yo",
+      "sheetTitle": "Kat konvèsasyon"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Kòmanse pa chwazi foto ou yo.",
+      "guidance": "Touche yon foto, apre sa touche sa ki menm jan avè l la.",
+      "restart": "Melanje yo ankò",
+      "intro": "**Chwazi ant 2 ak 6 foto** nan aparèy sa a. Yo parèt sèlman sou paj sa a epi yo pa janm monte sou entènèt ni anrejistre.",
+      "choose": "Chwazi foto",
+      "chooseDifferent": "Chwazi lòt foto",
+      "clear": "Retire foto yo",
+      "cleared": "Foto yo retire sou paj sa a.",
+      "atLeastTwo": "Tanpri chwazi omwen de foto.",
+      "usingFirst": "N ap sèvi ak premye {max} foto yo.",
+      "skipped": {
+        "one": "{count} fichye pa t yon foto nou ka montre.",
+        "other": "{count} fichye pa t yon foto nou ka montre."
+      },
+      "playAgain": "Jwe ankò ak foto sa yo",
+      "empty": "Foto ou yo ap parèt la a, chak foto de fwa."
+    },
+    "pictureBingo": {
+      "guidance": "Enprime kat yo anvan. Apre sa, montre ekran sa a sou pi gwo ekran ou genyen an.",
+      "called": {
+        "one": "{name}. {called} sou {total} imaj deja anonse.",
+        "other": "{name}. {called} sou {total} imaj deja anonse."
+      },
+      "start": "Touche \"Imaj swivan\" pou anonse premye imaj la.",
+      "restart": "Kòmanse yon nouvo jwèt",
+      "squaresLegend": "Kaz sou chak kat",
+      "squares": "{n} kaz ({side} pa {side})",
+      "cardsLegend": "Konbyen kat pou enprime",
+      "cards": {
+        "one": "{n} kat",
+        "other": "{n} kat"
+      },
+      "print": {
+        "one": "Enprime {n} kat bingo",
+        "other": "Enprime {n} kat bingo"
+      },
+      "ready": "Pare lè ou pare",
+      "next": "Imaj swivan",
+      "allCalled": "Tout imaj yo fin anonse",
+      "alreadyCalled": "Deja anonse",
+      "sheetTitle": "Bingo imaj · kat {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Pran souf pandan sèk la ap vin pi gwo, epi soufle pandan l ap vin pi piti. L ap kanpe poukont li apre sis souf.",
+      "paceLegend": "Ritm",
+      "paceSlow": "Dousman (5 segonn pou chak)",
+      "paceGentle": "Poze (4 segonn pou chak)",
+      "ready": "Pare lè w pare",
+      "in": "Pran souf",
+      "hold": "Poze",
+      "out": "Soufle",
+      "start": "Kòmanse",
+      "stop": "Kanpe",
+      "started": "Li kòmanse. Pran souf pandan sèk la ap vin pi gwo.",
+      "stopped": "Li kanpe.",
+      "finished": "Ou fè sis souf byen poze. Rekòmanse nenpòt lè w vle."
+    }
+  },
+  "pictures": {
+    "teacup": "Tas te",
+    "kettle": "Bouywa",
+    "bread": "Pen",
+    "frying-pan": "Pwelon ak ze",
+    "cake": "Gato anivèsè",
+    "sunflower": "Flè solèy",
+    "tulip": "Tilip wouj",
+    "watering-can": "Awozwa",
+    "potted-plant": "Plant nan po",
+    "tree": "Pyebwa",
+    "bird": "Zwazo sou branch",
+    "butterfly": "Papiyon",
+    "dog": "Chyen",
+    "cat": "Chat",
+    "fish": "Pwason wouj",
+    "apple": "Pòm wouj",
+    "pear": "Pwa",
+    "strawberry": "Frèz",
+    "banana": "Fig mi",
+    "lemon": "Sitwon",
+    "cherries": "Seriz",
+    "house": "Kay",
+    "lamp": "Lanp tab",
+    "armchair": "Fotèy",
+    "key": "Kle ansyen",
+    "umbrella": "Parapli",
+    "sailboat": "Bato a vwal",
+    "car": "Machin ansyen",
+    "bicycle": "Bisiklèt",
+    "balloon": "Balon lè cho",
+    "lighthouse": "Fa",
+    "sun": "Solèy",
+    "moon": "Lalin ak zetwal",
+    "teapot": "Teyè",
+    "apple-pie": "Tat pòm",
+    "honey-jar": "Bokal siwo myèl",
+    "boiled-egg": "Ze bouyi nan gode",
+    "toaster": "Griye pen",
+    "cheese": "Moso fwomaj",
+    "milk-jug": "Krich lèt",
+    "cupcake": "Ti gato",
+    "orange": "Zoranj",
+    "grapes": "Grapp rezen",
+    "watermelon": "Moso melon dlo",
+    "pineapple": "Zananna",
+    "peach": "Pèch",
+    "rose": "Woz",
+    "daisies": "Margerit",
+    "mushroom": "Champiyon",
+    "wheelbarrow": "Bwouyèt",
+    "birdhouse": "Ti kay zwazo",
+    "cactus": "Kaktis nan po",
+    "acorn": "Glan",
+    "autumn-leaf": "Fèy otòn",
+    "rabbit": "Lapen",
+    "duck": "Kanna",
+    "hen": "Poul",
+    "sheep": "Mouton",
+    "owl": "Chwèt",
+    "ladybird": "Bèt bondye",
+    "snail": "Eskago",
+    "frog": "Krapo",
+    "bee": "Abèy",
+    "clock": "Pandil",
+    "vase-of-flowers": "Vaz flè",
+    "radio": "Radyo ansyen",
+    "books": "Pil liv",
+    "candle": "Bouji",
+    "glasses": "Linèt pou li",
+    "telephone": "Telefòn",
+    "ball-of-wool": "Boul lenn",
+    "straw-hat": "Chapo pay",
+    "train": "Tren a vapè",
+    "bus": "Bis",
+    "airplane": "Avyon",
+    "suitcase": "Valiz",
+    "tractor": "Traktè",
+    "rowing-boat": "Bato a ram",
+    "rainbow": "Lakansyèl",
+    "rain-cloud": "Niyaj lapli",
+    "snowflake": "Flokon nèj",
+    "kite": "Sèvolan",
+    "sunrise": "Solèy leve sou mòn yo"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEFGIKLMNOPRSTVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fwi",
+          "words": [
+            "MANGO",
+            "PAPAY",
+            "REZEN",
+            "MELON",
+            "ZORANJ",
+            "SITWON",
+            "ANANA",
+            "PWA",
+            "FIG"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Jaden",
+          "words": [
+            "FLE",
+            "WOZ",
+            "FEY",
+            "GRENN",
+            "ZEB",
+            "RASIN",
+            "JADEN",
+            "TILIP",
+            "ABEY"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kizin",
+          "words": [
+            "TAS",
+            "KOUYE",
+            "KOUTO",
+            "PEN",
+            "BOL",
+            "ASYET",
+            "FOU",
+            "PWELON",
+            "CHODYE"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Klima",
+          "words": [
+            "SOLEY",
+            "LAPLI",
+            "NEJ",
+            "VAN",
+            "NIYAJ",
+            "TANPET",
+            "BROYA",
+            "ZEKLE",
+            "TONE"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Zannimo",
+          "words": [
+            "CHYEN",
+            "CHAT",
+            "ZWAZO",
+            "PWASON",
+            "CHIVAL",
+            "VACH",
+            "KANNA",
+            "KABRIT",
+            "POUL"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Lakay",
+          "words": [
+            "POT",
+            "CHEZ",
+            "LANP",
+            "KABANN",
+            "TAPI",
+            "SOFA",
+            "KLE",
+            "TAB",
+            "RIDO"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Tout kat yo",
+        "food": "Manje",
+        "home": "Lakay",
+        "outdoors": "Deyò",
+        "animals": "Zannimo",
+        "travel": "Vwayaj",
+        "work": "Travay ak pasyon",
+        "music": "Mizik ak amizman",
+        "seasons": "Sezon yo"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Ki bon sant nan kizin ou pi renmen?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Ki kalite gato ou ta chwazi pou yon fèt?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Rakonte m sou yon tat fwi oswa yon bon desè ou renmen."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Kijan ou renmen bwè te oswa kafe w?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Pou ou menm, kisa ki fè yon bon ti dejene?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Èske w te janm keyi fwi dirèkteman sou pyebwa a?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Dous osinon asid: kilès ou pi renmen?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Ki manje ki fè w sonje sezon ete a?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Rakonte m sou yon kay ou te renmen rete ladan l."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ki kote ou pi renmen chita pou w repoze kò w?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Kisa ou renmen fè nan yon aswè ki trankil?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Ki ti trezò presye ou ta renmen sere nan yon bwat espesyal?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ki moun ou ta renmen envite vin bwè yon tas te avèk ou?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Kisa ou renmen fè lè lapli ap tonbe?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Ki flè ou ta renmen plante nan yon jaden?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Rakonte m sou yon pyebwa oswa yon bèl pak ou renmen."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Kisa ou pi renmen lè w nan yon jaden?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Ki koulè flè ou pi renmen?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Èske w renmen gen bèl plant anndan kay la?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Pou ou menm, kijan yon bèl jounen solèy ye?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Rakonte m sou yon chyen ou te konnen."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Chat osinon chyen, oswa okenn nan yo? Kisa ou renmen lakay yo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Ki zwazo ou konn wè oswa tande chante deyò a?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Èske w te janm al lapèch, oswa gen yon akwaryòm pwason?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Ki bèt ou wè ki te pi bèl pou ou?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Rakonte m sou yon machin ou te renmen."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Èske w ta pito pase yon jounen bò lanmè oswa anlè nan mòn?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Ki kote ou ta renmen al fè yon ti pwomnad?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Si w te ka vole sou tèt nenpòt kote, ki kote ou ta chwazi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Ki vwayaj ou te fè ki te fè w anpil plezi?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Ki kalite travay ou te renmen fè?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Ki aktivite ou te ka pase plizyè èdtan ap fè san w pa wè tan pase?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Pou kisa moun te konnen w, yon bagay ou te konn fè oswa repare byen?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Ki konsèy ou ta bay yon jèn moun k ap kòmanse travay?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Ki kalite mizik ki fè w anvi bat pye oswa danse?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Kisa ki fè yon fèt vrèman bèl e anime?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ki chantè oswa chantèz ou renmen koute?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Ki fim oswa emisyon televizyon ou ta toujou renmen gade ankò?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Kisa w pi renmen nan sezon ete a?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Kisa w renmen nan sezon otòn la?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Ki ti plezi trankil ou renmen fè nan yon aswè livè?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Pou ou menm, kisa ki anonse sezon prentan an ap rive?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Nèj, lapli osinon solèy: kilès ou pi pito?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flè nan po",
+          "regions": {
+            "sky": "Fond",
+            "table": "Tab",
+            "stem": "Tij",
+            "leaf-left": "Fèy agoch",
+            "leaf-right": "Fèy adwat",
+            "petal-1": "Petal 1",
+            "petal-2": "Petal 2",
+            "petal-3": "Petal 3",
+            "petal-4": "Petal 4",
+            "petal-5": "Petal 5",
+            "petal-6": "Petal 6",
+            "petal-7": "Petal 7",
+            "petal-8": "Petal 8",
+            "center": "Kè flè a",
+            "pot": "Po",
+            "pot-rim": "Bò po a"
+          }
+        },
+        "house": {
+          "name": "Kay",
+          "regions": {
+            "sky": "Syèl",
+            "sun": "Solèy",
+            "grass": "Zèb",
+            "chimney": "Chemine",
+            "walls": "Miray",
+            "roof": "To kay",
+            "door": "Pòt",
+            "window-left": "Fenèt agoch",
+            "window-right": "Fenèt adwat",
+            "path": "Ti chemen"
+          }
+        },
+        "teacup": {
+          "name": "Tas te",
+          "regions": {
+            "background": "Fond",
+            "saucer": "Soukoup",
+            "handle": "Manch",
+            "cup": "Tas",
+            "band": "Liy sou tas la",
+            "tea": "Te"
+          }
+        },
+        "butterfly": {
+          "name": "Papiyon",
+          "regions": {
+            "background": "Fond",
+            "wing-top-left": "Zèl anwo agoch",
+            "wing-top-right": "Zèl anwo adwat",
+            "wing-bottom-left": "Zèl anba agoch",
+            "wing-bottom-right": "Zèl anba adwat",
+            "spot-left": "Tach zèl agoch",
+            "spot-right": "Tach zèl adwat",
+            "body": "Kò"
+          }
+        },
+        "sailboat": {
+          "name": "Bato a vwal",
+          "regions": {
+            "sky": "Syèl",
+            "sea": "Lanmè",
+            "sail-big": "Gwo vwal",
+            "sail-small": "Ti vwal",
+            "mast": "Ma",
+            "hull": "Bato",
+            "flag": "Drapo"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kizin ak jaden",
+          "baskets": [
+            "Nan kwizin nan",
+            "Nan jaden an"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fwi ak zannimo",
+          "baskets": [
+            "Fwi",
+            "Zannimo"
+          ]
+        },
+        "home-travel": {
+          "label": "Lakay ak vwayaj",
+          "baskets": [
+            "Lakay",
+            "Deyò"
+          ]
+        }
+      }
+    }
+  }
+}

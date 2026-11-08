@@ -1,32 +1,32 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Š́iiaoϑna nərəbyō yaēibiiō manō urvaēti"
+seoTitle: "Š́iiaoϑna nərəbyō yaēibiiō manō urvaēti: Vərəzyā handātā"
+description: "Š́iiaoϑna handātā nərəbyō yaēibiiō manō urvaēti, parō-kairya, urvaiti aipi dāityō aŋhu-carana paiti, dāityō aipi haura-vərəzya."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Vahišta š́iiaoϑna nare yaēhmāi manō urvaēti haca ahe aŋhuš paiti jasaiti:
+  vərəzya yąm kərənaot̰, urvaitiš yāš zaošata, aipi ayārahmya dāta yā dārayat̰.
+  Parō-framānō fra-spāiti nipištanam zaošō aŋhat̰, vərəzyastāča zāyō vaēdičō,
+  aipi fra-vazaŋhō parō-spārahe. Kāra nare-nare anha, ahyā arədra haca narō
+  haca zaošō aipi nōit̰ jə̄ni-narō paiti.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Haca ahe nars paiti aŋhu-carana paiti jimat̰: ahyā vərəzya, ahyā urvaitiš, ayārahmi dāta aipi čiš ahyā stūtō aŋhat̰."
+  - "Kairya yō haϑra arəϑa dārayeiti, yaϑa zāyō fraspāiti, vāša yaoždaiti ayā aēsam vərəzyaiti, vahištō aŋhat̰ yaska pairi kərənaoiti yaϑa frasna."
+  - "Nōit̰ vīspe narō zāyō ayā fra-vazam zaošayen. Paorve xᵛarəϑa-kərəti, hūsrūti, vərəzya-dāti, pištra ayā tanu-drājō paiti yasnəm hazaite. Pərəsaye, aiβi-cašāne aipi ahyā paϑa kərənu."
+  - "Kairyā haura kərənu: tiγra zāyō apanaya, dāraye haϑra, aipi a-pərənāyu kərənu yaδa aozō urvaēiti."
+  - "Nōit̰ mraotana dātəm asti. Dāiti ahyā arəϑa aipi nōit̰ framāna, aipi anya ayārə pati-pərəsaye."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Či š́iiaoϑna narō yaēibiiō manō urvaēti zaošayen?"
+    a: "Nōit̰ aēva fradaϑā asti, yaza nərəbyō zaošō vīkərəstō asti yaϑa vīspabyō. Hu-jasō kairya asti yō ahyā parō-vərəzya haca patiš, yaϑa lipiš fraspāiti ayā zāyō vīšāiti, haϑra urvaitibiiō yaϑa masya-nyāsa, vāša, hūsrūti, xᵛarəϑa-kərəti ayā fra-vaza. Aiβi-cašāne či hō ātmano kərənaoiti aipi ahmāi fradaϑāiti."
+  - q: "Pitarə mē handātā-kairya nōit̰ vasiti. Či čaranā?"
+    a: "Paorve mashyāka, narō nāirikā-ca, paiti-mruye š́iiaoϑna yā yaϑa srada ayā dahma kərənaoiti. Paiti-pərəse arəϑa paiti: 'Kā mąm aβi vī-spāiti aēibyō aivitištiš?' Kasu handāmana ayā aēvō-aēva zru anha vahišta yaϑa mązō hanjamana."
+  - q: "Draomō asti yaϑa hō zāyō vərəzyaiti?"
+    a: "Aēva haϑra aiβi-cašāne aipi druta zāyō. Apanaye aozō-zāyō, tiγra tiγra-tištiš-ca, aipi dāite š́iiaoϑna yaϑa dāuru vərəzyaiti, zāyō vī-spayeiti, ayā parō-vīkərəsta zāyō zastabyō bərəza kərənaoiti. Alzheimer's Association mraoiti yaϑa apanaye spənta-tōš vərəzya-dāna haca ahyā dāuru vərəzyaiti haura druta aŋhat̰."
+  - q: "Hō arədra vərəzyatā aŋhat̰. Karkasō ahyā nīzda kairya aŋhat̰?"
+    a: "Bavaiti yezi kairya yaϑa paitišti kərənaoiti. Kairya fra-daϑa yaϑa arəϑa, dahma-zāyō dāraye, aipi nīzda ahyā parō-vərəzya kərənu, yaϑa lipiš aiβi-cašaiti, aivitišti dārayaiti ayā lipi-fraŋhāna vərəzyaiti. Yezi hō bərəza vərəzyatā aŋhat̰, paitišta anya kairya nōit̰ ahmāi karkasa fravasoiti."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +45,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Mashyāka paorva-vāra išeinti "š́iiaoϑna nərəbyō yaēibiiō manō urvaēiti" yaza aivitišta š́iiaoϑna aēibyō nərəbyō nōit̰ patica-jasanti. Aēta arədra pairi-manaiti asti. Bā nōit̰ paiti-mraoiti fra-daϑā "nars" š́iiaoϑnanąm. Jimat̰ aēta nars paiti aŋhu-carana: či hō vərəzyat̰ aŋhahe, či hō kərənaot̰ ayārahmya hanjamane, aipi či hō ahmāi frādat̰ arəϑa. Zaošō vī-kərəstō asti vīspabyō. Paorve narō zaošayen xᵛarəϑa-kərəti, varadana, pištra ayā srūti, aipi paorve nāirikā vāša aipi fra-vaza zaošayen.
 
-## How do I find activities he will actually enjoy?
+## Čiϑa vīndāmi š́iiaoϑna yā hō zaošō aŋhat̰?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Haca ahyā aŋhu-carana paiti jimat̰. Alzheimer's Association paiti-mraoiti kərənu [ayārə raϑa](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ahyā zaoša, a-zaoša, aoza aipi zaošō paiti, aipi yaϑa hō parō ayārə dārayat̰. Pərəsaye ātmanəm:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Či ahyā vərəzya aŋhat̰?** Dīvāna, varəša, kairya-dāna, hu-pištra, spāda, fra-vaēda, saošyantō, vāšō-vaza, ayā nmana?
+- **Či hō kərənaot̰ ahyā zru-dāta?** Masya-nyāsa, dyūta, dāuru-vərəzya, fra-vaza, ātra-vaxša, hūsrūti, xᵛarəϑa-kərəti, ayā vāša gātuhe?
+- **Či ahyā ayārahmi dāta aŋhat̰?** Xᵛarəϑa hūiti lipi-ca hū-bāmi? Vāta-tāiti pərəsyeiti? Vāša yaoždaiti ayārō-paiti?
+- **Či hō daidi ātmanō fra-kərənaoiti?** Association paiti-cašaiti yezi mashyāka kairya kərənaoiti nōit̰ paiti-pərəstō, yaϑa zəm-višāiti, aēta kairya ayārə dāta bavaiti.
+- **Či hō apanayeiti?** Anyē zaošayen fra-vaza aiβi-cašāne; anyē gərəza aipi garəma zru paiti a-zaoša aŋhat̰. Aiβi-caše yaδa hō hū-manō, a-drutō ayā taro-manō bavaiti.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Guxše haϑra nmāna-paiti aipi parō-urvaϑa. Hōi manayen zaošō yā haca ayārə aŋhu vi-yasa.
 
-## Activity ideas based on past work
+## Vərəzya handātā parō-kairyāt̰
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association vaēda frasna dāiti: parō-dīvāna vərəzyatā fraspāiti lipīnam zaošaiti, yaϑa gaoz-dāna fra-dāti, aivitišti lipi ayā kairya-nipišti kərənaoiti, yaδa parō-vərəzō varadana vərəzyaiti. Aēva manahi paorve vərəzyanąm paiti-jasaiti.
 
-| Past work | Activity ideas | Simpler version |
+| Parō-kairya | Š́iiaoϑna handātā | Fra-frapaiti vā |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Dīvāna ayā kairya | Fraspāiti lipīnam dānaye, muhra bərəti, nipišti aiβi-cašaiti, dīvāna gātu vi-dārayaiti | Envelopes ham-dāraye; gaoz-banda dānaye |
+| Pištra ayā hu-vərəzya | Yaožda zāyō, bandō aipi čaxra fraspāiti; zastabyō bandō dārayaiti; zāyō-lipi aiβi-cašaiti | Duua dānaye paiti kasu bərəza vī-spayeiti |
+| Vərəzya-dāti ayā varəša | Āpō-dāiti, varədāna-dāna, vərəša-stara vīšāiti, vərəzya aiβi-cašaiti | Nīdāite spāra yaδa tū kərənaoši; zīza-dāna dārayaiti |
+| Spāda | Aotra spayeiti, dāna dārayaiti, spāda-pata aiβi-cašaiti yezi ahyā zaošō asti | Ahe zruye hūsrūti aipi-guxšaiti |
+| Fra-vaēda ayā pərəsna | Azdā-dāna paiti-jasaiti, xᵛarəϑa dāiti, lipi dārayaiti | Paiti dvarəm nīdāite paiti-mraočiti |
+| Saošyantō | Fra-paϑaiti, lipi fraspāiti, patō fra-spāiti mąϑra paiti | Ham-paiti pata-lipi aiβi-cašaiti |
+| Vāšō-vaza | Zəm-pata aiβi-cašaiti, vāša yaoždaiti | Vāšō-vāza aiβi-cašaiti haca dvarāt̰ |
+| Nmāna aipi frazanti | Vastra hąm-karana, xᵛarəϑa-gātu dāiti, xᵛarəϑa-kərəti haϑra | Vastra yaoždaiti; xᵛarəϑa urvaēsaiti |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Anye zrvāne, yaϑa spāda kairya, garəma manah jasaiti. Ahyā paϑa kərənu, dāraye parō-zru š́āiti paiti, aipi a-garəma anya paiti vāčim urvaēsa yezi hō taro-manō bavaiti.
 
-## Activity ideas based on hobbies
+## Vərəzya handātā urvaitibiiō
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Dāuru-vərəzya.** Hu-vərəzyaiti dāuru yaδa aipi aōštra-nmāna raojišaiti. Alzheimer's Association paiti-mraoiti apanaye tiγra aipi spənta-tōš zāyō vərəzya-dāna haca yaϑa aēta kairya druta aipi zaoša aŋhat̰.
+2. **Masya-nyāsa.** Masya-zāyō dānaye yaδa tiγra-tištiš apanaya, masya-lipi aiβi-cašaiti, ayā haϑra āpa-stīte nīdāite.
+3. **Vāša.** Vāša yaoždaiti, ayaŋha spayeiti, parō-vāša patō aiβi-cašaiti, ayā haϑra vāša-vāza kərənaoiti yaϑa paiti-vaza.
+4. **Fra-vaza.** Parō-spāra ayā hū-bərəti aiβi-cašaiti, spanta spāram spayeiti, golf spāram frā-zayeiti, ayā pata baseball fraspāiti.
+5. **Dyūta aipi urvaitiš.** Kasu dāiti haca dyūta, dominoes, ayā dyūta paiti-pata vīndāite. Dāraye ramye aipi drop aozō.
+6. **Hūsrūti.** Gāϑā ahyā parō-yōna aŋhuš, zaoša-srūti, ayā yasnəm. Aiβi-caše ahmāku [hūsrūti š́iiaoϑna upamāna](/activities/music/).
+7. **Xᵛarəϑa-kərəti.** Yāska yaoždaiti, xᵛarəϑa-āpa urvaēsa, go-pišti dārayaiti, ayā paϑaiti čiϑa hō chili kərənaot̰ yaδa tū kərənaoši.
+8. **Ayāra-lipi.** Alzheimer's Association paiti-cašaiti yaϑa mashyāka yō ayāra-lipi paϑat̰ daidi zaošō dārayaiti, yezi hō vīspa arəϑa nōit̰ aipi-gəurvaiti. Xᵛarəϑa-āpa aipi lipi ayārahmi zru dārayaiti.
+9. **Kairya-dāna.** Bərəza-handāmana kairya ayā kasu raϑa dahma-kərəta. Dāraye handāmana yā hu-zasta asti.
+10. **Tanu-drājō paiti yasnəm.** Pasu xᵛarəϑa dāiti, mərəγa-dāna pərənāiti, ayā urvara āpō-dāiti. NIA paiti-mraoiti [pasu xᵛarəϑa dāiti, yaoždaiti aiβi-caraiti vā](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) š́iiaoϑna yā mashyāka zaošayen.
 
-## How do I offer an activity without it feeling like busywork?
+## Čiϑa dāmi vərəzya yaϑa nōit̰ yaona-bərəti aŋhat̰?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Fra-daϑa yaϑa arədra upama. Alzheimer's Association paiti-mraoiti pərəsaye "Kā mąm aβi vī-spāiti?" aipi kairya arəϑa paiti dāiti. Ham-daide:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- "Vasaye aēte bandō vī-spaye?" (yaϑa frasna)
+- "Azəm parō-vīkərəsta zāyō han-jāmi aipi vī-spāiti išeiti parō yaδa skərənōiti vərəzyāmi. Kā mąm zasta dāiti?" (yaϑa kairya)
 
-Other tips:
+Anya upamāna:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Dahma-zāyō dāraye.** Haϑra zāyō yaδa tiγra apanaya, dahma lipi, dahma dāna.
+- **Zasta paiti zasta vərəzye.** Duua mashyāka kairye asti urvaϑa. Aēva yō anya aiβi-cašaiti asti frasna.
+- **Nōit̰ taro-mraoiti.** Yezi bandō anya dāna jasaiti, dāraye. Či arədra asti zru haϑra aipi manah yaϑa arədra asti.
+- **Ahmāi fra-jasaiti.** Alzheimer's Association paiti-cašaiti paorve mashyāka vāsa dārayenti bā kairya ham-dāraye aipi fra-jasaiti a-dātəm asti. Paorva aēva haϑra kərənu.
 
-## How do I adapt as things change?
+## Čiϑa vərəzyāmi yaδa vī-urvaēti?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Yaδa yaska vī-urvaēiti, Alzheimer's Association paiti-mraoiti frapaiti aipi kasu kairya fra-daϑa, aipi aŋhat̰ yaδa mashyāka kasu kairya kərənaoiti. Narō yō parō čaxra vərəzyat̰ daidi hu-zasta spāiti dārayaiti aipi vāša vāčim dāiti, ayā aiβi-cašaiti yaδa tū vərəzyeši. Aiβi-cašāne asti kairya.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Yezi hō bərəza hu-vərəzyatā aŋhat̰, nīzda kairya vahišta aŋhat̰ yaϑa parō-pištra. Association paiti-cašaiti yaϑa bərəza pištra-kara taro-manō aŋhat̰ yaδa vərəzya urvaēiti, yaδa kasu pištrō nava spāra zaošaiti. Aēva asti hū-dāuru kairya-paiti.
 
-## Safety with work-style tasks
+## Draoman aipi vərəzyanąm
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Apanaye aozō-zāyō, tiγra zāyō, aipi tiγra mīxta.
+- Gātu-dāiti paora, ātar-āpa, aipi jani-zru dāuru.
+- Vāšō-čīϑra apanaye yezi hō nōit̰ vāša vazeiti.
+- Aiβi-caše vīspa varadana aipi vərəzya kairya.
+- Dāraye mązō zāyō yā nōit̰ xᵛarana aŋhat̰.
 
-## What if he says no?
+## Či carana yaδa hō nōit̰ mraoiti?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Yasnəm dāraye. "Nōit̰" mraoiti kairya mązō asti, yaϑa apa-dāiti ayā nōit̰ nūram aŋhat̰. Alzheimer's Association aipi paiti-mraoiti nōit̰ aozō kərənu. Anya kairya kərənu, anya zru, ayā aēva haϑra nīdāite. Aiβi-caše [čiϑa carana yaδa mraoiti nōit̰](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Urvaϑā frayāna-ca yā patica vāčim
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) zaoša American mąϑra kərənaoiti aipi vāčim jasaiti. [Conversation Cards](/games/conversation-cards/) nōit̰ frasna dārayaiti, yā vərəzya aipi urvaitiš fravasoiti. [Picture Puzzle](/games/picture-puzzle/) vīspa pata cašaiti yaδa tū handāmana urvaēseši, aipi mązō-nipišti [Word Search](/games/word-search/) xᵛarəϑa-gātu zastabyō kərənaoiti. Paiti ahyā parō-aŋhu vāčim dāiti yaδa nōit̰ frasna kərənaoiti, aiβi-caše ahmāku [reminiscence guide](/activities/reminiscence/).

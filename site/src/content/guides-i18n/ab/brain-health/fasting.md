@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Интервалла ачгареи адеменциеи: аҭҵаарақәа ирҳәо"
+seoTitle: "Интервалла ачгареи адеменциеи: аҭҵаарақәа"
+description: "Адеменциеи интервалла ачгареи ирызку аҭҵаарақәа маҷуп. Ижәдыр абыргцәа рзы иҟоу ашәарҭарақәа, насгьы фатәда анымхароу адеменциа анеиҳауа."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Интервалла ачгара адеменциа аԥыркра ма аанкылара ишцхыраауа еилкааны иуҳәомызт.
+  Аҭҵаарақәа реиҳарак аԥстәқәа рахьтә иаагоуп, абыргцәа рҿы имҩаԥгаз аҭҵаарақәа
+  хәыҷуп, ҿҳәарасгьы кьаҿуп. Ачгара абыргцәа рзы ишәарҭоуп: акашара, ашьаҟақәа
+  рӷәӷәара акамхара, диабет иаҿагыло ахәшәқәа рҟынтә ашьа аҟны ашақар лаҟәра,
+  аӡакамхара, насгьы акаԥсара. Адеменциа зцу ауаа рзы фатәи-жәҭәи азымхара ауп
+  еиҳа ихьанҭоу. Раԥхьа аҳақьым шәирацәажәа.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Ақәра аизҳара иазку Амилаҭтә институт (NIA) ишаҳәо ала, ачгара ма акалориқәа ркьаҭара иазку диетақәа рабжьгаразы аҵабыргқәа уаҳа имаҷуп, хаҭала абыргцәа рзы."
+  - "Ачгареи ақәра ахысреи ирызку аҭҵаарақәа реиҳарак аԥстәқәа рҿы имҩаԥыргеит, убри аҟынтә урҭ ралҵшәақәа зегь ауаа ирзыҟоуп ҳәа уҳәомызт."
+  - "Абыргцәа рзы иҟоу ашәарҭарақәа ирыҵаркуеит ахала акашара, ашьаҟақәа рыԥсыҽра, диабет хәшәқәак ирыхҟьо ашақар лаҟәра, аӡакамхара, ахырхьаареи акаԥсареи."
+  - "Адеменциа зцу ауаа лассы ирхашҭуеит рфара ма ржәра, ма фахьоуп ҳәа ргәы иаанагоит. Урҭ фатәи-жәҭәи ҭәарала рзааргара еиҳа ихадоуп, аамҭақәа раасҭа."
+  - "Адеменциа зцу ауаҩы ачгара изымҩаԥыжәмыргон. Фара-жәыра шәазымхацыԥхьаӡа аҳақьым ма адиетолог шәирацәажәа."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Интервалла ачгара Альцгеимер иацәихьчома?"
+    a: "Убри азы иахьеиқәнагоу дыррақәа ҳамам. Аҭҵаарақәа реиҳарак аԥстәқәа рҿы акәын имҩаԥыргоз, ауаа рҿы имҩаԥгаз ҿҳәара кьаҿын, иааглыршәоу рзын, акашара акәын иазкыз. Ақәра аизҳара иазку Амилаҭтә институт ишаҳәо ала, ачгаратә диетақәа рабжьгаразы аҵабыргқәа уаҳа имаҷуп."
+  - q: "Интервалла ачгара абыргцәа рзы ишәарҭадама?"
+    a: "Ишәарҭазҭгьы ҟалоит. Ачгара акашара, ашьаҟақәа рыԥсыҽра, аӡакамхара, ахырхьаареи акаԥсареи рахь икылнагар ауеит, инсулин ма диабет хәшәқәак зхызхуа рҿы ашақар шәарҭаны иланарҟәыр ауеит. Маио Иклиника ишазгәанаҭо ала, ари аԥсыбӷа зцуи акаԥсарақәа рахь шәарҭара змоуи ирызхомызт. Убас ҟаҳамҵацыԥхьаӡа аҳақьым шәирацәажәа."
+  - q: "Адеменциа зцу ауаҩы ачгара дизхома?"
+    a: "Мап. Адеменциа зцу ауаа фатәи-жәҭәи рзааргара лассы ицәгьоуп, афатә маҷхара аҭагылазаашьа уаҳа иуадаҩнатәыр ауеит, акашарагьы иахҟьоит. Ачгара шәарҭара ада хазы акгьы азаанамгоит. Еиҳа еиӷьуп еснагьтәи афара, бзиа ирбо афатә хәыҷқәа, насгьы аӡы зхора."
+  - q: "Адеменциа зцу ауаҩы фатәи-жәҭәи азымхара дыргас иамоузеи?"
+    a: "Шәахәаԥш акашара, амҩадахара, аԥсычҳара, арыцҳара, агушара, ма афатә мап ацәкра. Ақәра аизҳара иазку Амилаҭтә институт ишазгәанаҭо ала, аӡакамхара дыргас иамоуп аҿы аҩра, ахырхьаара, агәы лассы-лассы аҟаԥра, насгьы агәхҭынҵарақәа. Арҭ дыргақәа шәырбазар, аҳақьым шәиҳәа."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Интервалла ачгара, иаҳҳәап аамҭа 8 сааҭ иҭагӡаны заҵәы афара ма амчыбжь аҿы ҩымшы калориада аҽыкьара, ауаа рҿлымҳара ду анаҭоит, статиақәакгьы иҳәоит ари ахшыӷь ихьчон ҳәа. Шәара шәқәра наӡазар, ма адеменциа зцу ауаҩы ишәыхылаԥшуазар, аҭҵаарақәа иашаҵәҟьаны иаадырԥшуа абарҭ роуп, убри аҟынтә игәҽантәны аҟазаара хадоуп.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Ари еилазеиԥшу дырроуп, ҳақьымтә бжьгараӡам. Ачгара шәаламгеит, насгьы ишәыхылаԥшуа ауаҩы ифара шәамсахарцыԥхьаӡа аҳақьым ма адиетолог шәирацәажәа. Шәахәаԥш ҳтема иазку [medical disclaimer](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Интервалла ачгара адеменциа аԥыркуама?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Интервалла ачгара адеменциа аԥыркра ма аанкылара ишцхыраауа еилкааны иуҳәомызт. Ақәра аизҳара иазку Амилаҭтә институт (NIA) ишаҳәо ала, калориакьаҭаратә ма ачгаратә диетақәа рабжьгаразы аҵабыргқәа уаҳа имаҷуп, насгьы урҭ рылҵшәареи рышәарҭадареи уаҳа еиҳаны иҭҵаатәуп, хаҭала абыргцәа рзы ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Избан аҵабыргқәа абраҟа имаҷӡоу
 
-The NIA gives several reasons:
+NIA мацарақәак ирылҳәоит:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Аҭҵаарақәа реиҳарак аԥстәқәа рҿы ауп изызку.** Аҵысқәа, аԥсақәа, аҳәынақәа, амамырқәа рҿы имҩаԥгаз аҭҵаарақәа интерес змоу алҵшәақәа раанагеит, аха арҭ ауаа ирзыҟоуп ҳәа уҳәомызт. Аԥстәқәа рҿгьы алҵшәақәа еиԥшым; аҳәынақәа рхкықәак рҿы акалориқәа ркьаҭара аԥсҭазаара ҿҳәара кьаҿнатәит.
+- **Ауаа рҿы имҩаԥгаз аԥышәарақәа кьаҿын.** Урҭ реиҳарак амчыбжьқәак ма амзқәак ракәын изылшоз.
+- **Ауаа рҿы имҩаԥгаз аҭҵаарақәа реиҳарак акашара акәын иазкыз**, иааглыршәоу рзы, ахшыӷьи адеменциеи акәмызт.
+- **Абыргцәа лассы изланардомызт.** Аҭҵаарақәа рацәа 60 шықәса иреиҵоу ауаа ракәын изыԥхьахьаз.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026 шықәсазтәи асистематә хәаԥшыраҿы ҷыдала иҭырҵааит 60 шықәса зхысыз ауаа интервалла рачгара. Ишарбаз ала, ари ақәра аҿы аҵабыргқәа маҷуп, аҭҵаарақәа хәыҷуп, ахылаԥшра ҿҳәара кьаҿуп. Агәаҵанчреи агәахьареи ирызку аҳасабқәа хаҭалатәи аҭҵаарақәа рҟынтә акәын ишаагоз, азеиԥш ҭҵаарақәа рҟынтә акәмызт. Иара убас ишазгәарҭаз ала, афаразы аамҭа кьаҿӡақәа ма ачгара дуқәа уаҳа ицәгьоу алҵшәақәа рахь икылнагон, убри аҟынтә аавторцәа абыргцәа игәҽантәны аҟазаара рабжьаргоит ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Ҩадацәак ирыԥхьаӡоит ачгараан ацәеижь ахәша аблыра иахьалагало ахшыӷь иныруеит ҳәа, аха ари уаҳа иҭҵаауа теориоуп. NIA ишазгәанаҭо ала, анаука аҿы уаҳа еилкаарадара ҳамоуп.
 
-## What are the risks of fasting for older adults?
+## Иарбан шәарҭарақәоу иҟоу абыргцәа рзы ачгараан?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Ачгара абыргцәа рацәа рзы шәарҭарада ԥышәарам. Иҟала his шәарҭарақәа ирыҵаркуеит:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Агәраҵаарада акашара.** Ацәеижь изхо аасҭа маҷны афара акашареи ашьаҟақәа рыԥсыҽреи рахь икнагар алшоит, уи ауаҩы уаҳа иԥсыҽнатәуеит.
+- **Ашьаҟақәеи аԥсыбӷақәеи ркамхара.** NIA адгылара змаз ҩышықәсатәи аҭҵаараҿы, акалориқәа зыркьаҭыз ауаа рҿы аԥсыбӷақәа рӷәӷәареи ацәеижь амасси кьаҿнатәит.
+- **Диабет хәшәқәа ирыхҟьо ашақар лаҟәра.** Инсулин ма диабет хәшәқәак зхызхуа ауаа афара иахыԥхьазар ма ирҿастазар, ашақар илаҟәӡаны иҟалар алшоит, ишаҳәо ала [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Ашақар лаҟәра ахырхьаара, агәҭынчымра, агәахьара ахылҿиаар алшоит.
+- **Аӡакамхара.** Афара иацны аӡы жәра мап ацәкразар, ауаҩы аӡакамхара дақәшәар ауеит.
+- **Ахырхьаареи акаԥсареи.** Маио Иклиника ишазгәанаҭо ала, интервалла ачгара ауаа рзы аԥсычҳара дуи ахырхьаареи заанагоит, насгьы аԥсыбӷақәа рыԥсыҽреи акаԥсарақәеи рахь шәарҭара змоу рзы ибзиаӡам ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Егьырҭ аныррақәа.** Маио Иклиника иара убас ишазгәанаҭо ала, ахыхьбара, агәазыҳәара аԥсахреи агушареи ҟалар ауеит, насгьы 16 сааҭ ачгареи 8 сааҭ афареи агәы узҳәаԥхьаго ачымазарақәа рышәарҭара еизнарырхар ауеит ҳәа дыррақәак иҟоуп. Аха уи аҵабырг уаҳа еилкааӡам.
 
-## Why is eating enough the bigger concern with dementia?
+## Избан адеменциа зцу рзы фатәда анымхара еиҳа ихьанҭоу?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Адеменциа зцу ауаа рзы апроблема хада **иахьеиқәнаго** афатәи аӡи аиура ауп, еиҳарак агара акәӡам. Альцгеимер Иассоциациа ишаҳәо ала, аҩбатәии аҵыхәтәантәии аетапқәа рҿы иҟоу ауаа афатә алхра уадаҩны ирбоит, афара рхашҭуеит, ма фахьоуп ҳәа ргәы иаанагоит. Иара убас маҷны афара аҭагылазаашьақәа уаҳа иуадаҩнатәыр ауеит, акашарагьы иахҟьоит ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Альцгеимер Иулахь иазку Ауаажәларра ишазгәанаҭо ала, афатә азымхара акашара, ашьаҟақәа рыԥсыҽра, аԥсычҳара азаанагоит, ауаҩы уаҳа даԥсыҽхоит, аинфекциақәа ирҿагыларагьы ицәгьахоит ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Убри аҟынтә, ачгара адеменциа зцу ауаҩы изы ибзиоу хәыцрам.** Афара ахыԥхьаӡара афатә аҵыхәаԥҵәара акны иҟалар ҟалоит. Адеменциа зцу ауаҩы ифара иазкны рыԥсахрақәа зегь аҳақьым ма адиетолог дицхыраауа имҩаԥгазар акәуп.
 
-## What are the warning signs of poor eating or drinking?
+## Фатәи-жәҭәи азымхара дыргас иамоузеи?
 
-Watch for:
+Шәахәаԥш абарҭ:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Акашара**, ма аҵкы баӷәахара.
+- **Афатә аанрыжьуазар ма мап ацәыркуазар**, ма аҿаҿы афатә ааныркылозар.
+- **Аԥсычҳара ма аԥсыҽра.**
+- **Агушара**, ари адиета азымхареи аӡакамхареи ирыдҳәалар ауеит.
+- **Аӡакамхара дыргақәа.** NIA ишазгәанаҭо ала, аҿы аҩра, ахырхьаара, агәы лассы-лассы аҟаԥра, насгьы агәхҭынҵарақәа, урҭ адеменциа хаҭалагьы ирхылҿиаар ауеит ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Агәаԥхара амчхара уадаҩра рацәа ирыхҟьар ауеит: ахаҵрақәа рыхьра, ахәшә ҿыцқәа, адепрессиа, агушара, аҽыҭысра акамхара, ма ахаамҭеи аԥсыӡи рыԥсахра. Арҭ адыргақәа ртәы аҳақьым иҳәа. Урҭ амзыз ԥшааны адиетолог ма авитаминқәа шәарҭар алшоит.
 
-## How can you help someone eat and drink enough?
+## Ишԥарыцхыраауа фатәи-жәҭәи азымхара аҿы?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Хәыҷ-хәыҷла лассы-лассы афатә шәырҭала**, хынтә дуны афара аасҭа.
+- **Бзиа ирбо афатәқәа шәырзааргала**, агәаԥхара аԥсахцыԥхьаӡа шәақәшаҳаҭла. Ашақар зцу афатә бзиа ирбор алшоит афатә рхашҭуазар; аҳақьым дизҵаа ашақар ахьчара ахәҭоузар.
+- **Ажәра азааигәара иҟажәҵа** насгьы амш зегь стакан хәыҷқәала шәырҭала. Асуп, аҵәцақәа, асмузи, ахшаратә жәҭәақәа зегь аӡы иаҵанакуеит.
+- **Еицафала** шәаналшо. Афара еицзааразы алшароуп, илашәны иҟаҵатәу ԥҳәарам.
+- **Напыла ирфо афатәқәа шәырҭа**, иаҳҳәап бутербродқәа, аҵәца кьаҭақәа, акаҳә хәыҷқәа, ачахәылҵ ахархәара цәгьахар.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Ҳара ҳ-[diet guide](/brain-health/diet/) афара иазкны егьырҭ аидеиақәа амауп. Афатә аҟаҵара ацхыраара бзиоу еицымҩаԥгатә усуроуп; шәахәаԥш [household tasks](/activities/household-tasks/).
 
-## Talk with a doctor
+## Аҳақьым шәирацәажәа
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Ачгара шәара шәхала шәалагаанӡа, шәҳақьым ма адиетолог шәирацәажәа, хаҭала диабет ма ашьа аԥсынкьара хәшәқәа зхыжәхуазар, лассы шәкашазар, ма шәкаԥсазар. Адеменциа зцу ауаҩы изкны ачгара аасҭа, амш аҿы шәаҟара фатәи жәҭәи иахәҭоу аҳақьым шәиазҵаа.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Иаразнак амедицинатә цхыраара шәаҳәа (103 ма 112) ахшыӷь ианекны аилаҩра, агәраргара, ма ашьа ашақар лаҟәра адыргақәа лассы ианымыԥсуа.

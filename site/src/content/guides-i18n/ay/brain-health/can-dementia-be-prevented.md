@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "¿Dementia jark'aqasispati? Yatxatawinakax kamsisa"
+seoTitle: "¿Dementia jark'aqasispati? Kamsis yatxatawixa"
+description: "Kunjamsa dementia jark'aqañ yatxatawinakax uñt'ayi, kunas jan jikxataski, ukat qullañ yatiqir doctorampi parlkipt'añ thakhinaka."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Janiw khitis dementia jark'aqañ arsuñjamäkiti. 2024 mara Lancet Commission
+  yatxatawix amuyt'ayiwa, aka uraqpachan dementia usump sarnaqirinakat chikatanxa
+  14 mayjt'aykay ch'amanchawinakar mayt'atawa, ukanakax wilana ch'ama t'ijtäwipa,
+  jan sum ist'asiña ukat jan kuyuñawa. Yant'awinakax amuyt'äwi yant'anakana jisk'a
+  mayjt'awinak uñacht'ayi, janiw dementia jisk'aptatapunix sispkiti. Walja jaqinakax
+  taqi kuns "wali aski" lurapxasinxa, dementia usump sarnaqapxakiwa, ukatx janiw
+  khitins juchapäkiti.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 mara Lancet Commission yatxatawixa uraqpachan dementia usump sarnaqirinakat 45% ukch'a jaqinakaru 14 mayjt'aykay ch'amanchawinakar chikt'ayi. Ukax taqpach jaqinakataki jakthapiwiwa, janiw sapa maynitak arsuwikiti."
+  - "Jan walt'awinak jisk'aptaña sañax taqpach markachirinakana jark'aqañ askinak jisk'achañawa. Janiw sapa mayni jaqix dementia jark'aqaspaw sañ muniti."
+  - "FINGER, US POINTER ukat SPRINT MIND jach'a yant'awinakax amuyt'awi yant'anakana jisk'a askinaka uñt'ayawayi, ukampis janiw mä jakawi wakichawix dementia jark'aqaspaw sasax chiqpachapunit uñacht'aykiti."
+  - "Maraniptawix Alzheimer usutakix jach'a jan walt'awiwa, ukat janiw mayjt'aykayäkiti. Walja suma jakawinik jaqinakasa dementia usump sarnaqapxakiwa."
+  - "Yatxatat thakhinakaxa, wilana jach'a t'ijtäwip qullaña, ist'añ aparatu apnaqaña ukat kuyuñasipkaña, doctorampi parlkipt'añax wali askiwa, yaqha askinaks k'umar jakawitak churiwa."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "¿Dementia jark'aqasispati?"
+    a: "Janiw sapa maynitakix dementia jark'aqañ chiqpach thakix utjkiti. Yatxatawinakax sawayiwa, wilana jach'a t'ijtäwipa, jan qullat ist'awi ukat pitu sayt'ayañ jisk'aptawixa, markachirinakana dementia jilxattawip jisk'aptayaspawa jan ukax qhiphartayaspawa. Ukanakax inasatanakawa, janiw arsuwikiti."
+  - q: "¿Lancet Commission ukan 45% jakthapipax kamsañsa muni?"
+    a: "2024 mara Lancet Commission amuyt'ayiwa, uraqpachan dementia usunakat 45% ukch'axa 14 ch'amanchawinakar mayt'atawa, ukanakax mayjt'ayasispa. Aka jakthapixa uka ch'amanchawinakax dementia apani sasaw amuyi, yatxatirinakax sapxiwa yaqhipax chikatapuniw chikt'ataspa. Ukax taqpach markachirinakat parlispa, janiw sapa maynin askipat arskiti."
+  - q: "¿Awk taykajax suma k'umar jakasinxa, kunats dementia usump sarnaqawayi?"
+    a: "Maraniptawisa, ch'iqa janchinaka (genes) ukat jan unxtaykay yänakasa dementia apaniñatakix jach'a ch'amanipxiwa. Lancet Commission yatxatirinakax sapxiwa, markachirinakana jan walt'awi jisk'achatax janiw sapa maynitakix dementia jark'aqaspaw sas arskiti. Aka usux janiw khitis pantjasiwayi sispkiti."
+  - q: "¿65 maranit sipans dementia jan walt'awinaka jisk'achañax qhipharxiti?"
+    a: "Lancet Commission yatxatirinakax sapxiwa, janiw ancha nayräkiti jan ukax ancha qhiphäkiti jan walt'awinaka jisk'achañatakixa, walja yatxatawinakax taypi maranitakikiwa. Uñjawi ukat ist'awi qullaña, kuyuñampi sarnaqaña ukat jaqinakamp chikt'asiñax jilïrinakatakix wali askiwa. Doctoramampi parlkipt'am kunas k'umar jakawimatakix aski ukxata."
+  - q: "¿Amuyt'añ anatt'awinaka jan ukax yaqha manq'anaka dementia jark'aqaspati?"
+    a: "Janiw kuna anatt'awisa, manq'asa, qullasa jan ukax suma manq'añ wakichawisa dementia jark'aqaspati sasin uñacht'ayatakiti. MIND manq'awi kimsa mara yant'awinx janiw yaqha manq'anakat sipans mayja askinak uñt'aykiti, ukat alasit amuyt'awi yatiqañ app ukanakax janiw yant'awinakankir askinakar purikiti."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,128 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Jumatix dementia usump sarnaqir mä jaqir uñjassta, jan ukax awk taykamar uka usump uñjawaystaxa, inas jiskt'assta jark'aqasispataynati janicha, ukat jumar purt'ir jark'aqasmati janicha sasin. Aka qillqatanx yatxatawinakax kamsis ukwa qhana arumpi qhanañchi. Jisk'a katuqawi: janiw khitis dementia jark'aqañ arsuñjamäkiti, ukampis yatxatawinakax uñacht'ayiwa yaqhip jan walt'awinakax jisk'aptayasispa, ukat taqpach markachirinakana jisk'aptayatax inas juk'amp jaqinakaru dementia usump sarnaqañ jark'aqaspa jan ukax qhiphartayaspawa.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Akax taqpachanitaki yatichäwiwa, janiw qullañ iwxäkiti. Mirä, [medical disclaimer](/medical-disclaimer/) uñxatt'am ukat doctorampi k'umar jakawimat parlañani.
 
-## Can dementia be prevented?
+## ¿Dementia jark'aqasispati?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Janiw sapa maynitakix dementia jark'aqañ thakix chiqpachapunïkiti. National Institute on Aging (NIA) ukax siwa, [janiw Alzheimer jark'aqañatakix kunas chiqpachapuni uñt'atakiti](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), ukampis yatxatirinakax aski thakhinak jikxatasipki ukat kunas askïspa jan ukax jan askïspati uk yatiqasipki.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Yatxatawinakax *chiqpachapuni* uñacht'ayki ukaxa, yaqhip k'umara jakawita ukat sarnaqawita jan walt'awinakax dementia ukan jilxattawipampi chikt'atawa. Taqpach markachirinakana uka jan walt'awinakax jisk'apxixa, inas juk'a jaqinakak dementia usump sarnaqapxaspa, jan ukax jilïrixin sarnaqapxaspa. Ukax janiw mä arsuwikiti, wali mayjawa.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Mä suyt'ayir uñt'awi: 2024 mara Lancet Commission yatiyiwa, yaqhip qullqini jach'a markanakana, Estados Unidos ukat Reino Unido ukanakana, jilïri jaqinakan dementia usump sarnaqawipax jisk'aptiwa. Yatxatirinakax amuyapxiwa, ukax inas yatiqawi jilxattatapata, k'umara qullañ utanaka askiptatapata ukat janchisan sirkanakap sum uñjatapata, kunjamatix [University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ukan arski ukarjama.
 
-## What did the 2024 Lancet Commission find?
+## ¿Kunas 2024 Lancet Commission jikxatawayi?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission on dementia prevention, intervention and care ukax 27 yatxatirinaka tamañchatawa, jupanakax qhananchäwinak walja maranakan uñakipapxi. 2024 mara yatiyäwipax **14 jan walt'awi ch'amanchawinaka** uñt'ayi, ukanakax mayjt'ayasispa, ukat taqpach uraqpachan **chikatapuni (45% ukch'a) dementia usunakampi** chikt'atawa. Yatxatirinakan arunakapampi sañani, uka usunakax *inasa* jark'aqasispa jan ukax qhiphartayasispa uka jan walt'awinak chhaqhayataspaxa ([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Uka 14 jan walt'awinakaxa, jakawisan pachanakarjam uñacht'ayatawa:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Wawa ukat wayn tawaqu jakawina:** jisk'a yatiqawi.
+- **Taypi jakawina (40 maranit 65 marankama):** ist'awi chhaqhata, jach'a LDL ("jan wali") colesterol, llakisiña (depresión), p'iqita usuchjasiña, jan kuyuña, diabetes, pitu pitaña, wilana jach'a t'ijtäwipa, jach'a lik'iñstata, ukat machañ umaña.
+- **Jilïri jakawina:** sapa sarnaqaña, thaya q'añu (contaminación), ukat jan qullat uñjawi chhaqhäwi.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 maran machaq qillqatanakax jach'a LDL colesterol ukat jan qullat uñjawi chhaqhäwiwa. Juk'amp walja usunakampi chikt'at jan walt'awinakax ist'awi chhaqhäwi ukat jach'a LDL colesterol ukawa (sapa mayni 7% ukch'a), ukxarux jisk'a yatiqawi ukat sapa sarnaqawiwa (sapa mayni 5% ukch'a).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Jiwasan [risk factors guide](/brain-health/risk-factors/) uñacht'ayiwix taqpach 14 jan walt'awinak mä tablana uñacht'ayi, kunjams yatxatawinakax chikt'ayi ukat kuns lurasma ukxata.
 
-### What the 45% figure does not mean
+### Kunas 45% jakthapix jan sañ munkiti
 
-It is easy to misread this number, so it helps to be precise:
+Aka jakthapix pantjasispawa, ukata qhanañchañax askiwa:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Taqpach markachirinakataki jakthapiwiwa.** Uraqpachan dementia usump sarnaqirinakat parliwa, janiw juman jan ukax awk taykaman jakthapipäkiti.
+- **Kuna luratats jutirjamaw amuyasi.** Yatxatirinakax sapxiwa, chiqpach yatxatatanakak apthapipxi, ukampis yaqhipax inas chikatapuni chikt'ataspa. Sañataki, jilïripana llakisiñaxa (depresión) inas dementia usun nayrïr ch'ipxtawipäkchispana, janiw usunchirikïkiti.
+- **Janiw sapa maynitakix kunas arsuwikiti.** UCL yatiyäwix qhanañchiwa, jan walt'awinak jisk'achawix taqpach jaqinakatakiwa, janiw sapa mayni jaqix dementia jark'aqaspaw sañ muniti.
+- **Yaqha chikatax janiw aka ch'amanchawinakamp uñt'atakiti.** Maraniptawisa, ch'iqa janchinakasa (genes) ukat yatxatirinakan jan yatit yänakapasa uka chikatapxiwa.
 
-## What is the difference between "risk reduction" and "prevention"?
+## ¿Kunas "jan walt'awi jisk'achaña" ukat "jark'aqaña" ukanakan mayjawipa?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Jan walt'awi jisk'achaña** sañax inasanaka jisk'aptayañawa. Walja jaqinakax wilana t'ijtäwip jisk'aptayapxaspaxa, walja maranakana juk'a jaqinakak dementia usump sarnaqapxaspa. Ukampis uka tamanx yaqhipanakax aka usump sarnaqapxakiwa.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Jark'aqaña** sañax mä yä janipuni lurasispati sañawa. Dementia usutakixa, yatxatirinakax jichhürunakan janiw khitirus ukham arsuñ atipkiti.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Yatxatirinakax **qhiphartayaña** ukats parlapxarakiwa. Lancet Commission yatxatawix machaq qhananchäwi uñacht'ayi, jan walt'awi jisk'achawix inas dementia usun qalltätap qhiphartayaspawa ukat jan k'umar jakawi pachat jisk'aptayaspawa. Mä qawqha maranak qhiphartayawisa sapa jaqitaki ukat wila masipataki wali askiwa.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Aka web ukanxa, "jan walt'awi jisk'achaña" ukat "chikt'atawa" arunak amuyumpiw apnaqapxta. Mä alaña yäsa, qullasa jan ukax wakichawis "Alzheimer jark'aqañaw" sispachixa, amuyumpi uñjam. NIA iwxarakiwa doctorampi jiskt'asiñawa kuna qullsa jan ukax apthapiwis Alzheimer jark'aqañ arskixa ukanakataki, uka yänakax inas jan walïchisma, qullqi ina chhaqhayäwchisma, jan ukax panpacha.
 
-## What have large trials found?
+## ¿Kunas jach'a yant'awinakan jikxatataxi?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Uñxatt'awi yatxatawinakax (kunjams jaqinakax sarnaqapxi uk unch'ukipxi) chikt'äwinak uñt'ayaspawa. Chiqpach yant'awinakax (randomized trials), kawkintix jaqinakaru mä wakichawiru jan ukax yaqha tamaru yant'añatak uchapxi, juk'amp ch'amanipxiwa. Akax walja uñt'at yant'awinakan jikxatawinakapawa.
 
-### FINGER (Finland)
+### FINGER (Finlandia)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER yant'awix 60 maranit 77 marani 1.260 jilïri jaqinakar yant'awayi, jupanakax dementia usun jan walt'awinipxänwa. Chikatanirux pä mara manq'awi iwxa, kuyuñanaka, computadoran amuyt'awi yant'anaka ukat chuyma sirkanak uñjañ wakichawi churapxäna; yaqha chikatanirux taqpachanitak k'umar jakawit iwxt'apxäna. Wakichawin jikxatasir jaqinakax amuyt'awi yant'anakana juk'amp sum lurt'apxäna, ukax jisk'a ukampis yatxatäwin uñt'at mayjt'awiwa ([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Aka yant'awix yant'awi uñt'äwinak yupi, janiw dementia qullañati.
 
-### US POINTER (United States)
+### US POINTER (Estados Unidos)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER yant'awix 60 maranit 79 marani 2.111 jilïri jaqinakar uñt'awayi, jupanakax jan kuyuntirinaka, jan wali manq'anaka manq'irinaka ukat yaqha jan walt'awinakanïpxänwa. Panpacha tamanakarux janchimpi amuyumpi juk'amp unxtasiña, sum manq'aña, masinakamp chikt'asiña ukat chuyma k'umarap uñjañ amuyt'ayapxäna. Mä tamax sum yatichat wakichawi katuqäna; yaqha tamax jupanakpach uñjasipxäna. Pä maratxa, amuyt'awi yant'anakax **panpachanina** askiptawayi, ukat juk'amp yatichat tamana juk'amp askïna ([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Yatxatirinakax sapxiwa, juk'amp uñakipawix munasiwa aka mayjt'awix sapa uru jakawin askïpachati janicha uk yatiñataki. Janiw "jan kun lurir" tamax utjkänti, ukat yant'awix janiw saspa qawqhasa yanapawayi jan kuna mayjt'awimpix ukxata.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (wilana t'ijtäwipa)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND yatxatawix 50 maranit jila 9.361 jilïri jaqinakar Estados Unidos markan uñakipäna, jupanakax jach'a wilana t'ijtäwinipxänwa. Jupanakarux wilana t'ijtäwip jisk'aptañataki (patar jaqukipatax 120 ukat juk'a) jan ukax standard uñacht'awiruki (140 ukat juk'a) uchapxäna. Jisk'a t'ijtäwi targetax **jisk'a amuyt'awi chhaqhäwi** (mild cognitive impairment) jisk'aptayi, ukax dementia usun nayraqatapan purir jan walt'awiwa. **Dementia usuchispawa** sasin amuyatakixa, jisk'a t'ijtäwini tamana juk'akiw utjäna, ukampis janiw yatxatawin jach'a mayjt'awikïnti. Yant'awix nayraqat tukuyasïna ukat juk'a dementia usunakarukiw uñjäna, ukat inas jisk'achispana aka jiskt'äwir qhanañchañatakixa ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Kunas uñakipatanakax apthapisi
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 mara Cochrane uñakipawix llätunka jach'a yant'awinak apthapïna, ukanakax mä kutiki walja jan walt'awinak qullapxäna, 18.000 jila jaqinakampi. Amuyt'awi yant'anakana jisk'a askinak jikxatäna, ukampis **janiw qhana mayjt'awix utjkänti qawqha jaqinakasa dementia usump sarnaqapxi** uka pä yant'awinx kawkintix uñakipatäki ukanxa ([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+2017 marana National Academies of Sciences, Engineering, and Medicine uñakipawixa, NIA ukan amuyt'ayata, "ch'amañchir ukampis jan tukuyat" qhananchäwinak kimsa thakhitaki jikxatäna: wilana jach'a t'ijtäwip uñjaña, janchi kuyuña jilxattayaña, ukat amuyt'awi yatiqañanaka.
 
-## Does it matter when you start?
+## ¿Kuna pachas qalltaña, ukax askïpachati?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet Commission iwxt'awipax jan walt'awinak jisk'achañax kunapachatix phuqhaski ukhapachawa ukat walja pacha jisk'aki uñjañawa: "juk'amp nayra, juk'amp aski" ukat "juk'amp walja pacha, juk'amp aski". Ukhamarak siwa janiw ancha nayräkiti jan ukax ancha qhiphäkiti jan walt'awinak jisk'achañatakixa. Walja qhananchäwinakax taypi jakawitakiwa, 40 maranit 65 marankama, ukampis yaqhip jan walt'awinakaxa, uñjawi chhaqhäwi ukat sapa sarnaqawixa, jilïri jakawitaki jan walt'awinakawa, kawknirinaktix lurañax askïski.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Yatiyäwix siwa jichhax juk'amp ch'amani qhananchäwix utji, walja pacha jan walt'awin sarnaqawix juk'amp jach'a usunchawi apani. Sañataki, diabetes taypi jakawin qalltki ukax juk'amp jan waliwa qhipha jakawin qalltkir diabetes ukat sipanxa.
 
-## Is dementia risk the same for everyone?
+## ¿Dementia jan walt'awix taqinitakix kiksapakïti?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Janiwa. Commission uñt'ayiwa jisk'a ukat taypi qullqini markanakankir jaqinaka, jisk'a tamankir jaqinaka (minorías) ukat jisk'a qullqini jaqinakax juk'amp aka jan walt'awinak aptasipxi, ukatwa dementia usux juk'amp wayn/tawaqupachan purt'i. Walja jan walt'awinakax jaqinakan jan ajllit jakawipampi chikt'atawa, sañataki wawan yatiqawipa, jakapkis uka thaya q'añupa, ukat k'umara manq'ax jak'achasiñjam ukat alasirjamati janicha ukata.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Ukatwa Commission iwxawinakapax markachirinakatakjamaraki kamachirinakataki (gobiernos) amtatäxi: taqi wawankirinakatak suma yatiqaña, q'uma thaya, pitu pitañ jisk'aptayañ kamachinaka, aljatanakana azukara ukat jayu jisk'achaña, ukat khitinakatix munapki ukanakatak ist'añ aparatu churaña. Sapa maynin ch'amachasitapax askiwa, ukampis uraqis jakatasax askirakiwa. Ukax yaqha ch'amanchawiwa khitirus usump sarnaqawipat jan juchañchañataki.
 
-## What are the honest limits of this research?
+## ¿Kunas aka yatxatawin chiqpach sayt'awinakapaxa?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Dementia usux walja tunka maranakaruw jilti**, ukampis jila yant'awinakax pä marat phesqa marakamakiw sarnaqi. Dementia usupach uñjañatakixa, janiw yant'awi uñacht'awinakakikiti, wali jaya pacha ukat jach'a yatxatawinakaw munasi.
+- **Jila yant'awinakax amuyt'awi yant'anakak uñjapxi.** Mä yant'an jisk'a mayjt'awix janiw sañ munkiti juk'a jaqinakak dementia usump sarnaqapxani jan ukax sapa uru jakawix juk'amp jasakïniwa.
+- **Yant'awinakar saririnakax jilpachax juk'amp k'umarapxiwa** ukat juk'amp yatiqatanipxiwa taqpach markachirinakat sipanxa. Lancet Commission amuyt'ayiwa jila qhananchäwinakax jach'a qullqini markanakata jutaski ukat jisk'a tamanakax janiw ancha uñt'atäkiti.
+- **Yaqhip chikt'awinakax panpacharuw sarki.** Jan kuyuntaña jan ukax jan jaqinakamp chikt'asiñax dementia usun nayrïr uñstatañapaspawa, janiw usuchirikïkiti.
+- **Manq'at yatxatawinakax janiw ancha aski jikxatkiti.** MIND manq'at kimsa mara yant'awinx janiw kuna jach'a mayjt'awis amuyt'awinx jikxataskänti yaqha manq'anampi chikt'atampi uñxatasina. Jiwasan [diet guide](/brain-health/diet/) uñxatt'am.
+- **Amuyt'añ anatt'awinakax janiw dementia jark'aqaspaw sas uñacht'ayatakiti.** Jiwasan [brain games and dementia](/brain-health/brain-games/) yatichawi uñxatt'am.
+- **Ayuno lurañax janiw jaqinakan ancha yatxatatakiti**, ukat jilïri jaqinakatakix jan walïspawa. Jiwasan [fasting guide](/brain-health/fasting/) uñxatt'am.
 
-## If someone did everything "right", why did they still get dementia?
+## ¿Mä jaqix taqi kuns "wali aski" luraspaxa, kunats dementia usump sarnaqäna?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Kunjamatix dementia usux janiw ajllitanakatakik jutkiti. NIA siwa
+[maraniptawix Alzheimer usutakix jach'a jan walt'awiwa](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+ukat janiw khitis mayjt'ayaspati. Ch'iqa janchinakas (genes) yanapt'arakiwa. Yatxatirinakas janiw sum amuyapkiti kunas walja jaqinakar Alzheimer usuchiyi ukxa. Taqpach 14 jan walt'awinak chhaqhayataspasa, Lancet Commission jakthapiwix chikatat jila usunakarux jan uñt'atakiw jayti.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Ukatwa, jumatix kuyuntir, sum manq'ir, jan pitu pitir jaqir uñjasstaxa, ukat jupax dementia usump sarnaqaskchixa, janiw jupats jumatas kuna pantjasis utjkiti. Jumatix dementia usump sarnaqaskstaxa, janiw juman juchamäkiti. Wila masinakana llakisiñax utjiwa, ukampis janiw juchanchasiñäkiti. Jichhax askixa sumchu jakasiña, masichasiña ukat suma urunakanïñawa, ukat jiwasan [activity ideas](/activities/ideas/) ukat [caregiver self-care guide](/caregiving/caregiver-self-care/) qillqatanakax qalltañatak wali askiwa.
 
-## What steps can you talk over with a doctor?
+## ¿Kuna thakhinaksa doctorampi parlkipt'asma?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Aka yänakax juk'amp yatxatatawa. Uñjasiwin yatiyasiñax askiwa, jila ukanakax chuyma, chuymust'asiña ukat sapak lurañ k'umara jakawir yanapt'arakiwa, dementia ukan kuns luraspa ukat sipanxa.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Wilana t'ijtäwipa.** Qawqhas jakthapimax ukat kuna targetas jumatak askixa uk doctoramaru jiskt'am. Lancet Commission amuyt'ayiwa 40 maranit patar jaqukipatax 130 ukat juk'a uñjaña, ukampis jilïri jaqitakix taqpach k'umar jakawiparuw uñtasi.
+2. **Ist'awi.** Ist'awit yant'asiñ mayim, ukat ist'añ aparatu yanapt'aspati janicha uk jiskt'am. Jiwasan [hearing guide](/brain-health/hearing/) yatxatawinak qhanañchi.
+3. **Uñjawi.** Nayra uñjayasiñaru sarapunim ukat catarata usunaka qullasispaticha janicha uk jiskt'am.
+4. **Colesterol.** LDL colesterol uñxt'asiñ askïticha janicha ukat kuna mayjt'ayañatich uk jiskt'am.
+5. **Wilan azukara.** Jumatix diabetes usunïstaxa, kunjams sum uñjasisma uk jiskt'am.
+6. **Chuymust'awi.** Llakisiñax (depresión) waljawa ukat qullasisspawa. Doctoramaru yatiyam jumatix chuymust'ata jikxatassta jan ukax pä simanat jila kuns jan lurañ munstaxa.
+7. **Pitu ukat machañ uma.** Pitu pitañ sayt'ayañataki yanapa mayim ukat machañ umani sayt'awinakapatsa jiskt'am.
+8. **Kuyuña.** Kuna kuyuñanakas jumatak k'umara uk jiskt'am. Jiwasan [exercise guide](/brain-health/exercise/) yänakaniwa.
+9. **P'iqi jark'aqasiña.** Bicicletan sarnaqañataki ukat anatt'añataki casco uchasim, ukat liwxatañ jark'aqañatsa jiskt'am.
+10. **Jaqinakamp chikt'asiña.** Yaqha jaqinakamp sarnaqañax k'umara jakawiwa. Jiwasan [social connection](/brain-health/social-connection/) ukat [sleep](/brain-health/sleep/) uñxatt'am.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Janïr qullanaka, manq'anaka, apthapitanaka (suplementos), ayuno jan ukax kuyuñanaka mayjt'aykasinxa, nayraqatax doctoramampi parlam, juk'ampis chuyma usunïstaxa, diabetes, liwxatañ jan walt'awini, jan ukax dementia usump sarnaqaskstaxa.
 
-## Talk with a doctor
+## Doctorampi parlam
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Jumatix amuyt'awi jan ukax amtawi mayjt'awinaka llakisiyir jikxatstaxa, juman jan ukax yaqha jaqina, mä citaru sarapunim. NIA siwa
+[amtawi jan walt'awinakax yaqha usunakat jutaspawa](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+sañataki qullanakatsa, tiroides usunaka, llakisiña (depresión) jan ukax jisk'a vitamina B12 utjatapata, ukat yaqhip uka jan walt'awinakax qullawit uñt'asisax chhaqhiwa. Jiwasan [warning signs guide](/brain-health/warning-signs/) kuns uñjaña uk qhanañchi.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Akipach yanapaw thaqham** mä akatjamat mayjt'awinakataki: mä akatjamat amuy chhaqhäwi, mä chiqan k'ulluptawi jan ukax jan ch'amaniwa, parlayañ jan walt'awi, jan ukax p'iqi sinti usuñaxa derrame cerebral jan ukax yaqha akatjamat jan walt'awïspawa. 110 ukar jawsam.
 
-## Where Golden Moments fits
+## Kawkins Golden Moments ukax yanapt'i
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments ukax jasak chika kusist'añ anatt'awinak luri, sañataki [conversation cards](/games/conversation-cards/), [picture bingo](/games/picture-bingo/) ukat [calm breathing pause](/games/calm-breathing/). Ukanakax kusist'añataki ukat chika sarnaqañatakiwa. Janiw qulläkiti, ukat janiw dementia jark'aqkiti jan ukax qhiphartaykiti.

@@ -1,34 +1,35 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Kas-tammo luk yan numû luk mannal tashaqqub aban?"
+description: "Kas-tammo le numû luk tashaqqub abiyyi gitâ meqe gexsit: massoysiyya, sissikane, ma-makinay, xabbacoysiyya kee fanxaqo tekkem aaxaguk."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Tashaqqub ittal yan wakhti kaxxa hebel, mokkoro hinna. Saaqatak kassow le
+  wakhti doora, kassi-le karafat ittal garabik gaca, kaaduk inki xabbaco le
+  tashaqqub kah hayya. Numuk sissikane kaa caba, tu-ma-feytâ xagnah garcinte
+  ma-makina, taqabih asta tublek tashaqqub xabbacoysa, suwarto walalal maarsa.
+  Raaqa meqe waktil fantaqisa. Xalayuk fanxaqo, hinnay ittal tunkulloonum meqe
+  gaba-kalota.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Fayda kaxxa itti-garab kee walal, gaba-kalot hinnay meqe gacsa geyam hinna."
+  - "Naharat massoysa: kassow le karaf, meqe ifo, inti-kora kee ayti-xagar hayya, TV xukkuq hayya, inki tashaqqub massoysa."
+  - "Tu-ma-feytâ xagna ma-makinay. \"Ta gital koboxsino\" ixxic hinnay warray."
+  - "Bocro ma-soltinnik tashaqqub xabbacoysa: daggo suwar, daggo doorit, suwar tambulleh tanik."
+  - "Suwar qangara fanah hayya, \"Yoh waris...\" ixxic, \"Kassittaa...?\" axcuk manninnaan."
+  - "Xifto hinnay roocih asta tambullem fanxaqa. Xalayuk fantaqoonum meqe duuda, baaxo hinna."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Tashaqqub elle abnam mango waktii?"
+    a: "Elle aban diggi-le wakhti mayan. Mango marak, inki-duma dakika gaba-kala, kaaduk tuuruk inki maro duudda. Saaqat hinnaik num yabala, raaqa meqeh yan waqdi fantaqa."
+  - q: "Yassareenim kah cabaa hinnay xagna kah ma-wagsisaa?"
+    a: "Ittal aban xabbaco le tashaqqubal kassi-hiddot sarrangiddiyya kee baaxo mayan. Xagna num ma-rooqissam tekkek, caba. Kaa rooqissam tekkek, kassik qokla hinnay cede-wayuh tashaqqub xabbacoysa."
+  - q: "Anu abba heem yabaloonum kicniniik mannal?"
+    a: "Woh meqe. National Institute on Aging ittam, num yabaluk ruffo geyak yenik wagitaanam cabaanoonum meqem warisse. Tableenimil walala, kaaduk elle kicnaan wakhti dooritaanam hinnay ceyaanoonum kah deeqa."
+  - q: "Ta tashaqquba kassi mokkoro kinnii?"
+    a: "Malee. Ni tashaqquba ittal aban xabbaco le abina kaxxa ruffo kee walalah koboxsan. Usun kassi mokkoro hinnun, tu-ma-keecan, kaaduk kas-tammô qilsiino hinna."
+  - q: "Elle koboxsoonum yayse tashaqqub ayti-miya?"
+    a: "Numuk meqe gital xabbacoh yaniit koboxsa. Picture Pairs affara alfinit leeh suwar tambulleh tanik, hinnay Find the Same namma doorit luk meqe koboxsak tani. Num tunkullek warrayuk walal kicnik Conversation Cards meqe doorit."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +48,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Kas-tammo luk yan numû luk meqe tashaqqub abaanam sarrangiddiyyah ma-ceelta. Namma num ittal xayiik gacaanam, suwarto ceyaanam, qangarat solah usulan, kaaduk yamaate yabak walalaanam ceelta. Tashaqqub ittal wakhti gexsisaanah xabcinih yan sabbata.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Ta gexsit mannal massoysaanam, tashaqqub mannal sissikoysaanam, tu "makook" tekkek yaanoonum, yaaba tashaqqub xabbacoysaanam hinnay xabbaatih qilsiysaanam, walalal maarsaanam, kaaduk fanxaqo faxximtam aaxaguk warrayta. Ta gexsit ni [tashaqqubak](/games/) kee atu lito kaardi, puzzel kee gabat lito gabâ tashaqqubal taamitak gexxa.
 
-## What is the best way to play a game with someone who has dementia?
+## Kas-tammo luk yan numû luk tashaqqub abaanam yayse giti ayti-miya?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Ruffo kee af-qaafiyat kassita, gaba-kalot hinna. Woh [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities) gaba-kaltuuy tacee amax: num elle yan duudat xisita, koboxsaanah qokla, qilsi exxoota atuk gaba-kala, kaaduk tu-ma-feytâ abinal ma-makininaay ma-baaxasina.
 
-In practice that means:
+Taamiyyal woh ittam:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Garabik ittal gaca, fanteek hinna.** Ittâ garabal gacdaanik, nammayuk eskriin hinnay xarre tableenim duuddaanih, kaaduk qokol ittal taamitaanam ceela, dacrisan nabi hinna.
+- **Inki wakhtil inki tashaqqub ceya.** Doorit mango le menu koboxsinnik naharat mokkoro ceelaanam duudda.
+- **Ken gita kataata.** Suwar sinni gital ceyaanam fakkon kay, inki suwartal taban dakika walalaanam fakkon kay, hinnay namma tuurik warrayak fanxaqaanam fakkon kay, asaaku tashaqqub wohu.
+- **Meqe saaqoota tunkulla, duudde tuuroota hinna.** Musqun, qangara hinnay kassi-le namma-fantaqi saaqat atu gurrussâ gaba-kalota.
 
-## How do I set up before we start?
+## Koboxsinnik naharat mannal massoynaa?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Inki-duma dakikah massoysiyya num tashaqqub elle xaganay kah axcuk boocrot yaabuk tabaanimik mango daddala.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Ken loowok yayse wakhti doora.** [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) num yayse qaafiyat le wakhtil awqu kee abina massoysaanam yaysem warisse. Mango marak woh carra afa. Carrak warrayik caraara qilsi yakke; [calm late-afternoon activities](/caregiving/late-day-restlessness/) wagita.
+2. **Karafat kassi hayya.** TV kee raadiyo xukkuq hayya, duuddek caxâ afa alifa. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) yabinnik naharat caagida kee gari xaloota xabbaatih cabaanam meqem amaxxe.
+3. **Naharat ruffo wagita.** Aqo xayiik, naharat manaqat fanah gexsim, ruffo-le koorika, kaaduk inti-kora kee ayti-xagar hayyaanam.
+4. **Arik meqe ifo hayya.** Eskriinil cillaf maliino luk meqe ifo suwar teetit tableenim duudda.
+5. **Gacinnik naharat tashaqqub massoysa.** Faka, massoosa doora, qangara sinam atuk cisa. Sarrah eskriin ken fanah korta. Taabletik amax xayyowtay [setting up a tablet or phone](/caregiving/tablets-and-screens/) wagita.
+6. **Meesha fayya hayya.** Taablet solissâ stend hinnay kiis num ibbixele heem ma-cabta, kaaduk ceyaanam xabbacoyta.
 
-## How do I invite them without pressure?
+## Taqab maliino luk mannal kah seeqiyyaa?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Seeqo xabbacoytaay cabaanoonum xabbacuk hayya. Meqeh gexxâ qangara:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "Burtâ suwar geyeh. Yoh luk wagitaanam faxxaa?"
+- "Ta puzzelil yoh qoklaanam duuddaa? Yallit rooqe."
+- "Asaaku cax-bambalo faxxaa hinnay kimbirroota?" (namma doorit fakoo le essaaguk yayse)
+- "Ku say-toobokoytah kaardi abak aniyyo. Ta kaardi elle aytikoora akko faxximta?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association abinâ sabbat fassiraanam meqem amaxxe, hebelto kataysah kaardi abaanam ceelak, sabbat fayda kah tacê sabbatah. Qokol esseraanam meqem taamita, num taamiyyal fanti-le num yakkeemih sabbatah.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Malee iyyeenik, oggola. Sarrah doora hinnay aka hebelto ceya. Ni gexsit [what to do when they say no](/caregiving/when-they-say-no/) warrayta.
 
-## How long should a game last, and how fast should we go?
+## Tashaqqub muggaaqe mangoh tani, kaaduk mannal sissikoynaa?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Numuk sissikane kaa caba, kaaduk xabbacoh yan wakhti massoysa. Ittal aban tashaqqubah meqem kassisâ diggi-le wakhti mayan. Nammak konoy fanah kassi-le dakika duudde abina takkem duudda.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Xabbacoh yangulleh qokolak suga.** NIA num gacsa yaceemih mango wakhti cabaanoonum kee yab ma-giraanuk sugaanoonum amaxxe. Qokolinnik naharat kassi afal taban fanah loowa.
+- **Inki tuur inki wakhtil.** Inki xabbaco le amri ceya ("Suwartal ceya"), sarrah suga. Fassirinnik aybula: ceyaan aroocal ceya.
+- **Fanti-weelo luk fantaqa.** Suwartal yabak soloonuk, tashaqqub sugelem duuda. Sissikoysaanam ma-faxximta.
+- **Wagitaanam kah caba.** NIA tut-yan mari wagitaanam kicnam warisse, kaaduk woh meqe doorita.
 
-## Should I correct wrong answers?
+## Makoo le gacsiisa makinshaa?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Malee. Num xabbaatih makinshaanam usun baaxeeniimil ken kassiisa, meqe fayda liton kay. Alzheimer's Association tu-ma-feytâ abinal ma-makininaay ma-baaxasina axcuk amaxxe. Tashaqqubal, kulli makoo tu-ma-feyta.
 
-| Instead of | Try |
+| Ta kalal | Ta taaxagiyya |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "Malee, woo xagna." | "Ta gital koboxsino." (NIA kah tacee ceelelo) |
+| "Woo inki-gurra hinna. Elle wagittaay." | Tu ma-icin kaaduk ta tuur beeta, hinnay "Aa, nammayuk qasot yanin." |
+| "Ta num aytim-kinnim kassitta?" | "Ta suwartak yoh waris." |
+| "Woo naharat abtek ten." | "Woh meqem. Akkaluy abno." |
+| "Hay, atu taamtam taaxigeh." | "Gaba-kalot kow aybulo faxxaa?" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Makoo ken boocrisam tekkek, kassik qokla. Cakkik tan suwartal ceya, tuur atu koboxsa, hinnay sarrah tan tuurul tashaqqub xabbacoysa. Qangara usul-le makoo gaba-kalot tekkek, ittal usula. Ken gaba-kalot meqem takkem duudda.
 
-## How do I make a game easier or harder?
+## Tashaqqub mannal xabbacoysaa hinnay qilsiysaa?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Tashaqqub numû saaqat wagita, derrekat ma-waginina. Inki num carra koboxsiya xabbaco leeh, carrak warrayik qilsi leem faxak raaqele. NIA naharsi amax num duuda abinal massoysaanam kee gaba-kalot geyen num akkoonum meqem warisse.
 
-| Game | Make it easier | Make it a little harder |
+| Tashaqqub | Xabbacoysa | Xabbaatih qilsiysa |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | 4 alfinit luk koboxsa kaaduk suwar tambulleh caba | Mangoh yan alfiina, hinnay suwar qellisa meqem tekkek |
+| [Find the Same](/games/find-the-same/) | 2 doorit | 4 fanah doorit |
+| [Sort Together](/games/sort-together/) | Atu suwar ibbix, usun baskaatak ceyaan | Usun suwar kee baskaat ittal ceyaan |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 exxa, naharat kulli suwartal walala | 9 exxa |
+| [Finish the Saying](/games/finish-the-saying/) | Gaba-kalot aybula, sarrah ittal ixxica | Ceyaanak naharat gaba-kalot yaanoonum kah caba |
+| [Word Search](/games/word-search/) | Waraaqatal yayyaca, inki qangara ittal gurrusan, naharsi herfel ceyaan | Sarrah guran qangara usun dooroonum kah caba |
+| [Coloring](/games/coloring/) | Atu namma koora doora, usun fanak dooraan | Kulli kooroota usun dooraan |
+| [Conversation Cards](/games/conversation-cards/) | Suwarta inkit wagita | Kaardil yan fakoo le deeqsit koboxsa |
+| [Photo Pairs](/games/photo-pairs/) | Xabbaatih dacrisan buxah suwar | Suwar mangoyisa |
+| [Picture Bingo](/games/picture-bingo/) | Qokoliyâ num kulli daabiyâ numuk garabal gaca | Daabiyan mari sinni kaardi ceyaan |
+| [Calm Breathing](/games/calm-breathing/) | Inkit dacrisak wagita | Xabbacuk fayya-wada |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Tashaqqub qilsi yakkeemih asta: kassi-hiddot boocro le soloota, "Anu ma-duuda" axcuk tabaanam, meesha derrek koraanam, hinnay xifto tacee makoota. Xabbacoh yaniik: zahan, hinnay kural-le caagid kinnim yaanoonum. Woh yekkek, kaxxa-marah ceela taamat korta, qangara gurrusan taama, suwar-le puzzel, hinnay warrayte taamâ suwartal walalaanam ceelak.
 
-## How do I turn a game into a conversation?
+## Tashaqqub mannal walalal maarsaa?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Kulli suwarta yabak koboxsoh hayya, kaaduk yaanam kullim meqe gacsiisah heela. Mango buxah marak, taamâ yayse exxa wohu.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Makoo maliino le fakoo le essaaga essera.** "Maca table?" "Ayti-miya kicnta?" "Ta ceelat tan kushiinat yoh waris."
+- **Naharat atu warisa.** "Yi akaytô baada ta ceela kare leeh ten." Ku warri ken warrooshah xabbacoyta.
+- **Yab gexsit kataata.** Makiinâ suwartak gitâ safar yamakkeek, warri kaaduk abina kinni. Tashaqqub soolaanam caba.
+- **Cakki ma-gurrusina.** Warrayte caagidil, meqe walal cakki le caagidak yayse. Warri naharsi maraat korsa yakkek, qusub gital ruffo geya.
+- **Elle tan deeqsit koboxsa.** [Finish the Saying](/games/finish-the-saying/) kulli qangarat sarrah yabâ deeqso le, kaaduk [Conversation Cards](/games/conversation-cards/) kaaduk tohonnah massoowte. [Photo Pairs](/games/photo-pairs/) ku buxah suwar koboxsa, usun mango meqe warri taceemih sabbatah.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Mango amax ni gexsit [reminiscence activities](/activities/reminiscence/) kee [communication tips](/caregiving/communication-tips/) addat tan.
 
-## When should we stop?
+## Waktiiy fanxaqo faxximtam ayti-miya?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Xifto hinnay roocih asta tublek fanxaqa, naharat xabbaatih meqe. Alzheimer's Association kassi qellisa wakhti hinnay boocro korak abina korsaanam hinnay fanxaqaanam amaxxe.
 
-Watch for:
+Tah wagita:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- anfaquq, solto kalah raaqiyya hinnay inti eskriinik kalataanam;
+- maccacuyya, soltaanam, hinnay awqum esseraanam;
+- xiico, gaba-le gacsa, hinnay "Anu ahal ma-duuda";
+- hedew-hedew axcuk ceyaanam hinnay meesha derrek koraanam;
+- ilwa, caraara, hinnay kassi-hiddot mood korsa.
 
-How to stop well:
+Meqe gital mannal fanxaqaanam:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Xabbacoh tanimil gaba-kala.** Inki gaba-kalot duudaanam, hinnay kassisâ suwartal gaba-kala.
+- **Sinam yabala.** "Shaah koob korma. Taheel solnoo?" num makoo abe axcuk makinaanam kalatta.
+- **Xagara hinnay kassi-le caagidil korta.** Xabbaatih gexsit, maaqo, sarak marso hinnay muuzika.
+- **Kassi-le qangara ixxica.** "Kok luk abem kicne." "Cakkik abte" axcuk hebelto aytikoolo maliino luk, ittal yan wakhtit ruffo geyaanam.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Xalayuk fanxaqo, gita korsa, hinnay tashaqqub cabak ittal gacaanam kullim meqe gaba-kalota.
 
-## Can we play in a group or over a video call?
+## Kuraa luk hinnay vidiyo-woltik abam duudan?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Yeey, xabbaatih massoysiyya luk. Kuraal, daggo mara luk abta, qokol mara qokla faxa marih garabal hayya, kaaduk ittal kassitan tashaqqub doora. [Picture Bingo](/games/picture-bingo/) waraaqatal tacee kaardi leeh eskriinil deeqitaanam le. [activities for care home groups](/activities/care-home-groups/) wagita.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Vidiyo-woltik, seeqot yan num suwar fassirak, karafat yan num ceyak abele. Seeqo xabbacoh kaaduk taaxigeenim hayya. Ni gexsit [phone and video calls](/activities/phone-and-video-calls/) addat mango amax le.
 
-## What if a game just isn't working?
+## Tashaqqub cakkik gexe-waak mannal abnaa?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Tohuruk ayti-waqdi tu ma-gexxa, kaaduk woh koo hinnay ken ma-makina. Tashaqqub daabaay aka saaqat doora, aka tashaqqub doora, hinnay tashaqqub caba. Mango meqe abina eskriin ma-faxa: muuzika, foota marso, suwar albom wagitaanam, hinnay xabbaatih gexsit. Ni [activity ideas](/activities/ideas/) wagita.

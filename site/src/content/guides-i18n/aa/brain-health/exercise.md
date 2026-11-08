@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Ittallat Kee Kas Caafiyat: Qilmi Yanim Kee Meqe Daaciyya"
+seoTitle: "Ittallat Kee Kas Finqit: Qilmi Yanim"
+description: "Ittallat kee kas finqit gabat gactam, kaxxa mari kee kas finqit le mara nagay daaciseenit meqe maxcooca."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Kassit qokolitte ittallat kas finqit caagid daggoysam yaallen, 2024 Lancet
+  Commission ittallat waynaamat 14 qilsi caagidik tiyak tekkem tescese. Qilmik
+  taamoomi ittallat kas finqit waasaytam inkinnah mascasinna. Kinnih immay daaciyya
+  qandhi, gano, afxaw kee xinto cato waytam taaxigen, toh kal gexsit, korsit daffeyak
+  aban ittallat kee saqbi abaanam meqe. Qusba caagid aallekal doktoruk essera.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Ittallat baaha mara kas finqit le caagid daggowtam kassisit yaallen, immay toh wagitta taamoomik yemeetem kinnuk mokkorok hinna."
+  - "Konoy liggidih mokkor kaxxa marat aben waqdi kas fidinik gexsit fantaaxaw itta luk mayan."
+  - "CDC kaxxa mara 65 liggida kee kaxxa marah yeceen baxxaqqa rooqiyya, qandhi kobox kee gano cato baaha, tu dabqi abaanam tu waytamuk aysuk raaqa."
+  - "Kas finqit le marah, uqunxa, yaaxigin, ittalluk aban daaciyya kulli ayró gexsit kee daffeyak aban daaciyya kaxxa caagid kinnuk numma taturtam celta."
+  - "Kaffi kaxxa marak gereb kulli liggida radan, toh kal gano taamoomi kee nagay nan araca naharat haytam faxxinta."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Ittallat kas finqit waasitam duudaa?"
+    a: "Numtinye toh qaxmeqe axcuk maduuda. Maggo kassit ittallat abaanam kas finqit daggoysam kee gabat tantom yaallen, immay mokkorok taama ittallat waasaytam maysaccinna. Ittallat aka meqe caafiyat fayda le, toh kal abaanam meqe."
+  - q: "Kas finqit le num ittallat abaamat nagay nan caagidaa?"
+    a: "Yeceeni, meqe qokol luk. National Institute on Aging qusba mala tayyaaqukal atu dacarsitta numuk doktoruk essertaamal yaallen, kabooxa meqem hayyaasa, lee yecee, uqunxa wakte hayyaasa. Num gafow, gano waytam kee biyaakiteemik solisa."
+  - q: "Korsit daffeyak aban ittallat manna kinnii?"
+    a: "Daffeyak aban ittallat korsit gaba fidin, korsit yoga, baloon kee lafa kubba caxba, soos can kobox, lastik fidin kee baadala kobox takke. Taamah gexsit qansaruk yan waqdi meqe dooqaysi kinni."
+  - q: "Atu dacarsitta num daacom waytek mannal abnaa?"
+    a: "Madiidisina. Aka wakti qimbisa, atu inkih luk koboxisa, yaaxigin heewela koboxisa, hido taama fanah gaca ceelallo garo haadam kee caxoota lee oobisiyya. Postak koboxuh uqunxah gexaanam meqe, dibuk dariifat daffeyaanam faxek meqem kinni."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Ittallat abaanam kas caafiyat qilmik maggo kassi aben tiya kinni. Kassit ittallat kas finqit daggoysam yaallen, kinnih immay ittallat kas finqit waasaytam inkinnah mascasinna. Baxxaqqam daaciyya qandhi, gano, afxaw kee xinto kulli liggidat cato waytam kinni. Ta maxcat qilmik taama yanim, kaxxa mara manna ittallat faxximtam, kee kas finqit le mara luk sabbatah daaciseenit meqe maxcooca baxxaqqa heele.
 
-## Does exercise lower the risk of dementia?
+## Ittallat kas finqit qilsi daggoysaa?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Qilmi ittallat le mari kas finqit geyaanam daggoysam yaallen, kinnih immay sumaq baxxaqqa male. [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) ittallat waynaamat 14 qilsi caagidik tiyak tekke axcuk tescese. Ta 14 caagid addunyaat kas finqitik 45% celtaamal kassit yaallen.
 
-Here is what the evidence looks like:
+Sumaq iyyaamal baxxaqqi taamal celta:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Wagitto kassit inki gexsit tascese.** 58 kassi wagitte Commission, ittallat baaha mari 20% daggo kas finqit geyaanam geyte. Kaxxa fantaaxaw ittallat inkinnah abe wayya hayya mara kee daggo daaciyya aba marih fantaaxaw kinni.
+- **Gabat tantom namma gexsit takkem duudda.** Commission ittallat waynam qilsi kaxxa heele axcuk tescese. Toh kal kas finqit naharsi gexsit kas xagana bayissaamat num ittallat waynam celta.
+- **Mokkorok sumaq baxxaqqa male.** Inki mokkorot, 945 kaxxa mara 78 liggida le marat konoy liggida kulli saqati namma ayti ittallat abaanam hido kalah tan gexsit yuskuuben. Qaran gexsitit, kas fidin fantaaxaw namma buxah fantaaxawit mayan. Maggo mari aka buxat yaniinih ittallat aben, toh gexsit yab yab yacee.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) baxxaqqah heele. Ittallat kee Alzheimer waasaytam fantaaxaw mascasinna, ittallat kas finqit waasa hido daggoysa axcuk sumaq geytimewaa. Kinnih immay ittallat rado, qilsi, sukkari, dhiigik kaxxa caagid kee stroke daggoysa. Tama biyaakitte kas fidinih daggoyna luk gabat tanta.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Numma yab daacisa axcuk asaaku meqe afxaw kee taama kuuh yaceemih sabbata. Kas caafiyatah fayda geytam meqe xoqoofto takkem duudda, kinnih immay qaxmeqe maxco hinna.
 
-## How much activity do older adults need?
+## Kaxxa mari manna daaciyya faxaa?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) kulli saqatih sidoc daaciyya kaxxa marah yeceen:
 
-| Type | Weekly amount | Examples |
+| Aynaaba | Kulli saqatih wakti | Ceelallo |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobic | 150 daqiqa daggo daaciyya, ceelallo 30 daqiqa 5 ayró | Sissik gexsit, saqbi, leet aerobic |
+| Qandhi-kobox | 2 ayró daggo, qandhi koboxisa | Lafa qilsi hido soos can kobox, lastik fidin |
+| Gano | Kulli wakti | Koorik goli gexsit, korsik sooliyya |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Toh yaaben caagid kinnuk xinto hinna. CDC iyyaamal atu ta wakti aalle waytek, ku caafiyat kee qandhi yaceemih takke. Tu dabqi abaanam tu waytamuk aysuk raaqa.
 
-## Gentle ways to move for older adults
+## Kaxxa marah sabbatah daaciseenit meqe caraara
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Kobox luk gexa.** Kulli ayró kataysu, agarada hido gexsit mara luk gexaanam yab kee nagay nan baaha.
+- **Korsi daaciyya.** Daffeyak gaba fidin, baqol kobox, aracal gexsit kee korsi yoga gano qilsi maleeh qandhi baaha.
+- **Kusnit saqba.** Numuk kasit taniina kee qaffat sugeen heewela haada, gexsit abisa. Ni [music activities guide](/activities/music/) mala le.
+- **Buxah taamoomit qandhi.** Leet tan butul hido soos can koboxisa telefishin wagitak.
+- **Buxah dabaq kee taama.** Caxoota lee oobiyya, buxa haadam kee sara koboxisaan inkih xisibiyya le. Wagita [outdoor and gardening activities](/activities/outdoor-and-gardening/) kee [household tasks](/activities/household-tasks/).
+- **Leet daaciyya.** NIA leet aerobic daaciyya yecee, baaxot daaciyya qandhit biyaakita marah.
 
-## How to exercise with someone living with dementia
+## Kas finqit le num luk mannal daacisaana
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Kas finqit le numuk, fantiro meqem, afxaw kee ayró ayrót taama haytam kinni, lakqo maaxigan. NIA iyyaamal daaciyya Alzheimer le numuk qandhi, labha kee wadirih caafiyat meqeh haa, afxaw kee xinto cato waytam takke. Qusba caagid aallekal doktoruk essera. Mala [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) addat yaniini:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Kulli ayró ittalluk gexa.** Safeh tan, yaaxigin gexsit doora. Num dibuk gexa yekkek, bilbila numbro le id koboxisa.
+2. **Kaxxa marih daaciyya video wagitak aba.** Daffeyak hido soolak ittalluk kataya.
+3. **Uqunxa wakti hayyaasa.** Maggo uqunxa wakti inkih kaxxa waktiyak aysuk raaqa.
+4. **Heewela haada.** Yaaxigin heewela daaciyya taama hinnay afxaw hayta. Num saqba faxek saqba.
+5. **Lee kee meqe kabooxa yecee.** Daaciyya wakti kee sarrah lee hido casiir yecee, meqe sara kee meqe kabooxa hayyaasa.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Gexsit qansaruk yan waqdi, [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) daffeyak aban caagid yecee. Korsit daaciyya, yoga, lafa kubba hido baloon caxba, lastik fidin, dabqa qilsi kobox, kee baadala kobox. Buxah haadam kee qabara caleen inkih xisibiyya le.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Daaciyya abtam duudam baxxaqqah daada. Lancet Commission daaciyya numuk afxaw xinto hido qilsi daggoysa axcuk sumaq mageyinna. Ittalluk daacisa afxaw geytoonuh, kinnuk qilsi ayró kaloonuh hinna. Atu dacarsitta num malle iyyeek, meqe. Ni gersi mala [when they say no](/caregiving/when-they-say-no/) addat sarrah mannal aban yecee. Uqunxah raba hido dibuk dariifat daffeyaanam faxek meqe.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Daaciyya sarrah, deqsita [Calm Breathing](/games/calm-breathing/) namma numuk xinto cato baaha. Korsit daffeyak gaba daaciyya aboonuh, [Sort Together](/games/sort-together/) kee [Picture Bingo](/games/picture-bingo/) tawlat meqeh taamita.
 
-## Balance and fall safety
+## Gano kee radoonuk nagay nan
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Rado maggo kee kaxxa caagid. [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) kaxxa marak gereb kulli liggida radan, kinnih immay gerebik gersi kobox doktoruh mayabaana. Inki adda rada num namma adda radoonuk fantaaxaw kaxxa heele. CDC qilsi caagidik yeceem:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Riba kee xaginaat qandhi waynam
+- Gexsit kee ganot qansaru
+- Gersi daawoomi, xinto kee qilsi daawook tiya takke
+- Inti wagitta caagid
+- Riba biyaakita hido meqe kabooxah waynaamat
+- Buxat tan qilsi ceelallo caxoota, rug kee rada daada
 
-To move more safely:
+Safeh daaciseenit:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Meqe korsi intifiqa** gaba le wayte, soolak aban daaciyyah mez hido saqafe gaban luk hayyaasa.
+- **Araca koboxisa** caxoota, wayer kee buxah qilsik naharat.
+- **Sooliyya sabbatah aba**, num maraafite hido gano wayyeek solisa.
+- **Meqe kabooxa sara**, sharbaap hido gersi kabooxak kal.
+- **Gano koboxisa mez xayiik.** Korsik sooliyya kee koorik goli gexsit CDC gano caagidik yecee ceelallo kinni.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC kaxxa num radeeh amo biyaakisitek doktoruh gexaanam meqe axcuk tescese, dhiig qaffataba daawo yaaqubina yekkeenik.
 
-## Talk with a doctor
+## Doktor luk yaba
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Qusba daaciyya qimbisaanikal doktoruk essera, wadir, sombo, qandhi biyaakita, gano wayta hido kas finqit le marak aysuk raaqa. Doktor hido fysio meqe daaciyya tascasam kee daawoomi gano kalaytam wagita. Kulli rado doktoruh yaba, biyaaki male radom takkek fanna. Daaciyya wakti numuk tu biyaakisitek solisa. Koroor biyaakita, rooqiyya qansaruk yan hido kas fidin yemeetek, 112 fanah wacaysiyya.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Ta maxca kas kee baxxaqqah kinni, caafiyat doktor yab hinna. Ni [medical disclaimer](/medical-disclaimer/) wagita. Kaxxa caagidih, [what research says about dementia risk factors](/brain-health/risk-factors/) kee [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/) akriye.

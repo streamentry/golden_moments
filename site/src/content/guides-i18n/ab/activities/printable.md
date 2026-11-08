@@ -1,33 +1,28 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Адеменциа змоу рзы хәыдатәи акьыԥхьратә усқәа"
+seoTitle: "Адеменциа змоу рзы акьыԥхьратә усқәа: нбан дула"
+description: "Адеменциа змоу рзы хәыдатәи акьыԥхьратә усқәа: ажәа ԥшаара, асахьақәа ршәыргара, ацәажәаратә карточкақәеи бингои, иара убас ибзианы рыкьыԥхьразы абжьгарақәа."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments адеменциа змоу ауаа рзы хәыдатәи акьыԥхьратә усқәа аԥхьагылара рнаҭоит: нбан дула ажәа ԥшаара, асахьақәа ршәыргара, ацәажәаразы асахьатә карточкақәеи асахьатә бингои. Ахәмарра даҽа даҟьактәи аԥхьагылара шәахәаԥш, нас «Акьыԥхьра» ақәыӷәӷәага шәхы иашәырхәа. Каӷар ҵәцаҿы ицқьоу нбан дула шәакьыԥхь, даҟьак аҟны заҵәык аус шәаанкыла, даҽазахьнатәгьы шәхы иашәырхәар шәҭахыз адаҟьақәа шәырламинирла. Уадаҩрада ҩны иҟаҵоу акьыԥхьратә маҭәарқәагьы, иаҳҳәап аԥсҭазааратә даҟьа ма амшатә графикра, ицхыраагӡоуп.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Ҳахьыҟоу акьыԥхьратә усқәа хәыдоуп: Ажәа ԥшаара, Асахьақәа ршәыргара, Ацәажәаратә карточкақәа, Асахьатә бинго. Ҳарбан хәмарра даҟьагьы «Акьыԥхьра» ҳәа ақәыӷәӷәага амоуп."
+  - "Икьыԥхьтәуп ицқьоу нбан дула, иӷәӷәоу аконт раст ала, даҟьак аҟны заҵәык аус шәаанкыла."
+  - "Акаӷар ҵәца ма акартон амҩадакра мариоуп, еицәакрагьы уадаҩуп. Даҽазахьнатәгьы хы иаҭәар шәҭахыз адаҟьақәа шәырламинирла, ирласны иқәххо амаркерқәа рхы иашәырхәарц."
+  - "Ҩны иҟаҵоу акьыԥхьратә маҭәарқәа, иаҳҳәап аԥсҭазааратә даҟьа, амшатә график ма ашәқәа рзы асахьатә дыргақәа, имариоуп, ицхыраагӡоуп."
+  - "Икьыԥхьу адаҟьа агәаҳәара ауп иахьаԥхьагыло, ҩны иҟаҵатәу аус акәӡам. Хәҭак аҟаҵара ма уи аҟамҵара — зегьы бзиоуп."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Адеменциа змоу рзы шәакьыԥхьратә усқәа хәыдоума?"
+    a: "Ааи. Ари асаит аҟны иҟоу Ажәа ԥшаара, Асахьақәа ршәыргара, Ацәажәаратә карточкақәеи Асахьатә бингои даҟьақәа хәыдоуп хы иархәареи рыкьыԥхьреи рзы. Ахәмарра адаҟьа шәаарт, нас «Акьыԥхьра» ақәыӷәӷәага шәхы иашәырхәа."
+  - q: "Адеменциа аамҭазы иарбан акьыԥхьратә усқәоу зегь раасҭа ибзиоу?"
+    a: "Зегь раасҭа ибзиоу акьыԥхьратә маҭәарқәа имариоуп, ииашоуп, иаиҳабу ауаагьы ирхәоуп: хыхь-ҵаҟеи арӷьа-армаи заҵәык ицо ажәақәа змоу нбан дула ажәа ԥшаара, ииашоу цәаҳәақәа змоу асахьақәа ршәыргара, ацәажәара иалаго асахьатә карточкақәа, насгьы гәыԥла ахәмарразы асахьатә бинго. Аусура ауаҩы игәахәтәықәеи уажәтәи иалшарақәеи инарықәыршәала, даҟьак аҟны заҵәык аус шәаанкыла."
+  - q: "Ишԥаҟасҵари акьыԥхьратә маҭәарқәа реилкаареи рхархәареи мариахарц?"
+    a: "Ицқьоу нбан дула, ишкәакәоу ма ашәыршәатә каӷар аҟны еиқәоу сиаҳала шәакьыԥхь, иара убас аҭыԥ рацәаны иаанрыжь. Адаҟьа ласы иҵәцахаратәы акаӷар ҵәца ма акартон аҟны шәакьыԥхь, аԥшаҳәара аԥырхага акамзарц азы аматови каӷар шәалышәх, адаҟьа ҵәцаны иҟазарц азы планшет ма имамҵуа аԥсҭа шәхы иашәырхәа. Аламинирра адаҟьақәа раамҭа ахьчоит."
+  - q: "Ахылаԥшратә ҩны ма амшатә программа азы шәусқәа ҭыскьыԥхьыр ҟалома?"
+    a: "Ааи. Аусура мҩаԥызго аколлектив ҳадаҟьақәа нхоцәеи агәыԥқәеи рзы ирҭыкьыԥхьыр ҟалоит. Асахьатә бинго агәыԥқәа рзы иаԥҵоуп, телевизорла ма проекторла идырбар ҟало аекрантә ԥхьаҩгьы ацынҵоуп."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +47,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Зны-зны зегь раасҭа ибзиоу усуроуп астол аҟны каӷар бӷьыци каламки. Акьыԥхьратә маҭәарқәа батареиа аҭагалара, пароль, ма екран рҭахӡом, урҭ аҭаараан ма агәыԥ ахь иаагара мариоуп. Ари адаҟьа аҟны иҳәоуп ҳасаит аҟны иҟоу хәыдатәи акьыԥхьратә усқәа рзы, рыкьыԥхьра ишԥаҟаҵатәу реилкаареи рамҩадакреи мариахарц азы, иара убас аҭаацәеи аус зуа ауааи рзы ацхыраара ҟазҵо ҩны иҟаҵатәу мариақәак рзы.
 
-## What free printable activities do you offer?
+## Иарбан хәыдатәи акьыԥхьратә усқәоу шәара иҳашәҭо?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Ҳара хәыдатәи ԥшь-усктәи акьыԥхьра шәзааҳартоит. Ари ахәмарратә даҟьақәа шәрылала, нас акьыԥхьразы ииашоу авариант аиуразы **Акьыԥхьра** ақәыӷәӷәага шәхы иашәырхәа.
 
-| Printable | What it is | Good for |
+| Акьыԥхьратә ус | Иарбан маҭәароу | Ииашоуп |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Хыхь-ҵаҟеи арӷьа-армаи заҵәык ицо ажәақәа змоу нбан дула ажәа ԥшаара | Каламла ҭынч аамҭа арҭбаара; кроссвордқәа бзиа избоз ауаҩы изы |
+| [Coloring](/games/coloring/) | Акьыԥхьразы ма аекран аҟны ашәшьыразы асахьақәа | Агәыҭынчра, аԥҵара аамҭа; ацхыраара ацыз ҳарбан ҩаӡарагьы аҟны |
+| [Conversation Cards](/games/conversation-cards/) | Темала атест аԥҟарақәа змам, ацәажәара иалагарц азы асахьатә карточкақәа | Аҭаацәареи, аҭел аҵәажәареи, аҭаацәара афатәи, агәалашәарақәа ргәыԥқәеи рзы |
+| [Picture Bingo](/games/picture-bingo/) | Ахыԥхьаӡарақәа рацымҵарада асахьақәа змоу абинго карточкақәеи аекрантә ԥхьаҩи | Ахылаԥшратә ҩнқәа, амшатә программақәа, аҭаацәара аизгарақәа |
 
 ### Large-print word search
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) нбан дуқәа амоуп, ажәақәа хыхь-ҵаҟеи арӷьа-армаи заҵәык ицоит, диагоналла ма ԥхьаҟа-шьҭахь ицо ажәақәа рыда. Еицышәусула: уаҩык асиа аҟынтә ажәа аԥхьоит, даҽаӡәи уи иԥшаауеит. Ажәақәа рыԥшаара уадаҩхар, еицышәҵа ажәа аԥхьатәи анбан агәылгара, ма заҵәык асиа бжьыҭины аԥхьареи ажәақәа рзы ацәажәареи.
 
 ### Coloring pages
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Coloring](/games/coloring/) адаҟьақәа фломастерла ма акарандашқәала аршәшьыразы иҭыкьыԥхьыр ҟалоит, ма планшет аҟны аекран шәақәыӷәӷәо асахьа ахәҭа шәыршәыр ҟалоит. Икьыԥхьу адаҟьақәа рзы фломастер ҵәцақәеи цәаҳәа шамахарк аԥхьагалатәуп. Асахьақәа ршәшьыра иаиҳабу ауаа ирхәоуп агәыҭынчрагьы амоуп ҳәа аанарԥшырц азы ҳара [арҿиареи аҟазареи рзы анапхгара](/activities/arts-and-crafts/) шәахәаԥш.
 
 ### Conversation cards
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) ииашоу асахьеи аартту агәаԥхареи еиднакылоит, иаҳҳәап «Сара уи сзеиҭашәҳәа...» ма «Ишәбозеи шәара?». Урҭ атесттә зҵаарақәа реиԥш акәымкәа, аартту агәаҳәара ауп иахьаԥхьагыло. Аизга шәакьыԥхь, шәаԥҟа, нас аҭаарақәа рзы ачынтаҿы ма аҭел азателеграм аҵәажәарақәа рзы аҭел азааигәара кьацк шәаанрыжь. Урҭ [агәалашәарақәа](/activities/reminiscence/) ргәыԥқәа рҿыгьы бзианы аус руеит.
 
 ### Picture bingo cards
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Picture Bingo](/games/picture-bingo/) карточкақәа ахыԥхьаӡарақәа рацымҵарада асахьақәа рхы иадырхәоит. Хәмарҩыцыԥхьаӡа карточкак шәакьыԥхь, ноутбук, телевизор ма проектор аҟны аекрантә ԥхьаҩ шәхы иашәырхәа. Ҳара ҳабжьгоит зегьы ркарточка харҭәааӡа аԥхьара, уаҩык дылӡырҵы акамзарц. Аусмҩаԥгатә амҩаԥгашьа азы [ахылаԥшратә ҩнқәа рзы агәыԥтә усқәа](/activities/care-home-groups/) шәахәаԥш.
 
 ## How do I print activities so they are easy to use?
 
-Small changes in how you print make a big difference.
+Акьыԥхьраҿы аԥсахра хәыҷқәа дуу аиԥшымзаара аԥҵоит.
 
 ### Make it easy to see
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Ицқьоу нбан дула.** Адаҟьа иашьашәало зегь раасҭа идуу анбан шәхы иашәырхәа. Иуадаҩу ма амаҭәар каллиграфиатә шрифтқәа шәрацәахьаԥшлан.
+- **Иӷәӷәоу аконт раст.** Ишкәакәоу ма ашәыршәатә каӷар аҟны еиқәоу сиаҳала. Илашоу ахьаца ма аԥшшәы змоу аҵаҟатәи аҭыԥқәа шәриашалан.
+- **Аматови каӷар** иӷәӷәоу алашара аҵаҟа аԥшаҳәара аԥырхага акамзаара ицхыраауеит.
+- **Ачкиқәеи алашареи шәргәаҭала.** Alzheimer's Association иазгәанаҭоит ацәажәараан аблақәеи алеибареи ргәаҭара зны-зны аҵабыргтә уадаҩрақәа шаԥҵо, убри аҟнытә урҭ раамҭа-аамҭала ргара шәахьаԥш ҳәа абжьгара ҟанаҵоит. Иара убас илашоу, ииашоу алампагьы ацхыраара ҟанаҵоит.
 
 ### Make it easy to hold
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Акаӷар ҵәца ма акартон** иҵәцаны иаанхоит, амҩадакра мариоуп, даҽазахьнатәгьы ахархәара ацәаҳәа иацклаԥшуеит.
+- **Апланшет** ма имамҵуа аԥсҭа адаҟьа амцара ахьчоит.
+- **Афломастер ҵәцақәа ма акарандаш ҵәцақәа** амҩадакра мариоуп акалам лашақәа раасҭа.
 
 ### Make it reusable
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Адаҟьақәа шәырламинирла** ма ииашоу афаилқәа рахь шәырҭагала. Ажәа ԥшаареи абинго карточкақәеи рҟны ласы иқәххо амаркерқәа шәрылала, нас ацқьара шәырҭа.
+- **Аматови ҭыԥқәа шәалышәх** аԥшаҳәара шәырԥырхагамзарц, иара убас амҩадакра мариахарц азы аламинирра зму акарточкақәа **рыкәакьқәа шәырхьеила**.
+- **Апапка шәаанрыжьла** бзиа ижәбо адаҟьақәа рзы, есымчыбжь адаҟьа заҵәык кьыԥхьра иаԥҟамзарц.
 
 ### Keep it simple
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Даҟьак аҟны заҵәык аус.** Заҵәык ажәа ԥшаара ма заҵәык асахьа, адизаин аҟны иеилаҵоу акыр уск рцымҵарада.
+- **Ирацәоу аҭыԥ цқьа.** Еилаҵоу адаҟьа уадаҩхоит.
+- **Иалшозар аԥхьаразы анапхгарақәа шәанымҵлан.** Уи ацымҵарада, ауаҩы иҟаҵатәу шәирба.
+- **Адаҟьақәа шәырхәыҷла.** Зегь адаҟьа рацәахар, абжа шәаԥҟа ма хәҭак заҵәык убарц аҵашәырҵа.
 
 ## Other useful printables you can make at home
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Ацхыраагӡоу акьыԥхьратә маҭәарқәа зегь хәмарра акәӡам. Урҭ тексттә редакторлеи принтерлеи ҩны иҟаҵара мариоуп.
 
 ### A life-story page
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Адаҟьа заҵәык аҟны «сара сызкны» аинформациа афото ацыҵаны, ауаҩы иҽзиҳәо ахьӡ, дахьизҳазгьы, иусура, аҭаацәара, бзиа избо афатә, амузика, иара убас дзыргәыӷуа ма игәы зыркаԥхо ахәҭақәа. Dementia Australia аҭааҩцәеи ахылаԥшцәеи ирцхыраарц, ацәажәарагьы иалагарц азы ауаҩы иԥсҭазаара, игәахәтәықәа, ихымԥадатәи ауаа рзы агәалашәара змоу [агәалашәаратә шәҟәы](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) абжьгара ҟанаҵоит.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Уи хаҭала ахәышәтәырҭақәеи ҿыцу ахылаԥшратә ҭыԥқәеи рҿы аҵанакуеит. NIA ахәышәтәырҭа аусзуцәа рзы ауаҩы играфик, бзиа избо ахьӡ, игәахәтәықәеи изгәамҵуеи, агәкаԥхара ахҟьақәа, агәаӷьра иахҳәаауа адыргақәа зну [хаҭалатәи аинформациа бӷьыц](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) арҭара абжьгара ҟанаҵоит.
 
 ### A daily schedule
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Идуу, имариоу амшатә график аамҭа, ажәа кьаҿқәа, хәҭацыԥхьаӡа асахьа хәыҷы ацыҵаны: ашамаҭныфатә, амҩасуа, агәылфатә, аԥсшьара, амузика, ахәылбзыфатә. Alzheimer's Association [есымшатәи ахылаԥшра аплан](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) аҟны ауаҩы изы зегь раасҭа ибзиоу амшатә аамҭақәа рхархәара, аԥшыреи ацәареи ррежим, усуреи аԥсшьареи реиԥшзаара абжьгара ҟанаҵоит. Уи аблақәа рыҩаӡараҿы шәадишәкыла, ахьӡырҭа аҟны иҟазар ҟалоит, аԥсахрақәа рзы аҭыԥ шәаанрыжьла. Еиҳаны аинформациазы ҳара [есымшатәи аусмҩаԥгатәқәа рзы анапхгара](/activities/daily-routine/) шәахәаԥш.
 
 ### Picture labels for rooms and drawers
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA абжьгара ҟанаҵоит илашоу адыргақәа ма имариоу асахьақәа рхархәара [асанузел, ауада, афатә ҟаҵарҭа дыргала раарԥшразы](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Убас ашкафқәеи аҭыԥқәеи рзыгьы: амаҵақәа рышкаф аҟны амаҵақәа рсахьа, ачашкәақәа рышкаф аҟны ачашкәақәа рсахьа. Шәакьыԥхь, шәырламинирла, скотчла шәадиҵа.
 
 ### A sorting set
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Имариоу ҩ-категориак рҟынтә асахьақәа, иаҳҳәап аҵәцақәеи ашәҭқәеи ма аусругақәеи афатә ҟаҵарҭатә маҭәарқәеи, акартон аҟны шәакьыԥхь. Шәаԥҟа, нас еицышәсортрла ҩ-калаҭак рахь. Ари ахәмарра аекрантә вариант [Sort Together](/games/sort-together/) ахьӡуп.
 
 ### Song lyric sheets
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Бзиа ижәбо ашәақәак ражәақәа нбан дуӡӡала шәакьыԥхь, еицышәҳәарц азы. Акыр аԥхьара зымуа ауаагьы адаҟьа рымадара бзиа ирбор ҟалоит.
 
 ### A family photo page
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Адаҟьа заҵәык аҟны ԥшьба ма фба идуу аҭаацәаратә фотосахьақәа, ҳарбан фото аҵаҟа ахьӡ ацыҵаны. Астол аҟны иаанрыжьыр ҟалоит, ҳарбан уаҩык дналагарц азы, уи ацәажәарагьы иалагарц. Адыргақәа аҭаацәеи аусзуцәеи ацәажәара иаларгара ицхыраауеит, «Дарбан уи?» ҳәа аӡәгьы изҵаара аҭахымхоит.
 
 ### A recipe card
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Бзиа ижәбо аҭаацәаратә рецепт нбан дула шәакьыԥхь. Еицышәфатә ҟашәҵа, ма аханатәи афатәқәа рзы шәацәажәала.
 
 ## How do I offer a printable without it feeling like homework?
 
-Present it as something to share, not a test.
+Еицышәзеиҩыршо уск акәны иаарԥштәуп, атест акәымкәа.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Шәара шәхала шәтәаны шәалага.** «Сара ари ажәа ԥшаара аус адызуеит. «Абахча» аԥшаара сыцхыраар шәҭахума?»
+- **Еицышәусула.** Аҭыԥ шәеимырдыз, ма уаҩык иԥшаауеит, даҽаӡәи агәылгара иҭаицоит.
+- **Ииашоуп ма ииашам ҳәа ахаан шәамҵлан.** Alzheimer's Association [ҩны аусмҩаԥгатәқәа](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) рзы анапхгара аҟны абжьгара ҟанаҵоит алҵшәа акәымкәа аус апроцесс шәазхәыцларц, аихьӡарақәа раасҭа агәахәара шәаԥхьагылаларц.
+- **Адаҟьақәа шәаанрыжьла.** Убри анапхгара абжьгара ҟанаҵоит альбомқәа, афотоальбомқәа ма ажурналқәа иахьынаӡо аҭыԥқәа рҿы раанрыжьра. Икьыԥхьу акарточкақәеи афото даҟьақәеи убас астол аҟны иаанрыжьыр ҟалоит.
+- **Шәҭахызаалак шәаанкыла.** Асахьа аршәшьыра абжа — ахәылбыс бзиоуп. Адаҟьа аанрыжьреи ачаи ажәреи убас бзиоуп.
 
 ## Where to find more
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Ҳара ҳахь иҟоу зегь [ахәмаррақәеи акьыԥхьратә маҭәарқәеи](/games/) шәахәаԥш, ма каӷарлагьы каӷардагы аидеиақәа еиҳаны рахь [ҳарбан ҩаӡарагьы азы аусмҩаԥгатәқәа](/activities/ideas/) шәрылала.

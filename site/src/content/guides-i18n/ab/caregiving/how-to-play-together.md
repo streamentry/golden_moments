@@ -1,34 +1,35 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Деменциа змоу ауаҩы дицны ахәмарра шымҩаԥгатәу"
+description: "Деменциа змоу ауаҩы дицны ахәмарра иазкыу асаркьа: аҽазыҟаҵара, аамҭа, аиашам рацәахьамгара, аманшәалара, насгьы аанкылара аамҭа."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Ахәмарра аԥышәара акәымкәа, еицырцыхцыхо аамҭаны иахәаԥш. Аҽны ҭынч аамҭа
+  алх, уада ҭынч аҿы шәаара шәақәгыл, мариа ахәмарра дузҿаԥа. Аамҭа ахәмаруа
+  ихала иазгәеиҭааит, хара змоум агхақәа руамырҭынчын, ацәгьарақәа убацыԥхьаӡа
+  ахәмарра еиҳа имариахарц ҟаҵа, асахьақәагьы ажәалахәра иалагарҭас иҟаҵа.
+  Гәыхҭыс ҭынч аманы шәаангыл. Еиҳа ихьшәамыз шәаангылазар, ма еицны
+  шәахәаԥшуазар – уи ҟалоит.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Ахықәкы агәырӷьара ауп, аҵыхәтәанинӡа анаӡара ма аҭак ларҟәқәа раура акәым."
+  - "Актәи ашьаҿа: уада ҭынч, алашара бзиа, ачкиқәеи аҳаԥшыгақәеи рнуп, ателевизор ҿыхуп, акызаҵәык ахәмарра азыҟаҵоуп."
+  - "Хара змоум агхақәа руамырҭынчын. Иҳәа: «Абас даҽазны ҳаҽазышәрыԥш» ма уи ахаҭа иацышәҵа."
+  - "Агәҩадара хацыркра аԥхьа ахәмарра еиҳа имариахарц ҟаҵа: асахьақәа имаҷны, алхрақәа имаҷны, асахьақәа аартны."
+  - "Асахьақәа ажәалахәра иалагарҭас ихәарҭоуп: «Ари ус сыззеиҭаҳәа...» ҳәа уҳәоит, «Иугәалашәома...?» ҳәа акәымкәа."
+  - "Аԥшәмареи агәҭынчымреи раԥхьатәи адыргақәа убацыԥхьаӡа шәаангыл. Еиҳа ихьшәамыз шәаангылазар, уи аихьӡара ауп."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Шьҭа, шаҟа аамҭа ҳахәмарлара акәзеи?"
+    a: "Ииашоу аамҭа ҳәа акгьы ыҟам. Рацәаҩны рзы аминуҭқәа маҷк фахәа иазхоит, шәык аҽны акыр ракәын иазхо. Асааҭ акәымкәа, ауаҩы дицклаԥш, иара ҭынч дшыҟоу шәаангыл."
+  - q: "Иахәҭоума дриаиааирц азин иҭара, ма агхақәа сымбазшәа аҟаҵара?"
+    a: "Еицырцыхцыхо, агәҭынчымра злам ахәмарраҿы аиааиреи ариаиареи ыҟам. Агха ауаҩы дирҭынчымзар, иахьа уаԥхьамкәа иааумыртынчын. Дирҭынчуазар, ҭынч уицхыраа ма уахьыхымԥшыкәа ахәмарра еиҳа имариахарц ҟаҵа."
+  - q: "Иара сара сыхәмаруа уи ахәаԥшра иҭахызарзеи?"
+    a: "Уи бзиоуп. National Institute on Aging иаҳәоит, ауаҩы ахәаԥшра еиҳа игәаԥхозар, дицклаԥшны дшыҟоу шәааигәалара шаԥсоу. Ишәбо шәалацәажәа, насгьы дызҭаххалак дахәаԥшырц ма иалхирц диаԥхьа."
+  - q: "Ари ахәмаррақәа агәалашәара аԥышәаразы иҟаҵоума?"
+    a: "Мап. Ҳара ҳахәмаррақәа агәырӷьарази ацәажәарази иҟаҵоу мариа еицырцыхцыхо усқәоуп. Урҭ агәалашәара аԥышәарақәа ракәӡам, акгьы ршәомызт, насгьы деменциа ахәшәтәыгас иҟаҵам."
+  - q: "Иарбан хәмарроу раԥхьа иалагатәу?"
+    a: "Ауаҩы иақәшәо еиҳа имариоу ахәмаррала шәалагеит. Picture Pairs ԥшь-хәҭак змоу асахьақәа аартны, ма Find the Same ҩба алхратә хәмаррақәа мариоу лагартақәоуп. Conversation Cards бзиоуп, ауаҩы ақәыӷәӷәара аасҭа ацәажәара еиҳа игәаԥхозар."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +48,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Деменциа змоу ауаҩы дицны имҩаԥысуа ахәмарра бзиа аицлабра иеиԥшӡам. Уи еиԥшуп ҩыџьа еигәылҵны итәаны, асахьақәа ирхыԥшуа, ажәаԥҵахәақәа ирччо, насгьы ирылацәажәо раԥхьа иааз уадаҩрада. Ахәмарра – уи аамҭа еицырцыхцыхразы амзыз мацароуп.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Ари ахылаԥшраҿы иарбоуп аҽазыҟаҵара шымҩаԥгатәу, ахәмарра аамҭа шьаҿа-шьаҿала шырԥсыҽтәу, акгьы «иахьа» амҩахьозар иҳәатәузеи, ахәмарра марианы ма имаҷк иуадаҩны ишҟаҵатәу, ацәажәара шԥааԥсаҭәу, насгьы аанкылара аамҭа ишдыртәу. Ари ахархәара амоуп ҳара ҳ[хәмаррақәа](/games/) рзы, убасгьы шәара ижәмоу акартақәа, апазлқәа, астолтә хәмаррақәа рзы.
 
-## What is the best way to play a game with someone who has dementia?
+## Иарбан ҟазшьоу еиҳа бзиоу деменциа змоу ауаҩы дицны ахәмарразы?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Ахықәкы агәырӷьара акәзар ауп, аихьӡарақәа ракәӡам. Абри ауп [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities) иаҳәо ахадаратә абжьгара: ауаҩы иахьа уажәраанӡа иидыруа аҵаарақәа шәхы иашәырхәа, далагеит шәицхыраа, иуадаҩу ахәҭақәа шәара шәхала шәнаӡа, насгьы хара змоум ахәмаррақәа рҿы ауаҩы дышәмумҵхын, дишәмырҭынчын.
 
-In practice that means:
+Ауаса уи иаанагоит:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Аԥхьа акәымкәа, агәашьа итәатәуп.** Еигәылҵны шәантәо, шәаҩыџьагьы аекран ма астол бзианы шәбоит, ацхыраарагьы ахылаԥшра акәымкәа, аилазаара иеиԥшхоит.
+- **Аамҭаказы акызаҵәык ахәмарра шәиҭа.** Алхра рацәа аԥышәара иеиԥшхар алшоит уи акгьы аламыркәа.
+- **Иара иҭахра шәашьҭала.** Асахьақәа рхатә риашала ирықәыӷәӷәарц рҭахызар, асахьак жәа-минуҭк иалацәажәарц рҭахызар, ма ҩ-хәҭак анаҩс раанкыларц рҭахызар – иахьа уи ауп ахәмарра.
+- **Аамҭа бзиа иахьаԥш, ахыркәшара акәымкәа.** Аччара, ажәабжь, ма ҭынч ныбжьык асааҭ шәара ишәҭаху аихьӡара ауп.
 
-## How do I set up before we start?
+## Ҳалагаанӡа шәара шәаҽазышәырхиатәузеи?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Аҽазыҟаҵаразы маҷк аамҭа анҭаххо, ахәмарра иахылҵуа агәҭынчымра рацәа аԥыркра алшоит.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Аҽны урҭ рзы еиҳа бзиоу аамҭа алхтәуп.** [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) абжьгара ҟанаҵоит ауаҩы иҽеины дшыҟоу аамҭа иақәыршәаны аусқәа рпланқра. Рацәаҩны рзы уи ашоуп. Ахәылбызы еиҳа иуадаҩуп; шәахәаԥш [ахәылбызтәи ҭынч аусқәа](/caregiving/late-day-restlessness/).
+2. **Уада ҭынч аиҿкаатәуп.** Ателевизори арадиои шәырҿых, алшара шәымазар ашәгьы шәарк. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) абжьгара ҟанаҵоит ацәажәара алаганӡа абжьы рацәеи аԥырхагақәеи рмаҷра.
+3. **Раԥхьа аманшәалара шәахәаԥш.** Аӡы ааигәа иҟазарц, атуалет ахь ацара, антәарҭа маншәала, ачкиқәеи аҳаԥшыгақәеи рнуп.
+4. **Алашара бзиа аиҿкаатәуп.** Аекран аҿы аԥхарра змам ҭынч, лаша асахьақәа рбара еиҳа имариахоит.
+5. **Шәантәанӡа ахәмарра азыҟашәҵа.** Шәарт, апараметрқәа шәалх, абжьы шәхала шәырҭынч. Анаҩс аекран урҭ рхь шәаркәата. Апланшет иазкыу абжьгарақәа шәрыԥшаар шәылшоит [апланшет ма ателефон азыҟаҵара](/caregiving/tablets-and-screens/) аҿы.
+6. **Апарат ашьҭыхга шәақәыргыл.** Апланшет ахьчага аҿы ишьҭыхны иахьыҟоу акәзар, аӡәгьы акуп дшыҟамкәа, асахьақәа рарбара еиҳа имариахоит.
 
-## How do I invite them without pressure?
+## Ишԥаҳәатәу агәҭынчымра злам ааԥхьара?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Ааԥхьара ҭынч, марианы иҟаҵатәуп, мап аҳәарагьы имариахарц. Абжьгара бзиақәа рахьтә:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Аҭагалан абаҳча иазкыу асахьақәа сԥшааит. Сыцны уахәаԥшыр уҭахума?»
+- «Ари апазл аҿы сзицхырааит? Сара исзаҟаҵом.»
+- «Иахьа ашәҭқәа урыцныҟәар уҭахума, ма аԥсаатәқәа?» (ҩ-вариантк алхра еиҳа имариоуп, аарт суал аасҭа)
+- «Уаҳәшьа лзы акарта ҟасҵоит. Иарбан ԥштәоу ари иақәшәо?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association иаҳәоит аус ахықәкы ауаҩы иззеиҭаҳәатәуп, иаҳҳәап аҩыза изы акарта аҟаҵара, избанзар амзыз аҵакы аҭоит. Ацхыраара аҳәарагьы аусуеит, ауаҩы ихы ихәарҭаны дбоит.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Мап ҳәа анрҳәо, шәақәшаҳаҭха. Аамҭа кьаҿк анаҩс даҽазны шәҽазышәрыԥш, ма даҽа ак шәырзеиҿкаа. Ҳара ҳабжьгарақәа [мап ҳәа анрҳәо ҟаҵатәу](/caregiving/when-they-say-no/) аҿы еиҳа инарҭбааны иаҳәоит.
 
-## How long should a game last, and how fast should we go?
+## Шаҟа аамҭа имҩаԥысра акәзеи ахәмарра, насгьы шаҟа иласны ҳацалароу?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Ауаҩы ихала аамҭа шьаҿа-шьаҿала иазгәеиҭааит, ахәмаррақәагьы кьаҿны ишәпланқра. Еицырцыхцыхо ахәмарразы идеалу аамҭа ҳәа акгьы ыҟам. Ҩ-минуҭк ма хә-минуҭк ҭынч ахәмарра фахәа иазхоит.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Иаабац аасҭа еиҳа шәазыԥш.** NIA абжьгара ҟанаҵоит ауаҩы аҭак аҭаразы аамҭа еиҳа иҭатәуп ҳәа, насгьы дышәмырҭынчын. Шәицхыраанӡа шәхыҿы жәабагьы шәаԥхьа.
+- **Ашьаҿа-шьаҿала.** Акызаҵәык, кьаҿны абжьгара шәиҭа («Асахьа уақәыӷәӷәа»), анаҩс шәазыԥш. Зеиҭашәҳәо аасҭа шәырба: ақәыӷәӷәаратә ҭыԥ шәарба.
+- **Аԥсыжәларақәа шәаԥырхагамхарц.** Асахьа иалацәажәарц аангылазар, ахәмарра азыԥшыр алшоит. Аццакра аҭахӡам.
+- **Дрыхәаԥшыз.** NIA иазгәанаҭоит ауаа ӡәырҩы ахәаԥшра еиҳа ргәаԥхоит, уигьы бзиоу алхроуп.
 
-## Should I correct wrong answers?
+## Агхақәа иахәҭоума раиашара?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Мап. Ауаҩы иагхақәа шәырҭынч-шәырҭынч даҽазны раиашара шәахьазаҵәык, урҭ рахьтә акгьы шырылымҩахьо ргәы иаанагоит, шәара шәгәы бзиазарцин. Alzheimer's Association абжьгара ҟанаҵоит хара змоум аусқәа шәрымырҭынчын, шәыриашамызт. Ахәмарраҿы агхақәа зегьы хара рымам.
 
-| Instead of | Try |
+| Абас акәымкәа | Абас шәаҽазышәрыԥш |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Мап, уи ииашам.» | «Ҳабас даҽазны ҳаҽазышәрыԥш.» (NIA иаҳәо аҿырԥштәы) |
+| «Уи еиқәшәаӡом. Даҽазны уахәаԥш.» | Акгьы уҳәамызт даҽа ҿак шәацала, ма «О, арҭ ҩбагьы ҟаԥшьуп.» |
+| «Иугәалашәома ари дзусҭоу?» | «Ари асахьа ус сыззеиҭаҳәа.» |
+| «Ари уажәшьҭа иуҟаҵахьаноуп.» | «Ари бзиоуп. Даҽазны ҳаҟаҵап.» |
+| «Шьҭа, уара удыруеит уи.» | «Иуҭахума аҵыхәтәа уасрбарц?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Агха ауаҩы дирҭынчымзар, ҭынч шәицхыраа. Ииашоу асахьа шәарба, шәхала шәақәыӷәӷәа, ма анаҩстәи ахәмарра еиҳа имариахарц ҟашәҵа. Ажәаԥҵахәа аҵыхәтәа иччоу гхак ала ахыркәшазар, шәычч еицны. Урҭ рхыркәшара еиҳагьы ибзиахар алшоит.
 
-## How do I make a game easier or harder?
+## Ишԥаҟаҵатәу ахәмарра еиҳа имарианы ма еиҳа имаҷны имарианы?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Ахәмарра аамҭа иақәшәаны ауаҩы излалшо ирԥсыҽтәуп, аамҭақәа рыхьӡқәа ракәӡам. Ари ауаҩы ахәылбызы ашьыжь аасҭа еиҳа имариоу ахәмарра иҭаххар алшоит. NIA раԥхьатәи абжьгара ауп аус ауаҩы иилшо иақәыршәатәуп, аихьӡарагьы дубоит ҳәа гәыӷра шәиҭатәуп.
 
-| Game | Make it easier | Make it a little harder |
+| Ахәмарра | Еиҳа имариахарц | Еиҳа имаҷны имариахарц |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | 4-хәҭак аҟынтә шәалагеит, асахьақәагьы аартны шәырызны | Еиҳа ирацәоу ахәҭақәа, ма асахьақәа шәырҵәах шәҭахызар |
+| [Find the Same](/games/find-the-same/) | 2 алхра | 4 алхра рҟынӡа |
+| [Sort Together](/games/sort-together/) | Асахьа шәара шәкуа шәааит, урҭ акалаҭ ахь иарбоит | Урҭ рыхала асахьеи акалаҭи ирықәыӷәӷәоит |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 хәҭак, раԥхьа асахьа зегьы шәалацәажәа | 9 хәҭак |
+| [Finish the Saying](/games/finish-the-saying/) | Аҵыхәтәа арбаны, анаҩс еицны иҳәатәуп | Ақәыӷәӷәара аԥхьа аҵыхәтәа рыхала ирҳәаит |
+| [Word Search](/games/word-search/) | Иҭыжәтәуп, еицны ажәа шәаԥшаатәуп, раԥхьатәи анбан шәарбатәуп | Аԥшааразы анаҩстәи ажәа рыхала иалхырц азин рыҭатәуп |
+| [Coloring](/games/coloring/) | Шәара ҩ-ԥштәык шәалхуеит, урҭ уи иалхуеит | Урҭ рыхала аԥштәқәа зегьы иалхуеит |
+| [Conversation Cards](/games/conversation-cards/) | Еицны асахьа ахәаԥшра мацара | Акарта аҟны иҟоу аарт ааԥхьарақәа шәхы иашәырхәа |
+| [Photo Pairs](/games/photo-pairs/) | Аҭаацәара ибзиаӡаны ирбо асахьақәа маҷк | Еиҳа ирацәаны асахьақәа ацҵатәуп |
+| [Picture Bingo](/games/picture-bingo/) | Хылаԥшҩык ахәмаруацәа руцыԥхьаӡа дицтәоит | Ахәмаруацәа рыхала ркартақәа ирдыргоит |
+| [Calm Breathing](/games/calm-breathing/) | Еицтәаны еицны ахәаԥшра мацара | Еицны какашәала шәырҭынчны шәашьҭыбжьра |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Ахәмарра уадаҩуп ҳәа адыргақәа: аамҭа дуӡк аангылара, агәҭынчымра зныԥшуа аԥшра, «Исзыҟаломызт» ҳәа рацәаны аҳәара, апарат ахьынӡаҟоу аҿақәыӷәӷәара, ма урҭ ирҭынчуа агхақәа. Ахәмарра имариоуп ҳәа адыргақәа: агәҩадара, ма уи ахәыҷқәа рзы ауп ҳәа рҳәоит. Ус акәзар, уи ҳаҭыр ақәшәҵа, насгьы еиҳа адуқәа ирықәшәо ахәмарра шәалаго, иаҳҳәап ажәаԥшаара, ииашоу асахьа апазл, ма урҭ раԥхьатәи русура иазкыу асахьақәа рылацәажәара.
 
-## How do I turn a game into a conversation?
+## Ахәмарра ажәалахәра шԥааԥсаҭәу?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Асахьацыԥхьаӡа ацәажәаразы ааԥхьарас шәхы иашәырхәа, урҭ ирҳәо зегьы бзиоу ҭакны шәахәаԥш. Аҭаацәарақәа рацәа рзы ари ахәмарра аҟны еиҳа ибзиоу хәҭоуп.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Агха змам, аарт асуалқәа шәрызҵаа.** «Ишәбозеи?» «Иарбан шәҭаху?» «Абри еиԥшу аҩны шәымазма, ус сыззеиҭаҳәа.»
+- **Раԥхьа шәара шәхала шәрылацәажәа.** «Снана абас еиԥшу ала лыман.» Шәара шәжәабжь урҭ ржәабжь азеиҭаҳәара еиҳа имарианаҵоит.
+- **Атема шәашьҭала.** Амашьына асахьа амҩаду иазкыу ажәабжь ахь шәнанаргазар, ажәабжь ауп уажәы аус. Ахәмарра ҭынч иаанкылатәуп.
+- **Афактқәа шәрымышьҭалан.** Агәалашәарақәа рҿы ацәажәара бзиа адеталқәа раасҭа еиҳа ихәарҭоуп. Ажәабжь аԥхьатәи аасҭа иҽаԥсазҭгьы, авариант ҿыц шәақәгәырӷьа.
+- **Ахәмарра иалоу абжьгарақәа шәхы иашәырхәа.** [Finish the Saying](/games/finish-the-saying/) ажәаԥҵахәацыԥхьаӡа ацәажәара ааԥхьара ацырҵоит, насгьы [Conversation Cards](/games/conversation-cards/) ҷыдала ари азы иҟаҵоуп. [Photo Pairs](/games/photo-pairs/) шәара шәҭаацәаратә сахьақәа рхы ианархәоит, урҭ еиҳа ибеиоу ажәабжьқәа аадырԥшуеит.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Еиҳарак аидеақәа ҳара ҳхылаԥшраҿы шәрыԥшаар шәылшоит: [агәалашәарақәа ҿыц иалагатәу аусқәа](/activities/reminiscence/) насгьы [аицәажәара иазкыу абжьгарақәа](/caregiving/communication-tips/).
 
-## When should we stop?
+## Ианбаахәҭоу ҳаангылара?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Аԥшәмареи агәҭынчымреи раԥхьатәи адыргақәа убацыԥхьаӡа, еиҳагьы бзиоуп уи аԥхьа маҷк шәаангылар. Alzheimer's Association абжьгара ҟанаҵоит ахәмарра аанкылара ма аԥсахра, агәазыҳәара анҵыхуа ма агәҭынчымра аназҳауа.
 
-Watch for:
+Шәазхәыц:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- ахылҵра, аҵәҵәаԥшра, ма аекран аҟынтә алаԥш ацара;
+- аҭынчмыра, аҩагылара, ма ацара аҭахра;
+- ахьшәашәара, кьаҿны аҭакқәа, ма «Сара исзаҟаломызт»;
+- ихыччоу ақәыӷәӷәара ма апарат шәахьынтәи аҿақәыӷәӷәара;
+- агәаареи, агәбжьыреи, ма агәаҳәара ӷәӷәала аҽаԥсахра.
 
-How to stop well:
+Ишԥаангылатәу бзианы:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Имариоу ак ала шәахыркәша.** Урҭ рхала ирҟаҵар рылшо аҵыхәтәантәи аиқәшәара, ма еицны шәахәаԥшыр шәылшо асахьа.
+- **Шәара шәхала амзыз шәҟаҵа.** «Сара чаи агәыӷьара скны сҟоуп. Ара шәаангылапма?» – уи урҭ акгьы рлымҩахьеит ҳәа гәҩарада аангылара алшоит.
+- **Ацәеижьтә ма аҭынч усқәа шәрылагеит.** Маҷк аҩныҵҟа ацара, афатә маҷк, амаҭәа аиҵарбара ма амузыка.
+- **Агәабзиара зцу ажәа шәҳәа.** «Сара уара уцын иара убас аус сырҭынчит.» «Ииашаны иҟауҵеит» ҳәа агәраргара акәымкәа, аамҭа еицны шәшырцыхцыхазгьы агәырӷьара.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Еиҳа ихьшәамыз шәаангылазар, апланқәа шәԥсахзар, ма ахәмарра шәаҟәыҵны ҭынч еигәылҵны шәантәо – арҭ зегьы бзиоу алҵшәақәоуп.
 
-## Can we play in a group or over a video call?
+## Ҳәа гәыԥла ма видеонҵамҭала ахәмарра ҟалома?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Ааи, маҷк аҽазыҟаҵара бзианы. Агәыԥ аҿы, ауаа маҷк шәымазар еиҳа бзиоуп, ацхырааҩцәа ацхыраара зҭаху зегьы рыгәҭа шәырҭа, насгьы зегьы ирызеиԥшу хықәк змоу ахәмарра шәалх. [Picture Bingo](/games/picture-bingo/) аҭыжьра зылшо акартақәеи аекран аҿы аԥхьаҩи амоуп агәыԥқәа рзы. Еиҳарак азы шәахәаԥш [ахылаԥшратә ҩнқәа рҿы агәыԥқәа рзы аусқәа](/activities/care-home-groups/).
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Авидеонҵамҭаҿы, аҿаԥхьа иҟоу ауаҩы асахьа иззеиҭеиҳәар алшоит, уадаҿы иҟоу ауаҩы асахьа ахь дхыԥшуа дақәыӷәӷәоит. Ааԥхьарақәа кьаҿны, ижәдыруа шәымаз. Ҳара [ателефонлаи авидеолаи ааԥхьарақәа](/activities/phone-and-video-calls/) ирызкыу ҳабжьгарақәа еиҳа инарҭбааны иаҳәоит.
 
-## What if a game just isn't working?
+## Ахәмарра акгьы аламҩахьозарзеи?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Шәык аҽны акгьы лымҩахыр алшоит, уи шәара ма урҭ шәагхаӡам. Ахәмарра шәаанкыланы, даҽа аамҭак азы шәҽазышәрыԥш, даҽа хәмаррак ала, ма ахәмарра дара аламҵакәа. Еиҳа бзиоу аусқәа рацәа аекран иадҳәалам: амузыка, ачаршафқәа реиҵарбара, афотоальбом ахәаԥшра, ма ҭынч ныбжьык асааҭ ацара. Еиҳарак шәаԥхьар шәылшоит ҳара [аусқәа раидеақәа](/activities/ideas/) рҿы.

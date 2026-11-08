@@ -1,31 +1,28 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Аҳашьа аԥсыҽхареи адеменциеи: ҭҵаарақәа иаҳдырбо"
+seoTitle: "Аҳашьа аԥсыҽхареи адеменциеи: ҭҵаара иаанарԥшуа"
+description: "Избан аҳашьа аԥсыҽхара адеменциа ашәарҭара иахыҵхырҭоу, иарбан ACHIEVE аҭҵаара иаанарԥшыз, иара убас аҳашьа гәаҭашьеи акоммуникациеи."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  2024 шықәсазы Lancet акомиссиа аҳашьа аԥсыҽхара адеменциа аҿиара ашәарҭара ахыҵхырҭақәа рахьтә зегь реиҳа идуқәоу ируакны иашьоит. ACHIEVE аҭҵаараҿы аҳашьа аиӷьтәга марудақәа зегь акәзар акогнитивтә ԥсыҽхара еиҵарымрхаӡеит, аха еиҳа ашәарҭара зцеиз агәыпҿы аԥсыҽхара маҷк еиҵоуп. Ус акәзаргьы, аҳашьа аиӷьтәгақәа аиҿцәажәареи есымшатәи аԥсҭазаареи еиҳа имариахарц ицхыраауеит. Шәҳашьа гәашәҭ, аҳашьа аиӷьтәгақәа шәрызхәыц, убас аҳаким дицәажәа.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet акомиссиа шазгәанаҭо ала, адунеи аҿы аҳашьа аԥсыҽхара адеменциа аҿиара 7% рҟынӡа иазхарҵоит, уи 14 факторқәа рахьтә зегь реиҳа идуу хыҵхырҭоуп."
+  - "ACHIEVE аҭҵаараҿы иалахәыз 977-ҩык ақәрахь инеихьоу ауаа рахьтә, аҳашьа аиӷьтәга марудақәа хышықәса иалагӡаны акогнитивтә ԥсыҽхара зегь акәзар иаԥсахрамӡеит."
+  - "ACHIEVE аҭҵаараҿы еиҳа ашәарҭара зцеиз агәып хәыҷы аҿы, аҳашьа аиӷьтәгақәа рхы иазырхәоз рахьтә акогнитивтә ԥсыҽхара 48% еиҳа имырццакуан; ари даҽа ҭҵаарақәа рыла ашьақәырӷәӷәара аҭахуп."
+  - "2022 шықәса жьҭаарамза инаркны, АШЬА аҿы аҳашьа маҷк ма бзианы зԥсыҽу ақәрауаа FDA азакәан инақәыршәаны рецептда аҳашьа аиӷьтәгақәа аахәара рылшоит."
+  - "2024 шықәсазы ахәшәтәра змам абала аԥсыҽхара адеменциа ашәарҭара афакторқәа рахь иацырҵеит, убри аҟнытә аблақәа рганахьала аҳаким диҭаарагьы хадароуп."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Аҳашьа аиӷьтәга марудақәа адеменциа аԥырнгылома?"
+    a: "Уи ашьақәырӷәӷәара макьана иамоуп ҳәа иуҳәом. ACHIEVE аҭҵаара хышықәса иалагӡаны акогнитивтә ԥсыҽхара аԥырнгылоит ҳәа иаанарԥшымӡеит, убри аамҭазы еиҳа ашәарҭара зцеиз агәыпҿы аҭагылазаашьа маҷк еиӷьын. Ус акәзаргьы, аҳашьа аиӷьтәгақәа рхархәара шәазхәыцра ҟалоит, избанзар урҭ аицәажәара, ашәарҭадара, есымшатәи аԥсҭазаара еиҳа имарианы имҩаԥгара ицхыраауеит."
+  - q: "Дарбан рецептда аҳашьа аиӷьтәгақәа заахәо?"
+    a: "FDA 18 шықәса зхыҵыз ақәрауаа, аҳашьа маҷк ма бзианы зԥсыҽу, аптекақәа рҿы ма интернеҭ ала рецептда аҳашьа аиӷьтәгақәа раахәара рыланажьуеит. Урҭ аҳашьа цәгьаӡаны изԥсыҽу рзы иҟаҵам. Леи хьы зцәа уаҩы, алеи аҟынтә аӡы зцо, ахы ршара змаз, ма аҳашьа цәаӷәа иԥсахаз раԥхьаӡа аҳаким диҭаароуп."
+  - q: "Аҳашьа аԥсыҽхара адеменциа еиԥшхар алшома?"
+    a: "Зны-зны алшоит. National Institute on Aging шазгәанаҭо ала, бзианы измаҳауа ақәрауаа зны-зны иахьрызмырҵахуа, ма еилкаара змам уаа еиԥш ирышьоит. Ауаҩы аҵаара дашьҭало иалагар, ма иҳәоу изеимлкаауазар, аҳашьа гәаҭара раԥхьатәи шьаҿаны иҟалоит."
+  - q: "Ақәрахь инеихьоу ауаа шаҟа ҩынтә абала гәарҭароу?"
+    a: "National Institute on Aging ишабжьанаго ала, 60 шықәса анеихылак нахыс шықәсык-ҩышықәса рҿы знык азинчра ҭбааны аблақәа гәаҭатәуп, ма абала аҳаким шиҳәо еиԥш. Асахар диабет ма ашьақәгылара ҳаракы змоу ауаа еиҳарак шықәсык аҩныҵҟа знык аҳаким диҭаароуп."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +47,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Ақәрахь инеихьоу ауаа рахьтә аҳашьа аԥсыҽхара шәалахьала иуԥыло закәуп, аҵарауаагьы уи адеменциа аҿиара ашәарҭара афакторны хадароу цәаӷәала иазхәыцуеит. Ус шакәугьы, аҳашьа аиӷьтәга марудақәа адеменциа аԥырнгылоит ҳәа ишашьақәырӷәӷәоу иуҳәом; зегь реиҳа бзианы имҩаԥгаз аҭҵаарақәа реиҩшаратә алҵшәақәа аадырԥшит. Ари адаҟьаҿы еилҳаргоит аҭҵаарақәа иаадырԥшуа, аҳашьа гәаҭашьа, АШЬА аҿы рецептда иҭиуа аҳашьа аиӷьтәгақәа зеиԥшроу, иара убас аицәажәара еиҳа имарианы иҟаҵашьа.
 
-## Why does hearing matter for brain health?
+## Избан аҳашьа ахшыӷь агәабзиаразы хадара змоу?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Аҳашьа аԥсыҽхара адеменциа аҿиара ашәарҭара еиҳарак иадҳәалоуп. [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) шазгәанаҭо ала, адунеи аҿы адеменциа ахҭысқәа 7% рҟынӡа аҳашьа аԥсыҽхара иадҳәалоуп. Уи акомиссиа амодель аҿы иарбоу 14 аԥсахра зылшо ашәарҭара факторқәа рахьтә холестерин LDL ҳаракы иеиԥшны зегь реиҳа идуу ҭыԥ ааникылоит, ари [UCL аҳасабрба ахҳәааҿы](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ишарбоу еиԥш.
 
-Key findings from the Commission:
+Акомиссиа алкаа хадақәа:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Аҳашьа аԥсыҽхара ашәарҭара еиҳауп.** Ибзиоу ф-ҭҵаарак рзеиԥш анализ ала, аҳашьа зԥсыҽу ауаа рахьтә адеменциа аҿиара ашәарҭара, инормалу аҳашьа змоу ауаа раасҭа, 37% рҟынӡа еиҳауп.
+- **Еиҳа иԥсыҽуацыԥхьаӡа, ашәарҭарагьы еиҳахоит.** Аҳашьа аԥсыҽра аҩаӡара зҭҵаауаз аҭҵаарақәа ишаадырԥшыз ала, аҳашьа шеицәахоз еиԥш ашәарҭарагьы иазҳауан.
+- **Иҟалап зыхҟьо, аха макьана ишьақәырӷәӷәаӡам.** Урҭ рахь иаҵанакуеит ахалара, аҵаара, адепрессиа, ахшыӷь астимулиациа маҷхара, убас аӡырҩразы ахшыӷь еиҳа амч шаҭаху.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Аҳашьа аԥсыҽхара ақәрауаа рахьтә шәалахьала иуԥылоит. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) ишаҳәо ала, ақәрахь инеихьоу ауаа рхынтәи ахәҭа инареиҳаны аҳашьа аԥсыҽхара рымоуп, ақәра цацыԥхьаӡагьы уи алшара еиҳахоит.
 
-## What did the ACHIEVE hearing aid trial find?
+## Иарбан алҵшәақәа аанарԥшызеи ACHIEVE аҳашьа аиӷьтәга марудақәа рҭҵаара?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE акәын аҳашьа аиӷьтәгақәеи акогнитивтә ԥсыҽхареи ирызку раԥхьатәи арандомизациа змаз аҭҵаара. Убри алҵшәақәа лассы-лассы ииашамкәа ирылаҳәоит, убри аҟнытә [иҭыжьу аҭҵаара аҳасабрбаҿы](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) иарбоу аҵабырг шәаҳарԥшып.
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Дарбанқәоу иалахәыз:** АШЬА аҿы 70 инаркны 84 шықәса зхыҵуаз, аҳашьа аԥсыҽхара змаз, аха ахшыӷь аԥхасҭа цәгьа змамыз 977-ҩык ақәрауаа.
+- **Изеиԥшрази аиҿырԥшра:** Бжак аҳашьа аиӷьтәга марудақәеи аудиолог дицны асессиақәеи ранашьан. Даҽа бжак ақәра бзиа аиҿкаара иазку агәабзиара аҵара апрограмма иалалеит.
+- **Ихадоу алҵшәа:** Хышықәса рышьҭахь, аҩ-гәыпк рыбжьара акогнитивтә ԥсыҽхара аганахьала зегь акәзар **акгьы аиԥшымзаара** ыҟамызт.
+- **Агәып хәыҷы алҵшәа:** Аҭҵаара ҩ-хыҵхырҭак рҟынтә ауаа еизнагеит. 238-ҩык ауаа агәы агәабзиара иазку аҭҵаара ду (ARIC) рҟынтә ааит, урҭ акогнитивтә ԥсыҽхара ашәарҭара еиҳа ирыцуан. Ари агәыпҿы аҳашьа аиӷьтәга марудақәа рхархәарала аԥсыҽхара **48% еиҳа имцәашәан**. Аха 739-ҩык агәабзиара змаз ауаа рахьтә иалкаау ԥсахрада иаанхеит.
 
-How to read this honestly:
+Ари ииашаны аҵаара шаҭаху:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Зеиԥш алҵшәа акгьы аԥсахра ыҟамызт.
+- Агәып хәыҷы алҵшәа раԥхьаӡа иазгәаҭан, аха уи агәып хәыҷы анаҩстәи анализ аҟынтә иааит. Уи даҽа ҭҵаарақәа рыла ашьақәырӷәӷәара аҭахуп.
+- Алахәцәа иарбан программа ишалахәыз рдыруан, уи алҵшәақәа ирныршар алшоит.
+- Lancet акомиссиа шазгәанаҭо ала, аҳашьа аиӷьтәгақәа еиҳарак ирцхыраауеит аҳашьа аԥсыҽхара адагьы даҽа деменциа факторқәа змоу ауаа.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Ихадоу хабарны иҟоуп аҳашьа аиӷьтәгақәа адеменциа аԥырнгылоит ҳәа ишашьақәырӷәӷәам. Аха урҭ ауаа ибзианы рыҳашьа, аицәажәарақәа ирылахәхарц, убас еснагь аҿцәажәараҿы иҟазарц ирыцхыраауеит, убри азын урҭ шәазхәыцра ҟалоит.
 
-## How do I know if hearing should be checked?
+## Ишԥазеилкааша аҳашьа гәаҭатәузар?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA аҳаким диҭаара шәабжьанагоит шәара ма шәхылаԥшра иҟоу ауаҩы:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Ателефон ала ацәажәара аилкаара дацәгьозар
+- Ҩ-ҩык ма уи аҵкыс еиҳа ауаа рацәажәара аналало аилкаара дацәгьозар
+- Лассы-лассы «иҳәах» ҳәа дҳәозар
+- Ателевизор бжьы цәаӷәала иахаирҭәозар, егьырҭ акьыс рымазаргьы
+- Алашара даҽа бжьык иацузар ацәажәара аилкаара дацәгьозар
+- Егьырҭ ауаа маҷк рҵәыцәуа еиԥш ибибазар
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Раԥхьаӡа аҭаацәаратә ҳаким диҭаатәуп, иара аудиолог (аҳашьа аспециалист) ма лор-ҳаким дихьар алшоит. Алеи асерра ҟалазар, уи аҳашьа аԥсыҽхара лассы иахҟьо цәырҵроуп, аҳакимгьы уи марианы деилкаауеит. **Аҳашьа цәаӷәа акаҵара уадаҩра дууп**, NIA уаҳа амш мырҵыскәа аҳаким диҭаара шәабжьанагоит.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Аҳашьа аԥсыҽхара зны-зны ахшыӷь аԥсахра еиԥш ирышьоит. NIA шазгәанаҭо ала, бзианы измаҳауа ақәрауаа лассы-лассы иахьрызмырҵахуа, ма еилкаара змам уаа еиԥш хара имҩаԥыргоит. Шәара бзиа шәибо ауаҩы аҵаара дашьҭало иалагар, ма иҳәоу изеимлкаауазар, аҳашьа гәаҭара раԥхьатәи шьаҿаны иҟалоит.
 
-## What are over-the-counter hearing aids?
+## Иарбанқәоу рецептда аҳашьа аиӷьтәгақәа?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+2022 шықәса жьҭаарамза 17 инаркны [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) рецептда (OTC) аҳашьа аиӷьтәгақәа раахәара азин анаҭеит. Рецептла иҭиуа аиӷьтәгақәеи урҭи реиԥшымзаара абас еиԥш иҟоуп:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Аҷыдарақәа | Рецептда иҭиуа (OTC) | Рецептла иҭиуа |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Дарбан изыҟоу | 18 шықәса зхыҵыз, аҳашьа маҷк ма бзианы зԥсыҽу ақәрауаа | Зегь аҳашьа аԥсыҽхара ҩаӡарақәа, шәара шәқәра шаҟазаалакгьы |
+| Иахьаахәо | Аԥтекақәа рҿы ма интернеҭ ала, аҳаким ихәаԥшра ма рецепт ада | Азин змоу аҳашьа аспециалист иҟынтә |
+| Аиҿкаара | Шәара шәхаҭа шәиашоит, еиҳарак ателефон аҭаҵарак ала | Аспециалист шәҳашьа инақәыршәаны ииашоит |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA шаҳәо ала, OTC аиӷьтәгақәа аҳашьа цәгьаӡаны изԥсыҽу рзы иҟаҵам. Шәара убри аахәара шәазхәыцаанӡа аҳаким, еиҳарак лор-ҳаким, диҭаара шәабжьанагоит шәара шәахьы:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Алеи ахьбара ма аҭацәара
+- Алеи аҟынтә аӡы, ахьеи ма ашьа цыз аҵыхәтәантәи фымз рыҩныҵҟа
+- Аҳашьа цәаӷәа ма уадаҩла аԥсахра
+- Ак леи еиҳа бзиамызт, ма ак леи заҵәык аҟны бжьык ҭазар
+- Ахы ршара ма агәраҵара
+- Алеи аҿы асерра рацәаны иҟазар
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Аҳашьа аиӷьтәгақәа раламҩашьара аамҭа аҭахуп, убри азы FDA шаҳәо ала, шәаахәаанӡа адевайс архынҳәра аԥҟарақәа шәрызхәыц. NIA иара убас шәгәабзиара астраховка уи ахәҭак ахьыҵәахуазар азҵаара шәабжьанагоит. Адеменциа змоу ауаҩы изы, аудиолог есымша ахархәаразы еиҳа имариахо аиӷьтәга ахкы алхра дицхыраар алшоит.
 
-## How can I talk more easily with someone who has hearing loss?
+## Ишԥалшо еиҳа имарианы аҳашьа зԥсыҽу ауаҩы дицәажәара?
 
-The NIA suggests:
+NIA иабжьанагоит:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Ауаҩы ихы шәирханы дихәаԥшла, шәлақәа еиҿырганы**, ибзиоу алашараҿы, шәлепҳақәеи шәхаҿра аҷыдарақәеи ибарц азы.
+2. **Аҭынч ҭыԥ шәыԥшаа.** Ателевизор шәаҿы ма егьырҭ абжьы дуқәа шәрацәахьаҵ.
+3. **Еиҳа бжьы ҳаракыла шәцәажәа, аха шәымҩыццын.** Ҵабыргла, имарианы, шәаамҭа ала шәцәажәа.
+4. **Шәаҟәра аартны шәымазааит.** Шәцәажәацыԥхьаӡа шәымфан, жьмыжәла шәымхәын, шәаҟәрагьы шәнапала шәымкӀын.
+5. **«Еиҭаҳәа» аҵкыс даҽакала шәҳәа** ауаҩы акәак иеимлкаазар.
+6. **Знык ауаҩык дицәажәала.** Гәып дук шәыбжьара иҟазар, убри ауаҩы аицәажәара дшалахәу шәазхәыц.
+7. **Шәчҳала, иара убас ишԥашәылшо шәицхраара азҵаала.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Арҭ абжьгарақәа бзианы иацхраауеит ҳара ҳ-[адеменциа зду ауаа рацәажәара агәабзиаратә бжьгарақәа](/caregiving/communication-tips/). Асахьақәа змоу аусқәагьы аӡырҩра амч ахықәыргоит. [Picture Pairs](/games/picture-pairs/) убас [Conversation Cards](/games/conversation-cards/) ишәбо ала аус руеит, [Finish the Saying](/games/finish-the-saying/) аҵыхәтәа аҳәара аҵкыс аарԥшра алшара анаҭоит. Ателефонла ацәажәаразы, ҳара ҳ-[телефонлаи видеолаи ацәажәара](/activities/phone-and-video-calls/) шәахәаԥш.
 
-## Vision matters too
+## Абалагьы хадара ду амоуп
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024 шықәсазы Lancet акомиссиа ахәшәтәра змам абала аԥсыҽхара даҽа шәарҭара факторны иацырҵеит. UCL аҳасабрба ала, уи адеменциа ахҭысқәа 2% рҟынӡа иадҳәалоуп, акомиссиагьы абала агәаҭареи ахәшәтәреи зегьы ироурц азы абжьгара ҟанаҵоит. [NIA абжьгара ҟанаҵоит](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) 60 шықәса анеихылак нахыс шықәсык-ҩышықәса рҿы знык азинчра ҭбааны аблақәа гәаҭатәуп, ахьеилаҳәагақәа ргәаҭарагьы налаҵаны. Абала маҷк аԥсахрақәа мацарагьы ауаҩы акаҳаара ашәарҭара иазырҳаит.
 
-## Talk with a doctor
+## Аҳаким дицәажәа
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Аҳашьеи абалеи рганахьала аҳаким дизҵаа, хыхь иарбоу адыргақәа ԥшәырбазҭгьы. Аҳашьа цәаӷәа акаҵара, алеи ахьбара, ма алеи аҟынтә аӡы ацара анеилалак аҳаким диҭаара амш мырҵыскәа иҟашәҵа. Адеменциа змоу ауаҩы шәихылаԥшуазар, иҳашьеи ибалеи рыԥсахрақәа рганахьала аҳаким иеиҳәа, урҭ агәаҵанаара, ашәарҭадара, убас ауаа рыбжьара дшало аҭагылазаашьа ианыршар алшоит.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Ари адаҟьа зеиԥш дырра мацароуп, медицинатә бжьгарам. Ҳара ҳ-[медицинатә гәаҭага](/medical-disclaimer/) шәахәаԥш. Убас [асоциалтә еимадареи ахшыӷь агәабзиареи](/brain-health/social-connection/) рганахьала еиҳаны шәаԥхьа.

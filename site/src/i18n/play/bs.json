@@ -1,0 +1,780 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Čitajte naglas",
+      "stopReading": "Zaustavite čitanje",
+      "region": "Igra",
+      "restart": "Krenite ispočetka",
+      "soundOn": "Blagi zvukovi uključeni",
+      "soundOff": "Blagi zvukovi isključeni",
+      "done": "Dosta za sada",
+      "feedbackQuestion": "Da li je ovo danas pomoglo?",
+      "feedbackYes": "Da",
+      "feedbackNo": "Nije baš",
+      "feedbackThanks": "Hvala vam što ste nam rekli."
+    },
+    "tile": {
+      "named": "{name}, pločica {n}",
+      "hidden": "Skrivena slika, pločica {n}",
+      "withState": "{label}, {state}",
+      "matched": "Pronađen par",
+      "selected": "Odabrano",
+      "picture": "Slika",
+      "photoNumber": "Fotografija {n}"
+    },
+    "pairs": {
+      "allTogether": "Svi parovi su spojeni. Igrajte ponovo ili napravite pauzu.",
+      "photoPair": "Par fotografija, zajedno.",
+      "picturePair": "Dvije slike: {name|lower}, zajedno.",
+      "selected": "{name}. Sada pronađite par.",
+      "mismatch": "Samo polako. Dodirnite sliku za nastavak.",
+      "mismatchNamed": "{a} i {b}. Samo polako. Dodirnite sliku za nastavak."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Dodirnite jednu sliku, a zatim onu koja joj odgovara.",
+      "guidanceHidden": "Dodirnite dvije pločice da ih okrenete. Potražite dvije iste.",
+      "restart": "Nove slike",
+      "sizeLegend": "Koliko pločica",
+      "size": {
+        "one": "{n} pločica",
+        "few": "{n} pločice",
+        "other": "{n} pločica"
+      },
+      "viewLegend": "Kako igrati",
+      "viewShowing": "Prikazane slike",
+      "viewHidden": "Skrivene slike",
+      "playAgain": "Igrajte ponovo s novim slikama",
+      "talk": "Razgovarajte o slikama zajedno"
+    },
+    "choose": {
+      "countLegend": "Koliko slika",
+      "count": "{n} za odabir",
+      "thatOne": "To je {name|lower}. Samo polako."
+    },
+    "findTheSame": {
+      "guidance": "Pogledajte sliku na vrhu. Dodirnite istu takvu ispod.",
+      "yes": "Tako je, to je {name|lower}.",
+      "next": "Sljedeća slika"
+    },
+    "shadowMatch": {
+      "guidance": "Pogledajte sjenu na vrhu. Dodirnite sliku koja je stvara.",
+      "yes": "Tako je, {name|lower} stvara tu sjenu.",
+      "next": "Sljedeća sjena",
+      "shadowAlt": "Sjena za spajanje",
+      "foundAlt": "Sjena: {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Dodirnite sliku, a zatim korpu u koju pripada.",
+      "restart": "Nove slike",
+      "themeLegend": "Tema",
+      "selected": "{name}. Sada dodirnite korpu u koju ide.",
+      "pickFirst": "Prvo dodirnite sliku, a zatim korpu.",
+      "hint": "The {name|lower} could go in \"{basket}\". Tap that basket to put it there.",
+      "placed": "The {name|lower} is in \"{basket}\".",
+      "sorted": "Sve je razvrstano. Pregledajte korpe zajedno ili isprobajte drugu temu.",
+      "basket": {
+        "one": "Korpa {basket}, unutra je {count} slika",
+        "few": "Korpa {basket}, unutra su {count} slike",
+        "other": "Korpa {basket}, unutra je {count} slika"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Dodirnite jedan dio, a zatim drugi. Zamijenit će mjesta.",
+      "restart": "Izmiješajte ponovo",
+      "pictureLegend": "Slika",
+      "pictures": {
+        "sailboat": "Jedrilica",
+        "house": "Kuća",
+        "balloon": "Balon",
+        "sunflower": "Suncokret",
+        "lighthouse": "Svjetionik",
+        "cat": "Mačka"
+      },
+      "sizeLegend": "Dijelovi",
+      "size": {
+        "one": "{n} dio",
+        "few": "{n} dijela",
+        "other": "{n} dijelova"
+      },
+      "pickedUp": "Dio je odabran. Sada dodirnite mjesto gdje treba ići.",
+      "whole": "The {name|lower} is whole again. Choose another picture whenever you like.",
+      "swapped": {
+        "one": "Zamijenjeno. {correct} od {total} dijelova je na svom mjestu.",
+        "few": "Zamijenjeno. {correct} od {total} dijelova su na svom mjestu.",
+        "other": "Zamijenjeno. {correct} od {total} dijelova je na svom mjestu."
+      },
+      "guideAlt": "Cijela slika: {name}",
+      "guideText": "Ovako slika izgleda kada je cijela.",
+      "piece": "Dio: {place}",
+      "pieceInPlace": ", na pravom mjestu",
+      "piecePickedUp": ", odabran",
+      "places4": [
+        "gore lijevo",
+        "gore desno",
+        "dolje lijevo",
+        "dolje desno"
+      ],
+      "places9": [
+        "gore lijevo",
+        "gore u sredini",
+        "gore desno",
+        "sredina lijevo",
+        "u sredini",
+        "sredina desno",
+        "dolje lijevo",
+        "dolje u sredini",
+        "dolje desno"
+      ],
+      "done": "Slika je ponovo cijela. Igrajte ponovo ili napravite pauzu.",
+      "playAgain": "Izmiješajte ponovo"
+    },
+    "finishTheSaying": {
+      "guidance": "Pročitajte izreku zajedno, a zatim dodirnite riječ koja je dovršava.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Tako je, \"{start} {end}.\"",
+      "otherEnding": "Može i \"{word}\". Uobičajena izreka završava sa \"{end}\".",
+      "revealed": "Izreka glasi: \"{start} {end}.\"",
+      "choicesLabel": "Izaberite posljednju riječ",
+      "show": "Prikaži završetak",
+      "talk": "Razgovarajte o ovome: ",
+      "next": "Sljedeća izreka"
+    },
+    "wordSearch": {
+      "guidance": "Riječi idu vodoravno ili uspravno. Dodirnite prvo slovo riječi, a zatim njeno posljednje slovo.",
+      "restart": "Nova osmosmjerka",
+      "themeLegend": "Tema",
+      "sizeLegend": "Veličina mreže",
+      "size": {
+        "one": "{n} sa {n} ({words} riječ)",
+        "few": "{n} sa {n} ({words} riječi)",
+        "other": "{n} sa {n} ({words} riječi)"
+      },
+      "print": "Štampajte ovu osmosmjerku",
+      "letterChosen": "Slovo {letter} je odabrano. Sada dodirnite posljednje slovo riječi.",
+      "found": "Pronađena riječ: {word}.",
+      "foundAll": "Pronađena riječ: {word}. Sve su riječi pronađene. Igrajte ponovo ili napravite pauzu.",
+      "tryAgain": "Samo polako. Dodirnite prvo slovo riječi, a zatim njeno posljednje slovo.",
+      "gridLabel": "Mreža sa slovima, {n} redova po {n} slova. Koristite tipke sa strelicama za kretanje između slova.",
+      "cell": "{letter}, red {row}, kolona {col}",
+      "cellFound": ", dio pronađene riječi",
+      "wordsHeading": "Riječi koje treba pronaći",
+      "wordFound": " (pronađeno)",
+      "sheetTitle": "Osmosmjerka: {theme}",
+      "sheetNote": "Riječi idu vodoravno ili uspravno.",
+      "unavailable": "Mreža slova ne odgovara ovom jeziku, pa osmosmjerka ovdje nije dostupna. Umjesto toga, isprobajte igre sa slikama."
+    },
+    "coloring": {
+      "guidance": "Dodirnite boju, a zatim dio slike.",
+      "restart": "Očistite boje",
+      "cleared": "Stranica je ponovo prazna.",
+      "pageLegend": "Stranica",
+      "print": "Štampajte ovu stranicu",
+      "colorsLabel": "Boje",
+      "paintChosen": "Boja {paint} je odabrana.",
+      "painted": "{part} je sada {paint|lower}.",
+      "artLabel": "{page}, {count} dijelova za bojenje",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, neobojeno",
+      "paints": {
+        "red": "Crvena",
+        "orange": "Narandžasta",
+        "yellow": "Žuta",
+        "green": "Zelena",
+        "blue": "Plava",
+        "purple": "Ljubičasta",
+        "pink": "Ružičasta",
+        "brown": "Smeđa",
+        "sky-blue": "Svijetloplava",
+        "cream": "Krem",
+        "gray": "Siva",
+        "white": "Bijela"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Pročitajte karticu naglas. Nema tačnih ili netačnih odgovora.",
+      "position": "Kartica {n} od {total}",
+      "themeLegend": "Tema",
+      "next": "Sljedeća kartica",
+      "previous": "Prethodna kartica",
+      "print": "Štampajte sve kartice",
+      "sheetTitle": "Kartice za razgovor"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Započnite odabirom svojih fotografija.",
+      "guidance": "Dodirnite jednu fotografiju, a zatim onu koja joj odgovara.",
+      "restart": "Izmiješajte ih ponovo",
+      "intro": "**Izaberite od 2 do 6 fotografija** s ovog uređaja. One se prikazuju samo na ovoj stranici i nikada se ne učitavaju na internet niti spremaju.",
+      "choose": "Izaberite fotografije",
+      "chooseDifferent": "Izaberite druge fotografije",
+      "clear": "Uklonite fotografije",
+      "cleared": "Fotografije su uklonjene s ove stranice.",
+      "atLeastTwo": "Molimo izaberite najmanje dvije fotografije.",
+      "usingFirst": "Koriste se prve {max} fotografije.",
+      "skipped": {
+        "one": "{count} datoteka nije fotografija koju možemo prikazati.",
+        "few": "{count} datoteke nisu fotografije koje možemo prikazati.",
+        "other": "{count} datoteka nisu fotografije koje možemo prikazati."
+      },
+      "playAgain": "Igrajte ponovo s ovim fotografijama",
+      "empty": "Vaše fotografije će se pojaviti ovdje, svaka po dva puta."
+    },
+    "pictureBingo": {
+      "guidance": "Prvo odštampajte kartice. Zatim prikažite ove slike za prozivanje na najvećem ekranu koji imate.",
+      "called": {
+        "one": "{name}. Prozvana je {called} od {total} slika.",
+        "few": "{name}. Prozvane su {called} od {total} slike.",
+        "other": "{name}. Prozvano je {called} od {total} slika."
+      },
+      "start": "Dodirnite \"Sljedeća slika\" za prozivanje prve slike.",
+      "restart": "Započnite novu igru",
+      "squaresLegend": "Polja na svakoj kartici",
+      "squares": "{n} polja ({side} sa {side})",
+      "cardsLegend": "Koliko kartica želite odštampati",
+      "cards": {
+        "one": "{n} kartica",
+        "few": "{n} kartice",
+        "other": "{n} kartica"
+      },
+      "print": {
+        "one": "Odštampajte {n} bingo karticu",
+        "few": "Odštampajte {n} bingo kartice",
+        "other": "Odštampajte {n} bingo kartica"
+      },
+      "ready": "Spremno kad god vi budete",
+      "next": "Sljedeća slika",
+      "allCalled": "Sve slike su prozvane",
+      "alreadyCalled": "Već prozvano",
+      "sheetTitle": "Slikovni bingo · kartica {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Udišite kako krug raste, a izdišite kako se smanjuje. Zaustavlja se samo nakon šest udisaja.",
+      "paceLegend": "Ritam",
+      "paceSlow": "Sporo (po 5 sekundi)",
+      "paceGentle": "Lagano (po 4 sekunde)",
+      "ready": "Spremno kad god želite",
+      "in": "Udah",
+      "hold": "Odmor",
+      "out": "Izdah",
+      "start": "Kreni",
+      "stop": "Zaustavi",
+      "started": "Pokrenuto. Udišite kako krug raste.",
+      "stopped": "Zaustavljeno.",
+      "finished": "To je bilo šest polaganih udisaja. Pokrenite ponovo kad god želite."
+    }
+  },
+  "pictures": {
+    "teacup": "Šolja za čaj",
+    "kettle": "Kuhalo za vodu",
+    "bread": "Hljeb",
+    "frying-pan": "Tava s jajetom",
+    "cake": "Torta za rođendan",
+    "sunflower": "Suncokret",
+    "tulip": "Lala, crvena",
+    "watering-can": "Kanta za zalijevanje",
+    "potted-plant": "Biljka u saksiji",
+    "tree": "Drvo",
+    "bird": "Crvendać na grani",
+    "butterfly": "Leptir",
+    "dog": "Pas",
+    "cat": "Mačka",
+    "fish": "Riba, zlatna",
+    "apple": "Jabuka, crvena",
+    "pear": "Kruška",
+    "strawberry": "Jagoda",
+    "banana": "Banana",
+    "lemon": "Limun",
+    "cherries": "Trešnje",
+    "house": "Kuća",
+    "lamp": "Lampa, stona",
+    "armchair": "Fotelja",
+    "key": "Ključ, stari",
+    "umbrella": "Kišobran",
+    "sailboat": "Jedrilica",
+    "car": "Auto, starinski",
+    "bicycle": "Bicikl",
+    "balloon": "Balon na topli zrak",
+    "lighthouse": "Svjetionik",
+    "sun": "Sunce",
+    "moon": "Mjesec i zvijezde",
+    "teapot": "Čajnik",
+    "apple-pie": "Pita od jabuka",
+    "honey-jar": "Tegla meda",
+    "boiled-egg": "Jaje u čašici",
+    "toaster": "Toster",
+    "cheese": "Sir, kriška",
+    "milk-jug": "Bokal za mlijeko",
+    "cupcake": "Kolačić",
+    "orange": "Narandža",
+    "grapes": "Grožđe",
+    "watermelon": "Lubenica, kriška",
+    "pineapple": "Ananas",
+    "peach": "Breskva",
+    "rose": "Ruža",
+    "daisies": "Tratinčice",
+    "mushroom": "Gljiva",
+    "wheelbarrow": "Tačke",
+    "birdhouse": "Kućica za ptice",
+    "cactus": "Kaktus u saksiji",
+    "acorn": "Žir",
+    "autumn-leaf": "List, jesenji",
+    "rabbit": "Zec",
+    "duck": "Patka",
+    "hen": "Kokoš",
+    "sheep": "Ovca",
+    "owl": "Sova",
+    "ladybird": "Bubamara",
+    "snail": "Puž",
+    "frog": "Žaba",
+    "bee": "Pčela",
+    "clock": "Sat, stoni",
+    "vase-of-flowers": "Vaza s cvijećem",
+    "radio": "Radio, stari",
+    "books": "Knjige na hrpi",
+    "candle": "Svijeća",
+    "glasses": "Naočale za čitanje",
+    "telephone": "Telefon",
+    "ball-of-wool": "Klupko vune",
+    "straw-hat": "Šešir za sunce",
+    "train": "Voz na paru",
+    "bus": "Autobus",
+    "airplane": "Avion",
+    "suitcase": "Kofer",
+    "tractor": "Traktor",
+    "rowing-boat": "Čamac na vesla",
+    "rainbow": "Duga",
+    "rain-cloud": "Oblak s kišom",
+    "snowflake": "Pahuljica",
+    "kite": "Zmaj od papira",
+    "sunrise": "Izlazak sunca nad brdima"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEGHKLMNOPRSTUVZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Voće",
+          "words": [
+            "JABUKA",
+            "KRUŠKA",
+            "ŠLJIVA",
+            "LIMUN",
+            "SMOKVA",
+            "DINJA",
+            "KIVI",
+            "MALINA",
+            "JAGODA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Vrt",
+          "words": [
+            "RUŽA",
+            "LALA",
+            "SJEME",
+            "ZEMLJA",
+            "LIST",
+            "DRVO",
+            "TRAVA",
+            "CVIJET",
+            "PČELA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kuhinja",
+          "words": [
+            "ŠOLJA",
+            "KAŠIKA",
+            "HLJEB",
+            "TAVA",
+            "ZDJELA",
+            "TANJIR",
+            "ČAJ",
+            "RERNA",
+            "LONAC"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Vrijeme",
+          "words": [
+            "SUNCE",
+            "KIŠA",
+            "SNIJEG",
+            "VJETAR",
+            "OBLAK",
+            "OLUJA",
+            "MAGLA",
+            "MRAZ",
+            "DUGA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Životinje",
+          "words": [
+            "PAS",
+            "MAČKA",
+            "PTICA",
+            "RIBA",
+            "KONJ",
+            "KRAVA",
+            "PATKA",
+            "KOZA",
+            "OVCA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Dom",
+          "words": [
+            "VRATA",
+            "STOL",
+            "LAMPA",
+            "KREVET",
+            "TEPIH",
+            "SOFA",
+            "SAT",
+            "KUĆA",
+            "KLJUČ"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Sve kartice",
+        "food": "Hrana",
+        "home": "Dom",
+        "outdoors": "Na otvorenom",
+        "animals": "Životinje",
+        "travel": "Putovanja",
+        "work": "Rad i hobiji",
+        "music": "Muzika i zabava",
+        "seasons": "Godišnja doba"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Koji vam je omiljeni miris iz kuhinje?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Kakvu biste tortu izabrali za neku proslavu?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Ispričajte mi o svojoj omiljenoj piti ili voćnom kolaču."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Kakvu kafu ili čaj najradije pijete?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Šta po vama čini pravi, dobar doručak?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Jeste li ikada brali voće direktno sa stabla ili grma?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Slatko ili kiselo: šta vam više prija?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Koja vas hrana najviše podsjeća na ljeto?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Ispričajte mi o kući ili stanu u kojem ste voljeli živjeti."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Gdje najviše volite sjesti i odmoriti se?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Šta volite raditi tokom mirne večeri?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Koju biste dragu uspomenu čuvali u posebnoj kutijici?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Koga biste rado pozvali na šoljicu kafe ili čaja?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Šta najradije radite kad pada kiša?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Koje biste cvijeće rado posadili u vrtu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Ispričajte mi o nekom parku ili drvetu koje vam je drago."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Šta vam je najljepše dok boravite u vrtu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Koje vam se boje cvijeća najviše sviđaju?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Volite li imati sobno cvijeće ili biljke u kući?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Kako za vas izgleda savršen sunčan dan?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Ispričajte mi o nekom psu kojeg se rado sjećate."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Mačke ili psi, ili možda nijedno? Šta vam je drago kod njih?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Koje ptice često vidite ili čujete vani?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Jeste li ikada išli na pecanje ili imali akvarij?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Koja je najljepša životinja koju ste vidjeli?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Ispričajte mi o nekom autu koji vam je bio drag."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Biste li radije proveli dan na moru ili na planini?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Kuda biste voljeli otići u kratku vožnju?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Da možete preletjeti iznad bilo kojeg mjesta, koje bi to bilo?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Ispričajte mi o nekom putovanju koje vam je ostalo u lijepom sjećanju."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Kakav ste posao najviše voljeli raditi?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Koji je to hobi uz koji biste mogli provesti sate?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Po čemu ste bili poznati da to lijepo napravite ili popravite?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Koji biste savjet dali mladoj osobi koja tek počinje raditi?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Kakva vas muzika odmah pokrene i ponese?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Šta po vama čini dobro druženje ili veselje?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Kojeg pjevača ili pjevačicu volite slušati?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Koji biste omiljeni film ili seriju rado ponovo pogledali?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Šta najviše volite kod ljeta?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Čemu se najviše radujete u jesen?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Kako volite provoditi ugodne zimske večeri?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Koji su za vas prvi vjesnici proljeća?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Snijeg, kiša ili sunce: šta vam je najdraže?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Cvijet u saksiji",
+          "regions": {
+            "sky": "Pozadina",
+            "table": "Stol",
+            "stem": "Stabljika",
+            "leaf-left": "Lijevi list",
+            "leaf-right": "Desni list",
+            "petal-1": "Latica 1",
+            "petal-2": "Latica 2",
+            "petal-3": "Latica 3",
+            "petal-4": "Latica 4",
+            "petal-5": "Latica 5",
+            "petal-6": "Latica 6",
+            "petal-7": "Latica 7",
+            "petal-8": "Latica 8",
+            "center": "Sredina cvijeta",
+            "pot": "Saksija",
+            "pot-rim": "Rub saksije"
+          }
+        },
+        "house": {
+          "name": "Kuća",
+          "regions": {
+            "sky": "Nebo",
+            "sun": "Sunce",
+            "grass": "Trava",
+            "chimney": "Dimnjak",
+            "walls": "Zidovi",
+            "roof": "Krov",
+            "door": "Vrata",
+            "window-left": "Lijevi prozor",
+            "window-right": "Desni prozor",
+            "path": "Staza"
+          }
+        },
+        "teacup": {
+          "name": "Šolja za čaj",
+          "regions": {
+            "background": "Pozadina",
+            "saucer": "Tanjirić",
+            "handle": "Drška",
+            "cup": "Šolja",
+            "band": "Pruga na šolji",
+            "tea": "Čaj"
+          }
+        },
+        "butterfly": {
+          "name": "Leptir",
+          "regions": {
+            "background": "Pozadina",
+            "wing-top-left": "Gornje lijevo krilo",
+            "wing-top-right": "Gornje desno krilo",
+            "wing-bottom-left": "Donje lijevo krilo",
+            "wing-bottom-right": "Donje desno krilo",
+            "spot-left": "Tačka na lijevom krilu",
+            "spot-right": "Tačka na desnom krilu",
+            "body": "Tijelo"
+          }
+        },
+        "sailboat": {
+          "name": "Jedrilica",
+          "regions": {
+            "sky": "Nebo",
+            "sea": "More",
+            "sail-big": "Veliko jedro",
+            "sail-small": "Malo jedro",
+            "mast": "Jarbol",
+            "hull": "Trup broda",
+            "flag": "Zastavica"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kuhinja i vrt",
+          "baskets": [
+            "U kuhinji",
+            "U bašti"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Voće i životinje",
+          "baskets": [
+            "Voće",
+            "Životinje"
+          ]
+        },
+        "home-travel": {
+          "label": "Kuća i putovanja",
+          "baskets": [
+            "Kod kuće",
+            "Van kuće"
+          ]
+        }
+      }
+    }
+  }
+}

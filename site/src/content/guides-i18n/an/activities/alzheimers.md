@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Actividatz y chuegos ta personas con Alzheimer"
+seoTitle: "Actividatz y chuegos ta l'Alzheimer: ideas por etapas"
+description: "Actividatz y chuegos ta personas con Alzheimer en cada etapa, basaus en habilidatz y recuerdos que gosan durar más, con chuegos de baldes ta compartir."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  As buenas actividatz ta una persona con Alzheimer se refirman en o que más
+  dura: habilidatz bien aprendidas, cancions viellas, fayenas familiars y os
+  sentius. En primeras, as cartas, os chuegos de mesa, cocinar y as salidas
+  a ormino encara funcionan. En a etapa meya, prebatz a doblar, clasificar,
+  cantar, mirar albuns de fotos y chuegos con imáchens sencillos. En a etapa
+  abanzada, a musica, o tacto y a companyía son o más important. Guiatz-vos
+  por cómo se troba la persona hue.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "L'Alzheimer ye la causa más común de demencia, por o que as ideas d'actividatz ta la demencia tamién s'aplican aquí."
+  - "A información nueva gosa estar o más difícil a lo prencipio, mientres que as habilidatz y cancions aprendidas fa tiempo a ormino duran más. Refirmetz-vos en ixo."
+  - "As etapas se solapan y ye normal tener días buenos y días malos. Trulletz seguntes o que la persona pueda fer y disfrutar hue."
+  - "Trulletz chuegos sin cronometro, sin puntuación y sin preguntas d'examen, y dixatz que as imáchens se veigan siempre."
+  - "Mirar, sostener bella cosa u simplament estar posaus chuntos tamién conta como participar."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Qué actividatz son buenas ta una persona con Alzheimer?"
+    a: "Actividatz conoixidas y una mica más simplas: doblar ropa, parar a mesa, cocinar chuntos, musica y canto, mirar fotos, paseyar, cudiar o huerto u as plantas y pasar tiempo con un animal domestico. Chuegos con imáchens sencillos, trencacabezas facils y cartas de conversación tamién van bien a muitas personas. Trulletz o que a la persona siempre le ha fecho goyo y fetz-lo chunto a ella."
+  - q: "Son buenos os chuegos ta personas con Alzheimer?"
+    a: "Os chuegos pueden estar una traza agradable de pasar tiempo chuntos si a la persona le fa goyo. No s'ha demostrau que dengún chuego tracte, ralentice u ature l'Alzheimer, por o que ye millor trullar chuegos por diversión: imáchens grans, pocas opcions y sin reloch, puntos ni sonius d'error."
+  - q: "Bi ha diferencia entre as actividatz ta la demencia y as actividatz ta l'Alzheimer?"
+    a: "Por o cheneral, no. A malotía d'Alzheimer ye la causa más común de demencia, y s'aplican as mesmas ideas d'actividat. O que aduya con l'Alzheimer ye saber que os recuerdos recients gosan desvanecer-se antes, por o que as actividatz basadas en habilidatz antigas, cancions y rutinas conoixidas gosan ir millor."
+  - q: "Qué puede disfrutar encara una persona en a etapa abanzada de l'Alzheimer?"
+    a: "A suya musica preferida, una masaye suau en as mans, cosas suaus ta sostener, que le leyan en voz alta, estar posaus a l'aire libre y a companyía de belún de confianza. Mantenetz as sesions curtas y tranquilas, y paratz cuenta en a suya cara y en o suyo cuerpo ta veyer qué le cuaca."
+  - q: "Cómo fer que una persona con Alzheimer s'interese por una actividat?"
+    a: "Demandez-le aduya en cuentas d'anunciar una actividat, parez tot antes y empecipietz vusatros mesmos ta que pueda unir-se. Trullar o momento d'o día en que se trobe millor marca una gran diferencia. Si diz que no, prebatz de nuevas más tarde u ufritz una versión más chicorrona."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Si belún a qui quiere tiene Alzheimer, ye facil que ya haiga notau que bellas cosas se pierden a escape mientres que atras se mantienen. Puede ublidar a clamada de telefono d'ista maitinada, pero continar cantando cada parola d'un himno, doblar una toalla como siempre lo ha feito u repartir as cartas sin pensar. As buenas actividatz se construyen sobre ixas habilidatz que perduran. Ista pachina explica por qué, y dimpués ofreixe ideas ta cada etapa y os chuegos de baldes d'iste puesto web que millor s'adaptan a ellas.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Ye diferent l'Alzheimer d'a demencia cuan se parla d'actividatz?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Pas guaire. Demencia ye lo termin cheneral, y a malotía d'Alzheimer en ye la causa más común: l'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) diz que representa entre o 60 y o 80 por ciento d'os casos de demencia. Cuasi tot o que s'ha escrito sobre actividatz ta la demencia s'aplica tamién a l'Alzheimer, incluyidas as nuestras [101 ideas d'actividatz](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+O que resulta util saber ye l'orden habitual d'os cambeos. O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explica que l'Alzheimer danya en primeras as partis d'o cerebro relacionadas con a memoria, y más tardi afecta a o luengache, a o razonamiento y a o comportamiento social. L'Alzheimer's Association sinyala que o simptoma inicial más habitual ye la dificultat ta recordar información nueva. Cada persona ye diferent, y muitas tienen causas mixtas, pero iste patrón orienta sobre o que gosa funcionar millor.
 
-## What kinds of activities suit Alzheimer's best?
+## Qué mena d'actividatz son millors ta l'Alzheimer?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+As actividatz que se refirman en conoiximientos antigos y bien consolidaus gosan ir muito millor que aquellas que requieren aprender cosas nuevas y retener-las en a memoria.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Habilidatz practicadas entre muito tiempo.** L'Alzheimer's Association sinyala que una persona puede encara tocar cancions sencillas aprendidas en o piano fa anyos. Fer meya, lijar fusta, barallar cartas, amasar y doblar a ropa son eixemplos parellans.
+- **Cancions antigas y musica conoixida.** Muitas personas encara recuerdan cada parola de cancions d'a suya choventut, himnos u as cancions d'a suya voda. Veiga [actividatz musicals](/activities/music/).
+- **Fayenas cutianas con sentito.** O [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) incluye fregar os platos, parar a mesa, emparellar calcetins y doblar a ropa entre as actividatz que pueden agradar. Sentir-se util ye important.
+- **Reconoixer antes que recordar.** Sinnyalar a imachen que coincide ye más facil que recordar o suyo nombre de memoria. Por ixo os chuegos con imáchens an tot ye a la vista funcionan millor que as preguntas d'examen.
+- **Os sentius.** A textura, a olor, a calor, o gusto y os sonius continan tenendo sentito muito dimpués de que as parolas se faigan difícils. Veiga [actividatz sensorials](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+O que gosa ir pior: cualsiquier cosa con reloch u cronometro, reglas nuevas que aprender, muitos pasos ta recordar u preguntas que metan a preba la memoria, como «Te'n alcuerdas de quién ye este?». Ixo mete la parti más difícil de l'Alzheimer en primer plan.
 
-## Activities for early-stage Alzheimer's
+## Actividatz ta la etapa inicial de l'Alzheimer
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+En a etapa inicial, l'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) explica que una persona puede encara conducir, treballar y participar en actividatz socials, encara que note fallos de memoria como ublidar parolas habituals u an ha deixau as cosas. O millor enfoque ye la colaboración: pregunte-le qué quiere continar fendo y qué aduya le faría goyo recibir.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Mantener as aficions habituals.** Golf, bridge, costura, coral u grupos d'a parroquia, fendo chicoz achustes como grupos más reducius y horarios más tranquilos.
+2. **Chugar a chuegos de cartas y de mesa conoixius.** L'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) menciona chuegos de preguntas, sopas de letras, chuegos de cartas y de mesa ta la etapa inicial. Chugatz en equipo si contar os puntos empecipia a cansar-le, u eliminatz a puntuación por completo.
+3. **Cocinar chuntos.** Deixe que prepare una receta que sepa de memoria mientres vusté s'encarga de leyer os pasos.
+4. **Empecipiar un prochecto sobre a suya vida.** Fotos, recetas y historias en un album guiadas por ella. Veiga [actividatz de reminiscencia](/activities/reminiscence/).
+5. **Fer salidas.** Un restaurant preferiu a una hora tranquila, una vesita curta a un museu u un paséu por o parque.
+6. **Prebar trencacabezas que trulle a persona.** Crucigramas con letra gran, sopas de letras y puzzles. Veiga [trencacabezas ta la demencia](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Más ideas: [actividatz ta la etapa inicial](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Actividatz ta la etapa meya de l'Alzheimer
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+L'Alzheimer's Association describe la etapa meya como la más luenga por un regular, y diz que puede durar muitos anyos. As parolas se confunden, a frustración amaneixe con más facilidat y a persona amenista más cudiaus. L'Alzheimer's Foundation of America adhibe que muitas personas amenistan aduya ta empecipiar u continar as actividatz. O suyo papel pasa a estar parar as cosas, amostrar con feitos en cuentas d'explicar, y asumir as partis más complexas.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Doblar, clasificar y emparellar.** Toallas, calcetins, cubiertos u botons por colors. Fayenas reals, feitas de conchunta.
+2. **Cantar y mover-se a o ritmo d'a musica.** Picar de mans, balanceyar-se u bailar en a cocina. Empecipie a cantar vusté mesmo y dixe que s'una.
+3. **Mirar albuns de fotos.** Describa o que veye y convide a contar recuerdos: «Menudo coche. Cuenta-me d'él». Acepte cualsiquier nombre que faiga servir.
+4. **Chugar a chuegos con imáchens sencillos.** [Parias d'imáchens](/games/picture-pairs/) con cuatro u seis fichas y as imáchens a la vista, u [Tobar o mesmo](/games/find-the-same/) con dos u tres opcions.
+5. **Rematar refrans conoixius.** «Más vale paixaro en man...». Os refrans aprendius fa tiempo gosan salir a escape. Prebe [Rematar o refrán](/games/finish-the-saying/), a on que puede amostrar a fin con un solo toque.
+6. **Regar y cudiar as plantas.** Tihestos d'interior u en un huerto elevau, con una chicota regadera.
+7. **Crebar un chuego de parellas con fotos familiars.** [Parias de fotos](/games/photo-pairs/) fa servir fotos que trulle en o suyo dispositivo, y nunca no salen d'él.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Más ideas: [actividatz ta la etapa meya](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Actividatz ta la etapa abanzada de l'Alzheimer
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+En a etapa abanzada, l'Alzheimer's Association diz que as personas pierden a capacidat de responder a o suyo entorno y de mantener una conversación, encara que puedan dicir bellas parolas u frases. L'actividat agora significa bienestar y conexión, acompaniando a la persona a on siga descansando.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Posar a suya musica preferida** con volumbre baixo, sin que la televisión faga rudio.
+2. **Dar una masaye en as mans** con una crema que tienga una fragancia que le cuaque.
+3. **Ufrir elementos suaus ta sostener:** una manta calentona, teixius molsudos u una piedra lisa.
+4. **Leyer en voz alta** salmos, poemas u una historia conoixida. O ritmo importa más que o sentiu exacto.
+5. **Estar posaus a l'aire libre** a la uembra, u chunto a una finestra a on veyer os paixaros.
+6. **Mirar una imachen gran chuntos.** Un chirasol u un can ocupando toda la pantalla d'una tableta, mientres vusté explica o que se veye.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Más ideas: [actividatz ta la etapa abanzada](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Qué chuegos funcionan millor ta belún con Alzheimer?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Trulletz chuegos an no se pueda fallar. Cada chuego d'iste puesto web ye de baldes, funciona en o navegador y no tiene cronometro, ni puntuación, ni cal rechistrar-se.
 
-| Game | What you do | Often suits |
+| Chuego | Qué se fa | Gosa estar adecuau ta |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Parias d'imáchens](/games/picture-pairs/) | Emparellar imáchens grans; pueden quedar-se cara enta alto | Etapa inicial y meya |
+| [Tobar o mesmo](/games/find-the-same/) | Tocar a imachen que coincide con a d'alto | Etapa meya y abanzada, con aduya |
+| [Rematar o refrán](/games/finish-the-saying/) | Trullar a zaguera parola d'un refrán conoixiu, u amostrar-la | Etapa inicial y meya |
+| [Trencacabezas d'imáchens](/games/picture-puzzle/) | Mover 4 u 9 piezas ta o suyo puesto, con a imachen d'amuestra | Etapa inicial y meya |
+| [Cartas de conversación](/games/conversation-cards/) | Una imachen y una propuesta ubierta ta charrar | Cualsiquier etapa, con belún con qui charrar |
+| [Parias de fotos](/games/photo-pairs/) | Un chuego de parellas feito con as suyas propias fotos | Etapa inicial y meya |
+| [Coloreyar](/games/coloring/) | Tocar una color y dimpués una parti d'a imachen; u imprentar-la | Cualsiquier etapa, con aduya |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Ta saber cómo posar-se chuntos, cuánta aduya ufiertar y cuándo parar, leiga [cómo chugar a chuegos con una persona con demencia](/caregiving/how-to-play-together/). Si tiene dudas sobre os «chuegos de memoria», consulte [chuegos de memoria ta personas mayors con demencia](/activities/memory-games/).
 
-## How to make any activity easier
+## Cómo fer que cualsiquier actividat sía más facil
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Os consellos d'o NIA se resumen en bels habitos: adaptar l'actividat a o que la persona puede fer, aduyar-le a empecipiar, parar cuenta en a frustración, asegurar-se de que se sienta realizada y dixar que simplament mire si ye lo que le fa goyo.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Trulletz o momento d'o día en que se trobe millor,** y manteneitz sesions curtas.
+- **Paratz tot antes** ta poder empecipiar directament.
+- **Convidatz, no mandetz.** «Podrías echar-me una man?» funciona millor que «Hora de fer una actividat».
+- **Fet-z o primer paso vusatros** y dixatz que s'una.
+- **Ufritz nomás un paso y una opción cada vegada.**
+- **Dixatz que se faiga a la suya traza.** As toallas una mica dobladas de traza irregular son perfectas.
+- **Paratz mientres encara sía agradable.** Rematar antes d'hora ye un buen resultau, no pas un fracaso. Si diz que no, consulte [cuan una persona con demencia diz que no](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) lo resume con claridat: centratz-vos en disfrutar, no pas en o resultau.

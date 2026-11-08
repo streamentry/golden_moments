@@ -1,32 +1,32 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Ciϑra-Handāta Manaŋhō Yām: Vacā Paitišciϑrāca"
+seoTitle: "Ciϑra-Handāta: Vacā Paitišciϑrāca"
+description: "Ciϑra-handāta vacō-frašnāca aēibyō yōi manaŋhō carənti: ciϑrəm, fravaocō, masō kərəfš, haca vərəzyeiti, yaδa nəmō kərənaoiti."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Vahštəm ciϑra-handātəm ahmāi yō manaŋhō carəiti asti aēva yā aēte handāte
+  haca mat-raϑa vərəzyan rāmanca vindan. Franaose ciϑrāiš masō kərəfš yā
+  vī-ciϑran, paiti daite ciϑrəm, arəza paiti-sāstayā. Vacō-frašnā vacāca
+  masō fravaoce vərəzyenti. Cōištva-kərəta ciϑrāiš caϑru-kərəfš aγa-maδəm
+  paitiš. Haca rāzarə hām-bərəte.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Vidātaracit ciϑrəm yaϑa carəiti, nōit nāmāi: yezi handātəm vərəza manyete, kamna-kərəfš paitiš cōiš."
+  - "Masō kərəfš, stūra ciϑrāca vī-raocana rōkō-kara hu-kərəta hanti yaϑa kasu-kərəfš asmanaca."
+  - "Mazāuta ciϑrā vīciϑra hanti: pairi-daēza, xᵛarəϑa-hanmāna, vāša, pasuca, nōit aparanāyuka."
+  - "Haca vərəzyeiti arəza asti: aēva-kərəfš fra-bara, arəza vī-cinu, paiti-dātəm ciϑra-piθā paiti-dara."
+  - "Masō-fravaoca vacō-frašnā ayō-ciϑrāca caϑru vā nava vā kərəfš ahmī dāmi a-xraoždva hanti."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Cvantō ciϑrahe kərəfš vahštā hanti ahmāi yō manaŋhō carəiti?"
+    a: "Aēva nōit asti cistō marəza. Narə yō hazaŋrō-kərəfš vərəzyat paiti satə kamnam haca vindat, anyō duva-dasa masō kərəfš haca rāmayeiti. Yezi handātəm bāra manyete vā āzūta-kara, kamna-kərəfš vīci. Dāmō-ciϑra ayō-paitiš caϑru vā nava vā kərəfš dārayeiti."
+  - q: "Hantī-nō ciϑra-handāta vaŋhava aēibyō yōi manaŋhō carənti?"
+    a: "Paoirīš narō rāmən vərəzyenti, yōi parō ciϑra fraxšnane frāyō rādayan. Handātəm zastanāi vərəzəm dāδaiti, arəzəm paiti-dātəm, ciϑrəmca framrava. Nōit ciϑra-handātəm baēšaza asti nōit manaŋhō carəϑrəm taršnayeiti; rāmahe haxədrāica vīcinu."
+  - q: "Čim karanaomi yezi narə nōit paiti ciϑra-handātəm vərəzyeiti?"
+    a: "Kasum kərənu xvaē-vərəzəmca fra-dasa: aēva-aēva kərəfš ahmāi fra-bara, vā handātəm apara kərəfš havanāi dāδai. Caϑru-kərəfš ayō-ciϑrəm paiti-cōiš, rōka-vīciϑrəm, vā ham-ciϑrəm paitiš dōiϑrābya dīra."
+  - q: "Hantī-nō vacō-frašnā vacā-viϑra vaŋhava aēibyō yōi manaŋhō carənti?"
+    a: "Paoiryāi gaēϑyāi hanti vaŋhava, masō fravaoce. Vacō-frašnā yā frāča avača vazinti huka-vərəzya hanti yaϑa yā vi-taraca aparaca vazinti. Vacā fra-srāvaya haca mat-raϑa vərəzyata."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +45,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Ciϑra-handātəm paiti myazda-paiti sparta aēva yā hu-kərətatəmā vərəzā haxədrāi asti. Haδa šyeiti a-framrava paitiš, ciϑrəm fra-mraocim dāδaiti, apama-kərəfšca paiti-daϑa šātīm baraiti. Ciϑra-handātā vi-carənti yaδa manaŋhō carəϑra vi-caraiti. Handātəm yā a-hu-kərəta asti aγa-xšapəm daide ana-rāštəm kərənaoiti. Aēva paitiš mraoti yaϑa ciϑra-handāta, vacō-frašnā, ayō-ciϑrāca vīcinahi, yaδaca bāra a-hu-kərəta caraiti.
 
-## Are puzzles good for people with dementia?
+## Hantī-nō ciϑra-handāta vaŋhava aēibyō yōi manaŋhō carənti?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Paoirīš aēibyō rāmən vərəzyenti, frāyō yōi parō handātā fra-kərənvan. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) vacō-vīciϑra, kārtā-kərəta, myazdō-paitīšca paiti paoiryāi ratav mraoti, [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ayō-kərəta ciϑrāiš paiti ayō-paiti fra-mraoti yaϑa haδa-caran.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Ciϑra-handāta nōit baēšaza hanti. Nōit handātəm a-taršvanə mraoti manaŋhō carəϑrəm; ahmākam paiti-dāta [brain games and dementia](/brain-health/brain-games/) cistīm fra-daite. Ciϑra-handātəm vərəzyeiti yaϑa rāma-aipi haxədrahe ahmī zrūde hāca paitiš. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) framraoti: rāməm paiti-dāra, nōit frasaxtīm.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Yaϑa vīcinahi ciϑra-handātəm ahmāi yō manaŋhō carəiti?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Vīcinu yaϑa narə rāməm vindaiti yaϑaca parō handātəm carat, nōit nāmāi ratōiš.
 
-### Number of pieces
+### Ciϑrahe kərəfš
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Nōit asti aēva arəza. Yō narə hazaŋrō-kərəfš parō vərəzyat paiti kamnō satō vindat, anyō duva-dasa kərəfš vərəzyeiti. Hu-kərəta raϑa: yezi parō handātəm arəza vərəzya manyata, kamna-kərəfš paitiš cōiš. Yezi mošu fra-kərəta ahmāica frāyō vasati, masō fra-bara.
 
-### Piece size and feel
+### Kərəfš masō paiti-dātəmca
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Masō kərəfš** hu-dīti, hu-grəwnaiti, hu-vərəzyaiti hanti.
+- **Stūra, amavatō kərəfš** paiti-štanti yezi ava-patanti.
+- **A-raocana paiti-dāta** rōxsnahe uz-raocanəm kərənaoiti.
+- **Kasu-kərəfš paiti-tara** yezi narə ahmī zrūde paiti āhō kərənvan.
 
-### The picture
+### Ciϑrəm
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Mazāuta ciϑrā.** Pairi-daēza, xᵛarəϑa-hanmāna, parō vāša, pasu, zrayō-cašma, vazrahe vərəza. Nōit aparanāyuka nōit kahrkāsa.
+- **Vī-raocana rōkō-kara.** Suxra vāša, xšvaēpa nava, zairita sparta huka-vərəzya hanti yaϑa asmanahe nimatō.
+- **Xšnavana hu-zaota.** Ciϑrəm ahmāi dāmō yahrī bi-vaza vā kāma-vərəza fra-mraocim baraiti. Paiti-paoirīš vərəzō nmāna-ciϑrəm handātəm kərənvan.
 
-## How do you do a puzzle together?
+## Yaϑa ciϑrəm haδa vərəzyata?
 
-Set it up so the person can get straight to the enjoyable part.
+Paiti-dā yaϑa narə a-draoga rāmāi frā-vərəzyat.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Vahštəm hanmānəm vīci.** Vaŋhuš raocao, gātuš aršnō-dāra, myazdō yaϑa handātəm paiti-štāt.
+2. **Sarō-pidam paiti-dara** yaϑa dōiϑrābya dīra.
+3. **Paiti-dātəm ciϑra-kərəfš uz-kərəna** parō vərəza.
+4. **Arəza vī-cinu** tūm xvaē-vərəzəm, vā dāra fratamam kərəna havanāi arəza.
+5. **Rōka-kərəfš vī-cinu** paiti kasu-paitīš.
+6. **Aēva-kərəfš fra-bara** yezi pouru-bāra manyete. "Manya mām aēva kərəfš hanmānahe asti."
+7. **Framrava ciϑrəm,** nōit frasaxtīm. "Aēva navi yā parō pitarə dārayat maēša."
+8. **Dara paiti.** Paiti-ayata paiti pouru ayāra. Nōit arəθra asti.
+9. **Rāzarə ava-jata,** yaδa aēva kərəfš nidaite, yaδa rāma dārayeiti.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) paiti-sāstayā: ahmāi frā-cara, a-rāštīm dīra, dā ahmāi dīti paiti-dā yezi rāməm vindat. Dīti yaϑa handātəm kərənaoši, zastāica paiti-sāstayā, aēvacit haxədra asti.
 
-## Easy online puzzles
+## Hu-kərəta ayō-ciϑra
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Ayō-paitiš ciϑra vī-ciϑrəm dāδaiti: nōit a-vištō kərəfš, masō ciϑrā yā paiti-dātəm pərənaoiti, nōit myazdō a-draoga.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Ahmākam a-xraoždva [Picture puzzle](/games/picture-puzzle/) ciϑrəm caϑru vā nava vā kərəfš bərəiti. Dva kərəfš spara yaϑa ciϑrəm vīspō-hu-kərəta caraiti. Ciϑrəm paitiš dōiϑrābya paiti-štāt, nōit zru-marəza asti, yaδaca vasahi ava-jata. Caϑru kərəfš maidyānāi ratōi vaŋhuš asti haδa haxaya.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Aparō hu-kərətatara ciϑrāi, [Find the same](/games/find-the-same/) paiti-cōiš, yaδa ciϑrəm spara yā stūi paiti-daite, vā [Sort together](/games/sort-together/), yaδa ciϑrā paiti-kərəta vazinti yaϑa hanmāna vā pairi-daēza.
 
-## Word puzzles: word searches and crosswords
+## Vacō-frašnā: vacō-vīciϑra vacā-viϑrāca
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Vacō-frašnā aēibyō vaŋhava hanti yōi parō aēte rādayan, paoiryāi ratōi.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Masō-fravaoca vacō-vīciϑra.** Ahmākam a-xraoždva [Word search](/games/word-search/) masō fravaocō kamna vacā dārayeiti, frāča avača vazinti, nōit vi-taraca aparaca. Ayō-paiti vərəzya vā parō-fravaoce kərənu.
+- **Fra-srāvaya vacā.** Aēva narə vacō srāvayeiti, anyō vī-cinaiti. Paoirya-akšara paiti-dāta aēva vasati.
+- **Masō-fravaoca vacā-viϑra** paiti dāma paoiryāi ratōi vaŋhava hanti. Fra-srāvaya vacā, haδa kalama dāra, vacā paiti-dāta. Hu-kərəta vacā vaŋhava hanti yaϑa rāzō-vacā.
+- **Framrava vacā paiti.** "Pairi-daēza" dasa zru paiti zairita-yāva framrava baraiti.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Aparō naskō-vərəzāi yaϑaca paiti-fravaocahi yaϑa dōiϑrābya zastanāica huka-vərəzya hanti, dīra [free printable dementia activities](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Yā ciϑra yōi ahmāi ratōi vazinti?
 
-Stages overlap, and good and hard days are normal.
+Ratav haδa carənti, vaŋhava aγaca ayāra hu-zaota hanti.
 
-| Stage | Puzzles that often fit | Your role |
+| Ratav | Ciϑra-handāta yā vərəzyenti | Tva hāma-carəϑrəm |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Fratama | Ciϑra-handāta xšnavana kamna-kərəfš, vacā-viϑra masō-fravaoce, nava-kərəfš ayō-ciϑra | Haxaya: dā aēte vīcīnān, fra-bāra yezi jaiti |
+| Maidyāna | Ciϑra-handāta duva-dasa masō-kərəfš, caϑru-kərəfš ayō-ciϑra, vacō-frašna mat-srāvata | Paiti-dā, kərəfš vī-cīna, aēva-aēva fra-bara |
+| Apama | Ham-dīti frasparəta ciϑrahe, Hām-ciϑra duvā-ciϑra, masō-kərəfš zastanāi dara | Ahmāi bara; tva haxədra aēva vərəza asti |
 
-## When should you make a puzzle easier, or stop?
+## Yaδa handātəm hu-kərətatara kərənōi, vā ava-jata?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Paiti-dāra ahura-paitiš, kərəfš fra-spara, paiti-mraoci "Nōit tūm vərəzyemi" vā uz-taršvanəm. Aēte ciϑrā hanti yaδa vi-carahi, nōit staxma vərəzyahi.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Kasum kərənu.** Kamna kərəfš, vā apara kərəfš havanāi dāδai.
+- **Frāyō tūm xvaē-vərəzəm kərənu** ahmāica hu-kərəta aipi fra-bara.
+- **Paiti anyō handātəm cara:** rōka-vīciϑrəm, caϑru-kərəfš ayō-ciϑrəm, vā [coloring](/games/coloring/).
+- **Ava-jata.** Paiti-dāra paiti-šataca xᵛarəϑa xᵛara. Ayāra paiti paiti-asa, vā nōit paiti.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Yezi handātəm bāra paiti-mraoti čim a-hu-kərəta asti, a-draoga ava-jata. Paoirīš anyā paiti-dātā vaŋhava haxədrāi hanti; ahmākam [101 activity ideas](/activities/ideas/) vahštəm gātūm dārayeiti.

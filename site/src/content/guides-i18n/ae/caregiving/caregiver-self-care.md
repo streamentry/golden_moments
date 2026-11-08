@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Tanvō Pāitiš: Rāma, Upastā, uta Sraomanō Daxšta"
+seoTitle: "Haraiti Pāitiš: Rāma uta Upastā"
+description: "Daxšta sraomanō, cithā rāməm uta upastām vindoiti, uta upamā hakarənā US, yāθa Alzheimer's Association 24/7 Helpline uta Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Mashyāi haraiti yō manō-vərəzō aiti hakat dūrahe asti, uta xᵛaēpaithyehe tanvō pāitiš bərəxδō yasnō asti. Daxštābiš sraomanō, xruwišyehe, dušxᵛafnō, uta haxaminō apayanta dārayata. Arəϑəm upastām jaidyata, rāməm vərəzyata, uta handātəm upastō-dānəm jasata. US upastā asti Alzheimer's Association 24/7 Helpline pa 1-800-272-3900 uta Eldercare Locator pa 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Sraoman sraomata yāθa tanu-druxti, xruwišya, dušxᵛafna, anāmanahya, uta xᵛa-drvatātō tarō-matay."
+  - "Rāma tē āsītīm dāiti, hacaka hām-zamanābiš avi pouru-ayara, nmanayehe vā upastā-dānō vā."
+  - "Upastām jaidyata pa dāϑrəm arəϑəm; pouru mashyāka upastām vasənti bā nōit vīdva."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) asna afrīti upastām dāiti vispāi zrvāne."
+  - "Eldercare Locator (1-800-677-1116) vərəzyata haxmō zantu-upastābyō, yāθa Area Agency on Aging."
+  - "Yezī vīpatō aŋha, garəzva vā nipiša 988. Pa sūdrō-zrvāne, garəzva 911."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Ciš santi daxšta tanu-sraomanō?"
+    a: "Suxra daxšta santi: tanu-sraoma, pərəθu-uxšiš, a-drvatās, zaranim vā an-āxštiš, dušxᵛafna, anāmanahya, haxaminō apayanta, sarō-sīš uta tanu-ārtiš, uta xᵛa-xᵛarəθa, rāzarə vā bēšazānō tarō-dāitiš. Yezī aēte vispāi zrvāne jasanti, bēšazānō pərəsa."
+  - q: "Cithā rāməm vindoiti nazdištō mē?"
+    a: "Haca Eldercare Locator (1-800-677-1116 vā eldercare.acl.gov) pərəsa zantu Area Agency on Aging vindōiti, ARCH National Respite Locator Service, vā Alzheimer's Association Helpline pa 1-800-272-3900. Vīs, haxā uta a-frapte mashyāka rāməm tē dāire."
+  - q: "Medicare rāmō-pātīm fradathaiti?"
+    a: "Mashyāi yō hospice-pāitīm jasaiti, Medicare vispa fradaiti panca ayara rāmō-pātīm nmanō bēšazyō vā āstāne, pa vaxštā National Institute on Aging. Paiti-dāto a-xᵛaēpaithe nōit fradaiti; Medicaid uta dərəγa-zrvāna pāitīš upastām dāiti."
+  - q: "Alzheimer's Association Helpline asna uta xšapō asti?"
+    a: "Bavani. Alzheimer's Association vaoce Helpline pa 1-800-272-3900 asna, gūzra, uta haca vispāi zrvāne 365 ayara paiti yārəm, pa pouru hizvām. Nipiša 711 relay vərəzyanāi."
+  - q: "Astī-nō it a-vohu yezī rāməm tanvō vərəzyāmi?"
+    a: "Nōit. Rāma tē upastām dāiti paiti harate, uta rāma dāiti mashyāi yim harahi nava haxaim uta vərəzyām. Pouru pāty-asti aojan: 'Vahyo aŋhat yezī upastām pauruvo pərəsəmnō'."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Yezī tū mashyāi harahi yō baodah-vīšištīm dārayeiti, paiti aētem aipyehe, sraontō, uta pərənō vərəzyō a-framərəta zrvāne pərəse. Aētada rāzarə asti. Xᵛaēpaithyāi tanvō harətē nōit asti sravō vā afrītiš pasca vispō-vərəzīm. Aētada asti yaϑa dātəm dārayahi.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Aēte paiti-dāsa sraomanō daxštā, cithā rāməm vindahi, kvada upastām vindahi, uta US asna garəz-dāmā yā azditə garəzahi.
 
-## What are the signs of caregiver burnout?
+## Ciš santi daxšta tanu-sraomanō?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Tanu-sraoma yāsiti zābarō, aēva daxštā xᵛaēpaithya vīduye vərəzya. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) daxštā haratō-ārtayō vaocaiti:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- sraoma, pərəθu-uxšiš, vā anāxštiš;
+- zaranim vā a-xšnūtem jasaiti;
+- an-haxa vā tarō aipīm aiti;
+- dušxᵛafna, vā nōit pərəna xᵛafna;
+- anāmanahya vā a-yānam, vā tya fraxšnīm būram yō vaoci;
+- sarō-ārtiš, tanu-ārtiš vā kəhrpō an-drvatās;
+- nōit zrvan rāzara vərəzyanāi vā drvata xᵛarəθa caranāi;
+- xᵛa-snāta vā kəhrpō-pāitīm tarō-matay;
+- madō vā bēšazā duš-vərəzyaiti.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) daxštā aiti yāθa an-zbayō a-drvatātō, zaranim avi mashyāka ("hō aēva staoxra asti"), anāxštiš parō apanəm, an-framānā manō, uta drvatātō an-āstiš. Vaocaiti: bēšazānō pərəsa yezī aēte daxštā vispāi zrvāne jasanti.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA upastā nōit pa-zrvānəm dāiti yaϑa pərəθu-sraoma aŋha. Early daxštā zāna uta vərəzya.
 
-## What can I do today, in five minutes?
+## Ciš panca-ratvō vərəzyāmi azditə?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Kasvō rāma paiti-asti. Nōit sraomanəm vispa vi-nāsayənti, bā tē xšnūtem dāire paiti taro apara-ayara.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Bə̄rəzyō nmanəm parō.** Asna āstānō vā paiti pəθəm aipya paiti mashya drvato uta rāmo asti.
+- **Dərəγa vyānəm.** Dərəγa vyāna parō yā paiti-vacō hard-pərəsānō. Tū maēϑanāi [Calm Breathing](/games/calm-breathing/) rāməm dāite mashyāi yim harahi.
+- **Āpō xᵛara uta xᵛarəθəm bərəzya.** Dūra a-framərəza xᵛa-xᵛarəθəm.
+- **Aēvəm haxaim nipiša.** Nōit arəϑəm pərəsō, aēva haxaim dāranāi.
+- **Vahu xᵛa-tanvō aoja.** NIA [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) aojaiti: "Vahištəm vərəzyāmi tya maibyō asti," "Nōit pərəno-vahistō amī, uta vahu asti," uta "Rāma-zrvāna ahmāi aipya haxma āzātəm jasāni."
 
-## What is respite care, and how do I get it?
+## Ciš asti rāma, uta cithā aētem vindāmi?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Rāma asti kasu-zrvāna pāitiš mashyāi yim harahi, yaϑa tū āsītīm dārayāhi. NIA [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) sravaiti yaϑa aētada haca kasu-zrvāna avi pouru ayara vā mawaϑa jasaiti, nmanō, bēšazyō āstāne, vā adult day center.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) dāiti aēva gātava:
 
-| Type | What it is |
+| Gātus | Ciš asti |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| In-home help | Haxa, vīs, a-frapte mashya vā paiti-dāto haxa nmanəm jasaiti |
+| Adult day center | Vərəzyā yaϑa sruθa uta pərəθu-kərəti gāθwō kərənvaiti; vazathra uta xᵛarəθa dāire |
+| Overnight or short stay | Dərəγa-zrvāna pāti-nmana mashyāi haraiti xšapō, ayara, vā pouru ayara |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Ciš fradathaiti?** Pa NIA, rāma haca vīs, haxā vā a-frapte mashyāka asna aŋhat. Bēšazya vərəzyā paiti-ratvō vā ayarō dāiti. Mashyāi yō hospice-pāitīm jasaiti, Medicare vispa fradaiti panca ayara rāmō-pātīm nmanō bēšazyō vā āstāne. Medicaid upastām dāiti. Private pāitīš nōit rāma fradaiti, bā dərəγa-zrvāna pāitīš aipyehe fradaiti.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Vaxš:** Alzheimer's Association aojaiti yaϑa rāmō-dānō parō sūdrō vərəzyata, yaϑa pərəno-drvatō bavat yezī aipī sūdrō jasaiti.
 
-## Where can I find help near me?
+## Kvada upastām nazdištō vindāmi?
 
-Several free US services can point you to local help.
+Pouru US asna dāmā zantu-upastām dāire.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) asti asna uta gūzra, vispāi zrvāne paiti ayarəm zrvāne, pa 200 hizvām paiti fravaxšim uta gūzra-vacō. Nipiša 711 relay vərəzyanāi. Tū pərəsahi manō-vərəzya, harətō-sraoman, rāmō gātava, zantu-dāmā uta aipī paiti pərəsā-mashya aojana. Vərəzya nōit bēšazyā sravō dāire.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), Administration for Community Living asna dāma, upastām dāiti zaranəm mashyāka uta nmanō. Tū garəzahi, nipišahi, text, online chat vā email, vā zantu-gātu vindoiti. Tē zantu Area Agency on Aging vindaiti.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) rāmō-dānō dāiti pa state, uta aojaiti parō State Respite Coalition vā Lifespan Respite zantu pərəsa. ARCH vaocaiti nōit aipī dānō paiti-vaocaiti, aēva xᵛaēpaithyehe vīdva uta arəϑəm pərəsa.
 
-## How do I find a support group?
+## Cithā handātō-upastām vindāmi?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Helpline pərəsa vā online nazdištō gātūm pərəsa. Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) harətō uta mashyāka yō baodah-vīšištīm dārayeiti, paitišta uta online, fravaxšta naram. Pouru gātava dāire aipī gātu, yaϑa mashya harata vā yō pauru-zrvāna Alzheimer dārayeiti. Aipī ALZConnected dāiti, asna online handātō yaϑa harətō vaxšā aojāire.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Handātō-upastā gātu asti yaϑa garəzahi an-tarō-matay, vahu vaxšā haca mashyāka yō aipī aŋhat vindahi, uta nōit aēva aŋha. Yezī fratarō nōit xšnūto, aipīm pərəsa.
 
-## How do I ask family and friends for help?
+## Cithā vīs uta haxaminō upastām jaidyāmi?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Arəϑō aoja. Pouru mashyāka upastām vasənti bā nōit vīdva ciš dāire. NIA aojaiti:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Nipišta dāraya** vərəzyanō yaϑa anya vərəzyan, uta dāta yūš.
+- **Kasu aipya** yezī pərəsa xruwišya asti.
+- **Vərəzyō avi narəm frada.** Haxa yō xᵛarəθa-carano xᵛarəθəm jasaiti. Haxa yō nipišta-vīdva fravaoxša dāiti.
+- **Text vā email nipiša** yezī aēva-manō paiti pərəsa duš-cara asti.
+- **Paiti-vaca carana** yezī anya dāiti: "Spās tē pərəsātō. Aētada vərəzyāhi."
+- **Nōit-vacō dāra** uta nōit xᵛa-tarō āra.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Anya manah: mashyāi pərəsa aēvəm apara-ayarō mashyāka haxma āsīti, kasu-ayara vazaiti, vā jasaiti uta hām-kərənvaiti. Ahmākō [guide to playing together](/caregiving/how-to-play-together/) asna vīsbyō dāiti.
 
-## What if something happened to me?
+## Ciš yezī mē cišca jasaiti?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Pasca-dātəm azditə kərənu. NIA aojaiti vīs vā haxaminō ham-aoja ciš aipī jasāiti, uta nipišta-pōstəm dāraya pa sūdrō-zrvāna nipišta, bēšaza, vərəzyō-vaxšā, uta fraxšnīm vərəzyanō. Alzheimer's Association aipī aojaiti bēšazyō naram uta upa-zrvāna bēšazō-pōstəm asna dāraya.
 
-## When should I get professional or urgent help?
+## Kada bēšazyō vā sūdrō upastām jasāni?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Bēšazānō pərəsa yezī sraoma vispāi zrvāne jasanti, yezī anāmanahya dārayahi, vā yezī duš-cara asti. Bēšazānō aoja tū harata ahi. NIA vaocaiti fraxšnī-nar uta social workers dāire upastām manah-ārtayō uta pātīm, uta Medicare, Medicaid uta private insurance manah-drvatātō fradathaiti.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Yezī vīpatō aŋha vā tanu-janyō manō dārayahi, zbayata vā nipiša 988 avi [988 Suicide & Crisis Lifeline](https://988lifeline.org/), asna uta 24/7 zrvāne. Yezī sūdrō an-drvatās asti, zbayata 911.
 
-## Can shared activities give me a break too?
+## Ham-vərəzyā mē rāməm dāiti?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Hakat. Rāma vərəzya yā dōva xšnūte rāmō-zrvana dāiti tē uta mashyāi yim harahi: pauru gāθāiš sruye, pātō-kərəfš dišye, vā kərətya yāθa [Conversation Cards](/games/conversation-cards/) yā nōit pərənō paiti-vacō jaidyaiti. Yezī mashya haxaminō vasaiti, hām-handātō pa [Picture Bingo](/games/picture-bingo/) senior center vā adult day program aēvəm ratūm rāməm tē dāiti. Dīš [activities for care home groups](/activities/care-home-groups/) parō manah.

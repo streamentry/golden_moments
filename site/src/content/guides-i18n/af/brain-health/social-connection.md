@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Sosiale kontak en breingesondheid: Eensaamheid en demensie"
+seoTitle: "Eensaamheid, sosiale isolasie en demensierisiko"
+description: "Hoe eensaamheid en isolasie met demensie verband hou, wat navorsing toon, en eenvoudige maniere om saam in verbinding te bly."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Navorsing verbind sosiale isolasie en eensaamheid op ouer ouderdom met ’n hoër risiko vir demensie.
+  Die 2024 Lancet-kommissie beraam dat isolasie vir ongeveer 5% van gevalle verantwoordelik kan wees,
+  alhoewel vroeë demensie ook kan veroorsaak dat mense hulself onttrek. Om kontak te behou, gedeelde
+  stokperdjies en gehoorondersteuning help alles om verbonde te bly. Vir mense wat met demensie leef,
+  is gedeelde aktiwiteite belangrik vir lewensvreugde en lewensgehalte.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Die Lancet-kommissie lys sosiale isolasie op ouer ouderdom as een van 14 veranderbare demensierisikofaktore, verantwoordelik vir ongeveer 5% van gevalle."
+  - "Die Amerikaanse Algemene Geneesheer se 2023-advies het chroniese eensaamheid en isolasie verbind met ’n sowat 50% hoër risiko vir demensie by ouer volwassenes."
+  - "Die meeste van hierdie bewyse is waarnemend, en vroeë demensie kan self veroorsaak dat mense hulself onttrek."
+  - "Gehoor- en sigprobleme, om alleen te woon en om vir iemand te sorg, verhoog alles die risiko van isolasie."
+  - "Vir mense wat met demensie leef, ondersteun genotvolle gedeelde aktiwiteite lewensgehalte; die doel is verbinding, nie prestasie nie."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Veroorsaak eensaamheid demensie?"
+    a: "Dit is nog nie bewys nie. Baie studies verbind eensaamheid en isolasie met ’n hoër risiko vir demensie, maar vroeë breinveranderings kan ook daartoe lei dat mense hulself van ander onttrek. Om in verbinding te bly hou baie ander voordele vir gemoed en gesondheid in, so dit is in elk geval die moeite werd om te ondersteun."
+  - q: "Wat is die verskil tussen eensaamheid en sosiale isolasie?"
+    a: "Sosiale isolasie beteken dat ’n mens min mense het om gereeld mee te gesels of kontak te hê. Eensaamheid is die seer gevoel van alleen of afgesny wees. Jy kan alleen woon sonder om eensaam te voel, of eensaam voel terwyl jy deur mense omring is."
+  - q: "Hoe kan ek ’n ouer wat met demensie leef help om verbind te bly?"
+    a: "Kort, gereelde kontak werk goed. Probeer ’n vaste weeklikse oproep of video-oproep, ’n gedeelde aktiwiteit by die kombuistafel, ’n geheuekafee, of ’n kuier saam met ’n troeteldier of kleinkind. Hou groepe klein en rustig, en laat die persoon die pas bepaal."
+  - q: "Waar kan ek plaaslike hulp kry vir ’n ouer persoon wat geïsoleer is?"
+    a: "Die Eldercare Locator, ’n openbare diens, verbind gesinne met plaaslike agentskappe vir bejaardes en gemeenskapsprogramme. Hulle kan bereik word by 800-677-1116 of by eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Mense is gemaak vir geselskap, en dit verander nie soos ons ouer word nie. Navorsing verbind eensaamheid en sosiale isolasie op ouer ouderdom met ’n hoër risiko vir demensie, asook hartsiektes en depressie. Die navorsing kan nog nie sê hoeveel van daardie skakel oorsaak en gevolg is nie. Hierdie bladsy verduidelik wat die bewyse toon, praktiese maniere om in verbinding te bly, en waarom gedeelde aktiwiteite so belangrik is vir mense wat reeds met demensie leef.
 
-## Are loneliness and isolation linked with dementia?
+## Hou eensaamheid en isolasie verband met demensie?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Ja, baie studies verbind dit met mekaar, hoewel die oorsaaklike rigting nie heeltemal duidelik is nie. Die [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lys sosiale isolasie op ouer ouderdom as een van 14 veranderbare risikofaktore. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) beraam dit op ongeveer 5% van demensiegevalle wêreldwyd.
 
-What the evidence shows:
+Wat die bewyse toon:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Minder kontak, hoër risiko.** Die Kommissie beskryf twee oorsigte wat minder gereelde sosiale kontak met ’n hoër risiko vir demensie verbind het. Een het ’n sowat 57% hoër risiko bevind en die ander sowat 18%.
+- **Eensaamheid ook.** Eensaamheid, die gevoel om afgesny te wees, is ook in verskeie oorsigte met ’n hoër demensierisiko verbind.
+- **Die Algemene Geneesheer se mening.** In Mei 2023 het die Amerikaanse Algemene Geneesheer ’n [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) uitgereik. Dit meld dat chroniese eensaamheid en isolasie die risiko vir demensie by ouer volwassenes met sowat 50% kan verhoog. Dit het ook gebrekkige sosiale verbinding gekoppel aan ’n 29% hoër risiko vir hartsiektes en ’n 32% hoër risiko vir beroerte.
+- **Hoe algemeen dit is.** ’n [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) het bevind dat sowat 24% van ouer volwassenes van 65 en ouer wat tuis of in die gemeenskap woon, sosiaal geïsoleer is.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+’n Belangrike waarskuwing: die Lancet-kommissie merk op dat mense dalk minder aan sosiale aktiwiteite deelneem tydens die vroeë, ongediagnoseerde fase van demensie. Dit beteken dat ’n deel van die verband dalk kan wees dat demensie onttrekking veroorsaak, en nie net dat onttrekking die risiko verhoog nie. Byna al hierdie bewyse kom uit waarnemingstudies.
 
-## What is the difference between loneliness and isolation?
+## Wat is die verskil tussen eensaamheid en isolasie?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+Die [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) verduidelik dit só. **Sosiale isolasie** beteken om min sosiale kontakte te hê of min mense waarmee ’n mens gereeld omgaan. **Eensaamheid** is die ontstellende gevoel om alleen of afgesonder te wees. Iemand kan heeltemal tevrede alleen woon, en iemand kan eensaam voel in ’n vertrek vol mense.
 
-The NIA lists factors that raise the risk of both:
+Die NIA lys faktore wat die risiko vir albei verhoog:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Gehoor- of sigprobleme
+- Sukkel om rond te beweeg, of ’n gebrek aan vervoer
+- Om alleen te woon, of ’n groot verlies soos die afsterwe van ’n huweliksmaat of aftrede
+- Veranderinge in geheue of denkvermoë
+- Omsien na ’n geliefde wat siek of ongesteld is
+- Geldsorge of taalhindernisse
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Gehoor is ’n baie belangrike faktor. Die NIA wys daarop dat mense wat nie goed hoor nie, hulself kan onttrek omdat gesprekke frustrerend of verleentheidwekkend raak. Ons [gids oor gehoor en breingesondheid](/brain-health/hearing/) behandel gehoortoetse en vrylik beskikbare gehoorapparate.
 
-## Practical ways to stay connected
+## Praktiese maniere om in verbinding te bly
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+Die NIA stel ’n verskeidenheid idees voor. Kies een of twee wat pas:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Beplan gereelde kontak.** ’n Vaste tyd elke dag of week om te bel, ’n boodskap of e-pos te stuur, of ’n kaartjie te stuur aan familie, vriende of bure.
+- **Gebruik video-oproepe of slimluidsprekers.** As tegnologie nuut is, bied baie openbare biblioteke en gemeenskapsentrums klasse aan. Sien ons [gids oor telefoon- en video-oproepe](/activities/phone-and-video-calls/).
+- **Sluit by iets aan.** ’n Klas, geloofsgemeenskap, stapgroep of vrywilligerswerk bied kontak en ’n gevoel van doelgerigtheid.
+- **Begin weer met ’n ou stokperdjie** of leer ’n nuwe een saam met ander mense.
+- **Beweeg saam met ander.** Oefen saam met ’n maat of ’n groep. Ons [oefengids](/brain-health/exercise/) bevat ligte opsies.
+- **Oorweeg ’n troeteldier** as jy vir een kan sorg.
+- **Gebruik plaaslike dienste.** Bejaardesentrums, plaaslike ondersteuningsdienste en die Eldercare Locator (800-677-1116) kan jou na programme en vervoer verwys.
 
-## Why do shared activities matter in dementia?
+## Waarom maak gedeelde aktiwiteite saak by demensie?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Vir iemand wat reeds met demensie leef, gaan verbinding oor genot, troos en die gevoel dat hulle deel van dinge is – nie oor die verlaging van risiko nie. Die Lancet-kommissie meld dat aktiwiteite mense wat met demensie leef help om lewensvreugde en ’n doel te behou. Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) merk op dat aktiwiteite, buiten die verbetering van lewensgehalte, ook gedrag soos doellose ronddwaal of rusteloosheid kan verminder. Die [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) voeg by dat mense met Alzheimer se siekte aktief moet wees en dinge moet doen wat hulle geniet.
 
-Ideas that work well:
+Idees wat goed werk:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Kyk saam na prente.** [Conversation Cards](/games/conversation-cards/) bied oop vrae sonder toetsing soos „Vertel my van...”. Sien ons [gids oor herinneringe](/activities/reminiscence/).
+2. **Speel sy aan sy.** [Picture Pairs](/games/picture-pairs/) hou prente sigbaar en het geen tydhouer of telling nie, sodat daar geen druk is nie. Ons gids oor [hoe om saam te speel](/caregiving/how-to-play-together/) het nuttige wenke.
+3. **Gebruik familiefoto’s.** [Photo Pairs](/games/photo-pairs/) verander foto’s wat jy self kies in ’n pasmaatspeletjie, en die foto’s bly veilig op jou toestel.
+4. **Bring mense bymekaar.** [Picture Bingo](/games/picture-bingo/) werk uitstekend vir gesinsbyeenkomste en [sorghuisgroepe](/activities/care-home-groups/).
+5. **Deel musiek, takies of die tuin.** Sien [musiekaktiwiteite](/activities/music/), [huishoudelike take](/activities/household-tasks/) en ons volledige lys van [aktiwiteitsidees](/activities/ideas/).
+6. **Maak kuier makliker.** Ons [kuiergids](/activities/visiting/) dek kort, rustige kuiers wat vir almal aangenaam voel.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Hou dit klein en ontspanne. ’n Rustige vertrek met een of twee mense werk dikwels beter as ’n groot groep. As die persoon moeg word of belangstelling verloor, is dit heeltemal reg om op te hou. Om rustig saam met ’n koppie tee te sit, is net so ’n mooi uitkoms.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Vir iemand wat met demensie alleen woon, stel die NIA voor om ’n betroubare persoon te vind wat gereeld kan kom kuier of video-oproepe kan maak en as ’n noodkontak kan dien. Hulle noem ook ’n plaaslike geheuekafee – ’n ontspanne sosiale bymekaarkomplek vir mense met geheueverlies en hul families.
 
-## Caregivers get lonely too
+## Versorgers raak ook eensaam
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+Die NIA lys die versorging van ’n geliefde as ’n risikofaktor vir isolasie. Behou tyd vir jou eie vriendskappe, ondersteuningsgroepe en rus. Ons [selfversorgingsgids vir versorgers](/caregiving/caregiver-self-care/) bevat praktiese idees.
 
-## Talk with a doctor
+## Praat met ’n dokter
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+As jy of iemand vir wie jy sorg dikwels eensaam of geïsoleer voel, praat met ’n dokter. Die NIA moedig mense aan om groot lewensveranderings, soos ’n sterfgeval in die familie, met die dokter te deel sodat hulle die volle prentjie verstaan. As iemand weke aaneen neerslagtig voel, kan dit depressie wees, wat behandel kan word. As ’n ouer volwassene onlangs begin wegbly het van vriende of aktiwiteite wat hulle voorheen geniet het, is daardie verandering ook die moeite werd om aan ’n dokter te noem. Lees [vroeë tekens en wanneer om ’n dokter te sien](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Hierdie bladsy verskaf algemene inligting, nie mediese raad nie. Sien ons [mediese vrywaring](/medical-disclaimer/).

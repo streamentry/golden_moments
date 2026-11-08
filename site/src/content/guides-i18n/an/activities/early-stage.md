@@ -1,32 +1,33 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Actividaz pa la fase inicial d'a demencia"
+seoTitle: "Actividaz en fase inicial d'a demencia: ideyas útils"
+description: "Ideyas d'actividaz pa la fase inicial d'a demencia: aficions, chuegos y salidas con chicoz cambios pa continar disfrutando y decidindo chuntos."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  En a fase inicial d'a demencia, a mayoría d'as personas pueden continar
+  fendo lo que les fa goyo: aficions, cartas y chuegos de mesa, cocinar,
+  chardinería, paseyar, clubs, actividaz relichiosas y voluntariau. Os cambios
+  prencipals son grupos más chicoz, salidas más curtas, plans sinzillos per
+  escrito y una persona amanada pa refirmar. Pregunta a la persona qué aduya
+  quiere y deixa que sía ella qui guíe.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "A mayoría d'as personas en a fase inicial viven con prou independencia. Por un regular, as actividaz nomás amenistan adaptar-se, no sustituyir-se."
+  - "Pregunta a la persona qué aduya quiere y alcuerda un sinyal simple pa saber quán ye bien recibida l'aduya."
+  - "Grupos más chicoz, momentos más tranquilos y salidas más curtas gosan fer una gran esferencia."
+  - "Ye un buen momento pa que la persona lidere prochectos sobre a suya propia vida, como un diario u un libro d'a suya historia de vida."
+  - "Tria chuegos pa disfrutar. Si belún prencipia a pareixer un examen, ye millor deixar-lo."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Qué actividaz son buenas en a fase inicial d'a demencia?"
+    a: "Por un regular, as mesmas que la persona ya disfruta: cartas, chuegos de mesa, cocinar, chardinería, paseyar, musica, actividaz relichiosas, clubs y voluntariau. Talment sigan menester fer-las más curtas, tranquilas u simples. Escribir un diario, cartas u fer un libro d'a historia de vida tamién s'adaptan muito bien a ista etapa."
+  - q: "Cómo puedo aduyar sin prener o control?"
+    a: "Pregunta qué mena d'aduya quiere la persona y charra con ella a sobén. Alcordatz una frase u un cenyal con a cabeza que signifique que puez intervenir, por eixemplo si no le sale una parola u un nombre. Si no i hai risgo pa la seguranza, deixa que lo faiga a la suya traza, encara que tarde más tiempo."
+  - q: "Hauría una persona con demencia en fase inicial de prebar nuevas actividaz?"
+    a: "Sí, si en tien ganas. As aficions conoixidas gosan estar más facils, pero muitas personas disfrutan de prebar bella cosa nueva, como un grupo de paseyo adaptau a personas con demencia, una clase d'arte u un grupo de canto. Prebatz-lo una vegada sin garra presión pa veyer cómo va."
+  - q: "Valen a pena as aplicacions d'entrenamento mental en a fase inicial?"
+    a: "A bellas personas les fa goyo fer trencacapuzas y chuegos de parolas, y ixe disfrute ya ye prou motivo. No s'ha demostrau que garra aplicación u chuego tracte, ralentice u ature a demencia. Si un chuego chenera estrés u fa sentir que se ye fallando, ye millor deixar-lo a un costau."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +49,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+En a fase inicial d'a demencia, muitas personas continan fendo una vida prou pareixida a la d'antis más. Pueden treballar, fer voluntariau, quedar con amigos y organizar gran parte d'o suyo día. Por un regular, as actividaz no amenistan cambiar-se por atras; nomás cal fer-ie bels chicoz relochustes pa que sigan estando placenteras. O tuyo papel ye más amanau a lo d'un companyero que a lo d'un cuidador: belún que refirma, planifica chunto con ella y nomás intervién quán li lo demanan.
 
-## What activities are good in early-stage dementia?
+## Qué actividaz son buenas en a fase inicial d'a demencia?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+As millors actividaz en a fase inicial gosan estar as que a la persona ya le cuacan, adaptadas pa fer-las una mica más facils. A [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) suchiere ideyas como chuegos de cartas y de mesa, sopas de letras, paseyar, bailar, chardinería, centros florals, contar historias, pintar, musica, escribir un diario, redatar cartas, álbums de retalles, cocinar y tradicions de fiestas.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+A sobén o que cambia ye l'entorno y no pas l'actividat en sí. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sinyala que as personas en a fase inicial pueden prencipiar a alpartar-se de cosas que antes disfrutaban, y posa l'eixemplo de belún que se siente abrumau en una fiesta gran pero que se troba muito millor en un grupo chicot. Charratz con franqueza sobre o que resulta más costoso y adaptat-lo chuntos.
 
-## Ask first, and agree on how to help
+## Preguntar primero y alcordar cómo aduyar
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+A [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suchiere bells habitos que tamién se pueden aplicar a las actividaz:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Preguntar dreitament.** «Qué fería que o club de lectura te fuese más facil?» obtiene una millor respuesta que no pas mirar d'adivinar-lo.
+- **Dar por feito que pueden.** Si no i hai garra risgo pa la seguranza, deixa que la persona lo intente y anima-la en cuenta de fer-lo por ella.
+- **Alcordar un sinyal.** Triatz una frase u un cenyal con a cabeza que signifique «ye bien que m'aduyes», por eixemplo si no se remera d'un nombre mientres una partida de cartas.
+- **Revisar a sobén.** Pregunta si a cantidat d'aduya pareixe bien, masiau u poca.
 
-## Activity ideas for the early stage
+## Ideyas d'actividaz pa la fase inicial
 
-### Keep up roles and hobbies
+### Mantener quefers y aficions
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Mantener un compromiso regular.** Un voluntariau semanal, o coro u un club dan estructura a la semana. Si resulta estresant, un paper más curto u tranquilo puede encaixar millor.
+- **Planificar as comidas chuntos.** Si fer a compra s'ha tornau frustrant, l'Alzheimer's Association suchiere demanar a la persona que aduye a planificar o menú semanal y a escribir a lista d'a compra en cuenta d'ir-ie.
+- **Cocinar y repostería.** Seguitz chuntos una receta que vos cuaque. Preparatz os ingredients en orden antes de prencipiar, de traza que os pasos sigan bien visibles.
+- **Chardinería y huerto.** Planificatz una tabla u un tiesto, trigatz simients u plantas y feiz as fayenas chuntos. Una lista escrita con as fainas d'a semana en o chardín resulta d'aduya.
+- **Continar con as manualidaz.** A fustería, coser, fer calceta u o modelismo pueden continar fendo-se con patrons más simples y buena iluminación.
 
-### Games for enjoyment
+### Chuegos pa disfrutar
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Chugar a cartas y chuegos de mesa.** Os chuegos conoixius son os más facils. Chugatz por equipos pa que dengún no se sienta en o foco, y anotatz os puntos de traza relaxada u sin levar a cuenta.
+- **Prebar una sopa de letras con letra gran.** A nuestra [sopa de letras](/games/word-search/) se puede chugar en pantalla u imprentar pa pasar un rato tranquilo.
+- **Fer trencacapuzas.** Triga un numero de piezas que resulte relaxant y no un reto dificil. [Puzle d'imáchens](/games/picture-puzzle/) ye una versión curta en pantalla, y a nuestra guía sobre [trencacapuzas pa la demencia](/activities/puzzles/) explica cómo trigar-ne un.
+- **Chugar a preguntas y respuestas por diversión.** A bellas personas les encanta una tarde de preguntas en equipo. Si prencipia a pareixer un examen, triga atra cosa u preba as nuestras [preguntas facils de trivia](/activities/trivia/), que vienen con opcions de respuesta y sin puntuación.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Aquí os chuegos son pa pasar-lo bien. No s'ha demostrau que garra chuego tracte u ralentice a demencia; leye más en [chuegos mentals: qué diz a investigación](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Escribir, reflexionar y recopilar
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Levar un diario.** L'Alzheimer's Association suchiere escribir un diario como una forma d'asumir os sentimientos dimpués d'un diagnostico. Bels renglons a lo día son prou.
+- **Elaborar un libro d'a suya historia de vida.** A fase inicial ye un buen momento pa que la persona trigue as suyas propias fotos y escriba u dicte as historias que i hai dezaga d'ellas. Consulta as [actividaz de reminischencia](/activities/reminiscence/).
+- **Escribir cartas.** Una carta a un nieto, a una viella amistanza u a un antigo companyero de treballo puede estar muito significativa pa totz dos.
+- **Conversar con fotos.** [Parellas de fotos](/games/photo-pairs/) transforma fotos familiars en un chuego suau d'emparellar, y as [tarchetas de conversación](/games/conversation-cards/) ofreixen temas sinzillos pa prencipiar a charrar.
 
-### Go out and move
+### Salir y mover-se
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suchiere continar fendo as salidas habituals entre que totz dos vos sintatz comodos. Planifica-las en o millor momento d'o día pa la persona y mira que no s'alarguen masiau.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Salidas culturals curtas.** Un museu, una función de tarde u una exposición d'arte, millor en un momento de poca chent.
+- **Natación.** O NIA suchiere ir a la piscina en as horas con menos chent.
+- **Grupos de paseyo y clases de baile.** O [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) menciona o baile, o tai-chi, o yoga, a natación y os grupos de paseyo, asinas como sesions adaptadas a personas con demencia allá a on en i haiga disponibles.
+- **Grupos de canto y cafés d'a memoria.** Grupos tranquilos a on as personas que viven con demencia y qui las acompanya pueden trobar-se con atras personas en a mesma situación.
 
-## Small changes that keep activities enjoyable
+## Chicoz cambios pa continar disfrutando d'as actividaz
 
-| If this is getting harder | Try this |
+| Si esto se fa más dificil | Preba con esto |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Lugars con muito movimiento u rudio | Ir en horarios tranquilos, trigar grupos más chicoz, posar-se a lo canto d'a sala |
+| Remerar nombres nuevos | Presentar a las personas por o suyo nombre cada vegada; demanar en os grupos que porten etiquetas con o nombre |
+| Seguir plans de quantos pasos | Escribir os pasos u preparar tot en orden antes de prencipiar |
+| Cansera | Salidas más curtas, un descanso dimpués, no planificar garra atra cosa ixe día |
+| Seguir o filo d'un chuego | Chugar en equipo, simplificar as reglas u no contar os puntos |
+| Trobar as parolas | Dar tiempo; sucherir una parola nomás si o sinyal alcordau indica que se faiga |
 
-## When to slow down
+## Quándo baxar o ritmo
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Atura u cambia una actividat quán porte más estrés que no placer. Una frustración continada, evitar una afición u dicir «ya no puedo más» mereixen una charrada con tacto, sin presionar. A sobén a solución ye fer una versión más reducida d'a mesma actividat. Quán a persona ameniste más aduya pa prencipiar y seguir os pasos, as ideyas d'as [actividaz pa la fase meya](/activities/middle-stage/) pueden encaixar millor. Pa saber más sobre cómo mantener una conversación de refirme, consulta os [consellos de comunicación](/caregiving/communication-tips/), y pa trobar muitas más ideyas, vesita [101 actividaz](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+As personas que acompanyan tamién amenistan refirme. A fase inicial ye un buen momento pa creyar a tuya propia ret d'aduya; consulta l'[autocudiau d'a persona cuidadora](/caregiving/caregiver-self-care/).

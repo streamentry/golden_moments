@@ -1,33 +1,32 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Handarzā Paiti-mraoi yaŋhe Manaŋhō Frasisiyeiti"
+seoTitle: "Vacō Handarzā: Čit Mruye čitca Para-mruye"
+description: "Hu-dāitya paiti-mraoi yōim xratu-frasisištīm dārayeiti: ciϑa vacō dāiti, čit mraoiti vī a-pərəsa, yaϑaca gaošayāiti."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Tušnō-stāne mraoya, paiti-ainika stahi, nāmanəm paiti-mruye, yāskərətamca
+  mərəzu-vacahi mraoya. Aēva-pərəsam aēva-zruye pərəsa, duye vara dāhiti,
+  darəγamca māraya. Mā a-ərəzō paiti-saŋha, mā frasa zōžda. Manaŋhō cistīm
+  paiti-mruye, zastaca, paēsa, aojō yasca vacō frasisiyeiti.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Tušnīm karana dāraya, cašmanō paiti-ainikəm vīna para paiti-vacahya."
+  - "Mərəzu-vacā mruye, aēva cistīm aēvada, nāmanica dāraya paiti taēibyō."
+  - "Duwayå vī-ciϑəm dāraya, ayauua a-nōit pərəsa, vī vispa-pərəsam."
+  - "Paiti-vacahya māraya. Yezi nōit gaošāite, tāmca vacīm paiti-mruye, pasca anya vacā."
+  - "Mā paiti-ərəzayeiti. Paiti-ainike manaŋhō garəma paiti-mruye yā mraoiti."
+  - "Yadā vacō frasisiyeiti, zasta-paiti, garəma-vacahya, ainika, paēsaica paiti-mraoya."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Čit nōit paiti-mraoya ahmāi yaŋhe manaŋhō frasisiyeiti?"
+    a: "Para-mruye a-pərəsa (\"Aiti-mərəti...?\"), arəm-karana (\"Nōit aša asti\"), ayauua a-frasa ahmya yaϑa nōit ahmya asti. Mā vīra-apara vacā mraoya. Imā xrafstra cistīm dāiti a-rafnō."
+  - q: "Paiti-ərəzāne-vā yadā a-dāityō mraon?"
+    a: "Nōit yākarə. Yezi a-aša nōit duš-ciϑra, haca-para dāraya. Paiti-saŋha nōit manaŋhō pairi-kerete, xratu-ərəzō tbaēšō dāiti. Dāraya yaϑa garəma manaŋhō asti nūra."
+  - q: "Čit varəsayāmi yadā nōit vacəm vindaiti?"
+    a: "Paoirīm zrvānəm dāraya. Yezi vī-baon, paiti-vohum vacəm dāhiti ayauua pərəsa čit xratūm cisti. Zastayā daxštəm, paēsaica ahmya avastara bånti."
+  - q: "Ciϑa mraomi ahmāi yaŋhe darəγō-marəzō asti yasca apanō-vacō?"
+    a: "Paiti-ainikəm a-cara, nāmanəm saŋha, tušnō-vacahya zasta dāraya. Ainika gaošaya. Haca thwā stiti, sraoša-gāϑā, ayauua zasta-dārayana paiti-vacahya borzō asti a-vacahya."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +42,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Xratu-frasisištiš vacanąm vi-vidəm, darəγō-vacahya paiti-ayəm, ayauua garəma-sraoša tušnəm karanam kašu bavāiti. Nōit aēte cisti yaϑa nā yōim tū pātayasi nōit vasaiti haxədra. Kasu-tarō vī-daēza ahmya ciϑa paiti-vacō fravarəzahi, ciϑa mraohi, ciϑaca gaošayahi paiti-vacō hu-tarəm tušnō-tarəmca dāiti duwayō paiti.
 
-## What are the most important tips for talking with someone who has dementia?
+## Čit asti mašišta handarzā paiti-mraoi yaŋhe manaŋhō frasisiyeiti?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Uši dāraya, mərəzu dāraya, darəγō-manahca bava. Yezi 5 aēte paitī-marahi:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Tušnīm garəzō dāraya, ainika stahi.** Paiti-sraošəm para-dāraya, cašmanō daēza paiti-nica, nāmanəmca mraoya.
+2. **Aēva cistīm aēvada saŋha.** Mərəzu-vacā, aēva daēza, aēva pərəsa.
+3. **Duwayå vī-ciϑəm dāraya.** "Xaoma-vā kafo-vā?" hu-tarəm asti yaϑa "Čit vasahi?"
+4. **Māraya.** Zrvānəm dāraya paiti-vacahya darəγō-tarəm, māca a-zrvāne ahmya antarə-cara.
+5. **Mā paiti-ərəzaya mā pərəsa zōžda.** Manaŋhō garəma paiti-mruye, nōit aša-vā dāityō-vā asti.
 
-## How should I start a conversation?
+## Ciϑa paoirīm paiti-vacahya fravarəzāmi?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Vərəzyō yaϑa nā paitī thwā uši dārayeiti. [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) handarzā dāiti tušnəm karanam paoirīm: paiti-sraošəm para-dāraya, dvarəm cašmanō-vāra-ca paiti-mada, ayauua tušnō-stāne cara.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Paoirīm ainikəm a-cara.** Apasca ayauua a-arəzō a-cara tərəsənti.
+- **Nāmanəm saŋha ci-ahi.** "Dātarə, azəm Sarah thwā duhda." Aēte ahmāi rafnō dāiti vī nāma vīndəm.
+- **Ainika-daēzəm nica-cara.** Yezi stāiti, nica-hida ayauua zānubyō stahi yaϑa cašmanō daēza aēva asti.
+- **Ainika vacahya garəmaca vi-mana.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) saŋhaiti garəma-vacō, sraoša, ainika yasca kehrp-daxšta uši dāraya, hu-manahca hu-dāityaca bava.
+- **Cašmō-yāna sraoša-yānaca dāraya.** Hu-vacō paiti-ayəm nōit bavaiti yezi nōit vīnaiti ayauua sraota.
 
-## How should I phrase what I say?
+## Ciϑa vacā paiti-saŋhāmi?
 
-Use simple words, short sentences and a calm, low voice.
+Hu-vacā, mərəzu-vacā, tušnō-tarəmca gaošō-vacō dāraya.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Aēva cistīm aēva-vacahi.** "Vastra pairi-dāma. Pasca bērūn šavāma." Nōit duwayō aēva-hazaŋha.
+- **Nāmanica dāraya, nōit taēibyō.** "Jean paiti-mraot" hu-tarəm asti yaϑa "Hō paiti-mraot."
+- **Nica-sraoša, nōit borzō.** Family Caregiver Alliance nica-sraoša vacō rafnō dāiti nōit borzō-sraošəm.
+- **Paiti-mraoya, pasca vī-vacō.** Yezi nōit gaošāite, tāmca vacīm aēvada paiti-mruye. Yezi nōit vərəzyeiti, māraya kašu, pasca anya vacā vərəzya.
+- **Daxšta zastaica dāraya.** Jam a-daxštaya, duye vastra dāraya, ayauua paoirīm pada daxštaya.
+- **Ahmāi mraoya, nōit tarō ahmāi.** NIA paiti-tbaēšiti tarō ahmya mruye yaϑa nōit ahmya asti, vī-ca vīra-apara vacā.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA hu-tarəm vī-daēzəm frasanąm dāiti. Aēte ahmya daēzya:
 
-| Instead of | Try |
+| Para-mruye | Vərəzyō |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Čit xvarəϑāi vasahi?" | "Masyō-vā vā sayanəm vasahi?" |
+| "Ciϑa manaŋha ahi?" | "Škəndo-vā ahi?" |
+| "Āsitō-vā ahi?" | "Xvarəϑa 5 kašu-zrvāne dāitīm bavaiti." |
+| "Nōit aēm daēvō-dāta asti." | "Ahmya dāitye vərəzyāma." |
+| "Paitī-marahi yānəm awai vairye?" | "Manaŋha dārayeimi aēm yānəm awai vairye. Saŋha čit thwāi fra-dāiti." |
+| "Paoirīm thwā saŋhəmi." | Paiti-mruye paiti, hu-manaŋha, yaϑa paoirīm zrvāne. |
 
-## How do I listen well?
+## Ciϑa hupaiti gaošayāmi?
 
-Listen for the meaning and the feeling, not just the words.
+Gaošaya cistīm garəmaca manaŋhō, nōit aēva vacā.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Māraya.** Tušnīm zrvān cistīm dāiti. Yāskərətam paiti 10 frasaŋha para antarə-carahi.
+- **Vacəm dāhiti yezi a-vīndō.** Family Caregiver Alliance saŋhaiti hu-dāityam asti vacəm dāiti yezi vī-baon.
+- **Paiti-daēza čit sraota.** [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) saŋhaiti cistīm a-vacahi gaošaya, paiti-saŋha yaϑa gaošāite. "Vaza-paitī šaēti-vā ahi?"
+- **Ainika kehrp-ca daēza.** Yadā vacō frasisiyeiti, NIA saŋhaiti, ainika arskəm, aēšəm, ayauua škəndəm ahmya dāiti hu-tarəm yaϑa vacā.
+- **Zōžda manah paiti-dāraya.** Yezi tbaēšō haca a-aša bavāiti, garəma manaŋhō aša asti.
 
-## What if they say something that is not true?
+## Čit yezi nōit ašəm mraon?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Mā paiti-ərəzaya. Nōit parō-bavahi, nāca škəndō ayauua tarsnu bavāiti. Haxədra garəməm dāraya, pasca hu-manaŋha tarō-cara.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance saŋhaiti garəməm manaŋhō paiti-dāraya para tarō-carahi. Daēza, yezi mātā paiti-saŋhaiti yaϑa vasaiti apara-yō vi-carana:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Para-mruye: "Mātō, apanō-vīra hando. Aēm 40 zrvāna para āsta."
+- Vərəzyō: "Tū dāim hu-pātaye mātā āsta. Saŋha maibyō yaϑa pātayata. Paoirīm-vā kašu xvarəϑəm xvarāma?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association ahmya paiti-saŋhaiti mā paiti-ərəzaya ahmya yaŋhe a-ašō ahi. Zrvānəm vī-ci: yezi a-dāitya a-duš-ciϑra asti, dāraya bavaiti.
 
-## How does communication change as dementia progresses?
+## Ciϑa paiti-vacō paityeiti yadā xratu-frasisištiš tarō-aiti?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Zrvān tarō-aiti, handarzā vī-daēzya. Alzheimer's Association 3 paiti-pada dāiti:
 
-| Stage | What helps |
+| Zrvān | Čit rafnō dāiti |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Paoirya | Mā manayō yaϑa nōit paiti-vacō dārayeiti. Paiti-vacahi dāraya, ahmāi frasaŋha, pərəsa čit rafnō vasahi, caratu-ca dāraya yezi rafnō dāiti. |
+| Maidyāna | Aēva aēvada paiti-vacō tušnō-stāne. Yāskərətam mraoya, cašmanō dāraya, a-nōit pərəsa, aēva-pada handarzā dāraya, mā paiti-tbaēša mā paiti-ərəzaya. |
+| Apara | Paiti-ainikəm a-cara nāmanəmca saŋha. Zastayā daxšta dāraya. Zasta-paiti, sraoša, ainika, baoidica dāraya. Mā mraoya yaϑa ahmya nōit asti. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Vispō nā anyō asti, aēva nā hu-aząn vā škənda-aząn dāiti. Dāraya yaϑa nūra asti, nōit haca nāmanəm.
 
-## Can pictures and activities make conversation easier?
+## Paēsa kərərəzvantō-vā paiti-vacō hu-tarəm karənaunti?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ān. Haoma paēsa tbaēšəm nica-dāiti, duwayōca dāiti cistīm daēzəm zasta-daxštəmca.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Paēsa pərəsa.** [Conversation Cards](/games/conversation-cards/) paēsa dāiti a-frasanąm yōi nōit pərəsa zōžda.
+- **Nmānya paēsa.** [Photo Pairs](/games/photo-pairs/) thwā paēsa hu-vī-ciϑəm kərənauiti, yā vacō haxədrəm dāiti.
+- **Hu-dāitya vacā.** [Finish the Saying](/games/finish-the-saying/) vīspō-vohum vacō dāiti, pasca paiti-vacō fravarəzaiti.
+- **Paēsa pairi-daēza.** [Picture Pairs](/games/picture-pairs/) zastayā rafnō dāiti yōi vacō mraon.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Vīna [how to play games together](/caregiving/how-to-play-together/) yasca [reminiscence activities](/activities/reminiscence/) parō. Yānō-caranāi sraoša-caranāica, paiti-frasa handarzā [visiting](/activities/visiting/) yasca [phone and video calls](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Čit yezi darəγō-sahištim fra-marāmi?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Vispa ahmya bavaiti. NIA saŋhaiti yezi škəndō bave, zrvānəm dāraya tušnō bavāi. Anya garəzō cara, kašu darəγō-vohum manah dāraya, pasca paiti-cara yadā vīndahi. Paiti-vacō paoirīm paiti fravarəzāhi, nāca thwā tušnō manaŋhō gaošāite. Yezi aēm škəndō dāim bavaiti, aēm daxšta asti yaϑa rafnō vasahi, nōit yaϑa a-vərəzō ahi. Handarzā [caregiver self-care](/caregiving/caregiver-self-care/) paiti-dārayana stāna dāiti.

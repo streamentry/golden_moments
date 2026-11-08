@@ -1,33 +1,33 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Адеменциа зыхьу ауаҩы иацәажәаразы абжьгарақәа"
+seoTitle: "Адеменциа зыхьу иацәажәашьа: иҳәатәуи мап зацәыктәуи"
+description: "Адеменциа зыхьу ауаҩы лабҿаба иацәажәашьа: аицәажәара шьақәыргылатәу, ҵаарақәеи ргәаҭареи рацымҵра, насгьы ишизыӡырҩлатәу."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Тынышәра зцыу аҭыԥ аҿы шәацәажәа, уи шәара уахәаԥшуа шәыҟаз, ихьӡ ҳәа,
+  иаабины икьаҿу, имариоу ажәала шәлацәажәа. Занык ҵаарак ракәны шәаҵаа,
+  аҭак заа узҭо мап/ааи ҳәа аҭак змоу ҵаарақәа шәырҭа. Аҵаара шәахьыӡбала шәазымҵаан,
+  шәаимакын, шәаимыҿагылын. Уи иҳәо ажәақәа рыҩныҵҟа иҵоу агәаҳәара шәазхәыц,
+  ацәажәара цантәрахацыԥхьаӡа анапаҵакрақәа, асахьақәа, адыргақәа шәхы иархәа.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Аицәажәара шәалагемӡаз ауада аҿы атынышәра ҟашәҵа, лабҿаба шәахәаԥш."
+  - "Икьаҿу аҳәоуқәа, занык гәанак, насгьы «уи» ҳәа аҵкыс ихьӡ ҳәа шәаԥхьа."
+  - "Аҭак заа узҭо ма «ааи/мап» ҳәа ҭак змоу ҵаара шәырҭа, рацәа ахьыҳәатәу аҵкыс."
+  - "Аҭак шәазыԥш. Уи аилкаара уадаҩхазар, еиҭа убри ажәақәа ҳәа, анаҩс егьырҭ ажәақәа гәашәҭа."
+  - "Шәаимакын, шәагьмыҿагылын. Уи иҳәо ажәақәа рыҩныҵҟа иҵоу агәаҳәара шәазхәыц."
+  - "Ажәақәа ахьыӡцыԥхьаӡа, анапала, абжьы аҵарҳәарала, алахьла, асахьақәа рыла шәацәажәа."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Иҳәатәымзеи адеменциа зыхьу ауаҩы?"
+    a: "Агәалашәара агәаҭара («Иугәалашәома...?»), уи иҳәо ариашара («Уи ииашам»), иӡыз акакәқәа иргәалаҳәара («Сара уи сҳәахьеит»), насгьы уа дамызшәа иахцәажәара мап ацәык. Сабишәала ацәажәара шәаҟәыҵ. Ус еиԥш иҟоу ажәақәа уи ддыргәаҟыр ма даргәамчхар алшоит."
+  - q: "Ииашам акакә ҳәа уи иҳәар, ириашатәума?"
+    a: "Араҟа еиҳарак ариашара аҭахым. Уи ииашам афакт ашәарҭара амамзар, уи ахь умыргәаҟын. Аимакара иара игәаанагара даҽакала ихырхар алшаӡом, игәы акажьра акәымзар. Иахьатәи уи игәаҳәареи ихымԥадатәи уи игәҭакыреи шәахшыҩ азышәҵа."
+  - q: "Ажәа аԥшаара уадаҩхазар, иҟасҵари?"
+    a: "Аамҭа иҭа. Ажәа ицәыӡуазшәа иакәзар, гәылҳала даҽа жәак уи иҳәатәу ма иҳәарц иҭаху аҵакы шәабаҵа. Анапала аарԥшра, адыргақәа, асахьақәагьы ацхыраара ду ҟарҵоит."
+  - q: "Адеменциа аҵыхәтәантәи аҩаӡара иҟоу, имаҷны ицәажәо ауаҩы шиацәажәатәу?"
+    a: "Ԥхьаҟатәи аган ала диазааигәаха, шәхаҭа шәыӡбахә ҳәа, тынышәла шәыбжьы ҵашәырҳәа, гәылҳала шәнапы иаҵашәк. Алахьеи абжьы аҵарҳәареи шәахшыҩ азышәҵа. Шәара шәааигәара аҟазара, ибзианы идыру ашәа, ма анапала аҵакра ажәада рацәа аҳәоит."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +43,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Адеменциа иахҟьаны ажәақәа рыԥшаара, аура аҳәоу аҵакы аилкаара, ма иакәшаны иҟоу абжьы аҿҳәара уадаҩхар алшоит. Аха уи ауаҩы шәара шәахь аицәажәара даҟәыҵит ҳәа анаҩс иаанагом. Аицәажәара шәшалагdetailed, шәшыцәажәо, насгьы шәшизыӡырҩуа маҷк аԥсахрала аицәажәара шәара шәҩыџьагьы рзы еиҳа имарианы, тынышәла иҟашәҵар шәылшоит.
 
-## What are the most important tips for talking with someone who has dementia?
+## Иарбанқәоу зегь реиҳа ихадоу абжьгарақәа адеменциа зыхьу ауаҩы иацәажәараан?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Ихшыҩ шәхаҭа шәахь инашәгӡа, имарианы иҳәа, насгьы чҳара шәмаз. Хә-хәҭак заҵәык шәгәалашәарц шәҭахызар:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Ауада аҿы атынышәра ҟашәҵа, лабҿаба шәахәаԥш.** Ателевизор шәаҿых, уи илаԥш аҩаӡара шәахәаԥшуа шәыҟаз, ихьӡ ҳәа.
+2. **Занык ак ракәны шәҳәа.** Икьаҿу аҳәоуқәа, занык гәанак, занык ҵаарак.
+3. **Ҩ-вариантк алхра шәырҭа.** «Чаи шәҭаху ма кофи?» ҳәа аҵаара еиҳа имариоуп «Ишәҭахузеи?» ҳәа аҵкыс.
+4. **Шәазыԥш.** Аҭак аҭаразы аамҭа еиҳа иҭа, шәыргәаҟын, шәагьмырӷьыцын.
+5. **Шәаимакын, шәагьмыӡбан.** Уи игәаҳәара шәазхәыц, афактқәа шьиашоу аҵкыс.
 
-## How should I start a conversation?
+## Шьҭа, аицәажәара шалагатәузеи?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Аҭагылазаашьа шәаԥҵа, ауаҩы шәара убас ихшыҩ шәҿы ишьҭазарц. [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) раԥхьа ирҳәоит аҵарҳәарақәа раԥкра: арадио ма ателевизор шәаҿых, аҵәцақәа ма аԥенџьыр шәарк, ма еиҳа итынышәу аҭыԥхьа шәиагәыл.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Ԥхьаҟатәи аган ала шәааигәаха.** Шьҭахьтәи ма агәашәтәи аган ала шәааигәахар, шәаларшәыр алшоит.
+- **Шәхаҭа шәыӡбахә шәҳәа.** «Бзиара убайт, дада, сара Сара соуп, уԥҳа». Уи иабзоураны уи ухьӡ аԥшаара дақәшәом.
+- **Уи иҩаӡара шәахынҳә.** Иара дтәазар, шәарагьы шәтәа ма шәнақар шәыркрала шәлаԥш уи илаԥш иаҩаӡарахарц азы.
+- **Шәлахьеи шәбжьи шәахәаԥш.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) агәаҳәара иҟанаҵоит шәбжьы аҵарҳәара, адура, шәлахь, шәцәеижь ахьыҟоу шәацклаԥшла, гәылҳала, тынышәла шәацәажәала.
+- **Ачкиқәеи ахшыҩқәырӷәӷәагақәеи шәырхәаԥш.** Ибзианы иумбо ма иузымҳӀо аицәажәара аҵакра уадаҩуп.
 
-## How should I phrase what I say?
+## Иарбан ажәақәоу сҳәатәу?
 
-Use simple words, short sentences and a calm, low voice.
+Имариоу ажәақәа, икьаҿу аҳәоуқәа, тынышәла, иҵаулоу абжьы шәхы иархәа.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Ҳәоуцыԥхьаӡа занык хшыҩцырақ.** «Ҳа пальто шәырца. Нас ҭоурыхь ҳцап». Ҩ-хәҭак аамҭакала шәымҳәан.
+- **Ахьӡқәа шәрыԥхьа, «уи» ҳәа аҵкыс.** «Жан убас сааит» еиҳа ииашоуп, «Уи дсааит» ҳәа аҵкыс.
+- **Абжьы ҵашәырҳәа, шәымҵарҳәан.** Family Caregiver Alliance абжьы ахаргара аҵкыс иҵаулоу абжьы ахархәара шәабжьнагоит.
+- **Еиҭаҳәа, анаҩс еиҭашәаҳәа.** Изымҳазар, убри ажәақәа еиҭа шәҳәа. Уи ацхыраара ҟамҵар, маҷк шәазыԥш, нас даҽа жәақәак шәхы иархәа.
+- **Аарԥшгьы, шәҳәагьы.** Акәаск шәаарԥш, ҩ-свитерк напыла шәырк, ма раԥхьатәи ашьаҿа шәарба.
+- **Уи иацәажәа, уи иӡбахә шәымҳәан.** NIA иагәнаҭоит ауаҩы уа дыҟамшәа иӡбахә ацәажәара, ма сабишәала ацәажәара мап ацәыктәуп ҳәа.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA еиҳа имариоу аҵаарақәа шәырҭа ҳәа абжьгара ҟанаҵоит. Урҭ рацәарақәа иреиуоуп арҭ аҿырԥштәқәа:
 
-| Instead of | Try |
+| Арҭ аҵкыс | Абас шәҳәа |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Шьыбжьхьазеи шәҭаху?» | «Аԥсыӡ шәҭаху ма акәты?» |
+| «Шәгәы ишԥаҟоу?» | «Шәаԥшаама?» |
+| «Шәамлакрама?» | «Афатә хә-минуҭк рышьҭахь ихыркәшахоит». |
+| «Ус акәым узиҟарҵо». | «Абас иҟаҳҵап». |
+| «Аӡиахь ҳацара шәгәалашәома?» | «Аӡиахь ҳацара сызхәыцуан. Ишәгәаԥхаз уи аҟны сасҳәа». |
+| «Сҳәахьеит сара уи». | Еиҭа шәҭак, гәылҳала, раԥхьаӡа шәазыҳәошәа. |
 
-## How do I listen well?
+## Ишԥазыӡырҩлатәу бзианы?
 
-Listen for the meaning and the feeling, not just the words.
+Ажәақәа заҵәык ракәымкәа, аҵакырацәареи агәаҳәареи шәазыӡырҩла.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Шәазыԥш.** Аҭынчра лассы-лассы ахшыҩ азырхара аамҭоуп. Жәа-хыхь шәаԥхьа шәацәажәаанӡа.
+- **Ажәа дақәшәазар заҵәык уи иҳәа.** Family Caregiver Alliance ишаҳәо ала, ауаҩы ажәа ицәыӡуазар, ацхыраара иҭара ҟалоит.
+- **Шәызмаҳази шәгәаҭа.** [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) ажәақәа рыҩныҵҟатәи аҵакы аилкаара, насгьы шәшилкааз агәаҭара шәабжьнагоит. «Амашьына шәахҟьаны шәгәы ҭынчамзаарама?»
+- **Уи илахьеи ицәеижьи шәахәаԥш.** Ацәажәара уадаҩхацыԥхьаӡа, NIA ишазгәанаҭо ала, алахьла агәырӷьара, агәаҟра ма агәбжьаара еиҳа лабҿаба иубар алшоит.
+- **Уи игәы ҭынчамзаара гәылҳала шәазнеи.** Ииашам афакт иахҟьазар цәаҳәагьы, агәаҳәара ииашоуп.
 
-## What if they say something that is not true?
+## Ииашам акакә ҳәа иҳәар шәыҟаҵари?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Шәаимыкын. Уи аибашьра шәара шәаиааир шәылшаӡом, ауаҩгьы дгәамчхар ма дшәар алшоит. Убри ацымхцара, агәаҳәара шәазхәыц, нас гәылҳала даҽа темак шәиагәыл.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance даҽахь шәиаиааанӡа уи игәаҳәара шәазхаҵа ҳәа шәабжьнагоит. Убас, шәан ахәыҷқәа ашкол аҟынтәи раагара шәаҵаҳәозар:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Абас аҵкыс: «Ан, ухәыҷқәа хылацәахеит. Уи ҩынҩажәи жәа шықәса раԥхьа акәын».
+- Абас шәҳәа: «Бара еснагь бзиа иузбо ан бзиан. Ашкол аҟынтә раагара убас шәҳәа. Раԥхьа афатә маҷк ҳафапма?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association шәара шәызқәшаҳаҭым аҳәамҭақәа шәрымыҿагыла ҳәа шәабжьнагоит. Аамҭа алшәх: ииашам агәаанагара ашәарҭара амамзар, ишабжьу аашәмышьҭын.
 
-## How does communication change as dementia progresses?
+## Ишԥаԥсо аицәажәара адеменциа анаҩс ицацыԥхьаӡа?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Аамҭа цацыԥхьаӡа аҭахрақәа ԥсоит, убри аҟынтә шәыхымҩаԥгашьа шәаԥсах. Alzheimer's Association х-етапк ирылнаркаауеит:
 
-| Stage | What helps |
+| Аетап | Ицхыраауа |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Раԥхьатәи | Ицәажәар илшаӡом ҳәа шәымгәаҭан. Аицәажәара шәрылагәыл, лабҿаба шәацәажәа, иарбан цхыраароу иҭаху шәаҵаа, шәагәырӷьала. |
+| Абжьаратәи | Ҩ-уаҩык реицәажәара тынышә аҭыԥ аҿы. Иаабины шәцәажәа, лабҿаба шәахәаԥш, ааи/мап аҭак змоу аҵаарақәа шәырҭа, шьаҿа-шьаҿала шәҳәа, шәамыриашан. |
+| Аҵыхәтәантәи | Ԥхьаҟатәи аган ала шәааигәаха, шәыӡбахә шәҳәа. Адыргақәеи анапала аарԥшреи шәазыԥш. Анапала аҵакра, абжьқәа, асахьақәа, аԥсыӡ шәхы иархәа. Уи дыҟамшәа шәымцәажәан. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Ауаа зегьы еиԥшым, убри ауаҩгьы ибзиоуи иуадаҩуи амшқәа имазар ҟалоит. Иахьатәи уи иҭагылазаашьа шәахәаԥш, иахырҳәаалаз ахьӡ аҵкыс.
 
-## Can pictures and activities make conversation easier?
+## Асахьақәеи ахәмаррақәеи аицәажәара имариоу ҟарҵома?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ааи. Изеиԥшу асахьа аҭагылазаашьа армариоуит, шәара шәҩыџьагьы шәахәаԥшуа, шәнапала шәаарԥшуа акакә шәырҭоит.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Асахьақәа рыла аицәажәара.** [Conversation Cards](/games/conversation-cards/) асахьақәа шәырҭоит, аҵаара шәахьыӡбала азымҵааӡа.
+- **Аҭаацәара рсахьақәа.** [Photo Pairs](/games/photo-pairs/) шәара шәалхыз асахьақәа ахәмарра ласы иаҵанаршәоит, уигьы лассы-лассы ажәабжьқәа ааԥнагоит.
+- **Идыру ажәаԥҵақәа.** [Finish the Saying](/games/finish-the-saying/) зегь ибзианы идыру ажәаԥҵақәа шәырҭоит, анаҩс аицәажәара алагаразы.
+- **Еиԥшу асахьақәа ргәаҭара.** [Picture Pairs](/games/picture-pairs/) шәнапқәа акакә иаҿанаркылоит аицәажәара аамҭазы.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Убас шәахәаԥш [еицны ахәмарра шыҟало](/caregiving/how-to-play-together/) насгьы [агәалашәара аусура](/activities/reminiscence/). Аҭаарақәеи аҭелқәеи рзы, шәаԥхьа [аҭаара](/activities/visiting/) насгьы [аҭели авидеои рыла ааԥхьара](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Счҳара сынҵәар, сҟаҵари?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Ус ауаа зегьы рҿы ҟалоит. NIA иаҳәоит шәгәы каҳазар, маҷк шәыргәаҟра шәаҟәыҵны шәаамҭа шәга ҳәа. Даҽа уадакхь шәца, ԥсыжәҩак тынышәла шәырҭ, нас шәалшар шәхынҳә. Аицәажәара еснагь еиҭа шәалагар шәылшоит, ауаҩгьы шәара шәтынышәра дақәшаҳаҭхар алшоит. Агәкаҳара еснагьтәизар, шәара шәахьыӡбам, ацхыраара шәаҭахуп аазырԥшуа убри ауп. Ҳара ҳабжьгара [ахәаԥшцәа рхаҭа рцәеижь ахьчара](/caregiving/caregiver-self-care/) аҿы шәахәаԥшыр шәылшоит.

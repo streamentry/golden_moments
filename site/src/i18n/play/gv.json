@@ -1,0 +1,798 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Lhaih magh",
+      "stopReading": "Scuirr jeh lhaih",
+      "region": "Cloie",
+      "restart": "Toshiaght reesht",
+      "soundOn": "Sheeanyn soccar er",
+      "soundOff": "Sheeanyn soccar ass",
+      "done": "Jeant son nish",
+      "feedbackQuestion": "Renn shoh cooney jiu?",
+      "feedbackYes": "Renn",
+      "feedbackNo": "Cha ren dy firrinagh",
+      "feedbackThanks": "Gura mie eu son ginsh dooin."
+    },
+    "tile": {
+      "named": "{name}, leac {n}",
+      "hidden": "Jalloo follit, leac {n}",
+      "withState": "{label}, {state}",
+      "matched": "Co-reggyrtagh",
+      "selected": "Reiht",
+      "picture": "Jalloo",
+      "photoNumber": "Fotograf {n}"
+    },
+    "pairs": {
+      "allTogether": "Dagh piyr ry-cheilley. Cloie reesht ny gow aash.",
+      "photoPair": "Piyr dy 'otografyn, ry-cheilley.",
+      "picturePair": "Daa yalloo jeh'n {name|lower}, ry-cheilley.",
+      "selected": "{name}. Nish feddyn e phiyr.",
+      "mismatch": "Gow dty hraa. Crig er jalloo dy gholl er-oai.",
+      "mismatchNamed": "{a} as {b}. Gow dty hraa. Crig er jalloo dy gholl er-oai."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Crig er jalloo, eisht crig er yn fer ta co-reggyrt rish.",
+      "guidanceHidden": "Crig er daa leac dy hyndaa ad. Shir er daa jeu ta gollrish y cheilley.",
+      "restart": "Jallooyn noa",
+      "sizeLegend": "Quoid leac",
+      "size": {
+        "one": "{n} leac",
+        "two": "{n} leac",
+        "few": "{n} leacyn",
+        "many": "{n} leacyn",
+        "other": "{n} leacyn"
+      },
+      "viewLegend": "Kys dy chloie",
+      "viewShowing": "Jallooyn ry-akin",
+      "viewHidden": "Jallooyn follit",
+      "playAgain": "Cloie reesht lesh jallooyn noa",
+      "talk": "Loayr mychione ny jallooyn ry-cheilley"
+    },
+    "choose": {
+      "countLegend": "Quoid jalloo",
+      "count": "{n} dy reih ass",
+      "thatOne": "Shen yn {name|lower}. Gow dty hraa."
+    },
+    "findTheSame": {
+      "guidance": "Jeeagh er y jalloo heose. Crig er yn un jalloo heese.",
+      "yes": "Ta, yn un {name|lower}.",
+      "next": "Yn chied jalloo elley"
+    },
+    "shadowMatch": {
+      "guidance": "Jeeagh er y scadoo heose. Crig er y jalloo ta jannoo eh.",
+      "yes": "Ta, ta'n {name|lower} jannoo y scadoo shen.",
+      "next": "Yn chied scadoo elley",
+      "shadowAlt": "Scadoo dy cho-reggyrt rish",
+      "foundAlt": "Scadoo jeh'n {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Crig er jalloo, eisht crig er y vascaid t'eh bentyn rish.",
+      "restart": "Jallooyn noa",
+      "themeLegend": "Bun-chooish",
+      "selected": "{name}. Nish crig er y vascaid t'eh goll stiagh ayn.",
+      "pickFirst": "Hoshiaght crig er jalloo, eisht crig er bascaid.",
+      "hint": "Oddagh yn {name|lower} goll ayns \"{basket}\". Crig er y vascaid shen dy chur eh ayn.",
+      "placed": "Ta'n {name|lower} ayns \"{basket}\".",
+      "sorted": "Ta dagh ooilley nhee reillt. Jeeagh trooid ny bascaidyn ry-cheilley, ny prow bun-chooish elley.",
+      "basket": {
+        "one": "Bascaid {basket}, {count} jalloo sthie",
+        "two": "Bascaid {basket}, {count} yalloo sthie",
+        "few": "Bascaid {basket}, {count} jallooyn sthie",
+        "many": "Bascaid {basket}, {count} jallooyn sthie",
+        "other": "Bascaid {basket}, {count} jallooyn sthie"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Crig er un veer, eisht crig er meer elley. T'ad caghlaa ynnydyn.",
+      "restart": "Mashtey reesht",
+      "pictureLegend": "Jalloo",
+      "pictures": {
+        "sailboat": "Baathey-shiaull",
+        "house": "Thie",
+        "balloon": "Baloon",
+        "sunflower": "Blaa ny greiney",
+        "lighthouse": "Thie sollysh",
+        "cat": "Kayt"
+      },
+      "sizeLegend": "Meeryn",
+      "size": {
+        "one": "{n} veer",
+        "two": "{n} veer",
+        "few": "{n} meeryn",
+        "many": "{n} meeryn",
+        "other": "{n} meeryn"
+      },
+      "pickedUp": "Meer troggit. Nish crig er yn ynnyd lhisagh ee goll.",
+      "whole": "Ta'n {name|lower} slane reesht. Reih jalloo elley tra sailliu.",
+      "swapped": {
+        "one": "Caghlaait. Ta {correct} ass {total} veer ayns ynnyd.",
+        "two": "Caghlaait. Ta {correct} ass {total} veer ayns ynnyd.",
+        "few": "Caghlaait. Ta {correct} ass {total} meeryn ayns ynnyd.",
+        "many": "Caghlaait. Ta {correct} ass {total} meeryn ayns ynnyd.",
+        "other": "Caghlaait. Ta {correct} ass {total} meeryn ayns ynnyd"
+      },
+      "guideAlt": "Yn slane jalloo: {name}",
+      "guideText": "Shoh myr ta'n jalloo jeeaghyn tra t'eh slane.",
+      "piece": "Meer ayns y {place}",
+      "pieceInPlace": ", ayns y kiart ynnyd",
+      "piecePickedUp": ", troggit",
+      "places4": [
+        "heose toshtal",
+        "heose jesh",
+        "heese toshtal",
+        "heese jesh"
+      ],
+      "places9": [
+        "heose toshtal",
+        "heose meanagh",
+        "heose jesh",
+        "mean toshtal",
+        "mean",
+        "mean jesh",
+        "heese toshtal",
+        "heese meanagh",
+        "heese jesh"
+      ],
+      "done": "Ta'n jalloo slane reesht. Cloie reesht ny gow aash.",
+      "playAgain": "Mashtey eh reesht"
+    },
+    "finishTheSaying": {
+      "guidance": "Lhaih yn raa ry-cheilley, eisht crig er y fockle ta cur jerrey er.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ta, \"{start} {end}.\"",
+      "otherEnding": "Ta \"{word}\" obbraghey myrgeddin. Dy cadjin ta'n raa goaill jerrey lesh \"{end}\".",
+      "revealed": "She'n raa na \"{start} {end}.\"",
+      "choicesLabel": "Reih yn fockle s'jerree",
+      "show": "Taishbynee yn jerrey",
+      "talk": "Loayr mychione: ",
+      "next": "Yn chied raa elley"
+    },
+    "wordSearch": {
+      "guidance": "Ta focklyn goll tessen ny sheese. Crig er kied lettyr y 'ockle, eisht er y lettyr s'jerree echey.",
+      "restart": "Ceisht noa",
+      "themeLegend": "Bun-chooish",
+      "sizeLegend": "Mooadys y ghreid",
+      "size": {
+        "one": "{n} er {n} ({words} 'ockle)",
+        "two": "{n} er {n} ({words} 'ockle)",
+        "few": "{n} er {n} ({words} focklyn)",
+        "many": "{n} er {n} ({words} focklyn)",
+        "other": "{n} er {n} ({words} focklyn)"
+      },
+      "print": "Clouee yn cheisht shoh",
+      "letterChosen": "Lettyr {letter} reiht. Nish crig er lettyr s'jerree y 'ockle.",
+      "found": "{word} feddynit.",
+      "foundAll": "{word} feddynit. Shen dagh ooilley 'ockle. Cloie reesht ny gow aash.",
+      "tryAgain": "Gow dty hraa. Crig er kied lettyr y 'ockle, eisht er y lettyr s'jerree echey.",
+      "gridLabel": "Greid lettyryn, {n} straih dy {n} lettyr. Jean ymmyd jeh ny bocsyn-saighead dy ghleashaght eddyr lettyryn.",
+      "cell": "{letter}, straih {row}, colloo {col}",
+      "cellFound": ", meer jeh fockle feddynit",
+      "wordsHeading": "Focklyn dy feddyn",
+      "wordFound": " (feddynit)",
+      "sheetTitle": "Shirrey fockle: {theme}",
+      "sheetNote": "Ta focklyn goll tessen ny sheese.",
+      "unavailable": "Cha nel greid lettyryn jannoo cooie da'n çhengey shoh, myr shen cha nel shirrey fockle ry-gheddyn ayns shoh. Prow ny cloieyn jalloo ayns ynnyd jeh."
+    },
+    "coloring": {
+      "guidance": "Crig er daah, eisht crig er meer jeh'n jalloo.",
+      "restart": "Glen ny daaghyn",
+      "cleared": "Ta'n duillag foleau reesht.",
+      "pageLegend": "Duillag",
+      "print": "Clouee yn duillag shoh",
+      "colorsLabel": "Daaghyn",
+      "paintChosen": "{paint} reiht.",
+      "painted": "Ta {part} nish {paint|lower}.",
+      "artLabel": "{page}, {count} meer dy ghaahoilaghey",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, gyn daah",
+      "paints": {
+        "red": "Jiarg",
+        "orange": "Oorangey",
+        "yellow": "Bwee",
+        "green": "Glass",
+        "blue": "Gorrym",
+        "purple": "Kiree",
+        "pink": "Bane-jiarg",
+        "brown": "Dhone",
+        "sky-blue": "Gorrym speyrey",
+        "cream": "Bane-bwee",
+        "gray": "Lheeah",
+        "white": "Bane"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lhaih yn caart magh ard. Cha nel reggyrt kiart erbee ayn.",
+      "position": "Caart {n} ass {total}",
+      "themeLegend": "Bun-chooish",
+      "next": "Yn chied chaart elley",
+      "previous": "Yn caart roish shoh",
+      "print": "Clouee dagh caart",
+      "sheetTitle": "Caartyn coloayrtys"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Gow toshiaght liorish reih dty 'otografyn.",
+      "guidance": "Crig er fotograf, eisht crig er yn fer ta co-reggyrt rish.",
+      "restart": "Mashtey ad reesht",
+      "intro": "**Reih 2 dys 6 fotografyn** ass y saase shoh. Cha nel ad ry-akin agh er y duillag shoh as cha nel ad laadit seose ny sauailt rieau.",
+      "choose": "Reih fotografyn",
+      "chooseDifferent": "Reih fotografyn elley",
+      "clear": "Glen fotografyn",
+      "cleared": "Fotografyn glennit ass y duillag shoh.",
+      "atLeastTwo": "Reih er y chooid sloo daa 'otograf, my sailliu.",
+      "usingFirst": "Jannoo ymmyd jeh ny kied {max} fotografyn.",
+      "skipped": {
+        "one": "Cha row {count} choadan ny 'otograf oddys mayd y haishbyney.",
+        "two": "Cha row {count} choadan ny fotografyn oddys mayd y haishbyney.",
+        "few": "Cha row {count} coadanyn ny fotografyn oddys mayd y haishbyney.",
+        "many": "Cha row {count} coadanyn ny fotografyn oddys mayd y haishbyney.",
+        "other": "Cha row {count} coadanyn ny fotografyn oddys mayd y haishbyney."
+      },
+      "playAgain": "Cloie reesht lesh ny fotografyn shoh",
+      "empty": "Heeish dty 'otografyn ayns shoh, dagh fer jeu daa cheayrt."
+    },
+    "pictureBingo": {
+      "guidance": "Clouee ny caartyn hoshiaght. Eisht taishbynee yn eamerey shoh er y scailhean smoo t'eu.",
+      "called": {
+        "one": "{name}. {called} ass {total} jalloo er ny eam.",
+        "two": "{name}. {called} ass {total} yalloo er ny eam.",
+        "few": "{name}. {called} ass {total} jallooyn er ny eam.",
+        "many": "{name}. {called} ass {total} jallooyn er ny eam.",
+        "other": "{name}. {called} ass {total} jallooyn er ny eam."
+      },
+      "start": "Crig er \"Yn chied jalloo elley\" dy eam yn chied jalloo.",
+      "restart": "Toshiaght cloie noa",
+      "squaresLegend": "Kerrinyn er dagh caart",
+      "squares": "{n} kerrinyn ({side} er {side})",
+      "cardsLegend": "Quoid caart dy chlou",
+      "cards": {
+        "one": "{n} chaart",
+        "two": "{n} chaart",
+        "few": "{n} caartyn",
+        "many": "{n} caartyn",
+        "other": "{n} caartyn"
+      },
+      "print": {
+        "one": "Clouee {n} chaart bingo",
+        "two": "Clouee {n} chaart bingo",
+        "few": "Clouee {n} caartyn bingo",
+        "many": "Clouee {n} caartyn bingo",
+        "other": "Clouee {n} caartyn bingo"
+      },
+      "ready": "Aarloo tra vees shiu aarloo",
+      "next": "Yn chied jalloo elley",
+      "allCalled": "Ta dagh jalloo er ny eam",
+      "alreadyCalled": "Er ny eam hanna",
+      "sheetTitle": "Bingo jalloo · caart {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Tayrn-jee stiagh nyn ennal tra ta'n kiarkyl gaase, as magh tra t'eh gaase ny sloo. T'eh scuirr liorish hene lurg shey ennalyn.",
+      "paceLegend": "Bieauid",
+      "paceSlow": "Moal (5 shallidyn dagh raad)",
+      "paceGentle": "Meigh (4 shallidyn dagh raad)",
+      "ready": "Aarloo tra vees shiu hene aarloo",
+      "in": "Tayrn stiagh",
+      "hold": "Aash",
+      "out": "Lhig magh",
+      "start": "Toshee",
+      "stop": "Scuirr",
+      "started": "Er doshiaght. Tayrn-jee stiagh nyn ennal tra ta'n kiarkyl gaase.",
+      "stopped": "Er scuirr.",
+      "finished": "Shen va shey ennalyn moalley. Toshee-jee reesht tra sailliu."
+    }
+  },
+  "pictures": {
+    "teacup": "Cappan tey",
+    "kettle": "Coirrey",
+    "bread": "Bwoalan arran",
+    "frying-pan": "Panghlesh lesh ooh",
+    "cake": "Keeak laa-ruggyr",
+    "sunflower": "Blaa ny greiney",
+    "tulip": "Tulip jiarg",
+    "watering-can": "Cruick-ushtey",
+    "potted-plant": "Lus ayns pottey",
+    "tree": "Billey",
+    "bird": "Spittag er banglane",
+    "butterfly": "Foillycan",
+    "dog": "Moddey",
+    "cat": "Kayt",
+    "fish": "Eeast airhey",
+    "apple": "Ooyl jiarg",
+    "pear": "Peeir",
+    "strawberry": "Shorry",
+    "banana": "Bannana",
+    "lemon": "Leimyn",
+    "cherries": "Shillishyn",
+    "house": "Thie",
+    "lamp": "Lossan buird",
+    "armchair": "Caayr uillin",
+    "key": "Ogher henndeeagh",
+    "umbrella": "Skeeal-fliaghee",
+    "sailboat": "Baatye-shiaull",
+    "car": "Gleashtan classeeagh",
+    "bicycle": "Bishan",
+    "balloon": "Bollan aer cheh",
+    "lighthouse": "Thie sollysh",
+    "sun": "Grian",
+    "moon": "Eayst as rollageyn",
+    "teapot": "Pot tey",
+    "apple-pie": "Pye ooyl",
+    "honey-jar": "Saagh mill",
+    "boiled-egg": "Ooh ayns cappan ooh",
+    "toaster": "Greddeyder arran",
+    "cheese": "Meeg caashey",
+    "milk-jug": "Cruick bainney",
+    "cupcake": "Keeak beg",
+    "orange": "Ooranje",
+    "grapes": "Bangan feeyney",
+    "watermelon": "Mielon ushtey",
+    "pineapple": "Aynanys",
+    "peach": "Peydsh",
+    "rose": "Rose",
+    "daisies": "Neaynyneenyn",
+    "mushroom": "Shampiun",
+    "wheelbarrow": "Cairt wheeyllagh",
+    "birdhouse": "Thie ushag",
+    "cactus": "Cactus ayns pottey",
+    "acorn": "Darrag",
+    "autumn-leaf": "Duillag fouyr",
+    "rabbit": "Coineen",
+    "duck": "Thunnag",
+    "hen": "Kiark",
+    "sheep": "Keyrrey",
+    "owl": "Hullad",
+    "ladybird": "Boid-y-cheer",
+    "snail": "Crammag",
+    "frog": "Rannag",
+    "bee": "Shellan",
+    "clock": "Clag boayrd",
+    "vase-of-flowers": "Saagh blaaghyn",
+    "radio": "Radio shenndeeagh",
+    "books": "Carnane lioaryn",
+    "candle": "Cainle",
+    "glasses": "Glessyn lhaih",
+    "telephone": "Chellvane",
+    "ball-of-wool": "Ballyn ollan",
+    "straw-hat": "Att greiney",
+    "train": "Traen gaal",
+    "bus": "Bus",
+    "airplane": "Etlan",
+    "suitcase": "Mijym",
+    "tractor": "Tractor",
+    "rowing-boat": "Baatye-raue",
+    "rainbow": "Bhow ghaaoil",
+    "rain-cloud": "Bodjal fliaghee",
+    "snowflake": "Flock sniaghtee",
+    "kite": "Etleyder paper",
+    "sunrise": "Irree ny greiney harrish ny cruink"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCHIKLMNOQRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Mess",
+          "words": [
+            "OOYL",
+            "PEEIR",
+            "PLUM",
+            "PEYDSH",
+            "FEEYN",
+            "OORAN",
+            "SHORRY",
+            "SMEYR",
+            "FIG"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Garey",
+          "words": [
+            "ROSE",
+            "TULIP",
+            "BLAA",
+            "LUS",
+            "SHEEL",
+            "BILLEY",
+            "CRAY",
+            "LOGHAN",
+            "DUILL"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Thie-aarlee",
+          "words": [
+            "CAPPAN",
+            "SPON",
+            "ARRAN",
+            "PAN",
+            "SKYNN",
+            "BOAYRD",
+            "TEY",
+            "OOH",
+            "POTE"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Emshyr",
+          "words": [
+            "GRIAN",
+            "FLIAGH",
+            "SNIAGH",
+            "GEEAYL",
+            "BODJAL",
+            "STURM",
+            "KAY",
+            "CHEH",
+            "RIO"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Baaghyn",
+          "words": [
+            "MODDEY",
+            "KAYT",
+            "USHAG",
+            "EEAST",
+            "CABBYL",
+            "BOO",
+            "LHEIN",
+            "GOAYR",
+            "KIARK"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Thie",
+          "words": [
+            "DHORYS",
+            "CAAYR",
+            "LHAMP",
+            "LIABBA",
+            "SOFA",
+            "CLAG",
+            "BOAYRD",
+            "OGHER",
+            "GLESS"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Dagh caart",
+        "food": "Bee",
+        "home": "Thie",
+        "outdoors": "Cheu-mooie",
+        "animals": "Baaghyn",
+        "travel": "Goll er troailt",
+        "work": "Obbyr as caaueenyn",
+        "music": "Kiaull as taitnys",
+        "seasons": "Imbaghyn"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Cre'n soar share lhiat as y thie-aarlee?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Cre'n sorçh dy cheeak y reihagh shiu son laa ard-yindyssagh?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Insh dou mychione pye mess ny miljid share lhiat."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Kys s'taiteenagh lhiat nyn gappan tey ny cafee y ghoaill?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Cre ta jannoo son jinnair-voghrey feer vie?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Vel shiu rieau er n'spveaghey mess jeeragh veih'n luss?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Miljid ny geayr: c'red share lhiat?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Cre'n bee ta cur blaah y touree er nyn meeley?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Insh dou mychione thie va lajer lhiat cummal ayn."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Cre'n boayl share lhiat son soie as goaill aash?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Cre s'taitnysagh lhiat y yannoo er fastyr kiune?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Cre'n nhee deyr y reayllagh shiu ayns kishtey er-lheh?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Quoi y chuirragh shiu stiagh son cappan tey?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Cre s'taitnysagh lhiat y yannoo er laa fliaghee?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Cre ny blaaghyn y chuirragh shiu ayns garey?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Insh dou mychione billey ny pairk s'taitnysagh lhiat."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Cre'n ayrn share jeh ve ayns garey?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Cre'n daah blaaghyn share lhiat?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "S'taitnysagh lhiat lossreeyn y ve 'sy thie?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Cre vees er laa grianagh yindyssagh diu?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Insh dou mychione moddey va enney mie eu er."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Cayt ny moddee, ny gyn fer erbee jeu? Cre s'taitnysagh lhiat my nyn gione?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Cre'n sorçh dy ushaghyn t'er nyn vakin ny er nyn glashtyn cheu-mooie?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Vel shiu rieau er n'gholl er eeastagh, ny er reayll tank eeast?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Cre'n baagh s'bwaaie t'er ve rieau fakin lhiat?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Insh dou mychione gleashtan va lajer lhiat."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Bare lhiat laa y cheau ec y traie ny er ny sleityn?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "C'raad bare lhiat goll er marragh?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Dy jinnagh shiu etlagh harrish boayl erbee, c'raad veagh eh?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Insh dou mychione turrys va taitnysagh lhiat."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Cre'n sorçh dy obbyr s'taitnysagh lhiat y yannoo?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Cre'n caaueeys dy noddach shiu ceau ooryn lesh?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Cre va enney erriu son jannoo ny kiartaghey?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Cre'n coyrle y churragh shiu da fer aeg ta toshiaght er obbyr?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Cre'n sorçh dy chiaull ta cur ort bwoalley nyn gassyn?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Cre ta jannoo cuirrey ny laa-spoyrt feer vie?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Quoi'n arraneyder s'taitnysagh lhiat clashtyn rish?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Cre'n scannane ny claare çhellveeish share lhiat y akin reesht?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Cre share lhiat mychione y tourey?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Cre s'taitnysagh lhiat mychione yn ouyr?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Cre'n nhee jesh y yannoo er fastyr geurey?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Cre ny kied cowraghyn jeh'n arragh diu hene?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Sniaghtey, fliaghey ny soilshey ny greiney: c'red share lhiat?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Blaa ayns pottey",
+          "regions": {
+            "sky": "Cooyl-reayrt",
+            "table": "Boayrd",
+            "stem": "Cass",
+            "leaf-left": "Duillag hoshtal",
+            "leaf-right": "Duillag yesh",
+            "petal-1": "Duillag-vlaa 1",
+            "petal-2": "Duillag-vlaa 2",
+            "petal-3": "Duillag-vlaa 3",
+            "petal-4": "Duillag-vlaa 4",
+            "petal-5": "Duillag-vlaa 5",
+            "petal-6": "Duillag-vlaa 6",
+            "petal-7": "Duillag-vlaa 7",
+            "petal-8": "Duillag-vlaa 8",
+            "center": "Mean y vlaa",
+            "pot": "Pottey",
+            "pot-rim": "Oirr y phottey"
+          }
+        },
+        "house": {
+          "name": "Thie",
+          "regions": {
+            "sky": "Speyr",
+            "sun": "Grian",
+            "grass": "Faiyr",
+            "chimney": "Thoar",
+            "walls": "Boallaghyn",
+            "roof": "Clea",
+            "door": "Dorrys",
+            "window-left": "Uinnag hoshtal",
+            "window-right": "Uinnag yesh",
+            "path": "Cassan"
+          }
+        },
+        "teacup": {
+          "name": "Cappan tey",
+          "regions": {
+            "background": "Cooyl-reayrt",
+            "saucer": "Soddag",
+            "handle": "Doarnan",
+            "cup": "Cappan",
+            "band": "Strop er y chappan",
+            "tea": "Tey"
+          }
+        },
+        "butterfly": {
+          "name": "Foillycan",
+          "regions": {
+            "background": "Cooyl-reayrt",
+            "wing-top-left": "Skeeal eaghtyragh hoshtal",
+            "wing-top-right": "Skeeal eaghtyragh yesh",
+            "wing-bottom-left": "Skeeal eeghtyragh hoshtal",
+            "wing-bottom-right": "Skeeal eeghtyragh yesh",
+            "spot-left": "Spot hoshtal",
+            "spot-right": "Spot yesh",
+            "body": "Corp"
+          }
+        },
+        "sailboat": {
+          "name": "Baatye-shiaull",
+          "regions": {
+            "sky": "Speyr",
+            "sea": "Cheayn",
+            "sail-big": "Shiaull mooar",
+            "sail-small": "Shiaull beg",
+            "mast": "Crann",
+            "hull": "Baatye",
+            "flag": "Brattagh"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Thie-aarlee as garey",
+          "baskets": [
+            "Ayns y thie-aarlee",
+            "Ayns y gharey"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Mess as beiyn",
+          "baskets": [
+            "Mess",
+            "Beiyn"
+          ]
+        },
+        "home-travel": {
+          "label": "Thie as troailt",
+          "baskets": [
+            "Ayns y thie",
+            "Magh as mygeayrt"
+          ]
+        }
+      }
+    }
+  }
+}

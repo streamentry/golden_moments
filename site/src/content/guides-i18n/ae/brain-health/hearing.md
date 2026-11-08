@@ -1,31 +1,28 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Gaoša-Marəza uta Manaŋhō-Nyāsa: Čiš Paity-Āsti"
+seoTitle: "Gaoša-Marəza uta Manaŋhō-Nyāsa: Čiš Vīdvā"
+description: "Čim gaoša-marəza manaŋhō-nyāsa asti, čiš ACHIEVE parīkšanā vaēda, yaϑa gaoša parīkšaiti uta hu-framanyete."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Lancet Commission 2024 gaoša-marəzəm aēvam mazistąm aipya-daxštąm manaŋhō-nyāsāi nāmayeiti. Paiti ACHIEVE parīkšanā, gaoša-saokā vīspāi fra-vahištəm manaŋhō naēcit vərəzinti, aipica handatəm yō aipitarō bīmō darəgō kəhrpāyente. Gaoša-saokā hakərəc framanyana-ca aipi-zava-ca hu-vərəzinti. Gaoša-parīkšīm karəšva, baēšazəm paitišamrūta.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet Commission maite yaϑa gaoša-marəza haca 7% manaŋhō-nyāsa vīspō-zəmō aipi-bavaiti, aēvō mazistō haca 14 bīmābyō."
+  - "Paiti ACHIEVE parīkšanā haca 977 aməša-narō, gaoša-saokā ϑry-sarəda manaŋhō-nyāsəm naēcit vərəzinti."
+  - "Paiti kasu-handata paiti bīmō ACHIEVE, manaŋhō-nyāsa 48% namrōtarō bavat gaoša-saokābyō; aēta paitiš astūti kāmyeiti."
+  - "Haca Māh October 2022, vyānā narō paiti US yōi kasu-marəzəm dārayanti gaoša-saokā FDA vidātā a-baēšazata xrīnaite."
+  - "A-baēšaza dōiϑra-marəza paiti 2024 bīmō baγō bavat, aēva dōiϑra-parīkšā arəϑəm dārayati."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Tā gaoša-saokā manaŋhō-nyāsəm paiti-dārayanti?"
+    a: "Aēta nōit vīstō asti. ACHIEVE parīkšanā ϑry-sarəda manaŋhō-nyāsəm naēcit vərəzinti vīspāi, aipica aēvō bīmōtarō handatō hu-fra-vərəzi. Gaoša-saokā aipi arəϑō dārayanti yaϑa fra-vaca, sruiti uta aipi-zava hu-vərəzinti."
+  - q: "Kō vi-baēšaza gaoša-saokā xrīnaite?"
+    a: "FDA framayeiti yaϑa narō 18 sarədō uta mazō yōi namra-marəzəm dārayanti gaoša-saokā hanjamana aēva antarat-zəm a-baēšazata xrīnaite. Nōit mazistāi marəzāi. Yōi gaoša-gara, xšvīdra, caxra-vaēga ayā saoxšna aipi-bavanti, baēšazəm pouru paitiš-amrūyąn."
+  - q: "Gaoša-marəza yaϑa manaŋhō-nyāsa daxšta bavaiti?"
+    a: "Hakərəc. National Institute on Aging framayeiti yaϑa hanarō yōi nōit hu-srunvanti duš-xratava ayā a-frasaŋha sahyeinti. Gaoša-parīkšā hu-xratu asti yaϑa nōit fra-srunoti."
+  - q: "Yavat dōiϑra-parīkšā aməša-naram arəϑō asti?"
+    a: "National Institute on Aging framayeiti yaϑa 60 sarədō pasca, dōiϑra aēva ayā dva sarəda parīkšaiti, ayā yaϑa dōiϑra-baēšaza framayeiti. Narō yōi šīkaro-vərəza ayā vohuni-xšafra dārayanti, aēva sarəda aipi parīkšaiti."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +47,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Gaoša-marəza paiti darəgō-jītim pouru-bavaiti, uta parīkšatārō aēva-daxštəm manaŋhō-nyāsāi dārayanti. Aēta gaoša-saokā nōit paiti-dārəna vərəzainti; pouru-parīkšanā yava vītā vaēda. Aēva pəzana sruiti daxšta paitiš, yaϑa gaoša parīkšaiti, čiš a-baēšaza gaoša-saokā santi, uta yaϑa hu-framanyete.
 
-## Why does hearing matter for brain health?
+## Čim gaoša-sruiti manaŋhō draxvatahe arəϑəm dārayati?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Gaoša-marəza manaŋhō-nyāsāi aipi-yunjaiti. Hō [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) maite yaϑa haca 7% manaŋhō-nyāsa vīspō-zəmō aipi-bavaiti. Aēta ham-baγō LDL čarəma-vərəza aēvō mazistō haca 14 bīmābyō paiti handāta, yaϑa [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) vaēdayeiti.
 
-Key findings from the Commission:
+Mazistā vaēdā haca Commission:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Mazistō bīmō gaoša-marəzāi.** Paiti xšvaš vahišta parīkšanā, narō yōi gaoša-marəzəm dārayanti 37% aipi bīmō dārayanti yaϑa narō hu-sruiti.
+- **Yavat marəza, avat bīmō.** Parīkšanā vaēdenti yaϑa yavat sruiti nyāsa bavaiti, avat manaŋhō bīmō vaxšaiti.
+- **Manya raϑa, nōit vi-vīstō.** Han-daxšta aēva a-framana, apa-manah, manaŋhō duš-hazaŋha, uta staxra sruiti manaŋhō kamna.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Gaoša-marəza pouru-bavaiti. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) framayeiti yaϑa ϑri-baγa aməša-naram aēta dārayanti, uta sarəda vaxšāite.
 
-## What did the ACHIEVE hearing aid trial find?
+## Čiš ACHIEVE gaoša-saoka parīkšanā vaēda?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE aēvō paurvō arəϑa-parīkšanā gaoša-saokābyō uta manaŋhō-nyāsāi bavat. Vaēdā paiti [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) aipi-stūta:
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Kōi aēta arəϑəm:** 977 aməša-narō 70 haca 84 sarədō a-baēšaza gaoša-marəzō uta a-manaŋhō nyāsa, paiti cəϑwāro US hanjamana.
+- **Čiš han-dātō:** Nīma gaoša-saokā uta sruiti-baēšaza paiti-frasa dārayanti. Nīma paiti draxvata jīti-framana dārayanti.
+- **Fra-daxšta:** Pasca ϑry-sarəda, **naēcit bī-vāra** paiti manaŋhō-nyāsa antare dva handatā bavat.
+- **Kasu-handata:** 238 narō haca zərəd-draxvata parīkšanā (ARIC) āyanta, uta aēte paiti mazistō bīmō būta. Paiti aēte, manaŋhō-nyāsa **48% namrōtarō** bavat gaoša-saokābyō. Paiti 739 draxvatō narō, naēcit bī-vāra bavat.
 
-How to read this honestly:
+Yaϑa arəš aēta pati-pərsaiti:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Vīspō fra-daxšta naēcit bī-vāra bavat.
+- Kasu-handata vaēdā paurva-framana bavat, aipica haca kasu handatō āyat. Paitiš stūti paiti anya parīkšanā kāmyeiti.
+- Narō vaēdenti katamō hanjamana dārayanti, yō vərəzəm varəzaiti.
+- Lancet Commission maite yaϑa gaoša-saokā vahišta vərəzinti narābyō yōi gaoša-marəzəm ham-dārayanti anya manaŋhō-nyāsa bīmābyō.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Aipiča gaoša-saokā nōit paiti-dārəna manaŋhō-nyāsāi vīstō asti. Aipica hō sruiti, framanyana uta han-jīti vərəzaiti, yō arəϑō dārayati.
 
-## How do I know if hearing should be checked?
+## Yaϑa vaēdā yaϑa gaoša parīkšaiti?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA framayeiti baēšazəm paitiš-amrūyąn yezī tū ayā hō yōm pātayehe:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Nōit hu-framanyete paiti dūra-sruiti
+- Duš-framana bavaiti yadi dva ayā frya narō framanyanti
+- Paiti-paiti paiti-framana paitiš-pərəsaiti
+- Sruiti-yantra staxra vərəzaiti yaϑa anya xšnūte
+- Duš-srunoti yadi gaoša-xšnaosa asti
+- Manyete yaϑa anya kasu-vaca framanyanti
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Haca paurva baēšaza paitiš-amrūta, yō sruiti-baēšaza ayā gaoša-baēšaza vaēdayeiti. Gaoša-kərəna aēvō pouru raϑō asti yō baēšaza parīkšaiti. **Saoxšna gaoša-marəza saoxšna baēšaza-arəϑō asti**, uta NIA framayeiti drasu baēšazəm paitiš-amrūyąn.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Gaoša-marəza yaϑa manaŋhō duš-xratu daxšta bavaiti. NIA framayeiti yaϑa aməša-narō yōi nōit hu-srunvanti a-xratu ayā duš-vāca sahyeinti. Yezī hō yōm fryanahi a-vaca ayā a-sruiti bavaiti, gaoša-parīkšā hu-xratu paurva kamna asti.
 
-## What are over-the-counter hearing aids?
+## Čiš a-baēšaza gaoša-saokā santi?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Haca Māh October 17, 2022, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) dāšt a-baēšaza gaoša-saokā. Yaϑa aēte paiti baēšaza-saokā han-daϑyente:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Daxšta | A-baēšaza gaoša-saokā | Baēšaza gaoša-saokā |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Kōi arəϑō | Narō 18 sarədō uta mazō yōi kasu-marəzəm dārayanti | Vīspa marəza, vīspa sarəda |
+| Yada xrīnaite | Hanjamana ayā antarat-zəm, vi-parīkšā | Haca sruiti-baēšaza vidātō |
+| Ham-vərəza | Xva-dāta paiti yantra | Baēšaza framayeiti paiti tana sruiti |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA framayeiti yaϑa a-baēšaza saokā nōit staxra marəzāi santi. Baēšazəm, vahištō gaoša-baēšazəm, pouru paitiš-amrūta yezī dārayahi:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Gaoša-gara ayā a-draxvata
+- Xšvīdra, pus ayā vohuni haca gaoša paiti 6 māh
+- Saoxšna ayā vī-vāra sruiti
+- Kamna sruiti paiti aēva gaoša, ayā sruiti-tanu paiti aēva
+- Caxra-vaēga ayā gaoša-dvāiti
+- Pouru gaoša-kərəna
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Gaoša-saokā han-yāna kāmyeiti, aēva paiti-dāiti xratum parīkšva yaϑa FDA framayeiti. NIA framayeiti baēšaza-yāna paitiš-pərəsa yezī arəϑō aipi-bavaiti. Hō yō manaŋhō-marəzəm dārayati, sruiti-baēšaza vaēdayeiti katamō saoka hu-vərəza bavaiti.
 
-## How can I talk more easily with someone who has hearing loss?
+## Yaϑa haca vahištō framanyete aēva yō gaoša-marəzəm dārayati?
 
-The NIA suggests:
+NIA framayeiti:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Paitiš-dōiϑra bava uta dōiϑra-dāiti dāraya**, paiti hu-raoca, yaϑa aōšta uta dōiϑra dārayanti.
+2. **Asūra gātu vinda.** Sruiti-yantra apa-karəšva ayā apa-xšnaosa bava.
+3. **Maza-vaca framanya, nōit zgarəzva.** Hu-framanyana uta arəš vazaiti.
+4. **Aōšta rāiti dāraya.** Nōit xvara, nōit aōšta paiti-dāraya yaϑa framanyahi.
+5. **Anya-vaca framanya nōit hā-framanya** yadi nōit srunoti.
+6. **Aēva narō paiti aēva zru.** Paiti pouru-narō, hō paiti-barəti dāraya.
+7. **Hu-manah bava uta pərəsa yaϑa upastam vərəzahi.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Aēte frasaste paiti [dementia communication tips](/caregiving/communication-tips/) hu-vərəzinti. Paiti-daxšta arəϑā nōit staxra sruiti kāmyeinti. [Picture Pairs](/games/picture-pairs/) uta [Conversation Cards](/games/conversation-cards/) paiti dōiϑra-darəsna vərəzinti, uta [Finish the Saying](/games/finish-the-saying/) aipi-daxštəm dōiϑrāyeiti nōit vaca. Paiti dūra-sruiti, [phone and video calls](/activities/phone-and-video-calls/) pəzana darəsa.
 
-## Vision matters too
+## Dōiϑra-sruiti aipi arəϑō dārayati
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Paiti 2024 Lancet Commission a-baēšaza dōiϑra-marəza yaϑa nava bīmō baγō dāšt. UCL aēta paiti 2% manaŋhō-nyāsa vaēdayeiti, uta Commission vīspāi dōiϑra-baēšaza framayeiti. [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) dōiϑra parīkšaiti aēva ayā dva sarəda pasca 60 sarədō, uta dōiϑra-vastra parīkšaiti. Kasu-marəza dōiϑra aipi bīmō draoša vaxšayeiti.
 
-## Talk with a doctor
+## Baēšazəm paitiš-amrūta
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Baēšazəm paitiš-pərəsa paiti gaoša uta dōiϑra parīkšā yezī aēte daxšta dārayahi. Saoxšna baēšazəm vinda yezī saoxšna gaoša-marəza, gaoša-gara, ayā xšvīdra haca gaoša bavaiti. Yezī hō yōm pātayehe manaŋhō-marəzəm dārayati, baēšazāi aēte daxšta paitiš-amrūta, yōi manō-draxvata, draoša uta han-jīti vərəzinti.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Aēta pəzana hāmo-vaēdā asti, nōit baēšaza-frasasti. [medical disclaimer](/medical-disclaimer/) darəsa. Aipi paiti-pərsva [social connection and brain health](/brain-health/social-connection/).

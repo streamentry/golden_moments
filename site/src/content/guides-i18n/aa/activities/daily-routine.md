@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Kas Dagna Le Numuh Xabbico Ayroh Rutiin"
+seoTitle: "Kas Daggino: Saamiyyi Le Ayroh Ceelallo"
+description: "Kas dagna le numuh saamiyyi le ayroh ceelallo; maaqo, taama kee tacsur inki gidek hayta, isi rutiin daccarsiyyaa kee gidba ayroorat tekkeemik abaan gurra."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Xabbico ayroh rutiin ugut, maaqo, naba-dagar dacrisiyya kee xini wakti inki
+  giddek hayta, kaxxa taama num kaxxam ifik yan wakti tatrusak, taama kee
+  tacsur celtaama hayta. Numuk sugte caadatiik tet bicisa, buulat kaah axxaaxisa
+  heway, ayro kusaq kee nangaliyya ayro ayroh geya, ayro faxximtam tekkeek
+  gersi gidek fantaaxisa.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Ugut, maaqo, dagar dacrisiyya kee xinih inki wakti leem ayroh taamoomih ixxiga le gide acek teyna."
+  - "Kaxxa taama numuk kaxxam if kee fayya le wakti xayyowsa, mangom saaku saaku kinni."
+  - "Kulli daqiqa kak makibina. Tacsur kee qasbo rutiinik numtin gide kaxxa baxsa leya."
+  - "Ayro kusaq, ayro ayroh nangaliyya kee kaxxa xinto raaqisiyya carra xagina xabbicoyseemih tu qokoltanim xiqta."
+  - "Rutiin tirto kinni kaadu madqa hinna. Gidba ayroorat tu cata, xabbaaqisa hinnay caba."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Ayroh rutiin kas dagna le numuh macah tu qoklaa?"
+    a: "Taaxigeeni ayro dambisiyya kee fulaalu dadlisa, taam kas dagna litoh yan mari mangom salfaaleh geya. Alzheimer's Association baxxaqsah innah, bicimte ayro abaanam taaxigeeni heway gide kalteh, lakat nammay yaafiseenimih wakti yayse gide acek teyna. Kaadu qokolte marak isi ayro daccarsaanah tu qokla."
+  - q: "Kas dagna le numuh meqe ayroh jadwal maay kinni?"
+    a: "Inki massowte jadwal mayana. Meqe jadwal ugut, maaqo kee xinih inki wakti hayta, dagar dacrisiyya kee kaxxa taama num meqe wakti xayyowsa, daren kee taaqat geyto geyta, kaadu tacsuruk saami celta. Numuk sugte manok bicisa."
+  - q: "Kas dagna le num ayro fantaaxih xiinaa faxximtaa?"
+    a: "Uru tacsur tu qoklaanam xiqta, kaxxam laqoh lakal. National Institute on Aging kaxxa xinto kee qaxaafatak xiinam cabaaxagowtam qokolta, qaxafituy meqe xinto akkek teytek carra xagina daddosak geytimtam xiqta. Xinto kaxxa gibda tekkeek, kaxxa daqtoorik essera."
+  - q: "Rutiin cule waytek maca abnaa?"
+    a: "Kassiida kaah caba, lakal hinnay gersi gurral abbaaha. Cinam qaxba, biyaakita, yaabiita hinnay bicinte waytek tanaamah takke. Rutiin ayro sahlisah geytimtam kinni, tohuk sugtek dirki makbina, xabbicoyisa."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Xabbico rutiin ayroh taamoomih ixxiga le gide acek teyna: ugut, maaqo, uru taama, tacsur kee xini inki giddek hayta. Dambisiyya kee fulaalu dadlisa, kaadu lakal maca abnaah ittam akkek bica kol hayta. Gubal yan rutiin ceelallo kinni, madqa hinna. Tibbiko gidek haysita, lakal isin qokoltaana numuk manot celtaamih tet bicisa.
 
-## Why does a daily routine help?
+## Ayroh rutiin macah tu qoklaa?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Soolte rutiin tu qokla, maxcoh ixxiga le gexsit cusub gexsituk katataanam sahli kinni. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) baxxaqsah innah, bicimte ayro abaanam taaxigeeni heway gide kalteh, lakat kicinimih taamoomik waktik yayse gide acek teyna, kaadu uguti kee xinih inki wakti haynam xinto gibda kee carra xaginat tu qoklaanam xiqta. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ayro ayroh dagar xalaala, saraarat kee maaqo inki wakti haytaanam xabbico buroh numtin gideh qokla, kaadu [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) inki rutiin daccarsaanaamal amri ceya.
 
-## A sample gentle day
+## Xabbico ayroh ceelallo
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Waktitte ceelalloolah daggowtaama. Ayroh gexsit numtin manot celtaamih foocah hinnay lakal haytaanam xiqtaana.
 
-| Time | What happens | Ideas | On a harder day |
+| Wakti | Maca takke | Ginooni | Gidba ayrot |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Ugut, saytunnoowiyya, saraarat | Kulli ayro inki gidek; saroota culaanih innah tayyowseeni | Dagar dacrisiyya sahlisa; cusub qamis doyle |
+| 8:45 a.m. | Saaku maaqo | Bun kee kuraasit yaktubeenim yaakmineeni, hinnay raadiyo | Inki ximol deqsak maaqo acuma, yabih dirki aneewayuk |
+| 9:30 a.m. | Kaxxa taama | Sara sarraqa, laxo oka, buro dacrisa, uru gexo hinnay daqarsiyya | Uru gidek abaanam, hinnay atu abtak yubleenimih caba |
+| 10:30 a.m. | Qasboh wakti | Muusika, suura kuraasi, hinnay taaqat geytot goorisa | Yaaxige korsiil tacsur hayta |
+| 11:00 a.m. | Laqoh qokol | Kudra saytunnooysa, gaabolo dambisa | Atu uruk; usun koo luk geytimaana |
+| 12:00 p.m. | Laqo kee saytunnoowiyya | Gaabolo daaba, cindiyya saxnate soolisa | Kaxxa taamoomi caba |
+| 1:00 p.m. | Uru tacsur | Iba fayya hayta, xabbico muusika | Tohu innah |
+| 2:00 p.m. | Daren hinnay nangaliyya | Gexo, barandaat goorisa, laxoot biyo hayta, kubba raba | Ayro kusaq le taaqat geytot goorisa |
+| 3:00 p.m. | Numtinwacdi hinnay qaraaro | Ziyaara, bilbila, [picture pairs](/games/picture-pairs/), cindiyya kuraasit qangowta, karti | Qangoy kee maaqo inki ximol geya |
+| 4:30 p.m. | Xinto xayyowsi | Pardoota alifa, ifoota uruk haa, xabbico taama tecelluk saytunti sara sarraqa | Yaaxigen muusika, kaxxa caagid male |
+| 5:30 p.m. | Carra maaqo | Maaqo dambaasanah hinnay gaabolo dambisa | Sahli, yaaxigen maaqo |
+| 6:30 p.m. | Carra inki ximol | Maaqok lakal tu kassitak, karti, meqe filmi, gaba maasasa | Deqsi le inki ximol geyto |
+| 8:00 p.m. | Xinih rutiin | Dagar saytunnoowiyya, xini sara, xabbico muusika, cindiyya ifoota | Kulliim xabbicoyisa; saami foocat haya |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Ta ceelallo Alzheimer's Association gaba-kalot kee fan-waktih qokoluh yaceen ceelallo katatta, tah dagar dacrisiyya kee saaku maaqok tibbikak taamoomi, gexo, muusika, tacsur kee ziyaarat gexak carra maaqo, kassitiyyi kee xinih bica fan gexxa.
 
-## How do you build your own routine?
+## Isi rutiin mannal bicissaa?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Num kulli wakti gexsitak suge manok tibbika, waraqatik hinna. Alzheimer's Association bicissaamak fooca taham kassitaanam qokla:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Usun kaxxam kicinaanam, kicinewaanam, xiqo kee faxxaama.**
+- **Ayro mannal tatrusak sugeenim.** Saaku saaku ugunuk kuta luk gexak suge num saaku saaku gexak raaqaam faxximta. Baray maaqo kici num saaku 8:00 a.m. ugut yaaxige kal akkek raaqaam xiqta.
+- **Ayrok meqe wakti.** Dagar xalaala, gexo kee kaxxa taama tohut haya.
+- **Dagar le wakti** maaqo, saytunnoowiyya kee saraarat hayak, tu dirki maleek.
+- **Uguti kee xinih inki wakti.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Ta kaxxa waraqat buro taama, maaqo, dagar dacrisiyya, qaraaro taama, dagar nangaliyya, numtinwacdi wakti, diini taama kee garqik temeete saami, ceelalloh katuk temeete kaxxa katuk dambi geyto akkek tu qoklaanam tekkeem yaaxigena.
 
-### Try it for a week, then adjust
+### Inki aqbaayut abbaaha, lakal dambisa
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Ayro ayroh uru kitaaba hayisa. Alzheimer's Association meqe taamoomi maay kinni kee macah kinni, kaxxa taamoomi aneewayuk hinnay mangom tekke waktitte yanii, garqik temeete bica meqe maay tekke hinnay salfaale luk temeeteem esseraanam qokla. Meqem daccarsa kaadu meqeewaytam dambisa.
 
-### Make it visible
+### Yubleeniimih haya
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Num akriyya xiqak sugtek, if le sardiida hinnay kaxxa harfit yaktubeen waraqat ayroh jadwal luk haytaamal salfaale kalta. Uruk haya: «Saaku maaqo. Sarah luk gexo. Laqo. Tacsur.» Tu gersi mari foocah aaxige kal yayseena; Family Caregiver Alliance salfaale akkek teytek bica foocah yabtaanam cabaanam qokla.
 
-## How to adapt the routine
+## Rutiin mannal fantaaxissaa?
 
-### Leave room to breathe
+### Cawa geytoh saami caba
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Kulli daqiqa kak makibina. Alzheimer's Association num taama kee tacsur celtam faxaam kee mangom tacsur faxam baxxaqsa. Raaqiteeni, kalaleeni hinnay yangaleenim tekkeek, taamoomi cata hinnay tacsur haya.
 
-### Protect the late afternoon
+### Carra fantaaxih wakti dacrisa
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Mangi mari ayro kusaq baytak xagina dadlisa. NIA ayro ayroh daren hinnay taaqat geytot ayro kusaq geyto, kaxxa bica maleek ayro ayroh nangaliyya geyto, carra fantaaxit kafee kee maaqo cabaaxagowtaanam, kaadu carra fantaaxit kaxxa xinto raaqisaanam qokla. Tu gersi maraay pardoota alifeeniik ifoota uruk haanam qoklaanam yubleena. [Carra xagina](/caregiving/late-day-restlessness/) kee [xinto](/brain-health/sleep/) akriya.
 
-### Change it as needs change
+### Faxximtam tekkeek cata
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Gaba-kalo waktil:** rutiin inki ximol bicisa. Num isi gaba luk gexsa kitaaba le jadwal faxam xiqta.
+- **Fan-waktil:** atu yayse gide foocat gexa. Uru taamoomi, mangi tacsur kee yaaxigen buro taama; [fan-waktih taamoomi](/activities/middle-stage/) akriya.
+- **Kaxxa-waktil:** rutiin saami, maaqo kee dacrisiyyat soola, fanat muusika hinnay gaba maasasa innah yan uru dambi luk; [kaxxa-waktih taamoomi](/activities/late-stage/) akriya.
 
-### Vary the activities, not the frame
+### Taamoomi fantaaxisa, kaxxa kelta makbina
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Maaqo, tacsur kee xinih inki wakti hayta, fanat yan taamoomi fantaaxisa. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) caagid daccarsaanah ayro ayroh gersi taamoomi abbaahaanam qokla. Itnintat laxo oka, Talaatat buro dacrisa, Arbaqat suura kuraasi geyto xiqtaana. Ni [101 taamoomih gino](/activities/ideas/) kee [buro taama](/activities/household-tasks/) saami dambisaanam xiqta.
 
-## When the day goes sideways
+## Ayro gersi gidek tekkeek
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Tu ayroorat bica makatatta. Biyaakita, meqeewayti bar, daqtoorik ziyaara hinnay cawa fantaaxiyya kulliim cataam xiqta. Bica caba, kaxxa caagid (maaqo, biyo, tacsur, saami) daccarsa, saaku gersi gurral abbaaha. Num tu cinteek, [usun malee iyyeenik](/caregiving/when-they-say-no/) akriya. Inki ximol uruk cawa heggeeniik, [xabbico cawa](/games/calm-breathing/) innah, nammay yayse gideh tu qoklaanam xiqta.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Ku isi rutiin kaxxa meqe caagid kinni. Isih tacsur hayisa, buro mara hinnay qokli haytah yan mara wakti koo qoklaanam essera. [Qokolte numuk isi dacrisiyya](/caregiving/caregiver-self-care/) akriya.

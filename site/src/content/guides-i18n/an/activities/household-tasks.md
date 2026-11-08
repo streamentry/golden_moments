@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Fainas d'a casa como actividaz ta personas con demencia"
+seoTitle: "Actividaz domesticas y demencia: fainas cutianas"
+description: "Plegar ropa, ordenar, parar a mesa u cocinar pueden estar grans actividaz ta personas con demencia. Cómo adaptar-las y fer-las con seguranza."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  As fainas de cada día, como plegar toallas, emparellar calcetins, parar a
+  mesa, limpiar as bancadas, regar as plantas u aduyar en a cocina, pueden dar
+  a una persona con demencia una traza real de colaborar. Triga fainas que ya
+  conoixeba, divide-las paso a paso, retira periglos como trastes tallants u
+  calients y valora más o feito de compartir o momento que no pas fer-lo «bien».
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "As fainas conoixidas aduyan a que a persona se sienta util y parte d'a casa, o que gosa importar más que o resultau final."
+  - "Divide cada faina en pasos simples, amuestra con l'eixemplo millor que con parolas y asume con tranquilidat o paso que s'haiga tornau dificil."
+  - "Guarda baixo clau cutiellos, productos de limpieza y capsulas de deterchent, y mete protectors en os mandos d'os fogons antis de cocinar chuntos."
+  - "Si una toalla no queda bien plegada, no la tornes a fer debant d'a persona. Si cal apanyar bella cosa, fe-lo dimpués y sin que se veiga."
+  - "Si una faina chenera frustración, pasa a un paso más fácil, preba un atro día u simplament posaz-vos chuntos a charrar."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "En qualas fainas d'a casa puet aduyar encara una persona con demencia?"
+    a: "Muitas personas pueden encara plegar ropa, emparellar calcetins, ordenar cubiertos, parar a mesa, pasar un trapo, tirar o polvo, escobar, regar plantas u remover una masa. Triga fainas que a persona fese antes más y adapta-las a o que puet fer agora. En etapas más abanzadas, un solo movimiento repetitivo, como alisar servilletas, puet estar pro."
+  - q: "Ye seguro que una persona con demencia aduye en a cocina?"
+    a: "Puet estar-ne, con una buena supervisión y preparando l'espacio. Mantién fuera d'o suyo alcanz cutiellos, productos de limpieza y superficies calients, fa servir protectors en os mandos d'os fogons y confía-le fainas seguras como lavar verdura, remover u colocar platos. Nunca no la deixes sola con o fuego encendiu."
+  - q: "Qué fer si plegan malament a ropa u se fa un desorden?"
+    a: "No pasa res. L'obchectivo ye pasar tiempo chuntos y sentir-se util, no pas aconseguir un resultau perfecto. Si cal tornar a fer bella cosa, aguarda a fer-lo más tarde y quan a persona no mire, ta que no se sienta correchida."
+  - q: "Qué fer si no quier aduyar?"
+    a: "Una negativa puet significar que a faina pareix masiau dificil, confusa u cansatiba en ixe momento. No la forces. Preba con una versión más fácil, convida-la a fer-te companyía u torna a sucherir-lo en un atro inte d'o día."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Muitas personas que viven con demencia pasoron decenios levanto una casa, cudiando d'a familia u mantenendo un puesto de treballo en orden. Convidar-las a colaborar en fainas reals transmite un mensache claro: «encara fas parte d'esta casa», una cosa que pocas atras actividaz aconsiguen igual. En esta pachina se repasan qualas fainas gosan funcionar millor, cómo organizar-las, cómo adaptar-las a mida que as cosas cambian y cómo mantener a cocina y a zona de lavandería seguras.
 
-## Why do everyday chores work well as activities?
+## Por qué funcionan tan bien as fainas cutianas como actividaz?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+As fainas d'a casa funcionan porque son conoixidas y tienen un sentito claro. O National Institute on Aging incluye fregar platos, parar a mesa, escobar, tirar o polvo, ordenar o correu, plegar a ropa y deseparar o reciclache entre as [actividaz cutianas que as personas con Alzheimer pueden desfrutar](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). L'Alzheimer's Association destaca que fainas como parar a mesa pueden aduyar a que a persona [se sienta una parte apreciada d'o fogar](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Una faina cutiana ya leva incorporada a razón ta encetar-la. Ye muito más fácil recibir un «sí» debant d'un «Me farías una man con estas toallas?» que debant d'un «Te fería goyo fer una actividat?».
 
-## Which household tasks are good to try?
+## Qualas fainas de casa ye bueno prebar?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Prencipia con quefers que a persona fese habitualment antes más, y adapta-los a o que puet fer hue.
 
-### Laundry and linens
+### Ropa y blancos
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Plegar toallas y drapez.** Entrega un canasto con piezas chicotas y lianas. As toallas son muito agraixidas: no bi ha denguna traza incorreuta de plegar-las.
+- **Emparellar calcetins.** Mete un montón mezclau dencima d'a mesa. Si trobar as parellas resulta complexo, fa servir nomás dos u tres colors bien diferents.
+- **Alisar y apilar.** Servilletas, fundas d'almohada u trapos de cocina se pueden estirar y amontonar. Isto marcha muit bien en etapas posteriors, quan plegar ya implica masiaus pasos.
 
-### Table and kitchen
+### Mesa y cocina
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Parar a mesa.** Para un puesto como modelo ta que a persona lo copie. Si ye masiau, pasa un solo elemento cada vegada: «Aquí tiens una forqueta ta cada plato».
+- **Ordenar cubiertos.** Mezcla forquetas, culleras y cutiellos de manteca limpios en un recipient y pide que los deseparen en a cubertera. No i deixes cutiellos con punta u tallants.
+- **Xugar a vaixiella.** Platos de plastico u incasables chunto con un trapo suau fan d'esto una fayena segura.
+- **Limpiar a mesa u a bancada.** Un trapo humido y una superficie despexada. L'Alzheimer's Association suchiere ofreixer un trapo si a persona ya ye pasando a man por a mesa, transformando ixe movimiento sin rumbo en una faina util.
 
-### Around the house
+### Por a casa
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Tirar o polvo.** Un plomero suau y bellas superficies resistents, como a mesa d'o centro u una librería.
+- **Clasificar o correu.** Entrega folletos publicidarios y catalogos ta deseparar en montons: alzar, reciclar, u mirar más tarde. Guarda as facturas reals y documentos importants en un atro puesto.
+- **Deseparar o reciclache.** Botes limpios, botellas y papel en diferents contenedors.
+- **Escobar.** Una escoba chicota en un patio u en o suelo d'a cocina, siempre que a persona tienga buen equilibrio.
+- **Regar as plantas.** Una regadera chicota y liuchera, y unas pocas plantas que queden a man.
 
-### Simple cooking with supervision
+### Cocina sencilla con supervisión
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Cocinar puet despertar recuerdos y sensacions muito placenteras. O NIA suchiere deixar que a persona arrocle ingredientes, mida, mezcle y vierta, u simplament explique cómo se feba una d'as suyas recetas preferidas. Bellas fainas adequadas son:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- lavar fruta u verdura
+- remover una masa u una ensalada freda
+- trencar as fuellas d'ensalada
+- untar manteca en pan tostau con un cutiello de punta redonda
+- colocar a masa de galletas en a safata d'o furno
+- repartir os ingredients d'una pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Si medir se torna complicau, l'Alzheimer's Association aconsella rematar tu a midura y dimpués pasar-le un atro paso, como remover.
 
-## How do I set up a chore so it goes well?
+## Cómo preparar una faina ta que marche bien?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Triga o momento adecuau.** Mira un inte d'o día en que a persona se sienta descansada y tranquila. Ta muitos, ixe momento ye o maitín.
+2. **Despexa l'espacio.** Una sola faina, una sola superficie, y garra obchecto superfluo dencima d'a mesa.
+3. **Convida, no ordenes.** Un «Me vendría bien una man con esto» funciona millor que un «Toca plegar a ropa».
+4. **Amuestra a primera pieza.** Plega una toalla a monico, y dimpués pasa-le a siguient. Veyer-lo fa más honra que no ascuitar instruccions.
+5. **Indica un solo paso cada vegada.** Dar muitas indicacions chuntas puet atabalar. Aguarda que remate un paso antes d'indicar o siguient.
+6. **Treballaz de costau.** Fer a mesma cosa l'uno chunto a l'atro fa companyía; no pareix supervisión.
+7. **Charra d'o que fets, no d'o resultau.** Frases como «Qué suaus son» u «Cómo t'aproveitaba organizar l'almario d'a ropa?» convidan a conversar sin posar a preba a dengún.
 
-## How do I adapt chores as abilities change?
+## Cómo adaptar as fainas quan cambian as capacidaz?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+As capacidaz van variando con o tiempo y a ormino d'un día ta l'atro. L'Alzheimer's Association suchiere pasar enta fayenas más sencillas y repetitivas a mida que a situación abanza.
 
-| If this has become hard | Try this instead |
+| Si esto s'ha tornau dificil | Preba con esto en o suyo puesto |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Plegar linzuelos grans | Plegar toalletas u alisar servilletas |
+| Parar una mesa completa | Colocar una servilleta en cada cadiera |
+| Clasificar correu por categorías | Apilar sobres en un solo montón |
+| Seguir una receta | Remover, u mirar y tastar entre que cocinas tu |
+| Escobar tota una cambra | Pasar un trapo por una mesa chicota |
+| Fer a faina | Posar-se chunto a tu y fer-te companyía entre que la fas |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Mirar tamién cuenta. O NIA sinyala que a muitas personas les fa goyo simplament mirar, y ixa ye una traza perfecta de participar.
 
-## How do I keep household tasks safe?
+## Cómo mantener a seguranza en as fainas de casa?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+A seguranza ye o primer, mas que mas en a cocina. Os [consellos de seguranza en o fogar ta personas que atienden a familiars con Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) d'o NIA incluyen:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Zarrar baixo clau u retirar os productos de limpieza, incluyindo as capsulas de deterchent, que pueden pareixer carambelos.
+- Alzar cutiellos, estixeras y ferramientas electricas en un puesto zarrau.
+- Meter protectors en os mandos y un sistema de tallo automatico en a cocina u os fogons.
+- Colocar sinyals de «Para» u «Muit calient» amán d'o furno, a tostadora y a plancha, siempre en puestos a on que no puedan cremar-se.
+- Regular o termo de l'augua caliente a no más de 48 °C ta privar o risgo d'escaldaduras.
+- Sacar a fruta decorativa y os imans con forma de comida, que pueden entivocar-se con alimentos reals.
 
-A few more practical habits help:
+Atras rutinas practicas tamién aduyan:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Rumiar y quedar-se en a cambra siempre que s'use a cocina, o furno u un traste tallant.
+- Fer servir vaixiella que no se crebe ta xugar y parar a mesa.
+- Mantener o suelo seco y despexau quan s'escoba u se friega.
+- Si a persona feba servir ferramientas, l'Alzheimer's Association suchiere retirar os elementos periglosos d'o taller de traza que encara se pueda desfrutar d'una faina segura, como lixar un troz de fusta.
 
-## What if they do it "wrong"?
+## Y si se fa «malament»?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+No li des importancia. Una toalla plegada en tres partes en cuentas de dos contina estando una toalla plegada. L'Alzheimer's Association lo diz con total claridat: o que importa ye pasar tiempo chuntos y que a persona se sienta util, no si as toallas son plegadas de forma impecable. Si una cosa s'ha d'apanyar por fuerza, aguarda a fer-lo más tarde y sin que se veiga.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Correchir en ixe mesmo inte puet convertir un momento agradable en un recordatorio d'o que ya cuesta fer. Un «Muitas gracias, m'has aduyau muito» ye quasi siempre a respuesta más acertada.
 
-## When should we stop?
+## Quan convien aturar?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Atura u cambia d'actividat quan veigas senyals de frustración, cansanzo u falta d'interés. Rematar antes d'hora ye un buen resultau, nunca un fracaso. Puetz:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- pasar a un paso más sencillo
+- cambiar enta una cosa relaxant, como ascuitar musica u prener un café
+- prebar de nuevas más tarde u un atro día
+- simplament quedar-vos posaus fendo-bos companyía
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Si a persona diz que no, no la forces. Consulta [qué fer quan dicen que no](/caregiving/when-they-say-no/) ta trobar trazas amables y serenas de responder.
 
-## Low-effort extras for a quieter moment
+## Opcions tranquilas sin esfuerzo ta momentos de calma
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Quan as fainas fisicas no son posibles, clasificar y emparellar contina estando posible estando posaus. [Sort Together](/games/sort-together/) permite arroclar imáchens en canastos de cocina u de chardín con un toque, y [Picture Pairs](/games/picture-pairs/) ye un chuego d'emparellar con imáchens grans y sin reloch. [Conversation Cards](/games/conversation-cards/) ufre preguntas ubiertas sobre a casa y a familia que acompanyan muit bien a un café dimpués de rematar a faina.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Ta aduya sobre cómo encaixar estas rutinas en o día a día, consulta a nuestra guía ta una [rutina diaria serena](/activities/daily-routine/). Ta más ideyas por etapas, consulta as [actividaz ta etapas intermedias](/activities/middle-stage/).

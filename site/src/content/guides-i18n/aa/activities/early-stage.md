@@ -1,32 +1,28 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Kassis Daafeh Naharsi Uddurih Taamoomi"
+seoTitle: "Naharsi Kassis Daafeh Abtoota: Yicike Malitte"
+description: "Kassis daafeh naharsi uddurih abtootah mala: dooqaysiyya, baxaaqisa, yawqeenim kee kitooba, numuk yicike ruffo dacrisak."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Kassis daafeh naharsi uddurul, maggo mari kaxxa ruffo edde liyom abak suge kacan: kacanot, kaardi kee taabla gacta, gabat-xaagi, buqre, gexso, kuseeysit, diini abtoota kee eglah qokol. Kaxxa korsiyya kobox culuk meqe xaloota, kurri gexsititte, xaban kitooba kee xere num xaqut sugiyya kinnim. Qokol faxam essera, kaadu ken naharat xika.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Naharsi uddurul yan maggo mari isi gubat cubbusak yan. Abtoota mawaaxikaan, dagoo korsiyya faxan kal."
+  - "Atu qokolto le num faxa qokol essera, kaadu qokol faxu waqdi yayse asta sittat diggilsa."
+  - "Dagoo agatina, qasbi wayta waktiyya kee kurri gexsititte maggo kaxxa meqem bahta."
+  - "Tah isi manoh kitooba hinnay manoh xaagi kitaab yakke taama numuk isi gubat abamih meqe uddura."
+  - "Gacta ruffo kee wallo faxak doora. Mokkoro ceelem akkuk gexxaamay dambih caba."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Kassis daafeh naharsi uddurur meqe abtoota maanimii?"
+    a: "Kaado num ruffo edde lem kinnim: kaardi, gabat taabla, gabat-xaagi, buqreh taama, gexso, dooqaysiyya, diinih abto kee eglah qokol. Dagook kurrusiyya, qasbi waysiyya hinnay xabbacoyna faxak raaqay. Kitooba, waraaqat aktubiyya kee manoh xaagih kitaaba abnam ta uddurul meqe caagida."
+  - q: "Taama killi kok maaqak mannal qokolaa?"
+    a: "Num faxa qokol essera, kaadu maro maroh xooqisa. Qokol abtam duuda asta hinnay xabbaco qangara sittat oggola, ceelalloh migaq hinnay qangara bayte waqdi. Qidim kee qulul anuk sugewek, isih faxa innal abam caba, wakti caddok duma gexay kaadu."
+  - q: "Naharsi kassis daafe luk yan num cusub abto mokkoraa?"
+    a: "Yeey, ken faxo tekkek. Taniinat le taama xabbacoynah tan, takkay immay cusub caagidik ruffo geytam faxan, ceelalloh gexsot baxaaqisa kobox, fannih barso hinnay saqol kobox. Dirki maleh inki adda mokkoraay garcet daqa."
+  - q: "Kas darsi aban abbaasittok (apps) naharsi uddurur tuuy?"
+    a: "Tohuk tu gari mari qangara kee doora gactak ruffo geya, tohul ruffo geyaanim faxximtam kinnim. Kassis daafe urta, rabiisa hinnay kalta app hinnay gacta taneeh mayana. Gacta qasbi bahtek hinnay finqitem ceelek, fotok kaak maaqay caba."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +44,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Kassis daafeh naharsi uddurur, maggo mari dumaak sugen innal manol sugaanama. Taama aboonu waytanam, qokoloonu waytanam, kataysis geyoonu waytanam kee saaku manol maggom isih bee kacan. Abtoota mawaaxikaan; ruffo luk sugtoonuh dagoo korsiyya faxan kal. Ku taama qokoltu kinuk gaba-kaleynah gaba-luk taniimih gexsit ceele: qokla, sittalluk mekla, kaadu essero geyta waqdi duma kobox culam kinni.
 
-## What activities are good in early-stage dementia?
+## Kassis daafeh naharsi uddurur meqe abtoota maanimii?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Naharsi uddurur yayse abtoota kaado num kacanoteh liik sugeemik dagook xabbacowtem kinni. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) gacta, kaardi, taabla, qangarit doora, gexso, saqol, buqre, fiire xaynaan, xaagitte warso, fanni, dooqaysiyya, kitooba, waraaqat aktubiyya, suwarrat kitooba, gabat-xaagi kee qaada ayroora malak bahta.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Korsa geytam abto hinnay elle aban araca kinni. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) naharsi uddurul yan mari duma ruffo edde luk sugen caagidik fardi axceenim xayyosa, ceelalloh kaxxa eglat gibdina geytem dagoo marâ luk yayse inna. Gibdi yakke caagidit baxxaqquk walala, kaadu sittalluk korsa.
 
-## Ask first, and agree on how to help
+## Naharat essera, kaadu qokol mannal aban sittat oggola
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) abtootat meqe dagoo amqoota xayyosa:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Baxxaqquk essera.** "Kitaab kobox kok xabbacoysaamay maana?" axce essero malaat yayse gacab bahta.
+- **Duudan axceh cubbusa.** Qidim kee qulul anuk sugewek, numuh guba cabaay mokkoroonaay qokol kee kassit acuy, gaba killi kaltawak.
+- **Astat sittat oggola.** "Kobox culaanamaay xabbaco" iyya asta doora, ceelalloh kaardih gactat migaq bayte waqdi.
+- **Maro maroh xooqisa.** Qokol geytam duuday, maggoo hinnay dagoo tekkem essera.
 
-## Activity ideas for the early stage
+## Naharsi uddurih abtootah mala
 
-### Keep up roles and hobbies
+### Taama kee kacanoota dacrisa
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Ugaggaak yaniinit dacrisa.** Ayroora caddol aban qokol, saqol kobox hinnay club ayrooray meqe xinto acuyta. Qasbi yekkek, dagook kurrusiyya hinnay qasbi waysiyya yayse maraqita.
+- **Maaqo sittalluk mekla.** Suuqut maaqo xaamiyya gibdi tekkek, Alzheimer's Association ayroorah maaqo sittalluk meklaanam kee kitaabat culaanam xayyosa.
+- **Gabat-xaagi aba.** Kacanoteh tan maaqo sittalluk aba. Taama eglak naharat duuda caagida xooqisaay tawayyi heela.
+- **Buqre abto.** Araca mekla, xayiil doora kaadu taama sittalluk aba. Ayroorah buqreh taamah kitaaba qokla.
+- **Gaba-taama dacrisa.** Hayso, koorfa, suqul hinnay farashoota xabbacoyta surrat kee meqe diifut abak sugaanam duudan.
 
-### Games for enjoyment
+### Ruffoh gacta
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Kaardi kee taabla gaca.** Taniinat le gacta xabbacoynah tan. Koboxit gaca num affafut sugubik kal, hisaab caba hinnay dagook korsa.
+- **Kaxxa kitoobah qangara gurra.** Ni [word search](/games/word-search/) shaashat hinnay waraaqat koboxut gacaanam duudan qasbi male waktiy.
+- **Surrat puzzles aba.** Qafik meqe caddo doora gibdi tekkem kal. [Picture puzzle](/games/picture-puzzle/) kurri shaashah caddot yan, kaadu ni meklat [puzzles for dementia](/activities/puzzles/) doora xayyosa.
+- **Ruffoh esseroorih koboxul cula.** Gari mari esseroorih bar kaxxa ruffo edde liyan. Mokkoro ceelek, gari caagid doora, hinnay ni [easy trivia questions](/activities/trivia/) mokkora, gacab doorit luk tan kaadu hisaab maleh.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Gacta tillaba ruffoh kinni. Kassis daafe urta hinnay rabiisa gacta taneeh mayana; maggom [brain games: what the research says](/brain-health/brain-games/) ikriyya.
 
-### Write, reflect and record
+### Akruba, cubbusa kaadu dacrisa
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Ayroorih kitooba dacrisa.** Alzheimer's Association xayyosam kitooba abiyya caagidih wadirik meqem kinni. Ayrol dagoo xottoota gactam duudam.
+- **Isi manoh xaagih kitaaba kura.** Naharsi uddur num isi surrat dooraay xaagitte aktubaah xayyosa uddura. [reminiscence activities](/activities/reminiscence/) wagara.
+- **Waraaqat aktuba.** Baxah baxa, duma kataysa hinnay duma taama-abbaay waraaqat aktubiyya nammayih meqe caagida.
+- **Surratit walala.** [Photo pairs](/games/photo-pairs/) maaqattah surrat xabbacoyta gactat korsa, kaadu [conversation cards](/games/conversation-cards/) walalah xabbacoyna taahita.
 
-### Go out and move
+### Yawqeenim kee sissikowwa
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) taniinat le gexsititte nammayik ruffo tanik gexso xayyosa. Numuh yayse saakuh wakti doora kaadu xera wakti magexsinina.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Kurri qaadah gexsit.** Makano, fannih xaynaan, qasbi wayta waktiyya.
+- **Layit dooqaysiyya.** NIA dooqaysiyya qasbi wayti saakut abaanam xayyosa.
+- **Gexsot kobox kee saqol barso.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) saqol, tai chi, yoga, layit dooqaysiyya kee gexso kobox xayyosa, kassis daafe le marak xabbaco le waktiy.
+- **Saqol kobox kee kassis cafés.** Kassis daafe luk yan mari kee ken qokolti gari marâ luk geytimaanam duudan xabbacoyta agatina.
 
-## Small changes that keep activities enjoyable
+## Abtootat ruffo dacrisa dagoo korsiyya
 
-| If this is getting harder | Try this |
+| Tah gibdi yakke waqdi | Taam mokkora |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Qasbi le hinnay maggo marâ le arac | Qasbi wayta waktiyya gexa, dagoo agatina doora, buxah garal kora |
+| Cusub migooqa kassiisiyya | Num maro maroh migaaqal xayyoysa; kobox maray migaaqah waraaqat luh essera |
+| Maggo gulub le mekla kataatahiyya | Gulubitte kitoobah oobisa, hinnay naharat qidoodi xooqisa |
+| Dalki geytimiyya | Kurri gexsit, wadirik dacri, tohuk kal teet ayro mekla wayya |
+| Gactat caddo katattaanam | Koboxit gaca, madqa xabbacoysa, hinnay hisaab caba |
+| Qangara gurraanam | Wakti acuy; qangara xayyoysa koo iyya astat sittat oggolteek kal |
 
-## When to slow down
+## Rabiisaanam faxximta waqdi
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Ruffok qasbi duma yakke waqdi abto solisa hinnay korsa. Maro maroh dalki geytimam, kacanot cabaam hinnay "Kassiiseh maduuda" axceenim xabbaco walal faxxa, dirki maleh. Maggom gacab tanniinat le caagidik kurri caddo kinni. Num eglak kee gulubitte kataatahamik qokol faxyak, malaat [middle-stage activities](/activities/middle-stage/) yayse ceele. Qokol le walalat maggo caagid geytuh, [communication tips](/caregiving/communication-tips/) wagara, kaadu maggo malaatah, [101 activities](/activities/ideas/) wagara.
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Gaba-kaleyna qokol faxxa. Naharsi uddur ku qokol eglaytitte buxah meqe uddura; [caregiver self-care](/caregiving/caregiver-self-care/) wagara.

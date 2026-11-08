@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Rid aot",
+      "stopReading": "Stop blong rid",
+      "region": "Gem",
+      "restart": "Stat bakegen",
+      "soundOn": "Smol saon i on",
+      "soundOff": "Smol saon i of",
+      "done": "Finis blong naoia",
+      "feedbackQuestion": "Samting ya i givhan tede?",
+      "feedbackYes": "Yes",
+      "feedbackNo": "No tumas",
+      "feedbackThanks": "Tangkyu tumas blong talemaot long mifala."
+    },
+    "tile": {
+      "named": "{name}, tael {n}",
+      "hidden": "Pikja we i haed, tael {n}",
+      "withState": "{label}, {state}",
+      "matched": "I mekem pea finis",
+      "selected": "Jusum finis",
+      "picture": "Pikja",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Evri pea i stap tugeta. Plei bakegen o spel smol.",
+      "photoPair": "Tufala foto i kam tugeta.",
+      "picturePair": "Tufala pikja blong {name|lower}, tufala i stap tugeta.",
+      "selected": "{name}. Naoia faenem pea blong hem.",
+      "mismatch": "Tekem taem blong yu. Tajem wan pikja blong gohed.",
+      "mismatchNamed": "{a} wetem {b}. Tekem taem blong yu. Tajem wan pikja blong gohed."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tajem wan pikja, biaen tajem narawan we i semak long hem.",
+      "guidanceHidden": "Tajem tu tael blong tanem tufala. Lukluk blong faenem tu we tufala i semak.",
+      "restart": "Niu pikja",
+      "sizeLegend": "Hamas tael",
+      "size": {
+        "one": "{n} tael",
+        "other": "{n} tael"
+      },
+      "viewLegend": "Fasin blong plei",
+      "viewShowing": "Ol pikja we oli stap soemaot",
+      "viewHidden": "Ol pikja we oli haed",
+      "playAgain": "Plei bakegen wetem ol niu pikja",
+      "talk": "Storian tugeta long ol pikja"
+    },
+    "choose": {
+      "countLegend": "Hamas pikja",
+      "count": "{n} blong jusum",
+      "thatOne": "Hemia {name|lower}. Tekem taem blong yu."
+    },
+    "findTheSame": {
+      "guidance": "Lukluk long pikja we i stap antap. Tajem semak pikja long daon.",
+      "yes": "Yes, semak {name|lower} ya.",
+      "next": "Nekis pikja"
+    },
+    "shadowMatch": {
+      "guidance": "Lukluk long sedo we i stap antap. Tajem pikja we i mekem sedo ya.",
+      "yes": "Yes, {name|lower} nao i mekem sedo ya.",
+      "next": "Nekis sedo",
+      "shadowAlt": "Wan sedo blong faenem semak long hem",
+      "foundAlt": "Sedo blong {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tajem wan pikja, biaen tajem basket we i blong hem.",
+      "restart": "Niu pikja",
+      "themeLegend": "Stamba tingting",
+      "selected": "{name}. Naoia tajem basket we i mas go insaed.",
+      "pickFirst": "Faswan tajem wan pikja, biaen tajem wan basket.",
+      "hint": "{name|lower} i save go insaed long \"{basket}\". Tajem basket ya blong putum i go insaed.",
+      "placed": "{name|lower} i stap insaed long \"{basket}\".",
+      "sorted": "Evri samting i seraot gud finis. Lukluk tugeta long ol basket, o traem wan narafala stamba tingting.",
+      "basket": {
+        "one": "{basket} basket, {count} pikja i stap insaed",
+        "other": "{basket} basket, {count} pikja oli stap insaed"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tajem wan pis, biaen tajem narawan. Tufala bambae i jenisim ples.",
+      "restart": "Miksapem bakegen",
+      "pictureLegend": "Pikja",
+      "pictures": {
+        "sailboat": "Selbot",
+        "house": "Haos",
+        "balloon": "Balun",
+        "sunflower": "Sanflaoa",
+        "lighthouse": "Laethaos",
+        "cat": "Pusikat"
+      },
+      "sizeLegend": "Ol pis",
+      "size": {
+        "one": "{n} pis",
+        "other": "{n} pis"
+      },
+      "pickedUp": "Pis ya yu tekem finis. Naoia tajem ples we i mas go long hem.",
+      "whole": "{name|lower} i kam fulwan bakegen. Jusum wan narafala pikja enitaem we yu wantem.",
+      "swapped": {
+        "one": "Jenisim ples finis. {correct} long {total} pis i stap long stret ples.",
+        "other": "Jenisim ples finis. {correct} long {total} pis oli stap long stret ples."
+      },
+      "guideAlt": "Fulwan pikja: {name}",
+      "guideText": "Hemia lukluk blong pikja taem i kam fulwan.",
+      "piece": "Pis long {place}",
+      "pieceInPlace": ", i stap long stret ples",
+      "piecePickedUp": ", tekem finis",
+      "places4": [
+        "antap long lef",
+        "antap long raet",
+        "daon long lef",
+        "daon long raet"
+      ],
+      "places9": [
+        "antap long lef",
+        "antap long medel",
+        "antap long raet",
+        "medel long lef",
+        "stret long medel",
+        "medel long raet",
+        "daon long lef",
+        "daon long medel",
+        "daon long raet"
+      ],
+      "done": "Pikja i kam fulwan bakegen. Plei bakegen o spel smol.",
+      "playAgain": "Miksapem bakegen"
+    },
+    "finishTheSaying": {
+      "guidance": "Ridim toktok ya tugeta, biaen tajem wod we i finisim.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Yes, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" i stret tu. Nomal toktok i finis wetem \"{end}\".",
+      "revealed": "Toktok ya hemia \"{start} {end}.\"",
+      "choicesLabel": "Jusum las wod",
+      "show": "Soem en blong hem",
+      "talk": "Storian long hem: ",
+      "next": "Nekis toktok"
+    },
+    "wordSearch": {
+      "guidance": "Ol wod oli go kros o godaon. Tajem fas leta blong wan wod, biaen las leta blong hem.",
+      "restart": "Niu pasel",
+      "themeLegend": "Stamba tingting",
+      "sizeLegend": "Saes blong bokis",
+      "size": {
+        "one": "{n} taem {n} ({words} wod)",
+        "other": "{n} taem {n} ({words} wod)"
+      },
+      "print": "Printimap pasel ya",
+      "letterChosen": "Leta {letter} yu jusum finis. Naoia tajem las leta blong wod ya.",
+      "found": "Faenem {word} finis.",
+      "foundAll": "Faenem {word} finis. Hemia evri wod nao. Plei bakegen o spel smol.",
+      "tryAgain": "Tekem taem blong yu. Tajem fas leta blong wan wod, biaen las leta blong hem.",
+      "gridLabel": "Bokis blong ol leta, {n} laen wetem {n} leta long wanwan laen. Yusum ol arow ki blong muv bitwin ol leta.",
+      "cell": "{letter}, laen {row}, kolom {col}",
+      "cellFound": ", haf blong wan wod we yu faenem finis",
+      "wordsHeading": "Ol wod blong faenem",
+      "wordFound": " (faenem finis)",
+      "sheetTitle": "Faenem wod: {theme}",
+      "sheetNote": "Ol wod oli go kros o godaon.",
+      "unavailable": "Wan bokis blong ol leta i no stret long lanwis ya, taswe gem blong faenem wod i no stap long ples ya. Traem ol gem blong pikja nomo."
+    },
+    "coloring": {
+      "guidance": "Tajem wan kala, biaen tajem wan haf blong pikja.",
+      "restart": "Kliarem ol kala",
+      "cleared": "Pej i klia bakegen.",
+      "pageLegend": "Pej",
+      "print": "Printimap pej ya",
+      "colorsLabel": "Ol kala",
+      "paintChosen": "Kala {paint} yu jusum finis.",
+      "painted": "{part} naoia i kam {paint|lower}.",
+      "artLabel": "{page}, {count} haf blong pentem",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, i no gat kala yet",
+      "paints": {
+        "red": "Red",
+        "orange": "Orenj",
+        "yellow": "Yelo",
+        "green": "Grin",
+        "blue": "Blu",
+        "purple": "Papol",
+        "pink": "Pingk",
+        "brown": "Braon",
+        "sky-blue": "Laet blu",
+        "cream": "Krim",
+        "gray": "Grei",
+        "white": "Waet"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Ridim kad ya aot laod. I no gat ansa we i rong o i stret.",
+      "position": "Kad {n} long {total}",
+      "themeLegend": "Stamba tingting",
+      "next": "Nekis kad",
+      "previous": "Kad bifo",
+      "print": "Printimap evri kad",
+      "sheetTitle": "Ol kad blong storian"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Stat faswan wetem blong jusum ol foto blong yu.",
+      "guidance": "Tajem wan foto, biaen tajem narawan we i semak long hem.",
+      "restart": "Miksapem olgeta bakegen",
+      "intro": "**Jusum 2 kasem 6 foto** long tul ya. Oli soem long pej ya nomo mo neva aploadem o sevem olgeta.",
+      "choose": "Jusum ol foto",
+      "chooseDifferent": "Jusum ol narafala foto",
+      "clear": "Kliarem ol foto",
+      "cleared": "Kliarem ol foto long pej ya finis.",
+      "atLeastTwo": "Plis jusum tu foto o moa.",
+      "usingFirst": "Yusum faswan {max} foto.",
+      "skipped": {
+        "one": "{count} fael i no wan foto we mifala i save soem.",
+        "other": "{count} fael oli no ol foto we mifala i save soem."
+      },
+      "playAgain": "Plei bakegen wetem ol foto ya",
+      "empty": "Ol foto blong yu bambae oli kamaot long ples ya, wanwan long olgeta i gat tufala."
+    },
+    "pictureBingo": {
+      "guidance": "Printimap ol kad fastaem. Biaen soem man blong kolem ya long bigfala skrin we yu gat.",
+      "called": {
+        "one": "{name}. {called} long {total} pikja i kolem finis.",
+        "other": "{name}. {called} long {total} pikja oli kolem finis."
+      },
+      "start": "Tajem \"Nekis pikja\" blong kolem fas pikja.",
+      "restart": "Statem wan niu gem",
+      "squaresLegend": "Ol skwea long wanwan kad",
+      "squares": "{n} skwea ({side} taem {side})",
+      "cardsLegend": "Hamas kad blong printimap",
+      "cards": {
+        "one": "{n} kad",
+        "other": "{n} kad"
+      },
+      "print": {
+        "one": "Printimap {n} bingo kad",
+        "other": "Printimap {n} bingo kad"
+      },
+      "ready": "Rere taem yu rere",
+      "next": "Nekis pikja",
+      "allCalled": "Kolem evri pikja finis",
+      "alreadyCalled": "Kolem finis",
+      "sheetTitle": "Pikja bingo · kad {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Pulum win taem raonwol i stap kam bigwan, mo tekemaot win taem i stap kam smol. Bambae i stop hem wan afta we yu pulum win sikis taem.",
+      "paceLegend": "Spid",
+      "paceSlow": "Sloslo (5 seken long evri saed)",
+      "paceGentle": "Isi (4 seken long evri saed)",
+      "ready": "Taem yu redi",
+      "in": "Pulum win",
+      "hold": "Rilaks",
+      "out": "Tekemaot win",
+      "start": "Stat",
+      "stop": "Stop",
+      "started": "I stat finis. Pulum win taem raonwol i stap kam bigwan.",
+      "stopped": "I stop.",
+      "finished": "Hemia sikis sloslo win. Yu save stat bakegen enitaem yu wantem."
+    }
+  },
+  "pictures": {
+    "teacup": "Kop blong ti",
+    "kettle": "Ketel",
+    "bread": "Bred",
+    "frying-pan": "Fraepan wetem eg",
+    "cake": "Kek blong betde",
+    "sunflower": "Sanflawa",
+    "tulip": "Tulip we i red",
+    "watering-can": "Wotakan",
+    "potted-plant": "Plan long pot",
+    "tree": "Tri",
+    "bird": "Pijin antap long branis",
+    "butterfly": "Bataflae",
+    "dog": "Dok",
+    "cat": "Puskat",
+    "fish": "Golifis",
+    "apple": "Apol we i red",
+    "pear": "Per",
+    "strawberry": "Stroberi",
+    "banana": "Banana",
+    "lemon": "Lemon",
+    "cherries": "Seri",
+    "house": "Haos",
+    "lamp": "Laet blong tebol",
+    "armchair": "Bigfala sia",
+    "key": "Ki we i olfala",
+    "umbrella": "Ambrela",
+    "sailboat": "Selbot",
+    "car": "Olfala trak",
+    "bicycle": "Baesikel",
+    "balloon": "Balun blong hot ea",
+    "lighthouse": "Laethaos",
+    "sun": "San",
+    "moon": "Mun wetem ol sta",
+    "teapot": "Tipot",
+    "apple-pie": "Paes blong apol",
+    "honey-jar": "Botel hani",
+    "boiled-egg": "Eg long smol kap",
+    "toaster": "Tosta",
+    "cheese": "Pis jis",
+    "milk-jug": "Djug melek",
+    "cupcake": "Smol kek",
+    "orange": "Oranis",
+    "grapes": "Bandil grep",
+    "watermelon": "Pis wotamelon",
+    "pineapple": "Penaepol",
+    "peach": "Pij",
+    "rose": "Roz",
+    "daisies": "Flawa dezi",
+    "mushroom": "Masrum",
+    "wheelbarrow": "Wilbaro",
+    "birdhouse": "Smol haos blong pijin",
+    "cactus": "Kaktas long pot",
+    "acorn": "Sid blong tri",
+    "autumn-leaf": "Lif we i foldaon",
+    "rabbit": "Rabit",
+    "duck": "Dakdak",
+    "hen": "Woman faol",
+    "sheep": "Sipsip",
+    "owl": "Pijin blong naet",
+    "ladybird": "Smol bitel we i red",
+    "snail": "Snel",
+    "frog": "Kroga",
+    "bee": "Bi",
+    "clock": "Klok blong tebol",
+    "vase-of-flowers": "Flawa long botel",
+    "radio": "Olfala redio",
+    "books": "Hip blong ol buk",
+    "candle": "Kandel",
+    "glasses": "Glaes blong rid",
+    "telephone": "Telefon",
+    "ball-of-wool": "Bal blong wul",
+    "straw-hat": "Hat blong san",
+    "train": "Tren blong stim",
+    "bus": "Bas",
+    "airplane": "Eroplen",
+    "suitcase": "Sutkes",
+    "tractor": "Traktok",
+    "rowing-boat": "Bot wetem pul",
+    "rainbow": "Renbo",
+    "rain-cloud": "Klaod blong ren",
+    "snowflake": "Sno",
+    "kite": "Kaet",
+    "sunrise": "San i kam antap long hil"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Frut",
+          "words": [
+            "APEL",
+            "MANGO",
+            "LEMON",
+            "BANANA",
+            "PAWPAW",
+            "ORANIS",
+            "MELON",
+            "GUAVA",
+            "AVOKA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Garen",
+          "words": [
+            "FLAVA",
+            "TULIP",
+            "SID",
+            "DOTI",
+            "LIF",
+            "TRI",
+            "ROZ",
+            "WOTA",
+            "PLAN"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kisin",
+          "words": [
+            "KOP",
+            "SPUN",
+            "BRED",
+            "PLET",
+            "FOK",
+            "NAEF",
+            "SOFPAN",
+            "STOF",
+            "KETEL"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Weta",
+          "words": [
+            "SAN",
+            "REN",
+            "WIN",
+            "KLAOD",
+            "SIKLON",
+            "TANDA",
+            "LAET",
+            "BRIS",
+            "WETA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Ol anamol",
+          "words": [
+            "DOK",
+            "PUSKAT",
+            "PIJIN",
+            "FIS",
+            "HOS",
+            "BULUK",
+            "DAKDAK",
+            "PIK",
+            "FAOL"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Haos",
+          "words": [
+            "DOA",
+            "SIA",
+            "LAET",
+            "BED",
+            "MAT",
+            "SOFA",
+            "KLOK",
+            "TEBOL",
+            "WINDO"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Evri kad",
+        "food": "Kakae",
+        "home": "Haos",
+        "outdoors": "Aotsaed",
+        "animals": "Ol anamol",
+        "travel": "Go wokbaot",
+        "work": "Wok mo ol samting we yu laekem mekem",
+        "music": "Miusik mo lafet",
+        "seasons": "Ol taem blong yia"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Wanem smel insaed long kisin we yu laekem tumas?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Sipos i gat wan lafet, wanem kaen kek nao yu wantem kakae?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Storian lelebet long wan swit kakae o frut we yu laekem tumas."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Olsem wanem nao yu laekem drinkem ti o kofe blong yu?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Wanem kakae blong moning we i mekem yu harem gud tumas?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Yu bin pikimap frut stret long tri o garen finis?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Kakae we i swit o we i konkon: wanem nao yu laekem moa?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Wanem kakae we i mekem yu tingbaot ol hot taem?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Storian lelebet long wan haos we yu bin harem gud blong stap long hem."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Wea ples nao yu laekem sidaon mo spel long hem?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Wanem samting we yu laekem mekem long wan naet we ples i kwaet gud?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Wanem samting we i impoten tumas long yu we yu wantem haedem gud?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Huia nao yu wantem singaotem hem i kam blong yutufala i dring ti tugeta?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Wanem samting we yu laekem mekem taem ren i stap foldaon?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Wanem kaen flawa nao yu wantem planem long garen?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Storian lelebet long wan gudfala tri o wan open ples we yu laekem."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Wanem samting we i naes tumas taem yu stap long garen?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Wanem kala flawa nao yu laekem moa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Yu laekem blong putum ol flawa o smol plan insaed long haos?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Wanem nao mekem wan de we san i saen i naes tumas long yu?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Storian lelebet long wan dok we yu bin save gud long hem."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Puskat o dok, o tufala evriwan? Wanem samting yu laekem long olgeta?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Wanem kaen pijin nao yu stap luk o harem singaot aotsaed?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Yu bin go huk finis, o yu luk ol fis we oli stap lukaotem?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Wanem anamol we i naes we i naes tumas we yu bin luk finis?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Storian lelebet long wan trak we yu bin laekem tumas."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Yu laekem moa blong spenem wan de long solwota o antap long hil?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Sipos yu go raed, wea ples nao yu wantem go long hem?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Sipos yu save flaeflae antap, wea ples nao yu wantem luk?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Storian long wan trip o aoteng we yu bin harem gud long hem."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Wanem kaen wok we yu bin laekem tumas blong mekem?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Wanem samting we yu laekem mekem blong spenem taem?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Wanem samting we ol man oli save se yu gat gudhan blong mekem o fiksimap?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Wanem advaes we yu save givim long wan yangfala we i jes stat wok?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Wanem kaen miusik we i mekem leg blong yu i wantem danis?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Wanem samting we i mekem wan lafet i kam hepi tumas?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Huia wan singa we yu laekem tumas blong lisin long voes blong hem?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Wanem muvi o program long televisin we yu laekem wajem bakegen?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Wanem samting we yu laekem moa long taem we san i hot?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Wanem samting we yu laekem taem ol lif oli stat blong jenisim kala mo foldaon?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Wanem samting we i mekem yu harem wom mo gud long wan kolkol ivning?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Wanem faswan saen we i soemaot se ol niufala lif mo flawa oli stap kam?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Ren o sanwe: wanem nao yu laekem moa?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flawa long pot",
+          "regions": {
+            "sky": "Bakgraon",
+            "table": "Tebol",
+            "stem": "Stik blong flawa",
+            "leaf-left": "Lif long lefsaed",
+            "leaf-right": "Lif long raetsaed",
+            "petal-1": "Lif-flawa 1",
+            "petal-2": "Lif-flawa 2",
+            "petal-3": "Lif-flawa 3",
+            "petal-4": "Lif-flawa 4",
+            "petal-5": "Lif-flawa 5",
+            "petal-6": "Lif-flawa 6",
+            "petal-7": "Lif-flawa 7",
+            "petal-8": "Lif-flawa 8",
+            "center": "Middel blong flawa",
+            "pot": "Pot",
+            "pot-rim": "Rim blong pot"
+          }
+        },
+        "house": {
+          "name": "Haos",
+          "regions": {
+            "sky": "Skae",
+            "sun": "San",
+            "grass": "Gras",
+            "chimney": "Simni",
+            "walls": "Ol wol",
+            "roof": "Ruf",
+            "door": "Doa",
+            "window-left": "Windo long lefsaed",
+            "window-right": "Windo long raetsaed",
+            "path": "Rod"
+          }
+        },
+        "teacup": {
+          "name": "Kop blong ti",
+          "regions": {
+            "background": "Bakgraon",
+            "saucer": "Plet blong kop",
+            "handle": "Han blong kop",
+            "cup": "Kop",
+            "band": "Laen long kop",
+            "tea": "Ti"
+          }
+        },
+        "butterfly": {
+          "name": "Bataflae",
+          "regions": {
+            "background": "Bakgraon",
+            "wing-top-left": "Antap wing long lefsaed",
+            "wing-top-right": "Antap wing long raetsaed",
+            "wing-bottom-left": "Daon wing long lefsaed",
+            "wing-bottom-right": "Daon wing long raetsaed",
+            "spot-left": "Mak long lefsaed",
+            "spot-right": "Mak long raetsaed",
+            "body": "Bodi"
+          }
+        },
+        "sailboat": {
+          "name": "Selbot",
+          "regions": {
+            "sky": "Skae",
+            "sea": "Solwota",
+            "sail-big": "Bigfala sel",
+            "sail-small": "Smol sel",
+            "mast": "Mast",
+            "hull": "Bot",
+            "flag": "Flak"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kisin mo garen",
+          "baskets": [
+            "Long kijin",
+            "Long garen"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Frut mo ol anamol",
+          "baskets": [
+            "Frut",
+            "Ol anamol"
+          ]
+        },
+        "home-travel": {
+          "label": "Hom mo wokbaot",
+          "baskets": [
+            "Long hom",
+            "Wokbaot aotsaed"
+          ]
+        }
+      }
+    }
+  }
+}

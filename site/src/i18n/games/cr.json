@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑲᓃᓱᐘᑭ",
+    "seoTitle": "ᑲᐘᐑᒋᐦᑐᒁᑭ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᐊᓂᑭ ᑲᐘᓂᐦᐃᑫᔨᐦᑕᒧᐘᒡ ᐅᒉᐦᒋ: ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑲᓃᓱᐘᑭ",
+    "h1": "ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑲᓃᓱᐘᑭ: ᐯᔭᑕᐠ ᑲᐘᐑᒋᐦᑐᒁᑭ ᒣᑕᐍᐏᐣ",
+    "description": "ᓇᒪ ᑫᑿᐣ ᑭᐸᑭᑎᓇᐣ, ᐯᔭᑕᐠ ᒣᑕᐍᐏᐣ ᐊᓂᑭ ᑲᐘᓂᐦᐃᑫᔨᐦᑕᒧᐘᒡ ᐅᒉᐦᒋ. ᑲᒥᓴᑭ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᒧᔕᐠ ᓇᑭᐣ, ᓇᒪ ᑫᑿᐣ ᐱᓯᒧᐢᑳᐣ ᐊᐦᐳ ᐊᑭᐦᒋᑫᐏᐣ, ᒥᓇ ᑭᓇᐘᐸᐦᑌᐣ 4 ᐃᐢᑯ 12 ᒪᓯᓇᐸᔨᐦᒋᑲᓇ.",
+    "short": "ᒥᐢᑲ ᓃᓱ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑲᐯᔭᑿᓄᐘᑭ. ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᒧᔕᐠ ᑭᑭᓇᐘᐸᐦᑌᐣ.",
+    "players": "1 ᐊᐦᐳ 2 ᐊᔨᓯᔨᓂᐘᐠ, ᑕᑐᓀ",
+    "intro": "ᓴᒥᓇ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ, ᒥᓇ ᓴᒥᓇ ᐊᓂᒪ ᑲᐯᔭᑿᓄᐘᐠ. ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᒧᔕᐠ ᓇᑭᐣ, ᓇᒪ ᑫᑿᐣ ᑭᑕᐎᐢᑭᓯᐣ. ᒪᑲ ᓃᓱ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑲᐯᔭᑿᓄᐘᑭ, ᐅᓵᐏᓵᐚᐤ ᐚᐢᑲ ᒥᓇ ᓇᓯᐸᐦᐃᑲᐣ ᑭᓅᑯᐣ.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "ᓇᐘᐸᑕ ᑕᓂᑐᐘ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑫᐋᐸᒋᐦᑖᔭᐣ. ᓀᐓ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᐯᔭᑕᐠ ᑭᒋ ᒫᒋᑖᔭᐣ.",
+      "ᓴᒥᓇ ᓇᐣᑐ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ. ᐅᓵᐏᓵᐚᐤ ᐚᐢᑲ ᑫᑭᓅᑯᐣ.",
+      "ᓴᒥᓇ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᑲᐯᔭᑿᓇᐸᒥᓇᒁᐠ. ᓃᓱ ᐊᓂᐦᐃ ᑲᐯᔭᑿᓄᐘᑭ ᐊᓯᒋ ᐊᐢᑌᐘ ᒥᓇ ᓇᓯᐸᐦᐃᑲᐣ.",
+      "ᑭᐢᐱᐣ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᐱᑐᐢ ᐃᓯᓇᒁᑭ, ᓇᒪ ᑫᑿᐣ ᒪᔭᑕᐣ. ᑭᓇᑐ ᓴᒥᓇ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᑭᐢᐱᐣ ᑫᑕᐦᑖᔭᐣ.",
+      "ᐊᐸᐦᐊ \"ᑲᑲᓯᐦᑖᐘᑭ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ\" ᑭᐢᐱᐣ ᓃᓱ ᑭᒥᔦᔨᐦᑌᓇᐚᐤ ᐊᓂᒪ ᑲᐊᐧᑌᐦᑲᓯᐘᑭ."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "ᐑᑕᒧᐠ ᑲᐃᓯᓂᑳᑌᑭ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᒥᓇ ᐚᐦᐑᑕᒧᐠ: \"ᒥᐦᑿᐤ ᒥᓂᐦᑿᓈᐱᐢᐠ. ᑭᑲᐦᑭᐦᑌᐤ ᑑᑑᓵᐳᐤ ᑭᐦᑏᐦᑭᕽ?\"",
+      "ᐸᑭᑎᐣ ᐊᐘ ᑲᑲᓇᐍᔨᒪᐟ ᑭᒋ ᓴᒥᓇᕽ, ᐊᑕ ᐚᐦᑫᒋ. ᐃᑖᐱᐦᐃᑫ ᒨᒋ ᓇᒪᐑᔭ ᓴᒥᓇᒧᐘ.",
+      "ᐋᐸᒋᐦᑖ ᓀᐓ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᐃᐢᑯ ᑲᒥᔦᔨᐦᑕᒁᐠ. ᑲᒥᒉᑎᑭ ᑭᓇᐘᐸᐦᑌᐣ ᑭᐢᐱᐣ ᓇᑐᐍᔨᐦᑕᒪᐣ, ᓇᒪᐑᔭ ᑭᐎᐦᒉᐣ.",
+      "ᑭᓯᐦᑖ ᒣᑿᒡ ᑲᒥᔦᔨᐦᑕᒁᐠ. ᐯᔭᐠ ᒣᑕᐍᐏᐣ ᑭᓯᐦᑌᐤ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ᒋ ᐊᐢᑌᐤ ᐱᓯᒧᐢᑳᐣ ᐊᐦᐳ ᐊᑭᐦᒋᑫᐏᐣ?",
+        "a": "ᓇᒧᔭ. ᓇᒪ ᑫᑿᐣ ᐱᓯᒧᐢᑳᐣ, ᐊᑭᐦᒋᑫᐏᐣ, ᐊᐦᐳ ᑲᑮᐦᑐᑌᕽ. ᑭᑭᓯᐦᑖᐣ ᐃᐢᐱ ᑲᓇᑐᐍᔨᐦᑕᒪᐣ, ᒥᓇ ᐋᐱᐦᑕᐤ ᑲᑭᓯᐦᑖᔭᐣ ᒥᔪᐚᓯᐣ."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "ᑖᓂᑫᐦ ᐆᐦᒋ ᒧᔕᐠ ᑲᓇᑭᑭ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ?",
+        "a": "ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑲᓇᑭᑭ ᐑᒋᐦᐃᑫᒨ ᑭᒋ ᑲᓇᐘᐸᐦᑕᒥᕽ ᒥᓇ ᑭᒋ ᐘᐑᒋᐦᑐᒁᑭ, ᓇᒪᐑᔭ ᑭᒋ ᑭᐢᑭᓯᕽ. ᒥᐉᑦ ᐊᔨᓯᔨᓂᐘᐠ ᐯᔭᑕᐠ ᐃᑌᔨᐦᑕᒧᐘᒡ. ᑭᑭ ᒣᐢᑯᑕᓯᓇᐍᐣ ᑭᒋ ᑲᑲᓯᐦᑖᐘᑭ ᑭᐢᐱᐣ ᓇᑐᐍᔨᐦᑕᒪᐣ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ᒋ ᓇᒪ ᑫᑿᐣ ᑭᐸᑭᑎᓇᐣ, ᒥᓇ ᒋ ᑭᓇᑐᐍᔨᐦᑕᒁᐣ ᑭᒋ ᒪᓯᓇᐦᐃᓱᔭᐣ?",
+        "a": "ᐁᐦᐁ, ᓇᒪ ᑫᑿᐣ ᑭᐸᑭᑎᓇᐣ, ᒥᓇ ᓇᒪ ᑫᑿᐣ ᒪᓯᓇᐦᐃᓱᐏᐣ ᐊᐦᐳ ᑭᒋ ᐅᑎᓇᒪᐣ. ᐋᐸᑕᐣ ᐃᐣᑐᕐᓀᑦ ᑭᓅᐦᑌᐦᒋᑲᓂᕽ ᓈᓇᑐᐠ ᓲᓂᔭᐘᐱᐢᑯᐢ, ᑕᑉᓕᑦ, ᐊᐦᐳ ᒪᒥᑐᓀᔨᐦᒋᑲᓂᕽ."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "ᒋ ᑭᑭ ᐋᐸᒋᐦᑖᓇᐣ ᑭᐚᐦᑯᒫᑲᓇᓇᐠ ᐅᒪᓯᓇᐸᔨᐦᒋᑲᓂᐚᐘ?",
+        "a": "ᐁᐦᐁ. ᑯᒋᐦᑖ Photo pairs, ᐊᓂᒪ ᑲᐸᑭᑎᓂᐢᐠ ᑭᒋ ᓇᐘᐸᐦᑕᒪᐣ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑭᑲᓇᐍᔨᐦᒋᑲᓂᕽ ᐅᒉᐦᒋ. ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑭᓅᐦᑌᐦᒋᑲᓂᕽ ᐊᐢᑌᐘ ᒥᓇ ᓇᒪ ᓇᐣᑐ ᐃᐢᐸᔨᐘ."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "ᒥᐢᑲ ᑲᐯᔭᑿᓄᐘᐠ",
+    "seoTitle": "ᒥᐢᑲ ᑲᐯᔭᑿᓄᐘᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ: ᐯᔭᑕᐠ ᒣᑕᐍᐏᐣ ᐊᓂᑭ ᑲᐘᓂᐦᐃᑫᔨᐦᑕᒧᐘᒡ ᐅᒉᐦᒋ",
+    "h1": "ᒥᐢᑲ ᑲᐯᔭᑿᓄᐘᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ",
+    "description": "ᐯᔭᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᐃᐢᐱᒥᕽ, ᓃᓱ ᐃᐢᑯ ᓀᐓ ᑕᐦᑕᓯᐣ. ᓴᒥᓇ ᐊᓂᒪ ᑲᐯᔭᑿᓄᐘᐠ. ᐯᔭᑕᐠ, ᓇᒪ ᑫᑿᐣ ᑭᐸᑭᑎᓇᐣ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᒣᑕᐍᐏᐣ ᐊᓂᑭ ᑲᐘᓂᐦᐃᑫᔨᐦᑕᒧᐘᒡ ᐅᒉᐦᒋ, ᓇᒪ ᑫᑿᐣ ᐱᓯᒧᐢᑳᐣ.",
+    "short": "ᑲᓇᐘᐸᑕ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᐃᐢᐱᒥᕽ ᒥᓇ ᓴᒥᓇ ᐊᓂᒪ ᑲᐯᔭᑿᓄᐘᐠ ᑕᐦᑕᓯᐣ.",
+    "players": "1 ᐊᐦᐳ 2 ᐊᔨᓯᔨᓂᐘᐠ",
+    "intro": "ᐯᔭᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᐊᐢᑌᐤ ᐃᐢᐱᒥᕽ ᑭᓅᐦᑌᐦᒋᑲᓂᕽ. ᑕᐦᑕᓯᐣ ᐊᐢᑌᐘ ᓃᓱ, ᓂᐢᑐ ᐊᐦᐳ ᓀᐓ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ. ᓴᒥᓇ ᐊᓂᒪ ᑲᐯᔭᑿᓄᐘᐠ. ᐯᔭᐠ ᐯᔭᑕᐠ ᓇᐘᐸᐦᒋᑫᐏᐣ ᐊᓯᒋ ᒥᒉᑦ ᑭᒋ ᐚᐦᐑᑕᒧᕽ.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "ᓇᐘᐸᑕ ᓃᓱ, ᓂᐢᑐ ᐊᐦᐳ ᓀᐓ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ. ᓃᓱ ᓇᐘᒡ ᐯᔭᑕᐠ.",
+      "ᒫᒧᐓ ᑲᓇᐘᐸᑕᒧᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᐃᐢᐱᒥᕽ.",
+      "ᓴᒥᓇ ᐊᓂᒪ ᑲᐯᔭᑿᓄᐘᐠ ᑕᐦᑕᓯᐣ. ᓇᓯᐸᐦᐃᑲᐣ ᒥᓇ ᒥᔪ ᐃᑗᐏᓇ ᑭᓅᑯᐣ.",
+      "ᑭᐢᐱᐣ ᐱᑐᐢ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᓴᒥᓇᒧᐘᕽ, ᒣᑕᐍᐏᐣ ᒨᒋ ᐑᑕᒼ ᑲᐃᓯᓂᑳᑌᐠ ᒥᓇ ᐯᐦᐅᐤ. ᐯᔭᑕᐠ ᑑᑕ.",
+      "ᓴᒥᓇ \"ᑯᑕᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ\" ᑭᐢᐱᐣ ᑫᑕᐦᑖᔭᐣ."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "ᐚᐦᐑᑕᒧᐠ ᑕᑐ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᒧᔦᐢ ᓇᐘᐸᑕᒧᐠ: ᑲᐃᓯᓇᒁᑭ, ᑲᐃᓯᓯᓈᑌᑭ, ᒥᓇ ᑖᓂᑌ ᑮᐚᐸᐦᑕᒧᐠ.",
+      "ᓃᓱ ᓇᐘᐸᐦᒋᑫᐏᓇ ᓇᒪᐑᔭ \"ᐅᓵᒼ ᐯᔭᑕᐠ\". ᑲᓇᑐᐍᔨᐦᑕᒁᐠ ᑭᒋ ᒥᔦᔨᐦᑕᒁᐠ, ᓇᒪᐑᔭ ᑭᒋ ᑯᐢᒁᑕᐠ.",
+      "ᑭᐢᐱᐣ ᑲᓴᒥᓇᒥᕽ ᐋᔨᒪᐣ, ᐊᐘ ᐊᔨᓯᔨᓂᐤ ᑭᑭ ᐃᑖᐱᐦᐃᑫᐤ ᒥᓇ ᑭᔭ ᑭᑭ ᓴᒥᓇᒧᐘᐤ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ᒋ ᐊᐢᑌᐤ ᐱᓯᒧᐢᑳᐣ ᐊᐦᐳ ᐊᑭᐦᒋᑫᐏᐣ?",
+        "a": "ᓇᒧᔭ. ᓇᒪ ᑫᑿᐣ ᐱᓯᒧᐢᑳᐣ, ᐊᑭᐦᒋᑫᐏᐣ, ᐊᐦᐳ ᑲᑮᐦᑐᑌᕽ. ᑭᑭᓯᐦᑖᐣ ᐃᐢᐱ ᑲᓇᑐᐍᔨᐦᑕᒪᐣ, ᒥᓇ ᐋᐱᐦᑕᐤ ᑲᑭᓯᐦᑖᔭᐣ ᒥᔪᐚᓯᐣ."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "ᑖᓂᓯ ᑫᐃᐢᐸᔨᐠ ᑭᐢᐱᐣ ᑯᑕᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᓴᒥᓇᒥᕽ?",
+        "a": "ᓇᒪ ᑫᑿᐣ ᒪᔭᑕᐣ. ᓇᒪ ᑫᑿᐣ ᑮᑐᐍᐏᐣ, ᒥᐦᑿᐤ ᒋᐢᑕᐦᐃᑲᐣ, ᐊᐦᐳ ᑲᓇᓇᒥᐸᔨᐠ. ᒣᑕᐍᐏᐣ ᐑᑕᒼ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᑲᓴᒥᓇᒥᕽ ᒥᓇ ᐯᐦᐅᐤ ᑭᒋ ᑯᑕᐠ ᓴᒥᓇᒥᕽ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ᒋ ᓇᒪ ᑫᑿᐣ ᑭᐸᑭᑎᓇᐣ, ᒥᓇ ᒋ ᑭᓇᑐᐍᔨᐦᑕᒁᐣ ᑭᒋ ᒪᓯᓇᐦᐃᓱᔭᐣ?",
+        "a": "ᐁᐦᐁ, ᓇᒪ ᑫᑿᐣ ᑭᐸᑭᑎᓇᐣ, ᒥᓇ ᓇᒪ ᑫᑿᐣ ᒪᓯᓇᐦᐃᓱᐏᐣ ᐊᐦᐳ ᑭᒋ ᐅᑎᓇᒪᐣ. ᐋᐸᑕᐣ ᐃᐣᑐᕐᓀᑦ ᑭᓅᐦᑌᐦᒋᑲᓂᕽ ᓈᓇᑐᐠ ᓲᓂᔭᐘᐱᐢᑯᐢ, ᑕᑉᓕᑦ, ᐊᐦᐳ ᒪᒥᑐᓀᔨᐦᒋᑲᓂᕽ."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "ᑲᐘᐑᒋᐦᑐᒁᑭ ᐊᑳᐘᐢᑌᐘ",
+    "seoTitle": "ᑲᐘᐑᒋᐦᑐᒁᑭ ᐊᑳᐘᐢᑌᐘ ᒣᑕᐍᐏᐣ ᐊᓂᑭ ᑲᐘᓂᐦᐃᑫᔨᐦᑕᒧᐘᒡ ᐅᒉᐦᒋ: ᓇᒪ ᑫᑿᐣ ᑭᐸᑭᑎᓇᐣ ᐃᐣᑐᕐᓀᑎᕽ",
+    "h1": "ᑲᐘᐑᒋᐦᑐᒁᑭ ᐊᑳᐘᐢᑌᐘ: ᐯᔭᑕᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᒣᑕᐍᐏᐣ",
+    "description": "ᑲᑲᐢᑭᑌᐘᐠ ᐊᑳᐘᐢᑌᐤ ᐃᐢᐱᒥᕽ, ᓃᓱ ᐃᐢᑯ ᓀᐓ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑕᐦᑕᓯᐣ. ᓴᒥᓇ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᑫᐘᐦᑳᐘᐢᑌᐠ. ᓇᒪ ᑫᑿᐣ ᑭᐸᑭᑎᓇᐣ, ᐯᔭᑕᐠ ᐊᑳᐘᐢᑌᐤ ᒣᑕᐍᐏᐣ ᐊᓂᑭ ᑲᐘᓂᐦᐃᑫᔨᐦᑕᒧᐘᒡ ᐅᒉᐦᒋ, ᓇᒪ ᑫᑿᐣ ᐱᓯᒧᐢᑳᐣ.",
+    "short": "ᑲᓇᐘᐸᑕ ᐊᑳᐘᐢᑌᐤ ᒥᓇ ᓴᒥᓇ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᑫᐘᐦᑳᐘᐢᑌᐠ.",
+    "players": "1 ᐊᐦᐳ 2 ᐊᔨᓯᔨᓂᐘᐠ",
+    "intro": "ᐊᑳᐘᐢᑌᐤ ᑲᐘᐑᒋᐦᑐᒁᑭ ᑭᐢᑫᔨᐦᑕᒁᐣ ᒪᓯᓇᐦᐃᑲᓂᕽ ᐅᒉᐦᒋ, ᐅᒪ ᑲᒥᓴᑭ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᒥᓇ ᓇᒪ ᑫᑿᐣ ᑭᒋ ᒪᓯᓇᐦᐊᒪᐣ. ᐯᔭᑕᐠ ᐊᑳᐘᐢᑌᐤ ᐊᐢᑌᐤ ᐃᐢᐱᒥᕽ ᑭᓅᐦᑌᐦᒋᑲᓂᕽ, ᒥᓇ ᓃᓱ, ᓂᐢᑐ ᐊᐦᐳ ᓀᐓ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑕᐦᑕᓯᐣ. ᓴᒥᓇ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᑫᐘᐦᑳᐘᐢᑌᐠ. ᑫᑿᓇ ᑖᐱᐢᑯᒡ ᑎᐦᑎᐱᐸᔨᐦᒋᑲᐣ, ᐊᑲᐚᐢᑌᐦᐅᐣ, ᐊᐦᐳ ᒥᓂᐦᑿᓈᐱᐢᐠ ᐯᔭᑕᐠ ᑭᒋ ᐚᐦᐑᑕᒧᕽ.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "ᓇᐘᐸᑕ ᓃᓱ, ᓂᐢᑐ ᐊᐦᐳ ᓀᐓ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ. ᓃᓱ ᓇᐘᒡ ᐯᔭᑕᐠ.",
+      "ᒫᒧᐓ ᑲᓇᐘᐸᑕᒧᐠ ᐊᑳᐘᐢᑌᐤ. ᑖᓂᓯ ᑲᐃᓯᓇᒁᐠ? ᒋ ᑭᓇᐚᐤ ᐊᐦᐳ ᒋ ᐚᐑᔦᔮᐤ?",
+      "ᓴᒥᓇ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᑫᐘᐦᑳᐘᐢᑌᐠ. ᐅᐎᓯᓂᑳᓱᐏᐣ ᑭᓅᑯᐣ ᑕᐦᑕᓯᐣ ᐊᑳᐘᐢᑌᕽ.",
+      "ᑭᐢᐱᐣ ᐱᑐᐢ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᓴᒥᓇᒧᐘᕽ, ᒣᑕᐍᐏᐣ ᒨᒋ ᐑᑕᒼ ᑲᐃᓯᓂᑳᑌᐠ ᒥᓇ ᐯᐦᐅᐤ. ᐯᔭᑕᐠ ᑑᑕ.",
+      "ᓴᒥᓇ \"ᑯᑕᐠ ᐊᑳᐘᐢᑌᐤ\" ᑭᐢᐱᐣ ᑫᑕᐦᑖᔭᐣ."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "ᒋᐦᒋᐦᒉᓂᕽ ᐋᐸᒋᐦᑖ ᑭᒋ ᐚᐢᑲᓈᑲᐦᐊᒪᐣ ᐊᑳᐘᐢᑌᐤ ᒥᓇ ᐚᐦᐑᑕᒧᐠ ᑲᐃᓯᓇᒁᐠ.",
+      "ᑭᐢᐱᐣ ᐊᑳᐘᐢᑌᐘ ᐋᔨᒪᐣ ᐊᓄᐦᐨ, ᒣᐢᑯᑕᓯᓇ \"ᒥᐢᑲ ᑲᐯᔭᑿᓄᐘᐠ\", ᐊᓂᒪ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑲᐯᔭᑿᓇᐸᒥᓇᒁᑭ.",
+      "ᐚᐦᐑᑕᒧᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᐃᐢᐱ ᒥᐢᑲᒧᐘᕽ: \"ᑭᑭ ᐊᔮᓇᐣ ᐊᑲᐚᐢᑌᐦᐅᐣ ᐁᑿᓂ ᑲᐃᓯᓇᒁᐠ.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ᒋ ᐊᐢᑌᐤ ᐱᓯᒧᐢᑳᐣ ᐊᐦᐳ ᐊᑭᐦᒋᑫᐏᐣ?",
+        "a": "ᓇᒧᔭ. ᓇᒪ ᑫᑿᐣ ᐱᓯᒧᐢᑳᐣ, ᐊᑭᐦᒋᑫᐏᐣ, ᐊᐦᐳ ᑲᑮᐦᑐᑌᕽ. ᑭᑭᓯᐦᑖᐣ ᐃᐢᐱ ᑲᓇᑐᐍᔨᐦᑕᒪᐣ, ᒥᓇ ᐋᐱᐦᑕᐤ ᑲᑭᓯᐦᑖᔭᐣ ᒥᔪᐚᓯᐣ."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "ᒥᔪᐚᓯᓐ ᒋ ᐅᒪ ᐊᔭᐚᐢᑌᒋᑲᓂᕽ ᓈᓇᓱᐚᒋᐦᒋᑫᐏᓐ ᐊᓂᑭ ᑳᐘᓂᐢᑫᔨᑕᑭᒃ?",
+        "a": "ᑭᔭᐱᒡ ᒥᔪᐚᓯᓐ ᒣᑿᒡ ᑫᑯᐊᔭᐤ ᑳᒥᔮᐍᔨᑕᐦᒃ, ᐋᐱᑕᐤ ᑲᔮᐢ ᑫᑯᐚ ᑳᑭᓯᑫᔨᑕᐦᒃ᙮ ᑫᑿᐩ ᐁᐃᓯᓈᑯᐦᒃ ᓇᐚᒡ ᐍᒋᐦᐃᑯᐗᒃ ᑲᑭᐢᑫᔨᑕᑭᒃ ᐊᐱᓯᐢ ᐃᐢᐱᒡ ᒪᓯᓇᐦᐃᑲᓇ᙮ ᒥᔮᐍᔨᑕᒧᐏᓂᕽ ᒥᓇ ᑫᑯᐚ ᐁᑫᑲᒌᒥᑐᐦᒃ ᐅᒌ ᐅᓯᐦᒋᑳᑌᐤ, ᓇᒧᐚ ᐁᑯᒋᒥᑐᐏᓐ, ᒥᓇ ᓇᒧᐚ ᓇᑭᓇᒻ ᐊᐦᐳ ᑲᑫᒋᐦᐃᑫᒨ ᐅᒪ ᐘᓂᐢᑫᔨᑕᒧᐏᓐ᙮ ᑭᐢᐱᓐ ᐱᑯ ᐍᐸᐦᑖᐍᔨᑕᒧᐏᓐ ᐅᐦᒋᐹᔨᐤ, ᑯᒋᐦᑖ ᑯᑕᒃ ᐊᔭᐚᐢᑌᒋᑲᓐ ᐊᐦᐳ ᐱᑯ ᓈᓇᑑ ᒪᓯᓇᐦᐃᑲᓇ ᑭᓈᐸᑕᒧᒃ ᒫᒪᐤ᙮"
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "ᑖᓂᓯ ᑫᐃᓯᐹᔨᒃ ᑭᐢᐱᓐ ᑯᑕᒃ ᒪᓯᓇᐦᐃᑲᓐ ᐁᓴᒥᓇᑲᓅᐠ?",
+        "a": "ᓇᒧᐚ ᑫᑿᐩ ᑲᒪᔭᐹᔨᐤ᙮ ᓇᒧᐚ ᑫᑿᐩ ᐱᐦᑐᐚᓯᑲᓐ ᐊᐦᐳ ᒥᐦᒁᐤ ᒪᓯᓇᐦᐃᑲᓐ᙮ ᐊᐘ ᒣᑕᐍᐏᓐ ᐱᑯ ᑲᐍᑕᒻ ᑖᓂᓯ ᐁᐃᓯᔨᐦᑳᑌᔨᒃ ᐊᓂᒪ ᒪᓯᓇᐦᐃᑲᓐ ᑳᓴᒥᓇᑲᓅᐠ, ᒥᓇ ᑲᐯᐦᐅᐤ ᑯᑕᒃ ᑲᐹᐦᑭᓯᐦᒋᑳᑌᐠ᙮"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ᓵᐳ ᒋ ᓇᒧᐚ ᓲᓂᔮᐤ, ᒥᓇ ᓂᑕᐍᔨᑖᑯᓯᓐ ᒋ ᑲᒪᓯᓇᐦᐊᒫᓱᔮᓐ?",
+        "a": "ᐁᐦᐊ, ᓇᒧᐚ ᓲᓂᔮᐤ, ᓇᒧᐚ ᓂᑕᐍᔨᑖᑯᓯᓐ ᑲᒪᓯᓇᐦᐊᒫᓱᔨᓐ, ᐊᐦᐳ ᑲᑖᐚᒋᑫᔨᓐ᙮ ᒥᔪᐹᔨᐤ ᐃᑕ ᐁᐋᐸᒋᐦᑖᔨᓐ ᑭᑭᓯᑳᐸᐦᒋᑲᓐ, ᑭᓲᓂᔮᑲᒦᐦᑳᐣ ᐊᐦᐳ ᑭᒪᓯᓇᐦᐃᑲᓂᓈᐸᐦᒋᑲᓐ᙮"
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
+    "name": "ᒫᒪᐤ ᓈᓇᓱᐚᒋᐦᒋᑫᒃ",
     "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "h1": "ᒫᒪᐤ ᓈᓇᓱᐚᒋᐦᒋᑫᒃ: ᒪᓯᓇᐦᐃᑲᓇ ᐁᓈᓇᓱᐚᒋᐦᒋᑳᑌᑭ",
+    "description": "ᓴᒥᓇ ᒪᓯᓇᐦᐃᑲᓐ, ᐁᑯᓯ ᓴᒥᓇ ᐘᐟ ᐃᑕ ᑫᐃᓯᐸᔨᒃ: ᐱᒥᐦᒋᑫᐏᑲᒥᑯᕽ ᐊᐦᐳ ᑭᐢᑎᑳᓂᕽ, ᒥᓂᓴ ᐊᐦᐳ ᐱᓯᐢᑭᐘᒃ᙮ ᐁᐯᔭᐦᑕᑭᐠ, ᓇᒧᐚ ᓲᓂᔮᐤ ᒣᑕᐍᐏᓐ ᐊᓂᑭ ᑳᐘᓂᐢᑫᔨᑕᑭᒃ᙮",
+    "short": "ᐃᓯᓇᒻ ᑭᐦᑭ ᒪᓯᓇᐦᐃᑲᓐ ᐅᐘᑎᕽ: ᐱᒥᐦᒋᑫᐏᑲᒥᑯᕽ ᐊᐦᐳ ᑭᐢᑎᑳᓂᕽ, ᒥᓇ ᑯᑕᑲ᙮",
+    "players": "ᐯᔭᒃ ᐊᐦᐳ ᓃᓱ ᐊᔨᓯᔨᓂᐘᒃ",
+    "intro": "ᓈᓇᓱᐚᒋᐦᒋᑫᐏᓐ ᓇᑲᓲᑕᐚᑲᓐ ᑫᑯᐚ ᑳᑐᑕᐦᒃ ᑲᑭᓯᑳᐤ, ᑖᐱᐢᑯᒡ ᐁᐊᐢᑕᐦᒃ ᒦᒋᐏᓐ ᐊᐦᐳ ᐁᓈᓇᓱᐚᒋᓇᐦᒃ ᐊᓯᑲᓇ᙮ ᓴᒥᓇ ᒪᓯᓇᐦᐃᑲᓐ, ᐁᑯᓯ ᓴᒥᓇ ᐊᓂᒪ ᐘᐟ ᐃᑕ ᑫᐊᐢᑖᔨᓐ᙮ ᓇᒧᐚ ᑲᑲᑫᐚᐦᐃᑫᐤ ᒥᓇ ᓇᒧᐚ ᑫᑿᐩ ᐘᓂᐹᔨᐤ᙮",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "ᓇᐚᓱᐘᑕ ᑖᓂᓯ ᑫᐃᓯᓈᑯᐦᒃ: ᐱᒥᐦᒋᑫᐏᑲᒥᕽ ᒥᓇ ᑭᐢᑎᑳᓂᕽ, ᒥᓂᓴ ᒥᓇ ᐱᓯᐢᑭᐘᒃ, ᐊᐦᐳ ᐑᑭᕽ ᒥᓇ ᐸᐹᒧᑌᐏᓂᕽ᙮",
+      "ᓴᒥᓇ ᒪᓯᓇᐦᐃᑲᓐ᙮ ᑲᐅᓵᐏᓯᓈᑿᓐ ᐚᐢᑲ᙮",
+      "ᓴᒥᓇ ᐊᓂᒪ ᐘᐟ ᐃᑕ ᑫᐃᓯᐸᔨᒃ᙮ ᐊᓂᒪ ᒪᓯᓇᐦᐃᑲᓐ ᐁᑯᑌ ᑲᐃᓯᐸᔨᐤ᙮",
+      "ᑭᐢᐱᓐ ᑯᑕᑭᕽ ᐘᑎᕽ ᐁᐃᓯᐸᔨᒃ, ᐊᐘ ᒣᑕᐍᐏᓐ ᐯᔭᐦᑕᒃ ᑲᐍᑕᒻ ᒥᓇ ᑲᐯᐦᐅᐤ᙮",
+      "ᐃᐢᐱᒡ ᑲᐦᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᓇ ᓈᓇᓱᐚᒋᐦᒋᑳᑌᑭ, ᒫᒪᐤ ᑭᓈᐸᑕᒧᒃ ᐊᓂᐦᐃ ᐘᑕ᙮"
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "ᓇᒧᐚ ᑫᑿᐩ ᐘᓂᐹᔨᐤ ᑳᐃᓯ ᐱᒫᑎᓯᐦᒃ᙮ ᑭᐢᐱᓐ ᐊᔨᓯᔨᓂᐤ ᐃᑌᔨᑕᐦᒃ ᐁᑯᑕ ᐱᒥᐦᒋᑫᐏᑲᒥᑯᕽ ᑫᐃᓯᐸᔨᒃ, ᑲᑫᒋᒻ ᑖᓂᐍᐦᒋ᙮ ᑭᑲᐯᐦᑕᐣ ᒥᔪ ᐋᒋᒧᐏᓐ᙮",
+      "ᐋᐸᒋᐦᑖ ᒪᓯᓇᐦᐃᑲᓐ ᑲᑫᒋᒌᒥᑐᐍᒃ: \"ᑫᑿᐩ ᑳᑭᐢᑎᑳᑖᔨᓐ ᑭᑭᐢᑎᑳᓂᕽ?\"",
+      "ᓈᓇᓱᐚᒋᓇᐦᒃ ᑖᐱᐢᑯᒡ ᑫᑯᐊᔭᐤ, ᐁᒥᒁᓇ ᒥᓇ ᒋᐢᑕᐦᐁᐸᐦᒋᑲᓇ ᐊᐦᐳ ᐱᑌᓴᑲᓇ ᐁᐃᓯᓈᑯᓯᒋᒃ, ᐁᑯᓯ ᒥᔪᐚᓯᓐ ᐁᑲ ᒣᑿᒡ ᑳᑭᓯᑳᐸᐦᒋᑲᓂᕽ ᐁᐊᔭᐦᒃ᙮"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ᐊᔭᐤ ᒋ ᐱᓯᒧᐢᑳᐣ ᐊᐦᐳ ᐊᑭᐦᒋᑫᐏᓐ?",
+        "a": "ᓇᒧᐚ᙮ ᓇᒧᐚ ᐱᓯᒧᐢᑳᐣ, ᓇᒧᐚ ᐊᑭᐦᒋᑫᐏᓐ, ᓇᒧᐚ ᐊᑭᐦᒋᑲᓐ ᐊᐦᐳ ᑲᓵᑯᒌᐦᐃᑲᓅᐠ᙮ ᑭᑲᑭ ᓇᑲᓯᓐ ᐃᐢᐱᒡ ᐱᑯ ᐁᓄᐦᑌ ᓇᑲᓯᔨᓐ, ᒥᓇ ᐋᐱᑕᐤ ᓇᑲᓯᐏᓐ ᐁᑯᓯ ᒥᔪᐚᓯᓐ᙮"
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "ᑖᓂᐍᐦᒋ ᓈᓇᓱᐚᒋᐦᒋᑫᐏᓐ?",
+        "a": "ᒥᐦᒉᑦ ᐊᔨᓯᔨᓂᐘᒃ ᒥᔮᐍᔨᑕᒧᒃ ᐁᓈᓇᓱᐚᒋᐦᒋᑫᒋᒃ ᒥᔪ ᐊᑐᐢᑫᐏᓂᕽ ᐁᐃᑌᔨᑕᑭᒃ᙮ ᒥᓇ ᐍᒋᐦᐃᑯᐗᒃ ᑲᑫᒋᒌᒥᑐᒋᒃ ᒣᑿᒡ ᒪᓯᓇᐦᐃᑲᓇ ᐁᓈᓇᓱᐚᒋᓈᒋᒃ᙮"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ᓵᐳ ᒋ ᓇᒧᐚ ᓲᓂᔮᐤ, ᒥᓇ ᓂᑕᐍᔨᑖᑯᓯᓐ ᒋ ᑲᒪᓯᓇᐦᐊᒫᓱᔮᓐ?",
+        "a": "ᐁᐦᐊ, ᓇᒧᐚ ᓲᓂᔮᐤ, ᓇᒧᐚ ᓂᑕᐍᔨᑖᑯᓯᓐ ᑲᒪᓯᓇᐦᐊᒫᓱᔨᓐ, ᐊᐦᐳ ᑲᑖᐚᒋᑫᔨᓐ᙮ ᒥᔪᐹᔨᐤ ᐃᑕ ᐁᐋᐸᒋᐦᑖᔨᓐ ᑭᑭᓯᑳᐸᐦᒋᑲᓐ, ᑭᓲᓂᔮᑲᒦᐦᑳᐣ ᐊᐦᐳ ᑭᒪᓯᓇᐦᐃᑲᓂᓈᐸᐦᒋᑲᓐ᙮"
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
+    "name": "ᒪᓯᓇᐦᐃᑲᓐ ᒣᑕᐍᐏᓐ",
     "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "h1": "ᒪᓯᓇᐦᐃᑲᓐ ᒣᑕᐍᐏᓐ: ᐍᒋᐦᐃᑫᐤ ᑳᑖᐦᑐᐚᐦᑲᐦᐃᑳᑌᑭ",
+    "description": "ᐍᒋᐦᐃᑫᐤ ᒣᑕᐍᐏᓐ ᐊᓂᑭ ᑳᐘᓂᐢᑫᔨᑕᑭᒃ: 4 ᐊᐦᐳ 9 ᒥᐢᑎ ᐸᐦᑫᑭᓇ, ᑲᐦᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᓐ ᑭᓈᐸᑕᒧᐏᓐ ᐁᐊᐢᑌᐠ, ᒥᓇ ᓴᒥᓇ ᓃᓱ ᐸᐦᑫᑭᓇ ᑲᒣᐢᑯᑕᓯᓇᒪᓐ᙮",
+    "short": "ᓴᒥᓇ ᓃᓱ ᐸᐦᑫᑭᓇ ᑲᒣᐢᑯᑕᓯᓇᒪᓐ ᐹᑎᒫ ᑲᐦᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᓐ ᐯᔭᑿᓄᐠ ᐃᓯᓈᑯᐦᒃ᙮",
+    "players": "1 ᐊᐦᐳ 2 ᐊᔨᓯᔨᓂᐘᒃ",
+    "intro": "ᒥᔪ ᒪᓯᓇᐦᐃᑲᓐ ᱢᓈᓯᓈᑳᑌᐤ 4 ᐊᐦᐳ 9 ᒥᐢᑎ ᐸᐦᑫᑭᓇ ᒥᓇ ᐘᓂᐸᔨᐦᐃᑳᑌᐤ᙮ ᑲᐦᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᓐ ᓈᑯᓐ ᐃᑕ ᑫᑭᓈᐸᑕᒪᓐ᙮ ᓴᒥᓇ ᐯᔭᒃ, ᐁᑯᓯ ᑯᑕᒃ, ᒥᓇ ᑲᒣᐢᑯᑖᐹᔨᐘ᙮ ᓇᒧᐚ ᓂᑕᐍᔨᑖᑯᓯᓐ ᑲᐅᑕᐹᒋᑫᔨᓐ᙮",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "ᓇᐚᓱᐘᑕ ᒪᓯᓇᐦᐃᑲᓐ ᒥᓇ 4 ᐊᐦᐳ 9 ᐸᐦᑫᑭᓇ᙮ 4 ᓇᐚᒡ ᐯᔭᐦᑕᒃ ᑫᐃᓯ ᒫᒋᐦᑖᔨᓐ᙮",
+      "ᑭᓈᐸᑕ ᑲᐦᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᓐ ᐃᐢᐱᒥᕽ ᑳᐊᐢᑌᐠ᙮",
+      "ᓴᒥᓇ ᐯᔭᒃ ᐸᐦᑫᑭᓐ, ᐁᑯᓯ ᓴᒥᓇ ᐃᑕ ᑫᐃᓯᐸᔨᒃ᙮ ᓃᓱ ᐸᐦᑫᑭᓇ ᑲᒣᐢᑯᑖᐹᔨᐘ᙮",
+      "ᐸᐦᑫᑭᓇ ᑳᒥᔪᐹᔨᑭ ᐊᐱᓯᐢ ᑲᑫᒋᐢᑭᐦᐃᑳᑌᐘ᙮",
+      "ᐃᐢᐱᒡ ᒪᓯᓇᐦᐃᑲᓐ ᐯᔭᑿᓄᐠ ᐃᓯᓈᑯᐦᒃ, ᒫᒪᐤ ᒥᔮᐍᔨᑕᒧᒃ, ᐁᑯᓯ ᑯᑕᒃ ᓇᐚᓱᐘᑕᒧᒃ᙮"
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "ᐁᓴᒥᓇᑲᓅᑭ ᓃᓱ ᐸᐦᑫᑭᓇ ᐁᒣᐢᑯᑕᓯᓇᑲᓅᑭ ᓇᐚᒡ ᐍᒋᐦᐃᑯᐗᒃ ᐊᔨᓯᔨᓂᐘᒃ ᐃᐢᐱᒡ ᐁᐅᑕᐹᒋᑫᒋᒃ᙮",
+      "ᑫᑲᒌᒥᑐᒃ ᒣᑿᒡ ᐁᒫᒪᐤ ᐅᓯᐦᒋᑳᑌᐠ: \"ᐁᐘᑯ ᐊᓂᒪ ᒥᐦᒁᐤ ᐚᐢᑲᐦᐃᑲᓐ ᐅᐦᑲᐦᐃᑲᓐ᙮\"",
+      "ᑫᐦᒋᓇᒡ ᒥᐢᑎᑯ ᒪᓯᓇᐦᐃᑲᓐ ᒣᑕᐍᐏᓐ 12 ᐊᐦᐳ 24 ᒥᐢᑎ ᐸᐦᑫᑭᓇ ᐁᑯᓯ ᒥᔪᐚᓯᓐ ᐁᑕᐦᑯᐦᒋᐦᑫᐏᓂᕽ ᐁᒣᑕᐍᐦᒃ᙮"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ᐊᔭᐤ ᒋ ᐱᓯᒧᐢᑳᐣ ᐊᐦᐳ ᐊᑭᐦᒋᑫᐏᓐ?",
+        "a": "ᓇᒧᐚ᙮ ᓇᒧᐚ ᐱᓯᒧᐢᑳᐣ, ᓇᒧᐚ ᐊᑭᐦᒋᑫᐏᓐ, ᓇᒧᐚ ᐊᑭᐦᒋᑲᓐ ᐊᐦᐳ ᑲᓵᑯᒌᐦᐃᑲᓅᐠ᙮ ᑭᑲᑭ ᓇᑲᓯᓐ ᐃᐢᐱᒡ ᐱᑯ ᐁᓄᐦᑌ ᓇᑲᓯᔨᓐ, ᒥᓇ ᐋᐱᑕᐤ ᓇᑲᓯᐏᓐ ᐁᑯᓯ ᒥᔪᐚᓯᓐ᙮"
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "ᓂᑕᐍᔨᑖᑯᓯᓐ ᒋ ᑲᐅᑕᐹᒋᑫᔮᓐ ᐸᐦᑫᑭᓇ?",
+        "a": "ᓇᒧᐚ᙮ ᓴᒥᓇ ᐯᔭᒃ, ᐁᑯᓯ ᑯᑕᒃ, ᒥᓇ ᑲᒣᐢᑯᑖᐹᔨᐘ᙮ ᓇᐚᒡ ᐍᒋᐦᐃᑯᐗᒃ ᑭᐢᐱᓐ ᑭᒥᐦᒋᐦᒋᔭ ᓇᓇᒥᐸᔨᑭ ᐊᐦᐳ ᐊᐱᓯᐢ ᑳᑭᓯᑳᐸᐦᒋᑲᓐ᙮"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ᓵᐳ ᒋ ᓇᒧᐚ ᓲᓂᔮᐤ, ᒥᓇ ᓂᑕᐍᔨᑖᑯᓯᓐ ᒋ ᑲᒪᓯᓇᐦᐊᒫᓱᔮᓐ?",
+        "a": "ᐁᐦᐊ, ᓇᒧᐚ ᓲᓂᔮᐤ, ᓇᒧᐚ ᓂᑕᐍᔨᑖᑯᓯᓐ ᑲᒪᓯᓇᐦᐊᒫᓱᔨᓐ, ᐊᐦᐳ ᑲᑖᐚᒋᑫᔨᓐ᙮ ᒥᔪᐹᔨᐤ ᐃᑕ ᐁᐋᐸᒋᐦᑖᔨᓐ ᑭᑭᓯᑳᐸᐦᒋᑲᓐ, ᑭᓲᓂᔮᑲᒦᐦᑳᐣ ᐊᐦᐳ ᑭᒪᓯᓇᐦᐃᑲᓂᓈᐸᐦᒋᑲᓐ᙮"
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
+    "name": "ᑭᓯᐦᑖ ᐊᓂᒪ ᑳᐃᓯᐍᐦᒃ",
     "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "h1": "ᑭᓯᐦᑖ ᐊᓂᒪ ᑳᐃᓯᐍᐦᒃ",
+    "description": "ᓇᑲᓲᑕᐚᑲᓇ ᐃᓯᐍᐏᓇ ᐁᓄᐦᑌᐸᔨᒃ ᐃᐢᑿᐚᒡ ᐃᑌᐍᐏᓐ, ᑖᐱᐢᑯᒡ \"A penny saved is a penny ___\". ᓴᒥᓇ ᓇᐚᓱᐘᑕᒧᐏᓐ ᐊᐦᐳ ᓈᑯᐦᑖ ᐃᐢᑿᐚᒡ, ᐁᑯᓯ ᑫᑲᒌᒥᑐᒃ ᐅᐦᒋ᙮",
+    "short": "ᒫᒪᐤ ᑭᓯᐦᑖᒃ ᓇᑲᓲᑕᐚᑲᓇ ᐃᓯᐍᐏᓇ, ᐁᑯᓯ ᑫᑲᒌᒥᑐᒃ ᐅᐦᒋ᙮",
+    "players": "1, 2 ᐊᐦᐳ ᒥᐦᒉᑦ ᐊᔨᓯᔨᓂᐘᒃ",
+    "intro": "ᑲᔮᐢ ᐃᓯᐍᐏᓇ ᒥᐦᒉᑦ ᑭᐢᑫᔨᑖᑿᓇ ᑲᐦᑭᔭᐤ ᐱᒫᑎᓯᐏᓂᕽ᙮ ᑭᐦᑭ ᒪᓯᓇᐦᐃᑲᓐ ᓈᑯᐦᑖᐤ ᓇᑲᓲᑕᐚᑲᓐ ᐃᓯᐍᐏᓐ ᐁᓄᐦᑌᐸᔨᒃ ᐃᐢᑿᐚᒡ ᐃᑌᐍᐏᓐ, ᓂᐢᑐ ᓇᐚᓱᐘᑕᒧᐏᓇ, ᒥᓇ \"ᓈᑯᐦᑖ ᐃᐢᑿᐚᒡ\" ᓴᒥᓇᐦᐃᑲᓐ᙮ ᐃᐢᐱᒡ ᑲᓈᑯᐦᑖᑌᐠ, ᐯᔭᐦᑕᒃ ᑲᑫᒋᒌᒥᑐᐏᓐ ᐍᒋᐦᐃᑫᐤ ᑲᑫᑲᒌᒥᑐᐍᒃ᙮",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "ᒫᒪᐤ ᑭᑐᐍᐤ ᐊᔭᒥᐦᑖᒃ ᐊᓂᒪ ᐃᓯᐍᐏᓐ᙮",
+      "ᓴᒥᓇ ᐊᓂᒪ ᐃᑌᐍᐏᓐ ᑳᑭᓯᐦᑖᐠ, ᐊᐦᐳ ᓴᒥᓇ \"ᓈᑯᐦᑖ ᐃᐢᑿᐚᒡ\"᙮",
+      "ᑮᑕᐦᑖᐤ ᑲᐦᑭᔭᐤ ᐊᔭᒥᐦᑖᒃ ᒥᓇ ᑫᑲᒌᒥᑐᒃ ᐊᓂᒪ ᐅᐦᒋ ᑳᐍᑕᐦᒃ᙮",
+      "ᓴᒥᓇ \"ᑯᑕᒃ ᐃᓯᐍᐏᓐ\" ᐃᐢᐱᒡ ᐁᑫᓯᑳᐸᐦᒋᑫᔨᓐ᙮"
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "ᐯᔭᐦᑕᒃ ᐊᔭᒥᐦᑖ ᒥᓇ ᓇᑲᓯ ᒨᓯ ᱢᔮᐍᒡ ᐃᐢᑿᐚᒡ ᐃᑌᐍᐏᓐ᙮ ᒥᐦᒉᑦ ᐊᔨᓯᔨᓂᐘᒃ ᑲᐍᑕᒧᒃ ᒨᓯ ᐁᑲ ᐁᑭᓯᐦᑖᔨᓐ᙮",
+      "ᑭᐢᐱᓐ ᐊᐘᔭᒃ ᑯᑕᒃ ᐃᐢᑿᐚᒡ ᐍᑕᐦᒃ, ᒥᔮᐍᔨᑕᒧᒃ᙮ ᑯᑕᑭᔭ ᐃᓯᐍᐏᓇ ᐯᑐᐢ ᐃᓯᐍᐘᒃ ᐑᑳᐏᑫᐏᓂᕽ ᐊᐦᐳ ᐃᑕ ᐁᐅᐦᒌᒋᒃ᙮",
+      "ᐃᐢᐱᒡ ᒥᐦᒉᓯᐍᒃ, ᐯᔭᒃ ᐊᔨᓯᔨᓂᐤ ᐊᔭᒥᐦᑖᐤ ᒥᓇ ᑲᐦᑭᔭᐤ ᐊᔨᓯᔨᓂᐘᒃ ᒫᒪᐤ ᐍᑕᒧᒃ ᐃᐢᑿᐚᒡ᙮"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ᐊᔭᐤ ᒋ ᐱᓯᒧᐢᑳᐣ ᐊᐦᐳ ᐊᑭᐦᒋᑫᐏᓐ?",
+        "a": "ᓇᒧᔭ. ᓇᒧᔭ ᐲᓯᒧᐦᑳᐣ, ᐊᑭᑖᓱᐏᐣ, ᐊᐦᐴ ᑲᑫᒋᐦᐃᑐᐏᐣ. ᐱᑯ ᐃᐢᐱ ᑲᑭ-ᐳᓂᐦᑖᐣ, ᓀᐢᑕ ᐊᐱᐦᑕᐤ ᑳ-ᐳᓂᐦᑖᔨᐣ ᒥᔮᓯᐣ ᑫᔭᐱᐟ."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "ᑮᐢᐱᐣ ᐲᑐᐢ ᐃᑗᐏᐣ ᓇᐘᒋᓈᒪᐦᑯ?",
+        "a": "ᐁᐘ ᒣᑕᐍᐏᐣ ᑭᐢᑭᓄᐚᐸᐦᑕᐦᐃᐍᐤ ᒫᓇ ᑫ-ᐃᓯ-ᑮᓯᐦᑖᐦᒃ, ᒦᓇ ᐱᑐᐢ ᑫ-ᐃᓯ-ᐲᑭᐢᑫᐧᐦᑐᓇᓂᐘᐠ. ᓇᒧᔭ ᐊᑭᑖᓱᐏᐣ ᐊᐢᑌᐤ, ᓀᐢᑕ ᐲᑐᐢ ᓈᐢᐹᑗᐏᐣ ᒥᔮᓯᐣ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ᓇᒧᔭ ᒌ ᑎᐸᐦᐃᑳᑌᐤ, ᒦᓇ ᓂᑕᐍᔨᑖᑯᓯᐣ ᒌ ᑕ-ᒪᓯᓇᐦᐅᓱᔮᐣ?",
+        "a": "ᐁᐦᐊ, ᓇᒧᔭ ᑎᐸᐦᐃᑳᑌᐤ, ᓀᐢᑕ ᓇᒧᔭ ᒪᓯᓇᐦᐅᓱᐏᐣ, ᐊᑯᐦᒋᑲᐣ ᐊᐦᐴ ᓈᒋᐱᒋᑲᐣ ᓂᑕᐍᔨᑖᑯᓯᐣ. ᐋᐸᑕᐣ ᐃᐣᑐᕐᓀᑎᐠ ᑭᓯᐚᐱᐢᑯᐢ, ᑖᑉᓕᐟ, ᐊᐦᐴ ᒪᓯᓇᐦᐃᑲᓂᔮᐱᐢᒃ."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "ᒥᓵᐘᐠ ᒪᓯᓇᐦᐃᑲᓇ ᓅᑐᓂᑗᐏᐣ",
+    "seoTitle": "ᒥᓵᐘᐠ ᒪᓯᓇᐦᐃᑲᓇ ᓅᑐᓂᑗᐏᐣ ᐊᓂᑭ ᑳ-ᐘᓂᑭᐢᑭᓯᒋᒃ, ᑲᑭ-ᒪᓯᓇᐦᐃᑳᑌᐤ",
+    "h1": "ᒥᓵᐘᐠ ᒪᓯᓇᐦᐃᑲᓇ ᓅᑐᓂᑗᐏᐣ",
+    "description": "ᓇᒧᔭ ᑎᐸᐦᐃᑳᑌᐤ ᒥᓵᐘᐠ ᒪᓯᓇᐦᐃᑲᓇ ᓅᑐᓂᑗᐏᐣ ᑭᐦᑌ-ᐊᔭᒃ ᓀᐢᑕ ᐊᓂᑭ ᑳ-ᐘᓂᑭᐢᑭᓯᒋᒃ. ᐊᐱᓯᐢ ᐃᑗᐏᓇ, ᒥᓵᐘᐠ ᒪᓯᓇᐦᐃᑲᓇ, ᐱᒧᑌᐤ ᓀᐢᑕ ᓃᐦᑖᒥᐠ ᐱᑯ. ᒣᑕᐍ ᐃᐣᑐᕐᓀᑎᐠ ᐊᐦᐴ ᒪᓯᓇᐦᐊ ᑭᒪᓯᓇᐦᐃᑲᓂᐦᒃ.",
+    "short": "ᒥᓵᐘᐠ ᒪᓯᓇᐦᐃᑲᓇ, ᐊᐱᓯᐢ ᐃᑗᐏᓇ, ᐱᒧᑌᐤ ᓀᐢᑕ ᓃᐦᑖᒥᐠ ᐱᑯ. ᑲᑭ-ᒪᓯᓇᐦᐊᐣ ᓀᐢᑕ.",
+    "players": "1 ᐊᐦᐴ 2 ᐊᐏᔭᒃ",
+    "intro": "ᐊᐱᓯᐢ ᐊᐢᑌᐏᐣ ᑳ-ᒥᓵᑭ ᒪᓯᓇᐦᐃᑲᓇ ᓀᐢᑕ ᐊᐱᓰᐢ ᐃᑗᐏᓇ, ᐱᒧᑌᐤ ᐊᐦᐴ ᓃᐦᑖᒥᐠ ᐱᑯ. ᓵᒥᐦᑲᑕ ᓂᑳᐣ ᒪᓯᓇᐦᐃᑲᐣ, ᒦᓇ ᐃᐢᑿᐦᒡ ᒪᓯᓇᐦᐃᑲᐣ. ᑭᓅᐦᑌ-ᐋᐸᒋᐦᑖᐣ ᒌ ᒪᓯᓇᐦᐃᑲᓂᑫᐏᐣ? ᒪᓯᓇᐦᐊ ᐅᐢᑭ-ᒣᑕᐍᐏᐣ ᐯᔭᑿᐤ ᓵᒥᐦᑲᑕᐣ.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "ᓇᐘᒋᓇ ᑫ-ᐃᓯ-ᒣᑕᐍᔨᐣ ᓀᐢᑕ ᐃᐢᐱᐦᑖᐠ.",
+      "ᑲᓇᐚᐸᐦᑕ ᐃᑗᐏᓇ. ᐃᑗᐏᓇ ᐱᒧᑌᐘ (ᓇᒪᐣᒋᐦᒡ ᐃᐢᐱ ᑭᒋᐦᒉᐦᒡ) ᐊᐦᐴ ᓃᐦᑖᒥᐠ (ᐃᐢᐱᐦᑭᒥᐠ ᓃᐦᑖᒥᐠ).",
+      "ᓵᒥᐦᑲᑕ ᓂᑳᐣ ᒪᓯᓇᐦᐃᑲᐣ, ᒦᓇ ᓵᒥᐦᑲᑕ ᐃᐢᑿᐦᒡ ᒪᓯᓇᐦᐃᑲᐣ.",
+      "ᐃᑗᐏᐣ ᑳ-ᒥᐢᑲᒪᐣ ᐚᓯᓈᑌᐤ ᓀᐢᑕ ᑫᓯᐸᐦᐃᑳᑌᐤ ᒪᓯᓇᐦᐃᑲᓂᐦᒃ.",
+      "ᓵᒥᐦᑲᑕ \"Print this puzzle\" ᑕ-ᒣᑕᐍᔨᐣ ᒪᓯᓇᐦᐃᑲᓂᐦᒃ ᒪᓯᓇᐦᐃᑲᓈᑎᐠ ᐊᐦᐴ ᐚᓯᓈᐦᐃᑲᓈᑎᐠ ᐁ-ᐋᐸᒋᐦᑖᔨᐣ."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "ᐃᑖᐱᐦᑌᐦᐊ ᐃᑗᐏᐣ ᓀᐢᑕ ᒫᒨ ᓇᑐᓇᒧᐠ ᓂᑳᐣ ᒪᓯᓇᐦᐃᑲᐣ.",
+      "ᒪᓯᓇᐦᐃᑲᓂᐦᒃ, ᒥᓵᐚᐦᐃᑲᓈᑎᐠ ᓇᐘᒡ ᐍᒋᓯᐣ ᑕ-ᑖᐦᑯᓂᑲᓂᐘᐠ ᐃᐢᐱᐦᒡ ᒪᓯᓇᐦᐃᑲᓈᑎᐠ.",
+      "ᐲᑭᐢᑫᐧᐢᑕᒧᐠ ᐃᑗᐏᓇ. ᒦᓂᓴ ᐃᑗᐏᓇ ᐍᒋᓯᐣ ᑕ-ᑮᐢᑭᓯᓇᓂᐘᐠ ᑳ-ᒫᐘᓱᓇᓂᐘᐠ, ᑳ-ᐸᐧᓭᓯᑲᓂᐘᐠ ᐊᐦᐴ ᐊᑖᐍᐏᑲᒥᑯᐦᒃ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ᐊᐢᑌᐤ ᒌ ᐲᓯᒧᐦᑳᐣ ᐊᐦᐴ ᐊᑭᑖᓱᐏᐣ?",
+        "a": "ᓇᒧᔭ. ᓇᒧᔭ ᐲᓯᒧᐦᑳᐣ, ᐊᑭᑖᓱᐏᐣ, ᐊᐦᐴ ᑲᑫᒋᐦᐃᑐᐏᐣ. ᐱᑯ ᐃᐢᐱ ᑲᑭ-ᐳᓂᐦᑖᐣ, ᓀᐢᑕ ᐊᐱᐦᑕᐤ ᑳ-ᐳᓂᐦᑖᔨᐣ ᒥᔮᓯᐣ ᑫᔭᐱᐟ."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "ᓂᑲᑭ-ᒪᓯᓇᐦᐋᐣ ᒌ ᓅᑐᓂᑗᐏᐣ?",
+        "a": "ᐁᐦᐊ. ᓵᒥᐦᑲᑕ \"Print this puzzle\" ᑕ-ᒪᓯᓇᐦᐊᒪᐣ ᒥᓵᐘᐠ ᒪᓯᓇᐦᐃᑲᓇ, ᐃᑗᐏᓇ ᓃᐦᑖᒥᐠ ᐁ-ᐊᐢᑌᑭ. ᑕᓯᐚᐤ ᐅᐢᑭ-ᒣᑕᐍᐏᐣ ᐲᑐᐢ ᐃᓯᓈᑯᐣ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ᓇᒧᔭ ᒌ ᑎᐸᐦᐃᑳᑌᐤ, ᒦᓇ ᓂᑕᐍᔨᑖᑯᓯᐣ ᒌ ᑕ-ᒪᓯᓇᐦᐅᓱᔮᐣ?",
+        "a": "ᐁᐦᐊ, ᓇᒧᔭ ᑎᐸᐦᐃᑳᑌᐤ, ᓀᐢᑕ ᓇᒧᔭ ᒪᓯᓇᐦᐅᓱᐏᐣ, ᐊᑯᐦᒋᑲᐣ ᐊᐦᐴ ᓈᒋᐱᒋᑲᐣ ᓂᑕᐍᔨᑖᑯᓯᐣ. ᐋᐸᑕᐣ ᐃᐣᑐᕐᓀᑎᐠ ᑭᓯᐚᐱᐢᑯᐢ, ᑖᑉᓕᐟ, ᐊᐦᐴ ᒪᓯᓇᐦᐃᑲᓂᔮᐱᐢᒃ."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "ᓯᓯᐚᐦᐃᑫᐏ-ᒪᓯᓇᐦᐃᑲᓇ",
+    "seoTitle": "ᓯᓯᐚᐦᐃᑫᐏ-ᒪᓯᓇᐦᐃᑲᓇ ᑭᐢᑌᔨᑖᑯᓯᒋᒃ ᐊᓂᑭ ᑳ-ᐘᓂᑭᐢᑭᓯᒋᒃ (ᓇᒧᔭ ᑎᐸᐦᐃᑳᑌᐤ)",
+    "h1": "ᓯᓯᐚᐦᐃᑫᐏ-ᒪᓯᓇᐦᐃᑲᓇ",
+    "description": "ᐍᒋᓯᐣ, ᑭᐢᑌᔨᑖᑯᓯᒋᒃ ᓯᓯᐚᐦᐃᑫᐏ-ᒪᓯᓇᐦᐃᑲᓇ ᑳ-ᒥᓵᑭ: ᓵᒥᐦᑲᑕ ᓯᓯᐚᐦᐃᑲᐣ, ᒦᓇ ᓵᒥᐦᑲᑕ ᒪᓯᓇᐦᐃᑲᐣ. ᓇᒧᔭ ᐚᓂᐦᐋᐣ, ᓇᒧᔭ ᐘᓂ-ᓯᓯᐚᐦᐃᑲᐣ, ᓀᐢᑕ ᑲᐦᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᓇ ᑲᑭ-ᒪᓯᓇᐦᐃᑳᑌᐘ ᓇᒧᔭ ᑎᐸᐦᐃᑳᑌᐤ.",
+    "short": "ᓵᒥᐦᑲᑕ ᓯᓯᐚᐦᐃᑲᐣ, ᒦᓇ ᓵᒥᐦᑲᑕ ᒪᓯᓇᐦᐃᑲᐣ. ᑲᑭ-ᒪᓯᓇᐦᐊᐣ ᓀᐢᑕ.",
+    "players": "1 ᐊᐦᐴ 2 ᐊᐏᔭᒃ",
+    "intro": "ᒪᓯᓇᐦᐃᑲᓇ ᑳ-ᒥᓵᑭ ᓀᐢᑕ ᐍᒋᓯᐣ: ᐚᐱᑿᐣ ᐊᐢᑭᐦᑯᐦᒃ, ᐚᐢᑲᐦᐃᑲᐣ, ᒥᓂᑿᓈᓂᐢ, ᑲᒫᒪᑯᐣ ᓀᐢᑕ ᔮᔮᐎ-ᐹᐦᑭᐢᒋᑲᐣ ᐆᐢ. ᓵᒥᐦᑲᑕ ᓯᓯᐚᐦᐃᑲᐣ, ᒦᓇ ᓵᒥᐦᑲᑕ ᒪᓯᓇᐦᐃᑲᐣ ᑕ-ᓯᓯᐚᐦᐊᒪᐣ. ᓇᒧᔭ ᐊᐢᑌᐤ ᐘᓂ-ᓯᓯᐚᐦᐃᑲᐣ.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "ᓇᐘᒋᓇ ᒪᓯᓇᐦᐃᑲᐣ.",
+      "ᓵᒥᐦᑲᑕ ᓯᓯᐚᐦᐃᑲᐣ. ᑕᓯᐚᐤ ᓯᓯᐚᐦᐃᑲᐣ ᒪᓯᓇᐦᐃᑳᑌᐤ ᐃᓯᔨᑳᓱᐏᐣ.",
+      "ᓵᒥᐦᑲᑕ ᒪᓯᓇᐦᐃᑲᐣ ᑕ-ᓯᓯᐚᐦᐊᒪᐣ ᐊᓂᒪ ᓯᓯᐚᐦᐃᑲᐣ.",
+      "ᐱᑯ ᐃᐢᐱ ᑲᑭ-ᐋᐏᑌᔨᐦᑌᐣ ᒦᓇ ᑳᐏ ᑕ-ᓯᓯᐚᐦᐊᒪᐣ.",
+      "ᓵᒥᐦᑲᑕ \"Print this page\" ᑕ-ᒪᓯᓇᐦᐊᒪᐣ ᑫ-ᓯᓯᐚᐦᐊᒪᐣ ᒪᓯᓇᐦᐃᑲᓈᑎᐠ ᐊᐦᐴ ᐚᓯᓈᐦᐃᑲᓈᑎᐠ ᐁ-ᐋᐸᒋᐦᑖᔨᐣ."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "ᓂᓱ ᓯᓯᐚᐦᐃᑲᓇ ᒥᔨ ᑕ-ᓇᐘᒋᓇᐠ ᑮᐢᐱᐣ ᑲᐦᑭᔭᐤ ᒥᐦᐟ ᐃᑌᔨᐦᑕᒀᐣ.",
+      "ᒥᐦᑿᓈᑯᓯᐘᐠ ᒥᐢᑎᑿᒃ ᓀᐢᑕ ᓰᐱᐦᑿᓈᑯᓯᐤ ᐲᓯᒼ ᒥᔮᓯᐣ. ᐆᒪ ᑕ-ᒥᔮᐘᑕᒧᐠ ᓯᓯᐚᐦᐃᑲᐣ, ᓇᒧᔭ ᑕ-ᑿᔭᐢᑯᓇᓂᐘᐠ.",
+      "ᒪᓯᓇᐦᐃᑳᑌᐠ ᒪᓯᓇᐦᐃᑲᓇ ᒥᔮᓯᐣ ᑳ-ᒥᓵᑭ ᐚᓯᓈᐦᐃᑲᓈᑎᑿ, ᓇᐘᒡ ᐍᒋᓯᐣ ᑕ-ᑖᐦᑯᓂᑲᓂᐘᐠ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ᐊᐢᑌᐤ ᒌ ᐲᓯᒧᐦᑳᐣ ᐊᐦᐴ ᐊᑭᑖᓱᐏᐣ?",
+        "a": "ᓇᒧᔭ. ᓇᒧᔭ ᐲᓯᒧᐦᑳᐣ, ᐊᑭᑖᓱᐏᐣ, ᐊᐦᐴ ᑲᑫᒋᐦᐃᑐᐏᐣ. ᐱᑯ ᐃᐢᐱ ᑲᑭ-ᐳᓂᐦᑖᐣ, ᓀᐢᑕ ᐊᐱᐦᑕᐤ ᑳ-ᐳᓂᐦᑖᔨᐣ ᒥᔮᓯᐣ ᑫᔭᐱᐟ."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "ᐆᐦᐃ ᒪᓯᓇᐦᐃᑲᓇ ᐊᐘᓯᐚᐣ ᒌ ᐃᑌᔨᑖᑯᐘ?",
+        "a": "ᑭᔮᒻ, ᐍᒋᓯᐣ ᑫᑿᔭ ᓂᒪᓯᓇᐦᐁᓈᐣ ᓇᒧᔭ ᐊᐚᓯ-ᒪᓯᓇᐦᐃᑲᓇ, ᑭᐢᑌᔨᑖᑯᓯᒋᒃ ᑕ-ᒥᔮᐘᑕᒧᐠ. ᑳ-ᒥᓵᑭ ᐍᒋᓯᐣ ᑕ-ᓯᓯᐚᐦᐃᑳᑌᑭ, ᓇᒧᔭ ᐊᐚᓯᐚᐣ ᐃᑌᔨᑖᑯᐣ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ᓇᒧᔭ ᒌ ᑎᐸᐦᐃᑳᑌᐤ, ᒦᓇ ᓂᑕᐍᔨᑖᑯᓯᐣ ᒌ ᑕ-ᒪᓯᓇᐦᐅᓱᔮᐣ?",
+        "a": "ᐁᐦᐊ, ᓇᒧᔭ ᑎᐸᐦᐃᑳᑌᐤ, ᓀᐢᑕ ᓇᒧᔭ ᒪᓯᓇᐦᐅᓱᐏᐣ, ᐊᑯᐦᒋᑲᐣ ᐊᐦᐴ ᓈᒋᐱᒋᑲᐣ ᓂᑕᐍᔨᑖᑯᓯᐣ. ᐋᐸᑕᐣ ᐃᐣᑐᕐᓀᑎᐠ ᑭᓯᐚᐱᐢᑯᐢ, ᑖᑉᓕᐟ, ᐊᐦᐴ ᒪᓯᓇᐦᐃᑲᓂᔮᐱᐢᒃ."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "ᐲᑭᐢᑫᐧᐏ-ᒪᓯᓇᐦᐃᑲᓂᓴ",
+    "seoTitle": "ᑫ-ᐃᓯ-ᐲᑭᐢᑫᐧᓇᓂᐘᐠ ᐊᓂᑭ ᑳ-ᐘᓂᑭᐢᑭᓯᒋᒃ: ᒪᓯᓇᐦᐃᑲᓂᓴ",
+    "h1": "ᐲᑭᐢᑫᐧᐏ-ᒪᓯᓇᐦᐃᑲᓂᓴ",
+    "description": "ᒪᓯᓇᐦᐃᑲᓂᓴ ᑳ-ᐍᒋ-ᐲᑭᐢᑫᐧᓇᓂᐘᐠ ᐊᓂᑭ ᑳ-ᐘᓂᑭᐢᑭᓯᒋᒃ: ᓇᒧᔭ ᑲᑫᐦᒋᒧᐏᐣ, ᓇᒧᔭ ᑭᑿᔭᐢᑯ-ᓈᐢᐹᑗᐏᐣ. ᐋᐸᒋᐦᑖ ᐚᐢᑲᐦᐃᑲᓂᐦᒃ ᐊᐦᐴ ᒪᓯᓇᐦᐊ ᑲᐦᑭᔭᐤ.",
+    "short": "ᒪᓯᓇᐦᐃᑲᓂᓴ ᑳ-ᐍᒋ-ᑲᑫᐦᒋᐦᑫᐏᓇ. ᓇᒧᔭ ᑲᑫᒋᐦᐃᑐᐏᐣ.",
+    "players": "2 ᐊᐏᔭᒃ ᐊᐦᐴ ᒫᒨ ᐊᔨᓯᔨᓂᐘᒃ",
+    "intro": "ᑕᓯᐚᐤ ᒪᓯᓇᐦᐃᑲᓂᐢ ᐊᐢᑌᐤ ᒪᓯᓇᐦᐃᑲᐣ ᓀᐢᑕ ᑫ-ᐃᓯ-ᐲᑭᐢᑫᐧᓇᓂᐘᐠ, ᑖᐱᐢᑯᒡ \"ᑫᑯᓇᐣ ᓇᐘᒡ ᑳ-ᒥᔭᐘᑕᒪᐣ ᑭᓯᑲᐤ?\" ᓇᒧᔭ ᑭᑿᔭᐢᑯ-ᓈᐢᐹᑗᐏᐣ ᐊᐢᑌᐤ ᓀᐢᑕ ᓇᒧᔭ ᓂᑕᐍᔨᑖᑯᐣ ᑕ-ᑭᐢᑭᓯᔨᐣ. ᓇᐘᒋᓇ ᑫ-ᐃᓯ-ᒣᑕᐍᔨᐣ ᐊᐦᐴ ᑲᐦᑭᔭᐤ ᑭᓇᓯᓇᒧᐠ.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "ᓇᐘᒋᓇ ᑫ-ᐃᓯ-ᒣᑕᐍᔨᐣ, ᐊᐦᐴ ᑲᓇᐍᔨᐦᑕ \"All cards\".",
+      "ᐊᔭᒥᐦᑖ ᑲᑫᐦᒋᒧᐏᐣ ᓀᐢᑕ ᒫᒨ ᑲᓇᐚᐸᐦᑕᒧᐠ ᒪᓯᓇᐦᐃᑲᐣ.",
+      "ᓇᑐᐦᑕ, ᐑᐦᑕ ᑭᓈᐢᐹᑗᐏᐣ, ᓀᐢᑕ ᒥᔮᐘᑕᒧᐠ ᑳ-ᐲᑭᐢᑫᐧᔨᐄᐧᐠ.",
+      "ᓵᒥᐦᑲᑕ \"Next card\" ᐃᐢᐱ ᑫᓯᔮᔨᐣ, ᐊᐦᐴ ᐊᐱ ᐯᔭᐠ ᒪᓯᓇᐦᐃᑲᓂᐢ ᐃᐢᐱᐦᒃ ᑫ-ᒥᔭᐘᑕᒪᐣ.",
+      "ᓵᒥᐦᑲᑕ \"Print all cards\" ᑕ-ᒪᓯᓇᐦᐊᒪᐣ ᓀᐢᑕ ᑕ-ᒪᓂᓴᒪᐣ."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "ᓈᐢᐹᑗᐢᑕ ᓀᐢᑕ ᑭᔭ. ᑖᐱᐢᑯᒡ ᐲᑭᐢᑫᐧᐏᐣ ᐃᑌᔨᑖᑯᐣ, ᓇᒧᔭ ᑲᑫᒋᐦᐃᑐᐏᐣ.",
+      "ᐱᒥᑎᓴᐦᐊ ᐋᒋᒧᐏᐣ. ᑮᐢᐱᐣ ᐋᒋᒧᐏᐣ ᐲᑐᓯᐦᑳᑌᐠ, ᒥᔮᓯᐣ ᑫᔭᐱᐟ.",
+      "ᑮᐢᐱᐣ ᒪᓯᓇᐦᐃᑲᓂᐢ ᐯᒋ-ᐘᓂᑌᔨᐦᑕᒧᐦᐃᐍᒪᑲᐠ, ᑭᐢᑌᔨᐦᑕ ᓀᐢᑕ ᐯ-ᔮᐦᑭ ᐊᑐᐢᑲᑕ ᑯᑕᐠ ᒪᓯᓇᐦᐃᑲᓂᐢ."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "ᑖᓂᐍᐦᒋ ᐁᑳ ᐊᐢᑌᑭ \"ᑭᑭᐢᑭᓯᐣ ᒌ…?\" ᑲᑫᐦᒋᒧᐏᓇ?",
+        "a": "ᑲᑫᐦᒋᒧᐏᓇ ᑳ-ᑯᒋᐦᑖᑭ ᑭᐢᑭᓯᐏᐣ ᑖᐱᐢᑯᒡ ᑲᑫᒋᐦᐃᑐᐏᐣ ᐃᑌᔨᑖᑯᐘ ᓀᐢᑕ ᑲᑭ-ᓀᐯᐏᐦᐃᐍᒪᑲᓇ. ᐍᒋ-ᑲᑫᐦᒋᒧᐏᓇ ᑖᐱᐢᑯᒡ \"ᐋᒋᒧᐢᑕᐘᐦᐃᐣ…\" ᑲᐦᑭᔭᐤ ᐊᐏᔭᒃ ᐍᒋ-ᐑᒋᐦᐃᑐᐘᒃ, ᐱᑯ ᑫᑿᐣ ᑳ-ᑭᐢᑭᓯᒋᒃ."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "ᓂᑲᑭ-ᒪᓯᓇᐦᐋᐣ ᒌ ᒪᓯᓇᐦᐃᑲᓂᓴ?",
+        "a": "ᐁᐦᐊ. \"Print all cards\" ᒪᓯᓇᐦᐊᒻ ᑲᐦᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᓂᓴ ᒥᓵᐘᐠ ᒪᓯᓇᐦᐃᑲᓇ, ᒥᐦᐟ ᒪᓯᓇᐦᐃᑲᓂᓴ ᑕᓯᐚᐤ ᒪᓯᓇᐦᐃᑲᓂᐦᒃ, ᑫᓯ-ᒪᓂᓴᒧᐠ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ᓇᒧᔭ ᒌ ᑎᐸᐦᐃᑳᑌᐤ, ᒦᓇ ᓂᑕᐍᔨᑖᑯᓯᐣ ᒌ ᑕ-ᒪᓯᓇᐦᐅᓱᔮᐣ?",
+        "a": "ᐁᐦᐊ, ᓇᒪᐑᔭ ᑖᐱᑕᐤ ᑭᑲ ᑮᐦᐃᑲᓈᐚᐤ, ᓇᒪ ᑭᑕᔮᐣ ᐊᐦᐊᐤ ᐊᑯᐦᑊ, ᓇᒪ ᑭᑲ ᒪᓯᓇᐦᐊᒫᓱᐣ ᐊᐦᐳ ᓇᒪ ᑭᑲ ᓂᑖᐏ ᓇᑕᐦᐃᑲᐣ. ᐋᐸᑕᐣ ᐁᑯᑕ ᑭᑌᐦᐱᐢᑲᐦᐃᑲᓂᐦᒃ ᑭᐑᒋᐦᐃᑯᐏᓂᐦᒃ, ᑭᐦᑭᓈᐣ ᑭᑌᐦᐱᐢᑲᐦᐃᑲᐣ ᐊᐦᐳ ᑭᒪᓯᓇᐦᐃᑲᓂᐢᑫᑭᐦᒃ."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "ᑳ ᓈᓱᐍᐦᑖᓯᐘᐠ ᒪᓯᓇᐦᐃᑲᓇ",
+    "seoTitle": "ᐐᒋᐚᑲᓂᑐᐘᒃ ᒪᓯᓇᐦᐃᑲᓇ ᐑᒋᐦᐋᑫᐤ ᒣᑕᐍᐏᐣ ᐐᒋᑑᐏᐣ",
+    "h1": "ᑳ ᓈᓱᐍᐦᑖᓯᐘᐠ ᒪᓯᓇᐦᐃᑲᓇ: ᑭᒪᓯᓇᐦᐃᑲᓂᐚᐘ ᐋᐸᒋᐦᑖᐠ",
+    "description": "ᑭᐚᐦᑰᒫᑲᓂᐚᐘ ᐅᒪᓯᓇᐦᐃᑲᓂᐚᐘ ᐋᐸᒋᐦᑖᐠ ᐁ ᒣᑕᐍᔦᐠ ᐁ ᓈᓱᐍᐦᑖᔦᐠ. ᓇᐚᓱᐘᑖᐠ ᓂᓱ ᐃᐢᑯ ᓂᑯᑤᓯᒃ ᒪᓯᓇᐦᐃᑲᓇ ᑭᐋᐸᒋᐦᒋᑲᓂᐦᒃ; ᐁᑯᑕ ᐱᑯ ᑭᒪᓯᓇᐦᐃᑲᓂᐢᑫᑭᐦᒃ ᑲᓇᐍᔨᐦᑖᑯᓇ, ᓇᒪ ᐑᑳᒡ ᑰᑖᐠ ᐃᑖᔨᒨᐦᑖᐣ.",
+    "short": "ᓇᐚᓱᐘᑖ ᑭᒪᓯᓇᐦᐃᑲᓇ ᒦᓇ ᓈᓱᐍᐦᑖ. ᓇᒪ ᑫᑰᐣ ᐃᑖᔨᒨᐦᑖᐣ.",
+    "players": "ᓂᓱ ᐊᔨᓯᔨᓂᐘᒃ, ᐁ ᐑᒋ ᐊᐱᒋᒃ",
+    "intro": "ᓇᐚᓱᐘᑖ ᓂᓱ ᐃᐢᑯ ᓂᑯᑤᓯᒃ ᑭᒪᓯᓇᐦᐃᑲᓇ ᑭᐑᒋᐦᐃᑯᐏᓂᐦᒃ ᐊᐦᐳ ᑭᒪᓯᓇᐦᐃᑲᓂᐢᑫᑭᐦᒃ, ᐁᑯᓯ ᐁ ᒣᑕᐍᔦᐠ ᐁ ᒥᐢᑳᐦᑐᐍᐦᑖᔦᐠ ᐁ ᒥᓵᑭ ᒪᓯᓇᐦᐃᑲᓇ. ᐅᒪ ᐱᑯ ᑭᒥᐢᑲᐍᑭᐦᒃ ᓅᑯᓇ. ᓇᒪ ᐑᑳᒡ ᐃᑖᔨᒨᐦᑖᐣ, ᑲᓇᐍᔨᐦᑖᑯᐣ ᐊᐦᐳ ᑭᑕᔨᒧᐏᓇ, ᒦᓇ ᓅᐦᑌᐸᔨᐤ ᑭᐢᐱᐣ ᑭᐸᐦᐊᒪᓀ ᐅᒪ ᒪᓯᓇᐦᐃᑲᓂᑭᐦᒃ.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "ᑖᐦᒋᓇ \"ᓇᐚᓱᐘᑖ ᒪᓯᓇᐦᐃᑲᓇ\" ᒦᓇ ᓇᐚᓱᐘᑖ ᓂᓱ ᐃᐢᑯ ᓂᑯᑤᓯᒃ ᒪᓯᓇᐦᐃᑲᓇ.",
+      "ᑲᐦᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᐣ ᓃᓰᐤ ᓅᑯᐣ. ᑖᐦᒋᓇ ᐯᔭᒃ, ᒦᓇ ᑖᐦᒋᓇ ᐑᒋᐚᑲᓇ.",
+      "ᐋᔨᒧᒥᒃ ᑲᐦᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᓇ ᐁ ᒥᐢᑲᒣᒃ.",
+      "ᑮᓯᐦᑖᔦᐠ, ᑭᐸᐦᐊ ᐅᒪ ᒪᓯᓇᐦᐃᑲᐣ ᐊᐦᐳ ᑖᐦᒋᓇ \"ᑲᓰᐦᐊ ᒪᓯᓇᐦᐃᑲᓇ\". ᓇᒪ ᑫᑰᐣ ᑲᓇᐍᔨᐦᑖᑯᐣ."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "ᓇᐚᓱᐘᑖ ᑳ ᑲᐦᑫᓅᑯᑭ ᒪᓯᓇᐦᐃᑲᓇ ᑳ ᒥᔮᐍᔨᐦᑖᑯᑭ: ᐚᐦᑰᒣᐤ ᐊᐘᓵᐢ, ᑭᐢᑎᑳᐣ, ᑳ ᓴᑭᐦᑖᑭ ᐊᐢᑭᐩ, ᐊᐦᐳ ᐑᑭᑑᐏ ᑫᓯᑲᐤ.",
+      "ᐊᐢᑭᕀ ᒦᓇ ᑫᑰᓇ ᒪᓯᓇᐦᐃᑲᓇ ᓅᒋ ᐍᐦᒋᐸᔨᐤ ᐊᓯᒋ ᐱᑯ ᒥᑫᐦᑐᐍᐏᐣ, ᓇᒪ ᐑᑳᒡ ᑭᑲ ᐹᐦᐹᔨᑯᓈᐚᐤ ᐁ ᐑᐦᑌᒃ ᐊᐘ ᐊᔨᓯᔨᓂᐤ.",
+      "ᑭᐍᐦᐱᓇ ᒪᓯᓇᐦᐃᑲᓇ ᐊᓂᑭ ᑳ ᑮ ᓂᐳᒋᒃ ᑭᐢᐱᐣ ᐁᑲ ᒥᔪᐍᔨᐦᑕᒧᐏᐣ ᐯᓯᑳᑯᐍᒃ, ᑭᐢᐱᐣ ᐱᑯ ᑭᐢᑫᔨᐦᑕᒣᒃ ᐁ ᐯ ᒥᔪᑌᐦᐁᐦᐋᒋᒃ."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "ᑕᓐᑌ ᓇ ᐃᑖᔨᒨᐦᑖᐣ ᓂᒪᓯᓇᐦᐃᑲᓇ?",
+        "a": "ᓇᒪᐑᔭ. ᐅᒪ ᒪᓯᓇᐦᐃᑲᐣ ᐁᑯᑕ ᑭᑌᐦᐱᐢᑲᐦᐃᑲᓂᐦᒃ ᐱᑯ ᐚᐸᐦᑐᐍᐤ ᑭᒪᓯᓇᐦᐃᑲᓇ. ᓇᒪ ᐑᑳᒡ ᑭᓯᑖᔨᒧᐦᑖᓈᐣ ᐊᐦᐳ ᐊᐘᐠ ᑯᑕᒃ, ᒦᓇ ᓅᐦᑌᐸᔨᐤ ᑭᐢᐱᐣ ᑭᐸᐦᐊᒪᓀ ᐊᐦᐳ ᐋᐢᑕᒧᐍᐸᔨᐦᑖᔭᓀ."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ᐊᔮᐣ ᓇ ᐱᓯᒧᐦᑳᐣ ᐊᐦᐳ ᑭᐢᑫᔨᐦᑖᑯᓯᐏᐣ?",
+        "a": "ᓇᒪᐑᔭ. ᓇᒪ ᐊᔮᐣ ᐱᓯᒧᐦᑳᐣ, ᓇᒪ ᐊᔮᐣ ᑭᐢᑫᔨᐦᑖᑯᓯᐏᐣ, ᓇᒪ ᐊᔮᐣ ᐊᑭᐦᒋᑫᐏᐣ ᒦᓇ ᓇᒪ ᐊᐘᒃ ᐸᓯᑫᐤ. ᑭᑲ ᑮ ᐴᓂ ᒣᑕᐍᐣ ᐊᐱᐦᑕᐤ, ᒦᓇ ᒥᔮᓯᐣ ᐁᑯᓯ ᐁ ᑮᓯᐦᑖᔭᐣ."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "ᑭᑲ ᑮ ᑲᓇᐍᔨᐦᑖᐣ ᓇ ᐅᒪ ᒣᑕᐍᐏᐣ ᑯᑕᒃ ᑫᓯᑲᐤ ᑫ ᐋᐸᒋᐦᑖᔮᐣ?",
+        "a": "ᓇᒪᐑᔭ ᐅᒪ ᑌᐦᐱᐢᑲᐦᐃᑲᓂᐦᒃ, ᐁᑯᓯ ᐁ ᐃᔑᐦᑖᓂᐘᒃ ᐁᑲ ᑫᑰᐣ ᑫ ᑲᓇᐍᔨᐦᑖᑯᐠ. ᐊᓂᒪ ᑳ ᓴᑮᐦᑖᐠ Golden Moments ᐋᐸᒋᐦᒋᑲᐣ ᑭ iPhone ᒦᓇ iPad ᑭᑲ ᑮ ᑲᓇᐍᔨᐦᑖᑯᓇ ᑭᒪᓯᓇᐦᐃᑲᓇ ᑭᐑᒋᐦᐃᑯᐏᓂᐦᒃ."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "ᒪᓯᓇᐦᐃᑲᐣ ᐱᓐᑯ (Picture bingo)",
+    "seoTitle": "ᒪᓯᓇᐦᐃᑲᐣ ᐱᓐᑯ ᑭᐢᑫᔨᐦᑕᒧᐏᐣ ᑳ ᐋᐸᒋᐦᑖᒋᒃ: ᑭᑲ ᑮ ᒪᓯᓇᐦᐊᓈᐚᐤ",
+    "h1": "ᒪᓯᓇᐦᐃᑲᐣ ᐱᓐᑯ ᐁ ᒫᒧᐏ ᒣᑕᐍᓈᓂᐘᒃ",
+    "description": "ᓇᒪᐑᔭ ᑖᐱᑕᐤ ᑭᑲ ᑮᐦᐃᑲᓈᐚᐤ ᒪᓯᓇᐦᐃᑲᐣ ᐱᓐᑯ ᑭᐢᑫᔨᐦᑕᒧᐏᓂᐦᒃ ᒦᓇ ᑭᐢᑫᔨᒥᓱᐘᒃ, ᐁ ᒥᓵᒃ ᓅᑯᐏᐣ ᑳ ᐚᐸᐦᐃᐍᐠ. ᒥᓵᑭ ᒪᓯᓇᐦᐃᑲᓇ ᐊᓯᒋ ᐃᑗᐏᓇ, 9 ᐊᐦᐳ 16 ᑖᐱᐢᑯᒡ ᐍᐢᑕᐦᐃᑲᓇ, ᓇᒪ ᐊᔭᐚᒡ ᑭᑲ ᐊᔭᒥᐦᑖᐣ.",
+    "short": "ᒪᓯᓇᐦᐃᑲᐣ ᐱᓐᑯ ᒪᓯᓇᐦᐃᑲᓇ ᒦᓇ ᒥᓵᒃ ᓅᑯᐏᐣ ᑳ ᐚᐸᐦᐃᐍᐠ ᐁ ᒫᒧᐏ ᒣᑕᐍᓈᓂᐘᒃ.",
+    "players": "ᐁ ᒫᒧᐏᒋᒃ 2 ᐃᐢᑯ 30",
+    "intro": "ᑳ ᑭᐢᑫᔨᐦᑖᑯᐠ ᐱᓐᑯ ᐋᐸᒋᐦᑖᐠ ᒪᓯᓇᐦᐃᑲᓇ ᓇᒪ ᐊᑭᐦᒋᑲᓇ, ᐁᑲ ᐊᐘᒃ ᑫ ᐊᔭᒥᐦᑖᑦ ᐊᐱᓯᓵᑭ ᒪᓯᓇᐦᐃᑲᓇ. ᒪᓯᓇᐦᐊ ᐯᐹ ᐱᓐᑯ ᒪᓯᓇᐦᐃᑲᓇ, ᒦᓇ ᐋᐸᒋᐦᑖ ᒥᓵᒃ ᓅᑯᐏᐣ ᐁ ᐚᐸᐦᐃᐍᔭᐣ TV, ᑭᒪᓯᓇᐦᐃᑲᓂᐢᑫᑭᐦᒃ ᐊᐦᐳ ᑭᑌᐦᐱᐢᑲᐦᐃᑲᓂᐦᒃ.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "ᓇᐚᓱᐘᑖ 9 ᐊᐦᐳ 16 ᑖᐱᐢᑯᒡ ᐍᐢᑕᐦᐃᑲᓇ ᒦᓇ ᑖᓂᑐ ᑫ ᒣᑕᐍᒋᒃ.",
+      "ᑖᐦᒋᓇ \"ᒪᓯᓇᐦᐊ ᐱᓐᑯ ᒪᓯᓇᐦᐃᑲᓇ\". ᑲᐦᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᐣ ᐲᑐᐢ ᐃᔑᓈᑯᐣ.",
+      "ᐹᐢᑭᓇ ᑳ ᐚᐸᐦᐃᐍᐠ ᒥᓵᒃ ᓅᑯᐏᓂᐦᒃ. ᑖᐦᒋᓇ \"ᑯᑕᒃ ᒪᓯᓇᐦᐃᑲᐣ\" ᐁ ᐚᐸᐦᐃᐍᔭᐣ ᒪᓯᓇᐦᐃᑲᐣ ᐊᓯᒋ ᐅᐑᐦᓱᐏᐣ.",
+      "ᒣᑕᐍᐘᒃ ᐊᑯᐦᑊ ᑖᐱᐢᑯᒡ ᒪᓯᓇᐦᐃᑲᐣ ᐊᓂᒪ ᔔᓂᔮᐚᐱᐢᐠ, ᐲᒥᓈᑲᐣ ᐊᐦᐳ ᑫᑰᐣ ᐋᐸᒋᐦᑖᐘᒃ.",
+      "ᑲᐦᑭᔭᐤ ᐊᐘ ᑳ ᓵᑭᓇᐦᑫᑦ ᐊᐦᐳ ᑲᐦᑭᔭᐤ ᑳ ᑮᓯᐦᑖᑦ, ᒥᔮᐍᔨᐦᑖᑯᓯᐤ. ᓇᒪ ᐊᐘᒃ ᐸᓯᑫᐤ ᐅᒪ: ᒣᑕᐍᒃ ᐃᐢᑯ ᑲᐦᑭᔭᐤ ᐊᐘ ᑫ ᑮᓯᐦᑖᑦ."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "ᐋᐸᒋᐦᑖᒃ ᒥᓵᑭ ᑫᑰᓇ ᑖᐱᐢᑯᒡ ᒥᓵᑭ ᐲᒥᓈᑲᓇ. ᐊᐱᓯᓵᑭ ᐲᒥᓈᑲᓇ ᐋᐦᑲᐍᔨᐦᑖᑯᐣ ᑫ ᐅᑎᓇᒥᐦᒃ.",
+      "ᐑᐦᑕ ᒪᓯᓇᐦᐃᑲᐣ ᒦᓇ ᐋᔨᒧᑕ: \"ᐲᐦᑐᐍᐤ ᐅᓰ. ᐊᐘᒃ ᓇ ᑳ ᑮ ᐴᓯᑦ ᐅᓰᐦᒃ?\"",
+      "ᐊᐱᐦᐃᒃ ᐊᓂᑭ ᑳ ᐋᔨᒥᓈᑯᓯᒋᒃ ᐁ ᐚᐸᐦᑕᒧᐘᒋᒃ ᓀᐦᐃᔭᐤ ᓅᑯᐏᓂᐦᒃ, ᒦᓇ ᐑᒋᐦᐃᐍᐘᒃ ᐑᒋ ᐊᐱᒥᒃ ᐊᓂᑭ ᑳ ᓂᑕᐍᔨᐦᑕᒧᐘᒋᒃ ᐑᒋᐦᐃᑯᐏᐣ.",
+      "ᑫᑲᐟ ᑲᐦᑭᔭᐤ ᐁ ᒫᒧᐏᒋᒃ 9 ᑖᐱᐢᑯᒡ ᐍᐢᑕᐦᐃᑲᓇ ᑌᐱᐸᔨᐤ. ᒣᑕᐍᒃ ᑫᑲᐟ 20 ᐃᐢᑯ 30 ᑎᐸᐦᐃᑲᓂᓴ."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "ᑖᓂᓯ ᑫ ᐃᔑ ᒣᑕᐍᐦᐋᔭᐣ ᒪᓯᓇᐦᐃᑲᐣ ᐱᓐᑯ ᐑᒋᐦᐃᐍᐏᑲᒥᑯᐦᒃ?",
+        "a": "ᒪᓯᓇᐦᐊ ᐯᔭᒃ ᒪᓯᓇᐦᐃᑲᐣ ᑲᐦᑭᔭᐤ ᐊᔨᓯᔨᓂᐤ, ᐊᓯᐘᑖ ᑳ ᐚᐸᐦᐃᐍᐠ ᒥᓵᒃ ᓅᑯᐏᓂᐦᒃ, ᒦᓇ ᐯᐦᑳᒡ ᐑᐦᑕ ᒪᓯᓇᐦᐃᑲᓇ. ᒣᑕᐍᒃ ᐃᐢᑯ ᑲᐦᑭᔭᐤ ᐊᔨᓯᔨᓂᐤ ᑫ ᑮᓯᐦᑖᑦ, ᐁᑲ ᐊᐘᒃ ᑫ ᓇᑲᓇᐍᑦ."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "ᓇᒪᐑᔭ ᓇ ᑖᐱᑕᐤ ᑭᑲ ᑮᐦᐃᑲᓈᐚᐤ ᐁ ᒪᓯᓇᐦᐃᑫᔭᐣ?",
+        "a": "ᐁᐦᐊ. ᒪᓯᓇᐦᐊ ᑖᓂᑐ ᑫ ᓂᑕᐍᔨᐦᑕᒪᓀ, ᑖᓂᑐ ᐁ ᑭᐢᑫᔨᐦᑕᒪᓀ, ᑭᐢᐱᐣ ᑭᔭ ᐊᐦᐳ ᐁ ᒫᒧᐏ ᒣᑕᐍᔦᐠ."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "ᑭᑲ ᑮ ᒣᑕᐍᐘᒃ ᓇ ᐊᔨᓯᔨᓂᐘᒃ ᐁᑲ ᐁ ᐊᔭᒥᐦᑖᒋᒃ?",
+        "a": "ᐁᐦᐊ. ᑲᐦᑭᔭᐤ ᐍᐢᑕᐦᐃᑲᐣ ᒥᓵᐤ ᒪᓯᓇᐦᐃᑲᐣ, ᐊᓯᒋ ᐅᐑᐦᓱᐏᐣ ᐊᓂᑭ ᑳ ᒥᔮᐍᔨᐦᑕᒧᐘᒋᒃ ᐃᑗᐏᓇ."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "ᐯᐦᑳᒡ ᔦᐦᔦᐏᐣ",
+    "seoTitle": "ᐯᐦᑳᒡ ᔦᐦᔦᐏ ᐴᓂᐸᔨᐏᐣ ᑭᐢᑫᔨᒥᓱᐘᒃ ᒦᓇ ᑳ ᑲᓇᐍᔨᒥᒋᒃ",
+    "h1": "ᐯᐦᑳᒡ ᔦᐦᔦᐏ ᐴᓂᐸᔨᐏᐣ",
+    "description": "ᐯᐦᑳᒡ ᒦᓇ ᑭᔭᐚᒡ ᔦᐦᔦᐏ ᐴᓂᐸᔨᐏᐣ ᐁ ᒫᒧᐏ ᐋᐸᒋᐦᑖᔦᐠ: ᐯᐦᑳᒡ ᐚᐑᔦᔮᐤ ᒥᓵᐤ ᒦᓇ ᐊᐱᓯᓰᐤ ᓂᑯᑤᓯᒃ ᔦᐦᔦᐏᓇ. ᑭᔭ ᑭᒫᒋᐦᑖᐣ, ᒦᓇ ᑭᑲ ᑮ ᐴᓂᐦᑖᐣ ᐊᐱᐦᑕᐤ.",
+    "short": "ᐯᐦᑳᒡ ᐚᐑᔦᔮᐤ ᐁ ᐑᒋ ᔦᐦᔦᔭᐣ. ᒫᒋᐦᑖ ᒦᓇ ᐴᓂᐦᑖ ᐃᐢᐱ ᑫ ᓂᑕᐍᔨᐦᑕᒪᓀ.",
+    "players": "1 ᐊᐦᐳ 2 ᐊᔨᓯᔨᓂᐘᒃ",
+    "intro": "ᐋᐢᑲᐤ ᑳ ᓇᐦᐃᐸᔨᐠ ᒣᑕᐍᐏᐣ ᐊᓂᒪ ᐯᐦᑳᒡ ᐴᓂᐸᔨᐏᐣ. ᑖᐦᒋᓇ \"ᒫᒋᐦᑖ\", ᒦᓇ ᐲᐦᑐᑌᔦᐦᔦ ᐁ ᒥᓵᒃ ᐚᐑᔦᔮᐤ ᒦᓇ ᐘᔭᐑᔦᐦᔦ ᐁ ᐊᐱᓯᓰᒃ. ᓇᐚᓱᐘᑖ ᐯᐦᑳᒡ ᐊᐦᐳ ᑫᓯᑲᐤ. ᓇᒪᐑᔭ ᒪᐢᑭᐦᑮᐏ ᓇᓈᑑᐦᑲᐏᐣ, ᐱᑯ ᒥᔪᐍᔨᐦᑖᑯᐣ ᐁ ᒫᒧᐏ ᐊᔮᔦᐠ.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "ᒥᔪ ᐊᐱᒃ ᐁ ᐑᒋ ᐊᐱᔦᐠ.",
+      "ᓇᐚᓱᐘᑖ ᐃᔑ ᔦᐦᔦᐏᐣ: ᐯᐦᑳᒡ ᐊᐦᐳ ᑫᓯᑲᐤ.",
+      "ᑖᐦᒋᓇ \"ᒫᒋᐦᑖ\". ᐲᐦᑐᑌᔦᐦᔦ ᐁ ᒥᓵᒃ ᐚᐑᔦᔮᐤ, ᒦᓇ ᐘᔭᐑᔦᐦᔦ ᐁ ᐊᐱᓯᓰᒃ.",
+      "ᐅᐑᔭ ᐴᓂᐸᔨᐤ ᓂᑯᑤᓯᒃ ᔦᐦᔦᐏᓇ ᑮᓯᐸᔨᑫ, ᐊᐦᐳ ᑖᐦᒋᓇ \"ᐴᓂᐦᑖ\" ᐃᐢᐱ ᑫ ᓂᑕᐍᔨᐦᑕᒪᓀ."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "ᑖᐦᑯᓂᑐᒃ ᑭᐢᐱᐣ ᐁ ᒥᔮᐍᔨᐦᑕᒼᐤ ᐊᐘ ᐊᔨᓯᔨᓂᐤ.",
+      "ᓇᒪ ᐑᑳᒡ ᓯᐦᑭᒥᐍ. ᑭᐢᐱᐣ ᐁ ᓅᒋ ᐚᐸᐦᑕᒼᐤ, ᒥᔮᓯᐣ ᐁᑯᓯ.",
+      "ᑭᐢᐱᐣ ᐊᐘᒃ ᐋᔨᒥᐸᔨᐤ ᐁ ᔦᐦᔦᑦ, ᔦᐦᔦᐤ ᑳ ᐃᔑ ᑭᐢᑫᔨᐦᑖᑯᓯᑦ ᒦᓇ ᐱᑯ ᐚᐸᐦᑕᒼᐤ ᐚᐑᔦᔮᐤ. ᑲᑫᐦᒋᒫᐤ ᒪᐢᑭᐦᑮᐏᔨᓂᐤ ᑭᐢᐱᐣ ᑫᑰᐣ ᐋᔨᒥᐸᔨᐤ ᔦᐦᔦᐏᓂᐦᒃ."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "ᐅᒪ ᓇ ᒪᐢᑭᐦᑮᐏ ᔦᐦᔦᐏ ᐋᐸᒋᐦᒋᑲᐣ?",
+        "a": "ᓇᒪᐑᔭ. ᐯᔭᑯᐚᐣ ᐴᓂᐸᔨᐏᐣ ᐁ ᐯᐦᑳᔨᐦᑖᑯᐠ ᒦᓇ ᐁ ᐑᒋᑑᓈᓂᐘᒃ. ᓇᒪ ᓇᓈᑑᐦᑲᐍᐤ ᓰᐦᑫᔨᐦᑕᒧᐏᐣ ᐊᐦᐳ ᑯᑕᒃ ᐋᐦᑯᓯᐏᐣ. ᐋᔨᒧᒥᒃ ᒪᐢᑭᐦᑮᐏᔨᓂᐤ ᒥᔪᐊᔮᐏᐣ ᑫᑰᐣ ᐋᔨᒥᐸᔨᑫ."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "ᐅᐑᔭ ᓇ ᒫᒋᐸᔨᐤ ᐚᐑᔦᔮᐤ ᐁᑲ ᑭᔭ ᐁ ᒫᒋᐦᑖᔭᐣ?",
+        "a": "ᓇᒨᔭ. ᓇᒫᑕᐠ ᑫᑿᐩ ᑳᐹᐸᒥᐸᔨᐠ ᐹᒪᐍᐢ ᑭᓵᒫᓇ Start, ᒦᓇ ᓇᑭᐸᔨᐤ ᐃᐢᑿ ᓂᑯᑤᓯᐠ ᔦᐦᔦᔭᐣ ᐊᐦᐴ ᑭᐢᐱᐣ ᑭᓵᒫᓇ Stop. ᑭᐢᐱᐣ ᑭᑌᐦᑲᓇᐹᐱᐢᑯᐢ ᑫᓇᑫᓯᑲᑌᐠ ᑳᐹᐸᒥᐸᔨᐠ, ᐃᑘᐏᓇ ᒣᐢᑿᒋᐸᔨᐘ ᓅᐦᒋ ᐚᐏᔦᔮᐤ ᒥᓵᐸᔨᐠ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ᑯᓂᑕ ᒋ, ᒦᓇ ᓂᑕᐍᔨᐦᑖᑿᐣ ᒋ ᒪᓯᓇᐦᐃᓱᔮᐣ?",
+        "a": "ᐁᐦᐊ, ᑯᓂᑕ, ᒦᓇ ᓇᒨᔭ ᐃᑕᐠᐘᐣ account, sign-up ᐊᐦᐴ download. ᐋᐸᑎᐣ web browser ᑭᑌᐦᑲᓇᐹᐱᐢᑯᐢ, tablet ᐊᐦᐴ ᒪᓯᓇᐦᐃᑫᐚᐱᐢᑯᐢ ᐴᒋ."
       }
     ]
   }

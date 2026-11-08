@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "yadā martiyō manō-vərəzō nmānem gantum pərəsaiti"
+seoTitle: "nmānem gantum pərəsaiti: cit̰ vaocāma"
+description: "ciθra martiyō nmāne ahmī aipipərəsaiti nmānem gantum, cit̰ vaocāma, vərəzyā rāmayanti, utā yaθa drvō haurvaiti yadā fracaraiti."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  yadā martiyō yahe manō miθō vərəzyaiti nmānem gantum paiti-pərəsaiti,
+  "nmānem" bawaeiti a-təbaēšahe manō ayāp pairyō-zravā nmānam, nōit̰ katahe asti.
+  mā paiti-ərənauš aēte nmāne santi. manō gərəzanam zānahi, vaoca tvām drvō ahi,
+  pərəsa nmānahe raθwiya, pascaēta nərəbuyō patifracā paiti-cisi, haurvąm fra-vācim,
+  xᵛarəθam, caratam ayāp yāskəm. pərəsa šudəm, taršnam, maēzam ayāp duxram.
+  yezi afrasāxštō pairi-bavaiti, baēšazəm zbayahi.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "\"nmānem gantum vasəmi\" bawaeiti \"nōit̰ a-təbaēšo ayāp rāmo ahmi,\" nōit̰ nmānahe gātuš."
+  - "paiti-ərənuiš aēte nmāne santi aipiča a-ramnahe daδāiti. manō-sahvahe paiti-vaoca."
+  - "vaoca aēibyō mrūire nmānahe raθwiya, pascaēta daδāhi patifracā, vācim, xᵛarəθam, caratam ayāp kərənaoiti."
+  - "haurva cišciţ yō vīraozyeiti: šudəm, taršnam, maēzam, sādrā, garəməm ayāp saotəm, xšnaoθrəm, šaocəm."
+  - "yezi aipi-xšafne pairi-bavaiti, raocō-vīkāšahe asti; dašnō daθrō utā uxšan raocō avayeiti."
+  - "drvō haurva yezi bərəjaiti fra-caraiti, utā baēšazəm zbayāhi afrasāxštahe parō-karštō."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "ciθra mātā yahe manō miθō vərəzyaiti nmānem gantum paiti-pərəsaiti yadā nmāne ahmī asti?"
+    a: "manō-vərəzō dəmānam xᵛaēpaithyō an-āzātō karanaoti, utā martiyāka aipiča manente aipizrvāne parō-ayānō. \"nmānem\" bawaeiti apərənāyuhe katahva ayāp drvatātam utā a-təbaēšəm manō. ahmāi sahvānē paiti-vacō vaheh asti yaθa aēibyō didašti yaθa ahmī santi."
+  - q: "cit̰ vaocāma yadā aēte pərəsaiti nmānem gantum?"
+    a: "mrūhi \"aδa drvō ahi, utā azəm tvām nipāmi,\" pascaēta \"vaoca mē nmānahe raθwiya.\" srvahi, patifracā ayāp vācim fra-daδāhi, utā xᵛarəθam xᵛastahe ayāp caratam kasukəm daδāhi. pairi-hara \"tvām nmāne ahi\" yaθa arəzānō, yō aēibyō sahyāiti aēte duš-ravanhō santi."
+  - q: "aipi ərəžūm nōit̰-aša mruye ku nmānem pasca aipyeiti?"
+    a: "hazaŋhō utā handāmāna paiti-frasi vīvānante. paoirī ašəm vīspō-rāmam utā vahehim paθam daδente, utā rāmyam a-zrvānam daδente yadā ərəžūm bīməm daδāiti yim martiyō nōit̰ vīraozyeiti. yaθa vasahi, hu-manō utā a-vərəzō bva, utā mā zāxšyąm daδāhi aēšąm haithyāi."
+  - q: "yezi katahe frā-carənti cit̰ kərənava?"
+    a: "ramna bva utā hada aēibyō cara mā aēibya paiti-stāna; carahe kasukō aipiča vasnam rāmāiti. haurvō-daθrəm parō zrvāne nidaδāhi, yaθa nāman-aivi-xšnaoθram, dvarō-avānam, utā patifracā nūnam. yezi vī-merəncite, pasca zbayahi, utā 112 zbayahi yezi 15 zrvā-kasvō nōit̰ vindo, mrūhi martiyō manō-vərəzō asti."
+  - q: "kaδā baēšazəm zbayāma?"
+    a: "baēšazəm aēšąm mošu zbayāhi yezi pərəsano ayāp a-zanditātō afrasāxštō pairi-bavaiti ayāp asnim-zrvāne duš-vərəzō bavaiti, aipiča tapahe, nūna-baēšazahe, ayāp maēza-pahišhe daxštāiš. afrasāxšto duš-manō bavaiti dāman-āpātō yō mošu baēšazəm vaśmi. 112 zbayāhi yezi kascit̰ bīmō-patitō asti."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+"nmānem gantum vasəmi." pouru-hazaŋhibyō aēte vāxš saxtō sraomanē asti, aipiča yadā martiyō yim nipāhi xᵛaēpaithye hanjamane āmata asti. vīspā-zrvāne bavaiti ahmī yaēšąm manō miθō vərəzyaiti, utā rāma, hu-kərəta paθā santi yaθa paiti-vaocāma. aēva paitišmarana dašnāiti cit̰ tē vācō sahyante, cit̰ vaocāma, vərəzyā yā ahmī zrvāne avayeiti, utā yaθa drvō haurvaiti.
 
-## Why does someone with dementia keep asking to go home?
+## ciθra martiyō yahe manō miθō vərəzyaiti nmānem gantum paiti-pərəsaiti?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+paoirī, "nmānem" sahyate sahvanəm nōit̰ aēva katahva. Alzheimer's Society dašnāiti yaθa a-təbaēšəm utā drvatātam, ayāp parō-zrvāhe nmānam, nōit̰ gātuš aēva. manō-vərəzō dəmānam xᵛaēpaithyō an-āzātō karanaoti, utā martiyō aipiča manente aipizrvāne parō-ayānō, yadā nmānem apərənāyuhe katahva bavat̰ ayāp yaθa frazaintīm harire.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+aēte vācō aipiča dašnente cišcit̰ anyō nūnam dafna asti: šudō, taršno, maēzam vasəmi, sādrāhe asti, hāmō ayāp saoto, šaoco, aēvō-caratō, tarsu, ayāp xšnauθrahe vərəzō. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) sädrā, xšnauθrəm, aēvō-caratam, daθrahe parō-karštəm utā baēšazā paiti a-ramnahe dašnāiti.
 
-## What should I say when they ask to go home?
+## cit̰ vaocāma yadā aēte pərəsaiti nmānem gantum?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+manō-sahvahe paiti-vaoca, nōit̰ aēva vācim. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) paiti-sahvāiti mā paiti-ərənauš aēte a-dāta santi: sahyam aēšąm haithīm asti, pascaēta a-təbaēšam utā rāmam daδāhi, pascaēta nərəbuyō vərəzyahi.
 
-Phrases that often help:
+vācō yā avayeiti:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **nāman sahyam.** "sravate yaθa nmānem aivi-pərəsi."
+- **a-təbaēšəm daδāhi.** "aδa drvō ahi, utā azəm tvām nipāmi." [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) kaskəm vācim dašnāiti "aδa drvō ahi."
+- **parō-zrvānam pərəsa.** "vaoca mē nmānahe raθwiya. cit̰ gātava xᵛarəθō-dānahe bavat̰?" pərəsano parō-zrvānahe vaheh asti yaθa nūna-ayānō.
+- **hada kərənava.** "paoirī xᵛarəm hu-xᵛarəθam," ayāp "aipi mām avayahi aēibyō vastraēibyō?"
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+garəmō xšnaoθrō utā zasto paiti bāzāu, yezi drafšəm xšnāute, frayō yaθa vācō vaocāiti.
 
-## What should I avoid?
+## cit̰ pairi-harāma?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **paiti-ərəno ayāp sahvano.** "aδa nūnam naono ahi" ayāp "aēte nmānem tvām 40 sardō asti" aēibyō pərəsa yō manō-vərəzō saxtō gərəwnāiti, utā sahyāiti aēte duš-ravanhō santi.
+- **paiti-pərəso.** "nōit̰ paitišmarahi?" ayāp "cit̰ asti nāman-gātuš?" bīməm daδāiti.
+- **dvarəm paiti-apayeiti tərəsantō.** yezi aēte bərəjaiti frā-carainti, rāma bva utā hada aēibyō cara. carahe kasukō hada vasnam rāmāiti.
+- **mošu kərənaoiti.** zrvānem aēibyō daδāhi nmānahe mravāi parō yaθa vācim vīraozyahi.
 
-## Activities that can help in the moment
+## vərəzyā yā ahmī zrvāne avayeiti
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+yadā manō-sahvahe paiti-vaocāhi, rāma utā xᵛāstā vərəzyā manō vī-vārayeiti mā apanasyeiti.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **patifracā nmānahe utā nərąm dīda.** paiti-vərəte vərəzahi utā mrūhi ("dīda aēte pairi-dāza") mā paiti-pərəsa. paiti karana-vastra ayāp daxtō, [Photo pairs](/games/photo-pairs/) xᵛaēpaithyō patifracā rāmō paiti-dānam kəranaoti, utā patifracā ahmī dāštare paitište.
+2. **mrūhi nmānahe raθwiya.** [Conversation cards](/games/conversation-cards/) rāmō-vācim daδāiti nmānahe, xᵛarəθō-dānahe, vīsahe utā rathye, a-yāskahe paiti-vacō.
+3. **srāvaya vācim yim xšnauva.** National Institute on Aging rāmō-vācim ahmī dašnāiti yā a-ramnam paurva-daδāiti. dīda mahyā [music activities](/activities/music/).
+4. **xᵛara xᵛarəθam ayāp xᵛana.** šudō utā taršno a-ramnō sahyāiti. xᵛarəθahe kasukō ayāp hu-xᵛarəθam nmānahe aipicarahe yāskəm asti.
+5. **cara ayāp ahmī raocan-gātu nidaδa.** vərəzō utā hvare-raocō avayeiti, frapairi ahmī zrvāne ayānō.
+6. **daδāhi xᵛāstəm kərəfe.** hām-kərəti vastra, a-duš-daθra kərefe, ayāp urvarąm āpəm daδāhi nmānahe vərəzəm paitišmarayeiti.
+7. **vispəm rāmaya.** a-raoca tivi, kaska xšnauθrəm utā saocəm, utā hada [calm breathing](/games/calm-breathing/) rāmayahi.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+yezi aēva vərəzyā nōit̰ avayeiti, pasca anyō kərənava. hada a-vacō āmata vaheh aipi-daštəm asti.
 
-## Check for a cause you can fix
+## haurva cim yim vīraozyeiti
 
-| Check | What to try |
+| haurva | cit̰ kərənava |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| šudo ayāp taršno | daδāhi xᵛarəna utā xᵛarəθam kasukəm |
+| maēzam vasəmi | maēza-gātum daδāhi, rāma utā an-arəzānō |
+| sādrā ayāp duš-sahvano | dīda daxtəm yaθa kaša, tanum drājayanti ayāp a-maēza, utā baēšazəm zbayāhi |
+| hāmō ayāp saoto | vastram ayāp katahe garəmō vīraozya |
+| xšnauθrō ayāp an-aēvo | para-cara ahmī rāmō-kata, a-raoca tivi |
+| šaoco ayāp a-ramno | āsanhva, katahva raocō nidaδa, rāma-vācim srāvaya |
+| aipi-xšafne | dīda aipi-xšafnahe sarəm parō |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society dašnāiti paitišmaranahe ni-paθəm kərənava yadā pərəsano pairi-bavaiti, yaθa parō xᵛarəθa, pasca aipicarana, ayāp asnim-zrvāne. daθrahe haurvāiti parō-kərətam hu-vərəzo kəranaoti.
 
-## Is it okay to tell a white lie?
+## aipi ərəžūm nōit̰-aša mruye daθra asti?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+aēte paiti-frasō haithyō asti, utā vīspō-rāma hazaŋhō vī-vīcitō daδente. Alzheimer's Society dašnāiti aēva vərəzō nōit̰ asti: nōit̰-aša mruye kascit̰ nərəbuyō tarštō kəranaoti, pascaēta vahehim kərəkeranəm aēšąm bva utā an-aipicarə bva. Penn Memory Center sahyāiti ašəm paoirī asti utā rāmyam nōit̰-ašəm daθra asti aēva yadā martiyō aēte ašəm nōit̰ vīraozyeiti, utā mā zāxšyąm daδāhi aēšąm haithyāi.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+pouru nipātarō miθō-paθam vindente: ašō a-təbaēšəm utā vahehim paθam paoirī ("aδa ahmī xšafne dārayāma, utā azəm tvām hada ahmi"), mā paiti-ərənauš nmānahe gātuš.
 
-## What if it happens every afternoon or evening?
+## yezi aipi-xšafne vispāi pairi-bavaiti?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+a-ramnō yō aipi-xšafne pairi-bavaiti sundowning sahyate. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) dašnāiti dašnō daθrō, ayānō hvare-raocō utā vərəzyā, kasvō aipi-xšafnahe xvafnō, utā mā garəmō-āp ayāp madəm aipi-xšafne. a-raocan parō asnim-zrvāne aipi avayeiti. mahyā paθā ahmī [calm late-afternoon activities](/caregiving/late-day-restlessness/) pouru dārayaiti.
 
-## Keeping them safe if they try to leave
+## drvō haurvaiti yezi bərəjaiti fracaraiti
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+nmānem gantum paiti-pərəsa bərəjaiti frā-caratam daδāiti. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) dašnāiti 6 ahmī 10 martiyāka yaēšąm manō miθō vərəzyaiti aēvavāra frā-carənti.
 
-**Prepare ahead:**
+**parō-daθra kərənava:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- aivi-xšnaoθrahe bāzu-dānahe hada nāman utā aipicara-sraoma, utā vastrahva dāxštā. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) MedicAlert utā Alzheimer's Association Safe and Found dašnāiti, yō šaēte daδāiti.
+- dvarō-avānəm ayāp xšnauθrəm, utā dvarō-dāna bərəzō ayāp nərəzyō nidaδa. mā aēvō martiyō katahva aipicara.
+- patifracā nūnam dāraya, utā nāman-gātuš yaθa aēte caranti, yaθa parō-nmāna ayāp kərkerana.
+- mrūhi a-duš-vīsahe nərəbuyō, utā aipicara-sraoma daδāhi.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**yezi vī-merəncite:** mošu aipicisi; Alzheimer's Association dašnāiti pouru martiyāka 1.5 pairi-dāzahe vindente. yezi 15 zrvā-kasvō nōit̰ vindo, 112 zbayahi utā mrūhi martiyō manō-vərəzō asti. 112 mošu zbayahi yezi kascit̰ bīmō-patitō asti.
 
-## When should I call a doctor?
+## kaδā baēšazəm zbayāma?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+baēšazəm aēšąm mošu zbayāhi yezi pərəsano ayāp a-zanditātō afrasāxštō pairi-bavaiti, ayāp asnim-zrvāne duš-vərəzō bavaiti. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dašnāiti afrasāxštahe ayāp duš-daθrahe shiti, frapairi pasca yāskəm ayāp nūna-baēšazəm, mošu haurvaiti vaśmi. afrasāxšto duš-manō delirium bavaiti, yim [NHS](https://www.nhs.uk/symptoms/confusion/) dašnāiti mošu baēšazəm vaśmi; maēza-pahišhe yāskō pouru-zrvāne ahmī parō-ayānō asti.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+aipiča avayeiti aēte daθrəm mrūire yadā pasca baēšazəm dīdahi, yezi sādrā, duš-manah, xvafnahe yāskō ayāp baēšazahe dafna vərəzyānti.

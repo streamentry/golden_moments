@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Адеменциа змау ауаҩы ес-кәы уи азҵаара данызҵаауа"
+seoTitle: "Адеменциа змау ес-кәы дзызҵаауа: иҳәатәуи иҟаҵатәуи"
+description: "Избан адеменциа змау ауаҩы ес-кәы уи азҵаара дзызҵаауа, маҷ-маҷ аҭак аҭара, ицхыраауа амаругаақәа, насгьы аҳақьым иҟны аҵаара шаҭахху."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Адеменциа анеиԥыло ес-кәы азҵаарақәа раҭара лассы иҟалоит: ауаҩы лассы-лассы дшазҵааз игәалашәаӡом, азҵаарагьы гәҭынчымра аҵазар ауеит. Раԥхьаӡа акәны иаҳазшәа, маҷ-маҷ иҭынчны аҭак ҟашәҵа, уи иаҵоу агәазыҳәарагьы ишәаԥхьаӡа, «уажәшьҭа уазҵаахьеит» ҳәа шәымҳәан. Аҭак избо аҭыԥ аҟны иҩны ишәырба, ахҭысқәа рганахьала аухаҵарақәа раԥхьа мацара шәрылацәажәа, насгьы гәырӷьарак зауа аусқәа рзышәырша. Иԥсабаратәым аԥсахрақәа раан аҳақьым иҟны аҵаара аҭахуп.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Ауаҩы лассы-лассы дшазҵааз игәалашәаӡом; уи хычҳарала иҟаиҵоӡом."
+  - "Азҵаара аҩныҵҟа лассы гәазыҳәарак аҵоуп, уахь уцаразы агәҭынчымра, ма ашәарҭадара аилкаара."
+  - "Раԥхьаӡа шәеиԥш, маҷ-маҷ, гушаҭала, иҭынчны аҭак ҟашәҵа. «Уажәшьҭа уазҵаахьеит» ҳәа шәымҳәан."
+  - "Ирбо аҭыԥ аҟны иқәыргылоу асалам шәҟәы, аҩырҭа даска, асааҭ, ма амзар шәара шәҭыԥан аҭак аҭара ацхыраауеит."
+  - "Агәҭынчымра зцу аусқәа рганахьала урҭ раԥхьаӡа мацара шәрылацәажәа."
+  - "Шәара шәхаҭа аԥсшьара анешәҭаху аамҭа кьаҿк шәаҟәыҵ, иԥсабаратәым аԥсахрақәа раан аҳақьым шәизааигәаха."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Избан адеменциа змау саб ес-кәы уи азҵаара дзызҵаауа?"
+    a: "Адеменциа иахҟьаны агәалашәара аԥсыҽхоит, убри аҟынтә уи дшазҵааз, ма аҭак шиаҳаз иашаҵәҟьаны игәалашәаӡозар ҟалоит. Лассы-лассы азҵаара аҩныҵҟа гәазыҳәарак аҵоуп, уахь уцаразы агәҭынчымра, ма аҭынчра аҭахра. Афактқәа реиҭаҳәара аасҭа, уи игәазыҳәара уҭакланы уацәажәара лассы ицхыраауеит."
+  - q: "Уажәшьҭа уазҵаахьеит ҳәа иасҳәалар аума?"
+    a: "Мап. Уи агәалашәара иацхырааӡом, насгьы уахь даара ицәгьоу ахыҵхчарахәыцра еиԥш ирбозар ауеит. Адеменциа иазку аиҿкаарақәа есымша раԥхьаӡа акәны иаҳазшәа иҭынчны, кьаҿны аҭак аҭара шәабжьаргоит."
+  - q: "Аҭак шәҟәыла анҵара ицхырааума?"
+    a: "Ауаҩы аԥхьара шилшо аамҭазы ицхыраар алшоит. Асалам шәҟәы, иахьатәи аплан зну адаска, дуу асааҭ, ма лассы-лассы ихылаԥшуа амзар шәаҭак рхала иргәаҭарц алшара рыҭоит. «Уажәшьҭа иусҳәахьеит» ҳәа шәымҳәакәа, гәшаҭала уахь ишәырба."
+  - q: "Аҳақьым иҟны анеира, ма ауада аҩныҵҟантә адәылҵра рганахьала анбаҳәатәу?"
+    a: "Аамҭа анзааигәахо. Аҳақьым иҟны анеира, ма адәылҵра уахә-сааҭ раԥхьа иазкны аҳәара агәҭынчымра зцу сааҭқәала азҵаарақәа раҭара иахылҵыр ауеит. Ус ҟалара аԥхьа мацара, иҭынчны, анаҩс иҟало ахҭысқәа шәрылацәажәа."
+  - q: "Ес-кәы азҵаарақәа раҭара аҳақьым дзааԥхьатәу шьаҭас анҟало?"
+    a: "Азҵаарақәа, ахшыҩ агәашәара, ма аҭагылазаашьа сааҭқәак ма уахә-сааҭқәак рыҩныҵҟа ԥсабаратәымкәа иԥсахзар, ма ицәгьахазар, шәҳақьым лассы шәизааигәаха. Аинфекциа, аԥсыҽра, ачымазара ҿыц, ахәшә ҿыц, ахьаа, агәаԥхасра ма аӡы азымхара делириум ҳәа изоубо, ирласны ахәшәтәра зҭаху агәашәара ду ырҿиар алшоит."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +53,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+«Аҳақьым иҟны анбааиуа?» Жәа-минуҭ рышьҭахь: «Аҳақьым иҟны анбааиуа?» Уи цәаҳәала уи азҵаара аҳаҭыр уаҳара — адеменциа змау ауаҩы ихылаԥшраҿы зегь реиҳа ауадаҩрақәа ируакуп. Уи лассы иҟалоит, хычҳарала иҟаҵоӡом, насгьы шәара шәҩыџьагьы ари амш шәзырмариахарц аҭынчра аҭара алшарақәа ыҟоуп.
 
-## Why does someone with dementia ask the same question over and over?
+## Избан адеменциа змау ауаҩы ес-кәы уи азҵаара дзызҵаауа?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Зегь реиҳа агәалашәара иахҟьоит. Адеменциа агәалашәара кьаҿ иаԥырхагоуп, убри аҟынтә ауаҩы дшазҵааз, ма аҭак шыҟаз лассы-лассы игәалашәаӡом. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) агәҭаҵәахқәа раҭара лассы иҟало, азыԥшыра змоу уск акәны иахцәажәоит.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Азҵаара лассы-лассы агәазыҳәарагьы аҵазар ауеит. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ишаҳәо ала, еиҭазҵаауа азҵаара агәҭынчымра, ацхыраара аҭахра, ма агәаҟра, ашәарҭадара азымхара аарԥшыр алшоит, насгьы ауаҩы лассы-лассы аҭынчреи еицырдыруеи аҭыԥқәа дрышьҭоуп. «Ҳанцозеи?» ҳәа аҵаара «Сара сцара сгәы каҳауеит» ҳәа анаҩс иаанагар алшоит. Агәҭынчымра, ашәара, ашара, амш еиҿкаашьа аԥсахра уи ырҿиар алшоит, насгьы ес-кәы аҭара аҭаххара аарԥшыр алшоит, иаҳҳәап, ауадахь анеира ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Иҳәатәуи сара?
 
-Answer calmly and briefly, as if it were the first time.
+Раԥхьаӡа акәны иаҳазшәа, иҭынчны кьаҿны аҭак ҟашәҵа.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Аҭак кьаҿны, еснагь еиԥшны иаанымкылан.** «Аҳақьым ҩба сааҭ рзы дыҟоуп. Сара уацны сыҟоуп». Еснагь еиԥшу аҭак аилкаара мариоуп.
+- **Агәазыҳәара аҭак аҭара.** «Уара аҳақьым иганахьала уазхәыцуеит. Уи уахьа шәарахь иҟоуп, сара уахь унасгап. Уара иуҟаҵатәу акгьы ыҟаӡом».
+- **Бзиабара зцу абжьы, гәшаҭала адкьыслара шәхы иашәырхәа,** ауаҩы уи бзиа ибозар. Alzheimer's Association иҭынчны шәаанхаларц, алогика шәамхылаԥшкәа, еиҿагылара шәаламгарц агәра ишәыргоит.
+- **Дзышьҭоу аҭак ҟашәҵа,** шаҟа иаҭаху еиԥш. Alzheimer's Association ишаҳәо ала, дара шаҟа џьара иазҵаауа еиԥш уи шәеиҭаҳәа.
 
-## What should I avoid?
+## Иацәцатәуи сара?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **«Уажәшьҭа уазҵаахьеит».** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) уажәшьҭа дшазҵааз агәалашәара шәацәцаларц агәра ишәыргоит. Уи агәалашәара иацхырааӡом, насгьы уахь ахыҵхчарахәыцра еиԥш ирбозар алшоит.
+- **Ахцәажәара дуқәа.** Еиҳа ажабжьқәа шаҟа уҳәо, еиҳа игәалашәаӡом.
+- **Аԥсыҭынчра, аблақәа ргәашәара, ма аҵыхәа змам абжьы.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ачҳара аарԥшреи, агәаҟра анымҵхра шәабжьаргоит. Уи уадаҩуп; убри азы аԥсшьара иазку ахәҭа шәаԥхьа.
 
-## Simple tools that answer the question for you
+## Шәара шәҭыԥан аҭак зҭо имариоу амаругаақәа
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Ауаҩы аԥхьара шилшо аамҭазы, ирбо аҩырала иҟоу аҭак аҳәара аасҭа лассы ицхыраауеит.
 
-| Tool | How to use it |
+| Амаруга | Шьаҿала ихархәашьа |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Дуу нбанла иҩу асалам шәҟәы | «Иахьа ҩба сааҭ рзы аҳақьым. Мери ҳашьҭалоит». Лассы ихылаԥшуа аҭыԥ аҟны иқәыргылатәуп |
+| Аҩырҭа даска | Хԥа-ԥшь цәаҳәак рыла иахьатәи аплан; есышьыжь еиҭаҩлатәуп |
+| Амши арыцхәи зну асааҭ ду | «Иахьа иарбан мшузеи?» насгьы «Аамҭа ааитма?» азҵаарақәа ирыцхыраауеит |
+| Амзар | Есымш шәҿах; анаҩстәи аҭаара шәақәырша |
+| Еицырдыруа афотосахьақәа | Иаауа ауаҩы исахьа «Дарбан иахьа иаауа?» азҵаара аҭак аҭоит |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Арҭ аидеиақәа [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) реиԥш, [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) рҟынтәи иаагоуп. «Уара узы ианҵоуп» ҳәа шәымҳәакәа, гәшаҭала асалам шәҟәы уахь ишәырба («Ҳаицны адаска ҳахәаԥшып»).
 
-## Tell them about events close to the time
+## Ахҭысқәа рганахьала аамҭа анзааигәахо мацара шәрылацәажәа
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Аҳақьым иҟны анеира, ма адәылҵра уахә-сааҭ раԥхьа иазкны аҳәара агәҭынчымра зцу сааҭқәала азҵаарақәа раҭара иахылҵыр алшоит. Family Caregiver Alliance реиԥш Alzheimer's Los Angeles ргьы апланқәа, еиҳарак агәҭынчымра зцу аҳақьым иҟны анеира ма аӡсра еиԥш иҟоу, урҭ раԥхьа мацара шәрылацәажәа ҳәа агәра ишәыргоит. Нас анаҩс иҟало, шьаҿа-шьаҿала шәрылацәажәа.
 
-## Activities that can shift attention
+## Ахшыҩзышьҭра зԥсахуа аусқәа
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Аҭак ҟашәҵанеи агәазыҳәара шәахцәажәанеи ашьҭахь, иҭынчу, гәырӷьара змоу аус ацхыраар алшоит, еиҳарак азҵаарақәа ршьҭахь агәҭынчымра ма арыцҳахара ыҟазар. Хыхь иарбоу ахыҵхырҭақәа зегьы ауаҩы бзиа ибо аганахьала дриашара шәабжьаргоит.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Еицыхәмарра кьаҿы, имариоу.** [Picture pairs](/games/picture-pairs/) асахьақәа рбан, убри аҟынтә игәалашәатәу акгьы ыҟаӡом.
+2. **Еицырдыруа аус.** Амаҭәақәа реиҿкаара, аилаҳәарақәа реилкаара, ма астол аҿацәашьара. [Sort together](/games/sort-together/) ари экран ала иҟоу вариантуп.
+3. **Бзиа ирбо уск шәахцәажәа.** [Conversation cards](/games/conversation-cards/) аиашатә ҭакқәа змам, аарту азҵаарақәа аанарԥшуеит.
+4. **Амузыка, адәылҵра, ма афатә.** National Institute on Aging ари имариоу ариашарақәа реиԥш иаанарԥшуеит.
+5. **Аҭынч аԥсшьара.** Еицытәала, аԥенџьыр шәахәаԥш, ма еицыҟашәҵа [calm breathing](/games/calm-breathing/) аамҭа.
 
-If they return to the question, answer it again, kindly. That is fine.
+Дара уи азҵаара еиҭа рыҭар, шәагьы гәшаҭала аҭак шәырҭа. Уи бзиоуп.
 
-## Look for patterns
+## Аамҭақәа шәрыцклаԥш
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association ишаҳәо ала, азҵаарақәа амш цыԥхьаӡа иарбан сааҭу, џьара ауаа раан ма иарбан ҭыԥқәа рҿы иҟало шәгәаҭа. Урҭ еснагь асасцәа рааира раԥхьа, ма амш ахәылбжьа раан иҟалозар, шәара аԥхьаӡа иплан шәҟаҵар алшоит: асалам шәҟәы, еицырдыруа аус, ма еиҳа иҭынчу ауада. Ҳара ҳабжьгарақәа [calm late-afternoon activities](/caregiving/late-day-restlessness/) ахәылбжьақәа уадаҩны иҟазар шәыцхыраар алшоит.
 
-## Take care of yourself
+## Шәхаҭа шәхы шәаҷыда
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Уи азҵаара ҩажәантә аҭак аҭара даара ауаҩы даԥсахуеит. Шәачҳара шнымҵхо шәбозар, ауаҩгьы шәарҭара даҭамзар, сааҭқәак даҽа уадак ахь шәнеины шәыԥсы шәаҟәыҵ, [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) ишаҳәо ала. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ахылаԥшцәа ацхыраара рыҳәарц, насгьы аԥсшьара аамҭа ахархәара шәабжьаргоит. Еиҳа аидеиақәа ҳара ҳаҟны иҟоуп [caregiver self-care guide](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Аҳақьым сзааԥхьаӡозеи?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Азҵаарақәа, ахшыҩ агәашәара, ма аҭагылазаашьа сааҭқәак ма уахә-сааҭқәак рыҩныҵҟа ԥсабаратәымкәа иԥсахзар, ма ицәгьахазар, шәҳақьым лассы шәизааигәаха. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ишаҳәо ала, иԥсабаратәым ма иласны иҟалаз аҭагылазаашьа, еиҳарак аинфекциа ма ахәшә ԥсахра ашьҭахь, аҳақьым ирласны идырбатәуп. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) иахцәажәоит аинфекциа, ахәшәқәа, аӡы азымхара, ахьаа, ма агәаԥхасра делириум ырҿиар алшоит ҳәа, ари ирласны ахәшәтәра зҭаху ахшыҩ агәашәара ӷәӷәоуп. Аӡәы шәарҭара даҭазар 112 шәаси.

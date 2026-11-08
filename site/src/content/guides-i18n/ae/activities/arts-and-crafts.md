@@ -1,32 +1,30 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Hunarəmča vərəzyāča maš́yākaēibyo uši-darəte"
+seoTitle: "Hunara uši-darəte: maš́yānāhe, nōit apərənāyu"
+description: "Hunara vərəzyāča maš́yākaēibyo yaēibyō uši darəta, āpō-raŋha vərəzyāča vərəzayāča vanānąm, yā θwāhīštā aŋhən."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Vohu hunarəm vərəzyāča maš́yākaēibyo yaēibyō uši darəta maš́yānāhe baraiti:
+  āpō-raŋha, nimahe kərətō-naptāte, urvaranąm dāitiš, zəmatka vā.
+  Fradaza frasparəga hača ham-vaza, aēvaŋha mat hacate, aēšąm yō aipi hacaite.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Nisrinaētve aēta yā maš́yānāhe aŋhən, āpō-raŋha zaošō urvarača, nōit apərənāyunąm ayōkāra."
+  - "Framanyata ana vərəzya: raočasča, zəmatka xšnaoθra, garō-nmanača. Haosravahiš vərəzyō asti nōit dāityō."
+  - "Dāitiš paiti dāštrəm, aθa nāirikayāi vā taoxmāi vaedīm."
+  - "Haca aētayehe paititəm, aipi apa-hišta. Paity-āpəm vərəzyō hačaiti."
+  - "Nōit čīš vərəzya aēvada aŋhaiti frazāmi, yaθa tūšna vərəzayata."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Čiθa hunarəm maš́yānāhe gərəzaiti nōit apərənāyu?"
+    a: "Dāraya daθra dātō-xratu, maš́yāka vahištō framanyate. Paityāpəm raŋha, urvara vastrača nisrinaēte, nōit apərənāyu kərəfš. Mōrənda haomanahuya nōit yaθa apərənāyu."
+  - q: "Kā hunar-vərəzya vaŋhī aŋhaiti apara-dāite uši-darəto?"
+    a: "Hā-vərəzya suxta yā xšnuta baraiti: pərənō pairi-dāitiš kərəfš, zəmatka spanyah, urvara paiti čašmāne. Hacāte haxədra mat daxštaye."
+  - q: "Yezī aēte mruye nōit drājayemi pairi-kərəti?"
+    a: "Apa-nasa azdātem. Vərəzayata aēta yō nōit aēva dātō, yaθa āpō-raŋha vā urvaranąm handāitīš. Zbayata spara yō frašna aŋhaiti."
+  - q: "Aŋhən-e raŋhayen pərəna apərənāyubyō dāityō?"
+    a: "Nōit yezī maš́yākaēibyo dāta. Nisrinaēte pərəna maš́yāka zaotrom: pairi-daēza, vāša, urvara. Aēte pərəna hāmo-tāčat paitiš."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +46,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Hunarəmča vərəzyāča maš́yākaēibyo yaēibyō uši darəta dadāiti paiti-mərəitīm yā nōit paiti vāčim haiti. Alzheimer's Association aoi-mrūiti yaθa hunara vərəzya baraiti [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) uiti xva-fravašemča, nōit aēva aētahmāi yaēibyō uši darəta bā aēipiča spasi. Aipi dātem asti: maš́yānāhe, huzvāra, an-ažaŋhva. Aēte pərəna dadāiti vərəzyā, dāitīmča yā haca gəmo-paiti vərəzyāte.
 
-## What makes an art activity adult and not childish?
+## Čiš čaraiti hunarəm maš́yānāhe aŋhaiti nōit apərənāyu?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Maš́yānāhe hunar-vərəzya dadāiti dātidvahe daθra, maš́yānāhe varəzəm, aipi arədra uz-mrūitīm. Alzheimer's Association paiti-zbayaiti maš́yānāhe paiti dātem, apa-varəzayata vispəm yō kəhrpa apərənāyunąm daδāiti.
 
-| Feels childish | Feels adult |
+| Yaθa apərənāyu | Yaθa maš́yānāhe |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Frā-raoxšnō spito, cisti-pərəna, fravāši | Āpō-raŋha pərəna, vastra, yōi urvara fra-yanta |
+| Apərənāyunąm raŋha-pərəna | Pairi-daēza, vāša, urvara garō-nmana raŋha |
+| Fravāza hačimno "vohu čarətu" vispāi | Haš-haxədra: "Aēm vohu nilo paiti zaranim" |
+| Vərəzya an-aipi-vərəti | Vaedīm haxaye, nmanahe dāitiš, dāštrəm |
+| Fravacana yaθa dāte | Ham-vāza: "Vāurayō-me mat vərəzayehe?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Manayata aētayehe xva-zaoša. Yō vastra-vafya raocata xšnuta aŋhaiti vastrahe. Yō karšvare vərəzyata aipi raocata ham-dāitīm daθranąm.
 
-## Why focus on the process, not the product?
+## Čiš-rāti aoi vərəzyāte, nōit aoi frazāmi?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Yō hakat aŋhaiti zaošō asti. Alzheimer's Association paiti [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) mrūiti: aoi vərəzyāte, nōit aoi frazāmi. Paitiš yā "aēva nīla" asti paitya. Paitiš yā θrayo kərətā asti paitya.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Association aipi mrūiti yaθa pərətu-xratu aipi gərəzaiti yezī vərəzya ham-pərəseiti, bā a-frazāna maš́yāka nava raocana vindaiti. Yezī pərətu-xratu aŋhat, dāiti ańyō hunarō yaθa nōit paitiš aŋhaiti.
 
-## Arts and crafts ideas to try
+## Hunara vərəzyāča pairi-jasaēša
 
-Each idea includes how to make it simpler if it becomes hard.
+Vispa vərəzya dadāiti čiθa huzvāra aŋhaiti yezī təvīši aŋhaiti.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Āpō-raŋha vərəzyā.** Ni-zəmbaya pərəna āpō-raŋha pərəto, haca aētahmāi dadāt raŋha pərəno barō-zasta. Raŋha paiti xva tāčaiti, nōit aēva dātō hara. *Huzvāra:* dāiti dū raŋha, ayā āpa paiti təma pərəna.
+2. **Naptō-pərəna kərəti.** Frā-kərənta pairi-dāitiš hača gāθabyō vā vāšabyō vā yā aētahmāi zaoša. Fradaza xšnuta paiti ham-pərəna. *Huzvāra:* čaθwāro pərəna dadāiti, ham-vərəzayata zəmatka.
+3. **Urvaranąm dāitiš.** Alzheimer's Foundation of America paiti-zbayaiti [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) paiti pairi-dāitiš. Dāraya dāra-dāne a-drva vasō. *Huzvāra:* dāiti kərəti urvara aēvō-dāne paiti.
+4. **Vīzāraya urvara vaedīm.** Hazaŋrō-gāma urvara paiti pərəna antarə gāθa haptāiti, aipi zəmatka paiti vāvaedīm. *Huzvāra:* tū zəmatka dāiti, aēte urvara ni-dāiti.
+5. **Maš́yānāhe raŋha-pərəna.** Nisrinaēte pərəna yā ravō kərəfš dāiti. Ahmahe [coloring pages](/games/coloring/) aipi tačat paiti ayō-daēza. *Huzvāra:* stūra kərəfš, kəma raŋha.
+6. **Zəmatka vā hū-dāno.** Vərəzaya, pərəna, hū-dāiti zəmatka. Varəka paiti zəmatka dadāiti varəko-daxštəm. *Huzvāra:* aēva spārahe vərəzya asti. Paiti-dīš yaθa nōit aoi aša-zaoša baraiti.
+7. **Vaedīm kərəti.** Alzheimer's Association paiti-zbayaiti yaθa dāitiš haiti: "Vaedīm fravazāma haxaye. Vāurayō-me mat?" Kərətō-pərəna urvarača vohu caraiti.
+8. **Parō-ayata pərəna.** Parō-ayata paitiča gāθa paiti ham-dāite. Gərəza hača aēta. Dīš ahmahe [reminiscence guide](/activities/reminiscence/) paiti parō-drājayat.
+9. **Vastra xšnuta-dāne.** Dāzraya vastra spərəzenta paiti pərəna. Kərəti asti vərəzya; xšnuta aipi aŋhaiti ańya. Dīš ahmahe [sensory activities guide](/activities/sensory/).
+10. **Dāru huzvāra-vərəzya.** Yō dāru vərəzyata, spāre dāru paiti-vərəzya yā dāiti. Apa-naya tiziaršti, paiti-dīš.
+11. **Gāθa-paiti paitiš.** Gāθa fra-srāvaya zaošyo, paiti-drājaya raŋha yā mat gāθa hacaiti. Aēta dū vərəzyā ham-dāiti. Dīš [music activities](/activities/music/).
 
-## How do I set up an art session?
+## Čiθa fradaθāmi hunar-vərəzyā?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Fratarō fradaθa.** Frā-kərənta, ham-dāiti vispa parō yaθa zbayahi. Paitīš drājayata nōit vohu.
+2. **Kəma dāraya.** Dū vā θrayo raŋha, aēva zasta-barō, aēva pərəna. Vasō daθra gərəzaiti.
+3. **Paiti-hara mezəm.** Paiti-vərəta mezəm paiti vastra, nōit aŋhuzaŋhvō.
+4. **Paiti-arədra aŋhu.** Vərəzaya paiti xva vərəzya hača aētayehe. Haxədra asti, nōit spasyō.
+5. **Paititəm spara.** Alzheimer's Association mrūiti yaθa paititəm zasta-barō hacāte. Yezī paitita, vasō fra-yanta.
+6. **Fravaca hačimno.** Gərəza raočasča kərəfšča, apa-yasa frašna yaθa "Čiš aēm?".
+7. **Zaranya dārəga.** Nōit vərəzya aēvada aŋhaiti frazāmi.
 
-## How do I adapt art as dementia changes?
+## Čiθa vərəzya vərəzyāte yaθa uši-darəte vərənvaiti?
 
-| Stage | What tends to work | What to adjust |
+| Gātu | Yō caraiti | Čiš vərəzyāte |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Fratara | Daθra, raŋha-pərəna, paitiča, vaedīm | Dāraya zaoša; haxədra dāraya |
+| Maidya | Frā-kərəta, āpō-raŋha, urvara-dāitiš | Aēvō-gātu; tū kərənta zəmatkača |
+| Apara | Stūra barō-zasta, zəmatka xšnuta, vastra | Aoi haoma; zasta nemō zaošō |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS mrūiti yaθa apara-gātu vərəzyā huzvāra aŋhaiti uiti xšnuta baraiti. Paiti-dīš ańyō paitišča, aoi-mrūiti raŋha, haš-vərəzya asti. Vispa gātubyō dīš [activities for every stage](/activities/ideas/).
 
-## Safety with art supplies
+## Daθranąm drvatāt
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Nisrinaēte raŋha, zəmatka yā nōit viša baraiti.
+- Apa-dāraya tiziaršti, tiži-karəta, garəmō-zəmatka. Frā-kərənta xva-zasta parō.
+- Paiti-dīš yaθa nōit aša-zaoša baraiti raŋha vā zəmatka.
+- Dāraya an-dərəzra āpa-dāneča urvara-dāneča.
 
-## When should we stop?
+## Kadā apa-stāma?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Apa-hišta yaθa ušy-arəzō apa-yanta vā arəzō fra-vaxšaiti. Alzheimer's Association mrūiti apa-dāiti vərəzya yaθa ušy-arəzō apa-jasaiti. Ni-daθa vərəzya drvatāta, dadāiti ramnō. Aipi jasa ahmāi ańyō raocah, vā nōit paiti. Vispa vohu asti.
 
-## Display the work, if the person wants
+## Fradaθa vərəzyā, yezī zaošō asti
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Pərəna paiti dāiti vā paity-āpəm dāraya arədra spaso asti. Frasa parō. Yō zaošō baraiti paiti paitiš; ańyō nōit zaošaiti.
 
-## Pair art with our games
+## Hunara mat ahmahe ayōkāra
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Raocabyō yaθa daθra dāiti təvīši asti, [Coloring](/games/coloring/) vərəzyaiti ayō-daēza an-aŋhuzaŋhva. [Picture Puzzle](/games/picture-puzzle/) dāraya vispa paitiš čašmāne yaθa taoxma vareso. [Conversation Cards](/games/conversation-cards/) dadāiti frašna yā hača paitiš gāθa baraiti. Vispa aēte nōit zrvānəm nōit paitiš baraiti. Aipi pərəna parō-tāčaya hača ahmahe [printable activities](/activities/printable/) han-dāitiš.

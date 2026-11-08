@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "'n Rustige daaglikse roetine vir iemand met demensie"
+seoTitle: "Daaglikse roetine by demensie: 'n Buigsame voorbeeld"
+description: "'n Buigsame voorbeelddag vir iemand met demensie, met etes, aktiwiteite en rus in 'n vaste ritme, plus hoe om dit op moeiliker dae aan te pas."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  'n Rustige daaglikse roetine hou opstaan, maaltye, persoonlike versorging en
+  slaaptyd min of meer op dieselfde tye, plaas die hoofaktiwiteit wanneer die
+  persoon die wakkerste is, en balanseer aktiwiteit met rus. Bou dit op die
+  persoon se lewenslange gewoontes, hou dit eerder oop as oorvol, kry elke dag
+  daglig en beweging, en pas die plan vrylik aan wanneer die dag dit vereis.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Vaste tye vir opstaan, maaltye, versorging en slaaptyd gee die dag 'n bekende ritme."
+  - "Plaas die hoofaktiwiteit op die persoon se beste tyd van die dag, dikwels soggens."
+  - "Moenie elke oomblik volmaak nie. Rus en stil tye is deel van die roetine."
+  - "Daglig, daaglikse beweging en die vermyding van lang laat slapies en laat kafeïen kan dalk help met rusteloosheid laat in die dag."
+  - "'n Roetine is 'n riglyn, nie 'n wet nie. Ruil, verkort of slaan enigiets oor op moeiliker dae."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Waarom help 'n roetine vir iemand met demensie?"
+    a: "'n Voorspelbare dag beteken minder besluite en verrassings, wat vir baie mense wat met demensie leef gerusstellend is. Die Alzheimer's Association wys daarop dat 'n beplande dag jou minder tyd laat spandeer om uit te pluis wat om te doen, en meer tyd gee vir dinge wat julle albei geniet. Dit help versorgers ook om hul eie dag te pas."
+  - q: "Wat is 'n goeie daaglikse skedule vir iemand met demensie?"
+    a: "Daar is nie een enkele regte skedule nie. 'n Goeie een hou opstaan, maaltye en slaaptyd min of meer op dieselfde tye, plaas persoonlike versorging en die hoofaktiwiteit wanneer die persoon op hul beste is, sluit tyd buite of naby 'n venster in, en laat ruimte vir rus. Bou dit rondom hoe die persoon nog altyd geleef het."
+  - q: "Behoort iemand met demensie bedags te slaap?"
+    a: "'n Kort ruspose kan help, veral ná middagete. Die National Institute on Aging stel voor om lang slapies en doesery laat in die dag te ontmoedig, aangesien oormoegheid of swak rus kan bydra tot rusteloosheid teen die laatmiddag. As slaap 'n wesenlike probleem is, praat met hul dokter."
+  - q: "Wat as hulle weier om die roetine te volg?"
+    a: "Laat dit vir eers staan en probeer later weer of op 'n ander manier. Om te weier kan beteken dat hulle moeg is, onwel voel, pyn het of bloot nog nie gereed is nie. Die roetine is daar om die dag makliker te maak, so pas dit liewer aan as om dit af te dwing."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+'n Rustige roetine gee die dag 'n bekende vorm: opstaan, maaltye, 'n bietjie aktiwiteit, rus, en slaaptyd teen min of meer dieselfde tye. Dit verminder besluite en verrassings, en gee jou 'n plan vir daardie oomblikke wanneer jy andersins sou wonder wat om volgende te doen. Die roetine hieronder is 'n voorbeeld, nie 'n vaste reël nie. Gebruik dit as 'n vertrekpunt, en pas dit dan aan rondom die persoon vir wie jy sorg.
 
-## Why does a daily routine help?
+## Waarom help 'n daaglikse roetine?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+'n Bestendige roetine help omdat bekende patrone makliker is om te volg as nuwes. Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) noem dat 'n beplande dag minder tyd beteken wat spandeer word om te besluit wat om te doen, en meer tyd gee vir genotvolle aktiwiteite. Hulle merk ook op dat gereelde tye vir opstaan en bed toe gaan kan help met slaapprobleme en rusteloosheid laat in die dag. Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) stel voor om elke dag op dieselfde tye te bad, aan te trek en te eet as deel van 'n rustige huis, en die [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) beveel ook aan om dieselfde roetines te handhaaf.
 
-## A sample gentle day
+## 'n Voorbeeld van 'n rustige dag
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Tye is slegs voorbeelde. Skuif die hele dag vroeër of later om by die persoon se eie ritme te pas.
 
-| Time | What happens | Ideas | On a harder day |
+| Tyd | Wat gebeur | Idees | Op 'n moeiliker dag |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 vm. | Word wakker, was, trek aan | Dieselfde volgorde elke dag; pak klere uit in die volgorde waarin dit aangetrek word | Hou versorging eenvoudig; 'n vars hemp is genoeg |
+| 8:45 vm. | Ontbyt | Koffie en die koerant wat hardop gelees word, of die radio | Eet rustig saam, geen druk om te gesels nie |
+| 9:30 vm. | Hoofaktiwiteit | Wasgoed opvou, bak, tuinwerk, 'n kort uitstappie of 'n wandeling | 'n Korter weergawe, of laat hulle kyk terwyl jy dit doen |
+| 10:30 vm. | Rustige tyd | Musiek, 'n foto-album, of sit by 'n venster | Rus in 'n gunstelingstoel |
+| 11:00 vm. | Help met middagete | Groente was, die tafel dek | Jy kook; hulle hou jou geselskap |
+| 12:00 nm. | Middagete en opruim | Vee die tafel af, droog 'n paar borde af | Slaan die takies oor |
+| 1:00 nm. | Kort rus | Voete opgelig, sagte musiek | Dieselfde |
+| 2:00 nm. | Buite of aktief | Stap, stoep sit, plante natgooi, 'n ballon rondgooi | Sit by 'n sonnige venster |
+| 3:00 nm. | Sosiaal of kreatief | 'n Kuier, 'n oproep, [prentjiepare](/games/picture-pairs/), inkleur, kaartspeel | 'n Drankie en 'n peuselhappie saam |
+| 4:30 nm. | Tyd om te kalmeer | Gordyne toe, ligte aan, 'n rustige takie soos vadoeke opvou | Bekende musiek, min geraas |
+| 5:30 nm. | Aandete | Help roer of die tafel dek | Eenvoudige, bekende kos |
+| 6:30 nm. | Aand saam | Herinneringe ophaal oor nagereg, kaartspeel, 'n gunstelingprogram, 'n handmassering | Rustige geselskap |
+| 8:00 nm. | Slaaptydroetine | Bad of was, nagklere, sagte musiek, gedempte ligte | Maak alles korter; gerief eerste |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Hierdie voorbeeld volg die patroon van die Alzheimer's Association se eie voorbeeldplan vir die vroeë en matige stadiums, wat beweeg van persoonlike versorging en ontbyt deur takies, stap, musiek, rus en kuiers tot aandete, herinneringe ophaal en gereedmaak vir bed.
 
-## How do you build your own routine?
+## Hoe bou jy jou eie roetine?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Begin by hoe die persoon nog altyd geleef het, nie by 'n skedule nie. Die Alzheimer's Association stel voor om aan hierdie punte te dink voordat jy beplan:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Hul voorkeure, afkeure, sterk punte en belangstellings.**
+- **Hoe hulle vroeër hul dag deurgebring het.** Iemand wat altyd vroeg opgestaan het om die hond te stap, behoort steeds vroeg te stap. 'n Naguiltjie sal dalk nooit van 'n begin om 8:00 vm. hou nie.
+- **Hul beste tyd van die dag.** Plaas bad, uitstappies en die hoofaktiwiteit daar.
+- **Genoeg tyd** vir maaltye, was en aantrek, sodat niks gejaag voel nie.
+- **Gereelde tye vir opstaan en slaaptyd.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Dieselfde bron stel voor om 'n mengsel in te sluit van huishoudelike take, maaltye, persoonlike versorging, kreatiewe aktiwiteite, fisiese aktiwiteit, sosiale tyd, geestelike aktiwiteite en spontane oomblikke, soos 'n vriend wat kom inloer.
 
-### Try it for a week, then adjust
+### Toets dit vir 'n week, en pas dit dan aan
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Hou elke dag 'n eenvoudige nota by. Die Alzheimer's Association stel voor om te vra watter aktiwiteite die beste gewerk het en waarom, of daar tye was met te veel op een slag of te min om te doen, en of spontane planne genotvol was of kommer veroorsaak het. Behou wat werk en verander wat nie werk nie.
 
-### Make it visible
+### Maak dit sigbaar
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+As die persoon nog kan lees, kan 'n witbord of 'n kaart met groot skrif en die dag se plan gerusstellend wees. Hou dit kort: "Ontbyt. Stap saam met Sarah. Middagete. Rus." Party mense vaar beter sonder om lank voor die tyd te weet; die Family Caregiver Alliance stel voor om planne eers te bespreek net voor dit gebeur as dit bekommernis veroorsaak.
 
-## How to adapt the routine
+## Hoe om die roetine aan te pas
 
-### Leave room to breathe
+### Laat ruimte om asem te haal
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Moenie elke minuut volmaak nie. Die Alzheimer's Association beklemtoon dat die persoon 'n balans tussen aktiwiteit en rus nodig het en dalk meer gereelde pouses benodig. As hulle verveeld, afgelei of geïrriteerd lyk, verander van aktiwiteit of rus.
 
-### Protect the late afternoon
+### Beskerm die laatmiddag
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Baie mense raak meer rusteloos soos die daglig vervaag. Die NIA beveel aan om elke dag tyd buite of by 'n venster vir sonlig deur te bring, elke dag aktief te wees sonder om te veel te beplan, kafeïen en alkohol laat in die dag te vermy, en lang slapies laat in die dag te ontmoedig. Sommige gesinne vind ook dat dit help om die gordyne toe te trek en ligte aan te skakel voor skemer. Sien [rusteloosheid laat in die dag](/caregiving/late-day-restlessness/) en [slaap](/brain-health/sleep/).
 
-### Change it as needs change
+### Verander dit soos behoeftes verander
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Vroeë stadium:** beplan die roetine saam. Die persoon verkies dalk 'n geskrewe skedule wat hulle self bestuur.
+- **Matige stadium:** jy neem meer leiding. Korter aktiwiteite, meer rus en baie bekende take; sien [aktiwiteite vir die matige stadium](/activities/middle-stage/).
+- **Gevorderde stadium:** die roetine wentel om gerief, etes en versorging, met kort sensoriese oomblikke soos musiek of 'n handmassering tussenin; sien [aktiwiteite vir die gevorderde stadium](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Wissel die aktiwiteite af, nie die raamwerk nie
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Hou maaltye, rus en slaaptyd bestendig, en wissel die aktiwiteite tussenin af. Die [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) beveel aan om verskillende aktiwiteite op verskillende dae te probeer om dinge interessant te hou. Jy kan Maandag bak, Dinsdag tuinwerk doen en Woensdag na foto's kyk. Ons [101 aktiwiteitsidees](/activities/ideas/) en [huishoudelike take](/activities/household-tasks/) kan die oop tye vul.
 
-## When the day goes sideways
+## Wanneer die dag skeefloop
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Sommige dae sal geen plan volg nie. Siekte, 'n slegte nag, 'n besoek van die dokter of 'n verandering in die weer kan alles omvergooi. Laat vaar die plan, behou die basiese dinge (kos, drinkgoed, rus, gerief) en probeer môre weer. As die persoon iets weier, sien [wanneer hulle nee sê](/caregiving/when-they-say-no/). 'n Stadige asemhalingspouse saam, soos [rustige asemhaling](/games/calm-breathing/), kan julle albei help om weer rustig te raak.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Jou eie roetine maak ook saak. Bou rusposes vir jouself in, en vra familie of 'n aflosdiens om gereelde vrye tyd te dek. Sien [selfsorg vir die versorger](/caregiving/caregiver-self-care/).

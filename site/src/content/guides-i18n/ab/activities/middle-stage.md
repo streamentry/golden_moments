@@ -1,32 +1,28 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Адеменциа абжьаратә ҩаӡаразы аусқәа"
+seoTitle: "Адеменциа абжьаратә ҩаӡара: имариоу аидеяқәа"
+description: "Адеменциа абжьаратә ҩаӡаразы имариоу аусқәа: аҩны усурақәа, амузика, афотосахьақәа, ахәмаррақәа, иара убас агәҭынчымра аусурахь аиагара."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Адеменциа абжьаратә ҩаӡараҟны зегь раасҭа еиӷьуп икьаҿу, еицырдыруа, шьаҿа-шьаҿала ишоу аусқәа: амаҭәа аҵәахра, амаҵәақәа реиҩшара, аԥшьқәа рыӡхра, ашәаҳәара, аҩызцәара, афотосахьақәа рахәаԥшра, имариоу асахьатә хәмаррақәа. Аускәа еиҿышәца, раԥхьатәи ашьаҿа шәырба, иуадаҩу шәахылаԥш, убри инамыцхәырҭахо аҵакы ашәҭ. Ианамыкәшәо, агәырӷьара аннамҭо иаҟәыҵ.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Еицырдыруа аҩны усурақәа лассы зегь раасҭа еиӷьуп, избанзар урҭ ихадоу усураны, адуцәа рхымҩаԥгашьаны ирбоит."
+  - "Аҳәара аҵас шәырба, ашьаҿақәа акы-акыла инарыгӡала, иара убас ацынхәрас ҩ-алхра мариоук шәырҭа."
+  - "Зегь раасҭа иуадаҩу шәара шәахылаԥш, убри ашьҭахь ауаҩы инапы злакымкәа иаауа ахәҭа инаигӡарц азы."
+  - "Агәҭынчымра лассы ауаҩы акы ҟаиҵарц шиҭаху азышароуп. «Мап» шәаҳәацынхәрас, иаԥсоу аус идишәгала."
+  - "Ахәаԥшра, маҷк ацхыраара, мамзаргьы аус иаартра иаҟәыҵра — зегь ԥхасҭада иҟоуп."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Адеменциа абжьаратә ҩаӡараҟны иарбан усқәоу зегь раасҭа еиӷьу?"
+    a: "Икьаҿу, еицырдыруа, напқәала инагӡахо аусқәа лассы еиӷьуп: алҭынчқәа рарԥшӡара, амаҵәақәа реиҩшара, аԥшьқәа рыӡхра, астол аҿы аԥшьқәа ршьҭаҵара, раԥхьатәи ашәақәа раҳәара, аҩызцәара, афотосахьақәа рахәаԥшра, имариоу асахьатә хәмаррақәа. Аусқәа шьаҿа-шьаҿала шәша, шәара шәацхыраауа еицышәҵа."
+  - q: "Шьҭа, ауаҩы аус далалгартә шԥаҟаҵатәу?"
+    a: "Зегь еиқәыршәаны шәырҭа, анаҩс шәхаҭа аус шәалага, иара убас шәхылаԥшуа ауаҩы шәиааиԥхьа: «Ари алҭынчқәа сцхраауама?» Уамашәа рацәа ауаа аус алахәра рҭахуп, аха иалагара ауадаҩуп. Раԥхьатәи ашьаҿа ацырбара лассы аиҭаҳәара аасҭа еиӷьуп."
+  - q: "Ауаҩы акоуп-акы даҽазныкгьы иааникылс иҟаиҵозар, иҟаҵатәузеи?"
+    a: "Аиҭаҳәара лассы ԥхасҭада иҟоуп, уи ауаҩы аус диҿазарц шиҭаху, ма агәралра шиҭаху азышароуп. Уи аиашара ацынхәрас, убри аҵас иақәшәо аус идишәгала, ҿырԥштәыс, алҭынчқәа рҵәахразы акалан ма ашәа еицышәҳәа."
+  - q: "Аус шәара ишәҭахыз еиԥш инамыгӡазарзеи?"
+    a: "Аԥхасҭа амамзар, убас иаанрыжь. Алҭынчқәа егьырҭ реиԥшымкәа еиқәыршәазар, ма аҵәцақәа рыҭыԥ иқәмыргылазар — акгьы аԥхасҭа амам. Уи аиашара агәнаҳауа иҟалоит, аха рыхаҭа ишырҭаху еиԥш ирыбзоурахар, рхы амч амоуп, хадароуп ҳәа ирыԥхьаӡоит."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +44,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Адеменциа абжьаратә ҩаӡара лассы зегь раасҭа идуоу ҩаӡароуп, убри аамҭазы аусқәа иҵоуроу ацхыраара рыҭаххоит. Ажәақәа лассы ирцәыӡуеит, ашьаҿақәа еиларсуа иалагоит, акәа акгьы алагара ауадаҩуп. Аха аусура алахәра, убри аус аҵакы амазарц агәаҳәара аанхоит. Маҷк еиқәыршәарала, ари аҩаӡара иаҵанакуа ауаҩы даара ирацәаны агәырӷьара аиуар алшоит, хаҭала шәара шәацхыраауа еицыжәҵо еицырдыруа аусурақәа, амузика, афотосахьақәа рыла.
 
-## What activities work well in middle-stage dementia?
+## Иарбан усқәоу адеменциа абжьаратә ҩаӡараҟны бзиахо?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Икьаҿу, еицырдыруа, напқәала инагӡахо, ашьаҿақәа акы-акыла ишоу аусқәа зегь раасҭа еиӷьуп. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) ишазгәанаҭо ала, ҿыц акгьы еиқәыршәатәым: аусқәа каҳарада иҟоу аԥсҭазаара иахәҭакны иҟалар алшоит, ҿырԥштәыс, еицыфатә ҟаҵара, абаҳчаҟны аусура, амузика азыӡырҩра, ма аҩызцәара.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ишазгәанаҭо ала, ари аҩаӡараҟны ауаа лассы аус аҵакы амазарц, ма акы ихылаԥшарц агәаҳәара ду рымоуп, убри аҟынтә аусқәа ралагареи рынагӡареи рҿы ацхыраара рыҭаххоит. Урҭ рабжьаратә ҩаӡара асиа иаҵанакуеит амаҭәа аҵәахра, аԥшьқәа рыӡхра, амаҵәақәа реиҩшара, имариоу аснапыркра, еицырдыруа амузика аҵас акәашара, аҩызцәара, ашәаҳәара, имариоу асахьаҭыхра, афотосахьақәа рахәаԥшра.
 
-## How do you set up an activity so it works?
+## Аус шԥаеиқәыршәатәу уи агәырӷьара аарԥшырц азы?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Аусқәа реиҳарала рқәҿиара ма рықәымҿиара уи шьеиқәыршәоу иадҳәалоуп. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) иара убас [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) иргәаҭаз ари аҵасқәа даараӡа ахархәара ду рымоуп:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Аҭыԥ арыцқьара.** Ателевизор шәаҿых, абнашә шәарк, ари аус иаҭаху акакәны еиқәыршәа.
+2. **Шәара шәхаҭа шәалага.** Амаҭәа аҵәахра ма аиларҭәара шәалага, убас шәиааиԥхьа: «Ари сцхраауама?»
+3. **Шәырба, анаҩс шәазыԥш.** Ашьаҿа акы шәырба. Шәнапыла ишәырба, ҿырԥштәыс, аԥшь ахьышьҭаҵатәу.
+4. **Ашьаҿақәа акы-акыла шәырҭа.** «Абжьаранӡа иаарҵәах» аҳәара «арҭ зегь шәҵәахны ԥшшәыла еиҩшәша» аасҭа имариоуп.
+5. **Ҩ-алхра мариоук шәырҭа, аҭак рацәа зҭаху азҵаарақәа мап.** «Аҵаашәа алҭынчқәа ма ишкәақәоу?» азҵаара аҭак аҭара «Иарбан усуроу ишәҭаху?» аасҭа имариоуп.
+6. **Зегь раасҭа иуадаҩу шәара шәахылаԥш.** Шәара шәаԥхьаӡоит, урҭ еиларҭәоит. Шәара амарда шәҭаҵоит, урҭ аӡахәа еиқәырԥшӡоит.
+7. **Аус аҵакы ашәҭ.** «Арҭ асалфеткақәа амҽыша амш фатәызы ауп» уҳәозар, аус иаҳа ихадоуны иҟалоит.
+8. **Ирҭахзар, ахәаԥшра азин рышәҭ.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ишазгәанаҭо ала, каҳарада ахәаԥшрагьы агәырӷьара аарԥшыр алшоит.
 
-## Activity ideas for the middle stage
+## Абжьаратә ҩаӡаразы аусқәа рзы аидеяқәа
 
-### Useful jobs
+### Аҩны усурақәа
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Алҭынчқәа рарԥшӡара.** Ихәыҷу, имариоу амаҭәақәа зегь раасҭа имариоуп. Иԥшоу алҭынчқәа ркаланк аҵәахра, рырҵәцара, даҽазныкгьы реиқәыршәара ҟалоит.
+- **Амаҵәақәа реиҩшара.** Еиԥшым амаҵәа ҩба-ҩбала шәалага. Ԥшшәыла мацара реиҩшарагьы бзиахоит.
+- **Имырҩахо аԥшьқәа рыӡхра ма рарӷәра.** Иԥшоу, асабынтә ӡы анапқәа рзы гәахәарауп. Итәаны аԥшьқәа рарӷәра ашьапы лассы иацхыраауеит.
+- **Астол аҿы аԥшьқәа ршьҭаҵара.** Акакәны ахархәага шәырҭала, ҿырԥштәыс шәхаҭа астол аҿы акы шәшьҭаҵа.
+- **Афатә ҟаҵараҟны ацхыраара.** Акартофқәа рыӡхра, асалат аӡра, ма аԥшь еиларҭәара. Аҩақәеи амцеи шәара шәахылаԥш.
+- **Арыцқьара, агәабара, ма ашәара.** Астол азы амаҭәа, аҩны ҿаԥхьа арыцқьаразы имариоу алаба.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Даҽа рацәак шәахәаԥш [household tasks](/activities/household-tasks/) аҟны.
 
-### Music and movement
+### Амузикеи аиҭаҵреи
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Раԥхьатәи ашәақәа раҳәара.** Шәара шәхаҭа ашәаҳәара шәалага; уамашәа рацәа ауаа шәацырҳәалоит шықәсырацәала издыруа ашәақәа. Шәахәаԥш [music activities](/activities/music/).
+- **Ахьыԥшымрала акәашара.** Шәҵашәыршәа, шәнапы шәаҵәца, ма шәгәы ишызҭаху шәеиҭаҵ. Итәаны акәашарагьы бзиахоит.
+- **Аҳауатә шар ахсара.** Уи ԥсынкны ицоит, итәаныгьы акапареи ааникылареи мариоуп.
+- **Еицыҩызцәара.** Икьаҿу, еицырдыруа амҩақәа рахь шәныҟәа, иахәҭазар напыла еицышәкыла.
 
-### Pictures and stories
+### Афотосахьақәеи аҭоурыхқәеи
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Афотоальбом ахәаԥшра.** Азҵаарақәа раасҭа ишәбо аӡбахә шәҳәа: «Ари амашьына дахәаԥш. Сзеиҭаҳәа убри атәы.» Шәахәаԥш [reminiscence activities](/activities/reminiscence/).
+- **Ацәажәаразы акартқәа рхархәара.** [Conversation cards](/games/conversation-cards/) асахьеи аԥышәара змам аиҿцәажәареи реидыскылоит.
+- **Еицырдыруа афильм ахәаԥшра.** Еицырдыруа акы шәалх, азааигәара шәаангыл, аԥсшьарақәагьы шәаҟәыҵла.
 
-### Simple, pressure-free games
+### Имариоу, агәҭынчымра змам ахәмаррақәа
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Асахьақәа рпақәа (иаарту асахьақәа).** [Picture pairs](/games/picture-pairs/) асахьақәа ҿакны иаанрыжьуеит, убри аҟынтә уи агәалашәара акәымкәа, агәаҭара ауп.
+- **Еиԥшу аԥшаара.** [Find the same](/games/find-the-same/) асахьаки ҩба инаркны ԥшьба рҟынӡа алхрақәеи аарԥшуеит.
+- **Еицыҩшара.** [Sort together](/games/sort-together/) аекранаҿы амаҭәа аиҩшара еиԥшуп: асахьа шәақәыӷәӷәа, анаҩс уи акалан.
+- **Асахьатә бинго.** [Picture bingo](/games/picture-bingo/) аҭаацәара ма агәыԥқәа рзы даара бзиахоит.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Ахәмарра агәаҟра ма агәаӷьра аарԥшыр, иаҟәыҵны даҽа уск шәалага. Шәахәаԥш [how to play together](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Агәҭынчымра аусурахь аиагара
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Агәҭынчымра ма аусқәа реиҭаҳәара лассы мзыз амоуп. Family Caregiver Alliance ишазгәанаҭо ала, ашкаф лассы-лассы иҭазыцқьо ауаҩы аус диҿазарц, инапы злакымкәа иаауа ахәҭа аарԥшырц шиҭаху убри ауп. Alzheimer's Association убри амч аанкылара аасҭа, иақәшәо аусурахь аиагара агәадиҵоит.
 
-| What you see | Something to offer |
+| Ишәбо | Шәара шәҭар шәылшо |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Астол ашәара ма анапы ахаркра | Илаҟьоу амаҭәеи астол арыцқьаразы аҳәареи |
+| Ашьапы еиҭаҵра ма акәашара | Ииашоу аритм змоу амузика |
+| Ашкафқәа ма аҭыӡқәа рыҭацқьара | Амаҭәақәа ма алҭынчқәа ркалан, реиҩшареи рҵәахреи азы |
+| Даҽазныкгьы убри азҵаара аҭара | Агәрагара, анаҩс еицыҳәатәу ашәа ма еицыҟаҵатәу аус |
+| Аҩны ахь-аахыс аныҟәара | Еицыҩызцәара, ма акакра иадҳәалоу аус |
+| Ахьца агәҭынчымра | Алашара бзиаҿы иҭынчу, еицырдыруа аус; шәахәаԥш [late-day restlessness](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Ианаҟәыҵтәу ма аус ԥсахтәу
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Ауаҩы данеурахо, агәҭынчымра, аԥхашьара ма ахы рҿахәыра аншәбо — ҿырԥштәыс, агәҭынчымра, аҿаԥхьа аԥсахра, амаҭәақәа рцакра ма «слымшоит» ҳәа аҳәара — убри аамҭазы иаҟәыҵ. Alzheimer's Association ишазгәанаҭо ала, даҽа аамҭак азы даҽазныкгьы шәалага, ма аус имариоу шәырҭа. Амч шәамхархәан. Амап аҳәара ашәара аҟынтә ма аус даара иуадаҩны иҟазар алшоит; шәахәаԥш [when they say no](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Иаартра иаҟәыҵра ԥхасҭада иҟоуп. Ачаи кьасеик шәацуны итәарагьы бзиахоит. Аҵадыррақәа анԥсахуа, [late-stage activities](/activities/late-stage/) аҟны иҟоу аидеяқәа иаҳа ирықәшәар алшоит, иара убас [101 activities](/activities/ideas/) даҽа рацәа аидеяқәа шәырҭоит.

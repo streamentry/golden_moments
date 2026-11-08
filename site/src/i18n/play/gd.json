@@ -1,0 +1,789 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Leugh a-mach",
+      "stopReading": "Sguir dhen leughadh",
+      "region": "Geama",
+      "restart": "Tòisich as ùr",
+      "soundOn": "Fuaimean socair air",
+      "soundOff": "Fuaimean socair dheth",
+      "done": "Deiseil an-dràsta",
+      "feedbackQuestion": "An do chuidich seo an-diugh?",
+      "feedbackYes": "Chuidich",
+      "feedbackNo": "Cha do chuidich gu mòr",
+      "feedbackThanks": "Tapadh leibh airson innse dhuinn."
+    },
+    "tile": {
+      "named": "{name}, leacag {n}",
+      "hidden": "Dealbh falaichte, leacag {n}",
+      "withState": "{label}, {state}",
+      "matched": "Ann am paidhir",
+      "selected": "Air a thaghadh",
+      "picture": "Dealbh",
+      "photoNumber": "Dealbh-camara {n}"
+    },
+    "pairs": {
+      "allTogether": "A h-uile paidhir còmhla. Cluichibh a-rithist no gabhaibh fois.",
+      "photoPair": "Paidhir dhealbhan-camara, còmhla.",
+      "picturePair": "Dà dhealbh dhen {name|lower}, còmhla.",
+      "selected": "{name}. A-nis lorg a phaidhir.",
+      "mismatch": "Gabhaibh ur n-ùine. Tapaibh dealbh gus leantainn air adhart.",
+      "mismatchNamed": "{a} agus {b}. Gabhaibh ur n-ùine. Tapaibh dealbh gus leantainn air adhart."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tapaibh dealbh, agus an uairsin tapaibh an tè a tha mar an ceudna.",
+      "guidanceHidden": "Tapaibh dà leacag gus an tionndadh. Lorgibh dà thè a tha mar an ceudna.",
+      "restart": "Dealbhan ùra",
+      "sizeLegend": "Cò mheud leacag",
+      "size": {
+        "one": "{n} leacag",
+        "two": "{n} leacag",
+        "few": "{n} leacagan",
+        "other": "{n} leacag"
+      },
+      "viewLegend": "Mar a chluichear",
+      "viewShowing": "Dealbhan rim faicinn",
+      "viewHidden": "Dealbhan falaichte",
+      "playAgain": "Cluichibh a-rithist le dealbhan ùra",
+      "talk": "Bruidhnibh mu na dealbhan còmhla"
+    },
+    "choose": {
+      "countLegend": "Cò mheud dealbh",
+      "count": "{n} ri an taghadh",
+      "thatOne": "Sin an {name|lower}. Gabhaibh ur n-ùine."
+    },
+    "findTheSame": {
+      "guidance": "Seallaibh air an dealbh aig a' mhullach. Tapaibh an tè a tha mar an ceudna gu h-ìosal.",
+      "yes": "Seadh, an dearbh {name|lower}.",
+      "next": "An ath dhealbh"
+    },
+    "shadowMatch": {
+      "guidance": "Seallaibh air an sgàil aig a' mhullach. Tapaibh an dealbh a nì i.",
+      "yes": "Seadh, 's e an {name|lower} a nì an sgàil sin.",
+      "next": "An ath sgàil",
+      "shadowAlt": "Sgàil ri maidseadh",
+      "foundAlt": "Sgàil an {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tapaibh dealbh, agus an uairsin tapaibh a' bhascaid dham buin e.",
+      "restart": "Dealbhan ùra",
+      "themeLegend": "Cuspair",
+      "selected": "{name}. A-nis tapaibh a' bhascaid dham buin e.",
+      "pickFirst": "Tapaibh dealbh an toiseach, agus an uairsin bascaid.",
+      "hint": "Dh'fhaodadh an {name|lower} a dhol ann am \"{basket}\". Tapaibh a' bhascaid sin gus a chur ann.",
+      "placed": "Tha an {name|lower} ann am \"{basket}\".",
+      "sorted": "Tha a h-uile càil air a sheòrsachadh. Seallaibh tro na bascaidean còmhla, no feuchibh cuspair eile.",
+      "basket": {
+        "one": "Bascaid {basket}, {count} dealbh a-staigh",
+        "two": "Bascaid {basket}, {count} dhealbh a-staigh",
+        "few": "Bascaid {basket}, {count} dealbhan a-staigh",
+        "other": "Bascaid {basket}, {count} dealbh a-staigh"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tapaibh aon phìos, agus an uairsin tè eile. Thèid iad an àite a chèile.",
+      "restart": "Measgaichibh a-rithist",
+      "pictureLegend": "Dealbh",
+      "pictures": {
+        "sailboat": "Bàta-seòlaidh",
+        "house": "Taigh",
+        "balloon": "Bailùn",
+        "sunflower": "Flùr-na-grèine",
+        "lighthouse": "Taigh-solais",
+        "cat": "Cat"
+      },
+      "sizeLegend": "Pìosan",
+      "size": {
+        "one": "{n} phìos",
+        "two": "{n} phìos",
+        "few": "{n} pìosan",
+        "other": "{n} pìos"
+      },
+      "pickedUp": "Pìos air a thogail. A-nis tapaibh far am bu chòir dha a dhol.",
+      "whole": "Tha an {name|lower} slàn a-rithist. Taghaibh dealbh eile uair sam bith a thogras sibh.",
+      "swapped": {
+        "one": "Air an iomlaid. Tha {correct} à {total} pìos san àite cheart.",
+        "two": "Air an iomlaid. Tha {correct} à {total} phìos san àite cheart.",
+        "few": "Air an iomlaid. Tha {correct} à {total} pìosan san àite cheart.",
+        "other": "Air an iomlaid. Tha {correct} à {total} pìos san àite cheart."
+      },
+      "guideAlt": "An dealbh slàn: {name}",
+      "guideText": "Seo mar a tha an dealbh a' coimhead nuair a tha e slàn.",
+      "piece": "Pìos {place}",
+      "pieceInPlace": ", san àite cheart",
+      "piecePickedUp": ", air a thogail",
+      "places4": [
+        "gu h-àrd clì",
+        "gu h-àrd deas",
+        "gu h-ìosal clì",
+        "gu h-ìosal deas"
+      ],
+      "places9": [
+        "gu h-àrd clì",
+        "gu h-àrd sa mheadhan",
+        "gu h-àrd deas",
+        "sa mheadhan clì",
+        "dìreach sa mheadhan",
+        "sa mheadhan deas",
+        "gu h-ìosal clì",
+        "gu h-ìosal sa mheadhan",
+        "gu h-ìosal deas"
+      ],
+      "done": "Tha an dealbh slàn a-rithist. Cluichibh a-rithist no gabhaibh fois.",
+      "playAgain": "Measgaichibh a-rithist e"
+    },
+    "finishTheSaying": {
+      "guidance": "Leughaibh an seann-fhacal còmhla, agus an uairsin tapaibh am facal a chuireas crìoch air.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Seadh, \"{start} {end}.\"",
+      "otherEnding": "Tha \"{word}\" a' freagairt cuideachd. Mar as trice bidh an seann-fhacal a' crìochnachadh le \"{end}\".",
+      "revealed": "'S e an seann-fhacal \"{start} {end}.\"",
+      "choicesLabel": "Taghaibh am facal mu dheireadh",
+      "show": "Seall an deireadh",
+      "talk": "Bruidhnibh mu dheidhinn: ",
+      "next": "An ath sheann-fhacal"
+    },
+    "wordSearch": {
+      "guidance": "Bidh na faclan a' dol tarsainn no sìos. Tapaibh a' chiad litir dhen fhacal, agus an uairsin an litir mu dheireadh.",
+      "restart": "Tòimhseachan ùr",
+      "themeLegend": "Cuspair",
+      "sizeLegend": "Meud a' ghriod",
+      "size": {
+        "one": "{n} le {n} ({words} fhacal)",
+        "two": "{n} le {n} ({words} fhacal)",
+        "few": "{n} le {n} ({words} faclan)",
+        "other": "{n} le {n} ({words} facal)"
+      },
+      "print": "Clò-bhuailibh an tòimhseachan seo",
+      "letterChosen": "Litir {letter} air a taghadh. A-nis tapaibh an litir mu dheireadh dhen fhacal.",
+      "found": "{word} air a lorg.",
+      "foundAll": "{word} air a lorg. Sin a h-uile facal. Cluichibh a-rithist no gabhaibh fois.",
+      "tryAgain": "Gabhaibh ur n-ùine. Tapaibh a' chiad litir dhen fhacal, agus an uairsin an litir mu dheireadh.",
+      "gridLabel": "Griod litrichean, {n} sreathan de {n} litrichean. Cleachdaibh na saighdean gus gluasad eadar na litrichean.",
+      "cell": "{letter}, sreath {row}, colbh {col}",
+      "cellFound": ", pàirt de dh'fhacal a chaidh a lorg",
+      "wordsHeading": "Faclan ri lorg",
+      "wordFound": " (lorgte)",
+      "sheetTitle": "Lorg nam Facal: {theme}",
+      "sheetNote": "Bidh na faclan a' dol tarsainn no sìos.",
+      "unavailable": "Chan eil griod litrichean a' freagairt air a' chànan seo, mar sin chan eil lorg nam facal ri fhaighinn an seo. Feuchibh na geamannan dhealbhan na àite."
+    },
+    "coloring": {
+      "guidance": "Tapaibh dath, agus an uairsin tapaibh pàirt dhen dealbh.",
+      "restart": "Glan na dathan",
+      "cleared": "Tha an duilleag bàn a-rithist.",
+      "pageLegend": "Duilleag",
+      "print": "Clò-bhuailibh an duilleag seo",
+      "colorsLabel": "Dathan",
+      "paintChosen": "{paint} air a thaghadh.",
+      "painted": "Tha {part} a-nis {paint|lower}.",
+      "artLabel": "{page}, {count} pàirtean ri dhathadh",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, gun dath",
+      "paints": {
+        "red": "Dearg",
+        "orange": "Orains",
+        "yellow": "Buidhe",
+        "green": "Uaine",
+        "blue": "Gorm",
+        "purple": "Purpaidh",
+        "pink": "Pinc",
+        "brown": "Donn",
+        "sky-blue": "Gorm bàn",
+        "cream": "Uachdar",
+        "gray": "Liath",
+        "white": "Geal"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Leughaibh a' chairt a-mach. Chan eil freagairt cheart no cheàrr ann.",
+      "position": "Cairt {n} à {total}",
+      "themeLegend": "Cuspair",
+      "next": "An ath chairt",
+      "previous": "A' chairt roimh seo",
+      "print": "Clò-bhuailibh a h-uile cairt",
+      "sheetTitle": "Cairtean còmhraidh"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Tòisichibh le bhith a' taghadh nan dealbhan agaibh.",
+      "guidance": "Tapaibh dealbh, agus an uairsin tapaibh an tè a tha mar an ceudna.",
+      "restart": "Measgaichibh a-rithist iad",
+      "intro": "**Taghaibh eadar 2 agus 6 dealbhan** bhon inneal seo. Chan fhaicear iad ach air an duilleag seo agus cha tèid an luchdachadh suas no an sàbhaladh gu bràth.",
+      "choose": "Taghaibh dealbhan",
+      "chooseDifferent": "Taghaibh dealbhan eile",
+      "clear": "Glan na dealbhan",
+      "cleared": "Dealbhan air an toirt air falbh bhon duilleag seo.",
+      "atLeastTwo": "Taghaibh co-dhiù dà dhealbh, mas e ur toil e.",
+      "usingFirst": "A' cleachdadh a' chiad {max} dealbh.",
+      "skipped": {
+        "one": "Cha b' e dealbh a ghabhas a shealltainn a bh' ann an {count} fhaidhle.",
+        "two": "Cha b' e dealbh a ghabhas a shealltainn a bh' ann an {count} fhaidhle.",
+        "few": "Cha b' e dealbh a ghabhas a shealltainn a bh' ann an {count} faidhlichean.",
+        "other": "Cha b' e dealbh a ghabhas a shealltainn a bh' ann an {count} faidhle."
+      },
+      "playAgain": "Cluichibh a-rithist leis na dealbhan seo",
+      "empty": "Nochdaidh na dealbhan agaibh an seo, gach fear dhiubh dà thuras."
+    },
+    "pictureBingo": {
+      "guidance": "Clò-bhuailibh na cairtean an toiseach. An uairsin seallaibh an gairmiche seo air an sgrìn as motha a th' agaibh.",
+      "called": {
+        "one": "{name}. {called} à {total} dealbh air a ghairm.",
+        "two": "{name}. {called} à {total} dhealbh air an gairm.",
+        "few": "{name}. {called} à {total} dealbhan air an gairm.",
+        "other": "{name}. {called} à {total} dealbh air an gairm."
+      },
+      "start": "Tapaibh \"An ath dhealbh\" gus a' chiad dealbh a ghairm.",
+      "restart": "Tòisichibh geama ùr",
+      "squaresLegend": "Ceàrnagan air gach cairt",
+      "squares": "{n} ceàrnagan ({side} le {side})",
+      "cardsLegend": "Cò mheud cairt ri chlò-bhualadh",
+      "cards": {
+        "one": "{n} chairt",
+        "two": "{n} chairt",
+        "few": "{n} cairtean",
+        "other": "{n} cairt"
+      },
+      "print": {
+        "one": "Clò-bhuailibh {n} chairt biongo",
+        "two": "Clò-bhuailibh {n} chairt biongo",
+        "few": "Clò-bhuailibh {n} cairtean biongo",
+        "other": "Clò-bhuailibh {n} cairt biongo"
+      },
+      "ready": "Deiseil uair sam bith a tha sibh deiseil",
+      "next": "An ath dhealbh",
+      "allCalled": "Chaidh a h-uile dealbh a ghairm",
+      "alreadyCalled": "Air a ghairm mu thràth",
+      "sheetTitle": "Biongo dhealbhan · cairt {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Gabhaibh anail a-steach mar a bhios an cearcall a' fàs, agus a-mach mar a bhios e a' fàs nas lugha. Stadaidh e leis fhèin an dèidh sia anail.",
+      "paceLegend": "Luaths",
+      "paceSlow": "Slaodach (5 diogan gach turas)",
+      "paceGentle": "Socair (4 diogan gach turas)",
+      "ready": "Deiseil nuair a bhios sibh fhèin deiseil",
+      "in": "Anail a-steach",
+      "hold": "Fois",
+      "out": "Anail a-mach",
+      "start": "Tòisich",
+      "stop": "Stad",
+      "started": "Air tòiseachadh. Gabhaibh anail a-steach mar a bhios an cearcall a' fàs.",
+      "stopped": "Air stad.",
+      "finished": "Bha sin sia anail shocair. Tòisichibh a-rithist uair sam bith a thogras sibh."
+    }
+  },
+  "pictures": {
+    "teacup": "Cupan tì",
+    "kettle": "Coire",
+    "bread": "Buileann arain",
+    "frying-pan": "Frioghan le ugh",
+    "cake": "Cèic co-là-breith",
+    "sunflower": "Flùr na grèine",
+    "tulip": "Tiuilip dhearg",
+    "watering-can": "Pige-uisge",
+    "potted-plant": "Lus ann am poit",
+    "tree": "Craobh",
+    "bird": "Brù-dhearg air meur",
+    "butterfly": "Dealan-dè",
+    "dog": "Cù",
+    "cat": "Cat",
+    "fish": "Iasg òir",
+    "apple": "Ubhal dearg",
+    "pear": "Peur",
+    "strawberry": "Sùbh-làir",
+    "banana": "Banana",
+    "lemon": "Liomaid",
+    "cherries": "Sirisean",
+    "house": "Taigh",
+    "lamp": "Lampa bùird",
+    "armchair": "Cathair-ghàirdein",
+    "key": "Iuchair aosda",
+    "umbrella": "Sgàilean",
+    "sailboat": "Bàta-seòlaidh",
+    "car": "Càr clasaigeach",
+    "bicycle": "Rothair",
+    "balloon": "Bailiùn èadhair theith",
+    "lighthouse": "Taigh-solais",
+    "sun": "Grian",
+    "moon": "Gealach is reultan",
+    "teapot": "Poit-tì",
+    "apple-pie": "Pàidh ùbhlan",
+    "honey-jar": "Pige meala",
+    "boiled-egg": "Ugh ann an cupan-ugh",
+    "toaster": "Inneal-tòstadh",
+    "cheese": "Geinn càise",
+    "milk-jug": "Pige bainne",
+    "cupcake": "Bonnag chèice",
+    "orange": "Orains",
+    "grapes": "Gràpaichean",
+    "watermelon": "Sliseag meal-uisge",
+    "pineapple": "Painneapal",
+    "peach": "Pèitseag",
+    "rose": "Ròs",
+    "daisies": "Neòineanan",
+    "mushroom": "Balgan-buachair",
+    "wheelbarrow": "Càrn-cuibhle",
+    "birdhouse": "Taigh-eòin",
+    "cactus": "Cactas ann am poit",
+    "acorn": "Dearc-dharach",
+    "autumn-leaf": "Duilleag an fhoghair",
+    "rabbit": "Coineanach",
+    "duck": "Tunnag",
+    "hen": "Cearc",
+    "sheep": "Caora",
+    "owl": "Cailleach-oidhche",
+    "ladybird": "Daolag-bhreac",
+    "snail": "Seilcheag",
+    "frog": "Losgann",
+    "bee": "Seillean",
+    "clock": "Gleoc sgeilp",
+    "vase-of-flowers": "Bàs fhlùraichean",
+    "radio": "Rèidio aosda",
+    "books": "Tòrr leabhraichean",
+    "candle": "Coinneal",
+    "glasses": "Speuclairean-leughaidh",
+    "telephone": "Fòn",
+    "ball-of-wool": "Ceirtle clòimhe",
+    "straw-hat": "Hata grèine",
+    "train": "Trèana-smùid",
+    "bus": "Bus",
+    "airplane": "Plèana",
+    "suitcase": "Màileid",
+    "tractor": "Tractar",
+    "rowing-boat": "Bàta-ràmh",
+    "rainbow": "Bogha-froise",
+    "rain-cloud": "Neul uisge",
+    "snowflake": "Flocan-sneachda",
+    "kite": "Baoiteag",
+    "sunrise": "Èirigh na grèine thar nam beann"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHILMNOPRSTU",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Measan",
+          "words": [
+            "UBHAL",
+            "PEUR",
+            "PLUMBA",
+            "ORAINS",
+            "SMEUR",
+            "CAOR",
+            "BANANA",
+            "FIGIS",
+            "GRAPA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Gàrradh",
+          "words": [
+            "FLUR",
+            "CRAOBH",
+            "SIOL",
+            "UIR",
+            "FEUR",
+            "LUS",
+            "ROS",
+            "LOCHAN",
+            "DUILLE"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Cidsin",
+          "words": [
+            "CUPAN",
+            "SPAIN",
+            "ARAN",
+            "COIRE",
+            "SGIAN",
+            "MIAS",
+            "FORC",
+            "PANA",
+            "PIGE"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "An t-sìde",
+          "words": [
+            "GRIAN",
+            "UISGE",
+            "GAOTH",
+            "SNEACHD",
+            "NEUL",
+            "STORM",
+            "CEO",
+            "FRAS",
+            "DEALAN"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Beathaichean",
+          "words": [
+            "CAT",
+            "EUN",
+            "IASG",
+            "EACH",
+            "CEARC",
+            "CAORA",
+            "TUNNAG",
+            "GOBHAR",
+            "MUC"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Dachaigh",
+          "words": [
+            "DORAS",
+            "BORD",
+            "LAMPA",
+            "GLEOC",
+            "BALLA",
+            "TEINE",
+            "STOL",
+            "SEOMAR",
+            "MAT"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "A h-uile cairt",
+        "food": "Biadh",
+        "home": "Dachaigh",
+        "outdoors": "A-muigh",
+        "animals": "Beathaichean",
+        "travel": "A' siubhal",
+        "work": "Obair agus cur-seachadan",
+        "music": "Ceòl agus spòrs",
+        "seasons": "Ràithean"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Dè am fàileadh as fheàrr leibh fhèin às a' chidsin?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Dè an seòrsa cèic a thaghadh sibh airson latha sònraichte?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Innsibh dhomh mu phàidh mheasan no milseagan as fheàrr leibh."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Ciamar as fheàrr leibh ur tì no ur cofaidh a ghabhail?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Dè a nì bracaist fìor mhath dhuibh?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "An do thog sibh measan a-riamh dìreach bhon phreas no bhon chraoibh?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Milis no geur: dè as fheàrr leibh fhèin dhiubh?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Dè am biadh a tha a' toirt cuimhne an t-samhraidh dhuibh?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Innsibh dhomh mu thaigh anns an do chòrd e ribh a bhith a' fuireach."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Càite an t-àite as fheàrr leibh airson suidhe agus fois a ghabhail?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Dè as toigh leibh a dhèanamh air feasgar sàmhach?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Dè an seòrsa rud luachmhor a ghlèidheadh sibh ann am bogsa sònraichte?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Cò a dh'iarradh sibh a-steach airson cupan tì?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Dè as toigh leibh a dhèanamh air latha fliuch?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Dè na flùraichean a chuireadh sibh ann an gàrradh?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Innsibh dhomh mu chraoibh no pàirc a tha a' còrdadh ribh."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Dè an rud as fheàrr mu bhith a-muigh ann an gàrradh?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Dè an dath fhlùraichean as fheàrr leibh?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "An toigh leibh lusan a bhith agaibh anns an taigh?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Ciamar a bhiodh latha grianach foirfe dhuibh fhèin?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Innsibh dhomh mu chù air an robh aithne agaibh."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Cait no coin, no gin dhiubh? Dè as toigh leibh mun deidhinn?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Dè na h-eòin a chì no a chluinneas sibh a-muigh?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "An robh sibh ri iasgach a-riamh, no an robh tanca èisg agaibh?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Dè am beathach as bòidhche a chunnaic sibh a-riamh?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Innsibh dhomh mu chàr a chòrd ribh."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Am b' fheàrr leibh latha a chur seachad air a' chladach no am measg nam beann?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Càite am bu toigh leibh a dhol air chuairt?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Nam b' urrainn dhuibh itealaich thairis air àite sam bith, càite am biodh sin?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Innsibh dhomh mu thuras a chòrd ribh gu mòr."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Dè an seòrsa obair a chòrd ribh a bhith a' dèanamh?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Dè an cur-seachad a b' urrainn dhuibh uairean a chur seachad ris?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Dè an rud air an robh aithne oirbh airson a dhèanamh no a chàradh?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Dè a' chomhairle a bheireadh sibh do dhuine òg a tha a' tòiseachadh air obair?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Dè an seòrsa ceòl a bheir oirbh a bhith a' bualadh nan casan?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Dè a nì cèilidh no pàrtaidh fìor mhath dhuibh?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Cò an seinneadair as toigh leibh a bhith ag èisteachd ris?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Dè am film no am prògram telebhisein as fheàrr leibh fhaicinn a-rithist?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Dè as motha a tha a' còrdadh ribh mun t-samhradh?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Dè as toigh leibh mun fhoghar?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Dè an rud ciallach cluthar as toigh leibh a dhèanamh air feasgar geamhraidh?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Dè a' chiad chomharra air an earrach dhuibh fhèin?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Sneachd, uisge no grian: dè am fear as fheàrr leibh?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flùr ann am poit",
+          "regions": {
+            "sky": "Cùlaibh",
+            "table": "Bòrd",
+            "stem": "Gas",
+            "leaf-left": "Duilleag chlì",
+            "leaf-right": "Duilleag dheas",
+            "petal-1": "Bileag 1",
+            "petal-2": "Bileag 2",
+            "petal-3": "Bileag 3",
+            "petal-4": "Bileag 4",
+            "petal-5": "Bileag 5",
+            "petal-6": "Bileag 6",
+            "petal-7": "Bileag 7",
+            "petal-8": "Bileag 8",
+            "center": "Cridhe a' fhlùir",
+            "pot": "Poit",
+            "pot-rim": "Bile na poite"
+          }
+        },
+        "house": {
+          "name": "Taigh",
+          "regions": {
+            "sky": "Speur",
+            "sun": "Grian",
+            "grass": "Feur",
+            "chimney": "Similear",
+            "walls": "Ballaichean",
+            "roof": "Mullach",
+            "door": "Doras",
+            "window-left": "Uinneag chlì",
+            "window-right": "Uinneag dheas",
+            "path": "Slighe"
+          }
+        },
+        "teacup": {
+          "name": "Cupan tì",
+          "regions": {
+            "background": "Cùlaibh",
+            "saucer": "Sòsar",
+            "handle": "Cluas",
+            "cup": "Cupan",
+            "band": "Stiall air a' chupan",
+            "tea": "Tì"
+          }
+        },
+        "butterfly": {
+          "name": "Dealan-dè",
+          "regions": {
+            "background": "Cùlaibh",
+            "wing-top-left": "Sgiath àrd chlì",
+            "wing-top-right": "Sgiath àrd dheas",
+            "wing-bottom-left": "Sgiath ìosal chlì",
+            "wing-bottom-right": "Sgiath ìosal dheas",
+            "spot-left": "Ball sgiatha clì",
+            "spot-right": "Ball sgiatha deas",
+            "body": "Corp"
+          }
+        },
+        "sailboat": {
+          "name": "Bàta-seòlaidh",
+          "regions": {
+            "sky": "Speur",
+            "sea": "Muir",
+            "sail-big": "Seòl mòr",
+            "sail-small": "Seòl beag",
+            "mast": "Crann",
+            "hull": "Bàta",
+            "flag": "Bratach"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Cidsin agus gàrradh",
+          "baskets": [
+            "Anns a' chidsin",
+            "Anns a' ghàrradh"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Measan agus beathaichean",
+          "baskets": [
+            "Measan",
+            "Beathaichean"
+          ]
+        },
+        "home-travel": {
+          "label": "Dachaigh agus siubhal",
+          "baskets": [
+            "Aig an taigh",
+            "A-muigh mun cuairt"
+          ]
+        }
+      }
+    }
+  }
+}

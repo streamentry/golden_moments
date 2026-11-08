@@ -1,32 +1,33 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Аҽзыҟаҵареи ахшыҩ агәабзиареи: аҭҵаарақәеи ашәарҭадареи"
+seoTitle: "Аҽзыҟаҵареи адеменциеи: аҭҵаарақәа ирҳәо"
+description: "Афизикатә активреи адеменциеи реидҳәалара, иара убас аиҳабацәеи адеменциа змоу ауааи рзы шәарҭада еиҿкаатәу аҽзыҟаҵарақәа."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Аҭҵаарақәа иаадырԥшуеит есымшатәи афизикатә активра адеменциа аҿиара ашәарҭара шармаҷуа,
+  2024 шықәса Lancet акомиссиа активдара 14 фақторк рахь иаҵанакуеит ҳәа иазгәанаҭоит.
+  Аха клиникатә ԥышәарақәа рҿы афизикатә зыҟаҵарақәа адеменциа мап ацәкра алшоит ҳәа
+  ишьақәырӷәӷәаӡам. Аҵәцаӷәӷәара, абаланс, агәырӷьара, ацәара рзы аҽсысра иамоу ахәарҭа
+  рацәоуп, убри аҟынтә ашьаҿаҭара, атәарҭаҿтәи аҽзыҟаҵарақәа, акәашара рхала иаԥсоуп.
+  Аҽзыҟаҵара ҿыц шәалагаанӡа аҳақьым шәицәажәа.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Афизикатә активра змоу ауаа рҿы адеменциа аҿиара ашәарҭара еиҳа имаҷуп, аха арҭ ахәшьарақәа ахылаԥшратә ҭҵаарақәа ирылҵуеит, клиникатә ԥышәарақәа рҿы ишьақәырӷәӷәаӡам."
+  - "5-шықәсатәи аҽзыҟаҵарақәа рыԥышәарақәа аиҳабацәа ргәуԥқәа рыбжьара ахшыҩтә усураҿы иубарҭоу еилкаарадара шьақәнарӷәӷәаӡомызт."
+  - "CDC 65 шықәса иреиҳау аиҳабацәа рзы анаукатә ссирқәа аеробикатә, аҵәцаӷәӷәаратә, абаланстә усурақәа ирыҵанакуеит, убри аан кьакьа сысра шакәзаалакгьы сысрадара аасҭа еиӷьуп ҳәа иазгәанаҭоит."
+  - "Адеменциа змоу ауаа рзы акызаҵәык аплан аасҭа еиҳа ихадоуп есымшатәи еицыҟаҵаратә кьаҿқәа: ашьаҿаҭара, ма атәарҭаҿтәи ахәмаррақәа."
+  - "Есышықәса ԥшьҩык аиҳабацәа рахьтә иагханы икаҳауеит иреиҳау уаҩык, убри аҟынтә абаланси ашәарҭадареи раԥхьа игылоит."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Афизикатә зыҟаҵарақәа адеменциа мап ацәкра рылшома?"
+    a: "Уи азы гарансиа аӡәгьы иҭара илшом. Аҭҵаара рацәа афизикатә активреи адеменциа ариск амаҷреи реидҳәалара иазгәарҭоит, аха клиникатә ԥышәарақәа ишьақәдырӷәӷәаӡам аҽзыҟаҵара адеменциа шаԥырхаго. Аха аҽзыҟаҵарақәа даҽа хәарҭара рацәа шамоу ишьақәырӷәӷәоуп, убри аҟынтә рҟаҵара иаԥсоуп."
+  - q: "Адеменциа змоу ауаҩы аҽзыҟаҵарақәа ҟаиҵар шәарҭадама?"
+    a: "Аиҳарак ааи, аплан аԥҵара ала. National Institute on Aging иажәалагалалоит аҽзыҟаҵара ҿыц шәалагаанӡа аҳақьым шәицәажәарц, еиҳа иманшәалоу амаҭәеи амашьыни алышәхырц, аӡы шәиржәырц, аамҭа кьаҿыц шәаҭарц. Ауаҩы ишаԥышәахаз, дшәарҭаз ма дгәамԥхаз убозар, шәаангыла."
+  - q: "Иарбан зыҟаҵарақәоу итәтәаны ҟаҵахо?"
+    a: "Итәтәаны ҟаҵахоит аиҵысрақәа, атәарҭатә иога, аҳауатә шар ма ахәмарра ҭыхшьа, апакетқәа рыҭыхра, аӡы зҭоу абанкақәа рҩаӡара, алентақәа рыҵысра, атәарҭатә велосипед апедалқәа рҿы асысра. Ашьаҿаҭара уадаҩхазар, арҭ зегьы ибзиоу алхрақәоуп."
+  - q: "Ауаҩы аҽсысра димҭахузар шәҟаҵари?"
+    a: "Шәымхычлан. Анаҩс даҽазны шәаԥышәа, шәара шәхаҭа шәҽалагала, ибзианы издыруа амузика шәаԥнашәла, ма асысра ҩнытә усурас иҟашәҵа — аҵаӷәа аҵаара ма ашәҭқәа ӡы рызҭара. Апошьҭа аҭыӡҭахь кьаҿны аццарагьы, анҭыҵ еицтәтәаны аԥсшьарагьы хәарҭоуп."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +52,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Афизикатә активра — ахшыҩ агәабзиара аҭҵаарақәа раан зегь реиҳа иҭырҵаауа ҟазшьоуп. Аҭҵаарақәа уи адеменциа аҿиара ашәарҭара шармаҷуа иазгәарҭоит, аха физикатә зыҟаҵарақәа адеменциа мап ацәкра рылшоит ҳәа шьақәдырӷәӷәаӡом. Иубарҭоу заҵәык — асысра шәқәра шаҟазаалакгьы аҵәцаӷәӷәара, абаланс, агәырӷьара, ацәара бзиа ирыцхраауеит. Ари адаҟьаҿы аҭҵаарақәа ирҳәо, аиҳабацәа шаҟа активра рымазароу, иара убас адеменциа змоу шәыҩныҵҟатәи шәацны иманшәалоу аҽсысра шыҟашәҵаша шәазхәыцроуп.
 
-## Does exercise lower the risk of dementia?
+## Афизикатә зыҟаҵарақәа адеменциа ашәарҭара армаҷуама?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Аҭҵаарақәа иаадырԥшуеит афизикатә активра змоу ауаа рҿы адеменциа аҿиара ашәарҭара имаҷуп ҳәа, аха ари ашьақәырӷәӷәара аҳәаақәа амоуп. [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) афизикатә активдара иара иаԥсахра ҟалоу 14 шәарҭаратә фақторк рахь иаҵанакуеит. Арҭ 14 фақтор зегь еидкыланы дунеикаҿ адеменциа 45% иҟоу рзы иахҟьоит ҳәа рымодель иаанарԥшуеит.
 
-Here is what the evidence looks like:
+Абар аҭҵаарақәа иаҳдырбо:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Ахылаԥшратә ҭҵаарақәа акы заҵәык иақәшаҳаҭуп.** Акомиссиа иахәаԥшыз 58 ҭҵаарақәа ргәаҭара иаанарԥшит афизикатә активра змоу ауаа рҿы адеменциа ашәарҭара 20% еиҳа имаҷуп ҳәа. Зегь реиҳа еилкаау аиԥшымра убарҭан хьысра змам ауааи кьакьа сысра заҵәык змаз ауааи рыбжьара.
+- **Аидҳәалара ҩ-ганкахьылагьы иҟазаргьы ҟалоит.** Акомиссиа иазгәанаҭоит активдара ашәарҭара иахҟьартә ҟалап ҳәа. Аха иара убас адеменциа анаҩстәи адиагноз аҟаҵара аԥхьа шықәсыбжак раԥхьа иалаго ахшыҩтә ԥсахрақәа ауаҩы иактивра еиҳа имаҷ иҟарҵартә ҟалоит.
+- **Аклиникатә ԥышәарақәа еилкаарадоуп.** Аԥышәарак аҿы 78 шықәса зхыҵуаз 945-ҩык аиҳабацәа хә-шықәса мчыбжьык ҩынтә ахылаԥшра аҵаҟа аҽзыҟаҵарақәа ҟарҵон ма аҿырԥштә гәуԥ ахь ирышьҭын. Аҵыхәтәаны агәуԥқәа рыбжьара ахшыҩтә усураҿы иубарҭоу еилкаарадара ҟамызт. Аҿырԥштә гәуԥ аҿы иҟаз аӡәырҩы рхатә гәаԥхарала активны иҟан, убри алҵшәақәа реилкаара еиҳа иуадаҩнатәит.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) ииашоу аҭак аҟәыҵуеит. Афизикатә активреи Альцгеймер ичымазара мап ацәкреи рыбжьара иубарҭоу еидҳәалара шьақәырӷәӷәаӡам, аԥышәарақәа рҿгьы аҽзыҟаҵарақәа ачымазара аԥырхагоит ма иаркьаҿуеит ҳәа аҳәаразы хыԥхьаӡара рацәала ашьақәырӷәӷәарақәа амаӡам. Аха аҽзыҟаҵарақәа акаҳарақәа, адепрессиа, адиабет, ашьақәыӷәӷәара, аинсульт рышәарҭара армаҷуеит. Арҭ ачымазарақәа шьоукы рхала ахшыҩтә лшарақәа реиҵахара ирыдҳәалоуп.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Ииашоу алкаа убас иҟоуп: иахьа уҽыҵсыс, уи иахьатәи уԥсҭазаара еиӷьнатәуеит. Ахшыҩ азы ахәарҭара — ҟалап иҟало бзиарак аакәзар, гарансиак аӡәгьы уиҭом.
 
-## How much activity do older adults need?
+## Шаҟа физикатә активра аҭахузеи аиҳабацәа?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[CDC 65 шықәса иреиҳау аиҳабацәа рзы анаукатә ссирқәа](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) мчыбжьыцыԥхьадза х-хкылҵшәак рыҟаҵара шәаԥнагоит:
 
-| Type | Weekly amount | Examples |
+| Хкы | Мчыбжьтәи аҩаӡара | Аҿырԥштәқәа |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Аеробикатә | Иаҵанакуа 150 минут еиҿкаатәу активра, убри аҟнытә 30 минут 5 мшы | Иццаку ашьаҿаҭара, акәашара, аӡтә аеробика |
+| Аҵәцаӷәӷәаратә | Мчыбжьык 2 мшы инадыркны, аҵәца хадақәа зегь ралахәара ала | Амаҷбацқьақәа ма аӡы зҭоу абанкақәа рыҩаӡара, алентақәа рыҵысра |
+| Абаланс | Есымша/еиҿкааны | Ашьапа ашьҭахьтәи ахәҭеи аԥхьатәи ахәҭеи аҵакрала аццара, атәарҭа аҟынтә агылара |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Арҭ зегьы хықәкырақәоуп, маҷӡа аԥкрақәа ракәӡом. CDC иазгәанаҭоит: шәалшозар шәахьымӡозар, шәыгәабзиареи шәылшарақәеи ишрылшо ала шәҽышәсыс. Кьакьа сысра шакәзаалакгьы сысрадара аасҭа еиӷьуп.
 
-## Gentle ways to move for older adults
+## Аиҳабацәа рзы ласы-ласы иҟаҵахо аҽсысрақәа
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Уаҩы дицны ашьаҿаҭара.** Аҩыза, агәыла дицны есымшатәи ашьаҿаҭара ацәажәарагьы ашәарҭадарагьы иацхраауеит.
+- **Атәарҭаҿтәи аҽзыҟаҵарақәа.** Атәарҭаҿы анапақәа рыҩаӡара, ашьапыкәацәқәа ргәылгара, атәарҭаҿы амарш ҟаҵара, атәарҭатә иога — абаланс ашәарҭарада аҵәцақәа ирӷәӷәоит.
+- **Аҩныҵҟа акәашара.** Ауаҩы иқәыԥшра аамҭазтәи амузика шәаԥнашәла, шәеицсыс, шәацкәаша. Ҳара ҳаԥҵамҭа [амузикатә уснагӡақәа рзы анаукатә ссир](/activities/music/) хьыԥхьаӡара рацәала аидеақәа амоуп.
+- **Ҩнытә маҭәарқәа рыла аҵәцаӷәӷәара.** Ибзианы иубо ателехәаԥшра шәанахәаԥшуа аӡы зҭоу ашошақәа ма абанкақәа шәҩаӡала.
+- **Абаҳча аҿы ақәгылара ма аҩнытә усурақәа.** Ашәҭқәа ӡы рызҭара, амҵарсра, аҵаӷәа аҵаара, амаҭәа аиҵарбара — зегьы хәарҭоуп. Шәахәаԥш [анҭыҵтәи абаҳчатәи уснагӡақәа](/activities/outdoor-and-gardening/) иара убас [аҩнытә уснагӡақәа](/activities/household-tasks/).
+- **Аӡтә зыҟаҵарақәа.** NIA аӡтә аеробика аҽзыҟаҵарақәа алыххоит адгьыл аҿы асысра рышьапыкәацәқәа изыцәгьоу ауаа рзы.
 
-## How to exercise with someone living with dementia
+## Адеменциа змоу ауаҩы дицны аҽзыҟаҵарақәа шыҟаҵатәу
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Адеменциа змоу ауаҩы изы хықәкыс иҟоуп аманшәалара, агәырӷьара, есымшатәи алшарақәа рыхьчара, акәымкәа ацифрақәа рахь анаӡара. NIA ишазгәанаҭо ала, афизикатә активра Альцгеймер ичымазара змоу ауаҩы иҵәцақәа, ишьапыкәацәқәа, игәы бзианы иааникылоит, иара убас агәырӷьареи ацәареи еиӷьнатәуеит. Аҽзыҟаҵара ҿыц шәалагаанӡа шәҳақьым дицәажәа. [NIA ахылаԥшцәа рзы анаукатә ссир](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) аҟынтә алабжьарақәа:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Есымша шәеицны шәашьаҿаҭала.** Ишәарҭадам, ибзианы издыруа, амҩахьынтә акгьы аԥырхага змам амҩа алышәх. Ауаҩы ихьыԥшымкәа дышьаҿаҭозар, шәтелефон номыр зну аилкаагатә браслет иманшәалоуп.
+2. **Аиҳабацәа рзы аҽзыҟаҵаратә видеоқәа шәыԥхьаӡа.** Шәеицтәтәаны ма шәгыланы еицышәҿыц.
+3. **Аамҭа кьаҿыц шәаҭала.** Аамҭа ду зцо ак аасҭа, мчыбжьык кьаҿқәа шәыԥшаарц еиӷьхоит.
+4. **Амузика шәаԥнашәла.** Ибзианы издыруа ашәақәа асысра уадаҩратә усурас акәымкәа, гәырӷьара шамоу убарҭа иҟарҵоит. Ауаҩы иргәаԥхозар, шәацкәаша.
+5. **Аӡи аманшәалатәи амашьыни шәырҭала.** Аҽзыҟаҵара аан ма уи анаҩс аӡы ма асок шәиржәла, иманшәалоу амаҭәеи аҽзыҟаҵара иазкыу амашьыни алышәхла.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Ашьаҿаҭара уадаҩхазар, [NIA Альцгеймер ичымазара змоу ауаҩы ихылаԥшразы анаукатә ссир](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) итәтәаны ҟаҵахо аҽзыҟаҵарақәа шәаԥнагоит. Арҭ атәарҭатә иога, апакетқәа рыҭыхра, аҳауатә шар ма ахәмарра ҭыхшьа, алентақәа рыҵысра, ласы иҟоу аҩнытә маҭәарқәа рыҩаӡара, атәарҭатә педалқәа рҿы асысра ирыҵанакуеит. Аҵаӷәа аҵаареи арура ахыхреи реиԥш иҟоу имариоу усурақәагьы хәарҭоуп.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Асысра иалшо real-ны шәахәаԥш. Lancet Commission аҽзыҟаҵарақәа ауаҩы игәыхьтә ҭагылазаашьа (иаҳҳәап, аԥсыҽра ма аԥсыргәаҭара) армаҷуеит ҳәа шьақәырӷәӷәарада иаанрыжьит. Шәеицсыс уи шәгәы еиӷьнатәуеит ҳәа, акәымкәа ауадаҩра ҭаху аҽны иаԥырхагоит ҳәа. Ауаҩы мап иҳәозар, уи аҿы шәарҭарадара ыҟам. Ҳара ҳгид [мап анаҳәо](/caregiving/when-they-say-no/) шәаԥхьар шәылшоит анаҩс даҽазны шәахынҳәырц. Аамҭа ԥхьа шәаангылазар, ма анҭыҵ шәеицтәтәаны шәԥсшьазар — уигьы бзиоу алҵшәоуп.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Аҽсысра анаҩс, [Calm Breathing](/games/calm-breathing/) реиԥш иҟоу ҭынчратә аамҭак шәашьҭиртә шәара шәҩыџьагьы шәицхраауеит. Итәтәаны, напласыла ахәмарразы, [Sort Together](/games/sort-together/) иара убас [Picture Bingo](/games/picture-bingo/) астол аҿы ибзианы шәахәоит.
 
-## Balance and fall safety
+## Абаланси акаҳарақәа раԥырхагеи
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Акаҳарақәа ласы-ласы иҟалоит, шәарҭароуп. [CDC аҳасабрбақәа](https://www.cdc.gov/falls/data-research/facts-stats/index.html) ишаадырԥшуа ала, есышықәса ԥшьҩык аиҳабацәа рахьтә уаҩык дкаҳауеит, аха абжагьы аҳақьым иарҳәомызт. Зны укаҳар, даҽазны акаҳара ашәарҭара ҩынтә еизҳауеит. CDC иаанарԥшуа ариск фақторқәа:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Ашьапыкәацәқәеи ашьапақәеи рыԥсыҽра
+- Ашьаҿаҭареи абаланси рҿы ауадаҩрақәа
+- Хәышәқәак, убри аҟнытә аҭынчратә хәышәқәеи антидепрессантқәакгьы
+- Ахәаԥшра/абзиабара аҿы ауадаҩрақәа
+- Ашьапа ахьаа ма иманшәалам амашьын
+- Ҩныҵҟатәи ашәарҭарақәа: икаԥсоу амаҭәарқәа, ахаҳәқәа (коврикқәа), амардуан ԥхасҭақәа
 
-To move more safely:
+Еиҳа шәарҭада аҽсысразы:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Иӷәӷәоу атәарҭа шәхы иашәырхәала** амашьына хәыҷқәа змам, шәгыланы шәызҟаҵозар астол ма агәыцәа шәнапа иахьанеиуа шәааигәа иҟашәҵа.
+- **Аҭыԥ раԥхьа ирыцқьалатәуп** аколхоз хәыҷқәа (коврикқәа), акабельқәа, аԥырхага зҭо амаҭәарқәа.
+- **Шәыгылана ласы-ласы шәгыла**, ауаҩы ихы дгәылгозар ма абаланс дицәыӡуазар, шәаангыла.
+- **Иӷәӷәоу амашьын шәышәҵала**, аноскиқәа ма иҭбаау аҩнытә машьын агәылара акәымкәа.
+- **Абаланс аҭҵаара шәхылаԥшла.** Атәарҭа аҟынтә агылареи ашьапа ахәҭақәа рыла ашьаҿаҭареи CDC абаланс аҽзыҟаҵарақәа ҳәа иазгәанаҭоит.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC иазгәанаҭоит аиҳабы дкаҳаны ихы иашьыр, убри аан ашьа арԥсыҽгақәа ижәозар, иаразнак аҳақьым дибароуп ҳәа.
 
-## Talk with a doctor
+## Аҳақьым шәицәажәа
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Аҽзыҟаҵара ҿыц шәалагаанӡа аҳақьым шәицәажәа, еиҳарак игәы, иԥсыҭагара, ишьапыкәацәқәа, абаланс ауадаҩрақәа ма адеменциа змоу ауаҩы изы. Аҳақьым ма атерапевт шәарҭадам аҽзыҟаҵарақәа шәизирбоит, иара убас ахәышәқәа абаланс иаҳәома ҳәа гәеиҭоит. Аҳақьым изеиҭашәҳәа акаҳарақәа зегьы, аԥхасҭада икаҳазаргьы. Аҽзыҟаҵара аан акәы ак иахьазар ма иманшәаламхар, шәаангыла. Иаразнак агәыхь хьанҭахар, аԥсыҭагара уадаҩхар, ма хшыҩдара ҟалар, 103 ма 112 ахь ателефон шәаԥхьа.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Ари адаҟьа зегьы ирзеиԥшу информациоуп, медицинатә лабжьараӡам. Шәахәаԥш ҳара [медицинатә мапкра](/medical-disclaimer/). Еиҳа иҭбаау асахьа шәабаразы, шәаԥхьа [адеменциа ашәарҭаратә фақторқәа рзы аҭҵаарақәа ирҳәо](/brain-health/risk-factors/) иара убас [адеменциа мап ацәкра алшома](/brain-health/can-dementia-be-prevented/).

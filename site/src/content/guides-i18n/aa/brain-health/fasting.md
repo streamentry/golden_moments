@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Waktih Soom kee Kas Duma: Xiinisso Iyyeem"
+seoTitle: "Waktih Soom kee Kas Duma: Xiinisso Iyyeem"
+description: "Sinamih xalot waktih soom kee kas dumak tan ceelo dagootuk raqta. Kaxxa marak abah yan qanshar kee kas duma le marah maaqo maaqem faxximtam barita."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Waktiwakih soom kas duma waasa hinnay rabaasa axcuk baxsale sumaq mayana.
+  Xiinissok maggoom lacah addat abeenim kinnuk, kaxxa marih xalot aben xiinisso
+  xannoot kee gabbaqot raqta. Soom kaxxa marak qanshar edde yanim takkem xiqta:
+  caddi kee kaxxa moroh kibuk dagowya, sukkar xalot dhiigak sukkar dagowya, lee
+  waynaan kee raduk gaba kalal. Kas duma le marak, duqaysitak maaqo kee lee
+  geyaanammay kaxxa hawwen kinni. Dhaqimik daktarak essera.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging iyyeemik, soom hinnay maaqo kalteya kaxxa maray warrayteh yaceenih baxsale sumaq manna."
+  - "Soom kee idaltot tan xiinissok maggoom lacah addat tanim kinnuk, tohuk yemeete gaba sinam fanah tamqem faxximiyya malito."
+  - "Kaxxa maral yemeete qansharat: maabalinuk caddi dagowya, moroh kibuk dagowya, sukkar xalot dhiigak sukkar dagowya, lee waynaan, samaqee kee raduk gaba kalal takkem xiqta."
+  - "Kas duma le mari maaqo kee lee habaanam hinnay akkuk sugen axcuk tunkuliyyaanam duudan. Kulli wakti maaqo kee lee duqaysitak geyaanah ken qoklaanam maaqo akkan waktiik gacta numtinuk kaxxa xaam le."
+  - "Kas duma le numuk soom makominay. Maaqo akkan gital kalalu abak dooraanah daktarak hinnay maaqoh taqbi le numuk essera."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Waktiwakih soom Alzheimer waasaa?"
+    a: "Toh waasa axcuk baxsale sumaq mayana. Xiinissok maggoom lacah addat tennem kinnuk, sinamal aben xiinisso xannoot kee gabbacot raqta, qunxa mara hinnay caddi le maral abeenim kinnuk caddi dagowya fantaaxaw luk tetteceetit. National Institute on Aging iyyeemik, soomih maaqo sinamah yaceenih baxsale sumaq mayana."
+  - q: "Waktiwakih soom kaxxa marak salaamataa?"
+    a: "Salaamata akkewaytam xiqta. Soom maabalinuk caddi kee moroh kibuk dagowya, lee waynaan, samaqee kee raduk gaba kalal baham xiqta, sukkar dhiigak dagowya sukkar xalo cakkisa maral bahaamat takkem xiqta. Mayo Clinic iyyeemik lafoh kibuk dagowya kee raduk gaba kalal le marak meqe gita hinna axcuk qaddoose. Tobbak daktarak essera."
+  - q: "Kas duma le num soom geyah xiqaa?"
+    a: "Malee. Kas duma le mari duqaysitak maaqo kee lee geyaanam taqbi edde geyaanam duudan, maaqo waynaan ken caalat dumaase kee caddi dagowya baham xiqta. Soom baxsale faayida maleeh qanshar baaha. Tohuk gexxaakah maaqo baxsaluk ken maaqiseenih, kaxxa gabat yanim kee lee duqaysitak geyaanam fantaaxaw luk yeceenim meqe."
+  - q: "Kas duma le num duqaysitak maaqo kee lee geyewaytem akket tan astooti miyya?"
+    a: "Caddi dagowya, sara caddik gabaaxeyta, daabur, kaxxa kobox waynaan, maaqo cinaanam wagit. Lee waynaanah National Institute on Aging qaddoosiyya: afa qalala, samaqee, sorkocobbaxik kaxxa gabat birraacowya kee mayanem yabalam kinni. Tohuk tan astooti geyteenik ken daktarah ixxica."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Waktiwakih soomiyya, tama baxaaqo baharaat saaqatah addat maaqo akkan gita kinnih addat hinnay ayyantak namma ayro maaqo kaxxa gabat daggoysiyya, kaxxa kasle xinta geyteeh, garoyti kutbeh garoyti migaq dacrisiyyah xiqtam qaddoosen. Atu kaxxa num tekkek hinnay kas duma le num dacrisetta num tekkek, xiinisso numtinuk iyyem kee aagagitte faxximtam taamit tan.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Ta dooqaysit ummattah ixxiga kinnuk, daktarih kassiit hinna. Daktarak hinnay maaqoh taqbi le numuk esserak maleh soom makominay, hinnay atu dacrisatta num maaqo gita makorisinay. Nel wagit [medical disclaimer](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Waktiwakih soom kas duma waasaa?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Waktiwakih soom kas duma waasa hinnay rabaasa axcuk baxsale sumaq mayana. National Institute on Aging (NIA) iyyeemik, maaqo kalteya hinnay soomih maaqoh aynaba kaxxa marak yaceenih baxsale sumaq mayana, tohuk kattat ken tu-gacta kee salaamata kaxxa maral geytimtam faxximiyya kaxxa gita kinni ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Sumaq dagootuk suge sababa
 
-The NIA gives several reasons:
+NIA maggo sababitte tacee:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Xiinissok maggoom lacal tetteceetit.** Qulul, kaxxa koboxle lac, baqoyti kee qalaytal aben xiinisso meqe gaba bayteh sugtay, toosooftik sinamal tamqem faxximtam malito. Lacal aben xiinissol takkayik, gaba edde kalali; garoyti baqoytil maaqo daggoysiyya manol gabbacoyte.
+- **Sinamal aben xiinisso xannoot tekkem.** Maggoom qunxa ayyanta hinnay alsaasat raqte.
+- **Sinamal aben xiinissok maggoom caddi dagowya fantaaxaw luk tetteceetit** caddi kaxxa maral, kas duma hinnay kas koboxul hinna.
+- **Kaxxa mara edde hayyaanam xannoot.** Maggo xiinisso 60 liggida hinnay tohuk qunxaaneyta le maral tetteceetit.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026 liggidal aben xiinisso 60 liggida kee tohuk kaxxa maral waktih soom baxsaluk wagitte. Ta idaltot sumaq dagootuk rabiik gexxaamah xannoot xiinissol, gabbac wakti kee kalale gital temeetem geyte. Kas kee caddo wagitta gaba baxsale xiinissok temeetek kalah xiinissoh gaba koboxuk mamootinno. Xiinisso qaddoosiyyak gexxaamah, gabbaq wakti le maaqo hinnay dheer soom kaxxa maral uma gaba baham duudam qaddooseenih, xiinissok abbobti kaxxa marak aagagitte faxximtam qaddoyse ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Garoyti xiinissok mari iyyeemik numtinih moro soomih addat moroh moro giclam migaq fanah meqe takkem xiqta axcuk heeni, takkayik ta xinto xiinissoh addat tan. NIA saytunuk qaddoosiyyak gexxaamah saynisih sumaq digiruk mayana.
 
-## What are the risks of fasting for older adults?
+## Kaxxa marak soomik yanim xiqta qanshar miyya?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Soom maggo kaxxa marak qunxa carsa hinna. Yanim xiqta qanshar edde tanim:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Maabalinuk caddi dagowya.** Numtinih moro faxximtamik daguk maaqo maaqem caddi dagowya kee kaxxa moroh daro dagowya bahta, tohuk gexxaamah numtin caddo xayi takkem xiqta.
+- **Moroh kee lafoh kibuk dagowya.** NIA qokoluk namma liggida aben maaqo daggoysiyyah xiinisso qunxa kee dhiiruk tan maral, lafoh xalu kee moroh qunxaaneytal dago dagowya geyte.
+- **Sukkar xalot sukkar dhiigak dagowya.** Insulin hinnay gari sukkar xalo cakkisa mara maaqo tunkuliyyaanam hinnay wadiruh hayyaanam dhiigak sukkar daggoysam xiqta, [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia) qaddoose gital. Dhiigak sukkar dagowya samaqee, kas kobox kee giiriyya baham xiqta.
+- **Lee waynaan.** Maaqo luk lee waytam tekkek, numtin lee waynaan baham xiqta.
+- **Samaqee kee raduk gaba kalal.** Mayo Clinic iyyeemik waktih soom numtin kaxxa daabur kee samaqee edde baham xiqta, lafoh kibuk dagowya kee raduk gaba kalal le marak meqe maaqo hinna axcuk qaddoose ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Gari gaba kalal.** Mayo Clinic migaq biyak, caalat kalal kee afat waynaan qaddoose, 16 saaqatah soom kee 8 saaqatah maaqo sorkocobbaxih biyak qanshar kaxxoowam xiqtam ceelo edde tanim qaddoyse. Tohuk tan ceelo digiruk mayana.
 
-## Why is eating enough the bigger concern with dementia?
+## Kas duma luk maaqo duqaysitak geyaanam maaxah kaxxa hawwen kinni?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Kas duma le marak, kulli wakti kaxxa taqbi **duqaysitak** maaqo kee lee geyaanam kinni, kaxxoowtam hinna. Alzheimer's Association qaddoosiyyamik xalot gubal kee wadirih caddol tan mari maaqoh dooraanay xannootuk gibiditak, maaqo habaanam hinnay akkuk sugen axcuk tunkuliyyaanam duudan. Maaqo waynaan ken caalat dumaase kee caddi dagowya baham xiqtam edde qaddoyse ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society iyyeemik maaqo duqaysitak waynaan caddi dagowya, moroh kibuk dagowya, daabur kee kobox waynaan baham xiqta, toh numtin gabbacoyseetih biyakak xalu maabaata gital kalalam xiqta ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Ta sababittek gexxaamah, kas duma le numuk soom meqe kassiit hinna.** Maaqo habaanam axcuk maaqo waynaan edde takkem xiqta. Kas duma le num maaqo gital kalalu abaanam ken daktarak hinnay maaqoh taqbi le numuk esserak tanim faxximta.
 
-## What are the warning signs of poor eating or drinking?
+## Maaqo kee lee waynaanak astooti miyya?
 
-Watch for:
+Ta astooti wagit:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Caddi dagowya**, hinnay sara numtinil caddik gabaaxeytam.
+- **Maaqo cabaanam hinnay cinaanam**, hinnay afat maaqo amol hayyaanam.
+- **Daabur hinnay kobox waynaan.**
+- **Afat waynaan (constipation)**, toh maaqo kee lee waynaan luk xabbaaxam duudda.
+- **Lee waynaanah astooti.** NIA qaddoosiyyamik afa qalala, samaqee, sorkocobbaxik kaxxa gabat birraacowya, kee mayanem yabalam, tohuy kas duma numtinuk baham duudda ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Maaqo waynaan maggo sababittele: idooquh biyak hinnay kassiinoh ibbixxah gibidiyya, qusba xalooti, rookariyya, afat waynaan, daabur kee meqenta, hinnay afat xami kee suunah kalalu. Ta astootik tanem daktarah ixxica. Ken daktar sabab wagiteh maaqoh taqbi le num hinnay xalooti ken giddul haytam xiqta.
 
-## How can you help someone eat and drink enough?
+## Numtin duqaysitak maaqo kee lee geyaanah mannal qokolta?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Qunxaaneytih tan maaqo kee kobox-maaqo kulli wakti yaceenim**, sidoc kaxxa maaqok gacta numtinuk meqe.
+- **Kaxxa gabat raadisan maaqo hayyaanam**, xami kalalu abak gexak. Maaqo cinaanam tekkek sukkar-le maaqo meqe takkem xiqta; sukkarih caddo kaxxa marak daktarak essera.
+- **Lee gabat xayiik hayyaanam** kee qunxa koobab kulli ayro cakkisaanam. Maraq, maywa, qalay kee caano edde takkem duudan.
+- **Gabbacot maaqo maaqeenim** xiqtanam tekkek. Maaqo akkan wakti sorkocobbaaxih qokol kinni, qunxaaneytik aban taama hinna.
+- **Gabat maaqiyya abaanam**, sandwiic, maywah bifra hinnay dorohoh moro, kullaaloytih taama gibiditeh tektek.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Nel tan [diet guide](/brain-health/diet/) addat maggo maaqoh kassiititte tan. Maaqo bicisaanamis meqe qokol takkem xiqta; wagit [household tasks](/activities/household-tasks/).
 
-## Talk with a doctor
+## Daktarak essera
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Atu soom gital kalalu abak doortaamat daktarak hinnay maaqoh taqbi le numuk essera, sukkar xalo hinnay dhiigih xalo cakkisetta num tekkek, caddi dagowya geytek, hinnay raduk gaba kalal le num tekkek. Kas duma le numuk, ken daktarak ayrol kulli wakti maaqo kee lee manna akkan faxximtam essera, soomik kalah.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Kas kobox birraaceeh, raduk gaba kalal hinnay dhiigak sukkar kaxxa gabat dagowteh takkek, sissikuk daktarih qokol geeya.

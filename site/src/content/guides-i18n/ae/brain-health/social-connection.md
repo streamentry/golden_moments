@@ -1,32 +1,31 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Haoxšaϑrī Mazgaheca Drvatāt: Ēvāyō, Vi-yāitiš, Uši-marziš"
+seoTitle: "Ēvāyō, Vi-yāitiš ca Uši-draojyāi Ātaŋkō"
+description: "Yaϑa ēvāyō vi-yāitišca uši-draojyāi hacante, ciš Baēšazahe Sarō aoxte, uta frašna paϑō haoxšaϑrāi."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Paiti-darštayō vi-yāitīm uta ēvāyōm paiti zrvānem apara-hayāc uši-draojyāi vazdvaite.
+  Hā 2024 Lancet Commission saŋhaiti vi-yāitiš aētem yaϑa 5% āpaiti, aŋhən yaϑa paurva
+  uši-draojiš martiyā apastūti. Haoxšaϑrī, haomanō-vərəzya uta sraomanō paiti-barəti
+  haomanahya upamanaiti. Yōi uši-marzanam darənti, hām-vərəzyā urvāzmanāi uta hu-jīvātōi vazdvare.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Hā Lancet Commission paiti vi-yāitīm apara-zrvāne aēvīm 14 vərəzyanąm ātaŋkanąm uši-draojyāi dadāiti, yaϑa 5% vīspanąm."
+  - "Aēte 2023 paurva-framānā US Surgeon General aoxte yaϑa darəγa ēvāyō uta vi-yāitiš yaϑa 50% vazdvare uši-draojyāi apara-zrvāne narąm dadāiti."
+  - "Frāyō ima daxštō vi-ciϑyehe asti, uta paurva uši-marziš hava-tanuyā martiyā apastuyāt."
+  - "Sraomahe uta cašmanąm anāhuš, aēva-nidāitiš uta paiti-barəti vi-yāitīm fra-vaxšyanti."
+  - "Aēibyō yōi uši-marzanam darənti, urvāzma hām-vərəzya hu-jīvāitīm upa-baraiti; cidra haomanahya asti, nōit arəϑa."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Ēvāyō uši-draojīm cinasti?"
+    a: "Aēta nōit vī-cidyāta. Pouru paiti-darštayō ēvāyōm uta vi-yāitīm uši-draojyāi vazdvaite, bādu paurva manō-šyātayō martiyā apastuyāt. Haoxšaϑre manō-drvatāi uta tanu-drvatāi vahištō asti, aēva-dā paiti-barəti aipi vaedya."
+  - q: "Ciš tarō-dāitiš antarə ēvāyōm uta vi-yāitīm?"
+    a: "Vi-yāitiš aēta asti yaϑa kamna martiyā paiti-vācāi santi. Ēvāyō dūxša-manō asti yaϑa aēvō aŋhat bā aēva-nidāitiš nōit ēvāyō dadāiti, bādu antarə pouru martiyā ēvāyō vindaiti."
+  - q: "Yaϑa pitarəm yō uši-marzanam dārayati haoxšaϑre upastāne?"
+    a: "Mərəzu uta nityō haoxšaϑrō vahištō asti. Hām-vācīm hapta-aēvahmi, hām-vərəzyām paiti mezīm, rāma-hanjamanəm, ayapica paitīštim catur-paiti yaēca frazaintīm paiti-jasata. Hanjamana kamna uta ramna dāraya, uta taēbyō yaϑa xšayehe dāta."
+  - q: "Kudā apara-zrvānāi vi-yātāi upastām vindāne?"
+    a: "Hā Eldercare Locator vīspa-vāstra upastā vi-cāraiti xšaϑre apara-zrvānāi hanjamana. Aēte paiti 800-677-1116 ayapica eldercare.acl.gov paiti-jasata."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +53,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Martiyā haoxšaϑrāi dāte santi, aētaca zrvānā nōit paiti-bavaiti. Paiti-darštayō ēvāyōm uta vi-yāitīm apara-zrvāne vazdvare uši-draojyāi, zərədahe āmayāi uta dūxša-manahīm haŋhərəzayeinti. Paiti-daršta nōit aŋha hacana yaϑa aētacit arəϑa asti. Aēva pəzana ima daxšta daēsayaiti, yaϑa haoxšaϑre bavaiti, uta tōi ciš caraiti yōi uši-marzanam jīvanti.
 
-## Are loneliness and isolation linked with dementia?
+## Ēvāyō uta vi-yāitiš uši-draojyāi hacante?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Hə̄, pouru paiti-darštayō hacante, yasnaca arəϑō nōit fra-saxtō. Hā [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) vi-yāitīm apara-zrvāne aēvīm 14 vərəzyanąm ātaŋkanąm dārayati. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) saŋhaiti yaϑa 5% uši-draojiš ahmāt aŋhat.
 
-What the evidence shows:
+Ciš daxštō daēsayaiti:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Kamna hām-vācā, vazdvara ātaŋkō.** Commission dvo paiti-darštō framraviti yaϑa kamna hām-vāca vazdvare ātaŋkō dadāiti. Aēva 57% vazdvare aoxte, dida 18%.
+- **Ēvāyō aipi.** Ēvāyō, dūxša-manō vi-yāitīm, aipi vazdvare uši-draojyāi paiti pouru paiti-darštō hacaiti.
+- **Surgeon General aojiš.** Māhyā May 2023, US Surgeon General aētem [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) fradaϑa. Saŋhaiti darəγa ēvāyō uta vi-yāitiš 50% vazdvare uši-draojyāi apara-zrvāne dadāiti. Aipi 29% vazdvare zərədahe āmayāi uta 32% vazdvare asavahya dārayati.
+- **Cvat pouru asti.** Hā [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) vīndaiti yaϑa 24% martiyā 65 sardanąm uta fra-vaxšō vi-yātō santi.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Vazdra upazūitīš: Lancet Commission saŋhaiti yaϑa martiyā paurva zrvāne uši-draojyā haomanō apastūti. Aēva daxštō observational paiti-darštō aŋhat.
 
-## What is the difference between loneliness and isolation?
+## Ciš tarō-dāitiš antarə ēvāyōm uta vi-yāitīm?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+Hā [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) aoxte: **Vi-yāitiš** aēta asti yaϑa kamna martiyā hām-vācāi santi. **Ēvāyō** dūxša-manō asti yaϑa aēvō aŋhat. Martiya aēvō rāma-jīvāitīm vindaiti, uta antarə pouru martiyā ēvāyō zərədahe aŋhat.
 
-The NIA lists factors that raise the risk of both:
+NIA ātaŋka daēsayaiti:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Sraomahe uta cašmanąm anāhuš
+- Yātō anāhuš ayapica nōit vāša
+- Aēva-nidāitiš, ayapica maraϑyu maēšyāhe
+- Uši-draojiš ayapica manō-vahviš
+- Paiti-barəti aēibyō yōi āmayō santi
+- Shaēti-dūxšmanō ayapica hizvāhe anāhuš
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Sraoma vazdra asti. NIA saŋhaiti martiyā yōi nōit hu-sruto santi apastūti yaϑa hām-vāca dūxšara aŋhat. Ahmākam [hearing and brain health guide](/brain-health/hearing/) paiti sraomō vī-cārayaiti.
 
-## Practical ways to stay connected
+## Vərəzyō paϑō haoxšaϑrāi
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA pouru paϑō daēsayaiti. Aēva dvo vī-ciϑa:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Nitya hām-vācā.** Zrvāna aēva-ayārə ayapica hapta-aēvahmi hām-vācāi, paγe, ayapica kartīm naba.
+- **Video calls uta hu-manah-vaxšō.** Yaϑa nauva aŋhat, fra-caraiti daēsayanti. Paiti ahmākam [phone and video calls guide](/activities/phone-and-video-calls/) daēsa.
+- **Hanjamana paiti-jasata.** Sācīm, yasnō, yātō-hanjamana, ayapica rāma-vərəzya haoxšaϑrīm dadāiti.
+- **Paurva vərəzya nauvō karana** antara anya martiyā.
+- **Anya martiyā yāhī.** Haoxšaϑre yāhī. Ahmākam [exercise guide](/brain-health/exercise/) nemra paϑō dārayati.
+- **Pasu dāraya** yaϑa xšayehe paiti-barəti.
+- **Vīspa-vāstra upastā.** Senior centers uta Eldercare Locator (800-677-1116) upastām daēsayanti.
 
-## Why do shared activities matter in dementia?
+## Ciš-carəti hām-vərəzyā uši-marzanam vazdvare asti?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Aēibyō yōi uši-marzanam darənti, haoxšaϑrō urvāzmanāi uta rāmayāi asti, nōit kamna ātaŋkō. Lancet Commission saŋhaiti vərəzyā urvāzmō dārayanti. Hā [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) aoxte yaϑa vərəzyā hu-jīvāitīm upa-baraiti uta xraozdram kamna karana. Hā [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) aipi saŋhaiti martiyā urvāzmanō vərəzyā caranti.
 
-Ideas that work well:
+Hu-paϑō:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Patikarō hām-daēsa.** [Conversation Cards](/games/conversation-cards/) fra-mraviti yaϑa "Maoxta me..." Paiti ahmākam [reminiscence guide](/activities/reminiscence/) daēsa.
+2. **Hām-vərəzya paiti dvo.** [Picture Pairs](/games/picture-pairs/) patikara daēsayaiti uta nōit zrvāna asti. Ahmākam [how to play together](/caregiving/how-to-play-together/) paϑō daēsayaiti.
+3. **Xvaēti patikara.** [Photo Pairs](/games/photo-pairs/) hava patikara haŋkərəzayeiti.
+4. **Martiyā haŋkərəzaya.** [Picture Bingo](/games/picture-bingo/) xvaētō-hanjamanāi uta [care home groups](/activities/care-home-groups/) vahištō asti.
+5. **Gāϑā, nmanahya vərəzya, varəna.** Paiti [music activities](/activities/music/), [household tasks](/activities/household-tasks/) uta [activity ideas](/activities/ideas/) daēsa.
+6. **Paitīštīm nemra karana.** Ahmākam [visiting guide](/activities/visiting/) rāma-paitīštīm daēsayaiti.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Mərəzu uta rāmō dāraya. Asna nmano aēva dvo martiyā vahištō asti. Yaϑa martiya tarana aŋhat, vi-rāmō vahištō asti. Hām-nidāitiš paiti caēhem hu-dāitiš asti.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Aēibyō yōi aēva-nidāitiš jīvanti, NIA saŋhaiti astūta martiya vindata yō nityo paiti-jasat. Aipi memory cafe rāma-hanjamana asti.
 
-## Caregivers get lonely too
+## Paiti-bərəto aipi ēvāyō vindaiti
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA paiti-barətīm yaϑa ātaŋka vi-yāitīm dārayati. Zrvāna tōi paiti-frāsa, hanjamana uta rāmayāi dāraya. Ahmākam [caregiver self-care guide](/caregiving/caregiver-self-care/) paϑō daēsayaiti.
 
-## Talk with a doctor
+## Baēšazahe paiti-mrava
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Yaϑa tūm ayapica yo tē paiti-bərəto ēvāyō vindati, baēšazahe mrava. NIA saŋhaiti vazdra jīvāitiš vī-carana mrava. Dūxša-manahīm darəγa zrvāne depression aŋhat, ya baēšaza vī-cārayāti. Yaϑa apara martiya haomanō apastūti, aēta aipi baēšazahe mrava. Ahmākam [early signs and when to see a doctor](/brain-health/warning-signs/) paiti-jasata.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Aēva pəzana vīspa-vāstra asti, nōit baēšazahe framānā. Paiti ahmākam [medical disclaimer](/medical-disclaimer/) daēsa.

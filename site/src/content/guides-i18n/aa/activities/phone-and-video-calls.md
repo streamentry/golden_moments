@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Kas Dagna Le Numuh Bilbila kee Widiyoh Abtot"
+seoTitle: "Kas Dagna Le Marih Widiyoh Abtot"
+description: "Kas dagna le num dacarsa maraay derre le buxah widiyo kee bilbila abtot: tasgudduqo, tiriye, baaro, kobox kee qokolteynah giclooti."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Kas dagna le numlih aban bilbili gabbaaqik, kulli saqdi gineetih
+  akkuk, ittalih aban abtotut tewqek maysabba takke; hebeltoh caxá
+  hinnay lac yubleeniimik, suwarrat wagitaanaamak, kitaab qangara
+  tiriyaanaamak, kobox baaraanaamak hinnay koodot caddol xabbicowtu
+  takatakitaanaamak. Xiqtennek ayró kullim inki saqdih seeca, inki xaban
+  fay yaaboomuh cabe, xaqot yan numuk qokol fantaaxica.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Abtot bilbilah fantaaxico teceeh yabaay saayisa. Ittalih abtan inki sahal abtot massoowa."
+  - "Ayrók inki saqdih aban gabbaaqi bilbil, duddaaqik aban xexxarih yan bilbilak yayse."
+  - "Inki saqdi inki num yaabaamal meqe. Mangom ittalih yaabaanam kas-dagna le num kee ayti-gexxay le marih celta."
+  - "Xaqot tan qokolteyna aykaalo massoysak, garil daffeyak, suwar kee katakat abtootih gabá takkem duuda."
+  - "Ta ayró bilbil meqennuk kalek, gacayuk macanooleyk kalisa. Beera qangibbiyyaanim meqem kinni."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Kas dagna le numlih widiyoh bilbilat ma abtoota abiyya?"
+    a: "Inki sahal abtot massoowa: ku caxá, buxah lac hinnay duqaysiyyah buxa tasgudduqay; awwalti suwar ittalih bala; qangara tiriya hinnay warqata cakkuk auka; kobox baara; inki saqdih inki maaqo kallaasa; hinnay koodot caddol suwarrat xabbicowtu takatakita. Abtot bilbilah fantaaxico taceeh numuk yabaay fanteyna teyna abiyyam kalissa."
+  - q: "Widiyoh bilbil manaakak sugaanam faxximta?"
+    a: "Mangaqayuk atu tascobek gabbaaqih suga. Dagoo daqiiqaay macanooleeh gactam fanteenam kinnuk duudda, num daqayuk gaba-cattuh tekkek. Ayrók inki saqdih bilbilaanam, bilbil mangom sugeemik tayse."
+  - q: "Widiyoh bilbilak kas-kalay hinnay urufitay yekkeenik ma abna?"
+    a: "Toh num koodot fooca yublee waqdi kas-kalay hebelto le. Sahal bilbila aban, hinnay gar-caddi qokolteyna meqe saqdi tasyabale widiyo garcissa ruba, hinnay poostah kaardootaay suwar ruba. Bilbil meqennuk kalek, gacayuk duqusuk kalisaay kal ayró hinnay fanteen saqdi qangibbiya."
+  - q: "Inna bilbil fayyaise waytek widiyoh bilbil abtuh mannal qokola?"
+    a: "Buxah num, qokolteyna hinnay dacarsiyyah buxah taamisa mara bilbil qimbisaanaah aykaalo tibbixaanah essera. Mangi dacarsiyyah dabooqit widiyoh bilbilat qokolaanaah essera. Tabliit giddul hayeeniih koodo kaxxa heenik ayti aabbuh meqe takke."
+  - q: "Widiyol ittalih katakata duudan?"
+    a: "Yeey. Sahal gitay yaniih inki num koodo garcissaah kaqla num yuble suwar doora. Hinnay qokolteyna inki katakat tabliitil fakteeh numuh tabxé atu yabak tenlit sugtah. Saaqat kee tir le wayti katakat doora."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Kas-dagna le numuk derre sugaanam gabbataane celtaah takkem duudda. Bilbila kee widiyoh bilbili gubaaba mayalluqu waayiklak, meqennuk massoysen waqdi nummaak koboxih saqoota baaham duuda. Fanti gitaay meqem, kulli ayróh caddi yab abaanam kacanayseeniih, inki sahal abtot ittalih abaanam massoowaanama. Ta xaafot widiyo kee bilbilal taamita abtoota, bilbil mannal massoysaanaah, garil yan num mannal qokolu duudam warrayta.
 
-## Why plan an activity for a call?
+## Macah bilbilah abtot massossaanam faxximta?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Abtot bilbilah fantaaxico teceeh meqe gineetih hayta. "Mannal nanta? Ta ayró ma abte?" iyyam numuk kassis kee warrayto cattam kinnuk, celtaah gar-garissa. "Wagiti, timaatim kaxxeenih yanin" iyyam tu kaak macatta.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association mangi marih widiyoh yabi kak celtaam yaaxigeeh, kobox baaro hinnay suwar gassuquk [bilbilah masso dumaanaam](https://www.alz.org/help-support/caregiving/holidays) fantaaxicisa.
 
-## What activities work on a video call?
+## Widiyoh bilbilal ma abtoota taamitta?
 
-### Show and tell
+### Yubleeniimii kee warrayto
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Ku addunyat tanim keenih baaha. Kaameera caxat dabootik korrisa, buxah lac keenisgudduqa, kallassaanaam keenuble, baxa-baxih suwar fayya haya, hinnay bilbila taaqat daffeyay ayró hinnay caxá tasyabaleenim hay. Tubleenim sahal qangarat warrayaay gacsa yaceenih saqdi ceyita. Essero faxximtam mantu.
 
-### Look at photos together
+### Ittalih suwarrat wagita
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Wadirih suwar kaameerat hayisa, hinnay ku koodo gassuqaay inki kaxxa suwar inki saqdi tasyabale. Tubleenimik yaba: "Amo-qasa koofi wagiti." "Ah iyyi?" hinnay "Toh kassitta?" iyyak xabbaawa. Num migaq duqusuk yaceek, tohul kaalih gaxa. Sahal esseroorah nee [kassisih abtootih giclo](/activities/reminiscence/) wagita.
 
-### Read aloud
+### Cakkuk tiriya
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Gabbaaqi qangara, qilsimay, baxa-baxah kitaab inki bilbilal aabbuk tiriya, bax-abuk yemeete warqata, hinnay kaxxa num kicnih suge kitaabak qarixa cakkuk tiriya. Cakkuk tiriyaanam numuh aabboonuh saalih yaniimiy gacsa teceemiy macattam tece.
 
-### Sing or listen to music together
+### Kobox baara hinnay cakkuk anqabbaasa
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Kibri le kobox baara, hinnay kican muusiiqa ku xaqok fak. Kobox baaraanam mangi marankah yaabaanamak sahaltu tekke. Nee [muusiiqah abtootih giclo](/activities/music/) wagita.
 
-### Cook or bake at the same time
+### Inki saqdih kallaasa hinnay maaqo misa
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association ittalih inki maaqo kallaasoonuh widiyoh bilbil massossaanaam fantaaxicisa. Nammayh duqaysiyyah dabooqit bilbil massoysa. Garil yan num xalxaalum hinnay tamiik, atu sin wadirih kallaasah gita kataatta.
 
-### Watch something together
+### Inki tiyat wagita
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Association kalak kican film inki saqdih baxa-baxantah dabooqit wagitaanaah bilbilat yaabaanaam fantaaxicisa. Kas-dagna le numuh, gabbaaqi widiyo, wadirih telefishon warrayto hinnay koorih kobox, duddaaqik kaxxa filmik tayse.
 
-### Play a gentle game on a shared screen
+### Koodo gassuquk xabbicowtu takatakita
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Mangi widiyoh aykaalo koodo gassuqaanam duudda. Atu katakat fakteeh doorta; num ku warseeh suwar doora. Hinnay garil yan qokolteyna inki katakat tabliitil fakteeh keenih tabxé atu yabak tenlit sugtah.
 
-Games that work well this way:
+Tohul meqennuk taamitta katakat:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** atu kibri le qangara tiriyta, usun dabaq kaak yaacen, tohuk wadir yabih essero ambalalta.
+- **[Picture Pairs](/games/picture-pairs/):** kaxxa suwarrat kacanaysan xabbicowtu katakataay tamballeemik sugtu duudda, saaqat kee tir kak anewaytu.
+- **[Conversation Cards](/games/conversation-cards/):** suwar kee ittalih yaabaanuh fakkon yab.
+- **[Photo Pairs](/games/photo-pairs/):** ku aykaalot tandoore suwarrat kacanaysan katakat. Suwar ku koodot raaqa, usun atu gassuqte koodok yabalan.
 
-### Recorded messages
+### Raddisen warrayto
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Caagidih yan bilbil celta waqdi, gabbaaqi widiyo raddisa: salaam, kobox, caxat gexsit. Qokolteyna saalah yan saqdi tasyabale, num faxe maro gacta. Alzheimer's Association baxá hadiyya faktaamal gexxaamiy meqe waqdooti raddisaanaah rubaanam warse.
 
-## What about plain phone calls?
+## Sahal bilbili iyyaama?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Bilbili kaxxa fantaaxico le. Dementia Australia [ayrók inki saqdih bilbilaanam](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) kee amxalluqu waayinaam fantaaxicisa, kas-dagna le mari yab garayaanamah saqdi faxaanaah. Bilbilal:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Ku migaq kee sin xanoota sahantah warraya: "Salaam Abba, Jenny kinnuk, ku saybaxa."
+- Kasik yaaba, gabbaaqi qangaraarat, inki kasit inki saqdi.
+- War essereemik yayse war ceeyo: "Bari carra ku maaqo kallaase."
+- Gabbaaqi qangara tiriya, hinnay kican koboxuk qayna baara.
+- Gabbaaqisaay macanooleyk kalisa.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia kalak widiyoh bilbili yabi celte waqdi qokolaam yaaxige, num ku fooca yubleemih sabbatah. Bilbili kas-kalay leek, widiyo qangibbiya, hinnay tohubba.
 
-## How do I set up a video call that works?
+## Taamitta widiyoh bilbil mannal massoysaa?
 
-**Before the call:**
+**Bilbilak duma:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Kulli ayróh saqdi doora** num daqayuk gaba-cattuh yan saqdi, tohul raaqa. Kulli ayróh caddi qokola.
+2. **Garil tan qokolteynalih koboxa.** Dumi ayró ruban gaba-xafo massoowaanuh qokolta.
+3. **Aykaalo wagita.** Giddul hayen tabliit gabaat tibbixan bilbilak sahaltu tekke. Shaarjik yan, koodo ifih yan, xaban fayya ih yaabbamaay kassis. Aykaalo xafo leek teet faka, num meqennuk tiriyaanam duudek.
+4. **Inki abtot massoowa** kullim massoysa.
 
-**During the call:**
+**Bilbil suga addat:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Kaameerat xayyowuk daffeya** ifol, taaqat foocissik, derrek matanna.
+- **Kulli saqdi ku iyyiiti tasgudduqa**, migaq kee xanootat.
+- **Inki saqdi inki xaban.** Alzheimer's Association mangi xabani kas-dagna le marih kee ayti-gexxay le marih celtaam yaaxige. Mangoo buxah num yemeetek, gubat gaxa hinnay namma hinnay sidoocuh caba.
+- **Inki saqdi inki essero essere.** Family Caregiver Alliance [yeey hinnay mayyu iyyan sahal esseroora](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) kee xiqtennek doorit tasyabaleenim fantaaxicisa.
+- **Ceeyot saqdi caba.** Gacsa qambala. Qangara gurrukaanamal qokoltaanam duqusu.
+- **Ku fooca kee xaban kacanaysa.** Murcuza, amo gilibbaayaay xaban macanooleysa. Fooca qangarak mangom warisa.
+- **Maduqussina.** Num kaxxammowti hebelto yeh tekkek, tohum caba.
 
-**Ending the call:**
+**Bilbil kalisaanama:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Num gaba-catik duma kalisa, meqe waqdit.
+- Kulli saqdi inki salaam kacanaysa: "Beera qusrat bilbileyyo. Kookicniyo."
+- Mangom matamassina.
 
-## Tips for the helper on site
+## Garil tan qokolteynah giclooti
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Atu barrah bilbilaat qokolta numteyna, toobokoyta hinnay taamisa num tekkey, atu tah duddaah xiqta.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Saala le araca massoysa.** Telefishon xibaay daqaara alifa.
+- **Ku nafsi bilbil qimbisa,** sarrah tabliit giddul numuh yece hinnay inti caddol tibbixa.
+- **Garil daffeya, foocat hinna.** Ku xisiyya meqet. Faxximtek sahalit kassis: "Wagiti, Jenny kinni."
+- **Gabá takkay.** Suwar fayya haya, katakat doora, buxa tasyabaleenuh tabliit korsa.
+- **Gaba-cattu kee urufit wagita,** bilbil abah yan numuk kalisaanam faxximta saqdi warisa.
+- **Bilbil abah yan numuk meqeetey taamitteem warisa.** "Kuta kicinte" iyyam katayta bilbil massoowaanuh qokolta.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA derre yan maray idaltuh yan num [bilbilik meqe abtoota baritam](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving) qokolaanam duudaam fantaaxicisa, widiyoh bilbili innaah. Wadirih xalootat, qokolteyna aykaalo kullim tibbixam faxximta. Toh meqem kinni.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Num dacarsiyyah buxat sugek, Alzheimer's Foundation of America buxa widiyoh bilbilat buxah mara qokoltaah mawaam esseraanam fantaaxicisa. AFA kalak buxah maraay taamisa marih fanat suwar rubaanam kee kican alqoosa rubaanam warse, buxa idni teceemik wadir.
 
-## What if the call doesn't go well?
+## Bilbil meqennuk kalek ma abna?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Toh bilbili kas-kalay, fanteena aneewaa hinnay urufit leek yakke. Toh ku dambi hinna, bilbil kaxxa fantaaxico aalle waa iyyam hinna.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Num koodot kas-kalay leek celtaah tekkey, sahal bilbila hinnay raddisen widiyot korsa.
+- Urufit leek tekkek, kassiisa, saalah yan yab yaacaay, xabbicowtul kalisa.
+- Kulli saqdi bilbil meqennuk kalek, gaba ayró saqdit qangibbiya.
+- Atu kal num tekkeem kaak celtik, tohumul xabbicowtuk kaalih gaxa.
 
-It is fine to end early. A short, warm call is a good outcome.
+Daqayuk kalisaanam meqem kinni. Gabbaaqi, macanoole bilbil meqe gactu le.
 
-## Between calls
+## Bilbili fanat
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Gaba gitiytat keenit xayyowuk suga. Dementia Australia kaardoota, iimeel, suwar hinnay dagoo hadiyyoota rubaanam fantaaxicisa. Kulli acun inki kaxxa suwar kee gabbaaqi xafo le poostah kaardi mangom tiriyaanam duudan. Qokolteynah ruban teet kibriise [conversation cards](/games/conversation-cards/) katayta bilbilah massoowan yab tece.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Tabliit dooriyya kee massoowaanuh, [tablets and screens](/caregiving/tablets-and-screens/) wagita. Garil geytimoonuh, [visiting](/activities/visiting/) giclo wagita.

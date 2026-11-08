@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Kas Cabiyya Luk Yan Marah Pazil: Suura Kee Qangara"
+seoTitle: "Kas Cabiyya Luk Yan Marah Pazil"
+description: "Kas cabiyya luk yan marah suura kee qangari pazil doori: qunxaaneet kaxxiina, suwar, kaxxa fida, ittal abiyya kee xabbacowtam abaan wakti."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Kas cabiyya luk yan marah yayse pazil, qunxa qokoluk xannowtam kee
+  gexsit fanal xinto kaak geyaanim kinni. Dagoo, kaxxa qunxaane luk yan
+  kee baxxaqqa iyya kaxxa mari suura le suura pazil doora, sanduuqih
+  suura garil heeka, fooca qunxaaneytac dambisa. Qangari gurrusiyya kee
+  kuroswordi kaxxa fidat yayse. Fanti gabaaxit 4 qunxaaneyta le qonlayn
+  pazil meqe. Xinto luk tan waktil xabbaasa.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Keequh doora, caddoh meqelaamat akke kal: pazil taama inna yekkeemik, dagiik qunxaaneyta luk yan doora."
+  - "Kaxxa, celta qunxaane kee baxxaqqa iyya kullu le suura, qunxa qunxaane kee kaxxa qaranik raxmat le."
+  - "Kaxxa marih suwar meqe. Buqre, kuusina, makiinaani kee lac, qunxa marih kartuun akke kal."
+  - "Ittal abiyyam elle caban caagida. Qunxaaneyta gabaa gacisa, fooca baxsa, sanduuqih alfi garil haya."
+  - "Kaxxa fidat qangari gurrusiyya kee 4 hido 9 qunxaaneyta le qonlayn pazil ta saytil bilaash kinni."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Kas cabiyya luk yan marah mannaak qunxaaneyti pazil yayse?"
+    a: "Inki gacsa hinna. Naharat 1,000 qunxaaneyta abak suge num qimbot boolol kobox xintowtam dandaqa, gari mari taban kee namma kaxxa qunxaane luk yaysik dandaqa. Pazil taama celtaamak hido qasbo xabbaasintek, dagiik qunxaaneytal gaca. Ni qonlayn Picture puzzle 4 hido 9 qunxaaneyta le."
+  - q: "Suura pazil kas cabiyya luk yan marah meqee?"
+    a: "Maganu mari kaak xintowa, naharat pazil kacanuk sugen maray yekkek maganu yaysik. Pazil gabah aban caagid, baxxaqqa iyya fayxi kee warrayan suura yacee. Pazil kas cabiyya urisa hido xabbaasa iyya cagliti maayane, toysa xinto kee itta luk sugeenih doora."
+  - q: "Num suura pazil abam wayteek macah abnam xiqna?"
+    a: "Qunxaysaay sinni gabaak mangom aba: inki qunxaaneyta gabaa gacisa, hido ellecabo dagiik tan qunxaaneyta kah caba. 4 qunxaaneyta le qonlayn pazil fantakkaaha, qunxaaneyta kulluk baxsa, hido xannowte suura ittal wagarisa."
+  - q: "Kuroswordi kee qangari gurrusiyya kas cabiyya le marah meqee?"
+    a: "Qimbô caddol kaxxa fidat meqe akkum dandaqa. Qangari gurrusiyya fanteenik guba fan kee fooca fan yekkeeh dagal, xalay hido duma fan gexaamih raxmat le. Kassisiisak tan qangara kaxxa yabak maabisaay ittal taamita."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Ittal taamitan xeedok suura pazil tarabezal fidisan waqdi, usuk xabbacowti caagid kinni. Yab wayuk ittal gactaanam dandiitan, suura siinik warrayan yab tacaye, ellecabo qunxaaneyta daffeynam kaxxa xinto le. Kas cabiyya tekke dooqat pazil tekke dooqat qokoluk tunkulloom kacan. Mangom gibdiitiya yekke pazil, asaku deqsitan carraa qasbiyyi fan korisa. Ta maaxallat suura pazil, qangari pazil kee sahal yan qonlayn pazil dooraanam kee araca heenaam, kaadu gibdiitiya yekkeek abaanam warissa.
 
-## Are puzzles good for people with dementia?
+## Pazil kas cabiyya luk yan marah meqee?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Maganu mari kaak xintowa, naharat pazil abak suge maray yekkek maganu yaysik. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) qangari gurrusiyya, kaartah maaxic kee miisih maaxic naharsi caddoh taamoomih fanal heele, [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) qonlayn maaxic kee taablettit aban pazil itta luk sugiyyah xanittey tekkeemik inki gitaaxit taagure.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Pazil saytunisso urisa dawo hinna. Kas cabiyya xabbacowtam hido edde taguurem ayyooma pazil caglitiyeelle maayane; ni maybalaalu [brain games and dementia](/brain-health/brain-games/) ta qilsiyya baxxaqisa. Pazil abaanamih sabbat, itta luk meqe saqatak xintowtan wakti kinni. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) edde gacissa: xintoh garil maaxa, xannowaanamih xaqut hinna.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Kas cabiyya luk yan marah suura pazil mannal doortan?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Atoo warrayta num xintowtaam kee sarrah aben pazil elle gexe gitah haya, caddoh meqelaamat akke kal.
 
-### Number of pieces
+### Qunxaaneytah kobox
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Gacsi kobox hinna. Qumrik pazil abak suge num qimbot boolol kobox dandaqa, gari num taban kee namma kaxxa qunxaane elle xintowa. Raxmat le madqa: sarrah aben pazil taama celtaamak, fanti koboxih qunxaaneyta le doora. Sissikuk xanitaanam kee warraytu mangom faxek, qunxa dooqat kobox xisa.
 
-### Piece size and feel
+### Qunxaaneytah kaxxiina kee celta
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Kaxxa qunxaaneyta** yabalu, biyaakisaay korisaanamih raxmat le.
+- **Celta, daaba le qunxaaneyta** xagaral daffeytaay guba radeek ma-kallacoota.
+- **Ibbid wayta af** fanti ifok kee taaqootik ifo taaxagik xabbaasa.
+- **Qunxa qunxaaneyta xabbaasa** num afat heek meqe dooqat, taway sarrah kas cabiyyal akkuk raqtaamik.
 
-### The picture
+### Suura
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Kaxxa marih caddoota.** Buqre, kuusina, reeda makiinaani, baadô lac, baddi mablo, kacan caddi. Qunxa marih kartuun hido caroh qadaawa celtaam akke kal.
+- **Baxxaqqa iyya kelli.** Qasa daari, buluu lafaay qado buqre, afal fanak kaxxa qaran le suuraak raxmat le.
+- **Dagar kee iimaan.** Dafeen araca hido kacanuk sugen caagidih suura, siinik mangu yab tacee. Gari matbaqooti buxah suura pazil fan korisaanam xiqta.
 
-## How do you do a puzzle together?
+## Ittal mannal pazil abtan?
 
-Set it up so the person can get straight to the enjoyable part.
+Numuy warraytan xintoh aracal sissikuk yawqe innal araca haya.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Meqe araca doora.** Meqe ifo, gabah meqe kursi, pazil elle sugum xiqta tarabeza hido miisi.
+2. **Sanduuqih alfi garil haya** namma numuh dambaluk yabalooma.
+3. **Qunxaaneytah fooca iroh heey** qimbisaanamik duma.
+4. **Foocah qunxaaneyta baxsa** sinnih gabaak, hido foocah araca xisaay fanta usun dambisaanah caba.
+5. **Kullul qunxaaneyta baxsa** qunxa sahanit hido miisit heeka.
+6. **Inki qunxaaneyta gabaa gacisa** mangom tan kobox kaxxa xalot yekkek. "Ta tiya daarih baxa celta."
+7. **Suurat yaaba,** xannowaanit hinna. "Too tiya y'abba luk suge lafa celta."
+8. **Aracal caba.** Mangu ayroora fanal kaal gaca. Sissik wayti male.
+9. **Meqe xintot xabbaasa,** qunxaaneyti elle daffeye dooqat, xinto luk tan wakti.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) num qimbisam qokolaanaah, qasbo yabalaanaah, wagarisaanam xintowtaanam yekkek wagarisaanam cabaanaamih kas yacee. Isin qunxaaneyta daffeysaanam wagarisam, elle daffeytam tuybulluuyam koboxih fan kinni.
 
-## Easy online puzzles
+## Sahal yan qonlayn pazil
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Taablettih pazil kaxxa nafqat le: bayte qunxaaneyta male, skriin kaxxa suural buula, tarabeza qambisaanam male.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Ni bilaash [Picture puzzle](/games/picture-puzzle/) suura 4 hido 9 qunxaaneytal qidda. Namma qunxaaneyta korisaanamih tabisa suura inkiyya takkem fanah. Xanitte suura skriinil raqta qokoluh, saqati xisaamat male, cakkum waktil xabbaasitan. 4 qunxaaneyta fanah mangu marah fanti caddol meqe numuy gari garil yan luk.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Yaysik sahal yan suura maaxicil, [Find the same](/games/find-the-same/) fantakkaaha, amol tan tiyac celta suura tabisanam, hido [Sort together](/games/sort-together/), suwar kuusina hido buqreh inna le kibil fan gexxa.
 
-## Word puzzles: word searches and crosswords
+## Qangari pazil: qangari gurrusiyya kee kuroswordi
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Qangari pazil umman xinto edde luk suge marah meqe, qimbô caddol kas cabiyyal.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Kaxxa fidat qangari gurrusiyya.** Ni bilaash [Word search](/games/word-search/) kaxxa fidah herfu kee dagoo qangara leeh, gubaay fooca gexa, xalay hido duma fan male. Skriinil aba hido warqatal taba.
+- **Kaxxa yabak maabisa.** Inki num qangara maabisa, gari tiya gurrusowa. Naharsi herfil xanissaanam gaba kaxxa kinni.
+- **Kaxxa fidat kuroswordi** pazil kitaabay qimbot meqek yamaate. Yaaba kaxxa yabak maabisaay, qalam ittal gacisaay gacsa ittal korsa. Sahal yan, suura caddi le kuroswordi qilsiitiyaak raxmat le.
+- **Qangarat yaaba.** "Buqre" iyyen yab taban daqiiqat tamaatamih yab fan geytima.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Warqatih taamoomaay, mannal dambisaanaah yabalaanam kee biyaakisaanamih meqe innal, [free printable dementia activities](/activities/printable/) wagarisa.
 
-## Which puzzles suit each stage?
+## Manna pazil caddoh meqe?
 
-Stages overlap, and good and hard days are normal.
+Caddooti itta korsa, meqe ayroota kee gibdi ayroota addat yan caagid kinni.
 
-| Stage | Puzzles that often fit | Your role |
+| Caddo | Meqek yamaate pazil | Ku dooqat |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Qimbo | Naharat yaaxigeenih dagiik qunxaaneyta le suura pazil, kaxxa fidat kuroswordi kee qangari gurrusiyya, 9 qunxaaneyti qonlayn pazil | Katuk: usun dooroonay caba, fanti essero tekkek qokola |
+| Fanta | Taban kee namma kaxxa qunxaaneyta le suura pazil, 4 qunxaaneyti qonlayn pazil, ittal kaxxa yabak maabisan qangari gurrusiyya | Araca haya, qunxaaneyta baxsa, inki tiyah gabaa gacisa |
+| Sarra | Xanitte suura ittal wagarisa, Namma suura luk Find the same, gari kaxxa qunxaaneyta gabat biyaakisa | Keenih baaha; sinni itta luk sugiyya kinni aban caagid |
 
-## When should you make a puzzle easier, or stop?
+## Ayyaaqat pazil xabbacowtam hido xabbaasaanam faxximta?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Qagabiyya, qunxaaneyta derre qaagisaanam, "ma-xiqa" iyyen yab, hido gibdi mablo wagarisa. Tamaami gita tunkulloonamih celta, fooca gexaanamih hinna.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Qunxaysa.** Dagiik qunxaaneyta, hido ellecabo dagiik tan keenih caba.
+- **Sinnih gabaak mangom aba** keenih sahal yan aracal qokol fan seeca.
+- **Gari aracal gaca:** kullul qunxaaneyta baxsa, 4 qunxaaneyti qonlayn pazil, hido [coloring](/games/coloring/).
+- **Xabbaasa.** Aracal heekaay shaahi caba. Gari ayro gactaanam dandiitan, hido deedal kal cabaanam.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Pazil gibdiitiyah kassisiisa celtam xabbaasintek, cabaanam xinto le. Ittal meqe wakti gexisaanih mangu gitiitiyani yanim; ni [101 activity ideas](/activities/ideas/) meqe araca wagarisoonuh.

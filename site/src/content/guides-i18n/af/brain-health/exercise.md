@@ -1,32 +1,28 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Oefening en breingesondheid: Navorsing en veilige beweging"
+seoTitle: "Oefening en demensie: Wat navorsing sê"
+description: "Wat navorsing toon oor aktiwiteit en demensierisiko, plus veilige, lekker maniere waarop ouer volwassenes en mense met demensie kan beweeg."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Studies koppel gereelde fisieke aktiwiteit aan 'n laer risiko van demensie, en die 2024 Lancet-kommissie lys 'n gebrek aan beweging as een van 14 veranderbare risikofaktore. Toetse het egter nie bewys dat oefening demensie voorkom nie. Beweging help steeds met krag, balans, gemoed en slaap, so stap, stoeloefeninge en dans is op hul eie die moeite werd. Raadpleeg 'n dokter voordat jy met iets nuuts begin.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Mense wat fisiek aktief is, het gemiddeld 'n laer risiko van demensie, maar dit kom hoofsaaklik uit waarnemingstudies, nie kliniese toetse nie."
+  - "'n Oefeningstoets van vyf jaar onder ouer volwassenes het geen duidelike verskil in denkvaardighede tussen groepe gevind nie."
+  - "CDC-riglyne vir volwassenes van 65 en ouer dek aërobiese, spierversterkende en balansaktiwiteite, en beklemtoon dat enige aktiwiteit beter as niks is."
+  - "Vir mense wat met demensie leef, is kort, bekende, gesamentlike beweging soos 'n daaglikse stappie of sittende speletjies belangriker as enige mikpunt."
+  - "Meer as een uit elke vier ouer volwassenes val elke jaar, so balansoefeninge en 'n veilige omgewing kom eerste."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Kan oefening demensie voorkom?"
+    a: "Niemand kan dit waarborg nie. Baie studies koppel aktief wees aan 'n laer risiko van demensie, maar kliniese toetse het nog nie gewys dat oefening dit voorkom nie. Oefening het baie ander bewese voordele, so dit is steeds die moeite werd om te doen."
+  - q: "Is dit veilig vir iemand wat met demensie leef om te oefen?"
+    a: "Gewoonlik wel, met 'n bietjie beplanning. Die National Institute on Aging stel voor dat jy eers die persoon se dokter raadpleeg voor 'n nuwe roetine, gemaklike skoene kies, water aanbied en sessies kort hou. Hou op as die persoon moeg, onvas op die voete of ongelukkig lyk."
+  - q: "Watter oefeninge kan sittend gedoen word?"
+    a: "Sittende opsies sluit in stoelstrekoefeninge of stoeljoga, om 'n ballon of sagte bal te gooi, boontjiesakgooi, die optel van sopblikke, rekbande en trapoefeners. Dit is goeie keuses wanneer stap moeilik is."
+  - q: "Wat as die persoon nie wil beweeg nie?"
+    a: "Moenie druk uitoefen nie. Probeer later weer, doen self mee, speel bekende musiek, of maak van beweging 'n takie soos vee of plante natgooi. 'n Kort stappie na die posbus tel, en net rustig buite saam sit tel ook."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +47,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Om aktief te bly is een van die gewoontes wat die meeste in breingesondheidsnavorsing bestudeer word. Studies koppel dit aan 'n laer risiko van demensie, maar hulle het nie bewys dat oefening demensie voorkom nie. Wat wel duidelik is, is dat beweging op enige ouderdom help met krag, balans, gemoed en slaap. Hierdie bladsy verduidelik wat die navorsing sê, hoeveel aktiwiteit vir ouer volwassenes aanbeveel word, en sagte maniere om saam met iemand wat met demensie leef te beweeg.
 
-## Does exercise lower the risk of dementia?
+## Verlaag oefening die risiko van demensie?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Navorsing dui daarop dat mense wat fisiek aktief is, minder geneig is om demensie te ontwikkel, maar die bewyse het perke. Die [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lys 'n gebrek aan fisieke aktiwiteit as een van 14 veranderbare risikofaktore. Saam verteenwoordig hierdie 14 faktore sowat 45% van demensiegevalle wêreldwyd in hul model.
 
-Here is what the evidence looks like:
+Hier is hoe die bewyse daarna uitsien:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Waarnemingstudies wys in een rigting.** 'n Oorsig van 58 studies, wat deur die Kommissie bespreek is, het bevind dat fisiek aktiewe mense ongeveer 'n 20% laer risiko van demensie gehad het. Die grootste verskil was tussen mense wat byna heeltemal onaktief was en diegene wat ten minste 'n bietjie aktiwiteit gedoen het.
+- **Die verband kan in albei rigtings loop.** Die Kommissie merk op dat onaktiwiteit die risiko kan verhoog. Dit wys ook daarop dat vroeë breinveranderinge van demensie, wat jare voor 'n diagnose begin, mense moontlik minder aktief maak.
+- **Kliniese toetse is minder duidelik.** In een toets is 945 ouer volwassenes met 'n gemiddelde ouderdom van 78 ingedeel by vyf jaar van toesighoudende oefening twee keer per week of by 'n vergelykingsgroep. Aan die einde was daar geen duidelike verskil in denkvaardighede tussen die groepe nie. Baie mense in die vergelykingsgroep was self ook aktief, wat die uitslag moeiliker maak om te interpreteer.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+Die [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) stel dit eenvoudig. Geen duidelike verband tussen fisieke aktiwiteit en die voorkoming van Alzheimer se siekte is bewys nie, en daar is nie genoeg toetsbewyse om te sê dat oefening dit voorkom of vertraag nie. Oefening verlaag steeds die risiko van val, depressie, diabetes, hoë bloeddruk en beroerte. Sommige van daardie toestande word self aan kognitiewe agteruitgang gekoppel.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Die eerlike gevolgtrekking is om te beweeg omdat dit jou help om vandag beter te voel en te funksioneer. Enige voordeel vir die brein is 'n moontlike bonus, nie 'n belofte nie.
 
-## How much activity do older adults need?
+## Hoeveel aktiwiteit het ouer volwassenes nodig?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+Die [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) stel drie soorte aktiwiteite per week voor:
 
-| Type | Weekly amount | Examples |
+| Tipe | Weeklikse hoeveelheid | Voorbeelde |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aërobies | Minstens 150 minute van matige aktiwiteit, soos 30 minute op 5 dae | Flink stap, dans, wateraërobiek |
+| Spierversterkend | Minstens 2 dae, wat alle groot spiergroepe insluit | Ligte gewigte of sopblikke optel, rekbande |
+| Balans | Gereeld | Van hak tot toon stap, opstaan uit 'n stoel |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Dit is doelwitte, nie toelatingsvereistes nie. Die CDC sê dat as jy dit nie kan haal nie, jy so aktief moet wees as wat jou vermoëns en gesondheid toelaat. Enige aktiwiteit is beter as niks.
 
-## Gentle ways to move for older adults
+## Rustige maniere vir ouer volwassenes om te beweeg
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Stap saam met iemand.** 'n Daaglikse stappie saam met 'n vriend, buurman of stapgroep bied geselskap en veiligheid.
+- **Stoeloefeninge.** Sittende armligte, enkelsirkels, marsjeer op die plek en stoeljoga bou krag sonder 'n valrisiko.
+- **Dans in die kombuis.** Speel musiek uit die persoon se tienerjare of vroeë volwassenheid en wieg, tik voete of neem klein passies. Ons [music activities guide](/activities/music/) bevat idees.
+- **Krag met huishoudelike items.** Tel gevulde waterbottels of sopblikke op terwyl julle na 'n gunstelingprogram kyk.
+- **Werk in die tuin of doen takies.** Plante natgooi, blare hark, vee en wasgoed opvou tel alles. Sien ons [outdoor and gardening activities](/activities/outdoor-and-gardening/) en [household tasks](/activities/household-tasks/).
+- **Wateroefening.** Die NIA noem wateraërobiese klasse as 'n goeie opsie vir mense wat vind dat gewone oefening hul gewrigte seermaak.
 
-## How to exercise with someone living with dementia
+## Hoe om te oefen saam met iemand wat met demensie leef
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Vir 'n persoon wat met demensie leef, is die doelwit gerief, genot en die behoud van alledaagse vermoëns, nie om 'n spesifieke teiken te bereik nie. Die NIA sê fisieke aktiwiteit help om die spiere, gewrigte en hart van iemand met Alzheimer se siekte in 'n goeie toestand te hou, en kan ook gemoed en slaap verbeter. Raadpleeg eers die dokter voordat julle met 'n nuwe roetine begin. Wenke uit die [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) sluit in:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Stap elke dag saam.** Kies 'n veilige, bekende paadjie sonder hindernisse. As die persoon op hul eie stap, is 'n identiteitsarmband met jou telefoonnommer 'n goeie idee.
+2. **Probeer oefenvideo's vir ouer volwassenes.** Volg dit rustig saam, hetsy sittend of staande.
+3. **Hou sessies kort.** 'n Paar kort rukkies van beweging werk dikwels beter as een lang oefensessie.
+4. **Voeg musiek by.** Bekende liedjies laat beweging soos 'n lekker aktiwiteit voel en nie soos 'n verpligting nie. Dans gerus saam as die persoon dit geniet.
+5. **Bied water en gemaklike skoene aan.** Gee water of vrugtesap tydens en na die tyd, en kies gemaklike klere en stewige skoene wat pas vir oefening.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+As stap moeilik raak, stel die [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) sittende opsies voor. Dit sluit in stoeloefeninge of -joga, boontjiesakgooi, 'n sagte bal of ballon heen en weer gooi, rekbande, ligte huishoudelike voorwerpe optel, en sittende trapoefeners. Eenvoudige werkies soos vee en stof afneem tel ook mee.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Wees realisties oor wat beweging kan doen. Die Lancet-kommissie het geen bewyse gevind dat oefening gedragsveranderinge soos agitasie verminder nie. Beweeg saam omdat dit aangenaam kan voel, nie as 'n manier om 'n moeilike middag reg te ruk nie. As die persoon nee sê, is dit heeltemal reg. Ons gids oor [when they say no](/caregiving/when-they-say-no/) bied sagte maniere om later weer te probeer. Om vroeër op te hou, of sommer net buite saam te sit, is ook 'n goeie uitkoms.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Na beweging kan 'n stil blaaskans soos [Calm Breathing](/games/calm-breathing/) julle albei help om tot bedaring te kom. Vir 'n sittende aktiwiteit met sagte armbeweging werk [Sort Together](/games/sort-together/) en [Picture Bingo](/games/picture-bingo/) baie lekker by 'n tafel.
 
-## Balance and fall safety
+## Balans en veiligheid teen val
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Valongelukke is algemeen en ernstig. Die [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) dat meer as een uit elke vier ouer volwassenes elke jaar val, maar minder as die helfte vertel hul dokter daarvan. As iemand een keer val, verdubbel dit die kans om weer te val. Risikofaktore wat die CDC noem, sluit in:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Swakheid in die bene en heupe
+- Probleme met stap en balans
+- Sekere medisyne, insluitend kalmeermiddels en sommige antidepressante
+- Sigprobleme
+- Voetpyn of swak skoene
+- Gevare in die huis soos los voorwerpe, los matjies en beskadigde trappies
 
-To move more safely:
+Om veiliger te beweeg:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Gebruik 'n stewige stoel** sonder wiele, en hou 'n toonbank of reling binne bereik vir staande oefeninge.
+- **Maak die vloer skoon** van los matjies, elektriese koorde en rommel voor julle begin.
+- **Staan stadig op**, en stop dadelik as die persoon duiselig of onvas voel.
+- **Dra ondersteunende skoene**, nie net sokkies of los pantoffels nie.
+- **Oefen balans naby ondersteuning.** Om uit 'n stoel op te staan en van hak tot toon te stap, is CDC-voorbeelde van balansaktiwiteite.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+Die CDC raai aan dat 'n ouer persoon wat val en hul kop stamp dadelik 'n dokter moet sien, veral as hulle bloedverdunners neem.
 
-## Talk with a doctor
+## Praat met 'n dokter
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Raadpleeg 'n dokter voordat julle met 'n nuwe oefenroetine begin, veral vir iemand met hart- of longprobleme, gewrigspyn, balansprobleme of demensie. 'n Dokter of fisioterapeut kan veilige aktiwiteite voorstel en kyk of medisyne balans beïnvloed. Vertel die dokter van enige val, selfs een sonder beserings. As iets seermaak of verkeerd voel tydens oefening, hou dadelik op. Vir skielike borspyn, asemhalingsnood of skielike verwarring, skakel 112.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Hierdie bladsy bevat algemene inligting, nie mediese raad nie. Sien ons [medical disclaimer](/medical-disclaimer/). Vir die groter prentjie, lees [what research says about dementia risk factors](/brain-health/risk-factors/) en [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).

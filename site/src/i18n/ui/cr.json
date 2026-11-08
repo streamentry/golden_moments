@@ -1,541 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "ᐃᐢᐸᔨᐦ ᑳ ᒥᓵᐠ ᒪᓯᓇᐦᐃᑲᓂᕽ",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "ᑑᑕᒧᐏᓇ ᐊᓂᑭ ᑳ ᐘᓂᐢᑫᔨᐦᑕᐦᒃ ᐅᒥᑐᓂᔨᒋᑲᓂᐚᐤ",
+    "homeLabel": "Golden Moments ᓂᑭ",
+    "mainNav": "ᑳ ᒥᓵᐠ ᑭᐢᑭᓄᐦᑕᐦᐃᐍᐏᐣ",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Language",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: ᒥᓵᐘ ᑭᓯᐚᑌᔨᐦᑖᑯᓯᐏ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ, ᒥᓂᐦᑫᐧᐘᔮᐣ, ᐲᓯᒧᐢᑳᐦᑏᐢ, ᓀᐢᑕ ᐊᑎᒻ",
+    "languages": "ᐲᑭᐢᑫᐧᐏᐣ",
+    "englishOnly": "(ᐋᑲᔭᓰᒧᐏᐣ)",
+    "machineTranslated": "ᐆᒪ ᒪᓯᓇᐦᐃᑲᐣ ᒌ ᐋᐸᒋᐦᑖᑲᓂᐏᐣ ᑳ ᐋᐸᓯᐢᑫᒧᐠ, ᓇᒧᐍᐢ ᓀᐦᐃᔭᐍᐤ ᑲᓇᐚᐸᐦᑕᒻ.",
+    "readOriginal": "ᐊᔭᒥᐦᑖ ᐋᑲᔭᓰᒧᐏᓂᕽ",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "ᒣᑕᐍᐏᓇ",
+      "activities": "ᑑᑕᒧᐏᓇ",
+      "caregiving": "ᑲᓇᐍᔨᐦᒋᑫᐏᐣ",
+      "brainHealth": "ᒥᑐᓂᔨᒋᑲᐣ ᒥᔪᐊᔮᐏᐣ"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "ᑲᑫᐧᒋᐦᑫᒧᐏᓇ ᓀᐢᑕ ᓇᐢᑫᐧᐘᓯᓇᐦᐃᑲᓇ",
+    "breadcrumb": "ᑭᐢᑭᓄᐦᑕᐦᐃᐍᐏᐣ",
+    "home": "ᓂᑭ",
+    "lastUpdated": "ᒫᐘᒋ ᐲᑐᐢ ᑳ ᒣᐢᑲᐧᑖᐦᐃᑲᓅᐠ",
+    "topics": "ᑫᑯᓇ ᑳ ᐋᔮᒋᒨᐦᑖᐠ",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text",
-      "contrast": "Higher contrast"
+      "label": "ᒪᓯᓇᐦᐃᑲᐣ ᐃᐢᐱᐦᑎᓯᐏᐣ",
+      "smaller": "ᑲᑭᔮᓂ ᒪᓯᓇᐦᐃᑲᐣ",
+      "larger": "ᐊᐘᓯᑌ ᑳ ᒥᓵᐠ ᒪᓯᓇᐦᐃᑲᐣ",
+      "contrast": "ᐊᐘᓯᑌ ᑳ ᐚᐸᐦᑖᑿᐠ"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "ᒣᑕᐍ",
+    "picturePairs": "ᓀᓱ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ ᑳ ᓀᐢᑖᐱᑌᑭ",
+    "conversationCards": "ᓅᒋᐦᑐᐏ ᒪᓯᓇᐦᐃᑲᓂᓴ",
+    "pictureBingo": "ᒪᓯᓇᐦᐃᐸᔨᒋᑲᐣ ᐱᖕᑯ",
+    "allGames": "ᑲᐦᑭᔭᐤ ᒣᑕᐍᐏᓇ",
+    "pictures": "ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ ᑳ ᒨᓯᑭᓇᐦᐃᑲᑌᑭ",
+    "activityIdeas": "ᑑᑕᒧᐏ ᒥᑐᓂᔨᒋᑲᓇ",
+    "ideas101": "101 ᑑᑕᒧᐏ ᒥᑐᓂᔨᒋᑲᓇ",
+    "lateStage": "ᑑᑕᒧᐏᓇ ᐊᓂᑭ ᑳ ᓵᐳ ᐘᓂᐢᑫᔨᐦᑕᐦᒃ",
+    "printable": "ᑑᑕᒧᐏᓇ ᑳ ᑲᐢᑭᑕᐦᐃᑫᐨ",
+    "allActivities": "ᑲᐦᑭᔭᐤ ᑑᑕᒧᐏᓇ",
+    "forCaregivers": "ᐊᓂᑭ ᑳ ᑲᓇᐍᔨᒫᒋᒃ ᐊᐘᓯᑌ",
+    "playTogether": "ᑖᓂᓯ ᐁᓯ ᒫᒪᐑ ᒣᑕᐍᕽ",
+    "selfCare": "ᑫᔭᐱᐨ ᑭᔭ ᑲᓇᐍᔨᒥᓱ",
+    "brainHealth": "ᒥᑐᓂᔨᒋᑲᐣ ᒥᔪᐊᔮᐏᐣ ᓇᑐᑭᑫᔨᐦᒋᑫᐏᐣ",
+    "faq": "ᑲᑫᐧᒋᐦᑫᒧᐏᓇ ᓀᐢᑕ ᓇᐢᑫᐧᐘᓯᓇᐦᐃᑲᓇ",
+    "about": "ᑮᑲᐧᐩ ᐆᒪ",
+    "approach": "ᓃᔮᓇᐣ ᐁᓯ ᐑᒋᐦᐃᐍᔮᐠ",
+    "howWeWrite": "ᐁᓯ ᒪᓯᓇᐦᐊᒫᕽ",
+    "organizations": "ᒫᒪᐑᐏᓇ ᑳ ᐑᒋᐦᐃᐍᑭ",
+    "app": "Golden Moments ᐋᐸᒋᐦᒋᑲᐣ",
+    "appHelp": "ᐋᐸᒋᐦᒋᑲᐣ ᐑᒋᐦᐃᐍᐏᐣ",
+    "support": "ᐑᒋᐦᐃᐍᐏᐣ",
+    "legal": "ᐅᓇᓱᐍᐏ ᒪᓯᓇᐦᐃᑲᐣ",
+    "sitePrivacy": "ᐃᐢᑫᐧᔮᐣ ᑲᓇᐍᔨᐦᒋᑫᐏᐣ",
+    "appPrivacy": "ᐋᐸᒋᐦᒋᑲᐣ ᑲᓇᐍᔨᐦᒋᑫᐏ ᐅᓇᓱᐍᐏᐣ",
+    "privacyChoices": "ᑭᑲᓇᐍᔨᐦᒋᑫᐏ ᓇᐘᒋᐦᒋᑫᐏᓇ",
+    "terms": "ᑲᓇᐚᐸᒥᑌᐏᓇ ᓀᐢᑕ ᐋᐸᒋᐦᒋᑲᐣ ᐸᑭᑎᓂᑫᐏᐣ",
+    "safety": "ᑲᓇᐍᔨᒥᓱᐏᐣ ᓀᐢᑕ ᐁᓯ ᐊᐸᑕᐠ",
+    "accessibility": "ᑲᐦᑭᔭᐤ ᐊᐘᔭᒃ ᑳ ᐋᐸᒋᐦᑖᒋᒃ",
+    "healthNotice": "ᒥᔪᐊᔮᐏ ᑭᐢᑫᔨᐦᑕᒧᐏ ᒪᓯᓇᐦᐃᑲᐣ",
+    "allLegal": "ᑲᐦᑭᔭᐤ ᐅᓇᓱᐍᐏ ᑭᐢᑫᔨᐦᑕᒧᐏᓇ",
+    "note": "Golden Moments ᐸᑭᑎᓇᒻ ᑑᑕᒧᐏᓇ ᑳ ᒥᔪᐍᔨᐦᑖᑯᐦᑭ ᒫᒪᐑ ᑳ ᑑᑕᒧᕽ. ᓇᒧᐍᔫ ᒪᐢᑭᐦᑮᐏ ᑲᑭᔐᐧᐏᐣ, ᓇᑐᑫᔨᐦᒋᑫᐏᐣ, ᐊᐦᐳ ᓇᑐᐦᑭᐦᐃᐍᐏᐣ, ᓀᐢᑕ ᓇᒧᐍᔫ ᓇᑐᑭᐢᑫᔨᐦᑕᒻ ᐊᐘᔭᑲ. ᑭᐢᐱᐣ ᒥᔪᐊᔮᐏ ᑲᑫᐧᒋᐦᑫᒧᐏᓇ ᐊᔭᔭᓂ, ᐋᐸᒋᐦ ᒪᐢᑭᐦᑮᐏᔨᓂᐤ. ᑳ ᓵᐳ ᑲᐦᑫᐧᑖᐦᐊᒫᑯᓯᔮᐣ, ᑌᐺᐦᑕ 911.",
+    "publisher": "Cloudjet Solutions Pte. Ltd. ᐅᒪ ᒌ ᒪᓯᓇᐦᐊᒻ"
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "ᑳ ᐘᓂᐢᑫᔨᐦᑕᐦᒃ ᐅᒥᑐᓂᔨᒋᑲᓂᐚᐤ ᒣᑕᐍᐏᓇ ᓀᐢᑕ ᑑᑕᒧᐏᓇ | Golden Moments",
+    "description": "ᑲᐦᑭᔭᐤ ᑭᐹᐦᑭᑌᑭ ᓀᐢᑕ ᑳ ᐯᔭᐦᑕᑭᐦᑭ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᐣ ᒣᑕᐍᐏᓇ ᑳ ᒫᒪᐑ ᒣᑕᐍᕽ, ᓀᐢᑕ ᑑᑕᒧᐏ ᒥᑐᓂᔨᒋᑲᓇ ᐊᓂᑭ ᑳ ᐘᓂᐢᑫᔨᐦᑕᐦᒃ ᐅᒥᑐᓂᔨᒋᑲᓂᐚᐤ ᓀᐢᑕ ᐊᓂᑭ ᑳ ᑲᓇᐍᔨᒫᒋᒃ. ᓇᒧᐍᔫ ᐱᒥᐸᔨᐦᑖᐏᐣ ᒪᓯᓇᐦᐃᑫᐏᐣ, ᐲᓯᒧᐦᑫᐏᐣ, ᐊᐦᐳ ᐊᑭᐦᒋᑫᐏᐣ.",
+    "eyebrow": "ᓇᒧᐍᔫ ᓲᓂᔮᐤ · ᓇᒧᐍᔫ ᐊᑖᐍᐏ ᒪᓯᓇᐦᐃᑲᓇ · ᓇᒧᐍᔫ ᒪᓯᓇᐦᐃᑫᐏᐣ · ᓇᒧᐍᔫ ᐲᓯᒧᐦᑫᐏᐣ ᐊᐦᐳ ᐊᑭᐦᒋᑫᐏᐣ",
+    "h1": "ᐯᔭᐦᑕᑭᐦᑭ ᒣᑕᐍᐏᓇ ᓀᐢᑕ ᑑᑕᒧᐏᓇ ᐊᓂᑭ ᑳ ᐘᓂᐢᑫᔨᐦᑕᐦᒃ ᐅᒥᑐᓂᔨᒋᑲᓂᐚᐤ",
+    "lede": "ᐯᔭᐦᑕᐠ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᐣ ᒣᑕᐍᐏᓇ, ᑳ ᑭᐢᑫᔨᐦᑖᑯᐦᑭ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ, ᓀᐢᑕ ᑑᑕᒧᐏᓇ ᑳ ᒫᒪᐑ ᒥᔮᐍᔨᐦᑕᒧᕽ—ᐁᓯ ᑲᐢᑭᑕᔮᐠ.",
+    "playGame": "ᒣᑕᐍ",
+    "findIdeas": "ᒥᐢᑲ ᑑᑕᒧᐏ ᒥᑐᓂᔨᒋᑲᓇ",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "ᐋᐸᑕᐣ ᑫᑲᐨ ᑲᐦᑭᔭᐤ ᑌᓕᕗᐣ, ᐊᐦᒑᑯᐢ ᒪᓯᓇᐦᐃᑲᐣ, ᓀᐢᑕ ᒫᒥᑐᓂᔨᒋᑲᓂᕽ",
+      "ᒥᓵᐘ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ ᑳ ᓇᑭᐢᑫᐘᐸᒥᓈᑯᐦᑭ",
+      "ᐴᓂ ᐱᑯ ᐃᐢᐱᐦᐠ; ᓇᒧᐍᔫ ᑫᑯᐣ ᑳ ᐘᓂᐦᐃᑫᕽ"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "ᓀᐢᑕ ᑭᐹᐦᑭᑌᐤ ᐋᐸᒋᐦᒋᑲᐣ iPhone, iPad ᓀᐢᑕ Android ᐅᒋ, ᑭᐚᐦᑰᒨᐏ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ ᑳ ᐋᐸᒋᐦᑖᔮᐠ",
+    "albumNote": "“ᓀᓱ ᒥᓂᐦᑫᐧᐘᔮᐣ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ, ᒫᒪᐑ.”",
+    "gamesEyebrow": "ᒣᑕᐍ ᑭᒫᒥᑐᓂᔨᒋᑲᓂᕽ",
+    "gamesTitle": "ᒣᑕᐍᐏᓇ ᑳ ᑲᐢᑭᑕᐦᐃᑫᐨ ᐊᓄᐦᐨ",
+    "gamesLede": "ᑲᐦᑭᔭᐤ ᐯᔭᐦᑕᑭᐦᑫᐤ, ᑭᓯᐚᑌᔨᐦᑖᑯᓯᐤ, ᓀᐢᑕ ᑫᓯᐣ ᒫᒋᐸᔨᐤ. ᓇᐘᒋᐦᑕ ᐯᔭᐠ, ᒫᒪᐑ ᐊᐱᒃ, ᓀᐢᑕ ᒣᐢᑲᐧᑖᐦ ᑖᐦᒋᓇᒧᒃ.",
+    "seeAllGames": "ᐚᐸᐦᑕ ᑲᐦᑭᔭᐤ {count} ᒣᑕᐍᐏᓇ",
+    "howTitle": "ᑖᓂᓯ ᐁᓯ ᐱᒥᐸᔨᐠ",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "ᓇᐘᒋᐦᑕ ᑫᑯᐣ ᑳ ᑭᐢᑫᔨᐦᑕᒪᐣ",
+        "text": "ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ ᒥᓂᐦᑫᐧᐘᔮᓇ, ᑭᐢᑎᑳᓇ, ᐲᓯᐢᑭᐘᒃ, ᓀᐢᑕ ᔫᑎᓂ ᐹᐦᑌᐦᑲᓇ. ᓇᒧᐍᔫ ᐊᔭᒥᐦᑖᐏᐣ ᐊᐦᐳ ᐅᓇᓱᐍᐏᓇ ᑳ ᑭᐢᑭᓄᐦᐊᒫᑯᓯᕽ."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "ᒫᒪᐑ ᐊᐱᒃ",
+        "text": "ᐸᑭᑎᓇᐠ ᑳ ᑖᐦᒋᓇᐦᒃ. ᐋᔮᒋᒧᐢᑕᑐᒃ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ. ᑭᐢᐱᐣ ᓇᒧᐍᔫ ᓀᐢᑖᐱᑌᐤ, ᐯᐦᐅᐤ ᐱᑯ ᑫᐢᑕ ᑳ ᑖᐦᒋᓇᕽ."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "ᐴᓂ ᒣᑿᐨ ᑳ ᒥᔪᐍᔨᐦᑕᒧᕽ",
+        "text": "ᐯᔭᐠ ᒣᑕᐍᐏᐣ ᑮᓯᐸᔨᐤ ᑑᑕᒧᐏᓂᕽ. “ᐴᓂᐤ ᐊᓄᐦᐨ ᐅᒋ” ᑫᔭᐱᐨ ᐊᐢᑕᐤ."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "ᐊᐘᓯᑌ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓂᕽ",
+    "stageTitle": "ᑑᑕᒧᐏ ᒥᑐᓂᔨᒋᑲᓇ ᑫᑲᐨ ᑲᐦᑭᔭᐤ ᐃᐢᐱᐦᐠ",
+    "stageLede": "ᓂᑲᒧᐏᓇ, ᑕᓯᐍ ᑑᑕᒧᐏᓇ, ᑳ ᑭᐢᑫᔨᐦᑕᒧᕽ ᐋᔮᒋᒧᐏᓇ ᓀᐢᑕ ᐯᔭᐦᑕᐠ ᒧᓰᐦᐃᐍᐏᐣ, ᐁᓯ ᒥᔪᐍᔨᐦᑖᑯᐦᐠ ᐊᓄᐦᐨ.",
+    "ideas101": "101 ᑑᑕᒧᐏ ᒥᑐᓂᔨᒋᑲᓇ",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "ᒫᒋᐸᔨᐏᐣ ᐃᐢᐱᐦᐠ",
+        "text": "ᑫᔭᐱᐨ ᑑᑕᒧᒃ ᑳ ᓵᑭᐦᑖᒋᒃ, ᐊᐱᓯᐢ ᒣᐢᑲᐧᑖᐦᐃᑫᐏᐣ: ᒥᓂᐍᔨᐦᑕᒧᐏᓇ, ᐘᔭᐑᐏᓇ, ᐲᑭᐢᑫᐧᐏ ᒣᑕᐍᐏᓇ ᓀᐢᑕ ᒫᒪᐑ ᐃᑌᔨᐦᑕᒧᐏᓇ.",
+        "label": "ᒫᒋᐸᔨᐏᐣ ᒥᑐᓂᔨᒋᑲᓇ"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "ᑖᐘᐩ ᐃᐢᐱᐦᐠ",
+        "text": "ᐯᔭᐦᑕᑭᐦᑭ ᑑᑕᒧᐏᓇ ᑳ ᐊᐱᓯᐢ ᐋᐦᓀᐦᐃᑲᑌᑭ: ᓇᐦᐃᐱᑖᐏᐣ, ᒫᑲᐧᐱᑖᐏᐣ, ᓂᑲᒧᐏᓇ, ᒪᓯᓇᐦᐃᐸᔨᒋᑲᐣ ᒣᑕᐍᐏᓇ ᓀᐢᑕ ᐊᐱᓯᐢ ᐱᒧᐦᑌᐏᓇ.",
+        "label": "ᑖᐘᐩ ᒥᑐᓂᔨᒋᑲᓇ"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "ᑳ ᓵᐳ ᐃᐢᐱᐦᐠ",
+        "text": "ᒥᔪᐍᔨᐦᑕᒧᐏᐣ ᓀᐢᑕ ᒫᒪᐑ ᐊᔮᐏᐣ ᑖᐦᒋᓂᑫᐏᓂᕽ, ᐯᐦᑕᒧᐏᓂᕽ ᓀᐢᑕ ᐚᐸᐦᑕᒧᐏᓂᕽ: ᒥᒋᐦᒋᔨ ᑲᓇᐍᔨᐦᒋᑫᐏᐣ, ᑳ ᓵᑭᐦᑖᑭ ᓂᑲᒧᐏᓇ, ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ ᓀᐢᑕ ᒫᒪᐑ ᐊᐱᐏᐣ.",
+        "label": "ᓵᐳ ᒥᑐᓂᔨᒋᑲᓇ"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "ᑫᑯᐣ ᑳ ᓇᑐᐚᐸᐦᑕᒪᐣ? ᑲᓇᐚᐸᐦᑕ <a href=\"/activities/alzheimers/\">ᑑᑕᒧᐏᓇ ᓀᐢᑕ ᒣᑕᐍᐏᓇ ᐊᓂᑭ Alzheimer's ᑳ ᐊᔭᐘᒋᒃ ᐅᒋ</a>, <a href=\"/activities/memory-games/\">ᐯᔭᐦᑕᑭᐦᑭ ᑭᐢᑭᓅᐦᑕᐦᐃᐍ ᒣᑕᐍᐏᓇ</a>, <a href=\"/activities/trivia/\">ᐯᔭᐦᑕᐠ ᑲᑫᐧᒋᐦᑫᒧᐏᓇ</a> ᐊᐦᐳ <a href=\"/activities/puzzles/\">ᓀᐢᑖᐱᑌᐏ ᒪᓯᓇᐦᐃᑲᓇ</a>.",
+    "approachEyebrow": "ᓃᔮᓇᐣ ᐁᓯ ᐑᒋᐦᐃᐍᔮᐠ",
+    "approachTitle": "ᒫᒪᐑ ᑑᑕᒧᐏᐣ, ᓇᒧᐍᔫ ᑭᐢᑫᔨᐦᑕᒧᐏ ᓇᑐᑭᑫᔨᐦᒋᑫᐏᐣ",
+    "approachLede": "ᒥᐦᒉᐟ “ᒥᑐᓂᔨᒋᑲᐣ ᒣᑕᐍᐏᓇ” ᐋᐸᑕᐘ ᑭᓯᐚᐠ ᐃᐢᐱᐦᐠ, ᐊᑭᐦᒋᑫᐏᐣ ᓀᐢᑕ ᓴᑳᐦᐃᑫᐏᐣ. ᐊᐘ ᑳ ᐘᓂᐢᑫᔨᐦᑕᐦᒃ ᐅᒥᑐᓂᔨᒋᑲᓂᐚᐤ ᑕᐦᑖᐤ ᑖᐱᐢᑯᐨ ᓇᑐᑭᑫᔨᐦᒋᑫᐏᓂᕽ ᐃᑌᔨᐦᑕᒻ. ᓃᔮᓇᐣ ᐲᑐᐢ ᓅᒋᐦᑖᓈᓇᐣ.",
+    "approachLink": "ᑖᓂᐍᐦ ᐆᒪ ᐁᓯ ᐋᐸᒋᐦᑖᔮᐠ",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "ᓇᒧᐍᔫ ᑫᑯᐣ ᑳ ᐘᓂᐦᐃᑫᕽ",
+        "text": "ᓇᒧᐍᔫ ᐲᓯᒧᐦᑫᐏᐣ, ᐊᑭᐦᒋᑫᐏᐣ, ᐱᒫᑎᓯᐏᓇ ᐊᐦᐳ ᐘᓂᐦᐃᑫᐏᐣ. ᐲᑐᐢ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᐣ ᓇᑭᐦᐍᐤ ᐱᑯ, ᓇᒧᐍᔫ ᐘᓂᐦᐃᑫᐏᐣ."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ ᑫᔭᐱᐨ ᓅᑯᓇ",
+        "text": "ᑭᐢᑫᔨᐦᑕᒧᐏᐣ ᐊᐘᓯᑌ ᐃᐢᐱᐦᐨ ᑭᐢᑭᓱᐏᐣ. ᒫᒋᐸᔨᐤ ᐁ ᐚᐸᐦᑖᑿᐠ, ᓇᒧᐍᔫ ᑫᑯᐣ ᑳ ᑲᐦᑫᐧ ᑭᐢᑭᓱᕽ."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "ᑭᓯᐚᑌᔨᐦᑖᑯᓯᐤ ᓀᐢᑕ ᑭᐢᑌᔨᒥᑐᐏᐣ",
+        "text": "ᑭᓯᐚᑌᔨᐦᑖᑯᓯ ᐲᑭᐢᑫᐧᐏᓇ ᓀᐢᑕ ᑖᐱᐢᑯᐨ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ. ᓇᒧᐍᔫ ᐊᐘᓯᓰᐏ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ ᐊᐦᐳ ᐊᐘᓯᓰᒧᐏᐣ."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "ᑲᓇᐍᔨᐦᑖᑯᐣ ᑭᔭ ᐅᒋ",
+        "text": "ᓇᒧᐍᔫ ᒪᓯᓇᐦᐃᑫᐏᓇ ᐊᐦᐳ ᐊᑖᐍᐏ ᒪᓯᓇᐦᐃᑲᓇ. ᑭᒪᓯᓇᐦᐃᐸᔨᒋᑲᓂᐚᐘ ᓇᒧᐍᔫ ᐘᔭᐑᐸᔨᐘ ᑭᒫᒥᑐᓂᔨᒋᑲᓂᐚᐠ ᐅᒋ."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "ᐊᓂᑭ ᑳ ᑲᓇᐍᔨᒫᒋᒃ ᐊᐘᓯᑌ",
+    "guidesTitle": "ᐑᒋᐦᐃᐍ ᑭᐢᑭᓄᐦᑕᐦᐃᐍᐏᓇ ᑕᓯᐍ ᑲᓇᐍᔨᐦᒋᑫᐏᓂᕽ",
+    "allCaregiving": "ᑲᐦᑭᔭᐤ ᑲᓇᐍᔨᐦᒋᑫᐏ ᑭᐢᑭᓄᐦᑕᐦᐃᐍᐏᓇ",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "ᑖᓂᓯ ᐁᓯ ᒫᒪᐑ ᒣᑕᐍᕽ",
+        "text": "ᓅᒋᐦᑖᐏᐣ, ᐯᔭᐦᑕᑭᐦᑫᐏᐣ, ᓀᐢᑕ ᑫᑑᑕᕽ ᐃᐢᐱᐦᐠ ᒣᑕᐍᐏᐣ ᐴᓂ ᒥᔪᐍᔨᐦᑖᑯᐦᐠ."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "ᐃᐢᐱᐦᐠ ᑳ ᐃᑌᐨ ᓇᒧᐍᔫ ᑑᑕᒧᐏᓂᕽ",
+        "text": "ᑫᑯᓇ ᑳ ᐃᒋ ᓇᒧᐍᔫ ᐃᑌᕽ, ᓀᐢᑕ ᐯᔭᐦᑕᐠ ᑫᓯ ᑑᑕᒧᕽ ᑫᑌᒋ."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "ᐋᐦᓀᐦᐃᑲᑌᐤ ᐊᐦᒑᑯᐢ ᒪᓯᓇᐦᐃᑲᐣ",
+        "text": "ᒥᓵᐠ ᒪᓯᓇᐦᐃᑲᐣ, ᓇᒧᐍᔫ ᓇᑭᐦᐃᐍᐏᓇ ᓀᐢᑕ ᐯᔭᐠ ᐯᔭᐦᑕᐠ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᐣ."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "ᑭᐹᐦᑭᑌᑭ ᑑᑕᒧᐏᓇ ᑳ ᑲᐢᑭᑕᐦᐃᑫᐨ",
+        "text": "ᒥᓵᐘ ᐲᑭᐢᑫᐧᐏ ᓇᑐᐚᐸᐦᑕᒧᐏᓇ, ᒪᓯᓇᐦᐃᑫᐏ ᒪᓯᓇᐦᐃᑲᓂᓴ, ᐱᖕᑯ ᓀᐢᑕ ᓅᒋᐦᑐᐏ ᒪᓯᓇᐦᐃᑲᓂᓴ."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "ᒥᑐᓂᔨᒋᑲᐣ ᒥᔪᐊᔮᐏᐣ: ᑫᑯᐣ ᓇᑐᑭᑫᔨᐦᒋᑫᐏᐣ ᑳ ᐃᑌᐨ",
+    "researchText": "ᑲᐢᑭᑕᐦᐃᑫᐤ ᒌ ᐊᓂᒪ ᑳ ᐘᓂᐢᑫᔨᐦᑕᐦᒃ ᐅᒥᑐᓂᔨᒋᑲᓂᐚᐤ ᑳ ᓇᑭᐦᐃᑫᕽ? ᐑᒋᐦᐃᐍᐘ ᒌ ᒥᑐᓂᔨᒋᑲᐣ ᒣᑕᐍᐏᓇ? ᑖᓂᓯ ᑳ ᐃᓯ ᓅᒋᐦᑖᕽ ᑳ ᐴᓂ ᒥᒋᓱᕽ, ᒥᒋᐏᐣ, ᓂᐹᐏᐣ ᓀᐢᑕ ᐯᐦᑕᒧᐏᐣ? ᐯᔭᐦᑕᑭᐦᑭ, ᑭᐢᑫᔨᐦᑕᒧᐏ ᓇᐢᑫᐧᐘᓯᓇᐦᐃᑲᓇ, ᓀᐢᑕ ᐋᐦᓇ ᓇᒧᐍᔫ ᓲᐦᑭ ᓅᑯᐣ.",
+    "researchLink": "ᐊᔭᒥᐦᑖ ᓇᑐᑭᑫᔨᐦᒋᑫᐏ ᑭᐢᑭᓄᐦᑕᐦᐃᐍᐏᓇ",
+    "appEyebrow": "ᓀᐢᑕ ᐋᐸᒋᐦᒋᑲᐣ",
+    "appTitle": "Golden Moments ᐅᒪ iPhone, iPad ᓀᐢᑕ Android",
+    "appText": "ᑭᐹᐦᑭᑌᐤ ᐋᐸᒋᐦᒋᑲᐣ ᐱᒥᐸᔨᐤ ᓇᒧᐍᔫ ᐃᐢᑫᐧᔮᐣ ᐋᐸᑕᐣ ᓀᐢᑕ ᑲᐢᑭᑕᐦᐃᑫᐤ ᑭᐚᐦᑰᒨᐏ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ ᑳ ᓇᐘᒋᐦᑕᒪᐣ, ᑳ ᑲᓇᐍᔨᐦᑖᑯᐦᑭ ᑭᒫᒥᑐᓂᔨᒋᑲᓂᕽ. ᐯᔭᐦᑕᐠ ᐁᓯ ᐋᐸᑕᐠ: ᓀᐓ ᒥᓵᐘ ᒪᓯᓇᐦᐃᐸᔨᒋᑲᓇ, ᓇᒧᐍᔫ ᐲᓯᒧᐦᑫᐏᐣ, ᓇᒧᐍᔫ ᐊᑭᐦᒋᑫᐏᐣ.",
+    "aboutApp": "ᑮᑲᐧᐩ ᐆᒪ ᐋᐸᒋᐦᒋᑲᐣ",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "ᑖᓂᑭ ᑳ ᒥᔪᐍᔨᐦᑖᑯᓯᒋᒃ ᒣᑕᐍᐏᓇ ᐊᓂᑭ ᑳ ᐘᓂᐢᑫᔨᐦᑕᐦᒃ ᐅᒥᑐᓂᔨᒋᑲᓂᐚᐤ?",
+        "a": "ᒥᔪᐍᐱᓯᐚᐏᓇ ᐁᑯᓂ ᑳ ᐍᐦᒋᐦᑫᒪᑲᑭ, ᑳ ᑭᐢᑫᔨᐦᑖᑿᑭ, ᑲᔭᐟ ᐁᑲ ᐁ ᑯᐦᑫᔨᐦᑖᑿᑭ: ᑭᐢᑭᓇᐚᒋᒋᑲᓇ ᑳ ᒪᐢᑫᓰᑭ ᐁ ᓇᓲᓇᒪᓂ, ᐁ ᒪᒧᐎᓯᒋᑲᑌᑭ, ᐍᐦᒋ-ᐹᐢᑭᒋᑲᓇ, ᐁ ᑭᓯᑖᓂ ᑲᑫᐢᑭᐍᐏᓇ, ᐁ ᓯᓵᐚᐦᒋᑳᑌᐠ, ᑭᐢᑭᓇᐚᒋᒋᑲᓇ ᐲᐣᑯ, ᒥᓇ ᑲᑭᑐᐏ-ᒪᓯᓇᐦᐃᑲᓇᐦ ᐁ ᐋᐸᒋᐦᑖᓂ. ᒪᐚᒋ ᑳ ᒥᔪᐚᓯᐠ ᐁᑯ ᐊᐘ ᐊᔨᓯᔨᓂᐤ ᑳ ᒥᔮᐍᔨᐦᑕᐠ ᐊᓄᐦᐨ ᑳ ᑮᓯᑳᐠ. ᑲᐚᐸᐦᑖᑲᓂᐏᐠ ᑳ ᑭᓯᑲᐦᐃᑫᒪᑲᐠ ᐲᓯᒧᐦᑳᐣ, ᐊᑭᐦᒋᑫᐏᓇ, ᒥᓇ ᑲᐦᑭᔭᐤ ᑫᑯᐚᐣ ᑳ ᑯᒋᐦᑖᐏᐣ-ᐃᑌᔨᐦᑖᑿᐠ."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "ᑌᐱᔨᐦᑳᓱᐚ ᐆᐦᐃ ᒣᑕᐍᐏᓇ ᐊᓂᐦᐃ ᐅᒋ ᑳ ᐋᑹᐦᐋᑫᒪᑲᓂᔨᐠ ᑭᐢᑫᔨᐦᑕᒧᐏᐣ?",
+        "a": "ᐁᐦᐁ. ᑲᐦᑭᔭᐤ ᒣᑕᐍᐏᓇ ᒥᓇ ᑳ ᒨᓯᓇᐦᐃᑲᑌᑭ ᐆᑕ Golden Moments ᓇᓇᑐᐤ ᑭᐚᐦᒋᑲᑌᐚ, ᓇᒪᐚᐨ ᐊᓯᐎᐦᐃᓱᐏᐣ, ᒪᓯᓇᐦᐃᓱᐏᐣ ᐊᐦᐳ ᓇᑕᐚᐦᐁᐤ ᐁ ᐅᑎᓇᒪᓂ. ᒣᑕᐍᐏᓇ ᐊᐸᒋᐦᑖᑲᓂᐏᐚ ᑭᔮᐱᐨ ᐍᑊ-ᒨᓯᓇᐦᐃᑲᓂᐠ ᓯᐚᐱᐢᑯᐦᑳᓂᐠ, ᑖᐱᓓᐟ ᐊᐦᐳ ᒪᒥᑐᓀᔨᒋᑲᓂᐠ."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "ᒥᑐᓂ ᑭᐢᑫᔨᐦᑕᒧᐏ-ᒣᑕᐍᐏᓇ ᑭᐸᐦᐊᒧᐚᐘ ᐁᑲ ᑭᐢᑫᔨᐦᑕᒧᐏᐣ ᒉ ᐋᑹᐦᐋᑫᒪᑲᐠ?",
+        "a": "ᓇᒪᐚᐨ ᒣᑕᐍᐏᐣ ᑭᐢᑫᔨᐦᑖᑿᐣ ᐁ ᑭᐸᐦᐊᐠ ᑭᐢᑫᔨᐦᑕᒧᐏ-ᐋᑹᐦᑳᑫᐏᐣ, ᒥᓇ Golden Moments ᓇᒪᐚᐨ ᐃᑌᔨᐦᑖᑿᐣ ᐁ ᓇᓇᑖᐏᐦᐃᐍᒪᑲᐠ ᐊᐦᐳ ᐁ ᑭᐸᐦᐊᐠ ᑫᑯᐚᐣ. ᑭᒣᑕᐍᐏᓇᓇᐚ ᐆᐦᐃ ᒧᓂᐦᐋᐚᓯᐏᐣ ᒥᓇ ᐁ ᐑᒉᐦᑐᓈᓂᐏᐠ ᐅᒋ. ᑭᒥᑐᓀᔨᒋᑲᓂᐚᐤ ᒥᔪ-ᐊᔭᐚᐏᐣ ᐅᑕᐢᑭᐦᑳᓈᐠ ᐁᑯᑕ ᐁ ᐍᐢᑕᒪᑫᒪᑲᐠ ᑫᑯᐚᐣ ᓇᓇᑐ-ᑭᐢᑫᔨᐦᒋᑫᐏᐣ ᑳ ᐚᐸᐦᑐᐦᐃᐍᒪᑲᐠ ᒥᓇ ᑳ ᐁᑲ ᐚᐸᐦᑐᐦᐃᐍᒪᑲᐠ."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "ᒣᑿᐨ ᐆᐦᐃ ᒣᑕᐍᐏᓇ ᒥᔪᐚᓯᓄᐚ ᐊᐘ ᐊᔨᓯᔨᓂᐤ Alzheimer ᐋᑹᐦᑳᑫᐏᐣ ᑳ ᐊᔭᐚᐟ?",
+        "a": "ᐁᐦᐁ. Alzheimer ᐋᑹᐦᑳᑫᐏᐣ ᐁᑯ ᒪᐚᒋ ᑳ ᒨᐢᑲᐦᐃᑲᑌᐠ ᐆᑕ ᑭᐢᑫᔨᐦᑕᒧᐏ-ᐋᑹᐦᑳᑫᐏᓂᐠ, ᒥᓇ ᐆᐦᐃ ᒣᑕᐍᐏᓇ ᐁᑯᓯ ᐁᓯ-ᐅᓯᐦᑖᑲᓂᐏᑭ: ᑭᐢᑭᓇᐚᒋᒋᑲᓇ ᑳ ᒪᐢᑫᓰᑭ ᑳ ᓇᑭᐢᑳᑫᒪᑲᑭ, ᓇᒪᐚᐨ ᒥᐦᐟ ᐁ ᐅᑎᓇᒪᓂ, ᒥᓇ ᓇᒪᐚᐨ ᑫᑯᐚᐣ ᒉ ᑭᐢᑭᓯᓂ ᐊᐦᐳ ᒉ ᐚᓂᐦᑐᑖᓂ. ᐁ ᓇᓲᓇᒪᓂ, ᐁ ᒪᒧᐎᓯᒋᑲᑌᑭ, ᒥᓇ ᐁ ᑭᓯᑖᓂ ᑲᑫᐢᑭᐍᐏᓇ ᑲᔭᐦᑌ ᑭᐢᑫᔨᐦᑕᒧᐏᐣ ᐋᐸᒋᐦᑖᐤ ᓇᒪᐚᐨ ᐅᐢᑭ-ᑭᐢᑫᔨᐦᑕᒧᐏᐣ."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "ᑭᔮᐱᐨ ᐊᐘ ᐊᔨᓯᔨᓂᐤ ᑳ ᐋᐸᓯᐢᑫᐸᔨᓂᔨᐠ ᐅᑭᐢᑫᔨᐦᑕᒧᐏᐣ ᑲᑭ-ᐋᐸᒋᐦᑖᐤ ᐆᐦᐃ ᒣᑕᐍᐏᓇ?",
+        "a": "ᑭᔮᐱᐨ ᐁᐦᐁ, ᑭᐢᐱᐣ ᐊᐘޔᑲ ᐁ ᐑᒉᐚᐟ. ᒫᒋᑖ ᒥᑲᐚ ᑳ ᑖᐱᐢᑯᑫᑭ ᓃᓱ ᑭᐢᑭᓇᐚᒋᒋᑲᓇ, ᑭᐢᑭᓇᐚᒋᒋᑲᓇ ᑫ ᓇᓲᓂᑲᑌᑭ ᓀᐓ ᐋᐸᒋᐦᒋᑲᓇ, ᒪᓯᓇᐦᐃᑲᐣ ᐁ ᓯᓵᐚᐦᒋᑳᑌᐠ, ᐊᐦᐳ ᐁ ᑭᔮᒧ-ᔮᔮᐦᑫᓂᐠ. ᑭᓭᐚᐨ ᒫᒋᑖ, ᓇᓱᐍᐦᐊᒧᐚ ᐁᓯ-ᓅᐦᑌ-ᑑᑕᐠ, ᒥᓇ ᐴᓂᐦᑖ ᐃᐢᐱᐠ ᑳ ᑌᐱᔨᐦᑕᐠ."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "ᑭᒧᒋ-ᑲᓇᐍᔨᐦᒋᑳᑌᐚ ᓂᑌᔨᐦᒋᑫᐏᓇ?",
+        "a": "ᐆᒪ ᒪᓯᓇᐦᐃᑲᓂᐠ ᓇᒪᐚᐨ ᐊᓯᐎᐦᐃᓱᐏᐣ ᒥᓇ ᓇᒪᐚᐨ ᐊᑖᐍ-ᑭᐢᑭᓄᐚᐦᐃᑫᐏᓇ. ᓂᑖᐸᒋᐦᑖᓈᐣ Google Analytics ᒉ ᑭᐢᑫᔨᐦᑕᒪᐦᐠ ᑖᓂᐚᐦᐃ ᒪᓯᓇᐦᐃᑲᓇ ᑳ ᐚᐸᐦᒋᑳᑌᑭ. ᑭᐢᑭᓇᐚᒋᒋᑲᓇ ᑳ ᐅᑎᓇᒪᓂ ᐆᐦᐃ ᐅᒋ ᑳ ᓇᓲᓂᑲᑌᑭ ᑭᔮᐱᐨ ᑭᐍᑊ-ᒨᓯᓇᐦᐃᑲᓂᐠ ᐚᐸᐦᑐᐦᐃᐍᒪᑲᐣ ᒥᓇ ᓇᒪᐚᐨ ᐲᐦᒋ-ᐃᓯᑎᔕᐦᐅᑲᓂᐏᐣ."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "ᐊᐚᓂᑭ ᑳ ᐅᓯᐦᑖᒋᐠ Golden Moments?",
+        "a": "Golden Moments ᐊᐱᓯᐢ ᐅᑭᐦᒋᒉᐚᑲᓇᐠ ᑳ ᐅᓯᐦᑖᒋᐠ ᑳ ᑭᔮᒧᐚᑭ ᑭᐢᑭᓇᐚᒋᒋᑲᐣ-ᒣᑕᐍᐏᓇ ᐆᐦᐃ ᐅᒋ ᐚᐦᑰᐦᑐᐏᓇ ᒥᓇ ᐅᑲᓇᐍᔨᒥᐍᐘᐠ, ᐍᑊ-ᐊᐢᑭᐦᑳᓈᐠ ᒥᓇ ᐁ ᑌᐱᔨᐦᑳᓱᐠ ᐋᐸᒋᐦᒋᑲᐣ. ᓇᒪᐚᐨ ᓂᒪᐢᑭᑭᐎᔨᓂᐎᓈᐣ, ᒥᓇ ᓇᒪᐚᐨ ᑫᑯᐚᐣ ᐆᑕ ᒪᐢᑭᑭᐎ-ᑲᑫᐢᑭᐍᐏᐣ ᐃᑌᔨᐦᑖᑿᐣ."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "ᒫᒋ-ᐋᑹᐦᑳᑫᐏᐣ",
+    "middle": "ᑖᐚᔨᐦᐠ ᐋᑹᐦᑳᑫᐏᐣ",
+    "late": "ᑳ ᐋᐸᓯᐢᑫᐸᔨᐠ",
+    "hintOne": "ᒥᔪ-ᓈᓇᑕᐚᐦᑖᑿᐣ {list} ᐃᐢᐱᐦᑳᐠ",
+    "hintMany": "ᒥᔪ-ᓈᓇᑕᐚᐦᑖᑿᐣ {list} ᐃᐢᐱᐦᑫᐏᓇ",
+    "labelEarly": "ᒫᒋ-ᐋᑹᐦᑳᑫᐏᐣ",
+    "labelMiddle": "ᑖᐚᔨᐦᐠ ᐋᑹᐦᑳᑫᐏᐣ",
+    "labelLate": "ᑳ ᐋᐸᓯᐢᑫᐸᔨᐠ ᐃᐢᐱᐦᑫᐏᐣ"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "ᐆᒪ ᒣᑕᐍᐏᐣ ᐅᒋ",
+    "printable": "ᑳ ᒨᓯᓇᐦᐃᑲᑌᐠ",
+    "play": "ᒣᑕᐍ {name} →",
+    "readGuide": "ᐊᔭᒥᐦᑖ ᑭᐢᑭᓄᐦᐊᒫᑫ-ᒪᓯᓇᐦᐃᑲᐣ"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "ᑭᐑ-ᑯᒋᐦᑖᐣ ᑭᔮᒧ-ᒣᑕᐍᐏᐣ?",
+    "text": "ᑭᐢᑭᓇᐚᒋᒋᑲᓇ ᑳ ᒪᐢᑫᓰᑭ, ᓇᒪᐚᐨ ᐲᓯᒧᐦᑳᐣ, ᓇᒪᐚᐨ ᐊᑭᐦᒋᑫᐏᓇ, ᒥᓇ ᓇᒪᐚᐨ ᑫᑯᐚᐣ ᒉ ᒪᓯᓇᐦᐃᓱᓂ. ᐑᒉᐦᑐᐠ ᑭᐍᑊ-ᒨᓯᓇᐦᐃᑲᓂᐠ.",
+    "play": "ᒣᑕᐍ",
+    "all": "ᐚᐸᐦᑕ ᑲᐦᑭᔭᐤ ᒣᑕᐍᐏᓇ",
+    "aria": "ᒣᑕᐍᐏᐣ ᒣᑕᐍ"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "ᑭᐑᒋᐚᐦᐊᒧᐚᐣ ᐆᐦᐃ ᒣᑕᐍᐏᓇ",
+    "text": "ᐆᒪ ᑌᐱᔨᐦᑳᓱᐠ Golden Moments ᐋᐸᒋᐦᒋᑲᐣ iPhone, iPad ᒥᓇ Android: ᑭᐢᑭᓇᐚᒋᒋᑲᐣ-ᐋᐸᒋᐦᒋᑲᓇ ᑳ ᒪᐢᑫᓰᑭ, ᒣᑕᐍᐏᓇ ᑭᐚᐦᑰᐦᑐᐏ-ᑭᐢᑭᓇᐚᒋᒋᑲᓇᐚᐤ ᐁ ᐋᐸᒋᐦᑖᓂ, ᒥᓇ ᑭᐢᑭᓇᐚᒋᒋᑲᓇ ᑳ ᐋᐸᒋᐦᑖᓂ ᐊᑖᒥᐠ ᐁᑲ Wi‑Fi ᐁ ᐊᔭᐚᓂ. ᓇᒪᐚᐨ ᐊᓯᐎᐦᐃᓱᐏᐣ, ᐊᑖᐍ-ᑭᐢᑭᓄᐚᐦᐃᑫᐏᓇ, ᐲᓯᒧᐦᑳᐣ, ᐊᐦᐳ ᐊᑭᐦᒋᑫᐏᓇ.",
+    "appStore": "ᐅᑎᓇ ᐆᑕ App Store",
+    "googlePlay": "ᐅᑎᓇ ᐆᑕ Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "ᐆᒪ ᐋᐸᒋᐦᒋᑲᐣ ᐅᒋ",
+    "aria": "ᐅᑎᓇ ᐋᐸᒋᐦᒋᑲᐣ"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "ᑑᑕᒧᐏᓇ",
+      "title": "ᑑᑕᒧᐏᓇ ᐊᓂᐦᐃ ᐅᒋ ᑳ ᐋᑹᐦᐋᑫᒪᑲᓂᔨᐠ ᑭᐢᑫᔨᐦᑕᒧᐏᐣ",
+      "seo": "ᑑᑕᒧᐏᓇ ᐊᓂᐦᐃ ᐅᒋ ᑳ ᐋᑹᐦᐋᑫᒪᑲᓂᔨᐠ ᑭᐢᑫᔨᐦᑕᒧᐏᐣ: ᐃᑌᔨᐦᑕᒧᐏᓇ ᐃᐢᐱᐦᑫᐏᓂᐠ",
+      "description": "ᑑᑕᒧᐏ-ᐃᑌᔨᐦᑕᒧᐏᓇ ᐊᓂᐦᐃ ᐅᒋ ᐊᔨᓯᔨᓂᐘ ᑳ ᐋᑹᐦᐋᑫᒪᑲᓂᔨᐠ ᑭᐢᑫᔨᐦᑕᒧᐏᐣ ᑲᐦᑭᔭᐤ ᐃᐢᐱᐦᑫᐏᓂᐠ: ᓂᑲᒧᐏᓇ, ᑲᔭᐦᑌ-ᑭᐢᑭᓯᐏᓇ, ᑳ ᑕᓯᑮᓯᑳᐤ ᐊᐸᒋᐦᒋᑫᐏᓇ, ᒨᓯᐦᐅᐏ-ᑑᑕᒧᐏᓇ, ᒥᓯᐍ-ᐅᓯᐦᒋᑫᐏᓇ, ᐘᔨᐑᑎᒥᐠ ᒥᓇ ᑳ ᒨᓯᓇᐦᐃᑲᑌᑭ ᑳ ᑌᐱᔨᐦᑳᓱᑭ.",
+      "lede": "ᑭᐦᒉᔨᐦᑖᑿᐣ ᑑᑕᒧᐏᐣ ᑫᑯᐚᐣ ᑳ ᐯᑕᒪᑫᒪᑲᐠ ᒥᔪ-ᒨᓯᐦᐅᐏᐣ, ᐃᑌᔨᐦᑕᒧᐏᐣ, ᐊᐦᐳ ᐁ ᐑᒉᐦᑐᓈᓂᐏᐠ. ᒫᒋᑖ ᑫᑯᐚᐣ ᐊᐘ ᐊᔨᓯᔨᓂᐤ ᑳ ᑭ-ᒥᔮᐍᔨᐦᑕᐠ ᑲᔭᐦᑌ, ᒥᓇ ᐋᐸᒋᐦᑖ ᐊᓄᐦᐨ ᑳ ᑮᓯᑳᐠ."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "ᑲᓇᐍᔨᒥᐍᐏᐣ",
+      "title": "ᑲᓇᐍᔨᒥᐍ-ᑭᐢᑭᓄᐦᐊᒫᑫ-ᒪᓯᓇᐦᐃᑲᓇ",
+      "seo": "ᑭᐢᑫᔨᐦᑕᒧᐏ-ᑲᓇᐍᔨᒥᐍ-ᑭᐢᑭᓄᐦᐊᒫᑫ-ᒪᓯᓇᐦᐃᑲᓇ: ᑕᓯᑮᓯᑳᐤ ᐑᒋᐦᐃᐍᐏᓇ",
+      "description": "ᒥᔪᐚᓯᑭ, ᑭᓭᐚᑎᓯᐏ-ᑭᐢᑭᓄᐦᐊᒫᑫ-ᒪᓯᓇᐦᐃᑲᓇ ᐊᓂᐦᐃ ᐅᒋ ᐅᑲᓇᐍᔨᒥᐍᐘᐠ: ᐁ ᒣᑕᐍᐦᑐᓈᓂᐏᐠ, ᐁ ᐑᒋᐦᐃᑐᓈᓂᐏᐠ, ᑳ ᓇᓈᑫᔨᐦᑖᑿᑭ, ᐅᑖᑯᓯᓂᐠ ᑳ ᒨᐢᑲᐦᐃᓱᓈᓂᐏᐠ, ᑖᐱᓓᐟ, ᐋᐸᒋᐦᒋᑲᓇ ᐁ ᐅᑎᓇᒪᓂ, ᒥᓇ ᐁ ᑲᓇᐍᔨᒥᓱᓂ.",
+      "lede": "ᐍᐦᒋ-ᐑᒋᐦᐃᐍᐏᐣ ᐆᐦᐃ ᑕᓯᑮᓯᑳᐤ ᐃᐢᐱᐦᑳᐠ ᐁ ᑲᓇᐍᔨᒪᐟ ᐊᐘ ᑳ ᐋᑹᐦᐋᑫᒪᑲᓂᔨᐠ ᐅᑭᐢᑫᔨᐦᑕᒧᐏᐣ, ᒥᓇ ᑭᔮᓇ ᐁ ᑲᓇᐍᔨᒥᓱᓂ."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "ᒥᑐᓀᔨᒋᑲᐣ ᒥᔪ-ᐊᔭᐚᐏᐣ",
+      "title": "ᒥᑐᓀᔨᒋᑲᐣ ᒥᔪ-ᐊᔭᐚᐏᐣ: ᑫᑯᐚᐣ ᓇᓇᑐ-ᑭᐢᑫᔨᐦᒋᑫᐏᐣ ᑳ ᐃᑌᒪᑲᐠ",
+      "seo": "ᒥᑐᓀᔨᒋᑲᐣ ᒥᔪ-ᐊᔭᐚᐏᐣ ᒥᓇ ᑭᐢᑫᔨᐦᑕᒧᐏ-ᐋᑹᐦᑳᑫᐏᐣ: ᑫᑯᐚᐣ ᓇᓇᑐ-ᑭᐢᑫᔨᐦᒋᑫᐏᐣ ᑳ ᐃᑌᒪᑲᐠ",
+      "description": "ᑭᑲ-ᑭᐸᐦᐊᒧᐚᐣ ᑭᐢᑫᔨᐦᑕᒧᐏ-ᐋᑹᐦᑳᑫᐏᐣ? ᑕᐹᐦᑫᔨᐦᑖᑿᑭ, ᓇᓇᑐ-ᑭᐢᑫᔨᐦᒋᑫ-ᑭᐢᑭᓄᐦᐊᒫᑫ-ᒪᓯᓇᐦᐃᑲᓇ ᐅᒋ ᑳ ᐯᒋ-ᐋᑹᐦᑳᑫᒪᑲᑭ, ᒥᑐᓀᔨᒋᑲᐣ-ᒣᑕᐍᐏᓇ, ᐁ ᒧᐎᐦᑳᓱᓂ, ᒦᒋᒼ, ᐁ ᑲᓯᑮᐱᒋᑫᓂ, ᓂᐹᐏᐣ, ᐯᐦᑕᒧᐏᐣ, ᒥᓇ ᒫᒋ-ᑭᐢᑭᓇᐚᒋᒋᑲᓇ.",
+      "lede": "ᑫᑯᐚᐣ ᑭᐦᒋ-ᓇᓇᑐ-ᑭᐢᑫᔨᐦᒋᑫᐏᓇ ᑳ ᐚᐸᐦᑐᐦᐃᐍᒪᑲᑭ ᐁ ᓅᐦᑌᐦᑲᑌᐠ ᑭᐢᑫᔨᐦᑕᒧᐏ-ᐋᑹᐦᑳᑫᐏᐣ, ᐁ ᐍᐢᑕᒪᑫᒪᑲᐠ ᐍᐦᒋ-ᐃᓯ, ᒥᓇ ᑖᓂᐚᐦᐃ ᑳ ᓴᑿᑭ ᐊᐦᐳ ᑳ ᒪᓯᑲᐹᐦᑌᑭ ᑭᐢᑫᔨᐦᑕᒧᐏᓇ. ᑲᐦᑭᔭᐤ ᑭᐢᑫᔨᐦᑕᒧᐏᐣ, ᓇᒪᐚᐨ ᒪᐢᑭᑭᐎ-ᑲᑫᐢᑭᐍᐏᐣ."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "ᐅᐢᑲᐦᐃᑲᑌᐤ",
+    "minuteRead": "{n} ᑎᐸᐦᐃᑲᓂᓯᐢ ᐁ ᐊᔭᒥᐦᒋᑳᑌᐠ",
+    "byTeam": "ᐅᒋ Golden Moments ᐅᑭᐦᒋᒉᐚᑲᓇᐠ",
+    "howWeWrite": "ᐁᓯ-ᒪᓯᓇᐦᐃᑫᔮᐦᐠ",
+    "shortAnswer": "ᑳ ᑕᑿᐦᐃᑫᒪᑲᐠ ᓇᓱᐍᐦᐊᒧᐚᐏᐣ",
+    "onThisPage": "ᐆᑕ ᒪᓯᓇᐦᐃᑲᓂᐠ ({n} ᐸᐢᑫᐢᒋᑲᓇ)",
+    "commonQuestions": "ᑳ ᑕᓯ-ᑲᑫᐧᒋᐦᑫᓈᓂᐏᐠ",
+    "sources": "ᐅᐦᒋᐏᓇ",
+    "sourcesNote": "ᓂᒪᒧᐎᓯᑑᓈᐣ ᐅᒉᐚᑲᓇᐠ ᒥᓇ ᓇᓇᑐ-ᑭᐢᑫᔨᐦᒋᑫᐏᓇ ᐆᒪ ᒪᓯᓇᐦᐃᑲᐣ ᑳ ᐊᐸᒋᐦᑖᐠ. ᑲᐦᑭᔭᐤ ᑮ-ᑭᐢᑫᔨᐦᒋᑳᑌᐚ ᐃᐢᐱᐠ ᐆᒪ ᒪᓯᓇᐦᐃᑲᐣ ᑳ ᐅᐢᑲᐦᐃᑲᑌᐠ.",
+    "tryTogether": "ᐑᒋ-ᑯᒋᐦᑖᐠ",
+    "relatedGuides": "ᐑᒋ-ᑭᐢᑭᓄᐦᐊᒫᑫ-ᒪᓯᓇᐦᐃᑲᓇ",
+    "related": "ᐑᒋᐦᐃᐍᒪᑲᐣ",
+    "startHere": "ᐆᑕ ᒫᒋᑖ"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "ᒥᔪ-ᐊᔭᐚᐏᐣ ᑭᐢᑫᔨᐦᑕᒧᐏ-ᐍᐢᑕᒪᑫᐏᐣ",
+    "title": "ᑲᐦᑭᔭᐤ ᑭᐢᑫᔨᐦᑕᒧᐏᐣ, ᓇᒪᐚᐨ ᒪᐢᑭᑭᐎ-ᑲᑫᐢᑭᐍᐏᐣ",
+    "textHtml": "ᐆᒪ ᒪᓯᓇᐦᐃᑲᐣ ᒪᒧᐎᓯᑖᐤ ᓇᓇᑐ-ᑭᐢᑫᔨᐦᒋᑫᐏᐣ ᐆᐦᐃ ᐅᒋ ᐚᐦᑰᐦᑐᐏᓇ. ᓇᒪᐚᐨ ᑭᑲ-ᐃᑘᒪᑲᐣ ᑫᑯᐚᐣ ᑳ ᒥᔪᐚᓯᓂᔨᐠ ᐯᔭᐠ ᐊᔨᓯᔨᓂᐤ ᐅᒋ. ᐑᒋ-ᑲᑭᑐ ᒪᐢᑭᑭᐎᔨᓂᐤ ᒧᐍᒋ ᐁ ᒥᐢᑯᒋᓂ ᒦᒋᒼ, ᑲᓯᑮᐱᒋᑫᐏᐣ, ᓂᐹᐏᐣ, ᒪᐢᑭᑭᐚᐦᐃ ᐊᐦᐳ ᓇᑕᐚᐦᐃᑫᐏᓇ. ᑭᐢᐱᐣ ᓭᐢᑫᐨ ᐚᓂᓀᔨᐦᑕᒧᐏᐣ ᐊᐦᐳ ᓭᐢᑫᐨ ᐊᓯᐍᐸᔨᐣ, ᑲᑫᐧ ᐑᒋᐦᐃᑰ ᒪᐢᑭᑭᐎᔨᓂᐤ ᓭᐢᑫᐨ. <a href=\"/medical-disclaimer/\">ᐊᔭᒥᐦᑖ ᑭᒥᔪ-ᐊᔭᐚᐏᐣ ᑭᐢᑫᔨᐦᑕᒧᐏ-ᐍᐢᑕᒪᑫᐏᓇᓇᐣ</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "ᐁ ᐑᒋ-ᑑᑕᓈᓂᐏᐠ, ᓇᒪᐚᐨ ᑭᐢᑭᓯᐏ-ᑯᒋᐦᑖᐏᐣ",
+      "seoTitle": "Golden Moments ᐅᒋ: ᐁᓯ-ᑑᑕᒪᐦᐠ",
+      "description": "ᑖᓀᐦᑭ Golden Moments ᒣᑕᐍᐏᓇ ᐁᑲ ᑳ ᐊᔭᑭ ᐲᓯᒧᐦᑳᓇ, ᐊᑭᐦᒋᑫᐏᓇ ᐊᐦᐳ ᐊᑭᐦᑕᓱᐏᓇ, ᑖᓀᐦᑭ ᑭᐢᑭᓇᐚᒋᒋᑲᓇ ᑳ ᓇᑭᐢᑳᑫᒪᑲᑭ, ᒥᓇ ᑫᑯᐚᐣ ᑫ-ᐃᑘᔮᐦᐠ ᒥᓇ ᑫ-ᐁᑲ-ᐃᑘᔮᐦᐠ ᑭᐢᑫᔨᐦᑕᒧᐏ-ᐋᑹᐦᑳᑫᐏᐣ ᐅᒋ.",
+      "crumb": "ᐁᓯ-ᑑᑕᒪᐦᐠ",
+      "lede": "Golden Moments ᐅᓯᐦᑖᐤ ᑳ ᑭᔮᒧᐚᑭ ᑭᐢᑭᓇᐚᒋᒋᑲᐣ-ᒣᑕᐍᐏᓇ ᐊᐘ ᐅᑲᓇᐍᔨᒥᐍᐤ ᒥᓇ ᐊᐘ ᑳ ᐋᑹᐦᐋᑫᒪᑲᓂᔨᐠ ᐅᑭᐢᑫᔨᐦᑕᒧᐏᐣ ᑫ-ᑲᑭ-ᐑᒋ-ᒥᔮᐍᔨᐦᑕᒧᐚᐟ.",
+      "bodyHtml": "<h2>ᑫᑿᐣ ᑳ ᑖᐺᐦᑕᒫᐦᒃ</h2><p>ᐆᒪ ᑳ ᐃᔑ ᑐᒋᑳᑌᒃ, ᐋᔓᑿᐣ ᐆᒪ ᒣᑿᒡ ᑲᑭᔮᐤ: ᑕᐦᑭ ᑲᑭᐦᑭᒥᑐᐏᐣ, ᐹᐦᐱᐏᐣ, ᑲᑿᑖᑭᐦᑌᐦᑐᐏᐣ ᓂᓱ ᒪᓯᓇᐦᐃᑲᓂᓴ ᑳ ᐊᐢᑕᐘᐦᑲᐦᐃᑫᐦᒃ, ᐊᐦᐳ ᑵᔥᑲᒡ ᐯᒫᑎᓯᑫᐨ ᑕᐦᑭ ᐊᐘᔭᒃ ᑫᒋᓀᐦ ᐁ ᐊᐱᐦᒃ. ᓇᒨᔭ ᐋᐸᒋᐦᑖᐤ ᐊᐘᔭᒃ ᑕ ᓇᓇᑐᐎᐦᑳᔖᐦᒃ, ᑕ ᓯᐦᑭᒥᐦᒃ ᐊᐘᓯᑌ ᐊᐦᐳ ᑫᑿᐣ ᑕ ᑫᐢᑭᐦᐄᓱᐦᒃ.</p><p>ᒥᐦᒉᑦ ᒥᑐᓂ ᒥᑐᓀᔨᐦᒋᑲᓂ-ᐋᐸᒋᐦᒋᑲᓇ ᐅᔑᐦᑖᓂᐘᓇ ᑫᓯᑳᐣ ᑲᑭᓯᑫᐤ, ᐊᑭᐦᒋᑫᐏᓇ, ᑳ ᓂᑳᓂᐦᑕᒫᑫᐦᒃ ᒥᓇ ᐃᐢᐱᐦᑖᐏᓇ. ᐊᓂᑭ ᑳ ᑲᑮᐦᑭᐢᑭᓯᒋᒃ ᐊᔨᓯᔨᓂᐘᒃ, ᐆᒪ ᒫᑲ ᑕᐱᐢᑯᒡ ᓇᓇᑐᐎᐦᑳᓱᐏᐣ ᑳ ᑲᑖᐦᑿᒧᐦᑳᑫᐨ ᑕ ᐃᓯᐦᑖᑿᐣ. ᓂᔭᓈᐣ ᒫᑲ ᐯᑐᐢ ᓂ ᑐᑌᓈᐣ, ᒥᓇ ᐆᐦᐃ ᐘᔨᐍᐏᓇ ᓂ ᐸᒥᐦᐋᓇᓈᐣ:</p><ul><li><strong>ᓇᒨᔭ ᑫᑿᐣ ᑕ ᑲᑖᐦᑿᒥᐦᒃ.</strong> ᓇᒨᔭ ᐱᓯᒧᐦᑳᐣ, ᓇᒨᔭ ᐊᑭᐦᒋᑫᐏᐣ, ᓇᒨᔭ ᐊᑭᐦᑖᓱᐏᐣ, ᓇᒨᔭ ᑲᐦᑭᔮᐤ-ᐯᔭᒄ ᐊᑕᐦᐱᐏᓇ, ᓇᒨᔭ ᐚᐢᑯᐱᔨᐏᓇ ᐊᐦᐳ ᑳ ᑲᑭᓯᐦᐊᑳᓱᐦᒃ, ᓇᒨᔭ ᒥᓯᐌ ᐚᐸᐦᒋᑲᓂᕽ.</li><li><strong>ᓇᓇᓂᐢᑐᐎᓇᒧᐏᐣ ᐊᐘᓯᑌ ᐃᐢᐱᐦᒡ ᑲᐢᑭᑕᐦᑕᒫᓱᐏᐣ.</strong> ᒪᓯᓇᐦᐃᑲᓂᓴ ᑕᐦᑭ ᓂᑳᐣ ᓄᑯᐘ. ᑳ ᓀᐦᑖᐍᒧᐦᑳᑫᐨ ᐱᑯ ᐁ ᓀᐦᐃᔭᐍᐦᐋᑫᐨ ᑲᑭᐦᑭᒥᑐᐏᐣ, ᓇᒨᔭ ᐲᑭᐢᑵᐏᓇ ᑫᑯ ᑫᐦᒋᓇᐦ ᐁ ᓇᓇᑐᐎ-ᑲᑫᒋᐦᑫᒥᐦᒃ.</li><li><strong>ᒥᐢᑎᐦᐃ, ᒥᑐᓂ ᔖᐳᑿᐣ ᒥᓇ ᑫᒋᓀᐦ.</strong> ᒥᐢᑎ-ᒪᓯᓇᐦᐃᑲᓈᑎᑲᐘ ᒥᓇ ᒪᓯᓇᐦᐃᑲᓂᓴ, ᑫᒋᓀᐦ ᐁ ᐚᐸᐦᑖᑿᐣ, ᒥᓇ ᐋᐸᒋᐦᒋᑲᓇ ᐯᔭᑿᓄᕽ ᑕᐦᑭ ᑳ ᐊᐢᑌᑭ.</li><li><strong>ᑭᒋᓀᔨᒥᑐᐏᐣ ᑫᐦᑌ-ᐊᔨᓯᔨᓂᐘᕽ.</strong> ᑖᐺ-ᐊᐢᑭᕽ ᒪᓯᓇᐦᐃᑲᓂᓴ ᒥᓇ ᔮᑮ ᐯᔮᐦᑕᑭ ᐲᑭᐢᑵᐏᓇ. ᓇᒨᔭ ᐊᐘᓯᐢ-ᒪᓯᓇᐦᐃᑲᓇ, ᓇᒨᔭ ᐊᐘᓯᐢ-ᓂᑲᒧᐏᓇ ᑫᑯ ᐹᐦᐱᐦᑳᓱᐏ-ᒪᓯᓇᐦᐃᑲᓇ.</li><li><strong>ᐍᐸᐦᒡ ᑕ ᐴᓂᐦᒃ.</strong> “ᒣᑿᒡ ᓂ ᑭᓯᐦᑖᐣ” ᑕᐦᑭ ᓄᑯᐣ. ᐊᐱᐦᑕᐤ ᑕ ᐴᓂᐦᒃ ᒥᔪ-ᐃᓯᓈᑿᐣ.</li><li><strong>ᑭᒧᒋ-ᑲᓇᐍᔨᐦᒋᑫᐏᐣ.</strong> ᓇᒨᔭ ᐊᑯᐦᒋᑫᐏᓇ ᓇᒨᔭ ᐊᑕᐘᐍ-ᒪᓯᓇᐦᐃᑲᓇ. ᒪᓯᓇᐦᐃᑲᓂᓴ ᑳ ᓇᐘᒋᐦᑖᔨᐣ ᑭ ᐋᐸᒋᐦᒋᑲᓂᕽ ᐱᑯ ᐊᐢᑌᐘ.</li></ul><h2>ᑫᑿᐣ ᑫᐦᒋᓇᐦ ᐁᑳ ᑳ ᐃᑌᐦᒃ</h2><p>ᓂ ᒣᑕᐍᐏᓇᓂᓈᓇ ᒥᔪᐦᑖᐏᐣ ᒥᓇ ᐘᐦᑰᐦᑐᐏᐣ ᐅᐦᒋ ᐅᔑᐦᑖᓂᐘᓇ. ᓇᒨᔭ ᓇᓇᑐᐎᐦᐄᐍᒪᑲᓇ, ᓇᒨᔭ ᓇᓇᑐᐎ-ᑲᑫᒋᐦᑫᔨᐦᒋᑫᒪᑲᓇ, ᓇᒨᔭ ᒥᔮᔑᐦᑖᒪᑲᓇ, ᓇᒨᔭ ᐱᔮᐦᒋ-ᐴᓂᐦᑖᒪᑲᓇ ᑲᑮᐦᑭᐢᑭᓯᐏᐣ ᐊᐦᐳ Alzheimer ᐋᐦᑯᓯᐏᐣ, ᒥᓇ ᓇᒨᔭ ᐊᐘᔭᒃ ᐁᑿᓂ ᐅᐦᒋ ᑕ ᐅᑎᓇᒻ. ᐃᐢᐱᐦ ᑳ ᒪᓯᓇᐦᐊᒫᐦᒃ ᓇᓇᑐᐎ-ᑭᐢᑫᔨᐦᒋᑫᐏᓇ ᐅᑕ ᓂᔭᓈᐣ <a href=\"/brain-health/\">ᒥᑐᓀᔨᐦᒋᑲᐣ ᒥᔪ-ᐊᔮᐏᐣ ᒪᓯᓇᐦᐃᑲᓂᕽ</a>, ᑫᒋᓀᐦ ᓂ ᐘᐦᑳᐦᑖᓈᓈᐣ ᑖᓂᐍᐦ ᐁᑳ ᑳ ᓱᐦᑭ-ᑭᐢᑫᔨᐦᑖᑿᕽ, ᒥᓇ ᓇᒨᔭ ᐲᐦᑲᒡ ᓂ ᒪᒧᐎ-ᐊᐢᑖᓈᓈᓈᐣ ᓂ ᒣᑕᐍᐏᓇᓂᓈᓈᕽ.</p><h2>ᐊᐘᓂᑭ ᓂᔭᓈᐣ</h2><p>Golden Moments ᐊᐱᓯᐢ ᐱᑯ ᐯᔭᑯ-ᒪᒧᐎ-ᐊᑐᐢᑫᐘᒃ. ᓇᒨᔭ ᓂ ᒪᐢᑭᐦᑮᐎᔨᓂᐎᓈᓈᐣ. ᓂ ᑭᐢᑭᓄᐦᐊᒫᑫ-ᒪᓯᓇᐦᐃᑲᓇᓂᓈᓇ ᐅᔑᐦᑖᓂᐘᓇ ᐅᐦᒋ ᐊᓂᑮ ᑳ ᒪᓯᓇᐦᐊᐦᒃ ᐆᐦᐃ ᒪᒧᐎ-ᐊᑐᐢᑫᐎᑲᒥᑯᐘ National Institute on Aging ᒥᓇ Alzheimer’s Association, ᒥᓇ ᑕᐦᑭ ᑭᐢᑭᓄᐦᐊᒫᑫ-ᒪᓯᓇᐦᐃᑲᐣ ᓄᑯᐦᑖᐤ ᑖᓂᐍᐦ ᐅᐦᒋ-ᐅᑎᓇᒧᐦᒃ. ᐊᔭᒥᐦᑖ <a href=\"/editorial-policy/\">ᑖᓂᓯ ᐁ ᐃᔑ ᒪᓯᓇᐦᐊᒫᐦᒃ ᒥᓇ ᐁ ᓇᓇᑐᐎ-ᐚᐸᐦᑕᒫᐦᒃ ᓂ ᒪᓯᓇᐦᐃᑲᓇᓂᓈᓇ</a>.</p><h2>ᐑᐦᑕᒪᐎᓈᐣ ᑫᑿᐣ ᑫ ᐑᒋᐦᐃᑫᒪᑲᕽ</h2><p>ᓂ ᑲᑿᑖᑭᐦᑌᓈᓈᐣ ᑕ ᐯᐦᑕᒫᐦᒃ ᑫᑿᐣ ᑳ ᐑᒋᐦᐃᑯᔨᐣ ᒥᓇ ᑫᑿᐣ ᐁᑳ ᑳ ᐑᒋᐦᐃᑯᔨᐣ, ᐅᓵᒻ ᐊᓂᑭ ᑳ ᑲᑮᐦᑭᐢᑭᓯᒋᒃ, ᐑᒋ-ᐚᐦᑰᒫᑲᓂᐘᒃ ᑳ ᑲᓇᐍᔨᒫᒋᒃ ᒥᓇ ᑳ ᐸᒥᐦᐋᒋᒃ ᑫᐦᑌ-ᐊᔨᓯᔨᓂᐘ. ᒪᓯᓇᐦᐊᒪᐎᓈᐣ ᐅᑕ <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "ᑖᓂᓯ ᐁ ᐃᔑ ᒪᓯᓇᐦᐊᒫᐦᒃ ᒥᓇ ᐁ ᓇᓇᑐᐎ-ᐚᐸᐦᑕᒫᐦᒃ ᓂ ᒪᓯᓇᐦᐃᑲᓇᓂᓈᓇ",
+      "seoTitle": "ᒪᓯᓇᐦᐃᑫᐏ-ᐘᔨᐍᐏᐣ",
+      "description": "ᑖᓂᓯ Golden Moments ᐁ ᓇᓇᑐᐎ-ᑭᐢᑫᔨᐦᑕᕽ, ᐁ ᒪᓯᓇᐦᐊᕽ, ᐁ ᐅᑎᓇᕽ ᒥᓇ ᐁ ᐅᐢᑭ-ᐊᐢᑕᕽ ᑲᑮᐦᑭᐢᑭᓯᐏ-ᒣᑕᐍᐏᓇ ᒥᓇ ᒥᑐᓀᔨᐦᒋᑲᐣ ᒥᔪ-ᐊᔮᐏ-ᒪᓯᓇᐦᐃᑲᓇ, ᒥᓇ ᑫᑿᐣ ᐲᐦᑲᒡ ᐁᑳ ᑫ ᒪᓯᓇᐦᐊᒫᐦᒃ.",
+      "crumb": "ᒪᓯᓇᐦᐃᑫᐏ-ᐘᔨᐍᐏᐣ",
+      "bodyHtml": "<h2>ᑖᓂᐍᐦ ᐅᐦᒋ-ᐅᑎᓇᒫᐦᒃ</h2><p>ᓂ ᑭᐢᑭᓄᐦᐊᒫᑫ-ᒪᓯᓇᐦᐃᑲᓇᓂᓈᓇ ᓂ ᑭᔅᑭᓄᐘᐸᐦᑖᓈᓈᐣ ᑭᒋ-ᑭᐢᑭᓄᐦᐊᒫᑫᐏᓇ ᐅᐦᒋ ᐆᐦᐃ ᒪᒧᐎ-ᐊᑐᐢᑫᐎᑲᒥᑯᐘ National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance ᒥᓇ NHS, ᒥᓇ ᓱᐦᑭ-ᓇᓇᑐᐎ-ᑭᐢᑫᔨᐦᒋᑫᐏᓇ ᑕᐱᐢᑯᒡ Cochrane reviews ᒥᓇ ᑭᒋ-ᒪᐢᑭᐦᑮᐎ-ᓇᓇᑐᐎ-ᐚᐸᐦᒋᑫᐏᓇ. ᑕᐦᑭ ᑭᐢᑭᓄᐦᐊᒫᑫ-ᒪᓯᓇᐦᐃᑲᐣ ᓄᑯᐦᑖᐤ ᑖᓂᐍᐦ ᑳ ᐅᑎᓇᒧᐦᒃ. ᓂ ᑖᐦᐸᓈᓈᓈᐣ ᑕᐦᑭ ᒪᓯᓇᐦᐃᑲᐣ ᒨᔖᒃ ᐁᑳ ᒥᓇ ᐁ ᐑᐦᑕᒫᐦᒃ, ᒥᓇ ᐱᑯ ᑫᑿᐣ ᑖᐺ ᑳ ᐃᑌᒪᑲᕽ ᓂ ᒪᓯᓇᐦᐋᓈᓈᐣ.</p><h2>ᑖᓂᓯ ᐁ ᐃᔑ ᒪᓯᓇᐦᐊᒫᐦᒃ</h2><ul><li>ᐊᑐᐢᑫᐏᐣ ᓂᑳᐣ: ᑫᑿᐣ ᑕ ᑐᒋᑳᑌᒃ ᐊᓄᐦᒡ, ᑫᒋᓀᐦ ᐲᑭᐢᑵᐏᓂᕽ.</li><li>ᑖᐺᐏᐣ ᑫᑿᐣ ᑳ ᓄᑯᐦᑖᑿᕽ: ᓂ ᑑᑌᓈᓈᐣ “ᐊᑕᐦᑳᒣᔨᐦᑖᑿᐣ”, “ᑫᑯ ᒫᑿ” ᒥᓇ “ᓇᓇᑐᐎ-ᑭᐢᑫᔨᐦᒋᑫᐏᐣ ᒪᒧᐎ-ᓀᐦᑖᐍᐤ” ᐃᐢᐱᐦ ᐁᑿᓂ ᐁ ᑖᐺᒪᑲᕽ.</li><li>ᑭᒋᓀᔨᒥᑐᐏᐣ: ᓂ ᒪᓯᓇᐦᐋᓈᓈᐣ ᐊᓂᑭ ᑳ ᑲᑮᐦᑭᐢᑭᓯᒋᒃ ᑕᐱᐢᑯᒡ ᑫᐦᑌ-ᐊᔨᓯᔨᓂᐘᒃ, ᒥᓇ ᓇᒨᔭ ᐲᐦᑲᒡ ᓂ ᓇᓇᑐᐎ-ᑲᑫᒋᐦᑫᔨᐦᒋᑫ-ᐲᑭᐢᑵᐏᐣ ᐊᐦᐳ ᓇᓀᐦᑲᒋᐦᐄᐍ-ᐲᑭᐢᑵᐏᐣ ᓂ ᐋᐸᒋᐦᑖᓈᓈᐣ.</li><li>ᓇᒨᔭ ᑭᓈᐦᑲᒋ-ᒪᓯᓇᐦᐃᑫᐏᐣ: ᓇᒨᔭ ᑭᓈᐦᑲᒋ-ᐊᑭᐦᒋᑫᐏᓇ, ᐲᑭᐢᑵᐏᓇ, ᑭᐢᑫᔨᐦᑕᒧᐘᒃ, ᓇᓇᑐᐎ-ᑭᐢᑫᔨᐦᒋᑫᐏᓇ, ᐊᐦᐳ ᐑᐦᑕᒫᑫᐏᓇ.</li></ul><h2>ᐊᐘᓂᑭ ᑳ ᓇᓇᑐᐎ-ᐚᐸᐦᑕᕽ ᓂ ᒪᓯᓇᐦᐃᑲᓇᓂᓈᓇ</h2><p>ᒪᓯᓇᐦᐃᑲᓇ ᒪᓯᓇᐦᐊᒧᐘᒃ ᒥᓇ ᓇᓇᑐᐎ-ᐚᐸᐦᑕᒧᐘᒃ ᐊᓂᑭ Golden Moments ᑳ ᒪᒧᐎ-ᐊᑐᐢᑫᒋᒃ, ᐁ ᐑᒋᐦᐃᑯᒋᒃ AI ᒪᓯᓇᐦᐃᑫ-ᐋᐸᒋᐦᒋᑲᓇ ᓇᓇᑐᐎ-ᑭᐢᑫᔨᐦᑕᒧᐏᓂᕽ ᒥᓇ ᐅᔑᐦᑖᐏᓂᕽ. ᑕᐦᑭ ᒪᓯᓇᐦᐃᑲᐣ ᓇᓇᑐᐎ-ᐚᐸᐦᒋᑳᑌᐤ ᑖᓂᐍᐦ ᑳ ᐅᑎᓇᒧᐦᒃ ᐅᐦᒋ. ᓂ ᒪᓯᓇᐦᐃᑲᓇᓂᓈᓇ <strong>ᓇᒨᔭ</strong> ᓇᓇᑐᐎ-ᐚᐸᐦᑕᒻ ᒪᐢᑭᐦᑮᐎᔨᓂᐤ ᐊᐦᐳ ᑯᑕᐠ ᒪᐢᑭᐦᑮᐤ, ᒥᓇ ᓇᒨᔭ ᓂ ᑖᐺᐦᑖᓈᓈᐣ ᑯᑕᐠ ᑫᑿᐣ. ᐆᐦᐃ ᑲᐦᑭᔮᐤ-ᐊᔨᓯᔨᓂᐤ ᑭᐢᑫᔨᐦᑕᒧᐏᐣ, ᓇᒨᔭ ᒪᐢᑭᐦᑮᐎ-ᑭᐢᑭᓄᐦᐊᒫᑫᐏᐣ.</p><h2>ᑫᑿᐣ ᐲᐦᑲᒡ ᐁᑳ ᑫ ᒪᓯᓇᐦᐊᒫᐦᒃ</h2><ul><li>ᐑᐦᑕᒫᑫᐏᓇ ᐁ ᐃᑌᐦᒃ ᒣᑕᐍᐏᐣ, ᒦᒋᒻ, ᒪᐢᑭᐦᑮᐢ, ᐋᐦᑲᐘᑎᓯᐏᐣ ᐊᐦᐳ ᐃᓯᐦᒋᑫᐏᐣ ᐁ ᐴᓂᐦᑖᒪᑲᕽ, ᐁ ᓇᓇᑐᐎᐦᐄᐍᒪᑲᕽ, ᐁ ᐱᔮᐦᒋ-ᐃᔑᐦᑖᒪᑲᕽ ᐊᐦᐳ ᐁ ᒥᔮᔑᐦᑖᒪᑲᕽ ᑲᑮᐦᑭᐢᑭᓯᐏᐣ.</li><li>ᓇᓇᑐᐎ-ᑲᑫᒋᐦᑫᔨᐦᒋᑫᐏᓇ, ᑲᑫᒋᐦᑫᔨᒧᐏᓇ ᐊᐦᐳ ᐊᑭᐦᒋᑫᐏᓇ ᑳ ᐃᑌᒪᑲᑭ ᐊᐘᔭᒃ ᐁ ᐊᔮᐟ, ᐊᐦᐳ ᐁᑳ ᐁ ᐊᔮᐟ, ᑲᑮᐦᑭᐢᑭᓯᐏᐣ.</li><li>ᑭᐢᑭᓄᐦᐊᒫᑫᐏᐣ ᑕ ᒫᒋᐦᑖᐦᒃ, ᑕ ᐴᓂᐦᑖᐦᒃ ᐊᐦᐳ ᑕ ᒥᐢᑲᐦᑖᐦᒃ ᓇᓇᑐᐎᐦᐄᐍ-ᒪᐢᑭᐦᑮᐤ.</li><li>ᐊᑕᐘᐍ-ᒪᓯᓇᐦᐃᑲᓇ ᐊᐦᐳ ᓲᓂᔮᐤ-ᒪᓯᓇᐦᐃᑲᓇ ᑳ ᐹᐦᐱᐦᑳᓱᒪᑲᑭ ᑕᐱᐢᑯᒡ ᑭᐢᑭᓄᐦᐊᒫᑫᐏᐣ.</li></ul><h2>ᐅᐢᑭ-ᐊᐢᑖᐏᓇ ᒥᓇ ᐵᓀᔨᐦᒋᑫᐏᓇ</h2><p>ᑕᐦᑭ ᒪᓯᓇᐦᐃᑲᐣ ᓄᑯᐦᑖᐤ ᑖᓂᐢᐱᕽ ᑳ ᒪᐚᐨ ᐅᐢᑭ-ᐊᐢᑖᓂᐘᕽ. ᑭᐢᐱᐣ ᒥᐢᑲᒥᓂ ᑳ ᑲᑖᐦᑿᒥᐦᒃ ᐊᐦᐳ ᑲᔮᓯ-ᒪᓯᓇᐦᐃᑲᐣ, ᒪᓯᓇᐦᐊᒪᐎᓈᐣ ᐅᑕ <a href=\"mailto:{email}\">{email}</a> ᒥᓇ ᐍᐸᐦᒡ ᓂ ᑲ ᓇᓇᑐᐎ-ᐚᐸᐦᑖᓈᓈᐣ.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "ᑲᑫᒋᐦᑫᒧᐏᓇ ᒥᓇ ᓇᐢᑵᐘᓯᒧᐏᓇ",
+      "seoTitle": "ᑲᑮᐦᑭᐢᑭᓯᐏ-ᒣᑕᐍᐏᓇ ᒥᓇ ᐃᓯᐦᒋᑫᐏᓇ: ᑲᑫᒋᐦᑫᒧᐏᓇ ᒥᓇ ᓇᐢᑵᐘᓯᒧᐏᓇ",
+      "description": "ᓇᐢᑵᐘᓯᒧᐏᓇ ᑳ ᑲᑫᒋᐦᑫᒧᐦᒃ ᐅᐦᒋ ᑲᑮᐦᑭᐢᑭᓯᐏ-ᒣᑕᐍᐏᓇ ᒥᓇ ᐃᓯᐦᒋᑫᐏᓇ: ᑖᓂᐍᐦ ᒣᑕᐍᐏᓇ ᑫ ᑯᒋᐦᑖᐦᒃ, ᑖᓂᐦᑯᐦᒃ ᑫ ᒣᑕᐍᐦᒃ, ᐃᐢᐱᐦ ᐊᐘᓯᑌ ᑳ ᐃᐢᐸᔨᕽ ᐃᑌᔨᐦᑕᒧᐏᓇ, ᒥᑐᓀᔨᐦᒋᑲᐣ ᒥᔪ-ᐊᔮᐏᐣ ᒥᓇ ᑭᒧᒋ-ᑲᓇᐍᔨᐦᒋᑫᐏᐣ.",
+      "crumb": "ᑲᑫᒋᐦᑫᒧᐏᓇ ᒥᓇ ᓇᐢᑵᐘᓯᒧᐏᓇ",
+      "lede": "ᐎᓯᐦᑖᓵ ᒥᓇ ᑫᒋᓀᐦ ᓇᐢᑵᐘᓯᒧᐏᓇ ᐊᓂᐦᐃ ᑲᑫᒋᐦᑫᒧᐏᓇ ᑳ ᑲᓇᐍᔨᒫᒋᒃ ᑳ ᒪᐚᐨ ᑲᑫᒋᐦᑫᒧᒋᒃ.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "ᐅᐦᒋ ᒣᑕᐍᐏᓇ",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "ᑖᓂᐍᐦ ᑳ ᒪᐚᐨ ᒥᔪ-ᒣᑕᐍᐏᓇ ᐊᓂᑭ ᑳ ᑲᑮᐦᑭᐢᑭᓯᒋᒃ ᐊᔨᓯᔨᓂᐘᒃ?",
+              "a": "ᑳ ᒪᐚᐨ ᒥᔪ-ᒣᑕᐍᐏᓇ ᓀᐦᐃᔭᐤ-ᑭᐢᑫᔨᐦᑖᑿᓇ, ᐍᐸᐦᒡ ᐃᓯᓈᑿᓇ ᒥᓇ ᓇᒨᔭ ᓯᐦᑭᒥᐦᑳᑫᒪᑲᓇ, ᒥᓇ ᑳ ᑵᔥᑲᐦᒃ ᐯᔭᑯᐣ ᐊᐘ ᑳ ᑲᓇᐍᔨᒪᐟ ᑳ ᒥᔮᐦᑕᕽ ᐊᓄᐦᒡ ᑳ ᑮᓯᑳᕽ. ᒪᓯᓇᐦᐃᑲᓂᓴ ᑳ ᐊᐢᑕᐘᐦᑲᐦᐃᑫᐦᒃ ᐁ ᓄᑯᐘᑭ ᒪᓯᓇᐦᐃᑲᓂᓴ, ᓇᓈᑑᐦᒃ ᐁ ᐊᐢᑕᐦᒃ, ᐍᐸᐦᒡ ᑲᑮᐦᑲᐦᐃᑫᐏᓇ, ᑭᐢᑫᔨᐦᑖᑿᓂᑭ ᐲᑭᐢᑵᐏᓇ ᐁ ᑭᓯᐦᑖᐦᒃ, ᓯᓵᐘᐦᑲᐦᐃᑫᐏᐣ ᒥᓇ ᒪᓯᓇᐦᐃᑲᓂᐢ bingo ᑲᐦᑭᔮᐤ ᒥᐦᒉᑦ ᐊᔨᓯᔨᓂᐘ ᒥᔪ-ᐑᒋᐦᐃᑯᐘᒃ. ᐲᐦᑲᒡ ᐊᓯᐘᐦᑖ ᐱᓯᒧᐦᑳᓇ, ᐊᑭᐦᒋᑫᐏᓇ ᒥᓇ ᑫᑿᐣ ᑕᐱᐢᑯᒡ ᓇᓇᑐᐎᐦᑳᓱᐏᐣ ᑳ ᐃᓯᐦᑖᑿᕽ."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "ᑖᐺ ᓇ ᐆᐦᐃ ᒣᑕᐍᐏᓇ ᓇᒨᔭ ᓱᓂᔮᐤ ᐊᔮᐤ?",
+              "a": "ᐁᐦᐊ᙮ ᑲᐦᑭᔭᐤ ᒣᑕᐍᐏᓇ ᒦᓇ ᑳ-ᒧᓵᐱᐢᑲᐦᐃᑲᑫᐧᕽ ᓇᒨᔭ ᑎᐸᐦᐃᑳᑌᐘ, ᓇᒨᔭ ᑭᑲ-ᒪᓯᓇᐦᐃᓱᐣ, ᓇᒨᔭ ᑭᑲ-ᐴᓯᓇᐦᐁᐣ ᑮᑲᐧᕀ, ᒦᓇ ᓇᒨᔭ ᐊᔮᐘᐠ ᐊᑫᐧᐦᐃᑫᐤ-ᒪᓯᓇᐦᐃᑲᓇ᙮"
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "ᑖᓂᐦᑭ ᑳ-ᓇᒫᑕᐠ ᐊᑭᐦᒋᑫᐏᓇ, ᐃᐢᐱᐦᒋ-ᒣᑕᐍᐏᓇ, ᐊᐦᐳ ᑳ-ᑎᐸᐦᐃᑳᑌᐠ ᐃᐢᐱᐦᑖᐤ?",
+              "a": "ᑭᒋ-ᑭᓯᑳᐸᐦᒋᑫᐏᐣ ᒦᓇ ᐊᑭᐦᒋᑫᐏᓇ ᑲᐧᔭᐠ ᒣᑕᐍᐏᐣ ᑭ-ᑫᐢᑌᔨᐦᑖᑯᓐ ᑖᐱᐢᑯᒡ ᑫ-ᑯᒋᐦᐃᑯᐏᐣ, ᑫ-ᑭ-ᐲᑐᒫᑲᐦᐠ ᓂᐯᓯᐏᐣ ᐊᐦᐳ ᓀᐢᑌᔨᒧᐏᐣ᙮ ᓂᑲᓇᐍᔨᐦᑌᓈᐣ ᑭᒋ-ᒥᔮᐍᔨᐦᑕᒧᐏᐣ ᒦᓇ ᑭᒋ-ᒫᒪᐏ-ᐊᔭᕽ, ᓇᒨᔭ ᑮᑲᐧᕀ ᑭ-ᐘᓂᑐᑕᐣ, ᒦᓇ ᐃᐢᐱᐦ ᑳ-ᑭ-ᐴᓂᐦᐋᐣ ᐃᐢᐱᐦ ᑳ-ᑲᐧᔭᓯᐦᑌᐦᐁᔨᒪᐣ᙮"
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "ᑖᓂᐍᐎ ᐋᐸᒋᐦᒋᑲᓇ ᑳ-ᒫᐘᒋ-ᒥᔪᐸᔨᐦᑭ?",
+              "a": "ᑲᐦᑭᔭᐤ ᑮᑲᐧᕀ ᓀᐦᐃᔭᐤ-ᑌᓖᐴᓐ, ᑖᑉᓕᐟ, ᐊᐦᐳ ᒫᒥᑐᓀᔨᐦᒋᑲᓂᐢ ᑳ-ᐊᔭᐠ ᒥᔪ-ᐃᓐᑐᕐᓂᐟ ᐋᐸᒋᐦᒋᑲᓂᕽ᙮ ᑖᑉᓕᐟ ᑳ-ᐊᐢᑕᐠ ᒥᒋᒥᓇᑲᓂᕽ ᑖᐴᓫ ᑳ-ᐊᐢᑌᐠ, ᒥᑐᓂ ᒥᔪᐸᔨᐤ ᓂᓱ ᐊᔨᓯᔨᓂᐘᐠ ᑭᒋ-ᒫᒪᐏ-ᒣᑕᐍᒋᒃ᙮ ᒫᒥᑐᓀᔨᐦᒋᑲᓂᐢ ᑳ-ᑖᐱᐢᑲᐦᐃᑳᑌᐠ ᑭᒋ-ᒪᓯᓇᐦᐃᑲᓂᕽ ᒥᑐᓂ ᒥᔪᐸᔨᐤ ᑭᒋ-ᒥᐦᒉᐟ ᐊᔨᓯᔨᓂᐘᐠ ᑳ-ᒣᑕᐍᒋᒃ᙮"
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "ᑭ-ᑭ-ᐋᐸᒋᐦᑖᓇᓈᐣ ᒋ ᑭᔮᓇᓈᐣ ᐚᐦᑰᐦᑐᐏᐣ ᒪᓯᓇᐲᐦᐃᑲᓇ?",
+              "a": "ᐁᐦᐊ᙮ Photo pairs ᐋᐸᒋᐦᑖᐤ 2 ᐃᐢᑯ 6 ᒪᓯᓇᐲᐦᐃᑲᓇ ᑳ-ᓇᐘᒋᐦᑖᔭᓐ ᑭᒋ-ᒫᒪᐏ-ᓇᐹᓀ-ᒣᑕᐍᐏᐣ᙮ ᒪᓯᓇᐲᐦᐃᑲᓇ ᐊᐢᑌᐘ ᑭᑖᐸᒋᐦᒋᑲᓂᕽ ᒦᓇ ᓇᒨᔭ ᐴᓯᓇᐦᐃᑳᑌᐘ ᐊᐦᐳ ᓇᒨᔭ ᑲᓇᐍᔨᐦᑖᑯᓇ᙮"
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "ᒣᑕᐍᐏᓇ ᒦᓇ ᑲᓇᐍᔨᒥᐍᐏᐣ",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "ᑖᓂᑖᑐ ᐃᐢᐱᐦᑳᐣ ᑭᒋ-ᐃᐢᐱᐦᑖᐠ ᒣᑕᐍᐏᐣ?",
+              "a": "ᒥᐦᒉᑛᐤ 10 ᐃᐢᑯ 20 ᑎᐸᐦᐃᑲᓂᓴ ᒥᑐᓂ ᑖᐱᐤ, ᒦᓇ ᐋᐢᑲᐤ 2 ᑎᐸᐦᐃᑲᓂᓴ ᒥᑐᓂ ᒥᔪᐸᔨᐤ᙮ ᑲᓇᐚᐸᐦᑕ ᑫ-ᑭ-ᓂᐢᑐᓇᐘᒋ ᓀᐢᑐᐏᐣ ᐊᐦᐳ ᓀᐢᑌᔨᒧᐏᐣ, ᒦᓇ ᐴᓂᐦᐋ ᒣᑿᒡ ᑫᔭᐱᒡ ᑳ-ᒥᔪᐍᔨᐦᑕᒧᐘᐟ᙮ ᓇᒨᔭ ᑮᑲᐧᕀ ᑳ-ᐃᑕᐦᑭᒥᐠ ᑖᓂᑖᑐ ᑭᒋ-ᐃᐢᐱᐦᑖᐠ᙮"
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "ᑖᓂᓯ ᑫ-ᐃᓰᐦᐸᔨᐠ ᑭᐢᐱᐣ ᓇᒨᔭ ᓇᑕᐍᔨᐦᑕᐦᑭ ᑭᒋ-ᒣᑕᐍᐟ?",
+              "a": "ᑭᐢᑌᔨᐦᑕ ᑳ-ᐃᑘᐟ ᓇᒨᔭ, ᒦᓇ ᑭ-ᑲ-ᑯᒋᐦᑖᐣ ᐲᐦᑐᐢ ᐊᐦᐳ ᐲᑐᐢ ᑭᒋ-ᐃᓰᐦᑐᑕᒪᓐ᙮ ᑳ-ᓇᑲᐦᑕᐦᑭ ᑭ-ᐲᑐᒫᑲᐦᐠ ᓀᐢᑐᐏᐣ, ᐹᐦᐱᓯᓯᐏᐣ, ᓇᒨᔭ ᑭᐢᑫᔨᐦᑕᒧᐏᐣ, ᐊᐦᐳ ᑑᐦᑲᐤ ᓇᒨᔭ ᓇᑕᐍᔨᐦᑕᒧᐏᐣ᙮ ᑲᓇᐚᐸᐦᑕ ᓂᒪᓯᓇᐦᐃᑲᓂᓈᐣ ᑖᓂᓯ ᑫ-ᑐᑕᒼ ᐃᐢᐱᐦ ᑳ-ᐃᑘᒋᒃ ᓇᒨᔭ᙮"
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "ᑖᓂᐍᐎ ᒣᑕᐍᐏᓇ ᑳ-ᒥᔪᐸᔨᐦᑭ ᐃᐢᐱᐦ ᒥᑐᓂ ᑳ-ᐋᓂᒥᓯᒋᒃ ᑭᐢᑮᓯᐏᓂᕽ?",
+              "a": "ᒥᔪᔮᐏᐣ ᒦᓇ ᒧᓯᐦᐅᐏᓇ: ᓇᑕᒧᐏᐣ ᑳ-ᒥᔪᐍᔨᐦᑕᑲᐦᐠ ᓂᑲᒧᐏᐣ, ᒥᓯᓇᐦᐃᑫᐤ-ᑑᒥᐦᑫᐏᐣ ᒥᒋᐦᒋᕽ, ᒫᒪᐏ-ᑲᓇᐚᐸᐦᑕᒧᐏᐣ ᒪᓯᓇᐲᐦᐃᑲᓇ, ᑖᐦᑯᓂᑲᐦᐠ ᔪᐢᑭ-ᐊᐦᑲᐧᑊ, ᐊᐱᐏᐣ ᐘᔨᐑᑎᒥᕽ, ᐊᐦᐳ ᒥᑐᓂ ᐍᒋᐦᑐᐍᐤ ᒪᓯᓇᐲᐦᐃᑲᐣ-ᒣᑕᐍᐏᐣ ᐊᐘ ᐊᐘᔫ ᑳ-ᐑᒋᔮᐟ᙮ ᓂᒪᓯᓇᐦᐃᑲᓂᓈᐣ ᑳ-ᐋᓂᒥᓯᒋᒃ ᒥᐦᒉᐟ ᒥᑐᓂ ᐊᔭᐤ ᒥᑐᓀᔨᐦᒋᑲᓇ᙮"
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "ᐊᔮᐘᐠ ᒋ ᒣᑕᐍᐏᓇ ᑭᒋ-ᒥᐦᒉᑎᒋᒃ ᐊᓂᑭ ᑳ-ᑲᓇᐍᔨᒥᐦᑖᐘᑯᐦᐠ ᐑᑭᕽ?",
+              "a": "ᐁᐦᐊ᙮ Picture bingo ᐊᔭᐤ ᒪᓯᓇᐦᐃᑲᓇ ᑫ-ᑭ-ᒧᓵᐱᐢᑲᐦᐃᑲᑫᐧᕽ ᒦᓇ ᑭᒋ-ᒪᓯᓇᐦᐃᑲᓂᕽ ᑳ-ᑫᐦᒋᐍᐟ, ᒦᓇ Finish the saying ᒦᓇ Conversation cards ᒥᑐᓂ ᒥᔪᐸᔨᐤ ᑳ-ᑭᐦᑐᐍ-ᐊᔭᒥᐦᑖᑫᐧᕽ᙮ ᓂᒪᓯᓇᐦᐃᑲᓂᓈᐣ ᑳ-ᑲᓇᐍᔨᒥᐦᑖᐘᑯᐦᐠ ᐑᑭᕽ ᐑᐦᑕᒻ ᑖᓂᑖᑐ ᐊᔨᓯᔨᓂᐘᐠ, ᑖᓂᓯ ᑫ-ᐃᑖᐱᒋᒃ, ᒦᓇ ᑖᓂᓯ ᑭᒋ-ᓈᓇᑐᐠ-ᐃᓯ-ᐋᐸᒋᐦᑖᕽ᙮"
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "ᒥᑐᓀᔨᐦᒋᑲᐣ ᒥᔪ-ᐊᔭᐏᐣ",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "ᒣᑕᐍᐏᓇ ᒋ ᑭ-ᑭ-ᓇᑲᓀᐘ ᐊᐦᐳ ᑭ-ᑭ-ᐯᔭᐦᑕᑭᐦᑖᐘ ᑭᐢᑮᓯᐏᐣ ᐋᓂᒥᓯᐏᐣ?",
+              "a": "ᓇᒨᔭ ᒣᑕᐍᐏᐣ ᓇᓈᑐᐦᑲᐠ-ᑭᐢᑫᔨᐦᑕᒧᐏᓂᕽ ᐘᐸᐦᐃᐍᒪᑲᐣ ᑭᒋ-ᓇᑲᓇᐠ ᑭᐢᑮᓯᐏᐣ ᐋᓂᒥᓯᐏᐣ, ᒦᓇ ᓂᒣᑕᐍᐏᓂᓈᓇ ᓇᒨᔭ ᐃᑘᒪᑲᓇ ᐁᑯᓯ᙮ ᒫᒪᐏ-ᒥᑐᓀᔨᐦᒋᑲᐣ ᐋᐸᒋᐦᑖᐏᐣ ᐊᔨᓯᔨᓂᐘᕽ ᐘᐸᐦᐃᐍᒪᑲᐣ ᐊᐸᓯᐢ ᒥᔪᐸᔨᐏᐣ ᑭᐢᑫᔨᐦᒋᑫᐏᓂᕽ ᐊᓂᑭ ᑳ-ᐊᐸᓯᐢ ᐊᓂᒥᓯᒋᒃ ᑭᐢᑮᓯᐏᓂᕽ, ᒫᑲ ᐲᑐᐢ ᐃᔅᑌᔨᐦᑖᑯᓐ ᐃᐢᐱᐦᒋ ᒣᑕᐍᐏᐣ ᑭᒋ-ᓇᑲᓇᐠ ᐋᐦᑯᓯᐏᐣ᙮ ᓂᑲᑭᐍ-ᒣᑕᐍᐦᑖᓇᓈᐣ ᑭᒋ-ᒥᔮᐍᔨᐦᑕᒧᐏᐣ ᒦᓇ ᑭᒋ-ᒫᒪᐏ-ᐊᔭᕽ᙮"
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "ᑭᐢᑮᓯᐏᐣ ᐋᓂᒥᓯᐏᐣ ᒋ ᑭ-ᑭ-ᓇᑲᓂᑲᑌᐤ?",
+              "a": "ᓇᒨᔭ ᒥᑐᓂ ᑭᐢᑫᔨᐦᑖᑯᓐ᙮ ᑭᐢᑫᔨᐦᒋᑫᐏᐣ ᐊᔭᒥᒪᑲᐣ 14 ᒥᔪ-ᐊᔭᐏᐣ ᒦᓇ ᐱᒫᑎᓯᐏᐣ ᐃᓯ-ᑮᑲᐧᕀ ᑳ-ᐋᐱᐦᑕᑭᐦᑖᐠ ᑭᐢᑮᓯᐏᐣ ᐋᓂᒥᓯᐏᐣ, ᑖᐱᐢᑯᒡ ᑳ-ᓇᑲᐦᑭ ᐯᐦᑕᒧᐏᐣ, ᑭᐢᑌ-ᒥᑯ-ᐱᒧᑌᐏᐣ, ᓇᒨᔭ ᐋᐦᑲᒥ-ᑲᐧᔭᓯᑐᓂᑫᐏᐣ, ᒦᓇ ᐯᔭᑯ-ᐊᔭᐏᐣ᙮ ᑭᒋ-ᑲᓇᐚᐸᐦᑕᒼ ᐆᐦᐃ ᑭ-ᑭ-ᐊᐸᓯᐢ-ᐋᐱᐦᑖᐤ ᐊᓂᑭ ᑯᑕᑭᔭᐠ, ᒫᑲ ᒥᐦᒉᐟ ᐊᔨᓯᔨᓂᐘᐠ ᑲᐦᑭᔭᐤ ᑳ-ᒥᔪ-ᑐᑕᐦᑭᒃ ᑫᔭᐱᒡ ᐊᔭᐘᐠ ᑭᐢᑮᓯᐏᐣ ᐋᓂᒥᓯᐏᐣ᙮ ᓇᒨᔭ ᐑᐦᑳᒡ ᐊᐘᔫ ᐅᒥᒋᑐᑕᒧᐏᐣ᙮"
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "ᐋᐢᑲᐤ-ᐴᓂ-ᒥᒋᓱᐏᐣ ᒋ ᒥᔪᐸᔨᐤ ᒥᑐᓀᔨᐦᒋᑲᐣ ᒥᔪ-ᐊᔭᐏᓂᕽ?",
+              "a": "ᐊᔨᓯᔨᓂᐘᐠ ᑭᐢᑫᔨᐦᒋᑫᐏᐣ ᑫᔭᐱᒡ ᐊᐸᓯᐢ ᒦᓇ ᐅᐢᑭ-ᐊᐢᑌᐤ, ᒦᓇ ᒥᐦᒉᐟ ᑭᐢᑫᔨᐦᒋᑫᐏᐣ ᐱᓯᐢᑭᐘᕽ ᑐᒋᑳᑌᐤ᙮ ᑳ-ᐴᓂ-ᒥᒋᓱᕽ ᑭ-ᑭ-ᐋᓂᒥᓯᓈᑯᓐ ᑭᐢᑌ-ᐊᔨᓯᔨᓂᐘᕽ, ᒥᑐᓂ ᑭᐢᐱᐣ ᐋᐸᒋᐦᑖᒋᒃ ᓱᑲᐤ-ᐋᐦᑯᓯᐏᐣ ᒪᐢᑭᐦᑮᐘ ᐊᐦᐳ ᓇᒨᔭ ᑲᐧᔭᐢ ᑳ-ᐸᑯᓀ-ᑲᓯᑳᐸᐦᒋᑫᒋᒃ, ᒦᓇ ᓇᒨᔭ ᒥᔪᐍᔨᐦᑖᑯᓐ ᐊᓂᑭ ᑳ-ᐋᓂᒥᓯᒋᒃ ᑭᐢᑮᓯᐏᓂᕽ᙮ ᐊᔭᒥᐦ ᒪᐢᑭᐦᑮᐏᔨᓂᐤ ᒧᔦᐢ ᑭ-ᒣᐢᑲᐦᑖᐣ ᑖᓂᓯ ᑳ-ᐃᓯ-ᒥᒋᓱᔭᓐ᙮"
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "ᑭᒧᒋ-ᑲᓇᐍᔨᐦᒋᑫᐏᐣ ᒦᓇ ᑲᐧᔭᐢ-ᐊᔭᐏᐣ",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "ᑭ-ᒫᒪᐘᒋᐦᑖᓈᐚ ᒋ ᐊᔨᓯᔨᓂᐤ ᑭᐢᑫᔨᐦᒋᑫᐏᓇ?",
+              "a": "ᓇᒨᔭ ᒪᓯᓇᐦᐃᓱᐏᐣ ᒦᓇ ᓇᒨᔭ ᐊᑫᐧᐦᐃᑫᐤ-ᒪᓯᓇᐦᐃᑲᓇ᙮ ᓂᑖᐸᒋᐦᑖᓈᐣ Google Analytics ᑭᒋ-ᐊᑭᐦᑖᕽ ᑳ-ᐲᐦᑐᑫᒋᒃ ᒦᓇ ᑭᒋ-ᐚᐸᐦᑕᒫᕽ ᑖᓂᐍᐎ ᒪᓯᓇᐦᐃᑲᓇ ᑳ-ᐑᒋᐦᐃᐍᒪᑲᐦᑭ, ᒦᓇ ᑭᑖᐸᒋᐦᒋᑲᐣ ᑭᐢᑭᓯᐤ ᑭᐢᐱᐣ ᑳ-ᐋᐸᒋᐦᑖᔭᓐ ᐯᔭᐦᑕᐠ-ᐯᐦᑖᑯᓯᐏᓇ᙮ ᒪᓯᓇᐲᐦᐃᑲᓇ ᑳ-ᓇᐘᒋᐦᑖᔭᓐ Photo pairs ᓇᒨᔭ ᐑᐦᑳᒡ ᐴᓯᓇᐦᐃᑳᑌᐘ᙮ ᑲᓇᐚᐸᐦᑕ privacy notice ᑭᒋ-ᓂᐢᑐᐦᑕᒪᓐ᙮"
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "ᐆᒪ ᒋ ᒪᐢᑭᐦᑮᐏᔨᓂᐤ ᑲᐧᔭᐢ-ᑭᐢᑫᔨᐦᒋᑫᐏᐣ?",
+              "a": "ᓇᒨᔭ᙮ Golden Moments ᐋᐸᑕᐣ ᑭᒋ-ᒥᔮᐍᔨᐦᑕᒧᐏᐣ ᒦᓇ ᑭᒋ-ᑭᐢᑫᔨᐦᒋᑫᐏᐣ᙮ ᒥᔪ-ᐊᔭᐏᐣ ᑲᑫᐧᒋᐦᑫᐏᓇ, ᐊᔭᒥᐦ ᒪᐢᑭᐦᑮᐏᔨᓂᐤ, ᒦᓇ ᑭᐢᐱᐣ ᓭᐦᑭᓯ-ᑮᑲᐧᕀ ᐃᓰᐦᐸᔨᐠ ᓭᐘᐱᐢᑲᐦᐊᒻ 911᙮"
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "ᐊᐘᓯᑌ ᑭᐢᑫᔨᐦᑕᒧᐏᐣ: <a href=\"/caregiving/how-to-play-together/\">ᑖᓂᓯ ᑭᒋ-ᒫᒪᐏ-ᒣᑕᐍᕽ</a>, <a href=\"/caregiving/when-they-say-no/\">ᐃᐢᐱᐦ ᑳ-ᐃᑘᒋᒃ ᓇᒨᔭ</a>, <a href=\"/activities/late-stage/\">ᒣᑕᐍᐏᓇ ᐃᐢᐱᐦ ᒥᑐᓂ ᑳ-ᐋᓂᒥᓯᕽ</a> ᒦᓇ <a href=\"/brain-health/can-dementia-be-prevented/\">ᑭᐢᑮᓯᐏᐣ ᐋᓂᒥᓯᐏᐣ ᒋ ᑭ-ᑭ-ᓇᑲᓂᑲᑌᐤ?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "ᓇᒨᔭ ᑎᐸᐦᐃᑳᑌᐘ, ᐯᔭᐦᑕᑭ-ᒣᑕᐍᐏᓇ ᐊᓂᑭ ᑳ-ᐋᓂᒥᓯᒋᒃ ᑭᐢᑮᓯᐏᓂᕽ",
+      "seoTitle": "ᒧᓵᐱᐢᑲᐦᐃᑲᐣ ᒪᓯᓇᐦᐃᑲᐣ: ᓇᒨᔭ ᑎᐸᐦᐃᑳᑌᐘ ᑭᐢᑮᓯᐏᐣ ᒣᑕᐍᐏᓇ ᐃᓐᑐᕐᓂᑎᕽ",
+      "description": "ᐯᔭᑯ-ᒪᓯᓇᐦᐃᑲᐣ ᑫ-ᑭ-ᒧᓵᐱᐢᑲᐦᐃᑲᑫᐧᕽ ᑭᒋ-ᐚᐦᑰᐦᑐᐏᓇ ᒦᓇ ᑲᓇᐍᔨᒥᐍᐘᐠ ᑳ-ᐑᐦᑕᐦᑭ ᓇᒨᔭ ᑎᐸᐦᐃᑳᑌᐘ, ᐯᔭᐦᑕᑭ-ᒪᓯᓇᐲᐦᐃᑲᐣ ᒣᑕᐍᐏᓇ ᐊᓂᑭ ᑳ-ᐋᓂᒥᓯᒋᒃ ᑭᐢᑮᓯᐏᓂᕽ, ᑭᒋ-ᐑᒋᐦᐃᑐᐏᐣ ᒫᒪᐏ-ᐊᔭᐏᓇ ᒦᓇ ᑲᓇᐍᔨᒥᐍᐤ-ᒪᓯᓇᐦᐃᑲᓇ᙮",
+      "crumb": "ᒧᓵᐱᐢᑲᐦᐃᑲᐣ ᒪᓯᓇᐦᐃᑲᐣ",
+      "lede": "ᒧᓵᐱᐢᑲᐦᐊ ᐆᒪ ᒪᓯᓇᐦᐃᑲᐣ ᑭᒋ-ᐑᒋᐦᐃᑐᐏᐣ ᒫᒪᐏ-ᐊᔭᐏᐣ, ᑲᓇᐍᔨᒥᐍᐤ-ᒪᓯᓇᐦᐃᑲᓇ, ᐊᐦᐳ ᑕᐦᑲᐢᑕᐦᐃᑲᓂᕽ ᐃᐢᑿᐦᑌᒥᕽ᙮ ᐋᐸᒋᐦᑖ ᑭᑖᐸᒋᐦᒋᑲᐣ Print ᐃᑘᐏᐣ; ᑲᐦᑭᔭᐤ ᑯᑕᑲ ᒪᓯᓇᐦᐃᑲᓇ ᒦᓇ ᐋᐸᒋᐦᒋᑲᓂᓴ ᓇᒨᔭ ᑭᑲ-ᐘᐸᐦᑌᐣ ᒪᓯᓇᐦᐃᑲᓂᕽ᙮",
+      "introHtml": "<p>ᒥᐢᑖ-ᒪᓯᓇᐲᐦᐃᑲᓇ, ᐍᒋᐦᑐᐍᐤ ᐃᑘᐏᓇ, ᒦᓇ ᓇᒨᔭ ᑮᑲᐧᕀ ᑭ-ᐘᓂᑐᑕᐣ᙮ ᓇᒨᔭ ᑎᐸᐦᐃᑳᑌᐤ ᑌᓖᐴᓂᕽ, ᑖᑉᓕᑎᕽ, ᐊᐦᐳ ᒫᒥᑐᓀᔨᐦᒋᑲᓂᓯᕽ, ᓇᒨᔭ ᒪᓯᓇᐦᐃᓱᐏᐣ, ᓇᒨᔭ ᐊᑫᐧᐦᐃᑫᐤ-ᒪᓯᓇᐦᐃᑲᓇ, ᓇᒨᔭ ᑎᐸᐦᐃᑲᓂᐢ ᒦᓇ ᓇᒨᔭ ᐊᑭᐦᒋᑫᐏᓇ᙮ ᐊᐱᐠ ᒫᒪᐏ ᒦᓇ ᓀᐦᐃᔭᐤ-ᒣᐢᑲᐦᑐᑫᐧᕽ᙮</p>",
+      "gamesTitle": "ᒣᑕᐍᐏᓇ ᑭᒋ-ᑯᒋᐦᑖᕽ ᒫᒪᐏ",
+      "restHtml": "<h2>ᐊᐸᓯᐢ ᑲᐧᔭᐢ-ᑭᐢᑫᔨᐦᑕᒧᐏᓇ</h2><ul><li>ᓇᐘᒋᐦᑖ ᐃᐢᐱᐦ ᑭᓯᑳᕽ ᐃᐢᐱᐦ ᐊᐘ ᑳ-ᐸᒥᐦᐊᑦ ᒫᐘᒋ-ᒥᔪ-ᐊᔭᐟ᙮</li><li>ᒫᒋᐦᑖ ᑳ-ᒫᐘᒋ-ᐍᒋᐦᑐᐍᐠ᙮ ᓀᐤ (4) ᐊᐢᑕᐦᐃᑲᓇ ᒥᑐᓂ ᑖᐱᐤ᙮</li><li>ᐊᔭᒥᐢᑕᒧᐠ ᒪᓯᓇᐲᐦᐃᑲᓇ᙮ ᑳ-ᐊᔭᒥᑐᕽ ᒥᐦᒉᑛᐤ ᒫᐘᒋ-ᒥᔪᐸᔨᐤ᙮</li><li>ᐴᓂᐦᐋ ᒣᑿᒡ ᑫᔭᐱᒡ ᑳ-ᒥᔪᐍᔨᐦᑕᒧᐘᐟ᙮ ᑭᒋ-ᑭᓰ-ᐴᓂᕽ ᒥᑐᓂ ᒥᔪᐸᔨᐤ᙮</li></ul><h2>ᒦᓇ ᐆᑕ ᒪᓯᓇᐦᐃᑲᓂᕽ</h2><ul><li>ᓇᒨᔭ ᑎᐸᐦᐃᑳᑌᐘ ᑫ-ᑭ-ᒧᓵᐱᐢᑲᐦᐃᑲᑫᐧᕽ: ᒥᐢᑖ-ᒪᓯᓇᐦᐃᑲᐣ ᐃᑘᐏᐣ-ᓇᓈᑐᐚᐸᐦᑕᒧᐏᐣ, ᓯᓵᐲᐦᐃᑲᐣ ᒪᓯᓇᐦᐃᑲᓇ, ᐊᔭᒥᑐᐏᐣ-ᒪᓯᓇᐦᐃᑲᓂᓴ ᒦᓇ Picture bingo᙮</li><li>ᒣᑕᐍᐏᐣ ᒥᑐᓀᔨᐦᒋᑲᓇ ᑲᐦᑭᔭᐤ ᐃᓯ-ᐊᔭᐏᐣ, ᒦᓇ ᒪᓯᓇᐦᐃᑲᓇ ᑖᓂᓯ ᑭᒋ-ᒫᒪᐏ-ᒣᑕᐍᕽ ᒦᓇ ᑖᓂᓯ ᑭᒋ-ᑲᓇᐍᔨᒥᓱᔭᓐ᙮</li></ul><p class=\"muted\">ᑭᒋ-ᒥᔮᐍᔨᐦᑕᒧᐏᐣ ᒦᓇ ᑭᒋ-ᒫᒪᐏ-ᐊᔭᕽ᙮ ᓇᒨᔭ ᒪᐢᑭᐦᑮᐏᔨᓂᐤ ᑲᐧᔭᐢ-ᑭᐢᑫᔨᐦᒋᑫᐏᐣ, ᓇᒨᔭ ᑯᒋᐦᐃᑐᐏᐣ, ᒦᓇ ᓇᒨᔭ ᓇᓈᐦᐃᑐᐏᐣ᙮ Golden Moments ᒪᓯᓇᐦᐊᒻ Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "ᑭᒋ-ᑲᓇᐍᔨᒥᐍᐤ-ᐑᑲᐘ, ᒪᓯᓇᐦᐃᑲᓂ-ᐑᑲᐘ ᒦᓇ ᐑᒋᐦᐃᑐᐏᐣ ᒫᒪᐏ-ᐊᔭᐏᓇ",
+      "seoTitle": "ᓇᒧᔭ ᑎᐸᐦᐊᒥᐦᐠ ᒣᑕᐍᐏᓇ ᐘᓂᐢᑭᐢᑫᐏᐣ ਓᐦᒋ ᑲᓇᐍᔨᒥᑯᐏᑲᒥᑯᐦᐠ ᒥᓇ ᒫᐘᒋᐦᐃᑐᐏᐦᐠ",
+      "description": "ᑖᓂᓯ ᑲᓇᐍᔨᒥᑯᐏᑲᒥᑯᐘ, ᑭᐢᑫᔨᐦᒋᑫᐏᑲᒥᑯᐘ, ᒥᓇ ᒫᐘᒋᐦᐃᑐᐏᓇ ᑫ-ᐃᓯ-ᐋᐸᒋᐦᑖᒋᐠ ᐆᐦᐃ ᓇᒧᔭ ᑎᐸᐦᐊᒥᐦᐠ ᒣᑕᐍᐏᓇ ᐊᓂᑭ ᑳ-ᐘᓂᐢᑭᐢᑫᒋᐠ ਓᐦᒋ, ᒥᓇ ᑭᐦᑐᐍᓯᓇᐦᐃᑲᐣ ᑫ-ᑲᓇᐍᔨᐦᑕᒪᐣ ᑭᒋ-ᐊᓯᐘᒋᐦᑖᔭᐣ ᑭᒪᓯᓇᐦᐃᑲᓂᐦᐠ.",
+      "crumb": "ᒫᐘᒋᐦᐃᑐᐏᓇ ᒥᓇ ᑲᓇᐍᔨᒥᑯᐏᑲᒥᑯᐘ ਓᐦᒋ",
+      "lede": "ᑲᐦᑭᔭᐤ ᑫᑳᐣ ᐅᒫ ᓇᒧᔭ ᑎᐸᐦᐊᒥᐦᐠ ᑭᒋ-ᐋᐸᒋᐦᑖᔨᐣ ᐊᓂᑭ ᑳ-ᐑᑭᒋᐠ ᒥᓇ ᑳ-ᐑᒋᐦᐋᔮᒋᐠ ᐑᒋᐦᐃᐍᐏᓂᐦᐠ, ᓇᒧᔭ ᑭᒪᓯᓇᐦᐃᑫᐣ, ᓇᒧᔭ ᑭᑎᐸᐦᐁᐣ. ᐆᒪ ᒪᓯᓇᐦᐃᑲᓂᐢ ᐑᐦᑕᒪᑫᒪᑲᐣ ᑫᑳᐣ ᑳ-ᐊᐢᑌᐠ ᒥᓇ ᑖᓂᓯ ᑫ-ᐃᓯ-ᒫᒪᐏ-ᐋᐸᒋᐦᑖᔭᐣ.",
+      "shortText": "{name}: ᓇᒧᔭ ᑎᐸᐦᐊᒥᐦᐠ, ᐯᔭᐦᑕᑭ ᒪᓯᓇᐦᐃᑲᓂ-ᒣᑕᐍᐏᓇ ᒥᓇ ᐑᐦᑕᒪᑫᐏᓇ ᐊᓂᑭ ᑳ-ᐘᓂᐢᑭᐢᑫᒋᐠ ᒥᓇ ᑳ-ᑲᓇᐍᔨᒫᒋᐠ ਓᐦᒋ. ᓇᒧᔭ ᒪᓯᓇᐦᐃᓱᐏᐣ, ᓇᒧᔭ ᐲᓯᒧᐦᑳᐣ ᐋᐸᒋᐦᑖᐣ, ᓇᒧᔭ ᐊᑭᐦᒋᑫᐏᐣ.",
+      "longText": "{name} ({domain}) ᓴᑭᓇᒻ {count} ᓇᒧᔭ ᑎᐸᐦᐊᒥᐦᐠ ᒪᓯᓇᐦᐃᑫᐏᑲᒥᑯ-ᒣᑕᐍᐏᓇ ᑳ-ਓᓯᐦᑖᓂᐘᑭ ᐊᓂᑭ ᑳ-ᐘᓂᐢᑭᐢᑫᒋᐠ ਓᐦᒋ, ᑖᐱᐢᑯᒡ ᒪᓯᓇᐦᐃᑲᓇ ᑳ-ᓇᓱᐍᔨᐦᑖᑯᐦᑭ ᑳ-ᓅᑯᐦᑭ, ᐯᔭᐦᑕᑭ ᐱᐢᑭᒋᐢᑲᐦᐃᑲᐣ, ᒫᐘᓱᓇᐦᐃᑫᐏᐣ, ᑳ-ᑭᐢᑫᔨᐦᑖᑯᐦᑭ ᐃᑕᐍᐏᓇ ᒥᓇ ᒪᓯᓇᐦᐃᑲᓂ-ᐱᐣᑯ ᑫ-ᑭ-ᒨᓵᑭᓇᒪᐣ. ᓇᒧᔭ ᒪᓯᓇᐦᐃᓱᐏᐣ, ᓇᒧᔭ ᐊᑕᐘᐍᐏ-ᐑᐦᑕᒪᑫᐏᓇ, ᓇᒧᔭ ᐲᓯᒧᐦᑳᐣ, ᒥᓇ ᓇᒧᔭ ᐊᑭᐦᒋᑫᐏᐣ. ᐆᒪ ᒪᓯᓇᐦᐃᑲᓂᐢ ᐊᓵᓯ ᑭᑫᔨᐦᑕᒧᐏ-ᐑᐦᑕᒪᑫᐏᓇ ᐊᔮᐤ ᑕᓯᐣ ᑫᑳᐣ ᑳ-ᐃᓯ-ᐘᓂᐢᑭᐢᑫᐦᐠ ᐆᐦᒋ, ᑳ-ᐋᐸᒋᐦᑖᐠ ᐑᐦᑕᒪᑫᐏᓇ ᐅᐦᒋ National Institute on Aging ᒥᓇ Alzheimer's Association.",
+      "useTitle": "ᑫᑳᐣ ᒫᐘᒋᐦᐃᑐᐏᓇ ᑫ-ᑭ-ᐋᐸᒋᐦᑖᒋᐠ",
+      "gamesItemHtml": "<strong>{count} ᒪᓯᓇᐦᐃᑫᐏᑲᒥᑯ-ᒣᑕᐍᐏᓇ</strong> ᑫ-ᑭ-ᐋᐸᑕᑭ ᒪᓯᓇᐦᐃᑲᓂᐢᑫᐦᐠ, ᓵᐳᓈᐸᒋᑲᓂᐦᐠ, ᐊᐦᐳ ᑕᐸᓈᐢᑯᐦᐠ ᑳ-ᑕᑯᐱᑕᐠ ᒪᓯᓇᐦᐃᑫᐏᑲᒥᑯᐦᐠ. ᓇᒧᔭ ᐊᓯᐘᒋᐦᑖᐣ, ᓇᒧᔭ ᒪᓯᓇᐦᐃᓱᐏᐣ, ᓇᒧᔭ ᓈᓯᓇᐦᐃᑫᐏᐣ. ᑳᓇᐘᐸᐦᑕ <a href=\"/games/\">ᑲᐦᑭᔭᐤ ᒣᑕᐍᐏᓇ</a>.",
+      "printablesLabel": "{count} ᑫ-ᑭ-ᒨᓵᑭᓇᐦᐃᑲᓂᐘᑭ:",
+      "printablesAfter": "ᐋᐸᒋᐦᑖ ᒨᓵᑭᓇᐦᐃᑫᐏ-ᑭᐢᑫᔨᐦᒋᑲᓂᐢ ᑕᓯᐣ ᒪᓯᓇᐦᐃᑲᓂᐦᐠ.",
+      "moreItemsHtml": "<li><strong>ᒫᒪᐏ-ᒣᑕᐍᐏᓇ:</strong> <a href=\"/games/picture-bingo/\">ᒪᓯᓇᐦᐃᑲᓂ-ᐱᐣᑯ</a> ᐊᔮᐤ ᒪᓯᓇᐦᐃᑲᓇ ᑫ-ᑭ-ᒨᓵᑭᓇᒪᐣ ᒥᓇ ᑳ-ᓅᑯᓯᐟ ᑳ-ᑌᐺᐟ, ᒥᓇ <a href=\"/activities/trivia/\">ᐯᔭᐦᑕᑭ ᑲᑫᐦᒋᑫᒧᐏᓇ</a> ᐊᔮᐤ 50 ᑲᑫᐦᒋᑫᒧᐏᓇ ᒥᓇ ᓇᐢᑵᐘᓯᓇᐦᐃᑲᓇ ᒥᓇ ᑫ-ᐃᓯ-ᐋᔭᒥᐦᐃᑐᓈᓂᐘᐠ.</li><li><strong>ᒣᑕᐍᐏ-ᐑᐦᑕᒪᑫᐏᓇ</strong> ᐊᑐᐢᑫᐘᐠ ᒥᓇ ᐑᒋᐚᑲᓇᐠ ਓᐦᒋ, ᐃᓯ-ᓅᑯᐦᐠ ᒥᓇ ᑖᓂᓯ ᑳ-ᐃᓯ-ᐘᓂᐢᑭᐢᑫᐦᐠ, ᐯᔭᐦᑕᑭ ᓀᐦᐃᔭᐍᐏᓂᐦᐠ ᑳ-ᐃᓯ-ᒪᓯᓇᐦᐃᑫᐦᐠ. ᒫᒋᑖ <a href=\"/activities/ideas/\">101 ᒣᑕᐍᐏ-ᒫᒥᑐᓀᔨᐦᒋᑲᓇ</a> ᐊᐦᐳ <a href=\"/activities/care-home-groups/\">ᒫᒪᐏ-ᒣᑕᐍᐏᓇ ᑲᓇᐍᔨᒥᑯᐏᑲᒥᑯᐦᐠ</a>.</li>",
+      "restHtml": "<h2>ᑖᓂᓯ ᒫᐘᒋᐦᐃᑐᐏᓇ ᑳ-ᐃᓯ-ᐋᐸᒋᐦᑖᒋᐠ</h2><ul><li><strong>ᑲᓇᐍᔨᒥᑯᐏᑲᒥᑯᐘ ᒥᓇ ᑭᐢᑫᔨᐦᑕᒧᐏ-ᑲᓇᐍᔨᐦᒋᑫᐏᑲᒥᑯᐘ:</strong> ᒪᓯᓇᐦᐃᑲᓂ-ᐱᐣᑯ ᐊᐦᐳ ᑭᓯ-ᐃᑕᐍᐏᐣ ᑕᐸᓈᐢᑯᐦᐠ ᒫᒪᐏ-ᐃᑕᐦᑕᓱᐏᑲᒥᑯᐦᐠ, ᐯᔭᐠ ᐊᐘᔭᐠ ᑳ-ᓵᒥᓇᐦᐠ ᑲᐦᑭᔭᐤ ᐊᓂᑭ ਓᐦᒋ.</li><li><strong>ᑭᐢᑫᔨᐦᒋᑫᐏ-ᒫᐘᒋᐦᐃᑐᐏᓇ:</strong> ᓵᐳᓈᐸᒋᑲᓂᐢ ᑳ-ᐊᐢᑌᐠ ᒪᓯᓇᐦᐃᑲᓇ ᑳ-ᓇᓱᐍᔨᐦᑖᑯᐦᑭ ᓂᔨᐤ ᑳ-ᐃᑕᐦᑕᑭ, ᑭᒋ-ᐯᔭᑯ-ᒣᑕᐍᒋᐠ ᑭᓈᐹᓀᐢ.</li><li><strong>ᑭᒋ-ᒪᓯᓇᐦᐃᑫᐏᑲᒥᑯᐘ:</strong> ᒨᓵᑭᓇᐦᐃᑲᓇ ᐃᑌᐍᐏᐣ-ᓇᑐᓇᐦᐃᑫᐏᓇ ᒥᓇ ᐋᔭᒥᐦᐃᑐᐏ-ᒪᓯᓇᐦᐃᑲᓇ ᑭᐢᑫᔨᐦᑕᒧᐏ-ᐊᓯᐘᒋᑲᓂᐦᐠ, ᒥᓇ ᒪᓯᓇᐦᐃᑲᓂᐢ ᑳ-ᐊᐢᑌᐠ ᓵᐳᓈᐸᒋᑲᓂᐦᐠ.</li><li><strong>ᑳ-ᑲᓇᐍᔨᒫᒋᐠ ᐑᒋᐦᐃᑐᐏᓇ:</strong> <a href=\"/handout/\">ᐯᔭᑿᐦᑎᐠ ᒨᓵᑭᓇᐦᐃᑲᐣ</a> ᐑᒋᐚᑲᓇᐠ ᑭᒋ-ᑮᐍᐦᑕᐦᐋᒋᐠ ᐑᑭᐚᐦᐠ.</li><li><strong>ᐋᐦᑯᓯᐏᑲᒥᑯᐘ ᒥᓇ ᑮᐍᐦᑕᐦᐃᐍ-ᐊᑐᐢᑫᐘᐠ:</strong> ᐆᒪ ᒪᓯᓇᐦᐃᑲᐣ ᑳ-ᑲᓇᐍᔨᒫᒋᐠ ᐅᒪᓯᓇᐦᐃᑲᓂᐚᐦᐠ, ᑭᒋ-ᐯᔭᐦᑕᑭ-ᐃᑑᑕᒧᐏᐣ ᐑᑭᐚᐦᐠ ᐊᐦᐳ ᓂᐱᐏᓂᐦᐠ.</li></ul><h2>ᑫᑳᐣ ᑳ-ᑳᔭ-ᐃᑑᑕᒫᐠ</h2><p>ᐆᐦᐃ ᒣᑕᐍᐏᓇ ᒥᑐᓂ ᑭᒋ-ᒥᔮᐍᔨᐦᑕᒥᐦᐠ ᒥᓇ ᑭᒋ-ᒫᒪᐏ-ᐊᔭᒥᐦᐠ. ᓇᒧᔭ ᐋᐦᑯᓯᐏᐣ ᓇᑐᓇᒪᐣ, ᓇᒧᔭ ᑯᒋᐦᐃᑫᐏᐣ, ᓇᒧᔭ ᐊᑭᐦᒋᑫᐏᐣ, ᓇᒧᔭ ᓇᓇᐦᐋᐦᐃᐍᐏᐣ, ᒥᓇ ᓇᒧᔭ ᐯᔭᐦᑕᑭ-ᐃᑑᑕᒧᐏᐣ ᐘᓂᐢᑭᐢᑫᐏᐣ, ᒥᓇ ᓇᑕᐍᔨᐦᑕᒧᐘᐠ ᒫᐘᒋᐦᐃᑐᐏᓇ ᑳᔭ ᐆᒪ ᐃᓯ-ᐑᐦᑕᒪᑫᒋᐠ. ᓇᒧᔭ ᐊᑕᐘᐍᐏ-ᐑᐦᑕᒪᑫᐏᓇ ᐊᐢᑌᐘ, ᒥᓇ ᒣᑕᐍᐏᓇ ᓇᒧᔭ ᑲᑫᐦᒋᑫᒧᐘ ᐑᐦᓱᐏᓇ, ᒥᔭᐘᔭᐏᐣ-ᐑᐦᑕᒪᑫᐏᓇ ᐊᐦᐳ ᒪᓯᓇᐦᐃᑲᓇ ᑭᒋ-ᐊᓯᐘᒋᐦᑖᓂᐘᑭ. ᐆᒪ ᒪᓯᓇᐦᐃᑲᓂᐢ ᐋᐸᒋᐦᑖᐤ Google Analytics ᑭᒋ-ᐊᑭᐦᑕᐠ ᑳ-ᐱ-ᑭᔮᐍᒋᐠ; ᑭᒪᓯᓇᐦᐃᑲᓂᓈᐣ <a href=\"/privacy/\">ᑲᑫᔨᐦᒋᑫᐏ-ᐑᐦᑕᒪᑫᐏᐣ</a> ᐑᐦᑕᒪᑫᒪᑲᐣ ᑫᑳᐣ ᑳ-ᒫᐘᓱᓇᒪᑲᐠ. ᒪᓯᓇᐦᐃᑲᓇ ᑳ-ᐋᐸᑕᑭ ᐅᒫ <a href=\"/games/photo-pairs/\">ᒪᓯᓇᐦᐃᑲᓇ ᑳ-ᓇᓱᐍᔨᐦᑖᑯᐦᑭ</a> ᐊᐢᑌᐘ ᒪᓯᓇᐦᐃᑫᐏᑲᒥᑯᐦᐠ.</p><h2>ᐊᓯᐘᒋᐦᑖᐣ ᑭᒪᓯᓇᐦᐃᑲᓂᐦᐠ</h2><p>ᑭᐢᐱᐣ ᐊᔮᔭᐣ ᒪᓯᓇᐦᐃᑲᐣ ᑳ-ᑲᓇᐍᔨᒫᒋᐠ ᐅᐦᒋ, ᑭᒥᑐᓂ-ᒥᔮᐍᔨᐦᑖᑯᓯᐣ ᑭᒋ-ᑕᑯᐱᑕᐠ <a href=\"/\">{domain}</a>. ᑭ-ᑭ-ᐋᐸᒋᐦᑖᐣ ᐯᔭᐠ ᐅᐦᒋ ᐆᐦᐃ ᐑᐦᑕᒪᑫᐏᓇ.</p>",
+      "shortTitle": "ᒋᒫᓯᐣ ᐑᐦᑕᒪᑫᐏᐣ",
+      "longTitle": "ᑭᓇᐚᓯᐣ ᐑᐦᑕᒪᑫᐏᐣ",
+      "linksHtml": "<p>ᒥᔪ-ᒪᓯᓇᐦᐃᑲᓂᓴ ᑫ-ᑭ-ᑕᑯᐱᑕᒪᐣ: <a href=\"/games/\">ᓇᒧᔭ ᑎᐸᐦᐊᒥᐦᐠ ᒣᑕᐍᐏᓇ</a>, <a href=\"/activities/printable/\">ᓇᒧᔭ ᑎᐸᐦᐊᒥᐦᐠ ᒨᓵᑭᓇᐦᐃᑲᓇ</a>, <a href=\"/activities/alzheimers/\">ᒣᑕᐍᐏᓇ ᐊᓂᑭ Alzheimer's ᑳ-ᐊᔮᒋᐠ ਓᐦᒋ</a> ᒥᓇ <a href=\"/caregiving/how-to-play-together/\">ᑖᓂᓯ ᑫ-ᐃᓯ-ᒫᒪᐏ-ᒣᑕᐍᐦᐠ</a>.</p><h2>ᑲᑫᐦᒋᑫᒧᐏᓇ ᐊᐦᐳ ᓇᓇᐦᐃᓯᓇᐦᐃᑫᐏᓇ</h2><p>ᑭᐢᐱᐣ ᑫᑳᐣ ᐅᒫ ᒪᓯᓇᐦᐃᑲᓂᐢᑫᐦᐠ ᐘᓂᓯᓇᐦᐃᑫᒪᑲᐠ ᐊᐦᐳ ᓇᒧᔭ ᑭᐢᑫᔨᐦᑖᑯᐣ, ᐊᐦᐳ ᑳ-ᐑᑭᐟ ᓇᒧᔭ ᒥᑐᓂ ᐑᒋᐦᐃᑯᐤ ᑳ-ᐊᐢᑌᔨᐠ, ᐑᐦᑕᒪᐏᓈᐣ ᐅᒫ <a href=\"mailto:{email}\">{email}</a>. ᒫᑲ ᓇᒧᔭ ᑭᒋ-ᒫᒋᐦᐆᑕᒪᐣ ᐊᐘᔭᐠ ᐅᐑᐦᓱᐏᐣ ᐊᐦᐳ ᐅᒥᔭᐘᔭᐏ-ᐑᐦᑕᒪᑫᐏᐣ ᐊᓂᑭ ᑳ-ᐑᑭᒋᐠ ᐊᐦᐳ ᑳ-ᐑᒋᐦᐋᔮᒋᐠ ᐅᐦᒋ.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "The Golden Moments ᒪᓯᓇᐦᐃᑲᓂᐢ",
+      "seoTitle": "The Golden Moments ᒪᓯᓇᐦᐃᑲᓂᐢ iPhone ᒥᓇ Android ਓᐦᒋ",
+      "description": "ᓇᒧᔭ ᑎᐸᐦᐊᒥᐦᐠ Golden Moments ᒪᓯᓇᐦᐃᑲᓂᐢ: ᐯᔭᐦᑕᑭ ᒪᓯᓇᐦᐃᑲᓇ ᑳ-ᓇᓱᐍᔨᐦᑖᑯᐦᑭ ᓂᔨᐤ ᒥᐢᑎ-ᒪᓯᓇᐦᐃᑲᓂᓴ, ᐑᒋᐚᑲᓇᐠ ᐅᒪᓯᓇᐦᐃᑲᓂᐚᐘ ᑭᒋ-ᐊᐢᑌᑭ ᑭᓵᐳᓈᐸᒋᑲᓂᐦᐠ, ᓇᒧᔭ ᐱᑯ ᐋᐸᒋᐦᑖᐣ ᑭᒋ-ᒪᓯᓇᐦᐃᑫᐏᑲᒥᐠ ᒥᓇ ᓇᒧᔭ ᒪᓯᓇᐦᐃᓱᐏᐣ.",
+      "crumb": "ᒪᓯᓇᐦᐃᑲᓂᐢ",
+      "lede": "ᑲᐦᑭᔭᐤ ᑫᑳᐣ ᑳ-ᒥᔮᐍᔨᐦᑕᒪᐣ ᐅᒫ ᒪᓯᓇᐦᐃᑲᓂᐦᐠ, ᐅᒫ ᒪᓯᓇᐦᐃᑲᓂᐢᑫᐦᐠ ᑳ-ᐊᑐᐢᑫᒪᑲᐠ ᓇᒧᔭ ᐲᐦᑐᐍ-ᐋᐸᒋᐦᑖᐣ ᒥᓇ ᑭ-ᑭ-ᐋᐸᒋᐦᑖᐣ ᐑᒋᐚᑲᓇᐠ ᐅᒪᓯᓇᐦᐃᑲᓂᐚᐘ ᑳ-ᓇᐘᒋᐦᑖᔭᐣ.",
+      "worksOn": "ᐊᑐᐢᑫᒪᑲᐣ ᐅᒫ {platforms} ({requirements}).",
+      "bodyHtml": "<h2>ᐊᐱᓯᐢ ᒫᒋᑖ</h2><p>ᒫᒋᑖ ᓀᐓ ᑭᓯᐚᑲᒥᐠ ᑲᑭᔮᑲᐣᐢ ᒦᓇ ᑲᐢᑭᓇᐚᐸᑕᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ. ᓅᑯᐦᐃ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ, ᐊᐦᐳ ᑲᑖ ᑭᐢᐱᐣ ᒥᔪᐚᓯᐣ. ᐯᔭᑕᐠ ᐁ-ᐃᓯᓈᑯᓯᕽ ᓇᒧᐒ ᐊᔮᐤ ᑎᐸᐸᐦᐃᑲᐣ, ᐊᑭᑕᓱᐏᐣ ᐊᐦᐳ ᐸᓯᑯᐦᐃᐍᐏᐣ. ᓇᐚᒋᑲᑖ 4, 6, 8 ᐊᐦᐳ 12 ᑲᑭᔮᑲᐣᐢ.</p><h2>ᑭᔮᐤ ᑭᐚᐦᑯᒫᑲᓇᐠ ᐋᐸᒋᐦᑖ</h2><p>ᓇᐚᒋᑲᑖ ᑭᐚᐦᑯᒫᑲᓂᐚᐤ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑭᒋᐢᒋᑲᓂᓯᐦᕽ. ᐋᐸᒋᐦᒋᑲᓂᐢ ᑲᓇᐍᔨᐦᑕᒼ ᐊᐱᓯᐢ ᐁ-ᐃᓯᓈᑯᓯᓂᐟ ᐁ-ᐋᐸᒋᐦᑖᐟ. ᓇᒧᐒ ᑲᑮ ᑭᓅᐚᐸᐦᑕᒼ ᑭᒪᓯᓇᐸᔨᐦᒋᑲᓂᐚᐤ ᐊᐦᐳ ᒥᐢᑯᒋᐱᑖᐤ ᑭᒪᓯᓇᐸᔨᐦᒋᑲᓂᐚᐚ, ᒦᓇ ᑲᓇᐍᔨᐦᑕᒼ ᐃᐢᑯ 24 ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᐯᔭᑿᓄᕽ.</p><h2>ᒫᒧᐤ ᐚᐸᐦᑕᒧᐠ ᐱᑯ</h2><p>ᐚᐸᐦᑕᒧᐠ ᐯᔭᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᐯᔭᑿᐤ. ᑲᑮ ᐋᐸᒋᐦᑖᐚᐤ ᑲᑲᐍᒋᐦᑫᒧᐏᓇ ᐁ-ᐑ-ᐚᐦᑯᐦᑐᔦᐠ, ᓇᒧᐒ ᐁ-ᑲᑲᐍᒋᒥᐟ ᐊᐑᓇ ᑭᒋ-ᑭᐢᑭᓯᐟ ᐑᐦᓱᐏᓇ ᐊᐦᐳ ᑭᒋ-ᒥᔪ-ᓇᓱᐚᒋᒥᐟ. ᐁ-ᐚᐸᐦᑕᒧᐠ ᐱᑯ ᑮᓯᐹᔨᐤ.</p><h2>ᐋᐸᑕᐣ ᐋᓇᐎ ᓇᒧᐒ ᐊᔮᐤ ᓵᐳᓂᑲᐣ</h2><p>ᒫᒋᑖᐏ-ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᒦᓇ ᑲᐦᑭᔭᐤ ᐊᔨᓈᓂᐤ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ-ᐊᓯᐚᒋᑲᓇ ᐊᔮᐘ ᐋᐸᒋᐦᒋᑲᓂᓯᐦᕽ. ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑳ-ᐱᑐᑕᐦᐊᒪᐣ ᐋᐸᑕᓇ ᓇᒧᐒ ᐊᔮᐤ ᓵᐳᓂᑲᐣ. ᑭᐢᐱᐣ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᐱᑯ iCloud ᐊᔮᑭ, ᒫᑿᒡ ᑲᑮ ᓇᑕᐍᔨᐦᑖᑯᐣ ᓵᐳᓂᑲᐣ.</p><h2>ᓇᒧᐒ ᐊᔮᐤ ᒪᓯᓇᐦᐃᓱᐏᐣ, ᓇᒧᐒ ᐊᔮᐤ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ-ᐊᓯᐚᒋᑲᐣ ᐘᐢᑲᐦᐃᑲᐣ</h2><p>ᐚᐦᑯᒫᑲᓂᐚᐤ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᐱᑯ ᐋᐸᒋᐦᒋᑲᓂᓯᐦᕽ ᐊᔮᐘ ᑭᒋᐢᒋᑲᓂᕽ. ᑲᑮ ᐋᐢᑕᐦᐊᒼ ᐆᐦᐃ ᐁᑳ ᐁ-ᐋᐢᑕᐦᐊᒪᐣ ᑭᒪᓯᓇᐸᔨᐦᒋᑲᓂᐚᐤ. ᑭᒋᐢᒋᑲᐣ ᑲᓇᐍᔨᐦᒋᑲᓇ ᒫᑿᒡ ᑲᑮ ᐊᔮᐘ ᐋᐸᒋᐦᒋᑲᐣ ᑫᑿᓇ. ᐊᔭᒥᐦᑖ <a href=\"/app-privacy/\">app privacy policy</a>, ᒦᓇ <a href=\"/help/\">app help</a> ᑭᐚᐸᐦᐃᑯᐣ ᑲᐦᑭᔭᐤ ᑫᑿᐣ.</p>",
+      "disclaimer": "Golden Moments ᐆᒪ ᐁ-ᐑ-ᒥᐘᓯᓈᑯᐦᑖᐠ ᒦᓇ ᒫᒧᐤ ᐁ-ᐑ-ᑮᑭᑐᔦᐠ. ᓇᒧᐒ ᑭᐢᑫᔨᐦᑕᒧᐦᐃᐍᒪᑲᐣ, ᓇᒧᐒ ᓇᓇᑐᐦᐃᐍᒪᑲᐣ, ᓇᒧᐒ ᑭᐸᐦᐊᒪᑲᐣ, ᒦᓇ ᓇᒧᐒ ᑎᐸᐸᐦᐊᒼ ᐘᓂᑭᐢᑭᓯᐏᐣ ᐊᐦᐳ Alzheimer’s ᐋᐦᑯᓯᐏᐣ.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "ᓲᓂᔮᐤ-ᐁᑳ ᒣᑕᐍᐏᓇ ᐆᑌ ᓵᐳᓂᑲᓂᕽ ᐊᓂᑭ ᑳ-ᐘᓂᑭᐢᑭᓯᐟᐚᐤ ᒦᓇ Alzheimer's ᑳ-ᐊᔮᐟᐚᐤ",
+    "description": "ᓲᓂᔮᐤ-ᐁᑳ ᓵᐳᓂᑲᓂᕽ ᒣᑕᐍᐏᓇ ᑭᐢᑫᔨᐦᑖᑯᓯᐟᐚᐤ ᐊᓂᑭ ᑳ-ᐘᓂᑭᐢᑭᓯᐟᐚᐤ ᐊᐦᐳ Alzheimer's ᑳ-ᐊᔮᐟᐚᐤ: ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᐯᔭᑿᓄᕽ ᐁ-ᐃᓯᓈᑯᓯᐟ, ᐯᔭᑕᐠ ᒪᓯᓇᐦᐃᑲᓂᐢ ᐁ-ᒫᒧᐏᓯᒋᑲᑌᑭ, ᐁ-ᒫᒧᓂᑲᑌᑭ, ᑮᑭᑐᐏᓇ, ᐁ-ᓯᓯᐍᐱᐦᐃᑲᑌᑭ, ᐱᐣᑯ.",
+    "crumb": "ᒣᑕᐍᐏᓇ",
+    "h1": "ᐯᔭᑕᐠ ᒣᑕᐍᐏᓇ ᐊᓂᑭ ᑳ-ᐘᓂᑭᐢᑭᓯᐟᐚᐤ",
+    "lede": "{count} ᓲᓂᔮᐤ-ᐁᑳ ᒣᑕᐍᐏᓇ ᒫᒧᐤ ᑭᒋ-ᒣᑕᐍᔦᐠ ᑭᓵᐳᓂᑲᓂᐚᕽ. ᒥᐢᑖᐦᐃ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ, ᐯᔭᑕᐠ ᐃᑐᐍᐏᓇ, ᒦᓇ ᓇᒧᐒ ᑫᑿᐣ ᐁ-ᐑ-ᑲᐚᓂᐟ: ᓇᒧᐒ ᑎᐸᐸᐦᐃᑲᓇ, ᓇᒧᐒ ᐊᑭᑕᓱᐏᐣ, ᓇᒧᐒ ᒪᓯᓇᐦᐃᓱᐏᐣ.",
+    "listName": "ᐯᔭᑕᐠ ᒣᑕᐍᐏᓇ ᐊᓂᑭ ᑳ-ᐘᓂᑭᐢᑭᓯᐟᐚᐤ",
+    "byStageTitle": "ᐁ-ᓇᐚᒋᑲᑖᐠ ᒣᑕᐍᐏᐣ ᐁ-ᐃᐢᐱᒋᓈᑯᓯᐟ",
+    "byStageLede": "ᐆᐦᐃ ᐃᐢᐱᒋᓈᑯᓯᐏᓇ ᐱᑯ ᑭᒋ-ᑭᐢᑫᔨᐦᑕᒧᐦᐃᑯᔦᐠ. ᓇᓯᐯᐸᔨᐦᑖᐠ ᑫᑿᐣ ᐊᐑᓇ ᑳ-ᑲᓇᐍᔨᒪᐟ ᑫᐦᒋᓈᒡ ᑳ-ᒥᔮᐍᔨᐦᑕᕽ ᒦᓇ ᑳ-ᒥᔪᐚᓯᓂᔨᕵ ᐊᓄᐦᒡ ᑳ-ᑮᓯᑳᐠ.",
+    "stageCol": "ᐃᐢᐱᒋᓈᑯᓯᐏᐣ",
+    "gamesCol": "ᒣᑕᐍᐏᓇ ᑳ-ᒥᔪ-ᐋᐸᑕᑭ",
+    "moreHtml": "ᑯᑕᑲ ᐃᑌᔨᐦᑕᒧᐏᓇ ᐘᔨᐑᑎᒥᕽ ᓵᐳᓂᑲᓂᕽ: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> ᒦᓇ <a href=\"/activities/puzzles/\">puzzles</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "ᑖᓂᐍᐎ ᒣᑕᐍᐏᐣ ᑫ-ᒫᒋᑖᔭᕽ?",
+        "a": "ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᐯᔭᑿᓄᕽ ᐁ-ᐃᓯᓈᑯᓯᐟ ᓀᐓ ᑲᑭᔮᑲᐣᐢ ᐁ-ᐋᐸᒋᐦᑖᐠ ᐯᔭᑕᐠ ᓂᑳᓂ-ᓇᐚᒋᑲᑌᐤ. ᑭᐢᐱᐣ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᐊᔨᒥᓇᑯᐦᑭ ᐁ-ᓇᐚᒋᑲᑖᐠ, ᑯᒋᐦᑖ Find the same ᓂᓱ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᐁ-ᐋᐸᒋᐦᑖᐠ. ᑭᐢᐱᐣ ᒥᐦᐟ ᐊᔮᔦᐠ, ᑯᒋᐦᑖ Picture bingo."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "ᐋᐸᑕᓇ ᒉ ᒣᑕᐍᐏᓇ iPad ᐊᐦᐳ ᑭᑐᐏᓂᓯᕽ?",
+        "a": "ᐁᐦᐁ. ᑲᐦᑭᔭᐤ ᒣᑕᐍᐏᓇ ᐋᐸᑕᓇ ᓵᐳᓂᑲᓂᕽ ᑭᑐᐏᓂᓯᕽ, tablets ᒦᓇ ᒪᓯᓇᐦᐃᑫᐏ-ᒋᐢᒋᑲᓂᕽ, ᒦᓇ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᒥᐢᑫᑭᓇ ᑭᒋ-ᓵᐳᓂᑲᓂᕽ. Tablet ᐁ-ᐊᐢᑕᐠ ᐱᒥᓂᑲᓂᕽ ᑫᐦᒋᓈᒡ ᒥᔪᐚᓯᐣ ᓂᓱ ᐊᐑᔭᐠ."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "ᒥᔪᐚᓯᓇ ᒉ ᐆᐦᐃ ᒣᑕᐍᐏᓇ ᐊᐑᓇ Alzheimer's ᑳ-ᐊᔮᐟ?",
+        "a": "ᐁᐦᐁ. ᐅᓯᐦᒋᑲᑌᐘ ᐊᓂᑭ ᑳ-ᐘᓂᑭᐢᑭᓯᐟᐚᐤ, ᒦᓇ Alzheimer's ᑳ-ᐊᔮᐟᐚᐤ, ᑳ-ᒪᐚᒋ-ᒥᐢᑖᐦᐃ-ᐊᔮᐠ. ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᓅᑯᓇ, ᐊᐱᓯᐢ ᐱᑯ ᓇᐚᒋᑲᑌᐘ, ᒦᓇ ᓇᒧᐒ ᑫᑿᐣ ᑎᐸᐸᐦᐃᑲᐣ ᐊᐦᐳ ᐊᑭᑕᓱᐏᐣ, ᐁᑿ ᒣᑕᐍᐏᓇ ᐋᐸᒋᐦᑖᐘ ᐁ-ᓂᓯᑐᐏᓇᑲᐠ ᑫᑿᓇ ᐁᑳ ᐁ-ᑲᑲᐍᒋᒥᐟ ᑭᒋ-ᑭᐢᑭᓯᐟ ᐅᐢᑭ-ᑫᑿᓇ."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "ᑭᐢᑭᓯᐏ-ᒣᑕᐍᐏᓇ ᒉ ᐆᐦᐃ ᑭᐢᑫᔨᐦᑖᑯᓯᐟᐚᐤ?",
+        "a": "ᐆᐦᐃ ᐯᔭᑿᓄᕽ ᐁ-ᐃᓯᓈᑯᓯᑭ ᒦᓇ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ-ᒣᑕᐍᐏᓇ ᑲᐦᑭᔭᐤ ᑭᐢᑫᔨᐦᑖᑯᓯᐟᐚᐤ ᑲᑮ ᒥᔮᐍᔨᐦᑕᒧᐠ, ᒫᑿᒡ ᓇᒧᐒ ᐅᓯᐦᒋᑲᑌᐘ ᑭᒋ-ᑯᒋᐦᑖᐠ ᑭᐢᑭᓯᐏᐣ: Picture pairs ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᓅᑯᓇ ᑭᐢᐱᐣ ᐁᑳ ᐑ-ᑲᑖᔨᐣ. ᑭᑭᐢᑫᔨᐦᑕᒧᐦᐃᐍ-ᒪᓯᓇᐦᐃᑲᓂᓇᐣ ᑭᐢᑭᓯᐏ-ᒣᑕᐍᐏᓇ ᐊᓂᑭ ᑭᐢᑫᔨᐦᑖᑯᓯᐟᐚᐤ ᑳ-ᐘᓂᑭᐢᑭᓯᐟᐚᐤ ᐚᐸᐦᐃᐍᒪᑲᐣ ᑖᓂᓯ ᑭᒋ-ᐯᔭᑕᑭᓈᑯᐦᑖᐠ ᒣᑕᐍᐏᐣ."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "ᐊᔮᐘ ᒉ ᒣᑕᐍᐏᓇ ᒥᐦᐟ ᐊᔮᔦᐠ ᑲᓇᐍᔨᐦᐃᐍ-ᐘᐢᑲᐦᐃᑲᓂᕽ?",
+        "a": "ᐁᐦᐁ. Picture bingo ᐊᔮᐤ ᒪᓯᓇᐦᐃᑲᓂᓴ ᑫ-ᑲᑮ-ᒪᓯᓇᐦᐃᑲᑌᑭ ᒦᓇ ᓵᐳᓂᑲᓂᕽ ᑳ-ᑮᑭᑐᐟ, ᒦᓇ Finish the saying ᒦᓇ Conversation cards ᒥᔪ-ᐋᐸᑕᓇ ᐁ-ᑭᒧᒋ-ᐊᔭᒥᐦᒋᑲᑌᑭ ᒥᐦᐟ ᐊᐑᔭᐠ ᐁ-ᐊᔮᐟᐚᐤ."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad ᒦᓇ Android",
+    "requirements": "iOS 15 ᐊᐦᐳ ᐅᐢᑭ-ᐊᔨᐦᐠ; Android 7.0 ᐊᐦᐳ ᐅᐢᑭ-ᐊᔨᐦᐠ",
+    "summary": "ᓲᓂᔮᐤ-ᐁᑳ ᐋᐸᒋᐦᒋᑲᓂᐢ iPhone, iPad ᒦᓇ Android ᐁ-ᐊᔮᐠ ᐯᔭᑕᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᐯᔭᑿᓄᕽ ᐁ-ᐃᓯᓈᑯᓯᐟ ᓀᐓ ᐃᐢᑯ ᓂᓱᓵᑉ ᒥᐢᑖᐦᐃ ᑲᑭᔮᑲᐣᐢ, ᐁ-ᐯᔭᑿᓄᐦᑖᐠ ᒦᓇ ᐁ-ᐚᐸᐦᑕᒧᐠ ᑭᐚᐦᑯᒫᑲᓂᐚᐤ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑳ-ᓇᐚᒋᑲᑖᔦᐠ, ᒦᓇ ᐊᔨᓈᓂᐤ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ-ᐊᓯᐚᒋᑲᓇ ᑳ-ᐋᐸᑕᑭ ᓇᒧᐒ ᐊᔮᐤ ᓵᐳᓂᑲᐣ. ᓇᒧᐒ ᒪᓯᓇᐦᐃᓱᐏᐣ, ᓇᒧᐒ ᐊᑖᐍᐏ-ᒪᓯᓇᐦᐃᑲᓇ, ᓇᒧᐒ ᑎᐸᐸᐦᐃᑲᐣ ᐊᐦᐳ ᐊᑭᑕᓱᐏᐣ.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "ᐯᔭᑕᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᐯᔭᑿᓄᕽ ᐁ-ᐃᓯᓈᑯᓯᐟ 4, 6, 8 ᐊᐦᐳ 12 ᒥᐢᑖᐦᐃ ᑲᑭᔮᑲᐣᐢ; ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᓅᑯᓇ ᑭᐢᐱᐣ ᐁᑳ ᐑ-ᑲᑖᔨᐣ",
+      "ᑭᐚᐦᑯᒫᑲᓂᐚᐤ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑳ-ᓇᐚᒋᑲᑖᐠ ᐊᓯᐚᒋᑲᑌᐘ ᐋᐸᒋᐦᒋᑲᓂᓯᐦᕽ ᑭᒋ-ᐯᔭᑿᓄᐦᑖᐠ ᒦᓇ ᒫᒧᐤ ᑭᒋ-ᐚᐸᐦᑕᒧᐠ",
+      "ᒫᒧᐤ ᐚᐸᐦᑕᒧᐠ: ᐯᔭᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᐯᔭᑿᐤ ᐁ-ᐊᔮᑭ ᑲᑲᐍᒋᐦᑫᒧᐏᓇ ᑭᒋ-ᑮᑭᑐᔦᐠ",
+      "ᐊᔨᓈᓂᐤ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ-ᐊᓯᐚᒋᑲᓇ ᐊᔮᐘ ᐋᐸᒋᐦᒋᑲᓂᓯᐦᕽ; ᐋᐸᑕᓇ ᓇᒧᐒ ᐊᔮᐤ ᓵᐳᓂᑲᐣ",
+      "ᓇᒧᐒ ᒪᓯᓇᐦᐃᓱᐏᐣ, ᐊᑖᐍᐏ-ᒪᓯᓇᐦᐃᑲᓇ, ᐋᐸᒋᐦᒋᑲᓂᕽ ᐊᑖᐍᐏᐣ, ᑎᐸᐸᐦᐃᑲᐣ, ᐊᑭᑕᓱᐏᐣ ᐊᐦᐳ ᐸᓯᑯᐦᐃᐍᐏᐣ"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "ᐊᔮᐤ ᒉ ᐋᐸᒋᐦᒋᑲᓂᐢ ᐊᓂᑭ ᑳ-ᐘᓂᑭᐢᑭᓯᐟᐚᐤ?",
+        "a": "ᐁᐦᐁ. Golden Moments (ᑳ-ᒪᓯᓇᐦᐃᑲᑌᐠ \"{storeName}\") ᓲᓂᔮᐤ-ᐁᑳ ᐊᔮᐤ App Store ᒦᓇ Google Play. ᐊᔮᐤ ᐯᔭᑕᐠ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᐯᔭᑿᓄᕽ ᐁ-ᐃᓯᓈᑯᓯᐟ ᒥᐢᑖᐦᐃ ᑲᑭᔮᑲᐣᐢ ᐁ-ᐋᐸᒋᐦᑖᐠ, ᒣᑕᐍᐏᓇ ᑭᐚᐦᑯᒫᑲᓂᐚᐤ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑳ-ᓇᐚᒋᑲᑖᔦᐠ, ᒦᓇ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ-ᐊᓯᐚᒋᑲᓇ ᑳ-ᐋᐸᑕᑭ ᓇᒧᐒ ᐊᔮᐤ ᓵᐳᓂᑲᐣ."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "ᓲᓂᔮᐤ-ᐁᑳ ᒉ Golden Moments ᐋᐸᒋᐦᒋᑲᓂᐢ?",
+        "a": "ᐁᐦᐁ. ᓲᓂᔮᐤ-ᐁᑳ ᑭᒋ-ᐅᑎᓇᒪᐣ, ᓇᒧᐒ ᐊᑖᐍᐏ-ᒪᓯᓇᐦᐃᑲᓇ, ᓇᒧᐒ ᒪᓯᓇᐦᐃᓱᐏᐣ ᐊᐦᐳ ᐋᐸᒋᐦᒋᑲᓂᕽ ᐊᑖᐍᐏᐣ."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "ᐋᐸᑕᐣ ᒉ ᐋᐸᒋᐦᒋᑲᓂᐢ ᓇᒧᐒ ᐊᔮᐤ ᓵᐳᓂᑲᐣ?",
+        "a": "ᐁᐦᐁ. ᒫᒋᑖᐏ-ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᒦᓇ ᑲᐦᑭᔭᐤ ᐊᔨᓈᓂᐤ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ-ᐊᓯᐚᒋᑲᓇ ᐊᔮᐘ ᐋᐸᒋᐦᒋᑲᓂᓯᐦᕽ, ᒦᓇ ᐚᐦᑯᒫᑲᓂᐚᐤ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᐋᐸᑕᓇ ᓇᒧᐒ ᐊᔮᐤ ᓵᐳᓂᑲᐣ ᐃᐢᐱᐣ ᑳ-ᐱᑐᑕᐦᐊᒪᐣ ᐋᐸᒋᐦᒋᑲᓂᓯᕽ. ᑭᐢᐱᐣ ᒪᓯᓇᐸᔨᐦᒋᑲᐣ ᐱᑯ iCloud ᐊᔮᐠ, ᒫᑿᒡ ᑲᑮ ᓇᑕᐍᔨᐦᑖᑯᐣ ᓵᐳᓂᑲᐣ."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "ᓂᑲᑮ-ᐋᐸᒋᐦᑖᓇᐣ ᒉ ᑭᔮᓇᐣ ᑭᐚᐦᑯᒫᑲᓂᓇᐣ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ?",
+        "a": "ᐁᐦᐊ. ᐋᐸᐦᑖ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑭᐱᐢᑭᑌᐦᐃᑲᓂᕽ. ᐋᐸᒋᐦᑖᐏᓂᐢ ᑲᓇᐍᔨᐦᑕᒻ ᐊᐱᓯᓯᐢ ᑳ ᓇᓯᐱᐦᑌᑭ ᑭᐱᐢᑭᑌᐦᐃᑲᓂᕽ ᑫ ᐋᐸᒋᐦᑖᕽ, ᓇᒧᐃᐧᔭ ᐊᐧᔭᐏᐦᑌᐤ ᑫᑯᓂ ᒥᓇ ᓇᒧᐃᐧᔭ ᒥᐢᑯᒋᐦᑖᐤ ᓂᐢᑕᒻ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ. ᑭᑕᑭ ᐋᐧᐸᐦᑖᐤ ᑳ ᐱᐢᑯᐦᑌᑭ ᐱᑯ ᐃᐢᐱ."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "ᒫᑲ ᐋᐸᒋᐦᑖᐏᓂᐢ ᓈ ᑫ ᐃᓯ ᑲᑭᐍ ᒥᔪᔨᐦᑕᒧᐦᐃᑫᕽ ᐊᐦᐳ ᑫ ᐃᓯ ᑯᒋᐦᑖᕽ ᑭᐢᑭᓯᐏᐣ?",
+        "a": "ᓇᒧᐃᐧᔭ. Golden Moments ᐅᓯᐦᑖᓂᐊᐧᐣ ᑭᒋ ᒥᔮᐧᑕᒥᕽ ᒥᓇ ᑭᒋ ᒫᒧᐃᐧ ᐊᔭᒥᕽ. ᓇᒧᐃᐧᔭ ᐊᐢᑌᐤ ᐊᑭᐦᒋᑫᐏᐣ ᐊᐦᐳ ᑯᒋᐦᑖᐏᐣ, ᒥᓇ ᓇᒧᐃᐧᔭ ᓇᓇᑕᐃᐧᑭᐢᑫᔨᐦᑕᒧᐦᐃᐍᐤ, ᓇᓇᑕᐏᐦᐃᐍᐤ, ᑭᐸᐦᐊᒻ, ᐊᐦᐳ ᑎᐸᐦᐊᒻ ᐊᓂᐦᐃ ᐊᐃᐧᔭᐠ ᑳ ᐊᐧᓂᑭᐢᑭᓯᒋᐠ ᐊᐦᐳ Alzheimer ᐋᐦᑯᓯᐏᐣ."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "ᑖᓂᐦᐃ ᐋᐸᒋᐦᒋᑲᓇ ᑳ ᐋᐸᒋᐦᑖᕽ?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "ᐊᐢᑌᐤ ᓈ ᐋᐸᒋᐦᑖᐏᓂᐢ ᐅᒪ ᒣᑕᐍᐏᐣ?",
+      "a": "ᐁᐦᐊ. ᐱᑯ ᐍᒋᐦᐊᐧᐣ Golden Moments ᐋᐸᒋᐦᑖᐏᓂᐢ iPhone, iPad ᒥᓇ Android ᑳ ᐋᐸᒋᐦᑖᕽ ᐯᔭᑿᓄᕽ ᐯᔭᐦᑕᑭᐢ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᒫᒧᐃᐧ ᐊᐢᑕᐤ, ᑭᑕᑭ ᐋᐸᒋᐦᑖᐤ ᐯᔭᑯᑌᐦᐃᓯᐏᐣ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑳ ᐋᐸᐦᑕᒪᐣ, ᒥᓇ ᐋᐸᑕᐣ ᑫᑕᐦᑕᐍ ᐁᑳ ᐊᑲᐧᒥᕽ ᐊᔨᐦᑌᕽ. ᓇᒧᐃᐧᔭ ᐊᐢᑌᐤ ᒪᓯᓇᐦᐃᑲᓂᕽ ᐱᐦᑐᑫᐏᐣ, ᐊᑕᐍᐏ ᒪᓯᓇᐦᐃᑲᓇ, ᐊᐦᐳ ᐊᑭᐦᒋᑫᐏᐣ."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "ᐊᐢᑌᐤ ᓈ ᐋᐸᒋᐦᑖᐏᓂᐢ ᐅᒪ ᒣᑕᐍᐏᐣ?",
+      "a": "ᓇᒧᐃᐧᔭ ᐅᒪ ᒣᑕᐍᐏᐣ. ᐱᑯ ᐍᒋᐦᐊᐧᐣ Golden Moments ᐋᐸᒋᐦᑖᐏᓂᐢ iPhone, iPad ᒥᓇ Android ᐯᔭᐦᑕᑭᐢ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᒫᒧᐃᐧ ᐊᐢᑕᐤ ᒥᐢᑎᐦᐃ ᑳ ᒥᐢᑳᐦᑌᑭ ᒥᓇ ᐯᔭᑯᑌᐦᐃᓯᐏᐣ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑳ ᐋᐸᐦᑕᒪᐣ, ᒥᓇ ᐋᐸᑕᐣ ᑫᑕᐦᑕᐍ ᐁᑳ ᐊᑲᐧᒥᕽ ᐊᔨᐦᑌᕽ. ᐅᒪ ᒣᑕᐍᐏᐣ ᓇᒧᐃᐧᔭ ᑭᑮ ᑭᓯᑫᐤ ᐅᑕ ᑭᐱᐢᑭᑌᐦᐃᑲᓂᕽ."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: ᒥᐢᑎᐦᐃ, ᒥᔪᓈᑯᓯᐏ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ",
+    "noscript": "ᐅᒪ ᒣᑕᐍᐏᐣ ᓇᑕᐍᔨᐦᑕᒻ JavaScript ᑭᒋ ᐋᐸᑕᐠ ᑭᐱᐢᑭᑌᐦᐃᑲᓂᕽ. ᐊᓂᐦᐃ ᑳ ᐍᒋᐦᐃᑯᐏᓇ ᓃᐦᑖᕽ ᐋᐸᑕᓇ ᐁᑳ ᐁᑿᓂ ᐊᐢᑌᑭ.",
+    "about": "ᑫᑯᐣ {name}",
+    "aboutAria": "ᑫᑯᐣ ᐅᒪ ᒣᑕᐍᐏᐣ",
+    "noTimer": "ᓇᒧᐃᐧᔭ ᐊᐢᑌᐤ ᑎᐸᐦᐃᐹᓂᐢ ᐊᐦᐳ ᐊᑭᐦᒋᑫᐏᐣ",
+    "printable": "ᑭᑕᑭ ᒪᓯᓇᐦᐃᑲᓯᐤ",
+    "howTo": "ᑖᓂᓯ ᑫ ᐃᓯ ᒣᑕᐍᕽ {name}",
+    "tips": "ᐍᒋᐦᐃᐍᐏᓇ ᑭᒋ ᒫᒧᐃᐧ ᒣᑕᐍᕽ",
+    "newToPlayingHtml": "ᐅᐢᑭ ᑭᒣᑕᐍᐦᐋᐤ ᓈ ᐊᐃᐧᔭᐠ ᑳ ᐊᐧᓂᑭᐢᑭᓯᐟ? ᐊᔭᒥᐦᑖ <a href=\"/caregiving/how-to-play-together/\">ᑖᓂᓯ ᑫ ᐃᓯ ᒫᒧᐃᐧ ᒣᑕᐍᕽ</a>, ᒥᓇ ᑫᑯᐣ ᑫ ᑐᑕᒪᐣ ᑭᐢᐱᐣ ᓇᒧᐃᐧᔭ ᒥᓇ ᓇᑕᐍᔨᐦᑕᒻ.",
+    "moreAria": "ᑯᑕᑲ ᑫ ᓈᑕᒪᕽ",
+    "helpfulGuides": "ᐍᒋᐦᐃᑯᐏ ᒪᓯᓇᐦᐃᑲᓇ",
+    "appTitle": "ᒣᑕᐍ ᐋᐸᒋᐦᑖᐏᓂᓯᕽ",
+    "appText": "ᐱᑯ ᐍᒋᐦᐊᐧᐣ Golden Moments ᐋᐸᒋᐦᑖᐏᓂᐢ ᐯᔭᐦᑕᑭᐢ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᒫᒧᐃᐧ ᐊᐢᑕᐤ ᒥᐢᑎᐦᐃ ᑳ ᒥᐢᑳᐦᑌᑭ ᒥᓇ ᑭᐯᔭᑯᑌᐦᐃᓯᐏ ᒪᓯᓇᐸᔨᐦᒋᑲᓇ, ᒥᓇ ᐋᐸᑕᐣ ᐁᑳ Wi‑Fi. iPhone, iPad ᒥᓇ Android.",
+    "photoAppTitle": "ᑲᓇᐍᔨᐦᑕ ᑭᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑭᒋ ᐍᐦᑕᐣ",
+    "photoAppText": "ᐊᓂᒪ ᐱᑯ ᐍᒋᐦᐊᐧᐣ Golden Moments ᐋᐸᒋᐦᑖᐏᓂᐢ, ᒪᓯᓇᐸᔨᐦᒋᑲᓇ ᑳ ᐋᐸᐦᑕᒪᐣ ᐊᐢᑌᓇ ᑭᐱᐢᑭᑌᐦᐃᑲᓂᕽ ᑫ ᐋᐸᒋᐦᑖᕽ ᒥᓇ, ᒥᓇ ᒣᑕᐍᐏᓇ ᐋᐸᑕᓇ ᐁᑳ Wi‑Fi. iPhone, iPad ᒥᓇ Android.",
+    "goodToKnow": "ᒥᔪᐚᓯᐣ ᑭᒋ ᑭᐢᑫᔨᐦᑕᒪᕽ",
+    "goodToKnowText": "ᐅᒪ ᒣᑕᐍᐏᐣ ᑭᒋ ᒥᔮᐧᑕᒥᕽ ᒥᓇ ᑭᒋ ᒫᒧᐃᐧ ᐊᔭᒥᕽ. ᓇᒧᐃᐧᔭ ᑯᒋᐦᑖᐤ, ᑎᐸᐦᐊᒻ, ᐊᐦᐳ ᓇᓇᑕᐏᐦᐃᐍᐤ ᑫᑯᐣ.",
+    "moreGames": "ᑯᑕᑲ ᐯᔭᐦᑕᑭᐢ ᒣᑕᐍᐏᓇ",
+    "crumb": "ᒣᑕᐍᐏᓇ"
   }
 }

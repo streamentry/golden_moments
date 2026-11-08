@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Pè imaj",
+    "seoTitle": "Jwèt Asòti pou Moun k ap Viv ak Demans: Pè Imaj",
+    "h1": "Pè Imaj: yon Jwèt Asòti ki Dou",
+    "description": "Yon jwèt asòti gratis epi dou pou moun k ap viv ak demans. Gwo imaj yo toujou rete parèt, pa gen kwonòmèt ni pwen, epi ou ka chwazi ant 4 a 12 ti kare.",
+    "short": "Jwenn de imaj ki menm jan an. Imaj yo ka toujou rete parèt.",
+    "players": "1 oswa 2 moun, kòt a kòt",
+    "intro": "Touche yon imaj, apre sa touche sa ki ale avèk li a. Imaj yo toujou rete parèt nòmalman, konsa ou pa bezwen sonje anyen nan tèt ou. Lè de imaj ale ansanm, yo vin gen yon lizyè koulè lò ak yon ti mak koche.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Chwazi konbyen ti kare ou vle itilize. Kat ti kare se yon bon fason ki kalm pou kòmanse.",
+      "Touche nenpòt imaj. L ap vin gen yon lizyè koulè lò.",
+      "Touche imaj ki menm jan an. Pè a ap rete ansanm ak yon ti mak koche.",
+      "Si de imaj yo pa menm, anyen mal pa pase. Touche ankò nenpòt lè w pare.",
+      "Limen \"Imaj kache\" sèlman si nou tou de renmen vèsyon klasik kote imaj yo vire anba a."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Di non imaj yo byen fò ansanm epi fè ti pale sou yo: \"Yon tas te wouj. Èske ou mete lèt nan te w?\"",
+      "Kite moun w ap pran swen an touche ekran an, menm si sa pran yon ti tan. Pito w lonje dwèt sou li pase w touche l pou li.",
+      "Rete sou kat ti kare toutotan sa fè nou plezi. Mete plis ti kare se yon chwa, se pa yon nivo pou w chèche atenn.",
+      "Fini pandan moman an toujou agreyab. Yon sèl pati se deja yon aktivite konplè."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Èske gen yon kwonòmèt oswa pwen?",
+        "a": "Non. Pa gen revèy, pa gen pwen, pa gen kontè mouvman, ni pèdi. Ou ka kanpe nenpòt ki lè, epi kanpe nan mitan se yon fason nòmal e konplè pou fini."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Poukisa imaj yo toujou rete parèt?",
+        "a": "Lè imaj yo rete parèt, jwèt la vin konsantre sou gade ak asòti olye pou w ap chèche sonje. Anpil moun jwenn sa pi kalm. Ou ka chanje pou mete imaj kache ak yon sèl ti touche si w prefere sa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Èske li gratis, epi èske mwen bezwen enskri?",
+        "a": "Wi, li gratis, epi pa gen kont pou kreye, pa gen enskripsyon, ni anyen pou telechaje. Li mache nan navigatè entènèt sou yon telefòn, yon tablèt oswa yon òdinatè."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Èske nou ka sèvi ak pwòp foto fanmi nou?",
+        "a": "Wi. Eseye Pè foto, ki pèmèt ou chwazi foto ki nan aparèy ou an. Foto yo rete nan navigatè w la epi yo pa monte sou okenn sèvè."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Jwenn sa ki menm nan",
+    "seoTitle": "Jwenn Menm Imaj la: Yon Jwèt Senp pou Moun k ap Viv ak Demans",
+    "h1": "Jwenn Menm Imaj la",
+    "description": "Yon sèl imaj anwo, de a kat anba. Touche sa ki menm jan an. Yon jwèt imaj ki kalm e gratis pou moun k ap viv ak demans, san kwonòmèt.",
+    "short": "Gade imaj ki anwo a epi touche sa ki menm jan an anba a.",
+    "players": "1 oswa 2 moun",
+    "intro": "Gen yon sèl imaj anwo nan ekran an. Anba li gen de, twa oswa kat imaj. Touche sa ki menm jan an. Se yon sèl chwa senp alafwa, avèk anpil espas pou fè ti koze.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Chwazi de, twa oswa kat imaj pou w chwazi ladan yo. De se opsyon ki pi senp lan.",
+      "Gade imaj ki anwo a ansanm.",
+      "Touche imaj ki menm jan an anba a. L ap make ak yon ti koche ansanm ak kèk mo ki dou.",
+      "Si w touche yon lòt imaj, jwèt la annik di non imaj la epi li ret tann. Pran tout tan w.",
+      "Touche \"Lòt imaj\" lè w pare pou yon lòt."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Pale sou chak imaj anvan w chwazi: koulè yo, fòm yo, kote ou ta ka wè yo.",
+      "De chwa pa janm \"twò fasil\". Objektif la se pase yon bon ti moman agreyab, se pa yon tès oswa yon defi.",
+      "Si li difisil pou moun nan touche ekran an, li ka lonje dwèt epi ou menm w a touche l pou li."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Èske gen yon kwonòmèt oswa pwen?",
+        "a": "Non. Pa gen revèy, pa gen pwen, pa gen kontè mouvman, ni pèdi. Ou ka kanpe nenpòt ki lè, epi kanpe nan mitan se yon fason nòmal e konplè pou fini."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Kisa k ap pase si yo touche yon move imaj?",
+        "a": "Anyen ki dezagreyab. Pa gen son bwi alèt, pa gen kwa wouj, ni vibrasyon. Jwèt la annik nonmen imaj yo te touche a epi li ret tann lòt ti touche a."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Èske li gratis, epi èske mwen bezwen enskri?",
+        "a": "Wi, li gratis, epi pa gen kont pou kreye, pa gen enskripsyon, ni anyen pou telechaje. Li mache nan navigatè entènèt sou yon telefòn, yon tablèt oswa yon òdinatè."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Asòti lonbray",
+    "seoTitle": "Jwèt Asòti Lonbray pou Moun k ap Viv ak Demans: Gratis sou Entènèt",
+    "h1": "Asòti Lonbray: yon Jwèt Imaj ki Dou",
+    "description": "Yon lonbray nwa anwo, de a kat imaj anba. Touche imaj ki bay lonbray la. Yon jwèt asòti lonbray ki gratis epi kalm pou moun k ap viv ak demans, san kwonòmèt.",
+    "short": "Gade lonbray la epi touche imaj ki fè lonbray sa a.",
+    "players": "1 oswa 2 moun",
+    "intro": "Asòti lonbray se yon aktivite nou konn wè sou fèy papye enprime, men isit la li fèt ak gwo imaj san anyen pou enprime. Yon lonbray byen klè parèt anwo nan ekran an epi de, twa oswa kat imaj ap tann anba. Touche sa ki bay lonbray la. Fòm tankou yon bisiklèt, yon parapli oswa yon tas te se bagay ki fasil pou fè ti pale sou yo tou.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Chwazi de, twa oswa kat imaj pou w chwazi ladan yo. De se opsyon ki pi senp lan.",
+      "Gade lonbray la ansanm. Ki fòm li genyen? Èske li wo oswa li won?",
+      "Touche imaj ki fè lonbray la. Non li ap parèt anba lonbray la.",
+      "Si w touche yon lòt imaj, jwèt la annik di non imaj la epi li ret tann. Pran tout tan w.",
+      "Touche \"Lòt lonbray\" lè w pare pou yon lòt."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Swiv lizyè lonbray la ak yon dwèt epi fè ti pale sou fòm nan.",
+      "Si lonbray yo parèt difisil jodi a, chanje pou ale sou Jwenn sa ki menm nan, kote imaj yo sanble tèt koupe.",
+      "Fè ti pale sou imaj la yon fwa nou fin jwenn li: \"Nou te gen yon parapli konsa.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Èske gen yon kwonòmèt oswa pwen?",
+        "a": "Non. Pa gen revèy, pa gen pwen, pa gen kontè mouvman, ni pèdi. Ou ka kanpe nenpòt ki lè, epi kanpe nan mitan se yon fason nòmal e konplè pou fini."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Èske jwèt asosye lonbray bon pou moun k ap viv ak demans?",
+        "a": "Sa ka yon aktivite senp epi bèl pou kèk moun, sitou nan kòmansman maladi a. Li pi fasil pou rekonèt fòm pase mo. Se pou plezi ak pou fè ti koze, se pa yon tès, epi li pa trete ni ralanti demans. Si sa bay tèt chaje, eseye jwèt Jwenn sa ki sanble a oswa senpleman gade foto yo ansanm."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Kisa k ap pase si yon moun manyen move foto a?",
+        "a": "Pa gen anyen dezagreyab k ap pase. Pa gen sonri, kwa wouj, ni sekous. Jwèt la bay non foto yo te manyen an epi li tann lòt manyen an."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Èske li gratis, epi èske mwen bezwen enskri?",
+        "a": "Wi, li gratis, epi pa gen okenn kont pou kreye, enskripsyon, ni telechajman. Li fonksyone nan navigatè entènèt sou yon telefòn, yon tablèt, oswa yon òdinatè."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Triye ansanm",
+    "seoTitle": "Jwèt triyaj pou moun k ap viv ak demans: Triye ansanm",
+    "h1": "Triye ansanm: yon aktivite pou triye foto",
+    "description": "Manyen yon foto, apre sa manyen panyen kote li dwe ale a: kwizin oswa jaden, fwi oswa bèt. Yon aktivite triyaj ki kalm epi gratis pou moun k ap viv ak demans.",
+    "short": "Mete chak foto nan panyen li: kwizin oswa jaden, ak lòt ankò.",
+    "players": "1 oswa 2 moun",
+    "intro": "Triye se yon travay nou abitye fè chak jou ki bay satisfaksyon, tankou sere pwovizyon oswa ranje pè chosèt. Manyen yon foto, apre sa manyen panyen kote li dwe ale a. Pa gen kouri, epi pa gen move chemen.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Chwazi yon tèm: kwizin ak jaden, fwi ak bèt, oswa kay ak vwayaj.",
+      "Manyen yon foto. Yon liy an lò ap parèt toutotou li.",
+      "Manyen panyen kote li dwe ale a. Foto a ap deplase antre nan panyen sa a.",
+      "Si se nan lòt panyen an li te dwe ale, jwèt la di sa dousman epi li tann.",
+      "Lè tout foto yo fin triye, gade sa ki nan panyen yo ansanm."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Nan lavi toulejou, souvan pa gen move repons. Si moun w ap akonpaye a di yon awozwa dwe nan kwizin nan, mande l poukisa. Sa ka fè l rakonte yon bèl istwa.",
+      "Sèvi ak foto yo pou kòmanse yon ti koze: «Kisa ou te konn plante nan jaden ou?»",
+      "Triye objè reyèl, tankou kiyè ak fouchèt oswa bouton selon koulè yo, se yon bèl aktivite pou fè apre sa san ekran."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Èske gen yon kwonomèt oswa nòt?",
+        "a": "Non. Pa gen revèy, pa gen nòt, pa gen kontè mouvman, ni ou pa ka pèdi. Ou ka kanpe nenpòt kilè, epi kanpe nan mitan jwèt la se yon bèl fason pou fini tou."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Poukisa fè triyaj?",
+        "a": "Anpil moun renmen triye paske sa sanble ak yon travay itil yo abitye fè. Li fasil tou pou fè ti koze sou foto yo pandan n ap avanse."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Èske li gratis, epi èske mwen bezwen enskri?",
+        "a": "Wi, li gratis, epi pa gen okenn kont pou kreye, enskripsyon, ni telechajman. Li fonksyone nan navigatè entènèt sou yon telefòn, yon tablèt, oswa yon òdinatè."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Pazòl foto",
+    "seoTitle": "Pazòl fasil pou moun k ap viv ak demans: 4 oswa 9 moso",
+    "h1": "Pazòl foto: yon pazòl ki fasil",
+    "description": "Yon pazòl senp sou entènèt pou moun k ap viv ak demans: 4 oswa 9 gwo moso, tout foto a rete vizib, epi ou manyen de moso pou chanje plas yo.",
+    "short": "Manyen de moso pou chanje plas yo jiskaske foto a fin fòme nèt.",
+    "players": "1 oswa 2 moun",
+    "intro": "Yon bèl foto koupe an kat oswa nèf gwo moso epi melanje. Tout foto a rete vizib kòm gid. Manyen yon moso, apre sa yon lòt, epi yo chanje plas. Ou pa bezwen trennen moso yo.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Chwazi yon foto ak 4 oswa 9 moso. Kòmanse ak kat se yon bon fason ki dou.",
+      "Gade foto konplè a ki anwo a.",
+      "Manyen yon moso, apre sa manyen kote li dwe ale a. De moso yo ap chanje plas.",
+      "Moso ki nan bon plas yo resevwa yon ti mak koche.",
+      "Lè foto a fin fòme nèt, admire l ansanm, apre sa chwazi yon lòt."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Pou anpil moun, manyen de moso pou chanje plas yo pi fasil lontan pase trennen yo.",
+      "Pale sou foto a pandan l ap monte a: «Gade do kay wouj la la a.»",
+      "Yon vrè pazòl an bwa ki gen 12 rive 24 gwo moso se yon bèl aktivite sou tab tou."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Èske gen yon kwonomèt oswa nòt?",
+        "a": "Non. Pa gen revèy, pa gen nòt, pa gen kontè mouvman, ni ou pa ka pèdi. Ou ka kanpe nenpòt kilè, epi kanpe nan mitan jwèt la se yon bèl fason pou fini tou."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Èske mwen bezwen trennen moso yo?",
+        "a": "Non. Manyen yon moso, apre sa manyen yon lòt, epi yo chanje plas. Sa pi fasil si men yon moun ap tranble oswa sou yon ti ekran."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Èske li gratis, epi èske mwen bezwen enskri?",
+        "a": "Wi, li gratis, epi pa gen okenn kont pou kreye, enskripsyon, ni telechajman. Li fonksyone nan navigatè entènèt sou yon telefòn, yon tablèt, oswa yon òdinatè."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Fini pwovèb la",
+    "seoTitle": "Fini pwovèb la: Jwèt pwovèb pou granmoun",
+    "h1": "Fini pwovèb la",
+    "description": "Pwovèb ameriken moun byen konnen kote dènye mo a manke, tankou «A penny saved is a penny ___». Manyen yon chwa oswa montre lafen an, apre sa fè ti koze sou sa.",
+    "short": "Konplete pwovèb nou byen konnen ansanm, apre sa fè ti koze sou yo.",
+    "players": "1, 2 moun oswa an gwoup",
+    "intro": "Vye pwovèb se bagay moun souvan sonje pandan tout lavi yo. Chak kat montre yon pwovèb nou byen konnen kote dènye mo a manke, twa chwa, epi yon bouton «Montre lafen an». Apre lafen an fin parèt, yon ti kesyon dou envite nou fè yon ti koze.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Li pwovèb la byen fò ansanm.",
+      "Manyen mo ki fini l lan, oswa manyen «Montre lafen an».",
+      "Li tout pwovèb la ankò epi fè ti koze sou li gras ak kesyon an.",
+      "Manyen «Pwochen pwovèb» lè ou pare."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Li dousman epi fè yon ti poz anvan dènye mo a. Souvan, moun nan gentan di l anvan ou fini.",
+      "Si yon moun bay yon lòt fen, pran plezi nan sa. Gen vèsyon kèk pwovèb ki varye selon fanmi oswa rejyon.",
+      "Nan yon gwoup, yon moun li epi tout lòt moun yo patisipe pou bay fen an."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Èske gen yon kwonomèt oswa nòt?",
+        "a": "Non. Pa gen revèy, pa gen nòt, pa gen konte kou, ni pa gen pèdi. Ou ka kanpe nenpòt ki lè, epi kanpe nan mitan se yon bèl fason pou fini."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "E si nou chwazi yon lòt mo?",
+        "a": "Jwèt la montre finisman abityèl la epi louvri sou yon konvèsasyon. Pa gen nòt, epi yon lòt repons trè bon tou."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Èske li gratis, epi èske m bezwen enskri?",
+        "a": "Wi, li gratis, epi pa gen kont, enskripsyon, ni telechajman. Li fonksyone nan navigatè wèb la sou yon telefòn, yon tablèt oswa yon òdinatè."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Mo kache an gwo lèt",
+    "seoTitle": "Mo kache an gwo lèt pou moun k ap viv ak demans, ou ka enprime",
+    "h1": "Mo kache an gwo lèt",
+    "description": "Yon jwèt mo kache gratis an gwo lèt pou granmoun aje ak moun k ap viv ak demans. Kèk mo sèlman, gwo lèt, mo orizontal ak vètikal sèlman. Jwe sou entènèt oswa enprime l.",
+    "short": "Gwo lèt, kèk mo sèlman, orizontal ak vètikal sèlman. Ou ka enprime l tou.",
+    "players": "1 oswa 2 moun",
+    "intro": "Yon ti griyaj ak gwo lèt epi kèk grenn mo sèlman, ki ekri orizontal oswa vètikal sèlman. Peze sou premye lèt mo a, apre sa sou dènye lèt la. Ou pito sou papye? Enprime yon nouvo jwèt ak yon sèl klik.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Chwazi yon tèm ak yon gwosè griyaj.",
+      "Gade lis mo yo. Mo yo li orizontal (de goch a dwat) oswa vètikal (soti anwo desann anba).",
+      "Peze sou premye lèt mo a, apre sa peze sou dènye lèt la.",
+      "Lè w jwenn yon mo, li vin an koulè epi li bare sou lis la.",
+      "Peze sou « Enprime jwèt sa a » pou w jwe sou papye ak yon kreyon oswa yon makè."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Montre yon mo nan lis la epi chèche premye lèt la ansanm.",
+      "Sou papye, yon soulinyè pi fasil pou kenbe nan men pase yon kreyon.",
+      "Fè yon ti pale sou mo ki nan tèm nan. Mo sou fwi yo se yon fason natirèl pou sonje lè nou te konn keyi yo, fè manje oswa ale nan mache."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Èske gen yon kowonomèt oswa yon nòt?",
+        "a": "Non. Pa gen revèy, pa gen nòt, pa gen konte kou, ni pa gen pèdi. Ou ka kanpe nenpòt ki lè, epi kanpe nan mitan se yon bèl fason pou fini."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Èske m ka enprime mo kache a?",
+        "a": "Wi. Peze sou « Enprime jwèt sa a » pou w enprime griyaj la an gwo lèt, ak lis mo yo anba li. Chak nouvo jwèt diferan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Èske li gratis, epi èske m bezwen enskri?",
+        "a": "Wi, li gratis, epi pa gen kont, enskripsyon, ni telechajman. Li fonksyone nan navigatè wèb la sou yon telefòn, yon tablèt oswa yon òdinatè."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Paj pou kolorye",
+    "seoTitle": "Paj pou kolorye pou granmoun k ap viv ak demans (Gratis)",
+    "h1": "Paj pou kolorye",
+    "description": "Paj pou kolorye senp pou granmoun ak gwo espas: peze sou yon koulè, apre sa peze sou desen an. Pa gen salte, pa gen move koulè, epi chak paj ka enprime gratis.",
+    "short": "Peze sou yon koulè, apre sa sou yon pati nan desen an. Ou ka enprime paj yo tou.",
+    "players": "1 oswa 2 moun",
+    "intro": "Paj ki gen gwo fòm senp: yon flè nan yon po, yon kay, yon tas te, yon papiyon ak yon bato a vwal. Peze sou yon koulè, apre sa peze sou yon pati nan desen an pou mete koulè ladan l. Pa gen move koulè.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Chwazi yon paj.",
+      "Peze sou yon koulè. Non chak koulè ekri sou li.",
+      "Peze sou yon pati nan desen an pou mete koulè sa a ladan l.",
+      "Ou ka chanje lide nenpòt ki lè lè w remete yon lòt koulè.",
+      "Peze sou « Enprime paj sa a » pou w jwenn yon paj vid pou w kolorye ak kreyon oswa makè."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Pwopoze de koulè pou chwazi ladan yo olye tout seri a si sa parèt twòp pou li.",
+      "Pye bwa mov ak solèy ble byenveni. Sa k konte se pran plezi ak koulè yo, se pa fè yo egzak.",
+      "Paj enprime yo bon anpil ak gwo makè oswa kreyon gra, paske yo pi fasil pou kenbe nan men."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Èske gen yon kowonomèt oswa yon nòt?",
+        "a": "Non. Pa gen revèy, pa gen nòt, pa gen konte kou, ni pa gen pèdi. Ou ka kanpe nenpòt ki lè, epi kanpe nan mitan se yon bèl fason pou fini."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Èske paj sa yo twò timoun?",
+        "a": "Nou te desine objè senp epi kalm olye desen anime, pou paj yo ka adapte ak granmoun. Gwo fòm yo fè koloryaj la rete fasil san li pa parèt tankou bagay timoun piti."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Èske li gratis, epi èske m bezwen enskri?",
+        "a": "Wi, li gratis, epi pa gen kont, enskripsyon, ni telechajman. Li fonksyone nan navigatè wèb la sou yon telefòn, yon tablèt oswa yon òdinatè."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kat pou fè konvèsasyon",
+    "seoTitle": "Kesyon pou kòmanse konvèsasyon pou moun k ap viv ak demans: Kat ak imaj",
+    "h1": "Kat pou fè konvèsasyon",
+    "description": "Kat ak imaj ki gen ti kesyon dou pou kòmanse konvèsasyon ak moun k ap viv ak demans: pa gen poze kesyon egzamen, pa gen bon repons. Sèvi avè yo sou ekran oswa enprime tout seri a.",
+    "short": "Kat ak imaj ki gen kesyon dou e ouvè. Pa gen poze kesyon egzamen.",
+    "players": "2 moun oswa yon gwoup",
+    "intro": "Chak kat mete yon imaj familye ansanm ak yon bèl ti envitasyon pou fè yon ti pale, tankou « Ki kalite tan ou pi renmen? » Pa gen bon repons, ni pa gen anyen pou w sonje. Chwazi yon tèm oswa brase yo tout.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Chwazi yon tèm, oswa kite l sou « Tout kat yo ».",
+      "Li kesyon an fò epi gade imaj la ansanm.",
+      "Koute, bay repons pa w tou, epi kite konvèsasyon an koule dousman.",
+      "Peze sou « Kat swivan » lè w pare, oswa rete sou yon sèl kat toutotan w vle.",
+      "Peze sou « Enprime tout kat yo » pou w koupe yon seri sou papye."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Reponn kesyon an ou menm tou. Sa fè l sanble ak yon konvèsasyon, pa yon entèvyou.",
+      "Swiv istwa a, pa rete sou detay egzak yo. Si detay yo chanje, sa pa fè anyen.",
+      "Si yon kat touche yon bagay ki tris, rekonèt sa moun nan santi a epi pase dousman sou yon lòt kat."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Poukisa pa gen kesyon « Èske w sonje… ? »",
+        "a": "Kesyon ki teste memwa ka sanble ak yon egzamen epi fè moun santi yo jennen. Ti envitasyon ouvè tankou « Pale m de… » pèmèt nenpòt moun patisipe, kèlkeswa sa yo sonje."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Èske m ka enprime kat yo?",
+        "a": "Wi. « Enprime tout kat yo » ap enprime tout seri a an gwo lèt, plizyè kat sou chak paj, pare pou koupe."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Èske li gratis, epi èske m bezwen enskri?",
+        "a": "Wi, li gratis, epi pa gen okenn kont pou kreye, enskripsyon oswa telechajman. Li fonksyone nan navigatè wèb la sou yon telefòn, tablèt oswa òdinatè."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Pè foto",
+    "seoTitle": "Fè yon jwèt asosye ak foto fanmi w",
+    "h1": "Pè foto: Asosye pwòp foto pa w",
+    "description": "Fè pwòp foto fanmi w tounen yon jwèt asosye ki dou. Chwazi 2 rive 6 foto sou aparèy ou an; yo rete nan navigatè w la epi yo pa janm telechaje sou okenn sèvè.",
+    "short": "Chwazi pwòp foto pa w epi asosye yo. Yo pa telechaje anyen.",
+    "players": "2 moun, kòt a kòt",
+    "intro": "Chwazi ant de a sis foto nan telefòn, tablèt oswa òdinatè w la, epi y ap tounen yon jwèt asosye avèk gwo imaj ki klè. Foto yo parèt sèlman anndan paj sa a. Yo pa telechaje yo, yo pa anrejistre yo ni pataje yo, epi yo disparèt lè w fèmen paj la.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Peze sou « Chwazi foto » epi chwazi de a sis foto.",
+      "Chak foto parèt de fwa. Peze sou youn, apre sa peze sou pè li.",
+      "Pale sou chak foto pandan w ap jwenn li.",
+      "Lè w fini, fèmen paj la oswa peze sou « Efase foto yo ». Anyen pa konsève."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Chwazi foto ki klè ak bagay ki abitye e ki pote lajwa: yon bèt kay, yon jaden, yon kote moun nan renmen, yon jou maryaj.",
+      "Foto kote ak objè ka pi fasil pase vizaj moun, epi yo retire tout presyon pou bay moun non.",
+      "Evite mete foto moun ki mouri si sa ka pote gwo lapenn britsoukou, amwenske w konnen yo bay rekonfò."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Èske foto m yo telechaje yon kote?",
+        "a": "Non. Paj la li foto w chwazi yo dirèkteman nan navigatè w la epi li montre yo sou ekran an. Yo pa voye yo ban nou ni bay okenn lòt moun, epi yo disparèt lè w fèmen oswa rechaje paj la."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Èske gen yon kwonomèt oswa yon nòt?",
+        "a": "Non. Pa gen revèy, pa gen nòt, pa gen konte kout jwèt, ni pa gen pèdi. Ou ka kanpe nenpòt kilè, epi kanpe nan mitan se yon trè bon fason pou fini tou."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Èske m ka anrejistre jwèt la pou yon lòt fwa?",
+        "a": "Pa nan navigatè a, nou fè l konsa espre pou anyen ki prive pa anrejistre. Aplikasyon gratis Golden Moments pou iPhone ak iPad ka konsève kopi foto w chwazi yo sou aparèy ou an."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ak imaj",
+    "seoTitle": "Bingo ak imaj pou granmoun k ap viv ak demans: Pou enprime",
+    "h1": "Bingo ak imaj pou gwoup moun",
+    "description": "Bingo ak imaj gratis pou enprime pou gwoup granmoun ak sant swen memwa, avèk yon gwo ekran pou rele imaj yo. Gwo imaj ak mo, 9 oswa 16 kaz, pa bezwen konn li.",
+    "short": "Kat bingo ak imaj pou enprime ak yon gwo ekran pou rele imaj yo an gwoup.",
+    "players": "Yon gwoup 2 rive 30 moun",
+    "intro": "Yon bingo klasik ak imaj nan plas nimewo, pou pèsonn pa bezwen fòse je li sou ti lèt. Enprime yon seri kat ki diferan, epi sèvi ak ekran an pou montre chak imaj an gwo sou yon televizyon, òdinatè oswa tablèt.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Chwazi 9 oswa 16 kaz pou chak kat ak kantite jwè ki genyen.",
+      "Peze sou « Enprime kat yo ». Chak kat diferan.",
+      "Ouvri ekran pou rele imaj yo sou yon gwo ekran. Peze sou « Imaj swivan » pou montre chak imaj ansanm ak non li.",
+      "Jwè yo kouvri imaj ki koresponn lan sou kat yo a avèk yon pyès monnen, yon bouton oswa yon jeton.",
+      "Tout moun ki ranpli yon liy, oswa tout kat la nèt, resevwa aplodisman. Nan vèsyon sa a pa gen moun ki pèdi: kontinye jwe jiskaske tout moun fè yon liy."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Sèvi ak gwo jeton tankou pyès damye oswa bouchon boutèy. Ti bouton ka difisil pou ranmase.",
+      "Bay non imaj la epi di yon ti bagay sou li: « Yon bato a vwal. Ki moun ki te deja monte sou yon bato? »",
+      "Mete moun ki gen difikilte pou wè yo pi pre ekran an, epi mete yon moun bò kote jwè ki bezwen èd.",
+      "Nèf kaz sifi nèt pou pifò gwoup. Fè seyans lan dire anviwon 20 a 30 minit."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Kouman pou m anime yon bingo ak imaj nan yon kay retrèt?",
+        "a": "Enprime yon kat pou chak jwè, mete ekran pou rele imaj yo sou pi gwo ekran ou genyen an, epi rele imaj yo tou dousman pandan w ap bay non chak imaj. Jwe jiskaske tout moun fin fè yon liy, pou pèsonn pa santi yo mete l sou kote."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Èske li gratis pou enprime?",
+        "a": "Wi. Enprime tout kantite kat ou bezwen, osi souvan sa fè w plezi, pou itilizasyon pèsonèl oswa an gwoup."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Èske moun ka jwe san yo pa bezwen li?",
+        "a": "Wi. Chak kaz gen yon gwo imaj, avèk non li anba pou moun ki renmen wè mo yo."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Respirasyon poze",
+    "seoTitle": "Yon ti poz respirasyon poze pou granmoun ak moun k ap pran swen yo",
+    "h1": "Yon ti poz respirasyon poze",
+    "description": "Yon ti poz respirasyon ki dous e trankil pou pataje: yon ti wonn ki grandi epi retresi pandan sis respirasyon. Se ou ki kòmanse l, epi ou ka kanpe l nenpòt kilè.",
+    "short": "Yon ti wonn dous pou respire ansanm avè l. Kòmanse epi kanpe lè w vle.",
+    "players": "1 oswa 2 moun",
+    "intro": "Pafwa pi bon aktivite a se yon ti poz trankil. Peze sou « Kòmanse », epi respire pran souf pandan ti wonn nan ap grandi, epi soufle l deyò pandan l ap retresi. Chwazi yon ritm ki pi dous oswa pi rapid. Se pa yon tretman medikal, se sèlman yon ti moman lapè pou pataje.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Chita alèz kòt a kòt.",
+      "Chwazi yon ritm: dous oswa trankil.",
+      "Peze sou « Kòmanse ». Respire pran souf pandan ti wonn nan ap grandi, epi soufle l deyò pandan l ap retresi.",
+      "Li kanpe poukont li apre sis respirasyon, oswa peze sou « Kanpe » nenpòt lè sa fè w plezi."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Kenbe men oswa poze yon men sou bra moun nan si l apresye sa.",
+      "Pa janm fòse moun nan. Si l pito annik gade, sa trè bon tou.",
+      "Si yon moun gen pwoblèm pou respire, respire nòmalman epi annik gade ti wonn nan. Pale ak yon doktè si w gen nenpòt enkyetid sou respirasyon."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Èske se yon egzèsis respirasyon medikal?",
+        "a": "Non. Se yon ti poz senp, si w vle, pou pote kalm ak konpayi. Se pa yon tretman pou enkyetid ni pou okenn lòt pwoblèm sante. Pale ak yon doktè pou nenpòt kesyon konsènan sante."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Èske ti wonn nan deplase san m pa kòmanse l?",
+        "a": "Non. Anyen pa bouje toutotan ou pa peze sou Kòmanse, epi li sispann apre sis respirasyon oswa lè ou peze sou Sispann. Si aparèy ou an regle pou diminye mouvman, mo yo ap chanje san sèk la pa gwosi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Èske li gratis, epi èske mwen bezwen enskri?",
+        "a": "Wi, li gratis, epi pa gen okenn kont, enskripsyon, ni telechajman. Li fonksyone nan navigatè wèb la sou yon telefòn, yon tablèt oswa yon òdinatè."
       }
     ]
   }

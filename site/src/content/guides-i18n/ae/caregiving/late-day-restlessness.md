@@ -1,34 +1,33 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Hūfrašmō-dāiti: Uzayeirīna Šyāta Vərəzō Martiyānąm"
+seoTitle: "Hūfrašmō-dāiti: Uzayeirīna Šyāta Vərəzō"
+description: "Hu-dātā nmāna-dāiti ud rāmya vərəza yā aipi uzayeirīna an-arəϑa rāmayeinti martiyāhe yōi manō vi-bərəiti, ud yaδa baēšazam zbayāiti."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Hūfrašmō-dāiti asti an-arəϑa, ākō ud a-mana ya uzayeirīna vā xšapo vā bavaiti
+  ud frayō bavaiti. Yā aipi thrayanti aēte santi: aēva-dātō ayarə-dāiti,
+  raocah ud ayarō-vərəza, kamna xvapna, kamna xᵛarəti uzayeire, brāzaiti raocah
+  parā xšapəm, nmānəm rāmyō-dātəm, ud šyāta vərəzō yaϑa sravah, patara ud vastra-zamb.
+  Nava vā frayō āzūitiš baēšazam kāmayeiti.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Hūfrašmō-dāiti mēneiti an-arəϑa ud ākō ya raoca aoi-nisiϑe bavaiti ud frayō."
+  - "Haomō-kəršya, snāiti ud frasīti hāvanayā vā rapithwinā dāta."
+  - "Hvarə-raoca, ayarō-carana, kamna xvapna uzayeire aipi xšapo hu-dāitīm bavāt̰."
+  - "Raocah uz-brāzaya parā təmō, srasyō sravah nica dāta, ud rāmya vərəzō kərənvata."
+  - "Dāte ayarə-fravaoca aoi vi-ciϑəm, ud rāmya ud an-āzāta bava yaδa an-arəϑa pairi-gəmāt̰."
+  - "Baēšazam pairi-āpaya yezī nava vā frayō bavaiti: xrada, pūiti vā baēšazya aipi ciϑəm dāraya."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Čim zrvānem hūfrašmō-dāiti gātavā bavaiti?"
+    a: "Frayō uzayeirīna aivisruthre vā bavaiti ya raoca visiϑe. Zrvān aēvam aēvam martiyāi anyō asti, aēva-dāte fravaoca dāiti pairi-thrayāt̰."
+  - q: "Či vərəza aipi hūfrašmō-dāiti rāmayeinti?"
+    a: "Rāmya, xšnavīta ud an-āzāta vərəza uzayeire vahišta santi: šyāta gāϑā, patarāiš dīti, nmānahya kərəti yaϑa vastra-zamb, carana, vā xᵛarəϑa haoca. Nava ud stavra vərəza hāvanaye dāta."
+  - q: "Aipi hūfrašmō-dāiti daxšta baēšazyahe asti?"
+    a: "Aipi tanu-dužita yaϑa xrada, pūiti yaϑa pīša-pūiti, a-xvapna, vā baēšaza-kərəti frayō kərənvaiti. Yezī nava vā frayō bavaiti, baēšazəm yō pairibərəte pərəsa."
+  - q: "Pərəsanā-nē baēšazəm baēšazahe paiti hūfrašmō-dāiti?"
+    a: "Aēte pərəsa baēšazahe paiti. Hada Alzheimer's Association an-baēšazahe dātāiš paoirya kərənuyāt̰, ud baēšaza pasca aozas-ca dužitas-ca vi-ciϑe bavāt̰. Aēva paitiš naēda baēšazahe sruiti daϑāiti."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +46,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Paoiryō nmānā aēvam daϑāna vi-dārayeinti: hāvanā rāmyā santi, aδa yaδa uzayeirīna aoi-gəmō bavaiti, martiyō yō manō-xratūm vi-bərəiti an-arəϑō, āzātō, a-manō vā duž-manō bavaiti. Aipi patāiti, pərəsaiti yaϑa nmānəm ayena yezī nmāne asti, vā a-xšnūte bavaiti. Aēva hūfrašmō-dāiti nāma aoji.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Naēda aēva baēšaza asti, aδa yā varəzišnva ayarō-dāiti, nmānəm ud šyāta vərəzō yā pairi-barahi aipi uzayeirīna rāmyō-dātəm bavāt̰. Aēva paitiš non-medical dātā us-hišta hada National Institute on Aging ud Alzheimer's Association. Naēda baēšazahe sruiti asti. Yezī daxšta navā, staxrā vā frayō bavaiti, hada baēšazahe paiti pərəsa.
 
-## What is sundowning?
+## Čiš asti hūfrašmō-dāiti?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Hūfrašmō-dāiti asti an-arəϑa, staxrō-dāiti, āka vā a-mana ya raoca aoi-nisiϑe bavaiti ud frayō, uzayeirīna aivisruthre vā. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) vaocaiti yaϑa spaxšti stavra aipi uzayeirīna an-arəϑəm frayō kərənaoiti.
 
-## What can make late-day restlessness worse?
+## Čiš aipi uzayeirīna an-arəϑəm frayō kərənaoiti?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Poiryō dātā aipi thrayanti, ham-carante. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) aēte dātā nibərandaiti:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- spaxšti pasca vīspō-ayarə;
+- nava vā vi-xvarənata nmāna;
+- tanu-zrvān yō an-arəϑō bavaiti, xvapna ayarə ud us-hišta xšapo daϑāna;
+- kamna raoca ud sayā, yōi vi-mana kərənvanti;
+- āzūitiš vā arathra aēibyo yōi pairi santi;
+- kamna xvapnahe kāmō, yō pouru-zrvānahe martiyākahe asti.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA aipi an-arəϑahe ciϑəm aoji, yaϑa xrada, mana-dužita, kamna šyāti, vi-ərəti, frayō sravah vā pouru martiyāka, ud anya baēšaza vā baēšazyahe hakarət-kərəti.
 
-## How can I plan the day to make evenings calmer?
+## Yaϑa aipi ayarə fradaϑāmi yaϑa aivisruthra rāmyō bavāt̰?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Stavra kəršyāiti aoi paoirya dāta ud uzayeirīna rāmyəm ud hu-zānatəm dāraya. NIA ud Alzheimer's Association aēva-dātō ayarə-dāitīm fradaϑənti. Ayarō-dāiti yaϑa tūm tē nmānai dāta:
 
-| Time | What may help |
+| Zrvān | Čiš aipi thrayāt̰ |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Hāwani | Zbayāiti, snāiti, parō-yāti ud vīspa stavra vərəza, yaδa martiyō hāvanō asti |
+| Pasca hāwani | Zrvān hvarə-raocahya vā raoca-paiti; carana vā anya vərəza |
+| Rapithwina | Vərəzištō xᵛarəϑa (Alzheimer's Association vərəzištō rapithwine ud kamnō aivisruthre fradaϑaiti) |
+| Parō uzayeirīna | Šyāti yezī kāmayeiti, aδa darəga xvapna uzayeire parā-mərəgaiti |
+| Uzayeirīna | Rāmya, xšnavīta vərəzō; kamna xᵛarəϑa ud xᵛarəti; naēda kafeina |
+| Parā aivisruthrem | Raocah uz-brāzaya ud paiti-vāra basta parā təmō aoi-gəmāt̰ |
+| Aivisruthra | Kamna xᵛarəϑa, rāmya gāϑā, kamna arathra, aēva-dātō xvapnahe dāiti |
 
-A few specific points from the sources:
+Aipi ciϑa frasravana hada dātāiš:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Hvarə-raoca.** NIA fradaϑaiti zrvānem aoi hvarə-raocahya vā raoca-paiti ayarə-ayarə.
+- **Ayarō-carana, aδa naēda frayō.** Kāmō aoi tanu-vərəzəm ayarə-ayarə an-dāta frayō vərəzō, vaocaiti NIA.
+- **Uzayeirīna xᵛarəti.** Parā-mərəga madu ud xᵛarəti kafeina-dāta yaϑa kofi vā kola uzayeire (NIA). Alzheimer's Association aipi nikotīn aoji.
+- **Xvapna.** Parā-mərəga darəga xvapna uzayeire (NIA). Alzheimer's Association fradaϑaiti kamna ayarō-xvapna yezī xšapo xvapnahe dužitā asti.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Aoi frayō paiti ayarō-dāiti, vīda [daily routine activities](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Yaϑa aipi nmānəm uzayeirīna rāmyō kərənaomi?
 
-Reduce noise, add light and keep familiar things close.
+Kamna sravah dāta, raoca ud-brāzaya ud hu-zānata dāraya.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Brāzaiti, hu-raocah.** Alzheimer's Association fradaϑaiti nmānəm hu-raocō aivisruthre dāraya. Raoca ud-brāzaya parā sayā uz-āiti.
+- **Kamna sravah.** TV ud rādyō nica dāta vā tapaya, ud kamna āsrava ud stavra nmānahya vərəza dāta. Alzheimer's Association fradaϑaiti kamna aivisruthrahe arathra yaϑa TV ud staxra sravah.
+- **Hu-zānata rāmya.** NIA fradaϑaiti rāmya gāϑā ud hu-kāmō dāranam nmāne dāraya.
+- **Tanu-šyāti dīti.** Alzheimer's Association fradaϑaiti vi-ciϑəm xradahya, šūti, tašnō, vi-ərəti, tanu-spaxšti, pūiti ud tanu-raza, ud gātu hu-garmō dāraya.
+- **Hva-mana.** Martiyāka āzūitīm vi-dārayeinti. NIA fradaϑaiti rāmyō bava ud šyāta yezī hva-āzūitiš arathrəm vərəzyeiti.
 
-## What calm activities can we do in the late afternoon?
+## Či rāmya vərəza aipi uzayeirīna kərənvāma?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Vərəza vi-cina yā xšnavīta, rāmyā ud a-xšudra santi. Alzheimer's Association fradaϑaiti rāmya vərəza yaϑa rāmya gāϑā, patarāiš dīti vā filma, ud carana haoca aoi an-arəϑəm rāmayeiti. NIA fradaϑaiti kamna xᵛarəϑa ud xᵛarəti, gāϑā, carana, fra-xvanana, vā aēva nmāna-vərəza yaϑa vastra-zamb.
 
-Ideas to try:
+Vərəza aoi uz-varəza:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Vastra-zamb haoca.** NIA aēte aēvam nmāna-kəršyāitīm fradaϑaiti. Vastra hu-dāitīm santi, ud vərəza aēvam apaməm dārayeiti.
+2. **Šyāta gāϑā fra-srāvaya.** Hu-zānata gāϑā yā yuvanō zrvānahya, kamna sravahe. Sravō-dāiti aēva thrayāti. Frayō dāte aoi [music activities](/activities/music/).
+3. **Patarāiš dīti.** Patara-paiti vā nmāna-patara aoi [Photo Pairs](/games/photo-pairs/) hada patarāiš dīte, šyāta pərəsa kərənaoiti.
+4. **Kamna carana.** Pairi pairi-daēzəm vā nmāna-pathəm, parā təmō aoi-gəmāt̰.
+5. **Kamna xᵛarəϑa ud xᵛarəti.** Aēva, garma ud an-kafeina, aoi gātavō haoca.
+6. **Rāmya ham-dāiti.** [Picture Pairs](/games/picture-pairs/) hada caϑware dāte ud patara dīte hu-kərəta ud hu-apama asti.
+7. **Raoza-dāiti.** [Coloring](/games/coloring/) aoi screen vā kāgaza, an-dāta apaməm kāma.
+8. **Dīti ud pərəsanā.** [Conversation Cards](/games/conversation-cards/) patarəm ud frašnəm daϑaiti. Dīti aēva bavāt̰.
+9. **Ušyā-xvapna.** [Calm Breathing](/games/calm-breathing/) asti rāmya zrvān yō tūm dātāiš us-hišta ud basta.
+10. **Zasta-vərəza.** Kərəta vastra-paiti, vā hu-zānata dārana zaste dāraya. Vīda [sensory activities](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Parā-mərəga nava kəršyāiti, stavra frasīti ud yā pouru marana vā xratūm kāmayeinti uzayeire. Hāvanaye aēte dāta.
 
-## What should I do when restlessness starts?
+## Čiš kərənaomi yaδa an-arəϑa pairi-gəmāt̰?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Rāmyō bava, šyātəm daϑata, ud hu-vərəzəm anya-dāta. NIA fradaϑaiti rāmya gūša daϑata, pərəsa gūšaya, an-arəza dāraya, vaoca yaϑa hu-yāna asti, ud hu-zasta thraya yezī thrayāti. Pasca aēte anyō dāiti kərənvata: xᵛarəϑa, xᵛarəti, gāϑā vā carana.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association vaocaiti yaϑa vaoca: "Tūm iδa hu-yānō ahi" ud "Mānam duž-manahya tē," ud fradaϑaiti raoca ud-brāzaya ud arathra kamna dāraya. Naēda aoi-basta, naēda zasta-aoza dāraya, naēda arəza.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Yezī martiyō aozō-dātō bavaiti, NIA fradaϑaiti hu-yāna gātavā dāraya yaδa vərəza basta bavaiti. Yezī āzūitiš bavaiti, 112 zbayata ud gūša daϑata yaϑa martiyō manō-xratūm vi-bərəiti.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Paitiš nō paiti [communication](/caregiving/communication-tips/) ud [what to do when they say no](/caregiving/when-they-say-no/) rāmya srava dārayeinti.
 
-## How do I find the triggers?
+## Yaϑa an-arəϑahe ciϑəm vi-cināmi?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Aēva-dātō ayarə-fravaoca dāraya aēvam vā dva vā sāstrem. Alzheimer's Association fradaϑaiti dīti čiš bavaiti parā hūfrašmō-dāiti yaϑa ciϑəm vi-cināiti. Nibərəda zrvānem yaδa an-arəϑa aoi-gəmāt̰, čiš bavaiti zrvānhe parā, xvapna, xᵛarəϑa, āsrava, sravah ud raoca. Fravaoca aoi baēšazam bara. NIA vaocaiti yaϑa daxštāiš dīti thrayāti pairibarəte ud baēšaze ciϑəm vi-dāraiti.
 
-## When should I call a doctor about sundowning?
+## Čim zrvānem baēšazam paiti hūfrašmō-dāiti zbayāmi?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Hada baēšazahe paiti pərəsa yezī an-arəϑa navō, staxrō bavaiti, vā anya daxšta paiti-bavaiti. NIA vaocaiti yaϑa nava vā staxra vərəzō-dužita, pasca pūitīm vā baēšazyahe vərəzəm, mošu baēšaze aoji.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Baēšazam pərəsa aoi ciϑa yā aivisruthrahe staxrəm kərənvanti. Alzheimer's Association tanu-dužita aoji yaϑa pīša-pūiti, a-dārana, zanga-an-arəϑa ud xvapna-apana, ud pərəsa čiš zrvān vahištō baēšazahe asti. NIA xradam, vi-ərəti ud baēšazahe dužitīm aoji.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association vaocaiti yaϑa an-baēšazahe dātā paoirya santi aoi xvapnahe dužitīm hada Alzheimer's, ud baēšaza aivisruthrahe an-arəϑye aēva pasca aozas-ca dužitas-ca vi-ciϑe bavāt̰. Aēva vi-ciϑa baēšazahe asti. Naēda us-hišta, naēda basta, naēda vərəza anya baēšaza an-sruiti baēšazahe.
 
-## How do I get through the evenings myself?
+## Yaϑa aivisruthrem hva-pairibara vīspəm barāmi?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Uzayeirīna aipi staxrištō zrvān pairibarəte asti. Yezī tūm aipi, nmāna-martiyō, šyātō vā anyō thratārem zbayata uzayeire thrayāiti, aēvam zrvānem vā. Paitiš nō paiti [caregiver self-care](/caregiving/caregiver-self-care/) fra-daϑaiti rāmyō gātu ud Alzheimer's Association 24/7 Helpline.

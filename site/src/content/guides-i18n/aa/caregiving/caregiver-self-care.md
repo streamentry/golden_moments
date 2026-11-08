@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Dacrisiynek Isi Daccarsiyyi: Sabri kee Daalil Astooti"
+seoTitle: "Kas-Way Dacrisiynek Isi Daccarsiyyi: Sabri kee Qokol"
+description: "Dacrisa marak daalil astooti, sabri kee qokol buttitte geytimtam, US bilash telefoonitte: Alzheimer's Association kee Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Kas-maysixxic le num dacrisaanam gibdi taama, kaadu isih daccarsaanam
+  taamâ gabat tanim kinni. Mangoh daalam, kas sissik, xiinam waytam kee
+  kataysiisik kacan aalam innaah tan astooti kas-leek wagita. Baxsa-le qokol
+  essera, sabri daccarsiyyi faydita, kaadu qokol buttal tangallin. US-ih
+  addat bilash qokol geytimaah, woo ganal Alzheimer's Association 24/7
+  Helpline 1-800-272-3900 kee Eldercare Locator 1-800-677-1116 tan.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Daalil mangacel mangoh daalam, xayi jibba, xiinam xagortam, rookot kee isi fayyâ daccarsiyyi habaanamal yambillike."
+  - "Sabri daccarsiyyi nabsî sabri koo yeceeh, tu-saaqatak kalah mango alfiitâ fan, burtat hinnay daccarsiyyî caral geytimtam xiqtah."
+  - "Baxsa-le taamoomik qokol essera; mango mari qoklam faxa ikkal mannal qoklaanam ma-yaaxigin."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) ummaan wakti bilash kee cilli le qokol tacee."
+  - "Eldercare Locator (1-800-677-1116) koo kee dariifâ qokol, tonnaah Area Agency on Aging lem gassoysa."
+  - "Gidbidi xagteh tengek, 988 fan bila hinnay xawfa ruba. Gibdi sissik wakti, 911 fan bila."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Dacrisiynek daalil astooti tu-mankinna?"
+    a: "Meqe astootik gaba: gibdi daalil, kas makkootiyyi hinnay baaca, sissikih naqsoonaah hinnay sabri waytam, xiinâ cakkito, rookot hinnay qadaaba, kataysiisik kacan aalam, amo biyaak hinnay nabsî biyaak, kee isi maaqo, nabsî garbaqu hinnay daktarî daccarsiyyi habaanaama. Tamaah tan astooti elle tangeleek, isi daktarak wagit."
+  - q: "Yoh xayi sabri daccarsiyyi mannal geya?"
+    a: "Eldercare Locator (1-800-677-1116 hinnay eldercare.acl.gov) luk qimbis, isi dariifak Area Agency on Aging, ARCH National Respite Locator Service, hinnay Alzheimer's Association Helpline 1-800-272-3900 fan geytimtam. Tonnaah buxâ mara, kataysis kee fidin-abbaasâ mari sabri yaceenim xiqtah."
+  - q: "Medicare sabri daccarsiyyik galto tacee?"
+    a: "Hospice daccarsiyyi geyak yan numuh, Medicare koona ayró sittat kataatak hospitaal addat hinnay daccarsiyyî caral geytimta sabri daccarsiyyik mango galti duumussa, National Institute on Aging yeceeh yan maxcok yabak. Mango siiri-le fayyâ inshuraans sabri ma-duumussa; Medicaid kee derre-waktî daccarsiyyî inshuraans qoklam xiqtah."
+  - q: "Alzheimer's Association Helpline duma-bilash kee barik geytintah?"
+    a: "Yeey. Alzheimer's Association tiysixxigeemih, Helpline 1-800-272-3900 bilash, cilli-le kaadu saaqat 24 ummaan ayró, sanatal 365 ayró taamita marat gacisa, mango afittet qokol geytimaah. 711 bil relay qokoluh."
+  - q: "Daccarsiyyik sabri beetaanam isi-kibirinna?"
+    a: "Maleey. Sabri koo daccarsiyyi wagisiselem koo qokla, kaadu sabri atu dacrisitta numuh kataysis kee taamâ madaq tacee. Mango dacrisa mari sarrah qokol sissikuk esserinninooy axceeniik geytiman."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Atu kas-maysixxic le num dacrisak tengek, ta kitoob bar-leelal, daalak, kaadu ma-taaminniyo taamooma luk akriyak tantaah tankittina. To kaxxa xaafey ma-hinna. Isi nabsih daccarsiyyi abaanam fayu hinnay gabat abte taamoomik galto ma-hinna. Is atu taamat wadirik sugtaamal koo qokoltaam kinni.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Ta maxco daalil kas-le astooti, baxsal-le sabri mannal geytimta, qokol elle geytima araca, kaadu asak bilash US bilash telefoonitte teetit bilam xiqtan lem cusba.
 
-## What are the signs of caregiver burnout?
+## Dacrisiynek daalil astooti tu-mankinna?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Daalil mangacel sessekuk culaah, toh sabbatah isi kas-le astooti taaxigem meqe qokol kinni. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) dacrisa marak daalil astooti tiysixxigeh, tunkuk gaba:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- mangoh daalam, kas makkootiyyi hinnay baaca;
+- sissikih naqsoonaah hinnay sabri waytam;
+- kalaluuyiyyi hinnay marak baxsiimah aalam;
+- xiinâ cakkito, hinnay giclo xiina waytam;
+- rookot hinnay qadaaba, hinnay edde yalliciheenimih faxe waytam;
+- amo biyaak, nabsî biyaak hinnay gari nabsî gibdaabina;
+- nabsî garbaqu hinnay meqe maaqo isih abaanamih wakti waytam;
+- kalco dacayri hinnay isi nabsî daccarsiyyi habaanaam;
+- cunkuraaq hinnay dawaari, daktar yecee dawaari gital wayuuk catoonaam.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) gari astooti edde ose, biyak dirkiitot aallam, numul naqabaanam ("usuk gibdi amo kinnah kinni"), sara-waktik baaca, kas essera waytam, kaadu fayyâ gibdaabina nabsil kaxxa xaafey aallam. Tamaah tan astooti elle tangeleek isi daktarak wagittoonaah amri tacee.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA koo kassiiseemik gaba, daalil koo qulullusekkah ma-qaabitin. Astooti naharat yableenik, sissikuk taama edde ooba.
 
-## What can I do today, in five minutes?
+## Asak konoy daqiiqat addat macah abam xiqaa?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Daban-sabri kaxxa meqe gaba le. Tamak teeti daalil ma-yayse ikkal, gibdi carra elle tatiiseenim koo xiqsiissah.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Bara fan eweeca.** Num meqeh caral sugelek, badaral gaca hinnay sanduuqâ fan gaca.
+- **Sessekuk fooko.** Gibdi esserô gacsa teceek naharat, daban-le fooko beeta. Kaadu atu dacrisitta num luk [Calm Breathing](/games/calm-breathing/) sabri tabsoonaam xiqtan.
+- **Lee aaqubaay tu akuma.** Isi maaqo hawaawaanam sissikiyik tanim kinni.
+- **Inki kataysah xawfa ruba.** Tu esseruh ma-hinna, esseroysa kinni.
+- **Isih meqe maxco ixxica.** NIA-k [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) qafar maxcok cusbaamal: "Xiqaamih dudda abak aniyo," "Kulliimik dudda maleey, kaadu toh meqe," tonnaah "Salaamatal sittat nani wakti fayda edde geyeyyo."
 
-## What is respite care, and how do I get it?
+## Sabri daccarsiyyi macay, mannal teeti geyaa?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Sabri daccarsiyyi daban-waktî daccarsiyyi kinni atu dacrisitta numuh, atuk sabri geytuh. NIA-k [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) edde baxxaqisannal, tu-saaqatak kalah mango alfiitâ fan sugam xiqtaah, dabqal, daktarî caral hinnay kaxxa-marih ayro daccarsiyyî caral geytimtam xiqtah.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) meqe aynatitte baxxaqisa:
 
-| Type | What it is |
+| Aynat | Toh macay |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Dabqâ addâ qokol | Kataysa, kaxxa-marak mara, fidin-abbaasâ num hinnay galti luk yan qokolti dabqa yamaate |
+| Kaxxa-marih ayro cara | Malseen taamooma kuulo kee fanni innaah tan buttâ addat; geyso kee maaqo mangacel yaceen |
+| Bar-suwo hinnay daban suwo | Derre-waktî daccarsiyyî buttat bar, tu ayroora hinnay tu alfiita num dacrisan |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Iyyi galto tacee?** NIA maxcok, buxâ mara, kataysis hinnay fidin-abbaasâ marak geytimta sabri galto maleek takkem xiqtah. Taamâ qokolti saaqat hinnay ayrók galto essera. Hospice daccarsiyyi geyak yan numuh, Medicare hospitaal addat hinnay daccarsiyyî caral koona ayró sittat kataatak geytimta sabri daccarsiyyik mango galti duumussa. Medicaid qoklam xiqtah. Mango siiri-le fayyâ inshuraans sabri ma-duumussa, ikkal derre-waktî daccarsiyyî inshuraans qoklam xiqtah.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Fayda-le kassiisi:** Alzheimer's Association sabri qokolteyna gibdi sissik mayyu waqdil tabsoonaah kassiiseh, toh sissik qokol faxxiimak tan waqdi tayseelih tanim geytuh.
 
-## Where can I find help near me?
+## Yoh xayi qokol mannal geyam xiqaa?
 
-Several free US services can point you to local help.
+Tu bilash US qokoltiyya koo dariifâ qokol fan gassoysam xiqtah.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) bilash kaadu cilli leeh, sanatal ummaan ayró saaqat 24 taamita marat gacisa, 200 tirtuk dagal afittet qokol taceeh af-gacsiyne luk yan marat geytima. Relay qokoluh 711 bila. Taama-kacanih madaq, dacrisiynek daalil, sabri garooca, dariifâ porograam kee gariimik walalsitoonum xiqtan, tonnaah daccarsiyyî kassiiseynak derre-waktî walal esseraanam xiqtan. Taamâ mari daktarî amri ma-yacee.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), Administration for Community Living ummattâ qokol kinniimih, kaxxa-mari kee buxah qokol fan koo gassoysa. Bilam, xawfa rubam, interneetit walalsitam hinnay imaayil rubam xiqtan, hinnay aracal gurumsaanam xiqtan. Toh ku dariifak Area Agency on Aging fan koo gassoysam xiqtah.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) istetit sabri qokolteyna gurumsittan koo qokla, kaadu ku istet lem tekkek State Respite Coalition hinnay Lifespan Respite porograam fan naharat bilaanam kassiiseh. ARCH qokolteyna ma-wagittaay, toh sabbatah ken taamâ caddó kee wadir kitoob isih wagita.
 
-## How do I find a support group?
+## Qokol butta mannal geyaa?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Helpline essera hinnay interneetit koo xayi buttitte gura. Alzheimer's Association dacrisa mara kee kas-maysixxic le marah [runs support groups](https://www.alz.org/help-support/community/support-groups) taamissa, fooca-foocak kee interneetit, aaxige massoysa-marih gabat. Mango aracoocit baxsa-le buttitte tacee, ceelalloh kaxxa-marih dacrisa maray hinnay qunxaanel Alzheimer le maray naharsi caddol yaniinih. Tonnaah ALZConnected, dacrisa mari kassiisik edde sittat tacee bilash interneet buttah gaba tacee.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Qokol buttitte may-caddok kalah kas-biyaak edde yayyaaqen arac takkem xiqtah, taama edde oobte marak fayda-le kassiisi geytimaah, kaadu kalaluuyiyyi kas edde dagooysa. Naharsi butta ku fantaaxik tayse wek, garik cula.
 
-## How do I ask family and friends for help?
+## Buxâ mara kee kataysiisik qokol mannal esseraa?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Baxxaqsa leeh essera. Mango mari qoklam faxa ikkal macah yaceenim ma-yaaxigin. NIA kassiiseemik gaba:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Kitoob loow** gari mari abam xiqe taamoomik, kaadu mari baxat dooreenih haba.
+- **Qunxumuk qimbisa** esseraanam gibdik tekkek.
+- **Taama nukul massoysa.** Qalî baxay maaqo kaxxa kacanih abay Kamî carra diraac baaha. Wariq aaxige culeyna wariqâ taamat qokla.
+- **Xawfa hinnay imaayil ruba** fooca-foocak esseraanam gibdik tekkek.
+- **Gacsa barita** num tu yacee wakti: "Essertek gassoh. Tah abtam xiqtaam kinni."
+- **Tu gacsiyya qambaala** kaadu toh isi nabsih gibdaabina ma-haysitina.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Gari kasitte: numuy alfiitat inki carra nukul gaca essera, daban dacarsiinah koo beeta, hinnay yaburuk sittat digir digraanam. Ni [guide to playing together](/caregiving/how-to-play-together/) yabur mara luk kassiisaanam sissikik tanim kinni.
 
-## What if something happened to me?
+## Yoh tu edde tekkek macah abaa?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Asaku sissik qokoltiyyâ mala bicisa. NIA buxâ mara hinnay xayi kataysis luk iyyi culelem massoysaanaah kassiiseh, tonnaah bilash telefooni loowo, dawaari, taamita madaq kassiisi, kee kacan taamooma loowtâ kitoob addat aallaanam kassiiseh. Alzheimer's Association kaadu numuk daktarî telefooni kee cusub dawaarî loow geytimtam sissikiyik abaanam kassiiseh.
 
-## When should I get professional or urgent help?
+## Daktar hinnay sissik qokol ma-wakti geyam faxxiimaa?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Daalil astooti ummaan ayró tangeleek, rookot tekkek hinnay nabsî dudda waytek isi daktarak wagit. Atu dacrisa num kinnim isi daktarak ixxica. NIA kassiiseemik, malo-mari kee hawaa taama-mari gibdi kas-biyaak kee malâ gital qoklam xiqtaah, Medicare, Medicaid kee gari siiri-le fayyâ inshuraans kas-fayyâ galti duumussam xiqtah.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Gidbidi xagteh tengek hinnay isi nabsi kaxxa biyaak abam kasit tekkek, 988 fan bila hinnay xawfa ruba toh [988 Suicide & Crisis Lifeline](https://988lifeline.org/) fan, bilash kaadu saaqat 24/7 geytimaah. Num sissik meqet annekkah gibdi waqdit yanek, 911 fan bila.
 
-## Can shared activities give me a break too?
+## Sittat aban taamooma yoh sabri yaceenim xiqtaah?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Tu-wakti. Sittat fantaaxitan sabri taama kuuy kee atu dacrisitta numuk ayrók sabri gabat takkem xiqtah: duma-kuulo aabbatam, suwarit wagitaanam, hinnay [Conversation Cards](/games/conversation-cards/) innaah tan digir duumuma gacsa faxe waytam. Num mara luk suwam fantaaxitek, kaxxa-marih caral hinnay ayro porograamal [Picture Bingo](/games/picture-bingo/) buttal abaanam inki saaqat sabri koo taceem xiqtah. Kasitteh [activities for care home groups](/activities/care-home-groups/) wagita.

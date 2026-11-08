@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Lugege ette",
+      "stopReading": "Lõpetage lugemine",
+      "region": "Mäng",
+      "restart": "Alustage uuesti",
+      "soundOn": "Vaiksed helid sees",
+      "soundOff": "Vaiksed helid väljas",
+      "done": "Praeguseks valmis",
+      "feedbackQuestion": "Kas see oli täna abiks?",
+      "feedbackYes": "Jah",
+      "feedbackNo": "Mitte eriti",
+      "feedbackThanks": "Aitäh, et meile teada andsite."
+    },
+    "tile": {
+      "named": "{name}, ruut {n}",
+      "hidden": "Peidetud pilt, ruut {n}",
+      "withState": "{label}, {state}",
+      "matched": "Paaris",
+      "selected": "Valitud",
+      "picture": "Pilt",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Kõik paarid on koos. Mängige uuesti või tehke paus.",
+      "photoPair": "Fotopaar koos.",
+      "picturePair": "Kaks pilti: {name|lower}, koos.",
+      "selected": "{name}. Nüüd leidke selle paariline.",
+      "mismatch": "Võtke aega. Jätkamiseks puudutage pilti.",
+      "mismatchNamed": "{a} ja {b}. Võtke aega. Jätkamiseks puudutage pilti."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Puudutage pilti, seejärel puudutage selle paarilist.",
+      "guidanceHidden": "Piltide avamiseks puudutage kahte ruutu. Otsige kahte samasugust.",
+      "restart": "Uued pildid",
+      "sizeLegend": "Mitu ruutu",
+      "size": {
+        "one": "{n} ruut",
+        "other": "{n} ruutu"
+      },
+      "viewLegend": "Kuidas mängida",
+      "viewShowing": "Pildid on nähtaval",
+      "viewHidden": "Peidetud pildid",
+      "playAgain": "Mängige uuesti uute piltidega",
+      "talk": "Vestelge koos piltidest"
+    },
+    "choose": {
+      "countLegend": "Mitu pilti",
+      "count": "{n} valikut",
+      "thatOne": "See on {name|lower}. Võtke aega."
+    },
+    "findTheSame": {
+      "guidance": "Vaadake ülemist pilti. Puudutage allpool samasugust.",
+      "yes": "Jah, samasugune {name|lower}.",
+      "next": "Järgmine pilt"
+    },
+    "shadowMatch": {
+      "guidance": "Vaadake ülemist varju. Puudutage pilti, mis selle varju heidab.",
+      "yes": "Jah, {name|lower} heidab selle varju.",
+      "next": "Järgmine vari",
+      "shadowAlt": "Sobitatav vari",
+      "foundAlt": "Pildi {name|lower} vari"
+    },
+    "sortTogether": {
+      "guidance": "Puudutage pilti, seejärel puudutage korvi, kuhu see kuulub.",
+      "restart": "Uued pildid",
+      "themeLegend": "Teema",
+      "selected": "{name}. Nüüd puudutage korvi, kuhu see käib.",
+      "pickFirst": "Kõigepealt puudutage pilti, seejärel korvi.",
+      "hint": "{name|lower} võiks sobida korvi „{basket}“. Selle sinna panemiseks puudutage seda korvi.",
+      "placed": "{name|lower} on korvis „{basket}“.",
+      "sorted": "Kõik on sorditud. Vaadake koos korve või proovige teist teemat.",
+      "basket": {
+        "one": "Korv „{basket}“, sees on {count} pilt",
+        "other": "Korv „{basket}“, sees on {count} pilti"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Puudutage ühte tükki, seejärel teist. Need vahetavad kohad.",
+      "restart": "Segage uuesti",
+      "pictureLegend": "Pilt",
+      "pictures": {
+        "sailboat": "Purjekas",
+        "house": "Maja",
+        "balloon": "Õhupall",
+        "sunflower": "Päevalill",
+        "lighthouse": "Tuletorn",
+        "cat": "Kass"
+      },
+      "sizeLegend": "Tükid",
+      "size": {
+        "one": "{n} tükk",
+        "other": "{n} tükki"
+      },
+      "pickedUp": "Tükk on valitud. Nüüd puudutage kohta, kuhu see peaks minema.",
+      "whole": "{name|lower} on jälle koos. Valige teine pilt, millal iganes soovite.",
+      "swapped": {
+        "one": "Vahetatud. {correct} tükk {total}-st on omal kohal.",
+        "other": "Vahetatud. {correct} tükki {total}-st on omal kohal."
+      },
+      "guideAlt": "Terviklik pilt: {name}",
+      "guideText": "Nii näeb pilt välja tervikuna.",
+      "piece": "Tükk asukohas {place}",
+      "pieceInPlace": ", õiges kohas",
+      "piecePickedUp": ", valitud",
+      "places4": [
+        "üleval vasakul",
+        "üleval paremal",
+        "all vasakul",
+        "all paremal"
+      ],
+      "places9": [
+        "üleval vasakul",
+        "üleval keskel",
+        "üleval paremal",
+        "keskel vasakul",
+        "keskel",
+        "keskel paremal",
+        "all vasakul",
+        "all keskel",
+        "all paremal"
+      ],
+      "done": "Pilt on jälle koos. Mängige uuesti või tehke paus.",
+      "playAgain": "Segage uuesti läbi"
+    },
+    "finishTheSaying": {
+      "guidance": "Lugege vanasõna koos, seejärel puudutage sõna, mis selle lõpetab.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Jah, „{start} {end}“.",
+      "otherEnding": "Ka „{word}“ sobib hästi. Tavapärane vanasõna lõppeb sõnaga „{end}“.",
+      "revealed": "Vanasõna kõlab nii: „{start} {end}“.",
+      "choicesLabel": "Valige viimane sõna",
+      "show": "Näidake lõppu",
+      "talk": "Vestelge sellest: ",
+      "next": "Järgmine ütlus"
+    },
+    "wordSearch": {
+      "guidance": "Sõnad jooksevad risti või ülevalt alla. Puudutage sõna esimest tähte ja seejärel viimast tähte.",
+      "restart": "Uus mõistatus",
+      "themeLegend": "Teema",
+      "sizeLegend": "Ruudustiku suurus",
+      "size": {
+        "one": "{n} × {n} ({words} sõna)",
+        "other": "{n} × {n} ({words} sõna)"
+      },
+      "print": "Printige see mõistatus",
+      "letterChosen": "Täht {letter} on valitud. Nüüd puudutage sõna viimast tähte.",
+      "found": "Sõna {word} on leitud.",
+      "foundAll": "Sõna {word} on leitud. Kõik sõnad on leitud. Mängige uuesti või tehke paus.",
+      "tryAgain": "Võtke aega. Puudutage sõna esimest tähte ja seejärel viimast tähte.",
+      "gridLabel": "Täheruudustik, {n} rida ja {n} veergu. Tähtede vahel liikumiseks kasutage nooleklahve.",
+      "cell": "{letter}, rida {row}, veerg {col}",
+      "cellFound": ", osa leitud sõnast",
+      "wordsHeading": "Otsitavad sõnad",
+      "wordFound": " (leitud)",
+      "sheetTitle": "Sõnaotsing: {theme}",
+      "sheetNote": "Sõnad jooksevad risti või ülevalt alla.",
+      "unavailable": "Täheruudustik ei sobi selle keelega, mistõttu sõnaotsingut siin ei pakuta. Proovige selle asemel pildimänge."
+    },
+    "coloring": {
+      "guidance": "Puudutage värvi, seejärel puudutage pildi osa.",
+      "restart": "Puhastage värvid",
+      "cleared": "Leht on jälle puhas.",
+      "pageLegend": "Värvimisleht",
+      "print": "Printige see leht",
+      "colorsLabel": "Värvid",
+      "paintChosen": "Värv {paint} on valitud.",
+      "painted": "{part} on nüüd {paint|lower}.",
+      "artLabel": "{page}, värvida on {count} osa",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, värvimata",
+      "paints": {
+        "red": "Punane",
+        "orange": "Oranž",
+        "yellow": "Kollane",
+        "green": "Roheline",
+        "blue": "Sinine",
+        "purple": "Lilla",
+        "pink": "Roosa",
+        "brown": "Pruun",
+        "sky-blue": "Taevasinine",
+        "cream": "Kreemvalge",
+        "gray": "Hall",
+        "white": "Valge"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lugege kaart valjusti ette. Õigeid ega valesid vastuseid ei ole.",
+      "position": "Kaart {n} / {total}",
+      "themeLegend": "Teema",
+      "next": "Järgmine kaart",
+      "previous": "Eelmine kaart",
+      "print": "Printige kõik kaardid",
+      "sheetTitle": "Vestluskaardid"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Alustage oma fotode valimisega.",
+      "guidance": "Puudutage fotot, seejärel puudutage selle paarilist.",
+      "restart": "Segage need uuesti",
+      "intro": "**Valige sellest seadmest 2 kuni 6 fotot**. Neid kuvatakse ainult sellel lehel ning neid ei laadita kunagi üles ega salvestata.",
+      "choose": "Valige fotod",
+      "chooseDifferent": "Valige teised fotod",
+      "clear": "Eemaldage fotod",
+      "cleared": "Fotod on sellelt lehelt eemaldatud.",
+      "atLeastTwo": "Palun valige vähemalt kaks fotot.",
+      "usingFirst": "Kasutatakse esimesi {max} fotot.",
+      "skipped": {
+        "one": "{count} fail ei olnud foto, mida saaksime näidata.",
+        "other": "{count} faili ei olnud fotod, mida saaksime näidata."
+      },
+      "playAgain": "Mängige uuesti nende samade fotodega",
+      "empty": "Teie fotod ilmuvad siia, igaüks kaks korda."
+    },
+    "pictureBingo": {
+      "guidance": "Printige esmalt kaardid välja. Seejärel kuvage see loosija oma suurimal ekraanil.",
+      "called": {
+        "one": "{name}. {called} pilt {total}-st on hüütud.",
+        "other": "{name}. {called} pilti {total}-st on hüütud."
+      },
+      "start": "Esimese pildi hüüdmiseks puudutage „Järgmine pilt“.",
+      "restart": "Alustage uut mängu",
+      "squaresLegend": "Ruute igal kaardil",
+      "squares": "{n} ruutu ({side} × {side})",
+      "cardsLegend": "Mitu kaarti printida",
+      "cards": {
+        "one": "{n} kaart",
+        "other": "{n} kaarti"
+      },
+      "print": {
+        "one": "Printige {n} bingokaart",
+        "other": "Printige {n} bingokaarti"
+      },
+      "ready": "Alustage, kui olete valmis",
+      "next": "Järgmine pilt",
+      "allCalled": "Kõik pildid on välja hüütud",
+      "alreadyCalled": "Juba välja hüütud",
+      "sheetTitle": "Pildibingo · kaart {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Hingake sisse, kui ring suureneb, ja välja, kui see kahaneb. Harjutus lõpeb ise pärast kuut hingetõmmet.",
+      "paceLegend": "Tempo",
+      "paceSlow": "Aeglane (5 sekundit sisse ja välja)",
+      "paceGentle": "Rahulik (4 sekundit sisse ja välja)",
+      "ready": "Alustage, kui olete valmis",
+      "in": "Hingake sisse",
+      "hold": "Puhake",
+      "out": "Hingake välja",
+      "start": "Alusta",
+      "stop": "Peata",
+      "started": "Alustatud. Hingake sisse, kui ring suureneb.",
+      "stopped": "Peatatud.",
+      "finished": "See oli kuus rahulikku hingetõmmet. Alustage uuesti, millal soovite."
+    }
+  },
+  "pictures": {
+    "teacup": "Teetass",
+    "kettle": "Veekeetja",
+    "bread": "Leivapäts",
+    "frying-pan": "Praepann munaga",
+    "cake": "Sünnipäevatort",
+    "sunflower": "Päevalill",
+    "tulip": "Punane tulp",
+    "watering-can": "Kastekann",
+    "potted-plant": "Toataim",
+    "tree": "Puu",
+    "bird": "Punarind oksal",
+    "butterfly": "Liblikas",
+    "dog": "Koer",
+    "cat": "Kass",
+    "fish": "Kuldkala",
+    "apple": "Punane õun",
+    "pear": "Pirn",
+    "strawberry": "Maasikas",
+    "banana": "Banaan",
+    "lemon": "Sidrun",
+    "cherries": "Kirsid",
+    "house": "Maja",
+    "lamp": "Laualamp",
+    "armchair": "Tugitool",
+    "key": "Vana võti",
+    "umbrella": "Vihmavari",
+    "sailboat": "Purjekas",
+    "car": "Vana auto",
+    "bicycle": "Jalgratas",
+    "balloon": "Kuumaõhupall",
+    "lighthouse": "Tuletorn",
+    "sun": "Päike",
+    "moon": "Kuu ja tähed",
+    "teapot": "Teekann",
+    "apple-pie": "Õunapirukas",
+    "honey-jar": "Meepurk",
+    "boiled-egg": "Muna munatopsis",
+    "toaster": "Röster",
+    "cheese": "Juustutükk",
+    "milk-jug": "Piimakann",
+    "cupcake": "Tassikook",
+    "orange": "Apelsin",
+    "grapes": "Viinamarjakobar",
+    "watermelon": "Arbuusiviil",
+    "pineapple": "Ananass",
+    "peach": "Virsik",
+    "rose": "Roos",
+    "daisies": "Karikakrad",
+    "mushroom": "Seen",
+    "wheelbarrow": "Aiakäru",
+    "birdhouse": "Pesakast",
+    "cactus": "Kaktus potis",
+    "acorn": "Tammetõru",
+    "autumn-leaf": "Sügisleht",
+    "rabbit": "Küülik",
+    "duck": "Part",
+    "hen": "Kana",
+    "sheep": "Lammas",
+    "owl": "Öökull",
+    "ladybird": "Lepatriinu",
+    "snail": "Tigu",
+    "frog": "Konn",
+    "bee": "Mesilane",
+    "clock": "Kaminakell",
+    "vase-of-flowers": "Vaas lilledega",
+    "radio": "Vana raadio",
+    "books": "Raamatuvirn",
+    "candle": "Küünal",
+    "glasses": "Lugemisprillid",
+    "telephone": "Telefon",
+    "ball-of-wool": "Lõngakera",
+    "straw-hat": "Päikesekübar",
+    "train": "Aururong",
+    "bus": "Buss",
+    "airplane": "Lennuk",
+    "suitcase": "Kohver",
+    "tractor": "Traktor",
+    "rowing-boat": "Sõudepaat",
+    "rainbow": "Vikerkaar",
+    "rain-cloud": "Vihmapilv",
+    "snowflake": "Lumehelves",
+    "kite": "Tuulelohe",
+    "sunrise": "Päikesetõus küngaste kohal"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEGHIKLMNOPRSTUVÕÄ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Puuviljad",
+          "words": [
+            "ÕUN",
+            "PIRN",
+            "PLOOM",
+            "SIDRUN",
+            "BANAAN",
+            "VIRSIK",
+            "MELON",
+            "LAIM",
+            "KIRSS"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Aed",
+          "words": [
+            "ROOS",
+            "TULP",
+            "SEEME",
+            "MULD",
+            "LEHT",
+            "PUU",
+            "TIIK",
+            "LILL",
+            "MURU"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Köök",
+          "words": [
+            "TASS",
+            "NUGA",
+            "LEIB",
+            "PANN",
+            "KAUSS",
+            "POTT",
+            "TEE",
+            "AHI",
+            "KAHVEL"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Ilm",
+          "words": [
+            "PÄIKE",
+            "VIHM",
+            "LUMI",
+            "TUUL",
+            "PILV",
+            "TORM",
+            "UDU",
+            "RAHE",
+            "VÄLK"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Loomad",
+          "words": [
+            "KOER",
+            "KASS",
+            "LIND",
+            "KALA",
+            "HOBUNE",
+            "LEHM",
+            "PART",
+            "KITS",
+            "KANA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Kodu",
+          "words": [
+            "UKS",
+            "TOOL",
+            "LAMP",
+            "VOODI",
+            "VAIP",
+            "DIIVAN",
+            "KELL",
+            "LAUD",
+            "VÕTI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kõik kaardid",
+        "food": "Toit",
+        "home": "Kodu",
+        "outdoors": "Õues",
+        "animals": "Loomad",
+        "travel": "Reisid ja väljasõidud",
+        "work": "Töö ja hobid",
+        "music": "Muusika ja meelelahutus",
+        "seasons": "Aastaajad"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Milline köögilõhn teile kõige rohkem meeldib?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Millise tordi te peo tähistamiseks valiksite?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Rääkige oma lemmikust puuviljakoogist või magustoidust."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Kuidas teile meeldib teed või kohvi juua?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Mis teeb ühest hommikusöögist tõeliselt hea?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Kas olete kunagi marju või puuvilju otse puult või põõsalt noppinud?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Kumb teile rohkem maitseb, magus või hapu?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Milline toit toob teile meelde suve maitse?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Rääkige mõnest kodust, kus teile meeldis elada."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Kus on teie lemmikpaik istumiseks ja puhkamiseks?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Mida teile meeldib teha vaiksel õhtul?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Millist armsat asja hoiaksite erilises karbis?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Kelle te hea meelega tassi teed jooma kutsuksite?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Mida teile meeldib vihmasel päeval teha?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Milliseid lilli te aeda istutaksite?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Rääkige mõnest puust või pargist, mis teile meeldib."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Mis teile aias olemise juures kõige rohkem rõõmu teeb?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Mis värvi lilled teile kõige rohkem meeldivad?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Kas teile meeldib, kui toas on taimi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Milline oleks teie meelest üks täiuslik päikeseline päev?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Rääkige mõnest koerast, keda olete tundnud."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Kassid või koerad, või hoopis mõni muu loom? Mis teile nende juures meeldib?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Milliseid linde te õues näete või kuulete?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Kas olete käinud kalal või pidanud akvaariumi?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Milline on kõige ilusam loom, keda olete näinud?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Rääkige mõnest autost, mis teile meeldis."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Kas veedaksite päeva meelsamini rannas või mägedes?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Kuhu teile meeldiks sõitma minna?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Kui saaksite lennata ükskõik millise paiga kohal, siis mis paik see oleks?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Rääkige mõnest reisist või väljasõidust, mis teile väga meeldis."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Millist tööd on teile meeldinud teha?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Mis on selline hobi, millega võiksite tunde tegeleda?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Mille valmistamise või parandamise poolest teid tunti?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Mis nõu annaksite noorele inimesele, kes alustab tööelu?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Milline muusika paneb teil jala kaasa tatsuma?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Mis teeb ühest peost tõeliselt toreda peo?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Kes on laulja, keda teile meeldib kuulata?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Millist filmi või telesaadet teile meeldib ikka ja jälle vaadata?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Mis teile suve juures kõige rohkem meeldib?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Mis teeb teile rõõmu sügise juures?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Mida on teie meelest talveõhtul eriti mõnus teha?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Millised on teie jaoks esimesed kevade märgid?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Lumi, vihm või päike: mida teie eelistate?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Lill potis",
+          "regions": {
+            "sky": "Taust",
+            "table": "Laud",
+            "stem": "Vars",
+            "leaf-left": "Vasak leht",
+            "leaf-right": "Parem leht",
+            "petal-1": "Kroonleht 1",
+            "petal-2": "Kroonleht 2",
+            "petal-3": "Kroonleht 3",
+            "petal-4": "Kroonleht 4",
+            "petal-5": "Kroonleht 5",
+            "petal-6": "Kroonleht 6",
+            "petal-7": "Kroonleht 7",
+            "petal-8": "Kroonleht 8",
+            "center": "Õiesüdamik",
+            "pot": "Pott",
+            "pot-rim": "Poti serv"
+          }
+        },
+        "house": {
+          "name": "Maja",
+          "regions": {
+            "sky": "Taevas",
+            "sun": "Päike",
+            "grass": "Muru",
+            "chimney": "Korsten",
+            "walls": "Seinad",
+            "roof": "Katus",
+            "door": "Uks",
+            "window-left": "Vasak aken",
+            "window-right": "Parem aken",
+            "path": "Teerada"
+          }
+        },
+        "teacup": {
+          "name": "Teetass",
+          "regions": {
+            "background": "Taust",
+            "saucer": "Alustass",
+            "handle": "Sang",
+            "cup": "Tass",
+            "band": "Triip tassil",
+            "tea": "Tee"
+          }
+        },
+        "butterfly": {
+          "name": "Liblikas",
+          "regions": {
+            "background": "Taust",
+            "wing-top-left": "Ülemine vasak tiib",
+            "wing-top-right": "Ülemine parem tiib",
+            "wing-bottom-left": "Alumine vasak tiib",
+            "wing-bottom-right": "Alumine parem tiib",
+            "spot-left": "Täpp vasakul tiival",
+            "spot-right": "Täpp paremal tiival",
+            "body": "Keha"
+          }
+        },
+        "sailboat": {
+          "name": "Purjekas",
+          "regions": {
+            "sky": "Taevas",
+            "sea": "Meri",
+            "sail-big": "Suur puri",
+            "sail-small": "Väike puri",
+            "mast": "Mast",
+            "hull": "Paat",
+            "flag": "Lipp"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Köök ja aed",
+          "baskets": [
+            "Köögis",
+            "Aias"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Puuviljad ja loomad",
+          "baskets": [
+            "Puuviljad",
+            "Loomad"
+          ]
+        },
+        "home-travel": {
+          "label": "Kodu ja reisimine",
+          "baskets": [
+            "Kodus",
+            "Kodust väljas"
+          ]
+        }
+      }
+    }
+  }
+}

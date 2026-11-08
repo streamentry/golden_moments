@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND- en Mediterreense diëte en demensie: Wat navorsing sê"
+seoTitle: "MIND-dieet en demensie: Wat navorsing sê"
+description: "Wat navorsing sê oor die MIND- en Mediterreense diëte en demensie, hoekom ’n groot proef geen duidelike voordeel gevind het nie, en hoe om iemand te help eet."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Waarnemingstudies verbind Mediterreense en MIND-diëte met ’n laer risiko vir
+  demensie, maar nie altyd nie. ’n Driejaar lange ewekansige proef oor die
+  MIND-dieet wat in 2023 gepubliseer is, het geen betekenisvolle verskil in
+  denkvermoë of breinskanderings gevind vergeleke met ’n kontroledieet nie. Geen
+  kos of aanvulling voorkom bewese demensie nie. Vir mense wat met demensie leef,
+  is dit die belangrikste om genoeg te eet en te drink.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Sommige, maar nie alle studies wat mense oor tyd volg nie, verbind Mediterreense en MIND-eetpatrone met ’n laer risiko vir demensie."
+  - "In ’n 2023-studie onder 604 ouer volwassenes het mense op die MIND-dieet ná drie jaar nie beter op denktoetse of breinskanderings gevaar as mense op ’n kontroledieet nie."
+  - "Die National Institute on Aging sê daar is geen bewyse dat die eet of vermyding van ’n spesifieke kossoort Alzheimer se siekte kan voorkom nie, en geen vitamien of aanvulling voorkom dit bewese nie."
+  - "’n Dieet ryk aan groente, vrugte, boontjies, volgraan en vis ondersteun hartgesondheid en kan help met risikofaktore soos hoë bloeddruk en diabetes."
+  - "Vir mense wat met demensie leef, is vingerkos, kontrasterende borde, rustige etes en gereelde drinkgoed dikwels belangriker as enige spesifieke dieet."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Voorkom die MIND-dieet demensie?"
+    a: "Daar is geen bewyse daarvoor nie. Waarnemingstudies het die MIND-dieet met ’n laer risiko verbind, maar ’n driejaar lange ewekansige proef wat in 2023 gepubliseer is, het geen betekenisvolle verskil in denktoetse of breinskanderings tussen mense op die MIND-dieet en mense op ’n kontroledieet gevind nie. Albei groepe het effens verbeter en ongeveer ewe veel gewig verloor."
+  - q: "Wat is die verskil tussen die MIND-dieet en die Mediterreense dieet?"
+    a: "Die Mediterreense dieet fokus op groente, vrugte, volgraan, boontjies, vis en olyfolie, met min rooivleis of soetgoed. Die MIND-dieet kombineer dit met die DASH-dieet vir bloeddruk en plaas ekstra klem op groen blaargroente en bessies, terwyl dit rooivleis, soetgoed, kaas, botter en gebraaide kos beperk."
+  - q: "Is daar kossoorte of aanvullings wat Alzheimer se siekte voorkom?"
+    a: "Nee. Die National Institute on Aging sê daar is geen bewyse dat die eet of vermyding van enige spesifieke kossoort Alzheimer se siekte of ouderdomsverwante agteruitgang kan voorkom nie, en geen vitamien of aanvulling voorkom dit bewese nie. Praat met ’n dokter voordat jy aanvullings neem."
+  - q: "Watter kosse is die maklikste vir iemand met demensie om te eet?"
+    a: "Happiegrootte vingerkos soos toebroodjiestukke, hoenderstukkies, lemoensegmente of gestoomde groentestukke is dikwels makliker as om eetgerei te gebruik. As kou of sluk moeilik is, kan sagte kos soos roereier, appelmoes of maaskaas help. Vra die dokter vir ’n slukevaluasie as die persoon hoes of verstik."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,90 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Jy het dalk al gelees dat ’n „breingesonde” dieet Alzheimer se siekte kan weghou. Die werklikheid is meer beskeie. Sommige eetpatrone word verbind met ’n laer risiko in studies wat mense oor tyd volg, maar die beste wetenskaplike proef tot dusver het geen duidelike voordeel gevind nie. Hierdie bladsy verduidelik albei kante en kyk dan na wat gewoonlik die belangrikste is vir iemand wat reeds met demensie leef: om genoeg te eet en te drink, en dit te geniet.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Hierdie is algemene inligting, nie mediese raad nie. Praat met ’n dokter of geregistreerde dieetkundige voordat jy jou eie dieet of iemand anders s’n verander. Sien ons [mediese vrywaring](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Wat is die Mediterreense en MIND-diëte?
 
-The National Institute on Aging (NIA) describes them this way
+Die National Institute on Aging (NIA) beskryf hulle so
 ([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Mediterreense dieet:** baie vrugte, groente, volgraan, boontjies, vis en seekos, en olyfolie, met klein hoeveelhede rooivleis, eiers en soetgoed.
+- **MIND-dieet** (Mediterranean–DASH Intervention for Neurodegenerative Delay): ’n mengsel van die Mediterreense dieet en die DASH-dieet vir bloeddruk. Dit fokus op groente, veral groen blaargroente; bessies; volgraan; boontjies; neute; vis ten minste een keer per week; en olyfolie. Dit beperk rooivleis, soetgoed, kaas, botter of margarien, en gebraaide of kitskos.
 
-## Do these diets lower dementia risk?
+## Verlaag hierdie diëte die risiko vir demensie?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Die bewyse is gemeng. Die NIA sê sommige, maar nie alle waarnemingstudies nie, verbind die Mediterreense en MIND-diëte met ’n laer risiko vir demensie vergeleke met ’n Westerse eetpatroon wat ryker is aan rooivleis, versadigde vette en suiker.
 
-The 2024 Lancet Commission reviewed the research in more detail
+Die 2024 Lancet-kommissie het die navorsing in meer besonderhede nagegaan
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Een oorsig van kohortstudies het ’n hoë dieetgehalte verbind met ’n ongeveer 20%-laer risiko vir demensie.
+- ’n Groter ontleding van drie kohorte het ’n strenger navolging van die MIND-dieet met ’n laer risiko verbind.
+- Maar ’n Sweedse studie wat 28 025 mense van middeljarige ouderdom vir sowat 20 jaar gevolg het, het geen laer risiko gevind met óf aanbevole diëte óf ’n Mediterreense dieet nie.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Waarnemingstudies kan nie oorsaak en gevolg bewys nie. Mense wat so eet, verskil dikwels ook op ander maniere, soos inkomste, opvoeding, oefening en toegang tot gesondheidsorg. Die kommissie het bevind dat daar nie genoeg bewyse is om te sê gesonde diëte voorkom demensie direk nie, al is baie vrugte en groente en minder ultra-geprosesseerde kos goed vir baie gesondheidstoestande en beïnvloed dit risikofaktore soos vetsug, diabetes en hoë bloeddruk. Hulle het dieet nie by hul lys van [14 risikofaktore](/brain-health/risk-factors/) ingesluit nie.
 
-## What did the 2023 MIND diet trial find?
+## Wat het die 2023-studie oor die MIND-dieet bevind?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
+Die deeglikste toets tot dusver was ’n ewekansige gekontroleerde proef wat in 2023 in die New England Journal of Medicine gepubliseer is
 ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Wie:** 604 volwassenes van 65 jaar en ouer in die Chicago- en Boston-omgewing, sonder denkprobleme, wat ’n nabye familielid met demensie gehad het, oorgewig was en aanvanklik ’n minder gesonde dieet gevolg het.
+- **Wat:** vir drie jaar het die helfte die MIND-dieet gevolg en die ander helfte hul gewone dieet. Albei groepe is gevra om sowat 250 kilokalorieë minder per dag in te neem en het gereelde leiding van geregistreerde dieetkundiges ontvang.
+- **Uitslag:** tellings op denktoetse het in **albei** groepe effens verbeter. Die verskil tussen die groepe was klein en **nie statisties betekenisvol nie**. Breinskanderings het ook soortgelyke veranderinge in albei groepe getoon.
+- **Gewig:** albei groepe het sowat 5 kilogram (ongeveer 11 pond) verloor.
 
-### Why might the trial have found no difference?
+### Waarom het die proef dalk geen verskil gevind nie?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Die navorsers het verskeie redes voorgestel. Die kontrolegroep het waarskynlik ook hul eetgewoontes verbeter, aangesien hulle ongeveer ewe veel gewig verloor het. Herhaalde toetse kan op sigself tellings verbeter namate mense aan die toetse gewoond raak. Drie jaar is dalk te kort. Die meeste deelnemers was goed opgevoed en van Europese afkoms, so die resultate geld dalk nie vir almal nie.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Die eerlike slotsom is dus: die MIND-dieet het oor drie jaar nie beter gevaar as ’n verstandige dieet met minder kilokalorieë nie. Dit beteken nie dat gesonde eetgewoontes nutteloos is nie. Dit beteken net dat niemand moet verwag dat ’n spesifieke dieet demensie sal voorkom nie.
 
-## What about specific foods and supplements?
+## Wat van spesifieke kosse en aanvullings?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
+Die NIA sê daar is geen bewyse dat die eet of vermyding van enige spesifieke kossoort Alzheimer se siekte of ouderdomsverwante agteruitgang kan voorkom nie. Bloubessies, blaargroente en borrie is almal nagevors, sonder bewys. Die NIA sê ook dat geen vitamien of aanvulling bewese Alzheimer se siekte voorkom nie, en niks word vir daardie doel aanbeveel nie. Die NIA waarsku dat onbewese produkte wat verkoop word om Alzheimer se siekte te voorkom, dalk onveilig is, ’n vermorsing van geld kan wees, of albei, en met voorskrifmedikasie kan inmeng; raadpleeg dus ’n dokter voor jy enigiets probeer
 ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Hoe kan etes gesond en lekker bly?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Vir die meeste ouer volwassenes is die doel om voedsame, bekende en smaaklike kos te geniet, nie om ’n streng plan te volg nie:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Bou etes om kosse waarvan jy hou** uit die Mediterreense patroon: groente, vrugte, boontjies, volgraan, vis en olyfolie.
+- **Behou gunstelingbederfies.** Genot en eetlus maak saak, veral later in die lewe.
+- **Eet saam met ander** wanneer jy kan. Gedeelde maaltye bied goeie geselskap.
+- **Kook saam.** Om groente te was of in ’n pot te roer is ’n goeie gedeelde aktiwiteit; sien [takies in die huis](/activities/household-tasks/). ’n Gunsteling-familieresep kan ook [herinneringe](/activities/reminiscence/) na vore bring.
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Ouer volwassenes moenie kilokalorieë drasties sny of gewig probeer verloor sonder om met ’n dokter te praat nie, en vas hou ekstra risiko’s in. Sien ons [gids oor vas](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Hoe kan jy iemand met demensie help om goed te eet?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
+Vir mense wat met demensie leef, is dit gewoonlik die vernaamste bekommernis om **genoeg** te eet en te drink. Die Alzheimer's Association wys daarop dat mense dalk vergeet om te eet, dink hulle het reeds geëet, of oorweldig voel deur te veel keuses, en dat swak voeding gedragsimptome kan vererger en gewigsverlies kan veroorsaak
 ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Hierdie wenke kom van die Alzheimer's Association, die NIA en die Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
+1. **Bied vingerkos aan.** Happiegrootte stukkies wat maklik is om op te tel, soos stukkies toebroodjie, hoenderstukkies, visvingers, lemoensegmente of gestoomde broccoli, stel ’n mens in staat om self te eet sonder eetgerei.
+2. **Gebruik kontras op die tafel.** Veranderinge in sig kan dit moeilik maak om die kos van die bord te onderskei. Wit borde of bakke op ’n kontrasterende plekmatjie kan help. Vermy breekware en tafeldoeke met patrone.
+3. **Bedien een of twee soorte kos op ’n slag.** ’n Vol bord kan oorweldigend wees.
+4. **Hou etenstye rustig.** Skakel die TV af, hou die tafel eenvoudig en ruim genoeg tyd in. Die NIA stel voor dat jy nie jaag of druk op die persoon plaas nie.
+5. **Bied gereeld klein etes en peuselhappies aan.** Die NIA stel kleiner, meer gereelde etes en kalorieryke peuselhappies voor as die persoon nie genoeg eet nie
    ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+6. **Help met drinkgoed.** Bied deur die dag klein koppies water of ander vloeistowwe aan, asook kos met baie water soos vrugte, sop, melkskommels en vrugteskommels. As die persoon nie water wil hê nie, stel die NIA voor om sap, gegeurde water, aftreksel, melk, of kafeïenvrye koffie of tee te probeer.
+7. **Toets die temperatuur.** ’n Mens merk dalk nie op dat kos of drinkgoed te warm is nie.
+8. **Pas eetgerei en bekers aan.** Bakke in plaas van borde, lepels met dik handvatsels en bekers met deksels kan help om makliker te eet. Moenie bekommerd wees oor netheid nie.
+9. **Maak kos makliker om te kou en te sluk.** Sny kos in klein stukkies of bied sagte kos aan. As die persoon hoes of verstik wanneer hulle eet, sê dit vir hul dokter.
+10. **Moenie kos afforseer nie.** Die NIA noem dat eetlus natuurlikerwys afneem in die latere stadiums van Alzheimer se siekte.
 
-### Signs to tell the doctor about
+### Tekens om met die dokter te bespreek
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
+Gewigsverlies, weiering om te eet, moegheid of swakheid kan tekens wees dat iemand nie genoeg eet nie. Die Alzheimer's Society wys daarop dat seer tande of vals tande, depressie, hardlywigheid en veranderinge in medikasie almal eetlus kan demp
 ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
+Tekens van ontwatering wat deur die NIA gelys word, sluit in ’n droë mond, duiseligheid, ’n vinnige hartklop en hallusinasies
 ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Praat met ’n dokter
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Voordat jy groot veranderinge aan jou eie dieet of iemand anders s’n maak, praat met ’n dokter of geregistreerde dieetkundige, veral as jy diabetes, niersiekte, slukprobleme of onlangse gewigsverlies het. Vir iemand wat met demensie leef, vra hoeveel hulle elke dag behoort te probeer eet en drink, en of ’n dieetkundige of aanvullings dalk kan help.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Kry dadelik noodhulp as iemand verstik, skielik verward raak, baie duiselig word of flou val.

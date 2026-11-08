@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Gratis Drukbare Aktiwiteite vir Demensie"
+seoTitle: "Gratis Drukbare Aktiwiteite vir Demensie: Groot Druk"
+description: "Gratis drukbare aktiwiteite vir demensie: grootdruk-woordsoek, inkleurprente, gespreksprente en prentjie-bingo, plus wenke om dit goed te druk."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments bied gratis drukbare aktiwiteite vir demensie: 'n
+  grootdruk-woordsoek, inkleurprente, prentjie-gesprekskaarte en
+  prentjie-bingokaarte. Maak enige speletjiebladsy oop en gebruik die
+  Print-knoppie. Druk in groot, eenvoudige skrif op stewige papier, hou by een
+  taak per bladsy, en lamineer bladsye wat jy weer wil gebruik. Eenvoudige
+  tuisgemaakte velle, soos 'n lewensverhaal-bladsy of 'n daaglikse skedule,
+  help ook.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Ons drukbare aktiwiteite is gratis: Woordsoek, Inkleur, Gesprekskaarte en Prentjie-bingo. Elke speletjiebladsy het 'n Print-knoppie."
+  - "Druk in groot, eenvoudige skrif met sterk kontras, en hou by een taak per bladsy."
+  - "Swaarder papier of karton is makliker om vas te hou en kreukel nie so maklik nie. Lamineer bladsye om hulle weer met witskordpenne te gebruik."
+  - "Tuisgemaakte drukwerk soos 'n lewensverhaal-bladsy, 'n daaglikse skedule of prentjie-etikette vir deure is eenvoudig en nuttig."
+  - "'n Gedrukte bladsy is 'n uitnodiging, nie huiswerk nie. Om net 'n deel daarvan te doen, of glad niks nie, is heeltemal reg."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Is julle drukbare aktiwiteite vir demensie gratis?"
+    a: "Ja. Die bladsye vir Woordsoek, Inkleur, Gesprekskaarte en Prentjie-bingo op hierdie webwerf is gratis om te gebruik en te druk. Maak die speletjiebladsy oop en gebruik die Print-knoppie."
+  - q: "Watter drukbare aktiwiteite is die beste vir mense met demensie?"
+    a: "Die beste drukbare aktiwiteite is eenvoudig, duidelik en geskik vir volwassenes: 'n grootdruk-woordsoek met woorde wat slegs dwars en af loop, inkleurprente met duidelike buitelyne, prentkaarte wat 'n gesprek aan die gang sit, en prentjie-bingo vir groepe. Pas die aktiwiteit aan by die persoon se belangstellings en huidige vermoëns, en hou by een taak per bladsy."
+  - q: "Hoe maak ek drukwerk makliker om te sien en te gebruik?"
+    a: "Gebruik groot, eenvoudige skrif, donker ink op wit of roomkleurige papier, en baie oop ruimte. Druk op swaarder papier of karton sodat die bladsy plat bly, kies mat papier om weerkaatsing te verminder, en gebruik 'n klembord of glyvaste matjie sodat die bladsy nie rondgly nie. Bladbeskerming of laminering laat bladsye langer hou."
+  - q: "Mag ek julle aktiwiteite vir 'n versorgingsoord of dagprogram druk?"
+    a: "Ja. Aktiwiteitspersoneel is baie welkom om ons bladsye vir inwoners en groepe te druk. Prentjie-bingo is spesiaal vir groepe ontwerp en bevat 'n aanroeper op die skerm wat jy op 'n TV of projektor kan vertoon."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Soms is die beste aktiwiteit 'n vel papier en 'n pen by die kombuistafel. Drukwerk het geen batterye wat gelaai moet word nie, geen wagwoorde en geen skerm nie, en dit is maklik om saam te neem na 'n kuier of 'n groep. Hierdie bladsy beskryf die gratis drukbare aktiwiteite op ons webwerf, hoe om hulle te druk sodat dit maklik is om te sien en vas te hou, en 'n paar eenvoudige tuisgemaakte drukbare items wat gesinne en aktiwiteitspersoneel nuttig vind.
 
-## What free printable activities do you offer?
+## Watter gratis drukbare aktiwiteite bied julle aan?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Ons bied vier gratis drukbare aktiwiteite aan. Maak enige van hierdie speletjiebladsye oop en gebruik die **Print**-knoppie om 'n drukervriendelike weergawe te kry.
 
-| Printable | What it is | Good for |
+| Drukbare aktiwiteit | Wat dit is | Goed vir |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | 'n Grootdruk-woordsoek met woorde wat slegs dwars en af loop | Rustige tyd met 'n pen; iemand wat van raaisels gehou het |
+| [Coloring](/games/coloring/) | Inkleurprente om uit te druk, of om op die skerm in te kleur | Ontspanne, kreatiewe tyd; enige stadium met 'n bietjie hulp |
+| [Conversation Cards](/games/conversation-cards/) | Prentkaarte met oop gesprekstemas sonder vasvravrae | Kuiers, telefoonoproepe, gesinsetes, herinneringsgroepe |
+| [Picture Bingo](/games/picture-bingo/) | Bingokaarte met prentjies in plaas van getalle, plus 'n aanroeper op die skerm | Versorgingsoorde, dagprogramme, gesinsbyeenkomste |
 
-### Large-print word search
+### Grootdruk-woordsoek
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+Die [Word Search](/games/word-search/) gebruik groot letters en hou woorde net dwars en af, sonder skuins of agterstevoor woorde. Werk saam daaraan: een persoon lees 'n woord van die lys af, en die ander een soek daarna. As dit moeilik raak om woorde te kry, probeer om saam die eerste letter van elke woord te omkring, of lees bloot die woordelys hardop voor en gesels oor elke woord.
 
-### Coloring pages
+### Inkleurprente
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Coloring](/games/coloring/)-prente kan uitgedruk word vir viltpenne of inkleurpotlode, of op 'n tablet ingekleur word deur 'n kleur te tik en dan 'n deel van die prent aan te raak. Vir gedrukte bladsye kan jy dik viltpenne en net 'n paar kleure op 'n slag aanbied. Kyk na ons [kuns- en handwerkgids](/activities/arts-and-crafts/) vir maniere om inkleur volwasse en ontspanne te hou.
 
-### Conversation cards
+### Gesprekskaarte
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) koppel 'n duidelike prent aan 'n oop aansporing, soos „Vertel my van...“ of „Wat sien jy hier?“ Hulle is geskryf as oop uitnodigings, nie vasvravrae nie. Druk 'n stel uit, knip hulle los, en hou 'n paar in 'n handsak vir kuiers of naby die telefoon vir oproepe. Hulle werk ook baie goed in [herinneringsgroepe](/activities/reminiscence/).
 
-### Picture bingo cards
+### Prentjie-bingokaarte
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Picture Bingo](/games/picture-bingo/)-kaarte gebruik prentjies in plaas van getalle. Druk een kaart per speler en gebruik die aanroeper op die skerm op 'n skootrekenaar, TV of projektor. Ons stel voor dat jy aanhou uitroep totdat almal se kaart vol is, sodat niemand uitgelaat voel nie. Kyk na [groepaktiwiteite vir versorgingsoorde](/activities/care-home-groups/) oor hoe om so 'n sessie aan te bied.
 
-## How do I print activities so they are easy to use?
+## Hoe druk ek aktiwiteite sodat dit maklik is om te gebruik?
 
-Small changes in how you print make a big difference.
+Klein veranderinge aan hoe jy druk, maak 'n groot verskil.
 
-### Make it easy to see
+### Maak dit maklik om te sien
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Groot, eenvoudige skrif.** Gebruik die grootste drukverstelling wat steeds op die bladsy pas. Vermy sierskrifte of kursiewe lettertipes.
+- **Sterk kontras.** Donker ink op wit of roomkleurige papier. Vermy liggrys of gekleurde agtergronde.
+- **Mat papier** verminder glans onder skerp ligte.
+- **Kontroleer brille en beligting.** Die Alzheimer's Association wys daarop dat sig- en gehoorprobleme kommunikasie kan bemoeilik, en stel voor dat dit gereeld getoets word. 'n Helder, egalige lamp help ook.
 
-### Make it easy to hold
+### Maak dit maklik om vas te hou
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Swaarder papier of karton** bly plat, is makliker om op te tel, en hou langer by herhaalde gebruik.
+- **'n Klembord** of glyvaste plekmatjie keer dat die bladsy rondgly.
+- **Dik viltpenne of stewige potlode** is makliker om vas te hou as dun penne.
 
-### Make it reusable
+### Maak dit herbruikbaar
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Lamineer bladsye** of sit hulle in deurskynende plastieksakkies. Gebruik witskordpenne op woordsoeke en bingokaarte, en vee dit daarna skoon.
+- **Kies mat lamineersakkies** as glans 'n probleem is, en **knip die hoeke rond** van gelamineerde kaarte met 'n skêr sodat hulle gemaklik is om te hanteer.
+- **Hou 'n lêer** met gunstelinge sodat jy nie elke week dieselfde bladsy hoef te druk nie.
 
-### Keep it simple
+### Hou dit eenvoudig
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Een taak per bladsy.** 'n Enkele woordsoek of 'n enkele prent, nie verskeie aktiwiteite wat opmekaar gekoek is nie.
+- **Genoeg oop ruimte.** 'n Oorvol bladsy kan oorweldigend voel.
+- **Geen geskrewe instruksies nie, waar moontlik.** Wys liewer vir die persoon wat om te doen.
+- **Maak bladsye kleiner.** As 'n volle bladsy te veel is, knip dit middeldeur of vou dit sodat net 'n deel sigbaar is.
 
-## Other useful printables you can make at home
+## Ander nuttige drukbare items wat jy tuis kan maak
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Nie elke nuttige stuk drukwerk is 'n speletjie nie. Hierdie voorbeelde is maklik om met 'n woordverwerker en 'n drukker te maak.
 
-### A life-story page
+### 'n Lewensverhaal-bladsy
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+'n Enkele „oor my“-bladsy met 'n foto, die naam waarvan die persoon hou om genoem te word, waar hulle grootgeword het, hul werk, familie, gunstelingkos, musiek en dinge wat hulle troos of ontstel. Dementia Australia stel 'n [herinneringsboek](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) voor met besonderhede oor die persoon se lewe, voorkeure en belangrike mense, om besoekers en versorgers te help en om 'n gesprek aan te moedig.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Dit is veral nuttig in hospitale en nuwe sorgomgewings. Die NIA beveel aan om vir hospitaalpersoneel 'n [persoonlike inligtingsblad](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) te gee wat die persoon se roetine, voorkeurnaam, waarvan hulle hou en nie hou nie, moontlike snellers, en nie-verbale tekens van pyn dek.
 
-### A daily schedule
+### 'n Daaglikse skedule
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+'n Groot, eenvoudige skedule vir die dag met tye, 'n paar woorde en 'n klein prentjie vir elke deel: ontbyt, stap, middagete, rus, musiek, aandete. Die Alzheimer's Association se [daaglikse sorgplan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) stel voor dat 'n mens beplan rondom die tye van die dag wanneer die persoon op hul beste voel, met gereelde opstaan- en slaaptye en 'n goeie balans tussen aktiwiteit en rus. Plak dit op ooghoogte op, dalk op die yskas, en hou dit buigsaam. Kyk na ons [daaglikse roetine-gids](/activities/daily-routine/) vir meer inligting.
 
-### Picture labels for rooms and drawers
+### Prentjie-etikette vir vertrekke en laaie
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+Die NIA stel voor om helderkleurige tekens of eenvoudige prente te gebruik om [die badkamer, slaapkamer en kombuis van etikette te voorsien](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Dieselfde idee werk vir laaie en kaste: 'n prentjie van kouse op die kouselaai, koppies op die koppiekas. Druk dit uit, lamineer dit en plak dit met kleefband vas.
 
-### A sorting set
+### 'n Sorteerstel
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Druk prente van twee eenvoudige kategorieë, soos vrugte en blomme of gereedskap en kombuisitems, op karton uit. Knip hulle uit en sorteer hulle saam in twee mandjies. Die weergawe hiervan op die skerm is [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Lirieke van liedjies
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Druk die woorde van 'n paar gunstelingliedjies in baie groot skrif uit om lekker saam te sing. Selfs mense wat nie meer veel lees nie, kan dit dalk geniet om die vel vas te hou.
 
-### A family photo page
+### 'n Gesinsfotobladsy
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+'n Enkele bladsy met vier tot ses groot familiefoto's, elkeen met 'n voornaam daaronder. Dit kan op die tafel lê sodat enigiemand dit kan optel en daaroor kan gesels. Name help besoekers en personeel om by die gesprek aan te sluit, en niemand hoef te vra: „Wie is dit?“ nie.
 
-### A recipe card
+### 'n Resepkaart
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Druk 'n geliefde familieresep in groot skrif uit. Gebruik dit om saam te kook, of net om te gesels oor maaltye uit die verlede.
 
-## How do I offer a printable without it feeling like homework?
+## Hoe bied ek 'n drukbare aktiwiteit aan sonder dat dit soos huiswerk voel?
 
-Present it as something to share, not a test.
+Bied dit aan as iets om te deel, nie as 'n toets nie.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Sit self neer en begin daarmee.** „Ek is besig met hierdie woordsoek. Wil jy my help om ‚tuin‘ te kry?“
+- **Werk saam.** Maak beurte, of een persoon soek en die ander een omkring.
+- **Moet dit nooit reg- of verkeerd merk nie.** Die Alzheimer's Association se gids oor [aktiwiteite by die huis](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) beveel aan om op die proses te fokus en nie op die resultaat nie, en op genot eerder as prestasie.
+- **Los bladsye waar dit gesien kan word.**板 Dieselfde gids stel voor om plakboeke, foto-albums of ou tydskrifte op maklik bereikbare plekke te sit. Gedrukte kaarte en fotobladsye kan op dieselfde manier op 'n sytafeltjie lê.
+- **Hou op wanneer julle wil.** 'n Halwe inkleurprent is 'n heerlike middag. Net so ook om die bladsy weg te sit en 'n koppie tee te geniet.
 
-## Where to find more
+## Waar om meer te vind
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Blaai deur al ons [speletjies en drukbare aktiwiteite](/games/), of kyk na [aktiwiteite vir elke stadium](/activities/ideas/) vir nog idees, met en sonder papier.

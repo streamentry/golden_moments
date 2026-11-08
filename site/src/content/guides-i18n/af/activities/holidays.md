@@ -1,33 +1,33 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Feesdae-aktiwiteite vir iemand met demensie"
+seoTitle: "Feesdae-idees vir iemand met demensie"
+description: "Eenvoudige feesdae-aktiwiteite vir iemand met demensie: kooktake, versiering, musiek, foto's en hoe om 'n rustiger feesseisoen te beplan."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Hou feesdae kleiner, vroeër op die dag en naby die persoon se gewone
+  roetine. Gee vir hulle 'n regte, veilige takie soos tafel dek, groente
+  was, 'n geskenk toedraai of 'n versiering ophang. Deel bekende musiek
+  en ou foto's, berei gaste voor en rig 'n stil kamer in. Doen net wat
+  jy redelikerwys kan hanteer; 'n kort, rustige kuier is 'n goeie een.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Vier fees vroeër op die dag, soos met 'n middagete, as verwarring later in die dag algemeen is."
+  - "Bied regte takies aan: tafel dek, groente was, geskenke toedraai, versier of nagereg opskep."
+  - "Bekende musiek, Kersliedere en ou foto-albums is maklike maniere om die seisoen te deel."
+  - "Vertel vir gaste wat om te verwag, en wys vir die persoon foto's van wie kom kuier."
+  - "Rig 'n stil kamer in met 'n gunstelingkombers of -trui, en hou besoekers by 'n paar op 'n slag."
+  - "Laat enigiets wat oorweldigend is weg, insluitend versierings wat soos kos lyk en flikkerende ligte."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Wat kan iemand met demensie tydens Danksegging of feesdae doen?"
+    a: "Gee vir hulle 'n eenvoudige, veilige takie wat pas by wat hulle vandag kan doen: groente was, sous roer, tafel dek, servette vou of nageregte op 'n bord sit. Kyk daarna saam na ou gesinsfoto's of sing bekende liedjies. Om deel van die dag te wees, maak meer saak as hoe die taak uitdraai."
+  - q: "Moet ons steeds 'n groot gesinsbyeenkoms hou?"
+    a: "Net as dit hanteerbaar is. Skares en geraas kan oorweldigend wees, so baie gesinne skakel oor na 'n kleiner, meer informele byeenkoms, 'n vroeër ete, of besoekers wat in klein groepies kom. Die Alzheimer's Association moedig versorgers aan om net te doen wat hulle redelikerwys en veilig kan behartig."
+  - q: "Hoe berei ek familielede voor wat lanklaas gekuier het?"
+    a: "Vertel hulle voor hul aankoms van veranderinge wat hulle dalk sal opmerk, en dat dit van die siekte kom, nie die persoon nie. Vra hulle om nie foute reg te stel of te toets nie, om een-een te praat en tyd vir antwoorde te gee. Dit help ook om vooraf vir die persoon foto's van die gaste te wys."
+  - q: "Watter geskenke pas by iemand wat met demensie leef?"
+    a: "Eenvoudige, veilige dinge wat hulle nou kan geniet: 'n gunstelingbederf, 'n sagte kombers of trui, bekende musiek, of 'n foto-album van die familie. Vermy ingewikkelde elektronika, gereedskap en moeilike bordspeletjies. Om hulle te betrek by die gee van geskenke, soos om 'n geskenk toe te draai of koekies te pak wat hulle help bak het, kan 'n geskenk op sigself wees."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +40,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Feesdae kan warm herinneringe terugbring, maar dit kan ook geraas, skares en veranderinge aan die gewone dag meebring. Vir iemand wat met demensie leef, is die beste vierings gewoonlik kleiner, rustiger en gebou rondom dinge wat hulle steeds kan geniet. Hierdie idees werk ewe goed vir Danksegging, Kersfees, Chanoeka, Nuwejaar en gesinsverjaarsdae.
 
-## How do I plan a calmer holiday?
+## Hoe beplan ek 'n rustiger feesdag?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Begin by die persoon se roetine en beplan die dag daaromheen. Die [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) stel voor om die kuier vroeër op die dag te hou, omdat verwarring en rusteloosheid dikwels in die laatmiddag en aand toeneem (soms sonsondergangsindroom genoem). 'n Feesmiddagete of -laatontbyt kan makliker wees as 'n laataandete.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Hou dit die regte grootte.** 'n Kleiner, meer informele byeenkoms, of gaste wat 'n paar op 'n slag opdaag, is dikwels makliker as een stampvol tafel.
+- **Deel takies uit.** Vra familielede om 'n gereg saam te bring, die inkopies te doen of tyd saam met die persoon deur te bring terwyl jy kosmaak. Wees spesifiek oor wat sal help.
+- **Hou versierings eenvoudig.** Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) wys daarop dat flikkerende ligte verwarrend kan wees, en dat lekkers of kunsmatige vrugte wat as versiering gebruik word, dalk vir regte kos aangesien kan word.
+- **Besluit wat om te laat vaar.** As 'n tradisie stresvol of riskant geword het, is dit heeltemal reg om dit oor te slaan of 'n rustiger een te probeer.
 
-## What holiday activities can we do together?
+## Watter feesdae-aktiwiteite kan ons saam doen?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Kies takies en tydverdrywe wat pas by wat die persoon vandag kan doen. Om deel van die dag te wees, maak meer saak as hoe dit uitdraai.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Dek die tafel saam.** Sit eers borde neer, dan servette, dan bekers of glase. Om servette te vou is 'n lekker sittende takie.
+2. **Was en sorteer groente.** Om aartappels af te spoel of groenboontjies by die kombuistafel af te breek, is veilig en bekend vir baie mense wat voorheen gekook het.
+3. **Roer, meng of skep op.** Om sous te roer, 'n eenvoudige beslag te meng of koekies op 'n bord te sit, hou hande besig weg van die stoof en messe.
+4. **Draai 'n geskenk toe.** Knip vooraf die papier en kleefband, en laat die persoon dit vou en platstryk. Netjiese toedraai is nie die doel nie.
+5. **Hang 'n paar versierings op.** Kies ornamente wat nie kan breek nie en een klein plekkie, soos 'n krans of 'n klein boompie.
+6. **Maak 'n eenvoudige handwerkie.** Papierkettings, 'n blaarcollage of 'n feeskaartjie met stempels werk goed. Ons [kunsvlytgids](/activities/arts-and-crafts/) het nog idees.
+7. **Sing en luister.** Dit is maklik om saam te sing met bekende Kersliedere en feesmusiek, selfs vir iemand wat nou minder praat. Kyk na ons [musiekgids](/activities/music/) om 'n speellys saam te stel.
+8. **Kyk na ou feesfoto's.** Haal albums van vorige vierings uit en nooi stories uit ("Vertel my van hierdie tafel") eerder as om te vra wie wie is. Ons [herinneringsgids](/activities/reminiscence/) verduidelik hoe.
+9. **Speel 'n rustige groepsspeletjie.** [Prentjies-bingo](/games/picture-bingo/) druk binne minute uit en werk vir alle ouderdomme, en [gesprekskaartjies](/games/conversation-cards/) gee vir almal iets om oor te gesels.
+10. **Kleur saam in.** Eenvoudige [inkleurbladsye](/games/coloring/) kan uitgedruk word sodat kinders en grootouers dit saam by die tafel kan deel.
+11. **Kyk na 'n gunsteling-feesfliek.** 'n Bekende fliek is rustig, en dit is heeltemal reg om net 'n deel daarvan te kyk.
+12. **Gaan ry 'n kort entjie om na liggies te kyk.** 'n Rustige rit verby versierde huise kan makliker wees as 'n besige geleentheid.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+As kosmaak 'n groot deel van die persoon se lewe was, het ons gids oor [huishoudelike take as aktiwiteite](/activities/household-tasks/) meer maniere om kombuistakies veilig en bevredigend te maak.
 
-## How do I prepare guests?
+## Hoe berei ek gaste voor?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Vertel vir gaste wat om te verwag voor hulle aankom, veral familielede wat lanklaas gekuier het. Die Alzheimer's Association stel voor om te verduidelik dat veranderinge in geheue en gedrag van die siekte kom, nie die persoon nie.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Deel 'n paar eenvoudige wenke:** praat een-een, gee tyd om 'n gedagte klaar te maak, moenie reghelp of vrae vra om kennis te toets nie, en reageer op die persoon se stemtoon as woorde moeilik is om te volg.
+- **Sê wat help en wat ontstel.** As harde stemme, om aangejaag te word of sekere onderwerpe ontsteltenis veroorsaak, sê dit reguit.
+- **Stel gaste vooraf voor.** Wys vir die persoon foto's van wie kom kuier en deel 'n storie of twee, of reël vooraf 'n kort telefoon- of video-oproep.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Ons [kommunikasiewenke](/caregiving/communication-tips/) bevat meer besonderhede.
 
-## What if it gets to be too much?
+## Wat as dit te veel raak?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Rig 'n stil kamer in voor gaste arriveer, weg van die geraas, met bekende troositems soos 'n gunstelingkombers, trui of 'n eenvoudige aktiwiteit. Bied dit vroegtydig en gereeld aan: "Sal ons 'n bietjie êrens rustiger gaan sit?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Om van die tafel af op te staan, vroeg te gaan slaap of 'n deel van die dag oor te slaan, is 'n goeie uitkoms, nie 'n mislukking nie. As die persoon ontsteld raak, help 'n kalm stem, 'n bekende liedjie of 'n stappie na 'n ander kamer dikwels meer as redeneer. Ons gids oor [laatmiddag-rusteloosheid](/caregiving/late-day-restlessness/) het meer idees vir aande.
 
-## How can family far away take part?
+## Hoe kan familie wat ver woon deelneem?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Video-oproepe gee familielede die kans om in te skakel sonder om die skare groter te maak. Die Alzheimer's Association stel voor om oproepe 'n bietjie struktuur te gee, soos om saam seisoenale liedjies te sing, foto's van vorige kuiers te deel, dieselfde resep saam te kook of terselfdertyd na 'n feesfliek te kyk. Hou oproepe kort, en vra mense om een-een te praat, aangesien deurmekaarpraat moeilik is om te volg. Ons [telefoon- en video-oproepgids](/activities/phone-and-video-calls/) bevat stap-vir-stap-idees.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+As die persoon in 'n geheuesorgaanleg woon, gaan die besoekbeleid na en vra personeel om te help om 'n oproep te reël. Ons gids oor [besoek aan iemand in 'n geheuesorgaanleg](/activities/visiting/) dek wat om saam te bring en hoe om rustig te groet.
 
-## What gifts suit someone with dementia?
+## Watter geskenke pas by iemand met demensie?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Eenvoudige, veilige geskenke wat hulle nou kan geniet, werk gewoonlik die beste: 'n gunstelingbederf, 'n sagte kombers of oopknooptrui, bekende musiek, 'n grootdruk-kalender, of 'n album met gesinsfoto's. Die Alzheimer's Association beveel aan om gevaarlike gereedskap, ingewikkelde elektronika en uitdagende bordspeletjies te vermy.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Om te gee kan net soveel beteken as om te ontvang. Om koekies in te pak wat die persoon gehelp het bak, of om hulle 'n geskenk te laat toedraai wat jy gekoop het, laat hulle deel wees van die seisoen. 'n Speletjie met gesinsfoto's is nog 'n idee: [foto-pare](/games/photo-pairs/) omskep 'n paar gekose foto's in 'n rustige pasmaatspeletjie in die webblaaier.
 
-## Look after yourself too
+## Pas jouself ook op
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Feesdae bring ekstra werk vir versorgers. Laat iemand anders die kuier reël of die kalkoen gaarmaak, sê nee vir geleenthede wat te moeilik sal wees, en neem blaaskanse terwyl ander tyd saam met die persoon deurbring. As jy of die persoon vir wie jy sorg nie lekker voel nie, is 'n waai van die oprit af of 'n video-oproep net so 'n goeie kuier. Ons gids oor [selfsorg vir versorgers](/caregiving/caregiver-self-care/) bied verdere ondersteuning.

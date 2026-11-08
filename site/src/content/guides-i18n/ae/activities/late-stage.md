@@ -1,32 +1,32 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Vərəzyā apəme zrvāne manō-yātō, gātūm vā staranəm vā"
+seoTitle: "Apəma zrvān: Vərəzyā gātva vā starana vā"
+description: "Vərəzyā nərəbyō yōi apəme zrvāne manō-yātō hənti, starana vā gātva vā: gāthā, zasto-dāiti, paiti-srāvaya, sravō, hadha-bavaiti, haurvātō paiti."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Apəme zrvāne manō-yātō, vərəzyā haosraōxšna paiti-šat hənti uta thwahmi hadha-bavaitī:
+  gāthāo sravayōit, zastam dārayōit, zasta-mərəziti, paiti-vākaya nipište,
+  patara vīdōit, varanahe sravō uta ročana-nišīdaya. Imā vərəzyā starana vā gātva vā
+  vərəzyente. Yātūm drāgō mōrəndu, čaxmān uta zastā rāmahe hača paiti-vaēnō,
+  uta mašyō hadha bavaiti aēvahe yāska asti.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Ham-bavaiti yavačit bavaiti. Apəme zrvāne, aēva haosraōxšna aibi-vaēdayāmahi."
+  - "Gāthāo, nərə-mərəxti, uz-vaxša sravō uta nəmu-vərəz hu-bərətīm barənti yōi vačō nōit fraxšāne."
+  - "Vīspe vərəzyā idhātō martiyāi starana vā gātva vā vərəzyente."
+  - "Čaxmān, zastā uta haoma-vasti hu-šītim paiti-vaēnō, uta paiti-sta yezī anāhu-šītiš bavaiti."
+  - "Xvarəthmīm uta xšvidhəm aēva paiti thwāyāt paiti-pātō daithyō, yaθa garəma-mərəxsh aipi-bavaiti."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Čiš vərəzyā aipi-bavainti martiyāi yō apəme zrvāne gātva šete?"
+    a: "Gāthāo vasō-matāo sravayōit, zastam dārayōit, yōgəm zastanam mərəzōit, paiti-vākaya sraošti vā ratufrīm, patara fraxšnīvōit, vā vātahe sravō sraōt. Us-vərəz ročanā paiti. Asunah vərəzyā aēvada aēva arəθō bavaiti."
+  - q: "Maošyā apəme zrvāne manō-yātō maθačit gāthābīš rāmyeinte?"
+    a: "Paoirīš rāmyeinte. Alzheimer's Association paiti-mraoti yaθa apəme zrvāne mašyō aipi-hazaŋhō tūiryāt vā hunarəm gāthayā paoiryehe ahe gayō sravayōit. Gāthāo yāo yuva aoxte xšnāvayōit, dərəz vaxshō nōit sravayōit."
+  - q: "Čiθa vaēda yezī vərəzyā rāmahe barənte?"
+    a: "Kasviš paiti-vaēnaya: uz-varəz bāzūsh, hu-dāman čašman, dīti, gāθayā sraviti, zasto-drəzita, vā ram-asti haoma-vasti. Yezī paiti-tənti vā an-āhu-šītiš, paiti-sta uta paiti-pātai paiti-mraoi."
+  - q: "Asti-vā frārāθi ayasaite yezī thwām nōit vaēda?"
+    a: "Hā asti. National Institute on Aging paiti-vaēdayaiti yaθa aēva thwahmi hadha-bavaiti hu-ramnam dāiti; zasto-dāiti, gāthāo uta sravō hu-šītīm dāiti. Vaxš thwahmi uta zastō-dāiti vaēdya aipi-bavainti yezī nāma nōit vaēda."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +48,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Apəme zrvāne ahe yō manō-yātō bavaiti, martiyō kasu vaxšti, vīspāi ahrāi paiti-pātim aipi-kāmō, uta pouru ayārō gātva vā starana šete. Sahyāt yaθa nōit čiščit hadha vərəzyāi paiti-aēti. Asti zi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) paiti-mraoti yaθa urvanhe aēva hāčaiti, uta ahmāi zrvāne haosraōxšna paiti aēva aibi-vaēdayente. Gāthāo, zasto-dāiti, thwahmō vaxš uta thwahmi hu-bərətīš rāma uta aēvahe ham-bavaitīš barənti.
 
-## What activities help in late-stage dementia?
+## Čiš vərəzyā avaste apəme zrvāne manō-yātō?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Haosraōxšna vərəzyā uta ramana hadha-bavaitīš nərəbyō apəme zrvāne mazən frabaorənte. Alzheimer's Association paiti-vaēdayaiti yaθa gāthāo vasō-matāo sravayeinti, paiti-vākaya sraošti nipište, roγnəm hu-baōi zasta mərəziti, uta parō ročana vā varana nišīdayeinti hu-ayāre. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) paiti-dāiti sraviti sravanhe, patara vīditi, nəmu zasto-mərəziti, gāthāo, vātahe vā āpō sraviti; uta paiti-mraoti yaθa thwahmi hadha-bavaiti aēva hu-šītīm baraiti.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) paiti-vaēdayaiti yaθa martiyā apəme zrvāne nəmu čiščit drəzaite paiti-kāmayeinti, uta fra-mraoti haosraōxšna vərəzyā, nəmu bāzū-vərəzyā, vastrō-srāwaya, gāthāo, pasva aibi-ayasa, zasto-dāiti uta frāraθi kərətaya.
 
-## Activities for someone in bed or a chair
+## Vərəzyā martiyāi starana vā gātva
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Gāthāo sravaya.** Gāthāo paoiryehe gayō, yasnō, vā visō vasō-matāo sravaya. Nəmu vaxša sravaya uta nazdō nišīda. Aipi nūrəm aēčičit zasto-sraviti vā hunariti. Vaēna [gāthayāo vərəzyā](/activities/music/).
+2. **Zastam dāraya.** Aēva zastam dāraya uta nəmu mərəza; ha-vərəzyā asti. Paora mraoi yaθa vərəzyasi.
+3. **Zasto-mərəziti vərəzya.** Roγnəm garəma zasta vərəzya uta hača zasta-bāzū parō paiti-mərəza. An-baōi roγnəm vā vasō-baōi dāraya.
+4. **Paiti-vākaya nipište.** Vasō-matəm gāthəm, vākə vā raθim sraošti nipište paiti-vākaya. Sravō thwahmi vaxšō mazyō asti yaθa vačō.
+5. **Sraviti mraoi.** Mraoi visō ayārō vā ahe paoiryehe hadha-bavaitīš. Nōit paiti-sanghō aipi-kāmo.
+6. **Patara fraxšnīvaya.** Aēvam patarəm čaxmān-dāraya paiti uta rāmahe vaxša. Nōit pərəsō čiš hā asti.
+7. **Nəmu čiščit fra-dāraya.** Nəmu vastrəm, pərənəm, vā nəmu pasum. NIA paiti-vaēdayaiti yaθa vastrəm dārayo yauva mašyō yašti, yaθa nōit zastā paiti-grəwōit.
+8. **Vātahe sravō sraōt.** Māxyehe, vātahe vā srayanhe sraviti nəmu vaxša kərənaōt.
+9. **Varana parō ānaya.** Ročanā vərəzya, vīm paiti-vaēnaya, vā urvarāo uta varəša ānaya yaθa čašmān vaēnāt uta zasta mərəzāt.
+10. **Parō aša.** Yezī martiyō čaxra-gātva nišīdayeiti, kasu zrvāne chāyā paiti aša.
+11. **Varəsō paiti-mərəza vā garəma vastrəm dāraya.** Nəmu varəsō-bərəz uta garəma vastrəm zastāi čašmāi hu-bərətīm dāiti.
+12. **Gāthābīš nəmu vərəzya.** Vastrəm srāwaya hadha, vā zastāi dwaya. Bāzū-drəzityāi, paora paiti-pātō daithyō pərəsō.
+13. **Frāraθi kərətaya.** Raŋha nōit viša uz-dāraya mazō nipištāi zastanā. Nōit aēva dātəm asti.
+14. **Pasūm paiti-jasō.** Hu-šīt pasūm gātva nišīdaya, yezī mašyō pasubyō rāmyeite.
+15. **Hu-haoma-vasti hadha.** Nazda nišīda uta hu-vərəz haoma-vasti vərəzya. [Calm breathing](/games/calm-breathing/) vīspa dāiti.
+16. **Aēva hadha ba.** Nazdō nišīda, hu-baoi, sraošta. Aēva thwahmi hadha-bavaiti rāma dāiti.
 
-## How to share an activity at this stage
+## Yaθa vərəzyā ahmāi zrvāne vərəzyente
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Parō-paiti aibi-yāsa.** Nāməm aōja uta thwahmi nāməm, uta nəmu vaxša paora yaθa zasto-dāsi.
+- **Aēvada aēvam fra-dāraya.** Tvis-dātəm paiti-mōrənda paora gāthāo. Aēva haosraōxšnəm aēva zrvāne.
+- **Kasu zrvān dāraya.** Kasu zrvān pərəna bavaiti. Pouru kasu zrvān vərəzyā maz barənti yaθa dərəgō zrvān.
+- **Paora hu-šītim vindō.** Vaēna yaθa martiyō hu-stāto asti. NIA paiti-vaēdayaiti gātu-paiti bāzūsh dārayōit.
+- **Paiti-vaēnaya paiti-dātim.** Nəmu zastā, hu-šītim čaxmān, vā gāthō-sraviti rāmahe hača paiti-vaēnō. NIA paiti-mraoti yaθa an-āhu-šītiš, dīti vā təvīši aipi-bavaiti aγahe dātəm. Paiti-sta, uta paiti-pātai paiti-mraoi.
 
-## A quick guide by sense
+## Ratufrī haosraōxšna paiti
 
-| Sense | Ideas | Take care |
+| Haosraōxšnəm | Vərəzyā | Paiti-hazaŋha |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Sraoma | Vasō-gāthāo, vaxš paiti-srāvaya, varanahe sravō | Nəmu vaxša dāraya; aēva sravō aēvada |
+| Zasto-mərəziti | Zasto-mərəziti, zasto-dāiti, nəmu vastrəm, garəma vastrəm | Paora pərəsō; vaēna yaθa kəhrpō nōit xvara asti |
+| Dīti | Patara, urvarāo, ročana-dīti, nəmu varana-dīti | Čaxmān-dāraya paiti; raōčah dāraya, nōit tvis |
+| Baōi | Vasō-roγnəm, urvarāo, hvanhaoma | Dərəz baōi paiti-pā; haoma-vastim paiti-vaēnaya |
+| Čašiti | Kasviš vasō-čāšiti | Aēva xvarəthmīm yaθa paiti-pāto mraoti |
 
-## Safety at this stage
+## Haurvātō ahmāi zrvāne
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Xšvidhō vā xvarəthmō garəma-mərəxsh aipi-bavaiti apəme zrvāne, uta NIA paiti-vaēdayaiti yaθa azahe paiti-pātō bavaiti. Mā kasu čiščit nazdō dāraya, uta aēva xvarəthmīm uta xšvidhəm daithyō yaθa paiti-pāto mraoti fra-dāraya. Tanum nəmu paiti-vaēnaya yaθa tanuš nōit xvara bavaiti. Paitiš haurvātō vərəzyā, vaēna [haosraōxšna vərəzyā](/activities/sensory/).
 
-## Looking after yourself too
+## Thwām aibi-paiti haurvātō
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Apəme zrvāne paiti-pātim tənviš uta manō-vərəz asti, nmanaya vā viθa. Paiti-pātā mraoti yaθa yōi upa-yānəm dāde rāməm uta hu-bərətīm barənti; NIA paiti-vaēdayaiti aēibyō paiti-barənte. Kasu rāmyeinte ayasa frārāθi asti; vaēna [martiyāi manō-yātō paiti-ayasa](/activities/visiting/). Yezī hanzamana dārayasi, [hanzamana vərəzyā nmanayehe](/activities/care-home-groups/) dāiti fraxšnīm. Uta paiti-srāvaya [paiti-pātā hu-tanu-dāiti](/caregiving/caregiver-self-care/): rāma asti ahrāi hu-bərəti.
