@@ -1,34 +1,30 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "ཁ་པར་དང་བརྙན་འཕྲིན་གྱི་ལས་ཀ་བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མིའི་ཆེད་དུ།"
+seoTitle: "བརྗེད་ནོར་ནད་ཀྱི་བརྙན་འཕྲིན་ལས་ཀ"
+description: "བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མིའི་ཐག་རིང་ན་སྡོད་པའི་མི་ཚང་གི་ཁ་པར་དང་བརྙན་འཕྲིན་གྱི་ལས་ཀ། སྟོན་སྤྲོད། ཀློག་པ། གླུ་ལེན། སྤྲོ་ཚོད་ཅན་གྱི་རྩེད་མོ་དང་། རོགས་པ་པོའི་ཞལ་ཤེས།"
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མི་དང་འབོ་བ་ཡག་པོ་བྱེད་ནི་ཐེངས་ཐུང་ངུ་དང་། རྒྱུན་ལྡན་དང་། མཉམ་དུ་བྱེད་པའི་ལས་ཀ་ཞིག་ལ་བརྟེན་ནས་ཡིན། ཞལ་ཡོད་ན་ཉིན་རེ་དུས་མཉམ་དུ་འབོ་ཞིག ཚིག་སྨྲ་མི་གཅིག་ཡོད་ཚོད་དུ་བྱེད་ཅིག དེ་ནས་ས་གནས་སུ་ཡོད་པའི་རོགས་པ་པོ་ཞིག་གི་རམ་ཞུ་ཞིག་ཞུ་དགོས།
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "ལས་ཀ་ཞིག་གིས་འབོ་བར་གཟུགས་ཤུགས་སྦྱིན་ཞིང་། སྐད་ཆ་ལ་ཤུགས་ཆུང་བར་བྱེད། ཁྱེད་ཀྱིས་མཉམ་དུ་བསྟན་ཆོག་པའི་ལས་ཀ་གཅིག་འཆར་གཞི་བྱེད་ཅིག"
+  - "མི་ཚེ་ཐུང་ངུ་དང་རྒྱུན་ལྡན་གྱི་འབོ་བ་ནི་དུས་ཐུང་ངུ་ཡང་ཡོད་སྐབས་ལས་ཡག་པོར་འགྲོ་གི་ཡོད།"
+  - "མི་གཅིག་ཚིག་སྨྲ་ཡོད་ཚོད་དུ་ཡིན། མི་མང་པོས་ཐོག་མར་སྐད་ཆ་ཞིག་ལ་འབོ་ན་ཚིག་འགལ་བ་དང་། ཉན་ཐོས་ཀྱི་ནུས་པ་ཉུང་བ་ལ་དཀའ་ངལ་ཆེ།"
+  - "ས་གནས་སུ་ཡོད་པའི་རོགས་པ་པོས་སྒྲིག་འགོད་སྒྲིག་ཆོག་པ་དང་། མི་ཁ་ཅིག་གི་ཉེ་འདབས་སུ་བསྡད་ཆོག་པ་དང་། རྩེད་མོ་ཡང་ན་པར་ལ་ལག་འདེབས་པའི་རོགས་པ་པོར་གྱུར་ཆོག"
+  - "འབོ་བ་དེ་དེ་ང་ཚོས་ལེགས་པར་མ་སོང་ན་སྙིང་བརྩེ་ཅན་གྱི་ཚུལ་གྱིས་མཇུག་བསྡུ་ཆོག རྒྱུ་སང་ཡང་བསྐྱར་བྱེད་ན་ཡག་པོ་ཡིན།"
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མིར་བརྙན་འཕྲིན་གྱི་འབོ་བ་ལ་ཅི་བྱེད་ཆོག་ཡོད།"
+    a: "ལས་ཀ་ཐོག་མ་གཅིག་སྒྲིག་ཞིག ཁྱེད་ཀྱི་ཤིང་ཁང་། ཁྱི་ཡང་ན་མཁར་ཁང་བསྟན་ནམ། རྙིང་པའི་པར་ཚུ་མཉམ་དུ་ལྟ། ཚིག་རྙིང་ཞིག་ལ་ཀློག ཡང་ན་གླུ་དགའ་བ་ཞིག་གླུ། ཡང་ན་སྤྲོ་ཚོད་ཅན་གྱི་པར་རྩེད་མོ་གཅིག་མཉམ་དུ་གཟིགས་ཆོག ལས་ཀ་ཞིག་གིས་འབོ་བར་དམིགས་ཡུལ་སྦྱིན་ཞིང་། མི་ལ་སྐད་ཆ་ཡོངས་སུ་འཁུར་དགོས་པ་ཞིག་མེད།"
+  - q: "བརྙན་འཕྲིན་འབོ་བ་ཅིག་ཚོད་རིང་དགོས།"
+    a: "ཡིད་ཀྱིས་བསམ་བ་ལས་ཀྱང་ཐུང་ངུ་ཡིན་པ་ཡིན། སྐུ་ཚེའི་ཁ་བྱང་ཐུང་ངུ་ཡང་ཚིམ་ཆེན་ཡོད་ཀྱང་། མི་དེ་མགོ་ཚེ་ཆེ་ན་འབོ་བའི་ཐེངས་ཐུང་ངུ་ཡང་དགོས། ཉིན་རེ་དུས་མཉམ་དུ་རྒྱུན་ལྡན་དུ་འབོ་བ་དེ་ནི་ཐེངས་རེའི་རིང་ཚད་ལས་གལ་ཆེ་བ་ཡིན།"
+  - q: "བརྙན་འཕྲིན་གྱི་འབོ་བས་ཁོ་ཚོ་ཡ་ཡ་ཆེ་འམ་སེམས་ཁྲལ་བ་ཡོང་ན་ཅི་བྱེད།"
+    a: "མི་ཁ་ཅིག་ལ་ཤོག་ངོས་ལ་གདོང་མཐོང་བ་ནི་ཡ་ཡ་ཆེ་བར་སྣང་། ཁ་པར་རྣམ་པ་ཆད་མེད་དེ་ཡང་ཡང་ན་། རྣམ་རེག་ཅན་གྱི་བརྙན་ཁ་ཅིག་ལྷོད་ཆོག་པ་དང་། སྐྱེལ་མེད་པའི་པར་ཚུ་ཡང་ཁྱེད་ཀྱི་བཞག་པ་ལས་ཀྱང་སྐྱེལ་ཆོག བརྙན་འཕྲིན་གྱི་འབོ་བ་ལེགས་པར་མ་སོང་ན་སྙིང་བརྩེ་ཅན་གྱི་ཚུལ་གྱིས་མཇུག་བསྡུ་ཞིག་ཉིན་གཞན་ཞིག་ལ་ཡང་ན་དུས་གཞན་ཞིག་ལ་བསྐྱར་བྱེད།"
+  - q: "ང་ཚོའི་ཨ་མ་ཁ་པར་སྤྱོད་མི་ཤེས་ན་བརྙན་འཕྲིན་གྱི་འབོ་བར་རོགས་ཆོག་ལམ།"
+    a: "མི་ཚང་གི་མི་ཞིག་ཡང་ན་ཁྱིམ་ཕྱི་ལས་བྱེད་པ་ཡང་ན་གནས་ཚང་གི་ལས་མི་ཞིག་གིས་འབོ་བ་འགོ་བཙུགས་ཏེ་སྒྲིག་ཆས་དེ་ལག་ཏུ་བསྣམས་ཡང་ན་ཤོག་གཞི་ལ་སྣེ་འདེབས་ཆོག་པར་རོགས་ཅིག དེ་ལྟར་མང་པོའི་གནས་ཚང་ཁ་ཤས་ནས་མི་ཚང་ལ་བརྙན་འཕྲིན་གྱི་རོགས་རམ་ཞུ་ཆོག་པས་ཁྱེད་ཀྱིས་དྲིས་ཤིག ཤོག་གཞི་ཞིག་ལ་བཞག་པའི་སྟེང་ཆ་ཆེན་པོ་དང་། ཁ་པར་ལ་སྒྲ་ཆེ་བ་ཞིག་གིས་ཡ་ལ་ཆེ་ན་མི་ཚང་ཐམས་ཅད་ལ་ལྷག་པར་བདེ་འཇགས།"
+  - q: "བརྙན་འཕྲིན་ལ་མཉམ་དུ་རྩེད་མོ་ཞིག་རྩེད་ཆོག་ལམ།"
+    a: "ཆོག། ཡང་བསྡུས་པའི་ཐབས་ནི་མི་གཅིག་གིས་བརྙན་འཕྲིན་གྱི་ཉེ་ཆ་ལ་ཤོག་ངོས་མཉམ་སྤྱོད་བྱས་ཏེ། གཞན་གྱིས་པར་གང་འདེམས་ཏེ་ལག་བརྡ་བྱེད་པ་ཡིན། ཡང་ན་ས་གནས་སུ་ཡོད་པའི་རོགས་པ་པོས་ཤོག་གཞི་ཞིག་ཏུ་རྩེད་མོ་དེ་ཁ་ཡིག་ཏུ་སྤྲོད་ཏེ། ཁྱེད་ཀྱིས་ཚིག་ལམ་ནས་བསྟན་པ་ཡིན། དུས་ཚོད་དང་ཐོབ་མཚོན་མེད་པའི་རྩེད་མོ་སེམས་སྐྱིད་བྱེད་ཅིག"
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +46,126 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+ཡུལ་ཐག་རིང་ན་བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མི་ཞིག་ཡོད་པ་ནི་རང་ཉིད་རམ་ཆེན་པོར་སེམས་ཤུགས་མེད་པར་སྣང་ཆོག ཁ་པར་དང་བརྙན་འཕྲིན་ནི་གཅེས་པའི་སྐུ་གཟུགས་ཀྱི་འཐུས་ཆེ་ལ་མི་མཉམ་ཀྱང་། འདི་སྒྲིག་པ་ཡག་པོ་བྱས་ན་འབྲེལ་བ་གནས་ཡོད་པའི་ཡིད་ཆེས་ཀྱི་སྐབས་འདི་འབྱུང་ཆོག ཁྱེད་ཀྱིས་བཟང་པོ་ཞིག་མཉམ་གླེང་བའི་ཚབ་དུ་ཕྱིན་ཆད་དུ་མཉམ་དུ་བསྟན་ཆོག་པའི་ལས་ཀ་ཞིག་འཆར་གཞི་བྱེད་པ་ནི་གལ་ཆེ། ཤོག་ངོས་འདིས་བརྙན་འཕྲིན་དང་ཁ་པར་ལ་ལེགས་པར་འགྲོ་བའི་ལས་ཀ་དང་། འབོ་བ་སྒྲིག་པའི་ཐབས་ཤེས། ས་གནས་སུ་ཡོད་པའི་མིས་རོགས་ཆོག་པའི་ཐབས་ཀྱང་བསྟན་ཡོད།
 
-## Why plan an activity for a call?
+## ཅིའི་ཕྱིར་འབོ་བའི་ཆེད་དུ་ལས་ཀ་ཞིག་འཆར་གཞི་བྱེད་དགོས།
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+ལས་ཀ་ཞིག་གིས་འབོ་བར་གཟུགས་ཤུགས་སྦྱིན་ཏེ། "ཁྱེད་ཇི་ལྟར་ཡོད། ཉིན་འདི་ཅི་བྱས།" ཞེས་དྲིས་ན་མི་ལ་དྲན་ནས་སྨྲ་དགོས་པས་དཀའ་ངལ་དང་སེམས་ཁྲལ་ཆེ་བ་ཡིན། "བལྟས་ཤིག ཏོ་མ་ཏོ་ནི་སྨིན་སོང་།" ཞེས་པས་མི་ལ་དོན་གཞན་ཞིག་དགོས་མེད།
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+གནས་ཤུགས་སྔོན་ཆད་ནས་ཁྱེད་ཀྱིས་གཟིགས་པ་ལ་ཁྱབ་རྒྱ་ཆེན་པོར་བརྗོད་ཐུབ། ཞབས་ཀྱི་སྟེང་རྨ་འཕྲིན་གྱི་དོན་ལ་མཉམ་བསྟན་ཡོད་ནས་ཡ་ཡ་ཆེ་བར་འདུག
 
-## What activities work on a video call?
+Alzheimer's Association ཞེས་པས་ཡུལ་ཐག་རིང་ན་སྐད་ཆ་མི་མང་པོ་བརྙན་འཕྲིན་ལ་བྱས་ན་དཀའ་ལ་ཡོད་ཅེས་སྨྲས་ཏེ། [འབོ་བར་ཆ་ཚང་སྒྲིག་པ་](https://www.alz.org/help-support/caregiving/holidays) ལ་ཞལ་འདེབས་ཀྱི་ཡོད། དཔེར་ན་གླུ་ལེན་པ་དང་། པར་མཉམ་ལྟ་བ་ལྟ་བུ་རྣམས་སོ།
 
-### Show and tell
+## བརྙན་འཕྲིན་ལ་ཅི་ལྟར་ལས་ཀ་ལེགས་པར་འགྲོ།
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+### སྟོན་སྤྲོད།
 
-### Look at photos together
+ཁྱེད་ཀྱི་འཛམ་གླིང་ནང་གི་ཤུལ་དུ་བསྟན་པ། སྒྲིབ་པ་དག་དུ་ཤིང་ཁང་གི་ཁ་ལ་ཞེ་སྣེ་བསྒྱུར་ཏེ་ཁྱི་བསྟན། ཟས་སྦྱིན་ལ་སྒོ་མ་ཁ་ལ་ཟླ་བ་བཟོས་ནས་སྐྱེས་པའི་ལག་བཟོ་བསྟན། ཡང་ན་ཤར་ཁ་སྣོན་ནས་ཁ་པར་དེས་སྤྲིན་ལ་གཟིགས་ཆོག ཚིག་ཆ་ཉུང་ཞིང་གསལ་པོས་འགྲེལ་ཞིང་། མི་ལ་ཡང་ཡང་གཟིགས་ནས་སྨྲ་བའི་དབང་སྒྲིག་བྱེད་ཅིག ཁ་ཡིག་འདྲི་དགོས་པ་མེད།
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+### མཉམ་དུ་པར་ལྟ་བ།
 
-### Read aloud
+རྙིང་པའི་པར་ཞིག་ཁ་པར་ལ་བསྣམས་ནས་གཟིགས་ཆོག་ཡང་ན་ཤོག་ངོས་ཀྱི་ཆེ་བའི་པར་ཚུ་རེ་རེ་ནས་བརྗོད་ཆོག ཁྱེད་ཀྱིས་ཅི་ལྟ་ཞིག་མཐོང་བ་སྨྲ་ཞིག ཅུང་ཟད་བཟང་པོ་ཞིག ... "གཡོན་བརྒྱབ་གི་ཐབ་ལ་བལྟས་ཤིག།" ཞེས་སྨྲ་ཆོག "ཁོ་གང་ཡིན།" ཡང་ན་"ཁྱེད་འདི་དྲན་ཡོད་ཀྲི།" ཞེས་པ་ཁ་ཡང་མེད་པར་བྱེད་ཅིག སྐྱེས་མི་ཞིག་ཚིག་འཇོལ་ནས་སྨྲས་ན་ཡང་ཁོའི་ཁ་ཡན་ལ་གཏོང་ཅིག
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+[ཀློག་པའི་ཐབས་ཤེས](/activities/reminiscence/) ལ་ཞིག་ལྟ་ཆོག
 
-### Sing or listen to music together
+### མཉམ་དུ་ཀློག་པ།
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+ཚིག་རྙིང་ཞིག་ཡང་ན་ཆོས་གསུང་ཚིག་ཅུང་ཟད། ཚེ་རབས་ཀྱི་དགའ་བའི་དཔེ་ཆ་ཞིག་བུ་ཆུང་ལ་ཀློག ཡང་ན་མཁན་པོ་ནས་འགྲོས་པའི་ཡི་གེ་ཞིག ཡང་ན་ཁོ་ཚོ་དགའ་བའི་དཔེ་ཆའི་ཤོག་ངོས་ཞིག་ཀློག་ཆོག ཀློག་པས་མི་ལ་ལན་འདེབས་དགོས་པ་མེད་པར་ཞི་བདེའི་ཉན་སྒྲ་ཞིག་སྦྱིན།
 
-### Cook or bake at the same time
+### མཉམ་དུ་གླུ་ལེན་པ་དང་ཉན་པ།
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+ཁོ་ཚོ་ཤེས་པའི་གླུ་ཞིག་གླུ་ནམ། ཁྱེད་ཀྱི་ཕྱོགས་སུ་དགའ་བའི་སྒྲ་སྐད་ཞིག་སྒྲོག་ཆོག མི་མང་པོར་གླུ་ལེན་པ་ནི་སྐད་ཆ་སྨྲ་བ་ལས་ལྷག་པར་བདེ་ཡིན། [གླུའི་ལས་ཀ་ལ་ལྟ་ཆོག](/activities/music/)
 
-### Watch something together
+### དུས་མཉམ་དུ་ཟས་སྐྱེ་བ་ཡང་ན་བ་གཅུགས།
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Alzheimer's Association གིས་བརྙན་འཕྲིན་ནང་ཟས་ཁ་ཅིག་ལ་ཁོ་ཚོ་གཉིས་མཉམ་དུ་བྱེད་པའི་འཆར་གཞི་ཞིག་བརྗོད་ཡོད། ཁྱིམ་གཉིས་ཀ་ནས་གོ་སྒྲིག་བྱེད། ས་གནས་སུ་ཡོད་པས་རྩྭ་སྡོང་ཡང་ན་རོ་བ་བཟོ་ཞིང་། ཁྱེད་ཀྱིས་ཁོ་ཚོའི་རྙིང་པའི་ཟས་ཡིག་ལ་བལྟས་ནས་གཟུགས་སུ་སྦྱོར།
 
-### Play a gentle game on a shared screen
+### མཉམ་དུ་བརྙན་ཞིག་ལྟ་བ།
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Association གིས་ཡང་ཁིམ་གཞན་ནས་དུས་མཉམ་དུ་བརྙན་ཁ་ཅིག་གཅིག་ཏུ་ལྟ་ཞིང་། ཁ་པར་ཡང་ན་བརྙན་འཕྲིན་ལ་སྐད་ཆ་བྱེད་པ་ལ་བརྟེན་ནས་བརྙན་ཁ་དེ་ལྟ་ཆོག་ཅེས་བརྗོད། བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མིའི་ཆེད་དུ་ཡིག་ཚོགས་རིང་པོ་མ་ཡིན་པར་བརྙན་ཐུང་བ་དང་། རྙིང་པའི་ཁ་ཕྱོགས་ཀྱི་གཟུགས་ཕྲེང་ཞིག་ཡང་ན་སྐྱེས་བུ་རྩེད་བརྡ་ཞིག་ལ་ལྟ་བ་ལ་ཡག་པོ་ཡོད་པར་སྣང་།
 
-Games that work well this way:
+### གནས་སུ་མི་སྣང་ཐབས་རྩེད་མོ་གཅིག་ནང་ཆེན་བྱ་བ།
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+ལས་ཀ་མང་པོ་ནང་དུ་ཤོག་ངོས་མཉམ་སྤྱོད་བྱེད་ཆོག་པ་མང་ཡོད། རྩེད་མོ་ཁ་ཕྱེ་ཏེ་ལག་རྒྱ་བརྒྱབ་ཅིག ཁོ་ཚོས་ཁྱེད་ལ་གང་བྱ་ཡང་ན་ཤོག་གཞི་ཞིག་ལ་ལྷོད་བརྡ་ཚོད་རེ་བྱ་ཞིག ཡང་ན་ས་གནས་སུ་ཡོད་པའི་རོགས་པ་པོས་རྩེད་མོ་དེ་སྟེང་ཅིག་ལ་ཁོ་ཚོའི་ཆེད་དུ་ལག་འདེབས་བྱེད་ཅིང་། ཁྱེད་ཀྱིས་ཁ་ཚིག་ནས་ཡ་ཡ་ཆེ་བ་མེད་པར་འགྲོ་ཆོག
 
-### Recorded messages
+འདི་ཡང་ལེགས་པར་འགྲོ་བའི་རྩེད་མོ་ཡིན།
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+- **[ཚིག་ཆེད་མཇུག་བསྡུ་བ།](/games/finish-the-saying/):** ཁྱེད་ཀྱིས་སྐད་ཆ་ཤེས་པ་ཞིག་ཀློག ཁོ་ཚོས་མཇུག་སྨྲ་བ་དང་། སྐབས་ཞིག་སྐད་ཆ་ཡོད་པར་སྐུལ་བ།
+- **[པར་མཐུན་རྩེད་མོ།](/games/picture-pairs/):** པར་ཆེན་པོ་ཚུ་ཡོད་པ་བཟོ་སྒྲིག་གི་རྩེད་མོ་ཞིག་ཡིན་ཏེ། དུས་ཚོད་དང་ཐོབ་མཚོན་མེད།
+- **[སྐད་ཆའི་ཤོག་པར།](/games/conversation-cards/):** པར་ཞིག་དང་སྐད་ཆ་སྨྲ་ཆོག་པའི་དྲི་བ་ཞིག་ཁྱེད་ཚོས་མཉམ་དུ་བརྗོད་ཆོག
+- **[པར་མཐུན་ཤོག་རིས།](/games/photo-pairs/):** ཁྱེད་ཀྱི་རང་ཉིད་ཀྱི་སྒྲིག་ཆས་ནས་འདེམས་པའི་པར་ཚུ་ལས་བཟོས་པའི་བཟོ་སྒྲིག་གི་རྩེད་མོ། པར་ཚུ་ཁྱེད་ཀྱི་བར�ེག་ཆས་ཀྱི་ནང་ལ་གནས་ཤིང་། མི་ཁོས་ཁྱེད་ཀྱི་མཉམ་སྤྱོད་བྱས་པའི་ཤོག་ངོས་ནས་མཐོང་།
 
-## What about plain phone calls?
+### ཡིག་འབྲུ་ཁ་ཞིག་ཟློས་བསྒྲིགས།
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+འབོ་བ་ཐད་ཀར་དཀའ་ན་བརྙན་ཁ་ཅིག་ཡིག་བསྐུར་ཆོག ཁྱེད་ཀྱི་ནང་ནས་བཀྲ་ཤིས་ཀྱི་ཚིག་ཡང་ན་གླུ་ཅུང་ཟད། འདབ་མ་ཁ་ཅིག་འདེབས་ཆོག། ལ་ལས་ཀྱི་བརྙན་དེ་མི་ལ་དགའ་བའི་ཚེ་ཡང་ཡང་ཟློས་ཆོག་པ་ཡིན། Alzheimer's Association གིས་ཁོ་ཚོ་དགའ་བའི་སྐབས་ལ་ཆེ་ཞིང་ཁྱི་ཆུང་ཆུང་ཀྱིས་ཀྱང་བརྙན་འདེབས་ཆོག་ཅེས་སྨྲས་ཡོད།
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+## ཁ་པར་གྱི་འབོ་བ་ཡང་ན་ཚེ་ཕྱུག་ལ་ཅི་འདྲ་ཡོད།
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+ཁ་པར་ཚིག་ཚོགས་ནི་ཡང་གལ་ཆེ། Dementia Australia གིས་[ཉིན་རེ་དུས་མཉམ་དུ་འབོ་ཞིག](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ཅེས་བརྗོད་ཡོད། བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མིས་འབྲེལ་བ་ལ་དུས་ཅུང་ཞིག་ཁྲིད་དགོས་པས་མི་ཡ་ཡ་ཆེ་བར་མི་བྱེད་ཅིག ཁ་པར་ལ་ཁྱེད་ཀྱིས་
 
-## How do I set up a video call that works?
+- ཐོག་མར་མིང་དང་འབྲེལ་བ་ཁྱེད་ཀྱི་མིང་སྨྲ་ཞིག: "དཔའ་བོ་ཨ་ཕ། ང་ལ་ཇེ་ནི་ཡིན། ཁྱེད་ཀྱི་བུ་མོ་ཡིན་ནོ།"
+- སྐད་ཆ་ཆེད་དུ་གསལ་པོས་ཞིང་ཚིག་ཐུང་ངུས་སྨྲ་ཞིག ཚིག་གི་དོན་གཅིག་རེ་རེ་ནས་སྨྲ།
+- དྲི་བ་མ་བཏོན་པར་གསར་འགྱུར་སྤྲོད་ཅིག "ང་ཚོས་ཉིན་ཁ་སང་ཁྱེད་ཀྱི་ཤ་ཆེན་ཟས་ལ་བཟོས་ཡོད།"
+- ཚིག་ཐུང་ཞིག་ཀློག་ནམ་ཁ་ཅིག་སྨྲ།
+- འབོ་བ་ཐུང་ངུ་ཞིག་ཏུ་བཞག་ནས་སྙིང་བརྩེ་ཅན་གྱི་སྐད་ཆས་མཇུག་བསྡུ།
 
-**Before the call:**
+Dementia Australia གིས་ཡང་སྐད་ཆ་སྨྲ་བ་དཀའ་བའི་སྐབས་བརྙན་འཕྲིན་ཀྱིས་ཕན་ཐོགས་ཆེ་སྟེ། མིས་ཁྱེད་ཀྱི་གདོང་ལ་མཐོང་ཆོག་པའི་སྤྱིར་ཡིན་ཞེས་བཤད། ཁ་པར་གྱིས་རྨོངས་ཤུགས་སྦྱིན་ན་བརྙན་འཕྲིན་ལ་ཡང་ན་ཕྱོགས་གཞན་ལ་སྤྱོད་ཆོག
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+## ལེགས་པར་འགྲོ་བའི་བརྙན་འཕྲིན་འབོ་བ་ཅི་ལྟར་སྒྲིག་དགོས།
 
-**During the call:**
+**འབོ་བའི་སྔོན་ལ:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+1. **རྒྱུན་ལྡན་དུས་ཚོད་ཞིག་འདེམས།** མི་ལ་ཞི་བདེ་ཡོད་པའི་ཚེ་དང་། དེ་ལ་བརྟན་པར་བསྟེན། ཚུལ་ཁྲིམས་ཀྱིས་ཕན་ཐོགས་ཆེ།
+2. **ས་གནས་སུ་ཡོད་པའི་རོགས་པ་པོ་དང་མཐུན་འཇོག་བྱེད།** ཉིན་སྔ་མོར་ཡི་གེ་ཞིག་བསྐུར་ན་ཁོ་ཚོས་འཆར་གཞི་སྒྲིག་ཆོག
+3. **སྒྲིག་ཆས་ཞིབ་པ།** ཤོག་ངོས་སྟེང་ཤིང་སྒོ་ཐོགས་ཀྱི་ཁ་པར་ལག་ཏུ་བསྣམས་པ་ལས་ལེགས། ཟེ་ཁ་ཚར་བ་དང་། ཤོག་ངོས་གསལ་བ་དང་། སྒྲ་ཆེ་བ་ཡིན་ནམ་ཞིབ་ཞིག ཡིག་ཆ་གནས་པ་ཡིན་ན་ཁ་ཡིག་ཁ་ཕྱེ་ཆོག
+4. **རྩེད་མོ་གཅིག་འཆར་གཞི་བྱས་ཏེ་གནས་ཚུལ་ཡོངས་སུ་གྲུབ་པར་བྱེད།**
 
-**Ending the call:**
+**འབོ་བའི་སྐབས་ལ:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- **ཉེ་ཆ་ལ་བསྡད་ཅིག** འོད་ལེགས་པའི་སར་ཕྱིར་ལ་གཟིགས་ཅིག སྒྲོན་མེ་སྒོ་ཡ་ལ་མ་ཚུད་པར་བྱེད།
+- **ཐེངས་རེ་ལ་ཁྱེད་རང་ནས་རང་ཉིད་བསྟན།** མིང་དང་འབྲེལ་བ་སྨྲ།
+- **ཚིག་སྨྲ་མི་གཅིག་ཡོད་ཚོད།** Alzheimer's Association གིས་མང་པོའི་སྐད་ཆ་གཅིག་ཏུ་སྨྲ་བ་སྤྱིར་བཏང་བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མི་དང་ཉན་ནུས་ཉུང་བའི་མིར་དཀའ་ངལ་ཡོད་ཅེས་སྨྲ། སྤྲུལ་པ་ཁ་ཤས་འབོ་བ་ན་འཆར་གཞི་བཟོ་ནས་ཁྲིམ་ཆུང་གཉིས་གསུམ་ནས་མང་མེད་པར་བྱེད།
+- **དྲི་བ་རེ་རེ་ནས་འདྲི་ཞིག** Family Caregiver Alliance གིས་[ཡེས་མ་ཡེས་ཀྱི་གསལ་བ་ཆ་ཚང་](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) དེ་ཡང་ཁྱེད་ཀྱིས་གདམས་ཆོག་པའི་བྱ་བ་འདེམས་ཆོག་པ་བསྟན།
+- **ཚོད་རིང་པོ་ལ་བཞག།** མི་ལ་ལན་འདེབས་སྐབས་སུ་བཞག་ཅིག ཚིག་ཅིག་དྲན་མི་ཐུབ་ན་ཚིག་ཅིག་བསྒྲེང་ཆོག
+- **གདོང་དང་སྒྲ་བེད་སྤྱོད་ཅིག** མདངས་ལེགས་པ་དང་། སྐད་ཆ་སྙིང་བརྩེ་ཅན་དུ་བྱེད། བཅོས་མའི་ཚིག་ལས་གདོང་རྣམ་ཞིག་ཡོད་མ་ཡིན་མ་ཡིན་མི་ལས་ཀྱང་མང་།
+- **ཡང་བཅོས་མི་བྱེད།** མི་ཞིག་གིས་ངེས་པ་མེད་པའི་ཚིག་སྨྲས་ན་དེ་ལ་ཞུགས་ཅིག
 
-## Tips for the helper on site
+**འབོ་བ་མཇུག་བསྡུ་བ:**
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+- མི་ཡ་ཆེ་བ་མ་སྐྱེས་པའི་སྔོན་ལ་མཇུག་བསྡུ། ཐུགས་ཚིམ་པའི་སྐབས་ལ་མཇུག་བསྡུས་ན་ལེགས།
+- ཐེངས་རེར་སོང་བའི་ཚིག་འདི་དྲན་དང་འདྲ་བ་བྱེད། "ང་ཚོ་སང་ཉིན་དྲོ་བའི་ཚེ་གླེང་ཆོག། ང་ཁྱེད་ལ་བརྩེ།"
+- བསྐལ་ཆེ་བ་མ་བྱེད།
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+## ས་གནས་སུ་ཡོད་པའི་རོགས་པ་པོའི་ཞལ་ཤེས།
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+ཁྱེད་ཀྱི་བཀའ་མཉམ་པ་ཡང་ན་རོགས་མི་ཡང་ན་སྐྱེས་བུ་རྣམས་སུ་འབོ་བ་ལ་རོགས་རམ་ཞུ་ན་ཁྱེད་ཀྱིས་དེ་ལེགས་པར་བཟོ་ཐུབ།
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+- **ས་ཆ་ཞི་བདེ་ཞིག་སྒྲིག་པ།** གླིང་སྒྲ་བཏང་ཞིང་སྒོ་བརྒྱབ།
+- **ཁྱེད་ཉིད་ཀྱིས་འབོ་བ་འགོ་བཙུགས།** དེ་ནས་མི་ལ་ཤོག་ངོས་ཀྱི་སྟེང་ཁ་པར་ཕུལ་ཡང་ན་མིག་ཚིགས་ཀྱི་མཐོ་ལ་བསྣམས།
+- **མི་ཡི་ཉེ་འདབས་སུ་བསྡད་ཅིག ཁ་སྟེང་མ་ཡིན།** ཁྱེད་ཀྱི་ཡོད་པས་སེམས་ཞི་བ་སྐྱེད། དགོས་ན་སྙིང་བརྩེ་ཅན་དུ་བརྡ་ཁ་ཅིག་སྤྲོད། "ལྟོས་ཤིག ཇེ་ནི་ཡིན།"
+- **ལག་ཏེ་ཁྱེད་ཡིན།** པར་ལག་ཏུ་བསྣམས། རྩེད་མོ་ལ་ལག་འདེབས། ཁ་པར་ཕྱོགས་གཞན་ལྟ་བར་སྒོར་བསྐྱོད།
+- **སྐྱོ་བ་ཡང་ན་སེམས་ཁྲལ་ལ་བལྟ་ཞིག** འབོ་བ་པོ་ལ་མཇུག་བསྡུ་བའི་དུས་ཡིན་པ་སྨྲ།
+- **འབོ་བ་པོ་ལ་ཅི་འཐུས་པ་སྨྲ།** "མོས་ཁྱི་ལ་དགའ་ཞིང་།" ཞེས་པས་འབོ་བའི་ཤུལ་མ་འཆར་གཞི་བཟོ་རམ།
 
-## What if the call doesn't go well?
+NIA གིས་ཡུལ་ཐག་རིང་ན་ཡོད་པའི་མཚན་མཁན་ཚུ་ཡིས་རྒན་པོས་[ཁ་པར་གྱི་ཁྱད་ཆོས་བསླབ་](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving) ཅེས་བརྗོད། དཔེར་ན་བརྙན་འཕྲིན་ལ་སོགས། རྗེས་ཐོན་གྱི་རིམ་པ་ནང་ལ་རོགས་པ་པོས་སྒྲིག་ཆས་ཧྲིལ་པོ་ལག་ལེན་ཁས་ལེན་དགོས་ཀྱི་ཡོད། དེ་ནི་ཡག་པོ་ཡིན།
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+མི་གནས་ཚང་ནང་ཡོད་ན་Alzheimer's Foundation of America གིས་གནས་ཚང་ལ་དྲིས་ཞིག་ཅེས་གདམས། གནས་ཚང་གིས་བརྙན་ཁ་ཅིག་ལ་མི་ཚང་ལ་རོགས་པ་གང་ཡོད་ཅེས། AFA གིས་ཡང་མི་ཚང་དང་གནས་ཚང་གི་ལས་མི་གཉིས་ལ་པར་དང་ཡི་གེ་བསྐུར་བཏང་བ་དང་། ཟས་རིགས་དགའ་བ་ཡང་ན་ཚོ་ཚོ་ཡ་ཡ་ཆེ་བ་ཅི་ཡང་བསྐུར་ཆོག་པ་ཡིན་ནམ་གནས་ཚང་གི་ཁྲིམས་ལ་བལྟས་ནས་སྐྱེལ་ཆོག་ཅེས་བསྟན།
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+## འབོ་བ་ལེགས་པར་མ་སོང་ན་ཅི་བྱེད།
 
-It is fine to end early. A short, warm call is a good outcome.
+འབོ་བ་ཁ་ཤས་ལ་སེམས་ཁྲལ་ཆེ་བ་དང་། སྐད་ཆ་མི་འཆར་བ་དང་། ཡ་ཡ་ཆེ་བ་ཡོང་ཆོག་པས་ཁྱེད་ཀྱི་ནོར་མ་ཡིན། འབོ་བ་མི་རུང་ནམ་ཞེས་པ་ཡང་མ་ཡིན།
 
-## Between calls
+- མི་ཞིག་གིས་སྒྲིག་ཆས་ལ་རྨོངས་པ་མཐོང་ན་ཁ་པར་ལ་ཡང་ན་རྣམ་པའི་སྒྲ་ཡིག་ལ་བསྒྱུར།
+- ཁོ་ཚོ་ཡ་ཆེ་ན་སེམས་ཚོར་ངོས་འཛིན་ཅིག བདེ་བའི་ཚིག་ཞིག་སྨྲ་ཞིག ཞི་བདེས་མཇུག་བསྡུ།
+- ཡུས་དུས་ཞིག་ཏུ་འབོ་བ་ལེགས་མ་སོང་བ་མང་ན་དུས་གཞན་ཞིག་འདེམས།
+- ཁོ་ཚོས་ཁྱེད་ལ་མི་གཞན་ཞིག་ཡིན་ཞེས་བསམ་ན་སྙིང་བརྩེ་ཅན་གྱིས་ཁས་ལེན།
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+འབོ་བ་སྔོན་ཆད་མཇུག་བསྡུ་ཡང་ཆོག། འབོ་བ་ཐུང་ངུ་ཞིག་ཉི་མ་ཁ་ལ་བཏོན་ན་ཡང་འབྲས་བུ་ཡག་པོ་ཡིན།
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+## འབོ་བ་དྲན་གྱི་བར་གྱི་ལས་ཀ།
+
+ཁྱེད་ཀྱིས་སྤྱི་ལ་སྐབས་གཞན་ནས་ཡང་འདུག་ཆོག Dementia Australia གིས་ཤོག་བྱང་དང་། གློག་འཕྲིན་ཡང་ན་པར། ཡང་ན་ཚོ་ཆུང་ཆུང་ཞིག་བསྐུར་ན་ཡག་པོ་ཡིན་ཞེས་བསྟན། ཉིན་བདུན་ཚང་ཤོག་བྱང་ཞིག་ལ་པར་ཆེན་པོ་གཅིག་དང་ཚིག་ཐུང་ངུ་ཞིག་བྱས་ན་ཡང་ཡང་ཀློག་ཆོག།
+
+སྤྲོ་ཚོད་ཅན་གྱི་[སྐད་ཆའི་ཤོག་པར་](/games/conversation-cards/) ཡང་ན་རོགས་པ་པོར་ཕྱོགས་གཞན་ལ་བསྐུར་ན་དེ་ནི་རྗེས་མའི་འབོ་བའི་དགོས་དོན་ཞིག་ཡོད་པར་སྦྱིན།
+
+ཀླད་ཆས་ཀྱི་འདེམས་སྒྲུག་དང་སྒྲིག་འགོད་ལ་ཞིབ་འཚོལ་ཐད་ལ་[ཡིག་ཆ་དང་བརྙན་ཁྲ་](/caregiving/tablets-and-screens/) ལ་ལྟ་ཞིག ཡང་ན་མི་སྤྱིར་ཞལ་འདྲ་ཕྱིར་དུ་སྤྲོད་པ་ནི་[ཞལ་འདེབས་](/activities/visiting/) ཀྱི་ལམ་སྟོན་ལ་ལྟ་ཞིག

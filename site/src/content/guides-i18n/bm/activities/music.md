@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Musiki sɛbɛnw dementia bana minɛnw ye"
+seoTitle: "Dementia kɔnɔ musiki sɛbɛnw: playlist ni ladilikanw"
+description: "Dementia bana min bɛ ɲɛnamaya la, o ye musiki ka playlist yɛrɛ ta, musiki kɛlɛ 15 ta, ani ladilikanw ka ɲɛnamaya kɔ kelen-kelen ma cogo min na."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Musiki ye kɛlɛ dɔ ye min ka ɲɛ dementia bana minɛnw ye ka sɔrɔ ka fara u ɲɛ kan.
+  I bɛ se ka playlist ta u ka musiki ma min ye u ka ɲɛnamaya fɔlen, u ka
+  dɔnkili ni u ka jamana ta, ka o ta kɛlɛ ni reklam ani wulilen tɛ. I bɛ se ka
+  dɔnkili, kɔlɔ, sɔnɔ ni u ka musiki ka ɲɛ, walasa i ni u ka bɛ kɛ ɲɔgɔn fɛ. Musiki
+  lakana ni musiki ɲɛnagaman sugandi ni waati o waati, ani musiki ka sɛbɛ
+  ka mɛnni ka sabati, ni dɔ u ka dusukasi ka gɛn, o kɔ ka ɲɛnɛ.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Musiki yɛrɛ ta, o ka ɲɛ ka tɛmɛ: musiki min u ka sɔrɔ ka kɛ u dɔnkili fɛɛ ni u ka jamana ni u ka dɔnkili ka sɛbɛnw ye."
+  - "Musiki kelen kelen ta, reklam tɛ ani TV kɛ."
+  - "Dɔnkili, kɔlɔ, sɔnɔ ni musiki ɲɛ kɛ, o bɛɛ ye kɛlɛ ye min bɛ dɛmɛ."
+  - "Musiki lakana bɛ dɛmɛ ka hɔrɔnya, musiki ɲɛnagaman bɛ dɛmɛ ka dusukasi ɲɛ; ka ɲɛnɛ ka mɛnni a ka kɛ cogo min na."
+  - "Musiki kɛlɛ ɲɛnɔgɔnyanw tɛ caman; an bɛ musiki ta ka kɛlɛ ɲɛ dɔ ye, ka tɛ ka kɛ ka dɛmɛ ye."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Musiki jɔn ye dementia bana min bɛ ɲɛnamaya la, o ka ɲɛ?"
+    a: "Musiki min u ye a kɛ ka ca ni a dɔnnen waati ye, a bɛ kɛ u ka ɲɛnamaya kɔfɛ ni u ka tɔgɔ fɛ, ani musiki min bɛ u ka dinɛ ni u ka jamana ni u ka dɔnkili ta. Ni o bɛ se, u ka sugandi ka kɛ. Ka u ka fɛn ɲɛnɛ ni u ka tɛ ɲɛ, walasa i ka a dɔn u bɛ ɲɛ mun, ka musiki min bɛ u dusu gɛn, o bɔ."
+  - q: "Ka mɛ ka sɔnkɔrɔnw kɛ wa?"
+    a: "Mɔgɔ caman bɛ sɔnkɔrɔ ɲɛ, bawo u bɛ wulilen bɔ; mɔgɔ tɔw bɛ a ɲɛ ka tɛmɛ ka kɛ hɛrɛ tɛ, a bɛ u ɲɛ ka ɲɔgɔn. Jɔrɔ fɔ ka kɛ ka mɛ ni karijan ye, walasa aw ka kɛ ɲɔgɔn ye. Ni sɔnkɔrɔ kɛra, sɔnkɛ ka fitinin ka ɲɛ ka kɛ, ani i ka ɲɛ ka kɛ u ɲɛ kɔ."
+  - q: "Musiki bɛ dɛmɛ ka wulilen ni dusu gɛnw ma wa?"
+    a: "Musiki lakana, min u dɔnnen bɛ, bɛ dɛmɛ ka hɔrɔnya lakana. Alzheimer's Association ka a fɔ ko musiki bɛ dɛmɛ ka hɔrɔnya sɔrɔ, o kɔ tɛ fɛɛrɛ bɛɛ kɛ. Ni mɔgɔ bɛ tɛ ɲɛ, a ka ɲɛ ka tɔɔrɔ, ka dɔ, ka wulilen ni ka sɔgɔ ye, o ka ɲɛ."
+  - q: "Dementia ka ɲɛnamaya kɔfɛ bana min bɛ, o bɛ se ka musiki ɲɛ wa?"
+    a: "Mɔgɔ caman bɛ se. Alzheimer's Association ka a fɔ ko mɔgɔ min bɛ dementia ka laban kɔfɛ, a bɛ se ka tapa ni musiki ka dɔnkili ni ko ka kɛ musiki dɔ ye min u dɔnnen bɛ denw ka waati la. Sigi a dɛ kɔrɔ, musiki kɛ ni sɔngɔ ye, ani ɲɛ dɔ bɛ kɛ ni a bolo ɲɛ ni u ka ɲɛ ka sɛɲɛ."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Musiki ye kɛlɛ ye min ka ɲɛ ka sɔrɔ ka fara dementia bana min bɛ ɲɛnamaya la ɲɛ kan. A tɛ wajibiya kɛlɛ dɔ ye: jaabi ɲuman tɛ, ni kɛlɛ dɔ tɛ min ka ɲɛ ka kɛ kɔrɔ. Dɔ min dɔnnen bɛ, a bɛ dɛmɛ ka dɔ ka kɛ ka dusu, a ka tapa ni a ka dɔnkili min bɛ ɲɔgɔn ka dɔnkili, hali ni kuma bɛ u ye gɛlɛn don min na. I ka musiki min ka ɲɛ mɔgɔ ye, ni waati wulilen dɔ, o bɛ se ka kɛ.
 
-## What music activities work for people with dementia?
+## Musiki kɛlɛ minnu bɛ ɲɛ dementia bana minɛnw ye?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Musiki ka ɲɛ, dɔnkili, kɔlɔ, sɔnɔ ni musiki kuma bɛɛ ye kɛlɛ ɲuman ye. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ka a fɔ ko i bɛ se ka musiki ta, ka musiki ni a dɔnkilila kuma, ka dɔnkili ni sɔnɔ dɔ min dɔnnen bɛ, ani ka taa musiki ni kɔnɔfɔlɔ kɛlɛw la dugukolo kɔnɔ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ka a fɔ fana ko kɔlɔ ni sɔnɔ i ko kɔlɔ ni dɔnkili bɛ musiki ka ɲɛ ka bon, ani ko musiki bɛ se ka kɛ ka ɲɔgɔn ka sɔrɔ, kuma ka gɛlɛya kɔfɛ.
 
-## How do you build a personal playlist?
+## I bɛ se ka playlist yɛrɛ ta cogo di?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Playlist min ka ɲɛ ka bon ni o ye musiki ye min bɛ mɔgɔ in ka dusu. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) fana bɛ musiki min bɛ ka mɔgɔ ka ɲɛnamaya la, o jate. Nin ye cogo fɛɛrɛ ye min bɛ se ka kɛ.
 
-### Start with their life
+### A ka ɲɛnamaya fɔlen
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **A ka denmisɛnnin ni a ka ɲɛnamaya kɔfɛ.** Hakili to ka miiri ko radiyo, dɔnkili ni sinɛma la, o waati la musiki jɔn bɛ a la.
+- **Waati nin ka ɲɛ.** Musiki min bɛ a ka sennen ta, a ka dɔnkili ni a ka denw ka musiki min u bɛ tɛmɛ fɛ.
+- **Dinɛ ni jamana.** Dinɛ dɔnkili, gospel, musiki sanuman, walasa musiki min bɛ a ka kan fɔlɔ la.
+- **Baara ni ka kɛ jamana ka kɛlɛ.** Musiki ka dɔnkili, baara dɔ ka musiki, walasa musiki min bɛ waati dɔ la ka kɛ sɔrɔ.
+- **Denw ka hakilina.** Ka a ka balimaw, a ka denw ni a ka tɔɔrɔ ka musiki min u ye a ta kɛ, o dɔnni.
 
-### Think in genres, not just songs
+### Musiki ka siraw ni ko kɛlɛ, sɛbɛ kelen kelen tɛ
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Ni i bɛ hakilina ko i bɛ se ka daminɛ cogo di, i ka siraw dɔw ka miniti dɔw ta, ka a ye min bɛ kɛ, ka a ɲɛnɛ: dɔnkili bandi ni swing, doo-wop, Motown ni soul, rock and roll ka fɔlɔ, country ni western, bluegrass, gospel ni dinɛ musiki, Broadway musiki, jazz, Latin musiki i ko bolero ni mariachi, polka, folk ni classical. Min bɛ kɛ ka sɔnɔ ni dɔnkili, o to; min bɛ ɲɛ ka wuli, o bɔ.
 
-### Make it easy to play
+### Ka kɛlɛ ka sɔrɔ ka fariso
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Reklam tɛ.** Alzheimer's Association ka a fɔ ko reklam bɛ se ka hakili gɛlɛya. Musiki min bɛ kɛ a ka kɛ download, CD, disiki walima reklam tɛ service dɔ kɔnɔ, o ta.
+- **Ɲɛnamaya dɔ min ka fɛ.** Kan dɔ min bɛ kɛ ni bɔtɔn dɔ ye, walima playlist min bɛ tɛ, walasa mɔgɔ o mɔgɔ bɛ se ka kɛ.
+- **Playlist fila ka kɛ.** Dɔ lakana min bɛ dɛmɛ ka hɔrɔnya, ani dɔ ɲɛnagaman min bɛ dɛmɛ ka dusukasi ɲɛ.
+- **Tɔgɔ sɛbɛ.** Mɔgɔ tɔgɔ ni “musiki min ka ɲɛ” sɛbɛ kan min bɛ kɛ, walasa ni denw ni baarakɛlaw bɛ se ka kɛ a kan fana.
 
-## 15 music activities to try
+## Musiki kɛlɛ 15 min ka ko ka ɲɛ
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Ɲɔgɔn fɛ musiki ta.** Sigi ɲɔgɔn kɛrɛ, fɛn wɛrɛ tɛ. Musiki ta ye kɛlɛ dafalen ye.
+2. **Ɲɔgɔn fɛ dɔnkili.** I yɛrɛ daminɛ dɔnkili la. Sɔnɔ ni kuma ka ɲɛ ka kɛ kɛlɛ.
+3. **Kɔlɔ walima tapa ka sɔrɔ.** Ka i ka kɔlɔ fɔ, ka tabli kan tapa, walima tapa fɛlɛ sɔrɔ kɔlɔ dɔ.
+4. **Dɔnkili kɛlɛ dɔ.** Bolo ɲɛ ka sɛɲɛ ka wuli ka taa ka ɲɛ ka dɔnkili, walima sigi ka dɔnkili, ni bolow ɲɔgɔn fɛ.
+5. **Sali dɔnkili.** Sali fitinin ka dɔnkili musiki la, ka sigi walima ka wuli.
+6. **Musiki kuma.** Ka kuma ni a ka sɔrɔ, ka kuma min bɛ kɛ ni hɛrɛ ye: “O bɛ i ko dɔnkili jɛɲɔgɔnya. Ne ye, dɔnkili min kɛra, o kuma.” Ka tɛ ka ɲininka “I bɛ musiki in dɔnna wa?”
+7. **Album dɔ bɛɛ ta.** Disiki min u bɛ fɛ, o ta ka daminɛ ka se ka ban, ni kafe ye.
+8. **Album ka sɛbɛnw ye.** Disiki ka sɛbɛnw ka kuma ka kɛ fasa, mɔtɔ ni mɔgɔw ka jɛɲɔgɔnya kan.
+9. **Sɛbɛn min kɛra filimu musiki kan.** Filimu musiki walima konsɛri min bɛ kɛ u ka waati kɔnɔ, o bɛ kɛ sɛgɛsɛgɛ ɲuman ye. Ka sɔrɔ ka ɲɛmɔgɔ ka sɔrɔ.
+10. **Musiki organi dɔ min dɔnnen bɛ, o ka kɛ.** Pianiso walima gitari ka kɛlɛ min bɛ a dɔnnen, o bɛ se ka ɲɛ ka kɛ kɛlɛ ɲuman ye. Waati nɔgɔn kɔfɛ, a ka notw ɲɔgɔn fɛ ka kɛ ka to.
+11. **Musiki ni baara.** Ka musiki min bɛ a ka ɲɛ, o ka kɛ ka kɔnɔ ka tɛlɛn walima ka dumuni tanga.
+12. **Sɛgɛ musiki.** Ka dɔ dɔ ka musiki ka kɛ ka sɔrɔ ka sɛgɛsɛgɛ ka kɛ sɛgɛsɛgɛ kɔnɔ.
+13. **Dinɛ musiki walima sali.** Ka musiki min bɛ a ka dinɛ kɛlɛ kɔnɔ, o ka kɛ ka dɔnkili ni ɲɔgɔn fɛ.
+14. **Dɔnkili jɛ ni mɔgɔ tɔw ye.** NHS ka a fɔ ko dɔnkili jɛ bɛ dɛmɛ ka hakilinata ni ɲɛnamaya ɲuman ma. Ka dugu kɔnɔ ka mɛn ka dementia ni hakili fɛ ɲɔgɔnya dɔnkili jɛ.
+15. **Musiki kɔnɔ ka taa.** Konsɛri kɛlɛ dɔ, walima musiki yɔrɔ gɛlɛn dɔ. Sigi ni fɛɛn bɔ yɔrɔ ye, ni i fɛ ka bɔ, i bɛ se ka bɔ.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Kuma kɛlɛ dɔ min dɔnnen bɛ, ka ko ka laban ka fɔ, [ko ka laban ka fɔ](/games/finish-the-saying/), o bɛ se ka kɛ, ni i bɛ se ka laban ko yɛrɛ jira waati o waati.
 
-## Matching music to the moment
+## Musiki ka sɛgɛsɛgɛ waati o waati
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association ka a fɔ ko musiki bɛ se ka kɛ ka hakilina ɲuman sɔrɔ: musiki lakana ka hakilina ɲuman sɔrɔ, ani dɔnkili min kɛra mɔgɔ ka dɔnkili la ka hɔrɔnya ka dusu ka wuli.
 
-| Moment | Try | Tip |
+| Waati | Ka kɛ | Ladilikan |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Wuli ka taa | Dɔnnen, ɲɛnagaman dɔ | Musiki kelen sɔgɔma o sɔgɔma bɛ kɛ sugandi ye |
+| Baara | Musiki ɲɛnagaman min dɔnnen bɛ | Musiki bɛ baara ka kɛ i ko ɲɔgɔn ye |
+| Dumuni | Musiki sɔnɔ ma kɛ wulilen | Ka a kɛ ka sɔrɔ, walasa a kɛ dumuni ni ka ɲɛ tɛ |
+| Tile kɔfɛ | Musiki lakana ni dɔnnen, ni hɛrɛ bɛ tɛ | Ka [tile kɔfɛ hakili gɛlɛya](/caregiving/late-day-restlessness/) ɲɛ |
+| Sɛgɛ | Musiki sɛgɛ, ni a ka fitinin bɛ | Ka sɔnɔ dɔgɔya ani ka fitinin dɔgɔya |
+| Ɲɛnamaya kɔfɛ | Musiki min u ka ɲɛ, a ka hɛrɛ dɔgɔ | Sigi ɲɔgɔn fɛ, ka bolo ɲɛ |
 
-## Tips for a good experience
+## Kɛlɛ ɲɛ kɛlɛ ka ladilikanw
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Fɛn wɛrɛ ka wulilen ɲɛ.** Alzheimer's Association ka a fɔ ko i ka bolo, ka da ani ka TV ɲɛ, walasa musiki kelen bɛ sɔnɔ.
+- **Sɔnɔ ka dɔgɔ.** Musiki ka kɛ ɲɛnagaman ye, a tɛ ka kɛ gɛlɛn. Ni mɔgɔ bɛ sɔnɔ dɛ ɲɛ ka kɛ, a ka sɔnɔ ka kɛ fitinin ye, ka kɛ ka bɛn; [sɔnɔ](/brain-health/hearing/) ka ɲɛ ka ɲɛ.
+- **Ɲɛ ka musiki min bɛ dusu bin.** Musiki dɔ bɛ dusukasi jɛnɛ, bɔnɛ walima ɲɛnamaya bɛ dusu bin. Ni musiki dɔ bɛ mɔgɔ dusu bin, aw ka a dusu, ka musiki wɛrɛ kɛ.
+- **Ka mɔgɔ ka kuma ta.** Ni se bɛ, ka mɔgɔ yɛrɛ ka musiki sugandi, ani a ka “ayi” ta.
+- **Ka waati ni kɛlɛ ɲɛ.** Musiki miniti duuru ye kɛlɛ ɲuman ye. Musiki ka kɛ ka bɔ, ka sigi ɲɔgɔn fɛ, o fana ye kɛlɛ ɲuman ye.
 
-## What does the research say about music and dementia?
+## Ɲɛnɔgɔnya bɛ musiki ni dementia kan cogo di?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Ɲɛnɔgɔnya bɛ kɛ tɛ caman. [2025 Cochrane ɲɛnɔgɔnya](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) ye ɲɛnɔgɔnya ye min ka ɲɛ ka sɛbɛnw 30, musiki sɛgɛsɛgɛ ni mɔgɔw dɔw ye, o kɔnɔ mɔgɔ caman ye yɔrɔ min bɛ mɔgɔ ka tɔɔrɔ kɛ ni nɛgɛ ye. A ye a yɛrɛ ka sɔrɔ ko o sɛgɛsɛgɛw bɛ dɛmɛ ka dusu dimi dɔgɔya dɔgɔya, ka dɔ ka kɛ kɔrɔ ni sɛgɛsɛgɛ dɔw bɛ kɛ, nka a tɛ dɔ jira ka ɲɛ kɛ ka hakili gɛlɛya, ka ɲɛnamaya ɲuman ni hakili ni dɔnkili ɲɛ, ani ka kɛlɛ kɔfɛ ka se.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+An bɛ musiki ta bawo a ye kɛlɛ ɲuman ye min bɛ se ka kɛ ni hɛrɛ tɛ ni mɔgɔ ye ɲɔgɔn fɛ, a tɛ kɛlɛ ye ka mɔgɔ ka bana ka kɛ. Dɔnɔ kɛlɛ ɲɔgɔn ye, [dɔnkili kɛlɛ dɔw ka sɛgɛsɛgɛ](/activities/care-home-groups/) ɲɛ; musiki ni sɛbɛnw ni kuma ɲɔgɔn fɛ, [kuma ka kɛlɛ](/activities/reminiscence/) ɲɛ.

@@ -1,32 +1,29 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Sɔgɔsɔgɔ ani hakili ka ɲɛnɛmaya: Sɛbɛnw b'a jira"
+seoTitle: "Sɔgɔsɔgɔ ni dimansi: Sɛbɛnw b'a f'a ye"
+description: "Sɛbɛnw b'a jira ko yɛrɛ sɔgɔsɔgɔ ni dimansi ka yɛrɛyɛrɛ ka ɲɛ, ani cogo min na mɔgɔ kɔrɔw ni dimansi ka mɔgɔw bɛ se ka sɔgɔ ka ɲɛnɛ ani ka sigi ka kɛ kɛnɛ ni ɲɛnɛ."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Sɛbɛnw b'a jira ko sɔgɔsɔgɔ ka ɲɛ ni dimansi ka yɛrɛyɛrɛ ye, ani Lancet Commission ka 2024 kalan b'a jira ko sɔgɔsɔgɔ tɛ ka kɛ 14 ka yɛrɛ ye min bɛ se ka dɔn ka ɲɛfɛ. Kalan kɔrɔw ma dimansi ka ɲɛfɛ sɔgɔsɔgɔ ye. Sɔgɔsɔgɔ b'a dɛmɛ ka ɲɛnɛmaya, ka sigi, ka hinɛ ani ka dɔrɔn ka sɔgɔ, o de y'a to tala ka kɛ, ka taa, ka sigi ka kɛ kɛnɛ ni ɲɛnɛ ani ka dansa. Aw ka sɔgɔsɔgɔ kura ka taa ɲɛ ni dɔktɔrɛ ye sani aw bɛ se ka kɛ a kɔ.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Mɔgɔ min bɛ sɔgɔsɔgɔ ka kan, o bɛ dimansi ka yɛrɛyɛrɛ ka dɔgɛ kosɔn, nka o bɛ bɔ sɛbɛnw kɔnɔ, tɛ kalan kɔnɔ."
+  - "Ɲɔgɔn sɔgɔsɔgɔ kalan min bɛ kɛ mɔgɔ kɔrɔw bɛɛ ye san 5 ka kɔnɔ, a ma jira ko hakilina ka yɛrɛyɛrɛ bɛ kɛ sɔrɔ ka dɔgɛ."
+  - "CDC ka kuma mɔgɔ kɔrɔw ye, min bɛ san 65 kɔrɔ, b'a jira ko sɔgɔsɔgɔ min bɛ kɛ sɔgɔ ni sigi ye, ani ko sɔgɔsɔgɔ dɔ bɛ ɲɛ ko sɔgɔsɔgɔ tɛ yen."
+  - "Dimansi ka mɔgɔw kosɔn, sɔgɔsɔgɔ dɔgɔ, nɔgɔn ni dɔnkili ye, i ko taa ka kɛ don o don ni sɔgɔsɔgɔ, i ko taa tɛrɛ kɔrɔ ka kɛ kɛnɛ ni ɲɛnɛ, o bɛ ɲɛ ka tɛmɛ ka ɲɛfɛ ni hakilina."
+  - "Mɔgɔ ni san 4 ka kɔnɔ bɛ bɔ mɔgɔ 1 kɔnɔ ka sɔgɔ, o de kosɔn sigi ni jɔ min bɛ se ka dɔn, o bɛ kɛ kɔfɛ."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Sɔgɔsɔgɔ bɛ se ka dimansi ka ɲɛ?"
+    a: "Mɔgɔ tɛ se ka o da. Sɛbɛn caman b'a jira ko sɔgɔsɔgɔ ka ɲɛ ni dimansi ka yɛrɛyɛrɛ ye, nka dɔktɔrɛ kɛlɛ tɛ jira ko sɔgɔsɔgɔ bɛ ka ɲɛ. Sɔgɔsɔgɔ bɛ ɲɛnɛmaya caman dɛmɛ, o de kosɔn a ka ɲɛ ka kɛ."
+  - q: "Dimansi ka mɔgɔ bɛ se ka sɔgɔ ka ɲɛ?"
+    a: "Ɲɛnɔgɔnin, hali bɛ kɛ ni labɛnni ye. Sɔgɔsɔgɔ kɔnɔ bɛ kɛ ni kɔlɔsili ye; NIA b'a fɔ ko aw ka dɔktɔrɛ ye sɔgɔsɔgɔ kura ka taa ɲɛ, ka sooɲɛ ɲɛ, ka ji di, ani ka sɔgɔsɔgɔ ka dɔgɔ. Aw ka tɛmɛ ni mɔgɔ ye tɛrɛ, wa ɲɛ fanga ka ban, walasa a ka kɛ ka ɲɛ."
+  - q: "Sɔgɔsɔgɔ jɔ min bɛ se ka kɛ sigilen na?"
+    a: "Sigilen sɔgɔsɔgɔ ye sigilen ka tɛrɛ, ka sigi ka kɛ kɛnɛ ni ɲɛnɛ, ka bɔlɔn bɔ, ka kɛ kɔnɔ fɔ ni ŋɔnɔ. Nin bɛɛ bɛ kɛ ɲɛnɛ ni sigilen ye."
+  - q: "U bɛ se ka sɔgɔsɔgɔ ka ɲɛ, nka u tɛ wɛrɛ ka kɛ?"
+    a: "Aw kaforo u ma ɲɛ. Aw ka ɲɛ ka sɔrɔ tɛmɛ kɔ, walasa aw ka sɔgɔ ni u ye, walima dɔnkili kɛ fɔlɔ."
+
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +48,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Sɔgɔsɔgɔ ye sɛbɛnkan ye min bɛ caman kɛ hakili ka ɲɛnɛmaya kɔnɔ. Sɛbɛnw b'a jira ko a bɛ ka ɲɛ ni dimansi ka yɛrɛyɛrɛ ye, nka u ma jira ko sɔgɔsɔgɔ bɛ dimansi ka ɲɛfɛ. Nin min bɛ dɔn ɲɛ, ko sɔgɔsɔgɔ b'a dɛmɛ ka sigi, ka sɔgɔ, ka hinɛ, ani ka dɔrɔn ka sɔgɔ, a ka kɛnɛ mɔgɔ bɛɛ ye. Nin kɔrɔfɔ in bɛ sɛbɛnw f'a ye, bɛ kuma sɔgɔsɔgɔ ka ci mɔgɔ kɔrɔw ye, ani bɛ sɔgɔsɔgɔ jɔ fitinin ye min bɛ se ka kɛ ni dimansi ka mɔgɔ ye.
 
-## Does exercise lower the risk of dementia?
+## Sɔgɔsɔgɔ bɛ dimansi ka yɛrɛyɛrɛ ka dɔgɛ wa?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Sɛbɛnw b'a jira ko mɔgɔ min bɛ sɔgɔsɔgɔ, o tɛ dimansi ka ɲɛ caman, nka sɛbɛnw ka kuma bɛ ɲɛ fanba. [Lancet Commission ka 2024 kalan kan dimansi ko](https://doi.org/10.1016/S0140-6736(24)01296-0) b'a jira ko sɔgɔsɔgɔ tɛ ka kɛ 14 ka yɛrɛ ye min bɛ se ka dɔn ka ɲɛfɛ. Dimansi ka yɛrɛyɛrɛ bɛɛ bɛ sɔrɔ 45% dunuya dimansi kɔnɔ, a ka misali kɔnɔ.
 
-Here is what the evidence looks like:
+Nin ye sɛbɛnw ka jatigɛ ye:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Sɛbɛn min tɛ kɛ kalan ye, u bɛ jira kɛnɛ kɔfɛ.** Sɛbɛn 58 ka kuma min Commission ye kalan, o b'a jira ko mɔgɔ min bɛ sɔgɔsɔgɔ, o bɛ dimansi ka yɛrɛyɛrɛ ka dɔgɛ 20% ka kɔ. Kɛlɛ bɔ mɔgɔ min tɛ sɔgɔsɔgɔ kosɛbɛ ni mɔgɔ min bɛ sɔgɔsɔgɔ dɔ bɛ kɛ, o de ye kɛlɛ ka bon ka ca.
+- **Sɔgɔsɔgɔ tɛ ka bɛn kɛnɛ kan ɲɛ kelen.** Commission b'a fɔ ko mɔgɔ min tɛ sɔgɔsɔgɔ, o bɛ se ka dimansi sɔrɔ. A b'a fɔ fosɔ ko dimansi ka hakili ka yɛrɛyɛrɛ fɔlɔfɔlɔ, min bɛ kɛ san caman ɲɔgɔn na sani a bɛ jaabi, o bɛ se ka mɔgɔ ka sɔgɔsɔgɔ ka dɔgɛ.
+- **Kalan kɔrɔw tɛ ɲɛ kosɛbɛ.** Kalan kelen kɔnɔ, mɔgɔ 945 min bɛ san 78 kɔrɔ, u y'a kan sɔgɔsɔgɔ min bɛ kɛ dɔ-dɔ-dɔ kalan ye san 5 kɔnɔ, walima u y'a kan mɔgɔ kɔrɔw ye. San 5 tɛmɛnen na, hakili ka yɛrɛyɛrɛ tɛ ɲɛ kosɛbɛ u ce. Mɔgɔ caman min bɛ mɔgɔ kɔrɔw ye, u bɛ sɔgɔsɔgɔ fosɔ, o de kosɔn kalan in tɛ dɔn ka fɛn.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Amerikɛ ka Hakilina Ka Kalan Kɔnɔ Kɔnɔtigi (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) b'a fɔ kɔrɔfɛ ye. Sɔgɔsɔgɔ ni Alzheimer ka ɲɛfɛ ka kan, tɛ jirali sɔrɔ kɛlɛ kɔnɔ, ani kalan kɔrɔw tɛ to ko sɔgɔsɔgɔ bɛ dimansi ka ɲɛfɛ walima ka dɔgɛ. Nka sɔgɔsɔgɔ bɛ kɛ ɲɛnɛmaya ka ɲɛ ko sɔrɔ, ko ba, ko sukari, ko tansiyɔn, ani ko sɛnɛ kɔfɛ. Ɲɛnɛmaya nin dɔw bɛ ka ɲɛ ni hakilina ka yɛrɛyɛrɛ ye.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Kɔrɔfɛ ye nin ye: sɔgɔsɔgɔ ka kɛ aw ka ɲɛnɛmaya bonya bi, ka aw ka kɛ ka ɲɛ. Hakili ka ɲɛnɛmaya dɔ bɛ se ka kɛ ɲɛnɛmaya dɔ ye, nka tɛ ɲɛdɔn.
 
-## How much activity do older adults need?
+## Mun ye sɔgɔsɔgɔ ka jɛya san 65 kɔrɔ mɔgɔ kɔrɔw ye?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[CDC ka kɔrɔfɔ san 65 kɔrɔ mɔgɔ kɔrɔw ye](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) b'a fɔ ko sɔgɔsɔgɔ ni ɲɛ sɔgɔsɔgɔ ye sɔgɔsɔgɔ saba ye dɔrɔn dɔ kɔnɔ kɔ dɔ:
 
-| Type | Weekly amount | Examples |
+| Sɔrɔ | Dɔrɔn kɔnɔ kɔ dɔ | Misaliw |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Sɔgɔsɔgɔ min bɛ ɲɛ fɛn | Dɔrɔn 150 ɲɛgɛn dɔ, i ko 30 kɔrɔ san 5 kɔnɔ | Tɛrɛ ɲɛ, dansa, ji kɔnɔ sɔgɔsɔgɔ |
+| Sigi ka fanga | Dɔrɔn 2 kɔrɔ, ka kɛ ni sɛgɛn bɛɛ ye | Ɲɛ fanga ni ŋɔnɔ fili, ni sɛɛnɛ ni ka kɛ kɛnɛ |
+| Sooɲɛ ka taa | Ka taa ɲɛ | Ka taa ka tɛrɛ ni kɔfɛ sɔgɔ, ka wuli sigilen na |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Nin ye ɲɛnɛmaya ye, tɛ ka tɛ ɲɛnɛmaya dɔ ye. CDC b'a fɔ ko, ni aw tɛ se ka u bɛɛ kɛ, aw ka sɔgɔsɔgɔ ka kɛ aw bɛ se ka kɛ ni aw ka fanga ni aw ka dɔnkili ye. Sɔgɔsɔgɔ dɔ bɛ ɲɛ ko sɔgɔsɔgɔ tɛ yen.
 
-## Gentle ways to move for older adults
+## Mɔgɔ kɔrɔw ka sɔgɔsɔgɔ ka cogo ɲɛnɛ
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Tɛrɛ ɲɛ ni mɔgɔ dɔ ye.** Tɛrɛ ɲɛ ni teri, ni dugukolo kɔnɔ mɔgɔ, walima ni tɛrɛ sɔgɔsɔgɔ kɔnɔ mɔgɔw ye, o bɛ kɛ kumakan ni sigi ye.
+- **Sigilen ka sɔgɔsɔgɔ.** Sigilen ka ɲɛ ka ɲɛ kɛnɛ, ka ɲɛ kɛ kɛnɛ ni ɲɛnɛ, ka tɛrɛ ka kɛ ka dɔrɔn ka sɔgɔ, ka ka sigi ka kɛ kɛnɛ ni ɲɛnɛ.
+- **Dansa ka kɛ kɔnɛ kɔnɔ.** Ka dɔ ka dunɛ ka kɛ mɔgɔ ka dɔnkili ni ɲɛnɛ, ka sɔgɔsɔgɔ ka kɛ ni ŋɔnɔ ye. [Dunɛ ka sɔgɔsɔgɔ kɔnɔ kalan](/activities/music/) bɛ kuma caman di.
+- **Fanga ni tigɛ ka fɛnw.** Ji mugu fili ni ɲɛ sɔgɔsɔgɔ, walima ni ka dunɛ kɔnɔ kalan ka kɛ ni ka kɛ fɛnw ka kɛlɛ ye.
+- **Kɔnɔ ka ɲɛ walima kɛ wulɔ.** Ji di ka kɛ, ka mɛn, ka kɔnɔ kɛ, ka donnaw sɛgɛ, o bɛɛ bɛ kɛ sɔgɔsɔgɔ ye. Ka ɲɛ [dugukolo ni ɲɛ kɛlɛw](/activities/outdoor-and-gardening/) ani [so kɛlɛw](/activities/household-tasks/) kan.
+- **Ji kɔnɔ sɔgɔsɔgɔ.** NIA b'a fɔ ko ji kɔnɔ sɔgɔsɔgɔ ye sɔgɔsɔgɔ ye min bɛ se ka kɛ mɔgɔ min bɛ sɛn ka tɛmɛ dugukolo kan.
 
-## How to exercise with someone living with dementia
+## Cogo min na ka sɔgɔsɔgɔ ni dimansi ka mɔgɔ ye
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Dimansi ka mɔgɔ kosɔn, kɛlɛ ye hɛrɛ ni dusukun ni sɔgɔsɔgɔ bɛɛ ye, tɛ ka jɛya ka ɲɛ. NIA b'a fɔ ko sɔgɔsɔgɔ b'a dɛmɛ ka mɔgɔ ka sɛgɛn, ka kɔnɔ ni dusukun ni ŋɔnɔ ɲɛnɛmaya, ani ka hinɛ ni sigi ka ɲɛ. Aw ka dɔktɔrɛ ye sɔgɔsɔgɔ kura ka taa ɲɛ. Kalan kɔnɔ tɔw ka ɲɛnɛ tɔw, [NIA ka ɲɛdɛfɛnw kalan kɔnɔ](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) bɛ kɛ nin ye:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Tɛrɛ ɲɛ ni mɔgɔ dɔ ye don o don.** Sugandi tɛrɛ min bɛ ɲɛnɛma, min tɛ ka ca, ka ɲɛ. Ni mɔgɔ tɛrɛ ka kɛ dɔrɔn, a sɛnɛ ka kɛ ni tɛlɛfɔn nɔmɔrɔ bɛ dɛ ka ɲɛ.
+2. **Ka ɲɛnɛmaya kalan ka bɔ ka kɛ ni sɔgɔsɔgɔ ye.** Ka ɲɛ ni u kɔ, sigilen walima tɛrɛ.
+3. **Ka sɔgɔsɔgɔ ka kɛ dɔgɔ.** "Sɔgɔsɔgɔ" dɔgɔ caman bɛ ɲɛ ka tɛmɛ sɔgɔsɔgɔ kɔnɔ dɔ kan.
+4. **Dunɛ ɲɛ.** Dunɛ min ka dɔnkili, o bɛ sɔgɔsɔgɔ ka kɛ kɛnɛ ye, tɛ ka kɛ baara ye. Ni mɔgɔ bɛ sɔgɔsɔgɔ ni dunɛ ye, o bɛ se ka dansa.
+5. **Ji ni sɔgɔsɔgɔ kɔ labɛnni.** Ji walima jus di sɔgɔsɔgɔ kɔnɔ ni a kɔfɛ, ani ka labɛnni sɔgɔsɔgɔ ka kɔnɔ ni sɔgɔsɔgɔ kɔ kɔ ye.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Ni tɛrɛ ka kɛ ɲɛnɛ, [NIA ka kalan Alzheimer ka mɔgɔ ka ɲɛdɛfɛ kan](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) b'a fɔ ko sigilen sɔgɔsɔgɔ bɛ kɛ. Nin ye sigilen sɔgɔsɔgɔ ni yoga, ka bɔlɔn bɔ, ka teri walima ballɔn bɔ, ka ɲɛ fanga ka ban, ani ka sɔgɔ ni pedal. Sɔgɔsɔgɔ fɛnw bɛɛ, i ko sɛgɛ ni ɲɛ sɛgɛ, bɛ kɛ sɔgɔsɔgɔ ye.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Aw ka ɲɛ ka kɛ kɛnɛ ni ɲɛnɛ. Lancet Commission ma sɛbɛn sɔrɔ ko sɔgɔsɔgɔ bɛ kɛ dimansi ka ɲɛ sigidenw ka yɛrɛ wɛrɛ ye, i ko ko sɔgɔsɔgɔ bɛ ɲɛ ka sɔgɔsɔgɔ. Aw ka sɔgɔsɔgɔ ka kɛ ni aw bɛ se ka kɛ ni ɲɛ ye, tɛ ka kɛ ni kɛlɛ ka kɛ ni ɲɛnɛma ye. Ni mɔgɔ b'a fɔ ko "ɔɔ, ayi", o ka ɲɛ. [Ni u b'a fɔ ko ayi, o kan](/caregiving/when-they-say-no/) bɛ ɲɛnɛma caman di ka ɲɛ kɔfɛ. Ka sɔgɔsɔgɔ ka kɔ ka ɲɛ, walima ka sigi ni aw ye dugukolo kan, o bɛ kɛ ɲɛfɛ ye.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Sɔgɔsɔgɔ kɔfɛ, sɛgɛn ɲɔgɔn ye, i ko [Calm Breathing](/games/calm-breathing/), o bɛ dɛmɛ ka aw ka sigi. Sigilen sɔgɔsɔgɔ min bɛ kɛ ni bolo ye, [Sort Together](/games/sort-together/) ni [Picture Bingo](/games/picture-bingo/) bɛ kɛ ɲɛ tabali kan.
 
-## Balance and fall safety
+## Sɔgɔsɔgɔ ni sigi ka labɛnni
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Bɔ bɛ kɛ caman, ani bɛ kɛ kɛlɛ. [CDC ka kalan](https://www.cdc.gov/falls/data-research/facts-stats/index.html) b'a jira ko san kelen kɔnɔ, san 65 kɔrɔ mɔgɔ dɔ bɛ bɔ, nka mɔgɔ tɛ caman bɛ dɔktɔrɛ fɔ. Bɔ kelen bɛ kɛ ka mɔgɔ bɔ kɔfɛ tɔ. Sababu kɔrɔw min CDC y'a fɔ:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Ɲɛ ni kɔnɔ fanga ka dɔgɛ
+- Tɛrɛ ni sigi ka kɛlɛ
+- Dawolo dɔw, o kɔnɔ kɔ sɔrɔ ni sigi kɔrɔ, ani ni hɛɛrɛ dɔw
+- Ɲɛ ka ɲɛfɛ kɛlɛ
+- Ɲɔgɔn ka kɛlɛ, walima ka sɛgɛ tɛ ɲɛ
+- So kɔnɔ kɛlɛw, i ko fɛnw ka caya, sɛgɛ ka kɛ, ani fɛn ka tɛ kɛ
 
-To move more safely:
+Sɔgɔsɔgɔ ni labɛnni kɔnɔ:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Sigi ni sigi kɔrɔ ni fanga bɛ.** Sigi min tɛ kɛ ni tɛrɛ ye, ani ka dɔ kɔrɔ walima ka ɲɛ sigilen sɔgɔsɔgɔ kɔnɔ.
+- **Ka sugandi ka tɛ sɛgɛ ka dɔrɔn.** Fɛnw ka kɛlɛ ni tɛ bɔ, i ko fɛnw, tɛrɛ, walima teriw.
+- **Ka wuli ka dɔrɔn ni sigi.** Ni mɔgɔ bɛ bɔ, walima a bɛ ɲɛ kɔrɔ ni kɔ ye, ka sɔgɔsɔgɔ ka tɛ kɛ.
+- **Ka kɔnɔfɛn ka bɛn ɲɛ.** Ka taa ka ɲɛ kɛ ni sigi ye, tɛ ka ɲɛ kɛ ni bantan ka fɛn ye.
+- **Ka sɔgɔsɔgɔ ka kɛ ni ɲɛ ka kɛ kɔfɛ.** Sigi ka wuli sigilen na, ka tɛrɛ ka kɛ kɛnɛ ni ɲɛ ye, o bɛ ɲɛ CDC ka sigi sɔgɔsɔgɔ ka misali ye.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC b'a fɔ ko mɔgɔ min bɔ ka ka kɔnɔ kɛ, o bɛ kɛ dɔktɔrɛ ye ka taa ɲɛ, a sɔrɔ ni a bɛ kɛ dɔgɔ ye, ani ni a bɛ dawolo ni jɔ min bɛ kɛ ɲɛ, o ka mɔgɔ ye.
 
-## Talk with a doctor
+## Dɔktɔrɛ ni kumaw
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Aw ka dɔktɔrɛ ye sɔgɔsɔgɔ kura ka taa ɲɛ, kɔrɔfɛ ni mɔgɔ min bɛ dusukun walima ŋɔnɔ ka bana, walima ɲɛ bɛ ka kɛlɛ, walima sigi ka kɛlɛ, walima dimansi ka mɔgɔ ye. Dɔktɔrɛ walima sɔgɔsɔgɔ dɔktɔrɛ bɛ se ka sɔgɔsɔgɔ ka jɛya kɔfɛ fɔ, ka a jaabi ni dawolo bɛ sigi ka kɛlɛ wa. Ka bɔ kɛ bɔ, hali ni a tɛ kɛ kɔlɔsi ye, o kan ka aw ka dɔktɔrɛ fɔ. Ni sɔgɔsɔgɔ kɔnɔ fɛn dɔ bɛ kɛ kɔlɔsi walima ka kɛlɛ, ka sɔgɔsɔgɔ ka tɛ. Ni kɔnɔ kɛ kɛnɛ dɔgɔ ka kɛ, ni sɛgɛ ka kɛlɛ ka kɛ, walima hakili ka kɛlɛ ka kɛ kɛnɛ, wele 15.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Nin kɔrɔfɔ ye kumakan kɔrɔ ye, tɛ dɔktɔrɛ ka kuma ye. A kɔnɔ [ka kɔrɔfɔ ka ɲɛ ye ɲɛnɛ](/medical-disclaimer/) ɲɛ. Ni aw b'a fɛ ka kɔrɔfɛ ka ɲɛ kɔnɔ, aw ka [sɛbɛn min b'a fɔ ko dimansi ka ɲɛfɛnw bɛ kɛ cogo di](/brain-health/risk-factors/) ni [dimansi bɛ se ka dɔgɛ wa](/brain-health/can-dementia-be-prevented/) ka kalan.

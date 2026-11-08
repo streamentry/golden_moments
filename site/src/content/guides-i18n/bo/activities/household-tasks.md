@@ -1,32 +1,28 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "བརྗེད་ནད་ཀྱི་མིར་ཁྱིམ་ལས་ཀ་རྩེད་མོ་ཡིན་པ"
+seoTitle: "བརྗེད་ནད་ལ་ཁྱིམ་ལས་རྩེད་མོ། ཉིན་རེའི་ལས་ཀ"
+description: "ཉལ་ཆས་བསྡུ་བ་དང་ཤོག་བྱང་ལྡོག་པ་དང་ཤོ་བཀོད་པ་ལ་སོགས་པའི་ཁྱིམ་ལས་ཀ་རྣམས་བརྗེད་ནད་ཀྱི་མིར་དོན་ཆེ་བའི་རྩེད་མོ་ཡིན་ཐུབ། བཀོད་སྒྲིག་བྱེད་ཐབས་, འགྱུར་བ་དང་བདེ་འཇགས་སྲུང་བའི་ཐབས་."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  ཉིན་རེའི་ཁྱིམ་ལས་ཀ་ཁ་ཤས་, དཔེ་ཡིག་གི་ཉལ་ཆས་བསྡུ་བ་, ཤོ་བཀོད་པ་, ཐབ་ཁྲ་སྦྲེལ་བ་, ཤིང་ཆུ་སྦྲེལ་བ་དང་ཟས་ཚོད་ཟླ་བ་ལ་རོགས་བྱེད་པ་ལ་སོགས་པས་བརྗེད་ནད་ཀྱི་མིར་དོན་ཆེ་བའི་རོགས་རམ་བྱེད་ཐུབ། ཤེས་པའི་ལས་ཀ་འདེམས་ཤིག་, གོ་རིམ་ཅི་ཡོད་ཀྱི་ཚུལ་གཅིག་ཅིག་ནས་སྤྱད་ཤིག་, མཆེ་ཀ་དང་ཚ་ཚ་ཡི་ཉེན་ཁ་ཕྱིར་བཅོས་ཤིག་, ཡང་ “ལེགས་པོ་” ལས་མ་དགོས་པར་ཐམས་ཅད་ཀྱི་རྩེ་མོ་ཞིག་ཟེར་ནས་བརྩི་ཤིག་.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "ཤེས་པའི་ཁྱིམ་ལས་ཀ་ཞིག་གིས་མི་ལ་ཁྱིམ་གྱི་ཕྱོགས་སུ་འབྲེལ་བ་ཡོད་པར་མཐོང་ཐུབ་པས་, ལས་ཀ་ལེགས་པོ་ཡིན་མིན་ལས་ཚོར་སྣང་འདི་ཆེ་བ་ཞིག་ཡིན།"
+  - "ལས་ཀ་རེ་རེ་ནས་སྡེ་ཆུང་ཆུང་ཅིག་སྤྲོད་ཅིག་, བཤད་ནས་མ་བསྟན་པར་བསྟན་ཅིག་, ཡང་ཡང་བཀྲོལ་བའི་ཚེ་ཕྲན་ཚོ་ཞིག་ཟེར་ནས་རང་ཉིད་ཀྱིས་ཕྱིར་སྐྱོར་ཤིག་."
+  - "ཤིང་བཙོན་, བཀྲུ་རྫས་དང་ཁྲ་བཞིན་ཆུ་ཚོགས་ལ་སོགས་པ་ལྟོད་ནས་ཉར་ཤིག་, ཟས་བསྐྲུན་མ་མ་བྱས་ཧེ་ལ་ཡོད་རྒྱུ་ཕུབ་ཀྱི་ཤུབས་དང་ལོ་ཤེས་རང་འགུལ་སྒྲིག་བྱེད་ཐབས་སྦྱར་ཤིག་."
+  - "ཤོ་བ་དཀྲིལ་མ་ཚོང་ནང་མི་དགོས། ཡང་ཡང་བྱེད་དགོས་ན་ཕྱིས་སུ་མི་མཐོང་བའི་ཚེ་བྱེད་ཤིག་."
+  - "ལས་ཀ་གང་ཞིག་ཀྱིས་ཁ་ཕུལ་བ་བསྐྱེད་ན། ལས་ཀྱི་རྣམ་པ་བདེ་ཤོས་ཤིག་ལ་བརྗེ་ཤིག་, དུས་གཞན་ཞིག་ཏུ་ཡང་བསྐྱར་བཀོད་ཤིག་, ཡང་ན་ལྷན་ཅིག་ཏུ་འདུག་ཤིག་."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "བརྗེད་ནད་ཀྱི་མི་ཚོས་ཅི་འདྲའི་ལས་ཀ་ལ་རོགས་རམ་བྱེད་ཐུབ་སྲིད་དམ།"
+    a: "མང་པོས་ཤོ་བ་བསྡུ་བ་, ཉལ་ཆས་དབྱེ་བ་, ཤོ་སོགས་བསྒྲིག་པ་, དཀྲིལ་བཅོས་པ་, ཐབ་ཁྲ་བཀྲུ་བ་, སྒྲུབ་པ་, ཆུ་སྐྱེས་སྐྱེམ་པ་དང་སྲན་གྱི་ཆུ་ཚོགས་འཁུར་བ་ལ་སོགས་པས་རོགས་རམ་བྱེད་ཐུབ་སྲིད། སྔོན་ལ་མི་དེས་བྱས་པའི་ལས་ཀ་འདེམས་ཤིག་, དེ་ད་ལྟ་ཐུབ་པའི་ལས་ཀྱི་ཚད་དང་སྦྲེལ་ཤིག་. ཕྱིས་ནས་ཕྱག་རྒྱ་ཅིག་ཚོད་བཟུང་ཡང་དགོས་ཤིང་། དཔེར་ན་ཉལ་ཆས་ཞེན་པ་ལ་སོགས་པ་ཡང་ཡིན་ཐུབ་ཀྱི་རྒྱུ་མཚན་ཡོད་ཚད་དེས་ཀྱང་ཚིག་མི་ཆེ་ཡིན་."
+  - q: "བརྗེད་ནད་ཀྱི་མི་ཞིག་ཟས་ཁང་ནང་རོགས་བྱེད་བདེ་འཇགས་ཡིན་ནམ།"
+    a: "ཁ་ཤས་ཀྱི་འདི་ཡིན་ནོ། སྐྱོང་བ་གཏིང་ཟབ་པ་དང་ཕྲན་ཚོ་ཡག་པོ་སྦྱོར་ན་ཡིན་ཐུབ། མཆེ་ཀ་, བཀྲུ་རྫས་དང་ཚ་ཚ་སོགས་ལ་ལག་མི་འཁྱེར་བའི་ས་ལ་བཞག་ཤིག་, ཤུབས་ཀྱི་ཤེལ་སྒྲིག་དང་ཡང་ན་རང་འགུལ་ཕྱིར་གཏོང་སྒྲིག་བྱེད་ཤིག་. ཁྱོད་ཀྱིས་བཀྲུ་བའི་ཐབས་ཡོད་པའི་ལས་ཀ་, དཔེར་ན་ལ་ཆུ་བཀྲུ་བ་, འགྲེམ་བ་ཡང་ན་ཕོར་ལ་སྒྲིག་པ་ལ་བྱིན་ཤིག་. མེ་ཁྲིམས་སྒོར་ཡོད་ན་མི་དེ་ཡིས་ཀྱང་ཁྱོད་ཀྱིས་མ་ཚོད་པར་འདོར་མི་ཆོག."
+  - q: "ཁོ་ཚོས་ལས་ཀ་ནོར་ལ་བྱེད་པའམ་ཡང་ན་ཁྲུད་པོ་ལ་ལ་བྱེད་ན་ཅི་བྱེད་དམ།"
+    a: "ཞལ་སླུ་བ་ཡིན། དམིགས་ཡུལ་ནི་དུས་མཉམ་ཀྱི་བསྡད་སྐབས་དང་མི་དེ་རང་ཉིད་ཀྱིས་ཆེད་ཡོད་ཅེས་མཐོང་བའི་ཚོར་སྣང་ཡིན་པས་, ལས་འབྲས་ཀྱི་མཐར་ཐུག་རང་མ་དགོས། ཡང་ཡང་དགོས་ན་ཕྱིས་སུ་འཇོག་ཤིག་, མི་དེས་མི་མཐོང་བའི་ཚེ་བྱེད་ན་ཁོ་ཚོར་སེམས་མི་འཚབ་པར་འགྲོ་ཐུབ།"
+  - q: "ཁོ་ཚོས་རོགས་མི་བྱེད་ན་ཅི་བྱེད་དམ།"
+    a: "“མ་བྱེད” ཞེས་པ་ནི་ད་ལྟ་ལས་ཀ་དེ་སྡུག་པ་, ཚེར་མ་ཡང་ན་སྐྱོ་ཞིང་ཁ་ཤས་ཆེ་བའི་ཚོར་སྣང་ཡིན་ཐུབ། བསྐྲད་པ་མ་བྱེད། ལས་ཀ་ཆུང་ཤོས་ཞིག་ཚོད་ཅིག་བྱེད་ཤིག་, ཡང་ན་ང་ཚོ་དང་ཁ་སྣེ་ཅིག་ཏུ་སྡད་པས་ཀྱང་ཁ་ཤས་ཡིན། ཡང་ན་ཉིན་ཚོད་ལེགས་པོ་ཞིག་ལ་བསྐྱར་དྲིས་ཤིག་."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +41,115 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+བརྗེད་ནད་ཀྱིས་འཚོ་བ་བྱེད་བཞིན་པའི་མང་པོ་ནི་ལོ་ཁ་ཤས་ནས་ཁྱིམ་ཚང་སྐྱོང་བ་, བུ་ཚེ་སྐྱོང་བ་ཡང་ན་ལས་ཁང་ལ་ལས་ཀ་རིམ་པ་སྤྲོད་པ་ལ་ཡོད། ཁྱིམ་ལས་ཀ་དངོས་ཡིག་ལ་རོགས་རམ་གསོལ་བ་ནི་ “ཁྱེད་ཀྱང་ཁྱིམ་ཚང་འདིའི་ནང་གི་གཅིག་ཡིན་” ཞེས་པའི་ཚུལ་ཅི་ཡང་རྩོམ་རིག་ཡིན། ཤོག་ངོས་འདིས་ལས་ཀ་གང་ལེགས་པོར་འགྲོ་བ་, ཇི་ལྟར་སྒྲིག་བྱེད་པ་, འགྱུར་བ་ཇི་ལྟར་ཕྱིར་བཅོས་བྱེད་པ་དང་ཤོ་ཁང་དང་ཉལ་ཁང་གི་བདེ་འཇགས་ཇི་ལྟར་སྲུང་བ་བཤད་ཡོད།
 
-## Why do everyday chores work well as activities?
+## ཅིའི་ཕྱིར་ཉིན་རེའི་ལས་ཀ་རྣམས་རྩེད་མོར་ལེགས་པོ་ཡིན་ནམ།
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+ལས་ཀ་ཤེས་ཤིང་དམིགས་ཡུལ་གསལ་བ་ཡིན་པའི་ཕྱིར་རྩེད་མོར་ལེགས་པོ་ཡིན། རྒས་པའི་ཞིབ་འཇུག་ཁང་ (National Institute on Aging) གིས་ཤོ་བཀྲུ་བ་, ཐབ་ཁྲ་སྒྲིག་པ་, འཕྱི་བ་, ཕྱིག་པ་, ཡི་གེ་ཕྱོགས་སྒྲིག་བྱེད་པ་, ཤོ་བསྡུ་བ་དང་ཁྱིམ་གྱི་རྩི་ཁུངས་སྡུད་པ་ལ་སོགས་པ་ [བརྗེད་ནད་ཀྱི་མིས་ངོ་མཚར་ཞེན་པའི་ཉིན་རེའི་རྩེད་མོ་](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ནང་འདུས་པར་བཀོད་ཡོད། ཨལ་ཛའི་མར་ཚོགས་པ་ (Alzheimer's Association) གིས་ཐབ་ཁྲ་སྒྲིག་པ་ལ་སོགས་པའི་ལས་ཀ་ཞིག་གིས་མི་ལ་ [ཁྱིམ་ཚང་གི་ཆེ་བའི་ཕྱོགས་སུ་སྐྱེས་པ་](https://www.alz.org/help-support/caregiving/daily-care/activities) ཞིག་ཏུ་མཐོང་ཐུབ་པ་ཞིག་ཟེར་ནས་བཤད་ཡོད།
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+ལས་ཀ་ཞིག་ལ་ཁྱོད་ཀྱིས་འགོ་ཚུགས་པའི་རྒྱུ་མཚན་ཡང་ཡོད། “ཁྱེད་ཀྱིས་ཉལ་ཆས་འདི་ལ་རོགས་ཐུབ་ངམ།” ཞེས་པ་ནི་ “ཁྱེད་ཀྱིས་རྩེད་མོ་ཞིག་བྱེད་འདོད་ངམ།” ཞེས་པ་ལས་ “ཡེས་” ཟེར་བར་སླ་བ་ཡིན།
 
-## Which household tasks are good to try?
+## ཁྱིམ་ལས་ཀ་གང་ཞིག་བྱེད་ན་ལེགས་པོ་ཡིན་ནམ།
 
-Start with tasks the person did in the past, then match them to what they can do today.
+མི་དེས་སྔོན་ལ་བྱས་པའི་ལས་ཀ་ལ་འཚོལ་ཞིག་, དེ་ནས་ད་ལྟ་ཐུབ་པའི་ལས་ཀ་ལ་སྦྱར་ཤིག་.
 
-### Laundry and linens
+### ཉལ་ཆས་དང་ཉལ་ཁྲའི་ལས་ཀ་
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **ཁྲ་བཞིན་དང་ཁྲ་ཁྲིན་བསྡུ་བ།** ཆུང་ཆུང་དང་འཐིབ་ཤོས་ཀྱི་རྡུལ་ཚོགས་ཀྱི་བཀྲམ་བསྡུ་བ། ཁྲ་བཞིན་ནི་སྲུང་བ་ཡིན་པས་བསྡུ་བའི་ཐབས་ཅི་ཡང་ནོར་བ་མེད།
+- **རྐང་ཞུགས་མཆུངས་བཅོས།** ཆོལ་བཞིན་གྱི་རྐང་ཞུགས་ཀྱི་སྤྲེལ་ཆ་ཁྲབ་བ། རྒྱབ་སྐྱོར་ཀ་ལ་རྨ་དང་སྐད་གཞན་ཁ་ཤས་ཙམ་ཞིག་སྤྲོད་ཤིག་.
+- **ཞལ་སྐོར་དང་བསྒྲིག་པ།** ཤོ་ཁོག་, ཁྲ་ཁྲིན་ཡང་ན་ཁྲ་བཞིན་ལ་སོགས་པ་བཟོས་ནས་བསྡུ་བ། ཕྱིས་སུ་བསྡུ་བའི་ལས་ཀ་ཆེ་བ་བཏང་བ་ནི་སྐྱེ་བོ་ཡིན།
 
-### Table and kitchen
+### སྟེགས་ཁང་དང་ཟས་ཁང་
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **ཤོ་བཀོད་པ།** ཤོ་གཅིག་ཚད་ཡུལ་འགྲོ་ནས་དཔེ་བཟོ་ཞིག་སྟོན་ཤིག་, མི་དེས་ཀྱང་ཟ་ཐུབ་པར་བྱེད་ཚུལ་ཞིག་. ཀྱེ་རྒྱབ་ཀ་ཞིག་ཡིན་ན་ཡང་། “འདི་ལ་ཤོ་ཞིག་རེ་རེ་ཡོད།” ཟེར་ནས་གཅིག་རེ་རེ་སྤྲོད་ཤིག་.
+- **ཤོ་ཁོག་ཕྱེ་བ།** བཅོས་བྱེད་ཀྱི་ཤོ་ཁོག་དང་ཤོ་ཤུ་, ཀེ་གཞུ་ཞིག་ཚུལ་མཐོང་ཀྱི་ཤོ་ལ་སོགས་པ་བསྡུ། བག་ཚོར་ཡོད་པའི་ཤོ་འདི་རྣམས་ནི་ཐོན་མེད།
+- **ཤོ་སྐྱོང་བ།** ཕྲན་ཚོ་བཅས་ཀྱི་ཚུལ་གྲུབ་ཤིག་ནང་། བཀྲུ་ཐབས་བྱེད་པའི་སྒོར་བུ་ཡང་ཡོད། ཆུ་སྡོད་ཁང་མ་ཡིན་པའི་དུས་སྐབས་དང་ཤོ་སྣེ་ཤེས་པ་ནི་བདེ་ཤོས་ཡིན།
+- **ཐབ་ཁྲ་ཡང་ན་བྲེམ་བཀྲུ་བ།** མངར་སྐྱེས་རྡུལ་ཕྱེ་བ་དང་ཕྱི་ནང་སྲུང་བའི་ཆོས་ལ་བལྟས་ན་ཆུ་བསྐྱེད་ཀྱི་ཚོར་སྣང་ཡོད། ཨལ་ཛའི་མར་ཚོགས་པས་མི་ཞིག་གིས་ཐབ་ཁྲ་ལག་པས་བརྟེན་ནས་བཀྲུ་བ་ལ་ཕྱོགས་ཀྱི་ཆ་དང་སྡུད་པའི་སྒོར་ཞིག་སྤྲོད་ན་ལེགས་པ་ཡོད་ཅེས་བཤད།
 
-### Around the house
+### ཁྱིམ་ཁྱབ་ཀྱི་སྐོར།
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **རྡུལ་སྒྲིག་པ།** རྡུལ་བཤུབས་མི་འཁོར་བའི་བྲེམ་བཀྲུ་དང་ཁྲིམས་རྡོར་ཞིག་ལ་བསྒྲིགས། མི་ཁྲོམ་གྱི་སྣོད་ལ་སོགས་པ་རྡོར་མཁན་ཞིག་འདི་ནི་ལས་ཀ་ཞིག་ཡིན།
+- **ཡི་གེ་བསྡུ་བ།** ཕྱིར་དམ་ཁ་བཀྲ་ཡ་ཡི་ཤོག་བུ་དང་ཡིག་ཆ་མ་དགོས་པ་རྣམས་སྡེ་བཀོད་ཀྱི་ཚུལ་ཞིག་བྱེད་ཤིག་: ཉར་བ་, བསྐྱར་སྐྱེད་, ཕྱིས་སུ་འབྱེད་པ་. ངེས་པའི་ཟད་གྲོས་དང་ཐོ་གྲངས་ནི་གཞན་དུ་ཉར་ཤིག་.
+- **སྐྱེས་སྐྲུན་བསྡུ་བ།** སྐྱེས་ཐོན་གྱི་བྱ་བ་, བཅུད་སྣོད་དང་ཤོག་བུ་ཕྲན་ཚོ་སྣོད་མ་སྣོད་པ་རྣམས་དབྱེ་ཤིག་.
+- **ཕྱི་ཁྲོམ་བསྒྲིམས་པ།** ཤོ་མ་ཡོང་ཚད་ཀྱི་སྲོལ་མགོ་ཡོད་ན། ཆུང་ཆུང་གི་བསྡུ་ཆས་ཀྱིས་ཁྲིམས་རྡོར་ཞིག་བཀྲུ་ཤིག་.
+- **ཤིང་ཆུ་སྦྲེལ་བ།** ཆུ་ཆུང་ཚོད་ཀྱི་ཁྲོ་མ་ཡོད་པའི་སྐལ་ཤིང་ཆུང་ཚོ་ཞིག་ཡང་ན་ཤིང་ཆུང་ཤོས་ཀྱི་ལག་ལེན་མཁན་ཞིག་ལ་སྦྱར་ཤིག་.
 
-### Simple cooking with supervision
+### ཟས་བཟོ་བ་ཡང་ལྟ་སྐྱོང་འོག་ཏུ་
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+ཟས་བཟོ་བས་ཚོར་སྣང་བཟང་པོ་ཞིག་སླར་ཡོང་ཐུབ། རྒྱལ་སྤྱི་རྒས་པའི་ཞིབ་འཇུག་ཁང་ (NIA) གིས་མི་དེས་ཟས་ཁ་རྣམས་སྡུད་པ་, ཚད་བཤུད་པ་, འཁྲུག་པ་དང་ཆུ་བཏོན་པ་ལ་བཅུག་ཅིང་ཡང་ན་ཕྱི་མིན་གཞན་ལ་མགོ་སྐྱེལ་ནས་མི་དེས་ཀྱི་རྩེད་ཟས་ཀྱི་ཐབས་ལ་བཤད་ཐུབ་ཟེར་ནས་བཤད་ཡོད། ལས་ཀ་ཡག་པོ་ནི་འདི་ཡིན།
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- ཤིང་བཙོན་ནམ་རྡོ་ཤིང་བཀྲུ་བ།
+- ཏོག་སྣ་ཡང་ན་ཤོས་བདེན་པ་ཁྱེར་བ།
+- སྐྲེས་བྱེད་པ།
+- ལག་ཆ་ཚོད་སྐྱེས་ཀྱི་ལག་ལེན་སྦྱར་བ།
+- ཆུ་གདོང་ཤོ་ཤུ་བཀྲུ་བ།
+- ཀུ་ཀི་ཞིག་ཤེས་ཀྱི་སྤྲོ་བཞག་བ།
+- མཐའ་ཆ་ལ་ཤོ་བྱེད་པ།
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+ཚད་བཤུད་པ་ལ་དཀའ་ན། ཨལ་ཛའི་མར་ཚོགས་པས་ཁྱོད་ཀྱིས་ཚད་བཤུད་པ་ཚར་ཅིག་བྱས་ནས་སྐབས་གཞན་ཞིག་, དཔེར་ན་འཁྲུག་པ་ལ་སོགས་པ་ལ་སྤྲོ་ཤིག་ཅེས་བཤད།
 
-## How do I set up a chore so it goes well?
+## ལས་ཀ་ཞིག་ལེགས་པོར་འགྲོ་བའི་ཐབས་ཇི་ལྟར་སྒྲིག་བྱེད་དམ།
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **ཡུས་ཚོད་བདེན་པ་འདེམས་ཤིག.** མི་དེ་ལུས་ཤུགས་ངལ་ཤོས་སུ་ཁ་ཤས་ཀྱི་སྐབས་ཞིག་འདེམས་ཤིག. མང་པོའི་སྐབས་ནི་ཉིན་ཀྱི་ཐོག་མ་ཡིན།
+2. **ས་ཆ་གཙང་བཟོས།** ལས་ཀ་གཅིག, ས་སྟེང་གཅིག, ཐབ་ཁྲ་ལ་གཞན་གང་ཡང་མེད་པ།
+3. **བཤུགས་མ་བཏང་བ་, བཀའ་བཏང་མ་བྱེད་པ།** “ང་ལ་ཡོད་པ་འདི་ལ་ལག་རོགས་ཅིག་ལ་འཚལ་ལོ།” ཟེར་བ་ནི་ “ད་ཉལ་ཆས་བསྡུ་དུས་ཡིན།” ཟེར་བ་ལས་ཕན་ཡོད།
+4. **དང་པོ་ཞིག་མཐོང་བ་སྟོན།** ཤོ་གཅིག་ལ་ཞིག་ཞིག་བསྡུས་ནས་རྗེས་སུ་གཞན་སྤྲོད་ཤིག. བཤད་པ་ལས་སྟོན་པ་ནི་གསལ་བ་ཡིན།
+5. **ལས་ཀ་རེ་རེ་ནས་སྡེ་ཆུང་ཅིག་སྤྲོད།** ཁ་ཤས་ཀྱི་བཀའ་ཆོས་ཤིག་ཅིག་ཏུ་མང་བས་ངལ་ཆེ་ཞིང་བུ་སྐྱོ་བ་འབྱུང་ཐུབ། ལས་ཀ་གཅིག་ཞེས་བསྐྱེལ་ཐབས་སྦྱར་ནས་མ་དོན་མ་ཐོག་བསྐྱར་མི་བྱེད།
+6. **ཕྲན་ཚོ་གཅིག་ཁ་སྐྱེས་ནས་ལྷན་ཅིག་བྱེད།** ལས་ཀ་གཅིག་ལ་ཅིག་ཁར་ཡོད་པ་ནི་ལྷན་ཡོད་པའི་ཚོར་སྣང་ཡིན་གྱི་ལྟ་སྐྱོང་མ་ཡིན།
+7. **ལས་ཀ་ལ་བཤད་པ་, འབྲས་བུ་ལ་མ་བཤད་པ།** “འདི་ཚོ་མཉེན་པོ་ཡིན་ནོ།” ཡང་ན་ “ཁྱོད་ཀྱིས་ཁྲ་ཁང་གི་ཤོག་ཚོ་ག་ཅི་ཡིན་ནོ་བཤད།” ཟེར་བ་ལ་སོགས་པས་སྡུད་པ་དང་སྤོབས་པའི་དོན་ནི་སྐྱེ་བོ་ལ་ཚད་བཟུང་མ་བྱས་པར་བྱེད།
 
-## How do I adapt chores as abilities change?
+## ཁྱོད་ཀྱིས་ལས་ཀ་འགྱུར་བ་ཇི་ལྟར་སྒྲིག་བྱེད་དམ།
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+ཚེ་ཡུན་དང་ཉིན་རེ་ལ་སྟོབས་ཤུགས་འགྱུར་བ་ཡོད། ཨལ་ཛའི་མར་ཚོགས་པས་ནད་ཀྱིས་འགྲོ་བའི་སྐབས་ཁ་ཤས་ཀྱི་ལས་ཀ་ཆུང་བ་དང་ཐ་མལ་ཞིག་ཏུ་བརྗེ་ན་ཡག་ཟེར་བ་ཡིན།
 
-| If this has become hard | Try this instead |
+| གལ་ཏེ་འདི་དཀའ་ཞིང་སོང་ན། | དེའི་ཚབ་ཏུ་འདི་སྤྲོད། |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| ཉལ་ཆས་ཆེན་པོ་བསྡུ་བ། | རྡུལ་ཕྲན་ཆུང་ཀ་བསྡུ་བ་ཡང་ན་ཁྲ་བཞིན་བཀྲམ་བ། |
+| ཐབ་ཁྲ་ཆ་ཚང་སྒྲིག་བ། | ས་ཁྱོན་རེ་ལ་ཤོ་གཅིག་རེ་བཞག་བ། |
+| ཡིག་ཆ་ཁ་ཤས་སྡེ་བཀོད་བ། | ཡིག་ཆ་ཀྱི་སྐོར་ལ་ཤོག་བུ་གཅིག་ཏུ་བསྡོམས་བ། |
+| ཟས་ཀྱི་ཚད་བཤུད་པ་ཤེས་པ། | བཤུད་པ་, ཡང་ན་ཟས་བཟོས་ཀྱི་སྐབས་ལ་ངོ་མཚར་བལྟ་བ་དང་ཟོས་བཟོ། |
+| ས་ཆ་ཆེན་པོ་བཀྲུ་བ། | ཐབ་ཁྲ་ཆུང་ཆུང་གཅིག་བཀྲུ་བ། |
+| ལས་ཀ་ཞིག་ཀྱང་མི་བྱེད་པ། | ཁྱོད་དང་ལྷན་ཅིག་སྡོད་ནས་ཚོ་ཞིག་ཟེར་ཞིང་བསྐྱར་བསྡད་བ། |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+ལྟ་བ་ཡང་གྲངས་སུ་འཇོག་པ་ཡིན། རྒྱལ་སྤྱི་རྒས་པའི་ཞིབ་འཇུག་ཁང་གིས་མི་ཁ་ཤས་ཀྱིས་ལས་ཀ་ལྟ་བ་ཙམ་གིས་དགའ་བ་ཡོད་ཅེས་བཤད་ཅིང་དེ་ཡང་རོགས་པའི་ཐབས་ཡག་པོ་ཞིག་ཡིན།
 
-## How do I keep household tasks safe?
+## ཁྱིམ་ལས་ཀ་བདེ་འཇགས་ཡོད་པར་ཇི་ལྟར་སྲུང་བ་དང་?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+བདེ་འཇགས་ནི་ཐོག་མ་ནས་ཡོད་དགོས། ཁྲ་ཁྱིམ་ཁ་ཤས་ཀྱི་ཉེན་ཁ་ནི་དེ་ཡིན་ནོ། རྒྱལ་སྤྱི་རྒས་པའི་ཞིབ་འཇུག་ཁང་གི་ [བརྗེད་ནད་ཀྱི་ཉེན་སྲུང་གི་ཐབས་ཁྲིམས་](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ནང་། ཁ་ཤས་འདི་བཀོད་ཡོད།
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- བཀྲུ་རྫས་དང་། ཁྲ་བཞིན་ཆུ་ཚོགས་ཀྱི་རྣམ་པ་ཡོད་ཚད་ལ་ལྟོད་ནས་ཉར་ཤིག་, ཁྲ་བཞིན་ཆུ་ཚོགས་ནི་ཟས་ཀྱི་རྣམ་པ་ལྟར་ཡོད་པས་སྐྱོན་ཆེ་བ་ཡིན།
+- ཤིང་བཙོན་, ཤོ་ཁ་བཙོན་ཤིང་དང་ཤུགས་དེའི་ལག་ཆ་ཚུད་ཅིག་གི་ཁྲ་ལ་ལྟོད་ནས་ཉར་ཤིག་།
+- ཤུབས་ལ་ཤེལ་སྒྲིག་དང་རང་འགུལ་ཕྱིར་གཏོང་སྒྲིག་བྱེད་ཤིག་།
+- ཕྱིར་ཁེ་གྱི་སྣང་སྟེ་ཚ་སྡུག་ཡོད་ཤིག་ཅེས་བཀོད་པ། ཡུ་ཀེ་སྐུ་གསར་གཅིག་གི་གནས་ཚུལ་ལ་ལྟོས་ཤིག། ཤུབས་, ཆུ་ཚོད་དང་ཕྱིར་གྱིས་གནས་པ་ལ་མེ་ཆེན་མེད་པར་ཚེག་ཅིག་ཏུ་བཞག་ཤིག།
+- ཆུ་སྨན་གཞན་ཞིག་སྦྱར་ཞིང་ཆུ་ཚོད་ཀྱི་བསྒྲེམས་ཚད་ལ་ལྟོས་ན། ཚ་ཚ་ཤོར་བའི་ཉེན་ཁ་ཉུང་བར་སྲིད་པའི་ཚད་ནི་ 49°C (120°F) ཡིན།
+- ཁ་ཟན་ཚོད་ཀྱི་རྒྱུ་སྣ་གཅིག་སྤྲོད་ན་ཟོས་ཐུབ་ཟེར་བ་ཡོད་པར་ཁ་ཤས་ཏུ་དཔྱད་བྱེད་ཤིག།
 
-A few more practical habits help:
+གནས་ཚུལ་གཞན་ཁ་ཤས་གྲོགས་པོ་ཡོད་ན་:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- ཤོ་བ་ཡང་ན་ཤུབས་ཀྱི་ཉེ་འཁོར་ནས་སྤྱིར་འདུག་ཤིག་སྐབས་ལ་ཁྱོད་ཀྱིས་སྲུང་ཞིག།
+- ཟན་ཚོད་དང་ཤོ་ཆས་འབྲེལ་ཁྱོན་ལ་ཕྱིར་མི་འཇིག་པའི་ཤོ་བ་བཀོད།
+- སྤྲིན་པ་ནི་གླེང་བཞིན་བཀྲུ་བའི་ཚེ་ས་ཆ་ཆུ་མེད་པ་དང་གཙང་པོར་ཉར།
+- མི་དེས་ལྷག་བཞིན་པའི་ལག་ཆ་བཀྲུ་ཡོད་ན། ཨལ་ཛའི་མར་ཚོགས་པས་ཐོ་ཡིག་ལས་ཉེན་ཁའི་ཆ་ཤས་ཕྱིར་འབུད་ཤིག་ཟེར། ལས་ཀ་ནི་ཤིང་ཐོག་ལ་ཟིམ་པ་ལ་སོགས་པ་སྡེ་བདེ་འཇགས་ཡོད་པ་ཞིག་ཡིན།
 
-## What if they do it "wrong"?
+## “ནོར་” ཐོག་ཏུ་བྱས་ན་ཅི་བྱེད།
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+ཐོལ་བ་ཅིག་སླེབས་པ་ནི་མི་སྐྱོ་བ་ཡིན། ཤོ་ཆ་གསུམ་དུ་བསྡུས་པ་ཡང་ཤོ་བསྡུས་པ་ཡིན། ཨལ་ཛའི་མར་ཚོགས་པས་ཡང་ཡང་གསལ་པོར་བཤད་པ་ནི་མི་དེས་གནས་ཡུན་གཅིག་ཁྱེད་ཀྱིས་སྤྱད་པ་དང་མི་ཁྱོད་ཀྱིས་ཐད་དེས་བདག་ནི་ཡོད་པར་མཐོང་བ་ཡིན། ཤོ་ཆ་ཡང་ངེས་པར་ཡག་པོར་བསྡུ་དགོས་ཀྱང་ཁྱོད་སྐྱེས་པ་ལ་དགོས་ཀྱི་ཡག་པོ་མ་ཡིན། གལ་ཏེ་ཅི་ཞིག་བསྐྱར་དགོས་ན་ཕྱིས་སུ་འཇོག་ཤིག་, ཁོ་ཚོས་མི་མཐོང་བའི་ཚེ་བྱེད་ཤིག།
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+ཚེ་མཐོང་ནས་ཁ་སྨོས་པ་ན་ལས་ཀ་སྐྱིད་པོའི་རྩེད་མོ་ཞིག་གི་ཚེ་ཡུན་བསྐྱར་ཚུ་བ་ཞིག་ཏུ་འགྱུར་ཐུབ། “ཁྱེད་ཀྱི་རོགས་རམ་ཆེན་པོ་ཡིན།” ཞེས་སྨྲས་པ་ནི་ཡག་པོ་ཞིག་ཡིན།
 
-## When should we stop?
+## ང་ཚོ་ཚོར་ཐོན་པ་ཇི་སྐད་ཡོད་དམ།
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+ཁ་ཤས་ཀྱི་ཚེ་སྐྱོ་བ་, ངལ་བ་དང་དགའ་བ་མེད་པའི་རྟགས་མཐོང་ཚེ་བཀྲོལ་ཤིག་ངམ་འགྱུར་ཤིག། ཐོན་མེད་པར་བཀྲོལ་ནས་འདུག་ནས་ཀྱང་ལེགས་པ་ཡིན་ཏེ་ཕམ་པ་མ་ཡིན། ཁྱོད་ཀྱིས་གཞན་བྱེད་ཐུབ།
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- ལས་ཀ་སྡེ་ཆུང་ལ་བརྗེ་ཤིག
+- ཞི་བདེ་སྐྱོང་བའི་རྩེད་མོ་ལ་འགྲོ་ཤིག, དཔེར་ན་རོལ་མོ་ཡང་ན་ཇ་ཁ་གཅིག
+- དུས་གཞན་ཡང་ན་ཉིན་གཞན་ལ་བསྐྱར་ཤིག
+- ཞི་བདེས་ལྷན་ཅིག་འདུག་ཤིག
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+མི་དེས་ “མ་བྱེད།” ཟེར་ན་ཁ་ཕུལ་མ་བྱེད། ཁྱེད་ཀྱིས་ཅི་བྱེད་ཐུབ་ཀྱི་ཐབས་ལ་ [མ་བྱེད་ན་ཅི་བྱེད་ཚུལ་](/caregiving/when-they-say-no/) ལ་བལྟས་ཤིག།
 
-## Low-effort extras for a quieter moment
+## ཚེ་ཡུན་ཞི་བདེ་ཅན་གྱི་སྐབས་ལ་རྩེད་མོ་ཆུང་ཆུང་།
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+ལུས་ཀྱི་ལས་ཀ་མི་ཐུབ་པའི་སྐབས་ལ་སྡེ་བཀོད་དང་མཐུན་པར་བྱེད་པ་ནི་སྡོད་ནས་ཀྱང་བྱེད་ཐུབ། [Sort Together](/games/sort-together/) གིས་ཤིན་པར་ཁྱོད་ཀྱིས་པར་ཁ་ཤིག་ཁ་ཤས་ཀྱི་སྣོད་ནང་ཁ་ཅིག་སྤྲོད་ཐུབ་པ་དང་། [Picture Pairs](/games/picture-pairs/) ནི་པར་ཆེན་པོ་དང་དུས་ཚོད་མེད་པའི་ཞི་བདེའི་མཚུངས་རྩེད་ཡིན། [Conversation Cards](/games/conversation-cards/) གིས་ཁྱིམ་དང་ཁྱིམ་ཚང་གི་སྐོར་ལ་སྒྲིབ་མེད་པའི་དྲི་བ་ཁ་ཤས་འདུས་ཡོད་ཅིང་ལས་ཀ་ཕྱིར་ཞི་བདེའི་ཇ་ཁ་དང་མཐུན་པར་བཀོད་ཐུབ།
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+ཉིན་ཀྱི་སྤྱོད་སྒྲིག་ལ་ཞི་བདེའི་ལས་རིམ་ཅིག་སྦྱར་བ་ཡིན་ན་ [ཞི་བདེའི་ཉིན་རེའི་ལས་རིམ་](/activities/daily-routine/) ལ་བལྟས་ཤིག། རིམ་པ་ལྟར་ཡུལ་གཞན་ཞིག་གི་ཐབས་ཤེས་ཁ་ཤས་ཏུ་ནི་ [བར་རིམ་གྱི་རྩེད་མོ་](/activities/middle-stage/) ལ་བལྟས་ཤིག།

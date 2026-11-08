@@ -1,33 +1,32 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "བརྗེད་ནོར་ནད་ཀྱི་ཚོགས་ཉམས་ལེན་གྱི་ལམ་སྟོན"
+seoTitle: "བརྗེད་ནོར་ནད་ཀྱི་ཚོགས་ཉམས་ལེན།: བིང་གོ་, གླུ་ལེན་, དྲན་སྐུལ།"
+description: "བརྗེད་ནོར་ནད་ཀྱི་ནད་གསོ་ཁང་། ཉིན་རེའི་ལས་ཁུངས་དང་ཚོགས་ཁང་གི་ཚོགས་ཉམས་ལེན། པར་བིང་གོ།, གླུ་ལེན་དང་དྲན་སྐུལ་ཚོགས་ཁག་དང་། སྡོད་ས་དང་ཚོགས་ཆུང་གི་ལམ་མཁྱེན།"
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  བརྗེད་ནོར་ནད་ཀྱི་ནད་གསོ་ཁང་དང་ཉིན་རེའི་ལས་ཁུངས་ནང་གི་ཚོགས་ཉམས་ལེན་ཡག་པོ་ནི་ཐུང་ངུ་དང་།
+  ཤེས་པའི་གནས་ཚུལ་ཡིན་ཞིང་། སྐབས་ཀུན་ཏུ་ཞུགས་ཐུབ་པ་ཡིན། དཔེར་ན་པར་བིང་གོ།, གླུ་ལེན།,
+  དྲན་སྐུལ་ཚོགས་ཁག།, ལུས་སྦྱོར་ཆུང་ཆུང་དང་མཉམ་རྩེད་ཀྱི་ཚིག་རྩེད་སོགས་ཡིན། ཚོགས་ཁག་ཆུང་ཆུང་བཟོ་རུང་ན་བཟོ་ཞིང་།
+  སྡོད་ས་ལ་ཁོང་ཚོས་མཐོང་ཐོས་ཐུབ་པའི་ཐབས་ལ་བཀོད་ཅིག ལས་ཀ་ཞིག་ཡང་ཞིག་ཁོ་ནར་སྟོན་ཅིག
+  དེ་ཡང་ཡ་ལ་ཁྱད་ཆོས་ཅན་གྱི་རེ་བ་གཅིག་ཡོད་ན་ལས་ཀ་སླ་བ་དང་ཞི་བདེའི་ཕྱིར་འབུད་ཐབས་ཀྱང་བཞག་ཅིག
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "ཚོགས་ཆུང་ཆུང་ནི་ཆེན་པོ་གཅིག་ལས་ཡག་པོ་ལྟ་བུ་ཡོད་ཅིང་། མི་དེ་དག་ལ་བལྟ་བ་ལས་ལྷག་པར་ཉེ་ཤོས་ཀྱི་ལས་ཀ་ལ་ཞུགས་ཐུབ་པ་ཡིན།"
+  - "ཁོང་ཚོ་འཁོར་ལོ་ཡང་ན་ཚོགས་ཁྲིའི་རྣམ་པར་སྡོད་གཏོང་ཞིང་། ཚོགས་དཔོན་ལ་ཉེ་བར་བཞག་ཅིག རྣ་བ་དང་མིག་གི་དཀའ་ངལ་ལ་དགོངས་ཏེ་། ཕྱི་རོལ་གྱི་སྒྲ་ཞི་བ་བཟོ་ཅིག"
+  - "ལས་ཀ་ཞིག་རེ་ལ་མི་མང་གི་ལྟ་རྟོག་བྱེད་ནུས་པའི་སྐད་ཆ་གསུམ་ཡང་ན་གཉིས་རེ་ཡོད་ཅིག དེས་རང་རང་གི་ནུས་པ་མི་འདྲ་བ་ཡང་ཚང་མར་ཞུགས་ཐུབ།"
+  - "ཚོགས་ནང་ལ་དྲི་བ་བཏང་བ་དང་། གྲངས་རྩིས་བྱེད་པ་དང་། ཐོབ་མཁན་ངོས་འཛིན་བྱེད་པ་བཅུག་མི་དགོས། པར་བིང་གོ་ནི་མི་ཚང་མ་གྲངས་ཁྲིམ་གང་བ་ལས་བཟོ་ཐུབ།"
+  - "ཕྱིར་ལོག་སྔ་ཤོས་བྱས་པ་དང་། ལྟ་ཞིབ་བྱས་པ་དང་། ཉལ་འདྲིམ་བྱས་པ་ཡང་ཉེས་པ་མེད། གོ་སྐབས་བཞི་བཏང་བའི་སྐྱེལ་ཁྱེར་ཞིག་ངེས་པར་ཡོད་ཅིག"
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "བརྗེད་ནོར་ནད་ཀྱི་ཉམས་ལེན་ལ་ཚོགས་ཀྱི་ཚད་ཡག་པོ་ཅི་ཡིན།"
+    a: "གྲངས་ཀ་གཅིག་པུ་ནི་ངེས་པར་མེད། དེ་ནི་ཁྱིམ་ཚང་དང་ཁང་པ་དང་། ལས་ཁུངས་ལ་ལས་མི་ག་ཚོད་ཡོད་པ་ལ་ལྟོས། ཚོགས་ཆུང་ཆུང་ནི་མི་ཚང་མས་མཐོང་ཐོས་ཐུབ་ཅིང་ཞུགས་ཐུབ་པའི་ཐབས་ཡིན་པ་ཡང་མང་པོས་མཐོང་། ཁང་ཆེན་གྱི་ཚོགས་ཁག་ནི་ཁ་ཤས་ལྟ་ཁོ་ན་བྱེད་པའི་ཐུག་ཡོད། ཁང་ཆེན་གྱི་ཚོགས་བྱེད་ན་ལས་མི་ཡང་ན་བདག་སྐྱེལ་པ་སྣོན་ཅིག ཁོང་ཚོས་ཉམས་ལེན་པ་གཉིས་གསུམ་རེ་ལ་རོགས་ཐུབ་པ་ཡིན།"
+  - q: "ནུས་པ་མི་འདྲ་བ་དང་མཉམ་ཚོགས་ཁག་ཅིག་ཇི་ལྟར་སྐྱོར་ཡུལ་།"
+    a: "ཉམས་ལེན་རེ་ལ་ཞུགས་ཐབས་ལམ་གཉིས་ཡང་ན་གསུམ་རེ་བཀོད་ཅིག གླུ་ལེན་ནང་། ཁ་ཤས་ཀྱིས་ཚིག་ཚང་མ་གླུ་ཡོད་ཅིང་། ཁ་ཤས་ཀྱིས་ལག་ཅོག་རྡུང་བ་ཡང་ན་དཔྱངས་པ་ཡང་ན་ཁ་ཤས་ཀྱིས་ཐོས་ནས་ཞི་བ་ཞིག་ལ་འགྱུར། པར་བིང་གོ་ནང་། ཁ་ཤས་ཀྱིས་རང་གི་པར་རང་རྙེད་ཅིང་། ཁ་ཤས་ལ་རོགས་མཁན་ཞིག་གིས་མཐོང་གཟུགས་བསྟན། རོགས་རམ་མང་བའི་མི་ནི་ཉེ་ཤོས་ཀྱི་ལས་མི་ངམ་བདག་སྐྱེལ་པ་ཞིག་གི་འགྲམ་དུ་བཞག་ཅིག"
+  - q: "མི་ཚང་མ་དང་ཕྱོགས་མཐུན་ཏེ་པར་བིང་གོ་ཇི་ལྟར་རྩེད་ནུས།"
+    a: "པར་ཚང་མ་གླུ་ལེན་གྱིས་བླངས་ཏེ་ཕྱིར་ཞིག་གི་ཐུགས་ལ་གླེང་དུ་མི་ཚང་མ་ཡང་ནས་རྒྱ་མཚོ་སྐྱོད་ཅིག དེ་ལྟ་བུ་ནས་ཁ་ཤས་ཀྱི་ཤེས་ཚུལ་ཞིག་ལ་ཁྱད་ཆོས་བཏང་ནས་ཁྱིམ་ཚང་གཅིག་ཏུ་ཡང་ཁ་བྱང་བཅུག་ཅིག བླངས་མཁན་ལ་གསེར་ཡང་ན་ཁ་གསེར་བཏང་མི་དགོས། ཁྱད་ཆོས་ནི་མཉམ་བཞུགས་དང་བསྡུས་ཚོགས་ཀྱི་གླེང་གཞི་ཡིན་གྱི། སྔ་ཤོས་ཀྱི་རྩོད་པ་མ་ཡིན།"
+  - q: "ང་ཚོའི་རྩེད་མོ་ཚོགས་ཁང་ནང་སྐྲིན་ཆེན་ལ་བཀོལ་ཐུབ་ངམ།"
+    a: "ཐུབ། ང་ཚོའི་རྩེད་མོ་ཚུ་ཀླད་པར་རྩོམ་ཁྱབ་ནང་སྦྱོར་ནས་འབད། ལེམ་ཏོག་ཡང་ན་ཡུང་རིས་སམ་གཞུང་ཟེར་དྲན་ལ་སྦྱོར་བསྐྱོན་བྱེད་ཚེ་སྐྲིན་ཆེན་སུ་ལ་བཀོལ་ཐུབ། པར་བིང་གོ་ནང་སྤར་ཐུབ་པའི་ཤོག་ལེབ་དང་སྐྲིན་ཐོག་ཏུ་འོས་ཚོགས་སུ་སྐད་པ་ཡོད། ཚིག་རྫོགས་ཀྱི་རྩེད་མོ་དང་པར་གཅིག་ཟུང་གི་རྩེད་མོ་ཡང་སྐྲིན་ཆེན་ལ་ལེགས་པ་ཡིན། ཁ་ཤས་ཀྱི་ཚོགས་ལ་མི་གཅིག་གིས་ལག་པས་རེག་ནས་བཀོལ་ཐུབ།"
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +51,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+ཐ་སྙད་འདི་ནི་ཚོགས་ཉམས་ལེན་གྱི་དོན་དམ་པ་དང་། བརྗེད་ནོར་ནད་ཀྱི་ནད་གསོ་ཁང་གི་ལས་མི་དང་། ཉིན་རེའི་ལས་ཁུངས་གི་དོན་འཛིན་པ་ཚོ་ལ་དམིགས་ཡོད། ཁྱབ་ཁོངས་ནང་ལ་ལེགས་པའི་ཚོགས་ཀྱི་རྣམ་གཞག་དང་། ཁང་པའི་སྒྲིག་བཀོད། ཉམས་ལེན་གཅིག་ལ་རྣམ་པ་མི་འདྲ་བའི་མི་ཚོས་ཇི་ལྟར་སྤྱོད་ཐུབ་པ། དེ་བཞིན་ང་ཚོའི་པར་བིང་གོ་ཤོག་ལེབ་དང་སྐྲིན་ཆེན་གྱི་རྩེད་མོ་བཀོལ་ཐབས་སོགས་ཀྱང་བཤད་ཡོད། འདིའི་ནང་གི་ཆ་ཚང་གི་དམིགས་ཡུལ་ནི་སྐུ་ཚེ་ཞི་བདེ་དང་། མཉམ་འབྲེལ་དང་། གདམ་ཁ་རང་དབང་ཡིན། ཚོད་ལྟ་ཞིག་མ་ཡིན།
 
-## What makes a group activity work in memory care?
+## བརྗེད་ནོར་ནད་ཀྱི་ཚོགས་ཉམས་ལེན་ལེགས་པར་འགྲོ་བའི་རྐྱེན་གང་ཡིན།
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+ཚོགས་ཉམས་ལེན་ཡག་པོ་ནི་ཤེས་ཟིན་པ་དང་། ཐུང་ངུ་དང་། རྣམ་པ་ག་ཚོད་ཀྱི་མི་ལ་ཞུགས་ཐུབ་པ་དང་། གཏི་མུག་མེད་པ་ཡིན། རྒྱལ་རབས་རྣམ་པར་ཤེས་པའི་མཚན་མཁན་གྱི་ཚོགས་ཀྱི་ [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) ནང་ལ། ཞུགས་པའི་དོན་ནི་མི་ཞིག་གི་དགའ་སྣང་དང་གདམ་ཁ་ལ་སྐྱོར་ཞིང་། བདེ་རང་དང་ལེགས་འགྲུབ་ལ་འགྲོ་སྟངས་བྱེད་པ་ཡིན་ཞེས་བཤད། འདིའི་ནང་ལ་ཡང་། ཉིན་མོ་ཡོད་གནས་ནང་ལ་ཚོགས་ཆེན་གཅིག་གམ་གཉིས་ཡོད་ཚེ་ མི་རྣམས་ཀྱིས་ལྟ་བ་ཁོ་ན་བྱེད་པའི་ཐུག་ཡོད་ཅེས་ཀྱང་དྲན་བཅུག་ཡོད།
 
-That points to a few practical rules:
+འདིས་ཉམས་ལེན་གྱི་ལམ་ལུགས་ཀྱི་ཁྲིམས་གཞི་ཁ་ཤས་ཐོན་ཡོད།
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **ཤེས་ཟིན་པ་ནི་གསར་པ་ལས་ཡག་པོ་ཡིན།** ལོ་ཆེན་གྱི་ལོ་རྒྱུས་ནས་བྱུང་བའི་གླུ་དང་། ཚིག་ཁ་ཤས་དང་། པར་དང་། ཡོ་བྱད་ཀྱི་ཚུལ་ཁུངས་ནི་ཚོགས་ནང་ལ་ཞུགས་ཐུབ་པ་ཡིན།
+- **ཐུང་ངུ་ནི་རིང་པོ་ལས་ཡག་པོ་ཡིན།** ཁྱེད་ཀྱི་ཚོགས་ཀྱི་བཟོ་བཀྲ་འགོ་ཐུབ་པའི་ཚད་ལ་དགོངས་ནས་ཐུང་ངུ་བཟོ་ཞིང་། བར་ལ་ཁ་ཕྱེད་ཀྱི་ངོ་ན་བཞག་རུང་ཡིན།
+- **བྱེད་པ་ནི་ལྟ་བ་ལས་ཡག་པོ་ཡིན།** ཚང་མར་ལག་པས་འཛིན་པ་དང་། རེག་པ་དང་། གདམ་ཁ་འཐུས་པ་དང་། སྨྲ་བ་གང་རུང་ཞིག་ཐོབ་པར་བྱེད་ཅིག
+- **ལས་ཀ་གཅིག་ལ་ཆོག་རིམ་མང་པོ།** ཞུགས་ཐབས་སླ་བ་དང་། དཀའ་བ་གཉིས་ཀའི་ཐབས་ལ་བཀོད་ཅིག
+- **ཕྱོགས་ཤུགས་མེད་པ། གྲངས་རྩིས་མེད་པ།** འཐབ་རྩོད་ལྟ་བུའི་རྩེད་མོ་ལ་ཁ་ཤས་ལ་ཕམ་པའི་སེམས་ཤུགས་ཐོན་ཐུབ།
 
-## How big should the group be?
+## ཚོགས་ཚད་ག་ཚོད་ཡོད་དགོས་ཀྱི་རེད་མ།
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+ཆུང་བ་ནི་ཡ་ལ་སླ་བ་ཡིན། Alzheimer's Association ནས་བཤད་པ་ལྟར། ཚོགས་ཆེན་ལ་གནོད་ནུས་པའི་མི་ནི་ཚོགས་ཆུང་ཅིག་ནང་ལ་ལེགས་པར་ཞུགས་ཐུབ་ཀྱི་ཡོད། གྲངས་ཀ་གཅིག་པུ་ནི་ངེས་པར་མེད། དེ་ནི་ནད་པའི་མི་དང་། ཁང་པ་དང་། ལས་མི་དང་རོག་མི་གང་ཡོད་ལ་ལྟོས།
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+ཚད་བརྟག་ཞིག་ནི། ཚོགས་ཁྲིད་མཁན་གྱི་མདོག་ཏེ་མི་ཚང་མས་མཐོང་ཐུབ་དམ། གསལ་པོ་ཐོས་ཐུབ་དམ། ཐོག་མཐའ་སྐར་མ་ཉུང་ངུ་ནང་ལ་རོགས་མཁན་གྱིས་ལག་པ་ཕྱོགས་ཐུབ་དམ་ཟེར་བ་ཡིན། མ་ཚང་ན་ཚོགས་ཆ་ཤས་དབྱེ་ནས་ལས་མི་སྣོན་ཡང་ན་ཁང་ཆུང་གི་ནང་དུ་སྤོ་ཅིག
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+ཚོགས་ཆེན་ཞིག་ལ་ནི་ཟླ་བའི་ཁྱད་པར་གྱི་གླུ་ཚོགས་ལྟ་བུ་ཡིན་ན། ལས་མི་དང་བདག་སྐྱེལ་པ་ཚོ་ཡང་མི་ཁ་ཤས་ཀྱི་བར་ན་བཞག་ཅིག ཁྱིམ་གི་མཐའ་མཚམས་ཀྱི་ཁ་ལ་མ་བཞག་ཅིག
 
-## How should I set up the room and seating?
+## ཁང་པའི་སྒྲིག་བཀོད་དང་སྡོད་ས་ཇི་ལྟར་བཟོ་དགོས་སམ།
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **འཁོར་ལོ་ངམ་ཚོགས་ཁྲི་ལྟར།** ཚོགས་བྲེལ་གྱི་འཁོར་ལོ་ནི་ཚང་མ་འཁོར་ལོ་ལ་བསྡད་ཐུབ་པའི་ཁང་པ་ཆེན་པོར་དགོས་ཞིང་། སྒྲ་རྒྱབ་མེད་པ་ཞིག་ལ་ཡོད་ཚུལ་བཤད།
+- **ཚོགས་དཔོན་ཉེ་བ་དང་མིག་མཐོང་ཚད་ལ་བཞག་ཅིག** ལྡོམ་ལ་མ་ཡིན་པར་ཐད་ཀར་ཡ་ལ་སྡོད་ཀྱི་ཡོད།
+- **རྣ་བ་དང་མིག་གི་དཀའ་ངལ་ལ་ཐོག་མར་དགོངས་ཅིག** རྣ་བ་དཀའ་བའི་མི་ཚོ་ཚོགས་དཔོན་གྱི་ཉེ་བར་དང་། ཁོང་ཚོའི་རྣ་བ་ཡག་པོའི་ཕྱོགས་སུ་བཞག་ཅིག བལྟ་ཚུལ་དང་རྣ་ཤོག་བཅས་ཡོད་པ་ལ་ངེས་པར་འཇོག་ཅིག Alzheimer's Association ནས་མིག་དང་རྣ་བའི་དཀའ་ངལ་གྱིས་སྐད་ཆ་འབྲེལ་བ་དཀའ་བ་བྱེད་ཐུབ་པ་ཞིག་བཤད།
+- **ཉེ་ཁྱིམ་ཚོ་ལ་སྣང་ཚད་མེད་པ་ལ་མ་བཞག་ཅིག** སྣང་ཚད་ཆེན་པོ་ཡང་ན་སྒོ་སྒྲོམ་གྱི་ཕྱོགས་སུ་མི་བཞག་ཅིག
+- **ཡི་ཞི་དང་རེ་མོ་ཚུད་མེད་བཟོ་ཅིག** Alzheimer's Association ནས་གླུ་ལེན་གྱི་སྐབས་སྒྲ་ནོར་བཅུག་མི་དགོས་ཞེས་བཤད།
+- **གཏམ་གཅིག་ལ་སྐབས་རེ་ཞིག** མང་པོས་ཕྱི་ཕྱོགས་ནས་མཚམས་མེད་གླེང་བ་ནི་བརྗེད་ནོར་ནད་བཟུང་བའི་མི་དང་རྣ་བ་དཀའ་བའི་མི་ལ་དཀའ་བ་ཡིན། Alzheimer's Association ནས་ [holiday guidance](https://www.alz.org/help-support/caregiving/holidays) ནང་དུ་བཤད།
+- **ཕྱིར་ཐོན་ཡུལ་གསལ་པོ་དང་ཞི་བདེའི་ཟུར་ཞིག** ཕྱིར་འགྲོ་བ་འདོད་པའི་མི་ལ་བདེ་བླག་པའི་ལམ་དགོས་ཞིང་། ལས་མི་ཞིག་ཡང་ཁོང་དང་གཅིག་ཁར་འགྲོ་ཐུབ་པ་ཡིན།
 
-## Group activity ideas
+## ཚོགས་ཉམས་ལེན་གྱི་གླེང་གཞི་ཁ་ཤས།
 
-### Picture bingo
+### པར་བིང་གོ།
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+པར་བིང་གོ་ནི་གྲངས་ཀ་ལ་ཤོག་ངོས་གསལ་པོའི་པར་ཚུ་ལ་བརྗེ་བ་ཡིན། དཔེར་ན་ཅ་ཡ་ཟམ། ཁྱི་ཡང་ན་ཤིང་ཊོ་ལྟ་བུ་རེད། ཐོ་ལྷོད་ལ་ཕྱོགས་མི་དགོས།
 
-**How to run it:**
+**བཟོ་ཚུལ།**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. ང་ཚོའི་ [Picture Bingo](/games/picture-bingo/) ཤོག་ངོས་ནས་མི་རེ་རེར་ཤོག་ལེབ་གཅིག་ Print ཐོག་ནས་སྤར་ཅིག ཤོག་ལེབ་གྲོགས་ཆེ་ན་ཞིབ་མོ་བཟོ་ཐུབ། ལོག་སྤྱོད་ཀྱི་དོན་ལ་བཤོང་ཐུབ།
+2. ཁ་ཆེན་པའི་ལག་ཁ་ཚུལ་མཐོང་སླ་བའི་ཚོས་གཡོག་ཞིག་ལ་ཁག་ཐོན་ཡང་ན་ཤིང་ཟེར་མ་ཡང་ན་ཤོག་ཤིང་ཆ་བཟོ་སྤྲོད།
+3. ཐོག་ལེན་གྱི་སྒྲ་སྒྱུར་ཟུར་མདོག་ལ་ལས་བཞག་སྟེ། ཁྱེད་ཀྱིས་པ་ཚུ་གསུངས་པའི་སྐབས་ཚང་མས་མཐོང་ཐུབ།
+4. པར་རེ་རེ་མ་ཐག་མཇུག་ལ་སྐབས་ཐུང་ངུ་གཅིག་ལ་གསུང་ཞུས་པ་དང་། དཔེར་ན། "ཁྱི་ཞིག་གི་ལ་གླེང་གཏམ་བྱེད་ཐུབ་ངམ་ཡིན།" ཡང་ན། "ཁྱོད་ཀྱིས་མཐོང་བ་ཅི་ཡིན།" ཞེས་སྐད།
+5. ཤོག་ལེབ་ཚང་མ་གང་བའི་བར་ལ་བོས་ཅིག ཚང་མ་ལ་ཕྱིར་མཇུག་བསྡུ་ཐུབ།
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**ཞིབ་ཆ་སྒྲིག་འཇུག།** གང་ཞིག་ཤོག་ལེབ་ཆ་ཚང་ལ་ཚར་ཆེ་བ་ལ་ལྕོགས་མེད་ན་གྲངས་ཀ་ཉུང་ངུ་བཟོ་ཅིག ཁྱེད་ཀྱི་རོགས་མཁན་གྱིས་གཅིག་གི་འདོད་པའི་པར་ལ་སྟོན་ཐུབ། ཁ་ཤས་ཀྱིས་ཀྱང་སྤྱི་ཚོགས་ལ་ཤོག་པར་ཁ་ཤས་འཛིན་ནས་མཐོང་བ་ཐུབ་ཀྱི་ཡོད།
 
-### Sing-alongs
+### གླུ་ལེན།
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+གླུ་ནི་ཚོགས་ཉམས་ལེན་ནང་དེ་ལ་ཡང་མང་ཤོས་དགའ་བའི་ཆ་ཡིན། Alzheimer's Association ནས་བཤད་པ་ལྟར་ཞུ་བ་ཡང་ན་ནད་མཐའ་མ་ཡིན་པའི་སྐབས་ཀྱང་མི་ཞིག་གིས་ [ཆུང་དུས་ཀྱི་གླུ་ལ་རྡེག་ནས་ལེན་ཐུབ་པ་](https://www.alz.org/help-support/caregiving/daily-care/art-music) ཡོད་ཅེས་བཤད།
 
-**How to run it:**
+**བཟོ་ཚུལ།**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- ཁོང་ཚོ་ཆུང་ཆུང་ནས་མཁྱེན་པའི་གླུ་རྣམས་ཀྱི་གདམ་ཁ་བྱེད་ཅིག ལས་བསྐྱོར་པའི་གདམ་ཁ་མ་ཡིན། མི་ཞིག་གི་དགའ་མཁན་གང་ཡིན་པ་བུ་ཚོས་ཤེས་པ་བྱེད་ཅིག
+- དེ་ཁ་ཤས་ཀྱིས་ཕན་ཚུན་སྲིད་བྱེད་པའི་གླུ་གསུམ་ཡང་ན། Association ནས་ཟེར་བ་ལྟར་མི་ཚོར་གོ་ཆོད་ཅན་ཡོད་ནས་སྐྲིན་ཤོག་མེད་པ་འདེམ་ཅིག
+- ཀླད་ཀ་ཆེན་པོར་འདྲི་བ་ལ་ཤོག་ངོས་ཀྱི་ཚིག་ཡིག་བཀོད་ཀྱང་། མ་གནང་ན་དགོས་མེད།
+- ཁ་ཤས་ཀྱི་འཁོར་ལོའི་རྩྭ་ཞུ་དང་། ལག་འཁོར་ནུབ་པ་དང་། གོས་ཀྱི་ཤྭ་ལ་སོགས་པ་སྤྲོད་ཅིག
+- ཕྱག་རྡེག་དང་སྐྱོད་སྒྲིག་ཁྱབ་འདེབས་པ་ལ་གྲོགས་ཅིག སྒྲ་ཚད་ཡ་ལ་བདེ་བ་ཞིག་ལ་བཞག་ཅིག
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**ཞིབ་ཆ་སྒྲིག་འཇུག།** ཁ་ཤས་ཀྱིས་ཚིག་ཚང་མ་གླུ་བ་དང་། ཁ་ཤས་ཀྱིས་ཧུ་ཧུ་བྱེད་པ་དང་། ཁ་ཤས་ཀྱིས་རྐང་ཐོག་ཕྱེ་བ་དང་། ཁ་ཤས་ཀྱིས་ཐོས་ཡོད་པ་ཁོ་ན་བྱེད་ཀྱི་ཡོད། ཚང་མ་གྲངས་ལ་འཇོག་ཐུབ། ང་ཚོའི་ [གླུ་ཉམས་ལེན་གྱི་ལམ་སྟོན](/activities/music/) ལ་གཟིགས་དང་།
 
-### Reminiscence groups
+### དྲན་སྐུལ་ཚོགས་ཁག
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+དྲན་སྐུལ་ཚོགས་ནི་སློབ་གྲྭ་དུས། ཁ་ཤས་ཀྱི་གཡོག་རྟ། ཁང་པ་ཡང་ན་དཔྱིད་ཀ་ལྟ་བུའི་གླེང་གཞི་ཞིག་ལ་བསྡུས་ནས། པར་དང་། ཡོ་བྱད་དང་། གླུ་ལ་བརྟེན་པའི་གཏམ་ཡིན། དམིགས་པ་ནི་གཏམ་ལ་ཐོ་གཞག་ཤོས་ཀྱི་དྲན་པ་ལེན་པ་མ་ཡིན། འཇམ་པོའི་གཏམ་ཡིན།
 
-**How to run it:**
+**བཟོ་ཚུལ།**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. གླེང་གཞི་གཅིག་འདེམ་ཅིག ལག་ཏུ་འཛིན་ཐུབ་པའི་ཡོ་བྱད་ཁ་ཤས་འཐོར། དཔེར་ན་ཡོ་བྱད་ཅིག ཀྲ་ཁ་ཡང་ན་ཅ་བཟོ། ཞྭ་ཡང་ན་ཤིང་འབྲུ་ཤོག་པ་སོགས།
+2. ཡོ་བྱད་ཅིག་རེ་རེ་བརྗེ་ཅིག ཁ་ཕྱེ་བའི་དྲི་བ་བཏང་ཅིག ཡང་ན། "འདི་ལ་བཤད་ཐུབ་ངམ།" "ཁྱོད་ཀྱིས་མཐོང་བ་ཅི་ཡིན།" "ཡོ་བྱད་འདི་ལྟ་བུ་ཅི་ལ་བེད་སྤྱོད་བྱས།"
+3. ལན་ཚང་མ་ལ་བསྔགས་ཅིག ཚེས་གྲངས་དང་དངོས་པོའི་འདུ་ཤེས་ལ་ཡང་ནམ་ཡང་མ་བཟོས།
+4. གླེང་གཏམ་སྐྲུན་པ་ཁ་བྱང་གི་དྲན་ལ་གདམས་ཅིག དྲན་སྐུལ་བྱེད་པའི་ཤུལ་ལ་ཡིད་ཆེས་པའི་དྲན་པ་ཐག་རིང་པོར་ངེས་སྐྱོང་བྱེད་ཅིག སེམས་ཤུགས་གནོད་པའི་དྲན་པ་ལ་མ་འཕྲད་ཅིག ཞེས་བཤད་པ་ཡོད།
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) ནང་ལ་གླེང་གཞི་ལ་བརྟེན་པའི་ཁ་ཕྱེ་བའི་དྲི་བ་ཤོག་པར་སྤར་ཐུབ་པ་ཡོད། དེ་ནི་གཏམ་འགོ་བཙུགས་པ་ལ་ལེགས་པ་ཡིན། ཞིབ་ཆ་གཞན་ནི་ང་ཚོའི [དྲན་སྐུལ་ལམ་སྟོན](/activities/reminiscence/) ནང་ལ་ཡོད།
 
-### Finish the saying
+### ཚིག་ཡིག་མཇུག་བསྡུ།
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+ཚིག་ཀྲུང་གི་གསུང་རབས་ "ཉེར་ཚོགས་སྲུང་ན་རིན་ཆེན་..." ལྟ་བུ་ནི་མི་ཚང་མས་མཇུག་ཚིག་ཚང་མར་སྒྲོག་པར་གཞིགས་ཏེ་མཉམ་དུ་སྨྲ་བ་ལ་བཀའ་སྩལ་ཡོད། [Finish the Saying](/games/finish-the-saying/) ཐོག་ལ་སྒྲིག་གཞིར་བཟོ་ཞིང་། ཚོགས་ལ་ཁོ་བོ་གཅིག་གི་སྐད་སྒྲ་ལྟར་ཞུ་བར་བྱེད་ཅིག ཚིག་གི་རྗེས་སུ་གླེང་གཞི་སྐུལ་ཞིག་ཡོད། མཇུག་ཚིག་སྨྲ་མི་མེད་ན་སྟོན་ནས་མཐོང་ཞིག བདེན་ཚོད་ཆད་པ་མེད།
 
-### Large-print word search, together
+### ཡིག་ཚིག་ཚིག་འཚོལ་ཚོགས་ཁག
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+[Word Search](/games/word-search/) ཡི་གེ་ཆེན་པོ་ལ་སྐྲིན་ཐོག་ཏུ་བསྟན་ནས་ཚོགས་ཀྱིས་ཚིག་ཁ་ཤས་འཚོལ་ཅིག ཡང་ན་ཤོག་ལེབ་གྲངས་མང་པོ་སྤར་ཐུབ་ཅིང་མི་རང་རང་ཡིན་ན་སྡོད་ས་ལ་ཡིད་ཆེས་པ་ཆེ་ཞིང་རང་སྐྱོང་གི་ཡུལ་ལ་ཞུགས་ཐུབ་པ་ཡིན། ཚིག་ནི་སྣེ་ཕྲན་འགྲམ་དང་ཡར་མར་ཁོ་ན་འགྲོ།
 
-### Gentle movement
+### ལུས་སྦྱོར་ཞི་བདེ།
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+སྡོད་སྟངས་ནང་ལ་ལག་པ་ཡ་ཡ་བསྒྱུར་བ། ལ་ཁྲ་ནང་ལ་བཏོན་བརྡ་ཡང་ན་ཤུགས་མེད་པའི་ཁྲ་བོལ་བསྐུལ། ཡང་ན་མཁྱེན་པའི་གླུ་ལ་སྐྱེ་གྲོས་གྱིས་ཁྲ་ནང་ལ་འགྱུར་ཅིག ཁོང་ཚོ་ལ་དེ་སྟོན་པར་མ་བཤད་པར་སྟོན་ཅིག
 
-### Sorting and matching at the table
+### ཐོ་དང་ལྕགས་ཤིང་། གཅིག་གཞན་སྦྱོར་མཐུན།
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+ཐོ་ཆུང་ངུ་དང་། མི་གསུམ་དང་བཞི་ལ་སྡོད་ཀྱི་པར་དང་། ཉེ་ཤོས་གོས་དང་། མེ་ལ་ལྟ་སོགས་ཀྱང་ཕན་ཚུན་བསྡུ་ཐུབ། སྐྲིན་སྟེང་ནང་། [Picture Pairs](/games/picture-pairs/) ཡོད་པའི་པར་སྣང་བ་ཁོ་ན་བཀོལ་ཐུབ། མི་གཅིག་གིས་ལག་པས་རེག་ནས་ཐོ་ཡི་མི་ཚང་མ་ཤོག་པར་ལ་གླེང་བ་ཡིན།
 
-## How do I use your games on a big screen?
+## སྐྲིན་ཆེན་ལ་ང་ཚོའི་རྩེད་མོ་ཇི་ལྟར་བཀོལ་དགོས།
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+ང་ཚོའི་རྩེད་མོ་ནི་བརྡ་ཤོག་ནང་ལ་ལས་འགྲོ་ཡོད་པས། སྒྲིག་འཇུག་མ་དགོས་པར་ TV ཡང་ན་སྐྲིན་ཆེན་ལ་བཀོལ་ཐུབ།
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. ལེབ་ཡོ་ཡང་ན་ཁ་ལག་ཁྱེད་ཀྱི་ཡིག་ཆ་ལ་སྐྲིན་འདྲེན་དང་། ཡང་ན་བྲེག་སྒྲིག་པ་ཅིག་ཐོག་ནས་སྐྲིན་སྟེང་ལ་སྦྱོར་ཅིག
+2. བརྡ་ཤོག་ཚང་མར་ཞིང་ནས་སྒྲ་ཚད་ཡ་ལ་བདེ་བ་ཞིག་ལ་བཞག་ཅིག
+3. ཚོགས་དཔོན་གཅིག་གིས་ལག་པས་རེག་པ་ཕྱོགས་ཅིག ཚོགས་མི་ཁ་ཤས་ཀྱིས་གདམ་ཁ་སྒྲོག་ཅིག ཡང་ན་སྐྲིན་ཤོག་ཞིག་ཡིད་ཆེས་པའི་མི་ལ་སྟོན་ཅིག
+4. ཚོགས་ཡིད་ཆེས་ཚེ་ཕྱིར་དུ་བཏང་ཅིག རྩེད་མོ་ལ་དུས་ཚོད་དང་ཐོབ་གྲངས་དང་གྲུབ་མཐའ་གཏན་ཚིགས་མེད།
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) དང་ [Conversation Cards](/games/conversation-cards/) ནི་ཚོགས་ལ་ཡག་པོ་ཁ་ཤས་ཡིན། གདམ་ཁ་ཚང་མ་ང་ཚོའི [རྩེད་མོའི་ཤོག་ངོས](/games/) ནང་ལ་ལྟ་ཞིག
 
-## How do I adapt one activity for mixed abilities?
+## ཉམས་ལེན་གཅིག་ནང་ནུས་པ་མི་འདྲ་བ་ཇི་ལྟར་སྤྱོད་དགོས།
 
-Plan at least three ways to join every activity.
+ཉམས་ལེན་རེ་ལ་ཞུགས་ཐབས་གསུམ་ནས་ཉུང་མེད་བཀོད་ཅིག།
 
-| Activity | More independent | Some support | Most support |
+| ཉམས་ལེན་ | རང་སྐྱོང་མང་བ་ | རམ་པ་རོགས་ཚུལ་ཅུང་ཟད་ | རོགས་ཚུལ་མང་ཤོས་ |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| པར་བིང་གོ། | རང་གིས་པར་རྙེད་ནས་ཁ་བཀབ་ | རོགས་མཁན་གྱིས་བསྟན་པ་ཡོད། མི་ཁོས་ཁ་བཀབ་ | ཤོག་པར་འཛིན་ནས་ཐོས་མཐོང་ཁོ་ན་བྱེད། |
+| གླུ་ལེན། | རང་གིས་ཚིག་གླུ་ཞིང་། གླུ་ཕྱི་མ་བདམ་ | ཧུ་ཧུ་བྱེད། ལག་ཅོག་རྡུང་། ཤེག་སྒྲ་བཏང་ | ཐོས་ཁོ་ན། ཤར་འཛིན། ལག་པ་བཏུབ། |
+| དྲན་སྐུལ། | གཏམ་ཁོང་ཚོས་སྨྲ། | ཕྱི་རྗེས་ཡན་ཚིག་ཡང་ན་མཛུབ་མོ་བསྟན། | ཡོ་བྱད་ལག་པས་བསྣན་ཞིང་རེག་པ་ཞིག |
+| ཚིག་འཚོལ། | རང་གིས་པར་དང་ཤོག་ལེབ་སྐྱོང་། | སྐྲིན་སྟེང་ནང་ཚིག་རྙེད་པ་ཞིག་རོགས་མཁན་དང་། | ཚིག་ཀློག་པ་ཐོས་ཁོ་ན། |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+ནད་ཀྱི་རིམ་པ་ཕྱི་མའི་མི་ཚོ་ལ། NHS ནས་བཤད་པ་ལྟར་ཉམས་ལེན་ནི་ཡ་ལ་སླ་བ་དགོས་ཞིང་། ཤེས་རྟོགས་ཆ་ཚང་ལ་དབང་དགོས་པ་ཡིན། དཔེར་ན་གླུ་། ཐོག་ཏུ་རེག་པའི་ཡོ་བྱད། ལག་པ་ལ་ཞི་བདེ་ཐོག་རྡེག་པ་སོགས། ཚོགས་ཁྲིད་མིན་པར་ཕྱིར་མི་ལ་གཅིག་གཅིག་པུ་ཡང་ཚོགས་ནང་དུ་ཡང་ན་ཕྱིས་ལ་བྱས་ན་ཕན་ཐོགས། [རིམ་པ་ཕྱི་མའི་ཉམས་ལེན་](/activities/late-stage/) ལ་བལྟ།
 
-## How should leaders talk during a group?
+## ཚོགས་ནང་ལ་ཚོགས་དཔོན་ཇི་ལྟར་གཏམ་བྱེད་དགོས།
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- ཚེ་རེ་ཞིང་ང་རང་ལ་སྨྲ་བ་བྱེད་ཅིག ཁོང་ཚོའི་གདམ་ཁ་སྒྲ་ཡིག་ལ་བལྟ་ཅིག
+- སྐད་ཆ་ལྟར་ཞིང་ཁ་གཅིག་ཏུ་ལས་ཀ་བྱེད་ཅིག ཐོག་མར་མངོན་ནས་ནས་ཕྱིས་བཤད་ཅིག
+- སྤྲོ་ཆོས་མ་གཏོང་བའི་དྲི་བ་། ཡང་ན་གདམ་ཁ་ཉུང་ངུ་འདེམ་ཅིག ཅིག་ཤོས་ཐོས་ཐུབ་པའི་དྲི་བ་མ་བཏང་། ("ཁྱོད་དྲན་ཆོག་ངམ།" མ་བཏང་།)
+- སྦྱོར་བསྟན་མ་བྱེད། ཚོགས་ཚང་མའི་ཞལ་བཤད་ལ་ཐུགས་རྗེ་གསུང་ཅིག
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+གཏམ་འདི་ལ་དགོངས་ཚོད་གཞན་ནི་ང་ཚོའི [བཤད་ཐབས་ལམ་སྟོན](/caregiving/communication-tips/) ནང་ལ་ཡོད།
 
-## Ending well, and letting people leave
+## མཇུག་བསྡུ་ཡག་པོ་དང་ཕྱིར་འགྲོ་ལ་བཀའ་སྩལ་
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+ཕྱིར་ཞོག་པ་ཡང་འབྲས་བུ་ཡག་པོ་ཞིག་ཡིན། མི་ཞིག་ཚབ་ཁྲབ་པ་དང་། དྲན་པ་མི་བདེ་བ་དང་། འདྲེས་པའི་རྟགས་ཀྱི་གཟུགས་ཀྱི་ཚོ་ལ་མཐོང་། རོགས་མཁན་གྱིས་རྐང་འགྲོ་ཡང་ན་སྐབས་གཞན་ནས་ཞི་བདེའི་ཁྲི་ཞིག་སྐྱེལ་ཅིག གླུ་ལེན་ནང་ཉལ་འདྲིམ་བྱེད་པའི་མི་ནི་བདེ་ཚུགས་སུ་ཡོད་པ་ཡང་ཡིན་ཐུབ།
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+ཚོགས་རེ་རེ་ལ་གླུ་གཅིག་ཡང་ན་ཐུགས་རྗེ་ཆུང་ངུ་གཅིག་གིས་མཇུག་བསྡུ་ཅིག ཡང་ན་མཇུག་བསྡུ་གཅིག་ལ་བཟོ་བཀྲ་མཐུན། ཐབས་དེས་ཕྱིར་ལོག་ནི་ཞི་བདེ་དང་ལྕོགས་ཀྱི་རེ་བ་ལ་འགྲོ། ཤུལ་རྗེས་སུ་ལས་འགྲིམ་ཀྱི་ཡིག་ཆ་ལ། ལེགས་པ་གང་ཡིན་དང་། ག་བུའི་ཐུགས་རྗེ་གང་འགྲོ་ཡོད་པ་བྲིས་ཅིག དེ་ཚོས་རྗེས་མའི་ཚོགས་ཉམས་ལེན་ལ་ཕན་པ་ཡིན།

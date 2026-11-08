@@ -1,32 +1,28 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Art mo Kraf blong Ol Adult we Oli gat Dementia"
+seoTitle: "Art mo Kraf blong Dementia: Blong Adult, No Pikinini"
+description: "Ol aedia blong art mo kraf blong ol adult we oli gat dementia, from pent long wota mo kolas te long flaoa, wetem tips long setap mo jenjem, mo proses i moa impoten."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Art mo kraf we i gud blong ol adult we oli gat dementia oli luk mo oli filim olsem ol adult: pent long wota, kolaj long ol magasin, flaoa arenjmen, kle, mekem kad, o ol pej blong kalarem blong adult. Putumaot sam material, helpem long fes strok sipos i nid, toktok taem yu stap wok, mo luk taem we yu stap wetem olsem samting we i impoten. Wan pis we i finis hemi optional.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Jusum material mo tema we oli luk olsem adult, olsem pepa blong pent long wota, flaoa we oli trufala mo pija long magasin, no glitta, sitika o ol wok sit blong kartun."
+  - "Fokas long proses: ol kolas, filin blong kle, toktok. Wan pis we i finis hemi wan bonus, no hemi gol."
+  - "Givim wan purpos taem yu save, olsem wan kad blong wan pikinini blong famili o wan centerpiece blong tebol."
+  - "Helpem man o woman i stat, then i stap bak. Stat wan strok blong bras togeta ofen i enak finis."
+  - "Ol project oli no nid blong finisim long wan sitting, mo stopem erli i oltaem i stret."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Hao mi save stopem kraf blong no kam pikinini?"
+    a: "Yusum ol real art material, tema blong adult mo tok we i gud mo i respect. Jenjem glitta mo ol pej blong kartun wetem pepa blong pent long wota, kloth, flaoa, pija long magasin mo ol pej blong kalarem we oli gat ol detel. No tok gud long wok olsem we yu tok gud long drowing blong pikinini; toktok long hem olsem yu toktok wetem eni adult frend."
+  - q: "Wanem art aktiviti i wok long las stej blong dementia?"
+    a: "Ol project we oli simpol mo oli ritim filin oli wok moa taem: pentem ol bigfala strok wetem bigfala bras, skwiz soft kle, arenjem sam flaoa long wan vaes, o sortem ol pis kloth long filin. Yu save nidim stat movmen togeta. Lukim yu stap pentem mo toktok abaot ol kolas hemi wan rod blong tekem pat tu."
+  - q: "Wanem sipos oli talem se oli no save drowe?"
+    a: "Mekem i no stap presa. Traem ol project we i no gat rong ansa, olsem wan wash blong pent long wota, wan kolaj, o flaoa arenjmen. Yu save tu talem se yu nid helpem long wan samting spesifik, olsem jusum kolas blong wan kad, so wok i fil olsem wan fevo, no wan test."
+  - q: "Ol pej blong kalarem i tumas pikinini long ol adult?"
+    a: "No, taem oli dizaen blong ol adult. Jusum ol pej wetem ol sabjek blong ol adult olsem gaden, kwilt, ka o ol lanskep, mo presentem olsem samting blong relaks, no olsem wan lesen. Ol pej blong kalarem blong yumi oli save printem o kalarem long tablet tu."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +44,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Art mo kraf i givim ol man mo woman we oli gat dementia wan rod blong talem fasin blong olgeta, we i no depend long faendem ol rait wod. Alzheimer's Association i talem se ol art project oli save givim [sens blong acomplishment mo purpos](https://www.alz.org/help-support/caregiving/daily-care/art-music) mo wan jans blong expres fasin, long man we i kea mo long man we i gat dementia tu. Samting i impoten hemi blong kipem ol samting i stap adult, simpol mo no gat presa. Pej ia i givim ol project we i spesifik, hao blong setapem olgeta, mo hao blong adaptem olgeta taem samting i jenj.
 
-## What makes an art activity adult and not childish?
+## Wanem nao i mekem wan art aktiviti i adult mo no pikinini?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Wan art aktiviti we i adult i yusum ol real material, ol sabjek blong adult mo tok we i respect. Alzheimer's Association i advaesem blong kipem ol project long wan level blong adult mo blong avoidem eni samting we i save luk olsem i lesem dignity o olsem pikinini.
 
-| Feels childish | Feels adult |
+| I luk olsem pikinini | I luk olsem adult |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Glitta, sitika blong foam, ol ae blong gugu | Pepa blong pent long wota, kloth, pressed flaoa |
+| Ol pej blong kalarem we oli kartun | Ol pej blong kalarem blong ol gaden, kwilt, ka o lanskep |
+| "Gud wok" blong evri mak | Toktok we i tru: "Blu ia i gud wetem grin" |
+| Wan kraf we i no gat yus | Wan kad blong wan fren, wan centerpiece, wan presen |
+| Ol instraksen i luk olsem wan lesen | Wan invitesen: "Yu save helpem mi long samting ia?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Tingem abaot fasin blong man ya. Wan man we i laekem wok nidol i save injoem fil blong kloth. Wan man we i wok long masin i save laekem wan model kit wetem bigfala pis, o sortem hadwea blong wan project. Wan fomer tisa i save laekem mekem kad.
 
-## Why focus on the process, not the product?
+## Wae nao i stap fokas long proses, no long samting we i finis?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Bikos taem we oli stap wetem i nao i pointi. Gaed blong Alzheimer's Association abaot [aktiviti long hom](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) i talem blong fokas long proses, no long resalt. Wan pentin we i "blu nomo" i stil wan pentin. Wan kolaj we i gat tri pija i stil wan kolaj.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Association i talem tu se wan profesenol atis save fil hevi taem ol jenj i kam long wok blong hem, be wan man we i no profesenol save injoem wan nyu jans blong expres fasin blong hem. Sipos man we i wok gud long art, traem wan narafala midiam we hemi no bin mastem, blong i kam olsem play, no olsem komperisen.
 
-## Arts and crafts ideas to try
+## Ol art mo kraf aedia blong traem
 
-Each idea includes how to make it simpler if it becomes hard.
+Wan aedia i gat ol hao blong mekem i simpol sipos i kam hard.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Pent long wota.** Mekem wan sit blong heve pepa blong pent i wet long wota, mo letem man i drop kolas long hem wetem bigfala bras. Ol kolas bambae oli spred bitim blong olgeta, so i no gat rong sawt. *Simpler:* ofem tu kolas nomo, o pentem wetem wota long dak pepa we i sowem ol wet mak.
+2. **Kolaj long magasin.** Katem ol pija long magasin bifo, long ol samting olsem gaden, kukum, ka, trevel o ol hobi blong man long bifo. Letem hem i jusum mo glu ol pija long kad pepa. *Simpler:* ofem fo pija we yu katem finis mo wan glu stik, mo yu mo hem i glu wok togeta.
+3. **Flaoa arenjmen.** Alzheimer's Foundation of America i sajestem [arenjem katem flaoa mo grin](https://alzfdn.org/dementia-activity-gardening/) long ol simpol displei blong ol seson. Yusum wan hevi, stedi vaes mo ol stem we oli trim finis. *Simpler:* putum sam stem long wan smol kap, wan wan.
+4. **Kad blong pressed flaoa.** Pressem flaoa long ol pej blong wan buk for wan wik, then glu long ol fold kad pepa. *Simpler:* yu putum glu, mo hem i pressem flaoa daon.
+5. **Pej blong kalarem blong adult.** Jusum ol pej we i gat klia aotlaen mo ol sabjek we oli real. Ol [pej blong kalarem](/games/coloring/) blong yumi we yu save printem, oli save tu kalarem long skrin taem yu tajem wan kolas, then wan pat blong pija. *Simpler:* ol eria we oli bigfala, ol kolas we oli smol, mo ol marka we oli tik.
+6. **Kle o soft dough.** Rolem, pressem mo sheipem air-dray kle o soft modeling dough. Pressem wan lif i go long kle i mekem wan simpol tile wetem imprint. *Simpler:* jus skwiz mo rolem i wan fulfil aktiviti. Lukaotem se man i no putum kle long mausen.
+7. **Mekem kad.** Alzheimer's Association i sajestem fremem i wan riel wok: "Mifala i sendem wan kad blong gud long wan fren. Yu save helpem mi?" Ol prekat kad pepa mo sam sitika blong flaoa o stamp oli wok gud.
+8. **Skrapbuk.** Putum ol kopi blong ol olfala pija, postcard o tiket long ol album pej togeta. Toktok abaot each wan taem yu wok. Lukim [gaed blong rimemba](/activities/reminiscence/) blong ol gentel wei blong toktok abaot pas.
+9. **Kloth mo tekstja bod.** Glu ol smol pis blong kodrɔy, velvet, burlap mo silk long stiff kad. Mekem hemi wan aktiviti; tajem hemi bihaen i wan narafala. Mo aedia i stap long [gaed blong sensory aktiviti](/activities/sensory/).
+10. **Simpol wud finisin.** Blong man we i laekem wud wok, sanem wan smol blok wud i stap smut, o pentem wan birdhaos kit i save fil olsem wan samting we hem i save. Tekemaot ol sap tul mo lukaotem.
+11. **Pentem long musik.** Putum wan favorit rekod mo pentem ol sep o kolas we i makem wetem fil. Hemi joenem tu aktiviti we plande man i enjoem. Lukim [aktiviti long musik](/activities/music/).
 
-## How do I set up an art session?
+## Hao nao mi save setapem wan sesen blong art?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Prepea fos.** Katem, trim mo putumaot evri samting bifo yu invitem man ya. Wet taem yu serjem ol sisa i save lusum moment.
+2. **Kipem i smol.** Tu o tri kolas, wan bras, wan pis pepa. Tumas jus i save kasem.
+3. **Protectem tebol.** Wan plastik kaman o wan ol sit i mekem mes i no wan wari.
+4. **Sitdaon sait bae sait.** Wok long pis blong yu klosap long blong olgeta. I filim olsem wan samting we yumi sherem, no olsem wan we yu lukaotem.
+5. **Helpem olgeta i stat.** Alzheimer's Association i talem yu save nidim stat bras movmen wetem man ya. Taem i stat, plande man i save kontinyu.
+6. **Toktok taem yu wok.** Komentem ol kolas mo tekstja, o letem art i lidim ol stori. Avoidem ol kwestin olsem kwis: "Wanem nao ia?"
+7. **Letem plande taem.** Wan project i no nid blong finisim long wan sitting.
 
-## How do I adapt art as dementia changes?
+## Hao nao mi save adaptem art taem dementia i jenj?
 
-| Stage | What tends to work | What to adjust |
+| Stej | Wanem i wok | Wanem blong jenjem |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Stat | Kas, detel kalarem, skrapbuk, mekem kad, pentem long pija | Ofem jes blong project; kipem i sosol |
+| Midol | Kolaj we oli katem finis, wash blong pent long wota, flaoa arenjmen, kalarem wetem bigfala ples | Wan step long wan taem; yu save katem mo glu |
+| Las | Bigfala strok long bras, skwiz kle, tajem kloth, lukim yu stap pentem | Fokas long sens; gaedem han gently sipos i welkam |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS i talem se long las stej, ol aktiviti oli oftenn simpolem mo fokas long sens. Lukim narafala man i stap pentem, mo toktok abaot ol kolas, hemi wan riel wei blong tekem pat tu. Blong ol moa aedia stap-bae-stap, lukim [aktiviti blong evri stej](/activities/ideas/).
 
-## Safety with art supplies
+## Seifti wetem ol art sepleis
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Jusum ol pent, ol marka mo ol glu stik we oli no gat toksik.
+- Kipem sisa, naef blong kraf mo hot glu gan i farawe long reach. Yu wan nomo i katem long taem bifo.
+- Lukaot long man we i putum kle, pent o smol samting long mausen.
+- Yusum ol stedi, hevi kontena blong wota mo vaes.
 
-## When should we stop?
+## Wanem taem nao mi save stopem?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Stopem taem atensen i go, o frustrasen i sho. Putum projek i stap long wan seif ples mo ofem wan samting we i restful. Yu save kam bak tumora, o yu no kam bak nating. Eni wan i fin.
 
-## Display the work, if the person wants
+## Soem wok blong soem, sipos man ya i wantem
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Pinem wan pentin long fridj o fremem wan kolaj i save wan kwaet wei blong soem rispekt. Askem fastaem. Sam man oli laekem luk wok blong olgeta long wol; ol narafala oli no wantem.
 
-## Pair art with our games
+## Pemem art wetem ol gem blong mifala
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Long ol dei we setapem ol pent i tumas, [Kalarem](/games/coloring/) i wok long tablet wetem no mes. [Pikja Puzol](/games/picture-puzzle/) i kipem olgeta pija i luk ol long gaed taem yu jenjem ol pis. [Konvesesen Kad](/games/conversation-cards/) i ofem ol open promt we i save lidim long wan pija i go long wan stori. Olgeta oli no gat taem o skoa. Yu save tu printem ol pej long [printabol aktiviti](/activities/printable/) kalekson blong mifala.
