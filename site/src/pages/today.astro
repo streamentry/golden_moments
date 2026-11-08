@@ -79,6 +79,18 @@ import { Today } from '../tools/Today';
   .today__status:empty {
     display: none;
   }
+  .today__status:not(:empty) {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    padding: var(--space-sm) var(--space-md);
+    background: var(--gm-primary-container);
+    color: var(--gm-on-primary-container);
+    border: 1px solid var(--gm-primary);
+    border-radius: var(--radius-md);
+    font-weight: 700;
+    margin-bottom: var(--space-lg);
+  }
   .today__day ul {
     list-style: none;
     padding: 0;
@@ -124,6 +136,12 @@ import { Today } from '../tools/Today';
     .today__day li {
       border-bottom: 2px solid #000000;
     }
+    .today__status:not(:empty) {
+      border: 2px solid #000000;
+      background: #FFFFFF;
+      color: #000000;
+      font-weight: 800;
+    }
   }
   @media (forced-colors: active) {
     .today__choice {
@@ -149,6 +167,10 @@ import { Today } from '../tools/Today';
     }
     .today__day li {
       border-bottom: 2px solid CanvasText;
+    }
+    .today__status:not(:empty) {
+      border: 2px solid Highlight;
+      outline: 1px solid Highlight;
     }
   }
   @media print {
