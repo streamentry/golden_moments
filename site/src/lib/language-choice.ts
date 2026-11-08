@@ -61,3 +61,13 @@ export function readCookie(cookies: string, name: string = LANGUAGE_COOKIE): str
 export function choiceCookie(code: string): string {
   return `${LANGUAGE_COOKIE}=${encodeURIComponent(code)}; Path=/; Max-Age=31536000; SameSite=Lax`;
 }
+
+/**
+ * Detects a valid locale code from a URL pathname prefix (e.g. '/es/...' -> 'es').
+ */
+export function detectPathLocale(pathname: string, validLocales: readonly string[]): string | null {
+  const match = pathname.match(/^\/([a-z]{2,3}(?:-[a-z]{2,4})?)(?:\/|$)/i);
+  if (!match) return null;
+  const code = match[1]?.toLowerCase();
+  return validLocales.find((l) => l.toLowerCase() === code) ?? null;
+}

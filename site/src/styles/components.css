@@ -888,9 +888,17 @@ summary {
   .breadcrumbs [aria-current='page'] {
     color: #000000;
     font-weight: 800;
+    border-bottom: 2px solid #000000;
   }
   .breadcrumbs li:not(:last-child)::after {
-    color: #222222;
+    color: #000000;
+    font-weight: 800;
+  }
+  .lang-menu a[aria-current] {
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    outline: 2px solid #FFFFFF;
+    outline-offset: 2px;
   }
   .site-nav a[aria-current='page'],
   .site-nav a[data-active='true'] {
@@ -920,6 +928,14 @@ summary {
   }
   .breadcrumbs [aria-current='page'] {
     font-weight: 800;
+    border-bottom: 2px solid Highlight;
+  }
+  .breadcrumbs li:not(:last-child)::after {
+    color: CanvasText;
+  }
+  .lang-menu a[aria-current] {
+    outline: 2px solid Highlight;
+    outline-offset: 2px;
   }
   .site-nav a[aria-current='page'],
   .site-nav a[data-active='true'] {

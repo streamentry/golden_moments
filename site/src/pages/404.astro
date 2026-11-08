@@ -7,9 +7,26 @@ import Icon from '../components/Icon.astro';
     <h1>We could not find that page</h1>
     <p class="lede">It may have moved. Here are good places to start instead.</p>
     <div class="btn-row">
-      <a class="btn btn--primary btn--hero" href="/games/picture-pairs/"><Icon name="play" />Play a Game</a>
-      <a class="btn" href="/activities/">Activity ideas</a>
-      <a class="btn btn--quiet" href="/">Home</a>
+      <a class="btn btn--primary btn--hero" href="/games/picture-pairs/" data-role="game"><Icon name="play" />Play a game</a>
+      <a class="btn" href="/activities/" data-role="activities">Activity ideas</a>
+      <a class="btn btn--quiet" href="/" data-role="home">Home</a>
     </div>
   </div>
 </BaseLayout>
+
+<script>
+  import { detectPathLocale, readCookie } from '../lib/language-choice';
+  import { PUBLISHED } from '../i18n/ui';
+
+  const validCodes = PUBLISHED.map((l) => l.code);
+  const lang = detectPathLocale(location.pathname, validCodes) ?? readCookie(document.cookie);
+  if (lang && lang !== 'en' && validCodes.includes(lang)) {
+    const prefix = `/${lang}`;
+    document.querySelectorAll<HTMLAnchorElement>('[data-role]').forEach((a) => {
+      const role = a.dataset.role;
+      if (role === 'game') a.href = `${prefix}/games/picture-pairs/`;
+      else if (role === 'activities') a.href = `${prefix}/activities/`;
+      else if (role === 'home') a.href = `${prefix}/`;
+    });
+  }
+</script>
