@@ -55,5 +55,5 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 39 | *Next in queue* | Pending |
+| 39 | Loop run 2026-11-08 (research pass) | Checked, no code change. Candidates and two maintainer decisions are in [loop-2026-11-08.md](loop-2026-11-08.md) |
 | 40–100 | Planned one by one | Pending |
