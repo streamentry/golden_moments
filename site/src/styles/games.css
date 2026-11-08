@@ -743,6 +743,14 @@
   user-select: none;
   -webkit-user-select: none;
   -webkit-user-drag: none;
+  transition: transform var(--duration-fast) var(--ease-out);
+}
+.called li {
+  display: inline-flex;
+}
+.called li:hover img {
+  outline: 2px solid var(--gm-primary);
+  outline-offset: 1px;
 }
 
 /* Breathing */
@@ -1103,6 +1111,24 @@
   .puzzle-guide img {
     border: 2px solid #000000;
   }
+  .caller,
+  .caller__print,
+  .target__print,
+  .say-card,
+  .talk-card {
+    border: 2px solid #000000;
+  }
+  .caller__print img,
+  .target__print img,
+  .talk-card img {
+    border: 2px solid #000000;
+  }
+  .target__print--shadow img {
+    opacity: 1 !important;
+  }
+  .called li:hover img {
+    outline: 2px solid #000000;
+  }
 }
 
 @media (forced-colors: active) {
@@ -1195,5 +1221,24 @@
   }
   .puzzle-guide img {
     border: 2px solid CanvasText;
+  }
+  .caller,
+  .caller__print,
+  .target__print,
+  .say-card,
+  .talk-card {
+    border: 2px solid CanvasText;
+  }
+  .caller__print img,
+  .target__print img,
+  .talk-card img,
+  .called img {
+    border: 2px solid CanvasText;
+  }
+  .target__print--shadow img {
+    opacity: 1;
+  }
+  .called li:hover img {
+    outline: 2px solid Highlight;
   }
 }

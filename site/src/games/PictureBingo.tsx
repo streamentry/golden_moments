@@ -29,6 +29,7 @@ export default function PictureBingo(props: PlayProps) {
   }, [squares, players]);
 
   const newGame = () => {
+    sounds.tap();
     setCalls(createCallOrder(POOL, createRng(randomSeed())));
     setCalled(0);
   };
@@ -103,8 +104,8 @@ export default function PictureBingo(props: PlayProps) {
               <h2 className="caller__heading">{ui.pictureBingo.alreadyCalled}</h2>
               <ul className="called">
                 {calls.slice(0, called - 1).reverse().map((id) => (
-                  <li key={id}>
-                    <img src={pictureUrl(id)} alt={pictureName(id)} width={52} height={52} />
+                  <li key={id} title={pictureName(id)}>
+                    <img src={pictureUrl(id)} alt={pictureName(id)} title={pictureName(id)} width={52} height={52} />
                   </li>
                 ))}
               </ul>

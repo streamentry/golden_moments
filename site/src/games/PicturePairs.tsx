@@ -7,6 +7,7 @@ import { createRng, randomSeed, sample } from '../lib/games/random';
 import { ChoiceChips } from './shared/ChoiceChips';
 import { GameFrame } from './shared/GameFrame';
 import { PairsBoard } from './shared/PairsBoard';
+import { sounds } from './shared/sound';
 
 const SIZES = [4, 6, 8, 12] as const;
 
@@ -26,6 +27,7 @@ export default function PicturePairs(props: PlayProps) {
   );
 
   const restart = () => {
+    sounds.tap();
     setDone(false);
     setRound((r) => r + 1);
   };
@@ -41,6 +43,7 @@ export default function PicturePairs(props: PlayProps) {
       ui={ui}
       lang={lang}
       guidance={view === 'showing' ? ui.picturePairs.guidanceShowing : ui.picturePairs.guidanceHidden}
+      readAloudText={message || (view === 'showing' ? ui.picturePairs.guidanceShowing : ui.picturePairs.guidanceHidden)}
       message={message}
       onRestart={restart}
       restartLabel={ui.picturePairs.restart}

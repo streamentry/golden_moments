@@ -901,6 +901,7 @@ summary {
   }
   .card,
   .guide-card,
+  .game-card__print,
   .aside-box,
   .faq details,
   .answer {
@@ -954,6 +955,7 @@ summary {
   }
   .card,
   .guide-card,
+  .game-card__print,
   .aside-box,
   .faq details,
   .answer {
