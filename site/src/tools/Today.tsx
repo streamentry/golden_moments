@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { SITUATIONS, SITUATION_BY_ID, type SituationId } from '../lib/today/situations';
-import { addNote, byDay, loadNotes, localDay, removeNote, saveNotes, type Note, type Outcome } from '../lib/today/notes';
+import { addNote, byDay, loadNotes, localDay, removeNote, removeNoteAriaLabel, saveNotes, type Note, type Outcome } from '../lib/today/notes';
 import { sounds } from '../games/shared/sound';
 
 const OUTCOME_LABEL: Record<Outcome, string> = {
@@ -173,6 +173,7 @@ export function Today() {
                       <button
                         type="button"
                         className="btn btn--quiet"
+                        aria-label={removeNoteAriaLabel(SITUATION_BY_ID.get(n.situation)?.label)}
                         onClick={() => {
                           sounds.tap();
                           commit(removeNote(notes, n.id), 'Note removed.');

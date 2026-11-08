@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { MAX_NOTES, MAX_TEXT, addNote, byDay, loadNotes, parseNotes, removeNote, saveNotes, type Note } from './notes';
+import { MAX_NOTES, MAX_TEXT, addNote, byDay, loadNotes, parseNotes, removeNote, removeNoteAriaLabel, saveNotes, type Note } from './notes';
 
 const note = (over: Partial<Note> = {}): Note => ({
   id: 'a',
@@ -76,5 +76,11 @@ describe('notes', () => {
     const ok = memoryStorage();
     expect(saveNotes(ok, [note()])).toBe(true);
     expect(loadNotes(ok)).toEqual([note()]);
+  });
+
+  it('formats an accessible remove button label', () => {
+    expect(removeNoteAriaLabel('Asking to go home')).toBe('Remove note for Asking to go home');
+    expect(removeNoteAriaLabel(undefined)).toBe('Remove note');
+    expect(removeNoteAriaLabel('')).toBe('Remove note');
   });
 });

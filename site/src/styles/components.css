@@ -688,6 +688,19 @@
   padding-inline-start: 1.4em;
   font-size: var(--text-md);
 }
+.toc ol a {
+  color: var(--gm-primary);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.toc ol a:hover {
+  color: var(--gm-on-surface);
+}
+.toc ol a:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
 .toc li {
   margin-bottom: 6px;
 }
@@ -986,6 +999,12 @@ a.small-print {
   display: inline-flex;
   align-items: center;
   min-height: 48px;
+  color: var(--gm-primary);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+a.small-print:hover {
+  color: var(--gm-on-surface);
 }
 a.small-print:focus-visible {
   outline: 3px solid var(--gm-primary);
@@ -1007,6 +1026,19 @@ summary {
   overflow-wrap: anywhere;
 }
 
+/* Vestibular motion preferences: prevent jarring hover jumps and active depression */
+@media (prefers-reduced-motion: reduce) {
+  .btn,
+  .btn:active,
+  .btn--primary:active,
+  .card,
+  .card:hover,
+  .card:focus-within {
+    transform: none !important;
+    transition: none !important;
+  }
+}
+
 /* High contrast preferences: support for users with cataract, macular or cognitive contrast loss */
 @media (prefers-contrast: more) {
   :root {
@@ -1018,9 +1050,9 @@ summary {
     color: #000000;
     font-weight: 800;
   }
-  .btn {
-    border-width: 3px;
-    border-color: #000000;
+  .btn:hover {
+    background: #000000;
+    color: #FFFFFF;
   }
   .btn:focus-visible {
     outline: 4px solid #000000;
@@ -1032,12 +1064,22 @@ summary {
     color: #FFFFFF;
     border-color: #000000;
   }
+  .btn--primary:hover {
+    background: #000000;
+    color: #FFFFFF;
+    outline: 2px solid #000000;
+  }
   .btn--quiet {
     border: 2px solid #000000;
+  }
+  .btn--quiet:hover {
+    background: #000000;
+    color: #FFFFFF;
   }
   .btn[aria-pressed='true'] {
     border: 4px solid #000000;
     background: #FFFFFF;
+    color: #000000;
   }
   .card,
   .guide-card,
@@ -1061,6 +1103,14 @@ summary {
   .answer__label {
     color: #000000;
     font-weight: 800;
+  }
+  a.small-print {
+    color: #000000;
+    font-weight: 800;
+    text-decoration-thickness: 2px;
+  }
+  a.small-print:hover {
+    text-decoration-thickness: 3px;
   }
   a.small-print:focus-visible {
     outline: 4px solid #000000;
@@ -1121,6 +1171,14 @@ summary {
   .toc ol a {
     color: #000000;
     text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+  }
+  .toc ol a:hover {
+    text-decoration-thickness: 3px;
+  }
+  .toc ol a:focus-visible {
+    outline: 3px solid #000000;
+    outline-offset: 2px;
   }
   .faq summary:hover {
     color: #000000;
@@ -1318,6 +1376,10 @@ summary {
   .btn {
     border: 2px solid ButtonText;
   }
+  .btn:hover {
+    border-color: Highlight;
+    color: Highlight;
+  }
   .btn:focus-visible {
     outline: 3px solid Highlight;
     outline-offset: 3px;
@@ -1327,8 +1389,17 @@ summary {
     border: 3px solid Highlight;
     outline: 2px solid Highlight;
   }
+  .btn--primary:hover {
+    border-color: Highlight;
+    color: Highlight;
+    outline-color: Highlight;
+  }
   .btn--quiet {
     border: 2px solid ButtonText;
+  }
+  .btn--quiet:hover {
+    border-color: Highlight;
+    color: Highlight;
   }
   .btn[aria-pressed='true'] {
     border-color: Highlight;
@@ -1356,6 +1427,12 @@ summary {
   .answer__label {
     color: CanvasText;
     font-weight: 800;
+  }
+  a.small-print {
+    color: LinkText;
+  }
+  a.small-print:hover {
+    color: Highlight;
   }
   a.small-print:focus-visible {
     outline: 3px solid Highlight;
@@ -1405,6 +1482,13 @@ summary {
   }
   .toc ol a {
     color: LinkText;
+  }
+  .toc ol a:hover {
+    color: Highlight;
+  }
+  .toc ol a:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 2px;
   }
   .faq summary:hover {
     color: Highlight;

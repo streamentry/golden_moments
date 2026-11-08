@@ -32,6 +32,9 @@ import { Today } from '../tools/Today';
     justify-content: flex-start;
     text-align: left;
   }
+  .today__choice:focus-visible {
+    border-radius: var(--radius-lg);
+  }
   .today__choice[aria-pressed='true'] {
     background: var(--gm-primary-container);
     color: var(--gm-on-primary-container);
@@ -75,6 +78,10 @@ import { Today } from '../tools/Today';
     font: inherit;
     font-size: var(--text-lg);
     margin-bottom: var(--space-md);
+  }
+  .today__text:focus-visible {
+    outline: 3px solid var(--gm-primary);
+    outline-offset: 2px;
   }
   .today__status:empty {
     display: none;
